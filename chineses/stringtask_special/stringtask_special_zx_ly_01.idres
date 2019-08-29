@@ -19,7 +19,7 @@ DialogID_13017=　　你快去呀，去晚了他们把粮食都搬完了。
 DialogID_13019=嗯？是信使吧？信使把信送去驿站前，都喜欢在西门城墙下面歇歇脚，你去那儿瞧瞧吧。
 DialogID_13021=<s>那是《血海魔刀》？小子，你可知道欺骗我是什么下场？
 DialogID_13022=　　你身手确是不弱，只是等会千万要小心，击退他们便可，不要弄出人命，不然我这分舵难免被人盯上，这可大是麻烦。
-DialogID_13023=<s>想要有所成就并非一朝一夕之事，，你还需多多练习。在这武馆之内，你大可放开手脚，安心练习，日后方能成大事。
+DialogID_13023=<s>No one can make achievements overnight and you must practice more. You may act and practice freely inside the Martial Arts School before you realize your dream in the future.
 QiecuoMenu_13002=<font face="Default" color="#ffffff" >你……你……你想干什么？我可是练……练过的……</font>
 QiecuoMenu_13003=那我就不客气了，你留心着吧，等会别喊疼。
 QiecuoMenu_13004=<font face="Default" color="#8fd6ef" >（他爷爷的，不是仇人不相逢，运气真背，看来是跑不掉了，跟他拼了，前天找的石灰粉正好派上用场，哼哼）</font>
@@ -36,7 +36,7 @@ QiecuoTitle_13009=<s>那就别怪我不客气了。
 QiecuoTitle_13013=<s>多说无益，今天不将你手刃，我怎么对得起我死去的兄弟啊！
 SubmitNpcEx_26001=<s>抓到了老母鸡，赶紧给<a href="findnpc_new,city04,WorldNpc10535" style="HLStype1">张婆婆</a>送去罢
 SubmitNpcEx_26002=<s><a href="findnpc_new,city04,WorldNpc10535" style="HLStype1">婆婆</a>微笑着站在一旁，看我大口地吃完了汤面
-SubmitNpcEx_26003=  <a href="findnpc_new,city04,WorldNpc10536" style="HLStype1">村长</a>老头子不知道又在发什么愁，我看是小便宜占多了，报应咯
+SubmitNpcEx_26003=<a href="findnpc_new,city04,WorldNpc10536" style="HLStype1">村长</a>老头子不知道又在发什么愁，我看是小便宜占多了，报应咯
 SubmitNpcEx_26013=　　完成大师兄交代的事之后出去找师傅<a href="findnpc_new,city04,WorldNpc10005" style="HLStype1">王大力</a>
 SubmitNpcEx_26015=那有个捕快，<a href="findnpc_new,city04,WorldNpc10542" style="HLStype1">快去求助他</a>吧！
 SubmitNpcEx_26027=出武馆找<a href="findnpc_new,city04,WorldNpc10005" style="HLStype1">王大力</a>
@@ -74,8 +74,8 @@ interactinfo_13007=在<a href="findnpc_new,city04,EventNpc26015_1" style="HLStyp
 interactinfo_13008=看来他不是我的敌手，哈哈，看<a href="findnpc_new,city04,WorldNpc10542" style="HLStype1">他</a>还怎么嚣张
 interactinfo_13009=<a href="findnpc_new,city04,EventNpc26016" style="HLStype1">逃跑</a>
 interactinfo_13010=问<a href="findnpc_new,city04,WorldNpc10544" style="HLStype1">小青</a>发生了什么事
-interactinfo_13011=与<a href="findnpc_new,city04,WorldNpc10051" style="HLStype1">朴万秋</a>交谈
-interactinfo_13012=与<a href="findnpc_new,city04,WorldNpc10051" style="HLStype1">朴万秋</a>交谈
+interactinfo_13011=Talk with <a href="findnpc_new,city04,WorldNpc10051" style="HLStype1">Piao Wanqiu</a>
+interactinfo_13012=Talk with <a href="findnpc_new,city04,WorldNpc10051" style="HLStype1">Piao Wanqiu</a>
 interactinfo_13013=与<a href="findnpc_new,city04,WorldNpc10545" style="HLStype1">詹达</a>交谈
 interactinfo_13014=<a href="findnpc_new,city04,EventNpc26025" style="HLStype1">逃跑</a>
 interactinfo_13015=<a href="findnpc_new,city04,EventNpc26026" style="HLStype1">逃跑</a>
@@ -85,7 +85,7 @@ interactinfo_13018=<a href="findnpc_new,city04,EventNpc26010" style="HLStype1">�
 interactinfo_13019=去问问<a href="findnpc_new,city04,WorldNpc10120" style="HLStype1">那位姑娘</a>信使位置
 interactinfo_13020=眼里进了石灰粉够他忙活的了，趁他还没喊帮手还是<a href="findnpc_new,city04,EventNpc26015_2" style="HLStype1">赶快跑吧</a>
 interactinfo_13021=把书给<a href="findnpc_new,city04,WorldNpc10539" style="HLStype1">吴雪冰</a>看
-interactinfo_13022=与<a href="findnpc_new,city04,WorldNpc10051" style="HLStype1">朴万秋</a>交谈
+interactinfo_13022=Talk with <a href="findnpc_new,city04,WorldNpc10051" style="HLStype1">Piao Wanqiu</a>
 interactinfo_13023=去武馆内部找大师兄<a href="findnpc_new,groupscene005,Qiecuo_jiaoxue006" style="HLStype1">吴斌雪</a>请教
 okmenu_13001=<font face="Default" color="#ffffff" >我是读书人，将来要做大事的。抓鸡这种小事，焉能用牛刀？</font>
 okmenu_13002=<font face="Default" color="#ffffff" >哦？那我等会去，先说好啊，至少得分个鸡腿给我。</font>
@@ -107,7 +107,7 @@ okmenu_13017=（真烦）我先舒展舒展筋骨，一会好替你教训他们�
 okmenu_13019=这位小姐，我们村送信的人刚才到了洛阳城，你可见到这么一个人？
 okmenu_13021=<font face="Default" color="#ffffff" >我哪敢骗大爷您呢，这确是秘笈无疑。想是那魔刀老祖恐怕引人怀疑，故意把秘笈写得不像秘笈，也是有的。</font>
 okmenu_13022=放心吧，我自有分寸。
-okmenu_13023=谢师兄指点，我一定勤加苦练。
+okmenu_13023=Thank you for your instructions, Elder Brother. I'll work hard.
 story_13001_1=　　我儿子在燕京当差，还成了亲，娶的是个富家小姐。我做了一辈子农民，儿子倒是混出头了。
 story_13001_2=　　二十什么？还写了什么？你倒是往下念呀。
 story_13001_3=哦，挺好的，本就不用挂念我这糟老头……
@@ -122,15 +122,15 @@ story_13004_3=<s>难道这老者便是磨刀老祖？少侠你果真学过《血
 story_13005_1=你便是魔刀老祖的传人么？速速随我去我兄弟坟前就死，我要拿你的血祭奠我兄弟。
 story_13005_2=怎么不是，我结义兄弟端木琪，当年就是死在魔刀老祖的血海魔刀之下。他身上血肉被那一片片地割下来，死得悲惨至极……
 story_13005_3=　　哼，没有瓜葛？那你怎么会血海魔刀中的武功，何况江湖上人人都说你就是他的传人。
-story_menu_13001=一封家书
-story_menu_13002=武学之道
+story_menu_13001=A Letter to a persons family.
+story_menu_13002=The Doctrines of Martial Arts
 story_menu_13003=拜师习武
 story_menu_13004=丐帮堂主
 story_menu_13005=魔刀恩仇
 storyinfo_13001=告诉<a href="findnpc_new,city04,WorldNpc10536" style="HLStype1">乌夏</a>信上的内容
 storyinfo_13002=听<a href="findnpc_new,city04,WorldNpc10005" style="HLStype1">王大力</a>说教
 storyinfo_13003=向<a href="findnpc_new,city04,WorldNpc10289" style="HLStype1">孟南</a>请教
-storyinfo_13004=与<a href="findnpc_new,city04,WorldNpc10051" style="HLStype1">朴万秋</a>交谈
+storyinfo_13004=Talk with <a href="findnpc_new,city04,WorldNpc10051" style="HLStype1">Piao Wanqiu</a>
 storyinfo_13005=听<a href="findnpc_new,city04,WorldNpc10545" style="HLStype1">詹达</a>诉说
 storymenu_13001_1=你儿子说，他不当差啦，在燕京帮他老丈人打理生意，每日里经手的都是白花花的银子。这次还有二十……
 storymenu_13001_2=不是二，他是说这两年都不回来见你啦。（二十两银子存在洛阳钱庄？乖乖，那是多少钱啊！）

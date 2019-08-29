@@ -81,15 +81,11 @@ story_9814_1=<font face="Default" color="#ffffff" >If you wish to embrace chaos,
 story_9814_2=<font face="Default" color="#ffffff" >Very wise! How about a little game then?</font>
 story_9815_1=<font face="Default" color="#ffffff" >Good. Always remember to obey my orders, or you too will meet the same fate. Is that clear?</font>
 story_9815_2=<font face="Default" color="#ffffff" >Good. Now, swear loyalty to me and you will be one of us.</font>
-story_9850_1=<font face="Default" color="#ffffff" >Recently, most of the people coming through the Ruined Valley have been disciples from the Eight Schools. Now, they have all gone to Mount Hua. I am just in charge of transporting people. I usually don't ask too many questions that I am not supposed to ask. Although I don't know why they are heading to Mount Hua, I do get the sense that something big is about to happen in Jianghu.</font>
 story_9850_2=<font face="Default" color="#ffffff" >I hear that there is a Wanderer's Valley disciple still in the Ruined Valley. He previously came with those disciples from the other schools. From my observation, he seems a bit careless, you may be able to get some information from him.</font>
 story_9851_1=<font face="Default" color="#ffffff" >Each of the Eight Schools has different requirements for accepting new disciples. I can tell you what they are for each of the schools.</font>
 story_9851_2=<font face="Default" color="#ffffff" >For example, if you want to join Shaolin, you have to be male. If you want to join Emei, you have to be female.</font>
 story_9851_3=<font face="Default" color="#ffffff" >Also, if you want to join the Beggar's Sect, you have to learn how to beg. If you want to join the Scholars, you have to know either music, Weiqi, calligraphy, or painting. Other schools such as Wudang, the Royal Guards, Wanderer's Valley, and Tangmen have more relaxed rules, and do not have so many conditions.</font>
-story_9852_1=<font face="Default" color="#ffffff" >Today, there are several organizations that are quite powerful. A few worth mentioning are the Golden Needle Sect (the Shen Family), Xu Family Manor, Beast Villa, the Rootless Clan, the Palace of Shifting Flowers, and Peach Blossom Island. You may have already learned about the Xu and the Shen families; let me tell you about the other four factions. </font><font color="#ee7621">(In order to join one of these six factions, you must be a Jianghu VIP player).</font>
 story_9854_1=<font face="Default" color="#ffffff" >The Palace of Shifting Flowers is located in Jade Valley, where the weather is exceptionally comfortable. The disciples of the palace are all aloof and proud. They punish anyone who mistreats women, and their punishment is most severe. </font><font color="#ee7621">(Unmarried females may randomly encounter a chance to join after they have completed Tier-2 Internal Skills in the Age of Wushu Record.)</font>
-story_9855_1=<font face="Default" color="#ffffff" >Peach Blossom Island is located in the East China Sea and is beautiful beyond imagination. The Island's disciples are all proud and unorthodox. They do not follow social norms or the law. All of the Island's disciples are experts in the Miraculous Shield Armor Skill. </font><font color="#ee7621">(In order to join Plum Blossom Island, you must learned in music, Weiqi, calligraphy, and painting. After completing Tier 2 Internal Skill for the Age of Wushu Record, you can join via a random encounter.)</font>
-story_9856_1=<font face="Default" color="#ffffff" >Recently, most of the people coming through the Ruined Valley have been disciples from the Eight Schools. Now, they have all gone to Mount Hua. I am just in charge of transporting people. I usually don't ask too many questions that I am not supposed to ask. Although I don't know why they are heading to Mount Hua, I do get the sense that something big is about to happen.</font>
 story_9856_2=<font face="Default" color="#ffffff" >I hear there is a Wanderer's Valley disciple still in the Ruined Valley. He came with those disciples from the other schools. Get some information from him.</font>
 story_menu_9810=<font face="Default" color="#ffffff" >I have released the pigeon.</font>
 story_menu_9811=<font face="Default" color="#ffffff" >I am ready for your test.</font>
@@ -101,7 +97,6 @@ story_menu_9850=<font face="Default" color="#ffffff" >Great Changes</font>
 story_menu_9851=<font face="Default" color="#ffffff" >Requirements for joining one of the Eight Schools</font>
 story_menu_9852=<font face="Default" color="#ffffff" >Jianghu Factions Introduction</font>
 story_menu_9854=<font face="Default" color="#ffffff" >Jianghu Force Shifting Flower Palace</font>
-story_menu_9855=<font face="Default" color="#ffffff" >Tell me more about Peach Blossom Island.</font>
 story_menu_9856=<font face="Default" color="#ffffff" >Great Changes</font>
 storyinfo_9810=Talk with <a href="findnpc_new,school06,WorldNpc02686" style="HLStype1">Han Shazhi</a>
 storyinfo_9811=Pass <a href="findnpc_new,school03,WorldNpc03305" style="HLStype1">Xiao Bieqing's</a> test
@@ -113,7 +108,6 @@ storyinfo_9850=Listen to <a href="findnpc_new,born02,Transbron02A" style="HLStyp
 storyinfo_9851=Listen to <a href="findnpc_new,city03,npc_wmp_2nzy_lphs" style="HLStype1">the downtrodden monk</a> describe the conditions for joining the Eight Schools.
 storyinfo_9852=Listen to <a href="findnpc_new,city03,npc_wmp_2nzy_lphs" style="HLStype1">the downtrodden monk</a> describe the new factions in Jianghu.
 storyinfo_9854=Listen to <a href="findnpc_new,city03,npc_wmp_2nzy_lphs" style="HLStype1">the downtrodden monk</a> describe the conditions for joining the Palace of Shifting Flowers.
-storyinfo_9855=Listen to <a href="findnpc_new,city03,npc_wmp_2nzy_lphs" style="HLStype1">the downtrodden monk</a> describe the conditions for joining Peach Blossom Island.
 storyinfo_9856=Listen to <a href="findnpc_new,born02,Transbron02A" style="HLStype1">Tu Yong</a> describe the great changes in recent times.
 storymenu_9810_1=<font face="Default" color="#ffffff" >I will report to the Abbess immediately.</font>
 storymenu_9811_1=<font face="Default" color="#ffffff" >"…spilling snow into the icy air."</font>
@@ -136,9 +130,7 @@ storymenu_9852_1=<font face="Default" color="#ffffff" >Interesting. Please go on
 storymenu_9852_2=<font face="Default" color="#ffffff" >Uh... This condition is quite difficult...</font>
 storymenu_9852_3=<font face="Default" color="#ffffff" >Uh...Rootless...I understand...</font>
 storymenu_9852_4=<font face="Default" color="#ffffff" >The Palace of Shifting Flowers is an interesting new unconventional organization.</font>
-storymenu_9852_5=<font face="Default" color="#ffffff" >The conditions for becoming a disciple of Peach Blossom Island are extremely difficult...</font>
 storymenu_9854_1=<font face="Default" color="#ffffff" >Sounds interesting. A most stark contrast from the Emei.</font>
-storymenu_9855_1=<font face="Default" color="#ffffff" >The conditions for joining Peach Blossom Island are challenging indeed.</font>
 storymenu_9856_1=<font face="Default" color="#ffffff" >So they all went to Mount Hua. Old man, if you can give me more information, I'll make it worth your while.</font>
 storymenu_9856_2=<font face="Default" color="#ffffff" >Thank you. I will go find this person.</font>
 useiteminfo_9801=Release the <a href="TASK_ITEM,useitem_brsm04" style="HLStype1">messenger pigeon</a>
@@ -152,8 +144,16 @@ specialinfo_926=Complete th Faction Challenge of<a href="findnpc_new,born03,TGnp
 specialinfo_927=Complete th Faction Challenge of<a href="findnpc_new,born01,TGnpc085" style="HLStype1">Evil Tiger Mountain Stronghold</a>
 specialinfo_928=Complete th Faction Challenge of<a href="findnpc_new,city04,TGnpc088" style="HLStype1">Baodu Stronghold</a>
 specialinfo_929=Complete th Faction Challenge of<a href="findnpc_new,school05,TGnpc091" style="HLStype1">Heaven Treasure Stronghold</a>
-specialinfo_930=Complete th Faction Challenge of<a href="findnpc_new,city05,TGnpc001" style="HLStype1">Huanhua Sword Sect</a>
 specialinfo_931=Complete th Faction Challenge of<a href="findnpc_new,school07,TGnpc094" style="HLStype1">Tiger Roaring Villa</a>
 specialinfo_932=Clear <a href="findnpc_new,city02,Transcity02H1" style="HLStype1">Twilight Village</a>
 specialinfo_933=Clear <a href="findnpc_new,city04,CloneDoorNpc00048" style="HLStype1">Green Cloud Castle</a>
+specialinfo_930=Complete th Faction Challenge of<a href="findnpc_new,city05,TGnpc001" style="HLStype1">Huanhua Sword Sect</a>
+story_9850_1=<font face="Default" color="#ffffff" >Recently, most of the people coming through the Ruined Valley have been disciples from the Eight Schools. Now, they have all gone to Mount Hua. I am just in charge of transporting people. I usually don't ask too many questions that I am not supposed to ask. Although I don't know why they are heading to Mount Hua, I do get the sense that something big is about to happen in Jianghu.</font>
+story_9856_1=<font face="Default" color="#ffffff" >Recently, most of the people coming through the Ruined Valley have been disciples from the Eight Schools. Now, they have all gone to Mount Hua. I am just in charge of transporting people. I usually don't ask too many questions that I am not supposed to ask. Although I don't know why they are heading to Mount Hua, I do get the sense that something big is about to happen.</font>
+story_9852_1=<font face="Default" color="#ffffff" >Today, there are several organizations that are quite powerful. A few worth mentioning are the Golden Needle Sect (the Shen Family), Xu Family Manor, Beast Villa, the Rootless Clan, the Palace of Shifting Flowers, and Peach Blossom Island. You may have already learned about the Xu and the Shen families; let me tell you about the other four factions. </font><font color="#ee7621">(In order to join one of these six factions, you must be a Jianghu VIP player).</font>
+story_9855_1=<font face="Default" color="#ffffff" >Peach Blossom Island is located in the East China Sea and is beautiful beyond imagination. The Island's disciples are all proud and unorthodox. They do not follow social norms or the law. All of the Island's disciples are experts in the Miraculous Shield Armor Skill. </font><font color="#ee7621">(In order to join Plum Blossom Island, you must learned in music, Weiqi, calligraphy, and painting. After completing Tier 2 Internal Skill for the Age of Wushu Record, you can join via a random encounter.)</font>
+story_menu_9855=<font face="Default" color="#ffffff" >Tell me more about Peach Blossom Island.</font>
+storyinfo_9855=Listen to <a href="findnpc_new,city03,npc_wmp_2nzy_lphs" style="HLStype1">the downtrodden monk</a> describe the conditions for joining Peach Blossom Island.
+storymenu_9852_5=<font face="Default" color="#ffffff" >The conditions for becoming a disciple of Peach Blossom Island are extremely difficult...</font>
+storymenu_9855_1=<font face="Default" color="#ffffff" >The conditions for joining Peach Blossom Island are challenging indeed.</font>
 

@@ -10,7 +10,6 @@ DialogID_58209=<font face="Default" color="#ffffff">The bandits of Baodu Strongh
 DialogID_58210=
 DialogID_58211=<font face="Default" color="#ffffff">Evidence suggests that the attackers are from the Tianxiang Tea Forest. Go there, and see what you find. </font>
 DialogID_58212=<font face="Default" color="#ffffff">The chivalry of Xu Village is renowned. The leader of Xu Village wants everyone to practice martial arts. Challenge them.</font>
-DialogID_58213=<font face="Default" color="#ffffff">The headmaster of Huanhua Sword Sect has invited Shaolin monks to discuss swordsmanship and take part in a friendly competition with them.</font>
 DialogID_58214=<font face="Default" color="#ffffff">There is a mysterious organization inciting murder among martial artists; we believe it's related to the Western Xia First Class Hall. Investigate Tiger Roaring Villa.</font>
 DialogID_58215=
 QiecuoMenu_58207=<font face="Default" color="#ffffff">You please, Elder Brother.</font>
@@ -64,7 +63,6 @@ interactinfo_58209=Talk with the Receiving <a href="findnpc_new,city04,ly773" st
 interactinfo_58210=This matter should not be delayed. Go to <a href="findnpc_new,city04,EventNpc86708" style="HLStype1">Baodu Stronghold</a>. Be careful about the surroundings and beware of the attacks.
 interactinfo_58211=Talk with the Receiving <a href="findnpc_new,born04,qdzai057" style="HLStype1">Shaolin Disciple</a> who is outside the Tianxiang Tea Forest of Qiandeng Town.
 interactinfo_58212=Talk to the <a href="findnpc_new,city05,cd503" style="HLStype1">Shaolin Disciple</a>
-interactinfo_58213=Talk to the <a href="findnpc_new,city05,cd504" style="HLStype1">Shaolin Disciple</a>
 interactinfo_58214=Talk to the <a href="findnpc_new,school07,wd168" style="HLStype1">Shaolin Disciple</a>
 interactinfo_58215=This matter should not be delayed. Go to the nearby of <a href="findnpc_new,school07,EventNpc86709" style="HLStype1">Tiger Roaring Villa</a> to investigate it.
 okmenu_58202=<font face="Default" color="#ffffff" >Amitabha…</font>
@@ -98,10 +96,7 @@ specialinfo_175=Complete the challenge at Golden Needle Sect. (You need to compl
 specialinfo_176=Finish challenging the force of Xu Village.
 specialinfo_177=Complete the challenge at Xu Village. (You need to complete the challenge three times.)
 specialinfo_178=Complete the challenge at Xu Village. (You need to complete the challenge three times.)
-specialinfo_179=Complete challenging the Huanhua Sword Sect.
-specialinfo_180=Complete the challenge at Huanhua Sword Sect. (You need to complete the challenge twice.)
 specialinfo_181=Complete the challenge at Tiger Roaring Villa.
-specialinfo_332=Finish Challenging the Force of Mount Song Sword Sect.
 story_58201_1=<font face="Default" color="#ffffff">It is not peaceful in Taiping Village. There are plagues of insects and drought, the harvests are poor, and the villagers are getting robbed. They believe that the bandits are not common mountain thieves.</font>
 story_58201_2=<font face="Default" color="#ffffff">My martial brothers and I think that this event may relate to the event that Shaolin disciples are attacked continously. The Shaolin disciples who left the mountain first doubt that the enemies want to lead Shaolin disciples to leave the mountain through grabbing villagers. Their plot is still unknown.</font>
 story_58201_3=<font face="Default" color="#ffffff">There are bandits wandering near the Western Corridor. I will stay here and protect the villagers while you find out if they are plotting something.</font>
@@ -182,17 +177,22 @@ specialinfo_406=Complete faction challenge against Baodu Stronghold (one success
 specialinfo_407=Complete faction challenge against Heaven Treasure Stronghold (one successful Factions Challenge)
 specialinfo_408=Pass Twilight Village (Difficulty Level: ordinary)
 specialinfo_409=Complete faction challenge against Tiger Roaring Villa (one successful Factions Challenge)
-specialinfo_410=Complete faction challenge against Huanhua Sword Sect (one successful Factions Challenge)
-specialinfo_411=Complete faction challenge against Mount Song Sword Sect (one successful Factions Challenge)
 specialinfo_412=Pass Twilight Village (Difficulty Level: hard)
 specialinfo_413=Pass Green Cloud Castle (Difficulty Level: ordinary)
-specialinfo_414=Complete faction challenge against Huanhua Sword Sect (Pass within 5 minutes)
-specialinfo_415=Pass Peacock Villa (Difficulty Level: random)
-specialinfo_416=Complete faction challenge against Xingxiu Sect (Pass within 5 minutes)
 specialinfo_417=Pass Green Cloud Castle (Difficulty Level: hard)
 specialinfo_418=Pass Twilight Village (Pass difficult Twilight Village within one hour)
 story_58207_1=<font face="Default" color="#ffffff" >Hello, young hero. You can sign in here. There are many elder brothers in our school who have reached Level 36 in their internal skills. You can seek one of them as a teacher to increase your abilities in that area and get the corresponding rewards. Also, when you reach Level 30 of the School Internal Skills, then you can come here and become a master so you can get rich Master Career Rewards. </font>
 story_menu_58207=<font face="Default" color="#ffffff" >Brother referral</font>
 storyinfo_58207=Go to <a href="findnpc_new,school08,wd173" style="HLStype1">the school's master guide</a> area.
 storymenu_58207_1=<font face="Default" color="#ffffff" >I know.</font>
+DialogID_58213=<font face="Default" color="#ffffff">The headmaster of Huanhua Sword Sect has invited Shaolin monks to discuss swordsmanship and take part in a friendly competition with them.</font>
+interactinfo_58213=Talk to the <a href="findnpc_new,city05,cd504" style="HLStype1">Shaolin Disciple</a>
+specialinfo_179=Complete challenging the Huanhua Sword Sect.
+specialinfo_180=Complete the challenge at Huanhua Sword Sect. (You need to complete the challenge twice.)
+specialinfo_332=Finish Challenging the Force of Mount Song Sword Sect.
+specialinfo_410=Complete faction challenge against Huanhua Sword Sect (one successful Factions Challenge)
+specialinfo_411=Complete faction challenge against Mount Song Sword Sect (one successful Factions Challenge)
+specialinfo_414=Complete faction challenge against Huanhua Sword Sect (Pass within 5 minutes)
+specialinfo_415=Pass Peacock Villa (Difficulty Level: random)
+specialinfo_416=Complete faction challenge against Xingxiu Sect (Pass within 5 minutes)
 

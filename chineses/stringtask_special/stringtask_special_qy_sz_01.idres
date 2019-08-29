@@ -70,8 +70,6 @@ hunterinfo_36001=Defeat <a href="findnpc_new,city02,WorldNpc01052" style="HLStyp
 hunterinfo_36002=Defeat <a href="findnpc_new,city02,WorldNpc01338" style="HLStype1">Wan Miao</a>
 hunterinfo_36039=Fight <a href="findnpc_new,city02,sz398" style="HLStype1">Di Ren</a>
 hunterinfo_36051=Kill the Tangmen Traitor <a href="findnpc,city02,542,1377" style="HLStype1">Madman</a>.
-hunterinfo_36055=Go to the Peachblossom Island and look for <a href="findnpc_new,city02,sz325" style="HLStype1">the man who paid the tribute</a>. And then rob the Tributes and report to <a href="findnpc_new,city02,WorldNpc01327" style="HLStype1">Murong Sichen</a>.
-hunterinfo_36056=Go to Tiger Hill Mountain Gate to find <a href="findnpc,city02,835,387" style="HLStype1">Young Master Qianhuan</a>, then go to <a href="findnpc,city02,737,106" style="HLStype1">Yongcui Villa</a> to shift the trouble to Peachblossom Island.
 hunterinfo_36057=Use Western Enchanting Incense to <a href="findnpc_new,city02,WorldNpc01223" style="HLStype1">Huang Lingshu</a> and then tie her and send her to <a href="findnpc_new,city02,WorldNpc01327" style="HLStype1">Murong Sichen</a>.
 hunterinfo_36060=I have finished fabricated a charge against others. I have to hurry to escape from Royal Guards members' pursuing and report it to <a href="findnpc_new,city02,WorldNpc01327" style="HLStype1">Murong Sichen</a>.
 hunterinfo_36071=Defeat <a href="findnpc_new,city02,WorldNpc01042" style="HLStype1">Xue Meng</a>
@@ -357,13 +355,11 @@ useiteminfo_36000=Use <a href="TASK_ITEM,key_book_wx_jh_jwdf05_1" style="HLStype
 SubmitNpcEx_12000=Report to <a href="findnpc_new,city02,WorldNpc01244" style="HLStype1">Kuang Zhong</a> in Suzhou
 SubmitNpcEx_12001=Report to <a href="findnpc_new,city02,WorldNpc01244" style="HLStype1">Kuang Zhong</a> in Suzhou
 SubmitNpcEx_12002=Report to <a href="findnpc_new,city02,WorldNpc01244" style="HLStype1">Kuang Zhong</a> in Suzhou
-SubmitNpcEx_12003=Report to <a href="findnpc_new,city02,WorldNpc01244" style="HLStype1">Kuang Zhong</a> in Suzhou
 SubmitNpcEx_12004=Report to <a href="findnpc_new,city02,WorldNpc01244" style="HLStype1">Kuang Zhong</a> in Suzhou
 SubmitNpcEx_12005=Report to <a href="findnpc_new,city02,WorldNpc01244" style="HLStype1">Kuang Zhong</a> in Suzhou
 hunterinfo_36087=Arrest the Melting Ghost (Gongye Duan) <font face="Default" color="#FF0000" ></font>
 hunterinfo_36088=Arrest Qin Changying<font face="Default" color="#FF0000" ></font>
 hunterinfo_36089=Arrest Cai Xiaoqing<font face="Default" color="#FF0000" ></font>
-hunterinfo_36090=Arrest Zhu Dashou<font face="Default" color="#FF0000" ></font>
 hunterinfo_36091=Arrest Qiu Butong<font face="Default" color="#FF0000" ></font>
 hunterinfo_36092=Arrest Huo Bei<font face="Default" color="#FF0000" ></font>
 QiecuoMenu_36074=I hate others' threatening me most. You've made a serious mistake now. If I have not made you disabled today, I'll follow your name.
@@ -384,8 +380,6 @@ DialogID_36083=It is a shameful story! A few days ago, 100,000 liang of silver o
 DialogID_36084=<font face="Default" color="#ffffff" >You came back so soon. You must have learned something. What did you find out? </font>
 DialogID_36085=This is, (Lord Yu and the Governor glance at each other with strange expressions for a brief moment.) This... this here, ow! I know it! This is a monkey hair! The thief must have used a trained monkey to slip into the storehouse through the skylight. Then the monkey put the Tael in a basket that was connected to a rope. The 100,000 liang of Tael was lifted right out through the skylight! That is surely how it happened! No sign of them at all. Leave no scars!
 DialogID_36086=<font face="Default" color="#ffffff" >Thank you, my friend.</font><font face="Default" color="#ffffff" > Will you reward me with some money? </font>
-DialogID_36087=<font face="Default" color="#ffffff" >M, m... monkey! No. I haven't seen anyone with a monkey. But I did see one monkey at Huanhua Sword Sect outside of the city. Maybe the lord wants me for something. </font><font face="Default" color="#ffffff" >Everything I say is true, my lord. Trust me. </font>
-DialogID_36088=<font face="Default" color="#ffffff" >Please show kindness to me, my lord.  In my experience, trained monkeys are always very smart. It would be better use a lure to catch it. This monkey's favorite food is a nut called "Huangdan fruit". Soak the nut in sedatives and then place it where the monkey goes by. Wait for the monkey to eat it and faint. Then you can catch it.  However, the "Huangdan fruit" is pretty rare and not easy to collect. It usually grows on the cliff behind the waterfall. I heard there are some at the waterfall at the rear courtyard of the Nangong Family House. I just wonder why you want to catch the monkey. Did it steal some food from you? </font><font face="Default" color="#ffffff" >(an expression of sadness mixed with anger)</font>
 DialogID_36089=<font face="Default" color="#ffffff" >Welcome to my shop. Is there anything you're looking for? Do you need sedatives, carrier pigeons, or maybe a fishing pole, ax, hammer, compass, writing brush.</font>
 DialogID_36091=<font face="Default" color="#ffffff" >What did I ever do to deserve having you come and accuse me?! </font>
 DialogID_36100=<font face="Default" color="#ffffff" >Hahaha. I have never seen someone so fearless. </font>
@@ -394,9 +388,9 @@ QiecuoMenu_36096=<font face="Default" color="#ffffff" >You really are an unreaso
 QiecuoMenu_36097=<font face="Default" color="#ffffff">Hmm!</font>
 QiecuoTitle_36096=<font face="Default" color="#ffffff" >You just look irritating to me. Do you want a beating? </font>
 QiecuoTitle_36097=<font face="Default" color="#ffffff" >Oh, ouch! You'll get a beating! </font>
-SubmitNpcEx_12100=<s>
-SubmitNpcEx_12101=<s>
-SubmitNpcEx_12102=<s>
+SubmitNpcEx_12100=<s>Sit on the mat to meditate.
+SubmitNpcEx_12101=<s>Sit on the mat to meditate.
+SubmitNpcEx_12102=<s>Sit on the mat to meditate.
 SubmitNpcEx_12109=Listen to <a href="findnpc_new,city02,WorldNpc01723" style="HLStype1">Grandmother Wu</a> explain.
 SubmitNpcEx_12110=<s>Go back and tell Grandmother Wu about what happened.
 SubmitNpcEx_12111=Tell <a href="findnpc_new,city02,Npc_cwqy_zyyf" style="HLStype1">Wu Rui</a> about what happened.
@@ -419,11 +413,7 @@ collectinfo_36007={@IDName:Npc_cwqy_lua04} Go to look in the tree for <a href="f
 collectinfo_36008={@IDName:Npc_cwqy_lua04} Go to look in the tree for <a href="findnpc,city02,1404.849609,50.083,978.277588" style="HLStype1">bird's nest</a> and see if you can steal a bird's egg for {@IDName:WorldNpc01171} at Kuang Family Estate.
 collectinfo_36009={@IDName:Npc_cwqy_lua04} Go to look in the tree for <a href="findnpc,city02,1368.786133,52.320004,979.219788" style="HLStype1">bird's nest</a> and see if you can steal a bird's egg for {@IDName:WorldNpc01171} at Kuang Family Estate.
 collectinfo_36080=<s>Go to <a href="findnpc_new,city05,Gather_cwqy_monkeyhair" style="HLStype1">the scene of the crime</a> and investigate. Search for clues.
-collectinfo_36081=Collect <a href="findnpc_new,city05,Gather_cwqy_monkeyfood" style="HLStype1">Huangdan fruit</a>. Zhou Xing said that there are some on the waterfall's cliff at the rear courtyard of the Nangong Family House.
-collectinfo_36082=Catch the <a href="findnpc_new,city05,Npc_cwqy_monkey01" style="HLStype1">thieving monkey</a> near the Huanhua Sword Sect.
 collectinfo_36083=Save <a href="findnpc_new,city05,Gather_cwqy_monkeyrescue" style="HLStype1">the monkey sentenced to beheading</a> from the prison.
-collectinfo_36092=What is that thing? It looks like it’s at the Peach Blossom Forest road.
-collectinfo_36093=Hurry and look in the big tree in front of Diaohua Building.
 collectinfo_36094=Under that <a href="findnpc,city02,1238,804" style="HLStype1">big tree</a>, something fishy is going on.
 collectinfo_36095=Continue <a href="findnpc,city02,1297,837" style="HLStype1">going forward</a>
 collectinfo_36096=<a href="findnpc,city02,1292,885" style="HLStype1">Up ahead</a>, it appears to be that mink.
@@ -477,7 +467,6 @@ okmenu_36088=<font face="Default" color="#ffffff" >Is that what you heard? You s
 okmenu_36089=<font face="Default" color="#ffffff" >There's no need to cry out. I am investigating the case on behalf of the Lord Administrator. Help me soak this nut in sedatives.  </font>
 okmenu_36091=<font face="Default" color="#ffffff" >Are you Zhang Ergou? Why do you go to the ancient forest and hunt the </font><font face="Default" color="#ffffff" >animals</font><font face="Default" color="#ffffff" >? </font>
 okmenu_36100=<font face="Default" color="#ffffff" >Scoundrel, your luck has run out. Prepare to die.</font>
-okmenu_36101=<font face="Default" color="#ffffff" >Mistress, I ran into an old man who guided me to come and ask about the whereabouts of the Dugu Nine Swords sword manual.</font>
 story_36001_1=I once lived at Kuang Family Estate with {@IDName:WorldNpc01171} and {@IDName:WorldNpc01172}. We were as close as sisters and were never apart from each other. Grandmother Shao at Kuang Family Estate {@IDName:WorldNpc01168} loves to have birds as pets. I heard that a bird that you raise fro m a hatchling will be very obedient. That's why {@IDName:WorldNpc01171} and {@IDName:WorldNpc01172} regularly go out to climb trees to steal eggs instead of keeping me company. While I was walking all alone in Windbell Valley, I came across {@IDName:Npc_cwqy_lua02}, and I played with it from that day onward. Unfortunately, I don't know how {@IDName:WorldNpc01171} and {@IDName:WorldNpc01172} are doing now.
 story_36002_1=<font face="Default" color="#8fd6ef" >(When listening to your description, {@IDName:WorldNpc01362} has a sad expression.)</font> Actually, based on your description, {@IDName:Npc_cwqy_lua02} is already dead.
 story_36100_1=<font face="Default" color="#ffffff" >Our peaches are famous far and wide. But recently, there has been a group of </font><font face="Default" color="#ffffff" >monkeys</font><font face="Default" color="#ffffff" > that have been stealing our peaches. We have lost a lot, and soon we will lose everything! </font>
@@ -490,8 +479,6 @@ story_36105_2=<font face="Default" color="#ffffff" >The times are getting toughe
 story_36106_1=<font face="Default" color="#ffffff" >Thank you very much, young hero. I will never forget your kindness. </font>
 story_36107_1=<font face="Default" color="#ffffff" >I appreciate what you have done, Young hero.  Is she doing fine now? </font>
 story_36107_2=<font face="Default" color="#ffffff" >At such an advanced age, it's hard not to lose some of your faculties. I don't want to go back. I cannot face her now. I just want to keep her in my memories when she was 15 years old.</font><font face="Default" color="#ffffff" > She had a long braid and big round eyes. Ah, I've made you smile, young hero.  </font>
-story_36200_1=<font face="Default" color="#ffffff" >This story needs to be told from the very beginning.  On the top of Mount Huashan, Dugu Qiubai mediated in solitude for three years, contemplating the mysteries of martial arts. He finally invented a method of defeating the fast with the fast: the Dugu Nine Swords that can defeat all the martial arts skills of all the schools! </font>
-story_36200_2=<font face="Default" color="#ffffff" >Not bad. Dugu Nine Swords has unlimited power. Those who were fortunate to be able to learn this method could dominate Jianghu using this awesome swordfighting skill.  </font>
 story_36200_3=<font face="Default" color="#ffffff" >This swordfighting skill is peerless. If your breath was not complete, you will not learn its essentials but instead be possessed. If your inner morals were not correct, and you used this skill for evil, I'm afraid it would cause a great many controversies in Jianghu.  </font>
 story_menu_36001=Destiny flies away
 story_menu_36002=A slim chance
@@ -501,7 +488,6 @@ story_menu_36104=<font face="Default" color="#ffffff" >Hmph! This is what you de
 story_menu_36105=<font face="Default" color="#ffffff" >Excuse me, are you Grandmother Wu? </font>
 story_menu_36106=<font face="Default" color="#ffffff" >Grandmother, these monkeys were trained by someone named Sun Buer. I already chased him away. </font>
 story_menu_36107=<font face="Default" color="#ffffff" >Grandfather Wu, I am willing to take care of anything Grandmother Wu needs taken care of. </font>
-story_menu_36200=<font face="Default" color="#ffffff" >You really know Dugu Nine Swords? I thought there was no one left in Jianghu who knew this swordfighting skill! </font>
 storyinfo_36001=Based on the poem of farewell by {@IDName:Npc_cwqy_lua01}, I guess that she is at the highest point of Peach Blossom Pool.  To prevent here from thinking lonely thoughts, quickly go and console <a href="findnpc_new,city02,Npc_cwqy_lua04" style="HLStype1">{@IDName:Npc_cwqy_lua04}</a>
 storyinfo_36002={@IDName:Npc_cwqy_lua02} is already at death's door. I heard that in nearby Windbell Valley, {@IDName:WorldNpc01362} is a brilliant physician. Rush over there and ask <a href="findnpc_new,city02,WorldNpc01362" style="HLStype1">{@IDName:WorldNpc01362}</a>to come save {@IDName:Npc_cwqy_lua02}
 storyinfo_36100=Listen to <a href="findnpc_new,city02,WorldNpc01723" style="HLStype1">Grandmother Wu</a> explain.
@@ -553,4 +539,18 @@ story_menu_36006=<font face="Default" color="#ffffff" >Sheriff!  </font><font fa
 storyinfo_36067=<a href="findnpc_new,city02,WorldNpc01999" style="HLStype1">Lu Xia</a> complains to you that Xue Meng from Changfeng Escort Agency usually came to harass her.
 storyinfo_36070=<a href="findnpc_new,city02,WorldNpc01042" style="HLStype1">Xue Meng</a> threatened to break your ribs.
 storymenu_36070_1=If you cannot defeat me, I will destroy your escort agency!
+DialogID_36087=<font face="Default" color="#ffffff" >M, m... monkey! No. I haven't seen anyone with a monkey. But I did see one monkey at Huanhua Sword Sect outside of the city. Maybe the lord wants me for something. </font><font face="Default" color="#ffffff" >Everything I say is true, my lord. Trust me. </font>
+DialogID_36088=<font face="Default" color="#ffffff" >Please show kindness to me, my lord.  In my experience, trained monkeys are always very smart. It would be better use a lure to catch it. This monkey's favorite food is a nut called "Huangdan fruit". Soak the nut in sedatives and then place it where the monkey goes by. Wait for the monkey to eat it and faint. Then you can catch it.  However, the "Huangdan fruit" is pretty rare and not easy to collect. It usually grows on the cliff behind the waterfall. I heard there are some at the waterfall at the rear courtyard of the Nangong Family House. I just wonder why you want to catch the monkey. Did it steal some food from you? </font><font face="Default" color="#ffffff" >(an expression of sadness mixed with anger)</font>
+SubmitNpcEx_12003=Report to <a href="findnpc_new,city02,WorldNpc01244" style="HLStype1">Kuang Zhong</a> in Suzhou
+collectinfo_36081=Collect <a href="findnpc_new,city05,Gather_cwqy_monkeyfood" style="HLStype1">Huangdan fruit</a>. Zhou Xing said that there are some on the waterfall's cliff at the rear courtyard of the Nangong Family House.
+collectinfo_36082=Catch the <a href="findnpc_new,city05,Npc_cwqy_monkey01" style="HLStype1">thieving monkey</a> near the Huanhua Sword Sect.
+hunterinfo_36090=Arrest Zhu Dashou<font face="Default" color="#FF0000" ></font>
+okmenu_36101=<font face="Default" color="#ffffff" >Mistress, I ran into an old man who guided me to come and ask about the whereabouts of the Dugu Nine Swords sword manual.</font>
+story_36200_1=<font face="Default" color="#ffffff" >This story needs to be told from the very beginning.  On the top of Mount Huashan, Dugu Qiubai mediated in solitude for three years, contemplating the mysteries of martial arts. He finally invented a method of defeating the fast with the fast: the Dugu Nine Swords that can defeat all the martial arts skills of all the schools! </font>
+story_36200_2=<font face="Default" color="#ffffff" >Not bad. Dugu Nine Swords has unlimited power. Those who were fortunate to be able to learn this method could dominate Jianghu using this awesome swordfighting skill.  </font>
+story_menu_36200=<font face="Default" color="#ffffff" >You really know Dugu Nine Swords? I thought there was no one left in Jianghu who knew this swordfighting skill! </font>
+collectinfo_36092=What is that thing? It looks like it’s at the Peach Blossom Forest road.
+collectinfo_36093=Hurry and look in the big tree in front of Diaohua Building.
+hunterinfo_36055=Go to the Peachblossom Island and look for <a href="findnpc_new,city02,sz325" style="HLStype1">the man who paid the tribute</a>. And then rob the Tributes and report to <a href="findnpc_new,city02,WorldNpc01327" style="HLStype1">Murong Sichen</a>.
+hunterinfo_36056=Go to Tiger Hill Mountain Gate to find <a href="findnpc,city02,835,387" style="HLStype1">Young Master Qianhuan</a>, then go to <a href="findnpc,city02,737,106" style="HLStype1">Yongcui Villa</a> to shift the trouble to Peachblossom Island.
 

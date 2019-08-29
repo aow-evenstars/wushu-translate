@@ -309,7 +309,6 @@ storyinfo_4521=See what <a href="findnpc_new,school06,WorldNpc02611" style="HLSt
 storyinfo_4522=Listen to <a href="findnpc_new,born04,WorldNpc00020" style="HLStype1"> Sima Moye</a>.
 storyinfo_4524=Interrogate <a href="findnpc_new,born04,WorldNpc00022" style="HLStype1"> Wen Jiao </a> about messages about Daliang Sect and Hua Yuying
 storyinfo_4526=Ask the Innkeeper <a href="findnpc_new,born04,FuncNpc00004" style="HLStype1"> Huang Rong </a> about the Divine Leg Sect.
-storyinfo_4527=Ask Divine Leg Sect Leader <a href="findnpc_new,born04,WorldNpc00016" style="HLStype1">Chu Tianbiao</a> about Yuying.
 storyinfo_4528=Speak with <a href="findnpc_new,school06,WorldNpc02610" style="HLStype1">Abbess Shuijing</a>.
 storyinfo_4529=Listen to <a href="findnpc_new,school06,em535" style="HLStype1"> Jin Die </a> to tell his story
 storyinfo_4530=See what <a href="findnpc_new,school06,em535" style="HLStype1"> Jin Die </a> has found
@@ -509,4 +508,27 @@ storymenu_4538_2=<font face="Default" color="#ffffff" >If your suspicions about 
 storymenu_4540_1=<font face="Default" color="#ffffff" >Very well...</font>
 useiteminfo_4085=Use a <a href="TASK_ITEM,item_zx_fhs_001" style="HLStype1">tool</a> to remove <a href="findnpc_new,scene04_2,zx_fhs_015_a" style="HLStype1">the corpse's </a>mask.
 DialogID_4124_1=(Doje growls.) Outsiders have attacked our village, killed our people! Arrest these outsiders!
+DialogID_4158_1=<s>哼！少来这套，休想就这样支开我们！霓裳宫宫主令狐雪害我浣花山庄四侠裴修华惨死之事铁证如山，我们就算一死也要讨回公道！<br><s>（西门飞燕大叫一声）<br><s>走！我们冲进霓裳宫！
+DialogID_4174_1=<s>想不到那贼人轻功如此之好，眼睁睁看他跑了，真气死我了！<br><s>我这就去将布政使司救出，但这软骨散…看来还得去浣花山庄寻求解药。
+hunterinfo_4162=原来是<a href="findnpc_new,city01,monrc025059" style="HLStype1">西山古墓弟子</a>，教训她们
+interactinfo_4158_1=去向<a href="findnpc_new,scene05,WorldNpc06125" style="HLStype1">浣花山庄弟子</a>解释
+interactinfo_4161_1=前往<a href="findnpc_new,city05,EventNpc24199" style="HLStype1">浣花山庄</a>
+interactinfo_4175_2=去浣花山庄找<a href="findnpc_new,city05,WorldNpc09801" style="HLStype1">江掌门</a>求助
+interactinfo_4293=从<a href="findnpc_new,school06,Gather00039b" style="HLStype1">药盒</a>中取出墨露再造膏
+okmenu_4173_1=还有劳守卫大哥将此雪花扇交还浣花山庄了
+okmenu_4174_1=捕头放心，在下立即动身前去浣花山庄
+story_4012_1=　　这是我浣花山庄的私事，外人还是不要插手。不怕你笑话，这是我们浣花山庄的耻辱……
+story_4012_2=　　唉，我浣花四侠裴修华与成都布政使司乃结义兄弟。四侠新娶娇妻，便同行前去拜访布政使司。不料布政使司遇刺，四侠为救布政使司命丧歹人之手，四嫂也突然不见了踪影。　　经我们追查，背后的黑手正是霓裳宫。所以此次浣花山庄就算粉身碎骨，也要为四侠报此血海深仇！
+story_4012_3=　　我说过了，这是我们浣花山庄的事，你还是少管闲事。想要逞英雄也要分清楚时候，我们浣花山庄可不是好惹的！
+story_4020_1=<s>什……什么……雪花扇？你是来取雪花扇的？<BR><s>少侠，实不相瞒，其实我刚来浣花山庄不久……
+story_4091_2=<s>本宫十分愿意为少侠打听令妹的消息，只是刚收到门下弟子来报，说浣花山庄连同五仙教已在霓裳宫门外守候。如今我伤势未愈，霓裳宫又危在旦夕，还请少侠相助！
+story_4093_1=<s>你是何人？胆敢擅闯我浣花山庄，有何目的？
+story_4094_3=<s>实不相瞒，我总感觉于大人近来变得怪怪的。自从上次遇袭之后他便闭门不见，除了不久前发过一封公函以外，再无理过政务。<br><s>以我敏锐的直觉判断，恐怕这布政使司已非本人。少侠，你不如去浣花山庄取来裴四侠的生前遗物试一试于布政使司，到时真假便知。
+story_4124_4=<s>哼！只要能报此仇，受多大的苦，付再大的代价我也值得。虽然我这一次又失败了，但下一次很快就会来的，我看你能救他们几次！<BR><s><font color="#0033FF">（庄青青突然丢出一颗霹雳雷霆弹，一阵烟雾过后，庄青青已不翼而飞）</font>
+story_menu_4012=这位侠士，不知浣花山庄为何要抓当地无辜百姓？
+story_menu_4022=若我猜的不错，你便是那偷袭霓裳宫主，离间浣花山庄的贼道长
+storyinfo_4012=找到<a href="findnpc_new,scene05,WorldNpc06103" style="HLStype1">浣花山庄门人</a>
+storyinfo_4527=Ask Divine Leg Sect Leader <a href="findnpc_new,born04,WorldNpc00016" style="HLStype1">Chu Tianbiao</a> about Yuying.
+storymenu_4094_3=哦？那我这就再去趟浣花山庄。
+submitnpcex_24199=让这位<a href="findnpc_new,city05,WorldNpc09804" style="HLStype1">浣花山庄弟子</a>通传一声
 

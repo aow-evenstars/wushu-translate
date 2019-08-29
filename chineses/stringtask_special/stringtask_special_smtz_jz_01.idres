@@ -42,15 +42,12 @@ specialinfo_279=Challenge the Martial Arts Club of Tiger Roaring Villa successfu
 specialinfo_280=Complete one Sect Patrolling and get the Intelligence.
 specialinfo_281=Have spied the Wanderer's Valley once and get the Intelligence.
 specialinfo_282=Golden Needle Sect has challenged the Martial Arts Club successfully once.
-specialinfo_283=Challenge the Martial Arts Club of Xingxiu Sect successfully.
-specialinfo_334=Finish Challenging the Force of Mount Song Sword Sect.
 specialinfo_534=Challenge the Martial Arts Club of Tiger Roaring Villa successfully.
 story_58401_1=Leader Xiao, thank you for your concern. I have already heard it. If this Plot succeeds, the calamity will fall on the Suzhou Civilians again.
 story_menu_58401=officer Kuang, I have come to Suzhou to send this letter to you under the order of our Leader.
 storyinfo_58401=Listen to the Prefecture Magistrate <a href="findnpc_new,city02,WorldNpc01244" style="HLStype1">Kuang Zhong</a> who will tell you the present situation clearly.
 storymenu_58401_1=Prefecture Magistrate, do you have any good tactics?
 storymenu_58401_2=Prefecture Magistrate, you have flattered it. Our Leader has the wisdom and will have the tactics himself. I will go now. Please don't bother to see me out.
-DialogID_58402=<font face="Default" color="#ffffff" >  </font><font face="Default" color="#ffffff" >You're incredible! Come challenge Huanhua Sword Sect.</font>
 DialogID_58403=<font face="Default" color="#ffffff" >   </font><font face="Default" color="#ffffff" >Please! Stop it. I dare not do it again. My cousin and his party have arrived at Twilight Village but I don't know how they are now.</font>
 QiecuoMenu_58411=<font face="Default" color="#ffffff" > Lady, I...</font>
 QiecuoMenu_58413=<font face="Default" color="#ffffff" >You nasty piece of work! I'll punish you!</font>
@@ -59,21 +56,15 @@ QiecuoTitle_58413=<font face="Default" color="#ffffff" >  You are so ignorant. H
 SubmitNpcEx_86921=Mission completed! Go to Scholars  Academy and report to<a href="findnpc_new,school03,WorldNpc03305" style="HLStype1">Xiao Bieqing</a>
 SubmitNpcEx_86922=Mission completed! Go to Scholars  Academy and report to<a href="findnpc_new,school03,WorldNpc03305" style="HLStype1">Xiao Bieqing</a>
 SubmitNpcEx_86923=Mission completed! Go to Scholars  Academy and report to<a href="findnpc_new,school03,WorldNpc03305" style="HLStype1">Xiao Bieqing</a>
-hunterinfo_58411=Huanhua Sword Sect disciple<a href="findnpc_new,city05,smtzjunzi_cyh002" style="HLStype1">Hu Ling</a>stood there proudly. Go up and carefully inquire her.
 hunterinfo_58413=Defeat<a href="findnpc_new,city02,smtzjy003" style="HLStype1">Han Wanshi</a> those who don’t pay for their meals at Suzhou Tavern
 hunterinfo_58414=There's some noise on the 2nd floor of the Study. Go up and see what's going on. And defeat<a href="findnpc_new,city04,monrc047634" style="HLStype1">the attacker</a>
-interactinfo_58402=Talk with Huanhua Sword Sect disciple<a href="findnpc_new,city05,smtzjunzi_cyh002" style="HLStype1">Hu Ling</a>
 interactinfo_58403=Talk with <a href="findnpc_new,city02,smtzjy003" style="HLStype1">Han Wanshi</a>
 interactinfo_58404=Go to the <a href="findnpc_new,city04,EventNpc86923" style="HLStype1">2nd floor of the Study</a>to explore
 interactinfo_58405=Talk with <a href="findnpc_new,city04,FunnpcClone021003" style="HLStype1">Mrs. Shi</a>NpcId=Mrs. Shi
 okmenu_58402=<font face="Default" color="#ffffff" >So, we have to be polite first and fight later.</font>
 okmenu_58403=<font face="Default" color="#ffffff" >I'm going to Twilight Village </font><font face="Default" color="#ffffff" >now.</font><font face="Default" color="#ffffff" ></font>
-specialinfo_589=Complete challenging the Huanhua Sword Sect.
 specialinfo_590=Complete the challenge to Twilight Village.
 specialinfo_591=Complete the challenge at the Green Cloud Castle Forbidden Instance.
-story_58402_1=<font face="Default" color="#ffffff" > Finally, you're here.</font><font face="Default" color="#ffffff" >Ah!</font><font face="Default" color="#ffffff" >The situation is not good here. We Scholars Academy and Huanhua Sword Sect</font><font face="Default" color="#ffffff" >have had</font><font face="Default" color="#ffffff" >several conflicts. Some injured disciples have been sent to the doctor in town...</font>
-story_58402_2=<font face="Default" color="#ffffff" > Huanhua Sword Sect's</font><font face="Default" color="#ffffff" >female disciples </font><font face="Default" color="#ffffff" >condemned our</font><font face="Default" color="#ffffff" >Scholars Academy </font><font face="Default" color="#ffffff" >disciples as hypocrites. I can't let it go.</font><font face="Default" color="#ffffff" ></font>
-story_58402_3=<font face="Default" color="#ffffff" >   The conflict became worse mostly because of some oral disputes. Look at the female disciple of Huanhua Sword Sect.</font><font face="Default" color="#ffffff" >Her name is Hu Ling. </font><font face="Default" color="#ffffff" >She is here to watch our Scholar's Academy. She's a tough person. You need to talk to her carefully.</font>
 story_58403_1=<font face="Default" color="#ffffff" >  Zhao Ziji has been living in seclusion in Twilight Village. </font><font face="Default" color="#ffffff" >He saved Meng Meng but when </font><font face="Default" color="#ffffff" >his enemies heard about it they came to find him</font>
 story_58403_2=<font face="Default" color="#ffffff" > The enemies led by Han Sijin slaughtered the villagers in Twilight Village. It is cruel! It ruined the civilized environment of Jiangnan.  </font><font face="Default" color="#ffffff" >Shopkeeper Meng is right there. You can talk with him.</font>
 story_58404_1=<font face="Default" color="#ffffff" >   Hey. I don't want to find out what Zhao Ziji did before. This time he was found and chased by his enemy for saving my daughter Meng Meng. I</font><font face="Default" color="#ffffff" >can</font><font face="Default" color="#ffffff" >do nothing right now. I feel so useless...</font>
@@ -126,13 +117,8 @@ specialinfo_434=Complete faction challenge against Baodu Stronghold (one success
 specialinfo_435=Complete faction challenge against Heaven Treasure Stronghold (one successful Factions Challenge)
 specialinfo_436=Pass Twilight Village (Difficulty Level: ordinary)
 specialinfo_437=Complete faction challenge against Tiger Roaring Villa (one successful Factions Challenge)
-specialinfo_438=Complete faction challenge against Huanhua Sword Sect (one successful Factions Challenge)
-specialinfo_439=Complete faction challenge against Mount Song Sword Sect (one successful Factions Challenge)
 specialinfo_440=Pass Twilight Village (Difficulty Level: hard)
 specialinfo_441=Pass Green Cloud Castle (Difficulty Level: ordinary)
-specialinfo_442=Complete faction challenge against Huanhua Sword Sect (Pass within 5 minutes)
-specialinfo_443=Pass Peacock Villa (Difficulty Level: random)
-specialinfo_444=Complete faction challenge against Xingxiu Sect (Pass within 5 minutes)
 specialinfo_445=Pass Green Cloud Castle (Difficulty Level: hard)
 specialinfo_446=Pass Twilight Village (Pass difficult Twilight Village within one hour)
 story_58408_1=<font face="Default" color="#ffffff" >Hello, young hero. You can sign in here. There are many elder brothers in our school who have reached Level 36 in their internal skills. You can seek one of them as a teacher to increase your abilities in that area and get the corresponding rewards. Also, when you reach Level 30 of the School Internal Skills, then you can come here and become a master so you can get rich Master Career Rewards. </font>
@@ -140,4 +126,18 @@ story_menu_58408=<font face="Default" color="#ffffff" >Brother referral</font>
 storyinfo_58408=Go to <a href="findnpc_new,school03,wd173" style="HLStype1">the school's master guide</a> area.
 storymenu_58408_1=<font face="Default" color="#ffffff" >I know.</font>
 specialinfo_587=Challenge the Huanhua Sword Sect
+DialogID_58402=<font face="Default" color="#ffffff" >  </font><font face="Default" color="#ffffff" >You're incredible! Come challenge Huanhua Sword Sect.</font>
+hunterinfo_58411=Huanhua Sword Sect disciple<a href="findnpc_new,city05,smtzjunzi_cyh002" style="HLStype1">Hu Ling</a>stood there proudly. Go up and carefully inquire her.
+interactinfo_58402=Talk with Huanhua Sword Sect disciple<a href="findnpc_new,city05,smtzjunzi_cyh002" style="HLStype1">Hu Ling</a>
+specialinfo_283=Challenge the Martial Arts Club of Xingxiu Sect successfully.
+specialinfo_334=Finish Challenging the Force of Mount Song Sword Sect.
+specialinfo_438=Complete faction challenge against Huanhua Sword Sect (one successful Factions Challenge)
+specialinfo_439=Complete faction challenge against Mount Song Sword Sect (one successful Factions Challenge)
+specialinfo_442=Complete faction challenge against Huanhua Sword Sect (Pass within 5 minutes)
+specialinfo_443=Pass Peacock Villa (Difficulty Level: random)
+specialinfo_444=Complete faction challenge against Xingxiu Sect (Pass within 5 minutes)
+specialinfo_589=Complete challenging the Huanhua Sword Sect.
+story_58402_1=<font face="Default" color="#ffffff" > Finally, you're here.</font><font face="Default" color="#ffffff" >Ah!</font><font face="Default" color="#ffffff" >The situation is not good here. We Scholars Academy and Huanhua Sword Sect</font><font face="Default" color="#ffffff" >have had</font><font face="Default" color="#ffffff" >several conflicts. Some injured disciples have been sent to the doctor in town...</font>
+story_58402_2=<font face="Default" color="#ffffff" > Huanhua Sword Sect's</font><font face="Default" color="#ffffff" >female disciples </font><font face="Default" color="#ffffff" >condemned our</font><font face="Default" color="#ffffff" >Scholars Academy </font><font face="Default" color="#ffffff" >disciples as hypocrites. I can't let it go.</font><font face="Default" color="#ffffff" ></font>
+story_58402_3=<font face="Default" color="#ffffff" >   The conflict became worse mostly because of some oral disputes. Look at the female disciple of Huanhua Sword Sect.</font><font face="Default" color="#ffffff" >Her name is Hu Ling. </font><font face="Default" color="#ffffff" >She is here to watch our Scholar's Academy. She's a tough person. You need to talk to her carefully.</font>
 

@@ -443,7 +443,6 @@ okmenu_104=Please teach me about Hidden Weapons.
 okmenu_105=Please teach me about Hidden Weapons.
 okmenu_106=Please teach me about Hidden Weapons.
 okmenu_107=Please teach me about Hidden Weapons.
-okmenu_108=Thank you very much! （<font face="Default" color="#ff0000" >Note: You will leave the Beginner's Protection period if you learn this Array. You will enable Jianghu mode and could be attacked by other players</font>)
 okmenu_109=Thank you.
 okmenu_110=What are these? I've never used them before.
 okmenu_111=Thank you!
@@ -454,11 +453,6 @@ okmenu_116=What are these? I have never used them before.
 okmenu_117=Thank you!
 okmenu_118=Darts? I've never used them before.
 okmenu_119=Thank you!
-okmenu_120=Thank you very much! （<font face="Default" color="#ff0000" >Note: You will leave the Beginner's Protection period if you learn this Array. You will enable Jianghu mode and could be attacked by other players</font>)
-okmenu_121=Thank you very much! （<font face="Default" color="#ff0000" >Note: You will leave the Beginner's Protection period if you learn this Array. You will enable Jianghu mode and could be attacked by other players</font>)
-okmenu_122=Thank you very much! （<font face="Default" color="#ff0000" >Note: You will leave the Beginner's Protection period if you learn this Array. You will enable Jianghu mode and could be attacked by other players</font>)
-okmenu_123=Thank you very much! （<font face="Default" color="#ff0000" >Note: You will leave the Beginner's Protection period if you learn this Array. You will enable Jianghu mode and could be attacked by other players</font>)
-okmenu_124=Thank you very much! （<font face="Default" color="#ff0000" >Note: You will leave the Beginner's Protection period if you learn this Array. You will enable Jianghu mode and could be attacked by other players</font>)
 okmenu_125=(Take the secret script)
 okmenu_126=(Take the secret script)
 okmenu_127=(Take the secret script)
@@ -852,7 +846,6 @@ specialinfo_2013=Gather Intelligence and successfully complete a Spying Task
 specialinfo_2014=Learn how to switch between inner skills and meditation.
 specialinfo_2015=Learn how to switch between inner skills and Yin Yang Heart Protecting skill.
 specialinfo_2016=Learn how to switch between Inner skills and the "Emei Stilt Walking" Skill.
-specialinfo_2017=Learn how to switch between inner skills and leisure mental skill.
 specialinfo_2018=Learn how to switch between inner skills and the Seven Limitations manual.
 specialinfo_2019=Learn how to switch between inner skills and the Xuanyuan manual.
 specialinfo_2020=Learn to switch between Self Recollection and the Secrets of Dual Training.
@@ -2572,7 +2565,6 @@ DialogID_336=<font face="Default" color="#ffffff" >I imagine you do not travel m
 DialogID_337=<font face="Default" color="#ffffff" >I imagine you do not travel much, Young Hero!  Long distance travel is a fact of life in Jianghu. Just listen to me for a moment and you will know how to reach Chengdu, Young Hero. </font>
 DialogID_342=<font face="Default" color="#ffffff" >Have you come to join us in Xu Family Manor? We do not just take anyone. Whoever wishes to join us must meet our standards.  </font><font color="#ee7621">(You can join after completing tier 1 Internal Skill of the Age of Wushu Record.)</font>
 DialogID_343=<font face="Default" color="#ffffff" >What is it you wish to ask me?  Can it be because we the Golden Needle Sect have been recruiting Jianghu heroes and you have come to join us?  </font><font color="#ee7621">(You can join after completing tier 1 Internal Skill of the Age of Wushu Record.)</font>
-DialogID_344=<font face="Default" color="#ffffff" >What is it you wish to ask me, Young Hero?  Can it be because we the Beast Villa have been recruiting Jianghu heroes that you have come to join us?  But we have no place for the weak.  </font><font color="#ee7621">(You can join Beast Villa through a Random Encounter after completing the tier 2 internal skills of Age of Wushu Record.)</font>
 DialogID_351=<font face="Default" color="#ffffff" >Spying is hard work!  It is necessary to find the spying disciples within the schools or undercover agents in order to obtain information from them and bring it back to the spy master at your own school. </font>
 DialogID_352=<font face="Default" color="#ffffff" >Spying is hard work!  It is necessary to find the spying disciples within the schools or undercover agents in order to obtain information from them and bring it back to the spy master at your own school. </font>
 DialogID_353=<font face="Default" color="#ffffff" >Spying is hard work!  It is necessary to find the spying disciples within the schools or undercover agents in order to obtain information from them and bring it back to the spy master at your own school. </font>
@@ -2758,7 +2750,6 @@ interactinfo_340=Learned how to use Teleport Point. See <a href="findnpc_new,cit
 interactinfo_341=Learned how to use Teleport Point. See <a href="findnpc_new,city05,hbyd005" style="HLStype1">Shan Yue</a> for any instructions.
 interactinfo_342=Take Brother Lao's letter to <a href="findnpc_new,city05,xjz_021" style="HLStype1">greeter at Xu Family Manor.</a>
 interactinfo_343=Take Brother Lao's letter to Golden Needle Sect's <a href="findnpc_new,city05,WorldNpc100048" style="HLStype1">Gao Tai.</a>
-interactinfo_344=Take the monk's letter to <a href="findnpc_new,school02,wssz_132" style="HLStype1">the faction guide at Beast Villa.</a>
 interactinfo_350=Go to <a href="findnpc_new,city03,Event_wmp_2ndy_51262" style="HLStype1">Ministry of Rites</a> to watch the rites.
 interactinfo_351=Talk to <a href="findnpc_new,school08,WorldNpc00212" style="HLStype1">Abbot Xuanhuai</a> and ask him to send you to Wudang Territory to find <a href="findnpc_new,school07,ctnpc_wd" style="HLStype1">Zhang Daoxing</a> and learn how to spy.
 interactinfo_352=Talk to <a href="findnpc_new,school07,WorldNpc04401" style="HLStype1">Immortal Ziyang</a> and ask him to send you to Shaolin Territory to find <a href="findnpc_new,school08,ctnpc_sl" style="HLStype1">Zu Yi</a> and learn how to spy.
@@ -2863,7 +2854,6 @@ okmenu_336=<font face="Default" color="#ffffff" >Thank you for the tips. I am al
 okmenu_337=<font face="Default" color="#ffffff" >Thank you for the tips. I am all ears! </font>
 okmenu_342=<font face="Default" color="#ffffff" >No, </font><font face="Default" color="#ffffff" >I have </font><font face="Default" color="#ffffff" >been asked by Brother Lao Liang to deliver a letter.</font>
 okmenu_343=<font face="Default" color="#ffffff" >No, I have been asked by Disciple Lao Liang to deliver a letter.</font>
-okmenu_344=<font face="Default" color="#ffffff" >No, I have been asked by Big Monk to deliver a letter. I wanted to visit Beast Villa when I heard it was a special place.</font>
 okmenu_351=<font face="Default" color="#ffffff" >I understand, I'll go now. </font>
 okmenu_352=<font face="Default" color="#ffffff" >I understand, I'll go now. </font>
 okmenu_353=<font face="Default" color="#ffffff" >I understand, I'll go now. </font>
@@ -2967,7 +2957,6 @@ story_480_1=<font face="Default" color="#ffffff" >{@0:}You have come. Come on in
 story_510_1=<font face="Default" color="#ffffff" >I know two of these factions particularly well: the Xu Family Manor and the Golden Needle Sect. </font>
 story_510_2=<font face="Default" color="#ffffff" >These new factions now rival the eight schools in power and prestige. They can stand up to the Ming Empire itself.</font>
 story_510_3=<font face="Default" color="#ffffff" >People in Xu Family Manor outside Chengdu have a good reputation. Their disciples work to punish the wicked and reward the good. Though they recruit openly, they do not reveal their ultimate martial-art secrets to anyone but those who have fully dedicated themselves to the family, by adopting the last name "Xu."</font>
-story_510_4=<font face="Default" color="#ffffff" >The Golden Needle used by the Shen family of the Golden Needle Sect can be used both as a healing tool, and a deadly weapon.  The disciples of the Shen family have always kept a low profile and upheld a neutral position. They have a tradition of intermarriages with the Xu Family Manor for generations, and the relationship between these two factions is strong. </font>
 story_510_5=<font face="Default" color="#ffffff" >Going out and see the world will help you understand the histories between factions, and allow you to move around more freely. </font>
 story_menu_201=<font face="Default" color="#ffffff" >Magistrate, Sir?  I wonder where Chang Shanzhao and his wife, who just had their wedding today, are now. </font>
 story_menu_202=<font face="Default" color="#ffffff" >Magistrate, Sir?  I wonder where Chang Shanzhao and his wife, who just had their wedding today, are now. </font>
@@ -3075,11 +3064,9 @@ DialogID_207=<font face="Default" color="#ffffff" >I have weapons and skill book
 DialogID_215=<font face="Default" color="#ffffff" >I have weapons and skill books, take them and study</font>
 DialogID_223=<font face="Default" color="#ffffff" >I have weapons and skill books, take them and study</font>
 DialogID_527=<font face="Default" color="#ffffff" >These skills are powerful, you need to keep practicing and find Shou Wei to try it out</font>
-specialinfo_2131=Single queue, select Opposing Factions mode, enter <font color="#FF3333">Ancient Tomb Sect (6 vs 6 mode)</font> Battlefield, and win the battle.
 DialogID_538=<font face="Default" color="#ffffff">Our martial arts are complex but refined. Please learn Inner Skill: Meditation.</font>
 DialogID_539=<font face="Default" color="#ffffff" >Our martial arts are complex but refined. Please learn Inner Skill: Yin Yang Heart Protecting Skill</font>.
 DialogID_540=<font face="Default" color="#ffffff">Our martial arts are complex but refined. Please learn Inner Skill: Emei Stilt Walking Skill.</font>
-DialogID_541=<font face="Default" color="#ffffff">Our martial arts are complex but refined. Please learn Inner Skill: Mental Skill of Leisure.</font>
 DialogID_542=<font face="Default" color="#ffffff" >Our martial arts are complex but refined. Please learn Inner Skill: Seven Limitations Manual</font>.
 DialogID_543=<font face="Default" color="#ffffff" >Our martial arts are complex but refined. Please learn Inner Skill: Xuanyuan Manual</font>.
 DialogID_544=<font face="Default" color="#ffffff">Our martial arts are complex but refined. Please learn Inner Skill: Secrets of Dual Training.</font>
@@ -3127,7 +3114,6 @@ SubmitNpcEx_1305=When level reaches Untapped Potential, find <a href="findnpc_ne
 SubmitNpcEx_1309=When level reaches Untapped Potential, find <a href="findnpc_new,school05,WorldNpc02206" style="HLStype1">Tang Xieyu</a> to learn Vertigo Dart.
 SubmitNpcEx_1313=When level reaches Untapped Potential, find <a href="findnpc_new,school03,WorldNpc03316" style="HLStype1">Cheng Yimo</a> to learn the Leisure Kick.
 SubmitNpcEx_1317=When level reaches Untapped Potential, find <a href="findnpc_new,school01,WorldNpc04103" style="HLStype1">Miao Ying</a> to learn Eagle Claw Fist.
-SubmitNpcEx_1321=Talk to <a href="findnpc_new,school04,WorldNpc03811" style="HLStype1">Wu Hu</a>.
 SubmitNpcEx_1575=Press "B" to open <font color="#ee7621">Backpack</font>. Equip the Treasure <a href="TASK_ITEM,treasure_59998" style="HLStype1">Black Jade Ornament</a>. Press "C" to open <font color="#ee7621">Character Attribute</font> Interface. Click the <font color="##ee7621">Treasure</font> Button under your Character to check the Treasure's information.
 SubmitNpcEx_1576=Press "B" to open <font color="#ee7621">Backpack</font>. Equip the Treasure <a href="TASK_ITEM,treasure_59998" style="HLStype1">Black Jade Ornament</a>. Press "C" to open <font color="#ee7621">Character Attribute</font> Interface. Click the <font color="##ee7621">Treasure</font> Button under your Character to check the Treasure's information.
 SubmitNpcEx_1577=Press "B" to open <font color="#ee7621">Backpack</font>. Equip the Treasure <a href="TASK_ITEM,treasure_59998" style="HLStype1">Black Jade Ornament</a>. Press "C" to open <font color="#ee7621">Character Attribute</font> Interface. Click the <font color="##ee7621">Treasure</font> Button under your Character to check the Treasure's information.
@@ -3154,7 +3140,6 @@ interactinfo_127=Talk to <a href="findnpc_new,born01,WorldNpc00961" style="HLSty
 interactinfo_538=Gain Meditation Script from <a href="findnpc_new,groupscene012,Npc_yd_wg_jx_sl01" style="HLStype1">Qingping</a> at<a href="findnpc_new,school08,Npc_yd_wg_cs_sl01" style="HLStype1"> Cultivation Hall.</a>
 interactinfo_539=Gain Yin Yang Heart Protecting Skill Script from <a href="findnpc_new,groupscene011,Npc_yd_wg_jx_wd01" style="HLStype1">Ding Zhengqing</a> at<a href="findnpc_new,school07,Npc_yd_wg_cs_wd01" style="HLStype1"> Cultivation Hall.</a>
 interactinfo_540=Gain Emei Stilt Walking Skill Script from <a href="findnpc_new,groupscene013,Npc_yd_wg_jx_em01" style="HLStype1">Wang Longyan</a> at<a href="findnpc_new,school06,Npc_yd_wg_cs_em01" style="HLStype1"> Cultivation Hall.</a>
-interactinfo_541=Gain Mental Skill of Leisure Script from <a href="findnpc_new,groupscene014,Npc_yd_wg_jx_gb01" style="HLStype1">Li Sanyue</a> at<a href="findnpc_new,school02,Npc_yd_wg_cs_gb01" style="HLStype1"> Cultivation Hall.</a>
 interactinfo_542=Gain Seven Limitations Manual Script from <a href="findnpc_new,groupscene015,Npc_yd_wg_jx_tm01" style="HLStype1">Ji Chaoqun</a> at<a href="findnpc_new,school05,Npc_yd_wg_cs_tm01" style="HLStype1"> Cultivation Hall.</a>
 interactinfo_543=Gain Xuanyuan Manual Script from <a href="findnpc_new,groupscene017,Npc_yd_wg_jx_jy01" style="HLStype1">Huang Jiyong</a> at<a href="findnpc_new,school01,Npc_yd_wg_cs_jy01" style="HLStype1"> Cultivation Hall.</a>
 interactinfo_544=Gain Secrets of Dual Training Script from <a href="findnpc_new,groupscene018,Npc_yd_wg_jx_jl01" style="HLStype1">Tian Dong</a> at<a href="findnpc_new,school04,Npc_yd_wg_cs_jl01" style="HLStype1"> Cultivation Hall.</a>
@@ -3290,4 +3275,22 @@ DialogID_293=<font face="Default" color="#ffffff" >I admire heroes of past. When
 interactinfo_293=Continue to talk to <a href="findnpc_new,city02,Newtreasure001" style="HLStype1">Xu Bo</a>
 okmenu_293=<font face="Default" color="#ffffff" >Thank you! </font>
 SubmitNpcEx_1836=Find <a href="findnpc_new,city02,Newtreasure001" style="HLStype1">Xu Bo</a> and take the Jade doll
+DialogID_344=<font face="Default" color="#ffffff" >What is it you wish to ask me, Young Hero?  Can it be because we the Beast Villa have been recruiting Jianghu heroes that you have come to join us?  But we have no place for the weak.  </font><font color="#ee7621">(You can join Beast Villa through a Random Encounter after completing the tier 2 internal skills of Age of Wushu Record.)</font>
+DialogID_541=<font face="Default" color="#ffffff">Our martial arts are complex but refined. Please learn Inner Skill: Mental Skill of Leisure.</font>
+SubmitNpcEx_1321=Talk to <a href="findnpc_new,school04,WorldNpc03811" style="HLStype1">Wu Hu</a>.
+interactinfo_344=Take the monk's letter to <a href="findnpc_new,school02,wssz_132" style="HLStype1">the faction guide at Beast Villa.</a>
+interactinfo_541=Gain Mental Skill of Leisure Script from <a href="findnpc_new,groupscene014,Npc_yd_wg_jx_gb01" style="HLStype1">Li Sanyue</a> at<a href="findnpc_new,school02,Npc_yd_wg_cs_gb01" style="HLStype1"> Cultivation Hall.</a>
+okmenu_108=Thank you very much! （<font face="Default" color="#ff0000" >Note: You will leave the Beginner's Protection period if you learn this Array. You will enable Jianghu mode and could be attacked by other players</font>)
+okmenu_120=Thank you very much! （<font face="Default" color="#ff0000" >Note: You will leave the Beginner's Protection period if you learn this Array. You will enable Jianghu mode and could be attacked by other players</font>)
+okmenu_121=Thank you very much! （<font face="Default" color="#ff0000" >Note: You will leave the Beginner's Protection period if you learn this Array. You will enable Jianghu mode and could be attacked by other players</font>)
+okmenu_122=Thank you very much! （<font face="Default" color="#ff0000" >Note: You will leave the Beginner's Protection period if you learn this Array. You will enable Jianghu mode and could be attacked by other players</font>)
+okmenu_123=Thank you very much! （<font face="Default" color="#ff0000" >Note: You will leave the Beginner's Protection period if you learn this Array. You will enable Jianghu mode and could be attacked by other players</font>)
+okmenu_124=Thank you very much! （<font face="Default" color="#ff0000" >Note: You will leave the Beginner's Protection period if you learn this Array. You will enable Jianghu mode and could be attacked by other players</font>)
+okmenu_344=<font face="Default" color="#ffffff" >No, I have been asked by Big Monk to deliver a letter. I wanted to visit Beast Villa when I heard it was a special place.</font>
+specialinfo_2017=Learn how to switch between inner skills and leisure mental skill.
+specialinfo_2131=Single queue, select Opposing Factions mode, enter <font color="#FF3333">Ancient Tomb Sect (6 vs 6 mode)</font> Battlefield, and win the battle.
+story_510_4=<font face="Default" color="#ffffff" >The Golden Needle used by the Shen family of the Golden Needle Sect can be used both as a healing tool, and a deadly weapon.  The disciples of the Shen family have always kept a low profile and upheld a neutral position. They have a tradition of intermarriages with the Xu Family Manor for generations, and the relationship between these two factions is strong. </font>
+SubmitNpcEx_1837=Talk to <a href="findnpc_new,city01,my_home" style="HLStype1">Building Officer</a>.
+SubmitNpcEx_1838=Bring all building materials to the <a href="findnpc_new,city01,my_home" style="HLStype1">Building Officer.</a>
+collectinfo_437=<font color="#99CC00">Special House Exchange Voucher</font> can be exchanged with <font color="#d63607" >Ming Residence Tokens</font> dropped in Forbidden Instances. exchange them with the <font color="#d63607" >Building Officer</font>.
 

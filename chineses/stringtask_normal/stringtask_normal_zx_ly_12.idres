@@ -1,4 +1,5 @@
 ﻿
+target_26576=赶紧回古墓派吧
 CanAcceptMenu_26529=情花之毒
 CanAcceptMenu_26531=唐家解语
 CanAcceptMenu_26532=唐门缺毒
@@ -6,8 +7,8 @@ CanAcceptMenu_26535=采蛇之毒
 CanAcceptMenu_26536=杀人救人
 CanAcceptMenu_26537=回见解语
 CanAcceptMenu_26538=百试百灵
-CanAcceptMenu_26540=正派人士
-CanAcceptMenu_26541=正派人士
+CanAcceptMenu_26540=Wanderer
+CanAcceptMenu_26541=Wanderer
 CanAcceptMenu_26542=莫名卷入
 CanAcceptMenu_26543=一路蹦逃
 CanAcceptMenu_26546=求毒救命
@@ -20,45 +21,45 @@ CanAcceptMenu_26558=妇人唐凤
 CanAcceptMenu_26560=欺软怕硬
 CanAcceptMenu_26562=欺软怕硬
 CanAcceptMenu_26563=欺软怕硬
-CanAcceptMenu_26564=往事如烟
-CanAcceptMenu_26565=往事如烟
-CanAcceptMenu_26566=往事如烟
+CanAcceptMenu_26564=Speak of the past
+CanAcceptMenu_26565=Speak of the past
+CanAcceptMenu_26566=Speak of the past
 CanAcceptMenu_26567=笑有出头
 CanAcceptMenu_26570=笑有出头
 CanAcceptMenu_26571=此事终了
 CanAcceptMenu_26572=此事终了
-CanAcceptMenu_26573=七星海棠
+CanAcceptMenu_26573=Blossom of the Seven Stars
 CanAcceptMenu_26576=赶回救人
-CompleteMenu_26529=完成任务
-CompleteMenu_26531=完成任务
-CompleteMenu_26532=完成任务
-CompleteMenu_26535=完成任务
-CompleteMenu_26536=完成任务
-CompleteMenu_26537=完成任务
-CompleteMenu_26538=完成任务
-CompleteMenu_26540=完成任务
-CompleteMenu_26541=完成任务
-CompleteMenu_26542=完成任务
-CompleteMenu_26543=完成任务
-CompleteMenu_26546=完成任务
-CompleteMenu_26550=完成任务
-CompleteMenu_26552=完成任务
-CompleteMenu_26553=完成任务
-CompleteMenu_26554=完成任务
-CompleteMenu_26557=完成任务
-CompleteMenu_26558=完成任务
-CompleteMenu_26560=完成任务
-CompleteMenu_26562=完成任务
-CompleteMenu_26563=完成任务
-CompleteMenu_26564=完成任务
-CompleteMenu_26565=完成任务
-CompleteMenu_26566=完成任务
-CompleteMenu_26567=完成任务
-CompleteMenu_26570=完成任务
-CompleteMenu_26571=完成任务
-CompleteMenu_26572=完成任务
-CompleteMenu_26573=完成任务
-CompleteMenu_26576=完成任务
+CompleteMenu_26529=Complete task
+CompleteMenu_26531=Complete task
+CompleteMenu_26532=Complete task
+CompleteMenu_26535=Complete task
+CompleteMenu_26536=Complete task
+CompleteMenu_26537=Complete task
+CompleteMenu_26538=Complete task
+CompleteMenu_26540=Complete task
+CompleteMenu_26541=Complete task
+CompleteMenu_26542=Complete task
+CompleteMenu_26543=Complete task
+CompleteMenu_26546=Complete task
+CompleteMenu_26550=Complete task
+CompleteMenu_26552=Complete task
+CompleteMenu_26553=Complete task
+CompleteMenu_26554=Complete task
+CompleteMenu_26557=Complete task
+CompleteMenu_26558=Complete task
+CompleteMenu_26560=Complete task
+CompleteMenu_26562=Complete task
+CompleteMenu_26563=Complete task
+CompleteMenu_26564=Complete task
+CompleteMenu_26565=Complete task
+CompleteMenu_26566=Complete task
+CompleteMenu_26567=Complete task
+CompleteMenu_26570=Complete task
+CompleteMenu_26571=Complete task
+CompleteMenu_26572=Complete task
+CompleteMenu_26573=Complete task
+CompleteMenu_26576=Complete task
 accept_26529_1=有空的话，你去唐门寻找下七星海棠吧，以此制成的解药才能根治这毒。
 accept_26531_1=药材等内务之事属内堂堂主唐解语所管。解语师姐现在正在明瑟楼中，少侠过了此门第一间屋子就是了。
 accept_26532_1=你来唐门是为何事？
@@ -90,7 +91,7 @@ accept_26572_1=这次之事真是多谢少侠了。
 accept_26573_1=少侠。
 accept_26576_1=这就是七星海棠，自己注意收好。
 complete_26529=药材？
-complete_26531=你是谁？
+complete_26531=Who are you?
 complete_26532=怎么，这么急着去送死吗。那蛇窟本是一处上古毒潭，百余年前先祖将天下蛇种投入其中繁衍生息，到了如今里面的翠青蛇也比外面的竹叶青要毒的多。
 complete_26535=少…侠…少……救命……。
 complete_26536=（看都不看就吞下蛇毒）呜…咳咳，感觉怪怪的，不过绞痛之感确实轻了许多啊…多谢少侠救命之恩啊！
@@ -108,7 +109,7 @@ complete_26554=这股子如此强烈的瘴气是怎么回事……
 complete_26557=呵呵，多谢少侠看得起。
 complete_26558=你刚刚说天笑还活着？？？
 complete_26560=唐凤？你是姥姥？（自称唐凤的老妇人问道：你还拦我吗？）我…我……小的……我我……
-complete_26562=嗯……
+complete_26562=Ok
 complete_26563=这个……那个……
 complete_26564=别理他们了
 complete_26565=天笑……天笑……
@@ -189,27 +190,27 @@ next_26537=去找<a href="findnpc_new,school05,WorldNpc02206" style="HLStype1">�
 next_26538=去找<a href="findnpc_new,school05,WorldNpc02206" style="HLStype1">唐解语</a>
 next_26540=去找<a href="findnpc_new,school05,tm032" style="HLStype1">郑行昌</a>
 next_26541=去找<a href="findnpc_new,school05,tm032" style="HLStype1">郑行昌</a>
-next_26542=去找<a href="findnpc_new,school05,WorldNpc02205" style="HLStype1">唐少昂</a>
+next_26542=Find <a href="findnpc_new,school05,WorldNpc02205" style="HLStype1">Tang Shaoang</a>
 next_26543=去找<a href="findnpc_new,school05,tm036" style="HLStype1">小蛇</a>
 next_26546=<a href="findnpc_new,school05,tm039" style="HLStype1">唐天笑</a>
 next_26550=去找<a href="findnpc_new,school05,tm039" style="HLStype1">唐天笑</a>
 next_26552=听<a href="findnpc_new,school05,tm039" style="HLStype1">唐天笑</a>说
 next_26553=去找<a href="findnpc_new,school05,tm039" style="HLStype1">唐天笑</a>
-next_26554=去找<a href="findnpc_new,school05,WorldNpc02205" style="HLStype1">唐少昂</a>
+next_26554=Find <a href="findnpc_new,school05,WorldNpc02205" style="HLStype1">Tang Shaoang</a>
 next_26558=去找<a href="findnpc_new,school05,tm038" style="HLStype1">唐门姥姥</a>
 next_26560=去找<a href="findnpc_new,school05,tm032" style="HLStype1">郑行昌</a>
 next_26562=去找<a href="findnpc_new,school05,tm037" style="HLStype1">萧天放</a>
 next_26563=去找<a href="findnpc_new,school05,tm032" style="HLStype1">郑行昌</a>
 next_26564=去找<a href="findnpc_new,school05,tm038" style="HLStype1">唐门姥姥</a>
-next_26565=去找<a href="findnpc_new,school05,WorldNpc02201" style="HLStype1">唐凤</a>
+next_26565=Find <a href="findnpc_new,school05,WorldNpc02201" style="HLStype1">Grandmother Tang</a>
 next_26566=去找<a href="findnpc_new,school05,tm039" style="HLStype1">唐天笑</a>
 next_26567=去找<a href="findnpc_new,school05,tm039" style="HLStype1">唐天笑</a>
 next_26570=去找<a href="findnpc_new,school05,WorldNpc02364" style="HLStype1">杜枫</a>
-next_26571=去找<a href="findnpc_new,school05,WorldNpc02201" style="HLStype1">唐凤</a>
-next_26572=去找<a href="findnpc_new,school05,WorldNpc02201" style="HLStype1">唐凤</a>
+next_26571=Find <a href="findnpc_new,school05,WorldNpc02201" style="HLStype1">Grandmother Tang</a>
+next_26572=Find <a href="findnpc_new,school05,WorldNpc02201" style="HLStype1">Grandmother Tang</a>
 next_26573=去找<a href="findnpc_new,school05,WorldNpc02206" style="HLStype1">唐解语</a>
-next_26576=去找<a href="findnpc_new,city01,WorldNpc08947" style="HLStype1">杨邪</a>
-submit_26529=恩
+next_26576=Go to find <a href="findnpc_new,city01,WorldNpc08947" style="HLStype1">Yang Xie</a>
+submit_26529=Rain
 submit_26531=（小声嘀咕）没想到唐门内务总管竟然是这么个大美人……
 submit_26532=额…不就是蛇吗，舞剑护体不让其近身不就可以了。
 submit_26535=（这地方怎么会有个小叫花子）
@@ -218,14 +219,14 @@ submit_26537=怎么样，哈哈，我可带了不少回来
 submit_26538=（抢过后一口喝下）嗯…我感觉浑身充满了力量啊…不过为什么这避毒水喝起来有点像二锅头呢……
 submit_26540=(蛇窟…蛇窟…脑子怎么有点昏昏沉沉的。)
 submit_26541=就这三脚猫功夫也敢挡本大爷，还不快给我让开。
-submit_26542=……
+submit_26542=(The horse casually glances at you)
 submit_26543=（咳咳，好狠毒的唐少昂内力拼不过我竟然下毒…）
 submit_26546=（咦，这蛇窟深处怎么还有活人。）
 submit_26550=（这药似乎真有点效果……）
 submit_26552=哦，在下明白了
 submit_26553=前辈还有何事？
 submit_26554=哼，怎么，还想反抗？
-submit_26557=哎
+submit_26557=Hey
 submit_26558=这……（这位老太婆谁啊……）
 submit_26560=（想想……到底是谁……）
 submit_26562=（我也盯着萧天放）
@@ -239,7 +240,7 @@ submit_26571=晚辈见过姥姥。对了，前辈人呢？
 submit_26572=额，这个么（头还是有点昏昏沉沉的）
 submit_26573=这个，那个
 submit_26576=恩，带回来了，在这呢
-target_26529=前往唐门
+target_26529=To Tangmen
 target_26531=去找唐解语
 target_26532=听唐解语说
 target_26535=去采集点蛇毒
@@ -250,7 +251,7 @@ target_26540=再次前往蛇窟
 target_26541=打败郑行昌
 target_26542=看他们到底在干什么
 target_26543=听唐少昂说
-target_26546=前往蛇窟
+target_26546=Go To Snake Den
 target_26550=听唐天笑说
 target_26552=听唐天笑说
 target_26553=收下唐天笑给的神秘药丸
@@ -267,7 +268,6 @@ target_26570=逃离这鬼地方吧
 target_26571=去找唐门姥姥
 target_26572=听唐姥姥说
 target_26573=去找唐解语
-target_26576=赶紧回古墓派吧
 title_26529=以毒换毒
 title_26531=以毒换毒
 title_26532=以毒换毒！？

@@ -1,7 +1,8 @@
 ﻿
+DialogID_40782=替我把中将的玄铁双剑交给他。
+okmenu_40781=我是替中将来要玄铁双剑的
 DialogID_40780=我准备在满军军营内暗插个内应，帮我护送他去满军军营。
 DialogID_40781=你找我什么事？
-DialogID_40782=替我把中将的玄铁双剑交给他。
 DialogID_40783=满军还聚集了许多先锋弓兵 也帮我去杀掉他们，杀杀他们的锐气。
 DialogID_40784=你走后有3个蒙面的黑衣人来抢走了我要交给中将的密函，看他们的武功套路定是那满军鞭挞者。
 DialogID_40785=替我把密函交给年君浩中将。
@@ -9,9 +10,9 @@ DialogID_40786=我只用了一成功力，看来不拿出看家本领是战胜�
 DialogID_40787=我不行了，替我把这些钱捐给灾.......
 DialogID_40788=呜呜……（小鹿的眼睛里闪着泪光……）
 DialogID_40789=找我什么事？
-DialogID_40790=你找我何事？
+DialogID_40790=What do you want me for?
 DialogID_40791=替我把貂皮送给副将。
-DialogID_40792=你找我何事？
+DialogID_40792=What do you want me for?
 DialogID_40793=汉军中将找了很久都没有找到，你能带我去么？
 DialogID_40794=你又来了。
 DialogID_40795=不错，但是我没钱你给，送去归西。
@@ -24,18 +25,18 @@ QiecuoTitle_40787=杀了你就没有后患了！
 ZZAnswerText1_3609=好色将军
 ZZAnswerText1_3610=和头领老婆奸情被发现
 ZZAnswerText1_3611=加入铅
-ZZAnswerText2_3609=常胜将军
+ZZAnswerText2_3609=Victorious General
 ZZAnswerText2_3610=被人陷害
 ZZAnswerText2_3611=加入青铜
 ZZAnswerText3_3609=金刀将军
 ZZAnswerText3_3610=比武失败
 ZZAnswerText3_3611=随便加反正都能硬
-ZZAnswerText_1_40780=好色将军  
-ZZAnswerText_2_40780=常胜将军 
+ZZAnswerText_1_40780=好色将军
+ZZAnswerText_2_40780=Victorious General
 ZZAnswerText_3_40780=金刀将军
 collectinfo_40780=收集<a href="findnpc_new,scene01,Gather00087m" style="HLStype1">盒子</a>
 collectinfo_40781=从<a href="findnpc_new,scene01,monf012102" style="HLStype1">满军鞭挞者</a> 身上夺回密函
-collectinfo_40782=收集<a href="findnpc_new,scene01,Gather00088m" style="HLStype1">鹿茸草</a> 
+collectinfo_40782=收集<a href="findnpc_new,scene01,Gather00088m" style="HLStype1">鹿茸草</a>
 collectinfo_40783=收集<a href="findnpc_new,scene01,Gather00089m" style="HLStype1">芹青草</a> 1个
 collectinfo_40784=从<a href="findnpc_new,scene01,monf012104" style="HLStype1">满军守卫官</a>身上收集貂皮
 collectinfo_40785=从<a href="findnpc_new,scene01,monf012102" style="HLStype1">满军鞭挞者</a>身上收集银两
@@ -44,7 +45,7 @@ collectinfo_40787=收集<a href="findnpc_new,scene01,Gather00091m" style="HLStyp
 convoyinfo_40780=带密探到<a href="findnpc,scene01,661,0,600" style="HLStype1">满军营地</a>
 convoyinfo_40781=带暴旬到<a href="findnpc,scene01,680,0,498" style="HLStype1">安全处</a>
 convoyinfo_40782=带到<a href="findnpc,scene01,661,0,600" style="HLStype1">汉军中将处</a>
-hunterinfo_40780=杀死<a href="findnpc_new,scene01,monf012100" style="HLStype1">被俘的汉军士兵</a> 
+hunterinfo_40780=杀死<a href="findnpc_new,scene01,monf012100" style="HLStype1">被俘的汉军士兵</a>
 hunterinfo_40781=杀掉<a href="findnpc_new,scene01,monf012202" style="HLStype1">满军前锋士兵</a>
 hunterinfo_40782=杀掉<a href="findnpc_new,scene01,monf012203" style="HLStype1">满军前锋弓兵</a>
 hunterinfo_40783=杀死<a href="findnpc_new,scene01,monf012101" style="HLStype1">满军侩子手</a>
@@ -52,7 +53,7 @@ hunterinfo_40784=打败<a href="findnpc_new,scene01,WorldNpc05469" style="HLStyp
 hunterinfo_40785=再次打败<a href="findnpc_new,scene01,WorldNpc05469" style="HLStype1">师博坤</a>
 hunterinfo_40786=杀掉<a href="findnpc_new,scene01,monf012204" style="HLStype1">汉军探子</a>
 hunterinfo_40787=打败<a href="findnpc_new,scene01,WorldNpc05475" style="HLStype1">范佐</a>
-hunterinfo_40789=杀死<a href="findnpc_new,scene01,monrf011209" style="HLStype1">刺客</a> 
+hunterinfo_40789=杀死<a href="findnpc_new,scene01,monrf011209" style="HLStype1">刺客</a>
 hunterinfo_40790=杀死<a href="findnpc_new,scene01,monrf011210" style="HLStype1">粮草贼匪</a>
 interactinfo_40780=与<a href="findnpc_new,scene01,WorldNpc05465" style="HLStype1">年君浩</a>交谈
 interactinfo_40781=与<a href="findnpc_new,scene01,WorldNpc05467" style="HLStype1">赖强</a>交谈
@@ -73,20 +74,19 @@ interactinfo_40795=与<a href="findnpc_new,scene01,WorldNpc05475" style="HLStype
 maintext_3609=你知道我们将军有什么称号呢？
 maintext_3610=你知道我为什么沦落至此吗？
 maintext_3611=你觉得加入什么材料可以明显加大盔甲的硬度呢？
-okmenu_40780=包在我身上
-okmenu_40781=我是替中将来要玄铁双剑的
-okmenu_40782=好的，我这就去
-okmenu_40783=我这就去
+okmenu_40780=I'll take care of it
+okmenu_40782=I'll leave immediately.
+okmenu_40783=It'll be my pleasure.
 okmenu_40784=我这就去帮你夺回来
-okmenu_40785=好的
+okmenu_40785=Okay.
 okmenu_40786=我也没出看家本领呢
 okmenu_40787=他应该是想说灾民吧，我这就去
 okmenu_40788=先帮它去采些草药来吧
 okmenu_40789=请给些馒头，有个官差快饿死了
 okmenu_40790=请郎中给一个金疮药救人性命
-okmenu_40791=我这就去
+okmenu_40791=It'll be my pleasure.
 okmenu_40792=我是替廖懿轩来送礼物的
-okmenu_40793=没问题
+okmenu_40793=No problem!
 okmenu_40794=还请郎中再给些清毒丹
 okmenu_40795=你想杀人灭口么
 quest_menu_40780=你还要说什么？
@@ -102,15 +102,15 @@ story_40783_1=我的母亲走的早，从小和父亲长大，后来父亲为了
 story_menu_40780=你要说什么呢？
 story_menu_40781=他们为什么追你
 story_menu_40782=你想说什么
-story_menu_40783=这是怎么回事？
+story_menu_40783=And then what happened?
 storyinfo_40780=听<a href="findnpc_new,scene01,WorldNpc05466" style="HLStype1">方旭</a>说故事
 storyinfo_40781=听<a href="findnpc_new,scene01,WorldNpc05471" style="HLStype1">暴旬</a>的故事
 storyinfo_40782=听<a href="findnpc_new,scene01,WorldNpc05473" style="HLStype1">骆初阳</a>的故事
 storyinfo_40783=与<a href="findnpc_new,scene01,WorldNpc05486" style="HLStype1">时绍辉</a>交谈
 storymenu_40780_1=好的，我知道了
-storymenu_40781_1=原来是这样
+storymenu_40781_1=So it is.
 storymenu_40782_1=好凄惨
-storymenu_40783_1=原来是这样
+storymenu_40783_1=So it is.
 useiteminfo_40780=对<a href="findnpc_new,scene01,WorldNpc05476" style="HLStype1">伍绰</a>使用<a href="TASK_ITEM,useitem_51m" style="HLStype1">金疮药</a>
 useiteminfo_40781=对<a href="findnpc_new,scene01,WorldNpc05480" style="HLStype1">归越彬</a>使用<a href="TASK_ITEM,useitem_52m" style="HLStype1">清毒丹</a>
 useiteminfo_40782=对<a href="findnpc_new,scene01,WorldNpc05481" style="HLStype1">归旭</a>使用<a href="TASK_ITEM,useitem_52m" style="HLStype1">清毒丹</a>

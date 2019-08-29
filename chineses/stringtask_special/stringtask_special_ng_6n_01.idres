@@ -100,7 +100,6 @@ interactinfo_61039=Speak with the <a href="findnpc_new,city03,npc_6n_yxy_003" st
 interactinfo_61040=Speak with the <a href="findnpc_new,city03,npc_6n_yxy_004" style="HLStype1">Wudang liaison</a>.
 interactinfo_61041=Speak with the <a href="findnpc,city03,705,4,1331" style="HLStype1">Coachman</a> and rally at the <a href="findnpc_new,born03,eventnpc_6n_yxy_004" style="HLStype1">Qingyao Palace gate</a>.
 interactinfo_61042=Speak with <a href="findnpc_new,born03,npc_6n_yxy_005" style="HLStype1">Mo Wuqing</a>.
-interactinfo_61043=<font face="Default" color="#EE2C2C" >Attack Qingyao Palace and find Ming Shiyue.</font>(Information can be found at 1360,180)
 interactinfo_61044=Ming Shiyue is nowhere to be found. All that remains is a letter left for Zhu Di. Take the letter to the <a href="findnpc_new,city03,WorldNpc11046" style="HLStype1">Emperor</a>.
 interactinfo_61045=Speak with the <a href="findnpc_new,city04,npc_6n_yxy_010" style="HLStype1">people</a> nearby
 interactinfo_61046=Head to the <a href="findnpc_new,city03,event_6n_mxm06" style="HLStype1">imperial palace</a> and speak with the Emperor.
@@ -640,4 +639,90 @@ questioninfo_71012=Answer <a href="findnpc_new,school01,WorldNpc04319" style="HL
 questioninfo_71015=The abbot sure isn't letting me off easy! Everyone at Shaolin knows <a href="findnpc_new,school08,sl057" style="HLStype1">Qin Hui</a> is an expert without equal.
 questioninfo_71016=<a href="findnpc_new,school08,WorldNpc00210" style="HLStype1">Master Zu Jing</a> is an experienced disciplinarian. He must be very knowledgeable.
 SubmitNpcEx_61040=Obtain rewards from Event Ambassador Lin Liang
+interactinfo_61043=<font face="Default" color="#EE2C2C" >Attack Qingyao Palace and find Ming Shiyue.</font>(Information can be found at 1360,180)
+DialogID_71061=<font face="Default" color="#ffffff" >Please, save our milord. </font>
+DialogID_71064=<font face="Default" color="#ffffff" >Hush...be quiet! A few days ago a mysterious man who claimed to know Jiugong Elder had came. I took his token to Jiugong Elder and Jiugong Elder really know him. He was just the person who damaged Jiugong Elder! Now go and help Jiugong Elder to collect the herbs.</font>
+DialogID_71069=<font face="Default" color="#ffffff" >We must defeat him as soon as possible or he may cure himself. Here is a pill, after taking it you can resist most of poison. Do you believe in me?</font>
+SubmitNpcEx_71083=<a href="findnpc_new,born04,NPC_qynew_dy_01" style="HLStype1">Jiugong Elder</a>
+SubmitNpcEx_71086=Listen to <a href="findnpc_new,city02,NPC_qynew_dy_22" style="HLStype1">Jiugong Elder</a> about the story.
+collectinfo_71006=Check if there is any <a href="findnpc,born04,955,30,916" style="HLStype1">Clue</a> left.
+collectinfo_71007=It seems that the place guided by the map is just ahead. Enter <a href="findnpc_new,born04,PlotDoor_qynew_dy_02" style="HLStype1">Water Abode</a> and seize back the Qin Family's belongings.
+collectinfo_71008=Pick up Qin Family's <a href="findnpc,born04,673,-35,1038" style="HLStype1">Memorial Tablet</a>.
+collectinfo_71009=Collect <a href="findnpc_new,city02,Gather_qynew_dy_03" style="HLStype1">Sky Fragrant Herb</a>
+collectinfo_71010=Collect <a href="findnpc_new,city02,Gather_qynew_dy_04" style="HLStype1">Shexie Grass</a>
+collectinfo_71011=Collect <a href="findnpc_new,city02,Gather_qynew_dy_05" style="HLStype1">Ding Xianglan</a>
+collectinfo_71012=Enter the <a href="findnpc,city02,1246,9,493" style="HLStype1">Cave</a>, defeat the <a href="findnpc,adv032,209,11,432" style="HLStype1">Mysterious Person</a>, and get the antidote.
+hunterinfo_71039=These <a href="findnpc_new,born04,NPC_qynew_dy_07" style="HLStype1">Bandits</a>, they just attacked the unarmed people!
+hunterinfo_71040=Drive away the <a href="findnpc_new,born04,NPC_qynew_dy_02" style="HLStype1">Bandits</a>.
+hunterinfo_71041=There seems to be <a href="findnpc_new,,NPC_qynew_dy_15" style="HLStype1">Puppet</a> in the front, defeat it (Enter Water Abode).
+hunterinfo_71042=Defeat <a href="findnpc_new,,NPC_qynew_dy_21" style="HLStype1">NPC_qynew_dy_21</a>
+interactinfo_71059=Head to Qiandeng Town, find the <a href="findnpc_new,born04,Eventnpc_qynew_dy_01" style="HLStype1">place</a> described in the letter.
+interactinfo_71060=Head to <a href="findnpc_new,born04,Eventnpc_qynew_dy_02" style="HLStype1">Green Island</a>.
+interactinfo_71061=Inquire the injured <a href="findnpc_new,born04,NPC_qynew_dy_11" style="HLStype1">Servant</a>.
+interactinfo_71062=Follow the <a href="findnpc_new,born04,Eventnpc_qynew_dy_03" style="HLStype1">trace</a> left by Cui Jieying and seize back the memorial tablet.
+interactinfo_71063=Maybe the script is hidden in the <a href="findnpc_new,,NPC_qynew_dy_16" style="HLStype1">Chest</a>, open and have a look (Enter <a href="findnpc_new,born04,PlotDoor_qynew_dy_02" style="HLStype1">Water Abode</a>)
+interactinfo_71064=Talk to <a href="findnpc_new,city02,NPC_qynew_dy_20" style="HLStype1">Medicine Boy</a>.
+interactinfo_71065=Follow the <a href="findnpc_new,city02,Eventnpc_qynew_dy_04" style="HLStype1">Trace Left by Mysterious Person</a>.
+interactinfo_71066=Follow the <a href="findnpc_new,city02,Eventnpc_qynew_dy_05" style="HLStype1">Trace Left by Mysterious Person</a>.
+interactinfo_71067=Follow the <a href="findnpc_new,city02,Eventnpc_qynew_dy_06" style="HLStype1">Trace Left by Mysterious Person</a>.
+interactinfo_71068=Speak with <a href="findnpc_new,,Eventnpc_qynew_dy_07" style="HLStype1">Eventnpc_qynew_dy_07</a>.
+interactinfo_71069=Discuss with <a href="findnpc_new,city02,NPC_qynew_dy_20" style="HLStype1">Medicine Boy</a> about what to do.
+interactinfo_71070=The grain on the tablet seems to be a map. Go to the <a href="findnpc_new,born04,Eventnpc_qynew_dy_08" style="HLStype1">place</a> appointed by the map and seize back the Qin Family's belongings.
+okmenu_71061=<font face="Default" color="#ffffff" >Hold on!</font>
+okmenu_71064=<font face="Default" color="#ffffff" >I'll go right now!</font>
+okmenu_71069=<font face="Default" color="#ffffff" >I'm not afraid, give it to me.</font>
+story_61024_1=<font face="Default" color="#ffffff" >Thank you for your help. You just came in time. </font>
+story_61024_2=<font face="Default" color="#ffffff" >That's so strange. Elder Cui is originally our servant. We've been living together for more than ten years. I thought he was an honest person, but he is a martial arts expert in fact.</font>
+story_61024_3=<font face="Default" color="#ffffff" >Cui said that we owned the martial arts script of Jiugong Elder, but we really don't know anything about the martial arts script.</font>
+story_61024_4=<font face="Default" color="#ffffff" >Cui didn't believe us, and grabbed our memorial tablet, please help us to retrieve it.</font>
+story_61025_1=<font face="Default" color="#ffffff" >{@0:}? I had been traveling in Luoyang, but I heard that there was a divine script appearing in Qiandeng Town, and I guess what happened. </font><font face="Default" color="#ffffff" >With your ability, you must have solved the problems of the Qin Family.</font>
+story_61025_2=<font face="Default" color="#ffffff" >It's a long story. Fifty years ago, I was just a lad, by a chance I helped an elder and he taught me all his skills, but I even don't know his name.</font>
+story_61025_3=<font face="Default" color="#ffffff" >The elder left after teaching me for one year, and he also gave me a letter, asked me to take care of his posterity, that is the Qin Family, and the script was also left by him.</font>
+story_61025_4=<font face="Default" color="#ffffff" >The elder just wanted his posterity to live away from Jianghu and live peacefully.</font>
+story_61026_1=<font face="Default" color="#ffffff" >Why did Cui bother this?</font><font face="Default" color="#ffffff" > Isn't it good to enjoy a pastoral life?</font>
+story_61026_2=<font face="Default" color="#ffffff" >I don't know the matter about martial arts. Since it is related to Jiugong Elder, please return it.</font>
+story_61027_1=<font face="Default" color="#ffffff" >{@0:} you just came in time. Only you and me can know this. Leave away if you won't promise me.</font>
+story_61027_2=<font face="Default" color="#ffffff" >It's a long story. Anyhow, Jiugong Elder is injured.</font>
+story_61027_3=<font face="Default" color="#ffffff" >Hush...be quiet! A few days ago a mysterious man who claimed to know Jiugong Elder had came. I took his token to Jiugong Elder and Jiugong Elder really know him. He was just the person who damaged Jiugong Elder! Now go and help Jiugong Elder to collect the herbs.</font>
+story_61028_1=<font face="Default" color="#ffffff" >The mysterious person injured Jiugong Elder with strong poison. These medicinal materials can only suppress the poison.</font>
+story_61028_2=<font face="Default" color="#ffffff" >This person is also seriously wounded, he mustn't escaped far away. You can go to look for him, but don't be reckless, come back to me when you find him.</font>
+story_61029_1=<font face="Default" color="#ffffff" >This man is hard to deal with! </font>
+story_61030_1=<font face="Default" color="#ffffff" >I'm fine. Thank you, but there is still some poison in my body.</font>
+story_61030_2=<font face="Default" color="#ffffff" >Sorry to bother you, but where is that mysterious person?</font>
+story_61030_3=
+story_menu_61024=<font face="Default" color="#ffffff" >Sir, how are you?!</font>
+story_menu_61025=<font face="Default" color="#ffffff" >Jiugong Elder?! You also came to Qiandeng Town! </font><font face="Default" color="#ffffff">Elder Qin is...</font>
+story_menu_61026=<font face="Default" color="#ffffff" >I've retrieved it, Elder Qin. There was a secret place called Water Abode in Qiandeng Town and the script was hidden there.</font>
+story_menu_61027=<font face="Default" color="#ffffff" >What makes you so cautious?!</font>
+story_menu_61028=<font face="Default" color="#ffffff" >I've collected the herbs, but why didn't Jiugong Elder cure himself this time?</font>
+story_menu_61029=<font face="Default" color="#ffffff" >I found that cave where the mysterious person is hiding, but the cave is filled with poisonous game so I can't even breath in it.</font>
+story_menu_61030=<font face="Default" color="#ffffff" >Ah?! Jiugong Elder, are you Okay?!</font>
+storyinfo_61024=Ask <a href="findnpc_new,born04,NPC_qynew_dy_03" style="HLStype1">Elder</a> what happened.
+storyinfo_61025=Give the script to <a href="findnpc_new,born04,NPC_qynew_dy_01" style="HLStype1">Jiugong Elder</a> and let him deal with it (The expert always appears at the unexpected place).
+storyinfo_61026=Give the script to <a href="findnpc_new,born04,NPC_qynew_dy_17" style="HLStype1">Qin Ming</a> and let him deal with it.
+storyinfo_61027=Ask <a href="findnpc_new,city02,NPC_qynew_dy_20" style="HLStype1">Medicine Boy</a> what happened.
+storyinfo_61028=Hand the herbs to <a href="findnpc_new,city02,NPC_qynew_dy_20" style="HLStype1">Medicine Boy</a>.
+storyinfo_61029=There is a cave in the front, back to discuss with <a href="findnpc_new,city02,NPC_qynew_dy_20" style="HLStype1">Medicine Boy</a>.
+storyinfo_61030=Hand the antidote to <a href="findnpc_new,city02,NPC_qynew_dy_22" style="HLStype1">Jiugong Elder</a>.
+storymenu_61024_1=<font face="Default" color="#ffffff" >Why did the bandits want to harm you?</font>
+storymenu_61024_2=<font face="Default" color="#ffffff" >It is not the time for you to sign.</font>
+storymenu_61024_3=<font face="Default" color="#ffffff" >Really? Is it related to Jiugong Elder?!</font>
+storymenu_61024_4=<font face="Default" color="#ffffff" >Why did he grab your memorial tablet? Is there any secret in it?</font>
+storymenu_61025_1=<font face="Default" color="#ffffff" >I just did a little work, and Elder Qin wanted to return the script to you. By the way, I wonder why this secret book was hidden in "Water Abode"?</font>
+storymenu_61025_2=<font face="Default" color="#ffffff" >Even you didn't know that expert's name?! That's amazing.</font>
+storymenu_61025_3=<font face="Default" color="#ffffff" >Then why didn't you teach the Qin Family about martial arts but chose to hide the script in the cave?</font>
+storymenu_61025_4=<font face="Default" color="#ffffff" >I see.</font>
+storymenu_61026_1=<font face="Default" color="#ffffff" >Different people have different aspirations. Let him go, but what will you do to this script?</font>
+storymenu_61026_2=<font face="Default" color="#ffffff" >Alright. I'm going.</font>
+storymenu_61027_1=<font face="Default" color="#ffffff" >I promise, just tell me.</font>
+storymenu_61027_2=<font face="Default" color="#ffffff" >What? Jiugong...</font>
+storymenu_61027_3=<font face="Default" color="#ffffff" >I'll go right now!</font>
+storymenu_61028_1=<font face="Default" color="#ffffff" >This person is an expert of poison.</font>
+storymenu_61028_2=<font face="Default" color="#ffffff" >I should go now!</font>
+storymenu_61029_1=<font face="Default" color="#ffffff" >Then we have to ambush at the cave entrance and wait for him.</font>
+storymenu_61030_1=<font face="Default" color="#ffffff" >I got the antidote. Please take it, elder.</font>
+storymenu_61030_2=<font face="Default" color="#ffffff" >I fought against that person and defeated him, then I cremated his corpse. I'd like to ask about his identity, he could even hurt you.</font>
+useiteminfo_61002=View the <a href="TASK_ITEM,useitem_qynew_dy_02" style="HLStype1">Clue</a>.
+useiteminfo_61003=The tablet seems to be empty inside, <a href="TASK_ITEM,useitem_qynew_dy_04" style="HLStype1">Open</a> and have a look.
+useiteminfo_61004=Use the <a href="TASK_ITEM,useitem_qynew_dy_05" style="HLStype1">Antidote</a> and enter the cave.
 

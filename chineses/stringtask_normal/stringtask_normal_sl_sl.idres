@@ -74,7 +74,6 @@ canacceptmenu_85587=Cutting the mat and breaking off the friendship
 canacceptmenu_85588=Wuxiang Skills
 canacceptmenu_85589=Fight in the Heroes Gathering Villa
 canacceptmenu_85590=Vigor Return Secret Book.
-canacceptmenu_85591=Green Lotus Script
 canacceptmenu_85592=Red haired freak.
 canacceptmenu_85593=Cathode Phosphorescence
 canacceptmenu_85594=A Bao Lu
@@ -101,7 +100,6 @@ canacceptmenu_85625=Search for the Corpses.
 canacceptmenu_85626=Get back the Dagger
 canacceptmenu_85628=Common Herb
 canacceptmenu_85629=A happy life
-canacceptmenu_85631=Hua Mountain Competition
 canacceptmenu_85632=The Maid and Shi Xian
 canacceptmenu_85633=Look for the Brocade Box
 completemenu_85500=I gave your gift to Master Liaochen. He asked me to pass on his thanks.
@@ -220,7 +218,6 @@ accept_85506_1=Gosh, this comb was given by Liu Hongshao who had got along well 
 accept_85507_1=Jin Chu looks pretty upset. Go and ask him if he needs any help.
 accept_85508_1=The teahouse owner has asked me to deal with the escaped martial monks but the abbot has also asked me to do something important for him too... Could you help me out?
 accept_85509_1=Array Guard Monks have been lazier and lazier lately. Find Qingshan and ask him for information.
-accept_85510_1=I really need to know the details. Can you ask around for me?
 accept_85511_1=I have a bottle of antidotes which were freshly herbed. Let Qingchen study it to see if he can herb more.
 accept_85512_1=Please help me to take a message to Xiao Taozi, and tell her that I can't play with her today, because I have to clean the temple.
 accept_85513_1=Please help me to take a message to Niu Tiewa, and tell him that I'll go to play with him as soon as I finish my work at hand. Besides, let him not to run far away and wait for me at the usual place.
@@ -718,7 +715,6 @@ target_85587=Help Jia Xu defeat the wandering merchant
 target_85588=Kill The Guard of Mad Monk
 target_85589=Give the West Mad Monk a lesson.
 target_85590=Kill Charming Woman in Purple
-target_85591=Kill the disciple of Wanderer's Valley and then inquire about Qinglian Cheat.
 target_85592=Help Xia Sha defeat the mysterious people
 target_85593=Kill Seven Colors Hell Subordinates
 target_85594=Check the token.
@@ -745,7 +741,6 @@ target_85625=Help Ji Zhen get the Robber's Corpse back.
 target_85626=Help Qing Tong get the Dagger back.
 target_85628=Ask about the story that Ti Ying saves her father.
 target_85629=Help Ji Lianzhu find the Honeysuckle.
-target_85631=Hear of the matter of Hua Mountain Competition.
 target_85632=Help Cui Zhu do her makeup
 target_85633=Help Tian Shi find her missing Brocade Box.
 title_85500=Send Gift
@@ -824,7 +819,6 @@ title_85587=Cut the Mat and End the Friendship
 title_85588=Wuxiang Skills
 title_85589=Fight in The Heroes Gathering Villa
 title_85590=Vigor Return Secret Book
-title_85591=Green Lotus Script
 title_85592=Red Haired Freak
 title_85593=Cathode Phosphorescence
 title_85594=One Yuan Rune
@@ -851,7 +845,6 @@ title_85625=Search for the Corpses
 title_85626=Get Back the Dagger
 title_85628=Common Herb
 title_85629=Five Sucessful Children
-title_85631=Hua Mountain Competition
 title_85632=The Maid and Shi Xian
 title_85633=Look for the Brocade Box
 CanAcceptMenu_85585=<font face="Default" color="#ffffff" >Mount Song Sword Sect traitor</font>
@@ -864,13 +857,11 @@ accept_85595_1=<font face="Default" color="#ffffff" >Get rid of the disciples fr
 accept_85598_1=<s>I planned to go up the mountain and visit the Abbot, but some swordsmen of Songshan stopped me. Could you kill them for me so that I'll be able to go up the mountain peacefully?
 accept_85604_1=<font face="Default" color="#ffffff" >There are Mount Song Sect madmen who will challenge anyone they meet. Can you help me deal with this?</font>
 accept_85620_1=<s>I'll tell you who I am if you bring back the millstones that the Songshan Sect stole from me.
-accept_85631_1=<font face="Default" color="#ffffff" >Do you want me to tell Hua Mountain Competition? I know the story best. My grandfather told me from my childhood. I like that flower basket very much. If you can bring it for me, I will tell you the story</font><font face="Default" color="#ffffff" >.</font>
 complete_85631=<font face="Default" color="#ffffff" > yes, thank you.</font>
 context_85595=Get rid of the disciples from the Mount Song Sword Sect. Their advances toward women are not welcome.
 context_85598=I planned to go up the mountain and visit the Abbot, but some swordsmen of Songshan stopped me. Could you kill them for me so that I'll be able to go up the mountain peacefully?
 context_85604=There are Mount Song Sword Sect madmen who compete with anyone they come across. Have a look.
 context_85620=Villains stole some of my mortar stones. Could you help me get them back?
-context_85631=Do you want me to tell Hua Mountain Competition? I know the story best. My grandfather told me from my childhood. I like that Ice Crystal lily in flower basket very much. If you can bring it for me, I will tell you the story.
 next_85585=Report to <a href="findnpc_new,school08,WorldNpc00388" style="HLStype1">Zuo Yiming</a>.
 target_85507=Punish Furious Monk
 target_85585=Kill Mount Song Sword Sect Traitor
@@ -905,4 +896,13 @@ title_85617=Collecting Cuprite Ore and Cinnabar Ore
 title_85618=Reseizing a Wine Pot
 title_85627=General Pei Stele
 title_85630=Five Poison Script
+CanAcceptMenu_85591=Green Lotus Script
+CanAcceptMenu_85631=Hua Mountain Competition
+accept_85510_1=I really need to know the details. Can you ask around for me?
+accept_85631_1=<font face="Default" color="#ffffff" >Do you want me to tell Hua Mountain Competition? I know the story best. My grandfather told me from my childhood. I like that flower basket very much. If you can bring it for me, I will tell you the story</font><font face="Default" color="#ffffff" >.</font>
+context_85631=Do you want me to tell Hua Mountain Competition? I know the story best. My grandfather told me from my childhood. I like that Ice Crystal lily in flower basket very much. If you can bring it for me, I will tell you the story.
+target_85591=Kill the disciple of Wanderer's Valley and then inquire about Qinglian Cheat.
+target_85631=Hear of the matter of Hua Mountain Competition.
+title_85591=Green Lotus Script
+title_85631=Hua Mountain Competition
 

@@ -144,7 +144,6 @@ complete_51010=<font face="Default" color="#ffffff" >Why wait to learn a few mar
 complete_51015=<font face="Default" color="#ffffff" >Young Hero, you can ask me any other questions you may have, I will tell you if I know. </font>
 complete_51016=<font face="Default" color="#ffffff" >Oh! When you are roaming Jianghu and become acquainted with friends with the same aspirations, you can come to me to join up with pre-established guilds. Of course, once your skills reach the requirements, you can also establish your own guild.</font>
 complete_51017=<font face="Default" color="#ffffff" >You have made so many friends! You are more capable than I thought. </font>
-complete_51018=<font face="Default" color="#ffffff" >It would have been good for you to go watch the Mount Hua Assembly. But there has been trouble. They say even the Heaven Sword has been stolen.</font>
 complete_51019=<font face="Default" color="#ffffff" >What do you want with me?</font>
 complete_51020=<font face="Default" color="#ffffff" >What do you want with me?</font>
 complete_51021=What do you want me to do?
@@ -194,7 +193,6 @@ complete_51243_1=<font face="Default" color="#ffffff" >You know I did not mean t
 complete_51243_2=<font face="Default" color="#ffffff" >I was fighting Du He with silver needles when that foolish Xing Erxia just suddenly burst out of nowhere. Fine, since he meant well, here. Take the antidote.</font>
 complete_51244=<font face="Default" color="#ffffff" >Chang Shanzhao is an old and stubborn mule. Du He, you will never escape my grasp, I will deal with you another day. Tell Xing Erxia that, I...just say that I will remember him</font><font face="Default" color="#ffffff" >! Farewell.</font>
 complete_51245_1=<font face="Default" color="#ffffff" >Young Hero, your words are reasonable but... It's a long story. </font><font face="Default" color="#ffffff" >Since you have just entered Jianghu, let me give you a few martial arts scripts.</font>
-complete_51245_2=<font face="Default" color="#ffffff" >One is Internal Skill Ice Chi, legend has it that it was created by Gao Mountain zen master Zuo Leng. When dealing with your enemies a mere touch activates the cold and freezes your foes, slowing them down. The other set is Defeated Scholar, it was created by a mysterious scholar who set it down to deal with injustice. The skill relies on continuity of movements, and is very aggressive. Each move is used to its full potential. This skill can even be activated mid-air so you would have the advantage of height and surprise to crush your foe. You</font><font face="Default" color="#ffffff" > must </font><font face="Default" color="#ffffff" >make haste to learn it</font><font face="Default" color="#ffffff" >. I can only assist you until here. Take care.</font>
 complete_51246_1=<font face="Default" color="#ffffff" >Is the lady in the carriage unhurt?</font>
 complete_51246_2=<font face="Default" color="#ffffff" >We should take the lady home, before something happens to her. </font><font face="Default" color="#ffffff" >Let's do our good deed for the day.</font>
 complete_51260=<font face="Default" color="#ffffff" >A guest of Sir Chang, please come up! Another guest of Sir Chang also just arrived up stairs, maybe you can both </font><font face="Default" color="#ffffff" >have a taste of</font><font face="Default" color="#ffffff" > this establishment's specialty, Milktea Wine!</font>
@@ -236,9 +234,6 @@ context_51026=Take a stroll in the village and find the herbalist Hu Zhize.
 context_51027=Take a stroll inside the village and find the poison maker Qiu Ye.
 context_51028=Find the cook Lee Kang inside the village.
 context_51029=Take a stroll inside the village and find the blacksmith Fang Dawei.
-context_51030=It is close to the day of the Mount Hua Competition, when the time comes, all the experts of the land will gather on the peak of Huashan. This will be one of the large gatherings of Wulin. There is a Wanderer's Valley Disciple ahead, he looks troubled and appears like he has something to say.
-context_51031=Xue Chen stole the Heaven Sword and ruined the Mount Hua Competition. The Eight Schools sent out experts to go after him, all the heroes of Jianghu have a responsibility to catch Xue Chen.
-context_51032=Ask Xu Dayu why the Wudang disciples are so agitated.
 context_51033=Xue Chen has committed so many crimes that there are not enough words to name them one by one. Let's hear what he has done!
 context_51034=Seek a person who understand the secret society affair to explain in detail secret society
 context_51101=The old woman <a href="findnpc_new,city05,Npc_wmp_2n_qkw_l01" style="HLStype1">Qin Hezheng</a> often teaches Jianghu newcomers, albeit begrudgingly. Speak to her.
@@ -467,7 +462,6 @@ target_51028=Found Lee Kang and spoke to him.
 target_51029=Found Fang Dawei and spoke to him.
 target_51030=Find out what is happening from Wanderer's Valley Disciple
 target_51031=Go catch the villain Xue Chen.
-target_51032=Defeat the Wudang Disciple, and then ask Xu Dayu about the situation.
 target_51033=Hear what the others have to say first and then go find the marauder Xue Chen
 target_51034=Find the <a href="findnpc_new,born02,Guildydnpc009" style="HLStype1">Guild Guide </a>and learn more about guilds.
 target_51101=Seek <a href="findnpc_new,city05,Npc_wmp_2n_qkw_l01" style="HLStype1">Qin Hezheng </a>for advice.
@@ -623,10 +617,16 @@ submit_51264=<font face="Default" color="#ffffff" >Good! </font>
 CanAcceptMenu_51137=<font face="Default" color="#ffffff" >A lot of skilled fighters how been appearing of late. Regardless, we are not strong enough to confront the Eight Schools.  </font>
 CompleteMenu_51137=<font face="Default" color="#ffffff" >Yu Qiong, I want to learn about the trial. </font>
 accept_51137_1=<font face="Default" color="#ffffff" >It doesn't matter. I have created a new way to train the skilled pupils. Find Yu Qiong and ask her to arrange for you to join the trial. So long as you pass, you can redeem advanced skills from her. </font>
-complete_51137=After the "Luoyang Bug Curse" is completed, you can join the trial by speaking with sister Yu Yu. You can participate in the trial up to three times a day and seven times per week. After completing a Normal Trial you may access the Hard Trial. Martial Merit Tokens obtained from trial can be redeemed for "Shallow Kung Fu" pages (Level 13-14), "Winds of Fury" and "Defeated Scholar" pages (Level 10-11).You may also exchange "Reward the Righteous and Punish Evil Order" or Sheepskin fragments for Martial Merit Tokens here as well.
 context_51137=The battle in Luoyang has resulted in many changes in Jianghu. The Reward the Righteous and Punish Evil Envoy has asked Yu Qiong to arrange an Expert's Trial to test your skills. If you pass you will be rewarded with Martial Merit Tokens.
 menu_51137_1=<font face="Default" color="#ffffff" >Thank you. </font>
 submit_51137=<font face="Default" color="#ffffff" >Thank you for your instruction. </font>
 target_51137=Speak with Yu Qiong to learn about the Expert's Trial.
 title_51137=Expert's Trial
+complete_51018=<font face="Default" color="#ffffff" >It would have been good for you to go watch the Mount Hua Assembly. But there has been trouble. They say even the Heaven Sword has been stolen.</font>
+complete_51137=After the "Luoyang Bug Curse" is completed, you can join the trial by speaking with sister Yu Yu. You can participate in the trial up to three times a day and seven times per week. After completing a Normal Trial you may access the Hard Trial. Martial Merit Tokens obtained from trial can be redeemed for "Shallow Kung Fu" pages (Level 13-14), "Winds of Fury" and "Defeated Scholar" pages (Level 10-11).You may also exchange "Reward the Righteous and Punish Evil Order" or Sheepskin fragments for Martial Merit Tokens here as well.
+complete_51245_2=<font face="Default" color="#ffffff" >One is Internal Skill Ice Chi, legend has it that it was created by Gao Mountain zen master Zuo Leng. When dealing with your enemies a mere touch activates the cold and freezes your foes, slowing them down. The other set is Defeated Scholar, it was created by a mysterious scholar who set it down to deal with injustice. The skill relies on continuity of movements, and is very aggressive. Each move is used to its full potential. This skill can even be activated mid-air so you would have the advantage of height and surprise to crush your foe. You</font><font face="Default" color="#ffffff" > must </font><font face="Default" color="#ffffff" >make haste to learn it</font><font face="Default" color="#ffffff" >. I can only assist you until here. Take care.</font>
+context_51030=It is close to the day of the Mount Hua Competition, when the time comes, all the experts of the land will gather on the peak of Huashan. This will be one of the large gatherings of Wulin. There is a Wanderer's Valley Disciple ahead, he looks troubled and appears like he has something to say.
+context_51031=Xue Chen stole the Heaven Sword and ruined the Mount Hua Competition. The Eight Schools sent out experts to go after him, all the heroes of Jianghu have a responsibility to catch Xue Chen.
+context_51032=Ask Xu Dayu why the Wudang disciples are so agitated.
+target_51032=Defeat the Wudang Disciple, and then ask Xu Dayu about the situation.
 

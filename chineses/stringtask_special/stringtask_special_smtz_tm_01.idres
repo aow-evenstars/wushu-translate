@@ -3,7 +3,6 @@ DialogID_58001=<font face="Default" color="#8fd6ef">This place is so dreary.</fo
 DialogID_58002=<font face="Default" color="#8fd6ef">This stone can be used to make tombstones.</font>
 DialogID_58003=<font face="Default" color="#ffffff">What? Leng Feng's hometown. You must have known the things in the past. All right. I can tell that his hometown is near Golden Snake Beach. That is all that I know. I was not familiar with him. He just mentioned that sometimes.</font>
 DialogID_58004=<font face="Default" color="#ffffff">Oh. You mean Leng Feng. I know this child. He was obedient even when he was young. He was still obedient after he joined Tangmen. But I have not seen him for years. </font>
-DialogID_58005=<font face="Default" color="#ffffff">You want to know where the girl is? I sold her to the Huanhua Sword Sect.</font>
 DialogID_58006=Right. Here is a maid whose family name is Leng. Why do you want to know this? She is capable. She is never lazy. of course, who disobeys the order will be punished with whips.
 DialogID_58009=<font face="Default" color="#ffffff">The cremains of the guilty guy should be blown in the wind. But it has passed many years. If I still care that, it will seem that I am very indifferent. So you can take his cremains away.</font>
 QiecuoMenu_58003=I do this for your mother.
@@ -37,7 +36,6 @@ interactinfo_58002=Find a good <a href="findnpc_new,school05,tangmen_tz_001" sty
 interactinfo_58003=It is said that the school brother <a href="findnpc_new,school05,WorldNpc02270" style="HLStype1">Wei Qun</a> knows Leng Feng's hometown. Go to ask him.
 interactinfo_58004=According to Wei Qun's directions, go to Golden Snake Beach to <a href="findnpc_new,school05,WorldNpc02525" style="HLStype1">find a person looking familiar</a> and inquire.
 interactinfo_58005=Go to Heaven Treasure Stronghold to find the leader <a href="findnpc_new,school05,WorldNpc02247" style="HLStype1">Lei Guanque</a> and ask him where Leng Feng's sister is.
-interactinfo_58006=According to Lei Guanque, Leng Feng's sister was sold to the Huanhua Sword Sect. It will be too late. Go to the Huanhua Sword Sect now and find the disciple of the Huanhua Sword Sect <a href="findnpc_new,city05,WorldNpc09805" style="HLStype1">Li Feixuan</a> to inquire.
 interactinfo_58007=Go to Qiandeng Town and visit Jin Shize's father <a href="findnpc_new,born04,JobQianDZ004" style="HLStype1">Zhong Qiang</a>.
 interactinfo_58008=Take Heartbroken Flower and exchange Healing Medicine from the Herb Store Keeper <a href="findnpc_new,born04,FuncNpc00002" style="HLStype1">Zhou Cang</a>.
 interactinfo_58009=Meet the leader of Tangmen Sect <a href="findnpc_new,school05,WorldNpc02201" style="HLStype1">Grandmother Tang</a> and check whether you can take Jin Shize's Bone Ash out.
@@ -51,7 +49,6 @@ okmenu_58007=Don't worry! Maybe I have some ways to get it.
 okmenu_58008=You are an outspoken man. Thanks!
 okmenu_58009=Thank you. I thank you for Jin Shize.
 specialinfo_101=You are filled with indignation after hearing this person's description. Go challenge Heaven Treasure Stronghold and and avenge the death of Leng Feng's mother.
-specialinfo_102=Challenge Huanhua Sword Sect and win freedom for Leng Feng's sister.
 specialinfo_231=Bloody Spider Net has appeared in Golden Needle Sect. Challenge them.
 specialinfo_232=Help Sigong test the poison by kidnapping a passerby.
 specialinfo_233=Sell the kidnapped people to Chengdu human traffickers, and be discreet.
@@ -64,7 +61,6 @@ specialinfo_239=Challenge Tianxiang Tea Forest and find out the whereabouts of t
 specialinfo_240=Challenge Xu Villager and punish them as a warning to others. We will show our strength to all the people in the world.
 specialinfo_241=Challenge the Salt Gang
 specialinfo_242=Challenge Evil Tiger Mountain Stronghold. If you can obtain the hearsay Super Five-poison, it will be a meritorious service.
-specialinfo_330=Finish Challenging the Force of Mount Song Sword Sect.
 useiteminfo_58001=Put <a href="TASK_ITEM,useitem_tmtz_001" style="HLStype1">the carved tombstone</a> in the original <a href="findnpc_new,school05,tangmen_tz_002" style="HLStype1">nameless stele</a>.
 useiteminfo_58002=Use <a href="TASK_ITEM,useitem_tmtz_002" style="HLStype1">Bone-Connecting Muscle-Healing Powder</a> on <a href="findnpc_new,born04,JobQianDZ004" style="HLStype1">Zhong Qiang</a>.
 useiteminfo_58003=Go to Jin Shize's hometown and bury his <a href="TASK_ITEM,useitem_tmtz_003" style="HLStype1">ashes</a> in front of his mother's <a href="findnpc_new,born04,EventNpc86504" style="HLStype1">tomb</a>.
@@ -152,13 +148,8 @@ specialinfo_378=Complete faction challenge against Baodu Stronghold (one success
 specialinfo_379=Complete faction challenge against Heaven Treasure Stronghold (one successful Factions Challenge)
 specialinfo_380=Pass Twilight Village (Difficulty Level: ordinary)
 specialinfo_381=Complete faction challenge against Tiger Roaring Villa (one successful Factions Challenge)
-specialinfo_382=Complete faction challenge against Huanhua Sword Sect (one successful Factions Challenge)
-specialinfo_383=Complete faction challenge against Mount Song Sword Sect (one successful Factions Challenge)
 specialinfo_384=Pass Twilight Village (Difficulty Level: hard)
 specialinfo_385=Pass Green Cloud Castle (Difficulty Level: ordinary)
-specialinfo_386=Complete faction challenge against Huanhua Sword Sect (Pass within 5 minutes)
-specialinfo_387=Pass Peacock Villa (Difficulty Level: random)
-specialinfo_388=Complete faction challenge against Xingxiu Sect (Pass within 5 minutes)
 specialinfo_389=Pass Green Cloud Castle (Difficulty Level: hard)
 specialinfo_390=Pass Twilight Village (Pass difficult Twilight Village within one hour)
 story_58007_1=<font face="Default" color="#ffffff" >Hello, young hero. You can sign in here. There are many elder brothers in our school who have reached Level 36 in their internal skills. You can seek one of them as a teacher to increase your abilities in that area and get the corresponding rewards. Also, when you reach Level 30 of the School Internal Skills, then you can come here and become a master so you can get rich Master Career Rewards. </font>
@@ -176,4 +167,13 @@ interactinfo_58019=Talk to <a href="findnpc_new,city05,WorldNpc09759" style="HLS
 interactinfo_58020=Talk to <a href="findnpc_new,city04,ly794" style="HLStype1">the mysterious envoy</a>
 interactinfo_58021=Talk to <a href="findnpc_new,city02,sz517" style="HLStype1"">the mysterious envoy</a>
 useiteminfo_58004=Head to Luoyang and find the <a href="findnpc_new,city05,cd532" style="HLStype1">Mysterious Messenger</a>. After, find the <a href="findnpc_new,city05,cd534" style="HLStype1">Elder</a> to obtain the Curing Needle, then use it to heal the <a href="findnpc_new,city05,cd533" style="HLStype1">patient</a>
+DialogID_58005=<font face="Default" color="#ffffff">You want to know where the girl is? I sold her to the Huanhua Sword Sect.</font>
+interactinfo_58006=According to Lei Guanque, Leng Feng's sister was sold to the Huanhua Sword Sect. It will be too late. Go to the Huanhua Sword Sect now and find the disciple of the Huanhua Sword Sect <a href="findnpc_new,city05,WorldNpc09805" style="HLStype1">Li Feixuan</a> to inquire.
+specialinfo_102=Challenge Huanhua Sword Sect and win freedom for Leng Feng's sister.
+specialinfo_330=Finish Challenging the Force of Mount Song Sword Sect.
+specialinfo_382=Complete faction challenge against Huanhua Sword Sect (one successful Factions Challenge)
+specialinfo_383=Complete faction challenge against Mount Song Sword Sect (one successful Factions Challenge)
+specialinfo_386=Complete faction challenge against Huanhua Sword Sect (Pass within 5 minutes)
+specialinfo_387=Pass Peacock Villa (Difficulty Level: random)
+specialinfo_388=Complete faction challenge against Xingxiu Sect (Pass within 5 minutes)
 

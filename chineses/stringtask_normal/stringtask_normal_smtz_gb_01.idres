@@ -28,7 +28,6 @@ CompleteMenu_87220=<font face="Default" color="#ffffff" >Fulfill the task.</font
 complete_87200=Great. We exactly need these medicines now.
 complete_87201=Well done! We can't just sit by and watch these commoners suffer.
 complete_87202=Well done. You deserve to be called as the Beggar's Sect Disciple.
-complete_87203=So, Beasts Mountain Villa will probably make a concession.
 complete_87204=Someone was misleading us with false information!
 complete_87205=If we do like that, it will be too good for those Tianxiang Bandits.
 complete_87206=We misunderstood that, didn't we?
@@ -45,12 +44,9 @@ complete_87216=Being as you dare to behave so wildly in the Beggar's Sect, you m
 complete_87217=Have the injured disciples recovered yet?
 complete_87218=If Beggar's Sect disciples duel with Scholar apprentices, their martial arts will be improved.
 complete_87219=<font face="Default" color="#ffffff">Did Miss Huo decide to retire voluntarily? We need to find that out. You can go now.</font>
-complete_87220=<font face="Default" color="#ffffff">After this battle, Mount Song Sword Sect would keep quiet for a while. If they dare misbehave themselves again, we won't forgive them!</font>
 context_87200=The Beggar's Sect has tens of thousands of disciples, however due to our growing numbers, we are beginning to run short on supplies. If you can bring some more supplies back to our sect, you will surely earn the respect of our members.
 context_87201=According to our disciples, Zhao Ziji, a well-known assassin, is being harassed by some of his former enemies, led by a descendant of the Han family named Han Sijin. Zhao Ziji is quite well respected by our sect, so we must head down to Twilight Village and help him, along with his fellow villagers.
 context_87202=Various gangs have been joining forces to rob escort carts. As this situation is becoming quite urgent, we'll need to to go to each of the escort agencies and investigate, while providing as much help as possible.
-context_87203=Many of our disciples are being harassed by members of Beasts Mountain Villa. I'll need you to head over to the villa and issue them a formal warning.
-context_87204=The Huanhua Sword Sect have been aligning themselves with many evil factions, which leaves me to believe that they must be hiding something. Take the order of the Beggar's Sect, and head over to Huanhua Sword Sect to investigate the recent actions of Jiang Zuntang.
 context_87205=Tianxiang Tea Forest has colluded with bandits. The people in Qiandeng Town have suffered a lot. Here is the order of Beggar's Sect. Don't let Tianxiang Tea Forest have their own way. All Beggar's Sect disciples, go with your fellows and arrest all the members of Tianxiang Tea Forest to avoid more troubles.
 context_87206=Beggar's Sect disciples reported that Wang Xiao of the Royal Guards and Golden Needle Sect Second Young Master Shen Xiyu seem to be very close. Shen Canghai, Xiyu's father, may not  be aware of this. We can't allow the Royal Guards to form this alliance. Go to the Golden Needle Sect, and find out what is really going on.
 context_87207=Our leader has ordered us to help investigate all of the recent deaths in Green Cloud Castle. It appears that most other factions are too afraid to investigate themselves.
@@ -65,11 +61,9 @@ context_87215=Now it appears that the Salt Gang of Yanyu Villa may be planning s
 context_87216=I've been notified that Tiger Roaring Villa have kidnapped some of our disciples and killed many of the nearby villagers. We definitely cannot stand for such flagrant provocation! We ride for Tiger Roaring Villa immediately.
 context_87218=We have recently reached an agreement with the Scholars to allow us to engage in friendly duels with one another. All of our disciples can participate, though only the winners will be allowed to study one of our unique skills.
 context_87219=Huo Xinran, the daughter of one of our late elders, mysteriously disappeared ten years ago without a single trace. Now one of the visitors today is telling me that he spotted her with the Tangmen.
-context_87220=Mount Song Sword Sect recently aligned itself with a new evil faction, and have since been attacking our disciples! Do they really think that we are incapable of fighting back?
 submit_87200=It's my pleasure to do work for our sect.
 submit_87201=Thank you, Leader! I will keep your instructions in mind.
 submit_87202=Thanks for your compliment, Leader.
-submit_87203=I thought the Beasts Mountain Villa must have learnt the lesson.
 submit_87204=Leader, you can be at ease since everything has come out to light.
 submit_87205=Leader, please feel at ease. Nobody has ever escaped.
 submit_87206=Leader, though there wasn't anything to be found, it didn't mean that Royal Guards had nothing with Shen Fmaily.
@@ -90,8 +84,6 @@ submit_87220=<font face="Default" color="#ffffff">Affirmatively obey Leader’s 
 target_87200=Acquire the required goods.
 target_87201=Attack and kill Han Sijin
 target_87202=Escort once.
-target_87203=Successfully challenged Beasts Mountain Villa once.
-target_87204=Successfully challenged the Huanhua Sword Sect.
 target_87205=Successfully challenged Tianxiang Tea Forest.
 target_87206=Successfully challenged Golden Needle Sect.
 target_87207=Successfully challenged the Green Cloud Castle (ordinary).
@@ -107,7 +99,6 @@ target_87216=Successfully challenge Tiger Roaring Villa.
 target_87217=Kill five Deinagki.
 target_87218=Win from the duel with the apprentices of Scholars.
 target_87219=Ask Yan Zhiming about Huo Xinran's news.
-target_87220=Accomplish the force challenge to Mount Song Sword Sect.
 title_87200=Beggar's Sect Supplies.
 title_87201=To Be Chivalrous
 title_87202=Considerate and Warmhearted
@@ -169,4 +160,13 @@ menu_87227_1=<font face="Default" color="#ffffff" >Brother referral</font>
 submit_87227=<font face="Default" color="#ffffff" >I know.</font>
 target_87227=Listen to the <a href="findnpc_new,school02,wd173" style="HLStype1">school's master guide</a>.
 title_87227=Brother referral
+complete_87203=So, Beasts Mountain Villa will probably make a concession.
+complete_87220=<font face="Default" color="#ffffff">After this battle, Mount Song Sword Sect would keep quiet for a while. If they dare misbehave themselves again, we won't forgive them!</font>
+context_87203=Many of our disciples are being harassed by members of Beasts Mountain Villa. I'll need you to head over to the villa and issue them a formal warning.
+context_87204=The Huanhua Sword Sect have been aligning themselves with many evil factions, which leaves me to believe that they must be hiding something. Take the order of the Beggar's Sect, and head over to Huanhua Sword Sect to investigate the recent actions of Jiang Zuntang.
+context_87220=Mount Song Sword Sect recently aligned itself with a new evil faction, and have since been attacking our disciples! Do they really think that we are incapable of fighting back?
+submit_87203=I thought the Beasts Mountain Villa must have learnt the lesson.
+target_87203=Successfully challenged Beasts Mountain Villa once.
+target_87204=Successfully challenged the Huanhua Sword Sect.
+target_87220=Accomplish the force challenge to Mount Song Sword Sect.
 

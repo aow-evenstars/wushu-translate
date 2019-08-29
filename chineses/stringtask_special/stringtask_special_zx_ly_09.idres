@@ -1,8 +1,8 @@
 ﻿
+DialogID_13204=<s>哼，没想到几日不见，你的武功竟然增强到这个地步。让你在尝尝我们丐帮的醉丐打狗阵法。
 DialogID_13201=<s>少侠所讲此事当真！
 DialogID_13202=<s>我虽然相信少侠所讲的话，但不是天下人都愿意相信这件事！前日，清相大师来到敝庄，我听说少侠与其有旧，不如前去与之一叙！
 DialogID_13203=<s>哦？此事当真，这可非同小可！不知少侠可有什么证据吗？
-DialogID_13204=<s>哼，没想到几日不见，你的武功竟然增强到这个地步。让你在尝尝我们丐帮的醉丐打狗阵法。
 DialogID_13205=<s>果真如此，如此说来此事当不仅仅如此简单。你去帮我拜会下崆峒派的长老，问询他对此事作何看法？
 DialogID_13206=<s>不用可是了，你可知“自古以来正邪不两立”。既然你自己送上们来，就休怪我不客气了。
 DialogID_13207=<s>我看你虽然能轻松获胜，但却未下重手，可见你本是心地善良之人，老夫暂且不与你计较，但关于此事我无法做决定，你自行前往林盟主那，听他怎么说吧！
@@ -63,17 +63,17 @@ interactinfo_13208=与<a href="findnpc_new,born03,WorldNpc00927" style="HLStype1
 interactinfo_13209=与<a href="findnpc_new,born03,WorldNpc00931" style="HLStype1">薛其涵</a>交谈
 interactinfo_13210=与<a href="findnpc_new,born03,WorldNpc00931" style="HLStype1">薛其涵</a>交谈
 interactinfo_13211=与<a href="findnpc_new,born03,WorldNpc00928" style="HLStype1">清相</a>交谈
-interactinfo_13212=与<a href="findnpc_new,school04,WorldNpc03816" style="HLStype1">单天冥</a>交谈
+interactinfo_13212=Talk to <a href="findnpc_new,school04,WorldNpc03816" style="HLStype1">Shan Tianming</a>.
 interactinfo_13213=前往<a href="findnpc_new,school04,EventNpc26409" style="HLStype1">山下查看</a>
-interactinfo_13214=与<a href="findnpc_new,school04,WorldNpc03816" style="HLStype1">单天冥</a>交谈
+interactinfo_13214=Talk to <a href="findnpc_new,school04,WorldNpc03816" style="HLStype1">Shan Tianming</a>.
 interactinfo_13215=与<a href="findnpc_new,school04,WorldNpc03991" style="HLStype1">假冒扶桑人的首领</a>交谈
 interactinfo_13216=与<a href="findnpc_new,school04,WorldNpc03809" style="HLStype1">隐风</a>交谈
-interactinfo_13217=与<a href="findnpc_new,school04,WorldNpc03816" style="HLStype1">单天冥</a>交谈
+interactinfo_13217=Talk to <a href="findnpc_new,school04,WorldNpc03816" style="HLStype1">Shan Tianming</a>.
 okmenu_13201=确实如此，一切都是我亲眼所见。而被冤枉的东瀛人却只是前来中土切磋武艺的，并非大奸大恶之人。还望盟主明察！
 okmenu_13202=好吧，晚辈告退！
 okmenu_13203=好，我现在就去把证据给你带来。
 okmenu_13204=尽管来吧！
-okmenu_13205=晚辈这就去。
+okmenu_13205=I'm going right away.
 okmenu_13206=既然如此，前辈尽管放马过来吧！
 okmenu_13207=谢前辈！
 okmenu_13208=如此就拜托前辈了。
@@ -82,7 +82,7 @@ okmenu_13210=恩，师傅。你自己多加小心。
 okmenu_13211=谢谢大师。后会有期。
 okmenu_13212=是，弟子立刻就去。
 okmenu_13213=原来这些假冒的扶桑人在这里。我要赶快回去禀报谷主。
-okmenu_13214=好的，我现在就去。
+okmenu_13214=I'll be back soon.
 okmenu_13215=快滚，不要再让我再看到你。
 okmenu_13216=都是师父您老人家教导有方。
 okmenu_13217=弟子现在就想尝试。
@@ -94,14 +94,14 @@ story_13202_1=<s>极乐谷虽然是由我一手所创，但是我所学的武功
 story_13202_2=<s>当时，刘基怕你受到他的牵连，也不希望你和他一样踏上江湖这条不归路。所以就将你安排在了一农户家里。
 story_13202_3=<s>这个我也不知道。他只是托我在暗中照顾你。之后我们就再没有联系了。这是他留个你的盒子，他说当皇帝残暴不仁时就让他的后人打开它！
 story_menu_13201=再遇其涵
-story_menu_13202=身世之谜
+story_menu_13202=A Past Shrouded in Mystery
 storyinfo_13201=听<a href="findnpc_new,born03,WorldNpc00931" style="HLStype1">薛其涵</a>诉说
-storyinfo_13202=听<a href="findnpc_new,school04,WorldNpc03816" style="HLStype1">单天冥</a>诉说
+storyinfo_13202=Listen to <a href="findnpc_new,school04,WorldNpc03816" style="HLStype1">Shan Tianming</a>.
 storymenu_13201_1=那你又怎么会在这里
 storymenu_13201_2=不错，他们这些所谓的正道人士就是这样自命不凡。总以为自己就是正义。
 storymenu_13201_3=不瞒前辈，其实我是极乐谷的人。他们因为我的身份将我关在了这里。前辈武功高强，为何不设法离开这里？
 storymenu_13201_4=那真是太遗憾了！
-storymenu_13202_1=这......
+storymenu_13202_1=This...
 storymenu_13202_2=那，刘...刘......后来怎么样了？现在还活着吗？
 storymenu_13202_3=这到底是什么？
 useiteminfo_13201=使用<a href="TASK_ITEM,useitem_004jx" style="HLStype1">驱虫药</a>

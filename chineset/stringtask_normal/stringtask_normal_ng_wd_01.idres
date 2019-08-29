@@ -322,10 +322,6 @@ context_55566=金針沈家、徐家莊、都在成都，據說移花宮的勢力
 context_55567=金針沈家、徐家莊、都在成都，據說移花宮的勢力也覆蓋到了這裡。那前往成都必然是最好的選擇，或許還能順道打探到連青城的消息。
 context_55568=金針沈家、徐家莊、都在成都，據說移花宮的勢力也覆蓋到了這裡。那前往成都必然是最好的選擇，或許還能順道打探到連青城的消息。
 context_55569=金針沈家、徐家莊、都在成都，據說移花宮的勢力也覆蓋到了這裡。那前往成都必然是最好的選擇，或許還能順道打探到連青城的消息。
-context_55570=前往成蘇州尋找桃花島的入口，桃花島乃世外桃源般的存在，雖然與外界也有往來不過對於一般的江湖俠客來說還是太神秘了！
-context_55571=前往成蘇州尋找桃花島的入口，桃花島乃世外桃源般的存在，雖然與外界也有往來不過對於一般的江湖俠客來說還是太神秘了！
-context_55572=前往成蘇州尋找桃花島的入口，桃花島乃世外桃源般的存在，雖然與外界也有往來不過對於一般的江湖俠客來說還是太神秘了！
-context_55573=前往成蘇州尋找桃花島的入口，桃花島乃世外桃源般的存在，雖然與外界也有往來不過對於一般的江湖俠客來說還是太神秘了！
 context_55574=得幸醉俠楚笑出手相助不然後果真是不堪設想，沒想到這卓北也來到了蘇州。江湖必然又要掀起一場腥風血雨
 context_55575=楚笑受傷甚重，托付前往君子堂尋找慕淑子的下落。以求靈丹妙藥來治療傷勢！
 context_55576=楚笑受傷甚重，托付前往君子堂尋找慕淑子的下落。以求靈丹妙藥來治療傷勢！
@@ -376,8 +372,6 @@ target_55566=前往成都送信，不過還是先找個人打聽一下移花宮�
 target_55567=先將口信送到沈家堡再想辦法去解救身困徐家莊的連青城
 target_55568=移花宮居然真的在和徐家莊火拚，此時還有要事在身必須想辦法阻止他們
 target_55569=此刻移花宮和徐家莊的注意力都在對方的身上！若不在此時進去尋找連青城更待何時
-target_55570=找到前往桃花島的入口，將燕雙行的信送出去
-target_55571=居然在寒山寺中見到醉俠楚笑，不過此時沒有時間詢問他桃花島的事情，必須先想辦法解救十缺老人手中的小童才行
 target_55572=江江居然誤拿了十缺的陽闕，若不將陽闕找出來恐怕不但救不了江江，自己也要吃不了兜著走
 target_55573=用鋤頭翻找陽闕，將找到的陽闕交給十缺希望他不會食言
 target_55574=得幸楚笑出手相助，不過他被卓北偷襲只怕傷的不輕，需速速查看楚笑的傷勢
@@ -415,5 +409,35 @@ title_55575=拜見惡手毒醫
 title_55576=拜見惡手毒醫
 title_55577=風雲際會
 submit_55562=<font face="Default" color="#ffffff" >弟子遵命！</font><font face="Default" color="#ff3333" >（完成此任務將開啟武當五內任務，且後續任務均不可放棄，完成門派五內任務後可找門派五內兌換員開啟屬性試煉，並不斷修煉自身內功。）</font>
-complete_55564=<font face="Default" color="#ffffff" >我要你做的第一件事便是幫</font><font face="Default" color="#ffffff" >我</font><font face="Default" color="#ffffff" >帶幾</font><font face="Default" color="#ffffff" >封</font><font face="Default" color="#ffffff" >口信，分別帶到無根門、桃花島、百獸莊、徐家莊、沈家堡和移花宮。惜惜的事情想必你也聽說了，待惜惜復明之時我便會將陰闋交出去，可惜很多人都沒有這個耐心！</font>
+complete_55564=<font face="Default" color="#ffffff" >我要你做的第一件事便是幫</font><font face="Default" color="#ffffff" >我</font><font face="Default" color="#ffffff" >帶幾</font><font face="Default" color="#ffffff" >封</font><font face="Default" color="#ffffff" >口信，分別帶到無根門、第一軒、百獸莊、徐家莊、沈家堡和移花宮。惜惜的事情想必你也聽說了，待惜惜復明之時我便會將陰闋交出去，可惜很多人都沒有這個耐心！</font>
+context_55570=前往成蘇州尋找四月島，四月島乃世外桃源般的存在，雖然與外界也有往來不過對於一般的江湖俠客來說還是太神秘了！
+context_55571=前往成蘇州尋找四月島的入口，四月島乃世外桃源般的存在，雖然與外界也有往來不過對於一般的江湖俠客來說還是太神秘了！
+context_55572=前往成蘇州尋找四月島的入口，四月島乃世外桃源般的存在，雖然與外界也有往來不過對於一般的江湖俠客來說還是太神秘了！
+context_55573=前往成蘇州尋找四月島的入口，四月島乃世外桃源般的存在，雖然與外界也有往來不過對於一般的江湖俠客來說還是太神秘了！
+target_55570=找到前往四月島的入口，將燕雙行的信送出去
+target_55571=居然在寒山寺中見到醉俠楚笑，不過此時沒有時間詢問他四月島的事情，必須先想辦法解救十缺老人手中的小童才行
+CompleteMenu_55580=<font face="Default" color="#ffffff" >邢捕頭，此事已結。在下就此別過！</font>
+complete_55580=<font face="Default" color="#ffffff" >這邊有點東西不成敬意，你可一定要收下！</font>
+context_55580=新年伊始，蘇州便不太平。近日有一採花大盜在蘇州出沒，影響甚重，知府限邢捕頭三日破案。可惜多日以來毫無頭緒，或許可以幫助邢捕頭做點什麼！
+submit_55580=<font face="Default" color="#ffffff" >恭敬不如從命！謝邢捕頭！</font>
+target_55580=幫助邢捕頭破獲採花賊一案
+title_55580=邢捕頭的煩惱
+CanAcceptMenu_55581=<font face="Default" color="#ffffff" >陽春三月正是賞花的好時節，為何夫人卻愁眉不展？</font>
+CanAcceptMenu_55582=<font face="Default" color="#ffffff" >春意盎然</font>
+CompleteMenu_55581=<font face="Default" color="#ffffff" >不知夫人是否滿意？</font>
+CompleteMenu_55582=<font face="Default" color="#ffffff" >春意盎然（任務完成）</font>
+accept_55581_1=<font face="Default" color="#ffffff" >此時是賞花的好時節沒錯，不過太多的牡丹花要照顧，人手略有不足。若是閣下願意幫忙，在下感激不盡！</font>
+accept_55582_1=<font face="Default" color="#ffffff" >雖說此時是賞花的好時節，但是宮中需要的牡丹花數量龐大，有些許力不從心。若少俠能提供牡丹花，在下必有重謝！</font>
+complete_55581=<font face="Default" color="#ffffff" >想不到少俠竟是如此心細之人，竟能將這些牡丹花照料的如此好！小小謝禮，不成敬意！少俠務必收下！</font>
+complete_55582=<font face="Default" color="#ffffff" >多謝少俠，此處有一些牡丹花的種子還請收下！</font>
+context_55581=陽春三月正是賞花的好時節！不知為何夫人卻愁眉不展！
+context_55582=春光無限，皇宮後花園需大量盆景，供皇親貴族賞玩，下令花語夫人及時進貢，花語夫人人力有限，特此求助各位大俠。
+menu_55581_1=<font face="Default" color="#ffffff" >區區小事，包在我身上！</font>
+menu_55582_1=<font face="Default" color="#ffffff" >花語夫人言重了！在下盡力而為！</font>
+submit_55581=<font face="Default" color="#ffffff" >花語夫人過獎！那在下就恭敬不如從命了！</font>
+submit_55582=<font face="Default" color="#ffffff" >謝夫人！</font>
+target_55581=幫助花語夫人解決她的煩惱
+target_55582=幫助花語夫人，解決她的煩惱
+title_55581=春暖花開
+title_55582=春意盎然
 

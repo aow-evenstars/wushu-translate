@@ -1,5 +1,5 @@
 ﻿
-DialogID_13351=……
+DialogID_13351=(The horse casually glances at you)
 DialogID_13353=那你先去跟4个剑宗弟子去比试下。
 DialogID_13354=<s>那你先去跟四个剑宗弟子切磋下！
 DialogID_13355=<s>我看你功夫弟子不错，要不让我教你气宗心法去打败天玑子吧！
@@ -33,13 +33,13 @@ hunterinfo_13360=击败<a href="findnpc_new,school07,WorldNpc04511" style="HLSty
 hunterinfo_13361=击败<a href="findnpc_new,school07,monrm079506" style="HLStype1">混混</a>
 interactinfo_13351=在武当<a href="findnpc_new,school07,WorldNpc04510" style="HLStype1">四处</a>查探一番
 interactinfo_13352=与<a href="findnpc_new,school07,EventNpc26707" style="HLStype1">玉璇子</a>交谈
-interactinfo_13354=与<a href="findnpc_new,school07,WorldNpc04404" style="HLStype1">玉璇子</a>交谈
-interactinfo_13355=与<a href="findnpc_new,school07,WorldNpc04404" style="HLStype1">玉璇子</a>交谈
-interactinfo_13356=与<a href="findnpc_new,school07,WorldNpc04405" style="HLStype1">天玑子</a>交谈
+interactinfo_13354=Speak with <a href="findnpc_new,school07,WorldNpc04404" style="HLStype1">Yu Xuanzi</a>.
+interactinfo_13355=Speak with <a href="findnpc_new,school07,WorldNpc04404" style="HLStype1">Yu Xuanzi</a>.
+interactinfo_13356=Talk with <a href="findnpc_new,school07,WorldNpc04405" style="HLStype1">Tian Jizi</a>
 interactinfo_13358=与<a href="findnpc_new,school07,WorldNpc04506" style="HLStype1">左鹏煊</a>交谈
-okmenu_13351=……
+okmenu_13351=(The horse casually glances at you)
 okmenu_13353=不知道!
-okmenu_13354=不知道！
+okmenu_13354=I don't know!
 okmenu_13355=我只要你给我七星阵法就行了。
 okmenu_13356=我还是对武当心法没兴趣，或许无缘吧！
 okmenu_13357=不好意思，我不想学你们武当的武功啊！
@@ -58,7 +58,7 @@ story_13356_1=<s>七星阵法只不过是依据五行八卦结合星象走位而
 story_13356_2=<s>黑衣头目正是想盗取此阵法，以便称霸武林！
 story_menu_13351=谁高谁低
 story_menu_13352=争强好胜
-story_menu_13353=盗剑之人
+story_menu_13353=Sword Robber
 story_menu_13354=盗剑高手
 story_menu_13355=黑衣之人
 story_menu_13356=七星阵法
@@ -66,9 +66,9 @@ storyinfo_13351=听<a href="findnpc_new,school07,WorldNpc04404" style="HLStype1"
 storyinfo_13352=听<a href="findnpc_new,school07,WorldNpc04404" style="HLStype1">玉璇子</a>诉说
 storyinfo_13353=听<a href="findnpc_new,school07,WorldNpc04709" style="HLStype1">曲意</a>诉说
 storyinfo_13354=听<a href="findnpc_new,school07,WorldNpc04709" style="HLStype1">曲意</a>诉说
-storyinfo_13355=听<a href="findnpc_new,school07,WorldNpc04401" style="HLStype1">紫阳真人</a>诉说
+storyinfo_13355=Listen to <a href="findnpc_new,school07,WorldNpc04401" style="HLStype1">Immortal Ziyang</a>
 storyinfo_13356=听<a href="findnpc_new,school07,WorldNpc04489" style="HLStype1">张三丰</a>诉说
-storymenu_13351_1=恩！
+storymenu_13351_1=Mhm!
 storymenu_13351_2=这个......弟子的武功有高有低，难分啊！
 storymenu_13352_1=师傅前辈做的蛮对的啊！
 storymenu_13352_2=不过现在我已经战胜了他弟子你可以把七星阵法交给我了吧。
@@ -78,7 +78,7 @@ storymenu_13354_1=原来是这样！
 storymenu_13354_2=这个好办。
 storymenu_13355_1=无耻之徒！
 storymenu_13355_2=为什么你也不知道呢？
-storymenu_13356_1=原来如此
+storymenu_13356_1=I see.
 storymenu_13356_2=真年头小人真多！
 useiteminfo_13351=使用<a href="TASK_ITEM,useitem_003kh" style="HLStype1">子夜夏药丸</a>
 

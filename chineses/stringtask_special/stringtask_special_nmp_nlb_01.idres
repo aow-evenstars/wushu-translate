@@ -225,13 +225,9 @@ collectinfo_15760=Find <a href="findnpc_new,school05,npc_nlb_ww05" style="HLStyp
 collectinfo_15780=Find <a href="findnpc_new,city03,npc_nlb_ww03" style="HLStype1">Nian Muci</a> to get the Enlistment Certificate and join the Nianluo Dam. Talk to Nian Muci or Ji Moshang and meet the requirement of Joining the Sect before you join the Nianluo Dam.
 collectinfo_15941=Catch five <a href="findnpc_new,adv124,flynpc_nlb_butterfly01" style="HLStype1">Black Butterflies</a> for Ni Ni
 collectinfo_15942=Collect <a href="findnpc_new,," style="HLStype1"></a> five Thousand Needle Poison Powder
-collectinfo_15943=Collect some <a href="findnpc_new,school15,GatherNpc_nlb_cc_15851" style="HLStype1">Unusual Blossoms</a> One
 collectinfo_15944=Collect <a href="findnpc_new,," style="HLStype1"></a> five Yinwen Poison Powder
-collectinfo_15945=Collect some <a href="findnpc_new,school15,GatherNpc_nlb_cc_15852" style="HLStype1">Unusual Blossoms</a> Two
 collectinfo_15946=Collect <a href="findnpc_new,," style="HLStype1"></a> five Shensha Powder
-collectinfo_15947=Collect some <a href="findnpc_new,school15,GatherNpc_nlb_cc_15853" style="HLStype1">Unusual Blossoms</a> Three
 collectinfo_15948=Collect <a href="findnpc_new,," style="HLStype1"></a> five Compound Foxglove Pills
-collectinfo_15949=Collect some <a href="findnpc_new,school15,GatherNpc_nlb_cc_15854" style="HLStype1">Unusual Blossoms</a> Four
 collectinfo_15950=Make the lotus in front of <a href="findnpc_new,adv124,npc_nlb_lotus_manager01" style="HLStype1">Rong Rong</a> bloom and get the Lotus Token
 collectinfo_15951=Collect <a href="findnpc_new,adv124,Gather_nlb_dy_hhcj" style="HLStype1">Fresh Flower</a>
 collectinfo_15952=Collect <a href="findnpc_new,adv124," style="HLStype1"></a> Sundries
@@ -434,7 +430,6 @@ interactinfo_15940=Dance with <a href="findnpc_new,adv124,NPC_nlb_dy_bp" style="
 interactinfo_15941=Dance with <a href="findnpc_new,adv124,NPC_nlb_dy_bp" style="HLStype1">Yelu Xiaowan</a> (Have to press the button at least 15 times to pass the test)
 interactinfo_15942=Consult <a href="findnpc_new,school15,NPC_nlb_dy_xx" style="HLStype1">Duan Mumeng</a> about dancing skill cultivation
 interactinfo_15943=Cultivate dancing skill at <a href="findnpc_new,school15,NPC_nlb_dy_xxdd" style="HLStype1">Dancing Skill Cultivation Spot</a>
-interactinfo_15944=Complete dancing skill cultivation (Have to press the button at least 15 times to pass the test)
 interactinfo_15945=Collect <a href="findnpc_new,adv124,Gather_nlb_dy_xh" style="HLStype1">Fresh Flower</a>
 interactinfo_15946=I am so lucky to get the pollen the first time. Tell <a href="findnpc_new,school15,npc_nlb_ww01" style="HLStype1">Leng Busan</a>
 interactinfo_15947=Get the Enlistment Certificate from <a href="findnpc_new,,npc_nlb_ww05" style="HLStype1">Han Ruoshui</a> and join the Nianluo Dam
@@ -687,4 +682,199 @@ useiteminfo_15754=Before going to the <a href="findnpc_new,adv124,NPC_nlb_dy_llz
 useiteminfo_15755=Go the the forest outside the Nianluo Dam and find the <a href="findnpc_new,school15,npc_nlb_ww64" style="HLStype1">monkey</a>. Feed it with the <a href="TASK_ITEM,item_nlb_ww32" style="HLStype1">dessert</a>
 useiteminfo_15756=Put the <a href="findnpc_new,adv124,NPC_nlb_dy_zw" style="HLStype1">Sundries</a>into the <a href="TASK_ITEM,useitem_nlb_dy_lz" style="HLStype1">basket</a>
 interactinfo_15772=Find <a href="findnpc_new,city03,npc_nlb_mxm20" style="HLStype1">Maidservant Xiangling</a> and persuade her to leave.
+DialogID_15882=<font face="Default" color="#ffffff" >I miss Sister Qi, can you take me to visit her?</font>
+DialogID_15883=<font face="Default" color="#ffffff" >Thank you for taking Xianer here..</font>
+DialogID_15884=<font face="Default" color="#ffffff" >I miss Sister Xuanyuan, can you take me to visit her?</font>
+DialogID_15885=<font face="Default" color="#ffffff" >Thank you for taking Xianer here..</font>
+DialogID_15886=<font face="Default" color="#ffffff" >I miss Sister Zhi, can you take me to visit her?</font>
+DialogID_15887=<font face="Default" color="#ffffff" >Thank you for taking Xianer here..</font>
+DialogID_15888=<font face="Default" color="#ffffff" >I miss Sister Gong, can you take me to visit her?</font>
+DialogID_15889=<font face="Default" color="#ffffff" >Thank you for taking Xianer here..</font>
+DialogID_15890=<font face="Default" color="#ffffff" >I am grateful for your assistance. </font>
+DialogID_15891=<font face="Default" color="#ffffff" >I am grateful for your assistance. </font>
+DialogID_15892=<font face="Default" color="#ffffff" >I am grateful for your assistance. </font>
+DialogID_15893=<font face="Default" color="#ffffff" >I am grateful for your assistance. </font>
+DialogID_15894=<font face="Default" color="#ffffff" >I am grateful for your assistance. </font>
+DialogID_15895=<font face="Default" color="#ffffff" >I don't know your opponent's might, please be careful</font><font face="Default" color="#ffffff" >.</font>
+DialogID_15896=<font face="Default" color="#ffffff" >I don't know your opponent's might, please be careful.</font>
+DialogID_15897=<font face="Default" color="#ffffff" >I don't know your opponent's might, please be careful.</font>
+DialogID_15898=<font face="Default" color="#ffffff" >I don't know your opponent's might, please be careful.</font>
+DialogID_15899=<font face="Default" color="#ffffff" >I don't know your opponent's might, please be careful.</font>
+DialogID_15937=<font face="Default" color="#ffffff" >I don't know your opponent's might, please be careful.</font>
+DialogID_15976=<font face="Default" color="#ffffff" >I am the Monkey King.</font>
+DialogID_15977=<font face="Default" color="#ffffff" >I miss Sister Hang, can you take me to visit her?</font>
+DialogID_15978=<font face="Default" color="#ffffff" >Thank you for taking Xianer here..</font>
+DialogID_15979=<font face="Default" color="#ffffff" >I am grateful for your assistance. </font>
+DialogID_15980=<font face="Default" color="#ffffff" >What do you want with me?</font>
+DialogID_15981=<font face="Default" color="#ffffff" >You came back!</font>
+DialogID_15982=<font face="Default" color="#ffffff" >The grandmaster wrote a letter and wanted you to send the letter to the Token Leaders, and take back the replies.</font>
+DialogID_15983=<font face="Default" color="#ffffff" >The grandmaster wrote a letter and wanted you to send the letter to the Token Leaders, and take back the replies.</font>
+DialogID_15984=<font face="Default" color="#ffffff" >What the hell do you want?</font>
+DialogID_15985=<font face="Default" color="#ffffff" >You came back!</font>
+DialogID_15986=<font face="Default" color="#ffffff" >The grandmaster wrote a letter and wanted you to send the letter to the Token Leaders, and take back the replies.</font>
+DialogID_15987=<font face="Default" color="#ffffff" >What the hell do you want?</font>
+DialogID_15988=<font face="Default" color="#ffffff" >You came back!</font>
+DialogID_15989=<font face="Default" color="#ffffff" >The grandmaster wrote a letter and wanted you to send the letter to the Token Leaders, and take back the replies.</font>
+DialogID_15990=<font face="Default" color="#ffffff" >What the hell do you want?</font>
+DialogID_15991=<font face="Default" color="#ffffff" >You came back!</font>
+DialogID_15992=<font face="Default" color="#ffffff" >The grandmaster wrote a letter and wanted you to send the letter to the Token Leaders, and take back the replies.</font>
+DialogID_15993=<font face="Default" color="#ffffff" >What the hell do you want?</font>
+DialogID_15994=<font face="Default" color="#ffffff" >You came back!</font>
+DialogID_15995=<font face="Default" color="#ffffff" >The grandmaster wrote a letter and wanted you to send the letter to the Token Leaders, and take back the replies.</font>
+DialogID_15996=<font face="Default" color="#ffffff" >What the hell do you want?</font>
+DialogID_15997=<font face="Default" color="#ffffff" >You came back!</font>
+DialogID_15998=<font face="Default" color="#ffffff" >I miss Sister Gong, can you take me to visit her?</font>
+DialogID_15999=<font face="Default" color="#ffffff" >Thank you for taking Xianer here..</font>
+QiecuoMenu_15960=<font face="Default" color="#ffffff" >You? People like you can slander the Nianluo Dam in no way. Watch this. </font>
+QiecuoMenu_15961=<font face="Default" color="#ffffff" >You? People like you can slander the Nianluo Dam in no way. Watch this. </font>
+QiecuoMenu_15962=<font face="Default" color="#ffffff" >You? People like you can slander the Nianluo Dam in no way. Watch this. </font>
+QiecuoMenu_15963=<font face="Default" color="#ffffff" >You? People like you can slander the Nianluo Dam in no way. Watch this. </font>
+QiecuoMenu_15964=<font face="Default" color="#ffffff" >You? People like you can slander the Nianluo Dam in no way. Watch this. </font>
+QiecuoMenu_15965=<font face="Default" color="#ffffff" >You? People like you can slander the Nianluo Dam in no way. Watch this. </font>
+QiecuoTitle_15960=<font face="Default" color="#ffffff" >You get a helper. I will teach you a lesson as well. </font>
+QiecuoTitle_15961=<font face="Default" color="#ffffff" >You get a helper. I will teach you a lesson as well. </font>
+QiecuoTitle_15962=<font face="Default" color="#ffffff" >You get a helper. I will teach you a lesson as well. </font>
+QiecuoTitle_15963=<font face="Default" color="#ffffff" >You get a helper. I will teach you a lesson as well. </font>
+QiecuoTitle_15964=<font face="Default" color="#ffffff" >You get a helper. I will teach you a lesson as well. </font>
+QiecuoTitle_15965=<font face="Default" color="#ffffff" >You get a helper. I will teach you a lesson as well. </font>
+SubmitNpcEx_21330=Report to <a href="findnpc_new,school15,npc_nlb_ww57" style="HLStype1">Yi Piaoling</a>
+SubmitNpcEx_21331=Report to <a href="findnpc_new,school15,npc_nlb_ww57" style="HLStype1">Yi Piaoling</a>
+SubmitNpcEx_21332=Report to <a href="findnpc_new,school15,npc_nlb_ww57" style="HLStype1">Yi Piaoling</a>
+SubmitNpcEx_21336=Report to <a href="findnpc_new,school15,npc_nlb_ww57" style="HLStype1">Yi Piaoling</a>
+SubmitNpcEx_21337=Report to <a href="findnpc_new,school15,npc_nlb_ww57" style="HLStype1">Yi Piaoling</a>
+SubmitNpcEx_21338=Report to <a href="findnpc_new,school15,npc_nlb_ww57" style="HLStype1">Yi Piaoling</a>
+SubmitNpcEx_21339=Report to <a href="findnpc_new,school15,npc_nlb_ww57" style="HLStype1">Yi Piaoling</a>
+SubmitNpcEx_21340=Report to <a href="findnpc_new,school15,npc_nlb_ww57" style="HLStype1">Yi Piaoling</a>
+SubmitNpcEx_21341=Report to <a href="findnpc_new,school15,npc_nlb_ww57" style="HLStype1">Yi Piaoling</a>
+SubmitNpcEx_21342=Report to <a href="findnpc_new,school15,npc_nlb_ww57" style="HLStype1">Yi Piaoling</a>
+SubmitNpcEx_21343=Report to <a href="findnpc_new,school15,npc_nlb_ww57" style="HLStype1">Yi Piaoling</a>
+SubmitNpcEx_21344=Report to <a href="findnpc_new,school15,npc_nlb_ww57" style="HLStype1">Yi Piaoling</a>
+SubmitNpcEx_21345=Report to <a href="findnpc_new,school15,npc_nlb_ww57" style="HLStype1">Yi Piaoling</a>
+SubmitNpcEx_21346=Report to <a href="findnpc_new,school15,npc_nlb_ww57" style="HLStype1">Yi Piaoling</a>
+SubmitNpcEx_21347=Report to <a href="findnpc_new,school15,npc_nlb_ww57" style="HLStype1">Yi Piaoling</a>
+SubmitNpcEx_21348=Report to <a href="findnpc_new,school15,npc_nlb_ww57" style="HLStype1">Yi Piaoling</a>
+SubmitNpcEx_21349=Report to <a href="findnpc_new,school15,npc_nlb_ww57" style="HLStype1">Yi Piaoling</a>
+SubmitNpcEx_21360=Report to <a href="findnpc_new,school15,npc_nlb_ww57" style="HLStype1">Yi Piaoling</a>
+SubmitNpcEx_21361=Report to <a href="findnpc_new,school15,npc_nlb_ww57" style="HLStype1">Yi Piaoling</a>
+SubmitNpcEx_21362=Report to <a href="findnpc_new,school15,npc_nlb_ww57" style="HLStype1">Yi Piaoling</a>
+SubmitNpcEx_21363=Report to <a href="findnpc_new,school15,npc_nlb_ww57" style="HLStype1">Yi Piaoling</a>
+SubmitNpcEx_21364=Report to <a href="findnpc_new,school15,npc_nlb_ww57" style="HLStype1">Yi Piaoling</a>
+SubmitNpcEx_21365=Report to <a href="findnpc_new,school15,npc_nlb_ww57" style="HLStype1">Yi Piaoling</a>
+SubmitNpcEx_21366=Report to <a href="findnpc_new,school15,npc_nlb_ww57" style="HLStype1">Yi Piaoling</a>
+SubmitNpcEx_21367=Report to <a href="findnpc_new,school15,npc_nlb_ww57" style="HLStype1">Yi Piaoling</a>
+SubmitNpcEx_21368=Report to <a href="findnpc_new,school15,npc_nlb_ww57" style="HLStype1">Yi Piaoling</a>
+SubmitNpcEx_21369=Report to <a href="findnpc_new,school15,npc_nlb_ww57" style="HLStype1">Yi Piaoling</a>
+SubmitNpcEx_21371=Submit the task to <a href="findnpc_new,school15,npc_nlb_ww01" style="HLStype1">Leng Busan</a>
+SubmitNpcEx_21372=Report to <a href="findnpc_new,school15,npc_nlb_ww57" style="HLStype1">Yi Piaoling</a>
+collectinfo_15957=Collect <a href="findnpc_new,school15,GatherNpc_nlb_cc_01" style="HLStype1">Xinluo Grass</a>.
+collectinfo_15958=Collect <a href="findnpc_new,school15,GatherNpc_nlb_cc_02" style="HLStype1">Xinluo Grass</a>.
+collectinfo_15959=Collect <a href="findnpc_new,school15,GatherNpc_nlb_cc_03" style="HLStype1">Xinluo Grass</a>.
+collectinfo_15960=Collect <a href="findnpc_new,school15,GatherNpc_nlb_cc_04" style="HLStype1">Xinluo Grass</a>.
+collectinfo_15961=Collect <a href="findnpc_new,school15,GatherNpc_nlb_cc_05" style="HLStype1">Xinluo Grass</a>.
+collectinfo_15962=Collect <a href="findnpc_new,school15,GatherNpc_nlb_cc_06" style="HLStype1">Xinluo Grass</a>.
+collectinfo_15978=<font face="Default" color="#000000" >Collect </font><a href="findnpc_new,school15,GatherNpc_nlb_cc_01" style="HLStype1">GatherNpc_nlb_cc_01</a>
+convoy_talk_21330_1=<font face="Default" color="#ffffff" >I want to see Sister Gong soon.</font>
+convoyinfo_15751=<a href="findnpc_new,school15,npc_nlb_007" style="HLStype1">Hang Caiyi</a> will be happy to see Xianer.
+convoyinfo_15752=<a href="findnpc_new,school15,npc_nlb_008" style="HLStype1">Gong Meiwu</a> will be happy to see Xianer.
+convoyinfo_15753=<a href="findnpc_new,school15,npc_nlb_010" style="HLStype1">Qi Qimeng</a> will be happy to see Xianer.
+convoyinfo_15754=<a href="findnpc_new,school15,npc_nlb_005" style="HLStype1">Xuanyuan Celestial Dance</a> will be happy to see Xianer.
+convoyinfo_15755=<a href="findnpc_new,school15,npc_nlb_006" style="HLStype1">Zhi Qingyou</a> will be happy to see Xianer.
+convoyinfo_15756=<a href="findnpc_new,school15,npc_nlb_009" style="HLStype1">Gong Biruo</a> will be happy to see Xianer.
+hunterinfo_15960=Teach a lesson to the <a href="findnpc_new,school15,npc_nlb_ww22" style="HLStype1">Bully</a> against Nianluo Dam disciples.
+hunterinfo_15961=Teach a lesson to the <a href="findnpc_new,school15,npc_nlb_ww23" style="HLStype1">Bully</a> against Nianluo Dam disciples.
+hunterinfo_15962=Teach a lesson to the <a href="findnpc_new,school15,npc_nlb_ww24" style="HLStype1">Bully</a> against Nianluo Dam disciples.
+hunterinfo_15963=Teach a lesson to the <a href="findnpc_new,school15,npc_nlb_ww25" style="HLStype1">Bully</a> against Nianluo Dam disciples.
+hunterinfo_15964=Teach a lesson to the <a href="findnpc_new,school15,npc_nlb_ww26" style="HLStype1">Bully</a> against Nianluo Dam disciples.
+hunterinfo_15965=Teach a lesson to the <a href="findnpc_new,school15,npc_nlb_ww27" style="HLStype1">Bully</a> against Nianluo Dam disciples.
+interactinfo_15882=<a href="findnpc_new,school15,npc_nlb_002" style="HLStype1">Chu Xianer</a> the Little Princess is at Cloud Dream Pavilion, go to find her.
+interactinfo_15883=Talk to <a href="findnpc_new,school15,npc_nlb_010" style="HLStype1">Qi Qimeng</a>.
+interactinfo_15884=<a href="findnpc_new,school15,npc_nlb_002" style="HLStype1">Chu Xianer</a> the Little Princess is at Cloud Dream Pavilion, go to find her.
+interactinfo_15885=Talk to <a href="findnpc_new,school15,npc_nlb_005" style="HLStype1">Xuan Yuan Celestial Dance</a>.
+interactinfo_15886=<a href="findnpc_new,school15,npc_nlb_002" style="HLStype1">Chu Xianer</a> the Little Princess is at Cloud Dream Pavilion, go to find her.
+interactinfo_15887=Talk to <a href="findnpc_new,school15,npc_nlb_006" style="HLStype1">Zhi Qingyou</a>.
+interactinfo_15888=<a href="findnpc_new,school15,npc_nlb_002" style="HLStype1">Chu Xianer</a> the Little Princess is at Cloud Dream Pavilion, go to find her.
+interactinfo_15889=Talk to <a href="findnpc_new,school15,npc_nlb_009" style="HLStype1">Gong Biruo</a>.
+interactinfo_15890=Comfort the <a href="findnpc_new,school15,npc_nlb_ww30" style="HLStype1">Nianluo Dam Disciple</a>.
+interactinfo_15891=Comfort the <a href="findnpc_new,school15,npc_nlb_ww31" style="HLStype1">Nianluo Dam Disciple</a>.
+interactinfo_15892=Comfort the <a href="findnpc_new,school15,npc_nlb_ww32" style="HLStype1">Nianluo Dam Disciple</a>.
+interactinfo_15893=Comfort the <a href="findnpc_new,school15,npc_nlb_ww33" style="HLStype1">Nianluo Dam Disciple</a>.
+interactinfo_15894=Comfort the <a href="findnpc_new,school15,npc_nlb_ww34" style="HLStype1">Nianluo Dam Disciple</a>.
+interactinfo_15895=Talk to <a href="findnpc_new,school15,npc_nlb_ww57" style="HLStype1">Yi Piaoling</a>.
+interactinfo_15896=Talk to <a href="findnpc_new,school15,npc_nlb_ww57" style="HLStype1">Yi Piaoling</a>.
+interactinfo_15897=Talk to <a href="findnpc_new,school15,npc_nlb_ww57" style="HLStype1">Yi Piaoling</a>.
+interactinfo_15898=Talk to <a href="findnpc_new,school15,npc_nlb_ww57" style="HLStype1">Yi Piaoling</a>.
+interactinfo_15899=Talk to <a href="findnpc_new,school15,npc_nlb_ww57" style="HLStype1">Yi Piaoling</a>.
+interactinfo_15937=Talk to <a href="findnpc_new,school15,npc_nlb_ww57" style="HLStype1">Yi Piaoling</a>.
+interactinfo_15976=Talk to the <a href="findnpc_new,school15,npc_nlb_ww64" style="HLStype1">little monkey</a>
+interactinfo_15977=<a href="findnpc_new,school15,npc_nlb_002" style="HLStype1">Chu Xianer</a> the Little Princess is at Cloud Dream Pavilion, go to find her.
+interactinfo_15978=Talk to <a href="findnpc_new,school15,npc_nlb_007" style="HLStype1">Hang Caiyi</a>
+interactinfo_15979=Comfort the <a href="findnpc_new,school15,npc_nlb_ww29" style="HLStype1">Nianluo Dam Disciple</a>.
+interactinfo_15980=Give the letter to <a href="findnpc_new,school15,npc_nlb_007" style="HLStype1">Hang Caiyi</a> and ask for reply.
+interactinfo_15981=Take the reply letter and bring it back to the Nianluo Dam <a href="findnpc_new,school15,npc_nlb_001" style="HLStype1">Lord</a>
+interactinfo_15982=Accept the letter from <a href="findnpc_new,school15,npc_nlb_ww57" style="HLStype1">Yi Piaoling</a>
+interactinfo_15983=Accept the letter from <a href="findnpc_new,school15,npc_nlb_ww57" style="HLStype1">Yi Piaoling</a>
+interactinfo_15984=Give the letter to <a href="findnpc_new,school15,npc_nlb_008" style="HLStype1">Gong Meiwu</a> and ask for reply.
+interactinfo_15985=Take the reply letter and bring it back to the Nianluo Dam <a href="findnpc_new,school15,npc_nlb_001" style="HLStype1">Lord</a>
+interactinfo_15986=Accept the letter from <a href="findnpc_new,school15,npc_nlb_ww57" style="HLStype1">Yi Piaoling</a>
+interactinfo_15987=Give the letter to <a href="findnpc_new,school15,npc_nlb_010" style="HLStype1">Qi Qimeng</a> and ask for reply.
+interactinfo_15988=Take the reply letter and bring it back to the Nianluo Dam <a href="findnpc_new,school15,npc_nlb_001" style="HLStype1">Lord</a>
+interactinfo_15989=Accept the letter from <a href="findnpc_new,school15,npc_nlb_ww57" style="HLStype1">Yi Piaoling</a>
+interactinfo_15990=Give the letter to <a href="findnpc_new,school15,npc_nlb_005" style="HLStype1">Xuanyuan Celestial Dance</a> and ask for reply.
+interactinfo_15991=Take the reply letter and bring it back to the Nianluo Dam <a href="findnpc_new,school15,npc_nlb_001" style="HLStype1">Lord</a>
+interactinfo_15992=Accept the letter from <a href="findnpc_new,school15,npc_nlb_ww57" style="HLStype1">Yi Piaoling</a>
+interactinfo_15993=Give the letter to <a href="findnpc_new,school15,npc_nlb_006" style="HLStype1">Zhi Qingyou</a> and ask for reply.
+interactinfo_15994=Take the reply letter and bring it back to the Nianluo Dam <a href="findnpc_new,school15,npc_nlb_001" style="HLStype1">Lord</a>
+interactinfo_15995=Accept the letter from <a href="findnpc_new,school15,npc_nlb_ww57" style="HLStype1">Yi Piaoling</a>
+interactinfo_15996=Give the letter to <a href="findnpc_new,school15,npc_nlb_009" style="HLStype1">Gong Biruo</a> and ask for reply.
+interactinfo_15997=Take the reply letter and bring it back to the Nianluo Dam <a href="findnpc_new,school15,npc_nlb_001" style="HLStype1">Lord</a>
+interactinfo_15998=<a href="findnpc_new,school15,npc_nlb_002" style="HLStype1">Chu Xianer</a> the Little Princess is at Cloud Dream Pavilion, go to find her.
+interactinfo_15999=Talk to <a href="findnpc_new,school15,npc_nlb_008" style="HLStype1">Gong Meiwu</a>.
+okmenu_15882=<font face="Default" color="#ffffff" >I'll take you there.</font>
+okmenu_15883=<font face="Default" color="#ffffff" >No sweat.</font>
+okmenu_15884=<font face="Default" color="#ffffff" >I'll take you there.</font>
+okmenu_15885=<font face="Default" color="#ffffff" >No sweat.</font>
+okmenu_15886=<font face="Default" color="#ffffff" >I'll take you there.</font>
+okmenu_15887=<font face="Default" color="#ffffff" >No sweat.</font>
+okmenu_15888=<font face="Default" color="#ffffff" >I'll take you there.</font>
+okmenu_15889=<font face="Default" color="#ffffff" >No sweat.</font>
+okmenu_15890=<font face="Default" color="#ffffff" >It's a little case, I'm going to report to senior sister.</font>
+okmenu_15891=<font face="Default" color="#ffffff" >It's a little case, I'm going to report to senior sister.</font>
+okmenu_15892=<font face="Default" color="#ffffff" >It's a little case, I'm going to report to senior sister.</font>
+okmenu_15893=<font face="Default" color="#ffffff" >It's a little case, I'm going to report to senior sister.</font>
+okmenu_15894=<font face="Default" color="#ffffff" >It's a little case, I'm going to report to senior sister.</font>
+okmenu_15895=<font face="Default" color="#ffffff" >Thank you for your concern</font><font face="Default" color="#ffffff">.</font>
+okmenu_15896=<font face="Default" color="#ffffff" >Thank you for your concern.</font>
+okmenu_15897=<font face="Default" color="#ffffff" >Thank you for your concern.</font>
+okmenu_15898=<font face="Default" color="#ffffff" >Thank you for your concern.</font>
+okmenu_15899=<font face="Default" color="#ffffff" >Thank you for your concern.</font>
+okmenu_15937=<font face="Default" color="#ffffff" >Thank you for your concern.</font>
+okmenu_15976=<font face="Default" color="#ffffff" >Oh.</font>
+okmenu_15977=<font face="Default" color="#ffffff" >I'll take you there.</font>
+okmenu_15978=<font face="Default" color="#ffffff" >No sweat.</font>
+okmenu_15979=<font face="Default" color="#ffffff" >It's a little case, I'm going to report to senior sister.</font>
+okmenu_15980=<font face="Default" color="#ffffff" >Hello, nice to meet you. I'm here to send the letter of principal, please have a look.</font>
+okmenu_15981=<font face="Default" color="#ffffff" >I have sent your letter to the token leaders and I take their replies back. Please have a look. </font>
+okmenu_15982=<font face="Default" color="#ffffff" >I won't let you down. </font>
+okmenu_15983=<font face="Default" color="#ffffff" >I won't let you down. </font>
+okmenu_15984=<font face="Default" color="#ffffff" >Greetings. I have a letter from the Lord for you. Please have a look. </font>
+okmenu_15985=<font face="Default" color="#ffffff" >I have sent your letter to the token leaders and I take their replies back. Please have a look. </font>
+okmenu_15986=<font face="Default" color="#ffffff" >I won't let you down. </font>
+okmenu_15987=<font face="Default" color="#ffffff" >Greetings. I have a letter from the Lord for you. Please have a look. </font>
+okmenu_15988=<font face="Default" color="#ffffff" >I have sent your letter to the token leaders and I take their replies back. Please have a look. </font>
+okmenu_15989=<font face="Default" color="#ffffff" >I won't let you down. </font>
+okmenu_15990=<font face="Default" color="#ffffff" >Greetings. I have a letter from the Lord for you. Please have a look. </font>
+okmenu_15991=<font face="Default" color="#ffffff" >I have sent your letter to the token leaders and I take their replies back. Please have a look. </font>
+okmenu_15992=<font face="Default" color="#ffffff" >I won't let you down. </font>
+okmenu_15993=<font face="Default" color="#ffffff" >Greetings. I have a letter from the Lord for you. Please have a look. </font>
+okmenu_15994=<font face="Default" color="#ffffff" >I have sent your letter to the token leaders and I take their replies back. Please have a look. </font>
+okmenu_15995=<font face="Default" color="#ffffff" >I won't let you down. </font>
+okmenu_15996=<font face="Default" color="#ffffff" >Greetings. I have a letter from the Lord for you. Please have a look. </font>
+okmenu_15997=<font face="Default" color="#ffffff" >I have sent your letter to the token leaders and I take their replies back. Please have a look. </font>
+okmenu_15998=<font face="Default" color="#ffffff" >I'll take you there.</font>
+okmenu_15999=<font face="Default" color="#ffffff" >No sweat.</font>
+collectinfo_15943=Collect some <a href="findnpc_new,school15,GatherNpc_nlb_cc_15851" style="HLStype1">Unusual Blossoms</a> One
+collectinfo_15945=Collect some <a href="findnpc_new,school15,GatherNpc_nlb_cc_15852" style="HLStype1">Unusual Blossoms</a> Two
+collectinfo_15947=Collect some <a href="findnpc_new,school15,GatherNpc_nlb_cc_15853" style="HLStype1">Unusual Blossoms</a> Three
+collectinfo_15949=Collect some <a href="findnpc_new,school15,GatherNpc_nlb_cc_15854" style="HLStype1">Unusual Blossoms</a> Four
+interactinfo_15944=Complete dancing skill cultivation (Have to press the button at least 15 times to pass the test)
 

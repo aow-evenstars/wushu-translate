@@ -118,7 +118,6 @@ CanAcceptMenu_37523=<font face="Default" color="#ffffff" > Nice to meet you. </f
 CompleteMenu_37523=<font face="Default" color="#ffffff" > Please bestow on me. </font>
 accept_37523_1=<font face="Default" color="#ffffff" > What are you doing</font><font face="Default" color="#ffffff" > here? </font>
 complete_37523=<font face="Default" color="#ffffff" > It's for those whose Evil Label Value has reached 200. </font>
-context_37523=Players can get a free conversion item here during the event (choose one of four).
 menu_37523_1=<font face="Default" color="#ffffff" > I've heard that you have a miracle medicine. Please bestow</font><font face="Default" color="#ffffff" > the medicine</font><font face="Default" color="#ffffff" > on me. </font>
 submit_37523=<font face="Default" color="#ffffff" >Thank you</font><font face="Default" color="#ffffff" >.</font>
 target_37523=Evil Label Value has reached 200
@@ -159,4 +158,14 @@ target_37580=Only Heroes with a Morality Value of 200 can use this item.
 target_37581=Only Heroes with a Morality Value of 200 can use this item.
 title_37580=The eight schools are together.
 title_37581=Morality value item exchange send
+context_37523=Players can get a free conversion item here during the event (choose one of four).
+CanAcceptMenu_37582=<font face="Default" color="#ffffff" >Morality value item exchange (limited time only) </font>
+CompleteMenu_37582=<font face="Default" color="#ffffff" > Please give me the pill. </font>
+accept_37582_1=<font face="Default" color="#ffffff" >What can I do for you this time?</font>
+complete_37582=<font face="Default" color="#ffffff" >No matter. I just happened to make a new patch of pills recently. I will give you one. (Only heroes with a Morality Value of 200 can use this)</font>
+context_37582=Players can get a free conversion item here during the event (choose one of four).
+menu_37582_1=<font face="Default" color="#ffffff" >I'd like another pill to change my appearance.</font>
+submit_37582=<font face="Default" color="#ffffff" >Thank you.</font>
+target_37582=Only Heroes with a Morality Value of 200 can use this item.
+title_37582=Sending conversion item
 

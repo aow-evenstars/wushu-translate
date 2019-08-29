@@ -38,8 +38,6 @@ DialogID_17036=Forgive me, but the Salt Gang envoy just arrived.
 DialogID_17037=<s>Beggar's Sect? How can they appear amongst Royal Guards all of a sudden?
 DialogID_17038=
 DialogID_17039=
-DialogID_17040=Why not have a try? Phantoms' Mountain Manor is so genuine and this cooperation can also remove a curse for the kung fu world.
-DialogID_17041=I'll follow Pond Leader. But I think we still need to consider Phantoms' Mountain Manor. Maybe they have been controlled by Royal Guards for long.
 DialogID_17042=Help yourself. I guess you want to send a secret message in time.
 DialogID_17043=
 DialogID_17044=
@@ -111,7 +109,6 @@ QiecuoMenu_17023=Bastard, I suffered a lot from you. I'll definitely tear you in
 QiecuoMenu_17026=I'm sorry to offend you to protect myself.
 QiecuoMenu_17028=Hah, it depends on your capability. Today I'll enforce justice on behalf of Heaven
 QiecuoMenu_17030=Don't blame me. I'll break into the manor.
-QiecuoMenu_17032=Pond Leader assigned me to ask for your opinions about cooperation with Phantoms' Mountain Manor?
 QiecuoMenu_17035=Hah, how could I be a guy from Royal Guards? Actually, I'm looking for them for revenge since they hurt me deeply!
 QiecuoMenu_17038=I gotta go first, Great Hero Zhou.
 QiecuoMenu_17041=I have no choice but to accept your challenge.
@@ -142,7 +139,6 @@ QiecuoTitle_17023=
 QiecuoTitle_17026=<s>I'll kill you so that no one will be trapped by you.
 QiecuoTitle_17028=I will tell you the truth before you die!
 QiecuoTitle_17030=Everyone says like this, why do I still stay here? Go away.
-QiecuoTitle_17032=<s>You? Aren't you that flunky clinging to Royal Guards in Chengdu? What? You even want to make trouble at Seven-star Pond for Royal Guards today? So that's the case, Royal Guards have worked with Phantoms' Mountain Manor to frame up our Seven-star Pond? I won't let your dream come true. Look at my move!
 QiecuoTitle_17035=You...you even dare cheat me. I'll kill you, bastard!
 QiecuoTitle_17038=<s>I appreciate your kung fu, so I'll take this scarce opportunity to compete with you. Attack me with your moves.
 QiecuoTitle_17041=<s>How could I make a mistake? That guy wore the same clothes as you and ran that way. We were waiting here and only you passed by during this period. Can it be others? Look at my move!
@@ -280,10 +276,7 @@ convoy_talk_34058_6=This person has something to tell you, helmsman.
 convoy_talk_34073_5=
 convoy_talk_34073_6=We can say goodbye here. We just camped outside Royal Guards and you may find me there.
 convoy_talk_34080_5=Pond leader, this person said has an important thing to discuss with you.
-convoy_talk_34084_2=<s>Sister, some Royal Guards appeared around the corner while you were fighting Phantoms' Mountain Manor.
 convoy_talk_34084_3=It's right on the bank of that small lake. Go and have a look quickly.
-convoy_talk_34087_2=Isn't it strange that Phantoms' Mountain Manor suddenly gave up their evil ways while Royal Guards were on the rampage?
-convoy_talk_34087_3=Pond Leader is so nice. I'm afraid he has fallen in the interlink trap set by Royal Guards, Salt Gang and Phantoms' Mountain Manor.
 convoy_talk_34092_10=<s>You'll never know how strong we are if we don't teach the Salt Gang a lesson.
 convoy_talk_34092_14=<s>I'm wondering how small Seven-star Pond can deal with me?  !
 convoy_talk_34092_18=<s>We're backed by Lord Huangpu of Royal Guards. How dare you do that?
@@ -365,7 +358,6 @@ hunterinfo_17029=Defeat <a href="findnpc_new,school01,monrm012200" style="HLStyp
 hunterinfo_17030=Defeat <a href="findnpc_new,school01,WorldNpc04237" style="HLStype1">Tong Shan</a>
 hunterinfo_17031=Defeat <a href="findnpc_new,scene04,monrf042600" style="HLStype1">Seven-Star Pond Disciple</a>
 hunterinfo_17032=Go and ask for <a href="findnpc_new,scene04,WorldNpc05865" style="HLStype1">Han Xiaodie</a>'s comments
-hunterinfo_17033=Defeat <a href="findnpc_new,scene04,monrf042700" style="HLStype1">Phantoms' Mountain Manor Assassin</a>
 hunterinfo_17034=Defeat <a href="findnpc_new,scene04,monrf042800" style="HLStype1">Seven-Star Pond Disciple</a>
 hunterinfo_17035=Defeat <a href="findnpc_new,scene04,WorldNpc05870" style="HLStype1">Ma Tian</a>
 hunterinfo_17036=Defeat <a href="findnpc_new,scene04,monrf042900" style="HLStype1">Royal Guards Killer</a>
@@ -430,7 +422,6 @@ interactinfo_17034=Talk to <a href="findnpc_new,city04,ly762" style="HLStype1">D
 interactinfo_17035=Go outside of <a href="findnpc_new,school01,EventNpc34071" style="HLStype1">the house backward</a>
 interactinfo_17036=Interrogate<a href="findnpc_new,school01,WorldNpc04233" style="HLStype1">Zhu Gang</a>
 interactinfo_17037=Talk to <a href="findnpc_new,school01,WorldNpc04234" style="HLStype1">Hong Shaoyan</a>
-interactinfo_17038=Go to the front of <a href="findnpc_new,school01,EventNpc34076" style="HLStype1">Phantoms' Mountain Manor</a>
 interactinfo_17039=Go to <a href="findnpc_new,scene04,EventNpc34079" style="HLStype1">Seven-star Pond</a>
 interactinfo_17040=Talk to <a href="findnpc_new,scene04,WorldNpc05863" style="HLStype1">Yu Changfeng</a>
 interactinfo_17041=Talk to <a href="findnpc_new,scene04,WorldNpc05864" style="HLStype1">Zhou Huang</a>
@@ -528,13 +519,10 @@ okmenu_17036=Which suspect from the Royal Guards came here? I'll forgive you onc
 okmenu_17037=Take care, those people from Beggar's Sect are picking on Royal Guards again. Let me deal with them.
 okmenu_17038=
 okmenu_17039=
-okmenu_17040=What do you think of the collaboration with Phantoms' Mountain Manor, young master?
-okmenu_17041=What do you think of the collaboration with Phantoms' Mountain Manor, Great Hero?
 okmenu_17042=Royal Guards appeared? I would like to go and have a look in person.
 okmenu_17043=
 okmenu_17044=
 okmenu_17045=
-okmenu_17046=I just came over to remind Pond Leader of working together with Phantoms' Mountain Manor.
 okmenu_17047=Oh, isn't this Deputy Leader Ma? What on earth are you doing here? You are delaying the time
 okmenu_17048=Brother Yu, how will you deal with Ma Tian?
 okmenu_17049=Go to meet leader of Seven-star Pond. Never let me pull you!
@@ -601,9 +589,6 @@ story_17007_2=Then you helped Sky Fragrance Teahouse rescue Qin Xiuxiu. As a res
 story_17008_1=You don't look like a bad person. You had better break away from Royal Guards and the Imperial Court.
 story_17009_1=You asked brothers of Beggar's Sect and me to enter through the main gate, but we found no one in Holy Wind Gang and suspected some trick. Then we were surrounded by Royal Guards and disciples of Holy Wind Gang when we just wanted to withdraw. Finally only a few brothers and I escaped death. So why could they set an ambush early if you weren't a flunky of Royal Guards?
 story_17010_1=<s>Most of the salt markets are contolled by our Salt Gang. Only the force of Seven-star Pond drove away all our salt shops and didn't allow us to develop there. Damn it!
-story_17010_2=So we surrendered to Royal Guards with strong strength and let them help us. After discussion, Phantoms' Mountain Manor worked with us to deal with Seven-star Pond.
-story_17011_1=<s>Phantoms' Mountain Manor said that if we work with them, they will break away from Royal Guards and stop killing for them. I feel it's a good deed, isn't it?
-story_17011_2=Not necessarily. Is there any trap amongst sincere expressions of Phantoms' Mountain Manor? Who are you? Why talk a lot of nonsense here?
 story_17012_1=<s>You mean you want to use Salt Gang to allure the ringleader behind the scene, and intend to counter-ambush them?
 story_17013_1=It's about Shaoxia's story. It's rumored that Shaoxia is an offspring of an official of previous dynasty. Unfortunately, Zhu Yuanzhang suspected almost everyone and framed up your father with a fabricated charge. As a result, dozens of family members are killed.
 story_17013_2=You're the only offspring, so your mother commissioned a servant to look after and escape with you. However, the army discovered it and kept chasing you. They found that servant in the suburbs of Chengdu but didn't spot you. Perhaps the servant thought it difficult to run away together, so he abandoned it on the way rather than got arrested by them.
@@ -723,8 +708,6 @@ story_menu_17007=Actually I helped Evil Men's Valley to rescue a girl from Royal
 story_menu_17008=Why are you so nice to me, elder?
 story_menu_17009=What  on Earth happened?
 story_menu_17010=Why did conflicts happen?
-story_menu_17011=Pond Leader Yu, did Phantoms' Mountain Manor assign anyone to negotiate for cooperation?
-story_menu_17012=To demonstrate the innocence of Seven-star Pond, find out the ambushing Royal Guards and Phantoms' Mountain Manor
 story_menu_17013=Tell me, pond leader
 story_menu_17014=Then Royal Guards hated and framed up me as a contact inside Royal Guards
 story_menu_17015=Well, I learnt that many people from Devil's Gate have arrived in Yanjing. What's wrong?
@@ -852,7 +835,6 @@ storymenu_17007_2=You're right, master. That's the case.
 storymenu_17008_1=I see. Elder, you are also mistaken about me. It's hard for me to wash myself clean.
 storymenu_17009_1=It's not me. Something is wrong and I have to go back and find Elder Xiang.
 storymenu_17010_1=What's your plan? I believe your sect must have found countermeasures.
-storymenu_17010_2=Every one of Phantoms' Mountain Manor is merciless, I'm afraid...
 storymenu_17011_1=I've been dealing with the Royal Guards and the Salt Gang. It's a trap.
 storymenu_17011_2=Originally, I was a junior clerk at a teahouse in Chengdu, but I somehow fell into a life of crime.
 storymenu_17012_1=What a wise Pond Leader! As the saying goes, mantis stalks a cicada but forgets the coming disaster from golden oriole.
@@ -983,4 +965,22 @@ SubmitNpcEx_34141=Speak with proprietress <a href="findnpc_new,city05,WorldNpc09
 SubmitNpcEx_34143=Find <a href="findnpc_new,city05,cd473" style="HLStype1">Fan Ba</a> near Chengdu's arena.
 interactinfo_17096=Speak to <a href="findnpc_new,city05,WorldNpc09745" style="HLStype1">Taishu Qiaoji</a>
 storyinfo_17035=Persuade the proprietress<a href="findnpc_new,city05,WorldNpc09745" style="HLStype1">Taishu Qiaoji</a>.
+DialogID_17040=Why not have a try? Phantoms' Mountain Manor is so genuine and this cooperation can also remove a curse for the kung fu world.
+DialogID_17041=I'll follow Pond Leader. But I think we still need to consider Phantoms' Mountain Manor. Maybe they have been controlled by Royal Guards for long.
+QiecuoMenu_17032=Pond Leader assigned me to ask for your opinions about cooperation with Phantoms' Mountain Manor?
+QiecuoTitle_17032=<s>You? Aren't you that flunky clinging to Royal Guards in Chengdu? What? You even want to make trouble at Seven-star Pond for Royal Guards today? So that's the case, Royal Guards have worked with Phantoms' Mountain Manor to frame up our Seven-star Pond? I won't let your dream come true. Look at my move!
+convoy_talk_34084_2=<s>Sister, some Royal Guards appeared around the corner while you were fighting Phantoms' Mountain Manor.
+convoy_talk_34087_2=Isn't it strange that Phantoms' Mountain Manor suddenly gave up their evil ways while Royal Guards were on the rampage?
+convoy_talk_34087_3=Pond Leader is so nice. I'm afraid he has fallen in the interlink trap set by Royal Guards, Salt Gang and Phantoms' Mountain Manor.
+hunterinfo_17033=Defeat <a href="findnpc_new,scene04,monrf042700" style="HLStype1">Phantoms' Mountain Manor Assassin</a>
+interactinfo_17038=Go to the front of <a href="findnpc_new,school01,EventNpc34076" style="HLStype1">Phantoms' Mountain Manor</a>
+okmenu_17040=What do you think of the collaboration with Phantoms' Mountain Manor, young master?
+okmenu_17041=What do you think of the collaboration with Phantoms' Mountain Manor, Great Hero?
+okmenu_17046=I just came over to remind Pond Leader of working together with Phantoms' Mountain Manor.
+story_17010_2=So we surrendered to Royal Guards with strong strength and let them help us. After discussion, Phantoms' Mountain Manor worked with us to deal with Seven-star Pond.
+story_17011_1=<s>Phantoms' Mountain Manor said that if we work with them, they will break away from Royal Guards and stop killing for them. I feel it's a good deed, isn't it?
+story_17011_2=Not necessarily. Is there any trap amongst sincere expressions of Phantoms' Mountain Manor? Who are you? Why talk a lot of nonsense here?
+story_menu_17011=Pond Leader Yu, did Phantoms' Mountain Manor assign anyone to negotiate for cooperation?
+story_menu_17012=To demonstrate the innocence of Seven-star Pond, find out the ambushing Royal Guards and Phantoms' Mountain Manor
+storymenu_17010_2=Every one of Phantoms' Mountain Manor is merciless, I'm afraid...
 

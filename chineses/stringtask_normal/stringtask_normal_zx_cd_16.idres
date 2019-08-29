@@ -15,7 +15,7 @@ CanAcceptMenu_34744=自古正邪不两立，正者行侠仗义，邪者杀人放
 CanAcceptMenu_34745=谷主有何事，欲留在下。
 CanAcceptMenu_34746=雇主武功绝世，在下钦佩不已。
 CanAcceptMenu_34747=承蒙谷主厚爱。
-CanAcceptMenu_34748=在下告辞。
+CanAcceptMenu_34748=Bye.
 CanAcceptMenu_34749=有什么新的消息吗？
 CanAcceptMenu_34750=大侠请讲。
 CanAcceptMenu_34751=大侠言重了。
@@ -26,12 +26,12 @@ CompleteMenu_34732=好的，我这就出发，告辞了
 CompleteMenu_34733=在下前来询问极乐谷弟子买酒之事。
 CompleteMenu_34734=真乃世事无常。
 CompleteMenu_34735=有了这身衣服就可以进谷了。
-CompleteMenu_34736=发生了什么事？
-CompleteMenu_34737=我这就前去。
+CompleteMenu_34736=What happened?
+CompleteMenu_34737=I will do it immediately.
 CompleteMenu_34738=这是尸使的钥匙。
 CompleteMenu_34739=大人，这是佛使的钥匙。
 CompleteMenu_34740=这是蛊使的钥匙。
-CompleteMenu_34741=多谢兄弟。
+CompleteMenu_34741=Thank you so much.
 CompleteMenu_34742=不知谷主到底是个什么样的人。
 CompleteMenu_34743=好一个随性而为。
 CompleteMenu_34744=既然这样，在下告辞了。
@@ -41,7 +41,7 @@ CompleteMenu_34747=前辈承让了。
 CompleteMenu_34748=没什么。
 CompleteMenu_34749=这帮山贼太可恶了，欺压百姓，打伤好汉。
 CompleteMenu_34750=宝剑已经带到。
-CompleteMenu_34751=我这就前去。
+CompleteMenu_34751=I will do it immediately.
 CompleteMenu_34752=多有得罪。
 CompleteMenu_34753=我对江湖默规的善恶正邪又有了新的认识。
 CompleteMenu_34754=拜见谷主。
@@ -65,7 +65,7 @@ accept_34748_1=　　恩，你去吧。行走江湖多留个心眼。
 accept_34749_1=<s>刚刚遇到一个侠客说是帮村民去黑风山救女子，你去找村民问问情况。
 accept_34750_1=　　我的武器侠客剑被山贼抢走了。帮我打倒他们，夺回宝剑。
 accept_34751_1=<s>你去找找那些被困女子，也许从她们那儿可以得到更多的信息。
-accept_34752_1=　　少侠保重。
+accept_34752_1=Take care.
 accept_34753_1=<s>我乃极乐谷弟子，也是来救人的，黑风山头目已被他解决。
 accept_34754_1=<s>你还是亲自问问谷主吧。
 complete_34732=<s>你可以沿着这条线索查探查探。
@@ -86,7 +86,7 @@ complete_34746=你好好考虑考虑。
 complete_34747=恩，你日后必成大器。
 complete_34748=（看来谷主自有安排。）多有得罪。
 complete_34749=我还有一事相求。
-complete_34750=多谢。
+complete_34750=Thank you very much!
 complete_34751=他们在卧虎堂门口，少侠速去。
 complete_34752=我乃极乐谷人，为救人已经杀掉了黑风山头目。
 complete_34753=善与恶来自公道而非人心。
@@ -115,12 +115,12 @@ context_34752=<s>你又是谁？
 context_34753=<s>我乃极乐谷弟子，也是来救人的，黑风山头目已被他解决。
 context_34754=<s>你还是亲自问问谷主吧。
 menu_34732_1=好的,我这就前往极乐谷。希望此行能够一切顺利。
-menu_34733_1=告辞。
-menu_34734_1=好，我这就出发。
+menu_34733_1=Goodbye!
+menu_34734_1=Ok, I will go right away!
 menu_34735_1=好，我告辞了。（这下正合我意）
 menu_34736_1=恩，一定亲手交到他手上。
 menu_34737_1=多谢提醒，但我入谷势在必行，确实令有其事。
-menu_34738_1=我知道了。
+menu_34738_1=I know.
 menu_34739_1=原来如此，在下也是早有耳闻。
 menu_34740_1=恩，我会小心的。
 menu_34741_1=恩，原来如此。看来她不好对付
@@ -129,13 +129,13 @@ menu_34743_1=可是贵派和锦衣卫的合作呢？
 menu_34744_1=（陷入深深的思考）
 menu_34745_1=十分荣幸。请。
 menu_34746_1=谷主多有客气。
-menu_34747_1=好，在下试试。
+menu_34747_1=Ok, I'll have a try.
 menu_34748_1=（先去找丐帮接引弟子，把情报汇报给他。）
-menu_34749_1=好，我这就去。
+menu_34749_1=Ok, I am about to go now.
 menu_34750_1=此事包在我身上。
-menu_34751_1=好的。
-menu_34752_1=告辞！
-menu_34753_1=原来如此。
+menu_34751_1=Ok.
+menu_34752_1=Goodbye!
+menu_34753_1=I see.
 menu_34754_1=也只有谷主能解我心头疑惑了。
 next_34732=去找<a href="findnpc_new,,丐帮接引弟子" style="HLStype1">丐帮接引弟子</a>
 next_34733=去找<a href="findnpc_new,school04,WorldNpc03993" style="HLStype1">酒坊老板</a>
@@ -148,11 +148,11 @@ next_34739=去找<a href="findnpc_new,school04,WorldNpc03809" style="HLStype1">�
 next_34740=去找<a href="findnpc_new,school04,WorldNpc03809" style="HLStype1">隐风</a>
 next_34741=去找<a href="findnpc_new,school04,WorldNpc03809" style="HLStype1">隐风</a>
 next_34742=去找<a href="findnpc_new,school04,极乐谷宝盒" style="HLStype1">极乐谷宝盒</a>
-next_34743=去找<a href="findnpc_new,school04,WorldNpc03816" style="HLStype1">单天冥</a>
+next_34743=Go to find <a href="findnpc_new,school04,WorldNpc03816" style="HLStype1">Shan Tianming</a>
 next_34744=去找<a href="findnpc_new,,WorldNpc03816" style="HLStype1">单天冥</a>
-next_34745=去找<a href="findnpc_new,school04,WorldNpc03816" style="HLStype1">单天冥</a>
-next_34746=去找<a href="findnpc_new,school04,WorldNpc03816" style="HLStype1">单天冥</a>
-next_34747=去找<a href="findnpc_new,school04,WorldNpc03816" style="HLStype1">单天冥</a>
+next_34745=Go to find <a href="findnpc_new,school04,WorldNpc03816" style="HLStype1">Shan Tianming</a>
+next_34746=Go to find <a href="findnpc_new,school04,WorldNpc03816" style="HLStype1">Shan Tianming</a>
+next_34747=Go to find <a href="findnpc_new,school04,WorldNpc03816" style="HLStype1">Shan Tianming</a>
 next_34748=去找<a href="findnpc_new,school04,WorldNpc03997" style="HLStype1">丐帮接引弟子</a>
 next_34749=去找<a href="findnpc_new,school04,WorldNpc04028" style="HLStype1">受伤侠客</a>
 next_34750=去找<a href="findnpc_new,school04,受伤侠客" style="HLStype1">受伤侠客</a>
@@ -198,9 +198,9 @@ title_34744=谷主讲述
 title_34745=勇破剑阵
 title_34746=勇破剑阵
 title_34747=勇破剑阵
-title_34748=替天行道
-title_34749=替天行道
-title_34750=替天行道
+title_34748=To Act for God and Exercise Morality
+title_34749=To Act for God and Exercise Morality
+title_34750=To Act for God and Exercise Morality
 title_34751=重识正邪
 title_34752=重识正邪
 title_34753=重识正邪

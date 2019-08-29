@@ -1,4 +1,8 @@
 ﻿
+DialogID_13273=情花就在那边，不过有古墓派弟子看守，按规矩你要先打败他们才能够采集情花，大侠当心哦！
+collectinfo_13259=猎杀<a href="findnpc_new,city01,monc022600" style="HLStype1">锦衣卫高手</a>抢回<a href="TASK_ITEM,taskitem_011yb" style="HLStype1">玉蜂针</a>
+hunterinfo_13273=击败<a href="findnpc_new,city01,monc022401" style="HLStype1">古墓派习武弟子</a>
+hunterinfo_13274=击败<a href="findnpc_new,city01,monc022400" style="HLStype1">古墓派弟子</a>
 DialogID_13251=最近身体虚的厉害，要是有人送点“人参”就好了。
 DialogID_13252=最近这两天象你这样来求取名帖的人络绎不决，我们帮主说了，最近总是有一群江湖剑客老是来找我们麻烦，谁能帮我们教训教训他们我就把名帖给谁。
 DialogID_13253=你这拜帖是假的，最过份的是这假名帖是用手画的也就算了，署名还是南宫世家。你来糊弄我啊！快走，快走...
@@ -8,7 +12,7 @@ DialogID_13256=都解决了？最近小姐为了府里的事情很忙，现在�
 DialogID_13257=东方芷最近为了比武招亲的事情正打算闭关修炼，想见她不容易啊！除非你能打败东方凌风才有可能见到她。
 DialogID_13258=客官，你要找参加东方世家赏剑大会的江湖人？刚刚有两位已经结帐走了，好象去市场那边了。
 DialogID_13259=你有什么事情吗？不要防碍大爷喝酒...
-DialogID_13260=你想干什么？
+DialogID_13260=So, what's your next move?
 DialogID_13261=你还敢来？哼，关于那些人的死你最好去问问义庄老板，我也是从他那听说的。
 DialogID_13262=
 DialogID_13263=想查出这块令牌主人的身份对我们东厂来说不是很难，但是我凭什么要帮你？
@@ -21,7 +25,6 @@ DialogID_13269=大侠帮帮我，我的玉簪子被外面的强盗强走了，�
 DialogID_13270=你来拉，我是不是快死了？好难受哦。
 DialogID_13271=都解决了？最近小姐为了府里的事情很忙，现在在哪我也不是很清楚，你去问管家应该知道的。
 DialogID_13272=好了，看来我真的老了，你现在就可以去找东方芷那个丫头了，他就在...
-DialogID_13273=情花就在那边，不过有古墓派弟子看守，按规矩你要先打败他们才能够采集情花，大侠当心哦！
 DialogID_13274=好吧，我告诉你，那天下午我看见好象南宫世家的人在后山与一个人东瀛人密谈些什么。
 DialogID_13275=我只知道那帮人使用的都是东瀛武学，紫旗旗主武学渊博，应该知道的比我多一些。
 QiecuoMenu_13255=且先莫动手...你听我解释...再不住手我可要还手了哦...
@@ -32,7 +35,7 @@ QiecuoMenu_13259=那就不客气了，看招......
 QiecuoMenu_13260=看招...
 QiecuoMenu_13261=看我怎么来教训你这个“陈世美”，接招吧！
 QiecuoMenu_13262=说...来参加东方世家赏剑大会的人是不是你们杀的？
-QiecuoMenu_13265=看招！
+QiecuoMenu_13265=Look!
 QiecuoMenu_13270=那好，我来看看你有多少斤两。
 QiecuoMenu_13271=那就试试看，不过你输了可要回答我的问题。
 QiecuoMenu_13275=看招...
@@ -56,7 +59,6 @@ collectinfo_13255=猎杀<a href="findnpc_new,school01,monrm013300" style="HLStyp
 collectinfo_13256=猎杀<a href="findnpc_new,school01,monrm013400" style="HLStype1">占山匪徒</a>抢回信物
 collectinfo_13257=猎杀<a href="findnpc_new,school01,monrm013500" style="HLStype1">强盗</a>抢回登门礼物
 collectinfo_13258=收集<a href="findnpc_new,school01,Gather0004yb" style="HLStype1">草莓</a>
-collectinfo_13259=猎杀<a href="findnpc_new,city01,monc022600" style="HLStype1">锦衣卫高手</a>抢回<a href="TASK_ITEM,taskitem_011yb" style="HLStype1">玉蜂针</a>
 collectinfo_13260=猎杀<a href="findnpc_new,city01,monc022502" style="HLStype1">拦路劫匪</a>抢回<a href="TASK_ITEM,taskitem_011yb" style="HLStype1">生日礼物</a>
 collectinfo_13261=收集<a href="findnpc_new,city01,Gather0005yb" style="HLStype1">情花</a>
 collectinfo_13262=猎杀<a href="findnpc_new,city01,monc022800" style="HLStype1">散心女子</a>获得<a href="TASK_ITEM,taskitem_014yb" style="HLStype1">绝情丹</a>
@@ -82,32 +84,30 @@ hunterinfo_13268=击败<a href="findnpc_new,school01,monrm013900" style="HLStype
 hunterinfo_13269=击败<a href="findnpc_new,school01,monrm013800" style="HLStype1">六扇门好手</a>
 hunterinfo_13270=击败<a href="findnpc_new,school01,WorldNpc04102" style="HLStype1">轩辕狂浪</a>
 hunterinfo_13271=击败<a href="findnpc_new,school01,WorldNpc04103" style="HLStype1">缪樱</a>
-hunterinfo_13272=击败<a href="findnpc_new,city01,monc022101" style="HLStype1">采花贼</a>
-hunterinfo_13273=击败<a href="findnpc_new,city01,monc022401" style="HLStype1">古墓派习武弟子</a>
-hunterinfo_13274=击败<a href="findnpc_new,city01,monc022400" style="HLStype1">古墓派弟子</a>
+hunterinfo_13272=Defeat <a href="findnpc_new,city01,monc022101" style="HLStype1">Philanderer</a>
 hunterinfo_13275=击败<a href="findnpc_new,city01,WorldNpc08628" style="HLStype1">东方芷</a>
-interactinfo_13251=与<a href="findnpc_new,city01,WorldNpc08528" style="HLStype1">东方忠诚</a>交谈
+interactinfo_13251=Talk to <a href="findnpc_new,city01,WorldNpc08528" style="HLStype1">Dongfang Zhongcheng</a>
 interactinfo_13252=与<a href="findnpc_new,city01,WorldNpc08938" style="HLStype1">汤鹤</a>交谈
-interactinfo_13253=与<a href="findnpc_new,city01,WorldNpc08528" style="HLStype1">东方忠诚</a>交谈
-interactinfo_13254=与<a href="findnpc_new,city01,WorldNpc08762" style="HLStype1">紫烟</a>交谈
-interactinfo_13255=与<a href="findnpc_new,city01,WorldNpc08528" style="HLStype1">东方忠诚</a>交谈
+interactinfo_13253=Talk to <a href="findnpc_new,city01,WorldNpc08528" style="HLStype1">Dongfang Zhongcheng</a>
+interactinfo_13254=Talk to <a href="findnpc_new,city01,WorldNpc08762" style="HLStype1">Zi Yan</a>
+interactinfo_13255=Talk to <a href="findnpc_new,city01,WorldNpc08528" style="HLStype1">Dongfang Zhongcheng</a>
 interactinfo_13256=与<a href="findnpc_new,city01,yj011" style="HLStype1">小叶</a>交谈
 interactinfo_13257=与<a href="findnpc_new,city01,WorldNpc08836" style="HLStype1">东方硕</a>交谈
 interactinfo_13258=与<a href="findnpc_new,city01,WorldNpc08400" style="HLStype1">王凡</a>交谈
 interactinfo_13259=与<a href="findnpc_new,city01,WorldNpc08291" style="HLStype1">焦松坚</a>交谈
 interactinfo_13260=与<a href="findnpc_new,city01,WorldNpc08292" style="HLStype1">苏昆常</a>交谈
-interactinfo_13261=与<a href="findnpc_new,city01,WorldNpc09081" style="HLStype1">东方城</a>交谈
+interactinfo_13261=Talk with <a href="findnpc_new,city01,WorldNpc09081" style="HLStype1">Dongfang Cheng</a>
 interactinfo_13262=与<a href="findnpc_new,city01,EventNpc26497" style="HLStype1">案发现场</a>交谈
-interactinfo_13263=与<a href="findnpc_new,city01,WorldNpc08348" style="HLStype1">卫无宝</a>交谈
+interactinfo_13263=Talk with <a href="findnpc_new,city01,WorldNpc08348" style="HLStype1">Wei Wubao</a>
 interactinfo_13265=与<a href="findnpc_new,school01,WorldNpc04122" style="HLStype1">简凡</a>交谈
-interactinfo_13266=与<a href="findnpc_new,city01,WorldNpc09081" style="HLStype1">东方城</a>交谈
+interactinfo_13266=Talk with <a href="findnpc_new,city01,WorldNpc09081" style="HLStype1">Dongfang Cheng</a>
 interactinfo_13267=与<a href="findnpc_new,city01,WorldNpc08628" style="HLStype1">东方芷</a>交谈
 interactinfo_13268=与<a href="findnpc_new,city01,WorldNpc08740" style="HLStype1">龙儿</a>交谈
 interactinfo_13269=与<a href="findnpc_new,city01,WorldNpc08738" style="HLStype1">李朝英</a>交谈
 interactinfo_13270=与<a href="findnpc_new,city01,WorldNpc08627" style="HLStype1">东方芷</a>交谈
 interactinfo_13273=与<a href="findnpc_new,city01,WorldNpc08740" style="HLStype1">龙儿</a>交谈
-interactinfo_13274=与<a href="findnpc_new,school01,WorldNpc04103" style="HLStype1">缪樱</a>交谈
-interactinfo_13275=与<a href="findnpc_new,school01,WorldNpc04102" style="HLStype1">轩辕狂浪</a>交谈
+interactinfo_13274=Speak with <a href="findnpc_new,school01,WorldNpc04103" style="HLStype1">Miu Ying</a>
+interactinfo_13275=Talk to <a href="findnpc_new,school01,WorldNpc04102" style="HLStype1">Xuanyuan Kuanglang</a>.
 okmenu_13251=你等着，我去去就来...
 okmenu_13252=好，你们可要说话算数哦...
 okmenu_13253=怎么会...这帮骗子！我去找他们去...
@@ -157,22 +157,22 @@ story_13260_2=呵呵，生气了？你去西面的西山古墓百花谷内帮我
 story_menu_13251=丫鬟小叶
 story_menu_13252=兰芷玉心
 story_menu_13253=再遇南宫
-story_menu_13254=义庄老板
+story_menu_13254=Mortuary Owner
 story_menu_13255=锦衣令牌
-story_menu_13256=夺回宝剑
+story_menu_13256=Regain the Treasure Sword
 story_menu_13257=黄旗旗主
 story_menu_13258=失剑之闻
-story_menu_13259=前往唐门
-story_menu_13260=峰回路转
+story_menu_13259=To Tangmen
+story_menu_13260=Winding Paths
 storyinfo_13251=听<a href="findnpc_new,city01,WorldNpc08528" style="HLStype1">东方忠诚</a>诉说
 storyinfo_13252=听<a href="findnpc_new,city01,WorldNpc08628" style="HLStype1">东方芷</a>诉说
 storyinfo_13253=听<a href="findnpc_new,city01,yj060" style="HLStype1">南宫珏</a>诉说
 storyinfo_13254=听<a href="findnpc_new,city01,WorldNpc08219" style="HLStype1">石万惊</a>诉说
-storyinfo_13255=听<a href="findnpc_new,city01,WorldNpc09081" style="HLStype1">东方城</a>诉说
+storyinfo_13255=Speak with <a href="findnpc_new,city01,WorldNpc09081" style="HLStype1">Dongfang Cheng</a>.
 storyinfo_13256=听<a href="findnpc_new,school01,WorldNpc04233" style="HLStype1">朱罡</a>诉说
 storyinfo_13257=听<a href="findnpc_new,school01,jyw024" style="HLStype1">皇甫遥</a>诉说
 storyinfo_13258=听<a href="findnpc_new,school01,jyw024" style="HLStype1">皇甫遥</a>诉说
-storyinfo_13259=听<a href="findnpc_new,city01,WorldNpc08947" style="HLStype1">杨邪</a>诉说
+storyinfo_13259=Listen to <a href="findnpc_new,city01,WorldNpc08947" style="HLStype1">Yang Xie</a>
 storyinfo_13260=听<a href="findnpc_new,city01,WorldNpc08628" style="HLStype1">东方芷</a>诉说
 storymenu_13251_1=原来是这么回事啊...
 storymenu_13251_2=那你说我该怎么办好...
@@ -185,13 +185,13 @@ storymenu_13254_1=好的，谢谢，看来我只能到现场去看看了。
 storymenu_13255_1=怎么拉，出什么事情了？
 storymenu_13255_2=啊.....
 storymenu_13256_1=可以，一言为定。
-storymenu_13257_1=快说！
-storymenu_13257_2=好，我去去就来。
-storymenu_13258_1=后来呢？
+storymenu_13257_1=Tell me quickly!
+storymenu_13257_2=OK. I will come back soon.
+storymenu_13258_1=Then?
 storymenu_13258_2=你们怎么不出手。
 storymenu_13258_3=那伙人那么厉害？
 storymenu_13258_4=红旗旗主？
-storymenu_13259_1=恩！
+storymenu_13259_1=Mhm!
 storymenu_13259_2=我来想办法吧！
 storymenu_13260_1=你……你真是是非不分
 storymenu_13260_2=那好吧

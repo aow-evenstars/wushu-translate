@@ -2,7 +2,6 @@
 CanAcceptMenu_51501=<font face="Default" color="#ffffff" >天下變</font>
 CanAcceptMenu_51502=<font face="Default" color="#ffffff" >江湖勢力無根門</font>
 CanAcceptMenu_51503=<font face="Default" color="#ffffff" >江湖勢力</font><font face="Default" color="#ffffff" >移花宮</font>
-CanAcceptMenu_51504=<font face="Default" color="#ffffff" >江湖勢力</font><font face="Default" color="#ffffff" >桃花島</font>
 CanAcceptMenu_51505=<font face="Default" color="#ffffff" >八大門派</font>
 CanAcceptMenu_51506=<font face="Default" color="#ffffff" >江湖勢力介紹</font>
 CanAcceptMenu_51621=<font face="Default" color="#ffffff" >拜入師門</font>
@@ -24,7 +23,6 @@ CanAcceptMenu_51636=<font face="Default" color="#ffffff" >晚輩希望能拜入�
 CompleteMenu_51501=<font face="Default" color="#ffffff" >天下變(完成)</font>
 CompleteMenu_51502=<font face="Default" color="#ffffff" >這是大和尚托我送來的書信，請收下。</font>
 CompleteMenu_51503=<font face="Default" color="#ffffff" >江湖勢力移花宮</font>
-CompleteMenu_51504=<font face="Default" color="#ffffff" >我已經大致瞭解了桃花島入門的基本條件。</font>
 CompleteMenu_51505=<font face="Default" color="#ffffff" >多謝大和尚告知八大門派的信息。</font>
 CompleteMenu_51506=<font face="Default" color="#ffffff" >聽大和尚介紹江湖勢力</font>
 CompleteMenu_51621=<font face="Default" color="#ffffff" >在下素仰武當威名，故今日特來拜會，還請掌門勿怪在下唐突。</font>
@@ -65,7 +63,6 @@ accept_51636_1=<font face="Default" color="#ffffff" >極樂谷自創派以來，
 complete_51501=<font face="Default" color="#ffffff" >少俠老朽知道的也就這麼多了，但願能幫上你。</font>
 complete_51502=<font face="Default" color="#ffffff" >呵呵，送信的也無妨，想必你都瞭解我們無根門的入門要求了，若是</font><font face="Default" color="#ffffff" >以後</font><font face="Default" color="#ffffff" >想通了</font><font face="Default" color="#ffffff" >想拜入我們無根門</font><font face="Default" color="#ffffff" >隨時都可以來找我。</font>
 complete_51503=<font face="Default" color="#ffffff" >移花宮不收庸才，條件</font><font face="Default" color="#ffffff" >要求</font><font face="Default" color="#ffffff" >嚴格，若想加入必須達到</font><font face="Default" color="#ffffff" >他們</font><font face="Default" color="#ffffff" >的標準。</font>
-complete_51504=<font face="Default" color="#ffffff" >想必你對桃花島的入門條件已經有所瞭解了吧</font>
 complete_51505=<font face="Default" color="#ffffff" >額，行走江湖一切隨心，萬事不要勉強自己，你若是想拜入八大門派</font><font face="Default" color="#ffffff" >，可以帶著這個密令去找八大門派的接引人，他們會指引你如何拜入八大門派門下。</font>
 complete_51621=<s>無量壽佛…不知閣下為何而來？
 complete_51622=<font face="Default" color="#ffffff" >阿彌陀佛…貴客遠道而來，老衲豈能怠慢。但不知</font><font face="Default" color="#ffffff" >施主</font><font face="Default" color="#ffffff" >此來所為何事？</font>
@@ -148,7 +145,6 @@ submit_51635=<font face="Default" color="#ffffff" >在下一定牢記在心</fon
 submit_51636=<font face="Default" color="#ffffff" >弟子謹記</font>
 target_51501=最近江湖頗不太平暗潮湧動，聽屠泳訴說他所看到的變化。
 target_51503=瞭解移花宮的狀況
-target_51504=瞭解桃花島的狀況。
 target_51505=向大和尚瞭解加入八大門派有哪些要求和限制。
 target_51506=聽聽落魄的大和尚講述當今江湖上新崛起的勢力狀況
 target_51621=<s>前往武當，懇請掌門收你為徒。
@@ -194,7 +190,6 @@ task_menu_complete_51628=實不相瞞，在下想加入貴谷，潛修貴谷武�
 title_51501=天下變
 title_51502=江湖勢力無根門
 title_51503=江湖勢力移花宮
-title_51504=江湖勢力桃花島
 title_51505=我想加入八大門派
 title_51506=江湖勢力(二)
 title_51601=結識邢君可
@@ -481,4 +476,9 @@ title_51517=自強不息（絳雪心經二十五層）
 title_51518=自強不息（絳雪心經三十層）
 accept_51631_1=<font face="Default" color="#ffffff" >峨眉祖师嫉恶如仇、济世扶平，当真称得上女中豪杰，你若用心修炼，假以时日必成大器。</font>
 context_51631=峨眉祖师嫉恶如仇、济世扶平，当真称得上女中豪杰，你若用心修炼，假以时日必成大器。
+CanAcceptMenu_51504=<font face="Default" color="#ffffff" >江湖勢力</font><font face="Default" color="#ffffff" >第一軒</font>
+CompleteMenu_51504=<font face="Default" color="#ffffff" >我已經大致瞭解了第一軒入門的基本條件。</font>
+complete_51504=<font face="Default" color="#ffffff" >想必你對第一軒的入門條件已經有所瞭解了吧</font>
+target_51504=瞭解第一軒的狀況。
+title_51504=江湖勢力第一軒
 

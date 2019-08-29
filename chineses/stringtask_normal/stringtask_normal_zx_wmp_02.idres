@@ -2,7 +2,6 @@
 CanAcceptMenu_51501=<font face="Default" color="#ffffff" >Great Changes</font>
 CanAcceptMenu_51502=<font face="Default" color="#ffffff" >Please tell me about the Rootless Clan.</font>
 CanAcceptMenu_51503=<font face="Default" color="#ffffff" >Please tell me about </font><font face="Default" color="#ffffff" >the Palace of Shifting Flowers.</font>
-CanAcceptMenu_51504=<font face="Default" color="#ffffff" >Please tell me about </font><font face="Default" color="#ffffff" >Peach Blossom Island.</font>
 CanAcceptMenu_51505=<font face="Default" color="#ffffff" >Eight Schools</font>
 CanAcceptMenu_51506=<font face="Default" color="#ffffff" >Please tell me about the emerging factions in Jianghu.</font>
 CanAcceptMenu_51511=<font face="Default" color="#ffffff" >Great Changes</font>
@@ -26,7 +25,6 @@ CanAcceptMenu_51636=<font face="Default" color="#ffffff" >I am stronger than you
 CompleteMenu_51501=<font face="Default" color="#ffffff" >Great Changes (complete)</font>
 CompleteMenu_51502=<font face="Default" color="#ffffff" >I have a letter for you.</font>
 CompleteMenu_51503=<font face="Default" color="#ffffff" >Tell me more about the Palace of Shifting Flowers.</font>
-CompleteMenu_51504=<font face="Default" color="#ffffff" >I understand.</font>
 CompleteMenu_51505=<font face="Default" color="#ffffff" >Thank you for your advice.</font>
 CompleteMenu_51506=<font face="Default" color="#ffffff" >Listen to the monk's explanation of Jianghu factions.</font>
 CompleteMenu_51511=<font face="Default" color="#ffffff" >Great Changes (complete)</font>
@@ -63,7 +61,6 @@ accept_51505_1=<font face="Default" color="#ffffff" >You have been wandering Jia
 accept_51506_1=<font face="Default" color="#ffffff" >Indeed. These are turbulent times, and where the combined might of the imperial army and the eight schools once maintained order, old factions now emerge from the shadows.</font>
 accept_51511_1=<font face="Default" color="#ffffff" >Young Hero, old man, what is happening?</font>
 accept_51512_1=<font face="Default" color="#ffffff" >Young Hero, during your time at Ruined Valley you have done many good deeds. We have been keeping an eye on you. </font>
-accept_51631_1=<font face="Default" color="#ffffff" >Emei was founded by the venerable Guo Xiang, who devoted herself to the well-being of others. To demonstrate your willingness to follow her example, please bring this medicine to our ailing Sister Han.</font>
 accept_51632_1=<font face="Default" color="#ffffff" >I'm sure you've heard tell that our sect is the largest. Don't be fooled! We're just a bunch of hungry beggars. You're still young, there's other options yet available to you.</font>
 accept_51633_1=<font face="Default" color="#ffffff" >Hmph. Very well. You'll have to prove yourself, of course. We aren't running an inn here.</font>
 accept_51634_1=<font face="Default" color="#ffffff" >Good. We welcome heroes from all over the world, but one thing that all of our disciples have in common is excellence in literature and art. What kind of talents do you have?</font>
@@ -72,7 +69,6 @@ accept_51636_1=<font face="Default" color="#ffffff" >Wanderer's Valley has no pl
 complete_51501=<font face="Default" color="#ffffff" >Young Hero, this old man only know so much. I wish I could be of more help.</font>
 complete_51502=<font face="Default" color="#ffffff" >Thank you for being my messenger. As you already understand the requirements for joining the Rootless Clan, </font><font face="Default" color="#ffffff" >once </font><font face="Default" color="#ffffff" >you change your mind</font><font face="Default" color="#ffffff" > you can come back</font><font face="Default" color="#ffffff" > and find me any time.</font>
 complete_51503=<font face="Default" color="#ffffff" >Palace of Shifting Flowers does not take mediocre students. They have very strict</font><font face="Default" color="#ffffff" > requirements.</font><font face="Default" color="#ffffff" > If you would like to join them you need to reach</font><font face="Default" color="#ffffff" > their</font><font face="Default" color="#ffffff" > standards.</font>
-complete_51504=<font face="Default" color="#ffffff" >Surely you are now familiar with the requirements for joining Peach Blossom Island?</font>
 complete_51505=<font face="Default" color="#ffffff" >If you would like to join the Eight Schools, </font><font face="Default" color="#ffffff" >you can take this secret order to the guides at the schools. They will instruct you on how to join.</font>
 complete_51506=<font face="Default" color="#ffffff" >Listen carefully to what I have to tell you, it will help you in the future when roaming Jianghu.</font>
 complete_51511=<font face="Default" color="#ffffff" >I only know so much. I wish I could be of more help.</font>
@@ -111,7 +107,6 @@ context_51627=<s>Good food and great rewards. This is the lifestyle of Royal Gua
 context_51628=<s>Lord Shan Tianming, a master of Divination, founded Wanderer's Valley.  He rarely teaches outsiders its secrets.
 context_51629=<s>It is Earth and Heaven, Yin and Yang, It is the root of the world itself.<br><s>
 context_51630=<s>The Shaolin serve all living things, and forfeit all mortal desires. You must undergo a trial to join them.
-context_51631=Emei was founded by the venerable Guo Xiang, who devoted herself to justice and charity. We strive to be more like her. You should as well.
 context_51632=They will tell you our sect is the largest. Don't be fooled! We're just a bunch of hungry beggars! You're still young! Escape while you still can!
 context_51633=Prove to Grandmother Tang that you are worthy to join her family.
 context_51634=You may join the Scholars. Our ranks include dancers, musicians, painters, and calligraphers. What talents do you have?
@@ -169,9 +164,7 @@ submit_51634=<font face="Default" color="#ffffff" >Thank you, Shifu.</font>
 submit_51635=<font face="Default" color="#ffffff" >I will not forget.</font>
 submit_51636=<font face="Default" color="#ffffff" >Thank you my Lord, I am relieved.</font>
 target_51501=Recently there has been a lot of unrest in Jianghu and many changes. Hear Tu Yong tell you about his experience.
-target_51502=Take Big Monk's letter to the Beast Villa and get to know Beast Villa.
 target_51503=Learn about the Palace of Shifting Flowers
-target_51504=Learn about Peach Blossom Island
 target_51505=Learn from the monk the requirements and restrictions for joining the Eight Schools.
 target_51506=Listen to the monk's explanation of the emerging factions in Jianghu.
 target_51511=There has been much unrest of late. Hear what Tu Yong has to say about it.
@@ -219,7 +212,6 @@ task_menu_complete_51628=Please, I would be honored to learn the ways of Wandere
 title_51501=Great Changes
 title_51502=Jianghu Faction: Rootless Clan
 title_51503=Jianghu Faction: Palace of Shifting Flowers
-title_51504=Jianghu Faction: Peach Blossom Island
 title_51505=Joining one of the Eight Schools
 title_51506=Jianghu Factions (2)
 title_51511=Great Changes
@@ -298,12 +290,6 @@ next_51534=
 submit_51534=<font face="Default" color="#ffffff" >Thank you for your generosity.</font>
 target_51534=Go to Ruined Valley to meet the Messengers of Good and Evil.
 title_51534=Practice and Cultivate your Skills
-CanAcceptMenu_51513=<font face="Default" color="#ffffff" >Continuous Self Improvement (Ice Chi Level 5) </font>
-CanAcceptMenu_51514=<font face="Default" color="#ffffff" >Continuous Self Improvement (Ice Chi Level 10) </font>
-CanAcceptMenu_51515=<font face="Default" color="#ffffff" >Continuous Self Improvement (Ice Chi Level 15) </font>
-CanAcceptMenu_51516=<font face="Default" color="#ffffff" >Continuous Self Improvement (Ice Chi Level 20) </font>
-CanAcceptMenu_51517=<font face="Default" color="#ffffff" >Continuous Self Improvement (Ice Chi Level 25) </font>
-CanAcceptMenu_51518=<font face="Default" color="#ffffff" >Continuous Self Improvement (Ice Chi Level 30) </font>
 CanAcceptMenu_51519=<font face="Default" color="#ffffff" >Continuous Self Improvement (Flower Mental Skill Level 5) </font>
 CanAcceptMenu_51520=<font face="Default" color="#ffffff" >Continuous Self Improvement (Flower Mental Skill Level 10) </font>
 CanAcceptMenu_51521=<font face="Default" color="#ffffff" >Continuous Self Improvement (Flower Mental Skill Level 15) </font>
@@ -400,12 +386,6 @@ menu_51526_1=<font face="Default" color="#ffffff" >Please tell me those bandits'
 menu_51527_1=<font face="Default" color="#ffffff" >Could you tell me the instance names. I want to challenge them.  </font>
 menu_51528_1=<font face="Default" color="#ffffff" >Could you tell me the instance names. I want to challenge them.  </font>
 menu_51529_1=<font face="Default" color="#ffffff" >Thank you for your instruction. I will remember them forever.  </font>
-next_51513=Find <a href="findnpc_new,born02,SchoolNpc000107" style="HLStype1">Xiao Yichen</a> when Ice Chi reaches Level 5
-next_51514=Find <a href="findnpc_new,born02,SchoolNpc000107" style="HLStype1">Xiao Yichen</a> when Ice Chi reaches Level 10
-next_51515=Find <a href="findnpc_new,born02,SchoolNpc000107" style="HLStype1">Xiao Yichen</a> when Ice Chi reaches Level 15
-next_51516=Find <a href="findnpc_new,born02,SchoolNpc000107" style="HLStype1">Xiao Yichen</a> when Ice Chi reaches Level 20
-next_51517=Find <a href="findnpc_new,born02,SchoolNpc000107" style="HLStype1">Xiao Yichen</a> when Ice Chi reaches Level 25
-next_51518=Find <a href="findnpc_new,born02,SchoolNpc000107" style="HLStype1">Xiao Yichen</a> when Ice Chi reaches Level 30
 next_51519=Find <a href="findnpc_new,born02,SchoolNpc000107" style="HLStype1">Xiao Yichen</a> when Flower Mental Skill reaches Level 5
 next_51520=Find <a href="findnpc_new,born02,SchoolNpc000107" style="HLStype1">Xiao Yichen</a> when Flower Mental Skill reaches Level 10
 next_51521=Find <a href="findnpc_new,born02,SchoolNpc000107" style="HLStype1">Xiao Yichen</a> when Flower Mental Skill reaches Level 15
@@ -429,12 +409,6 @@ submit_51526=<font face="Default" color="#ffffff" >Goodbye, Heibai Zi.</font>
 submit_51527=<font face="Default" color="#ffffff" >Thank you! </font>
 submit_51528=<font face="Default" color="#ffffff" >Thank you, Elder.</font>
 submit_51529=<font face="Default" color="#ffffff" >Thank you for your instruction!  </font>
-target_51513=Receive cultivation reward from Xiao Yichen when Ice Chi reaches Level 5
-target_51514=Receive cultivation reward from Xiao Yichen when Ice Chi reaches Level 10
-target_51515=Receive cultivation reward from Xiao Yichen when Ice Chi reaches Level 15
-target_51516=Receive cultivation reward from Xiao Yichen when Ice Chi reaches Level 20
-target_51517=Receive cultivation reward from Xiao Yichen when Ice Chi reaches Level 25
-target_51518=Receive cultivation reward from Xiao Yichen when Ice Chi reaches Level 30
 target_51519=Receive cultivation reward from Xiao Yichen when Flower Mental Skill reaches Level 5
 target_51520=Receive cultivation reward from Xiao Yichen when Flower Mental Skill reaches Level 10
 target_51521=Receive cultivation reward from Xiao Yichen when Flower Mental Skill reaches Level 15
@@ -446,12 +420,6 @@ target_51526=Complete Xiao Yichen's task
 target_51527=Complete Xiao Yichen's task
 target_51528=Complete Xiao Yichen's task
 target_51529=Complete Team Practice
-title_51513=Continuous Self Improvement (Ice Chi Level 5)
-title_51514=Continuous Self Improvement (Ice Chi Level 10)
-title_51515=Continuous Self Improvement (Ice Chi Level 15)
-title_51516=Continuous Self Improvement (Ice Chi Level 20)
-title_51517=Continuous Self Improvement (Ice Chi Level 25)
-title_51518=Continuous Self Improvement (Ice Chi Level 30)
 title_51519=Continuous Self Improvement (Flower Mental Skill 5)
 title_51520=Continuous Self Improvement (Flower Mental Skill 10)
 title_51521=Continuous Self Improvement (Flower Mental Skill 15)
@@ -463,4 +431,36 @@ title_51526=Uphold the justice and help the weak (Weekly)
 title_51527=Jianghu Forbidden Instance (Weekly)
 title_51528=Jianghu Forbidden Instance (Weekly)
 title_51529=Cultivate (Daily)
+CanAcceptMenu_51513=<font face="Default" color="#ffffff" >Continuous Self Improvement (Ice Chi Level 5) </font>
+CanAcceptMenu_51514=<font face="Default" color="#ffffff" >Continuous Self Improvement (Ice Chi Level 10) </font>
+CanAcceptMenu_51515=<font face="Default" color="#ffffff" >Continuous Self Improvement (Ice Chi Level 15) </font>
+CanAcceptMenu_51516=<font face="Default" color="#ffffff" >Continuous Self Improvement (Ice Chi Level 20) </font>
+CanAcceptMenu_51517=<font face="Default" color="#ffffff" >Continuous Self Improvement (Ice Chi Level 25) </font>
+CanAcceptMenu_51518=<font face="Default" color="#ffffff" >Continuous Self Improvement (Ice Chi Level 30) </font>
+accept_51631_1=<font face="Default" color="#ffffff" >Emei was founded by the venerable Guo Xiang, who devoted herself to the well-being of others. To demonstrate your willingness to follow her example, please bring this medicine to our ailing Sister Han.</font>
+context_51631=Emei was founded by the venerable Guo Xiang, who devoted herself to justice and charity. We strive to be more like her. You should as well.
+next_51513=Find <a href="findnpc_new,born02,SchoolNpc000107" style="HLStype1">Xiao Yichen</a> when Ice Chi reaches Level 5
+next_51514=Find <a href="findnpc_new,born02,SchoolNpc000107" style="HLStype1">Xiao Yichen</a> when Ice Chi reaches Level 10
+next_51515=Find <a href="findnpc_new,born02,SchoolNpc000107" style="HLStype1">Xiao Yichen</a> when Ice Chi reaches Level 15
+next_51516=Find <a href="findnpc_new,born02,SchoolNpc000107" style="HLStype1">Xiao Yichen</a> when Ice Chi reaches Level 20
+next_51517=Find <a href="findnpc_new,born02,SchoolNpc000107" style="HLStype1">Xiao Yichen</a> when Ice Chi reaches Level 25
+next_51518=Find <a href="findnpc_new,born02,SchoolNpc000107" style="HLStype1">Xiao Yichen</a> when Ice Chi reaches Level 30
+target_51502=Take Big Monk's letter to the Beast Villa and get to know Beast Villa.
+target_51513=Receive cultivation reward from Xiao Yichen when Ice Chi reaches Level 5
+target_51514=Receive cultivation reward from Xiao Yichen when Ice Chi reaches Level 10
+target_51515=Receive cultivation reward from Xiao Yichen when Ice Chi reaches Level 15
+target_51516=Receive cultivation reward from Xiao Yichen when Ice Chi reaches Level 20
+target_51517=Receive cultivation reward from Xiao Yichen when Ice Chi reaches Level 25
+target_51518=Receive cultivation reward from Xiao Yichen when Ice Chi reaches Level 30
+title_51513=Continuous Self Improvement (Ice Chi Level 5)
+title_51514=Continuous Self Improvement (Ice Chi Level 10)
+title_51515=Continuous Self Improvement (Ice Chi Level 15)
+title_51516=Continuous Self Improvement (Ice Chi Level 20)
+title_51517=Continuous Self Improvement (Ice Chi Level 25)
+title_51518=Continuous Self Improvement (Ice Chi Level 30)
+CanAcceptMenu_51504=<font face="Default" color="#ffffff" >Please tell me about </font><font face="Default" color="#ffffff" >Peach Blossom Island.</font>
+CompleteMenu_51504=<font face="Default" color="#ffffff" >I understand.</font>
+complete_51504=<font face="Default" color="#ffffff" >Surely you are now familiar with the requirements for joining Peach Blossom Island?</font>
+target_51504=Learn about Peach Blossom Island
+title_51504=Jianghu Faction: Peach Blossom Island
 

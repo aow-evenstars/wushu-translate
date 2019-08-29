@@ -214,9 +214,7 @@ target_84621=<s>Talk to Zhang Qingyuan.
 target_84622=<s>Speak with Chang Qing.
 target_84623=<s>Defeat Situ Qitian.
 target_84624=Talk to the woman intruder.
-target_84625=Defend Yu Wanwan.
 target_84626=On Yang Xiao’s advice talk to Lu Qianniang.
-target_84627=Find Yu Wanwan and make her leave.
 title_84600=Kill the Traitors
 title_84601=Stolen Script
 title_84602=A Helping Hand
@@ -272,25 +270,17 @@ accept_84635_1=<font face="Default" color="#ffffff" >I was forced to break into 
 accept_84636_1=<font face="Default" color="#ffffff" >Lu Qianniang said she'd marry nobody but Yin Feng long ago. She was called "Dragon Maiden in Black" by the Jianghu people. She is skillful but bad-tempered, so it is not good to piss her off. You'd better go to find her first.</font>
 accept_84637_1=<font face="Default" color="#ffffff" >How dare she come back to see Elder Brother Feng? You'd better persuade her to leave early. I will not let her go if she comes here again.</font>
 complete_84628=<font face="Default" color="#ffffff" > Jianghu is</font> <font face="Default" color="#ffffff" >too</font> <font face="Default" color="#ffffff" >dangerous now. I hope your friend will be fine.</font>
-complete_84629=<font face="Default" color="#ffffff" >Whether you can invite Miracle doctor Xue depends on your ability</font><font face="Default" color="#ffffff" >.</font> <font face="Default" color="#ffffff" >Miss Yu stays in Windbell Valley, I will take care of her </font><font face="Default" color="#ffffff" >. </font>
 complete_84630=<font face="Default" color="#ffffff" >Thank you so much for helping me along the way.</font>
 complete_84631=<font face="Default" color="#ffffff" >We will definitely interrogate Lu Qianniang for her conspiracy against Wanwan later on. Recently,</font> <font face="Default" color="#ffffff" >some Murong Family disciples</font> <font face="Default" color="#ffffff" >constantly</font> show up around here. I am so worried about Wanwan.
 complete_84632=<font face="Default" color="#ffffff" >They were so hateful. Ju Ran lured you away from your base unexpectedly,</font> <font face="Default" color="#ffffff" >and then</font> <font face="Default" color="#ffffff" >used Poison Hand you.</font>
 complete_84633=<font face="Default" color="#ffffff" >Do not bother me anymore. Valuing love will always hold things together.</font>
 complete_84634=<font face="Default" color="#ffffff" >I... I...</font>
-complete_84635=<font face="Default" color="#ffffff" >We cannot let Yu Wanwan and Yin Feng meet each other. The "Dragon maiden in black" Lu Qianniang loves Yin Feng so much. It will piss Lu Qianniang off if Yu Wanwan meets Yin Feng. You had better go to find Lu Qianniang and check the situation. </font>
 complete_84636=<font face="Default" color="#ffffff" >No way, she will definitely use sweet words to confuse elder brother Feng. I in no way will let her meet Elder Brother Feng.</font>
 complete_84637=<font face="Default" color="#ffffff" >Alas! I am too late... Wanwan...</font>
-context_84628=Yin Feng needs to go back and arrange some affairs in valley. Go and help him get information about Yu Wanwan first.
-context_84629=We got information from the Jianghu people saying that Yu Wanwan may still be in Windbell Valley. You might as well go to have a look.
-context_84630=Xue Muren is known as the Miracle doctor in the Northern Desert. Miss Yu will get better if I find Xue Muren in Yanyu Villa. I hope so.
 context_84631=A disciple of Windbell Valley reported that someone outside Valley had something to report. Follow the messenger to have a look.
 context_84632=Yin Feng found someone was eavesdropping outside house. Chase him and find out who it is.
-context_84633=After I finish the funeral affairs of Murong Shaoxuan, I will say goodbye to Yu Wanwan and Yin Feng.
 context_84634=Locate the woman intruder.
-context_84635=Some Wanderer's Valley disciples harassed Yu Wanwan, who was in trouble. We had better help her get out of encirclement.
 context_84636=Things are troublesome. Let's see if Yang Xiao's has any good ideas.
-context_84637=Now, the Dragon maiden in black bursts into anger. We had better persuade Yu Wanwan to get out of here. Everything should be taken good care of.
 menu_84628_1=<font face="Default" color="#ffffff">Okay</font><font face="Default" color="#ffffff">.</font>
 menu_84629_1=<font face="Default" color="#ffffff" >Thank you so much! I must go to Windbell Valley as soon as possible.</font>
 menu_84630_1=<font face="Default" color="#ffffff" >I'll go immediately.</font>
@@ -310,7 +300,6 @@ next_84636=
 next_84637=
 submit_84628=<font face="Default" color="#ffffff" >Thank you!</font>
 submit_84629=<font face="Default" color="#ffffff" >Thank you so much</font><font face="Default" color="#ffffff" >.</font>
-submit_84630=<font face="Default" color="#ffffff" >No need for thanks! As Jianghu people, we should help each other. </font>
 submit_84631=<font face="Default" color="#ffffff" >This is Windbell Valley territory, so they do not dare to act rashly.</font>
 submit_84632=<font face="Default" color="#ffffff" >Yes!</font><font face="Default" color="#ffffff" >Thanks to the help of Valley leader Shui Wuxin.</font>
 submit_84633=<font face="Default" color="#ffffff" >...</font> <font face="Default" color="#ffffff" >It is time to go. See you!</font>
@@ -318,16 +307,10 @@ submit_84634=<font face="Default" color="#ffffff" >Hold on, Miss. Who are you on
 submit_84635=<font face="Default" color="#ffffff" >Even if an upright official finds it hard to settle family affairs. I do not know what to do deal with it...</font>
 submit_84636=<font face="Default" color="#ffffff" >Take it easy, Dragon Maiden. We cannot jump to conclusions.</font>
 submit_84637=<font face="Default" color="#ffffff" >What... What is going on?</font>
-target_84628=Collect the information about Yu Wanwan.
-target_84629=Go to Windbell Valley to collect information about Yu Wanwan.
-target_84630=Ask Xue Muren to treat Yu Wanwan.
 target_84631=Go outside the valley to see who is paying a visit.
 target_84632=Find out the identity of the eavesdropper.
-target_84633=Help Yu Wanwan arrange Murong Shaoxuan's funeral.
 target_84634=Talk to the woman intruder.
-target_84635=Defend Yu Wanwan.
 target_84636=On Yang Xiao’s advice talk to Lu Qianniang.
-target_84637=Find Yu Wanwan and make her leave.
 title_84628=Search for location.
 title_84629=Wanwan goes blind.
 title_84630=Seeking for doctor and medicine
@@ -345,11 +328,8 @@ accept_84624_1=<font face="Default" color="#ffffff" >A strange woman broke into 
 accept_84625_1=<font face="Default" color="#ffffff" >I was forced to break into the Wanderer's Valley. Could you help me drive these Wanderer's Valley disciples away? I will definitely tell you the truth.</font>
 accept_84626_1=<font face="Default" color="#ffffff" >Lu Qianniang said she'd marry nobody but Yin Feng long ago. She was called "Dragon Maiden in Black" by the Jianghu people. She is skillful but bad-tempered, so it is not good to piss her off. You'd better go to find her first.</font>
 accept_84627_1=<font face="Default" color="#ffffff" >How dare she</font> <font face="Default" color="#ffffff" >come back to</font> <font face="Default" color="#ffffff" >see Elder Brother Feng? You'd better persuade her to leave early. I will not let her go if she comes here again.</font>
-complete_84625=<font face="Default" color="#ffffff" >We cannot let Yu Wanwan and Yin Feng meet each other. The "Dragon maiden in black" Lu Qianniang loves Yin Feng so much. It will piss Lu Qianniang off if Yu Wanwan meets Yin Feng.</font> <font face="Default" color="#ffffff" >You</font> <font face="Default" color="#ffffff" >had better go to find Lu Qianniang and check the situation. </font>
 complete_84626=<font face="Default" color="#ffffff" >No way, she will definitely use sweet words to</font> <font face="Default" color="#ffffff" >confuse</font> <font face="Default" color="#ffffff" >Elder Brother Feng. I will in no way let her</font> <font face="Default" color="#ffffff" >meet elder brother Feng</font><font face="Default" color="#ffffff" >.</font>
-context_84625=Some Wanderer's Valley disciples harassed Yu Wanwan, who was in trouble. We had better help her get out of encirclement.
 context_84626=Things are troublesome. Let's see if Yang Xiao's has any good ideas.
-context_84627=Now, the Dragon maiden in black bursts into anger. We had better persuade Yu Wanwan to get out of here. Everything should be taken good care of.
 menu_84624_1=<font face="Default" color="#ffffff" >Someone dared to break into Wanderer's Valley alone? Let me check it.</font>
 submit_84626=<font face="Default" color="#ffffff" >Take it easy, Dragon Maiden. We cannot jump to conclusions.</font>
 title_84625=Spoony People
@@ -389,25 +369,16 @@ accept_84646_1=<font face="Default" color="#ffffff" >...who is that? There's som
 accept_84647_1=<font face="Default" color="#ffffff" >Murong Baishi has got what he wanted. Right now, he must be eager to explore the secrets of the treasure map and has no time for us.</font>
 accept_84648_1=<font face="Default" color="#ffffff" >Before Murong Baishi died, he kept mumbling </font><font face="Default" color="#ffffff" >about </font><font face="Default" color="#ffffff" >the Palace of Shifting Flowers; it seems to be related to the lady in white who killed him.</font>
 complete_84638=<font face="Default" color="#ffffff" >I... I...</font>
-complete_84639=<font face="Default" color="#ffffff" >You absolutely cannot let Yu Wanwan see Yin Feng. Our Valley's Dragon Lady in Black, Lu Qianniang, is totally infatuated with him. If you let them reunite now, it might anger the Dragon Lady in Black, and the consequences would be disastrous...</font>
 complete_84640=<font face="Default" color="#ffffff" >No way, she will definitely use sweet words to confuse elder brother Feng. I in no way will let her meet Elder Brother Feng.</font>
 complete_84641=<font face="Default" color="#ffffff" >I can't believe I've come too late...Wanwan...</font>
 complete_84642=<font face="Default" color="#ffffff" >Jianghu has not been very peaceful lately; hope your friend is alright.</font>
-complete_84643=<font face="Default" color="#ffffff" >Whether Great Physician Xue will offer his help will depend on you. Lady Yu is in the valley, I will send someone to take good care of her, please do not worry. </font>
 complete_84644=<font face="Default" color="#ffffff" >Wanwan will never forget your kindness. It's a shame that Wanwan...may be unable to repay your kindness now.</font>
 complete_84646=<font face="Default" color="#ffffff" >Don't bother with the plan to lure the enemies away. I'm relieved as long as you are safe and sound now. Ever since we met, I have been dragging you into trouble. Wanwan will never forget your kindness.</font>
 complete_84647=<font face="Default" color="#ffffff" >What? Do you think that I, as the Valley Leader, should fly into a rage and order my followers to catch Guishi no matter how far he runs? Love between a man and a woman is supposed to be a private matter, and onlookers should keep their comments to themselves. He can do whatever he wants.</font>
 complete_84648=<font face="Default" color="#ffffff" >Our boss is missing, what shall we do?.</font>
-context_84638=This is a serious matter. Go to Wanderer's Valley to find out what's going on and ensure Lady Yu's safety.
-context_84639=Some Wanderer's Valley disciples harassed Yu Wanwan, who was in trouble. We had better help her get out of encirclement.
 context_84640=Things are troublesome. Let's see if Yang Xiao's has any good ideas.
-context_84641=Now, the Dragon maiden in black bursts into anger. We had better persuade Yu Wanwan to get out of here. Everything should be taken good care of.
-context_84642=Yin Feng needs to go back and arrange some affairs in valley. Go and help him get information about Yu Wanwan first.
-context_84643=We got information from the Jianghu people saying that Yu Wanwan may still be in Windbell Valley. You might as well go to have a look.
-context_84644=Xue Muren is called the Great Physician of the North. If you can find him, it will definitely help Lady Yu in her recovery.
 context_84645=A disciple of Windbell Valley reported that someone outside Valley had something to report. Follow the messenger to have a look.
 context_84646=Yin Feng found someone was eavesdropping outside house. Chase him and find out who it is.
-context_84647=After I finish the funeral affairs of Murong Shaoxuan, I will say goodbye to Yu Wanwan and Yin Feng.
 context_84648=Search for the lady in white with the guidance of Shan Tianming.
 menu_84638_1=<font face="Default" color="#ffffff" >Someone dared to break into Wanderer's Valley alone? Let me check it.</font>
 menu_84639_1=<font face="Default" color="#ffffff" >I have already </font><font face="Default" color="#ffffff" >helped you </font><font face="Default" color="#ffffff" >get rid of them.</font>
@@ -419,7 +390,6 @@ menu_84644_1=<font face="Default" color="#ffffff" >I'm setting off now, goodbye.
 menu_84645_1=<font face="Default" color="#ffffff" >Oh? I'll go out and take a look.</font>
 menu_84646_1=<font face="Default" color="#ffffff" >I'll pursue, to take a look.</font>
 menu_84647_1=<font face="Default" color="#ffffff" >I can't believe that the head of one of the four big families, Murong Villa, is such a despicable person...</font>
-menu_84648_1=<font face="Default" color="#ffffff" >This woman in white is </font><font face="Default" color="#ffffff" >helping </font><font face="Default" color="#ffffff" >Yu Wanwan</font><font face="Default" color="#ffffff" > kill his adversary. I am sure she is related to the Feiying Underground Palace Treasure Map. Do you have any information on the woman in white or the Palace of Shifting Flowers? </font>
 next_84638=
 next_84639=
 next_84640=
@@ -437,21 +407,13 @@ submit_84640=<font face="Default" color="#ffffff" >Don't be rash, Dragon Lady; <
 submit_84641=<font face="Default" color="#ffffff" >What... What is going on?</font>
 submit_84642=<font face="Default" color="#ffffff" >Thank you!</font>
 submit_84643=<font face="Default" color="#ffffff" >Thank you for your help, </font><font face="Default" color="#ffffff" >Valley Leader</font><font face="Default" color="#ffffff" >!</font>
-submit_84644=<font face="Default" color="#ffffff" >No need for thanks! As Jianghu people, we should help each other. (She has already suffered a lot. If I mention the treasure map now, I might be mistaken for a villain like people from Murong Villa, who covets others' family heirlooms...I think I'll postpone it for now.) </font>
 submit_84645=<font face="Default" color="#ffffff" >Rest assured, Guishi. This place is under the sphere of influence of Windbell Valley, and I doubt they would dare to act rashly.</font>
 submit_84646=<font face="Default" color="#ffffff" >Don't say that, lady. I really admire you for giving up your family heirloom in exchange for the safety of everyone.</font>
 submit_84647=<font face="Default" color="#ffffff" >Valley Leader Shan is a magnanimous person. I admire him for not bothering with trivial matters!</font>
 submit_84648=<font face="Default" color="#ffffff" >Can you tell me about the details of the matter, brother? So that I can help you find your boss.</font>
-target_84638=Go to Wanderer's Valley to look for Lady Yu
-target_84639=Defend Yu Wanwan.
 target_84640=On Yang Xiao’s advice talk to Lu Qianniang.
-target_84641=Find Yu Wanwan and make her leave.
-target_84642=Collect the information about Yu Wanwan.
-target_84643=Go to Windbell Valley to collect information about Yu Wanwan.
-target_84644=Ask Xue Muren to treat Yu Wanwan.
 target_84645=Go outside the valley to see who is paying a visit.
 target_84646=Find out the identity of the eavesdropper.
-target_84647=Help Yu Wanwan arrange Murong Shaoxuan's funeral.
 target_84648=Find out about the news of the lady in white.
 title_84638=Valley Intruder
 title_84639=Young Lady Searching for Someone
@@ -466,4 +428,42 @@ title_84647=Bitter Love
 title_84648=Track it Down by Following Clues
 complete_84645=<font face="Default" color="#ffffff" >Impossible! Qian Niang would never do this. I believe that the second medicine was added very recently and was not our belonging. Maybe someone is helping us...whether or not, Qing Niang is quite out of the line, I will talk to her later. By the way, are there any people from Murong Family around here often? </font>
 accept_84632_1=<font face="Default" color="#ffffff" >Who is that?</font>
+complete_84625=<font face="Default" color="#ffffff" >We cannot let Yu Wanwan and Yin Feng meet each other. The "Dragon maiden in black" Lu Qianniang loves Yin Feng so much. It will piss Lu Qianniang off if Yu Wanwan meets Yin Feng.</font> <font face="Default" color="#ffffff" >You</font> <font face="Default" color="#ffffff" >had better go to find Lu Qianniang and check the situation. </font>
+complete_84629=<font face="Default" color="#ffffff" >Whether you can invite Miracle doctor Xue depends on your ability</font><font face="Default" color="#ffffff" >.</font> <font face="Default" color="#ffffff" >Miss Yu stays in Windbell Valley, I will take care of her </font><font face="Default" color="#ffffff" >. </font>
+complete_84635=<font face="Default" color="#ffffff" >We cannot let Yu Wanwan and Yin Feng meet each other. The "Dragon maiden in black" Lu Qianniang loves Yin Feng so much. It will piss Lu Qianniang off if Yu Wanwan meets Yin Feng. You had better go to find Lu Qianniang and check the situation. </font>
+complete_84639=<font face="Default" color="#ffffff" >You absolutely cannot let Yu Wanwan see Yin Feng. Our Valley's Dragon Lady in Black, Lu Qianniang, is totally infatuated with him. If you let them reunite now, it might anger the Dragon Lady in Black, and the consequences would be disastrous...</font>
+complete_84643=<font face="Default" color="#ffffff" >Whether Great Physician Xue will offer his help will depend on you. Lady Yu is in the valley, I will send someone to take good care of her, please do not worry. </font>
+context_84625=Some Wanderer's Valley disciples harassed Yu Wanwan, who was in trouble. We had better help her get out of encirclement.
+context_84627=Now, the Dragon maiden in black bursts into anger. We had better persuade Yu Wanwan to get out of here. Everything should be taken good care of.
+context_84628=Yin Feng needs to go back and arrange some affairs in valley. Go and help him get information about Yu Wanwan first.
+context_84629=We got information from the Jianghu people saying that Yu Wanwan may still be in Windbell Valley. You might as well go to have a look.
+context_84630=Xue Muren is known as the Miracle doctor in the Northern Desert. Miss Yu will get better if I find Xue Muren in Yanyu Villa. I hope so.
+context_84633=After I finish the funeral affairs of Murong Shaoxuan, I will say goodbye to Yu Wanwan and Yin Feng.
+context_84635=Some Wanderer's Valley disciples harassed Yu Wanwan, who was in trouble. We had better help her get out of encirclement.
+context_84637=Now, the Dragon maiden in black bursts into anger. We had better persuade Yu Wanwan to get out of here. Everything should be taken good care of.
+context_84638=This is a serious matter. Go to Wanderer's Valley to find out what's going on and ensure Lady Yu's safety.
+context_84639=Some Wanderer's Valley disciples harassed Yu Wanwan, who was in trouble. We had better help her get out of encirclement.
+context_84641=Now, the Dragon maiden in black bursts into anger. We had better persuade Yu Wanwan to get out of here. Everything should be taken good care of.
+context_84642=Yin Feng needs to go back and arrange some affairs in valley. Go and help him get information about Yu Wanwan first.
+context_84643=We got information from the Jianghu people saying that Yu Wanwan may still be in Windbell Valley. You might as well go to have a look.
+context_84644=Xue Muren is called the Great Physician of the North. If you can find him, it will definitely help Lady Yu in her recovery.
+context_84647=After I finish the funeral affairs of Murong Shaoxuan, I will say goodbye to Yu Wanwan and Yin Feng.
+menu_84648_1=<font face="Default" color="#ffffff" >This woman in white is </font><font face="Default" color="#ffffff" >helping </font><font face="Default" color="#ffffff" >Yu Wanwan</font><font face="Default" color="#ffffff" > kill his adversary. I am sure she is related to the Feiying Underground Palace Treasure Map. Do you have any information on the woman in white or the Palace of Shifting Flowers? </font>
+submit_84630=<font face="Default" color="#ffffff" >No need for thanks! As Jianghu people, we should help each other. </font>
+submit_84644=<font face="Default" color="#ffffff" >No need for thanks! As Jianghu people, we should help each other. (She has already suffered a lot. If I mention the treasure map now, I might be mistaken for a villain like people from Murong Villa, who covets others' family heirlooms...I think I'll postpone it for now.) </font>
+target_84625=Defend Yu Wanwan.
+target_84627=Find Yu Wanwan and make her leave.
+target_84628=Collect the information about Yu Wanwan.
+target_84629=Go to Windbell Valley to collect information about Yu Wanwan.
+target_84630=Ask Xue Muren to treat Yu Wanwan.
+target_84633=Help Yu Wanwan arrange Murong Shaoxuan's funeral.
+target_84635=Defend Yu Wanwan.
+target_84637=Find Yu Wanwan and make her leave.
+target_84638=Go to Wanderer's Valley to look for Lady Yu
+target_84639=Defend Yu Wanwan.
+target_84641=Find Yu Wanwan and make her leave.
+target_84642=Collect the information about Yu Wanwan.
+target_84643=Go to Windbell Valley to collect information about Yu Wanwan.
+target_84644=Ask Xue Muren to treat Yu Wanwan.
+target_84647=Help Yu Wanwan arrange Murong Shaoxuan's funeral.
 

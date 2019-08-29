@@ -442,8 +442,6 @@ task_TrackInfo_36062=向<a href="findnpc_new,born03,FuncNpc00056" style="HLStype
 useiteminfo_36000=在水邊使用<a href="TASK_ITEM,key_book_wx_jh_jwdf05_1" style="HLStype1">空白圖紙</a>
 SubmitNpcEx_11951=和<a href="findnpc,adv024,305.000,10.620,490.000" style="HLStype1">吳睿</a>交談
 collectinfo_36061=你看見盧夏因思念過度咳出血來，偷偷的收起擦過血跡的<a href="findnpc,city02,601,0,343" style="HLStype1">帶血手帕</a>，心想一定要找到柯俊
-hunterinfo_36055=前去桃花島找尋<a href="findnpc_new,city02,sz325" style="HLStype1">進貢之人</a>，劫下貢品，再回復<a href="findnpc_new,city02,WorldNpc01327" style="HLStype1">慕容司辰</a>。
-hunterinfo_36056=前去虎丘山門找<a href="findnpc,city02,835,0,387" style="HLStype1">千幻公子</a>，再到<a href="findnpc,city02,737,106" style="HLStype1">擁翠山莊</a>嫁禍給桃花島。
 hunterinfo_36057=對<a href="findnpc_new,city02,WorldNpc01223" style="HLStype1">黃靈樞</a>使用西域迷香，然後綁給<a href="findnpc_new,city02,WorldNpc01327" style="HLStype1">慕容司辰</a>。
 hunterinfo_36060=栽贓嫁禍一事已完成，速速逃離御前侍衛的追捕，回復給<a href="findnpc_new,city02,WorldNpc01327" style="HLStype1">慕容司辰</a>。
 interactinfo_36077=查看<a href="findnpc,adv024,313,0,493" style="HLStype1">石頭</a>
@@ -499,8 +497,6 @@ collectinfo_36008={@IDName:Npc_cwqy_lua04}叫你去樹上找找<a href="findnpc,
 collectinfo_36009={@IDName:Npc_cwqy_lua04}叫你去樹上找找<a href="findnpc,city02,1368.786133,52.320004,979.219788" style="HLStype1">鳥巢</a>看能否掏顆鳥蛋給況府的{@IDName:WorldNpc01171}
 collectinfo_36080=<s>到<a href="findnpc_new,city05,Gather_cwqy_monkeyhair" style="HLStype1">案發現場</a>查探，尋找些線索。
 collectinfo_36083=營救大牢裡<a href="findnpc_new,city05,Gather_cwqy_monkeyrescue" style="HLStype1">被判斬首的猴子</a>
-collectinfo_36092=有什麼東西一晃，好像跑到了前面桃花林路口
-collectinfo_36093=趕去雕花樓前的一顆大樹下看看
 collectinfo_36094=那邊那顆<a href="findnpc,city02,1238,804" style="HLStype1">大樹</a>下有些蹊蹺
 collectinfo_36095=繼續<a href="findnpc,city02,1297,837" style="HLStype1">往前</a>走走
 collectinfo_36096=<a href="findnpc,city02,1292,885" style="HLStype1">前面</a>好像就是那只貂
@@ -636,4 +632,8 @@ DialogID_36088=<font face="Default" color="#ffffff" >大人抬舉小人了。以
 collectinfo_36081=採集<a href="findnpc_new,city05,Gather_cwqy_monkeyfood" style="HLStype1">煌丹果</a>，據周興說果子在南宮世家後院。
 SubmitNpcEx_12003=成功擊殺殺廚，快將此捷報告訴蘇州知府<a href="findnpc_new,city02,WorldNpc01244" style="HLStype1">況鍾</a>
 hunterinfo_36090=緝拿殺廚（朱大壽），為民除害。有線報說曾有人在雞鳴驛看到過此人，可以去找找線索。<font face="Default" color="#FF0000" >(此人極度危險，若發現此人，請組團擊殺，推薦加入幫會)</font>
+hunterinfo_36055=前去第一軒找尋<a href="findnpc_new,city02,sz325" style="HLStype1">進貢之人</a>，劫下貢品，再回復<a href="findnpc_new,city02,WorldNpc01327" style="HLStype1">慕容司辰</a>。
+hunterinfo_36056=前去虎丘山門找<a href="findnpc,city02,835,0,387" style="HLStype1">千幻公子</a>，再到<a href="findnpc,city02,737,106" style="HLStype1">擁翠山莊</a>嫁禍給第一軒。
+collectinfo_36092=有什麼東西一晃，好像跑到了前面桃花林路口（1198,908）
+collectinfo_36093=趕去雕花樓前的一顆大樹下看看（1203,861）
 

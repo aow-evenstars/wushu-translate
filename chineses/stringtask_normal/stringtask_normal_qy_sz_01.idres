@@ -296,7 +296,6 @@ next_11933=Say Goodbye to Suzhou
 next_11934=Test
 next_11935=Talk with <a href="findnpc_new,city02,WorldNpc01194" style="HLStype1">Lin Tiannan</a>.
 next_11936=Four Experts
-next_11942=Go to Tiger Hill Gate to find <a href="findnpc,city02,835,387" style="HLStype1">Young Master Qianhuan</a>,then go to <a href="findnpc,city02,703,106" style="HLStype1">Yongcui Villa</a> to shift the blame to Peachblossom Island.
 next_11944=Turn in the Head of the Wanted Criminals to <a href="findnpc_new,city02,WorldNpc01245" style="HLStype1">Song Qinghuai</a> to get a bonus.
 next_11946=You promise Lu Xia you'll inquire where Ke Jun is.
 next_11947=Talk with <a href="findnpc_new,born03,FuncNpc00056" style="HLStype1">Xu Qing</a>,the shopkeeper of Yanyu Villa.
@@ -340,8 +339,6 @@ target_11933=Bid farewell to the people who ever helped the beggars.
 target_11934=Kill the <a href="findnpc,city02,542,1377" style="HLStype1">Madman</a>
 target_11935=Go find Lin Tiannan.
 target_11936=Find the four experts and send an oral message to Lin Tian'nan.
-target_11941=Go find the tributary people at the Peach Blossom Island and steal the tributes, then report to Murong Sichen.
-target_11942=Go to Tiger Hill Mountain Gate to find <a href="findnpc,city02,835,387" style="HLStype1">Young Master Qianhuan</a>, then go to <a href="findnpc,city02,737,106" style="HLStype1">Yongcui Villa</a> to shift the trouble to Peachblossom Island.
 target_11943=Kidnap Huang Lingjiu and send him to Murong Sichen
 target_11944=Turn in the Head of the Wanted Criminals to the officials.
 target_11945=The frame-up is done. Flee away from the pursuing Imperial Guards and send the message to Murong Sichen.
@@ -410,13 +407,11 @@ title_11958=The Mastermind in the Background
 CanAcceptMenu_12000=<font face="Default" color="#ffffff" >Arrest Ye Soul</font><font face="Default" color="#ffffff" >of</font><font face="Default" color="#ffffff" >Twelve Demons</font>
 CanAcceptMenu_12001=<font face="Default" color="#ffffff" >Mask Enchantress</font><font face="Default" color="#ffffff" >of </font><font face="Default" color="#ffffff" >Twelve Demons</font>
 CanAcceptMenu_12002=<font face="Default" color="#ffffff" >Arrest Skull Engraver of Twelve Demons</font>
-CanAcceptMenu_12003=<font face="Default" color="#ffffff" >Arrest Narrow-minded Chef of Twelve Demons</font>
 CanAcceptMenu_12004=<font face="Default" color="#ffffff" >Arrest Insane Poisoner of Twelve Demons</font>
 CanAcceptMenu_12005=<font face="Default" color="#ffffff" >Arrest Bloody Doctor of Twelve Demons</font>
 CompleteMenu_12000=<font face="Default" color="#ffffff" >I've arrested Ye Soul!</font>
 CompleteMenu_12001=<font face="Default" color="#ffffff" >I've arrested Mask Enchantress!</font><font face="Default" color="#ffffff" >！</font>
 CompleteMenu_12002=<font face="Default" color="#ffffff" >I've arrested Skull Engraver!</font>
-CompleteMenu_12003=<font face="Default" color="#ffffff" >I've arrested the Narrow-minded Chef!</font>
 CompleteMenu_12004=<font face="Default" color="#ffffff" >I've arrested Insane Poisoner!</font>
 CompleteMenu_12005=<font face="Default" color="#ffffff" >I've arrested Bloody Doctor!</font>
 accept_12000_1=<font face="Default" color="#ffffff" >The wife of the head of Twelve Demons plunged herself into the furnace so as to not see the results of the wicked blade he was forging.</font>
@@ -444,13 +439,11 @@ menu_12005_1=<font face="Default" color="#ffffff" >Recruit candidate to kill him
 target_12000=Arrest Soul Restrainer (Gongye Duan)
 target_12001=Arrest Mask Enchantress (Qin Changying), remove the evils for people
 target_12002=Arrest the Skull Engraver (Cai Xiaoqing)
-target_12003=Arrest the Narrow-Minded Chef (Zhu Dashou)
 target_12004=Arrest the Insane Poisoner (Qiu Butong)
 target_12005=Arrest the Bloody Doctor (Huo Bei)
 title_12000=Twelve Demons-Ye Soul
 title_12001=Twelve Demons-Mask Enchantress
 title_12002=Twelve Demons-Skull Engraver
-title_12003=Twelve Demons-Narrow-minded Chef
 title_12004=Twelve Demons-Insane Poisoner
 title_12005=Twelve Demons-Bloody Doctor
 submit_12000=<font face="Default" color="#ffffff" >Thank you!</font>
@@ -602,14 +595,11 @@ context_12229=<s>Think of a way to stop Lin Zongren from continuing to poach ani
 context_12230=I learned from Constable Wanjun that they have a strange case at the Chengdu Hall of Justice. The Magistrate and Governor are at a loss. and the constables don't know what to do. I have heard of the famous hero {@0:}, so I came to ask for your help. Please help!
 context_12231=<s>Official Zhenzai's silver was stolen yet the storehouse window was unbroken. Somehow no one noticed anything. That is a strange case! Search the storehouse and see if you can find any overlooked clues.
 context_12232=I believe the thief used a monkey to enter through the skylight and steal the 100,000 Liang. The thief will be very conspicuous carrying a monkey through the city, so theJianghu street performers are the prime suspects. Question the traveling performers and find the thieving monkey.
-context_12233=<s>I learned where the monkey is and how to catch it. Pick a fruit called the "Huangdan fruit" and soak it in sedatives. Place it in the area where the monkey is, then catch the monkey after it faints from eating the fruit. Zhou Xing said that the "Huangdan fruits" are found on the waterfall cliff behind the rear courtyard of the Nangong Family House. Have the general store proprietor soak it in sedatives.
-context_12234=Head to the Huanhua Sword Sect and place the "Huangdan fruit" where the monkey will travel past, then wait for that thieving monkey to eat it. <br>Note: The soaked "Huangdan fruit" takes effect and wears off fast, so be sure not to miss your opportunity. <br>General store proprietor Na Mingnie sells "Huangdan fruits."
 context_12235=Question the monkey?! The monkey is convicted of stealing 100,000 Liang of silver and there will be a public beheading tomorrow!? This ridiculous matter that turns all the laws of man and nature upside down is happening right before my eyes! These corrupt officials have used me in their farce.  It is clear that the silver was embezzled, so they want to put the blame on the monkey. I just hate that I can't slice them up. Never mind. They have numbers on their side, so it's not worth fighting them now. I'll just go and release the monkey from the jail and come back some other day to take the heads of these corrupt officials.
 context_12236=Send the animal home.
 context_12237=Question the monkey?! The monkey is convicted of stealing 100,000 Liang of silver. There will be a public beheading tomorrow!? This ridiculous matter that turns all the laws of man and nature upside down is happening right before my eyes! These corrupt officials have used me in their farce.  It is clear that the silver was embezzled, so they want to put the blame on the monkey. I just hate that I can't slice them up. Never mind. They have numbers on their side, so it's not worth fighting them now. I'll just go and release the monkey from the jail and come back some other day to take the heads of these corrupt officials.
 context_12238=<s>Send the animal home.
 context_12240=To save Shanxi's little sister, rush over to find flower-picking thief Pang Guangguang.
-context_12241=Head to Emei Mountain to find Mistress Shuijing and ask about the whereabouts of the Dugu Nine Swords manual.
 context_12242=Open the chest to find the four gems.
 menu_12100_1=Of course. On my way!
 menu_12101_1=Don't be too sad. I'll think of some way to save it.
@@ -688,7 +678,6 @@ target_12230=Hurry to the Chengdu Hall of Justice and speak with Magistrate <a h
 target_12231=<s>Search the storehouse and see if you can find any overlooked clues.
 target_12232=Question the Jianghu street performers and find the whereabouts of the monkey.
 target_12233=Obtain the <a href="findnpc_new,city05,Gather_cwqy_monkeyfood" style="HLStype1">"Huangdan fruit"</a>, then find the general store proprietor <a href="findnpc_new,city05,FuncNpc00606" style="HLStype1">Na Mingnie</a> to soak it in sedatives.
-target_12234=<s>Catch the <a href="findnpc_new,city05,Npc_cwqy_monkey01" style="HLStype1">thieving monkey</a> near the Huanhua Sword Sect.
 target_12235=Save the <a href="findnpc_new,city05,Npc_cwqy_monkeyrescue" style="HLStype1">monkey sentenced to be beheaded</a> from the prison.
 target_12236=Little Walnut wants you to send the animal <a href="findnpc_new,born03,npc_cwqy_houzi1" style="HLStype1">back home</a>.
 target_12237=Save the monkey.
@@ -772,4 +761,15 @@ submit_11952_2=Does Wu Zhui belong to the Yanxing Escort Agency?
 target_11948=Visit the Changfeng Escort Agency and ask Xue Meng and Ouyang Cheng to stop harassing Lu Xia.
 target_12252=Go to Changfeng Escort Agency and find out the hidden fact
 title_12252=Yanxing Escort Agency
+CanAcceptMenu_12003=<font face="Default" color="#ffffff" >Arrest Narrow-minded Chef of Twelve Demons</font>
+CompleteMenu_12003=<font face="Default" color="#ffffff" >I've arrested the Narrow-minded Chef!</font>
+context_12233=<s>I learned where the monkey is and how to catch it. Pick a fruit called the "Huangdan fruit" and soak it in sedatives. Place it in the area where the monkey is, then catch the monkey after it faints from eating the fruit. Zhou Xing said that the "Huangdan fruits" are found on the waterfall cliff behind the rear courtyard of the Nangong Family House. Have the general store proprietor soak it in sedatives.
+context_12234=Head to the Huanhua Sword Sect and place the "Huangdan fruit" where the monkey will travel past, then wait for that thieving monkey to eat it. <br>Note: The soaked "Huangdan fruit" takes effect and wears off fast, so be sure not to miss your opportunity. <br>General store proprietor Na Mingnie sells "Huangdan fruits."
+context_12241=Head to Emei Mountain to find Mistress Shuijing and ask about the whereabouts of the Dugu Nine Swords manual.
+target_12003=Arrest the Narrow-Minded Chef (Zhu Dashou)
+target_12234=<s>Catch the <a href="findnpc_new,city05,Npc_cwqy_monkey01" style="HLStype1">thieving monkey</a> near the Huanhua Sword Sect.
+title_12003=Twelve Demons-Narrow-minded Chef
+next_11942=Go to Tiger Hill Gate to find <a href="findnpc,city02,835,387" style="HLStype1">Young Master Qianhuan</a>,then go to <a href="findnpc,city02,703,106" style="HLStype1">Yongcui Villa</a> to shift the blame to Peachblossom Island.
+target_11941=Go find the tributary people at the Peach Blossom Island and steal the tributes, then report to Murong Sichen.
+target_11942=Go to Tiger Hill Mountain Gate to find <a href="findnpc,city02,835,387" style="HLStype1">Young Master Qianhuan</a>, then go to <a href="findnpc,city02,737,106" style="HLStype1">Yongcui Villa</a> to shift the trouble to Peachblossom Island.
 

@@ -20,7 +20,6 @@ CompleteMenu_47014=<font face="Default" color="#ffffff" >Seize the advantage of 
 CompleteMenu_47015=<font face="Default" color="#ffffff" >Seize the advantage of time</font>
 CompleteMenu_47016=<font face="Default" color="#ffffff" >Seize the advantage of time</font>
 CompleteMenu_47017=<font face="Default" color="#ffffff" >Seize the advantage of time</font>
-CompleteMenu_47018=<font face="Default" color="#ffffff" >Jiang Shangtong is killed.</font>
 CompleteMenu_47019=<font face="Default" color="#ffffff" >Fighting out of Encirclement</font>
 CompleteMenu_47020=<font face="Default" color="#ffffff" >YLi Ju is defeated.</font>
 CompleteMenu_47021=<font face="Default" color="#ffffff" >You went to Da Rizong's stronghold to look for Ding Jiuzhong, and defeated Lihua Yuankang.</font>
@@ -46,7 +45,6 @@ complete_47014=<font face="Default" color="#ffffff" >Very good, This is your rew
 complete_47015=<font face="Default" color="#ffffff" >Very good, this is your Reward</font>
 complete_47016=<font face="Default" color="#ffffff" >Very good, this is your Reward</font>
 complete_47017=<font face="Default" color="#ffffff" >Very good, this is your Reward</font>
-complete_47018=<font face="Default" color="#ffffff" >You put tremendous effort into cornering Jiang Shangtong. This is your reward.</font>
 complete_47019=<font face="Default" color="#ffffff" >Brother Ding has been successfully rescued, and this is your reward.</font>
 complete_47020=<font face="Default" color="#ffffff" >I personally saw your effort. This is your reward.</font>
 complete_47021=<font face="Default" color="#ffffff" >Very good, this is your Reward</font>
@@ -60,7 +58,6 @@ context_47014=Destroying the other factions' provisions will give the Four Great
 context_47015=Destroying the other factions' provisions will give the Iron Riders' rescue mission the advantage of time.
 context_47016=Destroying the other factions' provisions will give Da Rizong's rescue mission the advantage of time.
 context_47017=Destroying the other factions' provisions will give the Silent Temple's rescue mission the advantage of time.
-context_47018=Jiang Shangtong is a ferocious fighter. After falling out of favor with the major factions, he joined the imperial army. He is a great threat that must be eliminated by the gathering of outlaws.
 context_47019=Escort the prisoner's stagecoach carrying Ding Jiuzhong, and fight your way out of the encirclement.
 context_47020=Defeat Li Ju and find the real Ding Jiuzhong.
 context_47021=Go to Da Rizong's stronghold to look for Ding Jiuzhong, and defeat Lihua Yuankang.
@@ -110,7 +107,6 @@ target_47014=Destroy the other factions' provisions.
 target_47015=Destroy the other factions' provisions.
 target_47016=Destroy the other factions' provisions.
 target_47017=Destroy the other factions' provisions.
-target_47018=You killed Jiang Shangtong
 target_47019=Escort Ding Jiuzhong's prison cart and fight your way out of the encirclement
 target_47020=Defeat Li Ju and find the real Ding Jiuzhong
 target_47021=You went to Da Rizong's stronghold to look for Ding Jiuzhong, and defeated Lihua Yuankang
@@ -124,7 +120,6 @@ title_47014=Seize the Advantage
 title_47015=Seize the advantage of time
 title_47016=Seize the advantage of time
 title_47017=Seize the advantage of time
-title_47018=You killed Jiang Shangtong
 title_47019=Fighting out of Encirclement
 title_47020=Defeat Li Ju
 title_47021=Defeat Lihua Yuankang
@@ -253,11 +248,16 @@ title_47046=Hard to trace
 title_47047=Supply shortage
 title_47048=Eight scattered people of Pyeongtaek
 context_47023=Submit your invitation to receive your Iron Riders Identification Card. Find the Iron Riders representivve <a href="findnpc,city01,1755,-19.5,1231" style="HLStype1">Ninth Yan.</a>
-context_47025=The son of Jiang Shangtong has sent assassins to Luoyang. Clear them.
 context_47040=Go to Luoyang (1044,943) and defeat Ye Jinglou. Upon completing the mission, if you did automatically receive your reward, you can go to <a href="findnpc_new,city04,world_jyz_wunei_05" style="HLStype1">Mysterious Yan</a> to claim it.
 next_47040=Defeat Elder Huadi and the others. Then speak with <a href="findnpc_new,city04,world_jyz_wunei_05" style="HLStype1">Mysterious Yan</a> to receive your reward.
 target_47023=Hand over your visiting card, receive an Iron Riders identity badge, and look for the Iron Riders' contact, <a href="findnpc_new,city05,world_jyz_sinei_07" style="HLStype1">Ninth Yan</a>
 target_47025=Help Lord Qin eliminate the assassins in Luoyang.
 target_47040=Go to Luoyang (1044,943) and defeat Ye Jinglou.
 title_47040=Plague of Luoyang
+CompleteMenu_47018=<font face="Default" color="#ffffff" >Jiang Shangtong is killed.</font>
+complete_47018=<font face="Default" color="#ffffff" >You put tremendous effort into cornering Jiang Shangtong. This is your reward.</font>
+context_47018=Jiang Shangtong is a ferocious fighter. After falling out of favor with the major factions, he joined the imperial army. He is a great threat that must be eliminated by the gathering of outlaws.
+context_47025=The son of Jiang Shangtong has sent assassins to Luoyang. Clear them.
+target_47018=You killed Jiang Shangtong
+title_47018=You killed Jiang Shangtong
 

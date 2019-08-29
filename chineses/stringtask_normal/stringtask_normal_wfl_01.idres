@@ -195,7 +195,6 @@ accept_190_1=<font face="Default" color="#ffffff" >A good defense will protect y
 accept_192_1=<font face="Default" color="#ffffff" >Overt Moves can counter the craftiest Feint Moves. Read this script, and test what you have learned against our Elder Brother.</font>
 accept_193_1=<font face="Default" color="#ffffff" >Well done. Now, let us experience the power of combos. Study your script, and practice again with your brother.</font>
 accept_194_1=<font face="Default" color="#ffffff" >You're welcome. Now, by successfully defending, you gather power that can be released with a devastating Rage Attack. Learn the technique, and practice with your Elder Brother.</font>
-accept_43_1=<font face="Default" color="#ffffff" >Emei was founded by the venerable Guo Xiang, who devoted herself to the well-being of others. To demonstrate your willingness to follow her example, please bring this medicine to our ailing Sister Han.</font>
 accept_44_1=<font face="Default" color="#ffffff" >I'm sure you've heard tell that our sect is the largest. Don't be fooled! We're just a bunch of hungry beggars. You're still young, there's other options yet available to you.</font>
 accept_45_1=<font face="Default" color="#ffffff" >Good. We welcome heroes from all over the world, but one thing that all of our disciples have in common is excellence in literature and art. What kind of talents do you have?</font>
 accept_46_1=<font face="Default" color="#ffffff" >Hmph. Very well. You'll have to prove yourself, of course. We aren't running an inn here.</font>
@@ -310,7 +309,6 @@ context_193=<font face="Default" color="#ffffff" >Study martial arts with your e
 context_194=Study the rage script, then duel your Elder Brother. Gather rage by blocking, and defeat him with a rage attack.
 context_41=<s>The Shaolin serve all living things, and forfeit all mortal desires. You must undergo a trial to join them.
 context_42=<s>It is Earth and Heaven, Yin and Yang, It is the root of the world itself.<br><s>
-context_43=Emei was founded by the venerable Guo Xiang, who devoted herself to justice and charity. We strive to be more like her. You should as well.
 context_44=They will tell you our sect is the largest. Don't be fooled! We're just a bunch of hungry beggars! You're still young! Escape while you still can!
 context_45=You may join the Scholars. Our ranks include dancers, musicians, painters, and calligraphers. What talents do you have?
 context_46=Prove to Grandmother Tang that you are worthy to join her family.
@@ -1343,8 +1341,6 @@ CanAcceptMenu_261=<font face="Default" color="#ffffff" >Factions Challenge</font
 CanAcceptMenu_262=<font face="Default" color="#ffffff" >Martial Arts Team Practice</font>
 CanAcceptMenu_263=<font face="Default" color="#ffffff">School Spy</font>
 CanAcceptMenu_401=<font face="Default" color="#ffffff" >Hard Work Brings Profit.</font>
-CanAcceptMenu_274=<font face="Default" color="#ffffff" >Great Gifts of the "Hua Mountain Competition"</font>
-accept_274_1=<font face="Default" color="#ffffff" >In order to celebrate the opening of the "Hua Mountain Competition." All Age of Wushu players can achieve surprising gifts within the event period.</font>
 CompleteMenu_258=<font face="Default" color="#ffffff" >Fulfill the task.</font>
 CompleteMenu_259=<font face="Default" color="#ffffff" >Fulfill the task.</font>
 CompleteMenu_260=<font face="Default" color="#ffffff" >Fulfill the task.</font>
@@ -1400,7 +1396,6 @@ context_497=Along with the improvement of Internal Energy, you can increase the 
 context_498=Along with the improvement of Internal Energy, you can increase the upper limit of meridians that can be activated through medicine.
 context_499=Along with the improvement of Internal Energy, you can increase the upper limit of meridians that can be activated through medicine.
 context_500=Along with the improvement of Internal Energy, you can increase the upper limit of meridians that can be activated through medicine.
-context_274=In order to celebrate the opening of the "Hua Mountain Competition,” during the event, all loyal players in "Age of Wushu" will receive a surprise gift.
 menu_401_1=<font face="Default" color="#ffffff" >All right.</font>
 menu_274_1=<font face="Default" color="#ffffff" >I want a gift pack.</font>
 next_401=Hard Work Always Rewarded
@@ -1431,7 +1426,6 @@ target_260=Destory one escort cart of hostile guild.
 target_261=Successfully challenge any martial arts club six times
 target_262=Finish team practice for once.
 target_263=Finish spying a school for once.
-target_274=Receive "Hua Mountain Competition" gift pack.
 target_401=Go to receive the reward at the Ritual Minister of the Great Ming in the Bank.
 target_489=Gained a pill from the school leader. It can increase a meridian line which can be activated.
 target_490=Gained a pill from the school leader. It can increase a meridian line which can be activated.
@@ -1451,7 +1445,6 @@ title_260=Rob an Escort Cart
 title_261=Influence Challenge
 title_262=Wushu Group Training
 title_263=School spy
-title_274="Hua Mountain Competition" Sends You Gifts.
 title_401=Hard Work Always Rewarded
 title_489=Activate the fifth meridian
 title_490=Activate the sixth meridian
@@ -1568,11 +1561,6 @@ CanAcceptMenu_424=Why did the messenger come?
 CanAcceptMenu_425=Why did the messenger come?
 CanAcceptMenu_426=Why did the messenger come?
 CanAcceptMenu_427=Why did the messenger come?
-CanAcceptMenu_428=<font face="Default" color="#ffffff" >Darksteel Token</font>
-CanAcceptMenu_429=<font face="Default" color="#ffffff" >Darksteel Token</font>
-CanAcceptMenu_430=<font face="Default" color="#ffffff" >Darksteel Token</font>
-CanAcceptMenu_431=<font face="Default" color="#ffffff" >Darksteel Token</font>
-CanAcceptMenu_432=<font face="Default" color="#ffffff" >Darksteel Token</font>
 CanAcceptMenu_433=<font face="Default" color="#ffffff" >Digging at the base of the wall</font>.
 CanAcceptMenu_435=<font face="Default" color="#ffffff" >Return to hometown </font><font face="Default" color="#ffffff" >Fervent desire</font>
 CompleteMenu_202=<font face="Default" color="#ffffff" >Fulfill the task.</font>
@@ -1612,11 +1600,6 @@ CompleteMenu_424=<font face="Default" color="#ffffff" >The special mission has b
 CompleteMenu_425=<font face="Default" color="#ffffff" >The special mission has been transferred.</font>
 CompleteMenu_426=<font face="Default" color="#ffffff" >The special mission has been transferred.</font>
 CompleteMenu_427=<font face="Default" color="#ffffff" >The special mission has been transferred.</font>
-CompleteMenu_428=<font face="Default" color="#ffffff" >I have come to collect the Darksteel Token.</font>
-CompleteMenu_429=<font face="Default" color="#ffffff" >I have come to collect the Darksteel Token.</font>
-CompleteMenu_430=<font face="Default" color="#ffffff" >I have come to collect the Darksteel Token.</font>
-CompleteMenu_431=<font face="Default" color="#ffffff" >I have come to collect the Darksteel Token.</font>
-CompleteMenu_432=<font face="Default" color="#ffffff" >I have come to collect the Darksteel Token.</font>
 CompleteMenu_433=<font face="Default" color="#ffffff" >Digging at the foot of the wall</font>
 CompleteMenu_434=<font face="Default" color="#ffffff" >Killing Li Ju</font>
 CompleteMenu_479=<font face="Default" color="#ffffff" >Fulfill the task.</font>
@@ -1647,11 +1630,6 @@ accept_424_1=<font face="Default" color="#ffffff" >Our prince has grand ambition
 accept_425_1=<font face="Default" color="#ffffff" >Our prince has grand ambitions. He wants to unify Jianghu. I have come here to summon you to surrender.  </font>
 accept_426_1=<font face="Default" color="#ffffff" >Our prince has grand ambitions. He wants to unify Jianghu. I have come here to summon you to surrender.  </font>
 accept_427_1=<font face="Default" color="#ffffff" >Our prince has grand ambitions. He wants to unify Jianghu. I have come here to summon you to surrender.  </font>
-accept_428_1=<font face="Default" color="#ffffff" >I see that you are very strong. Take this Darksteel Token to Huanxiu Mountain Villa in Suzhou to join the Fine Wisdom Pavilion. Our prince will reward you.</font>
-accept_429_1=<font face="Default" color="#ffffff" >I see that you are very powerful. Take this Darksteel Token to Huanxiu Mountain Villa in Suzhou to join the Fine Wisdom Pavilion. Our prince will give you a great reward.</font>
-accept_430_1=<font face="Default" color="#ffffff" >I see that you are very powerful. Take this Darksteel Token to Huanxiu Mountain Villa in Suzhou to join the Fine Wisdom Pavilion. Our prince will give you a great reward.</font>
-accept_431_1=<font face="Default" color="#ffffff" >I see that you are very powerful. Take this Darksteel Token to Huanxiu Mountain Villa in Suzhou to join the Fine Wisdom Pavilion. Our prince will give you a great reward.</font>
-accept_432_1=<font face="Default" color="#ffffff" >I see that you are very powerful. Take this Darksteel Token to Huanxiu Mountain Villa in Suzhou to join the Fine Wisdom Pavilion. Our prince will give you a great reward.</font>
 accept_433_1=<font face="Default" color="#ffffff" >Fine Wisdom Pavilion is plotting a major conspiracy. I have been laying in wait for a long time and I finally found a weakness. Take this hoe and dig up their defenses.</font>
 accept_435_1=<font face="Default" color="#ffffff" >The commanding officer is looking for you.</font>
 complete_202=<font face="Default" color="#ffffff" >You remind me of myself. Let me help you.</font>
@@ -1708,11 +1686,6 @@ context_424=The tiny messenger of the Korean prince must be bold to threaten a g
 context_425=The tiny messenger of the Korean prince must be bold to threaten a grandmaster. But I have to respect the rules of our Central Plain and refrain from striking back. Hurry up and get out of encirclement.
 context_426=The tiny messenger of the Korean prince must be bold to threaten a grandmaster. But I have to respect the rules of our Central Plain and refrain from striking back. Hurry up and get out of encirclement.
 context_427=The tiny messenger of the Korean prince must be bold to threaten a grandmaster. But I have to respect the rules of our Central Plain and refrain from striking back. Hurry up and get out of encirclement.
-context_428=Find an unfamiliar Korean person to get the Darksteel Token.
-context_429=Find an unfamiliar Korean person to get the Darksteel Token.
-context_430=Find an unfamiliar Korean person to get the Darksteel Token.
-context_431=Find an unfamiliar Korean person to get the Darksteel Token.
-context_432=Find an unfamiliar Korean person to get the Darksteel Token.
 context_433=The Fine Wisdom Pavilion is looking at the Central Plain with greedy eyes. They will make their move soon. The school leaders have wanted to eliminate them for a long time now, but they have too many powerful fighters. They keep their secrets well guarded and their defenses tight.  A Jianghu man, Yan Laosi, discovered that one of the guard points have a weak spot. Start from this weak point and when the time is right, pull them up from the roots.
 context_434=Assassinate the Korean Princess Li Ju, who is the mastermind behind Fine Wisdom Pavilion.
 menu_123_1=
@@ -1723,9 +1696,6 @@ menu_228_1=<font face="Default" color="#ffffff" >You have been in the palace for
 menu_229_1=<font face="Default" color="#ffffff" >Thank you.</font>
 menu_230_1=<font face="Default" color="#ffffff" >I see. Thank you very much.</font>
 menu_231_1=<font face="Default" color="#ffffff" >Okay. Thank you very much.</font>
-menu_232_1=<font face="Default" color="#ffffff" >I have had a breakthrough in my practice of Star Absorption, but my attack seems too aggressive. It's not easy to control the internal skill.</font>
-menu_233_1=<font face="Default" color="#ffffff" >I have had a breakthrough in my practice of Star Absorption, but my attack seems too aggressive. It's not easy to control the internal skill.</font>
-menu_234_1=<font face="Default" color="#ffffff" >I have had a breakthrough in my practice of Star Absorption, but my attack seems too aggressive. It's not easy to control the internal skill.</font>
 menu_240_1=<font face="Default" color="#ffffff" >Thanks a million!</font>
 menu_357_1=<font face="Default" color="#ffffff" >Your disciple really misses the secular world. Please grant my request, Abbot. </font>
 menu_420_1=Wait until I report to the grandmaster.
@@ -1805,11 +1775,6 @@ target_424=Resolve the embarrassment of the grandmaster.
 target_425=Resolve the embarrassment of the grandmaster.
 target_426=Resolve the embarrassment of the grandmaster.
 target_427=Resolve the embarrassment of the grandmaster.
-target_428=Find an unfamiliar Korean person to get the Darksteel Token.
-target_429=Find an unfamiliar Korean person to get the Darksteel Token.
-target_430=Find an unfamiliar Korean person to get the Darksteel Token.
-target_431=Find an unfamiliar Korean person to get the Darksteel Token.
-target_432=Find an unfamiliar Korean person to get the Darksteel Token.
 target_433=The Jianghu fighter Yan Laosi found a hole in their defenses and used this hole to weaken them. He is waiting for the right timing to destroy the defenses in one blow.
 target_434=Assassinate the Korean Princess Li Ju, who is the mastermind behind Fine Wisdom Pavilion.
 title_202=Drinking Game
@@ -1837,11 +1802,6 @@ title_424=An arrogant messenger
 title_425=An arrogant messenger
 title_426=An arrogant messenger
 title_427=An arrogant messenger
-title_428=Collect the Darksteel Token
-title_429=Collect the Darksteel Token
-title_430=Collect the Darksteel Token
-title_431=Collect the Darksteel Token
-title_432=Collect the Darksteel Token
 title_433=Digging at the foot of the wall
 title_434=Kill Li Ju
 CanAcceptMenu_200=<font face="Default" color="#ffffff" >The Qingming Festival has arrived. Let's go enjoy the spring air!</font>
@@ -2041,7 +2001,6 @@ CanAcceptMenu_394=<font face="Default" color="#ffffff" >Wuqing Challenge (Forbid
 CanAcceptMenu_395=<font face="Default" color="#ffffff" >Wuqing Challenge (Forbidden Instance)</font>
 CanAcceptMenu_396=<font face="Default" color="#ffffff" >Wuqing Challenge (Forbidden Instance)</font>
 CanAcceptMenu_397=<font face="Default" color="#ffffff" >Wuqing Challenge (Forbidden Instance)</font>
-CanAcceptMenu_43988=<font face="Default" color="#ffffff" >"Independence Day" Gift Box</font>
 CanAcceptMenu_68=<font face="Default" color="#ffffff" >How do I join a School?</font>
 CanAcceptMenu_79=<font face="Default" color="#ffffff" >Student Gift Pack</font>
 CanAcceptMenu_80=<font face="Default" color="#ffffff" >World Celebration Gift Pack</font>
@@ -2072,7 +2031,6 @@ CompleteMenu_395=<font face="Default" color="#ffffff" >I'm back.</font>
 CompleteMenu_396=<font face="Default" color="#ffffff" >I'm back.</font>
 CompleteMenu_397=<font face="Default" color="#ffffff" >I'm back.</font>
 CompleteMenu_398=<font face="Default" color="#ffffff" >This is what you ordered. Please verify everything is in order! </font>
-CompleteMenu_43988=<font face="Default" color="#ffffff" >I wish to collect "Independence Day" Gift Box.</font>
 CompleteMenu_68=<font face="Default" color="#ffffff" >Fulfill the task.</font>
 CompleteMenu_79=<font face="Default" color="#ffffff" >I would like to redeem the Student Gift Pack</font>
 CompleteMenu_80=<font face="Default" color="#ffffff" >I wish to collect Celebration Gift Pack.</font>
@@ -2102,7 +2060,6 @@ accept_394_1=<font face="Default" color="#ffffff" >People of Jianghu have always
 accept_395_1=<font face="Default" color="#ffffff" >People of Jianghu have always lived by means of martial arts. Great Hero, you should travel to the major forbidden instances with some friends, make new friends through martial arts, and celebrate the holidays together!</font>
 accept_396_1=<font face="Default" color="#ffffff" >People of Jianghu have always lived by means of martial arts. Great Hero, you should travel to the major forbidden instances with some friends, make new friends through martial arts, and celebrate the holidays together!</font>
 accept_397_1=<font face="Default" color="#ffffff" >People of Jianghu have always lived by means of martial arts. Great Hero, you should travel to the major forbidden instances with some friends, make new friends through martial arts, and celebrate the holidays together!</font>
-accept_43988_1=<font face="Default" color="#ffffff" >As a token of our appreciation of the many players of Age of Wushu and their ongoing support, we have prepared a gift for our players for "Independence Day". </font>
 accept_68_1=<font face="Default" color="#ffffff" >I have heard that the eight major schools are recruiting right now. This is a good opportunity for you. Find a coachman, and ask him to tell you more about the schools.</font>
 accept_79_1=<font face="Default" color="#ffffff" >It's that time of year again when the students of the kingdom take their entrance examinations. The emperor has given us orders to prepare a gift pack for all of the </font><font face="Default" color="#ffffff" >students in the kingdom </font><font face="Default" color="#ffffff" >for motivation and encouragement.</font>
 accept_80_1=<font face="Default" color="#ffffff" >As a token of our appreciation of the many players of Age of Wushu and their ongoing support, we have prepared a National Day Gift for our players. </font>
@@ -2133,7 +2090,6 @@ complete_395=<font face="Default" color="#ffffff" >You are truly gifted. Please 
 complete_396=<font face="Default" color="#ffffff" >You are truly gifted. Please accept this as an expression of my gratitude.</font>
 complete_397=<font face="Default" color="#ffffff" >You are truly gifted. Please accept this as an expression of my gratitude.</font>
 complete_398=<font face="Default" color="#ffffff" >You really are very kind, Young Hero. This book is worth a thousand gold. Please do accept it. </font>
-complete_43988=<font face="Default" color="#ffffff" >Are you sure you want to collect the "Independence Day" Gift Box? </font>
 complete_68=<s>You are a strange one. I see great potential in you.
 complete_79=<font face="Default" color="#ffffff" >Are you sure that you want to collect the Student Gift Pack?</font>
 complete_80=<font face="Default" color="#ffffff" >Are you sure you want to collect the Celebration Gift Pack? </font>
@@ -2164,7 +2120,6 @@ context_395=Your power has reached Peak of Power, which of course ensures it is 
 context_396=Your power has reached Peak of Power, which of course ensures it is now safe for you to experiment with you power by taking a bold adventure into the so-called free and restricted Jianghu. You might consider go through Martial Arts Celebration Challenge quest to be rewarded with abundant awards.
 context_397=Your power has reached Peak of Power, which of course ensures it is now safe for you to experiment with you power by taking a bold adventure into the so-called free and restricted Jianghu. You might consider go through Martial Arts Celebration Challenge quest to be rewarded with abundant awards.
 context_398=Help Traveling Old Man Zhou Yixian gather Jackdaw Herb to solve his problem.
-context_43988=As a token of our appreciation of the many players of Age of Wushu and their ongoing support, we have prepared a gift for our players. Happy gaming during "Independence Day", Heroes!
 context_68=<s>I have heard that the eight major schools are recruiting right now. This is a good opportunity for you. Find a coachman, and ask him to tell you more about the schools.
 context_79=It's that time of year again when the students of the kingdom take their entrance examinations. The emperor has given us orders to prepare a "Student Gift Pack" to give to all of the students in the kingdom. We wish you academic success!
 context_80=As a token of our appreciation of the many players of Age of Wushu and their ongoing support, we have prepared a National Day Gift for our players. Happy holiday gaming, Heroes!
@@ -2195,7 +2150,6 @@ menu_395_1=<font face="Default" color="#ffffff" >I was thinking the same thing!<
 menu_396_1=<font face="Default" color="#ffffff" >I was thinking the same thing!</font>
 menu_397_1=<font face="Default" color="#ffffff" >I was thinking the same thing!</font>
 menu_398_1=<font face="Default" color="#ffffff" >No Relief in Death</font>
-menu_43988_1=<font face="Default" color="#ffffff" >I want to collect a gift box.</font>
 menu_68_1=<font face="Default" color="#ffffff" >What should I do?</font>
 menu_79_1=<font face="Default" color="#ffffff" >I want to collect a gift pack.</font>
 menu_80_1=<font face="Default" color="#ffffff" >I want to collect a gift pack.</font>
@@ -2226,7 +2180,6 @@ submit_395=<font face="Default" color="#ffffff" >Thank you very much, then!</fon
 submit_396=<font face="Default" color="#ffffff" >Thank you very much, then!</font>
 submit_397=<font face="Default" color="#ffffff" >Thank you very much, then!</font>
 submit_398=<font face="Default" color="#ffffff" >Huh? Well, thanks then! </font>
-submit_43988=<font face="Default" color="#ffffff" >Yes</font>
 submit_68=<font face="Default" color="#ffffff" >I want to join your school.</font>
 submit_79=<font face="Default" color="#ffffff" >Yes.</font>
 submit_80=<font face="Default" color="#ffffff" >Yes.</font>
@@ -2257,7 +2210,6 @@ target_395=Complete one specified Forbidden Instance (<font color="#ee7621">This
 target_396=Complete one specified Forbidden Instance (<font color="#ee7621">This task can be skipped and then re-chosen so that the specified Forbidden Instance is randomly re-selected; in addition, there is no restriction on the difficulty level of the Forbidden Instance</font>)
 target_397=Complete one specified Forbidden Instance (<font color="#ee7621">This task can be skipped and then re-chosen so that the specified Forbidden Instance is randomly re-selected; in addition, there is no restriction on the difficulty level of the Forbidden Instance</font>)
 target_398=Gather 10 bunches of <font color="#ee7621">Jackdaw Herb</font> and give to Zhou Yixian.
-target_43988=Collect the "Independence Day" Gift Box from Bank Holiday Festival Ambassador Lin Liang.
 target_68=<s>Find a coachman to ask about the latest status of the various major schools and clans; this will guide you into joining the school you have always admired.
 target_79=Redeem the Student Gift Pack
 target_80=Collect the "Celebration Gift Pack" from Qian Fugui at a bank.
@@ -2288,7 +2240,6 @@ title_395=Wuqing Challenge (Forbidden Instance)
 title_396=Wuqing Challenge (Forbidden Instance)
 title_397=Wuqing Challenge (Forbidden Instance)
 title_398=Power Up
-title_43988="Independence Day" Giveaway
 title_68=Finding an Instructor
 title_79=Celebrating Wushu
 title_80=Golden Autumn Giveaway
@@ -2374,7 +2325,6 @@ accept_317_1=<font face="Default" color="#ffffff" >Thank goodness you are here. 
 accept_318_1=<font face="Default" color="#ffffff" >I have been imprisoned by them.  Are you coming to rescue me? </font>
 accept_319_1=<font face="Default" color="#ffffff" >Are you coming to rescue us?  Thank goodness you are here.  </font>
 accept_320_1=<font face="Default" color="#ffffff" >I have been imprisoned here for several days. Why doesn't any one come to rescue me? </font>
-accept_321_1=<font face="Default" color="#ffffff" >I suffered a lot here. How dare they offend our Blood Blade Clan?! </font>
 accept_322_1=<font face="Default" color="#ffffff" >I'll revenge one day! Take me back please.  </font>
 accept_323_1=<font face="Default" color="#ffffff" >Thank goodness you are here. I really suffered a lot! </font>
 accept_324_1=<font face="Default" color="#ffffff" >How dare they imprison me here!  Do they really believe that I can be trapped here easily?!</font>
@@ -2382,7 +2332,6 @@ accept_325_1=<font face="Default" color="#ffffff" >The people in the Valley of F
 accept_326_1=<font face="Default" color="#ffffff" >The people here are brutal. What a horrible place! My health problem recurs. I don't want to stay here any more. Please take me away!  </font>
 accept_327_1=<font face="Default" color="#ffffff" >I have hidden here for many days. I have found something. Let's go back to Lingxiao City now!  </font>
 accept_328_1=<font face="Default" color="#ffffff" >My poison has been removed. Let's leave here</font><font face="Default" color="#ffffff" >. </font>
-accept_329_1=<font face="Default" color="#ffffff" >I got the news on Blood Blade Clan. However, I was captured and imprisoned here. Haven't they found you, right? </font>
 accept_330_1=<font face="Default" color="#ffffff" >My temper have become good, or all these monsters in the Valley of Frozen Souls would be killed!  I have wandered all around the valley. It's time to sleep now.  </font>
 accept_331_1=<font face="Default" color="#ffffff" >I will never yield even I'm imprisoned here.  I don't mind death at all! Who are you?  </font>
 accept_332_1=<font face="Default" color="#ffffff" >I got some news. I have to report them to the leader as soon as possible!  Will you help me? </font>
@@ -2414,31 +2363,19 @@ context_314=Rescue the captured hostage from Valley of Frozen Souls
 context_315=Rescue the captured hostage from Valley of Frozen Souls
 context_316=Rescue the captured hostage from Valley of Frozen Souls
 context_317=Rescue the captured hostage from Valley of Frozen Souls
-context_318=Rescue the captured hostage from Blood Blade Clan
-context_319=Rescue the captured hostage from Blood Blade Clan
-context_320=Rescue the captured hostage from Blood Blade Clan
-context_321=Rescue the captured hostage from Blood Blade Clan
-context_322=Rescue the captured hostage from Blood Blade Clan
-context_323=Rescue the captured hostage from Blood Blade Clan
 context_324=Escort Zuo Qinghou back to Snowy Mountain Holy Region
 context_325=Escort reclusive Chi Wanwan from Valley of Frozen Souls
-context_326=He Lanyu was caught when he was spying Blood Blade Clan. Rescue him.
 context_327=Xiang Tiexin was trapped in the Snowy Mountain, when he was spying there.
 context_328=Yu Linglong was poisoned and trapped in the Valley of Frozen Souls when she was trying to to rescue the captured hostage there.
-context_329=Nie Zhen was wounded and captured when he spied on Blood Blade Clan.
 context_330=He was trapped in the Valley of Frozen Souls when he was spying on it.
 context_331=Qin Xing was wounded and taken to Lingxiao City by Lingxiao City experts.
 context_332=He was trapped in the Snowy Mountain Holy Region when he was spying on it.
 context_333=To gain more achievements in cooking skill, Fat Cook left the Valley of Frozen Souls and head for Snowy Mountain Holy Region, searching for rare food materials.
 context_334=Yu Chaihan was wounded and imprisoned in  Lingxiao City by Lingxiao City experts.
-context_335=Meng Daoren was poisoned and captured when he sneaked into Blood Blade Clan.
 context_336=Zuo Qinghou was wounded and taken to Lingxiao City by Lingxiao City experts.
-context_337=He Lanyu was caught when he was spying Blood Blade Clan. Rescue him.
 context_338=Yu Linglong was poisoned and trapped in the Valley of Frozen Souls when she was trying to to rescue the captured hostage there.
-context_339=Nie Zhen was wounded and captured when he spied on Blood Blade Clan.
 context_340=Qin Xing was wounded and taken to Lingxiao City by Lingxiao City experts.
 context_341=Yu Chaihan was wounded and imprisoned in  Lingxiao City by Lingxiao City experts.
-context_342=Meng Daoren was poisoned and captured when he sneaked into Blood Blade Clan.
 menu_300_1=<font face="Default" color="#ffffff" >It's dangerous here. Let's leave here first.  </font>
 menu_301_1=<font face="Default" color="#ffffff" >I'm coming to rescue you!  </font>
 menu_302_1=<font face="Default" color="#ffffff" >Hush! I'm here to escort you back to Lingxiao City. </font>
@@ -2500,31 +2437,18 @@ target_314=Escort the hostage back to Valley of Frozen Souls
 target_315=Escort the hostage back to Valley of Frozen Souls
 target_316=Escort the hostage back to Valley of Frozen Souls
 target_317=Escort the hostage back to Valley of Frozen Souls
-target_318=Escort the hostage back to Blood Blade Clan
-target_319=Escort the hostage back to Blood Blade Clan
-target_320=Escort the hostage back to Blood Blade Clan
-target_321=Escort the hostage back to Blood Blade Clan
-target_322=Escort the hostage back to Blood Blade Clan
-target_323=Escort the hostage back to Blood Blade Clan
 target_324=Escort Zuo Qinghou
 target_325=Escort Chi Wanwan from Valley of Frozen Souls
-target_326=Escort He Lanyu from Blood Blade Clan
 target_327=Escort Xiang Tiexin from Snowy Mountain Holy Region
 target_328=Escort Yu Linglong from Valley of Frozen Souls
-target_329=Rescue Nie Zhen from Blood Blade Clan
-target_330=Escort Blood Blade Clan Founding Elder from Valley of Frozen Souls
 target_331=Rescue Qin Xingjie from Lingxiao City
 target_332=Escort Qin Feng from Snowy Mountain Holy Region
 target_333=Escort Fat Cook from Snowy Mountain Holy Region
 target_334=Rescue Yu Chaihan from Lingxiao City
-target_335=Rescue Meng Daoren from Blood Blade Clan
 target_336=Escort Zuo Qinghou from Lingxiao City
-target_337=Escort He Lanyu from Blood Blade Clan
 target_338=Escort Yu Linglong from Valley of Frozen Souls
-target_339=Rescue Nie Zhen from Blood Blade Clan
 target_340=Rescue Qin Xingjie from Lingxiao City
 target_341=Rescue Yu Chaihan from Lingxiao City
-target_342=Rescue Meng Daoren from Blood Blade Clan
 title_300=Save the Hostage
 title_301=Save the Hostage
 title_302=Save the Hostage
@@ -2587,10 +2511,6 @@ title_40=Joining a School
 title_49=Joining a School
 title_50=Joining a School
 title_59=Joining a School
-CanAcceptMenu_83=<font face="Default" color="#ffffff" >Jianghu in Summer: Conflict</font>
-CanAcceptMenu_84=<font face="Default" color="#ffffff" >Jianghu in Summer: Experience</font>
-CanAcceptMenu_85=<font face="Default" color="#ffffff" >Jianghu in Summer: Cultivation</font>
-CanAcceptMenu_86=<font face="Default" color="#ffffff" >Jianghu in Summer: Challenge.</font>
 CanAcceptMenu_87=<font face="Default" color="#ffffff" >Martial Arts Celebration Challenge (Western Regions)</font>
 CanAcceptMenu_88=<font face="Default" color="#ffffff" >Martial Arts Celebration Challenge (Collection)</font>
 CanAcceptMenu_89=<font face="Default" color="#ffffff" >Martial Arts Celebration Challenge (Northern Plains)</font>
@@ -2621,10 +2541,6 @@ complete_86=<font face="Default" color="#ffffff" >This is the reward.</font>
 complete_87=<font face="Default" color="#ffffff" >Please accept this</font><font face="Default" color="#ffffff" >. </font>
 complete_88=<font face="Default" color="#ffffff" >Please accept this</font><font face="Default" color="#ffffff" >. </font>
 complete_89=<font face="Default" color="#ffffff" >Please accept this</font><font face="Default" color="#ffffff" >. </font>
-context_83=During the event, you can get the task Jianghu in Summer: Conflict from Ning Jiuhui (Traveler) in Suzhou (423.794) and Chengdu (923.551).
-context_84=During the event, you can get the task Jianghu in Summer: Experience from Ning Jiuhui (Traveler) in Suzhou (423.794) and Chengdu (923.551).
-context_85=During the event, you can get the task Jianghu in Summer: Cultivation from Ning Jiuhui (Traveler) in Suzhou (423.794) and Chengdu (923.551).
-context_86=During the event, you can get the task Jianghu in Summer: Challenge from Ning Jiuhui (Traveler) in Suzhou (423.794) and Chengdu (923.551).
 context_87=It is time for you to venture forth into a new world. Finish Martial Arts Celebration Challenge quest and get your reward for today.
 context_88=It is time for you to go on a tour in the new Jianghu, finish Wuqing Challenge quest to win rewards today.
 context_89=It is time for you to go on a tour in the new Jianghu, finish Wuqing Challenge quest to win rewards today.
@@ -2656,10 +2572,6 @@ target_86=Complete Forbidden Instance of any difficulty once.
 target_87=Earn 300 Roaming points from the Western Regions.
 target_88=Collect Flint (2), Castor (2) and Shrub (2).
 target_89=Earn 300 Roaming points from the Northern Plains.
-title_83=Jianghu in Summer: Conflict
-title_84=Jianghu in Summer: Experience
-title_85=Jianghu in Summer: Cultivation
-title_86=Jianghu in Summer: Challenge
 title_87=Martial Arts Celebration Challenge (Western Regions)
 title_88=Martial Arts Celebration Challenge (Collection)
 title_89=Martial Arts Celebration Challenge (Northern Plains)
@@ -2741,4 +2653,102 @@ submit_99=<font face="Default" color="#ffffff" >Interesting. Thank you for telli
 target_99=You can take a ferry at the docks of Yanyu Villa (810, 1780) by presenting your Fate Token. Also, to get on the ferry, you need to see the Eastern Seas conflict guide there to pick one of the two sides in the conflict on Penglai.
 title_99=Miniature wonders
 context_99=Jin Yu, the tailor of Yanyu Villa, acquired some fine outfits made with exquisite materials. Their small sizes suggest that they are worn by children...or are they? Someone known as White Sprite on Penglai Island can make pills that can change one's body size. Will you go to the Eastern Seas and find her? Do this, and you can try on those beautiful oufits! You can take a ferry at the docks of Yanyu Villa (810, 1780) by presenting your Fate Token. Also, to get on the ferry, you need to see the Eastern Seas conflict guide there to pick one of the two sides in the conflict on Penglai.
+CanAcceptMenu_428=<font face="Default" color="#ffffff" >Darksteel Token</font>
+CanAcceptMenu_429=<font face="Default" color="#ffffff" >Darksteel Token</font>
+CanAcceptMenu_430=<font face="Default" color="#ffffff" >Darksteel Token</font>
+CanAcceptMenu_431=<font face="Default" color="#ffffff" >Darksteel Token</font>
+CanAcceptMenu_432=<font face="Default" color="#ffffff" >Darksteel Token</font>
+CanAcceptMenu_274=<font face="Default" color="#ffffff" >Great Gifts of the "Hua Mountain Competition"</font>
+accept_274_1=<font face="Default" color="#ffffff" >In order to celebrate the opening of the "Hua Mountain Competition." All Age of Wushu players can achieve surprising gifts within the event period.</font>
+CompleteMenu_428=<font face="Default" color="#ffffff" >I have come to collect the Darksteel Token.</font>
+CompleteMenu_429=<font face="Default" color="#ffffff" >I have come to collect the Darksteel Token.</font>
+CompleteMenu_430=<font face="Default" color="#ffffff" >I have come to collect the Darksteel Token.</font>
+CompleteMenu_431=<font face="Default" color="#ffffff" >I have come to collect the Darksteel Token.</font>
+CompleteMenu_432=<font face="Default" color="#ffffff" >I have come to collect the Darksteel Token.</font>
+accept_428_1=<font face="Default" color="#ffffff" >I see that you are very strong. Take this Darksteel Token to Huanxiu Mountain Villa in Suzhou to join the Fine Wisdom Pavilion. Our prince will reward you.</font>
+accept_429_1=<font face="Default" color="#ffffff" >I see that you are very powerful. Take this Darksteel Token to Huanxiu Mountain Villa in Suzhou to join the Fine Wisdom Pavilion. Our prince will give you a great reward.</font>
+accept_430_1=<font face="Default" color="#ffffff" >I see that you are very powerful. Take this Darksteel Token to Huanxiu Mountain Villa in Suzhou to join the Fine Wisdom Pavilion. Our prince will give you a great reward.</font>
+accept_431_1=<font face="Default" color="#ffffff" >I see that you are very powerful. Take this Darksteel Token to Huanxiu Mountain Villa in Suzhou to join the Fine Wisdom Pavilion. Our prince will give you a great reward.</font>
+accept_432_1=<font face="Default" color="#ffffff" >I see that you are very powerful. Take this Darksteel Token to Huanxiu Mountain Villa in Suzhou to join the Fine Wisdom Pavilion. Our prince will give you a great reward.</font>
+accept_43_1=<font face="Default" color="#ffffff" >Emei was founded by the venerable Guo Xiang, who devoted herself to the well-being of others. To demonstrate your willingness to follow her example, please bring this medicine to our ailing Sister Han.</font>
+context_428=Find an unfamiliar Korean person to get the Darksteel Token.
+context_429=Find an unfamiliar Korean person to get the Darksteel Token.
+context_43=Emei was founded by the venerable Guo Xiang, who devoted herself to justice and charity. We strive to be more like her. You should as well.
+context_430=Find an unfamiliar Korean person to get the Darksteel Token.
+context_431=Find an unfamiliar Korean person to get the Darksteel Token.
+context_432=Find an unfamiliar Korean person to get the Darksteel Token.
+context_274=In order to celebrate the opening of the "Hua Mountain Competition,” during the event, all loyal players in "Age of Wushu" will receive a surprise gift.
+menu_232_1=<font face="Default" color="#ffffff" >I have had a breakthrough in my practice of Star Absorption, but my attack seems too aggressive. It's not easy to control the internal skill.</font>
+menu_233_1=<font face="Default" color="#ffffff" >I have had a breakthrough in my practice of Star Absorption, but my attack seems too aggressive. It's not easy to control the internal skill.</font>
+menu_234_1=<font face="Default" color="#ffffff" >I have had a breakthrough in my practice of Star Absorption, but my attack seems too aggressive. It's not easy to control the internal skill.</font>
+target_274=Receive "Hua Mountain Competition" gift pack.
+target_428=Find an unfamiliar Korean person to get the Darksteel Token.
+target_429=Find an unfamiliar Korean person to get the Darksteel Token.
+target_430=Find an unfamiliar Korean person to get the Darksteel Token.
+target_431=Find an unfamiliar Korean person to get the Darksteel Token.
+target_432=Find an unfamiliar Korean person to get the Darksteel Token.
+title_274="Hua Mountain Competition" Sends You Gifts.
+title_428=Collect the Darksteel Token
+title_429=Collect the Darksteel Token
+title_430=Collect the Darksteel Token
+title_431=Collect the Darksteel Token
+title_432=Collect the Darksteel Token
+accept_321_1=<font face="Default" color="#ffffff" >I suffered a lot here. How dare they offend our Blood Blade Clan?! </font>
+accept_329_1=<font face="Default" color="#ffffff" >I got the news on Blood Blade Clan. However, I was captured and imprisoned here. Haven't they found you, right? </font>
+context_318=Rescue the captured hostage from Blood Blade Clan
+context_319=Rescue the captured hostage from Blood Blade Clan
+context_320=Rescue the captured hostage from Blood Blade Clan
+context_321=Rescue the captured hostage from Blood Blade Clan
+context_322=Rescue the captured hostage from Blood Blade Clan
+context_323=Rescue the captured hostage from Blood Blade Clan
+context_326=He Lanyu was caught when he was spying Blood Blade Clan. Rescue him.
+context_329=Nie Zhen was wounded and captured when he spied on Blood Blade Clan.
+context_335=Meng Daoren was poisoned and captured when he sneaked into Blood Blade Clan.
+context_337=He Lanyu was caught when he was spying Blood Blade Clan. Rescue him.
+context_339=Nie Zhen was wounded and captured when he spied on Blood Blade Clan.
+context_342=Meng Daoren was poisoned and captured when he sneaked into Blood Blade Clan.
+target_318=Escort the hostage back to Blood Blade Clan
+target_319=Escort the hostage back to Blood Blade Clan
+target_320=Escort the hostage back to Blood Blade Clan
+target_321=Escort the hostage back to Blood Blade Clan
+target_322=Escort the hostage back to Blood Blade Clan
+target_323=Escort the hostage back to Blood Blade Clan
+target_326=Escort He Lanyu from Blood Blade Clan
+target_329=Rescue Nie Zhen from Blood Blade Clan
+target_330=Escort Blood Blade Clan Founding Elder from Valley of Frozen Souls
+target_335=Rescue Meng Daoren from Blood Blade Clan
+target_337=Escort He Lanyu from Blood Blade Clan
+target_339=Rescue Nie Zhen from Blood Blade Clan
+target_342=Rescue Meng Daoren from Blood Blade Clan
+CanAcceptMenu_43988=<font face="Default" color="#ffffff" >"Independence Day" Gift Box</font>
+CompleteMenu_43988=<font face="Default" color="#ffffff" >I wish to collect "Independence Day" Gift Box.</font>
+accept_43988_1=<font face="Default" color="#ffffff" >As a token of our appreciation of the many players of Age of Wushu and their ongoing support, we have prepared a gift for our players for "Independence Day". </font>
+complete_43988=<font face="Default" color="#ffffff" >Are you sure you want to collect the "Independence Day" Gift Box? </font>
+context_43988=As a token of our appreciation of the many players of Age of Wushu and their ongoing support, we have prepared a gift for our players. Happy gaming during "Independence Day", Heroes!
+menu_43988_1=<font face="Default" color="#ffffff" >I want to collect a gift box.</font>
+submit_43988=<font face="Default" color="#ffffff" >Yes</font>
+target_43988=Collect the "Independence Day" Gift Box from Bank Holiday Festival Ambassador Lin Liang.
+title_43988="Independence Day" Giveaway
+CanAcceptMenu_98=<font face="Default" color="#ffffff" >Cultivate Often - Show Your Power in Battlefield</font>
+CompleteMenu_98=<font face="Default" color="#ffffff" >Mission accomplished.</font>
+accept_98_1=<font face="Default" color="#ffffff" >Attend and achieve victory in the battlefield once</font>
+complete_98=<font face="Default" color="#ffffff" >This is the reward.</font>
+context_98=During the event, you can get the task Cultivate Often - Show Your Power in Battlefield from Ning Jiuhui (Traveler) in Suzhou (423.794) and Chengdu (923.551).
+next_98=Find Ning Jiuhui in Suzhou (423.794) and Chengdu (923.551)
+submit_98=<font face="Default" color="#ffffff" >I'm back.</font>
+target_98=Attend the battlefield and win by solo to complete the quest (Both Muyun Villa or Ancient Tomb Battlefield are OK)
+menu_98_1=<font face="Default" color="#ffffff">I'll do it!</font>
+title_98=Cultivate Often - Show Your Power in Battlefield
+CanAcceptMenu_83=<font face="Default" color="#ffffff" >Jianghu in Summer: Conflict</font>
+CanAcceptMenu_84=<font face="Default" color="#ffffff" >Jianghu in Summer: Experience</font>
+CanAcceptMenu_85=<font face="Default" color="#ffffff" >Jianghu in Summer: Cultivation</font>
+CanAcceptMenu_86=<font face="Default" color="#ffffff" >Jianghu in Summer: Challenge.</font>
+context_83=During the event, you can get the task Jianghu in Summer: Conflict from Ning Jiuhui (Traveler) in Suzhou (423.794) and Chengdu (923.551).
+context_84=During the event, you can get the task Jianghu in Summer: Experience from Ning Jiuhui (Traveler) in Suzhou (423.794) and Chengdu (923.551).
+context_85=During the event, you can get the task Jianghu in Summer: Cultivation from Ning Jiuhui (Traveler) in Suzhou (423.794) and Chengdu (923.551).
+context_86=During the event, you can get the task Jianghu in Summer: Challenge from Ning Jiuhui (Traveler) in Suzhou (423.794) and Chengdu (923.551).
+title_83=Jianghu in Summer: Conflict
+title_84=Jianghu in Summer: Experience
+title_85=Jianghu in Summer: Cultivation
+title_86=Jianghu in Summer: Challenge
 

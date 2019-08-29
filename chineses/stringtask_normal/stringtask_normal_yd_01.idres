@@ -4505,7 +4505,6 @@ CanAcceptMenu_1228=<font face="Default" color="#ffffff" >Treasure task leader</f
 CanAcceptMenu_1331=<font face="Default" color="#ffffff" >Please tell me what you know about the factions.</font>
 CanAcceptMenu_1332=<font face="Default" color="#ffffff" >I'm interested in the Xu Family Manor.</font>
 CanAcceptMenu_1333=<font face="Default" color="#ffffff" >I'm interested in the Golden Needle Sect.</font>
-CanAcceptMenu_1334=<font face="Default" color="#ffffff" >Tell me about </font><font face="Default" color="#ffffff" >Beast Villa.</font>
 CanAcceptMenu_1492=<font face="Default" color="#ffffff" >Jianghu wind</font>
 CanAcceptMenu_1493=<font face="Default" color="#ffffff" >Jianghu wind</font>
 CanAcceptMenu_1494=<font face="Default" color="#ffffff" >Jianghu wind</font>
@@ -4718,7 +4717,6 @@ accept_1228_1=<font face="Default" color="#ffffff" >You still need some work if 
 accept_1331_1=<font face="Default" color="#ffffff" >The world of Jianghu has now become a more interesting place with these factions. Some of these are rivals, others are allies.</font>
 accept_1332_1=<font face="Default" color="#ffffff" >I just told you so much about the Jianghu Factions. I just remembered I had an old friend at the Xu Family Manor. Can you help me deliver a letter to him on my behalf?</font>
 accept_1333_1=<font face="Default" color="#ffffff" >I used to have an old friend, and now I am working for the Shen Family at the Golden Needle Sect. I have not seen him in many years and miss him very much. Will you take this letter to him for me and send my regards? </font>
-accept_1334_1=<font face="Default" color="#ffffff" >Oh, I just </font><font face="Default" color="#ffffff" >thought</font><font face="Default" color="#ffffff" > of my old friend at the Beast Villa. Can you take a letter to him for me and send my regards? </font>
 accept_1492_1=<font face="Default" color="#ffffff" >A lot of incidents have occurred in the Jianghu recently, especially in rural towns. Many factions have been wreaking havoc, so much that the authorities cannot suppress them! </font>
 accept_1493_1=<font face="Default" color="#ffffff" >A lot of incidents have occurred in the Jianghu recently, especially in rural towns. Many factions have been wreaking havoc, so much that the authorities cannot suppress them! </font>
 accept_1494_1=<font face="Default" color="#ffffff" >A lot of incidents have occurred in the Jianghu recently, especially in rural towns. Many factions have been wreaking havoc, so much that the authorities cannot suppress them! </font>
@@ -4830,7 +4828,6 @@ complete_1228=<font face="Default" color="#ffffff" >Although the treasure is str
 complete_1331=<font face="Default" color="#ffffff" >Be careful out there, kid. Know who your friends are, and your enemies even more. </font>
 complete_1332=<font face="Default" color="#ffffff" >After so many years, I did not imagine Brother Lao would remember us. Please come ask me if you encounter any troubles at Xu Family Manor. A friend of Brother Lao is a friend of mine. </font>
 complete_1333=<font face="Default" color="#ffffff" >Thinking back, Brother Lao was a faithful friend. Please come to me if you encounter any troubles at Golden Needle Sect. A friend of Brother Lao is a friend of mine. </font>
-complete_1334=<font face="Default" color="#ffffff" >Thank you for bringing the letter. Please come ask me if you encounter any troubles at Beast Villa. A friend of the big monk is a friend of mine. </font>
 complete_1492=<font face="Default" color="#ffffff" >If you miss your homeland so much, why don't you go back immediately? Jianghu changes every day. If you want to quickly return home, you should use teleport points. Let me demonstrate how to use them!</font>
 complete_1493=<font face="Default" color="#ffffff" >If you miss your homeland so much, why don't you go back immediately? Jianghu changes every day. If you want to quickly return home, you should use teleport points. Let me demonstrate how to use them!</font>
 complete_1494=<font face="Default" color="#ffffff" >If you miss your homeland so much, why don't you go back immediately? Jianghu changes every day. If you want to quickly return home, you should use teleport points. Let me demonstrate how to use them!</font>
@@ -4945,7 +4942,6 @@ context_1228=Treasure can improve your Character Attributes. Equip it and it wil
 context_1331=Some factions have been developing quickly, and even surpassed the eight major schools in their power and prestige. You should learn more about them.
 context_1332=Disciple Lao asked you to take a letter to an old friend he had not seen in many years
 context_1333=Brother Lao asked you to take a letter to an old friend he had not seen in many years
-context_1334=Big monk was friends with a disciple from Beast Villa and asked you to bring this letter to an old friend he had not seen in many years.
 context_1492=I suddenly miss my homeland. With so much going on in Jianghu, I wonder if my homeland has suffered and if my old acquaintances are well!
 context_1493=I suddenly miss my homeland. With so much going on in Jianghu, I wonder if my homeland has suffered and if my old acquaintances are well!
 context_1494=I suddenly miss my homeland. With so much going on in Jianghu, I wonder if my homeland has suffered and if my old acquaintances are well!
@@ -5344,7 +5340,6 @@ target_1228=Get the treasure
 target_1331=Hear about the Jianghu factions from Lao Liang.
 target_1332=Go to Xu Family Manor and give Brother Lao's letter to his old friend.
 target_1333=Go to the Golden Needle Sect and give Brother Lao's letter to his old friend.
-target_1334=Take Big Monk's letter to the Beast Villa, and get to know this faction.
 target_1492=Learn how to use teleport points to quickly return home
 target_1493=Learn how to use teleport points to quickly return home
 target_1494=Learn how to use teleport points to quickly return home
@@ -5469,7 +5464,6 @@ title_1228=Treasure Guidance
 title_1331=Jianghu Factions (1)
 title_1332=Old friend (Xu Family Manor)
 title_1333=Old Friend (Golden Needle Sect)
-title_1334=Jianghu Faction: Beast Villa
 title_1492=Jianghu Turbulence
 title_1493=Jianghu Turbulence
 title_1494=Jianghu Turbulence
@@ -5606,7 +5600,6 @@ accept_1696_1=<font face="Default" color="#ffffff" >Real warrior will never </fo
 context_1696=Real warrior will never get satisfied with only one battlefield victory. Complete the test of Bravery Battlefield and win two victories, and then you will gain extra rewards.  <font face="Default" color="#ff0000" >(If you give up the task, you cannot receive it again at the day.) </font><br/>
 menu_1696_1=<font face="Default" color="#ffffff" >Of course!  </font>
 submit_1696=<font face="Default" color="#ffffff" >Thank you!  </font>
-target_1696=Queue by yourself, select Faction mode, and win victory in both Ancient Tomb Sect and Muyun Villa.
 title_1696=Bravery Battlefield
 CompleteMenu_1233=<font face="Default" color="#ffffff" >I've never seen such powerful techniques!</font>
 CompleteMenu_1241=<font face="Default" color="#ffffff" >I've never seen such powerful techniques!</font>
@@ -5774,7 +5767,6 @@ complete_1641=<font face="Default" color="#ffffff" >Thank you for telling me thi
 context_1151=With order of leader, go to martial arts club, and listen to <a href="findnpc_new,groupscene012,Npc_yd_wg_jx_sl01" style="HLStype1">Qing Ping</a> explain School Internal Skill <font color="#ee7621">Meditation</font>.
 context_1152=With order of leader, go to martial arts club, and listen to <a href="findnpc_new,groupscene011,Npc_yd_wg_jx_wd01" style="HLStype1">Ding Zhengqing</a> explain School Internal Skill <font color="#ee7621">Yin Yang Heart Protecting Skill</font>.
 context_1153=With order of leader, go to martial arts club, and listen to <a href="findnpc_new,groupscene013,Npc_yd_wg_jx_em01" style="HLStype1">Wang Longyan</a> explain School Internal Skill <font color="#ee7621">Emei Stilt Walking Skill</font>.
-context_1154=With order of leader, go to martial arts club, and listen to <a href="findnpc_new,groupscene014,Npc_yd_wg_jx_gb01" style="HLStype1">Li Sanyue</a> explain School Internal Skill <font color="#ee7621">Mental Skill of Leisure</font>.
 context_1155=With order of leader, go to martial arts club, and listen to <a href="findnpc_new,groupscene015,Npc_yd_wg_jx_tm01" style="HLStype1">Ji Chaoqun</a> explain School Internal Skill <font color="#ee7621">Seven Limitations Manual</font>.
 context_1156=With order of leader, go to martial arts club, and listen to <a href="findnpc_new,groupscene017,Npc_yd_wg_jx_jy01" style="HLStype1">Huang Jiyong</a> explain School Internal Skill <font color="#ee7621">Xuanyuan Manual</font>.
 context_1157=With order of leader, go to martial arts club, and listen to <a href="findnpc_new,groupscene018,Npc_yd_wg_jx_jl01" style="HLStype1">Tian Dong</a> explain School Internal Skill <font color="#ee7621">Secrets of Dual Training</font>.
@@ -5809,7 +5801,6 @@ context_1313=Look for the Leisure Kick teacher when level reaches Untapped Poten
 context_1315=Find someone who knows about guilds.
 context_1317=Look for the Eagle Claw Fist teacher when level reaches Untapped Potential.
 context_1319=Find someone who knows about guilds.
-context_1321=Look for the Bone Corroding Palm teacher when level reaches Untapped Potential.
 context_1323=Find someone who knows about guilds.
 context_1570=Learn how to apply for a constable position and issue bounties.
 context_1571=Ask for information on Wanted Notices in the police station. Learn how to apply for a constable position and issue Wanted Notices for your enemies.
@@ -5850,7 +5841,6 @@ menu_1641_1=<font face="Default" color="#ffffff">I will do as you say.</font>
 next_1151=Find <a href="findnpc_new,groupscene012,Npc_yd_wg_jx_sl01" style="HLStype1">Qing Ping</a> and learn "Meditation."
 next_1152=Find <a href="findnpc_new,groupscene011,Npc_yd_wg_jx_wd01" style="HLStype1">Ding Zhengqing</a> and learn the Yin Yang Heart Protecting skill.
 next_1153=Find <a href="findnpc_new,groupscene013,Npc_yd_wg_jx_em01" style="HLStype1">Wang Longyan</a> and learn "Emei Stilt-Walking" Skill.
-next_1154=Find <a href="findnpc_new,groupscene014,Npc_yd_wg_jx_gb01" style="HLStype1">Li Sanyue</a> and learn "Leisure Mental Skill."
 next_1155=Find <a href="findnpc_new,groupscene015,Npc_yd_wg_jx_tm01" style="HLStype1">Ji Chaoqun</a> and learn "Seven Limitations Manual".
 next_1156=Find <a href="findnpc_new,groupscene017,Npc_yd_wg_jx_jy01" style="HLStype1">Huang Jiyong</a> and learn "Xuanyin Manual."
 next_1157=Find <a href="findnpc_new,groupscene018,Npc_yd_wg_jx_jl01" style="HLStype1">Tian Dong</a> and learn the "Dual Training Secrets."
@@ -5899,7 +5889,6 @@ submit_1641=<font face="Default" color="#ffffff" >No need to be so polite. </fon
 target_1151=Understand <font color="#ee7621">[Meditation]</font> and the switching of Internal Skills.
 target_1152=Understand <font color="#ee7621">[Yin Yang Heart Protecting Skill]</font> and the switching of Internal Skills.
 target_1153=Understand <font color="#ee7621">[Emei Stilt-Walking Skill]</font> and the switching of Internal Skills.
-target_1154=Understand <font color="#ee7621">[Mental Skill of Leisure]</font> and the switching of Internal Skills.
 target_1155=Understand <font color="#ee7621">[Seven Limitations Manual]</font> and the switching of Internal Skills.
 target_1156=Understand <font color="#ee7621">[Xuanyuan Manual]</font> and the switching of Internal Skills.
 target_1157=Understand <font color="#ee7621">[Secrets of Dual Training]</font> and the switching of Internal Skills.
@@ -5922,7 +5911,6 @@ target_1313=When level reaches Untapped Potential, find <a href="findnpc_new,sch
 target_1315=Find the <a href="findnpc_new,school03,Guildydnpc003" style="HLStype1">guild guide</a> to learn about guilds.
 target_1317=When level reaches Untapped Potential, find <a href="findnpc_new,school01,WorldNpc04103" style="HLStype1">Miao Ying</a> to learn Eagle Claw Fist.
 target_1319=Speak to the <a href="findnpc_new,school01,Guildydnpc001" style="HLStype1">Guild Guide</a>.
-target_1321=Talk to <a href="findnpc_new,school04,WorldNpc03811" style="HLStype1">Wu Hu</a>.
 target_1323=Find the <a href="findnpc_new,school04,Guildydnpc004" style="HLStype1">Guild Guide</a> to learn about guilds.
 target_1340=<s>Learn from <a href="findnpc_new,born_single_01,funnpcborn003031" style="HLStype1">Zhao Ziji</a> to help the fishing village.
 target_1359=Know guild
@@ -6059,16 +6047,11 @@ complete_1821=<font face="Default" color="#ffffff" >Yes. Once you have gathered 
 complete_1822=<font face="Default" color="#ffffff" >Yes. Once you have gathered the materials, bring them to me and exchange for a Building Token (log cabin).</font>
 complete_1823=<font face="Default" color="#ffffff" >Yes. Once you have gathered the materials, bring them to me and exchange for a Building Token (stone house).</font>
 complete_1824=<font face="Default" color="#ffffff" >Yes. Once you have gathered the materials, bring them to me and exchange for a Building Token (cave).</font>
-complete_1825=<font face="Default" color="#ffffff" >Very good. Take the Building Token. I will show you how to find the entrance (hut) to build your home. </font>
-complete_1826=<font face="Default" color="#ffffff" >Very good. Take the Building Token. I will show you how to find the entrance (log cabin) to build your home. </font>
-complete_1827=<font face="Default" color="#ffffff" >Very good. Take the Building Token. I will show you how to find the entrance (stone house) to build your home. </font>
-complete_1828=<font face="Default" color="#ffffff" >Very good. Take the Building Token. I will show you how to find the entrance (cave) to build your home. </font>
 complete_1829=<font face="Default" color="#ffffff" >Use Building Token (hut) here to build your home. If the quota for building a home in this area is already met, you must build your home in another area.</font>
 complete_1830=<font face="Default" color="#ffffff" >Use Building Token (log cabin) here to build your home. If the quota for building a home in this area is already met, you must build your home in another area.</font>
 complete_1831=<font face="Default" color="#ffffff" >Use Building Token (stone house) here to build your home. If the quota for building a home in this area is already met, you must build your home in another area.</font>
 complete_1832=<font face="Default" color="#ffffff" >Use Building Token (cave) here to build your home. If the quota for building a home in this area is already met, you must build your home in another area.</font>
 complete_1833=<font face="Default" color="#ffffff" >As with other types of houses, gather the materials needed, then bring them to me to exchange for the Building Token (brick house).</font>
-complete_1834=<font face="Default" color="#ffffff" >Very good. Take the Building Token. Find the entrance (brick house) and build your home. I will show you how. </font>
 complete_1835=<font face="Default" color="#ffffff" >Use Building Token (brick house) here to build your home. If the quota for building a home in this area is already met, you must build your home in another area.</font>
 complete_1840=<font face="Default" color="#ffffff" >Everyone can stay at the Western Regions Inn, and use it as a stepping point for adventures in a whole new world, or to return to places you already know. </font><font color="#d63607" >Click the doorplate to enter Inn.</font>
 complete_1841=<font face="Default" color="#ffffff" >If you have any questions, please feel free to ask. </font>
@@ -6107,16 +6090,11 @@ submit_1821=<font face="Default" color="#ffffff">Very well. I'm on my way.</font
 submit_1822=<font face="Default" color="#ffffff">I will ask.</font>
 submit_1823=<font face="Default" color="#ffffff">I will ask.</font>
 submit_1824=<font face="Default" color="#ffffff">I will ask.</font>
-submit_1825=<font face="Default" color="#ffffff">Yes, please show me!</font>
-submit_1826=<font face="Default" color="#ffffff">Huh? I will learn a lot! </font>
-submit_1827=<font face="Default" color="#ffffff">Huh? I will learn a lot! </font>
-submit_1828=<font face="Default" color="#ffffff">Huh? I will learn a lot! </font>
 submit_1829=<font face="Default" color="#ffffff" >Understood. Let's build a home!</font>
 submit_1830=<font face="Default" color="#ffffff" >So it is. Let me try it. </font>
 submit_1831=<font face="Default" color="#ffffff" >So it is. Let me try it. </font>
 submit_1832=<font face="Default" color="#ffffff" >So it is. Let me try it. </font>
 submit_1833=<font face="Default" color="#ffffff">I will ask.</font>
-submit_1834=<font face="Default" color="#ffffff">Huh? I will learn a lot! </font>
 submit_1835=<font face="Default" color="#ffffff" >So it is. Let me try it. </font>
 submit_1840=<font face="Default" color="#ffffff" >Adventures in a whole new world? I'm ready!</font>
 submit_1841=<font face="Default" color="#ffffff">Thank you.</font>
@@ -6191,8 +6169,44 @@ accept_1836_1=<font face="Default" color="#ffffff" >What's the matter? You want 
 complete_1836=<font face="Default" color="#ffffff" >I will give you an advice if you want to know more about the jade dolls. </font>
 context_1836=Find Xu Bo at Suzhou to learn more about the jade dolls.
 menu_1836_1=<font face="Default" color="#ffffff" >(What's a jade doll? Is it a treasure?) </font>
+next_1836=
 submit_1836=<font face="Default" color="#ffffff" >Oh, I understand.  </font>
 target_1836=Talk to <a href="findnpc_new,city02,Newtreasure001" style="HLStype1">Xu Bo</a> to learn about the jade dolls.
-next_1836=
 title_1836=Jade Doll
+CanAcceptMenu_1334=<font face="Default" color="#ffffff" >Tell me about </font><font face="Default" color="#ffffff" >Beast Villa.</font>
+accept_1334_1=<font face="Default" color="#ffffff" >Oh, I just </font><font face="Default" color="#ffffff" >thought</font><font face="Default" color="#ffffff" > of my old friend at the Beast Villa. Can you take a letter to him for me and send my regards? </font>
+complete_1334=<font face="Default" color="#ffffff" >Thank you for bringing the letter. Please come ask me if you encounter any troubles at Beast Villa. A friend of the big monk is a friend of mine. </font>
+context_1154=With order of leader, go to martial arts club, and listen to <a href="findnpc_new,groupscene014,Npc_yd_wg_jx_gb01" style="HLStype1">Li Sanyue</a> explain School Internal Skill <font color="#ee7621">Mental Skill of Leisure</font>.
+context_1321=Look for the Bone Corroding Palm teacher when level reaches Untapped Potential.
+context_1334=Big monk was friends with a disciple from Beast Villa and asked you to bring this letter to an old friend he had not seen in many years.
+next_1154=Find <a href="findnpc_new,groupscene014,Npc_yd_wg_jx_gb01" style="HLStype1">Li Sanyue</a> and learn "Leisure Mental Skill."
+target_1154=Understand <font color="#ee7621">[Mental Skill of Leisure]</font> and the switching of Internal Skills.
+target_1321=Talk to <a href="findnpc_new,school04,WorldNpc03811" style="HLStype1">Wu Hu</a>.
+target_1334=Take Big Monk's letter to the Beast Villa, and get to know this faction.
+title_1334=Jianghu Faction: Beast Villa
+target_1696=Queue by yourself, select Faction mode, and win victory in both Ancient Tomb Sect and Muyun Villa.
+CompleteMenu_1837=<font face="Default" color="#ffffff" >So, I can get a Building Token as long as I have the materials. </font>
+CompleteMenu_1838=<font face="Default" color="#ffffff" >Please take a look at the materials. </font>
+accept_1837_1=<font face="Default" color="#ffffff" >I will explain how to get Building Token (Island) since you're interested in </font><font face="Default" color="#ffffff" >Island</font><font face="Default" color="#ffffff" >! </font>
+complete_1837=<font face="Default" color="#ffffff" >Yes. Once you have gathered the materials, bring them to me and exchange for a Building Token (Island).</font>
+complete_1838=<font face="Default" color="#ffffff" >Very good. Take the Building Token. I will show you how to find the entrance (Island) to build your home. </font>
+context_1837=Learn how to get Building Token (Island) from Building Officer.
+context_1838=Collect materials and exchange them for a Building Token (Island) from the Building Officer.
+menu_1837_1=<font face="Default" color="#ffffff" >Thank you! </font>
+submit_1837=<font face="Default" color="#ffffff" >OK, I’ll just go now.</font>
+submit_1838=<font face="Default" color="#ffffff" >Thank you! </font>
+target_1837=Learn how to get Building Token (Island).
+target_1838=Collect materials for building an island.
+title_1837=Building Token (Island)
+title_1838=Collect Materials (Island)
+complete_1825=<font face="Default" color="#ffffff" >Very good. Take the Building Token. I will show you how to find the entrance (hut) to build your home. </font>
+complete_1826=<font face="Default" color="#ffffff" >Very good. Take the Building Token. I will show you how to find the entrance (log cabin) to build your home. </font>
+complete_1827=<font face="Default" color="#ffffff" >Very good. Take the Building Token. I will show you how to find the entrance (stone house) to build your home. </font>
+complete_1828=<font face="Default" color="#ffffff" >Very good. Take the Building Token. I will show you how to find the entrance (cave) to build your home. </font>
+complete_1834=<font face="Default" color="#ffffff" >Very good. Take the Building Token. Find the entrance (brick house) and build your home. I will show you how. </font>
+submit_1825=<font face="Default" color="#ffffff">Yes, please show me!</font>
+submit_1826=<font face="Default" color="#ffffff">Huh? I will learn a lot! </font>
+submit_1827=<font face="Default" color="#ffffff">Huh? I will learn a lot! </font>
+submit_1828=<font face="Default" color="#ffffff">Huh? I will learn a lot! </font>
+submit_1834=<font face="Default" color="#ffffff">Huh? I will learn a lot! </font>
 

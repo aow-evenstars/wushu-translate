@@ -405,7 +405,6 @@ interactinfo_15940=與<a href="findnpc_new,adv124,NPC_nlb_dy_bp" style="HLStype1
 interactinfo_15941=與<a href="findnpc_new,adv124,NPC_nlb_dy_bp" style="HLStype1">耶律曉婉</a>共舞一曲（至少完成按鍵15次，才能通過考驗）
 interactinfo_15942=向<a href="findnpc_new,school15,NPC_nlb_dy_xx" style="HLStype1">端木夢</a>請教舞技修行事宜
 interactinfo_15943=前往<a href="findnpc_new,school15,NPC_nlb_dy_xxdd" style="HLStype1">舞技修行點</a>修習舞技
-interactinfo_15944=完成舞技修習（至少完成按鍵15次，才能通過考驗）
 interactinfo_15945=採集<a href="findnpc_new,adv124,Gather_nlb_dy_xh" style="HLStype1">鮮花</a>
 interactinfo_15946=想不到運氣如此之好，一次就成功提煉出花粉，趕緊回去告訴<a href="findnpc_new,school15,npc_nlb_ww01" style="HLStype1">冷步三</a>試驗的情況
 interactinfo_15947=去找<a href="findnpc_new,,npc_nlb_ww05" style="HLStype1">寒若水</a>獲得入門憑證，加入念蘿壩
@@ -628,10 +627,6 @@ useiteminfo_15754=前往<a href="findnpc_new,adv124,NPC_nlb_dy_llzcf" style="HLS
 useiteminfo_15755=前往念蘿壩外圍的林子裡找到<a href="findnpc_new,school15,npc_nlb_ww64" style="HLStype1">小猴子</a>給它餵食<a href="TASK_ITEM,item_nlb_ww32" style="HLStype1">甜點</a>
 useiteminfo_15756=將<a href="findnpc_new,adv124,NPC_nlb_dy_zw" style="HLStype1">雜物</a>裝入<a href="TASK_ITEM,useitem_nlb_dy_lz" style="HLStype1">竹簍</a>中
 SubmitNpcEx_21320=把收集到的交給<a href="findnpc_new,school15,npc_nlb_garden01" style="HLStype1">管丹丹</a>
-collectinfo_15943=收集<a href="findnpc_new,school15,GatherNpc_nlb_cc_15851" style="HLStype1">奇花</a>一
-collectinfo_15945=收集<a href="findnpc_new,school15,GatherNpc_nlb_cc_15852" style="HLStype1">奇花</a>二
-collectinfo_15947=收集<a href="findnpc_new,school15,GatherNpc_nlb_cc_15853" style="HLStype1">奇花</a>三
-collectinfo_15949=收集<a href="findnpc_new,school15,GatherNpc_nlb_cc_15854" style="HLStype1">奇花</a>四
 DialogID_15975=<font face="Default" color="#ffffff" >這事發突然，只怕是來者不善，你去山下看看究竟是何事，如果情況不妙立刻回來稟報！</font>
 interactinfo_15975=告知<a href="findnpc_new,school05,WorldNpc02203" style="HLStype1">唐天行</a>姥姥要下山，下山之前交代他代為處理門中事務。
 okmenu_15975=<font face="Default" color="#ffffff" >好的！</font>
@@ -687,4 +682,199 @@ storymenu_15807_1=<font face="Default" color="#ffffff" >朱鑒之？弟子倒是
 storymenu_15807_2=<font face="Default" color="#ffffff" >弟子</font><font face="Default" color="#ffffff" >領命！</font>
 storymenu_15808_2=<font face="Default" color="#ffffff" >朱公子果然好才華，在下琢磨半天，沒有一絲頭緒啊。（話說這不是</font><font face="Default" color="#ffffff" >唐代詩人陸憑的《詠浮雲》嗎？</font><font face="Default" color="#ffffff" >）</font>
 interactinfo_15772=虛驚一場，接下來可要小心了，找到<a href="findnpc_new,city03,npc_nlb_mxm20" style="HLStype1">婢女香玲</a>並勸服她
+DialogID_15882=<font face="Default" color="#ffffff" >我想柒姐姐了，你能帶我去她那裡嗎</font>
+DialogID_15883=<font face="Default" color="#ffffff" >原來是仙兒，謝謝你把她帶過來</font>
+DialogID_15884=<font face="Default" color="#ffffff" >我想軒轅姐姐了，你能帶我去她那裡嗎</font>
+DialogID_15885=<font face="Default" color="#ffffff" >原來是仙兒，謝謝你把她帶過來</font>
+DialogID_15886=<font face="Default" color="#ffffff" >我想芷姐姐了，你能帶我去她那裡嗎</font>
+DialogID_15887=<font face="Default" color="#ffffff" >原來是仙兒，謝謝你把她帶過來</font>
+DialogID_15888=<font face="Default" color="#ffffff" >我想宮姐姐了，你能帶我去她那裡嗎</font>
+DialogID_15889=<font face="Default" color="#ffffff" >原來是仙兒，謝謝你把她帶過來</font>
+DialogID_15895=<font face="Default" color="#ffffff" >不知對方實力如何，此行務必多加小心</font><font face="Default" color="#ffffff" >。</font>
+DialogID_15896=<font face="Default" color="#ffffff" >不知對方實力如何，此行務必多加小心。</font>
+DialogID_15897=<font face="Default" color="#ffffff" >不知對方實力如何，此行務必多加小心。</font>
+DialogID_15898=<font face="Default" color="#ffffff" >不知對方實力如何，此行務必多加小心。</font>
+DialogID_15899=<font face="Default" color="#ffffff" >不知對方實力如何，此行務必多加小心。</font>
+DialogID_15937=<font face="Default" color="#ffffff" >不知對方實力如何，此行務必多加小心。</font>
+DialogID_15976=<font face="Default" color="#ffffff" >我就是齊天大聖</font>
+DialogID_15977=<font face="Default" color="#ffffff" >我想杭姐姐了，你能帶我去她那裡嗎</font>
+DialogID_15978=<font face="Default" color="#ffffff" >原來是仙兒，謝謝你把她帶過來</font>
+DialogID_15980=<font face="Default" color="#ffffff" >找我何事？</font>
+DialogID_15981=<font face="Default" color="#ffffff" >你回來了</font>
+DialogID_15982=<font face="Default" color="#ffffff" >掌門盼門派興盛，特要你幫忙送一份手書給各大令主，並帶回各</font><font face="Default" color="#ffffff" >令主</font><font face="Default" color="#ffffff" >的回信。</font>
+DialogID_15983=<font face="Default" color="#ffffff" >掌門盼門派興盛，特要你幫忙送一份手書給各大令主，並帶回各令主的回信。</font>
+DialogID_15984=<font face="Default" color="#ffffff" >找我何事？</font>
+DialogID_15985=<font face="Default" color="#ffffff" >你回來了</font>
+DialogID_15986=<font face="Default" color="#ffffff" >掌門盼門派興盛，特要你幫忙送一份手書給各大令主，並帶回各令主的回信。</font>
+DialogID_15987=<font face="Default" color="#ffffff" >找我何事？</font>
+DialogID_15988=<font face="Default" color="#ffffff" >你回來了</font>
+DialogID_15989=<font face="Default" color="#ffffff" >掌門盼門派興盛，特要你幫忙送一份手書給各大令主，並帶回各令主的回信。</font>
+DialogID_15990=<font face="Default" color="#ffffff" >找我何事？</font>
+DialogID_15991=<font face="Default" color="#ffffff" >你回來了</font>
+DialogID_15992=<font face="Default" color="#ffffff" >掌門盼門派興盛，特要你幫忙送一份手書給各大令主，並帶回各令主的回信。</font>
+DialogID_15993=<font face="Default" color="#ffffff" >找我何事？</font>
+DialogID_15994=<font face="Default" color="#ffffff" >你回來了</font>
+DialogID_15995=<font face="Default" color="#ffffff" >掌門盼門派興盛，特要你幫忙送一份手書給各大令主，並帶回各令主的回信。</font>
+DialogID_15996=<font face="Default" color="#ffffff" >找我何事？</font>
+DialogID_15997=<font face="Default" color="#ffffff" >你回來了</font>
+DialogID_15998=<font face="Default" color="#ffffff" >我想弓姐姐了，你能帶我去她那裡嗎</font>
+DialogID_15999=<font face="Default" color="#ffffff" >原來是仙兒，謝謝你把她帶過來</font>
+QiecuoMenu_15960=<font face="Default" color="#ffffff" >哼，就憑你？我念蘿壩豈是你這種市井之徒能詆毀的！看招！</font>
+QiecuoMenu_15961=<font face="Default" color="#ffffff" >哼，就憑你？我念蘿壩豈是你這種市井之徒能詆毀的！看招！</font>
+QiecuoMenu_15962=<font face="Default" color="#ffffff" >哼，就憑你？我念蘿壩豈是你這種市井之徒能詆毀的！看招！</font>
+QiecuoMenu_15963=<font face="Default" color="#ffffff" >哼，就憑你？我念蘿壩豈是你這種市井之徒能詆毀的！看招！</font>
+QiecuoMenu_15964=<font face="Default" color="#ffffff" >哼，就憑你？我念蘿壩豈是你這種市井之徒能詆毀的！看招！</font>
+QiecuoMenu_15965=<font face="Default" color="#ffffff" >哼，就憑你？我念蘿壩豈是你這種市井之徒能詆毀的！看招！</font>
+QiecuoTitle_15960=<font face="Default" color="#ffffff" >喲，找幫手來了！估計也是個軟腳蝦，爺爺就讓你嘗嘗厲害！</font>
+QiecuoTitle_15961=<font face="Default" color="#ffffff" >喲，找幫手來了！估計也是個軟腳蝦，爺爺就讓你嘗嘗厲害！</font>
+QiecuoTitle_15962=<font face="Default" color="#ffffff" >喲，找幫手來了！估計也是個軟腳蝦，爺爺就讓你嘗嘗厲害！</font>
+QiecuoTitle_15963=<font face="Default" color="#ffffff" >喲，找幫手來了！估計也是個軟腳蝦，爺爺就讓你嘗嘗厲害！</font>
+QiecuoTitle_15964=<font face="Default" color="#ffffff" >喲，找幫手來了！估計也是個軟腳蝦，爺爺就讓你嘗嘗厲害！</font>
+QiecuoTitle_15965=<font face="Default" color="#ffffff" >喲，找幫手來了！估計也是個軟腳蝦，爺爺就讓你嘗嘗厲害！</font>
+SubmitNpcEx_21330=回稟<a href="findnpc_new,school15,npc_nlb_ww57" style="HLStype1">一飄零</a>
+SubmitNpcEx_21331=回稟<a href="findnpc_new,school15,npc_nlb_ww57" style="HLStype1">一飄零</a>
+SubmitNpcEx_21332=回稟<a href="findnpc_new,school15,npc_nlb_ww57" style="HLStype1">一飄零</a>
+SubmitNpcEx_21336=回稟<a href="findnpc_new,school15,npc_nlb_ww57" style="HLStype1">一飄零</a>
+SubmitNpcEx_21337=回稟<a href="findnpc_new,school15,npc_nlb_ww57" style="HLStype1">一飄零</a>
+SubmitNpcEx_21338=回稟<a href="findnpc_new,school15,npc_nlb_ww57" style="HLStype1">一飄零</a>
+SubmitNpcEx_21339=回稟<a href="findnpc_new,school15,npc_nlb_ww57" style="HLStype1">一飄零</a>
+SubmitNpcEx_21340=回稟<a href="findnpc_new,school15,npc_nlb_ww57" style="HLStype1">一飄零</a>
+SubmitNpcEx_21341=回稟<a href="findnpc_new,school15,npc_nlb_ww57" style="HLStype1">一飄零</a>
+SubmitNpcEx_21342=回稟<a href="findnpc_new,school15,npc_nlb_ww57" style="HLStype1">一飄零</a>
+SubmitNpcEx_21343=回稟<a href="findnpc_new,school15,npc_nlb_ww57" style="HLStype1">一飄零</a>
+SubmitNpcEx_21344=回稟<a href="findnpc_new,school15,npc_nlb_ww57" style="HLStype1">一飄零</a>
+SubmitNpcEx_21345=回稟<a href="findnpc_new,school15,npc_nlb_ww57" style="HLStype1">一飄零</a>
+SubmitNpcEx_21346=回稟<a href="findnpc_new,school15,npc_nlb_ww57" style="HLStype1">一飄零</a>
+SubmitNpcEx_21347=回稟<a href="findnpc_new,school15,npc_nlb_ww57" style="HLStype1">一飄零</a>
+SubmitNpcEx_21348=回稟<a href="findnpc_new,school15,npc_nlb_ww57" style="HLStype1">一飄零</a>
+SubmitNpcEx_21349=回稟<a href="findnpc_new,school15,npc_nlb_ww57" style="HLStype1">一飄零</a>
+SubmitNpcEx_21360=回稟<a href="findnpc_new,school15,npc_nlb_ww57" style="HLStype1">一飄零</a>
+SubmitNpcEx_21361=回稟<a href="findnpc_new,school15,npc_nlb_ww57" style="HLStype1">一飄零</a>
+SubmitNpcEx_21362=回稟<a href="findnpc_new,school15,npc_nlb_ww57" style="HLStype1">一飄零</a>
+SubmitNpcEx_21363=回稟<a href="findnpc_new,school15,npc_nlb_ww57" style="HLStype1">一飄零</a>
+SubmitNpcEx_21364=回稟<a href="findnpc_new,school15,npc_nlb_ww57" style="HLStype1">一飄零</a>
+SubmitNpcEx_21365=回稟<a href="findnpc_new,school15,npc_nlb_ww57" style="HLStype1">一飄零</a>
+SubmitNpcEx_21366=回稟<a href="findnpc_new,school15,npc_nlb_ww57" style="HLStype1">一飄零</a>
+SubmitNpcEx_21367=回稟<a href="findnpc_new,school15,npc_nlb_ww57" style="HLStype1">一飄零</a>
+SubmitNpcEx_21368=回稟<a href="findnpc_new,school15,npc_nlb_ww57" style="HLStype1">一飄零</a>
+SubmitNpcEx_21369=回稟<a href="findnpc_new,school15,npc_nlb_ww57" style="HLStype1">一飄零</a>
+SubmitNpcEx_21371=可以向<a href="findnpc_new,school15,npc_nlb_ww01" style="HLStype1">冷步三</a>提交任務了
+SubmitNpcEx_21372=回稟<a href="findnpc_new,school15,npc_nlb_ww57" style="HLStype1">一飄零</a>
+collectinfo_15957=收集<a href="findnpc_new,school15,GatherNpc_nlb_cc_01" style="HLStype1">心蘿草</a>
+collectinfo_15958=收集<a href="findnpc_new,school15,GatherNpc_nlb_cc_02" style="HLStype1">心蘿草</a>
+collectinfo_15959=收集<a href="findnpc_new,school15,GatherNpc_nlb_cc_03" style="HLStype1">心蘿草</a>
+collectinfo_15960=收集<a href="findnpc_new,school15,GatherNpc_nlb_cc_04" style="HLStype1">心蘿草</a>
+collectinfo_15961=收集<a href="findnpc_new,school15,GatherNpc_nlb_cc_05" style="HLStype1">心蘿草</a>
+collectinfo_15962=收集<a href="findnpc_new,school15,GatherNpc_nlb_cc_06" style="HLStype1">心蘿草</a>
+collectinfo_15978=<font face="Default" color="#000000" >收集</font><a href="findnpc_new,school15,GatherNpc_nlb_cc_01" style="HLStype1">GatherNpc_nlb_cc_01</a>
+convoy_talk_21330_1=<font face="Default" color="#ffffff" >好想快點見到弓姐姐</font>
+convoyinfo_15751=<a href="findnpc_new,school15,npc_nlb_007" style="HLStype1">杭綵衣</a>令主要是見到仙兒的話肯定會十分高興
+convoyinfo_15752=<a href="findnpc_new,school15,npc_nlb_008" style="HLStype1">弓媚嫵</a>令主要是見到仙兒的話肯定會十分高興
+convoyinfo_15753=<a href="findnpc_new,school15,npc_nlb_010" style="HLStype1">柒綺夢</a>令主要是見到仙兒的話肯定會十分高興
+convoyinfo_15754=<a href="findnpc_new,school15,npc_nlb_005" style="HLStype1">軒轅天舞</a>令主要是見到仙兒的話肯定會十分高興
+convoyinfo_15755=<a href="findnpc_new,school15,npc_nlb_006" style="HLStype1">芷清幽</a>令主要是見到仙兒的話肯定會十分高興
+convoyinfo_15756=<a href="findnpc_new,school15,npc_nlb_009" style="HLStype1">宮碧若</a>令主要是見到仙兒的話肯定會十分高興
+interactinfo_15882=小公主<a href="findnpc_new,school15,npc_nlb_002" style="HLStype1">楚仙兒</a>就在雲夢閣內，前去找她
+interactinfo_15883=與<a href="findnpc_new,school15,npc_nlb_010" style="HLStype1">柒綺夢</a>交談
+interactinfo_15884=小公主<a href="findnpc_new,school15,npc_nlb_002" style="HLStype1">楚仙兒</a>就在雲夢閣內，前去找她
+interactinfo_15885=與<a href="findnpc_new,school15,npc_nlb_005" style="HLStype1">軒轅天舞</a>交談
+interactinfo_15886=小公主<a href="findnpc_new,school15,npc_nlb_002" style="HLStype1">楚仙兒</a>就在雲夢閣內，前去找她
+interactinfo_15887=與<a href="findnpc_new,school15,npc_nlb_006" style="HLStype1">芷清幽</a>交談
+interactinfo_15888=小公主<a href="findnpc_new,school15,npc_nlb_002" style="HLStype1">楚仙兒</a>就在雲夢閣內，前去找她
+interactinfo_15889=與<a href="findnpc_new,school15,npc_nlb_009" style="HLStype1">宮碧若</a>交談
+interactinfo_15895=與<a href="findnpc_new,school15,npc_nlb_ww57" style="HLStype1">一飄零</a>交談
+interactinfo_15896=與<a href="findnpc_new,school15,npc_nlb_ww57" style="HLStype1">一飄零</a>交談
+interactinfo_15897=與<a href="findnpc_new,school15,npc_nlb_ww57" style="HLStype1">一飄零</a>交談
+interactinfo_15898=與<a href="findnpc_new,school15,npc_nlb_ww57" style="HLStype1">一飄零</a>交談
+interactinfo_15899=與<a href="findnpc_new,school15,npc_nlb_ww57" style="HLStype1">一飄零</a>交談
+interactinfo_15937=與<a href="findnpc_new,school15,npc_nlb_ww57" style="HLStype1">一飄零</a>交談
+interactinfo_15976=與<a href="findnpc_new,school15,npc_nlb_ww64" style="HLStype1">小猴子</a>交談
+interactinfo_15977=小公主<a href="findnpc_new,school15,npc_nlb_002" style="HLStype1">楚仙兒</a>就在雲夢閣內，前去找她
+interactinfo_15978=與<a href="findnpc_new,school15,npc_nlb_007" style="HLStype1">杭綵衣</a>交談
+interactinfo_15980=把信交予香羅令主<a href="findnpc_new,school15,npc_nlb_007" style="HLStype1">杭綵衣</a>，並求回信
+interactinfo_15981=接過令主回信，小心翼翼放入懷中，把回信帶回給<a href="findnpc_new,school15,npc_nlb_001" style="HLStype1">尊主</a>
+interactinfo_15982=接受<a href="findnpc_new,school15,npc_nlb_ww57" style="HLStype1">一飄零</a>交給你的信件
+interactinfo_15983=接受<a href="findnpc_new,school15,npc_nlb_ww57" style="HLStype1">一飄零</a>交給你的信件
+interactinfo_15984=把信交予媚紅令主<a href="findnpc_new,school15,npc_nlb_008" style="HLStype1">弓媚嫵</a>，並求回信
+interactinfo_15985=接過令主回信，小心翼翼放入懷中，把回信帶回給<a href="findnpc_new,school15,npc_nlb_001" style="HLStype1">尊主</a>
+interactinfo_15986=接受<a href="findnpc_new,school15,npc_nlb_ww57" style="HLStype1">一飄零</a>交給你的信件
+interactinfo_15987=把信交予紅塵令主<a href="findnpc_new,school15,npc_nlb_010" style="HLStype1">柒綺夢</a>，並求回信
+interactinfo_15988=接過令主回信，小心翼翼放入懷中，把回信帶回給<a href="findnpc_new,school15,npc_nlb_001" style="HLStype1">尊主</a>
+interactinfo_15989=與接受<a href="findnpc_new,school15,npc_nlb_ww57" style="HLStype1">一飄零</a>交給你的信件
+interactinfo_15990=把信交予天魔令主<a href="findnpc_new,school15,npc_nlb_005" style="HLStype1">軒轅天舞</a>，並求回信
+interactinfo_15991=接過令主回信，小心翼翼放入懷中，把回信帶回給<a href="findnpc_new,school15,npc_nlb_001" style="HLStype1">尊主</a>
+interactinfo_15992=接受<a href="findnpc_new,school15,npc_nlb_ww57" style="HLStype1">一飄零</a>交給你的信件
+interactinfo_15993=把信交予如夢令主<a href="findnpc_new,school15,npc_nlb_006" style="HLStype1">芷清幽</a>，並求回信
+interactinfo_15994=接過令主回信，小心翼翼放入懷中，把回信帶回給<a href="findnpc_new,school15,npc_nlb_001" style="HLStype1">尊主</a>
+interactinfo_15995=接受<a href="findnpc_new,school15,npc_nlb_ww57" style="HLStype1">一飄零</a>交給你的信件
+interactinfo_15996=把信交予胭脂令主<a href="findnpc_new,school15,npc_nlb_009" style="HLStype1">宮碧若</a>，並求回信
+interactinfo_15997=接過令主回信，小心翼翼放入懷中，把回信帶回給<a href="findnpc_new,school15,npc_nlb_001" style="HLStype1">尊主</a>
+interactinfo_15998=小公主<a href="findnpc_new,school15,npc_nlb_002" style="HLStype1">楚仙兒</a>就在雲夢閣內，前去找她
+interactinfo_15999=與<a href="findnpc_new,school15,npc_nlb_008" style="HLStype1">弓媚嫵</a>交談
+okmenu_15882=<font face="Default" color="#ffffff" >我這就帶你去</font>
+okmenu_15883=<font face="Default" color="#ffffff" >小事一樁</font>
+okmenu_15884=<font face="Default" color="#ffffff" >我這就帶你去</font>
+okmenu_15885=<font face="Default" color="#ffffff" >小事一樁</font>
+okmenu_15886=<font face="Default" color="#ffffff" >我這就帶你去</font>
+okmenu_15887=<font face="Default" color="#ffffff" >小事一樁</font>
+okmenu_15888=<font face="Default" color="#ffffff" >我這就帶你去</font>
+okmenu_15889=<font face="Default" color="#ffffff" >小事一樁</font>
+okmenu_15895=<font face="Default" color="#ffffff" >多謝師姐關心</font><font face="Default" color="#ffffff" >。</font>
+okmenu_15896=<font face="Default" color="#ffffff" >多謝師姐關心。</font>
+okmenu_15897=<font face="Default" color="#ffffff" >多謝師姐關心。</font>
+okmenu_15898=<font face="Default" color="#ffffff" >多謝師姐關心。</font>
+okmenu_15899=<font face="Default" color="#ffffff" >多謝師姐關心。</font>
+okmenu_15937=<font face="Default" color="#ffffff" >多謝師姐關心。</font>
+okmenu_15976=<font face="Default" color="#ffffff" >哦</font>
+okmenu_15977=<font face="Default" color="#ffffff" >我這就帶你去</font>
+okmenu_15978=<font face="Default" color="#ffffff" >小事一樁</font>
+okmenu_15980=<font face="Default" color="#ffffff" >見過令主</font><font face="Default" color="#ffffff" >，</font><font face="Default" color="#ffffff" >此次前來是奉尊主之命，送來她親筆書信一封，還請令主過目。</font>
+okmenu_15981=<font face="Default" color="#ffffff" >啟稟尊主，您的手書我已送達各大令主手中，他們</font><font face="Default" color="#ffffff" >已</font><font face="Default" color="#ffffff" >回信一封，還請尊主過目。</font>
+okmenu_15982=<font face="Default" color="#ffffff" >定不負所托！</font>
+okmenu_15983=<font face="Default" color="#ffffff" >定不負所托！</font>
+okmenu_15984=<font face="Default" color="#ffffff" >見過令主，此次前來是奉尊主之命，送來她親筆書信一封，還請令主過目。</font>
+okmenu_15985=<font face="Default" color="#ffffff" >啟稟尊主，您的手書我已送達各大令主手中，他們</font><font face="Default" color="#ffffff" >已</font><font face="Default" color="#ffffff" >回信一封，還請尊主過目。</font>
+okmenu_15986=<font face="Default" color="#ffffff" >定不負所托！</font>
+okmenu_15987=<font face="Default" color="#ffffff" >見過令主，此次前來是奉尊主之命，送來她親筆書信一封，還請令主過目。</font>
+okmenu_15988=<font face="Default" color="#ffffff" >啟稟尊主，您的手書我已送達各大令主手中，他們</font><font face="Default" color="#ffffff" >已</font><font face="Default" color="#ffffff" >回信一封，還請尊主過目。</font>
+okmenu_15989=<font face="Default" color="#ffffff" >定不負所托！</font>
+okmenu_15990=<font face="Default" color="#ffffff" >見過令主，此次前來是奉尊主之命，送來她親筆書信一封，還請令主過目。</font>
+okmenu_15991=<font face="Default" color="#ffffff" >啟稟尊主，您的手書我已送達各大令主手中，他們</font><font face="Default" color="#ffffff" >已</font><font face="Default" color="#ffffff" >回信一封，還請尊主過目。</font>
+okmenu_15992=<font face="Default" color="#ffffff" >定不負所托！</font>
+okmenu_15993=<font face="Default" color="#ffffff" >見過令主，此次前來是奉尊主之命，送來她親筆書信一封，還請令主過目。</font>
+okmenu_15994=<font face="Default" color="#ffffff" >啟稟尊主，您的手書我已送達各大令主手中，他們</font><font face="Default" color="#ffffff" >已</font><font face="Default" color="#ffffff" >回信一封，還請尊主過目。</font>
+okmenu_15995=<font face="Default" color="#ffffff" >定不負所托！</font>
+okmenu_15996=<font face="Default" color="#ffffff" >見過令主，此次前來是奉尊主之命，送來她親筆書信一封，還請令主過目。</font>
+okmenu_15997=<font face="Default" color="#ffffff" >啟稟尊主，您的手書我已送達各大令主手中，他們</font><font face="Default" color="#ffffff" >已</font><font face="Default" color="#ffffff" >回信一封，還請尊主過目。</font>
+okmenu_15998=<font face="Default" color="#ffffff" >我這就帶你去</font>
+okmenu_15999=<font face="Default" color="#ffffff" >小事一樁</font>
+collectinfo_15943=收集<a href="findnpc_new,school15,GatherNpc_nlb_cc_15851" style="HLStype1">凝心花</a>
+collectinfo_15945=收集<a href="findnpc_new,school15,GatherNpc_nlb_cc_15852" style="HLStype1">惑心花</a>
+collectinfo_15947=收集<a href="findnpc_new,school15,GatherNpc_nlb_cc_15853" style="HLStype1">蠱心花</a>
+collectinfo_15949=收集<a href="findnpc_new,school15,GatherNpc_nlb_cc_15854" style="HLStype1">絕心花</a>
+interactinfo_15944=完成舞技修習（至少完成按鍵8次，才能通過考驗）
+DialogID_15890=<font face="Default" color="#ffffff" >多謝你特意過來幫忙！</font>
+DialogID_15891=<font face="Default" color="#ffffff" >多謝你特意過來幫忙！</font>
+DialogID_15892=<font face="Default" color="#ffffff" >多謝你特意過來幫忙！</font>
+DialogID_15893=<font face="Default" color="#ffffff" >多謝你特意過來幫忙！</font>
+DialogID_15894=<font face="Default" color="#ffffff" >多謝你特意過來幫忙！</font>
+DialogID_15979=<font face="Default" color="#ffffff" >多謝你特意過來幫忙！</font>
+hunterinfo_15960=速度去教訓欺負念蘿壩弟子的<a href="findnpc_new,school15,npc_nlb_ww22" style="HLStype1">蠻橫弟子</a>
+hunterinfo_15961=速度去教訓欺負念蘿壩弟子的<a href="findnpc_new,school15,npc_nlb_ww23" style="HLStype1">蠻橫弟子</a>
+hunterinfo_15962=速度去教訓欺負念蘿壩弟子的<a href="findnpc_new,school15,npc_nlb_ww24" style="HLStype1">蠻橫弟子</a>
+hunterinfo_15963=速度去教訓欺負念蘿壩弟子的<a href="findnpc_new,school15,npc_nlb_ww25" style="HLStype1">蠻橫弟子</a>
+hunterinfo_15964=速度去教訓欺負念蘿壩弟子的<a href="findnpc_new,school15,npc_nlb_ww26" style="HLStype1">蠻橫弟子</a>
+hunterinfo_15965=速度去教訓欺負念蘿壩弟子的<a href="findnpc_new,school15,npc_nlb_ww27" style="HLStype1">蠻橫弟子</a>
+interactinfo_15890=事情解決，安撫下<a href="findnpc_new,school15,npc_nlb_ww30" style="HLStype1">念蘿壩弟子</a>
+interactinfo_15891=事情解決，安撫下<a href="findnpc_new,school15,npc_nlb_ww31" style="HLStype1">念蘿壩弟子</a>
+interactinfo_15892=事情解決，安撫下<a href="findnpc_new,school15,npc_nlb_ww32" style="HLStype1">念蘿壩弟子</a>
+interactinfo_15893=事情解決，安撫下<a href="findnpc_new,school15,npc_nlb_ww33" style="HLStype1">念蘿壩弟子</a>
+interactinfo_15894=事情解決，安撫下<a href="findnpc_new,school15,npc_nlb_ww34" style="HLStype1">念蘿壩弟子</a>
+interactinfo_15979=事情解決，安撫下<a href="findnpc_new,school15,npc_nlb_ww29" style="HLStype1">念蘿壩弟子</a>
+okmenu_15890=<font face="Default" color="#ffffff" >這只是小事一件，我這就向師姐覆命去了！</font>
+okmenu_15891=<font face="Default" color="#ffffff" >這只是小事一件，我這就向師姐覆命去了！</font>
+okmenu_15892=<font face="Default" color="#ffffff" >這只是小事一件，我這就向師姐覆命去了！</font>
+okmenu_15893=<font face="Default" color="#ffffff" >這只是小事一件，我這就向師姐覆命去了！</font>
+okmenu_15894=<font face="Default" color="#ffffff" >這只是小事一件，我這就向師姐覆命去了！</font>
+okmenu_15979=<font face="Default" color="#ffffff" >這只是小事一件，我這就向師姐覆命去了！</font>
 

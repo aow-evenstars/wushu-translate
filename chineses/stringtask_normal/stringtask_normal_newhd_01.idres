@@ -220,7 +220,6 @@ complete_70504=<font face="Default" color="#ffffff">Well done. With this, we'll 
 complete_70505=<font face="Default" color="#ffffff" >We'll take care of those two. For now, find an excuse to take your leave of Yagyu Jiro, and go to the Royal Guards. Show this to the Purple Flag Leader. Go in stealth - no one else must know about this. </font>
 complete_70506=<font face="Default" color="#ffffff" >Hmm...Yagyu Jiro always sent his minders to check on his agents on a mission, that's his way. At least it's good that you didn't rouse his suspicion.</font>
 complete_70507=<font face="Default" color="#ffffff" >Be careful, then. I need not remind you that you cannot make the first move, lest you blow your cover.</font>
-complete_70508=<font face="Default" color="#ffffff" >By now Jagyu Jiro will know his plan to expose you has completely backfired. Make any wrong move, and he'll have you executed on the spot.</font>
 complete_70509=<font face="Default" color="#ffffff" >You just have to lay low again for a while. Don't make another sudden move.</font>
 complete_70510=<font face="Default" color="#ffffff" >After what happened with Xue Hai, we don't have many cards left to play with Yagyu Jiro. You must watch yourself.</font>
 complete_70511=<font face="Default" color="#ffffff" >You'll have to live with the truth now. I hope you can deal with it.</font>
@@ -239,9 +238,7 @@ context_70504=To expose the spy in Clarion Cliff, you must find his contact, and
 context_70505=We've exposed the spy. Now he must be silenced.
 context_70506=Eliminate the Yagyu spy in the imperial army, and relay the intelligence report to the Royal Guards.
 context_70507=Yagyu Jiro feels uneasy towards the death of his spy in Clarion Cliff. Allay his suspicion.
-context_70508=A Bloody Blade Clan disciple is pledging his loyalty to Yagyu Jiro. Find a way to kill him.
 context_70509=While slaying Xue Hai, a dancer saved you from losing your cover. Find out more abouther.
-context_70510=Yagyu Jiro is not pleased at all with your killing Xue Hai. Although it is becoming ever more difficult, you must allay his suspicion once again.
 context_70511=Xue Hai was indeed a spy - working for the Chinese imperial army. His death had roused great indignation among the heroes of Wulin.
 context_70512=The Chinese warriors now employed by the Yagyus are considered traitors. Their treason must be punished with death.
 context_70513=The Yagyu forces consume a great deal of provisions, and the local villagers can barely support them. See what you can do.
@@ -279,7 +276,6 @@ target_70504=Find the spy's secret letter.
 target_70505=Eliminate the spy in Clarion Cliff.
 target_70506=Relay the intelligence report to the Royal Guards.
 target_70507=Allay Yagyuu Jiro's suspicion.
-target_70508=Eliminate the traitorous Blood Blade Clan disciple.
 target_70509=Inquire about the dancer's identity.
 target_70510=Renew your effort in earning Yagyu Jiro's trust.
 target_70511=Head to the shipyards as ordered by Yagyu Jiro.
@@ -321,33 +317,91 @@ title_70032=A gift from Young Martial Sister
 CanAcceptMenu_70036=<font face="Default" color="#ffffff" >Is it really so effective? </font>
 CanAcceptMenu_70037=<font face="Default" color="#ffffff" >Is it really that effective? </font>
 CanAcceptMenu_70038=<font face="Default" color="#ffffff" >Thank you!</font>
+CanAcceptMenu_70800=<font face="Default" color="#ffffff" >Enemy Invasion</font>
+CanAcceptMenu_70802=<font face="Default" color="#ffffff" >Head to the Ruined Valley</font>
+CanAcceptMenu_70804=<font face="Default" color="#ffffff" >Support the Ruined Valley</font>
+CanAcceptMenu_70807=<font face="Default" color="#ffffff" >Assassinate the Wulin Leader</font>
+CanAcceptMenu_70808=<font face="Default" color="#ffffff" >Ruined Valley Battle (Can accept)</font>
+CanAcceptMenu_70809=<font face="Default" color="#ffffff" >Reset Favorability Points (Can accept)</font>
+CompleteMenu_70809=<font face="Default" color="#ffffff" >Reset Favorability Points (Can submit)</font>
+accept_70809_1=<font face="Default" color="#ffffff" >Why are you coming to me? </font>
+complete_70809=<font face="Default" color="#ffffff" >This item can clear the Favorability Points of either camp. Then you can reselect a camp. It's free this time. If you need it later, you can trade the Orders of Dragon and Tiger for it.</font>
+context_70809=Each player has a free chance to receive a Favorability-Resetting item. Use it to clear the Favorability Points of a camp. Then you can reselect a camp.
+menu_70809_1=<font face="Default" color="#ffffff" >Elder, how can I change my camp? </font>
+next_70809=<a href="findnpc_new,born02,yywl_lzydh_wpdh" style="HLStype1">Huangfu Liang</a>
+submit_70809=<font face="Default" color="#ffffff" >Thank you!</font>
+target_70809=Get the required item to clear Favorability Points
+title_70809=Reset Favorability Points
 CompleteMenu_70036=<font face="Default" color="#ffffff" >Complete Tasks</font>
 CompleteMenu_70037=<font face="Default" color="#ffffff" >Complete Tasks</font>
 CompleteMenu_70038=<font face="Default" color="#ffffff" >Complete Tasks</font>
+CompleteMenu_70800=<font face="Default" color="#ffffff" >Complete the task</font>
+CompleteMenu_70802=<font face="Default" color="#ffffff" >Complete the task</font>
+CompleteMenu_70807=<font face="Default" color="#ffffff" >Complete the task. </font>
+CompleteMenu_70804=<font face="Default" color="#ffffff" >Complete the task</font>
+CompleteMenu_70808=<font face="Default" color="#ffffff" >Ruined Valley Battle (Completed)</font>
 accept_70036_1=<font face="Default" color="#ffffff" > Good luck in the new year! Make your wish at the "Prayer Tree"! </font>
 accept_70037_1=<font face="Default" color="#ffffff" > Good luck in the new year! This attractive couple is a match made in heave. They resemble the famous deadly duo of lore. C’mon! Make a wish! </font>
 accept_70038_1=<font face="Default" color="#ffffff" > Are these the ones that recently swore an oath of friendship? It’s the new year! Make a wish here. There is much in store for this new year! </font>
+accept_70800_1=<font face="Default" color="#ffffff" >Under the leadership of Zhuo Bei, the Foreign Wulin Camp has occupied the Ruined Valley and closed all the paths to the valley with traps.</font> <font face="Default" color="#ffffff" >The Foreign Wulin's final target is the Central Plains. I managed to escape from the valley, but was being hunted by those foreigners. </font>
+accept_70802_1=<font face="Default" color="#ffffff" >I'll discuss with the leaders of all schools and factions about it. You should head to the Ruined Valley with Jiugong Elder. </font>
+accept_70804_1=<font face="Default" color="#ffffff" >We are lack of supplies. Could you collect some supplies for the battle against the Foreign Wulin? </font>
+accept_70807_1=<font face="Default" color="#ffffff" >Wulin Leader is just in the residence. You can find him there. </font>
+accept_70808_1=<font face="Default" color="#ffffff" >Ruined Valley Battle is about to take place. Would you like to join it? </font>
 complete_70036=<font face="Default" color="#ffffff" > You make our city of Chengdu more prosperous. This is a new years gift for you. </font>
 complete_70037=<font face="Default" color="#ffffff" > Ha ha ha, how exciting! This is our gift for you. </font>
 complete_70038=<font face="Default" color="#ffffff" > Ha ha ha. Happy new year! </font>
+complete_70800=<font face="Default" color="#ffffff" >Who are you?</font>
+complete_70802=<font face="Default" color="#ffffff" >Go find Xuan Chuzi and follow his order. </font>
+complete_70804=<font face="Default" color="#ffffff" >Very good. Let's work together to defeat Zhuo Bei. </font>
+complete_70807=<font face="Default" color="#ffffff" >The Ruined Valley is in great danger. I'll discuss with Jiugong Elder about how to deal with it. </font>
+complete_70808=<font face="Default" color="#ffffff" >Impressive skills. You are really a Wulin talent!</font>
 context_70036=Good luck in the new year Make your wish at the "Prayer Tree"!
 context_70037=Have a blessed new year! This attractive couple is a match made in heave. They resemble the famous deadly duo of lore. C’mon! Make a wish!
 context_70038=Are these the ones that recently swore an oath of friendship? It’s the new year! Make a wish here. There is much in store for this new year!
+context_70800=Under the leadership of Zhuo Bei, the Foreign Wulin Camp has occupied the Ruined Valley. However, their final target is the Central Plains. I managed to escape from the valley, but was being hunted by those foreigners.
+context_70802=Head to the Ruined Valley with Jiugong Elder.
+context_70804=The Central Plains Camp is lack of supplies. Could you collect some supplies for the battle against the Foreign Wulin?
+context_70807=Some Foreign Killers have disguised themselves as the bodyguards of Wulin Leader. Go tell it to him as soon as possible.
+context_70808=The internal strife and the Japanese invasion made the foreign camp believe that it was the right time for them to conquest the Central Plains Camp. So they occupied Ruined Valley and have been waiting for an opportunity to defeat all other schools. Lin Tiannan opened a path to the Ruined Valley and invited all Wulin heroes of the Central Plains to rally at the Ruined Valley. The battle is about to take place.
 menu_70036_1=<font face="Default" color="#ffffff" >Happy new year</font>
 menu_70037_1=<font face="Default" color="#ffffff" >Happy new year. </font>
 menu_70038_1=<font face="Default" color="#ffffff" >Happy new year</font>
+menu_70800_1=<font face="Default" color="#ffffff">How can that be?</font>
+menu_70802_1=<font face="Default" color="#ffffff" >Yes, elder. </font>
+menu_70804_1=<font face="Default" color="#ffffff" >I'm going.</font>
+menu_70807_1=<font face="Default" color="#ffffff" >Thanks. I'm going. </font>
+menu_70808_1=<font face="Default" color="#ffffff" >Yes, I do. </font>
 next_70036=
 next_70037=
 next_70038=
+next_70800=
+next_70802=
+next_70804=
+next_70807=
+next_70808=Unity and flexibility is the key to win the battle.
 submit_70036=<font face="Default" color="#ffffff" >Thank you </font>
 submit_70037=<font face="Default" color="#ffffff" >Thank you!</font>
 submit_70038=<font face="Default" color="#ffffff" >Thank you!</font>
+submit_70800=<font face="Default" color="#ffffff" >Leader Lin, I have something important to report. </font>
+submit_70802=<font face="Default" color="#ffffff" >Yes, elder. </font>
+submit_70804=<font face="Default" color="#ffffff" >Let them pay with their blood! </font>
+submit_70807=<font face="Default" color="#ffffff" >What can I do for you? </font>
+submit_70808=<font face="Default" color="#ffffff" >Thank you.</font>
 target_70036=Pray here after getting the Chinese Blessing Knot.
 target_70037=Pray here after getting the Blessing Knot.
 target_70038=Use the "Prayer Knot" to make a wish.
+target_70800=Talk with Zhangsun Kong
+target_70802=Find Jiugong Elder in the Ruined Valley
+target_70804=Collect supplies to support the battle against the Foreign Camp in the Ruined Valley.
+target_70807=Talk with Lin Tiannan
+target_70808=Win a Ruined Valley Battle
 title_70036=New Year blessing
 title_70037=New Years Wish
 title_70038=New Years Wish
+title_70800=Enemy Invasion
+title_70802=Head to the Ruined Valley
+title_70804=Support the Ruined Valley
 context_70034=Eight Schools Reunion Celebration Pack x1. Each character can only get one.
 target_70034=Find Lin Liang to claim rewards.
 title_70034=Jianghu School Reunion gift!
@@ -378,82 +432,6 @@ title_70043=Breaching the Heavenly Pass (Third Stage)
 title_70044=Breaching the Heavenly Pass (Fourth Stage)
 title_70045=Breaching the Heavenly Pass (Fifth Stage)
 title_70046=Breaching the Heavenly Pass (Sixth Stage)
-CanAcceptMenu_70047=<font face="Default" color="#ffffff" >Ching Ming Festival rain</font>
-CompleteMenu_70047=<font face="Default" color="#ffffff" >Ching Ming Festival rain</font><font face="Default" color="#ffffff" > (can be submitted) </font>
-accept_70047_1=<font face="Default" color="#ffffff" >Are you looking for me, too? Then you came to the right person. I have some Apricot Blossom Alcohol. </font>
-complete_70047=<font face="Default" color="#ffffff" >I didn’t think you’d return so quickly. This is a gift of Fine Wine for you. </font>
-context_70047=Ching Ming Festival is approaching, the shepherd with apricot flower village unique apricot wine came to the city of Suzhou, presented to the majority of the chivalry....
-menu_70047_1=<font face="Default" color="#ffffff" >How may I get this drink? </font>
-submit_70047=<font face="Default" color="#ffffff" >You’re welcome. Take this. </font>
-target_70047=Complete the Shepherd Boy request to get the gift.
-target_70048=Assist the Court Emissary and find the hidden ancient painting fragment in Suzhou.
-title_70047=Ching Ming Festival rain
-title_70048=The court of honor
-CanAcceptMenu_70048=<font face="Default" color="#ffffff" >The court of honor</font>
-CompleteMenu_70048=<font face="Default" color="#ffffff" >Court of honor gift chivalrous (can be submitted)</font>
-accept_70048_1=<font face="Default" color="#ffffff" >Song Dynasty famous painter Shexi's "Xiaoxiang eight landscape map" perennial folk, the court received the wind, the eight ancient paintings have a few pieces of thieves income, hiding in Suzhou everywhere, the holy life I find rivers and lakes chivalry, This, to restore the loss, if found, there must be rewards.</font>
-complete_70048=<font face="Default" color="#ffffff" >I didn’t think you’d return so quickly. This is for you. </font>
-context_70048=Song Dynasty famous painter Shexi's "Xiaoxiang eight landscape map" perennial folk, the court received the wind, the eight paintings have a few pieces of thieves income, hiding in Suzhou everywhere, the royal hope that the broad knight can lend a helping hand to restore the loss.
-menu_70048_1=<font face="Default" color="#ffffff" >Many thanks. I need to find more fragments now. </font>
-submit_70048=<font face="Default" color="#ffffff" >Thank you.</font>
-CanAcceptMenu_70800=<font face="Default" color="#ffffff" >Enemy Invasion</font>
-CanAcceptMenu_70802=<font face="Default" color="#ffffff" >Head to the Ruined Valley</font>
-CanAcceptMenu_70804=<font face="Default" color="#ffffff" >Support the Ruined Valley</font>
-CanAcceptMenu_70807=<font face="Default" color="#ffffff" >Assassinate the Wulin Leader</font>
-CanAcceptMenu_70808=<font face="Default" color="#ffffff" >Ruined Valley Battle (Can accept)</font>
-CanAcceptMenu_70809=<font face="Default" color="#ffffff" >Reset Favorability Points (Can accept)</font>
-CompleteMenu_70809=<font face="Default" color="#ffffff" >Reset Favorability Points (Can submit)</font>
-accept_70809_1=<font face="Default" color="#ffffff" >Why are you coming to me? </font>
-complete_70809=<font face="Default" color="#ffffff" >This item can clear the Favorability Points of either camp. Then you can reselect a camp. It's free this time. If you need it later, you can trade the Orders of Dragon and Tiger for it.</font>
-context_70809=Each player has a free chance to receive a Favorability-Resetting item. Use it to clear the Favorability Points of a camp. Then you can reselect a camp.
-menu_70809_1=<font face="Default" color="#ffffff" >Elder, how can I change my camp? </font>
-next_70809=<a href="findnpc_new,born02,yywl_lzydh_wpdh" style="HLStype1">Huangfu Liang</a>
-submit_70809=<font face="Default" color="#ffffff" >Thank you!</font>
-target_70809=Get the required item to clear Favorability Points
-title_70809=Reset Favorability Points
-CompleteMenu_70800=<font face="Default" color="#ffffff" >Complete the task</font>
-CompleteMenu_70802=<font face="Default" color="#ffffff" >Complete the task</font>
-CompleteMenu_70807=<font face="Default" color="#ffffff" >Complete the task. </font>
-CompleteMenu_70804=<font face="Default" color="#ffffff" >Complete the task</font>
-CompleteMenu_70808=<font face="Default" color="#ffffff" >Ruined Valley Battle (Completed)</font>
-accept_70800_1=<font face="Default" color="#ffffff" >Under the leadership of Zhuo Bei, the Foreign Wulin Camp has occupied the Ruined Valley and closed all the paths to the valley with traps.</font> <font face="Default" color="#ffffff" >The Foreign Wulin's final target is the Central Plains. I managed to escape from the valley, but was being hunted by those foreigners. </font>
-accept_70802_1=<font face="Default" color="#ffffff" >I'll discuss with the leaders of all schools and factions about it. You should head to the Ruined Valley with Jiugong Elder. </font>
-accept_70804_1=<font face="Default" color="#ffffff" >We are lack of supplies. Could you collect some supplies for the battle against the Foreign Wulin? </font>
-accept_70807_1=<font face="Default" color="#ffffff" >Wulin Leader is just in the residence. You can find him there. </font>
-accept_70808_1=<font face="Default" color="#ffffff" >Ruined Valley Battle is about to take place. Would you like to join it? </font>
-complete_70800=<font face="Default" color="#ffffff" >Who are you?</font>
-complete_70802=<font face="Default" color="#ffffff" >Go find Xuan Chuzi and follow his order. </font>
-complete_70804=<font face="Default" color="#ffffff" >Very good. Let's work together to defeat Zhuo Bei. </font>
-complete_70807=<font face="Default" color="#ffffff" >The Ruined Valley is in great danger. I'll discuss with Jiugong Elder about how to deal with it. </font>
-complete_70808=<font face="Default" color="#ffffff" >Impressive skills. You are really a Wulin talent!</font>
-context_70800=Under the leadership of Zhuo Bei, the Foreign Wulin Camp has occupied the Ruined Valley. However, their final target is the Central Plains. I managed to escape from the valley, but was being hunted by those foreigners.
-context_70802=Head to the Ruined Valley with Jiugong Elder.
-context_70804=The Central Plains Camp is lack of supplies. Could you collect some supplies for the battle against the Foreign Wulin?
-context_70807=Some Foreign Killers have disguised themselves as the bodyguards of Wulin Leader. Go tell it to him as soon as possible.
-context_70808=The internal strife and the Japanese invasion made the foreign camp believe that it was the right time for them to conquest the Central Plains Camp. So they occupied Ruined Valley and have been waiting for an opportunity to defeat all other schools. Lin Tiannan opened a path to the Ruined Valley and invited all Wulin heroes of the Central Plains to rally at the Ruined Valley. The battle is about to take place.
-menu_70800_1=<font face="Default" color="#ffffff">How can that be?</font>
-menu_70802_1=<font face="Default" color="#ffffff" >Yes, elder. </font>
-menu_70804_1=<font face="Default" color="#ffffff" >I'm going.</font>
-menu_70807_1=<font face="Default" color="#ffffff" >Thanks. I'm going. </font>
-menu_70808_1=<font face="Default" color="#ffffff" >Yes, I do. </font>
-next_70800=
-next_70802=
-next_70804=
-next_70807=
-next_70808=Unity and flexibility is the key to win the battle.
-submit_70800=<font face="Default" color="#ffffff" >Leader Lin, I have something important to report. </font>
-submit_70802=<font face="Default" color="#ffffff" >Yes, elder. </font>
-submit_70804=<font face="Default" color="#ffffff" >Let them pay with their blood! </font>
-submit_70807=<font face="Default" color="#ffffff" >What can I do for you? </font>
-submit_70808=<font face="Default" color="#ffffff" >Thank you.</font>
-target_70800=Talk with Zhangsun Kong
-target_70802=Find Jiugong Elder in the Ruined Valley
-target_70804=Collect supplies to support the battle against the Foreign Camp in the Ruined Valley.
-target_70807=Talk with Lin Tiannan
-target_70808=Win a Ruined Valley Battle
-title_70800=Enemy Invasion
-title_70802=Head to the Ruined Valley
-title_70804=Support the Ruined Valley
 CanAcceptMenu_70803=<font face="Default" color="#ffffff" >Active Challenge (Can accept)</font>
 CompleteMenu_70803=<font face="Default" color="#ffffff" >Active Challenge (Completed)</font>
 accept_70803_1=<font face="Default" color="#ffffff" >Both camps are fighting for the ownership of the Ruined Valley. You can select a camp and join the battle. </font>
@@ -550,6 +528,24 @@ next_70920=Have a check in the Inner Valley (915,165)
 next_70921=Send message to <a href="findnpc_new,born02,juqingxiang_001" style="HLStype1">Cheng Hong</a>.
 CanAcceptMenu_70903=<font face="Default" color="#ffffff" >Choice</font>
 accept_70903_1=<font face="Default" color="#ffffff" >Something has happened near the valley. Would you like to have a check there? </font>
+CanAcceptMenu_70047=<font face="Default" color="#ffffff" >Ching Ming Festival rain</font>
+CompleteMenu_70047=<font face="Default" color="#ffffff" >Ching Ming Festival rain</font><font face="Default" color="#ffffff" > (can be submitted) </font>
+accept_70047_1=<font face="Default" color="#ffffff" >Are you looking for me, too? Then you came to the right person. I have some Apricot Blossom Alcohol. </font>
+complete_70047=<font face="Default" color="#ffffff" >I didn’t think you’d return so quickly. This is a gift of Fine Wine for you. </font>
+context_70047=Ching Ming Festival is approaching, the shepherd with apricot flower village unique apricot wine came to the city of Suzhou, presented to the majority of the chivalry....
+menu_70047_1=<font face="Default" color="#ffffff" >How may I get this drink? </font>
+submit_70047=<font face="Default" color="#ffffff" >You’re welcome. Take this. </font>
+target_70047=Complete the Shepherd Boy request to get the gift.
+target_70048=Assist the Court Emissary and find the hidden ancient painting fragment in Suzhou.
+title_70047=Ching Ming Festival rain
+title_70048=The court of honor
+CanAcceptMenu_70048=<font face="Default" color="#ffffff" >The court of honor</font>
+CompleteMenu_70048=<font face="Default" color="#ffffff" >Court of honor gift chivalrous (can be submitted)</font>
+accept_70048_1=<font face="Default" color="#ffffff" >Song Dynasty famous painter Shexi's "Xiaoxiang eight landscape map" perennial folk, the court received the wind, the eight ancient paintings have a few pieces of thieves income, hiding in Suzhou everywhere, the holy life I find rivers and lakes chivalry, This, to restore the loss, if found, there must be rewards.</font>
+complete_70048=<font face="Default" color="#ffffff" >I didn’t think you’d return so quickly. This is for you. </font>
+context_70048=Song Dynasty famous painter Shexi's "Xiaoxiang eight landscape map" perennial folk, the court received the wind, the eight paintings have a few pieces of thieves income, hiding in Suzhou everywhere, the royal hope that the broad knight can lend a helping hand to restore the loss.
+menu_70048_1=<font face="Default" color="#ffffff" >Many thanks. I need to find more fragments now. </font>
+submit_70048=<font face="Default" color="#ffffff" >Thank you.</font>
 submit_70921=<font face="Default" color="#ffffff" >Okay. If a similar thing happens, I'll handle it like this.</font>
 complete_70921=<font face="Default" color="#ffffff" >I think you have made a choice on the camp you support. </font>
 CompleteMenu_70921=<font face="Default" color="#ffffff" >I helped a man who had been hunted over there. </font>
@@ -572,7 +568,9 @@ menu_70051_1=<font face="Default" color="#ffffff" >Good. It's time to show my sk
 submit_70051=<font face="Default" color="#ffffff" >Thank you.</font>
 target_70051=Win a Ruined Valley Battle.
 title_70051=Hero Trial
+context_70053=During the event period, all players can receive a gift from Lin Liang.
 target_70053=Find Lin Liang to receive a gift.
+title_70053=Eastern Hero and Western Poison Maker All Players Reward
 context_70052=During the event period, players with the power level of Spiritually Balanced or above can receive a Diligence Against Time Pack at the Competition Area in Suzhou.
 target_70052=Players who have reached the required power level can receive Diligence Gift at the Competition Area in Suzhou.
 title_70052=Diligence Gift
@@ -592,15 +590,6 @@ title_70055=Model of Marital Practice - Martial Arts Club Challenge
 title_70056=Model of Marital Practice - Forbidden Instance
 title_70057=Model of Marital Practice - Battlefield
 title_70058=Model of Marital Practice - Ruined Valley Battle
-CanAcceptMenu_70401=<font face="Default" color="#ffffff" >The worship in Evil Men's Valley</font>
-CompleteMenu_70401=<font face="Default" color="#ffffff" >The worship in Evil Men's Valley</font>
-accept_70401_1=<font face="Default" color="#ffffff" >On Ching Ming day, it is drizzling everywhere, all families are just busy worshiping ancestors. No people remember to incense for the Unmarked graves.</font>
-complete_70401=<font face="Default" color="#ffffff" >Pray the dead comrades to rest in peace!</font>
-context_70401=On Ching Ming day, it is drizzling everywhere, all families are just busy worshiping ancestors. No people remember to incense for the Unmarked graves. Move to Evil Men's Valley standing in front of Unmarked graves (701. 477) to worship dead comrades.
-menu_70401_1=<font face="Default" color="#ffffff" >i go ahead to worship those dead comrades at once!</font>
-next_70401=Talk with <a href="findnpc_new,born02,outlandwar_lpf001" style="HLStype1">Wulin Battlefield</a> Guide
-submit_70401=<font face="Default" color="#ffffff" >Pray the dead comrades to rest in peace!</font>
-target_70401=Move to Evil Men's Valley standing in front of Unmarked graves (701. 477) to worship dead comrades
 CanAcceptMenu_70059=<font face="Default" color="#ffffff" >Complete the Heaven Reaching Peak to get rewards</font>
 CompleteMenu_70059=<font face="Default" color="#ffffff" >Complete the Heaven Reaching Peak to get rewards (can submit)</font>
 accept_70059_1=<font face="Default" color="#ffffff" >Heaven Reaching Peak is open. Are you ready for the challenge? You will get rewards if you complete it! </font>
@@ -621,6 +610,7 @@ submit_70060=<font face="Default" color="#ffffff" >Thank you!</font>
 target_70060=The force disciples and Hermits can receive Reputation of their school here. Eight Schools disciples and Vagrants can get Jianghu Reputation here.
 title_70060=Daily Reputation
 CanAcceptMenu_70062=<font face="Default" color="#ffffff" >Aristocratic Family’s Descendant Reward</font>
+CompleteMenu_70062=<font face="Default" color="#ffffff" >Aristocratic Family’s Descendant Reward</font>
 accept_70062_1=<font face="Default" color="#ffffff" >Get any Aristocratic Family’s Level 2 identity and get a reward</font>
 complete_70062=<font face="Default" color="#ffffff" >You got Aristocratic Family’s Level 2 identity. Here’s your Four Noble Households reward!</font>
 menu_70062_1=<font face="Default" color="#ffffff" >I know.</font>
@@ -630,7 +620,11 @@ target_70062=Get any Aristocratic Family’s Level 2 identity
 title_70062=Aristocratic Family’S Descendant
 context_70061=context_70061
 target_70061=target_70061
+title_70061=Foreign Intelligence Pack
+title_70063=New Server Registration Reward
+title_70064=New Server Competition Pack
 target_70063=Go to Event Ambassador Shang Wu to claim rewards
+target_70064=Go to Event Ambassador Shang Wu to claim rewards
 context_70063=During the event period, all players, who registered on the new server, can receive New Server Registration Reward from Event Ambassador Shang Wu.
 context_70064=During the event period, all players, who registered on the new server, can receive New Server Competition Pack from Event Ambassador Shang Wu.
 context_70201=The Guild has been slacking off recently. Regardless of your power, you have to train regularly. (Complete this task to get 125 Lucky points for your Guild)
@@ -641,6 +635,12 @@ context_70205=The Four Noble Households are recently holding numerous activities
 context_70206=It is said that Jianghu’s Tertiary and Secondary Territories have excellent Feng Shui. Examine these territories. (Complete this task to get 75 Lucky points for your Guild)
 context_70207=Jianghu is recently in disorder, thus escort business is booming. Let’s use it to our advantage. (Complete this task to get 15 Lucky points for your Guild)
 next_70201=<a href="findnpc_new,city01,Guild_tasknpc_001" style="HLStype1">Guild Task Master (Yanjing)</a><br><a href="findnpc_new,city02,Guild_tasknpc_001" style="HLStype1">Guild Task Master (Suzhou)</a><br><a href="findnpc_new,city04,Guild_tasknpc_001" style="HLStype1">Guild Task Master (Luoyang)</a><br><a href="findnpc_new,city05,Guild_tasknpc_001" style="HLStype1">Guild Task Master (Chengdu)</a><br>
+next_70202=<a href="findnpc_new,city01,Guild_tasknpc_001" style="HLStype1">Guild Task Master (Yanjing)</a><br><a href="findnpc_new,city02,Guild_tasknpc_001" style="HLStype1">Guild Task Master (Suzhou)</a><br><a href="findnpc_new,city04,Guild_tasknpc_001" style="HLStype1">Guild Task Master (Luoyang)</a><br><a href="findnpc_new,city05,Guild_tasknpc_001" style="HLStype1">Guild Task Master (Chengdu)</a><br>
+next_70203=<a href="findnpc_new,city01,Guild_tasknpc_001" style="HLStype1">Guild Task Master (Yanjing)</a><br><a href="findnpc_new,city02,Guild_tasknpc_001" style="HLStype1">Guild Task Master (Suzhou)</a><br><a href="findnpc_new,city04,Guild_tasknpc_001" style="HLStype1">Guild Task Master (Luoyang)</a><br><a href="findnpc_new,city05,Guild_tasknpc_001" style="HLStype1">Guild Task Master (Chengdu)</a><br>
+next_70204=<a href="findnpc_new,city01,Guild_tasknpc_001" style="HLStype1">Guild Task Master (Yanjing)</a><br><a href="findnpc_new,city02,Guild_tasknpc_001" style="HLStype1">Guild Task Master (Suzhou)</a><br><a href="findnpc_new,city04,Guild_tasknpc_001" style="HLStype1">Guild Task Master (Luoyang)</a><br><a href="findnpc_new,city05,Guild_tasknpc_001" style="HLStype1">Guild Task Master (Chengdu)</a><br>
+next_70205=<a href="findnpc_new,city01,Guild_tasknpc_001" style="HLStype1">Guild Task Master (Yanjing)</a><br><a href="findnpc_new,city02,Guild_tasknpc_001" style="HLStype1">Guild Task Master (Suzhou)</a><br><a href="findnpc_new,city04,Guild_tasknpc_001" style="HLStype1">Guild Task Master (Luoyang)</a><br><a href="findnpc_new,city05,Guild_tasknpc_001" style="HLStype1">Guild Task Master (Chengdu)</a><br>
+next_70206=<a href="findnpc_new,city01,Guild_tasknpc_001" style="HLStype1">Guild Task Master (Yanjing)</a><br><a href="findnpc_new,city02,Guild_tasknpc_001" style="HLStype1">Guild Task Master (Suzhou)</a><br><a href="findnpc_new,city04,Guild_tasknpc_001" style="HLStype1">Guild Task Master (Luoyang)</a><br><a href="findnpc_new,city05,Guild_tasknpc_001" style="HLStype1">Guild Task Master (Chengdu)</a><br>
+next_70207=<a href="findnpc_new,city01,Guild_tasknpc_001" style="HLStype1">Guild Task Master (Yanjing)</a><br><a href="findnpc_new,city02,Guild_tasknpc_001" style="HLStype1">Guild Task Master (Suzhou)</a><br><a href="findnpc_new,city04,Guild_tasknpc_001" style="HLStype1">Guild Task Master (Luoyang)</a><br><a href="findnpc_new,city05,Guild_tasknpc_001" style="HLStype1">Guild Task Master (Chengdu)</a><br>
 target_70201=Finish Guild Team Practice once (all the participants should be from the same Guild)
 target_70202=Donate Basic resources to your Guild (Use Life Skills)
 target_70203=Defeat enemy Guild players 3 times
@@ -661,20 +661,19 @@ CanAcceptMenu_70207=<font face="Default" color="#ffffff" >Guild Escort</font><fo
 complete_70207=<font face="Default" color="#ffffff" >You managed to get your share of the action. Well done. </font>
 submit_70207=<font face="Default" color="#ffffff" > I completed one escort for the Guild. </font>
 CompleteMenu_70207=<font face="Default" color="#ffffff" >Guild Escort</font><font face="Default" color="#ffffff" > (can submit)</font>
-context_70053=During the event period, all players can receive a gift from Lin Liang.
-title_70053=Eastern Hero and Western Poison Maker All Players Reward
-CompleteMenu_70062=<font face="Default" color="#ffffff" >Aristocratic Family’s Descendant Reward</font>
-title_70061=Foreign Intelligence Pack
-title_70063=New Server Registration Reward
-title_70064=New Server Competition Pack
-target_70064=Go to Event Ambassador Shang Wu to claim rewards
-next_70202=<a href="findnpc_new,city01,Guild_tasknpc_001" style="HLStype1">Guild Task Master (Yanjing)</a><br><a href="findnpc_new,city02,Guild_tasknpc_001" style="HLStype1">Guild Task Master (Suzhou)</a><br><a href="findnpc_new,city04,Guild_tasknpc_001" style="HLStype1">Guild Task Master (Luoyang)</a><br><a href="findnpc_new,city05,Guild_tasknpc_001" style="HLStype1">Guild Task Master (Chengdu)</a><br>
-next_70203=<a href="findnpc_new,city01,Guild_tasknpc_001" style="HLStype1">Guild Task Master (Yanjing)</a><br><a href="findnpc_new,city02,Guild_tasknpc_001" style="HLStype1">Guild Task Master (Suzhou)</a><br><a href="findnpc_new,city04,Guild_tasknpc_001" style="HLStype1">Guild Task Master (Luoyang)</a><br><a href="findnpc_new,city05,Guild_tasknpc_001" style="HLStype1">Guild Task Master (Chengdu)</a><br>
-next_70204=<a href="findnpc_new,city01,Guild_tasknpc_001" style="HLStype1">Guild Task Master (Yanjing)</a><br><a href="findnpc_new,city02,Guild_tasknpc_001" style="HLStype1">Guild Task Master (Suzhou)</a><br><a href="findnpc_new,city04,Guild_tasknpc_001" style="HLStype1">Guild Task Master (Luoyang)</a><br><a href="findnpc_new,city05,Guild_tasknpc_001" style="HLStype1">Guild Task Master (Chengdu)</a><br>
-next_70205=<a href="findnpc_new,city01,Guild_tasknpc_001" style="HLStype1">Guild Task Master (Yanjing)</a><br><a href="findnpc_new,city02,Guild_tasknpc_001" style="HLStype1">Guild Task Master (Suzhou)</a><br><a href="findnpc_new,city04,Guild_tasknpc_001" style="HLStype1">Guild Task Master (Luoyang)</a><br><a href="findnpc_new,city05,Guild_tasknpc_001" style="HLStype1">Guild Task Master (Chengdu)</a><br>
-next_70206=<a href="findnpc_new,city01,Guild_tasknpc_001" style="HLStype1">Guild Task Master (Yanjing)</a><br><a href="findnpc_new,city02,Guild_tasknpc_001" style="HLStype1">Guild Task Master (Suzhou)</a><br><a href="findnpc_new,city04,Guild_tasknpc_001" style="HLStype1">Guild Task Master (Luoyang)</a><br><a href="findnpc_new,city05,Guild_tasknpc_001" style="HLStype1">Guild Task Master (Chengdu)</a><br>
-next_70207=<a href="findnpc_new,city01,Guild_tasknpc_001" style="HLStype1">Guild Task Master (Yanjing)</a><br><a href="findnpc_new,city02,Guild_tasknpc_001" style="HLStype1">Guild Task Master (Suzhou)</a><br><a href="findnpc_new,city04,Guild_tasknpc_001" style="HLStype1">Guild Task Master (Luoyang)</a><br><a href="findnpc_new,city05,Guild_tasknpc_001" style="HLStype1">Guild Task Master (Chengdu)</a><br>
-
+complete_70508=<font face="Default" color="#ffffff" >By now Jagyu Jiro will know his plan to expose you has completely backfired. Make any wrong move, and he'll have you executed on the spot.</font>
+context_70508=A Bloody Blade Clan disciple is pledging his loyalty to Yagyu Jiro. Find a way to kill him.
+context_70510=Yagyu Jiro is not pleased at all with your killing Xue Hai. Although it is becoming ever more difficult, you must allay his suspicion once again.
+target_70508=Eliminate the traitorous Blood Blade Clan disciple.
+CanAcceptMenu_70401=<font face="Default" color="#ffffff" >Ruined Valley Worship</font>
+CompleteMenu_70401=<font face="Default" color="#ffffff" >Ruined Valley Worship</font>
+accept_70401_1=<font face="Default" color="#ffffff" >The Tomb-sweeping Day is coming soon, but there is no person to sweep the tombs in Ruined Valley.</font>
+complete_70401=<font face="Default" color="#ffffff" >Hope the soldiers rest in peace.</font>
+context_70401=The Tomb-sweeping Day is coming soon, but there is no person to sweep the tombs in Ruined Valley. Head to the Nameless Tomb in Ruined Valley (701, 477) to worship the dead comrades.
+menu_70401_1=<font face="Default" color="#ffffff" >I will go now.</font>
+next_70401=Talk to <a href="findnpc_new,born02,outlandwar_lpf001" style="HLStype1">Wulin Battlefield Guide</a>.
+submit_70401=<font face="Default" color="#ffffff" >Hope the soldiers rest in peace.</font>
+target_70401=Worship the dead comrades at the Nameless Tomb in the Ruined Valley (701, 477).
 context_70329=Ching Ming Festival Gift Pack
 next_70329=Visit Qian Fugui for the Gift Pack
 target_70329=Visit Qian Fugui for the Gift Pack
@@ -683,3 +682,108 @@ context_70330=Ching Ming Festival Gift Pack
 next_70330=Visit Qian Fugui for the Gift Pack
 target_70330=Visit Qian Fugui for the Gift Pack
 title_70330=Ching Ming Festival Special Gift (1)
+CanAcceptMenu_70065=<font face="Default" color="#ffffff" >Adventure in Jianghu Together</font>
+CanAcceptMenu_70082=<font face="Default" color="#ffffff" >Spring Wind Brings Warm</font>
+CompleteMenu_70082=<font face="Default" color="#ffffff" >Complete Request</font>
+CompleteMenu_70065=<font face="Default" color="#ffffff" >Fulfill the task.</font>
+accept_70065_1=<font face="Default" color="#ffffff" >Master and disciple take a trip in Jianghu together. This remind me of the time following Jiugong Elder. What a good time, but it had gone away. If you can overcome the difficulties, I will give you the rewards.</font>
+accept_70082_1=<font face="Default" color="#ffffff" >  古人云“胜日寻芳泗水滨，无边光景一时新”，诚不我欺也。嗯？这位少侠也是前来踏青赏春的吗？</font>
+complete_70065=<font face="Default" color="#ffffff" >Well done. It seems that you have a good master/disciple.</font>
+complete_70082=<font face="Default" color="#ffffff" >It seems that our meeting is fate. Here is a some gift, please receive.</font>
+context_70065=Master and disciple take a trip in Jianghu together. This remind me of the time following Jiugong Elder. What a good time, but it had gone away. If you can overcome the difficulties, I will give you the rewards.
+context_70082=Are you also come here for a spring outing?
+menu_70065_1=<font face="Default" color="#ffffff" >I'm going.</font>
+menu_70082_1=<font face="Default" color="#ffffff" >Yes. Nice to meet you, elder.</font>
+next_70065=<a href="findnpc_new,,chushi_001" style="HLStype1">Yao Zhiyi</a>
+submit_70065=<font face="Default" color="#ffffff" >Thank you for your praise.</font>
+submit_70082=<font face="Default" color="#ffffff" > Thank you, elder. </font>
+target_70065=Complete the task required by Yao Zhiyi.
+target_70082=Find the old hermit who is having an outing in spring.
+title_70065=Adventure in Jianghu Together
+title_70082=Spring Wind Brings Warm
+context_70067=During the event, all the players can claim an All Players Reward Gift Pack at Lin Liang the Festival Ambassador.
+target_70067=During the event, all the players can claim an All Players Reward Gift Pack at Lin Liang the Festival Ambassador.
+title_70067=Presents gifted to all the players.
+CanAcceptMenu_70066=<font face="Default" color="#ffffff" >New version invites heroes from everywhere, small gifts help with the beginning.</font>
+CompleteMenu_70066=<font face="Default" color="#ffffff" >What's in the gift?</font>
+accept_70066_1=<font face="Default" color="#ffffff" >As a new version is released, I have some gifts for you</font><font face="Default" color="#ffffff" >!</font>
+complete_70066=<font face="Default" color="#ffffff" >This gift contains Package Embroidered Box (7 days)</font><font face="Default" color="#ffffff" > x2</font><font face="Default" color="#ffffff" >, Windrider (7 days)</font><font face="Default" color="#ffffff" > x1</font><font face="Default" color="#ffffff" >, Tianshan Snow Lotus Fruit</font><font face="Default" color="#ffffff" > x1</font><font face="Default" color="#ffffff" >, and Bai Xiaosheng's Weapon Manuals (superior)</font><font face="Default" color="#ffffff" > x10</font><font face="Default" color="#ffffff" >. Please receive</font><font face="Default" color="#ffffff" >.</font>
+context_70066=Welcome the new version. Jiang Lei the Event Ambassador has some gifts to present.
+menu_70066_1=<font face="Default" color="#ffffff" >I'd like that</font><font face="Default" color="#ffffff" >!</font>
+submit_70066=<font face="Default" color="#ffffff" >Thank you very much! </font>
+target_70066=New version invites heroes from everywhere, small gifts help with the beginning. You can head to Jiang Lei the Event Ambassador at Suzhou to claim fine gifts.
+title_70066=Small gifts help with the beginning.
+context_70068=You can accept Jianghu Wander request from Lin Liang the Event Ambassador everyday. After completing you will be rewarded with Jade Doll Quench Tickets.
+target_70068=Accept Jianghu Wander request from Lin Liang, and defeat any faction.
+title_70068=Jianghu Wander
+CanAcceptMenu_70069=<font face="Default" color="#ffffff" >New Year Blessing (can accept)</font>
+CanAcceptMenu_70070=<font face="Default" color="#ffffff" >School Invitation Note (can accept)</font>
+CompleteMenu_70069=<font face="Default" color="#ffffff" >New Year Blessing (Completed)</font>
+CompleteMenu_70070=<font face="Default" color="#ffffff" >School Invitation Note (Completed) </font>
+accept_70069_1=<font face="Default" color="#ffffff" >At the time of new year, wish you to have a good luck and be healthy and wealthy!</font>
+accept_70070_1=<font face="Default" color="#ffffff" >I'm busy with many things as the Spring Festival is coming. Please help me to send the invitation notes to the grandmasters.</font>
+complete_70069=<font face="Default" color="#ffffff" >Here're your rewards. Please receive</font><font face="Default" color="#ffffff" >.</font>
+complete_70070=<font face="Default" color="#ffffff" >Here're your rewards.</font><font face="Default" color="#ffffff" > </font><font face="Default" color="#ffffff" >Please receive</font><font face="Default" color="#ffffff" >.</font>
+context_70069=At the time of new year, wish you to have a good luck and be healthy and wealthy!
+context_70070=At the new year beginning, the Alliance Leader asks the Jianghu Heroes to send the invitation notes to the grandmasters of the schools.
+menu_70069_1=<font face="Default" color="#ffffff" >Thank you.</font>
+menu_70070_1=<font face="Default" color="#ffffff" >Okay.</font>
+submit_70069=<font face="Default" color="#ffffff" >Thank you.</font>
+submit_70070=<font face="Default" color="#ffffff" >Thank you.</font>
+target_70069=Wish you to have a good luck and be healthy and wealthy!
+target_70070=Complete School Invitation Note once.
+title_70069=New Year Blessing
+title_70070=School Invitation Note
+context_70071=[Meng Guang the Suzhou Tavern Owner] prepared many new year goods for those lonely elders, but he is busying with the tavern matters, so please help him to deliver the goods.
+context_70072=[Meng Guang the Suzhou Tavern Owner] prepared many new year goods for those lonely elders, but he is busying with the tavern matters, so please help him to deliver the goods.
+context_70073=[Meng Guang the Suzhou Tavern Owner] prepared many new year goods for those lonely elders, but he is busying with the tavern matters, so please help him to deliver the goods.
+context_70074=[Meng Guang the Suzhou Tavern Owner] prepared many new year goods for those lonely elders, but he is busying with the tavern matters, so please help him to deliver the goods.
+target_70071=Send the new year goods prepared by Meng Guang to the old beggar Fan Yitang (583, 450).
+target_70072=Send the new year goods prepared by Meng Guang to the old widow Xu Yun (540, 429).
+target_70073=Send the new year goods prepared by Meng Guang to the Study Master Yan Lun (471, 433).
+target_70074=Send the new year goods prepared by Meng Guang to the drunkard Xie Guangtian (621, 420).
+title_70071=Help the Old and the Poor (1)
+title_70072=Help the Old and the Poor (2)
+title_70073=Help the Old and the Poor (3)
+title_70074=Help the Old and the Poor (4)
+context_70075=New year presents fine gifts. During the event, you can claim a Spring Festival Large Gift Pack at Lin Liang the Event Ambassador.
+context_70076=New year brings new look. During the event, you can claim a New Year at Lin Liang the Event Ambassador everyday if you've reach Realized Potential.
+context_70077=During the event, you can claim Colorful Holiday Quest (1) at Lin Liang the Event Ambassador everyday. After completing you will get 1 Spring Festival Celebrating Token.
+context_70078=During the event, you can claim Colorful Holiday Quest (2) at Lin Liang the Event Ambassador everyday. After completing you will get 1 Spring Festival Return Token.
+target_70075=Claim Spring Festival Large Gift Pack at Lin Liang the Event Ambassador.
+target_70076=During the event, you can claim a New Year at Lin Liang the Event Ambassador everyday if you've reach Realized Potential.
+target_70077=Claim Colorful Holiday Quest at Lin Liang the Event Ambassador. After completing you will get Spring Festival Celebrating Token (Only VIP players can accept).
+target_70078=Claim Colorful Holiday Quest (2) at Lin Liang the Event Ambassador. After completing you will get Spring Festival Return Token (Only VIP players can accept).
+title_70075=Chicken Year presents surprise gifts.
+title_70076=New Years Red Pack presents big gifts.
+title_70077=Colorful Holiday Quest (1)
+title_70078=Colorful Holiday Quest (2)
+context_70079=During the event, you can claim a Term Begin Sign-in Pack at Yan Lun the Suzhou Study Master (471, 434).
+context_70080=During the event, VIP players who have reached Untapped Potential can claim a Student Gift Pack at Yan Lun the Suzhou Study Master (471, 434)
+target_70079=Claim a Term Begin Sign-in Pack at Yan Lun the Suzhou Study Master.
+target_70080=Claim a Student Gift Pack at Yan Lun the Suzhou Study Master.
+title_70079=Sign-in at term beginning and claim the rewards.
+title_70080=Enter school and claim rewards.
+CanAcceptMenu_70081=<font face="Default" color="#ffffff" >Timeless Beauty (Can accept)</font>
+CompleteMenu_70081=<font face="Default" color="#ffffff" >Timeless Beauty (Can be summited)</font>
+accept_70081_1=<font face="Default" color="#ffffff" >The festival has arrived. I've prepared some gifts for you the beauties. Hope you like.</font>
+complete_70081=<font face="Default" color="#ffffff" >Here is your gift.</font>
+context_70081=The Women's Day is coming, and I've prepared some gifts for you the beauties. Don't forget to claim them.
+menu_70081_1=<font face="Default" color="#ffffff" >I like it.</font>
+submit_70081=<font face="Default" color="#ffffff" >Thank you, have a happy holiday.</font>
+target_70081=Timeless Beauty
+title_70081=Miss No.1
+context_70083=Trouble Rising Again quest are added to increase your might. After completing the corresponding quest you will get Trouble Rising Again Certificate. You can exchange for rewards such as school reversal meridian items (level 1-180), 3000000 Cultivation Perfusion Pack, 1500000 Cultivation Pack and so on with the certificate at Suzhou (472, 314) Fan Hongju.
+target_70083=Complete Trouble Rising Again series quest.
+title_70083=Trouble Rising Again
+CanAcceptMenu_70084=<font face="Default" color="#ffffff" >Don’t worry. I’ll help you to find the kite. </font>
+CompleteMenu_70084=<font face="Default" color="#ffffff" >Look, what's this?</font>
+accept_70084_1=<font face="Default" color="#ffffff" >Suzhou is so windy today, and I can't find my kite.</font>
+complete_70084=<font face="Default" color="#ffffff" >My kite, thank you! I have some Apricot Blossom Alcohol, please take it as the reward.</font>
+context_70084=A shepherd boy came to Suzhou from Apricot Blossom Village with some fine Apricot Blossom Alcohol, but now he seems to be in trouble.
+menu_70084_1=<font face="Default" color="#ffffff" >Don't be upset. I'll help you with it.</font>
+submit_70084=<font face="Default" color="#ffffff" >Okay, thank you, little boy.</font>
+target_70084=Help the shepherd boy to find back his kite.
+title_70084=Where to Find Apricot Blossom Alcohol
+title_70401=Ruined Valley Worship
+

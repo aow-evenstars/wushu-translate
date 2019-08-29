@@ -2509,10 +2509,6 @@ next_82=找<a href="findnpc_new,city02,FuncNpcTianti" style="HLStype1">天梯擂
 submit_82=<font face="Default" color="#ffffff" >大人</font><font face="Default" color="#ffffff" >，我回來了</font><font face="Default" color="#ffffff" >。</font>
 target_82=天梯擂台可以從我的江湖中選擇「天梯擂台」進入
 title_82=每日天梯
-CanAcceptMenu_83=<font face="Default" color="#ffffff" >夏日江湖之爭鬥</font>
-CanAcceptMenu_84=<font face="Default" color="#ffffff" >夏日江湖之歷練</font>
-CanAcceptMenu_85=<font face="Default" color="#ffffff" >夏日江湖之修行</font>
-CanAcceptMenu_86=<font face="Default" color="#ffffff" >夏日江湖之挑戰</font>
 CompleteMenu_83=<font face="Default" color="#ffffff" >任務完成</font>
 CompleteMenu_84=<font face="Default" color="#ffffff" >完成任務</font>
 CompleteMenu_85=<font face="Default" color="#ffffff" >完成任務</font>
@@ -2525,10 +2521,6 @@ complete_83=<font face="Default" color="#ffffff" >這是獎勵。</font>
 complete_84=<font face="Default" color="#ffffff" >這是獎勵</font>
 complete_85=<font face="Default" color="#ffffff" >這是獎勵。</font>
 complete_86=<font face="Default" color="#ffffff" >這是獎勵</font>
-context_83=活動期間內，每日可前往蘇州（423.794）、成都（923.551）寧九徽（江湖客）處接取活動任務「夏日江湖之爭鬥」
-context_84=活動期間內，每日可前往蘇州（423.794）、成都（923.551）寧九徽（江湖客）處接取活動任務「夏日江湖之歷練」
-context_85=活動期間內，每日可前往蘇州（423.794）、成都（923.551）寧九徽（江湖客）處接取活動任務「夏日江湖之修行」
-context_86=活動期間內，每日可前往蘇州（423.794）、成都（923.551）寧九徽（江湖客）處接取活動任務「夏日江湖之挑戰」
 menu_83_1=<font face="Default" color="#ffffff" >吾願前往</font><font face="Default" color="#ffffff" >。</font>
 menu_84_1=<font face="Default" color="#ffffff" >吾願前往。</font>
 menu_85_1=<font face="Default" color="#ffffff" >吾願前往</font><font face="Default" color="#ffffff" >。</font>
@@ -2545,10 +2537,6 @@ target_83=擊殺任意一名血仇1次
 target_84=挫敗任意一個勢力
 target_85=團練疲勞達到100%(達到100%後不能退出，需要等團練全部結束)且授業進度達到100%
 target_86=通關1次任意難度的禁地
-title_83=夏日江湖之爭鬥
-title_84=夏日江湖之歷練
-title_85=夏日江湖之修行
-title_86=夏日江湖之挑戰
 CanAcceptMenu_87=<font face="Default" color="#ffffff" >武慶挑戰（西域）</font>
 CanAcceptMenu_88=<font face="Default" color="#ffffff" >武慶挑戰（收集）</font>
 CanAcceptMenu_89=<font face="Default" color="#ffffff" >武慶挑戰（北原）</font>
@@ -2731,4 +2719,26 @@ target_339=將聶震救出血刀堂
 target_342=將夢道人救出血刀堂
 accept_43_1=<font face="Default" color="#ffffff" >峨眉祖师嫉恶如仇、济世扶平，当真称得上女中豪杰，你若用心修炼，假以时日必成大器。</font>
 context_43=峨眉乃当年祖师所创立，祖师嫉恶如仇、济世扶平，当真称得上女中豪杰，你若用心修炼，假以时日必成大器。
+CompleteMenu_98=<font face="Default" color="#ffffff" >任務完成</font>
+accept_98_1=<font face="Default" color="#ffffff" >參與並且取得一次戰場的勝利</font>
+complete_98=<font face="Default" color="#ffffff" >這是獎勵</font>
+next_98=找蘇州（423.794）、成都（923.551）寧九徽
+submit_98=<font face="Default" color="#ffffff" >大俠，我回來了</font>
+target_98=單人報名參加戰場並勝利後完成任務（沐雲莊戰場或者古墓戰場均可）
+menu_98_1=<font face="Default" color="#ffffff" >吾願前往</font>
+CanAcceptMenu_83=<font face="Default" color="#ffffff" >勤學之龍爭虎鬥</font>
+CanAcceptMenu_84=<font face="Default" color="#ffffff" >勤學之江湖歷練</font>
+CanAcceptMenu_85=<font face="Default" color="#ffffff" >勤學之勤業修行</font>
+CanAcceptMenu_86=<font face="Default" color="#ffffff" >勤學之禁地挑戰</font>
+CanAcceptMenu_98=<font face="Default" color="#ffffff" >勤學之戰場揚威</font>
+context_83=活動期間內，每日可前往蘇州（423.794）、成都（923.551）寧九徽（江湖客）處接取活動任務「勤學之龍爭虎鬥」
+context_84=活動期間內，每日可前往蘇州（423.794）、成都（923.551）寧九徽（江湖客）處接取活動任務「勤學之江湖歷練」
+context_85=活動期間內，每日可前往蘇州（423.794）、成都（923.551）寧九徽（江湖客）處接取活動任務「勤學之勤業修行」
+context_86=活動期間內，每日可前往蘇州（423.794）、成都（923.551）寧九徽（江湖客）處接取活動任務「勤學之禁地挑戰」
+context_98=活動期間內，每日可前往蘇州（423.794）、成都（923.551）寧九徽（江湖客）處接取活動任務「勤學之戰場揚威」
+title_83=勤學之龍爭虎鬥
+title_84=勤學之江湖歷練
+title_85=勤學之勤業修行
+title_86=勤學之禁地挑戰
+title_98=勤學之戰場揚威
 

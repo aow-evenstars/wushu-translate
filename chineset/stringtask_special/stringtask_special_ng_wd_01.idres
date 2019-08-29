@@ -392,12 +392,9 @@ interactinfo_80540=金針沈家的口信也帶到了，接下來還是先去<a h
 interactinfo_80541=此時徐家莊眾人的注意力都在外面，不如進去找找<a href="findnpc_new,city05,Event_5nei_z2_55569" style="HLStype1">連青城</a>
 interactinfo_80542=<a href="findnpc_new,city05,NPC_5nei_z2_lqcbb" style="HLStype1">連青城</a>一定就在附近，再找找
 interactinfo_80543=擊敗看守後去追<a href="findnpc_new,city05,Gather_5nei_z2_ywt" style="HLStype1">連青城</a>
-interactinfo_80544=尋找桃花島<a href="findnpc_new,city02,Event_5nei_z2_55570" style="HLStype1">入口</a>，盡快將信都送出去
-interactinfo_80545=前往<a href="findnpc_new,city02,Event_5nei_z2_55571" style="HLStype1">寒山寺</a>打聽桃花島
 interactinfo_80546=答應<a href="findnpc_new,city02,NPC_5nei_z2_sq1" style="HLStype1">十缺</a>的條件
 interactinfo_80547=將陽闕交給<a href="findnpc_new,city02,NPC_5nei_z2_sq1" style="HLStype1">十缺老人</a>，然後帶著江江離開此處
 interactinfo_80548=前往君子堂尋找<a href="findnpc_new,school03,Event_5nei_z2_55575" style="HLStype1">慕淑子</a>
-interactinfo_80549=回答<a href="findnpc_new,school03,NPC_5nei_z2_th" style="HLStype1">桃花島管事</a>的問題
 interactinfo_80550=站到<a href="findnpc_new,groupscene008_5nei,Event_5nei_z2_55577" style="HLStype1">一邊</a>，看看燕雙行要做什麼(如不在燕雙行身邊可以尋找<a href="findnpc_new,city02,5nei_gbmdt001" style="HLStype1">李立</a>,讓他幫助你前往華山。若有急事需要離開，請點擊燕雙行的坐騎)
 okmenu_80526=<font face="Default" color="#ffffff" >（想必葉驚樓躲在此處時還是用的連青城的身份）一切都好，這是他委託我交給你的東西。</font>
 okmenu_80532=<font face="Default" color="#ffffff" >就在後山。</font>
@@ -562,7 +559,6 @@ storyinfo_80563=詢問<a href="findnpc_new,city02,NPC_5nei_z2_fr" style="HLStype
 storyinfo_80564=找到<a href="findnpc_new,city02,NPC_5nei_z2_jj" style="HLStype1">江江</a>
 storyinfo_80565=詢問<a href="findnpc_new,city02,NPC_5nei_z2_sq1" style="HLStype1">十缺</a>如何才能放了小童
 storyinfo_80566=查看<a href="findnpc_new,city02,NPC_5nei_z2_cx1" style="HLStype1">楚笑</a>傷勢
-storyinfo_80569=將燕雙行的口信帶給<a href="findnpc_new,school03,NPC_5nei_z2_th" style="HLStype1">桃花島管事</a>
 storyinfo_80570=向<a href="findnpc_new,school03,NPC_5nei_z2_msz" style="HLStype1">慕淑子</a>解釋你來此處的緣由
 storyinfo_80571=<a href="findnpc_new,school03,NPC_5nei_z2_xjk" style="HLStype1">邢君可</a>居然也在這裡
 storyinfo_80572=聽<a href="findnpc_new,school03,NPC_5nei_z2_cn" style="HLStype1">醜女</a>訴說
@@ -649,4 +645,26 @@ useiteminfo_80509=使用<a href="TASK_ITEM,useitem_5nei_z2_ct" style="HLStype1">
 story_menu_80567=<font face="Default" color="#ffffff" >拜見四小姐！</font><font face="Default" color="#ffffff" >在下有要事需要拜見百獸莊管事之人，既然四小姐在此，我想必有大人物陪伴吧！</font>
 storyinfo_80567=拜見百獸莊<a href="findnpc_new,school03,NPC_5nei_z2_sxj" style="HLStype1">四小姐</a>
 storyinfo_80568=將燕雙行的口信帶給<a href="findnpc_new,school03,NPC_5nei_z2_ws" style="HLStype1">百獸莊管事</a>
+interactinfo_80544=尋找四月島<a href="findnpc_new,city02,Event_5nei_z2_55570" style="HLStype1">入口</a>，盡快將信都送出去
+interactinfo_80545=前往<a href="findnpc_new,city02,Event_5nei_z2_55571" style="HLStype1">寒山寺</a>打聽四月島
+interactinfo_80549=回答<a href="findnpc_new,school03,NPC_5nei_z2_th" style="HLStype1">四月島管事</a>的問題
+storyinfo_80569=將燕雙行的口信帶給<a href="findnpc_new,school03,NPC_5nei_z2_th" style="HLStype1">第一軒管事</a>
+DialogID_80552=<font face="Default" color="#ffffff" >哦？這...這是抓到了？</font>
+SubmitNpcEx_55580=與<a href="findnpc_new,city02,yxhd_dy_xbt1" style="HLStype1">邢捕頭</a>告別
+collectinfo_80518=聽說採花賊最後現身的地方是在盤門附近，或許在那邊可以打聽到消息（487，653）
+hunterinfo_80517=竟然著了他的道，看我如何教訓<a href="findnpc_new,city02,yxhd_dy_chz1" style="HLStype1">他</a>
+interactinfo_80552=將採花賊交給<a href="findnpc_new,city02,yxhd_dy_xbt1" style="HLStype1">邢捕頭</a>
+interactinfo_80553=酒已經喝完，與這個佘大官人交談看看能得到什麼線索！
+okmenu_80552=<font face="Default" color="#ffffff" >邢捕頭，這下你可以安心了！</font>
+story_80577_1=<font face="Default" color="#ffffff" >新年伊始這蘇州便不太平啊，竟有採花賊跑到我的地盤來鬧事！</font><font face="Default" color="#ffffff" >上面給的壓力很大啊，限我三天之內破案。這已經過去兩天了還是頭緒全無！</font>
+story_80577_2=<font face="Default" color="#ffffff" >那就有勞少俠你了！若能捉拿此人，老邢我必有重謝！我看好你哦！</font>
+story_menu_80577=<font face="Default" color="#ffffff" >邢捕頭，何事讓你如此苦惱？！</font>
+storyinfo_80577=向<a href="findnpc_new,city02,yxhd_dy_xbt1" style="HLStype1">邢捕頭</a>詢問案情
+storymenu_80577_1=<font face="Default" color="#ffffff" >何人如此大膽？！邢捕頭請放心，此</font><font face="Default" color="#ffffff" >事</font><font face="Default" color="#ffffff" >就包在我的身上了！</font>
+storymenu_80577_2=<font face="Default" color="#ffffff" >等著我的好消息吧！</font>
+useiteminfo_80510=與<a href="findnpc_new,city02,yxhd_dy_chz" style="HLStype1">佘大官人</a>共飲一壺<a href="TASK_ITEM,useitem_yxhd_dy_01" style="HLStype1">酒</a>
+SubmitNpcEx_55581=照顧牡丹花的工作做完了，看看<a href="findnpc_new,city02,meigui" style="HLStype1">花語夫人</a>還有什麼吩咐
+SubmitNpcEx_55582=詢問<a href="findnpc_new,city02,meigui" style="HLStype1">花語夫人</a>該如何幫助她
+useiteminfo_80511=使用花語夫人給的<a href="TASK_ITEM,useitem_ycsy_dy_01" style="HLStype1">牡丹花肥</a>給花語夫人身邊的牡丹花施肥
+useiteminfo_80512=使用花語夫人給的<a href="TASK_ITEM,useitem_ycsy_dy_02" style="HLStype1">剪刀</a>將花語夫人身邊的牡丹花修繕一番
 

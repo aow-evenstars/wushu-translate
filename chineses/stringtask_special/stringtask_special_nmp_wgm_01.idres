@@ -72,7 +72,6 @@ DialogID_8822={@0:Name}, I have been waiting for you!
 DialogID_8823=I know all about what happened. You really did well this time. Every new disciple goes through this process after joining the Rootless Clan. It is the only way you can grow!
 DialogID_8824=Take the Rootless Clan disciples with you and eradicate Xu Village.
 DialogID_8825=Take the Rootless Clan disciples with you and eradicate Golden Needle Sect.
-DialogID_8826=Take the Rootless Clan disciples with you and eradicate Beast Villa.
 DialogID_8827=I never thought it would end like thi… I cannot hold on much longer!
 DialogID_8828={@0:Name}, did you find the herb?
 DialogID_8829=Go and return quickly.
@@ -144,7 +143,6 @@ SubmitNpcEx_49563=Submit task: <a href="findnpc_new,city03,wgm_glm_017" style="H
 SubmitNpcEx_49564=Submit task: <a href="findnpc_new,school11,wgm_042" style="HLStype1">Zhao Wuji</a>
 SubmitNpcEx_49565=Submit task: <a href="findnpc_new,school11,wgm_042" style="HLStype1">Zhao Wuji</a>
 SubmitNpcEx_49652=Go to Infernal Hall. Meet Headmaster <a href="findnpc_new,school11,wgm_001" style="HLStype1">Wei Wuyan</a> and declare your intentions.
-SubmitNpcEx_49796=Wipe out the Beast Villa
 SubmitNpcEx_49797=Wipe out the Golden Needle Sect
 ZZAnswerText1_9051=Disciples must not kill each other.
 ZZAnswerText1_9052=Disciples must refrain from greed, lust and desire to kill.
@@ -179,7 +177,6 @@ collectinfo_8770=Collect <a href="findnpc_new,," style="HLStype1"></a><font colo
 collectinfo_8771=Collect <a href="findnpc_new,," style="HLStype1"></a><font color="#FFFF00">Recipe: Tai Lake Stir Fry </font><font color="#FF3030">(Time limit: 25 minutes)</font>
 collectinfo_8772=Collect <a href="findnpc_new,," style="HLStype1"></a><font color="#FFFF00">Recipe: Stone Pot Xiaoshan Pheasant </font><font color="#FF3030">(Time limit: 25 minutes)</font>
 collectinfo_8773=Collect <a href="findnpc_new,," style="HLStype1"></a><font color="#FFFF00">Introductory Chinese Medicine (Recipe) </font><font color="#FF3030">(Time limit: 25 minutes)</font>
-collectinfo_8774=Collect <a href="findnpc_new,," style="HLStype1"></a><font color="#FFFF00">Waitai Secret Prescription </font><font color="#FF3030">(Time limit: 25 minutes)</font>
 collectinfo_8775=Collect <a href="findnpc_new,," style="HLStype1"></a><font color="#FFFF00">Golden Prescription </font><font color="#FF3030">(Time limit: 25 minutes)</font>
 collectinfo_8776=Collect <a href="findnpc_new,," style="HLStype1"></a><font color="#FFFF00">The Classics of the Yellow Emperor </font><font color="#FF3030">(Time limit: 25 minutes)</font>
 collectinfo_8777=Collect <a href="findnpc_new,," style="HLStype1"></a><font color="#FFFF00">The Beginners Poison Tome </font><font color="#FF3030">(Time limit: 25 minutes)</font>
@@ -190,24 +187,13 @@ collectinfo_8781=Collect <a href="findnpc_new,," style="HLStype1"></a><font colo
 collectinfo_8782=Collect <a href="findnpc_new,," style="HLStype1">Yuyang Prescription (Recipe)</a><font color="#FFFF00"> </font><font color="#FF3030">(Time limit: 25 minutes)</font>
 collectinfo_8783=Collect <a href="findnpc_new,," style="HLStype1"></a><font color="#FFFF00">Tianxin Prescription </font><font color="#FF3030">(Time limit: 25 minutes)</font>
 collectinfo_8784=Collect <a href="findnpc_new,," style="HLStype1"></a><font color="#FFFF00">Qianji Script </font><font color="#FF3030">(Time limit: 25 minutes)</font>
-collectinfo_8785=Collect <a href="findnpc_new,," style="HLStype1"></a><font color="#FFFF00">Highly-Refined Bruise Removal Pill </font><font color="#FF3030">(Time limit: 25 minutes)</font>
-collectinfo_8786=Collect <a href="findnpc_new,," style="HLStype1"></a><font color="#FFFF00">Highly-Refined Injury-Healing Pills </font><font color="#FF3030">(Time limit: 25 minutes)</font>
-collectinfo_8787=Collect <a href="findnpc_new,," style="HLStype1"></a><font color="#FFFF00">Compound Foxglove Pill </font><font color="#FF3030">(Time limit: 25 minutes)</font>
-collectinfo_8788=Collect <a href="findnpc_new,," style="HLStype1"></a><font color="#FFFF00">Highly-Refined Eight Treasures Pill </font><font color="#FF3030">(Time limit: 25 minutes)</font>
-collectinfo_8789=Collect <a href="findnpc_new,," style="HLStype1"></a><font color="#FFFF00">Highly-Refined Happiness Pill </font><font color="#FF3030">(Time limit: 25 minutes)</font>
-collectinfo_8790=Collect <a href="findnpc_new,," style="HLStype1"></a><font color="#FFFF00">Concentrated White Mosaic Powder</font><font color="#FF3030">(Time limit: 25 minutes)</font>
-collectinfo_8791=Collect <a href="findnpc_new,," style="HLStype1"></a><font color="#FFFF00">Concentrated Sedge Root Potion </font><font color="#FF3030">(Time limit: 25 minutes)</font>
-collectinfo_8792=Collect <a href="findnpc_new,," style="HLStype1"></a><font color="#FFFF00">Dark Cavern Healing Pill </font><font color="#FF3030">(Time limit: 25 minutes)</font>
-collectinfo_8793=Collect <a href="findnpc_new,," style="HLStype1"></a><font color="#FFFF00">Heart-Fortifying Capsules </font><font color="#FF3030">(Time limit: 25 minutes)</font>
 collectinfo_8794=Collect <a href="findnpc_new,," style="HLStype1"></a><font color="#FFFF00">Baisheng Poison </font><font color="#FF3030">(Time limit: 25 minutes)</font>
 collectinfo_8795=Collect <a href="findnpc_new,," style="HLStype1"></a><font color="#FFFF00">Bloody Tome </font><font color="#FF3030">(Time limit: 25 minutes)</font>
 collectinfo_8796=Collect <a href="findnpc_new,," style="HLStype1"></a><font color="#FFFF00">Demonic Tome </font><font color="#FF3030">(Time limit: 25 minutes)</font>
 collectinfo_8797=Collect <a href="findnpc_new,," style="HLStype1"></a><font color="#FFFF00">Evil Dragon Tome </font><font color="#FF3030">(Time limit: 25 minutes)</font>
 collectinfo_8798=Collect <a href="findnpc_new,," style="HLStype1"></a><font color="#FFFF00">Wounding Poison </font><font color="#FF3030">(Time limit: 25 minutes)</font>
-collectinfo_8799=Collect <a href="findnpc_new,," style="HLStype1"></a><font color="#FFFF00">Crippling Poison </font><font color="#FF3030">(Time limit: 25 minutes)</font>
 collectinfo_8800=Collect <a href="findnpc_new,," style="HLStype1"></a><font color="#FFFF00">Killer’s Poison </font><font color="#FF3030">(Time limit: 25 minutes)</font>
 collectinfo_8801=Collect <a href="findnpc_new,," style="HLStype1"></a><font color="#FFFF00">Deadly Poison </font><font color="#FF3030">(Time limit: 25 minutes)</font>
-collectinfo_8802=Collect <a href="findnpc_new,," style="HLStype1"></a><font color="#FFFF00">Thousand Dove Poison Powder </font><font color="#FF3030">(Time limit: 25 minutes)</font>
 collectinfo_8803=Collect <a href="findnpc_new,," style="HLStype1"></a><font color="#FFFF00">Yinwen Poison Powder </font><font color="#FF3030">(Time limit: 25 minutes)</font>
 collectinfo_8804=Collect <a href="findnpc_new,," style="HLStype1"></a><font color="#FFFF00">Vertigo Poison Draught </font><font color="#FF3030">(Time limit: 25 minutes)</font>
 collectinfo_8805=Collect <a href="findnpc_new,," style="HLStype1"></a><font color="#FFFF00">Confusion Poison Powder </font><font color="#FF3030">(Time limit: 25 minutes)</font>
@@ -235,7 +221,6 @@ collectinfo_8826=Collect <a href="findnpc_new,," style="HLStype1"></a><font colo
 collectinfo_8827=Collect <a href="findnpc_new,," style="HLStype1"></a><font color="#FFFF00">"Lodge in Landlord Qiu's at Autumn Night" </font><font color="#FF3030">(Time limit: 25 minutes)</font>
 collectinfo_8828=Collect <a href="findnpc_new,," style="HLStype1"></a><font color="#FFFF00">"Qing Ping Music" </font><font color="#FF3030">(Time limit: 25 minutes)</font>
 collectinfo_8829=Collect <a href="findnpc_new,," style="HLStype1"></a><font color="#FFFF00">"View of the Sea" </font><font color="#FF3030">(Time limit: 25 minutes)</font>
-collectinfo_8830=Collect <a href="findnpc_new,," style="HLStype1"></a><font color="#FFFF00">"Preface of Gathering at Lanting" (Chapter 1) </font><font color="#FF3030">(Time limit: 25 minutes)</font>
 collectinfo_8831=Collect <a href="findnpc_new,," style="HLStype1"></a><font color="#FFFF00">"Preface of Gathering at Lanting" (Chapter 3) </font><font color="#FF3030">(Time limit: 25 minutes)</font>
 collectinfo_8832=Collect <a href="findnpc_new,," style="HLStype1"></a><font color="#FFFF00">"The Seagull Forgets Deception" Coda </font><font color="#FF3030">(Time limit: 25 minutes)</font>
 collectinfo_8833=Collect <a href="findnpc_new,," style="HLStype1"></a><font color="#FFFF00">"Pei Lan" Coda </font><font color="#FF3030">(Time limit: 25 minutes)</font>
@@ -261,7 +246,6 @@ collectinfo_8852=Collect <a href="findnpc_new,," style="HLStype1"></a><font colo
 collectinfo_8853=Collect <a href="findnpc_new,," style="HLStype1"></a><font color="#FFFF00">Taihua Single Blade Collection </font><font color="#FF3030">(Time limit: 25 minutes)</font>
 collectinfo_8854=Collect <a href="findnpc_new,," style="HLStype1"></a><font color="#FFFF00">Hundred Twin Blades Collection </font><font color="#FF3030">(Time limit: 25 minutes)</font>
 collectinfo_8855=Collect <a href="findnpc_new,," style="HLStype1"></a><font color="#FFFF00">Taihua Twin Blades Collection </font><font color="#FF3030">(Time limit: 25 minutes)</font>
-collectinfo_8856=Collect <a href="findnpc_new,," style="HLStype1"></a><font color="#FFFF00">Hundred Weapon Single Sword Collection </font><font color="#FF3030">(Time limit: 25 minutes)</font>
 collectinfo_8857=Collect <a href="findnpc_new,," style="HLStype1"></a><font color="#FFFF00">Taihua Single Sword Collection </font><font color="#FF3030">(Time limit: 25 minutes)</font>
 collectinfo_8858=Collect <a href="findnpc_new,," style="HLStype1"></a><font color="#FFFF00">Hundred Twin Swords Collection </font><font color="#FF3030">(Time limit: 25 minutes)</font>
 collectinfo_8859=Collect <a href="findnpc_new,," style="HLStype1"></a><font color="#FFFF00">Taihua Twin Swords Collection </font><font color="#FF3030">(Time limit: 25 minutes)</font>
@@ -287,7 +271,6 @@ collectinfo_8878=Collect <a href="findnpc_new,," style="HLStype1"></a><font colo
 collectinfo_8879=Collect <a href="findnpc_new,," style="HLStype1"></a><font color="#FFFF00">Osmanthus </font><font color="#FF3030">(Time limit: 25 minutes)</font>
 collectinfo_8880=Collect <a href="findnpc_new,," style="HLStype1"></a><font color="#FFFF00">Pine </font><font color="#FF3030">(Time limit: 25 minutes)</font>
 collectinfo_8881=Collect <a href="findnpc_new,," style="HLStype1"></a><font color="#FFFF00">Mulberry </font><font color="#FF3030">(Time limit: 25 minutes)</font>
-collectinfo_8882=Collect <a href="findnpc_new,," style="HLStype1">mint</a><font color="#FFFF00">.</font><font color="#FF3030">(Time limit: 25 minutes)</font>
 collectinfo_8883=Collect <a href="findnpc_new,," style="HLStype1"></a><font color="#FFFF00">Kuqing Flower </font><font color="#FF3030">(Time limit: 25 minutes)</font>
 collectinfo_8884=Collect <a href="findnpc_new,," style="HLStype1"></a><font color="#FFFF00">Wormwood </font><font color="#FF3030">(Time limit: 25 minutes)</font>
 collectinfo_8885=Collect <a href="findnpc_new,," style="HLStype1"></a><font color="#FFFF00">White Rhizome </font><font color="#FF3030">(Time limit: 25 minutes)</font>
@@ -295,9 +278,7 @@ collectinfo_8886=Collect <a href="findnpc_new,," style="HLStype1">gaultheria. </
 collectinfo_8887=Collect <a href="findnpc_new,," style="HLStype1"></a><font color="#FFFF00">Heartbroken Flower </font><font color="#FF3030">(Time limit: 25 minutes)</font>
 collectinfo_8888=Collect <a href="findnpc_new,," style="HLStype1"></a><font color="#FFFF00">Du Yiwei </font><font color="#FF3030">(Time limit: 25 minutes)</font>
 collectinfo_8889=Collect <a href="findnpc_new,," style="HLStype1"></a><font color="#FFFF00">Jade Cloth </font><font color="#FF3030">(Time limit: 25 minutes)</font>
-collectinfo_8890=Collect <a href="findnpc_new,," style="HLStype1"></a><font color="#FFFF00">Pale Silk </font><font color="#FF3030">(Time limit: 25 minutes)</font>
 collectinfo_8891=Collect <a href="findnpc_new,," style="HLStype1"></a><font color="#FFFF00">Double Sided Brocade </font><font color="#FF3030">(Time limit: 25 minutes)</font>
-collectinfo_8892=Collect <a href="findnpc_new,," style="HLStype1"></a><font color="#FFFF00">Copper </font><font color="#FF3030">(Time limit: 25 minutes)</font>
 collectinfo_8893=Collect <a href="findnpc_new,," style="HLStype1"></a><font color="#FFFF00">Lead </font><font color="#FF3030">(Time limit: 25 minutes)</font>
 collectinfo_8894=Collect <a href="findnpc_new,," style="HLStype1"></a><font color="#FFFF00">Silver </font><font color="#FF3030">(Time limit: 25 minutes)</font>
 collectinfo_8895=Collect <a href="findnpc_new,," style="HLStype1"></a><font color="#FFFF00">Yellow Copper </font><font color="#FF3030">(Time limit: 25 minutes)</font>
@@ -307,7 +288,6 @@ collectinfo_8898=Collect <a href="findnpc_new,," style="HLStype1"></a><font colo
 collectinfo_8899=Collect <a href="findnpc_new,," style="HLStype1"></a><font color="#FFFF00">Hetian Sheep Short Rib </font><font color="#FF3030">(Time limit: 25 minutes)</font>
 collectinfo_8900=Collect <a href="findnpc_new,," style="HLStype1"></a><font color="#FFFF00">Yak Hamstrings </font><font color="#FF3030">(Time limit: 25 minutes)</font>
 collectinfo_8901=Collect <a href="findnpc_new,," style="HLStype1"></a><font color="#FFFF00">Yak Fur </font><font color="#FF3030">(Time limit: 25 minutes)</font>
-collectinfo_8902=Collect <a href="findnpc_new,," style="HLStype1"></a><font color="#FFFF00">Thin Goat Fur </font><font color="#FF3030">(Time limit: 25 minutes)</font>
 collectinfo_8903=Collect <a href="findnpc_new,," style="HLStype1"></a><font color="#FFFF00">Viper Skin </font><font color="#FF3030">(Time limit: 25 minutes)</font>
 collectinfo_8904=Collect <a href="findnpc_new,," style="HLStype1"></a><font color="#FFFF00">Trout </font><font color="#FF3030">(Time limit: 25 minutes)</font>
 collectinfo_8905=Collect <a href="findnpc_new,," style="HLStype1"></a><font color="#FFFF00">Black Dragon Fish </font><font color="#FF3030">(Time limit: 25 minutes)</font>
@@ -337,7 +317,6 @@ convoyinfo_8751=Protect <font color="#FF3030">Zeng Feng </font>from the assassin
 convoyinfo_8752=Protect <font color="#FF3030">Ye Junyi </font>from the assassins
 convoyinfo_8753=Protect <font color="#FF3030">Zhang Zhenyi </font>from the assassins
 convoyinfo_8754=Protect <font color="#FF3030">Lei Yu </font>from the assassins
-convoyinfo_8755=Protect <font color="#FF3030">Zhang Peng </font>from the assassins
 convoyinfo_8756=Protect <font color="#FF3030">Dong Shuming </font>from the assassins
 convoyinfo_8761=Protect Dongfang Lin.
 hunterinfo_8750=Defeat the <a href="findnpc_new,city01,wgm_028" style="HLStype1">guard.</a>
@@ -353,9 +332,6 @@ hunterinfo_8762=Slay the besieged bandit leader Lei Ming.
 hunterinfo_8763=Slay the besieged Lei Ming guards.
 hunterinfo_8764=Defeat all of the bandits who have suddenly appeared nearby.
 hunterinfo_8766=Go to the garden east of the city and assassinate <a href="findnpc_new,city02,wgm_zd_010" style="HLStype1">Yan Nansheng</a>
-hunterinfo_8767=Patrol around the jail.
-hunterinfo_8768=Kill any suspicious person on sight
-hunterinfo_8769=<br>Enter the task scene around Rootless Clan (-5,189). Use special skill to capture the fugitive. You can leave the task scene at (-17,214).
 hunterinfo_8800=Pretend to fight with the disguised <a href="findnpc_new,city03,wgm_task_glm_001" style="HLStype1">Feng Changhen</a> to gain trust.
 hunterinfo_8801=Defeat <a href="findnpc_new,school01,monm010400" style="HLStype1">Beggars' Sect Spy </a>and spread rumors in Beggars' Sect, and prevent the Beggars' Sect from ruining the plan.
 hunterinfo_8802=Defeat <a href="findnpc_new,school01,monm010402" style="HLStype1">Beggar's Sect Elder </a>and spread rumors in Beggars' Sect, and prevent the Beggars' Sect from ruining the plan.
@@ -366,7 +342,6 @@ hunterinfo_8806=Defeat <a href="findnpc_new,school01,wgm_task_glm_005" style="HL
 hunterinfo_8807=Defeat <a href="findnpc_new,school01,wgm_task_glm_006" style="HLStype1">soldier</a>
 hunterinfo_8808=Ambushed by <a href="findnpc_new,city03,wgm_task_glm_007" style="HLStype1">assassins </a>who suddenly appeared! Get rid of them!
 hunterinfo_8809=Violators of the clan's rules must be dealt with swiftly! Death shall come to <a href="findnpc_new,school11,wgm_task_glm_008" style="HLStype1">Xiao Lizi.</a>
-hunterinfo_8810=Capture the <a href="findnpc_new,school11,npc_wgm_cc_001" style="HLStype1">the Rootless Clan traitor.</a> Lower the health of the traitor down to <a href="findnpc_new,school11,npc_wgm_cc_001" style="HLStype1">20%</a>, and then use the <a href="TASK_ITEM,item_wgm_cc_l8810" style="HLStype1">capturing tool</a> to capture him.
 hunterinfo_8811=The other disciples are now here! Go together to capture this traitor<a href="findnpc_new,city03,npc_wgm_cc_015" style="HLStype1">Feng Changhen</a>. You must attack relentlessly with the other disciples, or you will fail the task.
 hunterinfo_8820=Defeat the <a href="findnpc_new,school01,monm010401" style="HLStype1">Beggar's Sect Disciple</a> and spread rumors in the Beggars' Sect to prevent the Beggars' Sect from ruining the plan!
 hunterinfo_8921=Do not let <a href="findnpc_new,city03,NPC_wgm_dy_wrlx" style="HLStype1">Wu Rui</a> leak any information. Silence her. (Wu Rui is at the jail.)
@@ -447,12 +422,8 @@ interactinfo_8820=Return to the South Gate in Suzhou to meet <a href="findnpc_ne
 interactinfo_8821=Follow the instructions given by Feng Changhen and go to the southern wilds of Suzhou to find <a href="findnpc_new,city02,wgm_063" style="HLStype1">Yan Lingyun</a>
 interactinfo_8822=Go to Songhe Tavern and meet <a href="findnpc_new,city02,wgm_065" style="HLStype1">Yan Lingyun</a>
 interactinfo_8823=Return to the Rootless Clan and report the details of the task to <a href="findnpc_new,school11,wgm_042" style="HLStype1">Zhao Wuji</a>.
-interactinfo_8824=Eradicate Xu Village. <br>Can enter from any of the tasks nearby Chengdu (666,292) and leave from any of the tasks in Chengdu (696,291).
-interactinfo_8825=Eradicate Golden Needle Sect. <br>Can enter from any of the tasks nearby Chengdu (193,745) and leave from any of the tasks in Chengdu (186,719).
-interactinfo_8826=Eradicate Beast Villa. <br>Can enter from any of the tasks nearby Chengdu (583,760) and leave from any of the tasks in Chengdu (558,719).
 interactinfo_8827=Speak to <a href="findnpc_new,city02,wgm_066" style="HLStype1">Yan Lingyun</a>.
 interactinfo_8828=Go out and harvest <a href="findnpc_new,city02,Gather_wgm_zx003" style="HLStype1">Yinyang Grass.</a> This herb grows in unique locations, and can normally be found on sheer cliff faces.
-interactinfo_8829=Go to the path between Jinling and Suzhou and capture and bring back to the Rootless Clan jail (The Rootless Clan -29,184). <br>Enter the task scene around Jinling (409,1881). Use special skill to capture the Fugitive. You can leave the task scene around Jinling (454,1864).
 interactinfo_8880=Speak to <a href="findnpc_new,city03,wgm_glm_001" style="HLStype1">Feng Changhen</a>.
 interactinfo_8881=Go to the <a href="findnpc_new,school01,Event_npc_wgm_glm_49553" style="HLStype1">treasure vault</a> and hide the imperial steel inside. (Remember that this disguise is not foolproof! Don't get too close to the Royal Guards, or you will fail the task.)
 interactinfo_8882=Do not be discovered when leaving, otherwise you will be exposed and fail the task. Reply to <a href="findnpc_new,school01,wgm_glm_004" style="HLStype1">Feng Changhen</a>
@@ -484,7 +455,6 @@ interactinfo_8953=I have no idea where to start investigating. Let me go see if 
 interactinfo_8954=This is no small matter. These cloth scraps and silver pieces might have been left behind intentionally by the informer when he was killed! Could a spy be involved? I should return with haste to report this to <a href="findnpc_new,school11,wgm_007" style="HLStype1">Lord Li</a>.
 interactinfo_8955=Ah? I really did see Elder Brother Feng here just now. How could he have disappeared? Never mind, I still need to report back to the clan. Let me go to <a href="findnpc_new,city03,Event_npc_wgm_cc_8955" style="HLStype1">the place where I was ambushed</a> to see if I can find some evidence that will clear my name.
 interactinfo_8956=Spreading a rumor is a way to catch the infiltrator. I will go to the <a href="findnpc_new,school11,Event_npc_wgm_cc_8956" style="HLStype1">courtyard </a>and see if I can catch him.
-interactinfo_8957=Capture the traitor and take him back to <a href="findnpc_new,school11,wgm_001" style="HLStype1">Lord Wei</a>. Let the clan decide what should be done.
 interactinfo_8958=It appears that the Traitor has nothing useful to say. Since our "bait" is already on the hook, the "big fish" should be following us in no time. I might as well go <a href="findnpc_new,school11,Event_npc_wgm_cc_8958" style="HLStype1">take a look around</a>. Perhaps I will discover something useful.
 interactinfo_8959=Speak to <a href="findnpc_new,school11,wgm_044" style="HLStype1">Manager Wu</a> of the Treasure House about the suspicious clues around the treasure jars.
 interactinfo_8960=Reveal Feng Changhen's real identity to <a href="findnpc_new,school11,wgm_001" style="HLStype1">Lord Wei</a>. This issue can only be resolved by the clan's leader.
@@ -610,12 +580,10 @@ quest_menu_8750=Answer the question.
 quest_menu_8751=<font face="Default" color="#ffffff" >Second tenet.</font>
 quest_menu_8752=<font face="Default" color="#ffffff" >Third tenet.</font>
 questioninfo_8750=Answer <a href="findnpc_new,school11,wgm_042" style="HLStype1">Zhao Wuji's </a>questions.
-specialinfo_755=Successfully complete one faction challenge for the <font color="#FF3030">Chengdu's Huanhua Sword Sect</font>.
 specialinfo_756=Successfully complete one faction challenge for the <font color="#FF3030">Qiandeng Town's Tianxiang Tea Forest</font>.
 specialinfo_757=Successfully complete one faction challenge for the <font color="#FF3030">Chengdu's Golden Needle Sect</font>.
 specialinfo_758=Successfully complete one faction challenge for the <font color="#FF3030">Chengdu's Xu Village</font>.
 specialinfo_759=Successfully complete one faction challenge for the <font color="#FF3030">Yanyu Villa's Salt Gang</font>.
-specialinfo_760=Successfully complete one faction challenge for the <font color="#FF3030">Beggars' Sect's Beast Villa</font>.
 specialinfo_761=Successfully complete one faction challenge for the <font color="#FF3030">Jiming Posthouse's Evil Tiger Mountain Stronghold</font>.
 specialinfo_762=Successfully complete one faction challenge for the <font color="#FF3030">Luoyang's Baodu Stronghold</font>.
 specialinfo_763=Successfully complete one faction challenge for the <font color="#FF3030">Tangmen's Heaven Treasure Stronghold</font>.
@@ -646,8 +614,6 @@ story_8757_1=Immortals know not the taste of wine! They only know of fragrance, 
 story_8757_2=Hmmm. But Younger Brother is a mortal who really understands. Ah, such fine wine in front of me! It would be a shame if we didn't drink a cup! Come, have a drink with me! What do you say?
 story_8757_3=<font face="Default" color="#ffffff" >Bah! Rules are only to keep stupid people in line. Don't take everything so seriously! Wine is my lifeblood! If I had to go a single day without wine, I would surely die! Well, if you insist, then forget about it. </font><font face="Default" color="#ffffff" >I will not</font><font face="Default" color="#ffffff" > force you</font><font face="Default" color="#ffffff" >.</font>
 story_8758_1=If you enter the Rootless Clan alive, it will be hard to return dead. There is no going back. I hope you have not regretted your decision.
-story_8758_2=<font face="Default" color="#ffffff" >Hmmm, you are a smart one. I will not waste my time on words. In the Rootless Clan, we punish wrongdoings and reward good deeds. The Rootless Clan's unsurpassable Internal Mental Skill is Deviant Vampire. Deviant Vampire was the Imperial family's secret Internal Skill until it came under the control of the Rootless Clan. The Internal Skill requires that you "go against the grain and practice in reverse; break free and be reborn; use the power of heaven and earth to supplement the body; and absorb the forces of Nature into your body to generate Chi and strength from absorbing anything of this world". Masters of this skill can change the color of the sky, generate a substantial amount of internal Chi, and possess a killing will stronger than anything else. Nothing can survive in its wake. </font>
-story_8758_3=<font face="Default" color="#ffffff" >Based on the rules, you have earned the right to study the Deviant Vampire. Unholy Swordsmanship is our primary attack skill. The secret of this method is that he who is fast will not be broken. I am not going to say more. You will understand after you study it</font><font face="Default" color="#ffffff" >. </font>
 story_8759_1=Seek comfort from the wine cup. {@0:Name}, it would be a pity if you didn't have a drink! Come, come! Sit down and rest a while. Just wait for me to finish this drink, will you?
 story_8759_2=What's the rush? Why not sit and listen to the whole story from beginning to end?
 story_8759_3=You know the founding and way of survival of the Rootless Clan. Under the rule of the Emperor, we have to find a niche in order to survive. It has taken considerable skill to survive for as long as we have.  I will not go in to the details, but currently there is some unrest with the Imperial power, now is the best time for the Rootless Clan to grow and develop. The imperial court is currently divided between Prince Zhu Gaochi's Huaixi Gang and Prince Zhu Gaoxu's Zhe Gang. The two have been fighting back and forth out in the open and behind closed doors for years. The military officials back Zhu Gaoxu, while the Royal Guards, which betrayed the court long ago, back Zhu Gaochi. But then there is Zhu Gaosui, who has been holding back, biding his time. Nobody knows his real power. Now East Chamber has been wavering between the three princes, Zhu Gaochi, Zhu Gaoxu, and Zhu Gaosui. If the Rootless Clan is to take advantage from this situation, any obstacles in the way must be removed...and these three princes are the source of the obstacles.
@@ -714,9 +680,7 @@ story_8997_1=<font face="Default" color="#ffffff" >His Highness is willing to he
 story_8997_2=<font face="Default" color="#ffffff" >From now on, as a disciple of the Rootless Clan, your most important concern is the business of the clan! The Rootless Clan originated from within the Imperial Court, but we do not have as many rules as the Court. In Jianghu, everything comes down to strength. Those who obey me live on and thrive—those who defy me suffer and die! </font>
 story_8997_3=<font face="Default" color="#ffffff" >Even so, you must keep a low profile and watch your step. Don't throw away your life over a petty matter.  If you do your tasks properly, you will enjoy endless riches for the rest of your life. Our clan's martial arts skills are powerful and profound. If you are willing to work hard, you will reach the top </font><font face="Default" color="#ffffff" >sooner or later</font><font face="Default" color="#ffffff" >!</font>
 story_8998_1=<font face="Default" color="#ffffff" >Ha ha! What you experienced just now is the Realm of the Sword Demon! If you have joined the Rootless Clan, then you have chosen the sword, and chosen to kill. </font><font face="Default" color="#ffffff" >Do you understand the Way of Unholy Swordsmanship?</font>
-story_8998_2=<font face="Default" color="#ffffff" >In the old days, the Lonesome Sword Demon utterly dominated Jianghu with his sword skills. Now that you have joined the Rootless Clan, </font><font face="Default" color="#ffffff" >in the future you can </font><font face="Default" color="#ffffff" >learn </font><font face="Default" color="#ffffff" >the </font><font face="Default" color="#ffffff" >Unholy Swordsmanship, which is unparalleled in these lands. Soon you will come to understand just how powerful this skill truly is.</font>
 story_8998_3=<font face="Default" color="#ffffff" >Ha ha ha! I see you understand the way of the sword, but I want to see if you have the nerve to kill. Go now. Find and slay a real Jianghu expert.</font>
-story_8998_4=<font face="Default" color="#ffffff" >As long as you understand. Allow me teach you Deviant Vampire first.</font>
 story_8999_1=<font face="Default" color="#ffffff" >Ha ha, young disciple! The sea of bitterness is endless! Return to the shore, lay down your sword, and follow the way of Buddha. Tell me, do you believe in Buddha?</font>
 story_8999_2=<font face="Default" color="#ffffff" >Amitabha! Oh, merciful Buddha, you will become a demon!</font>
 story_menu_8750=Sir? May I have a moment of your time?
@@ -827,7 +791,6 @@ storymenu_8757_1=Immortals know nothing of this, because Immortals have no troub
 storymenu_8757_2=Many thanks. I know that the rules of the Rootless Clan are very strict, and that drinking is forbidden while assigned to a task. I have only joined recently, and I should follow the rules!
 storymenu_8757_3=Thank you, Elder Brother, for your understanding, I have not been here long and I have much to learn.
 storymenu_8758_1=Thank you for your concern. No, I have no regrets.
-storymenu_8758_2=Do I fulfill the requirements for studying Deviant Vampire?
 storymenu_8758_3=Thank you, Elder Brother, for your instruction!
 storymenu_8759_1=Elder Brother Feng, the task is most important, so please make arrangements as you see fit. If we wait too long, the situation may change again!
 storymenu_8759_2=I am all ears.
@@ -900,34 +863,6 @@ storymenu_8999_1=<font face="Default" color="#ffffff" >I... I don't quite unders
 storymenu_8999_2=<font face="Default" color="#ffffff" >My Lord...</font>
 useiteminfo_8750=Use the <a href="findnpc_new,school11,wgm_049" style="HLStype1">small knife</a> on the <a href="TASK_ITEM,item_wgm_zxdj_001" style="HLStype1">unconscious disciple.</a>
 useiteminfo_8751=Use <a href="findnpc_new,,wgm_049" style="HLStype1">wgm_049</a><a href="TASK_ITEM,item_wgm_zxdj_002" style="HLStype1">item_wgm_zxdj_002</a>
-useiteminfo_8753=Use the poison on <a href="findnpc_new,school11,wgm_032" style="HLStype1">Liang Chen</a>. Purchase this item from Duan Hai (-12,184). Forfeiting the task will result in one less turn at torturing prisoners.
-useiteminfo_8754=Use the spiked chain on <a href="findnpc_new,school11,wgm_032" style="HLStype1">Liang Chen</a>. Purchase this instrument of torture from Duan Hai (-12,184). Forfeiting the task will result in one less turn at torturing prisoners.
-useiteminfo_8755=Use the finger lock on <a href="findnpc_new,school11,wgm_032" style="HLStype1">Liang Chen</a>. Purchase this instrument of torture from Duan Hai (-12,184). Forfeiting the task will result in one less turn at torturing prisoners.
-useiteminfo_8756=Use the poison bugs on <a href="findnpc_new,school11,wgm_032" style="HLStype1">Liang Chen</a>. Purchase this item from Duan Hai (-12,184). Forfeiting the task will result in one less turn at torturing prisoners.
-useiteminfo_8757=Use the branding iron on <a href="findnpc_new,school11,wgm_032" style="HLStype1">Liang Chen</a>. Purchase this item from Duan Hai (-12,184). Forfeiting the task will result in one less turn at torturing prisoners.
-useiteminfo_8758=Use the poison on <a href="findnpc_new,school11,wgm_033" style="HLStype1">Wu Jiecao</a>. Purchase this item from Duan Hai (-12,184). Forfeiting the task will result in one less turn at torturing prisoners.
-useiteminfo_8759=Use the spiked chain on <a href="findnpc_new,school11,wgm_033" style="HLStype1">Wu Jiecao</a>. Purchase this item from Duan Hai (-12,184). Forfeiting the task will result in one less turn at torturing prisoners.
-useiteminfo_8760=Use the finger lock on <a href="findnpc_new,school11,wgm_033" style="HLStype1">Wu Jiecao</a>. Purchase this item from Duan Hai (-12,184). Forfeiting the task will result in one less turn at torturing prisoners.
-useiteminfo_8761=Use the poison bugs on <a href="findnpc_new,school11,wgm_033" style="HLStype1">Wu Jiecao</a>. Purchase this item from Duan Hai (-12,184). Forfeiting the task will result in one less turn at torturing prisoners.
-useiteminfo_8762=Use the branding iron on <a href="findnpc_new,school11,wgm_033" style="HLStype1">Wu Jiecao</a>. Purchase this item from Duan Hai (-12,184). Forfeiting the task will result in one less turn at torturing prisoners.
-useiteminfo_8763=Use the poison on <a href="findnpc_new,school11,wgm_034" style="HLStype1">Huangfu Qing</a>. Purchase this item from Duan Hai (-12,184). Forfeiting the task will result in one less turn at torturing prisoners.
-useiteminfo_8764=Use the spiked chain on <a href="findnpc_new,school11,wgm_034" style="HLStype1">Huangfu Qing</a>. Purchase this item from Duan Hai (-12,184). Forfeiting the task will result in one less turn at torturing prisoners.
-useiteminfo_8765=Use the finger lock on <a href="findnpc_new,school11,wgm_034" style="HLStype1">Huangfu Qing</a>. Purchase this item from Duan Hai (-12,184). Forfeiting the task will result in one less turn at torturing prisoners.
-useiteminfo_8766=Use the poison bugs on <a href="findnpc_new,school11,wgm_034" style="HLStype1">Huangfu Qing</a>. Purchase this item from Duan Hai (-12,184). Forfeiting the task will result in one less turn at torturing prisoners.
-useiteminfo_8767=Use the branding iron on <a href="findnpc_new,school11,wgm_034" style="HLStype1">Huangfu Qing</a>. Purchase this item from Duan Hai (-12,184). Forfeiting the task will result in one less turn at torturing prisoners.
-useiteminfo_8768=Use the poison on <a href="findnpc_new,school11,wgm_035" style="HLStype1">Xiao Yao</a>. Purchase this item from Duan Hai (-12,184). Forfeiting the task will result in one less turn at torturing prisoners.
-useiteminfo_8769=Use the spiked chain on <a href="findnpc_new,school11,wgm_035" style="HLStype1">Xiao Yao</a>. Purchase this item from Duan Hai (-12,184). Forfeiting the task will result in one less turn at torturing prisoners.
-useiteminfo_8770=Use the finger lock on <a href="findnpc_new,school11,wgm_035" style="HLStype1">Xiao Yao</a>. Purchase this item from Duan Hai (-12,184). Forfeiting the task will result in one less turn at torturing prisoners.
-useiteminfo_8771=Use the poison bugs on <a href="findnpc_new,school11,wgm_035" style="HLStype1">Xiao Yao</a>. Purchase this item from Duan Hai (-12,184). Forfeiting the task will result in one less turn at torturing prisoners.
-useiteminfo_8772=Use the branding iron on <a href="findnpc_new,school11,wgm_035" style="HLStype1">Xiao Yao</a>. Purchase this item from Duan Hai (-12,184). Forfeiting the task will result in one less turn at torturing prisoners.
-useiteminfo_8773=Use the poison on <a href="findnpc_new,school11,wgm_036" style="HLStype1">Lu Binghua</a>. Purchase this item from Duan Hai (-12,184). Forfeiting the task will result in one less turn at torturing prisoners.
-useiteminfo_8774=Use the spiked chain on <a href="findnpc_new,school11,wgm_036" style="HLStype1">Lu Binghua</a>. Purchase this instrument of torture from Duan Hai (-12,184). Forfeiting the task will result in one less turn at torturing prisoners.
-useiteminfo_8775=Use the finger lock on <a href="findnpc_new,school11,wgm_036" style="HLStype1">Lu Binghua</a>. Purchase this item from Duan Hai (-12,184). Forfeiting the task will result in one less turn at torturing prisoners.
-useiteminfo_8776=Use the poison bugs on <a href="findnpc_new,school11,wgm_036" style="HLStype1">Lu Binghua</a>. Purchase this item from Duan Hai (-12,184). Forfeiting the task will result in one less turn at torturing prisoners.
-useiteminfo_8777=Use the branding iron on <a href="findnpc_new,school11,wgm_036" style="HLStype1">Lu Binghua</a> (Purchase by the Rootless Clan Duanhai (-12,184). Forfeiting the task will result in one less turn at torturing prisoners.)
-useiteminfo_8778=Use the signal flare <a href="findnpc_new,city03,Trigger_wgm_004" style="HLStype1">near Jinling (618,561)</a>. Purchase this item from Duan Hai (-12,184).
-useiteminfo_8779=Use the signal flare <a href="findnpc_new,city03,Trigger_wgm_005" style="HLStype1">near Jinling (326,773)</a>. Purchase this item from Duan Hai (-12,184).
-useiteminfo_8780=Use the signal flare <a href="findnpc_new,city03,Trigger_wgm_006" style="HLStype1">near Jinling (521, 724)</a>. Purchase this item from Duan Hai (-12,184).
 useiteminfo_8781=Use <a href="findnpc_new,city02,wgm_064" style="HLStype1">Yinyang Grass</a> on <a href="TASK_ITEM,item_wgm_zxdj_002" style="HLStype1">Yan Lingyun</a>
 useiteminfo_8782=Give <a href="findnpc_new,city02,wgm_065" style="HLStype1">Yan Lingyun </a>a toast<a href="TASK_ITEM,item_wgm_zxdj_003" style="HLStype1"> with some wine.</a>
 useiteminfo_8801=Use the <a href="TASK_ITEM,useitem_wgm_glm_02" style="HLStype1">package </a>and disguise yourself as a Royal Guard disciple.
@@ -981,16 +916,11 @@ collectinfo_8925=Collect<a href="findnpc_new,," style="HLStype1"></a><font color
 collectinfo_8926=Collect <a href="findnpc_new,," style="HLStype1"></a><font color="#FFFF00">Falling Flower Sword Annotation Book Fragments</font>. You can also complete the task by submitting corresponding Annotation Book to Zhang Jielun (22，224). <font color="#FF3030">(You only have 25 minutes to complete it.)</font>
 collectinfo_8927=Collect <a href="findnpc_new,," style="HLStype1"></a><font color="#FFFF00">Perish Stab Annotation Book Fragments</font>. You can also complete the task by submitting corresponding Annotation Book to Zhang Jielun (22，224). <font color="#FF3030">(You only have 25 minutes to complete it.)</font>
 collectinfo_8928=Collect <a href="findnpc_new,," style="HLStype1"></a><font color="#FFFF00">Wind Chasing Blade Annotation Book Fragments</font>. You can also complete the task by submitting corresponding Annotation Book to Zhang Jielun (22，224). <font color="#FF3030">(You only have 25 minutes to complete it.)</font>
-collectinfo_8929=Collect <a href="findnpc_new,," style="HLStype1"></a><font color="#FFFF00">Bone Corroding Palm Annotation Book Fragments</font>. You can also complete the task by submitting corresponding Annotation Book to Zhang Jielun (22，224). <font color="#FF3030">(You only have 25 minutes to complete it.)</font>
 collectinfo_8930=Collect <a href="findnpc_new,," style="HLStype1"></a><font color="#FFFF00">Soul Losing Blade Annotation Book Fragments</font>. You can also complete the task by submitting corresponding Annotation Book to Zhang Jielun (22，224). <font color="#FF3030">(You only have 25 minutes to complete it.)</font>
 collectinfo_8931=Collect <a href="findnpc_new,," style="HLStype1"></a><font color="#FFFF00">Soul Chasing Claw Annotation Book Fragments</font>. You can also complete the task by submitting corresponding Annotation Book to Zhang Jielun (22，224). <font color="#FF3030">(You only have 25 minutes to complete it.)</font>
 collectinfo_8932=Collect<a href="findnpc_new,," style="HLStype1"></a><font color="#FFFF00"> Eagle Claw Fist Annotation Book Fragments</font>. You can also complete the task by submitting corresponding Annotation Book to Zhang Jielun (22，224). <font color="#FF3030">(You only have 25 minutes to complete it.)</font>
 collectinfo_8933=Collect <a href="findnpc_new,," style="HLStype1"></a><font color="#FFFF00">Demon Soul-Chasing Blade Annotation Book Fragments</font>. You can also complete the task by submitting corresponding Annotation Book to Zhang Jielun (22，224). <font color="#FF3030">(You only have 25 minutes to complete it.)</font>
-collectinfo_8934=Collect<a href="findnpc_new,," style="HLStype1"></a><font color="#FFFF00"> Heartless Seven Skills Annotation Book Fragments</font>. You can also complete the task by submitting corresponding Annotation Book to Zhang Jielun (22，224). <font color="#FF3030">(You only have 25 minutes to complete it.)</font>
-collectinfo_8935=Collect<a href="findnpc_new,," style="HLStype1"></a><font color="#FFFF00"> Flying Snow Palm Annotation Book Fragments</font>. You can also complete the task by submitting corresponding Annotation Book to Zhang Jielun (22，224). <font color="#FF3030">(You only have 25 minutes to complete it.)</font>
-collectinfo_8936=Collect<a href="findnpc_new,," style="HLStype1"></a><font color="#FFFF00"> Dragon Claw (Ancient Manual) Annotation Book Fragments</font>. You can also complete the task by submitting corresponding Annotation Book to Zhang Jielun (22，224). <font color="#FF3030">(You only have 25 minutes to complete it.)</font>
 collectinfo_8937=Collect<a href="findnpc_new,," style="HLStype1"></a><font color="#FFFF00"> Arhat Fist Annotation Book Fragments</font>. You can also complete the task by submitting corresponding Annotation Book to Zhang Jielun (22，224). <font color="#FF3030">(You only have 25 minutes to complete it.)</font>
-collectinfo_8938=Collect<a href="findnpc_new,," style="HLStype1"></a><font color="#FFFF00"> Dog Beating Staff Technique (Ancient Manual) Annotation Book Fragments</font>. You can also complete the task by submitting corresponding Annotation Book to Zhang Jielun (22，224). <font color="#FF3030">(You only have 25 minutes to complete it.)</font>
 collectinfo_8939=Collect<a href="findnpc_new,," style="HLStype1"></a><font color="#FFFF00"> Tai Chi Fist (Ancient Manual) Annotation Book Fragments</font>. You can also complete the task by submitting corresponding Annotation Book to Zhang Jielun (22，224). <font color="#FF3030">(You only have 25 minutes to complete it.)</font>
 DialogID_8971=How could you blaspheme my "thing"!  How about this, you do me a favor, and I'll take care of your problem. The proprietress in Qinhuai Tavern was named A Luo, and was in love with me. But I ended up in the palace and I still have feelings for her.  Earlier, I bought a necklace for her during the emperor's tour, but I did not have the time to deliver it. Now send it to her for me. But you have to pay for the necklace.
 interactinfo_8972=Buy necklace from <a href="findnpc_new,city03,jl598" style="HLStype1">Eunuch Manager</a> and give it to <a href="findnpc_new,city03,jl363" style="HLStype1">proprietress </a>
@@ -1016,4 +946,74 @@ interactinfo_8830=Follow the instructions and go to Jinling <a href="findnpc,cit
 storyinfo_8801=Go to <a href="findnpc,city03,1112,4.315,1767" style="HLStype1">Qinhuai Brothel </a>and meet <a href="findnpc_new,city03,wgm_glm_002" style="HLStype1">Jin Duancheng</a>. Tell him that the Royal Guards are responsible for the theft of the imperial steel.
 useiteminfo_8800=Put on the Black Wind Stronghold outfit from the <a href="TASK_ITEM,useitem_wgm_glm_01" style="HLStype1">package</a> and meet Zhu Gaoxu at Qinhuai Brothel. Give him a good show.
 useiteminfo_8923=<a href="TASK_ITEM,useitem_wgm_dy_hb" style="HLStype1">Use a torch </a>to burn down Fan Jian's gambling hall.
+DialogID_8826=Take the Rootless Clan disciples with you and eradicate Beast Villa.
+SubmitNpcEx_49796=Wipe out the Beast Villa
+collectinfo_8929=Collect <a href="findnpc_new,," style="HLStype1"></a><font color="#FFFF00">Bone Corroding Palm Annotation Book Fragments</font>. You can also complete the task by submitting corresponding Annotation Book to Zhang Jielun (22，224). <font color="#FF3030">(You only have 25 minutes to complete it.)</font>
+collectinfo_8934=Collect<a href="findnpc_new,," style="HLStype1"></a><font color="#FFFF00"> Heartless Seven Skills Annotation Book Fragments</font>. You can also complete the task by submitting corresponding Annotation Book to Zhang Jielun (22，224). <font color="#FF3030">(You only have 25 minutes to complete it.)</font>
+collectinfo_8935=Collect<a href="findnpc_new,," style="HLStype1"></a><font color="#FFFF00"> Flying Snow Palm Annotation Book Fragments</font>. You can also complete the task by submitting corresponding Annotation Book to Zhang Jielun (22，224). <font color="#FF3030">(You only have 25 minutes to complete it.)</font>
+collectinfo_8938=Collect<a href="findnpc_new,," style="HLStype1"></a><font color="#FFFF00"> Dog Beating Staff Technique (Ancient Manual) Annotation Book Fragments</font>. You can also complete the task by submitting corresponding Annotation Book to Zhang Jielun (22，224). <font color="#FF3030">(You only have 25 minutes to complete it.)</font>
+specialinfo_755=Successfully complete one faction challenge for the <font color="#FF3030">Chengdu's Huanhua Sword Sect</font>.
+specialinfo_760=Successfully complete one faction challenge for the <font color="#FF3030">Beggars' Sect's Beast Villa</font>.
+story_8758_2=<font face="Default" color="#ffffff" >Hmmm, you are a smart one. I will not waste my time on words. In the Rootless Clan, we punish wrongdoings and reward good deeds. The Rootless Clan's unsurpassable Internal Mental Skill is Deviant Vampire. Deviant Vampire was the Imperial family's secret Internal Skill until it came under the control of the Rootless Clan. The Internal Skill requires that you "go against the grain and practice in reverse; break free and be reborn; use the power of heaven and earth to supplement the body; and absorb the forces of Nature into your body to generate Chi and strength from absorbing anything of this world". Masters of this skill can change the color of the sky, generate a substantial amount of internal Chi, and possess a killing will stronger than anything else. Nothing can survive in its wake. </font>
+story_8758_3=<font face="Default" color="#ffffff" >Based on the rules, you have earned the right to study the Deviant Vampire. Unholy Swordsmanship is our primary attack skill. The secret of this method is that he who is fast will not be broken. I am not going to say more. You will understand after you study it</font><font face="Default" color="#ffffff" >. </font>
+story_8998_2=<font face="Default" color="#ffffff" >In the old days, the Lonesome Sword Demon utterly dominated Jianghu with his sword skills. Now that you have joined the Rootless Clan, </font><font face="Default" color="#ffffff" >in the future you can </font><font face="Default" color="#ffffff" >learn </font><font face="Default" color="#ffffff" >the </font><font face="Default" color="#ffffff" >Unholy Swordsmanship, which is unparalleled in these lands. Soon you will come to understand just how powerful this skill truly is.</font>
+story_8998_4=<font face="Default" color="#ffffff" >As long as you understand. Allow me teach you Deviant Vampire first.</font>
+storymenu_8758_2=Do I fulfill the requirements for studying Deviant Vampire?
+collectinfo_8774=Collect <a href="findnpc_new,," style="HLStype1"></a><font color="#FFFF00">Waitai Secret Prescription </font><font color="#FF3030">(Time limit: 25 minutes)</font>
+collectinfo_8785=Collect <a href="findnpc_new,," style="HLStype1"></a><font color="#FFFF00">Highly-Refined Bruise Removal Pill </font><font color="#FF3030">(Time limit: 25 minutes)</font>
+collectinfo_8786=Collect <a href="findnpc_new,," style="HLStype1"></a><font color="#FFFF00">Highly-Refined Injury-Healing Pills </font><font color="#FF3030">(Time limit: 25 minutes)</font>
+collectinfo_8787=Collect <a href="findnpc_new,," style="HLStype1"></a><font color="#FFFF00">Compound Foxglove Pill </font><font color="#FF3030">(Time limit: 25 minutes)</font>
+collectinfo_8788=Collect <a href="findnpc_new,," style="HLStype1"></a><font color="#FFFF00">Highly-Refined Eight Treasures Pill </font><font color="#FF3030">(Time limit: 25 minutes)</font>
+collectinfo_8789=Collect <a href="findnpc_new,," style="HLStype1"></a><font color="#FFFF00">Highly-Refined Happiness Pill </font><font color="#FF3030">(Time limit: 25 minutes)</font>
+collectinfo_8790=Collect <a href="findnpc_new,," style="HLStype1"></a><font color="#FFFF00">Concentrated White Mosaic Powder</font><font color="#FF3030">(Time limit: 25 minutes)</font>
+collectinfo_8791=Collect <a href="findnpc_new,," style="HLStype1"></a><font color="#FFFF00">Concentrated Sedge Root Potion </font><font color="#FF3030">(Time limit: 25 minutes)</font>
+collectinfo_8792=Collect <a href="findnpc_new,," style="HLStype1"></a><font color="#FFFF00">Dark Cavern Healing Pill </font><font color="#FF3030">(Time limit: 25 minutes)</font>
+collectinfo_8793=Collect <a href="findnpc_new,," style="HLStype1"></a><font color="#FFFF00">Heart-Fortifying Capsules </font><font color="#FF3030">(Time limit: 25 minutes)</font>
+collectinfo_8799=Collect <a href="findnpc_new,," style="HLStype1"></a><font color="#FFFF00">Crippling Poison </font><font color="#FF3030">(Time limit: 25 minutes)</font>
+collectinfo_8802=Collect <a href="findnpc_new,," style="HLStype1"></a><font color="#FFFF00">Thousand Dove Poison Powder </font><font color="#FF3030">(Time limit: 25 minutes)</font>
+collectinfo_8830=Collect <a href="findnpc_new,," style="HLStype1"></a><font color="#FFFF00">"Preface of Gathering at Lanting" (Chapter 1) </font><font color="#FF3030">(Time limit: 25 minutes)</font>
+collectinfo_8856=Collect <a href="findnpc_new,," style="HLStype1"></a><font color="#FFFF00">Hundred Weapon Single Sword Collection </font><font color="#FF3030">(Time limit: 25 minutes)</font>
+collectinfo_8882=Collect <a href="findnpc_new,," style="HLStype1">mint</a><font color="#FFFF00">.</font><font color="#FF3030">(Time limit: 25 minutes)</font>
+collectinfo_8890=Collect <a href="findnpc_new,," style="HLStype1"></a><font color="#FFFF00">Pale Silk </font><font color="#FF3030">(Time limit: 25 minutes)</font>
+collectinfo_8892=Collect <a href="findnpc_new,," style="HLStype1"></a><font color="#FFFF00">Copper </font><font color="#FF3030">(Time limit: 25 minutes)</font>
+collectinfo_8902=Collect <a href="findnpc_new,," style="HLStype1"></a><font color="#FFFF00">Thin Goat Fur </font><font color="#FF3030">(Time limit: 25 minutes)</font>
+collectinfo_8936=Collect<a href="findnpc_new,," style="HLStype1"></a><font color="#FFFF00"> Dragon Claw (Ancient Manual) Annotation Book Fragments</font>. You can also complete the task by submitting corresponding Annotation Book to Zhang Jielun (22，224). <font color="#FF3030">(You only have 25 minutes to complete it.)</font>
+convoyinfo_8755=Protect <font color="#FF3030">Zhang Peng </font>from the assassins
+hunterinfo_8767=Patrol around the jail.
+hunterinfo_8768=Kill any suspicious person on sight
+hunterinfo_8769=<br>Enter the task scene around Rootless Clan (-5,189). Use special skill to capture the fugitive. You can leave the task scene at (-17,214).
+hunterinfo_8810=Capture the <a href="findnpc_new,school11,npc_wgm_cc_001" style="HLStype1">the Rootless Clan traitor.</a> Lower the health of the traitor down to <a href="findnpc_new,school11,npc_wgm_cc_001" style="HLStype1">20%</a>, and then use the <a href="TASK_ITEM,item_wgm_cc_l8810" style="HLStype1">capturing tool</a> to capture him.
+interactinfo_8824=Eradicate Xu Village. <br>Can enter from any of the tasks nearby Chengdu (666,292) and leave from any of the tasks in Chengdu (696,291).
+interactinfo_8825=Eradicate Golden Needle Sect. <br>Can enter from any of the tasks nearby Chengdu (193,745) and leave from any of the tasks in Chengdu (186,719).
+interactinfo_8826=Eradicate Beast Villa. <br>Can enter from any of the tasks nearby Chengdu (583,760) and leave from any of the tasks in Chengdu (558,719).
+interactinfo_8829=Go to the path between Jinling and Suzhou and capture and bring back to the Rootless Clan jail (The Rootless Clan -29,184). <br>Enter the task scene around Jinling (409,1881). Use special skill to capture the Fugitive. You can leave the task scene around Jinling (454,1864).
+interactinfo_8957=Capture the traitor and take him back to <a href="findnpc_new,school11,wgm_001" style="HLStype1">Lord Wei</a>. Let the clan decide what should be done.
+useiteminfo_8753=Use the poison on <a href="findnpc_new,school11,wgm_032" style="HLStype1">Liang Chen</a>. Purchase this item from Duan Hai (-12,184). Forfeiting the task will result in one less turn at torturing prisoners.
+useiteminfo_8754=Use the spiked chain on <a href="findnpc_new,school11,wgm_032" style="HLStype1">Liang Chen</a>. Purchase this instrument of torture from Duan Hai (-12,184). Forfeiting the task will result in one less turn at torturing prisoners.
+useiteminfo_8755=Use the finger lock on <a href="findnpc_new,school11,wgm_032" style="HLStype1">Liang Chen</a>. Purchase this instrument of torture from Duan Hai (-12,184). Forfeiting the task will result in one less turn at torturing prisoners.
+useiteminfo_8756=Use the poison bugs on <a href="findnpc_new,school11,wgm_032" style="HLStype1">Liang Chen</a>. Purchase this item from Duan Hai (-12,184). Forfeiting the task will result in one less turn at torturing prisoners.
+useiteminfo_8757=Use the branding iron on <a href="findnpc_new,school11,wgm_032" style="HLStype1">Liang Chen</a>. Purchase this item from Duan Hai (-12,184). Forfeiting the task will result in one less turn at torturing prisoners.
+useiteminfo_8758=Use the poison on <a href="findnpc_new,school11,wgm_033" style="HLStype1">Wu Jiecao</a>. Purchase this item from Duan Hai (-12,184). Forfeiting the task will result in one less turn at torturing prisoners.
+useiteminfo_8759=Use the spiked chain on <a href="findnpc_new,school11,wgm_033" style="HLStype1">Wu Jiecao</a>. Purchase this item from Duan Hai (-12,184). Forfeiting the task will result in one less turn at torturing prisoners.
+useiteminfo_8760=Use the finger lock on <a href="findnpc_new,school11,wgm_033" style="HLStype1">Wu Jiecao</a>. Purchase this item from Duan Hai (-12,184). Forfeiting the task will result in one less turn at torturing prisoners.
+useiteminfo_8761=Use the poison bugs on <a href="findnpc_new,school11,wgm_033" style="HLStype1">Wu Jiecao</a>. Purchase this item from Duan Hai (-12,184). Forfeiting the task will result in one less turn at torturing prisoners.
+useiteminfo_8762=Use the branding iron on <a href="findnpc_new,school11,wgm_033" style="HLStype1">Wu Jiecao</a>. Purchase this item from Duan Hai (-12,184). Forfeiting the task will result in one less turn at torturing prisoners.
+useiteminfo_8763=Use the poison on <a href="findnpc_new,school11,wgm_034" style="HLStype1">Huangfu Qing</a>. Purchase this item from Duan Hai (-12,184). Forfeiting the task will result in one less turn at torturing prisoners.
+useiteminfo_8764=Use the spiked chain on <a href="findnpc_new,school11,wgm_034" style="HLStype1">Huangfu Qing</a>. Purchase this item from Duan Hai (-12,184). Forfeiting the task will result in one less turn at torturing prisoners.
+useiteminfo_8765=Use the finger lock on <a href="findnpc_new,school11,wgm_034" style="HLStype1">Huangfu Qing</a>. Purchase this item from Duan Hai (-12,184). Forfeiting the task will result in one less turn at torturing prisoners.
+useiteminfo_8766=Use the poison bugs on <a href="findnpc_new,school11,wgm_034" style="HLStype1">Huangfu Qing</a>. Purchase this item from Duan Hai (-12,184). Forfeiting the task will result in one less turn at torturing prisoners.
+useiteminfo_8767=Use the branding iron on <a href="findnpc_new,school11,wgm_034" style="HLStype1">Huangfu Qing</a>. Purchase this item from Duan Hai (-12,184). Forfeiting the task will result in one less turn at torturing prisoners.
+useiteminfo_8768=Use the poison on <a href="findnpc_new,school11,wgm_035" style="HLStype1">Xiao Yao</a>. Purchase this item from Duan Hai (-12,184). Forfeiting the task will result in one less turn at torturing prisoners.
+useiteminfo_8769=Use the spiked chain on <a href="findnpc_new,school11,wgm_035" style="HLStype1">Xiao Yao</a>. Purchase this item from Duan Hai (-12,184). Forfeiting the task will result in one less turn at torturing prisoners.
+useiteminfo_8770=Use the finger lock on <a href="findnpc_new,school11,wgm_035" style="HLStype1">Xiao Yao</a>. Purchase this item from Duan Hai (-12,184). Forfeiting the task will result in one less turn at torturing prisoners.
+useiteminfo_8771=Use the poison bugs on <a href="findnpc_new,school11,wgm_035" style="HLStype1">Xiao Yao</a>. Purchase this item from Duan Hai (-12,184). Forfeiting the task will result in one less turn at torturing prisoners.
+useiteminfo_8772=Use the branding iron on <a href="findnpc_new,school11,wgm_035" style="HLStype1">Xiao Yao</a>. Purchase this item from Duan Hai (-12,184). Forfeiting the task will result in one less turn at torturing prisoners.
+useiteminfo_8773=Use the poison on <a href="findnpc_new,school11,wgm_036" style="HLStype1">Lu Binghua</a>. Purchase this item from Duan Hai (-12,184). Forfeiting the task will result in one less turn at torturing prisoners.
+useiteminfo_8774=Use the spiked chain on <a href="findnpc_new,school11,wgm_036" style="HLStype1">Lu Binghua</a>. Purchase this instrument of torture from Duan Hai (-12,184). Forfeiting the task will result in one less turn at torturing prisoners.
+useiteminfo_8775=Use the finger lock on <a href="findnpc_new,school11,wgm_036" style="HLStype1">Lu Binghua</a>. Purchase this item from Duan Hai (-12,184). Forfeiting the task will result in one less turn at torturing prisoners.
+useiteminfo_8776=Use the poison bugs on <a href="findnpc_new,school11,wgm_036" style="HLStype1">Lu Binghua</a>. Purchase this item from Duan Hai (-12,184). Forfeiting the task will result in one less turn at torturing prisoners.
+useiteminfo_8777=Use the branding iron on <a href="findnpc_new,school11,wgm_036" style="HLStype1">Lu Binghua</a> (Purchase by the Rootless Clan Duanhai (-12,184). Forfeiting the task will result in one less turn at torturing prisoners.)
+useiteminfo_8778=Use the signal flare <a href="findnpc_new,city03,Trigger_wgm_004" style="HLStype1">near Jinling (618,561)</a>. Purchase this item from Duan Hai (-12,184).
+useiteminfo_8779=Use the signal flare <a href="findnpc_new,city03,Trigger_wgm_005" style="HLStype1">near Jinling (326,773)</a>. Purchase this item from Duan Hai (-12,184).
+useiteminfo_8780=Use the signal flare <a href="findnpc_new,city03,Trigger_wgm_006" style="HLStype1">near Jinling (521, 724)</a>. Purchase this item from Duan Hai (-12,184).
 

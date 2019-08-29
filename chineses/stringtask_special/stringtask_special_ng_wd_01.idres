@@ -359,7 +359,6 @@ SubmitNpcEx_55569=Lian Qingcheng will have to get to Suzhou before going to Deli
 SubmitNpcEx_55574=Promise <a href="findnpc_new,city02,NPC_5nei_z2_cx1" style="HLStype1">Chu Xiao</a> and then head to the Scholars.
 SubmitNpcEx_55575=Find<a href="findnpc_new,school03,NPC_5nei_z2_msz" style="HLStype1">Mu Shuzi</a>.
 SubmitNpcEx_55577=Find <a href="findnpc_new,city02,5nei_gbmdt001" style="HLStype1">Li Li</a> (Click Yan Shuangxing's mount to leave Mount Hua)
-SubmitNpcEx_57031=Submit the task to <a href="findnpc_new,school03,npc_5neidh_jzt" style="HLStype1">Cao Xuemo</a>(Finishing this task activates Scholars fifth internal task and following tasks cannot be abandoned)
 collectinfo_80514=Pick an <a href="findnpc_new,,Gather_5nei_nx_hua" style="HLStype1">Obscure Flower </a> from this dungeon(If you fail, give up or complete the task then<a href="findnpc_new,school07,PlotDoor_5nei_nx_sl" style="HLStype1">leave the area</a>）
 collectinfo_80515=Gather some <a href="findnpc_new,school07,Gather_5nei_wd_yao" style="HLStype1">Shanmu Grass</a> to heal He's wounds.
 collectinfo_80516=Bring <a href="findnpc_new,school07,Gather_5nei_wd_diao" style="HLStype1">Tuan Tuan </a> back to Little Walnut.
@@ -393,12 +392,9 @@ interactinfo_80540=The message for the Shen Family has been delivered. Next is t
 interactinfo_80541=Enter the Xu Family Manor and find <a href="findnpc_new,city05,Event_5nei_z2_55569" style="HLStype1">Lian Qingcheng</a>.
 interactinfo_80542=Look for <a href="findnpc_new,city05,NPC_5nei_z2_lqcbb" style="HLStype1">Lian Qingcheng</a>.
 interactinfo_80543=Defeat the guards and chase after <a href="findnpc_new,city05,Gather_5nei_z2_ywt" style="HLStype1">Lian Qingcheng</a>.
-interactinfo_80544=Find Peach Blossom Island's <a href="findnpc_new,city02,Event_5nei_z2_55570" style="HLStype1">entrance</a> and deliver the message.
-interactinfo_80545=Head to <a href="findnpc_new,city02,Event_5nei_z2_55571" style="HLStype1">Hanshan Temple</a> and inquire about Peach Blossom Island.
 interactinfo_80546=Agree to <a href="findnpc_new,city02,NPC_5nei_z2_sq1" style="HLStype1">Shique's</a> conditions.
 interactinfo_80547=Bring Yang Que to <a href="findnpc_new,city02,NPC_5nei_z2_sq1" style="HLStype1">Elder Shique</a>.
 interactinfo_80548=Find <a href="findnpc_new,school03,Event_5nei_z2_55575" style="HLStype1">Mu Shuzi</a>.
-interactinfo_80549=Answer the <a href="findnpc_new,school03,NPC_5nei_z2_th" style="HLStype1">Peach Blossom Island Manager</a>'s questions.
 interactinfo_80550=Stand <a href="findnpc_new,groupscene008_5nei,Event_5nei_z2_55577" style="HLStype1">aside</a> and see what Yan Shuangxing is doing (If you are not near Yan, find <a href="findnpc_new,city02,5nei_gbmdt001" style="HLStype1">Li Li</a> and have her help you get there. Click Yan's mount to leave)
 okmenu_80526=<font face="Default" color="#ffffff" >(Ye Jinglou must have been assuming Lian Qingcheng's identity) This is what he had me to deliver to you. </font>
 okmenu_80532=<font face="Default" color="#ffffff">It's at the other side of the mountain. </font>
@@ -517,7 +513,6 @@ story_menu_80563=<font face="Default" color="#ffffff" >Why are you so sad? </fon
 story_menu_80564=<font face="Default" color="#ffffff" >Jiang Jiang, are you ok? Did this man hurt you? </font>
 story_menu_80565=<font face="Default" color="#ffffff" >What are you up to? Did you really have to bully a kid? </font>
 story_menu_80566=<font face="Default" color="#ffffff" >Are you hurt? </font>
-story_menu_80567=<font face="Default" color="#ffffff" ></font><font face="Default" color="#ffffff" >I have urgent business with the manager of Beast Villa. Seeing how you are here, there must be some important figures keeping you company! </font>
 story_menu_80568=<font face="Default" color="#ffffff" >I was entrusted by </font><font face="Default" color="#ffffff" >Yan Shuangxing</font><font face="Default" color="#ffffff" > to deliver this message. In ten days you must bring your school treasure to summit of Mount Hua. If you can defeat Yan then the Talisman of Life will be yours! </font>
 story_menu_80569=<font face="Default" color="#ffffff" >Here to see you, elder! I was entrusted by </font><font face="Default" color="#ffffff" >Yan Shuangxing</font><font face="Default" color="#ffffff" > to deliver this message. In ten days, bring your school treasure to summit of Mount Hua, if you can defeat Yan! Yin Que will be yours! </font>
 story_menu_80570=<font face="Default" color="#ffffff" >Elder Mu, Elder Chu was wounded by Zhuo Bei! He said it wasn't too bad but he had urgent business to tend to; so he sent me here to fetch medicine for him. </font>
@@ -564,9 +559,6 @@ storyinfo_80563=Ask why the <a href="findnpc_new,city02,NPC_5nei_z2_fr" style="H
 storyinfo_80564=Find <a href="findnpc_new,city02,NPC_5nei_z2_jj" style="HLStype1">Jiang Jiang</a>.
 storyinfo_80565=Ask <a href="findnpc_new,city02,NPC_5nei_z2_sq1" style="HLStype1">Shique</a> what is necessary to release the child.
 storyinfo_80566=Check on <a href="findnpc_new,city02,NPC_5nei_z2_cx1" style="HLStype1">Chu Xiao's</a> wounds.
-storyinfo_80567=Visit the <a href="findnpc_new,school03,NPC_5nei_z2_sxj" style="HLStype1">Fourth Lady</a> of Beast Villa.
-storyinfo_80568=Deliver Yan's message to the <a href="findnpc_new,school03,NPC_5nei_z2_ws" style="HLStype1">Beast Villa Manager</a>.
-storyinfo_80569=Deliver Yan's message to the <a href="findnpc_new,school03,NPC_5nei_z2_th" style="HLStype1">Peach Blossom Island Manager</a>.
 storyinfo_80570=Explain why you are here to <a href="findnpc_new,school03,NPC_5nei_z2_msz" style="HLStype1">Mu Shuzi</a>.
 storyinfo_80571=How is <a href="findnpc_new,school03,NPC_5nei_z2_xjk" style="HLStype1">Xing Junke</a> here?
 storyinfo_80572=Listen to the <a href="findnpc_new,school03,NPC_5nei_z2_cn" style="HLStype1">Ugly Lady</a>.
@@ -650,4 +642,30 @@ useiteminfo_80506=Open the <a href="TASK_ITEM,useitem_5nei_z2_ywt" style="HLStyp
 useiteminfo_80507=Use the <a href="TASK_ITEM,useitem_5nei_z2_ct" style="HLStype1">shovel</a> <a href="findnpc_new,city02,Event_5nei_z2_55573" style="HLStype1">nearby</a> to dig up the Talisman of Life.
 useiteminfo_80508=Use the <a href="TASK_ITEM,useitem_5nei_z2_ct" style="HLStype1">shovel</a> <a href="findnpc_new,city02,Event_5nei_z2_55573a" style="HLStype1">nearby</a> to dig up the Talisman of Life.
 useiteminfo_80509=Use the <a href="TASK_ITEM,useitem_5nei_z2_ct" style="HLStype1">shovel</a> <a href="findnpc_new,city02,Event_5nei_z2_55573b" style="HLStype1">nearby</a> to dig up the Talisman of Life.
+story_menu_80567=<font face="Default" color="#ffffff" ></font><font face="Default" color="#ffffff" >I have urgent business with the manager of Beast Villa. Seeing how you are here, there must be some important figures keeping you company! </font>
+storyinfo_80567=Visit the <a href="findnpc_new,school03,NPC_5nei_z2_sxj" style="HLStype1">Fourth Lady</a> of Beast Villa.
+storyinfo_80568=Deliver Yan's message to the <a href="findnpc_new,school03,NPC_5nei_z2_ws" style="HLStype1">Beast Villa Manager</a>.
+SubmitNpcEx_57031=Submit the task to <a href="findnpc_new,school03,npc_5neidh_jzt" style="HLStype1">Cao Xuemo</a>(Finishing this task activates Scholars fifth internal task and following tasks cannot be abandoned)
+DialogID_80552=<font face="Default" color="#ffffff" >Oh? You arrested him?</font>
+SubmitNpcEx_55580=Say goodbye to <a href="findnpc_new,city02,yxhd_dy_xbt1" style="HLStype1">Constable Xing</a>.
+SubmitNpcEx_55581=You've done the work of looking after the peony flowers. Ask <a href="findnpc_new,city02,meigui" style="HLStype1">Flower Lady</a> what to do next.
+SubmitNpcEx_55582=Ask <a href="findnpc_new,city02,meigui" style="HLStype1">Flower Lady</a> how to help her.
+collectinfo_80518=I heard that the last place where the philanderer appeared was near Panmen. Maybe I can ask for some information there (487, 653).
+hunterinfo_80517=Teach <a href="findnpc_new,city02,yxhd_dy_chz1" style="HLStype1">Him</a> a lesson.
+interactinfo_80552=Hand the Philanderer to <a href="findnpc_new,city02,yxhd_dy_xbt1" style="HLStype1">Constable Xing</a>.
+interactinfo_80553=Talk to Officer She for the clues.
+okmenu_80552=<font face="Default" color="#ffffff" >Now you can rest assured, Constable Xing.</font>
+story_80577_1=<font face="Default" color="#ffffff" >A Philanderer has appeared in Suzhou and I'm demanded to arrest him in three days, but I haven't got any clue now.</font>
+story_80577_2=<font face="Default" color="#ffffff" >Sorry to bother you. Please help me arrest him.</font>
+story_menu_80577=<font face="Default" color="#ffffff" >What makes you so worried?</font>
+storyinfo_80577=Ask <a href="findnpc_new,city02,yxhd_dy_xbt1" style="HLStype1">Constable Xing</a> about the case.
+storymenu_80577_1=<font face="Default" color="#ffffff" >Don't worry, leave it to me.</font>
+storymenu_80577_2=<font face="Default" color="#ffffff" >I will be back with good news.</font>
+useiteminfo_80510=Drink the <a href="TASK_ITEM,useitem_yxhd_dy_01" style="HLStype1">Wine</a> together with <a href="findnpc_new,city02,yxhd_dy_chz" style="HLStype1">Officer She</a>.
+useiteminfo_80511=Use the <a href="TASK_ITEM,useitem_ycsy_dy_01" style="HLStype1">Peony Fertilizer</a> to fertilize the peony flowers.
+useiteminfo_80512=Use the <a href="TASK_ITEM,useitem_ycsy_dy_02" style="HLStype1">Scissors</a> to trim the peony flowers.
+interactinfo_80544=Find Peach Blossom Island's <a href="findnpc_new,city02,Event_5nei_z2_55570" style="HLStype1">entrance</a> and deliver the message.
+interactinfo_80545=Head to <a href="findnpc_new,city02,Event_5nei_z2_55571" style="HLStype1">Hanshan Temple</a> and inquire about Peach Blossom Island.
+interactinfo_80549=Answer the <a href="findnpc_new,school03,NPC_5nei_z2_th" style="HLStype1">Peach Blossom Island Manager</a>'s questions.
+storyinfo_80569=Deliver Yan's message to the <a href="findnpc_new,school03,NPC_5nei_z2_th" style="HLStype1">Peach Blossom Island Manager</a>.
 

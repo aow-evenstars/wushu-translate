@@ -22,7 +22,7 @@ QiecuoMenu_3304=这些兄弟，可以把你的美酒给我点呢？
 QiecuoMenu_3309=放马过来吧。
 QiecuoMenu_3312=家师棺木老人特命我前来教训你，看你以后还敢在这里嚣张跋扈。
 QiecuoMenu_3313=那就试试吧！
-QiecuoMenu_3314=看招。
+QiecuoMenu_3314=Accept my moves.
 QiecuoTitle_3302=<s>既然你这么说了，那就别怪我不客气。
 QiecuoTitle_3304=<s>什么！居然想要我的酒？这酒就是我的命根子，你想要他就先杀了我再说！
 QiecuoTitle_3309=<s>你也没必要知道了，因为你马上就要死了，看来还得我亲自动手。
@@ -63,16 +63,16 @@ interactinfo_3307=将蛇胆交给<a href="findnpc_new,school05,WorldNpc02430" st
 interactinfo_3308=到<a href="findnpc_new,school05,EventNpc22588" style="HLStype1">蛇窟</a>内
 interactinfo_3309=与<a href="findnpc_new,school05,WorldNpc02485" style="HLStype1">孙吉</a>交谈
 interactinfo_3310=<a href="findnpc_new,school05,EventNpc22591" style="HLStype1">四处查看</a>下，能不能找到大王蛇
-interactinfo_3311=与<a href="findnpc_new,school05,WorldNpc02480" style="HLStype1">仇百岁</a>交谈
+interactinfo_3311=Speak to <a href="findnpc_new,school05,WorldNpc02480" style="HLStype1">Chou Baisui</a>.
 interactinfo_3312=在<a href="findnpc_new,school05,EventNpc22593" style="HLStype1">十二连环坞内</a>内四处走走
-interactinfo_3313=与<a href="findnpc_new,school05,WorldNpc02418" style="HLStype1">百晓生</a>交谈
-interactinfo_3314=与<a href="findnpc_new,school05,WorldNpc02418" style="HLStype1">百晓生</a>交谈
+interactinfo_3313=Talk with <a href="findnpc_new,school05,WorldNpc02418" style="HLStype1">Omniscient Scholar</a>
+interactinfo_3314=Talk with <a href="findnpc_new,school05,WorldNpc02418" style="HLStype1">Omniscient Scholar</a>
 interactinfo_3315=与<a href="findnpc_new,school05,WorldNpc02488" style="HLStype1">王坤</a>交谈
 interactinfo_3316=去找<a href="findnpc_new,school05,EventNpc22604" style="HLStype1">仇百岁</a>
 interactinfo_3317=与<a href="findnpc_new,school05,WorldNpc02430" style="HLStype1">剑九天</a>交谈
 interactinfo_3318=与<a href="findnpc_new,school05,WorldNpc02451" style="HLStype1">棺木老人</a>交谈
 okmenu_3301=
-okmenu_3302=我这就去。
+okmenu_3302=I will do it immediately!
 okmenu_3303=
 okmenu_3304=我只是借用一下，以后定当十倍奉还。
 okmenu_3305=万堂主，这是新鲜的灵蛇草，有了这草你就可以再斗蛇啦。
@@ -104,17 +104,17 @@ story_menu_3304=可以再说的明白点么？那星星小楼到底在哪？
 story_menu_3305=我还想再问你一件事。
 story_menu_3306=那现在十二连环坞和密宗又是什么关系呢？
 storyinfo_3301=与<a href="findnpc_new,city04,WorldNpc10073" style="HLStype1">谭小妖</a>交谈
-storyinfo_3302=与<a href="findnpc_new,city04,WorldNpc10070" style="HLStype1">胡铁牛</a>交谈
+storyinfo_3302=Talk with <a href="findnpc_new,city04,WorldNpc10070" style="HLStype1">Hu Tieniu</a>
 storyinfo_3303=与<a href="findnpc_new,school05,WorldNpc02481" style="HLStype1">昌义甫</a>交谈
 storyinfo_3304=与<a href="findnpc_new,school05,WorldNpc02418" style="HLStype1">百晓生</a>对话
-storyinfo_3305=与<a href="findnpc_new,school05,WorldNpc02418" style="HLStype1">百晓生</a>交谈
-storyinfo_3306=与<a href="findnpc_new,school05,WorldNpc02480" style="HLStype1">仇百岁</a>交谈
+storyinfo_3305=Talk with <a href="findnpc_new,school05,WorldNpc02418" style="HLStype1">Omniscient Scholar</a>
+storyinfo_3306=Speak to <a href="findnpc_new,school05,WorldNpc02480" style="HLStype1">Chou Baisui</a>.
 storymenu_3301_1=不行，此行危险重重，我不能让你一起去！
 storymenu_3301_2=你还是乖乖的待在这吧，我以后一定会回来看你的。
 storymenu_3302_1=连你也这么说么？
 storymenu_3303_1=那就要到十二连环坞里面去看看了。
 storymenu_3304_1=你是真不知道还是不想说？
-storymenu_3305_1=我去去就来。
+storymenu_3305_1=I will come back soon.
 storymenu_3306_1=所以才会有密宗的人来偷袭我么？
 storymenu_3306_2=多谢老先生
 useiteminfo_3301=使用<a href="TASK_ITEM,useitem_25w" style="HLStype1">避毒丹</a>

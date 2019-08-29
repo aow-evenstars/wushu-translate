@@ -24,7 +24,7 @@ DialogID_52821=我这里遇到了麻烦，你如果有空，来帮我一下吧�
 DialogID_52822=这里已经不太平了，不远处有一些洞天防御者，帮我把他们赶走。
 DialogID_52823=你来找我有什么事么？
 DialogID_52824=出门在外的，她怎么这么不小心，给！这是金疮药。
-DialogID_52825=怎么样？
+DialogID_52825=What do you think of my answer?
 DialogID_52826=原来来的不止隐匿高手，还有隐匿尊者，帮我赶走他们。
 collectinfo_52800=从<a href="findnpc_new,school04,monm042207" style="HLStype1">强盗喽啰</a>身上夺回董万权的玉佩
 collectinfo_52801=从<a href="findnpc_new,school04,monm042205" style="HLStype1">蒙面强盗</a>身上夺回账本
@@ -51,15 +51,15 @@ hunterinfo_52813=击败<a href="findnpc_new,school04,monm042501" style="HLStype1
 hunterinfo_52814=击败<a href="findnpc_new,school04,monm042500" style="HLStype1">隐匿尊者</a>
 interactinfo_52800=与<a href="findnpc_new,school04,WorldNpc04007" style="HLStype1">董万权</a>交谈
 interactinfo_52801=与<a href="findnpc_new,school04,WorldNpc04014" style="HLStype1">卢忠</a>交谈
-interactinfo_52802=与<a href="findnpc_new,school04,WorldNpc03919" style="HLStype1">玄杯</a>交谈
-interactinfo_52803=与<a href="findnpc_new,school04,WorldNpc03919" style="HLStype1">玄杯</a>交谈
-interactinfo_52804=与<a href="findnpc_new,school04,WorldNpc03919" style="HLStype1">玄杯</a>交谈
+interactinfo_52802=Talk with <a href="findnpc_new,school04,WorldNpc03919" style="HLStype1">Xuanbei</a>.
+interactinfo_52803=Talk with <a href="findnpc_new,school04,WorldNpc03919" style="HLStype1">Xuanbei</a>.
+interactinfo_52804=Talk with <a href="findnpc_new,school04,WorldNpc03919" style="HLStype1">Xuanbei</a>.
 interactinfo_52805=与<a href="findnpc_new,school04,jlg030" style="HLStype1">清率</a>交谈
 interactinfo_52806=与<a href="findnpc_new,school04,WorldNpc03920" style="HLStype1">清浦</a>交谈
 interactinfo_52807=与<a href="findnpc_new,school04,WorldNpc04005" style="HLStype1">纪展发</a>交谈
 interactinfo_52808=与<a href="findnpc_new,school04,WorldNpc04005" style="HLStype1">纪展发</a>交谈
-interactinfo_52809=与<a href="findnpc_new,school04,WorldNpc03919" style="HLStype1">玄杯</a>交谈
-interactinfo_52810=与<a href="findnpc_new,school04,WorldNpc03919" style="HLStype1">玄杯</a>交谈
+interactinfo_52809=Talk with <a href="findnpc_new,school04,WorldNpc03919" style="HLStype1">Xuanbei</a>.
+interactinfo_52810=Talk with <a href="findnpc_new,school04,WorldNpc03919" style="HLStype1">Xuanbei</a>.
 interactinfo_52811=与<a href="findnpc_new,school04,WorldNpc04012" style="HLStype1">祝英芝</a>交谈
 interactinfo_52812=与<a href="findnpc_new,school04,WorldNpc04054" style="HLStype1">祝枝山</a>交谈
 interactinfo_52813=与<a href="findnpc_new,school04,WorldNpc04054" style="HLStype1">祝枝山</a>交谈
@@ -68,7 +68,7 @@ interactinfo_52815=与<a href="findnpc_new,school04,WorldNpc04054" style="HLStyp
 interactinfo_52816=与<a href="findnpc_new,school04,WorldNpc04054" style="HLStype1">祝枝山</a>交谈
 interactinfo_52817=与<a href="findnpc_new,school04,WorldNpc04055" style="HLStype1">梅友前</a>交谈
 interactinfo_52818=与<a href="findnpc_new,school04,WorldNpc04055" style="HLStype1">梅友前</a>交谈
-interactinfo_52819=与<a href="findnpc_new,school04,WorldNpc03919" style="HLStype1">玄杯</a>交谈
+interactinfo_52819=Talk with <a href="findnpc_new,school04,WorldNpc03919" style="HLStype1">Xuanbei</a>.
 interactinfo_52820=与<a href="findnpc_new,school04,WorldNpc03857" style="HLStype1">黑珍珠</a>交谈
 interactinfo_52821=与<a href="findnpc_new,school04,jlg019" style="HLStype1">黄婷</a>交谈
 interactinfo_52822=与<a href="findnpc_new,school04,jlg019" style="HLStype1">黄婷</a>交谈
@@ -76,11 +76,11 @@ interactinfo_52823=与<a href="findnpc_new,school04,WorldNpc03857" style="HLStyp
 interactinfo_52824=与<a href="findnpc_new,school04,WorldNpc03857" style="HLStype1">黑珍珠</a>交谈
 interactinfo_52825=与<a href="findnpc_new,school04,jlg019" style="HLStype1">黄婷</a>交谈
 interactinfo_52826=与<a href="findnpc_new,school04,jlg019" style="HLStype1">黄婷</a>交谈
-okmenu_52800=好的，我这就去
-okmenu_52801=好的，我这就去
+okmenu_52800=I'll leave immediately.
+okmenu_52801=I'll leave immediately.
 okmenu_52802=我是替董万权来找大师的，希望大师派人下山剿匪
 okmenu_52803=这样啊，那我回去了
-okmenu_52804=好的，我这就去
+okmenu_52804=I'll leave immediately.
 okmenu_52805=好的我这就去
 okmenu_52806=好的我这就去
 okmenu_52807=玄杯大师让我通知你，会有人对你不利
@@ -93,11 +93,11 @@ okmenu_52813=好的我这就去
 okmenu_52814=他说三日之内必然来访，要我把这信给你
 okmenu_52815=好的我这就去
 okmenu_52816=好的我这就去
-okmenu_52817=好的，我这就去
+okmenu_52817=I'll leave immediately.
 okmenu_52818=好的我这就去
 okmenu_52819=好的，我会回复他
 okmenu_52820=好的，我帮你去看下
-okmenu_52821=好的
+okmenu_52821=Okay.
 okmenu_52822=好的我这就去
 okmenu_52823=黄婷受伤了需要金疮药
 okmenu_52824=多谢，我会转交给她的
@@ -106,7 +106,7 @@ okmenu_52826=好的我这就去
 story_52800_1=永乐寺也没有什么仇敌，只是前些日子武当派祝枝山来拜访过，之后永乐寺陆陆续续就有人来捣乱，传言说是祝枝山好像把什么宝物交给了寺里，这纯粹是无稽之谈。
 story_menu_52800=告诉我为什么永乐寺会被匪人围攻。
 storyinfo_52800=听<a href="findnpc_new,school04,WorldNpc03920" style="HLStype1">清浦</a>诉说
-storymenu_52800_1=原来如此
+storymenu_52800_1=I see.
 useiteminfo_52800=对<a href="findnpc_new,school04,jlg030" style="HLStype1">清率</a>使用<a href="TASK_ITEM,useitem_82m" style="HLStype1">疗伤药</a>
 useiteminfo_52801=对<a href="findnpc_new,school04,WorldNpc04083" style="HLStype1">马立</a>使用<a href="TASK_ITEM,useitem_83m" style="HLStype1">创伤药</a>
 

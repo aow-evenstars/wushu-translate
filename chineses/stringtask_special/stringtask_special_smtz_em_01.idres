@@ -6,7 +6,6 @@ DialogID_58104=Amitabha, you come just in time.
 DialogID_58105=Take care of this letter, do not delay on the way.
 DialogID_58106=You seem to be a stranger, maybe are seldom here. How about rest here for one night?
 DialogID_58107=Or so this issue went, you hurry to Baodu Stronghold! If late, people are perhaps dead.
-DialogID_58108=You wish to be a disciple? Well you've found the right person! The Huanhua Sword Sect has quite an excellent reputation. I shall soon show you the Lady Sword from Emei...
 DialogID_58109=Aha! Never guess that you are the disciple of Emei! But it's no use for you to defeat us by luck! The Sword Manual was burnt to ashes, just do what you want, either kill or dismember!
 QiecuoMenu_58101=Arrogant enough you are! Today I shall frustrate you!
 QiecuoMenu_58102=You're shameless! You'll pay for this!
@@ -44,7 +43,6 @@ interactinfo_58104=Go to Shaolin,talk to <a href="findnpc_new,school08,WorldNpc0
 interactinfo_58105=Go to Wudang,talk to <a href="findnpc_new,school07,WorldNpc04401" style="HLStype1">Immortal Ziyang</a>.
 interactinfo_58106=Go to Beggar's Sect, talk to <a href="findnpc_new,school02,WorldNpc03003" style="HLStype1">Xiao Tianfang</a>.
 interactinfo_58107=Heard about that a disciple in the secular world sent a Carrier Pigeon here, so first meet the First martial sister <a href="findnpc_new,school06,WorldNpc02634" style="HLStype1">Hua Zhenxu</a>to learn about this.
-interactinfo_58108=Go to Huanhua Sword Sect to track our secret script, first find a <a href="findnpc_new,city05,WorldNpc09812" style="HLStype1">Huanhua swordman </a>to check what he would say.
 interactinfo_58109=Tried to find the Sword Script but failed. So go and find <a href="findnpc_new,city05,WorldNpc09812" style="HLStype1">the Huanhua swordman </a>to ask again.
 okmenu_58101=Ok, we make it a deal, I'll go and back as soon as possible.
 okmenu_58102=So thanks a lot, grandpa! I'll see you later!
@@ -63,13 +61,9 @@ specialinfo_246=Successfully complete one escort task
 specialinfo_248=Join in School patrol, and gather intelligence. It would be better if you can catch the spies of other sects.
 specialinfo_249=Spy on Wanderer's Valley and gather some intelligence
 specialinfo_250=Deal with the notable court criminal. It would be preferable to catch him alive.
-specialinfo_251=Challenge the Beasts Mountain Villa
-specialinfo_252=Challenge Xingxiu Sect, and defeat them, preventing them from taming bone-chewing termites.
 specialinfo_253=Rescue the hostages from the kidnappers
-specialinfo_254=Challenge the Huanhua Sword Sect.
 specialinfo_255=Challenge Tiger Roaring Villa, and defeat them, prevent their farce of casting Soul depriving sward.
 specialinfo_256=Challenge Golden Needle Sect, and defeat them, find out the truth related to Ghost Dance Book.
-specialinfo_331=Challenge Mount Song Sword Sect.
 useiteminfo_58101=Use <a href="TASK_ITEM,useitem_emtz_001" style="HLStype1">Refreshing dew </a>to cure <a href="findnpc_new,school06,WorldNpc02929" style="HLStype1">Wang Sheng of his </a>madness.
 useiteminfo_58102=According to Ugly Girl's will, place <a href="TASK_ITEM,useitem_emtz_002" style="HLStype1">Green Heart Jade Bracelet</a>on the wrist of her sister's daughter<a href="findnpc_new,school06,WorldNpc02930" style="HLStype1">Xiao Tao's </a>, leaving it as a memory.
 DialogID_58110=<font face="Default" color="#ffffff" >If you want to enter Tiger Roaring Villa, I'm afraid you have no choice but to break in by force. </font>
@@ -120,4 +114,10 @@ story_58107_1=<font face="Default" color="#ffffff" >Hello, young hero. You can s
 story_menu_58107=<font face="Default" color="#ffffff" >Brother referral</font>
 storyinfo_58107=Go to <a href="findnpc_new,school06,wd173" style="HLStype1">the school's master guide</a> area.
 storymenu_58107_1=<font face="Default" color="#ffffff" >I know.</font>
+DialogID_58108=You wish to be a disciple? Well you've found the right person! The Huanhua Sword Sect has quite an excellent reputation. I shall soon show you the Lady Sword from Emei...
+interactinfo_58108=Go to Huanhua Sword Sect to track our secret script, first find a <a href="findnpc_new,city05,WorldNpc09812" style="HLStype1">Huanhua swordman </a>to check what he would say.
+specialinfo_251=Challenge the Beasts Mountain Villa
+specialinfo_252=Challenge Xingxiu Sect, and defeat them, preventing them from taming bone-chewing termites.
+specialinfo_254=Challenge the Huanhua Sword Sect.
+specialinfo_331=Challenge Mount Song Sword Sect.
 

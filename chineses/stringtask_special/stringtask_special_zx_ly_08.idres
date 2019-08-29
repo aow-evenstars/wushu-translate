@@ -13,7 +13,7 @@ DialogID_13186=阁下果然好功夫，中原武林的确不可小觑，既然�
 DialogID_13187=你怎么回来了？
 DialogID_13188=这是我的信物，你拿去给他看，他一定会相信的。
 DialogID_13189=这的确是首领的信物，你是来救我的？
-DialogID_13190=你是什么人？
+DialogID_13190=Who are you?
 DialogID_13191=首领终于来救我们了。
 DialogID_13192=你这个勾结外寇，祸害中原武林武林败类，有什么资格在我面前说话。
 DialogID_13193=哼，黄齿小儿，莫要放肆，下次别让我碰见你。
@@ -27,15 +27,15 @@ DialogID_13200=咳咳……大批人马已经上山了，恐怕你要去为那�
 QiecuoMenu_13178=你是山田宁次么？
 QiecuoMenu_13179=废话不多说，动手吧！
 QiecuoMenu_13181=恩，宁兄请。
-QiecuoMenu_13186=看招！
-QiecuoMenu_13187=看招！
-QiecuoMenu_13188=看招！
+QiecuoMenu_13186=Look!
+QiecuoMenu_13187=Look!
+QiecuoMenu_13188=Look!
 QiecuoTitle_13178=想见首领，先过我这关！
 QiecuoTitle_13179=请。
 QiecuoTitle_13181=既然你执意要去，那么先跟在下过几招吧。你我点到为止。
 QiecuoTitle_13186=哼，不自量力。
 QiecuoTitle_13187=哼，不自量力。
-QiecuoTitle_13188=就凭你？
+QiecuoTitle_13188=No way!
 SubmitNpcEx_26337=前往<a href="findnpc_new,born03,WorldNpc00583" style="HLStype1">客栈</a>
 collectinfo_13176=从<a href="findnpc_new,born03,monrc025034" style="HLStype1">东瀛武士</a>那里收集证据
 collectinfo_13177=收集<a href="findnpc_new,born03,Gather0012lcx" style="HLStype1">木材</a>
@@ -74,15 +74,15 @@ interactinfo_13188=与<a href="findnpc_new,born03,WorldNpc00933" style="HLStype1
 interactinfo_13189=与<a href="findnpc_new,born03,WorldNpc00934" style="HLStype1">受伤的东瀛武士</a>交谈
 interactinfo_13190=与<a href="findnpc_new,born03,WorldNpc00937" style="HLStype1">被关押的东瀛武士队长</a>交谈
 interactinfo_13191=与<a href="findnpc_new,born03,WorldNpc00937" style="HLStype1">被关押的东瀛武士队长</a>交谈
-interactinfo_13192=与<a href="findnpc_new,born03,yyz269" style="HLStype1">曲天</a>交谈
-interactinfo_13193=与<a href="findnpc_new,born03,yyz269" style="HLStype1">曲天</a>交谈  
+interactinfo_13192=Speak to <a href="findnpc_new,born03,yyz269" style="HLStype1">Qu Tian</a>.
+interactinfo_13193=Speak to <a href="findnpc_new,born03,yyz269" style="HLStype1">Qu Tian</a>.
 interactinfo_13194=回盟主府找<a href="findnpc_new,born03,WorldNpc00547" style="HLStype1">司马奇</a>
-interactinfo_13195=与<a href="findnpc_new,born03,WorldNpc00941" style="HLStype1">卢爱贵</a>交谈
+interactinfo_13195=Talk with <a href="findnpc_new,born03,WorldNpc00941" style="HLStype1">Lu Aigui</a>
 interactinfo_13196=与<a href="findnpc_new,born03,WorldNpc00933" style="HLStype1">山田宁次</a>交谈
 interactinfo_13197=去盟主府找武林盟主<a href="findnpc_new,born03,WorldNpc00927" style="HLStype1">林天南</a>
 interactinfo_13198=与<a href="findnpc_new,born03,WorldNpc00933" style="HLStype1">山田宁次</a>交谈
 interactinfo_13199=与<a href="findnpc_new,born03,WorldNpc00933" style="HLStype1">山田宁次</a>交谈
-interactinfo_13200=与<a href="findnpc_new,born03,WorldNpc00941" style="HLStype1">卢爱贵</a>交谈
+interactinfo_13200=Talk with <a href="findnpc_new,born03,WorldNpc00941" style="HLStype1">Lu Aigui</a>
 okmenu_13176=好，我现在就走
 okmenu_13177=恩，那我到时候来报名。
 okmenu_13178=哦，多谢相告
@@ -116,9 +116,9 @@ story_13179_1=我们此次来的目的是找中原高手切磋武功，但却被
 story_13179_2=完全没有做过，此乃有人故意陷害。树林西北面有个神风帮，曾经掳走过我的手下，估计是他们扮作东瀛人做的坏事。我希望你能前去调查，证明我的清白。
 story_13180_1=在下对刀法有几点疑惑还望阁下不吝赐教。
 story_13180_2=在下还是不太明白，不过救人要紧你还是先去救人吧，等有时间，我们一定促膝长谈。
-story_menu_13176=东瀛武士
-story_menu_13177=山田宁次
-story_menu_13178=服部平次
+story_menu_13176=Samurai
+story_menu_13177=Shantian Ningci
+story_menu_13178=Fubu Pingci
 story_menu_13179=苦衷
 story_menu_13180=刀法解惑
 storyinfo_13176=听<a href="findnpc_new,born03,WorldNpc00583" style="HLStype1">毛富贵</a>诉说
@@ -128,7 +128,7 @@ storyinfo_13180=听<a href="findnpc_new,born03,WorldNpc00933" style="HLStype1">�
 storymenu_13176_1=悬赏？那那些东瀛武士不是要倒霉了
 storymenu_13176_2=好，多谢相告
 storymenu_13177_1=这么厉害？我有要事在身，就不打扰了，告辞。
-storymenu_13178_1=原来是这样
+storymenu_13178_1=So it is.
 storymenu_13179_1=东瀛人为非作歹之事，是不是真的？
 storymenu_13179_2=这样我一定去澄清事实的。
 storymenu_13180_1=中原刀法大开大合，讲究沉稳。单手看刀，双手看走。

@@ -64,7 +64,6 @@ story_9851_1=<font face="Default" color="#ffffff" >想加入八大門派各個�
 story_9851_2=<font face="Default" color="#ffffff" >比如，想要加入少林派必須為男子，而若要拜入峨眉門下則必須為女子。</font>
 story_9851_3=<font face="Default" color="#ffffff" >還有欲拜入丐幫必須學會乞討，想加入君子堂必須要學會琴棋書畫中的一種。其它像武當、錦衣衛、極樂谷、唐門這些門派都比較寬鬆沒有多少要求。</font>
 story_9854_1=<font face="Default" color="#ffffff" >移花宮位於氣候宜人的繡玉谷，是習武之人難得的靜修佳地。宮中弟子皆清冷孤傲，她們對欺凌弱女之人懲罰手段極端殘酷。</font><font color="#ee7621">(未婚女子有機會在九陰志二內完成後通過奇遇加入)</font>
-story_9855_1=<font face="Default" color="#ffffff" >桃花島位於東海之上景色美不勝收。島上弟子行事輕狂、不拘禮法，島上弟子都精研奇門遁甲之術。</font><font color="#ee7621">(拜入桃花島須為愛好琴棋書畫的文雅之士，在九陰志二內完成後可通過奇遇拜入)</font>
 story_menu_9801=<font face="Default" color="#ffffff" >門主的苦惱(門主的疑惑)</font>
 story_menu_9802=<font face="Default" color="#ffffff" >門主的苦惱（打聽江湖上的風吹草動）</font>
 story_menu_9803=<font face="Default" color="#ffffff" >門主的苦惱（瞭解唐門「十三封」的問題）</font>
@@ -85,7 +84,6 @@ story_menu_9851=<font face="Default" color="#ffffff" >拜入八大門派的條�
 story_menu_9852=<font face="Default" color="#ffffff" >江湖勢力介紹</font>
 story_menu_9853=
 story_menu_9854=<font face="Default" color="#ffffff" >江湖勢力移花宮</font>
-story_menu_9855=<font face="Default" color="#ffffff" >江湖勢力桃花島</font>
 storyinfo_9801=聽唐門門主<a href="findnpc_new,school05,WorldNpc02203" style="HLStype1">唐天行</a>訴說
 storyinfo_9802=向老車伕<a href="findnpc_new,school05,Transschool05A" style="HLStype1">樊學冰</a>打聽最近江湖上的風吹草動
 storyinfo_9803=找<a href="findnpc_new,school05,WorldNpc02206" style="HLStype1">唐解語</a>瞭解唐門十三封的問題
@@ -103,7 +101,6 @@ storyinfo_9850=聽<a href="findnpc_new,born02,Transbron02A" style="HLStype1">屠
 storyinfo_9851=聽<a href="findnpc_new,city03,npc_wmp_2nzy_lphs" style="HLStype1">落魄的和尚</a>說說八大門派大入門條件。
 storyinfo_9852=聽<a href="findnpc_new,city03,npc_wmp_2nzy_lphs" style="HLStype1">落魄的和尚</a>訴說江湖上新興起的勢力
 storyinfo_9854=聽<a href="findnpc_new,city03,npc_wmp_2nzy_lphs" style="HLStype1">落魄的和尚</a>訴說移花宮入門條件
-storyinfo_9855=聽<a href="findnpc_new,city03,npc_wmp_2nzy_lphs" style="HLStype1">落魄的和尚</a>訴說桃花島入門條件
 storymenu_9801_1=<font face="Default" color="#ffffff" >門主有何憂慮，說出來晚輩替你分憂解難。</font>
 storymenu_9801_2=<font face="Default" color="#ffffff" >前輩，這唐門怎會無故受襲，我認為此事，必有蹊蹺。</font>
 storymenu_9801_3=<font face="Default" color="#ffffff" >好的，晚輩定會盡力而為的。</font>
@@ -153,9 +150,7 @@ storymenu_9852_1=<font face="Default" color="#ffffff" >還請大和尚細細說�
 storymenu_9852_2=<font face="Default" color="#ffffff" >額。。。這條件是有些苛刻。。。</font>
 storymenu_9852_3=<font face="Default" color="#ffffff" >額...無根...懂了懂了...</font>
 storymenu_9852_4=<font face="Default" color="#ffffff" >這移花宮倒也是一個有意思的另類勢力。</font>
-storymenu_9852_5=<font face="Default" color="#ffffff" >桃花島招收弟子的條件真是苛刻。。。</font>
 storymenu_9854_1=<font face="Default" color="#ffffff" >這移花宮倒也是一個有意思的另類勢力。</font>
-storymenu_9855_1=<font face="Default" color="#ffffff" >桃花島招收弟子的條件真是苛刻。。。</font>
 useiteminfo_9801=將<a href="TASK_ITEM,useitem_brsm04" style="HLStype1">信鴿</a>放飛
 useiteminfo_9802=與<a href="findnpc_new,school02,WorldNpc03003" style="HLStype1">蕭天放</a>共飲<a href="TASK_ITEM,useitem_brsm02" style="HLStype1">美酒</a>
 useiteminfo_9803=查看<a href="TASK_ITEM,useitem_brsm01" style="HLStype1">琴譜</a>的內容
@@ -200,5 +195,10 @@ specialinfo_933=通關<a href="findnpc_new,city04,CloneDoorNpc00048" style="HLSt
 story_9850_1=<font face="Default" color="#ffffff" >最近一段時間來往惡人谷的大多都是八大門派弟子，而今都趕往了華山。老朽只是負責接送人，其它的事情不該問的自然也不敢多過問，雖然不知他們為何事去華山，但感覺江湖上應該是有大事將要發生了。</font>
 story_9856_1=<font face="Default" color="#ffffff" >最近一段時間來往惡人谷的大多都是八大門派弟子，而今都趕往了華山。老朽只是負責接送人，其它的事情不該問的自然也不敢多過問，雖然不知他們為何事去華山，但感覺江湖上應該是有大事將要發生了。</font>
 specialinfo_930=完成<a href="findnpc_new,city05,TGnpc001" style="HLStype1">浣花山莊</a>踢館
-story_9852_1=<font face="Default" color="#ffffff" >當今大世，江湖勢力眾多一些江湖勢力不可小覷，其中最值得一提的當屬百獸莊、無根門、移花宮、桃花島這四個勢力。</font><font color="#ee7621">(欲入此四個勢力者，須為江湖名俊)。</font>
+story_9852_1=<font face="Default" color="#ffffff" >當今大世，江湖勢力眾多一些江湖勢力不可小覷，其中最值得一提的當屬百獸莊、無根門、移花宮、第一軒這四個勢力。</font><font color="#ee7621">(欲入此四個勢力者，須為江湖名俊)。</font>
+story_9855_1=<font face="Default" color="#ffffff" >四月島位於東海之上景色美不勝收。島上弟子行事輕狂、不拘禮法，島上弟子都精研奇門遁甲之術。</font><font color="#ee7621">(拜入第一軒須為愛好琴棋書畫的文雅之士，在九陰志二內完成後可通過奇遇拜入)</font>
+story_menu_9855=<font face="Default" color="#ffffff" >江湖勢力第一軒</font>
+storyinfo_9855=聽<a href="findnpc_new,city03,npc_wmp_2nzy_lphs" style="HLStype1">落魄的和尚</a>訴說第一軒入門條件
+storymenu_9852_5=<font face="Default" color="#ffffff" >第一軒招收弟子的條件真是苛刻。。。</font>
+storymenu_9855_1=<font face="Default" color="#ffffff" >第一軒招收弟子的條件真是苛刻。。。</font>
 

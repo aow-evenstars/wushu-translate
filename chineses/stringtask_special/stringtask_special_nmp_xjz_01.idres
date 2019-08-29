@@ -112,7 +112,6 @@ collectinfo_12401=Fish for a Gold Carp in the nearby pond
 collectinfo_12402=Fish for a Silver Carp in the nearby pond
 collectinfo_12403=Fish for a Red Carp in the nearby pond
 collectinfo_12404=Fish for a Yellow Carp in the nearby pond
-collectinfo_12405=Pass the Xu Village Entrance Qualification assessment and receive the token to join Xu Village.
 collectinfo_12460=Collect <a href="findnpc_new,," style="HLStype1"></a>ramie
 collectinfo_12461=Collect <a href="findnpc_new,," style="HLStype1">Newly-Hatched Silk</a>.
 collectinfo_12462=Collect <a href="findnpc_new,," style="HLStype1"></a>iron
@@ -143,12 +142,10 @@ hunterinfo_12450=Go defeat Yu Wenjue of Twilight Village
 hunterinfo_12451=Go defeat Zhao Ziji of Twilight Village
 hunterinfo_12452=Go defeat Xue Ren of Green Cloud Castle
 hunterinfo_12453=Go defeat Chou Hentian of Green Cloud Castle
-hunterinfo_12454=Go defeat Long Meng of Peacock Villa
 hunterinfo_12455=Go defeat Liu Tai of Salt Gang
 hunterinfo_12456=Go defeat Nangong Ping of Nangong Family
 hunterinfo_12457=Go defeat Shen Canghai of Golden Needle Sect
 hunterinfo_12458=Go defeat Donfang Yuhuan of Tianxiang Tea Forest
-hunterinfo_12459=Go defeat Gu Xiaotian of Huanhua Sword Sect
 hunterinfo_12460=Go to Southern Chengdu Beggar's Sect Outpost and kill the nearby <a href="findnpc_new,city05,xjz_rm_001" style="HLStype1">bandits</a>.
 hunterinfo_12461=<a href="findnpc_new,city05,WorldNpc09857" style="HLStype1">Xu Tianchi </a>wants to test your skill.
 hunterinfo_12462=Defeat <a href="findnpc_new,city05,xjz_zx_001" style="HLStype1">Cao Teng</a>.
@@ -161,9 +158,7 @@ hunterinfo_12468=Defeat Zhou Lifeng of the Forbidden Instance Twilight Village
 hunterinfo_12469=Defeat Wei Buji of the Forbidden Instance Twilight Village
 hunterinfo_12470=Defeat Bao Mengjie of Forbidden Instance Green Cloud Castle
 hunterinfo_12471=Defeat Cao Zhengqing who presides over the Forbidden Instance "Longmen Inn“
-hunterinfo_12472=Defeat Forbidden Instance Peacock Villa "Normal Difficulty" Lu Shihua
 hunterinfo_12473=Defeat Guo Gang of the Forbidden Instance Twilight Village
-hunterinfo_12474=Defeat Forbidden Instance Peacock Villa "Normal Difficulty" Nan Batian
 hunterinfo_12475=Go to the <a href="findnpc_new,city05,EventNpc_xjz_20" style="HLStype1">Kidnappers' gathering place </a>and defeat Wu Zhiming
 hunterinfo_12476=Go to the <a href="findnpc_new,city05,EventNpc_xjz_20" style="HLStype1">Kidnappers' gathering place </a>and defeat Yang Tianjiao
 interactinfo_12400=Go outside to the garden's <a href="findnpc_new,city05,xjz_task001" style="HLStype1">great spit</a>, and go to the side of the fire pit's <a href="findnpc_new,city05,Gather0001xjz" style="HLStype1">wood pile </a>to fetch some wood
@@ -200,7 +195,6 @@ interactinfo_12433=Go to <a href="findnpc_new,city05,xjz_origin_01_03" style="HL
 interactinfo_12434=Give 50 Jade Ruler Tokens to <a href="findnpc_new,city05,xjz_origin_02_01" style="HLStype1">Xu Yuntian</a>.
 interactinfo_12435=Give 30 Jade Ruler Tokens to <a href="findnpc_new,city05,xjz_origin_02_02" style="HLStype1">Xu Yuntian</a>.
 interactinfo_12436=Give 10 Jade Ruler Tokens to <a href="findnpc_new,city05,xjz_origin_02_03" style="HLStype1">Xu Yuntian</a>.
-interactinfo_12450=Go to Huanhua Sword Sect and ask <a href="findnpc_new,city05,WorldNpc09842" style="HLStype1">Jun Huaiming </a>about the matter of his lost sword
 interactinfo_12451=Go <a href="findnpc_new,city05,EventNpc38892" style="HLStype1">to the Nangong Family </a>and find Xu Tianchi
 interactinfo_12452=Go to the <a href="findnpc_new,city03,jl637" style="HLStype1">Xu Village Name Change Elder </a>and speak to him
 interactinfo_12453=Go to the <a href="findnpc_new,city03,jl235" style="HLStype1">Ministry of Revenue governor </a>and speak to him
@@ -471,4 +465,10 @@ useiteminfo_12409=Release the <a href="TASK_ITEM,taskitem_xjz_005" style="HLStyp
 SubmitNpcEx_38850=Speak with <a href="findnpc_new,city05,WorldNpc09796" style="HLStype1">Xu Yunzheng</a>(Remove the treasure before submitting the task or you may be unable to leave the faction)
 SubmitNpcEx_38851=Talk to leader <a href="findnpc_new,city05,WorldNpc09796" style="HLStype1">Xu Yunzheng</a>(Remove Treasure before submitting quest or you may fail to leave clan)
 specialinfo_767=Take part in a school war.
+hunterinfo_12454=Go defeat Long Meng of Peacock Villa
+hunterinfo_12459=Go defeat Gu Xiaotian of Huanhua Sword Sect
+hunterinfo_12472=Defeat Forbidden Instance Peacock Villa "Normal Difficulty" Lu Shihua
+hunterinfo_12474=Defeat Forbidden Instance Peacock Villa "Normal Difficulty" Nan Batian
+interactinfo_12450=Go to Huanhua Sword Sect and ask <a href="findnpc_new,city05,WorldNpc09842" style="HLStype1">Jun Huaiming </a>about the matter of his lost sword
+collectinfo_12405=Pass the Xu Village Entrance Qualification assessment and receive the token to join Xu Village.
 

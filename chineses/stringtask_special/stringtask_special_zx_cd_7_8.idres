@@ -11,12 +11,9 @@ DialogID_17161=You'll never get information from me. You'd better just kill me.
 DialogID_17162=What? Withered Samadhi Herb! Its potency has changed. Taking it can only increase the toxicity. Now, I have no choice but use the last resort! Combat poison with poison! You hurry to go get Salamander gall!
 DialogID_17163=I am much better now! I'm lucky enough to survive. I almost lost my life.
 DialogID_17164=I'm blamed for my impulse. I know that the matter is not all your responsibility.
-DialogID_17165=Using Seven-star Pond's force to challenge Xingxiu Sect is like a mantis tries to stop a chariot, seeming to seek death! You give him some lessons to let him know who he is!
 DialogID_17166=I am going to practice kung fu so I can protect Seven-Star Pond.
 DialogID_17167=
 DialogID_17168=Take this pill. It can protect you from infringement of their poison.
-DialogID_17169=You outsiders should not ask our Xingxiu Sect's matters!
-DialogID_17170=You'll never get information from me. I'd rather die.
 DialogID_17171=Cheng Liang was seriously poisoned and he keeps fainting.
 DialogID_17172=Hey ... hey ... The toxins have begun to spread. I have sealed several of my acupuncture points. I beg you to think of ways to save me.
 DialogID_17173=Hey, you hurry to collect some Runsi herb for me. By the way, get some food for me. I am very hungry now.
@@ -32,7 +29,6 @@ DialogID_17182=My disciples have come to consult with you. I hope you can give t
 DialogID_17183=Can you recommend members of the Dongfang family to various sects to study martial arts?
 DialogID_17184=The letter says the Nangong Family might seek refuge with the Imperial Court. You take some disciples to investigate the matter together.
 DialogID_17185=I heard that you want to leave. Long Ziyan wants to ask your help for something. You go to visit her to see what problems she has.
-DialogID_17186=If you pass by the Ancient Tomb Sect, please go see Yang Chirui. I haven't seen her for a long time.
 DialogID_17187=A group of blacksuit men broke into the mansion to steal weapons. I desperately blocked them, but there were so many blacksuit men that I couldn't stop them.
 DialogID_17188=What? He got hurt. Hurry to bring this Wound Healing Drug to heal his wounds.
 DialogID_17189=Thank you for saving me. I will repay you in the future.
@@ -50,7 +46,6 @@ DialogID_17200=I underestimated your strength. Fight him.
 QiecuoMenu_17152=I am not a criminal.
 QiecuoMenu_17157=Come on! I let you experience my means.
 QiecuoMenu_17158=Do not act on impulse
-QiecuoMenu_17159=Well, Come on. If you want to defeat Xingxiu Sect, you must become even stronger.
 QiecuoMenu_17161=How ungrateful you are!
 QiecuoMenu_17163=Sorry. Please take all out to attack me
 QiecuoMenu_17164=Excuse me. I will certainly exhaust my learning to fight you.
@@ -72,7 +67,6 @@ QiecuoTitle_17173=You dare slander the Nangong family? You must have a death wis
 collectinfo_17152=Collect <a href="findnpc_new,scene03,Gather00132m" style="HLStype1">Samadhi Herb</a>
 collectinfo_17153=Collect <a href="findnpc_new,scene04,Gather00133m" style="HLStype1">Withered Samadhi Grass</a>
 collectinfo_17154=Collect Salamander gall from <a href="findnpc_new,scene04,monrf042500" style="HLStype1">Salamander</a>
-collectinfo_17155=The bag was got from <a href="findnpc_new,born02,monrv027001" style="HLStype1">Xingxiu Sect Guard</a>
 collectinfo_17156=Collect <a href="findnpc_new,born02,Gather0023yl" style="HLStype1">Runsi Herb</a>
 collectinfo_17157=Collect <a href="findnpc_new,born02,Gather0024yl" style="HLStype1">Bird Egg</a>
 collectinfo_17158=Collect <a href="findnpc_new,city01,Gather0026yl" style="HLStype1">Sword Forging Part</a>
@@ -84,9 +78,6 @@ convoyinfo_17153=Take Changfeng to see <a href="findnpc,scene04,332,,467" style=
 convoyinfo_17154=Go to find <a href="findnpc,born02,-188,,-175" style="HLStype1">Tian Xiaozi</a>
 hunterinfo_17152=Go to find <a href="findnpc_new,scene03,WorldNpc06608" style="HLStype1">Ma Dayuan</a>
 hunterinfo_17153=Clear away the  <a href="findnpc_new,scene03,monrf035100" style="HLStype1">Scorpions</a>
-hunterinfo_17154=Defeat <a href="findnpc_new,scene03,monrf035200" style="HLStype1">Xingxiu Sect Disciple</a>
-hunterinfo_17155=Defeat <a href="findnpc_new,scene04,monrf042300" style="HLStype1">Xingxiu Sect Rascal</a>
-hunterinfo_17156=Go back to defeat <a href="findnpc_new,scene04,monrf042400" style="HLStype1"> Xingxiu Sect Disciples </a>
 hunterinfo_17157=Defeat <a href="findnpc_new,scene04,WorldNpc05873" style="HLStype1">Tian Xiaozi</a>
 hunterinfo_17158=Give some lessons to <a href="findnpc_new,scene04,WorldNpc05807" style="HLStype1"> Yang Banni </a>
 hunterinfo_17159=Defeat <a href="findnpc_new,scene04,WorldNpc05863" style="HLStype1">Yu Changfeng</a>
@@ -100,7 +91,6 @@ hunterinfo_17166=Teach a lesson <a href="findnpc_new,city01,monrc025017" style="
 hunterinfo_17167=Kill <a href="findnpc_new,city01,monrc025018" style="HLStype1">Outer City Rogues</a>
 hunterinfo_17168=Defeat <a href="findnpc_new,city01,WorldNpc08280" style="HLStype1">Dongfang Qian</a>
 hunterinfo_17169=Kill <a href="findnpc_new,city01,monrc025020" style="HLStype1">Masked Man</a>
-hunterinfo_17170=Defeat <a href="findnpc_new,city04,WorldNpc10589" style="HLStype1">Yan Bailou</a>
 hunterinfo_17171=Defeat <a href="findnpc_new,city05,monrc055300" style="HLStype1">Nangong Family Guard</a>
 hunterinfo_17172=Defeat <a href="findnpc_new,city05,monrc055000" style="HLStype1">Nangong Family Guard</a>
 hunterinfo_17173=Defeat <a href="findnpc_new,city05,WorldNpc09993" style="HLStype1">Nangong Lie</a>
@@ -119,7 +109,6 @@ interactinfo_17163=Talk to <a href="findnpc_new,scene04,WorldNpc05862" style="HL
 interactinfo_17164=Talk to <a href="findnpc_new,scene04,WorldNpc05807" style="HLStype1">Yang Banni</a>
 interactinfo_17165=Talk to <a href="findnpc_new,scene04,WorldNpc05862" style="HLStype1">Yu Tianchuan</a>
 interactinfo_17166=Talk to <a href="findnpc_new,scene04,WorldNpc05863" style="HLStype1">Yu Changfeng</a>
-interactinfo_17167=Go to <a href="findnpc_new,born02,EventNpc34308" style="HLStype1"> Xingxiu Sect </a>
 interactinfo_17168=Talk to <a href="findnpc_new,born02,WorldNpc09337" style="HLStype1">Yan Guhong</a>
 interactinfo_17169=Talk to <a href="findnpc_new,born02,WorldNpc09215" style="HLStype1">Ke Li</a>
 interactinfo_17170=Talk to <a href="findnpc_new,born02,WorldNpc09215" style="HLStype1">Ke Li</a>
@@ -203,12 +192,10 @@ okmenu_17199=Thank you for giving us drugs to save us
 okmenu_17200=Oh, you still have it? I can only bite the bullet
 story_17152_1=The disciples at the Yellow Branch of Beggar's Sect reported that a very serious poisoning incident occurred at Majia Village in Yellow Plains and a large number of villagers were poisoned to death.
 story_17152_2=The reason is unknown now. Don't speculate randomly. I hope that the Leader can immediately send someone to help investigate the matter.
-story_17153_1=Spare my life! I just follow orders. This time, we only struck those small forces which do not obey the Imperial Court. There are several goals to be stricken, that is, Beasts Mountain Villa and Seven-star Pond. I only know these!
 story_17154_1=I'm just a farmer who likes growing chrysanthemums. Why would the imperial court care about me?
 story_17155_1=What does it mean?
 story_17156_1=Oh, what drug can detoxify the poison in my body?
 story_17157_1=I'm Yan Guhong, the second son of Yanmen. I was dispatched by my father to Xingxiu Sea to inquire about the news.
-story_17157_2=Two young men from Majia Village in Yellow Plains are studying skills at Yanmen. Their relatives were all killed in that poisoning incident. Yanmen decides to seek justice for them! We know that Xingxiu Sect has sought refuge from the Imperial Court. Attacking Xingxiu Sect is imperative!
 story_17158_1=I do not know ... Oh ... right ... he likes walking every day. Around this time every day, he goes ... there ... to take a walk ...
 story_17159_1=My master gave me some Silver to buy rouge. Not long after I went out of the door was I targeted by some hoodlums outside the city. When they saw me alone, they ...
 story_17159_2=The Silver I took with me was robbed away. If my master knows this, she would beat me to death. (Cry)
@@ -218,7 +205,6 @@ story_menu_17152=Hi, what happens in the end?
 story_menu_17153=Tell me what you know, or I'll kill you!
 story_menu_17154=You are not worried at all, are you?
 story_menu_17155=What do you mean?
-story_menu_17156=I think of that the poison you suffer is likely the same poison which Xingxiu Sect cast in Majia Village! I think I have a way to remove it!
 story_menu_17157=Why do you come here?
 story_menu_17158=Tell me where Tian Xiaozi is?
 story_menu_17159=How about Xiao Ye?
@@ -238,7 +224,6 @@ storymenu_17153_1=You seem quite honest. I think you don't dare to lie in front 
 storymenu_17154_1=I had better go see Yu Changfeng.
 storymenu_17155_1=Tell me quickly! Don't hang up my appetite, or I'll kill you
 storymenu_17156_1=Samadhi Herb! I now go to collect it
-storymenu_17157_1=What unhappy things have happened between Yanmen and Xingxiu Sect?
 storymenu_17157_2=We are all human beings.
 storymenu_17158_1=Where is that place? Take me there quickly!
 storymenu_17159_1=How to do?
@@ -253,4 +238,19 @@ useiteminfo_17156=Use <a href="TASK_ITEM,useitem_98m" style="HLStype1">Silk Mois
 useiteminfo_17157=Use <a href="TASK_ITEM,useitem_98m" style="HLStype1">Silk Moistening Pill</a> on <a href="findnpc_new,born02,WorldNpc09186" style="HLStype1">Cheng Liang</a>
 useiteminfo_17158=Use <a href="TASK_ITEM,useitem_99m" style="HLStype1">Wound Healing Drug</a> on <a href="findnpc_new,city01,WorldNpc08528" style="HLStype1">Dongfang Zhongcheng</a>.
 useiteminfo_17159=Use <a href="TASK_ITEM,useitem_100m" style="HLStype1"> Jinjie Pill </a>
+DialogID_17165=Using Seven-star Pond's force to challenge Xingxiu Sect is like a mantis tries to stop a chariot, seeming to seek death! You give him some lessons to let him know who he is!
+DialogID_17169=You outsiders should not ask our Xingxiu Sect's matters!
+DialogID_17170=You'll never get information from me. I'd rather die.
+DialogID_17186=If you pass by the Ancient Tomb Sect, please go see Yang Chirui. I haven't seen her for a long time.
+QiecuoMenu_17159=Well, Come on. If you want to defeat Xingxiu Sect, you must become even stronger.
+collectinfo_17155=The bag was got from <a href="findnpc_new,born02,monrv027001" style="HLStype1">Xingxiu Sect Guard</a>
+hunterinfo_17154=Defeat <a href="findnpc_new,scene03,monrf035200" style="HLStype1">Xingxiu Sect Disciple</a>
+hunterinfo_17155=Defeat <a href="findnpc_new,scene04,monrf042300" style="HLStype1">Xingxiu Sect Rascal</a>
+hunterinfo_17156=Go back to defeat <a href="findnpc_new,scene04,monrf042400" style="HLStype1"> Xingxiu Sect Disciples </a>
+hunterinfo_17170=Defeat <a href="findnpc_new,city04,WorldNpc10589" style="HLStype1">Yan Bailou</a>
+interactinfo_17167=Go to <a href="findnpc_new,born02,EventNpc34308" style="HLStype1"> Xingxiu Sect </a>
+story_17153_1=Spare my life! I just follow orders. This time, we only struck those small forces which do not obey the Imperial Court. There are several goals to be stricken, that is, Beasts Mountain Villa and Seven-star Pond. I only know these!
+story_17157_2=Two young men from Majia Village in Yellow Plains are studying skills at Yanmen. Their relatives were all killed in that poisoning incident. Yanmen decides to seek justice for them! We know that Xingxiu Sect has sought refuge from the Imperial Court. Attacking Xingxiu Sect is imperative!
+story_menu_17156=I think of that the poison you suffer is likely the same poison which Xingxiu Sect cast in Majia Village! I think I have a way to remove it!
+storymenu_17157_1=What unhappy things have happened between Yanmen and Xingxiu Sect?
 

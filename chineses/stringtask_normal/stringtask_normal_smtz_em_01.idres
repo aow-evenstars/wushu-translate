@@ -34,13 +34,11 @@ complete_86610=The innocent bystanders got into trouble. Fortunately, some of th
 complete_86611=What? Those spies escaped? It doesn't matter. Don't be self-condemned! We just need the info. Our loss would outweigh our gains if you were injured just because you wanted to catch them.
 complete_86612=Oh, is this the info you got? Very good, let me have a careful look.
 complete_86613=Don't be self-condemned. All those criminals of the Imperial Court are extremely vicious. You can kill them, as long as you are safe.
-complete_86614=Even martial artists worry about the beasts of the Beasts Mountain Villa, let alone the commoners. Well done.
 complete_86615=Thank you for preventing a lot of bloodshed.
 complete_86616=It is a hand's turn for us to support just cause. I don't even grudge my life for it.
 complete_86617=Well, now that is has developed to this degree, let nature take its course.
 complete_86618=Tiger Roaring Villa plans to forge a demon blade to take human souls. Such evil deeds must have serious repercussions.
 complete_86619=<font face="Default" color="#ffffff"></font><font face="Default" color="#ffffff">Haven't you inquired any info </font><font face="Default" color="#ffffff">from Golden Needle Sect </font><font face="Default" color="#ffffff">about the peerless script? You've gone through many hardships. Go back now.</font>
-complete_86620=<font face="Default" color="#ffffff">Well done. After this battle, Mount Song Sword Sect couldn't dare to act wildly in a short term.</font>
 context_86600=<s>Wang Sheng's actions led to his wife's death, and it drove him mad. Find a way to cure him.
 context_86601=<s>The reason why the ugly girl's elder sister met misfortune for Beauty Mask was the man who ever abandoned her before. If you sympathize her, find this man and take revenge for that poor beauty.
 context_86602=<s>Zhou Lifeng stole a Green Heart Jade Braclet. Retrieve it, and punish him for his crime.
@@ -55,13 +53,9 @@ context_86610=<s>Some people went to Twilight Village looking to seek revenge on
 context_86611=<s>There might be the disciples of other schools disguising themselves as pilgrims to gather information. If this is true, take them to the headmaster.
 context_86612=<s>We must take care of those evil sects. Go to the Wanderer's Valley to check what they are doing.
 context_86613=Some criminals of the Imperial Court escaped to Mount Emei. If you see them, catch them all and deliver them to the officials.
-context_86614=<s>The people of Beasts Mountain Villa released tigers down the mountain to improve the tigers' preying skill, but this hurt a lot of people. Go to the Beasts Mountain Villa and take care of this.
-context_86615=<s>Xingxiu Sect have purchased a batch of bone-biting white ants to train. If they succeed there will be a disaster. Stop them now!
 context_86616=<s>If you meet any hostages, you must help them.
-context_86617=<s>A few days ago, a special sword script was stolen. We finally found out that it was taken by Huanhua Sword Sect. Go there and get it back!
 context_86618=<s>The Tiger Roaring Villa asked some wizards to forge a demon blade to take human souls. It will kill a lot of people if they are successful. You must prevent it from happening.
 context_86619=<s>Hundreds of years ago, a secret script teaching martial arts spread around the world but it ended up driving people mad. Recently, it appeared again in Golden Needle Sect. You must check it out immediately.
-context_86620=Recently, Mount Song Sword Sect appeared again in these parts, They have been communicating with evil sects so we must go to Mount Song and suppress their arrogance.
 submit_86600=I think so.
 submit_86601=Master's words, I shall remember seriously.
 submit_86602=Master is right, it's the truth.
@@ -97,13 +91,10 @@ target_86610=<s>Pass Twilight Village (different)forbidden area.
 target_86611=Join in School patrol, and gather intelligence.
 target_86612=Spy on Wanderer's Valley and gather intelligence.
 target_86613=Complete the Wanted mission
-target_86614=<s>Challenge Beasts Mountain Villa, and defeat them.
-target_86615=<s>Challenge Xingxiu Sect, and defeat them.
 target_86616=<s>Rescue the hostage from the kidnappers
 target_86617=<s>Capture extinct skill Lady Sword.
 target_86618=<s>Challenge Tiger Roaring Villa, and defeat them.
 target_86619=<s>Challenge Golden Needle Sect, and defeat them.
-target_86620=Accomplish the force challenge to Mount Song Sword Sect.
 title_86600=What's Love?
 title_86601=Former Love Debt
 title_86602=Return this Thing to its Owner
@@ -162,4 +153,13 @@ menu_86627_1=<font face="Default" color="#ffffff" >Brother referral</font>
 submit_86627=<font face="Default" color="#ffffff" >I know.</font>
 target_86627=Listen to the <a href="findnpc_new,school06,wd173" style="HLStype1">school's master guide</a>.
 title_86627=Brother Referral
+complete_86614=Even martial artists worry about the beasts of the Beasts Mountain Villa, let alone the commoners. Well done.
+complete_86620=<font face="Default" color="#ffffff">Well done. After this battle, Mount Song Sword Sect couldn't dare to act wildly in a short term.</font>
+context_86614=<s>The people of Beasts Mountain Villa released tigers down the mountain to improve the tigers' preying skill, but this hurt a lot of people. Go to the Beasts Mountain Villa and take care of this.
+context_86615=<s>Xingxiu Sect have purchased a batch of bone-biting white ants to train. If they succeed there will be a disaster. Stop them now!
+context_86617=<s>A few days ago, a special sword script was stolen. We finally found out that it was taken by Huanhua Sword Sect. Go there and get it back!
+context_86620=Recently, Mount Song Sword Sect appeared again in these parts, They have been communicating with evil sects so we must go to Mount Song and suppress their arrogance.
+target_86614=<s>Challenge Beasts Mountain Villa, and defeat them.
+target_86615=<s>Challenge Xingxiu Sect, and defeat them.
+target_86620=Accomplish the force challenge to Mount Song Sword Sect.
 

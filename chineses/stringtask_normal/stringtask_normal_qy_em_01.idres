@@ -124,7 +124,6 @@ CompleteMenu_18434=<font face="Default" color="#ffffff" >Fulfill the task.</font
 CompleteMenu_18437=<font face="Default" color="#ffffff">Thank you for saving my life. Miss Mo, if you need help in the future, I will do my best to help you.</font>
 CompleteMenu_18438=<font face="Default" color="#ffffff" >Fulfill the task.</font>
 CompleteMenu_18440=<font face="Default" color="#ffffff">These Beasts may migrate from Chengdu according to my observation.</font>
-CompleteMenu_18441=<font face="Default" color="#ffffff">Headmaster, I </font><font face="Default" color="#ffffff">have had a competition with disciples of Huanhua Sword Sect</font><font face="Default" color="#ffffff">.</font>
 CompleteMenu_18442=
 CompleteMenu_18443=<font face="Default" color="#ffffff">Headmaster, this is the information I've found.</font>
 CompleteMenu_18444=
@@ -225,7 +224,6 @@ context_18436=Sick Elder Martial Sister is very suspicious according to Mo Wuqin
 context_18437=The body of the poisoned elder martial sister is gone. Is it done by Sick elder martial sister? There are spies in Emei. I will report this to the Headmaster.
 context_18438=Elder Martial Sister Li Shihua has been dead for a long time. The person pretends to be her. Report this to the Headmaster.
 context_18440=Kill the beast that has been attacking people and then report to the master.
-context_18441=Huanhua Sword Sect advanced disciples want have a competition with Emei disciples. Go to the competition with the order.
 context_18442=Youngest martial sister has been distracted since she came back from Plum Village. Now she always mentions a Sachet. She says that there is an important event. But she doesn't tell the details. What is she thinking about?
 context_18443=The headmaster wants you to investigate Tangmen's plans.
 context_18444=The headmaster wants you to follow youngest sister and investigate her problem.
@@ -366,7 +364,6 @@ target_18434=Reply to <a href="findnpc_new,school06,World_qy_em012" style="HLSty
 target_18436=More and more doubts are found step by step. Maybe the truth is close.
 target_18437=He found he was not in the hell when he woke up. Maybe he was saved by <a href="findnpc_new,school06,World_qy_em006" style="HLStype1">Mo Wuqing</a>.
 target_18440=Kill the Beasts.
-target_18441=Defeat <a href="findnpc_new,city05,monc051400" style="HLStype1">Huanhua Sword Sect guard</a>.
 target_18442=Help Youngest Martial Sister get the Sachet.
 target_18443=Go to find the spy in Tangmen and get more information.
 target_18444=Find Youngest Sister.
@@ -414,7 +411,6 @@ title_18436=Reveal One's True Self
 title_18437=Signs of Danger Appearing Everywhere
 title_18438=Come To The Light
 title_18440=Be dangerous in the wild.
-title_18441=The Challenge of Huanhua Sword Sect
 title_18442=Emotion.
 title_18443=Gossip
 title_18444=Youngest Martial Sister's Secret
@@ -464,5 +460,9 @@ context_18404=Miss Xiu Er is missing. She went downhill and gathered herbs on th
 context_18473=The Magistrate was saved, but young martial sister Liu Xiaoman was captured. You should go and pursue them. This is an urgent matter. <br><font face="Default" color="#FF0000">Well-known Record:</font><br><s><font face="Default" color="#A020F0">After the saving the Magistrate, I decided we must go and save young martial sister. You should get three to five good friends to form a team. Enter Water Cave from (Chengdu 591,1103) to save young martial sister. You must defeat the Insect King before you can come back to Emei and report to Grandmaster. </font>
 menu_18404_1=<font face="Default" color="#ffffff" >Have you ever seen the bracelet, girl?</font>
 target_18404=Report to Abbess Jue Qing that Xiu Er is missing.
-canacceptmenu_18404=<font face="Default" color="#ffffff" >姑娘莫急且听我说。</font>
+canacceptmenu_18404=<font face="Default" color="#ffffff" >Have you ever seen the bracelet, girl?</font>
+CompleteMenu_18441=<font face="Default" color="#ffffff">Headmaster, I </font><font face="Default" color="#ffffff">have had a competition with disciples of Huanhua Sword Sect</font><font face="Default" color="#ffffff">.</font>
+context_18441=Huanhua Sword Sect advanced disciples want have a competition with Emei disciples. Go to the competition with the order.
+target_18441=Defeat <a href="findnpc_new,city05,monc051400" style="HLStype1">Huanhua Sword Sect guard</a>.
+title_18441=The Challenge of Huanhua Sword Sect
 

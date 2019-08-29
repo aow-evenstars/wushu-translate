@@ -1,4 +1,5 @@
 ﻿
+DialogID_48742=星宿老仙，法力无边。星宿派必定助西夏侵占中原武林..
 DialogID_48720=西夏虽然国力不比中原，但只有安民心才能让国力强盛，这点不算什么。
 DialogID_48721=站住，这里西夏一品堂，闲人禁止入内。
 DialogID_48722=唉，那些侍从唯四大恶人马首是瞻，我们也是敢怒不敢言啊。
@@ -10,7 +11,6 @@ DialogID_48736=哦？此事必须慎重处理，你去告诉青龙堂堂主审�
 DialogID_48737=此人顽固嘴硬，问不出什么东西，你先去帮我教训一下。
 DialogID_48739=前几日拓大人已经吩咐过，我已经把马奶酒送到苗盛家里，请少侠去那里取便可。
 DialogID_48740=马奶酒就在那边的坛中，少侠只管取便是。
-DialogID_48742=星宿老仙，法力无边。星宿派必定助西夏侵占中原武林..
 DialogID_48743=阿弥陀佛，吐蕃国一向与西夏交好..在下必定赴会.
 DialogID_48744=恶人谷，恶人谷，一入此谷，永不受苦..你回去告诉一品堂..恶人谷必定赴会..
 DialogID_48745=唉，我给燕大侠丢脸了啊，前几日被四大恶人的无恶不作羞辱，我无颜面对恩师啊。
@@ -74,19 +74,19 @@ interactinfo_48765=与<a href="findnpc_new,scene09,WorldNpc07202" style="HLStype
 okmenu_48720=嗯..李大人果然是好官..
 okmenu_48721=我这里有一封密信要送与你们堂主。
 okmenu_48722=岂有此理，我去帮你教训他们。
-okmenu_48724=好的。
-okmenu_48726=好。
-okmenu_48728=多谢神医。
-okmenu_48733=好吧。
+okmenu_48724=Ok.
+okmenu_48726=OK.
+okmenu_48728=Thank you, doctor.
+okmenu_48733=Very well.
 okmenu_48736=是好的，我这就去！
-okmenu_48737=好的，我这就去！
-okmenu_48739=好的。
-okmenu_48740=好的。
+okmenu_48737=Ok, I got to go!
+okmenu_48739=Ok.
+okmenu_48740=Ok.
 okmenu_48742=....
 okmenu_48743=嗯，在下先行告辞..
 okmenu_48744=那在下先行告辞了..
-okmenu_48745=我来帮你。
-okmenu_48747=好的。
+okmenu_48745=Let me help you!
+okmenu_48747=Ok.
 okmenu_48757=好的。在下先行告辞了。
 okmenu_48758=好的。在下先行告辞了。
 okmenu_48761=谢谢。在下先行告辞了..
@@ -100,7 +100,7 @@ story_menu_48769=老婆婆，有什么苦难告诉我，我来帮你。
 storyinfo_48767=听<a href="findnpc_new,scene09,sbcy527" style="HLStype1">贲凤</a>诉说
 storyinfo_48769=听<a href="findnpc_new,scene09,sbcy528" style="HLStype1">穆宁玉</a>诉说
 storymenu_48767_1=哦，有没有仙草什么的呀？
-storymenu_48767_2=好的。我这就去。
+storymenu_48767_2=OK. I will go now.
 storymenu_48769_1=岂有此理。我这就去教训那穷凶极恶，帮婆婆你报仇。
 useiteminfo_48729=对<a href="findnpc_new,scene09,sbcy530" style="HLStype1">恶赌鬼</a>使用<a href="TASK_ITEM,useitem_021p" style="HLStype1">红雪散</a>
 useiteminfo_48731=对<a href="findnpc_new,scene09,sbcy506" style="HLStype1">赫连光</a>使用<a href="TASK_ITEM,useitem_034p" style="HLStype1">十香返生丸</a>

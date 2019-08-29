@@ -1,6 +1,5 @@
 ﻿
 DialogID_1250=<s>The guard said you asked to see me. What for?
-DialogID_1251=<s>Perhaps you don't know I'm the descent of the Ancient Tomb Sect. Since you came from that place, do me a favor. Take this Jade baldric to Yang Xie.
 DialogID_1252=<s>Ziyan, why are you so cruel?
 DialogID_1253=<s>Anyhow I completely lose heart. The tassels on this sword is the Love Token given to me by Ziyan. You give it back to her.
 DialogID_1254=<s>I knew before that he would be very skilled and make great achievements. Please take this Letter to him and he will understand. We hope that he will give a helping hand to Dongfang Family.
@@ -218,8 +217,6 @@ interactinfo_1316=Talk with <a href="findnpc_new,scene05,WorldNpc06312" style="H
 interactinfo_1317=Talk with <a href="findnpc_new,scene05,WorldNpc06312" style="HLStype1">A Nisang</a>
 interactinfo_1318=Talk with <a href="findnpc_new,scene05,WorldNpc06305" style="HLStype1">Bai Sujue</a>
 interactinfo_1319=Talk with <a href="findnpc_new,city04,WorldNpc10141" style="HLStype1">Gambling House clerk</a>
-okmenu_1250=Beware, Youming Palace is about to attack the Dongfang!
-okmenu_1251=(Since this Younger Madam of Dongfang Family is the successor of Ancient Tomb Sect, why was Headmaster Yang unwilling to help? )
 okmenu_1252=What?
 okmenu_1253=Ok.
 okmenu_1254=Ok.
@@ -254,7 +251,7 @@ okmenu_1283=Is this place Five-Immortal Sect? I was asked to bring a letter to A
 okmenu_1284=It's over.
 okmenu_1285=It's over.
 okmenu_1286=What on earth are you doing?
-okmenu_1287=...
+okmenu_1287=<s>
 okmenu_1288=OK.
 okmenu_1289=Thank you.
 okmenu_1290=The Hundred Insects powder actually originated the from Five-Immortal Sect.
@@ -329,4 +326,7 @@ useiteminfo_1251=Take <a href="TASK_ITEM,useitem_013w" style="HLStype1">Detoxify
 useiteminfo_1252=Use <a href="TASK_ITEM,useitem_014w" style="HLStype1">Anti-Poison Pills</a>
 useiteminfo_1253=Take <a href="TASK_ITEM,useitem_015w" style="HLStype1">Venomous Insect Antidote Pill</a>
 useiteminfo_1254=Shake the <a href="TASK_ITEM,useitem_016w" style="HLStype1">Dice Bell</a>
+DialogID_1251=<s>Perhaps you don't know I'm the descent of the Ancient Tomb Sect. Since you came from that place, do me a favor. Take this Jade baldric to Yang Xie.
+okmenu_1250=Beware, Youming Palace is about to attack the Dongfang!
+okmenu_1251=(Since this Younger Madam of Dongfang Family is the successor of Ancient Tomb Sect, why was Headmaster Yang unwilling to help? )
 

@@ -564,4 +564,45 @@ interactinfo_60211=完成一次世家團隊玩法（需要多名幫會成員組�
 specialinfo_1200=擊殺敵對幫會玩家三次
 interactinfo_60078=幫會鏢需幫主、副幫主去幫會鏢師處開啟。<a href="findnpc_new,city01,NPC_guild_pray_001" style="HLStype1">燕京幫會鏢師</a>，<a href="findnpc_new,city02,NPC_guild_pray_002" style="HLStype1">蘇州幫會鏢師</a>，<a href="findnpc_new,city04,NPC_guild_pray_003" style="HLStype1">洛陽幫會鏢師</a>，<a href="findnpc_new,city05,NPC_guild_pray_004" style="HLStype1">成都幫會鏢師</a>。開啟幫會後鏢車將幫會鏢護送至中途休息處，玩家必須和鏢車同時抵達休息處才能完成任務。<a href="findnpc_new,city01,EventNpc_guild_biaoche_001" style="HLStype1">燕京休息處</a>，<a href="findnpc_new,city02,EventNpc_guild_biaoche_001" style="HLStype1">蘇州休息處</a>，<a href="findnpc_new,city04,EventNpc_guild_biaoche_001" style="HLStype1">洛陽休息處</a>，<a href="findnpc_new,city05,EventNpc_guild_biaoche_001" style="HLStype1">成都休息處</a>。
 interactinfo_60079=將幫會鏢護送至終點,玩家必須和鏢車同時抵達終點才能完成任務。<a href="findnpc_new,city01,EventNpc_guild_biaoche_002" style="HLStype1">燕京終點</a>，<a href="findnpc_new,city02,EventNpc_guild_biaoche_002" style="HLStype1">蘇州終點</a>，<a href="findnpc_new,city04,EventNpc_guild_biaoche_002" style="HLStype1">洛陽終點</a>，<a href="findnpc_new,city05,EventNpc_guild_biaoche_002" style="HLStype1">成都終點</a>。
+specialinfo_1173=師徒組隊一起踢館，完成六次
+specialinfo_1174=師徒組隊挑戰心魔,完成三次
+specialinfo_1175=師徒組隊挑戰世家團隊玩法（慕容之圍、藏劍閣試煉、燕門八陣圖、水牢禁地），完成三次
+SubmitNpcEx_70065=前往（燕京602 8 蘇州583 302 金陵1796 0 洛陽1244 491 成都840 689）找到姚之毅提交任務
+SubmitNpcEx_70067=找各大主城活動大使林梁領取全民贈禮禮包。
+SubmitNpcEx_70066=前往蘇州活動大使江磊處領取好禮。
+SubmitNpcEx_70068=挫敗任意一個勢力後，可前去各大主城活動大使林梁處領取獎勵。
+specialinfo_1185=挫敗江湖任意一個勢力。
+DialogID_60213=<font face="Default" color="#ffffff" >我這就將拜帖送至各大掌門處！</font>
+SubmitNpcEx_70069=去<a href="findnpc_new,city02,WorldNpc01650" style="HLStype1">荊惠娟</a>處獲取新年禮盒
+SubmitNpcEx_70070=回復<a href="findnpc_new,city02,WorldNpc01194" style="HLStype1">林天南</a>，拜帖送出之事
+interactinfo_60213=前去與<a href="findnpc_new,city02,Transcity02A" style="HLStype1">相軍</a>相談，吩咐其將拜帖送至各大掌門處
+okmenu_60213=<font face="Default" color="#ffffff" >恩</font>
+DialogID_60214=<font face="Default" color="#ffffff" >少俠行行好，我已經好多天沒吃東西了，我餓的頭暈腦脹，感覺身體都被掏空了。</font>
+DialogID_60215=<font face="Default" color="#ffffff" >節日雖然到了，我還是這麼孤獨，只得在此來求籤算一卦了，哎，時也命也。</font>
+DialogID_60216=<font face="Default" color="#ffffff" >書中自有顏如玉，書中自有黃金屋，少俠你可是來看書的？</font>
+DialogID_60217=<font face="Default" color="#ffffff" >今朝有酒今朝醉，哇好酒，好酒，少俠你可是來給我送好酒的？</font>
+interactinfo_60214=將年貨送給在蘇州酒樓門外乞討的老叫花子<a href="findnpc_new,city02,WorldNpc01135" style="HLStype1">范一湯</a>，給他送去溫暖。
+interactinfo_60215=將年貨送給在蘇州酒樓門外的孤寡老人<a href="findnpc_new,city02,WorldNpc01551" style="HLStype1">徐雲</a>，給她送去溫暖。
+interactinfo_60216=將年貨送給在蘇州城內的書齋先生<a href="findnpc_new,city02,WorldNpc01097" style="HLStype1">嚴倫</a>，給他送去溫暖。
+interactinfo_60217=將年貨送給在蘇州酒樓門外醉酒的醉漢<a href="findnpc_new,city02,WorldNpc01626" style="HLStype1">解廣天</a>，給他送去溫暖。
+okmenu_60214=<font face="Default" color="#ffffff" >這位大哥，您運氣不錯，我正好是幫酒樓掌櫃給您送些年貨的。</font>
+okmenu_60215=<font face="Default" color="#ffffff" >婆婆切勿悲傷，我是替酒樓掌櫃給</font><font face="Default" color="#ffffff" >您</font><font face="Default" color="#ffffff" >送些年貨，以便</font><font face="Default" color="#ffffff" >您</font><font face="Default" color="#ffffff" >度過佳節。</font>
+okmenu_60216=<font face="Default" color="#ffffff" >我是幫酒樓掌櫃給</font><font face="Default" color="#ffffff" >您</font><font face="Default" color="#ffffff" >送些過節年貨的，請您收下。</font>
+okmenu_60217=<font face="Default" color="#ffffff" >我是幫酒樓掌櫃給您送些過節年貨的，請您收下。</font>
+SubmitNpcEx_70075=前往各大主城活動大使林梁處領取新春大禮包。
+SubmitNpcEx_70076=前往各大主城活動大使林梁處領取新年紅包。
+SubmitNpcEx_70077=前往各大主城活動林梁處領取任務獎勵。
+SubmitNpcEx_70078=前往各大主城活動大使林梁處領取任務獎勵。
+SubmitNpcEx_70079=找蘇州書齋先生嚴倫領取開學好禮。
+SubmitNpcEx_70080=找蘇州書齋先生嚴倫領取開學好禮。
+SubmitNpcEx_70082=隱士老者可能會出現在蘇州（1370 877），(1440 884)，(1413 910)
+specialinfo_1211=完成2次心魔。
+specialinfo_1212=完成1次團練並疲勞到100%。
+specialinfo_1213=完成1次授業並完成度100%。
+specialinfo_1214=完成1次挫敗任意一個江湖勢力。
+specialinfo_1215=完成1次通關任意禁地。
+specialinfo_1216=完成1次戰場首勝（古墓或者沐雲莊戰場）。
+SubmitNpcEx_70401=與<a href="findnpc_new,born02,outlandwar_lpf001" style="HLStype1">武林戰場接引人</a>交談
+useiteminfo_60020=前往惡人谷<a href="findnpc_new,born02,npc_lzy_huodong_ergjb" style="HLStype1">無名塚</a>前上<a href="TASK_ITEM,useitem_lzy_huodong_ergjb" style="HLStype1">香</a>進行祭拜
+collectinfo_60038=幫助牧童尋回在蘇州飛丟的風箏（風箏刷出時會有大致位置的系統提示）
 

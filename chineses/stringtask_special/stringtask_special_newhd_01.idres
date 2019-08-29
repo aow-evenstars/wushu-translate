@@ -1,5 +1,4 @@
 ﻿
-DialogID_60002=<font face="Default" color="#ffffff" >We’re unsure of the factions in the Eastern Seas, so we cannot come to a unanimous conclusion.</font>
 SubmitNpcEx_60002=Speak with a Worshiping Minister in any major city to receive event rewards.
 SubmitNpcEx_60004=Speak to a Worshiping Minister in any major city and receive event rewards.
 SubmitNpcEx_60006=Speak to a Worshiping Minister in any major city and receive event rewards.
@@ -19,7 +18,6 @@ hd_dw_2015_d=Incense
 hd_dw_2015_e=Incense
 hd_dw_2015_f=Incense
 hd_dw_qes=Song Gujin
-okmenu_60002=<font face="Default" color="#ffffff" >Go into detail</font>
 quest_menu_60001=<font face="Default" color="#ffffff" >Celebrate our History</font>
 quest_menu_60002=<font face="Default" color="#ffffff" >Cherish the past in the holiday</font>
 quest_menu_60003=<font face="Default" color="#ffffff" >Cherish the past in the holiday</font>
@@ -366,44 +364,6 @@ SubmitNpcEx_70032=Get the Event Token.
 DialogID_60060=<font face="Default" color="#ffffff" > Make a wish under the tree at the Temple of the Old Matchmaker and be sure to have fortune next year! You’ll get that raise, find a lover, or become a great hero! This is the "Prayer</font><font face="Default" color="#ffffff" > </font><font face="Default" color="#ffffff" >Knot". You take it. </font>
 DialogID_60061=<font face="Default" color="#ffffff" > Make a wish under the tree at the Temple of the Old Matchmaker and be sure to have fortune next year! You’ll get that raise, find a lover, or become a great hero! This is the "Prayer Knot". You take it. </font>
 DialogID_60062=<font face="Default" color="#ffffff" > My grandma said that the Jiugong Elder made a New Year’s wish here. You give it a try. This is the "Prayer Knot". You take it. </font>
-interactinfo_60060=Get<a href="findnpc_new,city05,chunjie_qifu_001" style="HLStype1">the "Prayer Knot" </a>from Wan Zhi
-interactinfo_60061=Hand over the task to<a href="findnpc_new,city05,chunjie_qifu_001" style="HLStype1">Wan Zhi</a>to get the "Prayer Knot"
-interactinfo_60062=Talk with<a href="findnpc_new,city05,chunjie_qifu_001" style="HLStype1">Wan Zhi</a>to get the "Prayer Knot"
-okmenu_60060=<font face="Default" color="#ffffff" >Thank you </font>
-okmenu_60061=<font face="Default" color="#ffffff" >Thank you </font>
-okmenu_60062=<font face="Default" color="#ffffff" >Thank you!</font>
-SubmitNpcEx_70034=Find Lin Liang to claim rewards.
-SubmitNpcEx_70035=Find Lin Liang to claim rewards.
-SubmitNpcEx_70039=Find Lin Liang to claim rewards.
-useiteminfo_60009=Use the "Prayer Knot" in the package to make a wish.
-useiteminfo_60010=Use the "Prayer Knot" inside the package to make a wish.
-useiteminfo_60011=Use the "Prayer Knot" in the package
-SubmitNpcEx_70040=Find Lin Liang to claim rewards.
-specialinfo_1132=Complete the "Wander Together with Swords" with your companions. (Need to invite the captain to pick up their own sword to complete the task.)
-specialinfo_1133=Defeat any faction.
-specialinfo_1134=Complete 1 Team Practice and reach 100% exhaustion.
-specialinfo_1135=Win 5 times in the Random Arena.
-specialinfo_1136=Pass the Twilight Village Forbidden Instance 1 time on any difficulty to go between Untapped Potential and Martial Intuition (stage 1).
-specialinfo_1137=Pass the Green Cloud Castle Forbidden Instance 1 time on any difficulty to go between Forbidden Instance and Mentally Balanced (stage 2).
-specialinfo_1138=Pass the Green Cloud Castle Forbidden Instance 1 time on any difficulty to go between Expert of Self and Enlightened Virtuoso (stage 3).
-specialinfo_1139=Pass the Longmen Inn Forbidden Instance 1 time on any difficulty to go between Infallible Wushu Master and Astound the World (stage 4).
-specialinfo_1140=Pass the Yanmen Pass Forbidden Instance 1 time on any difficulty for Rocking Heaven and Earth to Eternally Unequalled (stage 5).
-specialinfo_1141=Pass the Yanmen Pass Forbidden Instance 1 time on any difficulty for Rocking Heaven and Earth to Eternally Unequalled (stage 6).
-SubmitNpcEx_70041=Submit completed tasks and get rewards by visiting the Holiday Event Ambassador Lin Liang.
-SubmitNpcEx_70042=Submit completed tasks and get rewards by visiting the Holiday Event Ambassador Lin Liang.
-SubmitNpcEx_70043=Submit completed tasks and get rewards by visiting the Holiday Event Ambassador Lin Liang.
-SubmitNpcEx_70044=Submit completed tasks and get rewards by visiting the Holiday Event Ambassador Lin Liang.
-SubmitNpcEx_70045=Submit completed tasks and get rewards by visiting the Holiday Event Ambassador Lin Liang.
-SubmitNpcEx_70046=Submit completed tasks and get rewards by visiting the Holiday Event Ambassador Lin Liang.
-DialogID_60067=<font face="Default" color="#ffffff" >I’ll give a Jar of wine to taste. If you like it, just help me with a favor and I can give you more. </font>
-okmenu_60067=<font face="Default" color="#ffffff" > Great! It’s great! </font>
-interactinfo_60067=Talk to <a href="findnpc_new,city02,hd_qm_mutong" style="HLStype1">Hu Xiao Dong</a>.
-collectinfo_60033=According to the clues from Lin Lang, visit the Hanshan Temple and find the copy of the Xiao Xiang Eight Scenes. It may be somewhere high.
-collectinfo_60034=According to the clues from Lin Lang, visit the Windbell Yard and find the copy of the Xiaoxiang Eight Scenes. It may be somewhere high.
-collectinfo_60035=According to the clues from Lin Lang, visit the Yongcui Villa and find the copy of the Xiao Xiang Eight Scenes. It may be in the tower.
-collectinfo_60036=According to the clues from Lin Lang, visit the Biluo Island and find the copy of the Xiao Xiang Eight Scenes. It may be under the eaves.
-SubmitNpcEx_70047=Submit the task to <a href="findnpc_new,city02,hd_qm_mutong" style="HLStype1">Hu Xiaodong</a>
-specialinfo_1144=Defeat any faction one time.
 DialogID_60063=<font face="Default" color="#ffffff" >Be careful. Those villains will not give it up. </font>
 DialogID_60064=<font face="Default" color="#ffffff" >Do tell it to the Wulin Leader! </font>
 QiecuoMenu_60007=<font face="Default" color="#ffffff" >It depends on your ability! </font>
@@ -448,16 +408,45 @@ hunterinfo_60013=Defeat <a href="findnpc_new,born02,waiyuwulin_028" style="HLSty
 hunterinfo_60014=Defeat <a href="findnpc_new,born02,waiyuwulin_029" style="HLStype1">the Foreign Wulin Fighter</a>
 hunterinfo_60015=Defeat <a href="findnpc_new,born02,waiyuwulin_030" style="HLStype1">the Foreign Wulin Fighter</a>
 hunterinfo_60910=Win a Ruined Valley Battle
+interactinfo_60060=Get<a href="findnpc_new,city05,chunjie_qifu_001" style="HLStype1">the "Prayer Knot" </a>from Wan Zhi
+interactinfo_60061=Hand over the task to<a href="findnpc_new,city05,chunjie_qifu_001" style="HLStype1">Wan Zhi</a>to get the "Prayer Knot"
+interactinfo_60062=Talk with<a href="findnpc_new,city05,chunjie_qifu_001" style="HLStype1">Wan Zhi</a>to get the "Prayer Knot"
 interactinfo_60063=That man is being hunted in the daytime! Ask <a href="findnpc_new,city02,waiyuwulin_001" style="HLStype1">Zhangsun Kong</a> what happened.
 interactinfo_60064=Talk with <a href="findnpc_new,city02,waiyuwulin_001" style="HLStype1">Zhangsun Kong</a>.
+okmenu_60060=<font face="Default" color="#ffffff" >Thank you </font>
+okmenu_60061=<font face="Default" color="#ffffff" >Thank you </font>
+okmenu_60062=<font face="Default" color="#ffffff" >Thank you!</font>
 okmenu_60063=<font face="Default" color="#ffffff" >Don't worry. I'll help you. </font>
 okmenu_60064=<font face="Default" color="#ffffff" >Be careful. Leave here as soon as possible. I should go now. </font>
 story_60014_1=<font face="Default" color="#ffffff" >All right. I've never seen the skills of that killer. I'm afraid he is a foreign killer. I don't know why he wanted to kill me. </font>
 story_60014_2=<font face="Default" color="#ffffff" >What? Zhuo Bei has arrived again? Where is he now? </font>
 story_menu_60014=<font face="Default" color="#ffffff" >Are you okay? </font>
 storyinfo_60014=Talk with <a href="findnpc_new,born03,waiyuwulin_002" style="HLStype1">Lin Tiannan</a>.
+SubmitNpcEx_70034=Find Lin Liang to claim rewards.
+SubmitNpcEx_70035=Find Lin Liang to claim rewards.
+SubmitNpcEx_70039=Find Lin Liang to claim rewards.
 storymenu_60014_1=<font face="Default" color="#ffffff" >Leader, they are the foreign killers. </font>
 storymenu_60014_2=<font face="Default" color="#ffffff" >I met a Ruined Valley Disciple at Suzhou. He said that Zhuo Bei had already besieged the Ruined Valley. Please reinforce them. </font>
+useiteminfo_60009=Use the "Prayer Knot" in the package to make a wish.
+useiteminfo_60010=Use the "Prayer Knot" inside the package to make a wish.
+useiteminfo_60011=Use the "Prayer Knot" in the package
+SubmitNpcEx_70040=Find Lin Liang to claim rewards.
+specialinfo_1132=Complete the "Wander Together with Swords" with your companions. (Need to invite the captain to pick up their own sword to complete the task.)
+specialinfo_1133=Defeat any faction.
+specialinfo_1134=Complete 1 Team Practice and reach 100% exhaustion.
+specialinfo_1135=Win 5 times in the Random Arena.
+specialinfo_1136=Pass the Twilight Village Forbidden Instance 1 time on any difficulty to go between Untapped Potential and Martial Intuition (stage 1).
+specialinfo_1137=Pass the Green Cloud Castle Forbidden Instance 1 time on any difficulty to go between Forbidden Instance and Mentally Balanced (stage 2).
+specialinfo_1138=Pass the Green Cloud Castle Forbidden Instance 1 time on any difficulty to go between Expert of Self and Enlightened Virtuoso (stage 3).
+specialinfo_1139=Pass the Longmen Inn Forbidden Instance 1 time on any difficulty to go between Infallible Wushu Master and Astound the World (stage 4).
+specialinfo_1140=Pass the Yanmen Pass Forbidden Instance 1 time on any difficulty for Rocking Heaven and Earth to Eternally Unequalled (stage 5).
+specialinfo_1141=Pass the Yanmen Pass Forbidden Instance 1 time on any difficulty for Rocking Heaven and Earth to Eternally Unequalled (stage 6).
+SubmitNpcEx_70041=Submit completed tasks and get rewards by visiting the Holiday Event Ambassador Lin Liang.
+SubmitNpcEx_70042=Submit completed tasks and get rewards by visiting the Holiday Event Ambassador Lin Liang.
+SubmitNpcEx_70043=Submit completed tasks and get rewards by visiting the Holiday Event Ambassador Lin Liang.
+SubmitNpcEx_70044=Submit completed tasks and get rewards by visiting the Holiday Event Ambassador Lin Liang.
+SubmitNpcEx_70045=Submit completed tasks and get rewards by visiting the Holiday Event Ambassador Lin Liang.
+SubmitNpcEx_70046=Submit completed tasks and get rewards by visiting the Holiday Event Ambassador Lin Liang.
 SubmitNpcEx_70803=Receive reward from <a href="findnpc_new,born02,yywl_gujjztz_001" style="HLStype1">Ge Lin (Active Challenge Clerk)</a>.
 hunterinfo_60009=Join Active Challenge at <a href="findnpc_new,born02,yywl_gujjztz_001" style="HLStype1">Ge Lin (Active Challenge Clerk)</a> and win the challenge.
 specialinfo_1142=Find <a href="findnpc_new,born02,wywl_sneakon_001" style="HLStype1">Tan Zhaofei</a> and complete Collect Information.
@@ -494,6 +483,15 @@ SubmitNpcEx_70916=Kill all the targets
 SubmitNpcEx_70919=Make a choice
 SubmitNpcEx_70920=Make a choice
 SubmitNpcEx_70921=Send message to <a href="findnpc_new,born02,juqingxiang_001" style="HLStype1">Cheng Hong</a>.
+DialogID_60067=<font face="Default" color="#ffffff" >I’ll give a Jar of wine to taste. If you like it, just help me with a favor and I can give you more. </font>
+okmenu_60067=<font face="Default" color="#ffffff" > Great! It’s great! </font>
+interactinfo_60067=Talk to <a href="findnpc_new,city02,hd_qm_mutong" style="HLStype1">Hu Xiao Dong</a>.
+collectinfo_60033=According to the clues from Lin Lang, visit the Hanshan Temple and find the copy of the Xiao Xiang Eight Scenes. It may be somewhere high.
+collectinfo_60034=According to the clues from Lin Lang, visit the Windbell Yard and find the copy of the Xiaoxiang Eight Scenes. It may be somewhere high.
+collectinfo_60035=According to the clues from Lin Lang, visit the Yongcui Villa and find the copy of the Xiao Xiang Eight Scenes. It may be in the tower.
+collectinfo_60036=According to the clues from Lin Lang, visit the Biluo Island and find the copy of the Xiao Xiang Eight Scenes. It may be under the eaves.
+SubmitNpcEx_70047=Submit the task to <a href="findnpc_new,city02,hd_qm_mutong" style="HLStype1">Hu Xiaodong</a>
+specialinfo_1144=Defeat any faction one time.
 SubmitNpcEx_70049=Talk with <a href="findnpc_new,city02,hd_shcx_001" style="HLStype1">Zhou Yangjun (Bai Xiaosheng's Successor)</a>.
 SubmitNpcEx_70050=You must have got something from the reclusive expert. Go find <font face="Default" color="#EE0000" >Lin Liang</font>.
 okmenu_60068=<font face="Default" color="#ffffff" >Thank you. </font>
@@ -530,17 +528,23 @@ specialinfo_1148=Defeat any Faction once.
 specialinfo_1149=Complete the Forbidden Instance once.
 specialinfo_1150=Win the Battlefield once.
 specialinfo_1151=Win the Ruined Valley Battle twice.
-SubmitNpcEx_70401=Talk with <a href="findnpc_new,born02,outlandwar_lpf001" style="HLStype1">Wulin Battlefield</a> Guide
-useiteminfo_60020=Move to Evil Men's Valley<a href="findnpc_new,born02,npc_lzy_huodong_ergjb" style="HLStype1">in front of Unmarked graves </a><a href="TASK_ITEM,useitem_lzy_huodong_ergjb" style="HLStype1">light incense</a>to worship the hero       
-SubmitNpcEx_60002=Speak with a Worshiping Minister in any major city to receive event rewards.
-title_70401=The worship in Evil Men's Valley 
 SubmitNpcEx_70059=Once you finish a quest, report to the Event Ambassador Lin Liang.
 specialinfo_1161=Complete the Heaven Reaching Peak
+SubmitNpcEx_70060=Talk with the <a href="findnpc_new,city05,biaoqian_npc_01" style="HLStype1">Strange Old Man</a>.
 SubmitNpcEx_70062=Go to Event Ambassador Lin Liang to claim rewards
 DialogID_60076=DialogID_60076
 interactinfo_60076=interactinfo_60076
 okmenu_60076=<font face="Default" color="#ffffff" >Thanks. I'm going now. </font>
 collectinfo_60037=Once you obtain the Strange state, head to Evil Men's Valley and find the foreign minions. Let them get you to their leader, play finger-guessing game with the leader and make him drunk and then collect the intelligence. <font color="#FF3030"> (These minions are scattered in Evil Men's Valley’s (437 424), (776 423), (818 348). Be careful – there is only one way to slip through, trick the minions and have them give their leader out.) </font>
+SubmitNpcEx_70064=Go to Event Ambassador Shang Wu to claim rewards
+SubmitNpcEx_70063=Go to Event Ambassador Shang Wu to claim rewards
+SubmitNpcEx_70201=<a href="findnpc_new,city01,Guild_tasknpc_001" style="HLStype1">Guild Task Master (Yanjing)</a><br><a href="findnpc_new,city02,Guild_tasknpc_001" style="HLStype1">Guild Task Master (Suzhou)</a><br><a href="findnpc_new,city04,Guild_tasknpc_001" style="HLStype1">Guild Task Master (Luoyang)</a><br><a href="findnpc_new,city05,Guild_tasknpc_001" style="HLStype1">Guild Task Master (Chengdu)</a><br>
+SubmitNpcEx_70202=<a href="findnpc_new,city01,Guild_tasknpc_001" style="HLStype1">Guild Task Master (Yanjing)</a><br><a href="findnpc_new,city02,Guild_tasknpc_001" style="HLStype1">Guild Task Master (Suzhou)</a><br><a href="findnpc_new,city04,Guild_tasknpc_001" style="HLStype1">Guild Task Master (Luoyang)</a><br><a href="findnpc_new,city05,Guild_tasknpc_001" style="HLStype1">Guild Task Master (Chengdu)</a><br>
+SubmitNpcEx_70203=<a href="findnpc_new,city01,Guild_tasknpc_001" style="HLStype1">Guild Task Master (Yanjing)</a><br><a href="findnpc_new,city02,Guild_tasknpc_001" style="HLStype1">Guild Task Master (Suzhou)</a><br><a href="findnpc_new,city04,Guild_tasknpc_001" style="HLStype1">Guild Task Master (Luoyang)</a><br><a href="findnpc_new,city05,Guild_tasknpc_001" style="HLStype1">Guild Task Master (Chengdu)</a><br>
+SubmitNpcEx_70204=<a href="findnpc_new,city01,Guild_tasknpc_001" style="HLStype1">Guild Task Master (Yanjing)</a><br><a href="findnpc_new,city02,Guild_tasknpc_001" style="HLStype1">Guild Task Master (Suzhou)</a><br><a href="findnpc_new,city04,Guild_tasknpc_001" style="HLStype1">Guild Task Master (Luoyang)</a><br><a href="findnpc_new,city05,Guild_tasknpc_001" style="HLStype1">Guild Task Master (Chengdu)</a><br>
+SubmitNpcEx_70205=<a href="findnpc_new,city01,Guild_tasknpc_001" style="HLStype1">Guild Task Master (Yanjing)</a><br><a href="findnpc_new,city02,Guild_tasknpc_001" style="HLStype1">Guild Task Master (Suzhou)</a><br><a href="findnpc_new,city04,Guild_tasknpc_001" style="HLStype1">Guild Task Master (Luoyang)</a><br><a href="findnpc_new,city05,Guild_tasknpc_001" style="HLStype1">Guild Task Master (Chengdu)</a><br>
+SubmitNpcEx_70206=<a href="findnpc_new,city01,Guild_tasknpc_001" style="HLStype1">Guild Task Master (Yanjing)</a><br><a href="findnpc_new,city02,Guild_tasknpc_001" style="HLStype1">Guild Task Master (Suzhou)</a><br><a href="findnpc_new,city04,Guild_tasknpc_001" style="HLStype1">Guild Task Master (Luoyang)</a><br><a href="findnpc_new,city05,Guild_tasknpc_001" style="HLStype1">Guild Task Master (Chengdu)</a><br>
+SubmitNpcEx_70207=<a href="findnpc_new,city01,Guild_tasknpc_001" style="HLStype1">Guild Task Master (Yanjing)</a><br><a href="findnpc_new,city02,Guild_tasknpc_001" style="HLStype1">Guild Task Master (Suzhou)</a><br><a href="findnpc_new,city04,Guild_tasknpc_001" style="HLStype1">Guild Task Master (Luoyang)</a><br><a href="findnpc_new,city05,Guild_tasknpc_001" style="HLStype1">Guild Task Master (Chengdu)</a><br>
 collectinfo_60202=Collect Iron Ingots (Use Life Skills)
 collectinfo_60203=Collect Copper Ingots (Use Life Skills)
 collectinfo_60204=Collect White poplar wood (Use Life Skills)
@@ -552,22 +556,56 @@ collectinfo_60209=Find the <a href="findnpc_new,city05,bhzc_xhq_001" style="HLSt
 interactinfo_60201=Finish Guild Team Practice once (all the participants should be from the same Guild)
 interactinfo_60210=Practice and Cultivate your Skills once (Obtain rewards from Event Ambassador)
 interactinfo_60211=Finish Guild Team gameplay once (requires multiple Guild members, please see the description at The Four Noble Households interface)
+specialinfo_1200=Defeat enemy Guild players 3 times
 interactinfo_60078=Guild Armed Escort is activated by the Guild Leader or Vice Guild Leader. <a href="findnpc_new,city01,NPC_guild_pray_001" style="HLStype1">Yanjing Guild Armed Escort</a>, <a href="findnpc_new,city02,NPC_guild_pray_002" style="HLStype1">Suzhou Guild Armed Escort</a>, <a href="findnpc_new,city04,NPC_guild_pray_003" style="HLStype1">Luoyang Guild Armed Escort</a>, <a href="findnpc_new,city05,NPC_guild_pray_004" style="HLStype1">Chengdu Guild Armed Escort</a>. Once Guild Escort is activated, get the cart to the Halt Point. You should reach it together with the Escort to complete the task. <a href="findnpc_new,city01,EventNpc_guild_biaoche_001" style="HLStype1">Yanjing Halt Point</a>, <a href="findnpc_new,city02,EventNpc_guild_biaoche_001" style="HLStype1">Suzhou Halt Point</a>, <a href="findnpc_new,city04,EventNpc_guild_biaoche_001" style="HLStype1">Luoyang Halt Point</a>, <a href="findnpc_new,city05,EventNpc_guild_biaoche_001" style="HLStype1">Chengdu Halt Point</a>.
 interactinfo_60079=Now proceed with the Escort to the Destination point. You should reach it together with the Escort to complete the task. <a href="findnpc_new,city01,EventNpc_guild_biaoche_002" style="HLStype1">Yanjing Destination Point</a>, <a href="findnpc_new,city02,EventNpc_guild_biaoche_002" style="HLStype1">Suzhou Destination Point</a>, <a href="findnpc_new,city04,EventNpc_guild_biaoche_002" style="HLStype1">Luoyang Destination Point</a>, <a href="findnpc_new,city05,EventNpc_guild_biaoche_002" style="HLStype1">Chengdu Destination Point</a>.
+DialogID_60002=<font face="Default" color="#ffffff" >We’re unsure of the factions in the Eastern Seas, so we cannot come to a unanimous conclusion.</font>
+okmenu_60002=<font face="Default" color="#ffffff" >Go into detail</font>
 DialogID_60029=<font face="Default" color="#ffffff" >What? Blood Blade Clan disciple joined forces with the Yagyus</font><font face="Default" color="#ffffff" >? </font><font face="Default" color="#ffffff" >This disciple </font><font face="Default" color="#ffffff" >must be die! </font><font face="Default" color="#ffffff" >You </font><font face="Default" color="#ffffff" >have to kill this disciple by all means! </font>
 story_60009_1=<font face="Default" color="#ffffff" >Oh yes! A member of the Blood Blade Clan is joining us tonight. With his unique skills, we will be stronger than ever! </font>
 storymenu_60010_2=<font face="Default" color="#ffffff" >So you know about my mission</font>. <font face="Default" color="#ffffff" >To be honest, </font><font face="Default" color="#ffffff" >I am here </font><font face="Default" color="#ffffff" >to retrieve the Ocean Map of the Eastern Seas</font>. <font face="Default" color="#ffffff" >I saw Blood Blade Clan disciple joined forces with the Yagyus. So I tried to kill him</font><font face="Default" color="#ffffff" >.  </font>
-SubmitNpcEx_70060=Talk with the <a href="findnpc_new,city05,biaoqian_npc_01" style="HLStype1">Strange Old Man</a>.
-SubmitNpcEx_70064=Go to Event Ambassador Shang Wu to claim rewards
-SubmitNpcEx_70063=Go to Event Ambassador Shang Wu to claim rewards
-SubmitNpcEx_70201=<a href="findnpc_new,city01,Guild_tasknpc_001" style="HLStype1">Guild Task Master (Yanjing)</a><br><a href="findnpc_new,city02,Guild_tasknpc_001" style="HLStype1">Guild Task Master (Suzhou)</a><br><a href="findnpc_new,city04,Guild_tasknpc_001" style="HLStype1">Guild Task Master (Luoyang)</a><br><a href="findnpc_new,city05,Guild_tasknpc_001" style="HLStype1">Guild Task Master (Chengdu)</a><br>
-SubmitNpcEx_70202=<a href="findnpc_new,city01,Guild_tasknpc_001" style="HLStype1">Guild Task Master (Yanjing)</a><br><a href="findnpc_new,city02,Guild_tasknpc_001" style="HLStype1">Guild Task Master (Suzhou)</a><br><a href="findnpc_new,city04,Guild_tasknpc_001" style="HLStype1">Guild Task Master (Luoyang)</a><br><a href="findnpc_new,city05,Guild_tasknpc_001" style="HLStype1">Guild Task Master (Chengdu)</a><br>
-SubmitNpcEx_70203=<a href="findnpc_new,city01,Guild_tasknpc_001" style="HLStype1">Guild Task Master (Yanjing)</a><br><a href="findnpc_new,city02,Guild_tasknpc_001" style="HLStype1">Guild Task Master (Suzhou)</a><br><a href="findnpc_new,city04,Guild_tasknpc_001" style="HLStype1">Guild Task Master (Luoyang)</a><br><a href="findnpc_new,city05,Guild_tasknpc_001" style="HLStype1">Guild Task Master (Chengdu)</a><br>
-SubmitNpcEx_70204=<a href="findnpc_new,city01,Guild_tasknpc_001" style="HLStype1">Guild Task Master (Yanjing)</a><br><a href="findnpc_new,city02,Guild_tasknpc_001" style="HLStype1">Guild Task Master (Suzhou)</a><br><a href="findnpc_new,city04,Guild_tasknpc_001" style="HLStype1">Guild Task Master (Luoyang)</a><br><a href="findnpc_new,city05,Guild_tasknpc_001" style="HLStype1">Guild Task Master (Chengdu)</a><br>
-SubmitNpcEx_70205=<a href="findnpc_new,city01,Guild_tasknpc_001" style="HLStype1">Guild Task Master (Yanjing)</a><br><a href="findnpc_new,city02,Guild_tasknpc_001" style="HLStype1">Guild Task Master (Suzhou)</a><br><a href="findnpc_new,city04,Guild_tasknpc_001" style="HLStype1">Guild Task Master (Luoyang)</a><br><a href="findnpc_new,city05,Guild_tasknpc_001" style="HLStype1">Guild Task Master (Chengdu)</a><br>
-SubmitNpcEx_70206=<a href="findnpc_new,city01,Guild_tasknpc_001" style="HLStype1">Guild Task Master (Yanjing)</a><br><a href="findnpc_new,city02,Guild_tasknpc_001" style="HLStype1">Guild Task Master (Suzhou)</a><br><a href="findnpc_new,city04,Guild_tasknpc_001" style="HLStype1">Guild Task Master (Luoyang)</a><br><a href="findnpc_new,city05,Guild_tasknpc_001" style="HLStype1">Guild Task Master (Chengdu)</a><br>
-SubmitNpcEx_70207=<a href="findnpc_new,city01,Guild_tasknpc_001" style="HLStype1">Guild Task Master (Yanjing)</a><br><a href="findnpc_new,city02,Guild_tasknpc_001" style="HLStype1">Guild Task Master (Suzhou)</a><br><a href="findnpc_new,city04,Guild_tasknpc_001" style="HLStype1">Guild Task Master (Luoyang)</a><br><a href="findnpc_new,city05,Guild_tasknpc_001" style="HLStype1">Guild Task Master (Chengdu)</a><br>
-specialinfo_1200=Defeat enemy Guild players 3 times
-
+SubmitNpcEx_70401=Talk to <a href="findnpc_new,born02,outlandwar_lpf001" style="HLStype1">Wulin Battlefield Guide</a>.
+useiteminfo_60020=Head to <a href="findnpc_new,born02,npc_lzy_huodong_ergjb" style="HLStype1">Nameless Tomb</a> at Ruined Valley and worship with the <a href="TASK_ITEM,useitem_lzy_huodong_ergjb" style="HLStype1">Incense</a>.
+title_70401=The worship in Evil Men's Valley
 SubmitNpcEx_70329=Visit Qian Fugui for the Gift Pack
 SubmitNpcEx_70330=Visit Qian Fugui for the Gift Pack
+SubmitNpcEx_70082=Old Hermit may appear at Suzhou (1370, 877), (1440, 884), or (1413, 910).
+specialinfo_1173=Master and disciple form a team and challenge martial art club for six times.
+specialinfo_1174=Master and disciple form a team and challenge Heart Devil for three times.
+specialinfo_1175=Master and disciple form a team and challenge Family Team Event (Siege of Murong, Trial in Sword Pavilion, Yamen Eight Arrays Drawing, or Water Dungeon Forbidden Place) for three times.
+SubmitNpcEx_70065=Head to (Yanjing 602, 8; Suzhou 583, 302; Jinling 1796, 0; Luoyang 1244, 491; Chengdu 840, 689) and find Yao Zhiyi to complete the quest.
+SubmitNpcEx_70067=Find Lin Liang the Event Ambassador and claim All Players Reward Gift Pack.
+SubmitNpcEx_70066=Head to Jiang Lei the Event Ambassador at Suzhou to claim fine gifts.
+SubmitNpcEx_70068=Claim rewards at Lin Liang the Event Ambassador after defeating any faction.
+specialinfo_1185=Defeat any Jianghu Faction.
+DialogID_60213=<font face="Default" color="#ffffff" >I'm going to send the invitation note.</font>
+SubmitNpcEx_70069=Claim New Year Gift Box from <a href="findnpc_new,city02,WorldNpc01650" style="HLStype1">Jing Huijuan</a>.
+SubmitNpcEx_70070=Report to <a href="findnpc_new,city02,WorldNpc01194" style="HLStype1">Lin Tiannan</a> that you've sent out the invitation note.
+interactinfo_60213=Talk to <a href="findnpc_new,city02,Transcity02A" style="HLStype1">Xiang Jun</a>, request him to send the invitation notes to the grandmasters.
+okmenu_60213=<font face="Default" color="#ffffff" >All right.</font>
+DialogID_60214=<font face="Default" color="#ffffff" >I haven't eaten for many days, please help me.</font>
+DialogID_60215=<font face="Default" color="#ffffff" >The festival is coming, but I'm still alone.</font>
+DialogID_60216=<font face="Default" color="#ffffff" >Are you coming for reading?</font>
+DialogID_60217=<font face="Default" color="#ffffff" >Do you have any good wine?</font>
+interactinfo_60214=Deliver the new year goods to the old beggar <a href="findnpc_new,city02,WorldNpc01135" style="HLStype1">Fan Yitang</a>.
+interactinfo_60215=Deliver the new year goods to the old widow <a href="findnpc_new,city02,WorldNpc01551" style="HLStype1"> Xu Yun</a>
+interactinfo_60216=Deliver the new year goods to the Study Master <a href="findnpc_new,city02,WorldNpc01097" style="HLStype1">Yan Lun</a>
+interactinfo_60217=Deliver the new year goods to the drunkard <a href="findnpc_new,city02,WorldNpc01626" style="HLStype1">Xie Guangtian</a>.
+okmenu_60214=<font face="Default" color="#ffffff" >The tavern owner asked me to send some new year goods to you.</font>
+okmenu_60215=<font face="Default" color="#ffffff" >The tavern owner asked me to send some new year goods to you.</font>
+okmenu_60216=<font face="Default" color="#ffffff" >The tavern owner asked me to send some new year goods to you.</font><font face="Default" color="#ffffff" >Greetings </font><font face="Default" color="#ffffff" >sir</font><font face="Default" color="#ffffff" >, please have a seat.</font>
+okmenu_60217=<font face="Default" color="#ffffff" >The tavern owner asked me to send some new year goods to you.</font>
+SubmitNpcEx_70075=Claim Spring Festival Large Gift Pack at Lin Liang the Event Ambassador.
+SubmitNpcEx_70076=Claim New Year Red Pack at Lin Liang the Event Ambassador.
+SubmitNpcEx_70077=Claim quest rewards at Lin Liang the Event Ambassador.
+SubmitNpcEx_70078=Claim quest rewards at Lin Liang the Event Ambassador.
+SubmitNpcEx_70079=Claim term beginning gifts at Yan Lun the Suzhou Study Master.
+SubmitNpcEx_70080=Claim term beginning gifts at Yan Lun the Suzhou Study Master.
+specialinfo_1211=Complete Heart Devil 2 times.
+specialinfo_1212=Complete Team Practice 1 time and reach 100% Fatigue.
+specialinfo_1213=Complete Impart Knowledge 1 time and reach 100% Completeness.
+specialinfo_1214=Complete any Jianghu Faction 1 time.
+specialinfo_1215=Complete the Forbidden Instance 1 time.
+specialinfo_1216=Complete Battlefield First Win 1 time (Ancient Tomb or Muyun Villa Battlefield).
+collectinfo_60038=Help the shepherd boy with his lost kite (System will notice you a general location when the kite respawns)
+

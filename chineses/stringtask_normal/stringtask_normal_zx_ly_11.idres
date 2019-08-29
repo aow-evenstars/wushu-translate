@@ -1,5 +1,17 @@
 ﻿
-CanAcceptMenu_26481=东方忠诚
+accept_26518_1=百花谷不会随意让外人进的，除非你能帮我们古墓派做些事，最近老有淫贼打古墓派弟子主意，你先去打发了那帮淫贼再说。
+accept_26519_1=哪有那么简单。附近有锦衣卫夺走了古墓派的玉蜂针，你去帮我们夺回来，交给杨邪，他应该会通融的。
+accept_26523_1=这种毒霸道无比只有古墓派才能解，否则7天之后将肝肠寸段而死，哎...早知道今日，何必...
+complete_26517=你来我们古墓派做什么？
+context_26518=百花谷不会随意让外人进的，除非你能帮我们古墓派做些事，最近老有淫贼打古墓派弟子主意，你先去打发了那帮淫贼再说。
+context_26519=附近有锦衣卫夺走了古墓派的玉蜂针，你去帮我们夺回来，我就给你想想办法。
+context_26521=情花就在那边，不过有古墓派弟子看守，按规矩你要先打败他们才能够采集情花，大侠当心哦！
+context_26523=这种毒霸道无比只有古墓派才能解，否则7天之后将肝肠寸段而死，哎...早知道今日，何必...
+submit_26519=这是你们被夺走的玉蜂针，还希望杨少侠能给我一些情花。
+target_26519=夺回被锦衣卫夺走的古墓派玉蜂针
+target_26521=打败古墓派习武弟子
+target_26523=护送东方小姐去古墓派解毒。
+CanAcceptMenu_26481=Dongfang Zhongcheng
 CanAcceptMenu_26482=沁水剑客
 CanAcceptMenu_26483=手绘名帖
 CanAcceptMenu_26484=紫烟姑娘
@@ -9,29 +21,29 @@ CanAcceptMenu_26487=丫鬟小叶
 CanAcceptMenu_26488=鬼祟贼人
 CanAcceptMenu_26489=进入府中
 CanAcceptMenu_26490=进入府中
-CanAcceptMenu_26491=东方凌风
+CanAcceptMenu_26491=Dongfang Lingfeng
 CanAcceptMenu_26493=兰芷玉心
 CanAcceptMenu_26494=四处捣乱
 CanAcceptMenu_26495=四处捣乱
 CanAcceptMenu_26496=再遇南宫
-CanAcceptMenu_26497=义庄老板
-CanAcceptMenu_26498=一块令牌
+CanAcceptMenu_26497=Mortuary Owner
+CanAcceptMenu_26498=A Command Token
 CanAcceptMenu_26499=公公心事
 CanAcceptMenu_26500=锦衣令牌
 CanAcceptMenu_26501=锦衣令牌
-CanAcceptMenu_26505=夺回宝剑
-CanAcceptMenu_26506=混入锦衣
+CanAcceptMenu_26505=Regain the Treasure Sword
+CanAcceptMenu_26506=Join as Member of Royal Guards
 CanAcceptMenu_26507=抢回礼物
 CanAcceptMenu_26508=皇甫统领
 CanAcceptMenu_26509=打败朱林
 CanAcceptMenu_26510=黄旗旗主
 CanAcceptMenu_26511=打发高手
 CanAcceptMenu_26512=失剑之闻
-CanAcceptMenu_26513=轩辕狂浪
+CanAcceptMenu_26513=Xuanyuan Kuanglang
 CanAcceptMenu_26514=击败缪樱
 CanAcceptMenu_26515=收集草莓
 CanAcceptMenu_26517=又是南宫
-CanAcceptMenu_26518=采花淫贼
+CanAcceptMenu_26518=Attacker
 CanAcceptMenu_26519=夺回蜂针
 CanAcceptMenu_26520=夺回玉簪
 CanAcceptMenu_26521=情花有毒
@@ -39,48 +51,48 @@ CanAcceptMenu_26522=情花有毒
 CanAcceptMenu_26523=情花之毒
 CanAcceptMenu_26524=绝情丹药
 CanAcceptMenu_26525=绝情丹药
-CanAcceptMenu_26526=前往唐门
-CompleteMenu_26481=完成任务
-CompleteMenu_26482=完成任务
-CompleteMenu_26483=完成任务
-CompleteMenu_26484=完成任务
-CompleteMenu_26485=完成任务
-CompleteMenu_26486=完成任务
-CompleteMenu_26487=完成任务
-CompleteMenu_26488=完成任务
-CompleteMenu_26489=完成任务
-CompleteMenu_26490=完成任务
-CompleteMenu_26491=完成任务
-CompleteMenu_26493=完成任务
-CompleteMenu_26494=完成任务
-CompleteMenu_26495=完成任务
-CompleteMenu_26496=完成任务
-CompleteMenu_26497=完成任务
-CompleteMenu_26498=完成任务
-CompleteMenu_26499=完成任务
-CompleteMenu_26500=完成任务
-CompleteMenu_26501=完成任务
-CompleteMenu_26505=完成任务
-CompleteMenu_26506=完成任务
-CompleteMenu_26507=完成任务
-CompleteMenu_26508=完成任务
-CompleteMenu_26509=完成任务
-CompleteMenu_26510=完成任务
-CompleteMenu_26511=完成任务
-CompleteMenu_26512=完成任务
-CompleteMenu_26513=完成任务
-CompleteMenu_26514=完成任务
-CompleteMenu_26515=完成任务
-CompleteMenu_26517=完成任务
-CompleteMenu_26518=完成任务
-CompleteMenu_26519=完成任务
-CompleteMenu_26520=完成任务
-CompleteMenu_26521=完成任务
-CompleteMenu_26522=完成任务
-CompleteMenu_26523=完成任务
-CompleteMenu_26524=完成任务
-CompleteMenu_26525=完成任务
-CompleteMenu_26526=完成任务
+CanAcceptMenu_26526=To Tangmen
+CompleteMenu_26481=Complete task
+CompleteMenu_26482=Complete task
+CompleteMenu_26483=Complete task
+CompleteMenu_26484=Complete task
+CompleteMenu_26485=Complete task
+CompleteMenu_26486=Complete task
+CompleteMenu_26487=Complete task
+CompleteMenu_26488=Complete task
+CompleteMenu_26489=Complete task
+CompleteMenu_26490=Complete task
+CompleteMenu_26491=Complete task
+CompleteMenu_26493=Complete task
+CompleteMenu_26494=Complete task
+CompleteMenu_26495=Complete task
+CompleteMenu_26496=Complete task
+CompleteMenu_26497=Complete task
+CompleteMenu_26498=Complete task
+CompleteMenu_26499=Complete task
+CompleteMenu_26500=Complete task
+CompleteMenu_26501=Complete task
+CompleteMenu_26505=Complete task
+CompleteMenu_26506=Complete task
+CompleteMenu_26507=Complete task
+CompleteMenu_26508=Complete task
+CompleteMenu_26509=Complete task
+CompleteMenu_26510=Complete task
+CompleteMenu_26511=Complete task
+CompleteMenu_26512=Complete task
+CompleteMenu_26513=Complete task
+CompleteMenu_26514=Complete task
+CompleteMenu_26515=Complete task
+CompleteMenu_26517=Complete task
+CompleteMenu_26518=Complete task
+CompleteMenu_26519=Complete task
+CompleteMenu_26520=Complete task
+CompleteMenu_26521=Complete task
+CompleteMenu_26522=Complete task
+CompleteMenu_26523=Complete task
+CompleteMenu_26524=Complete task
+CompleteMenu_26525=Complete task
+CompleteMenu_26526=Complete task
 accept_26481_1=不好意思，最近东方世家一柄好剑要出炉，前来求剑的人过多，没有名帖不得入内。
 accept_26482_1=这个...我听说东方世家郊外有人在高价出售名帖，要不你去看看，只要你有名帖我马上让你进去。
 accept_26483_1=好的，这是大侠你要的“名帖”，把这个给守卫你就能进东方世家了。
@@ -113,12 +125,9 @@ accept_26513_1=你……乳臭未干的小子，别以为当上了黄旗旗主�
 accept_26514_1=今天老子心情不好，不想提这事。快走，少来烦我，否则今天老子打段你的腿。
 accept_26515_1=这样我就不留你了，能不能顺便帮我在卫所边上采点草莓送给燕京乌衣巷的卓双霜小姐。
 accept_26517_1=刚才听说南宫珏少侠已经夺回了东方世家被盗神剑，东方城已同意将女儿东方芷许配给了他，南宫少侠真是年少有为啊！
-accept_26518_1=百花谷不会随意让外人进的，除非你能帮我们古墓派做些事，最近老有淫贼打古墓派弟子主意，你先去打发了那帮淫贼再说。
-accept_26519_1=哪有那么简单。附近有锦衣卫夺走了古墓派的玉蜂针，你去帮我们夺回来，交给杨邪，他应该会通融的。
 accept_26520_1=有何不可，只是情花之毒十分霸道，少侠千万小心，你去找龙儿，她会告诉你情花在哪。
 accept_26521_1=对了，龙儿说有话要对你说，好像是关于情花的。
 accept_26522_1=还没结束，这个情花给你，你去让衣若薰中情花毒事情才算完。
-accept_26523_1=这种毒霸道无比只有古墓派才能解，否则7天之后将肝肠寸段而死，哎...早知道今日，何必...
 accept_26524_1=听说谷外有一帮女子身有一种“绝情丹”能够延缓情花之毒，其他的我们再想办法...
 accept_26525_1=恩，这个药能是能延缓情花之毒，你先去给东方姑娘服下，其他的事情我们呆会说。
 accept_26526_1=恩，我相信你，有什么事情你去忙吧！这里有人照顾，你放心吧！
@@ -126,7 +135,7 @@ complete_26481=呵呵，这多不好意思啊，让你破费了。
 complete_26482=怎么样了？
 complete_26483=少侠又来干什么？
 complete_26484=哈哈，那个拜帖？我是看不惯赤蛟帮那些家伙横行乡里才送假拜帖给他们想让他们吃点苦头。
-complete_26485=多谢少侠！
+complete_26485=Thank you very much!
 complete_26486=让你进去又如何，东方世家那么大你知道东方芷小姐在哪吗？
 complete_26487=你是谁？有什么事吗？
 complete_26488=你来找我有什么事啊？
@@ -145,15 +154,14 @@ complete_26501=出什么事了？闹哄哄的。
 complete_26505=怎么样了？
 complete_26506=这是锦衣卫，不想惹麻烦快点吧东西给啊。
 complete_26507=真抱歉，东西对了，可是我们不能和你一起进去了。
-complete_26508=你是什么人？
+complete_26508=Who are you?
 complete_26509=我还小看你了，我手下黄旗旗主空缺，你有没有兴趣担当？
 complete_26510=这个......
 complete_26511=好，果然是长江后浪推前浪啊！
 complete_26512=放屁，你听谁说老子打不过那几个蟊贼，只是天色太黑我怕误伤己人而已。
 complete_26513=嗯？想问那天晚上的事情？
 complete_26514=问的怎么样了？
-complete_26515=你找我有什么事吗？
-complete_26517=你来我们古墓派做什么？
+complete_26515=What do you want with me?
 complete_26518=怎么样？赶跑了吗？
 complete_26519=你就是孙婆婆提起的少侠吧。
 complete_26520=恩，这就是我的玉簪子，谢谢，我真是太高兴了。
@@ -195,12 +203,8 @@ context_26513=乳臭未干的小子，别以为当上了黄旗旗主就可以对
 context_26514=今天老子心情不好，少来烦我，否则今天老子打段你的腿。
 context_26515=既然这样我就不留你了，能不能顺便帮我采一点卫所边上的草莓送给燕京乌衣巷的卓双霜小姐。
 context_26517=听说南宫珏少侠已经夺回了东方世家被盗神剑，东方城已同意将女儿东方芷许配给了他。
-context_26518=百花谷不会随意让外人进的，除非你能帮我们古墓派做些事，最近老有淫贼打古墓派弟子主意，你先去打发了那帮淫贼再说。
-context_26519=附近有锦衣卫夺走了古墓派的玉蜂针，你去帮我们夺回来，我就给你想想办法。
 context_26520=有何不可，只是情花之毒十分霸道，少侠千万小心，你去找龙儿，她会告诉你情花在哪。
-context_26521=情花就在那边，不过有古墓派弟子看守，按规矩你要先打败他们才能够采集情花，大侠当心哦！
 context_26522=还没结束，这个情花给你，你去让衣若薰中情花毒事情才算完。
-context_26523=这种毒霸道无比只有古墓派才能解，否则7天之后将肝肠寸段而死，哎...早知道今日，何必...
 context_26524=听说谷外有一帮女子身有一种“绝情丹”能够延缓情花之毒，其他的我们再想办法...
 context_26525=恩，这个药能是能延缓情花之毒，你先去给东方姑娘服下，其他的事情我们呆会说。
 context_26526=恩，我相信你，有什么事情你去忙吧！这里有人照顾，你放心吧！
@@ -248,11 +252,11 @@ menu_26526_1=好，那我...
 next_26481=<a href="findnpc_new,city01,WorldNpc08528" style="HLStype1">东方忠诚</a>
 next_26482=<a href="findnpc_new,city01,WorldNpc08938" style="HLStype1">汤鹤</a>
 next_26483=<a href="findnpc_new,city01,WorldNpc08938" style="HLStype1">汤鹤</a>
-next_26484=<a href="findnpc_new,city01,WorldNpc08762" style="HLStype1">紫烟</a>
-next_26485=<a href="findnpc_new,city01,WorldNpc08762" style="HLStype1">紫烟</a>
+next_26484=<a href="findnpc_new,city01,WorldNpc08762" style="HLStype1">Zi Yan</a>
+next_26485=<a href="findnpc_new,city01,WorldNpc08762" style="HLStype1">Zi Yan</a>
 next_26486=<a href="findnpc_new,city01,WorldNpc08528" style="HLStype1">东方忠诚</a>
 next_26487=<a href="findnpc_new,city01,yj011" style="HLStype1">小叶</a>
-next_26488=<a href="findnpc_new,city01,WorldNpc08519" style="HLStype1">寂叔</a>
+next_26488=<a href="findnpc_new,city01,WorldNpc08519" style="HLStype1">Uncle Ji</a>
 next_26489=<a href="findnpc_new,city01,WorldNpc08836" style="HLStype1">东方硕</a>
 next_26490=<a href="findnpc_new,city01,WorldNpc08512" style="HLStype1">东方凌风</a>
 next_26491=<a href="findnpc_new,city01,WorldNpc08628" style="HLStype1">东方芷</a>
@@ -260,7 +264,7 @@ next_26493=<a href="findnpc_new,city01,WorldNpc08628" style="HLStype1">东方芷
 next_26494=<a href="findnpc_new,city01,WorldNpc08281" style="HLStype1">崔凤姑</a>
 next_26495=<a href="findnpc_new,city01,yj060" style="HLStype1">南宫珏</a>
 next_26496=<a href="findnpc_new,city01,WorldNpc08628" style="HLStype1">东方芷</a>
-next_26497=<a href="findnpc_new,city01,WorldNpc09081" style="HLStype1">东方城</a>
+next_26497=<a href="findnpc_new,city01,WorldNpc09081" style="HLStype1">Dongfang Cheng</a>
 next_26498=<a href="findnpc_new,city01,WorldNpc08348" style="HLStype1">卫无宝</a>
 next_26499=<a href="findnpc_new,city01,WorldNpc08348" style="HLStype1">卫无宝</a>
 next_26500=<a href="findnpc_new,city01,WorldNpc08611" style="HLStype1">钱笑虎</a>
@@ -268,28 +272,28 @@ next_26501=<a href="findnpc_new,city01,WorldNpc08628" style="HLStype1">东方芷
 next_26505=<a href="findnpc_new,school01,WorldNpc04233" style="HLStype1">朱罡</a>
 next_26506=<a href="findnpc_new,school01,WorldNpc04233" style="HLStype1">朱罡</a>
 next_26507=<a href="findnpc_new,school01,WorldNpc04122" style="HLStype1">简凡</a>
-next_26508=<a href="findnpc_new,school01,jyw024" style="HLStype1">皇甫遥</a>
-next_26509=<a href="findnpc_new,school01,jyw024" style="HLStype1">皇甫遥</a>
+next_26508=<a href="findnpc_new,school01,jyw024" style="HLStype1">Huangfu Yao</a>
+next_26509=<a href="findnpc_new,school01,jyw024" style="HLStype1">Huangfu Yao</a>
 next_26510=<a href="findnpc_new,school01,WorldNpc04233" style="HLStype1">朱罡</a>
-next_26511=<a href="findnpc_new,school01,jyw024" style="HLStype1">皇甫遥</a>
+next_26511=<a href="findnpc_new,school01,jyw024" style="HLStype1">Huangfu Yao</a>
 next_26512=<a href="findnpc_new,school01,WorldNpc04102" style="HLStype1">轩辕狂浪</a>
-next_26513=<a href="findnpc_new,school01,WorldNpc04103" style="HLStype1">缪樱</a>
-next_26514=<a href="findnpc_new,school01,jyw024" style="HLStype1">皇甫遥</a>
+next_26513=<a href="findnpc_new,school01,WorldNpc04103" style="HLStype1">Miao Ying</a>
+next_26514=<a href="findnpc_new,school01,jyw024" style="HLStype1">Huangfu Yao</a>
 next_26515=<a href="findnpc_new,school01,WorldNpc08216" style="HLStype1">卓双霜</a>
 next_26517=<a href="findnpc_new,city01,WorldNpc08739" style="HLStype1">孙婆婆</a>
 next_26518=<a href="findnpc_new,city01,WorldNpc08739" style="HLStype1">孙婆婆</a>
-next_26519=去找<a href="findnpc_new,city01,WorldNpc08947" style="HLStype1">杨邪</a>
+next_26519=Go to find <a href="findnpc_new,city01,WorldNpc08947" style="HLStype1">Yang Xie</a>
 next_26520=去找<a href="findnpc_new,city01,WorldNpc08740" style="HLStype1">龙儿</a>
 next_26521=<a href="findnpc_new,city01,WorldNpc08628" style="HLStype1">东方芷</a>
 next_26522=<a href="findnpc_new,city01,WorldNpc08628" style="HLStype1">东方芷</a>
-next_26523=<a href="findnpc_new,city01,WorldNpc08947" style="HLStype1">杨邪</a>
-next_26524=<a href="findnpc_new,city01,WorldNpc08947" style="HLStype1">杨邪</a>
+next_26523=<a href="findnpc_new,city01,WorldNpc08947" style="HLStype1">Yang Xie</a>
+next_26524=<a href="findnpc_new,city01,WorldNpc08947" style="HLStype1">Yang Xie</a>
 next_26525=<a href="findnpc_new,city01,WorldNpc08627" style="HLStype1">东方芷</a>
-next_26526=<a href="findnpc_new,city01,WorldNpc08947" style="HLStype1">杨邪</a>
+next_26526=<a href="findnpc_new,city01,WorldNpc08947" style="HLStype1">Yang Xie</a>
 submit_26481=一点小意思不成敬意
 submit_26482=那帮家伙被我狠狠的教训过了，答应以后不会再来找麻烦了
 submit_26483=你们这帮大骗子，你们给我的名帖是假的，你说现在怎么办？
-submit_26484=原来是这样啊……
+submit_26484=If that is your wish...
 submit_26485=这是给你的草药，你要我办的事情我也都做到了...
 submit_26486=这倒也是……
 submit_26487=小叶姑娘，我是你们东方小姐的朋友，你能带我去找一下东方芷姑娘吗？
@@ -308,7 +312,7 @@ submit_26500=你们头？
 submit_26501=东方世家的宝剑已经在混乱中被锦衣卫统领抢走了
 submit_26505=卫所外面的探子都被我赶走了。
 submit_26506=你看这是什么？
-submit_26507=为什么？
+submit_26507=Is that true?
 submit_26508=这是极乐谷使者让我给你的信，另外统领我有点事想问你
 submit_26509=我是极乐谷弟子
 submit_26510=来我们锦衣卫的两帮人被我打发了，你以后注意点哦！
@@ -319,7 +323,6 @@ submit_26514=宝剑的事情我已经有一点眉目了，我就不留在这里�
 submit_26515=这是锦衣卫统领皇甫遥让我带给你的
 submit_26517=晚辈想求得贵派白花谷中的情花
 submit_26518=那帮淫贼已经被我赶跑了，现在我可以进去了吧
-submit_26519=这是你们被夺走的玉蜂针，还希望杨少侠能给我一些情花。
 submit_26520=你看看有没有损坏
 submit_26521=小心有毒
 submit_26522=被扎到了？
@@ -359,11 +362,8 @@ target_26514=询问紫旗旗主具体情况
 target_26515=送给燕京乌衣巷的卓双霜草莓
 target_26517=再回东方世家说明情况
 target_26518=进入百花谷与孙婆婆了解情况
-target_26519=夺回被锦衣卫夺走的古墓派玉蜂针
 target_26520=找到杨大侠要求采集情花
-target_26521=打败古墓派习武弟子
 target_26522=与东方芷争吵
-target_26523=护送东方小姐去古墓派解毒。
 target_26524=寻找“绝情丹”延缓情花之毒
 target_26525=给东方芷小姐喂药
 target_26526=向杨大侠打听消息

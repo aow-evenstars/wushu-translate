@@ -3,7 +3,6 @@ CanAcceptMenu_18856=<font face="Default" color="#ffffff">Elder Brother</font> <f
 CanAcceptMenu_18857=<font face="Default" color="#ffffff">Abbot Liaochen</font>
 CanAcceptMenu_18858=<font face="Default" color="#ffffff">Yong, what on earth are your sect's plans?</font>
 CanAcceptMenu_18860=<font face="Default" color="#ffffff">As you refused to say, what’s the reason to keep you!</font>
-CanAcceptMenu_18862=<font face="Default" color="#ffffff">Abbot Liaokong, Elder Brother Jingde is poisoned by Mount Song Sword Sect. Abbot Liaochen asked me to bring you these herbs for make pills.</font>
 CanAcceptMenu_18863=<font face="Default" color="#ffffff">Master?!</font>
 CanAcceptMenu_18864=<font face="Default" color="#ffffff">Please have a look, Almsgiver!</font>
 CanAcceptMenu_18865=<font face="Default" color="#ffffff">Why do you attack without reason? And your Kung Fu</font> <font face="Default" color="#ffffff">has relations</font> <font face="Default" color="#ffffff">with</font> <font face="Default" color="#ffffff">Secret Association? What’s your plot?!</font>
@@ -73,10 +72,7 @@ CompleteMenu_18903=<font face="Default" color="#ffffff">Aunt, I'm sorry. Xiao Ta
 accept_18856_1=<font face="Default" color="#ffffff">Younger Brother, I don’t know who poisoned me in my meal. Please</font> <font face="Default" color="#ffffff">collect these medicines for me!</font>
 accept_18857_1=<font face="Default" color="#ffffff">I’m quite familiar with this kind of poison!</font>
 accept_18858_1=<font face="Default" color="#ffffff">Hmm!</font>
-accept_18859_1=<font face="Default" color="#ffffff">I noticed a Mount Song Sword Sect disciple at Mountain Gate. I suspect he and his sect have something to do with this. Confront him.</font>
 accept_18860_1=<font face="Default" color="#ffffff">If you spare me, I'll tell you everything.</font>
-accept_18861_1=<font face="Default" color="#ffffff">Leader of Mount Song Sword Sect?!</font>
-accept_18862_1=<font face="Default" color="#ffffff">According to disciples’ report, it’s Mount Song Sword Sect that makes trouble again?</font>
 accept_18863_1=<font face="Default" color="#ffffff">Young</font> <font face="Default" color="#ffffff">Shifu</font> <font face="Default" color="#ffffff">, I’m going to have argumentation with eminent monk in your temple. I cannot handle other things then. Here I have one letter. Please help me send it to Hang Minghui outside Luoyang City. Thank you very much.</font>
 accept_18864_1=<font face="Default" color="#ffffff">That's funny.</font>
 accept_18865_1=<font face="Default" color="#ffffff">Please show your mercy, Young Shifu!</font>
@@ -93,7 +89,6 @@ accept_18875_1=<font face="Default" color="#ffffff">Several Younger Brothers in 
 accept_18876_1=<font face="Default" color="#ffffff">Thanks Younger Brother, and these are enough. Please tell Master Qinghui that</font> <font face="Default" color="#ffffff">everything would be fine after</font> <font face="Default" color="#ffffff">an incense’s time</font>.
 accept_18877_1=<font face="Default" color="#ffffff">It’s good you have this thought. There’re some things left by pilgrims in the temple. Please clean them tidy.</font>
 accept_18878_1=<font face="Default" color="#ffffff">Some pilgrims have been acting quite suspiciously. Can you patrol the temple?</font>
-accept_18880_1=<font face="Default" color="#ffffff">It seems the Mount Song Sword Sect is up to no good. Please deal with them. </font>
 accept_18882_1=<font face="Default" color="#ffffff">Please escort some treasure down that </font><font face="Default" color="#ffffff">hill</font> <font face="Default" color="#ffffff">. Please take extra care in protecting the cart.</font>
 accept_18901_1=<font face="Default" color="#ffffff">Thanks for Elder Brother’s reminding!</font>
 accept_18902_1=<font face="Default" color="#ffffff">Listen to me, Elder Brother…</font>
@@ -148,10 +143,6 @@ complete_18902=<font face="Default" color="#ffffff">Get out now!</font>
 complete_18903=<font face="Default" color="#ffffff">Nothing, she is very naughty. Now that she came here, let her stay with me.</font>
 context_18856=<s>Help wounded Jingde to collect some Herbs.
 context_18857=<s>Immortal Liaochen let you take this Herb to Liaokong.
-context_18858=<s>Teach <a href="findnpc_new,school08,WorldNpc00383" style="HLStype1">Yongyi</a> and ask him the conspiracy of Mount Song Sword Sect!
-context_18859=<s>Jingde let you ask <a href="findnpc_new,school08,WorldNpc00383" style="HLStype1">Yongyi</a> clearly about what did the Mount Song Sword Sect want to do!
-context_18860=<s>Tell Mount Song Sword Sect's plan to <a href="findnpc_new,school08,WorldNpc00473" style="HLStype1">Jingde</a>.
-context_18861=<s>Jingde asked you to go to Mount Song Sword Sect to get the Antidote back and punish them.
 context_18862=Liaokong asked you to drive the Russian Turpan Monk who made troubles in the gate of the mountain away when you made the Pills.
 context_18863=The Lama who came to Shaolin to discuss the Buddhism asked you to send a letter to Luoyang for him.
 context_18864=<s>Hang Minghui thought you had read the letter personally, and fought against you.
@@ -167,12 +158,10 @@ context_18876=<s>Fire Monk lets you tell Huiqing the meal will be ready soon.
 context_18877=<s>Xuan Ji asked you to clean the Sundry which was left by the Pilgrim.
 context_18878=<s>Qingxiang Shifu asked you to patrol in the temple.
 context_18879=<s>Qingji asked you to investigate Wanderer's Valley and collect information.
-context_18880=<s>Zuming let you to teach the mobs of Mount Song Sword Sect.
 context_18881=<s>Zu Ren asked you to spy on Wudang.
 context_18882=<s>Zujing asked you to send the Escort Cart with the Treasure of Buddha safely.
 context_18885=<s>Finish what is in the secret order. (Failing this task will also fail the school test.)
 context_18888=<s>Finish what is in the secret order. (Failing this task will also fail the school test.)
-context_18890=<s>Finish what is in the secret order. (Failing this task will also fail the school test.)
 context_18891=<s>Finish what is in the secret order. (Failing this task will also fail the school test.)
 context_18892=<s>Finish what is in the secret order. (Failing this task will also fail the school test.)
 context_18893=<s>Finish what is in the secret order. (Failing this task will also fail the school test.)
@@ -191,7 +180,6 @@ menu_18858_1=<font face="Default" color="#ffffff">I don't want to fight against 
 menu_18859_1=<font face="Default" color="#ffffff">I go now!</font>
 menu_18860_1=<font face="Default" color="#ffffff">Hmm!</font>
 menu_18861_1=<font face="Default" color="#ffffff">It's him!</font>
-menu_18862_1=<font face="Default" color="#ffffff">If I have the chance, I will certainly teach those dirty dogs of Mount Song Sword Sect!</font>
 menu_18863_1=<font face="Default" color="#ffffff">Monk,</font> <font face="Default" color="#ffffff">helping others is helping yourself. I should go now.</font>
 menu_18864_1=<font face="Default" color="#ffffff">Goodbye!</font>
 menu_18865_1=<font face="Default" color="#ffffff">Tell me </font><font face="Default" color="#ffffff">the</font> <font face="Default" color="#ffffff">truth!</font>
@@ -222,7 +210,6 @@ target_18857=<s>Immortal Liaochen asked you to find <a href="findnpc_new,school0
 target_18858=<s>Teach <a href="findnpc_new,school08,WorldNpc00383" style="HLStype1">Yongyi</a>.
 target_18859=<s>Confront with <a href="findnpc_new,school08,WorldNpc00383" style="HLStype1">Yongyi</a>.
 target_18860=<s>Reply to <a href="findnpc_new,school08,WorldNpc00473" style="HLStype1">Jingde</a>.
-target_18861=<s>Go to <a href="findnpc,school08,-91,37,476" style="HLStype1">Mount Song Sword Sect</a> to get the medicine.
 target_18862=Drive <a href="findnpc_new,school08,qy_shaolin_fansen" style="HLStype1">the Ruffian Turpan Monk</a> away.
 target_18864=<s>Teach <a href="findnpc_new,city04,WorldNpc10397" style="HLStype1">Hang Minghui</a>.
 target_18865=<s>Persuade <a href="findnpc_new,school08,WorldNpc00392" style="HLStype1">Middle-aged Lama</a> to practice Buddhist and be kind for Hang Minghui.
@@ -240,7 +227,6 @@ target_18876=<s>Reply to <a href="findnpc_new,school08,WorldNpc00224" style="HLS
 target_18877=<s>Clean <a href="findnpc_new,school08,Gather_qy_wudang_wusui" style="HLStype1">the Sundry</a>.
 target_18878=Complete Shaolin patrolling for one time.
 target_18879=Complete spying in Wanderer's Valley for one time.
-target_18880=<s>Zuming let you to teach the mobs of Mount Song Sword Sect.
 target_18881=<s>Finish spying on Wudang for one time.
 target_18882=<s>Finish Dart Escorting for one time successfully.
 target_18883=<s>Complete the things what <a href="findnpc_new,school08,WorldNpc00473" style="HLStype1">Jingde</a> has told you.
@@ -266,11 +252,9 @@ target_18902=Find <a href="findnpc_new,school08,sl057" style="HLStype1">Elder Br
 target_18903=Take Xiao Taozi to play outside.
 task_menu_accept_18857=<font face="Default" color="#ffffff">Oh? Why do you say it?</font>
 title_18856=Collect Medicines
-title_18857=Mount Song Sword Sect
 title_18858=What Exactly Are You Plotting?
 title_18859=The Mount Song Spy
 title_18860=Report to Jingde
-title_18861=Taking Medicine from the Mount Song Sword Sect
 title_18862=Create Medicinal Pills
 title_18863=Deliver a Letter in Luoyang
 title_18864=Venomously Slander Someone
@@ -289,7 +273,6 @@ title_18876=Report to Qinghui
 title_18877=Clean Out the Temple
 title_18878=A Suspicious Pilgrim
 title_18879=Rumors About Wanderer's Valley
-title_18880=Mount Song Sword Sect
 title_18881=Spying on Wudang
 title_18882=Buddhist Treasures
 title_18883=Secret School Commands
@@ -364,7 +347,6 @@ title_18853=Three Emperors' Script
 title_18854=Recover School
 title_18855=Stealing Scripture
 CanAcceptMenu_18859=<font face="Default" color="#ffffff" >Master Qingren? How do you feel now?</font>
-CanAcceptMenu_18861=<font face="Default" color="#ffffff" >Master Qingren, the Leader of Mount Song Sword Sect, is the one who behind this!</font>
 CanAcceptMenu_18867=<font face="Default" color="#ffffff" >Master Zhishen?</font>
 CanAcceptMenu_18868=<font face="Default" color="#ffffff" >Master Zhishen said that he has information about Xing Junke. Do you know where he is now, Elder Brother?!</font>
 CompleteMenu_18861=<font face="Default" color="#ffffff" >Master Qingren, </font><font face="Default" color="#ffffff" >take this Antidote quickly!</font>
@@ -404,4 +386,22 @@ title_18910=A Wedding in the Family
 title_18911=A wedding in the family
 title_18912=Daughter's Wine
 title_18913=Self-Brewed Daughter's Wine
+CanAcceptMenu_18861=<font face="Default" color="#ffffff" >Master Qingren, the Leader of Mount Song Sword Sect, is the one who behind this!</font>
+CanAcceptMenu_18862=<font face="Default" color="#ffffff">Abbot Liaokong, Elder Brother Jingde is poisoned by Mount Song Sword Sect. Abbot Liaochen asked me to bring you these herbs for make pills.</font>
+accept_18859_1=<font face="Default" color="#ffffff">I noticed a Mount Song Sword Sect disciple at Mountain Gate. I suspect he and his sect have something to do with this. Confront him.</font>
+accept_18861_1=<font face="Default" color="#ffffff">Leader of Mount Song Sword Sect?!</font>
+accept_18862_1=<font face="Default" color="#ffffff">According to disciples’ report, it’s Mount Song Sword Sect that makes trouble again?</font>
+accept_18880_1=<font face="Default" color="#ffffff">It seems the Mount Song Sword Sect is up to no good. Please deal with them. </font>
+context_18858=<s>Teach <a href="findnpc_new,school08,WorldNpc00383" style="HLStype1">Yongyi</a> and ask him the conspiracy of Mount Song Sword Sect!
+context_18859=<s>Jingde let you ask <a href="findnpc_new,school08,WorldNpc00383" style="HLStype1">Yongyi</a> clearly about what did the Mount Song Sword Sect want to do!
+context_18860=<s>Tell Mount Song Sword Sect's plan to <a href="findnpc_new,school08,WorldNpc00473" style="HLStype1">Jingde</a>.
+context_18861=<s>Jingde asked you to go to Mount Song Sword Sect to get the Antidote back and punish them.
+context_18880=<s>Zuming let you to teach the mobs of Mount Song Sword Sect.
+context_18890=<s>Finish what is in the secret order. (Failing this task will also fail the school test.)
+menu_18862_1=<font face="Default" color="#ffffff">If I have the chance, I will certainly teach those dirty dogs of Mount Song Sword Sect!</font>
+target_18861=<s>Go to <a href="findnpc,school08,-91,37,476" style="HLStype1">Mount Song Sword Sect</a> to get the medicine.
+target_18880=<s>Zuming let you to teach the mobs of Mount Song Sword Sect.
+title_18857=Mount Song Sword Sect
+title_18861=Taking Medicine from the Mount Song Sword Sect
+title_18880=Mount Song Sword Sect
 

@@ -387,7 +387,6 @@ SubmitNpcEx_43818=Find Lin Liang and submit task
 SubmitNpcEx_43819=Find Lin Liang and submit task
 SubmitNpcEx_43820=Find Chen Xuguo and submit task
 SubmitNpcEx_43821=Find Mrs. Pistil and submit task
-SubmitNpcEx_43827=Find Lin Liang and submit task
 ZZAnswerText1_6800=Collect ten pieces of Ironbeak Eagle's droppings (Get Temporary Skill from Yun Manwan)
 ZZAnswerText1_6801=ZZAnswerText1_6801
 ZZAnswerText1_6802=ZZAnswerText1_6802
@@ -633,8 +632,6 @@ collectinfo_5789=Collect <a href="findnpc_new,," style="HLStype1"></a>Wuchang Br
 hunterinfo_5765=Go to Qiandeng Town and test the ability of <font color="#00CC33">Rosy Cloth Killer</font> (Challenge Jianghu Faction--Tianxiang Tea Forest)
 hunterinfo_5766=Go to Tangmen and test the ability of <font color="#00CC33">Heaven Treasure Stronghold Expert</font> (Challenge Jianghu Faction--Heaven Treasure Stronghold)
 hunterinfo_5767=Go to Luoyang and test the ability of <font color="#00CC33">Baodu Stronghold Knight</font> (Challenge Jianghu Faction--Baodu Stronghold)
-hunterinfo_5768=Go to Chengdu and test the ability of <font color="#00CC33">Huanhua Sword Sect Guard</font> (Challenge Jianghu Faction--Huanhua Sword Sect)
-hunterinfo_5769=Go to Beggar's Sect and test the ability of <font color="#00CC33">Wolf Tamer</font> (Challenge Jianghu Faction-- Beast Villa)
 hunterinfo_5770=Go to Yanyu Villa and test the ability of <font color="#00CC33">Salt Gang Supervisor</font> (Challenge Jianghu Faction--Salt Gang)
 hunterinfo_5771=Stop <a href="findnpc_new,city05,hd_bdn_qms" style="HLStype1">scoundrel</a> and ask his purpose
 hunterinfo_5772=Kill the <a href="findnpc_new,city05,bossmpdn001" style="HLStype1">Nian</a>
@@ -737,7 +734,6 @@ interactinfo_5843=Speak with Lin Liang.
 okmenu_5843=<font face="Default" color="#ffffff" >Thank you. I hope it's something good. </font>
 hunterinfo_5761=Defeat Snow Ape with Three Claws. To complete task, your team must deal the final blow within 15 meters.
 hunterinfo_5762=Defeat Ten-Thousand-Year-Old Fire Turtle. To complete task, your team must deal the final blow within 15 meters.
-hunterinfo_5763=Defeat Bald Eagle King. To complete task, your team must deal the final blow within 15 meters.
 useiteminfo_5769=Use the sky lantern and send out the Valentine. (The sky lantern can be bought from <a href="findnpc_new,city05,fqrwnpc_1014" style="HLStype1">Gu Yuexiao</font> near the Temple of the Old Matchmaker)
 SubmitNpcEx_43891=Submit task to Ling Liang.
 SubmitNpcEx_43892=Submit task to Ling Liang.
@@ -747,18 +743,22 @@ SubmitNpcEx_43895=Submit task to Ling Liang.
 SubmitNpcEx_43896=Submit task to Ling Liang.
 SubmitNpcEx_43898=Submit task to Ling Liang.
 SubmitNpcEx_43899=Submit task to Ling Liang.
-SubmitNpcEx_43900=Find the festivals ambassador Lin Liang to submit the task to get the festival pack.
 DialogID_5844=<font face="Default" color="#ffffff" >You've done this so quickly! Excellent work! </font>
+DialogID_5845=<font face="Default" color="#ffffff" >Storm World Reward</font>
 SubmitNpcEx_43999=Find Flower Lady and submit task
 interactinfo_5844=Collect <a href="TASK_ITEM,cropper_50005" style="HLStype1">10 Scholar Tree Petals</a> and then talk with Flower Lady. (Buy the scholar tree seed from the Farmer and plant it to get the Scholar Tree Petals.)
 okmenu_5844=<font face="Default" color="#ffffff" >Okay. </font>
-DialogID_5845=<font face="Default" color="#ffffff" >Storm World Reward</font>
-SubmitNpcEx_43934=Submit task to Lin Liang 
+SubmitNpcEx_43900=Find the festivals ambassador Lin Liang to submit the task to get the festival pack.
+SubmitNpcEx_43934=Submit task to Lin Liang
 interactinfo_5845=Talk with Lin Liang and receive Storm World Reward
+okmenu_5845=<font face="Default" color="#ffffff" >All right.</font>
 DialogID_5846=<font face="Default" color="#ffffff" >5th Anniversary Reward</font>
 SubmitNpcEx_43935=Receive it please.
+okmenu_5846=<font face="Default" color="#ffffff" >All right.</font>
 specialinfo_1099=Defeat any one Faction
 specialinfo_1100=Achieve victory once in any battlefield
-okmenu_5845=<font face="Default" color="#ffffff" >All right.</font>
-okmenu_5846=<font face="Default" color="#ffffff" >All right.</font>
+hunterinfo_5763=Defeat Bald Eagle King. To complete task, your team must deal the final blow within 15 meters.
+hunterinfo_5768=Go to Chengdu and test the ability of <font color="#00CC33">Huanhua Sword Sect Guard</font> (Challenge Jianghu Faction--Huanhua Sword Sect)
+hunterinfo_5769=Go to Beggar's Sect and test the ability of <font color="#00CC33">Wolf Tamer</font> (Challenge Jianghu Faction-- Beast Villa)
+SubmitNpcEx_43827=Find Lin Liang and submit task
 

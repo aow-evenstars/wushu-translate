@@ -1,4 +1,12 @@
 ﻿
+DialogID_13093=嵩山剑派与少林冲突十分多，嵩山剑派打伤了许多少林弟子，施主替我去找下清相吧。
+DialogID_13095=清善听说秘籍外泄的主谋是嵩山剑派后，很是气愤想去教训嵩山剑派出气，跑到山下去了，施主替我去寻回清善吧。
+DialogID_13096=那这样吧，夺取嵩山剑派弟子的裤腰带，借此羞辱对方，这个主意怎么样？我们比一比，看谁偷到得裤腰带多。
+okmenu_13081=虽然教训了高山阳，不过幕后主使是嵩山剑派，我要去禀报方丈
+story_13077_1=嵩山剑派和我少林因为处于同一地域，彼此处于势力竞争关系。虽然少林寺讲究出家人淡泊名利，不与世争，但是嵩山剑派却一直暗暗与我少林较劲。有一日，嵩山剑派掌门与几大高徒一夜之间，在派中惨死，死因竟然是少林寺的大力金刚掌和无相劫指，再加上嵩山派部分秘籍的丢失，所有矛头都指向了少林。老衲只是没想到，嵩山剑派这么急着复仇，也不查明真相。
+story_13079_1=我不是高山阳啊，真正的高山阳早就死了，我是嵩山剑派弟子，奉家师之命给少林派制造麻烦。英雄大人大量，放过小的吧。
+story_13085_2=嵩山剑派这么大，我们不如分头去找。
+story_menu_13079=嵩山剑派
 DialogID_13076=阿弥陀佛，施主来到少林，所为何事呢？
 DialogID_13077=（这棵应该就是毒蛇的解药）。
 DialogID_13078=是啊，去抓只野鸡，洒家说的还不清楚么？
@@ -16,10 +24,7 @@ DialogID_13089=施主有查到什么么？
 DialogID_13090=既然偷抄秘籍的假和尚已经被抓住了，施主替我去趟嵩阳书院找清米回来。
 DialogID_13091=（这是一个干柴堆，好像可以点燃。）
 DialogID_13092=这个钵应该是少林之物，你替我交换玄怀大师吧。
-DialogID_13093=嵩山剑派与少林冲突十分多，嵩山剑派打伤了许多少林弟子，施主替我去找下清相吧。
 DialogID_13094=施主真的不考虑考虑？我少林也算自居武林泰山北斗，施主在少林学武只会有好处不会有坏处。
-DialogID_13095=清善听说秘籍外泄的主谋是嵩山剑派后，很是气愤想去教训嵩山剑派出气，跑到山下去了，施主替我去寻回清善吧。
-DialogID_13096=那这样吧，夺取嵩山剑派弟子的裤腰带，借此羞辱对方，这个主意怎么样？我们比一比，看谁偷到得裤腰带多。
 DialogID_13097=啊，你想干什么，干吗抽我腰带，你这个淫贼！
 DialogID_13098=切，婆婆妈妈的，算了，我也解气了，刚才有弟子来报，说方丈寻你，叫你过去。
 DialogID_13099=施主，你闯祸了！
@@ -34,7 +39,7 @@ QiecuoTitle_13076=敢挡我财路，就算是天王老子来了，也要绕道�
 QiecuoTitle_13078=你……你想干什么？
 QiecuoTitle_13079=你还有胆子回来！
 QiecuoTitle_13083=听说你欺负了莫伊人，我要教训你。
-QiecuoTitle_13084=看招！
+QiecuoTitle_13084=Look!
 QiecuoTitle_13085=放马过来。
 collectinfo_13076=收集<a href="findnpc_new,school08,Gather00142m" style="HLStype1">野鸡</a>
 collectinfo_13077=收集<a href="findnpc_new,school08,Gather00139m" style="HLStype1">草药</a>
@@ -49,7 +54,7 @@ hunterinfo_13082=击败<a href="findnpc_new,school08,monrm085400" style="HLStype
 hunterinfo_13083=击败<a href="findnpc_new,school08,WorldNpc00386" style="HLStype1">赵言武</a>
 hunterinfo_13084=击败<a href="findnpc_new,school08,WorldNpc00388" style="HLStype1">左月凛</a>
 hunterinfo_13085=击败<a href="findnpc_new,school08,WorldNpc00206" style="HLStype1">清善</a>
-interactinfo_13076=与<a href="findnpc_new,school08,WorldNpc00212" style="HLStype1">玄怀大师</a>交谈
+interactinfo_13076=Talk with <a href="findnpc_new,school08,WorldNpc00212" style="HLStype1">Abbot Xuanhuai</a>.
 interactinfo_13077=去采集<a href="findnpc_new,school08,Gather00141m" style="HLStype1">清幽草</a>
 interactinfo_13078=与<a href="findnpc_new,school08,WorldNpc00206" style="HLStype1">清善</a>交谈
 interactinfo_13079=赶紧去找<a href="findnpc_new,school08,WorldNpc00396" style="HLStype1">清善</a>
@@ -61,48 +66,45 @@ interactinfo_13084=抓<a href="findnpc_new,school08,Gather00142m" style="HLStype
 interactinfo_13086=盘问<a href="findnpc_new,school08,WorldNpc00311" style="HLStype1">祝广康</a>
 interactinfo_13087=与<a href="findnpc_new,school08,WorldNpc00449" style="HLStype1">高山阳</a>交谈
 interactinfo_13088=与<a href="findnpc_new,school08,WorldNpc00449" style="HLStype1">高山阳</a>交谈
-interactinfo_13089=与<a href="findnpc_new,school08,WorldNpc00212" style="HLStype1">玄怀大师</a>交谈
-interactinfo_13090=与<a href="findnpc_new,school08,WorldNpc00212" style="HLStype1">玄怀大师</a>交谈
+interactinfo_13089=Talk with <a href="findnpc_new,school08,WorldNpc00212" style="HLStype1">Abbot Xuanhuai</a>.
+interactinfo_13090=Talk with <a href="findnpc_new,school08,WorldNpc00212" style="HLStype1">Abbot Xuanhuai</a>.
 interactinfo_13091=去<a href="findnpc_new,school08,Gather00138m" style="HLStype1">放火点</a>点燃柴火
 interactinfo_13092=与<a href="findnpc_new,school08,WorldNpc00388" style="HLStype1">左月凛</a>交谈
-interactinfo_13093=与<a href="findnpc_new,school08,WorldNpc00212" style="HLStype1">玄怀大师</a>交谈
-interactinfo_13094=与<a href="findnpc_new,school08,WorldNpc00212" style="HLStype1">玄怀大师</a>交谈
-interactinfo_13095=与<a href="findnpc_new,school08,WorldNpc00212" style="HLStype1">玄怀大师</a>交谈
+interactinfo_13093=Talk with <a href="findnpc_new,school08,WorldNpc00212" style="HLStype1">Abbot Xuanhuai</a>.
+interactinfo_13094=Talk with <a href="findnpc_new,school08,WorldNpc00212" style="HLStype1">Abbot Xuanhuai</a>.
+interactinfo_13095=Talk with <a href="findnpc_new,school08,WorldNpc00212" style="HLStype1">Abbot Xuanhuai</a>.
 interactinfo_13096=与<a href="findnpc_new,school08,WorldNpc00396" style="HLStype1">清善</a>交谈
 interactinfo_13097=回少林的路上遇到<a href="findnpc_new,school08,WorldNpc00313" style="HLStype1">莫伊人</a>
 interactinfo_13098=与<a href="findnpc_new,school08,WorldNpc00396" style="HLStype1">清善</a>交谈
-interactinfo_13099=与<a href="findnpc_new,school08,WorldNpc00212" style="HLStype1">玄怀大师</a>交谈
-interactinfo_13100=与<a href="findnpc_new,school08,WorldNpc00212" style="HLStype1">玄怀大师</a>交谈
+interactinfo_13099=Talk with <a href="findnpc_new,school08,WorldNpc00212" style="HLStype1">Abbot Xuanhuai</a>.
+interactinfo_13100=Talk with <a href="findnpc_new,school08,WorldNpc00212" style="HLStype1">Abbot Xuanhuai</a>.
 okmenu_13076=我在恶人谷得到密信，有人要对少林不利，大师最近少林可有异样？
 okmenu_13077=太好了，这里有这种草
-okmenu_13078=好吧
+okmenu_13078=I'm on my way!
 okmenu_13079=先别说这些了，我查出了经书外泄到了嵩阳书院，我要去禀报玄怀大师
 okmenu_13080=当年？
-okmenu_13081=虽然教训了高山阳，不过幕后主使是嵩山剑派，我要去禀报方丈
 okmenu_13082=交给我吧，我会查清楚的
-okmenu_13083=好的
+okmenu_13083=Okay.
 okmenu_13084=
 okmenu_13085=
 okmenu_13086=嵩阳书院么
 okmenu_13087=我是山下祝广康引荐而来，有事求您
 okmenu_13088=这……敢问您的秘籍从哪得来啊？
 okmenu_13089=嵩阳书院似乎有内奸在少林，而且还是在藏经阁中。
-okmenu_13090=好的，我这就去
+okmenu_13090=I'll leave immediately.
 okmenu_13091=点燃，烧了这座书楼
 okmenu_13092=我这就告辞
 okmenu_13093=好的我这就去
 okmenu_13094=我已经有师傅了，不能另投他派啊，还望大师见谅
 okmenu_13095=这么冲动？好我去寻回清善大师
-okmenu_13096=这……
+okmenu_13096=Um……
 okmenu_13097=（这位是……不管了，这位姑娘的腰带也要了）得罪了
 okmenu_13098=好的，我立即过去
 okmenu_13099=大师何出此言（不会知道了吧）
 okmenu_13100=这事因我而起，理当如此
 story_13076_1=那个时候我和我师兄不戒，经常下山抓鸡吃，买酒喝，那个时候真是痛快啊，可惜，不戒因为偷看易筋经被逐出少林。
-story_13077_1=嵩山剑派和我少林因为处于同一地域，彼此处于势力竞争关系。虽然少林寺讲究出家人淡泊名利，不与世争，但是嵩山剑派却一直暗暗与我少林较劲。有一日，嵩山剑派掌门与几大高徒一夜之间，在派中惨死，死因竟然是少林寺的大力金刚掌和无相劫指，再加上嵩山派部分秘籍的丢失，所有矛头都指向了少林。老衲只是没想到，嵩山剑派这么急着复仇，也不查明真相。
 story_13078_1=事实上，最近本寺的武功秘籍外泄了，原因还没有找到，施主既然来到少林，能否帮老衲调查一下此事呢，事关少林安危！
 story_13078_2=前段日子，老衲已经派清善去调查此事，施主有不明白的可以去问他。
-story_13079_1=我不是高山阳啊，真正的高山阳早就死了，我是嵩山剑派弟子，奉家师之命给少林派制造麻烦。英雄大人大量，放过小的吧。
 story_13080_1=不好方丈交给我保管的钵被人拿走了。
 story_13080_2=是一位姑娘，好像听他们说叫莫小姐。
 story_13081_1=你为什么要救我。
@@ -111,23 +113,21 @@ story_13083_1=哼，要不是我有伤在身，岂能容你在这里放肆，你
 story_13083_2=（左月凜看过信后）原来如此，左某真是以小人之心度君子之腹了，请替我回禀玄怀大师，择日左某一定上少室山请罪。
 story_13084_1=这……还真不清楚，只是最近村子里来了个异乡人叫祝广康，神神秘秘的，经常指引一些来此地的江湖人去嵩阳书院，要不你去问问他？
 story_13085_1=看你一副灰头灰脸的样子，不用猜了，你刚刚被玄怀大师训斥了一通。
-story_13085_2=嵩山剑派这么大，我们不如分头去找。
 story_13086_1=我刚才遇到少林弟子，我已经吩咐他们先回去了，我在这里等你。
 story_13086_2=施主做得好，不过看施主面带桃花，刚才一定遇到美女了吧，阿弥陀佛，施主先行回去禀报方丈，贫僧先去村子里买一壶酒，随后就回少林
 story_menu_13076=清善吃鸡
 story_menu_13077=灭门惨案
-story_menu_13078=前往少林
-story_menu_13079=嵩山剑派
+story_menu_13078=To Shaolin School
 story_menu_13080=洛水伊人
 story_menu_13081=救治伊人
 story_menu_13082=去见掌门
 story_menu_13083=干戈玉帛
-story_menu_13084=追查线索
+story_menu_13084=Desperately Seeking Hua Yuying
 story_menu_13085=嵩山救人
 story_menu_13086=干戈玉帛
 storyinfo_13076=听<a href="findnpc_new,school08,WorldNpc00206" style="HLStype1">清善</a>诉说
-storyinfo_13077=听<a href="findnpc_new,school08,WorldNpc00212" style="HLStype1">玄怀大师</a>诉说
-storyinfo_13078=听<a href="findnpc_new,school08,WorldNpc00212" style="HLStype1">玄怀大师</a>诉说
+storyinfo_13077=Listen to <a href="findnpc_new,school08,WorldNpc00212" style="HLStype1">Mistress Xuanhuai</a> explain.
+storyinfo_13078=Listen to <a href="findnpc_new,school08,WorldNpc00212" style="HLStype1">Mistress Xuanhuai</a> explain.
 storyinfo_13079=听<a href="findnpc_new,school08,WorldNpc00449" style="HLStype1">高山阳</a>诉说
 storyinfo_13080=听<a href="findnpc_new,school08,WorldNpc00314" style="HLStype1">清果</a>诉说
 storyinfo_13081=与<a href="findnpc_new,school08,WorldNpc00313" style="HLStype1">莫伊人</a>交谈
@@ -137,9 +137,9 @@ storyinfo_13084=听<a href="findnpc_new,school08,WorldNpc00389" style="HLStype1"
 storyinfo_13085=前往山下寻找<a href="findnpc_new,school08,WorldNpc00396" style="HLStype1">清善</a>
 storyinfo_13086=去找<a href="findnpc_new,school08,WorldNpc00396" style="HLStype1">清善</a>一起回少林
 storymenu_13076_1=原来大师与不戒和尚还有这么一段往事
-storymenu_13077_1=原来如此
+storymenu_13077_1=I see.
 storymenu_13078_1=既然玄怀大师请我帮助，哪有不帮之理？
-storymenu_13078_2=好的，我这就去。
+storymenu_13078_2=Ok, I'm going now.
 storymenu_13079_1=此事玄怀大师自有定夺
 storymenu_13080_1=拿走钵的人的长相可曾看清？
 storymenu_13080_2=我想我知道是谁了

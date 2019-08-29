@@ -295,7 +295,6 @@ complete_55558=<font face="Default" color="#ffffff" >Why do I need your recognit
 complete_55559=<font face="Default" color="#ffffff" >Ye Jinglou gave it to me before the battle and asked me to give it to you.</font>
 complete_55561=<font face="Default" color="#ffffff" >There is an old man that makes trouble here.  </font>
 complete_55562=<font face="Default" color="#ffffff" >It's none of your business. Put it out of your mind.  I saw Little Walnut crying when I passed the front hall. Check on her.  </font>
-complete_55564=<font face="Default" color="#ffffff" >The first thing I need you to do is to deliver my letters to Rootless Clan, Peach Blossom Island, Beast Villa, Xu Village, Shen Family Castle and Palace of Shifting Flowers. I'll hand over the Talisman of Life once Xixi regains her sight.</font>
 complete_55565=<font face="Default" color="#ffffff" > It's dangerous. Be careful! </font>
 complete_55569=<font face="Default" color="#ffffff">Lian Qingcheng? </font>
 complete_55574=<font face="Default" color="#ffffff" >She may be at the Scholars. I once saved her life and she claimed to should would help me when I needed it. I trust her word on this. Here, take my throwing knife. </font>
@@ -323,10 +322,6 @@ context_55566=The Shen Family Castle, Xu Village are in Chengdu and the Palace o
 context_55567=Shen Family Castle and Xu Village are in Chengdu. It's also populated by Palace of Shifting Flowers gradually. Going to Chengdu is a best choice. You may also get the information about Lian Qingcheng.
 context_55568=Shen Family Castle and Xu Village are in Chengdu. It's also populated by Palace of Shifting Flowers gradually. Going to Chengdu is a best choice. You may also get the information about Lian Qingcheng.
 context_55569=Shen Family Castle and Xu Village are in Chengdu. It's also populated by Palace of Shifting Flowers gradually. Going to Chengdu is a best choice. You may also get the information about Lian Qingcheng.
-context_55570=Head to Suzhou and find the entrance to the Peach Blossom Island.
-context_55571=Go to Suzhou and find the entrance to the Peach Blossom Island. Peach Blossom Island is secluded. It's mysterious to many Jianghu people.
-context_55572=Go to Suzhou and find the entrance to the Peach Blossom Island. Peach Blossom Island is secluded. It's mysterious to many Jianghu people.
-context_55573=Go to Suzhou and find the entrance to the Peach Blossom Island. Peach Blossom Island is secluded. It's mysterious to many Jianghu people.
 context_55574=Thank goodness the Drunken Hero Chu Xiao helped us. I didn't expect Zhuo Bei would come to Suzhou.
 context_55575=Chu Xiao was seriously injured. He asked you to find Mu Shuzi at the Scholars so he could be healed.
 context_55576=Chu Xiao was seriously hurt. He asked you to find Mu Shuzi in Scholars for him.  Thus, he could be cured.
@@ -378,8 +373,6 @@ target_55566=Ask for information about the Palace of Shifting Flowers and Lian Q
 target_55567=Deliver the letter to the Shen Family Castle and then rescue Lian Qingcheng from Xu Village.
 target_55568=Palace of Shifting Flowers is fighting with Xu Village. Try to stop them.
 target_55569=Palace of Shifting Flowers and Xu Village busy fighting each other. Now is a good time to find Lian Qingcheng.
-target_55570=Find the entrance to Peach Blossom Island and deliver Yan Shuangxing's letter.
-target_55571=You met the Drunken Hero Chu Xiao at Hanshan Temple but had little time to converse due to needing to rescue the kid taken by Shi Que.
 target_55572=Jiang Jiang took Yang Que by accident. Find Yang Que and give it to Shi Que or both Jiang Jiang and you cannot leave alive.
 target_55573=Use the hoe to find Yang Que.
 target_55574=Chu Xiao helped you fight Zhuo Bei though was seriously injured. Examine his wound.
@@ -416,4 +409,35 @@ title_55574=Go To Scholars
 title_55575=Visit Mu Shuzi
 title_55576=Visit Mu Shuzi
 title_55577=Journey to Mount Hua
+CanAcceptMenu_55581=<font face="Default" color="#ffffff" >It's a good time for watching flowers, why do you pull a long face?</font>
+CanAcceptMenu_55582=<font face="Default" color="#ffffff" >Spring is in the Air </font>
+CompleteMenu_55580=<font face="Default" color="#ffffff" >Constable Xing, this incident has been completed. Goodbye.</font>
+CompleteMenu_55581=<font face="Default" color="#ffffff" > Are you happy, madam? </font>
+CompleteMenu_55582=<font face="Default" color="#ffffff" >Spring is in the Air (Quest Complete)</font>
+accept_55581_1=<font face="Default" color="#ffffff" >You're right, but I have too many peonies to take care. I'll appreciate it if you can help me.</font>
+accept_55582_1=<font face="Default" color="#ffffff" >It's exactly a good time for watching flowers, but the palace needs a huge quantity of peonies. If you can provide the peony flowers, I'll give a abundant rewards!</font>
+complete_55580=<font face="Default" color="#ffffff" >Here are some rewards, please receive.</font>
+complete_55581=<font face="Default" color="#ffffff" >You grew the penoy flowers very well. Here are some rewards, please receive.</font>
+complete_55582=<font face="Default" color="#ffffff" >Thank you. Please receive the peony seeds.</font>
+context_55580=A philanderer appeared in Suzhou recently. The magistrate demanded Constable Xing to arrest the philanderer in three days, but there is little clue. Maybe you can help Constable Xing with it.
+context_55581=It's a good time for watching flowers, but the madam pulls a long face.
+context_55582=The imperial garden needs many flowers to decorate, and the emperor asked Flower Lady to submit the flowers in time. Please help her.
+menu_55581_1=<font face="Default" color="#ffffff" >I'll handle it!</font>
+menu_55582_1=<font face="Default" color="#ffffff" >I'll just try my best.</font>
+submit_55580=<font face="Default" color="#ffffff" >Thank you, Constable Xing.</font>
+submit_55581=<font face="Default" color="#ffffff" >I will accept then.</font>
+submit_55582=<font face="Default" color="#ffffff" >Thank you, Madam.</font>
+target_55580=Help Constable Xing to solve the case of philanderer.
+target_55581=Help Flower Lady to solve her trouble.
+target_55582=Help Flower Lady to solve her trouble.
+title_55580=Constable Xing's Trouble
+title_55581=Spring Blossoms
+title_55582=Spring is in the Air
+complete_55564=<font face="Default" color="#ffffff" >The first thing I need you to do is to deliver my letters to Rootless Clan, Peach Blossom Island, Beast Villa, Xu Village, Shen Family Castle and Palace of Shifting Flowers. I'll hand over the Talisman of Life once Xixi regains her sight.</font>
+context_55570=Head to Suzhou and find the entrance to the Peach Blossom Island.
+context_55571=Go to Suzhou and find the entrance to the Peach Blossom Island. Peach Blossom Island is secluded. It's mysterious to many Jianghu people.
+context_55572=Go to Suzhou and find the entrance to the Peach Blossom Island. Peach Blossom Island is secluded. It's mysterious to many Jianghu people.
+context_55573=Go to Suzhou and find the entrance to the Peach Blossom Island. Peach Blossom Island is secluded. It's mysterious to many Jianghu people.
+target_55570=Find the entrance to Peach Blossom Island and deliver Yan Shuangxing's letter.
+target_55571=You met the Drunken Hero Chu Xiao at Hanshan Temple but had little time to converse due to needing to rescue the kid taken by Shi Que.
 

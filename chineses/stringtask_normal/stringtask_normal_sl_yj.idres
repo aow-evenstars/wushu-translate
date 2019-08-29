@@ -406,7 +406,6 @@ complete_81188=Shishi doesn't obey me.
 completemenu_81188=Lead Escort Zhuo, I wish you could understand Shishi. She is her own mother. How could you let her make a decision between her father and mother?
 accept_81050_1=I've heard a lot about you. I have a story that might interest you.
 complete_81050=You are my soul mate, so I talked a lot with you.
-title_81050=Hua Mountain Competition
 next_81050=Go to find <a href="findnpc_new,city01,WorldNpc08965" style="HLStype1">Zhan Gangxiong</a>.
 accept_81051_1=Friend, please wait a moment, and do you have any time to listen to my telling an episode of history?
 title_81051=Blockbuster War
@@ -419,7 +418,6 @@ next_81059=<a href="findnpc_new,city01,JMYCYH011" style="HLStype1">Qian Xuan</a>
 submit_81057=<font face="Default" color="#ffffff" >You're welcome.</font>
 submit_81058=<font face="Default" color="#ffffff" >Ok. I'll do whatever you say.</font>
 submit_81059=<font face="Default" color="#ffffff" >Don't ask me to do this next time.</font>
-CanAcceptMenu_81050=<font face="Default" color="#ffffff" >Hua Mountain Competition</font>
 CanAcceptMenu_81057=<font face="Default" color="#ffffff" >Dongfang Family</font>
 CanAcceptMenu_81058=<font face="Default" color="#ffffff" >Live and die together</font>
 CanAcceptMenu_81059=<font face="Default" color="#ffffff" >There is no need to be worried</font>
@@ -447,4 +445,19 @@ title_81057=Dongfang Family
 title_81058=Live and Die Together
 title_81059=There is no Need to be Worried
 accept_81064_1=Sure, but you have to tell me a joke!
+CanAcceptMenu_81050=<font face="Default" color="#ffffff" >Hua Mountain Competition</font>
+accept_81062_1=　　不吃瓜可以，但丐帮打狗八绝的故事你总有兴趣听听吧，来拿着这瓜送你啦，老伯我就为你讲讲！
+accept_81129_1=我跟西山古墓有点私人恩怨，现在我要到他们的禁地取点东西。等下你只要杀掉一些那里的高手和护卫就可以，剩下的交给我。
+accept_81147_1=西山古墓有一种蛇叫寒潭毒蛇，杀死一些后你就可以见到天上的仙女。这可是真的哦，你可以去试试看。
+accept_81148_1=我最看不惯西山古墓的那帮人，装什么清高，一个个都该死。不过我是个怜香惜玉的人，还是你帮我出手吧。
+context_81062=路遇热情的卖瓜老伯，听他讲打狗八绝的故事！
+context_81069=传闻司徒勇对《心莲无量功》十分了解，尝试着从他那了解一些信息。
+context_81129=我跟西山古墓有点私人恩怨，现在我要到他们的禁地取点东西。等下你只要杀掉一些那里的高手和护卫就可以，剩下的交给我。
+context_81147=西山古墓有一种蛇叫寒潭毒蛇，杀死一些后你就可以见到天上的仙女。这可是真的哦，你可以去试试看。
+context_81148=我最看不惯西山古墓的那帮人，装什么清高，一个个都该死。不过我是个怜香惜玉的人，还是你帮我出手吧。
+target_81069=从司徒勇那了解《心莲无量功》的信息。
+target_81129=杀死西山古墓禁地高手和西山古墓禁地侍卫
+target_81148=杀死西山古墓弟子
+title_81050=Hua Mountain Competition
+title_81069=Green Lotus Script
 

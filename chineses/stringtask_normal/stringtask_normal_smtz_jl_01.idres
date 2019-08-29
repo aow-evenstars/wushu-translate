@@ -5,7 +5,6 @@ CanAcceptMenu_87005=<font face="Default" color="#ffffff" >Collecting Goods and S
 CanAcceptMenu_87006=<font face="Default" color="#ffffff" >Collecting Goods and Supplies</font>
 CanAcceptMenu_87007=<font face="Default" color="#ffffff" >Green Cloud Castle's Reward</font>
 CanAcceptMenu_87008=<font face="Default" color="#ffffff" >Escort Goods</font>
-CanAcceptMenu_87009=<font face="Default" color="#ffffff" >Huanhua Sword Sect</font>
 CanAcceptMenu_87010=<font face="Default" color="#ffffff" >School Patrol</font>
 CanAcceptMenu_87011=<font face="Default" color="#ffffff" >Blood</font><font face="Default" color="#ffffff" > Covering</font><font face="Default" color="#ffffff" > Shaolin</font>
 CanAcceptMenu_87012=<font face="Default" color="#ffffff" >Tiger Roaring Villa</font>
@@ -85,7 +84,6 @@ context_87005=Disciples of Wanderer's Valley are always uninhibited. But with th
 context_87006=Disciples of Wanderer's Valley are always uninhibited. But with the increase of the number of the disciples, the huge living burden makes Wanderer's Valley hard to make ends meet. Please donate materials! Do your bit for the schoolmates.
 context_87007=Disciples of Wanderer's Valley in Luoyang sent a carrier pigeon to deliver a letter saying that the Study Boss in Luoyang City suffered from a suspicious death. A few pages of the Maple Leaf Letter were left at the scene. The Maple Leaf Letter recorded the matter of butterflies killing people in Green Cloud Castle. The Study Boss' wife offered us a big reward to assist in dealing with it. Please go to Green Cloud Castle to conduct a thorough investigation and properly handle it. The Sect will make a full use of the reward presented by Mrs. Shi.
 context_87008=Wanderer's Valley has been suffering from a great shortage of supplies. I'd like for you to go there and assist the escort agency.
-context_87009=Huanhua Sword Sect has been harming our disciples. Go to Chengdu and deal with them.
 context_87010=There are a number of individuals in Wanderer's Valley becoming quite a nuisance to some of the more peaceful sects. I need you to be on the lookout.
 context_87011=I have been notified that our disciples were in fact killed in Chengdu by some Shaolin monks. Given this information, your task now is to avenge the death of our brothers. You'll first need to speak with Cheng Ying.
 context_87012=It was said that Tiger Roaring Villa was originally founded by members of Xixia First Class Hall in the Central Plains.  I would like for you to learn more about their kung fu style.
@@ -96,7 +94,6 @@ context_87016=Xu Family Manor has been harming our disciples. Go to Chengdu and 
 context_87017=Wanderer's Valley is such a big place which requires a lot of people to do daily cleaning. I hope that you will spare no pains to do your bit.
 context_87018=Some Wanderer's Valley traitors have sought refuge in Dounan Hall. Find them and deal with them according to sect rules.
 context_87019=Collect some gaultheria and give them to the Wanderer's Valley owner. They will be sold to Pearl Picking Village merchants once you have collected enough.
-context_87020=Songshan Sword Sect has been conspiring with an emerging evil force. How could we have missed this? Follow other sects to see if you can benefit from them.
 menu_87000_1=
 menu_87001_1=
 menu_87005_1=
@@ -159,7 +156,6 @@ target_87005=Donate the required materials for the Sect.
 target_87006=Donate the required materials for the Sect.
 target_87007=Pass the Green Cloud Castle Forbidden Instance.
 target_87008=Complete the task of Escort.
-target_87009=Finish challenging the force of Huanhua Sword Sect.
 target_87010=Retake the intelligence and finish the Sect patrolling task.
 target_87011=Finish avenging on the Shaolin monks.
 target_87012=Finish challenging the force of Tiger Roaring Villa.
@@ -170,7 +166,6 @@ target_87016=Finish challenging the force of Xu Family Manor.
 target_87017=Clean the courtyard of Wanderer's Valley.
 target_87018=Chase after Mi Junhao, the traitor of Wanderer's Valley.
 target_87019=Collect enough gaultheria.
-target_87020=Accomplish the force challenge to Mount Song Sword Sect.
 title_87000=Collecting Goods and Supplies
 title_87001=Xijin Ferry Disaster
 title_87002=Black Wind Old Demon
@@ -180,7 +175,6 @@ title_87005=Collecting Goods and Supplies
 title_87006=Collecting Goods and Supplies
 title_87007=Green Cloud Castle's Reward
 title_87008=Escort Goods
-title_87009=Huanhua Sword Sect
 title_87010=Sect Patrol
 title_87011=Shaolin Disaster
 title_87012=Tiger Roaring Villa
@@ -229,4 +223,10 @@ menu_87027_1=<font face="Default" color="#ffffff" >Brother referral</font>
 submit_87027=<font face="Default" color="#ffffff" >I know.</font>
 target_87027=Listen to the <a href="findnpc_new,school04,wd173" style="HLStype1">school's master guide</a>.
 title_87027=Brother referral
+CanAcceptMenu_87009=<font face="Default" color="#ffffff" >Huanhua Sword Sect</font>
+context_87009=Huanhua Sword Sect has been harming our disciples. Go to Chengdu and deal with them.
+context_87020=Songshan Sword Sect has been conspiring with an emerging evil force. How could we have missed this? Follow other sects to see if you can benefit from them.
+target_87009=Finish challenging the force of Huanhua Sword Sect.
+target_87020=Accomplish the force challenge to Mount Song Sword Sect.
+title_87009=Huanhua Sword Sect
 

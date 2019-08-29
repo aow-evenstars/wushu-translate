@@ -225,13 +225,13 @@ accept_71005_1=<font face="Default" color="#ffffff" >Here you are! Is it about t
 accept_71008_1=<font face="Default" color="#ffffff" >Not to worry. I know something that will protect us against the poisonous air.</font>
 accept_71011_1=<font face="Default" color="#ffffff" >Glory and riches await you on the Eastern Seas, but I fear there will be great treachery as well. You must be ready before I will allow you to go on this most dangerous mission.</font>
 accept_71014_1=<font face="Default" color="#ffffff" >When you are ready, head for the Hero Islands. There, elders from various schools will teach you the ultimate skills of their school, if they deem you worthy.</font>
-accept_71015_1=If you want to improve yourself, set off for the Hero Island now. There are many masters of all the schools guarding the Hero Island. They will teach you their key absolute skills. 
-accept_71016_1=If you want to improve yourself, set off for the Hero Island now. There are many masters of all the schools guarding the Hero Island. They will teach you their key absolute skills. 
-accept_71017_1=If you want to improve yourself, set off for the Hero Island now. There are many masters of all the schools guarding the Hero Island. They will teach you their key absolute skills. 
-accept_71018_1=If you want to improve yourself, set off for the Hero Island now. There are many masters of all the schools guarding the Hero Island. They will teach you their key absolute skills. 
-accept_71019_1=If you want to improve yourself, set off for the Hero Island now. There are many masters of all the schools guarding the Hero Island. They will teach you their key absolute skills. 
-accept_71020_1=If you want to improve yourself, set off for the Hero Island now. There are many masters of all the schools guarding the Hero Island. They will teach you their key absolute skills. 
-accept_71021_1=If you want to improve yourself, set off for the Hero Island now. There are many masters of all the schools guarding the Hero Island. They will teach you their key absolute skills. 
+accept_71015_1=If you want to improve yourself, set off for the Hero Island now. There are many masters of all the schools guarding the Hero Island. They will teach you their key absolute skills.
+accept_71016_1=If you want to improve yourself, set off for the Hero Island now. There are many masters of all the schools guarding the Hero Island. They will teach you their key absolute skills.
+accept_71017_1=If you want to improve yourself, set off for the Hero Island now. There are many masters of all the schools guarding the Hero Island. They will teach you their key absolute skills.
+accept_71018_1=If you want to improve yourself, set off for the Hero Island now. There are many masters of all the schools guarding the Hero Island. They will teach you their key absolute skills.
+accept_71019_1=If you want to improve yourself, set off for the Hero Island now. There are many masters of all the schools guarding the Hero Island. They will teach you their key absolute skills.
+accept_71020_1=If you want to improve yourself, set off for the Hero Island now. There are many masters of all the schools guarding the Hero Island. They will teach you their key absolute skills.
+accept_71021_1=If you want to improve yourself, set off for the Hero Island now. There are many masters of all the schools guarding the Hero Island. They will teach you their key absolute skills.
 accept_71022_1=
 accept_71023_1=<font face="Default" color="#ffffff" >Here you are! Is it about the Life and Death Order?</font> I know what you are worry about, but I don't want my disciples die. </font>
 accept_71026_1=<font face="Default" color="#ffffff" >Here you are! Is it about the Life and Death Order?</font> I know what you are worry about, but I don't want my disciples die. </font>
@@ -424,7 +424,34 @@ complete_61040=<font face="Default" color="#ffffff" > Here's the reward for you.
 context_61040=You may accept the task of Cultivate Yin/Yang Heel Vessel - Hidden from Lin Liang. Complete the task and get a bonus prize.
 menu_61040_1=<font face="Default" color="#ffffff" >All right. </font>
 next_61040=Give up the task and accept it again from Bank Festival Event Ambassador Lin Liang
+submit_61040=<font face="Default" color="#ffffff" >All right. </font>
 target_61040=Complete Cultivate Yin/Yang Heel Vessel - Hidden
 title_61040=Cultivate Yin/Yang Heel Vessel - Hidden (Daily)
-submit_61040=<font face="Default" color="#ffffff" >All right. </font>
+CompleteMenu_71083=<font face="Default" color="#ffffff" >Why did you tell me these things?</font>
+CompleteMenu_71086=<font face="Default" color="#ffffff" >Elder...</font>
+complete_71083=<font face="Default" color="#ffffff" >I just want to chat with some one. Hahaha, as we have the fate to meet with each other, I'd like to present a script to you.</font>
+complete_71086=<font face="Default" color="#ffffff" >It's just some old things. If you're interested in it I will tell you about these. Here is a letter, you can read it</font><font face="Default" color="#ffffff" >...</font>
+context_71080=According to the information on the letter, head to Qiandeng Town to investigate what happened, and give a help at the suitable time.
+context_71081=Head to Green Island to find out what are these bandits planning?
+context_71082=Why did Cui Jieying seize the ancestral memorial tablet of the Qin family? Is the secret of the script hidden in the tablets?
+context_71083=There is such a mysterious place hidden in Qiandeng Town?! I wonder if the secret of the Qin family is hiding in it!
+context_71084=Who could have hurt Jiugong Elder? Maybe...
+context_71085=The mysterious person who injured Jiugong Elder must be hiding nearby. I need to find out the trace!
+context_71086=The mysterious person must be hiding in this cave. I can only invade in and force her to hand out the antidote.
+submit_71083=<font face="Default" color="#ffffff" >My thanks, Elder. I'm flattered.</font>
+submit_71086=<font face="Default" color="#ffffff" >Elder...</font>
+target_71080=According to the information on the letter, head to Qiandeng Town to investigate the situation.
+target_71081=Head to Green Island to investigate the situation.
+target_71082=Track Cui Jieying
+target_71083=Find Cui Jieying and retrieve the Qin Family's belongings.
+target_71084=The most important thing is cure Jiugong Elder.
+target_71085=Search the trace of mysterious person.
+target_71086=Defeat mysterious person and get the antidote.
+title_71080=Blood Letter
+title_71081=Jiugong Elder? Script?
+title_71082=Qin Family Ancestral Memorial Tablet
+title_71083=Watery Cave Realm
+title_71084=Jiugong Elder is injured?!
+title_71085=Clues
+title_71086=Old Time Gone With Wind
 

@@ -47,7 +47,7 @@ hunterinfo_13030=教训<a href="findnpc_new,school04,WorldNpc03851" style="HLSty
 hunterinfo_13031=击败<a href="findnpc_new,school04,WorldNpc03988" style="HLStype1">刘淡宕</a>
 hunterinfo_13032=击败<a href="findnpc_new,school04,monrm040057" style="HLStype1">埋伏的黑风山弟子</a>
 hunterinfo_13033=击败<a href="findnpc_new,school04,WorldNpc03989" style="HLStype1">霸三</a>
-interactinfo_13026=询问<a href="findnpc_new,school04,WorldNpc03811" style="HLStype1">雾狐</a>是否过关   
+interactinfo_13026=询问<a href="findnpc_new,school04,WorldNpc03811" style="HLStype1">雾狐</a>是否过关
 interactinfo_13027=询问<a href="findnpc_new,school04,WorldNpc03813" style="HLStype1">燕楚楚</a>如何过关
 interactinfo_13028=将包裹交给<a href="findnpc_new,school04,WorldNpc03808" style="HLStype1">桀昂</a>
 interactinfo_13029=询问<a href="findnpc_new,school04,WorldNpc03813" style="HLStype1">燕楚楚</a>是否过关
@@ -58,9 +58,9 @@ interactinfo_13033=到<a href="findnpc_new,school04,EventNpc26059" style="HLStyp
 interactinfo_13034=告诉<a href="findnpc_new,school04,WorldNpc03986" style="HLStype1">李艳红</a>劫匪的消息
 interactinfo_13035=给<a href="findnpc_new,school04,WorldNpc03810" style="HLStype1">瑶见</a>送礼
 interactinfo_13036=听从<a href="findnpc_new,school04,WorldNpc03809" style="HLStype1">隐风</a>的吩咐
-interactinfo_13037=与<a href="findnpc_new,school04,WorldNpc03808" style="HLStype1">桀昂</a>交谈
-interactinfo_13038=与<a href="findnpc_new,school04,WorldNpc03808" style="HLStype1">桀昂</a>交谈
-interactinfo_13039=与<a href="findnpc_new,school04,WorldNpc03808" style="HLStype1">桀昂</a>交谈
+interactinfo_13037=<s>Talk with <a href="findnpc_new,school04,WorldNpc03808" style="HLStype1">Jie Ang</a>
+interactinfo_13038=<s>Talk with <a href="findnpc_new,school04,WorldNpc03808" style="HLStype1">Jie Ang</a>
+interactinfo_13039=<s>Talk with <a href="findnpc_new,school04,WorldNpc03808" style="HLStype1">Jie Ang</a>
 interactinfo_13040=看<a href="findnpc_new,school04,WorldNpc03808" style="HLStype1">桀昂</a>现在怎么样了
 interactinfo_13041=向<a href="findnpc_new,school04,WorldNpc03858" style="HLStype1">瑾瑜</a>借戒酒药
 interactinfo_13042=与<a href="findnpc_new,school04,WorldNpc03851" style="HLStype1">池光</a>交谈
@@ -75,7 +75,7 @@ interactinfo_13050=问<a href="findnpc_new,school04,WorldNpc03932" style="HLStyp
 okmenu_13026=（一脸苍白，还未从杀人的恐惧中恢复过来）佛使教训的是。
 okmenu_13027=是，晚辈明白，我这就去。
 okmenu_13028=真是好险！
-okmenu_13029=多谢前辈指点。
+okmenu_13029=Thank you.
 okmenu_13030=这好办，我去去就回。
 okmenu_13031=很合身，谢谢你。
 okmenu_13032=那晚辈就先走了。
@@ -87,9 +87,9 @@ okmenu_13037=晚辈功力地位，怎么能和您比呢？
 okmenu_13038=前辈教训的是，我会加倍努力练功的。
 okmenu_13039=好，我这就去取酒。
 okmenu_13040=（去找瑾瑜要点解酒药吧……）
-okmenu_13041=多谢前辈！
+okmenu_13041=Thank you!
 okmenu_13042=记住了就好！
-okmenu_13043=发生什么事了？
+okmenu_13043=What happened?
 okmenu_13044=就凭你么？
 okmenu_13045=
 okmenu_13046=
@@ -112,7 +112,7 @@ story_13030_2=<s>你不要骗我，我不相信你！
 story_13031_1=<s>你放心吧，黑风老妖被桀昂击败后，黑风山的人不敢再出来撒野了。那些村民也都没事了。
 story_13032_1=极乐谷重地，闲杂人等速速离开，把大爷惹怒了，休怪我不客气。
 story_menu_13026=蛊使查兰
-story_menu_13027=救人一命
+story_menu_13027=Save a Life
 story_menu_13028=结为兄弟
 story_menu_13029=可恶歹徒
 story_menu_13030=救出小妹
@@ -140,7 +140,7 @@ storymenu_13030_2=我帮助这些人，只是为我杀人找个理由而已。
 storymenu_13031_1=太好了
 storymenu_13032_1=这位大哥，我受人所托来找窦华伦管事，有书信交由于他。
 useiteminfo_13026=服用<a href="TASK_ITEM,useitem_91m" style="HLStype1">丹药</a>
-useiteminfo_13027=自己种下<a href="TASK_ITEM,useitem_92m" style="HLStype1">不明的蛊</a> 
+useiteminfo_13027=自己种下<a href="TASK_ITEM,useitem_92m" style="HLStype1">不明的蛊</a>
 useiteminfo_13028=为尸体换上<a href="TASK_ITEM,useitem_93m" style="HLStype1">新衣服</a>
 useiteminfo_13029=把<a href="TASK_ITEM,useitem_94m" style="HLStype1">装有尸体的麻袋</a>扔到<a href="findnpc_new,school04,EventNpc26061" style="HLStype1">山下</a>
 useiteminfo_13030=喝<a href="TASK_ITEM,useitem_95m" style="HLStype1">酒</a>

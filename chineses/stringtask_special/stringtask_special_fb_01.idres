@@ -99,13 +99,9 @@ dialogid_27146_1=<s>Student, have you filled the water bucket?
 dialogid_27147=<s>Qing Kong is idle again. You are obedient.
 dialogid_27147_2=<s>Qing Kong is idle again. You are obedient.
 dialogid_27267=<s>The Jade Token? I see. There is one in the Monkey Forest. Is it the one you want?
-dialogid_27273=<font face="Default" color="#ffffff">I'm sure this is a page from the book Nightwing. I need to look for the residual scroll.</font>
-dialogid_27274=<font face="Default" color="#ffffff">……Though there is only one page. I am sure it is from "Dark Plume". With the pages I have, "Dark Plume"'s content is getting clear. According to the "Dark Plume" recordings, the hidden weapon Peacock Plume was made by Tangmen and Peacock Villa together. But Peacock Villa held it for itself. Then it fought against Tangmen. The villa needed to call for help so it caused the chaos.……</font>
-dialogid_27275=<font face="Default" color="#ffffff">……Though there is only one page. I am sure it is from "Dark Phoenix". With the pages I have, "Dark Phoenix"'s content is getting clear. Among the three books, "Dark Phoenix" records the most confidential events. It recorded the Peacock Villa martial arts and Peacock Plume! But the detail page was lost. But I am sure Peacock Plume is not in the Lord's possession...</font>
 dialogid_27276=<font face="Default" color="#ffffff">Don't worry, Mountain God and I will keep your secret. It is sunny today, did you also come here to drink tea?</font>
 dialogid_27276_1=<font face="Default" color="#ffffff">I want the Mountain God to bless the village... Who are you?</font>
 dialogid_27276_2=<font face="Default" color="#ffffff">（Continue to listen）</font>
-dialogid_27277=<font face="Default" color="#ffffff">You're the spy sent by Tangmen, aren't you? Get out!</font>
 dialogid_27278=<font face="Default" color="#ffffff">The Mountain God is the only one to be trusted, get out.</font>
 dialogid_27320=<s>{@0:} you came. I need help investigating the death of Vice Sect Leader Gao.
 dialogid_27321=<s>Who are you? What do you want?
@@ -200,8 +196,6 @@ qiecuotitle_27620=<s>Who are you? Trouble me again, and I will be angry.
 qiecuotitle_27623=Wanna money? It's his honor to do business with Green Cloud Castle. How dare he ask for money?! Get away, or I'll give you a lesson!
 qiecuotitle_27624=<s>You are daring! Don't you know who I work for?
 qiecuotitle_27626=Wood Stake
-submitnpcex_2019=Ask <a href="findnpc_new,clone001,funnpcclone001005" style="HLStype1">Bai Xiaosheng</a> in Peacock Villa.
-submitnpcex_2022=Inform <a href="findnpc_new,clone001,funnpcclone001005" style="HLStype1">Bai Xiaosheng</a> in Peacock Villa.
 submitnpcex_2030=Find <a href="findnpc_new,school05,WorldNpc02399" style="HLStype1">The box in which the scroll is put</a>.
 submitnpcex_3005=<s>Submit the task to Zui Qiusheng.
 submitnpcex_3006=<s>Submit the task to Zui Qiusheng.
@@ -231,7 +225,6 @@ zzanswertext1_25=A martial arts expert.
 zzanswertext2_101=Dizzy; laugh a lot
 zzanswertext2_102=Demon Suppressing Tower
 zzanswertext2_103=Zhan Huasheng
-zzanswertext2_104=Eighteen Dragon-subduing Palms
 zzanswertext2_105=Hong Qigong
 zzanswertext2_16=Stop Gate
 zzanswertext2_17=Tianying star
@@ -246,7 +239,6 @@ zzanswertext2_25=A cheater.
 zzanswertext3_101=Nervous; hesitated
 zzanswertext3_102=Trident
 zzanswertext3_103=Jiao Wujiu
-zzanswertext3_104=Dragon Claw
 zzanswertext3_105=Huang Rong
 zzanswertext3_16=Life Gate
 zzanswertext3_17=Tianxin star
@@ -307,7 +299,6 @@ zzanswertext_3_2=Commoner
 zzanswertext_3_3=Jia Chao
 zzanswertext_3_4=They got the order to go to Twilight Village to seek revenge on Zhao Ziji.
 zzanswertext_3_41=Emei
-zzanswertext_3_42=Eighteen Dragon-subduing Palms
 zzanswertext_3_43=Yongchun Fist
 zzanswertext_3_44=Ape Staff
 zzanswertext_3_5=Hidden Weapon
@@ -327,7 +318,6 @@ zzanswertext_4_9=Tomorrow Morning
 collect_27382=Investigate <a href="findnpc_new,school05,GatherClone013001" style="HLStype1">Qian Bofei's Bag</a>.
 collect_27383=<s>Investigate the <a href="findnpc_new,school05,GatherClone013002" style="HLStype1">body of the Spy</a>.
 collect_title_27027=<s>You…what do you want？
-collectinfo_27011=The drawing of Peacock Feather
 collectinfo_27012=You have kill Zhao Zangfeng and got Chang Gong's letter.
 collectinfo_27013=You have killed Chang Gong and got the clues for interfering with politics.
 collectinfo_27014_1=Go to the kitchen and cut some Firewood
@@ -544,7 +534,6 @@ interactinfo_27003=Give Shen Hao's head to <a href="findnpc_new,school01,FunnpcC
 interactinfo_27004=Give Qiu Wuyan's letter to the Brigands Stronghold leader Tie Bi.
 interactinfo_27005_3=Tell Sima Huifeng that I have finished the task he gave to me.
 interactinfo_27006=Talk to Jin Huaiyu and accept her task.
-interactinfo_27007_1=Tell Sima Huifeng on the second floor to leave now.
 interactinfo_27008_2=Tell Dong Qiu in the Inn to leave.
 interactinfo_27009=Tell the spy of brigands that the Stronghold has been occupied. And tell him He Biao's message
 interactinfo_27010=Reserve a room at boss Jin Huaiyu
@@ -819,9 +808,6 @@ okmenu_27146_1=Shifu, look…
 okmenu_27147=Elder Brother is busy practising martial arts. He says he has no time to carry water.
 okmenu_27147_2=Elder Brother is busy practising martial arts. He says he has no time to carry water.
 okmenu_27267=You mean the Monkey King? Tell me where it is.
-okmenu_27273=<font face="Default" color="#ffffff" >So that is what it is. Unexpectedly, Peacock Villa became declined from the inner.</font>
-okmenu_27274=<font face="Default" color="#ffffff">The Peacock Plume is good for reputation, but it causes trouble.</font>
-okmenu_27275=<font face="Default" color="#ffffff" >The Peacock Plume has been lost. Peacock Villa will be ridiculed.</font>
 okmenu_27276=<font face="Default" color="#ffffff" >…… Er. I am not the old villa leader. Excuse me, you……</font>
 okmenu_27277=<font face="Default" color="#ffffff" >…… Continue to listen</font>.
 okmenu_27278=<font face="Default" color="#ffffff" >…… The old man begins to be absence of mind again. We should go back first.</font>
@@ -974,8 +960,6 @@ story_27019_0=<s>Fang Wuhen is the grandson of Fang Xiaoru, a honorable man. The
 story_27019_2=<s>It has been decades; Fang Wuhen has grown up and changed. He is the General of Yanmen Pass.
 story_27020_1=You need to be alert here.
 story_27020_2=Some places are too dangerous for you until you are stronger. I hear butterflies are killing people in Luoyang's Green Cloud Castle.
-story_27029_1=Because of my old age and weak body, old Headmaster called the Leader of Peacock Villa to come before he died. He told it to the Lord. Then he died with a laugh. I can still remember his laugh till today.
-story_27029_2=The leader of Peacock Villa didn't mention the secret weapon that day, but he regrets the death of the headmaster. It seems suspicious...
 story_27101_0=<s>Nine years ago, Wonderer's Valley tried to dispossess the best skills of Wudang and sent many master-hands to attack Wudang. Wudang tried their best to stop them. They were well-matched in strength and had a cruel fight. All the master-hands of that generation would have died if the fight continued.
 story_27101_2=The Wonderer's Valley Elder Xiao Heng came to stop it. Finally, he prisoned himseld in Wudang Sword Grave and ended this fight.
 story_27140_0=<s>A few days ago, there was a Mad Monk asking for wine and meat in the Village. Because he learned martial arts, no one dared to stop him. But he got even more arrogant, and he asked for more things and hurt someone.
@@ -996,7 +980,6 @@ story_27380_1=<s>Just tell it.
 story_27380_2=<s>That accounts for it.
 story_27381-0=<s>Tianji Hall was a Guild famous for secret devices and secret weapons 20 years ago. They had secret devices and secret weapons as good as Tangmen's. Their treasure Tianji Sting is very powerful. It can shoot 81 needles instantly. It blocks the rival's retreat and it is frightening.
 story_27381-2=<s>Thanks!
-story_27381-4=<s>I love to study secret weapons. Accidentally, I found Tianji Sting is similar to Tangmen's Storm Pear Flower Needle in structure. Then me and Headmaster went to Tianji Hall to argue with them. But they were not friendly then we fought against them. Headmaster was attacked by Xing Tianming with Tianji Sting, then he died. Grandma was angry, then she ordered all the people of the Tang Family Castle to eradicate Tianji Hall in one night.
 story_27381_0=<s>He looks like one of my old fridends. I am curious that he is snubned. I am the Deacon of the Inner Hall. You can tell me anything.
 story_27382=<s>Listen to <a href="findnpc_new,school05,funnpcclone013008" style="HLStype1">Tang Lan</a>.
 story_27382_0=Young Master's life experience? Young Master is lonely here, and few people care about him. It's a long story. In order to expand its force, Tangmen suggested intermarriage with Tianji Hall, another school famous for secret weapons. Headmaster Tang Tianzhi married Liu Ruolan, the sister of the Headmaster of Tianji Hall Xing Ruoming. One year later, they had a child named Tang Lan. But Xing Ruoming firted with Liu Ruolan. Tang Tianzhi was focused on martial arts and he snubbed his wife.
@@ -1197,7 +1180,6 @@ storymenu_27019_5=Who can find a balance between the hated of ones Country and t
 storymenu_27020_1=What happened?
 storymenu_27020_2=<font face="Default" color="#ffffff"> I remember what you said.</font>
 storymenu_27029_1=The old Leader of your Villa is a hero. What happened after that?
-storymenu_27029_2=I see, the Leader of Peacock Villa is too shameless.
 storymenu_27101_1=And then?
 storymenu_27101_3=I see.
 storymenu_27140_1=Then what?
@@ -1216,7 +1198,6 @@ storymenu_27321_3=We will get revenge for Vice Sect Leader Gao. I am going to re
 storymenu_27322_1=I swear loyalty to the Beggar's Sect.
 storymenu_27322_2=I saw and heard it myself. If I lie, I should be killed!
 storymenu_27322_3=I remember!
-storymenu_27380_1=The Peacock Plume is hidden in the Thousands Poison Palace. There are many guards, poisonous animals, traps, and hidden traps guarding the palace.
 storymenu_27380_2=We subordinates don't care about Deacon Qian's business.
 storymenu_27382_3=Tang Lan is so poor. But it's not his fault!
 storymenu_27383_3=Deacon Qian? I remember I saw Deacon Qian talking with Tang Qing. They mentioned you.
@@ -1298,7 +1279,6 @@ submitnpcex_2097=<s>Submit the Task to Shen Yishan in the Longmen Inn.
 submitnpcex_2098=<s>Submit the Task to Shen Yishan in the Longmen Inn.
 submitnpcex_2099=<s>Submit the Task to Bi Lu outside of the Longmen Inn.
 submitnpcex_2102=<s>Submit the Task to Meng Meng, daughter of Songhe Restaurant in the fish market.
-submitnpcex_2106=<s>Submit the Task to Village Head Zhang Yishan in Twilight Village.
 submitnpcex_2107=<s>Submit the Task to Zhao Ziji in Twilight Village.
 submitnpcex_2162=<s>Submit the Task to Li Xiao in Dongxuan Village.
 submitnpcex_2163=<s>Submit the Task to Fang Wuhen.
@@ -1420,7 +1400,7 @@ SubmitNpcEx_2402=<s>Talk to <a href="findnpc_new,school06,FunnpcClone009002" sty
 SubmitNpcEx_2404=<s>Talk to <a href="findnpc_new,school06,WorldNpc02604" style="HLStype1">Abbess Juechen</a>.
 SubmitNpcEx_2407=<s>Talk to <a href="findnpc_new,school06,WorldNpc02604" style="HLStype1">Abbess Juechen</a>.
 SubmitNpcEx_4535=<s>Speak to the Garrison Officer in Yanmen Pass
-SubmitNpcEx_4539=<s>
+SubmitNpcEx_4539=<s>Sit on the mat to meditate.
 SubmitNpcEx_4545=<s>Talk to Shen Haigao in the Tartar Barracks
 collectinfo_28501=Go to the Snake Valley in the north. Collect snake galls of small snakes.
 collectinfo_28502=Collect stones.
@@ -1521,21 +1501,16 @@ SubmitNpcEx_3007=<s>Submit the task to Zui Qiusheng.
 SubmitNpcEx_3010=<s>Talk to Drunken Qiusheng in the basement back room
 SubmitNpcEx_3011=<s>Talk to Drunken Qiusheng in the Butterfly Room
 SubmitNpcEx_3012=<s>Submit the task to Zui Qiusheng.
-collectinfo_27001=Rush to the place within Tangmen <a href="findnpc,school05,1344,830" style="HLStype1">Peacock Villa</a> (a forbidden area) and find <a href="findnpc_new,clone001,GatherClone001007" style="HLStype1">where Xue Muzi is</a>.
 collectinfo_27260=Find the <a href="findnpc_new,school06,GatherClone009003" style="HLStype1">Small Wood Sword</a> near Lin Sifei's room.
 collectinfo_27383=Investigate the body of the Spy.
 convoyinfo_27006=Follow the Abbot and find Zhu Jitun. Defuse his heart knot.
-hunterinfo_27002=Get in the <a href="findnpc,school05,1344,830" style="HLStype1">Peacock Villa</a>(Forbidden Instance) of Tangmen to kill <a href="findnpc_new,clone001,bossclone001003" style="HLStype1">Nan Batian</a> (Common Mode)
 hunterinfo_27061=Kill Ye Loukai who is in the Ancestral Hall of Twilight Village and save the Village Head's daughter Zhang Liaoliao.
-hunterinfo_27062=Talk to Gramdma Liu to start the instance, and save five villagers who are being hunted by the Bandit Leader Zhou Lifeng. Kill him when he appears.
-hunterinfo_27063=Kill the arsonist at the village gate and get rid of Wei Buji (use the water bucket to get water from the lake and put out the fires; put 5 houses on fire to make Wei Buji appear)
 hunterinfo_27064=Kill Qian Xizhi
 hunterinfo_27260=Have a duel with <a href="findnpc_new,school06,WorldNpc02605" style="HLStype1">Elder Martial Sister Yi Ruoxun</a> and just stop where it should stop.
 hunterinfo_27261=Kill <a href="findnpc_new,school06,NpcClone009034" style="HLStype1">Hu Tuchong</a> who hides in Green Bamboo Sect.
 hunterinfo_27383=Catch <a href="findnpc,school05,1465,-580" style="HLStype1">Qian Bofei</a>.
 hunterinfo_27620=<a href="findnpc_new,city04,FunnpcClone021009" style="HLStype1">Mr Xu</a> ran into the alley(need to fight), talk to <a href="findnpc_new,city04,FunnpcClone021007" style="HLStype1">Xiao Bing</a> and you can decide to give up the investiga
 interactinfo_27068_1=Find the Village Head's daughter Zhang Liaoliao(-72, -36) at the hall of Ancestral Hall.
-interactinfo_27069_2=Give Zhang Liaoliao’s message to Village Head Zhang Yishan (-69,-40)
 interactinfo_27080=Go to the nearby of Sutra Pavilion to find <a href="findnpc_new,school08,WorldNpc00209" style="HLStype1">Qingzhi</a> and ask the situation of Yanmen Pass.
 interactinfo_27261=Please ask <a href="findnpc_new,school06,FunnpcClone009107" style="HLStype1">Aunt who is in the next door</a> to sew the Taoist Frock.
 interactinfo_27262=Give the Taoist Frock which is done to <a href="findnpc_new,school06,FunnpcClone009002" style="HLStype1">Lin Sifei</a>.
@@ -1553,7 +1528,6 @@ okmenu_27264=<font face="Default" color="#ffffff">Thanks to Headmaster's instruc
 okmenu_28501=Forget it. Chieftain Zhu will judge later. Why is that villager crying at the gate?
 quest_menu_27260=Elder Martial Sister, I have prepared well.
 questioninfo_27260=Pass <a href="findnpc_new,school06,WorldNpc02629" style="HLStype1">Mu Dieyi</a>'s test.
-story_27260_1=Since Master Guo Xiang built it, our Emei always takes chivalrousness as our principle. When you leave, you must remain kind. Will you remember?
 story_27260_3=Emei is always your home.
 story_27261_1=The first stop is Zhenyn Platform, where Emei disciples practice.
 story_27261_2=You may already know Zhao Yuchun. Train with her. She will test the limits of your skill.
@@ -1747,7 +1721,6 @@ SubmitNpcEx_2716=Old Man Zhang
 SubmitNpcEx_2717=SubmitNpcEx_2717
 SubmitNpcEx_2718=Hua Sister
 SubmitNpcEx_2720=Aunt Li
-ZZAnswerText_1_6=Dog Beating Staff
 ZZAnswerText_1_7=Wanderer's Valley.
 ZZAnswerText_1_8=Female Hero Guo Xiang
 ZZAnswerText_2_6=Heart Destroying Palm
@@ -1756,13 +1729,8 @@ ZZAnswerText_2_8=Mistress Miejue
 ZZAnswerText_3_6=Thirty-Six Styles of Pressure Points
 ZZAnswerText_3_7=Beggar's Sect
 ZZAnswerText_3_8=Follower Xuankong
-ZZAnswerText_4_6=Dragon Claw
 ZZAnswerText_4_7=Wudang
 ZZAnswerText_4_8=Huang Daopo
-collectinfo_27002_1=Go to the place within Tangmen <a href="findnpc,school05,1344,830" style="HLStype1">Peacock Villa</a> (a forbidden area) and search for <a href="findnpc_new,clone001,GatherNpc01000" style="HLStype1">Adust Golden Silk Clothing</a> (Difficult mode and above).
-collectinfo_27003_2=Go to <a href="findnpc,school05,1344,830" style="HLStype1">Peacock Villa</a>, a Forbidden Instance. Check on the <a href="findnpc_new,clone001,GatherNpc01001" style="HLStype1">Rag</a>. (Normal Mode and above)
-collectinfo_27004_3=Go to <a href="findnpc,school05,1344,830" style="HLStype1">Peacock Villa</a>, a Forbidden Instance. Check the <a href="findnpc_new,clone001,GatherNpc01002" style="HLStype1">Abnormal Armor</a>. (Difficult Mode and above)
-collectinfo_27005_4=Go to the place within Tangmen <a href="findnpc,school05,1344,830" style="HLStype1">Peacock Villa</a> (a forbidden area) and search for <a href="findnpc_new,clone001,GatherNpc01000" style="HLStype1">Qiandu Jade Tablet</a> (Difficult mode and above).
 collectinfo_27142=Collect 10 <a href="findnpc_new,school08,GatherClone005003" style="HLStype1">Bruiseweeds</a>.
 collectinfo_27261=Follow abbess Jueming to Meiyan Tower, through Meiyan Tower Array to get the jade plate in treasure box.
 collectinfo_27321=Investigate the identity of <a href="findnpc,school02,520,254" style="HLStype1">Black Suit Man's (Beggars' Gang 520,254)</a>.
@@ -1775,7 +1743,6 @@ hunterinfo_27016_1=Kill 10 <a href="findnpc_new,school01,monm010304" style="HLSt
 hunterinfo_27017_2=Kill 10 <a href="findnpc_new,school01,monm010303" style="HLStype1">East Chamber Scouts</a>
 hunterinfo_27018=You have defeated <a href="findnpc,school01,827.550,63.580,542.685" style="HLStype1">Zhang Jixu</a>.
 hunterinfo_27142_1=Go to Shaolin Back Hill (Wooden Monk Lane entrace 429,-62) and finish all tests in Wooden Monk Lane.
-hunterinfo_27382=Go to <a href="findnpc,school05,1190,0,-552" style="HLStype1">Thousands Poison Palace</a> and stop Xing Tianzheng from stealing the Peacock Plume Blueprint.
 hunterinfo_27441=Kill the Pirates' Subordinate.
 hunterinfo_27442=Kill the Pirate Expert.
 hunterinfo_27443=Kill the Pirate Leader.
@@ -1833,7 +1800,6 @@ storymenu_27267_2=<font face="Default" color="#ffffff" >You know Sifei's mother?
 storymenu_27267_3=<font face="Default" color="#ffffff" >Where is she? </font>
 submitnpcex_2218=Report to Abbot Xuanhuai in Mahavira Hall in Shaolin Temple.
 submitnpcex_2419=<s>Talk with Abbess Jingxin.
-story_27018_2=<s>I have been sent to sow mistrust and chaos.
 okmenu_28547=<font face="Default" color="#ffffff" >Mistress Fang's plan is not without risk, but it is the only way now. But...</font>
 interactinfo_28547=Talk to<a href="findnpc_new,city01,FunnpcClone004709" style="HLStype1">Fang Pingting</a>.
 story_28506_1=<font face="Default" color="#ffffff" >Young Hero, you are going to Twilight Village?  It has been overtaken by bullies. It is dangerous for you to go there by yourself.  It is better if you improve your abilities to the Minor Achievements level, and then go with other Jianghu people so you can look out for each other!</font>
@@ -1853,4 +1819,38 @@ submitnpcex_2104=Submit the Task to Grandma Liu in Twilight Village.
 hunterinfo_27624=Punish <a href="findnpc_new,city04,FunnpcClone021019" style="HLStype1">Ding Haoyuan</a>
 storyinfo_27624=Make <a href="findnpc_new,city04,FunnpcClone021019" style="HLStype1">Ting Haoyuan</a> give an apology.
 storyinfo_27564=Find <a href="findnpc_new,school04,WorldNpc03942" style="HLStype1">Shan Chong.</a>
+DialogID_27273=<font face="Default" color="#ffffff" >……虽然只有一页，但这确是《夜翼》不假，加上我目前已经持有的残页，这《夜翼》的内容也逐渐显露出眉目了。《夜翼》为凤凰山庄以前数代庄主所作，记录了凤凰山庄的兴衰历史——为了巩固江湖地位而广招各方人士，却也因为鱼龙混杂而为山庄带来了灾难。但是这其中漏掉了很重要的一节，就是这灾难因何而起，又如何能使得凤凰山庄沦落到如今地步？看来老朽还得继续搜寻残卷下落哪。</font>
+DialogID_27274=<font face="Default" color="#ffffff" >……虽然只有一页，但这确是《暗翎》不假，加上我目前已经持有的残页，这《暗翎》的内容也逐渐显露出眉目了。按《暗翎》所述，传说中的暗器凤凰翎为唐门与凤凰山庄合力制作而成，而凤凰山庄最后独享了凤凰翎，导致与唐门翻脸，山庄不得已向外界求助以巩固地位才引起了内部的动乱……</font>
+DialogID_27275=<font face="Default" color="#ffffff" >……虽然只有一页，但这确是《冥凰》不假，加上我目前已经持有的残页，这《冥凰》的内容也逐渐显露出眉目了。在三部书卷之中，《冥凰》所记录的事情最为机密，除了凤凰山庄的武功绝学，书中还提到了凤凰翎的所在！只是具体的那页不知所踪，但是可以确定的是，凤凰翎似乎已不在庄主手中……</font>
+DialogID_27277=<font face="Default" color="#ffffff" >什么！果然你不是老庄主！我早就知道！你是唐门那个该死的老东西派来的奸细是不……滚吧，你们早晚会受到山神诅咒的！……我，我……呼……（望了望四周的绝壁）……你知道么，我可是凤凰山庄的……</font>
+SubmitNpcEx_2019=询问凤凰山庄中的<a href="findnpc_new,clone001,funnpcclone001005" style="HLStype1">百晓生</a>
+SubmitNpcEx_2022=通知凤凰山庄中的<a href="findnpc_new,clone001,funnpcclone001005" style="HLStype1">百晓生</a>
+ZZAnswerText2_104=Eighteen Dragon-subduing Palms
+ZZAnswerText_1_6=Dog Beating Staff
+ZZAnswerText_3_42=Eighteen Dragon-subduing Palms
+collectinfo_27001=Rush to the place within Tangmen <a href="findnpc,school05,1344,830" style="HLStype1">Peacock Villa</a> (a forbidden area) and find <a href="findnpc_new,clone001,GatherClone001007" style="HLStype1">where Xue Muzi is</a>.
+collectinfo_27002_1=Go to the place within Tangmen <a href="findnpc,school05,1344,830" style="HLStype1">Peacock Villa</a> (a forbidden area) and search for <a href="findnpc_new,clone001,GatherNpc01000" style="HLStype1">Adust Golden Silk Clothing</a> (Difficult mode and above).
+collectinfo_27003_2=Go to <a href="findnpc,school05,1344,830" style="HLStype1">Peacock Villa</a>, a Forbidden Instance. Check on the <a href="findnpc_new,clone001,GatherNpc01001" style="HLStype1">Rag</a>. (Normal Mode and above)
+collectinfo_27004_3=Go to <a href="findnpc,school05,1344,830" style="HLStype1">Peacock Villa</a>, a Forbidden Instance. Check the <a href="findnpc_new,clone001,GatherNpc01002" style="HLStype1">Abnormal Armor</a>. (Difficult Mode and above)
+collectinfo_27005_4=Go to the place within Tangmen <a href="findnpc,school05,1344,830" style="HLStype1">Peacock Villa</a> (a forbidden area) and search for <a href="findnpc_new,clone001,GatherNpc01000" style="HLStype1">Qiandu Jade Tablet</a> (Difficult mode and above).
+collectinfo_27011=The drawing of Peacock Feather
+hunterinfo_27002=Get in the <a href="findnpc,school05,1344,830" style="HLStype1">Peacock Villa</a>(Forbidden Instance) of Tangmen to kill <a href="findnpc_new,clone001,bossclone001003" style="HLStype1">Nan Batian</a> (Common Mode)
+hunterinfo_27062=Talk to Gramdma Liu to start the instance, and save five villagers who are being hunted by the Bandit Leader Zhou Lifeng. Kill him when he appears.
+hunterinfo_27063=Kill the arsonist at the village gate and get rid of Wei Buji (use the water bucket to get water from the lake and put out the fires; put 5 houses on fire to make Wei Buji appear)
+hunterinfo_27382=Go to <a href="findnpc,school05,1190,0,-552" style="HLStype1">Thousands Poison Palace</a> and stop Xing Tianzheng from stealing the Peacock Plume Blueprint.
+interactinfo_27007_1=Tell Sima Huifeng on the second floor to leave now.
+interactinfo_27069_2=Give Zhang Liaoliao’s message to Village Head Zhang Yishan (-69,-40)
+okmenu_27273=<font face="Default" color="#ffffff" >So that is what it is. Unexpectedly, Peacock Villa became declined from the inner.</font>
+okmenu_27274=<font face="Default" color="#ffffff">The Peacock Plume is good for reputation, but it causes trouble.</font>
+okmenu_27275=<font face="Default" color="#ffffff" >The Peacock Plume has been lost. Peacock Villa will be ridiculed.</font>
+story_27018_2=<s>I have been sent to sow mistrust and chaos.
+story_27029_1=Because of my old age and weak body, old Headmaster called the Leader of Peacock Villa to come before he died. He told it to the Lord. Then he died with a laugh. I can still remember his laugh till today.
+story_27029_2=The leader of Peacock Villa didn't mention the secret weapon that day, but he regrets the death of the headmaster. It seems suspicious...
+story_27260_1=Since Master Guo Xiang built it, our Emei always takes chivalrousness as our principle. When you leave, you must remain kind. Will you remember?
+story_27381-4=<s>I love to study secret weapons. Accidentally, I found Tianji Sting is similar to Tangmen's Storm Pear Flower Needle in structure. Then me and Headmaster went to Tianji Hall to argue with them. But they were not friendly then we fought against them. Headmaster was attacked by Xing Tianming with Tianji Sting, then he died. Grandma was angry, then she ordered all the people of the Tang Family Castle to eradicate Tianji Hall in one night.
+storymenu_27029_2=I see, the Leader of Peacock Villa is too shameless.
+storymenu_27380_1=The Peacock Plume is hidden in the Thousands Poison Palace. There are many guards, poisonous animals, traps, and hidden traps guarding the palace.
+submitnpcex_2106=<s>Submit the Task to Village Head Zhang Yishan in Twilight Village.
+ZZAnswerText3_104=Dragon Claw
+ZZAnswerText_4_6=Dragon Claw
 

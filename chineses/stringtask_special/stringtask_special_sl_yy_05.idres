@@ -7,18 +7,18 @@ DialogID_33844=他受伤了？这个是解药，你拿去给他敷用吧。
 DialogID_33845=多谢你，他们再也不敢嚣张了。
 DialogID_33846=快去吧，一路小心。
 DialogID_33847=你刺杀了天外天掌门，真是功德无量呢。
-DialogID_33848=药拿来了么？
+DialogID_33848=Do you have the cold remedy?
 DialogID_33849=你怎么没有把狂心者的心带回来呀？
 DialogID_33850=你能帮我把药给游磊么？
 DialogID_33851=多谢你了，我感觉好多了。
 DialogID_33852=大侠需要小心，一定要把他们救出来。
 DialogID_33853=你快去回复封千吧，后会有期。
 DialogID_33854=逃出这里还需要天外天的令牌，你能去帮我收集一些吗？
-ZZAnswerText1_3405=桃花
-ZZAnswerText1_3406=如花
-ZZAnswerText2_3405=梅花
-ZZAnswerText2_3406=左丘颖莹
-ZZAnswerText3_3405=桂花
+ZZAnswerText1_3405=Peach Blossom
+ZZAnswerText1_3406=Flower
+ZZAnswerText2_3405=Plum Blossom
+ZZAnswerText2_3406=Zuoqiu Yingyin
+ZZAnswerText3_3405=Sweet-Scented Osmanthus
 collectinfo_33840=从<a href="findnpc_new,born03,monv034202" style="HLStype1">天牢牢头</a>处获得通行证
 collectinfo_33841=从<a href="findnpc_new,born03,monv034102" style="HLStype1">天外天施毒者</a>处获得解药
 collectinfo_33842=从<a href="findnpc_new,born03,monv034101" style="HLStype1">天外天防御者</a>身上收集解药
@@ -66,19 +66,19 @@ maintext_3405=这里什么花最多？
 maintext_3406=天外天谁最漂亮？
 okmenu_33840=嗯，快跟我走，你老婆还在外面等我们的消息呢！
 okmenu_33841=不用害怕
-okmenu_33842=嗯，没问题。
+okmenu_33842=Ok, no problem.
 okmenu_33843=别客气。
-okmenu_33844=好的。
+okmenu_33844=Ok.
 okmenu_33845=呵呵，客气了。
-okmenu_33846=好。
+okmenu_33846=OK.
 okmenu_33847=举手之劳而已。
 okmenu_33848=拿来了，马上就给你服用。
 okmenu_33849=啊！我把这事给忘记了，那我再去一趟吧！
 okmenu_33850=可以。
 okmenu_33851=这样就好了。
 okmenu_33852=嗯，我一定尽力。
-okmenu_33853=好的。
-okmenu_33854=好的，我这就去。
+okmenu_33853=Ok.
+okmenu_33854=Ok, I'm going now.
 quest_menu_33840=什么问题？
 quest_menu_33841=还有什么问题？
 questioninfo_33840=回答<a href="findnpc_new,born03,WorldNpc00728" style="HLStype1">朱壮宁</a>的问题
@@ -87,7 +87,7 @@ story_33840_1=我……我怕！
 story_33840_2=我怕被他们发现啊，我又不会武功……
 story_33841_1=这里的恶霸经常欺压我们，弄的我们衣不裹腹，病无药医！
 story_33841_2=希望大侠你能帮我们教训下他们！他们身上还有很多药品，希望你能帮我们夺回来。
-story_menu_33840=我们走吧
+story_menu_33840=Please follow me.
 story_menu_33841=讲吧！
 storyinfo_33840=听<a href="findnpc_new,born03,WorldNpc00716" style="HLStype1">边承平</a>诉说
 storyinfo_33841=听<a href="findnpc_new,born03,WorldNpc00719" style="HLStype1">龙韦</a>诉说
@@ -95,7 +95,7 @@ storymenu_33840_1=你怕什么？
 storymenu_33840_2=别怕，我去帮你杀死他们的。
 storymenu_33841=这里的恶霸专门欺压我们
 storymenu_33841_1=我能为你们做些什么呢？
-storymenu_33841_2=好的，我这就去。
+storymenu_33841_2=Ok, I'm going now.
 useiteminfo_33840=
 useiteminfo_33841=对<a href="findnpc_new,born03,WorldNpc00718" style="HLStype1">关行</a>使用<a href="TASK_ITEM,useitem_41m" style="HLStype1">毒心针的解药</a>
 useiteminfo_33842=对<a href="findnpc_new,born03,WorldNpc00721" style="HLStype1">张三</a>使用<a href="TASK_ITEM,useitem_42m" style="HLStype1">小药丸</a>

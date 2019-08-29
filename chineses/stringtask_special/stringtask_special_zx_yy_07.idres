@@ -1,4 +1,6 @@
 ﻿
+hunterinfo_3259=击败<a href="findnpc_new,born02,monrv024200" style="HLStype1">星宿派弟子</a>
+story_3257_2=是星宿派！他们听说这附近出现了一只火毒物，就想活捉。我们是帮他们守在这的，一是不让别人靠近坏事，二是万一火毒物窜出来，我们也好帮忙捉住。于是，我们就打劫了。这全是星宿派指使的呀，不然我们弟兄就小命不保了呀大侠！
 "collectinfo_3251=捉住窜出的<a href=""findnpc_new"
 "collectinfo_3252=采集<a href=""findnpc_new"
 "collectinfo_3253=采集<a href=""findnpc_new"
@@ -68,8 +70,7 @@ hunterinfo_3255=击败<a href="findnpc_new,born02,WorldNpc09409" style="HLStype1
 hunterinfo_3256=击败<a href="findnpc_new,born02,WorldNpc09304" style="HLStype1">欧阳子</a>
 hunterinfo_3257=击败<a href="findnpc_new,born02,WorldNpc09410" style="HLStype1">陆遇</a>
 hunterinfo_3258=击败<a href="findnpc_new,born02,monrv024100" style="HLStype1">强盗</a>
-hunterinfo_3259=击败<a href="findnpc_new,born02,monrv024200" style="HLStype1">星宿派弟子</a>
-interactinfo_3251=与<a href="findnpc_new,born02,WorldNpc09404" style="HLStype1">邵扬</a>交谈
+interactinfo_3251=Talk to <a href="findnpc_new,born02,WorldNpc09404" style="HLStype1">Shao Yang</a>
 interactinfo_3252=给<a href="findnpc_new,born02,Gather00032j" style="HLStype1">野味烧烤</a>添点火
 interactinfo_3253=<a href="findnpc_new,born02,EventNpc22496" style="HLStype1">继续往前</a>
 interactinfo_3254=与<a href="findnpc_new,born02,WorldNpc09409" style="HLStype1">无为道长</a>交谈
@@ -77,7 +78,7 @@ interactinfo_3255=<a href="findnpc_new,born02,EventNpc22505" style="HLStype1">�
 interactinfo_3256=与<a href="findnpc_new,born02,WorldNpc09304" style="HLStype1">欧阳子</a>交谈
 interactinfo_3257=与<a href="findnpc_new,born02,WorldNpc09304" style="HLStype1">欧阳子</a>交谈
 interactinfo_3258=与<a href="findnpc_new,born02,WorldNpc09410" style="HLStype1">陆遇</a>交谈
-interactinfo_3259=与<a href="findnpc_new,born02,WorldNpc09404" style="HLStype1">邵扬</a>交谈
+interactinfo_3259=Talk to <a href="findnpc_new,born02,WorldNpc09404" style="HLStype1">Shao Yang</a>
 interactinfo_3260=<a href="findnpc_new,born02,EventNpc22518" style="HLStype1">下山</a>
 interactinfo_3261=<a href="findnpc_new,born02,EventNpc22520" style="HLStype1">向前</a>
 interactinfo_3262=到毒物<a href="findnpc_new,born02,Gather00035j" style="HLStype1">出没之处</a>放火
@@ -88,7 +89,7 @@ okmenu_3254=前辈承让了，在下只是侥幸赢得半招……
 okmenu_3256=阁下息怒，我只是相询一下的
 okmenu_3257=刚才得罪了，那我这就去找那江湖人问问
 okmenu_3258=你早交出来不没事了
-okmenu_3259=我这就去找他
+okmenu_3259=I'll go look for him now.
 story_3251_1=我正想听一下你此前的遭遇，你不妨慢慢道来吧。
 story_3251_2=原来如此，老夫与沐云庄庄主本是故交，既然庄贤侄让小友你来找亦安，那我昆仑自当好生招待，不周之处，还请包涵。
 story_3252_1=你……当真不认识自己是谁了？那你也不认得我了？
@@ -102,7 +103,6 @@ story_3255_2=据弟子所述，他当时迷迷糊糊说了是被一野和尚打�
 story_3256_1=山下附近传闻出现了一火毒物，不知你可曾听说？
 story_3256_2=如果当真有此物，那破解冰蚕之毒就不难了。因此此火毒物与冰蚕相克，必是由于冰蚕之故才来到此地，若能取到其内胆给中冰蚕毒之人服下，加以疗养必能解除其毒。
 story_3257_1=抢劫……哦，不不不，我们是被别人指使的呀，你就放过我吧，大侠！
-story_3257_2=是星宿派！他们听说这附近出现了一只火毒物，就想活捉。我们是帮他们守在这的，一是不让别人靠近坏事，二是万一火毒物窜出来，我们也好帮忙捉住。于是，我们就打劫了。这全是星宿派指使的呀，不然我们弟兄就小命不保了呀大侠！
 story_menu_3251=掌门请听我说
 story_menu_3252=我……已经记不得以前的事了……
 story_menu_3253=曹大哥请说
@@ -110,11 +110,11 @@ story_menu_3254=以前的事我已经不记得了
 story_menu_3255=还请掌门告知，看我能不能帮上点忙。
 story_menu_3256=请前辈告知
 story_menu_3257=说！
-storyinfo_3251=听<a href="findnpc_new,born02,WorldNpc09401" style="HLStype1">云阳子</a>诉说
-storyinfo_3252=听<a href="findnpc_new,born02,WorldNpc09407" style="HLStype1">曹亦安</a>诉说
-storyinfo_3253=听<a href="findnpc_new,born02,WorldNpc09407" style="HLStype1">曹亦安</a>诉说
+storyinfo_3251=Speak with <a href="findnpc_new,born02,WorldNpc09401" style="HLStype1">Yun Yangzi</a>.
+storyinfo_3252=Listen to <a href="findnpc_new,born02,WorldNpc09407" style="HLStype1">Cao Yi'an</a>
+storyinfo_3253=Listen to <a href="findnpc_new,born02,WorldNpc09407" style="HLStype1">Cao Yi'an</a>
 storyinfo_3254=听<a href="findnpc_new,born02,WorldNpc09408" style="HLStype1">大别散人</a>诉说
-storyinfo_3255=听<a href="findnpc_new,born02,WorldNpc09401" style="HLStype1">云阳子</a>诉说
+storyinfo_3255=Speak with <a href="findnpc_new,born02,WorldNpc09401" style="HLStype1">Yun Yangzi</a>.
 storyinfo_3256=听<a href="findnpc_new,born02,WorldNpc09402" style="HLStype1">孤尘子</a>诉说
 storyinfo_3257=听<a href="findnpc_new,born02,WorldNpc09412" style="HLStype1">何彪</a>诉说
 storymenu_3251_1=是，此前由于晚辈在沐云庄和两位义兄戳穿密宗阴谋，担心密宗的大举报复，受庄小姐之托前来昆仑派找曹亦安
@@ -126,11 +126,11 @@ storymenu_3253_2=既然这样，我等下就去找他
 storymenu_3254_1=前辈，我，我真的记不得以前的事了，若前辈能告知一二，在下感激不尽
 storymenu_3254_2=说来惭愧，我的武功都是失忆之后学的，还想请前辈多多指教
 storymenu_3255_1=原来邵扬的玉佩是被他拿了……那他又怎么中毒了？
-storymenu_3255_2=原来如此
+storymenu_3255_2=I see.
 storymenu_3256_1=这个晚辈倒还未曾听说
-storymenu_3256_2=原来如此
+storymenu_3256_2=I see.
 storymenu_3257_1=被谁指使！
-storymenu_3257_2=原来是这样
+storymenu_3257_2=So it is.
 useiteminfo_3251=给<a href="findnpc_new,born02,EventNpc22489" style="HLStype1">野味烧烤</a>撒上一些<a href="TASK_ITEM,useitem_36j" style="HLStype1">特制的调料</a>
 useiteminfo_3252=使用<a href="TASK_ITEM,useitem_37j" style="HLStype1">旭日丸</a>
 useiteminfo_3253=使用<a href="TASK_ITEM,useitem_38j" style="HLStype1">草药水</a>

@@ -1,4 +1,6 @@
 ﻿
+interactinfo_13323=用<a href="findnpc_new,scene09,EventNpc26624" style="HLStype1">暴雨梨花针</a>屠灭整个营寨
+useiteminfo_13304=用<a href="TASK_ITEM,useitem_65y" style="HLStype1">暴雨梨花针</a>灭了整个营寨
 DialogID_13301=<s>咳咳咳，这次麻烦你了。
 DialogID_13302=
 DialogID_13304=<s>家里也没什么人了，剩下点粮食还被官兵征走了，我还怎么活啊，喔喔.....
@@ -29,7 +31,7 @@ collectinfo_13303=采集草药<a href="findnpc_new,scene09,Gather70061y" style="
 convoy_talk_26621_1=　　看我这里兵强马壮
 convoyinfo_13301=跟着查理台去查看{@targetpos}{@istendname:女子尸体@}、
 hunterinfo_13301=击败拦截的<a href="findnpc_new,city01,monrc025045" style="HLStype1">东方世家弟子</a>
-hunterinfo_13302=击败<a href="findnpc_new,city01,WorldNpc09081" style="HLStype1">东方城</a>
+hunterinfo_13302=Defeat <a href="findnpc_new,city01,WorldNpc09081" style="HLStype1">Dongfang Cheng</a>
 hunterinfo_13303=击败阻止进入的<a href="findnpc_new,city01,monrc025047" style="HLStype1">大营护卫</a>
 hunterinfo_13304=打败对自己动手的<a href="findnpc_new,scene09,monrf092800" style="HLStype1">守关士兵</a>
 hunterinfo_13305=杀掉拦路的<a href="findnpc_new,scene09,monrf092900" style="HLStype1">鞑子兵</a>
@@ -44,8 +46,8 @@ interactinfo_13301=问问<a href="findnpc_new,city01,WorldNpc08627" style="HLSty
 interactinfo_13302=返回<a href="findnpc_new,city01,EventNpc26580" style="HLStype1">东方世家</a>
 interactinfo_13303=往<a href="findnpc_new,city01,EventNpc26584" style="HLStype1">北方</a>溜走
 interactinfo_13304=询问<a href="findnpc_new,city01,WorldNpc08629" style="HLStype1">祥云嫂</a>为何在此哭啼
-interactinfo_13305=与<a href="findnpc_new,city01,WorldNpc09081" style="HLStype1">东方城</a>交谈
-interactinfo_13306=与<a href="findnpc_new,city01,WorldNpc09081" style="HLStype1">东方城</a>交谈
+interactinfo_13305=Talk with <a href="findnpc_new,city01,WorldNpc09081" style="HLStype1">Dongfang Cheng</a>
+interactinfo_13306=Talk with <a href="findnpc_new,city01,WorldNpc09081" style="HLStype1">Dongfang Cheng</a>
 interactinfo_13307=向猎场军官<a href="findnpc_new,city01,WorldNpc09014" style="HLStype1">宇文守</a>打听消息
 interactinfo_13308=前往<a href="findnpc_new,scene09,EventNpc26589" style="HLStype1">西宁镇</a>
 interactinfo_13309=去找<a href="findnpc_new,scene09,EventNpc26590" style="HLStype1">守将</a>说说情
@@ -62,7 +64,6 @@ interactinfo_13319=返回<a href="findnpc_new,scene09,EventNpc26615" style="HLSt
 interactinfo_13320=报买来的草药交给<a href="findnpc_new,scene09,WorldNpc07273" style="HLStype1">王堃</a>
 interactinfo_13321=去向<a href="findnpc_new,scene09,WorldNpc07277" style="HLStype1">查理台</a>打听东方芷的消息
 interactinfo_13322=查看<a href="findnpc_new,scene09,WorldNpc07279" style="HLStype1">女子尸体</a>
-interactinfo_13323=用<a href="findnpc_new,scene09,EventNpc26624" style="HLStype1">暴雨梨花针</a>屠灭整个营寨
 okmenu_13301=这可是我千里迢迢你给弄来的绝情丹，试试看你的情花毒还有的救没
 okmenu_13302=
 okmenu_13304=小事，我帮你夺回来就是了。
@@ -114,5 +115,4 @@ storymenu_13305_2=明王......美女......钱......
 useiteminfo_13301=给<a href="findnpc_new,city01,WorldNpc08627" style="HLStype1">东方芷</a>服下<a href="TASK_ITEM,useitem_62y" style="HLStype1">绝情丹</a>
 useiteminfo_13302=用<a href="TASK_ITEM,useitem_63y" style="HLStype1">金疮药</a>帮<a href="findnpc_new,scene09,WorldNpc07274" style="HLStype1">刘兵</a>疗伤
 useiteminfo_13303=用<a href="TASK_ITEM,useitem_64y" style="HLStype1">气血丹</a>给<a href="findnpc_new,scene09,WorldNpc07273" style="HLStype1">王堃</a>疗伤
-useiteminfo_13304=用<a href="TASK_ITEM,useitem_65y" style="HLStype1">暴雨梨花针</a>灭了整个营寨
 

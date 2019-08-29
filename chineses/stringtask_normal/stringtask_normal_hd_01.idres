@@ -1122,15 +1122,12 @@ title_43887=Tier 5 Internal Skills are free for a limited time. Get ready for Ti
 title_43888=Tier 5 Internal Skills are free for a limited time. Get ready for Tier 6!
 title_43889=Tier 5 Internal Skills are free for a limited time. Get ready for Tier 6!
 title_43890=Dragon Boat Festival is here again
-CanAcceptMenu_43897=<font face="Default" color="#ffffff" >Release the Sky Lantern to realize your destiny.</font>
 CanAcceptMenu_43898=<font face="Default" color="#ffffff" >Student Gift Box</font>
 CompleteMenu_43897=<font face="Default" color="#ffffff" >Complete task</font>
 CompleteMenu_43898=<font face="Default" color="#ffffff" >Get the Gift Box</font>
-accept_43897_1=<font face="Default" color="#ffffff" >Know feelings without even saying. Express love together. On </font><font face="Default" color="#ffffff" >Valentine’s Day</font><font face="Default" color="#ffffff" >, all single people can release a paper lantern in hopes of finding a match. Go release your lantern. </font>
 complete_43897=<font face="Default" color="#ffffff" >Convey the yearnings of your heart in a sky lantern, and send it to the sky. Soon you will find your true love!</font>
 complete_43898=This is a Student Gift Box. Hope you achieve academic excellence. </font>
 complete_43987=<font face="Default" color="#ffffff">Take it. This is your deserved reward.</font>
-context_43897=Know feelings without even saying. Express love together. On Valentine’s Day, all single people can release a paper lantern in hopes of finding a match. Go let off the sky lanterns. Find your Marriage.
 context_43898=Student Gift Box for millions of students.
 menu_43897_1=<font face="Default" color="#ffffff" >You can leave it to me.</font>
 menu_43898_1=<font face="Default" color="#ffffff" >I will embark on the path of diligence, and one day, my wish will come true.</font>
@@ -1200,7 +1197,6 @@ title_43893=Fourth Anniversiary gift box (Peak of Power)
 title_43894=Fourth Anniversiary gift box (Infallible Wushu Master)
 title_43895=Fourth Anniversiary gift box (Astound the World)
 title_43896=Fourth Anniversiary gift box (Eternally Unequaled)
-title_43897=Release the Sky Lantern to realize your destiny.
 title_43898="Student Gift Box" giveaway
 CanAcceptMenu_43899=<font face="Default" color="#ffffff" >Gifts for the Double Festivals</font>
 CompleteMenu_43899=<font face="Default" color="#ffffff" >Gifts for the Double Festivals</font>
@@ -1213,9 +1209,6 @@ submit_43899=<font face="Default" color="#ffffff" >Thank you for the gifts.</fon
 target_43899=Talk to Lin Liang again to receive Double Festivals Celebration Gift Pack.
 title_43899=Gifts for the Double Festivals
 accept_43898_1=<font face="Default" color="#ffffff" >Study hard, and aim high!</font>
-context_43900=It’s about time for the Laba Festival again, and everyone gets a Luxurious Laba Festival Gift Pack. Please get it from me. Limited to 1 per person.
-target_43900=Claim Laba Festival Luxurious Gift Pack
-title_43900=Laba Festival Luxurious Gift Pack
 CanAcceptMenu_43999=<font face="Default" color="#ffffff" >May Scholar Tree Flower Fragrance</font>
 CompleteMenu_43999=<font face="Default" color="#ffffff" >Receive the Sachet</font>
 accept_43999_1=<font face="Default" color="#ffffff" >It's the flower season of the Scholar Trees. Go collect some Scholar Tree Petals. I'll use them to make a special sachet for you. </font>
@@ -1224,25 +1217,22 @@ context_43999=It's the flower season of the Scholar Trees. Go collect some Schol
 menu_43999_1=<font face="Default" color="#ffffff" >All right.</font>
 submit_43999=<font face="Default" color="#ffffff" >Thank you. </font>
 target_43999=Collect some Scholar Tree Petals for Flower Lady
+context_43900=It’s about time for the Laba Festival again, and everyone gets a Luxurious Laba Festival Gift Pack. Please get it from me. Limited to 1 per person.
+target_43900=Claim Laba Festival Luxurious Gift Pack
+title_43900=Laba Festival Luxurious Gift Pack
 title_43999=May Scholar Tree Flower Fragrance
 CanAcceptMenu_43934=<font face="Default" color="#ffffff" >[</font><font face="Default" color="#ffffff" >Storm Riders All Players Reward</font><font face="Default" color="#ffffff" >]</font>
 CompleteMenu_43934=<font face="Default" color="#ffffff" >[Storm Riders All Players Reward]</font>
 accept_43934_1=<font face="Default" color="#ffffff" >Welcome the new version Storm Riders, all the players can get a piece of reward.</font>
 complete_43934=<font face="Default" color="#ffffff" >Take it, young hero.</font>
-CanAcceptMenu_43935=<font face="Default" color="#ffffff" >[5th Anniversary All Players Reward]</font>
-accept_43935_1=<font face="Default" color="#ffffff" >Welcome the 5th anniversary of open beta, all the players can get a piece of reward.</font>
-title_43843=Cultivate Often (Toxic King)
-CanAcceptMenu_43843=<font face="Default" color="#ffffff" >Cultivate Often (Toxic King)</font>
-CompleteMenu_43843=<font face="Default" color="#ffffff" >Submit Cultivate Often (Toxic King)</font>
-accept_43843_1=<font face="Default" color="#ffffff" > Are you in the Daily Cultivation? (Toxic King)</font>
-context_43843=You may accept the task of Cultivate Often (Toxic King) from Lin Liang. Complete the task and get a bonus prize.
-target_43843=Complete Cultivate Often (Toxic King)
 context_43934=Storm Riders All Players Gift
 menu_43934_1=<font face="Default" color="#ffffff" >All right.</font>
 submit_43934=<font face="Default" color="#ffffff" >All right.</font>
 target_43934=Storm Riders All Players Gift
 title_43934=Storm Riders All Players Gift
+CanAcceptMenu_43935=<font face="Default" color="#ffffff" >[5th Anniversary All Players Reward]</font>
 CompleteMenu_43935=<font face="Default" color="#ffffff" >[5th Anniversary All Players Reward]</font>
+accept_43935_1=<font face="Default" color="#ffffff" >Welcome the 5th anniversary of open beta, all the players can get a piece of reward.</font>
 complete_43935=<font face="Default" color="#ffffff" >Take it, young hero.</font>
 context_43935=5th Anniversary All Players Reward
 menu_43935_1=<font face="Default" color="#ffffff" >All right.</font>
@@ -1250,4 +1240,14 @@ next_43935=5th Anniversary All Players Reward
 submit_43935=<font face="Default" color="#ffffff" >All right.</font>
 target_43935=5th Anniversary All Players Reward
 title_43935=5th Anniversary All Players Reward
+CanAcceptMenu_43897=<font face="Default" color="#ffffff" >Release the Sky Lantern to realize your destiny.</font>
+accept_43897_1=<font face="Default" color="#ffffff" >Know feelings without even saying. Express love together. On </font><font face="Default" color="#ffffff" >Valentine’s Day</font><font face="Default" color="#ffffff" >, all single people can release a paper lantern in hopes of finding a match. Go release your lantern. </font>
+context_43897=Know feelings without even saying. Express love together. On Valentine’s Day, all single people can release a paper lantern in hopes of finding a match. Go let off the sky lanterns. Find your Marriage.
+title_43843=Cultivate Often (Toxic King)
+CanAcceptMenu_43843=<font face="Default" color="#ffffff" >Cultivate Often (Toxic King)</font>
+CompleteMenu_43843=<font face="Default" color="#ffffff" >Submit Cultivate Often (Toxic King)</font>
+accept_43843_1=<font face="Default" color="#ffffff" > Are you in the Daily Cultivation? (Toxic King)</font>
+context_43843=You may accept the task of Cultivate Often (Toxic King) from Lin Liang. Complete the task and get a bonus prize.
+target_43843=Complete Cultivate Often (Toxic King)
+title_43897=Release the Sky Lantern to realize your destiny.
 

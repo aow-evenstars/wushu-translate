@@ -3,7 +3,6 @@ DialogID_58301=<font face="Default" color="#ffffff">   {@IDName:Player}, you are
 DialogID_58302=<font face="Default" color="#ffffff">The letter said the leader agreed to assist Xu Village in dealing with the Royal Guards. </font><font face="Default" color="#ffffff">Go to Xu Village and investigate.</font>
 DialogID_58303=<font face="Default" color="#ffffff">   {@IDName:Player}, you are here. Help Han Sijin to deal with Zhao Ziji. If you succeed in fulfilling the task, you can get handsome rewards. You'd better be careful. </font><font face="Default" color="#ffffff">You can ask your friends to help you.</font>
 DialogID_58304=<font face="Default" color="#ffffff">   </font><font face="Default" color="#ffffff">Royal Guards were framed. Please go to Chengdu and find out the truth, then clarify the matter at the Golden Needle Sect.</font>
-DialogID_58305=<font face="Default" color="#ffffff">Royal Guards were framed. Please go to Chengdu and find out the truth, then clarify the matter with the Huanhua Sword Sect.</font><font face="Default" color="#ffffff"></font><font face="Default" color="#ffffff"></font>
 DialogID_58306=<font face="Default" color="#ffffff">   {@IDName:Player}，</font><font face="Default" color="#ffffff">Our</font><font face="Default" color="#ffffff"> Royal Guards have subtle relations with the government. Some officials still come here to visit us from time to time. </font><font face="Default" color="#ffffff">We need to</font><font face="Default" color="#ffffff"> receive them with courtesy and safeguard them. I hope you can escort the official who prepares to leave to the official Stagecoach.</font>
 QiecuoMenu_58304=<font face="Default" color="#ffffff">I'm ready!</font>
 QiecuoTitle_58304=<font face="Default" color="#ffffff">   </font><font face="Default" color="#ffffff">Look carefully. Take my movements!</font>
@@ -66,8 +65,6 @@ specialinfo_109=Finish challenging the force of Xu Village.
 specialinfo_184=Accomplish the challenge towards Golden Needle Sect.
 specialinfo_185=Complete the challenge at Golden Needle Sect. (You need to complete the challenge three times.)
 specialinfo_186=Complete the challenge at Golden Needle Sect. (You need to complete the challenge three times.)
-specialinfo_189=Complete challenging the Huanhua Sword Sect.
-specialinfo_190=Complete the challenge at Huanhua Sword Sect. (You need to complete the challenge twice.)
 specialinfo_191=Recapture the spy's information and fulfill the Sect Patrolling Task.
 specialinfo_192=Fulfill the Sect Patrolling Task. (You need to complete the task three times.)
 specialinfo_193=Fulfill the Sect Patrolling Task. (You need to complete the task three times.)
@@ -75,7 +72,6 @@ specialinfo_195=Await an opportunity and rescue the hostage.
 specialinfo_196=Go to Shaolin Temple and get the information to fulfill the Sect Spying Task.
 specialinfo_197=Fulfill the Sect Spying Task. (You need to complete the task three times.)
 specialinfo_198=Fulfill the Sect Spying Task. (You need to complete the task three times.)
-specialinfo_333=Finish Challenging the Force of Mount Song Sword Sect.
 useiteminfo_58301=Use the <a href="TASK_ITEM,useitemyxc_002" style="HLStype1">Broom</a> to clean the <a href="findnpc_new,school01,EventNpc86819_1" style="HLStype1">Branch Hall</a>.
 useiteminfo_58302=Use the <a href="TASK_ITEM,useitemyxc_002" style="HLStype1">Broom</a> to clean the <a href="findnpc_new,school01,EventNpc86819_2" style="HLStype1">Agenda Room</a>.
 useiteminfo_58303=Use the <a href="TASK_ITEM,useitemyxc_002" style="HLStype1">Broom</a> to clean the <a href="findnpc_new,school01,EventNpc86819_3" style="HLStype1">Training Place</a>.
@@ -84,7 +80,6 @@ DialogID_58310=<font face="Default" color="#ffffff" > Your kung fu is good</font
 SubmitNpcEx_86821=<s>Reply to<a href="findnpc_new,school01,worldnpc04101" style="HLStype1">Huangfu Yao</a>, the mission is completed
 SubmitNpcEx_86822=<s>Mission completed. Report to<a href="findnpc_new,school01,worldnpc04101" style="HLStype1">Huangfu Yao</a>
 SubmitNpcEx_86823=Mission completed. Go back to the Royal Guards and report to<a href="findnpc_new,school01,worldnpc04101" style="HLStype1">Huangfu Yao</a>
-hunterinfo_58307=Deal with the <a href="findnpc_new,city05,monrm013907" style="HLStype1">Huanhua Sword Sect disciple</a>
 hunterinfo_58308=Defeat<a href="findnpc_new,city02,monrm013908" style="HLStype1">hatched man of the Han's</a>
 hunterinfo_58309=Go to Twilight Village Forbidden Instance, and defeat Zhao Ziji
 hunterinfo_58310=Go to <a href="findnpc_new,city04,monrm013909" style="HLStype1">the second floor of the Study</a> to investigate. The murderer may return again. Be careful!
@@ -93,8 +88,6 @@ interactinfo_58310=Talk with <a href="findnpc_new,city02,smtzjy003" style="HLSty
 okmenu_58309=<font face="Default" color="#ffffff" >Show me what you are capable of.</font>
 okmenu_58310=<font face="Default" color="#ffffff" >See you.</font>
 specialinfo_588=Complete the test of Green Cloud Castle Forbidden Instance
-story_58302_1=<font face="Default" color="#ffffff" > You've arrived; excellent! These disciples of the Huanhua Sword Sect </font><font face="Default" color="#ffffff" >claim</font> <font face="Default" color="#ffffff" >to be decent but they are proving very unreasonable...</font>
-story_58302_2=<font face="Default" color="#ffffff" >Huanhua Sword Sect are claiming that we attacked them because they found a Royal Guard token at the scene but I think we have been framed.  </font><font face="Default" color="#ffffff" ></font><font face="Default" color="#ffffff" >Go to the Huanhua Sword Sect and investigate.</font>
 story_58303_1=<font face="Default" color="#ffffff" >Sheriff Qian Xizhi has been plundering money from the commoners of Twilight Village. We're short on supplies, we need to do something...</font><font face="Default" color="#ffffff" ></font><font face="Default" color="#ffffff" ></font><font face="Default" color="#ffffff" ></font><font face="Default" color="#ffffff" ></font>
 story_58303_2=<font face="Default" color="#ffffff" > </font><font face="Default" color="#ffffff" >That guy who is eating without any intention of paying for the food is Han Wanshi, Han sijin's cousin. You go and talk with him.</font>
 story_58304_1=<font face="Default" color="#ffffff" > Finally</font><font face="Default" color="#ffffff" >you</font><font face="Default" color="#ffffff" >came. It's been</font><font face="Default" color="#ffffff" >rough...</font>
@@ -138,18 +131,25 @@ specialinfo_420=Complete faction challenge against Baodu Stronghold (one success
 specialinfo_421=Complete faction challenge against Heaven Treasure Stronghold (one successful Factions Challenge)
 specialinfo_422=Pass Twilight Village (Difficulty Level: ordinary)
 specialinfo_423=Complete faction challenge against Tiger Roaring Villa (one successful Factions Challenge)
-specialinfo_424=Complete faction challenge against Huanhua Sword Sect (one successful Factions Challenge)
-specialinfo_425=Complete faction challenge against Mount Song Sword Sect (one successful Factions Challenge)
 specialinfo_426=Pass Twilight Village (Difficulty Level: hard)
 specialinfo_427=Pass Green Cloud Castle (Difficulty Level: ordinary)
-specialinfo_428=Complete faction challenge against Huanhua Sword Sect (Pass within 5 minutes)
-specialinfo_429=Pass Peacock Villa (Difficulty Level: random)
-specialinfo_430=Complete faction challenge against Xingxiu Sect (Pass within 5 minutes)
 specialinfo_431=Pass Green Cloud Castle (Difficulty Level: hard)
 specialinfo_432=Pass Twilight Village (Pass difficult Twilight Village within one hour)
-specialinfo_587=Challenge the Huanhua Sword Sect
 story_58307_1=<font face="Default" color="#ffffff" >Hello, young hero. You can sign in here. There are many elder brothers in our school who have reached Level 36 in their internal skills. You can seek one of them as a teacher to increase your abilities in that area and get the corresponding rewards. Also, when you reach Level 30 of the School Internal Skills, then you can come here and become a master so you can get rich Master Career Rewards. </font>
 story_menu_58307=<font face="Default" color="#ffffff" >Brother referral</font>
 storyinfo_58307=Go to <a href="findnpc_new,school01,wd173" style="HLStype1">the school's master guide</a> area.
 storymenu_58307_1=<font face="Default" color="#ffffff" >I know.</font>
+DialogID_58305=<font face="Default" color="#ffffff">Royal Guards were framed. Please go to Chengdu and find out the truth, then clarify the matter with the Huanhua Sword Sect.</font><font face="Default" color="#ffffff"></font><font face="Default" color="#ffffff"></font>
+hunterinfo_58307=Deal with the <a href="findnpc_new,city05,monrm013907" style="HLStype1">Huanhua Sword Sect disciple</a>
+specialinfo_189=Complete challenging the Huanhua Sword Sect.
+specialinfo_190=Complete the challenge at Huanhua Sword Sect. (You need to complete the challenge twice.)
+specialinfo_333=Finish Challenging the Force of Mount Song Sword Sect.
+specialinfo_424=Complete faction challenge against Huanhua Sword Sect (one successful Factions Challenge)
+specialinfo_425=Complete faction challenge against Mount Song Sword Sect (one successful Factions Challenge)
+specialinfo_428=Complete faction challenge against Huanhua Sword Sect (Pass within 5 minutes)
+specialinfo_429=Pass Peacock Villa (Difficulty Level: random)
+specialinfo_430=Complete faction challenge against Xingxiu Sect (Pass within 5 minutes)
+specialinfo_587=Challenge the Huanhua Sword Sect
+story_58302_1=<font face="Default" color="#ffffff" > You've arrived; excellent! These disciples of the Huanhua Sword Sect </font><font face="Default" color="#ffffff" >claim</font> <font face="Default" color="#ffffff" >to be decent but they are proving very unreasonable...</font>
+story_58302_2=<font face="Default" color="#ffffff" >Huanhua Sword Sect are claiming that we attacked them because they found a Royal Guard token at the scene but I think we have been framed.  </font><font face="Default" color="#ffffff" ></font><font face="Default" color="#ffffff" >Go to the Huanhua Sword Sect and investigate.</font>
 

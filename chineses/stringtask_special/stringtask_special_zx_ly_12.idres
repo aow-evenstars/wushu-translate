@@ -1,11 +1,12 @@
 ﻿
+DialogID_13289=嗯，就这样吧。少侠，这是唐门绝宝暴雨梨花针，其中威力无法想象，不过传至本代只剩3支了，现在这支赠与少侠防身以谢对唐门之恩。
+okmenu_13277=我不为杀人只为救人，东方世家东方芷身中情花之毒，正于古墓派中用寒冰床吊命，缺这七星海棠来救命。
 DialogID_13276=堡主事务繁忙不知少侠是为何事？
 DialogID_13277=七星海棠也算一味奇毒，你是要杀何人？我又为何给你？
 DialogID_13279=……呃……呃……（忍住…忍住…这个混蛋…）这…个是“百试百灵避毒水”你喝了之后什么毒蛇啊什么的都不敢咬你了。
 DialogID_13283=呵呵，你个白痴，还知道以毒攻毒啊，别走，蛇毒中和掉了一部分你体内的毒你还以为能全中和掉啊，如果毒药都能这么解，那唐门还混个屁啊。想活下去的话就把这粒药丸吃了。
 DialogID_13285=你是谁啊？这么多人在这，融你个老婆子想把人带走就带走吗？
 DialogID_13286=怎么？我唐凤今天还带不走个人了？
-DialogID_13289=嗯，就这样吧。少侠，这是唐门绝宝暴雨梨花针，其中威力无法想象，不过传至本代只剩3支了，现在这支赠与少侠防身以谢对唐门之恩。
 DialogID_13290=怎么，那你就想从我这拿到七星海棠了？
 DialogID_13291=（对正派中人说道）你们觉得我唐门就是和他勾结？那我现在就把他杀了你们是不是就可以滚回去和你们的林天南汇报了？
 DialogID_13292=少侠醒过来了啊，姥姥关照我等你醒过来了就让你快去议事厅找她。
@@ -21,9 +22,9 @@ convoyinfo_13276=打败唐少昂
 hunterinfo_13276=击败<a href="findnpc_new,school05,tm032" style="HLStype1">郑行昌</a>
 hunterinfo_13277=击败<a href="findnpc_new,school05,tm070" style="HLStype1">唐少昂</a>
 interactinfo_13276=与<a href="findnpc_new,school05,WorldNpc02271" style="HLStype1">昌影</a>交谈
-interactinfo_13277=与<a href="findnpc_new,school05,WorldNpc02206" style="HLStype1">唐解语</a>交谈
+interactinfo_13277=Talk with <a href="findnpc_new,school05,WorldNpc02206" style="HLStype1">Tang Jieyu</a>
 interactinfo_13278=去采些<a href="findnpc_new,school05,Gather00041hy" style="HLStype1">蛇毒</a>
-interactinfo_13279=与<a href="findnpc_new,school05,WorldNpc02206" style="HLStype1">唐解语</a>交谈
+interactinfo_13279=Talk with <a href="findnpc_new,school05,WorldNpc02206" style="HLStype1">Tang Jieyu</a>
 interactinfo_13280=采点<a href="findnpc_new,school05,Gather00042hy" style="HLStype1">蛇毒</a>，试试能不能压住毒性蔓延
 interactinfo_13281=<a href="findnpc_new,school05,EventNpc26546_1" style="HLStype1">走两步看看</a>似乎头不那么痛了，看来真有些效果
 interactinfo_13282=看来还是毒性不够，<a href="findnpc_new,school05,EventNpc26546_2" style="HLStype1">再往深处看看吧</a>
@@ -33,18 +34,17 @@ interactinfo_13285=与<a href="findnpc_new,school05,tm032" style="HLStype1">郑�
 interactinfo_13286=与<a href="findnpc_new,school05,tm038" style="HLStype1">唐门姥姥</a>交谈
 interactinfo_13287=<a href="findnpc_new,school05,EventNpc26562" style="HLStype1">看着其他人的反应</a>
 interactinfo_13288=尽快逃离蛇窟<a href="findnpc_new,school05,EventNpc26570" style="HLStype1">逃离蛇窟</a>
-interactinfo_13289=与<a href="findnpc_new,school05,WorldNpc02201" style="HLStype1">唐凤</a>交谈
-interactinfo_13290=与<a href="findnpc_new,school05,WorldNpc02206" style="HLStype1">唐解语</a>交谈
+interactinfo_13289=Speak with <a href="findnpc_new,school05,WorldNpc02201" style="HLStype1">Grandmother Tang</a>.
+interactinfo_13290=Talk with <a href="findnpc_new,school05,WorldNpc02206" style="HLStype1">Tang Jieyu</a>
 interactinfo_13291=与<a href="findnpc_new,school05,tm070" style="HLStype1">唐少昂</a>交谈
 interactinfo_13292=与<a href="findnpc_new,school05,WorldNpc02364" style="HLStype1">杜枫</a>交谈
 interactinfo_13293=去采些<a href="findnpc_new,school05,Gather00043hy" style="HLStype1">蛇毒</a>
 interactinfo_13294=去采些<a href="findnpc_new,school05,Gather00044hy" style="HLStype1">蛇毒</a>
 interactinfo_13295=去采些<a href="findnpc_new,school05,Gather00045hy" style="HLStype1">蛇毒</a>
 okmenu_13276=请问一下唐门门主在不？在下来唐门是为一味药材
-okmenu_13277=我不为杀人只为救人，东方世家东方芷身中情花之毒，正于古墓派中用寒冰床吊命，缺这七星海棠来救命。
 okmenu_13279=嘿嘿…有这种好东西早说嘛，何必等到现在呢。
 okmenu_13283=这是……你是谁？为何要救我？（先吃了吧）
-okmenu_13285=…………
+okmenu_13285=What is the meaning of this?
 okmenu_13286=（唐凤？好熟悉的名字…好像在哪里听过……）
 okmenu_13289=额，什么针？姥姥我先去问解语堂主拿药，救人要紧救人要紧。
 okmenu_13290=那个解语姐姐，你看为了天笑前辈的事耽搁了取毒之事。
@@ -75,8 +75,8 @@ story_menu_13278=蓝赤药丸
 story_menu_13279=叙述经历
 story_menu_13280=天行天笑
 story_menu_13281=小人作祟
-story_menu_13282=神秘人
-storyinfo_13276=听<a href="findnpc_new,school05,WorldNpc02206" style="HLStype1">唐解语</a>诉说
+story_menu_13282=Mysterious Man
+storyinfo_13276=Listen to <a href="findnpc_new,school05,WorldNpc02206" style="HLStype1">Tang Jieyu</a>
 storyinfo_13277=听<a href="findnpc_new,school05,tm039" style="HLStype1">唐天笑</a>诉说
 storyinfo_13278=听<a href="findnpc_new,school05,tm039" style="HLStype1">唐天笑</a>诉说
 storyinfo_13279=听<a href="findnpc_new,school05,tm037" style="HLStype1">萧天放</a>诉说

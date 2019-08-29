@@ -38,13 +38,10 @@ DialogID_53011=Good job. Here I take the secret book. You can go now.
 DialogID_53012=<font face="Default" color="#ffffff"> Send the antidote to Emei and find out what is going on there. </font>
 DialogID_53013=Besides, you have to master the way to decode secret order. This set of order is use? to announce secret tasks. To learn further martial arts of Tangmen, disciples must master the secret order. The less people know the thing of finding out chief plotter, the better. So you'll get all your task written with secret order. Go to Inner Hall Lord Tang Jieyu. She will tell you how to decode secret order in details.
 DialogID_53018=Nothing happened just now! You heard noting! Forget all of these! Do not refer it to anyone! Understand? Otherwise, you'll get your martial arts quit.
-DialogID_53020=<font face="Default" color="#ffffff"> Good! Tang Yun gets hurt and must have escaped to Peacock Villa. Keep this as a secret. Follow up them now. Make them keep the secret forever. And get the stolen "Thirteen Seals" back. Understand? </font>
 DialogID_53021=I need someone to be a spy. I have been watching you and think you are the best for the job. What do you think?
 DialogID_53022=How's everything going? The guy in the secret room was saved away?
 DialogID_53025=What do you know from Tang Yun? Tell me all.
 DialogID_53026=<font face="Default" color="#ffffff">You look so gloomy. Something must have happened. </font>
-DialogID_53029=<font face="Default" color="#ffffff">Phantoms' Mountain Manor has coveted Peacock Plume for long. With Tang Yun's help, Peacock Villa is probably...</font>
-DialogID_53030=They must have escaped to Peacock Villa. Find them and retrieve the stolen Thirteen Seals.
 DialogID_53031=What's going on? Have you got "Thirteen Seals" back?
 DialogID_53032=Have you found out who is the chief plotter?
 DialogID_53033=<font face="Default" color="#ffffff">Yuner? </font><font face="Default" color="#ffffff">And her helpers?</font><font face="Default" color="#ffffff"></font>
@@ -69,7 +66,6 @@ collectinfo_53005=Complete tasks in the secret order to get Tang Meijiao's token
 collectinfo_53006=Collect evidences.
 collectinfo_53007=Collect <a href="findnpc_new,," style="HLStype1"></a>the stolen script.
 collectinfo_53019=<s>Get Tangmen Script "Thirteen Seals" back.
-collectinfo_53020=We've found "Thirteen Seals" from Ximen Yu, from Peacock Villa of Common Code.
 collectinfo_53026=Collect secret orders.
 collectinfo_53030=Collect 3 bottles of  Flowing Life-Force Liquor
 collectinfo_53031=Collect <a href="findnpc_new,," style="HLStype1"></a>three portions of refined Heart Protecting powder
@@ -87,7 +83,6 @@ hunterinfo_53024=Go to main gate of Tangmen and beat Youlong.
 hunterinfo_53033=Defeat <a href="findnpc_new,,Npc_QY_TM3nei_tangyun03" style="HLStype1">Npc_QY_TM3nei_tangyun03</a>
 interactinfo_53003=Speak with <a href="findnpc_new,school05,WorldNpc02203" style="HLStype1">Tang Tianxing</a>
 interactinfo_53004=Speak with <a href="findnpc_new,school05,WorldNpc02203" style="HLStype1">Tang Tianxing</a>
-interactinfo_53005=<s>Enter Peacock Villa and follow up Tang Yun.
 interactinfo_53006=Hand "Thirteen Seals" to <a href="findnpc_new,school05,WorldNpc02203" style="HLStype1">Tang Tianxing. </a>
 interactinfo_53007=Speak with <a href="findnpc_new,school05,WorldNpc02203" style="HLStype1">Tang Tianxing</a>
 interactinfo_53011=Speak with <a href="findnpc_new,school05,WorldNpc02206" style="HLStype1">Tang Jieyu</a>.
@@ -124,7 +119,6 @@ okmenu_53018=...What happened? I was hit unconscious just now. I saw nothing. I 
 okmenu_53020=Yes, sir! I'm going now!
 okmenu_53021=Since Leader thinks so highly of me, I would like to go to the stake without any fear!
 okmenu_53022=<font face="Default" color="#ffffff"> How did Leader</font><font face="Default" color="#ffffff">know it? </font><font face="Default" color="#ffffff">On halfway, someone saved the informer in the secret room. I failed to catch them. I, I'm ready to be punished! </font>
-okmenu_53025=Yes. Tang Yun has cooperated with Phantoms' Mountain Manor for long. They plotted to kill Xiao Tianfang, grabbed Dog Beating Staff away and blamed these to Tangmen. Tang Yun seemed to make use of a hostage called Mo Wuqing to threat Xing Junke. She tried to make Xing Junke be at her command.
 okmenu_53026=<font face="Default" color="#ffffff">The Dog Beating Staff is what Tang Yun really wants.</font>
 okmenu_53029=<font face="Default" color="#ffffff">If they betray the secret, we will be seen as a joke.</font><font face="Default" color="#ffffff"></font>
 okmenu_53030=Yes, sir!
@@ -141,7 +135,6 @@ questioninfo_53009=Answer <a href="findnpc_new,school05,WorldNpc02206" style="HL
 questioninfo_53010=Answer <a href="findnpc_new,school05,WorldNpc02206" style="HLStype1">Tang Jieyu's </a>questions.
 specialinfo_550=Kidnap an off-line player
 specialinfo_551=Finish the task of Patrol once.
-specialinfo_552=Go to challenge Chengdu Huanhua Sword Sect successfully.
 specialinfo_553=Complete a task of spying on Emei.
 specialinfo_554=Do an escorting successfully.
 specialinfo_555=Complete Wanted Note once.
@@ -188,7 +181,6 @@ storymenu_53022_5=…I know…
 storymenu_53022_6=Let me see the password book carefully, wait a moment.
 interactinfo_53000=<s>Look for Father's clue around here.
 interactinfo_53002=
-hunterinfo_53034=Enter <a href="findnpc_new,school05,World_qy_tangmen_kqkeeper" style="HLStype1">Peacock Villa</a>,defeat Tang Yun.
 story_53008_2=This secret order is encrypted using an ancient phonetic system, and two shi poems and one ci here compose a set of secret orders. Follow the phonetic system as you read the verses out loud, then use the phrases to match the vowels and consonants and spell out the deciphered message.
 story_53014_2=This secret order is encrypted using an ancient phonetic system, and two shi poems and one ci here compose a set of secret orders. Follow the phonetic system as you read the verses out loud, then use the phrases to match the vowels and consonants and spell out the deciphered message.
 story_53014_4=<font face="Default" color="#ffffff" >This secret document is encrypted in the style of an antiquated phonetic system, presented here as two shi poems and a ci poem. Follow the phonetic system as you read the verses out loud, then use the phrases to match the vowels and consonants and spell out the deciphered message. </font>
@@ -248,4 +240,12 @@ storymenu_53011_2=<font face="Default" color="#ffffff" >The Beggar's Sect is the
 storymenu_53023_1=<font face="Default" color="#ffffff" >Umm, </font><font face="Default" color="#ffffff" >I'm not interested. For some cheap promises, you want me to escort you to Chengdu? In your dreams! I think I should talk to your wife, as she is well-educated and sensible.</font>
 SubmitNpcEx_18240=Submit task: <a href="findnpc_new,city02,WorldNpc01244" style="HLStype1">Kuang Zhong</a>
 interactinfo_53008=According to Xiaoqing, the Master and Mistress were kept in the <a href="findnpc_new,city02,EvenNPC_qygp_suzhou02" style="HLStype1">Wu Royal Tomb </a>by bandits. Rescue them.
+DialogID_53020=<font face="Default" color="#ffffff"> Good! Tang Yun gets hurt and must have escaped to Peacock Villa. Keep this as a secret. Follow up them now. Make them keep the secret forever. And get the stolen "Thirteen Seals" back. Understand? </font>
+DialogID_53029=<font face="Default" color="#ffffff">Phantoms' Mountain Manor has coveted Peacock Plume for long. With Tang Yun's help, Peacock Villa is probably...</font>
+DialogID_53030=They must have escaped to Peacock Villa. Find them and retrieve the stolen Thirteen Seals.
+collectinfo_53020=We've found "Thirteen Seals" from Ximen Yu, from Peacock Villa of Common Code.
+hunterinfo_53034=Enter <a href="findnpc_new,school05,World_qy_tangmen_kqkeeper" style="HLStype1">Peacock Villa</a>,defeat Tang Yun.
+interactinfo_53005=<s>Enter Peacock Villa and follow up Tang Yun.
+okmenu_53025=Yes. Tang Yun has cooperated with Phantoms' Mountain Manor for long. They plotted to kill Xiao Tianfang, grabbed Dog Beating Staff away and blamed these to Tangmen. Tang Yun seemed to make use of a hostage called Mo Wuqing to threat Xing Junke. She tried to make Xing Junke be at her command.
+specialinfo_552=Go to challenge Chengdu Huanhua Sword Sect successfully.
 

@@ -259,30 +259,30 @@ target_40040=<font face="Default" color="#8fd6ef" >Console Abbess Shuiking. Hear
 target_40041=<font face="Default" color="#8fd6ef" >Listen to the Ximen Fengliu tell his sad tale.</font>
 target_40042=<font face="Default" color="#8fd6ef" >I must apologize for releasing Ximen Fengliu.</font>
 target_40043=<font face="Default" color="#8fd6ef">See that Ximen Fengliu recovers before leaving the Emei.</font>
-task_trackinfo_40001=<s>
-task_trackinfo_40002=<s>
-task_trackinfo_40003=<s>
-task_trackinfo_40004=<s>
-task_trackinfo_40005=<s>
-task_trackinfo_40006=<s>
-task_trackinfo_40013=<s>
-task_trackinfo_40014=<s>
-task_trackinfo_40015=<s>
-task_trackinfo_40016=<s>
-task_trackinfo_40017=<s>
-task_trackinfo_40018=<s>
-task_trackinfo_40025=<s>
-task_trackinfo_40026=<s>
-task_trackinfo_40027=<s>
-task_trackinfo_40028=<s>
-task_trackinfo_40029=<s>
-task_trackinfo_40037=<s>
-task_trackinfo_40038=<s>
-task_trackinfo_40039=<s>
-task_trackinfo_40040=<s>
-task_trackinfo_40041=<s>
-task_trackinfo_40042=<s>
-task_trackinfo_40043=<s>
+task_trackinfo_40001=<s>Sit on the mat to meditate.
+task_trackinfo_40002=<s>Sit on the mat to meditate.
+task_trackinfo_40003=<s>Sit on the mat to meditate.
+task_trackinfo_40004=<s>Sit on the mat to meditate.
+task_trackinfo_40005=<s>Sit on the mat to meditate.
+task_trackinfo_40006=<s>Sit on the mat to meditate.
+task_trackinfo_40013=<s>Sit on the mat to meditate.
+task_trackinfo_40014=<s>Sit on the mat to meditate.
+task_trackinfo_40015=<s>Sit on the mat to meditate.
+task_trackinfo_40016=<s>Sit on the mat to meditate.
+task_trackinfo_40017=<s>Sit on the mat to meditate.
+task_trackinfo_40018=<s>Sit on the mat to meditate.
+task_trackinfo_40025=<s>Sit on the mat to meditate.
+task_trackinfo_40026=<s>Sit on the mat to meditate.
+task_trackinfo_40027=<s>Sit on the mat to meditate.
+task_trackinfo_40028=<s>Sit on the mat to meditate.
+task_trackinfo_40029=<s>Sit on the mat to meditate.
+task_trackinfo_40037=<s>Sit on the mat to meditate.
+task_trackinfo_40038=<s>Sit on the mat to meditate.
+task_trackinfo_40039=<s>Sit on the mat to meditate.
+task_trackinfo_40040=<s>Sit on the mat to meditate.
+task_trackinfo_40041=<s>Sit on the mat to meditate.
+task_trackinfo_40042=<s>Sit on the mat to meditate.
+task_trackinfo_40043=<s>Sit on the mat to meditate.
 title_40001=Meet with Elder Martial Sister
 title_40002=Help Along the Way
 title_40003=Comforting Shan Er
@@ -323,4 +323,17 @@ context_40006=<font face="Default" color="#8fd6ef" >Abbess Shuijing isn't being 
 submit_40004=<font face="Default" color="#8fd6ef" >Of course. Is there anything I can do to ease your burden?</font>
 submit_40031=<font face="Default" color="#ffffff" >You tried to kill an unarmed man. I think we're even.</font>
 target_40002=<font face="Default" color="#8fd6ef" >Tell Shan Er a story and coax her into eating.</font>
+CompleteMenu_40147=师太让我通知你过几日去浣花山庄化解矛盾
+CompleteMenu_40148=师太让你不用去浣花山庄了
+context_40399=<s>我确实又注意到最近锦衣卫有所动作。西山古墓附近一带聚集了不少锦衣卫弟子，但是不清楚他们到底有什么计划。你可以悄悄过去调查，千万小心被他们发现。
+context_40403=<s>现在我们力量薄弱，又有不少伤员，恐怕难以逃离。看来只能向西山古墓求助了！麻烦女侠过去替我们找来帮手。
+context_40409=<s>此事不寻常，锦衣卫虽嚣张跋扈，却不会贸然生事，这其中定有文章。<BR><s>不过，不论他们意欲何为，其结果必定会对西山古墓不利……看来不能再容他们在西山古墓撒野了。
+context_40411=<s>你不要急，时候到了，我自会派人帮你的。我把话讲明白，我最讨厌欠人人情，也不喜欢别人欠我人情。要我们西山古墓帮你，你要先帮助我们做一件事。等你帮我们做了事情，你再回来找我。
+context_40422=<s>刚才西山古墓派人过来帮我们清理了附近的锦衣卫弟子，想来他们一时不敢再来了。我们打算等伤员都休息好就一起动身离开这里。<BR><s>对了，刚才我看到前方有个形迹可疑的人，你快过去看看，可能与你调查之事有关。
+target_40399=<s>听说西山古墓附近聚集不少锦衣卫弟子，马上过去调查。
+target_40403=<s>向西山古墓求援。
+target_40409=　　前往西山古墓寻求帮忙。
+target_40411=<s>李默秋要求为西山古墓做一件事。
+target_40424=<s>护送杨邪回西山古墓。
+task_TrackInfo_40424=陪杨邪一起回西山古墓
 

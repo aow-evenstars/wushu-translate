@@ -1059,8 +1059,6 @@ collectinfo_816=Copy calligraphy "Seeking Flowers Along the River Bank Alone". W
 collectinfo_817=Copy calligraphy "Leave Baidi City in the Morning". When in Twilight Village, there is a chance to get "Leave Baidi City in the Morning" recipe, and after learning it you can purchase required materials from Scholar Trainer and proceed Scholar Compositing Small Game to get it.
 collectinfo_818=Copy calligraphy "Tomb-sweeping Day". When in Twilight Village, there is a chance to get "Tomb-sweeping Day" recipe, and after learning it you can purchase required materials from Scholar Trainer and proceed Scholar Compositing Small Game to get it.
 collectinfo_819=Copy calligraphy "Lodge in Landlord Qiu's at Autumn Night". When in Twilight Village, there is a chance to get "Lodge in Landlord Qiu's at Autumn Night" recipe, and after learning it you can purchase required materials from Scholar Trainer and proceed Scholar Compositing Small Game to get it.
-collectinfo_820=Copy calligraphy "Lodge at the Beigu Moutain". When in Twilight Village, Peacock Villa, Longmen Inn, there is a chance to get "Lodge at the Beigu Moutain" recipe, and after learning it you can purchase required materials from Scholar Trainer and proceed Scholar Compositing Small Game to get it.
-collectinfo_821=Copy calligraphy "Crossing the Ocean of Lingding". When in Twilight Village, Peacock Villa, Longmen Inn, there is a chance to get "Crossing the Ocean of Lingding" recipe, and after learning it you can purchase required materials from Scholar Trainer and proceed Scholar Compositing Small Game to get it.
 collectinfo_824=Copy "Flower And Bird Illustrated Books" (1) (You can purchase all necessary materials and the recipe at the painter's)
 collectinfo_825=Copy "Autumn Flowers" (You can purchase all necessary materials and the recipe at the painter's)
 collectinfo_828=Copy "Sleeping Cat In The Flowers" (The recipe can be obtained through Martial Arts Club Challenges or in Twilight Village and necessary materials can be bought at the painter's)
@@ -1515,7 +1513,6 @@ interactinfo_26097=Speak with <a href="findnpc_new,adv128,home_mj_leave" style="
 okmenu_26097=<font face="Default" color="#ffffff" >I understand.</font>
 DialogID_26106=<font face="Default" color="#ffffff" >I need some snow ferrets' pelts. Do you have any?</font>
 DialogID_26112=<font face="Default" color="#ffffff" >The Lord of Lingxiao City has a set of skills called Six Realms Lingxiao Supremacy Skill. Are you familiar with this?</font>
-DialogID_26113=<font face="Default" color="#ffffff" >Although it can be painful, being marked with the Life and Death Rune also gives you a chance to open an meridian, which can channel more Chi to enable many skills.</font>
 DialogID_26114=<font face="Default" color="#ffffff" >Do you know that one of the perks of becoming a Lord or Lady of Lingxiao City is the ability to change your appearance, including your body size? With this ability, the lord can travel incognito as a small child throughout the city.</font>
 DialogID_26115=<font face="Default" color="#ffffff" >Prepare to be tested.</font>
 QiecuoMenu_605=<font face="Default" color="#ffffff" >Show me what you've got!</font>
@@ -1583,7 +1580,6 @@ ZZAnswerText2_5210=<font face="Default" color="#ffffff" >Arhat Fist</font>
 ZZAnswerText2_5211=<font face="Default" color="#ffffff" >Shaoyin Kidney Meridian of Foot</font>
 ZZAnswerText2_5212=<font face="Default" color="#ffffff" >Taiyang Small Intestine Meridian of Hand</font>
 ZZAnswerText2_5213=<font face="Default" color="#ffffff" >Seven Limitations Manual</font>
-ZZAnswerText2_5214=<font face="Default" color="#ffffff" >Tiancan Technique</font>
 ZZAnswerText2_5215=<font face="Default" color="#ffffff" >Inner Focus Skill</font>
 ZZAnswerText2_5216=<font face="Default" color="#ffffff" >Immortal Sky Array</font>
 ZZAnswerText2_5217=<font face="Default" color="#ffffff" >Weituo Staff</font>
@@ -1596,7 +1592,6 @@ ZZAnswerText3_5205=<font face="Default" color="#ffffff" >You can unlock your mer
 ZZAnswerText3_5206=<font face="Default" color="#ffffff" >18 kinds</font>
 ZZAnswerText3_5207=<s>
 ZZAnswerText3_5208=<font face="Default" color="#ffffff" >One month</font>
-ZZAnswerText3_5209=<font face="Default" color="#ffffff">Reversed Yin Yang Blade</font>
 ZZAnswerText3_5210=<font face="Default" color="#ffffff" >Divine Wind</font>
 ZZAnswerText3_5211=<font face="Default" color="#ffffff" >Yangming Stomach Meridian of Foot</font>
 ZZAnswerText3_5212=<font face="Default" color="#ffffff" >Taiyin Spleen Meridian of Foot</font>
@@ -1648,7 +1643,6 @@ hunterinfo_619=Defeat the <a href="findnpc_new,scene25,funnpc_lxxz_xu_016" style
 hunterinfo_620=Defeat <a href="findnpc_new,,funnpc_lxxz_xu_018" style="HLStype1">Gu Cheng</a>.
 hunterinfo_621=Defeat <a href="findnpc_new,,funnpc_lxxz_xu_019" style="HLStype1">Qiu Chi</a>.
 hunterinfo_622=Defeat <a href="findnpc_new,,funnpc_lxxz_xu_020" style="HLStype1">Zhao Yang</a>.
-interactinfo_26100=Tell <a href="findnpc_new,scene25,npc_hwcy_mxm06" style="HLStype1">Chen Qianchi </a>you already chased out the saboteur, and then find <a href="findnpc_new,scene25,npc_hwcy_mxm01" style="HLStype1">Luo Qi</a> to escape.
 interactinfo_26101=Enjoy the <a href="findnpc_new,scene25,eventnpc_lxxz_xu_001" style="HLStype1">scenery</a>.
 interactinfo_26102=Enjoy the <a href="findnpc_new,scene25,eventnpc_lxxz_xu_002" style="HLStype1">scenery</a>.
 interactinfo_26103=Enjoy the <a href="findnpc_new,scene25,eventnpc_lxxz_xu_003" style="HLStype1">scenery</a>.
@@ -1669,9 +1663,6 @@ maintext_5201=<font face="Default" color="#ffffff" >How many elders does Lingxia
 maintext_5202=<font face="Default" color="#ffffff" >Where is Lingxiao City on the map?</font>
 maintext_5203=<font face="Default" color="#ffffff" >How many major islands are there in the Eastern Seas?</font>
 maintext_5204=<font face="Default" color="#ffffff" >In which tier of internal skills for the Age of Wushu Records is Lingxiao City available?</font>
-maintext_5205=<font face="Default" color="#ffffff" >What will happen if you are marked with Life and Death Rune?</font>
-maintext_5206=<font face="Default" color="#ffffff" >How many kinds of Life and Death Runes are there?</font>
-maintext_5207=<font face="Default" color="#ffffff" >How many times is the limit of being marked with Life and Death Rune?</font>
 maintext_5208=<font face="Default" color="#ffffff" >How long is each cycle of Life and Death ranking?</font>
 maintext_5209=<font face="Default" color="#ffffff" >Which of the following skill sets is a single blade set?</font>
 maintext_5210=<font face="Default" color="#ffffff" >Which of the following skill sets is not an unarmed (bare-handed) set?</font>
@@ -1682,10 +1673,8 @@ maintext_5214=<font face="Default" color="#ffffff" >Which of the following inter
 maintext_5215=<font face="Default" color="#ffffff" >Which of the following internal skills is not from Beggar's Sect?</font>
 maintext_5216=<font face="Default" color="#ffffff" >Which of the following arrays comes from Mount Hua?</font>
 maintext_5217=<font face="Default" color="#ffffff" >Which of the following skill sets is a true longstaff set?</font>
-okmenu_26100=<font face="Default" color="#ffffff" >You’re welcome. </font>
 okmenu_26106=<font face="Default" color="#ffffff" >Here are the snow ferret pelts.</font>
 okmenu_26112=<font face="Default" color="#ffffff" >I've heard that it is very powerful, but I have yet to witness its use in person.</font>
-okmenu_26113=<font face="Default" color="#ffffff" >That's good to know!</font>
 okmenu_26114=<font face="Default" color="#ffffff" >Ha ha, so I can be talking to the lord right now, without even knowing it!</font>
 okmenu_26115=<font face="Default" color="#ffffff" >Prepare to be tested.</font>
 quest_menu_600=<font face="Default" color="#ffffff" >If you can answer my questions correctly, I'll give you credit for today's task.</font>
@@ -1707,10 +1696,7 @@ story_612_1=<font face="Default" color="#ffffff" >Well met, hero! Your presence 
 story_612_2=<font face="Default" color="#ffffff" >Yes, we all serve the Lord of the City, who in truth is selected from one of us. Together, we bring honor and glory to us all.</font>
 story_612_3=<font face="Default" color="#ffffff" >At the start of each month, we will select a new Lord or Lady of the City, Snow Herald, and Elder. The selection will be based on merit, and all participants are eligible. So work hard and be recognized!</font>
 story_613_1=<font face="Default" color="#ffffff">You're a polite one, aren't you? If you made the effort to be here, you should already have some idea.</font>
-story_613_2=<font face="Default" color="#ffffff" >Indeed. Very well, at Elder Wang Yue's request, I have a set of daily tasks for you. If you are ever marked with the Life and Death Rune, you can seek relief by completing these tasks.</font>
-story_613_3=<font face="Default" color="#ffffff" >Since you are about to meet Twelve Swallows in the Snow, why don't I let her explain it to you?</font>
 story_614_1=<font face="Default" color="#ffffff" >Ah, our latest newcomer. Train hard, so you will be worthy of the use of the Life and Death Rune.</font>
-story_614_2=<font face="Default" color="#ffffff" >It is a sigil, or mark, that binds you to this city. It is physically painful to be marked, but you also get a chance to open your meridians to channel more Chi into your skills. </font>
 story_614_3=<font face="Default" color="#ffffff" >Come see me if you want to make use of the Life and Death Rune. Until then, train hard!</font>
 story_menu_612=<font face="Default" color="#ffffff" >Greetings, elder.</font>
 story_menu_613=<font face="Default" color="#ffffff" >I have just recently arrived in Lingxiao City. Please advise me on what I should do.</font>
@@ -1729,4 +1715,18 @@ storymenu_614_3=<font face="Default" color="#ffffff" >Thank you.</font>
 DialogID_26100=<font face="Default" color="#ffffff" >Well done. You did not take long at all!</font>
 collectinfo_959=Gather <a href="findnpc_new,scene25,Gathernpc_lxxz_xu_006" style="HLStype1">Chinese Yam</a>
 collectinfo_960=Gather <a href="findnpc_new,scene25,Gathernpc_lxxz_xu_007" style="HLStype1">Chinese Angelica</a>.
+DialogID_26113=<font face="Default" color="#ffffff" >Although it can be painful, being marked with the Life and Death Rune also gives you a chance to open an meridian, which can channel more Chi to enable many skills.</font>
+ZZAnswerText2_5214=<font face="Default" color="#ffffff" >Tiancan Technique</font>
+ZZAnswerText3_5209=<font face="Default" color="#ffffff">Reversed Yin Yang Blade</font>
+collectinfo_820=Copy calligraphy "Lodge at the Beigu Moutain". When in Twilight Village, Peacock Villa, Longmen Inn, there is a chance to get "Lodge at the Beigu Moutain" recipe, and after learning it you can purchase required materials from Scholar Trainer and proceed Scholar Compositing Small Game to get it.
+collectinfo_821=Copy calligraphy "Crossing the Ocean of Lingding". When in Twilight Village, Peacock Villa, Longmen Inn, there is a chance to get "Crossing the Ocean of Lingding" recipe, and after learning it you can purchase required materials from Scholar Trainer and proceed Scholar Compositing Small Game to get it.
+maintext_5205=<font face="Default" color="#ffffff" >What will happen if you are marked with Life and Death Rune?</font>
+maintext_5206=<font face="Default" color="#ffffff" >How many kinds of Life and Death Runes are there?</font>
+maintext_5207=<font face="Default" color="#ffffff" >How many times is the limit of being marked with Life and Death Rune?</font>
+okmenu_26113=<font face="Default" color="#ffffff" >That's good to know!</font>
+story_613_2=<font face="Default" color="#ffffff" >Indeed. Very well, at Elder Wang Yue's request, I have a set of daily tasks for you. If you are ever marked with the Life and Death Rune, you can seek relief by completing these tasks.</font>
+story_613_3=<font face="Default" color="#ffffff" >Since you are about to meet Twelve Swallows in the Snow, why don't I let her explain it to you?</font>
+story_614_2=<font face="Default" color="#ffffff" >It is a sigil, or mark, that binds you to this city. It is physically painful to be marked, but you also get a chance to open your meridians to channel more Chi into your skills. </font>
+interactinfo_26100=Tell <a href="findnpc_new,scene25,npc_hwcy_mxm06" style="HLStype1">Chen Qianchi </a>you already chased out the saboteur, and then find <a href="findnpc_new,scene25,npc_hwcy_mxm01" style="HLStype1">Luo Qi</a> to escape.
+okmenu_26100=<font face="Default" color="#ffffff" >You’re welcome. </font>
 

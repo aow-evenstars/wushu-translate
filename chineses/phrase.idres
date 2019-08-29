@@ -1066,13 +1066,10 @@ tool_rank_3_qg_008=Grand Master Beggar
 tool_rank_3_qg_009=Legendary Beggar
 tool_rank_3_qg_010=Ultimate Beggar
 tool_rank_4_qy=Green Cloud Castle
-tool_rank_4_kq=Peacock Villa
 tool_rank_4_lm=Longmen Inn
 tool_rank_4_ym=Yanmen Pass
 tool_rank_5_level=Guild Size
 tool_rank_5_escotool_rt=Deliver the escort carriage.
-npctype337=Plum Blossom Island
-npctype339=Plum Blossom Island
 origin_2310=Flower Prince
 origin_1031=Decisive Strike
 origin_1032=Extraordinary Skill
@@ -1103,13 +1100,10 @@ origin_1150=Jade Flowers in the Fairyland
 tool_rank_1_RevengeIntegral=Sky ladder Score
 tool_rank_17_match_win_net=Dragon and Tiger Tournament Victory Rank List
 tool_rank_17_match_school_win_net=Eight Schools Tournament Victory Rank List
-tool_rank_8_huashanlunjian=Mount Hua Competition
 npctype348=Tier 5 internal Redeem Administrator
 npctype53=Scene Teleport Poin
 npctype116=The Palace of Shifting Flowers
-npctype117=Horse
 npctype118=Gold Needle Shen Family
-npctype119=Villa of Beasts
 npctype120=Rootless Clan
 npctype226=Steal Script Between Sects.
 origin_3101=Ancient Tomb guard
@@ -1139,7 +1133,6 @@ origin_3117=Warped Cloud Ice Officer
 origin_3118=Condensation Faerie
 origin_3119=Jade Faerie
 origin_3120=Jade-like Virtuous Person
-origin_3201=Blood Blade Disciples
 origin_3202=Bloodshed Butcher
 origin_3203=Bloodthirsty Butcher
 origin_3204=Stop Moaning Executioner
@@ -1235,7 +1228,6 @@ origin_3634=Sun Sword Master
 origin_3635=Force Sword Master
 origin_3636=Moon Sword Master
 origin_3637=Thousand-Sword Master
-tool_rank_1_lt=Wulin Tournament
 origin_2500=Leisure Fisherman
 origin_2501=Wandering Assassin
 origin_2502=Stooge
@@ -1680,23 +1672,6 @@ desc_events_706=Your tea making ability is at {@0:数量}/{@1:数量}. Speak wit
 desc_events_707=Your speechcraft is at {@0:数量}/{@1:数量}. Speak with <a href="findnpc_new,scene19,npc_wjd_cm_02a" style="HLStype1">Elder Uncle Zhang</a>.
 desc_events_708=Your healing ability is at {@0:数量}/{@1:数量}. Speak with the <a href="findnpc_new,scene19,npc_wjd_cm_05" style="HLStype1">physician</a>.
 desc_events_709=Your gambling (dice throwing) ability is at {@0:数量}/{@1:数量}.
-desc_events_250=Test your drinking prowess: You have done this {@0:完成}/{@1:总数} times. <br>This task is available at Hero Island and Hidden Dragon Island.
-desc_events_251=Eat cooked meat: You have done this {@0:完成}/{@1:总数} times. <br>Hunt the local fauna of the Hero Islands. Then gather some wood and cook the meat over a fire.
-desc_events_252=Get water: You have done this {@0:完成}/{@1:总数} times. <br>Find the <a href="findnpc_new,scene17,newworld_xkdnpc_001" style="HLStype1">Old Potter</a> and learn how to find drinking water.
-desc_events_253=Pick fruit on the Hero Islands. You have done this {@0:完成}/{@1:总数} times. <br>
-desc_events_254=Trade the items you have obtained with the old man on Hero Island for stone coins. You have done this {@0:完成}/{@1:总数} times. <br>
-desc_events_255=Sakura Island trading: You have done this {@0:完成}/{@1:总数} times. <br>Sell the specialties from other islands to the merchant of Sakura Island.
-desc_events_256=Prosperous Island trading: You have done this {@0:完成}/{@1:总数} times. <br>Sell the specialties from other islands to the merchant of Prosperous Island.
-desc_events_257=Felicitous Reef trading: You have done this {@0:完成}/{@1:总数} times. <br>Sell the specialties from other islands to the merchant of Felicitous Reef.
-desc_events_258=Immortal Reef trading: You have done this {@0:完成}/{@1:总数} times. <br>Sell the specialties from other islands to the merchant of Immortal Reef.
-desc_events_259=Divine Dragon Island trading: You have done this {@0:完成}/{@1:总数} times. <br>Sell the specialties from other islands to the merchant of Divine Dragon Island.
-desc_events_260=Hero Island trading: You have done this {@0:完成}/{@1:总数} times. <br>Sell the specialties from other islands to the merchant of Hero Island.
-desc_events_261=Hidden Dragon Island trading: You have done this {@0:完成}/{@1:总数} times. <br>Sell the specialties from other islands to the merchant of Hidden Dragon Island.
-desc_events_262=Every coin counts: You have done this {@0:完成}/{@1:总数} times. <br>Tally the stone coins you have earned from trading items on the Hero Islands.
-desc_events_263=Seek swordsmanship training: You have done this {@0:完成}/{@1:总数} times. <br>Seek out expert swordsmen that randomly appear throughout the Hero Islands to learn from them.
-desc_events_264=Drinking contest: You have done this {@0:完成}/{@1:总数} times. <br>Find <a href="findnpc_new,scene17,newworld_xkdnpc_015" style="HLStype1">Zhang Chang the Drunkard</a> at the tavern on Hero Island and outdrink him!
-desc_events_265=Sword sparring: You have done this {@0:完成}/{@1:总数} times. <br>Seek out expert swordsmen on the Hero Islands and spar with them.
-desc_events_266=Seek blade training: You have done this {@0:完成}/{@1:总数} times. <br>Seek out expert bladesmen that randomly appear throughout the Hero Islands to learn from them.
 desc_events_2=Martial arts copied scripts: Get ten martial arts copied scripts from <a href="findnpc_new,scene16,newworldpl_zyb_002" style="HLStype1">Wulin fighter</a> and give them to <a href="findnpc_new,scene16,newworldpl_zyb_001" style="HLStype1">Li Su</a>.
 desc_events_1=Martial arts script: Collect a <a href="findnpc_new,scene16,pldcj_zyb_001" style="HLStype1">martial arts script</a>. Give it to <a href="findnpc_new,scene16,newworldpl_zyb_001" style="HLStype1">Li Su</a>.
 desc_events_3=Arriving at Justices of Fate: Spar with <a href="findnpc_new,scene16,newworldpl_zyb_004" style="HLStype1">Hong Ruoyu</a>.
@@ -1709,8 +1684,6 @@ desc_events_9=Spar with Demon Sword Clan disciple: Spar with <a href="findnpc_ne
 desc_events_10=Spar with Sacred Moon Palace disciple: Spar with <a href="findnpc_new,scene16,newworldpl_zyb_018" style="HLStype1">Zhan Hong</a>.
 desc_events_11=Spar with Clarion Cliff disciple: Spar with <a href="findnpc_new,scene16,newworldpl_zyb_019" style="HLStype1">Tang Gongteng</a>.
 desc_events_12=
-desc_events_13=
-desc_events_14=
 desc_events_15=
 desc_events_16=
 desc_events_17=
@@ -1886,4 +1859,35 @@ origin_3735=Decayed Spirit Master
 origin_3736=Withered God Master
 origin_3737=Five Immortals Holy Leader
 npctype482=School Warehouse Manager
+npctype119=Villa of Beasts
+tool_rank_1_lt=Wulin Tournament
+tool_rank_4_kq=Peacock Villa
+tool_rank_8_huashanlunjian=Mount Hua Competition
+origin_3201=Blood Blade Disciples
+desc_events_13=【生死令牌】找<a href="findnpc_new,scene16,newworld_shengsipan_001" style="HLStype1">墨宇</a>参加生死历练活动，击杀机关人有概率掉落生死令牌。每次交10枚令牌给<a href="findnpc_new,scene16,newworld_shengsipan_002" style="HLStype1">墨姝</a>，需要上交7次。
+desc_events_14=【生死历练】找<a href="findnpc_new,scene16,newworld_shengsipan_001" style="HLStype1">墨宇</a>参加生死历练活动，击杀7次机关人（头目）。
+desc_events_250=Test your drinking prowess: You have done this {@0:完成}/{@1:总数} times. <br>This task is available at Hero Island and Hidden Dragon Island.
+desc_events_251=Eat cooked meat: You have done this {@0:完成}/{@1:总数} times. <br>Hunt the local fauna of the Hero Islands. Then gather some wood and cook the meat over a fire.
+desc_events_252=Get water: You have done this {@0:完成}/{@1:总数} times. <br>Find the <a href="findnpc_new,scene17,newworld_xkdnpc_001" style="HLStype1">Old Potter</a> and learn how to find drinking water.
+desc_events_253=Pick fruit on the Hero Islands. You have done this {@0:完成}/{@1:总数} times. <br>
+desc_events_254=Trade the items you have obtained with the old man on Hero Island for stone coins. You have done this {@0:完成}/{@1:总数} times. <br>
+desc_events_255=Sakura Island trading: You have done this {@0:完成}/{@1:总数} times. <br>Sell the specialties from other islands to the merchant of Sakura Island.
+desc_events_256=Prosperous Island trading: You have done this {@0:完成}/{@1:总数} times. <br>Sell the specialties from other islands to the merchant of Prosperous Island.
+desc_events_257=Felicitous Reef trading: You have done this {@0:完成}/{@1:总数} times. <br>Sell the specialties from other islands to the merchant of Felicitous Reef.
+desc_events_258=Immortal Reef trading: You have done this {@0:完成}/{@1:总数} times. <br>Sell the specialties from other islands to the merchant of Immortal Reef.
+desc_events_259=Divine Dragon Island trading: You have done this {@0:完成}/{@1:总数} times. <br>Sell the specialties from other islands to the merchant of Divine Dragon Island.
+desc_events_260=Hero Island trading: You have done this {@0:完成}/{@1:总数} times. <br>Sell the specialties from other islands to the merchant of Hero Island.
+desc_events_261=Hidden Dragon Island trading: You have done this {@0:完成}/{@1:总数} times. <br>Sell the specialties from other islands to the merchant of Hidden Dragon Island.
+desc_events_262=Every coin counts: You have done this {@0:完成}/{@1:总数} times. <br>Tally the stone coins you have earned from trading items on the Hero Islands.
+desc_events_263=Seek swordsmanship training: You have done this {@0:完成}/{@1:总数} times. <br>Seek out expert swordsmen that randomly appear throughout the Hero Islands to learn from them.
+desc_events_264=Drinking contest: You have done this {@0:完成}/{@1:总数} times. <br>Find <a href="findnpc_new,scene17,newworld_xkdnpc_015" style="HLStype1">Zhang Chang the Drunkard</a> at the tavern on Hero Island and outdrink him!
+desc_events_265=Sword sparring: You have done this {@0:完成}/{@1:总数} times. <br>Seek out expert swordsmen on the Hero Islands and spar with them.
+desc_events_266=Seek blade training: You have done this {@0:完成}/{@1:总数} times. <br>Seek out expert bladesmen that randomly appear throughout the Hero Islands to learn from them.
+shijia_murong=Murong Family
+shijia_yanmen=Yanmen Family
+shijia_dongfang=Dongfang Family
+shijia_nangong=Nangong Family
+npctype117=Horse
+npctype337=Plum Blossom Island
+npctype339=Plum Blossom Island
 

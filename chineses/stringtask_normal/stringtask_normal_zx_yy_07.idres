@@ -1,4 +1,6 @@
 ﻿
+CanAcceptMenu_22523=星宿派弟子在哪？
+target_22523=去前面教训那帮星宿派弟子。
 CanAcceptMenu_22481=不知庄小姐有什么安排？
 CanAcceptMenu_22483=掌门……
 CanAcceptMenu_22484=不知现在曹亦安曹大哥在哪？
@@ -12,16 +14,16 @@ CanAcceptMenu_22491=曹大哥有事尽管吩咐好了
 CanAcceptMenu_22492=曹大哥还有什么吩咐吗？
 CanAcceptMenu_22493=掌门还有什么事吗？
 CanAcceptMenu_22494=前辈还有什么吩咐吗？
-CanAcceptMenu_22495=前辈……
+CanAcceptMenu_22495=What is this about?
 CanAcceptMenu_22496=不知前辈可有何吩咐？
 CanAcceptMenu_22500=前辈还有何事？
-CanAcceptMenu_22501=前辈……
+CanAcceptMenu_22501=What is this about?
 CanAcceptMenu_22502=前辈可还有何吩咐？
 CanAcceptMenu_22503=在下只望前辈能指点一下
 CanAcceptMenu_22505=不知前辈可还有什么吩咐？
 CanAcceptMenu_22507=兄台为何事犯愁？
 CanAcceptMenu_22510=这位兄台，我只是来问问关于玉佩一事
-CanAcceptMenu_22512=怎么了？
+CanAcceptMenu_22512=What's wrong?
 CanAcceptMenu_22513=不知刚才发生了什么事？
 CanAcceptMenu_22514=掌门可有何吩咐？
 CanAcceptMenu_22516=不知掌门还有何吩咐？
@@ -29,7 +31,6 @@ CanAcceptMenu_22517=不知前辈想到的是何妙法？
 CanAcceptMenu_22518=前辈有何吩咐？
 CanAcceptMenu_22520=还请兄台告知这附近的情况
 CanAcceptMenu_22522=回答我！
-CanAcceptMenu_22523=星宿派弟子在哪？
 CanAcceptMenu_22524=这下你安心了吧
 CanAcceptMenu_22525=兄台，这火毒物现在何处你可知道？
 CanAcceptMenu_22528=掌门，要是没事的话在下去找曹亦安大哥了
@@ -38,7 +39,7 @@ CompleteMenu_22483=掌门，其实我是一个失去记忆的人……
 CompleteMenu_22484=这位可是曹亦安曹大哥？
 CompleteMenu_22485=曹大哥，你告诉我吧！
 CompleteMenu_22486=曹大哥，承让了
-CompleteMenu_22487=好了
+CompleteMenu_22487=The way should be clear of hoodlums now.
 CompleteMenu_22488=曹大哥，兔子捉来了
 CompleteMenu_22489=这东西好像有股淡淡的清香
 CompleteMenu_22490=这个就是绿仙子吧？
@@ -80,7 +81,7 @@ accept_22491_1=等下你就把这绿仙子给我师父送去吧。对了，还�
 accept_22492_1=这里的绿仙子你先拿去给我师父吧，然后可以去找大别散人。
 accept_22493_1=小友，我这里有一颗旭日丸，你服下吧，兴许会对你内力增强有所帮助。
 accept_22494_1=看你样子好像还有事吧，那你就去吧。
-accept_22495_1=你……
+accept_22495_1=What the…
 accept_22496_1=离此处不远的前面有一株神鹿草，望你能通过途中的阻碍，顺利将其采来。
 accept_22500_1=来，喝下这碗草药水，对你身体有益无害。
 accept_22501_1=来吧，我看你刚才采撷神鹿草前的气力也都恢复了，和我好好打一架！
@@ -132,7 +133,7 @@ complete_22518=火毒物啊，我知道，哎！
 complete_22520=是是是，哦不是不是！
 complete_22522=但……但是我们是受他们指使在先的呀！
 complete_22523=真的啊，那真是多谢大侠了啊！
-complete_22524=真是太感谢了。
+complete_22524=Thank you very much.
 complete_22525=竟有此物！这下总算有救了。
 complete_22528=你现在就要离开了？也好，现在你武功已成，洛阳马上就要集结各路英雄，你生平之事也总有知晓的一天。
 context_22481=这密宗可能就要大举来犯了，我们沐云庄准备迁庄到外避避风头。我想恩人你可以到恶人谷找我好友昆仑派大弟子曹亦安，他必会给你个妥善安排。
@@ -148,7 +149,7 @@ context_22491=等下你就把这绿仙子给我师父送去吧。对了，还有
 context_22492=这里的绿仙子你先拿去给我师父吧，然后可以去找大别散人。
 context_22493=小友，我这里有一颗旭日丸，你服下吧，兴许会对你内力增强有所帮助。
 context_22494=看你样子好像还有事吧，那你这就去吧。
-context_22495=你……
+context_22495=What the…
 context_22496=离此处不远的前面有一株神鹿草，望你能通过途中的阻碍，顺利将其采来。
 context_22500=来，喝下这碗草药水，对你身体有益无害。
 context_22501=来吧，我看你刚才采撷神鹿草前的气力也都恢复了，和我好好打一架！
@@ -174,17 +175,17 @@ menu_22483_1=正是，其实晚辈此来是寻求相助的
 menu_22484_1=那晚辈先告辞了
 menu_22485_1=曹大哥可认识我？说来惭愧，我此来是逃避密宗追击的……
 menu_22486_1=这有何难言之隐的？恳请曹大哥告诉我吧！
-menu_22487_1=嗯，好
+menu_22487_1=OK.
 menu_22488_1=行，我去捉那兔子
-menu_22489_1=好的
+menu_22489_1=Okay.
 menu_22490_1=那我这就去
-menu_22491_1=什么事？
-menu_22492_1=好的
-menu_22493_1=多谢掌门
+menu_22491_1=What's this?
+menu_22492_1=Okay.
+menu_22493_1=Thank Headmaster.
 menu_22494_1=那晚辈先告辞了
 menu_22495_1=前辈，我真的已失忆了
 menu_22496_1=好，我一定将神鹿草带回来
-menu_22500_1=多谢
+menu_22500_1=Thanks.
 menu_22501_1=可是前辈……
 menu_22502_1=那在下去找道长前辈，但愿他能指点一二
 menu_22503_1=前辈别误会，在下并非有意冒犯的
@@ -192,29 +193,29 @@ menu_22505_1=多谢前辈指点，那在下先告辞了
 menu_22507_1=那我帮你去问问他吧
 menu_22510_1=你怎地如此冲动
 menu_22512_1=那好，我去看看
-menu_22513_1=什么？
+menu_22513_1=What?
 menu_22514_1=掌门放心，在下蒙受昆仑恩情，自当尽力找到那解药
 menu_22516_1=那我这就去找孤尘子前辈
 menu_22517_1=这个还请前辈明示。
 menu_22518_1=是，在下这就下山
 menu_22520_1=竟有这事，我去帮你教训这群为非作歹的强盗
 menu_22522_1=问你话呢！你们这伙人在这干嘛？
-menu_22523_1=好！
+menu_22523_1=Alright, take me back there.
 menu_22524_1=好好做人
 menu_22525_1=但愿此法有效，多谢
 menu_22528_1=多谢掌门告知，那在下和曹亦安大哥道别后就前往
-next_22481=与<a href="findnpc_new,born02,WorldNpc09401" style="HLStype1">云阳子</a>交谈
-next_22483=与<a href="findnpc_new,born02,WorldNpc09401" style="HLStype1">云阳子</a>交谈
-next_22484=与<a href="findnpc_new,born02,WorldNpc09407" style="HLStype1">曹亦安</a>交谈
-next_22485=与<a href="findnpc_new,born02,WorldNpc09407" style="HLStype1">曹亦安</a>交谈
-next_22486=与<a href="findnpc_new,born02,WorldNpc09407" style="HLStype1">曹亦安</a>交谈
-next_22487=与<a href="findnpc_new,born02,WorldNpc09407" style="HLStype1">曹亦安</a>交谈
-next_22488=与<a href="findnpc_new,born02,WorldNpc09407" style="HLStype1">曹亦安</a>交谈
-next_22489=与<a href="findnpc_new,born02,WorldNpc09407" style="HLStype1">曹亦安</a>交谈
-next_22490=与<a href="findnpc_new,born02,WorldNpc09407" style="HLStype1">曹亦安</a>交谈
-next_22491=与<a href="findnpc_new,born02,WorldNpc09407" style="HLStype1">曹亦安</a>交谈
-next_22492=去找<a href="findnpc_new,born02,WorldNpc09401" style="HLStype1">云阳子</a>
-next_22493=与<a href="findnpc_new,born02,WorldNpc09401" style="HLStype1">云阳子</a>交谈
+next_22481=Talk with <a href="findnpc_new,born02,WorldNpc09401" style="HLStype1">Yun Yangzi</a>
+next_22483=Talk with <a href="findnpc_new,born02,WorldNpc09401" style="HLStype1">Yun Yangzi</a>
+next_22484=Talk to <a href="findnpc_new,born02,WorldNpc09407" style="HLStype1">Cao Yi'an</a>
+next_22485=Talk to <a href="findnpc_new,born02,WorldNpc09407" style="HLStype1">Cao Yi'an</a>
+next_22486=Talk to <a href="findnpc_new,born02,WorldNpc09407" style="HLStype1">Cao Yi'an</a>
+next_22487=Talk to <a href="findnpc_new,born02,WorldNpc09407" style="HLStype1">Cao Yi'an</a>
+next_22488=Talk to <a href="findnpc_new,born02,WorldNpc09407" style="HLStype1">Cao Yi'an</a>
+next_22489=Talk to <a href="findnpc_new,born02,WorldNpc09407" style="HLStype1">Cao Yi'an</a>
+next_22490=Talk to <a href="findnpc_new,born02,WorldNpc09407" style="HLStype1">Cao Yi'an</a>
+next_22491=Talk to <a href="findnpc_new,born02,WorldNpc09407" style="HLStype1">Cao Yi'an</a>
+next_22492=Go to find <a href="findnpc_new,born02,WorldNpc09401" style="HLStype1">Yun Yangzi</a>
+next_22493=Talk with <a href="findnpc_new,born02,WorldNpc09401" style="HLStype1">Yun Yangzi</a>
 next_22494=与<a href="findnpc_new,born02,WorldNpc09408" style="HLStype1">大别散人</a>交谈
 next_22495=与<a href="findnpc_new,born02,WorldNpc09408" style="HLStype1">大别散人</a>交谈
 next_22496=去找<a href="findnpc_new,born02,WorldNpc09408" style="HLStype1">大别散人</a>
@@ -222,12 +223,12 @@ next_22500=与<a href="findnpc_new,born02,WorldNpc09408" style="HLStype1">大别
 next_22501=与<a href="findnpc_new,born02,WorldNpc09408" style="HLStype1">大别散人</a>交谈
 next_22502=与<a href="findnpc_new,born02,WorldNpc09409" style="HLStype1">无为道长</a>交谈
 next_22503=与<a href="findnpc_new,born02,WorldNpc09408" style="HLStype1">大别散人</a>交谈
-next_22505=与<a href="findnpc_new,born02,WorldNpc09404" style="HLStype1">邵扬</a>交谈
+next_22505=Talk to <a href="findnpc_new,born02,WorldNpc09404" style="HLStype1">Shao Yang</a>
 next_22507=与<a href="findnpc_new,born02,WorldNpc09410" style="HLStype1">陆遇</a>交谈
-next_22510=与<a href="findnpc_new,born02,WorldNpc09404" style="HLStype1">邵扬</a>交谈
-next_22512=与<a href="findnpc_new,born02,WorldNpc09401" style="HLStype1">云阳子</a>交谈
-next_22513=与<a href="findnpc_new,born02,WorldNpc09401" style="HLStype1">云阳子</a>交谈
-next_22514=与<a href="findnpc_new,born02,WorldNpc09401" style="HLStype1">云阳子</a>交谈
+next_22510=Talk to <a href="findnpc_new,born02,WorldNpc09404" style="HLStype1">Shao Yang</a>
+next_22512=Talk with <a href="findnpc_new,born02,WorldNpc09401" style="HLStype1">Yun Yangzi</a>
+next_22513=Talk with <a href="findnpc_new,born02,WorldNpc09401" style="HLStype1">Yun Yangzi</a>
+next_22514=Talk with <a href="findnpc_new,born02,WorldNpc09401" style="HLStype1">Yun Yangzi</a>
 next_22516=与<a href="findnpc_new,born02,WorldNpc09402" style="HLStype1">孤尘子</a>交谈
 next_22517=与<a href="findnpc_new,born02,WorldNpc09402" style="HLStype1">孤尘子</a>交谈
 next_22518=与<a href="findnpc_new,born02,WorldNpc09411" style="HLStype1">郭福</a>交谈
@@ -235,8 +236,8 @@ next_22520=与<a href="findnpc_new,born02,WorldNpc09412" style="HLStype1">何彪
 next_22522=与<a href="findnpc_new,born02,WorldNpc09412" style="HLStype1">何彪</a>交谈
 next_22523=与<a href="findnpc_new,born02,WorldNpc09412" style="HLStype1">何彪</a>交谈
 next_22524=去找<a href="findnpc_new,born02,WorldNpc09411" style="HLStype1">郭福</a>
-next_22525=去找<a href="findnpc_new,born02,WorldNpc09401" style="HLStype1">云阳子</a>
-next_22528=与<a href="findnpc_new,born02,WorldNpc09407" style="HLStype1">曹亦安</a>交谈
+next_22525=Go to find <a href="findnpc_new,born02,WorldNpc09401" style="HLStype1">Yun Yangzi</a>
+next_22528=Talk to <a href="findnpc_new,born02,WorldNpc09407" style="HLStype1">Cao Yi'an</a>
 target_22481=前往恶人谷昆仑山。
 target_22483=对云阳子讲述自己的境况
 target_22484=去后山找曹亦安。
@@ -267,7 +268,6 @@ target_22517=孤尘子已有解冰蚕之毒的妙法，听他道来。
 target_22518=下山找人询问火毒物的下落。
 target_22520=按郭福所说教训那帮强盗。
 target_22522=质问这个强盗头目何彪。
-target_22523=去前面教训那帮星宿派弟子。
 target_22524=强盗的事已解决，回去找郭福。
 target_22525=到火毒物经常出没的地方放火引其出现。
 target_22528=与曹亦安道别。
@@ -286,14 +286,14 @@ title_22493=旭日神丸
 title_22494=不识故人
 title_22495=不识故人
 title_22496=不识故人
-title_22500=良药苦口
+title_22500=Good Medicine Is Bitter
 title_22501=大干一场
 title_22502=再试武功
 title_22503=再试武功
-title_22505=家传玉佩
-title_22507=家传玉佩
-title_22510=家传玉佩
-title_22512=家传玉佩
+title_22505=Family Jade Plate
+title_22507=Family Jade Plate
+title_22510=Family Jade Plate
+title_22512=Family Jade Plate
 title_22513=事发突然
 title_22514=事发突然
 title_22516=冰蚕之毒
@@ -304,5 +304,5 @@ title_22522=相生相克
 title_22523=相生相克
 title_22524=改邪归正
 title_22525=放火烧山
-title_22528=前往洛阳
+title_22528=Healing in Luoyang
 

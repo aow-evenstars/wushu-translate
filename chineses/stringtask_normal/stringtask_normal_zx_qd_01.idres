@@ -304,7 +304,7 @@ target_24048=Go back to Master Hai after you gain an achievement on inner skills
 task_trackinfo_24001=<a href="findnpc_new,born04,WorldNpc00009" style="HLStype1">Chase</a> the Mysterious Person.
 task_trackinfo_24002=Catch The Mysterious Person
 task_trackinfo_24003=Ask <a href="findnpc_new,born04,WorldNpc00002" style="HLStype1">Lan</a>.
-task_trackinfo_24005=<s>
+task_trackinfo_24005=<s>Sit on the mat to meditate.
 task_trackinfo_24009=Talk with the <a href="findnpc_new,born04,WorldNpc00004" style="HLStype1"> Martial Arts School Elder Brother</a>
 task_trackinfo_24010=Go to consult <a href="findnpc_new,born04,WorldNpc00003" style="HLStype1">Hunter Zhang</a>.
 task_trackinfo_24012=<s>Consult the <a href="findnpc_new,born04,FuncNpc00012" style="HLStype1">Doctcor</a>.
@@ -786,4 +786,38 @@ title_24100=Death of the hunter
 title_24102=Death of the shaman
 title_24103=Skin Painter
 title_24104=Eerie calm
+CanAcceptMenu_24190=在下还要去和浣花山庄解释，姑娘多保重
+CompleteMenu_24191=在下受浣花山庄梁二侠之托，请大人暂时不要发出请命文书
+CompleteMenu_24296=军爷，在下查到那些人乃西山古墓弟子。
+CompleteMenu_25214=浣花山庄就是这样以礼待人的吗？
+complete_24296=<s>真是西山古墓？这门派有点邪，不好惹啊,不过此仇不报非君子！
+complete_25212=<s>哼，你这人，三番五次坏我浣花山庄之事，现在居然还想要开棺验尸！你实在是太过分了！
+context_24149=　　唉，刚才有一群浣花山庄的人，他们抓了一个妇女朝梨花寨去了，不知道他们究竟想做些什么。
+context_24201=　　唉，好吧，我同意开棺验尸。不久前我们把修华的棺木安置到二仙庵由静慧师太看管了。若是你验不出个所以然来，那就任凭我浣花山庄处置，你可愿意？
+context_24220=<s>那，那女子…啊！她，她就是那个盗扇子的人，我记起来了，她也是浣花山庄的弟子，就是她！
+context_24236=<s>少侠可否代我前去通知捕头荀业，让他去浣花山庄将此事前因后果转告峨眉！本官希望他们可以早些防范，哎，我已无颜去见他们……
+context_25212=<s>浣花山庄初级弟子好像对我很不满。
+context_25213=<s>浣花山庄大弟子似乎对我很是不满。
+context_25215=<s>浣花山庄掌门似乎有了松口的迹象。
+menu_24199=在下愿去浣花山庄一试
+next_24199=<s><a href="findnpc_new,city05,WorldNpc09804" style="HLStype1">浣花山庄初级弟子</a>好像对我很不满……
+next_24200=<s><a href="findnpc_new,city05,WorldNpc09803" style="HLStype1">浣花山庄大弟子</a>好像也想和我比试……
+next_24208=<s>问问<a href="findnpc_new,city05,WorldNpc09801" style="HLStype1">浣花山庄掌门</a>是否认识这荷包……
+next_24209=<s>继续追问<a href="findnpc_new,city05,WorldNpc09803" style="HLStype1">浣花山庄大弟子</a>荷包一事……
+next_24210=<s>继续追问<a href="findnpc_new,city05,WorldNpc09803" style="HLStype1">浣花山庄大弟子</a>……
+next_24217=<s>询问<a href="findnpc_new,city05,WorldNpc09805" style="HLStype1">浣花山庄兵器库看守弟子</a>为何吞吞吐吐……
+target_24149=　　去找抓走妇女的浣花山庄之人。
+target_24190=<s>去找正赶往霓裳宫的浣花山庄弟子解释
+target_24191=<s>去找浣花山庄二侠代霓裳宫解释
+target_24199=<s>去浣花山庄，请求浣花山庄掌门开棺验尸
+target_24208=<s>将调查结果汇报给浣花山庄掌门
+target_25212=<s>询问浣花山庄初级弟子……
+target_25213=<s>向浣花山庄大弟子解释自己并无恶意……
+target_25215=<s>询问浣花山庄掌门……
+task_TrackInfo_24149=询问<a href="findnpc_new,scene05,WorldNpc06103" style="HLStype1">浣花山庄门人</a>
+task_TrackInfo_24199=请求<a href="findnpc_new,city05,WorldNpc09801" style="HLStype1">浣花山庄掌门</a>开棺验尸
+task_TrackInfo_24208=汇报给<a href="findnpc_new,city05,WorldNpc09801" style="HLStype1">浣花山庄掌门</a>
+task_TrackInfo_25212=与<a href="findnpc_new,city05,WorldNpc09804" style="HLStype1">浣花山庄初级弟子</a>交谈
+task_TrackInfo_25213=与<a href="findnpc_new,city05,WorldNpc09803" style="HLStype1">浣花山庄大弟子</a>交谈
+task_TrackInfo_25215=与<a href="findnpc_new,city05,WorldNpc09801" style="HLStype1">浣花山庄掌门</a>交谈
 

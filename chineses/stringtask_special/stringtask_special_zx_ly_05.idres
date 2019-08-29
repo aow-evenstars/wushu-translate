@@ -1,4 +1,10 @@
 ﻿
+DialogID_13115=可以，我派燕白楼去协助你。
+DialogID_13117=燕白楼来了？太好了，可是我被这铁链锁着，钥匙在齐元身上，你想想办法啊。
+convoyinfo_13102=带燕晴雪到<a href="findnpc,city04,-9,0,235" style="HLStype1">燕白楼</a>身边
+interactinfo_13116=与<a href="findnpc_new,city04,ly010" style="HLStype1">燕白楼</a>交谈
+interactinfo_13118=与<a href="findnpc_new,city04,ly010" style="HLStype1">燕白楼</a>交谈
+okmenu_13117=我去找燕白楼商量
 DialogID_13101=阿弥陀佛，是玄怀大师让你来的吧，正好寺外有位姑娘似乎遇到麻烦了，你替我去看看吧。
 DialogID_13102=找到我的包裹了么？
 DialogID_13103=呜呜~救救我……
@@ -13,9 +19,7 @@ DialogID_13111=这样吧，你拿上我的玉佩，带给燕门世家，你可�
 DialogID_13112=阁下何人，来我燕门世家有何贵干？
 DialogID_13113=你……你怎么会在这里。
 DialogID_13114=求求你放过我吧，我再也不敢了。
-DialogID_13115=可以，我派燕白楼去协助你。
 DialogID_13116=你终于来了，这个寨子很大，怎么办？
-DialogID_13117=燕白楼来了？太好了，可是我被这铁链锁着，钥匙在齐元身上，你想想办法啊。
 DialogID_13118=我给你一包特制软筋散，你对齐元使用，必然可以偷盗钥匙。
 DialogID_13119=我给我给……没想到你这么快就窝里反。
 DialogID_13120=（这里有一个干柴堆）。
@@ -39,7 +43,6 @@ collectinfo_13102=收集<a href="findnpc_new,city04,Gather0002hw" style="HLStype
 collectinfo_13103=收集<a href="findnpc_new,city04,Gather0005hw" style="HLStype1">一块抹布</a>
 collectinfo_13104=收集<a href="findnpc_new,city04,Gather0003hw" style="HLStype1">粮食</a>
 convoyinfo_13101=带冬雪到<a href="findnpc,city04,55,0,474" style="HLStype1">杜惠</a>身边
-convoyinfo_13102=带燕晴雪到<a href="findnpc,city04,-9,0,235" style="HLStype1">燕白楼</a>身边
 hunterinfo_13101=击败<a href="findnpc_new,city04,monrc047600" style="HLStype1">抱犊寨守卫</a>
 hunterinfo_13102=击败<a href="findnpc_new,city04,ly004" style="HLStype1">王龙</a>
 hunterinfo_13103=与<a href="findnpc_new,city04,ly005" style="HLStype1">齐元</a>交手
@@ -49,7 +52,7 @@ hunterinfo_13106=击败<a href="findnpc_new,city04,WorldNpc10054" style="HLStype
 hunterinfo_13107=击败<a href="findnpc_new,city04,ly006" style="HLStype1">马疾风</a>
 hunterinfo_13108=击败<a href="findnpc_new,city04,monrc047700" style="HLStype1">抱犊寨打手</a>
 hunterinfo_13109=击败<a href="findnpc_new,city04,monrc047612" style="HLStype1">抱犊寨守卫</a>
-interactinfo_13101=与<a href="findnpc_new,city04,WorldNpc10004" style="HLStype1">梦师</a>交谈
+interactinfo_13101=Talk with <a href="findnpc_new,city04,WorldNpc10004" style="HLStype1">Dream Master</a>.
 interactinfo_13102=与<a href="findnpc_new,city04,ly001" style="HLStype1">江彩琳</a>交谈
 interactinfo_13103=与<a href="findnpc_new,city04,ly003" style="HLStype1">东雪</a>交谈
 interactinfo_13104=与<a href="findnpc_new,city04,ly005" style="HLStype1">齐元</a>交谈
@@ -60,26 +63,24 @@ interactinfo_13108=与<a href="findnpc_new,city04,ly007" style="HLStype1">吴易
 interactinfo_13109=与<a href="findnpc_new,city04,ly006" style="HLStype1">马疾风</a>交谈
 interactinfo_13110=与<a href="findnpc_new,city04,ly008" style="HLStype1">隐风</a>交谈
 interactinfo_13111=与<a href="findnpc_new,city04,ly009" style="HLStype1">燕晴雪</a>交谈
-interactinfo_13112=与<a href="findnpc_new,city04,WorldNpc10027" style="HLStype1">燕百苦</a>交谈
+interactinfo_13112=Talk to <a href="findnpc_new,city04,WorldNpc10027" style="HLStype1">Yan Baiku</a>
 interactinfo_13113=与<a href="findnpc_new,city04,WorldNpc10054" style="HLStype1">燕晴雪</a>交谈
 interactinfo_13114=与<a href="findnpc_new,city04,WorldNpc10054" style="HLStype1">燕晴雪</a>交谈
-interactinfo_13115=与<a href="findnpc_new,city04,WorldNpc10027" style="HLStype1">燕百苦</a>交谈
-interactinfo_13116=与<a href="findnpc_new,city04,ly010" style="HLStype1">燕白楼</a>交谈
+interactinfo_13115=Talk to <a href="findnpc_new,city04,WorldNpc10027" style="HLStype1">Yan Baiku</a>
 interactinfo_13117=与<a href="findnpc_new,city04,ly009" style="HLStype1">燕晴雪</a>交谈
-interactinfo_13118=与<a href="findnpc_new,city04,ly010" style="HLStype1">燕白楼</a>交谈
 interactinfo_13119=与<a href="findnpc_new,city04,ly006" style="HLStype1">马疾风</a>交谈
 interactinfo_13120=去<a href="findnpc_new,city04,Gather0004hw" style="HLStype1">放火点</a>点燃干柴堆
-interactinfo_13121=与<a href="findnpc_new,city04,WorldNpc10592" style="HLStype1">燕晴雪</a>交谈
-interactinfo_13122=与<a href="findnpc_new,city04,WorldNpc10592" style="HLStype1">燕晴雪</a>交谈
+interactinfo_13121=Talk to <a href="findnpc_new,city04,WorldNpc10592" style="HLStype1">Yan Qingxue</a>
+interactinfo_13122=Talk to <a href="findnpc_new,city04,WorldNpc10592" style="HLStype1">Yan Qingxue</a>
 interactinfo_13123=与<a href="findnpc_new,city04,ly011" style="HLStype1">清善</a>交谈
-okmenu_13101=好的
+okmenu_13101=Okay.
 okmenu_13102=我拿回来了。
 okmenu_13103=别怕我立刻来救你
 okmenu_13104=我正有此意
-okmenu_13105=是
+okmenu_13105=Yes
 okmenu_13106=我马上回去
 okmenu_13107=我只有这块抹布了，婆婆你先替我保管吧
-okmenu_13108=快滚！
+okmenu_13108=You don't belong here.
 okmenu_13109=哦，这样啊，我现在就去燕门世家
 okmenu_13110=多谢师父
 okmenu_13111=好的，事不宜迟我这就动身
@@ -88,18 +89,17 @@ okmenu_13113=你在干什么？偷东西么
 okmenu_13114=现在没功夫管你，既然你是假的，那个就是真的
 okmenu_13115=好的，立即动身
 okmenu_13116=我知道关燕晴雪的地方
-okmenu_13117=我去找燕白楼商量
 okmenu_13118=好主意
 okmenu_13119=早就看你不顺眼了
 okmenu_13120=点燃干柴堆
 okmenu_13121=哪里哪里，不客气
-okmenu_13122=恭敬不如从命
+okmenu_13122=Obedience is better than politeness.
 okmenu_13123=又去喝酒去了吧
 story_13101_1=你别嚣张，你遇到我们老大，你就死定了。
 story_13101_2=我老大叫齐元，有本事你去找他说理去。
 story_13102_1=刚刚切磋的时候你已经中了我秘制的毒药，从今往后，如果你不听命于我，就会毒发身亡，怎么样？现在有没有点想加入抱犊寨了？
 story_13103_1=你的身份不可泄露，会给自己带来麻烦。我替谷主单天冥来传话，说几日后武林将有大事发生，武林正道齐聚烟雨庄，你过几日便去打探消息吧，你武功差，不会被人怀疑。
-story_13103_2=怎么了？
+story_13103_2=What's wrong?
 story_13104_1=玉佩为什么会在你身上？
 story_13104_2=最近几天她身体不太好，不太想说话，但是我每天都照顾小姐。
 story_13105_1=一派胡言，雪儿一直在家中，从未外出，怎么会被绑架。
@@ -108,7 +108,7 @@ story_13105_3=被你这么一说，仔细想来最近雪儿的行为有些古怪
 story_13106_1=唉，就知道不可能一直瞒下去。
 story_13106_2=那天我看到燕晴雪被抱犊寨抓走，燕门的人都不知道，心想自己可以假扮燕晴雪，或许在燕门能找到不少宝贝。
 story_menu_13101=剿灭抱犊
-story_menu_13102=秘制毒药
+story_menu_13102=Secretive Poison
 story_menu_13103=遇见师傅
 story_menu_13104=前往燕门
 story_menu_13105=两个小姐
@@ -117,10 +117,10 @@ storyinfo_13101=与<a href="findnpc_new,city04,ly004" style="HLStype1">王龙</a
 storyinfo_13102=与<a href="findnpc_new,city04,ly005" style="HLStype1">齐元</a>交谈
 storyinfo_13103=听<a href="findnpc_new,city04,ly008" style="HLStype1">隐风</a>诉说
 storyinfo_13104=听<a href="findnpc_new,city04,WorldNpc10599" style="HLStype1">玉燕子</a>诉说
-storyinfo_13105=与<a href="findnpc_new,city04,WorldNpc10027" style="HLStype1">燕百苦</a>交谈
+storyinfo_13105=Talk to <a href="findnpc_new,city04,WorldNpc10027" style="HLStype1">Yan Baiku</a>
 storyinfo_13106=与<a href="findnpc_new,city04,WorldNpc10054" style="HLStype1">燕晴雪</a>交谈
 storymenu_13101_1=是么，我到想见识见识
-storymenu_13101_2=好，我这就去
+storymenu_13101_2=Consider it done.
 storymenu_13102_1=（可恶，没办法了先答应下来）
 storymenu_13103_1=可是我现在性命不保啊
 storymenu_13103_2=我中了毒，小命攥在别人手里呢。

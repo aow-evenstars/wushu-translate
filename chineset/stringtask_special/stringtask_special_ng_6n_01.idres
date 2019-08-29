@@ -641,4 +641,89 @@ questioninfo_71015=方丈也真會出難題，寺中都知道<a href="findnpc_ne
 questioninfo_71016=<a href="findnpc_new,school08,WorldNpc00210" style="HLStype1">祖鏡禪師</a>負責戒律院的一切事物。想必知識非常淵博。
 SubmitNpcEx_61040=前往各大主城錢莊的節日活動大使林梁處領取獎勵
 interactinfo_61043=<font face="Default" color="#EE2C2C" >打入晴瑤宮[普通]，尋找明時月.</font>（在禁地晴瑤宮1360，180或許能找到些線索）
+DialogID_71061=<font face="Default" color="#ffffff" >快！快...救救我家老爺！</font>
+DialogID_71064=<font face="Default" color="#ffffff" >喂、喂...小聲點！前些日子來了一個自稱九宮前輩故人的神秘男子。我持他的信物給九宮前輩，九宮前輩竟真與此人相識。便是此人傷了九宮前輩！現在你速速去幫九宮前輩採藥吧！</font>
+DialogID_71069=<font face="Default" color="#ffffff" >我們不知此山洞是否另有出口，也不知此人與九宮前輩誰先痊癒。唯有趁此機會擊敗他！我此處有一顆藥丸，只要服食它，一般的毒藥便奈不得你分毫！不知你可否信我？</font>
+SubmitNpcEx_71083=<a href="findnpc_new,born04,NPC_qynew_dy_01" style="HLStype1">九宮老人</a>
+SubmitNpcEx_71086=聽<a href="findnpc_new,city02,NPC_qynew_dy_22" style="HLStype1">九宮老人</a>講訴事情的來龍去脈
+collectinfo_71006=看看這些人有沒有留下什麼<a href="findnpc,born04,955,30,916" style="HLStype1">線索</a>
+collectinfo_71007=看來地圖指引的地方就在前面了，進入<a href="findnpc_new,born04,PlotDoor_qynew_dy_02" style="HLStype1">水府洞天</a>中奪回秦家的東西
+collectinfo_71008=拾取秦家<a href="findnpc,born04,673,-35,1038" style="HLStype1">牌位</a>
+collectinfo_71009=收集<a href="findnpc_new,city02,Gather_qynew_dy_03" style="HLStype1">天香草</a>
+collectinfo_71010=收集<a href="findnpc_new,city02,Gather_qynew_dy_04" style="HLStype1">蛇蠍草</a>
+collectinfo_71011=收集<a href="findnpc_new,city02,Gather_qynew_dy_05" style="HLStype1">丁香蘭</a>
+collectinfo_71012=進入<a href="findnpc,city02,1246,9,493" style="HLStype1">山洞</a>擊殺<a href="findnpc,adv032,209,11,432" style="HLStype1">神秘人</a>，拿到解藥
+hunterinfo_71039=這幫<a href="findnpc_new,born04,NPC_qynew_dy_07" style="HLStype1">匪人</a>，竟然對手無寸鐵只之人下手！
+hunterinfo_71040=趕走<a href="findnpc_new,born04,NPC_qynew_dy_02" style="HLStype1">匪人</a>
+hunterinfo_71041=前方似有<a href="findnpc_new,,NPC_qynew_dy_15" style="HLStype1">機關人</a>的動靜，擊敗（進入水府洞天）
+hunterinfo_71042=擊敗<a href="findnpc_new,,NPC_qynew_dy_21" style="HLStype1">NPC_qynew_dy_21</a>
+interactinfo_71059=前往千燈鎮，找到信中所說的<a href="findnpc_new,born04,Eventnpc_qynew_dy_01" style="HLStype1">地點</a>
+interactinfo_71060=前往<a href="findnpc_new,born04,Eventnpc_qynew_dy_02" style="HLStype1">翠島</a>
+interactinfo_71061=詢問受傷的<a href="findnpc_new,born04,NPC_qynew_dy_11" style="HLStype1">僕人</a>
+interactinfo_71062=追蹤崔傑英逃跑的<a href="findnpc_new,born04,Eventnpc_qynew_dy_03" style="HLStype1">痕跡</a>，奪回牌位
+interactinfo_71063=莫不是秘籍就藏在這個<a href="findnpc_new,,NPC_qynew_dy_16" style="HLStype1">箱子</a>裡面，打開看看（進入<a href="findnpc_new,born04,PlotDoor_qynew_dy_02" style="HLStype1">水府洞天</a>）
+interactinfo_71064=與<a href="findnpc_new,city02,NPC_qynew_dy_20" style="HLStype1">藥童</a>交談
+interactinfo_71065=追尋<a href="findnpc_new,city02,Eventnpc_qynew_dy_04" style="HLStype1">神秘人留下的痕跡</a>
+interactinfo_71066=追尋<a href="findnpc_new,city02,Eventnpc_qynew_dy_05" style="HLStype1">神秘人留下的痕跡</a>
+interactinfo_71067=追尋<a href="findnpc_new,city02,Eventnpc_qynew_dy_06" style="HLStype1">神秘人留下的痕跡</a>
+interactinfo_71068=與<a href="findnpc_new,,Eventnpc_qynew_dy_07" style="HLStype1">Eventnpc_qynew_dy_07</a>交談
+interactinfo_71069=與<a href="findnpc_new,city02,NPC_qynew_dy_20" style="HLStype1">藥童</a>商量如何處理
+interactinfo_71070=牌位上的紋理好像一副地圖，前往地圖指引的<a href="findnpc_new,born04,Eventnpc_qynew_dy_08" style="HLStype1">地點</a>奪回秦家的東西
+okmenu_71061=<font face="Default" color="#ffffff" >堅持住！</font>
+okmenu_71064=<font face="Default" color="#ffffff" >居然還有此等人物！我這便去！</font>
+okmenu_71069=<font face="Default" color="#ffffff" >在下還沒怕過什麼，交給我把！</font>
+story_61024_1=<font face="Default" color="#ffffff" >多謝少俠出手相助！若不是你及時出現老朽恐怕已經...</font>
+story_61024_2=<font face="Default" color="#ffffff" >此事說來奇怪，老崔本是我老秦家的家僕。相處了十幾年本以為是個老實厚道的人，沒想到竟是位武林高手！真是真人不露相啊！</font>
+story_61024_3=<font face="Default" color="#ffffff" >是是，這老崔說我家藏有九宮老人的武學秘籍，威逼我們交出來！雖說我家祖上與九宮前輩有些淵源，但九宮前輩也不會將秘籍交給我們保管是不是？</font>
+story_61024_4=<font face="Default" color="#ffffff" >老崔在我家呆了這麼多年，本該清楚。若是我等藏有武學秘籍早成江湖高手了，怎還會受他的欺辱。少俠，老崔他搶了我家祖上的牌位，懇請少俠能將它奪回。</font>
+story_61025_1=<font face="Default" color="#ffffff" >{@0:}？我本在洛陽遊歷，耳聞千燈鎮有絕世秘籍現世便已猜到是什麼事情。</font><font face="Default" color="#ffffff" >以你的能力，想必你已經解決了老秦家的是吧。</font>
+story_61025_2=<font face="Default" color="#ffffff" >此事說來話長！五十年前，我還是個愣小子。無意間幫助了一位前輩高人，他說我是塊練武的材料便將生平所學盡數傳授與我。不過至此我還不知這位前輩的名號！</font>
+story_61025_3=<font face="Default" color="#ffffff" >江湖眾人皆以為我乃武學奇才，年紀輕輕便能自創武功，其實</font><font face="Default" color="#ffffff" >老朽</font><font face="Default" color="#ffffff" >不過是拾人牙慧。前輩教授我一年武學後便悄然離去，只不過留了一封書信與我，托我照顧他的後人，便是老秦家！而這本秘籍便是前輩留下的東西。</font>
+story_61025_4=<font face="Default" color="#ffffff" >這也是前輩的意思，他希望的他的後人可以遠離江湖享受平靜的生活。</font>
+story_61026_1=<font face="Default" color="#ffffff" >老崔這又是何苦，</font><font face="Default" color="#ffffff" >享受田園生活難道不好嗎？我老秦家待他可不薄啊！</font>
+story_61026_2=<font face="Default" color="#ffffff" >老朽一介布衣不懂這功夫的事，既然它與九宮前輩有關。還望小友將他物歸原主，交予九宮前輩處理。</font>
+story_61027_1=<font face="Default" color="#ffffff" >{@0:}你來的正好，此事只能你</font><font face="Default" color="#ffffff" >知</font><font face="Default" color="#ffffff" >我</font><font face="Default" color="#ffffff" >知</font><font face="Default" color="#ffffff" >！若你不能答應我，那便速速離去吧！</font>
+story_61027_2=<font face="Default" color="#ffffff" >此時說來話長，九宮前輩受傷了！</font>
+story_61027_3=<font face="Default" color="#ffffff" >喂、喂...小聲點！前些日子來了一個自稱九宮前輩故人的神秘男子。我持他的信物給九宮前輩，九宮前輩竟真與此人相識。便是此人傷了九宮前輩！現在你速速去幫九宮前輩採藥吧！</font>
+story_61028_1=<font face="Default" color="#ffffff" >神秘人若只用尋常刀劍必然傷不了九宮前輩分毫，他是個用毒的高手。此刻這些藥材只能暫時壓制九宮前輩身上的劇毒。</font>
+story_61028_2=<font face="Default" color="#ffffff" >此人重傷</font><font face="Default" color="#ffffff" >必</font><font face="Default" color="#ffffff" >不能逃的太遠，你這便去尋他的蹤跡。尋到他之後回來找我，切勿冒進！</font>
+story_61029_1=<font face="Default" color="#ffffff" >此人果然不好對付！</font>
+story_61030_1=<font face="Default" color="#ffffff" >多謝小友關心，暫無大礙，只不過不過餘毒未了。</font>
+story_61030_2=<font face="Default" color="#ffffff" >勞小友費心，不知你們口中的神秘人眼下身在何處？</font>
+story_61030_3=
+story_menu_61024=<font face="Default" color="#ffffff" >先生？你們傷的怎麼樣？！</font>
+story_menu_61025=<font face="Default" color="#ffffff" >九宮前輩！？沒想到你也到了千燈鎮！</font><font face="Default" color="#ffffff" >秦老爺子他...</font>
+story_menu_61026=<font face="Default" color="#ffffff" >秦老爺子</font><font face="Default" color="#ffffff" >，</font><font face="Default" color="#ffffff" >東西幫你搶回來了</font><font face="Default" color="#ffffff" >！沒想到這千燈鎮竟有一處人間仙境，號「水府洞天」！那秘籍就藏在洞中，還好我有防備不然這秘籍就被姓崔的搶了去！</font>
+story_menu_61027=<font face="Default" color="#ffffff" >何事讓你如此謹慎？！</font>
+story_menu_61028=<font face="Default" color="#ffffff" >草藥我都採回來了。九宮前輩內功深厚，一般的傷勢早該痊癒，為何此次？</font>
+story_menu_61029=<font face="Default" color="#ffffff" >我發現了神秘人藏身的山洞，只不過洞中似被佈置毒物。我一靠近便覺難以呼吸。</font>
+story_menu_61030=<font face="Default" color="#ffffff" >啊？！九宮前輩，你已經痊癒了嗎？！</font>
+storyinfo_61024=詢問<a href="findnpc_new,born04,NPC_qynew_dy_03" style="HLStype1">老伯</a>發生了什麼
+storyinfo_61025=將秘籍交給<a href="findnpc_new,born04,NPC_qynew_dy_01" style="HLStype1">九宮老人</a>，讓九宮前輩處理(高人總會出現在你意想不到的地方)
+storyinfo_61026=將秘籍交給<a href="findnpc_new,born04,NPC_qynew_dy_17" style="HLStype1">秦明</a>，讓他處理
+storyinfo_61027=詢問<a href="findnpc_new,city02,NPC_qynew_dy_20" style="HLStype1">藥童</a>到底發生了什麼
+storyinfo_61028=將草藥交給<a href="findnpc_new,city02,NPC_qynew_dy_20" style="HLStype1">藥童</a>
+storyinfo_61029=前方似乎有個山洞，還是回去和<a href="findnpc_new,city02,NPC_qynew_dy_20" style="HLStype1">藥童</a>商量了在做打算
+storyinfo_61030=將解藥交給<a href="findnpc_new,city02,NPC_qynew_dy_22" style="HLStype1">九宮老人</a>
+storymenu_61024_1=<font face="Default" color="#ffffff" >不知這幫匪人加害於你所為何事？</font>
+storymenu_61024_2=<font face="Default" color="#ffffff" >都這個時候了，就不要在感歎了！</font>
+storymenu_61024_3=<font face="Default" color="#ffffff" >哦？此時還與九宮前輩有關？！</font>
+storymenu_61024_4=<font face="Default" color="#ffffff" >他搶你家祖上牌位作甚？若不是秘密就藏在牌位之中？！</font>
+storymenu_61025_1=<font face="Default" color="#ffffff" >前輩過獎，晚輩不過略盡綿力！九宮前輩，秦老爺子的意思是將這秘籍交換於你。</font><font face="Default" color="#ffffff" >只是不知這秘籍為何會藏於「水府洞天」之中？</font>
+storymenu_61025_2=<font face="Default" color="#ffffff" >竟然還有九宮前輩不知道名號的人物？！難道江湖中也沒人認得您一生所學嗎？</font>
+storymenu_61025_3=<font face="Default" color="#ffffff" >那為何前輩不教秦老爺子功夫，而且將這秘籍藏於山洞之中。</font>
+storymenu_61025_4=<font face="Default" color="#ffffff" >原來如此！</font>
+storymenu_61026_1=<font face="Default" color="#ffffff" >人各有志！他願意如此就隨他去吧。不知這秘籍秦老爺子要如何處理？</font>
+storymenu_61026_2=<font face="Default" color="#ffffff" >如此也好，我這便去！</font>
+storymenu_61027_1=<font face="Default" color="#ffffff" >我還從來沒怕過什麼，我答應你。你說吧！</font>
+storymenu_61027_2=<font face="Default" color="#ffffff" >什麼？！九宮...</font>
+storymenu_61027_3=<font face="Default" color="#ffffff" >居然還有此等人物！我這便去！</font>
+storymenu_61028_1=<font face="Default" color="#ffffff" >沒想到此人居然是個用毒的高手！</font>
+storymenu_61028_2=<font face="Default" color="#ffffff" >我這便去！</font>
+storymenu_61029_1=<font face="Default" color="#ffffff" >倘若如此便只能埋伏在洞口等他出來了！</font>
+storymenu_61030_1=<font face="Default" color="#ffffff" >我已經拿到了解藥，還請前輩速速服用！</font>
+storymenu_61030_2=<font face="Default" color="#ffffff" >稟前輩，此人在與我比鬥之時傷勢復發，此刻已身亡。洞中毒物瀰漫，我怕傷及無辜便放了把火，將他火葬了。晚輩斗膽一問，這神秘人是何來歷，竟能</font><font face="Default" color="#ffffff" >傷</font><font face="Default" color="#ffffff" >了前輩您！</font>
+useiteminfo_61002=查看<a href="TASK_ITEM,useitem_qynew_dy_02" style="HLStype1">線索</a>
+useiteminfo_61003=秦家牌位似乎是中空的，雖有不敬不過還是<a href="TASK_ITEM,useitem_qynew_dy_04" style="HLStype1">打開</a>瞧瞧
+useiteminfo_61004=使用<a href="TASK_ITEM,useitem_qynew_dy_05" style="HLStype1">解藥</a>後進入山洞
 
