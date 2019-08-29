@@ -1,0 +1,100 @@
+﻿
+DialogID_55800=真应该替村民感谢你，这下他们安全多了。不过据说毒蜘蛛是化仙部族放的，你去看看。
+DialogID_55801=不好他们要抢我的玉佩，救我！  
+DialogID_55802=你是李春山的徒弟吗？你让他帮我把这个雕花木钉墙上去吧！
+DialogID_55803=你杀死他们了吧，听说他们的头目是莲姑子去杀了莲姑子。
+DialogID_55804=我们的身份玉佩被蒙面侠客偷走了帮我们去杀了他把玉佩抢回来。
+DialogID_55805=你来的正好去,路上都是些毒虫，你去清理一下道路。
+DialogID_55806=你办的不错不过山上那些机关木人我看了甚是不舒服，去灭了他们。
+DialogID_55807=姜翁让我给弄些蛇胆，我还没给弄到，你去弄一些吧，其实我很害怕蛇的。
+DialogID_55808=你帮我带话给斯图耶琪，告诉她出行的时候一定要小心。
+DialogID_55809=没想到你竟然一点都没伤到，真是英雄出少年啊！
+DialogID_55810=太好了，你再帮我去杀几头仙山野狼拿点儿狼肉。
+DialogID_55811=我这里有几件东西你知道它的用途吗？
+DialogID_55812=太感谢你了，我们终于可以过上安逸的生活了。
+DialogID_55813=太谢谢你了，我这人非常仗义，不想欠别人人情，你要是有事尽管开口。
+DialogID_55814=你真是好人，你这个朋友我交定了，给你酒来我们不醉不休。
+DialogID_55815=我想你应该去教训下他！
+DialogID_55816=怎么多木材肯定够了，你帮我去问问秦桑南这样补她满意吗？
+DialogID_55817=谢谢你了，把这封信带给姜墨仙，告诉他我现在很安全。
+ZZAnswerText1_3641=一种药物从火中提炼而出
+ZZAnswerText2_3641=不就是炸药吗
+ZZAnswerText3_3641=治疗上火的药物
+collectinfo_55800=收集<a href="findnpc_new,scene02,Gather00123m" style="HLStype1">玉佩</a>
+collectinfo_55801=收集<a href="findnpc_new,scene02,Gather00124m" style="HLStype1">木材</a>
+collectinfo_55802=从<a href="findnpc_new,scene02,monf022201" style="HLStype1">蒙面侠客</a>身上收集玉佩
+collectinfo_55808=从<a href="findnpc_new,scene02,monf022102" style="HLStype1">翠竹毒蛇</a>身上收集蛇胆
+collectinfo_55809=从<a href="findnpc_new,scene02,monf022205" style="HLStype1">仙山麋鹿</a>身上收集鹿角
+collectinfo_55810=从<a href="findnpc_new,scene02,monf022207" style="HLStype1">仙山恐狼</a>身上获得狼肉
+collectinfo_55811=收集<a href="findnpc_new,scene02,Gather00125m" style="HLStype1">蘑菇</a>
+collectinfo_55812=从<a href="findnpc_new,scene02,monrf020628" style="HLStype1">毒蝎子</a>身上收集尾针
+collectinfo_55813=收集<a href="findnpc_new,scene02,Gather00126m" style="HLStype1">野果</a>
+convoyinfo_55800=带李君楠去<a href="findnpc,scene02,-179,,574" style="HLStype1">这里</a>
+convoyinfo_55802=带南宫清去<a href="findnpc,scene02,19,351,,128" style="HLStype1">这里</a>
+convoyinfo_55803=逃出<a href="findnpc,scene02,19,-123,,-73" style="HLStype1">这里</a>
+hunterinfo_55800=清除<a href="findnpc_new,scene02,monrf020627" style="HLStype1">毒蜘蛛</a>
+hunterinfo_55801=杀死<a href="findnpc_new,scene02,monrf020616" style="HLStype1">化仙部族</a>
+hunterinfo_55802=击败<a href="findnpc_new,scene02,monrf020617" style="HLStype1">掠夺者</a>
+hunterinfo_55803=击败<a href="findnpc_new,scene02,npcp1022100" style="HLStype1">逍遥公子</a>
+hunterinfo_55804=击败<a href="findnpc_new,scene02,npcp1022101" style="HLStype1">莲姑子</a>
+hunterinfo_55805=击败<a href="findnpc_new,scene02,monf022200" style="HLStype1">仙居高手</a>
+hunterinfo_55806=消灭<a href="findnpc_new,scene02,monf022103" style="HLStype1">翠林毒蝎</a>
+hunterinfo_55807=消灭<a href="findnpc_new,scene02,monf022202" style="HLStype1">机关木人</a>
+hunterinfo_55808=击败<a href="findnpc_new,scene02,monf022104" style="HLStype1">翠林毒蜘蛛</a>
+hunterinfo_55809=击败<a href="findnpc_new,scene02,monf022302" style="HLStype1">盗宝帮众</a>
+hunterinfo_55810=击败<a href="findnpc_new,scene02,monf022401" style="HLStype1">江湖狂徒</a>
+hunterinfo_55811=击败<a href="findnpc_new,scene02,monf022500" style="HLStype1">渔场恶霸</a>
+hunterinfo_55812=击败<a href="findnpc_new,scene02,monf022206" style="HLStype1">胆大的猎户</a>
+interactinfo_55800=与<a href="findnpc_new,scene02,WorldNpc02123" style="HLStype1">巩传封</a>交谈
+interactinfo_55801=与<a href="findnpc_new,scene02,WorldNpc02029" style="HLStype1">秋燕语</a>交谈
+interactinfo_55802=与<a href="findnpc_new,scene02,WorldNpc02031" style="HLStype1">秦桑南</a>交谈
+interactinfo_55803=与<a href="findnpc_new,scene02,WorldNpc02123" style="HLStype1">巩传封</a>交谈
+interactinfo_55804=与<a href="findnpc_new,scene02,WorldNpc02047" style="HLStype1">斯图耶琪</a>交谈
+interactinfo_55805=与<a href="findnpc_new,scene02,WorldNpc02057" style="HLStype1">朱林</a>交谈
+interactinfo_55806=与<a href="findnpc_new,scene02,WorldNpc02057" style="HLStype1">朱林</a>交谈
+interactinfo_55807=与<a href="findnpc_new,scene02,WorldNpc02125" style="HLStype1">李君楠</a>交谈
+interactinfo_55808=与<a href="findnpc_new,scene02,WorldNpc02125" style="HLStype1">李君楠</a>交谈
+interactinfo_55809=与<a href="findnpc_new,scene02,WorldNpc02173" style="HLStype1">天山侠客</a>交谈
+interactinfo_55810=与<a href="findnpc_new,scene02,WorldNpc02174" style="HLStype1">仙山猎人</a>交谈
+interactinfo_55811=与<a href="findnpc_new,scene02,WorldNpc02176" style="HLStype1">隐居老人</a>交谈
+interactinfo_55812=与<a href="findnpc_new,scene02,WorldNpc02177" style="HLStype1">渔民</a>交谈
+interactinfo_55813=与<a href="findnpc_new,scene02,WorldNpc02046" style="HLStype1">巴扎汗</a>交谈
+interactinfo_55814=与<a href="findnpc_new,scene02,WorldNpc02050" style="HLStype1">佐佐木</a>交谈
+interactinfo_55815=与<a href="findnpc_new,scene02,WorldNpc02178" style="HLStype1">天山瞭望者</a>交谈
+interactinfo_55816=与<a href="findnpc_new,scene02,WorldNpc02034" style="HLStype1">李春山</a>交谈
+interactinfo_55817=与<a href="findnpc_new,scene02,WorldNpc02125" style="HLStype1">李君楠</a>交谈
+maintext_3641=你知道这“火药”为何物？
+okmenu_55800=我这就去
+okmenu_55801=放心有我在，不会让他们伤害到你的
+okmenu_55802=我这就去
+okmenu_55803=我这就去
+okmenu_55804=抢东西，哈哈！我最在行了
+okmenu_55805=交给我你就放心吧
+okmenu_55806=等我的好消息
+okmenu_55807=好的，我去去就回
+okmenu_55808=你心真细，我这就去
+okmenu_55809=哪里哪里，您过奖了
+okmenu_55810=好的
+okmenu_55811=你说，我看看我知道不
+okmenu_55812=不用客气，路见不平拔刀相助
+okmenu_55813=嗯，我知道了
+okmenu_55814=干杯
+okmenu_55815=他太可恶了，教训他是必然的
+okmenu_55816=恩，好的
+okmenu_55817=好的，我这就去
+quest_menu_55800=什么问题
+questioninfo_55800=回答<a href="findnpc_new,scene02,WorldNpc02176" style="HLStype1">隐居老人</a>的问题
+story_55800_1=外面人看我们很有钱一定过的很幸福，其实他们谁又知道我们的辛酸。哎！
+story_55800_2=每天风吹日晒，一年到头都见不到家人几面。别人全家团圆的时候我们却在这大山中，还要担惊受怕货物被抢，哎！
+story_55801_1=这里本来有很多的动物的直到胆大的猎户在山里胡作非为杀死了很动物，这里再也没有那么多小动物了。为了自己的利用不惜杀害这里的动物。
+story_menu_55800=你有什么要告诉我的
+story_menu_55801=你有什么要告诉我的
+storyinfo_55800=听<a href="findnpc_new,scene02,WorldNpc02175" style="HLStype1">商人</a>诉说
+storyinfo_55801=听<a href="findnpc_new,scene02,WorldNpc02178" style="HLStype1">天山瞭望者</a>诉说
+storymenu_55800_1=辛酸？
+storymenu_55800_2=原来家家有本难念的经
+storymenu_55801_1=真是林子大了什么鸟儿都有，居然这种坏人
+useiteminfo_55800=对<a href="findnpc_new,scene02,WorldNpc02034" style="HLStype1">李春山</a>使用<a href="TASK_ITEM,useitem_74m" style="HLStype1">雕花木</a>
+useiteminfo_55801=用<a href="TASK_ITEM,useitem_78m" style="HLStype1">木桶</a>打水
+useiteminfo_55802=喝掉<a href="TASK_ITEM,useitem_75m" style="HLStype1">一壶酒</a>
+

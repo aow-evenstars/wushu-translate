@@ -1,0 +1,98 @@
+﻿
+DialogID_48600=很奇怪嘛？这儿是边关小镇，形形色色的人多了去了。你啊，自己注意点，凡事小心而行就好。你回去告诉司徒昌，替我谢谢他。
+DialogID_48601=我的货物已经到了吗？我知道了，你告诉老板就说我稍后就会去取。
+DialogID_48602=他着急了吗？他要的粮食我还没装好，你把我把这些散落的粮食收集起来给他送去吧。
+DialogID_48603=少侠切莫客气，这点钱物不算什么，你拿去送给那个老乞丐吧。
+DialogID_48604=还没有结束呢，我看你啊，就是需要多锻炼锻炼。把我给你的重锤举起来。
+DialogID_48605=请这位大侠让开，我也是奉命行事，何必让我如此为难。
+DialogID_48606=好吧，既然如此，那这串钥匙也给大侠了，你帮他把手铐也解了吧。我回去复命了。
+DialogID_48607=这边的事情已经差不多了，也不怕告诉你，我们此行是打探这边境的形势。不过我发现了一些兵器遗落在附近。你帮我拣一些回来带给我的同伴研究一下。
+DialogID_48608=好水灵的水灵草呢，哦，顺便再拜托你一件事，前几日，那些灰袍大力士竟想调戏本姑娘，你去给我教训了他们。
+DialogID_48609=这边发生了骚乱，一些偷牧小贼在偷取我们的牧草时被我们发现，你速去消灭他们。
+DialogID_48610=其他的话，你再去向大人汇报下结果吧。
+DialogID_48611=多谢施主关心，我已经好多了。
+DialogID_48612=前日看见一些漂亮的彩星花，采集的时候不小心伤了手脚。
+DialogID_48613=师兄在找我们吗？可是我们实在不敢回去面对师兄。实不相瞒，我们弄丢了师门信函，怕师兄责备。
+DialogID_48614=丢失了师门信函？哎，这两个不小心的家伙。罢了罢了，你就跟他们说，此事我也就不追究了，快点回来吧。
+DialogID_48615=师兄真的不会责罚我们了吗？多谢少侠，烦请少侠回去禀告师兄，我们一会就回去。
+DialogID_48616=少侠若能相助，在下愿做牛做马报答您。前几日路经此地，被那些谷地神偷和白影手抢走了包裹，还被他们打伤，少侠要帮我啊！
+collectinfo_48600=收集<a href="findnpc_new,scene09,Gather0001cc" style="HLStype1">粮食</a>
+collectinfo_48601=收集<a href="findnpc_new,scene09,Gather0002cc" style="HLStype1">沙袋</a>
+collectinfo_48602=收集<a href="findnpc_new,scene09,Gather0003cc" style="HLStype1">箭矢</a>
+collectinfo_48603=收集<a href="findnpc_new,scene09,Gather0004cc" style="HLStype1">水灵草</a>
+collectinfo_48604=收集<a href="findnpc_new,scene09,Gather0005cc" style="HLStype1">彩星花</a>
+collectinfo_48605=收集<a href="findnpc_new,scene09,Gather0006cc" style="HLStype1">书生的包裹</a>
+collectinfo_48606=收集<a href="findnpc_new,scene09,Gather0007cc" style="HLStype1">大理石块</a>
+collectinfo_48607=收集<a href="findnpc_new,scene09,Gather0008cc" style="HLStype1">装有财物的宝箱</a>
+collectinfo_48608=收集<a href="findnpc_new,scene09,Gather0009cc" style="HLStype1">叶雪草</a>
+collectinfo_48609=收集<a href="findnpc_new,scene09,Gather0010cc" style="HLStype1">《诗文选集一》</a>
+collectinfo_48610=收集<a href="findnpc_new,scene09,Gather0011cc" style="HLStype1">《诗文选集二》</a>
+collectinfo_48611=夺回<a href="TASK_ITEM,taskitem_012cc" style="HLStype1">情诗手帕</a>
+hunterinfo_48600=击败<a href="findnpc_new,scene09,monf090400" style="HLStype1">灰袍大力士</a>
+hunterinfo_48601=击败<a href="findnpc_new,scene09,monf090300" style="HLStype1">偷牧小贼</a>
+hunterinfo_48602=击败<a href="findnpc_new,scene09,monf090501" style="HLStype1">谷地神偷</a>
+hunterinfo_48603=击败<a href="findnpc_new,scene09,monf090502" style="HLStype1">百影手</a>
+hunterinfo_48604=击败<a href="findnpc_new,scene09,monf090700" style="HLStype1">商会护卫</a>
+hunterinfo_48605=击败<a href="findnpc_new,scene09,monf090100" style="HLStype1">巡山恶贼</a>
+hunterinfo_48606=击败<a href="findnpc_new,scene09,monf090101" style="HLStype1">懒惰山贼</a>
+hunterinfo_48607=击败<a href="findnpc_new,scene09,monf090301" style="HLStype1">铁蹄头目</a>
+hunterinfo_48608=击败<a href="findnpc_new,scene09,monf090302" style="HLStype1">行商苦力</a>
+hunterinfo_48609=击败<a href="findnpc_new,scene09,monf090401" style="HLStype1">汉族奸商</a>
+hunterinfo_48610=击败<a href="findnpc_new,scene09,monf090402" style="HLStype1">黑市打手</a>
+hunterinfo_48611=击败<a href="findnpc_new,scene09,monf090701" style="HLStype1">连坊急先锋</a>
+hunterinfo_48612=击败<a href="findnpc_new,scene09,monf090702" style="HLStype1">商会精锐弟子</a>
+hunterinfo_48613=帮助松良教训<a href="findnpc_new,scene09,monf090500" style="HLStype1">江湖仇家</a>
+hunterinfo_48614=击败<a href="findnpc_new,scene09,monf090300" style="HLStype1">偷牧小贼</a>
+hunterinfo_48616=击败<a href="findnpc_new,scene09,monf090300" style="HLStype1">偷牧小贼</a>
+hunterinfo_48617=击败<a href="findnpc_new,scene09,monf090303" style="HLStype1">岔道恶狼</a>
+interactinfo_48600=与<a href="findnpc_new,scene09,WorldNpc07156" style="HLStype1">张全</a>交谈
+interactinfo_48601=与<a href="findnpc_new,scene09,WorldNpc07157" style="HLStype1">庞升</a>交谈
+interactinfo_48602=与<a href="findnpc_new,scene09,WorldNpc07158" style="HLStype1">司马欣</a>交谈
+interactinfo_48603=与<a href="findnpc_new,scene09,WorldNpc07159" style="HLStype1">宋带泽</a>交谈
+interactinfo_48604=与<a href="findnpc_new,scene09,WorldNpc07136" style="HLStype1">终天松</a>交谈
+interactinfo_48605=与<a href="findnpc_new,scene09,WorldNpc07159" style="HLStype1">宋带泽</a>交谈
+interactinfo_48606=与<a href="findnpc_new,scene09,WorldNpc07159" style="HLStype1">宋带泽</a>交谈
+interactinfo_48607=与<a href="findnpc_new,scene09,WorldNpc07160" style="HLStype1">左剑</a>交谈
+interactinfo_48608=与<a href="findnpc_new,scene09,WorldNpc07139" style="HLStype1">常姣翠</a>交谈
+interactinfo_48609=与<a href="findnpc_new,scene09,WorldNpc07161" style="HLStype1">薛行</a>交谈
+interactinfo_48610=与<a href="findnpc_new,scene09,WorldNpc07161" style="HLStype1">薛行</a>交谈
+interactinfo_48611=与<a href="findnpc_new,scene09,WorldNpc07162" style="HLStype1">慧明</a>交谈
+interactinfo_48612=与<a href="findnpc_new,scene09,WorldNpc07162" style="HLStype1">慧明</a>交谈
+interactinfo_48613=与<a href="findnpc_new,scene09,WorldNpc07163" style="HLStype1">何风</a>交谈
+interactinfo_48614=与<a href="findnpc_new,scene09,WorldNpc07142" style="HLStype1">伏风</a>交谈
+interactinfo_48615=与<a href="findnpc_new,scene09,WorldNpc07163" style="HLStype1">何风</a>交谈
+interactinfo_48616=与<a href="findnpc_new,scene09,WorldNpc07164" style="HLStype1">霍琼</a>交谈
+okmenu_48600=多谢提醒，我去回复他。
+okmenu_48601=那我回去答复他了。
+okmenu_48602=我立即就去办。
+okmenu_48603=多谢公子了，公子真是一个心善之人。
+okmenu_48604=你这是想折腾死我啊。
+okmenu_48605=你也知道他并无大罪，何不放他一条生路。你有执行任务的责任，也有尊重生命的权利。你说没抓住不就可以交差了么。
+okmenu_48606=能够同情百姓的遭遇，我也要多些你的所为。
+okmenu_48607=好的。
+okmenu_48608=在下照办就是。
+okmenu_48609=消灭这些小贼就行了吗？
+okmenu_48610=没问题。
+okmenu_48611=到底出了什么事？
+okmenu_48612=我去替你采集吧。
+okmenu_48613=怪不得呢，既然你们不敢回去，我就跟你们师兄通报一下情况吧。
+okmenu_48614=多谢道长，我去告诉他们。
+okmenu_48615=那好吧。
+okmenu_48616=你放心，这件事我给你做主。
+story_48600_1=我与小莲一见钟情，怎奈却遭到她家人的阻拦。只因我一个穷酸秀才配不上小莲......
+story_48600_2=我和小莲不肯放弃，前几日小莲还偷偷送了我一块绣着情诗的手帕，不想她家人得知后，竟然派了杀手杀我，就是那些江湖仇家，还抢走了手帕......
+story_48601_1=十多年前，这儿发生了一次几十年未曾一见的大规模边境冲突，无数人葬身于此，所以有人说，这里的土地这么怪异，是因为无数将士的鲜血......
+story_48601_2=这儿有一瓶酒，你洒在这地上，以祭他们的在天之灵吧。
+story_menu_48600=啊，到底什么情诗啊......这里面发生了什么？
+story_menu_48601=十多年前发生了什么？
+storyinfo_48600=听<a href="findnpc_new,scene09,WorldNpc07153" style="HLStype1">松良</a>诉说
+storyinfo_48601=听<a href="findnpc_new,scene09,WorldNpc07154" style="HLStype1">季辰朗</a>诉说
+storymenu_48600_1=那后来......
+storymenu_48600_2=哎......为什么会是这个样子，公子莫急，我去帮你解决掉仇家，帮你报仇
+storymenu_48601_1=原来还有这样的传说，那我能为他们做些什么呢？
+storymenu_48601_2=好。
+useiteminfo_48600=使用<a href="findnpc_new,scene08,0" style="HLStype1">{@0:text}</a><a href="TASK_ITEM,useitem_005cc" style="HLStype1">笨重的铁锤</a>
+useiteminfo_48601=对<a href="findnpc_new,scene09,WorldNpc07137" style="HLStype1">范暑</a>使用<a href="TASK_ITEM,useitem_006cc" style="HLStype1">钥匙</a>
+useiteminfo_48602=对<a href="findnpc_new,scene09,WorldNpc07165" style="HLStype1">垃圾堆</a>使用<a href="TASK_ITEM,useitem_007cc" style="HLStype1">火把</a>
+useiteminfo_48603=使用<a href="TASK_ITEM,useitem_008cc" style="HLStype1">一瓶酒</a>祭奠亡灵
+

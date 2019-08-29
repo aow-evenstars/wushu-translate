@@ -1,0 +1,120 @@
+﻿
+DialogID_47660=我哪有什么好东西，不过你可以去弄些仙人掌来，那可是沙漠中的美味啊！
+DialogID_47661=嗯，这次他们来的挺快的啊，你去把我藏在附近的入门凭证拿给他。
+DialogID_47662=这是我们应该做的，你能去帮我找点软紫草吗？似乎有几个护卫都中暑了。
+DialogID_47663=嘿嘿，看来兄弟又能开工了，那儿有些散落的珠宝，你拿去带给守关的兄弟吧。
+DialogID_47664=好，不过我已经没力气了，你帮我服下吧。
+DialogID_47665=嘿嘿，亏他还会想的到我，不过我可不放心那个家伙，你用一下试试。
+DialogID_47666=哼，我可从没听说过还有这一条规矩。
+DialogID_47667=放心，我别有他法可以过关。
+DialogID_47668=哈哈，终于又有活干了。
+DialogID_47669=嗯，那些外乡人确实不懂规矩。
+DialogID_47670=什么？我怎么可能和这么马贼同流合污！
+DialogID_47671=加入他们倒不是不可以。可是大漠上不是有官兵经常围剿他们吗？
+DialogID_47672=就这种破蜥蜴有什么稀奇的，我要的是珍禽异兽，而不是这种没人要的东西。
+DialogID_47673=这些人应该和阳关的官兵有不小的关系，你还是去那儿问吧。
+DialogID_47674=那只是我的部下在肃清马贼罢了，怎么，你想要袒护他们吗？
+DialogID_47675=好，你先去给他们一个惊喜，我随后就率领大队人马杀到。
+DialogID_47676=你去打击一下他们嚣张的气焰吧。
+DialogID_47677=什么，他妄想。我会找到他，并好好跟他算算账的。
+DialogID_47678=哪里哪里，我等修行之人，身外一切都是浮云。
+DialogID_47679=少侠客气了。替我感谢苦海大师的收留。我住的很好。
+DialogID_47680=对于我这样的苦行之人，有片瓦遮头就以足够了。
+collectinfo_47660=收集<a href="findnpc_new,scene08,Gather0017wu" style="HLStype1">仙人掌</a>
+collectinfo_47661=收集<a href="findnpc_new,scene08,Gather0018wu" style="HLStype1">入关凭证</a>
+collectinfo_47662=收集<a href="findnpc_new,scene08,Gather0004qy" style="HLStype1">甘草</a>
+collectinfo_47663=收集<a href="findnpc_new,scene08,Gather0019wu" style="HLStype1">珠宝箱</a>
+collectinfo_47664=收集<a href="findnpc_new,scene08,Gather0019wu" style="HLStype1">散落的珠宝</a>
+collectinfo_47665=收集<a href="findnpc_new,scene08,monf081201" style="HLStype1">大漠狂刀</a>的宝刀
+collectinfo_47666=收集<a href="findnpc_new,scene08,Gather0020wu" style="HLStype1">密信</a>
+collectinfo_47667=收集<a href="findnpc_new,scene08,Gather0021wu" style="HLStype1">礼签箱</a>
+collectinfo_47668=收集<a href="findnpc_new,scene08,Gather0022wu" style="HLStype1">谷青竹的尸体</a>
+collectinfo_47669=收集<a href="TASK_ITEM,taskitem_28w" style="HLStype1">念珠</a>
+hunterinfo_47660=击败<a href="findnpc_new,scene08,monf081100" style="HLStype1">大漠熊怪</a>
+hunterinfo_47661=击败<a href="findnpc_new,scene08,monf081101" style="HLStype1">沙漠灰貂</a>
+hunterinfo_47662=击败<a href="findnpc_new,scene08,monf081500" style="HLStype1">凶残兵痞</a>
+hunterinfo_47663=击败<a href="findnpc_new,scene08,monf081700" style="HLStype1">天罗妖僧</a>
+hunterinfo_47664=击败<a href="findnpc_new,scene08,monf081701" style="HLStype1">天罗教狂徒</a>
+hunterinfo_47665=击败<a href="findnpc_new,scene08,monf081400" style="HLStype1">波斯护卫</a>
+hunterinfo_47666=击败<a href="findnpc_new,scene08,monf081401" style="HLStype1">波斯商人</a>
+hunterinfo_47667=击败<a href="findnpc_new,scene08,monf081200" style="HLStype1">吐蕃族番僧</a>
+hunterinfo_47668=击败<a href="findnpc_new,scene08,monf081201" style="HLStype1">大漠狂刀</a>
+hunterinfo_47669=击败<a href="findnpc_new,scene08,monf081500" style="HLStype1">凶残兵痞</a>
+hunterinfo_47670=击败<a href="findnpc_new,scene08,monf081201" style="HLStype1">大漠狂刀</a>
+hunterinfo_47671=击败<a href="findnpc_new,scene08,monf081300" style="HLStype1">阳关长枪兵</a>
+hunterinfo_47672=击败<a href="findnpc_new,scene08,monf081301" style="HLStype1">阳关弓箭手</a>
+hunterinfo_47673=击败<a href="findnpc_new,scene08,monf081601" style="HLStype1">圣境护法</a>
+hunterinfo_47674=击败<a href="findnpc_new,scene08,monf081602" style="HLStype1">圣境明王</a>
+hunterinfo_47675=击败<a href="findnpc_new,scene08,monf081604" style="HLStype1">驱邪圣使</a>
+hunterinfo_47676=击败<a href="findnpc_new,scene08,monf081501" style="HLStype1">游云和尚</a>
+hunterinfo_47677=击败<a href="findnpc_new,scene08,monf081500" style="HLStype1">凶残兵痞</a>
+hunterinfo_47678=击败<a href="findnpc_new,scene08,monf081501" style="HLStype1">游云和尚</a>
+interactinfo_47660=与<a href="findnpc_new,scene08,WorldNpc07834" style="HLStype1">霍琛</a>交谈
+interactinfo_47661=与<a href="findnpc_new,scene08,WorldNpc07829" style="HLStype1">辛馨荷</a>交谈
+interactinfo_47662=与<a href="findnpc_new,scene08,WorldNpc07827" style="HLStype1">习荣</a>交谈
+interactinfo_47663=与<a href="findnpc_new,scene08,WorldNpc07841" style="HLStype1">糜恒云</a>交谈
+interactinfo_47664=与<a href="findnpc_new,scene08,WorldNpc07829" style="HLStype1">辛馨荷</a>交谈
+interactinfo_47665=与<a href="findnpc_new,scene08,WorldNpc07841" style="HLStype1">糜恒云</a>交谈
+interactinfo_47666=与<a href="findnpc_new,scene08,WorldNpc07824" style="HLStype1">索罗亚斯德</a>交谈
+interactinfo_47667=与<a href="findnpc_new,scene08,WorldNpc07825" style="HLStype1">王于罗丹</a>交谈
+interactinfo_47668=与<a href="findnpc_new,scene08,WorldNpc07834" style="HLStype1">霍琛</a>交谈
+interactinfo_47669=与<a href="findnpc_new,scene08,WorldNpc07835" style="HLStype1">常香竹</a>交谈
+interactinfo_47670=与<a href="findnpc_new,scene08,WorldNpc07836" style="HLStype1">邵菁晶</a>交谈
+interactinfo_47671=与<a href="findnpc_new,scene08,WorldNpc07837" style="HLStype1">刘安</a>交谈
+interactinfo_47672=与<a href="findnpc_new,scene08,WorldNpc07826" style="HLStype1">蒙冰</a>交谈
+interactinfo_47673=与<a href="findnpc_new,scene08,WorldNpc07830" style="HLStype1">尹伦</a>交谈
+interactinfo_47674=与<a href="findnpc_new,scene08,WorldNpc07833" style="HLStype1">谭诫霞</a>交谈
+interactinfo_47675=与<a href="findnpc_new,scene08,WorldNpc07838" style="HLStype1">司徒逞</a>交谈
+interactinfo_47676=与<a href="findnpc_new,scene08,WorldNpc07833" style="HLStype1">谭诫霞</a>交谈
+interactinfo_47677=与<a href="findnpc_new,scene08,WorldNpc07838" style="HLStype1">司徒逞</a>交谈
+interactinfo_47678=与<a href="findnpc_new,scene08,WorldNpc07831" style="HLStype1">逮媛</a>交谈
+interactinfo_47679=与<a href="findnpc_new,scene08,WorldNpc07869" style="HLStype1">秦琦</a>交谈
+interactinfo_47680=与<a href="findnpc_new,scene08,WorldNpc07868" style="HLStype1">纪谓</a>交谈
+okmenu_47660=好的。
+okmenu_47661=好的。
+okmenu_47662=好的。
+okmenu_47663=好的。
+okmenu_47664=好的。
+okmenu_47665=好的。
+okmenu_47666=知道了。
+okmenu_47667=知道了。
+okmenu_47668=我知道了。
+okmenu_47669=我知道了。
+okmenu_47670=我知道了。
+okmenu_47671=我知道了。
+okmenu_47672=我知道了。
+okmenu_47673=我知道了。
+okmenu_47674=不敢不敢。
+okmenu_47675=我知道了。
+okmenu_47676=知道了。
+okmenu_47677=以后邵菁晶再也不会听命于你了。
+okmenu_47678=大师，苦海大师叫我前来询问可住的习惯，有何不周之处还请见谅。
+okmenu_47679=大师，可有什么不习惯的地方？
+okmenu_47680=纪大师，住的可还习惯？有什么需要帮忙的吗？
+story_47660_1=曾经我有一个幸福的家，只是在一次两个和尚来我家化缘，随后他们居然洗劫了我家，还掳走了我的妻子。
+story_47660_2=接着我听说他们似乎来了西域，于是我就报名到阳关来当兵，希望能报仇。
+story_47661_1=我从小便立志要消除这时间的种种不平等，于是我便出家云游四方，希望能把我的想法传遍天下。
+story_47661_2=只可惜世上那么多人，却连听我讲完这番话都不愿意，你愿意听我的话吗？
+story_47662_1=我听我的爷爷说，很久很久以前，我们这里还不是荒漠，到处可见郁郁葱葱的树林，人们生活的无忧无虑。
+story_47662_2=但是突然有一年，不知道怎么回事一整年都没有下雨，田里的庄稼全都枯死了，渐渐的树林消失了，这里不再适合人居住，人大部分人都走了。
+story_47662_3=有的是老了走不动了，有的是不愿离开故土的。人们开始寻找水源。突然有一天，这月牙泉奇迹般的出现了，给早已断绝希望的人又带来了希望。
+story_47662_4=后来，渐渐的大家又都回来了。是月牙泉给我们带来了生机和希望。所以，我们给它起了个好听的名字——月牙泉。
+story_menu_47660=洗耳恭听。
+story_menu_47661=我从小便注定要做一个云游四方的和尚。
+story_menu_47662=为什么这么说呢？
+storyinfo_47660=听<a href="findnpc_new,scene08,WorldNpc07841" style="HLStype1">糜恒云</a>诉说
+storyinfo_47661=听<a href="findnpc_new,scene08,WorldNpc07831" style="HLStype1">逮媛</a>诉说
+storyinfo_47662=听<a href="findnpc_new,scene08,WorldNpc07820" style="HLStype1">廖毅之</a>诉说
+storymenu_47660_1=这些和尚怎么能做这种事。
+storymenu_47660_2=我来帮你吧。
+storymenu_47661_1=你的想法真伟大。
+storymenu_47661_2=我愿意。
+storymenu_47662_1=那怎么会变成现在这个样子呢？
+storymenu_47662_2=那为什么还有人留下？
+storymenu_47662_3=那后来呢！
+storymenu_47662_4=原来，月牙泉还有这么个典故啊！
+useiteminfo_47660=对<a href="findnpc_new,scene08,WorldNpc07829" style="HLStype1">辛馨荷</a>使用<a href="TASK_ITEM,useitem_008w" style="HLStype1">防暑药</a>
+useiteminfo_47661=使用<a href="TASK_ITEM,useitem_009w" style="HLStype1">龙涎香</a>
+useiteminfo_47662=使用<a href="TASK_ITEM,useitem_010w" style="HLStype1">信鸽</a>
+useiteminfo_47663=使用<a href="TASK_ITEM," style="HLStype1"></a>
+
