@@ -129,9 +129,7 @@ DialogID_73950=<font face="Default" color="#ffffff" >如今紛爭化解，江湖
 DialogID_73951=<font face="Default" color="#ffffff" >（目光鄭重地看著你，抱拳作揖）蕭堂主，後會有期！</font>
 DialogID_73952=<font face="Default" color="#ffffff" >啟稟門主，在下有事稟報。</font>
 DialogID_73954=<font face="Default" color="#ffffff" >此次《武定籍》風波的來龍去脈，我已聽人講過，多虧蕭堂主力挽狂瀾，揭開真相，才阻止了這場武林浩劫。</font>
-DialogID_73957=<font face="Default" color="#ffffff" >這邊有兩具屍體……</font>
 QiecuoMenu_73911=<font face="Default" color="#ffffff" >（平淡道）得罪了。</font>
-QiecuoTitle_73911=<font face="Default" color="#ffffff" >格老子的，佛爺憑啥告訴你？</font>
 SubmitNpcEx_73911=與<a href="findnpc_new,adv147,npc_2019jq_lzy_001" style="HLStype1">碧琉夙</a>交談
 SubmitNpcEx_73912=與<a href="findnpc_new,adv147,npc_2019jq_lzy_020" style="HLStype1">碧琉夙</a>交談
 SubmitNpcEx_73913=與<a href="findnpc_new,adv147,npc_2019jq_lzy_021" style="HLStype1">碧琉夙</a>交談
@@ -142,8 +140,6 @@ SubmitNpcEx_73917=與<a href="findnpc_new,adv147,npc_2019jq_lzy_007" style="HLSt
 SubmitNpcEx_73918=與<a href="findnpc_new,adv146,npc_2019jq_lzy_011" style="HLStype1">碧琉夙</a>交談
 SubmitNpcEx_73919=與<a href="findnpc_new,adv146,npc_2019jq_lzy_010" style="HLStype1">古墓掌門</a>交談
 SubmitNpcEx_73920=與<a href="findnpc_new,adv147,npc_2019jq_lzy_019" style="HLStype1">碧琉夙</a>交談
-collectinfo_73903=查看<a href="findnpc_new,adv147,GatherNpc_2019jq_lzy_002" style="HLStype1">不明屍體</a>
-collectinfo_73904=查看<a href="findnpc_new,adv147,GatherNpc_2019jq_lzy_003" style="HLStype1">不明屍體</a>
 collectinfo_73911=前往<a href="findnpc_new,,GatherNpc_2019jq_lzy_001" style="HLStype1">蒲團</a>跪拜父母
 hunterinfo_73911=向<a href="findnpc_new,adv147,npc_2019jq_lzy_004" style="HLStype1">閻剛</a>打聽消息
 hunterinfo_73912=擊敗黑衣人
@@ -240,7 +236,6 @@ story_73911_1=<font face="Default" color="#ffffff" >那日酒樓別過後，琉�
 story_73911_2=<font face="Default" color="#ffffff" >既然公子無礙，是否出谷</font>
 story_73911_3=<font face="Default" color="#ffffff" >公子是打算深入谷中？琉夙方才過去查看，發現前方有棋陣阻擋。棋術一道，實非琉夙所長......</font>
 story_73912_1=<font face="Default" color="#ffffff" >（背過身去，緩緩道來）家父母皆為明教中人，因明教內訌，為避禍逃亡至中原，投奔至交好友，金濤山莊莊主。</font>
-story_73912_2=<font face="Default" color="#ffffff" >我爹娘昔日待他不薄，怎知這是個狼心狗肺之徒。表面上熱情相迎，暗地裡卻因覬覦我娘的美貌將消息走漏出去，致我爹慘死，娘也在被凌辱後懸樑自盡。我當時已被師父帶到古墓學藝，對此事毫不知情。直到半年前，逸遙師妹誤會楊邪師弟鍾情於我，故意將此事捅破，我才知道了這個一直被師父隱瞞的真相。</font>
 story_73913_1=<font face="Default" color="#ffffff" >琉夙未能按期赴約，給公子賠罪了。</font>
 story_73913_2=<font face="Default" color="#ffffff" >公子，實不相瞞，林天南林盟主，正是琉夙的生父。琉夙六歲那年，被誠意伯斷言相屬內媚，四十歲前恐因容貌過勝而妖禍武林。爹深怕江湖人士知曉後加害於我，便將琉夙托付給恩師，帶回古墓撫養，對外則謊稱愛女夭折。</font>
 story_73913_3=<font face="Default" color="#ffffff" >公子丰神俊秀、凌雲辭賦，理應有絕代佳人相配，而非似琉夙這樣的不祥之人。</font>
@@ -295,4 +290,9 @@ hunterinfo_73905=錦衣衛黑衣隱衛趙止突然發現了你，見事情敗露
 okmenu_73947=<font face="Default" color="#ffffff" >鷸蚌相爭、漁翁得利，好一招暗箭傷人的妙計。</font>
 story_73912_3=<font face="Default" color="#ffffff" >於是，我不告而別，忍辱負重，故意接近金濤山莊少莊主金亞偉，目的便是為了給自己雙親報復。再後來的事，你們都知道了……</font>
 DialogID_73901=<font face="Default" color="#ffffff" >  </font><font face="Default" color="#ffffff" >你在洛陽與秦王府之間的事我已經知道，我亦有派人前去各大宗派向各位掌門商議此事。</font>
+DialogID_73957=<font face="Default" color="#ffffff" >這邊有兩具遺骸……</font>
+QiecuoTitle_73911=<font face="Default" color="#ffffff" >佛爺憑啥告訴你？</font>
+collectinfo_73903=查看<a href="findnpc_new,adv147,GatherNpc_2019jq_lzy_002" style="HLStype1">不明遺骸</a>
+collectinfo_73904=查看<a href="findnpc_new,adv147,GatherNpc_2019jq_lzy_003" style="HLStype1">不明遺骸</a>
+story_73912_2=<font face="Default" color="#ffffff" >我爹娘昔日待他不薄，怎知這是個狼心狗肺之徒。表面上熱情相迎，暗地裡卻因覬覦我娘的美貌將消息走漏出去，致我爹慘死，娘也在被凌辱後懸樑自盡。我當時已被師父帶到古墓學藝，對此事毫不知情。直到半年前，逸遙師妹誤會楊邪師弟鍾情於我，故意將此事戳破，我才知道了這個一直被師父隱瞞的真相。</font>
 

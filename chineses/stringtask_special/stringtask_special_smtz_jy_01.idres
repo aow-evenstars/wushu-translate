@@ -6,7 +6,7 @@ DialogID_58304=<font face="Default" color="#ffffff" >   </font><font face="Defau
 DialogID_58305=<font face="Default" color="#ffffff" >   近日里我锦衣卫与浣花山庄产生激烈冲突，对方声称在成都浣花溪屡屡被锦衣卫暗算伤人，并且在现场捡到了锦衣卫遗失的令牌，忖度此事，当属不轨之人栽赃陷害，还请你</font><font face="Default" color="#ffffff" >召集朋友，</font><font face="Default" color="#ffffff" >前去浣花山庄讨回公道。</font>
 DialogID_58306=<font face="Default" color="#ffffff" >   {@IDName:Player}，</font><font face="Default" color="#ffffff" >我</font><font face="Default" color="#ffffff" >锦衣卫如今与朝廷也是战和难定，时不时会有官员到访，</font><font face="Default" color="#ffffff" >当</font><font face="Default" color="#ffffff" >先以礼相待，并保护其周全，还望你能护送准备离去的官员前往官驿。</font>
 DialogID_58309=<font face="Default" color="#ffffff" >   年轻人，你就是锦衣卫派来帮忙的？嘿嘿，我得先看看你实力如何，不如我叫两个打手，你施展功夫看看</font><font face="Default" color="#ffffff" >吧</font><font face="Default" color="#ffffff" >。</font>
-DialogID_58310=<font face="Default" color="#ffffff" >   啧啧，功夫果然不错</font><font face="Default" color="#ffffff" >……没什么事了，</font><font face="Default" color="#ffffff" >你去苏州码头那里，找船夫载到你暮色之村去吧。</font>
+DialogID_58310=<font face="Default" color="#ffffff" >   啧啧，功夫果然不错……不过我已经</font><font face="Default" color="#ffffff" >派</font><font face="Default" color="#ffffff" >了得力的手下前往渔村。我等静候佳音即可！</font>
 DialogID_58311=<font face="Default" color="#ffffff" >你已成为本门弟子，在本门中有一位师兄弟引荐人，你可前去拜见。</font>
 QiecuoMenu_58304=<font face="Default" color="#ffffff" >我已准备好，来吧！</font>
 QiecuoTitle_58304=<font face="Default" color="#ffffff" >   </font><font face="Default" color="#ffffff" >你瞅准了，我要出招了！</font>
@@ -78,7 +78,7 @@ okmenu_58304=<font face="Default" color="#ffffff" >我这就前去</font><font f
 okmenu_58305=<font face="Default" color="#ffffff" >我这就动身。</font>
 okmenu_58306=<font face="Default" color="#ffffff" >谨遵号令！</font>
 okmenu_58309=<font face="Default" color="#ffffff" >放马过来吧！</font>
-okmenu_58310=<font face="Default" color="#ffffff" >告辞。</font>
+okmenu_58310=<font face="Default" color="#ffffff" >如此甚好！</font>
 okmenu_58311=<font face="Default" color="#ffffff" >我这就去拜见</font>
 specialinfo_107=前往各大镖局，护送两趟镖车运转物资
 specialinfo_108=运一次镖看来还不够，再去运镖一次
@@ -115,7 +115,7 @@ specialinfo_587=完成浣花山庄的势力挑战
 specialinfo_588=完成青云堡禁地的考验
 story_58302_1=<font face="Default" color="#ffffff" >   你来了，我可在此久候多时了啊。哎，这些浣花山庄的人自</font><font face="Default" color="#ffffff" >称</font><font face="Default" color="#ffffff" >名门正派，却凭地蛮不讲理……</font>
 story_58302_2=<font face="Default" color="#ffffff" >   浣花山庄数人因为被不明人物袭击，并捡到了其掉落的锦衣卫令牌，从而</font><font face="Default" color="#ffffff" >这些天</font><font face="Default" color="#ffffff" >对我锦衣卫弟子颇不客气，依我看，这是别人在栽赃陷害！我在此继续调查可疑之处，你且去浣花山庄周遭小心探索一番吧。</font>
-story_58303_1=<font face="Default" color="#ffffff" >   你来啦，我给你讲讲这暮色之村一事吧……</font><font face="Default" color="#ffffff" >那</font><font face="Default" color="#ffffff" >赵子亟改邪归正后隐居暮色之村，为救酒店掌柜孟梦而不得已使出武功来，昔日的仇家得知后纷纷前来此地寻衅，其中包括锡山捕头钱昔之。这钱昔之与我锦衣卫曾有所交往，其身</font><font face="Default" color="#ffffff" >在公门</font><font face="Default" color="#ffffff" >，却极爱钱财，一直嫌俸禄太低，暮色之村之行，给了他掠夺民财的机会。我锦衣卫正值物资紧缺之际，机不可失啊……</font>
+story_58303_1=<font face="Default" color="#ffffff" >   你来啦，我给你讲讲这暮色之村一事吧……</font><font face="Default" color="#ffffff" >那</font><font face="Default" color="#ffffff" >赵子亟改邪归正后隐居暮色之村，为救酒店掌柜孟梦而不得已使出武功来，昔日的仇家得知后纷纷前来此地寻衅，其中包括锡山捕头钱昔之。这钱昔之与我锦衣卫曾有所交往，其身</font><font face="Default" color="#ffffff" >在公门</font><font face="Default" color="#ffffff" >，却极爱钱财，一直嫌俸禄太低，暮色之村之行，给了他抢占民财的机会。我锦衣卫正值物资紧缺之际，机不可失啊……</font>
 story_58303_2=<font face="Default" color="#ffffff" >   </font><font face="Default" color="#ffffff" >那边吃霸王餐的正是韩似锦的堂弟韩顽石，你去找他谈谈吧。</font>
 story_58304_1=<font face="Default" color="#ffffff" >   你</font><font face="Default" color="#ffffff" >终于</font><font face="Default" color="#ffffff" >来了，这边的事情</font><font face="Default" color="#ffffff" >当真棘手的很啊……</font>
 story_58304_2=<font face="Default" color="#ffffff" >   那书斋老板之死当真神秘，那老板娘以重金委托我锦衣卫查清此事，可真是马虎不得啊，接下来你去向对面书斋灵堂那</font><font face="Default" color="#ffffff" >儿</font><font face="Default" color="#ffffff" >守灵的石夫人了解下详情吧。</font>
@@ -145,7 +145,7 @@ storymenu_58304_2=<font face="Default" color="#ffffff" >事不宜迟，我这就
 storymenu_58305_1=<font face="Default" color="#ffffff" >石夫人节哀，我是前来探查此事的锦衣卫弟子，还请你禀明详情，尊夫</font><font face="Default" color="#ffffff" >过世之</font><font face="Default" color="#ffffff" >前可与往常有何不同？</font>
 storymenu_58305_2=<font face="Default" color="#ffffff" >我这就上去查看一番。</font>
 storymenu_58306_1=<font face="Default" color="#ffffff" >以我推测，袭击我的人，似乎是为了拿到尊夫留下的手札，或是为了将证据处理掉吧……</font>
-storymenu_58306_2=<font face="Default" color="#8fd6ef" >（看来，我有必要前去青云堡将此事弄个究竟……）</font><font face="Default" color="#ffffff" >夫人保重，后会有期。</font>
+storymenu_58306_2=<font face="Default" color="#ffffff" >石师兄已前往查探，探查结束在下便会将结果告知夫人！</font><font face="Default" color="#ffffff" >夫人保重，后会有期。</font>
 storymenu_58307_1=<font face="Default" color="#ffffff" >我知道了</font>
 useiteminfo_58301=用<a href="TASK_ITEM,useitemyxc_002" style="HLStype1">扫帚</a>打扫<a href="findnpc_new,school01,EventNpc86819_1" style="HLStype1">偏殿</a>
 useiteminfo_58302=用<a href="TASK_ITEM,useitemyxc_002" style="HLStype1">扫帚</a>打扫<a href="findnpc_new,school01,EventNpc86819_2" style="HLStype1">议事堂</a>

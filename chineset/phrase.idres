@@ -409,7 +409,6 @@ origin_1294=八臂毒手
 origin_1295=催命毒手
 origin_1296=武林毒王
 origin_1298=毒手閻王
-origin_1299=奪命毒仙
 origin_1301=廚房夥計
 origin_1302=勞碌廚役
 origin_1303=幫工廚役
@@ -975,7 +974,6 @@ tool_rank_3_ds_004=八臂毒手
 tool_rank_3_ds_005=催命毒手
 tool_rank_3_ds_006=武林毒王
 tool_rank_3_ds_008=毒手閻王
-tool_rank_3_ds_009=奪命毒仙
 tool_rank_3_ds_010=毒魔亟心
 tool_rank_3_ys=藥師
 tool_rank_3_ys_001=識藥學童
@@ -1177,7 +1175,6 @@ origin_3118=凝露仙子
 origin_3119=琉玉仙子
 origin_3120=瑩澈元君
 origin_3202=喋血屠夫
-origin_3203=嗜殺屠夫
 origin_3204=止啼劊者
 origin_3205=破膽劊者
 origin_3206=無情刀客
@@ -1440,7 +1437,6 @@ box_event_64=初入無極島
 box_event_65=初入俠客島
 box_event_66=智者考驗
 box_event_67=書畫收集
-box_event_68=特別嗜好
 box_event_69=玩耍打雜
 box_event_72=剿滅內應
 box_event_73=奪回密令
@@ -1567,7 +1563,6 @@ desc_events_64=【初入無極島】獲得蓬萊島接引使者的書信，送�
 desc_events_65=【初入俠客島】獲得蓬萊島接引使者的書信，送往俠客島接引使者<a href="findnpc_new,scene17,newworld_pld212" style="HLStype1">冷然</a>處並瞭解俠客島概況{@0:當前}/{@1:總數}次
 desc_events_66=【智者考驗】在蓬萊島<a href="findnpc_new,scene16,newworld_pld216" style="HLStype1">智者老人</a>處回答相關問題{@0:當前}/{@1:總數}次
 desc_events_67=【書畫收集】在蓬萊島<a href="findnpc_new,scene16,newworld_pld216" style="HLStype1">智者老人</a>處回答正確所有問題，獲得一幅字畫上交{@0:當前}/{@1:總數}次
-desc_events_68=【特別嗜好】蓬萊島<a href="findnpc_new,scene16,newworld_pld216" style="HLStype1">智者老人</a>對白虎皮有著特別強烈的收集欲，<a href="findnpc_new,scene16,pld_attnpc001" style="HLStype1">白虎</a>有幾率產出{@0:當前}/{@1:總數}次
 desc_events_69=【玩耍打雜】在蓬萊島上各處搗亂，擊碎物件{@0:當前}/{@1:總數}次
 desc_events_72=【剿滅內應】與魔劍門<a href="findnpc_new,scene16,newworld_pld207" style="HLStype1">宸印</a>對話，剿滅內應{@0:當前}/{@1:總數}次
 desc_events_73=【奪回密令】與魔劍門<a href="findnpc_new,scene16,newworld_pld207" style="HLStype1">宸印</a>對話，剿滅內應，奪回魔劍門內應弟子身上的密令並且上交{@0:當前}/{@1:總數}次
@@ -1730,7 +1725,6 @@ origin_desc_2557=妙手空空去無蹤<br><br><br><br><br><br>該身份對應行
 origin_desc_2558=夕陽荒草本無恨<br><br><br>該身份對應行為的冷卻時間為24小時
 origin_desc_2559=古靈精怪，神氣活現<br><br><br><br><br><br>該身份對應行為的冷卻時間為15分鐘<br>獲得此身份可永久性增加30點閱歷值上限
 origin_desc_2560=佛緣般若塵法盡<br><br><br><br><br><br>該身份對應行為的冷卻時間為15分鐘
-origin_desc_2561=冷酷無情、嗜殺成性<br><br><br><br><br><br>該身份對應行為的冷卻時間為5分鐘
 origin_desc_2562=區區小人物，悠悠大江湖<br><br><br><br><br><br>該身份對應行為的冷卻時間為15分鐘
 origin_desc_2563=滄海龍戰血玄黃<br><br><br><br><br><br>該身份對應行為的冷卻時間為15分鐘
 origin_desc_2564=琴音銷魂響金池<br><br><br><br><br><br>該身份對應行為的冷卻時間為15分鐘
@@ -1969,4 +1963,10 @@ desc_events_43=【懲惡揚善】攻克20個<a href="findnpc_new,scene16,pld_zyb
 desc_events_13=【生死令牌】找<a href="findnpc_new,scene16,newworld_shengsipan_001" style="HLStype1">墨宇</a>參加生死歷練活動，攻克機關人有概率掉落生死令牌。每次交10枚令牌給<a href="findnpc_new,scene16,newworld_shengsipan_002" style="HLStype1">墨姝</a>，需要上交7次。
 desc_events_14=【生死歷練】找<a href="findnpc_new,scene16,newworld_shengsipan_001" style="HLStype1">墨宇</a>參加生死歷練活動，攻克7次機關人（頭目）。
 npctype227=宗派高階兌換
+origin_1299=奪魄毒仙
+tool_rank_3_ds_009=奪魄毒仙
+origin_3203=貪婪屠夫
+box_event_68=特別愛好
+desc_events_68=【特別愛好】蓬萊島<a href="findnpc_new,scene16,newworld_pld216" style="HLStype1">智者老人</a>對白虎皮有著特別強烈的收集欲，<a href="findnpc_new,scene16,pld_attnpc001" style="HLStype1">白虎</a>有幾率產出{@0:當前}/{@1:總數}次
+origin_desc_2561=冷酷無情、惡性難改<br><br><br><br><br><br>該身份對應行為的冷卻時間為5分鐘
 

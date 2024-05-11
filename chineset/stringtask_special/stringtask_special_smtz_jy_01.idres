@@ -5,7 +5,6 @@ DialogID_58303=<font face="Default" color="#ffffff" >   {@IDName:Player}，你�
 DialogID_58304=<font face="Default" color="#ffffff" >   </font><font face="Default" color="#ffffff" >近日裡與金針沈家產生激烈衝突，對方聲稱在成都東郊屢屢被錦衣衛暗算傷人，並且在現場撿到了錦衣衛遺失的令牌，忖度此事，當屬不軌之人栽贓陷害，還請你召集朋友前去沈家堡討回公道。</font>
 DialogID_58306=<font face="Default" color="#ffffff" >   {@IDName:Player}，</font><font face="Default" color="#ffffff" >我</font><font face="Default" color="#ffffff" >錦衣衛如今與朝廷也是戰和難定，時不時會有官員到訪，</font><font face="Default" color="#ffffff" >當</font><font face="Default" color="#ffffff" >先以禮相待，並保護其周全，還望你能護送準備離去的官員前往官驛。</font>
 DialogID_58309=<font face="Default" color="#ffffff" >   年輕人，你就是錦衣衛派來幫忙的？嘿嘿，我得先看看你實力如何，不如我叫兩個打手，你施展功夫看看</font><font face="Default" color="#ffffff" >吧</font><font face="Default" color="#ffffff" >。</font>
-DialogID_58310=<font face="Default" color="#ffffff" >   嘖嘖，功夫果然不錯</font><font face="Default" color="#ffffff" >……沒什麼事了，</font><font face="Default" color="#ffffff" >你去蘇州碼頭那裡，找船夫載到你暮色之村去吧。</font>
 QiecuoMenu_58304=<font face="Default" color="#ffffff" >我已準備好，來吧！</font>
 QiecuoTitle_58304=<font face="Default" color="#ffffff" >   </font><font face="Default" color="#ffffff" >你瞅準了，我要出招了！</font>
 SubmitNpcEx_86800=此項門派挑戰任務已完成，請向錦衣衛統領<a href="findnpc_new,school01,worldnpc04101" style="HLStype1">皇甫遙</a>覆命
@@ -67,7 +66,6 @@ okmenu_58304=<font face="Default" color="#ffffff" >我這就前去</font><font f
 okmenu_58305=<font face="Default" color="#ffffff" >我這就動身。</font>
 okmenu_58306=<font face="Default" color="#ffffff" >謹遵號令！</font>
 okmenu_58309=<font face="Default" color="#ffffff" >放馬過來吧！</font>
-okmenu_58310=<font face="Default" color="#ffffff" >告辭。</font>
 specialinfo_107=前往各大鏢局，護送兩趟鏢車運轉物資
 specialinfo_108=運一次鏢看來還不夠，再去運鏢一次
 specialinfo_109=完成對徐家莊的勢力挑戰
@@ -81,7 +79,6 @@ specialinfo_196=前去少林寺，拿到情報，完成門派刺探任務
 specialinfo_197=完成門派刺探任務（需完成3次）
 specialinfo_198=完成門派刺探任務（需完成3次）
 specialinfo_588=完成青雲堡禁地的考驗
-story_58303_1=<font face="Default" color="#ffffff" >   你來啦，我給你講講這暮色之村一事吧……</font><font face="Default" color="#ffffff" >那</font><font face="Default" color="#ffffff" >趙子亟改邪歸正後隱居暮色之村，為救酒店掌櫃孟夢而不得已使出武功來，昔日的仇家得知後紛紛前來此地尋釁，其中包括錫山捕頭錢昔之。這錢昔之與我錦衣衛曾有所交往，其身</font><font face="Default" color="#ffffff" >在公門</font><font face="Default" color="#ffffff" >，卻極愛錢財，一直嫌俸祿太低，暮色之村之行，給了他掠奪民財的機會。我錦衣衛正值物資緊缺之際，機不可失啊……</font>
 story_58303_2=<font face="Default" color="#ffffff" >   </font><font face="Default" color="#ffffff" >那邊吃霸王餐的正是韓似錦的堂弟韓頑石，你去找他談談吧。</font>
 story_58304_1=<font face="Default" color="#ffffff" >   你</font><font face="Default" color="#ffffff" >終於</font><font face="Default" color="#ffffff" >來了，這邊的事情</font><font face="Default" color="#ffffff" >當真棘手的很啊……</font>
 story_58304_2=<font face="Default" color="#ffffff" >   那書齋老闆之死當真神秘，那老闆娘以重金委託我錦衣衛查清此事，可真是馬虎不得啊，接下來你去向對面書齋靈堂那</font><font face="Default" color="#ffffff" >兒</font><font face="Default" color="#ffffff" >守靈的石夫人瞭解下詳情吧。</font>
@@ -107,7 +104,6 @@ storymenu_58304_2=<font face="Default" color="#ffffff" >事不宜遲，我這就
 storymenu_58305_1=<font face="Default" color="#ffffff" >石夫人節哀，我是前來探查此事的錦衣衛弟子，還請你稟明詳情，尊夫</font><font face="Default" color="#ffffff" >過世之</font><font face="Default" color="#ffffff" >前可與往常有何不同？</font>
 storymenu_58305_2=<font face="Default" color="#ffffff" >我這就上去查看一番。</font>
 storymenu_58306_1=<font face="Default" color="#ffffff" >以我推測，襲擊我的人，似乎是為了拿到尊夫留下的手札，或是為了將證據處理掉吧……</font>
-storymenu_58306_2=<font face="Default" color="#8fd6ef" >（看來，我有必要前去青雲堡將此事弄個究竟……）</font><font face="Default" color="#ffffff" >夫人保重，後會有期。</font>
 useiteminfo_58301=用<a href="TASK_ITEM,useitemyxc_002" style="HLStype1">掃帚</a>打掃<a href="findnpc_new,school01,EventNpc86819_1" style="HLStype1">偏殿</a>
 useiteminfo_58302=用<a href="TASK_ITEM,useitemyxc_002" style="HLStype1">掃帚</a>打掃<a href="findnpc_new,school01,EventNpc86819_2" style="HLStype1">議事堂</a>
 useiteminfo_58303=用<a href="TASK_ITEM,useitemyxc_002" style="HLStype1">掃帚</a>打掃<a href="findnpc_new,school01,EventNpc86819_3" style="HLStype1">演武場</a>
@@ -150,4 +146,8 @@ hunterinfo_58306=攻克前來刑房劫獄的<a href="findnpc_new,school01,monrm0
 specialinfo_110=通關暮色之村禁地（任意難度），攻克趙子亟
 specialinfo_188=通關青雲堡禁地（任意難度）探查蝴蝶攻克的真相
 story_58305_2=<font face="Default" color="#ffffff" >   我夫君去世之前原本是要將一疊手札印製成書，上面提到了「青雲堡」「蝴蝶攻克」等等，依我看，那青雲堡怕是難脫干係了……只是那裡一直是江湖禁地，尋常人哪裡敢去……樓上還可能還留有一些</font><font face="Default" color="#ffffff" >手札</font><font face="Default" color="#ffffff" >，不如你前去看看可有幫助？</font>
+story_58303_1=<font face="Default" color="#ffffff" >   你來啦，我給你講講這暮色之村一事吧……</font><font face="Default" color="#ffffff" >那</font><font face="Default" color="#ffffff" >趙子亟改邪歸正後隱居暮色之村，為救酒店掌櫃孟夢而不得已使出武功來，昔日的仇家得知後紛紛前來此地尋釁，其中包括錫山捕頭錢昔之。這錢昔之與我錦衣衛曾有所交往，其身</font><font face="Default" color="#ffffff" >在公門</font><font face="Default" color="#ffffff" >，卻極愛錢財，一直嫌俸祿太低，暮色之村之行，給了他搶佔民財的機會。我錦衣衛正值物資緊缺之際，機不可失啊……</font>
+DialogID_58310=<font face="Default" color="#ffffff" >   嘖嘖，功夫果然不錯……不過我已經</font><font face="Default" color="#ffffff" >派</font><font face="Default" color="#ffffff" >了得力的手下前往漁村。我等靜候佳音即可！</font>
+okmenu_58310=<font face="Default" color="#ffffff" >如此甚好！</font>
+storymenu_58306_2=<font face="Default" color="#ffffff" >石師兄已前往查探，探查結束在下便會將結果告知夫人！</font><font face="Default" color="#ffffff" >夫人保重，後會有期。</font>
 

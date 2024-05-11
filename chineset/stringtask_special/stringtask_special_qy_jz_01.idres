@@ -4,7 +4,6 @@ DialogID_51008=他果真願意為我改掉往日惡習？也罷，這琴我就�
 DialogID_51009=老子反正已經中毒在身，破罐子也不怕破摔了。
 DialogID_51016=<font face="Default" color="#ffffff" >哦呵呵呵呵，少俠不必如此多禮。</font>
 DialogID_51018=<font face="Default" color="#ffffff" >哦？快告訴我，到底是怎麼一回事？</font>
-DialogID_51019=<font face="Default" color="#ffffff" >  </font><font face="Default" color="#8fd6ef" >（一具屍體，似乎剛死沒多久）</font>
 DialogID_51020=<font face="Default" color="#ffffff" >咳咳...沒想到還真有人能來到這裡。</font>
 DialogID_51024=<font face="Default" color="#ffffff" >哦？有什麼事嗎？</font>
 DialogID_51026=<font face="Default" color="#ffffff" >那個竊書賊往逍遙塔方向逃去了....</font>
@@ -234,14 +233,12 @@ storymenu_51009_3=可憐東方公子為了姑娘你整日憂思，姑娘就不�
 storymenu_51010_2=<font face="Default" color="#ffffff" >這……老先生你可不能開這個玩笑，我這等著</font><font face="Default" color="#ffffff" >救人呢，老先生你快告訴我破解之法吧！</font>
 storymenu_51010_3=<font face="Default" color="#ffffff" >嗯……</font><font face="Default" color="#ffffff" >有了！老先生我知道了，告辭！</font>
 useiteminfo_51000=對<a href="findnpc_new,school03,JZTNPC101" style="HLStype1">蝴蝶</a>使用<a href="TASK_ITEM,useitem_jzt028" style="HLStype1">捕蟲盒</a>
-useiteminfo_51001=對<a href="findnpc_new,school03,qy_111030_junzitang_sishi" style="HLStype1">屍體</a>使用<a href="TASK_ITEM,useitem_jzt029" style="HLStype1">火把</a>
 SubmitNpcEx_17811=<s>去牛仿靜那裡買10顆還靈丹給程虎解毒
 SubmitNpcEx_17812=<s>去君子堂蘭谷橋頭找到奸商，探明真相
 SubmitNpcEx_17813=<s>從奸商口中探明神秘人的身份
 SubmitNpcEx_17827=<s>調查<a href="findnpc_new,school03,qy_111030_junzitang_sishi" style="HLStype1">死屍</a>
 SubmitNpcEx_17854=<s>與<a href="findnpc_new,school03,WorldNpc03628" style="HLStype1">閻康</a>交談
 SubmitNpcEx_17855=<s>回去告訴<a href="findnpc_new,school03,WorldNpc03716" style="HLStype1">冬偉</a>
-SubmitNpcEx_17856=<s>對<a href="findnpc_new,school03,qy_111030_junzitang_sishi" style="HLStype1">屍體</a>使用<a href="TASK_ITEM,useitem_jzt029" style="HLStype1">火把</a>
 SubmitNpcEx_17877=<s>向石硯冰回話
 SubmitNpcEx_17892=<s>經過嚴刑拷打，密探已經招供，回去告知<a href="findnpc_new,school03,WorldNpc03315" style="HLStype1">燕長空</a>。
 SubmitNpcEx_17897=<s>回稟<a href="findnpc_new,school03,WorldNpc03314" style="HLStype1">戴語書</a>
@@ -266,4 +263,7 @@ collectinfo_51018=攻克<a href="findnpc_new,school03,monm032700" style="HLStype
 collectinfo_51030=攻克<a href="findnpc_new,school03,monm032700" style="HLStype1">君子堂叛門弟子</a>收回十份君子堂信物
 hunterinfo_51056=攻克十條<a href="findnpc_new,school03,monm033100" style="HLStype1">發狂瘋狗</a>
 hunterinfo_51057=攻克十個<a href="findnpc_new,school03,monm030700" style="HLStype1">倭寇海盜</a>
+DialogID_51019=<font face="Default" color="#ffffff" >  </font><font face="Default" color="#8fd6ef" >（一具遺骸，似乎剛死沒多久）</font>
+SubmitNpcEx_17856=<s>對<a href="findnpc_new,school03,qy_111030_junzitang_sishi" style="HLStype1">遺骸</a>使用<a href="TASK_ITEM,useitem_jzt029" style="HLStype1">火把</a>
+useiteminfo_51001=對<a href="findnpc_new,school03,qy_111030_junzitang_sishi" style="HLStype1">遺骸</a>使用<a href="TASK_ITEM,useitem_jzt029" style="HLStype1">火把</a>
 

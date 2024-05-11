@@ -53,7 +53,6 @@ SubmitNpcEx_55531=將自己遇到的事情告訴<a href="findnpc_new,school07,Wo
 collectinfo_80501=去養心殿附近探查，尋找<a href="findnpc,school07,617,106,318" style="HLStype1">蛛絲馬跡</a>
 collectinfo_80502=收集<a href="findnpc,school07,437,92,528" style="HLStype1">金頂草</a>
 collectinfo_80503=收集<a href="findnpc,school07,390,107,401" style="HLStype1">泥丸花</a>
-collectinfo_80504=檢查西域商人的<a href="findnpc_new,school07,Gather_4nei_st" style="HLStype1">屍體</a>
 collectinfo_80505=檢查西域商人的<a href="findnpc_new,school07,Gather_4nei_yc" style="HLStype1">貨物</a>
 collectinfo_80506=收集<a href="findnpc_new,school07,Gather_4nei_hxc" style="HLStype1">活血草</a>
 collectinfo_80507=收集<a href="findnpc_new,school07,Gather_4nei_hsh" style="HLStype1">紅腮花</a>
@@ -128,9 +127,7 @@ story_80504_5=<font face="Default" color="#ffffff" >我知道的都已經告訴�
 story_80505_1=<font face="Default" color="#ffffff" >這黑衣人離去時只留下了幾</font><font face="Default" color="#ffffff" >枚</font><font face="Default" color="#ffffff" >飛鏢和一封書信。這書信並無特別之處你便從這飛鏢著手調查吧！</font>
 story_80506_1=<font face="Default" color="#ffffff" >這...這是幽冥粉？！除了你還有誰碰過這枚飛鏢？！</font>
 story_80506_2=<font face="Default" color="#ffffff" >幽冥粉</font><font face="Default" color="#ffffff" >是</font><font face="Default" color="#ffffff" >傳至西域胡人的一種劇毒，色幽綠而無味。中毒之人往往毫無察覺，七日之後才會顯出中毒跡象。到時全身如群蟻蝕骨，肌膚潰爛。其痛苦與慘狀如墜幽冥十八層地獄，故此得名！而且此種劇毒只要與人皮膚接觸便可讓人染上此毒！</font>
-story_80506_3=<font face="Default" color="#ffffff" >莫要慌張，事情</font><font face="Default" color="#ffffff" >雖</font><font face="Default" color="#ffffff" >棘手但也不是沒有解決的辦法。我派一位前輩曾與西域胡人有過來往恰好知道這幽冥粉解藥的配方。不過其中有一味藥材十分難得，一種西域的奇花叫屍骨花。傳說是將人的屍體埋入地下再用特殊的肥料澆注而成。</font>
 story_80506_4=<font face="Default" color="#ffffff" >不過其他幾位藥材倒是比較常見，你先去採些金頂草和泥丸花回來。</font>
-story_80507_1=<font face="Default" color="#ffffff" >屍體有什麼不對嗎？</font>
 story_80507_3=<font face="Default" color="#ffffff" >他們賣的東西？什麼東西？</font>
 story_80508_1=<font face="Default" color="#ffffff" >不，不是他。如果是他偷襲我，我應該已經是個死人了！</font><font face="Default" color="#ffffff" >不過看此人的武功路數應該是同一夥人。</font>
 story_80508_2=<font face="Default" color="#ffffff" >還好有其他幾位師兄及時趕來，否則只怕我...</font>
@@ -191,7 +188,6 @@ story_menu_80503=<font face="Default" color="#ffffff" >師兄對這件事怎麼�
 story_menu_80504=<font face="Default" color="#ffffff" >你倒是說話啊？！</font>
 story_menu_80505=<font face="Default" color="#ffffff" >只是此時該如何著手呢？</font>
 story_menu_80506=<font face="Default" color="#ffffff" >道長？</font>
-story_menu_80507=<font face="Default" color="#ffffff" >師妹，你先告知附近的村民不要靠近屍體。</font>
 story_menu_80508=<font face="Default" color="#ffffff" >黑衣人？是搶奪太極圖的那個黑衣人？！</font>
 story_menu_80509=<font face="Default" color="#ffffff" >你到底說還是不說？！</font>
 story_menu_80510=<font face="Default" color="#ffffff" >你知道</font><font face="Default" color="#ffffff" >宋青玉</font><font face="Default" color="#ffffff" >他去哪了麼？</font>
@@ -277,7 +273,6 @@ storymenu_80512_1=<font face="Default" color="#ffffff" >（此事果然與玄真
 storymenu_80512_2=<font face="Default" color="#ffffff" >我乃武當弟子，近日本門遇到一件棘手的事情。此事說來話長，隨後我會慢慢與你道來。但是我們懷疑此事與玄真道長有關，而你是玄真道長從江湖帶回來的人。但是我們又不能直接調查玄真道長免得打草驚蛇，所以將希望寄托在你的身上。</font><font face="Default" color="#ffffff" >天幸你這一摔將自己摔醒！</font>
 storymenu_80512_3=<font face="Default" color="#ffffff" >你不要急慢慢說。</font>
 storymenu_80512_4=<font face="Default" color="#ffffff" >檢驗自己所煉的丹藥？</font>
-storymenu_80512_5=<font face="Default" color="#ffffff" >這...這...簡直喪心病狂、禽獸不如！</font>
 storymenu_80512_6=<font face="Default" color="#ffffff" >一定是醉生夢死！</font>
 storymenu_80512_7=<font face="Default" color="#ffffff" >你還記得什麼？</font><font face="Default" color="#ffffff" >比如玄真道長和什麼人接觸過？</font><font face="Default" color="#ffffff" >你聽說過磨刀堂嗎？</font>
 storymenu_80512_8=<font face="Default" color="#ffffff" >玄真道長果然有問題！你在這稍等片刻，我這就去給你叫人放心我武當定會保住你的安全！</font>
@@ -566,7 +561,6 @@ storymenu_80537_2=<font face="Default" color="#ffffff" >師叔你也太看得起
 storymenu_80537_3=<font face="Default" color="#ffffff" >師叔所言甚是！怎可敗了自己威風漲別人士氣！</font><font face="Default" color="#ffffff" >不過何老漢在比試中受了些輕傷，我去採些杉木草給他療傷先。</font>
 storymenu_80538_1=<font face="Default" color="#ffffff" >和向師叔有關？</font>
 storymenu_80539_1=
-storymenu_80540_2=<font face="Default" color="#ffffff" >大叔，一直到現在我還是不相信向</font><font face="Default" color="#ffffff" >師叔</font><font face="Default" color="#ffffff" >真的會濫殺無辜，其中一定是有誤會。大叔你可以把當時發生的事情詳細的告訴我嗎？</font>
 storymenu_80540_3=<font face="Default" color="#ffffff" >這，向師叔必定不會無</font><font face="Default" color="#ffffff" >故</font><font face="Default" color="#ffffff" >殺害手無寸鐵之人！</font>
 storymenu_80541_1=<font face="Default" color="#ffffff" >（葉俠士，呵）</font>
 storymenu_80542_1=<font face="Default" color="#ffffff" >難道利用何老漢的仇恨不會覺得可恥嗎？</font>
@@ -707,4 +701,10 @@ story_80576_1=<font face="Default" color="#ffffff" >我是來找向九塵報復�
 story_menu_80513=<font face="Default" color="#ffffff" >你的傷好些了嗎？</font><font face="Default" color="#ffffff" >宋青玉你想不想要報復雪恨？！</font>
 story_menu_80532=<font face="Default" color="#ffffff" >大叔？向</font><font face="Default" color="#ffffff" >師叔</font><font face="Default" color="#ffffff" >乃我武當當代出類拔萃的人物，怎會是你口中的攻克兇手！我想其中定是有什麼誤會！</font>
 storymenu_80540_1=<font face="Default" color="#ffffff" >可是你如果傷痛不好也不能找向</font><font face="Default" color="#ffffff" >師叔</font><font face="Default" color="#ffffff" >報復不是？藥我就放這裡了。</font>
+collectinfo_80504=檢查西域商人的<a href="findnpc_new,school07,Gather_4nei_st" style="HLStype1">遺骸</a>
+story_80506_3=<font face="Default" color="#ffffff" >莫要慌張，事情</font><font face="Default" color="#ffffff" >雖</font><font face="Default" color="#ffffff" >棘手但也不是沒有解決的辦法。我派一位前輩曾與西域胡人有過來往恰好知道這幽冥粉解藥的配方。不過其中有一味藥材十分難得，一種西域的奇花叫屍骨花。傳說是將人的遺骸埋入地下再用特殊的肥料澆注而成。</font>
+story_80507_1=<font face="Default" color="#ffffff" >遺骸有什麼不對嗎？</font>
+story_menu_80507=<font face="Default" color="#ffffff" >師妹，你先告知附近的村民不要靠近遺骸。</font>
+storymenu_80512_5=<font face="Default" color="#ffffff" >這...這...簡直喪心病狂、居心叵測！</font>
+storymenu_80540_2=<font face="Default" color="#ffffff" >大叔，一直到現在我還是不相信向</font><font face="Default" color="#ffffff" >師叔</font><font face="Default" color="#ffffff" >真的會幹盡壞事，其中一定是有誤會。大叔你可以把當時發生的事情詳細的告訴我嗎？</font>
 

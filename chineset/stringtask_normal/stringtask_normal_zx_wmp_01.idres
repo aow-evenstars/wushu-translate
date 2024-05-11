@@ -69,7 +69,6 @@ CompleteMenu_51136=<font face="Default" color="#ffffff" >我已經完全知道�
 CompleteMenu_51200=<font face="Default" color="#ffffff" >完成無門派主線任務"瘸腿老婦"</font>
 CompleteMenu_51201=<font face="Default" color="#ffffff" >完成無門派主線任務"尋找斷刀"</font>
 CompleteMenu_51220=<font face="Default" color="#ffffff" >你們能不能容我說兩句？上來就打打殺殺？</font>
-CompleteMenu_51221=<font face="Default" color="#ffffff" >樂茹姑娘，此前是我無意冒犯，既然你不相信我，那我去把綁架之人抓來就是。</font>
 CompleteMenu_51222=<font face="Default" color="#ffffff" >怎麼樣，聽到丹丹說什麼了沒有？人家在謝我，多虧我出手相救。</font>
 CompleteMenu_51223=<font face="Default" color="#ffffff" >C呵呵</font>
 CompleteMenu_51226=<font face="Default" color="#ffffff" >趙大哥，我此次出行偶遇葉樓凱，聽聞錫山韓家廣邀高手追殺趙子亟，此事該如何是好？小弟雖然從未見過趙子亟，但卻相當敬佩其為人。</font>
@@ -230,10 +229,6 @@ context_51101=初入江湖，正是懵懂茫然之際，據稱<a href="findnpc_n
 context_51102=成功組建或者加入一個隊伍後回來見<a href="findnpc_new,city05,Npc_wmp_2n_qkw_l01" style="HLStype1">秦和徵</a>
 context_51103=在<a href="findnpc_new,city05,Npc_wmp_2n_qkw_l01" style="HLStype1">秦和徵</a>的指導下，學會陣法
 context_51104=聽<a href="findnpc_new,city05,Npc_wmp_2n_qkw_l01" style="HLStype1">秦和徵</a>講解平地風雷的學習和用法
-context_51105=在尋找失蹤的少女的過程中瞭解到在成都城附近活躍著一個以綁架、販賣為生的組織。
-context_51106=找到捕快安排在綁架組織裡的線人，從他口中得知一些關於綁架組織的情況。
-context_51107=進行一次綁架獲取綁架組織的信任，並能夠成功的獲得關於綁架組織犯罪的證據。(如果未能在規定的時間內完成任務，可以放棄任務，在<a href="findnpc_new,city05,hbyd005" style="HLStype1">單悅</a>重新接受任務)
-context_51108=把獲得的綁架組織的犯罪證據交給捕快，結束潛入綁匪組織任務，發佈公告，還以真相。
 context_51109=通過與<a href="findnpc_new,city05,WorldNpc09750" style="HLStype1">芩祁肅</a>交談，瞭解踢館相關玩法。
 context_51110=與車伕劉昌交談，瞭解如何借助驛站或渡船快速到達各城市。
 context_51111=一份意外的收穫
@@ -380,7 +375,6 @@ submit_51135=<font face="Default" color="#ffffff" >這就是我帶回來的情�
 submit_51136=<font face="Default" color="#ffffff" >謝謝前輩，我一定會努力的。</font>
 submit_51200=<font face="Default" color="#ffffff" >我可以幫上前輩什麼忙麼？</font>
 submit_51201=<font face="Default" color="#ffffff" >完成任務</font>
-submit_51220=<font face="Default" color="#ffffff" >……色相，好吧，既然你不信，你等著，成都有人綁架是吧？</font>
 submit_51221=<font face="Default" color="#ffffff" >哈哈哈，你稍後便知。</font>
 submit_51222=<font face="Default" color="#ffffff" >……</font>
 submit_51223=<font face="Default" color="#ffffff" >呵呵</font>
@@ -448,9 +442,6 @@ target_51102=成功組建或者加入一個隊伍
 target_51103=學會陣法：三才陣
 target_51104=學會平地風雷
 target_51105=找到失蹤少女，得知關於綁匪組織的情況。
-target_51106=和捕快安排在綁架組織裡的線人接頭，瞭解綁架組織概況。
-target_51107=潛入綁架組織，獲得綁架組織的犯罪證據。
-target_51108=獲得綁架組織情報，交給捕快，剷除綁匪組織。
 target_51109=從武館師傅那邊得到奇珍，並且服用。
 target_51112=從武館師傅處得到寶物
 target_51113=通過考驗，學習朱廣濟的武學。
@@ -533,7 +524,6 @@ title_51102=結伴江湖
 title_51103=江湖秘術---三才陣
 title_51104=江湖秘術---平地風雷
 title_51105=尋找失蹤少女
-title_51106=追查綁架組織
 title_51107=潛入探查
 title_51108=直搗黃龍
 title_51109=踢館引導
@@ -629,4 +619,14 @@ context_51007=薛晨根本就是各大宗派描述的樣子，而且還帶著趙
 context_51031=好事定要多磨，薛晨盜走了倚天劍，攪了泰山封武的局，各大派派出各路好手圍追薛晨，江湖兒女人人有責，抓到薛晨這廝，定然不能輕易饒了他。
 target_51007=先問問天兒，再找到各大宗派弟子，問清楚到底是怎麼回事
 accept_51135_1=<font face="Default" color="#ffffff" >現在正處在多事之秋，現在需要你去峨眉找到內應，詢問下峨眉現在的情況。（在所要刺探的門派可直接通過</font><font face="Default" color="#ff0000" >「江湖助力」</font><font face="Default" color="#ffffff" >界面參加刺探，也可以找</font><font face="Default" color="#ff0000" >「刺探接頭人」</font><font face="Default" color="#ffffff" >處參加刺探）</font>
+CompleteMenu_51221=<font face="Default" color="#ffffff" >樂茹姑娘，此前是我無意冒犯，既然你不相信我，那我去把劫持之人抓來就是。</font>
+context_51105=在尋找失蹤的少女的過程中瞭解到在成都城附近活躍著一個以劫持、販賣為生的組織。
+context_51106=找到捕快安排在牙儈組織裡的線人，從他口中得知一些關於牙儈組織的情況。
+context_51107=進行一次劫持獲取牙儈組織的信任，並能夠成功的獲得關於牙儈組織犯罪的證據。(如果未能在規定的時間內完成任務，可以放棄任務，在<a href="findnpc_new,city05,hbyd005" style="HLStype1">單悅</a>重新接受任務)
+context_51108=把獲得的牙儈組織的犯罪證據交給捕快，結束潛入綁匪組織任務，發佈公告，還以真相。
+submit_51220=<font face="Default" color="#ffffff" >……色相，好吧，既然你不信，你等著，成都有人劫持是吧？</font>
+target_51106=和捕快安排在牙儈組織裡的線人接頭，瞭解牙儈組織概況。
+target_51107=潛入牙儈組織，獲得牙儈組織的犯罪證據。
+target_51108=獲得牙儈組織情報，交給捕快，剷除綁匪組織。
+title_51106=追查牙儈組織
 

@@ -836,4 +836,67 @@ title_52031=情報之爭（徐家莊）
 title_52032=情報之爭（百獸莊）
 title_52034=情報之爭（第一軒）
 title_52035=情報之爭（無根門）
+complete_52037=<font face="Default" color="#ffffff" >做的不錯，我沒看錯你，你將來前途無量！</font>
+submit_52037=<font face="Default" color="#ffffff" >多謝堂主！</font>
+CompleteMenu_52037=<font face="Default" color="#ffffff" >我已經刺探過那些門派了。</font>
+title_52037=情報之爭（青衣閣）
+CanAcceptMenu_52037=<font face="Default" color="#ffffff" >青衣閣刺探周常任務（此任務不能放棄）</font>
+menu_52037_1=<font face="Default" color="#ffffff" >是，弟子遵命！</font>
+accept_52037_1=<font face="Default" color="#ffffff" >近來有些門派動作頻繁，也許是發生什麼大事了，你去刺探一番，回來向我報告。</font>
+context_52037=武林風起雲湧，各大門派和勢力之間的明爭暗鬥愈演愈烈，平日裡行事低調的各大江湖勢力也難免捲入其中，為及時瞭解各大門派的動向，鼓勵弟子們多收集有價值的情報，青龍堂堂主無言決定對於能夠按照他的要求完成情報刺探的弟子給予額外的獎勵（此任務每週只能完成一次，並且只有完成之後的下一周才能重新領取。在提交周常任務時會收回所有多餘的刺探掌門令，請合理安排刺探活動）。
+target_52037=按照青衣閣，青龍堂堂主無言的要求，完成對指定門派的刺探。
+CanAcceptMenu_52120=<font face="Default" color="#ffffff" >刑天城</font><font face="Default" color="#ffffff" >刺探周常任務（此任務不能放棄）</font>
+CanAcceptMenu_52121=<font face="Default" color="#ffffff" >前輩找我有什麼事？</font>
+CanAcceptMenu_52122=<font face="Default" color="#ffffff" >這裡有人來刺探情報？</font>
+CompleteMenu_52120=<font face="Default" color="#ffffff" >我已經刺探過那些門派了。</font>
+CompleteMenu_52121=<font face="Default" color="#ffffff" >我已經巡查過了。</font>
+CompleteMenu_52122=<font face="Default" color="#ffffff" >完成任務</font>
+accept_52120_1=<font face="Default" color="#ffffff" >近來有些門派動作頻繁，也許是發生什麼大事了，你去刺探一番，回來向我報告。</font>
+accept_52121_1=<font face="Default" color="#ffffff" >最近鬼鬼祟祟的人越來越多，你去周圍看看情況。</font>
+accept_52122_1=<font face="Default" color="#ffffff" >這裡有可疑之人出沒，好像已經獲得了不少我門派的情報，你在這四周看看一定要把他們找出來。</font>
+complete_52120=<font face="Default" color="#ffffff" >做的不錯，我沒看錯你，你將來前途無量！</font>
+complete_52121=<font face="Default" color="#ffffff" >太好了。</font>
+complete_52122=<font face="Default" color="#ffffff" >做的不錯。</font>
+context_52120=門派之間的情報鬥爭愈演愈烈，參與情報收集的弟子越來越多，收集的情報質量參差不齊，為鼓勵弟子們多收集有價值的情報，刑天城城主決定對於能夠按照他的要求完成情報刺探的弟子，獎勵門派榮譽憑證70個（此任務每週只能完成一次，並且只有完成之後的下一周才能重新領取。在提交周常任務時會收回所有多餘的刺探掌門令，請合理安排刺探活動）
+context_52121=最近有很多可疑人物在刑天城周圍活動，他們很可能是來這裡刺探的，找到他們並把他們手裡的情報搶回來。可疑人可能出現的位置坐標（-362 484）；（-571，432）；攻克前來刺探的人或者擊敗可疑之人後可獲得情報）
+context_52122=在這裡鬼鬼祟祟的，一定是其他門派前來刺探的，打敗他們拿回被盜走的情報。（承接巡邏日常任務的巡邏弟子可以完成，完成後可獲得一份情報）
+menu_52120_1=<font face="Default" color="#ffffff" >是，弟子遵命！</font>
+menu_52121_1=<font face="Default" color="#ffffff" >好的，我馬上就去。</font>
+menu_52122_1=<font face="Default" color="#ffffff" >我一定會把他們找出來的。</font>
+submit_52120=<font face="Default" color="#ffffff" >多謝掌門！</font>
+submit_52121=<font face="Default" color="#ffffff" >我已經把被盜的情報都拿回來了。</font>
+submit_52122=<font face="Default" color="#ffffff" >我已經打敗可疑的人了。</font>
+target_52120=按照刑天城城主的要求，完成對指定門派的刺探。
+target_52121=完成四次巡邏
+target_52122=打敗可疑的人
+title_52120=情報之爭（刑天城）
+title_52121=門派日常巡邏
+title_52122=可疑之人
+CanAcceptMenu_52010=<font face="Default" color="#ffffff" >望輝洲刺探周常任務（此任務不能放棄）</font>
+CompleteMenu_52010=<font face="Default" color="#ffffff" >我已經刺探過那些門派了。</font>
+accept_52010_1=<font face="Default" color="#ffffff" >近來有些門派動作頻繁，也許是發生什麼大事了，你去刺探一番，回來向我報告。</font>
+complete_52010=<font face="Default" color="#ffffff" >做的不錯，我沒看錯你，你將來前途無量！</font>
+context_52010=門派之間的情報鬥爭愈演愈烈，參與情報收集的弟子越來越多，收集的情報質量參差不齊，為鼓勵弟子們多收集有價值的情報，望輝洲掌門決定對於能夠按照他的要求完成情報刺探的弟子，獎勵300忠義點（此任務每週只能完成一次，並且只有完成之後的下一周才能重新領取。在提交周常任務時會收回所有多餘的刺探掌門令，請合理安排刺探活動）
+menu_52010_1=<font face="Default" color="#ffffff" >是，弟子遵命！</font>
+submit_52010=<font face="Default" color="#ffffff" >多謝掌門！</font>
+target_52010=按照望輝洲掌門的要求，完成對指定門派的刺探。
+CanAcceptMenu_52123=<font face="Default" color="#ffffff" >這裡有人來刺探情報？</font>
+CanAcceptMenu_52124=<font face="Default" color="#ffffff" >這裡有人來刺探情報？</font>
+CompleteMenu_52123=<font face="Default" color="#ffffff" >完成任務</font>
+CompleteMenu_52124=<font face="Default" color="#ffffff" >完成任務</font>
+accept_52123_1=<font face="Default" color="#ffffff" >這裡有可疑之人出沒，好像已經獲得了不少我門派的情報，你在這四周看看一定要把他們找出來。</font>
+accept_52124_1=<font face="Default" color="#ffffff" >這裡有可疑之人出沒，好像已經獲得了不少我門派的情報，你在這四周看看一定要把他們找出來。</font>
+complete_52123=<font face="Default" color="#ffffff" >做的不錯。</font>
+complete_52124=<font face="Default" color="#ffffff" >做的不錯。</font>
+context_52123=刑天城和我望輝洲同氣連枝，最近有很多可疑人物在刑天城周圍活動，他們很可能是來這裡刺探的，找到他們並把他們手裡的情報搶回來。可疑人可能出現的位置坐標（-362，484）；（-571，432）；攻克前來刺探的人或者擊敗可疑之人後可獲得情報）
+context_52124=在這裡鬼鬼祟祟的，一定是其他門派前來刺探的，打敗他們拿回被盜走的情報。（承接巡邏日常任務的巡邏弟子可以完成，完成後可獲得一份情報）
+menu_52123_1=<font face="Default" color="#ffffff" >我一定會把他們找出來的。</font>
+menu_52124_1=<font face="Default" color="#ffffff" >我一定會把他們找出來的。</font>
+submit_52123=<font face="Default" color="#ffffff" >我已經打敗可疑的人了。</font>
+submit_52124=<font face="Default" color="#ffffff" >我已經打敗可疑的人了。</font>
+target_52123=完成四次巡邏
+target_52124=打敗可疑的人
+title_52010=情報之爭（望輝洲）
+title_52123=門派日常巡邏
+title_52124=可疑之人
 

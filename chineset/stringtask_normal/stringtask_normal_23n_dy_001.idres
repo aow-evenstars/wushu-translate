@@ -1,0 +1,305 @@
+﻿
+CanAcceptMenu_79301=<font face="Default" color="#ffffff" >序章·煙雨莊(可承接)</font>
+CompleteMenu_79305=<font face="Default" color="#ffffff" >馳援金烏島(可提交)</font>
+CompleteMenu_79335=<font face="Default" color="#ffffff" >摧毀隕石（可提交）</font>
+accept_79301_1=<font face="Default" color="#ffffff" >你也是本次前往東海的青年才俊吧！趕緊上船，我們馬上就要出發了！</font>
+complete_79305=<font face="Default" color="#ffffff" >好。組織人員往金烏島一事，有勞你全權負責，我另著人安排一艘利於遠航的巨艇，護送大家平安出行。</font>
+complete_79335=<font face="Default" color="#ffffff" >此間你出力甚多，這些都是你應得的！</font>
+context_79301=又到了一年一度前往東海蓬萊交流武學的時間，即刻出發前往蓬萊島吧
+context_79302=數月以來，和東海的通訊完全斷絕。彷彿東海不曾出世一般，江湖上眾說紛紜。
+context_79303=時隔數月，東海眾人突然現身。不知這幾個月海的另一邊到底發生了什麼。
+context_79304=不想這幾個月，海上竟發生如此多的事。東海眾人更是九死一生才找到新的棲息之地。
+context_79305=東海的倭寇竟逃竄到了金烏島，且獲得未知的奇遇實力大增！若放任不管恐有捲土重來之危！
+context_79306=原來東海眾人已尋得新的棲息處，金烏島。不曾想倭寇也流亡至此，且實力大增。
+context_79307=終於到達了金烏島，幸好途中有驚無險。也終於見到了曾經熟悉的面孔，懸著的一顆心總算可以放下了。
+context_79308=金烏島上的門派遠離陸地，武學系統自成一系。頗為奇特。
+context_79309=島上的倭寇無孔不入，沒想到剛到島上便被他們的探子盯上！
+context_79310=在群峰之中竟有如此人間仙境，相較中原的名牌大派也不遑多讓。
+context_79311=經過島上眾人多次刺探，已經八目城的基本情報摸查清楚。
+context_79312=八目城的情報已經基本掌握，前往城中進一步探查。
+context_79313=前方的水潭十分安靜，似乎沒有異常。可極致的平靜就是極致的危險。（和<a href="findnpc_new,scene38,npc_xdh_dy_22" style="HLStype1">嵐羲閣弟子</a>打聽如何潛入八目城）
+context_79314=前方林蔭密佈，與島上其他樹林無異。不知其中又蘊藏著怎樣的危險。（和<a href="findnpc_new,scene38,npc_xdh_dy_22" style="HLStype1">嵐羲閣弟子</a>打聽如何潛入八目城）
+context_79315=高牆之上時見人影閃過，可見八目城守衛森嚴。城下稍有異動便會有箭雨落下，需謹慎潛入。（和<a href="findnpc_new,scene38,npc_xdh_dy_22" style="HLStype1">嵐羲閣弟子</a>打聽如何潛入八目城）（若被看出偽裝，可找<a href="findnpc_new,scene38,npc_xdh_dy_26" style="HLStype1">嵐羲閣弟子</a>索要一套倭寇衣物）
+context_79316=四處都有鳥鳴聲，夾雜著尖銳的破風聲。（和<a href="findnpc_new,scene38,npc_xdh_dy_22" style="HLStype1">嵐羲閣弟子</a>打聽如何潛入八目城）（若被看出偽裝，可找<a href="findnpc_new,scene38,npc_xdh_dy_26" style="HLStype1">嵐羲閣弟子</a>索要一套倭寇衣物）
+context_79317=城中戒備森嚴，不僅有大量的守衛還有許多獵犬。（和<a href="findnpc_new,scene38,npc_xdh_dy_22" style="HLStype1">嵐羲閣弟子</a>打聽如何潛入八目城）（若被看出偽裝，可找<a href="findnpc_new,scene38,npc_xdh_dy_26" style="HLStype1">嵐羲閣弟子</a>索要一套倭寇衣物）
+context_79318=這個房間在城主府中十分隱蔽，且器物眾多。倭寇的秘密很可能就在此間。（和<a href="findnpc_new,scene38,npc_xdh_dy_22" style="HLStype1">嵐羲閣弟子</a>打聽如何潛入八目城）（若被看出偽裝，可找<a href="findnpc_new,scene38,npc_xdh_dy_26" style="HLStype1">嵐羲閣弟子</a>索要一套倭寇衣物）
+context_79319=房間中有一處地板十分奇怪，似乎藏有暗格。（和<a href="findnpc_new,scene38,npc_xdh_dy_22" style="HLStype1">嵐羲閣弟子</a>打聽如何潛入八目城）（若被看出偽裝，可找<a href="findnpc_new,scene38,npc_xdh_dy_26" style="HLStype1">嵐羲閣弟子</a>索要一套倭寇衣物）
+context_79320=倭寇的營房之中也有怪異的味道傳來，與城主府中的十分相似！倭寇的秘密似乎就來源於此！（和<a href="findnpc_new,scene38,npc_xdh_dy_22" style="HLStype1">嵐羲閣弟子</a>打聽如何潛入八目城）（若被看出偽裝，可找<a href="findnpc_new,scene38,npc_xdh_dy_26" style="HLStype1">嵐羲閣弟子</a>索要一套倭寇衣物）
+context_79321=倭寇竟然在地牢中對島上的土著進行中慘絕人寰的人體試驗。若不能在此處將倭寇全部剿滅，讓他們將秘密帶走，後果不堪設想！（和<a href="findnpc_new,scene38,npc_xdh_dy_22" style="HLStype1">嵐羲閣弟子</a>打聽如何潛入八目城）（若被看出偽裝，可找<a href="findnpc_new,scene38,npc_xdh_dy_26" style="HLStype1">嵐羲閣弟子</a>索要一套倭寇衣物）
+context_79322=此刻八目城完全展現了它的醜惡，或許魔鬼城才是配的上它的稱呼。（和<a href="findnpc_new,scene38,npc_xdh_dy_22" style="HLStype1">嵐羲閣弟子</a>打聽如何潛入八目城）（若被看出偽裝，可找<a href="findnpc_new,scene38,npc_xdh_dy_26" style="HLStype1">嵐羲閣弟子</a>索要一套倭寇衣物）
+context_79323=此刻八目城完全展現了它的醜惡，或許魔鬼城才是配的上它的稱呼。（和<a href="findnpc_new,scene38,npc_xdh_dy_22" style="HLStype1">嵐羲閣弟子</a>打聽如何潛入八目城）（若被看出偽裝，可找<a href="findnpc_new,scene38,npc_xdh_dy_26" style="HLStype1">嵐羲閣弟子</a>索要一套倭寇衣物）
+context_79324=幸得五氣堡及時出現，乘坐他們的機甲飛禽離開八目城。否則遭遇如此多的倭寇圍追堵截，恐命喪於此。
+context_79325=城主府中的神秘石頭與各位描述的隕石十分相似，只是這隕石居然有如此神奇的特質。
+context_79326=城主府中的神秘石頭與各位描述的隕石十分相似，只是這隕石居然有如此神奇的特質。
+context_79327=島上的倭寇所作所為，人神共憤！既然已經摸清了倭寇的秘密，反攻迫在眉睫。
+context_79328=島上的倭寇所作所為，人神共憤！既然已經摸清了倭寇的秘密，反攻迫在眉睫。
+context_79329=八目妖潭中瘴氣叢生，危險密佈，不能再放置不管！此次反攻必須連同八目妖潭一起破除！（和<a href="findnpc,scene38,-1378.713,60.968,-1682.133" style="HLStype1">五氣堡弟子</a>一起反攻八目城）
+context_79330=八目魔林中瘴氣叢生，危險密佈，不能再放置不管！此次反攻必須連同八目魔林一起破除！（和<a href="findnpc,scene38,-1378.713,60.968,-1682.133" style="HLStype1">五氣堡弟子</a>一起反攻八目城）
+context_79331=五氣堡的機關鳥在此次反攻中威力巨大，乘坐機關鳥擊敗守城的倭寇。（和<a href="findnpc,scene38,-1378.713,60.968,-1682.133" style="HLStype1">五氣堡弟子</a>一起反攻八目城）（向<a href="findnpc_new,scene38,npc_xdh_dy_72" style="HLStype1">五氣堡弟子</a>索要飛鳶）
+context_79332=城中的防守已經被大幅削弱，此刻正是直搗黃龍的好時機！（和<a href="findnpc,scene38,-1378.713,60.968,-1682.133" style="HLStype1">五氣堡弟子</a>一起反攻八目城）
+context_79333=城中的防守已經被大幅削弱，此刻正是直搗黃龍的好時機！（和<a href="findnpc,scene38,-1378.713,60.968,-1682.133" style="HLStype1">五氣堡弟子</a>一起反攻八目城）
+context_79334=城中所有障礙都已經破除，此刻要做的便是將隕石帶離此處。（和<a href="findnpc,scene38,-1378.713,60.968,-1682.133" style="HLStype1">五氣堡弟子</a>一起反攻八目城）
+context_79335=一顆隕石居然在原本平靜的小島上引發了如此慘劇的發生！永遠的被銷毀將是它唯一的命運。
+menu_79301_1=<font face="Default" color="#ffffff" >好勒！</font>
+submit_79305=<font face="Default" color="#ffffff" >晚輩領命。</font>
+submit_79335=<font face="Default" color="#ffffff" >摧毀隕石（已完成）</font>
+target_79301=乘船前往東海蓬萊島
+target_79302=陪神月宮行雲師姐散步
+target_79303=詢問東海眾人為何數月以來了無音訊
+target_79304=詢問東海眾人何為金烏島
+target_79305=馳援金烏島
+target_79306=乘坐福船前往金烏島
+target_79307=和東海故人相見
+target_79308=瞭解金烏島上各門派的武學特色
+target_79309=解決倭寇探子
+target_79310=拜見嵐羲閣主
+target_79311=瞭解八目城的情報
+target_79312=前往八目林尋找接應的嵐羲閣弟子
+target_79313=穿過八目妖譚
+target_79314=穿過八目魔林
+target_79315=謹慎穿過此處通道
+target_79316=穿過此處，潛入八目城
+target_79317=潛入城主府
+target_79318=搜尋線索
+target_79319=檢查房間，搜尋線索
+target_79320=調查倭寇的營房
+target_79321=解救地牢中的土著
+target_79322=逃離八目城
+target_79323=離開<a href="findnpc,scene38,-821.411,138.589,-1572.239" style="HLStype1">地牢</a>，逃離八目城
+target_79324=拜見五氣堡堡主
+target_79325=分享八目城中的情報
+target_79326=分享八目城中的情報
+target_79327=和大家一起做反攻八目城的戰前準備
+target_79328=和大家一起做反攻八目城的戰前準備
+target_79329=破除八目妖潭
+target_79330=破除八目魔林
+target_79331=乘坐機關鳥擊敗守城的倭寇
+target_79332=攻入城主府
+target_79333=攻入城主府
+target_79334=攜隕石離開此處
+target_79335=銷毀隕石
+title_79301=序章·煙雨莊
+title_79302=東海有客至
+title_79303=此東海非彼東海
+title_79304=金烏島
+title_79305=馳援金烏島
+title_79306=啟航
+title_79307=金烏島
+title_79308=金烏三派
+title_79309=倭寇哨兵
+title_79310=嵐羲閣
+title_79311=八目城情報
+title_79312=前往八目林
+title_79313=穿過八目妖潭
+title_79314=八目魔林
+title_79315=箭雨陣
+title_79316=潛入城主府
+title_79317=潛入城主府
+title_79318=倭寇的秘密
+title_79319=看不懂的信函
+title_79320=奇怪的石頭
+title_79321=隱秘的地牢
+title_79322=逃離魔鬼城
+title_79323=逃離魔鬼城
+title_79324=五氣堡飛鳶
+title_79325=神秘隕石
+title_79326=神秘隕石
+title_79327=反攻八目城
+title_79328=反攻八目城
+title_79329=八目妖潭
+title_79330=八目魔林
+title_79331=空中壓制
+title_79332=直搗黃龍
+title_79333=直搗黃龍
+title_79334=隕石
+title_79335=摧毀隕石
+CanAcceptMenu_79336=<font face="Default" color="#ffffff" >突襲八目城（可承接）</font>
+CanAcceptMenu_79337=<font face="Default" color="#ffffff" >尋找經卷</font><font face="Default" color="#ffffff" >（50點活躍度）</font><font face="Default" color="#ffffff" >（可承接）</font>
+CompleteMenu_79337=<font face="Default" color="#ffffff" >尋找經卷</font><font face="Default" color="#ffffff" >（50點活躍度）</font><font face="Default" color="#ffffff" >（可提交）</font>
+accept_79336_1=<font face="Default" color="#ffffff" >八目城此刻防守空虛，正是突襲的好機會！</font>
+accept_79337_1=<font face="Default" color="#ffffff" >希望少俠可以幫助貧僧尋找丟失的經卷</font><font face="Default" color="#ffffff" >。</font>
+complete_79336=<font face="Default" color="#ffffff" >距離徹底摧毀八目城更近了一步！</font>
+complete_79337=<font face="Default" color="#ffffff" >阿彌陀佛。</font>
+context_79336=八目城僅存的隕石已經不多，看守愈發嚴格。突襲八目城，擊敗隕石守衛，以便金烏島弟子破壞隕石。（擊敗城主和全部隕石守衛有額外獎勵）
+context_79337=江南風光宜人，近日諸多靈寵棲居寒山寺，以致部分古籍經卷遺失。各位大俠可前往寒山寺助力尋找，如尋得遺失經卷，可獲得住持嘉獎。
+menu_79336_1=<font face="Default" color="#ffffff" >如此甚好！</font>
+menu_79337_1=<font face="Default" color="#ffffff" >包在我身上！</font>
+submit_79336=<font face="Default" color="#ffffff" >突襲八目城（已完成）</font>
+submit_79337=<font face="Default" color="#ffffff" >尋找經卷（50點活躍度）（</font><font face="Default" color="#ffffff" >已</font><font face="Default" color="#ffffff" >完成）</font>
+target_79336=擊敗城主和隕石守衛
+target_79337=幫助寒山寺住持尋找經卷
+title_79336=突襲八目城(普通難度)
+title_79337=尋找經卷（50點活躍度）
+CanAcceptMenu_79338=<font face="Default" color="#ffffff" >青龍暗影（可承接）</font>
+CanAcceptMenu_79339=<font face="Default" color="#ffffff" >直搗黃龍（可承接）</font>
+CompleteMenu_79338=<font face="Default" color="#ffffff" >青龍暗影（可提交）</font>
+CompleteMenu_79339=<font face="Default" color="#ffffff" >直搗黃龍（</font><font face="Default" color="#ffffff" >可提交</font><font face="Default" color="#ffffff" >）</font>
+accept_79338_1=<font face="Default" color="#ffffff" >老堡主將刀譜秘籍分別藏於青龍堡各處。希望少俠可以助司某一臂之力，集齊秘籍。司某的酬勞定讓少俠滿意！</font>
+accept_79339_1=<font face="Default" color="#ffffff" >司徒笑公然排除異己，隨意安插自己的親信。此番做法已經動搖了雙龍堡的根基！</font><font face="Default" color="#ffffff" >希望少俠可以助我一臂之力！</font><font face="Default" color="#ffffff" >削弱司徒笑的實力！</font>
+complete_79338=<font face="Default" color="#ffffff" >多謝少俠！</font>
+complete_79339=<font face="Default" color="#ffffff" >多謝少俠！</font>
+context_79338=活動期間，江湖名俊玩家每天可前往君子堂黃龍堡，在司徒笑（187，1073）處接取隱秘任務：奪取老堡主藏於青龍堡內的刀譜秘籍。
+context_79339=活動期間，江湖名俊玩家每天可前往君子堂青龍堡，在君檀汐（511，1138）處接取任務：直搗黃龍，削弱現任堡主司徒笑的勢力。
+menu_79338_1=<font face="Default" color="#ffffff" >包在我身上！</font>
+menu_79339_1=<font face="Default" color="#ffffff" >包在我身上！</font>
+submit_79338=<font face="Default" color="#ffffff" >青龍暗影（已完成）</font>
+submit_79339=<font face="Default" color="#ffffff" >直搗黃龍（</font><font face="Default" color="#ffffff" >已完成</font><font face="Default" color="#ffffff" >）</font>
+target_79338=奪取老堡主藏於青龍堡內的刀譜秘籍
+target_79339=削弱現任堡主司徒笑的勢力
+title_79338=青龍暗影
+title_79339=直搗黃龍
+CompleteMenu_79336=<font face="Default" color="#ffffff" >突襲八目城（可提交）</font><font face="Default" color="#ffffff" >（獎勵200赤晶值，佔用突襲八目城玩法周上限）</font>
+CanAcceptMenu_79364=<font face="Default" color="#ffffff" >青山隱（</font><font face="Default" color="#ffffff" >可承接</font><font face="Default" color="#ffffff" >）</font>
+CompleteMenu_79340=<font face="Default" color="#ffffff" >少林之行（已完成）</font>
+CompleteMenu_79341=<font face="Default" color="#ffffff" >武當</font><font face="Default" color="#ffffff" >之行（</font><font face="Default" color="#ffffff" >已完成</font><font face="Default" color="#ffffff" >）</font>
+CompleteMenu_79342=<font face="Default" color="#ffffff" >峨眉</font><font face="Default" color="#ffffff" >之行（已完成）</font>
+CompleteMenu_79343=<font face="Default" color="#ffffff" >丐幫</font><font face="Default" color="#ffffff" >之行（已完成）</font>
+CompleteMenu_79344=<font face="Default" color="#ffffff" >唐門</font><font face="Default" color="#ffffff" >之行（已完成）</font>
+CompleteMenu_79345=<font face="Default" color="#ffffff" >君子堂</font><font face="Default" color="#ffffff" >之行（已完成）</font>
+CompleteMenu_79346=<font face="Default" color="#ffffff" >錦衣衛</font><font face="Default" color="#ffffff" >之行（已完成）</font>
+CompleteMenu_79347=<font face="Default" color="#ffffff" >極樂谷</font><font face="Default" color="#ffffff" >之行（已完成）</font>
+CompleteMenu_79348=<font face="Default" color="#ffffff" >明教</font><font face="Default" color="#ffffff" >之行（已完成）</font>
+CompleteMenu_79349=<font face="Default" color="#ffffff" >天山派</font><font face="Default" color="#ffffff" >之行（已完成）</font>
+CompleteMenu_79350=<font face="Default" color="#ffffff" >崑崙</font><font face="Default" color="#ffffff" >派之行（已完成）</font>
+CompleteMenu_79351=<font face="Default" color="#ffffff" >刑天城</font><font face="Default" color="#ffffff" >之行（已完成）</font>
+CompleteMenu_79352=<font face="Default" color="#ffffff" >西山古墓</font><font face="Default" color="#ffffff" >之行（已完成）</font>
+CompleteMenu_79353=<font face="Default" color="#ffffff" >血刀堂</font><font face="Default" color="#ffffff" >之行（已完成）</font>
+CompleteMenu_79354=<font face="Default" color="#ffffff" >長風鏢局</font><font face="Default" color="#ffffff" >之行（已完成）</font>
+CompleteMenu_79355=<font face="Default" color="#ffffff" >念蘿壩</font><font face="Default" color="#ffffff" >之行（已完成）</font>
+CompleteMenu_79356=<font face="Default" color="#ffffff" >神水宮</font><font face="Default" color="#ffffff" >之行（已完成）</font>
+CompleteMenu_79357=<font face="Default" color="#ffffff" >華山派</font><font face="Default" color="#ffffff" >之行（已完成）</font>
+CompleteMenu_79358=<font face="Default" color="#ffffff" >五仙教</font><font face="Default" color="#ffffff" >之行（已完成）</font>
+CompleteMenu_79359=<font face="Default" color="#ffffff" >達摩</font><font face="Default" color="#ffffff" >派之行（已完成）</font>
+CompleteMenu_79360=<font face="Default" color="#ffffff" >神機營</font><font face="Default" color="#ffffff" >之行（已完成）</font>
+CompleteMenu_79361=<font face="Default" color="#ffffff" >星渺閣之行</font><font face="Default" color="#ffffff" >（已完成）</font>
+CompleteMenu_79362=<font face="Default" color="#ffffff" >天涯海閣</font><font face="Default" color="#ffffff" >之行（已完成）</font>
+CompleteMenu_79363=<font face="Default" color="#ffffff" >望輝洲</font><font face="Default" color="#ffffff" >之行（已完成）</font>
+CompleteMenu_79364=<font face="Default" color="#ffffff" >青山隱</font><font face="Default" color="#ffffff" >（已完成）</font>
+accept_79364_1=<font face="Default" color="#ffffff" >少俠初來此地，不妨跟著老朽一起逛一下。</font>
+complete_79340=<font face="Default" color="#ffffff" >甚好，甚好！</font>
+complete_79341=<font face="Default" color="#ffffff" >甚好，甚好！</font>
+complete_79342=<font face="Default" color="#ffffff" >甚好，甚好！</font>
+complete_79343=<font face="Default" color="#ffffff" >甚好，甚好！</font>
+complete_79344=<font face="Default" color="#ffffff" >甚好，甚好！</font>
+complete_79345=<font face="Default" color="#ffffff" >甚好，甚好！</font>
+complete_79346=<font face="Default" color="#ffffff" >甚好，甚好！</font>
+complete_79347=<font face="Default" color="#ffffff" >甚好，甚好！</font>
+complete_79348=<font face="Default" color="#ffffff" >甚好，甚好！</font>
+complete_79349=<font face="Default" color="#ffffff" >甚好，甚好！</font>
+complete_79350=<font face="Default" color="#ffffff" >甚好，甚好！</font>
+complete_79351=<font face="Default" color="#ffffff" >甚好，甚好！</font>
+complete_79352=<font face="Default" color="#ffffff" >甚好，甚好！</font>
+complete_79353=<font face="Default" color="#ffffff" >甚好，甚好！</font>
+complete_79354=<font face="Default" color="#ffffff" >甚好，甚好！</font>
+complete_79355=<font face="Default" color="#ffffff" >甚好，甚好！</font>
+complete_79356=<font face="Default" color="#ffffff" >甚好，甚好！</font>
+complete_79357=<font face="Default" color="#ffffff" >甚好，甚好！</font>
+complete_79358=<font face="Default" color="#ffffff" >甚好，甚好！</font>
+complete_79359=<font face="Default" color="#ffffff" >甚好，甚好！</font>
+complete_79360=<font face="Default" color="#ffffff" >甚好，甚好！</font>
+complete_79361=<font face="Default" color="#ffffff" >甚好，甚好！</font>
+complete_79362=<font face="Default" color="#ffffff" >甚好，甚好！</font>
+complete_79363=<font face="Default" color="#ffffff" >甚好，甚好！</font>
+complete_79364=<font face="Default" color="#ffffff" >接下來少俠就按照自己的想法開始建設此地吧。</font>
+context_79340=前往少林幫助達叔將龍珠菩提送給玄懷大師。
+context_79341=前往武當幫助達叔將綿雲拂塵送給紫陽真人。
+context_79342=前往峨眉幫助達叔將蓮花玉簪送給絕塵師太。
+context_79343=前往丐幫幫助達叔將葫中仙送給蕭天放。
+context_79344=前往唐門幫助達叔將異馥爐送給唐天行。
+context_79345=前往君子堂幫助達叔將泥銀手扇送給蕭別情。
+context_79346=前往錦衣衛幫助達叔將幻夜目鏡送給皇甫遙。
+context_79347=前往極樂谷幫助達叔將繞漣漪送給單天冥。
+context_79348=前往明教幫助達叔將鏡牌送給明時月。
+context_79349=前往天山派幫助達叔將寒梧符牌送給白天璟。
+context_79350=前往崑崙派幫助達叔將鶴羽冠送給雲陽子。
+context_79351=前往刑天城幫助達叔將蔽日戰魂幡送給刑烈。
+context_79352=前往西山古墓幫助達叔將冰璃飛瀑送給龍妤幽。
+context_79353=前往血刀堂幫助達叔將風雷指環送給血海刀尊。
+context_79354=前往長風鏢局幫助達叔將風行囊送給聞毅成。
+context_79355=前往念蘿壩幫助達叔將流螢梨花燈送給水寒秋。
+context_79356=前往神水宮幫助達叔將流花篦送給水母陰姬。
+context_79357=前往華山派幫助達叔將瓊華玦送給周逸蕭。
+context_79358=前往五仙教幫助達叔將林下風音送給白夙玨。
+context_79359=前往達摩派幫助達叔將藥師琉璃瓶送給那須陀。
+context_79360=前往神機營幫助達叔將天工百戰送給陸少鈞。
+context_79361=前往星渺閣幫助達叔將星河面簾送給朱棠。
+context_79362=前往天涯海閣幫助達叔將車渠塤送給幽游君。
+context_79363=前往望輝洲幫助達叔將風火鼓送給任月皎。
+context_79364=跟隨達叔瞭解一下莊園的情況
+menu_79364_1=<font face="Default" color="#ffffff" >達叔請。</font>
+submit_79340=<font face="Default" color="#ffffff" >玄懷大師決定找我們訂購一</font><font face="Default" color="#ffffff" >些</font><font face="Default" color="#ffffff" >龍珠菩提。</font>
+submit_79341=<font face="Default" color="#ffffff" >紫陽真人決定找我們訂購一</font><font face="Default" color="#ffffff" >些</font><font face="Default" color="#ffffff" >綿雲拂塵。</font>
+submit_79342=<font face="Default" color="#ffffff" >絕塵師太決定找我們訂購一</font><font face="Default" color="#ffffff" >些蓮花玉簪</font><font face="Default" color="#ffffff" >。</font>
+submit_79343=<font face="Default" color="#ffffff" >蕭幫主</font><font face="Default" color="#ffffff" >決定找我們訂購一些</font><font face="Default" color="#ffffff" >葫中仙</font><font face="Default" color="#ffffff" >。</font>
+submit_79344=<font face="Default" color="#ffffff" >唐門主</font><font face="Default" color="#ffffff" >決定找我們訂購一些</font><font face="Default" color="#ffffff" >異馥爐</font><font face="Default" color="#ffffff" >。</font>
+submit_79345=<font face="Default" color="#ffffff" >蕭堂主</font><font face="Default" color="#ffffff" >決定找我們訂購一些</font><font face="Default" color="#ffffff" >泥銀手扇</font><font face="Default" color="#ffffff" >。</font>
+submit_79346=<font face="Default" color="#ffffff" >指揮使決定找我們訂購一些</font><font face="Default" color="#ffffff" >幻夜目鏡</font><font face="Default" color="#ffffff" >。</font>
+submit_79347=<font face="Default" color="#ffffff" >單谷主</font><font face="Default" color="#ffffff" >決定找我們訂購一些</font><font face="Default" color="#ffffff" >繞漣漪</font><font face="Default" color="#ffffff" >。</font>
+submit_79348=<font face="Default" color="#ffffff" >教主</font><font face="Default" color="#ffffff" >決定找我們訂購一些</font><font face="Default" color="#ffffff" >鏡牌</font><font face="Default" color="#ffffff" >。</font>
+submit_79349=<font face="Default" color="#ffffff" >白掌門決定找我們訂購一些</font><font face="Default" color="#ffffff" >寒梧符牌</font><font face="Default" color="#ffffff" >。</font>
+submit_79350=<font face="Default" color="#ffffff" >雲</font><font face="Default" color="#ffffff" >掌門決定找我們訂購一些</font><font face="Default" color="#ffffff" >鶴羽冠</font><font face="Default" color="#ffffff" >。</font>
+submit_79351=<font face="Default" color="#ffffff" >大將軍決定找我們訂購一些蔽日戰魂幡。</font>
+submit_79352=<font face="Default" color="#ffffff" >掌門</font><font face="Default" color="#ffffff" >決定找我們訂購一些</font><font face="Default" color="#ffffff" >冰璃飛瀑</font><font face="Default" color="#ffffff" >。</font>
+submit_79353=<font face="Default" color="#ffffff" >血海刀尊</font><font face="Default" color="#ffffff" >決定找我們訂購一些</font><font face="Default" color="#ffffff" >風雷指環</font><font face="Default" color="#ffffff" >。</font>
+submit_79354=<font face="Default" color="#ffffff" >總鏢頭</font><font face="Default" color="#ffffff" >決定找我們訂購一些</font><font face="Default" color="#ffffff" >風行囊</font><font face="Default" color="#ffffff" >。</font>
+submit_79355=<font face="Default" color="#ffffff" >尊主決定找我們訂購一些</font><font face="Default" color="#ffffff" >流螢梨花燈</font><font face="Default" color="#ffffff" >。</font>
+submit_79356=<font face="Default" color="#ffffff" >水母陰姬</font><font face="Default" color="#ffffff" >決定找我們訂購一些流花篦。</font>
+submit_79357=<font face="Default" color="#ffffff" >周掌門決定找我們訂購一些</font><font face="Default" color="#ffffff" >瓊華玦</font><font face="Default" color="#ffffff" >。</font>
+submit_79358=<font face="Default" color="#ffffff" >白教主決定找我們訂購一些</font><font face="Default" color="#ffffff" >林下風音</font><font face="Default" color="#ffffff" >。</font>
+submit_79359=<font face="Default" color="#ffffff" >那須陀代</font><font face="Default" color="#ffffff" >掌門決定找我們訂購一些藥師琉璃瓶。</font>
+submit_79360=<font face="Default" color="#ffffff" >陸營主決定找我們訂購一些</font><font face="Default" color="#ffffff" >天工百戰</font><font face="Default" color="#ffffff" >。</font>
+submit_79361=<font face="Default" color="#ffffff" >朱閣主</font><font face="Default" color="#ffffff" >決定找我們訂購一些</font><font face="Default" color="#ffffff" >星河面簾</font><font face="Default" color="#ffffff" >。</font>
+submit_79362=<font face="Default" color="#ffffff" >閣主決定找我們訂購一些</font><font face="Default" color="#ffffff" >車渠塤</font><font face="Default" color="#ffffff" >。</font>
+submit_79363=<font face="Default" color="#ffffff" >城主決定找我們訂購一些</font><font face="Default" color="#ffffff" >風火鼓</font><font face="Default" color="#ffffff" >。</font>
+submit_79364=<font face="Default" color="#ffffff" >多謝達叔。</font>
+target_79340=前往少林
+target_79341=前往武當
+target_79342=前往峨眉
+target_79343=前往丐幫
+target_79344=前往唐門
+target_79345=前往君子堂
+target_79346=前往錦衣衛
+target_79347=前往極樂谷
+target_79348=前往明教
+target_79349=前往天山派
+target_79350=前往崑崙派
+target_79351=前往刑天城
+target_79352=前往西山古墓
+target_79353=前往血刀堂
+target_79354=前往長風鏢局
+target_79355=前往念蘿壩
+target_79356=前往神水宮
+target_79357=前往華山派
+target_79358=前往五仙教
+target_79359=前往達摩派
+target_79360=前往神機營
+target_79361=前往星渺閣
+target_79362=前往天涯海閣
+target_79363=前往望輝洲
+target_79364=跟隨達叔
+title_79340=少林之行
+title_79341=武當之行
+title_79342=峨眉之行
+title_79343=丐幫之行
+title_79344=唐門之行
+title_79345=君子堂之行
+title_79346=錦衣衛之行
+title_79347=極樂谷之行
+title_79348=明教之行
+title_79349=天山派之行
+title_79350=崑崙派之行
+title_79351=刑天城之行
+title_79352=西山古墓之行
+title_79353=血刀堂之行
+title_79354=長風鏢局之行
+title_79355=念蘿壩之行
+title_79356=神水宮之行
+title_79357=華山派之行
+title_79358=五仙教之行
+title_79359=達摩派之行
+title_79360=神機營之行
+title_79361=星渺閣之行
+title_79362=天涯海閣之行
+title_79363=望輝洲之行
+title_79364=青山隱
+

@@ -35,6 +35,7 @@ SubmitNpcEx_51630=询问<a href="findnpc_new,school08,WorldNpc00212" style="HLSt
 SubmitNpcEx_51637=速去拜见<a href="findnpc_new,school20,newmp_mj_001" style="HLStype1">明教教主</a>，恳请他收你为徒
 SubmitNpcEx_51639=速去拜见<a href="findnpc_new,school22,newmp_tsp_001" style="HLStype1">白天璟</a>，恳请他收你为徒。(可以前去燕京寻找<a href="findnpc_new,city01,Transschool22guj_B" style="HLStype1">钭军心</a>前往天山派)
 SubmitNpcEx_51641=速去拜见<a href="findnpc_new,school24,newmp_kl_001" style="HLStype1">云阳子</a>，恳请他收你为徒。
+SubmitNpcEx_51643=速去拜见<a href="findnpc_new,school26,newmp_xingtb_001" style="HLStype1">刑烈</a>，恳请他收你为徒。
 collectinfo_9804=使用<a href="TASK_ITEM,useitem_brsm05" style="HLStype1">金丝网罩</a>捕捉<a href="findnpc_new,school05,monrm062800" style="HLStype1">金眼蜘蛛</a>
 hunterinfo_9812=杀死<a href="findnpc_new,school01,monrm013901" style="HLStype1">新捕死囚</a>
 interactinfo_9819=将药带给<a href="findnpc_new,school06,WorldNpc02686" style="HLStype1">韩纱织</a>
@@ -107,6 +108,7 @@ story_9856_1=<font face="Default" color="#ffffff" >最近一段时间来往恶�
 story_9856_2=<font face="Default" color="#ffffff" >听说有个极乐谷弟子还在恶人谷中，他是之前和其它门派的那些弟子一起来的，经我观察此人大大咧咧，你应该能从他那里打探到些许消息。</font>
 story_9857_1=<font face="Default" color="#ffffff" >本</font><font face="Default" color="#ffffff" >派弟子</font><font face="Default" color="#ffffff" >平日行事不必拘泥于世俗礼教，但大节切不可失。你还要谨记。</font>
 story_9858_1=<font face="Default" color="#ffffff" >本派弟子平日行事不必拘泥于世俗礼教，但大节切不可失。你还要谨记。</font>
+story_9859_1=<font face="Default" color="#ffffff" >本派弟子平日行事不必拘泥于世俗礼教，但大节切不可失。你还要谨记。</font>
 story_menu_9810=<font face="Default" color="#ffffff" >我已经把鸽子放出去了。</font>
 story_menu_9811=<font face="Default" color="#ffffff" >掌门请出题吧。</font>
 story_menu_9812=<font face="Default" color="#ffffff" >如果晚辈没有猜错，这应该是碣石调幽兰，是唐代的减字谱。</font>
@@ -122,6 +124,7 @@ story_menu_9855=<font face="Default" color="#ffffff" >江湖势力第一轩</fon
 story_menu_9856=<font face="Default" color="#ffffff" >天下变</font>
 story_menu_9857=<font face="Default" color="#ffffff" >天山派派规</font><font face="Default" color="#ffffff" >明确，教规严格，</font><font face="Default" color="#ffffff" >弟子</font><font face="Default" color="#ffffff" >须要以拯救世人为己任。</font>
 story_menu_9858=<font face="Default" color="#ffffff" >昆仑</font><font face="Default" color="#ffffff" >派派规明确，教规严格，弟子须要以拯救世人为己任。</font>
+story_menu_9859=<font face="Default" color="#ffffff" >刑天城</font><font face="Default" color="#ffffff" >派规明确，教规严格</font><font face="Default" color="#ffffff" >。</font>
 storyinfo_9810=与<a href="findnpc_new,school06,WorldNpc02686" style="HLStype1">韩纱织</a>交谈
 storyinfo_9811=通过<a href="findnpc_new,school03,WorldNpc03305" style="HLStype1">萧别情</a>的考验
 storyinfo_9812=回答<a href="findnpc_new,school03,WorldNpc03305" style="HLStype1">萧别情</a>的问题
@@ -137,6 +140,7 @@ storyinfo_9855=听<a href="findnpc_new,city03,npc_wmp_2nzy_lphs" style="HLStype1
 storyinfo_9856=听<a href="findnpc_new,born02,Transbron02A" style="HLStype1">屠泳</a>说说最近江湖上的大变化
 storyinfo_9857=听<a href="findnpc_new,school22,newmp_tsp_001" style="HLStype1">白天璟</a>讲述天山派
 storyinfo_9858=听<a href="findnpc_new,school24,newmp_kl_001" style="HLStype1">云阳子</a>讲述昆仑派
+storyinfo_9859=听<a href="findnpc_new,school26,newmp_xingtb_001" style="HLStype1">刑烈</a>讲述刑天城
 storymenu_9810_1=<font face="Default" color="#ffffff" >好，我这就回去禀告师太。</font>
 storymenu_9811_1=<font face="Default" color="#ffffff" >于玉比德乃水其清。</font>
 storymenu_9811_2=<font face="Default" color="#ffffff" >诗书三味山水八音。</font>
@@ -166,6 +170,7 @@ storymenu_9856_1=<font face="Default" color="#ffffff" >哦？竟然都去了华�
 storymenu_9856_2=<font face="Default" color="#ffffff" >多谢老人家了，我这就找找此人，去探探口风。</font>
 storymenu_9857_1=<font face="Default" color="#ffffff" >弟子谨记。</font>
 storymenu_9858_1=<font face="Default" color="#ffffff" >弟子谨记。</font>
+storymenu_9859_1=<font face="Default" color="#ffffff" >弟子谨记。</font>
 useiteminfo_9801=将<a href="TASK_ITEM,useitem_brsm04" style="HLStype1">信鸽</a>放飞
 useiteminfo_9802=与<a href="findnpc_new,school02,WorldNpc03003" style="HLStype1">萧天放</a>共饮<a href="TASK_ITEM,useitem_brsm02" style="HLStype1">美酒</a>
 useiteminfo_9803=查看<a href="TASK_ITEM,useitem_brsm01" style="HLStype1">琴谱</a>的内容

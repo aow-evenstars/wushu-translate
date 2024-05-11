@@ -10,7 +10,7 @@ DialogID_58108=你想拜师学艺？哈哈，那可是找对了主儿！我浣�
 DialogID_58109=嘿嘿，想不到你竟是峨眉弟子！侥幸胜了我们又如何！那剑谱已被烧得灰飞烟灭，要杀要剐尽管来！
 DialogID_58110=<font face="Default" color="#ffffff" >若想进去虎啸山庄，只怕唯有硬闯一途了。</font>
 DialogID_58111=<font face="Default" color="#ffffff" >这位大哥，不知近来洛阳蝴蝶疑案您可知道些什么？</font>
-DialogID_58112=<font face="Default" color="#ffffff" >想必此间事情定不简单，你且速速前往青云堡，无论动用何种手段，务要查清这蝴蝶攻克一事的真相，找出幕后之人。</font>
+DialogID_58112=<font face="Default" color="#ffffff" >此事与我猜测的无异，我已派人去</font><font face="Default" color="#ffffff" >探查</font><font face="Default" color="#ffffff" >。静候佳音吧！</font>
 DialogID_58113=<font face="Default" color="#ffffff" >你已成为本门弟子，在本门中有一位师兄弟引荐人，你可前去拜见。</font>
 QiecuoMenu_58101=够嚣张！今日我便杀杀你的威风！
 QiecuoMenu_58102=无耻之徒！今日非得给你长点记性！看招！
@@ -93,8 +93,8 @@ specialinfo_597=通关禁地暮色之村
 specialinfo_598=通关禁地青云堡，调查蝴蝶攻克一事的真相
 story_58101_1=<font face="Default" color="#ffffff" >武当紫阳真人传讯于我，说近来虎啸山庄异动频繁，你且速速前去虎啸山庄，看这些邪门歪道之人究竟有何阴谋！</font>
 story_58102_1=<font face="Default" color="#ffffff" >而今山下似乎有江湖宵小闹事，你且速速下山将之驱走，莫要扰了我峨眉清静之地，也莫要坠了我峨眉声威。</font>
-story_58103_1=<font face="Default" color="#ffffff" >这！竟然是他！哼！这么多年，想不到他竟然还没有死！似这等大奸大恶之人，定不能放过！</font>
-story_58103_2=<font face="Default" color="#ffffff" >此人名叫赵子亟，乃是数年前横行江湖的冷血隐卫，这么多年了，想不到此人竟然还没有死！你且速速下山前往苏州，务要查清赵子亟下落，此次定要一攻克之，不可放过此人！</font>
+story_58103_1=<font face="Default" color="#ffffff" >竟然有贼人窥探我峨眉武学！</font>
+story_58103_2=<font face="Default" color="#ffffff" >你近日便加强戒备，以防贼人偷袭！</font>
 story_58104_1=<font face="Default" color="#ffffff" >赵子亟？莫不是前几日韩家之人查问的赵子亟？此人正躲在暮色之村。客官莫不是找他？只怕现在不好找了。听说此人和韩家有仇，韩家之人已经前往暮色之村寻他去了。</font>
 story_58105_1=<font face="Default" color="#ffffff" >近来洛阳城附近盛传蝴蝶攻克之事，恐怕此时乃是江湖邪派所为。我峨眉身为武林正道，此等行事手段不容姑息，你且下山前往洛阳，务必查清此事。</font>
 story_58107_1=<font face="Default" color="#ffffff" >少侠你好，在我这里登记着许许多多本门中门派内功已达到36层的师兄，你可以通过拜师于他们，从而提升自己各方面的能力，获得相应奖励。同时，当你到达相应门派内功的30层，即可到我这儿，进行出师，便可获得丰厚的出师奖励。</font>
@@ -112,7 +112,7 @@ storyinfo_58105=拜见掌门<a href="findnpc_new,school06,WorldNpc02604" style="
 storyinfo_58107=前往<a href="findnpc_new,school06,wd173" style="HLStype1">门派师兄弟指引人</a>处
 storymenu_58101_1=<font face="Default" color="#ffffff" >弟子领命。</font>
 storymenu_58102_1=<font face="Default" color="#ffffff" >弟子明白。</font>
-storymenu_58103_1=<font face="Default" color="#ffffff" >不知掌门所说乃是何人？</font>
+storymenu_58103_1=<font face="Default" color="#ffffff" >何人如此大胆！</font>
 storymenu_58103_2=<font face="Default" color="#ffffff" >弟子遵命。</font>
 storymenu_58104_1=<font face="Default" color="#ffffff" >既如此，在下这便前往暮色之村寻他。</font>
 storymenu_58105_1=<font face="Default" color="#ffffff" >弟子领命。</font>

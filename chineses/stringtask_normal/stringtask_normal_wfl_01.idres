@@ -78,7 +78,7 @@ CanAcceptMenu_239=<font face="Default" color="#ffffff" >师傅有何吩咐？</f
 CanAcceptMenu_240=<font face="Default" color="#ffffff" >为了保险起见，还是找熟手帮我来做吧</font>
 CanAcceptMenu_258=<font face="Default" color="#ffffff" >喋血行动</font>
 CanAcceptMenu_259=<font face="Default" color="#ffffff" >护送镖车</font>
-CanAcceptMenu_260=<font face="Default" color="#ffffff" >掠夺物资</font>
+CanAcceptMenu_260=<font face="Default" color="#ffffff" >抢占物资</font>
 CanAcceptMenu_261=<font face="Default" color="#ffffff" >势力挑战</font>
 CanAcceptMenu_262=<font face="Default" color="#ffffff" >武学团练</font>
 CanAcceptMenu_263=<font face="Default" color="#ffffff" >门派刺探</font>
@@ -131,6 +131,7 @@ CanAcceptMenu_401=<font face="Default" color="#ffffff" >天道酬勤</font>
 CanAcceptMenu_402=<font face="Default" color="#ffffff" >信使前来所为何事？</font>
 CanAcceptMenu_403=<font face="Default" color="#ffffff" >信使前来所为何事？</font>
 CanAcceptMenu_404=<font face="Default" color="#ffffff" >信使前来所为何事？</font>
+CanAcceptMenu_405=<font face="Default" color="#ffffff" >信使前来所为何事？</font>
 CanAcceptMenu_41=请收在下为徒。
 CanAcceptMenu_42=<font face="Default" color="#ffffff" >请收在下为徒。</font>
 CanAcceptMenu_420=信使前来所为何事？
@@ -383,6 +384,7 @@ CompleteMenu_401=<font face="Default" color="#ffffff" >完成任务</font>
 CompleteMenu_402=<font face="Default" color="#ffffff" >特使承让了</font>
 CompleteMenu_403=<font face="Default" color="#ffffff" >特使承让了</font>
 CompleteMenu_404=<font face="Default" color="#ffffff" >特使承让了</font>
+CompleteMenu_405=<font face="Default" color="#ffffff" >特使承让了</font>
 CompleteMenu_41=<font face="Default" color="#ffffff" >大师，不知</font><font face="Default" color="#ffffff" >在下</font><font face="Default" color="#ffffff" >回答的如何？</font>
 CompleteMenu_42=道长，不知弟子回答的如何？
 CompleteMenu_420=<font face="Default" color="#ffffff" >特使承让了</font>
@@ -627,6 +629,7 @@ accept_401_1=<font face="Default" color="#ffffff" >开通穴位总数超过10个
 accept_402_1=<font face="Default" color="#ffffff" >我朝王子雄图大略，欲一统江湖，本使特来招降的。</font>
 accept_403_1=<font face="Default" color="#ffffff" >我朝王子雄图大略，欲一统江湖，本使特来招降的。</font>
 accept_404_1=<font face="Default" color="#ffffff" >我朝王子雄图大略，欲一统江湖，本使特来招降的。</font>
+accept_405_1=<font face="Default" color="#ffffff" >我朝王子雄图大略，欲一统江湖，本使特来招降的。</font>
 accept_40_1=<font face="Default" color="#ffffff" > 听说各大派又开始扩充势力，招收新人了，江湖真是变化莫测，不过这倒是你的机会。马车行的车夫们走南闯北，对这些江湖故事最是了解，你如果想了解各大宗派可以找他们。</font>
 accept_420_1=我朝王子雄图大略，欲一统江湖，本使特来招降的。
 accept_421_1=<font face="Default" color="#ffffff" >我朝王子雄图大略，欲一统江湖，本使特来招降的。</font>
@@ -850,6 +853,7 @@ complete_401=<font face="Default" color="#ffffff" >奖励已经发给你了</fon
 complete_402=<font face="Default" color="#ffffff" >我观阁下实力不凡，为何不投入王子门下，共谋大事，王子实力增加一分，此事离成功就近一分啊</font>
 complete_403=<font face="Default" color="#ffffff" >我观阁下实力不凡，为何不投入王子门下，共谋大事，王子实力增加一分，此事离成功就近一分啊</font>
 complete_404=<font face="Default" color="#ffffff" >我观阁下实力不凡，为何不投入王子门下，共谋大事，王子实力增加一分，此事离成功就近一分啊</font>
+complete_405=<font face="Default" color="#ffffff" >我观阁下实力不凡，为何不投入王子门下，共谋大事，王子实力增加一分，此事离成功就近一分啊</font>
 complete_41=<font face="Default" color="#ffffff" >阿弥陀佛，施主慧根独具，与佛门甚是有缘，从今日起，便是少林弟子了。</font>
 complete_42=<s>从今日起，你便是本门弟子。切记：道乃万物之根本，儒离此道不成儒,佛离此道不成佛,仙离此道不成仙。
 complete_420=<font face="Default" color="#ffffff" >我观阁下实力不凡，为何不投入王子门下，共谋大事，王子实力增加一分，此事离成功就近一分啊</font>
@@ -905,7 +909,7 @@ complete_466=<font face="Default" color="#ffffff" >想不到阁下年纪轻轻�
 complete_467=<font face="Default" color="#ffffff" >想不到阁下年纪轻轻竟能有如此成就，他日定当在武林之中大放异彩。</font>
 complete_468=<font face="Default" color="#ffffff" >  </font><font face="Default" color="#ffffff" >少侠果然实力高强，日后成就不可限量，这是你应得的奖励。</font>
 complete_469=<font face="Default" color="#ffffff" >  </font><font face="Default" color="#ffffff" >少侠果然实力高强，日后成就不可限量，这是你应得的奖励。</font>
-complete_47=<font face="Default" color="#ffffff" >哈哈哈，有胆识，实话告诉你，刚才给你吃的只是普通的丹药而已，没有毒，我欣赏你这份胆识，今日我就收你做我门下弟子，入极乐必须遵守门规，不得与朝廷中人有来往，不然格杀勿论。</font>
+complete_47=<font face="Default" color="#ffffff" >哈哈哈，有胆识，实话告诉你，刚才给你吃的只是普通的丹药而已，没有毒，我欣赏你这份胆识，今日我就收你做我门下弟子，入极乐必须遵守门规，不得与朝廷中人有来往，不然片甲不留。</font>
 complete_470=<font face="Default" color="#ffffff" >  少侠果然实力高强，日后成就不可限量，这是你应得的奖励。</font>
 complete_471=<font face="Default" color="#ffffff" >少侠果然实力高强，日后成就不可限量，这是你应得的奖励。</font>
 complete_472=<font face="Default" color="#ffffff" >少侠果然实力高强，日后成就不可限量，这是你应得的奖励。</font>
@@ -1103,6 +1107,7 @@ context_401=为了表彰少侠经脉可修炼的周天数总和超过360特地�
 context_402=小小朝鲜王子的信使，胆大包天威胁本门掌门，奈何掌门不想有损中原礼仪，不便动手，速速前去解围
 context_403=小小朝鲜王子的信使，胆大包天威胁本门掌门，奈何掌门不想有损中原礼仪，不便动手，速速前去解围
 context_404=小小朝鲜王子的信使，胆大包天威胁本门掌门，奈何掌门不想有损中原礼仪，不便动手，速速前去解围
+context_405=小小朝鲜王子的信使，胆大包天威胁本门掌门，奈何掌门不想有损中原礼仪，不便动手，速速前去解围
 context_41=<s>原来施主欲入我少林，阿弥陀佛……我佛慈悲，只为普度众生，但佛门生活清苦，需戒七情六欲，施主若下定决心，定要接受入门考验，未知可否？
 context_42=<s>道者，统生天地人物,含阴阳动静之机,具造化玄微之妙,统无极,生太极,乃万物之根本……<br><s>
 context_420=小小朝鲜王子的信使，胆大包天威胁本门掌门，奈何掌门不想有损中原礼仪，不便动手，速速前去解围
@@ -1352,6 +1357,7 @@ menu_401_1=<font face="Default" color="#ffffff" >好的</font>
 menu_402_1=<font face="Default" color="#ffffff" >待我去禀明掌门</font>
 menu_403_1=<font face="Default" color="#ffffff" >待我去禀明掌门</font>
 menu_404_1=<font face="Default" color="#ffffff" >待我去禀明掌门</font>
+menu_405_1=<font face="Default" color="#ffffff" >待我去禀明掌门</font>
 menu_40_1=<font face="Default" color="#ffffff" >我该怎么办？</font>
 menu_41=<font face="Default" color="#ffffff" >谨遵大师所言</font>
 menu_42=<font face="Default" color="#ffffff" >道长请问。</font>
@@ -1689,6 +1695,7 @@ submit_401=<font face="Default" color="#ffffff" >我来领取奖励</font>
 submit_402=<font face="Default" color="#ffffff" >掌门食古不化，我愿弃暗投明，助王子一臂之力</font>
 submit_403=<font face="Default" color="#ffffff" >掌门食古不化，我愿弃暗投明，助王子一臂之力</font>
 submit_404=<font face="Default" color="#ffffff" >掌门食古不化，我愿弃暗投明，助王子一臂之力</font>
+submit_405=<font face="Default" color="#ffffff" >掌门食古不化，我愿弃暗投明，助王子一臂之力</font>
 submit_420=掌门食古不化，我愿弃暗投明，助王子一臂之力
 submit_421=掌门食古不化，我愿弃暗投明，助王子一臂之力
 submit_422=掌门食古不化，我愿弃暗投明，助王子一臂之力
@@ -1935,6 +1942,7 @@ target_401=去钱庄找大明礼司领取奖励
 target_402=解除掌门的尴尬
 target_403=解除掌门的尴尬
 target_404=解除掌门的尴尬
+target_405=解除掌门的尴尬
 target_41=<s>我已下定决心拜入少林，接受方丈大师的任何考验。
 target_42=<s>接受真人的考验
 target_420=解除掌门的尴尬
@@ -2250,6 +2258,7 @@ title_42=拜入师门
 title_402=嚣张的信使
 title_403=嚣张的信使
 title_404=嚣张的信使
+title_405=嚣张的信使
 title_420=嚣张的信使
 title_421=嚣张的信使
 title_422=嚣张的信使

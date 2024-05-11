@@ -2,27 +2,93 @@
 CanAcceptMenu_74101=<font face="Default" color="#ffffff" >飞鸽传书（可承接）</font>
 CompleteMenu_74101=<font face="Default" color="#ffffff" >完成任务</font>
 CompleteMenu_74106=<font face="Default" color="#ffffff" >窥见一斑（完成任务）</font>
+CompleteMenu_74128=<font face="Default" color="#ffffff" >尾声(可提交)</font>
+CompleteMenu_74129=<font face="Default" color="#ffffff" >晴芳宫（可提交）</font>
 accept_74101_1=<font face="Default" color="#ffffff" >你来了。</font>
 complete_74101=<font face="Default" color="#ffffff" >如果你准备好了就来找我。</font>
 complete_74106=<font face="Default" color="#ffffff" >此次密宗对中原武林恐怕也只是一次试探，虽然几番受挫，但真正的核心人物却仍未露面，而秦王府做事也实在让人难以捉摸，今后之事，唯有走一步看一步，等哪边的人又按捺不住再次露头，或许才会有所突破了。 </font>
+complete_74128=<font face="Default" color="#ffffff" >灵儿姑娘，后会有期！</font>
+complete_74129=<font face="Default" color="#ffffff" >你想知道我的故事？</font>
 context_74101=秦王飞鸽传书请你前往府中一叙，你立刻动身前往。
 context_74102=继续深入古墓之中。
 context_74103=继续深入古墓之中。
 context_74104=继续深入古墓之中。
 context_74105=继续深入古墓。
 context_74106=醒来发现早已离开地宫，必须尽快赶回秦王府告知一切。
+context_74111=照顾卧床的母亲，将桌上的汤药拿给她服用
+context_74112=江湖中竟还有如此多的人觊觎张氏的宝藏！既然如此，便给他们一个惊喜！
+context_74113=俞怀冰已经找到了锦衣卫在苏州的据点，潜入进去探查他们的计划。
+context_74114=锦衣卫设计引诱宇文绝强攻暮色之村。将计就计,让觊觎宝藏的人为之陪葬！
+context_74115=觊觎宝藏的人都已经聚集到了暮色之村，好戏即将上演。
+context_74116=遵照族规，应将张氏宝图交予兄长张丹栩。约他在埋花居一见。
+context_74117=永乐六年夏，江西广信府、建昌、抚州及福建建宁、邵武多地爆发瘟疫。张丹栩散尽张氏宝藏，游走各地赈灾济民。
+context_74118=近日发生的事情叫人心力交瘁，游览江南烟雨，调理心绪。
+context_74119=不想在烟雨庄中竟然遇到了东瀛高手的袭击
+context_74120=东方凌少及时出现，化解了遇袭的危机。不知此次相遇是巧合还是预谋。
+context_74121=后续的计划若想将继续继续执行下去。需要一枚棋子，而君子堂正合适。
+context_74122=俞怀冰拥有的飞鹰地宫图被慕容百世误认为藏宝图，处心积虑逼迫俞怀冰交出。既然如此，不如将计就计！
+context_74123=慕容双欲在途中劫亲。不可让他们破坏了引慕容百世入局的计划。
+context_74124=俞绾绾已安置妥当，重新返回俞家庄保证计划能够顺利。
+context_74125=经历过俞家庄的风波后，江湖陷入了短暂的平静。难得在这样的江湖中还可以得闲煮茶听琴，焚香读书。
+context_74126=俞绾绾已双目失明，可陆倩娘还不曾死心。暗中保护俞绾绾，抵御陆倩娘的暗杀。
+context_74127=慕容百世突然杀出，打的众人措手不及。慕容百世以隐风的性命威胁，俞绾绾无奈只能交出飞鹰地宫图。
+context_74128=俞家和慕容家的事，都已告一段落。
+context_74129=张丹灵与东方凌少经历过诸多事情之后，渐生情愫。对复国之情也日渐平淡。
+context_74130=母亲年事已高，患病已久，终究还是去了。前往郊外祭拜母亲。
 menu_74101_1=<font face="Default" color="#ffffff" >在下</font><font face="Default" color="#ffffff" >一收到飞鸽传书就赶过来了。</font>
 submit_74101=<font face="Default" color="#ffffff" >我知道了</font>
 submit_74106=<font face="Default" color="#ffffff" >也只能如此了。</font>
+submit_74128=<font face="Default" color="#ffffff" >尾声(已完成)</font>
+submit_74129=<font face="Default" color="#ffffff" >晴芳宫（已完成）</font>
 target_74101=前往秦王府找秦王。
 target_74102=探索古墓。
 target_74103=探索古墓。
 target_74104=探索古墓。
 target_74105=探索古墓。
 target_74106=赶回秦王府。
+target_74111=照顾卧床的母亲
+target_74112=召唤张家死士，安排计划
+target_74113=探查锦衣卫据点
+target_74114=让觊觎宝藏的人为之陪葬！
+target_74115=前往暮色之村
+target_74116=与张丹栩在埋花居中相见
+target_74117=离开太湖埋花居
+target_74118=游览江南烟雨
+target_74119=击败偷袭的东瀛高手
+target_74120=邀请东方凌少同游天外天
+target_74121=将情报“故意”泄露给东方凌少
+target_74122=说服俞怀冰将计就计，引慕容百世入局
+target_74123=前往官道，以防慕容双破坏计划
+target_74124=重返俞家庄
+target_74125=在埋花居中煮茶听琴，焚香读书
+target_74126=暗中保护俞绾绾，抵御陆倩娘的暗杀。
+target_74127=追击慕容百世
+target_74128=回到埋花居
+target_74129=前往晴芳宫
+target_74130=前往郊外祭拜母亲。
 title_74101=飞鸽传书
 title_74102=古墓玄踪（一）
 title_74103=古墓玄踪（二）
 title_74104=古墓玄踪（三）
 title_74105=拨云见日
 title_74106=窥见一斑
+title_74111=张氏宝藏·回归故里
+title_74112=张氏宝藏·张家死士
+title_74113=张氏宝藏·暗访据点
+title_74114=张氏宝藏·将计就计
+title_74115=张氏宝藏·暮色之村
+title_74116=张氏宝藏·张丹栩
+title_74117=张氏宝藏·决裂
+title_74118=飞鹰地宫·江南烟雨
+title_74119=飞鹰地宫·遇袭
+title_74120=飞鹰地宫·邀东方同游天外天
+title_74121=飞鹰地宫·棋子
+title_74122=飞鹰地宫·将计就计
+title_74123=飞鹰地宫·劫亲
+title_74124=飞鹰地宫·重返俞家庄
+title_74125=飞鹰地宫·短暂的平静
+title_74126=飞鹰地宫·激斗风铃谷
+title_74127=飞鹰地宫·真假宝藏
+title_74128=飞鹰地宫·尾声
+title_74129=晴芳宫
+title_74130=张氏宝藏·祭拜母亲

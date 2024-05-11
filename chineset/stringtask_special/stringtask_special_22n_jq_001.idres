@@ -1,0 +1,449 @@
+﻿
+DialogID_76802=<font face="Default" color="#ffffff" >來和我比試比試？</font>
+DialogID_76803=<font face="Default" color="#ffffff" >喲，像我這麼美的人，靠近你，可是你的榮幸。</font>
+DialogID_76828=<font face="Default" color="#ffffff" >破損麻袋</font>
+DialogID_76829=<font face="Default" color="#ffffff" >黃色毛髮</font>
+DialogID_76830=<font face="Default" color="#ffffff" >有什麼發現嗎？</font>
+SubmitNpcEx_76804=拜見大將軍<a href="findnpc_new,school26,newmp_xingtb_001" style="HLStype1">刑烈</a>，請求加入刑天城。
+SubmitNpcEx_76805=與燕長空交談
+SubmitNpcEx_76806=與東方凌少交談
+SubmitNpcEx_76807=與燕晴雪交談
+SubmitNpcEx_76808=聽指揮使<a href="findnpc_new,school26,newmp_xingtb_003" style="HLStype1">韓哉</a>安排
+SubmitNpcEx_76809=詢問劉開
+SubmitNpcEx_76810=聽管二毛訴說
+SubmitNpcEx_76811=先逃出<a href="findnpc_new,adv177,Eventnpc_xtb_003" style="HLStype1">營地</a>，向指揮使<a href="findnpc_new,school26,nmpxtb_zyb_002" style="HLStype1">韓哉</a>稟明軍情
+SubmitNpcEx_76812=勸阻小女孩小心走火
+SubmitNpcEx_76813=與書生交談
+SubmitNpcEx_76814=詢問武僧
+SubmitNpcEx_76815=詢問毒娘子
+SubmitNpcEx_76816=詢問算命先生
+SubmitNpcEx_76817=與方公子交談
+SubmitNpcEx_76818=與宮垂楊交談
+SubmitNpcEx_76819=與貪財鬼交談
+SubmitNpcEx_76820=與好色鬼交談
+SubmitNpcEx_76821=與熊焰交談
+SubmitNpcEx_76822=與弓嫵媚交談
+SubmitNpcEx_76823=與阿妮桑交談
+SubmitNpcEx_76824=與劉鐵膽交談
+SubmitNpcEx_76825=與司徒敬交談
+SubmitNpcEx_76826=與秋夫人交談
+SubmitNpcEx_76827=與雲望交談
+SubmitNpcEx_76828=與胖廚仙交談
+SubmitNpcEx_76829=與史舒鷹交談
+SubmitNpcEx_76830=與向無極交談
+SubmitNpcEx_76831=與果兒交談
+SubmitNpcEx_76832=與小鈴鐺交談
+SubmitNpcEx_76833=與卓不凡交談
+SubmitNpcEx_76834=與明月夫人交談
+SubmitNpcEx_76835=與谷心蘿交談
+SubmitNpcEx_76836=與燕楚楚交談
+SubmitNpcEx_76837=與吳三交談
+SubmitNpcEx_76838=與丁不揚交談
+SubmitNpcEx_76839=與桃兒交談
+SubmitNpcEx_76840=與音姬交談
+SubmitNpcEx_76841=與清仁交談
+SubmitNpcEx_76842=與死士高昇交談
+convoyinfo_76801=跟隨仇之行前去拜見聖女
+interactinfo_76801=前往<a href="findnpc_new,city04,Event_2022sy_001" style="HLStype1">黃河沿岸</a>
+interactinfo_76802=已擊敗馬匪，<a href="findnpc_new,school26,Eventnpc_xtb_001" style="HLStype1">回城</a>稟報
+interactinfo_76803=速速趕往<a href="findnpc_new,school26,Eventnpc_xtb_002" style="HLStype1">邵封</a>處（可騎乘<a href="findnpc_new,school26,npc_xtb_dy_01" style="HLStype1">駿馬</a>快速前往城外）
+interactinfo_76804=先逃出<a href="findnpc_new,adv177,Eventnpc_xtb_003" style="HLStype1">營地</a>告知營地情況
+interactinfo_76805=將藏寶圖交給左都督<a href="findnpc_new,school26,newmp_xingtb_002" style="HLStype1">郭峰</a>查看
+interactinfo_76806=前往<a href="findnpc_new,school26,Eventnpc_xtb_004" style="HLStype1">破敗神廟</a>
+interactinfo_76807=使用特殊的方式轉動<a href="findnpc_new,school26,nmpxtb_zyb_005" style="HLStype1">蒲團</a>
+interactinfo_76808=前往<a href="findnpc_new,school26,npc_xtb_dy_03" style="HLStype1">入口</a>，查探<a href="findnpc_new,adv177,Eventnpc_xtb_005" style="HLStype1">地宮</a>
+interactinfo_76809=聽從左都督<a href="findnpc_new,school26,nmpxtb_zyb_008" style="HLStype1">郭峰</a>的安排
+interactinfo_76810=<a href="findnpc_new,school26,Eventnpc_xtb_006" style="HLStype1">迎擊</a>敵軍
+interactinfo_76811=<a href="findnpc_new,adv177,PlotDoor_xtb_dy_04" style="HLStype1">離開</a>敵營後與<a href="findnpc_new,school26,nmpxtb_zyb_015" style="HLStype1">瓦剌萬夫長</a>交談
+interactinfo_76812=前往<a href="findnpc_new,school26,npc_xtb_dy_04" style="HLStype1">入口</a>，進入地宮
+interactinfo_76813=與<a href="findnpc_new,school26,xtb_event_004" style="HLStype1">刑天城藥師</a>交談獲取藥物
+interactinfo_76814=將藥物交給<a href="findnpc_new,school26,xtb_event_005" style="HLStype1">任監</a>
+interactinfo_76815=將藥物交給<a href="findnpc_new,school26,xtb_event_006" style="HLStype1">汪銘</a>
+interactinfo_76816=將藥物交給<a href="findnpc_new,school26,xtb_event_007" style="HLStype1">屠孝</a>
+interactinfo_76817=與<a href="findnpc,school26,-236.482,75.998,402.804" style="HLStype1">皇甫冠</a>交談獲取草料
+interactinfo_76818=與<a href="findnpc,school26,-193.045,75.490,421.948" style="HLStype1">司徒濤群</a>交談獲取修補工具
+interactinfo_76819=與<a href="findnpc,school26,-232.063,75.998,398.633" style="HLStype1">秋生</a>交談獲取磨刀石
+interactinfo_76820=採集<a href="findnpc_new,school26,npc_xtb_dy_003" style="HLStype1">龍根草</a>
+interactinfo_76821=採集<a href="findnpc_new,school26,npc_xtb_dy_004" style="HLStype1">鳳凰石</a>
+interactinfo_76822=尋找<a href="findnpc_new,school26,Eventnpc_xtb_dy_01" style="HLStype1">長風鏢局</a>蹤跡
+interactinfo_76823=將藥材交給<a href="findnpc_new,school26,npc_xtb_dy_001" style="HLStype1">巴中</a>
+interactinfo_76824=與<a href="findnpc_new,school26,npc_xtb_dy_008" style="HLStype1">鏢頭</a>交談
+interactinfo_76825=與<a href="findnpc_new,school26,npc_xtb_dy_009" style="HLStype1">巴中</a>交談
+interactinfo_76826=將丹藥交給<a href="findnpc_new,school26,npc_xtb_dy_008" style="HLStype1">鏢頭</a>
+interactinfo_76827=接受大將軍<a href="findnpc_new,school26,newmp_xingtb_001" style="HLStype1">刑烈</a>的令牌
+interactinfo_76828=探查<a href="findnpc_new,school26,npc_xtb_dy_011" style="HLStype1">糧倉</a>四周
+interactinfo_76829=繼續探查<a href="findnpc_new,school26,npc_xtb_dy_012" style="HLStype1">糧倉</a>四周
+interactinfo_76830=將線索交給<a href="findnpc_new,school26,npc_xtb_dy_010" style="HLStype1">糧倉守衛</a>查看
+okmenu_76802=<font face="Default" color="#ffffff" >我還有要事在身，不宜久留。</font>
+okmenu_76803=<font face="Default" color="#ffffff" >別別別，最難消受美人恩。</font>
+okmenu_76804=<font face="Default" color="#ffffff" >真不用了。</font>
+okmenu_76805=<font face="Default" color="#ffffff" >左都督請看。</font>
+okmenu_76806=<font face="Default" color="#ffffff" >能如此別出心裁，將兵法與劍法相輔相成，令人佩服！</font>
+okmenu_76807=<font face="Default" color="#ffffff" >這好像是個</font><font face="Default" color="#ffffff" >機關</font><font face="Default" color="#ffffff" >。</font><font face="Default" color="#f40420" >（</font><font face="Default" color="#f40420" >轉動試試）</font>
+okmenu_76808=<font face="Default" color="#ffffff" >我警告你，別盯著我！</font>
+okmenu_76809=<font face="Default" color="#ffffff" >左都督儘管放心！</font>
+okmenu_76810=<font face="Default" color="#ffffff" >節哀。</font>
+okmenu_76811=<font face="Default" color="#ffffff" >姑娘，仇家很多嗎？</font>
+okmenu_76812=<font face="Default" color="#ffffff" >所以？</font>
+okmenu_76813=<font face="Default" color="#ffffff" >好的。</font>
+okmenu_76814=<font face="Default" color="#ffffff" >不用謝。</font>
+okmenu_76815=<font face="Default" color="#ffffff" >不用謝。</font>
+okmenu_76816=<font face="Default" color="#ffffff" >不用謝。</font>
+okmenu_76817=<font face="Default" color="#ffffff" >好的。</font>
+okmenu_76818=<font face="Default" color="#ffffff" >多謝。</font>
+okmenu_76819=<font face="Default" color="#ffffff" >好的。</font>
+okmenu_76820=<font face="Default" color="#ffffff" >採集</font>
+okmenu_76821=<font face="Default" color="#ffffff" >採集</font>
+okmenu_76822=<font face="Default" color="#ffffff" >看來夫人是和教主發生了口角。</font>
+okmenu_76823=<font face="Default" color="#ffffff" >前輩請看。</font>
+okmenu_76824=<font face="Default" color="#ffffff" >巴中前輩已前去診治，</font><font face="Default" color="#ffffff" >前輩</font><font face="Default" color="#ffffff" >請稍後。</font>
+okmenu_76825=<font face="Default" color="#ffffff" >多謝前輩！</font>
+okmenu_76826=<font face="Default" color="#ffffff" >這是巴中前輩配置的丹藥，如何使用也寫在了紙上。</font>
+okmenu_76827=<font face="Default" color="#ffffff" >謝將軍！</font>
+okmenu_76828=<font face="Default" color="#ffffff" >拾取</font>
+okmenu_76829=<font face="Default" color="#ffffff" >拾取</font>
+okmenu_76830=<font face="Default" color="#ffffff" >你可識得這些東西？</font>
+story_76801_1=<font face="Default" color="#ffffff" >這邊需要你前往黃河沿岸查找燕七下落。 </font>
+story_76802_1=<font face="Default" color="#ffffff" >我叫仇之行，我</font><font face="Default" color="#ffffff" >是聖影教的弟子，這位少俠有沒有興趣加入我教。我教聖女人可美了！</font>
+story_76803_1=<font face="Default" color="#ffffff" >既然你要加入我聖影教，我肯定得帶你去見見我們聖女的。她正好在附近，你隨我來。</font>
+story_76804_1=<font face="Default" color="#ffffff" >我不是！我是燕七！我在黃河邊救了一對母女，她們是聖影教成員。他們教的聖女出逃了，好像我和她一模一樣，被她們誤以為是她們的聖女！然後就被抓過來了。</font>
+story_76805_1=<font face="Default" color="#ffffff" >聖影教有一種修煉方式極為詭異，會產生幻境，在幻境之中會遇到形形色色的過往之人。若是修煉之人無法淨除厄障，便會深陷幻境之中，無法清醒。長此以往，便會神魂顛倒、暴斃而亡。若想活下去，就只能中下聖教種的鬼影蠱，用以保命。</font>
+story_76806_1=<font face="Default" color="#ffffff" >刑天城崇尚上古戰神刑天斷首奮戰，永不屈服之猛志。正所謂「投之亡地而後存，陷之死地然後生。」對於武道，不知你有何看法？</font>
+story_76807_1=<font face="Default" color="#ffffff" >哈哈，</font><font face="Default" color="#ffffff" >歡迎</font><font face="Default" color="#ffffff" >加入刑天城，以後你我就是軍中袍澤，希望你能笑看生死，做一個馳騁沙場的大將。</font>
+story_76808_1=<font face="Default" color="#ffffff" >你是新來的弟子？正好，有件軍務交給你，最近刑天城附近地區有馬匪出沒，立即前去消滅他們。</font>
+story_76809_1=<font face="Default" color="#ffffff" >（急促）我是刑天城的斥候邵封，你是……是刑天城弟子！聽我說，瓦剌已經出動了十萬大軍，在城外三十里處紮營，恐怕是想要一舉攻佔</font><font face="Default" color="#ffffff" >刑天城。</font>
+story_76811_1=<font face="Default" color="#ffffff" >你</font><font face="Default" color="#ffffff" >先行帶路</font><font face="Default" color="#ffffff" >，我</font><font face="Default" color="#ffffff" >點齊</font><font face="Default" color="#ffffff" >人馬</font><font face="Default" color="#ffffff" >，隨後就到</font><font face="Default" color="#ffffff" >。</font>
+story_76812_1=<font face="Default" color="#ffffff" >瓦剌賊子真是猖狂，我們直接衝入敵營中救出邵封</font><font face="Default" color="#ffffff" >！</font>
+story_76813_1=<font face="Default" color="#ffffff" >我受傷太重，難以起身，你拿走藏寶圖，</font><font face="Default" color="#ffffff" >速速</font><font face="Default" color="#ffffff" >回到刑天城，向大將軍稟告獼猴寶藏的情報。</font>
+story_76814_1=<font face="Default" color="#ffffff" >無妨，我們這就沖</font><font face="Default" color="#ffffff" >入敵營</font><font face="Default" color="#ffffff" >救出</font><font face="Default" color="#ffffff" >邵封</font><font face="Default" color="#ffffff" >。</font>
+story_76815_1=<font face="Default" color="#ffffff" >事情如何了？</font>
+story_76816_1=<font face="Default" color="#ffffff" >你走運了！這張藏寶圖上的密文是早已失傳的西夏文，普天之下，恐怕沒幾個人認識。我大半輩子待在刑天城裡，閒來無事就研究了下西夏的黨項文，所以認得藏寶圖上的密文。</font>
+story_76816_2=<font face="Default" color="#ffffff" >這藏寶圖上寫著「獼猴王，我先祖。地宮城，傳萬年。」</font>
+story_76817_1=<font face="Default" color="#ffffff" >你以為我會怕死？我早已飛鷹傳書，將刑天城中的確有地宮寶藏的消息告知元帥，現在大軍估計已經在進攻城門，你們死定了！</font>
+story_menu_76801=<font face="Default" color="#ffffff" >那現在有</font><font face="Default" color="#ffffff" >什麼</font><font face="Default" color="#ffffff" >打算？</font>
+story_menu_76802=<font face="Default" color="#ffffff" >這位少俠你是？</font>
+story_menu_76803=<font face="Default" color="#ffffff" >加入聖影</font>
+story_menu_76804=<font face="Default" color="#ffffff" >你是聖影教聖女</font><font face="Default" color="#ffffff" >？</font>
+story_menu_76805=<font face="Default" color="#ffffff" >那現在你跟我一起逃走吧。</font>
+story_menu_76806=<font face="Default" color="#ffffff" >鐵血刑天，百戰不滅，乃是大明王朝西北門戶，武道自有軍伍之風……</font>
+story_menu_76807=<font face="Default" color="#ffffff" >拜見</font><font face="Default" color="#ffffff" >左都督</font>
+story_menu_76808=<font face="Default" color="#ffffff" >拜見指揮使</font>
+story_menu_76809=<font face="Default" color="#ffffff" >你</font><font face="Default" color="#ffffff" >受傷了</font><font face="Default" color="#ffffff" >？</font><font face="Default" color="#ffffff" >怎麼會來此地？</font>
+story_menu_76811=<font face="Default" color="#ffffff" >立刻前去營救邵封。</font>
+story_menu_76812=<font face="Default" color="#ffffff" >邵封師兄恐怕已被抓走，我們</font><font face="Default" color="#ffffff" >該如何是好？</font>
+story_menu_76813=<font face="Default" color="#ffffff" >邵封師兄，</font><font face="Default" color="#ffffff" >你</font><font face="Default" color="#ffffff" >還好嗎</font><font face="Default" color="#ffffff" >？</font>
+story_menu_76814=<font face="Default" color="#ffffff" >指揮使，我回來了，但是沒能救出邵封</font><font face="Default" color="#ffffff" >師兄</font><font face="Default" color="#ffffff" >。</font>
+story_menu_76815=<font face="Default" color="#ffffff" >拜見</font><font face="Default" color="#ffffff" >大將軍。</font>
+story_menu_76816=<font face="Default" color="#ffffff" >有何發現？</font>
+story_menu_76817=<font face="Default" color="#ffffff" >（喝問）</font><font face="Default" color="#ffffff" >你到底知道什麼？說！</font>
+storyinfo_76801=聽<a href="findnpc_new,city04,Syhd_2022zyb_001" style="HLStype1">燕白</a>訴說
+storyinfo_76802=聽<a href="findnpc_new,city04,Syhd_2022zyb_002" style="HLStype1">神秘男子</a>訴說
+storyinfo_76803=聽<a href="findnpc_new,city04,Syhd_2022zyb_003" style="HLStype1">仇之行</a>訴說
+storyinfo_76804=聽<a href="findnpc_new,city04,Syhd_2022zyb_004" style="HLStype1">聖女</a>訴說
+storyinfo_76805=與<a href="findnpc_new,city04,Syhd_2022zyb_005" style="HLStype1">燕七</a>交談
+storyinfo_76806=聽大將軍<a href="findnpc_new,school26,newmp_xingtb_001" style="HLStype1">刑烈</a>訴說
+storyinfo_76807=拜訪刑天城左都督<a href="findnpc_new,school26,newmp_xingtb_002" style="HLStype1">郭峰</a>
+storyinfo_76808=拜訪刑天城騎兵指揮使<a href="findnpc_new,school26,newmp_xingtb_003" style="HLStype1">韓哉</a>
+storyinfo_76809=詢問刑天城斥候<a href="findnpc_new,school26,nmpxtb_zyb_001" style="HLStype1">邵封</a>發生何事
+storyinfo_76810=速向大將軍<a href="findnpc_new,school26,newmp_xingtb_001" style="HLStype1">刑烈</a>稟明軍情（可騎乘<a href="findnpc_new,school26,npc_xtb_dy_02" style="HLStype1">駿馬</a>快速前往城內）
+storyinfo_76811=聽指揮使<a href="findnpc_new,school26,newmp_xingtb_003" style="HLStype1">韓哉</a>安排
+storyinfo_76812=詢問指揮使<a href="findnpc_new,school26,nmpxtb_zyb_002" style="HLStype1">韓哉</a>該怎麼辦
+storyinfo_76813=詢問<a href="findnpc_new,adv177,nmpxtb_zyb_004" style="HLStype1">邵封</a>傷勢如何（與<a href="findnpc_new,school26,nmpxtb_zyb_002" style="HLStype1">韓哉</a>交談，前往敵營）
+storyinfo_76814=先逃出<a href="findnpc_new,adv177,Eventnpc_xtb_003" style="HLStype1">營地</a>，向指揮使<a href="findnpc_new,school26,nmpxtb_zyb_002" style="HLStype1">韓哉</a>稟明軍情
+storyinfo_76815=向大將軍<a href="findnpc_new,school26,newmp_xingtb_001" style="HLStype1">刑烈</a>稟明軍情（可騎乘<a href="findnpc_new,school26,npc_xtb_dy_02" style="HLStype1">駿馬</a>快速前往城內）
+storyinfo_76816=詢問左都督<a href="findnpc_new,school26,newmp_xingtb_002" style="HLStype1">郭峰</a>的意見
+storyinfo_76817=發現<a href="findnpc_new,adv177,xtb_nmphurnt_007" style="HLStype1">瓦剌細作</a>，前去逼問他（前往<a href="findnpc_new,school26,npc_xtb_dy_03" style="HLStype1">入口</a>，查探地宮）
+storyinfo_76818=<a href="findnpc_new,adv177,PlotDoor_xtb_dy_06" style="HLStype1">離開</a>地宮，告知大將軍<a href="findnpc_new,school26,nmpxtb_zyb_006" style="HLStype1">邢烈</a>
+storymenu_76801_1=<font face="Default" color="#ffffff" >好的。</font>
+storymenu_76802_1=<font face="Default" color="#ffffff" >加入聖影教也不是不可以，但是你得帶我去看看你們聖女！</font>
+storymenu_76803_1=<font face="Default" color="#ffffff" >你前面帶路！</font>
+storymenu_76804_1=<font face="Default" color="#ffffff" >這……</font>
+storymenu_76805_1=<font face="Default" color="#ffffff" >那如何破解！</font>
+storymenu_76806_1=<font face="Default" color="#ffffff" >弟子以為武道之路有如逆水行舟，必要勇猛精進，永不言棄。武道便似兵道，將兵同心，奮勇上前，便可破陣殺敵，但若上下離心，人人畏縮，那便會戰敗身亡，甚至身死國滅。武道之路，後退即死，必須無懼無畏，保持鬥戰之心，才能達到武道的至高境界。</font>
+storymenu_76808_1=<font face="Default" color="#ffffff" >萬死不辭。</font>
+storymenu_76809_1=<font face="Default" color="#ffffff" >竟有此事？我們趕快回城稟告大將軍！</font>
+storymenu_76811_1=<font face="Default" color="#ffffff" >遵命</font><font face="Default" color="#ffffff" >。</font>
+storymenu_76812_1=<font face="Default" color="#ffffff" >這……恐怕不妥。只憑我們這些人冒然衝入敵營，萬一救人不成，豈不是陷入死地</font><font face="Default" color="#ffffff" >？</font><font face="Default" color="#ffffff" >不如先讓我去探查敵情，找到邵封師兄後再設法營救。</font>
+storymenu_76813_1=<font face="Default" color="#ffffff" >不行，</font><font face="Default" color="#ffffff" >我不能丟下你</font><font face="Default" color="#ffffff" >。</font>
+storymenu_76814_1=<font face="Default" color="#ffffff" >指揮使，瓦剌已被驚動，邵封師兄也重傷難行，眼下已經沒有機會救人，而且邵封師兄囑咐我務必速速回到刑天城稟告獼猴寶藏的緊急軍情。</font>
+storymenu_76815_1=<font face="Default" color="#ffffff" >弟子無能，沒能救出邵封師兄，</font><font face="Default" color="#ffffff" >反而打草驚蛇，使得敵軍更加戒備，</font><font face="Default" color="#ffffff" >但我發現瓦剌大軍入侵似乎是因為想要奪取傳說中西夏國遺留的獼猴寶藏。他們已經有了這張藏寶圖，先前還曾逼問邵封師兄是否知道刑天城裡寶藏的埋藏地點。</font>
+storymenu_76816_1=<font face="Default" color="#ffffff" >真的？左都督快講。</font>
+storymenu_76816_2=<font face="Default" color="#ffffff" >什麼意思？</font>
+storymenu_76817_1=<font face="Default" color="#ffffff" >哼！你們想攻下刑天城？</font><font face="Default" color="#ffffff" >癡心妄想</font><font face="Default" color="#ffffff" >！</font><font face="Default" color="#f40444" >（看來得去城樓看看情況了）</font>
+DialogID_76805=<font face="Default" color="#ffffff" >我已聽說獼猴寶藏的事</font><font face="Default" color="#ffffff" >，</font><font face="Default" color="#ffffff" >將藏寶圖給我</font><font face="Default" color="#ffffff" >看看。</font>
+DialogID_76807=<font face="Default" color="#ffffff" >   </font>
+DialogID_76809=<font face="Default" color="#ffffff" >這是火油罐，</font><font face="Default" color="#ffffff" >此戰</font><font face="Default" color="#ffffff" >成敗與否</font><font face="Default" color="#ffffff" >就</font><font face="Default" color="#ffffff" >看你了！</font>
+DialogID_76813=<font face="Default" color="#ffffff" >這是軍中特製的藥物，你且拿好。將這幾份藥物分發給外城的百姓。</font>
+DialogID_76814=<font face="Default" color="#ffffff" >這幾日腰酸背痛的，</font><font face="Default" color="#ffffff" >多謝你送來的藥物。</font>
+DialogID_76815=<font face="Default" color="#ffffff" >多謝你送來的藥物。</font>
+DialogID_76816=<font face="Default" color="#ffffff" >多謝你送來的藥物。</font>
+DialogID_76817=<font face="Default" color="#ffffff" >這是餵食戰馬的草料，請收好。</font>
+DialogID_76818=<font face="Default" color="#ffffff" >這是修補工具，請拿好。</font>
+DialogID_76819=<font face="Default" color="#ffffff" >這是上好的磨刀石，請拿好。</font>
+DialogID_76820=<font face="Default" color="#ffffff" >採集</font><font face="Default" color="#ffffff" >龍根草</font>
+DialogID_76821=<font face="Default" color="#ffffff" >採集</font><font face="Default" color="#ffffff" >鳳凰石</font>
+DialogID_76823=<font face="Default" color="#ffffff" >藥材都找回來了？</font>
+DialogID_76824=<font face="Default" color="#ffffff" >如何？</font><font face="Default" color="#ffffff" >少鏢主可否有救？</font>
+DialogID_76825=<font face="Default" color="#ffffff" >這是我以前用三種草藥配置的丹藥，你速速給予長風鏢局鏢頭。如何使用我已經寫在紙上。</font>
+DialogID_76826=<font face="Default" color="#ffffff" >如何了？</font>
+DialogID_76827=<font face="Default" color="#ffffff" >此乃本將的令牌，有此令你查案便可暢通無阻。</font>
+QiecuoMenu_76806=<font face="Default" color="#ffffff" >瓦剌賊子膽敢在刑天城裡逞兇！</font>
+QiecuoMenu_76807=<font face="Default" color="#ffffff" >哼！</font><font face="Default" color="#ffffff" >誰死還不一定呢！</font>
+QiecuoMenu_76814=<font face="Default" color="#ffffff" >請。</font>
+QiecuoMenu_76815=<font face="Default" color="#ffffff" >請。</font>
+QiecuoMenu_76818=<font face="Default" color="#ffffff" >哼！</font>
+QiecuoMenu_76819=<font face="Default" color="#ffffff" >請！</font>
+QiecuoMenu_76820=<font face="Default" color="#ffffff" >哼！</font>
+QiecuoTitle_76806=<font face="Default" color="#ffffff" >小子，謝謝你幫我找到地宮，作為感謝，送你下地獄吧！</font>
+QiecuoTitle_76807=<font face="Default" color="#ffffff" >南蠻子，受死吧！</font>
+QiecuoTitle_76814=<font face="Default" color="#ffffff" >師兄請。</font>
+QiecuoTitle_76815=<font face="Default" color="#ffffff" >師兄請。</font>
+QiecuoTitle_76818=<font face="Default" color="#ffffff" >看招！</font>
+QiecuoTitle_76819=<font face="Default" color="#ffffff" >哼！閣下執意如此，休怪</font><font face="Default" color="#ffffff" >刀劍</font><font face="Default" color="#ffffff" >無眼！</font>
+QiecuoTitle_76820=<font face="Default" color="#ffffff" >來者何人？！</font>
+SubmitNpcEx_76850=與<a href="findnpc,school26,-236.482,75.998,402.804" style="HLStype1">皇甫冠</a>交談提交任務
+SubmitNpcEx_76851=與<a href="findnpc,school26,-533.982,71.523,422.018" style="HLStype1">辛倫</a>提交任務
+SubmitNpcEx_76852=與<a href="findnpc,school26,-409.413,28.051,885.620" style="HLStype1">單固</a>交談提交任務
+SubmitNpcEx_76853=與<a href="findnpc,school26,-193.045,75.490,421.948" style="HLStype1">司徒濤群</a>交談提交任務
+SubmitNpcEx_76854=與<a href="findnpc,school26,-290.058,75.998,268.322" style="HLStype1">侯之保</a>提交任務
+SubmitNpcEx_76855=與<a href="findnpc,school26,-346.002,28.051,743.881" style="HLStype1">費博</a>交談提交任務
+SubmitNpcEx_76856=與<a href="findnpc,school26,-232.063,75.998,398.633" style="HLStype1">秋生</a>交談提交任務
+SubmitNpcEx_76857=回稟左都督<a href="findnpc_new,school26,newmp_xingtb_002" style="HLStype1">郭峰</a>
+SubmitNpcEx_76858=前往俠客島找到<a href="findnpc_new,scene17,NpcCloneshopxingtian_fc" style="HLStype1">譚文</a>學習門派絕學
+SubmitNpcEx_76863=<a href="findnpc_new,school26,npc_xtb_dy_009" style="HLStype1">巴中</a>
+SubmitNpcEx_76868=回稟大將軍<a href="findnpc_new,school26,newmp_xingtb_001" style="HLStype1">刑烈</a>
+collectinfo_76802=收集<a href="findnpc_new,school26," style="HLStype1"></a>5枚刑天城日常憑證<br>前往（-236 402）（-533 422）（-409 885）（-193 421）（-290 268）（-346 743）（-232 398）處理內務
+collectinfo_76803=前往運糧民夫處查找<a href="findnpc_new,school26,Gather_xtb_dy_03" style="HLStype1">線索</a>
+convoyinfo_76802=帶瓦剌萬夫長前往<a href="findnpc_new,school26,npc_xtb_dy_04" style="HLStype1">地宮</a>
+hunterinfo_76801=擊敗<a href="findnpc_new,adv177,xtb_nmphurnt_005" style="HLStype1">瓦剌軍人</a>（與<a href="findnpc_new,school26,nmpxtb_zyb_002" style="HLStype1">韓哉</a>交談，前往敵營）
+hunterinfo_76804=擊敗入侵的<a href="findnpc_new,school26,xtb_nmphurnt_003" style="HLStype1">瓦剌軍人</a>
+hunterinfo_76805=擊敗<a href="findnpc_new,adv177,xtb_nmphurnt_006" style="HLStype1">天狼騎士</a>（與<a href="findnpc_new,school26,nmpxtb_zyb_002" style="HLStype1">韓哉</a>交談，前往敵營）
+hunterinfo_76806=發現<a href="findnpc_new,adv177,xtb_nmphurnt_007" style="HLStype1">瓦剌細作</a>，前去逼問他（前往<a href="findnpc_new,school26,npc_xtb_dy_03" style="HLStype1">入口</a>，查探地宮）
+hunterinfo_76807=擊敗<a href="findnpc_new,adv177,xtb_nmphurnt_009" style="HLStype1">天狼勇士</a>(與<a href="findnpc_new,school26,nmpxtb_zyb_006" style="HLStype1">邢烈</a>交談，前往敵營)
+hunterinfo_76808=擊敗<a href="findnpc,adv177,1756,-7,-6" style="HLStype1">瓦剌萬夫長</a>（前往<a href="findnpc_new,school26,npc_xtb_dy_04" style="HLStype1">入口</a>，進入地宮）
+hunterinfo_76809=擊敗<a href="findnpc,adv177,1756,-7,-6" style="HLStype1">天狼勇士</a>（前往<a href="findnpc_new,school26,npc_xtb_dy_04" style="HLStype1">入口</a>，進入地宮）
+hunterinfo_76810=擊敗<a href="findnpc_new,school26,xtb_nmphurnt_010" style="HLStype1">天狼勇士</a>（<a href="findnpc_new,school26,Eventnpc_xtb_006" style="HLStype1">迎擊</a>敵軍）
+hunterinfo_76811=擊敗<a href="findnpc_new,school26,xtb_nmphurnt_012" style="HLStype1">瓦剌千夫長</a>（<a href="findnpc_new,school26,Eventnpc_xtb_006" style="HLStype1">迎擊</a>敵軍）
+hunterinfo_76812=擊敗<a href="findnpc_new,school26,xtb_nmphurnt_011" style="HLStype1">瓦剌元帥</a>（<a href="findnpc_new,school26,Eventnpc_xtb_006" style="HLStype1">迎擊</a>敵軍）
+hunterinfo_76813=擊退徘徊在刑天城外的<a href="findnpc_new,school26,xtb_event_008" style="HLStype1">馬匪</a>
+hunterinfo_76814=同<a href="findnpc_new,school26,xtb_event_012" style="HLStype1">刑天城弟子</a>切磋武藝
+hunterinfo_76815=同<a href="findnpc_new,school26,xtb_event_013" style="HLStype1">刑天城弟子</a>切磋武藝
+hunterinfo_76816=擊敗<a href="findnpc_new,school26,xtb_event_014" style="HLStype1">瓦剌間諜</a>
+hunterinfo_76817=擊敗<a href="findnpc_new,school26,npc_xtb_dy_002" style="HLStype1">悍匪</a>，從他們身上獲得血三七
+hunterinfo_76818=擊敗<a href="findnpc_new,school26,npc_xtb_dy_005" style="HLStype1">悍匪頭目</a>，詢問血三七的下落
+hunterinfo_76819=與<a href="findnpc_new,school26,npc_xtb_dy_006" style="HLStype1">鏢頭</a>一較高下，決定血三七的去留
+hunterinfo_76820=找到<a href="findnpc_new,school26,npc_xtb_dy_016" style="HLStype1">賈三</a>
+interact_76804=與<a href="findnpc_new,school26,newmp_xtbzyb_001" style="HLStype1">刑天城指引人</a>交談
+story_76806_2=<font face="Default" color="#ffffff" >武道便似兵道，必要勇猛精進，永不言棄。不錯，你年紀輕輕，卻能領悟此等深刻的道理，果真是棟樑英才。</font>
+story_76806_3=<font face="Default" color="#ffffff" >兵者之事，義利難分，不知在你心中何為義戰之道。</font>
+story_76806_4=<font face="Default" color="#ffffff" >不錯！刑天城本是南宋時的北伐先軍，自從流落西北，建派以來，秉持保衛中原，抗擊外敵的神聖使命。你身為刑天城弟子，定要做一名勇猛無畏，血灑疆場的守邊將士，守護中原故土的萬千百姓。</font>
+story_76807_2=<font face="Default" color="#ffffff" >對了，剛剛韓哉找人幫忙，你正好過去看看能不能幫上忙</font><font face="Default" color="#ffffff" >。</font>
+story_76809_2=<font face="Default" color="#ffffff" >我被敵軍斥候圍殺負傷，歷經艱難才逃到此地，</font><font face="Default" color="#ffffff" >已經沒有力氣再趕回城中。</font><font face="Default" color="#ffffff" >你速速回城</font><font face="Default" color="#ffffff" >稟告</font><font face="Default" color="#ffffff" >軍情。</font>
+story_76809_3=<font face="Default" color="#ffffff" >瓦剌騎兵很快就會追來，我如今身受重傷，你帶上我只會一起被圍。必須速速將緊急軍情</font><font face="Default" color="#ffffff" >稟告</font><font face="Default" color="#ffffff" >給大將軍，否則刑天城有可能被瓦剌攻佔。切莫猶豫，這是師兄的軍令！</font>
+story_76810_1=<font face="Default" color="#ffffff" >有何要事？</font>
+story_76810_2=<font face="Default" color="#ffffff" >（震驚）什麼？邵封如何了？瓦剌人竟敢如此猖狂！</font>
+story_76810_3=<font face="Default" color="#ffffff" >哼！我早知道瓦剌狼子野心，想要吞占刑天城，進而佔據西北，窺視中原，但沒想到他們竟然出動了十萬大軍進攻刑天城</font><font face="Default" color="#ffffff" >。</font>
+story_76810_4=<font face="Default" color="#ffffff" >刑天城絕不會拋棄任何一個軍中袍澤！</font><font face="Default" color="#ffffff" >你速速前去跟隨韓哉，救回邵封。</font>
+story_76812_2=<font face="Default" color="#ffffff" >瓦剌人</font><font face="Default" color="#ffffff" >如同土雞瓦狗，何足懼哉！</font>
+story_76813_2=<font face="Default" color="#ffffff" >快走！瓦剌人很快就會發現異樣。你帶著我是逃不出軍營的!</font>
+story_76813_3=<font face="Default" color="#ffffff" >我輩軍人，</font><font face="Default" color="#ffffff" >戰死犧牲本是常事，何必婆婆媽媽，讓人笑話，</font><font face="Default" color="#ffffff" >執行命令</font><font face="Default" color="#ffffff" >吧！</font>
+story_76814_2=<font face="Default" color="#ffffff" >獼猴寶藏？</font><font face="Default" color="#ffffff" >此事的確不容耽擱，</font><font face="Default" color="#ffffff" >那你就</font><font face="Default" color="#ffffff" >趕快回城稟告</font><font face="Default" color="#ffffff" >大將軍吧。</font>
+story_76815_2=<font face="Default" color="#ffffff" >獼猴寶藏？這個傳說已有幾百年了，我一直以為是空穴來風的流言，沒想到瓦剌人竟然當真，不但大動干戈，出動十萬大軍進犯刑天城，還抓走邵封逼問情報。</font>
+story_76815_3=<font face="Default" color="#ffffff" >嗯，此言有理，你就去探查清楚獼猴寶藏的真相吧。我要去調動大軍，準備迎戰瓦剌，做好兩手準備，守衛刑天城。對了，你初入</font><font face="Default" color="#ffffff" >刑天</font><font face="Default" color="#ffffff" >，不知城中格局，可以去詢問左都督郭峰。</font>
+story_76816_3=<font face="Default" color="#ffffff" >這是謎語，似乎是與西夏的神話有關。說起來，這座刑天城本是西夏遺留的廢城，被我等先輩佔據修復，城裡倒</font><font face="Default" color="#ffffff" >還</font><font face="Default" color="#ffffff" >有些西夏殘留的遺跡，城西</font><font face="Default" color="#ffffff" >就</font><font face="Default" color="#ffffff" >有一座西夏人供奉先祖獼猴王的破廟，可能與獼猴寶藏有關，你可以前去探查。</font>
+story_76818_1=<font face="Default" color="#ffffff" >刑天城地下竟然真的藏著西夏人遺留的獼猴寶藏？實在是不可思議，自從百年前刑天城先輩們佔據此地以來，向來把這些傳聞當做故弄玄虛的無稽之談，</font><font face="Default" color="#ffffff" >只</font><font face="Default" color="#ffffff" >可惜我們沒能早日發現寶藏，用以建設城防，否則也不必擔心瓦剌大軍攻破城堡。</font>
+story_76818_2=<font face="Default" color="#ffffff" >瓦剌不知殘害了多少漢人百姓，</font><font face="Default" color="#ffffff" >豈能讓他們得到獼猴寶藏！但</font><font face="Default" color="#ffffff" >瓦剌元帥將邵封推到陣前當做人質，威脅我們開城投降。我</font><font face="Default" color="#ffffff" >身為一軍主將，</font><font face="Default" color="#ffffff" >不能坐視袍澤兄弟被敵人殘忍殺害，但是一旦開城投降，恐怕刑天城上下軍民都會被瓦剌大軍屠戮殆盡。為救一人，而死萬人，我心知應當如何抉擇，但是卻無法眼睜睜看著邵封被殺。</font>
+story_76819_1=<font face="Default" color="#ffffff" >邵封是我的老部下，自從參軍入伍以來，屢建戰功，經常深入敵境，探查情報，立下汗馬功勞，深受</font><font face="Default" color="#ffffff" >刑天城眾將</font><font face="Default" color="#ffffff" >的器重。</font><font face="Default" color="#ffffff" >如今</font><font face="Default" color="#ffffff" >邵封被瓦剌</font><font face="Default" color="#ffffff" >人</font><font face="Default" color="#ffffff" >在陣前害死，此仇不共戴天，必須要報，我決定開城迎戰，與敵人誓死戰鬥。</font>
+story_76820_1=<font face="Default" color="#ffffff" >可恨！沒想到瓦剌人還是這般狠毒，竟然以刑天城外的百姓性命</font><font face="Default" color="#ffffff" >相</font><font face="Default" color="#ffffff" >要挾！刑天城庇佑一方，責任重大，怎可因為區區寶藏而害死週遭百姓，你立刻前往敵營談判，我可以允許瓦剌人派出少許人手前往地宮，搬走寶藏，</font><font face="Default" color="#ffffff" >但</font><font face="Default" color="#ffffff" >他們必須</font><font face="Default" color="#ffffff" >答應釋放百姓，</font><font face="Default" color="#ffffff" >撤軍離開。</font>
+story_76821_1=<font face="Default" color="#ffffff" >哈哈哈，區區</font><font face="Default" color="#ffffff" >新兵</font><font face="Default" color="#ffffff" >也配在我營內張狂</font><font face="Default" color="#ffffff" >？先打贏我的勇士再說。</font>
+story_76822_1=<font face="Default" color="#ffffff" >哈哈</font><font face="Default" color="#ffffff" >，</font><font face="Default" color="#ffffff" >瞧不出你個新兵還有些勇力，說吧！</font><font face="Default" color="#ffffff" >你們想怎麼談？</font>
+story_76822_2=<font face="Default" color="#ffffff" >哼！南蠻子好大的口氣，我等十萬大軍</font><font face="Default" color="#ffffff" >還怕打不下區區一個</font><font face="Default" color="#ffffff" >刑天城嗎？不過既然你們答應獻出寶藏，也省得我等勇士</font><font face="Default" color="#ffffff" >辛苦攻城</font><font face="Default" color="#ffffff" >。你在前面帶路</font><font face="Default" color="#ffffff" >，我立刻派人進城！</font>
+story_76823_1=<font face="Default" color="#ffffff" >你怎麼回來了？瓦剌人呢？</font>
+story_76823_2=<font face="Default" color="#ffffff" >什麼？寶箱是空的？</font>
+story_76823_3=<font face="Default" color="#ffffff" >（長歎一聲）此事非你之過。現在想來，當年西夏黨項人面對蒙古人的滅族威脅，傾國之力積極抵擋，不可能還會藏匿財寶，而不是拿去補充軍資，全力反擊。</font><font face="Default" color="#ffffff" >或許</font><font face="Default" color="#ffffff" >獼猴寶藏只是瓦剌人道聽途說的傳說故事，</font><font face="Default" color="#ffffff" >一開始就不存在······</font>
+story_76824_1=<font face="Default" color="#ffffff" >既然天意如此，那便就痛快應戰！</font><font face="Default" color="#ffffff" >守城之道，最忌龜縮城池，本將決定率軍出戰，痛擊瓦剌，打掉敵軍銳氣！你等就在城樓上全力守城，從左都督郭峰處領取火油罐，尋機摧毀瓦剌人的攻城塔，擊碎他們的攻城野心！</font>
+story_76825_1=<font face="Default" color="#ffffff" >好哇！</font><font face="Default" color="#ffffff" >你</font><font face="Default" color="#ffffff" >雖拜入刑天城時日不久，卻</font><font face="Default" color="#ffffff" >已經</font><font face="Default" color="#ffffff" >真正</font><font face="Default" color="#ffffff" >成為一名馳騁沙場的軍人</font><font face="Default" color="#ffffff" >了！</font>
+story_76825_2=<font face="Default" color="#ffffff" >放心吧，</font><font face="Default" color="#ffffff" >瓦剌經此大敗，</font><font face="Default" color="#ffffff" >損兵折將，</font><font face="Default" color="#ffffff" >十年內不會再來侵犯西北疆土，而且大明皇帝</font><font face="Default" color="#ffffff" >即</font><font face="Default" color="#ffffff" >將要北征</font><font face="Default" color="#ffffff" >草原</font><font face="Default" color="#ffffff" >，瓦剌將會自顧不暇</font><font face="Default" color="#ffffff" >。</font><font face="Default" color="#ffffff" >這次瓦剌為奪獼猴寶藏，極可能是想要補充軍資，用以反擊明軍。</font>
+story_76825_3=<font face="Default" color="#ffffff" >獼猴寶藏未必是虛假傳說，</font><font face="Default" color="#ffffff" >我</font><font face="Default" color="#ffffff" >經歷此戰，已經猜到了寶藏的真相。</font>
+story_76825_4=<font face="Default" color="#ffffff" >刑天城</font><font face="Default" color="#ffffff" >位處西北要害之地，得此城堡就可侵佔甘陝之地，進而窺視中原，而且刑天</font><font face="Default" color="#ffffff" >城</font><font face="Default" color="#ffffff" >城池堅固，地形險峻，即使瓦剌出動十萬大軍也難以攻佔，是一座易守難攻的真正堅城。</font>
+story_76825_5=<font face="Default" color="#ffffff" >當年西夏黨項人面對蒙古人的滅族入侵，恐怕自知生路斷絕，只能拚死一戰，所以傾國之力建造此城，希望能夠憑借堅城抵擋蒙古大軍，保留國家復興的元氣。</font>
+story_76825_6=<font face="Default" color="#ffffff" >但可惜仍是被蒙古成吉思汗率領四十萬大軍攻破，然而這座寄托著西夏黨項人最後希望的城堡卻被外人誤以為是埋藏著西夏賴以復國的金銀財寶，在歲月演變中誕生出了獼猴寶藏的傳說，卻不知這座城堡本身就是獼猴後裔的真正寶藏。所以從來就沒有獼猴寶藏，或者說獼猴寶藏就是刑天</font><font face="Default" color="#ffffff" >城</font><font face="Default" color="#ffffff" >。</font>
+story_76825_7=<font face="Default" color="#ffffff" >當年刑天城先輩受命遠征西北，歸路斷絕，誤入此地，以為是上天恩賜，於是佔據廢城，經歷幾代人才成功修繕，現在刑天城已非西夏所屬，而是已經成為守護中原的西北門戶，只要刑天城尚存一人，就不會放縱敵人侵佔中原，使得中原百姓像是西夏黨項人般滅族消亡。</font>
+story_76825_8=<font face="Default" color="#ffffff" >如果此次瓦剌真的攻佔刑天城，就如同斷大明一臂，等到明軍北征，瓦剌就可以刑天城為基，派出奇兵突襲明軍後方疆土，到時候明軍就有覆滅的危險，中原百姓又要被敵軍屠戮摧殘。</font>
+story_76826_1=<font face="Default" color="#ffffff" >你可</font><font face="Default" color="#ffffff" >曾</font><font face="Default" color="#ffffff" >學過醫術？</font>
+story_76826_2=<font face="Default" color="#ffffff" >你的體格不錯，不如替我去尋幾味藥材。</font>
+story_76826_3=<font face="Default" color="#ffffff" >我需要的藥材共有三種，分別是龍根草、鳳凰石和血三七。</font>
+story_76826_4=<font face="Default" color="#ffffff" >龍根草，生長在懸崖峭壁之上，採摘不易第二種鳳凰石，乃是玉髓之精，通體火紅，傳說乃是鳳凰之血所化，深藏於山間石林</font><font face="Default" color="#ffffff" >。</font>
+story_76826_5=<font face="Default" color="#ffffff" >第三種血三七，乃是邊疆戰場上吸收兵戈血氣生長出的靈藥，極為難得，但被遊蕩在戰場上的惡匪霸佔，只有擊敗了他們才有可能得到。</font>
+story_76827_1=<font face="Default" color="#ffffff" >大俠...大俠饒命！血三七真的不在我們身上，有一</font><font face="Default" color="#ffffff" >鏢</font><font face="Default" color="#ffffff" >長風鏢局的鏢隊路過，將血三七全都搶了去！</font>
+story_76827_2=<font face="Default" color="#ffffff" >千真萬確啊，大俠！我們受了如此重傷，必定走不遠。你沿著此路一直向前</font><font face="Default" color="#ffffff" >若不能</font><font face="Default" color="#ffffff" >遇到他們，再回來收拾我們不遲！</font>
+story_76828_1=<font face="Default" color="#ffffff" >閣下一身風塵直追我</font><font face="Default" color="#ffffff" >等</font><font face="Default" color="#ffffff" >，有何指教？！</font>
+story_76828_2=<font face="Default" color="#ffffff" >血三七？</font>
+story_76828_3=<font face="Default" color="#ffffff" >原來是</font><font face="Default" color="#ffffff" >為</font><font face="Default" color="#ffffff" >刑天城</font><font face="Default" color="#ffffff" >將士而來</font><font face="Default" color="#ffffff" >，是在下失禮了！刑天城眾將士為我等守衛邊疆，我等理應讓出血三七。只不過前日我們少鏢主受了賊人暗算，身受重傷。若沒有這血三七...只怕...只怕</font>
+story_76828_4=<font face="Default" color="#ffffff" >閣下思緒難定，少鏢主的傷勢卻等不下去了。我等日後定登門謝罪！</font>
+story_76829_1=<font face="Default" color="#ffffff" >閣下還有何</font><font face="Default" color="#ffffff" >事</font><font face="Default" color="#ffffff" >？莫不是想動手？！</font>
+story_76829_2=
+story_76830_1=<font face="Default" color="#ffffff" >多說無益，我等未能護得少鏢主周全。還有何顏面回去見總鏢頭！（鏢頭作勢欲自刎）</font>
+story_76830_2=<font face="Default" color="#ffffff" >唉...</font>
+story_76830_3=<font face="Default" color="#ffffff" >少鏢主的傷勢似乎更加嚴重了，只能寄希望於此了！</font>
+story_76831_1=<font face="Default" color="#ffffff" >能否醫治還需看看再說，你在此處安頓長風鏢局眾人。我去看看他們的少鏢主。</font>
+story_76832_1=<font face="Default" color="#ffffff" >幸好送來的及時，若再晚幾個時辰怕是凶多吉少了！</font>
+story_76833_1=<font face="Default" color="#ffffff" >長風鏢局日後定有厚禮奉上！</font>
+story_76834_1=<font face="Default" color="#ffffff" >你幫我尋來這三味藥材已經幫了大忙了，你先去休息。若有事情需要你的幫忙，我會</font><font face="Default" color="#ffffff" >再</font><font face="Default" color="#ffffff" >找你的。</font>
+story_76835_1=<font face="Default" color="#ffffff" >糧倉起火那日碰巧也是我當值。</font><font face="Default" color="#ffffff" >子</font><font face="Default" color="#ffffff" >時前後突然一陣焦糊味傳來，背後的糧倉隱約有火光，幸好撲救及時。並未造成很大的損失。</font>
+story_76835_2=<font face="Default" color="#ffffff" >不曾。糧倉守衛森嚴，四面封閉，除了往糧倉內存糧時，外人很難進出。起火那日</font><font face="Default" color="#ffffff" >，</font><font face="Default" color="#ffffff" >夜裡並沒發現有外人接近糧倉，只不過...</font>
+story_76835_3=<font face="Default" color="#ffffff" >那日在火光中似乎看到個人影，不過並沒有人</font><font face="Default" color="#ffffff" >可以</font><font face="Default" color="#ffffff" >在那樣的火勢中行動自如。我只當自己眼花了。</font>
+story_76836_1=<font face="Default" color="#ffffff" >難道有人藏在</font><font face="Default" color="#ffffff" >糧</font><font face="Default" color="#ffffff" >草中混入糧倉？</font>
+story_76836_2=<font face="Default" color="#ffffff" >看顏色和它的手感有點像駱駝毛。</font>
+story_76836_3=<font face="Default" color="#ffffff" >城中最近的確來了一夥草原馬商，正在販賣駱駝。</font><font face="Default" color="#ffffff" >難道是他們？！</font>
+story_76837_1=<font face="Default" color="#ffffff" >這撮毛髮色澤明亮，手感細膩。只有我家這些上等的駱駝身上才有。這位客人，是否要買下幾匹？</font>
+story_76837_2=<font face="Default" color="#ffffff" >客人</font><font face="Default" color="#ffffff" >是何意啊？</font>
+story_76837_3=<font face="Default" color="#ffffff" >大...大人！冤枉啊！小人幾日前才到這刑天城，且城中守衛森嚴。小人也沒這個能耐潛入糧倉啊！</font><font face="Default" color="#ffffff" >定是有人栽贓嫁禍！</font><font face="Default" color="#ffffff" >請...請大人明察！</font>
+story_76837_4=<font face="Default" color="#ffffff" >倒是多有人來詢問價格，可至今還未開張。</font>
+story_76838_1=<font face="Default" color="#ffffff" >此人所述不似作偽，或許縱火者另有其人。可何人可以在大火中從容逃走？</font>
+story_76839_1=<font face="Default" color="#ffffff" >稟大人，小人此前在瓦剌經商時聽說</font><font face="Default" color="#ffffff" >，</font><font face="Default" color="#ffffff" >西域有一種能夠辟火不燃的火浣布，瓦剌人也曾經購買。</font>
+story_76840_1=<font face="Default" color="#ffffff" >想必你已經有了懷疑的人。</font>
+story_76840_2=<font face="Default" color="#ffffff" >城中的民夫都安置在了一處，此刻便前去查探吧。</font>
+story_76841_1=<font face="Default" color="#ffffff" >這是賈三的盒子啊，他一直寶貝著不讓別人碰呢。</font>
+story_76841_2=<font face="Default" color="#ffffff" >這傢伙以身體不適告假了幾日，等他</font><font face="Default" color="#ffffff" >再</font><font face="Default" color="#ffffff" >出現我定要讓他走人。來了沒幾日便休息了大半時日，我這人手缺的緊啊。</font>
+story_76842_1=<font face="Default" color="#ffffff" >小民所犯何事？</font><font face="Default" color="#ffffff" >大人為何突然對小民出手？</font>
+story_76842_2=<font face="Default" color="#ffffff" >沒想到此地竟有如此心思縝密之人，老子認栽了。</font>
+story_menu_76810=<font face="Default" color="#ffffff" >拜見</font><font face="Default" color="#ffffff" >大將軍</font><font face="Default" color="#ffffff" >，弟子有要事稟告！</font>
+story_menu_76818=<font face="Default" color="#ffffff" >大將軍，我在城西的獼猴神廟後發現一個地宮，應該就是西夏人藏匿寶藏的地方，</font><font face="Default" color="#ffffff" >並且擊斃一個</font><font face="Default" color="#ffffff" >混入城中的瓦剌細作。</font>
+story_menu_76819=<font face="Default" color="#ffffff" >大將軍</font><font face="Default" color="#ffffff" >，</font><font face="Default" color="#ffffff" >我們該怎麼辦？</font>
+story_menu_76820=<font face="Default" color="#ffffff" >大將軍，必須做出抉擇了。</font>
+story_menu_76821=<font face="Default" color="#ffffff" >瓦剌元帥，</font><font face="Default" color="#ffffff" >在下</font><font face="Default" color="#ffffff" >受命前來</font><font face="Default" color="#ffffff" >，</font><font face="Default" color="#ffffff" >與你等談判。</font>
+story_menu_76822=<font face="Default" color="#ffffff" >現在可以談判了嗎？</font>
+story_menu_76823=<font face="Default" color="#ffffff" >大將軍</font><font face="Default" color="#ffffff" >！</font>
+story_menu_76824=<font face="Default" color="#ffffff" >我們應該如何應戰？</font>
+story_menu_76825=<font face="Default" color="#ffffff" >大將軍</font><font face="Default" color="#ffffff" >，幸不辱命！</font>
+story_menu_76826=<font face="Default" color="#ffffff" >前輩，左都督命我前來幫助治療</font><font face="Default" color="#ffffff" >將士</font><font face="Default" color="#ffffff" >！</font>
+story_menu_76827=<font face="Default" color="#ffffff" >再問你最後一次，血三七到底被你們藏到了何處！？</font>
+story_menu_76828=<font face="Default" color="#ffffff" >請留步！</font>
+story_menu_76829=<font face="Default" color="#ffffff" >前輩</font><font face="Default" color="#ffffff" >請留步！</font>
+story_menu_76830=<font face="Default" color="#ffffff" >前輩</font><font face="Default" color="#ffffff" >招式精妙，在下佩服！</font>
+story_menu_76831=<font face="Default" color="#ffffff" >（向巴中講述與長風鏢局的相遇...）</font>
+story_menu_76832=<font face="Default" color="#ffffff" >前輩，少鏢主的傷勢如何？</font>
+story_menu_76833=<font face="Default" color="#ffffff" >速速給少鏢主療傷吧！</font>
+story_menu_76834=<font face="Default" color="#ffffff" >前輩，丹藥已經交給鏢頭了。還有何事是可以交給我的？</font>
+story_menu_76835=<font face="Default" color="#ffffff" >此乃將軍令牌，在下奉命前來調查糧倉起火一事！請將你知道的細節</font><font face="Default" color="#ffffff" >都告知於</font><font face="Default" color="#ffffff" >我。</font>
+story_menu_76836=<font face="Default" color="#ffffff" >這個麻袋有些許燒焦痕跡且破洞的切口由內向外。</font>
+story_menu_76837=<font face="Default" color="#ffffff" >你可識得將軍手中的</font><font face="Default" color="#ffffff" >黃色毛髮</font><font face="Default" color="#ffffff" >是何物？</font>
+story_menu_76838=<font face="Default" color="#ffffff" >都督，你如何看此事？</font>
+story_menu_76839=<font face="Default" color="#ffffff" >你有線索？</font>
+story_menu_76840=<font face="Default" color="#ffffff" >都督，如此說來此人的作案手法已經明晰。此人必然是利用刑天城往糧倉內存糧時，攜帶火浣布藏身於麻袋之中，得以避開守衛潛入糧倉。待到</font><font face="Default" color="#ffffff" >子</font><font face="Default" color="#ffffff" >夜時便在糧倉中縱火，然後身披火浣布衝入烈火，利用守衛忙於救</font><font face="Default" color="#ffffff" >火</font><font face="Default" color="#ffffff" >的混亂時刻，從糧倉的後窗逃出。</font>
+story_menu_76841=<font face="Default" color="#ffffff" >請問</font><font face="Default" color="#ffffff" >閣下</font><font face="Default" color="#ffffff" >可否識得此物？</font>
+story_menu_76842=<font face="Default" color="#ffffff" >看你還往哪裡逃？！</font>
+storyinfo_76819=詢問大將軍<a href="findnpc_new,school26,nmpxtb_zyb_006" style="HLStype1">邢烈</a>，接下來該如何
+storyinfo_76820=詢問大將軍<a href="findnpc_new,school26,nmpxtb_zyb_006" style="HLStype1">邢烈</a>，接下來該如何
+storyinfo_76821=與<a href="findnpc_new,adv177,nmpxtb_zyb_007" style="HLStype1">瓦剌元帥</a>談判(與<a href="findnpc_new,school26,nmpxtb_zyb_006" style="HLStype1">邢烈</a>交談，前往敵營)
+storyinfo_76822=與<a href="findnpc_new,adv177,nmpxtb_zyb_007" style="HLStype1">瓦剌元帥</a>談判(與<a href="findnpc_new,school26,nmpxtb_zyb_006" style="HLStype1">邢烈</a>交談，前往敵營)
+storyinfo_76823=<a href="findnpc_new,adv177,PlotDoor_xtb_dy_06" style="HLStype1">離開</a>地宮，向大將軍<a href="findnpc_new,school26,nmpxtb_zyb_006" style="HLStype1">邢烈</a>稟明情報
+storyinfo_76824=聽從大將軍<a href="findnpc_new,school26,nmpxtb_zyb_006" style="HLStype1">邢烈</a>的安排
+storyinfo_76825=<a href="findnpc_new,school26,Eventnpc_xtb_009" style="HLStype1">離開</a>決戰區域，向大將軍<a href="findnpc_new,school26,newmp_xingtb_001" style="HLStype1">刑烈</a>稟明軍情（可騎乘<a href="findnpc_new,school26,npc_xtb_dy_02" style="HLStype1">駿馬</a>快速前往城內）
+storyinfo_76826=詢問軍醫<a href="findnpc_new,school26,npc_xtb_dy_001" style="HLStype1">巴中</a>需要什麼幫助
+storyinfo_76827=逼問<a href="findnpc_new,school26,npc_xtb_dy_005" style="HLStype1">悍匪頭目</a>，找到血三七的下落
+storyinfo_76828=詢問<a href="findnpc_new,school26,npc_xtb_dy_006" style="HLStype1">鏢頭</a>，為何需要血三七
+storyinfo_76829=試圖說服<a href="findnpc_new,school26,npc_xtb_dy_006" style="HLStype1">鏢頭</a>
+storyinfo_76830=勸說<a href="findnpc_new,school26,npc_xtb_dy_006" style="HLStype1">鏢頭</a>，前往刑天城
+storyinfo_76831=請<a href="findnpc_new,school26,npc_xtb_dy_001" style="HLStype1">巴中</a>查看少鏢主的傷勢
+storyinfo_76832=詢問<a href="findnpc_new,school26,npc_xtb_dy_009" style="HLStype1">巴中</a>,少鏢主的傷情如何
+storyinfo_76833=聽<a href="findnpc_new,school26,npc_xtb_dy_008" style="HLStype1">鏢頭</a>訴說
+storyinfo_76834=聽<a href="findnpc_new,school26,npc_xtb_dy_009" style="HLStype1">巴中</a>訴說
+storyinfo_76835=詢問<a href="findnpc_new,school26,npc_xtb_dy_010" style="HLStype1">糧倉守衛</a>失火當日的情況
+storyinfo_76836=詢問<a href="findnpc_new,school26,npc_xtb_dy_010" style="HLStype1">糧倉守衛</a>
+storyinfo_76837=調查<a href="findnpc_new,school26,npc_xtb_dy_013" style="HLStype1">馬商</a>
+storyinfo_76838=詢問<a href="findnpc_new,school26,npc_xtb_dy_014" style="HLStype1">都督</a>怎麼看
+storyinfo_76839=<a href="findnpc_new,school26,npc_xtb_dy_013" style="HLStype1">馬商</a>似乎有話要說
+storyinfo_76840=詢問<a href="findnpc_new,school26,npc_xtb_dy_014" style="HLStype1">都督</a>
+storyinfo_76841=詢問<a href="findnpc_new,school26,npc_xtb_dy_015" style="HLStype1">民夫頭領</a>
+storyinfo_76842=審問<a href="findnpc_new,school26,npc_xtb_dy_016" style="HLStype1">賈三</a>
+storymenu_76806_2=<font face="Default" color="#ffffff" >弟子才疏學淺，錯漏之處，還請掌門指教。</font>
+storymenu_76806_3=<font face="Default" color="#ffffff" >國之大事，弟子不敢擅論，然而義戰為公，利戰為私，自古王者弔民伐罪，暴者殘虐無辜，因此弟子認為誅強除暴，護佑百姓，使得萬民安居樂業，便為義戰正道。</font>
+storymenu_76806_4=<font face="Default" color="#ffffff" >弟子牢記於心！</font>
+storymenu_76807_1=<font face="Default" color="#ffffff" >多謝</font><font face="Default" color="#ffffff" >左都督</font><font face="Default" color="#ffffff" >教誨。</font>
+storymenu_76807_2=<font face="Default" color="#ffffff" >弟子這就去。</font>
+storymenu_76809_2=<font face="Default" color="#ffffff" >既然你是刑天城的袍澤弟兄，我豈能拋下不管！</font>
+storymenu_76809_3=<font face="Default" color="#ffffff" >可……那師兄保重，我一定會回來救你。</font>
+storymenu_76810_1=<font face="Default" color="#ffffff" >弟子剛剛外出剿匪，卻遇到邵封師兄被瓦剌騎兵追殺</font><font face="Default" color="#ffffff" >。</font><font face="Default" color="#ffffff" >他告知我</font><font face="Default" color="#ffffff" >，</font><font face="Default" color="#ffffff" >瓦剌已經出動十萬大軍，想要攻佔刑天城。</font>
+storymenu_76810_2=<font face="Default" color="#ffffff" >我本來想救邵封師兄回城，但他堅持斷後，讓我速速回來稟告瓦剌入侵的緊急軍情。</font>
+storymenu_76810_3=<font face="Default" color="#ffffff" >大將軍，下令救回邵封師兄吧！</font>
+storymenu_76810_4=<font face="Default" color="#ffffff" >弟子尊令！</font>
+storymenu_76812_2=<font face="Default" color="#ffffff" >將軍虎膽，但</font><font face="Default" color="#ffffff" >若是</font><font face="Default" color="#ffffff" >瓦剌人受驚之下，殺害邵封師兄，那該如何？</font>
+storymenu_76813_2=<font face="Default" color="#ffffff" >可是</font><font face="Default" color="#ffffff" >······</font>
+storymenu_76813_3=<font face="Default" color="#ffffff" >師兄保重！</font>
+storymenu_76814_2=<font face="Default" color="#ffffff" >弟子先行一步。</font>
+storymenu_76815_2=<font face="Default" color="#ffffff" >大將軍，瓦剌人既然已經出動大軍，恐怕他們已經認定藏寶圖是真的，我們最好探查下獼猴寶藏的線索。如果</font><font face="Default" color="#ffffff" >真有寶藏</font><font face="Default" color="#ffffff" >，也好及時跟瓦剌談判救人。</font>
+storymenu_76815_3=<font face="Default" color="#ffffff" >弟子一定不辱使命。</font>
+storymenu_76816_3=<font face="Default" color="#ffffff" >我立刻前去。</font>
+storymenu_76818_1=<font face="Default" color="#ffffff" >大將軍，我們現在該怎麼辦？</font>
+storymenu_76818_2=<font face="Default" color="#ffffff" >這……</font><font face="Default" color="#f90760" >（我也不知道該如何是好）</font>
+storymenu_76819_1=<font face="Default" color="#ffffff" >我等願隨</font><font face="Default" color="#ffffff" >大將軍</font><font face="Default" color="#ffffff" >死戰到底！</font>
+storymenu_76820_1=<font face="Default" color="#ffffff" >弟子</font><font face="Default" color="#ffffff" >遵命。</font>
+storymenu_76821_1=<font face="Default" color="#ffffff" >怕你不成！</font>
+storymenu_76822_1=<font face="Default" color="#ffffff" >我家大將軍答應放你們三個人進城，前往地宮搬走寶藏，但是你們拿到寶藏後，必須</font><font face="Default" color="#ffffff" >釋放百姓，</font><font face="Default" color="#ffffff" >撤軍離開，否則我們刑天城拼著全城死光，也要與你們玉石俱焚！</font>
+storymenu_76822_2=<font face="Default" color="#ffffff" >如此</font><font face="Default" color="#ffffff" >就好。</font>
+storymenu_76823_1=<font face="Default" color="#ffffff" >大將軍，我等先前奉命進入地宮，監督瓦剌人搬運寶藏，但不料那些箱子竟都是空的！瓦剌人</font><font face="Default" color="#ffffff" >認定</font><font face="Default" color="#ffffff" >我們已經獨佔寶藏，故意戲耍</font><font face="Default" color="#ffffff" >他們</font><font face="Default" color="#ffffff" >，不聽解釋，舉刀便砍。我們出於無奈，只得先行將他們制服。</font>
+storymenu_76823_2=<font face="Default" color="#ffffff" >千真萬確！弟子已問過值守地宮的百戶大哥和巡守，確定沒有任何人進入地宮。先前我因為急著稟告大將軍，竟也沒有打開箱子查驗寶藏，</font><font face="Default" color="#ffffff" >因此釀成大禍，還</font><font face="Default" color="#ffffff" >請大將軍恕罪。</font>
+storymenu_76823_3=<font face="Default" color="#ffffff" >大將軍，瓦剌人不會相信的，現在我們該如何是好？</font>
+storymenu_76824_1=<font face="Default" color="#ffffff" >弟子</font><font face="Default" color="#ffffff" >尊令！</font>
+storymenu_76825_1=<font face="Default" color="#ffffff" >大將軍，瓦剌人雖被擊退，但我擔心他們還會捲土重來。</font>
+storymenu_76825_2=<font face="Default" color="#ffffff" >瓦剌病急亂投醫，為</font><font face="Default" color="#ffffff" >了傳說中</font><font face="Default" color="#ffffff" >獼猴寶藏出動大軍，卻只害死敵我雙方的許多將士，到頭來還是一無所獲。</font>
+storymenu_76825_3=<font face="Default" color="#ffffff" >真相</font><font face="Default" color="#ffffff" >？</font>
+storymenu_76825_4=<font face="Default" color="#ffffff" >不錯，刑天城的確是兵家必爭之地。</font>
+storymenu_76825_5=<font face="Default" color="#ffffff" >原來如此！</font>
+storymenu_76825_6=<font face="Default" color="#ffffff" >世人一葉障目，被貪心蒙蔽心智。</font>
+storymenu_76825_7=<font face="Default" color="#ffffff" >誓死守護刑天</font><font face="Default" color="#ffffff" >城</font><font face="Default" color="#ffffff" >！</font>
+storymenu_76825_8=<font face="Default" color="#ffffff" >還好我們擊退了瓦剌大軍！</font>
+storymenu_76826_1=<font face="Default" color="#ffffff" >前輩...</font>
+storymenu_76826_2=<font face="Default" color="#ffffff" >前輩請講。</font>
+storymenu_76826_3=<font face="Default" color="#ffffff" >這些藥材哪裡才能尋到？</font>
+storymenu_76826_4=<font face="Default" color="#ffffff" >第三種是？</font>
+storymenu_76826_5=<font face="Default" color="#ffffff" >在下</font><font face="Default" color="#ffffff" >這便去！</font>
+storymenu_76827_1=<font face="Default" color="#ffffff" >休想禍水東引！</font>
+storymenu_76827_2=<font face="Default" color="#ffffff" >姑且信你。</font>
+storymenu_76828_1=<font face="Default" color="#ffffff" >前輩不必緊張，在下奉刑天城左都督之命外出欲尋一味藥材，替營中將士治病</font><font face="Default" color="#ffffff" >療傷</font><font face="Default" color="#ffffff" >。</font>
+storymenu_76828_2=<font face="Default" color="#ffffff" >正是！</font>
+storymenu_76828_3=<font face="Default" color="#ffffff" >（長風鏢局在江湖上素有美譽，勢力分佈大江南北，與各門各派也有些交情。如今少鏢主身受重傷，本來出於江湖道義，大可將靈藥讓給他們，但是刑天城中的受傷將士急需靈藥醫治，一旦相讓，</font><font face="Default" color="#ffffff" >將士們</font><font face="Default" color="#ffffff" >的性命就要不保...）</font>
+storymenu_76828_4=<font face="Default" color="#ffffff" >前輩</font><font face="Default" color="#ffffff" >請留步！</font>
+storymenu_76829_1=<font face="Default" color="#ffffff" >前輩仁義，為了少鏢主可孤身涉險取得血三七。在下也不能棄</font><font face="Default" color="#ffffff" >眾將士</font><font face="Default" color="#ffffff" >於不顧。不如我等以武會友，勝者得血三七。</font>
+storymenu_76829_2=
+storymenu_76830_1=<font face="Default" color="#ffffff" >前輩</font><font face="Default" color="#ffffff" >不可！</font>
+storymenu_76830_2=<font face="Default" color="#ffffff" >前輩不如和我一同回營，營中軍醫巴中前輩行醫已有數十</font><font face="Default" color="#ffffff" >載</font><font face="Default" color="#ffffff" >，或許可以醫治少鏢主！</font>
+storymenu_76830_3=<font face="Default" color="#ffffff" >前輩</font><font face="Default" color="#ffffff" >請！我在前方引路。</font>
+storymenu_76831_1=<font face="Default" color="#ffffff" >有勞前輩了！</font>
+storymenu_76832_1=<font face="Default" color="#ffffff" >如此真是不幸中的萬幸了。</font>
+storymenu_76833_1=<font face="Default" color="#ffffff" >前輩客氣了！</font><font face="Default" color="#ffffff" >救人一命勝造七級浮屠，此乃我等的分內事。</font>
+storymenu_76834_1=<font face="Default" color="#ffffff" >好！</font>
+storymenu_76835_1=<font face="Default" color="#ffffff" >是否</font><font face="Default" color="#ffffff" >有可疑人員出入？</font>
+storymenu_76835_2=<font face="Default" color="#ffffff" >不過什麼？</font>
+storymenu_76835_3=<font face="Default" color="#ffffff" >多謝！</font>
+storymenu_76836_1=<font face="Default" color="#ffffff" >極有可能。</font><font face="Default" color="#ffffff" >可是這黃色毛髮是什麼？</font>
+storymenu_76836_2=<font face="Default" color="#ffffff" >駱駝毛？近日可有駝隊入城？</font>
+storymenu_76836_3=<font face="Default" color="#ffffff" >他們人多勢眾，你帶著這些證據請求將軍調兵。我先去會會他們。</font>
+storymenu_76837_1=<font face="Default" color="#ffffff" >哼，買你的駱駝？</font>
+storymenu_76837_2=<font face="Default" color="#ffffff" >你可知道這撮毛髮從何而來？近日城中糧倉失火，其間並無駱駝靠近。卻在現場發現這撮毛髮，既然你已經承認這撮毛髮來自你的駱駝。我勸你從實招來！</font>
+storymenu_76837_3=<font face="Default" color="#ffffff" >哦？</font><font face="Default" color="#ffffff" >近日來買駱駝的人你可有印象？</font>
+storymenu_76837_4=<font face="Default" color="#ffffff" >如此說來，瓦剌細作便還是你！</font>
+storymenu_76838_1=<font face="Default" color="#ffffff" >難道漏掉了什麼線索？！</font>
+storymenu_76839_1=<font face="Default" color="#ffffff" >哦？</font>
+storymenu_76840_1=<font face="Default" color="#ffffff" >能夠做到這些的必然是能夠進入糧倉瞭解虛實的人，所以那些往糧倉運糧的民夫</font><font face="Default" color="#ffffff" >便</font><font face="Default" color="#ffffff" >極為可疑。</font>
+storymenu_76840_2=<font face="Default" color="#ffffff" >領命。</font>
+storymenu_76841_1=<font face="Default" color="#ffffff" >賈三？</font>
+storymenu_76841_2=<font face="Default" color="#ffffff" >我去替你找找。</font>
+storymenu_76842_1=<font face="Default" color="#ffffff" >近日城中糧倉突然起火，現場的守衛發現了火場中的人影</font><font face="Default" color="#ffffff" >，</font><font face="Default" color="#ffffff" >還有遺落的駱駝毛。在你的箱子裡發現了火浣布和駱駝毛，你還有什麼可狡辯？！</font>
+storymenu_76842_2=<font face="Default" color="#ffffff" >你也休要在想著逃跑了，刑天城將士們馬上就到。你已經插翅難逃！</font>
+useiteminfo_76801=使用<a href="TASK_ITEM,useitem_xtbzyb_001" style="HLStype1">火油罐</a>燒燬<a href="findnpc_new,school26,nmpxtb_zyb_009" style="HLStype1">攻城車</a>（<a href="findnpc_new,school26,Eventnpc_xtb_006" style="HLStype1">迎擊</a>敵軍）
+useiteminfo_76802=使用<a href="TASK_ITEM,useitem_xtbevent_001" style="HLStype1">戰馬草料</a>餵食<a href="findnpc_new,school26,xtb_event_001" style="HLStype1">刑天城戰馬</a>
+useiteminfo_76803=使用<a href="TASK_ITEM,useitem_xtbevent_001" style="HLStype1">戰馬草料</a>餵食<a href="findnpc_new,school26,xtb_event_002" style="HLStype1">刑天城戰馬</a>
+useiteminfo_76804=使用<a href="TASK_ITEM,useitem_xtbevent_001" style="HLStype1">戰馬草料</a>餵食<a href="findnpc_new,school26,xtb_event_003" style="HLStype1">刑天城戰馬</a>
+useiteminfo_76805=在<a href="findnpc_new,school26,xtb_event_009" style="HLStype1">城牆修繕處</a>使用<a href="TASK_ITEM,useitem_xtbevent_002" style="HLStype1">修補工具</a>
+useiteminfo_76806=在<a href="findnpc_new,school26,xtb_event_010" style="HLStype1">城牆修繕處</a>使用<a href="TASK_ITEM,useitem_xtbevent_002" style="HLStype1">修補工具</a>
+useiteminfo_76807=在<a href="findnpc_new,school26,xtb_event_011" style="HLStype1">城牆修繕處</a>使用<a href="TASK_ITEM,useitem_xtbevent_002" style="HLStype1">修補工具</a>
+useiteminfo_76808=使用<a href="TASK_ITEM,useitem_xtbevent_003" style="HLStype1">磨刀石</a>保養<a href="findnpc_new,school26,xtb_event_015" style="HLStype1">武器架</a>上的武器
+useiteminfo_76809=使用<a href="TASK_ITEM,useitem_xtbevent_003" style="HLStype1">磨刀石</a>保養<a href="findnpc_new,school26,xtb_event_016" style="HLStype1">武器架</a>上的武器
+useiteminfo_76810=使用<a href="TASK_ITEM,useitem_xtbevent_003" style="HLStype1">磨刀石</a>保養<a href="findnpc_new,school26,xtb_event_017" style="HLStype1">武器架</a>上的武器
+collectinfo_76801=攻克<a href="findnpc_new,adv177,xtb_nmphurnt_004" style="HLStype1">瓦剌百夫長</a>拿到藏寶圖（與<a href="findnpc_new,school26,nmpxtb_zyb_002" style="HLStype1">韓哉</a>交談，前往敵營）
+hunterinfo_76802=攻克<a href="findnpc_new,school26,xtb_nmphurnt_001" style="HLStype1">馬匪頭領</a>（可騎乘<a href="findnpc_new,school26,npc_xtb_dy_01" style="HLStype1">駿馬</a>快速前往城外）
+hunterinfo_76803=攻克<a href="findnpc_new,school26,xtb_nmphurnt_002" style="HLStype1">馬匪</a>
+

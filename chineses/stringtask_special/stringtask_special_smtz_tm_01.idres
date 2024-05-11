@@ -40,7 +40,7 @@ SubmitNpcEx_86519=<s>回去面见门主<a href="findnpc_new,school05,WorldNpc022
 SubmitNpcEx_86520=<s>此项门派挑战任务已完成，回禀掌门<a href="findnpc_new,school05,WorldNpc02203" style="HLStype1">唐天行</a>
 SubmitNpcEx_86521=回禀门主<a href="findnpc_new,school05,WorldNpc02201" style="HLStype1">唐凤</a>
 SubmitNpcEx_86522=赶回唐门向门主<a href="findnpc_new,school05,WorldNpc02201" style="HLStype1">唐凤</a>复命
-SubmitNpcEx_86523=回去禀报姥姥<a href="findnpc_new,school05,WorldNpc02201" style="HLStype1">唐凤</a>，并且将蝴蝶尸体交予姥姥
+SubmitNpcEx_86523=回去禀报姥姥<a href="findnpc_new,school05,WorldNpc02201" style="HLStype1">唐凤</a>，并且将蝴蝶遗骸交予姥姥
 SubmitNpcEx_86524=回去向姥姥<a href="findnpc_new,school05,WorldNpc02201" style="HLStype1">唐凤</a>复命
 SubmitNpcEx_86527=回门派找到师兄弟指引人提交任务
 SubmitNpcEx_86528=前往<a href="findnpc_new,school02,wd173" style="HLStype1">门派师兄弟指引人</a>处
@@ -60,7 +60,7 @@ hunterinfo_58002=前往暮色村，攻克叶楼凯，让这厮明白什么叫祸
 hunterinfo_58003=听闻<a href="findnpc_new,school05,WorldNpc02265" style="HLStype1">唐川</a>取笑唐门乃是缩头乌龟，这还了得，你即刻前去给他个教训
 hunterinfo_58004=击败<a href="findnpc_new,city05,monrc055726" style="HLStype1">恶贼</a>
 hunterinfo_58005=前往洛阳<a href="findnpc_new,city04,ly794" style="HLStype1">神秘使者</a>处，进入场景后击败<a href="findnpc_new,city04,shitu_002" style="HLStype1">大恶人</a>
-interactinfo_58001=在唐门的荒郊野外，寻找到<a href="findnpc_new,school05,EventNpc86500" style="HLStype1">冷锋尸体的掩埋地</a>
+interactinfo_58001=在唐门的荒郊野外，寻找到<a href="findnpc_new,school05,EventNpc86500" style="HLStype1">冷锋遗骸的掩埋地</a>
 interactinfo_58002=好好寻找一块上等<a href="findnpc_new,school05,tangmen_tz_001" style="HLStype1">石料</a>，而后将其雕琢成冷锋的墓碑
 interactinfo_58003=听说同门的<a href="findnpc_new,school05,WorldNpc02270" style="HLStype1">韦群</a>知晓冷锋家乡的所在，且前去询问一番
 interactinfo_58004=依韦群指点，前往金蛇滩，<a href="findnpc_new,school05,WorldNpc02525" style="HLStype1">找个面善之人</a>打探一番
@@ -71,7 +71,7 @@ interactinfo_58008=拿着断肠花，跟药店掌柜<a href="findnpc_new,born04,
 interactinfo_58009=面见唐门姥姥<a href="findnpc_new,school05,WorldNpc02201" style="HLStype1">唐凤</a>，看看是否能将金世泽的骨灰取出
 interactinfo_58011=向<a href="findnpc_new,school07,wd170" style="HLStype1">神秘江湖客</a>询问虎啸山庄之人的动向
 interactinfo_58012=前往<a href="findnpc_new,city04,EventNpc86523" style="HLStype1">青云堡附近</a>查探
-interactinfo_58013=把蝴蝶尸体拿给<a href="findnpc_new,school05,WorldNpc02208" style="HLStype1">唐四公</a>查看
+interactinfo_58013=把蝴蝶遗骸拿给<a href="findnpc_new,school05,WorldNpc02208" style="HLStype1">唐四公</a>查看
 interactinfo_58014=拜访<a href="findnpc_new,city02,FuncNpc00104" style="HLStype1">杜柏年</a>
 interactinfo_58015=拜访<a href="findnpc_new,city02,FuncNpc00106" style="HLStype1">孟光</a>
 interactinfo_58016=拜访<a href="findnpc_new,city05,WorldNpc09601" style="HLStype1">于长青</a>
@@ -110,8 +110,8 @@ specialinfo_242=挑战恶虎山寨，若是此行能获得传闻中的五毒极�
 specialinfo_304=完成对徐家庄的挑战
 specialinfo_330=完成对嵩山铁剑门的势力挑战
 specialinfo_360=通关虎啸山庄
-specialinfo_361=通关暮色之村（序章）
-specialinfo_363=通关青云堡（序章）
+specialinfo_361=通关暮色之村
+specialinfo_363=通关青云堡
 specialinfo_377=完成对盐帮的势力挑战（成功踢馆一次）
 specialinfo_378=完成对抱犊寨的势力挑战（成功踢馆一次）
 specialinfo_379=完成对天宝寨的势力挑战（成功踢馆一次）
@@ -130,15 +130,15 @@ specialinfo_622=通关暮色之村(难度任意)
 story_58001_1=<font face="Default" color="#ffffff" >几日前接到武当传讯，说虎啸山庄近来异动频频，希望各大门派有所警觉。</font>
 story_58001_2=<font face="Default" color="#ffffff" >此番之事不可小视。武当紫阳真人传讯而来，说虎啸山庄今次形式，似乎有西夏一品堂的人出没。非我族类，其心必异。你且前往虎啸山庄，</font><font face="Default" color="#ffffff" >务必</font><font face="Default" color="#ffffff" >查明一切！</font>
 story_58002_1=<font face="Default" color="#ffffff" >多年前江湖出现一位神秘隐卫，此人</font><font face="Default" color="#ffffff" >名叫赵子亟，一身</font><font face="Default" color="#ffffff" >功夫</font><font face="Default" color="#ffffff" >甚是</font><font face="Default" color="#ffffff" >了得。一连几次，竟然杀我唐门数名弟子。我唐门派出众多高手，终是将他击伤，而此人身染唐门之毒，却仍旧逃出生天。</font>
-story_58002_2=<font face="Default" color="#ffffff" >当时此人身中剧毒，而且受伤颇重，我等料想此人定是命不久矣，</font><font face="Default" color="#ffffff" >而后又听闻赵子亟收到韩家少爷韩似锦的追杀，在太湖边被打成重伤，</font><font face="Default" color="#ffffff" >所以并未追踪下去。这么多年过去，也从未听说此人消息，没想到如今竟又听闻此人出现在苏州城中。你且前往苏州，务必打听清楚。</font>
+story_58002_2=<font face="Default" color="#ffffff" >当时此人身中剧毒，而且受伤颇重，我等料想此人定是命不久矣，</font><font face="Default" color="#ffffff" >而后又听闻赵子亟受到韩家少爷韩似锦的追杀，在太湖边被打成重伤，</font><font face="Default" color="#ffffff" >所以并未追踪下去。这么多年过去，也从未听说此人消息，没想到如今竟又听闻此人出现在苏州城中。你且前往苏州，务必打听清楚。</font>
 story_58003_1=<font face="Default" color="#ffffff" >赵子亟？可真巧了，前两日来了许多江湖人，也都是来寻这赵子亟的。不知客官所说的是不是此人。</font>
 story_58003_2=<font face="Default" color="#ffffff" >嗨！那些江湖人自称是什么锡山韩家，说是来此找赵子亟报当年灭门之仇，那赵子亟一直都在暮色小渔村之中，这些江湖人去了，只怕那小渔村也永无太平之日了。</font>
-story_58004_1=<font face="Default" color="#ffffff" >锡山韩家，若真如此，那这赵子亟定是当年之人无疑。只是有了这锡山韩家查收，我唐门若想手刃赵子亟定要费一番功夫了。</font>
-story_58004_2=<font face="Default" color="#ffffff" >你且速速前往暮色之村，唐门仇敌断不可死在别人手中。若是有人阻拦，杀了便是。只要能亲自将那赵子亟斩杀，我定是重重有赏！</font>
+story_58004_1=<font face="Default" color="#ffffff" >锡山韩家，若真如此，那这赵子亟定是当年之人无疑。只是有了这锡山韩家插手，我唐门若想手刃赵子亟定要费一番功夫了。</font>
+story_58004_2=<font face="Default" color="#ffffff" >既然如此，便等他们斗个你死我活。我们坐取渔翁之利！</font>
 story_58005_1=<font face="Default" color="#ffffff" >近来洛阳附近蝴蝶攻克之事传的沸沸扬扬，江湖各大门派</font><font face="Default" color="#ffffff" >也都对此作出调查，不过恐怕他们也查不到什么。</font>
 story_58005_2=<font face="Default" color="#ffffff" >哼！若论药理，只怕这江湖之中我唐门称第二，还没人敢称第一。这蝴蝶攻克之术，恐怕乃是有人用秘药控制蝴蝶侵近人体，将某种无名毒药传播开来。而今我正想派你前往青云堡附近，看能否找到些许线索，只是我们还不知道这蝴蝶毒性如何，此去危险重重，你要千万小心。</font>
 story_58006_1=<font face="Default" color="#ffffff" >四公既然如此交代，相比这秘药定是万分重要，只是控制在我唐门手中只怕不易。</font>
-story_58006_2=<font face="Default" color="#ffffff" >你即刻赶往青云堡，务必查清这秘药究竟在何人身上，无论动用何种手段，定要将这秘药带回我唐门。</font>
+story_58006_2=<font face="Default" color="#ffffff" >此事与我猜测的无异，我已派人去夺取秘药。静候佳音吧！</font>
 story_58007_1=<font face="Default" color="#ffffff" >少侠你好，在我这里登记着许许多多本门中门派内功已达到36层的师兄，你可以通过拜师于他们，从而提升自己各方面的能力，获得相应奖励。同时，当你到达相应门派内功的30层，即可到我这儿，进行出师，便可获得丰厚的出师奖励。</font>
 story_58007_2=少侠你好，在我这里登记着许许多多本门中门派内功已达到36层的师兄，你可以通过拜师于他们，从而提升自己各方面的能力，获得相应奖励。同时，当你到达相应门派内功的30层，即可到我这儿，进行出师，便可获得丰厚的出师奖励。
 story_menu_58001=<font face="Default" color="#ffffff" >不知门主有何事吩咐？</font>
@@ -162,11 +162,11 @@ storymenu_58002_2=<font face="Default" color="#ffffff" >弟子领命！</font>
 storymenu_58003_1=<font face="Default" color="#ffffff" >哦？那些江湖人寻找赵子亟作甚？</font>
 storymenu_58003_2=<font face="Default" color="#ffffff" >多谢小二哥相告。</font>
 storymenu_58004_1=<font face="Default" color="#ffffff" >不知门主有何计划？</font>
-storymenu_58004_2=<font face="Default" color="#ffffff" >弟子领命，这边前往。</font>
+storymenu_58004_2=<font face="Default" color="#ffffff" >弟子领命</font><font face="Default" color="#ffffff" >。</font>
 storymenu_58005_1=<font face="Default" color="#ffffff" >门主如何知道？</font>
 storymenu_58005_2=<font face="Default" color="#ffffff" >门主放心，弟子定不负所望。</font>
 storymenu_58006_1=<font face="Default" color="#ffffff" >不知门主有何计划？</font>
-storymenu_58006_2=<font face="Default" color="#ffffff" >弟子领命！</font>
+storymenu_58006_2=<font face="Default" color="#ffffff" >门主高明！</font>
 storymenu_58007_1=<font face="Default" color="#ffffff" >我知道了</font>
 storymenu_58007_2=<font face="Default" color="#ffffff" >好的，我知道了</font>
 useiteminfo_58001=将<a href="TASK_ITEM,useitem_tmtz_001" style="HLStype1">雕琢好的墓碑</a>安置在原先的<a href="findnpc_new,school05,tangmen_tz_002" style="HLStype1">无名石碑</a>处

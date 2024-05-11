@@ -7,7 +7,7 @@ DialogID_35604=我知道了，我会管教好那些士兵的。
 DialogID_35605=那些燕京无赖老是来骚扰我，我现在不敢出门，你去把他们处理掉，我稍后就把胭脂送过去。
 DialogID_35606=既然丞相有心，我就暂且多住些时日吧。
 DialogID_35607=恩，是个好主意。
-DialogID_35608=就是那些该死的老虎。你去把它们都杀了，杀光。此事不了我哪也不去。
+DialogID_35608=就是那些该死的老虎。你去把它们都除了。此事不了我哪也不去。
 DialogID_35609=就是那些外村征税甲首。
 DialogID_35610=这不太好吧！不过，好吧。
 DialogID_35611=这个，前天牛达子来的时候被他借去玩了，你去他府上取吧。
@@ -145,7 +145,7 @@ collectinfo_35604=从<a href="findnpc_new,city01,monc020401" style="HLStype1">�
 collectinfo_35605=从<a href="findnpc_new,city01,monc020201" style="HLStype1">江湖小偷</a>身上取得夜光杯
 collectinfo_35606=从<a href="findnpc_new,city01,Gather0042sl" style="HLStype1">裴将军碑</a>拓一份裴将军碑拓本
 collectinfo_35607=从<a href="findnpc_new,city01,Gather0007sl" style="HLStype1">牡丹花丛</a>中采集牡丹花
-collectinfo_35608=从<a href="findnpc_new,city01,Gather0054sl" style="HLStype1">尸体</a>上取得腰牌
+collectinfo_35608=从<a href="findnpc_new,city01,Gather0054sl" style="HLStype1">遗骸</a>上取得腰牌
 collectinfo_35609=从<a href="findnpc_new,city01,Gather0011sl" style="HLStype1">杏树</a>上取得杏仁
 collectinfo_35610=从<a href="findnpc_new,city01,Gather0043sl" style="HLStype1">多宝塔碑</a>上拓印一份拓本
 collectinfo_35611=采集<a href="findnpc_new,city01,Gather0003sl" style="HLStype1">醒酒草</a>
@@ -218,13 +218,13 @@ hunterinfo_35641=杀死<a href="findnpc_new,city01,monc020502" style="HLStype1">
 hunterinfo_35642=杀死<a href="findnpc_new,city01,monc022502" style="HLStype1">拦路劫匪</a>
 hunterinfo_35643=杀死<a href="findnpc_new,city01,monc023202" style="HLStype1">异人庄死士</a>
 hunterinfo_35644=杀死<a href="findnpc_new,city01,monc022502" style="HLStype1">拦路劫匪</a>
-hunterinfo_35645=杀死<a href="findnpc_new,city01,monc022100" style="HLStype1">淫贼高手</a>
+hunterinfo_35645=杀死<a href="findnpc_new,city01,monc022100" style="HLStype1">恶贼高手</a>
 hunterinfo_35646=杀死<a href="findnpc_new,city01,monc023203" style="HLStype1">食心老者</a>
 hunterinfo_35647=杀死<a href="findnpc_new,city01,monc020102" style="HLStype1">市井无赖</a>
 hunterinfo_35648=杀死<a href="findnpc_new,city01,monc022101" style="HLStype1">采花贼</a>
 hunterinfo_35649=杀死<a href="findnpc_new,city01,monc020502" style="HLStype1">商贩打手</a>
 hunterinfo_35650=杀死<a href="findnpc_new,city01,monc022702" style="HLStype1">山寨劫匪头目</a>
-hunterinfo_35651=杀死<a href="findnpc_new,city01,monc023301" style="HLStype1">人肉屠夫</a>
+hunterinfo_35651=杀死<a href="findnpc_new,city01,monc023301" style="HLStype1">残忍屠夫</a>
 hunterinfo_35652=杀死<a href="findnpc_new,city01,monc022106" style="HLStype1">寒潭毒蛇</a>
 hunterinfo_35653=杀死<a href="findnpc_new,city01,monc022400" style="HLStype1">西山古墓弟子</a>
 hunterinfo_35654=杀死<a href="findnpc_new,city01,monc023500" style="HLStype1">阴风谷妖女</a>
@@ -360,7 +360,7 @@ okmenu_35634=我听说最近军营里老会出现老兵欺负新兵的事。
 okmenu_35635=那个恶霸说，你再不把钱交给他，他就要来砸你的店了。
 okmenu_35636=有人叫我告诉你，今天晚上行动。
 okmenu_35637=有人叫我通知您，您要的东西已经搞到了，叫您今天晚上派人到以前约好的地方去交易。
-okmenu_35638=有人托我告诉你，你的目标也是他们的目标。这个人他们要定了，叫你们别来捣乱，否则杀无赦。
+okmenu_35638=有人托我告诉你，你的目标也是他们的目标。这个人他们要定了，叫你们别来捣乱，否则定不放过。
 okmenu_35639=你女儿在外面玩呢，她不知道怎么回来，说要你去接她。
 okmenu_35640=这是一位叫傅晓梦姑娘给你的书信。
 okmenu_35641=信件已送到，在下告辞了。有什么话需要我转达的么？
@@ -610,8 +610,8 @@ storymenu_35618_2=这样啊.....
 storymenu_35619_1=那么厉害....
 storymenu_35619_2=玄乎...
 storymenu_35619_3=原来如此
-storymenu_35620_1=这就是水满则溢，你娘的偏执让你更加的渴望自由。
-storymenu_35620_2=那个坏男人简直是禽兽不如，你太傻了。
+storymenu_35620_1=这就是水满则溢，你的偏执让你更加的渴望自由。
+storymenu_35620_2=那个坏男人简直是居心叵测，你太傻了。
 storymenu_35621_1=看来你是想仿照李白啊。接下来发生了些什么呢。
 storymenu_35621_2=生活真是最好的老师，会教会我们很多，你的故事让我深受启发。
 storymenu_35623_1=不是每一个人都能成为将军的。

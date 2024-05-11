@@ -232,7 +232,6 @@ interactinfo_60044=將偽造的情報交給<a href="findnpc_new,scene19,npc_wjd_
 interactinfo_60045=回復<a href="findnpc_new,scene19,npc_wjd_wjd_003" style="HLStype1">柳生次郎</a>
 interactinfo_60046=向<a href="findnpc_new,scene19,npc_wjd_wjd_001" style="HLStype1">周雲天</a>問計
 interactinfo_60048=聽<a href="findnpc_new,scene19,npc_wjd_wjd_003" style="HLStype1">柳生次郎</a>交代任務
-interactinfo_60049=與<a href="findnpc_new,scene19,npc_wjd_wjd_001" style="HLStype1">周雲天</a>商議，避免屠殺村民一事
 interactinfo_60050=請<a href="findnpc_new,scene19,npc_wjd_wjd_002" style="HLStype1">周榮</a>偽裝現場
 interactinfo_60051=將事先編好的理由回復<a href="findnpc_new,scene19,npc_wjd_wjd_003" style="HLStype1">柳生次郎</a>
 interactinfo_60052=與<a href="findnpc_new,scene19,npc_wjd_wjd_001" style="HLStype1">周雲天</a>商議偷取海圖一事
@@ -501,7 +500,6 @@ interactinfo_60910=在周圍區域尋找指定物件或與指定人物交互以�
 interactinfo_60911=在周圍區域尋找指定物件或與指定人物交互以完成事件。
 interactinfo_60914=在周圍區域尋找指定物件或與指定人物交互以完成事件。
 interactinfo_60915=在周圍區域尋找指定物件或與指定人物交互以完成事件。
-specialinfo_1147=完成心魔試煉1次。
 specialinfo_1148=挫敗任意勢力1個。
 specialinfo_1149=通關任意禁地1次。
 specialinfo_1150=完成戰場勝利1次。
@@ -517,13 +515,10 @@ okmenu_60076=<font face="Default" color="#ffffff" >多謝相贈，我這便前�
 collectinfo_60037=領取奇異狀態後前去惡人谷內找那些外域嘍囉，讓其送你去見外域小頭目與之划拳灌醉對方後獲取外域情報。<font color="#FF3030">（這些嘍囉分別分佈在惡人谷（437 424），（776 423），（818 348）三個地方，注意看你身上的狀態，只有對應的狀態才能矇混過關，騙過嘍囉，讓其幫你見他們的小頭目。）</font>
 SubmitNpcEx_70064=去活動大使尚武處領取獎勵
 SubmitNpcEx_70063=去活動大使尚武處領取獎勵
-SubmitNpcEx_70201=按H鍵打開幫會主界面在【幫會氣運】-【獲取氣運】分頁提交任務
 SubmitNpcEx_70202=<a href="findnpc_new,city01,Guild_tasknpc_001" style="HLStype1">幫會任務大使（燕京）</a><br><a href="findnpc_new,city02,Guild_tasknpc_001" style="HLStype1">幫會任務大使（蘇州）</a><br><a href="findnpc_new,city04,Guild_tasknpc_001" style="HLStype1">幫會任務大使（洛陽）</a><br><a href="findnpc_new,city05,Guild_tasknpc_001" style="HLStype1">幫會任務大使（成都）</a><br>
 SubmitNpcEx_70203=<a href="findnpc_new,city01,Guild_tasknpc_001" style="HLStype1">幫會任務大使（燕京）</a><br><a href="findnpc_new,city02,Guild_tasknpc_001" style="HLStype1">幫會任務大使（蘇州）</a><br><a href="findnpc_new,city04,Guild_tasknpc_001" style="HLStype1">幫會任務大使（洛陽）</a><br><a href="findnpc_new,city05,Guild_tasknpc_001" style="HLStype1">幫會任務大使（成都）</a><br>
-SubmitNpcEx_70204=按H鍵打開幫會主界面在【幫會氣運】-【獲取氣運】分頁提交任務
 SubmitNpcEx_70205=<a href="findnpc_new,city01,Guild_tasknpc_001" style="HLStype1">幫會任務大使（燕京）</a><br><a href="findnpc_new,city02,Guild_tasknpc_001" style="HLStype1">幫會任務大使（蘇州）</a><br><a href="findnpc_new,city04,Guild_tasknpc_001" style="HLStype1">幫會任務大使（洛陽）</a><br><a href="findnpc_new,city05,Guild_tasknpc_001" style="HLStype1">幫會任務大使（成都）</a><br>
 SubmitNpcEx_70206=<a href="findnpc_new,city01,Guild_tasknpc_001" style="HLStype1">幫會任務大使（燕京）</a><br><a href="findnpc_new,city02,Guild_tasknpc_001" style="HLStype1">幫會任務大使（蘇州）</a><br><a href="findnpc_new,city04,Guild_tasknpc_001" style="HLStype1">幫會任務大使（洛陽）</a><br><a href="findnpc_new,city05,Guild_tasknpc_001" style="HLStype1">幫會任務大使（成都）</a><br>
-SubmitNpcEx_70207=按H鍵打開幫會主界面在【幫會氣運】-【獲取氣運】分頁提交任務
 collectinfo_60202=收集鐵錠（材料可由生活職業產出）
 collectinfo_60203=收集銅錠（材料可由生活職業產出）
 collectinfo_60204=收集白楊木（材料可由生活職業產出）
@@ -605,10 +600,6 @@ useiteminfo_60022=使用<a href="TASK_ITEM,useitem_hd_201751_001" style="HLStype
 useiteminfo_60023=使用<a href="TASK_ITEM,useitem_hd_201751_002" style="HLStype1">加工工具</a>加工<a href="findnpc_new,city01,gather_hd_201751_003" style="HLStype1">搬運來的木料</a>
 specialinfo_1151=完成天梯1次。
 SubmitNpcEx_70093=前往各大主城活動大使林梁處領取端午佳節禮品。
-SubmitNpcEx_70232=按H鍵打開幫會主界面在【幫會氣運】-【獲取氣運】分頁提交任務
-SubmitNpcEx_70233=按H鍵打開幫會主界面在【幫會氣運】-【獲取氣運】分頁提交任務
-SubmitNpcEx_70235=按H鍵打開幫會主界面在【幫會氣運】-【獲取氣運】分頁提交任務
-SubmitNpcEx_70236=按H鍵打開幫會主界面在【幫會氣運】-【獲取氣運】分頁提交任務
 okmenu_60922=<font face="Default" color="#ffffff" >原來如此</font><font face="Default" color="#ffffff" >!</font>
 okmenu_60923=<font face="Default" color="#ffffff" >受教了</font>
 okmenu_60924=<font face="Default" color="#ffffff" >確實如此</font>
@@ -736,8 +727,6 @@ SubmitNpcEx_70175=找成都武館<a href="findnpc_new,city05,act818_mj_001" styl
 SubmitNpcEx_70176=找成都武館<a href="findnpc_new,city05,act818_mj_001" style="HLStype1">凌傲梅（天山派師兄）</a>提交任務獲得獎勵。
 SubmitNpcEx_70177=找成都武館<a href="findnpc_new,city05,act818_mj_001" style="HLStype1">凌傲梅（天山派師兄）</a>提交任務獲得獎勵。
 SubmitNpcEx_70178=找成都武館<a href="findnpc_new,city05,act818_mj_001" style="HLStype1">凌傲梅（天山派師兄）</a>提交任務獲得獎勵。
-specialinfo_1390=通關禁地暮色之村（序章）一次。
-specialinfo_1391=通關禁地青雲堡（序章）一次。
 specialinfo_1392=通關禁地青雲堡一次。
 specialinfo_1393=通關禁地鳳凰山莊一次。
 specialinfo_1394=通關禁地雁門關（叛軍線）一次。
@@ -869,7 +858,6 @@ hunterinfo_60007=擊敗<a href="findnpc_new,city02,waiyuwulin_031" style="HLStyp
 interactinfo_60006=攻克機關人（頭目）
 DialogID_60018=<font face="Default" color="#ffffff" >想不到啊想不到，這內奸竟然是</font><font face="Default" color="#ffffff" >清音壁弟子柳望生，</font><font face="Default" color="#ffffff" >唉！當年的英勇之軍，如今竟然也會如此不堪！唉……此乃</font><font face="Default" color="#ffffff" >柳生次郎的信物，你帶上</font><font face="Default" color="#ffffff" >此物，想法</font><font face="Default" color="#ffffff" >騙取柳望生的信任，趁</font><font face="Default" color="#ffffff" >其不備</font><font face="Default" color="#ffffff" >將其攻克</font><font face="Default" color="#ffffff" >，以絕後患！</font>
 DialogID_60027=<font face="Default" color="#ffffff" >柳生次郎如此大張旗鼓</font><font face="Default" color="#ffffff" >為</font><font face="Default" color="#ffffff" >你慶功</font><font face="Default" color="#ffffff" >。</font><font face="Default" color="#ffffff" >看來對你已經有所懷疑</font><font face="Default" color="#ffffff" >。如今你身份暴露，若是大明武者仍舊對此不聞不問，那便坐實了你的身份。可若是大明武者前來圍攻，就算你被襲，柳生家也不會有任何損失，當真是毒計啊。</font>
-DialogID_60049=<font face="Default" color="#ffffff" >這東瀛倭寇果然心狠手辣，竟為了區區糧食便要將村民趕盡殺絕！我等</font><font face="Default" color="#ffffff" >只能冒險將</font><font face="Default" color="#ffffff" >數名</font><font face="Default" color="#ffffff" >足輕攻克，</font><font face="Default" color="#ffffff" >救出村民，而後再假借大明武者之事，將一切事情推到中原武林俠士身上，如此方能不引起懷疑。</font>
 hunterinfo_60002=將柳望生騙到<a href="findnpc_new,scene16,EventNpc_wjd_wjd_003" style="HLStype1">偏僻的地方</a>將其攻克（此任務無法多人同時觸發）
 hunterinfo_60003=攻克<a href="findnpc_new,scene19,attack_wjd_wjd_003" style="HLStype1">叛變的大明武者</a>
 interactinfo_60019=將攻克內奸的事情告訴<a href="findnpc_new,scene19,npc_wjd_wjd_001" style="HLStype1">周雲天</a>並詢問接下來的行動
@@ -896,4 +884,16 @@ SubmitNpcEx_70563=<a href="findnpc_new,city02,hd_dw_001" style="HLStype1">林梁
 specialinfo_1175=師徒組隊挑戰禁地，完成一次
 useiteminfo_60027=使用<a href="TASK_ITEM,item_20201029_wlt_001" style="HLStype1">武林貼</a>
 SubmitNpcEx_70598=<a href="findnpc_new,city02,hd_wyhd_001" style="HLStype1">尚武(活動大使)</a>
+DialogID_60049=<font face="Default" color="#ffffff" >這東瀛倭寇果然心狠手辣，竟為了區區糧食便要將村民斬草除根！我等</font><font face="Default" color="#ffffff" >只能冒險將</font><font face="Default" color="#ffffff" >數名</font><font face="Default" color="#ffffff" >足輕攻克，</font><font face="Default" color="#ffffff" >救出村民，而後再假借大明武者之事，將一切事情推到中原武林俠士身上，如此方能不引起懷疑。</font>
+interactinfo_60049=與<a href="findnpc_new,scene19,npc_wjd_wjd_001" style="HLStype1">周雲天</a>商議，避免鎮壓村民一事
+specialinfo_1147=完成心魔試煉1次
+specialinfo_1390=通關禁地暮色之村一次。
+specialinfo_1391=通關禁地青雲堡一次。
+SubmitNpcEx_70201=按H鍵打開幫會主界面在【活動】-【幫會任務】分頁提交任務
+SubmitNpcEx_70204=按H鍵打開幫會主界面在【活動】-【幫會任務】分頁提交任務
+SubmitNpcEx_70207=按H鍵打開幫會主界面在【活動】-【幫會任務】分頁提交任務
+SubmitNpcEx_70232=按H鍵打開幫會主界面在【活動】-【幫會任務】分頁提交任務
+SubmitNpcEx_70233=按H鍵打開幫會主界面在【活動】-【幫會任務】分頁提交任務
+SubmitNpcEx_70235=按H鍵打開幫會主界面在【活動】-【幫會任務】分頁提交任務
+SubmitNpcEx_70236=按H鍵打開幫會主界面在【活動】-【幫會任務】分頁提交任務
 

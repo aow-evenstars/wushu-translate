@@ -5,11 +5,9 @@ DialogID_13028=哈哈哈哈，幸虧你沒打開這個包裹，不然你七竅�
 DialogID_13029=<s>你竟然活著回來了！不錯不錯，你可以過關了，去找蠱使吧。
 DialogID_13030=<s>要我幫你做衣服？看你是習武之人，幫我個忙吧，村裡的吳二強經常跑來占我便宜，你幫我教訓下他，就當做衣服的報酬吧！
 DialogID_13031=<s>多謝你了，看他以後還敢不敢毛手毛腳的！這是你的衣服，你看看合不合身？
-DialogID_13032=你要屍體？我暫時沒有，就算有也不會給你的。自己去殺個人不就有了嗎？哈哈哈。
 DialogID_13033=
 DialogID_13034=<s>多虧了你啊，不然……不然……嗚嗚嗚嗚……
 DialogID_13035=<s>隱風竟然給我送這樣的禮物，真是連我都覺得意外。
-DialogID_13036=<s>還有一件事，你給這屍體換上你的新衣服再裝進麻袋，然後，把麻袋扔到山下，讓江湖上以為你已經死了！這樣，你才能重生，你懂麼？
 DialogID_13037=<s>我見過你，你不但沒死，而且還拜鬼使為師了。真是大千世界無奇不有。閑著沒事，跟我過兩招怎麼樣？
 DialogID_13038=<s>太弱了！你的武功只能勉強勝過僅用了一成功力的我。
 DialogID_13039=<s>什麼，你說你很能喝酒？哈哈，巧了，我也是，人送外號“千杯不醉”。今天我們正好比試比試！谷內藏了不少好酒，你去取些過來，我們今天分個高下。
@@ -21,7 +19,6 @@ DialogID_13044=<s>自己送上門來了，哼！殺死我們黑風山的人，�
 DialogID_13045=
 DialogID_13046=
 DialogID_13047=<s>（這只野豬看起來死了沒多久，正好可以用來冒充。）
-DialogID_13048=<s>（劫匪的屍體已經冰冷……）
 DialogID_13049=<s>你身上有一種特質，很合我的口味。好吧，從今以後你就是我隱風的弟子了！現在穀主要見見你，你快過去！
 DialogID_13050=剛才你師父讓我幫你做一身和你身上一模一樣的衣服。我現在還沒完成……我有一件事希望你幫忙。之前本門弟子丁晨經常過來調戲我，弄的我心煩意亂。你幫我教訓下他。
 QiecuoMenu_13027=無賴，今天我要好好教訓教訓你。
@@ -35,7 +32,6 @@ QiecuoTitle_13030=<s>你是何人？來我這想幹嘛？
 QiecuoTitle_13031=<s>你敢小看我！我手指一揮就能置你於死地！
 QiecuoTitle_13033=<s>你！你……你……
 collectinfo_13026=找三壇<a href="findnpc_new,school04,Gather00134m" style="HLStype1">酒</a>來
-collectinfo_13027=從<a href="findnpc_new,school04,Gather00135m" style="HLStype1">野豬屍體</a>上獲得野豬心
 collectinfo_13029=去取<a href="findnpc_new,school04,Gather00137m" style="HLStype1">好酒</a>
 convoyinfo_13026=跟劉淡宕去他<a href="findnpc,school04,445,,234" style="HLStype1">大哥</a>處
 convoyinfo_13027=送小姑娘<a href="findnpc,school04,454.244,,232.476" style="HLStype1">回家</a>
@@ -53,7 +49,6 @@ interactinfo_13028=將包裹交給<a href="findnpc_new,school04,WorldNpc03808" s
 interactinfo_13029=詢問<a href="findnpc_new,school04,WorldNpc03813" style="HLStype1">燕楚楚</a>是否過關
 interactinfo_13030=向<a href="findnpc_new,school04,WorldNpc03839" style="HLStype1">巧手嫂</a>訂做衣服
 interactinfo_13031=回去與<a href="findnpc_new,school04,WorldNpc03932" style="HLStype1">淩花絕</a>交談
-interactinfo_13032=向<a href="findnpc_new,school04,WorldNpc03810" style="HLStype1">瑤見</a>討要一具屍體
 interactinfo_13033=到<a href="findnpc_new,school04,EventNpc26059" style="HLStype1">山下</a>看看
 interactinfo_13034=告訴<a href="findnpc_new,school04,WorldNpc03986" style="HLStype1">李豔紅</a>劫匪的消息
 interactinfo_13035=給<a href="findnpc_new,school04,WorldNpc03810" style="HLStype1">瑤見</a>送禮
@@ -69,7 +64,6 @@ interactinfo_13044=與<a href="findnpc_new,school04,WorldNpc03988" style="HLStyp
 interactinfo_13045=去<a href="findnpc_new,school04,EventNpc26069" style="HLStype1">前面不遠</a>看看
 interactinfo_13046=<a href="findnpc_new,school04,EventNpc26071" style="HLStype1">黑風老妖</a>出現
 interactinfo_13047=從<a href="findnpc_new,school04,ItemNpc02812" style="HLStype1">野豬身上</a>挖出豬心
-interactinfo_13048=把<a href="findnpc_new,school04,ItemNpc02813" style="HLStype1">劫匪的屍體</a>放入麻袋
 interactinfo_13049=拜師<a href="findnpc_new,school04,WorldNpc03809" style="HLStype1">隱風</a>
 interactinfo_13050=問<a href="findnpc_new,school04,WorldNpc03932" style="HLStype1">淩花絕</a>有何事
 okmenu_13027=是，晚輩明白，我這就去。
@@ -93,7 +87,6 @@ okmenu_13044=就憑你麼？
 okmenu_13045=
 okmenu_13046=
 okmenu_13047=豬心跟人的心應該差不多吧……
-okmenu_13048=正好我要找屍體，這具可以用的上
 okmenu_13049=師父！弟子先行告退！
 okmenu_13050=哦，交給我了。衣服的事情拜託了。
 story_13026_1=<s>你可知道我救了你一命？
@@ -139,10 +132,17 @@ storymenu_13031_1=太好了
 storymenu_13032_1=這位大哥，我受人所托來找竇華倫管事，有書信交由於他。
 useiteminfo_13026=服用<a href="TASK_ITEM,useitem_91m" style="HLStype1">丹藥</a>
 useiteminfo_13027=自己種下<a href="TASK_ITEM,useitem_92m" style="HLStype1">不明的蠱</a>
-useiteminfo_13028=為屍體換上<a href="TASK_ITEM,useitem_93m" style="HLStype1">新衣服</a>
-useiteminfo_13029=把<a href="TASK_ITEM,useitem_94m" style="HLStype1">裝有屍體的麻袋</a>扔到<a href="findnpc_new,school04,EventNpc26061" style="HLStype1">山下</a>
 useiteminfo_13030=喝<a href="TASK_ITEM,useitem_95m" style="HLStype1">酒</a>
 useiteminfo_13031=給<a href="findnpc_new,school04,WorldNpc03808" style="HLStype1">桀昂</a>服用<a href="TASK_ITEM,useitem_96m" style="HLStype1">解酒藥</a>
 okmenu_13026=（一臉蒼白，還未從攻克的恐懼中恢復過來）佛使教訓的是。
 storymenu_13030_2=我幫助這些人，只是為我攻克找個理由而已。
+DialogID_13032=　　你要遺骸？我暫時沒有，就算有也不會給你的。自己去殺個人不就有了嗎？哈哈哈。
+DialogID_13036=<s>還有一件事，你給這遺骸換上你的新衣服再裝進麻袋，然後，把麻袋扔到山下，讓江湖上以為你已經死了！這樣，你才能重生，你懂麼？
+DialogID_13048=<s>（劫匪的遺骸已經冰冷……）
+collectinfo_13027=從<a href="findnpc_new,school04,Gather00135m" style="HLStype1">野豬遺骸</a>上獲得野豬心
+interactinfo_13032=向<a href="findnpc_new,school04,WorldNpc03810" style="HLStype1">瑤見</a>討要一具遺骸
+interactinfo_13048=把<a href="findnpc_new,school04,ItemNpc02813" style="HLStype1">劫匪的遺骸</a>放入麻袋
+okmenu_13048=正好我要找遺骸，這具可以用的上
+useiteminfo_13028=為遺骸換上<a href="TASK_ITEM,useitem_93m" style="HLStype1">新衣服</a>
+useiteminfo_13029=把<a href="TASK_ITEM,useitem_94m" style="HLStype1">裝有遺骸的麻袋</a>扔到<a href="findnpc_new,school04,EventNpc26061" style="HLStype1">山下</a>
 

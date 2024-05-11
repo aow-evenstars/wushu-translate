@@ -32,12 +32,10 @@ SubmitNpcEx_86519=<s>回去面見門主<a href="findnpc_new,school05,WorldNpc022
 SubmitNpcEx_86520=<s>此項門派挑戰任務已完成，回稟掌門<a href="findnpc_new,school05,WorldNpc02203" style="HLStype1">唐天行</a>
 SubmitNpcEx_86521=回稟門主<a href="findnpc_new,school05,WorldNpc02201" style="HLStype1">唐鳳</a>
 SubmitNpcEx_86522=趕回唐門向門主<a href="findnpc_new,school05,WorldNpc02201" style="HLStype1">唐鳳</a>覆命
-SubmitNpcEx_86523=回去稟報姥姥<a href="findnpc_new,school05,WorldNpc02201" style="HLStype1">唐鳳</a>，並且將蝴蝶屍體交予姥姥
 collectinfo_58001=收集<a href="findnpc_new,," style="HLStype1"></a>斷腸花（毒師生活技能採集而得，可以向玩家收購）
 collectinfo_58010=從<a href="findnpc_new,city04,monrc047636" style="HLStype1">青雲堡密賊</a>身上搜尋可疑之物
 hunterinfo_58001=前往暮色之村，阻止韓似錦殺害趙子亟，只因這趙姓之人昔日對我唐門有恩
 hunterinfo_58003=聽聞<a href="findnpc_new,school05,WorldNpc02265" style="HLStype1">唐川</a>取笑唐門乃是縮頭烏龜，這還了得，你即刻前去給他個教訓
-interactinfo_58001=在唐門的荒郊野外，尋找到<a href="findnpc_new,school05,EventNpc86500" style="HLStype1">冷鋒屍體的掩埋地</a>
 interactinfo_58002=好好尋找一塊上等<a href="findnpc_new,school05,tangmen_tz_001" style="HLStype1">石料</a>，而後將其雕琢成冷鋒的墓碑
 interactinfo_58003=聽說同門的<a href="findnpc_new,school05,WorldNpc02270" style="HLStype1">韋群</a>知曉冷鋒家鄉的所在，且前去詢問一番
 interactinfo_58004=依韋群指點，前往金蛇灘，<a href="findnpc_new,school05,WorldNpc02525" style="HLStype1">找個面善之人</a>打探一番
@@ -47,7 +45,6 @@ interactinfo_58008=拿著斷腸花，跟藥店掌櫃<a href="findnpc_new,born04,
 interactinfo_58009=面見唐門姥姥<a href="findnpc_new,school05,WorldNpc02201" style="HLStype1">唐鳳</a>，看看是否能將金世澤的骨灰取出
 interactinfo_58011=向<a href="findnpc_new,school07,wd170" style="HLStype1">神秘江湖客</a>詢問虎嘯山莊之人的動向
 interactinfo_58012=前往<a href="findnpc_new,city04,EventNpc86523" style="HLStype1">青雲堡附近</a>查探
-interactinfo_58013=把蝴蝶屍體拿給<a href="findnpc_new,school05,WorldNpc02208" style="HLStype1">唐四公</a>查看
 okmenu_58001=<font face="Default" color="#ffffff" >冷鋒兄弟，你的故友金世澤托我來看你了。還望念在同門情誼的份上，給他一個贖罪的機會，你們二人九泉之下還做好兄弟罷。</font>
 okmenu_58002=<font face="Default" color="#ffffff" >有今生，沒來世。當初你們兄弟若是好好相處，可比眼下這抱憾終生要好很多。</font>
 okmenu_58003=多謝相告，告辭。
@@ -71,13 +68,9 @@ specialinfo_242=挑戰惡虎山寨，若是此行能獲得傳聞中的五毒極�
 specialinfo_360=通關虎嘯山莊
 story_58001_1=<font face="Default" color="#ffffff" >幾日前接到武當傳訊，說虎嘯山莊近來異動頻頻，希望各大門派有所警覺。</font>
 story_58001_2=<font face="Default" color="#ffffff" >此番之事不可小視。武當紫陽真人傳訊而來，說虎嘯山莊今次形式，似乎有西夏一品堂的人出沒。非我族類，其心必異。你且前往虎嘯山莊，</font><font face="Default" color="#ffffff" >務必</font><font face="Default" color="#ffffff" >查明一切！</font>
-story_58002_2=<font face="Default" color="#ffffff" >當時此人身中劇毒，而且受傷頗重，我等料想此人定是命不久矣，</font><font face="Default" color="#ffffff" >而後又聽聞趙子亟收到韓家少爺韓似錦的追殺，在太湖邊被打成重傷，</font><font face="Default" color="#ffffff" >所以並未追蹤下去。這麼多年過去，也從未聽說此人消息，沒想到如今竟又聽聞此人出現在蘇州城中。你且前往蘇州，務必打聽清楚。</font>
 story_58003_1=<font face="Default" color="#ffffff" >趙子亟？可真巧了，前兩日來了許多江湖人，也都是來尋這趙子亟的。不知客官所說的是不是此人。</font>
 story_58003_2=<font face="Default" color="#ffffff" >嗨！那些江湖人自稱是什麼錫山韓家，說是來此找趙子亟報當年滅門之仇，那趙子亟一直都在暮色小漁村之中，這些江湖人去了，只怕那小漁村也永無太平之日了。</font>
-story_58004_1=<font face="Default" color="#ffffff" >錫山韓家，若真如此，那這趙子亟定是當年之人無疑。只是有了這錫山韓家查收，我唐門若想手刃趙子亟定要費一番功夫了。</font>
-story_58004_2=<font face="Default" color="#ffffff" >你且速速前往暮色之村，唐門仇敵斷不可死在別人手中。若是有人阻攔，殺了便是。只要能親自將那趙子亟斬殺，我定是重重有賞！</font>
 story_58006_1=<font face="Default" color="#ffffff" >四公既然如此交代，相比這秘藥定是萬分重要，只是控制在我唐門手中只怕不易。</font>
-story_58006_2=<font face="Default" color="#ffffff" >你即刻趕往青雲堡，務必查清這秘藥究竟在何人身上，無論動用何種手段，定要將這秘藥帶回我唐門。</font>
 story_menu_58001=<font face="Default" color="#ffffff" >不知門主有何事吩咐？</font>
 story_menu_58002=<font face="Default" color="#ffffff" >不知門主所指何人？</font>
 story_menu_58003=<font face="Default" color="#ffffff" >不知小二哥可曾聽說一位叫趙子亟的人？</font>
@@ -95,11 +88,9 @@ storymenu_58002_2=<font face="Default" color="#ffffff" >弟子領命！</font>
 storymenu_58003_1=<font face="Default" color="#ffffff" >哦？那些江湖人尋找趙子亟作甚？</font>
 storymenu_58003_2=<font face="Default" color="#ffffff" >多謝小二哥相告。</font>
 storymenu_58004_1=<font face="Default" color="#ffffff" >不知門主有何計劃？</font>
-storymenu_58004_2=<font face="Default" color="#ffffff" >弟子領命，這邊前往。</font>
 storymenu_58005_1=<font face="Default" color="#ffffff" >門主如何知道？</font>
 storymenu_58005_2=<font face="Default" color="#ffffff" >門主放心，弟子定不負所望。</font>
 storymenu_58006_1=<font face="Default" color="#ffffff" >不知門主有何計劃？</font>
-storymenu_58006_2=<font face="Default" color="#ffffff" >弟子領命！</font>
 useiteminfo_58001=將<a href="TASK_ITEM,useitem_tmtz_001" style="HLStype1">雕琢好的墓碑</a>安置在原先的<a href="findnpc_new,school05,tangmen_tz_002" style="HLStype1">無名石碑</a>處
 useiteminfo_58002=對<a href="findnpc_new,born04,JobQianDZ004" style="HLStype1">仲強</a>使用<a href="TASK_ITEM,useitem_tmtz_002" style="HLStype1">續骨生肌散</a>
 useiteminfo_58003=前往金世澤的家鄉，在其母的<a href="findnpc_new,born04,EventNpc86504" style="HLStype1">墳前</a>，埋下他的<a href="TASK_ITEM,useitem_tmtz_003" style="HLStype1">骨灰盒</a>
@@ -163,8 +154,6 @@ specialinfo_383=完成對嵩山鐵劍門的勢力挑戰（成功踢館一次）
 specialinfo_386=完成對浣花山莊的挑戰（在五分鐘內通關）
 specialinfo_387=通關鳳凰山莊（任意難度）
 specialinfo_388=完成對摘星門的勢力挑戰（在五分鐘內通關）
-specialinfo_361=通關暮色之村（序章）
-specialinfo_363=通關青雲堡（序章）
 collectinfo_58011=前往蘇州<a href="findnpc_new,city02,sz517" style="HLStype1">神秘使者</a>處，攻克<a href="findnpc_new,city02,shitu_003" style="HLStype1">寶箱守衛</a>後拾取鑰匙，開啟<a href="findnpc_new,city02,Box_shitu_001" style="HLStype1">寶箱</a>收集<a href="findnpc_new,city02," style="HLStype1"></a>寶石
 hunterinfo_58002=前往暮色村，攻克葉樓凱，讓這廝明白什麼叫禍從口出
 specialinfo_101=聽完此人的一番敘說後，不由義憤填膺，這就去挑戰天寶寨，為冷鋒的老母報復雪恨
@@ -173,4 +162,15 @@ story_58005_1=<font face="Default" color="#ffffff" >近來洛陽附近蝴蝶攻�
 story_58005_2=<font face="Default" color="#ffffff" >哼！若論藥理，只怕這江湖之中我唐門稱第二，還沒人敢稱第一。這蝴蝶攻克之術，恐怕乃是有人用秘藥控制蝴蝶侵近人體，將某種無名毒藥傳播開來。而今我正想派你前往青雲堡附近，看能否找到些許線索，只是我們還不知道這蝴蝶毒性如何，此去危險重重，你要千萬小心。</font>
 story_menu_58004=<font face="Default" color="#ffffff" >啟稟門主，那錫山韓家已經帶人前往暮色之村找趙子亟報復而去。</font>
 storymenu_58002_1=<font face="Default" color="#ffffff" >難道諸位高手沒有將之攻克？</font>
+SubmitNpcEx_86523=回去稟報姥姥<a href="findnpc_new,school05,WorldNpc02201" style="HLStype1">唐鳳</a>，並且將蝴蝶遺骸交予姥姥
+interactinfo_58001=在唐門的荒郊野外，尋找到<a href="findnpc_new,school05,EventNpc86500" style="HLStype1">冷鋒遺骸的掩埋地</a>
+interactinfo_58013=把蝴蝶遺骸拿給<a href="findnpc_new,school05,WorldNpc02208" style="HLStype1">唐四公</a>查看
+story_58002_2=<font face="Default" color="#ffffff" >當時此人身中劇毒，而且受傷頗重，我等料想此人定是命不久矣，</font><font face="Default" color="#ffffff" >而後又聽聞趙子亟受到韓家少爺韓似錦的追殺，在太湖邊被打成重傷，</font><font face="Default" color="#ffffff" >所以並未追蹤下去。這麼多年過去，也從未聽說此人消息，沒想到如今竟又聽聞此人出現在蘇州城中。你且前往蘇州，務必打聽清楚。</font>
+story_58004_1=<font face="Default" color="#ffffff" >錫山韓家，若真如此，那這趙子亟定是當年之人無疑。只是有了這錫山韓家插手，我唐門若想手刃趙子亟定要費一番功夫了。</font>
+specialinfo_361=通關暮色之村
+specialinfo_363=通關青雲堡
+story_58004_2=<font face="Default" color="#ffffff" >既然如此，便等他們鬥個你死我活。我們坐取漁翁之利！</font>
+story_58006_2=<font face="Default" color="#ffffff" >此事與我猜測的無異，我已派人去奪取秘藥。靜候佳音吧！</font>
+storymenu_58004_2=<font face="Default" color="#ffffff" >弟子領命</font><font face="Default" color="#ffffff" >。</font>
+storymenu_58006_2=<font face="Default" color="#ffffff" >門主高明！</font>
 

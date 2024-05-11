@@ -7,7 +7,6 @@ CanAcceptMenu_55505=<font face="Default" color="#ffffff" >師兄，莫要怪我�
 CanAcceptMenu_55506=<font face="Default" color="#ffffff" >掌門，有什麼吩咐？</font>
 CanAcceptMenu_55507=<font face="Default" color="#ffffff" >難道沒有任何發現嗎？</font>
 CanAcceptMenu_55508=<font face="Default" color="#ffffff" >我想到了！九鶴道長！</font>
-CanAcceptMenu_55509=<font face="Default" color="#ffffff" >既然是剛接到報信，莫非他們剛死不久？</font><font face="Default" color="#ffffff" >待我檢查檢查他們的屍體。</font>
 CanAcceptMenu_55510=<font face="Default" color="#ffffff" >掌事師叔，</font><font face="Default" color="#ffffff" >現在該如何？</font>
 CanAcceptMenu_55511=<font face="Default" color="#ffffff" >師弟！你堅持住！師弟！</font>
 CanAcceptMenu_55512=<font face="Default" color="#ffffff" >你的傷真的不礙事嗎？</font>
@@ -17,7 +16,6 @@ CanAcceptMenu_55515=<font face="Default" color="#ffffff" >（這宋青玉果然�
 CanAcceptMenu_55516=<font face="Default" color="#ffffff" >你聽懂我說話？！</font><font face="Default" color="#ffffff" >宋青玉在哪裡？</font>
 CanAcceptMenu_55517=<font face="Default" color="#ffffff" >你...你知道自己姓甚名誰嗎？（聽說受了大刺激的人再次受到嚴重外傷的時候能重新恢復記憶，莫非...）</font>
 CanAcceptMenu_55518=<font face="Default" color="#ffffff" >掌事師叔，事情有了新的進展了嗎？</font>
-CanAcceptMenu_55521=<font face="Default" color="#ffffff" >豈有此理！禽獸不如！真是沒想到玄真道長竟是如此不堪！</font>
 CanAcceptMenu_55522=<font face="Default" color="#ffffff" >只是在下還有一事好奇，為何你知道此事真相而村民們只道宋家是毀於一場大火？</font>
 CanAcceptMenu_55524=<font face="Default" color="#ffffff" >掌門師叔還有什麼事？</font>
 CanAcceptMenu_55525=<font face="Default" color="#ffffff" >還有什麼事嗎？</font>
@@ -49,7 +47,6 @@ CompleteMenu_55524=<font face="Default" color="#ffffff" >不過弟子還是擔�
 CompleteMenu_55526=<font face="Default" color="#ffffff" >我已向掌事師叔講清楚此事，他讓我帶著你前去和玄真對質。他通知幾位長老，隨後便到。</font>
 CompleteMenu_55527=<font face="Default" color="#ffffff" >掌事師叔！那磨刀堂門人名叫徐達欲已被我斬與密室之中！</font>
 CompleteMenu_55528=<font face="Default" color="#ffffff" >你看到他去哪兒了嗎？</font>
-CompleteMenu_55529=<font face="Default" color="#ffffff" >擋箭牌沒了，朝廷就可以對我們為所欲為了。完了完了，這下簍子捅大了。</font>
 CompleteMenu_55530=<font face="Default" color="#ffffff" >大叔，看到有四個人經過這裡嗎？</font>
 CompleteMenu_55531=<font face="Default" color="#ffffff" >這裡面有很多事情，掌門可否給弟子說一說。</font>
 accept_55501_1=<font face="Default" color="#ffffff" >你來的剛好，這些時日</font><font face="Default" color="#ffffff" >諸位師弟</font><font face="Default" color="#ffffff" >研究這些線索的時候發現了一些端倪。</font>
@@ -114,7 +111,6 @@ context_55505=<s>後廚的師兄告訴你，這醉生夢死出現的時間很規
 context_55506=<s>掌門決定一邊派弟子參與黑衣人設計的迷局一邊派你去暗中調查黑衣人的身份背景。
 context_55507=<s>將飛鏢拿給藥房的九鶴道長查看，他精於煉藥應該認識這飛鏢上的東西
 context_55508=西域的商人為牟取利益很有可能攜帶了西域奇花屍骨花，下山去尋找那些西域的商人。
-context_55509=<s>檢查這些西域商人的屍體，查找線索
 context_55510=<s>經過一連串的事情你發現這幫神秘人著實不好對付，為保參與迷局的眾師弟安全需速速尋到他們。
 context_55511=<s>追尋到黑衣人為小師弟討回公道
 context_55512=<s>不想這賊人詭計多端，我們竟中了調虎離山之計！速速去尋找眾師弟們，或許還來的及！
@@ -194,7 +190,6 @@ target_55505=<s>搞清楚醉生夢死的來歷
 target_55506=<s>去詢問兵器庫主管<a href="findnpc_new,school07,WorldNpc04435" style="HLStype1">莫師叔</a>那黑衣人留下的飛鏢有無特別之處
 target_55507=<s>破解飛鏢上的秘密，掌握新的線索
 target_55508=尋找武當山下的西域商人
-target_55509=<s>檢查西域商人的屍體和貨物
 target_55510=<s>尋找到參與迷局的師弟們，暗中保護他們
 target_55511=<s>追殺黑衣人
 target_55512=<s>尋找眾師弟，擊敗黑衣人奪回太極圖
@@ -396,7 +391,6 @@ title_55565=磨刀堂的底牌
 title_55566=你見到他？！
 title_55567=送信沈家堡
 title_55568=徐家莊激鬥移花宮
-title_55569=趁火打劫
 title_55570=路遇十絕
 title_55571=醉俠楚笑？！
 title_55572=江江拿了陽闕？
@@ -636,4 +630,10 @@ submit_55604=<font face="Default" color="#ffffff" >神兵鑄成驚天下（</fon
 target_55604=神兵鑄成驚天下
 title_55604=神兵鑄成驚天下
 menu_55529_1=<font face="Default" color="#ffffff" >丹書鐵券？各大宗派怎麼都會有？弟子從未聽掌門提起丹書鐵券。</font>
+CanAcceptMenu_55509=<font face="Default" color="#ffffff" >既然是剛接到報信，莫非他們剛死不久？</font><font face="Default" color="#ffffff" >待我檢查檢查他們的遺骸。</font>
+CanAcceptMenu_55521=<font face="Default" color="#ffffff" >豈有此理！豈有此理！真是沒想到玄真道長竟是如此不堪！</font>
+CompleteMenu_55529=<font face="Default" color="#ffffff" >擋箭牌沒了，朝廷就可以對我們為所欲為了。完了完了，這下簍子戳大了。</font>
+context_55509=<s>檢查這些西域商人的遺骸，查找線索
+target_55509=<s>檢查西域商人的遺骸和貨物
+title_55569=趁火掠奪
 

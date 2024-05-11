@@ -75,13 +75,11 @@ specialinfo_352=通關禁地青雲堡，查清事情原委
 story_58601_1=<font face="Default" color="#ffffff" >近來我武當弟子發現虎嘯山莊中人行事詭秘，似乎正在密謀何事，</font><font face="Default" color="#ffffff" >我已派弟子將此事通知各大門派。</font><font face="Default" color="#ffffff" >你且速速前往虎嘯山莊，看能否查明此事。</font>
 story_58602_1=<font face="Default" color="#ffffff" >近日來蘇州城中湧現大批江湖人士，不知所為何事，武當弟子回稟這些江湖人士皆是兇惡之輩，唯恐傷及無辜。現命你速速前往蘇州城中，查明事情原委。</font>
 story_58603_2=<font face="Default" color="#ffffff" >唉！說起這些人啊，可真是心狠手辣，他們抓了一眾村民，逼那個趙子亟就範。那些村民可真真可憐，死的死傷的傷，聽說連家中房屋都被那些韓家人給燒了。唉……</font>
-story_58604_1=<font face="Default" color="#ffffff" >想必他們也是知道了這趙子亟的下落，才前往這暮色之村。唉！多年舊仇，如此冤冤相報何時了啊。你且速去暮色之村，阻止韓家眾人濫殺村民，若是能夠勸阻便莫要動手，若是無法，只能以暴制暴了。</font>
 story_58605_1=<font face="Default" color="#ffffff" >近日洛陽城中發生連番命案，</font><font face="Default" color="#ffffff" >死者都離奇死亡。</font><font face="Default" color="#ffffff" >惹得江湖之中人心惶惶。只是具體之事我武當弟子並未查探清楚。</font>
 story_58605_2=<font face="Default" color="#ffffff" >那些死者身上並無明顯傷害，死前似乎受到極大驚嚇，雙目圓睜似是見到什麼令人極端恐懼之物。現命你速速下山，看能否查明真相。</font>
 story_menu_58601=<font face="Default" color="#ffffff" >不知掌門有何吩咐？</font>
 story_menu_58602=<font face="Default" color="#ffffff" >不知掌門憂心何事？</font>
 story_menu_58603=<font face="Default" color="#ffffff" >小二哥，近來蘇州城中似乎多了很多江湖人士，不知發生何事？</font>
-story_menu_58604=<font face="Default" color="#ffffff" >回稟掌門，蘇州城中韓家之人糾集眾人在暮色之村中濫殺無辜，肆意妄為！</font>
 story_menu_58605=<font face="Default" color="#ffffff" >弟子不知，還請掌門示下。</font>
 story_menu_58606=<font face="Default" color="#ffffff" >掌門，弟子慚愧，竟未查明事情真相。</font>
 storyinfo_58601=拜見掌門<a href="findnpc_new,school07,WorldNpc04401" style="HLStype1">紫陽真人</a>，看掌門有何事吩咐
@@ -145,7 +143,6 @@ story_58612_2=<font face="Default" color="#ffffff" >那些死者身上並無明�
 story_menu_58608=<font face="Default" color="#ffffff" >不知掌門有何吩咐？</font>
 story_menu_58609=<font face="Default" color="#ffffff" >不知掌門憂心何事？</font>
 story_menu_58610=<font face="Default" color="#ffffff" >小二哥，近來蘇州城中似乎多了很多江湖人士，不知發生何事？</font>
-story_menu_58611=<font face="Default" color="#ffffff" >回稟掌門，蘇州城中韓家之人糾集眾人在暮色之村中濫殺無辜，肆意妄為！</font>
 story_menu_58612=<font face="Default" color="#ffffff" >弟子不知，還請掌門示下。</font>
 story_menu_58613=<font face="Default" color="#ffffff" >掌門，弟子慚愧，竟未查明事情真相。</font>
 storyinfo_58608=拜見掌門<a href="findnpc_new,school20,newmp_mj_001" style="HLStype1">明時月</a>，看看有什麼吩咐
@@ -166,6 +163,9 @@ hunterinfo_58604=擊敗<a href="findnpc_new,school07,monm076400" style="HLStype1
 hunterinfo_58607=擊敗<a href="findnpc_new,city04,wdsmss" style="HLStype1">神秘隱衛</a>
 specialinfo_132=攻克通緝犯，完成江湖通緝
 story_58603_1=<font face="Default" color="#ffffff" >嗨！說起此事，客官你算是問對</font><font face="Default" color="#ffffff" >人</font><font face="Default" color="#ffffff" >了。這些江湖人士啊，都是錫山韓家之人。他們糾眾結黨，都是要去太湖之中暮色之村的。說是為了找一個叫趙子亟的人報復的。</font>
-story_58606_1=<font face="Default" color="#ffffff" >不妨事，我已得知這青雲堡近來發生蝴蝶攻克一事。只怕此時</font><font face="Default" color="#ffffff" >尚未完結，而今之計只有再入青雲堡，看看能否找出事情真相。你且速速下山前往青雲堡，此次務必查明一切。</font>
-story_58613_1=<font face="Default" color="#ffffff" >不妨事，我已得知這青雲堡近來發生蝴蝶攻克一事。只怕此時尚未完結，而今之計只有
+story_menu_58604=<font face="Default" color="#ffffff" >回稟掌門，蘇州城中韓家之人糾集眾人在暮色之村中幹盡壞事，肆意妄為！</font>
+story_menu_58611=<font face="Default" color="#ffffff" >回稟掌門，蘇州城中韓家之人糾集眾人在暮色之村中幹盡壞事，肆意妄為！</font>
+story_58604_1=<font face="Default" color="#ffffff" >想必他們也是知道了這趙子亟的下落，才前往這暮色之村。唉！多年舊仇，如此冤冤相報何時了啊。</font><font face="Default" color="#ffffff" >我已派了你的師兄前往，希望他能平息這一切！</font>
+story_58606_1=<font face="Default" color="#ffffff" >不妨事，我已得知這青雲堡近來發生蝴蝶攻克一事。只怕此時尚未完結</font><font face="Default" color="#ffffff" >，你的師兄已經前往。此刻靜待結果便是。</font>
+story_58613_1=<font face="Default" color="#ffffff" >不妨事，我已得知這青雲堡近來發生蝴蝶攻克一事。只怕此時尚未完結，你的師兄已經前往。此刻靜待結果便是。</font>
 

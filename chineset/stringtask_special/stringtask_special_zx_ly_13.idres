@@ -26,7 +26,6 @@ collectinfo_13301=教訓<a href="findnpc_new,city01,monrc025046" style="HLStype1
 collectinfo_13302=殺死<a href="findnpc_new,scene09,monrf093100" style="HLStype1">韃子士兵</a>繳獲幾面將旗
 collectinfo_13303=採集草藥<a href="findnpc_new,scene09,Gather70061y" style="HLStype1">杜仲</a>
 convoy_talk_26621_1=看我這裡兵強馬壯
-convoyinfo_13301=跟著查理台去查看{@targetpos}{@istendname:女子屍體@}、
 hunterinfo_13301=擊敗攔截的<a href="findnpc_new,city01,monrc025045" style="HLStype1">東方世家弟子</a>
 hunterinfo_13302=擊敗<a href="findnpc_new,city01,WorldNpc09081" style="HLStype1">東方城</a>
 hunterinfo_13303=擊敗阻止進入的<a href="findnpc_new,city01,monrc025047" style="HLStype1">大營護衛</a>
@@ -57,7 +56,6 @@ interactinfo_13318=去採集<a href="findnpc_new,scene09,EventNpc26612" style="H
 interactinfo_13319=返回<a href="findnpc_new,scene09,EventNpc26615" style="HLStype1">城裡</a>
 interactinfo_13320=報買來的草藥交給<a href="findnpc_new,scene09,WorldNpc07273" style="HLStype1">王堃</a>
 interactinfo_13321=去向<a href="findnpc_new,scene09,WorldNpc07277" style="HLStype1">查理台</a>打聽東方芷的消息
-interactinfo_13322=查看<a href="findnpc_new,scene09,WorldNpc07279" style="HLStype1">女子屍體</a>
 okmenu_13301=這可是我千里迢迢你給弄來的絕情丹，試試看你的情花毒還有的救沒
 okmenu_13302=
 okmenu_13304=小事，我幫你奪回來就是了。
@@ -115,4 +113,6 @@ hunterinfo_13306=攻克<a href="findnpc_new,scene09,monrf093000" style="HLStype1
 hunterinfo_13308=攻克衝出營寨的<a href="findnpc_new,scene09,monrf093200" style="HLStype1">韃子千夫長</a>
 hunterinfo_13309=快速攻克<a href="findnpc_new,scene09,monrf093300" style="HLStype1">韃子追兵</a>
 story_13303_1=<s>兄弟客氣了，蕭某愧不敢當，兄弟聽說邊關危機，一路從燕京千里迢迢趕來，比我們丐幫兄弟還快，攻克胡虜，保家衛國，令人佩服啊！
+convoyinfo_13301=跟著查理台去查看{@targetpos}{@istendname:女子遺骸@}、
+interactinfo_13322=查看<a href="findnpc_new,scene09,WorldNpc07279" style="HLStype1">女子遺骸</a>
 

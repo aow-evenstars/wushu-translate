@@ -26,6 +26,7 @@ CanAcceptMenu_27568=<font face="Default" color="#ffffff" >承接任务（</font>
 CanAcceptMenu_27569=<font face="Default" color="#ffffff" >承接任务（手</font><font face="Default" color="#ffffff" >阳明大肠经</font><font face="Default" color="#ffffff" >）</font>
 CanAcceptMenu_27570=<font face="Default" color="#ffffff" >承接任务（</font><font face="Default" color="#ffffff" >足太阳膀胱经</font><font face="Default" color="#ffffff" >）</font>
 CanAcceptMenu_27571=<font face="Default" color="#ffffff" >承接任务（</font><font face="Default" color="#ffffff" >手少阴心经</font><font face="Default" color="#ffffff" >）</font>
+CanAcceptMenu_27572=<font face="Default" color="#ffffff" >承接任务（</font><font face="Default" color="#ffffff" >手厥阴心包经</font><font face="Default" color="#ffffff" >）</font>
 CanAcceptMenu_501=我已立志行医济世
 CanAcceptMenu_502=徒儿对制药颇有兴趣
 CanAcceptMenu_503=我已熟悉基本的毒物了
@@ -506,6 +507,7 @@ CompleteMenu_27568=<font face="Default" color="#ffffff" >完成</font><font face
 CompleteMenu_27569=<font face="Default" color="#ffffff" >完成任务（手阳明大肠经）</font>
 CompleteMenu_27570=<font face="Default" color="#ffffff" >完成</font><font face="Default" color="#ffffff" >任务（足太阳膀胱经）</font>
 CompleteMenu_27571=<font face="Default" color="#ffffff" >完成</font><font face="Default" color="#ffffff" >任务（手少阴心经）</font>
+CompleteMenu_27572=<font face="Default" color="#ffffff" >完成任务（手厥阴心包经）</font>
 CompleteMenu_501=任务我已完成
 CompleteMenu_502=任务我已完成
 CompleteMenu_503=任务我已完成
@@ -1178,6 +1180,7 @@ accept_27568_1=<font face="Default" color="#ffffff" >恭喜阁下，得入凌霄
 accept_27569_1=<font face="Default" color="#ffffff" >完成三大老者的试炼</font>
 accept_27570_1=<font face="Default" color="#ffffff" >完成三大老者的试炼</font>
 accept_27571_1=<font face="Default" color="#ffffff" >完成三大老者的试炼</font>
+accept_27572_1=<font face="Default" color="#ffffff" >完成三大老者的试炼</font>
 accept_501_1=那让我考考你辨别基本常见草药的能力，你去帮我采一株草药回来。
 accept_502_1=那好，我这里有一张牛黄药丹的配方和其配置所需药的材料。你去按照配方配制出一份牛黄药丹来给我看。
 accept_503_1=那让我考考你，最近我这研毒缺少一味名曰：“红粉白株”的毒草，你去为我寻来。
@@ -1666,6 +1669,7 @@ complete_27568=<font face="Default" color="#ffffff" >凌霄城定会风光无限
 complete_27569=<font face="Default" color="#ffffff" >不错不错，想不到你竟能完成此番试炼。</font>
 complete_27570=<font face="Default" color="#ffffff" >不错不错，想不到你竟能完成此番试炼。</font>
 complete_27571=<font face="Default" color="#ffffff" >不错不错，想不到你竟能完成此番试炼。</font>
+complete_27572=<font face="Default" color="#ffffff" >不错不错，想不到你竟能完成此番试炼。</font>
 complete_501=草药采来了么，如果你这些天确实有专心研习过药材。接下来的时间，你就要开始研习药品的调制了。
 complete_502=我已闻到药味，定是牛黄药丹调制完成了，只是不知你对为兵器甲胄的浸渍熟识如何了？
 complete_503=红粉白株采来了么，如果基本的毒草辨别没有问题。接下来我们就来尝试下调制一些简单的毒物吧。
@@ -2180,6 +2184,7 @@ context_27568=拜访一下凌霄城长老。
 context_27569=乱心尘任务，被种乱心尘的玩家，完成任务可兑换经脉奖励。
 context_27570=乱心尘任务，被种乱心尘的玩家，完成任务可兑换经脉奖励。
 context_27571=乱心尘任务，被种乱心尘的玩家，完成任务可兑换经脉奖励。
+context_27572=乱心尘任务，被种乱心尘的玩家，完成任务可兑换经脉奖励。
 context_501=与师傅交谈后，完成他交给你的任务。
 context_502=学会师傅交给你的牛黄药丹配方，根据交予你的药材制作出成品交予师傅。
 context_503=与师傅交谈，采回一株红粉白株。
@@ -2693,6 +2698,7 @@ menu_27568_1=<font face="Default" color="#ffffff" >多谢。</font>
 menu_27569_1=<font face="Default" color="#ffffff" >正合我意</font>
 menu_27570_1=<font face="Default" color="#ffffff" >正合我意</font>
 menu_27571_1=<font face="Default" color="#ffffff" >正合我意</font>
+menu_27572_1=<font face="Default" color="#ffffff" >正合我意</font>
 menu_501_1=我这就去采集
 menu_502_1=我这就研习配方，调制药品
 menu_503_1=我这就去
@@ -3322,12 +3328,12 @@ submit_27543=<font face="Default" color="#ffffff" >郡主太客气了，那我�
 submit_27550=<font face="Default" color="#ffffff" >侥幸而为！</font>
 submit_27551=<font face="Default" color="#ffffff" >多谢夸奖</font><font face="Default" color="#ffffff" >。</font>
 submit_27552=<font face="Default" color="#ffffff" >长者谬赞。</font>
-submit_27553=<font face="Default" color="#ffffff" >凌霄城的确鬼斧神工</font><font face="Default" color="#ffffff" >，堪称人间圣境，令在下流连忘返。</font>
+submit_27553=<font face="Default" color="#ffffff" >凌霄城的确鬼斧神工</font><font face="Default" color="#ffffff" >，堪称人间圣境，令在卑鄙连忘返。</font>
 submit_27554=<font face="Default" color="#ffffff" >凌霄城名扬江湖，在下怎会不知。</font>
 submit_27555=<font face="Default" color="#ffffff" >此等小事，举手之劳。</font>
 submit_27556=<font face="Default" color="#ffffff" >多谢夸奖。</font>
 submit_27557=<font face="Default" color="#ffffff" >长者谬赞。</font>
-submit_27558=<font face="Default" color="#ffffff" >凌霄城的确鬼斧神工，堪称人间圣境，令在下流连忘返。</font>
+submit_27558=<font face="Default" color="#ffffff" >凌霄城的确鬼斧神工，堪称人间圣境，令在卑鄙连忘返。</font>
 submit_27559=<font face="Default" color="#ffffff" >哼！不自量力之徒自然不堪一击。</font>
 submit_27560=<font face="Default" color="#ffffff" >长者何须如此，若再有事情，但请吩咐。</font>
 submit_27561=<font face="Default" color="#ffffff" >长者谬赞。</font>
@@ -3341,6 +3347,7 @@ submit_27568=<font face="Default" color="#ffffff" >属下告退。</font>
 submit_27569=<font face="Default" color="#ffffff" >侥幸而为！</font>
 submit_27570=<font face="Default" color="#ffffff" >侥幸而为！</font>
 submit_27571=<font face="Default" color="#ffffff" >侥幸而为！</font>
+submit_27572=<font face="Default" color="#ffffff" >侥幸而为！</font>
 submit_501=是的，草药我已采集来了，师傅请看
 submit_502=牛黄药丹已调制完成，并且我对兵器甲胄的浸渍也已熟悉,多谢师傅教导
 submit_503=正是，毒草我已采到。请您过目
@@ -3808,6 +3815,7 @@ target_27568=与长老交流一下有关凌霄城的事情。
 target_27569=与长者切磋一下武艺
 target_27570=与长者切磋一下武艺
 target_27571=与长者切磋一下武艺
+target_27572=与长者切磋一下武艺
 target_501=验证基本的草药知识，了解基本的草药名称，为师傅采回一株药草。
 target_502=学会牛黄药丹的配方，制作成一份牛黄药丹。
 target_503=将采集来的红粉白株交给师傅。
@@ -3931,7 +3939,7 @@ target_620=采集断肠花
 target_621=采集独一味
 target_622=采集独一味
 target_623=采集马钱子
-target_624=采集夺命草
+target_624=采集夺魄草
 target_625=烹饪水煮鱼
 target_626=烹饪肋巴
 target_627=烹饪清炒虾仁
@@ -4671,6 +4679,7 @@ title_27568=凌霄城
 title_27569=乱心尘日常九
 title_27570=乱心尘日常十七
 title_27571=乱心尘日常十八
+title_27572=乱心尘日常十九
 title_501=药师任务（一）
 title_502=药师任务（二）
 title_503=毒师任务（一）

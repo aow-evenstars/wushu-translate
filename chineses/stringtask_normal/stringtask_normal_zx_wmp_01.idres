@@ -71,7 +71,7 @@ CompleteMenu_51137=<font face="Default" color="#ffffff" >玉琼姑娘，我奉�
 CompleteMenu_51200=<font face="Default" color="#ffffff" >完成无门派主线任务"瘸腿老妇"</font>
 CompleteMenu_51201=<font face="Default" color="#ffffff" >完成无门派主线任务"寻找断刀"</font>
 CompleteMenu_51220=<font face="Default" color="#ffffff" >你们能不能容我说两句？上来就打打杀杀？</font>
-CompleteMenu_51221=<font face="Default" color="#ffffff" >乐茹姑娘，此前是我无意冒犯，既然你不相信我，那我去把绑架之人抓来就是。</font>
+CompleteMenu_51221=<font face="Default" color="#ffffff" >乐茹姑娘，此前是我无意冒犯，既然你不相信我，那我去把劫持之人抓来就是。</font>
 CompleteMenu_51222=<font face="Default" color="#ffffff" >怎么样，听到丹丹说什么了没有？人家在谢我，多亏我出手相救。</font>
 CompleteMenu_51223=<font face="Default" color="#ffffff" >C呵呵</font>
 CompleteMenu_51226=<font face="Default" color="#ffffff" >赵大哥，我此次出行偶遇叶楼凯，听闻锡山韩家广邀高手追杀赵子亟，此事该如何是好？小弟虽然从未见过赵子亟，但却相当敬佩其为人。</font>
@@ -251,10 +251,10 @@ context_51101=初入江湖，正是懵懂茫然之际，据称<a href="findnpc_n
 context_51102=成功组建或者加入一个队伍后回来见<a href="findnpc_new,city05,Npc_wmp_2n_qkw_l01" style="HLStype1">秦和徵</a>
 context_51103=在<a href="findnpc_new,city05,Npc_wmp_2n_qkw_l01" style="HLStype1">秦和徵</a>的指导下，学会阵法
 context_51104=听<a href="findnpc_new,city05,Npc_wmp_2n_qkw_l01" style="HLStype1">秦和徵</a>讲解平地风雷的学习和用法
-context_51105=在寻找失踪的少女的过程中了解到在成都城附近活跃着一个以绑架、贩卖为生的组织。
-context_51106=找到捕快安排在绑架组织里的线人，从他口中得知一些关于绑架组织的情况。
-context_51107=进行一次绑架获取绑架组织的信任，并能够成功的获得关于绑架组织犯罪的证据。(如果未能在规定的时间内完成任务，可以放弃任务，在<a href="findnpc_new,city05,hbyd005" style="HLStype1">单悦</a>重新接受任务)
-context_51108=把获得的绑架组织的犯罪证据交给捕快，结束潜入绑匪组织任务，发布公告，还以真相。
+context_51105=在寻找失踪的少女的过程中了解到在成都城附近活跃着一个以劫持、贩卖为生的组织。
+context_51106=找到捕快安排在牙侩组织里的线人，从他口中得知一些关于牙侩组织的情况。
+context_51107=进行一次劫持获取牙侩组织的信任，并能够成功的获得关于牙侩组织犯罪的证据。(如果未能在规定的时间内完成任务，可以放弃任务，在<a href="findnpc_new,city05,hbyd005" style="HLStype1">单悦</a>重新接受任务)
+context_51108=把获得的牙侩组织的犯罪证据交给捕快，结束潜入绑匪组织任务，发布公告，还以真相。
 context_51109=通过与<a href="findnpc_new,city05,WorldNpc09750" style="HLStype1">芩祁肃</a>交谈，了解踢馆相关玩法。
 context_51110=与车夫刘昌交谈，了解如何借助驿站或渡船快速到达各城市。
 context_51111=一份意外的收获
@@ -412,7 +412,7 @@ submit_51136=<font face="Default" color="#ffffff" >谢谢前辈，我一定会�
 submit_51137=<font face="Default" color="#ffffff" >那真是太好了，多谢姑娘提点！</font>
 submit_51200=<font face="Default" color="#ffffff" >我可以帮上前辈什么忙么？</font>
 submit_51201=<font face="Default" color="#ffffff" >完成任务</font>
-submit_51220=<font face="Default" color="#ffffff" >……色相，好吧，既然你不信，你等着，成都有人绑架是吧？</font>
+submit_51220=<font face="Default" color="#ffffff" >……色相，好吧，既然你不信，你等着，成都有人劫持是吧？</font>
 submit_51221=<font face="Default" color="#ffffff" >哈哈哈，你稍后便知。</font>
 submit_51222=<font face="Default" color="#ffffff" >……</font>
 submit_51223=<font face="Default" color="#ffffff" >呵呵</font>
@@ -485,9 +485,9 @@ target_51102=成功组建或者加入一个队伍
 target_51103=学会阵法：三才阵
 target_51104=学会平地风雷
 target_51105=找到失踪少女，得知关于绑匪组织的情况。
-target_51106=和捕快安排在绑架组织里的线人接头，了解绑架组织概况。
-target_51107=潜入绑架组织，获得绑架组织的犯罪证据。
-target_51108=获得绑架组织情报，交给捕快，铲除绑匪组织。
+target_51106=和捕快安排在牙侩组织里的线人接头，了解牙侩组织概况。
+target_51107=潜入牙侩组织，获得牙侩组织的犯罪证据。
+target_51108=获得牙侩组织情报，交给捕快，铲除绑匪组织。
 target_51109=从武馆师傅那边得到奇珍，并且服用。
 target_51112=从武馆师傅处得到宝物
 target_51113=通过考验，学习朱广济的武学。
@@ -575,7 +575,7 @@ title_51102=结伴江湖
 title_51103=江湖秘术---三才阵
 title_51104=江湖秘术---平地风雷
 title_51105=寻找失踪少女
-title_51106=追查绑架组织
+title_51106=追查牙侩组织
 title_51107=潜入探查
 title_51108=直捣黄龙
 title_51109=踢馆引导

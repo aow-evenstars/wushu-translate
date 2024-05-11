@@ -64,7 +64,6 @@ target_76319=勇闖皇宮查探線索
 target_76320=追蹤銀狐。
 target_76321=漢王出面幫助你脫離險境。
 target_76322=做出抉擇。
-target_76323=找到蘇楚楚，阻止她刺殺皇帝。
 target_76324=與漢王密談，未能及時阻止蘇楚楚。
 target_76325=受盟主之托，準備前往陰陽顛倒宮。
 title_76301=神秘字條
@@ -152,4 +151,132 @@ title_76338=天輪寺
 title_76339=夜心梨園（天輪寺入門）
 title_76340=姚小寶
 title_76341=天輪寺
+CanAcceptMenu_76342=<font face="Default" color="#ffffff" >採集木材（可接取）</font>
+CanAcceptMenu_76343=<font face="Default" color="#ffffff" >採集礦石</font><font face="Default" color="#ffffff" >（可接取）</font>
+CanAcceptMenu_76344=<font face="Default" color="#ffffff" >裝備維護（可接取）</font>
+CanAcceptMenu_76345=<font face="Default" color="#ffffff" >收集情報（可接取）</font>
+CanAcceptMenu_76346=<font face="Default" color="#ffffff" >鞏固防禦（可接取）</font>
+CanAcceptMenu_76347=<font face="Default" color="#ffffff" >擊退敵寇</font><font face="Default" color="#ffffff" >（可接取）</font>
+CanAcceptMenu_76348=<font face="Default" color="#ffffff" >制服凶獸（可接取）</font>
+CanAcceptMenu_76349=<font face="Default" color="#ffffff" >污染的食物</font><font face="Default" color="#ffffff" >（可接取）</font>
+CanAcceptMenu_76350=<font face="Default" color="#ffffff" >醫治村民</font><font face="Default" color="#ffffff" >（可接取）</font>
+CanAcceptMenu_76351=<font face="Default" color="#ffffff" >搜尋物資</font><font face="Default" color="#ffffff" >（可接取）</font>
+CanAcceptMenu_76353=<font face="Default" color="#ffffff" >救援漁村·奇襲（可接取）</font>
+CompleteMenu_76342=<font face="Default" color="#ffffff" >採集木材（可提交）</font>
+CompleteMenu_76343=<font face="Default" color="#ffffff" >採集礦石</font><font face="Default" color="#ffffff" >（可提交）</font>
+CompleteMenu_76344=<font face="Default" color="#ffffff" >裝備維護（可提交）</font>
+CompleteMenu_76345=<font face="Default" color="#ffffff" >收集情報（可提交）</font>
+CompleteMenu_76346=<font face="Default" color="#ffffff" >鞏固防禦（可提交）</font>
+CompleteMenu_76347=<font face="Default" color="#ffffff" >擊退敵寇</font><font face="Default" color="#ffffff" >（可提交）</font>
+CompleteMenu_76348=<font face="Default" color="#ffffff" >制服凶獸（可提交）</font>
+CompleteMenu_76349=<font face="Default" color="#ffffff" >污染的食物</font><font face="Default" color="#ffffff" >（可提交）</font>
+CompleteMenu_76350=<font face="Default" color="#ffffff" >醫治村民</font><font face="Default" color="#ffffff" >（可提交）</font>
+CompleteMenu_76351=<font face="Default" color="#ffffff" >搜尋物資（可提交）</font>
+CompleteMenu_76353=<font face="Default" color="#ffffff" >救援漁村·奇襲（可提交）</font>
+accept_76342_1=<font face="Default" color="#ffffff" >加固據點的防禦需要大量的木材，我們人手不足需要你的協助！</font>
+accept_76343_1=<font face="Default" color="#ffffff" >鍛造與修復兵器需要大量的礦石</font><font face="Default" color="#ffffff" >，我們人手不足需要你的協助！</font>
+accept_76344_1=<font face="Default" color="#ffffff" >星垂城內聚集著大量的倭寇，戰鬥又</font><font face="Default" color="#ffffff" >頻繁</font><font face="Default" color="#ffffff" >發生，裝備受損嚴重，同時有許多武器遺落在星垂城附近，請俠士前去收集些，送過來一起維護。</font>
+accept_76345_1=<font face="Default" color="#ffffff" >自從星垂城被倭寇佔領後，各方勢力都派遣著門下弟子對星垂城進行監視，請俠士去將最近的情報帶回。</font>
+accept_76346_1=<font face="Default" color="#ffffff" >星垂城附近的</font><font face="Default" color="#ffffff" >據點</font><font face="Default" color="#ffffff" >頻繁</font><font face="Default" color="#ffffff" >受</font><font face="Default" color="#ffffff" >到野獸以及倭寇的攻擊，部分區域已經有些受損，請俠士幫忙進行修繕。</font>
+accept_76347_1=<font face="Default" color="#ffffff" >星垂城附近出現大量的敵寇，為了保護村民，防禦據點。需要抓住時機將他們擊退</font>
+accept_76348_1=<font face="Default" color="#ffffff" >在星垂城附近有凶獸出沒，並且有部分村民已經被其擊傷。請俠士前去擊退凶獸。</font>
+accept_76349_1=<font face="Default" color="#ffffff" >據點之中食物緊張，還有可能被污染。必須謹慎檢查，最好能想辦法獲取一些乾淨的食物。</font>
+accept_76350_1=<font face="Default" color="#ffffff" >在不間斷的衝突中不停的有人受傷，需要及時的醫治才能預防感染！</font>
+accept_76351_1=<font face="Default" color="#ffffff" >防禦與生存的物資日漸緊缺，需要在附近搜尋，最好可以從敵寇的身上搶一些來。</font>
+accept_76353_1=<font face="Default" color="#ffffff" >倭寇襲擊漁村，燒殺搶掠無惡不作。還請少俠出手救援漁村擊退倭寇。</font>
+complete_76342=<font face="Default" color="#ffffff" >你這次的表現很不錯，順利完成了任務，這是你的獎勵！</font>
+complete_76343=<font face="Default" color="#ffffff" >你這次的表現很不錯，順利完成了任務，這是你的獎勵！</font>
+complete_76344=<font face="Default" color="#ffffff" >你這次的表現很不錯，順利完成了任務，這是你的獎勵！</font>
+complete_76345=<font face="Default" color="#ffffff" >你這次的表現很不錯，順利完成了任務，這是你的獎勵！</font>
+complete_76346=<font face="Default" color="#ffffff" >你這次的表現很不錯，順利完成了任務，這是你的獎勵！</font>
+complete_76347=<font face="Default" color="#ffffff" >你這次的表現很不錯，順利完成了任務，這是你的獎勵！</font>
+complete_76348=<font face="Default" color="#ffffff" >你這次的表現很不錯，順利完成了任務，這是你的獎勵！</font>
+complete_76349=<font face="Default" color="#ffffff" >你這次的表現很不錯，順利完成了任務，這是你的獎勵！</font>
+complete_76350=<font face="Default" color="#ffffff" >你這次的表現很不錯，順利完成了任務，這是你的獎勵！</font>
+complete_76351=<font face="Default" color="#ffffff" >你這次的表現很不錯，順利完成了任務，這是你的獎勵！</font>
+complete_76353=<font face="Default" color="#ffffff" >多謝少俠出手相救。</font>
+context_76342=為了加強據點的防禦，需要大量的防禦措施。協助採集木材打造防禦措施。
+context_76343=長期的戰鬥導致兵器與盔甲損耗嚴重，幫助潘伯峰採集礦石，加工打造新的兵器與盔甲
+context_76344=星垂城內聚集著大量的倭寇，戰鬥又頻繁發生，裝備受損嚴重，需要好好的維護。
+context_76345=戰場之中敵軍的情報也十分重要，做到知己知彼方能百戰百勝！
+context_76346=星垂城附近的據點頻繁受到野獸以及倭寇的攻擊，需要對其進行防禦鞏固。
+context_76347=星垂城附近出現大量的敵寇，為了保護村民，防禦據點。需要抓住時機將他們擊退
+context_76348=在星垂城附近有凶獸出沒，並且有部分村民已經被其擊傷。
+context_76349=據點之中食物緊張，還有可能被污染。必須謹慎檢查，最好能想辦法獲取一些乾淨的食物。
+context_76350=在不間斷的衝突中不停的有人受傷，需要及時的醫治才能預防感染
+context_76351=防禦與生存的物資日漸緊缺，需要在附近搜尋，最好可以從敵寇的身上搶一些來。
+context_76352=擁有「江湖名俊」的大俠，滿足相應的內功點數可前往蘇州神秘老人（行善積德）（390 735）處對話接取任務，完成任務將獲得「隱世直升令牌」*1。
+context_76353=倭寇襲擊星垂城外的漁村，燒殺搶掠無惡不作。身為八大宗派弟子理應救援漁村！
+menu_76342_1=<font face="Default" color="#ffffff" >好的，交給我吧！</font>
+menu_76343_1=<font face="Default" color="#ffffff" >好的，交給我吧！</font>
+menu_76344_1=<font face="Default" color="#ffffff" >好的，我這就去準備</font>
+menu_76345_1=<font face="Default" color="#ffffff" >好的，我這就去準備</font>
+menu_76346_1=<font face="Default" color="#ffffff" >好的，我這就去準備</font>
+menu_76347_1=<font face="Default" color="#ffffff" >好的，我這就去準備準備。</font>
+menu_76348_1=<font face="Default" color="#ffffff" >好的，我這就去準備準備。</font>
+menu_76349_1=<font face="Default" color="#ffffff" >好的，我這就去準備準備。</font>
+menu_76350_1=<font face="Default" color="#ffffff" >好的，我這就去準備準備。</font>
+menu_76351_1=<font face="Default" color="#ffffff" >好的，我這就去準備準備。</font>
+menu_76353_1=<font face="Default" color="#ffffff" >好的。</font>
+submit_76342=<font face="Default" color="#ffffff" >多謝。</font>
+submit_76343=<font face="Default" color="#ffffff" >多謝。</font>
+submit_76344=<font face="Default" color="#ffffff" >多謝。</font>
+submit_76345=<font face="Default" color="#ffffff" >多謝。</font>
+submit_76346=<font face="Default" color="#ffffff" >多謝。</font>
+submit_76347=<font face="Default" color="#ffffff" >多謝。</font>
+submit_76348=<font face="Default" color="#ffffff" >多謝。</font>
+submit_76349=<font face="Default" color="#ffffff" >多謝。</font>
+submit_76350=<font face="Default" color="#ffffff" >多謝。</font>
+submit_76351=<font face="Default" color="#ffffff" >多謝。</font>
+submit_76353=<font face="Default" color="#ffffff" >這是我應當做的。</font>
+target_76342=採集木材交給木匠打造防禦措施<br><font color="#FF0000">完成任務將獲得：門派個人積分1點；門派物資1點。</font>
+target_76343=幫助潘伯峰採集礦石，加工打造新的兵器與盔甲<br><font color="#FF0000">完成任務將獲得：門派個人積分1點；門派物資1點。</font>
+target_76344=收集裝備，對裝備進行維護。<br><font color="#FF0000">完成任務將獲得：門派個人積分1點；門派物資1點。</font>
+target_76345=獲取最近星垂城的情報<br><font color="#FF0000">完成任務將獲得：門派個人積分1點；門派物資1點。</font>
+target_76346=鞏固據點防禦。<br><font color="#FF0000">完成任務將獲得：門派個人積分1點；門派物資1點。</font>
+target_76347=擊退星垂城附近敵寇<br><font color="#FF0000">完成任務將獲得：門派個人積分1點；門派物資1點。</font>
+target_76348=擊退傷人的凶獸！<br><font color="#FF0000">完成任務將獲得：門派個人積分1點；門派物資1點。</font>
+target_76349=檢查據點中的食物<br><font color="#FF0000">完成任務將獲得：門派個人積分1點；門派物資1點。</font>
+target_76350=醫治受傷的村民<br><font color="#FF0000">完成任務將獲得：門派個人積分1點；門派物資1點。</font>
+target_76351=尋找、收集物資<br><font color="#FF0000">完成任務將獲得：門派個人積分1點；門派物資1點。</font>
+target_76352=找到神秘老人完成任務
+target_76353=幫助村民救援漁村<br><font color="#FF0000">完成任務將獲得：門派個人積分5點；門派物資5點。返回本服後將獲得一份「星垂奇襲」郵件獎勵。</font>
+title_76342=採集木材·支
+title_76343=採集礦石·支
+title_76344=裝備維護·支
+title_76345=偵查敵情·支
+title_76346=鞏固防禦·支
+title_76347=擊退敵寇·支
+title_76348=制服凶獸·支
+title_76349=污染的食物·支
+title_76350=醫治村民·支
+title_76351=搜尋物資·支
+title_76352=神秘老人助提升
+title_76353=救援漁村·奇襲
+context_76365=在江湖中闖蕩出些許名聲，為門派做出貢獻
+next_76365=回門派找<a href="findnpc_new,school17,newmp_dmp_zwdh" style="HLStype1">樊邦</a>
+next_76366=回門派找<a href="findnpc_new,school14,npc_gmp_dh08" style="HLStype1">顧宇</a>
+next_76367=回門派找<a href="findnpc_new,school19,newmp_ssg_zwdh" style="HLStype1">薛靈彤</a>
+next_76368=回門派找<a href="findnpc_new,school15,npc_nlb_shop_lzj06" style="HLStype1">梁楠</a>
+next_76369=回門派找<a href="findnpc_new,city03,newmp_cfdh_03" style="HLStype1">邱文昊</a>
+next_76370=回門派找<a href="findnpc_new,school13,npc_xdm_ww04" style="HLStype1">何文韜</a>
+next_76371=回門派找<a href="findnpc_new,school12,newmp_wxj_zwdh" style="HLStype1">澹台香</a>
+next_76372=回門派找<a href="findnpc_new,school17,npc_hsp_shop_lzj06" style="HLStype1">徐寒玉</a>
+next_76373=回門派找<a href="findnpc_new,,newmp_sjy_zwdh" style="HLStype1">蘇伯鳴</a>
+next_76374=回門派找<a href="findnpc_new,school23,newmp_xmg_zxdh" style="HLStype1">許信慶</a>
+next_76375=回門派找<a href="findnpc_new,school25,newmp_tyhg_zwdh" style="HLStype1">顧朋</a>
+next_76376=回門派找<a href="findnpc_new,school10,thd_003" style="HLStype1">李涵秋</a>
+next_76377=回門派找<a href="findnpc_new,school09,yhg_005" style="HLStype1">紫繚</a>
+next_76378=回門派找<a href="findnpc_new,city05,WorldNpc100076" style="HLStype1">沈懷峰</a>
+next_76379=回門派找<a href="findnpc_new,school02,wssz_037" style="HLStype1">彭劍</a>
+next_76380=回門派找<a href="findnpc_new,adv156,tls_007" style="HLStype1">群培</a>
+next_76382=回門派找<a href="findnpc_new,shcool11,wgm_072" style="HLStype1">於越</a>
+next_76383=回門派找<a href="findnpc_new,city05,WorldNpc09823" style="HLStype1">陰平</a>
+target_76365=闖蕩江湖
+title_76365=入世修身
+target_76323=找到蘇楚楚，阻止她行刺皇帝。
+next_76381=<a href="findnpc_new,,qyg_015" style="HLStype1">戎承志</a>
+CompleteMenu_76311=<font face="Default" color="#ffffff" >解救旋白（可提交）</font>
+complete_76311=<font face="Default" color="#ffffff" >你速速前往！</font>
+submit_76311=<font face="Default" color="#ffffff" >解救旋白（已完成）</font>
 

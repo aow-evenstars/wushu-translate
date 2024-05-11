@@ -301,15 +301,10 @@ context_18834=現在前兩個條件都滿足了，就差第三個條件了。不
 context_18835=<s>有弟子來報，狄英曾經在遙參亭出現過。你現在去遙參亭去打探一下，如果發現狄英的話，就地解決這叛徒。
 context_18836=<s>現在三個條件都已經完成，你現在去通知言武，讓他儘快趕回嵩山派來。
 context_18837=<s>少林藏經閣內貯藏經共計五千餘卷，其中包含各類藏經，佛教典籍以及少林武術秘笈。藏經閣貯藏有各式各樣的武學密籍。易筋經、洗髓經更是少林的鎮山之寶，故歷朝歷代都有不法之徒前來盜取經書，偷學武功。就在昨日，少林七十二絕技中的《追風掌》的秘笈被人盜走了，你幫我詢問巡邏的武僧最近有無可疑人物在後山出沒。
-context_18838=<s>現在你幫我去詢問西域喇嘛為何總是在後山出沒？
-context_18839=<s>現在你去教訓一下西域喇嘛，讓他招出經書的下落。
-context_18840=<s>既然喇嘛已經招出將經書藏在了達摩洞，那你就前往達摩洞將《追風掌》的秘笈取回來。
 context_18857=<s>了塵上人讓你將草藥交給了空
 context_18862=了空讓你在配製藥丸的時候打發走山門前鬧事的潑皮番僧
-context_18863=來少林論道的喇嘛讓你替他送封信到洛陽
 context_18864=<s>杭明輝認為你私自看了信件，與你動起手來
 context_18865=<s>杭明輝告訴你事情的來龍去脈，讓你勸他的師兄弟修佛向善。
-context_18866=<s>聽中年喇嘛訴說心結
 context_18868=<s>周聖讓你去石家詢問石夫人，探尋兇手的下落
 context_18869=<s>將血棋子交與周聖查看
 context_18870=<s>周聖讓你拿著棋子去找仲孫燁磊
@@ -433,8 +428,6 @@ target_18834=左月凜讓你解決掉八個嵩山派叛徒。
 target_18835=<s>左月凜讓你解決掉狄英。
 target_18836=<s>左月凜讓你找到趙言武並讓他回歸門派。
 target_18837=<s>玄真讓你詢問巡邏的武僧。
-target_18838=<s>玄真讓你詢問西域喇嘛出沒後山的原因。
-target_18839=<s>玄真讓你教訓西域喇嘛並詢問出經書的下落。
 target_18840=<s>玄真讓你取回《追風掌》。
 target_18851=<s>少林僧人不僅能夠練好武功，誦讀佛經，同樣能夠做出美味的食物來。少林八寶酥就是少林流傳千餘年的特色美味。<br>(放棄此任務將放棄該橋段內的所有任務)
 target_18852=<s>極樂谷穀主生辰將至，其座下四大使者竭力強取寶物討好魔頭，屍使便瞄上少林寺內三大鎮寺秘方之一的少林斷續膏。為了這聖藥不落入惡人之手，你要深入虎穴，奪回秘方。<br>(放棄此任務將放棄該橋段內的所有任務)
@@ -446,8 +439,6 @@ target_18858=<s>教訓<a href="findnpc_new,school08,WorldNpc00383" style="HLStyp
 target_18859=<s>對質<a href="findnpc_new,school08,WorldNpc00383" style="HLStype1">永貽</a>
 target_18862=趕走<a href="findnpc_new,school08,qy_shaolin_fansen" style="HLStype1">潑皮番僧</a>
 target_18864=<s>教訓<a href="findnpc_new,city04,WorldNpc10397" style="HLStype1">杭明輝</a>
-target_18865=<s>替杭明輝規勸<a href="findnpc_new,school08,WorldNpc00392" style="HLStype1">中年喇嘛</a>修佛向善
-target_18866=<s>與<a href="findnpc_new,school08,WorldNpc00392" style="HLStype1">中年喇嘛</a>交談
 target_18867=<s>收集4份蒼術藥丸和4份斷命禁藥給智深泡酒
 target_18868=<s>詢問<a href="findnpc_new,,FunnpcClone021003" style="HLStype1">石夫人</a>
 target_18869=<s>將血棋子交與<a href="findnpc_new,city04,WorldNpc10436" style="HLStype1">周聖</a>查看
@@ -463,7 +454,6 @@ target_18878=完成一次少林巡邏
 target_18879=完成一次刺探極樂穀
 target_18881=<s>完成一次武當刺探
 target_18882=<s>成功完成一次押鏢
-target_18884=<s>完成<a href="findnpc_new,school08,WorldNpc00392" style="HLStype1">中年喇嘛</a>交代的事情
 target_18885=<s>完成<a href="findnpc_new,school08,WorldNpc00497" style="HLStype1">智深</a>交代的事情
 target_18886=<s>完成<a href="findnpc_new,school08,WorldNpc00224" style="HLStype1">清悔</a>交代的事情
 target_18887=<s>完成<a href="findnpc_new,school08,WorldNpc00264" style="HLStype1">玄濟</a>交代的事情
@@ -690,7 +680,6 @@ context_18867=<s>智深師兄命你收集一些藥物給他泡酒
 context_18873=<s>回少林告訴智深師兄，事情的來龍去脈
 context_18874=<s>清悔讓你詢問火頭僧為何飯菜遲遲未燒好
 context_18883=<s>完成密令中交代的事情(放棄此任務，將視同放棄師門考驗。)<br><font face="Default" color="#FF0000">百曉記事：</font><br><s><font face="Default" color="#A020F0">清仁師兄莫名遭歹人所害，中毒在身性命堪憂，只有出自六階藥師所制百煉逍遙藥丹與七階藥師所制百煉四物藥散方可救治。速速下山去尋來這幾味丹藥。</font>
-context_18884=<s>完成密令中交代的事情(放棄此任務，將視同放棄師門考驗。)<br><font face="Default" color="#FF0000">百曉記事：</font><br><s><font face="Default" color="#A020F0">在寺內偶遇一名中年喇嘛，受人之托前往洛陽城外的杭明輝處。與杭明輝交談一番後言語不和起了衝突。自衛成功下獲知了中年喇嘛與其師兄杭明輝的秘密，並且解開了其中的貪念。</font>
 context_18886=<s>完成密令中交代的事情(放棄此任務，將視同放棄師門考驗。)<br><font face="Default" color="#FF0000">百曉記事：</font><br><s><font face="Default" color="#A020F0">腹中無糧心慌慌，清悔又將責任推給火頭僧。原來是人手不夠所致。少林僧人一塊磚，哪裡需要哪裡搬。去灶房外面收集一些木材並且打些水回來，一炷香後就可以開飯。</font>
 context_18887=<s>完成密令中交代的事情(放棄此任務，將視同放棄師門考驗。)<br><font face="Default" color="#FF0000">百曉記事：</font><br><s><font face="Default" color="#A020F0">少林掃地僧！天下聞名。正所謂大隱隱於市，高手愛掃帚。清掃雜物此等磨練意志之事你拒絕的了嗎？那就行動吧，在菩提院（761 370）、立雪亭（761 310）、天王殿（810 429）等香客徘徊之地。向外人展示我大少林掃地僧之風範！</font>
 context_18889=<s>完成密令中交代的事情(放棄此任務，將視同放棄師門考驗。)<br><font face="Default" color="#FF0000">百曉記事：</font><br><s><font face="Default" color="#A020F0">最近邪派似乎又有所異動。前往極樂谷打探消息，完成一次刺探。</font>
@@ -739,4 +728,15 @@ title_18880=嵩山鐵劍門
 CanAcceptMenu_18833=攻克匪人
 CompleteMenu_18833=攻克匪人一事我已完成
 title_18833=攻克匪人
+context_18838=<s>現在你幫我去詢問西域僧侶為何總是在後山出沒？
+context_18839=<s>現在你去教訓一下西域僧侶，讓他招出經書的下落。
+context_18840=<s>既然僧侶已經招出將經書藏在了達摩洞，那你就前往達摩洞將《追風掌》的秘笈取回來。
+context_18863=來少林論道的僧侶讓你替他送封信到洛陽
+context_18866=<s>聽中年僧侶訴說心結
+context_18884=<s>完成密令中交代的事情(放棄此任務，將視同放棄師門考驗。)<br><font face="Default" color="#FF0000">百曉記事：</font><br><s><font face="Default" color="#A020F0">在寺內偶遇一名中年僧侶，受人之托前往洛陽城外的杭明輝處。與杭明輝交談一番後言語不和起了衝突。自衛成功下獲知了中年僧侶與其師兄杭明輝的秘密，並且解開了其中的貪念。</font>
+target_18838=<s>玄真讓你詢問西域僧侶出沒後山的原因。
+target_18839=<s>玄真讓你教訓西域僧侶並詢問出經書的下落。
+target_18865=<s>替杭明輝規勸<a href="findnpc_new,school08,WorldNpc00392" style="HLStype1">中年僧侶</a>修佛向善
+target_18866=<s>與<a href="findnpc_new,school08,WorldNpc00392" style="HLStype1">中年僧侶</a>交談
+target_18884=<s>完成<a href="findnpc_new,school08,WorldNpc00392" style="HLStype1">中年僧侶</a>交代的事情
 

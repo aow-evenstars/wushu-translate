@@ -15,11 +15,12 @@ QiecuoMenu_75502=<font face="Default" color="#ff051e" >（这姑娘不但自己�
 QiecuoMenu_75504=<font face="Default" color="#ffffff" >得罪了。</font>
 QiecuoMenu_75505=<font face="Default" color="#ffffff" >恭敬不如从命，得罪了。</font>
 QiecuoMenu_75507=<font face="Default" color="#ff0718" >（看来是秦王的人……）</font><font face="Default" color="#ffffff" >要事在身，我</font><font face="Default" color="#ffffff" >对秦王府并无兴趣，还请让路。</font>
-QiecuoTitle_75502=<font face="Default" color="#ffffff" >你要不撒泡尿照照镜子？就你？也敢让我们大姐头当你小弟？</font><font face="Default" color="#ffffff" >胆子挺肥啊！</font>
+QiecuoTitle_75502=<font face="Default" color="#ffffff" >你要不照照镜子？就你？也敢让我们大姐头当你小弟？</font><font face="Default" color="#ffffff" >胆子挺肥啊！</font>
 QiecuoTitle_75504=<font face="Default" color="#ffffff" >看来你咬定我身上有碎片了，不过，我绝不会拱手相让！看招！</font>
 QiecuoTitle_75505=<font face="Default" color="#ffffff" >哼！说的好听！你这是明抢，有能耐，打赢我再说吧！</font>
 QiecuoTitle_75507=<font face="Default" color="#ffffff" >请留步！我们等你很久了，速速随我前去</font><font face="Default" color="#ffffff" >面见秦王</font><font face="Default" color="#ffffff" >。</font>
 SubmitNpcEx_75531=前去告知<a href="findnpc_new,city01,worldnpczybsy_jq_013" style="HLStype1">瓦剌人</a>(通过<a href="findnpc_new,city01,eventnpcjq_2020sy_015" style="HLStype1">此处</a>可进入矿洞，若想要离开，可以从<a href="findnpc_new,adv165,eventnpcjq_2020sy_016" style="HLStype1">矿洞口</a>出去）
+SubmitNpcEx_75546=再次与<a href="findnpc_new,school26,newmp_xingtb_001" style="HLStype1">刑烈</a>交谈
 collectinfo_75501=收集<a href="findnpc_new,city01,caijisyjq_zyb_001" style="HLStype1">黑色粉末</a>
 collectinfo_75502=捡起<a href="findnpc_new,city01,caijisyjq_zyb_002" style="HLStype1">一张面具</a>
 collectinfo_75503=收集<a href="findnpc_new,city01,caijisyjq_zyb_003" style="HLStype1">黑色的粉末</a>
@@ -153,7 +154,7 @@ story_75536_3=<font face="Default" color="#ffffff" >此事本王亦有所耳闻�
 story_75537_1=<font face="Default" color="#ffffff" >哟，别来无恙啊！原来汉王说的帮手就是你！听说，你昨夜见过那白鼠？</font><font face="Default" color="#ffffff" >带我去现场看看吧。</font>
 story_75538_1=<font face="Default" color="#ffffff" >这些人应该都练过缩骨功，所以他们能藏身于这特制的巨鼠</font><font face="Default" color="#ffffff" >皮囊</font><font face="Default" color="#ffffff" >中，用来装神弄鬼。</font>
 story_75538_2=<font face="Default" color="#ffffff" >我们先行离开此地。城里那些传言被巨鼠“吃掉”的商人们，我已经逐一调查过他们的身份。这些商人都有一个共同点，他们大多并非中原</font><font face="Default" color="#ffffff" >人</font><font face="Default" color="#ffffff" >，并且常年与外域有生意往来。</font>
-story_75539_1=<font face="Default" color="#ffffff" >这火药是霹雳堂的霸天雷……奇怪！霹雳堂的火药早已被朝廷收缴入了都察司。怎么会流入市场中？当初，霹雳堂被灭门的罪名是谋杀都察司右御都史。看来，此事与都察司有着某种联系。我认识一个叫穆威的人，他是都察司中的库房看守，你可以先去找他问问。</font>
+story_75539_1=<font face="Default" color="#ffffff" >这火药是霹雳堂的霸天雷……奇怪！霹雳堂的火药早已被朝廷收缴入了都察司。怎么会流入市场中？当初，霹雳堂被灭门的罪名是暗害都察司右御都史。看来，此事与都察司有着某种联系。我认识一个叫穆威的人，他是都察司中的库房看守，你可以先去找他问问。</font>
 story_75540_1=<font face="Default" color="#ffffff" >少侠可是谢神捕派你前来</font><font face="Default" color="#ffffff" >的</font><font face="Default" color="#ffffff" >？失敬失敬！实不相瞒，都察司库房中收缴的火药最近定期会被运走，库房中已经所剩不多</font><font face="Default" color="#ffffff" >了</font><font face="Default" color="#ffffff" >。按照规定，火药的入库和出库都必须留档记录，</font><font face="Default" color="#ffffff" >少侠可去看看。</font>
 story_75541_1=<font face="Default" color="#ffffff" >现在库房被烧，霹雳堂的火药被何人何时运出也无从得知了。现在只剩一个法子了</font><font face="Default" color="#ffffff" >！</font><font face="Default" color="#ffffff" >我猜想他们</font><font face="Default" color="#ffffff" >既然</font><font face="Default" color="#ffffff" >需要大量的火药，一定会</font><font face="Default" color="#ffffff" >想办法</font><font face="Default" color="#ffffff" >运送出城。若是去城门处查查近期马车出城的情况，也许会有</font><font face="Default" color="#ffffff" >收获</font><font face="Default" color="#ffffff" >！</font>
 story_75542_1=<font face="Default" color="#ffffff" >放心吧！我绝非歹人，只不过，我身份特殊，并非三言两语可以说清楚的。此处杀机四伏，还是先随我离开此地吧。</font>
@@ -165,7 +166,7 @@ story_75546_1=<font face="Default" color="#ffffff" >如今，我们最多只有�
 story_75547_1=<font face="Default" color="#ffffff" >此次多亏了少侠，才使得燕京城中百万百姓幸免于难。此事本王已经如实向圣上禀告了。</font><font face="Default" color="#ff0515" >（突然颇有深意的看着你）</font><font face="Default" color="#ffffff" >你一定很纳闷，为何本王从不问起你的过去？</font>
 story_75547_2=<font face="Default" color="#ffffff" >你的过去暂且不提。眼下，李广明已经对所有罪行供认不讳，并打入天牢。圣上英明神武，已经为江南霹雳堂平反。对东方世家此次失责，也只是训诫一番。少侠你可知你立了大功！在矿洞中发现的矿石是十分珍贵的钨矿，可以打造无坚不摧的武器，如今朝廷已经派人严守以备，</font><font face="Default" color="#ffffff" >以供</font><font face="Default" color="#ffffff" >日后开采。</font>
 story_75547_3=<font face="Default" color="#ffffff" >你身处逆境，却屡次凭借惊人的毅力，渡过难关。本王十分赏识你！今日本王也有些乏了</font><font face="Default" color="#ffffff" >。</font><font face="Default" color="#ff050d" >（汉王突然面色阴晴不定，挥了挥手，说道）</font><font face="Default" color="#ffffff" >来人，将此人拿下！</font>
-story_75548_1=<font face="Default" color="#ffffff" >方才人多眼杂，有些事不便明言。本王第一次见你，便已经知道你是谋杀当朝公主和驸马的</font><font face="Default" color="#ffffff" >通缉犯</font><font face="Default" color="#ffffff" >。不过，此次你立下奇功，拯救</font><font face="Default" color="#ffffff" >百姓</font><font face="Default" color="#ffffff" >于水火，朝廷为表嘉奖，暂时撤销了通缉令。你有一年的时间找到真凶，自证清白，否则一年后，通缉令还会继续生效。</font>
+story_75548_1=<font face="Default" color="#ffffff" >方才人多眼杂，有些事不便明言。本王第一次见你，便已经知道你是暗害当朝公主和驸马的</font><font face="Default" color="#ffffff" >通缉犯</font><font face="Default" color="#ffffff" >。不过，此次你立下奇功，拯救</font><font face="Default" color="#ffffff" >百姓</font><font face="Default" color="#ffffff" >于水火，朝廷为表嘉奖，暂时撤销了通缉令。你有一年的时间找到真凶，自证清白，否则一年后，通缉令还会继续生效。</font>
 story_menu_75501=<font face="Default" color="#ffffff" >王爷</font><font face="Default" color="#ffffff" >，好久不见</font><font face="Default" color="#ffffff" >……</font>
 story_menu_75502=<font face="Default" color="#ffffff" >王爷，见过</font><font face="Default" color="#ffffff" >圣使</font><font face="Default" color="#ffffff" >，不知您是否察觉到什么？</font>
 story_menu_75503=<font face="Default" color="#ffffff" >圣使，远道而来，不知</font><font face="Default" color="#ffffff" >这杜康酒可喝的习惯</font><font face="Default" color="#ffffff" >？</font>
@@ -187,7 +188,7 @@ story_menu_75518=<font face="Default" color="#ffffff" >图上写着一</font><fo
 story_menu_75519=<font face="Default" color="#ffffff" >阁主，</font><font face="Default" color="#ffffff" >不请自来，多有叨扰</font><font face="Default" color="#ffffff" >。</font>
 story_menu_75520=<font face="Default" color="#ffffff" >没完没了了，看来难以脱身……</font>
 story_menu_75521=<font face="Default" color="#ffffff" >拜见秦王，不知秦王如此“热忱”邀请在下</font><font face="Default" color="#ffffff" >所为何事？</font>
-story_menu_75522=<font face="Default" color="#f71854" >（查看阁主尸体）</font>
+story_menu_75522=<font face="Default" color="#f71854" >（查看阁主遗骸）</font>
 story_menu_75523=<font face="Default" color="#ffffff" >张兄</font><font face="Default" color="#ffffff" >！为何你会在这里？</font>
 story_menu_75524=<font face="Default" color="#ffffff" >接下来</font><font face="Default" color="#ffffff" >，张兄如何打算</font><font face="Default" color="#ffffff" >？</font>
 story_menu_75525=<font face="Default" color="#ffffff" >拜见林盟主……</font>
@@ -323,7 +324,7 @@ storymenu_75536_2=<font face="Default" color="#ff0213" >（看来汉王也听说
 storymenu_75536_3=<font face="Default" color="#f90010" >（神捕？莫非是她？）</font><font face="Default" color="#ffffff" >遵命，</font><font face="Default" color="#ffffff" >在下</font><font face="Default" color="#ffffff" >即刻就去。</font>
 storymenu_75537_1=<font face="Default" color="#ffffff" >汉王方才提起派六扇门神捕调查白鼠之事，我就猜那神捕八成是你！跟我走吧！</font>
 storymenu_75538_1=<font face="Default" color="#ffffff" >这些人怕是大有来头，</font><font face="Default" color="#ffffff" >看来</font><font face="Default" color="#ffffff" >他们与东方世家爆炸脱不了干系。</font><font face="Default" color="#ffffff" >这些人</font><font face="Default" color="#ffffff" >所带的面具，跟在东方世家捡到的那</font><font face="Default" color="#ffffff" >张</font><font face="Default" color="#ffffff" >面具一模一样，由一种稀有金属打造而成的。</font>
-storymenu_75538_2=<font face="Default" color="#ffffff" >看来这背后的黑手想要杀人灭口，掩盖他们不可告人的真正目的。我去那些外域商人的店铺中看看有没有可疑之处。</font>
+storymenu_75538_2=<font face="Default" color="#ffffff" >看来这背后的黑手想要斩草除根，掩盖他们不可告人的真正目的。我去那些外域商人的店铺中看看有没有可疑之处。</font>
 storymenu_75539_1=<font face="Default" color="#ffffff" >按规矩，这火药应该是朝廷严格监管的。也许，这中间真有内奸故意陷害了</font><font face="Default" color="#ffffff" >江南</font><font face="Default" color="#ffffff" >霹雳堂</font><font face="Default" color="#ffffff" >，</font><font face="Default" color="#ffffff" >我先去都察司查问一番。</font>
 storymenu_75540_1=<font face="Default" color="#ffffff" >事不宜迟，快走吧。</font>
 storymenu_75541_1=<font face="Default" color="#ffffff" >我</font><font face="Default" color="#ffffff" >这</font><font face="Default" color="#ffffff" >去几个城门口看看。</font>

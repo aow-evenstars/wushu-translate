@@ -1,5 +1,4 @@
 ﻿
-DialogID_15750=<font face="Default" color="#ffffff" >算你有點眼力，我們在說後宮妃嬪賈呂、宮人魚氏與小宦私下結好，此事傳入了當今聖上耳中。二人懼禍，上吊自殺。為查出後宮還有多少這類醜聞，皇上決定親自審訊賈呂侍婢，竟然查出這侍女要謀殺皇帝。皇上一怒之下，竟是將賈呂相關的所有侍婢全部砍了腦袋！</font>
 DialogID_15754=<font face="Default" color="#ffffff" >你走吧，我不想殺你！</font>
 DialogID_15756=<font face="Default" color="#ffffff" >你是在尋找一位紅衣白髮的女子？我先前是看到有一位你所描述的女子從這裡路過，那女子長的很是漂亮，我看到她騎著一匹白馬去了那唐門的方向，你可以去那邊找找，說不定能夠尋到她。</font>
 DialogID_15759=<font face="Default" color="#ffffff" >原來你認識楚笑，他竟然能將那封十四傳授與你，可見你們關係不簡單，你從這階梯下去然後前往夕佳山山腳下，我帶你去見楚仙兒！</font>
@@ -36,7 +35,6 @@ DialogID_15814=<font face="Default" color="#ffffff" >是大師姐叫你來的嗎
 DialogID_15815=<font face="Default" color="#ffffff" >這畫你自己看吧，畫上是個美麗絕倫的女子，她是誰我倒還真不知道，所以撿到東西也不知道歸還給誰，要不你幫我問問看吧！</font><font face="Default" color="#ffffff" >說不定是誰不小心丟掉的，無論如何，還是找到失主比較好。</font>
 DialogID_15817=<font face="Default" color="#ffffff" >我姓包名打聽，並不是外號叫包打聽，我特別喜歡小動物，有</font><font face="Default" color="#ffffff" >一</font><font face="Default" color="#ffffff" >天我出去遊行時，發現我派外圍的林子裡有只可愛的小猴子，但是它看起來有點消瘦，想必是缺乏吃的食物吧！從那次回來以後我就天天做好吃的甜點，想送給它吃，你可願每天幫我送去？</font>
 DialogID_15818=<font face="Default" color="#ffffff" >找我何事？</font>
-DialogID_15819=<font face="Default" color="#ffffff" >（掌門接過畫，凝視了很久，表情有點驚訝）這，這，哎，告訴你也無妨，這畫上之人正是我的師妹，但她卻愛上了自己的一個魔奴，後來她和魔奴都被趕出門派，再後來就沒有過他們的消息了，有傳言他們交媾之時都七竅出血而亡，所以說身為念蘿壩的弟子，千萬不要愛上男人，否則這就是下場。</font><font face="Default" color="#ffffff" >你記住了嗎？</font>
 DialogID_15820=<font face="Default" color="#ffffff" >呃。。。（包打聽愣住了幾秒後說道）這</font><font face="Default" color="#ffffff" >畫上之人是誰我知道倒是知道，可我</font><font face="Default" color="#ffffff" >不能</font><font face="Default" color="#ffffff" >告訴你</font><font face="Default" color="#ffffff" >，</font><font face="Default" color="#ffffff" >因為當年我們有約定誰也不許再提此事，就算</font><font face="Default" color="#ffffff" >你打死我我也不會說的！</font>
 DialogID_15821=<font face="Default" color="#ffffff" >我日夜精研念蘿壩的武學，發現其中奧秘真是博大精深，恐我這一生都無法全部領會了，但凡我領會之內容，當教與我念蘿壩同門弟子，共同</font><font face="Default" color="#ffffff" >體會</font><font face="Default" color="#ffffff" >這念蘿壩的武學之精粹！</font>
 DialogID_15822=<font face="Default" color="#ffffff" >你可算來了，我找了你好幾個時辰了！</font>
@@ -350,7 +348,6 @@ interactinfo_15863=曹元淮都是在演戲？！不好，杭令主有危險，<
 interactinfo_15864=人已經不在了？問問客棧夥計<a href="findnpc_new,city05,WorldNpc09626" style="HLStype1">石莊</a>，他們去了哪兒
 interactinfo_15865=混蛋，被扶著的一定是杭令主。快去驛站問問<a href="findnpc_new,city05,Transcity05A" style="HLStype1">趙泗</a>。
 interactinfo_15866=事不宜遲，即刻趕往蘇州，他們一定會經過驛站。<a href="findnpc_new,city02,Transcity02A" style="HLStype1">相軍</a>必定知道動向
-interactinfo_15867=再遲搞不定曹元淮這禽獸能做出什麼事情。盡快趕往<a href="findnpc_new,city02,Event_nlb_cc_15867" style="HLStype1">風荷繡閣</a>
 interactinfo_15868=事情終告一段落，和<a href="findnpc_new,city02,npc_nlb_cc_018" style="HLStype1">朱鑒之</a>告個別吧
 interactinfo_15869=<a href="findnpc_new,,Event_nlb_cc_15869" style="HLStype1">Event_nlb_cc_15869</a>
 interactinfo_15870=返回念蘿壩，向<a href="findnpc_new,school15,npc_nlb_001" style="HLStype1">尊主</a>報告花會以及杭令主的情況
@@ -533,7 +530,6 @@ story_15753_1=<font face="Default" color="#ffffff" >近日念蘿壩恐怕要發�
 story_15753_2=<font face="Default" color="#ffffff" >姥姥</font><font face="Default" color="#ffffff" >仍念舊情，不會置念蘿壩於不顧，這樣吧，讓你去皇宮解救念蘿壩的弟子，你可願意？</font>
 story_15753_3=<font face="Default" color="#ffffff" >這個你不必擔心，</font><font face="Default" color="#ffffff" >只要你說出念蘿壩內部暗號：「一舞香蘿繡凡塵，萬花如夢點紅妝」</font><font face="Default" color="#ffffff" >，能救出一個是一個，就靠你了。</font>
 story_15754_1=<font face="Default" color="#ffffff" >少俠不必客氣，</font><font face="Default" color="#ffffff" >這個臭道士，還把令牌給搶走了。</font>
-story_15754_2=<font face="Default" color="#ffffff" >少俠不必多禮，還多虧了少俠以身飼虎，不然還抓不到這淫賊。</font>
 story_15755_1=<font face="Default" color="#ffffff" >想學嗎？</font>
 story_15755_2=<font face="Default" color="#ffffff" >你想學，奴家倒也不是不可以教你。不過，你得先入得我派。</font>
 story_15800_1=<font face="Default" color="#ffffff" >天魔舞是我念蘿壩的一套極為高深的武學。平時跳來消遣作樂，戰鬥時卻也是威力無窮。天魔舞威力驚人，但也是異常難以修煉，每一代天魔令主都是天魔舞修煉最精深的人。如果有一天你的天魔舞超越了我，那麼你就會是天魔令的令主。</font>
@@ -546,7 +542,6 @@ story_15805_3=<font face="Default" color="#ffffff" >這個其實也不算什麼�
 story_15806_1=<font face="Default" color="#ffffff" >呵呵，你也發現了？整個江湖可只有我念蘿壩才有這個能力。我念蘿壩弟子，江湖行走都是雙人同行，一主一奴。女子為主，男子為奴。你現在也已入門，其中奧妙你自己體會吧。</font>
 story_15806_2=<font face="Default" color="#ffffff" >先去找香羅令主杭綵衣，讓杭令主幫你製作念蘿壩秘藥，然後回來找我。</font>
 story_15807_1=<font face="Default" color="#ffffff" >好，下面你的目標就是花會了。這次皇宮大劫，我派在皇宮的棋子被全部清空，需要重新安插內應。經過幾位令主商量討論，最終決定目標是沈康王朱佶焞的大兒子朱鑒之。</font>
-story_15807_2=<font face="Default" color="#ffffff" >朱鑒之生性放蕩紈褲，雖然娶了碧露之後有所收斂，但是依然常常流連於煙花之地。這次朱鑒之來到了成都。你先去成都，找到我派弟子，她在成都青樓的化名是花蕊夫人，協助安插內應。</font>
 story_15808_1=<font face="Default" color="#ffffff" >哈哈哈哈，沒事的。你若對不上，本公子不取笑你就是了。</font>
 story_15808_2=<font face="Default" color="#ffffff" >好，那我先來。今天天氣不錯，白雲飄蕩，就以這白雲為題吧。虛虛復空空，瞬息天地中。假合成此像，吾亦非吾躬。</font>
 story_15809_1=<font face="Default" color="#ffffff" >我的丈夫——曹元淮。</font><font face="Default" color="#ffffff" >可是，可是雁門關之役，他已經死了啊。我一直等他，等來的卻是他的陣亡名單。</font>
@@ -559,7 +554,6 @@ story_menu_15751=<font face="Default" color="#ffffff" >她容貌如此，卻沒�
 story_menu_15752=<font face="Default" color="#ffffff" >拜見姥姥！</font>
 story_menu_15753=<font face="Default" color="#ffffff" >究竟發生了何事？</font>
 story_menu_15754=<font face="Default" color="#ffffff" >既然夫人救我一命，</font><font face="Default" color="#ffffff" >若有用得著的地方，在下必傾力幫夫人辦到。</font>
-story_menu_15755=<font face="Default" color="#ffffff" >夫人，您剛剛那飛鏢很是驚艷，還能在屍體上長花！</font>
 story_menu_15800=<font face="Default" color="#ffffff" >……（這天魔令主可真是冰肌玉膚，風姿綽約）</font>
 story_menu_15801=<font face="Default" color="#ffffff" >……（面容冷艷，好著青衣，猶如月光一樣皎潔清淡。真是個美人胚子）</font>
 story_menu_15802=<font face="Default" color="#ffffff" >……（容顏一如少女般嬌媚可親，神態間多了女子的妖嬈嫵媚，是旁人不能比擬的風致。這副模樣受到門內弟子愛戴也不足為奇）</font>
@@ -877,4 +871,10 @@ hunterinfo_15762=幫助尊主攻克<a href="findnpc_new,city03,npc_nlb_mxm30" st
 hunterinfo_15763=幫助尊主攻克<a href="findnpc_new,city03,npc_nlb_mxm31" style="HLStype1">東廠番子</a>
 collectinfo_15759=去找<a href="findnpc_new,city03,npc_nlb_ww16" style="HLStype1">海桃</a>獲得入門憑證，加入念蘿壩。加入念蘿壩需要符合以下幾個條件：1、唐門或無門派無勢力2、不為各大派代掌門，長老，執事身份3、不在念蘿壩判師24天之內
 collectinfo_15760=去找<a href="findnpc_new,school05,npc_nlb_ww05" style="HLStype1">寒若水</a>獲得入門憑證，加入念蘿壩。加入念蘿壩需要符合以下幾個條件：1、唐門或無門派無勢力2、不為各大派代掌門，長老，執事身份3、不在念蘿壩判師24天之內
+DialogID_15750=<font face="Default" color="#ffffff" >算你有點眼力，我們在說後宮妃嬪賈呂、宮人魚氏與小宦私下結好，此事傳入了當今聖上耳中。二人懼禍，上吊自殺。為查出後宮還有多少這類醜聞，皇上決定親自審訊賈呂侍婢，竟然查出這侍女要暗害皇帝。皇上一怒之下，竟是將賈呂相關的所有侍婢全部砍了腦袋！</font>
+DialogID_15819=<font face="Default" color="#ffffff" >（掌門接過畫，凝視了很久，表情有點驚訝）這，這，哎，告訴你也無妨，這畫上之人正是我的師妹，但她卻愛上了自己的一個魔奴，後來她和魔奴都被趕出門派，再後來就沒有過他們的消息了，有傳言他們合歡之時都七竅出血而亡，所以說身為念蘿壩的弟子，千萬不要愛上男人，否則這就是下場。</font><font face="Default" color="#ffffff" >你記住了嗎？</font>
+interactinfo_15867=再遲搞不定曹元淮這惡人能做出什麼事情。盡快趕往<a href="findnpc_new,city02,Event_nlb_cc_15867" style="HLStype1">風荷繡閣</a>
+story_15754_2=<font face="Default" color="#ffffff" >少俠不必多禮，還多虧了少俠以身飼虎，不然還抓不到這惡賊。</font>
+story_15807_2=<font face="Default" color="#ffffff" >朱鑒之生性狂放紈褲，雖然娶了碧露之後有所收斂，但是依然常常流連於煙花之地。這次朱鑒之來到了成都。你先去成都，找到我派弟子，她在成都秦樓的化名是花蕊夫人，協助安插內應。</font>
+story_menu_15755=<font face="Default" color="#ffffff" >夫人，您剛剛那飛鏢很是驚艷，還能在遺骸上長花！</font>
 

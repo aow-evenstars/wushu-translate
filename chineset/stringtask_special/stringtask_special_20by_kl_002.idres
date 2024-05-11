@@ -101,15 +101,9 @@ story_75714_1=<font face="Default" color="#ffffff" >沒想到東瀛人還是追�
 story_75715_1=<font face="Default" color="#ffffff" >幾日前接到武當傳訊，說虎嘯山莊近來異動頻頻，希望各大門派有所警覺。</font>
 story_75715_2=<font face="Default" color="#ffffff" >此番之事不可小視。武當紫陽真人傳訊而來，說虎嘯山莊今次形式，似乎有西夏一品堂的人出沒。非我族類，其心必異。你且前往虎嘯山莊，務必查明一切！</font>
 story_75716_1=<font face="Default" color="#ffffff" >多年前江湖出現一位神秘殺手，此人名叫趙子亟，一身功夫甚是了得。一連幾次，竟然殺我崑崙數名弟子。我崑崙派出眾多高手，終是將他擊傷，而此人卻仍舊逃出生天。</font>
-story_75716_2=<font face="Default" color="#ffffff" >當時此人身受重傷，我等料想此人定是命不久矣，而後又聽聞趙子亟收到韓家少爺韓似錦的追殺，在太湖邊被打成重傷，所以並未追蹤下去。這麼多年過去，也從未聽說此人消息，沒想到如今竟又聽聞此人出現在蘇州城中。你且前往蘇州，務必打聽清楚。</font>
 story_75717_1=<font face="Default" color="#ffffff" >趙子亟？可真巧了，前兩日來了許多江湖人，也都是來尋這趙子亟的。不知客官所說的是不是此人。</font>
 story_75717_2=<font face="Default" color="#ffffff" >嗨！那些江湖人自稱是什麼錫山韓家，說是來此找趙子亟報當年滅門之仇，那趙子亟一直都在暮色小漁村之中，這些江湖人去了，只怕那小漁村也永無太平之日了。</font>
-story_75718_1=<font face="Default" color="#ffffff" >錫山韓家，若真如此，那這趙子亟定是當年之人無疑。只是有了這錫山韓家查收，我崑崙若想手刃趙子亟定要費一番功夫了。</font>
-story_75718_2=<font face="Default" color="#ffffff" >你且速速前往暮色之村，崑崙仇敵斷不可死在別人手中。若是有人阻攔，殺了便是。只要能親自將那趙子亟斬殺，我定是重重有賞！</font>
-story_75719_1=<font face="Default" color="#ffffff" >近來洛陽附近蝴蝶殺人之事傳的沸沸揚揚，江湖各大門派也都對此作出調查，不過恐怕他們也查不到什麼。</font>
-story_75719_2=<font face="Default" color="#ffffff" >哼！這蝴蝶殺人之術，恐怕乃是有人用秘藥控制蝴蝶侵近人體，將某種無名毒藥傳播開來。而今我正想派你前往青雲堡附近，看能否找到些許線索，只是我們還不知道這蝴蝶毒性如何，此去危險重重，你要千萬小心。</font>
 story_75720_1=<font face="Default" color="#ffffff" >汪長老既然如此交代，相比這秘藥定是萬分重要，只是控制在我崑崙手中只怕不易。</font>
-story_75720_2=<font face="Default" color="#ffffff" >你即刻趕往青雲堡，務必查清這秘藥究竟在何人身上，無論動用何種手段，定要將這秘藥帶回來！</font>
 story_75721_1=<font face="Default" color="#ffffff" >師父他……受傷了，正在閉關。</font>
 story_75721_2=<font face="Default" color="#ffffff" >傷勢不重，</font><font face="Default" color="#ffffff" >只是</font><font face="Default" color="#ffffff" >需要靜養。</font>
 story_75721_3=<font face="Default" color="#ffffff" >雖然將曹亦安視作崑崙新的接班人，卻從未派他去過禁區，關於崑崙山的秘密也閉口不提。曹亦安認為，雲陽子對自己遠不如對路師兄那般仰仗和器重。</font>
@@ -252,7 +246,6 @@ storymenu_75713_9=
 storymenu_75714_1=<font face="Default" color="#ffffff" >我出來許久，</font><font face="Default" color="#ffffff" >也該回去了</font><font face="Default" color="#ffffff" >。</font><font face="Default" color="#fc0515" >（咦？路師兄好像有反應，上去看看）</font>
 storymenu_75715_1=<font face="Default" color="#ffffff" >虎嘯山莊？如此小角色又能鬧出什麼風浪呢？</font>
 storymenu_75715_2=<font face="Default" color="#ffffff" >掌門放心，弟子定不辱使命！</font>
-storymenu_75716_1=<font face="Default" color="#ffffff" >難道諸位高手沒有將之擊殺？</font>
 storymenu_75716_2=<font face="Default" color="#ffffff" >弟子領命！</font>
 storymenu_75717_1=<font face="Default" color="#ffffff" >哦？那些江湖人尋找趙子亟作甚？</font>
 storymenu_75717_2=<font face="Default" color="#ffffff" >多謝小二哥相告。</font>
@@ -343,4 +336,239 @@ useiteminfo_75707=前往停靠<a href="findnpc_new,school25,EventNpc_lzy_tyhg_cz
 useiteminfo_75708=前往停靠<a href="findnpc_new,school25,EventNpc_lzy_tyhg_czxs007_a" style="HLStype1">岸邊</a>的船隻上的<a href="findnpc_new,school25,EventNpc_lzy_tyhg_czxs007" style="HLStype1">破損處</a>，使用<a href="TASK_ITEM,useitem_lzy_tyhgrc002" style="HLStype1">工具</a>修繕船隻
 useiteminfo_75709=前往停靠<a href="findnpc_new,school25,EventNpc_lzy_tyhg_czxs008_a" style="HLStype1">岸邊</a>的船隻上的<a href="findnpc_new,school25,EventNpc_lzy_tyhg_czxs008" style="HLStype1">破損處</a>，使用<a href="TASK_ITEM,useitem_lzy_tyhgrc002" style="HLStype1">工具</a>修繕船隻
 useiteminfo_75710=前往停靠<a href="findnpc_new,school25,EventNpc_lzy_tyhg_czxs009_a" style="HLStype1">岸邊</a>的船隻上的<a href="findnpc_new,school25,EventNpc_lzy_tyhg_czxs009" style="HLStype1">破損處</a>，使用<a href="TASK_ITEM,useitem_lzy_tyhgrc002" style="HLStype1">工具</a>修繕船隻
+DialogID_75760=<font face="Default" color="#ffffff" >嚴亮那邊有些工具可以幫助俠士，俠士路上多加小心，在此先行謝過俠士。</font>
+DialogID_75761=<font face="Default" color="#ffffff" >奚辰已經將情況都告知在下了，這是為你準備的工具，俠士請收好。</font>
+DialogID_75762=<font face="Default" color="#ffffff" >多謝俠士的鼎力相助，這次村莊才有了度過此次</font><font face="Default" color="#ffffff" >緊急</font><font face="Default" color="#ffffff" >災難的可能性。</font>
+DialogID_75763=<font face="Default" color="#ffffff" >孫祥</font><font face="Default" color="#ffffff" >那邊有些工具可以幫助俠士，俠士路上多加小心，在此先行謝過俠士。</font>
+DialogID_75764=<font face="Default" color="#ffffff" >凌震</font><font face="Default" color="#ffffff" >已經將情況都告知在下了，這是為你準備的工具，俠士請收好。</font>
+DialogID_75765=<font face="Default" color="#ffffff" >多謝俠士的鼎力相助，這次村莊才有了度過此次</font><font face="Default" color="#ffffff" >緊急</font><font face="Default" color="#ffffff" >災難的可能性。</font>
+DialogID_75766=<font face="Default" color="#ffffff" >村子內部分物資被一些強盜掠去了，請俠士幫忙將物資追回。</font>
+DialogID_75768=<font face="Default" color="#ffffff" >村子內</font><font face="Default" color="#ffffff" >有些女童被群黑衣人掠去了</font><font face="Default" color="#ffffff" >，請俠士幫忙將</font><font face="Default" color="#ffffff" >女童救回村。</font>
+DialogID_75769=<font face="Default" color="#ffffff" >嗚...嗚...嗚...</font>
+DialogID_75772=<font face="Default" color="#ffffff" >星垂城內倭寇正在秘密研究一種藥水</font><font face="Default" color="#ffffff" >，同時用重兵把守著，可前往重兵把守處找找，看看能否將配方偷出。</font>
+DialogID_75775=<font face="Default" color="#ffffff" >這些是</font><font face="Default" color="#ffffff" >忠魂香，請俠士拿好，前往一些地方，進行祭拜。</font>
+DialogID_75776=<font face="Default" color="#ffffff" >這是為村民檢查身體狀況的工具，請俠士收好，</font><font face="Default" color="#ffffff" >並立刻前去幫忙檢查。</font>
+DialogID_75777=<font face="Default" color="#ffffff" >多謝俠士為在下檢查身體，同時還帶來了些急用的物資。</font>
+DialogID_75778=<font face="Default" color="#ffffff" >這些是星垂城內的倭寇最近的動靜，保存好，帶回去，好好研究下。</font>
+DialogID_75779=<font face="Default" color="#ffffff" >這些是星垂城內的倭寇最近的動靜，保存好，帶回去，好好研究下。</font>
+DialogID_75780=<font face="Default" color="#ffffff" >這些是星垂城內的倭寇最近的動靜，保存好，帶回去，好好研究下。</font>
+DialogID_75782=<font face="Default" color="#ffffff" >俠士，我被一隻突然出現在面前的野獸攻擊了，腳部受傷了，麻煩俠士了。</font>
+DialogID_75787=<font face="Default" color="#ffffff" >這一次辛苦俠士了，在採樣的過程中有沒有什麼特別的發現？</font>
+DialogID_75788=<font face="Default" color="#ffffff" >在樹林的那邊突然聚集了大量的老鼠，具體情況暫時不清楚，俠士務必小心處理。</font>
+DialogID_75789=<font face="Default" color="#ffffff" >多謝俠士的信件，</font><font face="Default" color="#ffffff" >我馬上通知下去，加強村莊的防禦。</font>
+DialogID_75790=<font face="Default" color="#ffffff" >多謝俠士的信件，我馬上通知下去，加強村莊的防禦。</font>
+DialogID_75791=<font face="Default" color="#ffffff" >星垂城現在防衛森嚴，俠士此去需多加小心。</font>
+DialogID_75792=<font face="Default" color="#ffffff" >倭寇的</font><font face="Default" color="#ffffff" >奇襲</font><font face="Default" color="#ffffff" >已經被控制，前去將倭寇登陸的船隻燒燬，這是火把。</font>
+SubmitNpcEx_75760=返回<a href="findnpc_new,scene35,gujian_2021_88_001" style="HLStype1">奚辰</a>處
+SubmitNpcEx_75761=返回<a href="findnpc_new,scene35,gujian_2021_88_01" style="HLStype1">凌震</a>處
+SubmitNpcEx_75762=返回<a href="findnpc_new,scene35,gujian_2021_88_0101" style="HLStype1">訾清</a>處，將結果告知
+SubmitNpcEx_75763=返回<a href="findnpc_new,scene35,npc_202108kfwf_rw010" style="HLStype1">太叔策</a>處，將獲得的配方與藥水交給<a href="findnpc_new,scene35,npc_202108kfwf_rw010" style="HLStype1">太叔策</a>
+SubmitNpcEx_75764=返回<a href="findnpc_new,scene35,npc_202108kfwf_rw010" style="HLStype1">太叔策</a>處，將處理結果告知
+SubmitNpcEx_75765=前往<a href="findnpc_new,scene35,gujian_2021_88_0301" style="HLStype1">孔彬</a>處詳細談談情況
+SubmitNpcEx_75766=和<a href="findnpc_new,scene35,gujian_2021_88_0303" style="HLStype1">潘群</a>詳細談談情況
+SubmitNpcEx_75767=前往<a href="findnpc_new,scene35,gujian_2021_88_0304" style="HLStype1">阮輝信</a>處詳細談談情況
+SubmitNpcEx_75768=詢問<a href="findnpc_new,scene35,gujian_2021_88_0309" style="HLStype1">歐陽澤</a>現在的情況
+SubmitNpcEx_75769=詢問<a href="findnpc_new,scene35,gujian_2021_88_0310" style="HLStype1">韓祥</a>檢測的情況
+SubmitNpcEx_75770=將現在的情況告知<a href="findnpc_new,scene35,gujian_2021_88_0311" style="HLStype1">欒致</a>
+SubmitNpcEx_75771=將現在的情況告知<a href="findnpc_new,scene35,gujian_2021_88_0312" style="HLStype1">歐陽俊</a>
+SubmitNpcEx_75772=將現在的情況告知<a href="findnpc_new,scene35,gujian_2021_88_0315" style="HLStype1">澹台泰</a>
+SubmitNpcEx_75773=將收集的武器交給<a href="findnpc_new,scene35,gujian_2021_88_0316" style="HLStype1">扈彪朗</a>，讓其進行統一維護
+SubmitNpcEx_75774=將修繕的情況告知<a href="findnpc_new,scene35,gujian_2021_88_0317" style="HLStype1">趙群</a>
+SubmitNpcEx_75775=將事務的情況告知<a href="findnpc_new,scene35,npc_202108kfwf_rw010" style="HLStype1">太叔策</a>
+SubmitNpcEx_75776=將事務的情況告知<a href="findnpc_new,scene35,npc_202108kfwf_rw001" style="HLStype1">繆櫻</a>
+SubmitNpcEx_75777=將事務的情況告知<a href="findnpc_new,scene35,npc_202108kfwf_rw002" style="HLStype1">白松奚</a>
+SubmitNpcEx_75778=將事務的情況告知<a href="findnpc_new,scene35,npc_202108kfwf_rw003" style="HLStype1">戴語書</a>
+SubmitNpcEx_75779=將事務的情況告知<a href="findnpc_new,scene35,npc_202108kfwf_rw004" style="HLStype1">瑤見</a>
+SubmitNpcEx_75780=將事務的情況告知<a href="findnpc_new,scene35,npc_202108kfwf_rw005" style="HLStype1">唐盈弦</a>
+SubmitNpcEx_75781=將事務的情況告知<a href="findnpc_new,scene35,npc_202108kfwf_rw006" style="HLStype1">衣若熏</a>
+SubmitNpcEx_75782=將事務的情況告知<a href="findnpc_new,scene35,npc_202108kfwf_rw007" style="HLStype1">天璣子</a>
+SubmitNpcEx_75783=將事務的情況告知<a href="findnpc_new,scene35,npc_202108kfwf_rw008" style="HLStype1">祖鏡禪師</a>
+SubmitNpcEx_75784=將情況告知<a href="findnpc_new,scene35,Eventnpc_txgujxhf_001" style="HLStype1">夏侯飛</a>(<font color="#FF0000">註：夏侯飛只在奇襲時間內才出現在星垂城場景內</font>)
+collectinfo_75762=將<a href="findnpc_new,scene35,Gather_gujian_001" style="HLStype1">物資</a>收集起來，再與<a href="findnpc_new,scene35,gujian_2021_88_0101" style="HLStype1">訾清</a>交談下
+collectinfo_75763=進入屋內，翻找<a href="findnpc_new,scene35,Gather_gujian_002" style="HLStype1">箱子</a>，看看有沒有什麼發現
+collectinfo_75765=進入屋內，翻找<a href="findnpc_new,scene35,Gather_gujian_003" style="HLStype1">箱子</a>，看看有沒有什麼發現
+collectinfo_75766=前往堆置物資的<a href="findnpc_new,scene35,Gather_gujian_004" style="HLStype1">物資點</a>處獲得所需物資
+collectinfo_75767=前往星垂城附近尋找<a href="findnpc_new,scene35,Gather_gujian_008" style="HLStype1">武器堆</a>，並收集武器
+collectinfo_75768=前往星垂城附近尋找<a href="findnpc_new,scene35,Gather_gujian_009" style="HLStype1">武器堆</a>，並收集武器
+collectinfo_75769=前往星垂城附近尋找<a href="findnpc_new,scene35,Gather_gujian_010" style="HLStype1">武器堆</a>，並收集武器
+hunterinfo_75761=前往強盜據點擊敗<a href="findnpc_new,scene35,monm_gujian_001" style="HLStype1">蒙面強盜</a>
+hunterinfo_75763=前往<a href="findnpc_new,scene35,monm_gujian_002" style="HLStype1">黑衣人</a>窩點，擊退黑衣人解救孩童
+hunterinfo_75764=擊退重兵把守的屋子前的<a href="findnpc_new,scene35,monm_gujian_0101" style="HLStype1">守衛</a>
+hunterinfo_75765=擊退重兵把守的屋子前的<a href="findnpc_new,scene35,monm_gujian_0102" style="HLStype1">守衛</a>
+hunterinfo_75766=前往傷人凶獸<a href="findnpc_new,scene35,Boss_gujian202188_0101" style="HLStype1">蛇</a>的藏匿處，將其擊退
+hunterinfo_75767=前往傷人凶獸<a href="findnpc_new,scene35,Boss_gujian202188_0102" style="HLStype1">白虎</a>的藏匿處，將其擊退
+hunterinfo_75768=前往傷人凶獸<a href="findnpc_new,scene35,Boss_gujian202188_0103" style="HLStype1">蠍</a>的藏匿處，將其擊退
+hunterinfo_75769=前往傷人凶獸<a href="findnpc_new,scene35,Boss_gujian202188_0104" style="HLStype1">猴</a>的藏匿處，將其擊退
+hunterinfo_75770=前往傷人凶獸<a href="findnpc_new,scene35,Boss_gujian202188_0105" style="HLStype1">火龜</a>的藏匿處，將其擊退
+hunterinfo_75771=前往傷人凶獸<a href="findnpc_new,scene35,Boss_gujian202188_0106" style="HLStype1">鷹</a>的藏匿處，將其擊退
+hunterinfo_75772=前往傷人凶獸<a href="findnpc_new,scene35,Boss_gujian202188_0107" style="HLStype1">虎</a>的藏匿處，將其擊退
+hunterinfo_75773=將聚集起來的<a href="findnpc_new,scene35,hurnt_gsguj_20210808_001" style="HLStype1">毒鼠</a>擊退
+hunterinfo_75774=將出現的<a href="findnpc_new,scene35,hurnt_gsguj_20210808_002" style="HLStype1">毒鼠王</a>擊退
+hunterinfo_75775=潛入星垂城擒獲<a href="findnpc_new,scene35,boss_guj_20210808yhd_001" style="HLStype1">倭寇高手</a>
+hunterinfo_75776=潛入星垂城擒獲<a href="findnpc_new,scene35,boss_guj_20210808yhd_002" style="HLStype1">倭寇高手</a>
+hunterinfo_75784=擊退奇襲的倭寇士兵，阻止其登陸
+hunterinfo_75785=擊退奇襲的倭寇高手，阻止其登陸
+hunterinfo_75786=擊退奇襲的倭寇精銳，阻止其登陸
+interactinfo_75760=前往<a href="findnpc_new,scene35,gujian_2021_88_001" style="HLStype1">奚辰</a>處瞭解下村莊的具體情況
+interactinfo_75761=從<a href="findnpc_new,scene35,gujian_2021_88_002" style="HLStype1">嚴亮</a>處獲取工具幫助村莊
+interactinfo_75762=將獲得的水、食物全部交給<a href="findnpc_new,scene35,gujian_2021_88_001" style="HLStype1">奚辰</a>，讓其分配給村民
+interactinfo_75763=前往<a href="findnpc_new,scene35,gujian_2021_88_01" style="HLStype1">凌震</a>處瞭解下村莊的具體情況
+interactinfo_75764=從<a href="findnpc_new,scene35,gujian_2021_88_02" style="HLStype1">孫祥</a>處獲取工具幫助村莊
+interactinfo_75765=將獲得的水、食物全部交給<a href="findnpc_new,scene35,gujian_2021_88_01" style="HLStype1">凌震</a>，讓其分配給村民
+interactinfo_75766=找<a href="findnpc_new,scene35,gujian_2021_88_0101" style="HLStype1">訾清</a>交談，瞭解這一地區的情況
+interactinfo_75767=前往<a href="findnpc_new,scene35,Event_gujzlcy0102" style="HLStype1">物資存放點</a>將重要物資取回
+interactinfo_75768=再次與<a href="findnpc_new,scene35,gujian_2021_88_0101" style="HLStype1">訾清</a>交談，瞭解這一地區的情況
+interactinfo_75769=與<a href="findnpc_new,scene35,gujian_2021_88_0102" style="HLStype1">女童</a>交談
+interactinfo_75770=將女童救回的消息告知<a href="findnpc_new,scene35,gujian_2021_88_0101" style="HLStype1">訾清</a>
+interactinfo_75771=前往<a href="findnpc_new,scene35,Event_gujzlcy0201" style="HLStype1">星垂城附近</a>探查消息
+interactinfo_75772=與<a href="findnpc_new,scene35,gujian_2021_88_0201" style="HLStype1">內應</a>交談，獲取星垂城內情報
+interactinfo_75773=潛入<a href="findnpc_new,scene35,Event_gujzlcy0202" style="HLStype1">星垂城</a>，小心行事，別被發現
+interactinfo_75774=再去<a href="findnpc_new,scene35,Event_gujzlcy0203" style="HLStype1">星垂城</a>別處找找
+interactinfo_75775=前往<a href="findnpc_new,scene35,gujian_2021_88_0301" style="HLStype1">孔彬</a>處，獲取忠魂香
+interactinfo_75776=從<a href="findnpc_new,scene35,gujian_2021_88_0302" style="HLStype1">嚴若</a>處獲得檢查村民的工具
+interactinfo_75777=與<a href="findnpc_new,scene35,gujian_2021_88_0303" style="HLStype1">潘群</a>交談，交給其物資
+interactinfo_75778=從<a href="findnpc_new,scene35,gujian_2021_88_0305" style="HLStype1">夏侯鈞</a>獲取最近星垂城的動靜
+interactinfo_75779=從<a href="findnpc_new,scene35,gujian_2021_88_0306" style="HLStype1">司空朗</a>獲取最近星垂城的動靜
+interactinfo_75780=從<a href="findnpc_new,scene35,gujian_2021_88_0307" style="HLStype1">歐陽剛</a>獲取最近星垂城的動靜
+interactinfo_75781=前往樹林內的<a href="findnpc_new,scene35,Event_gujzlcy0303" style="HLStype1">巡視點</a>附近巡視
+interactinfo_75782=與<a href="findnpc_new,scene35,gujian_2021_88_0309" style="HLStype1">歐陽澤</a>交談，瞭解下情況
+interactinfo_75783=迅速返回，從<a href="findnpc_new,scene35,Gather_gujian_005" style="HLStype1">棕木箱子</a>內獲取藥品
+interactinfo_75784=前往該村莊的糧食<a href="findnpc_new,scene35,Event_gujzlcy0304" style="HLStype1">存放點</a>
+interactinfo_75785=對該村的<a href="findnpc_new,scene35,Gather_gujian_006" style="HLStype1">糧食</a>進行採樣
+interactinfo_75786=對該村的<a href="findnpc_new,scene35,Gather_gujian_007" style="HLStype1">水源</a>進行採樣
+interactinfo_75787=將食物、水源的樣本交給<a href="findnpc_new,scene35,gujian_2021_88_0310" style="HLStype1">韓祥</a>，讓其進行檢測
+interactinfo_75788=在<a href="findnpc_new,scene35,gujian_2021_88_0311" style="HLStype1">欒致</a>處瞭解下老鼠聚集地的情況
+interactinfo_75789=將信件交給<a href="findnpc_new,scene35,gujian_2021_88_0313" style="HLStype1">慕容梁</a>，讓其通知村民
+interactinfo_75790=將信件交給<a href="findnpc_new,scene35,gujian_2021_88_0314" style="HLStype1">司寇鵬</a>，讓其通知村民
+interactinfo_75791=從<a href="findnpc_new,scene35,gujian_2021_88_0315" style="HLStype1">澹台泰</a>處瞭解下星垂城的情況
+interactinfo_75792=從<a href="findnpc_new,scene35,Eventnpc_txgujxhf_001" style="HLStype1">夏侯飛</a>處獲得火把，前去把倭寇的船燒燬
+okmenu_75760=<font face="Default" color="#ffffff" >我這就去找嚴亮討要工具</font><font face="Default" color="#ffffff" >。</font>
+okmenu_75761=<font face="Default" color="#ffffff" >多謝，我這就去尋找食物與水源</font><font face="Default" color="#ffffff" >。</font>
+okmenu_75762=<font face="Default" color="#ffffff" >請收好這些物資</font><font face="Default" color="#ffffff" >。</font>
+okmenu_75763=<font face="Default" color="#ffffff" >我這就去找孫祥討要工具。</font>
+okmenu_75764=<font face="Default" color="#ffffff" >多謝，我這就去尋找食物與水源。</font>
+okmenu_75765=<font face="Default" color="#ffffff" >請收好這些物資。</font>
+okmenu_75766=<font face="Default" color="#ffffff" >我這就去</font><font face="Default" color="#ffffff" >！</font>
+okmenu_75768=<font face="Default" color="#ffffff" >我這就去！</font>
+okmenu_75769=<font face="Default" color="#ffffff" >壞人已經被打跑了，走回家吧！</font>
+okmenu_75770=<font face="Default" color="#ffffff" >這邊事情已經告一段落，我將回去稟告</font><font face="Default" color="#ffffff" >！</font>
+okmenu_75772=<font face="Default" color="#ffffff" >我這就去！</font>
+okmenu_75775=<font face="Default" color="#ffffff" >我這就去！</font>
+okmenu_75776=<font face="Default" color="#ffffff" >我這就去！</font>
+okmenu_75777=<font face="Default" color="#ffffff" >嗯。</font>
+okmenu_75778=<font face="Default" color="#ffffff" >好的，告辭</font>
+okmenu_75779=<font face="Default" color="#ffffff" >好的，告辭</font>
+okmenu_75780=<font face="Default" color="#ffffff" >好的，告辭</font>
+okmenu_75782=<font face="Default" color="#ffffff" >我這就去取些藥緊急處理下</font>
+okmenu_75787=<font face="Default" color="#ffffff" >沒有呢，這是樣本請收好</font>
+okmenu_75788=<font face="Default" color="#ffffff" >嗯，我會小心的</font>
+okmenu_75789=<font face="Default" color="#ffffff" >好的。</font>
+okmenu_75790=<font face="Default" color="#ffffff" >好的。</font>
+okmenu_75791=<font face="Default" color="#ffffff" >嗯</font>
+okmenu_75792=<font face="Default" color="#ffffff" >我這就去燒燬船隻！</font>
+specialinfo_1519=完成3個星垂城附近的支線事務
+useiteminfo_75760=前往<a href="findnpc_new,scene35,Event_gujzlcy001" style="HLStype1">取水點</a>，通過使用<a href="TASK_ITEM,item_guj_20210808_001" style="HLStype1">工具箱</a>為村莊獲得足夠的水源
+useiteminfo_75761=前往<a href="findnpc_new,scene35,Event_gujzlcy002" style="HLStype1">抓魚點</a>，通過使用<a href="TASK_ITEM,item_guj_20210808_001" style="HLStype1">工具箱</a>為村莊獲得足夠的魚類食物
+useiteminfo_75762=通過使用<a href="TASK_ITEM,item_guj_20210808_001" style="HLStype1">工具箱</a>來抓捕<a href="findnpc_new,scene35,gujian_2021_88_003" style="HLStype1">小豬崽</a>，將其飼養在村莊內
+useiteminfo_75763=前往<a href="findnpc_new,scene35,Event_gujzlcy01" style="HLStype1">取水點</a>，通過使用<a href="TASK_ITEM,item_guj_20210808_01" style="HLStype1">工具箱</a>為村莊獲得足夠的水源
+useiteminfo_75764=前往<a href="findnpc_new,scene35,Event_gujzlcy02" style="HLStype1">抓魚點</a>，通過使用<a href="TASK_ITEM,item_guj_20210808_01" style="HLStype1">工具箱</a>為村莊獲得足夠的魚類食物
+useiteminfo_75765=通過使用<a href="TASK_ITEM,item_guj_20210808_01" style="HLStype1">工具箱</a>來抓捕<a href="findnpc_new,scene35,gujian_2021_88_03" style="HLStype1">小豬崽</a>，將其飼養在村莊內
+useiteminfo_75766=前往<a href="findnpc_new,scene35,Event_gujzlcy0301" style="HLStype1">拜祭點</a>，使用<a href="TASK_ITEM,useitem_20210808_guji_001" style="HLStype1">忠魂香</a>進行祭拜
+useiteminfo_75767=前往<a href="findnpc_new,scene35,Event_gujzlcy0302" style="HLStype1">拜祭點</a>，使用<a href="TASK_ITEM,useitem_20210808_guji_001" style="HLStype1">忠魂香</a>進行祭拜
+useiteminfo_75768=通過使用<a href="TASK_ITEM,useitem_20210808_guji_002" style="HLStype1">工具</a>，為<a href="findnpc_new,scene35,gujian_2021_88_0303" style="HLStype1">潘群</a>檢查身體狀況
+useiteminfo_75769=給<a href="findnpc_new,scene35,gujian_2021_88_0309" style="HLStype1">歐陽澤</a>使用<a href="TASK_ITEM,useitem_20210808_guji_003" style="HLStype1">藥水</a>，為其進行醫治
+useiteminfo_75770=前往需要鞏固的<a href="findnpc_new,scene35,Event_gujzlcy0305" style="HLStype1">修繕點</a>，使用<a href="TASK_ITEM,useitem_20210808_guji_004" style="HLStype1">修繕工具</a>進行鞏固
+useiteminfo_75771=前往需要鞏固的<a href="findnpc_new,scene35,Event_gujzlcy0306" style="HLStype1">修繕點</a>，使用<a href="TASK_ITEM,useitem_20210808_guji_004" style="HLStype1">修繕工具</a>進行鞏固
+useiteminfo_75772=前往需要鞏固的<a href="findnpc_new,scene35,Event_gujzlcy0307" style="HLStype1">修繕點</a>，使用<a href="TASK_ITEM,useitem_20210808_guji_004" style="HLStype1">修繕工具</a>進行鞏固
+useiteminfo_75773=前往需要鞏固的<a href="findnpc_new,scene35,Event_gujzlcy0308" style="HLStype1">修繕點</a>，使用<a href="TASK_ITEM,useitem_20210808_guji_004" style="HLStype1">修繕工具</a>進行鞏固
+useiteminfo_75784=使用<a href="TASK_ITEM,useitem_18a_guj_001" style="HLStype1">火把</a>將倭寇的登陸船隻燒燬
+DialogID_75770=<font face="Default" color="#ffffff" >這次全靠俠士的鼎力相助，將村子丟失的物資找回了，同時將被劫持女童也一併救回了！</font>
+story_75719_1=<font face="Default" color="#ffffff" >近來洛陽附近蝴蝶害人之事傳的沸沸揚揚，江湖各大門派也都對此作出調查，不過恐怕他們也查不到什麼。</font>
+story_75719_2=<font face="Default" color="#ffffff" >哼！這蝴蝶害人之術，恐怕乃是有人用秘藥控制蝴蝶侵近人體，將某種無名毒藥傳播開來。而今我正想派你前往青雲堡附近，看能否找到些許線索，只是我們還不知道這蝴蝶毒性如何，此去危險重重，你要千萬小心。</font>
+DialogID_75745=<font face="Default" color="#ffffff" >這是一封老卒寄給家人，告知即將退伍歸鄉的信件，不知為何竟然丟棄在</font><font face="Default" color="#ffffff" >這</font><font face="Default" color="#ffffff" >。</font>
+DialogID_75746=<font face="Default" color="#ffffff" >我不需要這些，你給我點吃的吧。</font>
+DialogID_75748=<font face="Default" color="#ffffff" >墓園中最近有狼群出沒，要小心被狼群襲擊。</font>
+DialogID_75749=<font face="Default" color="#ffffff" >我竟然一直以為他們躲著我，沒想到他們已經...</font>
+collectinfo_75745=<a href="findnpc_new,school26,npc_shp_xingtc_001" style="HLStype1">老乞丐</a>不要你的錢，想讓你給他幾個饅頭
+hunterinfo_75746=繼續往前走，發現前方有點騷亂，擊敗尋事的<a href="findnpc_new,school26,npc_shp_xingtc_002" style="HLStype1">官差</a>。
+hunterinfo_75748=擊敗<a href="findnpc_new,school26,npc_shp_xingtc_004" style="HLStype1">野狼</a>
+interactinfo_75744=前往<a href="findnpc_new,school26,eventnpc_shp_xingtc_003" style="HLStype1">卸甲村</a>查看
+interactinfo_75745=四處看了看，牆角處有個<a href="findnpc_new,school26,npc_shp_xingtc_006" style="HLStype1">東西</a>引起了你的注意。
+interactinfo_75746=<a href="findnpc_new,school26,npc_shp_xingtc_001" style="HLStype1">老乞丐</a>表示不需要你的碎銀，只需要給他5個饅頭就夠了
+interactinfo_75747=前往<a href="findnpc_new,school26,eventnpc_shp_xingtc_004" style="HLStype1">新村</a>，尋找老卒。
+interactinfo_75748=聽取<a href="findnpc_new,school26,npc_shp_xingtc_007" style="HLStype1">老乞丐</a>的建議，準備離開墓園
+interactinfo_75749=安慰<a href="findnpc_new,school26,npc_shp_xingtc_008" style="HLStype1">老卒</a>，並將老卒之事回稟都督
+okmenu_75745=<font face="Default" color="#ffffff" >查看家書</font>
+okmenu_75746=<font face="Default" color="#ffffff" >我這正好有些饅頭，您收下。</font>
+okmenu_75748=<font face="Default" color="#ffffff" >多謝老者關心。</font>
+okmenu_75749=<font face="Default" color="#ffffff" >他們都是戰爭中的犧牲者，節哀。</font>
+story_75745_1=<font face="Default" color="#ffffff" >卸甲村村民，都</font><font face="Default" color="#ffffff" >走</font><font face="Default" color="#ffffff" >光了。</font>
+story_75745_2=<font face="Default" color="#ffffff" >你可以朝著那邊走去，或許會找到些什麼！</font>
+story_75746_1=<font face="Default" color="#ffffff" >戰事連綿，強征徭役。</font>
+story_75746_2=<font face="Default" color="#ffffff" >卸甲村這些年來遭到官府的盤剝，於是舉村倉促搬遷，老卒的兒子本想寄信請回老卒頤養天年，但不料被官差拉去服徭役，不幸遭遇瓦剌騎兵。</font>
+story_75746_3=<font face="Default" color="#ffffff" >老卒兒子</font><font face="Default" color="#ffffff" >被砍傷後逃回村子，凍死在半路上，妻兒也自盡而死，而老卒一直不知去向。</font>
+story_75747_1=<font face="Default" color="#ffffff" >為何前來墓園</font><font face="Default" color="#ffffff" >。</font>
+story_75747_2=<font face="Default" color="#ffffff" >我不知道你找的是哪個，你四周找找吧</font><font face="Default" color="#ffffff" >。</font>
+story_75748_1=<font face="Default" color="#ffffff" >未曾想白髮人送黑髮人，他們一家怎的都死了呢。</font>
+story_75749_1=<font face="Default" color="#ffffff" >我們所能做的就是在活著的時候為身邊的親朋而戰。</font>
+story_menu_75745=<font face="Default" color="#ffffff" >不知老者可知卸甲村村民搬遷之事？</font>
+story_menu_75746=<font face="Default" color="#ffffff" >這些官差怎的如此欺人！</font>
+story_menu_75747=<font face="Default" color="#ffffff" >請問這邊是否是卸甲村墓園之所。</font>
+story_menu_75748=<font face="Default" color="#ffffff" >自從歸鄉後，卸甲村已空無一人，找不到家人，便在此等待。</font>
+story_menu_75749=<font face="Default" color="#ffffff" >只要有利益爭鬥，戰爭永遠不會停止，即使大明與瓦剌覆滅，這片土地上的百姓還會經歷戰爭。</font>
+storyinfo_75745=聽<a href="findnpc_new,school26,npc_shp_xingtc_001" style="HLStype1">老乞丐</a>訴說卸甲村村民之事
+storyinfo_75746=聽<a href="findnpc_new,school26,npc_shp_xingtc_003" style="HLStype1">村民</a>訴說卸甲村的故事
+storyinfo_75747=詢問<a href="findnpc_new,school26,npc_shp_xingtc_007" style="HLStype1">老乞丐</a>關於老卒墓地的位置
+storyinfo_75748=聽<a href="findnpc_new,school26,npc_shp_xingtc_008" style="HLStype1">老卒</a>訴說緣由
+storyinfo_75749=聽<a href="findnpc_new,school26,newmp_xingtb_002" style="HLStype1">郭峰</a>訴說
+storymenu_75745_1=<font face="Default" color="#ffffff" >請老者告知</font><font face="Default" color="#ffffff" >他們搬遷去哪了</font><font face="Default" color="#ffffff" >？</font>
+storymenu_75745_2=<font face="Default" color="#ffffff" >多謝老者</font><font face="Default" color="#ffffff" >，這是一些碎銀子，請收下。</font>
+storymenu_75746_1=<font face="Default" color="#ffffff" >兩國交戰竟然導致邊地百姓的生活艱難，可否告知老卒家屬的下落。</font>
+storymenu_75746_2=<font face="Default" color="#ffffff" >後來呢</font><font face="Default" color="#ffffff" >？</font>
+storymenu_75746_3=<font face="Default" color="#ffffff" >世事儘是造化弄人。</font>
+storymenu_75747_1=<font face="Default" color="#ffffff" >給一位前輩的家人上柱香</font><font face="Default" color="#ffffff" >。</font>
+storymenu_75747_2=<font face="Default" color="#ffffff" >好的，那我先四下看看</font><font face="Default" color="#ffffff" >。</font>
+storymenu_75748_1=<font face="Default" color="#ffffff" >他們只是活在了一個不好的</font><font face="Default" color="#ffffff" >時代</font><font face="Default" color="#ffffff" >而已。</font>
+storymenu_75749_1=<font face="Default" color="#ffffff" >我們現在唯一能做的是保護好那些退伍老卒</font><font face="Default" color="#ffffff" >，避免悲劇的再次發生。</font>
+DialogID_75743=<font face="Default" color="#ffffff" >按照你的敘述，這種秘藥只能為我們所用，你速去報告</font><font face="Default" color="#ffffff" >大將軍</font><font face="Default" color="#ffffff" >！</font>
+interactinfo_75742=<a href="findnpc_new,city04,EventNpc_xtshp_001" style="HLStype1">青雲堡附近</a>查探
+interactinfo_75743=先回去問問<a href="findnpc_new,school26,newmp_xingtb_002" style="HLStype1">郭峰</a>的意見
+okmenu_75743=<font face="Default" color="#ffffff" >弟子這便前去稟告</font><font face="Default" color="#ffffff" >大將軍</font><font face="Default" color="#ffffff" >。</font>
+story_75740_1=<font face="Default" color="#ffffff" >幾日前接到武當傳訊，說虎嘯山莊近來異動頻頻，希望各大門派有所警覺。</font>
+story_75740_2=<font face="Default" color="#ffffff" >此番之事不可小視。武當紫陽真人傳訊而來，說虎嘯山莊今次形式，似乎有西夏一品堂的人出沒。非我族類，其心必異。你且前往虎嘯山莊，務必查明一切！</font>
+story_75741_1=<font face="Default" color="#ffffff" >多年前江湖出現一位神秘殺手，此人名叫趙子亟，一身功夫甚是了得。一連幾次，竟然殺我刑天城數名弟子。我刑天城派出眾多高手，終是將他擊傷，而此人卻仍舊逃出生天。</font>
+story_75741_2=<font face="Default" color="#ffffff" >當時此人身受重傷，我等料想此人定是命不久矣，而後又聽聞趙子亟受到韓家少爺韓似錦的追殺，在太湖邊被打成重傷，所以並未追蹤下去。這麼多年過去，也從未聽說此人消息，沒想到如今竟又聽聞此人出現在蘇州城中。你且前往蘇州，務必打聽清楚。</font>
+story_75742_1=<font face="Default" color="#ffffff" >錫山韓家，若真如此，那這趙子亟定是當年之人無疑。只是有了這錫山韓家插手，我刑天城若想手刃趙子亟定要費一番功夫了。</font>
+story_75743_1=<font face="Default" color="#ffffff" >近來洛陽附近蝴蝶害人之事傳的沸沸揚揚，江湖各大門派也都對此作出調查，不過恐怕他們也查不到什麼。</font>
+story_75743_2=<font face="Default" color="#ffffff" >哼！這蝴蝶害人之術，恐怕乃是有人用秘藥控制蝴蝶侵近人體，將某種無名毒藥傳播開來。而今我正想派你前往青雲堡附近，看能否找到些許線索，只是我們還不知道這蝴蝶毒性如何，此去危險重重，你要千萬小心。</font>
+story_75744_1=<font face="Default" color="#ffffff" >左都督既然如此交代，相比這秘藥定是萬分重要，只是控制在我刑天城手中只怕不易。</font>
+story_menu_75740=<font face="Default" color="#ffffff" >不知掌門召見有何事吩咐？</font>
+story_menu_75741=<font face="Default" color="#ffffff" >不知</font><font face="Default" color="#ffffff" >大將軍</font><font face="Default" color="#ffffff" >所指何人？</font>
+story_menu_75742=<font face="Default" color="#ffffff" >啟稟</font><font face="Default" color="#ffffff" >大將軍</font><font face="Default" color="#ffffff" >，那錫山韓家已經帶人前往暮色之村找趙子亟報仇而去。</font>
+story_menu_75743=<font face="Default" color="#ffffff" >不知</font><font face="Default" color="#ffffff" >大將軍</font><font face="Default" color="#ffffff" >所說何事？</font>
+story_menu_75744=<font face="Default" color="#ffffff" >稟告</font><font face="Default" color="#ffffff" >大將軍</font><font face="Default" color="#ffffff" >，</font><font face="Default" color="#ffffff" >左都督</font><font face="Default" color="#ffffff" >說此秘藥極為重要，我</font><font face="Default" color="#ffffff" >刑天城</font><font face="Default" color="#ffffff" >定要將之控制在手中。</font>
+storyinfo_75740=近來發生諸多事情，且聽<a href="findnpc_new,school26,newmp_xingtb_001" style="HLStype1">刑烈</a>一一道來
+storyinfo_75741=與刑天城大將軍<a href="findnpc_new,school26,newmp_xingtb_001" style="HLStype1">刑烈</a>交談
+storyinfo_75742=將所知之事告知大將軍<a href="findnpc_new,school26,newmp_xingtb_001" style="HLStype1">刑烈</a>，並聽從大將軍吩咐
+storyinfo_75743=與刑天城大將軍<a href="findnpc_new,school26,newmp_xingtb_001" style="HLStype1">刑烈</a>交談
+storyinfo_75744=與左都督發現之事告知大將軍<a href="findnpc_new,school26,newmp_xingtb_001" style="HLStype1">刑烈</a>
+storymenu_75740_1=<font face="Default" color="#ffffff" >虎嘯山莊？如此小角色又能鬧出什麼風浪呢？</font>
+storymenu_75740_2=<font face="Default" color="#ffffff" >掌門放心，弟子定不辱使命！</font>
+storymenu_75741_2=<font face="Default" color="#ffffff" >弟子領命！</font>
+storymenu_75742_1=<font face="Default" color="#ffffff" >不知</font><font face="Default" color="#ffffff" >大將軍</font><font face="Default" color="#ffffff" >有何計劃？</font>
+storymenu_75743_1=<font face="Default" color="#ffffff" >大將軍</font><font face="Default" color="#ffffff" >如何知道？</font>
+storymenu_75743_2=<font face="Default" color="#ffffff" >大將軍</font><font face="Default" color="#ffffff" >放心，弟子定不負所望。</font>
+storymenu_75744_1=<font face="Default" color="#ffffff" >不知大將軍有何計劃？</font>
+storymenu_75744_2=<font face="Default" color="#ffffff" >弟子領命！</font>
+story_75716_2=<font face="Default" color="#ffffff" >當時此人身受重傷，我等料想此人定是命不久矣，而後又聽聞趙子亟受到韓家少爺韓似錦的追殺，在太湖邊被打成重傷，所以並未追蹤下去。這麼多年過去，也從未聽說此人消息，沒想到如今竟又聽聞此人出現在蘇州城中。你且前往蘇州，務必打聽清楚。</font>
+story_75718_1=<font face="Default" color="#ffffff" >錫山韓家，若真如此，那這趙子亟定是當年之人無疑。只是有了這錫山韓家插手，我崑崙若想手刃趙子亟定要費一番功夫了。</font>
+story_75742_2=<font face="Default" color="#ffffff" >既然如此，便等他們鬥個你死我活。我們坐取漁翁之利！</font>
+storymenu_75742_2=<font face="Default" color="#ffffff" >弟子領命。</font>
+story_75718_2=<font face="Default" color="#ffffff" >既然如此，便等他們鬥個你死我活。我們坐取漁翁之利！</font>
+story_75720_2=<font face="Default" color="#ffffff" >你的情報十分重要，本門重重有賞。 </font>
+story_75744_2=<font face="Default" color="#ffffff" >此事與我猜測的無異，我已派人去奪取秘藥。靜候佳音吧！</font>
+hunterinfo_75760=通過攻克<a href="findnpc_new,scene35,Boss_gujian202188_001" style="HLStype1">野豬</a>為村莊獲得足夠的肉類食物
+hunterinfo_75762=通過攻克<a href="findnpc_new,scene35,Boss_gujian202188_01" style="HLStype1">野豬</a>為村莊獲得足夠的肉類食物
+storymenu_75716_1=<font face="Default" color="#ffffff" >難道諸位高手沒有將之攻克？</font>
+storymenu_75741_1=<font face="Default" color="#ffffff" >難道諸位高手沒有將之攻克？</font>
 

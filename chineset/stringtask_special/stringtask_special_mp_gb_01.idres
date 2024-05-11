@@ -4,7 +4,6 @@ DialogID_44353=但是什麼，你還不走麼！
 DialogID_6001=  原來是新入幫的弟子，想來你也知道，我丐幫弟子雖然生活清苦，卻勝在無拘無束、行事灑脫，而且為人正直、尊師重道乃是首要。這是我幫的幫規，你先熟讀一番。
 DialogID_6006=
 DialogID_6013=<font face="Default" color="#8fd6ef" >（身上有多處傷痕，已死了多時）</font>
-DialogID_6014=<font face="Default" color="#ffffff" >  </font><font face="Default" color="#8fd6ef" >（屍體上還有一些刀傷和拳腳傷）  </font>
 DialogID_6020=<font face="Default" color="#ffffff" >  對，碗就在裡面。剛才送碗的小三皮說只要再拿兩疊碗去也就夠了，你只需拿一疊過去，兩疊碗拿起來並不方便，還有一疊等小三皮回來送去便是。</font>
 DialogID_6022=<font face="Default" color="#ffffff" >　　啊呀，真是謝謝了！現在木棍應該也差不多了，但就還缺些繩子。你能去幫我拿一點來嗎？</font>
 DialogID_6025=<font face="Default" color="#ffffff" >  要不是少俠，恐怕今天我也沒命回去了！</font>
@@ -62,7 +61,6 @@ DialogID_6139_2=<s>哇，這麼多錢！這裡你要用多久都行，哈哈哈�
 DialogID_6140_3=　　哇，好多錢！酒宴包我身上了，保證各位吃的滿意！
 DialogID_6142=<s>我不能告訴你這些事情的……要不然我也會落得和趙管家一樣的下場的……對了，你不如去問趙老，他還在附近的客棧呢。
 DialogID_6143=<s>你還嫌害我不夠嗎？
-DialogID_6144=<s><font color="#0033FF">（屍體的手指較常人怪異，這是練過丐幫醉陀指才會有的情況……）</font>
 DialogID_6146=<s>什麼？田開光在污衣派有個表兄弟？我不清楚此事。你說有污衣派弟子幫田開光辦事？他資助丐幫不少，我們幫幫忙也是合情合理的嗎……
 DialogID_6147=　　賬目簿在此，你拿去吧。去證明我趙叔的清白吧！
 DialogID_6148=<s>這是什麼？酒麼？
@@ -106,7 +104,6 @@ DialogID_6211=<s>我們決定和你丐幫休戰，等待這件事水落石出，
 DialogID_6212=<s>多謝，我還以為我會死在這裡。這下我又能見到爹爹了！
 DialogID_6213_1=這幾個小盜匪，我還需要你幫忙？不過算了，我趕路也累了，你這武功練得還不錯嘛！你來這裡幹嘛的？
 DialogID_6214_2=哈哈哈，你小子不錯，我喜歡！喲，又來不少，這些小毛賊還挺難纏，交給你了！
-DialogID_6215=屍體躺在那裡，已經開始腐爛，依稀能辨認出是樸萬秋的屍體！
 DialogID_6217_2=本來是樸兄弟大喜的日子，卻弄成這樣，可惡我一定要報這個仇！
 DialogID_6218_1=我們先當做不知道，到時好好收拾他們！
 DialogID_6219_2=什麼？剛才像看到鬼了！哈哈哈！我知道是什麼情況了！
@@ -228,7 +225,6 @@ QiecuoTitle_6004=<font face="Default" color="#ffffff" >  喂！你是何人？�
 QiecuoTitle_6007=  哈哈哈，既然你一心求死，大爺就成全你！
 QiecuoTitle_6012=<s>哼，不自量力！我可不是好惹的！
 QiecuoTitle_6015=<font face="Default" color="#ffffff" >  就你還想教訓我？看我不打得你跪地求饒！</font>
-QiecuoTitle_6017=<font face="Default" color="#ffffff" >　　一群廢物！竟然連個無名小卒都打不過！都是幹什麼吃的！</font>
 QiecuoTitle_6019=<s>我們極樂谷可不是好惹的，我勸你還是乖乖投降吧！
 QiecuoTitle_6021=<s>可惡，居然騙我，拿命來！
 QiecuoTitle_6023=<s>哼，能打敗我的人至今還沒生出來呢！
@@ -372,7 +368,6 @@ collectinfo_6018=把<a href="findnpc_new,school02,Gather00067b" style="HLStype1"
 collectinfo_6050=拾起地上的集<a href="findnpc_new,born01,Gather00024j" style="HLStype1">熊糞</a>
 collectinfo_6051_1=再前往熊洞附近找找是否有<a href="findnpc_new,born01,monrv010800" style="HLStype1">不明男子</a>，從其身上獲取東西
 collectinfo_6052_2=擊倒<a href="findnpc_new,born01,monrv010400" style="HLStype1">惡熊</a>,拾起其口中之物
-collectinfo_6053=獵殺<a href="findnpc_new,born01,monrv011000" style="HLStype1">鹿</a>並將其屍體帶回去
 collectinfo_6100=從<a href="findnpc_new,school07,Gather00010m" style="HLStype1">放冰糖的盒子</a>獲得冰糖
 collectinfo_6101=從<a href="findnpc_new,school07,Gather00011m" style="HLStype1">放丹藥的錦盒</a>獲得丹藥
 collectinfo_6102=拾取<a href="findnpc_new,school07,Gather00012m" style="HLStype1">丐幫武功圖譜</a>
@@ -589,7 +584,6 @@ interactinfo_6010_2=從<a href="findnpc_new,school02,Gather00055b" style="HLStyp
 interactinfo_6011_3=拿起<a href="findnpc_new,school02,Gather00056b" style="HLStype1">紗布</a>
 interactinfo_6012_1=找到<a href="findnpc_new,school02,EventNpc44014" style="HLStype1">林蟻巢穴</a>
 interactinfo_6013_2=咦，樹下為何躺著<a href="findnpc_new,school02,WorldNpc03129" style="HLStype1">一個人</a>，看看怎麼回事
-interactinfo_6014_1=再去查看下<a href="findnpc_new,school02,WorldNpc03129" style="HLStype1">屍體</a>
 interactinfo_6015_2=在<a href="findnpc_new,school02,EventNpc44015_1" style="HLStype1">附近</a>查看下是否有其他線索
 interactinfo_6016_3=看看<a href="findnpc_new,school02,EventNpc44015_2" style="HLStype1">附近</a>可有什麼線索
 interactinfo_6017=這些<a href="findnpc_new,school02,EventNpc44030" style="HLStype1">官兵</a>居然還不說，看你的嘴硬還是我的拳頭硬，接著打
@@ -658,7 +652,6 @@ interactinfo_6106_3=跟隨<a href="findnpc_new,school07,ItemNpc03212" style="HLS
 interactinfo_6107_4=跟隨<a href="findnpc_new,school07,ItemNpc03213" style="HLStype1">可疑的腳印</a>
 interactinfo_6108=去<a href="findnpc_new,school07,EventNpc44155" style="HLStype1">小晴說的地方</a>看看
 interactinfo_6109=看<a href="findnpc_new,school07,WorldNpc04441" style="HLStype1">艾倫</a>要說什麼
-interactinfo_6110_1=調查旁邊的<a href="findnpc_new,school07,WorldNpc04448" style="HLStype1">屍體</a>
 interactinfo_6111_2=與<a href="findnpc_new,school07,WorldNpc04445" style="HLStype1">楊康鯢</a>交談
 interactinfo_6112_1=前往<a href="findnpc_new,school07,EventNpc44160" style="HLStype1">山下查探</a>
 interactinfo_6113_2=與<a href="findnpc_new,school07,WorldNpc05109" style="HLStype1">李連城</a>交談
@@ -732,7 +725,6 @@ interactinfo_6211=與<a href="findnpc_new,city04,WorldNpc10027" style="HLStype1"
 interactinfo_6212=與<a href="findnpc_new,city01,WorldNpc08525" style="HLStype1">容可兒</a>交談
 interactinfo_6213_1=與<a href="findnpc_new,city04,WorldNpc10057" style="HLStype1">焦無咎</a>交談
 interactinfo_6214_2=與<a href="findnpc_new,city04,WorldNpc10057" style="HLStype1">焦無咎</a>交談
-interactinfo_6215=去看看<a href="findnpc_new,city04,WorldNpc01402" style="HLStype1">開始腐爛的屍體</a>
 interactinfo_6216_1=去找<a href="findnpc_new,city04,Gather00058a" style="HLStype1">工具</a>為樸兄弟修墳
 interactinfo_6217_2=與<a href="findnpc_new,city04,WorldNpc10058" style="HLStype1">焦無咎</a>交談
 interactinfo_6218_1=與<a href="findnpc_new,city04,WorldNpc10066" style="HLStype1">焦無咎</a>交談
@@ -815,8 +807,6 @@ okmenu44160_1=
 okmenu44353=我丐幫樸兄弟死於非命，我只是迫不得已。
 okmenu_6001=是！弟子定會牢記。
 okmenu_6006=
-okmenu_6013=屍體附近有打鬥痕跡，看來此人是被謀殺的。
-okmenu_6014=<font face="Default" color="#ffffff" >那屍體附近有打鬥痕跡，看來此人是被謀殺的。</font>
 okmenu_6020=那好吧，夏師兄，我就先走了！
 okmenu_6022=<font face="Default" color="#ffffff" >放心吧，李大哥，我這便去取來。</font>
 okmenu_6025=<font face="Default" color="#ffffff" >那地主實在可惡，你不用怕，我會給他點顏色看看的，你還是趕緊回去療傷吧。</font>
@@ -1029,7 +1019,6 @@ story_6058_1=<s>本來吶，生活在淺灘對面的熊是很少到這鎮子周�
 story_6058_2=<s>久聞丐幫弟子武功高強，行俠仗義，要是你能助我抵擋那些害人的熊，要多少美酒美食我都雙手奉上！
 story_6059_1=<s>我在這雞鳴驛也生活了幾十年了，很少聽到有熊主動攻擊老百姓的事，你說那些熊最近如此反常會不會有什麼原因？
 story_6059_2=<s>嗯……最近倒是來了一些做生意的女真人，想來不知有沒有什麼關係……
-story_6060_1=<s>這是肉，是摻了牛黃的人肉，一定是有人故意將這東西丟給熊吃的。熊長期食用，中了慢性的毒，也習慣了人肉的味道，所以才暴躁起來，以至於見到人就撲上去！
 story_6060_2=<s>一定就是那個你遇到的不明之人！
 story_6061_1=<s>沒……我沒醉！我……我跟你說，我們幾個這次來，雖……然表面上是來做生意的，其……其實是……是有任務的！有任務的！
 story_6061_2=　　沒錯！任務……你瞧見那些咬人的熊了嗎？就是我們幹的！哈哈……我們幹的！怎麼幹？不……不告訴你。我只告訴你……在這雞鳴鎮以外，還有我們的族人，只要時……機成熟，我響箭一飛！我們就把鎮上那些沒用的漢人胡人統統趕走！到時候……還得靠你相助一臂之力，哈哈……我們就可以盡情享用這裡的毛皮、煤礦和藥材了……我還可以把那女兒許……許配給你！
@@ -1069,7 +1058,6 @@ story_6134_2=<s>我還有些手下在外面，他們都曾經參與此事……
 story_6135_1=<s>哈哈哈，現在我需要的正是酒……酒總是能讓我忘記痛苦……還有什麼東西比酒更忠實呢？
 story_6135_2=<s>飲完這罈酒，我就回宿州老家耕田去。田家已經不需要我了。我這一輩子也沒對不起過田家，我可以心安理得的走了……
 story_6170_1=<s>你可知道泛黃平原那裡黃河決堤之事？
-story_6170_2=<s>由於常年的黃河氾濫的問題，泛黃平原的分舵現在處境很為難。人員收容，醫藥，資源補給和安葬等費用嚴重超支了。最近聽聞，分舵弟子拉幫結伙到處打劫百姓！真是想不到會發生如此敗壞丐幫名聲之事！我想是不是改撤銷泛黃分舵了……你去問問掌門的意思。
 story_6171_1=<s>最近是招入了大量的新弟子，財政上也是入不敷出。不少新弟子確實做了不少不齒之事……
 story_6171_2=<s>泛黃平原的貧民百姓生活困頓，每天都有人餓死。這種情形下，加入丐幫不僅是幫助他們解決吃飯問題，更是給他們生存的希望，同時也減少加入叛軍的幾率。這時候要是撤銷分舵，絕對是弊大於利！我們想要著手解決現有的問題，最近已經不再招入新弟子了。
 story_6172_1=你可注意到了附近的作亂分子？那些都是受歹人蠱惑的村民，現在他們已經跟強盜沒差別了！
@@ -1077,9 +1065,7 @@ story_6172_2=他們搶走了很多賑災的物資，還時常出來干擾堤壩�
 story_6173_1=你殺死的那些作亂難民中，有一個正是我的兄弟！他們都只是普通百姓而已，你為什麼要對他們下次毒手？為什麼？
 story_6173_2=他們是搶了官府的東西，但是只是九牛一毛而已！他們只是要為了自己為了家人能填飽肚子而已，這就足夠你殺死他們嗎？我知道你是受了謝拓的欺瞞而為之，所以我也不怪你。但是你要看清謝拓那廝的真面目！他不過是個外表仁慈內心奸詐的小人而已！
 story_6174_1=本次賑災有兩方面的困難。一方面就是物資的短缺，不過這個很快就能解決，很多賑災物資馬上要運抵了。
-story_6174_2=另一個困難當然是那些作亂的暴民！他們一日不除，賑災工作就不好展開。所以我希望這件事情丐幫可以出手幫助官府，以期給那些暴徒致命的打擊。
 story_6175_3=要丐幫幫忙賑災，我們肯定是義不容辭！但是……
-story_6175_4=那些作亂者原來都是本地的良民，迫於生計才會走上歪道。何況幫內不少弟子和他們都是親戚朋友，真要去圍剿他們，恐怕不現實！我們丐幫有責任保護當地百姓不受暴徒襲擊，但是要我們去圍剿那些作亂者，恐怕不適合。
 story_6200_1=<s>難道你不知道？十天前有一個丐幫弟子攜打狗棒來傳令，說燕門暗通邪派，蕭幫主命我們搗毀其勢力，才有這件事？
 story_6200_2=<s>什麼？我本來還以為你是來協助我們對付燕門的，這到底……難道那打狗棒是假的？我不可能會認錯！
 story_6201_1=<s>還有什麼好說的，難道傷我弟子的不是你丐幫弟子？
@@ -1182,7 +1168,6 @@ story_menu_6216=燕門世家
 story_menu_6217=指教武功
 story_menu_6218=<font face="Default" color="#ffffff" >囚禁之地</font>
 storyinfo_6001=請教<a href="findnpc_new,school02,WorldNpc03020" style="HLStype1">展化生</a>叫花雞的做法
-storyinfo_6002=問問<a href="findnpc_new,school02,WorldNpc03120" style="HLStype1">柳旺</a>知不知道被發現的那具屍體的身份
 storyinfo_6003=與<a href="findnpc_new,school02,WorldNpc03120" style="HLStype1">柳旺</a>交談
 storyinfo_6004=去救<a href="findnpc_new,school02,WorldNpc03126" style="HLStype1">展化生</a>
 storyinfo_6005=去找<a href="findnpc_new,school02,WorldNpc03005" style="HLStype1">霍讓</a>
@@ -1440,7 +1425,6 @@ useiteminfo_6171=喂<a href="findnpc_new,scene03,WorldNpc06666" style="HLStype1"
 useiteminfo_6172=把<a href="TASK_ITEM,useitem_12m" style="HLStype1">新公告</a>張貼到<a href="findnpc_new,scene03,EventNpc44259" style="HLStype1">牆上</a>
 useiteminfo_6200=對<a href="findnpc_new,city01,WorldNpc08523" style="HLStype1">東方亞菱</a>出示<a href="TASK_ITEM,useitem_41a" style="HLStype1">偽造的打狗棒</a>
 useiteminfo_6201=對<a href="findnpc_new,city04,WorldNpc10027" style="HLStype1">燕百苦</a>出示<a href="TASK_ITEM,useitem_142b" style="HLStype1">打狗棒</a>
-useiteminfo_6202_1=在<a href="findnpc_new,city04,WorldNpc01402" style="HLStype1">開始腐爛的屍體</a>用<a href="TASK_ITEM,useitem_43a" style="HLStype1">石塊</a>挖一座墳
 useiteminfo_6203=<a href="findnpc_new,school07,EventNpc44399" style="HLStype1">癲狂道人家</a>附近使用<a href="TASK_ITEM,useitem_44a" style="HLStype1">冬地鮮</a>
 useiteminfo_6204=用<a href="TASK_ITEM,useitem_005mm" style="HLStype1">空盆</a>到河裡打一盆水
 useiteminfo_6242=用<a href="TASK_ITEM,useitem_006mm" style="HLStype1">空桶</a>為難民打一桶水
@@ -1473,7 +1457,6 @@ hunterinfo_6225=消滅突然襲擊的<a href="findnpc_new,school07,monrm076100" 
 hunterinfo_6227=打敗<a href="findnpc_new,school07,monm076400" style="HLStype1">殘暴隱衛</a>
 hunterinfo_6233=對付秦晨叫來的<a href="findnpc_new,school07,monrm076300" style="HLStype1">虎嘯山莊隱衛</a>
 hunterinfo_6235=消滅虎嘯山莊的<a href="findnpc_new,school07,monrm076400" style="HLStype1">隱衛精英</a>
-interactinfo_6144=檢查<a href="findnpc_new,scene02,WorldNpc02117" style="HLStype1">隱衛屍體</a>
 okmenu_6111_2=請節哀順變吧！我答應你一定會替你弟弟報復！
 story_6210_2=她以前的身世我也不是特別清楚，但是她很會易容，而且武功也很高。來了這裡她一直想找以前拋棄她的男人報復，最近她突然消失了，我就知道出事了。
 story_6212_1=我就要看到你們這些臭男人都下地獄去！當年我被你們一個丐幫弟子侮辱，就這這個洛陽，那樸萬秋雖然費了他的武功，將他逐出丐幫，後來不知所蹤了。但是那男的不知悔改我到了大姐那裡才知道原來那個丐幫弟子之後還侮辱過其他的女子。所以我決心要報復，這樸萬秋也是同罪，他庇護這些作惡的弟子，也是一樣罪該萬死！
@@ -1482,4 +1465,21 @@ story_menu_6003=兄弟你不用擔心，依我看他們還不知道流霸被襲�
 story_menu_6173=你為什麼說我是你敵人？
 storymenu_6105_2=可惡的金錢幫，我一定會為你們報復的！
 interactinfo_6155=與<a href="findnpc_new,born02,EventNpc44447" style="HLStype1">地靈山下</a>交談
+DialogID_6014=<font face="Default" color="#ffffff" >  </font><font face="Default" color="#8fd6ef" >（遺骸上還有一些刀傷和拳腳傷）  </font>
+DialogID_6144=<s><font color="#0033FF">（遺骸的手指較常人怪異，這是練過丐幫醉陀指才會有的情況……）</font>
+DialogID_6215=遺骸躺在那裡，已經開始腐爛，依稀能辨認出是樸萬秋的遺骸！
+QiecuoTitle_6017=<font face="Default" color="#ffffff" >　　一群無用之人！竟然連個無名小卒都打不過！都是幹什麼吃的！</font>
+collectinfo_6053=獵殺<a href="findnpc_new,born01,monrv011000" style="HLStype1">鹿</a>並將其遺骸帶回去
+interactinfo_6014_1=再去查看下<a href="findnpc_new,school02,WorldNpc03129" style="HLStype1">遺骸</a>
+interactinfo_6110_1=調查旁邊的<a href="findnpc_new,school07,WorldNpc04448" style="HLStype1">遺骸</a>
+interactinfo_6144=檢查<a href="findnpc_new,scene02,WorldNpc02117" style="HLStype1">隱衛遺骸</a>
+interactinfo_6215=去看看<a href="findnpc_new,city04,WorldNpc01402" style="HLStype1">開始腐爛的遺骸</a>
+okmenu_6013=遺骸附近有打鬥痕跡，看來此人是被暗害的。
+okmenu_6014=<font face="Default" color="#ffffff" >那遺骸附近有打鬥痕跡，看來此人是被暗害的。</font>
+story_6060_1=<s>這是肉，是摻了牛黃的生肉，一定是有人故意將這東西丟給熊吃的。熊長期食用，中了慢性的毒，也習慣了人肉的味道，所以才暴躁起來，以至於見到人就撲上去！
+story_6170_2=<s>由於常年的黃河氾濫的問題，泛黃平原的分舵現在處境很為難。人員收容，醫藥，資源補給和安葬等費用嚴重超支了。最近聽聞，分舵弟子拉幫結伙到處掠奪百姓！真是想不到會發生如此敗壞丐幫名聲之事！我想是不是改撤銷泛黃分舵了……你去問問掌門的意思。
+story_6174_2=另一個困難當然是那些作亂的暴民！他們一日不除，賑災工作就不好展開。所以我希望這件事情丐幫可以出手幫助官府，以期給那些歹人致命的打擊。
+story_6175_4=那些作亂者原來都是本地的良民，迫於生計才會走上歪道。何況幫內不少弟子和他們都是親戚朋友，真要去圍剿他們，恐怕不現實！我們丐幫有責任保護當地百姓不受歹人襲擊，但是要我們去圍剿那些作亂者，恐怕不適合。
+storyinfo_6002=問問<a href="findnpc_new,school02,WorldNpc03120" style="HLStype1">柳旺</a>知不知道被發現的那具遺骸的身份
+useiteminfo_6202_1=在<a href="findnpc_new,city04,WorldNpc01402" style="HLStype1">開始腐爛的遺骸</a>用<a href="TASK_ITEM,useitem_43a" style="HLStype1">石塊</a>挖一座墳
 

@@ -74,7 +74,6 @@ complete_51631=<font face="Default" color="#ffffff" >我已經聽說了，你是
 complete_51632=<font face="Default" color="#ffffff" >好好好！！痛快，有福同享，有難同當正是我丐幫的首義，你要牢記這一點，從今天起，你就是我丐幫中人了</font>
 complete_51633=<font face="Default" color="#ffffff" >這是……</font><font face="Default" color="#ffffff" >你果然沒讓我失望</font><font face="Default" color="#ffffff" >，看在你這份膽識上，我就收你做外姓弟子，記住唐門的門規，不要去參與江湖上的明爭暗鬥。</font>
 complete_51634=<font face="Default" color="#ffffff" >呵呵呵呵呵，不錯不錯，孺子可教，從今日起，你便是我門下弟子，今後一同研修音律，吟詩作詞。</font>
-complete_51636=<font face="Default" color="#ffffff" >哈哈哈，有膽識，實話告訴你，剛才給你吃的只是普通的丹藥而已，沒有毒，我欣賞你這份膽識，今日我就收你做我門下弟子，入極樂必須遵守門規，不得與朝廷中人有來往，不然格殺勿論。</font>
 context_51501=最近一段時間江湖不大太平，各路江湖人士來來去去，很是動盪，去瞭解一下是否有什麼大事要發生。
 context_51502=大和尚年少時候曾與無根門一弟子有舊交，他托你帶封書信給這個多年未見的老友。
 context_51503=當今大世江湖勢力風起雲湧，行走江湖背後有個可以依賴的勢力，做起事來有時候可以事半功倍，去瞭解江湖上的各大勢力對你以後行走江湖有很多幫助。
@@ -537,4 +536,23 @@ context_51505=行走江湖已經有一段時間了，越發覺得無門無派勢
 context_51506=當今盛世，江湖勢力風起雲湧，一些勢力發展迅速，隱隱有比肩各大宗派的趨勢，瞭解一些江湖上的勢力及其特點對以後行走江湖將有所幫助。
 target_51505=向大和尚瞭解加入各大宗派有哪些要求和限制。
 title_51505=我想加入各大宗派
+complete_51636=<font face="Default" color="#ffffff" >哈哈哈，有膽識，實話告訴你，剛才給你吃的只是普通的丹藥而已，沒有毒，我欣賞你這份膽識，今日我就收你做我門下弟子，入極樂必須遵守門規，不得與朝廷中人有來往，不然片甲不留。</font>
+CanAcceptMenu_51643=<font face="Default" color="#ffffff" >拜入師門</font>
+CanAcceptMenu_51644=<font face="Default" color="#ffffff" >拜入師門(可承接)</font>
+CompleteMenu_51643=<font face="Default" color="#ffffff" >完成任務</font>
+CompleteMenu_51644=<font face="Default" color="#ffffff" >拜入師門(可提交)</font>
+accept_51643_1=<font face="Default" color="#ffffff" >  汝既然想加入</font><font face="Default" color="#ffffff" >刑天城</font><font face="Default" color="#ffffff" >，那就去拜見大將軍。如果你能通過考驗，就可成為我</font><font face="Default" color="#ffffff" >刑天城</font><font face="Default" color="#ffffff" >一員。</font>
+accept_51644_1=<font face="Default" color="#ffffff" >你既加入本派，有些事便不得不知。</font>
+complete_51643=<font face="Default" color="#ffffff" >…不知閣下為何而來？</font>
+complete_51644=<font face="Default" color="#ffffff" >那麼即刻起你就是我</font><font face="Default" color="#ffffff" >刑天城</font><font face="Default" color="#ffffff" >的弟子了。</font>
+context_51643=汝既然想加入刑天城，那就去拜見大將軍。如果你能通過考驗，就可成為我刑天城一員。
+context_51644=聽大將軍講述刑天城。
+menu_51643_1=<font face="Default" color="#ffffff" >容我考慮一下。</font>
+menu_51644_1=<font face="Default" color="#ffffff" >弟子靜聽教誨。</font>
+submit_51643=<font face="Default" color="#ffffff" >在下素仰</font><font face="Default" color="#ffffff" >刑天城</font><font face="Default" color="#ffffff" >威名，故今日特來拜會，還請大將軍勿怪在下唐突。</font>
+submit_51644=<font face="Default" color="#ffffff" >謝大將軍。</font>
+target_51643=前往刑天城，懇請大將軍收你為徒。
+target_51644=與大將軍對話。
+title_51643=前往刑天城
+title_51644=拜入師門
 

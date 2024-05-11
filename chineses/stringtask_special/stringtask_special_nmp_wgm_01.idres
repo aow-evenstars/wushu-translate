@@ -406,7 +406,7 @@ hunterinfo_8763=斩杀围困中的雷铭护卫
 hunterinfo_8764=击败突然出现在附近的强盗
 hunterinfo_8766=暗袭城东院子中<a href="findnpc_new,city02,wgm_zd_010" style="HLStype1">燕南升</a>
 hunterinfo_8767=在大牢附近巡逻，击败那些入侵者（-5 189）。（可通过按M键地图左上角输入对应坐标进行搜索位置）
-hunterinfo_8768=遇到可疑人物格杀勿论，尤其是那些入侵者（-5 189）。（可通过按M键地图左上角输入对应坐标进行搜索位置）
+hunterinfo_8768=遇到可疑人物片甲不留，尤其是那些入侵者（-5 189）。（可通过按M键地图左上角输入对应坐标进行搜索位置）
 hunterinfo_8769=四处巡逻，看到那些入侵者（-5 189），击败他们。（可通过按M键地图左上角输入对应坐标进行搜索位置）
 hunterinfo_8770=击败无根门弟子<a href="findnpc_new,city03,wgm_015" style="HLStype1">张朋</a>
 hunterinfo_8800=与乔装黑衣人的<a href="findnpc_new,city03,wgm_task_glm_001" style="HLStype1">风长恨</a>假摔演戏，骗取信任
@@ -419,10 +419,10 @@ hunterinfo_8806=击败<a href="findnpc_new,school01,wgm_task_glm_005" style="HLS
 hunterinfo_8807=击败<a href="findnpc_new,school01,wgm_task_glm_006" style="HLStype1">士兵</a>
 hunterinfo_8808=被突然出现的<a href="findnpc_new,city03,wgm_task_glm_007" style="HLStype1">隐卫</a>袭击阻挠，干掉他们
 hunterinfo_8809=处死失职触犯门规，耽误大事的<a href="findnpc_new,school11,wgm_task_glm_008" style="HLStype1">小李子</a>
-hunterinfo_8810=果然如此!抓了这个<a href="findnpc,shcool11,-122,10,243," style="HLStype1">无根门叛徒</a>
+hunterinfo_8810=果然如此!抓了这个<a href="findnpc,school11,-122,10,243," style="HLStype1">无根门叛徒</a>
 hunterinfo_8811=门内的其他弟子也已经赶来，合力拿下<a href="findnpc_new,city03,npc_wgm_cc_015" style="HLStype1">风长恨</a>这逆贼。（只有持续不断的配合其他弟子攻击才不会导致任务失败）
 hunterinfo_8820=击败<a href="findnpc_new,school01,monm010401" style="HLStype1">丐帮弟子</a>,给丐帮制造事端，防止丐帮扰乱大计
-hunterinfo_8921=不能让<a href="findnpc_new,city03,NPC_wgm_dy_wrlx" style="HLStype1">吴蕊</a>将事情泄露出去。必须赶尽杀绝（吴蕊必定在衙门的大牢之中）
+hunterinfo_8921=不能让<a href="findnpc_new,city03,NPC_wgm_dy_wrlx" style="HLStype1">吴蕊</a>将事情泄露出去。必须斩草除根（吴蕊必定在衙门的大牢之中）
 hunterinfo_8922=给<a href="findnpc_new,city03,NPC_wgm_dy_dipi" style="HLStype1">地痞</a>一点颜色瞧瞧
 hunterinfo_8923=攻克<a href="findnpc_new,city03,NPC_wgm_dy_hy" style="HLStype1">况钱龙</a>
 hunterinfo_8924=做事要干净利落不能留下活口，攻克<a href="findnpc_new,city03,NPC_wgm_dy_hyjj" style="HLStype1">况钱龙家眷</a>
@@ -726,7 +726,7 @@ story_8756_4=嗯，咱们些人虽然见不得光亮，但好歹也是个人，�
 story_8756_5=这就是了，好好遵守咱这无根门的规矩，总有机会出头的，咱这无根门向来是凭实力说话，咱家没什么本事就只能在这里看着这些宝贝，你还年轻机会多着呢。说这么多咱家也累了，今天就说到这吧，你去找你赵无极那小子，看他对你有什么安排，守规矩，一定要好好的活着！嘿嘿，瞧你小子实在，咱家就告诉你一个秘密：听说，江湖上有一个叫做金针沈家的势力，他们有一门奇异医术，能让断肢再续，听说我们这断掉的宝贝只要保存的完好，就能接上，我老了，是没什么希望了，不过你还年轻。哈哈，小子这个不要告诉他人哦，有机会你可以去试试，宝贝在咱家这里，只要不出意外，一定给你保存的好好的，去吧！
 story_8757_1=仙人不知酒滋味，只道香醇不知愁！仙人都不知这酒味，凡人又岂会真正的明白呢，哈哈~~~~~~
 story_8757_2=啧啧，看来师弟于那凡人，却是明白的多啊。如此美酒当前，不来对饮一杯，岂不可惜了，来陪我饮一杯如何？
-story_8757_3=<font face="Default" color="#ffffff" >啧啧，那规矩只能愚弄那些愚人罢了，何必当真！我向来嗜酒如命，如若一日无酒便如要了我性命一般！既然你坚持，那也就算了，</font><font face="Default" color="#ffffff" >我就</font><font face="Default" color="#ffffff" >不勉强你</font><font face="Default" color="#ffffff" >了。</font>
+story_8757_3=<font face="Default" color="#ffffff" >啧啧，那规矩只能愚弄那些愚人罢了，何必当真！我向来爱酒如命，如若一日无酒便如要了我性命一般！既然你坚持，那也就算了，</font><font face="Default" color="#ffffff" >我就</font><font face="Default" color="#ffffff" >不勉强你</font><font face="Default" color="#ffffff" >了。</font>
 story_8758_1=生入无根死难回，不入黄泉笑九渊。你既然入了我无根门，也将注定着一生将永无回头之日，我希望你不要多有怨言。
 story_8758_2=<font face="Default" color="#ffffff" >嗯，你是个聪明人，多余话我也就不多说了。我无根门弟子向来都是有过就罚，有功就赏，无根门的无上内功心法便是那太阴玄鉴，太阴玄鉴，本为皇室内功秘法，后流入我无根门，经过几代祖师的不断改良，如今成为我等弟子修习的秘法，心法讲求“倒行逆练，破后而生，藉借天地之力，虚补己身，万物皆为吾用，万物皆为吾生”，功成之时，杀性血光直上九霄，苍穹为之变色。</font>
 story_8758_3=<font face="Default" color="#ffffff" >按照规矩你已有修习这太阴玄鉴的资格，等下你便可找到门内的总管借阅这内功心法学习。本门武学，为太阴剑诀，唯快不破，便是这剑法的奥义，多余的我就不多说了，等你修习之时自然知晓</font><font face="Default" color="#ffffff" >。</font>
@@ -741,7 +741,7 @@ story_8760_3=哎，说来惭愧，要不是这几日的纠缠几乎耗尽了我�
 story_8760_4={@0:Name}我见你也是一位侠义之士，现在又救我性命，如若不弃，我们交个朋友如何？
 story_8761_1=<font face="Default" color="#ffffff" >看来你已经取得了他的信任了，此人是我们接下的任务中最关键的一枚棋子，你可以好好利用，记住千万不要有妇人之仁。</font>
 story_8761_2=我只是提醒你，无根门的规矩你是知道，我只是不想看到你就此丢了性命。你和其他的弟子不一样，你会比我走的更远。
-story_8761_3=<font face="Default" color="#ffffff" >你接下的任务就是让他陪你一起去劫狱，就在今天晚上，你们要救的人叫做铁乐，他也算是个江湖侠士，但是你们去的时候只会看到一具尸体。具体怎么做我想你是个聪明人应该知道怎么做，我就不多说了。</font>
+story_8761_3=<font face="Default" color="#ffffff" >你接下的任务就是让他陪你一起去劫狱，就在今天晚上，你们要救的人叫做铁乐，他也算是个江湖侠士，但是你们去的时候只会看到一具遗骸。具体怎么做我想你是个聪明人应该知道怎么做，我就不多说了。</font>
 story_8762_1={@0:Name}果然豪爽，我们坐下慢慢聊！我看兄弟不是这本地人士，不知来者苏州市有什么重要的事情嘛，如果有用的着我的地方，千万不要客气！
 story_8762_2=不知你大哥是何人，如今又在何处？
 story_8762_3=原来是风钢爪铁乐，此人我也是略有耳闻，江湖流传着他的很多侠义之举，不过后来听说他失踪了，却没想到他竟然被关进了这苏州府的大牢，兄弟此次前来难道是要救出你大哥？
@@ -775,7 +775,7 @@ story_8807_3=<font face="Default" color="#ffffff" >嗯……似乎有些道理�
 story_8808_1=<font face="Default" color="#ffffff" >有任务在身？还能有比朱高燧更重要的事情？怎么没听提起过？算了，还是集中精力剪除朱高燧的羽翼。既然朱高燧已经出兵锦衣卫，你马上令</font><font face="Default" color="#ffffff" >小李子</font><font face="Default" color="#ffffff" >放出信鸽通知各个据点的弟子准备进攻锦衣卫。</font>
 story_8809_1=<font face="Default" color="#ffffff" >这…这个…鸽子…它，不知道怎么回事，最近…死…死了大半，剩下的…都…都萎靡不振，飞…飞不起来。</font>
 story_8809_2=<font face="Default" color="#ffffff" >饶命啊……师兄饶命啊，看在同门的份上，看在我上有老下有小，饶过我的狗命吧。</font>
-story_8810_1=<font face="Default" color="#ffffff" >没错！金陵的所有据点都无一幸免！螳螂捕蝉黄雀在后！有人在暗地算计我们！对我们的计划了如指掌！</font><font face="Default" color="#ffffff" >能在一瞬间拔出这么多据点，实力恐怖之极。你马上回去禀告赵师兄！</font>
+story_8810_1=<font face="Default" color="#ffffff" >没错！金陵的所有据点都无一幸免！螳螂捕蝉黄雀在后！有人在暗地算计我们！对我们的计划了如指掌！</font><font face="Default" color="#ffffff" >能在一瞬间拔出这么多据点，实力可怕之极。你马上回去禀告赵师兄！</font>
 story_8811_1=<font face="Default" color="#ffffff" >什么！竟然有这种事！知道据点的人并不多，而且……哼哼！刚接到宫里线报说皇上已经令朱高燧撤退了，还收回了朱高燧的所有权力，令他在府内修养！哼！没想到有人技高一筹！</font>
 story_8812_1=<font face="Default" color="#ffffff" >据点太多，你我分头行动。你去通知东陵马场即可，其他的我来负责。我轻功比你好！</font>
 story_8813_1=<font face="Default" color="#ffffff" >嗯。你先回去复命，我还有任务在身！</font>
@@ -866,7 +866,7 @@ storyinfo_8765=听<a href="findnpc_new,school11,wgm_042" style="HLStype1">赵无
 storyinfo_8766=恳请<a href="findnpc_new,city03,wgm_008" style="HLStype1">刁公公</a>引荐前往无根门
 storyinfo_8767=向<a href="findnpc_new,city03,funnpcskill001002" style="HLStype1">关公公</a>说明来意
 storyinfo_8800=去<a href="findnpc,city03,1334,0.047,1825" style="HLStype1">金陵酒楼</a>屋顶和<a href="findnpc_new,city03,wgm_glm_001" style="HLStype1">风长恨</a>碰头。
-storyinfo_8801=去<a href="findnpc,city03,1112,4.315,1767" style="HLStype1">秦淮青楼</a>见<a href="findnpc_new,city03,wgm_glm_002" style="HLStype1">金断城</a>，告诉他皇纲一案是锦衣卫所为
+storyinfo_8801=去<a href="findnpc,city03,1112,4.315,1767" style="HLStype1">秦淮酒楼</a>见<a href="findnpc_new,city03,wgm_glm_002" style="HLStype1">金断城</a>，告诉他皇纲一案是锦衣卫所为
 storyinfo_8802=朱高煦似乎相信了这出双簧戏，派人暗查锦衣卫。返回<a href="findnpc,city03,1334,0.047,1825" style="HLStype1">金陵酒楼</a>屋顶，回复<a href="findnpc_new,city03,wgm_glm_001" style="HLStype1">风长恨</a>
 storyinfo_8803=赶往锦衣卫，与<a href="findnpc_new,school01,wgm_glm_004" style="HLStype1">风长恨</a>碰头
 storyinfo_8804=听<a href="findnpc_new,school01,wgm_glm_004" style="HLStype1">风长恨</a>诉说
@@ -971,7 +971,7 @@ storymenu_8813_1=<font face="Default" color="#ffffff" >是！</font>
 storymenu_8920_1=<font face="Default" color="#ffffff" >现在宫中的局势，淮西党</font><font face="Default" color="#ffffff" >已然</font><font face="Default" color="#ffffff" >势弱。若我们能在此时推一手，淮西党必然溃散！</font>
 storymenu_8920_2=<font face="Default" color="#ffffff" >不知</font><font face="Default" color="#ffffff" >小人</font><font face="Default" color="#ffffff" >该如何做？</font>
 storymenu_8921_1=<font face="Default" color="#ffffff" >不敢，不敢...</font>
-storymenu_8921_2=<font face="Default" color="#ffffff" >遵命！</font><font face="Default" color="#ffffff" >（下面没有家伙的东西居然如何喜好女色？！真是个老变态！）</font>
+storymenu_8921_2=<font face="Default" color="#ffffff" >遵命！</font><font face="Default" color="#ffffff" >（下面没有家伙的东西居然如何喜好女色？！真是个老疯子！）</font>
 storymenu_8922_1=<font face="Default" color="#ffffff" >小的可不</font><font face="Default" color="#ffffff" >敢</font><font face="Default" color="#ffffff" >碰卢大人的人！</font>
 storymenu_8922_2=<font face="Default" color="#ffffff" >卢大人让我替他送些好东西给姑娘，这些珠宝还请姑娘收好。</font>
 storymenu_8923_1=<font face="Default" color="#ffffff" >我现在可以问你问题了？</font>
@@ -1025,7 +1025,7 @@ useiteminfo_8779=在<a href="findnpc_new,city03,Trigger_wgm_005" style="HLStype1
 useiteminfo_8780=在<a href="findnpc_new,city03,Trigger_wgm_006" style="HLStype1">金陵（521,724）</a>附近使用信号弹（在无根门<a href="findnpc,school11,-12,-3.2,184" style="HLStype1">段海</a>处购买）
 useiteminfo_8781=对<a href="findnpc_new,city02,wgm_064" style="HLStype1">燕凌云</a>使用<a href="TASK_ITEM,item_wgm_zxdj_002" style="HLStype1">阴阳草</a>
 useiteminfo_8782=向<a href="findnpc_new,city02,wgm_065" style="HLStype1">燕凌云</a>敬上<a href="TASK_ITEM,item_wgm_zxdj_003" style="HLStype1">一杯酒</a>
-useiteminfo_8800=换上<a href="TASK_ITEM,useitem_wgm_glm_01" style="HLStype1">包裹</a>里的黑风寨衣服，去见秦淮青楼的朱高煦，演一出双簧戏。
+useiteminfo_8800=换上<a href="TASK_ITEM,useitem_wgm_glm_01" style="HLStype1">包裹</a>里的黑风寨衣服，去见秦淮酒楼的朱高煦，演一出双簧戏。
 useiteminfo_8801=使用<a href="TASK_ITEM,useitem_wgm_glm_02" style="HLStype1">包裹</a>，乔装成锦衣卫弟子
 useiteminfo_8802=把<a href="TASK_ITEM,useitem_wgm_glm_03" style="HLStype1">皇纲</a>藏到<a href="findnpc_new,school01,wgm_glm_009" style="HLStype1">箱子</a>里。
 useiteminfo_8920=与<a href="findnpc_new,city03,NPC_wgm_dy_jyfcy" style="HLStype1">富春园接引人</a>交谈进入夜幕中的富春园，将<a href="TASK_ITEM,useitem_wgm_dy_hg" style="HLStype1">皇纲</a>藏在<a href="findnpc_new,city03,NPC_wgm_dy_mhg" style="HLStype1">富春园</a>某处。若要离开请前往富春园的角落偷偷<a href="findnpc_new,city03,PlotDoor_wgm_dy_lkfcy" style="HLStype1">离开</a>（进入黑夜模式后，在视频设置里打开天气效果可欣赏到黑夜效果）
@@ -1036,7 +1036,7 @@ useiteminfo_8924=打开<a href="TASK_ITEM,useitem_wgm_dy_md1" style="HLStype1">�
 useiteminfo_8925=<a href="TASK_ITEM,useitem_wgm_dy_hb1" style="HLStype1">一把火</a>烧了<a href="findnpc_new,city03,Event_wgm_dy_49543a" style="HLStype1">长寿亭</a>
 useiteminfo_8926=居然是风长恨的<a href="TASK_ITEM,item_wgm_cc_8952" style="HLStype1">宝贝罐子</a>，他可是门内元老级人物，为什么罐子会这么新？无意冒犯，打开看看便知！
 useiteminfo_8927=哼，无根门门规森严，居然有人敢挑战门主威信，先<a href="TASK_ITEM,item_wgm_cc_s8927" style="HLStype1">扇他两巴掌</a>再说,让这<a href="findnpc_new,school11,npc_wgm_cc_007" style="HLStype1">叛徒</a>好好的清醒清醒
-useiteminfo_8928=让这<a href="findnpc_new,school11,npc_wgm_cc_007" style="HLStype1">小杂种</a>居然还嘴硬？真当大爷我不会下狠心么？<a href="TASK_ITEM,item_wgm_cc_s8928" style="HLStype1">踹两脚</a>让他明白
+useiteminfo_8928=让这<a href="findnpc_new,school11,npc_wgm_cc_007" style="HLStype1">小竖子</a>居然还嘴硬？真当大爷我不会下狠心么？<a href="TASK_ITEM,item_wgm_cc_s8928" style="HLStype1">踹两脚</a>让他明白
 useiteminfo_8929=这<a href="findnpc_new,school11,npc_wgm_cc_007" style="HLStype1">叛徒</a>好像有些坚持不住的样子。已经有了松口的倾向,加上这压死骆驼的最后一刀!来一记<a href="TASK_ITEM,item_wgm_cc_s8929" style="HLStype1">回旋踢</a>
 useiteminfo_8930=去<a href="findnpc_new,school11,Event_npc_wgm_cc_8927" style="HLStype1">前面</a>把<a href="TASK_ITEM,item_wgm_cc_j8956" style="HLStype1">叛徒</a>扔出来好好"调理""调理"
 useiteminfo_8931=将东厂<a href="TASK_ITEM,useitem_wgm_dy_yp" style="HLStype1">腰牌</a>留在<a href="findnpc_new,city03,Event_wgm_dy_49543a" style="HLStype1">长寿亭</a>制造假象

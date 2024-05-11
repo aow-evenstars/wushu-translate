@@ -4,7 +4,7 @@ DialogID_44353=但是什么，你还不走么！
 DialogID_6001=  原来是新入帮的弟子，想来你也知道，我丐帮弟子虽然生活清苦，却胜在无拘无束、行事洒脱，而且为人正直、尊师重道乃是首要。这是我帮的帮规，你先熟读一番。
 DialogID_6006=
 DialogID_6013=<font face="Default" color="#8fd6ef" >（身上有多处伤痕，已死了多时）</font>
-DialogID_6014=<font face="Default" color="#ffffff" >  </font><font face="Default" color="#8fd6ef" >（尸体上还有一些刀伤和拳脚伤）  </font>
+DialogID_6014=<font face="Default" color="#ffffff" >  </font><font face="Default" color="#8fd6ef" >（遗骸上还有一些刀伤和拳脚伤）  </font>
 DialogID_6020=<font face="Default" color="#ffffff" >  对，碗就在里面。刚才送碗的小三皮说只要再拿两叠碗去也就够了，你只需拿一叠过去，两叠碗拿起来并不方便，还有一叠等小三皮回来送去便是。</font>
 DialogID_6022=<font face="Default" color="#ffffff" >　　啊呀，真是谢谢了！现在木棍应该也差不多了，但就还缺些绳子。你能去帮我拿一点来吗？</font>
 DialogID_6025=<font face="Default" color="#ffffff" >  要不是少侠，恐怕今天我也没命回去了！</font>
@@ -65,7 +65,7 @@ DialogID_6139_2=<s>哇，这么多钱！这里你要用多久都行，哈哈哈�
 DialogID_6140_3=　　哇，好多钱！酒宴包我身上了，保证各位吃的满意！
 DialogID_6142=<s>我不能告诉你这些事情的……要不然我也会落得和赵管家一样的下场的……对了，你不如去问赵老，他还在附近的客栈呢。
 DialogID_6143=<s>你还嫌害我不够吗？
-DialogID_6144=<s><font color="#0033FF">（尸体的手指较常人怪异，这是练过丐帮醉陀指才会有的情况……）</font>
+DialogID_6144=<s><font color="#0033FF">（遗骸的手指较常人怪异，这是练过丐帮醉陀指才会有的情况……）</font>
 DialogID_6146=<s>什么？田开光在污衣派有个表兄弟？我不清楚此事。你说有污衣派弟子帮田开光办事？他资助丐帮不少，我们帮帮忙也是合情合理的吗……
 DialogID_6147=　　账目簿在此，你拿去吧。去证明我赵叔的清白吧！
 DialogID_6148=<s>这是什么？酒么？
@@ -110,7 +110,7 @@ DialogID_6211=<s>我们决定和你丐帮休战，等待这件事水落石出，
 DialogID_6212=<s>多谢，我还以为我会死在这里。这下我又能见到爹爹了！
 DialogID_6213_1=这几个小盗匪，我还需要你帮忙？不过算了，我赶路也累了，你这武功练得还不错嘛！你来这里干嘛的？
 DialogID_6214_2=哈哈哈，你小子不错，我喜欢！哟，又来不少，这些小毛贼还挺难缠，交给你了！
-DialogID_6215=尸体躺在那里，已经开始腐烂，依稀能辨认出是朴万秋的尸体！
+DialogID_6215=遗骸躺在那里，已经开始腐烂，依稀能辨认出是朴万秋的遗骸！
 DialogID_6217_2=本来是朴兄弟大喜的日子，却弄成这样，可恶我一定要报这个仇！
 DialogID_6218_1=我们先当做不知道，到时好好收拾他们！
 DialogID_6219_2=什么？刚才像看到鬼了！哈哈哈！我知道是什么情况了！
@@ -234,7 +234,7 @@ QiecuoTitle_6004=<font face="Default" color="#ffffff" >  喂！你是何人？�
 QiecuoTitle_6007=  哈哈哈，既然你一心求死，大爷就成全你！
 QiecuoTitle_6012=<s>哼，不自量力！我可不是好惹的！
 QiecuoTitle_6015=<font face="Default" color="#ffffff" >  就你还想教训我？看我不打得你跪地求饶！</font>
-QiecuoTitle_6017=<font face="Default" color="#ffffff" >　　一群废物！竟然连个无名小卒都打不过！都是干什么吃的！</font>
+QiecuoTitle_6017=<font face="Default" color="#ffffff" >　　一群无用之人！竟然连个无名小卒都打不过！都是干什么吃的！</font>
 QiecuoTitle_6019=<s>我们极乐谷可不是好惹的，我劝你还是乖乖投降吧！
 QiecuoTitle_6021=<s>可恶，居然骗我，拿命来！
 QiecuoTitle_6023=<s>哼，能打败我的人至今还没生出来呢！
@@ -380,7 +380,7 @@ collectinfo_6018=把<a href="findnpc_new,school02,Gather00067b" style="HLStype1"
 collectinfo_6050=拾起地上的集<a href="findnpc_new,born01,Gather00024j" style="HLStype1">熊粪</a>
 collectinfo_6051_1=再前往熊洞附近找找是否有<a href="findnpc_new,born01,monrv010800" style="HLStype1">不明男子</a>，从其身上获取东西
 collectinfo_6052_2=击倒<a href="findnpc_new,born01,monrv010400" style="HLStype1">恶熊</a>,拾起其口中之物
-collectinfo_6053=猎杀<a href="findnpc_new,born01,monrv011000" style="HLStype1">鹿</a>并将其尸体带回去
+collectinfo_6053=猎杀<a href="findnpc_new,born01,monrv011000" style="HLStype1">鹿</a>并将其遗骸带回去
 collectinfo_6100=从<a href="findnpc_new,school07,Gather00010m" style="HLStype1">放冰糖的盒子</a>获得冰糖
 collectinfo_6101=从<a href="findnpc_new,school07,Gather00011m" style="HLStype1">放丹药的锦盒</a>获得丹药
 collectinfo_6102=拾取<a href="findnpc_new,school07,Gather00012m" style="HLStype1">丐帮武功图谱</a>
@@ -610,7 +610,7 @@ interactinfo_6010_2=从<a href="findnpc_new,school02,Gather00055b" style="HLStyp
 interactinfo_6011_3=拿起<a href="findnpc_new,school02,Gather00056b" style="HLStype1">纱布</a>
 interactinfo_6012_1=找到<a href="findnpc_new,school02,EventNpc44014" style="HLStype1">林蚁巢穴</a>
 interactinfo_6013_2=咦，树下为何躺着<a href="findnpc_new,school02,WorldNpc03129" style="HLStype1">一个人</a>，看看怎么回事
-interactinfo_6014_1=再去查看下<a href="findnpc_new,school02,WorldNpc03129" style="HLStype1">尸体</a>
+interactinfo_6014_1=再去查看下<a href="findnpc_new,school02,WorldNpc03129" style="HLStype1">遗骸</a>
 interactinfo_6015_2=在<a href="findnpc_new,school02,EventNpc44015_1" style="HLStype1">附近</a>查看下是否有其他线索
 interactinfo_6016_3=看看<a href="findnpc_new,school02,EventNpc44015_2" style="HLStype1">附近</a>可有什么线索
 interactinfo_6017=这些<a href="findnpc_new,school02,EventNpc44030" style="HLStype1">官兵</a>居然还不说，看你的嘴硬还是我的拳头硬，接着打
@@ -679,7 +679,7 @@ interactinfo_6106_3=跟随<a href="findnpc_new,school07,ItemNpc03212" style="HLS
 interactinfo_6107_4=跟随<a href="findnpc_new,school07,ItemNpc03213" style="HLStype1">可疑的脚印</a>
 interactinfo_6108=去<a href="findnpc_new,school07,EventNpc44155" style="HLStype1">小晴说的地方</a>看看
 interactinfo_6109=看<a href="findnpc_new,school07,WorldNpc04441" style="HLStype1">艾伦</a>要说什么
-interactinfo_6110_1=调查旁边的<a href="findnpc_new,school07,WorldNpc04448" style="HLStype1">尸体</a>
+interactinfo_6110_1=调查旁边的<a href="findnpc_new,school07,WorldNpc04448" style="HLStype1">遗骸</a>
 interactinfo_6111_2=与<a href="findnpc_new,school07,WorldNpc04445" style="HLStype1">杨康鲵</a>交谈
 interactinfo_6112_1=前往<a href="findnpc_new,school07,EventNpc44160" style="HLStype1">山下查探</a>
 interactinfo_6113_2=与<a href="findnpc_new,school07,WorldNpc05109" style="HLStype1">李连城</a>交谈
@@ -699,7 +699,7 @@ interactinfo_6140_3=与<a href="findnpc_new,scene02,WorldNpc02120" style="HLStyp
 interactinfo_6141=<a href="findnpc_new,scene02,EventNpc44200" style="HLStype1">出去</a>打听情况
 interactinfo_6142=与<a href="findnpc_new,scene02,WorldNpc02121" style="HLStype1">翠然</a>交谈
 interactinfo_6143=与<a href="findnpc_new,scene02,WorldNpc02116" style="HLStype1">赵安磊</a>交谈
-interactinfo_6144=检查<a href="findnpc_new,scene02,WorldNpc02117" style="HLStype1">隐卫尸体</a>
+interactinfo_6144=检查<a href="findnpc_new,scene02,WorldNpc02117" style="HLStype1">隐卫遗骸</a>
 interactinfo_6145=窥视<a href="findnpc_new,scene02,EventNpc44205" style="HLStype1">田开光</a>
 interactinfo_6146=与<a href="findnpc_new,scene02,WorldNpc02119" style="HLStype1">林开复</a>交谈
 interactinfo_6147=与<a href="findnpc_new,scene02,WorldNpc02118" style="HLStype1">武汉阳</a>交谈
@@ -755,7 +755,7 @@ interactinfo_6211=与<a href="findnpc_new,city04,WorldNpc10027" style="HLStype1"
 interactinfo_6212=与<a href="findnpc_new,city01,WorldNpc08525" style="HLStype1">容可儿</a>交谈
 interactinfo_6213_1=与<a href="findnpc_new,city04,WorldNpc10057" style="HLStype1">焦无咎</a>交谈
 interactinfo_6214_2=与<a href="findnpc_new,city04,WorldNpc10057" style="HLStype1">焦无咎</a>交谈
-interactinfo_6215=去看看<a href="findnpc_new,city04,WorldNpc01402" style="HLStype1">开始腐烂的尸体</a>
+interactinfo_6215=去看看<a href="findnpc_new,city04,WorldNpc01402" style="HLStype1">开始腐烂的遗骸</a>
 interactinfo_6216_1=去找<a href="findnpc_new,city04,Gather00058a" style="HLStype1">工具</a>为朴兄弟修坟
 interactinfo_6217_2=与<a href="findnpc_new,city04,WorldNpc10058" style="HLStype1">焦无咎</a>交谈
 interactinfo_6218_1=与<a href="findnpc_new,city04,WorldNpc10066" style="HLStype1">焦无咎</a>交谈
@@ -839,8 +839,8 @@ okmenu44160_1=
 okmenu44353=我丐帮朴兄弟死于非命，我只是迫不得已。
 okmenu_6001=是！弟子定会牢记。
 okmenu_6006=
-okmenu_6013=尸体附近有打斗痕迹，看来此人是被谋杀的。
-okmenu_6014=<font face="Default" color="#ffffff" >那尸体附近有打斗痕迹，看来此人是被谋杀的。</font>
+okmenu_6013=遗骸附近有打斗痕迹，看来此人是被暗害的。
+okmenu_6014=<font face="Default" color="#ffffff" >那遗骸附近有打斗痕迹，看来此人是被暗害的。</font>
 okmenu_6020=那好吧，夏师兄，我就先走了！
 okmenu_6022=<font face="Default" color="#ffffff" >放心吧，李大哥，我这便去取来。</font>
 okmenu_6025=<font face="Default" color="#ffffff" >那地主实在可恶，你不用怕，我会给他点颜色看看的，你还是赶紧回去疗伤吧。</font>
@@ -1057,7 +1057,7 @@ story_6058_1=<s>本来呐，生活在浅滩对面的熊是很少到这镇子周�
 story_6058_2=<s>久闻丐帮弟子武功高强，行侠仗义，要是你能助我抵挡那些害人的熊，要多少美酒美食我都双手奉上！
 story_6059_1=<s>我在这鸡鸣驿也生活了几十年了，很少听到有熊主动攻击老百姓的事，你说那些熊最近如此反常会不会有什么原因？
 story_6059_2=<s>嗯……最近倒是来了一些做生意的女真人，想来不知有没有什么关系……
-story_6060_1=<s>这是肉，是掺了牛黄的人肉，一定是有人故意将这东西丢给熊吃的。熊长期食用，中了慢性的毒，也习惯了人肉的味道，所以才暴躁起来，以至于见到人就扑上去！
+story_6060_1=<s>这是肉，是掺了牛黄的生肉，一定是有人故意将这东西丢给熊吃的。熊长期食用，中了慢性的毒，也习惯了人肉的味道，所以才暴躁起来，以至于见到人就扑上去！
 story_6060_2=<s>一定就是那个你遇到的不明之人！
 story_6061_1=<s>没……我没醉！我……我跟你说，我们几个这次来，虽……然表面上是来做生意的，其……其实是……是有任务的！有任务的！
 story_6061_2=　　没错！任务……你瞧见那些咬人的熊了吗？就是我们干的！哈哈……我们干的！怎么干？不……不告诉你。我只告诉你……在这鸡鸣镇以外，还有我们的族人，只要时……机成熟，我响箭一飞！我们就把镇上那些没用的汉人胡人统统赶走！到时候……还得靠你相助一臂之力，哈哈……我们就可以尽情享用这里的毛皮、煤矿和药材了……我还可以把那女儿许……许配给你！
@@ -1098,7 +1098,7 @@ story_6134_2=<s>我还有些手下在外面，他们都曾经参与此事……
 story_6135_1=<s>哈哈哈，现在我需要的正是酒……酒总是能让我忘记痛苦……还有什么东西比酒更忠实呢？
 story_6135_2=<s>饮完这坛酒，我就回宿州老家耕田去。田家已经不需要我了。我这一辈子也没对不起过田家，我可以心安理得的走了……
 story_6170_1=<s>你可知道泛黄平原那里黄河决堤之事？
-story_6170_2=<s>由于常年的黄河泛滥的问题，泛黄平原的分舵现在处境很为难。人员收容，医药，资源补给和安葬等费用严重超支了。最近听闻，分舵弟子拉帮结伙到处打劫百姓！真是想不到会发生如此败坏丐帮名声之事！我想是不是改撤销泛黄分舵了……你去问问掌门的意思。
+story_6170_2=<s>由于常年的黄河泛滥的问题，泛黄平原的分舵现在处境很为难。人员收容，医药，资源补给和安葬等费用严重超支了。最近听闻，分舵弟子拉帮结伙到处掠夺百姓！真是想不到会发生如此败坏丐帮名声之事！我想是不是改撤销泛黄分舵了……你去问问掌门的意思。
 story_6171_1=<s>最近是招入了大量的新弟子，财政上也是入不敷出。不少新弟子确实做了不少不齿之事……
 story_6171_2=<s>泛黄平原的贫民百姓生活困顿，每天都有人饿死。这种情形下，加入丐帮不仅是帮助他们解决吃饭问题，更是给他们生存的希望，同时也减少加入叛军的几率。这时候要是撤销分舵，绝对是弊大于利！我们想要着手解决现有的问题，最近已经不再招入新弟子了。
 story_6172_1=你可注意到了附近的作乱分子？那些都是受歹人蛊惑的村民，现在他们已经跟强盗没差别了！
@@ -1106,9 +1106,9 @@ story_6172_2=他们抢走了很多赈灾的物资，还时常出来干扰堤坝�
 story_6173_1=你杀死的那些作乱难民中，有一个正是我的兄弟！他们都只是普通百姓而已，你为什么要对他们下次毒手？为什么？
 story_6173_2=他们是抢了官府的东西，但是只是九牛一毛而已！他们只是要为了自己为了家人能填饱肚子而已，这就足够你杀死他们吗？我知道你是受了谢拓的欺瞒而为之，所以我也不怪你。但是你要看清谢拓那厮的真面目！他不过是个外表仁慈内心奸诈的小人而已！
 story_6174_1=本次赈灾有两方面的困难。一方面就是物资的短缺，不过这个很快就能解决，很多赈灾物资马上要运抵了。
-story_6174_2=另一个困难当然是那些作乱的暴民！他们一日不除，赈灾工作就不好展开。所以我希望这件事情丐帮可以出手帮助官府，以期给那些暴徒致命的打击。
+story_6174_2=另一个困难当然是那些作乱的暴民！他们一日不除，赈灾工作就不好展开。所以我希望这件事情丐帮可以出手帮助官府，以期给那些歹人致命的打击。
 story_6175_3=要丐帮帮忙赈灾，我们肯定是义不容辞！但是……
-story_6175_4=那些作乱者原来都是本地的良民，迫于生计才会走上歪道。何况帮内不少弟子和他们都是亲戚朋友，真要去围剿他们，恐怕不现实！我们丐帮有责任保护当地百姓不受暴徒袭击，但是要我们去围剿那些作乱者，恐怕不适合。
+story_6175_4=那些作乱者原来都是本地的良民，迫于生计才会走上歪道。何况帮内不少弟子和他们都是亲戚朋友，真要去围剿他们，恐怕不现实！我们丐帮有责任保护当地百姓不受歹人袭击，但是要我们去围剿那些作乱者，恐怕不适合。
 story_6200_1=<s>难道你不知道？十天前有一个丐帮弟子携打狗棒来传令，说燕门暗通邪派，萧帮主命我们捣毁其势力，才有这件事？
 story_6200_2=<s>什么？我本来还以为你是来协助我们对付燕门的，这到底……难道那打狗棒是假的？我不可能会认错！
 story_6201_1=<s>还有什么好说的，难道伤我弟子的不是你丐帮弟子？
@@ -1217,7 +1217,7 @@ story_menu_6216=燕门世家
 story_menu_6217=指教武功
 story_menu_6218=<font face="Default" color="#ffffff" >囚禁之地</font>
 storyinfo_6001=请教<a href="findnpc_new,school02,WorldNpc03020" style="HLStype1">展化生</a>叫花鸡的做法
-storyinfo_6002=问问<a href="findnpc_new,school02,WorldNpc03120" style="HLStype1">柳旺</a>知不知道被发现的那具尸体的身份
+storyinfo_6002=问问<a href="findnpc_new,school02,WorldNpc03120" style="HLStype1">柳旺</a>知不知道被发现的那具遗骸的身份
 storyinfo_6003=与<a href="findnpc_new,school02,WorldNpc03120" style="HLStype1">柳旺</a>交谈
 storyinfo_6004=去救<a href="findnpc_new,school02,WorldNpc03126" style="HLStype1">展化生</a>
 storyinfo_6005=去找<a href="findnpc_new,school02,WorldNpc03005" style="HLStype1">霍让</a>
@@ -1478,7 +1478,7 @@ useiteminfo_6171=喂<a href="findnpc_new,scene03,WorldNpc06666" style="HLStype1"
 useiteminfo_6172=把<a href="TASK_ITEM,useitem_12m" style="HLStype1">新公告</a>张贴到<a href="findnpc_new,scene03,EventNpc44259" style="HLStype1">墙上</a>
 useiteminfo_6200=对<a href="findnpc_new,city01,WorldNpc08523" style="HLStype1">东方亚菱</a>出示<a href="TASK_ITEM,useitem_41a" style="HLStype1">伪造的打狗棒</a>
 useiteminfo_6201=对<a href="findnpc_new,city04,WorldNpc10027" style="HLStype1">燕百苦</a>出示<a href="TASK_ITEM,useitem_142b" style="HLStype1">打狗棒</a>
-useiteminfo_6202_1=在<a href="findnpc_new,city04,WorldNpc01402" style="HLStype1">开始腐烂的尸体</a>用<a href="TASK_ITEM,useitem_43a" style="HLStype1">石块</a>挖一座坟
+useiteminfo_6202_1=在<a href="findnpc_new,city04,WorldNpc01402" style="HLStype1">开始腐烂的遗骸</a>用<a href="TASK_ITEM,useitem_43a" style="HLStype1">石块</a>挖一座坟
 useiteminfo_6203=<a href="findnpc_new,school07,EventNpc44399" style="HLStype1">癫狂道人家</a>附近使用<a href="TASK_ITEM,useitem_44a" style="HLStype1">冬地鲜</a>
 useiteminfo_6204=用<a href="TASK_ITEM,useitem_005mm" style="HLStype1">空盆</a>到河里打一盆水
 useiteminfo_6242=用<a href="TASK_ITEM,useitem_006mm" style="HLStype1">空桶</a>为难民打一桶水

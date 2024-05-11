@@ -14,13 +14,13 @@ DialogID_3011_1=<font face="Default" color="#ffffff" >　　啊……我的眼�
 DialogID_3012=<font face="Default" color="#ffffff" >   多谢英雄救了我丈夫……呜呜……大恩大德，让我夫妻二人如何报答……</font>
 DialogID_3012_1=<font face="Default" color="#ffffff" >   少侠放心吧，待我处理好此地事宜，就会带你师兄回去的。</font>
 DialogID_3013=<font face="Default" color="#ffffff" >   </font><font face="Default" color="#ffffff" >{@IDName:Player}</font><font face="Default" color="#ffffff" >，你回来啦，这位就是薛穆仁薛神医，快来见过吧，他云游四方，这次碰巧被我逮住，正好也可为你看看能否治好失忆之症。</font>
-DialogID_3013_1=<font face="Default" color="#ffffff" >　　你就是那九宫老头儿救的小鬼？哎呀呀，我来此采药，那些盗墓者可恶的很，一直拦着不让我进山，我神功盖世，自是不屑与他们动手的，小鬼头快去帮我教训教训他们！</font>
+DialogID_3013_1=<font face="Default" color="#ffffff" >　　你就是那九宫老头儿救的小家伙？哎呀呀，我来此采药，那些盗墓者可恶的很，一直拦着不让我进山，我神功盖世，自是不屑与他们动手的，小家伙头快去帮我教训教训他们！</font>
 DialogID_3014_1=<font face="Default" color="#8fd6ef" >（这酒的颜色气味好生奇怪……）</font>
 DialogID_3015_1=<font face="Default" color="#8fd6ef" >（这酒的颜色气味好生奇怪……）</font>
 DialogID_3016_1=<font face="Default" color="#8fd6ef" >（这酒的颜色气味好生奇怪……）</font>
-DialogID_3017=<font face="Default" color="#ffffff" >   哎，大家都恨不得马上离开这鬼地方，只有一个老汉却说什么都不肯走，跟个赖皮孩童一般，我都不知该如何是好……</font>
+DialogID_3017=<font face="Default" color="#ffffff" >   哎，大家都恨不得马上离开这破地方，只有一个老汉却说什么都不肯走，跟个赖皮孩童一般，我都不知该如何是好……</font>
 DialogID_3017_1=　　少侠，你说你在找一个矮矮瘦瘦的小孩？我刚看到一群绑匪把他押到山上的据点去了，可恨，若不是贼众势大，我柯俊也不会在此束手无策！少侠，我看你也是侠义之人，不如我们联手，先把附近的杂碎除去。他们在此放哨，已经被我注意很久了！
-DialogID_3018=<font face="Default" color="#ffffff" >   唉哟哟，我这腿疼啊，走不动了……你这小鬼来干什么，我在这待得挺高兴的，别来烦我。哦，呐，对了，你拿上这小铲子，快</font><font face="Default" color="#ffffff" >些</font><font face="Default" color="#ffffff" >去庙后土堆那儿给我往深处挖些泥土回来！</font>
+DialogID_3018=<font face="Default" color="#ffffff" >   唉哟哟，我这腿疼啊，走不动了……你这小家伙来干什么，我在这待得挺高兴的，别来烦我。哦，呐，对了，你拿上这小铲子，快</font><font face="Default" color="#ffffff" >些</font><font face="Default" color="#ffffff" >去庙后土堆那儿给我往深处挖些泥土回来！</font>
 DialogID_3018_1=　　你是谁？敢到老子的山头来？看老子不好好收拾你！
 DialogID_3019=<font face="Default" color="#ffffff" >   少侠，你问风铃谷怎么走？此地就是了。</font><font face="Default" color="#ffffff" >可……</font><font face="Default" color="#ffffff" >这附近最近出现了一帮拦路劫匪，对行人恃强抢夺，还望少侠能够为民除害……</font>
 DialogID_3019_1=　　少侠，你是来打听风铃谷的？此地就是。附近最近出现了一帮拦路劫匪，专门对行人进行虐杀抢夺，还望少侠能够出手相助。
@@ -287,8 +287,8 @@ collectinfo_3021=采集<a href="findnpc_new,city02,Gather00013g" style="HLStype1
 collectinfo_3022=已捡起<a href="findnpc_new,scene04,Gather00006f" style="HLStype1">用纸包裹的酥油块</a>
 collectinfo_3023=已抢回<a href="findnpc_new,scene04,Gather00019g" style="HLStype1">丢失的粮食</a>
 collectinfo_3024=找回<a href="findnpc_new,scene04,Gather00017f" style="HLStype1">药篓</a>
-collectinfo_3025=从<a href="findnpc_new,scene04,monf041200" style="HLStype1">西域喇嘛</a>身上找出解药
-collectinfo_3026=打败<a href="findnpc_new,scene04,monf041400" style="HLStype1">喇嘛护法</a>并抢件衣服给黑白子
+collectinfo_3025=从<a href="findnpc_new,scene04,monf041200" style="HLStype1">西域僧侣</a>身上找出解药
+collectinfo_3026=打败<a href="findnpc_new,scene04,monf041400" style="HLStype1">僧侣护法</a>并抢件衣服给黑白子
 collectinfo_3027=搬来放外面的<a href="findnpc_new,scene04,Gather0017mm" style="HLStype1">粮食</a>
 collectinfo_3028=用{@item}去河边打水
 collectinfo_3029_1=收集<a href="findnpc_new,scene05,Gather00022g" style="HLStype1">当归</a>
@@ -348,7 +348,7 @@ hunterinfo_3007=击败眼前这山贼头目<a href="findnpc_new,born03,monrv0302
 hunterinfo_3008=除掉看门的<a href="findnpc_new,born03,monv030402" style="HLStype1">鬼祟山贼</a>，也好方便大家逃出
 hunterinfo_3009=<a href="findnpc_new,born03,monrv030246" style="HLStype1">高玉洁</a>很是气恼，抢近身攻了上来
 hunterinfo_3009_1=消灭<a href="findnpc_new,born03,monrv030228" style="HLStype1">劫匪</a>
-hunterinfo_3010=想不到刚出城门，已经被<a href="findnpc_new,city02,monrc013909" style="HLStype1">北山恶匪</a>给盯上了，看来都是些趁乱打劫之辈，不如借机除掉他们
+hunterinfo_3010=想不到刚出城门，已经被<a href="findnpc_new,city02,monrc013909" style="HLStype1">北山恶匪</a>给盯上了，看来都是些趁乱掠夺之辈，不如借机除掉他们
 hunterinfo_3010_2=已消灭<a href="findnpc_new,born03,bossv030100" style="HLStype1">武霸王</a>
 hunterinfo_3011=杀败附近的<a href="findnpc_new,born03,monv031602" style="HLStype1">废墟盗墓者</a>
 hunterinfo_3012=击败女隐卫<a href="findnpc_new,born03,bossv030300" style="HLStype1">毋学冰</a>
@@ -765,7 +765,7 @@ story_3021_2=<s>原来是这样
 story_3022_1=最近这梨花寨周围也不是很安分。不知什么时候，开始流传九阴真经重现的消息。
 story_3022_2=是的，传言，九阴真经就在那霓裳宫中。不过，不知道这传言是从何而来的。
 story_3023_1=　　刚刚收到线索，梨花寨里来了一个不速之客，他就是长白派的长老侯迁。长白派在遥远的北境，不知为何他会出现在这里。
-story_3024_1=老夫知道你想问什么，老夫嗜酒如命看在这壶美酒的份上，老夫就和你坦言。
+story_3024_1=老夫知道你想问什么，老夫爱酒如命看在这壶美酒的份上，老夫就和你坦言。
 story_3024_2=九阴真经重现江湖一事，老夫略有耳闻。 老夫的两个好友也在此处，你不妨去找他们探个究竟。
 story_3025_1=五仙教的人实在是咄咄逼人，太可恶了！
 story_3025_2=五仙教的教主，名叫白素珏。原是我霓裳宫的弟子。当年，她为了速成高手，鬼迷心窍，盗取了我宫内秘籍。老宫主将她逐出师门。后来却不料她到了五仙教，练就了一身武功。并当上了五仙教的教主。这番，在她授命之下，终于开始寻仇来了！
@@ -779,7 +779,7 @@ story_3029_1=听说，你正在打探星星小楼的事情对么？我劝你莫�
 story_3029_2=具体的我也不知道，但是，这不是一件简单的事情。我这便要离开了，还请代为向庄主辞行。
 story_3030_1=卦象显示，你所求之事，不在西南，而在东北。并且，谋事可成，但几多波折。呃……
 story_3030_2=凶、大凶！你在不久必有一劫，化解办法，必须得贵人相助。这贵人，老朽也算不出来。
-story_3031_1=我平素最爱斗蛐蛐。那天我带着宝贝“青月牙”来成都后大杀四方后，竟意外败在了一个小孩手上。他那只黑黑小小瘦瘦的蛐蛐居然能打败我的“青月牙”。后来我又重金收了很多上等蛐蛐，但总是打不过他的蛐蛐。唉……愁死我了。
+story_3031_1=我平素最爱斗蛐蛐。那天我带着宝贝“青月牙”来成都后力战群雄后，竟意外败在了一个小孩手上。他那只黑黑小小瘦瘦的蛐蛐居然能打败我的“青月牙”。后来我又重金收了很多上等蛐蛐，但总是打不过他的蛐蛐。唉……愁死我了。
 story_3031_2=三叔？你找我三叔何事？
 story_3032_1=这蛐蛐真不错，一定能打赢他！
 story_3032_2=哦，三叔啊，找到啦！不过他去浣花山庄了，我本应与他一起去的，但我心想，我去了，怎么告诉你他到哪里去了，是吧。
@@ -805,7 +805,7 @@ story_3040_1=<font face="Default" color="#ffffff" >   </font><font face="Default
 story_3040_2=<font face="Default" color="#ffffff" >   </font><font face="Default" color="#ffffff" > </font><font face="Default" color="#ffffff" >如你所见，</font><font face="Default" color="#ffffff" >一切皆</font><font face="Default" color="#ffffff" >因这</font><font face="Default" color="#ffffff" >位</font><font face="Default" color="#ffffff" >黑白子老前辈所起，</font><font face="Default" color="#ffffff" >详细</font><font face="Default" color="#ffffff" >情由，你可</font><font face="Default" color="#ffffff" >以向一旁</font><font face="Default" color="#ffffff" >的水无心</font><font face="Default" color="#ffffff" >芳主询问</font><font face="Default" color="#ffffff" >。</font>
 story_3041_1=<font face="Default" color="#ffffff" >   难得你有这份心，</font><font face="Default" color="#ffffff" >昔日与那火工头陀比武较技，却遭他施阴手暗算，伤了眼睛，实在惭愧难当……待我休养一番，定让他好看！</font>
 story_3041_2=<font face="Default" color="#ffffff" >   这些蠢材相陪怕只会让我功夫越来越差，还是放他们出去的好！一会你去通知他们</font><font face="Default" color="#ffffff" >快些离开</font><font face="Default" color="#ffffff" >，否则，休怪我打断他们的狗腿，废掉他们武功！</font>
-story_3041_3=<font face="Default" color="#ffffff" >   咦？你这小鬼颈</font><font face="Default" color="#ffffff" >侧</font><font face="Default" color="#ffffff" >的印记似是西北某部落的特有图腾，不知你归谁门下？</font>
+story_3041_3=<font face="Default" color="#ffffff" >   咦？你这小家伙颈</font><font face="Default" color="#ffffff" >侧</font><font face="Default" color="#ffffff" >的印记似是西北某部落的特有图腾，不知你归谁门下？</font>
 story_3041_4=<font face="Default" color="#ffffff" >   我也只是道听途说，你能被九宫老儿所救，也是你的造化，等时候到了，你自然能找到想知道的一切……你帮我治眼伤，我也不能欠你人情，你去找水无心那丫头拿上宝库钥匙去选几件礼物吧。</font>
 story_3042_1=<font face="Default" color="#ffffff" >  </font><font face="Default" color="#ffffff" > </font><font face="Default" color="#ffffff" >此花开时鲜艳欲滴，从花瓣到根茎却硬似钢铁，三年开花一次，每次只开三个时辰，随后花茎迅速枯萎……</font>
 story_3042_2=<font face="Default" color="#ffffff" >   这奇花生长于那风铃园</font><font face="Default" color="#ffffff" >外围</font><font face="Default" color="#ffffff" >的</font><font face="Default" color="#ffffff" >矮树丛中，常人极难发现</font><font face="Default" color="#ffffff" >。</font><font face="Default" color="#ffffff" >不过</font><font face="Default" color="#ffffff" >眼下</font><font face="Default" color="#ffffff" >开花</font><font face="Default" color="#ffffff" >时辰已过，你再去也是枉然，一切都是上天注定啊……</font>

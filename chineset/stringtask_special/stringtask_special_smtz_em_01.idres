@@ -80,7 +80,6 @@ specialinfo_596=通關虎嘯山莊，探明詭計
 specialinfo_597=通關禁地暮色之村
 story_58101_1=<font face="Default" color="#ffffff" >武當紫陽真人傳訊于我，說近來虎嘯山莊異動頻繁，你且速速前去虎嘯山莊，看這些邪門歪道之人究竟有何陰謀！</font>
 story_58102_1=<font face="Default" color="#ffffff" >而今山下似乎有江湖宵小鬧事，你且速速下山將之驅走，莫要擾了我峨眉清靜之地，也莫要墜了我峨眉聲威。</font>
-story_58103_1=<font face="Default" color="#ffffff" >這！竟然是他！哼！這麼多年，想不到他竟然還沒有死！似這等大奸大惡之人，定不能放過！</font>
 story_58104_1=<font face="Default" color="#ffffff" >趙子亟？莫不是前幾日韓家之人查問的趙子亟？此人正躲在暮色之村。客官莫不是找他？只怕現在不好找了。聽說此人和韓家有仇，韓家之人已經前往暮色之村尋他去了。</font>
 story_menu_58101=<font face="Default" color="#ffffff" >不知掌門有何要事？</font>
 story_menu_58102=<font face="Default" color="#ffffff" >不知掌門有何吩咐？</font>
@@ -94,7 +93,6 @@ storyinfo_58104=向掌櫃<a href="findnpc_new,city02,FuncNpc00106" style="HLStyp
 storyinfo_58105=拜見掌門<a href="findnpc_new,school06,WorldNpc02604" style="HLStype1">絕塵師太</a>，看掌門有何吩咐
 storymenu_58101_1=<font face="Default" color="#ffffff" >弟子領命。</font>
 storymenu_58102_1=<font face="Default" color="#ffffff" >弟子明白。</font>
-storymenu_58103_1=<font face="Default" color="#ffffff" >不知掌門所說乃是何人？</font>
 storymenu_58103_2=<font face="Default" color="#ffffff" >弟子遵命。</font>
 storymenu_58104_1=<font face="Default" color="#ffffff" >既如此，在下這便前往暮色之村尋他。</font>
 storymenu_58105_1=<font face="Default" color="#ffffff" >弟子領命。</font>
@@ -114,9 +112,11 @@ specialinfo_251=挑戰百獸莊，算是對他們縱虎傷人的一個教訓
 specialinfo_252=挑戰摘星門，擊敗他們，阻止其馴養噬骨白蟻
 specialinfo_254=挑戰浣花山莊
 specialinfo_331=挑戰嵩山鐵劍門
-DialogID_58112=<font face="Default" color="#ffffff" >想必此間事情定不簡單，你且速速前往青雲堡，無論動用何種手段，務要查清這蝴蝶攻克一事的真相，找出幕後之人。</font>
 specialinfo_250=攻克朝廷要犯，完成一次江湖通緝任務，若是能生擒活捉，送往官府，那是再好不過
 specialinfo_598=通關禁地青雲堡，調查蝴蝶攻克一事的真相
-story_58103_2=<font face="Default" color="#ffffff" >此人名叫趙子亟，乃是數年前橫行江湖的冷血隱衛，這麼多年了，想不到此人竟然還沒有死！你且速速下山前往蘇州，務要查清趙子亟下落，此次定要一攻克之，不可放過此人！</font>
 story_58105_1=<font face="Default" color="#ffffff" >近來洛陽城附近盛傳蝴蝶攻克之事，恐怕此時乃是江湖邪派所為。我峨眉身為武林正道，此等行事手段不容姑息，你且下山前往洛陽，務必查清此事。</font>
+DialogID_58112=<font face="Default" color="#ffffff" >此事與我猜測的無異，我已派人去</font><font face="Default" color="#ffffff" >探查</font><font face="Default" color="#ffffff" >。靜候佳音吧！</font>
+story_58103_1=<font face="Default" color="#ffffff" >竟然有賊人窺探我峨眉武學！</font>
+story_58103_2=<font face="Default" color="#ffffff" >你近日便加強戒備，以防賊人偷襲！</font>
+storymenu_58103_1=<font face="Default" color="#ffffff" >何人如此大膽！</font>
 

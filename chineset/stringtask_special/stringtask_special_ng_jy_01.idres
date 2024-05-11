@@ -133,7 +133,6 @@ story_83510_2=<font face="Default" color="#ffffff" >線索中還提到另外一�
 story_83511_1=<font face="Default" color="#ffffff" >江南？你說俏玲瓏吧。她都消失多少年了，早就不知道死在哪裡了，你找她</font><font face="Default" color="#ffffff" >幹嗎</font><font face="Default" color="#ffffff" >？</font>
 story_83511_2=<font face="Default" color="#ffffff" >她是個孤兒，沒名字。小時候被人收養，長大後因為玲瓏中又有一絲俊俏，所以叫俏玲瓏。因為常年在江南一帶活動，所以江湖人都叫她妙手江南俏玲瓏，嘖嘖！哎，我說你誰啊？問這個幹嗎？</font>
 story_83511_3=<font face="Default" color="#ffffff" >別找我！我還想找她呢。當年若不是我幫她銷贓，她能有日後的名氣？轉臉就不認識人，就知道和八面佛搞在一起。不過我現在可不幹這個了，我干正當買賣了。我說你問東問西，到底想幹嗎？快滾，別怪我對你不客氣。</font>
-story_83512_1=<font face="Default" color="#ffffff" >別打別打，我都告訴你！八面佛是她姘頭，就是他收養了玲瓏。我早知道他們兩個人有一腿，有一回讓我撞見了。媽的，枉我對她那麼好，收來的贓都想盡辦法幫她賣高價。</font><font face="Default" color="#ffffff" >她就是不正臉我看一眼。</font>
 story_83513_1=<font face="Default" color="#ffffff" >八面佛？難怪江湖上有「妙手佛，八面的玲瓏」的說法，原來說的是他們兩</font><font face="Default" color="#ffffff" >人</font><font face="Default" color="#ffffff" >！八面佛失蹤？為何宮中一直傳說只有妙手江南一人行竊。我說怎麼堂堂大內卻讓一個大盜給跑了。八面佛肯定是被擒了，讓我想想。</font>
 story_83513_2=<font face="Default" color="#ffffff" >當年廠公在宮中主事。八面佛武功高強，他沒有理由就這麼輕易殺掉，還要封鎖消息。這樣看來八面佛不但沒死，還被廠公收買了。我已經知道八面佛是誰了。</font>
 story_83515_1=<font face="Default" color="#ffffff" >趙藏鋒！哼，他不過是廠公的狗腿子，背信棄義，無恥之極！當年我對他忠心耿耿，他自己辦砸了事卻陷害於我，如不是皇甫統領當年力保我，恐怕我早就見閻王了。我巴不得趙藏鋒不得好死。</font>
@@ -258,7 +257,6 @@ DialogID_83526=<font face="Default" color="#ffffff" >巧匠前些日子跟著一
 SubmitNpcEx_58532=向<a href="findnpc_new,school01,npc_5neidh_jy" style="HLStype1">何驚凌</a>提交任務<font color="#FF3333">（完成此任務將開啟錦衣衛五內任務，且後續任務均不可放棄）</font>
 SubmitNpcEx_58539=皇上將下旨恢復錦衣衛在宮中的職務，快把這個喜訊告訴<a href="findnpc_new,school01,npc_5neidh_jy" style="HLStype1">何驚凌</a>
 collectinfo_83507=遇襲<a href="findnpc_new,school01,npc_5neijy_58535act01" style="HLStype1">黑衣人</a>，竟敢打老子的主意，讓你好看，殺了黑衣人搜搜身上有什麼
-collectinfo_83508=那叛徒剛提到什麼計劃書，從<a href="findnpc_new,school01,npc_5neijy_58538npc01" style="HLStype1">屍體</a>上找找看，找到了好立功
 hunterinfo_83517=遇襲<a href="findnpc_new,school01,npc_5neijy_58535act01" style="HLStype1">黑衣人</a>，竟敢打老子的注意，讓你好看
 hunterinfo_83518=前往金陵皇宮，找到<a href="findnpc_new,city03,npc_5neijy_58539npc01" style="HLStype1">接頭人</a>問問最近皇宮是否有異樣
 hunterinfo_83519=前往慈寧宮查看，如有異樣定要<a href="findnpc_new,city03,npc_5neijy_58539act01" style="HLStype1">保護好皇上</a>（此任務在分組中進行，出分組後找<a href="findnpc_new,city03,npc_5neijy_58539npc01" style="HLStype1">接頭人</a>可重新進入分組）
@@ -288,7 +286,6 @@ story_83534_2=<font face="Default" color="#ffffff" >我看看.....為何那瓦�
 story_83535_1=<font face="Default" color="#ffffff" >朕沒事，那些小蟊賊也傷不了朕。對了，你又是何人，</font><font face="Default" color="#ffffff" >看你這樣子不像是大內的侍衛，夜闖慈寧宮是為何？</font>
 story_83535_2=<font face="Default" color="#ffffff" >原來是錦衣衛的</font><font face="Default" color="#ffffff" >弟子</font><font face="Default" color="#ffffff" >，</font><font face="Default" color="#ffffff" >你有何證據說這伙刺客是東廠他們派來的？有何證據說東廠和瓦剌國師勾結？</font>
 story_83535_3=<font face="Default" color="#ffffff" >也罷，難得你們心中還有朕。小李子，明天傳道聖旨到錦衣衛，恢復錦衣衛在朝中的所有職務。</font>
-story_83535_4=<font face="Default" color="#ffffff" >還有今天的事誰也不許外傳，如有其他人知道格殺勿論，朕倒要看看哪隻老狐狸會先忍不住露出尾巴。朕累了，你先下去吧！</font>
 story_83536_1=<font face="Default" color="#ffffff" >看來東廠最近有大動作，不過我們也沒有確鑿的證據證明這一點</font><font face="Default" color="#ffffff" >，只能靜觀其變了。</font>
 story_83536_2=<font face="Default" color="#ffffff" >嗯，我會派人暗中盯住東廠的。這次你救了皇上，皇上可有何嘉獎？</font>
 story_83536_3=<font face="Default" color="#ffffff" >哈哈哈，</font><font face="Default" color="#ffffff" >{@0:name}，這次你可是我們錦衣衛的大功臣啊，如此年輕有為，師叔真替你高興。</font>
@@ -343,4 +340,7 @@ collectinfo_83509=去祥雲村的峽谷中殺死<a href="findnpc_new,school01,np
 story_83532_1=<font face="Default" color="#ffffff" >嗯?...!這布料上的特殊味道上回老夫還在宮中聞到過，如不出老夫所料，這布料應該是產自瓦剌，這上的字符也是瓦剌語的一部分，不過不全，需要塗抹一種叫黑蛇的毒蛇膽汁才能全部顯現出來，這是瓦剌國的一種暗號形式。</font>
 story_83532_2=<font face="Default" color="#ffffff" >說來話巧，這黑蛇本是西域之蛇，我中原地區是沒有的，不過我上次去祥雲村附近的峽谷採藥時偶然發現了這種蛇，也不知道是誰放在那裡的。</font><font face="Default" color="#ffffff" >這蛇攻擊性極強，留在那對村民也是個危害。</font>
 storymenu_83532_1=<font face="Default" color="#ffffff" >額，黑蛇？從沒聽過這種蛇，我該去哪幫你找這蛇膽。</font>
+collectinfo_83508=那叛徒剛提到什麼計劃書，從<a href="findnpc_new,school01,npc_5neijy_58538npc01" style="HLStype1">遺骸</a>上找找看，找到了好立功
+story_83512_1=<font face="Default" color="#ffffff" >別打別打，我都告訴你！八面佛是她姘頭，就是他收養了玲瓏。我早知道他們兩個人有一腿，有一回讓我撞見了。枉我對她那麼好，收來的贓都想盡辦法幫她賣高價。</font><font face="Default" color="#ffffff" >她就是不正臉我看一眼。</font>
+story_83535_4=<font face="Default" color="#ffffff" >還有今天的事誰也不許外傳，如有其他人知道片甲不留，朕倒要看看哪隻老狐狸會先忍不住露出尾巴。朕累了，你先下去吧！</font>
 

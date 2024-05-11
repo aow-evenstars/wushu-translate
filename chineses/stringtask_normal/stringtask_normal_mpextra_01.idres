@@ -108,6 +108,17 @@ CanAcceptMenu_45632=<font face="Default" color="#ffffff" >派内考核</font>
 CanAcceptMenu_45633=<font face="Default" color="#ffffff" >核准下山</font>
 CanAcceptMenu_45634=<font face="Default" color="#ffffff" >历练归来</font>
 CanAcceptMenu_45635=<font face="Default" color="#ffffff" >返回</font><font face="Default" color="#ffffff" >昆仑</font><font face="Default" color="#ffffff" >派</font>
+CanAcceptMenu_45636=<font face="Default" color="#ffffff" >叛出师门</font><font face="Default" color="#ff0000" >（叛出师门任务完成后将会删除你所学的刑天城所有内功以及武学，请少侠三思而行）</font>
+CanAcceptMenu_45637=<font face="Default" color="#ffffff" >谣言四起</font>
+CanAcceptMenu_45638=<font face="Default" color="#ffffff" >叛出门派</font>
+CanAcceptMenu_45639=<font face="Default" color="#ffffff" >加入</font><font face="Default" color="#ffffff" >刑天城</font>
+CanAcceptMenu_45640=<font face="Default" color="#ffffff" >擅自下山</font>
+CanAcceptMenu_45641=<font face="Default" color="#ffffff" >踏足江湖</font>
+CanAcceptMenu_45642=<font face="Default" color="#ffffff" >实力考验</font>
+CanAcceptMenu_45643=<font face="Default" color="#ffffff" >派内考核</font>
+CanAcceptMenu_45644=<font face="Default" color="#ffffff" >核准下山</font>
+CanAcceptMenu_45645=<font face="Default" color="#ffffff" >历练归来</font>
+CanAcceptMenu_45646=<font face="Default" color="#ffffff" >返回</font><font face="Default" color="#ffffff" >刑天城</font>
 CanAcceptMenu_45900=<font face="Default" color="#ffffff" >擅自下山</font><font face="Default" color="#ff0000" >（擅自下山任务完成后，本门镇派武学将被废除，所有本门内功以及武学招式将会降级，请少侠三思而行）</font>
 CanAcceptMenu_45902=踏足江湖
 CanAcceptMenu_45903=<font face="Default" color="#ffffff" >擅自下山</font><font face="Default" color="#ff0000" >（擅自下山任务完成后，本门镇派武学将被废除，所有本门内功以及武学招式将会降级，请少侠三思而行）</font>
@@ -265,6 +276,17 @@ CompleteMenu_45632=<font face="Default" color="#ffffff" >完成任务</font>
 CompleteMenu_45633=<font face="Default" color="#ffffff" >完成任务</font>
 CompleteMenu_45634=<font face="Default" color="#ffffff" >完成任务</font>
 CompleteMenu_45635=<font face="Default" color="#ffffff" >完成任务</font>
+CompleteMenu_45636=<font face="Default" color="#ffffff" >完成任务</font>
+CompleteMenu_45637=<font face="Default" color="#ffffff" >完成任务</font>
+CompleteMenu_45638=<font face="Default" color="#ffffff" >完成任务</font>
+CompleteMenu_45639=<font face="Default" color="#ffffff" >完成任务</font>
+CompleteMenu_45640=<font face="Default" color="#ffffff" >完成任务</font>
+CompleteMenu_45641=<font face="Default" color="#ffffff" >完成任务</font>
+CompleteMenu_45642=<font face="Default" color="#ffffff" >完成任务</font>
+CompleteMenu_45643=<font face="Default" color="#ffffff" >完成任务</font>
+CompleteMenu_45644=<font face="Default" color="#ffffff" >完成任务</font>
+CompleteMenu_45645=<font face="Default" color="#ffffff" >完成任务</font>
+CompleteMenu_45646=<font face="Default" color="#ffffff" >完成任务</font>
 CompleteMenu_45900=完成任务
 CompleteMenu_45902=完成任务
 CompleteMenu_45903=完成任务
@@ -422,6 +444,17 @@ accept_45632_1=<font face="Default" color="#ffffff" >虽然你如今的武功略
 accept_45633_1=<font face="Default" color="#ffffff" >今日我核准你下山历练。</font><font face="Default" color="#ffffff" >昆仑</font><font face="Default" color="#ffffff" >派弟子素来雅致，即便于江湖之中行走，也莫要做出有损斯文之事。</font><font face="Default" color="#ff0000" >凡是下山历练的弟子所有本门内功以及武学招式将会降级（包括镇派武学）。</font>
 accept_45634_1=<font face="Default" color="#ffffff" >你乃是我</font><font face="Default" color="#ffffff" >昆仑</font><font face="Default" color="#ffffff" >派外出历练弟子，今日前来不知有何要事？</font>
 accept_45635_1=<font face="Default" color="#ffffff" >  你这个烦人的家伙，怎么又来打搅我和师傅的清净生活了！这回又有什么事要我帮忙啊？</font>
+accept_45636_1=<font face="Default" color="#ffffff" >  你怎么还在这里，刚刚</font><font face="Default" color="#ffffff" >大将军</font><font face="Default" color="#ffffff" >一直在派人找你，怕是有事，你赶紧过去看看吧。</font>
+accept_45637_1=<font face="Default" color="#ffffff" >  我也不想与你多废话，我们刑天城的门规是如何定的，你当初入门之时肯定也知道，如今你已经触犯了我刑天城派大忌，你去找</font><font face="Default" color="#ffffff" >大将军</font><font face="Default" color="#ffffff" >，看看他准备怎么发落你吧。</font>
+accept_45638_1=<font face="Default" color="#ffffff" >  离开</font><font face="Default" color="#ffffff" >刑天城</font><font face="Default" color="#ffffff" >？你可是要叛出师门？既然你心意已决，我就答应了你，但是你要知道，</font><font face="Default" color="#ff0000" >叛出师门后你所学过的刑天城门派武学招式以及内功都将被废除，你可愿意？背叛我刑天城将与整刑天城为敌，你好自为之。</font>
+accept_45639_1=<font face="Default" color="#ffffff" >  你是何人？这是</font><font face="Default" color="#ffffff" >刑天城</font><font face="Default" color="#ffffff" >，闲杂人等不得擅闯。</font>
+accept_45640_1=<font face="Default" color="#ffffff" >你此番前来，所为何事？</font>
+accept_45641_1=<font face="Default" color="#ffffff" >擅自下山？太好了，我也正有此意，不如我俩结伴而行如何？</font>
+accept_45642_1=<font face="Default" color="#ffffff" >既然你心意已决我便不再多言，若你能证明自己有足够的实力，我便可允许你下山历练。想要证明自己</font>
+accept_45643_1=<font face="Default" color="#ffffff" >虽然你如今的武功略有小成，然并不足以凭此获得下山历练的资格，派内将对你进行考核，内容包括你加入门派以来的所作所为，武学修炼以及对门派的贡献，我会将结果在后交由</font><font face="Default" color="#ffffff" >大将军</font><font face="Default" color="#ffffff" >，你能否下山历练到时掌门自有定夺。</font>
+accept_45644_1=<font face="Default" color="#ffffff" >今日我核准你下山历练。</font><font face="Default" color="#ffffff" >刑天城</font><font face="Default" color="#ffffff" >弟子素来雅致，即便于江湖之中行走，也莫要做出有损斯文之事。</font><font face="Default" color="#ff0000" >凡是下山历练的弟子所有本门内功以及武学招式将会降级（包括镇派武学）。</font>
+accept_45645_1=<font face="Default" color="#ffffff" >你乃是我</font><font face="Default" color="#ffffff" >刑天城</font><font face="Default" color="#ffffff" >外出历练弟子，今日前来不知有何要事？</font>
+accept_45646_1=<font face="Default" color="#ffffff" >  你这个烦人的家伙，怎么又来打搅我和师傅的清净生活了！这回又有什么事要我帮忙啊？</font>
 accept_45900_1=阿弥陀佛。你前来我处，不知所为何事？
 accept_45902_1=<font face="Default" color="#ffffff" >阿弥陀佛。师弟还是莫要在此多留，师兄先行一步了。</font>
 accept_45903_1=不知你此番前来，所为何事？
@@ -579,6 +612,17 @@ complete_45632=<font face="Default" color="#ffffff" >考核期限已到，掌门
 complete_45633=<font face="Default" color="#ffffff" >既然如此，你且自行下山去吧。玉笛一曲，祝你能在江湖之中创出一番天地。</font>
 complete_45634=<font face="Default" color="#ffffff" >你此番外出经历之事我已知晓，虽未做出有辱斯文之事，却也无甚建树。也罢，今日我便允你再入我</font><font face="Default" color="#ffffff" >昆仑</font><font face="Default" color="#ffffff" >派门墙之内，自今日起，修身养性，勤学苦练，莫要辜负我一番苦心。</font>
 complete_45635=<font face="Default" color="#ffffff" >   哈哈哈，别急别急，你摸摸自己的脸蛋，是不是变回去了？你现在回去吧，门派里面的人都认识你。</font>
+complete_45636=<font face="Default" color="#ffffff" >  我听闻门内弟子私底下议论，你最近与</font><font face="Default" color="#ffffff" >一些江湖人士</font><font face="Default" color="#ffffff" >走的很近？是不是有这么一回事？</font>
+complete_45637=<font face="Default" color="#ffffff" >  慌慌张张的什么事？</font>
+complete_45638=<font face="Default" color="#ffffff" >既然你这么坚定，那我也就不再说什么了，记住，路是你选的，一切后果你要努力承担。从今往后刑天城与你划定界限，井水不犯河水。</font>
+complete_45639=<font face="Default" color="#ffffff" >  （接过引荐信，查看起来）事情的经过我都知道了，你以后就留在我</font><font face="Default" color="#ffffff" >刑天城</font><font face="Default" color="#ffffff" >吧，你先下去吧。</font>
+complete_45640=<font face="Default" color="#ffffff" >你不在房中好生反思</font><font face="Default" color="#ffffff" >大将军</font><font face="Default" color="#ffffff" >所说之事？来此何为？</font>
+complete_45641=<font face="Default" color="#ffffff" >下山历练首先要证明的是你自己的实力，江湖险恶，在江湖游历中难免会遇到些突发事件，首先你要有足够的实力来保护自己。</font>
+complete_45642=<font face="Default" color="#ffffff" >能够取得此物，足以证明你于武功一道已有小成。</font>
+complete_45643=<font face="Default" color="#ffffff" >考核期限已到，</font><font face="Default" color="#ffffff" >指挥使</font><font face="Default" color="#ffffff" >已将你入门以来诸事皆告知于我。</font>
+complete_45644=<font face="Default" color="#ffffff" >既然如此，你且自行下山去吧。玉笛一曲，祝你能在江湖之中创出一番天地。</font>
+complete_45645=<font face="Default" color="#ffffff" >你此番外出经历之事我已知晓，虽未做出有辱斯文之事，却也无甚建树。也罢，今日我便允你再入我</font><font face="Default" color="#ffffff" >刑天城</font><font face="Default" color="#ffffff" >门墙之内，自今日起，修身养性，勤学苦练，莫要辜负我一番苦心。</font>
+complete_45646=<font face="Default" color="#ffffff" >   哈哈哈，别急别急，你摸摸自己的脸蛋，是不是变回去了？你现在回去吧，门派里面的人都认识你。</font>
 complete_45900=<font face="Default" color="#ffffff" >阿弥陀佛！此处偏僻，师弟何以到此？是否想偷偷下山，不妨我与你同行。</font>
 complete_45902=<font face="Default" color="#ffffff" >下山历练首先要证明的是你自己的实力，江湖险恶，在江湖游历中难免会遇到些突发事件，首先你要有足够的实力来保护自己。</font>
 complete_45903=<font face="Default" color="#ffffff" >此地偏僻，师妹何以到此？是否是要偷偷下山</font><font face="Default" color="#ffffff" >？</font>
@@ -736,6 +780,17 @@ context_45632=派内将进行考核，内容包括加入门派以来的所作所
 context_45633=拜别掌门，离开昆仑派踏入江湖。
 context_45634=与<a href="findnpc_new,school24,newmp_kl_003" style="HLStype1">无为道长</a>交谈询问重归昆仑派一事。
 context_45635=找到神秘怪医弟子，寻找去除易容效果，做回真正的自己，回到昆仑派。
+context_45636=你怎么还在这里，刚刚大将军一直在派人找你，怕是有事，你赶紧过去看看吧。
+context_45637=门内对我的议论已经引起了大将军的注意，为何我不趁此叛出刑天城呢？
+context_45638=离开刑天城？你可是要叛出师门？既然你心意已决，我就答应了你，但是你要知道，叛出师门后你所学过的刑天城门派武学招式以及内功都将被废除，你可愿意？背叛我刑天城将与整个刑天城为敌，你好自为之。
+context_45639=误打误撞来到了刑天城地盘，希望能加入刑天城
+context_45640=向大将军询问出外闯荡之事。
+context_45641=私自离开门派踏入江湖纷争之中。
+context_45642=通过江湖禁地和踢馆获取证明自己实力的实力凭证。江湖禁地青云堡和凤凰山庄会掉落实力凭证，参加踢馆（一级馆不掉落）获得甲级评分也会掉落证明自己实力的实力凭证，江湖禁地青云堡和凤凰山庄会掉落实力凭证，参加踢馆（一级馆不掉落）获得甲级评分也会掉落证明自己实力的实力凭证，二级及以上馆挫败宝箱中会有实力凭证，你也可以去下山历练指引员处接取日常任务获得实力凭证。
+context_45643=派内将进行考核，内容包括加入门派以来的所作所为，武学修炼以及对门派的贡献，下山与否到时自有定夺。
+context_45644=拜别掌门，离开刑天城踏入江湖。
+context_45645=与<a href="findnpc_new,school26,newmp_xingtb_003" style="HLStype1">韩哉</a>交谈询问重归刑天城一事。
+context_45646=找到神秘怪医弟子，寻找去除易容效果，做回真正的自己，回到刑天城。
 context_45900=向方丈玄怀大师询问下山弘扬佛法一事。
 context_45902=离开本门踏入江湖纷争之中。
 context_45903=向掌门绝尘师太询问下山闯荡一事。
@@ -893,6 +948,17 @@ menu_45632_1=<font face="Default" color="#ffffff" >多谢</font>
 menu_45633_1=<font face="Default" color="#ffffff" >多谢掌门，弟子深受掌门教导，此番下山，弟子必将掌门教诲传于江湖，望能结束江湖之中血雨腥风的争斗。</font>
 menu_45634_1=<font face="Default" color="#ffffff" >弟子离开此地已久，今日回来想重回</font><font face="Default" color="#ffffff" >昆仑</font><font face="Default" color="#ffffff" >派。</font>
 menu_45635_1=<font face="Default" color="#ffffff" >神医，我想回原来的门派了，但是这易容成这样，大家怎么可能认识我呢？</font>
+menu_45636_1=<font face="Default" color="#ffffff" >我这就去。</font>
+menu_45637_1=<font face="Default" color="#ffffff" >我这就去。</font>
+menu_45638_1=<font face="Default" color="#ffffff" >大将军</font><font face="Default" color="#ffffff" >，我想叛出刑天城</font>
+menu_45639_1=<font face="Default" color="#ffffff" >啊？原来逃着逃着，已经到了</font><font face="Default" color="#ffffff" >刑天城</font><font face="Default" color="#ffffff" >了么？</font>
+menu_45640_1=<font face="Default" color="#ffffff" >弟子有一心事，想请</font><font face="Default" color="#ffffff" >大将军</font><font face="Default" color="#ffffff" >成全。</font>
+menu_45641_1=<font face="Default" color="#ffffff" >再好不过了。</font><font face="Default" color="#8fd6ef" >（我还是偷偷离开为妙）</font>
+menu_45642_1=<font face="Default" color="#ffffff" >多谢</font><font face="Default" color="#ffffff" >大将军</font><font face="Default" color="#ffffff" >，弟子这便去。</font>
+menu_45643_1=<font face="Default" color="#ffffff" >多谢</font>
+menu_45644_1=<font face="Default" color="#ffffff" >多谢</font><font face="Default" color="#ffffff" >大将军</font><font face="Default" color="#ffffff" >，弟子深受</font><font face="Default" color="#ffffff" >大将军</font><font face="Default" color="#ffffff" >教导，此番下山，弟子必将</font><font face="Default" color="#ffffff" >大将军</font><font face="Default" color="#ffffff" >教诲传于江湖，望能结束江湖之中血雨腥风的争斗。</font>
+menu_45645_1=<font face="Default" color="#ffffff" >弟子离开此地已久，今日回来想重回</font><font face="Default" color="#ffffff" >刑天城</font><font face="Default" color="#ffffff" >。</font>
+menu_45646_1=<font face="Default" color="#ffffff" >神医，我想回原来的门派了，但是这易容成这样，大家怎么可能认识我呢？</font>
 menu_45900_1=启禀方丈，弟子见诸师兄游历江湖弘扬佛法，有一心愿请方丈成全。
 menu_45902_1=<font face="Default" color="#ffffff" >就此别过了</font><font face="Default" color="#ffffff" >。</font><font face="Default" color="#8fd6ef" >（想必此地一定有能够离开山门之所。）</font>
 menu_45903_1=弟子有一心事，想请掌门成全。
@@ -1170,6 +1236,17 @@ submit_45632=<font face="Default" color="#ffffff" >不知弟子能否下山历�
 submit_45633=<font face="Default" color="#ffffff" >多谢掌门，弟子告退。</font>
 submit_45634=<font face="Default" color="#ffffff" >多谢掌门成全，弟子拜谢。</font>
 submit_45635=<font face="Default" color="#ffffff" >大师你又耍我。</font>
+submit_45636=<font face="Default" color="#ffffff" >不知</font><font face="Default" color="#ffffff" >大将军</font><font face="Default" color="#ffffff" >找我有何事？</font>
+submit_45637=<font face="Default" color="#ffffff" >大将军</font><font face="Default" color="#ffffff" >，在下有事请教</font>
+submit_45638=<font face="Default" color="#ffffff" >从今以后便少了我这个刑天城弟子。</font>
+submit_45639=<font face="Default" color="#ffffff" >谢</font><font face="Default" color="#ffffff" >大将军</font>
+submit_45640=<font face="Default" color="#ffffff" >师兄请听我细细道来。在下想要擅自下山在江湖中闯荡一番。</font>
+submit_45641=<font face="Default" color="#ffffff" >大将军</font><font face="Default" color="#ffffff" >放心，弟子如今武功，行走江湖自保无虞。</font>
+submit_45642=<font face="Default" color="#ffffff" >多谢夸奖。</font>
+submit_45643=<font face="Default" color="#ffffff" >不知弟子能否下山历练一番？</font>
+submit_45644=<font face="Default" color="#ffffff" >多谢</font><font face="Default" color="#ffffff" >大将军</font><font face="Default" color="#ffffff" >，弟子告退。</font>
+submit_45645=<font face="Default" color="#ffffff" >多谢</font><font face="Default" color="#ffffff" >大将军</font><font face="Default" color="#ffffff" >成全，弟子拜谢。</font>
+submit_45646=<font face="Default" color="#ffffff" >大师你又耍我。</font>
 submit_45900=<font face="Default" color="#ffffff" >师兄且</font><font face="Default" color="#ffffff" >自便</font><font face="Default" color="#ffffff" >。</font><font face="Default" color="#8fd6ef" >（哼！鬼鬼祟祟，想必这位师兄也和我打得同样主意。）</font>
 submit_45902=<font face="Default" color="#ffffff" >弟子在派内勤修苦练，已经练就了一身过硬的功夫。</font>
 submit_45903=<font face="Default" color="#ffffff" >师姐误会了</font><font face="Default" color="#ffffff" >。</font><font face="Default" color="#8fd6ef" >（哼！鬼鬼祟祟，想必这位师姐也和我打得同样主意。）</font>
@@ -1327,6 +1404,17 @@ target_45632=获得下山历练资格凭证。
 target_45633=拜别掌门，离开昆仑派踏入江湖。
 target_45634=与<a href="findnpc_new,school24,newmp_kl_003" style="HLStype1">无为道长</a>交谈询问重归昆仑派一事。
 target_45635=找到神秘怪医弟子，说明来意
+target_45636=找到大将军，看看发生了什么事。
+target_45637=将叛出师门的想法告诉大将军
+target_45638=与大将军对话，叛出刑天城
+target_45639=找到<a href="findnpc_new,school26,newmp_xingtb_001" style="HLStype1">刑烈</a>，希望其引荐自己加入刑天城
+target_45640=向大将军询问出外闯荡之事。
+target_45641=私自离开门派踏入江湖纷争之中。
+target_45642=江湖禁地青云堡和凤凰山庄会掉落实力凭证，参加踢馆（一级馆不掉落）获得甲级评分也会掉落证明自己实力的实力凭证，江湖禁地青云堡和凤凰山庄会掉落实力凭证，参加踢馆（一级馆不掉落）获得甲级评分也会掉落证明自己实力的实力凭证，二级及以上馆挫败宝箱中会有实力凭证，你也可以去下山历练指引员处接取日常任务获得实力凭证。
+target_45643=获得下山历练资格凭证。
+target_45644=拜别掌门，离开刑天城踏入江湖。
+target_45645=与<a href="findnpc_new,school26,newmp_xingtb_003" style="HLStype1">韩哉</a>交谈询问重归刑天城一事。
+target_45646=找到神秘怪医弟子，说明来意
 target_45900=向方丈玄怀大师询问下山弘扬佛法一事。
 target_45902=离开少林。
 target_45903=向掌门绝尘师太询问下山闯荡一事。
@@ -1484,6 +1572,17 @@ title_45632=派内考核
 title_45633=核准下山
 title_45634=历练归来
 title_45635=返回昆仑派
+title_45636=叛出师门
+title_45637=谣言四起
+title_45638=叛出师门
+title_45639=加入刑天城
+title_45640=心中野望
+title_45641=踏足江湖
+title_45642=实力考验
+title_45643=派内考核
+title_45644=核准下山
+title_45645=历练归来
+title_45646=返回刑天城
 title_45900=心中野望
 title_45902=踏足江湖
 title_45903=心中野望

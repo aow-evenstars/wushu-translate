@@ -1,0 +1,297 @@
+﻿
+DialogID_79801=<font face="Default" color="#ffffff" >（不耐煩）就是這些，給！</font>
+DialogID_79802=<font face="Default" color="#ffffff" >多謝，勞煩少俠稍等片刻，我這就將偃甲機關人做出來！</font>
+DialogID_79803=<font face="Default" color="#ffffff" >（運氣打出</font><font face="Default" color="#ffffff" >普普通通</font><font face="Default" color="#ffffff" >的一拳，機關零件散落一地）</font>
+DialogID_79804=<font face="Default" color="#ffffff" >（不耐煩）就是這些，給！</font>
+DialogID_79805=<font face="Default" color="#ffffff" >多謝，勞煩少俠稍等片刻，我這就將改良的偃甲機關人做出來！</font>
+DialogID_79806=<font face="Default" color="#ffffff" >（運氣打出普普通通的一拳，機關零件散落一地）</font>
+DialogID_79808=<font face="Default" color="#ffffff" >（不耐煩）就是這些，給！</font>
+DialogID_79810=<font face="Default" color="#ffffff" >多謝，勞煩少俠稍等片刻，我這就將</font><font face="Default" color="#ffffff" >最終</font><font face="Default" color="#ffffff" >改良的偃甲機關人做出來！</font>
+DialogID_79811=<font face="Default" color="#ffffff" >（一份看上去皺巴巴的圖紙，上面詳細記載了機關人的製作方法</font><font face="Default" color="#ffffff" >，圖紙一角寫著五個字：師傅我成功了</font><font face="Default" color="#ffffff" >）</font>
+DialogID_79812=<font face="Default" color="#ffffff" >偃甲機關人需要一定抗擊打能力，還請少俠給它一拳，我想測試一下。</font>
+DialogID_79813=<font face="Default" color="#ffffff" >（機關人紋絲不動，看來是成功了）</font>
+DialogID_79815=<font face="Default" color="#ffffff" >（一大袋沉甸甸的物資）</font>
+DialogID_79817=<font face="Default" color="#ffffff" >那就勞煩少俠，將藥品跟衣物交給村中的村民</font>
+DialogID_79818=<font face="Default" color="#ffffff" >這正是我需要的藥品，多謝。</font>
+DialogID_79819=<font face="Default" color="#ffffff" >多謝少俠送來衣物。</font>
+DialogID_79820=<font face="Default" color="#ffffff" >我收到消息有兩隻倭寇巡邏隊出現在村子附近，還請少俠去擊退其中一隊，剩下的一隊交給我和村裡的大伙解決。</font>
+DialogID_79822=<font face="Default" color="#ffffff" >多謝少俠幫忙擊退倭寇進攻。</font>
+DialogID_79823=<font face="Default" color="#ffffff" >（機關裝置正常運行）</font>
+DialogID_79824=<font face="Default" color="#ffffff" >（機關裝置正常運行）</font>
+DialogID_79825=<font face="Default" color="#ffffff" >（機關裝置雖然在運行，但是發出了吱吱的怪聲）</font>
+DialogID_79826=<font face="Default" color="#ffffff" >不知道結果如何？</font>
+DialogID_79828=<font face="Default" color="#ffffff" >（一整塊烏鐵礦）</font>
+DialogID_79830=<font face="Default" color="#ffffff" >（寶箱中存放著不少上等軟木）</font>
+DialogID_79831=<font face="Default" color="#ffffff" >（將新打造的零件替換進去）</font>
+DialogID_79832=<font face="Default" color="#ffffff" >被找到了！</font>
+DialogID_79833=<font face="Default" color="#ffffff" >躲這裡都發現了！</font>
+DialogID_79834=<font face="Default" color="#ffffff" >啊，被發現了！</font>
+DialogID_79836=<font face="Default" color="#ffffff" >（一個</font><font face="Default" color="#ffffff" >被</font><font face="Default" color="#ffffff" >廢棄的箱子，箱子裡只有厚厚的一層灰）</font>
+DialogID_79837=<font face="Default" color="#ffffff" >四號隊員找到藏寶圖了嗎？</font>
+DialogID_79839=<font face="Default" color="#ffffff" >（歪歪扭扭的寫了幾個字）</font>
+DialogID_79841=<font face="Default" color="#ffffff" >四號隊員你終於來了……（眼睛通紅，似乎要哭了）</font>
+hunterinfo_79801=擊敗村子附近的<a href="findnpc_new,scene38,npc_wqb_task11" style="HLStype1">倭寇</a>
+hunterinfo_79802=沒想到黎勞獨自一人前去擊退倭寇，前往村外打退<a href="findnpc_new,scene38,npc_wqb_task13" style="HLStype1">倭寇</a>進攻
+hunterinfo_79803=擊敗<a href="findnpc_new,scene38,npc_wqb_task21" style="HLStype1">倭寇</a>
+hunterinfo_79804=驚動了看守倉庫的<a href="findnpc_new,scene38,npc_wqb_task24" style="HLStype1">倭寇看守</a>，擊敗他們
+hunterinfo_79805=擊敗<a href="findnpc_new,scene38,npc_wqb_task32" style="HLStype1">倭寇</a>救出孩子們
+hunterinfo_79806=幫助徐洛擊敗倭寇間諜（同<a href="findnpc_new,scene38,npc_wqb_04" style="HLStype1">徐洛</a>交談進入活動場景）
+interactinfo_79801=與<a href="findnpc_new,scene38,npc_wqb_task04" style="HLStype1">溫蔚</a>交談，獲取溫狄需要的機關零件
+interactinfo_79802=將機關零件交給<a href="findnpc_new,scene38,npc_wqb_task01" style="HLStype1">溫狄</a>
+interactinfo_79803=協助溫狄測試<a href="findnpc_new,scene38,npc_wqb_task02" style="HLStype1">機關試作壹號</a>
+interactinfo_79804=再次去找<a href="findnpc_new,scene38,npc_wqb_task04" style="HLStype1">溫蔚</a>討要新的機關零件
+interactinfo_79805=將機關零件交給<a href="findnpc_new,scene38,npc_wqb_task01" style="HLStype1">溫狄</a>
+interactinfo_79806=新的<a href="findnpc_new,scene38,npc_wqb_task03" style="HLStype1">機關試作貳號</a>製作完成了，幫助溫狄測試一下
+interactinfo_79808=與<a href="findnpc_new,scene38,npc_wqb_task04" style="HLStype1">溫蔚</a>交談討要機關零件
+interactinfo_79810=將機關零件交給<a href="findnpc_new,scene38,npc_wqb_task01" style="HLStype1">溫狄</a>
+interactinfo_79811=墓前有張<a href="findnpc_new,scene38,npc_wqb_task06" style="HLStype1">殘破的紙</a>，似乎是一份圖紙
+interactinfo_79812=<a href="findnpc_new,scene38,npc_wqb_task01" style="HLStype1">溫狄</a>完成了偃甲機關人，與他交談看看還需要幫他做什麼。
+interactinfo_79813=新的<a href="findnpc_new,scene38,npc_wqb_task05" style="HLStype1">機關試作三號</a>已經完成了，幫助溫狄測試一下
+interactinfo_79814=去<a href="findnpc_new,scene38,Eventnpc_wqb_task_01" style="HLStype1">祭奠</a>溫安
+interactinfo_79815=收集<a href="findnpc_new,scene38,npc_wqb_task14" style="HLStype1">物資</a>
+interactinfo_79816=帶上物資前往<a href="findnpc_new,scene38,Eventnpc_wqb_task_02" style="HLStype1">村外</a>與五氣堡弟子會和
+interactinfo_79817=幫助<a href="findnpc_new,scene38,npc_wqb_task08" style="HLStype1">黎勞</a>一起解決村民的煩惱
+interactinfo_79818=將藥品交給<a href="findnpc_new,scene38,npc_wqb_task09" style="HLStype1">村民</a>
+interactinfo_79819=將衣物交給<a href="findnpc_new,scene38,npc_wqb_task10" style="HLStype1">村民</a>
+interactinfo_79820=<a href="findnpc_new,scene38,npc_wqb_task08" style="HLStype1">黎勞</a>似乎有什麼急事
+interactinfo_79821=返回<a href="findnpc_new,scene38,Eventnpc_wqb_task_03" style="HLStype1">村中</a>找黎勞
+interactinfo_79822=告訴<a href="findnpc_new,scene38,Eventnpc_wqb_task_04" style="HLStype1">黎勞</a>村民不相信倭寇要來襲擊村子
+interactinfo_79823=前去檢查<a href="findnpc_new,scene38,npc_wqb_task16" style="HLStype1">機關裝置</a>運行情況
+interactinfo_79824=前去檢查<a href="findnpc_new,scene38,npc_wqb_task17" style="HLStype1">機關裝置</a>運行情況
+interactinfo_79825=前去檢查<a href="findnpc_new,scene38,npc_wqb_task18" style="HLStype1">機關裝置</a>運行情況
+interactinfo_79826=與<a href="findnpc_new,scene38,newdh_wqb_001" style="HLStype1">五氣堡堡主</a>交談匯報機關裝置情況
+interactinfo_79827=前往<a href="findnpc_new,scene38,Eventnpc_wqb_task_05" style="HLStype1">村外</a>尋找烏鐵
+interactinfo_79828=挖取<a href="findnpc_new,scene38,npc_wqb_task23" style="HLStype1">烏鐵礦</a>
+interactinfo_79829=前往<a href="findnpc_new,scene38,Eventnpc_wqb_task_06" style="HLStype1">八目城</a>尋找上等軟木
+interactinfo_79830=從倉庫的<a href="findnpc_new,scene38,npc_wqb_task22" style="HLStype1">城內物資</a>獲取上等軟木
+interactinfo_79831=前去修復<a href="findnpc_new,scene38,npc_wqb_task18" style="HLStype1">機關裝置</a>
+interactinfo_79832=找到躲起來的<a href="findnpc_new,scene38,npc_wqb_task26" style="HLStype1">陽善</a>
+interactinfo_79833=找到躲起來的<a href="findnpc_new,scene38,npc_wqb_task27" style="HLStype1">小春</a>
+interactinfo_79834=找到躲起來的<a href="findnpc_new,scene38,npc_wqb_task28" style="HLStype1">寶山</a>
+interactinfo_79835=去<a href="findnpc_new,scene38,Eventnpc_wqb_task_07" style="HLStype1">秘密集合點</a>集合
+interactinfo_79836=找找有什麼<a href="findnpc_new,scene38,npc_wqb_task29" style="HLStype1">特別的東西</a>
+interactinfo_79837=告訴<a href="findnpc_new,scene38,npc_wqb_task38" style="HLStype1">陽善</a>你沒有找到藏寶圖
+interactinfo_79838=跟周亨一起去<a href="findnpc_new,scene38,Eventnpc_wqb_task_08" style="HLStype1">秘密集合點</a>找到孩子們
+interactinfo_79839=地上似乎有<a href="findnpc_new,scene38,npc_wqb_task30" style="HLStype1">孩子們的信</a>
+interactinfo_79840=追上<a href="findnpc_new,scene38,Eventnpc_wqb_task_09" style="HLStype1">孩子們</a>
+interactinfo_79841=<a href="findnpc_new,scene38,npc_wqb_task41" style="HLStype1">陽善</a>似乎受到的驚訝，安慰一下他
+interactinfo_79842=完成一次武學修煉(與<a href="findnpc_new,scene38,npc_wqb_01" style="HLStype1">步麥</a>交談進入活動場景）
+interactinfo_79843=完成一次倭寇進犯(同<a href="findnpc_new,scene38,npc_wqb_10" style="HLStype1">金范</a>交談進入活動場景）
+interactinfo_79844=完成一次偃甲試煉（同<a href="findnpc_new,scene38,npc_wqb_08" style="HLStype1">彥詩</a>交談進入活動場景）
+interactinfo_79845=完成一次每日巡邏(與<a href="findnpc_new,scene38," style="HLStype1"></a><a href="findnpc_new,scene38,npc_wqb_04" style="HLStype1">徐洛</a>交談進入活動場景）
+okmenu_79801=<font face="Default" color="#ffffff" >這，我還沒說明來意……</font>
+okmenu_79802=<font face="Default" color="#ffffff" >好。</font>
+okmenu_79803=<font face="Default" color="#ffffff" >我還沒用力，它就散架了。</font>
+okmenu_79804=<font face="Default" color="#ffffff" >多謝……</font>
+okmenu_79805=<font face="Default" color="#ffffff" >好，我等著幫你測試呢。</font>
+okmenu_79806=<font face="Default" color="#ffffff" >我還沒用力，它就散架了。</font>
+okmenu_79808=<font face="Default" color="#ffffff" >多謝。</font>
+okmenu_79810=<font face="Default" color="#ffffff" >我的拳頭已經飢渴難耐了！</font>
+okmenu_79811=<font face="Default" color="#ffffff" >看來溫狄已經沒有什麼需要我幫助的了。</font>
+okmenu_79812=<font face="Default" color="#ffffff" >好，這事情我在行。</font>
+okmenu_79813=<font face="Default" color="#ffffff" >（運氣打出普普通通的一拳，</font><font face="Default" color="#ffffff" >感覺被內力反震了</font><font face="Default" color="#ffffff" >）</font>
+okmenu_79815=<font face="Default" color="#ffffff" >全部取走</font>
+okmenu_79817=<font face="Default" color="#ffffff" >好的。</font>
+okmenu_79818=<font face="Default" color="#ffffff" >（將藥品給予村民）</font>
+okmenu_79819=<font face="Default" color="#ffffff" >（將衣物給予村民）</font>
+okmenu_79820=<font face="Default" color="#ffffff" >好，我這就去</font><font face="Default" color="#ffffff" >，你們也要小心！</font>
+okmenu_79823=<font face="Default" color="#ffffff" >此處沒有異常。</font>
+okmenu_79824=<font face="Default" color="#ffffff" >此處沒有異常。</font>
+okmenu_79825=<font face="Default" color="#ffffff" >機關裝置內的零件似乎遭受過巨大的外力破壞。</font>
+okmenu_79826=<font face="Default" color="#ffffff" >主殿</font><font face="Default" color="#ffffff" >處機關裝置受到過巨大的外力破壞，機關零件受損嚴重。</font>
+okmenu_79828=<font face="Default" color="#ffffff" >（挖取一部分）</font>
+okmenu_79830=<font face="Default" color="#ffffff" >（全部帶走）</font>
+okmenu_79831=<font face="Default" color="#ffffff" >（機關裝置運行正常）</font>
+okmenu_79832=<font face="Default" color="#ffffff" >居然躲在這裡。</font>
+okmenu_79833=<font face="Default" color="#ffffff" >居然躲在這裡。</font>
+okmenu_79834=<font face="Default" color="#ffffff" >居然躲在這裡。</font>
+okmenu_79836=<font face="Default" color="#ffffff" >（並沒有什麼特別的寶貝）</font>
+okmenu_79837=<font face="Default" color="#ffffff" >報告隊長，我什麼都沒找到！</font>
+okmenu_79839=<font face="Default" color="#ffffff" >（四號隊員我們先出發了）不好！</font>
+okmenu_79841=<font face="Default" color="#ffffff" >隊長你沒事吧。</font>
+specialinfo_1563=同<a href="findnpc_new,scene38,npc_wqb_test" style="HLStype1">何絳</a>對話完成一次開闔牌
+story_79801_1=<font face="Default" color="#ffffff" >少俠有所不知，我師從溫安師傅修習製作偃甲機關人已有數年之久。只是實在駑鈍，平日裡師傅所傳授的知識無法完全掌握</font><font face="Default" color="#ffffff" >，如今看著這機關圖紙一時不知從何下手。</font>
+story_79801_2=<font face="Default" color="#ffffff" >多謝少俠，只是……（面露悲傷）只是師傅不久前已經逝世，這份機關圖紙也是我在整理師傅遺物之時無意間發現的。前幾日仔細研究了一番，想憑著師傅所授的知識將它製作出來，</font><font face="Default" color="#ffffff" >可是我</font><font face="Default" color="#ffffff" >……</font>
+story_79801_3=<font face="Default" color="#ffffff" >我已經下定決心要靠自己完成師傅的偃甲機關人。少俠既然想幫我，不如去替我找溫蔚討要下前些日子我找他定制的機關零件。</font>
+story_79802_1=<font face="Default" color="#ffffff" >經過這幾晚的研究，再加上我查詢了一些師傅留下的筆記，這次我有了新的點子。上次那樣的情況應該不會</font><font face="Default" color="#ffffff" >再</font><font face="Default" color="#ffffff" >發生了，麻煩少俠再去找溫蔚幫我取一下機關零件。</font>
+story_79803_1=<font face="Default" color="#ffffff" >方法？現在已經沒有方法了。我能想到的方法已經全部實踐過了，結果呢？還不是都失敗了。</font>
+story_79803_2=<font face="Default" color="#ffffff" >多謝少俠這幾日的幫助，我恐怕已經沒有辦法完成師傅的偃甲機關人了，少俠</font><font face="Default" color="#ffffff" >還是</font><font face="Default" color="#ffffff" >請回吧。</font>
+story_79804_1=<font face="Default" color="#ffffff" >嗯。</font>
+story_79804_2=<font face="Default" color="#ffffff" >問什麼問，又不是機關零件的問題，有問題的是其他地方。</font>
+story_79804_3=<font face="Default" color="#ffffff" >我看過一眼他手裡的機關圖紙，設計的很巧妙，但是關鍵的地方有些問題，估計溫狄早就看出來有問題了。</font>
+story_79805_1=<font face="Default" color="#ffffff" >（流下眼淚）多謝少俠幫忙，我終於完成了師傅的機關人，如果不是少俠出手相助，我恐怕沒有勇氣邁出這一步。</font>
+story_79805_2=<font face="Default" color="#ffffff" >好的少俠，我不過我手頭還有一件事情需要處理，少俠可以先去堡外等我，師傅的墓就在那邊。</font>
+story_79806_1=<font face="Default" color="#ffffff" >要事？你被他騙了。</font>
+story_79806_2=<font face="Default" color="#ffffff" >這是他一貫的借口，每次有他什麼事情，他就找借口逃避，少俠你被他騙了。</font>
+story_79806_3=<font face="Default" color="#ffffff" >金烏島這麼大，也不知道溫狄跑去了哪裡，不如就由少俠你替溫狄告訴他師傅吧。</font>
+story_79807_1=<font face="Default" color="#ffffff" >我之前就知道了</font><font face="Default" color="#ffffff" >，前幾日我研究師傅留下的圖紙的時候就發現了，師傅的設計有個很大的漏洞。</font>
+story_79807_2=<font face="Default" color="#ffffff" >這幾次的失敗是必然的，但是我不相信……不相信師傅的設計會有問題。印象中的師傅從來沒有失敗過，五氣堡的大伙有什麼問題都會來找師傅尋求幫助，師傅也總能幫</font><font face="Default" color="#ffffff" >大伙</font><font face="Default" color="#ffffff" >解決問題。</font>
+story_79807_3=<font face="Default" color="#ffffff" >我作為師傅的親傳弟子，我無法接受師傅會出錯……不過我想明白了，作為師傅的親傳弟子。我應該發現設計上的錯誤，並且解決它，畢竟我才是師傅的弟子！</font>
+story_79808_1=<font face="Default" color="#ffffff" >少俠說的沒錯，八目城的倭寇襲擊土人房屋，搶奪他們的財物還殘害生命，不少土人被迫逃出自己村子，躲到</font><font face="Default" color="#ffffff" >島上隱蔽的地方重新建立村子。</font>
+story_79808_2=<font face="Default" color="#ffffff" >少俠既然有意幫助村民，不如去找黎勞。他經常和我一起給村民分發物資，村民有煩惱也會找他去商量，你可以去村中心找到他。</font>
+story_79809_1=<font face="Default" color="#ffffff" >暫時沒有需要幫忙的了，多謝</font><font face="Default" color="#ffffff" >兩位。</font><font face="Default" color="#ffffff" >大伙每次都是麻煩他。村裡的大伙逃出八目城的時候一路上好幾次靠他帶領大伙躲避倭寇的追殺，還幫受傷的我去找草藥。</font>
+story_79810_1=<font face="Default" color="#ffffff" >不用了，</font><font face="Default" color="#ffffff" >還請少俠轉告黎勞村裡的大伙都希望他能好好休息一陣，這幾日他為了大伙跑東跑西的都沒有休息過。</font>
+story_79811_1=<font face="Default" color="#ffffff" >擊退了，不過出了點意外……</font><font face="Default" color="#ffffff" >我帶領村民包圍了那些倭寇很快就攻克了數名倭寇，剩下的最後一名倭寇趁亂抓住了一名村民。</font>
+story_79811_2=<font face="Default" color="#ffffff" >負隅頑抗的倭寇用刀抵著村民的脖子，其他村民也很激動，混亂之中我大聲用倭寇語喝住了那名倭寇，其他人得以一擁而上就下了被抓的村民。大夥一開始都很開心，直到有人提了一句：黎勞？你怎麼會說倭寇語？</font>
+story_79811_3=<font face="Default" color="#ffffff" >少俠不必擔心，我確實會說倭寇語。不過</font><font face="Default" color="#ffffff" >我並不是倭寇，先前倭寇登島大肆殘害島上居民，我和一部分居民被倭寇所擒，被迫替他們修築八目城。在此期間我偷偷學會了一些倭寇語，最後在五氣堡的幫助下得以從倭寇手下逃了出來，少俠若是不信可以去五氣堡打聽一下。</font>
+story_79811_4=<font face="Default" color="#ffffff" >哎……村裡的大伙，大伙突然變得不相信我，他們甚至覺得我是倭寇派來的間諜，接近他們只是為了博取他們的信任。</font>
+story_79812_1=<font face="Default" color="#ffffff" >你覺得我會相信嘛！</font><font face="Default" color="#ffffff" >那些倭寇摧毀了我們的家園，隨意掠奪我們的財產，滾！看在少俠的面子上，讓黎勞滾出我們的村子！</font>
+story_79813_1=<font face="Default" color="#ffffff" >少俠用心了，看來他們還是堅持讓我</font><font face="Default" color="#ffffff" >離開</font><font face="Default" color="#ffffff" >村子。只是我有一事放心不下，還請少俠答應我一個請求。</font>
+story_79813_2=<font face="Default" color="#ffffff" >我走後希望少俠替我多多照顧村裡的大伙，我恐怕沒有機會再出現在大伙面前，雖然</font><font face="Default" color="#ffffff" >大伙</font><font face="Default" color="#ffffff" >還是決定讓我離開村子，不過我還是會暗地裡幫助大伙，有些事情只能讓少俠出面告知村裡的大伙了。</font>
+story_79814_1=<font face="Default" color="#ffffff" >先前我們擊退的小股倭寇只是先頭部隊，更多的倭寇要來襲擊村子了。我剛剛去附近巡邏了一番，發現一大波倭寇已經接近這裡了。</font><font face="Default" color="#ffffff" >少俠快去通知村裡的大伙，讓他們組織人手準備擊退倭寇。</font>
+story_79815_1=<font face="Default" color="#ffffff" >什麼倭寇？一定是黎勞告訴你的吧。我剛剛在附近巡邏看見他鬼鬼祟祟的在幹什麼，是不是偷偷再給倭寇通風報信！現在又傳假消息來欺騙我們！</font>
+story_79816_1=<font face="Default" color="#ffffff" >少俠走後，我們大夥兒一起商量了一下。黎勞他，他一路幫助我們逃離倭寇追擊建立新家園，再怎麼累也願意幫大伙解決煩惱，我們卻因為他會說倭寇語而猜忌他。我們實在是……</font>
+story_79817_1=<font face="Default" color="#ffffff" >前幾日五氣堡出現不少倭寇派出的忍者，那些忍者恐怕是來破壞五氣堡內的機關裝置，少俠可否幫忙檢查一下幾處機關裝置的運行情況。</font>
+story_79818_1=<font face="Default" color="#ffffff" >嗯，但是這些忍者</font><font face="Default" color="#ffffff" >似乎有備而來，被破壞的機關裝置影響了五氣堡的所有機關運作，稍有不慎甚至會威脅到整個五氣堡的安全。勞煩少俠去找機關大師畢廷，幫助我們修復此處機關裝置。</font>
+story_79819_1=<font face="Default" color="#ffffff" >主殿</font><font face="Default" color="#ffffff" >處機關裝置構造複雜，使用的機關零件也是最為精細，製作這個零件需要烏鐵以及上等軟木，少俠可以去找蔣封，他負責管理五氣堡的材料倉庫。</font>
+story_79820_1=<font face="Default" color="#ffffff" >倉庫裡的烏鐵以及上等軟木不久前已經用完了，烏鐵的話可以前往島上村莊問下當地居民，五氣堡的烏鐵也是找當地居民採購的</font><font face="Default" color="#ffffff" >。</font>
+story_79821_1=<font face="Default" color="#ffffff" >烏鐵？村外山上有不少，不過你可要小心了，聽村裡人說最近有不少倭寇也在找烏鐵。</font>
+story_79822_1=<font face="Default" color="#ffffff" >上等軟木本就稀少，倭寇建造八目城的時候使用了不少上等軟木，只能去八目城中的倉庫中找尋了。</font>
+story_79823_1=<font face="Default" color="#ffffff" >好，少俠稍等我這就開始。</font>
+story_79823_2=<font face="Default" color="#ffffff" >好，完成了，少俠只需替換先去損壞的機關零件就可以了。</font>
+story_79824_1=<font face="Default" color="#ffffff" >少俠有所不知，附近村子有三個孩子整天來五氣堡玩，堡主命我負責照顧他們</font><font face="Default" color="#ffffff" >。</font><font face="Default" color="#ffffff" >今天他們又來找我玩</font><font face="Default" color="#ffffff" >，剛才硬拉著我玩捉迷藏，可是我還有其他要事需要處理，少俠能不能幫我一起找到這些孩子？</font>
+story_79825_1=<font face="Default" color="#ffffff" >多謝少俠，少俠果然厲害。這三孩子是附近村中的孤兒，他們的父母都已經被倭寇……村中也沒有其他同齡人，他們也是在外出玩耍時無意中來到了五氣堡。</font>
+story_79825_2=<font face="Default" color="#ffffff" >少俠，我還有一事相求，麻煩就今天一天少俠能否陪著三個孩子玩一下，只要我完成了堡主給我任務，我就立馬回來陪他們玩。</font>
+story_79826_1=<font face="Default" color="#ffffff" >哎什麼今天他不來嘛，</font><font face="Default" color="#ffffff" >那只能便宜你了，</font><font face="Default" color="#ffffff" >到時候他不要後悔就好。</font>
+story_79826_2=<font face="Default" color="#ffffff" >哼，本來準備讓他加入我們三的冒險隊。既然他今天不來了，那身為冒險隊隊長的我只能勉為其難的決定，讓你加入我們冒險隊成為第四位成員！</font>
+story_79826_3=<font face="Default" color="#ffffff" >四號成員，我現在要下達第一個命令！命令你前往我們的秘密集合處，隊長我有大事要宣佈。</font>
+story_79827_1=<font face="Default" color="#ffffff" >嗯，很好很有精神！嘿嘿，我這幾天想了一下，我們整天玩些什麼捉迷藏太幼稚了，我們要做出一番大事業！</font>
+story_79827_2=<font face="Default" color="#ffffff" >別急，別急，聽我說。我們這金烏島上一定還藏有很多寶藏沒被那些可惡的倭寇發現，我們要趕在他們之前把寶藏找出來，這樣村裡的大夥兒跟五氣堡的各位就不會再當我們是小孩子看了！聽我命令！大家今天的任務是找到藏寶圖！</font><font face="Default" color="#ffffff" >出發！</font>
+story_79828_1=<font face="Default" color="#ffffff" >大，大家聽我說，我在倉庫裡找到了一張藏寶圖！</font><font face="Default" color="#ffffff" >你們看。</font>
+story_79829_1=<font face="Default" color="#ffffff" >四號隊員，把藏寶圖給我，你是想偷偷記住藏寶圖的內容然後獨吞寶藏嘛！（搶過藏寶圖）幹的不錯小春隊員，讓我看看。</font>
+story_79829_2=<font face="Default" color="#ffffff" >以我多年來的經驗來看這一定是個大寶藏！今晚我會仔細研究這份藏寶圖，明天一早大家在這裡集合，我們一起去找寶藏。四號隊員你可不要一個人偷偷的先去找寶藏哦。</font>
+story_79830_1=<font face="Default" color="#ffffff" >少俠，你來了。你看到孩子們了嗎？</font>
+story_79830_2=<font face="Default" color="#ffffff" >剛剛我出門巡邏，似乎看到了孩子們的身影。心想他們是不是來五氣堡了，我這找了一圈都沒有找到他們。</font><font face="Default" color="#ffffff" >少俠說的藏寶圖是什麼？</font>
+story_79830_3=<font face="Default" color="#ffffff" >最近八目城裡的倭寇經常出現在五氣堡周圍，少俠速速帶我去集合處，別讓孩子們出去冒險了。</font>
+story_79831_1=<font face="Default" color="#ffffff" >有啊，是不是經常來我們五氣堡玩的三個孩子，他們往那邊去了。</font>
+story_79832_1=<font face="Default" color="#ffffff" >恩，小春，寶山我們走，我們先回五氣堡去</font><font face="Default" color="#ffffff" >，明日再做打算。</font>
+story_79832_2=<font face="Default" color="#ffffff" >四號隊員你放心，外出的事情我們不會再做了。但是冒險隊的冒險永遠不會停止，五氣堡裡還有很多事情值得我們去挖掘。聽說五氣堡裡還有半夜會發出怪聲的機關人，還有永遠打不開的機關門！</font><font face="Default" color="#ffffff" >四號隊員明天我們繼續出發！</font>
+story_79833_1=<font face="Default" color="#ffffff" >此物名曰：天工匣。天工匣工藝精湛，銅棕色的匣身上暗金湧動，中央鑲刻紅色珍寶。五氣堡弟子隨身攜帶此物，危急時刻從天工匣中取出傀儡用於禦敵。</font><font face="Default" color="#ffffff" >現</font><font face="Default" color="#ffffff" >將此物贈與你，還請收好。</font>
+story_menu_79801=<font face="Default" color="#ffffff" >看你整日唉聲歎氣的，這是有什麼煩惱？</font>
+story_menu_79802=<font face="Default" color="#ffffff" >看來關於偃甲機關人製作你已經有了眉目。</font>
+story_menu_79803=<font face="Default" color="#ffffff" >雖然兩次都失敗了，但是我們可以總結經驗，尋找新的方法</font><font face="Default" color="#ffffff" >，方法總比困難多。</font>
+story_menu_79804=<font face="Default" color="#ffffff" >關於溫狄你知道什麼嗎？每次他都讓我來找你要機關零件。</font>
+story_menu_79805=<font face="Default" color="#ffffff" >成功了，你這次成功了，你終於完成了你師傅設計的機關人！</font>
+story_menu_79806=<font face="Default" color="#ffffff" >溫狄終於把他師傅的機關人完成了，他修改了設計上的失誤。</font><font face="Default" color="#ffffff" >我現在準備和他一起去祭奠他的師傅，不過他說他要事要先處理。</font>
+story_menu_79807=<font face="Default" color="#ffffff" >我去問了溫蔚，他告訴我其實……其實你師傅的圖紙存在問題，所以無論你怎麼替換機關零件都會導致機關人出現問題。</font>
+story_menu_79808=<font face="Default" color="#ffffff" >沒想到金烏島上還有這麼一個村子，這裡的村民也是從</font><font face="Default" color="#ffffff" >倭寇手</font><font face="Default" color="#ffffff" >中逃出來的嘛？</font>
+story_menu_79809=<font face="Default" color="#ffffff" >還有</font><font face="Default" color="#ffffff" >什麼需要的，可以告訴我和黎勞，我們會想辦法幫助你的。</font>
+story_menu_79810=<font face="Default" color="#ffffff" >還有什麼需要的，可以告訴我和黎勞，我們會想辦法幫助你的。</font>
+story_menu_79811=<font face="Default" color="#ffffff" >終於找到你了，倭寇我已經擊退了，剩下的倭寇你們擊退了嗎？</font>
+story_menu_79812=<font face="Default" color="#ffffff" >你聽我說，黎勞他並不是倭寇派來的間諜。</font>
+story_menu_79813=<font face="Default" color="#ffffff" >對不起，看來很難說服村裡的大伙了。</font>
+story_menu_79814=<font face="Default" color="#ffffff" >怎麼了？看你神色緊張！</font>
+story_menu_79815=<font face="Default" color="#ffffff" >有大批倭寇要來襲擊村子，快阻止大家準備抵禦倭寇的進攻。</font>
+story_menu_79816=<font face="Default" color="#ffffff" >沒想到大伙還是來了。</font>
+story_menu_79817=<font face="Default" color="#ffffff" >堡主有事但說無妨。</font>
+story_menu_79818=<font face="Default" color="#ffffff" >倭寇忍者只破壞了一處機關裝置。</font>
+story_menu_79819=<font face="Default" color="#ffffff" >畢大師，五氣堡</font><font face="Default" color="#ffffff" >主殿</font><font face="Default" color="#ffffff" >處的機關裝置受損嚴重，堡主命我前來詢問修復的方法。</font>
+story_menu_79820=<font face="Default" color="#ffffff" >請問倉庫中還有烏鐵以及上等軟木嗎？急需這兩種材料製作機關零件。</font>
+story_menu_79821=<font face="Default" color="#ffffff" >你好，請問島上何處有烏鐵？五氣堡急需烏鐵製作機關零件。</font>
+story_menu_79822=<font face="Default" color="#ffffff" >烏鐵我已經找到了，。還差最後一種材料上等軟木，哪裡有？</font>
+story_menu_79823=<font face="Default" color="#ffffff" >畢大師，你要的材料我都收集到了，麻煩你現在就製作機關零件。</font>
+story_menu_79824=<font face="Default" color="#ffffff" >看你面露難色，請問有什麼可以幫忙的嗎？</font>
+story_menu_79825=<font face="Default" color="#ffffff" >怎麼樣是不是很快？一眨眼的功夫就把孩子們給找到了</font><font face="Default" color="#ffffff" >，只是五氣堡內這麼多機關裝置陷阱的，這三孩子……</font>
+story_menu_79826=<font face="Default" color="#ffffff" >孩子們，周亨有要事要去處理沒空來陪大家一起玩，</font><font face="Default" color="#ffffff" >他囑咐</font><font face="Default" color="#ffffff" >我來陪大家</font><font face="Default" color="#ffffff" >，大家今天準備玩什麼？</font>
+story_menu_79827=<font face="Default" color="#ffffff" >陽善隊長，接下來準備玩什麼！</font>
+story_menu_79828=<font face="Default" color="#ffffff" >小春你有什麼要報告的？</font>
+story_menu_79829=<font face="Default" color="#ffffff" >（這圖似乎並不是藏寶圖，應該機關裝置的圖紙）</font>
+story_menu_79830=<font face="Default" color="#ffffff" >怎麼了？又在跟孩子們玩捉迷藏嘛？</font>
+story_menu_79831=<font face="Default" color="#ffffff" >守衛大哥，請問你有沒有見過三小孩子從這裡經過？</font>
+story_menu_79832=<font face="Default" color="#ffffff" >隊長太危險了，幸好我跟周亨及時趕到，否則你們……</font><font face="Default" color="#ffffff" >最近你們還是不要隨便亂跑了。</font>
+story_menu_79833=<font face="Default" color="#ffffff" >畢大師說的是何物？</font>
+storyinfo_79801=聽<a href="findnpc_new,scene38,npc_wqb_task01" style="HLStype1">溫狄</a>訴說他的煩惱
+storyinfo_79802=聽<a href="findnpc_new,scene38,npc_wqb_task01" style="HLStype1">溫狄</a>訴說他的想法
+storyinfo_79803=聽<a href="findnpc_new,scene38,npc_wqb_task01" style="HLStype1">溫狄</a>訴說
+storyinfo_79804=去找<a href="findnpc_new,scene38,npc_wqb_task04" style="HLStype1">溫蔚</a>聊聊
+storyinfo_79805=與<a href="findnpc_new,scene38,npc_wqb_task01" style="HLStype1">溫狄</a>一起分享成功的喜悅
+storyinfo_79806=去告訴<a href="findnpc_new,scene38,npc_wqb_task04" style="HLStype1">溫蔚</a>，溫狄的機關人已經完成了
+storyinfo_79807=再去找<a href="findnpc_new,scene38,npc_wqb_task01" style="HLStype1">溫狄</a>聊聊
+storyinfo_79808=聽<a href="findnpc_new,scene38,npc_wqb_task34" style="HLStype1">五氣堡弟子</a>訴說
+storyinfo_79809=和<a href="findnpc_new,scene38,npc_wqb_task09" style="HLStype1">村民</a>聊聊看看還有什麼需要幫助的
+storyinfo_79810=和<a href="findnpc_new,scene38,npc_wqb_task10" style="HLStype1">村民</a>聊聊看看還有什麼需要幫助的
+storyinfo_79811=在村子沒有找到黎勞，在村外找一下<a href="findnpc_new,scene38,npc_wqb_task35" style="HLStype1">黎勞</a>
+storyinfo_79812=向村裡的<a href="findnpc_new,scene38,npc_wqb_task09" style="HLStype1">村民</a>解釋
+storyinfo_79813=告訴<a href="findnpc_new,scene38,npc_wqb_task35" style="HLStype1">黎勞</a>村民的現在的情況
+storyinfo_79814=<a href="findnpc_new,scene38,npc_wqb_task35" style="HLStype1">黎勞</a>有急事告之
+storyinfo_79815=告訴<a href="findnpc_new,scene38,npc_wqb_task10" style="HLStype1">村民</a>有倭寇要襲擊村子
+storyinfo_79816=村民出現擊退了部分倭寇，<a href="findnpc_new,scene38,npc_wqb_task36" style="HLStype1">村民</a>似乎有什麼要說
+storyinfo_79817=聽<a href="findnpc_new,scene38,newdh_wqb_001" style="HLStype1">五氣堡堡主</a>訴說
+storyinfo_79818=關於被破壞的裝置<a href="findnpc_new,scene38,newdh_wqb_001" style="HLStype1">五氣堡堡主</a>似乎有了眉目
+storyinfo_79819=找<a href="findnpc_new,scene38,npc_wqb_task15" style="HLStype1">畢廷</a>詢問修復機關裝置的方法
+storyinfo_79820=找<a href="findnpc_new,scene38,npc_wqb_task19" style="HLStype1">蔣封</a>獲取材料
+storyinfo_79821=找<a href="findnpc_new,scene38,npc_wqb_task20" style="HLStype1">村民</a>詢問何處有烏鐵
+storyinfo_79822=詢問<a href="findnpc_new,scene38,npc_wqb_task19" style="HLStype1">蔣封</a>何處有上等軟木
+storyinfo_79823=將收集到的材料交給<a href="findnpc_new,scene38,npc_wqb_task15" style="HLStype1">畢廷</a>
+storyinfo_79824=<a href="findnpc_new,scene38,npc_wqb_task25" style="HLStype1">周亨</a>似乎需要幫助
+storyinfo_79825=告訴<a href="findnpc_new,scene38,npc_wqb_task25" style="HLStype1">周亨</a>躲起來的孩子都已經被找到了
+storyinfo_79826=找到<a href="findnpc_new,scene38,npc_wqb_task26" style="HLStype1">陽善</a>
+storyinfo_79827=<a href="findnpc_new,scene38,npc_wqb_task38" style="HLStype1">陽善</a>似乎有了新的想法
+storyinfo_79828=<a href="findnpc_new,scene38,npc_wqb_task39" style="HLStype1">小春</a>似乎有什麼要報告的
+storyinfo_79829=<a href="findnpc_new,scene38,npc_wqb_task38" style="HLStype1">陽善</a>十分著急，準備下達新的命令
+storyinfo_79830=<a href="findnpc_new,scene38,npc_wqb_task25" style="HLStype1">周亨</a>似乎有什麼急事
+storyinfo_79831=去找<a href="findnpc_new,scene38,npc_wqb_task31" style="HLStype1">五氣堡守衛</a>問問
+storyinfo_79833=同<a href="findnpc_new,scene38,npc_wqb_task15" style="HLStype1">畢廷</a>交談瞭解天工匣
+storymenu_79801_1=<font face="Default" color="#ffffff" >你有什麼沒能聽明白的不如告訴我，我來幫你去問你師傅。</font>
+storymenu_79801_2=<font face="Default" color="#ffffff" >可以去詢問機關大師畢廷，他一定有辦法解答你的疑惑。</font>
+storymenu_79801_3=<font face="Default" color="#ffffff" >行，我這就去找他討要。</font>
+storymenu_79802_1=<font face="Default" color="#ffffff" >沒問題。</font>
+storymenu_79803_1=<font face="Default" color="#ffffff" >雖然這次失敗了，但是還有下次。下次一定能完成你師傅設計的偃甲機關人。</font>
+storymenu_79803_2=<font face="Default" color="#ffffff" >(不如去問問五氣堡的其他人，看看有沒有辦法可以幫助他)</font>
+storymenu_79804_1=<font face="Default" color="#ffffff" >他堅持製作出他師傅設計的偃甲機關人，但是一直沒成功。請問……</font>
+storymenu_79804_2=<font face="Default" color="#ffffff" >其他地方？</font>
+storymenu_79804_3=<font face="Default" color="#ffffff" >居然是這樣</font><font face="Default" color="#ffffff" >，多謝！</font>
+storymenu_79805_1=<font face="Default" color="#ffffff" >不敢當，不如我們一起帶著機關人，一起去祭奠你的師傅。</font>
+storymenu_79805_2=<font face="Default" color="#ffffff" >那我先行一步。</font>
+storymenu_79806_1=<font face="Default" color="#ffffff" >什麼？</font>
+storymenu_79806_2=<font face="Default" color="#ffffff" >我，我這就去尋他！</font>
+storymenu_79806_3=<font face="Default" color="#ffffff" >那只能這麼辦了。</font>
+storymenu_79807_1=<font face="Default" color="#ffffff" >你知道？那你這幾次的嘗試豈不是？</font>
+storymenu_79807_2=<font face="Default" color="#ffffff" >既然設計有問題，你為什麼還堅持。</font>
+storymenu_79807_3=<font face="Default" color="#ffffff" >那我們再嘗試一次。</font>
+storymenu_79808_1=<font face="Default" color="#ffffff" >這些可惡的倭寇真是作惡多端，不過我這個村子破破爛爛的，應該還有不少村民需要幫助啊。</font>
+storymenu_79808_2=<font face="Default" color="#ffffff" >好，我這就去找他。</font>
+storymenu_79809_1=<font face="Default" color="#ffffff" >好的</font><font face="Default" color="#ffffff" >，如果有什麼需求記得找我們就行。</font>
+storymenu_79810_1=<font face="Default" color="#ffffff" >我一定轉告他</font><font face="Default" color="#ffffff" >，如果有什麼需求記得找我們就行。</font>
+storymenu_79811_1=<font face="Default" color="#ffffff" >那位村民呢？是否救回來了！</font>
+storymenu_79811_2=<font face="Default" color="#ffffff" >等等！倭寇語，難道你？</font>
+storymenu_79811_3=<font face="Default" color="#ffffff" >我相信你，不過村裡的大伙……</font>
+storymenu_79811_4=<font face="Default" color="#ffffff" >你在這裡稍等片刻，我去同村裡的大伙解釋！</font>
+storymenu_79812_1=<font face="Default" color="#ffffff" >……（看來對於倭寇的恐懼讓村民失去了理智）</font>
+storymenu_79813_1=<font face="Default" color="#ffffff" >請說</font><font face="Default" color="#ffffff" >。</font>
+storymenu_79813_2=<font face="Default" color="#ffffff" >我一定做到。</font>
+storymenu_79814_1=<font face="Default" color="#ffffff" >好，這事交給我了！</font>
+storymenu_79815_1=<font face="Default" color="#ffffff" >……不是</font>
+storymenu_79816_1=<font face="Default" color="#ffffff" >只要你們願意繼續相信他就好，我相信他也願意繼續幫助大家重建村子。</font>
+storymenu_79817_1=<font face="Default" color="#ffffff" >我這就前去。</font>
+storymenu_79818_1=<font face="Default" color="#ffffff" >堡主放心，我這就前往。</font>
+storymenu_79819_1=<font face="Default" color="#ffffff" >畢大師稍等，我去去就來。</font>
+storymenu_79820_1=<font face="Default" color="#ffffff" >好的我記下了。</font>
+storymenu_79821_1=<font face="Default" color="#ffffff" >多謝。</font>
+storymenu_79822_1=<font face="Default" color="#ffffff" >好的。</font>
+storymenu_79823_1=<font face="Default" color="#ffffff" >勞煩大師了。</font>
+storymenu_79823_2=<font face="Default" color="#ffffff" >好的，我這就去。</font>
+storymenu_79824_1=<font face="Default" color="#ffffff" >捉迷藏我可在行了，放心看我輕輕鬆鬆的把他們全找到了。</font>
+storymenu_79825_1=<font face="Default" color="#ffffff" >可惡的倭寇，</font><font face="Default" color="#ffffff" >定要將他們趕出金烏島！</font>
+storymenu_79825_2=<font face="Default" color="#ffffff" >好的</font><font face="Default" color="#ffffff" >，你就安心去完成任務吧。</font>
+storymenu_79826_1=<font face="Default" color="#ffffff" >（這是有什麼好事讓我撞見了）</font>
+storymenu_79826_2=<font face="Default" color="#ffffff" >那可真是太棒了！（冒險隊？幹什麼）</font>
+storymenu_79826_3=<font face="Default" color="#ffffff" >好的，隊長。</font>
+storymenu_79827_1=<font face="Default" color="#ffffff" >什麼大事業？</font>
+storymenu_79827_2=<font face="Default" color="#ffffff" >好的隊長！（藏寶圖……五氣堡哪來的藏寶圖）</font>
+storymenu_79828_1=<font face="Default" color="#ffffff" >什麼？讓我看看。</font>
+storymenu_79829_1=<font face="Default" color="#ffffff" >我不是，我沒有啊。</font>
+storymenu_79829_2=<font face="Default" color="#ffffff" >好的隊長。</font>
+storymenu_79830_1=<font face="Default" color="#ffffff" >怎麼了？他們今天應該會在秘密集合點集合，然後出發去找什麼寶藏，放心吧。今天我會跟他們一起去的。</font>
+storymenu_79830_2=<font face="Default" color="#ffffff" >（把昨天發生的事情告訴周亨）</font>
+storymenu_79830_3=<font face="Default" color="#ffffff" >好，我們走。</font>
+storymenu_79831_1=<font face="Default" color="#ffffff" >多謝！</font>
+storymenu_79832_1=<font face="Default" color="#ffffff" >這……隊長你們還要？</font>
+storymenu_79832_2=<font face="Default" color="#ffffff" >好的，隊長！</font>
+storymenu_79833_1=<font face="Default" color="#ffffff" >多謝畢大師。</font>
+storyinfo_79832=雖然這次冒險失敗了，但是<a href="findnpc_new,scene38,npc_wqb_task41" style="HLStype1">陽善</a>還有新的打算
+SubmitNpcEx_79826=與<a href="findnpc_new,adv189,npc_home_dd_dy_01" style="HLStype1">達叔</a>交談
+hunterinfo_79807=使用火炮擊倒10個<a href="findnpc_new,,npc_jcyl_001" style="HLStype1">稻草人</a>（通過<a href="findnpc_new,scene08,WorldNpc07833" style="HLStype1">譚誡霞</a>進入活動）
+hunterinfo_79808=與<a href="findnpc_new,scene08,npc_jcyl_002" style="HLStype1">武聖後人</a>切磋（通過<a href="findnpc_new,scene08,WorldNpc07833" style="HLStype1">譚誡霞</a>進入活動）
+interactinfo_79846=與<a href="findnpc_new,adv189,npc_home_dd_dy_01" style="HLStype1">達叔</a>交談
+

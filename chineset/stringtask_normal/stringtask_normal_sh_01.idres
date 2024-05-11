@@ -2926,7 +2926,6 @@ target_620=採集斷腸花
 target_621=採集獨一味
 target_622=採集獨一味
 target_623=採集馬錢子
-target_624=採集奪命草
 target_633=獲得生活師傅的肯定
 target_634=彈奏《宮商角徵羽》
 target_635=彈奏《清樂》
@@ -4986,12 +4985,10 @@ next_27567=通過<a href="findnpc_new,,npc_hwcy_mxm03" style="HLStype1">陳千�
 submit_27550=<font face="Default" color="#ffffff" >僥倖而為！</font>
 submit_27551=<font face="Default" color="#ffffff" >多謝誇獎</font><font face="Default" color="#ffffff" >。</font>
 submit_27552=<font face="Default" color="#ffffff" >長者謬讚。</font>
-submit_27553=<font face="Default" color="#ffffff" >凌霄城的確鬼斧神工</font><font face="Default" color="#ffffff" >，堪稱人間聖境，令在下流連忘返。</font>
 submit_27554=<font face="Default" color="#ffffff" >凌霄城名揚江湖，在下怎會不知。</font>
 submit_27555=<font face="Default" color="#ffffff" >此等小事，舉手之勞。</font>
 submit_27556=<font face="Default" color="#ffffff" >多謝誇獎。</font>
 submit_27557=<font face="Default" color="#ffffff" >長者謬讚。</font>
-submit_27558=<font face="Default" color="#ffffff" >凌霄城的確鬼斧神工，堪稱人間聖境，令在下流連忘返。</font>
 submit_27559=<font face="Default" color="#ffffff" >哼！不自量力之徒自然不堪一擊。</font>
 submit_27560=<font face="Default" color="#ffffff" >長者何須如此，若再有事情，但請吩咐。</font>
 submit_27561=<font face="Default" color="#ffffff" >長者謬讚。</font>
@@ -5153,4 +5150,16 @@ target_629=烹飪醉雞
 target_630=烹飪陳皮雞
 target_631=烹飪佛跳牆
 target_632=烹飪九轉大腸
+submit_27553=<font face="Default" color="#ffffff" >凌霄城的確鬼斧神工</font><font face="Default" color="#ffffff" >，堪稱人間聖境，令在卑鄙連忘返。</font>
+submit_27558=<font face="Default" color="#ffffff" >凌霄城的確鬼斧神工，堪稱人間聖境，令在卑鄙連忘返。</font>
+target_624=採集奪魄草
+CanAcceptMenu_27572=<font face="Default" color="#ffffff" >承接任務（</font><font face="Default" color="#ffffff" >手厥陰心包經</font><font face="Default" color="#ffffff" >）</font>
+CompleteMenu_27572=<font face="Default" color="#ffffff" >完成任務（手厥陰心包經）</font>
+accept_27572_1=<font face="Default" color="#ffffff" >完成三大老者的試煉</font>
+complete_27572=<font face="Default" color="#ffffff" >不錯不錯，想不到你竟能完成此番試煉。</font>
+context_27572=亂心塵任務，被種亂心塵的玩家，完成任務可兌換經脈獎勵。
+menu_27572_1=<font face="Default" color="#ffffff" >正合我意</font>
+submit_27572=<font face="Default" color="#ffffff" >僥倖而為！</font>
+target_27572=與長者切磋一下武藝
+title_27572=亂心塵日常十九
 

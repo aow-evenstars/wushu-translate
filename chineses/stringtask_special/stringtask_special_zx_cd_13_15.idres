@@ -27,7 +27,7 @@ DialogID_17340=　　我们主人说，你如果想找她的话，就去苏州�
 DialogID_17341=　　我是奉萧帮主之命特来通知你一个重要消息的。
 DialogID_17343=<s>就是你，就是你之前和徐长老在一起，一定是你杀的徐长老！
 DialogID_17344=　　（这是萧帮主的箫，难道是慕容魏玉？）
-DialogID_17345=<s>我刚刚看过徐长老的尸体了，这是君子堂萧别情的箫，看来这件事和君子堂脱不了干系！
+DialogID_17345=<s>我刚刚看过徐长老的遗骸了，这是君子堂萧别情的箫，看来这件事和君子堂脱不了干系！
 DialogID_17346=　　<s>好吧，刚刚我们也有些冲动了，我信你一回。
 QiecuoMenu_17302=你这恶徒，看招。
 QiecuoMenu_17305=你要干什么？
@@ -45,13 +45,13 @@ QiecuoTitle_17302=<s>哼哼，别以为你打败我那几个手下就是有能�
 QiecuoTitle_17305=<s>你一定是黄岛主，我要和你比武，我要和你比武！
 QiecuoTitle_17308=<s>休要多言，看招。
 QiecuoTitle_17309=　　你竟然擅闯我连环坞，拿命来。
-QiecuoTitle_17316=<s>妈的，老子急着去找我的红袖儿呢，你别来坏我好事！
+QiecuoTitle_17316=<s>老子急着去找我的红袖儿呢，你别来坏我好事！
 QiecuoTitle_17319=等等，听我说完，我......
 QiecuoTitle_17320=　　少废话，出招吧。
 QiecuoTitle_17328=<s>你敢骂我，找死！看我不要了你的小命！
 QiecuoTitle_17332=<s>少废话，如果你能在一炷香的时间里打败我，我就告诉你！
 QiecuoTitle_17333=　　你在这东张西望不少时间了，想干什么？跟我回去见旗主去！
-QiecuoTitle_17335=<s>你可别小看了我们锦衣卫，这点迷药还没那么容易让你抓到我。
+QiecuoTitle_17335=<s>你可别小看了我们锦衣卫，这点眩晕药还没那么容易让你抓到我。
 QiecuoTitle_17340=　　少废话！你竟然协助锦衣卫，我要为徐长老报复！大家一起上！
 SubmitNpcEx_34583=告知<a href="findnpc_new,city02,WorldNpc01194" style="HLStype1">林天南</a>自己的决心
 SubmitNpcEx_34588=<a href="findnpc_new,city02,WorldNpc01223" style="HLStype1">四处</a>走走想想其他办法
@@ -143,7 +143,7 @@ interactinfo_17327=去<a href="findnpc_new,city04,WorldNpc10333" style="HLStype1
 interactinfo_17328=往<a href="findnpc_new,city04,EventNpc34665_1" style="HLStype1">客栈</a>看看
 interactinfo_17329=看看<a href="findnpc_new,city04,EventNpc34665_2" style="HLStype1">周边</a>的情况
 interactinfo_17330=找<a href="findnpc_new,city04,FuncNpc511" style="HLStype1">杂货店老板</a>买信鸽
-interactinfo_17331=<a href="findnpc_new,city04,FuncNpc509" style="HLStype1">药堂老板</a>拿取迷药
+interactinfo_17331=<a href="findnpc_new,city04,FuncNpc509" style="HLStype1">药堂老板</a>拿取眩晕药
 interactinfo_17332=去找<a href="findnpc_new,city04,WorldNpc10119" style="HLStype1">缪樱</a>
 interactinfo_17333=与<a href="findnpc_new,city04,WorldNpc10120" style="HLStype1">慕容荻云</a>交谈
 interactinfo_17334=与<a href="findnpc_new,school03,WorldNpc03465" style="HLStype1">孟梦</a>交谈
@@ -156,7 +156,7 @@ interactinfo_17340=去找<a href="findnpc_new,school03,WorldNpc03394" style="HLS
 interactinfo_17341=看看<a href="findnpc_new,city02,WorldNpc01502" style="HLStype1">秦轩奇</a>有什么事
 interactinfo_17342=看看<a href="findnpc_new,city02,EventNpc34680" style="HLStype1">门外</a>为何嘈杂
 interactinfo_17343=找<a href="findnpc_new,city02,WorldNpc01503" style="HLStype1">劳亮</a>交谈
-interactinfo_17344=调查<a href="findnpc_new,city02,WorldNpc01226" style="HLStype1">尸体</a>
+interactinfo_17344=调查<a href="findnpc_new,city02,WorldNpc01226" style="HLStype1">遗骸</a>
 interactinfo_17345=找<a href="findnpc_new,city02,WorldNpc01506" style="HLStype1">范单</a>解释
 interactinfo_17346=和<a href="findnpc_new,city02,WorldNpc01506" style="HLStype1">范单</a>谈谈
 okmenu_17301=老板娘，你可知道人口贩子的一些情况啊？
@@ -197,7 +197,7 @@ story_17302_2=　　你虽然现在在江湖上受到一些门派的鄙夷，但
 story_17303_1=　　我知道，这里是四月岛，我在这儿迷路两年了，这里到处都是桃树，还会动，我走来走去也找不到出去的路。
 story_17303_2=<s>我叫岑九，我叫岑九，嘿嘿。
 story_17303_3=　　我怎么了？我好就没看见人了，你是黄岛主么......
-story_17304_1=　　《九阴真经》乃是武林至高无上的武功秘籍，但是招式狠毒。曾今有人练习《九阴真经》之后在江湖大开杀戒。弄得整个武林血雨腥风。
+story_17304_1=　　《九阴真经》乃是武林至高无上的武功秘籍，但是招式狠毒。曾今有人练习《九阴真经》之后在江湖肆意妄为。弄得整个武林血雨腥风。
 story_17304_2=　　《九阴真经》应该是在九宫老人之处，但是我爹说当年可能有一手抄本，现在经书重现江湖在我爹看来，武林不免出现一场恶斗。
 story_17305_1=　　我明白你的意思，以前十二连环坞一直是恶人们的避世之所，本来父亲处事很是低调，不与江湖多生瓜葛。但是现在却完全改变了......
 story_17305_2=<s>这我也不是很清楚，但是我感觉很最近《九阴真经》谣言出现是同一个时间......
@@ -231,7 +231,7 @@ story_17331_1=　　哈哈，你以为你出得了这洛阳城？我们旗主为
 story_17331_2=<s>你们就看着我锦衣卫独霸天下吧。
 story_17332_1=　　这些年来，像江湖排行榜什么的尽是一些利用江湖人争强好胜之心挑拨江湖势力的手段.....
 story_17332_2=　　这次的事件这么突然，规模这么大，再加上锦衣卫的最近的种种异动，我看十有九成是锦衣卫干的。
-story_17333_1=<s>迷药有啊，你要多少，这可是很贵的。没钱的话你就早点走吧。
+story_17333_1=<s>眩晕药有啊，你要多少，这可是很贵的。没钱的话你就早点走吧。
 story_17333_2=<s>人命？别...别吓我，这个我看这要就送你吧，这里小本生意。你放过我吧。
 story_17333_3=<s>小的有眼不识泰山，饶小的一条生路吧......
 story_17333_4=<s>你再跟我客气，我可...可发火了......
@@ -266,7 +266,7 @@ story_menu_17329=
 story_menu_17330=你现在可心服口服？
 story_menu_17331=少唬人，现在只要快马加鞭，肯定能赶上救援。
 story_menu_17332=我也了解到一些朝廷线人和百晓生的情况。
-story_menu_17333=老板，你这可有迷药？
+story_menu_17333=老板，你这可有眩晕药？
 story_menu_17334=锦衣卫的大队人马已经十分接近君子堂了。
 story_menu_17335=萧帮主，你没事吧？
 story_menu_17336=你用你的邪功伤了她，一直难以治愈。
@@ -289,7 +289,7 @@ storyinfo_17328=听<a href="findnpc_new,school07,WorldNpc04403" style="HLStype1"
 storyinfo_17330=看看<a href="findnpc_new,city04,WorldNpc10334" style="HLStype1">朱佩兰</a>知道些什么
 storyinfo_17331=听<a href="findnpc_new,city04,WorldNpc10334" style="HLStype1">朱佩兰</a>要说些什么
 storyinfo_17332=听<a href="findnpc_new,school07,WorldNpc04403" style="HLStype1">冲虚道长</a>的见解
-storyinfo_17333=询问这<a href="findnpc_new,city04,FuncNpc509" style="HLStype1">药堂老板</a>有没有迷药
+storyinfo_17333=询问这<a href="findnpc_new,city04,FuncNpc509" style="HLStype1">药堂老板</a>有没有眩晕药
 storyinfo_17334=向<a href="findnpc_new,city04,WorldNpc10120" style="HLStype1">慕容荻云</a>说明情况
 storyinfo_17335=找<a href="findnpc_new,school03,WorldNpc03305" style="HLStype1">萧别情</a>
 storyinfo_17336=劝说<a href="findnpc_new,city02,WorldNpc01472" style="HLStype1">慕容魏玉</a>
@@ -359,7 +359,7 @@ useiteminfo_17302=为<a href="findnpc_new,city02,WorldNpc01186" style="HLStype1"
 useiteminfo_17303=向王逍出示<a href="TASK_ITEM,useitem_52a" style="HLStype1">锦衣卫腰佩</a>
 useiteminfo_17304=将<a href="TASK_ITEM,useitem_54a" style="HLStype1">书信</a>放回<a href="findnpc_new,city03,EventNpc34630" style="HLStype1">原处</a>
 useiteminfo_17305=用<a href="TASK_ITEM,useitem_56a" style="HLStype1">信鸽</a>给武当传信
-useiteminfo_17306=对<a href="findnpc_new,city04,WorldNpc10106" style="HLStype1">乔山</a>使用<a href="TASK_ITEM,useitem_57a" style="HLStype1">迷药</a>
+useiteminfo_17306=对<a href="findnpc_new,city04,WorldNpc10106" style="HLStype1">乔山</a>使用<a href="TASK_ITEM,useitem_57a" style="HLStype1">眩晕药</a>
 useiteminfo_17307=为<a href="findnpc_new,school03,WorldNpc03395" style="HLStype1">慕容荻云</a>使用<a href="TASK_ITEM,useitem_58a" style="HLStype1">疗伤药</a>
 useiteminfo_17308=为<a href="findnpc_new,school03,WorldNpc03395" style="HLStype1">慕容荻云</a>使用<a href="TASK_ITEM,useitem_59a" style="HLStype1">丹阳草叶</a>
 useiteminfo_17320=用<a href="TASK_ITEM,useitem_53a" style="HLStype1">痒草汁</a>对付<a href="findnpc_new,city01,WorldNpc08769" style="HLStype1">王逍</a>

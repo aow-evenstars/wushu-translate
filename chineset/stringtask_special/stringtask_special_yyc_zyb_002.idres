@@ -49,7 +49,6 @@ okmenu_75220=<font face="Default" color="#f70227" >（欲再度質問，卻發�
 okmenu_75221=<font face="Default" color="#ffffff" >幸虧我</font><font face="Default" color="#ffffff" >「稀里糊塗」竟然出了沼澤區，前事不提也罷。走吧</font><font face="Default" color="#ffffff" >，隨你去見域主</font><font face="Default" color="#ffffff" >。</font>
 okmenu_75222=<font face="Default" color="#f7022f" >（拱手）</font><font face="Default" color="#ffffff" >多謝域主好意，只是在下自由散漫慣了，應該不會久留於此。</font>
 okmenu_75223=<font face="Default" color="#f90717" >（明白了域主的心思，其實就是各取所需）</font><font face="Default" color="#ffffff" >既如此，恭敬不如從命。</font>
-story_75201_1=<font face="Default" color="#ff0019" >（見你現身，一愣，隨即又魅惑一笑）</font><font face="Default" color="#ffffff" >呵，閣下倒是好命的很，竟然能從冥界四花區域全身而退。</font>
 story_75201_2=<font face="Default" color="#ffffff" >（拱手作揖，誠懇地道歉）對不起，先前是我不對。鄙派剛經歷過一場生死存亡，不得不防。</font><font face="Default" color="#ffffff" >重新認識一下，我叫莫爾風，是冥岳域主麾下的右掌令使，你方才除去的，是我們叛亂的左掌令使軒轅山。閣下於我派有恩，請隨我前去拜見域主。</font>
 story_menu_75201=<font face="Default" color="#ffffff" >姑娘，我們又見面了。</font>
 storyinfo_75201=聽<a href="findnpc_new,adv148,yyc_myzyb_002" style="HLStype1">莫爾風</a>訴說
@@ -62,4 +61,5 @@ DialogID_75219=<font face="Default" color="#ffffff" >哼，明廷的人，過河
 hunterinfo_75201=擊敗<a href="findnpc_new,adv149,attack_201908yyz_01" style="HLStype1">神秘隱衛</a>（若中途離開任務場景，可以去蘇州衙門找<a href="findnpc_new,city02,yyjq_second_015" style="HLStype1">捕頭</a>進入劇情模式。）
 hunterinfo_75202=前往對面懸崖，正巧看到一女子遭到血心隱衛追殺，幫助女子擊敗<a href="findnpc_new,adv148,boss_jqyyseven_004" style="HLStype1">血心隱衛</a>（若中途離開場景，前往永夜城<a href="findnpc_new,scene32,EventNpc_yyz_201908jq_003" style="HLStype1">懸崖</a>找<a href="findnpc_new,scene32,yyjq_seven_002" style="HLStype1">守衛</a>重新進入）
 interactinfo_75213=詢問<a href="findnpc_new,adv148,boss_jqyyseven_003" style="HLStype1">莫爾風</a>為何被血心隱衛追殺（若中途離開場景，前往永夜城<a href="findnpc_new,scene32,EventNpc_yyz_201908jq_003" style="HLStype1">懸崖</a>找<a href="findnpc_new,scene32,yyjq_seven_002" style="HLStype1">守衛</a>重新進入）
+story_75201_1=<font face="Default" color="#ff0019" >（見你現身，一愣，隨即又迷人一笑）</font><font face="Default" color="#ffffff" >呵，閣下倒是好命的很，竟然能從冥界四花區域全身而退。</font>
 

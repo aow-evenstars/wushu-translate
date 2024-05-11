@@ -78,7 +78,6 @@ hunterinfo_58507=與<a href="findnpc_new,school04,WorldNpc03885" style="HLStype1
 hunterinfo_58508=與<a href="findnpc_new,school04,WorldNpc03871" style="HLStype1">極樂劍陣護衛</a>切磋武藝
 hunterinfo_58509=與<a href="findnpc_new,school04,WorldNpc03849" style="HLStype1">屍壇弟子</a>切磋武藝
 hunterinfo_58510=追擊極樂谷叛徒<a href="findnpc_new,school04,JlgNpc079" style="HLStype1">宓君浩</a>
-hunterinfo_58511=遇到劫匪<a href="findnpc_new,school04,JlgNpc102" style="HLStype1">海祺</a>正在打劫，擊敗他
 interactinfo_58501=向谷主<a href="findnpc_new,school04,WorldNpc03816" style="HLStype1">單天冥</a>詢問下有什麼吩咐
 interactinfo_58502=前去碼頭接應極樂谷密探<a href="findnpc_new,school04,JlgNpc205" style="HLStype1">文飛樂</a>
 interactinfo_58503=找到被派往黑風山的錦衣衛弟子<a href="findnpc_new,school04,JlgNpc206" style="HLStype1">欒先興</a>
@@ -138,9 +137,7 @@ story_58503_2=<font face="Default" color="#ffffff" >正是此人！我命你速�
 story_58504_1=<font face="Default" color="#ffffff" >江湖人？前些日子倒是有一批江湖人士來到我們這裡。這些人一個個凶神惡煞的，似乎還和官府有些來往。</font>
 story_58504_2=<font face="Default" color="#ffffff" >嗨！這也不是什麼事兒！他們那都是來暮色之村找一個叫什麼趙子亟的人的。這夥人好像是什麼錫山什麼韓家的人，說是為了數年前的一樁滅門之案而來的。這些人啊，去暮色之村也有幾天了，官府也不讓我們打聽。</font>
 story_58505_1=<font face="Default" color="#ffffff" >若真如此，只怕這暮色之村的無辜村民凶多吉少啊。這韓似錦已被仇恨蒙蔽雙眼。此番行事，定會不擇手段。</font>
-story_58505_2=<font face="Default" color="#ffffff" >你即可趕往暮色之村，想辦法從韓似錦手中救下趙子亟，而今之事，只能盡人事聽天命了。</font>
 story_58507_2=<font face="Default" color="#ffffff" >在下好言相勸，是為閣下性命著想，如果閣下一意孤行，若是在這青雲堡中丟了性命，那邊是咎由自取了！</font>
-story_58508_2=<font face="Default" color="#ffffff" >強行入堡！今番前往定要將一切查明！既然人人都認為我極樂谷行事狠辣，那我們便讓他們看看，我極樂谷弟子想要進入的地方，又有何人能夠阻攔！</font>
 story_menu_58502=<font face="Default" color="#ffffff" >不知谷主有何吩咐？</font>
 story_menu_58503=<font face="Default" color="#ffffff" >不知谷主有何要事？</font>
 story_menu_58504=<font face="Default" color="#ffffff" >小二哥，近來可有什麼江湖人在蘇州出現啊？</font>
@@ -171,7 +168,6 @@ storymenu_58506_2=<font face="Default" color="#ffffff" >弟子領命。</font>
 storymenu_58507_1=<font face="Default" color="#ffffff" >哦？在下正是好奇此事，才特意前來想要一探究竟。</font>
 storymenu_58507_2=<font face="Default" color="#8fd6ef" >（此人口氣不善，只怕另有原因，還是盡快回稟谷主為是。）</font>
 storymenu_58508_1=<font face="Default" color="#ffffff" >不知弟子下一步應當如何？</font>
-storymenu_58508_2=<font face="Default" color="#ffffff" >弟子明白，此行定不會墜了我極樂谷的威名。</font>
 useiteminfo_58501=用<a href="TASK_ITEM,useitem_38w" style="HLStype1">掃帚</a>清掃<a href="findnpc_new,school04,EventNpc87017-1" style="HLStype1">極樂谷大殿</a>
 useiteminfo_58502=用<a href="TASK_ITEM,useitem_38w" style="HLStype1">掃帚</a>清掃<a href="findnpc_new,school04,EventNpc87017-2" style="HLStype1">極樂谷偏院</a>
 useiteminfo_58503=用<a href="TASK_ITEM,useitem_38w" style="HLStype1">掃帚</a>清掃<a href="findnpc_new,school04,EventNpc87017-3" style="HLStype1">極樂谷正門</a>
@@ -198,4 +194,8 @@ story_58507_1=<font face="Default" color="#ffffff" >而今青雲堡中蝴蝶攻�
 story_58508_1=<font face="Default" color="#ffffff" >哼！欲蓋彌彰，這青雲堡中定是有什麼見不得人的勾當。如若不然有何必大肆宣揚著蝴蝶攻克之事，阻攔江湖人士一探究竟。</font>
 story_menu_58501=<font face="Default" color="#ffffff" >可惡隱衛</font>
 storymenu_58506_1=<font face="Default" color="#ffffff" >這蝴蝶攻克雖然離奇，可弟子覺得谷主是否多慮了？</font>
+hunterinfo_58511=遇到劫匪<a href="findnpc_new,school04,JlgNpc102" style="HLStype1">海祺</a>正在掠奪，擊敗他
+story_58505_2=<font face="Default" color="#ffffff" >此事與我猜測的無異，我已派人去</font><font face="Default" color="#ffffff" >了漁村。</font>
+story_58508_2=<font face="Default" color="#ffffff" >此事與我猜測的無異，我已派人</font><font face="Default" color="#ffffff" >潛入堡中</font><font face="Default" color="#ffffff" >。靜候佳音吧！</font>
+storymenu_58508_2=<font face="Default" color="#ffffff" >弟子明白</font><font face="Default" color="#ffffff" >！</font>
 

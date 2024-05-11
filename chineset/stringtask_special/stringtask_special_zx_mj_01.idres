@@ -14,7 +14,6 @@ DialogID_72719=<font face="Default" color="#ffffff" >如何？</font>
 DialogID_72721=<font face="Default" color="#ffffff" >本派布在江湖上的眼線近日探得朝廷似乎派出密探接近明教有所圖謀，便派我攜密信趕來知會明教。說來慚愧，誰知我竟在半路遇上朝廷的密探，行藏為其識破，在被其設計打傷後裹挾著一同來到明教。</font>
 DialogID_72722=<font face="Default" color="#ffffff" >極樂谷來使安頓好了嗎？</font>
 DialogID_72723=<font face="Default" color="#ffffff" >這有何難？本教近日不是關押了一些朝廷鷹爪？你便用那些鷹爪的血喚醒此蟲好了。</font>
-DialogID_72724=<font face="Default" color="#ffffff" >懾心蓮可是我的看家毒藥，不能輕易給你。不過我最近製成一種迷藥，你若真想帶走懾心蓮，那就得先幫我試試這新藥。</font>
 DialogID_72725=<font face="Default" color="#ffffff" >放心，我煉製的藥絕對吃不死人。</font>
 DialogID_72726=<font face="Default" color="#ffffff" >解藥已經</font><font face="Default" color="#ffffff" >配製好了</font><font face="Default" color="#ffffff" >，去給極樂谷使者服下吧。</font>
 DialogID_72727=<font face="Default" color="#ffffff" >咳、咳……</font>
@@ -212,7 +211,6 @@ story_72707_2=<font face="Default" color="#ffffff" >靖難之役後本教與朱�
 story_72707_3=<font face="Default" color="#ffffff" >經教主同意後，本座與各位掌令暗中放出明教佈防圖由八位掌令輪流掌管的消息，用了很久才讓這夥人信以為真，甘心上鉤。</font>
 story_72707_4=<font face="Default" color="#ffffff" >你雖然入教時日尚淺，資歷不深，但對本教的忠心卻是人所共見。宇文蓉方才雖已讓你先服下解藥，但你功力尚淺，吸入毒霧後強行</font><font face="Default" color="#ffffff" >和</font><font face="Default" color="#ffffff" >黑衣人動手，難免會受到影響。</font>
 story_72708_1=<font face="Default" color="#ffffff" >嗯，</font><font face="Default" color="#ffffff" >狐王之計果然奏效</font><font face="Default" color="#ffffff" >。</font><font face="Default" color="#ffffff" >我看你的膽識不凡，</font><font face="Default" color="#ffffff" >也</font><font face="Default" color="#ffffff" >是個可用之人</font><font face="Default" color="#ffffff" >。</font>
-story_72708_2=<font face="Default" color="#ffffff" >眼下還有一件事需要爾等打理。本教中人多是開國功臣之後，在朱元璋大肆屠殺功臣之時心灰意冷前來投奔，而極樂谷乃是開國元勳劉伯溫以假死之計瞞天過海歸隱山林後所建，故而本教與極樂谷私下多有來往。眼下極樂谷正派遣使者拜訪本教，你便前往會客廳一趟，協助掌教使者茅震招待來客吧。</font>
 story_72709_1=<font face="Default" color="#ffffff" >眼力不錯</font><font face="Default" color="#ffffff" >，不愧是我明教弟子。這些人是虛是實，你借討教武學之名試探一番便知。</font>
 story_72710_1=<font face="Default" color="#ffffff" >究竟發生了什麼？</font>
 story_72711_1=<font face="Default" color="#ffffff" >嗯……此人身中一種東廠秘製的狠辣毒藥，服此藥之人看來與常人無異，只是不能運轉內力使用武功，實則數日之後便會毫無預兆暴斃而亡。</font>
@@ -233,7 +231,6 @@ story_menu_72709=<font face="Default" color="#ffffff" >極樂谷來使行為舉�
 story_menu_72710=<font face="Default" color="#ffffff" >極樂谷來使</font><font face="Default" color="#ffffff" >前來傳信</font><font face="Default" color="#ffffff" >途中遇襲，</font><font face="Default" color="#ffffff" >如今已被本教救下。</font>
 story_menu_72711=<font face="Default" color="#ffffff" >極樂谷來使不知傷勢究竟如何，唯有請毒手觀音宇文蓉前往一看。</font>
 story_menu_72712=<font face="Default" color="#ffffff" >化骨草已得，不知惡菩薩雷暮是否藏有凝血蟲。</font>
-story_menu_72713=<font face="Default" color="#ffffff" >服下迷藥後週身麻痺動彈不得，所幸解毒之法有效，不然後果不堪設想。</font>
 story_menu_72714=<font face="Default" color="#ffffff" >這幫朝廷鷹爪用心之險惡令人髮指。</font>
 story_menu_72715=<font face="Default" color="#ffffff" >極樂谷來使之事已了，此事應即刻上報教主。</font>
 storyinfo_72701=聽<a href="findnpc_new,school20,newmp_mj_001" style="HLStype1">明時月</a>講述明教教義與教眾使命
@@ -280,7 +277,6 @@ studyskill_mj9=學習招式<a href="TASK_ITEM,book_CS_jh_ldg02" style="HLStype1"
 useiteminfo_72701=服用宇文蓉所賜<a href="TASK_ITEM,useitem_mjzyb_002" style="HLStype1">丹藥</a>，根治毒霧的影響
 useiteminfo_72702=沒想到宇文蓉竟然是裝暈，服下其所給<a href="TASK_ITEM,useitem_mjzyb_001" style="HLStype1">丹藥</a>，先依照指示躲在暗處再說
 useiteminfo_72703=使用<a href="TASK_ITEM,useitem_mjzyb_003" style="HLStype1">凝血蟲</a>吸收<a href="findnpc_new,school20,newmp_mjzyb_017" style="HLStype1">朝廷密探</a>之血將其喚醒
-useiteminfo_72704=為平澤試藥，服下其煉製的<a href="TASK_ITEM,useitem_mjzyb_004" style="HLStype1">迷藥</a>
 story_72716_1=<font face="Default" color="#ffffff" >  在我這，你可以將其他生活製造武器轉換成你可以稱心使用的奇門兵器（包括弓）。只需要提供一件未開光的武器，經過我精心的打磨，就可以變成弓了。</font>
 story_menu_72716=<font face="Default" color="#ffffff" >我想瞭解下關於奇門置換的事項</font>
 storyinfo_72716=聽<a href="findnpc_new,school20,Jobmj_tj" style="HLStype1">王石斧</a>說
@@ -323,7 +319,6 @@ QiecuoTitle_72742=<font face="Default" color="#ffffff" >好</font>
 QiecuoTitle_72743=<font face="Default" color="#ffffff" >好</font>
 QiecuoTitle_72747=<font face="Default" color="#ffffff" >好</font>
 QiecuoTitle_72748=<font face="Default" color="#ffffff" >嗯，你且使出招式攻來。</font>
-QiecuoTitle_72751=<font face="Default" color="#ffffff" >回答的好，正是一顆俠義的心。捉拿通緝犯需要開江湖模式擊殺兇犯，凶險萬分，讓我來試試你的實力</font>
 SubmitNpcEx_72730=向<a href="findnpc_new,groupscene047,Npc_yd_wg_jx_kl01" style="HLStype1">柳毅</a>通報學習完成
 SubmitNpcEx_72731=向<a href="findnpc_new,groupscene047,Npc_yd_wg_jx_kl01" style="HLStype1">柳毅</a>稟明演武學習狀況。
 SubmitNpcEx_72732=向<a href="findnpc_new,groupscene047,Npc_yd_wg_jx_kl01" style="HLStype1">柳毅</a>討教如何靈活運用武學招式
@@ -410,4 +405,184 @@ story_72717_1=<font face="Default" color="#ffffff" >  在我這，你可以將�
 story_menu_72717=<font face="Default" color="#ffffff" >我想瞭解下關於奇門置換的事項</font>
 storyinfo_72717=聽<a href="findnpc_new,school24,Jobkl_tj" style="HLStype1">大禹</a>說
 storymenu_72717_1=<font face="Default" color="#ffffff" >多謝指點</font>
+DialogID_72761=<font face="Default" color="#ffffff" >此處已被長期污染，需要定期檢測各個地區的污染情況，你且去採集一些樣本回來</font>
+DialogID_72762=<font face="Default" color="#ffffff" >此處山林中有變異的野獸出沒，若要進入請小心</font>
+DialogID_72763=<font face="Default" color="#ffffff" >樣本可採集完成？</font>
+DialogID_72764=<font face="Default" color="#ffffff" >很久之前，曾有一批東瀛武士從星垂城逃出，隱藏身份混跡於周圍的村落</font>
+DialogID_72765=<font face="Default" color="#ffffff" >錦衣衛一直在搜查這些潛藏倭寇的身份，就在不久前有所收穫</font>
+DialogID_72766=<font face="Default" color="#ffffff" >多虧少俠明辨秋毫才可排除潛藏倭寇,倭寇供出還有同夥在村外伺機而動，有勞少俠前去擊退他們吧</font>
+DialogID_72767=<font face="Default" color="#ffffff" >是否已排除隱藏於村民中的倭寇</font>
+DialogID_72770=<font face="Default" color="#ffffff" >錦衣衛探子探查倭寇各個聚集點的行動，請前去詢問是否倭寇近期可有行動</font>
+DialogID_72771=<font face="Default" color="#ffffff" >倭寇近期並無異常行動，請放心</font>
+DialogID_72772=<font face="Default" color="#ffffff" >倭寇近期並無異常行動，請放心</font>
+DialogID_72773=<font face="Default" color="#ffffff" >倭寇近期並無異常行動，請放心</font>
+DialogID_72774=<font face="Default" color="#ffffff" >有勞少俠前去清除倭寇增援</font>
+DialogID_72775=<font face="Default" color="#ffffff" >有勞少俠前去擊退倭寇頭領</font>
+DialogID_72776=<font face="Default" color="#ffffff" >那有勞少俠前去採集些許礦石以供軍用</font>
+DialogID_72777=<font face="Default" color="#ffffff" >有勞少俠前去搶奪並燒燬倭寇的物資</font>
+DialogID_72778=<font face="Default" color="#ffffff" >聽聞在星垂城藥店有解瘴氣之毒的解藥，勞煩少俠前去取來</font>
+DialogID_72779=<font face="Default" color="#ffffff" >有勞少俠前往星垂城擊敗倭寇高層</font>
+DialogID_72780=<font face="Default" color="#ffffff" >沉心靜氣修煉武學</font>
+DialogID_72782=<font face="Default" color="#ffffff" >倭寇來襲突然，我軍火藥後備不足，你且去收集火藥原料</font>
+DialogID_72786=<font face="Default" color="#ffffff" >倭寇此次奇襲居然使用了投石車，火炮等攻城器械，威脅極大，你且攜帶火藥前去炸毀這些攻城器械</font>
+DialogID_72787=<font face="Default" color="#ffffff" >攻城器械既毀，倭寇已不足為慮，勝局已定，你且去衝殺一番吧</font>
+SubmitNpcEx_72780=回復<a href="findnpc_new,scene35,npc_202108kfwf_rw010" style="HLStype1">太叔策</a>
+SubmitNpcEx_72781=回復<a href="findnpc_new,scene35,npc_202108kfwf_rw010" style="HLStype1">太叔策</a>
+SubmitNpcEx_72782=回復<a href="findnpc_new,scene35,npc_202108kfwf_sjrw01_001" style="HLStype1">賀家邦</a>
+SubmitNpcEx_72783=回復<a href="findnpc_new,scene35,npc_202108kfwf_sjrw02_001" style="HLStype1">寧海安</a>
+SubmitNpcEx_72784=回復<a href="findnpc_new,scene35,npc_202108kfwf_sjrw03_001" style="HLStype1">葉元仁</a>
+SubmitNpcEx_72785=回復<a href="findnpc_new,scene35,npc_202108kfwf_sjrw04_001" style="HLStype1">和松</a>
+SubmitNpcEx_72786=回復<a href="findnpc_new,scene35,npc_202108kfwf_sjrw05_001" style="HLStype1">郜仁</a>
+SubmitNpcEx_72787=回復<a href="findnpc_new,scene35,npc_202108kfwf_sjrw06_001" style="HLStype1">廖楠</a>
+SubmitNpcEx_72788=回復<a href="findnpc_new,scene35,npc_202108kfwf_sjrw07_001" style="HLStype1">左健慶</a>
+SubmitNpcEx_72789=回復<a href="findnpc_new,scene35,npc_202108kfwf_sjrw08_001" style="HLStype1">許剛航</a>
+SubmitNpcEx_72790=回復<a href="findnpc_new,scene35,npc_202108kfwf_sjrw09_001" style="HLStype1">湯偉勇</a>
+SubmitNpcEx_72791=回復<a href="findnpc_new,scene35,npc_202108kfwf_sjrw10_001" style="HLStype1">司徒清</a>
+SubmitNpcEx_72792=回復軍官<a href="findnpc_new,scene35,Eventnpc_txlzy_001" style="HLStype1">孟新勇</a>
+collectinfo_72704=採集<a href="findnpc_new,scene35,Gather_202108kfwf_sjrw05_001" style="HLStype1">赤晶礦</a>
+collectinfo_72705=採集<a href="findnpc_new,scene35,Gather_202108kfwf_sjrw05_002" style="HLStype1">墨晶礦</a>
+collectinfo_72706=收集<a href="findnpc_new,scene35,Gather_202108kfwf_sjrw06_001" style="HLStype1">物資</a>
+collectinfo_72707=尋找<a href="findnpc_new,scene35,Gather_202108kfwf_sjrw07_001" style="HLStype1">欒樹</a>採集欒木
+collectinfo_72708=尋找<a href="findnpc_new,scene35,Gather_202108kfwf_sjrw07_002" style="HLStype1">柏樹</a>採集柏木
+collectinfo_72709=尋找<a href="findnpc_new,scene35,Gather_202108kfwf_sjrw07_003" style="HLStype1">楊樹</a>採集楊木
+collectinfo_72710=尋找<a href="findnpc_new,scene35,Gather_202108kfwf_sjrw07_004" style="HLStype1">槐樹</a>採集槐木
+collectinfo_72711=尋找<a href="findnpc_new,scene35,Gather_202108kfwf_sjrw07_005" style="HLStype1">青竹</a>採集竹子
+hunterinfo_72705=根據錦衣衛<a href="findnpc_new,scene35,npc_202108kfwf_rcrw02_001" style="HLStype1">聞人永</a>搜集的情報，找出隱藏於村民中的東瀛武士
+hunterinfo_72706=擊敗<a href="findnpc_new,scene35,attack_202108kfwf_sjrw01_001" style="HLStype1">駐守倭寇</a>
+hunterinfo_72707=擊敗<a href="findnpc_new,scene35,attack_202108kfwf_sjrw01_002" style="HLStype1">駐守倭寇</a>
+hunterinfo_72708=擊敗<a href="findnpc_new,scene35,attack_202108kfwf_sjrw01_003" style="HLStype1">駐守倭寇</a>
+hunterinfo_72709=擊敗<a href="findnpc_new,scene35,attack_202108kfwf_sjrw01_004" style="HLStype1">駐守倭寇</a>
+hunterinfo_72710=擊敗<a href="findnpc_new,scene35,attack_202108kfwf_sjrw01_005" style="HLStype1">駐守倭寇</a>
+hunterinfo_72711=擊敗<a href="findnpc_new,scene35,attack_202108kfwf_sjrw03_001" style="HLStype1">倭寇守衛</a>
+hunterinfo_72712=擊敗<a href="findnpc_new,scene35,attack_202108kfwf_sjrw03_002" style="HLStype1">倭寇精英</a>
+hunterinfo_72713=擊敗<a href="findnpc_new,scene35,attack_202108kfwf_sjrw04_001" style="HLStype1">倭寇頭領</a>
+hunterinfo_72714=擊敗<a href="findnpc_new,scene35,attack_202108kfwf_sjrw08_001" style="HLStype1">倭寇守衛</a>
+hunterinfo_72715=擊敗<a href="findnpc_new,scene35,attack_202108kfwf_sjrw09_001" style="HLStype1">倭寇高層</a>
+hunterinfo_72716=擊敗<a href="findnpc_new,scene35,attack_202108kfwf_sjrw09_002" style="HLStype1">倭寇護衛</a>
+hunterinfo_72717=擊敗<a href="findnpc_new,scene35,attack_202108kfwf_sjrw04_002" style="HLStype1">倭寇護衛</a>
+hunterinfo_72718=擊敗藏匿於村外的<a href="findnpc_new,scene35,attack_202108kfwf_rcrw02_001" style="HLStype1">倭寇</a>
+hunterinfo_72719=擊敗前來進攻的奇襲倭寇
+interactinfo_72761=前往軍需官<a href="findnpc_new,scene35,npc_202108kfwf_rw010" style="HLStype1">太叔策</a>處詢問有何任務
+interactinfo_72762=與守衛者<a href="findnpc_new,scene35,npc_202108kfwf_rcrw01_003" style="HLStype1">徐離民</a>交談
+interactinfo_72763=將採集到的各個樣品交給軍需官<a href="findnpc_new,scene35,npc_202108kfwf_rw010" style="HLStype1">太叔策</a>
+interactinfo_72764=與<a href="findnpc_new,scene35,npc_202108kfwf_rcrw02_001" style="HLStype1">聞人永</a>交談
+interactinfo_72765=與錦衣衛<a href="findnpc_new,scene35,npc_202108kfwf_rcrw02_001" style="HLStype1">聞人永</a>交談
+interactinfo_72766=與<a href="findnpc_new,scene35,npc_202108kfwf_rcrw02_001" style="HLStype1">聞人永</a>交談
+interactinfo_72767=向<a href="findnpc_new,scene35,npc_202108kfwf_rw010" style="HLStype1">太叔策</a>回復潛藏倭寇之事
+interactinfo_72770=詢問<a href="findnpc_new,scene35,npc_202108kfwf_sjrw02_001" style="HLStype1">寧海安</a>有什麼任務
+interactinfo_72771=前往<a href="findnpc_new,scene35,npc_202108kfwf_sjrw02_002" style="HLStype1">錦衣衛探子</a>處瞭解情況
+interactinfo_72772=前往<a href="findnpc_new,scene35,npc_202108kfwf_sjrw02_003" style="HLStype1">錦衣衛探子</a>處瞭解情況
+interactinfo_72773=前往<a href="findnpc_new,scene35,npc_202108kfwf_sjrw02_004" style="HLStype1">錦衣衛探子</a>處瞭解情況
+interactinfo_72774=與<a href="findnpc_new,scene35,npc_202108kfwf_sjrw03_001" style="HLStype1">葉元仁</a>交談
+interactinfo_72775=與<a href="findnpc_new,scene35,npc_202108kfwf_sjrw04_001" style="HLStype1">和松</a>交談
+interactinfo_72776=與<a href="findnpc_new,scene35,npc_202108kfwf_sjrw05_001" style="HLStype1">郜仁</a>交談
+interactinfo_72777=與<a href="findnpc_new,scene35,npc_202108kfwf_sjrw06_001" style="HLStype1">廖楠</a>交談
+interactinfo_72778=前往星垂城藥房處取得<a href="findnpc_new,scene35,Gather_202108kfwf_sjrw08_001" style="HLStype1">解藥</a>
+interactinfo_72779=與<a href="findnpc_new,scene35,npc_202108kfwf_sjrw09_001" style="HLStype1">湯偉勇</a>交談
+interactinfo_72780=與<a href="findnpc_new,scene35,npc_202108kfwf_sjrw10_001" style="HLStype1">司徒清</a>交談
+interactinfo_72781=跟隨<a href="findnpc_new,scene35,npc_202108kfwf_sjrw10_001" style="HLStype1">司徒清</a>練習門派武學
+interactinfo_72782=詢問軍官<a href="findnpc_new,scene35,Eventnpc_txlzy_001" style="HLStype1">孟新勇</a>禦敵之策
+interactinfo_72783=前往<a href="findnpc_new,scene35,Eventnpc_txlzy_003" style="HLStype1">硫礦</a>處收集火藥原料硫磺
+interactinfo_72784=前往<a href="findnpc_new,scene35,Eventnpc_txlzy_004" style="HLStype1">硝石</a>處收集火藥原料硝石
+interactinfo_72785=前往<a href="findnpc_new,scene35,Eventnpc_txlzy_005" style="HLStype1">熄滅的火堆</a>處收集火藥原料木炭
+interactinfo_72786=前往<a href="findnpc_new,scene35,Eventnpc_txlzy_003" style="HLStype1">硫礦</a>、<a href="findnpc_new,scene35,Eventnpc_txlzy_004" style="HLStype1">硝石</a>、<a href="findnpc_new,scene35,Eventnpc_txlzy_005" style="HLStype1">熄滅的火堆</a>處收集火藥原料，並將收集到的火藥原料上交給軍官<a href="findnpc_new,scene35,Eventnpc_txlzy_001" style="HLStype1">孟新勇</a>
+interactinfo_72787=回復軍官<a href="findnpc_new,scene35,Eventnpc_txlzy_001" style="HLStype1">孟新勇</a>已摧毀倭寇的攻城器械
+okmenu_72761=<font face="Default" color="#ffffff" >遵命</font>
+okmenu_72762=<font face="Default" color="#ffffff" >多謝提醒</font>
+okmenu_72763=<font face="Default" color="#ffffff" >恩，這些就是各地的樣本</font>
+okmenu_72764=<font face="Default" color="#ffffff" >如此後患無窮</font>
+okmenu_72765=<font face="Default" color="#ffffff" >願聞其詳</font>
+okmenu_72766=<font face="Default" color="#ffffff" >舉手之勞</font>
+okmenu_72767=<font face="Default" color="#ffffff" >不負所望</font>
+okmenu_72770=<font face="Default" color="#ffffff" >好的</font>
+okmenu_72771=<font face="Default" color="#ffffff" >好的</font>
+okmenu_72772=<font face="Default" color="#ffffff" >好的</font>
+okmenu_72773=<font face="Default" color="#ffffff" >好的</font>
+okmenu_72774=<font face="Default" color="#ffffff" >在下這就去</font>
+okmenu_72775=<font face="Default" color="#ffffff" >在下這就去</font>
+okmenu_72776=<font face="Default" color="#ffffff" >遵命</font>
+okmenu_72777=<font face="Default" color="#ffffff" >好的</font>
+okmenu_72778=<font face="Default" color="#ffffff" >好的</font>
+okmenu_72779=<font face="Default" color="#ffffff" >好的</font>
+okmenu_72780=<font face="Default" color="#ffffff" >遵命</font>
+okmenu_72782=<font face="Default" color="#ffffff" >遵命</font>
+okmenu_72786=<font face="Default" color="#ffffff" >遵命</font>
+okmenu_72787=<font face="Default" color="#ffffff" >正合我意</font>
+useiteminfo_72705=前往<a href="findnpc_new,scene35,npc_202108kfwf_rcrw01_001" style="HLStype1">受污染的水源</a>處使用<a href="TASK_ITEM,item_202108kfwf_rcrw01_001" style="HLStype1">空葫蘆</a>採集水源樣本
+useiteminfo_72706=前往<a href="findnpc_new,scene35,npc_202108kfwf_rcrw01_002" style="HLStype1">受污染的土地</a>處使用<a href="TASK_ITEM,item_202108kfwf_rcrw01_002" style="HLStype1">鏟子</a>採集土壤樣本
+useiteminfo_72709=使用<a href="TASK_ITEM,item_202108kfwf_sjrw06_001" style="HLStype1">火折子</a>燒燬剩餘<a href="findnpc_new,scene35,Gather_202108kfwf_sjrw06_001" style="HLStype1">物資</a>
+useiteminfo_72710=對<a href="findnpc_new,scene35,npc_202108kfwf_sjrw08_003" style="HLStype1">村民</a>使用<a href="TASK_ITEM,item_202108kfwf_sjrw08_001" style="HLStype1">解藥</a>
+useiteminfo_72711=對<a href="findnpc_new,scene35,npc_202108kfwf_sjrw08_004" style="HLStype1">村民</a>使用<a href="TASK_ITEM,item_202108kfwf_sjrw08_001" style="HLStype1">解藥</a>
+DialogID_72798=單單收集情報書頁還是沒法知曉其中的內容的，還需要這本《李太白詩集》來破解出具體的內容！
+DialogID_73189=<font face="Default" color="#ffffff" >找到情報書頁，並破解其中的情報！</font>
+SubmitNpcEx_72793=回復<a href="findnpc_new,adv158,npc_lzy_qygzc_wdlx_001" style="HLStype1">諸信傑</a>
+SubmitNpcEx_72794=回復<a href="findnpc_new,adv158,npc_lzy_qygzc_gnsl_001" style="HLStype1">侯泰</a>
+SubmitNpcEx_72795=回復<a href="findnpc_new,adv158,npc_lzy_qygrc_bglx_001" style="HLStype1">穆邦</a>
+SubmitNpcEx_72796=找<a href="findnpc_new,adv158,tasknpc_qygrc_01" style="HLStype1">夜洛</a>交任務
+SubmitNpcEx_72797=找<a href="findnpc_new,adv158,tasknpc_qygrc_01" style="HLStype1">夜洛</a>交任務
+SubmitNpcEx_72798=收集情報書頁
+SubmitNpcEx_72799=收集情報書頁
+SubmitNpcEx_72800=收集情報書頁
+SubmitNpcEx_72801=找<a href="findnpc_new,adv158,tasknpc_qygrc_01" style="HLStype1">夜洛</a>交任務
+collectinfo_73168=採集<a href="findnpc_new,adv158,Gather_qygrc_01" style="HLStype1">毒草</a>
+collectinfo_73169=找到<a href="findnpc_new,adv158,Gather_qygrc_0201" style="HLStype1">寶匣</a>，並找出藏在其中的情報書頁
+collectinfo_73170=找到<a href="findnpc_new,adv158,Gather_qygrc_0202" style="HLStype1">玉葉金花</a>，並找出藏在其中的情報書頁
+collectinfo_73171=找到<a href="findnpc_new,adv158,Gather_qygrc_0203" style="HLStype1">半塊玉珮</a>，並找出藏在其中的情報書頁
+collectinfo_73172=找到<a href="findnpc_new,adv158,Gather_qygrc_0204" style="HLStype1">酒盅</a>，並找出藏在其中的情報書頁
+collectinfo_73173=找到<a href="findnpc_new,adv158,Gather_qygrc_0205" style="HLStype1">酒碗</a>，並找出藏在其中的情報書頁
+collectinfo_73174=找到<a href="findnpc_new,adv158,Gather_qygrc_0207" style="HLStype1">裝滿藥粉的藥壇</a>，並找出藏在其中的情報書頁
+collectinfo_73175=找到<a href="findnpc_new,adv158,Gather_qygrc_0301" style="HLStype1">雜物堆</a>，並找出藏在其中的情報書頁
+collectinfo_73176=找到<a href="findnpc_new,adv158,Gather_qygrc_0302" style="HLStype1">垃圾</a>，並找出藏在其中的情報書頁
+collectinfo_73177=找到<a href="findnpc_new,adv158,Gather_qygrc_0303" style="HLStype1">草書字畫</a>，並找出藏在其中的情報書頁
+collectinfo_73178=找到<a href="findnpc_new,adv158,Gather_qygrc_0304" style="HLStype1">草蓆</a>，並找出藏在其中的情報書頁
+collectinfo_73179=找到<a href="findnpc_new,adv158,Gather_qygrc_0305" style="HLStype1">乾草堆</a>，並找出藏在其中的情報書頁
+collectinfo_73180=找到<a href="findnpc_new,adv158,Gather_qygrc_0306" style="HLStype1">牛糞</a>，並找出藏在其中的情報書頁
+collectinfo_73181=找到<a href="findnpc_new,adv158,Gather_qygrc_0307" style="HLStype1">茶杯</a>，並找出藏在其中的情報書頁
+collectinfo_73182=找到<a href="findnpc_new,adv158,Gather_qygrc_0308" style="HLStype1">香爐</a>，並找出藏在其中的情報書頁
+collectinfo_73183=找到<a href="findnpc_new,adv158,Gather_qygrc_0401" style="HLStype1">木頭</a>，並找出藏在其中的情報書頁
+collectinfo_73184=找到<a href="findnpc_new,adv158,Gather_qygrc_0405" style="HLStype1">破損的地板</a>，並找出藏在其中的情報書頁
+collectinfo_73185=找到<a href="findnpc_new,adv158,Gather_qygrc_0406" style="HLStype1">矮小的灌木</a>，並找出藏在其中的情報書頁
+collectinfo_73186=找到<a href="findnpc_new,adv158,Gather_qygrc_0407" style="HLStype1">香爐</a>，並找出藏在其中的情報書頁
+collectinfo_73187=找到<a href="findnpc_new,adv158,Gather_qygrc_0408" style="HLStype1">丹爐</a>，並找出藏在其中的情報書頁
+collectinfo_73188=找到<a href="findnpc_new,adv158,Gather_qygrc_0409" style="HLStype1">蒲團</a>，並找出藏在其中的情報書頁
+hunterinfo_72720=前往青衣閣尋找<a href="findnpc_new,adv158,npc_lzy_qygzc_wdlx_001" style="HLStype1">諸信傑</a>參加守衛青衣閣，抵禦外敵來襲
+hunterinfo_72721=前往青衣閣尋找<a href="findnpc_new,adv158,npc_lzy_qygzc_gnsl_001" style="HLStype1">侯泰</a>參加閣內試煉
+interactinfo_72788=通過<a href="findnpc_new,adv158,npc_lzy_qygrc_bglx_001" style="HLStype1">穆邦</a>開啟八卦煉心
+interactinfo_72790=找到<a href="findnpc_new,adv158,Gather_qygrc_0305" style="HLStype1">乾草堆</a>，並找出藏在其中的情報書頁
+interactinfo_72791=找到<a href="findnpc_new,adv158,Gather_qygrc_0306" style="HLStype1">牛糞</a>，並找出藏在其中的情報書頁
+interactinfo_72792=找到<a href="findnpc_new,adv158,Gather_qygrc_0308" style="HLStype1">香爐</a>，並找出藏在其中的情報書頁
+interactinfo_72793=找到<a href="findnpc_new,adv158,Gather_qygrc_0401" style="HLStype1">木頭</a>，並找出藏在其中的情報書頁
+interactinfo_72794=找到<a href="findnpc_new,adv158,Gather_qygrc_0405" style="HLStype1">破損的地板</a>，並找出藏在其中的情報書頁
+interactinfo_72795=找到<a href="findnpc_new,adv158,Gather_qygrc_0406" style="HLStype1">矮小的灌木</a>，並找出藏在其中的情報書頁
+interactinfo_72796=找到<a href="findnpc_new,adv158,Gather_qygrc_0408" style="HLStype1">丹爐</a>，並找出藏在其中的情報書頁
+interactinfo_72797=找到<a href="findnpc_new,adv158,Gather_qygrc_0409" style="HLStype1">蒲團</a>，並找出藏在其中的情報書頁
+interactinfo_72798=與<a href="findnpc_new,adv158,tasknpc_qygrc_01" style="HLStype1">夜洛</a>交談
+interactinfo_73189=與<a href="findnpc_new,adv158,tasknpc_qygrc_01" style="HLStype1">夜洛</a>交談
+interactinfo_73191=找到<a href="findnpc_new,adv158,Gather_qygrc_0201" style="HLStype1">寶匣</a>，並找出藏在其中的情報書頁
+interactinfo_73192=找到<a href="findnpc_new,adv158,Gather_qygrc_0202" style="HLStype1">玉葉金花</a>，並找出藏在其中的情報書頁
+interactinfo_73193=找到<a href="findnpc_new,adv158,Gather_qygrc_0203" style="HLStype1">半塊玉珮</a>，並找出藏在其中的情報書頁
+interactinfo_73194=找到<a href="findnpc_new,adv158,Gather_qygrc_0204" style="HLStype1">酒盅</a>，並找出藏在其中的情報書頁
+interactinfo_73195=找到<a href="findnpc_new,adv158,Gather_qygrc_0205" style="HLStype1">酒碗</a>，並找出藏在其中的情報書頁
+interactinfo_73196=找到<a href="findnpc_new,adv158,Gather_qygrc_0207" style="HLStype1">裝滿藥粉的藥壇</a>，並找出藏在其中的情報書頁
+interactinfo_73197=找到<a href="findnpc_new,adv158,Gather_qygrc_0301" style="HLStype1">雜物堆</a>，並找出藏在其中的情報書頁
+interactinfo_73198=找到<a href="findnpc_new,adv158,Gather_qygrc_0302" style="HLStype1">垃圾</a>，並找出藏在其中的情報書頁
+interactinfo_73199=找到<a href="findnpc_new,adv158,Gather_qygrc_0303" style="HLStype1">草書字畫</a>，並找出藏在其中的情報書頁
+interactinfo_73200=找到<a href="findnpc_new,adv158,Gather_qygrc_0304" style="HLStype1">草蓆</a>，並找出藏在其中的情報書頁
+okmenu_72798=瞭解！
+okmenu_73189=<font face="Default" color="#ffffff" >收到指示！</font>
+useiteminfo_72715=用<a href="TASK_ITEM,item_qygrc_03" style="HLStype1">動物心臟</a>沾染毒草
+useiteminfo_72716=用<a href="TASK_ITEM,item_qygrc_04" style="HLStype1">施過毒的動物心臟</a>餵養<a href="findnpc_new,adv158,attacknpc_qygrc_01" style="HLStype1">毒蛇</a>
+useiteminfo_72718=使用<a href="TASK_ITEM,item_qygrc_05" style="HLStype1">李太白詩集</a>，破解出情報書頁中的內容
+DialogID_72724=<font face="Default" color="#ffffff" >懾心蓮可是我的看家毒藥，不能輕易給你。不過我最近製成一種眩暈藥，你若真想帶走懾心蓮，那就得先幫我試試這新藥。</font>
+story_72708_2=<font face="Default" color="#ffffff" >眼下還有一件事需要爾等打理。本教中人多是開國功臣之後，在朱元璋大肆鎮壓功臣之時心灰意冷前來投奔，而極樂谷乃是開國元勳劉伯溫以假死之計瞞天過海歸隱山林後所建，故而本教與極樂谷私下多有來往。眼下極樂谷正派遣使者拜訪本教，你便前往會客廳一趟，協助掌教使者茅震招待來客吧。</font>
+story_menu_72713=<font face="Default" color="#ffffff" >服下眩暈藥後週身麻痺動彈不得，所幸解毒之法有效，不然後果不堪設想。</font>
+useiteminfo_72704=為平澤試藥，服下其煉製的<a href="TASK_ITEM,useitem_mjzyb_004" style="HLStype1">眩暈藥</a>
+DialogID_72799=<font face="Default" color="#ffffff" >你且攜帶火藥前去炸毀這些攻城器械</font>
+SubmitNpcEx_72802=回復<a href="findnpc_new,scene35,Eventnpc_txlzy_001" style="HLStype1">孟新勇</a>
+interactinfo_72799=從軍官<a href="findnpc_new,scene35,Eventnpc_txlzy_001" style="HLStype1">孟新勇</a>處獲得火藥
+okmenu_72799=<font face="Default" color="#ffffff" >遵命</font>
+useiteminfo_72713=前往<a href="findnpc_new,scene35,Eventnpc_txlzy_002" style="HLStype1">倭寇後方</a>使用<a href="TASK_ITEM,item_202108kfwf_tx004" style="HLStype1">火藥</a>炸毀倭寇的投石車（缺少火藥時可前往<a href="findnpc_new,scene35,Eventnpc_txlzy_001" style="HLStype1">孟新勇</a>處領取）
+useiteminfo_72714=前往<a href="findnpc_new,scene35,Eventnpc_txlzy_002" style="HLStype1">倭寇後方</a>使用<a href="TASK_ITEM,item_202108kfwf_tx004" style="HLStype1">火藥</a>炸毀倭寇的火炮（缺少火藥時可前往<a href="findnpc_new,scene35,Eventnpc_txlzy_001" style="HLStype1">孟新勇</a>處領取）
+QiecuoTitle_72751=<font face="Default" color="#ffffff" >回答的好，正是一顆俠義的心。捉拿通緝犯需要開江湖模式攻克兇犯，凶險萬分，讓我來試試你的實力</font>
+useiteminfo_72707=前往山林攻克<a href="findnpc_new,scene35,boss_202108kfwf_rcrw01_001" style="HLStype1">變異野豬</a>使用<a href="TASK_ITEM,item_202108kfwf_rcrw01_003" style="HLStype1">匕首</a>採集異變怪物的皮毛樣品（可通過<a href="findnpc_new,,npc_202108kfwf_rcrw01_003" style="HLStype1">徐離民</a>進入山林）
 

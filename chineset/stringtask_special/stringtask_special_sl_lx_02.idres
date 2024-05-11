@@ -3,7 +3,6 @@ DialogID_45675=你想聽聽我的故事麼，可比牧之的好玩多了。
 DialogID_45676=好像做衣服的材料也不太夠了，能幫我去收集點狐狸皮麼？
 DialogID_45677=來得正好，西邊索橋有一群索橋看守者，我有要事在身不能前去，你幫我去教訓他們吧。
 DialogID_45678=我那天好像迷迷糊糊的聽到他們在談論挖什麼寶貝，你能幫我去打探一下他們在挖什麼東西麼？
-DialogID_45679=你打死了狼，不過別浪費那些屍體啊，把狼肉一起搬回來啊。
 DialogID_45680=原來雪蓮都被蓮姬遊蕩者看管著，幫我去搶一些回來。
 DialogID_45681=天啊，我的珠鏈不見了，肯定是那天被打的時候掉在哪裡了，幫我去找回來
 DialogID_45682=什麼，皮襖做好了？可是我現在沒時間去拿啊，你幫我跑一趟拿過來吧。
@@ -39,7 +38,6 @@ collectinfo_45688=從<a href="findnpc_new,scene06,monf061300" style="HLStype1">�
 convoyinfo_45675=帶阿達去<a href="findnpc,scene06,257,0,718" style="HLStype1">托木</a>處
 convoyinfo_45678=帶張菁到<a href="findnpc,scene06,257,0,718" style="HLStype1">托木</a>處
 hunterinfo_45675=擊敗<a href="findnpc_new,scene06,monf061804" style="HLStype1">索橋看守者</a>
-hunterinfo_45676=擊敗<a href="findnpc_new,scene06,monf061605" style="HLStype1">迷失的喇嘛</a>
 hunterinfo_45677=擊敗<a href="findnpc_new,scene06,monf060100" style="HLStype1">血狼</a>
 hunterinfo_45678=擊敗<a href="findnpc_new,scene06,monf061400" style="HLStype1">蓮姬</a>，探聽雪蓮的下落
 hunterinfo_45679=擊敗<a href="findnpc_new,scene06,monf061700" style="HLStype1">經幡惡徒</a>
@@ -102,4 +100,6 @@ storymenu_45676_1=原來是這樣
 storymenu_45677_1=原來是這樣
 useiteminfo_45675=對<a href="findnpc_new,scene06,WorldNpc07404" style="HLStype1">張菁</a>使用<a href="TASK_ITEM,useitem_76m" style="HLStype1">療傷藥</a>
 useiteminfo_45676=對<a href="findnpc_new,scene06,WorldNpc07404" style="HLStype1">張菁</a>使用<a href="TASK_ITEM,useitem_77m" style="HLStype1">金瘡藥</a>
+DialogID_45679=你打死了狼，不過別浪費那些遺骸啊，把狼肉一起搬回來啊。
+hunterinfo_45676=擊敗<a href="findnpc_new,scene06,monf061605" style="HLStype1">迷失的僧侶</a>
 

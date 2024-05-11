@@ -499,7 +499,6 @@ complete_39604=<font face="Default" color="#ffffff" >真沒想到這些賊人來
 complete_39605=<font face="Default" color="#ffffff" >少俠好身手，多謝少俠。</font>
 complete_39606=<font face="Default" color="#ffffff" >水賊已被擊退，多謝少俠。</font>
 complete_39607=<font face="Default" color="#ffffff" >你就是那個打退水賊的小子？</font>
-complete_39608=<font face="Default" color="#ffffff" >真是廢物，采這麼些次品來。一定是你打開蚌殼的方式不對。</font>
 complete_39609=<font face="Default" color="#ffffff" >來了麼，好，聽我說。</font>
 complete_39610=<font face="Default" color="#ffffff" >看不出你還挺機靈的。</font>
 complete_39616=<font face="Default" color="#ffffff" >哈哈哈哈，好酒！還是靈樞那丫頭最懂我。</font>
@@ -1668,7 +1667,6 @@ accept_39664_2=<font face="Default" color="#ffffff" >水煮魚的味道相當不
 accept_39665_2=<font face="Default" color="#ffffff" >血豆腐</font><font face="Default" color="#ffffff" >的味道相當不錯，本島主也有很久未有品嚐了，你去給我弄一份回來，一般的廚師都會做這道美食，你可去詢問一下。</font>
 complete_39659_1=<font face="Default" color="#ffffff" >哦，那丫頭如此我就放心了，過幾天便瞧瞧她做了怎樣的美食。</font>
 complete_39660_1=<font face="Default" color="#ffffff" >看到涵秋如此我便放心了，看來過去的不幸遭遇她已經放下了。</font>
-complete_39661_1=<font face="Default" color="#ffffff" >酒喝多了嗎？不礙事，我這二徒弟嗜酒如命。</font>
 complete_39662_1=<font face="Default" color="#ffffff" >我這四徒弟是個武癡，不過竟然說要傳授你武學，看樣子他很看好你啊。</font>
 complete_39663_1=<font face="Default" color="#ffffff" >我徒弟當中細化研究星象的也就這三徒弟金無箴了，除了星象，他的醫卜之術業相當高明。</font>
 context_39639_1=島主讓你出島去藥店採購一些止血草回來。
@@ -1789,7 +1787,6 @@ menu_39910_1=<font face="Default" color="#ffffff" >師姐所言甚是。</font>
 title_39852=前往飛花陣
 next_39613=<font face="Default" color="#000000" >去找</font><a href="findnpc_new,school10,thd_001" style="HLStype1">黃古簫</a><font face="Default" color="#000000" >島主商談</font><font face="Default" color="#ff0000" >(提交任務請先卸除寶物，否則可能退出勢力失敗)</font>
 next_39614=<font face="Default" color="#000000" >去找</font><a href="findnpc_new,school10,thd_001" style="HLStype1">黃古簫</a><font face="Default" color="#000000" >島主商談</font><font face="Default" color="#ff0000" >(提交任務請先卸除寶物，否則可能退出勢力失敗)</font>
-target_39613=去找<a href="findnpc_new,school10,thd_001" style="HLStype1">黃古簫</a>島主商談(提交任務請先卸除寶物，否則可能退出勢力失敗)
 target_39614=去找<a href="findnpc_new,school10,thd_001" style="HLStype1">黃古簫</a>島主商談(提交任務請先卸除寶物，否則可能退出勢力失敗)
 accept_39613_1=<font face="Default" color="#ffffff" >出島歷練需要經得島主同意，你去找島主商談吧。</font>
 title_39814=進擊惡虎山寨
@@ -1924,7 +1921,6 @@ complete_39747=<font face="Default" color="#ffffff" >第一軒永遠</font><font
 complete_39748=<font face="Default" color="#ffffff" >可不是什麼人都能加入我第一軒的，要想入門得先過我這關。</font>
 complete_39755=<font face="Default" color="#ffffff" >能被垂釣翁賞識的人實屬罕見，不過</font><font face="Default" color="#ffffff" >我第一軒一向不輕易收徒，你可知此事？</font>
 complete_39757=<font face="Default" color="#ffffff" >我第一軒不是什麼人都能入的，得先經過本座的審核才行！</font>
-complete_39912=<font face="Default" color="#ffffff" >    幹得不錯，這次給這群海盜的教訓已經夠大了，希望他們能知難而退，離我們第一軒遠遠的，否則別怪我們趕盡殺絕。</font>
 complete_39917=<font face="Default" color="#ffffff" >此乃我第一軒所藏之物，如今便送與你吧。</font>
 context_39601=聽戲班老闆姚成講述第一軒的傳聞
 context_39602=少俠若是真想尋訪第一軒，可去蘇州郊外碧螺村，問問那裡的人
@@ -2042,4 +2038,8 @@ target_39828_1=攻克天寶寨精英
 target_39830_1=攻克虎嘯山莊護院
 accept_39641_1=<font face="Default" color="#ffffff" >各大宗派的人沒有得到我的允許就入島以為能瞞得過我麼？你去教訓他們一下，看他們還有膽再來！</font>
 context_39641=各大宗派的人已經悄悄滲透進第一軒，島主命令你去清理掉他們。
+complete_39608=<font face="Default" color="#ffffff" >真是無用之人，采這麼些次品來。一定是你打開蚌殼的方式不對。</font>
+complete_39661_1=<font face="Default" color="#ffffff" >酒喝多了嗎？不礙事，我這二徒弟愛酒如命。</font>
+complete_39912=<font face="Default" color="#ffffff" >    幹得不錯，這次給這群海盜的教訓已經夠大了，希望他們能知難而退，離我們第一軒遠遠的，否則別怪我們斬草除根。</font>
+target_39613=去找<a href="findnpc_new,school10,thd_001" style="HLStype1">黃古簫</a>島主商談
 

@@ -23,7 +23,6 @@ DialogID_49026=
 DialogID_49029=<font face="Default" color="#ffffff" >要抓野生龍蜥啊，是夫人要的吧。抓那東西我自然有辦法，我這裡有一種自己配的特殊飼料，那龍蜥最喜歡吃。我在裡面摻一些烈性麻藥，龍蜥吃了以後會被麻住，你將它包起來就行了。</font>
 DialogID_49031=
 DialogID_49032=<font face="Default" color="#ffffff" >這屍臭太難聞了，韓明濤這幫傢伙整天在幹些什麼。你聞到了嗎？拋屍谷傳來的味道，肯定是他們幾個偷懶不幹活，你快去看看，有什麼能幹的就幫幫他們，也催催他們幹活利索點。</font>
-DialogID_49034=<font face="Default" color="#ffffff" >哎，不是我們不想快點，只是這些屍體越來越多，我們埋都來不急。我們想用一個藥將屍體都溶解了，剩下點屍骨就好埋了，可是這藥缺些材料，</font><font face="Default" color="#ffffff" >就</font><font face="Default" color="#ffffff" >是江湖上常見的毒藥，你有空的話幫我弄點來吧。</font>
 DialogID_49035=<font face="Default" color="#ffffff" >哎，急死人了。統領大人交代說過幾天會有西北來的客人，說要做些西北菜，這玩意我哪會啊。你</font><font face="Default" color="#ffffff" >可以</font><font face="Default" color="#ffffff" >幫我找幾份手撕牛肉嗎？交給李善李大人看看能不能符合要求。</font>
 DialogID_49036=<font face="Default" color="#ffffff" >手撕牛肉！也湊合吧，到時候就叫廚子上這道菜。</font>
 DialogID_49037=<font face="Default" color="#ffffff" >我需要一些毒藥，夫君這些年樹敵無數，不可不防備啊。而且據說長期微量服用毒藥就會產生抵抗力，我一定要夫君試一試，以防不測。你去幫我弄一點來。</font>
@@ -105,7 +104,6 @@ collectinfo_49020=穿上村民服，然後用飼料抓4只龍蜥交給慕容魏�
 collectinfo_49021=收集<a href="findnpc_new,," style="HLStype1"></a>1份綠脈魔藥（五階以上毒師研毒可得）
 collectinfo_49022=收集<a href="findnpc_new,," style="HLStype1"></a>1份曼陀羅邪藥（五階以上毒師研毒可得）
 collectinfo_49024=收集<a href="findnpc_new,," style="HLStype1"></a>1份蠻蟲毒劑（三階以上毒師研毒可得）
-collectinfo_49025=挖一具屍體然後用毒藥溶解，將屍骨交給韓明濤
 collectinfo_49026=收集4份手撕牛肉（此物品乃廚師烹飪所得，圖紙可以通過地獄暮色和困難青雲堡獲得）
 collectinfo_49028=收集<a href="findnpc_new,," style="HLStype1"></a>一對青花扁壺交給鍾奇
 collectinfo_49029=收集<a href="findnpc_new,," style="HLStype1"></a>一對青花扁壺交給鍾奇
@@ -295,4 +293,6 @@ okmenu_49022=<font face="Default" color="#ffffff" >你以為我不敢嗎？我�
 specialinfo_128=去丐幫的百獸莊踢一次館，讓他們記住錦衣衛不是好惹的
 hunterinfo_49003=攻克<a href="findnpc,school01,231,2,352" style="HLStype1">東廠探子</a>
 hunterinfo_49005=攻克<a href="findnpc,school01,59,88,-545" style="HLStype1">嗜血惡徒</a>
+DialogID_49034=<font face="Default" color="#ffffff" >哎，不是我們不想快點，只是這些遺骸越來越多，我們埋都來不急。我們想用一個藥將遺骸都溶解了，剩下點屍骨就好埋了，可是這藥缺些材料，</font><font face="Default" color="#ffffff" >就</font><font face="Default" color="#ffffff" >是江湖上常見的毒藥，你有空的話幫我弄點來吧。</font>
+collectinfo_49025=挖一具遺骸然後用毒藥溶解，將屍骨交給韓明濤
 

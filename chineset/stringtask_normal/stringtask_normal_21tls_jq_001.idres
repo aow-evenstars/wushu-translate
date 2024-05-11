@@ -53,7 +53,6 @@ complete_76498=<font face="Default" color="#ffffff" >你可有認真聽課領悟
 complete_76500=<font face="Default" color="#ffffff" >這次大獲全勝，展我寺雄風，甚好！這是給予你的獎勵</font>
 context_76401=初入天輪寺，前往拜訪四大首座並悉心聆聽教誨。
 context_76402=益西也回到天輪寺了，走上前跟他打招呼。
-context_76403=前去向兩位執事師叔打聽白瑪師叔殺人之事。
 context_76404=益西驚慌失措的求救，趕緊去問問他。
 context_76405=根據一路上發現的線索，失蹤的小孩們可能就在前面，上前去查看。
 context_76406=在山洞裡找到孩子們，仔細檢查孩子們的狀況。
@@ -156,4 +155,68 @@ title_76497=天輪早課
 title_76498=天輪晚課
 title_76499=武學精進
 title_76500=反攻冥岳
+context_76403=前去向兩位執事師叔打聽白瑪師叔害人之事。
+CanAcceptMenu_76410=<font face="Default" color="#ffffff" >巡邏刑天城</font>
+CanAcceptMenu_76411=<font face="Default" color="#ffffff" >擊退馬匪</font>
+CanAcceptMenu_76412=<font face="Default" color="#ffffff" >運送物資</font>
+CanAcceptMenu_76413=<font face="Default" color="#ffffff" >擊退牧民</font>
+CanAcceptMenu_76414=<font face="Default" color="#ffffff" >掃清障礙</font>
+CanAcceptMenu_76415=<font face="Default" color="#ffffff" >武學交流</font>
+CanAcceptMenu_76416=<font face="Default" color="#ffffff" >巡視全城</font>
+CompleteMenu_76410=<font face="Default" color="#ffffff" >巡邏刑天城</font><font face="Default" color="#ffffff" >（已完成）</font>
+CompleteMenu_76411=<font face="Default" color="#ffffff" >擊退馬匪</font><font face="Default" color="#ffffff" >（已完成）</font>
+CompleteMenu_76412=<font face="Default" color="#ffffff" >運送物資（已完成）</font>
+CompleteMenu_76413=<font face="Default" color="#ffffff" >擊退牧民（已完成）</font>
+CompleteMenu_76414=<font face="Default" color="#ffffff" >掃清障礙</font><font face="Default" color="#ffffff" >（已完成）</font>
+CompleteMenu_76415=<font face="Default" color="#ffffff" >武學交流</font><font face="Default" color="#ffffff" >（已完成）</font>
+CompleteMenu_76416=<font face="Default" color="#ffffff" >巡視全城（已完成）</font>
+accept_76410_1=<font face="Default" color="#ffffff" >有消息說最近刑天城內有馬匪出沒，你幫我去巡視下刑天城。</font>
+accept_76411_1=<font face="Default" color="#ffffff" >有村名反映情況，刑天城外有馬匪出沒，去將其藏匿處找出，並將其擊退。</font>
+accept_76412_1=<font face="Default" color="#ffffff" >刑天城最近將有一批物資送達，你前去幫忙運送回來。</font>
+accept_76413_1=<font face="Default" color="#ffffff" >有村名反映情況，刑天城外有</font><font face="Default" color="#ffffff" >一波</font><font face="Default" color="#ffffff" >馬匪</font><font face="Default" color="#ffffff" >偽裝的牧民</font><font face="Default" color="#ffffff" >出沒，去將其藏匿處找出，並將其擊退。</font>
+accept_76414_1=<font face="Default" color="#ffffff" >刑天城的入口處有</font><font face="Default" color="#ffffff" >路匪和路霸出沒，將其擊退。</font>
+accept_76415_1=<font face="Default" color="#ffffff" >最近刑天城內事務比較繁忙，無暇分身，請你幫忙。</font>
+accept_76416_1=<font face="Default" color="#ffffff" >最近刑天城有些不太平，請你幫忙收集些情報。</font>
+complete_76410=<font face="Default" color="#ffffff" >做的不錯，這是給與你的獎勵！</font>
+complete_76411=<font face="Default" color="#ffffff" >做的不錯，這是給與你的獎勵！</font>
+complete_76412=<font face="Default" color="#ffffff" >做的不錯，這是給與你的獎勵！</font>
+complete_76413=<font face="Default" color="#ffffff" >做的不錯，這是給與你的獎勵！</font>
+complete_76414=<font face="Default" color="#ffffff" >做的不錯，這是給與你的獎勵！</font>
+complete_76415=<font face="Default" color="#ffffff" >做的不錯，這是給與你的獎勵！</font>
+complete_76416=<font face="Default" color="#ffffff" >做的不錯，這是給與你的獎勵！</font>
+context_76410=刑天城附近有馬匪的出沒的蹤跡，巡視下刑天城，看看有沒有馬匪混入刑天城。
+context_76411=刑天城外有馬匪的出沒，找到馬匪藏身處，並擊退馬匪。
+context_76412=刑天城內有一波物資需要運用，前去將物資運送至指定位置。
+context_76413=刑天城外有馬匪偽裝的牧民的出沒，找到牧民藏身處，並擊退牧民。
+context_76414=刑天城入口處有大量路匪和路霸出沒，前去將其擊退。
+context_76415=最近刑天城內事務比較繁忙，幫我去檢驗下部分弟子的武學有無荒廢。
+context_76416=最近刑天城內有些不太平，前去瞭解下具體情況。
+menu_76410_1=<font face="Default" color="#ffffff" >好的</font>
+menu_76411_1=<font face="Default" color="#ffffff" >好的。</font>
+menu_76412_1=<font face="Default" color="#ffffff" >好的！</font>
+menu_76413_1=<font face="Default" color="#ffffff" >好的。</font>
+menu_76414_1=<font face="Default" color="#ffffff" >好的。</font>
+menu_76415_1=<font face="Default" color="#ffffff" >請問何事？</font>
+menu_76416_1=<font face="Default" color="#ffffff" >好的！</font>
+submit_76410=<font face="Default" color="#ffffff" >多謝！</font>
+submit_76411=<font face="Default" color="#ffffff" >多謝！</font>
+submit_76412=<font face="Default" color="#ffffff" >多謝！</font>
+submit_76413=<font face="Default" color="#ffffff" >多謝！</font>
+submit_76414=<font face="Default" color="#ffffff" >多謝！</font>
+submit_76415=<font face="Default" color="#ffffff" >多謝！</font>
+submit_76416=<font face="Default" color="#ffffff" >多謝！</font>
+target_76410=巡視刑天城。
+target_76411=找到馬匪藏身處，並擊退馬匪。
+target_76412=幫助運送刑天城物資。
+target_76413=找到牧民藏身處，並擊退牧民。
+target_76414=擊退路匪和路霸。
+target_76415=與刑天城弟子比武切磋。
+target_76416=巡視全城。
+title_76410=巡邏刑天城
+title_76411=擊退馬匪
+title_76412=運送物資
+title_76413=擊退牧民
+title_76414=掃清障礙
+title_76415=武學交流
+title_76416=巡視全城
 

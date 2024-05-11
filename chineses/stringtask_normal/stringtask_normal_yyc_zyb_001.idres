@@ -56,6 +56,7 @@ CanAcceptMenu_75124=<font face="Default" color="#ffffff" >收集草药（可承�
 CanAcceptMenu_75125=<font face="Default" color="#ffffff" >击败来犯（可承接）</font>
 CanAcceptMenu_75126=<font face="Default" color="#ffffff" >每日切磋（可承接）</font>
 CanAcceptMenu_75127=<font face="Default" color="#ffffff" >教训仙子（可承接）</font>
+CanAcceptMenu_75153=<font face="Default" color="#ffffff" >心病还需心药医</font>
 CompleteMenu_75012=<font face="Default" color="#ffffff" >完成任务</font>
 CompleteMenu_75014=<font face="Default" color="#ffffff" >完成</font><font face="Default" color="#ffffff" >任务</font>
 CompleteMenu_75019=<font face="Default" color="#ffffff" >金宫试炼</font><font face="Default" color="#ffffff" >（已完成）</font>
@@ -118,6 +119,7 @@ CompleteMenu_75124=<font face="Default" color="#ffffff" >完成任务</font>
 CompleteMenu_75125=<font face="Default" color="#ffffff" >完成任务</font>
 CompleteMenu_75126=<font face="Default" color="#ffffff" >完成任务</font>
 CompleteMenu_75127=<font face="Default" color="#ffffff" >完成任务</font>
+CompleteMenu_75153=<font face="Default" color="#ffffff" >心病还需心药医</font>
 accept_75019_1=<font face="Default" color="#ffffff" >此刻宫中弟子正在副剑塔内悟剑，少侠可前往与门中弟子一战，只有击败十名弟子，方算通过试炼。</font>
 accept_75020_1=<font face="Default" color="#ffffff" >焦金流石宫又称金宫，宫中珍贵矿石数不甚数，少侠初来乍到需先上交100份铁锭。</font>
 accept_75021_1=<font face="Default" color="#ffffff" >只有铁锭可远远不够，少侠还需上交100份铜锭。</font>
@@ -175,6 +177,42 @@ accept_75124_1=<font face="Default" color="#ffffff" >从祖师爷开始，净天
 accept_75125_1=<font face="Default" color="#ffffff" >外域武林中一些邪恶势力作恶多端，净天宫一向不喜与他们多加来往。然而，这些势力却咄咄逼人，多次来犯，防不胜防。</font><font face="Default" color="#ffffff" >这些势力成了</font><font face="Default" color="#ffffff" >净天宫</font><font face="Default" color="#ffffff" >的心头大患</font><font face="Default" color="#ffffff" >，若是</font><font face="Default" color="#ffffff" >少侠</font><font face="Default" color="#ffffff" >能帮忙铲除，净天宫</font><font face="Default" color="#ffffff" >上下</font><font face="Default" color="#ffffff" >感激不尽。</font>
 accept_75126_1=<font face="Default" color="#ffffff" >本座一直告诫大家习武修道都不可偷懒放松，每日必须勤加修炼。小友来得正好，不如和我们净天宫之人切磋切磋</font><font face="Default" color="#ffffff" >武艺</font><font face="Default" color="#ffffff" >。</font>
 accept_75127_1=<font face="Default" color="#ffffff" >近几日，鲤梦仙子因为心爱的几尾金色锦鲤死了，格外的</font><font face="Default" color="#ffffff" >暴躁</font><font face="Default" color="#ffffff" >。最近三天她逼着净天宫弟子与她</font><font face="Default" color="#ffffff" >比试</font><font face="Default" color="#ffffff" >，哎，谁能打的过她这小姑奶奶呢？！听说有三十个弟子都被她收拾了。</font>
+accept_75150_1=<font face="Default" color="#ffffff" >岚羲阁以音律成名江湖，以音养性，以音入道，感兴趣者可与本阁弟子一起修炼音律。</font>
+accept_75151_1=<font face="Default" color="#ffffff" >你在音律与招式的结合方面是否已经有所领悟呢？我来考验你的能力</font>
+accept_75152_1=<font face="Default" color="#ffffff" >廉山宗常年居于一片广袤的云海，若用音律去表达</font><font face="Default" color="#ffffff" >这片云海</font><font face="Default" color="#ffffff" >，你觉得适合弹奏哪首乐曲？</font>
+accept_75153_1=<font face="Default" color="#ffffff" >最近听说有个弟子整日茶饭不思，如何是好。我脱不开身，你能帮我去看看么</font><font face="Default" color="#ffffff" >？</font>
+accept_75154_1=<font face="Default" color="#ffffff" >想要打造一支好箫，每一步工序均需要认真对待，制箫的第一步就是采竹，你可知什么样的竹子最适合么</font>
+accept_75155_1=<font face="Default" color="#ffffff" >将采下的竹子，放置于无日晒又通风的地方，另择已经阴干好几年的竹子进行接下来的步骤。竹子通常储放两年后才可造箫，储存的年份越久，造出的洞箫音色越佳。</font><font face="Default" color="#ffffff" >这根你先存储好。然后拿一根我之前保存好的竹材</font>
+accept_75156_1=<font face="Default" color="#ffffff" >竹子经过火烤后，它的纤维将变得柔软，易于拗直或弯曲。这是为了我们后续打磨和雕刻的需求而做的准备</font>
+accept_75157_1=<font face="Default" color="#ffffff" >打通竹节需要对内力有十分精细的操控</font><font face="Default" color="#ffffff" >。首先，你需要将双手合十，沉静心境，集中内力于指尖。然后，将指尖轻轻触碰竹节，用心感受其中的阻碍和不通畅。运用内力，用轻柔的力道和指腹的触感，推动内力贯穿竹节，打通堵塞。</font>
+accept_75158_1=<font face="Default" color="#ffffff" >接下来的一步是打磨，需要用长的圆锉和锉草来打磨竹子内膛，以确保其尺寸与标准相符。先用长的圆锉沿着内膛的方向进行均匀的刮擦，然后再用稍硬一些的锉草继续打磨，直到达到理想的尺寸。</font>
+accept_75159_1=<font face="Default" color="#ffffff" >接下来就是定位，先按长度锯好木材，然后画好指孔和吹孔，你参照之前的箫画好这些</font><font face="Default" color="#ffffff" >孔</font><font face="Default" color="#ffffff" >位吧</font>
+accept_75160_1=<font face="Default" color="#ffffff" >开出标准的吹口需要细致的技巧和经验。首先，要用锋利的刀具在洞箫的一端开出适中大小的吹口，确保吹口略微倾斜，便于吹奏音准。然后，用细砂纸或抛光器打磨吹口和洞箫顶端，使其光滑而不伤口。</font>
+accept_75161_1=<font face="Default" color="#ffffff" >接下来先需要将铁棍加热至适当温度，然后在已经确定位置的地方开始烧火。记住，钻孔的次序是由下至上，也就是先开出指孔，然后再开出出音孔。</font>
+accept_75162_1=<font face="Default" color="#ffffff" >还没呢。还有至关重要的一步，调音</font><font face="Default" color="#ffffff" >。反覆吹奏以将音准和演奏性能调整至最佳</font>
+accept_75163_1=<font face="Default" color="#ffffff" >雕刻这一步，先根据需要设计图案，在洞箫表面上起草画稿，并使用细腻的雕刻刀将图案刻工出来。然后，如果需要，可以使用木材染料进行著色，为箫增添一些独特的色彩</font>
+accept_75164_1=<font face="Default" color="#ffffff" >接下来就是最后一步，上光了。用贝壳将箫身打磨得光亮平整即可，去办吧。</font>
+accept_75165_1=<font face="Default" color="#ffffff" >轻哼：（明月几时有？把酒问青天。不知天上宫阙，今夕是何年。我欲乘风归去，又恐琼楼玉宇，高处不胜寒。起舞弄清影，何似在人间。）</font>
+accept_75166_1=<font face="Default" color="#ffffff" >这可如何是好</font><font face="Default" color="#ffffff" >！</font>
+accept_75167_1=<font face="Default" color="#ffffff" >阁内弟子我最信任谢竹慧了。要不你先去找他问问看最近哪个弟子有异常</font>
+accept_75168_1=<font face="Default" color="#ffffff" >童留</font><font face="Default" color="#ffffff" >现在人在阁内，你要找他的话直接去就好了。</font>
+accept_75169_1=<font face="Default" color="#ffffff" >等等，刚才门内弟子告诉我童留去了大门，似乎是要出阁，你要找他快去看看</font>
+accept_75170_1=<font face="Default" color="#ffffff" >空口无凭，你，你凭什么说你是客卿，让开，让我过去，</font>
+accept_75171_1=<font face="Default" color="#ffffff" >我。我。我恨死我自己了。练个武三天打鱼两天晒网。结果连报仇都报不了。</font>
+accept_75172_1=<font face="Default" color="#ffffff" >乐谱？ 什么乐谱？</font>
+accept_75173_1=<font face="Default" color="#ffffff" >真的！你真能帮我报仇！</font>
+accept_75174_1=<font face="Default" color="#ffffff" >足轻</font><font face="Default" color="#ffffff" >组</font><font face="Default" color="#ffffff" >头经常来欺压村名，这杀妻之仇一定有他们一份</font>
+accept_75175_1=<font face="Default" color="#ffffff" >什么？ 你说什么？ 麻烦大点声？</font>
+accept_75176_1=<font face="Default" color="#ffffff" >快！去！快！回！</font>
+accept_75177_1=<font face="Default" color="#ffffff" >五气堡想来对各种奇怪现象有所研究，之前我已去信一封，看来不能慢悠悠等回复了。能麻烦你直接跑一趟么</font>
+accept_75178_1=<font face="Default" color="#ffffff" >速去速回，注意保密</font>
+accept_75179_1=<font face="Default" color="#ffffff" >小鬼子最近越来越嚣张，总是成群结队出现，你要小心点</font>
+accept_75180_1=<font face="Default" color="#ffffff" >地位高一点的就是足轻组头了。在八目城深入一些的地方，更危险了</font>
+accept_75181_1=<font face="Default" color="#ffffff" >剑术大师一般出现在八目城内城，此去一定要小心谨慎。</font>
+accept_75182_1=<font face="Default" color="#ffffff" >八目城的上忍各个身怀绝技，此去一定要小心，最好能叫上几个帮手</font><font face="Default" color="#ffffff" >，我虽精通杂学，但武艺着实差劲，跟你去怕不是拖后腿的。</font>
+accept_75183_1=<font face="Default" color="#ffffff" >解药我想办法已经量产出来了。其他地方我找人分发一下，乐医的解药你带给他吧</font>
+accept_75184_1=<font face="Default" color="#ffffff" >小鬼子手段越来越恶劣，连水源下毒这种下三滥的手段都用上了。再放任小鬼子这样下去。我们都得被阴死。</font>
+accept_75185_1=<font face="Default" color="#ffffff" >这段时间，本地土人进场来本阁求助，倭寇骚扰他们多次，抢粮抢人，实在太可恶了</font>
 complete_75012=<font face="Default" color="#ffffff" >既然小友心意已决，老夫也不再勉强。</font>
 complete_75014=<font face="Default" color="#e8002e" >(在燕王府遇到的神秘人，如果是真凶，此番偷袭就是为了解决后患。若真凶另有其人，那么陷害自己的是谁？今天来偷袭的又是何人？)</font>
 complete_75019=<font face="Default" color="#ffffff" >大浪淘沙，是金子总会发光，少侠，我看好你哦。</font>
@@ -238,6 +276,42 @@ complete_75124=<font face="Default" color="#ffffff" >多谢</font><font face="De
 complete_75125=<font face="Default" color="#ffffff" >多谢</font><font face="Default" color="#ffffff" >少侠</font><font face="Default" color="#ffffff" >帮忙。</font>
 complete_75126=<font face="Default" color="#ffffff" >少侠，一番比试下来辛苦了。本座看你与苍鹤师兄交手，也未曾落于下风，着实是后生可畏，实力雄厚。</font>
 complete_75127=<font face="Default" color="#ffffff" >少侠好生厉害，</font><font face="Default" color="#ffffff" >鲤梦仙子自从被你打败后，竟然转了性，默默的去钻研锦鲤的繁殖方法了。净天宫如今一下子安生了，真是岁月静好啊。</font>
+complete_75150=<font face="Default" color="#ffffff" >音律之道，需持之以恒，希望你今后能坚持</font>
+complete_75151=<font face="Default" color="#ffffff" >逆水行舟，不进则退</font>
+complete_75152=<font face="Default" color="#ffffff" >很好，你的选择很有个性。《飘逸曲》确实能够赋予云海一种轻盈的感觉，好似音符在云海中舞动。你对音律的理解和感知已经很不错了。</font>
+complete_75153=<font face="Default" color="#ffffff" >心病还需心药医，让她哭出来总比傻待着强。唉~</font><font face="Default" color="#ffffff" >你做的还不错</font>
+complete_75154=<font face="Default" color="#ffffff" >不错不错，这根竹子刚刚好，下一步就是储存了，</font>
+complete_75155=<font face="Default" color="#ffffff" >你这一眼就挑中了我最好的一批竹材，眼光真不错，这次应该能做出一个非常好的箫。</font>
+complete_75156=<font face="Default" color="#ffffff" >烤热的竹子除了易于打磨和雕刻之外，还能为制箫赋予独特的音色，第一次烤竹就能掌控火候，看起来你挺有天分。下一步就该打通竹节</font><font face="Default" color="#ffffff" >了</font>
+complete_75157=<font face="Default" color="#ffffff" >这是制箫中最为关键的一步。只有当箫身内外通畅，才能演奏出悦耳的音韵。</font>
+complete_75158=<font face="Default" color="#ffffff" >制箫的艺术在于细节的处理。只有你全神贯注，将心血倾注于每一根竹子，才能制作出引人入胜的箫作</font>
+complete_75159=<font face="Default" color="#ffffff" >这样箫的样子大致就出来了。还有几步就做成了</font>
+complete_75160=<font face="Default" color="#ffffff" >吹口的开出和打磨是制箫中非常关键的一步，它直接影响到演奏的舒适度和音质的纯净度。</font><font face="Default" color="#ffffff" >下一步就是调音了</font>
+complete_75161=<font face="Default" color="#ffffff" >开孔的准确性是制箫中的关键一步。要认真按照已确定的位置进行钻孔，以确保箫音的音准和音色的平衡</font>
+complete_75162=<font face="Default" color="#ffffff" >调音完成后。这个才能叫做箫了。接下来就是让箫变得更好看。</font>
+complete_75163=<font face="Default" color="#ffffff" >这。文雅之物雕刻杀伐气息如此浓厚的诗句。罢了，你开心就好</font>
+complete_75164=<font face="Default" color="#ffffff" >好了。这个箫也制成了。你也玩够了。快走！快走！</font>
+complete_75165=<font face="Default" color="#ffffff" >当然可以！音律感知不仅可以培养你的艺术触觉，还能深化你与大自然之间的联系。请你拿起这支竹箫，我将教你这段特定的箫曲。记住，要用心感受自然的气息和植物的需求，将这种共鸣注入你的演奏中。</font>
+complete_75166=<font face="Default" color="#ffffff" >我也担心是阁内弟子，不好公然调查，你能暗地里调查一番么。这谱子本身不是什么贵重的东西，效果对内力稍强的高手也毫无作用，但是副作用确实极大，怕是哪个弟子误以为是高深武学给偷拿了。</font>
+complete_75167=<font face="Default" color="#ffffff" >表现感觉都差不多，不过说到最近有什么事的。倒是有一个，叫童留的，之前收到什么消息回家过一趟，很快回来了。后面也没表现出什么异常。所以也没留意。</font>
+complete_75168=<font face="Default" color="#ffffff" >是的，注意阁内禁地，要是擅自闯入，阁主可是要赶你走的</font>
+complete_75169=<font face="Default" color="#ffffff" >你是谁。我阁内私事，你凭什么过问（神色慌张）</font>
+complete_75170=<font face="Default" color="#ffffff" >我的爱，是岛上原住民。阁主管教的严格，我平时都是偷偷跑去见她的，没想到！没想到前几日我去看她的时候，她竟然投河自尽了。我四下打听，才知道是八目城的小鬼子见色起义，竟然，竟然玷污她，当天她就投河了。呜呜呜，我的爱，我为何不在你的身边。</font>
+complete_75171=<font face="Default" color="#ffffff" >啊！你可千万别跟阁主说。不然我死定了。</font>
+complete_75172=<font face="Default" color="#ffffff" >我走投无路了啊</font>
+complete_75173=<font face="Default" color="#ffffff" >还能再杀一些么？</font>
+complete_75174=<font face="Default" color="#ffffff" >有缘再见</font>
+complete_75175=<font face="Default" color="#ffffff" >什！么！</font><font face="Default" color="#ffffff" >？</font>
+complete_75176=<font face="Default" color="#ffffff" >是的，这件事有点蹊跷，在你来之前我收到好几个报告，说门下弟子五感受到影响，有的是听不见，有的是尝不出味道，有的是闻不到味道，有的看不清东西。</font>
+complete_75177=<font face="Default" color="#ffffff" >对了，此事先不要声张，只可告诉这个熟悉的弟子。莫要告诉其他人</font>
+complete_75178=<font face="Default" color="#ffffff" >嗯。你先</font><font face="Default" color="#ffffff" >去</font><font face="Default" color="#ffffff" >打晕几个足轻问问情况看</font>
+complete_75179=<font face="Default" color="#ffffff" >这些都是小喽啰，没有什么特别有价值的情报</font>
+complete_75180=<font face="Default" color="#ffffff" >听起来这次确实是八目城的小鬼子从中作梗，但是拿来的解药质量参差不齐，没法好好分析，最好能搞到大师级小鬼子身上的解药。应该更有效果</font>
+complete_75181=<font face="Default" color="#ffffff" >解药应该没问题了。但是解铃还须系邻人，解毒速度赶不上下毒速度，一定要想办法阻止小鬼子继续下毒</font>
+complete_75182=<font face="Default" color="#ffffff" >摧毁了毒药，小鬼子一时半会也搞不到更多毒药了。此事终于能告一段落</font>
+complete_75183=<font face="Default" color="#ffffff" >这次多谢了。小小赠礼不成敬意</font>
+complete_75184=<font face="Default" color="#ffffff" >少侠</font><font face="Default" color="#ffffff" >！</font><font face="Default" color="#ffffff" >我看你骨骼惊奇，腿脚利索，不如</font>
+complete_75185=<font face="Default" color="#ffffff" >幸苦你了</font>
 context_75001=收到盟主林天南的书信，派你设法暗中潜入燕王府打探。
 context_75002=突然出现身份可疑的神秘隐卫，一举击败他。
 context_75003=逃离密室
@@ -337,6 +411,42 @@ context_75124=净天宫弟子经常外出医治百姓，草药消耗极大，所
 context_75125=人在江湖，身不由己，净天宫的宿敌此刻来犯。
 context_75126=闲来无事，与净天宫弟子切磋武艺，提升自己。
 context_75127=鲤梦仙子心情不佳，一言不合，便要找人单挑，无奈之下，只能接招。
+context_75150=岚羲阁的音律修行
+context_75151=阁主要考较你几道关于音律武学的问题
+context_75152=思考如何使用合适的乐曲
+context_75153=使用乐曲治愈忧郁的少女
+context_75154=要打造一个上好的萧，每一个工序都需要用心打磨，第一步就是采竹
+context_75155=保存新竹，挑选合适的竹材
+context_75156=完成制箫第二个步骤，烤竹
+context_75157=以内力注于指尖，打通竹节
+context_75158=用长的圆锉及锉草打磨竹子内膛，以达到标准尺寸
+context_75159=按需要的长度锯取竹，在竹材上将指孔和吹孔的位置画好。
+context_75160=用刀开出标准的吹口，并将吹口，洞箫顶端打磨光滑
+context_75161=用铁棍烧火，在已经定位之处开出指孔和出音孔，钻孔次序由下至上
+context_75162=反覆吹奏以将音准和演奏性能调整至最佳
+context_75163=在洞箫上起画稿和题词，用雕刻刀刻出，可用木材染料著色。
+context_75164=用贝壳将箫身打磨得光亮平整
+context_75165=门人在负责照料山谷中的花草树木，并运用音律的道理来帮助植物生长和繁衍。
+context_75166=阁主发现保存在库房内的戕屠乐谱不见了，委托你私下调查
+context_75167=调查戕屠乐谱的下落
+context_75168=童留之前家里出事了。很有可能有作案动机
+context_75169=寻找童留
+context_75170=了解童留的难处
+context_75171=实力不济，报仇无望
+context_75172=帮助童留报仇
+context_75173=帮助童留报仇
+context_75174=成功帮童留报仇
+context_75175=近日感觉听力衰退，感觉有些异样
+context_75176=去找阁主问问怎么办
+context_75177=寻求外援
+context_75178=前去五气堡了解情况
+context_75179=打晕几个倭寇看看有没有线索
+context_75180=用剑找几个足轻组头打探消息
+context_75181=搞到剑术大师身上的解药
+context_75182=击败上忍，销毁毒药
+context_75183=将解药带给乐医
+context_75184=乐医决定做领头人暗中联络其他势力对抗八目城
+context_75185=土人怨声载道，苦倭寇久矣，帮帮土人
 menu_75019_1=<font face="Default" color="#ffffff" >在下愿意一试。</font>
 menu_75020_1=在下去去便回。
 menu_75021_1=在下遵命。
@@ -394,10 +504,49 @@ menu_75124_1=<font face="Default" color="#ffffff" >我对草药</font><font face
 menu_75125_1=<font face="Default" color="#ffffff" >路见不平，自当拔刀相助。</font>
 menu_75126_1=<font face="Default" color="#ffffff" >既然宫主示下</font><font face="Default" color="#ffffff" >比武切磋</font><font face="Default" color="#ffffff" >，</font><font face="Default" color="#ffffff" >那在下欣然领命</font><font face="Default" color="#ffffff" >。</font>
 menu_75127_1=<font face="Default" color="#ffffff" >世界这么美妙，为何</font><font face="Default" color="#ffffff" >这位</font><font face="Default" color="#ffffff" >小仙女却如此暴躁？容我去会上一会。</font>
+menu_75150_1=<font face="Default" color="#ffffff" >请您指点迷津，我愿虚心学习</font>
+menu_75151_1=<font face="Default" color="#ffffff" >是。我</font><font face="Default" color="#ffffff" >之前</font><font face="Default" color="#ffffff" >尝试将音律与招式相结合，似乎有所领悟</font>
+menu_75152_1=<font face="Default" color="#ffffff" >这片云海苍茫壮丽，仿佛天地相融之景。我认为《云海天边》这首乐曲最能恰如其分地表达出这种壮丽的景象</font>
+menu_75153_1=<font face="Default" color="#ffffff" >好的</font>
+menu_75154_1=<font face="Default" color="#ffffff" >请赐教</font>
+menu_75155_1=<font face="Default" color="#ffffff" >好的!</font>
+menu_75156_1=<font face="Default" color="#ffffff" >我理解了。是要将竹子放在明火上加热，然后利用温热柔软的特性来改变竹子的形状</font>
+menu_75157_1=<font face="Default" color="#ffffff" >我明白了。我需要通过内力注入指尖，并用指尖的触感来感知竹节的通畅度，再运用内力推动通畅。</font>
+menu_75158_1=<font face="Default" color="#ffffff" >我一定会细致入微地进行打磨</font>
+menu_75159_1=<font face="Default" color="#ffffff" >终于碰上个简单的活了</font>
+menu_75160_1=<font face="Default" color="#ffffff" >好的</font>
+menu_75161_1=<font face="Default" color="#ffffff" >指孔原来是用铁棍烫出来的</font>
+menu_75162_1=<font face="Default" color="#ffffff" >我来试试</font>
+menu_75163_1=<font face="Default" color="#ffffff" >我要自己来选雕刻。</font>
+menu_75164_1=<font face="Default" color="#ffffff" >又是打磨呀。</font>
+menu_75165_1=<font face="Default" color="#ffffff" >这位小姐姐，你在做什么啊，为何对着树唱歌。</font>
+menu_75166_1=<font face="Default" color="#ffffff" >阁主，发生什么事了？</font>
+menu_75167_1=<font face="Default" color="#ffffff" >好的。</font>
+menu_75168_1=<font face="Default" color="#ffffff" >童留人在哪里？</font>
+menu_75169_1=<font face="Default" color="#ffffff" >好的，我马上去</font>
+menu_75170_1=<font face="Default" color="#ffffff" >今天不说清楚你别想走了。哼！</font>
+menu_75171_1=<font face="Default" color="#ffffff" >哎，节哀。等等，你不是去报仇那你</font><font face="Default" color="#ffffff" >出阁想干嘛</font>
+menu_75172_1=<font face="Default" color="#ffffff" >嗯，那你拿的什么门派宝物？</font>
+menu_75173_1=<font face="Default" color="#ffffff" >八目城的小鬼子，作恶太多。全杀我不敢说。杀几个小鬼我还是没问题的</font>
+menu_75174_1=<font face="Default" color="#ffffff" >好，我去去就回</font>
+menu_75175_1=<font face="Default" color="#ffffff" >我！说！你！怎！么啦！</font>
+menu_75176_1=<font face="Default" color="#ffffff" >完蛋了。这乐医怕不是老了，去问问看阁主</font>
+menu_75177_1=<font face="Default" color="#ffffff" >在所不辞</font>
+menu_75178_1=<font face="Default" color="#ffffff" >妥！</font>
+menu_75179_1=<font face="Default" color="#ffffff" >放心，我揍小鬼子手熟的狠</font>
+menu_75180_1=<font face="Default" color="#ffffff" >没事。八目城我七进七出如入无人之境</font>
+menu_75181_1=<font face="Default" color="#ffffff" >没问题的，放心</font>
+menu_75182_1=<font face="Default" color="#ffffff" >好啦好啦。你已经帮大忙了。这个我想办法搞定</font>
+menu_75183_1=<font face="Default" color="#ffffff" >好的</font>
+menu_75184_1=<font face="Default" color="#ffffff" >得先办法先下手围墙。</font>
+menu_75185_1=<font face="Default" color="#ffffff" >小鬼子皮又痒了！</font>
 next_75019=
 next_75029=
 next_75030=
 next_75073=
+next_75150=<a href="findnpc_new,scene38,newdh_lxg_001" style="HLStype1">岚羲阁阁主</a>
+next_75151=<a href="findnpc_new,scene38,newdh_lxg_001" style="HLStype1">岚羲阁阁主</a>
+next_75185=<a href="findnpc_new,scene38,island_task_npc_008" style="HLStype1">箫樯（岚羲阁男弟子）</a>
 submit_75012=<font face="Default" color="#ffffff" >多谢盟主理解。</font>
 submit_75014=<font face="Default" color="#ffffff" >真是令人不寒而栗，究竟是何人在背后欲致我于死地。</font>
 submit_75019=<font face="Default" color="#ffffff" >在下相信坚持信念，方能走得更远....</font>
@@ -460,6 +609,42 @@ submit_75124=<font face="Default" color="#ffffff" >不必客气。</font>
 submit_75125=<font face="Default" color="#ffffff" >区区小事，何足挂齿。</font>
 submit_75126=<font face="Default" color="#ffffff" >多谢宫主赞赏，净天宫诸位武艺超群，在下只是侥幸小胜而已。</font>
 submit_75127=<font face="Default" color="#ffffff" >我猜鲤梦仙子可能是被我误打误撞，意外打通了“安静穴”和“和平穴”，大概这样美好的画面能维持个几天吧，阁下，可要珍惜哟！</font>
+submit_75150=<font face="Default" color="#ffffff" >好的</font>
+submit_75151=<font face="Default" color="#ffffff" >好的，我定会多多练习</font>
+submit_75152=<font face="Default" color="#ffffff" >多谢夸奖</font>
+submit_75153=<font face="Default" color="#ffffff" >是（真难啊！）</font>
+submit_75154=<font face="Default" color="#ffffff" >储存有什么需要注意的呢？</font>
+submit_75155=<font face="Default" color="#ffffff" >哈哈！</font><font face="Default" color="#ffffff" >那下一步应该怎么做</font>
+submit_75156=<font face="Default" color="#ffffff" >打通竹节看起来挺简单。</font>
+submit_75157=<font face="Default" color="#ffffff" >看起来很容易做起来很难。</font>
+submit_75158=<font face="Default" color="#ffffff" >打磨实在是太消耗耐心了</font>
+submit_75159=<font face="Default" color="#ffffff" >感谢</font>
+submit_75160=<font face="Default" color="#ffffff" >这个</font><font face="Default" color="#ffffff" >箫</font><font face="Default" color="#ffffff" >看起来快做好了</font>
+submit_75161=<font face="Default" color="#ffffff" >看起来箫是不是就做好了！</font>
+submit_75162=<font face="Default" color="#ffffff" >好</font>
+submit_75163=<font face="Default" color="#ffffff" >哈哈</font>
+submit_75164=<font face="Default" color="#ffffff" >谢谢！</font>
+submit_75165=<font face="Default" color="#ffffff" >哇！真是太神奇了！我能感受到花草树木对音乐的回应，它们似乎更加繁茂生长了。</font>
+submit_75166=<font face="Default" color="#ffffff" >既然如此。那我私下问问看</font>
+submit_75167=<font face="Default" color="#ffffff" >童留是吧，我去问问看。</font>
+submit_75168=<font face="Default" color="#ffffff" >晓得了！</font>
+submit_75169=<font face="Default" color="#ffffff" >我乃阁内新聘客卿，阁主让我调查一些情况。</font>
+submit_75170=<font face="Default" color="#ffffff" >这小鬼子欺人太甚，你是准备去报仇么？</font>
+submit_75171=<font face="Default" color="#ffffff" >好呀。原来乐谱是你拿走的！</font>
+submit_75172=<font face="Default" color="#ffffff" >哎。不就是小鬼子嘛。我帮你报仇，你把东西还回去！</font>
+submit_75173=<font face="Default" color="#ffffff" >小喽啰不解恨？行吧</font>
+submit_75174=<font face="Default" color="#ffffff" >有缘再见</font>
+submit_75175=<font face="Default" color="#ffffff" >我！说！好！的！</font>
+submit_75176=<font face="Default" color="#ffffff" >突然集中出现问题，莫非，是有人下毒？！</font>
+submit_75177=<font face="Default" color="#ffffff" >懂！</font>
+submit_75178=<font face="Default" color="#ffffff" >行</font>
+submit_75179=<font face="Default" color="#ffffff" >看来还是要找地位更高一点的小鬼子</font>
+submit_75180=<font face="Default" color="#ffffff" >小事一桩，我去也</font>
+submit_75181=<font face="Default" color="#ffffff" >根据之前的消息，毒药大多保存在上忍身上</font>
+submit_75182=<font face="Default" color="#ffffff" >小鬼子真可恶</font>
+submit_75183=<font face="Default" color="#ffffff" >没事没事！</font>
+submit_75184=<font face="Default" color="#ffffff" >告辞</font>
+submit_75185=<font face="Default" color="#ffffff" >小鬼子作奸犯科！人人得而诛之</font>
 target_75001=暗潜燕王府
 target_75002=击败突然出现的神秘人。
 target_75003=逃离密室
@@ -559,6 +744,42 @@ target_75124=帮助净天宫收集草药。
 target_75125=攻克净天宫的宿敌。
 target_75126=与净天宫弟子切磋武艺。
 target_75127=击败鲤梦仙子
+target_75150=进行一次岚羲阁修行
+target_75151=通过阁主的考较
+target_75152=选择合适的乐曲
+target_75153=拯救失恋的少女
+target_75154=采到合适的竹子
+target_75155=挑选合适的竹材
+target_75156=烤竹
+target_75157=打通竹节
+target_75158=打磨竹子内膛
+target_75159=锯竹
+target_75160=开出吹口
+target_75161=开出指孔
+target_75162=将音准和演奏性能调整至最佳
+target_75163=雕刻画稿和题词
+target_75164=打磨箫身
+target_75165=了解花草与音律的关系
+target_75166=私下调查杀谱失窃
+target_75167=询问门内弟子调查
+target_75168=调查童留
+target_75169=找到童留
+target_75170=调查童留
+target_75171=拳头才是硬道理
+target_75172=帮助童留
+target_75173=攻克倭寇
+target_75174=报仇血恨
+target_75175=调查失聪事件
+target_75176=调查失聪情况
+target_75177=去五气堡寻求外援
+target_75178=了解情况
+target_75179=找倭寇寻找线索
+target_75180=打探消息
+target_75181=击败剑术大师
+target_75182=斩草除根
+target_75183=治愈乐医
+target_75184=乐医的决意
+target_75185=猎杀倭寇
 title_75001=飞鸽传书
 title_75002=击败神秘人
 title_75003=逃离密室
@@ -658,3 +879,39 @@ title_75124=收集草药
 title_75125=击败来犯
 title_75126=每日切磋
 title_75127=教训仙子
+title_75150=修行
+title_75151=音律
+title_75152=乐曲
+title_75153=心病还需心药医
+title_75154=采竹
+title_75155=储存
+title_75156=烤竹
+title_75157=打通
+title_75158=打磨
+title_75159=定位
+title_75160=开吹口
+title_75161=开孔
+title_75162=调音
+title_75163=雕刻
+title_75164=上光
+title_75165=花草
+title_75166=杀谱
+title_75167=询问
+title_75168=仇
+title_75169=寻
+title_75170=惨
+title_75171=报仇
+title_75172=拔刀
+title_75173=拭剑
+title_75174=血恨
+title_75175=失
+title_75176=问
+title_75177=探
+title_75178=访
+title_75179=倭寇
+title_75180=前菜
+title_75181=正菜
+title_75182=硬菜
+title_75183=吃席
+title_75184=后日谈
+title_75185=巡猎

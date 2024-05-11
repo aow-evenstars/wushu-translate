@@ -459,7 +459,6 @@ complete_466=<font face="Default" color="#ffffff" >想不到閣下年紀輕輕�
 complete_467=<font face="Default" color="#ffffff" >想不到閣下年紀輕輕竟能有如此成就，他日定當在武林之中大放異彩。</font>
 complete_468=<font face="Default" color="#ffffff" >  </font><font face="Default" color="#ffffff" >少俠果然實力高強，日後成就不可限量，這是你應得的獎勵。</font>
 complete_469=<font face="Default" color="#ffffff" >  </font><font face="Default" color="#ffffff" >少俠果然實力高強，日後成就不可限量，這是你應得的獎勵。</font>
-complete_47=<font face="Default" color="#ffffff" >哈哈哈，有膽識，實話告訴你，剛才給你吃的只是普通的丹藥而已，沒有毒，我欣賞你這份膽識，今日我就收你做我門下弟子，入極樂必須遵守門規，不得與朝廷中人有來往，不然格殺勿論。</font>
 complete_470=<font face="Default" color="#ffffff" >  少俠果然實力高強，日後成就不可限量，這是你應得的獎勵。</font>
 complete_471=<font face="Default" color="#ffffff" >少俠果然實力高強，日後成就不可限量，這是你應得的獎勵。</font>
 complete_472=<font face="Default" color="#ffffff" >少俠果然實力高強，日後成就不可限量，這是你應得的獎勵。</font>
@@ -1284,7 +1283,6 @@ uncom_49=<s>…
 uncom_50=<s>…
 CanAcceptMenu_258=<font face="Default" color="#ffffff" >喋血行動</font>
 CanAcceptMenu_259=<font face="Default" color="#ffffff" >護送鏢車</font>
-CanAcceptMenu_260=<font face="Default" color="#ffffff" >掠奪物資</font>
 CanAcceptMenu_261=<font face="Default" color="#ffffff" >勢力挑戰</font>
 CanAcceptMenu_262=<font face="Default" color="#ffffff" >武學團練</font>
 CanAcceptMenu_263=<font face="Default" color="#ffffff" >門派刺探</font>
@@ -2706,4 +2704,15 @@ context_49=<s>聽說各大派又開始擴充勢力，招收新人了，江湖真
 context_50=<s>聽說各大派又開始擴充勢力，招收新人了，江湖真是變化莫測，不過這倒是你的機會。馬車行的車伕們走南闖北，對這些江湖故事最是瞭解，你可以去問問他們，瞭解各大宗派。
 context_59=<s>聽說各大派又開始擴充勢力，招收新人了，江湖真是變化莫測，不過這倒是你的機會。馬車行的車伕們走南闖北，對這些江湖故事最是瞭解，你可以去問問他們，瞭解各大宗派。
 context_68=<s>聽說各大派又開始擴充勢力，招收新人了，江湖真是變化莫測，不過這倒是你的機會。馬車行的車伕們走南闖北，對這些江湖故事最是瞭解，你可以去問問他們，瞭解各大宗派。
+CanAcceptMenu_260=<font face="Default" color="#ffffff" >搶佔物資</font>
+complete_47=<font face="Default" color="#ffffff" >哈哈哈，有膽識，實話告訴你，剛才給你吃的只是普通的丹藥而已，沒有毒，我欣賞你這份膽識，今日我就收你做我門下弟子，入極樂必須遵守門規，不得與朝廷中人有來往，不然片甲不留。</font>
+CanAcceptMenu_405=<font face="Default" color="#ffffff" >信使前來所為何事？</font>
+CompleteMenu_405=<font face="Default" color="#ffffff" >特使承讓了</font>
+accept_405_1=<font face="Default" color="#ffffff" >我朝王子雄圖大略，欲一統江湖，本使特來招降的。</font>
+complete_405=<font face="Default" color="#ffffff" >我觀閣下實力不凡，為何不投入王子門下，共謀大事，王子實力增加一分，此事離成功就近一分啊</font>
+context_405=小小朝鮮王子的信使，膽大包天威脅本門掌門，奈何掌門不想有損中原禮儀，不便動手，速速前去解圍
+menu_405_1=<font face="Default" color="#ffffff" >待我去稟明掌門</font>
+submit_405=<font face="Default" color="#ffffff" >掌門食古不化，我願棄暗投明，助王子一臂之力</font>
+target_405=解除掌門的尷尬
+title_405=囂張的信使
 

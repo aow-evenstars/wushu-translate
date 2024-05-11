@@ -1,10 +1,7 @@
 ﻿
 DialogID_75452=<font face="Default" color="#ffffff" >一年前他們爺孫倆就住在咱們驚世樓附近，那是個乖巧溫柔的熱心孩子，但是有一天，他們突然就搬走了，連聲招呼都沒打……</font>
-DialogID_75453=<font face="Default" color="#ffffff" >我當時就在案發現場，那人死得真慘，身上一大片皮膚都潰爛了，皮膚上還閃著詭異的光。噫~太恐怖了！~我看吶，一定是哪個邪惡勢力下的手！</font>
 DialogID_75454=<font face="Default" color="#ffffff" >先生，淚兒是個好孩子，請你幫幫她吧。我相信，以先生的能力一定能抓到真兇！</font>
 DialogID_75455=<font face="Default" color="#ffffff" >先生且放心，我一定會守口如瓶。</font>
-DialogID_75456=<font face="Default" color="#ffffff" >聽說屍體被送到長明之舟上了，由城裡的巡守看管著。</font>
-DialogID_75458=<font face="Default" color="#ffffff" >這具屍體看上去高大壯實，面色發白，嘴唇發紫，雙腿自然微開外翻。</font>
 DialogID_75459=<font face="Default" color="#ffffff" >先生可是有什麼發現？</font>
 DialogID_75460=<font face="Default" color="#ffffff" >先生接下來我們去哪？</font>
 DialogID_75462=<font face="Default" color="#ffffff" >……</font>
@@ -26,10 +23,8 @@ interactinfo_75451=見一旁的掌櫃神情激動，詢問<a href="findnpc_new,s
 interactinfo_75452=與<a href="findnpc_new,scene32,npc_lzy_201908jq6_002" style="HLStype1">掌櫃</a>交談NpcId=掌櫃
 interactinfo_75453=大堂似乎有人在談論此事，前去<a href="findnpc_new,scene32,npc_lzy_201908jq6_003" style="HLStype1">詢問</a>
 interactinfo_75454=與<a href="findnpc_new,scene32,npc_lzy_201908jq6_002" style="HLStype1">掌櫃</a>交談
-interactinfo_75455=詢問<a href="findnpc_new,scene32,npc_lzy_201908jq6_001" style="HLStype1">小河子</a>屍體現在何處
 interactinfo_75456=與<a href="findnpc_new,scene32,npc_lzy_201908jq6_001" style="HLStype1">小河子</a>交談
 interactinfo_75457=前去<a href="findnpc_new,scene32,EventNpc_lzy_201908jq6_001" style="HLStype1">長明之舟</a>
-interactinfo_75458=查看<a href="findnpc_new,scene32,npc_lzy_201908jq6_006" style="HLStype1">屍體</a>
 interactinfo_75459=拿出布料給<a href="findnpc_new,scene32,npc_lzy_201908jq6_005" style="HLStype1">天輪寺僧人</a>查看
 interactinfo_75460=與<a href="findnpc_new,scene32,npc_lzy_201908jq6_009" style="HLStype1">小河子</a>交談
 interactinfo_75461=前往<a href="findnpc_new,scene32,EventNpc_lzy_201908jq6_003" style="HLStype1">城主府</a>
@@ -61,9 +56,7 @@ okmenu_75451=<font face="Default" color="#ffffff" >掌櫃的，你認識那個�
 okmenu_75452=<font face="Default" color="#ff0522" >（沉吟不語）</font>
 okmenu_75453=<font face="Default" color="#ff0019" >（心中震撼）</font><font face="Default" color="#ffffff" >詭異的光？難道是……</font>
 okmenu_75454=<font face="Default" color="#ffffff" >此事我應下了。不過你和小河子別對外聲張，以免打草驚蛇。</font>
-okmenu_75455=<font face="Default" color="#ffffff" >屍體現在存放何處？</font>
 okmenu_75456=<font face="Default" color="#ffffff" >你陪我去一趟。</font>
-okmenu_75458=<font face="Default" color="#ffffff" >果然！和燕王府屍體身上一樣，傷口皮膚泛著紫光，毒性太強，將周圍的布料都染成了銀紫色。</font>
 okmenu_75459=<font face="Default" color="#ffffff" >大師，請看這塊布料。</font>
 okmenu_75460=<font face="Default" color="#ff0522" >（目光眺向遠處)</font><font face="Default" color="#ffffff" >城主府。</font>
 okmenu_75462=<font face="Default" color="#ffffff" >大師，在下乃驚世樓主，現今遇到一些與毒有關的問題特來賜教</font>
@@ -80,10 +73,8 @@ okmenu_75483=<font face="Default" color="#fc0521" >（站起身來）</font><fon
 okmenu_75484=<font face="Default" color="#ffffff" >這一趟非走不可。畢竟，淚兒不能永遠見不得光的活著。</font><font face="Default" color="#ff0019" >（我也不可能身負不白之冤，躲藏在外域武林一輩子。）</font>
 okmenu_75485=<font face="Default" color="#fc0720" >（唇角勾起一彎弧度）</font><font face="Default" color="#ffffff" >等晚上就知道了。</font>
 okmenu_75486=<font face="Default" color="#ffffff" >淚兒快躲進去，巡守我來應付</font>
-story_75451_1=<font face="Default" color="#ff021b" >（手腳並用的比劃著）</font><font face="Default" color="#ffffff" >是出了大命案，而且據說死狀特別恐怖！</font>
 story_75451_2=<font face="Default" color="#ffffff" >不過大家都說兇手是一個叫岑淚兒的小女孩，城中守衛正在全力緝捕她呢。</font>
 story_75452_1=<font face="Default" color="#ffffff" >原來是驚世樓的那位大人，聽聞大人斷案如神，在下實在佩服，大人請跟我來。</font>
-story_75453_1=<font face="Default" color="#ff0010" >（作揖）</font><font face="Default" color="#ffffff" >原來是驚世樓主。屍體就在這裡，請隨我來。</font>
 story_75454_1=<font face="Default" color="#ffffff" >同樣的銀紫色……難道這兩件兇案有著什麼關聯……</font>
 story_75454_3=<font face="Default" color="#ffffff" >樓主止步，五行天宮中人素來高傲，向不理會外人。據我所知，青衣閣正巧有一位高手在城主府做客，樓主不如前去打聽一二，說不定能有收穫。</font>
 story_75454_4=<font face="Default" color="#ffffff" >不過青衣閣門人脾氣古怪，還得見機行事才行。</font>
@@ -104,7 +95,6 @@ story_75462_2=<font face="Default" color="#ffffff" >不要打擾我……</font>
 story_75462_3=
 story_75463_1=<font face="Default" color="#f90212" >（搖頭）</font><font face="Default" color="#ffffff" >爺爺說過，他們現在住的地方，要從很高很高的位置過去……</font>
 story_menu_75451=<font face="Default" color="#ffffff" >小河子，今早看你和掌櫃的嘀咕，可是發生了什麼事嗎？</font>
-story_menu_75452=<font face="Default" color="#f9001d" >（拱手）</font><font face="Default" color="#ffffff" >在下是驚世樓樓主，聽聞前幾日發生了兇案，想看一看屍體，可否行個方便？</font>
 story_menu_75453=<font face="Default" color="#ffffff" >大師在下是驚世樓主，關於命案有些事情想請教。</font>
 story_menu_75454=<font face="Default" color="#ffffff" >此塊布料是我先前從另一名死者身上取來的。</font>
 story_menu_75455=<font face="Default" color="#f9001d" >（拱手）</font><font face="Default" color="#ffffff" >在下驚世樓主，聽聞有青衣閣高手在城主府做客，特來拜會。</font>
@@ -129,7 +119,6 @@ storyinfo_75460=聽<a href="findnpc_new,scene32,npc_lzy_201908jq6_014" style="HL
 storyinfo_75461=聽<a href="findnpc_new,scene32,npc_lzy_201908jq6_014" style="HLStype1">岑淚兒</a>訴說
 storyinfo_75462=前往<a href="findnpc_new,scene32,EventNpc_lzy_201908jq6_002" style="HLStype1">內院</a>請教<a href="findnpc_new,scene32,npc_lzy_201908jq6_024" style="HLStype1">青衣閣高手</a>
 storyinfo_75463=與<a href="findnpc_new,scene32,npc_lzy_201908jq6_023" style="HLStype1">岑淚兒</a>交談
-storymenu_75451_1=<font face="Default" color="#ff0019" >（心中警覺）</font><font face="Default" color="#ffffff" >屍體何處怪異？兇手抓住了沒有？</font>
 storymenu_75451_2=<font face="Default" color="#ffffff" >小女孩？</font>
 storymenu_75452_1=<font face="Default" color="#ffffff" >有勞。</font>
 storymenu_75453_1=<font face="Default" color="#ffffff" >有勞。</font>
@@ -158,4 +147,15 @@ DialogID_75466=<font face="Default" color="#ffffff" >先生，血心組織雖然
 story_75454_2=<font face="Default" color="#ffffff" >外域武林中，對毒物研究最為透徹的莫過於五行天宮的木宮，除此之外，外域八派中專司暗襲的青衣閣也是個中好手。</font>
 story_75461_2=<font face="Default" color="#ff0026" >（咳，咳……）</font><font face="Default" color="#ffffff" >他們說淚兒是血心的人，是攻克兇手……淚兒不是！淚兒就拚命地逃跑……可是、可是不知道該去哪兒……掌櫃嬸嬸是好人，所以、所以……</font>
 storymenu_75461_2=<font face="Default" color="#ffffff" >這幫歹人，竟連一個孩童都不放過，還想解決後患！</font><font face="Default" color="#f4072a" >（拉過她的手，搭上腕）</font><font face="Default" color="#ffffff" >你受傷了，先隨我去療傷。</font>
+DialogID_75453=<font face="Default" color="#ffffff" >我當時就在案發現場，那人死得真慘，身上一大片皮膚都潰爛了，皮膚上還閃著詭異的光。噫~太可怕了！~我看吶，一定是哪個邪惡勢力下的手！</font>
+DialogID_75456=<font face="Default" color="#ffffff" >聽說遺骸被送到長明之舟上了，由城裡的巡守看管著。</font>
+DialogID_75458=<font face="Default" color="#ffffff" >這具遺骸看上去高大壯實，面色發白，嘴唇發紫，雙腿自然微開外翻。</font>
+interactinfo_75455=詢問<a href="findnpc_new,scene32,npc_lzy_201908jq6_001" style="HLStype1">小河子</a>遺骸現在何處
+interactinfo_75458=查看<a href="findnpc_new,scene32,npc_lzy_201908jq6_006" style="HLStype1">遺骸</a>
+okmenu_75455=<font face="Default" color="#ffffff" >遺骸現在存放何處？</font>
+okmenu_75458=<font face="Default" color="#ffffff" >果然！和燕王府遺骸身上一樣，傷口皮膚泛著紫光，毒性太強，將周圍的布料都染成了銀紫色。</font>
+story_75451_1=<font face="Default" color="#ff021b" >（手腳並用的比劃著）</font><font face="Default" color="#ffffff" >是出了大命案，而且據說死狀特別可怕！</font>
+story_75453_1=<font face="Default" color="#ff0010" >（作揖）</font><font face="Default" color="#ffffff" >原來是驚世樓主。遺骸就在這裡，請隨我來。</font>
+story_menu_75452=<font face="Default" color="#f9001d" >（拱手）</font><font face="Default" color="#ffffff" >在下是驚世樓樓主，聽聞前幾日發生了兇案，想看一看遺骸，可否行個方便？</font>
+storymenu_75451_1=<font face="Default" color="#ff0019" >（心中警覺）</font><font face="Default" color="#ffffff" >遺骸何處怪異？兇手抓住了沒有？</font>
 

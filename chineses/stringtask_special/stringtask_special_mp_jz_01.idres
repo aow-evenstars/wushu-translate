@@ -26,7 +26,7 @@ DialogID_7027=掌门这么决定也太过偏激了，到最后武当两宗分出
 DialogID_7028=（打开信查看……）杭兵是他们安插在我们武当的奸细？
 DialogID_7031=《广陵散》？难道就是江湖最近在传言在武当出现的《广陵散》么？我还以为是谣言呢，让我看看。（打开曲谱细看……）
 DialogID_7032=噢，这棋局不是上次我们还没下完的么？
-DialogID_7033=一具尸体
+DialogID_7033=一具遗骸
 DialogID_7036=少侠，可查明到底是什么事了么？
 DialogID_7037=你来蓬莱也很长时间了，丐帮那边就我和赵兄前去解释吧。你快回去向师傅复命吧。
 DialogID_7038=事情查清楚就行了，还石砚冰一个清白，也解决了君子堂和丐帮的纠纷。最近你夏师姐心事重重，不知道又发生了什么事，你快去看看吧。
@@ -47,7 +47,7 @@ DialogID_7055=你杀了我我也不会说的，除非你再给我五十锭我就
 DialogID_7056=我刚得到消息，前面三岔路口处，极乐谷的人正在和一帮官兵在交战，不知所为何事。
 DialogID_7058=那最好不过了，这是我们官兵的服装，少侠拿去吧，顺便帮我们打探一下被劫去粮食的下落。
 DialogID_7059=刚才看到那人急匆匆的往前面去了，然后在就前面关卡前，好像在等什么人似的。
-DialogID_7060=我正愁没地方发泄了，是他们自己送上门来的，你也别客气，都杀光了！
+DialogID_7060=我正愁没地方发泄了，是他们自己送上门来的，你也别客气，都打败了！
 DialogID_7061=我们也正有此意，居然出卖我们，害我死了那么弟兄。我已经派人去他府上说极乐谷的人找他有事叫他来一趟，到时候我们再暗中出手杀了他。
 DialogID_7062=哪里哪里，你不来除掉他，我们也要想方法杀了他为我的兄弟们报复，为朝廷除去一害！
 DialogID_7063=恩，我也听说了，她是为了帮我寻得那焦尾才去泛黄平原的，哎，还牵扯出这么多事，这次多亏了你前去帮忙。
@@ -84,7 +84,7 @@ DialogID_7225=　　大侠饶命，我只是锦衣卫的一名接应，攻克的
 DialogID_7226=　　黄澜尤君婵虽入门不久，但其性格天真烂漫而且练功勤奋。师门长辈对她很是喜爱，不可能是什么奸细。至于尤君婵的喜好，那便是各类奇花异草。最近还总去山上采集一种叫做忘倩香的花来种植呢！我知道的也就这么多了，希望尤师妹不会是凶手。
 DialogID_7227=　　好狠毒的女人，那尤君婵哪里是在种花，分明是在炼毒。
 DialogID_7228=　　我本是唐门弟子，因爱慕本门一师兄所以替他毒死了师兄门内强敌路师弟，不料东窗事发。他竟然带人追杀我要解决后患，我被迫逃离唐门改投锦衣卫。如今被安插在峨眉做奸细，是为挑拨各门派之间的关系。现在计划失败，锦衣卫也不会留我这无用之人，我已经服下毒药。不劳繁少侠动手杀我了，烦劳少侠他日见到唐门唐寒玉，就说尤君婵从未后悔为他做任何......
-DialogID_7229=<s>呵呵，少侠请用这银针插入尸体腹部，看是否有中毒的迹象！
+DialogID_7229=<s>呵呵，少侠请用这银针插入遗骸腹部，看是否有中毒的迹象！
 DialogID_7230=<s>你怎么这么久才来？。
 DialogID_7232=<s>你便是颜羽飞说的那位武功高绝的师弟？好！你去帮我弄些冰块来，大师现在高烧不退。
 DialogID_7233=<s>嘴长在你身上，随便你怎么说好了！
@@ -544,7 +544,7 @@ hunterinfo_7233=击败<a href="findnpc_new,scene05,monrf052001" style="HLStype1"
 hunterinfo_7234=击败<a href="findnpc_new,scene05,monrf053500" style="HLStype1">五仙教守卫</a>
 hunterinfo_7235=打败<a href="findnpc_new,scene05,monrf051600" style="HLStype1">五仙教弟子</a>
 hunterinfo_7236=击败<a href="findnpc_new,scene05,WorldNpc06241" style="HLStype1">蓝亭</a>
-hunterinfo_7237=击败<a href="findnpc_new,scene05,monrf052002" style="HLStype1">摩天寺喇嘛</a>
+hunterinfo_7237=击败<a href="findnpc_new,scene05,monrf052002" style="HLStype1">摩天寺僧侣</a>
 hunterinfo_7238=打败<a href="findnpc_new,scene05,WorldNpc06236" style="HLStype1">萨鲁扎</a>
 hunterinfo_7239=打败<a href="findnpc_new,scene05,monf050300" style="HLStype1">五仙教教众</a>
 hunterinfo_7240=打败<a href="findnpc_new,scene01,WorldNpc05419" style="HLStype1">周充</a>
@@ -589,7 +589,7 @@ interactinfo_7019=到达<a href="findnpc_new,scene07,EventNpc46099" style="HLSty
 interactinfo_7020=去<a href="findnpc_new,scene07,EventNpc46109" style="HLStype1">小草屋</a>处查看情况
 interactinfo_7021=去<a href="findnpc_new,scene07,EventNpc46115" style="HLStype1">唐鹫出没地</a>处查看情况
 interactinfo_7022=去<a href="findnpc_new,scene07,EventNpc46128" style="HLStype1">小树林</a>处查看情况
-interactinfo_7023=从<a href="findnpc_new,scene07,WorldNpc05098" style="HLStype1">唐鹫尸体</a>搜取解药
+interactinfo_7023=从<a href="findnpc_new,scene07,WorldNpc05098" style="HLStype1">唐鹫遗骸</a>搜取解药
 interactinfo_7024=将解药交给<a href="findnpc_new,scene07,WorldNpc05099" style="HLStype1">李崇阳</a>
 interactinfo_7025=将解药交给<a href="findnpc_new,scene07,WorldNpc05100" style="HLStype1">唐七夕</a>
 interactinfo_7026=与<a href="findnpc_new,school07,WorldNpc04405" style="HLStype1">天玑子</a>交谈
@@ -599,7 +599,7 @@ interactinfo_7029=去<a href="findnpc_new,school07,EventNpc46170" style="HLStype
 interactinfo_7030=去<a href="findnpc_new,school07,EventNpc46173" style="HLStype1">山道前</a>处查看情况
 interactinfo_7031=将《广陵散》交给<a href="findnpc_new,school07,WorldNpc04701" style="HLStype1">曲意</a>
 interactinfo_7032=将棋局交给<a href="findnpc_new,school03,WorldNpc03305" style="HLStype1">萧别情</a>
-interactinfo_7033=查看<a href="findnpc_new,scene02,WorldNpc02036" style="HLStype1">丐帮弟子尸体</a>
+interactinfo_7033=查看<a href="findnpc_new,scene02,WorldNpc02036" style="HLStype1">丐帮弟子遗骸</a>
 interactinfo_7034=去<a href="findnpc_new,scene02,EventNpc46203" style="HLStype1">赵干将住所</a>处查看情况
 interactinfo_7035=去<a href="findnpc_new,scene02,EventNpc46209" style="HLStype1">赵干将遇袭处</a>处查看情况
 interactinfo_7036=找到<a href="findnpc_new,scene02,WorldNpc02038" style="HLStype1">张莫邪</a>
@@ -844,8 +844,8 @@ story_7010_2=没想到君子堂内除了砚冰先生外， 现在又多了一个
 story_7011_1=前些日子，有个叫陈诗洋的人来拜访我霹雳堂，自称是君子堂门下弟子，为了上次冒犯之事特来登门谢罪，哪想到……
 story_7011_2=我们好生招待他，没想到他晚上偷了我们大堂的《百马图》就销声匿迹了。那《百马图》可是霹雳堂历代帮主一代一代传下来的，对于我们霹雳堂来说十分名贵。所以堂主特命我来找回《百马图》。
 story_7012_1=前些日子，也有被山贼所伤的村民上君子堂来求医的，听他们说以前君子堂周边都十分太平，甚少有强盗山贼出没，就是最近，不知从哪冒出来一批绿林大盗，烧杀抢夺无恶不作。
-story_7012_2=听说那伙山贼为首的是李氏兄弟，两人从小就不务正事，长大就做起了拦路抢劫的勾当。好多路过的商人和村民都受过他们的打劫，真是无法无天了。
-story_7013_1=我说我说，你别动粗。前几天，山寨里突然来了个自称是君子堂的人，说是过几天山下会有一个镖师押送镖车经过，所压之物非常贵重，如果我们打劫了，下辈子就不愁了。
+story_7012_2=听说那伙山贼为首的是李氏兄弟，两人从小就不务正事，长大就做起了拦路抢劫的勾当。好多路过的商人和村民都受过他们的掠夺，真是无法无天了。
+story_7013_1=我说我说，你别动粗。前几天，山寨里突然来了个自称是君子堂的人，说是过几天山下会有一个镖师押送镖车经过，所压之物非常贵重，如果我们掠夺了，下辈子就不愁了。
 story_7013_2=我所说的句句属实，那人还说，如果成功了他只要里面那张《百马图》就好了，我们就答应了。
 story_7014_1=哈哈，你猜的没错，就是那李氏兄弟。他们俩在山下仗着自己武功高强无法无天，但是回到家后却是一对听话的好儿子。
 story_7014_2=所以我师父想到一个办法，就是不要从李氏兄弟下手，从他们的老母亲那去看看，抓住了他们两个的把柄，问题自然的就解决了。
@@ -883,13 +883,13 @@ story_7030_1=我们早就听闻武当武学天下闻名，武功秘籍不计其�
 story_7030_2=武当出现《广陵散》也是我们在武林中暗中散布的，这样各路武林人士都为了《广陵散》明争暗夺，到时候都来武当，这样就造成武当更加混乱，给我们有可趁之机，刚才那人叫项东，就是那个自称在武当有朋友的人。
 story_7031_1=岂有此理，我好心帮他保管《广陵散》，成天提心吊胆的。就因为这《广陵散》出现在武当，每天都有好多武林中人前来闹事。原来就是为了让武当在气剑相争之际弄的武当更加混乱！
 story_7031_2=什么？这帮魔教中人的胆子是越来越大了！居然想到武当来抢夺武功秘籍，亏这项东还是我的至交，居然联合魔教来损毁我武当派，以后看到他绝不手下留情！
-story_7032_1=这还得问你家那个石砚冰！前阵子，我丐帮蓬莱仙境分舵的弟子突然消失了好多，最后发现了他们的尸体？
+story_7032_1=这还得问你家那个石砚冰！前阵子，我丐帮蓬莱仙境分舵的弟子突然消失了好多，最后发现了他们的遗骸？
 story_7032_2=有几个幸存的弟子说那天晚上有个黑衣人来分舵闹事，众弟子追杀出去，只有几个人回来，那人使得一手天回云舞剑，自称君子堂石砚冰。武林之内只有他会使云舞剑，你说不是他还会有谁！
 story_7033_1=石砚冰为人温文尔雅，行事沉稳如水，如何可能与无怨无仇的杀死丐帮弟子，与他相识这么多人，除了恶贯满盈的人，他还从没杀过什么人。
 story_7033_2=况且最近他忙着教导门人们棋艺，都已经一个多月没出过君子堂了，那丐帮弟子就确定是石砚冰所为？
 story_7034_1=虽然这样，光一个伤口还是不能肯定是砚冰先生所为，只要武功高强的人，都可以模仿人家的招式的。
 story_7034_2=所以我觉得，一定是熟悉砚冰先生的人所为，否则伤口不会这么逼真。
-story_7035_1=哼，你们君子堂的人都如此虚伪，还有什么好解释的？刚才在尸体边上鬼鬼祟祟的，差点就被你们毁尸灭迹了！
+story_7035_1=哼，你们君子堂的人都如此虚伪，还有什么好解释的？刚才在遗骸边上鬼鬼祟祟的，差点就被你们毁尸灭迹了！
 story_7035_2=你们不仅包庇石砚冰，还想来我们丐帮分舵把证据都毁掉，让我们死无对证，是不是！
 story_7036_1=不知少侠有何事相求？
 story_7036_2=家师在蓬莱颇有威望，而且又是砚冰先生的至交，如不是正在闭关修炼，肯定会帮忙向丐帮的人说情的。
@@ -944,7 +944,7 @@ story_7217_1=我本是霓裳宫中人，五仙教此次前来是为颠覆霓裳�
 story_7218_1=很多村民都患了一种怪病。而且我一直怀疑洪璝身份，于是去调查，发现洪璝原来是五仙教之人，我怀疑村民患病一事也与他有关
 story_7219_1=我本是霓裳宫一名弟子昨日被五仙教弟子设计抓住,他们看我在宫中职位低微,先对我百般凌辱而后还将我的血喂养他们所说的圣仙。今日还要将我的肉喂那些毒虫.我趁守卫睡着刚刚跑了出来.
 story_7220_1=哼,少跟我来这套,这是我们教内的事.我知道你们来此地无非为了那图中的武功秘籍.
-story_7221_1=是一个西域喇嘛.我先前已计划好散布《清明上河图》被霓裳宫获得的谣言，但自己财迷心窍想先将《清明上河图》放在自己身上骗取点钱财，哪知被众多江湖人追杀逼迫。我快不行了,这件事是白发魔女白夙珏为铲除霓裳宫主梅映雪设下的暗箭伤人之计。我也是身不身不由己啊！
+story_7221_1=是一个西域僧侣.我先前已计划好散布《清明上河图》被霓裳宫获得的谣言，但自己财迷心窍想先将《清明上河图》放在自己身上骗取点钱财，哪知被众多江湖人追杀逼迫。我快不行了,这件事是白发魔女白夙珏为铲除霓裳宫主梅映雪设下的暗箭伤人之计。我也是身不身不由己啊！
 story_7222_1=少侠息怒，我这也是迫不得已.本来我也想赚到那箱金子去买的，谁成想被少侠您捷足先登了呢…
 story_7223_2=少侠饶命，我是极乐谷弟子受了师命前来这里取那《清明上河图》，师命难违我也是有苦衷的.
 story_7224_1=哈哈.想当年我与你师父同战罗云双煞，是何等的威风。如今他已是一派宗师，我却快要如土归西了。
@@ -1055,7 +1055,7 @@ story_menu_7219=究竟发生了何事?
 story_menu_7220=蓝护法你们五仙教的事我本不想管,但是你做的也未免太狠毒了.
 story_menu_7221=你怎么会劲劢尽断?! 是谁下的毒手?
 story_menu_7222=《清明上河图》此等宝物确实不能说是东西。
-story_menu_7223=你这个喇嘛既阴险又歹毒，究竟是什么人？
+story_menu_7223=你这个僧侣既阴险又歹毒，究竟是什么人？
 story_menu_7224=早闻琴圣周充周前辈，琴技出神、风采绝伦,今日一见传闻果然不假!
 story_menu_7225=前辈,晚辈如果能帮忙一定尽力达成前辈心愿!
 story_menu_7226=你可能明白我在说什么?
@@ -1224,8 +1224,8 @@ storymenu_7013_1=君子堂的人？不可能啊……
 storymenu_7013_2=《百马图》难道是那张霹雳堂名画《百马图》！我正找的辛苦。
 storymenu_7014_1=还有这么有趣的人。
 storymenu_7014_2=果然妙计啊。
-storymenu_7015_1=其实她叫林若渔，是我们君子堂的人，是被你儿子绑架来的。
-storymenu_7015_2=你那两儿子还打劫了一个镖师，抢了他压的镖物。
+storymenu_7015_1=其实她叫林若渔，是我们君子堂的人，是被你儿子劫持来的。
+storymenu_7015_2=你那两儿子还掠夺了一个镖师，抢了他压的镖物。
 storymenu_7016_1=我还以为你上次是骗我的，难道真有这样的人在君子堂？
 storymenu_7016_2=恩，你总算做了件聪明的事，没把图交给他。
 storymenu_7017_1=师傅是从哪里得知这些消息的？
@@ -1373,7 +1373,7 @@ useiteminfo_7011=把<a href="TASK_ITEM,useitem_12w" style="HLStype1">焦尾</a>�
 useiteminfo_7200=给<a href="findnpc_new,city01,WorldNpc08516" style="HLStype1">族内男弟子</a>服下<a href="TASK_ITEM,useitem_1yc" style="HLStype1">疗伤药</a>
 useiteminfo_7201=使用<a href="TASK_ITEM,useitem_2yc" style="HLStype1">软骨散</a>
 useiteminfo_7202=使用<a href="TASK_ITEM,useitem_3yc" style="HLStype1">软骨散解药</a>
-useiteminfo_7203=给<a href="findnpc_new,school06,WorldNpc02700" style="HLStype1">一具尸体</a>使用<a href="TASK_ITEM,useitem_4yc" style="HLStype1">银针</a>
+useiteminfo_7203=给<a href="findnpc_new,school06,WorldNpc02700" style="HLStype1">一具遗骸</a>使用<a href="TASK_ITEM,useitem_4yc" style="HLStype1">银针</a>
 useiteminfo_7204=给<a href="findnpc_new,school06,WorldNpc02693" style="HLStype1">铁面</a>使用<a href="TASK_ITEM,useitem_5yc" style="HLStype1">峨眉派疗伤药</a>
 useiteminfo_7205=给<a href="findnpc_new,school05,WorldNpc02576" style="HLStype1">颜羽飞</a>使用<a href="TASK_ITEM,useitem_6yc" style="HLStype1">唐门外伤药</a>
 useiteminfo_7206=使用<a href="TASK_ITEM,useitem_9yc" style="HLStype1">保气丹</a>

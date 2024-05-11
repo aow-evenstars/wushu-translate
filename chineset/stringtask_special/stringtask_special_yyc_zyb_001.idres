@@ -1,6 +1,4 @@
 ﻿
-DialogID_75004=<font face="Default" color="#ff0220" >（這屍體上皮膚已經開始潰爛，不過奇怪的是潰爛之處閃爍著紫色粉末，仔細查看，不光是皮膚上，連衣袍都沾染上了這些紫色粉末。）</font>
-DialogID_75005=<font face="Default" color="#ff001d" >（這具屍體也是開始潰爛了，皮膚和衣物上隱隱閃爍著紫色粉末，和剛剛那具屍體死法如出一轍。）</font>
 DialogID_75013=<font face="Default" color="#ffffff" >盟主府中出現了叛徒，林盟主慘遭暗算，如今重傷昏迷。此刻燕京城中處處皆敵，人人欲取你性命。如今只能行此下策，你假裝不敵前來抓捕你的衙差，去牢裡暫避風頭。只有這樣，方能暫保性命。相信我，一定會設法營救你</font><font face="Default" color="#ffffff" >逃脫牢獄之災</font><font face="Default" color="#ffffff" >。</font>
 DialogID_75016=百年奇珍生長繁茂。
 DialogID_75017=百年奇珍生長繁茂。
@@ -208,8 +206,6 @@ hunterinfo_75040=和<a href="findnpc_new,adv148,yyc_myzyb_002" style="HLStype1">
 interactinfo_75001=前往<a href="findnpc_new,city01,EventNpc_yyczyb_009" style="HLStype1">燕王府</a>
 interactinfo_75002=<a href="findnpc_new,city01,EventNpc_yyczyb_001" style="HLStype1">離開燕王府</a>
 interactinfo_75003=前往<a href="findnpc,city01,399.46,-104.9,-253.4" style="HLStype1">燕王府後院屋內</a>查看線索
-interactinfo_75004=查驗<a href="findnpc_new,adv149,worldnpc_yyczyb_003" style="HLStype1">袁榮</a>屍體(離開密室後可繼續潛入<a href="findnpc,city01,399.46,-104.9,-253.4" style="HLStype1">燕王府後院屋內</a>找尋機關進入密室)
-interactinfo_75005=查驗<a href="findnpc_new,adv149,worldnpc_yyczyb_002" style="HLStype1">永安公主</a>屍體(離開密室後可潛入<a href="findnpc,city01,399.46,-104.9,-253.4" style="HLStype1">燕王府後院屋內</a>找尋機關進入密室)
 interactinfo_75006=<a href="findnpc_new,city01,EventNpc_yyczyb_002" style="HLStype1">追擊神秘人</a>
 interactinfo_75007=<a href="findnpc_new,city01,EventNpc_yyczyb_003" style="HLStype1">離開燕王府</a>
 interactinfo_75008=<a href="findnpc_new,city01,EventNpc_yyczyb_004" style="HLStype1">離開</a>
@@ -242,7 +238,6 @@ interactinfo_75035=與<a href="findnpc_new,adv152,com_fivesky_009" style="HLStyp
 interactinfo_75036=與<a href="findnpc_new,adv152,com_fivesky_010" style="HLStype1">五色金收納員</a>交談，並上繳1個五色金。（可在永夜城碼頭黑市商人<a href="findnpc_new,scene32,Com_fivesky_shop_mt" style="HLStype1">墨途</a>購買）
 interactinfo_75037=與<a href="findnpc_new,adv152,com_fivesky_011" style="HLStype1">五色金收納員</a>交談，並上繳1個五色金。（可在永夜城碼頭黑市商人<a href="findnpc_new,scene32,Com_fivesky_shop_mt" style="HLStype1">墨途</a>購買）
 interactinfo_75038=與<a href="findnpc_new,adv152,com_fivesky_012" style="HLStype1">五色金收納員</a>交談，並上繳1個五色金。（可在永夜城碼頭黑市商人<a href="findnpc_new,scene32,Com_fivesky_shop_mt" style="HLStype1">墨途</a>購買）
-okmenu_75004=<font face="Default" color="#ffffff" >究竟是誰下</font><font face="Default" color="#ffffff" >此</font><font face="Default" color="#ffffff" >毒手？咦，這旁邊還有一具屍體。</font>
 okmenu_75005=<font face="Default" color="#ffffff" >此地不宜久留</font><font face="Default" color="#ffffff" >，這種紫色粉末到底是什麼？先取一塊布料帶走。</font>
 okmenu_75013=<font face="Default" color="#ffffff" >多謝張少俠及時提點，在下便依計行事。</font>
 okmenu_75016=施肥，澆水。
@@ -336,7 +331,6 @@ storymenu_75001_2=<font face="Default" color="#ffffff" >多謝大哥相告，在
 storymenu_75003_1=<font face="Default" color="#ffffff" >多謝兄台相告</font><font face="Default" color="#ffffff" >。</font>
 storymenu_75004_1=<font face="Default" color="#ffffff" >多謝大哥相告。</font><font face="Default" color="#ff0000" >（去看看通緝令。）</font>
 storymenu_75005_1=<font face="Default" color="#ffffff" >好好號，你要多少錢說吧。</font>
-storymenu_75006_1=<font face="Default" color="#ffffff" >在下不久前收到這封密函，按照指示夜探燕王府，卻發現永安公主和駙馬的屍體，離府後不久就上了通緝</font><font face="Default" color="#ffffff" >令</font><font face="Default" color="#ffffff" >。</font>
 storymenu_75006_2=<font face="Default" color="#ffffff" >前輩的好意晚輩心領了。</font>
 storymenu_75007_1=<font face="Default" color="#ffffff" >盟主的庇護之心，晚輩感激不盡，若事情未查明之前，貿然住進盟主府，恐怕會給盟主府帶來不必要的麻煩。</font>
 storymenu_75007_2=<font face="Default" color="#ffffff" >多謝盟主理解。</font>
@@ -350,7 +344,6 @@ storymenu_75013_2=<font face="Default" color="#ffffff" >內部事務複雜繁瑣
 storymenu_75014_1=<font face="Default" color="#ffffff" >切記</font><font face="Default" color="#ffffff" >從今後，認令旗、不認人，凡事以令旗為憑。</font>
 storymenu_75015_1=<font face="Default" color="#ffffff" >過去的事不用放在心上，你心思縝密，行事低調，統領紫部再合適不過。切記</font><font face="Default" color="#ffffff" >從今後，認令旗、不認人，凡事以令旗為憑。</font>
 storymenu_75016_1=<font face="Default" color="#f70935" >（拱手回應，離去）</font>
-storymenu_75017_1=<font face="Default" color="#f90415" >（稍加思索，娓娓道來）</font><font face="Default" color="#ffffff" >冥岳外既有水晶蘭、曼珠沙華、曼陀羅、罌粟這冥界四花，內部何不以四花之色設立冥界四眾，白眾和紅眾各自分管對內、對外事務，紫眾專門執行機密行動，而最後一支黑眾，則擔任域主的親衛，由域主親自挑選人選。</font>
 storymenu_75018_1=<font face="Default" color="#ffffff" >得令</font><font face="Default" color="#ffffff" >。</font>
 storymenu_75019_1=<font face="Default" color="#f9072b" >（謙虛一笑）</font><font face="Default" color="#ffffff" >那咱們就不聊公事，我的手又癢了，咱們來比試比試如何？</font>
 storymenu_75020_1=<font face="Default" color="#ffffff" >真的？</font>
@@ -519,7 +512,6 @@ storymenu_75044_1=<font face="Default" color="#f90227" >（鬼莎莎似乎有所
 storymenu_75045_1=<font face="Default" color="#ffffff" >在真相面前，必須做出公正的結論。在下雖為五行天宮打理永夜城客棧，不過事情的真相卻不得不說出來，此次火災是鬼面聖主的計劃，其目的就是製造慘案栽贓鬼市，使得五行天宮藉機進犯吞併鬼市。</font>
 storymenu_75045_2=<font face="Default" color="#ffffff" >多謝誇獎，在下告退。</font>
 storymenu_75046_1=<font face="Default" color="#ffffff" >小事一樁。</font>
-storymenu_75047_1=<font face="Default" color="#ffffff" >鬼莎莎感念您對她的寬赦，因此邀請在下一同前去引出赤陰蛇王，並趁機取回大量鬼丸。</font>
 storymenu_75048_1=<font face="Default" color="#f9041d" >（這婆婆還真是孟婆婆的親妹妹，講起話來，神神叨叨）</font><font face="Default" color="#ffffff" >晚輩告辭。</font>
 DialogID_75058=<font face="Default" color="#f90421" >（看了看你寫的字，表情有些凝重）</font><font face="Default" color="#ffffff" >我已經瞭然於心，年輕人，你筆畫穩重，衣食豐隆。方正無偏，高志雄遠。只不過，近期你似乎遇到了很大的麻煩。貧道也贈你一字「囚」。</font><font face="Default" color="#ffffff" >多加小心吧，貧道告辭了。</font>
 DialogID_75061=<font face="Default" color="#ffffff" >閣下是何人？</font><font face="Default" color="#ffffff" >有何貴幹？</font>
@@ -582,8 +574,6 @@ okmenu_75068=<font face="Default" color="#ffffff" >我是好人，送你東西�
 okmenu_75069=<font face="Default" color="#ffffff" >兄弟，</font><font face="Default" color="#ffffff" >淨天卷軸</font><font face="Default" color="#ffffff" >瞭解一下。</font>
 okmenu_75070=<font face="Default" color="#ffffff" >放心，我可不是江湖騙子，這裡有一本淨天卷軸，保證你看了十分感興趣。</font>
 story_75049_1=<font face="Default" color="#ffffff" >你這老闆倒是頗為豪爽，咳咳……那貧道也卻之不恭了。這樣吧，我身上也沒什麼值錢的東西，這個淨天儀先給你保管著。另外我額外給你測字算上一算吧。你憑著直覺，隨心寫一個字告訴我吧。</font>
-story_75050_1=<font face="Default" color="#ffffff" >那位嗜酒如命的道士嗎？他是淨天宮的鹿盧仙客，一天</font><font face="Default" color="#ffffff" >十二個</font><font face="Default" color="#ffffff" >時辰，他大概有十個時辰都在醉著。</font>
-story_75050_2=<font face="Default" color="#ffffff" >這鹿盧仙客</font><font face="Default" color="#ffffff" >向來</font><font face="Default" color="#ffffff" >神出鬼沒，嗜酒如命，</font><font face="Default" color="#ffffff" >找他怕是猶如大海撈針，太難了。</font>
 story_75051_1=<font face="Default" color="#ffffff" >在下淨天宮忘塵，剛才是我小師弟凌寒，他年輕氣盛，行事莽撞了。不過閣下為何會帶著淨天儀來此？這淨天儀是</font><font face="Default" color="#ffffff" >鹿師叔</font><font face="Default" color="#ffffff" >的貼身之物……</font>
 story_75051_2=<font face="Default" color="#ffffff" >原來是樓主大人，幸會幸會。不過此刻鹿師叔並不在宮中。說實話，他的行蹤無人知曉……不過，來得早不如來得巧，樓主若是不棄，可在淨天宮小住幾日，興許過幾日玄女大典的時候，師</font><font face="Default" color="#ffffff" >叔</font><font face="Default" color="#ffffff" >便回來了。</font>
 story_75051_3=<font face="Default" color="#ffffff" >我們淨天宮供奉的主神是九天玄女聖母元君，每年九月九日都要舉行祭祀大典。恰逢師父天璇道君繼任十年，因此此次玄女大典邀請了外域八派的掌門前來參加，五行天宮鬼面聖主也特意派出了兩位宮主前來。如今大典在即，在下事務繁忙，樓主可以找小師妹藍溪相陪，在淨天宮</font><font face="Default" color="#ffffff" >中</font><font face="Default" color="#ffffff" >轉一轉</font><font face="Default" color="#ffffff" >。</font>
@@ -599,7 +589,6 @@ story_75057_3=<font face="Default" color="#ffffff" >貧道需要你在淨天宮�
 story_75057_4=<font face="Default" color="#ffffff" >貧道也是剛剛確定玄女大典被人動了手腳會出事。想必你也有所風聞，我在這淨天宮裡是一個惡人……淨天宮的上上下下都把我當叛徒和恥辱來看……沒有人會相信我……如今事態緊急，還請少俠務必出手相助！</font>
 story_75058_1=<font face="Default" color="#ffffff" >祭祀需要淨天香、三牲、三果、鮮花</font><font face="Default" color="#ffffff" >、茶酒和一些招待貴賓的食物</font><font face="Default" color="#ffffff" >，你幫我先去看看香火和食物吧。</font>
 story_75059_1=<font face="Default" color="#ffffff" >沒想到一盞茶的功夫，少俠便</font><font face="Default" color="#ffffff" >輕鬆</font><font face="Default" color="#ffffff" >拿回來了。</font>
-story_75059_2=<font face="Default" color="#f90723" >（仔細查看辨識，突然臉色大變）</font><font face="Default" color="#ffffff" >這淨天香有毒！裡面摻了迷藥，食物裡也有一種罕見的劇毒——那是失傳已久的壁虎血毒！</font>
 story_75060_1=<font face="Default" color="#ffffff" >淨天宮大敵當前，如今</font><font face="Default" color="#ffffff" >只有請蒼鶴師兄出山了</font><font face="Default" color="#ffffff" >。</font><font face="Default" color="#ffffff" >你前去</font><font face="Default" color="#ffffff" >請</font><font face="Default" color="#ffffff" >蒼鶴師兄</font><font face="Default" color="#ffffff" >去見天璇師姐</font><font face="Default" color="#ffffff" >，</font><font face="Default" color="#ffffff" >整件事</font><font face="Default" color="#ffffff" >的來龍去脈我已經飛鴿傳書告訴他了，我</font><font face="Default" color="#ffffff" >還有些事要查，</font><font face="Default" color="#ffffff" >隨後就到。</font>
 story_75061_1=<font face="Default" color="#ffffff" >整件事情我已經清楚了，</font><font face="Default" color="#ffffff" >事不宜遲，</font><font face="Default" color="#ffffff" >我即刻去見師妹，</font><font face="Default" color="#ffffff" >稟明這一切，阻止明日各位掌門宮主前來赴約。</font>
 story_75062_1=<font face="Default" color="#ffffff" >這壁虎血毒已經三十年沒有</font><font face="Default" color="#ffffff" >在江湖上</font><font face="Default" color="#ffffff" >出現過了，這種毒藥是當年血心研製的獨門毒藥。我年幼時候曾經見過師父救助中此劇毒的江湖人士，當時師父七日不眠不休，用盡各種辦法，最終還是束手無策，無藥可解，只能見中毒之人化骨而亡。</font>
@@ -620,7 +609,6 @@ story_menu_75057=<font face="Default" color="#ffffff" >道長你終於回來了�
 story_menu_75058=<font face="Default" color="#ffffff" >請問</font><font face="Default" color="#ffffff" >祭祀大典需要用到哪些東西啊？</font>
 story_menu_75059=<font face="Default" color="#ffffff" >祭祀用的東西我拿了一些</font><font face="Default" color="#ffffff" >過</font><font face="Default" color="#ffffff" >來。</font>
 story_menu_75060=
-story_menu_75061=<font face="Default" color="#ffffff" >蒼鶴</font><font face="Default" color="#ffffff" >道長</font><font face="Default" color="#ffffff" >，玄女大典祭祀用的淨天香和食物裡面有迷藥和壁虎血毒。</font>
 story_menu_75062=<font face="Default" color="#ffffff" >到底是何人想要陷害淨天宮？這壁虎血毒</font><font face="Default" color="#ffffff" >真是</font><font face="Default" color="#ffffff" >聞所未聞……</font>
 story_menu_75063=<font face="Default" color="#ffffff" >道長</font><font face="Default" color="#ffffff" >，不知宮主得知此事打算如何處理</font><font face="Default" color="#ffffff" >？</font>
 story_menu_75064=<font face="Default" color="#ffffff" >拜見宮主。</font>
@@ -677,8 +665,159 @@ hunterinfo_75049=攻克<a href="findnpc_new,scene33,hurnt_gszyb_010" style="HLSt
 interactinfo_75054=前往<a href="findnpc_new,scene33,eventgs_zyb_008" style="HLStype1">鬼市</a>（如果身上有血手令可以直接找<a href="findnpc_new,scene32,gs_zyb_006" style="HLStype1">鬼市接引人</a>，沒有血手令可以在永夜城中攻克<a href="findnpc_new,scene32,hurnt_gszyb_003" style="HLStype1">鬼市黑衣人</a>獲得鬼幣進入）
 story_75009_1=<font face="Default" color="#e8002e" >(在燕王府遇到的神秘人，如果是真兇，此番偷襲就是為了解決後患。若真兇另有其人，那麼陷害自己的是誰？今天來偷襲的又是何人？)</font>
 story_75020_2=<font face="Default" color="#ffffff" >軒轅山</font><font face="Default" color="#ffffff" >自盡</font><font face="Default" color="#ffffff" >後，我順籐摸瓜，一路追查。終於查到血心組織三十年前</font><font face="Default" color="#ffffff" >，曾趕赴</font><font face="Default" color="#ffffff" >中原</font><font face="Default" color="#ffffff" >，秘密暗襲一人，隨</font><font face="Default" color="#ffffff" >後便銷聲匿跡了。</font>
-story_75046_1=<font face="Default" color="#f90421" >（滿臉感激之情）</font><font face="Default" color="#ffffff" >看來鬼閻王此番網開一面，不追究我的失責了。此次鬼丸大量被盜，我想要將功贖罪，補足丟失的鬼丸，你可願助我一臂之力，前去鬼洞攻克</font><font face="Default" color="#ffffff" >二十</font><font face="Default" color="#ffffff" >條毒蛇引出蛇王。</font>
 story_menu_75009=<font face="Default" color="#ffffff" >這些隱衛</font><font face="Default" color="#ffffff" >究竟是何人？</font>
 storyinfo_75009=查看<a href="findnpc_new,city02,worldnpc_yyczyb_007" style="HLStype1">隱衛的腳印</a>
 storymenu_75020_2=<font face="Default" color="#ffffff" >可查到對方暗襲的是誰？</font>
+DialogID_75004=<font face="Default" color="#ff0220" >（這遺骸上皮膚已經開始潰爛，不過奇怪的是潰爛之處閃爍著紫色粉末，仔細查看，不光是皮膚上，連衣袍都沾染上了這些紫色粉末。）</font>
+DialogID_75005=<font face="Default" color="#ff001d" >（這具遺骸也是開始潰爛了，皮膚和衣物上隱隱閃爍著紫色粉末，和剛剛那具遺骸死法如出一轍。）</font>
+interactinfo_75004=查驗<a href="findnpc_new,adv149,worldnpc_yyczyb_003" style="HLStype1">袁榮</a>遺骸(離開密室後可繼續潛入<a href="findnpc,city01,399.46,-104.9,-253.4" style="HLStype1">燕王府後院屋內</a>找尋機關進入密室)
+interactinfo_75005=查驗<a href="findnpc_new,adv149,worldnpc_yyczyb_002" style="HLStype1">永安公主</a>遺骸(離開密室後可潛入<a href="findnpc,city01,399.46,-104.9,-253.4" style="HLStype1">燕王府後院屋內</a>找尋機關進入密室)
+okmenu_75004=<font face="Default" color="#ffffff" >究竟是誰下</font><font face="Default" color="#ffffff" >此</font><font face="Default" color="#ffffff" >毒手？咦，這旁邊還有一具遺骸。</font>
+story_75050_1=<font face="Default" color="#ffffff" >那位愛酒如命的道士嗎？他是淨天宮的鹿盧仙客，一天</font><font face="Default" color="#ffffff" >十二個</font><font face="Default" color="#ffffff" >時辰，他大概有十個時辰都在醉著。</font>
+story_75050_2=<font face="Default" color="#ffffff" >這鹿盧仙客</font><font face="Default" color="#ffffff" >向來</font><font face="Default" color="#ffffff" >神出鬼沒，愛酒如命，</font><font face="Default" color="#ffffff" >找他怕是猶如大海撈針，太難了。</font>
+story_75059_2=<font face="Default" color="#f90723" >（仔細查看辨識，突然臉色大變）</font><font face="Default" color="#ffffff" >這淨天香有毒！裡面摻了眩暈藥，食物裡也有一種罕見的劇毒——那是失傳已久的壁虎血毒！</font>
+story_menu_75061=<font face="Default" color="#ffffff" >蒼鶴</font><font face="Default" color="#ffffff" >道長</font><font face="Default" color="#ffffff" >，玄女大典祭祀用的淨天香和食物裡面有眩暈藥和壁虎血毒。</font>
+storymenu_75006_1=<font face="Default" color="#ffffff" >在下不久前收到這封密函，按照指示夜探燕王府，卻發現永安公主和駙馬的遺骸，離府後不久就上了通緝</font><font face="Default" color="#ffffff" >令</font><font face="Default" color="#ffffff" >。</font>
+storymenu_75017_1=<font face="Default" color="#f90415" >（稍加思索，娓娓道來）</font><font face="Default" color="#ffffff" >冥岳外既有水晶蘭、曼珠沙華、曼陀羅、虞美人這冥界四花，內部何不以四花之色設立冥界四眾，白眾和紅眾各自分管對內、對外事務，紫眾專門執行機密行動，而最後一支黑眾，則擔任域主的親衛，由域主親自挑選人選。</font>
+DialogID_75110=<font face="Default" color="#ffffff" >瞭解音律的基本是必要的。音律是天地間的生命脈動，理解它將幫助你掌握武技的節奏和力量變化</font>
+DialogID_75111=<font face="Default" color="#ffffff" >首先，你需要培養對音符的敏感覺察。在練習中，聆聽自然和聲音的流動，感受其頻率和節奏。然後，嘗試模仿它們，將其表達於琴音或口哨聲中。</font>
+DialogID_75112=<font face="Default" color="#ffffff" >不僅如此。你還需學會控制音律的力度與強弱。通過調整音符的音量和長短來表達不同的情感和能量。這將使你的武技更具變化與威力。</font>
+DialogID_75113=<font face="Default" color="#ffffff" >音律的節奏來增強招式的威力</font>
+DialogID_75114=<font face="Default" color="#ffffff" >如何運用音律的音量變化來調整招式的力量？</font>
+DialogID_75115=<font face="Default" color="#ffffff" >不錯，你的理解已經超出了平常。最後一個問題，如何利用音律的音調來表達招式的情感或屬性？</font>
+DialogID_75116=<font face="Default" color="#ffffff" >你的選擇不錯。《雲海天邊》確實能夠將雲海的廣闊與壯麗表現得淋漓盡致。但還有其他樂曲你是否考慮過</font><font face="Default" color="#ffffff" >？</font>
+DialogID_75117=<font face="Default" color="#ffffff" >（眼前這位少女弟子雙目無神，嘴裡不停念叨著不可能！不可能！不可能!）</font>
+DialogID_75118=<font face="Default" color="#ffffff" >我們需要尋找一根生長了五年左右的竹子。這樣的年限，枝繁葉茂，具備足夠的纖維強度，是製作簫的理想材料。</font><font face="Default" color="#ffffff" >然後連根部截取約二尺四寸的竹材，即完成者第一步的工序。</font>
+DialogID_75119=<font face="Default" color="#ffffff" >(這根竹材看來放了應該有四五年了。)</font>
+DialogID_75120=<font face="Default" color="#ffffff" >(竹子在火的炙烤下稍微變軟)</font>
+DialogID_75121=<font face="Default" color="#ffffff" >（在內力的崔東下，竹材似乎十分脆弱）</font>
+DialogID_75122=<font face="Default" color="#ffffff" >（使用貝殼打磨簫的外部，打磨到圓潤光滑）</font>
+DialogID_75123=<font face="Default" color="#ffffff" >（畫太難了。還是雕刻詩詞吧）</font>
+DialogID_75124=<font face="Default" color="#ffffff" >（音色有些晦澀，邊吹邊再次打磨）</font>
+DialogID_75125=<font face="Default" color="#ffffff" >（將鐵棍燒紅，然後按之前畫的孔位鑽下）</font>
+DialogID_75126=<font face="Default" color="#ffffff" >（按照之前畫好的</font><font face="Default" color="#ffffff" >吹口</font><font face="Default" color="#ffffff" >孔位進行開孔）</font>
+DialogID_75127=<font face="Default" color="#ffffff" >（對比成品簫和竹材，畫好孔洞並不難）</font>
+DialogID_75128=<font face="Default" color="#ffffff" >（雖然內力打通了竹節，但是竹材的內壁還是十分粗糙，需要細細打磨）</font>
+DialogID_75129=<font face="Default" color="#ffffff" >我也不太清楚，你找找看，他最近也是神出鬼沒的。我大部分時間沒看到他</font>
+DialogID_75130=<font face="Default" color="#ffffff" >有什麼事麼？我奉命出閣辦事，耽擱了你可負擔不起。</font>
+DialogID_75131=<font face="Default" color="#ffffff" >求求你，讓我出閣吧。我要去報仇！我的摯愛，我一定要報仇！</font>
+DialogID_75132=<font face="Default" color="#ffffff" >之前有個蒙面人，跟我說我只要拿一件門派的寶物給他，他就幫我報仇，雖然他說的話味道有點怪怪的，但是管不了那麼多了。只要能報仇，讓我做什麼都行。</font>
+DialogID_75133=<font face="Default" color="#ffffff" >我上次去庫房拿東西，看到個挺漂亮的盒子，也不知道裝的是什麼東西，四下無人我就偷偷帶出來了。肯定是門派寶物。</font>
+DialogID_75134=<font face="Default" color="#ffffff" >只要你幫我報仇血恨，來生我做牛做馬報答你</font>
+DialogID_75135=<font face="Default" color="#ffffff" >謝謝你為我報仇，我這就去找閣主自首，這些是我這些年攢下來的一點積蓄，感謝你幫我報仇</font>
+DialogID_75136=<font face="Default" color="#ffffff" >我！聽！不！清！楚！你！問！問！看！閣！主！</font>
+DialogID_75137=<font face="Default" color="#ffffff" >什麼？樂醫也聽不見了！</font>
+DialogID_75138=<font face="Default" color="#ffffff" >五氣堡的地圖給你，你直接去找這個弟子即可，</font>
+DialogID_75139=<font face="Default" color="#ffffff" >五感喪失？近期確實有很多人出現症狀！懷疑下毒？</font><font face="Default" color="#ffffff" >確實有這個跡象，近期有人看到八目城的小鬼子鬼鬼祟祟的。</font>
+DialogID_75140=<font face="Default" color="#ffffff" >八目城那邊小鬼子多，你去那邊看看有沒有落單的</font>
+DialogID_75141=<font face="Default" color="#ffffff" >可不要托大，這次找組頭打探一下，不要打草驚蛇</font>
+DialogID_75144=<font face="Default" color="#ffffff" >原來此事是小鬼子在從中作祟，小鬼子越來越囂張，我得想辦法聯繫其他勢力趕走小鬼子，不然我們不得安生。</font>
+DialogID_75145=<font face="Default" color="#ffffff" >小鬼子雖然先來到這島上，但是不做人事，搞的天怒人怨，看不慣小鬼子的肯定不止我們，但是大家平時相互競爭，互相看不慣，得有個人來從中協調。</font>
+DialogID_75146=<font face="Default" color="#ffffff" >小鬼子大多集中在八目城，你能幫土人報仇麼</font>
+DialogID_75150=<font face="Default" color="#ffffff" >好。接下來，你需要參悟音律與武技的奧秘。將你修煉出的音律融入到你的武功之中，讓每一招都與音律呼應和協調。</font>
+DialogID_75151=<font face="Default" color="#ffffff" >《雲中仙境》的確能夠傳達出雲海中那種神奇的仙境感。還有一首樂曲你是否有其他想法？</font>
+DialogID_75152=<font face="Default" color="#ffffff" >（少女似乎流下了眼淚）嗚,嗚，嗚（</font><font face="Default" color="#ffffff" >少女慢慢哭出聲來</font><font face="Default" color="#ffffff" >）</font>
+DialogID_75156=<font face="Default" color="#ffffff" >（五年左右的竹子高度可達數米，直徑適中，竹竿質地堅韌且外觀光滑。</font><font face="Default" color="#ffffff" >這個竹子看起來挺合適</font><font face="Default" color="#ffffff" >）</font>
+DialogID_75166=<font face="Default" color="#ffffff" >這都是閣主安排的，這是我們傳統的花木照料方式。通過演奏特定的簫曲和歌唱，我們調節音律的頻率和節奏，以促進植物的健康成長。音律的振動和旋律可以與大自然的能量產生共鳴，對生物生長起到積極的影響。</font>
+DialogID_75168=<font face="Default" color="#ffffff" >哎，庫房裡有一本戕屠樂譜，是本閣老前輩機緣巧合下創作的。能以聲波殺人與無形，但是副作用極大，使用者會性情大變，輕則經脈逆行，重則走火入魔。當時就封存在庫房裡了。結果前幾日我去拿東西時發現居然失竊了。看痕跡也就是這幾日的事</font>
+DialogID_75169=<font face="Default" color="#ffffff" >近期表現異常的弟子？讓我想想。。</font>
+SubmitNpcEx_75176=<a href="findnpc_new,scene38,newdh_lxg_001" style="HLStype1">嵐羲閣閣主</a>
+hunterinfo_75110=擊敗<a href="findnpc_new,scene38,npc_xd_fc_009" style="HLStype1">足輕</a>
+hunterinfo_75111=擊敗<a href="findnpc_new,scene38,npc_xd_fc_010" style="HLStype1">足輕組頭</a>
+hunterinfo_75112=擊敗<a href="findnpc_new,scene38,npc_xd_fc_009" style="HLStype1">足輕</a>
+hunterinfo_75114=擊敗<a href="findnpc_new,scene38,npc_xd_fc_009" style="HLStype1">足輕</a>
+hunterinfo_75115=擊敗<a href="findnpc_new,scene38,npc_xd_fc_010" style="HLStype1">足輕組頭</a>
+hunterinfo_75118=擊敗<a href="findnpc_new,scene38,npc_xd_fc_007" style="HLStype1">上忍</a>
+hunterinfo_75119=擊敗<a href="findnpc_new,scene38,npc_xd_fc_008" style="HLStype1">上忍</a>
+hunterinfo_75120=擊敗<a href="findnpc_new,scene38,npc_xd_fc_009" style="HLStype1">足輕</a>
+hunterinfo_75121=擊敗<a href="findnpc_new,scene38,npc_xd_fc_010" style="HLStype1">足輕組頭</a>
+hunterinfo_75135=擊敗<a href="findnpc,scene38,-723,105,-1477" style="HLStype1">劍術師範</a>
+hunterinfo_75137=擊敗<a href="findnpc_new,scene38,npc_xd_fc_007" style="HLStype1">上忍</a>
+hunterinfo_75138=擊敗<a href="findnpc_new,scene38,npc_xd_fc_008" style="HLStype1">上忍</a>
+interactinfo_75110=向<a href="findnpc_new,scene38,newdh_lxg_001" style="HLStype1">嵐羲閣閣主</a>請教音律修行
+interactinfo_75111=向<a href="findnpc_new,scene38,newdh_lxg_001" style="HLStype1">嵐羲閣閣主</a>請教音律修行
+interactinfo_75112=向<a href="findnpc_new,scene38,newdh_lxg_001" style="HLStype1">嵐羲閣閣主</a>請教音律修行
+interactinfo_75113=通過<a href="findnpc_new,scene38,island_task_npc_010" style="HLStype1">考師</a>師的考驗
+interactinfo_75114=通過<a href="findnpc_new,scene38,island_task_npc_010" style="HLStype1">考師</a>的考驗
+interactinfo_75115=通過<a href="findnpc_new,scene38,island_task_npc_010" style="HLStype1">考師</a>的考驗
+interactinfo_75116=與<a href="findnpc_new,scene38,island_task_npc_002" style="HLStype1">樂師</a>交流
+interactinfo_75117=與<a href="findnpc_new,scene38,island_task_npc_012" style="HLStype1">病人</a>交談
+interactinfo_75118=向<a href="findnpc_new,scene38,island_task_npc_003" style="HLStype1">簫泉君（樂醫）</a>瞭解采竹的要點
+interactinfo_75119=從<a href="findnpc_new,scene38,island_task_npc_014" style="HLStype1">架子</a>上拿去一個合適的竹材
+interactinfo_75120=在<a href="findnpc_new,scene38,island_task_npc_015" style="HLStype1">火爐</a>上烤竹
+interactinfo_75121=在<a href="findnpc_new,scene38,island_task_npc_016" style="HLStype1">桌子</a>上完成打通
+interactinfo_75122=在<a href="findnpc_new,scene38,island_task_npc_016" style="HLStype1">桌子</a>上打磨簫身
+interactinfo_75123=在<a href="findnpc_new,scene38,island_task_npc_016" style="HLStype1">桌子</a>雕刻畫稿和題詞
+interactinfo_75124=在<a href="findnpc_new,scene38,island_task_npc_016" style="HLStype1">桌子</a>上調整音準
+interactinfo_75125=在<a href="findnpc_new,scene38,island_task_npc_016" style="HLStype1">桌子</a>上開出指孔
+interactinfo_75126=在<a href="findnpc_new,scene38,island_task_npc_016" style="HLStype1">桌子</a>上開出吹口
+interactinfo_75127=在<a href="findnpc_new,scene38,island_task_npc_016" style="HLStype1">桌子</a>上鋸竹子
+interactinfo_75128=在<a href="findnpc_new,scene38,island_task_npc_016" style="HLStype1">桌子</a>上打磨竹子內膛
+interactinfo_75129=與<a href="findnpc_new,scene38,island_task_npc_005" style="HLStype1">謝竹慧（嵐羲閣弟子）</a>交談
+interactinfo_75130=尋找<a href="findnpc_new,scene38,island_task_npc_006" style="HLStype1">童留（嵐羲閣弟子）</a>
+interactinfo_75131=與<a href="findnpc_new,scene38,island_task_npc_006" style="HLStype1">童留（嵐羲閣弟子）</a>交流
+interactinfo_75132=與<a href="findnpc_new,scene38,island_task_npc_006" style="HLStype1">童留（嵐羲閣弟子）</a>交談
+interactinfo_75133=與<a href="findnpc_new,scene38,island_task_npc_006" style="HLStype1">童留（嵐羲閣弟子）</a>交談
+interactinfo_75134=與<a href="findnpc_new,scene38,island_task_npc_006" style="HLStype1">童留（嵐羲閣弟子）</a>交談
+interactinfo_75135=與<a href="findnpc_new,scene38,island_task_npc_006" style="HLStype1">童留（嵐羲閣弟子）</a>交談
+interactinfo_75136=與<a href="findnpc_new,scene38,island_task_npc_003" style="HLStype1">簫泉君（樂醫）</a>交談
+interactinfo_75137=與<a href="findnpc_new,scene38,newdh_lxg_001" style="HLStype1">嵐羲閣閣主</a>交流
+interactinfo_75138=與<a href="findnpc_new,scene38,newdh_lxg_001" style="HLStype1">嵐羲閣閣主</a>交談
+interactinfo_75139=與<a href="findnpc_new,scene38,island_task_npc_007" style="HLStype1">沈大有（五氣堡弟子）</a>交談
+interactinfo_75140=與<a href="findnpc_new,scene38,island_task_npc_007" style="HLStype1">沈大有（五氣堡弟子）</a>交談
+interactinfo_75141=與<a href="findnpc_new,scene38,island_task_npc_007" style="HLStype1">沈大有（五氣堡弟子）</a>交談
+interactinfo_75144=與<a href="findnpc_new,scene38,island_task_npc_003" style="HLStype1">簫泉君（樂醫）</a>交談
+interactinfo_75145=與<a href="findnpc_new,scene38,island_task_npc_003" style="HLStype1">簫泉君（樂醫）</a>交談
+interactinfo_75146=與<a href="findnpc_new,scene38,island_task_npc_008" style="HLStype1">簫檣（嵐羲閣男弟子）</a>交談
+interactinfo_75150=向<a href="findnpc_new,scene38,newdh_lxg_001" style="HLStype1">嵐羲閣閣主</a>請教音律修行
+interactinfo_75151=與<a href="findnpc_new,scene38,island_task_npc_002" style="HLStype1">樂師</a>交流
+interactinfo_75152=與<a href="findnpc_new,scene38,island_task_npc_012" style="HLStype1">病人</a>交談
+interactinfo_75156=採到合適的<a href="findnpc_new,scene38,island_task_npc_013" style="HLStype1">竹子</a>
+interactinfo_75166=與<a href="findnpc_new,scene38,island_task_npc_004" style="HLStype1">劉慶（嵐羲閣女弟子）</a>交流
+interactinfo_75168=與<a href="findnpc_new,scene38,newdh_lxg_001" style="HLStype1">嵐羲閣閣主</a>交流
+interactinfo_75169=與<a href="findnpc_new,scene38,island_task_npc_005" style="HLStype1">謝竹慧（嵐羲閣弟子）</a>交流
+okmenu_75110=<font face="Default" color="#ffffff" >師父。請問如何開始修行音律呢？</font>
+okmenu_75111=<font face="Default" color="#ffffff" >是不是聽音辨音就可以了，</font><font face="Default" color="#ffffff" >閣主</font><font face="Default" color="#ffffff" >？</font>
+okmenu_75112=<font face="Default" color="#ffffff" >明白了！</font>
+okmenu_75113=<font face="Default" color="#ffffff" >音律的節奏可以用來控制招式的速度和節奏，使其與音樂相協調。通過在關鍵時刻施展招式，緊隨音律的脈動，可以增強招式的威力和精準度。</font>
+okmenu_75114=<font face="Default" color="#ffffff" >通過控制音律的音量變化，可以調整招式的力度和衝擊力。在音律高潮處施展強有力的攻擊，或在音律低谷處施展輕巧迅猛的招式，都能增強招式的衝擊效果。</font>
+okmenu_75115=<font face="Default" color="#ffffff" >音律的音調可以表達不同的情感或屬性。通過在施展招式時合理運用音律的音調變化，可以展現出招式的獨特屬性，如快速劍氣的尖銳音調或柔和流暢的拳法音調，以及表達憤怒、悲傷或喜悅等情感的音調選擇。</font>
+okmenu_75116=<font face="Default" color="#ffffff" >除了《雲海天邊》，我還考慮到《雲中仙境》這首樂曲。它帶有一種神秘而祥和的氣息，能夠讓人感受到雲海中的仙境之美。</font>
+okmenu_75117=<font face="Default" color="#ffffff" >這位小姐！小姐！（你的叫聲毫無作用，少女連看都沒看你一眼）</font><font face="Default" color="#ffffff" >（你想了想決定嘗試一下現學現賣的樂曲）</font>
+okmenu_75118=<font face="Default" color="#ffffff" >明白了。我們要尋找生長了五年左右的竹子。</font>
+okmenu_75119=<font face="Default" color="#ffffff" >就是這根了。（放下新采的竹材）</font>
+okmenu_75120=<font face="Default" color="#ffffff" >這火候真難把握，一不小心就會把竹子烤成竹炭了！</font>
+okmenu_75121=<font face="Default" color="#ffffff" >小心催動內力，打通阻礙！</font>
+okmenu_75122=<font face="Default" color="#ffffff" >磨！磨！磨！</font>
+okmenu_75123=<font face="Default" color="#ffffff" >嗯。就雕刻十步殺一人，千里不留行吧。</font>
+okmenu_75124=<font face="Default" color="#ffffff" >看起來做好了。還不能用，得好好調試</font>
+okmenu_75125=<font face="Default" color="#ffffff" >啊呀！燙！燙！燙！</font>
+okmenu_75126=<font face="Default" color="#ffffff" >開孔完成</font>
+okmenu_75127=<font face="Default" color="#ffffff" >先鋸後畫，</font><font face="Default" color="#ffffff" >這活簡單</font>
+okmenu_75128=<font face="Default" color="#ffffff" >細心打竹材內膛</font>
+okmenu_75129=<font face="Default" color="#ffffff" >看來只能閣內找找了</font>
+okmenu_75130=<font face="Default" color="#ffffff" >奉命？ 奉誰的命？</font>
+okmenu_75131=<font face="Default" color="#ffffff" >嗯？細說？講清楚</font><font face="Default" color="#ffffff" >！</font>
+okmenu_75132=<font face="Default" color="#ffffff" >說話奇怪的蒙面人？你確定是不是遇上詐騙了？</font><font face="Default" color="#ffffff" >等等，門派寶物？！</font>
+okmenu_75133=<font face="Default" color="#ffffff" >我的天啊。什麼東西都不知道你都敢拿？</font>
+okmenu_75134=<font face="Default" color="#ffffff" >來生？那今生怎麼報答？</font><font face="Default" color="#ffffff" >算了。我去殺小鬼子了</font>
+okmenu_75135=<font face="Default" color="#ffffff" >沒事</font>
+okmenu_75136=<font face="Default" color="#ffffff" >好！的！</font>
+okmenu_75137=<font face="Default" color="#ffffff" >也？難道其他人也出現了？</font>
+okmenu_75138=<font face="Default" color="#ffffff" >好的</font>
+okmenu_75139=<font face="Default" color="#ffffff" >那不用查了。肯定是小鬼子搞的鬼</font>
+okmenu_75140=<font face="Default" color="#ffffff" >好</font>
+okmenu_75141=<font face="Default" color="#ffffff" >好</font>
+okmenu_75144=<font face="Default" color="#ffffff" >說的也是</font>
+okmenu_75145=<font face="Default" color="#ffffff" >對</font>
+okmenu_75146=<font face="Default" color="#ffffff" >義不容辭</font>
+okmenu_75150=<font face="Default" color="#ffffff" >我好像有一點懂了。只有在掌握音律的同時，將它與武技相結合，才能達到真正的境界</font>
+okmenu_75151=<font face="Default" color="#ffffff" >我還有一首選擇。那就是《飄逸曲》。這首樂曲輕盈而優雅，彷彿樂曲中音符隨雲霧飄逸，讓人感受到雲海的輕靈與流動。</font>
+okmenu_75152=<font face="Default" color="#ffffff" >（你面對哭泣的少女手足無措，還是回去找樂醫把）</font>
+okmenu_75156=<font face="Default" color="#ffffff" >就是這根了</font><font face="Default" color="#ffffff" >！</font>
+okmenu_75166=<font face="Default" color="#ffffff" >這麼神奇的嘛？我從未想過音樂還可以與自然互動。</font><font face="Default" color="#ffffff" >能否教教我？</font>
+okmenu_75168=<font face="Default" color="#ffffff" >這幾日沒什麼外人前來，難道是閣內弟子？</font>
+okmenu_75169=<font face="Default" color="#ffffff" >表現跟平時不一樣，或者近期出過什麼事的弟子。</font>
+story_75046_1=<font face="Default" color="#f90421" >（滿臉感激之情）</font><font face="Default" color="#ffffff" >看來鬼閻王此番網開一面，不追究我的失責了。此次鬼丸大量被盜，我想要將功贖罪，補足丟失的鬼丸，你可願助我一臂之力，前去鬼洞攻克二十條毒蛇</font><font face="Default" color="#ffffff" >。</font>
+storymenu_75047_1=<font face="Default" color="#ffffff" >鬼莎莎感念您對她的寬赦，因此邀請在下一同前去</font><font face="Default" color="#ffffff" >攻克大量</font><font face="Default" color="#ffffff" >赤蛇，並趁機取回大量鬼丸。</font>
 

@@ -1,49 +1,20 @@
 ﻿
-accept_74401_1=<font face="Default" color="#ffffff" >希望大俠能在禁地中找到一些線索。</font>
-accept_74402_1=<font face="Default" color="#ffffff" >希望大俠能在禁地中找到一些線索。</font>
-accept_74403_1=<font face="Default" color="#ffffff" >希望大俠能在禁地中找到一些線索。</font>
-accept_74404_1=<font face="Default" color="#ffffff" >希望大俠能在禁地中找到一些線索。</font>
-accept_74405_1=<font face="Default" color="#ffffff" >希望大俠能在禁地中找到一些線索。</font>
 accept_74406_1=<font face="Default" color="#ffffff" >希望大俠能在禁地中找到一些線索。</font>
-complete_74401=<font face="Default" color="#ffffff" >大俠果然找到了些線索？</font>
-complete_74402=<font face="Default" color="#ffffff" >大俠果然找到了些線索？</font>
-complete_74403=<font face="Default" color="#ffffff" >大俠果然找到了些線索？</font>
-complete_74404=<font face="Default" color="#ffffff" >大俠果然找到了些線索？</font>
-complete_74405=<font face="Default" color="#ffffff" >大俠果然找到了些線索？</font>
 complete_74406=<font face="Default" color="#ffffff" >大俠果然找到了些線索？</font>
-context_74401=通關暮色之村，尋找靈寵線索。（暮色之村（序）無法完成任務）
-context_74402=通關青雲堡，尋找靈寵線索。（青雲堡（序）無法完成任務）
-context_74403=通關鳳凰山莊，尋找靈寵線索。（鳳凰山莊（序）無法完成任務）
-context_74404=通關蝙蝠洞，尋找靈寵線索。
-context_74405=通關無爭秘境，尋找靈寵線索。
 context_74406=通關大漠鬼城，尋找靈寵線索。
 context_74408=拜年活動期間（2019.2.5），玩家可以前往蘇州荊惠娟（432 812）處領取拜年禮包一份。
-menu_74401_1=<font face="Default" color="#ffffff" >原來如此，那我便去了。</font>
-menu_74402_1=<font face="Default" color="#ffffff" >原來如此，那我便去了。</font>
-menu_74403_1=<font face="Default" color="#ffffff" >原來如此，那我便去了。</font>
-menu_74404_1=<font face="Default" color="#ffffff" >原來如此，那我便去了。</font>
-menu_74405_1=<font face="Default" color="#ffffff" >原來如此，那我便去了。</font>
 menu_74406_1=<font face="Default" color="#ffffff" >原來如此，那我便去了。</font>
 next_74401=通關暮色之村
 next_74402=通關青雲堡。
 next_74403=通關鳳凰山莊。
-next_74404=通關蝙蝠洞。
-next_74405=通關無爭秘境。
 next_74406=通關大漠鬼城。
 target_74401=通關暮色之村
 target_74402=通關青雲堡。
 target_74403=通關鳳凰山莊。
-target_74404=通關蝙蝠洞。
-target_74405=通關無爭秘境。
 target_74406=通關大漠鬼城。
 target_74407=前往蘇州荊惠娟（432 812）處領取新春大禮包一份
 target_74408=前往蘇州荊惠娟（432 812）處領取拜年禮包一份
 target_74409=前往蘇州<a href="findnpc_new,city02,hd_wyhd_001" style="HLStype1">尚武(活動大使)</a>處修行禮包一份
-title_74401=【活動】靈寵伴君行—暮色之村
-title_74402=【活動】靈寵伴君行—青雲堡
-title_74403=【活動】靈寵伴君行—鳳凰山莊
-title_74404=【活動】靈寵伴君行—蝙蝠洞
-title_74405=【活動】靈寵伴君行—無爭秘境
 title_74406=【活動】靈寵伴君行—大漠鬼城
 title_74407=新春禮包
 title_74408=拜年禮包
@@ -112,38 +83,16 @@ menu_74421_1=<font face="Default" color="#ffffff" >好的</font>
 submit_74421=<font face="Default" color="#ffffff" >謝謝</font>
 target_74421=助武林盟主林天南贈送拜帖，江湖同慶，風起劍歌。完成任務，就能從林天南處獲得豐厚的獎勵。
 title_74421=盟主拜帖武林興
-CanAcceptMenu_74420=<font face="Default" color="#ffffff" >嬉戲江湖</font><font face="Default" color="#ffffff" >（可接取）</font>
-CompleteMenu_74420=<font face="Default" color="#ffffff" >嬉戲江湖</font><font face="Default" color="#ffffff" >（可提交）</font>
-accept_74420_1=<font face="Default" color="#ffffff" >江湖名俊玩家處於小體型時可以對其他玩家扔泥球，泥球可以在我這邊兌換。</font>
-complete_74420=<font face="Default" color="#ffffff" >闖蕩江湖最重要的是心情，自己開心就好，哪管那刀光劍影。</font>
-context_74420=江湖名俊玩家處於小體型時對其他玩家扔5次泥球
 menu_74420_1=<font face="Default" color="#ffffff" >好的</font>
 submit_74420=<font face="Default" color="#ffffff" >謝謝</font>
-target_74420=江湖名俊玩家處於小體型時對其他玩家扔5次泥球
-title_74420=嬉戲江湖
 accept_74422_1=<font face="Default" color="#ffffff" >幫好友打掃一次家園。</font>
 complete_74422=<font face="Default" color="#ffffff" >幫好友打掃一次家園。</font>
 context_74422=幫好友打掃一次家園
 menu_74422_1=<font face="Default" color="#ffffff" >好的</font>
 submit_74422=<font face="Default" color="#ffffff" >我已經打掃過了。</font>
 target_74422=幫好友打掃一次家園
-CanAcceptMenu_74401=<font face="Default" color="#ffffff" >皇家靈寵園出現了缺漏，有很多靈寵跑出來了？</font>
-CanAcceptMenu_74402=<font face="Default" color="#ffffff" >皇家靈寵園出現了缺漏，有很多靈寵跑出來了？</font>
-CanAcceptMenu_74403=<font face="Default" color="#ffffff" >皇家靈寵園出現了缺漏，有很多靈寵跑出來了？</font>
-CanAcceptMenu_74404=<font face="Default" color="#ffffff" >皇家靈寵園出現了缺漏，有很多靈寵跑出來了？</font>
-CanAcceptMenu_74405=<font face="Default" color="#ffffff" >皇家靈寵園出現了缺漏，有很多靈寵跑出來了？</font>
 CanAcceptMenu_74406=<font face="Default" color="#ffffff" >皇家靈寵園出現了缺漏，有很多靈寵跑出來了？</font>
-CompleteMenu_74401=<font face="Default" color="#ffffff" >靈寵伴君行（已完成）</font>
-CompleteMenu_74402=<font face="Default" color="#ffffff" >靈寵伴君行（已完成）</font>
-CompleteMenu_74403=<font face="Default" color="#ffffff" >靈寵伴君行（已完成）</font>
-CompleteMenu_74404=<font face="Default" color="#ffffff" >靈寵伴君行（已完成）</font>
-CompleteMenu_74405=<font face="Default" color="#ffffff" >靈寵伴君行（已完成）</font>
 CompleteMenu_74406=<font face="Default" color="#ffffff" >靈寵伴君行（已完成）</font>
-submit_74401=<font face="Default" color="#ffffff" >靈寵伴君行（已完成）</font>
-submit_74402=<font face="Default" color="#ffffff" >靈寵伴君行（已完成）</font>
-submit_74403=<font face="Default" color="#ffffff" >靈寵伴君行（已完成）</font>
-submit_74404=<font face="Default" color="#ffffff" >靈寵伴君行（已完成）</font>
-submit_74405=<font face="Default" color="#ffffff" >靈寵伴君行（已完成）</font>
 submit_74406=<font face="Default" color="#ffffff" >靈寵伴君行（已完成）</font>
 CanAcceptMenu_74423=<font face="Default" color="#ffffff" >武聖祭拜（可接取）</font>
 CompleteMenu_74423=<font face="Default" color="#ffffff" >武聖祭拜（</font><font face="Default" color="#ffffff" >已完成</font><font face="Default" color="#ffffff" >）</font>
@@ -268,9 +217,7 @@ next_74435=見義勇為助瓜農
 submit_74435=<font face="Default" color="#ffffff" >區區小事</font><font face="Default" color="#ffffff" >，何足掛齒，三兩下就揍得他滿地找牙。</font>
 target_74435=趕走在農田中搗亂的<a href="findnpc_new,city05,npc_hd_zlw_01" style="HLStype1">朱扒皮</a>。
 title_74435=見義勇為助瓜農
-CanAcceptMenu_74436=<font face="Default" color="#ffffff" >巧拜織女(可承接)</font>
 CanAcceptMenu_74437=<font face="Default" color="#ffffff" >七姐誕（可承接）</font>
-CompleteMenu_74436=<font face="Default" color="#ffffff" >巧拜織女(可提交)</font>
 CompleteMenu_74437=<font face="Default" color="#ffffff" >七姐誕（可提交）</font>
 accept_74436_1=<font face="Default" color="#ffffff" >又是一年七夕時，你也是來為你的另一半祈求祝福的嗎？你來的正巧，織女正在這月老廟中，你快去吧。</font>
 accept_74437_1=<font face="Default" color="#ffffff" >又是一年七夕時，你可找到了你的意中人？你可去月老廟找七姐祈福，她或許能幫你找到你的意中人。</font>
@@ -288,21 +235,15 @@ title_74436=巧拜織女
 title_74437=七姐誕
 accept_74440_1=<font face="Default" color="#ffffff" >桃園結義薄雲天, 偃月青龍刀刃寒。
 complete_74440=<font face="Default" color="#ffffff" >壯志威風千古在，英雄氣概萬夫奇。堂堂廟貌人瞻仰，忠勇惟君更有誰？</font>
-context_74440=前往金陵<a href="findnpc_new,city03,npc_sworn002" style="HLStype1">關志（帝廟結拜指引人）</a>處祭拜武聖後，挑戰武聖侍從。
 menu_74440_1=<font face="Default" color="#ffffff" >我想祭拜武聖。</font>
 submit_74440=<font face="Default" color="#ffffff" >真是令人敬仰。</font>
 context_74438=活動期間，江湖名俊玩家滿足當前服務器九陰志條件下相應內功點數可在蘇州易名（改名大使）處獲取改名文書。
 target_74438=找到易名（改名大使）完成任務
 title_74438=江湖易名任我行
-CanAcceptMenu_74439=<font face="Default" color="#ffffff" >開卷有益禮相贈（可承接）</font>
-CompleteMenu_74439=<font face="Default" color="#ffffff" >開卷有益禮相贈（可提交）</font>
-accept_74439_1=<font face="Default" color="#ffffff" >活動期間，江湖名俊玩家每天可以在此處接取任務，開卷有益，讀萬卷書。求得「神秘書笈」一個</font>
 complete_74439=<font face="Default" color="#ffffff" >祝大俠一路順風。</font>
-context_74439=活動期間，江湖名俊玩家每天可以前往蘇州嚴倫（472,433）處接取任務：開卷有益禮相贈，開卷有益，讀萬卷書。任務完成後，即可獲取「神秘書笈」一份。
 menu_74439_1=<font face="Default" color="#ffffff" >多謝</font>
 submit_74439=<font face="Default" color="#ffffff" >在下告辭</font>
 target_74439=找到嚴倫，領取神秘書笈
-title_74439=開卷有益禮相贈
 context_74441=完成司馬浩弘的請求，完成一次團練並且疲勞度達到100%。
 target_74441=完成一次團練並且疲勞度達到100%。
 title_74441=業精於勤
@@ -411,13 +352,10 @@ submit_74452=<font face="Default" color="#ffffff" >多謝</font>
 submit_74453=<font face="Default" color="#ffffff" >有朋自遠方來</font>
 target_74452=完成任意一次江湖勢力挑戰。
 title_74452=勢力挑戰
-CanAcceptMenu_74414=<font face="Default" color="#ffffff" >新春祝福送佳人（可承接）</font>
 CanAcceptMenu_74454=<font face="Default" color="#ffffff" >尚武大使賀禮多（可承接）</font>
 CanAcceptMenu_74455=<font face="Default" color="#ffffff" >肝膽相照（可承接）</font>
-CompleteMenu_74414=<font face="Default" color="#ffffff" >新春祝福送佳人（可提交）</font>
 CompleteMenu_74454=<font face="Default" color="#ffffff" >尚武大使賀禮多（可提交）</font>
 CompleteMenu_74455=<font face="Default" color="#ffffff" >肝膽相照（可提交）</font>
-accept_74414_1=<font face="Default" color="#ffffff" >活動期間，江湖名俊玩家每天前往蘇州NPC荊惠娟（432,812）處，接取「新春祝福送佳人」,完成後找荊惠娟領取獎勵。</font>
 accept_74454_1=<font face="Default" color="#ffffff" >活動期間，江湖名俊玩家可</font><font face="Default" color="#ffffff" >在我這裡</font><font face="Default" color="#ffffff" >領取「新春大禮包」一份</font>
 complete_74414=<font face="Default" color="#ffffff" >這是給你的獎勵，請收好</font>
 complete_74454=<font face="Default" color="#ffffff" >這是給你的獎勵，請收好</font>
@@ -435,18 +373,10 @@ target_74454=找到尚武，領取「新春大禮包」
 target_74455=找到尚武，領取獎勵
 title_74454=尚武大使賀禮多
 title_74455=肝膽相照
-context_74414=活動期間，江湖名俊玩家每天前往蘇州NPC荊惠娟（432,812）處，接取「新春祝福送佳人」任務：拜訪他人家園，完成一次掃地。
-title_74414=新春祝福送佳人
 next_74414=<a href="findnpc_new,city02,WorldNpc01650" style="HLStype1">荊惠娟</a>
-CanAcceptMenu_74456=<font face="Default" color="#ffffff" >美味元宵</font><font face="Default" color="#ffffff" >（可領取）</font>
-CompleteMenu_74456=<font face="Default" color="#ffffff" >美味元宵</font><font face="Default" color="#ffffff" >（可提交）</font>
-accept_74456_1=<font face="Default" color="#ffffff" >猜謎</font><font face="Default" color="#ffffff" >，答對三題可獲得獎勵。</font>
-complete_74456=<font face="Default" color="#ffffff" >美味元宵</font>
-context_74456=玩家每天可在蘇州姚之易（390,765）處猜謎，需猜對三道謎題方可獲得獎勵。
 menu_74456_1=<font face="Default" color="#ffffff" >我要參與。</font>
 submit_74456=<font face="Default" color="#ffffff" >我已經猜出三道謎題了。</font>
 target_74456=猜謎
-title_74456=美味元宵
 CanAcceptMenu_74457=<font face="Default" color="#ffffff" >飄逸若仙行江湖（可承接）</font>
 CompleteMenu_74457=<font face="Default" color="#ffffff" >飄逸若仙行江湖（可提交）</font>
 accept_74457_1=<font face="Default" color="#ffffff" >活動期間，江湖名俊玩家可</font><font face="Default" color="#ffffff" >在我這裡</font><font face="Default" color="#ffffff" >領取「江湖修行大禮包」一份</font>
@@ -466,10 +396,6 @@ menu_74458_1=<font face="Default" color="#ffffff" >他橫由他橫，明月照�
 submit_74458=<font face="Default" color="#ffffff" >問心</font><font face="Default" color="#ffffff" >無愧亦無悔。</font>
 target_74458=挑戰心魔
 title_74458=挑戰心魔
-CanAcceptMenu_74440=<font face="Default" color="#ffffff" >群俠修武</font><font face="Default" color="#ffffff" >（可承接）</font>
-CompleteMenu_74440=<font face="Default" color="#ffffff" >群俠修武</font><font face="Default" color="#ffffff" >（可提交）</font>
-target_74440=群俠修武
-title_74440=群俠修武
 CanAcceptMenu_74459=<font face="Default" color="#ffffff" >虎口脫險（可承接）</font>
 CompleteMenu_74459=<font face="Default" color="#ffffff" >虎口脫險（可提交）</font>
 accept_74459_1=<font face="Default" color="#ffffff" >活動期間，江湖名俊玩家</font><font face="Default" color="#ffffff" >每天</font><font face="Default" color="#ffffff" >可在我這裡領取</font><font face="Default" color="#ffffff" >金蟬丹</font>
@@ -490,12 +416,6 @@ next_74460=<a href="findnpc_new,city02,hd_wyhd_001" style="HLStype1">尚武(活�
 submit_74460=<font face="Default" color="#ffffff" >多謝</font>
 target_74460=找到尚武，領取獎勵
 title_74460=江湖迎新贈群俠
-CanAcceptMenu_74453=<font face="Default" color="#ffffff" >拭劍尋風助群英</font><font face="Default" color="#ffffff" >（可承接）</font>
-CompleteMenu_74453=<font face="Default" color="#ffffff" >拭劍尋風助群英</font><font face="Default" color="#ffffff" >（可提交）</font>
-accept_74453_1=<font face="Default" color="#ffffff" >廣邀江湖豪俠，對其他玩家使用在</font><font face="Default" color="#ffffff" >拭劍帖</font>
-context_74453=使用10本心得手札在尚武處兌換奇遇帖，對其他玩家扔出5次拭劍帖。
-target_74453=對其他玩家扔出5次拭劍帖。
-title_74453=拭劍尋風助群英
 CanAcceptMenu_74473=<font face="Default" color="#ffffff" >天輪試煉</font><font face="Default" color="#ffffff" >（</font><font face="Default" color="#ffffff" >可承接</font><font face="Default" color="#ffffff" >）</font>
 CompleteMenu_74473=<font face="Default" color="#ffffff" >天輪試煉</font><font face="Default" color="#ffffff" >（可提交）</font>
 accept_74473_1=<font face="Default" color="#ffffff" >點到即止，不傷和氣。</font>
@@ -507,4 +427,566 @@ target_74473=在江湖散擂中獲勝1次。
 title_74473=天輪試煉
 accept_74455_1=<font face="Default" color="#ffffff" >活動期間，江湖名俊玩家</font><font face="Default" color="#ffffff" >每天</font><font face="Default" color="#ffffff" >可在我這裡領取</font><font face="Default" color="#ffffff" >護心鏡（內功）或護心鏡（外功）</font>
 context_74455=活動期間，江湖名俊玩家每天可前往蘇州NPC尚武大使（390,768）處領取「肝膽相照」任務,完成後可獲得護心鏡（內功）或護心鏡（外功）。
+CanAcceptMenu_74476=<font face="Default" color="#ffffff" >華服贈群俠（可承接）</font>
+CompleteMenu_74476=<font face="Default" color="#ffffff" >華服贈群俠（可提交）</font>
+accept_74476_1=<font face="Default" color="#ffffff" >活動期間，江湖名俊玩家可</font><font face="Default" color="#ffffff" >在我這裡</font><font face="Default" color="#ffffff" >領取「華服令牌」一份</font>
+complete_74476=<font face="Default" color="#ffffff" >這是給你的獎勵，請收好</font>
+context_74476=活動期間，江湖名俊玩家可在蘇州NPC尚武大使（390,768）處領取「華服令牌」一份
+menu_74476_1=<font face="Default" color="#ffffff" >好的</font>
+next_74476=<a href="findnpc_new,city02,hd_wyhd_001" style="HLStype1">尚武(活動大使)</a>
+submit_74476=<font face="Default" color="#ffffff" >多謝</font>
+target_74476=找到尚武，領取「華服令牌」
+title_74476=華服贈群俠
+complete_74475=<font face="Default" color="#ffffff" >這是給你的獎勵，請收好</font>
+menu_74475_1=<font face="Default" color="#ffffff" >好的</font>
+next_74475=<a href="findnpc_new,city02,hd_wyhd_001" style="HLStype1">尚武(活動大使)</a>
+submit_74475=<font face="Default" color="#ffffff" >多謝</font>
+target_74475=江湖散擂勝利1次後，領取大使賜賞
+complete_74477=<font face="Default" color="#ffffff" >這是給你的獎勵，請收好</font>
+menu_74477_1=<font face="Default" color="#ffffff" >好的</font>
+next_74477=<a href="findnpc_new,city02,hd_wyhd_001" style="HLStype1">尚武(活動大使)</a>
+submit_74477=<font face="Default" color="#ffffff" >多謝</font>
+CanAcceptMenu_74478=<font face="Default" color="#ffffff" >鏢行江湖迎慶典任務</font><font face="Default" color="#ffffff" >（可承接）</font>
+CompleteMenu_74478=<font face="Default" color="#ffffff" >鏢行江湖迎慶典任務</font><font face="Default" color="#ffffff" >（可提交）</font>
+accept_74478_1=<font face="Default" color="#ffffff" >人不離鏢</font>
+complete_74478=<font face="Default" color="#ffffff" >四海同慶</font>
+context_74478=任意鏢局完成5次普通鏢運送。
+menu_74478_1=<font face="Default" color="#ffffff" >鏢不離人</font>
+submit_74478=<font face="Default" color="#ffffff" >鏢行江湖</font>
+target_74478=鏢行江湖迎慶典任務
+title_74478=鏢行江湖迎慶典任務
+CanAcceptMenu_74479=<font face="Default" color="#ffffff" >升品試煉（青雲堡）（可承接）</font>
+CompleteMenu_74479=<font face="Default" color="#ffffff" >升品試煉（青雲堡）（可提交）</font>
+accept_74479_1=<font face="Default" color="#ffffff" >活動期間，江湖名俊玩家可</font><font face="Default" color="#ffffff" >在我這裡</font><font face="Default" color="#ffffff" >領取江湖禁地試煉任務</font>
+complete_74479=<font face="Default" color="#ffffff" >這是給你的獎勵，請收好</font>
+context_74479=活動期間，江湖名俊玩家可在蘇州NPC尚武大使（390,768）處領取江湖禁地試煉任務。
+menu_74479_1=<font face="Default" color="#ffffff" >好的</font>
+next_74479=<a href="findnpc_new,city02,hd_wyhd_001" style="HLStype1">尚武(活動大使)</a>
+submit_74479=<font face="Default" color="#ffffff" >多謝</font>
+target_74479=找到尚武，完成試煉任務，獲得試煉令牌
+title_74479=升品試煉（青雲堡）
+CanAcceptMenu_74480=<font face="Default" color="#ffffff" >升品試煉（龍門客棧）（可承接）</font>
+CompleteMenu_74480=<font face="Default" color="#ffffff" >升品試煉（龍門客棧）（可提交）</font>
+accept_74480_1=<font face="Default" color="#ffffff" >活動期間，江湖名俊玩家可</font><font face="Default" color="#ffffff" >在我這裡</font><font face="Default" color="#ffffff" >領取江湖禁地試煉任務</font>
+complete_74480=<font face="Default" color="#ffffff" >這是給你的獎勵，請收好</font>
+context_74480=活動期間，江湖名俊玩家可在蘇州NPC尚武大使（390,768）處領取江湖禁地試煉任務。
+menu_74480_1=<font face="Default" color="#ffffff" >好的</font>
+next_74480=<a href="findnpc_new,city02,hd_wyhd_001" style="HLStype1">尚武(活動大使)</a>
+submit_74480=<font face="Default" color="#ffffff" >多謝</font>
+target_74480=找到尚武，完成試煉任務，獲得試煉令牌
+title_74480=升品試煉（龍門客棧）
+CanAcceptMenu_74481=<font face="Default" color="#ffffff" >升品試煉（鳳凰山莊）（可承接）</font>
+CompleteMenu_74481=<font face="Default" color="#ffffff" >升品試煉（鳳凰山莊）（可提交）</font>
+accept_74481_1=<font face="Default" color="#ffffff" >活動期間，江湖名俊玩家可</font><font face="Default" color="#ffffff" >在我這裡</font><font face="Default" color="#ffffff" >領取江湖禁地試煉任務</font>
+complete_74481=<font face="Default" color="#ffffff" >這是給你的獎勵，請收好</font>
+context_74481=活動期間，江湖名俊玩家可在蘇州NPC尚武大使（390,768）處領取江湖禁地試煉任務。
+menu_74481_1=<font face="Default" color="#ffffff" >好的</font>
+next_74481=<a href="findnpc_new,city02,hd_wyhd_001" style="HLStype1">尚武(活動大使)</a>
+submit_74481=<font face="Default" color="#ffffff" >多謝</font>
+target_74481=找到尚武，完成試煉任務，獲得試煉令牌
+title_74481=升品試煉（鳳凰山莊）
+CanAcceptMenu_74482=<font face="Default" color="#ffffff" >雙子（可承接）</font>
+CompleteMenu_74482=<font face="Default" color="#ffffff" >雙子（可提交）</font>
+accept_74482_1=<font face="Default" color="#ffffff" >只使用《留雲借月笈》套路擊敗雙子殺手。</font>
+complete_74482=<font face="Default" color="#ffffff" >你在武學上的天分真的讓人驚歎！</font>
+context_74482=使用《留雲借月笈》武學擊敗雙子殺手。
+menu_74482_1=<font face="Default" color="#ffffff" >我這就去。</font>
+submit_74482=<font face="Default" color="#ffffff" >多謝誇獎。</font>
+target_74482=使用《留雲借月笈》武學擊敗雙子殺手。
+title_74482=雙子殺手
+accept_74401_1=<font face="Default" color="#ffffff" >希望大俠能順利通過試煉。</font>
+accept_74402_1=<font face="Default" color="#ffffff" >希望大俠能順利通過試煉。</font>
+accept_74403_1=<font face="Default" color="#ffffff" >希望大俠能順利通過試煉。</font>
+accept_74404_1=<font face="Default" color="#ffffff" >希望大俠能順利通過試煉。</font>
+accept_74405_1=<font face="Default" color="#ffffff" >希望大俠能順利通過試煉。</font>
+complete_74401=<font face="Default" color="#ffffff" >大俠果然神勇！</font>
+complete_74402=<font face="Default" color="#ffffff" >大俠果然神勇！</font>
+complete_74403=<font face="Default" color="#ffffff" >大俠果然神勇！</font>
+complete_74404=<font face="Default" color="#ffffff" >大俠果然神勇！</font>
+complete_74405=<font face="Default" color="#ffffff" >大俠果然神勇！</font>
+menu_74401_1=<font face="Default" color="#ffffff" >等我速速就回。</font>
+menu_74402_1=<font face="Default" color="#ffffff" >等我速速就回。</font>
+menu_74403_1=<font face="Default" color="#ffffff" >等我速速就回。</font>
+menu_74404_1=<font face="Default" color="#ffffff" >等我速速就回。</font>
+menu_74405_1=<font face="Default" color="#ffffff" >等我速速就回。</font>
+next_74404=通關宗門試煉（普通）
+next_74405=通關宗門試煉（困難）
+target_74404=通關宗門試煉（普通）
+target_74405=通關宗門試煉（困難）
+complete_74483=<font face="Default" color="#ffffff" >這是給你的獎勵，請收好</font>
+menu_74483_1=<font face="Default" color="#ffffff" >好的</font>
+submit_74483=<font face="Default" color="#ffffff" >多謝</font>
+target_74483=江湖散擂勝利1次後，領取大使賜賞
+CanAcceptMenu_74453=<font face="Default" color="#ffffff" >江湖遊歷</font><font face="Default" color="#ffffff" >（可承接）</font>
+CompleteMenu_74453=<font face="Default" color="#ffffff" >江湖遊歷</font><font face="Default" color="#ffffff" >（可提交）</font>
+accept_74453_1=<font face="Default" color="#ffffff" >廣邀江湖豪俠，對其他玩家使用</font><font face="Default" color="#ffffff" >遊歷帖</font>
+context_74453=使用10本心得手札在尚武處兌換遊歷帖，對其他玩家扔出5次遊歷帖。
+target_74453=對其他玩家扔出5次遊歷帖。
+title_74453=江湖遊歷
+complete_74484=<font face="Default" color="#ffffff" >這是給你的獎勵，請收好</font>
+menu_74484_1=<font face="Default" color="#ffffff" >好的。</font>
+submit_74484=<font face="Default" color="#ffffff" >多謝。</font>
+target_74484=完成1次高級外域遺珍挖寶
+CanAcceptMenu_74440=<font face="Default" color="#ffffff" >群俠修武（50點活躍度）</font><font face="Default" color="#ffffff" >（可承接）</font>
+CompleteMenu_74440=<font face="Default" color="#ffffff" >群俠修武（50點活躍度）</font><font face="Default" color="#ffffff" >（可提交）</font>
+target_74440=群俠修武（50點活躍度）
+title_74440=群俠修武（50點活躍度）
+CanAcceptMenu_74485=<font face="Default" color="#ffffff" >尚武試煉（可承接）</font>
+CompleteMenu_74485=<font face="Default" color="#ffffff" >尚武試煉（可提交）</font>
+accept_74485_1=<font face="Default" color="#ffffff" >活動期間，江湖名俊玩家每天可</font><font face="Default" color="#ffffff" >在我這裡</font><font face="Default" color="#ffffff" >領取江湖尚武試煉任務</font>
+complete_74485=<font face="Default" color="#ffffff" >這是給你的獎勵，請收好</font>
+context_74485=活動期間，江湖名俊玩家每天可在蘇州NPC尚武大使（390,768）處領取江湖尚武試煉任務。
+menu_74485_1=<font face="Default" color="#ffffff" >好的</font>
+next_74485=<a href="findnpc_new,city02,hd_wyhd_001" style="HLStype1">尚武(活動大使)</a>
+submit_74485=<font face="Default" color="#ffffff" >多謝</font>
+target_74485=找到尚武，完成試煉任務，獲得尚武令
+title_74485=尚武試煉
+CanAcceptMenu_74486=尚武贈禮（可承接）
+CompleteMenu_74486=尚武贈禮（可提交）
+accept_74486_1=活動期間，江湖名俊玩家可在我這裡領取翡翠娃娃淬煉券*300，勤武令*1
+complete_74486=這是給你的獎勵，請收好
+context_74486=活動期間，江湖名俊玩家可在蘇州NPC尚武大使（390,768）處領取翡翠娃娃淬煉券*300，勤武令*1
+menu_74486_1=好的
+next_74486=<a href="findnpc_new,city02,hd_wyhd_001" style="HLStype1">尚武(活動大使)</a>
+submit_74486=多謝
+target_74486=找到尚武，領取翡翠娃娃淬煉券*300，勤武令*1
+title_74486=尚武贈禮
+CanAcceptMenu_74487=<font face="Default" color="#ffffff" >鏢行江湖（可接取）</font>
+CanAcceptMenu_74488=<font face="Default" color="#ffffff" >書海慶典（可接取）</font>
+CanAcceptMenu_74489=<font face="Default" color="#ffffff" >書海縱橫（可接取）</font>
+CompleteMenu_74487=<font face="Default" color="#ffffff" >鏢行江湖（已完成）</font>
+CompleteMenu_74488=<font face="Default" color="#ffffff" >書海慶典（</font><font face="Default" color="#ffffff" >已完成</font><font face="Default" color="#ffffff" >）</font>
+CompleteMenu_74489=<font face="Default" color="#ffffff" >書海縱橫（</font><font face="Default" color="#ffffff" >已完成</font><font face="Default" color="#ffffff" >）</font>
+accept_74487_1=<font face="Default" color="#ffffff" >活動期間，江湖名俊玩家每天可在我處接取「</font><font face="Default" color="#ffffff" >鏢行江湖</font><font face="Default" color="#ffffff" >」任務。</font>
+accept_74488_1=<font face="Default" color="#ffffff" >活動期間，江湖名俊玩家可在我處一次性領取：慶典令牌*1。</font>
+accept_74489_1=<font face="Default" color="#ffffff" >活動期間，江湖名俊玩家每天可在我處接取「</font><font face="Default" color="#ffffff" >書海縱橫</font><font face="Default" color="#ffffff" >」任務。</font>
+complete_74487=<font face="Default" color="#ffffff" >這是給你的獎勵，請收好！</font>
+complete_74488=<font face="Default" color="#ffffff" >這是給你的獎勵，請收好</font><font face="Default" color="#ffffff" >！</font>
+complete_74489=<font face="Default" color="#ffffff" >這是給你的獎勵，請收好</font><font face="Default" color="#ffffff" >！</font>
+context_74487=活動期間，江湖名俊每天前往蘇州<a href="findnpc_new,city02,hd_wyhd_001" style="HLStype1">尚武(活動大使)</a>處接取「鏢行江湖」任務。
+context_74488=活動期間，江湖名俊可前往蘇州<a href="findnpc_new,city02,hd_wyhd_001" style="HLStype1">尚武(活動大使)</a>處一次性領取：慶典令牌*1
+context_74489=活動期間，江湖名俊每天可前往蘇州<a href="findnpc_new,city02,hd_wyhd_001" style="HLStype1">尚武(活動大使)</a>處接取「書海縱橫」任務。
+menu_74487_1=<font face="Default" color="#ffffff" >好的</font>
+menu_74488_1=<font face="Default" color="#ffffff" >好的。</font>
+menu_74489_1=<font face="Default" color="#ffffff" >好的。</font>
+submit_74487=<font face="Default" color="#ffffff" >多謝</font>
+submit_74488=<font face="Default" color="#ffffff" >多謝。</font>
+submit_74489=<font face="Default" color="#ffffff" >多謝。</font>
+target_74487=任意鏢局完成5次普通鏢運送。
+target_74488=領取：慶典令牌*1
+target_74489=攻克3名奪書或者護書弟子。
+title_74487=鏢行江湖
+title_74488=書海慶典
+title_74489=書海縱橫
+CanAcceptMenu_74490=<font face="Default" color="#ffffff" >升品助力（可承接）</font>
+CompleteMenu_74490=<font face="Default" color="#ffffff" >升品助力（可提交）</font>
+accept_74490_1=<font face="Default" color="#ffffff" >活動期間，江湖名俊玩家可</font><font face="Default" color="#ffffff" >在我這裡</font><font face="Default" color="#ffffff" >領取升品（壹），升品（貳），升品（三）三塊令牌</font>
+complete_74490=<font face="Default" color="#ffffff" >這是給你的獎勵，請收好</font>
+context_74490=活動期間，江湖名俊玩家可在蘇州NPC尚武大使（390,768）處領取升品（壹），升品（貳），升品（三）三塊令牌
+menu_74490_1=<font face="Default" color="#ffffff" >好的</font>
+next_74490=<a href="findnpc_new,city02,hd_wyhd_001" style="HLStype1">尚武(活動大使)</a>
+submit_74490=<font face="Default" color="#ffffff" >多謝</font>
+target_74490=找到尚武，領取升品（壹），升品（貳），升品（三）
+title_74490=升品助力
+complete_74491=<font face="Default" color="#ffffff" >這是完成獎勵，請收好</font>
+menu_74491_1=<font face="Default" color="#ffffff" >好</font><font face="Default" color="#ffffff" >的</font>
+submit_74491=<font face="Default" color="#ffffff" >多謝</font>
+target_74491=參與古墓戰場、武道大會、群鋒問武、雲峰決戰四類戰場中任意一場。
+SubmitNpcEx_74491=<a href="findnpc_new,city02,hd_wyhd_001" style="HLStype1">尚武(活動大使)</a>
+CanAcceptMenu_74401=<font face="Default" color="#ffffff" >【活動】靈寵奇緣—暮色之村</font>
+CanAcceptMenu_74402=<font face="Default" color="#ffffff" >【活動】靈寵奇緣—青雲堡</font>
+CanAcceptMenu_74403=<font face="Default" color="#ffffff" >【活動】靈寵奇緣—鳳凰山莊</font>
+CanAcceptMenu_74404=<font face="Default" color="#ffffff" >【活動】靈寵奇緣—宗門試煉（普通）</font>
+CanAcceptMenu_74405=<font face="Default" color="#ffffff" >【活動】靈寵奇緣—宗門試煉（困難）</font>
+CompleteMenu_74401=<font face="Default" color="#ffffff" >【活動】靈寵奇緣—暮色之村</font><font face="Default" color="#ffffff" >（已完成）</font>
+CompleteMenu_74402=<font face="Default" color="#ffffff" >【活動】靈寵奇緣—青雲堡</font><font face="Default" color="#ffffff" >（已完成）</font>
+CompleteMenu_74403=<font face="Default" color="#ffffff" >【活動】靈寵奇緣—鳳凰山莊</font><font face="Default" color="#ffffff" >（已完成）</font>
+CompleteMenu_74404=<font face="Default" color="#ffffff" >【活動】靈寵奇緣—宗門試煉（普通）</font><font face="Default" color="#ffffff" >（已完成）</font>
+CompleteMenu_74405=<font face="Default" color="#ffffff" >【活動】靈寵奇緣—宗門試煉（困難）</font><font face="Default" color="#ffffff" >（已完成）</font>
+context_74401=通關暮色之村，完成靈寵奇緣。（暮色之村（序）無法完成任務）
+context_74402=通關青雲堡，完成靈寵奇緣。（青雲堡（序）無法完成任務）
+context_74403=通關鳳凰山莊，完成靈寵奇緣。（鳳凰山莊（序）無法完成任務）
+context_74404=通關宗門試煉（普通），完成靈寵奇緣。
+context_74405=通關宗門試煉（困難），完成靈寵奇緣。
+submit_74401=<font face="Default" color="#ffffff" >【活動】靈寵奇緣—暮色之村</font><font face="Default" color="#ffffff" >（已完成）</font>
+submit_74402=<font face="Default" color="#ffffff" >【活動】靈寵奇緣—青雲堡</font><font face="Default" color="#ffffff" >（已完成）</font>
+submit_74403=<font face="Default" color="#ffffff" >【活動】靈寵奇緣—鳳凰山莊</font><font face="Default" color="#ffffff" >（已完成）</font>
+submit_74404=<font face="Default" color="#ffffff" >【活動】靈寵奇緣—宗門試煉（普通）</font><font face="Default" color="#ffffff" >（已完成）</font>
+submit_74405=<font face="Default" color="#ffffff" >【活動】靈寵奇緣—宗門試煉（困難）</font><font face="Default" color="#ffffff" >（已完成）</font>
+title_74401=【活動】靈寵奇緣—暮色之村
+title_74402=【活動】靈寵奇緣—青雲堡
+title_74403=【活動】靈寵奇緣—鳳凰山莊
+title_74404=【活動】靈寵奇緣—宗門試煉（普通）
+title_74405=【活動】靈寵奇緣—宗門試煉（困難）
+next_74491=<a href="findnpc_new,city02,hd_wyhd_001" style="HLStype1">尚武(活動大使)</a>
+CanAcceptMenu_74493=<font face="Default" color="#ffffff" >尚武修行（可承接）</font>
+CompleteMenu_74493=<font face="Default" color="#ffffff" >尚武修行（可提交）</font>
+accept_74493_1=<font face="Default" color="#ffffff" >活動期間，江湖名俊玩家可</font><font face="Default" color="#ffffff" >在我這裡</font><font face="Default" color="#ffffff" >領取百年雪蓮果*25、混元易筋丹*250、鳳血丹（1天）*250、隱世通用聲望券禮包（1萬）*2</font>
+complete_74493=<font face="Default" color="#ffffff" >這是給你的獎勵，請收好</font>
+context_74493=活動期間，江湖名俊玩家可在蘇州NPC尚武大使（390,768）處領取獎勵
+menu_74493_1=<font face="Default" color="#ffffff" >好的</font>
+next_74493=<a href="findnpc_new,city02,hd_wyhd_001" style="HLStype1">尚武(活動大使)</a>
+submit_74493=<font face="Default" color="#ffffff" >多謝</font>
+target_74493=找到尚武，領取獎勵
+title_74493=尚武修行
+CanAcceptMenu_74494=<font face="Default" color="#ffffff" >新春升品（可承接）</font>
+CompleteMenu_74494=<font face="Default" color="#ffffff" >新春升品（可提交）</font>
+accept_74494_1=<font face="Default" color="#ffffff" >活動期間，江湖名俊玩家可</font><font face="Default" color="#ffffff" >在我這裡</font><font face="Default" color="#ffffff" >領取升品（壹），升品（貳），升品（三）三塊令牌</font>
+complete_74494=<font face="Default" color="#ffffff" >這是給你的獎勵，請收好</font>
+context_74494=活動期間，江湖名俊玩家可在蘇州NPC尚武大使（390,768）處領取升品（壹），升品（貳），升品（三）三塊令牌
+menu_74494_1=<font face="Default" color="#ffffff" >好的</font>
+next_74494=<a href="findnpc_new,city02,hd_wyhd_001" style="HLStype1">尚武(活動大使)</a>
+submit_74494=<font face="Default" color="#ffffff" >多謝</font>
+target_74494=找到尚武，領取升品（壹），升品（貳），升品（三）
+title_74494=新春升品
+CanAcceptMenu_74475=<font face="Default" color="#ffffff" >精武興邦（可承接）</font>
+CompleteMenu_74475=<font face="Default" color="#ffffff" >精武興邦（可提交）</font>
+title_74475=精武興邦
+next_74484=回復<a href="findnpc_new,city02,hd_wyhd_001" style="HLStype1">尚武(活動大使)</a>
+CanAcceptMenu_74495=<font face="Default" color="#ffffff" >寒泉淬體</font><font face="Default" color="#ffffff" >（可承接）</font>
+CompleteMenu_74495=<font face="Default" color="#ffffff" >寒泉淬體</font><font face="Default" color="#ffffff" >（可提交）</font>
+accept_74495_1=<font face="Default" color="#ffffff" >本門地形特殊，淺灘之中常有地底之氣噴湧而出，沐浴其中可淬煉體魄，前往並獲得30次淬體效果後回來找我。</font>
+complete_74495=<font face="Default" color="#ffffff" >這是完成獎勵，請收好</font>
+context_74495=本門地形特殊，淺灘之中常有地底之氣噴湧而出，沐浴其中可淬煉體魄，前往並獲得30次淬體效果後回來找我。（玩法開始後，躲避洶湧的噴泉，在紫色寒氣噴發時進入其範圍獲得淬體效果）
+menu_74495_1=<font face="Default" color="#ffffff" >好</font><font face="Default" color="#ffffff" >的</font>
+submit_74495=<font face="Default" color="#ffffff" >多謝</font>
+target_74495=參與寒泉淬體玩法，達到淬體次數後完成本任務。
+title_74495=寒泉淬體（日常）
+interactinfo_74424=找到<a href="findnpc_new,adv183,qfg_fc_001" style="HLStype1">俞煙</a>，對話進入晴芳宮寒泉淬體玩法，在玩法中獲得30次淬體效果。（玩法開始後，躲避洶湧的噴泉，在紫色寒氣噴發時進入其範圍獲得淬體效果）
+CanAcceptMenu_74496=<font face="Default" color="#ffffff" >尚武迎新（名俊）（可承接）</font>
+CompleteMenu_74496=<font face="Default" color="#ffffff" >尚武迎新（名俊）（可提交）</font>
+accept_74496_1=<font face="Default" color="#ffffff" >活動期間，江湖名俊玩家可</font><font face="Default" color="#ffffff" >在我這裡</font><font face="Default" color="#ffffff" >領取【名俊迎新】禮包*1</font>
+complete_74496=<font face="Default" color="#ffffff" >這是給你的獎勵，請收好</font>
+context_74496=活動期間，江湖名俊玩家可在蘇州NPC尚武大使（390,768）處領取獎勵
+menu_74496_1=<font face="Default" color="#ffffff" >好的</font>
+next_74496=<a href="findnpc_new,city02,hd_wyhd_001" style="HLStype1">尚武(活動大使)</a>
+submit_74496=<font face="Default" color="#ffffff" >多謝</font>
+target_74496=找到尚武，領取獎勵
+title_74496=尚武迎新（名俊）
+SubmitNpcEx_74496=<a href="findnpc_new,city02,hd_wyhd_001" style="HLStype1">尚武(活動大使)</a>
+CanAcceptMenu_74497=<font face="Default" color="#ffffff" >尚武迎新（精修）（可承接）</font>
+CompleteMenu_74497=<font face="Default" color="#ffffff" >尚武迎新（精修）（可提交）</font>
+accept_74497_1=<font face="Default" color="#ffffff" >活動期間，江湖名俊玩家可</font><font face="Default" color="#ffffff" >在我這裡</font><font face="Default" color="#ffffff" >領取【精修迎新】禮包*1</font>
+complete_74497=<font face="Default" color="#ffffff" >這是給你的獎勵，請收好</font>
+context_74497=活動期間，江湖名俊玩家可在蘇州NPC尚武大使（390,768）處領取獎勵
+menu_74497_1=<font face="Default" color="#ffffff" >好的</font>
+next_74497=<a href="findnpc_new,city02,hd_wyhd_001" style="HLStype1">尚武(活動大使)</a>
+submit_74497=<font face="Default" color="#ffffff" >多謝</font>
+target_74497=找到尚武，領取獎勵
+title_74497=尚武迎新（精修）
+SubmitNpcEx_74497=<a href="findnpc_new,city02,hd_wyhd_001" style="HLStype1">尚武(活動大使)</a>
+context_74440=前往金陵<a href="findnpc_new,city03,npc_sworn002" style="HLStype1">關志（帝廟結拜指引人）</a>處祭拜武聖後，挑戰武聖侍從。完成後可直接領取<font color="#00ff00">50點活躍度</font>及風蝕露（1天）*1，紫靈丹（1天）*1 。
+CanAcceptMenu_74439=<font face="Default" color="#ffffff" >開卷有益讀萬卷書（可承接）</font>
+CompleteMenu_74439=<font face="Default" color="#ffffff" >開卷有益讀萬卷書（可提交）</font>
+accept_74439_1=<font face="Default" color="#ffffff" >活動期間，江湖名俊玩家每天可以在此處接取任務：開卷有益，讀萬卷書。求得「神秘書笈」一份。</font>
+context_74439=活動期間，江湖名俊玩家每天可以前往蘇州嚴倫（472,433）處接取任務：開卷有益，讀萬卷書。任務完成後，即可獲取「神秘書笈」一份。
+title_74439=開卷有益，讀萬卷書
+CanAcceptMenu_74491=<font face="Default" color="#ffffff" >戰場爭鋒（50點活躍度）</font><font face="Default" color="#ffffff" >（可承接）</font>
+CompleteMenu_74491=<font face="Default" color="#ffffff" >戰場爭鋒（50點活躍度）</font><font face="Default" color="#ffffff" >（可提交）</font>
+accept_74491_1=<font face="Default" color="#ffffff" >活動期間，江湖名俊玩家每天可前往蘇州尚武大使（390,768）處接取「戰場爭鋒」任務，完成後可直接領取</font><font color="#00ff00">50點活躍度</font>及玉蜂漿（1天）*2，俠惡道兌換令*2
+context_74491=活動期間，江湖名俊玩家每天可前往蘇州尚武大使（390,768）處接取「戰場爭鋒」任務，完成後可直接領取<font color="#00ff00">50點活躍度</font>及玉蜂漿（1天）*2，俠惡道兌換令*2
+title_74491=戰場爭鋒（50點活躍度）
+CanAcceptMenu_74498=<font face="Default" color="#ffffff" >迎新好禮（可承接）</font>
+CompleteMenu_74498=<font face="Default" color="#ffffff" >迎新好禮（可提交）</font>
+accept_74498_1=<font face="Default" color="#ffffff" >活動期間，江湖名俊玩家可</font><font face="Default" color="#ffffff" >在我這裡</font><font face="Default" color="#ffffff" >領取迎新（壹），迎新（貳），迎新（三）三塊令牌</font>
+complete_74498=<font face="Default" color="#ffffff" >這是給你的獎勵，請收好</font>
+context_74498=活動期間，江湖名俊玩家可在蘇州NPC尚武大使（390,768）處領取迎新（壹），迎新（貳），迎新（三）三塊令牌
+menu_74498_1=<font face="Default" color="#ffffff" >好的</font>
+next_74498=<a href="findnpc_new,city02,hd_wyhd_001" style="HLStype1">尚武(活動大使)</a>
+submit_74498=<font face="Default" color="#ffffff" >多謝</font>
+target_74498=找到尚武，領取迎新（壹），迎新（貳），迎新（三）
+title_74498=迎新好禮
+SubmitNpcEx_74498=<a href="findnpc_new,city02,hd_wyhd_001" style="HLStype1">尚武(活動大使)</a>
+CanAcceptMenu_74499=<font face="Default" color="#ffffff" >尚武迎新（名俊）（可承接）</font>
+CompleteMenu_74499=<font face="Default" color="#ffffff" >尚武迎新（名俊）（可提交）</font>
+accept_74499_1=<font face="Default" color="#ffffff" >活動期間，江湖名俊玩家可</font><font face="Default" color="#ffffff" >在我這裡</font><font face="Default" color="#ffffff" >領取尚武名俊禮包*1</font>
+complete_74499=<font face="Default" color="#ffffff" >這是給你的獎勵，請收好</font>
+context_74499=活動期間，江湖名俊玩家可在蘇州NPC尚武大使（390,768）處領取獎勵
+menu_74499_1=<font face="Default" color="#ffffff" >好的</font>
+next_74499=<a href="findnpc_new,city02,hd_wyhd_001" style="HLStype1">尚武(活動大使)</a>
+submit_74499=<font face="Default" color="#ffffff" >多謝</font>
+target_74499=找到尚武，領取獎勵
+title_74499=尚武迎新（名俊）
+SubmitNpcEx_74499=<a href="findnpc_new,city02,hd_wyhd_001" style="HLStype1">尚武(活動大使)</a>
+CanAcceptMenu_74500=<font face="Default" color="#ffffff" >尚武迎新（精修）（可承接）</font>
+CompleteMenu_74500=<font face="Default" color="#ffffff" >尚武迎新（精修）（可提交）</font>
+accept_74500_1=<font face="Default" color="#ffffff" >活動期間，江湖名俊玩家可</font><font face="Default" color="#ffffff" >在我這裡</font><font face="Default" color="#ffffff" >領取尚武精修禮包*1</font>
+complete_74500=<font face="Default" color="#ffffff" >這是給你的獎勵，請收好</font>
+context_74500=活動期間，江湖名俊玩家可在蘇州NPC尚武大使（390,768）處領取獎勵
+menu_74500_1=<font face="Default" color="#ffffff" >好的</font>
+next_74500=<a href="findnpc_new,city02,hd_wyhd_001" style="HLStype1">尚武(活動大使)</a>
+submit_74500=<font face="Default" color="#ffffff" >多謝</font>
+target_74500=找到尚武，領取獎勵
+title_74500=尚武迎新（精修）
+SubmitNpcEx_74500=<a href="findnpc_new,city02,hd_wyhd_001" style="HLStype1">尚武(活動大使)</a>
+CanAcceptMenu_74501=<font face="Default" color="#ffffff" >尚武迎新（勤修）（可承接）</font>
+CompleteMenu_74501=<font face="Default" color="#ffffff" >尚武迎新（勤修）（可提交）</font>
+accept_74501_1=<font face="Default" color="#ffffff" >活動期間，江湖名俊玩家可</font><font face="Default" color="#ffffff" >在我這裡</font><font face="Default" color="#ffffff" >領取尚武勤修禮包*1</font>
+complete_74501=<font face="Default" color="#ffffff" >這是給你的獎勵，請收好</font>
+context_74501=活動期間，江湖名俊玩家可在蘇州NPC尚武大使（390,768）處領取獎勵
+menu_74501_1=<font face="Default" color="#ffffff" >好的</font>
+next_74501=<a href="findnpc_new,city02,hd_wyhd_001" style="HLStype1">尚武(活動大使)</a>
+submit_74501=<font face="Default" color="#ffffff" >多謝</font>
+target_74501=找到尚武，領取獎勵
+title_74501=尚武迎新（勤修）
+SubmitNpcEx_74501=<a href="findnpc_new,city02,hd_wyhd_001" style="HLStype1">尚武(活動大使)</a>
+CanAcceptMenu_74502=<font face="Default" color="#ffffff" >秘笈參悟（可承接）</font>
+CompleteMenu_74502=<font face="Default" color="#ffffff" >秘笈參悟（可提交）</font>
+accept_74502_1=<font face="Default" color="#ffffff" >活動期間，江湖名俊玩家每天可</font><font face="Default" color="#ffffff" >在我這裡</font><font face="Default" color="#ffffff" >領取秘笈參悟任務，花費50個心得手札，獲得造化老人「秘笈寶箱」一個</font>
+complete_74502=<font face="Default" color="#ffffff" >這是給你的獎勵，請收好</font>
+context_74502=活動期間，江湖名俊玩家每天可前往洛陽造化老人（1070,671）處接取任務：「秘笈參悟」，花費50個心得手札，獲得造化老人「秘笈寶箱」一個。
+menu_74502_1=<font face="Default" color="#ffffff" >好的</font>
+next_74502=<a href="findnpc_new,city04,WorldNpc10354" style="HLStype1">造化老人</a>
+submit_74502=<font face="Default" color="#ffffff" >多謝</font>
+target_74502=找到造化老人，花費50個心得手札，獲得造化老人「秘笈寶箱」一個。
+title_74502=秘笈參悟
+SubmitNpcEx_74502=與<a href="findnpc_new,city04,WorldNpc10354" style="HLStype1">造化老人</a>交談
+interactinfo_74502=獲得50個心得手札後與<a href="findnpc_new,city04,WorldNpc10354" style="HLStype1">造化老人</a>交談
+DialogID_74502=花費50個心得手札獲得「秘笈寶箱」一個。
+okmenu_74502=好的
+CanAcceptMenu_74484=<font face="Default" color="#ffffff" >江湖尋寶（可承接）</font>
+CompleteMenu_74484=<font face="Default" color="#ffffff" >江湖尋寶（可提交）</font>
+accept_74484_1=<font face="Default" color="#ffffff" >活動期間，江湖名俊玩家每天可在我處接取「江湖尋寶」任務。</font>
+context_74484=活動期間，江湖名俊玩家每天可前往蘇州尚武大使（390，768）處接取「江湖尋寶」任務：完成1次高級外域遺珍挖寶。
+CanAcceptMenu_74414=<font face="Default" color="#ffffff" >家園迎賓（可承接）</font>
+CompleteMenu_74414=<font face="Default" color="#ffffff" >家園迎賓（可提交）</font>
+context_74414=活動期間，江湖名俊玩家每天前往蘇州NPC荊惠娟（432,812）處，接取「家園迎賓」任務：拜訪他人家園，完成一次掃地，完成後可直接領取貴賓令*1，心心相印（煙花）*1，永浴愛河（煙花）*1。
+title_74414=家園迎賓
+accept_74414_1=<font face="Default" color="#ffffff" >活動期間，江湖名俊玩家每天前往蘇州NPC荊惠娟（432,812）處，接取「家園迎賓」。</font>完成後可直接領取</font>貴賓令*1，心心相印（煙花）*1，永浴愛河（煙花）*1
+accept_74475_1=<font face="Default" color="#ffffff" >活動期間，江湖名俊玩家每天可在我處接取「精武興邦」任務，完成後可直接領取</font><font color="#00ff00">行腳令（1天）*2， 十香返生丸（1天）*2，定神護心丹（1天）*2 。</font>
+context_74475=活動期間，江湖名俊玩家每天可前往蘇州尚武大使（390,768）處接取「精武興邦」任務，完成後可直接領取<font color="#00ff00">行腳令（1天）*2， 十香返生丸（1天）*2，定神護心丹（1天）*2。</font>
+CanAcceptMenu_74477=<font face="Default" color="#ffffff" >心魔挑戰（可承接）</font>
+CompleteMenu_74477=<font face="Default" color="#ffffff" >心魔挑戰（可提交）</font>
+accept_74477_1=<font face="Default" color="#ffffff" >活動期間，江湖名俊玩家每天可在我處接取「心魔挑戰」任務，完成後可領取</font><font color="#00ff00">紫靈丹（1天）*2，風蝕露（1天）*2，小體型丹藥包（1天）*2。</font>
+context_74477=活動期間，江湖名俊玩家每天可前往蘇州尚武大使（390,768）處接取「心魔挑戰」任務，完成後可領取<font color="#00ff00">紫靈丹（1天）*2，風蝕露（1天）*2，小體型丹藥包（1天）*2。</font>
+target_74477=心魔挑戰勝利1次後，領取大使賜賞
+title_74477=心魔挑戰
+title_74484=江湖尋寶
+CanAcceptMenu_74503=<font face="Default" color="#ffffff" >東海風雲（50點活躍度）（可承接）</font>
+CompleteMenu_74503=<font face="Default" color="#ffffff" >東海風雲（50點活躍度）（可</font><font face="Default" color="#ffffff" >提交</font><font face="Default" color="#ffffff" >）</font>
+accept_74503_1=<font face="Default" color="#ffffff" >武林風起雲湧，東海異象重生，勞煩少俠前往東海諸地一探究竟。（50點活躍度）</font>
+complete_74503=<font face="Default" color="#ffffff" >做的很好！</font>
+context_74503=武林風起雲湧，東海異象重生。武林盟主林天南邀請有志之士，前往東海諸地一探究竟。活動期間，江湖名俊玩家每天可前往蘇州NPC林天南（390，768）處，接取「東海風雲」任務，完成後可獲得50點活躍度及獎勵包。
+menu_74503_1=<font face="Default" color="#ffffff" >東海風雲（</font><font face="Default" color="#ffffff" >已</font><font face="Default" color="#ffffff" >承接）</font>
+submit_74503=<font face="Default" color="#ffffff" >東海風雲（已</font><font face="Default" color="#ffffff" >完成</font><font face="Default" color="#ffffff" >）</font>
+target_74503=前往蘇州NPC林天南（390，768）處，接取「東海風雲」任務。
+title_74503=東海風雲（50點活躍度）
+CanAcceptMenu_74504=<font face="Default" color="#ffffff" >週年慶典（可承接）</font>
+CompleteMenu_74504=<font face="Default" color="#ffffff" >週年慶典（可提交）</font>
+accept_74504_1=<font face="Default" color="#ffffff" >活動期間，江湖名俊玩家可</font><font face="Default" color="#ffffff" >在我這裡</font><font face="Default" color="#ffffff" >領取慶典至尊禮包</font>
+complete_74504=<font face="Default" color="#ffffff" >這是給你的獎勵，請收好</font>
+context_74504=活動期間，江湖名俊玩家可在蘇州NPC尚武大使（390,768）處領取慶典至尊禮包
+menu_74504_1=<font face="Default" color="#ffffff" >好的</font>
+next_74504=<a href="findnpc_new,city02,hd_wyhd_001" style="HLStype1">尚武(活動大使)</a>
+submit_74504=<font face="Default" color="#ffffff" >多謝</font>
+target_74504=找到尚武，領取慶典至尊禮包
+title_74504=週年慶典
+SubmitNpcEx_74504=<a href="findnpc_new,city02,hd_wyhd_001" style="HLStype1">尚武(活動大使)</a>
+CanAcceptMenu_74505=<font face="Default" color="#ffffff" >七夕江湖情（可承接）</font>
+CompleteMenu_74505=<font face="Default" color="#ffffff" >七夕江湖情（可提交）</font>
+accept_74505_1=<font face="Default" color="#ffffff" >活動期間，江湖名俊玩家可</font><font face="Default" color="#ffffff" >在我這裡</font><font face="Default" color="#ffffff" >領取【七夕江湖情】禮包</font>
+complete_74505=<font face="Default" color="#ffffff" >這是給你的獎勵，請收好</font>
+context_74505=活動期間，江湖名俊玩家可在成都七情郡主（549,529）處領取【七夕江湖情】禮包
+menu_74505_1=<font face="Default" color="#ffffff" >好的</font>
+next_74505=<a href="findnpc_new,city05,fqrwnpc_1012" style="HLStype1">七情郡主</a>
+submit_74505=<font face="Default" color="#ffffff" >多謝</font>
+target_74505=找到七情郡主，領取【七夕江湖情】禮包
+title_74505=七夕江湖情
+SubmitNpcEx_74505=找到<a href="findnpc_new,city05,fqrwnpc_1012" style="HLStype1">七情郡主</a>
+CanAcceptMenu_74436=<font face="Default" color="#ffffff" >巧拜織女（可承接）</font>
+CompleteMenu_74436=<font face="Default" color="#ffffff" >巧拜織女（可提交）</font>
+CanAcceptMenu_74483=<font face="Default" color="#ffffff" >擂台爭鋒（可承接）</font>
+CompleteMenu_74483=<font face="Default" color="#ffffff" >擂台爭鋒（可提交）</font>
+accept_74483_1=<font face="Default" color="#ffffff" >活動期間，江湖名俊玩家每天可在我處接取「</font><font face="Default" color="#ffffff" >擂台爭鋒</font><font face="Default" color="#ffffff" >」任務，完成後可領取大使賜賞</font>
+context_74483=活動期間，江湖名俊玩家每天可前往蘇州尚武大使（390,768）處接取「擂台爭鋒」任務，完成後可領取大使賜賞
+title_74483=擂台爭鋒
+CanAcceptMenu_74506=<font face="Default" color="#ffffff" >江湖賀禮（可承接）</font>
+CompleteMenu_74506=<font face="Default" color="#ffffff" >江湖賀禮（可提交）</font>
+accept_74506_1=<font face="Default" color="#ffffff" >活動期間，江湖名俊玩家可</font><font face="Default" color="#ffffff" >在我這裡</font><font face="Default" color="#ffffff" >領取江湖賀禮</font>
+complete_74506=<font face="Default" color="#ffffff" >這是給你的獎勵，請收好</font>
+context_74506=活動期間，江湖名俊玩家可在蘇州NPC尚武大使（390,768）處領取江湖賀禮
+menu_74506_1=<font face="Default" color="#ffffff" >好的</font>
+next_74506=<a href="findnpc_new,city02,hd_wyhd_001" style="HLStype1">尚武(活動大使)</a>
+submit_74506=<font face="Default" color="#ffffff" >多謝</font>
+target_74506=找到尚武，領取江湖賀禮
+title_74506=江湖賀禮
+SubmitNpcEx_74506=<a href="findnpc_new,city02,hd_wyhd_001" style="HLStype1">尚武(活動大使)</a>
+CanAcceptMenu_74507=<font face="Default" color="#ffffff" >升品助力（可承接）</font>
+CompleteMenu_74507=<font face="Default" color="#ffffff" >升品助力（可提交）</font>
+accept_74507_1=<font face="Default" color="#ffffff" >活動期間，江湖名俊玩家可</font><font face="Default" color="#ffffff" >在我這裡</font><font face="Default" color="#ffffff" >領取升品（壹），升品（貳），升品（三）三塊令牌</font>
+complete_74507=<font face="Default" color="#ffffff" >這是給你的獎勵，請收好</font>
+context_74507=活動期間，江湖名俊玩家可在蘇州NPC尚武大使（390,768）處領取升品（壹），升品（貳），升品（三）三塊令牌
+menu_74507_1=<font face="Default" color="#ffffff" >好的</font>
+next_74507=<a href="findnpc_new,city02,hd_wyhd_001" style="HLStype1">尚武(活動大使)</a>
+submit_74507=<font face="Default" color="#ffffff" >多謝</font>
+target_74507=找到尚武，領取升品（壹），升品（貳），升品（三）
+title_74507=升品助力
+SubmitNpcEx_74507=<a href="findnpc_new,city02,hd_wyhd_001" style="HLStype1">尚武(活動大使)</a>
+CanAcceptMenu_74508=<font face="Default" color="#ffffff" >尚武大禮（可承接）</font>
+CompleteMenu_74508=<font face="Default" color="#ffffff" >尚武大禮（可提交）</font>
+accept_74508_1=<font face="Default" color="#ffffff" >活動期間，江湖名俊玩家可</font><font face="Default" color="#ffffff" >在我這裡</font><font face="Default" color="#ffffff" >領取尚武大禮包</font>
+complete_74508=<font face="Default" color="#ffffff" >這是給你的獎勵，請收好</font>
+context_74508=活動期間，江湖名俊玩家可在蘇州NPC尚武大使（390,768）處領取尚武大禮包
+menu_74508_1=<font face="Default" color="#ffffff" >好的</font>
+next_74508=<a href="findnpc_new,city02,hd_wyhd_001" style="HLStype1">尚武(活動大使)</a>
+submit_74508=<font face="Default" color="#ffffff" >多謝</font>
+target_74508=找到尚武，領取尚武大禮包
+title_74508=尚武大禮
+SubmitNpcEx_74508=<a href="findnpc_new,city02,hd_wyhd_001" style="HLStype1">尚武(活動大使)</a>
+CanAcceptMenu_74509=<font face="Default" color="#ffffff" >神木救援（可承接）</font>
+CompleteMenu_74509=<font face="Default" color="#ffffff" >神木救援（可提交）</font>
+accept_74509_1=<font face="Default" color="#ffffff" >活動期間，江湖名俊玩家每天可在我處接取「神木救援」任務，完成後可領取</font><font color="#00ff00">【神木救援】獎勵包*1。</font>
+complete_74509=<font face="Default" color="#ffffff" >這是給你的獎勵，請收好</font>
+context_74509=活動期間，江湖名俊玩家每天可前往蘇州尚武大使（390,768）處接取「神木救援」任務，完成後可領取<font color="#00ff00">【神木救援】獎勵包*1。</font>
+menu_74509_1=<font face="Default" color="#ffffff" >好的</font>
+next_74509=<a href="findnpc_new,city02,hd_wyhd_001" style="HLStype1">尚武(活動大使)</a>
+submit_74509=<font face="Default" color="#ffffff" >多謝</font>
+target_74509=神木救援，救出3名江湖人士、擊敗3名神木守衛後完成任務
+title_74509=神木救援
+SubmitNpcEx_74509=<a href="findnpc_new,city02,hd_wyhd_001" style="HLStype1">尚武(活動大使)</a>
+hunterinfo_74405=擊敗<a href="findnpc_new,school03,monm033301" style="HLStype1">神木守衛</a>
+useiteminfo_74401=在神木守衛附近找到綁人的<a href="findnpc_new,school03,Npc_smjy_fc_002" style="HLStype1">麻袋</a>，使用<a href="TASK_ITEM,useitem_smjy_20231101_fc_001" style="HLStype1">鋒利的刀</a>解救被困的江湖人士
+CanAcceptMenu_74510=<font face="Default" color="#ffffff" >幕後黑手（可承接）</font>
+CompleteMenu_74510=<font face="Default" color="#ffffff" >幕後黑手（可提交）</font>
+accept_74510_1=<font face="Default" color="#ffffff" >活動期間，江湖名俊玩家每天可在我處接取「幕後黑手」任務，完成後可領取</font><font color="#00ff00">討伐令*1，玄玉粉·碎片*1。</font>
+complete_74510=<font face="Default" color="#ffffff" >這是給你的獎勵，請收好</font>
+context_74510=活動期間，江湖名俊玩家每天可前往蘇州尚武大使（390,768）處接取「幕後黑手」任務，完成後可領取<font color="#00ff00">討伐令*1，玄玉粉·碎片*1。</font>
+menu_74510_1=<font face="Default" color="#ffffff" >好的</font>
+next_74510=<a href="findnpc_new,city02,hd_wyhd_001" style="HLStype1">尚武(活動大使)</a>
+submit_74510=<font face="Default" color="#ffffff" >多謝</font>
+target_74510=找出幕後黑手，擊敗5名倭寇海盜後完成任務
+title_74510=幕後黑手
+SubmitNpcEx_74510=<a href="findnpc_new,city02,hd_wyhd_001" style="HLStype1">尚武(活動大使)</a>
+hunterinfo_74406=擊敗<a href="findnpc_new,school03,monm030700" style="HLStype1">倭寇海盜</a>
+CanAcceptMenu_74513=<font face="Default" color="#ffffff" >金丹良藥（可承接）</font>
+CompleteMenu_74513=<font face="Default" color="#ffffff" >金丹良藥（可提交）</font>
+accept_74513_1=<font face="Default" color="#ffffff" >只要在活動期間登陸，每天都可以在我這邊領取補給令*1。</font>
+complete_74513=<font face="Default" color="#ffffff" >祝大俠一路順風。</font>
+context_74513=活動期間，名俊玩家每日均可前往蘇州NPC尚武大使（蘇州-389，768）領取：補給令*1
+menu_74513_1=<font face="Default" color="#ffffff" >多謝</font>
+submit_74513=<font face="Default" color="#ffffff" >在下告辭</font>
+target_74513=找到尚武，領取補給令
+title_74513=金丹良藥
+SubmitNpcEx_74513=<a href="findnpc_new,city02,hd_wyhd_001" style="HLStype1">尚武(活動大使)</a>
+CanAcceptMenu_74514=<font face="Default" color="#ffffff" >尚武招募（可承接）</font>
+CompleteMenu_74514=<font face="Default" color="#ffffff" >尚武招募（可提交）</font>
+accept_74514_1=<font face="Default" color="#ffffff" >邊關風起雲湧，正是俠士護佑蒼生，建功立業之時！大明王朝委託尚武大使招募仁人志士，少俠不妨前往！活動期間，江湖名俊玩家可</font><font face="Default" color="#ffffff" >在我這裡</font><font face="Default" color="#ffffff" >領取尚武招募禮包</font>
+complete_74514=<font face="Default" color="#ffffff" >這是給你的獎勵，請收好</font>
+context_74514=邊關風起雲湧，正是俠士護佑蒼生，建功立業之時！大明王朝委託尚武大使招募仁人志士，少俠不妨前往！活動期間，江湖名俊玩家可在蘇州NPC尚武大使（390,768）處領取尚武招募禮包
+menu_74514_1=<font face="Default" color="#ffffff" >好的</font>
+next_74514=<a href="findnpc_new,city02,hd_wyhd_001" style="HLStype1">尚武(活動大使)</a>
+submit_74514=<font face="Default" color="#ffffff" >多謝</font>
+target_74514=找到尚武，領取尚武招募禮包
+title_74514=尚武招募
+SubmitNpcEx_74514=<a href="findnpc_new,city02,hd_wyhd_001" style="HLStype1">尚武(活動大使)</a>
+CanAcceptMenu_74511=<font face="Default" color="#ffffff" >祭拜忠魂</font><font face="Default" color="#ffffff" >（可承接）（30點活躍度，1點功勳）</font>
+CompleteMenu_74511=<font face="Default" color="#ffffff" >祭拜忠魂</font><font face="Default" color="#ffffff" >（可提交）（30點活躍度，1點功勳）</font>
+accept_74511_1=<font face="Default" color="#ffffff" >捐軀赴國難，視死忽如歸。 大明忠魂永在，日月之心永存！活動期間，江湖名俊玩家每天可前往塞外大漠譚誡霞（陽關守將）（1012，368）（城池二樓）處接取「祭拜忠魂」任務，完成後可直接領取</font><font color="#00ff00">30點活躍度</font>及1點功勳點
+complete_74511=<font face="Default" color="#ffffff" >這是完成獎勵，請收好</font>
+context_74511=捐軀赴國難，視死忽如歸。 大明忠魂永在，日月之心永存！活動期間，江湖名俊玩家每天可前往塞外大漠譚誡霞（陽關守將）（1012，368）（城池二樓）處接取「祭拜忠魂」任務，完成後可直接領取<font color="#00ff00">30點活躍度</font>及1點功勳點
+menu_74511_1=<font face="Default" color="#ffffff" >好</font><font face="Default" color="#ffffff" >的</font>
+submit_74511=<font face="Default" color="#ffffff" >多謝</font>
+target_74511=在譚誡霞（陽關守將）（1012，368）處用4個五蘊伏魔品兌換忠魂香一柱，祭酒一罈。在對祭壇使用後完成任務。
+title_74511=祭拜忠魂
+SubmitNpcEx_74511=與<a href="findnpc_new,scene08,WorldNpc07833" style="HLStype1">譚誡霞</a>交談
+next_74511=<a href="findnpc_new,scene08,WorldNpc07833" style="HLStype1">譚誡霞</a>
+DialogID_74511=在此處可用4個五蘊伏魔品交換得到忠魂香一柱，祭酒一罈。
+okmenu_74511=用4個五蘊伏魔品交換忠魂香一柱，祭酒一罈。
+interactinfo_74511=與<a href="findnpc_new,scene08,WorldNpc07833" style="HLStype1">譚誡霞</a>交談，用4個五蘊伏魔品兌換忠魂香一柱，祭酒一罈。
+useiteminfo_74511=對<a href="findnpc_new,scene08,Gather00155_fc" style="HLStype1">供桌</a>使用<a href="TASK_ITEM,useitem_bjzh_20231121_fc_001" style="HLStype1">忠魂香</a>祭拜忠魂
+useiteminfo_74512=對<a href="findnpc_new,scene08,Gather00155_fc" style="HLStype1">供桌</a>使用<a href="TASK_ITEM,useitem_bjzh_20231121_fc_002" style="HLStype1">祭酒</a>祭拜忠魂
+CanAcceptMenu_74515=<font face="Default" color="#ffffff" >新春祈福</font><font face="Default" color="#ffffff" >（可承接）（30點活躍度）</font>
+CompleteMenu_74515=<font face="Default" color="#ffffff" >新春祈福</font><font face="Default" color="#ffffff" >（可提交）（30點活躍度）</font>
+accept_74515_1=<font face="Default" color="#ffffff" >新春祈福，龍年大吉！江湖名俊玩家每天可前往蘇州玄妙觀，在周玄真（玄妙觀主）（421，235）處接取：「新春祈福」任務，完成後可直接領取</font><font color="#00ff00">30點活躍度</font>及玄妙祈福包。
+complete_74515=<font face="Default" color="#ffffff" >這是完成獎勵，請收好</font>
+context_74515=新春祈福，龍年大吉！活動期間，江湖名俊玩家每天可前往蘇州玄妙觀，在周玄真（玄妙觀主）（421，235）處接取：「新春祈福」任務，完成後可直接領取<font color="#00ff00">30點活躍度</font>及玄妙祈福包。
+menu_74515_1=<font face="Default" color="#ffffff" >好</font><font face="Default" color="#ffffff" >的</font>
+submit_74515=<font face="Default" color="#ffffff" >多謝</font>
+target_74515=蘇州玄妙觀周玄真（421，235）處用3個碎金兌換檀香一柱。在對供桌使用後完成任務。
+title_74515=新春祈福
+SubmitNpcEx_74515=與<a href="findnpc_new,city02,WorldNpc01150" style="HLStype1">周玄真</a>交談
+next_74515=<a href="findnpc_new,city02,WorldNpc01150" style="HLStype1">周玄真</a>
+DialogID_74515=在此處可用3個碎金交換得到檀香一柱。
+okmenu_74515=用3個碎金交換檀香一柱。
+interactinfo_74515=與<a href="findnpc_new,city02,WorldNpc01150" style="HLStype1">周玄真</a>交談，用3個碎金交換得到檀香一柱。
+useiteminfo_74515=對<a href="findnpc_new,city02,Gather00155_fc2" style="HLStype1">供桌</a>使用<a href="TASK_ITEM,useitem_xcqf_20240115_fc_001" style="HLStype1">檀香</a>進行新春祈福！
+CanAcceptMenu_74516=<font face="Default" color="#ffffff" >智斗年獸</font><font face="Default" color="#ffffff" >（可承接）（30點活躍度，2點甲辰點）</font>
+CompleteMenu_74516=<font face="Default" color="#ffffff" >智斗年獸</font><font face="Default" color="#ffffff" >（可提交）（30點活躍度，2點甲辰點）</font>
+accept_74516_1=<font face="Default" color="#ffffff" >江湖名俊玩家每天可在蘇州NPC尚武大使（390，768）處接取任務，與尚武對話，前往活動場景擊殺小年獸後在尚武處領取獎勵。</font>
+complete_74516=<font face="Default" color="#ffffff" >這是完成獎勵，請收好</font>
+context_74516=江湖名俊玩家每天可在蘇州NPC尚武大使（390，768）處接取任務，與尚武對話，前往活動場景擊殺小年獸後在尚武處領取獎勵。（年獸場景中，存在煙花炮竹，大俠點燃煙花炮竹，對年獸血量有一定影響。大俠不妨一試。）
+menu_74516_1=<font face="Default" color="#ffffff" >好</font><font face="Default" color="#ffffff" >的</font>
+submit_74516=<font face="Default" color="#ffffff" >多謝</font>
+target_74516=與尚武對話，參與智斗年獸玩法，擊殺小年獸後完成任務。
+title_74516=智斗年獸
+interactinfo_74516=找到<a href="findnpc_new,city02,hd_wyhd_001" style="HLStype1">尚武(活動大使)</a>，對話前往活動場景擊殺小年獸後在尚武處領取獎勵。
+SubmitNpcEx_74516=<a href="findnpc_new,city02,hd_wyhd_001" style="HLStype1">尚武(活動大使)</a>
+CanAcceptMenu_74420=<font face="Default" color="#ffffff" >歡鬧新春（可承接）（30點活躍度，2點甲辰點）</font><font face="Default" color="#ffffff" ></font>
+CompleteMenu_74420=<font face="Default" color="#ffffff" >歡鬧新春（可提交）（30點活躍度，2點甲辰點）</font><font face="Default" color="#ffffff" ></font>
+accept_74420_1=<font face="Default" color="#ffffff" >江湖名俊玩家可以對其他玩家使用</font><font face="Default" color="#ffffff" >雪球</font><font face="Default" color="#ffffff" >，</font><font face="Default" color="#ffffff" >雪球</font><font face="Default" color="#ffffff" >可以在我這邊兌換。</font>
+complete_74420=<font face="Default" color="#ffffff" >與其他俠士一起扔雪球，歡鬧新春。</font>
+context_74420=江湖名俊對其他俠士使用5次雪球，一起行俠江湖。可以在尚武大使處，使用2個五蘊伏魔品兌換1個雪球。
+target_74420=江湖名俊對其他俠士使用5次雪球，一起行俠江湖。
+title_74420=歡鬧新春
+CanAcceptMenu_74517=<font face="Default" color="#ffffff" >元宵助力（可承接）</font>
+CompleteMenu_74517=<font face="Default" color="#ffffff" >元宵助力（可提交）</font>
+accept_74517_1=<font face="Default" color="#ffffff" >活動期間，江湖名俊玩家可</font><font face="Default" color="#ffffff" >在我這裡</font><font face="Default" color="#ffffff" >領取元宵助力禮包</font>
+complete_74517=<font face="Default" color="#ffffff" >這是給你的獎勵，請收好</font>
+context_74517=活動期間，江湖名俊玩家可在蘇州NPC尚武大使（390,768）處領取元宵助力禮包
+menu_74517_1=<font face="Default" color="#ffffff" >好的</font>
+next_74517=<a href="findnpc_new,city02,hd_wyhd_001" style="HLStype1">尚武(活動大使)</a>
+submit_74517=<font face="Default" color="#ffffff" >多謝</font>
+target_74517=找到尚武，領取元宵助力禮包
+title_74517=元宵助力
+SubmitNpcEx_74517=<a href="findnpc_new,city02,hd_wyhd_001" style="HLStype1">尚武(活動大使)</a>
+CanAcceptMenu_74456=<font face="Default" color="#ffffff" >猜謎賞燈</font><font face="Default" color="#ffffff" >（可領取）</font>
+CompleteMenu_74456=<font face="Default" color="#ffffff" >猜謎賞燈</font><font face="Default" color="#ffffff" >（可提交）</font>
+accept_74456_1=<font face="Default" color="#ffffff" >猜謎</font>，答對三題可獲得獎勵，包含<font color="#00ff00">稀世珍寶*1，美味元宵*2。</font>
+complete_74456=<font face="Default" color="#ffffff" >猜謎賞燈</font>
+context_74456=玩家每天可在蘇州姚之易（390,765）處猜謎，需猜對三道謎題方可獲得獎勵，包含<font color="#00ff00">稀世珍寶*1，美味元宵*2。</font>
+title_74456=猜謎賞燈
+CanAcceptMenu_74518=<font face="Default" color="#ffffff" >江湖迎新（可承接）</font>
+CompleteMenu_74518=<font face="Default" color="#ffffff" >江湖迎新（可提交）</font>
+accept_74518_1=<font face="Default" color="#ffffff" >活動期間，實力達到融會貫通的江湖名俊玩家可</font><font face="Default" color="#ffffff" >在我這裡</font><font face="Default" color="#ffffff" >領取武學令牌*1，玉逍遙（60天）*1</font>
+complete_74518=<font face="Default" color="#ffffff" >這是給你的獎勵，請收好</font>
+context_74518=活動期間，實力達到融會貫通的江湖名俊玩家可在蘇州義莊門口何氣俠處（389,741）處領取武學令牌*1，玉逍遙（60天）*1
+menu_74518_1=<font face="Default" color="#ffffff" >好的</font>
+next_74518=<a href="findnpc_new,city02,hd_2024npc_fc_001" style="HLStype1">何氣俠</a>
+submit_74518=<font face="Default" color="#ffffff" >多謝</font>
+target_74518=找到何氣俠，領取武學令牌*1，玉逍遙（60天）*1
+title_74518=江湖迎新
+SubmitNpcEx_74518=<a href="findnpc_new,city02,hd_2024npc_fc_001" style="HLStype1">何氣俠</a>
+CanAcceptMenu_74519=<font face="Default" color="#ffffff" >隱世勤修·達摩（可承接）</font>
+CompleteMenu_74519=<font face="Default" color="#ffffff" >隱世勤修·達摩（可提交）</font>
+accept_74519_1=<font face="Default" color="#ffffff" >嘉獎門派內勤修高階內功的弟子，符合條件的弟子可</font><font face="Default" color="#ffffff" >在我這裡</font><font face="Default" color="#ffffff" >領取精煉易筋丹（達摩）*7</font>
+complete_74519=<font face="Default" color="#ffffff" >這是給你的獎勵，請收好</font>
+context_74519=嘉獎門派內勤修高階內功的弟子，符合條件的弟子可在那須陀處（-526，-269）處領取精煉易筋丹（達摩）*7
+menu_74519_1=<font face="Default" color="#ffffff" >好的</font>
+next_74519=<a href="findnpc_new,school17,newmp_dmp_05" style="HLStype1">那須陀-代掌門</a>
+submit_74519=<font face="Default" color="#ffffff" >多謝</font>
+target_74519=找到那須陀，領取精煉易筋丹（達摩）*7
+title_74519=隱世勤修·達摩
+CanAcceptMenu_74520=<font face="Default" color="#ffffff" >隱世勤修·星渺閣（可承接）</font>
+CompleteMenu_74520=<font face="Default" color="#ffffff" >隱世勤修·星渺閣（可提交）</font>
+accept_74520_1=<font face="Default" color="#ffffff" >嘉獎門派內勤修高階內功的弟子，符合條件的弟子可</font><font face="Default" color="#ffffff" >在我這裡</font><font face="Default" color="#ffffff" >領取精煉易筋丹（星渺閣）*7</font>
+complete_74520=<font face="Default" color="#ffffff" >這是給你的獎勵，請收好</font>
+context_74520=嘉獎門派內勤修高階內功的弟子，符合條件的弟子可在朱棠（-145，-102）處領取精煉易筋丹（星渺閣）*7
+menu_74520_1=<font face="Default" color="#ffffff" >好的</font>
+next_74520=<a href="findnpc_new,school23,newmp_xmg_001" style="HLStype1">朱棠</a>
+submit_74520=<font face="Default" color="#ffffff" >多謝</font>
+target_74520=找到朱棠，領取精煉易筋丹（星渺閣）*7
+title_74520=隱世勤修·星渺閣
+CanAcceptMenu_74521=<font face="Default" color="#ffffff" >隱世勤修·天涯海閣（可承接）</font>
+CompleteMenu_74521=<font face="Default" color="#ffffff" >隱世勤修·天涯海閣（可提交）</font>
+accept_74521_1=<font face="Default" color="#ffffff" >嘉獎門派內勤修高階內功的弟子，符合條件的弟子可</font><font face="Default" color="#ffffff" >在我這裡</font><font face="Default" color="#ffffff" >領取精煉易筋丹（天涯海閣）*7</font>
+complete_74521=<font face="Default" color="#ffffff" >這是給你的獎勵，請收好</font>
+context_74521=嘉獎門派內勤修高階內功的弟子，符合條件的弟子可在幽游君（1520，1051）處領取精煉易筋丹（天涯海閣）*7
+menu_74521_1=<font face="Default" color="#ffffff" >好的</font>
+next_74521=<a href="findnpc_new,school25,newmp_tyhg_001" style="HLStype1">幽游君</a>
+submit_74521=<font face="Default" color="#ffffff" >多謝</font>
+target_74521=找到幽游君，領取精煉易筋丹（天涯海閣）*7
+title_74521=隱世勤修·天涯海閣
+SubmitNpcEx_74519=<a href="findnpc_new,school17,newmp_dmp_05" style="HLStype1">那須陀-代掌門</a>
+SubmitNpcEx_74520=<a href="findnpc_new,school23,newmp_xmg_001" style="HLStype1">朱棠</a>
+SubmitNpcEx_74521=<a href="findnpc_new,school25,newmp_tyhg_001" style="HLStype1">幽游君</a>
 

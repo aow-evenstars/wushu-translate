@@ -1,4 +1,14 @@
 ﻿
+DialogID_76413=<font face="Default" color="#ffffff" >前去巡视刑天城时需格外小心，不要打草惊蛇！</font>
+DialogID_76417=<font face="Default" color="#ffffff" >城外的马匪十分狡猾，请务必小心行事，你可前往城外小道附近。</font>
+DialogID_76419=<font face="Default" color="#ffffff" >运送物资时需谨慎些，最近刑天城附近有马匪出没！</font>
+DialogID_76421=<font face="Default" color="#ffffff" >城外的</font><font face="Default" color="#ffffff" >牧民</font><font face="Default" color="#ffffff" >十分狡猾，请务必小心行事，你可前往城外小道附近。</font>
+DialogID_76423=<font face="Default" color="#ffffff" >刑天城的入口处</font><font face="Default" color="#ffffff" >具体情况现在暂时还不清楚，你前去调查下。</font>
+DialogID_76424=<font face="Default" color="#ffffff" >最近</font><font face="Default" color="#ffffff" >事务繁忙，未去检验部分弟子的武学修炼情况，你帮我去检验下。</font>
+DialogID_76425=<font face="Default" color="#ffffff" >你可以前往贾顺、俞松、单梁处，问问他们最近城内的具体情况。</font>
+DialogID_76426=<font face="Default" color="#ffffff" >最近城内附近小摩擦时有发生，但是并没有大冲突。</font>
+DialogID_76427=<font face="Default" color="#ffffff" >村民说看见几个行踪可疑的人，我在暗中观察着。</font>
+DialogID_76428=<font face="Default" color="#ffffff" >附近并没有任何有用的消息。</font>
 DialogID_76486=<font face="Default" color="#ffffff" >看来你遇到麻烦了，怎么回事？</font>
 DialogID_76487=<font face="Default" color="#ffffff" >不是我说你们，好好地念经不好么，学什么打架。要是搞出人命来，我看你们怎么收拾。</font>
 DialogID_76488=<font face="Default" color="#ffffff" >哎~</font><font face="Default" color="#ffffff" >这下可好，这两天啥活儿都不用干了。</font>
@@ -15,13 +25,27 @@ DialogID_76498=<font face="Default" color="#ffffff" >怎么了，要我帮帮你
 DialogID_76499=<font face="Default" color="#ffffff" >听说恶霸又来捣乱了？需要帮忙吗？</font>
 DialogID_76500=<font face="Default" color="#ffffff" >你来啦，太好了。快去查看一下那几位伤者的伤势如何。然后去药堂把伤药取来，快去快回。</font>
 QiecuoMenu_76401=<font face="Default" color="#e80d2e" >（这位首座真是满脸写着过度自信）</font><font face="Default" color="#ffffff" >……</font>
+QiecuoMenu_76411=<font face="Default" color="#ffffff" >想领教下阁下的武学。</font>
+QiecuoMenu_76412=<font face="Default" color="#ffffff" >想领教下阁下的武学。</font>
+QiecuoMenu_76413=<font face="Default" color="#ffffff" >想领教下阁下的武学。</font>
 QiecuoMenu_76492=<font face="Default" color="#ffffff" >施主</font><font face="Default" color="#ffffff" >，住手啊！</font>
 QiecuoTitle_76401=<font face="Default" color="#ffffff" >看你</font><font face="Default" color="#ffffff" >面生得很</font><font face="Default" color="#ffffff" >，是新入门的弟子吧？来得正好，给我练练手</font><font face="Default" color="#ffffff" >。放心吧，我可不会欺负小辈，你且使出全部的本领，我用一层功力和你过招。</font>
 QiecuoTitle_76403=
+QiecuoTitle_76411=<font face="Default" color="#ffffff" >敢问少侠何事？为何一见面就大打出手？</font>
+QiecuoTitle_76412=<font face="Default" color="#ffffff" >敢问少侠何事？为何一见面就大打出手？</font>
+QiecuoTitle_76413=<font face="Default" color="#ffffff" >敢问少侠何事？为何一见面就大打出手？</font>
 QiecuoTitle_76492=<font face="Default" color="#ffffff" >哼！见不到他...我就...我就打你出气！</font>
+SubmitNpcEx_76410=将巡视的结果告知<a href="findnpc_new,school26,newmp_xingtb_003" style="HLStype1">韩哉</a>
+SubmitNpcEx_76411=将情况告知<a href="findnpc_new,school26,npc_xtguj_006" style="HLStype1">何三</a>
+SubmitNpcEx_76412=将运送物资的情况告知<a href="findnpc_new,school26,npc_xtguj_007" style="HLStype1">吴豪</a>
+SubmitNpcEx_76413=将情况告知<a href="findnpc_new,school26,npc_xtguj_008" style="HLStype1">程仁</a>
+SubmitNpcEx_76414=将清匪的具体情况告知<a href="findnpc_new,school26,npc_xtguj_009" style="HLStype1">任盛</a>（注：可通过恶人谷的<a href="findnpc_new,born02,DoorNpc00109" style="HLStype1">传送门</a>前往刑天城）
+SubmitNpcEx_76415=将具体情况告知<a href="findnpc_new,school26,npc_xtguj_010" style="HLStype1">张群</a>
+SubmitNpcEx_76416=将获得的情况告知<a href="findnpc_new,school26,npc_xtguj_014" style="HLStype1">裴伦</a>
 SubmitNpcEx_76500=回复<a href="findnpc_new,adv156,npc_lzy_tlszc_fgmy_002" style="HLStype1">喻心</a>
 collectinfo_76401=捡起掉落在地上的<a href="findnpc_new,adv156,cajinpc_tls_001" style="HLStype1">鞋子</a>
 collectinfo_76411=问问看<a href="findnpc_new,adv156,newforce_tianlun_meijiu_000" style="HLStype1">贪酒师兄</a>，听说他最近看到有个师叔神神秘秘的。
+collectinfo_76412=前去将<a href="findnpc_new,school26,Gather_gujian_xt001" style="HLStype1">物资</a>物资运送回来
 collectinfo_76491=收集<a href="findnpc_new,adv156,gathernpc_tls_daily02_01" style="HLStype1">蜡烛</a>
 collectinfo_76492=前往山下收集足够的<a href="findnpc_new,adv156,gathernpc_tls_daily02_02" style="HLStype1">木材</a>
 collectinfo_76493=找到大寮执事身后的<a href="findnpc_new,adv156,gathernpc_tls_daily03_01" style="HLStype1">鼓棒</a>
@@ -33,6 +57,13 @@ hunterinfo_76403=击败<a href="findnpc_new,adv156,hurnt_tlszyb_005" style="HLSt
 hunterinfo_76404=击败突然出现的<a href="findnpc_new,adv156,hurnt_tlszyb_002" style="HLStype1">赤杰</a>
 hunterinfo_76405=击败突然出手的<a href="findnpc_new,adv156,hurnt_tlszyb_003" style="HLStype1">秦百魅</a>
 hunterinfo_76406=击败<a href="findnpc_new,adv156,hurnt_tlszyb_004" style="HLStype1">野猪</a>
+hunterinfo_76407=击败<a href="findnpc_new,school26,monc_guj_001" style="HLStype1">马匪狂徒</a>
+hunterinfo_76408=击败<a href="findnpc_new,school26,monc_guj_002" style="HLStype1">蒙古牧民</a>
+hunterinfo_76409=击败<a href="findnpc_new,born02,monv020202" style="HLStype1">劫道路匪</a>（注：可通过刑天城的<a href="findnpc_new,school26,DoorNpc00110" style="HLStype1">传送门</a>前往恶人谷）
+hunterinfo_76410=击败<a href="findnpc_new,born02,monv020203" style="HLStype1">潜伏路霸</a>（注：可通过刑天城的<a href="findnpc_new,school26,DoorNpc00110" style="HLStype1">传送门</a>前往恶人谷）
+hunterinfo_76411=前往<a href="findnpc_new,school26,npc_xtguj_011" style="HLStype1">姜明</a>处，与其进行比武切磋
+hunterinfo_76412=前往<a href="findnpc_new,school26,npc_xtguj_012" style="HLStype1">许进</a>处，与其进行比武切磋
+hunterinfo_76413=前往<a href="findnpc_new,school26,npc_xtguj_013" style="HLStype1">洪安</a>处，与其进行比武切磋
 hunterinfo_76491=前往情报所指地点，并击败<a href="findnpc_new,adv156,tasknpc_tls_daily04_04" style="HLStype1">黑衣人</a>
 hunterinfo_76492=抵挡生气的<a href="findnpc_new,adv156,tasknpc_tls_daily05_g03" style="HLStype1">桃花</a>
 hunterinfo_76493=击败<a href="findnpc_new,adv156,tasknpc_tls_daily06_06" style="HLStype1">恶霸</a>
@@ -49,6 +80,22 @@ interactinfo_76407=和<a href="findnpc_new,adv156,npc_tls_shp_007" style="HLStyp
 interactinfo_76408=接受（小师弟）的求助，帮助（大师兄）击败本门叛徒
 interactinfo_76411=为师妹做菜（由于自己不会做，只能强迫其他师兄弟帮忙，同时还要应付巡寺的师兄）
 interactinfo_76412=问问看<a href="findnpc_new,adv156,newforce_tianlun_meijiu_000" style="HLStype1">贪酒师兄</a>，听说他最近看到有个师叔神神秘秘的。
+interactinfo_76413=与<a href="findnpc_new,school26,newmp_xingtb_003" style="HLStype1">韩哉</a>交谈，看看有什么需要帮助
+interactinfo_76414=前往<a href="findnpc_new,school26,Event_gujdcxtb0201" style="HLStype1">刑天城内</a>处进行巡视
+interactinfo_76415=前往<a href="findnpc_new,school26,Event_gujdcxtb0202" style="HLStype1">刑天城内</a>处进行巡视
+interactinfo_76416=前往<a href="findnpc_new,school26,Event_gujdcxtb0203" style="HLStype1">刑天城内</a>处进行巡视
+interactinfo_76417=与<a href="findnpc_new,school26,npc_xtguj_006" style="HLStype1">何三</a>交谈，了解下城外的情况
+interactinfo_76418=前往<a href="findnpc_new,school26,Event_gujdcxtb0204" style="HLStype1">刑天城附近</a>寻找马匪踪迹
+interactinfo_76419=与<a href="findnpc_new,school26,npc_xtguj_007" style="HLStype1">吴豪</a>交谈，了解下物资情况
+interactinfo_76420=前往<a href="findnpc_new,school26,Event_gujdcxtb0205" style="HLStype1">刑天城附近</a>将物资运回
+interactinfo_76421=与<a href="findnpc_new,school26,npc_xtguj_008" style="HLStype1">程仁</a>交谈，了解下城外的情况
+interactinfo_76422=前往<a href="findnpc_new,school26,Event_gujdcxtb0206" style="HLStype1">刑天城附近</a>寻找牧民踪迹
+interactinfo_76423=与<a href="findnpc_new,school26,npc_xtguj_009" style="HLStype1">任盛</a>交谈，了解下刑天城入口处情况
+interactinfo_76424=与<a href="findnpc_new,school26,npc_xtguj_010" style="HLStype1">张群</a>交谈，了解具体情况
+interactinfo_76425=与<a href="findnpc_new,school26,npc_xtguj_015" style="HLStype1">管致</a>交谈，了解下需要注意的情况
+interactinfo_76426=前往<a href="findnpc_new,school26,npc_xtguj_016" style="HLStype1">贾顺</a>处，了解下附近的情况
+interactinfo_76427=前往<a href="findnpc_new,school26,npc_xtguj_017" style="HLStype1">俞松</a>处，了解下附近的情况
+interactinfo_76428=前往<a href="findnpc_new,school26,npc_xtguj_018" style="HLStype1">单梁</a>处，了解下附近的情况
 interactinfo_76480=拾取西边房檐上的<a href="findnpc_new,adv156,gathernpc_tls_daily01_06" style="HLStype1">树枝</a>
 interactinfo_76481=拾取东边墙头上的<a href="findnpc_new,adv156,gathernpc_tls_daily01_05" style="HLStype1">树枝</a>
 interactinfo_76482=拾取北边房檐上的<a href="findnpc_new,adv156,gathernpc_tls_daily01_04" style="HLStype1">树枝</a>
@@ -70,6 +117,16 @@ interactinfo_76497=赶快找一位<a href="findnpc_new,adv156,tasknpc_tls_daily0
 interactinfo_76498=再找一位<a href="findnpc_new,adv156,tasknpc_tls_daily06_03" style="HLStype1">守卫弟子</a>求助
 interactinfo_76499=最后找第三位<a href="findnpc_new,adv156,tasknpc_tls_daily06_04" style="HLStype1">守卫弟子</a>求助
 interactinfo_76500=找到<a href="findnpc_new,adv156,tasknpc_tls_daily07_01" style="HLStype1">师姐</a>
+okmenu_76413=<font face="Default" color="#ffffff" >我这就前去巡视下。</font>
+okmenu_76417=<font face="Default" color="#ffffff" >好的，我这就出发。</font>
+okmenu_76419=<font face="Default" color="#ffffff" >我会小心行事，这就去将物资运回。</font>
+okmenu_76421=<font face="Default" color="#ffffff" >好的，我这就出发。</font>
+okmenu_76423=<font face="Default" color="#ffffff" >好的，我这就出发。</font>
+okmenu_76424=<font face="Default" color="#ffffff" >好的，我这就出发。</font>
+okmenu_76425=<font face="Default" color="#ffffff" >好的，我这就出发。</font>
+okmenu_76426=<font face="Default" color="#ffffff" >好的。</font>
+okmenu_76427=<font face="Default" color="#ffffff" >好的。</font>
+okmenu_76428=<font face="Default" color="#ffffff" >好的。</font>
 okmenu_76486=<font face="Default" color="#ffffff" >确实很麻烦，快让那边的几个师弟离开这里。等等...（打量一番），你也不能呆在这儿。快走，别问为什么！</font>
 okmenu_76487=<font face="Default" color="#ffffff" >误伤之事</font><font face="Default" color="#ffffff" >多有得罪，实在抱歉。辛苦你照顾他们按时用药，师姐会派人送你们下山的。</font>
 okmenu_76488=<font face="Default" color="#ffffff" >看来只是扭伤了肩膀，还好不是脖子。</font>
@@ -175,7 +232,7 @@ storyinfo_76403=拜见<a href="findnpc_new,adv156,tls_005" style="HLStype1">仁�
 storyinfo_76404=拜见<a href="findnpc_new,adv156,tls_zyb_019" style="HLStype1">白玛</a>师叔
 storyinfo_76405=看到<a href="findnpc_new,adv156,tls_zyb_001" style="HLStype1">益西</a>，很是高兴，上前打个招呼。
 storyinfo_76406=去找<a href="findnpc_new,adv156,tls_008" style="HLStype1">温曲吉</a>问问和白玛师叔打架之事
-storyinfo_76407=向<a href="findnpc_new,adv156,tls_007" style="HLStype1">群培</a>师叔打听白玛杀人的事情
+storyinfo_76407=向<a href="findnpc_new,adv156,tls_007" style="HLStype1">群培</a>师叔打听白玛害人的事情
 storyinfo_76408=询问<a href="findnpc_new,adv156,tls_zyb_002" style="HLStype1">益西</a>究竟发生了何事
 storyinfo_76409=询问<a href="findnpc_new,adv156,tls_zyb_003" style="HLStype1">梅朵</a>
 storyinfo_76410=询问洞中的<a href="findnpc_new,adv156,tls_zyb_005" style="HLStype1">小孩子</a>们是否受伤
@@ -226,9 +283,9 @@ storymenu_76410_4=<font face="Default" color="#ffffff" >快随我</font><font fa
 storymenu_76411_1=<font face="Default" color="#f9041d" >（此人看着已是天命之年，为何言行如幼童一般？不过，留他一个人在这里，也着实不安全）</font><font face="Default" color="#ffffff" >这片树林野猪出没，很不安全，你还是跟我们一起回天轮寺吧。</font>
 storymenu_76411_2=<font face="Default" color="#fc0515" >（算了，他武功颇高，只是心智不全，暂时应该没有危险）</font><font face="Default" color="#ffffff" >还是趁着天黑之前，赶紧带孩子们下山吧。</font>
 storymenu_76412_1=<font face="Default" color="#ffffff" >“他”？</font><font face="Default" color="#f70429" >（看向像猪鬃刚一样的怪人）</font><font face="Default" color="#ffffff" >在下上山是为寻找这些孩子们，并无意伤及他人。</font>
-storymenu_76412_2=<font face="Default" color="#ffffff" >先前上山时，我曾猎杀几头野猪，而这些野猪的獠牙和在霍青尸体现场发现的别无二致，不知两位有何见解？</font>
+storymenu_76412_2=<font face="Default" color="#ffffff" >先前上山时，我曾猎杀几头野猪，而这些野猪的獠牙和在霍青遗骸现场发现的别无二致，不知两位有何见解？</font>
 storymenu_76412_3=<font face="Default" color="#ffffff" >呵，这倒是有趣，一个两个，都争着抢着当凶手。</font>
-storymenu_76412_4=<font face="Default" color="#ffffff" >阁下被我和谢神捕从金陵追至外域，却还有时间去杀人，莫非是练了什么分身术？还是说……你和白玛师叔，都在保护同一个人！</font>
+storymenu_76412_4=<font face="Default" color="#ffffff" >阁下被我和谢神捕从金陵追至外域，却还有时间去害人，莫非是练了什么分身术？还是说……你和白玛师叔，都在保护同一个人！</font>
 storymenu_76413_1=<font face="Default" color="#ffffff" >秦姑娘，如今白玛师叔已经身死，</font><font face="Default" color="#ffffff" >但其中还有诸多</font><font face="Default" color="#ffffff" >隐情。还望你能给天轮寺和在场众人一个交待。这一切究竟是怎么回事？</font>
 storymenu_76413_10=<font face="Default" color="#ffffff" >所以，你也是故意让我们发现那些疑点</font>
 storymenu_76413_11=<font face="Default" color="#ffffff" >你早将生死置之度外，引我入局，恐怕并非只是揭开真相那么简单。</font>
@@ -237,7 +294,7 @@ storymenu_76413_13=<font face="Default" color="#ffffff" >秦姑娘！</font>
 storymenu_76413_2=<font face="Default" color="#ffffff" >所以，白玛</font><font face="Default" color="#ffffff" >师叔</font><font face="Default" color="#ffffff" >是为了保护你，才选择牺牲了自己。</font>
 storymenu_76413_3=<font face="Default" color="#ffffff" >之后呢？</font>
 storymenu_76413_4=<font face="Default" color="#ffffff" >巨变？</font>
-storymenu_76413_5=<font face="Default" color="#ffffff" >所以，我和谢若宁在金陵追捕管辉，也就是赤杰时，遇到的那具尸体，并不是李彬李将军，而是冒名顶替的霍奔？</font>
+storymenu_76413_5=<font face="Default" color="#ffffff" >所以，我和谢若宁在金陵追捕管辉，也就是赤杰时，遇到的那具遗骸，并不是李彬李将军，而是冒名顶替的霍奔？</font>
 storymenu_76413_6=<font face="Default" color="#ffffff" >……</font>
 storymenu_76413_7=<font face="Default" color="#ffffff" >原来如此</font>
 storymenu_76413_8=<font face="Default" color="#ffffff" >赤杰闯入皇宫盗窃也是你指使的？</font>

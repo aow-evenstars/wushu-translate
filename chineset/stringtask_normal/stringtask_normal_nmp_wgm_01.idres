@@ -18,7 +18,6 @@ CanAcceptMenu_49516=闖暮色血雨腥風
 CanAcceptMenu_49517=<font face="Default" color="#ffffff" >是禍福血玉麒麟</font>
 CanAcceptMenu_49518=遇劫難無根之門
 CanAcceptMenu_49521=無規矩不成方圓
-CanAcceptMenu_49522=以儆傚尤殺無赦
 CanAcceptMenu_49523=往事無奈怎回首
 CanAcceptMenu_49524=無可奈何花落去
 CanAcceptMenu_49525=武場比試勇奪冠
@@ -143,7 +142,6 @@ complete_49515=小爺我呢其實就是想看看你的身手如何，你要去�
 complete_49516=嗯不錯，卻是這東西，公公一定會有重賞的！
 complete_49517=<font face="Default" color="#ffffff" >是禍福血玉麒麟</font>
 complete_49518=哈哈......你可要想清楚了，要麼加入我無根門！要麼死！！！
-complete_49520=加入我無根門，雖然沒有太多的約束，但是這國有國法，家有家規，這你是懂的，咱這無根門雖然規矩少，但個個都是要命的，你可小心著點，別丟了小命，我這每天收的屍體可不少啊！
 complete_49523=嘖嘖，不看就不看，看了也是於事無補，免得徒增一份傷感。
 complete_49525={@0:Name}真是沒想到作為一個新人你竟然有如此實力，真是讓人意外，你用實力證明了自己，記住在無根門強者為尊！
 complete_49526=指點什麼的，我可沒這個本事，我能教給你的就是如何在任務中活下來！無根門弟子都是在一次一次凶險的任務中來磨練自己，弱者只能被淘汰，而淘汰只有一種結果，那就是死亡。如果你不想在任務中丟了性命，那就要想盡辦法活下來。
@@ -585,7 +583,6 @@ target_49574=揭穿風長恨的面目
 target_49575=追殺風長恨
 target_49576=瞭解叛門的內幕
 target_49794=將犯人抓捕回，帶到牢房交給牢頭處置。
-target_49795=前往牢房巡邏查看，遇到可疑之人格殺勿論
 title_49540=無根門人戲兩黨
 title_49541=尋花問柳陷牢獄
 title_49542=死亡名單藏殺機
@@ -598,7 +595,6 @@ title_49551=唱雙簧挑撥離間
 title_49552=連環計定錦衣衛
 title_49553=潛虎穴暗藏皇綱
 title_49554=算無遺策安七派
-title_49555=突襲主將殺無赦
 title_49556=深藏功名隱歸去
 title_49560=山雨欲來風滿樓
 title_49561=巧舌如簧亂京城
@@ -769,12 +765,9 @@ target_49787=找小甸子幫小魁子贖回欠條。
 target_49788=先去皇宮中找太監總管打聽打聽有沒有辦法弄到寶貝。
 title_49787=贖回欠條
 title_49788=偷梁換柱
-next_49652=離開無根門<font color="#ff0000">（提交任務請先卸除寶物，否則可能退出勢力失敗）</font>
 next_49651=叛出無根門<font color="#ff0000">（提交任務請先卸除寶物，否則可能退出勢力失敗）</font>
 context_49651=這無根門並無想像中的如此，何不離去，省的再受磨難！<font color="#ff0000">（提交任務請先卸除寶物，否則可能退出勢力失敗）</font>
-context_49652=無根門現如今，已如此境況，我若繼續留在此處，已難以更進一步，何不離去！<font color="#ff0000">（提交任務請先卸除寶物，否則可能退出勢力失敗）</font>
 target_49651=叛出無根門<font color="#ff0000">（提交任務請先卸除寶物，否則可能退出勢力失敗）</font>
-target_49652=離開無根門<font color="#ff0000">（提交任務請先卸除寶物，否則可能退出勢力失敗）</font>
 CompleteMenu_49536=<font face="Default" color="#ffffff" >完成任務-</font><font face="Default" color="#ffffff" >翻雲覆雨無根令壹</font>
 CompleteMenu_49537=<font face="Default" color="#ffffff" >完成任務-</font><font face="Default" color="#ffffff" >翻雲覆雨無根令貳</font>
 CompleteMenu_49548=<font face="Default" color="#ffffff" >完成任務-</font><font face="Default" color="#ffffff" >翻雲覆雨無根令三</font>
@@ -783,13 +776,11 @@ CompleteMenu_49565=<font face="Default" color="#ffffff" >完成任務-</font><fo
 context_49536=向趙無極稟告後可繼續下一階段主線任務。
 context_49537=向趙無極稟告後可繼續下一階段主線任務。
 context_49548=向趙無極稟告後可繼續下一階段主線任務。
-context_49551=為朱高煦針對錦衣衛製造借口，假裝黑風寨舵主，在秦淮青樓的金斷城前誣陷錦衣衛，告之錦衣衛乃皇綱一案的背後主謀。
 context_49557=向趙無極稟告後可繼續下一階段主線任務。
 context_49565=向趙無極稟告後可繼續下一階段主線任務。
 target_49536=向<a href="findnpc_new,,wgm_042" style="HLStype1">趙無極</a>稟告
 target_49537=向<a href="findnpc_new,,wgm_042" style="HLStype1">趙無極</a>稟告
 target_49548=向<a href="findnpc_new,,wgm_042" style="HLStype1">趙無極</a>稟告
-target_49551=去秦淮青樓見<a href="findnpc_new,city03,wgm_glm_002" style="HLStype1">金斷城</a>
 target_49557=向<a href="findnpc_new,,wgm_042" style="HLStype1">趙無極</a>稟告
 target_49565=向<a href="findnpc_new,,wgm_042" style="HLStype1">趙無極</a>稟告
 title_49536=翻雲覆雨無根令壹
@@ -874,4 +865,13 @@ target_49543=利用一切機會攻克況錢龍，嫁禍東廠
 target_49571=調查皇宮內應被襲之地
 title_49543=攻克栽贓禍東廠
 complete_49524=嗯，謹慎就對了。我無根門雖然不如那各大宗派強盛，但也是不容小視的，本派的內功太陰玄鑒，和太陰劍訣，也是能讓江湖人不容小視的絕世武學，膽敢犯我無根之威者，雖遠必誅！
+CanAcceptMenu_49522=以儆傚尤定不放過
+complete_49520=加入我無根門，雖然沒有太多的約束，但是這國有國法，家有家規，這你是懂的，咱這無根門雖然規矩少，但個個都是要命的，你可小心著點，別丟了小命，我這每天收的遺骸可不少啊！
+target_49795=前往牢房巡邏查看，遇到可疑之人片甲不留
+title_49555=突襲主將定不放過
+context_49551=為朱高煦針對錦衣衛製造借口，假裝黑風寨舵主，在秦淮酒樓的金斷城前誣陷錦衣衛，告之錦衣衛乃皇綱一案的背後主謀。
+target_49551=去秦淮酒樓見<a href="findnpc_new,city03,wgm_glm_002" style="HLStype1">金斷城</a>
+context_49652=無根門現如今，已如此境況，我若繼續留在此處，已難以更進一步，何不離去！
+next_49652=離開無根門
+target_49652=離開無根門
 

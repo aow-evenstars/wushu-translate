@@ -29,7 +29,7 @@ DialogID_42027=<s>剑谱我先收下。
 DialogID_42028=<s>见到言武了，他收下剑谱了吗？
 DialogID_42029=<s>哈哈哈哈，嵩山派都快被关门散伙了，我又何苦去没前途的门派呢？
 DialogID_42030=<s>你回去告诉师父，言武言出必行，回去收拾一下行李，便会回嵩山派的。
-DialogID_42031=<s>可疑人物的话，最近西域喇嘛倒是有时会在后山出没，不过被我发现就立刻又离开了。
+DialogID_42031=<s>可疑人物的话，最近西域僧侣倒是有时会在后山出没，不过被我发现就立刻又离开了。
 DialogID_42032=<s>贫僧可是好人呐，对少林的武功秘笈可是决不抱有非分之想。
 DialogID_42033=<s>你就挠了小僧吧，经书就藏在达摩洞内。
 DialogID_42034=<s>饼坯都给我吧。
@@ -89,8 +89,8 @@ SubmitNpcEx_18861=<s>回禀<a href="findnpc_new,school08,WorldNpc00473" style="H
 SubmitNpcEx_18862=<s>送药<a href="findnpc_new,school08,WorldNpc00473" style="HLStype1">清仁</a>
 SubmitNpcEx_18863=<s>把送信给洛阳的<a href="findnpc_new,city04,WorldNpc10397" style="HLStype1">杭明辉</a>
 SubmitNpcEx_18864=<s>教训<a href="findnpc_new,city04,WorldNpc10397" style="HLStype1">杭明辉</a>
-SubmitNpcEx_18865=<s>替杭明辉规劝<a href="findnpc_new,school08,WorldNpc00392" style="HLStype1">中年喇嘛</a>修佛向善
-SubmitNpcEx_18866=<s>与<a href="findnpc_new,school08,WorldNpc00392" style="HLStype1">中年喇嘛</a>交谈
+SubmitNpcEx_18865=<s>替杭明辉规劝<a href="findnpc_new,school08,WorldNpc00392" style="HLStype1">中年僧侣</a>修佛向善
+SubmitNpcEx_18866=<s>与<a href="findnpc_new,school08,WorldNpc00392" style="HLStype1">中年僧侣</a>交谈
 SubmitNpcEx_18867=<s>回禀<a href="findnpc_new,school08,WorldNpc00497" style="HLStype1">智深</a>
 SubmitNpcEx_18868=<s>询问<a href="findnpc_new,,FunnpcClone021003" style="HLStype1">石夫人</a>
 SubmitNpcEx_18869=<s>将血棋子交与<a href="findnpc_new,city04,WorldNpc10436" style="HLStype1">周圣</a>查看
@@ -177,7 +177,7 @@ collectinfo_42040=收集<a href="findnpc_new,school08,Gather_qy_shaolin_pandingc
 collectinfo_42041=收集<a href="findnpc_new,school08," style="HLStype1"></a>收集<a href="findnpc_new,school08,Gather_qy_shaolin_mucai" style="HLStype1">木材</a>
 collectinfo_42042=收集<a href="findnpc_new,school08,Gather_qy_wudang_wusui" style="HLStype1">杂物</a>
 collectinfo_42043=完成<a href="findnpc_new,school08,WorldNpc00473" style="HLStype1">清仁</a>交代的事情
-collectinfo_42044=完成<a href="findnpc_new,school08,WorldNpc00392" style="HLStype1">中年喇嘛</a>交代的事情
+collectinfo_42044=完成<a href="findnpc_new,school08,WorldNpc00392" style="HLStype1">中年僧侣</a>交代的事情
 collectinfo_42045=完成<a href="findnpc_new,school08,WorldNpc00497" style="HLStype1">智深</a>交代的事情
 collectinfo_42046=完成<a href="findnpc_new,school08,WorldNpc00224" style="HLStype1">清悔</a>交代的事情
 collectinfo_42047=完成<a href="findnpc_new,school08,WorldNpc00264" style="HLStype1">玄济</a>交代的事情
@@ -249,7 +249,7 @@ interactinfo_42028=回复<a href="findnpc_new,school08,WorldNpc00388" style="HLS
 interactinfo_42029=找到<a href="findnpc_new,school08,monrm08003" style="HLStype1">夏厦</a>并让他回归门派
 interactinfo_42030=找到<a href="findnpc_new,school08,WorldNpc00386" style="HLStype1">赵言武</a>并让他回归门派
 interactinfo_42031=询问<a href="findnpc_new,school08,sl006" style="HLStype1">巡逻的武僧</a>
-interactinfo_42032=询问<a href="findnpc_new,school08,WorldNpc00359" style="HLStype1">西域喇嘛</a>出没后山的原因
+interactinfo_42032=询问<a href="findnpc_new,school08,WorldNpc00359" style="HLStype1">西域僧侣</a>出没后山的原因
 interactinfo_42033=询问<a href="findnpc_new,school08,WorldNpc00359" style="HLStype1">格聂玛</a>经书的下落
 interactinfo_42034=将饼坯交给<a href="findnpc_new,school08,WorldNpc00285" style="HLStype1">清性</a>
 interactinfo_42035=将水桶交给<a href="findnpc_new,school08,WorldNpc00285" style="HLStype1">清性</a>
@@ -392,7 +392,7 @@ storyinfo_42004=听<a href="findnpc_new,school08,WorldNpc00473" style="HLStype1"
 storyinfo_42005=听<a href="findnpc_new,school08,WorldNpc00481" style="HLStype1">了空</a>诉说
 storyinfo_42006=听<a href="findnpc_new,city04,WorldNpc10397" style="HLStype1">杭明辉</a>诉说
 storyinfo_42007=听<a href="findnpc_new,city04,WorldNpc10397" style="HLStype1">杭明辉</a>诉说
-storyinfo_42008=听<a href="findnpc_new,school08,WorldNpc00392" style="HLStype1">中年喇嘛</a>诉说
+storyinfo_42008=听<a href="findnpc_new,school08,WorldNpc00392" style="HLStype1">中年僧侣</a>诉说
 storyinfo_42011=听<a href="findnpc_new,city04,WorldNpc10436" style="HLStype1">周圣</a>诉说
 storyinfo_42012=听<a href="findnpc_new,city04,FunnpcClone021003" style="HLStype1">石夫人</a>诉说
 storyinfo_42013=听<a href="findnpc_new,city04,WorldNpc10436" style="HLStype1">周圣</a>诉说
@@ -426,7 +426,7 @@ storymenu_42013_2=<font face="Default" color="#ffffff" >我这便去。</font>
 storymenu_42014_1=<font face="Default" color="#ffffff" >此枚血棋子是在石家找到的！</font>
 storymenu_42014_2=<font face="Default" color="#ffffff" >不知先生是否可以代为引见？</font>
 storymenu_42014_3=<font face="Default" color="#ffffff" >阿弥陀佛</font>
-storymenu_42015_1=<font face="Default" color="#ffffff" >阿弥陀佛！施主为何在城中多日行凶？！滥杀无辜！</font>
+storymenu_42015_1=<font face="Default" color="#ffffff" >阿弥陀佛！施主为何在城中多日行凶？！干尽坏事！</font>
 storymenu_42015_2=<font face="Default" color="#ffffff" >阿弥陀佛。</font>
 storymenu_42015_3=<font face="Default" color="#ffffff" >阁下报复为何杀的尽是城中的大户？</font>
 storymenu_42015_4=<font face="Default" color="#ffffff" >阿弥陀佛，原来施主不是刑均可。放下屠刀立地成佛，还望施主随我去投案。</font>

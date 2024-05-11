@@ -5,6 +5,9 @@ DialogID_74404=<font face="Default" color="#ffffff" >我这就将拜帖送至各
 DialogID_74405=<font face="Default" color="#ffffff" >我这就将拜帖送至各大掌门处！</font>
 DialogID_74406=<font face="Default" color="#ffffff" >我这就将拜帖送至各大掌门处！</font>
 DialogID_74407=<font face="Default" color="#ffffff" >我这就将拜帖送至各大掌门处！</font>
+DialogID_74409=<font face="Default" color="#ffffff" >蓬莱岛近来海水汹涌，部分区域有倒灌之势，各大势力频频调动，劳烦少侠速禀盟主。</font>
+DialogID_74410=<font face="Default" color="#ffffff" >无极岛近来牲畜躁动不安，且常有倭寇船只出海，恐将有异象发生，劳烦少侠速报盟主。</font>
+DialogID_74411=<font face="Default" color="#ffffff" >侠客岛及周遭岛屿异变不断，侯某在此通报各宗派绝学传功弟子，少侠请禀报盟主此间异况！</font>
 QiecuoMenu_74401=<font face="Default" color="#ffffff" >你每日在此捣乱，我要教训你一</font><font face="Default" color="#ffffff" >番</font><font face="Default" color="#ffffff" >，让你知道花为什么这么红。</font>
 QiecuoTitle_74401=<font face="Default" color="#ffffff" >就你这小崽子多管闲事是吧！</font>
 SubmitNpcEx_74401=寻找<a href="findnpc_new,city04,FunnpcPet001002" style="HLStype1">刁龙</a>提供线索，获得奖励。
@@ -46,6 +49,8 @@ SubmitNpcEx_74445=<a href="findnpc_new,city05,hd_gq2014_001" style="HLStype1">�
 SubmitNpcEx_74447=<a href="findnpc_new,city02,npc_gaiming" style="HLStype1">易名（改名大使）</a>
 SubmitNpcEx_74448=找到<a href="findnpc_new,city02,npc_gaiming" style="HLStype1">易名（改名大使）</a>
 SubmitNpcEx_74449=回复<a href="findnpc_new,city02,hd_wyhd_001" style="HLStype1">尚武(活动大使)</a>
+SubmitNpcEx_74484=回复<a href="findnpc_new,city02,hd_wyhd_001" style="HLStype1">尚武(活动大使)</a>
+SubmitNpcEx_74503=回禀<a href="findnpc_new,city02,WorldNpc01194" style="HLStype1">林天南</a>
 hunterinfo_74401=击败<a href="findnpc_new,city05,npc_hd_zlw_01" style="HLStype1">朱扒皮</a>。
 hunterinfo_74402=击败<a href="findnpc,city03,1774,4,-32" style="HLStype1">武圣侍从</a>
 interactinfo_74401=前去与<a href="findnpc_new,city02,Transcity02A" style="HLStype1">相军</a>相谈，吩咐其将拜帖送至各大掌门处
@@ -56,6 +61,9 @@ interactinfo_74405=前去与<a href="findnpc_new,city02,Transcity02A" style="HLS
 interactinfo_74406=前去与<a href="findnpc_new,city02,Transcity02A" style="HLStype1">相军</a>相谈，吩咐其将拜帖送至各大掌门处
 interactinfo_74407=前去与<a href="findnpc_new,city02,Transcity02A" style="HLStype1">相军</a>相谈，吩咐其将拜帖送至各大掌门处
 interactinfo_74408=点击<a href="findnpc_new,city03,Gather_wsqfguj_001" style="HLStype1">蒲团</a>祭拜
+interactinfo_74409=前往蓬莱岛寻找<a href="findnpc_new,scene16,donghai_dh_01" style="HLStype1">白灵</a>
+interactinfo_74410=前往无极岛寻找<a href="findnpc_new,scene19,npc_wjd_wjd_001" style="HLStype1">周云天</a>
+interactinfo_74411=前往侠客岛寻找<a href="findnpc_new,scene17,newworld_event_xiake_160" style="HLStype1">候鸟</a>
 interactinfo_74422=帮好友打扫一次家园
 interactinfo_74423=前往<a href="findnpc_new,city03,Gather_wsqfguj_001" style="HLStype1">蒲团</a>处，点击蒲团进行祭拜。
 okmenu_74401=<font face="Default" color="#ffffff" >恩</font>
@@ -64,11 +72,14 @@ okmenu_74404=<font face="Default" color="#ffffff" >恩</font>
 okmenu_74405=<font face="Default" color="#ffffff" >恩</font>
 okmenu_74406=<font face="Default" color="#ffffff" >恩</font>
 okmenu_74407=<font face="Default" color="#ffffff" >恩</font>
+okmenu_74409=<font face="Default" color="#ffffff" >领命！</font>
+okmenu_74410=<font face="Default" color="#ffffff" >领命！</font>
+okmenu_74411=<font face="Default" color="#ffffff" >领命！</font>
 specialinfo_1404=通关暮色之村
 specialinfo_1405=通关青云堡
 specialinfo_1406=通关凤凰山庄
-specialinfo_1407=通关蝙蝠洞
-specialinfo_1408=通关无争秘境
+specialinfo_1407=通关宗门试炼（普通）
+specialinfo_1408=通关宗门试炼（困难）
 specialinfo_1409=通关大漠鬼城
 specialinfo_1410=攻克任意一名一生之敌1次
 specialinfo_1473=完成1次授业，授业进度达到100%
@@ -78,20 +89,17 @@ specialinfo_1494=江湖散擂胜利1次
 specialinfo_1495=完成一次心魔
 specialinfo_1502=完成1次心魔挑战
 useiteminfo_74416=对其他玩家丢<a href="TASK_ITEM,item_shp_190702_1" style="HLStype1">西瓜皮</a>
-useiteminfo_74420=对其他玩家扔5次<a href="TASK_ITEM,item_shp_20191108_1" style="HLStype1">泥球</a>
-
+useiteminfo_74420=对其他玩家使用5次<a href="TASK_ITEM,item_shp_2022113_1" style="HLStype1">雪球</a>
 SubmitNpcEx_74450=回复<a href="findnpc_new,city02,hd_wyhd_001" style="HLStype1">尚武(活动大使)</a>
 SubmitNpcEx_74451=回复<a href="findnpc_new,city02,hd_wyhd_001" style="HLStype1">尚武(活动大使)</a>
 specialinfo_1509=完成1次心魔挑战
 specialinfo_1510=江湖散擂胜利1次
 SubmitNpcEx_74452=返回<a href="findnpc_new,city05,npc_lotto_guj_01" style="HLStype1">司马浩弘(活跃使者)</a>处，获取相应奖励。
 specialinfo_1511=完成任意一次江湖势力挑战
-useiteminfo_74453=对其他玩家使用<a href="TASK_ITEM,useitem_shp_20210408" style="HLStype1">拭剑帖</a>。
-
+useiteminfo_74453=对其他玩家使用<a href="TASK_ITEM,useitem_shp_20211216" style="HLStype1">游历帖</a>。
 SubmitNpcEx_74414=前往苏州荆惠娟（432 812）处领取奖励包
 SubmitNpcEx_74454=<a href="findnpc_new,city02,hd_wyhd_001" style="HLStype1">尚武(活动大使)</a>
 SubmitNpcEx_74455=<a href="findnpc_new,city02,hd_wyhd_001" style="HLStype1">尚武(活动大使)</a>
-
 quest_menu_74456=<font face="Default" color="#ffffff" >猜谜</font>
 quest_menu_74457=<font face="Default" color="#ffffff" >猜谜</font>
 quest_menu_74458=<font face="Default" color="#ffffff" >猜谜</font>
@@ -120,11 +128,36 @@ questioninfo_74466=回答<a href="findnpc_new,city02,sz466" style="HLStype1">姚
 questioninfo_74467=回答<a href="findnpc_new,city02,sz466" style="HLStype1">姚之易</a>的问题
 questioninfo_74468=回答<a href="findnpc_new,city02,sz466" style="HLStype1">姚之易</a>的问题
 questioninfo_74469=回答<a href="findnpc_new,city02,sz466" style="HLStype1">姚之易</a>的问题
-
 SubmitNpcEx_74457=<a href="findnpc_new,city02,hd_wyhd_001" style="HLStype1">尚武(活动大使)</a>
-
 SubmitNpcEx_74459=<a href="findnpc_new,city02,hd_wyhd_001" style="HLStype1">尚武(活动大使)</a>
-
 SubmitNpcEx_74460=<a href="findnpc_new,city02,hd_wyhd_001" style="HLStype1">尚武(活动大使)</a>
-
 specialinfo_1518=江湖散擂获胜一次
+SubmitNpcEx_74476=<a href="findnpc_new,city02,hd_wyhd_001" style="HLStype1">尚武(活动大使)</a>
+SubmitNpcEx_74478=<a href="findnpc_new,city02,hd_wyhd_001" style="HLStype1">尚武(活动大使)</a>
+specialinfo_1520=任意镖局完成5次普通镖运送。
+SubmitNpcEx_74439=<a href="findnpc_new,city02,WorldNpc01097" style="HLStype1">严伦</a>
+specialinfo_1522=通关禁地：青云堡（非序章）
+specialinfo_1523=通关禁地：龙门客栈（马贼线）
+specialinfo_1524=通关禁地：凤凰山庄（非序章）
+SubmitNpcEx_74479=<a href="findnpc_new,city02,hd_wyhd_001" style="HLStype1">尚武(活动大使)</a>
+SubmitNpcEx_74480=<a href="findnpc_new,city02,hd_wyhd_001" style="HLStype1">尚武(活动大使)</a>
+SubmitNpcEx_74481=<a href="findnpc_new,city02,hd_wyhd_001" style="HLStype1">尚武(活动大使)</a>
+hunterinfo_74403=击败<a href="findnpc_new,adv158,npc_qyg_shp_002" style="HLStype1">青蛇</a>
+hunterinfo_74404=击败<a href="findnpc_new,adv158,npc_qyg_shp_003" style="HLStype1">白蛇</a>
+SubmitNpcEx_74483=回复<a href="findnpc_new,city02,hd_wyhd_001" style="HLStype1">尚武(活动大使)</a>
+specialinfo_1537=完成1次高级外域遗珍挖宝
+SubmitNpcEx_74485=回复<a href="findnpc_new,city02,hd_wyhd_001" style="HLStype1">尚武(活动大使)</a>
+specialinfo_1538=参与古墓战场并获胜2次
+SubmitNpcEx_74486=<a href="findnpc_new,city02,hd_wyhd_001" style="HLStype1">尚武(活动大使)</a>
+SubmitNpcEx_74487=返回苏州回复<a href="findnpc_new,city02,hd_wyhd_001" style="HLStype1">尚武(活动大使)</a>
+SubmitNpcEx_74488=回复<a href="findnpc_new,city02,hd_wyhd_001" style="HLStype1">尚武(活动大使)</a>
+SubmitNpcEx_74489=返回苏州回复<a href="findnpc_new,city02,hd_wyhd_001" style="HLStype1">尚武(活动大使)</a>
+specialinfo_1545=任意镖局完成5次普通镖运送。<font face="Default" color="#ff0000" >(注：队伍中至少两人且全部人员为江湖名俊，同时需和队长在同一场景)</font>
+specialinfo_1546=重伤3名夺书或者护书弟子。<font face="Default" color="#ff0000" >（注：夺书弟子可重伤夺书弟子或护书弟子；护书弟子可重伤夺书弟子）</font>
+SubmitNpcEx_74490=<a href="findnpc_new,city02,hd_wyhd_001" style="HLStype1">尚武(活动大使)</a>
+
+specialinfo_1553=参与古墓战场、武道大会、群锋问武、云峰决战四类战场中任意一场。
+SubmitNpcEx_74493=<a href="findnpc_new,city02,hd_wyhd_001" style="HLStype1">尚武(活动大使)</a>
+SubmitNpcEx_74494=<a href="findnpc_new,city02,hd_wyhd_001" style="HLStype1">尚武(活动大使)</a>
+
+SubmitNpcEx_74495=找到<a href="findnpc_new,adv183,qfg_fc_001" style="HLStype1">俞烟</a>

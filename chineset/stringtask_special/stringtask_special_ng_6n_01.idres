@@ -28,7 +28,6 @@ DialogID_61034=<font face="Default" color="#ffffff" >此處</font><font face="De
 DialogID_61035=<font face="Default" color="#ffffff" >據說此處內有水榭樓台，小橋流水。環境優美，同時其間又有廣廈數間，主人用以招待貴客。</font>
 DialogID_61036=<font face="Default" color="#ffffff" >這地方很久沒人來了，不知為何最近突然來了很多人，進進出出，晚上睡覺都睡不安穩！</font>
 DialogID_61037=<font face="Default" color="#ffffff" >晴瑤宮...晴瑤宮...好一個晴瑤宮啊！朕已讓幾大派</font><font face="Default" color="#ffffff" >高手</font><font face="Default" color="#ffffff" >在金陵候命，你</font><font face="Default" color="#ffffff" >去與</font><font face="Default" color="#ffffff" >他們</font><font face="Default" color="#ffffff" >會和</font><font face="Default" color="#ffffff" >，</font><font face="Default" color="#ffffff" >一同</font><font face="Default" color="#ffffff" >打上晴瑤宮！</font>
-DialogID_61042=<font face="Default" color="#ffffff" >上次晴瑤別院一役後，我又多方調查，得知冷千絕極有可能藏身於晴瑤宮，還請少俠准許我一同前往！</font>
 DialogID_61044=<font face="Default" color="#ffffff" >......明時月啊明時月，沒想到，最後明白朕的</font><font face="Default" color="#ffffff" >，竟然是你</font><font face="Default" color="#ffffff" >。</font>
 DialogID_61045=<font face="Default" color="#ffffff" >這幾天，經常有陌生人在這周圍出現，不知道意欲何為。</font>
 DialogID_61047=<font face="Default" color="#ffffff" >想從我這得到消息？哼，就你也配？</font><font face="Default" color="#ffffff" >你們一個個的都想搶我的功勞，豈有這等好事？看招！</font>
@@ -92,7 +91,6 @@ interactinfo_61037=去找<a href="findnpc,born03,330,136,43" style="HLStype1">�
 interactinfo_61038=與<a href="findnpc_new,city03,npc_6n_yxy_002" style="HLStype1">峨眉聯絡人</a>交談。
 interactinfo_61039=與<a href="findnpc_new,city03,npc_6n_yxy_003" style="HLStype1">少林聯絡人</a>。
 interactinfo_61040=與<a href="findnpc_new,city03,npc_6n_yxy_004" style="HLStype1">武當聯絡人</a>交談。
-interactinfo_61041=聯絡四方完畢，找<a href="findnpc,city03,705,4,1331" style="HLStype1">車伕</a>幫忙前去<a href="findnpc_new,born03,eventnpc_6n_yxy_004" style="HLStype1">晴瑤宮門口</a>集合，準備進攻！
 interactinfo_61042=<a href="findnpc_new,born03,npc_6n_yxy_005" style="HLStype1">莫無情</a>？她有事麼？上去問問。
 interactinfo_61044=不見了明時月，只找到一封信，上面寫著「朱棣親啟」，把信帶回去交給<a href="findnpc_new,city03,WorldNpc11046" style="HLStype1">聖上</a>。
 interactinfo_61045=與<a href="findnpc_new,city04,npc_6n_yxy_010" style="HLStype1">附近的人</a>交談，看看能不能打聽到什麼。
@@ -722,10 +720,12 @@ storyinfo_61009=想不到諸派內還有如此惡劣的弟子，死有餘辜！�
 storymenu_61001_1=<font face="Default" color="#ffffff" >明時月？他不是失蹤了嗎？</font>
 storymenu_61019_1=<font face="Default" color="#ffffff" >那</font><font face="Default" color="#ffffff" >明教</font><font face="Default" color="#ffffff" >？</font>
 SubmitNpcEx_71022=前往俠客島找到<a href="findnpc,scene17,1739,63,-849" style="HLStype1">鄭明月(傳功弟子)</a>學習門派絕學
-interactinfo_61043=<font face="Default" color="#EE2C2C" >打入晴瑤宮，尋找明時月.</font>（在禁地晴瑤宮1360，180或許能找到些線索）
 SubmitNpcEx_61041=前往俠客島找到<a href="findnpc_new,scene17,NpcCloneshoptianshan_fc" style="HLStype1">蔣山(傳功弟子)</a>學習門派絕學
 maintext_7802=<font face="Default" color="#ffffff" >你可知其中那一派</font><font face="Default" color="#ffffff" >不</font><font face="Default" color="#ffffff" >屬於隱世門派？</font>
 collectinfo_71012=進入<a href="findnpc,city02,1246,9,493" style="HLStype1">山洞</a>攻克<a href="findnpc,adv032,209,11,432" style="HLStype1">神秘人</a>，拿到解藥
 hunterinfo_71032=俠者，仗義行俠。豈容匪賊猖狂。攻克島上四處流竄的<a href="findnpc_new,scene17,npc_sh_cc_001" style="HLStype1">江湖劍客</a>
 hunterinfo_71033=島上有很多<a href="findnpc,scene16,-61.724,373.549,-315.042" style="HLStype1">武士</a>，攻克他們。<br>島上有很多<a href="findnpc,scene16,322.293,373.254,-381.292" style="HLStype1">武士</a>，攻克他們。<br>島上有很多<a href="findnpc,scene16,-86.243,437.334,-81.582" style="HLStype1">武士</a>，攻克他們。<br>島上有很多<a href="findnpc,scene16,86.825,582.394,559.802" style="HLStype1">武士</a>，攻克他們。<br>島上有很多<a href="findnpc,scene16,31.806,584.271,487.952" style="HLStype1">武士</a>，攻克他們。<br>
+DialogID_61042=<font face="Default" color="#ffffff" >上次晴瑤別院一役後，我又多方調查，得知冷千絕極有可能藏身於晴瑤</font><font face="Default" color="#ffffff" >別院</font><font face="Default" color="#ffffff" >，還請少俠准許我一同前往！</font>
+interactinfo_61041=聯絡四方完畢，找<a href="findnpc,city03,705,4,1331" style="HLStype1">車伕</a>幫忙前去<a href="findnpc_new,born03,eventnpc_6n_yxy_004" style="HLStype1">晴瑤別院</a>集合，準備進攻！
+interactinfo_61043=打入<a href="findnpc_new,born03,PlotDoor_qyby_dy_01" style="HLStype1">晴瑤別院</a>，尋找明時月（在禁地晴瑤宮1372，181或許能找到些線索）
 

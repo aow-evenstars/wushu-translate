@@ -42,4 +42,250 @@ storymenu_74105_1=<font face="Default" color="#ffffff" >也只有如此了。</f
 storymenu_74106_1=<font face="Default" color="#ffffff" >什麼？（</font><font face="Default" color="#ff0000" >秦王恰恰在密宗活動最為猖獗之時表面受害，暗地裡發展壯大，眼下雖無實際證據，但秦王府與密宗或許真的有什麼難以言喻的隱秘聯繫。</font><font face="Default" color="#ffffff" >）</font>
 storymenu_74106_2=<font face="Default" color="#ffffff" >我這就去</font><font face="Default" color="#ffffff" >。</font>
 storymenu_74107_1=<font face="Default" color="#ffffff" >原來如此。</font>
+DialogID_74108=<font face="Default" color="#ffffff" >盛起湯藥</font>
+DialogID_74109=<font face="Default" color="#ffffff" >靈兒。</font>
+DialogID_74110=<font face="Default" color="#ffffff" >我已遣使與你大伯後人取得聯絡，他自會前來蘇州與你見面。屆時只要將這張氏寶圖與我大週二十一死士召喚之法一併交予，你便可功成身退，避居世外安心調養。</font>
+DialogID_74111=<font face="Default" color="#ffffff" >拾取七彩煙霓</font>
+DialogID_74112=<font face="Default" color="#ffffff" >小姐，接到俞莊主的飛鴿傳書。</font>
+DialogID_74115=<font face="Default" color="#ffffff" >小姐，收到俞莊主的飛鴿傳書！</font>
+DialogID_74118=<font face="Default" color="#ffffff" >小姐，</font><font face="Default" color="#ffffff" >張公子</font><font face="Default" color="#ffffff" >已經到了。</font>
+DialogID_74119=<font face="Default" color="#e22b16" >（深鞠一躬）</font><font face="Default" color="#ffffff" >想必姑娘便是姑母信中所提的丹靈妹妹。</font>
+DialogID_74129=<font face="Default" color="#ffffff" >小姐。</font>
+DialogID_74130=<font face="Default" color="#ffffff" >多謝主上提醒，屬下聽從安排！</font><font face="Default" color="#ed2507" >（從懷中取出一份薄冊）</font><font face="Default" color="#ffffff" >這便是飛鷹地宮圖。</font>
+DialogID_74131=<font face="Default" color="#ffffff" >這是何物？</font>
+DialogID_74144=<font face="Default" color="#ffffff" >屬下俞懷冰，參見吾主！</font>
+DialogID_74145=<font face="Default" color="#ffffff" >小姐，收到俞莊主的飛鴿傳書。</font>
+DialogID_74147=<font face="Default" color="#ffffff" >經過上一次</font><font face="Default" color="#ffffff" >的教訓</font><font face="Default" color="#ffffff" >，在下已不敢相信你了。為了</font><font face="Default" color="#ffffff" >早日得知</font><font face="Default" color="#ffffff" >俞莊主的</font><font face="Default" color="#ffffff" >下落</font><font face="Default" color="#ffffff" >，只好委屈一下姑娘。</font>
+DialogID_74149=<font face="Default" color="#ffffff" >小姐，請節哀。</font>
+SubmitNpcEx_74128=詢問<a href="findnpc_new,adv185,npc_2304_dy_57" style="HLStype1">東方凌少</a>之後的打算
+SubmitNpcEx_74129=<a href="findnpc_new,adv185,npc_2304_dy_61" style="HLStype1">離開</a>此地，尋訪<a href="findnpc_new,adv183,qingfanggong001" style="HLStype1">張丹靈</a>（通過<a href="findnpc_new,city02,Transsceneadv183A" style="HLStype1">田凌</a>前往晴芳宮）
+hunterinfo_74107=擊敗不長眼的<a href="findnpc_new,adv186,npc_2304_dy_001" style="HLStype1">江湖人</a>
+hunterinfo_74108=擊敗不長眼的<a href="findnpc_new,adv186,npc_2304_dy_002" style="HLStype1">江湖人</a>
+hunterinfo_74109=擊敗不長眼的<a href="findnpc_new,adv186,npc_2304_dy_003" style="HLStype1">江湖人</a>
+hunterinfo_74110=擊敗攔路的<a href="findnpc_new,adv185,npc_2304_dy_004" style="HLStype1">地痞</a>
+hunterinfo_74111=擊敗攔路的<a href="findnpc_new,adv185,npc_2304_dy_005" style="HLStype1">地痞</a>
+hunterinfo_74112=擊敗攔路的<a href="findnpc_new,adv185,npc_2304_dy_006" style="HLStype1">馬匪</a>
+hunterinfo_74123=擊敗俞家莊未撤離的<a href="findnpc_new,adv186,npc_2304_dy_010" style="HLStype1">敵人</a>
+hunterinfo_74124=擊敗俞家莊未撤離的<a href="findnpc_new,adv186,npc_2304_dy_011" style="HLStype1">敵人</a>
+hunterinfo_74125=擊敗俞家莊未撤離的<a href="findnpc_new,adv186,npc_2304_dy_012" style="HLStype1">敵人</a>
+hunterinfo_74126=擊敗<a href="findnpc_new,adv186,npc_2304_dy_007" style="HLStype1">殺手</a>
+hunterinfo_74127=擊敗<a href="findnpc_new,adv186,npc_2304_dy_008" style="HLStype1">殺手</a>
+hunterinfo_74128=擊敗<a href="findnpc_new,adv186,npc_2304_dy_009" style="HLStype1">殺手</a>
+hunterinfo_74129=前往<a href="findnpc_new,adv185,npc_2304_dy_71" style="HLStype1">風鈴谷</a>擊敗<a href="findnpc_new,adv185,npc_2304_dy_013" style="HLStype1">殺手</a>，救出俞綰綰
+interactinfo_74108=將煎好的<a href="findnpc_new,adv185,npc_2304_dy_46" style="HLStype1">湯藥</a>拿給母親服用
+interactinfo_74109=將湯藥拿給<a href="findnpc_new,adv185,npc_2304_dy_01" style="HLStype1">母親</a>服用
+interactinfo_74110=<a href="findnpc_new,adv185,npc_2304_dy_01" style="HLStype1">母親</a>有些東西要交給你
+interactinfo_74111=回到<a href="findnpc_new,adv185,npc_2304_dy_59" style="HLStype1">埋花居</a>，使用<a href="findnpc_new,adv185,npc_2304_dy_47" style="HLStype1">七彩煙霓</a>召喚死士
+interactinfo_74112=<a href="findnpc_new,adv185,npc_2304_dy_48" style="HLStype1">侍女</a>送來的飛鴿傳書
+interactinfo_74113=<a href="findnpc_new,adv185,npc_2304_dy_58" style="HLStype1">離開</a>埋花居，前往城郊<a href="findnpc_new,adv185,Eventnpc_2304_dy_01" style="HLStype1">破廟</a>
+interactinfo_74114=回到<a href="findnpc_new,adv185,npc_2304_dy_66" style="HLStype1">蘇州</a>找到<a href="findnpc_new,adv185,Eventnpc_2304_dy_02" style="HLStype1">趙子亟</a>
+interactinfo_74115=<a href="findnpc_new,adv185,npc_2304_dy_50" style="HLStype1">侍女</a>送來飛鴿傳書
+interactinfo_74116=韓似錦等人聚集於<a href="findnpc_new,adv185,Eventnpc_2304_dy_03" style="HLStype1">客棧</a>，前往客棧一探究竟
+interactinfo_74117=前往暮色之村深處，找到<a href="findnpc_new,adv186,Eventnpc_2304_dy_04" style="HLStype1">趙子亟</a>
+interactinfo_74118=<a href="findnpc_new,adv185,npc_2304_dy_52" style="HLStype1">侍女</a>有事稟報
+interactinfo_74119=和<a href="findnpc_new,adv185,npc_2304_dy_17" style="HLStype1">張丹栩</a>見面
+interactinfo_74120=<a href="findnpc_new,adv185,npc_2304_dy_60" style="HLStype1">離開</a>埋花居，前往<a href="findnpc_new,adv185,Eventnpc_2304_dy_05" style="HLStype1">蘇州</a>
+interactinfo_74121=在<a href="findnpc_new,adv186,Eventnpc_2304_dy_06" style="HLStype1">煙雨莊</a>散散心（可通過碼頭<a href="findnpc_new,adv185,npc_2304_dy_68" style="HLStype1">離開</a>蘇州）
+interactinfo_74122=<a href="findnpc_new,adv186,npc_2304_dy_24" style="HLStype1">侍女</a>飯後，侍女說張丹栩欲解釋寶藏賑災一事，仍等在客棧不肯離去。張丹靈回應與這所謂兄長本就交淺言深，自去年那事後，更是道不同不相為謀，再無見面必要，並讓侍女將張丹栩所贈寶劍歸還。
+interactinfo_74123=酒樓中人聲嘈雜，前往<a href="findnpc_new,adv186,Eventnpc_2304_dy_07" style="HLStype1">然亭</a>觀景
+interactinfo_74124=<a href="findnpc_new,adv186,Eventnpc_2304_dy_08" style="HLStype1">離開</a>此處
+interactinfo_74125=<a href="findnpc_new,adv186,npc_2304_dy_62" style="HLStype1">離開</a>天外天，前往<a href="findnpc_new,adv186,Eventnpc_2304_dy_09" style="HLStype1">俞家莊</a>
+interactinfo_74126=<a href="findnpc_new,adv186,Eventnpc_2304_dy_10" style="HLStype1">離開</a>俞家莊
+interactinfo_74127=恐慕容雙破壞計劃，前往<a href="findnpc_new,adv185,Eventnpc_2304_dy_11" style="HLStype1">官道</a>（<a href="findnpc_new,adv186,npc_2304_dy_63" style="HLStype1">離開</a>俞家莊）
+interactinfo_74128=檢查<a href="findnpc_new,adv185,Eventnpc_2304_dy_12" style="HLStype1">轎子</a>
+interactinfo_74129=讓<a href="findnpc_new,adv185,npc_2304_dy_55" style="HLStype1">侍女</a>帶俞綰綰去城郊
+interactinfo_74130=<a href="findnpc_new,adv186,npc_2304_dy_28" style="HLStype1">俞懷冰</a>將飛鷹地宮圖交給你
+interactinfo_74131=將飛鷹地宮圖交給<a href="findnpc_new,adv185,npc_2304_dy_32" style="HLStype1">俞綰綰</a>
+interactinfo_74132=<a href="findnpc_new,adv185,npc_2304_dy_64" style="HLStype1">離開</a>此處，前往<a href="findnpc_new,adv186,Eventnpc_2304_dy_13" style="HLStype1">俞家莊</a>。查看計劃的進展
+interactinfo_74133=<a href="findnpc_new,adv186,npc_2304_dy_70" style="HLStype1">離開</a>俞家莊，在<a href="findnpc_new,adv185,Eventnpc_2304_dy_14" style="HLStype1">埋花居</a>中等待消息
+interactinfo_74134=<a href="findnpc_new,adv185,npc_2304_dy_71" style="HLStype1">前往</a>風鈴谷，保護<a href="findnpc_new,adv185,npc_2304_dy_37" style="HLStype1">俞綰綰</a>
+interactinfo_74135=前往<a href="findnpc_new,adv185,npc_2304_dy_72" style="HLStype1">渡口</a>追擊<a href="findnpc_new,adv185,Eventnpc_2304_dy_15" style="HLStype1">慕容百世</a>
+interactinfo_74136=查看<a href="findnpc_new,adv185,Eventnpc_2304_dy_16" style="HLStype1">慕容百世</a>
+interactinfo_74137=<a href="findnpc_new,adv185,npc_2304_dy_73" style="HLStype1">離開</a>飛鷹地宮，回到<a href="findnpc_new,adv185,Eventnpc_2304_dy_17" style="HLStype1">埋花居</a>
+interactinfo_74138=前往<a href="findnpc_new,adv185,Eventnpc_2304_dy_18" style="HLStype1">碼頭</a>，離開蘇州
+interactinfo_74139=回到<a href="findnpc_new,adv185,npc_2304_dy_59" style="HLStype1">太湖埋花居</a>安排下一步的計劃
+interactinfo_74140=前往<a href="findnpc_new,adv185,Eventnpc_2304_dy_20" style="HLStype1">碼頭</a>，離開蘇州
+interactinfo_74141=<a href="findnpc_new,adv186,Eventnpc_2304_dy_21" style="HLStype1">離開</a>俞家莊
+interactinfo_74142=前往<a href="findnpc_new,adv185,Eventnpc_2304_dy_22" style="HLStype1">酒樓</a>，瞭解此時的江湖時局（和<a href="findnpc_new,adv185,npc_2304_dy_80" style="HLStype1">侍女</a>一起回到城中）
+interactinfo_74143=<a href="findnpc_new,adv185,Eventnpc_2304_dy_23" style="HLStype1">隱匿</a>到佛像背後
+interactinfo_74144=安排<a href="findnpc_new,adv185,npc_2304_dy_04" style="HLStype1">俞懷冰</a>去實現計劃
+interactinfo_74145=<a href="findnpc_new,adv186,npc_2304_dy_54" style="HLStype1">侍女</a>送來飛鴿傳書
+interactinfo_74146=<a href="findnpc_new,adv186,Eventnpc_2304_dy_24" style="HLStype1">離開</a>俞家莊
+interactinfo_74147=<a href="findnpc_new,adv186,npc_2304_dy_74" style="HLStype1">東方凌少</a>似乎不願就此離開
+interactinfo_74148=<a href="findnpc_new,adv185,Eventnpc_2304_dy_26" style="HLStype1">回家</a>照顧病重的母親
+interactinfo_74149=接過<a href="findnpc_new,adv185,npc_2304_dy_77" style="HLStype1">侍女</a>手中的祭品
+interactinfo_74150=母親不幸於幾月前去世，前往<a href="findnpc_new,adv185,Eventnpc_2304_dy_27" style="HLStype1">城郊</a>祭拜母親（和<a href="findnpc_new,adv185,npc_2304_dy_79" style="HLStype1">侍女</a>對話前往城郊）
+interactinfo_74151=深入<a href="findnpc_new,adv186,Eventnpc_2304_dy_28" style="HLStype1">俞家莊</a>
+okmenu_74108=<font face="Default" color="#ffffff" >確定</font>
+okmenu_74109=<font face="Default" color="#ffffff" >母親，該服藥了。</font>
+okmenu_74110=<font face="Default" color="#ffffff" >是，母親。</font>
+okmenu_74111=<font face="Default" color="#ffffff" >確定</font>
+okmenu_74112=<font face="Default" color="#ffffff" >（接過書信）</font>
+okmenu_74115=<font face="Default" color="#ffffff" >（接過書信）</font>
+okmenu_74118=<font face="Default" color="#ffffff" >請他請來</font><font face="Default" color="#ffffff" >。</font>
+okmenu_74119=<font face="Default" color="#ffffff" >兄長不必多禮。今日勞兄長前來，是為遵照族規，將我大周張氏一族的傳世寶藏圖親手交付。</font>
+okmenu_74129=<font face="Default" color="#ffffff" >你將她安置到城郊的宅子裡。</font>
+okmenu_74130=<font face="Default" color="#ed190e" >（收下圖冊）</font>
+okmenu_74131=<font face="Default" color="#ffffff" >飛鷹地宮圖，這本就是你家的東西，現在物歸原主。</font>
+okmenu_74144=<font face="Default" color="#d63111" >(遞上一張字條)</font><font face="Default" color="#ffffff" >免禮，這上面幾樁事，交由你去辦理。</font>
+okmenu_74145=<font face="Default" color="#ffffff" >約我去俞家莊？</font>
+okmenu_74147=<font face="Default" color="#ffffff" >公子請自便。</font>
+okmenu_74149=<font face="Default" color="#ffffff" >（接過祭品）</font>
+story_74108_1=<font face="Default" color="#ffffff" >想不到有生之年，還能回歸我大周張氏一族的故土。埋骨於此，無憾。</font>
+story_74108_2=<font face="Default" color="#ffffff" >無需</font><font face="Default" color="#ffffff" >多言，我的身體狀況自己豈能不知。還記得三年前在朝鮮，我將你易容成兩班貴族閨秀時所交代的事麼？</font>
+story_74108_3=<font face="Default" color="#ffffff" >你只用兩年便達成任務，全身而退，不愧是我張家子孫。</font>
+story_74108_4=<font face="Default" color="#ffffff" >……靈兒，母親明知你自幼患絕脈之症，長期為病痛折磨，卻仍這般苛刻教戒，你心中可有怨恨？</font>
+story_74109_1=<font face="Default" color="#ffffff" >主上，查明錦衣衛在蘇州的秘密據點不難，暮色之村的情報也能輕易獲取，但……為何要將先帝寶藏的位置也洩露出去？</font>
+story_74109_2=<font face="Default" color="#ffffff" >這樣一來，諸多人馬必定會蜂擁趕至暮色之村，萬一</font><font face="Default" color="#ffffff" >……</font>
+story_74109_3=<font face="Default" color="#ffffff" >……屬下定不</font><font face="Default" color="#ffffff" >負</font><font face="Default" color="#ffffff" >主上所托！</font>
+story_74110_1=<font face="Default" color="#ffffff" >遵命！</font>
+story_74111_1=<font face="Default" color="#ffffff" >回主上，</font><font face="Default" color="#ffffff" >一干人等都到了</font><font face="Default" color="#ffffff" >暮色之村。</font>
+story_74112_1=<font face="Default" color="#ffffff" >錦衣衛</font><font face="Default" color="#ffffff" >眾</font><font face="Default" color="#ffffff" >已提前埋伏在</font><font face="Default" color="#ffffff" >周圍</font><font face="Default" color="#ffffff" >，除此之外還</font><font face="Default" color="#ffffff" >有</font><font face="Default" color="#ffffff" >許多江湖人</font><font face="Default" color="#ffffff" >馬，看來</font><font face="Default" color="#ffffff" >都想乘亂從中分一杯羹。</font>
+story_74113_1=<font face="Default" color="#ffffff" >犧牲這麼多無辜生命是否值得嗎？</font>
+story_74114_1=<font face="Default" color="#ffffff" >丹靈妹子，我何嘗不知你心中所想。但……請恕為兄直言，這些年我走南闖北，去過不少地方，既領略過繁城茂市的八街九陌、萬戶擁芳，亦體會過戰亂地帶的兵荒馬亂、顛沛流離。對我來說</font><font face="Default" color="#ffffff" >，</font><font face="Default" color="#ffffff" >個人和家族的委曲榮辱並沒有那麼重要。如果能做到保境安民，和歌昇平，那麼誰在那個位置不行呢？</font>
+story_74115_1=<font face="Default" color="#ffffff" >小姐，</font><font face="Default" color="#ffffff" >張</font><font face="Default" color="#ffffff" >公子欲解釋寶藏賑災一事，仍等在客棧不肯離去。</font>
+story_74116_1=<font face="Default" color="#ffffff" >在下只是想欣賞美人月下奏琴的曼妙意境</font><font face="Default" color="#ffffff" >。</font><font face="Default" color="#ffffff" >可惜</font><font face="Default" color="#ffffff" >，</font><font face="Default" color="#ffffff" >花朝節這樣才子佳人頻出的盛會，卻獨缺</font><font face="Default" color="#ffffff" >少姑娘</font><font face="Default" color="#ffffff" >這樣的操琴高手。</font>
+story_74117_1=<font face="Default" color="#ffffff" >有何不敢？</font>
+story_74118_1=<font face="Default" color="#ffffff" >此處甚好，只是</font><font face="Default" color="#ffffff" >在下愈發猜不透姑娘的身份了</font><font face="Default" color="#ffffff" >。</font>
+story_74118_2=<font face="Default" color="#ffffff" >姑娘可知在然亭中遇到的暗殺是何人</font><font face="Default" color="#ffffff" >指使</font><font face="Default" color="#ffffff" >？</font>
+story_74118_3=<font face="Default" color="#ffffff" >（莫非是慕容世家！）</font>
+story_74118_4=<font face="Default" color="#ffffff" >敝</font><font face="Default" color="#ffffff" >堂玉筆先生石硯冰與俞家莊莊主是世交，據他所言，俞家莊根本沒有什麼藏寶圖，這突如其來的謠言透著蹊蹺，石先生亦有著人查探此事，但暫時還沒有線索。</font>
+story_74118_5=<font face="Default" color="#ffffff" >難怪君子堂的花朝節盛會上也出現了許多陌生江湖客。可這是為何？</font>
+story_74119_1=<font face="Default" color="#ffffff" >奴婢保護小姐不利，請小姐責罰！</font>
+story_74119_2=<font face="Default" color="#ffffff" >奴婢已將寶劍交還於</font><font face="Default" color="#ffffff" >張公子</font><font face="Default" color="#ffffff" >。</font>
+story_74120_1=<font face="Default" color="#ffffff" >在下與姑娘相談甚歡，既然姑娘有要事需要處理。在下便不再叨擾，期待與姑娘的下次再見。</font>
+story_74121_1=<font face="Default" color="#ffffff" >奴婢有一事不解。</font><font face="Default" color="#ffffff" >天外天一直暗中行事，小姐為何要將東方凌少邀來此處？</font>
+story_74122_1=<font face="Default" color="#f4100c" >（趨與為禮）</font><font face="Default" color="#ffffff" >主上，屬下之妻當年因與我成親觸犯移花宮門規，身困飛鷹地宮至今。屬下所持飛鷹地宮圖竟被那慕容世家大莊主慕容百世當成藏寶圖。眼下他設下圈套迫我愛女與其養子締結婚約，屬下計無他策，只得求助於您！</font>
+story_74122_2=<font face="Default" color="#ffffff" >請主上明言。</font>
+story_74123_1=<font face="Default" color="#ffffff" >張姑娘，家父向來對你恭敬有加，百般聽從。但你可知曉此次決定，有可能會給俞家莊帶來怎樣的麻煩？更何況我已心有所屬，怎能捨愛嫁入慕容世家？</font>
+story_74123_2=<font face="Default" color="#ffffff" >等等！若我答應按照你的要求去做，是不是就能助我爹闖過這一生死</font><font face="Default" color="#ffffff" >難</font><font face="Default" color="#ffffff" >關？</font>
+story_74125_1=<font face="Default" color="#ffffff" >我父親如何了？</font>
+story_74126_1=<font face="Default" color="#ffffff" >《九陰真經》出現在俞家莊的假消息同天外天</font><font face="Default" color="#ffffff" >脫不了干係</font><font face="Default" color="#ffffff" >。</font><font face="Default" color="#ffffff" >看來</font><font face="Default" color="#ffffff" >姑娘前幾日帶在下去天外天，也是計劃的一環。將朝廷和諸多勢力引去俞家莊，螳螂捕蟬，黃雀在後。姑娘好手段！</font>
+story_74126_2=<font face="Default" color="#ffffff" >死的雖是貪婪之輩，可</font><font face="Default" color="#ffffff" >俞家莊</font><font face="Default" color="#ffffff" >何</font><font face="Default" color="#ffffff" >辜</font><font face="Default" color="#ffffff" >？</font><font face="Default" color="#ffffff" >我</font><font face="Default" color="#ffffff" >受石先生所托</font><font face="Default" color="#ffffff" >前來相助</font><font face="Default" color="#ffffff" >，想不到還是遲</font><font face="Default" color="#ffffff" >了</font><font face="Default" color="#ffffff" >一步！</font>
+story_74126_3=<font face="Default" color="#ffffff" >但此地並不安全。</font>
+story_74127_1=<font face="Default" color="#ffffff" >綰綰小姐在極樂谷遭遇到了閉門羹……</font><font face="Default" color="#ed220b" >（靠過來將俞綰綰與隱風、玄衣龍女之事稟告於你）</font>
+story_74128_1=<font face="Default" color="#ea2b0e" >（思忖片刻，點了點頭）</font><font face="Default" color="#ffffff" >好。</font>
+story_74129_1=<font face="Default" color="#ffffff" >……他也來到了這裡，就隱在暗處。我……我不想見他。</font>
+story_74130_1=<font face="Default" color="#ffffff" >問世間情為何物，只教生死相許。</font>
+story_74130_2=<font face="Default" color="#ffffff" >若是</font><font face="Default" color="#ffffff" >靈兒</font><font face="Default" color="#ffffff" >姑娘被困於此，在下可能也會如隱風一般。隱藏於左右，伺機救出姑娘。</font>
+story_74130_3=<font face="Default" color="#ffffff" >在下從未跳出三界外，不在五行中，自然從頭到尾都是俗人一個。靈兒姑娘喚我凌少就好。</font>
+story_74131_1=<font face="Default" color="#ffffff" >在下一時大意，</font><font face="Default" color="#ffffff" >只顧著……</font><font face="Default" color="#ffffff" >未能策應綰綰姑娘。</font>
+story_74131_2=<font face="Default" color="#ffffff" >何意？</font>
+story_74132_1=<font face="Default" color="#f40909" >（盯著你的眸光微不可察地深了一分）</font><font face="Default" color="#ffffff" >……此事是否也在你的預料之內？</font>
+story_74133_1=<font face="Default" color="#ffffff" >我厭煩</font><font face="Default" color="#ffffff" >江湖爭鬥，</font><font face="Default" color="#ffffff" >厭煩這裡的一切。我會找個安靜的地方生活，等待和爹團聚。</font>
+story_74134_1=<font face="Default" color="#ffffff" >江西廣信府、建昌、撫州及福建建寧、邵武疫死八萬三千五百四十餘戶，此刻全國各地均爆發了大小不一的瘟疫。</font>
+story_74134_2=<font face="Default" color="#ffffff" >張</font><font face="Default" color="#ffffff" >公子已將……寶藏之財散盡，於各地拯救受災百姓。</font>
+story_74135_1=<font face="Default" color="#ffffff" >天下無不散之筵席，確實該走了。但我們還會有見面之日。</font>
+story_74136_1=<font face="Default" color="#e5230d" >（唇角一彎）</font><font face="Default" color="#ffffff" >沒有敝門堂主的「笑裡藏刀」和硯冰先生的「耳提面命」，甚好，在下已許久沒有體會過這般寧靜。</font>
+story_74136_2=<font face="Default" color="#ffffff" >姑娘說笑了。</font><font face="Default" color="#ffffff" >有</font><font face="Default" color="#ffffff" >佳人</font><font face="Default" color="#ffffff" >相伴，便是</font><font face="Default" color="#ffffff" >殞命於此又何妨</font><font face="Default" color="#ffffff" >。</font>
+story_74136_3=<font face="Default" color="#ffffff" >對了靈兒姑娘，我觀你面容舉止，似有</font><font face="Default" color="#ffffff" >欠安</font><font face="Default" color="#ffffff" >，此間事了後，不知可願隨我前往君子堂，請布神醫問診一番。</font>
+story_menu_74108=<font face="Default" color="#ffffff" >母親，身體如何了？</font>
+story_menu_74109=<font face="Default" color="#ffffff" >可還有什麼疑問？</font>
+story_menu_74110=<font face="Default" color="#ffffff" >不能讓俞綰綰破壞了計劃，你去將她引開。</font>
+story_menu_74111=<font face="Default" color="#ffffff" >進展如何了？</font>
+story_menu_74112=<font face="Default" color="#ffffff" >眼下情形如何</font>
+story_menu_74113=<font face="Default" color="#ffffff" >俞莊主似乎有話要說。</font>
+story_menu_74114=<font face="Default" color="#ffffff" >兄長覺得</font><font face="Default" color="#ffffff" >眼下時局</font><font face="Default" color="#ffffff" >如何？</font>
+story_menu_74115=<font face="Default" color="#ffffff" >何事？</font>
+story_menu_74116=<font face="Default" color="#ffffff" >公子跟蹤小女至此，意欲為何？</font>
+story_menu_74117=<font face="Default" color="#ffffff" >我可以帶公子去一個安全的地方，但必須蒙住眼睛。公子你，敢不敢？</font>
+story_menu_74118=<font face="Default" color="#ffffff" >此地如何？</font>
+story_menu_74119=<font face="Default" color="#ffffff" >何事？</font>
+story_menu_74120=<font face="Default" color="#ffffff" >公子，小女還有其他要事</font><font face="Default" color="#ffffff" >。</font>
+story_menu_74121=<font face="Default" color="#ffffff" >你有疑惑？</font>
+story_menu_74122=<font face="Default" color="#ffffff" >俞莊主</font>
+story_menu_74123=<font face="Default" color="#ffffff" >俞家小姐？</font>
+story_menu_74125=<font face="Default" color="#ffffff" >此刻的俞家莊已不再安全，</font><font face="Default" color="#ffffff" >你在外面保護好自己</font><font face="Default" color="#ffffff" >。</font>
+story_menu_74126=<font face="Default" color="#ffffff" >東方公子</font>
+story_menu_74127=<font face="Default" color="#ffffff" >何事？</font>
+story_menu_74128=<font face="Default" color="#ffffff" >俞莊主仍然下落不明，但是他的千金將會暫時去往風鈴谷，東方公子可要隨我一同前去？</font>
+story_menu_74129=<font face="Default" color="#ffffff" >此前聽聞你的</font><font face="Default" color="#ffffff" >雙目</font><font face="Default" color="#ffffff" >被陸倩娘所害。今日見</font><font face="Default" color="#ffffff" >來</font><font face="Default" color="#ffffff" >，</font><font face="Default" color="#ffffff" >想必</font><font face="Default" color="#ffffff" >已復明，為何還要裝作未曾痊癒？</font>
+story_menu_74130=<font face="Default" color="#ffffff" >呵，極樂谷鬼使，竟也是這般兒女情長的人物。</font>
+story_menu_74131=<font face="Default" color="#ffffff" >慕容百世……</font>
+story_menu_74132=<font face="Default" color="#ffffff" >一招斃命，不愧是移花宮主……</font>
+story_menu_74133=<font face="Default" color="#ffffff" >俞莊主眼下身在異地，你可有去處？</font>
+story_menu_74134=<font face="Default" color="#ffffff" >何事？</font>
+story_menu_74135=<font face="Default" color="#ffffff" >戲散場了，你也該走了。</font>
+story_menu_74136=<font face="Default" color="#ffffff" >看來東方公子這幾日，過得頗為愜意。</font>
+storyinfo_74108=<a href="findnpc_new,adv185,npc_2304_dy_01" style="HLStype1">母親</a>有些話要和你說
+storyinfo_74109=<a href="findnpc_new,adv185,npc_2304_dy_04" style="HLStype1">俞懷冰</a>似乎有些許疑惑
+storyinfo_74110=吩咐<a href="findnpc_new,adv185,npc_2304_dy_49" style="HLStype1">侍女</a>引開俞綰綰
+storyinfo_74111=<a href="findnpc_new,adv185,npc_2304_dy_15" style="HLStype1">俞懷冰</a>有事稟報
+storyinfo_74112=前往<a href="findnpc_new,adv185,npc_2304_dy_67" style="HLStype1">暮色之村</a>和<a href="findnpc_new,adv186,npc_2304_dy_51" style="HLStype1">俞懷冰</a>匯合
+storyinfo_74113=<a href="findnpc_new,adv186,npc_2304_dy_16" style="HLStype1">俞懷冰（船）</a>任務完成傳送
+storyinfo_74114=不知張丹栩是否願意為復國出力，試探<a href="findnpc_new,adv185,npc_2304_dy_17" style="HLStype1">張丹栩</a>
+storyinfo_74115=<a href="findnpc_new,adv186,npc_2304_dy_24" style="HLStype1">侍女</a>有事稟報
+storyinfo_74116=<a href="findnpc_new,adv186,npc_2304_dy_26" style="HLStype1">東方凌少</a>竟也出現在此處，詢問他為何跟蹤自己
+storyinfo_74117=邀請<a href="findnpc_new,adv186,npc_2304_dy_27" style="HLStype1">東方凌少</a>前往天外天
+storyinfo_74118=<a href="findnpc_new,adv186,npc_2304_dy_53" style="HLStype1">東方凌少</a>似乎對你頗為好奇（前往<a href="findnpc_new,adv186,npc_2304_dy_69" style="HLStype1">天外天</a>）
+storyinfo_74119=<a href="findnpc_new,adv186,npc_2304_dy_54" style="HLStype1">侍女</a>有事稟報
+storyinfo_74120=送<a href="findnpc_new,adv186,npc_2304_dy_53" style="HLStype1">東方凌少</a>離開天外天
+storyinfo_74121=<a href="findnpc_new,adv186,npc_2304_dy_54" style="HLStype1">侍女</a>對此事頗為不解
+storyinfo_74122=<a href="findnpc_new,adv186,npc_2304_dy_28" style="HLStype1">俞懷冰</a>有要事相商
+storyinfo_74123=<a href="findnpc_new,adv186,npc_2304_dy_29" style="HLStype1">俞綰綰</a>攔住了去處
+storyinfo_74124=<a href="findnpc_new,adv186,npc_2304_dy_29" style="HLStype1">俞綰綰</a>訴說叮囑注意安全
+storyinfo_74125=安排<a href="findnpc_new,adv185,npc_2304_dy_32" style="HLStype1">俞綰綰</a>在城郊匿藏
+storyinfo_74126=<a href="findnpc_new,adv186,npc_2304_dy_33" style="HLStype1">東方凌少</a>竟在此處
+storyinfo_74127=<a href="findnpc_new,adv185,npc_2304_dy_35" style="HLStype1">侍女</a>有事稟報
+storyinfo_74128=邀請<a href="findnpc_new,adv185,npc_2304_dy_34" style="HLStype1">東方凌少</a>一同前往風鈴谷
+storyinfo_74129=查看<a href="findnpc_new,adv185,npc_2304_dy_37" style="HLStype1">俞綰綰</a>的眼睛
+storyinfo_74130=詢問<a href="findnpc_new,adv185,npc_2304_dy_42" style="HLStype1">東方凌少</a>對此事的看法
+storyinfo_74131=和<a href="findnpc_new,adv185,npc_2304_dy_42" style="HLStype1">東方凌少</a>一起，追擊慕容百世
+storyinfo_74132=和<a href="findnpc_new,adv185,npc_2304_dy_56" style="HLStype1">東方凌少</a>一起返回埋花居
+storyinfo_74133=詢問<a href="findnpc_new,adv185,npc_2304_dy_45" style="HLStype1">俞綰綰</a>此後的打算
+storyinfo_74134=<a href="findnpc_new,adv185,npc_2304_dy_52" style="HLStype1">侍女</a>有事稟報
+storyinfo_74135=詢問<a href="findnpc_new,adv185,npc_2304_dy_57" style="HLStype1">東方凌少</a>此後的打算
+storyinfo_74136=<a href="findnpc_new,adv185,npc_2304_dy_34" style="HLStype1">東方凌少</a>似乎有話想說
+storymenu_74108_1=<font face="Default" color="#ffffff" >母親！</font>
+storymenu_74108_2=<font face="Default" color="#ffffff" >周旋於士大夫子弟與史曹判書庶子之間，將當年出賣曾祖父後逃亡至此的高氏家族連根拔起，奪回張家寶圖。</font>
+storymenu_74108_3=<font face="Default" color="#ffffff" >分內之事，母親過譽了。</font>
+storymenu_74108_4=<font face="Default" color="#ffffff" >未曾，您多慮了。</font>
+storymenu_74109_1=<font face="Default" color="#ffffff" >不過是替他們省時省力罷了。</font>
+storymenu_74109_2=<font face="Default" color="#ffffff" >不過是替我省事罷了。</font>
+storymenu_74109_3=<font face="Default" color="#ffffff" >去吧</font><font face="Default" color="#ffffff" >。</font>
+storymenu_74110_1=<font face="Default" color="#ffffff" >切記，不可暴露自己的身份！</font>
+storymenu_74111_1=<font face="Default" color="#ffffff" >我們也出發罷</font><font face="Default" color="#ffffff" >。</font>
+storymenu_74112_1=<font face="Default" color="#ffffff" >呵，</font><font face="Default" color="#ffffff" >那便瞧瞧他們的手段。</font>
+storymenu_74113_1=<font face="Default" color="#ffffff" >......行船吧</font>
+storymenu_74114_1=<font face="Default" color="#ffffff" >兄長胸襟坦蕩，明月入懷，丹靈佩服。</font>
+storymenu_74115_1=<font face="Default" color="#ffffff" >我與</font><font face="Default" color="#ffffff" >這位一面之緣的便宜兄長</font><font face="Default" color="#ffffff" >本就交淺言</font><font face="Default" color="#ffffff" >更淺</font><font face="Default" color="#ffffff" >，自去年那事後，更是道不同不相為謀，再無見面必要。你去一趟，將寶劍還給他罷。</font>
+storymenu_74116_1=<font face="Default" color="#ffffff" >若小女前往，便沒有操琴的高手，有的只</font><font face="Default" color="#ffffff" >會</font><font face="Default" color="#ffffff" >是最危險的客人。</font>
+storymenu_74117_1=<font face="Default" color="#ffffff" >甚好。</font>
+storymenu_74118_1=<font face="Default" color="#f70e0e" >（笑而不語）</font>
+storymenu_74118_2=<font face="Default" color="#ffffff" >他們其中暗藏幾名東瀛武士。四大世家中與東瀛武士有染的是哪一家，公子想必已有耳聞。</font>
+storymenu_74118_3=<font face="Default" color="#ffffff" >公子可知最近傳得沸沸揚揚的俞家莊藏寶圖一事？</font>
+storymenu_74118_4=<font face="Default" color="#ffffff" >小女所依附的勢力最近損失了一批人馬，但打聽到俞家莊此次惹到的麻煩恐與絕世秘笈《九陰真經》有關，不但江湖上已有人知曉此事，朝廷派遣的勢力恐怕也有滲入。</font>
+storymenu_74118_5=<font face="Default" color="#ffffff" >其中細節，小女也不甚清楚。</font>
+storymenu_74119_1=<font face="Default" color="#ffffff" >不必</font><font face="Default" color="#ffffff" >自責</font><font face="Default" color="#ffffff" >。</font>
+storymenu_74119_2=<font face="Default" color="#ffffff" >很好</font><font face="Default" color="#ffffff" >。現在</font><font face="Default" color="#ffffff" >你護送</font><font face="Default" color="#ffffff" >這位東方</font><font face="Default" color="#ffffff" >公子離開此處。</font>
+storymenu_74120_1=<font face="Default" color="#ffffff" >自會再見。</font>
+storymenu_74121_1=<font face="Default" color="#ffffff" >若想將《九陰真經》現世的傳聞進一步擴散出去，君子堂是一枚不錯的棋子。</font>
+storymenu_74122_1=<font face="Default" color="#ffffff" >你還疏忽了一個人，慕容千秋！他與東瀛勾連一事敗露，自然猜到有你一份出力。這兄弟二人</font><font face="Default" color="#ffffff" >圖謀不軌</font><font face="Default" color="#ffffff" >非一朝一夕，</font><font face="Default" color="#ffffff" >既然事已至此，不如將計就計。</font>
+storymenu_74122_2=<font face="Default" color="#ffffff" >你且裝作同意婚事，將綰綰送出府邸，我自有辦法於中途將她安全帶離。至於那些盯上俞家莊的朝廷走狗和江湖宵小，就送他們一場鴻門宴好了。</font>
+storymenu_74123_1=<font face="Default" color="#ffffff" >綰綰小姐，你也知俞家莊眼下是何處境，若學不會暫時把兒女情長放諸腦後，俞莊主和夫人將要面臨的，恐怕除了生離之外，還有死別之苦。為人兒女當何自處，你自行決定罷。</font>
+storymenu_74123_2=<font face="Default" color="#ffffff" >自是不必擔憂。</font>
+storymenu_74125_1=<font face="Default" color="#ffffff" >等風波過去，他自會</font><font face="Default" color="#ffffff" >來尋你。</font>
+storymenu_74126_1=<font face="Default" color="#ffffff" >以君子堂的風骨，何必擔憂會捲入這場風波，死的不過是些貪婪之輩罷了。</font>
+storymenu_74126_2=<font face="Default" color="#ffffff" >不必擔憂，</font><font face="Default" color="#ffffff" >俞</font><font face="Default" color="#ffffff" >莊主很安全。</font>
+storymenu_74126_3=<font face="Default" color="#ffffff" >多謝公子提醒。</font>
+storymenu_74127_1=<font face="Default" color="#ffffff" >繼續暗中保護。對了。水谷主應是還未歸蘇，引她換道，將俞綰綰帶回風鈴谷。</font>
+storymenu_74128_1=<font face="Default" color="#ffffff" >那便出發吧。</font>
+storymenu_74129_1=<font face="Default" color="#ffffff" >……緣木求魚。</font>
+storymenu_74130_1=<font face="Default" color="#ffffff" >東方公子莫不是被他們的真情實感所打動了？</font>
+storymenu_74130_2=<font face="Default" color="#ef2f09" >（淺笑打趣道）</font><font face="Default" color="#ffffff" >看不出，東方公子竟也是個俗人。</font>
+storymenu_74130_3=<font face="Default" color="#e81232" >（默然一笑，垂眸不語）</font>
+storymenu_74131_1=<font face="Default" color="#ffffff" >不用擔心，要的便是他搶去寶圖。</font>
+storymenu_74131_2=<font face="Default" color="#ffffff" >我</font><font face="Default" color="#ffffff" >們跟去看看。</font>
+storymenu_74132_1=<font face="Default" color="#ed0d09" >（莞爾一笑）</font><font face="Default" color="#ffffff" >走吧。</font>
+storymenu_74133_1=<font face="Default" color="#ffffff" >也好。</font>
+storymenu_74134_1=<font face="Default" color="#ffffff" >此事我知道。</font>
+storymenu_74134_2=<font face="Default" color="#ffffff" >我既已將圖交付，他便是寶藏的主人，如何動用我都不會追究。但此番行為，無異於同我族人割席，往後當各行其道，再無聚日。</font>
+storymenu_74135_1=<font face="Default" color="#ffffff" >自然。東方公子，請。</font>
+storymenu_74136_1=<font face="Default" color="#ffffff" >公子</font><font face="Default" color="#ffffff" >若不怕我用毒，</font><font face="Default" color="#ffffff" >大可以多留些時日。</font>
+storymenu_74136_2=<font face="Default" color="#f2230c" >（想起了身在朝鮮時，那段細作的日子，面上不置可否）</font>
+storymenu_74136_3=<font face="Default" color="#ffffff" >多謝公子關心。丹靈沉痾痼疾，藥石無醫，如今用術不過拖延些時日罷了。生死有命，何必強求。</font>
+useiteminfo_74101=使用<a href="TASK_ITEM,useitem_2304_dy_01" style="HLStype1">七彩煙霓</a>召喚張家死士
+useiteminfo_74102=查看<a href="TASK_ITEM,useitem_2304_dy_02" style="HLStype1">飛鴿傳書</a>飛鴿傳書
+useiteminfo_74103=查看俞懷冰寄來的<a href="TASK_ITEM,useitem_2304_dy_03" style="HLStype1">飛鴿傳書</a>
+useiteminfo_74104=使用<a href="TASK_ITEM,useitem_2304_dy_04" style="HLStype1">祭品</a>於<a href="findnpc_new,adv185,npc_2304_dy_78" style="HLStype1">此地</a>祭拜母親
 

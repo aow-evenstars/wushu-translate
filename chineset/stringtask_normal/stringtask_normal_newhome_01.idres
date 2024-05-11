@@ -22,7 +22,6 @@ context_72005=近日江湖中出現一位善辨花識草的奇女子，穆小姐
 context_72006=近日江湖中出現一位博聞善辨，棋術精妙的奇人，穆弈。門外之人與傳聞中的穆少俠十分相像，不知前來所謂何事？
 context_72007=近日江湖中出現一位善各門派武學的奇人，穆武。門外之人與傳聞中的穆武十分相像，不知前來所謂何事？
 context_72008=解開點火台之謎，便可尋找霍台領取一份嘉獎！
-menu_72005_1=<font face="Default" color="#ffffff" >哈哈哈，穆小姐遠道而來。豈有不能見之理，煩請騷等片刻！</font>
 menu_72006_1=<font face="Default" color="#ffffff" >賜教談不上，請！</font>
 menu_72007_1=<font face="Default" color="#ffffff" >賜教談不上，請！</font>
 submit_72005=<font face="Default" color="#ffffff" >這些花草雖是稀世之物，又怎比得上穆小姐的禮物？哈哈哈</font>
@@ -55,7 +54,6 @@ complete_72011=<font face="Default" color="#ffffff" >閣下招式精妙，內力
 context_72009=近日江湖中出現一位善辨花識草的奇女子，穆小姐。門外之人與傳聞中的穆小姐十分相像，不知前來所謂何事？
 context_72010=近日江湖中出現一位博聞善辨，棋術精妙的奇人，穆弈。門外之人與傳聞中的穆少俠十分相像，不知前來所謂何事？
 context_72011=近日江湖中出現一位善各門派武學的奇人，穆武。門外之人與傳聞中的穆武十分相像，不知前來所謂何事？
-menu_72009_1=<font face="Default" color="#ffffff" >哈哈哈，穆小姐遠道而來。豈有不能見之理，煩請騷等片刻！</font>
 menu_72010_1=<font face="Default" color="#ffffff" >賜教談不上，請！</font>
 menu_72011_1=<font face="Default" color="#ffffff" >賜教談不上，請！</font>
 submit_72009=<font face="Default" color="#ffffff" >這些花草雖是稀世之物，又怎比得上穆小姐的禮物？哈哈哈</font>
@@ -68,4 +66,33 @@ title_72009=穆香小姐
 title_72010=穆弈
 title_72011=穆武
 CanAcceptMenu_72006=<font face="Default" color="#ffffff" >看閣下的裝束，莫不是近日聞名江湖的穆武弈少俠？</font>
+CanAcceptMenu_72012=<font face="Default" color="#ffffff" >看閣下的裝束，莫不是近日聞名江湖的穆香穆小姐？</font>
+CanAcceptMenu_72013=<font face="Default" color="#ffffff" >看閣下的裝束，莫不是近日聞名江湖的穆</font><font face="Default" color="#ffffff" >弈</font><font face="Default" color="#ffffff" >穆少俠？</font>
+CanAcceptMenu_72014=<font face="Default" color="#ffffff" >看閣下的裝束，莫不是近日聞名江湖的穆弈穆少俠？</font>
+CompleteMenu_72012=<font face="Default" color="#ffffff" >穆小姐久等！</font>
+CompleteMenu_72013=<font face="Default" color="#ffffff" >不愧是名動江湖的穆少俠！承讓！</font>
+CompleteMenu_72014=<font face="Default" color="#ffffff" >不愧是名動江湖的穆少俠！承讓！</font>
+accept_72012_1=<font face="Default" color="#ffffff" >閣下好眼力！名聲不過是江湖朋友的謬讚，聽聞閣下宅府中收藏著四種奇花異草。不知小女子是否有幸一見？</font>
+accept_72013_1=<font face="Default" color="#ffffff" >閣下好眼力！名聲不過是江湖朋友的謬讚，聽聞閣下棋力卓絕。在下特前來拜訪，望閣下不嗇賜教！</font>
+accept_72014_1=<font face="Default" color="#ffffff" >閣下好眼力！名聲不過是江湖朋友的謬讚，聽聞閣下乃集各家武學之長的武學大家。在下特前來拜訪，望閣下不嗇賜教！</font>
+complete_72012=<font face="Default" color="#ffffff" >果然是稀世之物！不知閣下是否願意將這些花草贈送與我？小女子也將有禮物相贈！</font>
+complete_72013=<font face="Default" color="#ffffff" >閣下棋力卓絕！在下甘拜下風，此次叨擾閣下，小小禮物不成敬意！</font>
+complete_72014=<font face="Default" color="#ffffff" >閣下招式精妙，內力深不可測！在下甘拜下風，此次叨擾閣下，小小禮物不成敬意！</font>
+context_72012=近日江湖中出現一位善辨花識草的奇女子，穆小姐。門外之人與傳聞中的穆小姐十分相像，不知前來所謂何事？
+context_72013=近日江湖中出現一位博聞善辨，棋術精妙的奇人，穆弈。門外之人與傳聞中的穆少俠十分相像，不知前來所謂何事？
+context_72014=近日江湖中出現一位善各門派武學的奇人，穆武。門外之人與傳聞中的穆武十分相像，不知前來所謂何事？
+menu_72012_1=<font face="Default" color="#ffffff" >哈哈哈，穆小姐遠道而來。豈有不能見之理，煩請稍等片刻！</font>
+menu_72013_1=<font face="Default" color="#ffffff" >賜教談不上，請！</font>
+menu_72014_1=<font face="Default" color="#ffffff" >賜教談不上，請！</font>
+submit_72012=<font face="Default" color="#ffffff" >這些花草雖是稀世之物，又怎比得上穆小姐的禮物？哈哈哈</font>
+submit_72013=<font face="Default" color="#ffffff" >穆少俠太客氣了！</font>
+submit_72014=<font face="Default" color="#ffffff" >穆少俠太客氣了！</font>
+target_72012=與門外的女子交談，詢問前來拜訪所為何事？
+target_72013=與門外之人交談，詢問前來拜訪所為何事？
+target_72014=與門外之人交談，詢問前來拜訪所為何事?
+title_72012=穆香小姐
+title_72013=穆弈
+title_72014=穆武
+menu_72005_1=<font face="Default" color="#ffffff" >哈哈哈，穆小姐遠道而來。豈有不能見之理，煩請稍等片刻！</font>
+menu_72009_1=<font face="Default" color="#ffffff" >哈哈哈，穆小姐遠道而來。豈有不能見之理，煩請稍等片刻！</font>
 

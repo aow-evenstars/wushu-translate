@@ -49,9 +49,7 @@ SubmitNpcEx_57530=提交任務：<a href="findnpc_new,,WorldNpc02203" style="HLS
 SubmitNpcEx_57531=提交任務：<a href="findnpc_new,city03,NPCxszhh_4nei_yuming" style="HLStype1">余為天</a>
 SubmitNpcEx_57533=提交任務：<a href="findnpc_new,city03,NPCxszhh_4nei_fengfei01" style="HLStype1">鳳菲</a>
 SubmitNpcEx_57534=提交任務：<a href="findnpc_new,city03,NPCxszhh_4nei_zhuchi" style="HLStype1">住持</a>
-collectinfo_82501=跟著地上的毒蟲屍體，看能發現什麼<a href="findnpc_new,school05,Gather_npc_4nei_tmtmjdd" style="HLStype1">東西</a>
 collectinfo_82502=血跡消失了，水裡好像有個<a href="findnpc_new,school05,Gather_npc_4nei_tmlchj" style="HLStype1">東西</a>，可能是有用的線索。
-collectinfo_82503=屍體上有幾根<a href="findnpc_new,school05,Gather_npc_4nei_tmbylhz" style="HLStype1">針</a>，拾起來稟報掌門
 collectinfo_82504=用墜夢散迷暈其中一人，收集「長恨水」。
 collectinfo_82505=收集<a href="findnpc_new,school05,Gather_npc_4nei_tmaerolite" style="HLStype1">隕石塊</a>
 convoyinfo_82502=半路殺出個黑衣人和唐四公打起來了，出手阻止黑衣人
@@ -77,16 +75,12 @@ interactinfo_82512=順著地上的<a href="findnpc_new,school05,EvenNPC_4nei_tm_
 interactinfo_82513=詢問<a href="findnpc_new,school05,tm047" style="HLStype1">唐如海</a>最近何人來抓過百花散
 interactinfo_82515=返回唐門，稟告<a href="findnpc_new,school05,WorldNpc02203" style="HLStype1">唐天行</a>
 interactinfo_82516=去藥堂找<a href="findnpc_new,school05,tm047" style="HLStype1">唐如海</a>，瞭解唐疊劍的下落
-interactinfo_82517=去唐門門口，查看「磨刀堂」留下的<a href="findnpc_new,school05,EvenNPC_4nei_tm_blood02" style="HLStype1">屍體</a>
 interactinfo_82518=去見姥姥<a href="findnpc_new,school05,WorldNpc02201" style="HLStype1">唐鳳</a>
 interactinfo_82519=和唐四公去見<a href="findnpc_new,school05,EvenNPC_4nei_tm_blood03" style="HLStype1">唐美嬌</a>
-interactinfo_82520=找到合適的<a href="findnpc_new,school05,EvenNPC_4nei_tm_blood04" style="HLStype1">師兄師姐</a>，用迷藥捉弄一下，弄到長恨水
 interactinfo_82521=將石頭交給<a href="findnpc_new,school05,WorldNpc02208" style="HLStype1">唐四公</a>
 interactinfo_82522=讓<a href="findnpc_new,school05,WorldNpc02208" style="HLStype1">唐四公</a>放血療傷。
 interactinfo_82523=解救<a href="findnpc,school05,1405,178,-33" style="HLStype1">唐美嬌</a>
 interactinfo_82524=找到<a href="findnpc_new,school05,NPC_4nei_tm_smrtmj02" style="HLStype1">唐美嬌</a>，弄清她中了什麼毒。
-interactinfo_82525=找到合適的<a href="findnpc_new,school05,EvenNPC_4nei_tm_blood06" style="HLStype1">師兄師姐</a>，用迷藥捉弄一下，弄到長恨水
-interactinfo_82526=找到合適的<a href="findnpc_new,school05,EvenNPC_4nei_tm_blood07" style="HLStype1">師兄師姐</a>，用迷藥捉弄一下，弄到長恨水
 interactinfo_82527=與<a href="findnpc_new,school05,WorldNpc02205" style="HLStype1">唐少昂</a>交談
 interactinfo_82528=四大寇極可能遭追殺，退至<a href="findnpc_new,city03,EventNPCxszhh_4nei_protect" style="HLStype1">棲霞寺前</a>。
 interactinfo_82529=前往金陵<a href="findnpc_new,city03,EventNPCxszhh_4nei_fgxsh" style="HLStype1">明鏡湖</a>，馳援四大寇。
@@ -412,4 +406,10 @@ hunterinfo_82506=擊潰追來的<a href="findnpc_new,city03,AttackNPCxszhh_4nei_
 hunterinfo_82507=半路殺出了磨刀堂的人，擊潰<a href="findnpc_new,city03,AttackNPCxszhh_4nei_kill01" style="HLStype1">磨刀堂隱衛</a>。
 hunterinfo_82517=化地被暴起的病人驚走了，擊敗<a href="findnpc_new,school03,AttackNPC_0tm5nei_huadi01" style="HLStype1">蟲王谷女弟子</a>，為慕淑子報復
 story_82511_1=<font face="Default" color="#ffffff" >別管我，替我照顧好車上的母</font><font face="Default" color="#ffffff" >子</font><font face="Default" color="#ffffff" >倆，他們是丁爺的妻兒。你…一定要…保護好他們，快帶他們…離開這裡…，還會…有隱衛…追來的。呃…</font>
+collectinfo_82501=跟著地上的毒蟲遺骸，看能發現什麼<a href="findnpc_new,school05,Gather_npc_4nei_tmtmjdd" style="HLStype1">東西</a>
+collectinfo_82503=遺骸上有幾根<a href="findnpc_new,school05,Gather_npc_4nei_tmbylhz" style="HLStype1">針</a>，拾起來稟報掌門
+interactinfo_82517=去唐門門口，查看「磨刀堂」留下的<a href="findnpc_new,school05,EvenNPC_4nei_tm_blood02" style="HLStype1">遺骸</a>
+interactinfo_82520=找到合適的<a href="findnpc_new,school05,EvenNPC_4nei_tm_blood04" style="HLStype1">師兄師姐</a>，用眩暈藥捉弄一下，弄到長恨水
+interactinfo_82525=找到合適的<a href="findnpc_new,school05,EvenNPC_4nei_tm_blood06" style="HLStype1">師兄師姐</a>，用眩暈藥捉弄一下，弄到長恨水
+interactinfo_82526=找到合適的<a href="findnpc_new,school05,EvenNPC_4nei_tm_blood07" style="HLStype1">師兄師姐</a>，用眩暈藥捉弄一下，弄到長恨水
 

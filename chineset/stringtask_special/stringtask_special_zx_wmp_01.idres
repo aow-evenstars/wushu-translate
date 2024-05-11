@@ -56,7 +56,6 @@ DialogID_9637=<font face="Default" color="#ffffff" >小小年紀就如此貪心�
 DialogID_9642=<font face="Default" color="#ffffff" >三者是要尋找</font><font face="Default" color="#ffffff" >地靈人傑之處</font><font face="Default" color="#ffffff" >，例如此地，此處嚴寒對常人來說難忍難挨，但對於習武之人的修行卻頗有助益。</font>
 QiecuoMenu_9500=<font face="Default" color="#ffffff" >請……請等下……</font>
 QiecuoMenu_9501=<font face="Default" color="#ffffff" >峨眉武功，我來領教下！</font>
-QiecuoMenu_9503=<font face="Default" color="#ffffff" >光天化日，朗朗乾坤，你竟敢在此綁架，看招。</font>
 QiecuoMenu_9507=<font face="Default" color="#ffffff" >……廢話真多</font>
 QiecuoMenu_9508=<font face="Default" color="#ffffff" >我會讓你後悔沒有躲到城牆裡面去！</font>
 QiecuoMenu_9509=<font face="Default" color="#ffffff" >請！</font>
@@ -116,11 +115,7 @@ collectinfo_9501=到綁匪的老巢，從<a href="findnpc_new,city05,bjyd013" st
 collectinfo_9502=去酒樓掌櫃盧昂林那買兩壇黃酒
 collectinfo_9503=和<a href="findnpc_new,city05,NpcCloneshop_lhq" style="HLStype1">神秘高人</a>對話，傳送到峨眉找<a href="findnpc_new,school06,booknpcyd_ds" style="HLStype1">書架</a>，取回上面的書籍
 collectinfo_9504=朱廣濟讓你去找只烤鴨來充飢。（烤鴨可在酒樓掌櫃盧昂林那購得）
-collectinfo_9505=勞大哥居然嗜酒，這事好辦了很多。前往<a href="findnpc_new,city05,FuncNpc00607" style="HLStype1">酒樓掌櫃</a>處購買<a href="TASK_ITEM,jiu_10002" style="HLStype1">米酒</a>，與<a href="findnpc_new,city05,Npc_wmp_1n_cc_ll" style="HLStype1">勞亮</a>暢飲<a href="TASK_ITEM,jiu_10002" style="HLStype1">米酒</a>，看看能否獲得什麼收穫
 collectinfo_9614=這裡到底藏著絕世武功呢？還是神兵利器？<a href="findnpc_new,adv032,BoxNpc_qy_yd002" style="HLStype1">打開</a>看看！
-convoy_talk_51005_2=薛晨淫賊，辱我師姐，要是讓我碰到他，我定要將他碎屍萬段。
-convoy_talk_51005_4=這裡冰天雪地，缺衣少糧，只要我們圍上幾日，就能將那淫賊活活餓死、凍死。
-convoy_talk_51005_6=前面不遠處就是淫賊藏身之所，我們要小心行事才行。
 convoy_talk_51202_1=你實力尚淺，跟緊我，我好保護你。
 convoy_talk_51202_2=我原本住在君子堂外一個小村鎮中，獨自在外學武功已有多年了，東家學兩式，西家學三招，也沒拜過什麼師傅。
 convoy_talk_51202_3=這裡便是徐家莊，我們要去找大莊主要人。
@@ -178,7 +173,6 @@ interactinfo_9540=找<a href="findnpc_new,city05,Npc_wmp_2n_qkw_l01" style="HLSt
 interactinfo_9541=與<a href="findnpc_new,city05,Npc_wmp_2n_qkw_l01" style="HLStype1">秦和徵</a>交談
 interactinfo_9542=從<a href="findnpc_new,city05,bjyd011" style="HLStype1">綁匪麻袋</a>解救出失蹤的少女
 interactinfo_9543=撿起<a href="findnpc_new,city05,bjyd012" style="HLStype1">麻袋</a>
-interactinfo_9544=把綁來的人帶給<a href="findnpc_new,city05,WorldNpc08410" style="HLStype1">二強</a>，並加入綁架組織
 interactinfo_9545=把綁匪的犯罪證據交給<a href="findnpc_new,city05,cd483" style="HLStype1">元方</a>
 interactinfo_9546=與<a href="findnpc_new,city05,WorldNpc09750" style="HLStype1">芩祁肅</a>交談
 interactinfo_9547=與<a href="findnpc_new,city05,Transcity05D" style="HLStype1">劉昌</a>交談，瞭解行走江湖快速穿梭各大城市的辦法。
@@ -196,7 +190,6 @@ interactinfo_9558=這位<a href="findnpc_new,city05,Npc_wmp_1n_cc_lr" style="HLS
 interactinfo_9559=萍水相逢為何一副殺之後快的樣子，問一下旁邊這位少俠<a href="findnpc_new,city05,Npc_wmp_1n_cc_xex" style="HLStype1">邢二俠</a>
 interactinfo_9560=這<a href="findnpc_new,city05,Npc_wmp_1n_cc_lr" style="HLStype1">樂茹</a>明顯一副火氣很大的樣子，不和女子一般見識，還是說兩句好話吧
 interactinfo_9561=女人都是瘋子，看看這<a href="findnpc_new,city05,Npc_wmp_1n_cc_xex" style="HLStype1">邢二俠</a>能不能說些有用的。
-interactinfo_9562=前往<a href="findnpc_new,city05,Event_wmp_1n_cc_9562" style="HLStype1">成都城內</a>打探打探是否有綁架之人的線索
 interactinfo_9563=解救被困在<a href="findnpc_new,city05,Npc_wmp_1n_cc_jbmd" style="HLStype1">麻袋</a>中的人
 interactinfo_9564=看看<a href="findnpc_new,city05,Npc_wmp_1n_cc_lr" style="HLStype1">樂茹</a>這次還有什麼話好說
 interactinfo_9565=前往<a href="findnpc_new,city05,Event_wmp_1n_cc_9566" style="HLStype1">茶館</a>打探葉樓凱的蹤跡
@@ -301,7 +294,6 @@ story_9501_1=<font face="Default" color="#ffffff" >魔刀老祖從來信守承�
 story_9501_2=<font face="Default" color="#ffffff" >怎麼？我是他老婆，等不得他麼？</font>
 story_9501_3=<font face="Default" color="#ffffff" >雖然沒過門，但我們在金陵秦淮河有三宿之緣，他說了要娶我，不會說話不算的。</font>
 story_9502_1=<font face="Default" color="#ffffff" >哎，大俠有所不知</font><font face="Default" color="#ffffff" >，</font><font face="Default" color="#ffffff" >我師姐被薛晨惡賊抓走了，</font><font face="Default" color="#ffffff" >如今師姐清白難保，</font><font face="Default" color="#ffffff" >可惜我武功不濟，救不了師姐，只能在這裡守著</font><font face="Default" color="#ffffff" >。</font>
-story_9502_2=<font face="Default" color="#ffffff" >好，縱然危險萬分，我拼了命也要在那淫賊身上刺幾個透明窟窿。</font>
 story_9503_1=<font face="Default" color="#ffffff" >這裡十丈之內都已經被我布下無數陷阱，讓你中招，真是多有得罪了。</font>
 story_9503_2=<font face="Default" color="#ffffff" >你確定要去找他？我可事先跟你說明，薛晨此人陰狠毒辣，連他的師傅師母都被他殘忍殺害，你這麼愣頭愣腦地找上他，必然無倖。</font>
 story_9503_3=<font face="Default" color="#ffffff" >當真是初生牛犢不怕虎，你不怕死，就從那邊繞過去找他吧。</font>
@@ -315,12 +307,10 @@ story_9506_3=<font face="Default" color="#ffffff" >少林和丐幫的前哨都�
 story_9507_1=<font face="Default" color="#ffffff" >你沒有殺死薛晨，他那麼凶狠的人怎麼會放你回來呢？</font>
 story_9507_2=<font face="Default" color="#ffffff" >他是那樣的惡人，你是在為他開脫嗎？</font>
 story_9507_3=<font face="Default" color="#ffffff" >我不知道，眼見為實，我陪你去看看吧。</font>
-story_9508_1=<font face="Default" color="#ffffff" >怎麼回事？你這個無恥敗類，初時我還以為你磊落光明，沒想到是衣冠禽獸。</font>
 story_9508_2=<font face="Default" color="#ffffff" >哼！要不是君子堂的師兄及時出現，你還不把伊菲師妹衣衫撕盡，擄掠而去？</font>
 story_9508_3=<font face="Default" color="#ffffff" >哈哈哈，這話連三歲小孩都騙不了。此處是華山絕頂，終年積雪，哪來的蛇？</font>
 story_9508_4=<font face="Default" color="#ffffff" >死到臨頭還含血噴人。你夥同薛晨，盜走倚天劍，毒害洛陽小烏村裘老英雄，偷取少林無相劫指秘籍，縱狗咬死丐幫弟子，火燒君子堂運船，擄掠拐賣峨眉弟子，將錦衣衛堂主殺死生吃，弒殺師傅師母，惡事做盡，天誅地滅！</font>
 story_9508_5=<font face="Default" color="#ffffff" >胡說，你和薛晨分贓不均，起了內訌，你出手殺了他，還想瞞天過海，假惺惺地讓我們相信你是正派人士。</font>
-story_9508_6=<font face="Default" color="#ffffff" >哼，你左拳擊碎他天靈蓋，長劍刺穿他心肺，又用袖弩把他釘在地上，他是死得不能再死了。他屍體就在你身後，你何不看看我所說是真是假！</font>
 story_9509_1=<font face="Default" color="#ffffff" >你不謝我救命之恩，卻毫無禮貌地問我姓名，是何道理？</font>
 story_9509_2=<font face="Default" color="#ffffff" >哈哈哈哈，你很有意思。老夫的姓名已經沒什麼人提起了，江湖上都稱呼我恨天老人。</font>
 story_9509_3=<font face="Default" color="#ffffff" >嘿嘿，你是好人？你要做好人？</font>
@@ -359,7 +349,6 @@ story_9542_2=<font face="Default" color="#ffffff" >看來我們要想個辦法�
 story_9543_1=<font face="Default" color="#ffffff" >關於這個組織我也是瞭解不多，具體的你去找我安排在裡面的線人瞭解下情況吧。</font>
 story_9544_1=<font face="Default" color="#ffffff" >他讓你找我有什麼事嗎？</font>
 story_9544_2=<font face="Default" color="#ffffff" >我在這裡做臥底已經好多年了，對這個組織有點瞭解。組織裡是比較嚴格的，想剷除這個組織必須找到他們犯罪的線索</font><font face="Default" color="#ffffff" >。</font>
-story_9544_3=<font face="Default" color="#ffffff" >只有進入這個組織才有可能找到他們犯罪的線索。但是這個組織比較嚴格，你必須綁架個人來， 我才能給你引薦。</font>
 story_9556_1=<font face="Default" color="#ffffff" >樂茹那麼如花似玉的姑娘竟然要下嫁給那年過半百的常山兆</font><font face="Default" color="#ffffff" >！</font>
 story_9556_2=<font face="Default" color="#ffffff" >哼！若是樂茹姑娘在婚禮上有一絲不開心我便立即帶著她離開！</font><font face="Default" color="#ffffff" >我去準備點東西，我們在金陵客棧會合！</font>
 story_9557_1=<font face="Default" color="#ffffff" >你看到樂茹姑娘了？</font>
@@ -425,7 +414,6 @@ story_menu_9519=<font face="Default" color="#ffffff" >老夫人，這裡冰天�
 story_menu_9540=<font face="Default" color="#ffffff" >還請前輩教我</font>
 story_menu_9541=<font face="Default" color="#ffffff" >我學會了</font>
 story_menu_9542=<font face="Default" color="#ffffff" >神捕，我回來了。</font>
-story_menu_9543=<font face="Default" color="#ffffff" >關於綁架組織不知道神捕有何看法？</font>
 story_menu_9544=<font face="Default" color="#ffffff" >是神捕讓我來找你的。</font>
 story_menu_9545=<font face="Default" color="#ffffff" >前輩，我是來找你瞭解門派書籍的。</font>
 story_menu_9556=<font face="Default" color="#ffffff" >二俠，我收到樂茹姑娘與常山兆的喜帖。過幾日便是他們大婚的日子，你我此時便動身趕往金陵應該來得及！</font>
@@ -443,7 +431,6 @@ story_menu_9571=<font face="Default" color="#ffffff" >二俠，二俠。你想�
 story_menu_9572=<font face="Default" color="#ffffff" >這位官爺，我想抓個兇手，想問一下該如何行事。</font>
 story_menu_9573=<font face="Default" color="#ffffff" >楊大人？發佈海捕文書後，我該如何去抓兇手呢？</font>
 story_menu_9574=<font face="Default" color="#ffffff" >楊大人，犯人我已抓到，夠資格做捕快了嗎？</font>
-story_menu_9575=<font face="Default" color="#ffffff" >二俠，樂茹是被常山兆虐待致死的。我已將他殺掉，現已是戴罪之身，來和你說一聲我便準備逃難去。</font>
 story_menu_9576=<font face="Default" color="#ffffff" >大師，你念的不像是經文啊？</font>
 story_menu_9577=<font face="Default" color="#ffffff" >畢大俠，常</font><font face="Default" color="#ffffff" >……大俠</font><font face="Default" color="#ffffff" >果然有問題，官府都和他穿一條褲子的，如今如何是好？</font>
 story_menu_9600=<font face="Default" color="#ffffff" >老人家，剛才馬車為啥要繞遠路走啊？</font>
@@ -474,7 +461,6 @@ storyinfo_9540=聽<a href="findnpc_new,city05,Npc_wmp_2n_qkw_l01" style="HLStype
 storyinfo_9541=聽<a href="findnpc_new,city05,Npc_wmp_2n_qkw_l01" style="HLStype1">秦和徵</a>訴說
 storyinfo_9542=把發現綁匪一事告訴<a href="findnpc_new,city05,hbyd005" style="HLStype1">單悅</a>
 storyinfo_9543=向<a href="findnpc_new,city05,hbyd005" style="HLStype1">單悅</a>匯報
-storyinfo_9544=找<a href="findnpc_new,city05,FuncNpc00604" style="HLStype1">周生生</a>瞭解綁架組織的大致情況
 storyinfo_9545=向<a href="findnpc_new,city05,NpcCloneshop_lhq" style="HLStype1">神秘高人</a>詢問關於門派奪書的相關事宜
 storyinfo_9556=告訴<a href="findnpc_new,city05,NPC_wmp_2n_glm_010" style="HLStype1">邢二俠</a>你收到了樂茹的喜帖
 storyinfo_9557=詢問<a href="findnpc_new,city03,NPC_wmp_2ndy_xex" style="HLStype1">邢二俠</a>到金陵都幹了什麼
@@ -571,7 +557,6 @@ storymenu_9541_1=<font face="Default" color="#ffffff" >我會認真聽的</font>
 storymenu_9541_2=<font face="Default" color="#ffffff" >真期待啊</font>
 storymenu_9541_3=<font face="Default" color="#ffffff" >聽上去好厲害</font>
 storymenu_9541_4=<font face="Default" color="#ffffff" >再次感謝你的指導，我學到了很多</font>
-storymenu_9542_1=<font face="Default" color="#ffffff" >是的，在成都範圍內存在一批以綁架販賣為營生的組織，他們綁架了很多人，販賣給了很多黑心商販。</font>
 storymenu_9542_2=<font face="Default" color="#ffffff" >好的。</font>
 storymenu_9543_1=<font face="Default" color="#ffffff" >好的，我馬上就去。</font>
 storymenu_9544_1=<font face="Default" color="#ffffff" >我是來找你瞭解下關於綁匪組織情況的。</font>
@@ -626,7 +611,6 @@ storymenu_9621_1=<font face="Default" color="#ffffff" >我知道你不願見到�
 storymenu_9622_1=<font face="Default" color="#ffffff" >多謝</font><font face="Default" color="#ffffff" >大人</font><font face="Default" color="#ffffff" >指點！</font>
 storymenu_9623_1=<font face="Default" color="#ffffff" >請！</font>
 useiteminfo_9500=幫助秦和徵將<a href="TASK_ITEM,ItemSchool000001" style="HLStype1">帶鞘單刀</a>插入邊上的<a href="findnpc,groupscene008,546.9,413.4,878.4" style="HLStype1">雪堆</a>
-useiteminfo_9501=對<a href="findnpc_new,city05,bjyd006" style="HLStype1">吳濤</a>使用<a href="TASK_ITEM,bj_yd06" style="HLStype1">蒙汗藥</a>，並對他進行綁架(只有在規定的時間內完成綁架，才能得到綁匪的信任)
 useiteminfo_9504=打開<a href="findnpc_new,born02,Npc_wmp_1n_cc_ll" style="HLStype1">勞大哥</a>給的<a href="TASK_ITEM,item_wmp_1n_cc_yd" style="HLStype1">藏寶圖</a>看看
 useiteminfo_9560=給<a href="findnpc_new,city05,NPC_wmp_2n_glm_010" style="HLStype1">邢二俠</a>服下<a href="TASK_ITEM,useitem_wmp_2n_glm01" style="HLStype1">海棠銀針解藥</a>解毒
 useiteminfo_9561=給<a href="findnpc_new,city05,NPC_wmp_2n_glm_006" style="HLStype1">可疑之人</a>服下<a href="TASK_ITEM,useitem_wmp_2n_glm01" style="HLStype1">海棠銀針解藥</a>解毒
@@ -643,7 +627,6 @@ DialogID_9570=<font face="Default" color="#ffffff" >（勞亮盯著你看了一�
 interactinfo_9570=找車伕<a href="findnpc_new,city05,Transcity05A" style="HLStype1">趙泗</a>坐馬車前往蘇州<a href="findnpc,city02,623.731,0.609,437.711" style="HLStype1">酒樓</a>尋找<a href="findnpc_new,city02,WorldNpc01503" style="HLStype1">勞亮</a>（與趙泗交談，選擇「我想去其他城市」，在地圖的東部可找到蘇州城）
 interactinfo_9574=嘿嘿，正好藉著邢二俠的名義去<a href="findnpc_new,city05,Event_wmp_1n_cc_9574" style="HLStype1">比武招親</a>玩玩
 okmenu_9569=<font face="Default" color="#ffffff" >勞大哥？</font><font face="Default" color="#ffffff" >好，</font><font face="Default" color="#ffffff" >我現在就去找他。</font>
-storyinfo_9509=幸好<a href="findnpc,groupscene008,695,465,868" style="HLStype1">恨天老人</a>及時出現，才把這些惡人全部殺盡，我險些上了他們的大當。
 SubmitNpcEx_51285=天下變！江湖亂世風雲再起，數不盡的英雄豪傑正在書寫精彩的篇章！【敬請期待】
 hunterinfo_9502=突然殺出兩個情緒激動的<a href="findnpc_new,born02,NpcSchool000001" style="HLStype1">武當弟子</a>，二話不說上來就打
 hunterinfo_9508=前方好像<a href="findnpc_new,city05,Npc_wmp_1n_cc_jbxs" style="HLStype1">有個人</a>身邊放著麻袋鬼鬼祟祟的樣子，上去看看……果然是個人口販子！打死他！
@@ -657,7 +640,6 @@ collectinfo_9615=勞亮大哥叮囑我去漁村之前務必先拜訪<a href="fin
 SubmitNpcEx_51229=繼續與<a href="findnpc_new,city02,FuncNpc00106" style="HLStype1">孟光</a>交談
 collectinfo_9610=這有一片帶著紐扣的<a href="findnpc,adv024,313.396,10.918,335.117" style="HLStype1">鐵甲</a>（提示：與<a href="findnpc_new,city03,NPC_wmp_2ndy_ckj" style="HLStype1">邢二俠</a>對話可再次進入枯井）
 collectinfo_9611=這有一塊火器打到牆壁上的<a href="findnpc,adv024,315.183,10.958,338.445" style="HLStype1">痕跡</a>（提示：與<a href="findnpc_new,city03,NPC_wmp_2ndy_ckj" style="HLStype1">邢二俠</a>對話可再次進入枯井）
-collectinfo_9612=這有一片屍體被移動過的<a href="findnpc,adv024,312.271,10.866,333.448" style="HLStype1">血跡</a>（提示：與<a href="findnpc_new,city03,NPC_wmp_2ndy_ckj" style="HLStype1">邢二俠</a>對話可再次進入枯井）
 collectinfo_9613=這有一片<a href="findnpc,adv024,312.620,10.321,336.267" style="HLStype1">被撕碎的書頁</a>（提示：與<a href="findnpc_new,city03,NPC_wmp_2ndy_ckj" style="HLStype1">邢二俠</a>對話可再次進入枯井）
 hunterinfo_9571=擊敗兩名官府通緝的<a href="findnpc,city03,1743,17,1232" style="HLStype1">江湖逃犯</a>
 hunterinfo_9575=去畢家火說的<a href="findnpc,city03,2110,-1,1107" style="HLStype1">河邊</a>休息，小心追捕你的差人
@@ -692,4 +674,22 @@ story_9518_3=<font face="Default" color="#ffffff" >這次我們各大派各出�
 storyinfo_9505=咦？據各大派門人描述，薛晨應該是個高手，怎會如此不堪一擊？而且他還帶著一個孩子，問問<a href="findnpc_new,groupscene008,SchoolNpc000014" style="HLStype1">天兒</a>這中間是不是有什麼誤會。
 storymenu_9509_3=<font face="Default" color="#ffffff" >我無門無派，獨來獨往，原不介意旁人的看法，但求問心無愧。好人壞人，根本不足議論。前輩教訓的是。這些人果真是各大宗派的弟子麼？</font>
 story_9545_1=<font face="Default" color="#ffffff" >是這樣的，現在各大門派都將自己的武學書籍拿出來分發給自己的弟子，現在可以去他們那裡碰碰運氣，沒準能搶一兩本秘籍回來。（在奪書活動期間可以通過</font><font face="Default" color="#ff0000" >「江湖助力」</font><font face="Default" color="#ffffff" >界面參加奪書，也可以在</font><font face="Default" color="#ff0000" >「藏書檯守護人」</font><font face="Default" color="#ffffff" >那裡參加奪書）</font>
+QiecuoMenu_9503=<font face="Default" color="#ffffff" >光天化日，朗朗乾坤，你竟敢在此劫持，看招。</font>
+collectinfo_9505=勞大哥居然愛酒，這事好辦了很多。前往<a href="findnpc_new,city05,FuncNpc00607" style="HLStype1">酒樓掌櫃</a>處購買<a href="TASK_ITEM,jiu_10002" style="HLStype1">米酒</a>，與<a href="findnpc_new,city05,Npc_wmp_1n_cc_ll" style="HLStype1">勞亮</a>暢飲<a href="TASK_ITEM,jiu_10002" style="HLStype1">米酒</a>，看看能否獲得什麼收穫
+collectinfo_9612=這有一片遺骸被移動過的<a href="findnpc,adv024,312.271,10.866,333.448" style="HLStype1">血跡</a>（提示：與<a href="findnpc_new,city03,NPC_wmp_2ndy_ckj" style="HLStype1">邢二俠</a>對話可再次進入枯井）
+convoy_talk_51005_2=薛晨惡賊，辱我師姐，要是讓我碰到他，我定要將他碎屍萬段。
+convoy_talk_51005_4=這裡冰天雪地，缺衣少糧，只要我們圍上幾日，就能將那惡賊活活餓死、凍死。
+convoy_talk_51005_6=前面不遠處就是惡賊藏身之所，我們要小心行事才行。
+interactinfo_9544=把綁來的人帶給<a href="findnpc_new,city05,WorldNpc08410" style="HLStype1">二強</a>，並加入牙儈組織
+interactinfo_9562=前往<a href="findnpc_new,city05,Event_wmp_1n_cc_9562" style="HLStype1">成都城內</a>打探打探是否有劫持之人的線索
+story_9502_2=<font face="Default" color="#ffffff" >好，縱然危險萬分，我拼了命也要在那惡賊身上刺幾個透明窟窿。</font>
+story_9508_1=<font face="Default" color="#ffffff" >怎麼回事？你這個無恥敗類，初時我還以為你磊落光明，沒想到是惡人。</font>
+story_9508_6=<font face="Default" color="#ffffff" >哼，你左拳擊碎他天靈蓋，長劍刺穿他心肺，又用袖弩把他釘在地上，他是死得不能再死了。他遺骸就在你身後，你何不看看我所說是真是假！</font>
+story_9544_3=<font face="Default" color="#ffffff" >只有進入這個組織才有可能找到他們犯罪的線索。但是這個組織比較嚴格，你必須劫持個人來， 我才能給你引薦。</font>
+story_menu_9543=<font face="Default" color="#ffffff" >關於牙儈組織不知道神捕有何看法？</font>
+story_menu_9575=<font face="Default" color="#ffffff" >二俠，樂茹是被常山兆打罵致死的。我已將他殺掉，現已是戴罪之身，來和你說一聲我便準備逃難去。</font>
+storyinfo_9509=幸好<a href="findnpc,groupscene008,695,465,868" style="HLStype1">恨天老人</a>及時出現，才把這些惡人全部除盡，我險些上了他們的大當。
+storyinfo_9544=找<a href="findnpc_new,city05,FuncNpc00604" style="HLStype1">周生生</a>瞭解牙儈組織的大致情況
+storymenu_9542_1=<font face="Default" color="#ffffff" >是的，在成都範圍內存在一批以劫持販賣為營生的組織，他們劫持了很多人，販賣給了很多黑心商販。</font>
+useiteminfo_9501=對<a href="findnpc_new,city05,bjyd006" style="HLStype1">吳濤</a>使用<a href="TASK_ITEM,bj_yd06" style="HLStype1">蒙汗藥</a>，並對他進行劫持(只有在規定的時間內完成劫持，才能得到綁匪的信任)
 

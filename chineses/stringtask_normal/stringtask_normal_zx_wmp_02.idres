@@ -51,6 +51,8 @@ CanAcceptMenu_51639=<font face="Default" color="#ffffff" >拜入师门</font>
 CanAcceptMenu_51640=<font face="Default" color="#ffffff" >拜入师门(可承接)</font>
 CanAcceptMenu_51641=<font face="Default" color="#ffffff" >拜入师门</font>
 CanAcceptMenu_51642=<font face="Default" color="#ffffff" >拜入师门(可承接)</font>
+CanAcceptMenu_51643=<font face="Default" color="#ffffff" >拜入师门</font>
+CanAcceptMenu_51644=<font face="Default" color="#ffffff" >拜入师门(可承接)</font>
 CompleteMenu_51501=<font face="Default" color="#ffffff" >天下变(完成)</font>
 CompleteMenu_51502=<font face="Default" color="#ffffff" >这是大和尚托我送来的书信，请收下。</font>
 CompleteMenu_51503=<font face="Default" color="#ffffff" >江湖势力移花宫</font>
@@ -103,6 +105,8 @@ CompleteMenu_51639=<font face="Default" color="#ffffff" >完成任务</font>
 CompleteMenu_51640=<font face="Default" color="#ffffff" >拜入师门(可提交)</font>
 CompleteMenu_51641=<font face="Default" color="#ffffff" >完成任务</font>
 CompleteMenu_51642=<font face="Default" color="#ffffff" >拜入师门(可提交)</font>
+CompleteMenu_51643=<font face="Default" color="#ffffff" >完成任务</font>
+CompleteMenu_51644=<font face="Default" color="#ffffff" >拜入师门(可提交)</font>
 UncompleteMenu_51629=拜入师门一事我还没做完
 UncompleteMenu_51630=拜入师门一事我还没做完
 UncompleteMenu_51631=拜入师门一事我还没做完
@@ -153,6 +157,8 @@ accept_51639_1=<font face="Default" color="#ffffff" >  汝既然想加入</font>
 accept_51640_1=<font face="Default" color="#ffffff" >你既加入</font><font face="Default" color="#ffffff" >本派</font><font face="Default" color="#ffffff" >，有些事便不得不知。</font>
 accept_51641_1=<font face="Default" color="#ffffff" >  汝既然想加入</font><font face="Default" color="#ffffff" >昆仑</font><font face="Default" color="#ffffff" >派，那就去拜见掌门。如果你能通过考验，就可成为我</font><font face="Default" color="#ffffff" >昆仑</font><font face="Default" color="#ffffff" >派一员。</font>
 accept_51642_1=<font face="Default" color="#ffffff" >你既加入本派，有些事便不得不知。</font>
+accept_51643_1=<font face="Default" color="#ffffff" >  汝既然想加入</font><font face="Default" color="#ffffff" >刑天城</font><font face="Default" color="#ffffff" >，那就去拜见大将军。如果你能通过考验，就可成为我</font><font face="Default" color="#ffffff" >刑天城</font><font face="Default" color="#ffffff" >一员。</font>
+accept_51644_1=<font face="Default" color="#ffffff" >你既加入本派，有些事便不得不知。</font>
 complete_51501=<font face="Default" color="#ffffff" >少侠老朽知道的也就这么多了，但愿能帮上你。</font>
 complete_51502=<font face="Default" color="#ffffff" >呵呵，送信的也无妨，想必你都了解我们无根门的入门要求了，若是</font><font face="Default" color="#ffffff" >以后</font><font face="Default" color="#ffffff" >想通了</font><font face="Default" color="#ffffff" >想拜入我们无根门</font><font face="Default" color="#ffffff" >随时都可以来找我。</font>
 complete_51503=<font face="Default" color="#ffffff" >移花宫不收庸才，条件</font><font face="Default" color="#ffffff" >要求</font><font face="Default" color="#ffffff" >严格，若想加入必须达到</font><font face="Default" color="#ffffff" >他们</font><font face="Default" color="#ffffff" >的标准。</font>
@@ -198,13 +204,15 @@ complete_51632=<font face="Default" color="#ffffff" >好好好！！痛快，有
 complete_51633=<font face="Default" color="#ffffff" >这是……</font><font face="Default" color="#ffffff" >你果然没让我失望</font><font face="Default" color="#ffffff" >，看在你这份胆识上，我就收你做外姓弟子，记住唐门的门规，不要去参与江湖上的明争暗斗。</font>
 complete_51634=<font face="Default" color="#ffffff" >呵呵呵呵呵，不错不错，孺子可教，从今日起，你便是我门下弟子，今后一同研修音律，吟诗作词。</font>
 complete_51635=<font face="Default" color="#ffffff" >好，从今天起你就是锦衣卫的门人了，记住顺我者昌毋人负我。</font>
-complete_51636=<font face="Default" color="#ffffff" >哈哈哈，有胆识，实话告诉你，刚才给你吃的只是普通的丹药而已，没有毒，我欣赏你这份胆识，今日我就收你做我门下弟子，入极乐必须遵守门规，不得与朝廷中人有来往，不然格杀勿论。</font>
+complete_51636=<font face="Default" color="#ffffff" >哈哈哈，有胆识，实话告诉你，刚才给你吃的只是普通的丹药而已，没有毒，我欣赏你这份胆识，今日我就收你做我门下弟子，入极乐必须遵守门规，不得与朝廷中人有来往，不然片甲不留。</font>
 complete_51637=<font face="Default" color="#ffffff" >…不知阁下为何而来？</font>
 complete_51638=<font face="Default" color="#ffffff" >那么即刻起你就是我明教的弟子了。</font>
 complete_51639=<font face="Default" color="#ffffff" >…不知阁下为何而来？</font>
 complete_51640=<font face="Default" color="#ffffff" >那么即刻起你就是我</font><font face="Default" color="#ffffff" >天山派</font><font face="Default" color="#ffffff" >的弟子了。</font>
 complete_51641=<font face="Default" color="#ffffff" >…不知阁下为何而来？</font>
 complete_51642=<font face="Default" color="#ffffff" >那么即刻起你就是我</font><font face="Default" color="#ffffff" >昆仑</font><font face="Default" color="#ffffff" >派的弟子了。</font>
+complete_51643=<font face="Default" color="#ffffff" >…不知阁下为何而来？</font>
+complete_51644=<font face="Default" color="#ffffff" >那么即刻起你就是我</font><font face="Default" color="#ffffff" >刑天城</font><font face="Default" color="#ffffff" >的弟子了。</font>
 context_51501=最近一段时间江湖不大太平，各路江湖人士来来去去，很是动荡，去了解一下是否有什么大事要发生。
 context_51502=大和尚年少时候曾与无根门一弟子有旧交，他托你带封书信给这个多年未见的老友。
 context_51503=当今大世江湖势力风起云涌，行走江湖背后有个可以依赖的势力，做起事来有时候可以事半功倍，去了解江湖上的各大势力对你以后行走江湖有很多帮助。
@@ -257,6 +265,8 @@ context_51639=汝既然想加入天山派，那就去拜见掌门。如果你能
 context_51640=听掌门讲述天山派。
 context_51641=汝既然想加入昆仑派，那就去拜见掌门。如果你能通过考验，就可成为我昆仑派一员。
 context_51642=听掌门讲述昆仑派。
+context_51643=汝既然想加入刑天城，那就去拜见大将军。如果你能通过考验，就可成为我刑天城一员。
+context_51644=听大将军讲述刑天城。
 menu_51501_1=<font face="Default" color="#ffffff" >看到近来好多人都云集恶人谷，然后又匆匆离去，不知他们都前往何处了？</font>
 menu_51502_1=<font face="Default" color="#ffffff" >没想到大和尚是如此念旧的人呐，哈哈。</font>
 menu_51503_1=<font face="Default" color="#ffffff" >多谢大和尚了。</font>
@@ -315,6 +325,8 @@ menu_51639_1=<font face="Default" color="#ffffff" >容我考虑一下。</font>
 menu_51640_1=<font face="Default" color="#ffffff" >弟子静听教诲。</font>
 menu_51641_1=<font face="Default" color="#ffffff" >容我考虑一下。</font>
 menu_51642_1=<font face="Default" color="#ffffff" >弟子静听教诲。</font>
+menu_51643_1=<font face="Default" color="#ffffff" >容我考虑一下。</font>
+menu_51644_1=<font face="Default" color="#ffffff" >弟子静听教诲。</font>
 next_51512=
 next_51513=绛雪心经达到五层后去找<a href="findnpc_new,born02,SchoolNpc000107" style="HLStype1">萧逸尘</a>
 next_51514=绛雪心经达到十层后去找<a href="findnpc_new,born02,SchoolNpc000107" style="HLStype1">萧逸尘</a>
@@ -383,6 +395,8 @@ submit_51639=<font face="Default" color="#ffffff" >在下素仰</font><font face
 submit_51640=<font face="Default" color="#ffffff" >谢</font><font face="Default" color="#ffffff" >掌门</font><font face="Default" color="#ffffff" >。</font>
 submit_51641=<font face="Default" color="#ffffff" >在下素仰</font><font face="Default" color="#ffffff" >昆仑</font><font face="Default" color="#ffffff" >派威名，故今日特来拜会，还请掌门勿怪在下唐突。</font>
 submit_51642=<font face="Default" color="#ffffff" >谢掌门。</font>
+submit_51643=<font face="Default" color="#ffffff" >在下素仰</font><font face="Default" color="#ffffff" >刑天城</font><font face="Default" color="#ffffff" >威名，故今日特来拜会，还请大将军勿怪在下唐突。</font>
+submit_51644=<font face="Default" color="#ffffff" >谢大将军。</font>
 target_51501=最近江湖颇不太平暗潮涌动，听屠泳诉说他所看到的变化。
 target_51502=将大和尚的新带到百兽庄，并了解百兽庄的状况。
 target_51503=了解移花宫的状况
@@ -435,6 +449,8 @@ target_51639=前往天山派，恳请掌门收你为徒。
 target_51640=与掌门对话。
 target_51641=前往昆仑派，恳请掌门收你为徒。
 target_51642=与掌门对话。
+target_51643=前往刑天城，恳请大将军收你为徒。
+target_51644=与大将军对话。
 task_TrackInfo_51621=<s>前往武当，恳请掌门收你为徒。
 task_TrackInfo_51622=<s>前往少林，恳请方丈收你为徒。
 task_TrackInfo_51623=<s>前往峨眉，恳请掌门收你为徒。
@@ -511,6 +527,8 @@ title_51639=前往天山派
 title_51640=拜入师门
 title_51641=前往昆仑派
 title_51642=拜入师门
+title_51643=前往刑天城
+title_51644=拜入师门
 uncom_51629=<s>无量寿佛…...施主此番选择，倒也是在情理之中。
 uncom_51630=<s>阿弥陀佛…..施主此番选择，倒也是在情理之中。
 uncom_51631=<s>还请女施主快去快回。

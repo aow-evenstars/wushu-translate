@@ -48,6 +48,29 @@ CanAcceptMenu_72758=<font face="Default" color="#ffffff" >前辈还有什么吩�
 CanAcceptMenu_72759=<font face="Default" color="#ffffff" >了解帮会</font>
 CanAcceptMenu_72760=<font face="Default" color="#ffffff" >加入帮会</font>
 CanAcceptMenu_72761=<font face="Default" color="#ffffff" >奇门置换</font>
+CanAcceptMenu_72780=<font face="Default" color="#ffffff" >区域检测（可承接）</font>
+CanAcceptMenu_72781=<font face="Default" color="#ffffff" >潜藏倭寇（可承接）</font>
+CanAcceptMenu_72782=<font face="Default" color="#ffffff" >清除倭寇（可接取）</font>
+CanAcceptMenu_72783=<font face="Default" color="#ffffff" >侦查敌情（可接取）</font>
+CanAcceptMenu_72784=<font face="Default" color="#ffffff" >击退倭寇（可接取）</font>
+CanAcceptMenu_72785=<font face="Default" color="#ffffff" >击退倭寇头领（可接取）</font>
+CanAcceptMenu_72786=<font face="Default" color="#ffffff" >采集矿石（可接取）</font>
+CanAcceptMenu_72787=<font face="Default" color="#ffffff" >抢夺物资（可接取）</font>
+CanAcceptMenu_72788=<font face="Default" color="#ffffff" >采集木材（可接取）</font>
+CanAcceptMenu_72789=<font face="Default" color="#ffffff" >取药治疗（可接取）</font>
+CanAcceptMenu_72790=<font face="Default" color="#ffffff" >暗袭倭寇高层（可接取）</font>
+CanAcceptMenu_72791=<font face="Default" color="#ffffff" >精修武学（可接取）</font>
+CanAcceptMenu_72792=<font face="Default" color="#ffffff" >守卫军营·奇袭</font>
+CanAcceptMenu_72793=<font face="Default" color="#ffffff" >外敌来袭（可接取）</font>
+CanAcceptMenu_72794=<font face="Default" color="#ffffff" >阁内试炼（可接取）</font>
+CanAcceptMenu_72795=<font face="Default" color="#ffffff" >八卦炼心（可接取）</font>
+CanAcceptMenu_72796=以毒育蛇
+CanAcceptMenu_72797=<font face="Default" color="#ffffff" >破解情报</font>
+CanAcceptMenu_72798=<font face="Default" color="#ffffff" >收集情报书页</font>
+CanAcceptMenu_72799=<font face="Default" color="#ffffff" >收集情报书页</font>
+CanAcceptMenu_72800=<font face="Default" color="#ffffff" >收集情报书页</font>
+CanAcceptMenu_72801=破解情报
+CanAcceptMenu_72802=<font face="Default" color="#ffffff" >领取火药</font>
 CanAcceptMenu_73155=<font face="Default" color="#ffffff" >校场演习</font><font face="Default" color="#ffffff" >（可承接）</font>
 CanAcceptMenu_73163=<font face="Default" color="#ffffff" >弓箭淬毒（可接取）</font>
 CanAcceptMenu_73164=<font face="Default" color="#ffffff" >前辈找我有什么事吗？</font>
@@ -129,6 +152,27 @@ CompleteMenu_72758=<font face="Default" color="#ffffff" >我已经把秘籍交�
 CompleteMenu_72759=<font face="Default" color="#ffffff" >晚辈前来想了解如何加入帮会。</font>
 CompleteMenu_72760=<font face="Default" color="#ffffff" >任务完成。</font>
 CompleteMenu_72761=<font face="Default" color="#ffffff" >完成任务</font>
+CompleteMenu_72780=<font face="Default" color="#ffffff" >区域检测（可提交）</font>
+CompleteMenu_72781=<font face="Default" color="#ffffff" >潜藏倭寇（可提交）</font>
+CompleteMenu_72782=<font face="Default" color="#ffffff" >清除倭寇（可提交）</font>
+CompleteMenu_72783=<font face="Default" color="#ffffff" >侦查敌情（可提交）</font>
+CompleteMenu_72784=<font face="Default" color="#ffffff" >击退倭寇（可提交）</font>
+CompleteMenu_72785=<font face="Default" color="#ffffff" >击退倭寇头领（可提交）</font>
+CompleteMenu_72786=<font face="Default" color="#ffffff" >采集矿石（可提交）</font>
+CompleteMenu_72787=<font face="Default" color="#ffffff" >抢夺物资（可提交）</font>
+CompleteMenu_72788=<font face="Default" color="#ffffff" >采集木材（可提交）</font>
+CompleteMenu_72789=<font face="Default" color="#ffffff" >取药治疗（可提交）</font>
+CompleteMenu_72790=<font face="Default" color="#ffffff" >暗袭倭寇高层（可提交）</font>
+CompleteMenu_72791=<font face="Default" color="#ffffff" >精修武学（可提交）</font>
+CompleteMenu_72793=<font face="Default" color="#ffffff" >外敌来袭（可提交）</font>
+CompleteMenu_72794=<font face="Default" color="#ffffff" >阁内试炼（可提交）</font>
+CompleteMenu_72795=<font face="Default" color="#ffffff" >八卦炼心（可提交）</font>
+CompleteMenu_72796=我已经完成了！
+CompleteMenu_72797=<font face="Default" color="#ffffff" >完成任务</font>
+CompleteMenu_72798=<font face="Default" color="#ffffff" >收集情报书页</font>
+CompleteMenu_72799=<font face="Default" color="#ffffff" >收集情报书页</font>
+CompleteMenu_72800=<font face="Default" color="#ffffff" >收集情报书页</font>
+CompleteMenu_72801=我已经完成了！
 CompleteMenu_73155=<font face="Default" color="#ffffff" >校场演习</font><font face="Default" color="#ffffff" >（已完成）</font>
 CompleteMenu_73163=<font face="Default" color="#ffffff" >弓箭淬毒（</font><font face="Default" color="#ffffff" >已完成</font><font face="Default" color="#ffffff" >）</font>
 CompleteMenu_73164=<font face="Default" color="#ffffff" >这是我夺回来的情报。</font>
@@ -217,6 +261,29 @@ accept_72758_1=<font face="Default" color="#ffffff" >是的，最近好多其他
 accept_72759_1=<font face="Default" color="#ffffff" >武林英雄辈出，大野龙蛇遍布，从来不缺少些个能人异士，为壮志豪情，振臂一呼，集结四方之士建帮立会共谋江湖，而这，也就是帮会产生的原由，你若想进一步了解，不妨到帮会管理员处再行询问。</font>
 accept_72760_1=<font face="Default" color="#ffffff" >等你找到一群志同道合的人，在来我这里吧。</font>
 accept_72761_1=<font face="Default" color="#ffffff" >关于奇门武器</font><font face="Default" color="#ffffff" >的事，让我慢慢给你讲述。</font>
+accept_72780_1=<font face="Default" color="#ffffff" >军需官有任务发布，快去看看吧</font>
+accept_72781_1=<font face="Default" color="#ffffff" >军需官传来消息，驻守在村庄外的锦衣卫需要帮助，快去看看吧</font>
+accept_72782_1=<font face="Default" color="#ffffff" >倭寇占领了星垂城并在周围派遣大量倭寇驻守，请前去清除倭寇</font>
+accept_72783_1=<font face="Default" color="#ffffff" >最近军务繁杂，分身乏术</font>
+accept_72784_1=<font face="Default" color="#ffffff" >倭寇源源不断的从登陆点增援和运送物资</font>
+accept_72785_1=<font face="Default" color="#ffffff" >倭寇源源不断的从登陆点增援和运送物资</font>
+accept_72786_1=<font face="Default" color="#ffffff" >我们在此处挖掘了一个矿洞，但因防御事宜暂时无人开采</font>
+accept_72787_1=<font face="Default" color="#ffffff" >倭寇源源不断的从登陆点增援和运送物资</font>
+accept_72788_1=<font face="Default" color="#ffffff" >构建防御工事需要大量不同的木材，有劳少侠前去寻找</font>
+accept_72789_1=<font face="Default" color="#ffffff" >这两位村民因中瘴气之毒危在旦夕,听闻在星垂城药店有解瘴气之毒的解药，劳烦少侠前去取来</font>
+accept_72790_1=<font face="Default" color="#ffffff" >星垂城聚集了大量的倭寇</font>
+accept_72791_1=<font face="Default" color="#ffffff" >武学之道不进则退，需反复练习</font>
+accept_72792_1=<font face="Default" color="#ffffff" >倭寇发动奇袭</font>
+accept_72793_1=<font face="Default" color="#ffffff" >居然有宵小之徒敢袭击我青衣阁，各位弟子速去迎敌</font>
+accept_72794_1=<font face="Default" color="#ffffff" >我阁定期会举行试炼，检测门下弟子武学修炼状况</font>
+accept_72795_1=<font face="Default" color="#ffffff" >我阁之人心境磨练必不可少</font>
+accept_72796_1=青衣阁杀手都擅长使用各种毒药，特别是蛇毒！各位弟子不仅要掌握对于毒药知识，还要懂得采集毒草，以毒育蛇等高深技艺！
+accept_72797_1=<font face="Default" color="#ffffff" >作为青衣阁弟子，行走江湖时通过各种方式来打探情报是最基础的能力，其中叠纸传递情报和破解暗号又是组织成员间互相联系的重要手段。</font>
+accept_72798_1=<font face="Default" color="#ffffff" >收集情报书页</font>
+accept_72799_1=<font face="Default" color="#ffffff" >收集情报书页</font>
+accept_72800_1=<font face="Default" color="#ffffff" >收集情报书页</font>
+accept_72801_1=现在所有的情报书页都收集完毕了，剩下的就是破解出完整的情报内容。
+accept_72802_1=<font face="Default" color="#ffffff" >倭寇此次奇袭居然使用了投石车，火炮等攻城器械，威胁极大</font>
 accept_73155_1=<font face="Default" color="#ffffff" >神机营内，时时刻刻需要锻炼，前去完成一次演习</font>
 accept_73163_1=<font face="Default" color="#ffffff" >关于弓箭淬毒的事，让我慢慢给你讲述。</font>
 accept_73164_1=<font face="Default" color="#ffffff" >最近各大门派都派出众多弟子出来刺探，你到周围看看是否有其他门派的人。（通过</font><font face="Default" color="#ff0000" >“江湖助力”</font><font face="Default" color="#ffffff" >界面可以直接参加巡逻，也可以在</font><font face="Default" color="#ff0000" >“情报负责人”</font><font face="Default" color="#ffffff" >那里参加巡逻）</font>
@@ -298,6 +365,27 @@ complete_72758=<font face="Default" color="#ffffff" >看来真的有很多人在
 complete_72759=<font face="Default" color="#ffffff" >哦！待你行走江湖，结识众多意气相投的好友后，就可以在我这里选择加入其他已建立的帮会加入，当然尚若你实力达到要求也可自己建立帮会邀请好友加入！</font>
 complete_72760=<font face="Default" color="#ffffff" >这么快就找到这么多知己了，你比我想象中的还厉害，我想我已经记住你了，希望你将来能名扬四海。</font>
 complete_72761=<font face="Default" color="#ffffff" >少侠，需要来一把琴么？（跟铁匠对话，选择奇门置换即可）</font>
+complete_72780=<font face="Default" color="#ffffff" >做的不错，这是给你的奖励</font>
+complete_72781=<font face="Default" color="#ffffff" >做的不错，这是给你的奖励</font>
+complete_72782=<font face="Default" color="#ffffff" >这次完成的不错且下去休整吧</font>
+complete_72783=<font face="Default" color="#ffffff" >看来近期倭寇还算老实，有劳了</font>
+complete_72784=<font face="Default" color="#ffffff" >干的不错，少侠请自行休整</font>
+complete_72785=<font face="Default" color="#ffffff" >干的不错，少侠请自行休整</font>
+complete_72786=<font face="Default" color="#ffffff" >干的不错，少侠请自行休整</font>
+complete_72787=<font face="Default" color="#ffffff" >干的不错，少侠请自行休整</font>
+complete_72788=<font face="Default" color="#ffffff" >干的不错，少侠请自行休整</font>
+complete_72789=<font face="Default" color="#ffffff" >这次多亏的少侠这两位村民才能获救，少侠请自行休整</font>
+complete_72790=<font face="Default" color="#ffffff" >干的不错，少侠请自行休整</font>
+complete_72791=<font face="Default" color="#ffffff" >已基本掌握门派武学，仍需多加练习</font>
+complete_72793=<font face="Default" color="#ffffff" >成功击退来袭敌人，这是给予你的奖励</font>
+complete_72794=<font face="Default" color="#ffffff" >你通过了试炼，这是给予你的奖励</font>
+complete_72795=<font face="Default" color="#ffffff" >表现不错，这是给你的奖励</font>
+complete_72796=做的非常不错！这个考验算你通过了！
+complete_72797=<font face="Default" color="#ffffff" >赶紧去搜集情报书页。</font>
+complete_72798=<font face="Default" color="#ffffff" >收集情报书页</font>
+complete_72799=<font face="Default" color="#ffffff" >收集情报书页</font>
+complete_72800=<font face="Default" color="#ffffff" >收集情报书页</font>
+complete_72801=做的非常不错！这个考验算你通过了！
 complete_73155=<font face="Default" color="#ffffff" >你的表现不错，这是给你的奖励</font>
 complete_73163=<font face="Default" color="#ffffff" >恩，你的领悟能力不错，希望对你有所帮助</font>
 complete_73164=<font face="Default" color="#ffffff" >嗯！干的不错，以后还要多多为门派进行巡逻。</font>
@@ -387,6 +475,29 @@ context_72758=门派内有众多武学书籍供派内弟子研修，但是最近
 context_72759=在这混乱的江湖中，你需要一群值得依赖的伙伴和你一起在这乱世中生存下去。
 context_72760=在你踏足江湖之前，你需要找到一群可以依赖的伙伴一起闯荡江湖。
 context_72761=可以前往大禹那边了解奇门置换的事项（将其他未开光生活制造武器转成奇门武器）
+context_72780=按军需官的要求采集各地的样本以检测污染程度
+context_72781=很久之前，曾有一批东瀛武士从星垂城逃出，隐藏身份混迹于周围的村落，根据锦衣卫搜集的情报，揪出他们
+context_72782=倭寇占领了星垂城并在周围派遣大量倭寇驻守，前去清除倭寇
+context_72783=前往驻守在各地的锦衣卫探子处了解倭寇情况
+context_72784=前往倭寇登陆处击退倭寇
+context_72785=前往倭寇登陆处击退倭寇头领
+context_72786=前往矿洞挖取需要的矿石
+context_72787=前往倭寇登陆处抢夺并烧毁物资
+context_72788=前往各地采集需要的木材
+context_72789=前往星垂城药房处取解药解救中毒村民
+context_72790=前往星垂城击败倭寇高层
+context_72791=前往军营找司徒清练习门派武学
+context_72792=倭寇奇袭军营，在军官孟新勇的指挥下抵御倭寇的进攻
+context_72793=外敌来袭，速速前往守卫青衣阁
+context_72794=参加青衣阁定期举行的阁内试炼
+context_72795=熟悉八卦，平心静气，祛除心魔
+context_72796=青衣阁杀手都擅长使用各种毒药，特别是蛇毒！各位弟子不仅要掌握毒药知识，还要懂得采集毒草，以毒育蛇等高深技艺！
+context_72797=作为青衣阁弟子，行走江湖时通过各种方式来打探情报是最基础的能力，其中叠纸传递情报和破解暗号又是组织成员间互相联系的重要手段。
+context_72798=找到散落在青衣阁内暗藏的物件，并找出藏在其中的情报书页
+context_72799=继续找到散落在青衣阁内暗藏的物件，并找出藏在其中的情报书页
+context_72800=再次找到散落在青衣阁内暗藏的物件，并找出藏在其中的情报书页
+context_72801=现在所有的情报书页都收集完毕了，剩下的就是破解出完整的情报内容。
+context_72802=军官孟新勇手中获得火药
 context_73155=前往端木朋处，按照端木朋的指示，完成一次校场演习
 context_73163=前往<a href="findnpc_new,school20,newmp_mj_015" style="HLStype1">虎辰</a>处了解下对弓箭进行淬毒的细节
 context_73164=最近各大门派都派出众多弟子前往其他门派刺探情报，到周围看看是否有其他门派的人在这里刺探。
@@ -475,6 +586,29 @@ menu_72758_1=<font face="Default" color="#ffffff" >知道了，我马上就去�
 menu_72759_1=<font face="Default" color="#ffffff" >多谢相告！我稍后即前往相询。</font>
 menu_72760_1=<font face="Default" color="#ffffff" >好的，相信我们很快就会再见面的。</font>
 menu_72761_1=<font face="Default" color="#ffffff" >请前辈指教</font>
+menu_72780_1=<font face="Default" color="#ffffff" >弟子遵命</font>
+menu_72781_1=<font face="Default" color="#ffffff" >弟子遵命</font>
+menu_72782_1=<font face="Default" color="#ffffff" >好的</font>
+menu_72783_1=<font face="Default" color="#ffffff" >在下可以效劳</font>
+menu_72784_1=<font face="Default" color="#ffffff" >原来如此</font>
+menu_72785_1=<font face="Default" color="#ffffff" >原来如此</font>
+menu_72786_1=<font face="Default" color="#ffffff" >在下可以效劳</font>
+menu_72787_1=<font face="Default" color="#ffffff" >原来如此</font>
+menu_72788_1=<font face="Default" color="#ffffff" >遵命</font>
+menu_72789_1=<font face="Default" color="#ffffff" >在下这就前去</font>
+menu_72790_1=<font face="Default" color="#ffffff" >可有在下效劳之处</font>
+menu_72791_1=<font face="Default" color="#ffffff" >确实如此</font>
+menu_72792_1=<font face="Default" color="#ffffff" >在下愿尽绵薄之力，任凭大人指挥</font>
+menu_72793_1=<font face="Default" color="#ffffff" >弟子这就前去</font>
+menu_72794_1=<font face="Default" color="#ffffff" >弟子知晓</font>
+menu_72795_1=<font face="Default" color="#ffffff" >弟子谨记</font>
+menu_72796_1=收到！
+menu_72797_1=<font face="Default" color="#ffffff" >您有何指示？</font>
+menu_72798_1=<font face="Default" color="#ffffff" >好的！</font>
+menu_72799_1=<font face="Default" color="#ffffff" >好的！</font>
+menu_72800_1=<font face="Default" color="#ffffff" >好的！</font>
+menu_72801_1=好的！
+menu_72802_1=<font face="Default" color="#ffffff" >确实如此</font>
 menu_73155_1=<font face="Default" color="#ffffff" >好的</font>
 menu_73163_1=<font face="Default" color="#ffffff" >请前辈指教</font>
 menu_73164_1=<font face="Default" color="#ffffff" >好的，我马上就去。</font>
@@ -512,6 +646,16 @@ menu_73196_1=<font face="Default" color="#ffffff" >在了解了个大门派的�
 menu_73197_1=<font face="Default" color="#ffffff" >得到师叔指点，真是受益匪浅！</font>
 menu_73198_1=<font face="Default" color="#ffffff" >弟子恭领师叔之命！</font>
 menu_73199_1=<font face="Default" color="#ffffff" >确实如此，弟子也略有所闻！</font>
+next_72793=回复<a href="findnpc_new,adv158,npc_lzy_qygzc_wdlx_001" style="HLStype1">诸信杰</a>
+next_72794=回复<a href="findnpc_new,adv158,npc_lzy_qygzc_gnsl_001" style="HLStype1">侯泰</a>
+next_72795=回复<a href="findnpc_new,adv158,npc_lzy_qygrc_bglx_001" style="HLStype1">穆邦</a>
+next_72796=完成采集毒草，以毒育蛇的考验
+next_72797=找到情报书页，并破解其中的情报
+next_72798=收集情报书页
+next_72799=继续收集情报书页
+next_72800=再次收集情报书页
+next_72801=破解出完成的情报内容
+next_72802=回复<a href="findnpc_new,scene35,Eventnpc_txlzy_001" style="HLStype1">孟新勇</a>
 next_73175=向<a href="findnpc_new,groupscene037,Npc_yd_wg_jx_mj01" style="HLStype1">凌风</a>学习[赤火功]
 next_73196=<a href="findnpc_new,city04,hbyd004" style="HLStype1">马奇松</a>会告诉你有关海捕的信息
 next_73200=
@@ -559,6 +703,27 @@ submit_72758=<font face="Default" color="#ffffff" >是的。</font>
 submit_72759=<font face="Default" color="#ffffff" >原来如此，多谢相告！</font>
 submit_72760=<font face="Default" color="#ffffff" >多谢夸奖，后会有期。</font>
 submit_72761=<font face="Default" color="#ffffff" >请让我再考虑一下</font>
+submit_72780=<font face="Default" color="#ffffff" >谢谢</font>
+submit_72781=<font face="Default" color="#ffffff" >谢谢</font>
+submit_72782=<font face="Default" color="#ffffff" >告辞</font>
+submit_72783=<font face="Default" color="#ffffff" >告辞</font>
+submit_72784=<font face="Default" color="#ffffff" >告辞</font>
+submit_72785=<font face="Default" color="#ffffff" >告辞</font>
+submit_72786=<font face="Default" color="#ffffff" >告辞</font>
+submit_72787=<font face="Default" color="#ffffff" >告辞</font>
+submit_72788=<font face="Default" color="#ffffff" >告辞</font>
+submit_72789=<font face="Default" color="#ffffff" >告辞</font>
+submit_72790=<font face="Default" color="#ffffff" >告辞</font>
+submit_72791=<font face="Default" color="#ffffff" >在下告辞</font>
+submit_72793=<font face="Default" color="#ffffff" >弟子告辞</font>
+submit_72794=<font face="Default" color="#ffffff" >弟子告辞</font>
+submit_72795=<font face="Default" color="#ffffff" >弟子告辞</font>
+submit_72796=好的！
+submit_72797=<font face="Default" color="#ffffff" >好的！</font>
+submit_72798=<font face="Default" color="#ffffff" >好的</font>
+submit_72799=<font face="Default" color="#ffffff" >好的</font>
+submit_72800=<font face="Default" color="#ffffff" >好的</font>
+submit_72801=好的！
 submit_73155=<font face="Default" color="#ffffff" >谢谢</font>
 submit_73163=<font face="Default" color="#ffffff" >谢，前辈</font>
 submit_73164=<font face="Default" color="#ffffff" >谢谢前辈，我会继续努力的。</font>
@@ -648,6 +813,29 @@ target_72758=打败前来盗书的夺书弟子，抢回被盗秘籍
 target_72759=了解帮会
 target_72760=加入帮会
 target_72761=找到大禹了解奇门置换功能
+target_72780=按军需官的要求采集各地的样本以检测污染程度<br><font color="#FF0000">完成任务将获得：门派个人积分20点；门派物资20点。返回本服后将获得一份“处理事务”邮件奖励。</font>
+target_72781=很久之前，曾有一批东瀛武士从星垂城逃出，隐藏身份混迹于周围的村落，根据锦衣卫搜集的情报，揪出他们<br><font color="#FF0000">完成任务将获得：门派个人积分20点；门派物资20点。返回本服后将获得一份“处理事务”邮件奖励。</font>
+target_72782=倭寇占领了星垂城并在周围派遣大量倭寇驻守，前去清除驻守在各地的倭寇<br><font color="#FF0000">完成任务将获得：门派个人积分1点；门派物资1点。</font>
+target_72783=前往驻守在各地的锦衣卫探子处了解倭寇情况<br><font color="#FF0000">完成任务将获得：门派个人积分1点；门派物资1点。</font>
+target_72784=前往倭寇登陆处击退倭寇<br><font color="#FF0000">完成任务将获得：门派个人积分1点；门派物资1点。</font>
+target_72785=前往倭寇登陆处击退倭寇头领<br><font color="#FF0000">完成任务将获得：门派个人积分1点；门派物资1点。</font>
+target_72786=前往矿洞挖取需要的矿石<br><font color="#FF0000">完成任务将获得：门派个人积分1点；门派物资1点。</font>
+target_72787=前往倭寇登陆处抢夺并烧毁物资<br><font color="#FF0000">完成任务将获得：门派个人积分1点；门派物资1点。</font>
+target_72788=前往各地采集需要的木材<br><font color="#FF0000">完成任务将获得：门派个人积分1点；门派物资1点。</font>
+target_72789=前往星垂城药房处取解药解救中毒村民<br><font color="#FF0000">完成任务将获得：门派个人积分1点；门派物资1点。</font>
+target_72790=前往星垂城击败倭寇高层<br><font color="#FF0000">完成任务将获得：门派个人积分1点；门派物资1点。</font>
+target_72791=前往军营找司徒清练习门派武学<br><font color="#FF0000">完成任务将获得：门派个人积分1点；门派物资1点。</font>
+target_72792=倭寇奇袭军营，在军官孟新勇的指挥下抵御倭寇的进攻<br><font color="#FF0000">完成任务将获得：门派个人积分5点；门派物资5点。返回本服后将获得一份“星垂奇袭”邮件奖励。</font>
+target_72793=外敌来袭，速速前往守卫青衣阁
+target_72794=参加青衣阁定期举行的阁内试炼
+target_72795=熟悉八卦，平心静气，祛除心魔
+target_72796=完成采集毒草，以毒育蛇的考验
+target_72797=找到情报书页，并破解其中的情报
+target_72798=收集情报书页
+target_72799=继续收集情报书页
+target_72800=再次收集情报书页
+target_72801=破解出完成的情报内容
+target_72802=军官孟新勇手中获得火药
 target_73155=完成一次校场演习
 target_73163=完成一次对弓箭的淬毒
 target_73164=击败各门派前来刺探的弟子，夺回被拿走的情报。
@@ -737,6 +925,29 @@ title_72758=门派书籍
 title_72759=了解帮会
 title_72760=加入帮会
 title_72761=奇门置换
+title_72780=区域检测·主
+title_72781=潜藏倭寇·主
+title_72782=清除倭寇·支
+title_72783=侦查敌情·支
+title_72784=击退倭寇·支
+title_72785=击退倭寇头领·支
+title_72786=采集矿石·支
+title_72787=抢夺物资·支
+title_72788=采集木材·支
+title_72789=取药治疗·支
+title_72790=暗袭倭寇高层·支
+title_72791=精修武学·支
+title_72792=守卫军营·奇袭
+title_72793=外敌来袭
+title_72794=阁内试炼
+title_72795=八卦炼心
+title_72796=以毒育蛇
+title_72797=破解情报
+title_72798=收集情报书页
+title_72799=收集情报书页
+title_72800=收集情报书页
+title_72801=破解情报
+title_72802=领取火药
 title_73155=校场演习
 title_73163=弓箭淬毒
 title_73164=门派巡逻

@@ -17,9 +17,7 @@ DialogID_38734=<s>少俠，去告訴溫凱，速速組織人將乞丐趕出寨�
 DialogID_38735=<s>一切皆是緣定，施主，你自己去找他吧！
 DialogID_38737=<s>嘯謙說方丈告訴他是上上籤，寫了一個「柴」字，說「此木將至，木者生也」我不明白此意思，但是方丈又不肯道明天機！
 DialogID_38738=<s>多謝少俠，拜託你告訴夢師，抱犢寨的事自己會處理，少操抱犢寨的閒心，管好他們自己就行了！不送
-DialogID_38739=<s>多謝施主，麻煩你跟夢現說，魅惑婦人已經被制服了！
 DialogID_38740=<font face="Default" color="#ffffff" >  殘暴</font><font face="Default" color="#ffffff" >惡匪</font><font face="Default" color="#ffffff" >暗中幫助凶悍水賊，少俠去趕走他們吧，要不然我們永無寧日！</font>
-DialogID_38741=<s>魅惑婦人經常迷惑寨子裡的壯年，少俠你要阻止他們！
 QiecuoMenu_38725=（看來不打不行啦！）
 QiecuoTitle_38725=<s>休要多言，看招！
 collectinfo_38720=收集<a href="findnpc_new,city04,Gather70043y" style="HLStype1">水仙草</a>
@@ -33,7 +31,6 @@ convoy_talk_81904_5=
 convoyinfo_38720=跟隨迎客僧
 hunterinfo_38720=擊敗<a href="findnpc_new,city04,monc041200" style="HLStype1">殘暴惡匪</a>
 hunterinfo_38721=擊敗<a href="findnpc_new,city04,monc041201" style="HLStype1">凶悍水賊</a>
-hunterinfo_38722=擊敗<a href="findnpc_new,city04,monc041400" style="HLStype1">魅惑婦人</a>
 hunterinfo_38723=擊敗<a href="findnpc_new,city04,monc041401" style="HLStype1">密宗使者</a>
 hunterinfo_38724=擊敗<a href="findnpc_new,city04,monc041402" style="HLStype1">密宗使者護衛</a>
 hunterinfo_38725=擊敗<a href="findnpc_new,city04,WorldNpc10508" style="HLStype1">夢觀</a>
@@ -48,9 +45,7 @@ hunterinfo_38733=擊敗<a href="findnpc_new,city04,monc041300" style="HLStype1">
 hunterinfo_38734=擊敗<a href="findnpc_new,city04,monc041401" style="HLStype1">密宗使者</a>
 hunterinfo_38735=擊敗<a href="findnpc_new,city04,monc041402" style="HLStype1">密宗使者護衛</a>
 hunterinfo_38736=擊敗<a href="findnpc_new,city04,monc041201" style="HLStype1">凶悍水賊</a>
-hunterinfo_38737=擊敗<a href="findnpc_new,city04,monc041400" style="HLStype1">魅惑婦人</a>
 hunterinfo_38738=擊敗<a href="findnpc_new,city04,monc041200" style="HLStype1">殘暴惡匪</a>
-hunterinfo_38739=擊敗<a href="findnpc_new,city04,monc041400" style="HLStype1">魅惑婦人</a>
 interactinfo_38720=與<a href="findnpc_new,city04,WorldNpc10519" style="HLStype1">善余伯</a>交談
 interactinfo_38721=與<a href="findnpc_new,city04,WorldNpc10511" style="HLStype1">阿貴</a>交談
 interactinfo_38722=與<a href="findnpc_new,city04,WorldNpc10510" style="HLStype1">溫大爺</a>交談
@@ -99,4 +94,9 @@ quest_menu_38720=「木者生也」，說明你快有孩子了！
 questioninfo_38720=回答<a href="findnpc_new,city04,WorldNpc10023" style="HLStype1">嘯謙</a>的問題
 useiteminfo_38720=對<a href="findnpc_new,city04,WorldNpc10518" style="HLStype1">老莊</a>使用<a href="TASK_ITEM,useitem_54y" style="HLStype1">粗布條</a>
 DialogID_38736=<font face="Default" color="#ffffff" >  我雖大仇得報，但我為報復而亂殺無辜，罪孽深重，幸好得到點化。我已皈依佛門！施主，勞煩您告訴司徒濤，我塵緣已了，以後不必再來找我了！</font>
+DialogID_38739=<s>多謝施主，麻煩你跟夢現說，迷人婦人已經被制服了！
+DialogID_38741=<s>迷人婦人經常迷惑寨子裡的壯年，少俠你要阻止他們！
+hunterinfo_38722=擊敗<a href="findnpc_new,city04,monc041400" style="HLStype1">迷人婦人</a>
+hunterinfo_38737=擊敗<a href="findnpc_new,city04,monc041400" style="HLStype1">迷人婦人</a>
+hunterinfo_38739=擊敗<a href="findnpc_new,city04,monc041400" style="HLStype1">迷人婦人</a>
 

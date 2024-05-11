@@ -1,6 +1,6 @@
 ﻿
 DialogID_58402=<font face="Default" color="#ffffff" >   呼……呼……你……你这</font><font face="Default" color="#ffffff" >人居然好生厉害，有本事便来浣花山庄，我们必好生“迎接”！</font>
-DialogID_58403=<font face="Default" color="#ffffff" >   </font><font face="Default" color="#ffffff" >饶命……别打了……我再也不敢了……至于我那堂兄一行人，早已在暮色之村了，只是不知现下情况如何了……</font>
+DialogID_58403=<font face="Default" color="#ffffff" >   饶命……别打了……我再也不敢了……</font>
 DialogID_58406=<font face="Default" color="#ffffff" >你已成为本门弟子，在本门中有一位师兄弟引荐人，你可前去拜见。</font>
 QiecuoMenu_58411=<font face="Default" color="#ffffff" >姑娘……我……</font>
 QiecuoMenu_58413=<font face="Default" color="#ffffff" >你这大煞风景的龟孙，看招！</font>
@@ -63,7 +63,7 @@ interactinfo_58404=到<a href="findnpc_new,city04,EventNpc86923" style="HLStype1
 interactinfo_58405=与<a href="findnpc_new,city04,FunnpcClone021003" style="HLStype1">石夫人</a>交谈NpcId=石夫人
 interactinfo_58406=门主<a href="findnpc_new,school03,WorldNpc03305" style="HLStype1">萧别情</a>师兄弟推荐
 okmenu_58402=<font face="Default" color="#ffffff" >既如此……我们也只能先礼后兵了……</font>
-okmenu_58403=<font face="Default" color="#ffffff" >再让我看到你欺压良善，小心你的狗头！暮色之村么……</font><font face="Default" color="#ffffff" >哼，</font><font face="Default" color="#ffffff" >我这就去了……</font>
+okmenu_58403=<font face="Default" color="#ffffff" >再让我看到你欺压良善，小心你的狗头！</font>
 okmenu_58406=<font face="Default" color="#ffffff" >我这就去拜见</font>
 specialinfo_118=彻底查清神风帮的阴谋
 specialinfo_119=完成一次门派巡逻，并获得情报
@@ -97,7 +97,7 @@ story_58402_1=<font face="Default" color="#ffffff" >   你终于来了，</font>
 story_58402_2=<font face="Default" color="#ffffff" >   浣花山庄</font><font face="Default" color="#ffffff" >一些女弟子不知遇上了哪个君子堂弟子，</font><font face="Default" color="#ffffff" >竟是指责我</font><font face="Default" color="#ffffff" >君子堂</font><font face="Default" color="#ffffff" >门人全是伪君子，言语轻浮，对其多有冒犯，此事悠关我门声誉，不得不追究</font><font face="Default" color="#ffffff" >啊……</font>
 story_58402_3=<font face="Default" color="#ffffff" >   哎，多半是两方一言不合才让冲突升级吧……喏，对面那个浣花山庄的女弟子</font><font face="Default" color="#ffffff" >名叫胡灵，</font><font face="Default" color="#ffffff" >就是留在此处留意我君子堂异动的，她可不好惹，你可小心问询一番……</font>
 story_58403_1=<font face="Default" color="#ffffff" >   你来了，哎，那赵子亟多年前改邪归正，一直隐居在暮色小村，</font><font face="Default" color="#ffffff" >不久前却为救酒店掌柜孟梦而不得已使出武功，</font><font face="Default" color="#ffffff" >这才引来了无数仇家……</font>
-story_58403_2=<font face="Default" color="#ffffff" >   只是以韩似锦为首的仇家却对无辜的暮色村民大肆生杀掠夺，不仅有悖天道，对整个江南来说都是煮鹤焚琴，大煞风景……哎……</font><font face="Default" color="#ffffff" >掌柜孟光就在那边，你可以同他谈谈。</font>
+story_58403_2=<font face="Default" color="#ffffff" >   只是以韩似锦为首的仇家却对无辜的暮色村民大肆生杀抢占，不仅有悖天道，对整个江南来说都是煮鹤焚琴，大煞风景……哎……</font><font face="Default" color="#ffffff" >掌柜孟光就在那边，你可以同他谈谈。</font>
 story_58404_1=<font face="Default" color="#ffffff" >    哎，那赵子亟之前做过何事，我无心追究，这次却是因为救我女儿孟梦才被仇家发觉追杀，我</font><font face="Default" color="#ffffff" >对此</font><font face="Default" color="#ffffff" >却无能为力，真是没用啊……</font>
 story_58404_2=<font face="Default" color="#ffffff" >   韩似锦带着许多人早就去暮色之村了，只是他……还有个堂弟韩顽石一直在这里吃霸王餐，</font><font face="Default" color="#ffffff" >甚至</font><font face="Default" color="#ffffff" >还调戏小女孟梦……我……</font>
 story_58405_1=<font face="Default" color="#ffffff" >   哎，你来啦……那书斋</font><font face="Default" color="#ffffff" >石夫人愿意以珍藏古卷相送，拜托我君子堂查明此事</font><font face="Default" color="#ffffff" >，这次</font><font face="Default" color="#ffffff" >她丈夫</font><font face="Default" color="#ffffff" >死得不明不白，我们不能置之不理……</font>
@@ -137,5 +137,5 @@ storymenu_58405_2=<font face="Default" color="#ffffff" >事不宜迟，我这就
 storymenu_58406_1=<font face="Default" color="#ffffff" >石夫人节哀，我是前来探查此事的君子堂弟子，还请你禀明详情，尊夫</font><font face="Default" color="#ffffff" >生</font><font face="Default" color="#ffffff" >前可与往常有何不同？</font>
 storymenu_58406_2=<font face="Default" color="#ffffff" >我这就上去</font><font face="Default" color="#ffffff" >，夫人稍候</font><font face="Default" color="#ffffff" >。</font>
 storymenu_58407_1=<font face="Default" color="#ffffff" >以我推测，袭击我的人，似乎是为了拿到尊夫留下的手札，或是为了将证据处理掉吧……</font>
-storymenu_58407_2=<font face="Default" color="#8fd6ef" >（看来，我有必要前去青云堡将此事弄个究竟……）</font><font face="Default" color="#ffffff" >夫人保重，后会有期。</font>
+storymenu_58407_2=<font face="Default" color="#ffffff" >燕师兄已前往查探，探查结束在下便会将结果告知夫人！夫人保重，后会有期。</font>
 storymenu_58408_1=<font face="Default" color="#ffffff" >我知道了</font>

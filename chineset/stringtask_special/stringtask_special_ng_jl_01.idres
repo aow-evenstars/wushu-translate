@@ -1,13 +1,8 @@
 ﻿
 SubmitNpcEx_58001=安樂公透露盜寶之人已被他所傷，想必循著血跡可以找到盜寶之人的藏身之所，先回<a href="findnpc_new,school04,npc_4neidh_jlg" style="HLStype1">掌事師叔</a>處稟報，請他定奪。
 SubmitNpcEx_58002=血跡已被磨刀堂弟子清除，再尋下去也沒有意義，回<a href="findnpc_new,school04,npc_4neidh_jlg" style="HLStype1">掌事師叔</a>處先行稟報再做打算吧。
-SubmitNpcEx_58004=這屍體皮膚發青，應該是機關毒所致，估計是磨刀堂設下的陷阱，用來對付追查之人，既然磨刀堂已經有所察覺，繼續追查下去也沒有了意義，回去稟告<a href="findnpc_new,school04,npc_4neidh_jlg" style="HLStype1">掌事師叔</a>
 SubmitNpcEx_58005=現在推測出盜取玉如意的人很有可能就是極樂谷眾，而且已經被安樂公所傷。將此事稟報給<a href="findnpc_new,school04,npc_4neidh_jlg" style="HLStype1">掌事師叔</a>。
-SubmitNpcEx_58012=神秘人屍體不翼而飛！難道他是假死？難道字條上就是要我們調查這個神秘人到底是誰？趕緊回去向<a href="findnpc_new,school04,npc_4neidh_jlg" style="HLStype1">掌事師叔</a>稟告。
-SubmitNpcEx_58013=那個盜寶之人似乎叫做巫馬歸軍，看起來是藍血心的情人。不過巫馬歸軍似乎有負於藍血心，被藍血心所殺。巫馬歸軍生死未卜，神秘人的身份還是一個迷，先回稟<a href="findnpc_new,school04,npc_4neidh_jlg" style="HLStype1">掌事師叔</a>再做打算。
-SubmitNpcEx_58014=原來當初巫馬歸軍有負於藍血心，藍血心趁夜捂死巫馬歸軍後吃了他。但是為何巫馬歸軍又「復活」了？而且他為何又與磨刀堂有關係？先將疑問放下回去稟告<a href="findnpc_new,school04,npc_4neidh_jlg" style="HLStype1">掌事師叔</a>。
 SubmitNpcEx_58016=字條上書：「少堂主果然沒看錯人，最終的甄選就在你們兩個之間產生。--磨刀堂」看來這一切都是磨刀堂搞得鬼，回去向<a href="findnpc_new,school04,npc_4neidh_jlg" style="HLStype1">掌事師叔</a>稟報吧。
-SubmitNpcEx_58017=很有可能這都是磨刀堂布的局！引藍血心殺巫馬歸軍然後趁機收買他，然後逼巫馬歸軍盜取玉如意，後又把他推出來讓我們調查，好賤，既然已經知道了巫馬歸軍的動機，那麼真正的敵人就是磨刀堂了，趕緊回稟<a href="findnpc_new,school04,npc_4neidh_jlg" style="HLStype1">掌事師叔</a>。
 SubmitNpcEx_58042=為了馳援四大寇，前往金陵<a href="findnpc_new,city03,EventNPCxszhh_4nei_fgxsh" style="HLStype1">明鏡湖</a>，找<a href="findnpc_new,city03,NPCxszhh_4nei_yuming" style="HLStype1">余為天</a>瞭解詳細情況。
 collectinfo_83011=前方似乎有個<a href="findnpc_new,school04,npc_4nei_jlg_g02" style="HLStype1">字條</a>，說不定是啞僕留下的線索。
 collectinfo_83012=那個<a href="findnpc_new,school04,npc_4nei_jlg_g01" style="HLStype1">暗器</a>上似乎有個字條，撿起來看看。
@@ -27,16 +22,13 @@ interactinfo_83003=掌事師叔說當時青田殿有幾個巡邏弟子當值，�
 interactinfo_83005=巡邏弟子{@IDName:npc_4nei_jlg_st2}也不能倖免！這磨刀堂到底是何來歷？！速速找最後一個巡邏弟子<a href="findnpc_new,school04,npc_4nei_jlg_st3" style="HLStype1">{@IDName:npc_4nei_jlg_st3}</a>，否則他也會遭受不測！
 interactinfo_83007=哈哈，磨刀堂果然百密一疏，這裡的血跡沒有清除，繼續查探<a href="findnpc_new,school04,npc_4nei_jlg_blood4" style="HLStype1">血跡</a>找出那個啞僕
 interactinfo_83008=前方似乎還有一灘<a href="findnpc_new,school04,npc_4nei_jlg_blood5" style="HLStype1">血跡</a>，沒有看到什麼動靜，反而覺得詭異，小心為妙
-interactinfo_83009=前方似乎有具<a href="findnpc_new,school04,npc_4nei_jlg_st4" style="HLStype1">屍體</a>小心上前看看。
 interactinfo_83011=破解謎題毫無頭緒，要不先去<a href="findnpc_new,school04,npc_4nei_jlg_evt1" style="HLStype1">啞僕逃跑的方向</a>看看能否找到一些線索
 interactinfo_83012=字條上書「大殿之後」四個字，難道是<a href="findnpc_new,school04,npc_4nei_jlg_evt2" style="HLStype1">那兒</a>？
-interactinfo_83013=與掌事師叔商量無果，去<a href="findnpc_new,school04,npc_4nei_jlg_evt3" style="HLStype1">神秘人屍體</a>處找找看是否漏掉什麼線索。
 interactinfo_83014=去問問<a href="findnpc_new,school04,npc_4nei_jlg_evt4" style="HLStype1">安樂公</a>關於那個盜寶之人有何其他的線索
 interactinfo_83021=依掌事師叔所言趕往<a href="findnpc_new,school04,npc_4nei_jlg_evt5" style="HLStype1">天游宮</a>捉拿巫馬歸軍，奪回玉如意
 interactinfo_83022=谷主已經派人增援，趕緊回<a href="findnpc_new,school04,npc_4nei_jlg_evt6" style="HLStype1">天游宮</a>防止巫馬歸軍逃跑
 interactinfo_83023=磨刀堂留下的字條到底有何用意，<a href="findnpc_new,school04,npc_4nei_jlg_evt7" style="HLStype1">到處去逛逛</a>想想如何能解開磨刀堂留下的啞謎。
 interactinfo_83024=巫馬歸軍應該是受磨刀堂指使盜取的玉如意，但是他的動機是什麼，和最終的甄選有關係嗎？難道巫馬歸軍有什麼把柄在磨刀堂手中？感覺和藍血心有關，<a href="findnpc_new,school04,npc_4nei_jlg_evt8" style="HLStype1">再往前走走</a>尋找靈感
-interactinfo_83025=對了，藍血心不是說把巫馬歸軍趁夜捂死然後吃掉了麼，等等，捂死！這根本看不出臉的，而且吃人這麼瘋狂的舉動應該神智已經不清，那麼就是說藍血心殺的另有其人而且很有可能和磨刀堂有關！<a href="findnpc_new,school04,npc_4nei_jlg_evt9" style="HLStype1">再走走</a>快有些眉目了。
 interactinfo_83031=情報表示已經知曉了巫馬歸軍、藍血心和啞僕的位置，趕往惡人谷<a href="findnpc_new,born02,npc_4nei_jlg_evt10" style="HLStype1">素雲宮</a>，奪回失竊的玉如意
 interactinfo_83032=巫馬歸軍已敗，玉如意卻不在他手上，趕到的極樂谷眾已經與磨刀堂相戰。「見到此字，即被選中。隨我僕人，取你寶物。」按照字條的指示跟著<a href="findnpc_new,born02,npc_4nei_jlg_evt11" style="HLStype1">啞僕</a>
 interactinfo_83033=這磨刀堂大費周章盜我極樂谷寶物究竟欲意何為？如此實力僅僅只為好玩？放下心中疑問，趕緊跟上<a href="findnpc_new,born02,npc_4nei_jlg_evt12" style="HLStype1">啞僕</a>
@@ -56,10 +48,7 @@ story_83003_3=<font face="Default" color="#ffffff" >那就是說一無所獲了�
 story_83003_4=<font face="Default" color="#ffffff" >何出此言？</font>
 story_83012_1=<font face="Default" color="#ffffff" >看來這就是「謎題」了，但是磨刀堂要我們調查誰？「我」指的是誰？</font>
 story_83013_1=<font face="Default" color="#ffffff" >巫馬歸軍？不過是一個負心薄倖的畜生罷了。</font>
-story_83013_2=<font face="Default" color="#ffffff" >我們家藍血心對巫馬歸軍一片癡心，但是巫馬歸軍那個禽獸，自從得到了藍血心後，到處沾花惹草，從來不對藍血心正眼相看。</font>
-story_83013_3=<font face="Default" color="#ffffff" >然後我家藍血心做了個英明的決定，趁夜潛入那負心人居所將其捂死，然後吃掉。</font>
 story_83013_4=<font face="Default" color="#ffffff" >不過今日巫馬歸軍又出現了，而且盜取了門派玉如意，藍血心精神受不了如此大的刺激，就跑去找安樂公要人。</font>
-story_83013_5=<font face="Default" color="#ffffff" >很有可能，藍血心手下經常可以看到巫馬歸軍的身影，不會認錯的。不過很奇怪，巫馬歸軍明明被藍血心殺掉甚至連屍體都被她吃了，為何會再次出現？</font>
 story_83021_1=<font face="Default" color="#ffffff" >我知道了，你快回去，我這就派人過去。</font>
 story_83031_1=<font face="Default" color="#ffffff" >還行，還能撐住。你趕緊過去拿回玉如意……</font>
 story_83033_1=<font face="Default" color="#ffffff" >還好，原來待在極樂谷這麼久了，外面的世界也不停的在更替，現在外面竟然有這麼厲害的人物了，回去得好好修煉了。</font>
@@ -105,7 +94,6 @@ storymenu_83003_1=<font face="Default" color="#ffffff" >對不起絲毫未有。
 storymenu_83003_2=<font face="Default" color="#ffffff" >恕弟子無能，每當查探到一個線索時就有磨刀堂的人提前把那個線索斬斷。</font>
 storymenu_83003_3=<font face="Default" color="#ffffff" >也不盡然，經我推理，那日啞僕還有幫手幫他盜走了玉如意。</font>
 storymenu_83003_4=<font face="Default" color="#ffffff" >如果安樂公將那啞僕所傷，而後又毫髮無損的出現在谷主面前，這根本是不可能的。而且谷內戒備森嚴，一個陌生人要從谷內盜走寶物是根本不可能的，所以我推斷，啞僕定有幫手而且很有可能是極樂谷內部之人。</font>
-storymenu_83012_1=<font face="Default" color="#ffffff" >恕弟子不知，要不我再回神秘人屍體處找找還有沒其他的線索？</font>
 storymenu_83013_1=<font face="Default" color="#ffffff" >哦？願聞其詳。</font>
 storymenu_83013_2=<font face="Default" color="#ffffff" >看來又是個渣男的節奏。</font>
 storymenu_83013_3=<font face="Default" color="#ffffff" >不虧稱之為屍妃……</font>
@@ -124,15 +112,11 @@ storymenu_83043_1=<font face="Default" color="#ffffff" >磨刀堂為何稱丁九
 DialogID_83050=<font face="Default" color="#ffffff" >不知你是否聽過和氏璧一事？和氏璧復合有一關鍵的人，此人名為玉大師，為了躲避閻王令易容改姓，我們已經收到線報此人現就藏在極樂谷內。具體的你去問問守衛吧</font><font face="Default" color="#ffffff" >。</font>
 DialogID_83051=<font face="Default" color="#ffffff" >是夏侯堂主讓你來的？看來是要你來處理此事了。前幾日我跟蹤了一對天衣教的人去了遊魂窟，後因功力微薄怕打草驚蛇才撤了回來。</font>
 DialogID_83053=<font face="Default" color="#ffffff" >哦，是你啊。事情是這樣。說來奇怪，前幾日我們接到上頭命令，開門放走了幾名罪犯。並且無論形勢如何不要出手。結果就看到一批蒙面人追著一名罪犯往斗南院方向走了。</font>
-DialogID_83056=<font face="Default" color="#660000" >（一具</font><font face="Default" color="#ffffff" >燒焦</font><font face="Default" color="#660000" >的屍體，焦黑的面孔已經無法辨認容貌，</font><font face="Default" color="#ffffff" >此人一隻手指向旁邊的石堆</font><font face="Default" color="#660000" >）</font>
 DialogID_83058=<font face="Default" color="#ffffff" >無……無……無極谷，速去。</font>
 DialogID_83060=<font face="Default" color="#ffffff" >（一滴乾涸的血跡，從色澤上判斷應該有一到兩個時辰）</font>
 DialogID_83061=<font face="Default" color="#ffffff" >（和上滴血跡出自同人，應該是從這個方向走了）</font>
 DialogID_83064=<font face="Default" color="#ffffff" >你小子倒有些眼色。追了我們一路真當我們不知道麼？</font>
 SubmitNpcEx_58055=與<a href="findnpc_new,school04,WorldNpc03816" style="HLStype1">單天冥</a>交談
-collectinfo_83022=呵呵，原形畢露，一個小小<a href="findnpc_new,school04,npc_5nei_jlg_001" style="HLStype1">天衣教頭目</a>也敢來放肆，殺了他看能不能搜到什麼線索！
-hunterinfo_83042=平日裡我不記得這邊會有這麼多守衛。<a href="findnpc_new,school04,monm040702" style="HLStype1">這些人</a>衣服好像有些怪異，難道是天衣教偽裝？殺殺看
-hunterinfo_83043=呵呵，果然是假扮的，幕後人還不出來？那我就繼續殺些<a href="findnpc_new,school04,monm040704" style="HLStype1">遊魂窟精英</a>玩兒。
 interactinfo_83050=<a href="findnpc_new,school04,JlgNpc032" style="HLStype1">夏侯翅</a>好似有事情要和我說，上去問問。
 interactinfo_83051=小小天衣教也敢來我極樂谷內撒野，不識好歹。若是被我擒住，哼哼。問問<a href="findnpc_new,school04,WorldNpc03828" style="HLStype1">極樂谷守衛</a>師兄是否有天衣教的蹤跡。
 interactinfo_83052=<a href="findnpc_new,school04,Event_5nei_jlg_83051" style="HLStype1">遊魂窟內</a>有詐？此地一直為我極樂谷押解犯人之處。守衛強大，應該不會出什麼問題才是。
@@ -160,4 +144,20 @@ useiteminfo_83002=<a href="TASK_ITEM,item_5nei_jlg_83023" style="HLStype1">一�
 SubmitNpcEx_58003=磨刀堂到底是何許人物！竟在極樂谷中悄無聲息的攻克！知情的巡邏弟子都被解決後患，趕緊回稟<a href="findnpc_new,school04,npc_4neidh_jlg" style="HLStype1">掌事師叔</a>。
 interactinfo_83004=巡邏弟子桑正武竟然已被解決後患！想必磨刀堂有所察覺，想將所有知情人解決後患。趕在磨刀堂前面去找另一個巡邏弟子<a href="findnpc_new,school04,npc_4nei_jlg_st2" style="HLStype1">喻劍心</a>
 interactinfo_83006=盜寶之人的血跡已被清除，目擊證人也被解決後患，磨刀堂的身份越來越詭異了。不過那個傳話的啞僕被谷主所傷，去追尋他的<a href="findnpc_new,school04,npc_4nei_jlg_blood3" style="HLStype1">血跡</a>也許可以找到新的線索
+DialogID_83056=<font face="Default" color="#660000" >（一具</font><font face="Default" color="#ffffff" >燒焦</font><font face="Default" color="#660000" >的遺骸，焦黑的面孔已經無法辨認容貌，</font><font face="Default" color="#ffffff" >此人一隻手指向旁邊的石堆</font><font face="Default" color="#660000" >）</font>
+SubmitNpcEx_58004=這遺骸皮膚發青，應該是機關毒所致，估計是磨刀堂設下的陷阱，用來對付追查之人，既然磨刀堂已經有所察覺，繼續追查下去也沒有了意義，回去稟告<a href="findnpc_new,school04,npc_4neidh_jlg" style="HLStype1">掌事師叔</a>
+SubmitNpcEx_58012=神秘人遺骸不翼而飛！難道他是假死？難道字條上就是要我們調查這個神秘人到底是誰？趕緊回去向<a href="findnpc_new,school04,npc_4neidh_jlg" style="HLStype1">掌事師叔</a>稟告。
+interactinfo_83009=前方似乎有具<a href="findnpc_new,school04,npc_4nei_jlg_st4" style="HLStype1">遺骸</a>小心上前看看。
+interactinfo_83013=與掌事師叔商量無果，去<a href="findnpc_new,school04,npc_4nei_jlg_evt3" style="HLStype1">神秘人遺骸</a>處找找看是否漏掉什麼線索。
+story_83013_2=<font face="Default" color="#ffffff" >我們家藍血心對巫馬歸軍一片癡心，但是巫馬歸軍那個惡人，自從得到了藍血心後，到處沾花惹草，從來不對藍血心正眼相看。</font>
+storymenu_83012_1=<font face="Default" color="#ffffff" >恕弟子不知，要不我再回神秘人遺骸處找找還有沒其他的線索？</font>
+SubmitNpcEx_58013=那個盜寶之人似乎叫做巫馬歸軍，看起來是藍血心的情人。不過巫馬歸軍似乎有負於藍血心，被藍血心所除。巫馬歸軍生死未卜，神秘人的身份還是一個迷，先回稟<a href="findnpc_new,school04,npc_4neidh_jlg" style="HLStype1">掌事師叔</a>再做打算。
+SubmitNpcEx_58014=原來當初巫馬歸軍有負於藍血心，藍血心趁夜捂死了巫馬歸軍。但是為何巫馬歸軍又「復活」了？而且他為何又與磨刀堂有關係？先將疑問放下回去稟告<a href="findnpc_new,school04,npc_4neidh_jlg" style="HLStype1">掌事師叔</a>。
+SubmitNpcEx_58017=很有可能這都是磨刀堂布的局！引藍血心除去巫馬歸軍然後趁機收買他，然後逼巫馬歸軍盜取玉如意，後又把他推出來讓我們調查，好賤，既然已經知道了巫馬歸軍的動機，那麼真正的敵人就是磨刀堂了，趕緊回稟<a href="findnpc_new,school04,npc_4neidh_jlg" style="HLStype1">掌事師叔</a>。
+collectinfo_83022=呵呵，原形畢露，一個小小<a href="findnpc_new,school04,npc_5nei_jlg_001" style="HLStype1">天衣教頭目</a>也敢來放肆，除了他看能不能搜到什麼線索！
+hunterinfo_83042=平日裡我不記得這邊會有這麼多守衛。<a href="findnpc_new,school04,monm040702" style="HLStype1">這些人</a>衣服好像有些怪異，難道是天衣教偽裝？
+hunterinfo_83043=呵呵，果然是假扮的，幕後人還不出來？那我就繼續除掉一些<a href="findnpc_new,school04,monm040704" style="HLStype1">遊魂窟精英</a>玩兒。
+interactinfo_83025=對了，藍血心不是說把巫馬歸軍趁夜捂死了麼，等等，捂死！這根本看不出臉的，那麼就是說藍血心除去的可能另有其人，而且很有可能和磨刀堂有關！<a href="findnpc_new,school04,npc_4nei_jlg_evt9" style="HLStype1">再走走</a>快有些眉目了。
+story_83013_3=<font face="Default" color="#ffffff" >然後我家藍血心做了個英明的決定，趁夜潛入那負心人居所將其捂死。</font>
+story_83013_5=<font face="Default" color="#ffffff" >很有可能，藍血心手下經常可以看到巫馬歸軍的身影，不會認錯的。不過很奇怪，巫馬歸軍明明被藍血心除掉了，為何會再次出現？</font>
 

@@ -1,11 +1,11 @@
 ﻿
 DialogID_75451=<font face="Default" color="#ff0515" >（情绪激动）</font><font face="Default" color="#ffffff" >这不可能！泪儿她绝对不会攻克的！</font>
 DialogID_75452=<font face="Default" color="#ffffff" >一年前他们爷孙俩就住在咱们惊世楼附近，那是个乖巧温柔的热心孩子，但是有一天，他们突然就搬走了，连声招呼都没打……</font>
-DialogID_75453=<font face="Default" color="#ffffff" >我当时就在案发现场，那人死得真惨，身上一大片皮肤都溃烂了，皮肤上还闪着诡异的光。噫~太恐怖了！~我看呐，一定是哪个邪恶势力下的手！</font>
+DialogID_75453=<font face="Default" color="#ffffff" >我当时就在案发现场，那人死得真惨，身上一大片皮肤都溃烂了，皮肤上还闪着诡异的光。噫~太可怕了！~我看呐，一定是哪个邪恶势力下的手！</font>
 DialogID_75454=<font face="Default" color="#ffffff" >先生，泪儿是个好孩子，请你帮帮她吧。我相信，以先生的能力一定能抓到真凶！</font>
 DialogID_75455=<font face="Default" color="#ffffff" >先生且放心，我一定会守口如瓶。</font>
-DialogID_75456=<font face="Default" color="#ffffff" >听说尸体被送到长明之舟上了，由城里的巡守看管着。</font>
-DialogID_75458=<font face="Default" color="#ffffff" >这具尸体看上去高大壮实，面色发白，嘴唇发紫，双腿自然微开外翻。</font>
+DialogID_75456=<font face="Default" color="#ffffff" >听说遗骸被送到长明之舟上了，由城里的巡守看管着。</font>
+DialogID_75458=<font face="Default" color="#ffffff" >这具遗骸看上去高大壮实，面色发白，嘴唇发紫，双腿自然微开外翻。</font>
 DialogID_75459=<font face="Default" color="#ffffff" >先生可是有什么发现？</font>
 DialogID_75460=<font face="Default" color="#ffffff" >先生接下来我们去哪？</font>
 DialogID_75462=<font face="Default" color="#ffffff" >……</font>
@@ -28,10 +28,10 @@ interactinfo_75451=见一旁的掌柜神情激动，询问<a href="findnpc_new,s
 interactinfo_75452=与<a href="findnpc_new,scene32,npc_lzy_201908jq6_002" style="HLStype1">掌柜</a>交谈NpcId=掌柜
 interactinfo_75453=大堂似乎有人在谈论此事，前去<a href="findnpc_new,scene32,npc_lzy_201908jq6_003" style="HLStype1">询问</a>
 interactinfo_75454=与<a href="findnpc_new,scene32,npc_lzy_201908jq6_002" style="HLStype1">掌柜</a>交谈
-interactinfo_75455=询问<a href="findnpc_new,scene32,npc_lzy_201908jq6_001" style="HLStype1">小河子</a>尸体现在何处
+interactinfo_75455=询问<a href="findnpc_new,scene32,npc_lzy_201908jq6_001" style="HLStype1">小河子</a>遗骸现在何处
 interactinfo_75456=与<a href="findnpc_new,scene32,npc_lzy_201908jq6_001" style="HLStype1">小河子</a>交谈
 interactinfo_75457=前去<a href="findnpc_new,scene32,EventNpc_lzy_201908jq6_001" style="HLStype1">长明之舟</a>
-interactinfo_75458=查看<a href="findnpc_new,scene32,npc_lzy_201908jq6_006" style="HLStype1">尸体</a>
+interactinfo_75458=查看<a href="findnpc_new,scene32,npc_lzy_201908jq6_006" style="HLStype1">遗骸</a>
 interactinfo_75459=拿出布料给<a href="findnpc_new,scene32,npc_lzy_201908jq6_005" style="HLStype1">天轮寺僧人</a>查看
 interactinfo_75460=与<a href="findnpc_new,scene32,npc_lzy_201908jq6_009" style="HLStype1">小河子</a>交谈
 interactinfo_75461=前往<a href="findnpc_new,scene32,EventNpc_lzy_201908jq6_003" style="HLStype1">城主府</a>
@@ -63,9 +63,9 @@ okmenu_75451=<font face="Default" color="#ffffff" >掌柜的，你认识那个�
 okmenu_75452=<font face="Default" color="#ff0522" >（沉吟不语）</font>
 okmenu_75453=<font face="Default" color="#ff0019" >（心中震撼）</font><font face="Default" color="#ffffff" >诡异的光？难道是……</font>
 okmenu_75454=<font face="Default" color="#ffffff" >此事我应下了。不过你和小河子别对外声张，以免打草惊蛇。</font>
-okmenu_75455=<font face="Default" color="#ffffff" >尸体现在存放何处？</font>
+okmenu_75455=<font face="Default" color="#ffffff" >遗骸现在存放何处？</font>
 okmenu_75456=<font face="Default" color="#ffffff" >你陪我去一趟。</font>
-okmenu_75458=<font face="Default" color="#ffffff" >果然！和燕王府尸体身上一样，伤口皮肤泛着紫光，毒性太强，将周围的布料都染成了银紫色。</font>
+okmenu_75458=<font face="Default" color="#ffffff" >果然！和燕王府遗骸身上一样，伤口皮肤泛着紫光，毒性太强，将周围的布料都染成了银紫色。</font>
 okmenu_75459=<font face="Default" color="#ffffff" >大师，请看这块布料。</font>
 okmenu_75460=<font face="Default" color="#ff0522" >（目光眺向远处)</font><font face="Default" color="#ffffff" >城主府。</font>
 okmenu_75462=<font face="Default" color="#ffffff" >大师，在下乃惊世楼主，现今遇到一些与毒有关的问题特来赐教</font>
@@ -82,10 +82,10 @@ okmenu_75483=<font face="Default" color="#fc0521" >（站起身来）</font><fon
 okmenu_75484=<font face="Default" color="#ffffff" >这一趟非走不可。毕竟，泪儿不能永远见不得光的活着。</font><font face="Default" color="#ff0019" >（我也不可能身负不白之冤，躲藏在外域武林一辈子。）</font>
 okmenu_75485=<font face="Default" color="#fc0720" >（唇角勾起一弯弧度）</font><font face="Default" color="#ffffff" >等晚上就知道了。</font>
 okmenu_75486=<font face="Default" color="#ffffff" >泪儿快躲进去，巡守我来应付</font>
-story_75451_1=<font face="Default" color="#ff021b" >（手脚并用的比划着）</font><font face="Default" color="#ffffff" >是出了大命案，而且据说死状特别恐怖！</font>
+story_75451_1=<font face="Default" color="#ff021b" >（手脚并用的比划着）</font><font face="Default" color="#ffffff" >是出了大命案，而且据说死状特别可怕！</font>
 story_75451_2=<font face="Default" color="#ffffff" >不过大家都说凶手是一个叫岑泪儿的小女孩，城中守卫正在全力缉捕她呢。</font>
 story_75452_1=<font face="Default" color="#ffffff" >原来是惊世楼的那位大人，听闻大人断案如神，在下实在佩服，大人请跟我来。</font>
-story_75453_1=<font face="Default" color="#ff0010" >（作揖）</font><font face="Default" color="#ffffff" >原来是惊世楼主。尸体就在这里，请随我来。</font>
+story_75453_1=<font face="Default" color="#ff0010" >（作揖）</font><font face="Default" color="#ffffff" >原来是惊世楼主。遗骸就在这里，请随我来。</font>
 story_75454_1=<font face="Default" color="#ffffff" >同样的银紫色……难道这两件凶案有着什么关联……</font>
 story_75454_2=<font face="Default" color="#ffffff" >外域武林中，对毒物研究最为透彻的莫过于五行天宫的木宫，除此之外，外域八派中专司暗袭的青衣阁也是个中好手。</font>
 story_75454_3=<font face="Default" color="#ffffff" >楼主止步，五行天宫中人素来高傲，向不理会外人。据我所知，青衣阁正巧有一位高手在城主府做客，楼主不如前去打听一二，说不定能有收获。</font>
@@ -108,7 +108,7 @@ story_75462_2=<font face="Default" color="#ffffff" >不要打扰我……</font>
 story_75462_3=
 story_75463_1=<font face="Default" color="#f90212" >（摇头）</font><font face="Default" color="#ffffff" >爷爷说过，他们现在住的地方，要从很高很高的位置过去……</font>
 story_menu_75451=<font face="Default" color="#ffffff" >小河子，今早看你和掌柜的嘀咕，可是发生了什么事吗？</font>
-story_menu_75452=<font face="Default" color="#f9001d" >（拱手）</font><font face="Default" color="#ffffff" >在下是惊世楼楼主，听闻前几日发生了凶案，想看一看尸体，可否行个方便？</font>
+story_menu_75452=<font face="Default" color="#f9001d" >（拱手）</font><font face="Default" color="#ffffff" >在下是惊世楼楼主，听闻前几日发生了凶案，想看一看遗骸，可否行个方便？</font>
 story_menu_75453=<font face="Default" color="#ffffff" >大师在下是惊世楼主，关于命案有些事情想请教。</font>
 story_menu_75454=<font face="Default" color="#ffffff" >此块布料是我先前从另一名死者身上取来的。</font>
 story_menu_75455=<font face="Default" color="#f9001d" >（拱手）</font><font face="Default" color="#ffffff" >在下惊世楼主，听闻有青衣阁高手在城主府做客，特来拜会。</font>
@@ -133,7 +133,7 @@ storyinfo_75460=听<a href="findnpc_new,scene32,npc_lzy_201908jq6_014" style="HL
 storyinfo_75461=听<a href="findnpc_new,scene32,npc_lzy_201908jq6_014" style="HLStype1">岑泪儿</a>诉说
 storyinfo_75462=前往<a href="findnpc_new,scene32,EventNpc_lzy_201908jq6_002" style="HLStype1">内院</a>请教<a href="findnpc_new,scene32,npc_lzy_201908jq6_024" style="HLStype1">青衣阁高手</a>
 storyinfo_75463=与<a href="findnpc_new,scene32,npc_lzy_201908jq6_023" style="HLStype1">岑泪儿</a>交谈
-storymenu_75451_1=<font face="Default" color="#ff0019" >（心中警觉）</font><font face="Default" color="#ffffff" >尸体何处怪异？凶手抓住了没有？</font>
+storymenu_75451_1=<font face="Default" color="#ff0019" >（心中警觉）</font><font face="Default" color="#ffffff" >遗骸何处怪异？凶手抓住了没有？</font>
 storymenu_75451_2=<font face="Default" color="#ffffff" >小女孩？</font>
 storymenu_75452_1=<font face="Default" color="#ffffff" >有劳。</font>
 storymenu_75453_1=<font face="Default" color="#ffffff" >有劳。</font>

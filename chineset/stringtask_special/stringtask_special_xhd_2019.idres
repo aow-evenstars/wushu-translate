@@ -5,8 +5,6 @@ SubmitNpcEx_74409=前往蘇州<a href="findnpc_new,city02,hd_wyhd_001" style="HL
 specialinfo_1404=通關暮色之村
 specialinfo_1405=通關青雲堡
 specialinfo_1406=通關鳳凰山莊
-specialinfo_1407=通關蝙蝠洞
-specialinfo_1408=通關無爭秘境
 specialinfo_1409=通關大漠鬼城
 SubmitNpcEx_74410=找蘇州（423.794）或成都（923.551）寧九徽（江湖客）提交任務領取獎勵
 DialogID_74401=<font face="Default" color="#ffffff" >我這就將拜帖送至各大掌門處！</font>
@@ -30,7 +28,6 @@ DialogID_74405=<font face="Default" color="#ffffff" >我這就將拜帖送至各
 SubmitNpcEx_74421=回復<a href="findnpc_new,city02,WorldNpc01194" style="HLStype1">林天南</a>，拜帖送出之事
 interactinfo_74405=前去與<a href="findnpc_new,city02,Transcity02A" style="HLStype1">相軍</a>相談，吩咐其將拜帖送至各大掌門處
 okmenu_74405=<font face="Default" color="#ffffff" >恩</font>
-useiteminfo_74420=對其他玩家扔5次<a href="TASK_ITEM,item_shp_20191108_1" style="HLStype1">泥球</a>
 interactinfo_74422=幫好友打掃一次家園
 SubmitNpcEx_74401=尋找<a href="findnpc_new,city04,FunnpcPet001002" style="HLStype1">刁龍</a>提供線索，獲得獎勵。
 SubmitNpcEx_74402=尋找<a href="findnpc_new,city04,FunnpcPet001002" style="HLStype1">刁龍</a>提供線索，獲得獎勵。
@@ -119,6 +116,47 @@ questioninfo_74469=回答<a href="findnpc_new,city02,sz466" style="HLStype1">姚
 SubmitNpcEx_74457=<a href="findnpc_new,city02,hd_wyhd_001" style="HLStype1">尚武(活動大使)</a>
 SubmitNpcEx_74459=<a href="findnpc_new,city02,hd_wyhd_001" style="HLStype1">尚武(活動大使)</a>
 SubmitNpcEx_74460=<a href="findnpc_new,city02,hd_wyhd_001" style="HLStype1">尚武(活動大使)</a>
-useiteminfo_74453=對其他玩家使用<a href="TASK_ITEM,useitem_shp_20210408" style="HLStype1">拭劍帖</a>。
 specialinfo_1518=江湖散擂獲勝一次
+SubmitNpcEx_74476=<a href="findnpc_new,city02,hd_wyhd_001" style="HLStype1">尚武(活動大使)</a>
+SubmitNpcEx_74478=<a href="findnpc_new,city02,hd_wyhd_001" style="HLStype1">尚武(活動大使)</a>
+specialinfo_1520=任意鏢局完成5次普通鏢運送。
+SubmitNpcEx_74439=<a href="findnpc_new,city02,WorldNpc01097" style="HLStype1">嚴倫</a>
+specialinfo_1522=通關禁地：青雲堡（非序章）
+specialinfo_1523=通關禁地：龍門客棧（馬賊線）
+specialinfo_1524=通關禁地：鳳凰山莊（非序章）
+SubmitNpcEx_74479=<a href="findnpc_new,city02,hd_wyhd_001" style="HLStype1">尚武(活動大使)</a>
+SubmitNpcEx_74480=<a href="findnpc_new,city02,hd_wyhd_001" style="HLStype1">尚武(活動大使)</a>
+SubmitNpcEx_74481=<a href="findnpc_new,city02,hd_wyhd_001" style="HLStype1">尚武(活動大使)</a>
+hunterinfo_74403=擊敗<a href="findnpc_new,adv158,npc_qyg_shp_002" style="HLStype1">青蛇</a>
+hunterinfo_74404=擊敗<a href="findnpc_new,adv158,npc_qyg_shp_003" style="HLStype1">白蛇</a>
+specialinfo_1407=通關宗門試煉（普通）
+specialinfo_1408=通關宗門試煉（困難）
+SubmitNpcEx_74483=回復<a href="findnpc_new,city02,hd_wyhd_001" style="HLStype1">尚武(活動大使)</a>
+useiteminfo_74453=對其他玩家使用<a href="TASK_ITEM,useitem_shp_20211216" style="HLStype1">遊歷帖</a>。
+specialinfo_1537=完成1次高級外域遺珍挖寶
+SubmitNpcEx_74485=回復<a href="findnpc_new,city02,hd_wyhd_001" style="HLStype1">尚武(活動大使)</a>
+specialinfo_1538=參與古墓戰場並獲勝2次
+SubmitNpcEx_74486=<a href="findnpc_new,city02,hd_wyhd_001" style="HLStype1">尚武(活動大使)</a>
+SubmitNpcEx_74487=返回蘇州回復<a href="findnpc_new,city02,hd_wyhd_001" style="HLStype1">尚武(活動大使)</a>
+SubmitNpcEx_74488=回復<a href="findnpc_new,city02,hd_wyhd_001" style="HLStype1">尚武(活動大使)</a>
+SubmitNpcEx_74489=返回蘇州回復<a href="findnpc_new,city02,hd_wyhd_001" style="HLStype1">尚武(活動大使)</a>
+specialinfo_1545=任意鏢局完成5次普通鏢運送。<font face="Default" color="#ff0000" >(註：隊伍中至少兩人且全部人員為江湖名俊，同時需和隊長在同一場景)</font>
+specialinfo_1546=重傷3名奪書或者護書弟子。<font face="Default" color="#ff0000" >（註：奪書弟子可重傷奪書弟子或護書弟子；護書弟子可重傷奪書弟子）</font>
+SubmitNpcEx_74490=<a href="findnpc_new,city02,hd_wyhd_001" style="HLStype1">尚武(活動大使)</a>
+specialinfo_1553=參與古墓戰場、武道大會、群鋒問武、雲峰決戰四類戰場中任意一場。
+SubmitNpcEx_74493=<a href="findnpc_new,city02,hd_wyhd_001" style="HLStype1">尚武(活動大使)</a>
+SubmitNpcEx_74494=<a href="findnpc_new,city02,hd_wyhd_001" style="HLStype1">尚武(活動大使)</a>
+SubmitNpcEx_74484=回復<a href="findnpc_new,city02,hd_wyhd_001" style="HLStype1">尚武(活動大使)</a>
+SubmitNpcEx_74495=找到<a href="findnpc_new,adv183,qfg_fc_001" style="HLStype1">俞煙</a>
+DialogID_74409=<font face="Default" color="#ffffff" >蓬萊島近來海水洶湧，部分區域有倒灌之勢，各大勢力頻頻調動，勞煩少俠速稟盟主。</font>
+DialogID_74410=<font face="Default" color="#ffffff" >無極島近來牲畜躁動不安，且常有倭寇船隻出海，恐將有異象發生，勞煩少俠速報盟主。</font>
+DialogID_74411=<font face="Default" color="#ffffff" >俠客島及週遭島嶼異變不斷，侯某在此通報各宗派絕學傳功弟子，少俠請稟報盟主此間異況！</font>
+SubmitNpcEx_74503=回稟<a href="findnpc_new,city02,WorldNpc01194" style="HLStype1">林天南</a>
+interactinfo_74409=前往蓬萊島尋找<a href="findnpc_new,scene16,donghai_dh_01" style="HLStype1">白靈</a>
+interactinfo_74410=前往無極島尋找<a href="findnpc_new,scene19,npc_wjd_wjd_001" style="HLStype1">周雲天</a>
+interactinfo_74411=前往俠客島尋找<a href="findnpc_new,scene17,newworld_event_xiake_160" style="HLStype1">候鳥</a>
+okmenu_74409=<font face="Default" color="#ffffff" >領命！</font>
+okmenu_74410=<font face="Default" color="#ffffff" >領命！</font>
+okmenu_74411=<font face="Default" color="#ffffff" >領命！</font>
+useiteminfo_74420=對其他玩家使用5次<a href="TASK_ITEM,item_shp_2022113_1" style="HLStype1">雪球</a>
 

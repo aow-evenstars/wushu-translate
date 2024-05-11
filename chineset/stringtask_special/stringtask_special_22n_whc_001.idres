@@ -1,0 +1,642 @@
+﻿
+DialogID_77201=<font face="Default" color="#ffffff" >聽說有人來村子看望我們？</font>
+DialogID_77202=<font face="Default" color="#ffffff" >今天什麼風把將軍你吹來了？</font>
+DialogID_77203=<font face="Default" color="#ffffff" >他們都去廣場幹啥呢？</font>
+DialogID_77205=<font face="Default" color="#ffffff" >來來來，將這碗羊肉泡饃端給班前輩。讓他們嘗嘗家鄉的味道！</font>
+DialogID_77206=<font face="Default" color="#ffffff" >羊肉泡饃？！</font>
+DialogID_77208=<font face="Default" color="#ffffff" >倒地的老者</font>
+DialogID_77214=<font face="Default" color="#ffffff" >這些水桶你拿著</font><font face="Default" color="#ffffff" >。</font>
+DialogID_77216=<font face="Default" color="#ffffff" >豈有此理！這幫馬匪愈發肆無忌憚！趁著此刻沒有風沙，我們分頭追蹤他們的老巢。切記！不可魯莽！</font>
+DialogID_77217=<font face="Default" color="#ffffff" >馬匪的包裹</font>
+DialogID_77219=<font face="Default" color="#ffffff" >你如此行色匆匆，發生了何</font><font face="Default" color="#ffffff" >事</font><font face="Default" color="#ffffff" >？</font>
+DialogID_77220=<font face="Default" color="#ffffff" >近日你便巡查望輝洲，這是望輝令，它可以幫你在城中調度人手。</font><font face="Default" color="#ffffff" >你先去找段釋劫，城中商貿由他負責。</font>
+DialogID_77224=<font face="Default" color="#ffffff" >請！</font>
+DialogID_77225=<font face="Default" color="#ffffff" >怎麼樣？</font>
+DialogID_77232=<font face="Default" color="#ffffff" >你想怎麼樣？</font>
+DialogID_77241=<font face="Default" color="#ffffff" >如此，就請稍做準備，我就先行一步，在城外沙漠山谷靜候。</font>
+DialogID_77257=<font face="Default" color="#ffffff" >受到爆炸的衝擊，</font><font face="Default" color="#ffffff" >鎮湖石碑有些歪斜</font>
+DialogID_77258=<font face="Default" color="#ffffff" >受到爆炸的衝擊，鎮湖石碑有些歪斜</font>
+DialogID_77259=<font face="Default" color="#ffffff" >受到爆炸的衝擊，鎮湖石碑有些歪斜</font>
+DialogID_77261=<font face="Default" color="#ffffff" >你且放心，張退之機智縝密，思慮周全，有他在，定不會讓賊人奪取望輝洲！</font>
+DialogID_77262=<font face="Default" color="#ffffff" >我已得知望輝洲面臨的危機。只道是人心太癡，何苦如此。</font>
+DialogID_77263=<font face="Default" color="#ffffff" >如此，你即刻前往玄兔堂，找到劉伽羅。她會告知你任務的具體信息。</font>
+DialogID_77264=<font face="Default" color="#ffffff" >祆教竟真敢來犯！不過，相信城主和子安他們定能帶領望輝洲渡過難關。你且拿好這密信，速速前往刑天城求援。</font>
+DialogID_77276=
+DialogID_77293=<font face="Default" color="#ffffff" >宇文家千餘年的等待和尋找終於有了結果，</font><font face="Default" color="#ffffff" >在下</font><font face="Default" color="#ffffff" >期待望輝洲眾弟子</font><font face="Default" color="#ffffff" >在戰場上</font><font face="Default" color="#ffffff" >施展</font><font face="Default" color="#ffffff" >《</font><font face="Default" color="#ffffff" >罡神斧</font><font face="Default" color="#ffffff" >》</font><font face="Default" color="#ffffff" >的風采，那將會是對鍛神宗</font><font face="Default" color="#ffffff" >祖師</font><font face="Default" color="#ffffff" >最好的告慰！</font>
+DialogID_77299=<font face="Default" color="#ffffff" >此人我就先帶走了！</font>
+QiecuoMenu_77203=<font face="Default" color="#ffffff" >請！</font>
+QiecuoMenu_77206=<font face="Default" color="#ffffff" >看招！</font>
+QiecuoMenu_77269=<font face="Default" color="#ffffff" >看招！</font>
+QiecuoMenu_77287=<font face="Default" color="#ffffff" >這位兄台！在下是……</font>
+QiecuoTitle_77203=<font face="Default" color="#ffffff" >不用留手，出招吧！</font>
+QiecuoTitle_77206=<font face="Default" color="#ffffff" >你怎麼在這裡？！</font>
+QiecuoTitle_77269=<font face="Default" color="#ffffff" >納命來！</font>
+QiecuoTitle_77287=<font face="Default" color="#ffffff" >竟還有漏網之魚！給我</font><font face="Default" color="#ffffff" >納命</font><font face="Default" color="#ffffff" >來！</font>
+SubmitNpcEx_77207=尋找城主<a href="findnpc_new,school28,newmp_whz_001" style="HLStype1">任月皎</a>加入望輝洲（前往刑天城尋找<a href="findnpc_new,school26,npc_whc_dy_67" style="HLStype1">關丹陽</a>可進入望輝洲）(通過<a href="findnpc_new,school28,GotoDoorwhz_guj01" style="HLStype1">跳躍點</a>進入瀚海不系舟)
+SubmitNpcEx_77213=尋找城主<a href="findnpc_new,school28,newmp_whz_001" style="HLStype1">任月皎</a>加入望輝洲（前往成都尋找<a href="findnpc_new,city05,npc_whc_dy_68" style="HLStype1">開宜菲</a>可進入望輝洲）(通過<a href="findnpc_new,school28,GotoDoorwhz_guj01" style="HLStype1">跳躍點</a>進入瀚海不系舟)
+SubmitNpcEx_77214=尋找城主<a href="findnpc_new,school28,newmp_whz_001" style="HLStype1">任月皎</a>加入望輝洲（前往成都尋找<a href="findnpc_new,city05,npc_whc_dy_68" style="HLStype1">開宜菲</a>可進入望輝洲）(通過<a href="findnpc_new,school28,GotoDoorwhz_guj01" style="HLStype1">跳躍點</a>進入瀚海不系舟)
+SubmitNpcEx_77224=回稟<a href="findnpc_new,school28,npc_whc_dy_73" style="HLStype1">衛遠長</a>
+SubmitNpcEx_77225=回稟<a href="findnpc_new,school28,npc_whc_dy_74" style="HLStype1">關丫丫</a>
+SubmitNpcEx_77226=回稟<a href="findnpc_new,school28,npc_whc_dy_75" style="HLStype1">成傑</a>
+SubmitNpcEx_77227=回稟<a href="findnpc_new,school28,npc_whc_dy_75" style="HLStype1">成傑</a>
+SubmitNpcEx_77228=回稟<a href="findnpc_new,school28,npc_whc_dy_75" style="HLStype1">成傑</a>
+SubmitNpcEx_77261=
+SubmitNpcEx_77270=詢問<a href="findnpc_new,school28,nmpwhc_hhm_034" style="HLStype1">劉伽羅</a>城內情況
+SubmitNpcEx_77275=與<a href="findnpc_new,school28,nmpwhc_gsfhhm_009" style="HLStype1">蕭子安</a>交談
+collectinfo_77201=通過<a href="findnpc_new,school28,npc_wanghui_kyf_001" style="HLStype1">秦冠</a>審核獲得審核憑證（前往刑天城尋找<a href="findnpc_new,school26,npc_whc_dy_67" style="HLStype1">關丹陽</a>可進入望輝洲）
+collectinfo_77202=沈捕頭竟然舉刀相向！擊敗他，查找<a href="findnpc_new,city05,npc_whc_dy_002" style="HLStype1">線索</a>
+collectinfo_77203=通過<a href="findnpc_new,city05,npc_wanghui_kyf_002" style="HLStype1">安荷</a>審核獲得審核憑證（前往成都尋找<a href="findnpc_new,city05,npc_whc_dy_68" style="HLStype1">開宜菲</a>可進入望輝洲）
+collectinfo_77204=通過<a href="findnpc_new,city05,npc_wanghui_kyf_003" style="HLStype1">何辰</a>審核獲得審核憑證（前往成都尋找<a href="findnpc_new,city05,npc_whc_dy_68" style="HLStype1">開宜菲</a>可進入望輝洲）
+collectinfo_77205=收集<a href="findnpc_new,school28,Gather_whz_dy_01" style="HLStype1">破損的武器</a>
+collectinfo_77206=收集<a href="findnpc_new,school28,Gather_whz_dy_02" style="HLStype1">破損的裝備</a>
+convoyinfo_77201=帶班凌前輩，前往<a href="findnpc_new,school26,npc_whc_dy_03" style="HLStype1">村莊</a>
+hunterinfo_77201=竟有不長眼的<a href="findnpc_new,school26,npc_whc_dy_001" style="HLStype1">盜匪</a>攔路打劫，擊敗他們
+hunterinfo_77202=擊敗<a href="findnpc_new,," style="HLStype1"></a><a href="findnpc_new,city05,npc_whc_dy_006" style="HLStype1">衙役</a>，保護段靈靈
+hunterinfo_77203=請<a href="findnpc_new,school28,newmp_whz_006" style="HLStype1">班凌</a>指導武學
+hunterinfo_77204=擊敗<a href="findnpc_new,school28,npc_whc_dy_003" style="HLStype1">馬匪</a>
+hunterinfo_77205=<a href="findnpc_new,school28,npc_whc_dy_004" style="HLStype1">馬匪</a>就在前方，擊敗他們
+hunterinfo_77206=質問<a href="findnpc_new,school28,npc_whc_dy_51" style="HLStype1">孫開疆</a>，為何背叛望輝洲
+hunterinfo_77207=擊敗<a href="findnpc_new,school28,boss_whz_dy_06" style="HLStype1">襖教精英弟子</a>
+hunterinfo_77208=擊敗<a href="findnpc_new,school28,boss_whz_dy_07" style="HLStype1">襖教弟子</a>
+hunterinfo_77209=擊敗<a href="findnpc_new,school28,boss_whz_dy_08" style="HLStype1">襖教教眾</a>
+hunterinfo_77210=擊敗<a href="findnpc_new,school28,boss_whz_dy_01" style="HLStype1">襖教大祭司</a>
+hunterinfo_77211=擊敗<a href="findnpc_new,school28,boss_whz_dy_02" style="HLStype1">沙漠異獸</a>
+hunterinfo_77256=段釋劫還安排了後手！解決<a href="findnpc_new,school28,huntnpc_hhm_015" style="HLStype1">段釋劫副手</a>
+hunterinfo_77269=擊敗<a href="findnpc_new,school28,huntnpc_hhm_001" style="HLStype1">安光明</a>
+hunterinfo_77270=擊敗<a href="findnpc_new,school28,huntnpc_hhm_002" style="HLStype1">祆教教徒</a>
+hunterinfo_77271=擊敗<a href="findnpc_new,school28,huntnpc_hhm_003" style="HLStype1">祆教大火師</a>
+hunterinfo_77279=擊敗<a href="findnpc_new,school28,huntnpc_hhm_004" style="HLStype1">馬匪</a>
+hunterinfo_77280=擊敗<a href="findnpc_new,school28,huntnpc_hhm_005" style="HLStype1">馬匪首領</a>
+hunterinfo_77281=擊敗<a href="findnpc_new,school28,huntnpc_hhm_006" style="HLStype1">祆教教眾</a>
+hunterinfo_77282=擊敗<a href="findnpc_new,school28,huntnpc_hhm_007" style="HLStype1">祆教大火師</a>
+hunterinfo_77287=找到神秘高手<a href="findnpc_new,school28,nmpwhc_gsfhhm_003" style="HLStype1">宇文烈</a>
+hunterinfo_77292=此處竟也有埋伏！擊敗<a href="findnpc_new,school28,huntnpc_hhm_010" style="HLStype1">祆教教眾</a>
+hunterinfo_77293=擊敗<a href="findnpc_new,school28,huntnpc_hhm_011" style="HLStype1">祆教大火師</a>
+hunterinfo_77294=擊敗<a href="findnpc_new,school28,huntnpc_hhm_012" style="HLStype1">安光明</a>
+interactinfo_77201=邀請<a href="findnpc,adv181,-266,150,-232" style="HLStype1">村民</a>，到廣場來
+interactinfo_77202=邀請<a href="findnpc,adv181,-252,151,-228" style="HLStype1">村民</a>，到廣場來
+interactinfo_77203=邀請<a href="findnpc,adv181,-285,150,-225" style="HLStype1">村民</a>，到廣場來
+interactinfo_77204=和<a href="findnpc,adv181,-251,144,-209" style="HLStype1">班凌</a>對話完成表演
+interactinfo_77205=<a href="findnpc,adv181,-254,144,-207" style="HLStype1">村長</a>似乎拿了碗吃的
+interactinfo_77206=將羊肉泡饃拿給<a href="findnpc,adv181,-251,144,-209" style="HLStype1">班凌</a>
+interactinfo_77207=前往<a href="findnpc_new,city05,Eventnpc_whz_dy_01" style="HLStype1">茶樓</a>觀賞舞蹈
+interactinfo_77209=此事頗有蹊蹺，前往<a href="findnpc_new,city05,Eventnpc_whz_dy_02" style="HLStype1">衙門</a>一探究竟
+interactinfo_77210=進入<a href="findnpc_new,city05,Eventnpc_whz_dy_03" style="HLStype1">衙門</a>
+interactinfo_77211=前往東城門的<a href="findnpc_new,city05,Eventnpc_whz_dy_04" style="HLStype1">茶水鋪</a>調查
+interactinfo_77212=前往<a href="findnpc_new,city05,Eventnpc_whz_dy_05" style="HLStype1">酒樓</a>調查
+interactinfo_77213=通過<a href="findnpc_new,city05,npc_wanghui_kyf_003" style="HLStype1">何辰</a>的考驗
+interactinfo_77214=幫助<a href="findnpc_new,school28,npc_whc_dy_32" style="HLStype1">第五魚</a>澆灌林地
+interactinfo_77215=林子的<a href="findnpc_new,school28,Eventnpc_whz_dy_19" style="HLStype1">另一邊</a>似乎有可疑的動靜
+interactinfo_77216=和<a href="findnpc_new,school28,npc_whc_dy_58" style="HLStype1">第五魚</a>追蹤馬匪
+interactinfo_77217=拾取馬匪的<a href="findnpc_new,school28,npc_whc_dy_48" style="HLStype1">包裹</a>
+interactinfo_77218=回到<a href="findnpc_new,school28,Eventnpc_whz_dy_07" style="HLStype1">望輝洲</a>，稟報此事
+interactinfo_77219=將包裹交給<a href="findnpc_new,school28,newmp_whz_002" style="HLStype1">蕭子安</a>(通過<a href="findnpc_new,school28,GotoDoorwhz_guj01" style="HLStype1">跳躍點</a>進入瀚海不系舟)
+interactinfo_77220=聽從<a href="findnpc_new,school28,newmp_whz_003" style="HLStype1">張退之</a>的安排
+interactinfo_77221=四處巡查，搜索<a href="findnpc_new,school28,Eventnpc_whz_dy_08" style="HLStype1">蛛絲馬跡</a>
+interactinfo_77222=四處巡查，搜索<a href="findnpc_new,school28,Eventnpc_whz_dy_09" style="HLStype1">蛛絲馬跡</a>
+interactinfo_77223=繼續巡查，追蹤<a href="findnpc_new,school28,Eventnpc_whz_dy_10" style="HLStype1">線索</a>
+interactinfo_77224=向<a href="findnpc_new,school28,npc_whc_dy_37" style="HLStype1">鄭佛陀</a>借茶磚一看
+interactinfo_77225=將茶磚還給<a href="findnpc_new,school28,npc_whc_dy_37" style="HLStype1">鄭佛陀</a>
+interactinfo_77226=前往<a href="findnpc_new,school28,Eventnpc_whz_dy_11" style="HLStype1">客棧</a>，搜尋線索
+interactinfo_77227=在客棧中搜尋<a href="findnpc_new,school28,Eventnpc_whz_dy_12" style="HLStype1">線索</a>
+interactinfo_77228=在客棧中搜尋<a href="findnpc_new,school28,Eventnpc_whz_dy_13" style="HLStype1">線索</a>
+interactinfo_77229=居然在此處遇到行蹤鬼祟的<a href="findnpc_new,school28,Eventnpc_whz_dy_16" style="HLStype1">孫開疆</a>，跟上他
+interactinfo_77230=繼續在城中<a href="findnpc_new,school28,Eventnpc_whz_dy_15" style="HLStype1">巡查</a>
+interactinfo_77231=居然在此處遇到行蹤鬼祟的<a href="findnpc_new,school28,Eventnpc_whz_dy_16" style="HLStype1">孫開疆</a>，跟上他
+interactinfo_77232=質問<a href="findnpc_new,school28,npc_whc_dy_51" style="HLStype1">孫開疆</a>，為何背叛望輝洲
+interactinfo_77233=將此事稟報<a href="findnpc_new,school28,Eventnpc_whz_dy_17" style="HLStype1">蕭子安</a>(通過<a href="findnpc_new,school28,GotoDoorwhz_guj01" style="HLStype1">跳躍點</a>進入瀚海不系舟)
+interactinfo_77234=追蹤<a href="findnpc_new,city05,Eventnpc_whz_dy_18" style="HLStype1">可疑人影</a>
+interactinfo_77235=尋找馬匪的<a href="findnpc_new,school28,Eventnpc_whz_dy_20" style="HLStype1">蹤跡</a>
+interactinfo_77236=繼續尋找馬匪的<a href="findnpc_new,school28,Eventnpc_whz_dy_21" style="HLStype1">蹤跡</a>
+interactinfo_77237=馬匪似乎就在<a href="findnpc_new,school28,Eventnpc_whz_dy_22" style="HLStype1">前方</a>
+interactinfo_77241=詢問<a href="findnpc_new,school28,nmpwhc_gsfhhm_010" style="HLStype1">宇文烈</a>考驗地點
+interactinfo_77255=前往<a href="findnpc_new,school28,Eventnpc_whc_003" style="HLStype1">金霞湖</a>
+interactinfo_77257=復原<a href="findnpc_new,school28,taskwch_hhm_004" style="HLStype1">鎮湖石碑</a>
+interactinfo_77258=復原<a href="findnpc_new,school28,taskwch_hhm_005" style="HLStype1">鎮湖石碑</a>
+interactinfo_77259=復原<a href="findnpc_new,school28,taskwch_hhm_006" style="HLStype1">鎮湖石碑</a>
+interactinfo_77261=與<a href="findnpc_new,school28,nmpwhc_hhm_006_new" style="HLStype1">第五魚</a>交談
+interactinfo_77262=詢問<a href="findnpc_new,school28,nmpwhc_hhm_007_new" style="HLStype1">任月皎</a>接下來該如何做
+interactinfo_77263=與<a href="findnpc_new,born04,nmpwhc_hhm_008" style="HLStype1">張退之</a>交談
+interactinfo_77264=詢問<a href="findnpc_new,school28,newmp_whz_004" style="HLStype1">劉伽羅</a>關於這次任務的信息(通過<a href="findnpc_new,school28,GotoDoorwhz_guj01" style="HLStype1">跳躍點</a>進入瀚海不系舟)
+interactinfo_77265=通過<a href="findnpc_new,school28,Eventnpc_whc_001" style="HLStype1">沙漠山谷</a>，前往刑天城求援
+interactinfo_77276=與<a href="findnpc_new,,nmpwhc_hhm_014" style="HLStype1">段釋劫</a>交談
+interactinfo_77281=前往<a href="findnpc_new,born04,Eventnpc_whc_002" style="HLStype1">Eventnpc_whc_002</a>
+interactinfo_77291=前往<a href="findnpc_new,school28,Eventnpc_whc_002" style="HLStype1">望輝殿</a>，求助任城主
+interactinfo_77292=速速返回<a href="findnpc_new,school28,Event_whz_hhm_001" style="HLStype1">戰場</a>禦敵
+interactinfo_77293=與<a href="findnpc_new,school28,nmpwhc_gsfhhm_010" style="HLStype1">宇文烈</a>交談
+interactinfo_77299=突然有<a href="findnpc_new,school28,nmpwhc_hhm_038" style="HLStype1">神秘人</a>現身
+okmenu_77201=<font face="Default" color="#ffffff" >我就是來邀請你們去廣場的，快去吧！</font>
+okmenu_77202=<font face="Default" color="#ffffff" >近日有貴客來看你們，快去廣場吧。</font>
+okmenu_77203=<font face="Default" color="#ffffff" >你去看看就知道啦！</font>
+okmenu_77205=<font face="Default" color="#ffffff" >好勒！</font>
+okmenu_77206=<font face="Default" color="#ffffff" >班凌前輩快嘗嘗！</font>
+okmenu_77208=<font face="Default" color="#ffffff" >此人瞳孔放大，氣息全</font><font face="Default" color="#ffffff" >無</font><font face="Default" color="#ffffff" >，已是不行了！</font>
+okmenu_77214=<font face="Default" color="#ffffff" >好！</font>
+okmenu_77216=<font face="Default" color="#ffffff" >弟子遵命！</font>
+okmenu_77217=<font face="Default" color="#ffffff" >拾取</font>
+okmenu_77219=<font face="Default" color="#ffffff" >蕭前輩請看！</font>
+okmenu_77220=<font face="Default" color="#ffffff" >弟子這就去巡查！</font>
+okmenu_77224=<font face="Default" color="#ffffff" >好！</font>
+okmenu_77225=<font face="Default" color="#ffffff" >我已經猜到了個大概。</font>
+okmenu_77232=<font face="Default" color="#ffffff" >為什麼要背叛望輝洲！？</font>
+okmenu_77241=<font face="Default" color="#ffffff" >宇文兄請便！在下即刻就到！</font>
+okmenu_77257=<font face="Default" color="#ffffff" >修復</font><font face="Default" color="#ffffff" >鎮湖石碑</font>
+okmenu_77258=<font face="Default" color="#ffffff" >修復</font><font face="Default" color="#ffffff" >鎮湖石碑</font>
+okmenu_77259=<font face="Default" color="#ffffff" >修復</font><font face="Default" color="#ffffff" >鎮湖石碑</font>
+okmenu_77261=<font face="Default" color="#ffffff" >但願如此！</font>
+okmenu_77262=<font face="Default" color="#ffffff" >任城主可是在說孫開疆？不如調些兵力抓了那廝，逼問消息！</font>
+okmenu_77263=<font face="Default" color="#ffffff" >我這便去。</font>
+okmenu_77264=<font face="Default" color="#ffffff" >弟子</font><font face="Default" color="#ffffff" >定不負所托！</font>
+okmenu_77276=
+okmenu_77293=<font face="Default" color="#ffffff" >相信他們定不會辜負宇文兄的信任。</font>
+okmenu_77299=<font face="Default" color="#ffffff" >哪裡跑！</font>
+story_77201_1=<font face="Default" color="#ffffff" >閣下器宇軒昂不愧是鎮守西</font><font face="Default" color="#ffffff" >北</font><font face="Default" color="#ffffff" >的將士！</font>
+story_77201_2=<font face="Default" color="#ffffff" >大將軍還是如此熱情！哈哈哈！事不宜遲，我們這便動身。</font>
+story_77202_1=<font face="Default" color="#ffffff" >望輝洲常年據守西域，在江湖中鮮有露面。你不曾耳聞情有可原。</font>
+story_77202_2=<font face="Default" color="#ffffff" >當年先輩們建立刑天城時並非一帆風順。食物短缺，傷員眾多。所幸有一隻來自西域的漢人隊伍提供食物、人力，</font><font face="Default" color="#ffffff" >和先輩們</font><font face="Default" color="#ffffff" >共同禦敵</font><font face="Default" color="#ffffff" >！</font><font face="Default" color="#ffffff" >才能順利建立起刑天城。他們便是望輝洲的門人！</font>
+story_77202_3=<font face="Default" color="#ffffff" >每年望輝洲都有弟子外出遊歷，你此次要做的便是協助他們</font><font face="Default" color="#ffffff" >順利完成</font><font face="Default" color="#ffffff" >在刑天城</font><font face="Default" color="#ffffff" >的</font><font face="Default" color="#ffffff" >遊歷。</font>
+story_77203_1=<font face="Default" color="#ffffff" >城外有一個村子，我等想去看望住在那裡的老兵。他們在戰場上拋頭顱灑熱血，只為守住漢人的西北大門。這份堅持與熱血</font><font face="Default" color="#ffffff" >，</font><font face="Default" color="#ffffff" >我等佩服！</font>
+story_77204_1=<font face="Default" color="#ffffff" >正是！</font>
+story_77204_2=<font face="Default" color="#ffffff" >將軍過獎了，閒暇之時可以切磋一二。</font>
+story_77205_1=<font face="Default" color="#ffffff" >喲，什麼風把將軍吹來了！今天甭管有啥事，都要留下來陪老朽喝幾杯！</font>
+story_77205_2=<font face="Default" color="#ffffff" >還有貴客會來我們這小破村子？</font>
+story_77205_3=<font face="Default" color="#ffffff" >當年幫助建立刑天城的那些人？他們不是深居西域？為何今日會來到我們這小破村子？在哪兒呢？快帶老朽見見，他們可是刑天城的恩人吶！</font>
+story_77206_1=<font face="Default" color="#ffffff" >老丈</font><font face="Default" color="#ffffff" >左手虎口和掌心手繭厚重，眼神凌厲。想必年輕時也是位陷陣的勇士！</font>
+story_77206_2=<font face="Default" color="#ffffff" >在西北這片兵荒馬亂的土地上能維持這麼一個村子實屬不易。若不是瓦剌狼子野心！哼！前輩，這便是刑天城治下的村子。他們很多是英烈之後，還有許多退伍的老兵。</font>
+story_77207_1=<font face="Default" color="#ffffff" >如此我們的表演就可以開始了。剛剛禦敵之時，我見你身姿飄逸，相當有舞蹈的天賦。你和我們共舞一曲吧？</font>
+story_77208_1=<font face="Default" color="#ffffff" >將軍，和望輝洲的同胞共舞的機會可不多。等</font><font face="Default" color="#ffffff" >回</font><font face="Default" color="#ffffff" >了營裡也可以和那幫</font><font face="Default" color="#ffffff" >將士吹噓一番。</font>
+story_77209_1=<font face="Default" color="#ffffff" >孺子可教！完全不像第一次跳舞的人。哈哈哈</font>
+story_77210_1=<font face="Default" color="#ffffff" >望輝洲的門人</font><font face="Default" color="#ffffff" >，</font><font face="Default" color="#ffffff" >大</font><font face="Default" color="#ffffff" >多</font><font face="Default" color="#ffffff" >是漢唐時西域都護府</font><font face="Default" color="#ffffff" >的</font><font face="Default" color="#ffffff" >中原移民之後，只因中原戰亂，無力統治西域</font><font face="Default" color="#ffffff" >。</font><font face="Default" color="#ffffff" >我們這些中原移民迫不得已到處遷移，艱難繁衍</font><font face="Default" color="#ffffff" >。</font><font face="Default" color="#ffffff" >孤懸外域至今已有一千多年，所以每每來到大明，再見到家鄉的食物，心中都難忍思鄉惆悵。將軍見笑了！</font>
+story_77211_1=<font face="Default" color="#ffffff" >我觀將軍頗有習舞的天賦，深合我望輝洲武學要義。不知將軍是否有意來我望輝洲遊歷。定能</font><font face="Default" color="#ffffff" >幫助將軍提升自己的武學修為！</font>
+story_77211_2=<font face="Default" color="#ffffff" >這是自然，若是下了決定。只需</font><font face="Default" color="#ffffff" >前往</font><font face="Default" color="#ffffff" >望輝洲</font><font face="Default" color="#ffffff" >找</font><font face="Default" color="#ffffff" >秦冠即可。</font>
+story_77212_1=<font face="Default" color="#ffffff" >這個班凌又來挖我的人！不過此事也好，刑天城將士自來就有遊歷望輝洲的習慣。你可安心前往！</font>
+story_77213_1=<font face="Default" color="#ffffff" >客官您是問對人了，近日城內來了一隊異域人士。常在茶樓附近表演歌舞，舞姿飄逸靈動！和咱們中原的舞蹈頗有不同！</font>
+story_77214_1=<font face="Default" color="#ffffff" >在下望輝洲，段靈靈。</font><font face="Default" color="#ffffff" >是</font><font face="Default" color="#ffffff" >這只隊伍的領隊。</font>
+story_77214_2=<font face="Default" color="#ffffff" >關於本門</font><font face="Default" color="#ffffff" >說來話長，日後定會向少俠詳細解釋。敢問老者如何了？</font>
+story_77214_3=<font face="Default" color="#ffffff" >如此短時間內便生此變故，恐是突發惡疾！</font><font face="Default" color="#ffffff" >猝死於此！</font>
+story_77215_1=<font face="Default" color="#ffffff" >猝死？！</font>
+story_77216_1=<font face="Default" color="#ffffff" >猝死？哼！本捕頭觀察這幫異域舞者已久。這老者分明是激動而死！與他們脫不了干係，有什麼話到衙門裡再說吧！</font>
+story_77217_1=<font face="Default" color="#ffffff" >少俠請放心。在下聽聞大明例律嚴明，司法公正。定不會為難我等。</font>
+story_77218_1=<font face="Default" color="#ffffff" >你...你...你是何人？！</font>
+story_77218_2=<font face="Default" color="#ffffff" >哦？！此事還有另有隱情？咳...你雖是好意，可公堂之上豈容爾等放肆！下不為例！</font>
+story_77218_3=<font face="Default" color="#ffffff" >此事有何</font><font face="Default" color="#ffffff" >隱情，你從實道來！</font>
+story_77218_4=<font face="Default" color="#ffffff" >沈傑竟如此魯莽！他平日不是這樣的性子。既然如此你便協助沈傑徹查此案！</font>
+story_77219_1=<font face="Default" color="#ffffff" >如此有勞少俠了！</font><font face="Default" color="#ffffff" >此事頗有蹊蹺，少俠還請小心。</font>
+story_77220_1=<font face="Default" color="#ffffff" >胡老頭，東城門一個賣茶的。</font>
+story_77221_1=<font face="Default" color="#ffffff" >胡九三？有幾天沒出來賣茶了，你要是認識他就讓他快點出來賣茶</font><font face="Default" color="#ffffff" >。</font><font face="Default" color="#ffffff" >不</font><font face="Default" color="#ffffff" >就一個</font><font face="Default" color="#ffffff" >火耗之症嘛</font><font face="Default" color="#ffffff" >，</font><font face="Default" color="#ffffff" >死不了人。</font>
+story_77222_1=<font face="Default" color="#ffffff" >你是何人？不認識！</font>
+story_77223_1=<font face="Default" color="#ffffff" >老胡頭啊，他的火耗之症還沒好？我給他開的藥方，按時服用的話，這幾日便該痊癒了。</font>
+story_77223_2=<font face="Default" color="#ffffff" >火耗之症並不是什麼疑難雜症，平日裡忌辛辣酒水即可。不過老胡頭日子過的</font><font face="Default" color="#ffffff" >清貧</font><font face="Default" color="#ffffff" >，倒是不必擔心這般。</font>
+story_77224_1=<font face="Default" color="#ffffff" >體表並無外傷，也無中毒跡象。袖口處還留有未干的酒水和油脂，死前應該</font><font face="Default" color="#ffffff" >飽餐</font><font face="Default" color="#ffffff" >了一頓。</font>
+story_77224_2=<font face="Default" color="#ffffff" >既然如此，你去酒樓調查便是！</font>
+story_77225_1=<font face="Default" color="#ffffff" >天狼令牌！你從何處得到此物？！</font>
+story_77225_2=<font face="Default" color="#ffffff" >難怪近日沈傑如此反常！這天狼令牌更是瓦剌密探的信物，沒想到他們已深入公門！我定要徹查成都各大府衙，將他們都揪出來！</font>
+story_77225_3=<font face="Default" color="#ffffff" >既然已查明真相，望輝洲一行人也可無罪釋放了。</font>
+story_77227_1=<font face="Default" color="#ffffff" >哈哈哈，少俠機敏過人，短短幾個時辰便破了瓦剌的詭計！</font>
+story_77227_2=<font face="Default" color="#ffffff" >我望輝洲身處西域大漠中的一處綠洲，在中原少有露面。城中各族人士，或往來貿易或深居於此，好不熱鬧！更有海市蜃樓，沙漠綠洲！少俠一身俠氣，有興趣前往望輝洲否？</font>
+story_77227_3=<font face="Default" color="#ffffff" >如此甚好！少俠只需前往</font>
+story_77228_1=<font face="Default" color="#ffffff" >表演一段舞蹈，若果能讓我滿意。便可以加入望輝洲！</font>
+story_77229_1=<font face="Default" color="#ffffff" >門中天賦卓絕的弟子本應由我親自教導。不過，近日為師觀大漠龍卷後對武學頗有感悟！需要閉關一段時間！</font><font face="Default" color="#ffffff" >為師閉關後，門中大小事務皆由子安負責。你近日便去他身邊，聆聽他的教誨。</font>
+story_77230_1=<font face="Default" color="#ffffff" >望輝</font><font face="Default" color="#ffffff" >洲</font><font face="Default" color="#ffffff" >能有你這樣的後起之秀加入真乃幸事！你初來乍到是否已經瞭解望輝城的過往？</font>
+story_77230_2=<font face="Default" color="#ffffff" >你若是瞭解</font><font face="Default" color="#ffffff" >了</font><font face="Default" color="#ffffff" >望輝洲的過往便不會如此驚訝了。</font>
+story_77230_3=<font face="Default" color="#ffffff" >望輝洲乃是西漢時西域都護府的遺民</font><font face="Default" color="#ffffff" >們</font><font face="Default" color="#ffffff" >歷經艱難才成功建立，隨後千年來不斷吸納從中原而來躲避戰亂的難民</font><font face="Default" color="#ffffff" >以及</font><font face="Default" color="#ffffff" >西域當地的亡國胡人，甚至還有唐代安西四鎮的殘留軍民。</font>
+story_77230_4=<font face="Default" color="#ffffff" >歷代城主深知望輝洲地處異域，時刻有傾覆之危，無不謹慎行事，維繫多方勢力的關係平衡。憑借舞武合一的獨特武學樹立下俠義美名，保護住西域漢人僅存的城市據點，並且堅持傳承漢文化，也積極吸收外族文化。城中子民大多崇信佛教，建造出許多佛像壁畫，居民服裝也具有民族融合的風格特點。</font>
+story_77230_5=<font face="Default" color="#ffffff" >哈哈哈，你倒是很會拍馬屁！此刻已是門中弟子習武之時，你去找班凌修習武學吧。謹記，武道修行如逆水行舟，不進則退！</font>
+story_77231_1=<font face="Default" color="#ffffff" >你便是新入門的弟子吧！在教你武學前，先讓我試試你的實力！</font>
+story_77232_1=<font face="Default" color="#ffffff" >你來的正好，這片</font><font face="Default" color="#ffffff" >林地</font><font face="Default" color="#ffffff" >急需澆灌。我們</font><font face="Default" color="#ffffff" >即刻</font><font face="Default" color="#ffffff" >開始吧！</font>
+story_77233_1=<font face="Default" color="#ffffff" >你行色匆匆，發生了何事？</font>
+story_77233_2=<font face="Default" color="#ffffff" >什麼！此刻門中大小事務皆由子安負責，你速速去稟報此事！</font>
+story_77234_1=<font face="Default" color="#ffffff" >最近城中恐有大事發生！我們還需提前做好應對！</font><font face="Default" color="#ffffff" >你問問退之有什麼看法。</font>
+story_77235_1=<font face="Default" color="#ffffff" >說說與馬匪戰鬥的詳情。</font>
+story_77235_2=<font face="Default" color="#ffffff" >祆教已沉寂了許久，終於</font><font face="Default" color="#ffffff" >按捺</font><font face="Default" color="#ffffff" >不住了嗎！哼，我倒要看看他們這次要耍什麼手段！</font>
+story_77236_1=<font face="Default" color="#ffffff" >的確是望輝令，既然如此我們便分頭巡查吧。</font>
+story_77237_1=<font face="Default" color="#ffffff" >這個</font><font face="Default" color="#ffffff" >胡</font><font face="Default" color="#ffffff" >商年前定的茶，我千里迢迢運來望輝洲！他...他竟然說我缺斤少兩！我不僅沒有缺斤少兩，我稱茶之時</font><font face="Default" color="#ffffff" >還</font><font face="Default" color="#ffffff" >特意多稱了一兩！這鄭佛陀居...居然還偏袒這個胡商！大...大人明鑒啊！</font>
+story_77238_1=<font face="Default" color="#ffffff" >這個奸商！我明明預定的</font><font face="Default" color="#ffffff" >茶磚是每塊</font><font face="Default" color="#ffffff" >一斤</font><font face="Default" color="#ffffff" >重</font><font face="Default" color="#ffffff" >，結果他給我的茶磚</font><font face="Default" color="#ffffff" >每一塊都</font><font face="Default" color="#ffffff" >不足一斤！還好有鄭佛陀出來主持公道！</font>
+story_77239_1=<font face="Default" color="#ffffff" >據這漢商所言，此茶是他從陝西運來，走過絲路直達望輝洲。他還發誓稱，出發時茶磚是一斤一兩！</font><font face="Default" color="#ffffff" >我取了茶磚來稱，的確不足一斤！</font>
+story_77240_1=<font face="Default" color="#ffffff" >竟如此短時間裡便想清楚了緣由，鄭某佩服！</font>
+story_77241_1=<font face="Default" color="#ffffff" >所言何意？</font>
+story_77241_2=<font face="Default" color="#ffffff" >原來如此，最近確有幾</font><font face="Default" color="#ffffff" >支</font><font face="Default" color="#ffffff" >形跡可疑的商隊入住客棧。</font>
+story_77241_3=<font face="Default" color="#ffffff" >哼！不過是我望輝洲的一廂情願罷了！</font>
+story_77242_1=<font face="Default" color="#ffffff" >祆教教眾聯合大批馬匪已在望輝洲百里外的商道駐紮，很可能將要進犯望輝洲。</font>
+story_77242_2=<font face="Default" color="#ffffff" >孫開疆身為望輝洲首批先民的孫家後人，竟然選擇背叛！事已至此，你速速將情報稟告蕭子安！我去</font><font face="Default" color="#ffffff" >追蹤孫開疆</font><font face="Default" color="#ffffff" >！</font>
+story_77243_1=<font face="Default" color="#ffffff" >孫開疆竟然背棄孫家先祖的榮譽，選擇背叛望輝洲！光明使者？哼！</font>
+story_77243_2=<font face="Default" color="#ffffff" >祆教想要對付望輝洲，不過是癡心妄想！至於光明使者，我略有猜測。此刻你要做的</font><font face="Default" color="#ffffff" >便</font><font face="Default" color="#ffffff" >是繼續巡查，加強城內護衛。然後尋找第五魚，看看追蹤是否有了結果。</font>
+story_77244_1=<font face="Default" color="#ffffff" >孺子可教！新入門的弟子</font><font face="Default" color="#ffffff" >能有你這份實力的著實少見！</font>
+story_77244_2=<font face="Default" color="#ffffff" >以後若是遇到武學修行的問題，隨時可以來找我！你剛剛入門，修行不急於一時。還要瞭解門中諸多事務，此時第五魚在胡楊林附近澆灌林地，你去給</font><font face="Default" color="#ffffff" >她</font><font face="Default" color="#ffffff" >幫幫忙。</font>
+story_77245_1=<font face="Default" color="#ffffff" >此事說來話長。當年望輝洲的第一批先民因為西域都護府的崩潰，不得不離開故居，尋找新的安身立命之地。但卻因躲避戰火，不得不深入茫茫沙漠，許多人在途中渴死曬死，直到再也難以前進。</font>
+story_77245_2=<font face="Default" color="#ffffff" >絕望之時，望輝洲的先民跪地嚎哭乞求上天給予他們一條活路。也許真是上天有靈，沙漠中突然刮起漫天風沙，先民們竟然見到風沙中有只閃爍綠光的青羊在踱步趕路，心知有異，拚命追趕。等到風沙散去，那只青羊已不見蹤影，但先民們卻發現他們來到了一片水土豐足的綠洲，所有人都沸騰狂喜，堅信青羊是上天派來指路的使者，因此給綠洲取名為青羊綠洲。</font>
+story_77245_3=<font face="Default" color="#ffffff" >林子那邊好像有奇怪的動靜傳來，我們去看看。</font>
+story_77246_1=<font face="Default" color="#ffffff" >我會將客棧周圍的守衛調離，你小心行事，切勿打草驚蛇。</font>
+story_77246_2=<font face="Default" color="#ffffff" >你進入望輝洲已有些時日，</font><font face="Default" color="#ffffff" >對城中的交易制度怎麼看？</font>
+story_77246_3=<font face="Default" color="#ffffff" >哼！不過是我望輝洲的一廂情願罷了！</font>
+story_77251_1=<font face="Default" color="#ffffff" >其實我早已發現安光明，段釋劫等人勾結</font><font face="Default" color="#ffffff" >襖教企圖奪取望輝洲</font><font face="Default" color="#ffffff" >。但城主閉關許久，《飛天策》即將修煉至天人之境。</font>
+story_77251_2=<font face="Default" color="#ffffff" >一旦城主修煉《飛天策》至天人之境，就將斷情絕性離開望輝洲。我暗中推波助瀾，正是想利用</font><font face="Default" color="#ffffff" >他們</font><font face="Default" color="#ffffff" >，迫使城主出關，重掌望輝洲。</font>
+story_77251_3=<font face="Default" color="#ffffff" >當初馬匪襲燒胡楊林，正是我假借安光明身份下達的命令。借此破壞他與段釋劫裡應外合的計劃，將損失降到最低，然後將</font><font face="Default" color="#ffffff" >他們</font><font face="Default" color="#ffffff" >一舉消滅。沒想到退之竟會讓你引出安光明，我為了計劃得以繼續，只能親自救走他。</font>
+story_77252_1=<font face="Default" color="#ffffff" >我早已洞悉了子安的計劃，只是《飛天策》已快修練至天人之境，需放下望輝洲一切瑣事。望輝洲也</font><font face="Default" color="#ffffff" >可</font><font face="Default" color="#ffffff" >借此機會除掉段釋劫等心懷不軌之人，為這片綠洲創造一個內外安泰無憂的處境。至於子安，他所做並非只是想讓我繼續但任城主。</font>
+story_77253_1=<font face="Default" color="#ffffff" >望輝洲眾人皆知子安苦戀城主已久，只怕他更擔心的城主功法大成後斷情絕性，對他的癡情不再有一絲眷顧。</font>
+story_77254_1=<font face="Default" color="#ffffff" >我先前為了救走安光明，忽視了段釋劫的後手。此乃我之過。現下金霞湖水眼被炸，整個</font><font face="Default" color="#ffffff" >青羊</font><font face="Default" color="#ffffff" >綠洲都有覆滅的風險！我必須去修復鎮湖石碑，疏通水眼！</font>
+story_77255_1=<font face="Default" color="#ffffff" >辛勞</font><font face="Default" color="#ffffff" >你</font><font face="Default" color="#ffffff" >跑這一趟，我這便去！</font>
+story_77256_1=<font face="Default" color="#ffffff" >辛勞</font><font face="Default" color="#ffffff" >你</font><font face="Default" color="#ffffff" >跑這一趟，我這便出發！</font>
+story_77257_1=<font face="Default" color="#ffffff" >方纔我們二人已在密室中確認，末任西域大都護留下的玉珮和宇文兄弟所持家傳玉珮正是一對！</font>
+story_77257_2=<font face="Default" color="#ffffff" >大都護曾交代，一定要竭盡全力保住鍛神宗衣缽，讓《罡神斧》重現輝煌。然而，宇文兄弟先祖擔心一旦此絕學重見天日，恐又再遭四方搶奪。今日叫各位前來，便是商議此事。</font>
+story_77258_1=<font face="Default" color="#ffffff" >可是敝宗也正因《</font><font face="Default" color="#ffffff" >罡神斧</font><font face="Default" color="#ffffff" >》</font><font face="Default" color="#ffffff" >招來滅門大禍，險些斷了傳承。我怎可再冒風險，做違背先祖之意的事。</font>
+story_77258_2=<font face="Default" color="#ffffff" >江山社稷雖穩</font><font face="Default" color="#ffffff" >不假</font><font face="Default" color="#ffffff" >，但</font><font face="Default" color="#ffffff" >武林</font><font face="Default" color="#ffffff" >暗潮湧動，西域</font><font face="Default" color="#ffffff" >一帶</font><font face="Default" color="#ffffff" >更頻頻受到異族侵擾，若</font><font face="Default" color="#ffffff" >此時</font><font face="Default" color="#ffffff" >大範圍傳授</font><font face="Default" color="#ffffff" >《罡神斧》</font><font face="Default" color="#ffffff" >，恐</font><font face="Default" color="#ffffff" >後患無窮。</font>
+story_77258_3=<font face="Default" color="#ffffff" >此法</font><font face="Default" color="#ffffff" >確比我一人保管來的安全</font><font face="Default" color="#ffffff" >，</font><font face="Default" color="#ffffff" >但諸位需推舉一位首席弟</font><font face="Default" color="#ffffff" >子</font><font face="Default" color="#ffffff" >接受我的考驗。</font>
+story_77259_1=<font face="Default" color="#ffffff" >宇文兄擔憂傳承斷絕之意我萬分理解，你</font><font face="Default" color="#ffffff" >的</font><font face="Default" color="#ffffff" >提議深得我心！而這望輝洲首席弟子，自然只有你可勝任了！</font>
+story_77260_1=<font face="Default" color="#ffffff" >無妨。</font><font face="Default" color="#ffffff" >你</font><font face="Default" color="#ffffff" >可知道，這次祆教聯合馬匪進犯望輝洲失利，潛伏已久的光明使者身死，祆教高層震怒，除了派遣新任光明使者前來之外，又另派出了一位事火祭司和一位護教法王。新任光明使者行蹤不明，似乎長期在外，我也無法找到。</font>
+story_77260_2=<font face="Default" color="#ffffff" >正是！我對你考驗的內容，就是與我闖入此據點內，殺掉此二人。他們教階極高，僅次於教主、大祭司和光明使者，除掉他們必定會給祆教勢力造成重創。但此二人實力無比強橫，你可準備好了？</font>
+story_77261_1=<font face="Default" color="#ffffff" >真是可惡，沒有追上孫開疆，讓他跑掉了！現如今祆教教眾聯合馬匪在城外虎視眈眈，我們要做好苦戰的</font><font face="Default" color="#ffffff" >打算</font><font face="Default" color="#ffffff" >。</font>
+story_77261_2=<font face="Default" color="#ffffff" >你且放心，退之機智縝密，思慮周全，有他在，定不會讓賊人</font><font face="Default" color="#ffffff" >如願</font><font face="Default" color="#ffffff" >！</font>
+story_77262_1=<font face="Default" color="#ffffff" >我已清楚此事脈絡。只道是人心太癡，何苦如此。</font>
+story_77262_2=<font face="Default" color="#ffffff" >且慢！</font><font face="Default" color="#ffffff" >退之</font><font face="Default" color="#ffffff" >已經有了計劃，你先去尋他。</font>
+story_77263_1=<font face="Default" color="#ffffff" >我正要尋你。我早已發現城中有反叛勢力，現下需你偽裝成他們的求援使者，引出敵人。但此行兇險萬分，</font><font face="Default" color="#ffffff" >必會遭到敵人的重點圍殺</font><font face="Default" color="#ffffff" >。你，是否願意？</font>
+story_77263_2=<font face="Default" color="#ffffff" >如此，你即刻動身去找伽羅</font><font face="Default" color="#ffffff" >，</font><font face="Default" color="#ffffff" >她會</font><font face="Default" color="#ffffff" >安排後續的計劃</font><font face="Default" color="#ffffff" >。</font><font face="Default" color="#ffffff" >切記！莫要逞強！</font>
+story_77266_1=<font face="Default" color="#ffffff" >你且瞪大雙眼仔細看看，我是何人！</font>
+story_77267_1=<font face="Default" color="#ffffff" >你懂什麼</font><font face="Default" color="#ffffff" >！我本為昭武九姓的粟特後裔，這麼多年來，我粟特安家一直屈居於任家、蕭家等漢人家族之下。祆教許我光明使者之位，承諾必將</font><font face="Default" color="#ffffff" >助</font><font face="Default" color="#ffffff" >我安家成就輝煌，我又何必繼續寄人籬下！</font>
+story_77267_2=<font face="Default" color="#ffffff" >還有什麼話</font><font face="Default" color="#ffffff" >，</font><font face="Default" color="#ffffff" >留著</font><font face="Default" color="#ffffff" >到</font><font face="Default" color="#ffffff" >下面和蕭子安他們見面再說吧。</font>
+story_77272_1=<font face="Default" color="#ffffff" >不必驚慌。粟特一族自古便信奉祆教，因此我一直以來都在觀察安光明。</font><font face="Default" color="#ffffff" >若無襖教進犯之事，或許大家還能相安無事。</font>
+story_77272_2=<font face="Default" color="#ffffff" >在你巡查望輝洲期間，我發現竟然有人暗中幫助安光明，掩蓋與襖教勾結的證據。我</font><font face="Default" color="#ffffff" >讓</font><font face="Default" color="#ffffff" >你偽裝求援，就是為了引出此人！但實在放心不下你一人前往，便一直隱匿行跡遠遠跟著你。</font>
+story_77272_3=<font face="Default" color="#ffffff" >我懷疑此人</font><font face="Default" color="#ffffff" >在</font><font face="Default" color="#ffffff" >望輝洲的</font><font face="Default" color="#ffffff" >地位</font><font face="Default" color="#ffffff" >比我更高，如此才能與安光明達成合作並掩蓋痕跡。但此人武功高強，我一時間竟也沒能攔住他。</font>
+story_77275_1=<font face="Default" color="#ffffff" >你且說來聽聽。</font>
+story_77275_2=<font face="Default" color="#ffffff" >此時不能放過一絲線索</font><font face="Default" color="#ffffff" >。敵人已經包圍了望輝洲，</font><font face="Default" color="#ffffff" >擒賊先擒王</font><font face="Default" color="#ffffff" >，我們速速回城！</font>
+story_77276_1=<font face="Default" color="#ffffff" >襖教蓄勢已久，短時間難分勝負！</font><font face="Default" color="#ffffff" >安光明呢，怎麼一直不見他的蹤影？</font>
+story_77276_2=<font face="Default" color="#ffffff" >好一個安光明！</font><font face="Default" color="#ffffff" >等退敵之後，我定要找他問個明白！</font><font face="Default" color="#ffffff" >此刻不容閒聊，專注討敵才是！</font>
+story_77277_1=<font face="Default" color="#ffffff" >如此看來，他並非幕後黑手。</font>
+story_77277_2=<font face="Default" color="#ffffff" >敵人已經衝進城！眼下我等可以做的便是共拒強敵，守衛望輝洲！</font>
+story_77278_1=<font face="Default" color="#ffffff" >此戰關乎望輝洲存亡，請少俠與我等共拒強敵，守衛望輝！</font>
+story_77280_1=<font face="Default" color="#ffffff" >你與第五魚速去望輝殿求任城主出手！現在只有她能救望輝洲！</font>
+story_77281_1=<font face="Default" color="#ffffff" >如此看來，</font><font face="Default" color="#ffffff" >你方才</font><font face="Default" color="#ffffff" >所說是最好的辦法了。至於考驗一事，前些時日</font><font face="Default" color="#ffffff" >你</font><font face="Default" color="#ffffff" >助我望輝洲抵禦外敵，功不可沒，如今又尋到了鍛神宗傳人，這首席弟子你當之無愧！</font>
+story_77282_1=<font face="Default" color="#ffffff" >你</font><font face="Default" color="#ffffff" >機智過人，所提真是個兩全其美的好方法。而這首席弟子，</font><font face="Default" color="#ffffff" >你</font><font face="Default" color="#ffffff" >可莫要推辭，伽羅看來這首席弟子也是非你莫屬的，這考驗的重擔，就煩請</font><font face="Default" color="#ffffff" >你</font><font face="Default" color="#ffffff" >接下了！</font>
+story_77283_1=<font face="Default" color="#ffffff" >子安</font><font face="Default" color="#ffffff" >一直以來就代替我管理城內大小事宜，望輝子民早已對他愛戴尊崇</font><font face="Default" color="#ffffff" >。</font><font face="Default" color="#ffffff" >與他比起來，我不過是個掛名的城主而已，他不可替代</font><font face="Default" color="#ffffff" >。</font>
+story_77283_2=<font face="Default" color="#ffffff" >雖然他參與了此次叛亂，可</font><font face="Default" color="#ffffff" >初衷並非覆滅望輝洲</font><font face="Default" color="#ffffff" >。此刻城中還無人比他更適合治理望輝洲。如今我已突破天人之境，再無甚念想，只剩一縷對此城的眷念。餘生我都不會離開望輝殿，若望輝洲有難，我會出手相助。</font>
+story_77284_1=<font face="Default" color="#ffffff" >月皎《飛天策》天人之境已成。只願他生莫作</font><font face="Default" color="#ffffff" >有情癡</font><font face="Default" color="#ffffff" >，</font><font face="Default" color="#ffffff" >這</font><font face="Default" color="#ffffff" >人間無地著相思。我會將餘生獻與望輝洲，以彌補鑄下的大錯。</font>
+story_77284_2=<font face="Default" color="#ffffff" >伽羅……望輝洲此劫多虧了你。此城地處異域，環境險惡，只有堅持公正處事，團結對外，方能保這一方天地。萬望你能恪守城規，繼續與我等一起守護好望輝城，守護這</font><font face="Default" color="#ffffff" >片</font><font face="Default" color="#ffffff" >大好綠洲。</font>
+story_77285_1=<font face="Default" color="#ffffff" >也是也是，</font><font face="Default" color="#ffffff" >你</font><font face="Default" color="#ffffff" >才來我們望輝洲不久，不瞭解也正常。是這樣的，望輝洲自建立以來，便有個傳言一直流傳至今，已經差不多有上千年了！這傳言便是我剛才給你講的這個神秘人，最讓人不寒而慄的是，這人似乎已經活了上千年了……</font>
+story_77285_2=<font face="Default" color="#ffffff" >正是啊！而且聽說這次殺的可凶，莫名出現的馬匪和祆教之人的屍體加起來都已經有一百多具了！</font>
+story_77285_3=<font face="Default" color="#ffffff" >你</font><font face="Default" color="#ffffff" >若是對此事感興趣，不如去找蕭歌丞吧！蕭大人對此事似乎頗為上心，還叮囑過我們如果發現了神秘人的蹤跡要及時上報。</font>
+story_77286_1=<font face="Default" color="#ffffff" >我正想送信給</font><font face="Default" color="#ffffff" >你</font><font face="Default" color="#ffffff" >幫忙調查此事呢！既然</font><font face="Default" color="#ffffff" >你</font><font face="Default" color="#ffffff" >來了，我先給你講講這事的來龍去脈</font>
+story_77286_2=<font face="Default" color="#ffffff" >近日出現的這名神秘人，每隔一段時間便會在望輝洲一帶現身，至今已有千餘年了，想必這些東西你早已從外面流言聽來了吧！</font>
+story_77286_3=<font face="Default" color="#ffffff" >這人所使用的武學功法，和千年前的一個門派似乎有些相像！</font>
+story_77286_4=<font face="Default" color="#ffffff" >正是西漢之時！此門派叫鍛神宗，立於西漢末年，與西域都護府交好，開宗祖師</font><font face="Default" color="#ffffff" >曾</font><font face="Default" color="#ffffff" >自創一套攻守兼備</font><font face="Default" color="#ffffff" >、</font><font face="Default" color="#ffffff" >強橫無匹的武學，名罡神斧</font><font face="Default" color="#ffffff" >。</font><font face="Default" color="#ffffff" >作為其門派至高功法，</font><font face="Default" color="#ffffff" >此技</font><font face="Default" color="#ffffff" >秘不外傳。</font><font face="Default" color="#ffffff" >而後，</font><font face="Default" color="#ffffff" >鍛神宗與西域都護府共禦外敵，守護中原多年，戰功赫赫。</font>
+story_77286_5=<font face="Default" color="#ffffff" >是啊</font><font face="Default" color="#ffffff" >，西漢滅亡後，鍛神宗</font><font face="Default" color="#ffffff" >一來</font><font face="Default" color="#ffffff" >失去朝廷庇佑和西域都護府同袍相助，</font><font face="Default" color="#ffffff" >二來</font><font face="Default" color="#ffffff" >早與異域各族交惡多年，再加上中原武林覬覦</font><font face="Default" color="#ffffff" >《</font><font face="Default" color="#ffffff" >罡神斧</font><font face="Default" color="#ffffff" >》</font><font face="Default" color="#ffffff" >已久，</font><font face="Default" color="#ffffff" >皆是</font><font face="Default" color="#ffffff" >坐山觀虎鬥</font><font face="Default" color="#ffffff" >，</font><font face="Default" color="#ffffff" >等收漁利</font><font face="Default" color="#ffffff" >之輩……可歎如此名門，最終落得個被諸方</font><font face="Default" color="#ffffff" >勢力</font><font face="Default" color="#ffffff" >蠶食的下場</font><font face="Default" color="#ffffff" >。</font>
+story_77286_6=<font face="Default" color="#ffffff" >亂局之下，</font><font face="Default" color="#ffffff" >那</font><font face="Default" color="#ffffff" >《罡神斧》</font><font face="Default" color="#ffffff" >絕學</font><font face="Default" color="#ffffff" >也隨著鍛神宗</font><font face="Default" color="#ffffff" >的覆滅而失傳了。</font>
+story_77286_7=<font face="Default" color="#ffffff" >昔年，</font><font face="Default" color="#ffffff" >最後一任大都護李崇曾留下信物</font><font face="Default" color="#ffffff" >，若有一日，</font><font face="Default" color="#ffffff" >鍛神宗遺後</font><font face="Default" color="#ffffff" >再現於世</font><font face="Default" color="#ffffff" >，便出示此信物，以證明西域都護府和鍛神宗的淵源。</font><font face="Default" color="#ffffff" >如今，</font><font face="Default" color="#ffffff" >我懷疑</font><font face="Default" color="#ffffff" >那</font><font face="Default" color="#ffffff" >神秘</font><font face="Default" color="#ffffff" >人便</font><font face="Default" color="#ffffff" >是千餘年前鍛神宗的後</font><font face="Default" color="#ffffff" >人</font><font face="Default" color="#ffffff" >！</font>
+story_77286_8=<font face="Default" color="#ffffff" >只是此信物萬不可離開望輝殿，還請</font><font face="Default" color="#ffffff" >你</font><font face="Default" color="#ffffff" >辛苦一趟，去沙漠山谷附近找尋一下此人，若是他真與鍛神宗有些聯繫，請務必邀他來望輝殿一敘！</font>
+story_77288_1=<font face="Default" color="#ffffff" >如此真是天大喜事！我</font><font face="Default" color="#ffffff" >現在便</font><font face="Default" color="#ffffff" >與宇文少俠同去密室核對信物</font><font face="Default" color="#ffffff" >，</font><font face="Default" color="#ffffff" >煩請將張退之和劉伽羅叫來望輝殿，言明有要事相商。</font>
+story_77289_1=<font face="Default" color="#ffffff" >原來你是望輝洲之人，剛才多有得罪。這些賊人無惡不作，死不足惜，正是我送他們上路的！</font>
+story_77289_10=<font face="Default" color="#ffffff" >當年宗主除了將</font><font face="Default" color="#ffffff" >《</font><font face="Default" color="#ffffff" >罡神斧</font><font face="Default" color="#ffffff" >》</font><font face="Default" color="#ffffff" >原本交予，還留下了一枚玉珮，告訴我家先祖</font><font face="Default" color="#ffffff" >，</font><font face="Default" color="#ffffff" >除非遇到手持另一枚成對玉珮</font><font face="Default" color="#ffffff" >者</font><font face="Default" color="#ffffff" >，否則斷不可將</font><font face="Default" color="#ffffff" >此示</font><font face="Default" color="#ffffff" >與外人，只可一脈單承。</font>
+story_77289_11=<font face="Default" color="#ffffff" >哈哈哈，少俠真是會說笑！我家先祖為保傳承不失，立下家訓，一代人中只有一人可修習《罡神斧》，若無極端情況，絕不可顯露一招半式。但如逢西域都護府後人有難，務必傾力相助。這望輝洲乃是府</font><font face="Default" color="#ffffff" >中</font><font face="Default" color="#ffffff" >遺民所建，</font><font face="Default" color="#ffffff" >因而</font><font face="Default" color="#ffffff" >每當有外敵侵擾之時，我家歷代傳人都會現身暗助。</font>
+story_77289_12=<font face="Default" color="#ffffff" >好，你我這就前去望輝殿！</font>
+story_77289_2=<font face="Default" color="#ffffff" >皆是我殺！</font>
+story_77289_3=<font face="Default" color="#ffffff" >你竟然知道鍛神宗！</font>
+story_77289_4=<font face="Default" color="#ffffff" >你既是望輝洲弟子，又奉天象歌丞之命來</font><font face="Default" color="#ffffff" >尋</font><font face="Default" color="#ffffff" >我，想來也</font><font face="Default" color="#ffffff" >無差錯</font><font face="Default" color="#ffffff" >。我且與你說說</font><font face="Default" color="#ffffff" >罷</font><font face="Default" color="#ffffff" >。</font>
+story_77289_5=<font face="Default" color="#ffffff" >在下宇文烈，正是鍛神宗《罡神斧》的現世傳人。當年，中原武林不僅沒有出手助敝宗抵禦早已虎視眈眈的異域各族，反而趁虛而入，意圖奪取至高武學，所謂江湖規矩和民族大義早已拋卻腦後！</font>
+story_77289_6=<font face="Default" color="#ffffff" >敝宗孤軍奮戰，很快就在多方勢力傾軋下覆滅。</font><font face="Default" color="#ffffff" >世人只道</font><font face="Default" color="#ffffff" >那場紛亂過後，</font><font face="Default" color="#ffffff" >《</font><font face="Default" color="#ffffff" >罡神斧</font><font face="Default" color="#ffffff" >》</font><font face="Default" color="#ffffff" >從此銷聲匿跡</font><font face="Default" color="#ffffff" >，</font><font face="Default" color="#ffffff" >但</font><font face="Default" color="#ffffff" >卻不知</font><font face="Default" color="#ffffff" >，</font><font face="Default" color="#ffffff" >它實際從未</font><font face="Default" color="#ffffff" >落入他人之手。</font>
+story_77289_7=<font face="Default" color="#ffffff" >敝</font><font face="Default" color="#ffffff" >宗</font><font face="Default" color="#ffffff" >祖師</font><font face="Default" color="#ffffff" >在立</font><font face="Default" color="#ffffff" >派</font><font face="Default" color="#ffffff" >之初就已料到會有</font><font face="Default" color="#ffffff" >此</font><font face="Default" color="#ffffff" >一天。因</font><font face="Default" color="#ffffff" >而</font><font face="Default" color="#ffffff" >，在局勢漸有傾頹之勢時，</font><font face="Default" color="#ffffff" >就</font><font face="Default" color="#ffffff" >將</font><font face="Default" color="#ffffff" >《</font><font face="Default" color="#ffffff" >罡神斧</font><font face="Default" color="#ffffff" >》</font><font face="Default" color="#ffffff" >原本</font><font face="Default" color="#ffffff" >交予本門</font><font face="Default" color="#ffffff" >一名</font><font face="Default" color="#ffffff" >實力不俗</font><font face="Default" color="#ffffff" >，但</font><font face="Default" color="#ffffff" >甚少</font><font face="Default" color="#ffffff" >拋頭露面的</font><font face="Default" color="#ffffff" >高手</font><font face="Default" color="#ffffff" >。</font>
+story_77289_8=<font face="Default" color="#ffffff" >不僅如此，所有拓本都在收到末任大都護李崇戰死的消息之後付之一炬。在那之後，焉耆、匈奴聯合進犯，宗主與絕大部分弟子戰死沙場，而那名神秘的高手則帶著《罡神斧》原本避居附近的袖珍小國。</font><font face="Default" color="#ffffff" >那人名喚宇文英，正是在下先祖。</font>
+story_77289_9=<font face="Default" color="#ffffff" >少俠過譽了。</font>
+story_77290_1=<font face="Default" color="#ffffff" >你速去望輝殿請城主出手，</font><font face="Default" color="#ffffff" >眼</font><font face="Default" color="#ffffff" >下只有她能力挽狂瀾，救望輝洲於水火！</font>
+story_77291_1=<font face="Default" color="#ffffff" >此二人實力強橫，</font><font face="Default" color="#ffffff" >你</font><font face="Default" color="#ffffff" >一人不敵也是情理之中。而我之所以小有優勢，正是因為《罡神斧》乃是為了同時對抗多個敵人所創，此武學招招致命，沒有半點花哨，十分適用於戰場。</font>
+story_77292_1=<font face="Default" color="#ffffff" >我果然沒有看錯人！這首席弟子</font><font face="Default" color="#ffffff" >之位你</font><font face="Default" color="#ffffff" >當之無愧！</font>
+story_77292_2=<font face="Default" color="#ffffff" >我等定要竭盡全力保全鍛神宗傳承。</font><font face="Default" color="#ffffff" >哪怕</font><font face="Default" color="#ffffff" >望輝洲</font><font face="Default" color="#ffffff" >不在了</font><font face="Default" color="#ffffff" >，</font><font face="Default" color="#ffffff" >《</font><font face="Default" color="#ffffff" >罡神斧</font><font face="Default" color="#ffffff" >》也</font><font face="Default" color="#ffffff" >絕不會落入他人之手！</font><font face="Default" color="#ffffff" >至於</font><font face="Default" color="#ffffff" >拓本，</font><font face="Default" color="#ffffff" >就</font><font face="Default" color="#ffffff" >傳於望輝洲優秀弟子，讓他們背負先人遺志，繼續抵禦外族，保衛中原！</font>
+story_77293_1=<font face="Default" color="#ffffff" >哼！我為何要去救這個廢物！若非他不按計劃行事</font><font face="Default" color="#ffffff" >，</font><font face="Default" color="#ffffff" >我的身份豈會暴露！</font>
+story_77293_2=<font face="Default" color="#ffffff" >可笑</font><font face="Default" color="#ffffff" >！</font><font face="Default" color="#ffffff" >若是我出手</font><font face="Default" color="#ffffff" >，怎會燒的只是一片胡楊林？</font><font face="Default" color="#ffffff" >好了，廢話說的夠多了</font><font face="Default" color="#ffffff" >，</font><font face="Default" color="#ffffff" >蕭子安！給我納命來！</font>
+story_77294_1=<font face="Default" color="#ffffff" >跑？之前倒是我小瞧了你，不過現在……哼！段釋劫！</font><font face="Default" color="#ffffff" >還不動手？！</font>
+story_77295_1=<font face="Default" color="#ffffff" >終究還是走到了這一步。那人怎的如此癡傻，即便是付出這樣的代價也在所不惜。可歎</font><font face="Default" color="#ffffff" >！</font><font face="Default" color="#ffffff" >你速回戰場，我這就前去禦敵。</font>
+story_77296_1=<font face="Default" color="#ffffff" >哼！望輝洲</font><font face="Default" color="#ffffff" >掌權</font><font face="Default" color="#ffffff" >者這麼多年來剛愎自用，不聽諫言。此城地處異域，卻仍舊堅持傳承漢文化，與中原王朝公開往來。天高皇帝遠，這樣下去遲早受滅頂之災。只有全城歸化胡族，徹底融入西域，才能保住望輝洲歷代基業。你這外人又懂得什麼！</font>
+story_77297_1=<font face="Default" color="#ffffff" >這望輝洲本就是西域都護府的遺民所建，千年來不可避免地胡化。若是再捨棄掉漢人文化，便真的徹底變成西域胡族，忘卻先祖，再難有回歸中原的機會。</font>
+story_77297_2=<font face="Default" color="#ffffff" >西域本就是中原王朝所屬疆土，就算分離日久，日後也必將回歸中原統治。段釋劫</font><font face="Default" color="#ffffff" >此言此行已再難回頭！依望輝洲律法當...斬</font>
+story_77298_1=<font face="Default" color="#ffffff" >大抵如此。安光明與段釋劫的對話，讓我覺得應有兩個神秘人。而有能力掩蓋安光明等人勾結襖教痕跡的，只有身居高位之人。除我</font><font face="Default" color="#ffffff" >和</font><font face="Default" color="#ffffff" >段釋劫外，便只有子安了。</font>
+story_menu_77201=<font face="Default" color="#ffffff" >末將</font><font face="Default" color="#ffffff" >見過太陰琴長！</font>
+story_menu_77202=<font face="Default" color="#ffffff" >末將愚鈍，不知...</font>
+story_menu_77203=<font face="Default" color="#ffffff" >不知前輩接下來的行程如何安排？</font>
+story_menu_77204=<font face="Default" color="#ffffff" >前輩剛剛所用的是望輝洲的武學？</font>
+story_menu_77205=<font face="Default" color="#ffffff" >蔣村長，好久不見！</font>
+story_menu_77206=<font face="Default" color="#ffffff" >前輩，這位便</font><font face="Default" color="#ffffff" >是</font><font face="Default" color="#ffffff" >村長,蔣大爺。</font>
+story_menu_77207=<font face="Default" color="#ffffff" >前輩，大家都</font><font face="Default" color="#ffffff" >來了。</font>
+story_menu_77208=<font face="Default" color="#ffffff" >蔣大爺，怎麼你的笑裡憋著股壞勁呢？</font>
+story_menu_77209=<font face="Default" color="#ffffff" >班凌前輩，在下跳的如何？</font>
+story_menu_77210=<font face="Default" color="#ffffff" >如何？</font>
+story_menu_77211=<font face="Default" color="#ffffff" >班凌前輩似乎有話要說？</font>
+story_menu_77212=<font face="Default" color="#ffffff" >將軍！班凌前輩</font><font face="Default" color="#ffffff" >邀</font><font face="Default" color="#ffffff" >我前往望輝洲遊歷！</font>
+story_menu_77213=<font face="Default" color="#ffffff" >聽說成都近日常有奇人異事，小哥</font><font face="Default" color="#ffffff" >能否</font><font face="Default" color="#ffffff" >指點一二？</font>
+story_menu_77214=<font face="Default" color="#ffffff" >閣下是？</font>
+story_menu_77215=<font face="Default" color="#ffffff" >巡捕大人，</font><font face="Default" color="#ffffff" >您來的正好。此處有一位老者突然猝死！</font>
+story_menu_77216=<font face="Default" color="#ffffff" >巡捕大人？如何？</font>
+story_menu_77217=<font face="Default" color="#ffffff" >只怕此事不是這麼簡單！</font>
+story_menu_77218=<font face="Default" color="#ffffff" >知府大人！</font>
+story_menu_77219=<font face="Default" color="#ffffff" >閣下請放心！知府大人命我等徹查此案，定會</font><font face="Default" color="#ffffff" >還</font><font face="Default" color="#ffffff" >你們一個清白！</font>
+story_menu_77220=<font face="Default" color="#ffffff" >沈捕頭，不知死者姓甚名誰，家住何方？</font>
+story_menu_77221=<font face="Default" color="#ffffff" >請問閣下認識</font><font face="Default" color="#ffffff" >賣茶的胡老頭</font><font face="Default" color="#ffffff" >嗎？</font>
+story_menu_77222=<font face="Default" color="#ffffff" >請問閣下認識賣茶的胡老頭嗎？</font>
+story_menu_77223=<font face="Default" color="#ffffff" >請問閣下是否認識賣茶的胡九三？</font>
+story_menu_77224=<font face="Default" color="#ffffff" >請問閣下胡九三的身體可有什麼異常？</font>
+story_menu_77225=<font face="Default" color="#ffffff" >大人請看！</font>
+story_menu_77227=<font face="Default" color="#ffffff" >此事已告一段落。沒想到沈傑竟然是瓦剌的密探。不知</font><font face="Default" color="#ffffff" >閣下</font><font face="Default" color="#ffffff" >之前所說的望輝洲是何處啊？</font>
+story_menu_77228=<font face="Default" color="#ffffff" >不知如何才能通過審核？</font>
+story_menu_77229=<font face="Default" color="#ffffff" >弟子拜見城主！</font>
+story_menu_77230=<font face="Default" color="#ffffff" >弟子拜見蕭前輩！</font>
+story_menu_77231=<font face="Default" color="#ffffff" >弟子拜見班前輩！</font>
+story_menu_77232=<font face="Default" color="#ffffff" >弟子拜見第五前輩！</font><font face="Default" color="#ffffff" >班凌前輩讓弟子前來幫忙！</font>
+story_menu_77233=<font face="Default" color="#ffffff" >安前輩。</font>
+story_menu_77234=<font face="Default" color="#ffffff" >蕭前輩！</font>
+story_menu_77235=<font face="Default" color="#ffffff" >張前輩。</font>
+story_menu_77236=<font face="Default" color="#ffffff" >段前輩！</font><font face="Default" color="#ffffff" >弟子</font><font face="Default" color="#ffffff" >奉命到城中巡查，這是望輝令！</font>
+story_menu_77237=<font face="Default" color="#ffffff" >在下負責</font><font face="Default" color="#ffffff" >今</font><font face="Default" color="#ffffff" >日的城中巡查，發生了什麼</font><font face="Default" color="#ffffff" >？</font><font face="Default" color="#ffffff" >為何爭吵如此激烈？</font>
+story_menu_77238=<font face="Default" color="#ffffff" >在下負責今日的城中巡查，發生了什麼？為何爭吵如此激烈？</font>
+story_menu_77239=<font face="Default" color="#ffffff" >鄭</font><font face="Default" color="#ffffff" >前輩</font><font face="Default" color="#ffffff" >，在下負責今日城中巡查。此事你怎麼看？</font>
+story_menu_77240=<font face="Default" color="#ffffff" >這漢商途經絲綢之路，</font><font face="Default" color="#ffffff" >又</font><font face="Default" color="#ffffff" >長期處於沙漠之中。茶磚自然會有水分的流失。你且看這茶磚內的茶葉十分的乾燥！自然出發時一斤一兩的茶，到了這裡便不足一斤了！</font>
+story_menu_77241=<font face="Default" color="#ffffff" >前輩</font><font face="Default" color="#ffffff" >這幾日可曾發現什麼可疑人士？</font>
+story_menu_77242=<font face="Default" color="#ffffff" >還好前輩及時趕到！</font><font face="Default" color="#ffffff" >追蹤馬賊有結果了嗎？</font>
+story_menu_77243=<font face="Default" color="#ffffff" >張前輩！（講述城中的遭遇...）</font>
+story_menu_77244=<font face="Default" color="#ffffff" >承讓！</font>
+story_menu_77245=<font face="Default" color="#ffffff" >前輩，不知為何這一片綠洲叫青羊綠洲？</font>
+story_menu_77246=<font face="Default" color="#ffffff" >前輩，城中並無異常。但是鄭佛陀前輩說遇到</font><font face="Default" color="#ffffff" >可疑</font><font face="Default" color="#ffffff" >商隊入住客棧。弟子</font><font face="Default" color="#ffffff" >想</font><font face="Default" color="#ffffff" >前往調查。</font>
+story_menu_77251=<font face="Default" color="#ffffff" >前輩...</font>
+story_menu_77252=<font face="Default" color="#ffffff" >城主主是否早已察覺？</font><font face="Default" color="#ffffff" >弟子</font><font face="Default" color="#ffffff" >還是無法相信蕭</font><font face="Default" color="#ffffff" >前輩</font><font face="Default" color="#ffffff" >會做出此等事情</font><font face="Default" color="#ffffff" >。</font>
+story_menu_77253=<font face="Default" color="#ffffff" >前輩</font><font face="Default" color="#ffffff" >，城主所說蕭</font><font face="Default" color="#ffffff" >前輩</font><font face="Default" color="#ffffff" >並</font><font face="Default" color="#ffffff" >非只是</font><font face="Default" color="#ffffff" >為了讓她繼續擔任城主，</font><font face="Default" color="#ffffff" >難道另有隱情？</font>
+story_menu_77254=<font face="Default" color="#ffffff" >前輩</font><font face="Default" color="#ffffff" >，你要去何處！</font>
+story_menu_77255=<font face="Default" color="#ffffff" >張舞尉，蕭歌丞召您前去，有要事相商，請盡快前往望輝殿！</font>
+story_menu_77256=<font face="Default" color="#ffffff" >劉樂司，蕭歌丞召您前去，有要事相商，</font><font face="Default" color="#ffffff" >煩請盡快前往！</font>
+story_menu_77257=<font face="Default" color="#ffffff" >蕭歌丞，各位都到了</font>
+story_menu_77258=<font face="Default" color="#ffffff" >宇文兄，</font><font face="Default" color="#ffffff" >當年</font><font face="Default" color="#ffffff" >大都護</font><font face="Default" color="#ffffff" >留下信物</font><font face="Default" color="#ffffff" >，</font><font face="Default" color="#ffffff" >定是</font><font face="Default" color="#ffffff" >希望鍛神宗的</font><font face="Default" color="#ffffff" >信念</font><font face="Default" color="#ffffff" >與傳承能一直延續下去</font><font face="Default" color="#ffffff" >。</font>
+story_menu_77259=<font face="Default" color="#ffffff" >蕭歌丞，</font><font face="Default" color="#ffffff" >考慮得如何？</font>
+story_menu_77260=<font face="Default" color="#ffffff" >宇文兄久等了。</font>
+story_menu_77261=<font face="Default" color="#ffffff" >怎麼樣，抓到了嗎？</font>
+story_menu_77262=<font face="Default" color="#ffffff" >城主</font><font face="Default" color="#ffffff" >。</font>
+story_menu_77263=<font face="Default" color="#ffffff" >張前輩，城主讓我來聽你的安排！</font>
+story_menu_77266=<font face="Default" color="#ffffff" >你們</font><font face="Default" color="#ffffff" >為何能提前知曉我要途經此處？！</font>
+story_menu_77267=<font face="Default" color="#ffffff" >為何？！你也要背叛望輝洲？！</font>
+story_menu_77272=<font face="Default" color="#ffffff" >張前輩，你怎會在此！</font><font face="Default" color="#ffffff" >安光明居然也是襖教的奸細！弟子無能，竟讓他被神秘人帶走！</font>
+story_menu_77275=<font face="Default" color="#ffffff" >關於這神秘人，</font><font face="Default" color="#ffffff" >弟子</font><font face="Default" color="#ffffff" >有個猜測……</font>
+story_menu_77276=<font face="Default" color="#ffffff" >段</font><font face="Default" color="#ffffff" >前輩</font><font face="Default" color="#ffffff" >，形勢如何？</font>
+story_menu_77277=<font face="Default" color="#ffffff" >段</font><font face="Default" color="#ffffff" >前輩</font><font face="Default" color="#ffffff" >並未出城，而是一直忙於佈防之事……</font><font face="Default" color="#ffffff" >弟子懷疑錯了</font>
+story_menu_77278=<font face="Default" color="#ffffff" >張先生，敵人衝進城了！</font>
+story_menu_77280=<font face="Default" color="#ffffff" >蕭歌丞，現在如何是好？</font>
+story_menu_77281=<font face="Default" color="#ffffff" >張舞尉意下如何？</font>
+story_menu_77282=<font face="Default" color="#ffffff" >劉樂司，在下提議可有不妥之處？</font>
+story_menu_77283=<font face="Default" color="#ffffff" >城主，</font><font face="Default" color="#ffffff" >弟子</font><font face="Default" color="#ffffff" >斗膽相請，看在蕭</font><font face="Default" color="#ffffff" >前輩</font><font face="Default" color="#ffffff" >多年盡忠職守保衛望輝洲，且對城主一片癡心的份上，</font><font face="Default" color="#ffffff" >手下留情！</font>
+story_menu_77284=<font face="Default" color="#ffffff" >蕭前輩！</font>
+story_menu_77285=<font face="Default" color="#ffffff" >守衛大哥可否詳細講講？</font>
+story_menu_77286=<font face="Default" color="#ffffff" >蕭歌丞，打擾了！在下有一事相問，近日附近出現的神秘人，蕭歌丞可有瞭解？</font>
+story_menu_77288=<font face="Default" color="#ffffff" >蕭歌丞，這位就是近日將賊人們殺</font><font face="Default" color="#ffffff" >得</font><font face="Default" color="#ffffff" >人仰馬翻的</font><font face="Default" color="#ffffff" >少俠</font><font face="Default" color="#ffffff" >宇文烈！</font><font face="Default" color="#ffffff" >他身懷</font><font face="Default" color="#ffffff" >鍛神宗信物</font><font face="Default" color="#ffffff" >，</font><font face="Default" color="#ffffff" >與你提到的</font><font face="Default" color="#ffffff" >許</font><font face="Default" color="#ffffff" >是一對！</font>
+story_menu_77289=<font face="Default" color="#ffffff" >兄台還請收手！在下望輝洲弟子，奉天象歌丞之命前來調查近日莫名出現的馬匪和祆教教眾屍體之事。這些賊人……可是兄台所殺？</font>
+story_menu_77290=<font face="Default" color="#ffffff" >前輩</font><font face="Default" color="#ffffff" >，現在如何是好！</font>
+story_menu_77291=<font face="Default" color="#ffffff" >《</font><font face="Default" color="#ffffff" >罡神斧</font><font face="Default" color="#ffffff" >》</font><font face="Default" color="#ffffff" >當真是出神入化！今日若</font><font face="Default" color="#ffffff" >無</font><font face="Default" color="#ffffff" >宇文兄在旁，在下多半是要折戟在此地了！</font>
+story_menu_77292=<font face="Default" color="#ffffff" >蕭歌丞，我已通過宇文兄的考驗。</font>
+story_menu_77293=<font face="Default" color="#ffffff" >前輩...你！</font><font face="Default" color="#ffffff" >是你救走了安光明！？</font>
+story_menu_77294=<font face="Default" color="#ffffff" >哪裡跑</font><font face="Default" color="#ffffff" >！？</font>
+story_menu_77295=<font face="Default" color="#ffffff" >城主！望輝洲被祆教教眾和馬匪聯合入侵，現在敵人已經突破城門，望輝洲危在旦夕，請城主出手</font><font face="Default" color="#ffffff" >退敵</font><font face="Default" color="#ffffff" >！</font>
+story_menu_77296=<font face="Default" color="#ffffff" >段前輩，安光明為了他粟特安家，忘恩負義成了祆教走狗。可你祖上貴為西域都護，你作為西域都護後人為何也要背叛望輝洲？！</font>
+story_menu_77297=<font face="Default" color="#ffffff" >城主，段釋劫</font><font face="Default" color="#ffffff" >他</font><font face="Default" color="#ffffff" >？</font>
+story_menu_77298=<font face="Default" color="#ffffff" >前輩</font><font face="Default" color="#ffffff" >，我觀蕭</font><font face="Default" color="#ffffff" >前輩</font><font face="Default" color="#ffffff" >神色異樣，難道此事與他也有關聯？</font>
+storyinfo_77201=拜見太陰琴長<a href="findnpc_new,school26,npc_whc_dy_01" style="HLStype1">班凌</a>
+storyinfo_77202=聽大將軍<a href="findnpc_new,school26,newmp_xingtb_001" style="HLStype1">刑烈</a>的調遣
+storyinfo_77203=聽<a href="findnpc_new,school26,npc_whc_dy_02" style="HLStype1">班凌</a>訴說（可騎乘<a href="findnpc_new,school26,npc_whc_dy_55" style="HLStype1">駿馬</a>快速前往城外）
+storyinfo_77204=向<a href="findnpc_new,school26,npc_whc_dy_03" style="HLStype1">班凌</a>請教剛剛使用的武學
+storyinfo_77205=先行前往<a href="findnpc_new,school26,npc_whc_dy_56" style="HLStype1">村莊</a>，將消息告訴<a href="findnpc,adv181,-296,151,-193" style="HLStype1">村長</a>
+storyinfo_77206=向<a href="findnpc,adv181,-251,144,-209" style="HLStype1">班凌</a>介紹村長
+storyinfo_77207=邀請<a href="findnpc,adv181,-251,144,-209" style="HLStype1">班凌</a>和望輝洲的諸位開始表演
+storyinfo_77208=<a href="findnpc,adv181,-254,144,-207" style="HLStype1">村長</a>也想讓你一起表演
+storyinfo_77209=詢問<a href="findnpc,adv181,-251,144,-209" style="HLStype1">班凌</a>，自己表演的如何
+storyinfo_77210=聆聽<a href="findnpc,adv181,-251,144,-209" style="HLStype1">班凌</a>的傾述
+storyinfo_77211=<a href="findnpc,adv181,-251,144,-209" style="HLStype1">班凌</a>發出同游望輝洲的邀請
+storyinfo_77212=將受邀之事告知大將軍<a href="findnpc_new,school26,newmp_xingtb_001" style="HLStype1">刑烈</a>（離開<a href="findnpc,adv181,-220,145,-218" style="HLStype1">村莊</a>）
+storyinfo_77213=詢問<a href="findnpc_new,city05,WorldNpc09626" style="HLStype1">店小二</a>，成都有何奇人異事
+storyinfo_77214=<a href="findnpc_new,city05,npc_whc_dy_07" style="HLStype1">段靈靈</a>似乎有話要說
+storyinfo_77215=恰好有<a href="findnpc_new,city05,npc_whc_dy_08" style="HLStype1">捕頭</a>經過
+storyinfo_77216=詢問<a href="findnpc_new,city05,npc_whc_dy_44" style="HLStype1">捕頭</a>，檢查的結果
+storyinfo_77217=<a href="findnpc_new,city05,npc_whc_dy_07" style="HLStype1">段靈靈</a>決定前往衙門
+storyinfo_77218=向知府大人<a href="findnpc_new,city05,WorldNpc09601" style="HLStype1">於長青</a>解釋
+storyinfo_77219=讓<a href="findnpc_new,city05,npc_whc_dy_12" style="HLStype1">段靈靈</a>放心，定會還他清白
+storyinfo_77220=詢問<a href="findnpc_new,city05,npc_whc_dy_11" style="HLStype1">捕頭</a>老者的信息
+storyinfo_77221=向<a href="findnpc_new,city05,WorldNpc09695" style="HLStype1">路人</a>打聽線索
+storyinfo_77222=向<a href="findnpc_new,city05,WorldNpc09621" style="HLStype1">路人</a>打聽線索
+storyinfo_77223=或許<a href="findnpc_new,city05,FuncNpc00605" style="HLStype1">郎中</a>那裡可以得到線索
+storyinfo_77224=詢問<a href="findnpc_new,city05,World_qy_em015" style="HLStype1">仵作</a>，驗屍結果如何
+storyinfo_77225=將錦盒交給知府大人<a href="findnpc_new,city05,WorldNpc09601" style="HLStype1">於長青</a>
+storyinfo_77226=聽<a href="findnpc_new,city05,WorldNpc09601" style="HLStype1">於長青</a>訴說知府結案
+storyinfo_77227=聆聽<a href="findnpc_new,city05,npc_whc_dy_17" style="HLStype1">段靈靈</a>的講述
+storyinfo_77228=詢問<a href="findnpc_new,city05,npc_wanghui_kyf_003" style="HLStype1">何辰</a>如何才能通過審核
+storyinfo_77229=拜見<a href="findnpc_new,school28,newmp_whz_001" style="HLStype1">城主</a>
+storyinfo_77230=拜見天象歌丞<a href="findnpc_new,school28,newmp_whz_002" style="HLStype1">蕭子安</a>
+storyinfo_77231=聆聽<a href="findnpc_new,school28,newmp_whz_006" style="HLStype1">班凌</a>的教誨
+storyinfo_77232=前往林邊找到<a href="findnpc_new,school28,npc_whc_dy_32" style="HLStype1">第五魚</a>
+storyinfo_77233=<a href="findnpc_new,school28,npc_whc_dy_33" style="HLStype1">安光明</a>詢問你為何行色匆匆
+storyinfo_77234=詢問<a href="findnpc_new,school28,newmp_whz_002" style="HLStype1">蕭子安</a>的看法
+storyinfo_77235=詢問<a href="findnpc_new,school28,newmp_whz_003" style="HLStype1">張退之</a>的看法
+storyinfo_77236=前往廣場找到<a href="findnpc_new,school28,npc_whc_dy_36" style="HLStype1">段釋劫</a>
+storyinfo_77237=詢問<a href="findnpc_new,school28,npc_whc_dy_49" style="HLStype1">漢商</a>發生了什麼
+storyinfo_77238=詢問<a href="findnpc_new,school28,npc_whc_dy_50" style="HLStype1">胡商</a>發生了什麼
+storyinfo_77239=詢問<a href="findnpc_new,school28,npc_whc_dy_37" style="HLStype1">鄭佛陀</a>的看法
+storyinfo_77240=向<a href="findnpc_new,school28,npc_whc_dy_37" style="HLStype1">鄭佛陀</a>解釋你的猜想
+storyinfo_77241=詢問<a href="findnpc_new,school28,npc_whc_dy_37" style="HLStype1">鄭佛陀</a>最近是否有什麼異常
+storyinfo_77242=幸好<a href="findnpc_new,school28,npc_whc_dy_53" style="HLStype1">第五魚</a>及時趕到，向她講述巡查的遭遇
+storyinfo_77243=將此事稟報<a href="findnpc_new,school28,newmp_whz_003" style="HLStype1">張退之</a>
+storyinfo_77244=聆聽<a href="findnpc_new,school28,newmp_whz_006" style="HLStype1">班凌</a>的教誨
+storyinfo_77245=詢問<a href="findnpc_new,school28,npc_whc_dy_32" style="HLStype1">第五魚</a>青羊綠洲的由來
+storyinfo_77246=請求<a href="findnpc_new,school28,npc_whc_dy_36" style="HLStype1">段釋劫</a>協助調查客棧
+storyinfo_77251=聽<a href="findnpc_new,school28,nmpwhc_hhm_028" style="HLStype1">蕭子安</a>說清緣由
+storyinfo_77252=詢問<a href="findnpc_new,school28,nmpwhc_hhm_030" style="HLStype1">任月皎</a>的看法
+storyinfo_77253=詢問<a href="findnpc_new,school28,nmpwhc_hhm_029" style="HLStype1">張退之</a>此事隱情
+storyinfo_77254=<a href="findnpc_new,school28,nmpwhc_hhm_028" style="HLStype1">蕭子安</a>似乎要動身去往何處
+storyinfo_77255=通知<a href="findnpc_new,school28,nmpwhc_gsfhhm_007" style="HLStype1">張退之</a>前去商議
+storyinfo_77256=通知<a href="findnpc_new,school28,nmpwhc_gsfhhm_008" style="HLStype1">劉伽羅</a>前去商議
+storyinfo_77257=詢問<a href="findnpc_new,school28,nmpwhc_gsfhhm_009" style="HLStype1">蕭子安</a>信物核對結果
+storyinfo_77258=勸說<a href="findnpc_new,school28,nmpwhc_gsfhhm_010" style="HLStype1">宇文烈</a>
+storyinfo_77259=詢問<a href="findnpc_new,school28,nmpwhc_gsfhhm_009" style="HLStype1">蕭子安</a>的意見
+storyinfo_77260=與<a href="findnpc_new,school28,nmpwhc_gsfhhm_006" style="HLStype1">宇文烈</a>會合
+storyinfo_77261=找到<a href="findnpc_new,school28,nmpwhc_hhm_006_new" style="HLStype1">第五魚</a>，問問她是否追到了孫開疆
+storyinfo_77262=詢問<a href="findnpc_new,school28,nmpwhc_hhm_007_new" style="HLStype1">任月皎</a>接下來該如何做
+storyinfo_77263=詢問<a href="findnpc_new,school28,nmpwhc_hhm_008_new" style="HLStype1">張退之</a>後續如何安排
+storyinfo_77266=此處竟真有祆教埋伏！揭開<a href="findnpc_new,school28,nmpwhc_hhm_035" style="HLStype1">神秘祭祀</a>的真面目！
+storyinfo_77267=<a href="findnpc_new,school28,nmpwhc_hhm_011" style="HLStype1">安光明</a>居然也背叛了望輝洲！
+storyinfo_77272=<a href="findnpc_new,school28,nmpwhc_hhm_012" style="HLStype1">張退之</a>也在此處，與他商量應對之法
+storyinfo_77275=與<a href="findnpc_new,school28,nmpwhc_hhm_012" style="HLStype1">張退之</a>分析神秘人的身份
+storyinfo_77276=試探<a href="findnpc_new,school28,nmpwhc_hhm_014" style="HLStype1">段釋劫</a>，判斷其是否為襖教奸細
+storyinfo_77277=告知<a href="findnpc_new,school28,nmpwhc_hhm_013" style="HLStype1">張退之</a>試探結果
+storyinfo_77278=與<a href="findnpc_new,born04,nmpwhc_hhm_013" style="HLStype1">張退之</a>交談
+storyinfo_77280=與<a href="findnpc_new,born04,nmpwhc_hhm_024" style="HLStype1">蕭子安</a>交談
+storyinfo_77281=詢問<a href="findnpc_new,school28,nmpwhc_gsfhhm_011" style="HLStype1">張退之</a>的意見
+storyinfo_77282=詢問<a href="findnpc_new,school28,nmpwhc_gsfhhm_012" style="HLStype1">劉伽羅</a>的意見
+storyinfo_77283=請求<a href="findnpc_new,school28,nmpwhc_hhm_032" style="HLStype1">任月皎</a>網開一面
+storyinfo_77284=提醒<a href="findnpc_new,school28,nmpwhc_hhm_033" style="HLStype1">蕭子安</a>珍惜眼前人
+storyinfo_77285=向<a href="findnpc_new,school28,nmpwhc_gsfhhm_001" style="HLStype1">望輝城守衛</a>打聽有關神秘人的事
+storyinfo_77286=找到<a href="findnpc_new,school28,nmpwhc_hhm_004" style="HLStype1">蕭子安</a>，詢問有關神秘人的事
+storyinfo_77288=向<a href="findnpc_new,school28,nmpwhc_gsfhhm_009" style="HLStype1">蕭子安</a>覆命
+storyinfo_77289=聽<a href="findnpc_new,school28,nmpwhc_gsfhhm_003" style="HLStype1">宇文烈</a>講述他的身份
+storyinfo_77290=詢問<a href="findnpc_new,school28,nmpwhc_hhm_024" style="HLStype1">蕭子安</a>如何破局
+storyinfo_77291=與<a href="findnpc_new,school28,nmpwhc_gsfhhm_006" style="HLStype1">宇文烈</a>交談，準備返回
+storyinfo_77292=告知<a href="findnpc_new,school28,nmpwhc_gsfhhm_009" style="HLStype1">蕭子安</a>考驗結果
+storyinfo_77293=<a href="findnpc_new,school28,nmpwhc_hhm_014" style="HLStype1">段釋劫</a>竟真是叛徒！
+storyinfo_77294=逼問已經窮途末路的<a href="findnpc_new,school28,huntnpc_hhm_008" style="HLStype1">安光明</a>
+storyinfo_77295=向<a href="findnpc_new,school28,newmp_whz_001" style="HLStype1">任月皎</a>求助(通過<a href="findnpc_new,school28,GotoDoorwhz_guj01" style="HLStype1">跳躍點</a>進入瀚海不系舟)
+storyinfo_77296=質問<a href="findnpc_new,school28,nmpwhc_hhm_031" style="HLStype1">段釋劫</a>為何背叛望輝洲
+storyinfo_77297=詢問<a href="findnpc_new,school28,nmpwhc_hhm_030" style="HLStype1">任月皎</a>如何處置段釋劫
+storyinfo_77298=詢問<a href="findnpc_new,school28,nmpwhc_hhm_029" style="HLStype1">張退之</a>的推斷
+storymenu_77201_1=<font face="Default" color="#ffffff" >先生謬讚！將軍有令，諸位此次在刑天城遊歷的事宜都將</font><font face="Default" color="#ffffff" >由</font><font face="Default" color="#ffffff" >末將協助。</font>
+storymenu_77201_2=<font face="Default" color="#ffffff" >請！</font>
+storymenu_77202_1=<font face="Default" color="#ffffff" >原來如此！</font>
+storymenu_77202_2=<font face="Default" color="#ffffff" >先輩們共同禦敵的風采</font><font face="Default" color="#ffffff" >，末將</font><font face="Default" color="#ffffff" >神往！</font>
+storymenu_77202_3=<font face="Default" color="#ffffff" >領命！</font>
+storymenu_77203_1=<font face="Default" color="#ffffff" >他們是末將的榜樣！前輩，這邊請！</font>
+storymenu_77204_1=<font face="Default" color="#ffffff" >望輝洲能屹立西域如此之久，果然有獨到之處。招式不同於刑天城的大開大合，與舞蹈相合，既賞心悅目又飄逸靈動。末將佩服！</font>
+storymenu_77204_2=<font face="Default" color="#ffffff" >一言為定！村子就在前方不遠處，末將先行前往安排。前輩，請！</font>
+storymenu_77205_1=<font face="Default" color="#ffffff" >哈哈哈，若是平日</font><font face="Default" color="#ffffff" >，</font><font face="Default" color="#ffffff" >末將定留下來陪您不醉不歸！今日有貴客來！</font>
+storymenu_77205_2=<font face="Default" color="#ffffff" >村長您一定聽過望輝洲吧？</font>
+storymenu_77205_3=<font face="Default" color="#ffffff" >他們就在村口呢，您這邊請！</font>
+storymenu_77206_1=<font face="Default" color="#ffffff" >蔣大爺年輕時正是陷陣營的一位伍長，</font><font face="Default" color="#ffffff" >若不是在一次戰鬥中受了內傷，無奈退伍。現在可能也是位大將軍了！</font>
+storymenu_77207_1=<font face="Default" color="#ffffff" >前輩...我</font><font face="Default" color="#ffffff" >還從未跳過舞！</font>
+storymenu_77208_1=<font face="Default" color="#ffffff" >那我就試試？</font>
+storymenu_77209_1=<font face="Default" color="#ffffff" >前輩過獎了！</font>
+storymenu_77210_1=<font face="Default" color="#ffffff" >既然如此，班凌前輩定要</font><font face="Default" color="#ffffff" >再</font><font face="Default" color="#ffffff" >多逗留幾日，再去中原欣賞欣賞大明的壯闊河山！</font>
+storymenu_77211_1=<font face="Default" color="#ffffff" >如此甚好，不過還需先將此事稟明大將軍！</font>
+storymenu_77211_2=<font face="Default" color="#ffffff" >謝過前輩！</font>
+storymenu_77212_1=<font face="Default" color="#ffffff" >謝將軍！</font>
+storymenu_77213_1=<font face="Default" color="#ffffff" >哦？那我定要去瞧瞧。</font>
+storymenu_77214_1=<font face="Default" color="#ffffff" >望輝洲？</font>
+storymenu_77214_2=<font face="Default" color="#ffffff" >瞳孔放大，氣息全無，已經不行了</font>
+storymenu_77214_3=<font face="Default" color="#ffffff" >此處乃</font><font face="Default" color="#ffffff" >鬧市</font><font face="Default" color="#ffffff" >，又有如此多的人做見證。先報官吧！</font>
+storymenu_77215_1=<font face="Default" color="#ffffff" >正是！</font>
+storymenu_77216_1=<font face="Default" color="#ffffff" >請捕頭大人明察！</font>
+storymenu_77217_1=<font face="Default" color="#ffffff" >希望如此。</font>
+storymenu_77218_1=<font face="Default" color="#ffffff" >在下無意冒犯知府大人！只因陸捕頭不分青紅皂白胡亂陳述案情，在下不願看到知府大人受他蒙蔽才無奈出手！</font>
+storymenu_77218_2=<font face="Default" color="#ffffff" >大人英明！</font>
+storymenu_77218_3=<font face="Default" color="#ffffff" >（講述事情經過...）</font>
+storymenu_77218_4=<font face="Default" color="#ffffff" >是！</font>
+storymenu_77219_1=<font face="Default" color="#ffffff" >自然！</font>
+storymenu_77220_1=<font face="Default" color="#ffffff" >多謝！</font>
+storymenu_77221_1=<font face="Default" color="#ffffff" >火耗之症？</font>
+storymenu_77222_1=<font face="Default" color="#ffffff" >告辭！</font>
+storymenu_77223_1=<font face="Default" color="#ffffff" >此事說來話長，火耗之症有何注意事項嗎？</font>
+storymenu_77223_2=<font face="Default" color="#ffffff" >多謝！</font>
+storymenu_77224_1=<font face="Default" color="#ffffff" >酒水？</font><font face="Default" color="#ffffff" >這胡九三患有火耗之症，理應忌酒水才是。</font>
+storymenu_77224_2=<font face="Default" color="#ffffff" >言之有理！</font>
+storymenu_77225_1=<font face="Default" color="#ffffff" >在下前往酒樓調查時遭到沈捕頭的伏擊，在他身上還搜到了急火之藥！若是我沒有猜錯，</font><font face="Default" color="#ffffff" >胡九三之死和沈捕頭脫不了干係。</font>
+storymenu_77225_2=<font face="Default" color="#ffffff" >瓦剌真是狼子野心！</font>
+storymenu_77225_3=<font face="Default" color="#ffffff" >大人英明！</font>
+storymenu_77227_1=<font face="Default" color="#ffffff" >過獎過獎！</font>
+storymenu_77227_2=<font face="Default" color="#ffffff" >如此妙處，在下定要前往遊歷一番。</font>
+storymenu_77228_1=<font face="Default" color="#ffffff" >原來如此！</font>
+storymenu_77229_1=<font face="Default" color="#ffffff" >弟子遵命！</font>
+storymenu_77230_1=<font face="Default" color="#ffffff" >不曾！</font><font face="Default" color="#ffffff" >沒想到在這大漠之中也能見到如此多的漢人。</font>
+storymenu_77230_2=<font face="Default" color="#ffffff" >還請前輩指教！</font>
+storymenu_77230_3=<font face="Default" color="#ffffff" >原來如此！沒想到望輝洲的前輩們建立此處竟如此艱辛！</font>
+storymenu_77230_4=<font face="Default" color="#ffffff" >如此說來，任城主</font><font face="Default" color="#ffffff" >和蕭前輩</font><font face="Default" color="#ffffff" >也是這樣的賢能之</font><font face="Default" color="#ffffff" >士</font><font face="Default" color="#ffffff" >了。</font>
+storymenu_77230_5=<font face="Default" color="#ffffff" >弟子謹記！</font>
+storymenu_77231_1=<font face="Default" color="#ffffff" >請指教！</font>
+storymenu_77232_1=<font face="Default" color="#ffffff" >遵命！</font>
+storymenu_77233_1=<font face="Default" color="#ffffff" >（講述發生的事情...）</font>
+storymenu_77233_2=<font face="Default" color="#ffffff" >弟子正要前往！告辭！</font>
+storymenu_77234_1=<font face="Default" color="#ffffff" >遵命！</font>
+storymenu_77235_1=<font face="Default" color="#ffffff" >他們的武學龐雜，似有祆教的影子。且他們中數人口呼波斯語！</font>
+storymenu_77235_2=<font face="Default" color="#ffffff" >真是狼子野心！</font>
+storymenu_77236_1=<font face="Default" color="#ffffff" >好！</font>
+storymenu_77237_1=<font face="Default" color="#ffffff" >你放心，若你真是被誣陷，我定還你清白！</font>
+storymenu_77238_1=<font face="Default" color="#ffffff" >你放心，若你</font><font face="Default" color="#ffffff" >說得是真的</font><font face="Default" color="#ffffff" >，我定</font><font face="Default" color="#ffffff" >為</font><font face="Default" color="#ffffff" >你</font><font face="Default" color="#ffffff" >主持公道</font><font face="Default" color="#ffffff" >！</font>
+storymenu_77239_1=<font face="Default" color="#ffffff" >一斤一兩的茶磚運到此處已不足一斤了嗎？</font><font face="Default" color="#ffffff" >前輩</font><font face="Default" color="#ffffff" >，可否借茶磚一看？</font>
+storymenu_77240_1=<font face="Default" color="#ffffff" >前輩</font><font face="Default" color="#ffffff" >過獎了！你快將為何茶磚會缺斤少兩說與他們，解除大家的誤會。</font>
+storymenu_77241_1=<font face="Default" color="#ffffff" >（講述張退之的委託...）這是望輝令，請</font><font face="Default" color="#ffffff" >前輩協助</font><font face="Default" color="#ffffff" >我們一起調查。</font>
+storymenu_77241_2=<font face="Default" color="#ffffff" >多謝前輩！</font>
+storymenu_77241_3=<font face="Default" color="#ffffff" >我們還是先去客棧調查吧！</font>
+storymenu_77242_1=<font face="Default" color="#ffffff" >不止如此！孫開疆已經聯絡祆教，並且幫助教眾潛入城中！看來他們想要裡應外合！</font>
+storymenu_77242_2=<font face="Default" color="#ffffff" >弟子遵命！</font>
+storymenu_77243_1=<font face="Default" color="#ffffff" >前輩知道這個光明使者？</font>
+storymenu_77243_2=<font face="Default" color="#ffffff" >弟子遵命！</font>
+storymenu_77244_1=<font face="Default" color="#ffffff" >前輩過獎了！</font>
+storymenu_77244_2=<font face="Default" color="#ffffff" >弟子遵命！</font>
+storymenu_77245_1=<font face="Default" color="#ffffff" >唉...</font>
+storymenu_77245_2=<font face="Default" color="#ffffff" >此地竟有段如此傳奇的過往，也許真的是上天的恩賜。</font>
+storymenu_77245_3=<font face="Default" color="#ffffff" >好！</font>
+storymenu_77246_1=<font face="Default" color="#ffffff" >弟子明白！</font>
+storymenu_77246_2=<font face="Default" color="#ffffff" >既然望輝洲是聯通胡漢的商貿重鎮，理應堅持望輝洲公平對待漢胡商人的原則。</font>
+storymenu_77246_3=<font face="Default" color="#ffffff" >弟子不敢妄下結論。</font>
+storymenu_77251_1=<font face="Default" color="#ffffff" >可</font><font face="Default" color="#ffffff" >這與你幫助他們反叛有何關係？</font>
+storymenu_77251_2=<font face="Default" color="#ffffff" >莫非前輩你？</font>
+storymenu_77251_3=<font face="Default" color="#ffffff" >唉...</font>
+storymenu_77252_1=<font face="Default" color="#ffffff" >莫非？</font>
+storymenu_77253_1=<font face="Default" color="#ffffff" >難怪城主說「那人」太癡。真是落花有意，流水無情啊。</font>
+storymenu_77254_1=<font face="Default" color="#ffffff" >弟子</font><font face="Default" color="#ffffff" >與你同去！</font>
+storymenu_77255_1=<font face="Default" color="#ffffff" >在下就先告辭了！</font>
+storymenu_77256_1=<font face="Default" color="#ffffff" >在下告辭！</font>
+storymenu_77257_1=<font face="Default" color="#ffffff" >太好了。</font>
+storymenu_77257_2=<font face="Default" color="#ffffff" >不如讓我勸勸宇文兄。</font>
+storymenu_77258_1=<font face="Default" color="#ffffff" >此時不同以往。而今</font><font face="Default" color="#ffffff" >大明繁榮穩定，江湖自由鼎盛，正是將</font><font face="Default" color="#ffffff" >《</font><font face="Default" color="#ffffff" >罡神斧</font><font face="Default" color="#ffffff" >》</font><font face="Default" color="#ffffff" >發揚光大的大好良機。</font>
+storymenu_77258_2=<font face="Default" color="#ffffff" >宇文兄若擔心絕學落入他手，不如將原本與兩枚信物一同置於望輝殿密室內，由城主獨自保管，與望輝洲共存亡。至於拓本和武學要領，則只傳給望輝洲弟子，令他們繼續憑借此功抵禦外敵。如此既保鍛神宗傳承不失，也能讓</font><font face="Default" color="#ffffff" >這</font><font face="Default" color="#ffffff" >強力功法開枝散葉，發揮本來的作用，重現當年鍛神宗與西域都護府共抗外敵的輝煌。</font>
+storymenu_77258_3=<font face="Default" color="#ffffff" >不知蕭歌丞幾位意見如何。</font>
+storymenu_77259_1=<font face="Default" color="#ffffff" >多謝蕭歌丞信任！</font>
+storymenu_77260_1=<font face="Default" color="#ffffff" >難不成宇文兄設下的考驗與此有關？</font>
+storymenu_77260_2=<font face="Default" color="#ffffff" >宇文兄，自擊退外敵進犯後，在下已經許久未動刀劍，早已按耐不住了！宇文兄那一手罡神斧將我鬥得熱血沸騰，今日便同宇文兄一起，殺他個天翻地覆！</font>
+storymenu_77261_1=<font face="Default" color="#ffffff" >弟子已有所</font><font face="Default" color="#ffffff" >準備</font><font face="Default" color="#ffffff" >，只是未曾攔截住孫開疆，到時賊人裡應外合，悍然奪城，我們可如何是好！</font>
+storymenu_77261_2=<font face="Default" color="#ffffff" >但願如此！</font>
+storymenu_77262_1=<font face="Default" color="#ffffff" >城主可是在說孫開疆？</font><font face="Default" color="#ffffff" >弟子這便去追蹤！</font>
+storymenu_77262_2=<font face="Default" color="#ffffff" >遵命。</font>
+storymenu_77263_1=<font face="Default" color="#ffffff" >弟子</font><font face="Default" color="#ffffff" >既已入望輝洲，便有責任守護好這壯麗風貌和望輝子民！</font>
+storymenu_77263_2=<font face="Default" color="#ffffff" >弟子</font><font face="Default" color="#ffffff" >這便去。</font>
+storymenu_77266_1=<font face="Default" color="#ffffff" >安光明！怎麼是你！</font>
+storymenu_77267_1=<font face="Default" color="#ffffff" >哼！為了一己私慾便要將整個綠洲的百姓投入戰火！虧我還以為你為望輝洲盡心盡力，不想你竟這般無情無義！絲毫不念望輝</font><font face="Default" color="#ffffff" >洲</font><font face="Default" color="#ffffff" >先民收留粟特難民的舊情！</font>
+storymenu_77267_2=<font face="Default" color="#ffffff" >憑你？</font>
+storymenu_77272_1=<font face="Default" color="#ffffff" >原來如此！可為何</font><font face="Default" color="#ffffff" >不</font><font face="Default" color="#ffffff" >提前將此事公佈於眾？</font>
+storymenu_77272_2=<font face="Default" color="#ffffff" >那這神秘人</font><font face="Default" color="#ffffff" >？</font>
+storymenu_77272_3=<font face="Default" color="#ffffff" >這望輝洲中，到底還潛藏了多少叛徒……</font><font face="Default" color="#ffffff" >為何</font><font face="Default" color="#ffffff" >突然煙塵滾滾？</font>
+storymenu_77275_1=<font face="Default" color="#ffffff" >第五</font><font face="Default" color="#ffffff" >前輩</font><font face="Default" color="#ffffff" >曾跟我說過馬匪</font><font face="Default" color="#ffffff" >能</font><font face="Default" color="#ffffff" >襲燒胡楊林</font><font face="Default" color="#ffffff" >，</font><font face="Default" color="#ffffff" >是因為望輝洲守衛被</font><font face="Default" color="#ffffff" >暗中截殺，</font><font face="Default" color="#ffffff" >才沒</font><font face="Default" color="#ffffff" >能提前預警</font><font face="Default" color="#ffffff" >。此次</font><font face="Default" color="#ffffff" >襖教</font><font face="Default" color="#ffffff" >大規模進攻，</font><font face="Default" color="#ffffff" >依然無人示警！我懷疑此人可以調動</font><font face="Default" color="#ffffff" >望輝洲</font><font face="Default" color="#ffffff" >的巡城守衛。此前弟子巡查之時曾與段釋劫有過交談，他對望輝洲頗有微詞。弟子懷疑...</font>
+storymenu_77275_2=<font face="Default" color="#ffffff" >好！</font>
+storymenu_77276_1=<font face="Default" color="#ffffff" >安光明！叛了！</font>
+storymenu_77276_2=<font face="Default" color="#ffffff" >前輩</font><font face="Default" color="#ffffff" >多加小心！</font>
+storymenu_77277_1=<font face="Default" color="#ffffff" >前輩，此刻該如何？</font>
+storymenu_77277_2=<font face="Default" color="#ffffff" >弟子</font><font face="Default" color="#ffffff" >誓死不退</font><font face="Default" color="#ffffff" >！</font>
+storymenu_77278_1=<font face="Default" color="#ffffff" >我必與諸位死戰不退！</font>
+storymenu_77280_1=<font face="Default" color="#ffffff" >是！</font>
+storymenu_77281_1=<font face="Default" color="#ffffff" >多謝張舞尉信任！</font>
+storymenu_77282_1=<font face="Default" color="#ffffff" >多謝劉樂司信任！</font>
+storymenu_77283_1=<font face="Default" color="#ffffff" >城主的意思是……</font>
+storymenu_77283_2=<font face="Default" color="#ffffff" >城主！</font>
+storymenu_77284_1=<font face="Default" color="#ffffff" >蕭</font><font face="Default" color="#ffffff" >前輩</font><font face="Default" color="#ffffff" >，一直以來你的心思只在城主身上停留，可你是否有關注過，那時為你捨命擋下攻擊的人呢？</font>
+storymenu_77284_2=<font face="Default" color="#ffffff" >弟子</font><font face="Default" color="#ffffff" >謹記！</font>
+storymenu_77285_1=<font face="Default" color="#ffffff" >聽你們剛才所言，這神秘人是又現身了嗎？</font>
+storymenu_77285_2=<font face="Default" color="#ffffff" >還有這等怪事……</font>
+storymenu_77285_3=<font face="Default" color="#ffffff" >多謝大哥！那我這便去問問蕭歌丞！</font>
+storymenu_77286_1=<font face="Default" color="#ffffff" >洗耳恭聽！</font>
+storymenu_77286_2=<font face="Default" color="#ffffff" >正是！看樣子</font><font face="Default" color="#ffffff" >，應是城中</font><font face="Default" color="#ffffff" >人盡皆知，</font><font face="Default" color="#ffffff" >唯有</font><font face="Default" color="#ffffff" >我這個剛入門沒多久的弟子才剛剛知曉。</font>
+storymenu_77286_3=<font face="Default" color="#ffffff" >千年前？！西漢之時？</font>
+storymenu_77286_4=<font face="Default" color="#ffffff" >可歎西漢末年天下紛亂，那鍛神宗……</font>
+storymenu_77286_5=<font face="Default" color="#ffffff" >唉……</font>
+storymenu_77286_6=<font face="Default" color="#ffffff" >眼下，</font><font face="Default" color="#ffffff" >蕭歌丞的意思是……</font>
+storymenu_77286_7=<font face="Default" color="#ffffff" >如此看來，真是大有可能的！</font>
+storymenu_77286_8=<font face="Default" color="#ffffff" >弟子</font><font face="Default" color="#ffffff" >領命！</font>
+storymenu_77288_1=<font face="Default" color="#ffffff" >是。</font>
+storymenu_77289_1=<font face="Default" color="#ffffff" >好手段！那如此說來，近日望輝洲附近的賊人們……</font>
+storymenu_77289_10=<font face="Default" color="#ffffff" >原來如此</font><font face="Default" color="#ffffff" >。傳言中說神秘人已在望輝洲附近存在千年</font><font face="Default" color="#ffffff" >有餘</font><font face="Default" color="#ffffff" >，</font><font face="Default" color="#ffffff" >許多人都猜測</font><font face="Default" color="#ffffff" >宇文兄</font><font face="Default" color="#ffffff" >是</font><font face="Default" color="#ffffff" >得道仙人</font><font face="Default" color="#ffffff" >。</font>
+storymenu_77289_11=<font face="Default" color="#dd270b" >（抱拳作揖）</font><font face="Default" color="#ffffff" >在下來尋宇文兄之前，蕭歌丞特意</font><font face="Default" color="#ffffff" >言明</font><font face="Default" color="#ffffff" >，望輝殿</font><font face="Default" color="#ffffff" >中</font><font face="Default" color="#ffffff" >也保存了一枚信物，乃是末任西域大都護留下。不如宇文兄隨我去望輝殿，與蕭歌丞一談便知。</font>
+storymenu_77289_12=<font face="Default" color="#ffffff" >走吧！</font>
+storymenu_77289_2=<font face="Default" color="#ffffff" >兄台高義！不僅武功高強，還能如此行俠仗義！我觀兄台剛才招式大開大合，勇猛異常，敢問所使是否為千年前鍛神宗宗主獨創的罡神斧？</font>
+storymenu_77289_3=<font face="Default" color="#ffffff" >實不相瞞，在下正是奉命來尋兄台的。蕭</font><font face="Default" color="#ffffff" >子安蕭</font><font face="Default" color="#ffffff" >歌丞吩咐過，若兄台真與當年鍛神宗有關，</font><font face="Default" color="#ffffff" >煩請至</font><font face="Default" color="#ffffff" >望輝殿一聚。</font>
+storymenu_77289_4=<font face="Default" color="#ffffff" >在下願聞其詳！</font>
+storymenu_77289_5=<font face="Default" color="#ffffff" >這些道貌岸然之輩，當真可惡！</font>
+storymenu_77289_6=<font face="Default" color="#ffffff" >如此逆境，真不知貴宗是</font><font face="Default" color="#ffffff" >如何做到的</font><font face="Default" color="#ffffff" >……</font>
+storymenu_77289_7=<font face="Default" color="#ffffff" >竟是這樣。</font>
+storymenu_77289_8=<font face="Default" color="#ffffff" >怪不得宇文兄一柄長斧舞</font><font face="Default" color="#ffffff" >得</font><font face="Default" color="#ffffff" >雷霆萬鈞</font><font face="Default" color="#ffffff" >、</font><font face="Default" color="#ffffff" >堅不可摧，當真是繼承了鍛神宗的衣缽，不愧為</font><font face="Default" color="#ffffff" >《</font><font face="Default" color="#ffffff" >罡神斧</font><font face="Default" color="#ffffff" >》的</font><font face="Default" color="#ffffff" >傳人！</font>
+storymenu_77289_9=<font face="Default" color="#ffffff" >敢問《</font><font face="Default" color="#ffffff" >罡神斧</font><font face="Default" color="#ffffff" >》</font><font face="Default" color="#ffffff" >如此強橫，為何當年宇文英前輩沒有重立門派或廣泛收徒，將</font><font face="Default" color="#ffffff" >此絕學</font><font face="Default" color="#ffffff" >發揚光大呢？</font>
+storymenu_77290_1=<font face="Default" color="#ffffff" >弟子這便去！</font>
+storymenu_77291_1=<font face="Default" color="#ffffff" >那我們便返回望輝殿吧！</font>
+storymenu_77292_1=<font face="Default" color="#ffffff" >這</font><font face="Default" color="#ffffff" >《</font><font face="Default" color="#ffffff" >罡神斧</font><font face="Default" color="#ffffff" >》</font><font face="Default" color="#ffffff" >原本和玉珮，</font><font face="Default" color="#ffffff" >終於有了安置之所。</font>
+storymenu_77292_2=在下銘記！
+storymenu_77293_1=<font face="Default" color="#ffffff" >當初馬匪襲燒胡楊林，也是你</font><font face="Default" color="#ffffff" >？！</font>
+storymenu_77293_2=<font face="Default" color="#ffffff" >你這歹人！蕭</font><font face="Default" color="#ffffff" >前輩</font><font face="Default" color="#ffffff" >！</font><font face="Default" color="#ffffff" >當</font><font face="Default" color="#ffffff" >心！</font>
+storymenu_77294_1=<font face="Default" color="#ffffff" >什麼！</font>
+storymenu_77295_1=<font face="Default" color="#ffffff" >謹遵城主之命。</font>
+storymenu_77296_1=<font face="Default" color="#ffffff" >就為了你所謂的保住基業，你且看看因你而起的這滿城紛亂，可對得起你列祖列宗！</font>
+storymenu_77297_1=<font face="Default" color="#ffffff" >城主的意思是……</font>
+storymenu_77297_2=<font face="Default" color="#ffffff" >遵...城主令！</font>
+storymenu_77298_1=<font face="Default" color="#ffffff" >什麼？蕭</font><font face="Default" color="#ffffff" >前輩這是為何？</font><font face="Default" color="#ffffff" >！</font>
+useiteminfo_77201=查看沈捕頭身上掉落的<a href="TASK_ITEM,useitem_whz_dy_01" style="HLStype1">錦盒</a>
+useiteminfo_77202=使用<a href="TASK_ITEM,useitem_whz_dy_02" style="HLStype1">水桶</a>前往<a href="findnpc_new,school28,npc_whc_dy_46" style="HLStype1">湖邊</a>打水
+useiteminfo_77203=使用<a href="findnpc_new,,npc_whc_dy_47" style="HLStype1">水桶</a>澆灌<a href="findnpc_new,school28,npc_whc_dy_47" style="HLStype1">林地</a>
+useiteminfo_77204=使用<a href="TASK_ITEM,useitem_whz_dy_04" style="HLStype1">useitem_whz_dy_04</a>滅火
+useiteminfo_77205=檢查<a href="TASK_ITEM,useitem_whz_dy_05" style="HLStype1">馬匪的包裹</a>
+useiteminfo_77206=檢查<a href="TASK_ITEM,useitem_whz_dy_06" style="HLStype1">茶磚</a>
+useiteminfo_77207=收集營地中的<a href="TASK_ITEM,useitem_whz_dy_07" style="HLStype1">療傷藥</a>，治療受傷的望輝洲弟子
+interactinfo_77208=有<a href="findnpc_new,city05,npc_whc_dy_06" style="HLStype1">老者</a>突然倒地，上前查看
+hunterinfo_77251=攻克<a href="findnpc_new,school28,nmpwhc_gsfhhm_004" style="HLStype1">事火祭司</a>
+hunterinfo_77252=攻克<a href="findnpc_new,school28,nmpwhc_gsfhhm_005" style="HLStype1">護教法王</a>
+

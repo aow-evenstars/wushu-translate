@@ -29,7 +29,6 @@ DialogID_42027=<s>劍譜我先收下。
 DialogID_42028=<s>見到言武了，他收下劍譜了嗎？
 DialogID_42029=<s>哈哈哈哈，嵩山派都快被關門散伙了，我又何苦去沒前途的門派呢？
 DialogID_42030=<s>你回去告訴師父，言武言出必行，回去收拾一下行李，便會回嵩山派的。
-DialogID_42031=<s>可疑人物的話，最近西域喇嘛倒是有時會在後山出沒，不過被我發現就立刻又離開了。
 DialogID_42032=<s>貧僧可是好人吶，對少林的武功秘笈可是決不抱有非分之想。
 DialogID_42033=<s>你就撓了小僧吧，經書就藏在達摩洞內。
 DialogID_42034=<s>餅坯都給我吧。
@@ -79,8 +78,6 @@ QiecuoTitle_42013=<font face="Default" color="#ffffff" >哼！</font>
 SubmitNpcEx_18857=<s>尋找<a href="findnpc_new,school08,WorldNpc00481" style="HLStype1">了空</a>
 SubmitNpcEx_18858=<s>教訓<a href="findnpc_new,school08,WorldNpc00383" style="HLStype1">永貽</a>
 SubmitNpcEx_18859=<s>找到<a href="findnpc_new,school08,WorldNpc00383" style="HLStype1">永貽</a>與他對質
-SubmitNpcEx_18865=<s>替杭明輝規勸<a href="findnpc_new,school08,WorldNpc00392" style="HLStype1">中年喇嘛</a>修佛向善
-SubmitNpcEx_18866=<s>與<a href="findnpc_new,school08,WorldNpc00392" style="HLStype1">中年喇嘛</a>交談
 SubmitNpcEx_18867=<s>回稟<a href="findnpc_new,school08,WorldNpc00497" style="HLStype1">智深</a>
 SubmitNpcEx_18868=<s>詢問<a href="findnpc_new,,FunnpcClone021003" style="HLStype1">石夫人</a>
 SubmitNpcEx_18869=<s>將血棋子交與<a href="findnpc_new,city04,WorldNpc10436" style="HLStype1">周聖</a>查看
@@ -163,7 +160,6 @@ collectinfo_42039=收集<a href="findnpc_new,school08,Gather_qy_shaolin_mingnanh
 collectinfo_42040=收集<a href="findnpc_new,school08,Gather_qy_shaolin_pandingcao" style="HLStype1">攀頂草</a>
 collectinfo_42041=收集<a href="findnpc_new,school08," style="HLStype1"></a>收集<a href="findnpc_new,school08,Gather_qy_shaolin_mucai" style="HLStype1">木材</a>
 collectinfo_42042=收集<a href="findnpc_new,school08,Gather_qy_wudang_wusui" style="HLStype1">雜物</a>
-collectinfo_42044=完成<a href="findnpc_new,school08,WorldNpc00392" style="HLStype1">中年喇嘛</a>交代的事情
 collectinfo_42045=完成<a href="findnpc_new,school08,WorldNpc00497" style="HLStype1">智深</a>交代的事情
 collectinfo_42046=完成<a href="findnpc_new,school08,WorldNpc00224" style="HLStype1">清悔</a>交代的事情
 collectinfo_42047=完成<a href="findnpc_new,school08,WorldNpc00264" style="HLStype1">玄濟</a>交代的事情
@@ -230,7 +226,6 @@ interactinfo_42028=回復<a href="findnpc_new,school08,WorldNpc00388" style="HLS
 interactinfo_42029=找到<a href="findnpc_new,school08,monrm08003" style="HLStype1">夏廈</a>並讓他回歸門派
 interactinfo_42030=找到<a href="findnpc_new,school08,WorldNpc00386" style="HLStype1">趙言武</a>並讓他回歸門派
 interactinfo_42031=詢問<a href="findnpc_new,school08,sl006" style="HLStype1">巡邏的武僧</a>
-interactinfo_42032=詢問<a href="findnpc_new,school08,WorldNpc00359" style="HLStype1">西域喇嘛</a>出沒後山的原因
 interactinfo_42033=詢問<a href="findnpc_new,school08,WorldNpc00359" style="HLStype1">格聶瑪</a>經書的下落
 interactinfo_42034=將餅坯交給<a href="findnpc_new,school08,WorldNpc00285" style="HLStype1">清性</a>
 interactinfo_42035=將水桶交給<a href="findnpc_new,school08,WorldNpc00285" style="HLStype1">清性</a>
@@ -343,7 +338,6 @@ storyinfo_42003=聽<a href="findnpc_new,school08,WorldNpc00355" style="HLStype1"
 storyinfo_42005=聽<a href="findnpc_new,school08,WorldNpc00481" style="HLStype1">了空</a>訴說
 storyinfo_42006=聽<a href="findnpc_new,city04,WorldNpc10397" style="HLStype1">杭明輝</a>訴說
 storyinfo_42007=聽<a href="findnpc_new,city04,WorldNpc10397" style="HLStype1">杭明輝</a>訴說
-storyinfo_42008=聽<a href="findnpc_new,school08,WorldNpc00392" style="HLStype1">中年喇嘛</a>訴說
 storyinfo_42011=聽<a href="findnpc_new,city04,WorldNpc10436" style="HLStype1">周聖</a>訴說
 storyinfo_42012=聽<a href="findnpc_new,city04,FunnpcClone021003" style="HLStype1">石夫人</a>訴說
 storyinfo_42013=聽<a href="findnpc_new,city04,WorldNpc10436" style="HLStype1">周聖</a>訴說
@@ -375,7 +369,6 @@ storymenu_42013_2=<font face="Default" color="#ffffff" >我這便去。</font>
 storymenu_42014_1=<font face="Default" color="#ffffff" >此枚血棋子是在石家找到的！</font>
 storymenu_42014_2=<font face="Default" color="#ffffff" >不知先生是否可以代為引見？</font>
 storymenu_42014_3=<font face="Default" color="#ffffff" >阿彌陀佛</font>
-storymenu_42015_1=<font face="Default" color="#ffffff" >阿彌陀佛！施主為何在城中多日行兇？！濫殺無辜！</font>
 storymenu_42015_2=<font face="Default" color="#ffffff" >阿彌陀佛。</font>
 storymenu_42015_4=<font face="Default" color="#ffffff" >阿彌陀佛，原來施主不是刑均可。放下屠刀立地成佛，還望施主隨我去投案。</font>
 storymenu_42015_5=<font face="Default" color="#ffffff" >阿彌陀佛，休怪小僧無禮了！</font>
@@ -443,4 +436,11 @@ story_42003_1=<font face="Default" color="#ffffff" >我寺與嵩山鐵劍門結�
 story_42004_1=<font face="Default" color="#ffffff" >豈有此理！你去嵩山鐵劍門將解藥取來，並且幫我少林給那群烏合之眾一些顏色瞧瞧！</font>
 storymenu_42003_1=<font face="Default" color="#ffffff" >哼！易筋經奈少林絕學，豈能如此便交給嵩山鐵劍門？！不知少林與嵩山鐵劍門的恩怨是否也與這易筋經有關？</font>
 storymenu_42015_3=<font face="Default" color="#ffffff" >閣下報復為何殺的儘是城中的大戶？</font>
+DialogID_42031=<s>可疑人物的話，最近西域僧侶倒是有時會在後山出沒，不過被我發現就立刻又離開了。
+SubmitNpcEx_18865=<s>替杭明輝規勸<a href="findnpc_new,school08,WorldNpc00392" style="HLStype1">中年僧侶</a>修佛向善
+SubmitNpcEx_18866=<s>與<a href="findnpc_new,school08,WorldNpc00392" style="HLStype1">中年僧侶</a>交談
+collectinfo_42044=完成<a href="findnpc_new,school08,WorldNpc00392" style="HLStype1">中年僧侶</a>交代的事情
+interactinfo_42032=詢問<a href="findnpc_new,school08,WorldNpc00359" style="HLStype1">西域僧侶</a>出沒後山的原因
+storyinfo_42008=聽<a href="findnpc_new,school08,WorldNpc00392" style="HLStype1">中年僧侶</a>訴說
+storymenu_42015_1=<font face="Default" color="#ffffff" >阿彌陀佛！施主為何在城中多日行兇？！幹盡壞事！</font>
 

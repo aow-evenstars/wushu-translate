@@ -12,6 +12,10 @@ DialogID_76331=<font face="Default" color="#d62252" >（眉头紧蹙，满是不
 DialogID_76332=<font face="Default" color="#ffffff" >还记得李将军身上的野猪牙吗？</font>
 DialogID_76335=<font face="Default" color="#ffffff" >救</font><font face="Default" color="#ffffff" >……</font><font face="Default" color="#ffffff" >救我</font>
 DialogID_76337=<font face="Default" color="#ffffff" >...</font>
+DialogID_76340=<font face="Default" color="#ffffff" >你拿着此物，方便你检查食物。</font>
+DialogID_76341=<font face="Default" color="#ffffff" >你拿着此物，方便你</font><font face="Default" color="#ffffff" >帮助医治村民</font><font face="Default" color="#ffffff" >。</font>
+DialogID_76342=<font face="Default" color="#ffffff" >你拿着此物，可以帮助你进行修缮</font>
+DialogID_76343=<font face="Default" color="#ffffff" >你拿着此物，方便你</font><font face="Default" color="#ffffff" >救援渔村。</font>
 QiecuoMenu_76301=<font face="Default" color="#ffffff" >来都来了，</font><font face="Default" color="#ffffff" >何必</font><font face="Default" color="#ffffff" >匆匆离去。</font><font face="Default" color="#ff051e" >（出招）</font>
 QiecuoMenu_76305=<font face="Default" color="#ffffff" >既然你不肯说出实情，那就只有用拳头说话了。</font>
 QiecuoMenu_76307=<font face="Default" color="#ffffff" >那就得看你有没有这个能耐了。</font>
@@ -30,8 +34,21 @@ QiecuoTitle_76313=<font face="Default" color="#ffffff" >人生苦短，春光乍
 QiecuoTitle_76314=<font face="Default" color="#ffffff" >我说什么都是对的。</font>
 QiecuoTitle_76315=<font face="Default" color="#ffffff" >红旗不倒，彩旗飘飘。我就是这样一个专一的男人。</font>
 QiecuoTitle_76317=<font face="Default" color="#ffffff" >你是何人？</font>
+SubmitNpcEx_76311=<a href="findnpc_new,city03,JQnpc_2021sy_013" style="HLStype1">苏楚楚</a>
 SubmitNpcEx_76338=与掌门<a href="findnpc_new,adv156,tls_001" style="HLStype1">鸿海</a>交谈，加入天轮寺
 SubmitNpcEx_76341=与掌门<a href="findnpc_new,adv156,tls_001" style="HLStype1">鸿海</a>交谈，加入天轮寺
+SubmitNpcEx_76342=将收集的木材交给<a href="findnpc_new,scene35,npc_2108dy_006" style="HLStype1">杭策广</a>
+SubmitNpcEx_76343=将收集的矿石交给<a href="findnpc_new,scene35,npc_2108dy_007" style="HLStype1">潘伯峰</a>
+SubmitNpcEx_76344=将收集的武器交给<a href="findnpc_new,scene35,npc_2108dy_008" style="HLStype1">慕容建</a>，让其进行统一维护
+SubmitNpcEx_76345=获取星垂城的情报交给<a href="findnpc_new,scene35,npc_2108dy_009" style="HLStype1">乐正承</a>
+SubmitNpcEx_76346=将修缮的情况告知<a href="findnpc_new,scene35,npc_2108dy_010" style="HLStype1">冷胜俊</a>
+SubmitNpcEx_76347=将战斗的结果告诉<a href="findnpc_new,scene35,npc_2108dy_011" style="HLStype1">濮阳伦</a>
+SubmitNpcEx_76348=返回<a href="findnpc_new,scene35,npc_2108dy_013" style="HLStype1">昌辉</a>处，将处理结果告知
+SubmitNpcEx_76349=将处理的结果告诉<a href="findnpc_new,scene35,npc_2108dy_017" style="HLStype1">欧阳彪</a>
+SubmitNpcEx_76350=将医治的结果告诉<a href="findnpc_new,scene35,npc_2108dy_019" style="HLStype1">司徒进</a>
+SubmitNpcEx_76351=将搜寻来的物资交给<a href="findnpc_new,scene35,npc_2108dy_020" style="HLStype1">云心鹏</a>
+SubmitNpcEx_76352=和<a href="findnpc_new,city02,ClearPKNpc001" style="HLStype1">神秘老人</a>交谈
+SubmitNpcEx_76401=与<a href="findnpc,scene35,-457.154,20.772,958.957" style="HLStype1">徐离琬</a>交谈提交任务
 choose_menu_37=你是何人？
 choose_menu_38=（光顾着想事，竟与汉王撞了个正着！）
 chooseinfo_37=询问<a href="findnpc_new,city03,JQnpc_2021sy_001" style="HLStype1">算命先生</a>有何事
@@ -46,12 +63,30 @@ collectinfo_76301=找女子<a href="findnpc_new,city03,caiji_2021zybsy_001" styl
 collectinfo_76302=采摘<a href="findnpc_new,city03,caiji_2021zybsy_002" style="HLStype1">牡丹花</a>
 collectinfo_76303=采摘<a href="findnpc_new,city03,caiji_2021zybsy_003" style="HLStype1">月季</a>
 collectinfo_76304=采摘<a href="findnpc_new,city03,caiji_2021zybsy_004" style="HLStype1">菊花</a>
-collectinfo_76305=击杀可疑的<a href="findnpc_new,city03,husong_2021zyb_004" style="HLStype1">江湖人</a>，收集五行天宫令旗
-collectinfo_76306=击杀可疑的<a href="findnpc_new,city03,husong_2021zyb_004" style="HLStype1">江湖人</a>，收集药石
+collectinfo_76305=攻克可疑的<a href="findnpc_new,city03,husong_2021zyb_004" style="HLStype1">江湖人</a>，收集五行天宫令旗
+collectinfo_76306=攻克可疑的<a href="findnpc_new,city03,husong_2021zyb_004" style="HLStype1">江湖人</a>，收集药石
 collectinfo_76307=收集灰色<a href="findnpc_new,city03,caiji_2021zybsy_005" style="HLStype1">粉末</a>
 collectinfo_76308=狩猎<a href="findnpc_new,city03,npc_tls_dy_26" style="HLStype1">野猪</a>，收集野猪牙
 collectinfo_76309=通过<a href="findnpc_new,adv156,npc_tianlun_kyf_001" style="HLStype1">兰方</a>的审核，获得天轮寺的门派信物（可与<a href="findnpc_new,scene32,npc_tls_dy_33" style="HLStype1">温师叔</a>对话快速前往天轮寺）
 collectinfo_76310=通过<a href="findnpc_new,adv156,npc_tianlun_kyf_003" style="HLStype1">巴莉</a>的审核，获得天轮寺的门派信物（可与<a href="findnpc_new,scene32,npc_tls_dy_009" style="HLStype1">仁真堂主</a>对话快速前往天轮寺）
+collectinfo_76311=在附近搜寻适合打造防御措施的<a href="findnpc_new,scene35,Gather_2108dy_001" style="HLStype1">橡木</a>
+collectinfo_76312=在附近搜寻适合打造防御措施的<a href="findnpc_new,scene35,Gather_2108dy_002" style="HLStype1">榆木</a>
+collectinfo_76313=在附近搜寻适合打造防御措施的<a href="findnpc_new,scene35,Gather_2108dy_003" style="HLStype1">松木</a>
+collectinfo_76314=在附近挖掘适合打造新装备的<a href="findnpc_new,scene35,Gather_2108dy_004" style="HLStype1">铁矿</a>
+collectinfo_76315=在附近挖掘适合打造新装备的<a href="findnpc_new,scene35,Gather_2108dy_005" style="HLStype1">铜矿</a>
+collectinfo_76316=在附近挖掘适合打造新装备的<a href="findnpc_new,scene35,Gather_2108dy_006" style="HLStype1">银矿</a>
+collectinfo_76317=前往星垂城附近搜寻<a href="findnpc_new,scene35,Gather_2108dy_007" style="HLStype1">破损的刀剑</a>
+collectinfo_76318=前往星垂城附近搜寻<a href="findnpc_new,scene35,Gather_2108dy_008" style="HLStype1">破损的防具</a>
+collectinfo_76319=攻克<a href="findnpc_new,scene35,npc_2108dy_046" style="HLStype1">敌寇</a>，收集更多的装备
+collectinfo_76320=前往星垂城附近寻找<a href="findnpc_new,scene35,Gather_2108dy_011" style="HLStype1">破损的头盔</a>，并收集武器
+collectinfo_76321=击败星垂城附近的<a href="findnpc_new,scene35,npc_2108dy_024" style="HLStype1">敌寇</a>搜集情报
+collectinfo_76322=从<a href="findnpc_new,scene35,npc_2108dy_044" style="HLStype1">敌寇</a>身上夺取食物
+collectinfo_76323=帮助云心鹏搜寻<a href="findnpc_new,scene35,Gather_2108dy_013" style="HLStype1">物资</a>
+collectinfo_76324=从<a href="findnpc_new,scene35,npc_2108dy_048" style="HLStype1">敌寇</a>身上夺取更多的物资
+collectinfo_76325=击败<a href="findnpc_new,scene35,npc_2108dy_049" style="HLStype1">敌寇</a>，收集更多用于修缮的物件
+collectinfo_76343=击败附近的<a href="findnpc_new,scene35,npc_2108dy_047" style="HLStype1">敌寇</a>，收集更多的药材
+collectinfo_76350=闯荡江湖，在勤修苦练1000活跃度礼盒中获取勤修劵
+collectinfo_76351=闯荡江湖，获得150点功绩点后在我（任务接取人）这里兑换获得功绩劵
 convoyinfo_76301=带旋白找个<a href="findnpc_new,city03,JQnpc_2021sy_012" style="HLStype1">隐秘之处</a>躲藏
 convoyinfo_76302=跟随苏楚楚四处游玩
 convoyinfo_76303=带旋白<a href="findnpc_new,city03,JQnpc_2021sy_015" style="HLStype1">离开</a>王府
@@ -71,6 +106,13 @@ hunterinfo_76314=教训恶少<a href="findnpc_new,scene32,npc_tls_dy_36" style="
 hunterinfo_76315=教训恶少<a href="findnpc_new,scene32,npc_tls_dy_37" style="HLStype1">姚小宝</a>
 hunterinfo_76316=光天化日之下竟有<a href="findnpc_new,scene32,npc_tls_dy_005" style="HLStype1">地痞</a>当街行凶
 hunterinfo_76317=出手惩戒<a href="findnpc_new,scene32,npc_tls_dy_006" style="HLStype1">姚小宝</a>
+hunterinfo_76318=击败<a href="findnpc_new,scene35,npc_2108dy_027" style="HLStype1">敌寇</a>，保护村民
+hunterinfo_76319=击败<a href="findnpc_new,scene35,npc_2108dy_041" style="HLStype1">敌寇精英</a>，保护村民
+hunterinfo_76320=击败<a href="findnpc_new,scene35,npc_2108dy_042" style="HLStype1">敌寇精锐</a>，保护村民
+hunterinfo_76321=前往伤人凶兽<a href="findnpc_new,scene35,npc_2108dy_025" style="HLStype1">野猪</a>的藏匿处，将其击退
+hunterinfo_76322=前往伤人凶兽<a href="findnpc_new,scene35,npc_2108dy_026" style="HLStype1">野狗</a>的藏匿处，将其击退
+hunterinfo_76323=击败袭击渔村的<a href="findnpc,scene35,-503.237,24.599,998.819" style="HLStype1">倭寇</a>
+hunterinfo_76324=击败袭击渔村的<a href="findnpc,scene35,-505.326,24.599,999.069" style="HLStype1">倭寇高手</a>
 interactinfo_76301=<a href="findnpc_new,city03,EventyNpc_2021sy_001" style="HLStype1">离开夫子庙</a>
 interactinfo_76302=算命<a href="findnpc_new,city03,JQnpc_2021sy_001" style="HLStype1">吴先生</a>为你推算命理
 interactinfo_76303=<a href="findnpc_new,city03,EventyNpc_2021sy_004" style="HLStype1">前往夫子庙</a>
@@ -100,7 +142,7 @@ interactinfo_76326=夺取<a href="findnpc,city03,1335.349,0.141,1819.298" style=
 interactinfo_76327=追击<a href="findnpc_new,city03,Eventnpc_tls_dy_01" style="HLStype1">黑衣人</a>
 interactinfo_76328=询问<a href="findnpc_new,city03,npc_tls_dy_22" style="HLStype1">谢若宁</a>是否受伤
 interactinfo_76329=继续追击<a href="findnpc_new,city03,Eventnpc_tls_dy_02" style="HLStype1">黑衣人</a>
-interactinfo_76330=检查<a href="findnpc_new,city03,npc_tls_dy_23" style="HLStype1">尸体</a>
+interactinfo_76330=检查<a href="findnpc_new,city03,npc_tls_dy_23" style="HLStype1">遗骸</a>
 interactinfo_76331=询问<a href="findnpc_new,city03,npc_tls_dy_24" style="HLStype1">谢若宁</a>的意见
 interactinfo_76332=询问<a href="findnpc_new,city03,npc_tls_dy_25" style="HLStype1">谢若宁</a>的想法
 interactinfo_76333=前往<a href="findnpc_new,scene32,Eventnpc_tls_dy_03" style="HLStype1">永夜城</a>（可与<a href="findnpc_new,city03,npc_tls_dy_25" style="HLStype1">谢若宁</a>对话快速前往永夜城）
@@ -110,6 +152,10 @@ interactinfo_76336=寻找<a href="findnpc_new,scene32,Eventnpc_tls_dy_04" style=
 interactinfo_76337=手中的求援书应就是<a href="findnpc_new,scene32,npc_tls_dy_001" style="HLStype1">哑女</a>所书
 interactinfo_76338=前往<a href="findnpc_new,scene32,Eventnpc_tls_dy_001" style="HLStype1">永夜城</a>
 interactinfo_76339=寻找恶少<a href="findnpc_new,scene32,Eventnpc_tls_dy_002" style="HLStype1">姚小宝</a>
+interactinfo_76340=向<a href="findnpc_new,scene35,npc_2108dy_017" style="HLStype1">欧阳彪</a>索要检查食物的工具
+interactinfo_76341=与<a href="findnpc_new,scene35,npc_2108dy_019" style="HLStype1">司徒进</a>交谈，获取医治村民的药物
+interactinfo_76342=收下<a href="findnpc_new,scene35,npc_2108dy_010" style="HLStype1">冷胜俊</a>给的工具
+interactinfo_76343=与<a href="findnpc,scene35,-457.154,20.772,958.957" style="HLStype1">徐离琬</a>交谈
 okmenu_76302=<font face="Default" color="#ffffff" >我还有要事在身，先生还是另找他人吧</font><font face="Default" color="#ffffff" >。</font>
 okmenu_76303=
 okmenu_76305=<font face="Default" color="#ff050d" >（猝不及防）</font><font face="Default" color="#ffffff" >……</font><font face="Default" color="#ffffff" >得想想他法。比如，</font><font face="Default" color="#ffffff" >塞给我字条的少年</font><font face="Default" color="#ffffff" >。</font>
@@ -123,6 +169,10 @@ okmenu_76331=<font face="Default" color="#ffffff" >……光天化日之下，�
 okmenu_76332=<font face="Default" color="#ffffff" >那獠牙不似中原品种</font><font face="Default" color="#ffffff" >……</font><font face="Default" color="#ffffff" >稍等片刻，我去去就来。</font>
 okmenu_76335=<font face="Default" color="#d61330" >（替他松绑）</font><font face="Default" color="#ffffff" >这位</font><font face="Default" color="#ffffff" >小兄弟，谁将你捆在这里的？</font>
 okmenu_76337=<font face="Default" color="#ffffff" >姑娘，这封</font><font face="Default" color="#ffffff" >求援书</font><font face="Default" color="#ffffff" >是你所写吗？</font>
+okmenu_76340=<font face="Default" color="#ffffff" >如此甚好</font>
+okmenu_76341=<font face="Default" color="#ffffff" >如此甚好</font>
+okmenu_76342=<font face="Default" color="#ffffff" >多谢</font>
+okmenu_76343=<font face="Default" color="#ffffff" >多谢。</font>
 quest_menu_76301=<font face="Default" color="#ffffff" >尝试猜出是什么酒</font>
 quest_menu_76302=<font face="Default" color="#ffffff" >尝试猜出是什么酒</font>
 quest_menu_76303=<font face="Default" color="#ffffff" >尝试猜出是什么酒</font>
@@ -173,7 +223,7 @@ story_76316_1=<font face="Default" color="#ffffff" >……我先是夺得选美�
 story_76317_1=<font face="Default" color="#ffffff" >制魂咒</font><font face="Default" color="#ffffff" >，源自南疆，极为阴邪。</font>
 story_76317_2=<font face="Default" color="#ffffff" >实不相瞒</font><font face="Default" color="#ffffff" >，我是女秀才刘莫邪的</font><font face="Default" color="#ffffff" >部</font><font face="Default" color="#ffffff" >下。</font>
 story_76317_3=<font face="Default" color="#ffffff" >刘莫邪，昔日曾被太祖皇帝召于殿上面试，因赏识她的才华，赐下女秀才名号。她为人豁达，广交文士名流，与宁国长公主亦是密友。</font>
-story_76317_4=<font face="Default" color="#ffffff" >他不过是个暴虐百姓、枉杀忠良的篡位贼子而已。此次画舫选美，便是汉王奉其命执行，挑选无辜女子活祭。她们被关在莫愁湖行宫中，只待十日之后的祭天大典，便要送往紫金山圜丘坛，化为亡魂了。</font>
+story_76317_4=<font face="Default" color="#ffffff" >他不过是个残害百姓、枉杀忠良的篡位贼子而已。此次画舫选美，便是汉王奉其命执行，挑选无辜女子活祭。她们被关在莫愁湖行宫中，只待十日之后的祭天大典，便要送往紫金山圜丘坛，化为亡魂了。</font>
 story_76317_5=<font face="Default" color="#ffffff" >正是。刘秀才说此事若是借得您一臂之力，必有所成。她还要我转告，久仰侠名，愿与您坦诚一叙。</font>
 story_76318_1=<font face="Default" color="#ffffff" >侠士义名我早有耳闻，今日得见真容，果然令人惊羡。听闻您断案如神，此次邀请前来便是有个不情之请！</font>
 story_76318_2=<font face="Default" color="#ffffff" >我与宁国长公主交好多年，看她与驸马爷夫妻和睦，恩爱圆满。岂料前阵子，驸马意外溺亡，公主哀恸不已，连饮食俱各减了。</font>
@@ -194,7 +244,7 @@ story_76323_2=<font face="Default" color="#ffffff" >无须再调查了，真凶�
 story_76323_3=<font face="Default" color="#ff0026" >（逐渐冷静下来）</font><font face="Default" color="#ffffff" >究竟是谁，设下这一连串的阴谋陷阱！</font>
 story_76323_4=<font face="Default" color="#ffffff" >你的意思，本宫明白了。本宫并非不通情理之人，只想为陪伴多年的驸马讨个公道。</font>
 story_76324_1=<font face="Default" color="#ffffff" >圣上在“靖难之役”中与武当山有过一段渊源，因而登基以来，极为尊崇道教。那徐仲文功行双全，名声在外，因此深受圣上器重。此外，我听闻徐道长亦与都御史陈固私交甚密。</font>
-story_76324_2=<font face="Default" color="#ffffff" >此人实乃奸佞之臣，多番进献谗言，怂恿对前朝忠良赶尽杀绝，在江南文士中向有恶名。先前他无端指责驸马仍念旧主，对当今圣上心怀异心。</font>
+story_76324_2=<font face="Default" color="#ffffff" >此人实乃奸佞之臣，多番进献谗言，怂恿对前朝忠良斩草除根，在江南文士中向有恶名。先前他无端指责驸马仍念旧主，对当今圣上心怀异心。</font>
 story_76325_1=<font face="Default" color="#ffffff" >本姑娘已在此恭候多时了。你可别误会！并非我关心你，而是盟主要我来助你一臂之力。</font>
 story_76325_2=<font face="Default" color="#ffffff" >那是，本姑娘眼线众多，每每都能救你于水火。最近我方探子来报，金陵城中，紫金戏院、莫愁湖行宫、秦淮酒楼和</font><font face="Default" color="#ffffff" >道观</font><font face="Default" color="#ffffff" >，都有不少行色匆匆的外域人士出没。</font>
 story_76325_3=<font face="Default" color="#ffffff" >嗯，到时候还在此处会合！</font>
@@ -228,7 +278,7 @@ story_76333_3=<font face="Default" color="#ffffff" >父皇因早年多番带兵�
 story_76333_4=<font face="Default" color="#ffffff" >唉，此事本乃皇家辛秘，如今还是说与你听罢。这些年来，废帝生死未卜，一直是父皇心病。那徐仲文之所以受到重用，其中一由，便是父皇想假借炼丹之名，暗寻废帝下落。</font>
 story_76333_5=<font face="Default" color="#ffffff" >话说回来，此次你欠本王一条命，日后本王自会有用得上你的地方。</font>
 story_76334_1=<font face="Default" color="#ffffff" >即便非他所为，也是名不正言不顺的暴君。若非他谋权夺位，何来诸多忠臣良将战死，百姓遭殃。</font>
-story_76334_2=<font face="Default" color="#ffffff" >或许你说的有几分道理，但我曾在刘秀才面前起誓，效忠旧主。若能亲手刺杀朱棣，区区性命又有何惜。</font>
+story_76334_2=<font face="Default" color="#ffffff" >或许你说的有几分道理，但我曾在刘秀才面前起誓，效忠旧主。若能亲手行刺朱棣，区区性命又有何惜。</font>
 story_76334_3=<font face="Default" color="#f9092d" >（沉默不语，陷入了沉思）</font>
 story_76335_1=<font face="Default" color="#ffffff" >不成功，便成仁。若你执意拦我去路，可别怪剑下无情。</font>
 story_76335_2=<font face="Default" color="#f90429" >（手上举起的剑缓缓放下）</font><font face="Default" color="#ffffff" >……</font>
@@ -253,7 +303,7 @@ story_76344_1=<font face="Default" color="#ffffff" >侠士对酒见识非凡，�
 story_76345_1=<font face="Default" color="#ffffff" >酒之一道，我了解得不多，只能区分好不好喝……</font>
 story_76346_1=<font face="Default" color="#e01656" >（叹了口气）</font><font face="Default" color="#ffffff" >有过几面之缘。李将军生前骁勇善战，武艺高超，常人想要近他身侧绝非易事，不料竟命丧于此……</font>
 story_76346_2=<font face="Default" color="#f20e30" >（凝视了你好一会）</font><font face="Default" color="#ffffff" >抱歉，把你拖下水。实不相瞒，我去倾城酒坊是为了守株待兔，追捕大盗管辉。</font>
-story_76346_3=<font face="Default" color="#ffffff" >此人出身外域武林，真名不详，前些日子入宫盗取御酒和数件国库珍宝，六扇门正着人全力搜捕。因他嗜酒如命，我们在全城的酒坊都设了埋伏，不料今日还是让他逃了。李将军遇害一事，就算他不是凶手，也脱不了干系。</font>
+story_76346_3=<font face="Default" color="#ffffff" >此人出身外域武林，真名不详，前些日子入宫盗取御酒和数件国库珍宝，六扇门正着人全力搜捕。因他爱酒如命，我们在全城的酒坊都设了埋伏，不料今日还是让他逃了。李将军遇害一事，就算他不是凶手，也脱不了干系。</font>
 story_76347_1=<font face="Default" color="#ffffff" >此人狡诈异常，一路上躲过数道官府设卡，依脚印推断，应该</font><font face="Default" color="#ffffff" >是往西北方向</font><font face="Default" color="#ffffff" >。</font>
 story_76347_2=
 story_76348_1=<font face="Default" color="#ffffff" >以老汉我多年打猎的经验来看，此獠牙绝非中原野猪所出。你看这前端，是不是像匕首形状，此品种应是来自于西北地区，甚至还要再远一些。</font>
@@ -266,7 +316,7 @@ story_76352_1=<font face="Default" color="#ffffff" >怎会不记得，你离开�
 story_76353_1=<font face="Default" color="#ffffff" >天轮寺</font><font face="Default" color="#ffffff" >可是外域武林一等一嚣张的门派，门中那一位温长老经常来永夜城“荡恶”，就现在这时辰</font><font face="Default" color="#ffffff" >，</font><font face="Default" color="#ffffff" >你在周围逛逛，保证有所收获——等等，</font><font face="Default" color="#ffffff" >东家救了天轮寺的人？！</font>
 story_76353_2=<font face="Default" color="#ffffff" >东家你有所不知。城主府大主管霍青</font><font face="Default" color="#ffffff" >乃是五行天宫的马前卒，先前无故</font><font face="Default" color="#ffffff" >暴毙，据闻是天轮寺弟子下的手，对方事后还用野猪獠牙刺穿了霍青的胸膛，挑衅之意十分明显。</font>
 story_76353_3=<font face="Default" color="#ffffff" >那天轮寺嘴上说佛、手上截活，外域但凡有些劣迹之人，谁曾躲得过他们的拳脚，早把人都得罪光了。如今惹上五行天宫，先前吃过他们亏的人，那里肯放过这机会，添油加醋以讹传讹，真相如何又有谁在乎呢。</font>
-story_76354_1=<font face="Default" color="#e51635" >（低头思考了一阵）</font><font face="Default" color="#ffffff" >管辉……我没有印象，但前两日外域大盗赤杰曾出现在这一带，此人也是嗜酒如命、见钱眼开的主。</font>
+story_76354_1=<font face="Default" color="#e51635" >（低头思考了一阵）</font><font face="Default" color="#ffffff" >管辉……我没有印象，但前两日外域大盗赤杰曾出现在这一带，此人也是爱酒如命、见钱眼开的主。</font>
 story_76355_1=<font face="Default" color="#ffffff" >都这时候了，还想着加入敝寺，你可真是嚣张……此事我做不了主，若找到温师叔，她倒可以为你引荐一二。</font>
 story_76356_1=<font face="Default" color="#ffffff" >你是何人？这二人本由我来度化，为何抢先动手。</font>
 story_76356_2=<font face="Default" color="#ffffff" >这……我倒是没想过，草率了。</font>
@@ -496,7 +546,7 @@ storymenu_76329_2=<font face="Default" color="#ffffff" >无需多言，在此守
 storymenu_76330_1=<font face="Default" color="#ffffff" >稍安勿躁，等我救你们出去！</font>
 storymenu_76331_1=<font face="Default" color="#ffffff" >如此多谢了！你先想办法将这些被徐仲文抓来的少女带出宫去，尽快找大夫医治，她们的身体禁不起折磨了。</font>
 storymenu_76331_2=<font face="Default" color="#ed1e33" >（握紧了手中的兵器）</font><font face="Default" color="#ffffff" >呵，我要去会一会那道人。</font>
-storymenu_76332_1=<font face="Default" color="#ffffff" >该活殉的是你们这些妖言惑众的无知假道。竟敢借道之名滥杀无辜，岂知真武大帝不会怒降天雷，劈你个魂飞魄散。</font>
+storymenu_76332_1=<font face="Default" color="#ffffff" >该活殉的是你们这些妖言惑众的无知假道。竟敢借道之名干尽坏事，岂知真武大帝不会怒降天雷，劈你个魂飞魄散。</font>
 storymenu_76333_1=<font face="Default" color="#fc0a1a" >（原来汉王早就知道是我劫走了旋白）</font><font face="Default" color="#ffffff" >王爷庇护之心，在下无以为报。此番闯宫，实为救人，假道士徐仲文罔顾人命，用阴邪之术炼丹，在下不能坐视不理。</font>
 storymenu_76333_2=<font face="Default" color="#e80d52" >（郑重一拜）</font><font face="Default" color="#ffffff" >是在下考虑不周，此番得以解围，还得多谢王爷。</font>
 storymenu_76333_3=<font face="Default" color="#ffffff" >服药求神仙，多为药所误。他用女子月信制药，足见荒谬。</font>
@@ -526,7 +576,7 @@ storymenu_76343_1=<font face="Default" color="#ffffff" >愿闻其详</font>
 storymenu_76343_2=<font face="Default" color="#ffffff" >多谢</font><font face="Default" color="#ffffff" >！</font>
 storymenu_76344_1=<font face="Default" color="#ffffff" >不敢当</font>
 storymenu_76345_1=<font face="Default" color="#ffffff" >简单明了，甚好</font>
-storymenu_76346_1=<font face="Default" color="#ed1250" >（检查完尸体</font><font face="Default" color="#ea1038" >，站起身</font><font face="Default" color="#ed1250" >）</font><font face="Default" color="#ffffff" >要了他性命的，并非这野猪牙，而是慢</font><font face="Default" color="#ffffff" >性</font><font face="Default" color="#ffffff" >毒药。（一顿，看向谢若宁）先前那黑衣人一出现，你便有所防范。今日我们的酒坊之行，是你有意而为之，对么？</font>
+storymenu_76346_1=<font face="Default" color="#ed1250" >（检查完遗骸</font><font face="Default" color="#ea1038" >，站起身</font><font face="Default" color="#ed1250" >）</font><font face="Default" color="#ffffff" >要了他性命的，并非这野猪牙，而是慢</font><font face="Default" color="#ffffff" >性</font><font face="Default" color="#ffffff" >毒药。（一顿，看向谢若宁）先前那黑衣人一出现，你便有所防范。今日我们的酒坊之行，是你有意而为之，对么？</font>
 storymenu_76346_2=<font face="Default" color="#ffffff" >管辉</font><font face="Default" color="#ffffff" >？</font>
 storymenu_76346_3=<font face="Default" color="#ffffff" >反正也让你搅了酒兴，就干脆一起追查此事。</font>
 storymenu_76347_1=<font face="Default" color="#ffffff" >西北方向……</font><font face="Default" color="#d81744" >（脑海中莫名浮现出了三个字）</font>
@@ -558,3 +608,14 @@ storymenu_76360_1=<font face="Default" color="#ffffff" >哈哈哈</font>
 storymenu_76361_1=<font face="Default" color="#ffffff" >如此甚好！</font>
 storymenu_76362_1=<font face="Default" color="#ffffff" >在下早就想一览天轮寺的风采，如此便恭敬不如从命了。</font>
 useiteminfo_76301=查看<a href="TASK_ITEM,useitem_tls_dy_001" style="HLStype1">碎纸片</a>
+useiteminfo_76302=前往需要巩固的<a href="findnpc_new,scene35,npc_2108dy_039" style="HLStype1">拒马</a>，使用<a href="TASK_ITEM,useitem_2108dy_001" style="HLStype1">铁锤</a>进行巩固
+useiteminfo_76303=前往需要巩固的<a href="findnpc_new,scene35,npc_2108dy_045" style="HLStype1">帐篷</a>，使用<a href="TASK_ITEM,useitem_2108dy_002" style="HLStype1">铁镐</a>进行巩固
+useiteminfo_76304=使用<a href="TASK_ITEM,useitem_2108dy_003" style="HLStype1">银勺</a>检查<a href="findnpc_new,scene35,npc_2108dy_035" style="HLStype1">食物</a>
+useiteminfo_76305=使用<a href="TASK_ITEM,useitem_2108dy_003" style="HLStype1">银勺</a>检查<a href="findnpc_new,scene35,npc_2108dy_036" style="HLStype1">水源</a>
+useiteminfo_76306=使用<a href="TASK_ITEM,useitem_2108dy_004" style="HLStype1">药物</a>帮助<a href="findnpc_new,scene35,npc_2108dy_034" style="HLStype1">村民</a>进行医治
+useiteminfo_76307=使用<a href="TASK_ITEM,useitem_2108dy_004" style="HLStype1">药物</a>帮助<a href="findnpc_new,scene35,npc_2108dy_001" style="HLStype1">村民</a>进行医治
+useiteminfo_76308=使用<a href="TASK_ITEM,useitem_2108dy_004" style="HLStype1">药物</a>帮助<a href="findnpc_new,scene35,npc_2108dy_002" style="HLStype1">村民</a>进行医治
+useiteminfo_76309=使用<a href="TASK_ITEM,useitem_2108dy_004" style="HLStype1">药物</a>帮助<a href="findnpc_new,scene35,npc_2108dy_003" style="HLStype1">村民</a>进行医治
+useiteminfo_76310=对着点燃的<a href="findnpc,scene35,-494.028,21.618,1006.790" style="HLStype1">火焰</a>使用<a href="TASK_ITEM,useitem_xcc_kyf_001" style="HLStype1">装满水的水桶</a>
+useiteminfo_76311=使用<a href="TASK_ITEM,useitem_xcc_kyf_002" style="HLStype1">止血药</a>治疗<a href="findnpc,scene35,-504.397,24.599,986.110" style="HLStype1">受伤村民</a>
+useiteminfo_76312=使用<a href="TASK_ITEM,useitem_xcc_kyf_002" style="HLStype1">止血药</a>治疗<a href="findnpc,scene35,498.422,22.721,997.915" style="HLStype1">受伤弟子</a>

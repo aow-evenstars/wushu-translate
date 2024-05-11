@@ -9,7 +9,6 @@ DialogID_43606=英雄有何事？
 DialogID_43607=找我有什麼事情？
 DialogID_43608=你為何到此？
 DialogID_43609=有什麼事情找我？
-DialogID_43610=喇嘛的事我也不是很瞭解，不過最近一定要小心。
 DialogID_43611=找我所為何事？
 DialogID_43612=有何事找我？
 DialogID_43613=你為何來此？
@@ -38,10 +37,7 @@ hunterinfo_43605=殺死<a href="findnpc_new,scene04,monf040602" style="HLStype1"
 hunterinfo_43606=殺死<a href="findnpc_new,scene04,monf040603" style="HLStype1">獵戶打手</a>
 hunterinfo_43607=殺死<a href="findnpc_new,scene04,monf040604" style="HLStype1">獵戶精英</a>
 hunterinfo_43608=殺死<a href="findnpc_new,scene04,monf040201" style="HLStype1">兇惡的土司護衛</a>
-hunterinfo_43609=殺死<a href="findnpc_new,scene04,monf041200" style="HLStype1">西域喇嘛</a>
 hunterinfo_43610=殺死<a href="findnpc_new,scene04,monf041100" style="HLStype1">外來番僧</a>
-hunterinfo_43612=殺死<a href="findnpc_new,scene04,monf041400" style="HLStype1">喇嘛護法</a>
-hunterinfo_43613=殺死<a href="findnpc_new,scene04,monf041200" style="HLStype1">西域喇嘛</a>
 hunterinfo_43614=殺死<a href="findnpc_new,scene04,monf040600" style="HLStype1">兇殘獵戶</a>
 hunterinfo_43615=殺死<a href="findnpc_new,scene04,monf040601" style="HLStype1">獵戶打探者</a>
 interactinfo_43600=與<a href="findnpc_new,scene04,WorldNpc06044" style="HLStype1">珠傑</a>交談
@@ -71,9 +67,7 @@ okmenu_43605=好的
 okmenu_43606=帕卓的爹爹已經去世了
 okmenu_43607=帕卓的爹爹已經被兇惡的土司護衛給害死了
 okmenu_43608=帕卓的爹爹已經慘死在了土司護衛的手下
-okmenu_43609=黑白子讓我問下你知道多少喇嘛的事情
 okmenu_43610=我知道了
-okmenu_43611=蒙面刺客跟喇嘛是一夥的
 okmenu_43612=獵殺者在此有個獵殺陰謀，要小心
 okmenu_43613=獵殺者在此有個獵殺陰謀，要小心
 okmenu_43614=羅追讓我來看望您，看您最近是否身體安康
@@ -100,4 +94,10 @@ collectinfo_43603=從<a href="findnpc_new,scene04,monf040500" style="HLStype1">�
 collectinfo_43607=從<a href="findnpc_new,scene04,monf040500" style="HLStype1">蒙面隱衛</a>身上找到面罩
 hunterinfo_43603=擊敗<a href="findnpc_new,scene04,monf040500" style="HLStype1">蒙面隱衛</a>
 hunterinfo_43611=擊敗<a href="findnpc_new,scene04,monf040500" style="HLStype1">蒙面隱衛</a>
+DialogID_43610=僧侶的事我也不是很瞭解，不過最近一定要小心。
+hunterinfo_43609=殺死<a href="findnpc_new,scene04,monf041200" style="HLStype1">西域僧侶</a>
+hunterinfo_43612=殺死<a href="findnpc_new,scene04,monf041400" style="HLStype1">僧侶護法</a>
+hunterinfo_43613=殺死<a href="findnpc_new,scene04,monf041200" style="HLStype1">西域僧侶</a>
+okmenu_43609=黑白子讓我問下你知道多少僧侶的事情
+okmenu_43611=蒙面刺客跟僧侶是一夥的
 

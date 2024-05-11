@@ -25,7 +25,6 @@ CompleteMenu_58016=<font face="Default" color="#ffffff" >完成四內任務「�
 CompleteMenu_58017=<font face="Default" color="#ffffff" >完成四內任務「巫馬歸軍」</font>
 CompleteMenu_58024=<font face="Default" color="#ffffff" >完成四內任務「磨刀之戰」</font>
 CompleteMenu_58031=<font face="Default" color="#ffffff" >完成四內日常任務「大戰磨刀」</font>
-CompleteMenu_58041=<font face="Default" color="#ffffff" >擋箭牌沒了，朝廷就可以對我們為所欲為了。完了完了，這下簍子捅大了。</font>
 CompleteMenu_58042=<font face="Default" color="#ffffff" >大叔，看到有四個人經過這裡嗎？</font>
 CompleteMenu_58043=<font face="Default" color="#ffffff" >這裡面有很多事情，谷主可否給弟子說一說。</font>
 accept_58001_1=<font face="Default" color="#ffffff" >磨刀堂奪我極樂谷玉如意，又布下謎題讓我極樂谷弟子去解其背後定有陰謀，與其坐以待斃，不如讓頗具實力的人主動出擊，查探磨刀堂的來歷，找出他的陰謀。</font>
@@ -33,7 +32,6 @@ accept_58002_1=<font face="Default" color="#ffffff" >安樂公將盜寶之人打
 accept_58003_1=<font face="Default" color="#ffffff" >血跡被清除，已無法繼續追尋盜寶之人的蹤跡，但是那日谷內必有盜寶之人的目擊者。詢問他們，瞭解詳細情況。</font>
 accept_58004_1=<font face="Default" color="#ffffff" >那日傳信啞僕被極樂谷主所傷也有血跡存留，沿著那個血跡嘗試尋找啞僕的蹤跡。不過一定要小心，磨刀堂的身份越來越詭異了。</font>
 accept_58005_1=<font face="Default" color="#ffffff" >既然磨刀堂已經把大部分線索都掐斷了，也只得靜下心來分析既得的線索了。去把現在獲得的情報稟告給谷主吧。</font>
-accept_58011_1=<font face="Default" color="#ffffff" >磨刀堂竟然把前去解謎題的弟子殺光了，谷主只得命令精幹弟子去解啞僕謎題。</font>
 accept_58013_1=<font face="Default" color="#ffffff" >既然磨刀堂讓我們調查那個盜寶之人的身份，先去見見安樂公，看看他那有什麼線索。</font>
 accept_58014_1=<font face="Default" color="#ffffff" >既然藍血心認定了那個盜寶之人就是巫馬歸軍，去遙見那裡問清事件始末。</font>
 accept_58015_1=<font face="Default" color="#ffffff" >通過現有的線索，我們確定了盜寶之人即是巫馬歸軍，巫馬歸軍還活著。而且我們已經找到了巫馬歸軍的蹤跡。趕緊前去抓住巫馬歸軍奪回失物！</font>
@@ -68,8 +66,6 @@ context_58002=安樂公將盜寶之人打傷，在青田殿附近必定會留有
 context_58003=血跡被清除，已無法繼續追尋盜寶之人的蹤跡，但是那日谷內必有盜寶之人的目擊者。詢問他們，瞭解詳細情況。
 context_58004=那日傳信啞僕被極樂谷主所傷，也有血跡存留，沿著那個血跡嘗試尋找啞僕的蹤跡。不過一定要小心，磨刀堂的身份越來越詭異了。
 context_58005=既然磨刀堂已經把大部分線索都掐斷了，也只得靜下心來分析既得的線索了。去把現在獲得的情報稟告給谷主吧。
-context_58011=磨刀堂竟然把前去解謎題的弟子殺光了，谷主只得命令精幹弟子去解啞僕謎題。
-context_58012=磨刀堂竟然把前去解謎題的弟子殺光了，谷主只得命令精幹弟子去解啞僕謎題。
 context_58013=既然磨刀堂讓我們調查那個盜寶之人的身份，先去見見安樂公，看看他那有什麼線索。
 context_58014=既然藍血心認定了那個盜寶之人就是巫馬歸軍，去遙見那裡問清事件始末。
 context_58015=通過現有的線索，我們確定了巫馬歸軍還活著而且偷走了玉如意，趕緊按照得知的情報前往天游宮抓住巫馬歸軍奪回失物！
@@ -207,4 +203,8 @@ title_58054=千里奔襲追蹤跡
 title_58055=螳螂捕蟬黃雀在後
 CanAcceptMenu_58050=<font face="Default" color="#ffffff" >接取任務</font><font face="Default" color="#ff3333" >（承接並完成此任務將開啟五內任務，且後續任務均不可放棄，完成門派五內任務後可找門派五內兌換員開啟屬性試煉，並不斷修煉自身內功。）</font>
 context_58032=磨刀堂中有一個鐵匠以人精血為媒鑄造邪兵，情報顯示他就在煙雨莊附近的一個山谷中。把他攻克，削弱磨刀堂的勢力。
+CompleteMenu_58041=<font face="Default" color="#ffffff" >擋箭牌沒了，朝廷就可以對我們為所欲為了。完了完了，這下簍子戳大了。</font>
+accept_58011_1=<font face="Default" color="#ffffff" >磨刀堂竟然把前去解謎題的弟子打敗了，谷主只得命令精幹弟子去解啞僕謎題。</font>
+context_58011=磨刀堂竟然把前去解謎題的弟子打敗了，谷主只得命令精幹弟子去解啞僕謎題。
+context_58012=磨刀堂竟然把前去解謎題的弟子打敗了，谷主只得命令精幹弟子去解啞僕謎題。
 

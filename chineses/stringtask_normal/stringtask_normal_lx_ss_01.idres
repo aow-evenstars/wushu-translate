@@ -8,6 +8,7 @@ CanAcceptMenu_52006=峨眉刺探周常任务（此任务不能放弃）
 CanAcceptMenu_52007=武当刺探周常任务（此任务不能放弃）
 CanAcceptMenu_52008=少林刺探周常任务（此任务不能放弃）
 CanAcceptMenu_52009=无门派刺探周常任务（此任务不能放弃）
+CanAcceptMenu_52010=<font face="Default" color="#ffffff" >望辉洲刺探周常任务（此任务不能放弃）</font>
 CanAcceptMenu_52011=前辈找我有什么事？
 CanAcceptMenu_52012=前辈找我有什么事？
 CanAcceptMenu_52013=前辈找我有什么事？
@@ -87,6 +88,7 @@ CompleteMenu_52006=我已经刺探过那些门派了。
 CompleteMenu_52007=我已经刺探过那些门派了。
 CompleteMenu_52008=我已经刺探过那些门派了。
 CompleteMenu_52009=我已经刺探过那些门派了。
+CompleteMenu_52010=<font face="Default" color="#ffffff" >我已经刺探过那些门派了。</font>
 CompleteMenu_52011=我已经巡查过了。
 CompleteMenu_52012=我已经巡查过了。
 CompleteMenu_52013=我已经巡查过了。
@@ -158,6 +160,7 @@ accept_52006_1=近来有些门派动作频繁，也许是发生什么大事了�
 accept_52007_1=近来有些门派动作频繁，也许是发生什么大事了，你去刺探一番，回来向我报告。
 accept_52008_1=近来有些门派动作频繁，也许是发生什么大事了，你去刺探一番，回来向我报告。
 accept_52009_1=近来有些门派动作频繁，也许是发生什么大事了，你去刺探一番，回来向我报告。
+accept_52010_1=<font face="Default" color="#ffffff" >近来有些门派动作频繁，也许是发生什么大事了，你去刺探一番，回来向我报告。</font>
 accept_52011_1=最近鬼鬼祟祟的人越来越多，你去周围看看情况。
 accept_52012_1=最近鬼鬼祟祟的人越来越多，你去周围看看情况。
 accept_52013_1=最近鬼鬼祟祟的人越来越多，你去周围看看情况。
@@ -237,6 +240,7 @@ complete_52006=做的不错，我没看错你，你将来前途无量！
 complete_52007=做的不错，我没看错你，你将来前途无量！
 complete_52008=做的不错，我没看错你，你将来前途无量！
 complete_52009=做的不错，我没看错你，你将来前途无量！
+complete_52010=<font face="Default" color="#ffffff" >做的不错，我没看错你，你将来前途无量！</font>
 complete_52011=太好了。
 complete_52012=太好了。
 complete_52013=太好了。
@@ -316,6 +320,7 @@ context_52006=门派之间的情报斗争愈演愈烈，参与情报收集的弟
 context_52007=门派之间的情报斗争愈演愈烈，参与情报收集的弟子越来越多，收集的情报质量参差不齐，为鼓励弟子们多收集有价值的情报，武当掌门紫阳真人决定对于能够按照他的要求完成情报刺探的弟子，奖励门派荣誉凭证70个<font color="#FF0000">（此任务每周只能完成一次，并且只有完成之后的下一周才能重新领取。在提交周常任务时会收回所有多余的刺探掌门令，请合理安排刺探活动）。</font>
 context_52008=门派之间的情报斗争愈演愈烈，参与情报收集的弟子越来越多，收集的情报质量参差不齐，为鼓励弟子们多收集有价值的情报，少林方丈玄怀大师决定对于能够按照他的要求完成情报刺探的弟子，奖励门派荣誉凭证70个<font color="#FF0000">（此任务每周只能完成一次，并且只有完成之后的下一周才能重新领取。在提交周常任务时会收回所有多余的刺探掌门令，请合理安排刺探活动）。</font>
 context_52009=门派之间的情报斗争愈演愈烈，参与情报收集的弟子越来越多，收集的情报质量参差不齐，为鼓励弟子们多收集有价值的情报，赏善罚恶使罗三决定对于能够按照他的要求完成情报刺探的弟子，奖励警我令70个<font color="#FF0000">（此任务每周只能完成一次，并且只有完成之后的下一周才能重新领取。在提交周常任务时会收回所有多余的江湖刺探令，请合理安排刺探活动）。</font>
+context_52010=门派之间的情报斗争愈演愈烈，参与情报收集的弟子越来越多，收集的情报质量参差不齐，为鼓励弟子们多收集有价值的情报，望辉洲掌门决定对于能够按照他的要求完成情报刺探的弟子，奖励300忠义点（此任务每周只能完成一次，并且只有完成之后的下一周才能重新领取。在提交周常任务时会收回所有多余的刺探掌门令，请合理安排刺探活动）
 context_52011=最近有很多可疑人物在锦衣卫周围活动，他们很可能是来这里刺探的，找到他们并把他们手里的情报抢回来。<font color="#FF0000">可疑人可能出现的位置坐标（549，125）；（565，-97）；（216，-345）；（211，156）</font>（攻克前来刺探的人或者击败可疑之人后可获得情报）
 context_52012=最近有很多可疑人物在丐帮周围活动，他们很可能是来这里刺探的，找到他们并把他们手里的情报抢回来。<font color="#FF0000">可疑人可能出现的位置坐标（547，644）；（702，412）；（592,126）；（402,300）</font>（攻克前来刺探的人或者击败可疑之人后可获得情报）
 context_52013=最近有很多可疑人物在君子堂周围活动，他们很可能是来这里刺探的，找到他们并把他们手里的情报抢回来。<font color="#FF0000">可疑人可能出现的位置坐标（139，508）；（977，696）；（680，26）；（549，350）</font>（攻克前来刺探的人或者击败可疑之人后可获得情报）
@@ -395,6 +400,7 @@ menu_52006_1=是，弟子遵命！
 menu_52007_1=是，弟子遵命！
 menu_52008_1=是，弟子遵命！
 menu_52009_1=是，弟子遵命！
+menu_52010_1=<font face="Default" color="#ffffff" >是，弟子遵命！</font>
 menu_52011_1=好的，我马上就去。
 menu_52012_1=好的，我马上就去。
 menu_52013_1=好的，我马上就去。
@@ -491,6 +497,7 @@ submit_52006=多谢掌门！
 submit_52007=多谢掌门！
 submit_52008=多谢方丈！
 submit_52009=多谢前辈！
+submit_52010=<font face="Default" color="#ffffff" >多谢掌门！</font>
 submit_52011=我已经把被盗的情报都拿回来了。
 submit_52012=我已经把被盗的情报都拿回来了。
 submit_52013=我已经把被盗的情报都拿回来了。
@@ -570,6 +577,7 @@ target_52006=按照峨眉掌门绝尘师太的要求，完成对指定门派的�
 target_52007=按照武当掌门紫阳真人的要求，完成对指定门派的刺探。
 target_52008=按照少林方丈玄怀大师的要求，完成对指定门派的刺探。
 target_52009=按照赏善罚恶使罗三的要求，完成对指定门派的刺探。
+target_52010=按照望辉洲掌门的要求，完成对指定门派的刺探。
 target_52011=完成四次巡逻
 target_52012=完成四次巡逻
 target_52013=完成四次巡逻
@@ -837,3 +845,58 @@ accept_52036_1=<font face="Default" color="#ffffff" >近来有些门派动作频
 CompleteMenu_52036=<font face="Default" color="#ffffff" >我已经刺探过那些门派了。</font>
 submit_52036=<font face="Default" color="#ffffff" >多谢住持！</font>
 complete_52036=<font face="Default" color="#ffffff" >做的不错，我没看错你，你将来前途无量！</font>
+complete_52037=<font face="Default" color="#ffffff" >做的不错，我没看错你，你将来前途无量！</font>
+submit_52037=<font face="Default" color="#ffffff" >多谢堂主！</font>
+CompleteMenu_52037=<font face="Default" color="#ffffff" >我已经刺探过那些门派了。</font>
+title_52037=情报之争（青衣阁）
+CanAcceptMenu_52037=<font face="Default" color="#ffffff" >青衣阁刺探周常任务（此任务不能放弃）</font>
+menu_52037_1=<font face="Default" color="#ffffff" >是，弟子遵命！</font>
+accept_52037_1=<font face="Default" color="#ffffff" >近来有些门派动作频繁，也许是发生什么大事了，你去刺探一番，回来向我报告。</font>
+context_52037=武林风起云涌，各大门派和势力之间的明争暗斗愈演愈烈，平日里行事低调的各大江湖势力也难免卷入其中，为及时了解各大门派的动向，鼓励弟子们多收集有价值的情报，青龙堂堂主无言决定对于能够按照他的要求完成情报刺探的弟子给予额外的奖励（此任务每周只能完成一次，并且只有完成之后的下一周才能重新领取。在提交周常任务时会收回所有多余的刺探掌门令，请合理安排刺探活动）。
+target_52037=按照青衣阁，青龙堂堂主无言的要求，完成对指定门派的刺探。
+CanAcceptMenu_52120=<font face="Default" color="#ffffff" >刑天城</font><font face="Default" color="#ffffff" >刺探周常任务（此任务不能放弃）</font>
+CanAcceptMenu_52121=<font face="Default" color="#ffffff" >前辈找我有什么事？</font>
+CanAcceptMenu_52122=<font face="Default" color="#ffffff" >这里有人来刺探情报？</font>
+CanAcceptMenu_52123=<font face="Default" color="#ffffff" >这里有人来刺探情报？</font>
+CanAcceptMenu_52124=<font face="Default" color="#ffffff" >这里有人来刺探情报？</font>
+CompleteMenu_52120=<font face="Default" color="#ffffff" >我已经刺探过那些门派了。</font>
+CompleteMenu_52121=<font face="Default" color="#ffffff" >我已经巡查过了。</font>
+CompleteMenu_52122=<font face="Default" color="#ffffff" >完成任务</font>
+CompleteMenu_52123=<font face="Default" color="#ffffff" >完成任务</font>
+CompleteMenu_52124=<font face="Default" color="#ffffff" >完成任务</font>
+accept_52120_1=<font face="Default" color="#ffffff" >近来有些门派动作频繁，也许是发生什么大事了，你去刺探一番，回来向我报告。</font>
+accept_52121_1=<font face="Default" color="#ffffff" >最近鬼鬼祟祟的人越来越多，你去周围看看情况。</font>
+accept_52122_1=<font face="Default" color="#ffffff" >这里有可疑之人出没，好像已经获得了不少我门派的情报，你在这四周看看一定要把他们找出来。</font>
+accept_52123_1=<font face="Default" color="#ffffff" >这里有可疑之人出没，好像已经获得了不少我门派的情报，你在这四周看看一定要把他们找出来。</font>
+accept_52124_1=<font face="Default" color="#ffffff" >这里有可疑之人出没，好像已经获得了不少我门派的情报，你在这四周看看一定要把他们找出来。</font>
+complete_52120=<font face="Default" color="#ffffff" >做的不错，我没看错你，你将来前途无量！</font>
+complete_52121=<font face="Default" color="#ffffff" >太好了。</font>
+complete_52122=<font face="Default" color="#ffffff" >做的不错。</font>
+complete_52123=<font face="Default" color="#ffffff" >做的不错。</font>
+complete_52124=<font face="Default" color="#ffffff" >做的不错。</font>
+context_52120=门派之间的情报斗争愈演愈烈，参与情报收集的弟子越来越多，收集的情报质量参差不齐，为鼓励弟子们多收集有价值的情报，刑天城城主决定对于能够按照他的要求完成情报刺探的弟子，奖励门派荣誉凭证70个（此任务每周只能完成一次，并且只有完成之后的下一周才能重新领取。在提交周常任务时会收回所有多余的刺探掌门令，请合理安排刺探活动）
+context_52121=最近有很多可疑人物在刑天城周围活动，他们很可能是来这里刺探的，找到他们并把他们手里的情报抢回来。可疑人可能出现的位置坐标（-362 484）；（-571，432）；攻克前来刺探的人或者击败可疑之人后可获得情报）
+context_52122=在这里鬼鬼祟祟的，一定是其他门派前来刺探的，打败他们拿回被盗走的情报。（承接巡逻日常任务的巡逻弟子可以完成，完成后可获得一份情报）
+context_52123=刑天城和我望辉洲同气连枝，最近有很多可疑人物在刑天城周围活动，他们很可能是来这里刺探的，找到他们并把他们手里的情报抢回来。可疑人可能出现的位置坐标（-362，484）；（-571，432）；攻克前来刺探的人或者击败可疑之人后可获得情报）
+context_52124=在这里鬼鬼祟祟的，一定是其他门派前来刺探的，打败他们拿回被盗走的情报。（承接巡逻日常任务的巡逻弟子可以完成，完成后可获得一份情报）
+menu_52120_1=<font face="Default" color="#ffffff" >是，弟子遵命！</font>
+menu_52121_1=<font face="Default" color="#ffffff" >好的，我马上就去。</font>
+menu_52122_1=<font face="Default" color="#ffffff" >我一定会把他们找出来的。</font>
+menu_52123_1=<font face="Default" color="#ffffff" >我一定会把他们找出来的。</font>
+menu_52124_1=<font face="Default" color="#ffffff" >我一定会把他们找出来的。</font>
+submit_52120=<font face="Default" color="#ffffff" >多谢掌门！</font>
+submit_52121=<font face="Default" color="#ffffff" >我已经把被盗的情报都拿回来了。</font>
+submit_52122=<font face="Default" color="#ffffff" >我已经打败可疑的人了。</font>
+submit_52123=<font face="Default" color="#ffffff" >我已经打败可疑的人了。</font>
+submit_52124=<font face="Default" color="#ffffff" >我已经打败可疑的人了。</font>
+target_52120=按照刑天城城主的要求，完成对指定门派的刺探。
+target_52121=完成四次巡逻
+target_52122=打败可疑的人
+target_52123=完成四次巡逻
+target_52124=打败可疑的人
+title_52120=情报之争（刑天城）
+title_52010=情报之争（望辉洲）
+title_52121=门派日常巡逻
+title_52122=可疑之人
+title_52123=门派日常巡逻
+title_52124=可疑之人

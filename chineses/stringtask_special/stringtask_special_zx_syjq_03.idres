@@ -45,13 +45,13 @@ DialogID_73950=<font face="Default" color="#ffffff" >如今纷争化解，江湖
 DialogID_73951=<font face="Default" color="#ffffff" >（目光郑重地看着你，抱拳作揖）萧堂主，后会有期！</font>
 DialogID_73952=<font face="Default" color="#ffffff" >启禀门主，在下有事禀报。</font>
 DialogID_73954=<font face="Default" color="#ffffff" >此次《武定籍》风波的来龙去脉，我已听人讲过，多亏萧堂主力挽狂澜，揭开真相，才阻止了这场武林浩劫。</font>
-DialogID_73957=<font face="Default" color="#ffffff" >这边有两具尸体……</font>
+DialogID_73957=<font face="Default" color="#ffffff" >这边有两具遗骸……</font>
 QiecuoMenu_73901=<font face="Default" color="#ffffff" >大师莫要动手，在下有事前来。</font><font face="Default" color="#ffffff" >（只能先应战）</font>
 QiecuoMenu_73903=<font face="Default" color="#ffffff" >大师且慢，我是方丈派来查找密宗线索，还请留情。</font>
 QiecuoMenu_73911=<font face="Default" color="#ffffff" >（平淡道）得罪了。</font>
 QiecuoTitle_73901=<font face="Default" color="#ffffff" >什么人？胆敢私闯少林后院？</font><font face="Default" color="#ffffff" >（说罢，就挥拳过来）</font>
 QiecuoTitle_73903=<font face="Default" color="#ffffff" >  </font><font face="Default" color="#ffffff" >来者何人？胆敢私闯藏经阁？看招！</font>
-QiecuoTitle_73911=<font face="Default" color="#ffffff" >格老子的，佛爷凭啥告诉你？</font>
+QiecuoTitle_73911=<font face="Default" color="#ffffff" >佛爷凭啥告诉你？</font>
 SubmitNpcEx_73901=<a href="findnpc_new,school08,WorldNpc00212" style="HLStype1">玄怀大师</a>（任务进行到此步骤时，可与楼下盟主弟子<a href="findnpc_new,city02,WorldNpc01158" style="HLStype1">叶飞</a>交谈，他会送你前往少林）
 SubmitNpcEx_73903=<a href="findnpc_new,school08,WorldNpc00212" style="HLStype1">玄怀大师</a>（拿到任务道具之后，可与门口少林弟子对话离开镜像场景）
 SubmitNpcEx_73905=<a href="findnpc_new,school08,WorldNpc00212" style="HLStype1">玄怀大师</a>（拿到密宗信件之后，可与身边的小和尚对话，离开藏经阁密室）
@@ -68,8 +68,8 @@ SubmitNpcEx_73919=与<a href="findnpc_new,adv146,npc_2019jq_lzy_010" style="HLSt
 SubmitNpcEx_73920=与<a href="findnpc_new,adv147,npc_2019jq_lzy_019" style="HLStype1">碧琉夙</a>交谈
 collectinfo_73901=在祖澄的故居内(清研身后的屋子就是祖澄故居）搜索留下的密宗线索（可以与<a href="findnpc_new,school08,mzjq_sl_001" style="HLStype1">清研</a>交谈，进入祖澄故居，将屋子里各种物件翻开，似乎有什么东西藏在里面。点击屋子内可疑的物品，似乎能找到线索）
 collectinfo_73902=在藏经阁搜寻密宗信件<a href="findnpc_new,," style="HLStype1"></a>（与<a href="findnpc_new,school08,mzjq_sl_003" style="HLStype1">清轲</a>对话，进入藏经阁密室，可以查看下散布在地上的经书，似乎里面会夹杂着什么线索）
-collectinfo_73903=查看<a href="findnpc_new,adv147,GatherNpc_2019jq_lzy_002" style="HLStype1">不明尸体</a>
-collectinfo_73904=查看<a href="findnpc_new,adv147,GatherNpc_2019jq_lzy_003" style="HLStype1">不明尸体</a>
+collectinfo_73903=查看<a href="findnpc_new,adv147,GatherNpc_2019jq_lzy_002" style="HLStype1">不明遗骸</a>
+collectinfo_73904=查看<a href="findnpc_new,adv147,GatherNpc_2019jq_lzy_003" style="HLStype1">不明遗骸</a>
 collectinfo_73911=前往<a href="findnpc_new,,GatherNpc_2019jq_lzy_001" style="HLStype1">蒲团</a>跪拜父母
 hunterinfo_73901=急急忙忙前往祖澄故居，遇到后院看守<a href="findnpc_new,school08,mzjq_sl_001" style="HLStype1">清研</a>，发生了冲突
 hunterinfo_73902=在祖名大师相助下，击败突然出现的<a href="findnpc_new,school08,boss_jqmz_001" style="HLStype1">神秘僧人</a>（若未完成任务离开了离开剧情场景，可以重新前往<a href="findnpc_new,school08,EventNpc_wyjq_001" style="HLStype1">少林寺山门</a>重新触发剧情完成任务）
@@ -207,7 +207,7 @@ story_73911_1=<font face="Default" color="#ffffff" >那日酒楼别过后，琉�
 story_73911_2=<font face="Default" color="#ffffff" >既然公子无碍，是否出谷</font>
 story_73911_3=<font face="Default" color="#ffffff" >公子是打算深入谷中？琉夙方才过去查看，发现前方有棋阵阻挡。棋术一道，实非琉夙所长......</font>
 story_73912_1=<font face="Default" color="#ffffff" >（背过身去，缓缓道来）家父母皆为明教中人，因明教内讧，为避祸逃亡至中原，投奔至交好友，金涛山庄庄主。</font>
-story_73912_2=<font face="Default" color="#ffffff" >我爹娘昔日待他不薄，怎知这是个狼心狗肺之徒。表面上热情相迎，暗地里却因觊觎我娘的美貌将消息走漏出去，致我爹惨死，娘也在被凌辱后悬梁自尽。我当时已被师父带到古墓学艺，对此事毫不知情。直到半年前，逸遥师妹误会杨邪师弟钟情于我，故意将此事捅破，我才知道了这个一直被师父隐瞒的真相。</font>
+story_73912_2=<font face="Default" color="#ffffff" >我爹娘昔日待他不薄，怎知这是个狼心狗肺之徒。表面上热情相迎，暗地里却因觊觎我娘的美貌将消息走漏出去，致我爹惨死，娘也在被凌辱后悬梁自尽。我当时已被师父带到古墓学艺，对此事毫不知情。直到半年前，逸遥师妹误会杨邪师弟钟情于我，故意将此事戳破，我才知道了这个一直被师父隐瞒的真相。</font>
 story_73912_3=<font face="Default" color="#ffffff" >于是，我不告而别，忍辱负重，故意接近金涛山庄少庄主金亚伟，目的便是为了给自己双亲报复。再后来的事，你们都知道了……</font>
 story_73913_1=<font face="Default" color="#ffffff" >琉夙未能按期赴约，给公子赔罪了。</font>
 story_73913_2=<font face="Default" color="#ffffff" >公子，实不相瞒，林天南林盟主，正是琉夙的生父。琉夙六岁那年，被诚意伯断言相属内媚，四十岁前恐因容貌过胜而妖祸武林。爹深怕江湖人士知晓后加害于我，便将琉夙托付给恩师，带回古墓抚养，对外则谎称爱女夭折。</font>

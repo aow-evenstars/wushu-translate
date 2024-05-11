@@ -181,7 +181,7 @@ CompleteMenu_38971=<font face="Default" color="#ffffff" >门派武学（可提�
 CompleteMenu_38972=<font face="Default" color="#ffffff" >完成任务。</font>
 CompleteMenu_38973=<font face="Default" color="#ffffff" >完成任务</font>
 CompleteMenu_38974=<font face="Default" color="#ffffff" >完成任务</font>
-accept_38801_1=<font face="Default" color="#ffffff" >最近绑匪盛行，你前去解救若干被绑架的人质。并且击败绑匪头目，据说绑匪头目是夫妻两个很是厉害，我给你一暗器你到时候用上好对付他们。</font>
+accept_38801_1=<font face="Default" color="#ffffff" >最近绑匪盛行，你前去解救若干被劫持的人质。并且击败绑匪头目，据说绑匪头目是夫妻两个很是厉害，我给你一暗器你到时候用上好对付他们。</font>
 accept_38802_1=<font face="Default" color="#ffffff" >徐家庄每日修业之一就是生火，院外的火堆需要添些柴火，你现在就去把火生旺一点吧</font>
 accept_38803_1=<font face="Default" color="#ffffff" >作为一个徐家庄的门人，要善于生火野炊，现在你需要做的，就是成为一个合格的徐家庄门人，先从做一顿可口的饭菜开始吧！去院外的大篝火</font><font face="Default" color="#ffffff" >上烤制一份食物</font>
 accept_38804_1=<font face="Default" color="#ffffff" >徐家庄后山收治了一批落难的村民，徐家庄门人需要帮助他们度过难关,我这里有衣服食物和水，你带上山交给村民。</font>
@@ -365,10 +365,10 @@ complete_38956=<font face="Default" color="#ffffff" >师弟身手不凡，他日
 complete_38957=<font face="Default" color="#ffffff" >师弟身手不凡，他日必成大器。</font>
 complete_38958=<font face="Default" color="#ffffff" >师弟身手不凡，他日必成大器。</font>
 complete_38971=<font face="Default" color="#ffffff" >你拿着庄主奖励你的玉尺令</font><font face="Default" color="#ffffff" >和庄主令</font><font face="Default" color="#ffffff" >就可以来我这边换取门派武学书页了。</font>
-complete_38972=<font face="Default" color="#ffffff" >  等你</font><font face="Default" color="#ffffff" >三清真气达到十层</font><font face="Default" color="#ffffff" >了，再来找我领取下阶段的丹药吧。</font>
-complete_38973=<font face="Default" color="#ffffff" >  等你三清真气修炼到二十层之后再来找我吧，如果我现在一次性给你，只会让你走火入魔。</font>
+complete_38972=<font face="Default" color="#ffffff" >  等你</font><font face="Default" color="#ffffff" >三清真气达到十五层</font><font face="Default" color="#ffffff" >了，再来找我领取下阶段的丹药吧。</font>
+complete_38973=<font face="Default" color="#ffffff" >  等你三清真气修炼到二十五层之后再来找我吧，如果我现在一次性给你，只会让你走火入魔。</font>
 complete_38974=<font face="Default" color="#ffffff" >  现在，所有的丹药我都已经赠予给你，以后就还看你自己的造化了，希望不要辜负我一片用心。</font>
-context_38801=最近绑匪盛行，你前去解救若干被绑架的人质。
+context_38801=最近绑匪盛行，你前去解救若干被劫持的人质。
 context_38802=徐家庄每日修业之一就是生火，院外的火堆需要添些柴火，你现在就去把火生旺一点吧
 context_38803=作为一个徐家庄的门人，要善于生火野炊，现在你需要做的，就是成为一个合格的徐家庄门人，先从做一顿可口的饭菜开始吧！
 context_38804=徐家庄后山救治了一批村民，他们身体虚弱，徐家庄门人需要帮助他们度过难关。
@@ -433,7 +433,7 @@ context_38916=徐家庄庄主<a href="findnpc_new,city05,WorldNpc09796" style="H
 context_38917=徐家庄庄主<a href="findnpc_new,city05,WorldNpc09796" style="HLStype1">徐云铮</a>要试探你的实力。
 context_38918=这个叫<a href="findnpc_new,city05,xjz_rm_002" style="HLStype1">徐小清（疯乞）</a>的小乞丐，可怜兮兮，饿得看起来要倒下的样子，给他找些吃的东西吧。
 context_38919=去徐家庄找庄主<a href="findnpc_new,city05,WorldNpc09796" style="HLStype1">徐云铮</a>商讨入门事宜。
-context_38920=感谢信有几率在解救徐家庄被绑架的弟子身上掉落。
+context_38920=感谢信有几率在解救徐家庄被劫持的弟子身上掉落。
 context_38921=去金陵找徐家庄改姓长老，他会带你去办理改姓手续。
 context_38922=<a href="findnpc_new,city05,WorldNpc09796" style="HLStype1">徐云铮</a>要你考虑下是否加入徐家庄。
 context_38923=<a href="findnpc_new,city05,xjz_rm_002" style="HLStype1">徐小清（疯乞）</a>想告诉你他的身世，去看一下吧。
@@ -443,7 +443,7 @@ context_38926=徐家庄弟子招募员要审核一下你的资质是否满足加
 context_38927=只有通过资质审核，才能加入徐家庄
 context_38928=在资格审核处接受审核，获得徐家庄审核令牌
 context_38929=徐子汐在游玩的时候丢失了一幅画卷，希望你能帮他找回来，这些丫鬟的刺绣上绣了一些当时游玩地点的风景，也许你能从中找到一些线索。
-context_38930=老者觉得你需要学会怎么敬畏生命，学会感恩，不要肆意掠夺生命。
+context_38930=老者觉得你需要学会怎么敬畏生命，学会感恩，不要肆意抢占生命。
 context_38931=只有通过资质审核，才能加入徐家庄
 context_38932=只有通过资质审核，才能加入徐家庄
 context_38949=为了证明你平时努力练功，我安排一些任务给你，看你是否能完成。
@@ -555,7 +555,7 @@ menu_38958_1=<font face="Default" color="#ffffff" >我知道。</font>
 menu_38971_1=<font face="Default" color="#ffffff" >好的，</font><font face="Default" color="#ffffff" >我这就去。</font>
 menu_38972_1=<font face="Default" color="#ffffff" >庄主有何吩咐？</font>
 menu_38973_1=<font face="Default" color="#ffffff" >庄主，我三清真气已经达到一定境界了，请赐药。</font>
-menu_38974_1=<font face="Default" color="#ffffff" >庄主，弟子三清真气已经修炼至二十层，希望可以赐予我下阶段的秘药。</font>
+menu_38974_1=<font face="Default" color="#ffffff" >庄主，弟子三清真气已经修炼至二十五层，希望可以赐予我下阶段的秘药。</font>
 next_38801=
 next_38802=
 next_38803=
@@ -705,7 +705,7 @@ target_38820=在徐家庄大篝火上制作食物
 target_38821=解开心结
 target_38822=心结
 target_38829=你就代表我派去和那些高手切磋较量一番，让他们领教一下我派的实力。
-target_38850=去找<a href="findnpc_new,city05,WorldNpc09796" style="HLStype1">徐云铮</a>庄主商谈（提交任务请先卸除宝物，否则可能退出势力失败）
+target_38850=去找<a href="findnpc_new,city05,WorldNpc09796" style="HLStype1">徐云铮</a>庄主商谈
 target_38851=去找<a href="findnpc_new,city05,WorldNpc09796" style="HLStype1">徐云铮</a>庄主商谈（提交任务请先卸除宝物，否则可能退出势力失败）
 target_38861=拜见大庄主徐云铮，聆听他的教诲。
 target_38862=在徐家庄四处走走

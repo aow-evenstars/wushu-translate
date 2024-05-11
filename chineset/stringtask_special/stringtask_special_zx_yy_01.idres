@@ -14,13 +14,10 @@ DialogID_3011_1=<font face="Default" color="#ffffff" >　　啊……我的眼�
 DialogID_3012=<font face="Default" color="#ffffff" >   多謝英雄救了我丈夫……嗚嗚……大恩大德，讓我夫妻二人如何報答……</font>
 DialogID_3012_1=<font face="Default" color="#ffffff" >   少俠放心吧，待我處理好此地事宜，就會帶你師兄回去的。</font>
 DialogID_3013=<font face="Default" color="#ffffff" >   </font><font face="Default" color="#ffffff" >{@IDName:Player}</font><font face="Default" color="#ffffff" >，你回來啦，這位就是薛穆仁薛神醫，快來見過吧，他雲遊四方，這次碰巧被我逮住，正好也可為你看看能否治好失憶之症。</font>
-DialogID_3013_1=<font face="Default" color="#ffffff" >　　你就是那九宮老頭兒救的小鬼？哎呀呀，我來此採藥，那些盜墓者可惡的很，一直攔著不讓我進山，我神功蓋世，自是不屑與他們動手的，小鬼頭快去幫我教訓教訓他們！</font>
 DialogID_3014_1=<font face="Default" color="#8fd6ef" >（這酒的顏色氣味好生奇怪……）</font>
 DialogID_3015_1=<font face="Default" color="#8fd6ef" >（這酒的顏色氣味好生奇怪……）</font>
 DialogID_3016_1=<font face="Default" color="#8fd6ef" >（這酒的顏色氣味好生奇怪……）</font>
-DialogID_3017=<font face="Default" color="#ffffff" >   哎，大家都恨不得馬上離開這鬼地方，只有一個老漢卻說什麼都不肯走，跟個賴皮孩童一般，我都不知該如何是好……</font>
 DialogID_3017_1=　　少俠，你說你在找一個矮矮瘦瘦的小孩？我剛看到一群綁匪把他押到山上的據點去了，可恨，若不是賊眾勢大，我柯俊也不會在此束手無策！少俠，我看你也是俠義之人，不如我們聯手，先把附近的雜碎除去。他們在此放哨，已經被我注意很久了！
-DialogID_3018=<font face="Default" color="#ffffff" >   唉喲喲，我這腿疼啊，走不動了……你這小鬼來幹什麼，我在這待得挺高興的，別來煩我。哦，吶，對了，你拿上這小鏟子，快</font><font face="Default" color="#ffffff" >些</font><font face="Default" color="#ffffff" >去廟后土堆那兒給我往深處挖些泥土回來！</font>
 DialogID_3018_1=　　你是誰？敢到老子的山頭來？看老子不好好收拾你！
 DialogID_3019=<font face="Default" color="#ffffff" >   少俠，你問風鈴谷怎麼走？此地就是了。</font><font face="Default" color="#ffffff" >可……</font><font face="Default" color="#ffffff" >這附近最近出現了一幫攔路劫匪，對行人恃強搶奪，還望少俠能夠為民除害……</font>
 DialogID_3019_1=　　少俠，你是來打聽風鈴谷的？此地就是。附近最近出現了一幫攔路劫匪，專門對行人進行虐殺搶奪，還望少俠能夠出手相助。
@@ -282,8 +279,6 @@ collectinfo_3021=採集<a href="findnpc_new,city02,Gather00013g" style="HLStype1
 collectinfo_3022=已撿起<a href="findnpc_new,scene04,Gather00006f" style="HLStype1">用紙包裹的酥油塊</a>
 collectinfo_3023=已搶回<a href="findnpc_new,scene04,Gather00019g" style="HLStype1">丟失的糧食</a>
 collectinfo_3024=找回<a href="findnpc_new,scene04,Gather00017f" style="HLStype1">藥簍</a>
-collectinfo_3025=從<a href="findnpc_new,scene04,monf041200" style="HLStype1">西域喇嘛</a>身上找出解藥
-collectinfo_3026=打敗<a href="findnpc_new,scene04,monf041400" style="HLStype1">喇嘛護法</a>並搶件衣服給黑白子
 collectinfo_3027=搬來放外面的<a href="findnpc_new,scene04,Gather0017mm" style="HLStype1">糧食</a>
 collectinfo_3028=用{@item}去河邊打水
 collectinfo_3029_1=收集<a href="findnpc_new,scene05,Gather00022g" style="HLStype1">當歸</a>
@@ -341,7 +336,6 @@ hunterinfo_3007=擊敗眼前這山賊頭目<a href="findnpc_new,born03,monrv0302
 hunterinfo_3008=除掉看門的<a href="findnpc_new,born03,monv030402" style="HLStype1">鬼祟山賊</a>，也好方便大家逃出
 hunterinfo_3009=<a href="findnpc_new,born03,monrv030246" style="HLStype1">高玉潔</a>很是氣惱，搶近身攻了上來
 hunterinfo_3009_1=消滅<a href="findnpc_new,born03,monrv030228" style="HLStype1">劫匪</a>
-hunterinfo_3010=想不到剛出城門，已經被<a href="findnpc_new,city02,monrc013909" style="HLStype1">北山惡匪</a>給盯上了，看來都是些趁亂打劫之輩，不如藉機除掉他們
 hunterinfo_3010_2=已消滅<a href="findnpc_new,born03,bossv030100" style="HLStype1">武霸王</a>
 hunterinfo_3011=殺敗附近的<a href="findnpc_new,born03,monv031602" style="HLStype1">廢墟盜墓者</a>
 hunterinfo_3013=擊敗<a href="findnpc_new,born03,monrv030232" style="HLStype1">攔路劫匪</a>
@@ -752,7 +746,6 @@ story_3021_2=<s>原來是這樣
 story_3022_1=最近這梨花寨周圍也不是很安分。不知什麼時候，開始流傳九陰真經重現的消息。
 story_3022_2=是的，傳言，九陰真經就在那霓裳宮中。不過，不知道這傳言是從何而來的。
 story_3023_1=　　剛剛收到線索，梨花寨裡來了一個不速之客，他就是長白派的長老侯遷。長白派在遙遠的北境，不知為何他會出現在這裡。
-story_3024_1=老夫知道你想問什麼，老夫嗜酒如命看在這壺美酒的份上，老夫就和你坦言。
 story_3024_2=九陰真經重現江湖一事，老夫略有耳聞。 老夫的兩個好友也在此處，你不妨去找他們探個究竟。
 story_3025_1=五仙教的人實在是咄咄逼人，太可惡了！
 story_3025_2=五仙教的教主，名叫白素玨。原是我霓裳宮的弟子。當年，她為了速成高手，鬼迷心竅，盜取了我宮內秘籍。老宮主將她逐出師門。後來卻不料她到了五仙教，練就了一身武功。並當上了五仙教的教主。這番，在她授命之下，終於開始尋仇來了！
@@ -766,7 +759,6 @@ story_3029_1=聽說，你正在打探星星小樓的事情對麼？我勸你莫�
 story_3029_2=具體的我也不知道，但是，這不是一件簡單的事情。我這便要離開了，還請代為向莊主辭行。
 story_3030_1=卦象顯示，你所求之事，不在西南，而在東北。並且，謀事可成，但幾多波折。呃……
 story_3030_2=凶、大凶！你在不久必有一劫，化解辦法，必須得貴人相助。這貴人，老朽也算不出來。
-story_3031_1=我平素最愛斗蛐蛐。那天我帶著寶貝「青月牙」來成都後大殺四方後，竟意外敗在了一個小孩手上。他那只黑黑小小瘦瘦的蛐蛐居然能打敗我的「青月牙」。後來我又重金收了很多上等蛐蛐，但總是打不過他的蛐蛐。唉……愁死我了。
 story_3031_2=三叔？你找我三叔何事？
 story_3032_1=這蛐蛐真不錯，一定能打贏他！
 story_3033_1=饒命饒命，千萬別殺了我。
@@ -789,7 +781,6 @@ story_3040_1=<font face="Default" color="#ffffff" >   </font><font face="Default
 story_3040_2=<font face="Default" color="#ffffff" >   </font><font face="Default" color="#ffffff" > </font><font face="Default" color="#ffffff" >如你所見，</font><font face="Default" color="#ffffff" >一切皆</font><font face="Default" color="#ffffff" >因這</font><font face="Default" color="#ffffff" >位</font><font face="Default" color="#ffffff" >黑白子老前輩所起，</font><font face="Default" color="#ffffff" >詳細</font><font face="Default" color="#ffffff" >情由，你可</font><font face="Default" color="#ffffff" >以向一旁</font><font face="Default" color="#ffffff" >的水無心</font><font face="Default" color="#ffffff" >芳主詢問</font><font face="Default" color="#ffffff" >。</font>
 story_3041_1=<font face="Default" color="#ffffff" >   難得你有這份心，</font><font face="Default" color="#ffffff" >昔日與那火工頭陀比武較技，卻遭他施陰手暗算，傷了眼睛，實在慚愧難當……待我休養一番，定讓他好看！</font>
 story_3041_2=<font face="Default" color="#ffffff" >   這些蠢材相陪怕只會讓我功夫越來越差，還是放他們出去的好！一會你去通知他們</font><font face="Default" color="#ffffff" >快些離開</font><font face="Default" color="#ffffff" >，否則，休怪我打斷他們的狗腿，廢掉他們武功！</font>
-story_3041_3=<font face="Default" color="#ffffff" >   咦？你這小鬼頸</font><font face="Default" color="#ffffff" >側</font><font face="Default" color="#ffffff" >的印記似是西北某部落的特有圖騰，不知你歸誰門下？</font>
 story_3041_4=<font face="Default" color="#ffffff" >   我也只是道聽途說，你能被九宮老兒所救，也是你的造化，等時候到了，你自然能找到想知道的一切……你幫我治眼傷，我也不能欠你人情，你去找水無心那丫頭拿上寶庫鑰匙去選幾件禮物吧。</font>
 story_3042_1=<font face="Default" color="#ffffff" >  </font><font face="Default" color="#ffffff" > </font><font face="Default" color="#ffffff" >此花開時鮮艷欲滴，從花瓣到根莖卻硬似鋼鐵，三年開花一次，每次只開三個時辰，隨後花莖迅速枯萎……</font>
 story_3042_2=<font face="Default" color="#ffffff" >   這奇花生長於那風鈴園</font><font face="Default" color="#ffffff" >外圍</font><font face="Default" color="#ffffff" >的</font><font face="Default" color="#ffffff" >矮樹叢中，常人極難發現</font><font face="Default" color="#ffffff" >。</font><font face="Default" color="#ffffff" >不過</font><font face="Default" color="#ffffff" >眼下</font><font face="Default" color="#ffffff" >開花</font><font face="Default" color="#ffffff" >時辰已過，你再去也是枉然，一切都是上天注定啊……</font>
@@ -1091,4 +1082,13 @@ story_3036_2=成都城的一系列隱衛事件都是郭公公指使，用於分�
 story_3064_1=<s>我四師弟裴修華日前被人偷襲暗襲，最近又常有鬼鬼祟祟的江湖人在我浣花山莊附近活動。
 story_3070_2=<s>卦象顯示西北方乃是多災多難之地，你若一意孤行，怕是有不詳之禍。
 collectinfo_3065=打開包裹中的破舊地圖(這破地圖好像和蘇州地圖蠻像的嘛，可能由於時間久遠，與現在地形有點匹配不上了)，按照指示標記尋找到華采衣所說<a href="findnpc_new,city02,Gather0031mm" style="HLStype1">密封的大箱子</a>
+DialogID_3013_1=<font face="Default" color="#ffffff" >　　你就是那九宮老頭兒救的小傢伙？哎呀呀，我來此採藥，那些盜墓者可惡的很，一直攔著不讓我進山，我神功蓋世，自是不屑與他們動手的，小傢伙頭快去幫我教訓教訓他們！</font>
+DialogID_3017=<font face="Default" color="#ffffff" >   哎，大家都恨不得馬上離開這破地方，只有一個老漢卻說什麼都不肯走，跟個賴皮孩童一般，我都不知該如何是好……</font>
+DialogID_3018=<font face="Default" color="#ffffff" >   唉喲喲，我這腿疼啊，走不動了……你這小傢伙來幹什麼，我在這待得挺高興的，別來煩我。哦，吶，對了，你拿上這小鏟子，快</font><font face="Default" color="#ffffff" >些</font><font face="Default" color="#ffffff" >去廟后土堆那兒給我往深處挖些泥土回來！</font>
+collectinfo_3025=從<a href="findnpc_new,scene04,monf041200" style="HLStype1">西域僧侶</a>身上找出解藥
+collectinfo_3026=打敗<a href="findnpc_new,scene04,monf041400" style="HLStype1">僧侶護法</a>並搶件衣服給黑白子
+hunterinfo_3010=想不到剛出城門，已經被<a href="findnpc_new,city02,monrc013909" style="HLStype1">北山惡匪</a>給盯上了，看來都是些趁亂掠奪之輩，不如藉機除掉他們
+story_3024_1=老夫知道你想問什麼，老夫愛酒如命看在這壺美酒的份上，老夫就和你坦言。
+story_3031_1=我平素最愛斗蛐蛐。那天我帶著寶貝「青月牙」來成都後力戰群雄後，竟意外敗在了一個小孩手上。他那只黑黑小小瘦瘦的蛐蛐居然能打敗我的「青月牙」。後來我又重金收了很多上等蛐蛐，但總是打不過他的蛐蛐。唉……愁死我了。
+story_3041_3=<font face="Default" color="#ffffff" >   咦？你這小傢伙頸</font><font face="Default" color="#ffffff" >側</font><font face="Default" color="#ffffff" >的印記似是西北某部落的特有圖騰，不知你歸誰門下？</font>
 

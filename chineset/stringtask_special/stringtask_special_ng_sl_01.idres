@@ -12,7 +12,6 @@ DialogID_80011=<font face="Default" color="#ffffff" >前些日至寶之事你也
 DialogID_80013=<font face="Default" color="#ffffff" >師兄，你來了。都怪我功力不濟，那日還未出手就被那歹人震飛，還中了毒。</font>
 DialogID_80014=<font face="Default" color="#ffffff" >…………</font>
 DialogID_80016=<font face="Default" color="#ffffff" >這蛇山是我的地盤，你氣勢洶洶的來幹什麼？皮癢了嗎？</font>
-DialogID_80020=<font face="Default" color="#660000" >（一具用燈油點燃的屍體，焦黑的面孔已經無法辨認容貌，只從腰牌上依稀發現是清輩師弟）</font>
 DialogID_80021=<font face="Default" color="#ffffff" >……</font>
 DialogID_80024=<font face="Default" color="#ffffff" >祖真，你這麼快就要走了？少林現在風聲如何，有沒有人懷疑到你。不行就滾回來，不要給我丟臉。</font>
 DialogID_80026=<font face="Default" color="#ffffff" >演戲演完了？早就看出來你是偽裝，你以為你有多高明？從一開始調查祖真我就知道你這麼號人物，能走到</font><font face="Default" color="#ffffff" >我們磨刀堂</font><font face="Default" color="#ffffff" >面前也算不錯，沒辜負啞僕大人留條性命。現在想活麼？殺了祖真！</font>
@@ -190,7 +189,6 @@ story_80008_1=<font face="Default" color="#ffffff" >這群逆賊膽子卻也不�
 story_80008_2=<font face="Default" color="#ffffff" >你附耳過來，我這裡有火藥，你可以拿去……</font>
 story_menu_80006=<font face="Default" color="#ffffff" >請方丈告知弟子，弟子並非多嘴，只是實屬憂心</font>
 story_menu_80007=<font face="Default" color="#ffffff" >方丈！南少林他們……</font>
-story_menu_80008=<font face="Default" color="#ffffff" >方丈，弟子已經打探清楚，南少林所圖我少林佛骨，另有一波小團伙想要趁亂掠奪我少林經文。</font>
 storyinfo_80006=<a href="findnpc,school08,803,73,408" style="HLStype1">方丈</a>一副運籌帷幄的樣子，到底有何計劃？先聽他說上一說。
 storyinfo_80007=果然如我猜想此事有詐，即刻返回少林向<a href="findnpc_new,school08,WorldNpc00212" style="HLStype1">玄懷大師</a>告知真相。
 storyinfo_80008=與<a href="findnpc_new,school08,WorldNpc00212" style="HLStype1">玄懷大師</a>商量佈局
@@ -213,4 +211,6 @@ okmenu_80065=<font face="Default" color="#ffffff" >確定</font>
 okmenu_80066=<font face="Default" color="#ffffff" >確定</font>
 interactinfo_80028=<a href="findnpc_new,city02,npc_4nei_sl_yapu_1" style="HLStype1">啞僕</a>？又是<a href="findnpc_new,city02,npc_4nei_sl_yapu_1" style="HLStype1">啞僕</a>？磨刀堂處事居然如此毒辣，前番百般利用事後便解決後患？我不如來個將計就計……
 interactinfo_80060=江湖傳聞邢君可與莫無情躲入<a href="findnpc_new,born04,Event_5nei_sl_80060" style="HLStype1">千燈鎮</a>，已有大批隱衛湧入，先去看看情況。
+DialogID_80020=<font face="Default" color="#660000" >（一具用燈油點燃的遺骸，焦黑的面孔已經無法辨認容貌，只從腰牌上依稀發現是清輩師弟）</font>
+story_menu_80008=<font face="Default" color="#ffffff" >方丈，弟子已經打探清楚，南少林所圖我少林佛骨，另有一波小團伙想要趁亂搶佔我少林經文。</font>
 

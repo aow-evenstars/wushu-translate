@@ -92,7 +92,6 @@ context_75722=奉掌門之命去迎接路嘉平師兄回門派，卻意外得知
 context_75723=告訴大師兄曹亦安路師兄故去的消息，並將大師兄帶至路師兄墳前。
 context_75730=近來門派之中事務繁多，身為崑崙弟子豈可坐視不理。而今掌門召見，定有要事。
 context_75731=近來江湖傳聞崑崙派舊日追殺之人竟又在江湖之中出現，掌門召見必定與此事有關，還是盡快拜見掌門聽從吩咐
-context_75732=近來關於蝴蝶殺人之事盛傳江湖，人人內心惶恐。此番掌門召見，定然與此事有關。
 context_75733=聽聞俠客島上有本門不世出的高手駐紮，以助本門弟子。而且憑資質可以學習門派絕學！
 context_75734=江湖名俊玩家加入崑崙，達到基礎實力可以前往崑崙師兄處進行認證晉陞，飛速成長。
 context_75735=江湖名俊玩家加入崑崙，達到基礎實力可以前往崑崙師兄處進行認證晉陞，飛速成長。
@@ -227,7 +226,6 @@ accept_75758_1=<font face="Default" color="#ffffff" >跟隨我在瀑布下練習
 complete_75751=<font face="Default" color="#ffffff" >你為何人，前來可有何事？</font>
 complete_75752=<font face="Default" color="#ffffff" >是否已拜見雲陽子掌門？</font>
 complete_75753=<font face="Default" color="#ffffff" >年輕人還有何事？</font>
-complete_75755=<font face="Default" color="#ffffff" >既無事你且去吧，這是你的獎勵</font>
 complete_75756=<font face="Default" color="#ffffff" >收穫不錯，這是給你的獎勵</font>
 complete_75757=<font face="Default" color="#ffffff" >既已完成，這是給你的獎勵</font>
 complete_75758=<font face="Default" color="#ffffff" >你已基本掌握夢微筆譜，仍需多加練習</font>
@@ -278,4 +276,323 @@ title_75755=海島巡視
 title_75756=出海海釣
 title_75757=船隻修繕
 title_75758=瀑布習筆
+CanAcceptMenu_75760=<font face="Default" color="#ffffff" >援助村莊（可接去）</font>
+CanAcceptMenu_75761=<font face="Default" color="#ffffff" >援助村莊（可接去）</font>
+CanAcceptMenu_75762=<font face="Default" color="#ffffff" >行俠止惡（可接去）</font>
+CanAcceptMenu_75763=<font face="Default" color="#ffffff" >潛入星垂（可接</font><font face="Default" color="#ffffff" >取</font><font face="Default" color="#ffffff" >）</font>
+CanAcceptMenu_75764=<font face="Default" color="#ffffff" >制服凶獸（可接取）</font>
+CanAcceptMenu_75765=<font face="Default" color="#ffffff" >祭拜忠魂（可接取）</font>
+CanAcceptMenu_75766=<font face="Default" color="#ffffff" >巡視村莊（可接取）</font>
+CanAcceptMenu_75767=<font face="Default" color="#ffffff" >收集情報（可接取）</font>
+CanAcceptMenu_75768=<font face="Default" color="#ffffff" >醫治村民（可接取）</font>
+CanAcceptMenu_75769=<font face="Default" color="#ffffff" >採集樣本（可接取）</font>
+CanAcceptMenu_75770=<font face="Default" color="#ffffff" >擊退野獸（可接取）</font>
+CanAcceptMenu_75771=<font face="Default" color="#ffffff" >送信（可接取）</font>
+CanAcceptMenu_75772=<font face="Default" color="#ffffff" >擒獲敵軍（可接取）</font>
+CanAcceptMenu_75773=<font face="Default" color="#ffffff" >裝備維護（可接取）</font>
+CanAcceptMenu_75774=<font face="Default" color="#ffffff" >鞏固防禦（可接取）</font>
+CanAcceptMenu_75775=<font face="Default" color="#ffffff" >星垂事務·主（可接取）</font>
+CanAcceptMenu_75776=<font face="Default" color="#ffffff" >星垂事務·主（可接取）</font>
+CanAcceptMenu_75777=<font face="Default" color="#ffffff" >星垂事務·主（可接取）</font>
+CanAcceptMenu_75778=<font face="Default" color="#ffffff" >星垂事務·主（可接取）</font>
+CanAcceptMenu_75779=<font face="Default" color="#ffffff" >星垂事務·主（可接取）</font>
+CanAcceptMenu_75780=<font face="Default" color="#ffffff" >星垂事務·主（可接取）</font>
+CanAcceptMenu_75781=<font face="Default" color="#ffffff" >星垂事務·主（可接取）</font>
+CanAcceptMenu_75782=<font face="Default" color="#ffffff" >星垂事務·主（可接取）</font>
+CanAcceptMenu_75783=<font face="Default" color="#ffffff" >星垂事務·主（可接取）</font>
+CanAcceptMenu_75784=<font face="Default" color="#ffffff" >抵禦倭寇·奇襲</font><font face="Default" color="#ffffff" >（可接取）</font>
+CompleteMenu_75760=<font face="Default" color="#ffffff" >援助村莊（可</font><font face="Default" color="#ffffff" >提交</font><font face="Default" color="#ffffff" >）</font>
+CompleteMenu_75761=<font face="Default" color="#ffffff" >援助村莊（可提交）</font>
+CompleteMenu_75762=<font face="Default" color="#ffffff" >行俠止惡（可提交）</font>
+CompleteMenu_75763=<font face="Default" color="#ffffff" >潛入星垂（</font><font face="Default" color="#ffffff" >可提交</font><font face="Default" color="#ffffff" >）</font>
+CompleteMenu_75764=<font face="Default" color="#ffffff" >制服凶獸（可</font><font face="Default" color="#ffffff" >提交</font><font face="Default" color="#ffffff" >）</font>
+CompleteMenu_75765=<font face="Default" color="#ffffff" >祭拜忠魂（可</font><font face="Default" color="#ffffff" >提交</font><font face="Default" color="#ffffff" >）</font>
+CompleteMenu_75766=<font face="Default" color="#ffffff" >巡視村莊（可</font><font face="Default" color="#ffffff" >提交</font><font face="Default" color="#ffffff" >）</font>
+CompleteMenu_75767=<font face="Default" color="#ffffff" >收集情報（可</font><font face="Default" color="#ffffff" >提交</font><font face="Default" color="#ffffff" >）</font>
+CompleteMenu_75768=<font face="Default" color="#ffffff" >醫治村民（可</font><font face="Default" color="#ffffff" >提交</font><font face="Default" color="#ffffff" >）</font>
+CompleteMenu_75769=<font face="Default" color="#ffffff" >採集樣本（可提交）</font>
+CompleteMenu_75770=<font face="Default" color="#ffffff" >擊退野獸（可提交）</font>
+CompleteMenu_75771=<font face="Default" color="#ffffff" >送信（可提交）</font>
+CompleteMenu_75772=<font face="Default" color="#ffffff" >擒獲敵軍（可</font><font face="Default" color="#ffffff" >提交</font><font face="Default" color="#ffffff" >）</font>
+CompleteMenu_75773=<font face="Default" color="#ffffff" >裝備維護（可</font><font face="Default" color="#ffffff" >提交</font><font face="Default" color="#ffffff" >）</font>
+CompleteMenu_75774=<font face="Default" color="#ffffff" >鞏固防禦（可</font><font face="Default" color="#ffffff" >提交</font><font face="Default" color="#ffffff" >）</font>
+CompleteMenu_75775=<font face="Default" color="#ffffff" >星垂事務·主（可</font><font face="Default" color="#ffffff" >提交</font><font face="Default" color="#ffffff" >）</font>
+CompleteMenu_75776=<font face="Default" color="#ffffff" >星垂事務·主（可提交）</font>
+CompleteMenu_75777=<font face="Default" color="#ffffff" >星垂事務·主（可提交）</font>
+CompleteMenu_75778=<font face="Default" color="#ffffff" >星垂事務·主（可提交）</font>
+CompleteMenu_75779=<font face="Default" color="#ffffff" >星垂事務·主（可提交）</font>
+CompleteMenu_75780=<font face="Default" color="#ffffff" >星垂事務·主（可提交）</font>
+CompleteMenu_75781=<font face="Default" color="#ffffff" >星垂事務·主（可提交）</font>
+CompleteMenu_75782=<font face="Default" color="#ffffff" >星垂事務·主（可提交）</font>
+CompleteMenu_75783=<font face="Default" color="#ffffff" >星垂事務·主（可提交）</font>
+CompleteMenu_75784=<font face="Default" color="#ffffff" >抵禦倭寇·奇襲（已完成）</font>
+accept_75760_1=<font face="Default" color="#ffffff" >由於突如其來的污染導致村莊的水、食物儲配不足，請</font><font face="Default" color="#ffffff" >前去</font><font face="Default" color="#ffffff" >幫忙。</font>
+accept_75761_1=<font face="Default" color="#ffffff" >由於突如其來的污染導致村莊的水、食物儲配不足，請</font><font face="Default" color="#ffffff" >前去</font><font face="Default" color="#ffffff" >幫忙。</font>
+accept_75762_1=<font face="Default" color="#ffffff" >收到消息，在為解決星垂城危機費心費力之時，竟有奸人來此渾水摸魚，行偷盜孩童、倒賣物資的惡行，請</font><font face="Default" color="#ffffff" >前去處理下</font>
+accept_75763_1=<font face="Default" color="#ffffff" >收到可靠消息，星垂城內倭寇正在秘密研究一種藥水。請俠士秘密潛入星垂城將其配方偷出。</font>
+accept_75764_1=<font face="Default" color="#ffffff" >在星垂城附近有凶獸出沒，並且有部分村民已經被其擊傷。請俠士前去擊退凶獸。</font>
+accept_75765_1=<font face="Default" color="#ffffff" >星垂城內外有不少俠士因去查明傷害平民百姓的源頭而踏足這裡不幸殞命，他們將永遠活在眾人心中，前去祭拜下。</font>
+accept_75766_1=<font face="Default" color="#ffffff" >我們現在</font><font face="Default" color="#ffffff" >在</font><font face="Default" color="#ffffff" >星垂</font><font face="Default" color="#ffffff" >城一帶的大小村莊走訪，檢查</font><font face="Default" color="#ffffff" >村民</font><font face="Default" color="#ffffff" >身體狀況</font><font face="Default" color="#ffffff" >，但是現在人手有些不足，請俠士幫忙前去檢查村民身體狀況。</font>
+accept_75767_1=<font face="Default" color="#ffffff" >自從星垂城被倭寇佔領後，各方勢力都派遣著門下弟子對星垂城進行監視，請俠士去將最近的情報帶回。</font>
+accept_75768_1=<font face="Default" color="#ffffff" >最近樹林內一直有野獸出沒，同時那些野獸變的異常兇猛，前去巡視下。</font>
+accept_75769_1=<font face="Default" color="#ffffff" >最近，星垂城附近的污染越來越嚴重了，為了確保附近村莊內村民的安全，請俠士前去對糧食、水源進行採樣。</font>
+accept_75770_1=<font face="Default" color="#ffffff" >星垂城附近出現大量的老鼠聚集，為了</font><font face="Default" color="#ffffff" >防止</font><font face="Default" color="#ffffff" >出現鼠疫，同時防止出現老鼠傷人事件，請俠士去將老鼠擊退。</font>
+accept_75771_1=<font face="Default" color="#ffffff" >星垂城內的形勢越來越嚴峻了，需要前去通知下各村莊的村民，加強村莊的防禦。</font>
+accept_75772_1=<font face="Default" color="#ffffff" >星垂城內聚集著大量的倭寇，想辦法潛入星垂城擒獲倭寇高層，獲取倭寇後續的作戰計劃。</font>
+accept_75773_1=<font face="Default" color="#ffffff" >星垂城內聚集著大量的倭寇，戰鬥又平凡發生，裝備受損嚴重，同時有許多武器遺落在星垂城附近，請俠士前去收集些，送過來一起維護。</font>
+accept_75774_1=<font face="Default" color="#ffffff" >星垂城附近的村莊頻繁收到野獸以及倭寇的攻擊，部分區域已經有些受損，請俠士幫忙進行修繕。</font>
+accept_75775_1=<font face="Default" color="#ffffff" >星垂城</font><font face="Default" color="#ffffff" >附近擁有多個事務，請前去幫忙完成相關事務。</font>
+accept_75776_1=<font face="Default" color="#ffffff" >星垂城附近擁有多個事務，請前去幫忙完成相關事務。</font>
+accept_75777_1=<font face="Default" color="#ffffff" >星垂城附近擁有多個事務，請前去幫忙完成相關事務。</font>
+accept_75778_1=<font face="Default" color="#ffffff" >星垂城附近擁有多個事務，請前去幫忙完成相關事務。</font>
+accept_75779_1=<font face="Default" color="#ffffff" >星垂城附近擁有多個事務，請前去幫忙完成相關事務。</font>
+accept_75780_1=<font face="Default" color="#ffffff" >星垂城附近擁有多個事務，請前去幫忙完成相關事務。</font>
+accept_75781_1=<font face="Default" color="#ffffff" >星垂城附近擁有多個事務，請前去幫忙完成相關事務。</font>
+accept_75782_1=<font face="Default" color="#ffffff" >星垂城附近擁有多個事務，請前去幫忙完成相關事務。</font>
+accept_75783_1=<font face="Default" color="#ffffff" >星垂城附近擁有多個事務，請前去幫忙完成相關事務。</font>
+accept_75784_1=<font face="Default" color="#ffffff" >現在有大批的倭寇欲通過船隻在這附近登陸，前去阻止登陸。</font>
+complete_75760=<font face="Default" color="#ffffff" >辛苦俠士了，這是給與你的獎勵！</font>
+complete_75761=<font face="Default" color="#ffffff" >辛苦俠士了，這是給與你的獎勵！</font>
+complete_75762=<font face="Default" color="#ffffff" >辛苦俠士了，這是給與你的獎勵！</font>
+complete_75763=<font face="Default" color="#ffffff" >你這次的表現很不錯，順利完成了任務，這是給與你的獎勵！</font>
+complete_75764=<font face="Default" color="#ffffff" >你這次的表現很不錯，順利完成了任務，這是給與你的獎勵！</font>
+complete_75765=<font face="Default" color="#ffffff" >辛苦俠士了，</font><font face="Default" color="#ffffff" >這是給與你的獎勵！</font>
+complete_75766=<font face="Default" color="#ffffff" >辛苦俠士了，這是給與你的獎勵！</font>
+complete_75767=<font face="Default" color="#ffffff" >辛苦俠士了，這是給與你的獎勵！</font>
+complete_75768=<font face="Default" color="#ffffff" >辛苦俠士了，這是</font><font face="Default" color="#ffffff" >一點點心意請俠士務必收下</font><font face="Default" color="#ffffff" >！</font>
+complete_75769=<font face="Default" color="#ffffff" >辛苦俠士了，這是給與你的獎勵！</font>
+complete_75770=<font face="Default" color="#ffffff" >辛苦俠士了，這是給與你的獎勵！</font>
+complete_75771=<font face="Default" color="#ffffff" >辛苦俠士了，這是給與你的獎勵！</font>
+complete_75772=<font face="Default" color="#ffffff" >辛苦俠士了，這是給與你的獎勵！</font>
+complete_75773=<font face="Default" color="#ffffff" >辛苦俠士了，這是給與你的獎勵！</font>
+complete_75774=<font face="Default" color="#ffffff" >辛苦俠士了，這是給與你的獎勵！</font>
+complete_75775=<font face="Default" color="#ffffff" >辛苦俠士了，這是給與你的獎勵！</font>
+complete_75776=<font face="Default" color="#ffffff" >辛苦俠士了，這是給與你的獎勵！</font>
+complete_75777=<font face="Default" color="#ffffff" >辛苦俠士了，這是給與你的獎勵！</font>
+complete_75778=<font face="Default" color="#ffffff" >辛苦俠士了，這是給與你的獎勵！</font>
+complete_75779=<font face="Default" color="#ffffff" >辛苦俠士了，這是給與你的獎勵！</font>
+complete_75780=<font face="Default" color="#ffffff" >辛苦俠士了，這是給與你的獎勵！</font>
+complete_75781=<font face="Default" color="#ffffff" >辛苦俠士了，這是給與你的獎勵！</font>
+complete_75782=<font face="Default" color="#ffffff" >辛苦俠士了，這是給與你的獎勵！</font>
+complete_75783=<font face="Default" color="#ffffff" >辛苦俠士了，這是給與你的獎勵！</font>
+complete_75784=<font face="Default" color="#ffffff" >你做的不錯這是給你的獎勵！</font>
+context_75760=星垂城一帶有好幾個村子，已經由於污染的原因，生活物資緊缺的情況，前去援助下每個村莊。
+context_75761=星垂城一帶有好幾個村子，已經由於污染的原因，生活物資緊缺的情況，前去援助下每個村莊。
+context_75762=在江湖志士萬眾一心，為解決星垂城危機費心費力之時，竟有奸人來此渾水摸魚，行偷盜孩童、倒賣物資的惡行！
+context_75763=收到可靠消息，星垂城內倭寇正在秘密研究一種藥水。
+context_75764=在星垂城附近有凶獸出沒，並且有部分村民已經被其擊傷。
+context_75766=各大世家的醫術能者，分工協作，在星垂城一帶的大小村莊走訪，檢查百姓身體狀況。
+context_75767=徐家莊、金針沈家、長風鏢局弟子在不同位置監視著星垂城的一舉一動。
+context_75768=在一片樹林內發現一名受傷的村民，上前詢問下具體情況。
+context_75769=為了確保星垂城附近村莊內村民的安全，需要對糧食、水源進行檢測。
+context_75770=星垂城附近出現大量的老鼠聚集，為了防止出現鼠疫，需要將聚集起來的老鼠擊退。
+context_75771=星垂城內的形勢越來越嚴峻了，需要前去通知下各村莊的村民，加強村莊的防禦。
+context_75772=星垂城內聚集著大量的倭寇，想辦法潛入星垂城擒獲倭寇倭寇高層，獲取倭寇後續的作戰計劃。
+context_75773=星垂城內聚集著大量的倭寇，戰鬥又平凡發生，裝備受損嚴重，需要好好的維護。
+context_75774=星垂城附近的村莊頻繁收到野獸以及倭寇的攻擊，需要對其進行防禦鞏固。
+context_75775=星垂城附近擁有多個事務，請前去幫忙完成相關事務。
+context_75776=星垂城附近擁有多個事務，請前去幫忙完成相關事務。
+context_75777=星垂城附近擁有多個事務，請前去幫忙完成相關事務。
+context_75778=星垂城附近擁有多個事務，請前去幫忙完成相關事務。
+context_75779=星垂城附近擁有多個事務，請前去幫忙完成相關事務。
+context_75780=星垂城附近擁有多個事務，請前去幫忙完成相關事務。
+context_75781=星垂城附近擁有多個事務，請前去幫忙完成相關事務。
+context_75782=星垂城附近擁有多個事務，請前去幫忙完成相關事務。
+context_75783=星垂城附近擁有多個事務，請前去幫忙完成相關事務。
+context_75784=有大批倭寇通過船隻在少林駐地附近強行登陸，欲支援星垂城內的倭寇！
+menu_75760_1=<font face="Default" color="#ffffff" >好的，我這就去準備。</font>
+menu_75761_1=<font face="Default" color="#ffffff" >好的，我這就去準備。</font>
+menu_75762_1=<font face="Default" color="#ffffff" >好的，我這就去準備。</font>
+menu_75763_1=<font face="Default" color="#ffffff" >好的，我這就去準備。</font>
+menu_75764_1=<font face="Default" color="#ffffff" >好的，我這就去準備。</font>
+menu_75765_1=<font face="Default" color="#ffffff" >好的，我這就去準備</font>
+menu_75766_1=<font face="Default" color="#ffffff" >好的，我這就去準備</font>
+menu_75767_1=<font face="Default" color="#ffffff" >好的，我這就去準備</font>
+menu_75768_1=<font face="Default" color="#ffffff" >好的，我這就去準備</font>
+menu_75769_1=<font face="Default" color="#ffffff" >好的，我這就去準備</font>
+menu_75770_1=<font face="Default" color="#ffffff" >好的，我這就去準備</font>
+menu_75771_1=<font face="Default" color="#ffffff" >好的，我這就去準備</font>
+menu_75772_1=<font face="Default" color="#ffffff" >好的，我這就去準備</font>
+menu_75773_1=<font face="Default" color="#ffffff" >好的，我這就去準備</font>
+menu_75774_1=<font face="Default" color="#ffffff" >好的，我這就去準備</font>
+menu_75775_1=<font face="Default" color="#ffffff" >好的，我這就去準備</font>
+menu_75776_1=<font face="Default" color="#ffffff" >好的，我這就去準備</font>
+menu_75777_1=<font face="Default" color="#ffffff" >好的，我這就去準備</font>
+menu_75778_1=<font face="Default" color="#ffffff" >好的，我這就去準備</font>
+menu_75779_1=<font face="Default" color="#ffffff" >好的，我這就去準備</font>
+menu_75780_1=<font face="Default" color="#ffffff" >好的，我這就去準備</font>
+menu_75781_1=<font face="Default" color="#ffffff" >好的，我這就去準備</font>
+menu_75782_1=<font face="Default" color="#ffffff" >好的，我這就去準備</font>
+menu_75783_1=<font face="Default" color="#ffffff" >好的，我這就去準備</font>
+menu_75784_1=<font face="Default" color="#ffffff" >我這就前去幫忙</font><font face="Default" color="#ffffff" >！</font>
+submit_75760=<font face="Default" color="#ffffff" >多謝</font><font face="Default" color="#ffffff" >。</font>
+submit_75761=<font face="Default" color="#ffffff" >多謝</font><font face="Default" color="#ffffff" >。</font>
+submit_75762=<font face="Default" color="#ffffff" >多謝。</font>
+submit_75763=<font face="Default" color="#ffffff" >多謝。</font>
+submit_75764=<font face="Default" color="#ffffff" >多謝。</font>
+submit_75765=<font face="Default" color="#ffffff" >多謝。</font>
+submit_75766=<font face="Default" color="#ffffff" >多謝。</font>
+submit_75767=<font face="Default" color="#ffffff" >多謝。</font>
+submit_75768=<font face="Default" color="#ffffff" >多謝。</font>
+submit_75769=<font face="Default" color="#ffffff" >多謝。</font>
+submit_75770=<font face="Default" color="#ffffff" >多謝。</font>
+submit_75771=<font face="Default" color="#ffffff" >多謝。</font>
+submit_75772=<font face="Default" color="#ffffff" >多謝。</font>
+submit_75773=<font face="Default" color="#ffffff" >多謝。</font>
+submit_75774=<font face="Default" color="#ffffff" >多謝。</font>
+submit_75775=<font face="Default" color="#ffffff" >多謝。</font>
+submit_75776=<font face="Default" color="#ffffff" >多謝。</font>
+submit_75777=<font face="Default" color="#ffffff" >多謝。</font>
+submit_75778=<font face="Default" color="#ffffff" >多謝。</font>
+submit_75779=<font face="Default" color="#ffffff" >多謝。</font>
+submit_75780=<font face="Default" color="#ffffff" >多謝。</font>
+submit_75781=<font face="Default" color="#ffffff" >多謝。</font>
+submit_75782=<font face="Default" color="#ffffff" >多謝。</font>
+submit_75783=<font face="Default" color="#ffffff" >多謝。</font>
+submit_75784=<font face="Default" color="#ffffff" >好的！</font>
+target_75760=前去援助下物資緊缺的村莊。<br><font color="#FF0000">完成任務將獲得：門派個人積分20點；門派物資20點。返回本服後將獲得一份「處理事務」郵件獎勵。</font>
+target_75761=前去援助下物資緊缺的村莊。<br><font color="#FF0000">完成任務將獲得：門派個人積分20點；門派物資20點。返回本服後將獲得一份「處理事務」郵件獎勵。</font>
+target_75762=前去解救孩童，收取物資！<br><font color="#FF0000">完成任務將獲得：門派個人積分20點；門派物資20點。返回本服後將獲得一份「處理事務」郵件獎勵。</font>
+target_75763=潛入星垂城，竊取藥水、配方紙！<br><font color="#FF0000">完成任務將獲得：門派個人積分20點；門派物資20點。返回本服後將獲得一份「處理事務」郵件獎勵。</font>
+target_75764=擊退傷人的凶獸！<br><font color="#FF0000">完成任務將獲得：門派個人積分20點；門派物資20點。返回本服後將獲得一份「處理事務」郵件獎勵。</font>
+target_75765=前去祭拜忠魂！<br><font color="#FF0000">完成任務將獲得：門派個人積分1點；門派物資1點。</font>
+target_75766=幫助醫術能者檢查百姓身體，並送去物資！<br><font color="#FF0000">完成任務將獲得：門派個人積分1點；門派物資1點。</font>
+target_75767=獲取最近星垂城的情報。<br><font color="#FF0000">完成任務將獲得：門派個人積分1點；門派物資1點。</font>
+target_75768=救治該村民。<br><font color="#FF0000">完成任務將獲得：門派個人積分1點；門派物資1點。</font>
+target_75769=進行一次糧食、水源的樣本採集。<br><font color="#FF0000">完成任務將獲得：門派個人積分1點；門派物資1點。</font>
+target_75770=擊退聚集的老鼠。<br><font color="#FF0000">完成任務將獲得：門派個人積分1點；門派物資1點。</font>
+target_75771=通知各村莊的村民情況。<br><font color="#FF0000">完成任務將獲得：門派個人積分1點；門派物資1點。</font>
+target_75772=擒獲倭寇高層。<br><font color="#FF0000">完成任務將獲得：門派個人積分1點；門派物資1點。</font>
+target_75773=收集裝備，對裝備進行維護。<br><font color="#FF0000">完成任務將獲得：門派個人積分1點；門派物資1點。</font>
+target_75774=鞏固村莊防禦。<br><font color="#FF0000">完成任務將獲得：門派個人積分1點；門派物資1點。</font>
+target_75775=完成3個星垂城支線事務。<br><font color="#FF0000">完成任務將獲得：門派個人積分20點；門派物資20點。返回本服後將獲得一份「處理事務」郵件獎勵。</font>
+target_75776=完成3個星垂城支線事務。<br><font color="#FF0000">完成任務將獲得：門派個人積分20點；門派物資20點。返回本服後將獲得一份「處理事務」郵件獎勵。</font>
+target_75777=完成3個星垂城支線事務。<br><font color="#FF0000">完成任務將獲得：門派個人積分20點；門派物資20點。返回本服後將獲得一份「處理事務」郵件獎勵。</font>
+target_75778=完成3個星垂城支線事務。<br><font color="#FF0000">完成任務將獲得：門派個人積分20點；門派物資20點。返回本服後將獲得一份「處理事務」郵件獎勵。</font>
+target_75779=完成3個星垂城支線事務。<br><font color="#FF0000">完成任務將獲得：門派個人積分20點；門派物資20點。返回本服後將獲得一份「處理事務」郵件獎勵。</font>
+target_75780=完成3個星垂城支線事務。<br><font color="#FF0000">完成任務將獲得：門派個人積分20點；門派物資20點。返回本服後將獲得一份「處理事務」郵件獎勵。</font>
+target_75781=完成3個星垂城支線事務。<br><font color="#FF0000">完成任務將獲得：門派個人積分20點；門派物資20點。返回本服後將獲得一份「處理事務」郵件獎勵。</font>
+target_75782=完成3個星垂城支線事務。<br><font color="#FF0000">完成任務將獲得：門派個人積分20點；門派物資20點。返回本服後將獲得一份「處理事務」郵件獎勵。</font>
+target_75783=完成3個星垂城支線事務。<br><font color="#FF0000">完成任務將獲得：門派個人積分20點；門派物資20點。返回本服後將獲得一份「處理事務」郵件獎勵。</font>
+target_75784=抵禦登陸的大批倭寇！<br><font color="#FF0000">完成任務將獲得：門派個人積分5點；門派物資5點。返回本服後將獲得一份「星垂奇襲」郵件獎勵。</font>
+title_75760=援助村莊·主
+title_75761=援助村莊·主
+title_75762=行俠止惡·主
+title_75763=潛入星垂·主
+title_75764=制服凶獸·主
+title_75765=祭拜忠魂·支
+title_75766=巡視村莊·支
+title_75767=收集情報·支
+title_75768=醫治村民·支
+title_75769=採集樣本·支
+title_75770=擊退野獸·支
+title_75771=送信·支
+title_75772=擒獲敵軍·支
+title_75773=裝備維護·支
+title_75774=鞏固防禦·支
+title_75775=星垂事務·主
+title_75776=星垂事務·主
+title_75777=星垂事務·主
+title_75778=星垂事務·主
+title_75779=星垂事務·主
+title_75780=星垂事務·主
+title_75781=星垂事務·主
+title_75782=星垂事務·主
+title_75783=星垂事務·主
+title_75784=抵禦倭寇·奇襲
+complete_75755=<font face="Default" color="#ffffff" >既無事你且去吧</font>
+context_75732=近來關於蝴蝶害人之事盛傳江湖，人人內心惶恐。此番掌門召見，定然與此事有關。
+context_75765=星垂城內外都有不少江湖志士的遺骸，其中不乏名門世家，他們在早前是為了查明傷害平民百姓的源頭而踏足這裡，卻不幸殞命。
+CanAcceptMenu_75744=<font face="Default" color="#ffffff" >慰問部下</font><font face="Default" color="#ffffff" >（可承接）</font>
+CanAcceptMenu_75745=<font face="Default" color="#ffffff" >尋找老卒</font><font face="Default" color="#ffffff" >（可承接）</font>
+CanAcceptMenu_75746=<font face="Default" color="#ffffff" >惡差當道（</font><font face="Default" color="#ffffff" >可承接</font><font face="Default" color="#ffffff" >）</font>
+CanAcceptMenu_75747=<font face="Default" color="#ffffff" >墓園老者</font><font face="Default" color="#ffffff" >（可承接）</font>
+CanAcceptMenu_75748=<font face="Default" color="#ffffff" >狼群來襲</font><font face="Default" color="#ffffff" >（可承接）</font>
+CanAcceptMenu_75749=<font face="Default" color="#ffffff" >戰爭之殤（可</font><font face="Default" color="#ffffff" >承接</font><font face="Default" color="#ffffff" >）</font>
+CompleteMenu_75744=<font face="Default" color="#ffffff" >慰問部下</font><font face="Default" color="#ffffff" >（可提交）</font>
+CompleteMenu_75745=<font face="Default" color="#ffffff" >尋找老卒</font><font face="Default" color="#ffffff" >（可提交）</font>
+CompleteMenu_75746=<font face="Default" color="#ffffff" >惡差當道（</font><font face="Default" color="#ffffff" >可提交</font><font face="Default" color="#ffffff" >）</font>
+CompleteMenu_75747=<font face="Default" color="#ffffff" >墓園老者</font><font face="Default" color="#ffffff" >（可提交）</font>
+CompleteMenu_75748=<font face="Default" color="#ffffff" >狼群來襲</font><font face="Default" color="#ffffff" >（可提交）</font>
+CompleteMenu_75749=<font face="Default" color="#ffffff" >戰爭之殤</font><font face="Default" color="#ffffff" >（可提交）</font>
+accept_75744_1=<font face="Default" color="#ffffff" >年紀大了，愈發懷念以前和將士們殺敵的日子。</font>
+accept_75745_1=<font face="Default" color="#ffffff" >最近有村民搬遷到刑天城的東南方定居，可前往尋找。</font>
+accept_75746_1=<font face="Default" color="#ffffff" >你要小心，現在哪邊都不太平。</font>
+accept_75747_1=<font face="Default" color="#ffffff" >他們</font><font face="Default" color="#ffffff" >就葬在那邊墓地</font><font face="Default" color="#ffffff" >，</font><font face="Default" color="#ffffff" >你</font><font face="Default" color="#ffffff" >可以去祭拜一下。</font>
+accept_75748_1=<font face="Default" color="#ffffff" >我可憐的兒啊</font><font face="Default" color="#ffffff" >！</font>
+accept_75749_1=<font face="Default" color="#ffffff" >沒想到事情會變成這樣。</font>
+complete_75744=<font face="Default" color="#ffffff" >你來此想知道何事？</font>
+complete_75745=<font face="Default" color="#ffffff" >希望你能找到你想找的人。</font>
+complete_75746=<font face="Default" color="#ffffff" >戰爭苦的都是我們這些人啊！</font>
+complete_75747=<font face="Default" color="#ffffff" >白髮人送黑髮人</font><font face="Default" color="#ffffff" >，這該死的日子何時才是盡頭。</font>
+complete_75748=<font face="Default" color="#ffffff" >事情辦得怎麼樣了</font>
+complete_75749=<font face="Default" color="#ffffff" >我決定幫助那些刑天城的退伍老卒就近安置，避免悲劇的再次發生。</font>
+context_75744=刑天城左都督郭峰近來得知城中老兵們陸續退伍歸鄉，自感年老體衰，功力退步，但他大半生為刑天城盡忠竭力，心中無怨無悔，只是頗為思念當初的麾下老卒，因此派遣玩家前去慰問送禮。
+context_75745=回到刑天城找到斥候指揮使鐵狄，得知最近有村民搬遷到刑天城的東南方定居，於是前往尋找。
+context_75746=這些年來因為皇帝朱棣要出征漠北，所以屢屢要百姓去服徭役，但因為戰事連綿，徭役凶險，十人去一人回，百姓畏懼服役期間受苦而死，想方設法逃脫徭役。
+context_75747=前往墓園給老卒一家掃墓。
+context_75748=和老者交談。
+context_75749=戰爭是殘酷的，但是就算犧牲再多的人，我們也要取得勝利。
+menu_75744_1=<font face="Default" color="#ffffff" >都督真性情。</font>
+menu_75745_1=<font face="Default" color="#ffffff" >多謝指揮使</font>
+menu_75746_1=<font face="Default" color="#ffffff" >多謝提醒</font><font face="Default" color="#ffffff" >。</font>
+menu_75747_1=<font face="Default" color="#ffffff" >多謝告知</font>
+menu_75748_1=<font face="Default" color="#ffffff" >您就是都督麾下的老卒。</font>
+menu_75749_1=<font face="Default" color="#ffffff" >只要紛爭不停，這樣的事也不會消失。</font>
+next_75744=慰問部下
+next_75745=尋找老卒
+submit_75744=<font face="Default" color="#ffffff" >為何卸甲村已空無一人</font><font face="Default" color="#ffffff" >？</font>
+submit_75745=<font face="Default" color="#ffffff" >多謝老者掛念。</font>
+submit_75746=<font face="Default" color="#ffffff" >錯的是那些帶來戰亂的人。</font>
+submit_75747=<font face="Default" color="#ffffff" >等到異族亡國絕種</font><font face="Default" color="#ffffff" >時。</font>
+submit_75748=<font face="Default" color="#ffffff" >中間有些事可能你需要知道一下。</font>
+submit_75749=<font face="Default" color="#ffffff" >都督英明。</font>
+target_75744=慰問部下
+target_75745=尋找老卒
+target_75746=惡差當道
+target_75747=墓園老者
+target_75748=狼群來襲
+target_75749=戰爭之殤
+title_75744=慰問部下
+title_75745=尋找老卒
+title_75746=惡差當道
+title_75747=墓園老者
+title_75748=狼群來襲
+title_75749=戰爭之殤
+CanAcceptMenu_75740=<font face="Default" color="#ffffff" >虎嘯疑雲</font>
+CanAcceptMenu_75741=<font face="Default" color="#ffffff" >舊日仇恨</font>
+CanAcceptMenu_75742=<font face="Default" color="#ffffff" >控蝶秘藥</font>
+CompleteMenu_75740=<font face="Default" color="#ffffff" >虎嘯疑雲（可提交）</font>
+CompleteMenu_75741=<font face="Default" color="#ffffff" >舊日仇恨（可提交）</font>
+CompleteMenu_75742=<font face="Default" color="#ffffff" >控蝶秘藥（可提交）</font>
+accept_75740_1=<font face="Default" color="#ffffff" >來的正好！我正要派人尋你。</font>
+accept_75741_1=<font face="Default" color="#ffffff" >想不到必死之人竟又重現江湖！</font>
+accept_75742_1=<font face="Default" color="#ffffff" >來得正好，此番之事頗為棘手。</font>
+complete_75740=<font face="Default" color="#ffffff" >如今虎嘯山莊之事已在江湖傳揚開來，你做的很好。</font>
+complete_75741=<font face="Default" color="#ffffff" >此事做的很好，本將軍重重有賞。</font>
+complete_75742=<font face="Default" color="#ffffff" >好！此番之事乃是大功一件，本派重重有賞！</font>
+context_75740=近來門派之中事務繁多，身為刑天城弟子豈可坐視不理。而今掌門召見，定有要事。
+context_75741=近來江湖傳聞刑天城舊日追殺之人竟又在江湖之中出現，掌門召見必定與此事有關，還是盡快拜見掌門聽從吩咐
+context_75742=近來關於蝴蝶害人之事盛傳江湖，人人內心惶恐。此番掌門召見，定然與此事有關。
+menu_75740_1=<font face="Default" color="#ffffff" >不知掌門召見有何事吩咐？</font>
+menu_75741_1=<font face="Default" color="#ffffff" >不知</font><font face="Default" color="#ffffff" >大將軍</font><font face="Default" color="#ffffff" >所說何人？</font>
+menu_75742_1=<font face="Default" color="#ffffff" >不知</font><font face="Default" color="#ffffff" >大將軍</font><font face="Default" color="#ffffff" >所指何事？</font>
+submit_75740=<font face="Default" color="#ffffff" >多謝門主誇獎。</font>
+submit_75741=<font face="Default" color="#ffffff" >多謝</font><font face="Default" color="#ffffff" >大將軍</font><font face="Default" color="#ffffff" >賞賜。</font>
+submit_75742=<font face="Default" color="#ffffff" >多謝</font><font face="Default" color="#ffffff" >大將軍</font><font face="Default" color="#ffffff" >！</font>
+target_75740=與刑天城大將軍<a href="findnpc_new,school26,newmp_xingtb_001" style="HLStype1">刑烈</a>交談
+target_75741=與刑天城大將軍<a href="findnpc_new,school26,newmp_xingtb_001" style="HLStype1">刑烈</a>交談
+target_75742=與刑天城大將軍<a href="findnpc_new,school26,newmp_xingtb_001" style="HLStype1">刑烈</a>交談
+title_75740=虎嘯疑雲
+title_75741=舊日仇恨
+title_75742=控蝶秘藥
+CanAcceptMenu_75743=<font face="Default" color="#ffffff" >奇門置換</font>
+CompleteMenu_75743=<font face="Default" color="#ffffff" >完成任務</font>
+accept_75743_1=<font face="Default" color="#ffffff" >關於奇門武器的事，讓我慢慢給你講述。</font>
+complete_75743=<font face="Default" color="#ffffff" >少俠，需要來一把</font><font face="Default" color="#ffffff" >斧</font><font face="Default" color="#ffffff" >麼？（跟鐵匠對話，選擇奇門置換即可）</font>
+context_75743=可以前往鐵手那邊瞭解奇門置換的事項（將其他未開光生活製造武器轉成奇門武器）
+menu_75743_1=<font face="Default" color="#ffffff" >請前輩指教</font>
+submit_75743=<font face="Default" color="#ffffff" >請讓我再考慮一下</font>
+target_75743=找到鐵手瞭解奇門置換功能
+title_75743=奇門置換
 

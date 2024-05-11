@@ -30,7 +30,6 @@ trigger_debug_event_206=206:Scene:npc進入場景
 trigger_debug_event_207=207:Scene:npc離開場景
 trigger_debug_event_208=208:Scene:遊戲內部時間消息觸發
 trigger_debug_event_402=402:Player:玩家被傷害
-trigger_debug_event_403=403:Player:玩家死亡
 trigger_debug_event_404=404:Player:玩家掉線
 trigger_debug_event_405=405:Player:玩家進入場景
 trigger_debug_event_406=406:Player:玩家使用技能
@@ -102,4 +101,5 @@ trigger_debug_event_1030=1030:延遲N秒觸發29
 trigger_debug_event_1031=1031:延遲N秒觸發30
 trigger_debug_event_1060=1060:倒計時每秒觸發
 trigger_debug_event_5=5:Npc:Npc遭襲而死
+trigger_debug_event_403=403:Player:玩家犧牲
 

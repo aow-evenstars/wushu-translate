@@ -31,7 +31,7 @@ DialogID_61037=<font face="Default" color="#ffffff" >晴瑶宫...晴瑶宫...好
 DialogID_61038=<font face="Default" color="#ffffff" >少侠放心，</font><font face="Default" color="#ffffff" >救出明时月，防止武林大乱</font><font face="Default" color="#ffffff" >，我峨眉自当尽力！</font>
 DialogID_61039=<font face="Default" color="#ffffff" >阿弥陀佛，出家人不愿开杀戒，然</font><font face="Default" color="#ffffff" >明教内乱实为江湖一大隐患</font><font face="Default" color="#ffffff" >，我少林自当与各门派共患难！</font>
 DialogID_61040=<font face="Default" color="#ffffff" >武当</font><font face="Default" color="#ffffff" >门人</font><font face="Default" color="#ffffff" >已等候多时，随时可以出发!</font>
-DialogID_61042=<font face="Default" color="#ffffff" >上次晴瑶别院一役后，我又多方调查，得知冷千绝极有可能藏身于晴瑶宫，还请少侠准许我一同前往！</font>
+DialogID_61042=<font face="Default" color="#ffffff" >上次晴瑶别院一役后，我又多方调查，得知冷千绝极有可能藏身于晴瑶</font><font face="Default" color="#ffffff" >别院</font><font face="Default" color="#ffffff" >，还请少侠准许我一同前往！</font>
 DialogID_61044=<font face="Default" color="#ffffff" >......明时月啊明时月，没想到，最后明白朕的</font><font face="Default" color="#ffffff" >，竟然是你</font><font face="Default" color="#ffffff" >。</font>
 DialogID_61045=<font face="Default" color="#ffffff" >这几天，经常有陌生人在这周围出现，不知道意欲何为。</font>
 DialogID_61047=<font face="Default" color="#ffffff" >想从我这得到消息？哼，就你也配？</font><font face="Default" color="#ffffff" >你们一个个的都想抢我的功劳，岂有这等好事？看招！</font>
@@ -299,9 +299,9 @@ interactinfo_61037=去找<a href="findnpc,born03,330,136,43" style="HLStype1">�
 interactinfo_61038=与<a href="findnpc_new,city03,npc_6n_yxy_002" style="HLStype1">峨眉联络人</a>交谈。
 interactinfo_61039=与<a href="findnpc_new,city03,npc_6n_yxy_003" style="HLStype1">少林联络人</a>。
 interactinfo_61040=与<a href="findnpc_new,city03,npc_6n_yxy_004" style="HLStype1">武当联络人</a>交谈。
-interactinfo_61041=联络四方完毕，找<a href="findnpc,city03,705,4,1331" style="HLStype1">车夫</a>帮忙前去<a href="findnpc_new,born03,eventnpc_6n_yxy_004" style="HLStype1">晴瑶宫门口</a>集合，准备进攻！
+interactinfo_61041=联络四方完毕，找<a href="findnpc,city03,705,4,1331" style="HLStype1">车夫</a>帮忙前去<a href="findnpc_new,born03,eventnpc_6n_yxy_004" style="HLStype1">晴瑶别院</a>集合，准备进攻！
 interactinfo_61042=<a href="findnpc_new,born03,npc_6n_yxy_005" style="HLStype1">莫无情</a>？她有事么？上去问问。
-interactinfo_61043=<font face="Default" color="#EE2C2C" >打入晴瑶宫，寻找明时月.</font>（在禁地晴瑶宫1360，180或许能找到些线索）
+interactinfo_61043=打入<a href="findnpc_new,born03,PlotDoor_qyby_dy_01" style="HLStype1">晴瑶别院</a>，寻找明时月（在禁地晴瑶宫1372，181或许能找到些线索）
 interactinfo_61044=不见了明时月，只找到一封信，上面写着“朱棣亲启”，把信带回去交给<a href="findnpc_new,city03,WorldNpc11046" style="HLStype1">圣上</a>。
 interactinfo_61045=与<a href="findnpc_new,city04,npc_6n_yxy_010" style="HLStype1">附近的人</a>交谈，看看能不能打听到什么。
 interactinfo_61046=还是先<a href="findnpc_new,city03,event_6n_mxm06" style="HLStype1">赶往皇宫</a>请圣上定夺吧

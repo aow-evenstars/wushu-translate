@@ -5,7 +5,6 @@ DialogID_34605=你說更夫的酒杯啊，他可把那玩意當個寶貝呢，�
 DialogID_34606=就在山上北邊。
 DialogID_34607=你說長白派？他們的武功走陰柔的路子，內力更是陰森寒冷，宜速戰速決。
 DialogID_34608=他們把那木箱放在惡虎崗護衛看護的地方，年輕人，那裡有重兵把守你還是小心為妙。
-DialogID_34609=惡虎崗背後的組織？我還是勸你不要追查的太深，這是一個比當年的青龍會更加恐怖的組織。
 DialogID_34610=...
 DialogID_34611=...
 DialogID_34612=...
@@ -62,7 +61,6 @@ choosemenu_29_1_1=我想聽寶劍的故事。
 choosemenu_29_2_1=我想聽女劍客的故事。
 choosemenu_29_3_1=我想聽受傷劍客的故事。
 choosetitle_29=我有三個故事，分別是關於寶劍、女劍客和一個受傷劍客的，你想聽哪個？
-collectinfo_34600=從<a href="findnpc_new,born01,Gather0104sl" style="HLStype1">毒蛇的屍體</a>上取下蛇膽。
 collectinfo_34601=收集<a href="findnpc_new,born01,Gather0045sl" style="HLStype1">嚴家廟碑</a>
 collectinfo_34605=從<a href="findnpc_new,born01,monv010603" style="HLStype1">煤礦看護隊長</a>身上獲得酒杯
 collectinfo_34606=收集<a href="findnpc_new,born01,Gather0024sl" style="HLStype1">靈芝</a>
@@ -86,7 +84,6 @@ collectinfo_34623=去摹拓<a href="findnpc_new,born01,Gather0042sl" style="HLSt
 collectinfo_34625=採集<a href="findnpc_new,born01,Gather0031sl" style="HLStype1">黃精</a>
 collectinfo_34626=尋找<a href="findnpc_new,born01,Gather0097sl" style="HLStype1">放衣服的籃子</a>
 collectinfo_34627=殺死<a href="findnpc_new,born01,monv010700" style="HLStype1">流亡罪犯</a>取得證明物
-collectinfo_34628=搜尋<a href="findnpc_new,born01,Gather0075sl" style="HLStype1">屍體</a>找出名單
 collectinfo_34629=在<a href="findnpc_new,born01,monv010600" style="HLStype1">異族女刺客</a>身上找10個香包
 collectinfo_34631=打開<a href="findnpc_new,born01,Gather0076sl" style="HLStype1">木箱</a>看看畫像成色
 collectinfo_34632=從<a href="findnpc_new,born01,Gather0082sl" style="HLStype1">石灰袋</a>中拿5份石灰粉
@@ -299,7 +296,6 @@ story_34617_2=是啊，當年漢武大帝，經常為了汗血寶馬打仗呢。
 story_34618_1=說起這個那可就多了，給你說一個醉打金枝吧，想不想聽？
 story_34618_2=醉打金枝就是講的唐朝名將郭子儀的兒子郭曖在家宴後，借酒壯膽而痛打老婆升平公主的故事。
 story_34618_3=此時，這酒是壯膽藥，這酒是忘情水，喝高了的郭曖借著酒勁，也不顧昔日情分，把公主拖回臥室飽以一頓老拳，打的公主滿臉開桃花。這可不得了，公主立即回到娘家皇宮大院裡找自己的爹爹代宗皇帝去哭訴。郭子儀連忙把兒子捆起來送到皇宮請罪。最後，在皇帝和郭子儀的調停下，小夫妻才和好如初。
-story_34619_1=<font face="Default" color="#8fd6ef" >   （真不該來這鬼地方，都是些破爛玩意！不如送給他做個順水人情）</font><font face="Default" color="#ffffff" >咳咳，看在你幫我多次的份上，這個寶物就送給你了。記住，</font><font face="Default" color="#ffffff" >這下</font><font face="Default" color="#ffffff" >你可是欠我一個天大的人情，往後可要好生報恩。</font>
 story_34620_1=那時候我還很年輕，不停著想著怎麼樣揚名江湖，到處找人比武。那個時候天下倒也很太平，武者們經常互相切磋。
 story_34620_2=後來江湖裡突然傳出了東海白衣人的事情，說這個東海白衣人到處找人比武，力挫各路好手，雖是比武，不過其下手毒辣的很，每一個戰敗的人均是眉心一劍致死，從不留活口。
 story_34620_3=是啊，在下有幸曾一睹白衣人劍法，那天他和青城派掌門比武，青城派成名江湖已久，可都不是虛名，可是那掌門也是少年英才，剛為人父，就遇上這等事，當時他妻子抱著他的孩子偷看他比武被白衣人發現了。
@@ -429,9 +425,13 @@ hunterinfo_34659=擊敗<a href="findnpc_new,born01,monv012105" style="HLStype1">
 hunterinfo_34660=擊敗<a href="findnpc_new,born01,monv012105" style="HLStype1">惡虎崗隱衛</a>123123
 story_34600_1=<font face="Default" color="#ffffff" >老朽刀口舔血也過了大半輩子，精通攻克手段，但手實在是笨了點，莫說木鳶，連個風箏都做不好……這小丫頭不知又要去哪胡作非為了</font><font face="Default" color="#ffffff" >，還望你幫我找找她。</font>
 story_34602_1=你別看我這樣的老頭子，當年我也是江湖中有名的年輕一輩，直到有一天我去了異人莊。也是這樣一個冰天雪地的日子，我路過異人莊......
-story_34602_2=其實之前我也聽過很多傳言，比如在那裡每代莊主都必須同自己的同胞姐妹結為夫妻，這樣他們一代代的近親繁殖所生養後代，也就越來越變態、瘋狂、不具人性，身為莊主後也常常做出荒誕、血腥的事情，簡直攻克不眨眼。一開始我並不相信，結果沒想到，當年只是路過那裡，就差點被剁手跺腳，你以後經過那裡千萬不要靠近！
 story_34621_4=後來我相公替他兒子考上了，他非但沒有感謝我們，反而派了幾個隱衛在他回家的路上把我相公給殺了。這些天殺的人啊！
 story_menu_34602=異人莊
 storymenu_34602_1=異人莊那是什麼地方？
 storymenu_34621_4=這些天殺的惡虎崗隱衛！
+DialogID_34609=惡虎崗背後的組織？我還是勸你不要追查的太深，這是一個比當年的青龍會更加可怕的組織。
+collectinfo_34600=從<a href="findnpc_new,born01,Gather0104sl" style="HLStype1">毒蛇的遺骸</a>上取下蛇膽。
+collectinfo_34628=搜尋<a href="findnpc_new,born01,Gather0075sl" style="HLStype1">遺骸</a>找出名單
+story_34602_2=其實之前我也聽過很多傳言，比如在那裡每代莊主都必須同自己的同胞姐妹結為夫妻，這樣他們一代代的近親繁殖所生養後代，也就越來越反常、瘋狂、不具人性，身為莊主後也常常做出荒誕、血腥的事情，簡直攻克不眨眼。一開始我並不相信，結果沒想到，當年只是路過那裡，就差點被剁手跺腳，你以後經過那裡千萬不要靠近！
+story_34619_1=<font face="Default" color="#8fd6ef" >   （真不該來這破地方，都是些破爛玩意！不如送給他做個順水人情）</font><font face="Default" color="#ffffff" >咳咳，看在你幫我多次的份上，這個寶物就送給你了。記住，</font><font face="Default" color="#ffffff" >這下</font><font face="Default" color="#ffffff" >你可是欠我一個天大的人情，往後可要好生報恩。</font>
 

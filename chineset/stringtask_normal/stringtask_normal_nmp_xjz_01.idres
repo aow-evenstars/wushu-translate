@@ -284,7 +284,6 @@ complete_38956=<font face="Default" color="#ffffff" >師弟身手不凡，他日
 complete_38957=<font face="Default" color="#ffffff" >師弟身手不凡，他日必成大器。</font>
 complete_38958=<font face="Default" color="#ffffff" >師弟身手不凡，他日必成大器。</font>
 complete_38971=<font face="Default" color="#ffffff" >你拿著莊主獎勵你的玉尺令</font><font face="Default" color="#ffffff" >和莊主令</font><font face="Default" color="#ffffff" >就可以來我這邊換取門派武學書頁了。</font>
-context_38801=最近綁匪盛行，你前去解救若干被綁架的人質。
 context_38802=徐家莊每日修業之一就是生火，院外的火堆需要添些柴火，你現在就去把火生旺一點吧
 context_38803=作為一個徐家莊的門人，要善於生火野炊，現在你需要做的，就是成為一個合格的徐家莊門人，先從做一頓可口的飯菜開始吧！
 context_38804=徐家莊後山救治了一批村民，他們身體虛弱，徐家莊門人需要幫助他們度過難關。
@@ -340,7 +339,6 @@ context_38916=徐家莊莊主<a href="findnpc_new,city05,WorldNpc09796" style="H
 context_38917=徐家莊莊主<a href="findnpc_new,city05,WorldNpc09796" style="HLStype1">徐雲錚</a>要試探你的實力。
 context_38918=這個叫<a href="findnpc_new,city05,xjz_rm_002" style="HLStype1">徐小清（瘋乞）</a>的小乞丐，可憐兮兮，餓得看起來要倒下的樣子，給他找些吃的東西吧。
 context_38919=去徐家莊找莊主<a href="findnpc_new,city05,WorldNpc09796" style="HLStype1">徐雲錚</a>商討入門事宜。
-context_38920=感謝信有幾率在解救徐家莊被綁架的弟子身上掉落。
 context_38921=去金陵找徐家莊改姓長老，他會帶你去辦理改姓手續。
 context_38922=<a href="findnpc_new,city05,WorldNpc09796" style="HLStype1">徐雲錚</a>要你考慮下是否加入徐家莊。
 context_38923=<a href="findnpc_new,city05,xjz_rm_002" style="HLStype1">徐小清（瘋乞）</a>想告訴你他的身世，去看一下吧。
@@ -350,7 +348,6 @@ context_38926=徐家莊弟子招募員要審核一下你的資質是否滿足加
 context_38927=只有通過資質審核，才能加入徐家莊
 context_38928=在資格審核處接受審核，獲得徐家莊審核令牌
 context_38929=徐子汐在遊玩的時候丟失了一幅畫卷，希望你能幫他找回來，這些丫鬟的刺繡上繡了一些當時遊玩地點的風景，也許你能從中找到一些線索。
-context_38930=老者覺得你需要學會怎麼敬畏生命，學會感恩，不要肆意掠奪生命。
 context_38931=只有通過資質審核，才能加入徐家莊
 context_38932=只有通過資質審核，才能加入徐家莊
 context_38949=為了證明你平時努力練功，我安排一些任務給你，看你是否能完成。
@@ -712,7 +709,6 @@ CanAcceptMenu_38874=<font face="Default" color="#ffffff" >東方</font><font fac
 CanAcceptMenu_38875=<font face="Default" color="#ffffff" >錯綜複雜</font>
 CanAcceptMenu_38883=<font face="Default" color="#ffffff" >離奇失劍</font>
 CanAcceptMenu_38894=<font face="Default" color="#ffffff" >物歸原主</font>
-accept_38801_1=<font face="Default" color="#ffffff" >最近綁匪盛行，你前去解救若干被綁架的人質。並且擊敗綁匪頭目，據說綁匪頭目是夫妻兩個很是厲害，我給你一暗器你到時候用上好對付他們。</font>
 accept_38861_1=<font face="Default" color="#ffffff" >看你面生得緊，莫非是</font><font face="Default" color="#ffffff" >本莊</font><font face="Default" color="#ffffff" >新晉</font><font face="Default" color="#ffffff" >的門人</font><font face="Default" color="#ffffff" >？</font>
 accept_38862_1=<font face="Default" color="#ffffff" >你</font><font face="Default" color="#ffffff" >既是剛</font><font face="Default" color="#ffffff" >來不久</font><font face="Default" color="#ffffff" >，</font><font face="Default" color="#ffffff" >先</font><font face="Default" color="#ffffff" >去</font><font face="Default" color="#ffffff" >熟悉</font><font face="Default" color="#ffffff" >一下</font><font face="Default" color="#ffffff" >本莊環境。</font>
 accept_38863_1=<font face="Default" color="#ffffff" >我三弟天池</font><font face="Default" color="#ffffff" >一向</font><font face="Default" color="#ffffff" >癡迷練武，你</font><font face="Default" color="#ffffff" >現在便去拜見他罷</font><font face="Default" color="#ffffff" >。</font>
@@ -827,15 +823,12 @@ CompleteMenu_38974=<font face="Default" color="#ffffff" >完成任務</font>
 accept_38972_1=<font face="Default" color="#ffffff" >  你加入了我徐家莊，應該要好好習武，勤加練習，用來幫助江湖中那些需要我們幫助的人。這裡是一些我徐家莊秘製的丹藥，能大幅度的提升我們的內功修為，切記，每日不可多吃，否則容易走火入魔。</font>
 accept_38973_1=<font face="Default" color="#ffffff" >  不錯不錯，你現在內功已經有所小成，這些丹藥是下階段所需要的，你拿去吧。</font>
 accept_38974_1=<font face="Default" color="#ffffff" >  果然我沒看錯人，你是一個有毅力又有俠義之心的人，我徐家莊能收到你這樣的弟子，真實榮幸。這些是最後的秘藥，你拿去用吧，切記，欲速則不達，不可一日服用。</font>
-complete_38972=<font face="Default" color="#ffffff" >  等你</font><font face="Default" color="#ffffff" >三清真氣達到十層</font><font face="Default" color="#ffffff" >了，再來找我領取下階段的丹藥吧。</font>
-complete_38973=<font face="Default" color="#ffffff" >  等你三清真氣修煉到二十層之後再來找我吧，如果我現在一次性給你，只會讓你走火入魔。</font>
 complete_38974=<font face="Default" color="#ffffff" >  現在，所有的丹藥我都已經贈予給你，以後就還看你自己的造化了，希望不要辜負我一片用心。</font>
 context_38972=你加入了我徐家莊，應該要好好習武，勤加練習，用來幫助江湖中那些需要我們幫助的人。這裡是一些我徐家莊秘製的丹藥，能大幅度的提升我們的內功修為，切記，每日不可多吃，否則容易走火入魔。
 context_38973=不錯不錯，你現在內功已經有所小成，這些丹藥是下階段所需要的，你拿去吧。
 context_38974=果然我沒看錯人，你是一個有毅力又有俠義之心的人，我徐家莊能收到你這樣的弟子，真實榮幸。這些是最後的秘藥，你拿去用吧，切記，欲速則不達，不可一日服用。
 menu_38972_1=<font face="Default" color="#ffffff" >莊主有何吩咐？</font>
 menu_38973_1=<font face="Default" color="#ffffff" >莊主，我三清真氣已經達到一定境界了，請賜藥。</font>
-menu_38974_1=<font face="Default" color="#ffffff" >莊主，弟子三清真氣已經修煉至二十層，希望可以賜予我下階段的秘藥。</font>
 next_38972=<a href="findnpc_new,city05,WorldNpc09796" style="HLStype1">徐雲錚</a>
 next_38973=<a href="findnpc_new,city05,WorldNpc09796" style="HLStype1">徐雲錚</a>
 next_38974=<a href="findnpc_new,city05,WorldNpc09796" style="HLStype1">徐雲錚</a>
@@ -852,7 +845,6 @@ CanAcceptMenu_38818=<font face="Default" color="#ffffff" >運鏢</font><font fac
 next_38850=<font face="Default" color="#000000" >去找</font><a href="findnpc_new,school10,thd_001" style="HLStype1">黃古簫</a><font face="Default" color="#000000" >島主商談</font><font face="Default" color="#ff0000" >(提交任務請先卸除寶物，否則可能退出勢力失敗)</font>
 next_38851=<font face="Default" color="#000000" >去找</font><a href="findnpc_new,city05,WorldNpc09796" style="HLStype1">徐雲錚</a><font face="Default" color="#000000" >莊主商談</font><font face="Default" color="#ff0000" >(提交任務請先卸除寶物，否則可能退出勢力失敗)</font>
 complete_38861=<font face="Default" color="#ffffff" >徐家莊的未來，終究是要交付到你們手上，</font><font face="Default" color="#ffffff" >慢慢去成長，去體會吧。</font>
-target_38850=去找<a href="findnpc_new,city05,WorldNpc09796" style="HLStype1">徐雲錚</a>莊主商談（提交任務請先卸除寶物，否則可能退出勢力失敗）
 target_38851=去找<a href="findnpc_new,city05,WorldNpc09796" style="HLStype1">徐雲錚</a>莊主商談（提交任務請先卸除寶物，否則可能退出勢力失敗）
 target_38863=去找徐家莊的徐天池討教武功
 target_38813=參加一次門派戰。
@@ -868,4 +860,12 @@ target_38971=通過青雲堡和暮色之村。
 context_38806=最近惡勢力比較猖狂，你前去教訓教訓他們，讓他們收斂收斂。（邪惡勢力如下：鹽幫，惡虎山寨，天香茶林，虎嘯山莊，嵩山鐵劍門，摘星門，神風幫，沐雲莊，異人莊，十二連環塢，幽冥山莊）
 accept_38813_1=<font face="Default" color="#ffffff" >當今武林可謂群雄並起，各大宗派實力亦是各有消長，徐家莊弟子素來以「鋤強扶弱」為己任，現前去幫助那些門派打敗強敵，才是維護武林大勢平衡的方法。</font>
 context_38813=當今武林可謂群雄並起，各大宗派實力亦是各有消長，徐家莊弟子素來以「鋤強扶弱」為己任，二少爺認為現下去幫助那些弱勢的門派，才是維護武林大勢平衡的方法。
+accept_38801_1=<font face="Default" color="#ffffff" >最近綁匪盛行，你前去解救若干被劫持的人質。並且擊敗綁匪頭目，據說綁匪頭目是夫妻兩個很是厲害，我給你一暗器你到時候用上好對付他們。</font>
+context_38801=最近綁匪盛行，你前去解救若干被劫持的人質。
+context_38920=感謝信有幾率在解救徐家莊被劫持的弟子身上掉落。
+context_38930=老者覺得你需要學會怎麼敬畏生命，學會感恩，不要肆意搶佔生命。
+complete_38972=<font face="Default" color="#ffffff" >  等你</font><font face="Default" color="#ffffff" >三清真氣達到十五層</font><font face="Default" color="#ffffff" >了，再來找我領取下階段的丹藥吧。</font>
+complete_38973=<font face="Default" color="#ffffff" >  等你三清真氣修煉到二十五層之後再來找我吧，如果我現在一次性給你，只會讓你走火入魔。</font>
+menu_38974_1=<font face="Default" color="#ffffff" >莊主，弟子三清真氣已經修煉至二十五層，希望可以賜予我下階段的秘藥。</font>
+target_38850=去找<a href="findnpc_new,city05,WorldNpc09796" style="HLStype1">徐雲錚</a>莊主商談
 

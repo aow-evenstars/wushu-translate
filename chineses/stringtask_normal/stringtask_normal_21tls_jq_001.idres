@@ -1,5 +1,12 @@
 ﻿
 CanAcceptMenu_76401=<font face="Default" color="#ffffff" >初入天轮（可承接）</font>
+CanAcceptMenu_76410=<font face="Default" color="#ffffff" >巡逻刑天城</font>
+CanAcceptMenu_76411=<font face="Default" color="#ffffff" >击退马匪</font>
+CanAcceptMenu_76412=<font face="Default" color="#ffffff" >运送物资</font>
+CanAcceptMenu_76413=<font face="Default" color="#ffffff" >击退牧民</font>
+CanAcceptMenu_76414=<font face="Default" color="#ffffff" >扫清障碍</font>
+CanAcceptMenu_76415=<font face="Default" color="#ffffff" >武学交流</font>
+CanAcceptMenu_76416=<font face="Default" color="#ffffff" >巡视全城</font>
 CanAcceptMenu_76481=<font face="Default" color="#ffffff" >是饥饿它先动的手(可承接)</font>
 CanAcceptMenu_76490=<font face="Default" color="#ffffff" >清扫</font><font face="Default" color="#ffffff" >工作（可承接）</font>
 CanAcceptMenu_76491=<font face="Default" color="#ffffff" >照明工作</font><font face="Default" color="#ffffff" >（可承接）</font>
@@ -13,6 +20,13 @@ CanAcceptMenu_76498=<font face="Default" color="#ffffff" >天轮晚课</font>
 CanAcceptMenu_76500=<font face="Default" color="#ffffff" >反攻冥岳（可接取）</font>
 CompleteMenu_76407=<font face="Default" color="#ffffff" >突然被袭（可提交）</font>
 CompleteMenu_76409=<font face="Default" color="#ffffff" >结局（可提交）</font>
+CompleteMenu_76410=<font face="Default" color="#ffffff" >巡逻刑天城</font><font face="Default" color="#ffffff" >（已完成）</font>
+CompleteMenu_76411=<font face="Default" color="#ffffff" >击退马匪</font><font face="Default" color="#ffffff" >（已完成）</font>
+CompleteMenu_76412=<font face="Default" color="#ffffff" >运送物资（已完成）</font>
+CompleteMenu_76413=<font face="Default" color="#ffffff" >击退牧民（已完成）</font>
+CompleteMenu_76414=<font face="Default" color="#ffffff" >扫清障碍</font><font face="Default" color="#ffffff" >（已完成）</font>
+CompleteMenu_76415=<font face="Default" color="#ffffff" >武学交流</font><font face="Default" color="#ffffff" >（已完成）</font>
+CompleteMenu_76416=<font face="Default" color="#ffffff" >巡视全城（已完成）</font>
 CompleteMenu_76481=<font face="Default" color="#ffffff" >是饥饿它先动的手(可提交)</font>
 CompleteMenu_76490=<font face="Default" color="#ffffff" >清扫工作（可提交）</font>
 CompleteMenu_76491=<font face="Default" color="#ffffff" >照明工作（可</font><font face="Default" color="#ffffff" >提交</font><font face="Default" color="#ffffff" >）</font>
@@ -25,6 +39,13 @@ CompleteMenu_76497=<font face="Default" color="#ffffff" >天轮早课</font><fon
 CompleteMenu_76498=<font face="Default" color="#ffffff" >天轮晚课（</font><font face="Default" color="#ffffff" >可提交</font><font face="Default" color="#ffffff" >）</font>
 CompleteMenu_76500=<font face="Default" color="#ffffff" >反攻冥岳（可提交）</font>
 accept_76401_1=<font face="Default" color="#ffffff" >听温执事说，你是中原人。天轮寺由</font><font face="Default" color="#ffffff" >本座</font><font face="Default" color="#ffffff" >一手创立，修行方式与戒律上与你们中原佛教相差甚远。你初来乍到，先去拜见四大班首吧。</font>
+accept_76410_1=<font face="Default" color="#ffffff" >有消息说最近刑天城内有马匪出没，你帮我去巡视下刑天城。</font>
+accept_76411_1=<font face="Default" color="#ffffff" >有村名反映情况，刑天城外有马匪出没，去将其藏匿处找出，并将其击退。</font>
+accept_76412_1=<font face="Default" color="#ffffff" >刑天城最近将有一批物资送达，你前去帮忙运送回来。</font>
+accept_76413_1=<font face="Default" color="#ffffff" >有村名反映情况，刑天城外有</font><font face="Default" color="#ffffff" >一波</font><font face="Default" color="#ffffff" >马匪</font><font face="Default" color="#ffffff" >伪装的牧民</font><font face="Default" color="#ffffff" >出没，去将其藏匿处找出，并将其击退。</font>
+accept_76414_1=<font face="Default" color="#ffffff" >刑天城的入口处有</font><font face="Default" color="#ffffff" >路匪和路霸出没，将其击退。</font>
+accept_76415_1=<font face="Default" color="#ffffff" >最近刑天城内事务比较繁忙，无暇分身，请你帮忙。</font>
+accept_76416_1=<font face="Default" color="#ffffff" >最近刑天城有些不太平，请你帮忙收集些情报。</font>
 accept_76481_1=<font face="Default" color="#ffffff" >师兄，我有点饿了</font>
 accept_76485_1=<font face="Default" color="#ffffff" >听说师叔有一瓶好酒，藏在树下</font>
 accept_76490_1=<font face="Default" color="#ffffff" >今日的工作是清扫寺院，去找你的师姐吧。她会告诉你哪些问题需要你去处理的。她刚才就在这儿，应该没走多远。</font>
@@ -39,6 +60,13 @@ accept_76498_1=<font face="Default" color="#ffffff" >晚课时辰已到，请速
 accept_76500_1=<font face="Default" color="#ffffff" >我寺威严不可侵犯，慎元师兄已前往冥岳组织进攻，你等速去</font>
 complete_76407=<font face="Default" color="#e21254" >（被你驳得哑口无言，憋了半天）</font><font face="Default" color="#ffffff" >反正你爱信不信！</font>
 complete_76409=<font face="Default" color="#ffffff" >那放走了我，你对你的宁儿该如何交待？</font>
+complete_76410=<font face="Default" color="#ffffff" >做的不错，这是给与你的奖励！</font>
+complete_76411=<font face="Default" color="#ffffff" >做的不错，这是给与你的奖励！</font>
+complete_76412=<font face="Default" color="#ffffff" >做的不错，这是给与你的奖励！</font>
+complete_76413=<font face="Default" color="#ffffff" >做的不错，这是给与你的奖励！</font>
+complete_76414=<font face="Default" color="#ffffff" >做的不错，这是给与你的奖励！</font>
+complete_76415=<font face="Default" color="#ffffff" >做的不错，这是给与你的奖励！</font>
+complete_76416=<font face="Default" color="#ffffff" >做的不错，这是给与你的奖励！</font>
 complete_76481=<font face="Default" color="#ffffff" >师兄做好了么？</font>
 complete_76485=<font face="Default" color="#ffffff" >快，拿碗来！</font>
 complete_76490=<font face="Default" color="#ffffff" >正因为弟子们每日劳动，寺院才能保持干净整洁。大家的心境也因此得到了清洗。</font>
@@ -53,13 +81,20 @@ complete_76498=<font face="Default" color="#ffffff" >你可有认真听课领悟
 complete_76500=<font face="Default" color="#ffffff" >这次大获全胜，展我寺雄风，甚好！这是给予你的奖励</font>
 context_76401=初入天轮寺，前往拜访四大首座并悉心聆听教诲。
 context_76402=益西也回到天轮寺了，走上前跟他打招呼。
-context_76403=前去向两位执事师叔打听白玛师叔杀人之事。
+context_76403=前去向两位执事师叔打听白玛师叔害人之事。
 context_76404=益西惊慌失措的求救，赶紧去问问他。
 context_76405=根据一路上发现的线索，失踪的小孩们可能就在前面，上前去查看。
 context_76406=在山洞里找到孩子们，仔细检查孩子们的状况。
 context_76407=制服赤杰和秦百魅，询问他们为何偷袭。
 context_76408=听秦百魅道出事情的来龙去脉。
 context_76409=前去与赤杰商量，李彬将军该何去何从。
+context_76410=刑天城附近有马匪的出没的踪迹，巡视下刑天城，看看有没有马匪混入刑天城。
+context_76411=刑天城外有马匪的出没，找到马匪藏身处，并击退马匪。
+context_76412=刑天城内有一波物资需要运用，前去将物资运送至指定位置。
+context_76413=刑天城外有马匪伪装的牧民的出没，找到牧民藏身处，并击退牧民。
+context_76414=刑天城入口处有大量路匪和路霸出没，前去将其击退。
+context_76415=最近刑天城内事务比较繁忙，帮我去检验下部分弟子的武学有无荒废。
+context_76416=最近刑天城内有些不太平，前去了解下具体情况。
 context_76481=在寺中游荡时，刚好碰到饥饿的师妹，于是前往厨房，为师妹准备吃的
 context_76485=美酒我所欲也，门规亦我所欲也，二者不可得兼，舍门规取美酒也。
 context_76489=击败叛出本门的弟子。
@@ -75,6 +110,13 @@ context_76498=晚课时间到，请速速赶往庭院听课。
 context_76499=和大师兄聊聊，学习下武学。
 context_76500=外域势力冥岳屡次进犯天轮寺，必须以牙还牙
 menu_76401_1=<font face="Default" color="#ffffff" >是。</font>
+menu_76410_1=<font face="Default" color="#ffffff" >好的</font>
+menu_76411_1=<font face="Default" color="#ffffff" >好的。</font>
+menu_76412_1=<font face="Default" color="#ffffff" >好的！</font>
+menu_76413_1=<font face="Default" color="#ffffff" >好的。</font>
+menu_76414_1=<font face="Default" color="#ffffff" >好的。</font>
+menu_76415_1=<font face="Default" color="#ffffff" >请问何事？</font>
+menu_76416_1=<font face="Default" color="#ffffff" >好的！</font>
 menu_76481_1=<font face="Default" color="#ffffff" >没事，师兄给你整几个小菜</font>
 menu_76485_1=<font face="Default" color="#ffffff" >当真？！</font>
 menu_76490_1=<font face="Default" color="#ffffff" >弟子这就去。</font>
@@ -98,6 +140,13 @@ next_76496=<a href="findnpc_new,adv156,tasknpc_tls_daily02" style="HLStype1">客
 next_76500=回复<a href="findnpc_new,adv156,npc_lzy_tlszc_fgmy_002" style="HLStype1">喻心</a>
 submit_76407=<font face="Default" color="#ffffff" >我一定会找到真凶的。</font>
 submit_76409=<font face="Default" color="#ffffff" >我害怕她不成？大不了让她那条叫菊花</font><font face="Default" color="#ffffff" >的</font><font face="Default" color="#ffffff" >狗咬我两下呗。</font>
+submit_76410=<font face="Default" color="#ffffff" >多谢！</font>
+submit_76411=<font face="Default" color="#ffffff" >多谢！</font>
+submit_76412=<font face="Default" color="#ffffff" >多谢！</font>
+submit_76413=<font face="Default" color="#ffffff" >多谢！</font>
+submit_76414=<font face="Default" color="#ffffff" >多谢！</font>
+submit_76415=<font face="Default" color="#ffffff" >多谢！</font>
+submit_76416=<font face="Default" color="#ffffff" >多谢！</font>
 submit_76481=<font face="Default" color="#ffffff" >恩，师妹可以进去吃了</font>
 submit_76485=<font face="Default" color="#ffffff" >咕噜，咕噜！</font>
 submit_76490=<font face="Default" color="#ffffff" >弟子明白。</font>
@@ -119,6 +168,13 @@ target_76406=救出洞中的孩子们
 target_76407=质问赤杰和秦百魅
 target_76408=听秦百魅道出真相
 target_76409=询问赤杰如何安顿李彬。
+target_76410=巡视刑天城。
+target_76411=找到马匪藏身处，并击退马匪。
+target_76412=帮助运送刑天城物资。
+target_76413=找到牧民藏身处，并击退牧民。
+target_76414=击退路匪和路霸。
+target_76415=与刑天城弟子比武切磋。
+target_76416=巡视全城。
 target_76481=为师妹做菜吃
 target_76485=偷到师叔的酒
 target_76489=是坏人它先动的手
@@ -142,6 +198,13 @@ title_76406=鬼洞惊心
 title_76407=暗下杀手
 title_76408=来龙去脉
 title_76409=尘埃落定
+title_76410=巡逻刑天城
+title_76411=击退马匪
+title_76412=运送物资
+title_76413=击退牧民
+title_76414=扫清障碍
+title_76415=武学交流
+title_76416=巡视全城
 title_76481=是饥饿它先动的手
 title_76485=是美酒它先动的手
 title_76489=是坏人它先动的手

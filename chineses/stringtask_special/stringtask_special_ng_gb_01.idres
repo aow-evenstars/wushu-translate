@@ -21,9 +21,9 @@ SubmitNpcEx_56537=听<a href="findnpc_new,school02,WorldNpc03003" style="HLStype
 SubmitNpcEx_56544=返回丐帮与<a href="findnpc_new,school02,WorldNpc03003" style="HLStype1">萧天放</a>诉说
 collectinfo_81503=翻开<a href="findnpc_new,city01,Gather_4nei_gb003" style="HLStype1">土堆</a>
 collectinfo_81504=前往<a href="findnpc_new,school02,Gather_4nei_gb004" style="HLStype1">调查线索</a>
-collectinfo_81505=查看<a href="findnpc_new,school02,Gather_4nei_gb005" style="HLStype1">尸体</a>
+collectinfo_81505=查看<a href="findnpc_new,school02,Gather_4nei_gb005" style="HLStype1">遗骸</a>
 collectinfo_81507=去<a href="findnpc_new,born03,PlotDoor5neigbqz002" style="HLStype1">栖凤山</a>捉鹿，并拿到鹿茸（使用捕兽夹道具在原地放下捕兽夹，鹿经过的时候就会被捕捉到。捕兽夹可以在老郎中那里用碎银购买）
-collectinfo_81508=前往雁门关，收集<a href="findnpc,clone004_wln,278,1,430" style="HLStype1">胡杨草</a>
+collectinfo_81508=前往落霞坡，收集<a href="findnpc_new,born03,GatherNpc_5nei_gbhyz001" style="HLStype1">胡杨草</a>
 collectinfo_81509=收集<a href="findnpc_new,," style="HLStype1"></a>虎骨
 collectinfo_81510=收集<a href="findnpc_new,," style="HLStype1"></a>唐针
 collectinfo_81511=攻克<a href="findnpc_new,school02,monm021100" style="HLStype1">巨熊</a>，收集<a href="findnpc_new,," style="HLStype1"></a>熊掌
@@ -200,7 +200,7 @@ story_81556_1=<font face="Default" color="#ffffff" >你想去空谷？这个地�
 story_81556_2=<font face="Default" color="#ffffff" >可是我正准备收摊，我家中妻子卧病在床，郎中开了方子缺几味药引，我这两天恐怕都要去找这几味药引。</font>
 story_81556_3=<font face="Default" color="#ffffff" >现在最主要的是缺少一个叫胡杨草</font><font face="Default" color="#ffffff" >的药引。</font><font face="Default" color="#ffffff" >具体的还得去问问那位老郎中。</font>
 story_81557_1=<font face="Default" color="#ffffff" >客官你来的正好，那位书生回来过特别叮嘱让我告诉你他已经找到空谷了，看你还没回来他先走了，说多谢你的帮助，等他从空谷回来再好好谢谢你。</font>
-story_81558_1=<font face="Default" color="#ffffff" >这是一种很稀少的草药，在雁门关有少量生长，以前战事没有那么频繁的时候，年年都有商人从关外带回来，现在关外战乱，各地都没有这种草药卖了。</font>
+story_81558_1=<font face="Default" color="#ffffff" >这是一种很稀少的草药，在落霞坡有少量生长</font><font face="Default" color="#ffffff" >你可以去那里看一看。</font>
 story_81558_2=<font face="Default" color="#ffffff" >这个就比较难找了，这是一种很稀少的草药，在雁门关有少量生长，以前战事没有那么频繁的时候，年年都有商人从关外带回来，现在关外战乱，各地都没有这种草药卖了。</font>
 story_81559_1=<font face="Default" color="#ffffff" >不错，让我看看，恩，足够用了，我这就通知阮老头准备给他妻子配药，听说你要让阮老头帮你点忙，你</font><font face="Default" color="#ffffff" >现在直接去找他吧。</font>
 story_81560_1=<font face="Default" color="#ffffff" >实在是太感谢您了！</font>
@@ -514,7 +514,7 @@ storymenu_81556_1=<font face="Default" color="#ffffff" >找一个朋友，还请
 storymenu_81556_2=<font face="Default" color="#ffffff" >不知道缺的是什么，在下或许可以帮忙。</font>
 storymenu_81556_3=<font face="Default" color="#ffffff" >放心</font><font face="Default" color="#ffffff" >，我这就去。</font>
 storymenu_81557_1=<font face="Default" color="#ffffff" >这，好吧，麻烦小二哥。</font>
-storymenu_81558_1=<font face="Default" color="#ffffff" >没问题，我这就去雁门关一趟。</font>
+storymenu_81558_1=<font face="Default" color="#ffffff" >没问题，我这就去</font><font face="Default" color="#ffffff" >落霞坡</font><font face="Default" color="#ffffff" >一趟。</font>
 storymenu_81558_2=
 storymenu_81559_1=<font face="Default" color="#ffffff" >好的。</font>
 storymenu_81560_1=<font face="Default" color="#ffffff" >那，现在能否带我去空谷？</font>

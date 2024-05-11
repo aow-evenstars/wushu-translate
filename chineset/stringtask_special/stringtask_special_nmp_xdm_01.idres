@@ -211,7 +211,6 @@ collectinfo_15670=收集6個殺伐之血
 collectinfo_15671=滅軍·刀棺
 collectinfo_15672=收集8份刀棺改造憑證
 collectinfo_15673=收集柏木30個
-collectinfo_15674=收集6個殺伐之血d
 collectinfo_15675=滅塵·刀棺
 collectinfo_15676=收集12份刀棺改造憑證
 collectinfo_15677=收集柏木30個
@@ -285,7 +284,6 @@ interactinfo_15533=向<a href="findnpc_new,school01,worldnpc04101" style="HLStyp
 interactinfo_15534=燕京奪刀案鬧得滿城風雨，<a href="findnpc_new,school01,npc_xdm_016" style="HLStype1">黃曉生</a>應該也知道這個事情吧？
 interactinfo_15535=去找<a href="findnpc_new,school01,npc_xdm_017" style="HLStype1">張則</a>，讓他與我同行，路上也好有個伴
 interactinfo_15536=前去錦衣衛外尋找雪陽堂堂主<a href="findnpc_new,school01,Event_xdm_013" style="HLStype1">龔不隨</a>
-interactinfo_15537=任務已經完成，快去找<a href="findnpc_new,school01,npc_xdm_013" style="HLStype1">龔不隨</a>
 interactinfo_15538=找個地方<a href="findnpc_new,born02,Event_xdm_011" style="HLStype1">躲起來</a>，好戲就要上演了。
 interactinfo_15539=陷阱已經挖好，<a href="findnpc_new,born02,Event_xdm_014" style="HLStype1">躲起來</a>等人入坑。
 interactinfo_15540=問問<a href="findnpc_new,school01,npc_xdm_013" style="HLStype1">龔不隨</a>有什麼東西能很快殺死左面旗使！
@@ -476,7 +474,6 @@ storyinfo_15631=向<a href="findnpc_new,school13,NPC_xdm_dy_hs" style="HLStype1"
 storyinfo_15632=向<a href="findnpc_new,school13,Npc_xdm_gdj_xhd_005" style="HLStype1">龔罷</a>請教
 storyinfo_15634=向<a href="findnpc_new,school01,offline_xunluo_xdm" style="HLStype1">寒少炎</a>請教
 storymenu_15501_1=<font face="Default" color="#ffffff" >鬧鬼？這不太可能吧。皇帝陛下選在此處修建行宮，這地方必然是風水寶地，怎麼可能會鬧鬼？是不是你看錯了？</font>
-storymenu_15501_2=<font face="Default" color="#ffffff" >（鬼？恐怕必是輕功了得的武林人士所為。）</font><font face="Default" color="#ffffff" >好恐怖，我還是早早逃出去得了。</font>
 storymenu_15502_1=<font face="Default" color="#ffffff" >多謝前輩賞識。</font>
 storymenu_15502_2=<font face="Default" color="#ffffff" >在下，記住了……</font>
 storymenu_15504_2=<font face="Default" color="#ffffff" >包在我身上了！</font>
@@ -528,7 +525,6 @@ storymenu_15633_1=<font face="Default" color="#ffffff" >謝老祖</font><font fa
 storymenu_15634_1=<font face="Default" color="#ffffff" >謝寒師兄！</font>
 storymenu_15651_1=<font face="Default" color="#ffffff" >哦，我知道了，看來本門派和錦衣衛關係匪淺啊。</font>
 storymenu_15651_2=<font face="Default" color="#ffffff" >我瞭解了，有空我會去找他們的。</font>
-useiteminfo_15501=對<a href="findnpc,city03,1343,0,1524" style="HLStype1">馨兒</a>使用<a href="TASK_ITEM,item_xdm_004" style="HLStype1">迷藥</a>。為了打探到消息，我只能做這種喪盡天良的事了
 useiteminfo_15502=偷換<a href="TASK_ITEM,items_xdm_kyf_01" style="HLStype1">行宮圖紙（偽）</a>（<a href="findnpc_new,city01,npc_xdm_kyf_008" style="HLStype1">工程圖紙</a>在處）
 useiteminfo_15503=使用<a href="TASK_ITEM,items_xdm_kyf_02" style="HLStype1">火把</a>點燃<a href="findnpc_new,adv122,npc_xdm_kyf_009" style="HLStype1">建造材料</a>。
 useiteminfo_15504=使用<a href="TASK_ITEM,items_xdm_kyf_03" style="HLStype1">毒藥</a>，毒殺那些<a href="findnpc_new,adv122,npc_xdm_kyf_010" style="HLStype1">中毒的工人</a>。
@@ -584,7 +580,6 @@ storymenu_15558_3=<font face="Default" color="#ffffff" >什麼？！既然如此
 storymenu_15611_2=<font face="Default" color="#ffffff" >原來如此。我這就去找素心。</font>
 useiteminfo_15506=一個炸藥就把他們嚇得慌不擇路，找路人<a href="findnpc_new,born02,npc_xdm_014" style="HLStype1">盧二</a>問問他們的去向，若敢不說，我這瓶<a href="TASK_ITEM,item_xdm_010" style="HLStype1">毒藥</a>可不是吃素的
 useiteminfo_15507=使用<a href="TASK_ITEM,item_xdm_009" style="HLStype1">鋤頭</a>在龔不隨交代的地方<a href="findnpc_new,born02,Event_xdm_008" style="HLStype1">挖坑</a>，布好陷阱。<font color="#ff0000">【放棄此任務會導致道具消失而無法再次完成任務。】</font>
-useiteminfo_15508=趁<a href="findnpc_new,school01,npc_xdm_019" style="HLStype1">左面旗使</a>昏迷不醒，趕緊用大名鼎鼎的<a href="TASK_ITEM,item_xdm_012" style="HLStype1">鶴頂紅</a>弄死他！<font color="#ff0000">【放棄此任務會導致道具消失而無法再次完成任務。】</font>
 SubmitNpcEx_20820=與<a href="findnpc_new,born02,npc_xdm_cc_027" style="HLStype1">吳齊壞</a>繼續交談
 collectinfo_15503=將信物交給<a href="findnpc_new,born02,npc_xdm_cc_027" style="HLStype1">吳齊壞</a>
 interactinfo_15542=與<a href="findnpc_new,born02,npc_xdm_cc_027" style="HLStype1">吳齊壞</a>交談
@@ -732,7 +727,6 @@ hunterinfo_15599=暗襲<a href="findnpc_new,city01,Attack_npc_xdm_wj_04" style="
 interactinfo_15568=找到<a href="findnpc_new,school13,npc_xdm_ww19" style="HLStype1">礦洞入口</a>，盡量躲避或攻克看守，進洞找到<a href="findnpc_new,school13,npc_xdm_dy19" style="HLStype1">血石箱</a>，進而獲得血石。
 interactinfo_15604=這些年想擅闖血刀堂的江湖人士不在少數，多虧一路上的重重機關，非熟門熟路的血刀堂弟子根本無法進入，不到半路就會遭襲而死，去找血刀堂弟子<a href="findnpc_new,born02,npc_xdm_in" style="HLStype1">薛勁辱</a>，讓他帶你<a href="findnpc_new,school13,Event_xdm_016" style="HLStype1">進入血刀堂</a>
 interactinfo_15654=找到<a href="findnpc_new,school13,npc_xdm_ww19" style="HLStype1">礦洞入口</a>，盡量躲避或攻克看守，在洞裡找到<a href="findnpc_new,school13,npc_xdm_ww08" style="HLStype1">血石箱</a>，進而獲得血石。
-story_15505_1=<font face="Default" color="#ffffff" >血刀堂以殺立派，借血修行，錦衣衛推薦兩人，其中一人必須殺死另外一人才能入我血刀堂。這，不過是你加入血刀堂開始戕屠的第一步。</font><font face="Default" color="#ffffff" >皇甫遙必然跟你說過，錦衣衛和血刀堂有所謂同盟之誼，共同效力於朱棣，但這只是表面上。</font>
 story_15554_1=<font face="Default" color="#ffffff" >血刀四式之所以兇猛</font><font face="Default" color="#ffffff" >，</font><font face="Default" color="#ffffff" >其原因在於血刀</font><font face="Default" color="#ffffff" >材質溶血愈堅，你在平時攻克之時，敵人氣血染裹刀身，幾經養育，才能成就一時之強。</font>
 story_15554_2=<font face="Default" color="#ffffff" >血刀質陽而性霸，縱然是在不用之時，也會自動養育自身，就算你是佩刀之人，它也不會放過。而養刀棺材質屬陰，棺形內斂，正好能在不用之際，控制住血刀，使其只被你攻克之後灌入的敵人氣血所養育，而不會反噬其主。</font>
 storyinfo_15505=剛攻克就被<a href="findnpc_new,school01,npc_xdm_013" style="HLStype1">龔不隨</a>看到了..
@@ -743,4 +737,10 @@ hunterinfo_15559=擊敗<a href="findnpc_new,born02,npc_xdm_021" style="HLStype1"
 hunterinfo_15560=擊敗<a href="findnpc_new,born02,npc_xdm_022" style="HLStype1">各大宗派弟子</a>
 hunterinfo_15561=擊敗<a href="findnpc_new,born02,npc_xdm_023" style="HLStype1">各大宗派弟子</a>
 interactinfo_15531=現在各大宗派的人已被逼到血刀堂附近，問問<a href="findnpc_new,born02,npc_xdm_140" style="HLStype1">龔不隨</a>接下來該怎麼做？
+story_15505_1=<font face="Default" color="#ffffff" >血刀堂冷峭立派，嚴酷修行，錦衣衛推薦兩人，其中一人必須殺死另外一人才能入我血刀堂。這，不過是你加入血刀堂開始戕屠的第一步。</font><font face="Default" color="#ffffff" >皇甫遙必然跟你說過，錦衣衛和血刀堂有所謂同盟之誼，共同效力於朱棣，但這只是表面上。</font>
+storymenu_15501_2=<font face="Default" color="#ffffff" >（鬼？恐怕必是輕功了得的武林人士所為。）</font><font face="Default" color="#ffffff" >好可怕，我還是早早逃出去得了。</font>
+useiteminfo_15501=對<a href="findnpc,city03,1343,0,1524" style="HLStype1">馨兒</a>使用<a href="TASK_ITEM,item_xdm_004" style="HLStype1">眩暈藥</a>。為了打探到消息，我只能做這種喪盡天良的事了
+collectinfo_15674=收集6個殺伐之血
+interactinfo_15537=任務已經完成，快去找<a href="findnpc_new,school01,npc_xdm_013" style="HLStype1">龔不隨</a>【若推薦信遺落可尋找<a href="findnpc_new,school01,WorldNpc04207" style="HLStype1">紫旗使</a>再次獲取】
+useiteminfo_15508=趁<a href="findnpc_new,school01,npc_xdm_019" style="HLStype1">左面旗使</a>昏迷不醒，趕緊用大名鼎鼎的<a href="TASK_ITEM,item_xdm_012" style="HLStype1">鶴頂紅</a>弄死他！【放棄此任務會導致道具消失而無法再次完成任務。】【若鶴頂紅遺落可尋找<a href="findnpc_new,school01,npc_xdm_017" style="HLStype1">張則</a>再次獲取】
 

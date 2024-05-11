@@ -343,7 +343,6 @@ storyinfo_76254=金陵城中人生地不熟的，不如問問<a href="findnpc_ne
 storyinfo_76255=詢問<a href="findnpc_new,city03,npc_ty_dy_20" style="HLStype1">郎中</a>（客棧二樓的房間）
 storyinfo_76256=不知<a href="findnpc_new,city03,npc_ty_dy_19" style="HLStype1">汪老</a>是否還有親人
 storyinfo_76257=拜託<a href="findnpc_new,city03,npc_ty_dy_31" style="HLStype1">郎中</a>幫忙安葬汪老
-storyinfo_76258=前往<a href="findnpc_new,city03,npc_ty_dy_22" style="HLStype1">城西碼頭</a>，前往南海
 storyinfo_76259=與<a href="findnpc_new,school25,npc_ty_dy_24" style="HLStype1">船老大</a>商量對策
 storyinfo_76260=尋找島上的<a href="findnpc_new,school25,npc_ty_dy_25" style="HLStype1">居民</a>幫忙
 storyinfo_76261=告知<a href="findnpc_new,school25,newmp_tyhg_001" style="HLStype1">幽游君</a>
@@ -516,7 +515,6 @@ QiecuoTitle_76261=<font face="Default" color="#ffffff" >在接下來的比試中
 QiecuoTitle_76262=<font face="Default" color="#ffffff" >在接下來的比試中，我將使出十成功力，師妹</font><font face="Default" color="#ffffff" >(師弟)</font><font face="Default" color="#ffffff" >小心，我們點到為止。</font>
 QiecuoTitle_76263=<font face="Default" color="#ffffff" >在接下來的比試中，我將使出十成功力，師妹</font><font face="Default" color="#ffffff" >(師弟)</font><font face="Default" color="#ffffff" >小心，我們點到為止。</font>
 QiecuoTitle_76264=<font face="Default" color="#ffffff" >在接下來的比試中，我將使出十成功力，師妹</font><font face="Default" color="#ffffff" >(師弟)</font><font face="Default" color="#ffffff" >小心，我們點到為止。</font>
-SubmitNpcEx_76265=去找<a href="findnpc_new,adv156,tls_001" style="HLStype1">鴻海</a>商談<font face="Default" color="#FF0000" >(提交任務請先卸除寶物，否則可能退出勢力失敗)</font>
 SubmitNpcEx_76266=去找<a href="findnpc_new,adv156,tls_001" style="HLStype1">鴻海</a>商談<font face="Default" color="#FF0000" >(提交任務請先卸除寶物，否則可能退出勢力失敗)</font>
 hunterinfo_76250=通過<a href="findnpc_new,adv156,newmp_gujtls_002" style="HLStype1">慕容心</a>進入活動場景，完成一次「禪杖來也」活動
 hunterinfo_76251=在切磋中戰勝<a href="findnpc_new,adv156,newmp_gujtls_004" style="HLStype1">桓伯承</a>
@@ -552,4 +550,82 @@ okmenu_76261=<font face="Default" color="#ffffff" >師姐請收好。</font>
 okmenu_76262=<font face="Default" color="#ffffff" >師姐請收好。</font>
 okmenu_76263=<font face="Default" color="#ffffff" >師姐請收好。</font>
 okmenu_76264=<font face="Default" color="#ffffff" >師姐請收好。</font>
+DialogID_76270=<font face="Default" color="#ffffff" >首先，師妹(師弟)需要上交50個</font><font face="Default" color="#ffffff" >騰蛇令</font><font face="Default" color="#ffffff" >。</font>
+DialogID_76271=<font face="Default" color="#ffffff" >首先，師妹(師弟)需要上交30個</font><font face="Default" color="#ffffff" >騰蛇令</font><font face="Default" color="#ffffff" >。</font>
+DialogID_76272=<font face="Default" color="#ffffff" >首先，師妹(師弟)需要上交10個</font><font face="Default" color="#ffffff" >騰蛇令</font><font face="Default" color="#ffffff" >。</font>
+DialogID_76274=<font face="Default" color="#ffffff" >首先，師妹(師弟)需要上交80個</font><font face="Default" color="#ffffff" >騰蛇令</font><font face="Default" color="#ffffff" >。</font>
+DialogID_76275=<font face="Default" color="#ffffff" >首先，師妹(師弟)需要上交50個</font><font face="Default" color="#ffffff" >騰蛇令</font><font face="Default" color="#ffffff" >。</font>
+DialogID_76276=<font face="Default" color="#ffffff" >首先，師妹(師弟)需要上交20個</font><font face="Default" color="#ffffff" >騰蛇令</font><font face="Default" color="#ffffff" >。</font>
+DialogID_76278=<font face="Default" color="#ffffff" >首先，師妹(師弟)需要上交100個</font><font face="Default" color="#ffffff" >騰蛇令</font><font face="Default" color="#ffffff" >。</font>
+DialogID_76279=<font face="Default" color="#ffffff" >首先，師妹(師弟)需要上交70個</font><font face="Default" color="#ffffff" >騰蛇令</font><font face="Default" color="#ffffff" >。</font>
+DialogID_76280=<font face="Default" color="#ffffff" >首先，師妹(師弟)需要上交30個</font><font face="Default" color="#ffffff" >騰蛇令</font><font face="Default" color="#ffffff" >。</font>
+DialogID_76281=<font face="Default" color="#ffffff" >首先，師妹(師弟)需要上交10個</font><font face="Default" color="#ffffff" >騰蛇令</font><font face="Default" color="#ffffff" >。</font>
+DialogID_76282=<font face="Default" color="#ffffff" >首先，師妹(師弟)需要上交10個</font><font face="Default" color="#ffffff" >騰蛇令</font><font face="Default" color="#ffffff" >。</font>
+QiecuoMenu_76270=<font face="Default" color="#ffffff" >還請師姐手下留情。</font>
+QiecuoMenu_76271=<font face="Default" color="#ffffff" >還請師姐手下留情。</font>
+QiecuoMenu_76272=<font face="Default" color="#ffffff" >還請師姐手下留情。</font>
+QiecuoMenu_76274=<font face="Default" color="#ffffff" >還請師姐手下留情。</font>
+QiecuoMenu_76275=<font face="Default" color="#ffffff" >還請師姐手下留情。</font>
+QiecuoMenu_76276=<font face="Default" color="#ffffff" >還請師姐手下留情。</font>
+QiecuoMenu_76278=<font face="Default" color="#ffffff" >還請師姐手下留情。</font>
+QiecuoMenu_76279=<font face="Default" color="#ffffff" >還請師姐手下留情。</font>
+QiecuoMenu_76280=<font face="Default" color="#ffffff" >還請師姐手下留情。</font>
+QiecuoMenu_76281=<font face="Default" color="#ffffff" >還請師姐手下留情。</font>
+QiecuoMenu_76282=<font face="Default" color="#ffffff" >還請師姐手下留情。</font>
+QiecuoTitle_76270=<font face="Default" color="#ffffff" >在接下來的比試中，我將使出三成功力，師妹(師弟)小心，我們點到為止。</font>
+QiecuoTitle_76271=<font face="Default" color="#ffffff" >在接下來的比試中，我將使出七成功力，師妹(師弟)小心，我們點到為止。</font>
+QiecuoTitle_76272=<font face="Default" color="#ffffff" >在接下來的比試中，我將使出十成功力，師妹(師弟)小心，我們點到為止。</font>
+QiecuoTitle_76274=<font face="Default" color="#ffffff" >在接下來的比試中，我將使出三成功力，師妹(師弟)小心，我們點到為止。</font>
+QiecuoTitle_76275=<font face="Default" color="#ffffff" >在接下來的比試中，我將使出七成功力，師妹(師弟)小心，我們點到為止。</font>
+QiecuoTitle_76276=<font face="Default" color="#ffffff" >在接下來的比試中，我將使出十成功力，師妹(師弟)小心，我們點到為止。</font>
+QiecuoTitle_76278=<font face="Default" color="#ffffff" >在接下來的比試中，我將使出三成功力，師妹(師弟)小心，我們點到為止。</font>
+QiecuoTitle_76279=<font face="Default" color="#ffffff" >在接下來的比試中，我將使出七成功力，師妹(師弟)小心，我們點到為止。</font>
+QiecuoTitle_76280=<font face="Default" color="#ffffff" >在接下來的比試中，我將使出十成功力，師妹(師弟)小心，我們點到為止。</font>
+QiecuoTitle_76281=<font face="Default" color="#ffffff" >在接下來的比試中，我將使出十成功力，師妹(師弟)小心，我們點到為止。</font>
+QiecuoTitle_76282=<font face="Default" color="#ffffff" >在接下來的比試中，我將使出十成功力，師妹(師弟)小心，我們點到為止。</font>
+SubmitNpcEx_76268=去找<a href="findnpc_new,adv158,qyg_001" style="HLStype1">陸羲白(閣主)</a>商談<font face="Default" color="#FF0000" >(提交任務請先卸除寶物，否則可能退出勢力失敗)</font>
+SubmitNpcEx_76269=<a href="findnpc_new,adv158,newmp_gujqyg_004" style="HLStype1">桓伯承影</a>
+SubmitNpcEx_76284=前往<a href="findnpc_new,adv158,qyg_003" style="HLStype1">堯臣（白虎堂堂主）</a>處兌換獲得「天機珠·蒼冥」
+SubmitNpcEx_76285=前往<a href="findnpc_new,adv158,qyg_003" style="HLStype1">堯臣（白虎堂堂主）</a>處兌換獲得「天機珠·炫晝」
+SubmitNpcEx_76286=前往<a href="findnpc_new,adv158,qyg_003" style="HLStype1">堯臣（白虎堂堂主）</a>處兌換獲得「天機珠·青陸」
+collectinfo_76284=收集「天機珠·朔風」
+collectinfo_76285=收集「天機珠·蒼冥」
+collectinfo_76286=收集「天機珠·炫晝」
+hunterinfo_76270=在切磋中戰勝<a href="findnpc_new,adv158,newmp_gujqyg_004" style="HLStype1">桓伯承影</a>
+hunterinfo_76271=在切磋中戰勝<a href="findnpc_new,adv158,newmp_gujqyg_004" style="HLStype1">桓伯承影</a>
+hunterinfo_76272=在切磋中戰勝<a href="findnpc_new,adv158,newmp_gujqyg_004" style="HLStype1">桓伯承影</a>
+hunterinfo_76274=在切磋中戰勝<a href="findnpc_new,adv158,newmp_gujqyg_004" style="HLStype1">桓伯承影</a>
+hunterinfo_76275=在切磋中戰勝<a href="findnpc_new,adv158,newmp_gujqyg_004" style="HLStype1">桓伯承影</a>
+hunterinfo_76276=在切磋中戰勝<a href="findnpc_new,adv158,newmp_gujqyg_004" style="HLStype1">桓伯承影</a>
+hunterinfo_76278=在切磋中戰勝<a href="findnpc_new,adv158,newmp_gujqyg_004" style="HLStype1">桓伯承影</a>
+hunterinfo_76279=在切磋中戰勝<a href="findnpc_new,adv158,newmp_gujqyg_004" style="HLStype1">桓伯承影</a>
+hunterinfo_76280=在切磋中戰勝<a href="findnpc_new,adv158,newmp_gujqyg_004" style="HLStype1">桓伯承影</a>
+hunterinfo_76281=在切磋中戰勝<a href="findnpc_new,adv158,newmp_gujqyg_004" style="HLStype1">桓伯承影</a>
+hunterinfo_76282=在切磋中戰勝<a href="findnpc_new,adv158,newmp_gujqyg_004" style="HLStype1">桓伯承影</a>
+hunterinfo_76283=通過<a href="findnpc_new,adv158,newmp_gujqyg_001" style="HLStype1">衛寧</a>前往雞鳴驛，通過<a href="findnpc_new,born01,newmp_gujqyg_002" style="HLStype1">慕容殤</a>進入活動，完成一次「懲惡揚善」活動
+interactinfo_76270=將50個騰蛇令交給<a href="findnpc_new,adv158,newmp_gujqyg_004" style="HLStype1">桓伯承影</a>
+interactinfo_76271=將30個騰蛇令交給<a href="findnpc_new,adv158,newmp_gujqyg_004" style="HLStype1">桓伯承影</a>
+interactinfo_76272=將10個騰蛇令交給<a href="findnpc_new,adv158,newmp_gujqyg_004" style="HLStype1">桓伯承影</a>
+interactinfo_76274=將80個騰蛇令交給<a href="findnpc_new,adv158,newmp_gujqyg_004" style="HLStype1">桓伯承影</a>
+interactinfo_76275=將50個騰蛇令交給<a href="findnpc_new,adv158,newmp_gujqyg_004" style="HLStype1">桓伯承影</a>
+interactinfo_76276=將20個騰蛇令交給<a href="findnpc_new,adv158,newmp_gujqyg_004" style="HLStype1">桓伯承影</a>
+interactinfo_76278=將100個騰蛇令交給<a href="findnpc_new,adv158,newmp_gujqyg_004" style="HLStype1">桓伯承影</a>
+interactinfo_76279=將70個騰蛇令交給<a href="findnpc_new,adv158,newmp_gujqyg_004" style="HLStype1">桓伯承影</a>
+interactinfo_76280=將30個騰蛇令交給<a href="findnpc_new,adv158,newmp_gujqyg_004" style="HLStype1">桓伯承影</a>
+interactinfo_76281=將10個騰蛇令交給<a href="findnpc_new,adv158,newmp_gujqyg_004" style="HLStype1">桓伯承影</a>
+interactinfo_76282=將10個騰蛇令交給<a href="findnpc_new,adv158,newmp_gujqyg_004" style="HLStype1">桓伯承影</a>
+okmenu_76270=<font face="Default" color="#ffffff" >師姐請收好。</font>
+okmenu_76271=<font face="Default" color="#ffffff" >師姐請收好。</font>
+okmenu_76272=<font face="Default" color="#ffffff" >師姐請收好。</font>
+okmenu_76274=<font face="Default" color="#ffffff" >師姐請收好。</font>
+okmenu_76275=<font face="Default" color="#ffffff" >師姐請收好。</font>
+okmenu_76276=<font face="Default" color="#ffffff" >師姐請收好。</font>
+okmenu_76278=<font face="Default" color="#ffffff" >師姐請收好。</font>
+okmenu_76279=<font face="Default" color="#ffffff" >師姐請收好。</font>
+okmenu_76280=<font face="Default" color="#ffffff" >師姐請收好。</font>
+okmenu_76281=<font face="Default" color="#ffffff" >師姐請收好。</font>
+okmenu_76282=<font face="Default" color="#ffffff" >師姐請收好。</font>
+storyinfo_76258=前往<a href="findnpc_new,city03,npc_ty_dy_22" style="HLStype1">城南碼頭</a>，前往南海
+SubmitNpcEx_76265=去找<a href="findnpc_new,adv156,tls_001" style="HLStype1">鴻海</a>商談
+SubmitNpcEx_76267=去找<a href="findnpc_new,adv158,qyg_001" style="HLStype1">陸羲白(閣主)</a>商談
 

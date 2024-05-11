@@ -46,7 +46,6 @@ interactinfo_75418=剛剛醒來，外面有些吵鬧，找<a href="findnpc_new,s
 interactinfo_75419=關心小河子現狀，詢問<a href="findnpc_new,scene32,npc_lzy_201908jq_003" style="HLStype1">店小二</a>情況
 interactinfo_75420=去柴房看望<a href="findnpc_new,scene32,npc_lzy_201908jq_009" style="HLStype1">小河子</a>
 interactinfo_75421=水落石出，大家相繼散去
-interactinfo_75422=前去<a href="findnpc_new,scene32,EventNpc_lzy_201908jq_013" style="HLStype1">店主人房</a>查看<a href="findnpc_new,scene32,npc_lzy_201908jq_011" style="HLStype1">屍體</a>
 interactinfo_75423=查看桌子上的<a href="findnpc_new,scene32,npc_lzy_201908jq_012" style="HLStype1">摩擦痕跡</a>
 interactinfo_75424=前去<a href="findnpc_new,scene32,EventNpc_lzy_201908jq_006" style="HLStype1">天字房</a>
 interactinfo_75425=再去<a href="findnpc_new,scene32,EventNpc_lzy_201908jq_007" style="HLStype1">天字房</a>問詢
@@ -108,10 +107,8 @@ story_75406_2=<font face="Default" color="#ffffff" >我們一直坐在雅座喝�
 story_75408_1=<font face="Default" color="#f40212" >（微微抬眼，掃了你一眼）</font><font face="Default" color="#ffffff" >寧神香。</font>
 story_75408_2=<font face="Default" color="#ffffff" >……</font><font face="Default" color="#ff0019" >（閉口不言）</font>
 story_75409_1=<font face="Default" color="#ffffff" >天字房住的是寒木春華宮的貴客，五行天宮中，木宮門人極善用毒，客官還是敬而遠之為好。</font>
-story_75410_1=<font face="Default" color="#ffffff" >當時我敲了敲門，一位姑娘說正在換衣服讓我稍等片刻，接著便喊她妹妹代她拿藥。不一會，她便開了門，連句謝謝也沒有，拿了藥便關上了門。</font><font face="Default" color="#ff0220" >（自嘲了一下）</font><font face="Default" color="#ffffff" >難道我長得很像淫賊麼……</font>
 story_75410_2=<font face="Default" color="#ffffff" >那倒沒有，但確實聽到了一位姑娘的聲音，至於開門的那位，在店裡住了些時日，大家都知道她不會說話。</font>
 story_75411_1=<font face="Default" color="#ffffff" >好，我這就去請大家過來。</font>
-story_75412_1=<font face="Default" color="#ffffff" >小河子與你看起來很親近，說不定是你們二人合謀殺了人。</font>
 story_75412_2=<font face="Default" color="#ffffff" >謬論！當時大家聽見樓上奇怪的動靜，都上樓查看，就看見房間內只有小河子一個人在。</font>
 story_75412_3=<font face="Default" color="#f9021b" >（知道事情已經敗露，閉口不言）</font>
 story_75412_4=<font face="Default" color="#ffffff" >……</font><font face="Default" color="#ff0019" >（閉嘴不語）</font>
@@ -234,11 +231,14 @@ okmenu_75418=<font face="Default" color="#ffffff" >他竟然被襲了……</fon
 story_75402_1=<font face="Default" color="#ffffff" >眼下大家都認為小河子就是十惡不赦，如果沒有新的證據，明天一早，小河子會被押送到永夜城城主府，至於下場如何，唉，就不是我們所知了。總之，但凡在永夜城犯罪被抓起來，大家都不會再見到這個人了。</font>
 story_75407_1=<font face="Default" color="#ffffff" >年輕人，看你問東問西，是在調查攻克案吧。不過你看看老爺子我這腿腳，想上二樓也上不去啊。</font>
 story_75412_6=<font face="Default" color="#ffffff" >他……死有餘辜！十幾年前，就是這驚世樓主人闖入我們元家，殺害了我們的父母，並搶走了家傳之寶！我們家破人亡，他卻一夜暴富，還開了這家驚世樓，如今我們長大成人，正是來索命的！攻克償命，天經地義！</font>
-story_75416_1=<font face="Default" color="#ffffff" >方才大家都聽見鄙店主人的房內有奇怪的聲響，跑去就看見他已經倒在血泊之中，小河子就站在屍體旁邊。此刻小河子已經被當成攻克兇手關押在柴房裡了。</font>
 storymenu_75402_2=<font face="Default" color="#ffffff" >首先，被害人是被人從背後拿斧頭殺死的。如果因為爭吵而錯手攻克的話，通常身上不可能只有一道傷痕，再來就是小河子身上沒有沾到半滴血，這同樣很可疑。</font>
 storymenu_75404_1=<font face="Default" color="#ffffff" >請問平掌令，今日午飯後至店主人被襲的這段時間在做什麼？</font>
 storymenu_75405_1=<font face="Default" color="#ffffff" >敢問兩位姑娘今日午飯後至店主人被襲的這段時間裡做了些什麼？</font>
 storymenu_75406_1=<font face="Default" color="#ffffff" >在下乃是人字房住客，前來調查兇殺案。不知兩位午飯後至發現店主人被襲的時間裡做了些什麼？</font>
 storymenu_75412_1=<font face="Default" color="#ffffff" >縱觀整個驚世樓，唯有小河子沒有任何勢力傍身，用來做替罪羔羊再合適不過。正因為他經常和我待在一起，你們便趁我房中無人，去裡面布了寧神香，一個動手，一個把風。而後人字房中的我被寧神香暈倒，失去人證的小河子也就理所當然的成了十惡不赦。</font>
 storymenu_75412_6=<font face="Default" color="#ffffff" >你們為了報復，陷害無辜的小河子，與他又有什麼分別？</font>
+interactinfo_75422=前去<a href="findnpc_new,scene32,EventNpc_lzy_201908jq_013" style="HLStype1">店主人房</a>查看<a href="findnpc_new,scene32,npc_lzy_201908jq_011" style="HLStype1">遺骸</a>
+story_75410_1=<font face="Default" color="#ffffff" >當時我敲了敲門，一位姑娘說正在換衣服讓我稍等片刻，接著便喊她妹妹代她拿藥。不一會，她便開了門，連句謝謝也沒有，拿了藥便關上了門。</font><font face="Default" color="#ff0220" >（自嘲了一下）</font><font face="Default" color="#ffffff" >難道我長得很像惡賊麼……</font>
+story_75412_1=<font face="Default" color="#ffffff" >小河子與你看起來很親近，說不定是你們二人合謀害了人。</font>
+story_75416_1=<font face="Default" color="#ffffff" >方才大家都聽見鄙店主人的房內有奇怪的聲響，跑去就看見他已經倒在血泊之中，小河子就站在遺骸旁邊。此刻小河子已經被當成攻克兇手關押在柴房裡了。</font>
 

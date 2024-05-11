@@ -7,7 +7,6 @@ DialogID_35604=我知道了，我會管教好那些士兵的。
 DialogID_35605=那些燕京無賴老是來騷擾我，我現在不敢出門，你去把他們處理掉，我稍後就把胭脂送過去。
 DialogID_35606=既然丞相有心，我就暫且多住些時日吧。
 DialogID_35607=恩，是個好主意。
-DialogID_35608=就是那些該死的老虎。你去把它們都殺了，殺光。此事不了我哪也不去。
 DialogID_35609=就是那些外村徵稅甲首。
 DialogID_35610=這不太好吧！不過，好吧。
 DialogID_35611=這個，前天牛達子來的時候被他借去玩了，你去他府上取吧。
@@ -144,7 +143,6 @@ collectinfo_35604=從<a href="findnpc_new,city01,monc020401" style="HLStype1">�
 collectinfo_35605=從<a href="findnpc_new,city01,monc020201" style="HLStype1">江湖小偷</a>身上取得夜光杯
 collectinfo_35606=從<a href="findnpc_new,city01,Gather0042sl" style="HLStype1">裴將軍碑</a>拓一份裴將軍碑拓本
 collectinfo_35607=從<a href="findnpc_new,city01,Gather0007sl" style="HLStype1">牡丹花叢</a>中採集牡丹花
-collectinfo_35608=從<a href="findnpc_new,city01,Gather0054sl" style="HLStype1">屍體</a>上取得腰牌
 collectinfo_35609=從<a href="findnpc_new,city01,Gather0011sl" style="HLStype1">杏樹</a>上取得杏仁
 collectinfo_35610=從<a href="findnpc_new,city01,Gather0043sl" style="HLStype1">多寶塔碑</a>上拓印一份拓本
 collectinfo_35611=採集<a href="findnpc_new,city01,Gather0003sl" style="HLStype1">醒酒草</a>
@@ -213,13 +211,11 @@ hunterinfo_35639=獵殺<a href="findnpc_new,city01,monc021201" style="HLStype1">
 hunterinfo_35641=殺死<a href="findnpc_new,city01,monc020502" style="HLStype1">商販打手</a>
 hunterinfo_35642=殺死<a href="findnpc_new,city01,monc022502" style="HLStype1">攔路劫匪</a>
 hunterinfo_35644=殺死<a href="findnpc_new,city01,monc022502" style="HLStype1">攔路劫匪</a>
-hunterinfo_35645=殺死<a href="findnpc_new,city01,monc022100" style="HLStype1">淫賊高手</a>
 hunterinfo_35646=殺死<a href="findnpc_new,city01,monc023203" style="HLStype1">食心老者</a>
 hunterinfo_35647=殺死<a href="findnpc_new,city01,monc020102" style="HLStype1">市井無賴</a>
 hunterinfo_35648=殺死<a href="findnpc_new,city01,monc022101" style="HLStype1">採花賊</a>
 hunterinfo_35649=殺死<a href="findnpc_new,city01,monc020502" style="HLStype1">商販打手</a>
 hunterinfo_35650=殺死<a href="findnpc_new,city01,monc022702" style="HLStype1">山寨劫匪頭目</a>
-hunterinfo_35651=殺死<a href="findnpc_new,city01,monc023301" style="HLStype1">人肉屠夫</a>
 hunterinfo_35652=殺死<a href="findnpc_new,city01,monc022106" style="HLStype1">寒潭毒蛇</a>
 hunterinfo_35654=殺死<a href="findnpc_new,city01,monc023500" style="HLStype1">陰風穀妖女</a>
 hunterinfo_35656=殺死<a href="findnpc_new,city01,monc022704" style="HLStype1">劫匪惡犬</a>
@@ -351,7 +347,6 @@ okmenu_35634=我聽說最近軍營裡老會出現老兵欺負新兵的事。
 okmenu_35635=那個惡霸說，你再不把錢交給他，他就要來砸你的店了。
 okmenu_35636=有人叫我告訴你，今天晚上行動。
 okmenu_35637=有人叫我通知您，您要的東西已經搞到了，叫您今天晚上派人到以前約好的地方去交易。
-okmenu_35638=有人托我告訴你，你的目標也是他們的目標。這個人他們要定了，叫你們別來搗亂，否則殺無赦。
 okmenu_35639=你女兒在外面玩呢，她不知道怎麼回來，說要你去接她。
 okmenu_35640=這是一位叫傅曉夢姑娘給你的書信。
 okmenu_35641=信件已送到，在下告辭了。有什麼話需要我轉達的麼？
@@ -590,8 +585,6 @@ storymenu_35618_2=這樣啊.....
 storymenu_35619_1=那麼厲害....
 storymenu_35619_2=玄乎...
 storymenu_35619_3=原來如此
-storymenu_35620_1=這就是水滿則溢，你娘的偏執讓你更加的渴望自由。
-storymenu_35620_2=那個壞男人簡直是禽獸不如，你太傻了。
 storymenu_35621_1=看來你是想仿照李白啊。接下來發生了些什麼呢。
 storymenu_35621_2=生活真是最好的老師，會教會我們很多，你的故事讓我深受啟發。
 storymenu_35623_1=不是每一個人都能成為將軍的。
@@ -627,4 +620,11 @@ hunterinfo_35643=殺死<a href="findnpc_new,city01,monc023202" style="HLStype1">
 hunterinfo_35664=擊敗<a href="findnpc_new,city01,monc023201" style="HLStype1">異人莊侍衛</a>
 hunterinfo_35667=擊敗<a href="findnpc_new,city01,monrc025072" style="HLStype1">異人莊奪劍者</a>
 story_35606_4=　　後來這兄弟兩個果然分開。臨分別的時候，管寧再一次跟華歆講了這個道理，華歆也聽不進去。後來的結果，華歆是被襲的，因為他趨炎附勢。管寧雖然後來流落到了遼東，但是到了遼東以後，用仁義道德教化當地的百姓，得到百姓的愛戴和擁護，在歷史上留下了不俗的名聲。這就是「割席斷交」的故事。
+DialogID_35608=就是那些該死的老虎。你去把它們都除了。此事不了我哪也不去。
+collectinfo_35608=從<a href="findnpc_new,city01,Gather0054sl" style="HLStype1">遺骸</a>上取得腰牌
+hunterinfo_35645=殺死<a href="findnpc_new,city01,monc022100" style="HLStype1">惡賊高手</a>
+hunterinfo_35651=殺死<a href="findnpc_new,city01,monc023301" style="HLStype1">殘忍屠夫</a>
+okmenu_35638=有人托我告訴你，你的目標也是他們的目標。這個人他們要定了，叫你們別來搗亂，否則定不放過。
+storymenu_35620_1=這就是水滿則溢，你的偏執讓你更加的渴望自由。
+storymenu_35620_2=那個壞男人簡直是居心叵測，你太傻了。
 

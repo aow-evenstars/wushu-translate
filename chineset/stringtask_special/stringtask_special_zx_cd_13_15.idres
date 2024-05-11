@@ -27,7 +27,6 @@ DialogID_17340=我們主人說，你如果想找她的話，就去蘇州，你�
 DialogID_17341=我是奉蕭幫主之命特來通知你一個重要消息的。
 DialogID_17343=<s>就是你，就是你之前和徐長老在一起，一定是你殺的徐長老！
 DialogID_17344=（這是蕭幫主的簫，難道是慕容魏玉？）
-DialogID_17345=<s>我剛剛看過徐長老的屍體了，這是君子堂蕭別情的簫，看來這件事和君子堂脫不了干係！
 DialogID_17346=<s>好吧，剛剛我們也有些衝動了，我信你一回。
 QiecuoMenu_17302=你這惡徒，看招。
 QiecuoMenu_17305=你要幹什麼？
@@ -45,13 +44,11 @@ QiecuoTitle_17302=<s>哼哼，別以為你打敗我那幾個手下就是有能�
 QiecuoTitle_17305=<s>你一定是黃島主，我要和你比武，我要和你比武！
 QiecuoTitle_17308=<s>休要多言，看招。
 QiecuoTitle_17309=你竟然擅闖我連環塢，拿命來。
-QiecuoTitle_17316=<s>媽的，老子急著去找我的紅袖兒呢，你別來壞我好事！
 QiecuoTitle_17319=等等，聽我說完，我......
 QiecuoTitle_17320=少廢話，出招吧。
 QiecuoTitle_17328=<s>你敢罵我，找死！看我不要了你的小命！
 QiecuoTitle_17332=<s>少廢話，如果你能在一炷香的時間裡打敗我，我就告訴你！
 QiecuoTitle_17333=你在這東張西望不少時間了，想幹什麼？跟我回去見旗主去！
-QiecuoTitle_17335=<s>你可別小看了我們錦衣衛，這點迷藥還沒那麼容易讓你抓到我。
 SubmitNpcEx_34583=告知<a href="findnpc_new,city02,WorldNpc01194" style="HLStype1">林天南</a>自己的決心
 SubmitNpcEx_34588=<a href="findnpc_new,city02,WorldNpc01223" style="HLStype1">四處</a>走走想想其他辦法
 SubmitNpcEx_34592=找到傻姑——<a href="findnpc_new,city02,WorldNpc01225" style="HLStype1">朱桃兒</a>
@@ -140,7 +137,6 @@ interactinfo_17327=去<a href="findnpc_new,city04,WorldNpc10333" style="HLStype1
 interactinfo_17328=往<a href="findnpc_new,city04,EventNpc34665_1" style="HLStype1">客棧</a>看看
 interactinfo_17329=看看<a href="findnpc_new,city04,EventNpc34665_2" style="HLStype1">周邊</a>的情況
 interactinfo_17330=找<a href="findnpc_new,city04,FuncNpc511" style="HLStype1">雜貨店老闆</a>買信鴿
-interactinfo_17331=<a href="findnpc_new,city04,FuncNpc509" style="HLStype1">藥堂老闆</a>拿取迷藥
 interactinfo_17332=去找<a href="findnpc_new,city04,WorldNpc10119" style="HLStype1">繆櫻</a>
 interactinfo_17333=與<a href="findnpc_new,city04,WorldNpc10120" style="HLStype1">慕容荻雲</a>交談
 interactinfo_17334=與<a href="findnpc_new,school03,WorldNpc03465" style="HLStype1">孟夢</a>交談
@@ -153,7 +149,6 @@ interactinfo_17340=去找<a href="findnpc_new,school03,WorldNpc03394" style="HLS
 interactinfo_17341=看看<a href="findnpc_new,city02,WorldNpc01502" style="HLStype1">秦軒奇</a>有什麼事
 interactinfo_17342=看看<a href="findnpc_new,city02,EventNpc34680" style="HLStype1">門外</a>為何嘈雜
 interactinfo_17343=找<a href="findnpc_new,city02,WorldNpc01503" style="HLStype1">勞亮</a>交談
-interactinfo_17344=調查<a href="findnpc_new,city02,WorldNpc01226" style="HLStype1">屍體</a>
 interactinfo_17345=找<a href="findnpc_new,city02,WorldNpc01506" style="HLStype1">范單</a>解釋
 interactinfo_17346=和<a href="findnpc_new,city02,WorldNpc01506" style="HLStype1">范單</a>談談
 okmenu_17301=老闆娘，你可知道人口販子的一些情況啊？
@@ -193,7 +188,6 @@ story_17302_1=你是明朝開國元勳宋國公馮勝的外孫！在明朝很多
 story_17302_2=你雖然現在在江湖上受到一些門派的鄙夷，但是江湖之事，並沒有人有權評判對錯。一切按自己的善惡觀行事，不必拘泥於自己的心事。這件事對你來說可能暫時找不到頭緒，你還是自己冷靜的想一下吧。
 story_17303_2=<s>我叫岑九，我叫岑九，嘿嘿。
 story_17303_3=我怎麼了？我好就沒看見人了，你是黃島主麼......
-story_17304_1=《九陰真經》乃是武林至高無上的武功秘笈，但是招式狠毒。曾今有人練習《九陰真經》之後在江湖大開殺戒。弄得整個武林血雨腥風。
 story_17304_2=《九陰真經》應該是在九宮老人之處，但是我爹說當年可能有一手抄本，現在經書重現江湖在我爹看來，武林不免出現一場惡鬥。
 story_17305_1=我明白你的意思，以前十二連環塢一直是惡人們的避世之所，本來父親處事很是低調，不與江湖多生瓜葛。但是現在卻完全改變了......
 story_17305_2=<s>這我也不是很清楚，但是我感覺很最近《九陰真經》謠言出現是同一個時間......
@@ -226,7 +220,6 @@ story_17331_1=哈哈，你以為你出得了這洛陽城？我們旗主為了防
 story_17331_2=<s>你們就看著我錦衣衛獨霸天下吧。
 story_17332_1=這些年來，像江湖排行榜什麼的盡是一些利用江湖人爭強好勝之心挑撥江湖勢力的手段.....
 story_17332_2=這次的事件這麼突然，規模這麼大，再加上錦衣衛的最近的種種異動，我看十有九成是錦衣衛幹的。
-story_17333_1=<s>迷藥有啊，你要多少，這可是很貴的。沒錢的話你就早點走吧。
 story_17333_2=<s>人命？別...別嚇我，這個我看這要就送你吧，這裡小本生意。你放過我吧。
 story_17333_3=<s>小的有眼不識泰山，饒小的一條生路吧......
 story_17333_4=<s>你再跟我客氣，我可...可發火了......
@@ -261,7 +254,6 @@ story_menu_17329=
 story_menu_17330=你現在可心服口服？
 story_menu_17331=少唬人，現在只要快馬加鞭，肯定能趕上救援。
 story_menu_17332=我也瞭解到一些朝廷線人和百曉生的情況。
-story_menu_17333=老闆，你這可有迷藥？
 story_menu_17334=錦衣衛的大隊人馬已經十分接近君子堂了。
 story_menu_17335=蕭幫主，你沒事吧？
 story_menu_17336=你用你的邪功傷了她，一直難以治癒。
@@ -284,7 +276,6 @@ storyinfo_17328=聽<a href="findnpc_new,school07,WorldNpc04403" style="HLStype1"
 storyinfo_17330=看看<a href="findnpc_new,city04,WorldNpc10334" style="HLStype1">朱佩蘭</a>知道些什麼
 storyinfo_17331=聽<a href="findnpc_new,city04,WorldNpc10334" style="HLStype1">朱佩蘭</a>要說些什麼
 storyinfo_17332=聽<a href="findnpc_new,school07,WorldNpc04403" style="HLStype1">沖虛道長</a>的見解
-storyinfo_17333=詢問這<a href="findnpc_new,city04,FuncNpc509" style="HLStype1">藥堂老闆</a>有沒有迷藥
 storyinfo_17334=向<a href="findnpc_new,city04,WorldNpc10120" style="HLStype1">慕容荻雲</a>說明情況
 storyinfo_17335=找<a href="findnpc_new,school03,WorldNpc03305" style="HLStype1">蕭別情</a>
 storyinfo_17336=勸說<a href="findnpc_new,city02,WorldNpc01472" style="HLStype1">慕容魏玉</a>
@@ -354,7 +345,6 @@ useiteminfo_17302=為<a href="findnpc_new,city02,WorldNpc01186" style="HLStype1"
 useiteminfo_17303=向王逍出示<a href="TASK_ITEM,useitem_52a" style="HLStype1">錦衣衛腰佩</a>
 useiteminfo_17304=將<a href="TASK_ITEM,useitem_54a" style="HLStype1">書信</a>放回<a href="findnpc_new,city03,EventNpc34630" style="HLStype1">原處</a>
 useiteminfo_17305=用<a href="TASK_ITEM,useitem_56a" style="HLStype1">信鴿</a>給武當傳信
-useiteminfo_17306=對<a href="findnpc_new,city04,WorldNpc10106" style="HLStype1">喬山</a>使用<a href="TASK_ITEM,useitem_57a" style="HLStype1">迷藥</a>
 useiteminfo_17307=為<a href="findnpc_new,school03,WorldNpc03395" style="HLStype1">慕容荻雲</a>使用<a href="TASK_ITEM,useitem_58a" style="HLStype1">療傷藥</a>
 useiteminfo_17308=為<a href="findnpc_new,school03,WorldNpc03395" style="HLStype1">慕容荻雲</a>使用<a href="TASK_ITEM,useitem_59a" style="HLStype1">丹陽草葉</a>
 useiteminfo_17320=用<a href="TASK_ITEM,useitem_53a" style="HLStype1">癢草汁</a>對付<a href="findnpc_new,city01,WorldNpc08769" style="HLStype1">王逍</a>
@@ -363,4 +353,14 @@ hunterinfo_17307=擊敗<a href="findnpc_new,city02,monrc011800" style="HLStype1"
 story_17303_1=　　我知道，這裡是四月島，我在這兒迷路兩年了，這裡到處都是桃樹，還會動，我走來走去也找不到出去的路。
 QiecuoTitle_17340=　　少廢話！你竟然協助錦衣衛，我要為徐長老報復！大家一起上！
 hunterinfo_17338=擊敗<a href="findnpc_new,school03,monrm032400" style="HLStype1">錦衣衛突擊弟子</a>
+DialogID_17345=<s>我剛剛看過徐長老的遺骸了，這是君子堂蕭別情的簫，看來這件事和君子堂脫不了干係！
+QiecuoTitle_17316=<s>老子急著去找我的紅袖兒呢，你別來壞我好事！
+QiecuoTitle_17335=<s>你可別小看了我們錦衣衛，這點眩暈藥還沒那麼容易讓你抓到我。
+interactinfo_17331=<a href="findnpc_new,city04,FuncNpc509" style="HLStype1">藥堂老闆</a>拿取眩暈藥
+interactinfo_17344=調查<a href="findnpc_new,city02,WorldNpc01226" style="HLStype1">遺骸</a>
+story_17304_1=　　《九陰真經》乃是武林至高無上的武功秘籍，但是招式狠毒。曾今有人練習《九陰真經》之後在江湖肆意妄為。弄得整個武林血雨腥風。
+story_17333_1=<s>眩暈藥有啊，你要多少，這可是很貴的。沒錢的話你就早點走吧。
+story_menu_17333=老闆，你這可有眩暈藥？
+storyinfo_17333=詢問這<a href="findnpc_new,city04,FuncNpc509" style="HLStype1">藥堂老闆</a>有沒有眩暈藥
+useiteminfo_17306=對<a href="findnpc_new,city04,WorldNpc10106" style="HLStype1">喬山</a>使用<a href="TASK_ITEM,useitem_57a" style="HLStype1">眩暈藥</a>
 
