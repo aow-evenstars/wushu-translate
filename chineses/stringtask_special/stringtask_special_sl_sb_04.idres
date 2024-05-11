@@ -1,0 +1,102 @@
+﻿
+DialogID_48780=Đạo thuật ta không thể xua tan Ác Quỷ hung ác, ngươi đến tìm Vong Lí Khắc bên đó xem thử đi.
+DialogID_48781=Người đời thường nói: "Tự tạo nghiệp, không thể sống sót.”
+DialogID_48782=Hihi, bất cứ ai đến nơi này đều cảm nhận được sự âm u sợ hãi, ngươi đến gần đây tìm một Mai Rùa mang bên người là được.
+DialogID_48783=Ta cũng có dự cảm này, nhưng bọn ta phải trị lành vết thương ta mới có thể vui vẻ rời đi, ngươi đến tìm mấy Độc Thiệt Lan đến đi.
+DialogID_48784=Cảm tạ ngươi, ta thấy tốt hơn nhiều rồi.
+DialogID_48785=Thật sao? Chả trách ta đi thế nào cũng không ra khỏi đây được, giống như lạc vào mê cung vậy.
+DialogID_48786=Hừ, ta không sợ bọn quỷ hồn này, ta nhất định đào được bảo tàng nước Tây Hạ!
+DialogID_48787=Trên người ta trước giờ không mang theo Xà Dược, nhưng nếu ngươi lấy ít Xà Bì về ta có thể làm một ít cho ngươi.
+DialogID_48788=Lòng thành Lý mỗ trước giờ chưa thay đổi, nguyện dốc hết sức lực cho chủ nhân Tây Hạ ta.
+DialogID_48789=Nhiều đời tộc ta bảo vệ nơi này, một lòng trung thành trời đất chứng giám.
+DialogID_48790=Ta biết, bảo hắn yên tâm đi.
+DialogID_48791=Ha ha, lần này bọn ta phát tài rồi.
+DialogID_48792=Nơi này có lịch sử gì, ngươi đến đuổi bọn Quỷ Bồ Tát đáng ghét ấy đi.
+DialogID_48793=Ngươi đã phá hoại nghi thức bọn ta, đến diệt bọn Thủ Linh Tiên Cô chuộc tội đi.
+DialogID_48794=Ta đến trừ khử bọn Nữ Quỷ ấy.
+DialogID_48795=Ồ? Ta cũng có cảm nhận này, xem ra ta không thể khoanh tay rồi, ngươi đến giáo huấn chúng giúp ta.
+DialogID_48796=Hừ, ta không sợ hắn, ta nhất định tìm được bảo tàng rồi mới đi!
+collectinfo_48780=Giúp Diệp Hành Luân dùng <a href="TASK_ITEM,Gather0015w" style="HLStype1">Mai Rùa Thần Bí</a>
+collectinfo_48781=Thu thập <a href="TASK_ITEM,Gether0016wu" style="HLStype1">Độc Thiệt Lan</a>
+collectinfo_48782=Thu thập <a href="findnpc_new,scene09,Gather0016wu" style="HLStype1">Độc Thiệt Lan</a>
+collectinfo_48783=Đánh bại <a href="findnpc_new,scene09,monf094100" style="HLStype1">Hắc Dầu Hưởng Vĩ Xà</a> thu thập <a href="TASK_ITEM,taskitem_17w" style="HLStype1">Xà Bì</a>
+collectinfo_48784=Thu thập <a href="findnpc_new,scene09,Gather0016wu" style="HLStype1">Độc Thiệt Lan</a>
+collectinfo_48786=Thu thập <a href="findnpc_new,scene09,monf094502" style="HLStype1">Linh Đao Hộ Vệ</a>
+collectinfo_48787=Thu thập <a href="findnpc_new,scene09,monf094702" style="HLStype1">Độc Cương Thi</a>
+collectinfo_48788=Thu thập <a href="findnpc_new,scene09,monf094501" style="HLStype1">Thạch Khắc Giải Độc Nhân</a>
+hunterinfo_48780=Đánh bại <a href="findnpc_new,scene09,monf094201" style="HLStype1">Quỷ Bồ Tát</a>
+hunterinfo_48781=Đánh bại <a href="findnpc_new,scene09,monf094202" style="HLStype1">Thủ Linh Tiên Cô</a>
+hunterinfo_48782=Đánh bại <a href="findnpc_new,scene09,monf094300" style="HLStype1">Thiên Canh Hộ Pháp</a>
+hunterinfo_48783=Đánh bại <a href="findnpc_new,scene09,monf094400" style="HLStype1">Địa Sát Hộ Pháp</a>
+hunterinfo_48784=Đánh bại <a href="findnpc_new,scene09,monf094301" style="HLStype1">Thiên Canh Sứ Đồ</a>
+hunterinfo_48785=Đánh bại <a href="findnpc_new,scene09,monf094401" style="HLStype1">Địa Sát Sứ Đồ</a>
+hunterinfo_48786=Đánh bại <a href="findnpc_new,scene09,monf094100" style="HLStype1">Hắc Dầu Hưởng Vĩ Xà</a>
+hunterinfo_48787=Đánh bại <a href="findnpc_new,scene09,monf094101" style="HLStype1">Man Đà Yêu Nữ</a>
+hunterinfo_48788=Đánh bại <a href="findnpc_new,scene09,monf094102" style="HLStype1">Độc Thi Ma Nữ</a>
+hunterinfo_48789=Đánh bại <a href="findnpc_new,scene09,monf094500" style="HLStype1">Vương Lăng Vệ Binh</a>
+hunterinfo_48790=Đánh bại <a href="findnpc_new,scene09,monf094700" style="HLStype1">Vương Lăng Thủ Vệ</a>
+hunterinfo_48791=Đánh bại <a href="findnpc_new,scene09,monf094600" style="HLStype1">Thạch Tượng Linh Vệ</a>
+hunterinfo_48792=Đánh bại <a href="findnpc_new,scene09,monf094601" style="HLStype1">Thạch Tượng Thủ Vệ Binh</a>
+hunterinfo_48793=Đánh bại <a href="findnpc_new,scene09,monf094502" style="HLStype1">Linh Đao Hộ Vệ</a>
+hunterinfo_48794=Đánh bại <a href="findnpc_new,scene09,monf094503" style="HLStype1">Long Cốt Kỵ Binh</a>
+hunterinfo_48795=Đánh bại <a href="findnpc_new,scene09,monf094503" style="HLStype1">Long Cốt Kỵ Binh</a>
+hunterinfo_48796=Đánh bại <a href="findnpc_new,scene09,monf094502" style="HLStype1">Linh Đao Hộ Vệ</a>
+hunterinfo_48797=Đánh bại <a href="findnpc_new,scene09,monf094702" style="HLStype1">Độc Cương Thi</a>
+hunterinfo_48798=Đánh bại <a href="findnpc_new,scene09,monf094200" style="HLStype1">Ác Phỉ Đào Mộ</a>
+hunterinfo_48799=Đánh bại <a href="findnpc_new,scene09,monf094701" style="HLStype1">Hộ Lăng Tử Sĩ</a>
+hunterinfo_48800=Đánh bại <a href="findnpc_new,scene09,monf094200" style="HLStype1">Ác Phỉ Đào Mộ</a>
+hunterinfo_48801=Đánh bại <a href="findnpc_new,scene09,monf094701" style="HLStype1">Hộ Lăng Tử Sĩ</a>
+hunterinfo_48802=Đánh bại <a href="findnpc_new,scene09,monf094700" style="HLStype1">Vương Lăng Thủ Vệ</a>
+hunterinfo_48803=Đánh bại <a href="findnpc_new,scene09,monf094202" style="HLStype1">Thủ Linh Tiên Cô</a>
+hunterinfo_48804=Đánh bại <a href="findnpc_new,scene09,monf094201" style="HLStype1">Quỷ Bồ Tát</a>
+hunterinfo_48805=Đánh bại <a href="findnpc_new,scene09,monf094100" style="HLStype1">Hắc Dầu Hưởng Vĩ Xà</a>
+interactinfo_48780=Trò chuyện cùng <a href="findnpc_new,scene09,WorldNpc07255" style="HLStype1">Diệp Hành Luân</a>
+interactinfo_48781=Trò chuyện cùng <a href="findnpc_new,scene09,WorldNpc07256" style="HLStype1">Vong Lí Khắc</a>
+interactinfo_48782=Trò chuyện cùng <a href="findnpc_new,scene09,WorldNpc07257" style="HLStype1">Thác Bạt Thương Mộc</a>
+interactinfo_48783=Trò chuyện cùng <a href="findnpc_new,scene09,WorldNpc07253" style="HLStype1">Bao Chấn Húc</a>
+interactinfo_48784=Trò chuyện cùng <a href="findnpc_new,scene09,WorldNpc07254" style="HLStype1">Mạnh Thời</a>
+interactinfo_48785=Trò chuyện cùng <a href="findnpc_new,scene09,WorldNpc07259" style="HLStype1">Nhiệt Hắc Mộc</a>
+interactinfo_48786=Trò chuyện cùng <a href="findnpc_new,scene09,WorldNpc07251" style="HLStype1">Cảnh Thần Phi</a>
+interactinfo_48787=Trò chuyện cùng <a href="findnpc_new,scene09,WorldNpc07258" style="HLStype1">A Bì Tư</a>
+interactinfo_48788=Trò chuyện cùng <a href="findnpc_new,scene09,WorldNpc07262" style="HLStype1">Thác Bạt Hạ</a>
+interactinfo_48789=Trò chuyện cùng <a href="findnpc_new,scene09,WorldNpc07257" style="HLStype1">Thác Bạt Thương Mộc</a>
+interactinfo_48790=Trò chuyện cùng <a href="findnpc_new,scene09,WorldNpc07265" style="HLStype1">Ba Lạp Đề</a>
+interactinfo_48791=Trò chuyện cùng <a href="findnpc_new,scene09,WorldNpc07266" style="HLStype1">Nhiệt Giới Phủ</a>
+interactinfo_48792=Trò chuyện cùng <a href="findnpc_new,scene09,WorldNpc07264" style="HLStype1">Cáp Lí Khắc</a>
+interactinfo_48793=Trò chuyện cùng <a href="findnpc_new,scene09,WorldNpc07267" style="HLStype1">Ba Thổ Nhĩ</a>
+interactinfo_48794=Trò chuyện cùng <a href="findnpc_new,scene09,WorldNpc07265" style="HLStype1">Ba Lạp Đề</a>
+interactinfo_48795=Trò chuyện cùng <a href="findnpc_new,scene09,WorldNpc07262" style="HLStype1">Thác Bạt Hạ</a>
+interactinfo_48796=Trò chuyện cùng <a href="findnpc_new,scene09,WorldNpc07251" style="HLStype1">Cảnh Thần Phi</a>
+okmenu_48780=Biết rồi, ta đi liền.
+okmenu_48781=Biết rồi. Ta trở về báo với hắn.
+okmenu_48782=Được, ta về báo với hắn.
+okmenu_48783=Được rồi, ta đi đây.
+okmenu_48784=Được. Vậy ta xin cáo từ.
+okmenu_48785=Đúng vây. Mau trở về đi.
+okmenu_48786=Ngươi đừng mơ tưởng hão huyền nữa!
+okmenu_48787=Được thôi. Ta đi đây.
+okmenu_48788=Ta biết rồi. Ta đi trước đây.
+okmenu_48789=Ta biết rồi. Ta về báo với hắn.
+okmenu_48790=Biết rồi. Vậy ta xin cáo từ.
+okmenu_48791=Biết rồi. Ta trở về báo với hắn.
+okmenu_48792=Được thôi. Ta đi đây.
+okmenu_48793=Được thôi. Ta đi đây.
+okmenu_48794=Được thôi. Ta đi đây.
+okmenu_48795=Được thôi. Ta đi đây.
+okmenu_48796=Dù sao ta đã chuyển lời, tại hạ xin cáo từ.
+story_48780_1=Chắc ngươi đã biết, rất nhiều người nói trong Vương Lăng Tây Hạ Quốc ẩn chứa rất nhiều bảo tàng.
+story_48780_2=Đúng vậy, trong Vương Lăng này chôn cất một bảo tàng lớn, nhưng thứ quý nhất không phải số bảo tàng này, mà có một cơ mật trọng đại bên trong. Nếu ngươi giúp ta diệt bọn Hộ Lăng Tử Sĩ, ta có thể nói cho ngươi biết.
+story_48781_1=Thực ra Lý Thị Tây Hạ ban đầu không phải họ Lý, bọn chúng họ Thác Bạt như bọn ta, sau đó chúng trở thành vương tộc, đổi thành họ Lý, còn bọn ta vẫn lấy họ Thác Bạt.
+story_48781_2=Chỉ là dần dần họ Thác Bạt bọn ta và họ Lý vương tộc có nhiều ngăn cách, càng ngày càng xa dần, nhưng bọn ta mãi không quên được huyết dịch Đảng Hạng đang chảy trong người!
+story_menu_48780=Đây không phải là tòa Vương Lăng đơn giản.
+story_menu_48781=Ai ai đều biết Lý Thị Tây Hạ, nhưng họ biết lịch sử người Đảng Hạng bọn ta không?
+storyinfo_48780=Nghe <a href="findnpc_new,scene09,WorldNpc07263" style="HLStype1">Lý Nguyên Thắng</a> kể chuyện
+storyinfo_48781=Nghe <a href="findnpc_new,scene09,WorldNpc07257" style="HLStype1">Thác Bạt Thương Mộc</a> kể chuyện
+storymenu_48780_1=Đúng vậy, ta cũng có nghe qua.
+storymenu_48780_2=Rốt cuộc có bí mật gì sao?
+storymenu_48781_1=Còn có việc này?
+storymenu_48781_2=Thì ra còn có câu chuyện như vậy.
+useiteminfo_48780=Cho Nhiệt Mộc Hắc dùng <a href="TASK_ITEM,useitem_005w" style="HLStype1">Hộ Thân Phù</a>
+useiteminfo_48781=Cho <a href="findnpc_new,scene09,WorldNpc07251" style="HLStype1">Cảnh Thần Phi</a> dùng <a href="TASK_ITEM,useitem_006w" style="HLStype1">Mông Hãn Dược</a>
+useiteminfo_48783=Dùng <a href="TASK_ITEM,useitem_007w" style="HLStype1">An Hồn Thủy</a>
+

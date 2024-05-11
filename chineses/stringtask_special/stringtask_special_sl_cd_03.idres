@@ -1,0 +1,75 @@
+﻿
+DialogID_39800=Ừm, tốt lắm, không ngờ Giác Đệ Văn Thái tốt như vậy.
+DialogID_39801=Phu nhân ở trong trang, thiếu hiệp có thể trực tiếp đi tìm phu nhân.
+DialogID_39802=Á! Đây là thư đe dọa, trong thư nói chỉ cần ta ra khỏi sơn trang sẽ vong mạng... Ngươi mau giao thư này cho mẫu thân xem thử.
+DialogID_39803=Ngươi là ai? Nhị công tử đang đọc sách, không tiện gặp khách.
+DialogID_39804=Lão thái quân năm xưa vất vả quá độ, bệnh cũ để lại nhiều năm, chỗ ta còn thiếu 1 vị Tử Lan Thảo, ngươi đi hái ít về cho ta.
+DialogID_39805=Tôi đã đặt lương thực ở cửa rồi, xin nhận lấy, cuộc sống ngày càng khó khăn.
+DialogID_39806=Mấy ngày trước có 1 mật thám đến Nam Cung Phủ hình như phát hiện hành tung của mình bị bại lộ, ngươi đi điều tra thử.
+DialogID_39807=Ta phụng lệnh từ Kinh Sư đến đây, nhưng vừa đến Tô Châu thì bị tiêu đầu của Lăng Thiên Tiêu Cục cướp mất lệnh bài, ta đang muốn báo cáo trang chủ giúp ta đòi lại.
+DialogID_39808=Thuốc tướng công đưa cho ta? Đa tạ thiếu hiệp.
+DialogID_39809=Là tỷ tỷ bảo ngươi đến ư? Tỷ tỷ vẫn luôn đối xử tốt với ta nhất...
+DialogID_39810=Vậy xem thử ngươi có bản lĩnh này không.
+DialogID_39811=Võ công của Nam Cung tiểu thư giỏi hơn ta, cũng không rõ lắm, ngươi đi tìm Nhị công tử hỏi thử xem.
+DialogID_39812=Luyện võ là việc tiến hành theo thứ tự, không thể vội vàng, ta quay về sẽ đi chỉ bảo thêm cho nàng ta.
+DialogID_39813=Hôm qua Tam công tử đến đây đuổi ta ra ngoài, các việc khác thì ta không biết.
+DialogID_39814=Việc này ta tự có sắp xếp, việc không nên quản thì đừng quản, ngươi đi nói với quản gia nhé.
+collectinfo_39800=Thu thập <a href="findnpc_new,city05,Gather00014p" style="HLStype1">Thần Long Thảo</a>
+collectinfo_39801=Từ trên người <a href="findnpc_new,city05,monc052102" style="HLStype1">Lăng Thiên Tiêu Cục Đệ Tử</a> nhận được <a href="TASK_ITEM,taskitem_p063" style="HLStype1">Hàng Hóa</a>
+collectinfo_39802=Từ trên người <a href="findnpc_new,city05,monc052101" style="HLStype1">Lăng Thiên Tiêu Cục Tiêu Sư</a> đoạt lại <a href="TASK_ITEM,taskitem_p064" style="HLStype1">Lương Thực</a>
+collectinfo_39803=Tiêu diệt <a href="findnpc_new,city05,monc052401" style="HLStype1">A Hoàn Nam Cung Phủ</a>, tìm <a href="TASK_ITEM,taskitem_p056" style="HLStype1">Thư Thất Lạc</a>
+collectinfo_39804=Thu thập <a href="findnpc_new,city05,Gather00016p" style="HLStype1">Tiên Chu Thảo</a>
+collectinfo_39805=Thu thập <a href="findnpc_new,city05,Gather00017p" style="HLStype1">Gỗ</a>
+collectinfo_39806=Thu thập <a href="findnpc_new,city05,Gather00019p" style="HLStype1">Tử Lan Thảo</a>
+collectinfo_39807=Nhặt lấy <a href="findnpc_new,city05,Gather00020p" style="HLStype1">1 Túi Lương Thực</a> giao cho <a href="findnpc_new,city05,WorldNpc09987" style="HLStype1">Ngưu Nhị</a>
+collectinfo_39808=Tiêu diệt <a href="findnpc_new,city05,monc052700" style="HLStype1">Nam Cung Phủ Mật Thám</a>, lấy được <a href="TASK_ITEM,taskitem_p055" style="HLStype1">Thư Bị Lấy Trộm</a>
+collectinfo_39809=Tiêu diệt <a href="findnpc_new,city05,monc052100" style="HLStype1">Lăng Thiên Tiêu Đầu</a>, lấy được <a href="TASK_ITEM,taskitem_p057" style="HLStype1">Lệnh Bài</a>
+hunterinfo_39800=Đánh bại <a href="findnpc_new,city05,monc052400" style="HLStype1">Nam Cung Phủ Bộc Chúng</a>
+hunterinfo_39801=Đánh bại <a href="findnpc_new,city05,monc052301" style="HLStype1">Nam Cung Phủ Thủ Vệ</a>
+hunterinfo_39802=Đánh bại <a href="findnpc_new,city05,monc052201" style="HLStype1">Sơn Cước Ác Côn</a>
+hunterinfo_39803=Đánh bại <a href="findnpc_new,city05,monc052200" style="HLStype1">Sơn Cước Ác Tặc</a>
+hunterinfo_39804=Đánh bại <a href="findnpc_new,city05,monc052102" style="HLStype1">Lăng Thiên Tiêu Cục Đệ Tử</a>
+hunterinfo_39805=Đánh bại <a href="findnpc_new,city05,monc052101" style="HLStype1">Lăng Thiên Tiêu Cục Tiêu Sư</a>
+hunterinfo_39806=Đánh bại <a href="findnpc_new,city05,monc052500" style="HLStype1">Canh Gác Nam Cung Phủ Thủy Lao</a>
+hunterinfo_39807=Đánh bại <a href="findnpc_new,city05,monc052300" style="HLStype1">Nam Cung Phủ Kiếm Vệ</a>
+hunterinfo_39808=Đánh bại <a href="findnpc_new,city05,monc052300" style="HLStype1">Nam Cung Phủ Kiếm Vệ</a>
+hunterinfo_39809=Đánh bại <a href="findnpc_new,city05,monc052600" style="HLStype1">Nam Cung Phủ Kiếm Khách</a>
+interactinfo_39800=Gặp <a href="findnpc_new,city05,WorldNpc09992" style="HLStype1">Nam Cung Tuấn</a>
+interactinfo_39801=Trò chuyện cùng <a href="findnpc_new,city05,WorldNpc09999" style="HLStype1">Quản Gia</a>
+interactinfo_39802=Trò chuyện với <a href="findnpc_new,city05,WorldNpc09993" style="HLStype1">Nam Cung Liệt</a>
+interactinfo_39803=Trò chuyện với <a href="findnpc_new,city05,WorldNpc09956" style="HLStype1">Nam Cung Lưu</a>
+interactinfo_39804=Trò chuyện cùng <a href="findnpc_new,city05,WorldNpc09999" style="HLStype1">Quản Gia</a>
+interactinfo_39805=Trò chuyện với <a href="findnpc_new,city05,WorldNpc09984" style="HLStype1">Lý Lục Nhi</a>
+interactinfo_39806=Trò chuyện với <a href="findnpc_new,city05,WorldNpc09998" style="HLStype1">Nam Cung Sửu</a>
+interactinfo_39807=Trò chuyện với <a href="findnpc_new,city05,WorldNpc09961" style="HLStype1">Quy Nhạn Lai</a>
+interactinfo_39808=Trò chuyện với <a href="findnpc_new,city05,WorldNpc09981" style="HLStype1">Lâm Tẩu</a>
+interactinfo_39809=Trò chuyện với <a href="findnpc_new,city05,WorldNpc09920" style="HLStype1">Đậu Lục</a>
+interactinfo_39810=Trò chuyện với <a href="findnpc_new,city05,WorldNpc09622" style="HLStype1">Thảo Thượng Phi</a>
+interactinfo_39811=Trò chuyện với <a href="findnpc_new,city05,WorldNpc09957" style="HLStype1">Nam Cung Bình</a>
+interactinfo_39812=Trò chuyện với <a href="findnpc_new,city05,WorldNpc09959" style="HLStype1">Nam Cung Tường</a>
+interactinfo_39813=Trò chuyện với <a href="findnpc_new,city05,WorldNpc09987" style="HLStype1">Ngưu Nhị</a>
+interactinfo_39814=Trò chuyện với <a href="findnpc_new,city05,WorldNpc09993" style="HLStype1">Nam Cung Liệt</a>
+okmenu_39800=Vậy ta sẽ đi đưa cho Tranh Nhi xem.
+okmenu_39801=Được.
+okmenu_39802=Được.
+okmenu_39803=Ta được Nhị phu nhân dặn dò, giao ngọc bội cho Nhị công tử.
+okmenu_39804=Được.
+okmenu_39805=...
+okmenu_39806=Đúng vậy.
+okmenu_39807=Đây là việc nhỏ, giao cho ta đi.
+okmenu_39808=Mau uống đi.
+okmenu_39809=Triệu Phấn cô nương bảo ngươi ăn hết về nghỉ ngơi, việc hôm nay giao cho cô ấy là được rồi...
+okmenu_39810=Cẩu tặc to gan, hôm nay ta sẽ xử ngươi
+okmenu_39811=Vậy được, ta lại đi tìm Nhị công tử hỏi thử.
+okmenu_39812=Được.
+okmenu_39813=Vậy ta đi hỏi thử Tam công tử.
+okmenu_39814=Được.
+useiteminfo_39800=Cho <a href="findnpc_new,city05,WorldNpc09981" style="HLStype1">U Già Thu Tô Viện</a> dùng <a href="TASK_ITEM,useitem_023p" style="HLStype1">Canh Thuốc Nấu Xong</a>
+useiteminfo_39801=Cho <a href="findnpc_new,city05,WorldNpc09920" style="HLStype1">Đậu Lục</a> dùng <a href="TASK_ITEM,useitem_022p" style="HLStype1">Bánh Bao</a>
+useiteminfo_39802=Dùng <a href="TASK_ITEM,useitem_024p" style="HLStype1">Dây Thừng</a> trói <a href="findnpc_new,city05,WorldNpc09622" style="HLStype1">Thảo Thượng Phi</a> lên
+useiteminfo_39803=Dùng <a href="TASK_ITEM,useitem_025p" style="HLStype1">Đề Thần Đan</a>
+useiteminfo_39804=Cho <a href="findnpc_new,city05,WorldNpc09979" style="HLStype1">Trướng Phòng Tiên Sinh</a> dùng <a href="TASK_ITEM,useitem_026p" style="HLStype1">Mê Hồn Đan</a>
+useiteminfo_39805=Đút <a href="findnpc_new,city05,WorldNpc09991" style="HLStype1">Diệp Thúy Lan</a> uống <a href="TASK_ITEM,useitem_027p" style="HLStype1">Canh Thuốc</a>
+useiteminfo_39806=Giúp <a href="findnpc_new,city05,WorldNpc09919" style="HLStype1">Nam Cung Bình</a> bôi <a href="TASK_ITEM,useitem_028p" style="HLStype1">Nguyên Khí Chân Thủy</a>
+useiteminfo_39807=Đập nát <a href="TASK_ITEM,useitem_029p" style="HLStype1">Trân Châu</a>
+

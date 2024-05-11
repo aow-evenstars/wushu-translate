@@ -1,0 +1,720 @@
+﻿
+desc_buf_abductor=Trạng thái môi giới, tốc độ di chuyển sẽ giảm, có thể bị bất cứ ai tấn công.
+desc_buf_offline_abduct_cd=Vừa làm xong một vụ mua bán, cực mệt mỏi, không muốn động đậy, cần nghỉ ngơi một thời gian.
+desc_buf_abducted=Bị môi giới lừa gạt, tạm thời mất tự do. Trong trạng thái này, lịch luyện của bản thân không thể chuyển thành Tu Vi, chờ 3 tiếng sau tự động kết thúc, hoặc có thể thông qua tính năng "Chuộc thân" ở giao diện offline.
+desc_buf_offline_abduct_fail=Bị từ chối, buồn chán nản, không muốn động đậy.
+desc_buf_abductdaction=Bị lừa đảo, đầu óc không được tỉnh táo.
+off_abduct=Môi giới
+off_setfree=Giúp đỡ chuộc thân
+desc_buf_salegirl=Giao dịch môi giới
+desc_buf_saleboy=Giao dịch môi giới
+ol_026={@name} có ý đồ muốn sử dụng {@para1} với ngươi, không ngờ ngươi lại vô ý thay đổi hiện trạng, làm ngược tâm trạng hắn chán nản, không muốn động đậy.
+ol_028=Canh người môi giới không để ý, lén lút lấy lại hành trang, ngừng giao dịch môi giới.
+event_covert_desc_sale_1=<font color="#ff00ff">{@0:name}</font> tán tận lương tâm, dám lừa ta ký khê ước bán thân.
+event_covert_desc_sale_2=Chờ lúc ta thất tỉnh thì mới phát hiện ta ký không phải là khế ước lao động, mà là khế ước bán thân, thì ra <font color="#ff00ff">{@0:name}</font> lừa ta, mang ta bán đến nơi này.
+menu_text_sale_begin=Bên ta có một người muốn đến chỗ ngươi làm việc, ngươi tuyển không?
+menu_title_sale_faild_job_error=Vốn dĩ đây là công nhân của ta, ngươi thật to gan, dám dùng thủ đoạn lấy người của ta!
+menu_title_sale_faild_player_error=Ngươi lấy hành trang trống làm gì? Làm ơn chuyên nghiệp chút được không?
+menu_title_sale_faild_cd_error=Gần đây làm ăn khó khăn, sắp nuôi thân cũng không được rồi, hiện giờ không cần người nữa, chờ một thời gian tính tiếp.
+menu_title_sale_succeed_free=Ngươi có thể đến chỗ ta làm việc, nhưng ta sẽ không trả một đồng nào tiền thù lao cả.
+menu_title_condition_buy_time_in=Muốn kiếm Bạc không? Chỉ cần trước <font color="#46fd15">{@0:time1} giờ </font> giới thiệu một <font color="#46fd15">{@1:shoolneed}</font>đệ tử cho ta là được. Người giới thiệu có thực lực càng cao, ta trả tiền càng cao.
+menu_title_condition_buy_time_out=Muốn kiếm Bạc không? <font color="#46fd15">Từ {@0:time1}</font> giờ đến <font color="#46fd15">{@1:time2}</font> tìm ta.
+menu_title_condition_buy_time_Activity_out=Ta tạm đang bận việc khác, không rãnh giúp ngươi bảo quản đồ đạc, chờ lúc ta rãnh thì quay lại.
+menu_title_condition_buy_time_Activity_in=Hiện giờ ta đang rãnh, tìm được hành trang không ai nhận lấy, ta đến giúp đỡ tìm người mất của.
+menu_text_buy_time_Activity_begin=Lão tiền bối mau xem này! Ta nhặt được một hành trang.
+menu_title_buy_time_Activity_npc=Ừ! Hãy giao cho ta, ta nhất định sẽ tìm được người mất của!
+menu_title_sale_succeed_condition=Ừ, phù hợp yêu cầu của ta, đây là <font color="#46fd15">{@0:$}</font>, ngươi cũng mệt rồi, mau về nghỉ ngơi, nghỉ ngơi đủ rồi thì quay lại gặp ta.
+desc_can_set_free_self=Giang hồ hiểm ác, bị lừa đến đây làm công, trả tiền chuộc {@0:money} để có được tự do.
+menu_sale_faild_005=Hãy tìm cho ta một người tiều phu biết đốn củi, ta sẽ trả công gấp đôi.
+menu_sale_faild_011=Không có tý kiến thức căn bản gì về đầu bếp, ở chỗ ta chỉ được giúp đỡ, ngươi đi hỏi nhà khác thử đi.
+desc_abduct_talk_1=Nhờ đại hiệp trông coi hành trang giúp ta, ta xử lý việc này xong sẽ theo ngươi đi.
+desc_abduct_talk_2=Đa tạ đại hiệp ra tay giúp đỡ, ta suýt nữa là gặp tên ác rồi!
+desc_abduct_talk_3=Đa tạ nữ hiệp ra tay giúp đỡ, ta suýt nữa là gặp tên ác rồi!
+desc_offitem_miyao01_0=Thời gian sử dụng mỗi ngày từ 9h00 - 23h00 và đạt thực lực dựa theo CAC.<br>Máy chủ mở nội 1: Thực lực đạt Thần Hồ Kỳ Kỹ<br>Máy chủ mở nội 2: Thực lực đạt Xuất Thần Nhập Hóa<br>Máy chủ mở nội 3 và trấn pháp: Thực lực đạt Ngạo Thị Quần Hùng<br>Máy chủ mở nội 4 và phẩm 6: Thực lực đạt Đăng Phong Tạo Cực<br>Máy chủ mở nội 5 và ẩn thế: Thực lực đạt Sở Hướng Phi Mị<br>Máy chủ mở nội 6: Thực lực nhân vật đạt Cử Thế Vô Song
+desc_offitem_miyao02_0=Thời gian sử dụng mỗi ngày từ 9h00 - 23h00 và đạt thực lực dựa theo CAC.<br>Máy chủ mở nội 1: Thực lực đạt Thần Hồ Kỳ Kỹ<br>Máy chủ mở nội 2: Thực lực đạt Xuất Thần Nhập Hóa<br>Máy chủ mở nội 3 và trấn pháp: Thực lực đạt Ngạo Thị Quần Hùng<br>Máy chủ mở nội 4 và phẩm 6: Thực lực đạt Đăng Phong Tạo Cực<br>Máy chủ mở nội 5 và ẩn thế: Thực lực đạt Sở Hướng Phi Mị<br>Máy chủ mở nội 6: Thực lực nhân vật đạt Cử Thế Vô Song
+desc_offitem_miyao03_0=Thời gian sử dụng mỗi ngày từ 9h00 - 23h00 và đạt thực lực dựa theo CAC.<br>Máy chủ mở nội 1: Thực lực đạt Thần Hồ Kỳ Kỹ<br>Máy chủ mở nội 2: Thực lực đạt Xuất Thần Nhập Hóa<br>Máy chủ mở nội 3 và trấn pháp: Thực lực đạt Ngạo Thị Quần Hùng<br>Máy chủ mở nội 4 và phẩm 6: Thực lực đạt Đăng Phong Tạo Cực<br>Máy chủ mở nội 5 và ẩn thế: Thực lực đạt Sở Hướng Phi Mị<br>Máy chủ mở nội 6: Thực lực nhân vật đạt Cử Thế Vô Song
+desc_offitem_miyao04_0=Thời gian sử dụng mỗi ngày từ 9h00 - 23h00 và đạt thực lực dựa theo CAC.<br>Máy chủ mở nội 1: Thực lực đạt Thần Hồ Kỳ Kỹ<br>Máy chủ mở nội 2: Thực lực đạt Xuất Thần Nhập Hóa<br>Máy chủ mở nội 3 và trấn pháp: Thực lực đạt Ngạo Thị Quần Hùng<br>Máy chủ mở nội 4 và phẩm 6: Thực lực đạt Đăng Phong Tạo Cực<br>Máy chủ mở nội 5 và ẩn thế: Thực lực đạt Sở Hướng Phi Mị<br>Máy chủ mở nội 6: Thực lực nhân vật đạt Cử Thế Vô Song
+desc_offitem_miyao05_0=Thời gian sử dụng mỗi ngày từ 9h00 - 23h00 và đạt thực lực dựa theo CAC.<br>Máy chủ mở nội 1: Thực lực đạt Thần Hồ Kỳ Kỹ<br>Máy chủ mở nội 2: Thực lực đạt Xuất Thần Nhập Hóa<br>Máy chủ mở nội 3 và trấn pháp: Thực lực đạt Ngạo Thị Quần Hùng<br>Máy chủ mở nội 4 và phẩm 6: Thực lực đạt Đăng Phong Tạo Cực<br>Máy chủ mở nội 5 và ẩn thế: Thực lực đạt Sở Hướng Phi Mị<br>Máy chủ mở nội 6: Thực lực nhân vật đạt Cử Thế Vô Song
+desc_offitem_miyao06_0=Thời gian sử dụng mỗi ngày từ 9h00 - 23h00 và đạt thực lực dựa theo CAC.<br>Máy chủ mở nội 1: Thực lực đạt Thần Hồ Kỳ Kỹ<br>Máy chủ mở nội 2: Thực lực đạt Xuất Thần Nhập Hóa<br>Máy chủ mở nội 3 và trấn pháp: Thực lực đạt Ngạo Thị Quần Hùng<br>Máy chủ mở nội 4 và phẩm 6: Thực lực đạt Đăng Phong Tạo Cực<br>Máy chủ mở nội 5 và ẩn thế: Thực lực đạt Sở Hướng Phi Mị<br>Máy chủ mở nội 6: Thực lực nhân vật đạt Cử Thế Vô Song
+desc_offitem_miyao07_0=Thời gian sử dụng mỗi ngày từ 9h00 - 23h00 và đạt thực lực dựa theo CAC.<br>Máy chủ mở nội 1: Thực lực đạt Thần Hồ Kỳ Kỹ<br>Máy chủ mở nội 2: Thực lực đạt Xuất Thần Nhập Hóa<br>Máy chủ mở nội 3 và trấn pháp: Thực lực đạt Ngạo Thị Quần Hùng<br>Máy chủ mở nội 4 và phẩm 6: Thực lực đạt Đăng Phong Tạo Cực<br>Máy chủ mở nội 5 và ẩn thế: Thực lực đạt Sở Hướng Phi Mị<br>Máy chủ mở nội 6: Thực lực nhân vật đạt Cử Thế Vô Song
+desc_offitem_miyao08_0=Thời gian sử dụng mỗi ngày từ 9h00 - 23h00 và đạt thực lực dựa theo CAC.<br>Máy chủ mở nội 1: Thực lực đạt Thần Hồ Kỳ Kỹ<br>Máy chủ mở nội 2: Thực lực đạt Xuất Thần Nhập Hóa<br>Máy chủ mở nội 3 và trấn pháp: Thực lực đạt Ngạo Thị Quần Hùng<br>Máy chủ mở nội 4 và phẩm 6: Thực lực đạt Đăng Phong Tạo Cực<br>Máy chủ mở nội 5 và ẩn thế: Thực lực đạt Sở Hướng Phi Mị<br>Máy chủ mở nội 6: Thực lực nhân vật đạt Cử Thế Vô Song
+desc_offitem_miyao09_0=Thời gian sử dụng mỗi ngày từ 9h00 - 23h00 và đạt thực lực dựa theo CAC.<br>Máy chủ mở nội 1: Thực lực đạt Thần Hồ Kỳ Kỹ<br>Máy chủ mở nội 2: Thực lực đạt Xuất Thần Nhập Hóa<br>Máy chủ mở nội 3 và trấn pháp: Thực lực đạt Ngạo Thị Quần Hùng<br>Máy chủ mở nội 4 và phẩm 6: Thực lực đạt Đăng Phong Tạo Cực<br>Máy chủ mở nội 5 và ẩn thế: Thực lực đạt Sở Hướng Phi Mị<br>Máy chủ mở nội 6: Thực lực nhân vật đạt Cử Thế Vô Song
+desc_offitem_miyao10_0=Thời gian sử dụng mỗi ngày từ 9h00 - 23h00 và đạt thực lực dựa theo CAC.<br>Máy chủ mở nội 1: Thực lực đạt Thần Hồ Kỳ Kỹ<br>Máy chủ mở nội 2: Thực lực đạt Xuất Thần Nhập Hóa<br>Máy chủ mở nội 3 và trấn pháp: Thực lực đạt Ngạo Thị Quần Hùng<br>Máy chủ mở nội 4 và phẩm 6: Thực lực đạt Đăng Phong Tạo Cực<br>Máy chủ mở nội 5 và ẩn thế: Thực lực đạt Sở Hướng Phi Mị<br>Máy chủ mở nội 6: Thực lực nhân vật đạt Cử Thế Vô Song
+desc_offitem_hscd01_0=<s>Cần cho giao dịch môi giới. dùng để giám định năng lực đối phương. Được làm từ loại mực nước đặc biệt khi vừa gặp ánh sáng thì chữ và hình ảnh sẽ từ từ biến mất<br><s>Cự ly gần sử dụng với người chơi offline, có thể tính được giới thiệu công việc cho người chơi offline đó có thể nhận được bao nhiêu Bạc, sau khi dùng hãy lưu ý giá nhắc nhở bằng văn chữ.<br><s>Nhắc nhở: Giao dịch môi giới không tuân theo chính đạo, Chợ Đen hiểm ác và lòng người giản xảo, đôi lúc không có được Bạc thì cũng đừng trách người khác.
+desc_bj_yd01_0=Khế Ước 1, sách khế ước được viết từ giấy cứng tầm thường, chất liệu giấy cực kém, dùng để viết qua loa, chỉ có tiểu tốt sơ nhập giang hồ mới tin khế ước này là thật. Cự ly gần sử dụng khế ước này với nhân vật offline có tỉ lệ cố định thành công thỏa thuận với người chơi offline, đồng thời có được hành trang của họ.<font color="#FF0000">(Khế Ước dùng trong giao dịch môi giới,  khắp nơi trong tiệm tạp hóa đều có bán)</font>
+desc_bj_yd04_0=Văn thư khế ước dùng giấy loại thường để viết, chất giấy cực kém, viết ẩu, chỉ tân thủ mới vào giang hồ thì mới tin khế ước này là thật. Dùng khế ước này với nhân vật rời mạng cự ly gần, có xác suất nhất định dùng thành công và lấy được hành lý của người đó. <font color="#FF0000">(Khế ước giao dịch môi giới tư dùng đều có bán ở tiệm tạp hóa các nơi)</font>
+desc_bj_yd05_0=Văn thư khế ước dùng giấy loại thường để viết, chất giấy cực kém, viết ẩu, chỉ tân thủ mới vào giang hồ thì mới tin khế ước này là thật. Dùng khế ước này với nhân vật rời mạng cự ly gần, có xác suất nhất định dùng thành công và lấy được hành lý của người đó. <font color="#FF0000">(Khế ước giao dịch môi giới tư dùng đều có bán ở tiệm tạp hóa các nơi)</font>
+desc_bj_yd06_0=Văn thư khế ước dùng giấy loại thường để viết, chất giấy cực kém, viết ẩu, chỉ tân thủ mới vào giang hồ thì mới tin khế ước này là thật. Dùng khế ước này với nhân vật rời mạng cự ly gần, có xác suất nhất định dùng thành công và lấy được hành lý của người đó. <font color="#FF0000">(Khế ước giao dịch môi giới tư dùng đều có bán ở tiệm tạp hóa các nơi)</font>
+desc_bj_yd02_0=Bằng chứng đã từng tham gia giao dịch môi giới, bằng chứng này có thể tham gia hiệu buôn môi giới
+desc_bj_yd03_0=Bằng chứng phạm tội của hiệu buôn môi giới, có bằng chứng này thì quan phủ có thể diệt trừ tận gốc hiệu buôn môi giới.
+bj_yd01=Khế Ước 1
+bj_yd02=Sát Trạng Môi Giới
+bj_yd03=Sách Môi Giới
+bj_yd04=Khế Ước 1
+bj_yd05=Khế Ước 1
+bj_yd06=Khế Ước 1
+desc_bj_yd01=Khế Ước 1, sách khế ước được viết từ giấy cứng tầm thường, chất liệu giấy cực kém, dùng để viết qua loa, chỉ có tiểu tốt sơ nhập giang hồ mới tin khế ước này là thật.Cự ly gần sử dụng khế ước này với nhân vật offline có tỉ lệ cố định thành công thỏa thuận với người chơi offline, đồng thời có được hành trang của họ.
+desc_bj_yd02=Muốn vào tổ chức Môi Giới cần được chúng tin tưởng, Sát Trạng chính là bằng chứng để có được sự tin tưởng.
+desc_bj_yd03=Sách này ghi chép lại toàn bộ thành viên của tổ chức Môi Giới, đồng thời ghi chép lại quá trình họ giao dịch môi giới, là chứng cứ để diệt chúng tận gốc.
+desc_lixianbangjia=Khắp nơi rải rác người môi giới, rất nhiều mặt người dạ thú, bề ngoài là thương nhân đường đường chính chính, sau lưng lại là Môi Giới thâm hiểm, chúng thay thương nhân khác tìm kiếm công nhân thích hợp, dùng lương cao để mê hoặc chúng, ăn lãi tiền thù lao, nhưng loại giao dịch môi giới này có rủi ro bị quan phủ truy nã.
+desc_award_lixianbangjia=Tìm đến môi giới ngầm, qua chỉ dẫn của người này thử tham gia vào giao dịch môi giới kiếm món hời
+desc_jianghuxiashi=Gần đây trên giang hồ, giao dịch môi giới càng lúc càng lộng hành, phải có người trừng trị, ngăn cản đám môi giới thường dùng khế ước giả hãm hại nhân sĩ giang hồ, cứu nhân sĩ võ lâm bị lừa bịp.
+desc_award_jianghuxiashi=Tìm Bổ Khoái tìm hiểu cách làm hiệp sĩ, đánh lại sự kiêu ngạo của đám môi giới
+desc_special_lixianbangjia=Tìm hiểu cách giao dịch môi giới, có thể nhận được <font color="#FF0000">Bạc</font>
+desc_lixianbangjia_1=Muốn thỏa thuận được Khế Ước, cần có <font color="#FF0000">Khế Ước y như thật</font>. Những Khế Ước này có thể mua ở <font color="#FF0000">Tiệm Tạp Hóa</font> các nơi, càng quý thì càng y như thật.
+desc_lixianbangjia_2=Cầm Khế Ước tìm đến người chơi làm công offline, <font color="#FF0000">thoả thuận giao dịch môi giới</font>.
+desc_lixianbangjia_3=Đương nhiên, Khế Ước thô thường sẽ bị nhìn thấu, sau khi bị nhìn thấu tự nhiên sẽ ảnh hưởng đến tâm lý bạn, khiến bạn không muốn làm gì.
+desc_lixianbangjia_4=Nếu thành công, đối phương sẽ đưa hành lý cho bạn, bạn cầm đi giao cho thương nhân muốn nhận, đổi lấy tiền tài. Vì vậy, Khế Ước y như thật là cần thiết, nếu không sự việc sẽ thành công một nửa.
+desc_lixianbangjia_5=Nhắm hành lý người làm công để <font color="#FF0000">nhặt lên</font> rồi mang đi. Nhớ nhé, giao dịch môi giới dù sao cũng là việc không hợp pháp, người ta nhìn thấy đều có thể <font color="#FF0000">đánh bại</font> bạn và báo quan, vì vậy phải cẩn trọng.
+desc_lixianbangjia_6=Đem hành lý người làm công giao cho <font color="#FF0000">Kẻ Môi Giới Thâm Hiểm các nơi</font>, thì có thể nhận thưởng.
+desc_offdaily_2701=Gần đây nghe nói người bỏ việc đột ngột càng lúc càng nhiều, hơn nữa họ lại xuất hiện ở các Thương Phổ lớn trong nội thành để làm công, lẽ nào đã ngầm ký khế ước với kẻ môi giới, bất kể phép tắc hợp pháp của chủ thuê?
+desc_offdaily_2702=Nghe nói cần giúp đỡ người bị môi giới lừa gạt, ký Khế Ước bán thân, phải tìm được Khế Ước, xé bỏ nó, mới cứu được đối phương ra, chứ dựa vào man lực thì không được.
+desc_buf_itm_02=Dùng xong Bạc nhận ở giao dịch môi giới sau tăng 30%
+desc_bj_yd07_0=Văn thư khế ước dùng giấy loại thường để viết, chất giấy cực kém, viết ẩu, chỉ tân thủ mới vào giang hồ thì mới tin khế ước này là thật. Dùng khế ước này với nhân vật rời mạng cự ly gần, có xác suất nhất định dùng thành công và lấy được hành lý của người đó. <font color="#FF0000">(Khế ước giao dịch môi giới tư dùng đều có bán ở tiệm tạp hóa các nơi)</font>
+desc_item_wgm_xumingwan_1=Sau khi xóa nhanh Khế Ước thất bại còn lại hiệu quả định thân sản sinh.
+desc_forcetvt_xujia14=<font color="#6E8B3D">Điều kiện tham gia</font><br><s>Đệ tử Từ Gia Trang đều có thể tham gia<br><br><font color="#6E8B3D">Cách chơi</font><br><s>1. Đến đoạt lại nhiều hành lý của người làm công;<br><s>2. Cách chơi tuần, mỗi tuần đều có thể hoàn thành 1 lần.
+ui_addmoney_4=<s>Có thể nhận được Bạc qua làm công offline, giao dịch môi giới, nhiệm vụ kỳ ngộ, đổi Hoàng Kim, ngoài ra giao dịch lẫn nhau giữa các người chơi cũng là cách chủ yếu để đưa và nhận Bạc
+tips_lixianbangjia=Bạn có thể bắt đầu cuộc sống môi giới rồi, hãy nhấp xem chi tiết.
+tips_jianghuxiashi=Bạn có thể lùng bắt môi giới rồi, hãy nhấp xem chi tiết.
+ui_lixianbangjia_worldnpc00175_format_text=Giao dịch môi giới nghe nói là cách kiếm tiền hay, đi tìm <font color="#FA3935">{@0: Map}</font>_<font color="#FA3935">{@1:NPC}</font> hỏi cách giao dịch
+ui_lixianbangjia_yyz248_format_text=Nghe nói môi giới tư là cách kiếm tiền hay, tìm <font color="#FA3935">{@0:场景}</font>-<font color="#FA3935">{@1:NPC}</font> hỏi cách giao dịch
+ui_lixianbangjia_worldnpc10750_format_text=Nghe nói môi giới tư là cách kiếm tiền hay, tìm <font color="#FA3935">{@0:场景}</font>-<font color="#FA3935">{@1:NPC}</font> hỏi cách giao dịch
+ui_lixianbangjia_worldnpc09861_format_text=Nghe nói môi giới tư là cách kiếm tiền hay, tìm <font color="#FA3935">{@0:场景}</font>-<font color="#FA3935">{@1:NPC}</font> hỏi cách giao dịch
+ui_jianghuxiashi_worldnpc00176_format_text=<font color="#FA3935">{@0: Map}</font>_<font color="#FA3935">{@1:NPC}</font> gần đây vì những kẻ môi giới càng lúc càng ngông cuồng mà đau đầu, đi xem giúp được gì không
+ui_jianghuxiashi_yyz249_format_text=<font color="#FA3935">{@0:场景}</font>-<font color="#FA3935">{@1:NPC}</font> gần đây cảm thấy mệt mỏi với môi giới càng ngày càng ngông cuồng, đi xem xem giúp được gì không
+ui_jianghuxiashi_worldnpc10751_format_text=<font color="#FA3935">{@0:场景}</font>-<font color="#FA3935">{@1:NPC}</font> gần đây cảm thấy mệt mỏi với môi giới càng ngày càng ngông cuồng, đi xem xem giúp được gì không
+ui_jianghuxiashi_worldnpc09862_format_text=<font color="#FA3935">{@0:场景}</font>-<font color="#FA3935">{@1:NPC}</font> gần đây cảm thấy mệt mỏi với môi giới càng ngày càng ngông cuồng, đi xem xem giúp được gì không
+ui_tvt_xxd_tips3=Nhận điểm Hưu Nhàn khi hoàn thành:<br>Do Thám Môn Phái<br>Tuần Tra Môn Phái<br>Đoạt Thư Môn Phái<br>Hộ Thư Môn Phái<br>Áp tiêu ngày<br>Giao dịch môi giới<br>NV Hàng ngày<br>Luyện nhóm<br>Thu Thập<br>Tạo " Bạc" cho trang bị trên<br>Tập kích Bang<br>Thủ Vệ Bang<br>Cáo thị Hải Bổ<br>Bang Chiến<br>Môn Phái Chiến<br>Đại Hội Sư Môn<br>Thế lực giang hồ<br>Hào Kiệt Giang Hồ<br>Chiến trường<br>U Vân Thập Lục Châu
+ui_shcoolwar_rule049=Không được giao dịch môi giới (Điểm Pháp Độ +10)
+ui_gamename_bangpiao=Giao dịch môi giới
+interactname_009=Giao dịch môi giới
+interactdesc_009=<s>Sự kiện: 1. Người chơi ra khỏi bảo hộ Tân Thủ 2. Trong túi cần có đạo cụ Khế Ước, có thể mua ở Tiệm Tạp Hóa. 3. Khế Ước chỉ dùng cho người chơi offline. 4. Sau khi hoàn thành 1 lần giao dịch môi giới thành công sẽ vào trạng thái mệt mỏi, trong trạng thái này không thể thỏa thuận lại.<br><s>Cách thức: 1. Sau khi mua Khế Ước, có thể dùng với người chơi offline. 2. Sau khi thỏa thuận thành công với người chơi offline, sẽ bỏ hành lý xuống đất. 3. Nhặt hành lý dưới đất, có thể giao cho một thương nhân nào đó, những thương nhân này sẽ dựa vào thực lực và tình hình offline của người chơi offline được khế ước để hỗ trợ Bạc Vụn và Bạc. 4. Người chơi sau khi đánh bại người môi giới khác, cũng có thể nhận được hành lý người đó rồi tiếp tục giao dịch. 5. Thương nhân khác nhau điều kiện sử dụng người làm cũng khác nhau, họ chỉ nhận người chơi thỏa điều kiện Khế Ứớc.<br><s>Điều kiện thất bại: Rời map hiện tại, tự động vứt bỏ hành lý hoặc bị người chơi khác đánh bại, giao dịch môi giới thất bại<br><s>Điều kiện thành công: Khế ước thành công với người chơi offline và mang hành lý giao cho thương nhân chỉ định<br><s>Phần thưởng: 1. Bạc Vụn (Cố định)  2. Bạc (Được khế ước người chơi offline thời gian dài)
+interactcamp_desc_009=Mưu cầu lợi ích, bất chấp đạo nghĩa
+interactguid_desc_009=<s>Người chơi offline trên giang hồ bị lừa gạt ký Khế Ước, sau đó đem họ giới thiệu cho thương nhân chỉ định làm công để nhận tiền hoa hồng.
+interactsort_info_009_1=Số người giới thiệu: {@0:num}
+tvttitle_009_1=Giao dịch môi giới
+tvtcontent_009_1=Huyết Vũ Tinh Phong trên giang hồ lại nổi lên, các thế lực lớn không ngừng xuất hiện, trắng trợn thu nạp người, mở rộng thực lực, ký Khế Ước với người chơi offline, giới thiệu cho chủ các nơi để làm công, kiếm hoa hồng, loại giao dịch môi giới này có lợi nhuận rất lớn.<br><font color="#3299CC">Phần thưởng</font><br><font color="#3299CC">Nhiều Bạc</font>
+ui_offline_bangjia_40081=Xem năng lực tướng mạo của người này, giới thiệu cho thương nhân để làm công, có thể nhận được Bạc {@0:$锭两文}.
+ui_offline_bangjia_40082=Xem năng lực tướng mạo người này, hoàn toàn không hợp yêu cầu của thương nhân, giới thiệu người này làm việc, tối đa cũng nhận được một ít Bạc Vụn.
+ui_offline_bangjia_40084=Xem năng lực tướng mạo người này, giới thiệu cho thương nhân làm công, có thể nhận được Bạc {@0:$锭两文}, nếu giới thiệu cho <font color="#FF0000">{@1:npc}</font> có lẽ nhận được nhiều hơn.
+button_bangpiao_1=Hướng giao dịch
+button_bangpiao_2=Kẻ Môi Giới Thâm Hiểm
+ui_off_giveupadbuct=Bỏ cuộc giữa chừng, vứt bỏ hành lý?
+ui_off_stophelp=Thể lực không đủ, vứt bỏ hành lý?
+interactdesc_010=<s>Yêu cầu: Người chơi thoát khỏi bảo hộ Tân Thủ.<br><s>Cách thức: Phát hiện kẻ môi giới, tiến hành công kích hắn, thành công kích bại kẻ môi giới, đoạt lại hành lý người làm công!<br><s>Điều kiện thất bại: Trong trận chiến với kẻ môi giới, bị kích sát hoặc để kẻ môi giới chạy thoát<br><s>Điều kiện thành công: Thành công kích sát kẻ môi giới, đoạt lại hành lý người làm công<br><s>Phần thưởng: 1. Đoạt lại thành công hành lý người làm công nhận được điểm Hiệp Nghĩa;<br>2. Trong thời gian sự kiện Môi Giới, thành công đoạt lại hành lý người làm công và đưa đến chỗ bách tính nhiệt tình để bảo quản, có thể nhận được Bạc Vụn, còn có xác suất nhận được Bạc
+interactguid_desc_010=<s>Thân là hiệp sĩ lấy "duy trì sự hòa bình của giang hồ, hỗ trợ chính nghĩa võ lâm làm nhiệm vụ của mình", gặp kẻ môi giới hãm hại lừa gạt, đừng do dự, đánh bại hắn, đoạt lại hành lý của người bị hại.
+interactsort_info_010_1=Đoạt lại hành lý: {@0:num}
+interactsort_info_010_2=Kích sát môi giới: {@0:num}
+tvtcontent_010_1=Trên giang hồ xuất hiện nhiều kẻ môi giới lừa gạt bách tính ký Khế Ước bán thân, võ lâm đồng đạo, bách tính vô tội liên tiếp bị hại, xin các vị hiệp khách hãy trừng trị cái ác, hỗ trợ chính nghĩa võ lâm!<br><font color="#3299CC">Phần thưởng</font><br><font color="#3299CC">Bỏ điểm PK</font>
+ui_map_wanfa_renfan=Kẻ Môi Giới Tham Lam
+ui_loading2046=Khế Ước mua ở Tiệm Tạp Hóa có thể dùng với người chơi offline để tiến hành giao dịch môi giới, nhận được Bạc và Bạc Vụn.
+ui_type13=Thương nhân đen tối
+ui_attach_marry_request01=1. Hai người đều phải là Danh Tuấn Giang Hồ, là hảo hữu và độ hảo cảm đạt 2000.<br>Cách nhận độ thân mật:<br><s><s>"Giang Hồ"--"Tặng quà"--"Vật kỷ niệm<br><s><s>", Dương Chi Bạch Ngọc +200 điểm <font color="#993300">(tiến cử)</font><br><s><s>, Cúc +10 điểm, Điếu Trụy May mắn +5 điểm,<br><s><s>Thêm riêng bên tặng<br><s><s>Nhiệm vụ đội: Hai bên +1<br><s><s>Cấm Địa đội: Hai bên +10<br><s><s>Thích Quán đội: Hai bên +3<br><s><s>Vận tiêu đội: Hai bên +10<br><s><s>Giải cứu bắt cóc:  bên chủ động +10<br><s><s>Hưởng ứng cứu viện: Bên chủ động +5<br><s><s>Thưởng offline: Bên chủ động +1
+interact_desc_009=Huyết Vũ Tinh Phong giang hồ lại nổi dậy, anh hùng các nẻo không ngừng xuất hiện, giao dịch môi giới có thể xem là con đường phát tài.
+tvt_name_009=Thương nhân đen tối
+tvt_rule_010=<font face="font_main" color="#AAD21E">Yêu cầu: </font><br><s>Người chơi thoát khỏi bảo hộ Tân Thủ<br><font face="font_main" color="#AAD21E">Cách thức:</font><br><s>Phát hiện kẻ môi giới đang giao dịch, tiến hành công kích hắn cho đến khi kích bại, đoạt lại hành lý người làm công<br><font face="font_main" color="#AAD21E">Điều kiện thất bại:</font><br><s> Trong trận chiến với kẻ môi giới, bị kích sát hoặc để kẻ môi giới chạy thoát<br><font face="font_main" color="#AAD21E">Điều kiện thành công:</font><br><s>Thành công kích sát kẻ môi giới, đoạt lại hành lý người làm công<br><font face="font_main" color="#AAD21E">Phần thưởng:</font><br><s>Đoạt lại thành công hành lý người làm công nhận được điểm Hiệp Nghĩa
+tvt_rule_009=<font face="font_main" color="#AAD21E">Yêu cầu:</font><br><s>1. Người chơi thoát khỏi bảo hộ Tân Thủ<br><s>2. Trong túi cần có đạo cụ Khế Ước, có thể mua ở Tiệm Tạp Hóa.<br><s>3. Khế Ước chỉ dùng cho người chơi offline.<br><s>4. Sau khi hoàn thành 1 lần giao dịch môi giới thành công sẽ vào trạng thái mệt mỏi<br><font face="font_main" color="#AAD21E">Cách thức:</font><br><s>1. Sau khi mua Khế Ước, có thể dùng với người chơi offline<br><s>2. Sau khi thỏa thuận thành công với người chơi offline, sẽ tự động bỏ hành lý xuống đất<br><s>3. Nhặt hành lý dưới đất, giao cho một thương nhân nào đó, những thương nhân này sẽ dựa vào thực lực và tình hình offline của người chơi offline được khế ước để hỗ trợ Bạc Vụn và Bạc.<br><s>4. Người chơi sau khi đánh bại người môi giới khác, cũng có thể nhận được hành lý người đó rồi tiếp tục giao dịch.<br><s>5. Thương nhân khác nhau thì điều kiện nhận người cũng khác nhau, họ chỉ nhận người chơi offline thỏa điều kiện<br><font face="font_main" color="#AAD21E"> Điều kiện thất bại:</font><br><s>Rời map hiện tại, tự động vứt bỏ hành lý hoặc bị người chơi khác đánh bại, giao dịch môi giới thất bại<br><font face="font_main" color="#AAD21E">Điều kiện thành công:</font><br><s>Khế ước thành công với người chơi offline và mang hành lý giao cho thương nhân chỉ định<br><font face="font_main" color="#AAD21E"> Phần thưởng:</font><br><s>1. Bạc Vụn (Cố định)<br><s>2. Bạc (Được khế ước người chơi offline thời gian dài)<br><s>3. Sửa Công Cụ (Cố định)
+interacthypelink_009_a_1=Lúc gần tối, nếu muốn nhận thêm lợi ích, có thể đến Kê Minh Dịch tìm Kẻ Môi Giới Thâm Hiểm<a href="findnpc_new,born01,AbductNpc04" style="HLStype1">Triệu Bưu</a>
+interacthypelink_009_a_2=Lúc gần tối, nếu muốn nhận thêm lợi ích, có thể đến Ác Nhân Cốc tìm Kẻ Môi Giới Thâm Hiểm<a href="findnpc_new,born02,AbductNpc02" style="HLStype1">Tiền Quý</a>
+interacthypelink_009_a_3=Lúc gần tối, nếu muốn nhận thêm lợi ích, có thể đến Yên Vũ Trang tìm Kẻ Môi Giới Thâm Hiểm<a href="findnpc_new,born03,AbductNpc03" style="HLStype1">Tôn Báo</a>
+interacthypelink_009_a_4=Lúc gần tối, nếu muốn nhận thêm lợi ích, có thể đến Thiên Đăng Trấn tìm Kẻ Môi Giới Thâm Hiểm <a href="findnpc_new,born04,AbductNpc01" style="HLStype1">Lý Xuân</a>
+interacthypelink_009_a_5=Nếu muốn nhận thêm lợi ích, 20:00 - 22:00 thứ 4, có thể đến Yến Kinh tìm Kẻ Môi Giới Tham Lam <a href="findnpc_new,city01,AbductNpc13a" style="HLStype1">Lý Hựu Giang</a>
+interacthypelink_009_a_6=Nếu muốn nhận thêm lợi ích, 20:00 - 22:00 thứ 6, có thể đến Tô Châu tìm Kẻ Môi Giới Tham Lam <a href="findnpc_new,city02,AbductNpc14a" style="HLStype1">Thẩm Vạn</a>
+interacthypelink_009_a_7=Nếu muốn nhận thêm lợi ích, 20:00 - 22:00 thứ 2, có thể đến Kim Lăng tìm Kẻ Môi Giới Tham Lam <a href="findnpc_new,city03,AbductNpc15a" style="HLStype1">Lý Thành</a>
+interacthypelink_009_a_8=Nếu muốn nhận thêm lợi ích, 20:00 - 22:00 thứ 5, có thể đến Lạc Dương tìm Kẻ Môi Giới Tham Lam <a href="findnpc_new,city04,AbductNpc16a" style="HLStype1">Vương Đại Dã</a>
+interacthypelink_009_a_9=Nếu muốn nhận thêm lợi ích, 20:00 - 22:00 thứ 3, có thể đến Thành Đô tìm Kẻ Môi Giới Tham Lam <a href="findnpc_new,city05,AbductNpc17a" style="HLStype1">Nhậm Sĩ Cường</a>
+interacthypelink_009_b_1_1=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,born04,WorldNpc00136" style="HLStype1">Xa Mã Hành Quản Sự</a>
+interacthypelink_009_b_1_2=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,born04,WorldNpc00137" style="HLStype1">Giám Công Bến Đò</a>
+interacthypelink_009_b_1_3=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,born04,FuncNpc00002" style="HLStype1">Chủ Dược Đường-Châu Thương </a>
+interacthypelink_009_b_1_4=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,born04,WorldNpc00015" style="HLStype1">Chủ Quán Trà-Hoàng Vinh</a>
+interacthypelink_009_b_1_5=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,born04,FuncNpc00007" style="HLStype1">Chưởng Quầy Tạp Hóa-Tàng Bách Hóa</a>
+interacthypelink_009_b_1_6=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,born04,FuncNpc00006" style="HLStype1">Tiền Trang Chưởng Quầy-Tiền Vĩnh Phú</a>
+interacthypelink_009_b_1_7=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,born04,FuncNpc00001" style="HLStype1">Chưởng Quầy Bố Y Phường- Thân Tú Nhi</a>
+interacthypelink_009_b_1_8=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,born04,FuncNpc00005" style="HLStype1">Chủ Tiệm Trang Sức-Hạ Tư Linh</a>
+interacthypelink_009_b_1_9=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,born04,FuncNpc00009" style="HLStype1">Chưởng Quầy Tửu Lâu-Tiền Uyên Lai</a>
+interacthypelink_009_b_1_10=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,born04,FuncNpc00008" style="HLStype1">Chủ Tiệm Binh Khí-Sa Bách Nhẫn</a>
+interacthypelink_009_b_1_11=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,born04,FuncNpc00004" style="HLStype1">Chủ khách điếm-Hoàng Vinh</a>
+interacthypelink_009_b_1_12=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,born04,WorldNpc00135" style="HLStype1">Người coi vườn trà-Lục Huân</a>
+interacthypelink_009_b_2_1=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,born02,WorldNpc09347" style="HLStype1">Chủ Đổ Phường-Trần Càn</a>
+interacthypelink_009_b_2_2=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,born02,FuncNpc303" style="HLStype1">Chủ Khách Điếm</a>
+interacthypelink_009_b_2_3=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,born02,FuncNpc302" style="HLStype1">Chủ Dược Đường</a>
+interacthypelink_009_b_2_4=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,born02,FuncNpc304" style="HLStype1">Chủ Tiệm Tạp Hóa</a>
+interacthypelink_009_b_2_5=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,born02,WorldNpc09246" style="HLStype1">Chủ Khách Điếm-Tang Thải</a>
+interacthypelink_009_b_2_6=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,born02,WorldNpc09231" style="HLStype1">Chủ Tiệm Tơ Lụa-Giải Kính Khánh</a>
+interacthypelink_009_b_2_7=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,born02,WorldNpc09103" style="HLStype1">Ông Chủ Tiền</a>
+interacthypelink_009_b_2_8=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,born02,FuncNpc306" style="HLStype1">Chủ Tiệm Vũ Khí</a>
+interacthypelink_009_b_2_9=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,born02,WorldNpc09348" style="HLStype1">Hắc Nê Cốc Chủ-Nghịch Thiên Hành</a>
+interacthypelink_009_b_2_10=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,born02,WorldNpc09333" style="HLStype1">Ác Nhân Cốc Thủ Vệ-Dịch Thiên Nhiên</a>
+interacthypelink_009_b_2_11=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,born02,WorldNpc09349" style="HLStype1">Chủ Xe Ngựa-Lục Minh</a>
+interacthypelink_009_b_2_12=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,born02,WorldNpc09401" style="HLStype1">Côn Luân Phái-Chưởng Môn Vân Dương Tử</a>
+interacthypelink_009_b_2_13=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,born02,WorldNpc09279" style="HLStype1">Tố Vân Cung Hương Chủ-Vạn Chiêu Á</a>
+interacthypelink_009_b_3_1=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,born03,WorldNpc00579" style="HLStype1">Diêm Bang Đà Chủ-Hồ Bất Sầu</a>
+interacthypelink_009_b_3_2=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,born03,WorldNpc00759" style="HLStype1">Đà Chủ Thần Phong Bang</a>
+interacthypelink_009_b_3_3=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,born03,WorldNpc00693" style="HLStype1">Thổ Phỉ Quan Oát</a>
+interacthypelink_009_b_3_4=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,born03,WorldNpc00535" style="HLStype1">Đổ Phường Đả Thủ-Phan Hào</a>
+interacthypelink_009_b_3_5=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,born03,Transbron03A" style="HLStype1">Dịch Trạm Xa Phu-Vu Chú</a>
+interacthypelink_009_b_3_6=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,born03,WorldNpc00512" style="HLStype1">Chưởng Quầy Trà-Thường Tứ Hải</a>
+interacthypelink_009_b_3_7=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,born03,FuncNpc00056" style="HLStype1">Chủ Tửu Lâu-Từ Thanh</a>
+interacthypelink_009_b_3_8=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,born03,FuncNpc00054" style="HLStype1">Chủ Dược Đường-Tạ Thạch</a>
+interacthypelink_009_b_3_9=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,born03,WorldNpc00587" style="HLStype1">Chủ Tiệm Gạo-Phùng Căn Bảo</a>
+interacthypelink_009_b_4_1=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,born01,WorldNpc10958" style="HLStype1">Chưởng Quầy Xe-Ốc Lăng Bang</a>
+interacthypelink_009_b_4_2=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,born01,WorldNpc10689" style="HLStype1">Dịch Trạm Quản Sự-Lăng Phong</a>
+interacthypelink_009_b_4_3=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,born01,WorldNpc10622" style="HLStype1">Chủ Quán Trà-Cao Văn Phủ</a>
+interacthypelink_009_b_4_4=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,born01,WorldNpc10941" style="HLStype1">Chủ Khách Điếm </a>
+interacthypelink_009_b_4_5=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,born01,WorldNpc10602" style="HLStype1">Chủ Sòng Bạc-Lưu Đông Hổ</a>
+interacthypelink_009_b_4_6=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,born01,WorldNpc10997" style="HLStype1">Tiền Trang Chưởng Quầy-Vân Thái</a>
+interacthypelink_009_b_4_7=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,born01,WorldNpc10690" style="HLStype1">Giám Sát Mỏ Quặng-Tiền Vân</a>
+interacthypelink_009_b_4_8=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,born01,WorldNpc10691" style="HLStype1">Quản gia Hùng Gia</a>
+interacthypelink_009_b_4_9=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,born01,WorldNpc10692" style="HLStype1">Ác Hổ Sơn Trại Trại Chủ</a>
+interacthypelink_009_b_4_10=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,born01,WorldNpc10646" style="HLStype1">Chủ Quán Trà-Mao Vĩ Quang</a>
+interacthypelink_009_b_4_11=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,born01,WorldNpc10693" style="HLStype1">Trường Bạch Sơn Trang Quản Gia -Triệu Trị</a>
+interacthypelink_009_b_4_12=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,born01,WorldNpc10913" style="HLStype1">Hồ Hâm</a>
+interacthypelink_009_b_5_1=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,school01,WorldNpc04200" style="HLStype1">Chủ Quản Xưởng Rèn</a>
+interacthypelink_009_b_5_2=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,school01,WorldNpc04396" style="HLStype1">U Linh Sơn Trang Quản Gia</a>
+interacthypelink_009_b_6_1=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,school02,WorldNpc03042" style="HLStype1">Vạn Thú Sơn Trang Nhị Trang Chủ-Sử Mạnh Hùng</a>
+interacthypelink_009_b_6_2=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,school02,gb392" style="HLStype1">Ngoại Vực Binh Sĩ Đầu Mục-Lan Hợp</a>
+interacthypelink_009_b_7_1=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,school03,WorldNpc03455" style="HLStype1">Song Long Bảo Quản Gia</a>
+interacthypelink_009_b_7_2=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,school03,WorldNpc03701" style="HLStype1">Vụ Trúc Sơn Trang-Trang chủ Dư Mạnh Thu</a>
+interacthypelink_009_b_8_2=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,school04,WorldNpc04073" style="HLStype1">Thần Hổ Đường Đường Chủ-Long Nộ Nhai</a>
+interacthypelink_009_b_8_3=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,school04,WorldNpc04060" style="HLStype1">Hắc Phong Giáo Trưởng Lão-Mạc Vô Giải</a>
+interacthypelink_009_b_9_1=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,school05,WorldNpc02358" style="HLStype1">Mộc Vân Trang Quản Gia</a>
+interacthypelink_009_b_9_2=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,school05,WorldNpc02357" style="HLStype1">Tiểu Đầu Mục Liên Hoàn Ổ</a>
+interacthypelink_009_b_9_3=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,school05,WorldNpc02248" style="HLStype1">Thiên Bảo Trại-phó trại chủ Lý Hành Không</a>
+interacthypelink_009_b_10_1=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,school06,WorldNpc02649" style="HLStype1">Thủ Lĩnh Ngũ Tiên Giáo-Long Kỳ Xuân</a>
+interacthypelink_009_b_10_2=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,school06,WorldNpc02923" style="HLStype1">Chủ tiệm trà Nhậm Ký-Nhậm Bách Lý</a>
+interacthypelink_009_b_11_1=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,school07,WorldNpc04657" style="HLStype1">Bà Chủ Tiệm Trà</a>
+interacthypelink_009_b_11_2=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,school07,WorldNpc04658" style="HLStype1">Hổ Tiếu Sơn Trang Quản Gia</a>
+interacthypelink_009_b_11_3=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,school07,WorldNpc04453" style="HLStype1">Lư Hồng Đào</a>
+interacthypelink_009_b_12_1=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,school08,WorldNpc00230" style="HLStype1">Chưởng Quầy Trà-Lương Nam</a>
+interacthypelink_009_b_12_2=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,school08,sl143" style="HLStype1">Uất Thành Duệ</a>
+interacthypelink_009_b_12_3=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,school08,sl061" style="HLStype1">Chu Tuyển</a>
+interacthypelink_009_b_13_1=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,city01,WorldNpc08281" style="HLStype1">Thanh Lâu Tú Bà-Thôi Phượng Cô</a>
+interacthypelink_009_b_13_2=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,city01,WorldNpc08295" style="HLStype1">Thanh Lâu đả thủ-Cao Cương</a>
+interacthypelink_009_b_13_3=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,city01,FuncNpc00204" style="HLStype1">Chủ Tiệm Thuốc</a>
+interacthypelink_009_b_13_4=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,city01,WorldNpc08410" style="HLStype1">Hầu Bàn-Nhị Cường</a>
+interacthypelink_009_b_13_5=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,city01,WorldNpc08929" style="HLStype1">Thái Sư Bàng Giai</a>
+interacthypelink_009_b_13_6=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,city01,WorldNpc08916" style="HLStype1">Yến Vương Phủ Tổng Quản-Chu Trí Hằng</a>
+interacthypelink_009_b_13_7=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,city01,WorldNpc08519" style="HLStype1">Quản Gia-Tịch Thúc</a>
+interacthypelink_009_b_13_8=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,city01,WorldNpc08832" style="HLStype1">Cổ Mộ Phái Chưởng Môn-Dương Trì Nhụy</a>
+interacthypelink_009_b_13_9=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,city01,WorldNpc09065" style="HLStype1">Sát Nhân Trang-Tiểu Đầu Mục</a>
+interacthypelink_009_b_13_10=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,city01,WorldNpc08235" style="HLStype1">Trần Đại Châu</a>
+interacthypelink_009_b_13_11=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,city01,WorldNpc08219" style="HLStype1">Thạch Vạn Kinh</a>
+interacthypelink_009_b_14_1=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,city02,WorldNpc01054" style="HLStype1">Tửu Lâu Tiểu Nhị-Du Lương</a>
+interacthypelink_009_b_14_2=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,city02,WorldNpc01015" style="HLStype1">Thanh Lâu Tú Bà-Nhất Chi Hoa</a>
+interacthypelink_009_b_14_3=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,city02,WorldNpc01179" style="HLStype1">Quản Gia Trung Niên-Du Khai Nguyên</a>
+interacthypelink_009_b_14_4=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,city02,FuncNpc00104" style="HLStype1">Chủ Hiệu Thuốc-Đỗ Bách Niên</a>
+interacthypelink_009_b_14_5=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,city02,WorldNpc01193" style="HLStype1">Nghiêm Trạch Quản Gia-Tạ Ngâm</a>
+interacthypelink_009_b_14_6=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,city02,WorldNpc01001" style="HLStype1">Bà Chủ Hàng Thêu-Ngọc Lưu Tô</a>
+interacthypelink_009_b_14_7=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,city02,FuncNpc00110" style="HLStype1">Tiêu Cục Tổng Tiêu Đầu-Âu Dương Thành</a>
+interacthypelink_009_b_14_8=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,city02,WorldNpc01303" style="HLStype1">Quản Gia-Mộ Dung Càn</a>
+interacthypelink_009_b_14_9=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,city02,WorldNpc01031" style="HLStype1">Thanh Lâu Đả Thủ-Vương Cẩu Nhi</a>
+interacthypelink_009_b_14_10=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,city02,FuncNpc00101" style="HLStype1">Chủ Tiệm Binh Khí-Bằng Ngọc Trụ</a>
+interacthypelink_009_b_14_11=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,city02,WorldNpc01153" style="HLStype1">Người Vận Chuyển-Trương Tam</a>
+interacthypelink_009_b_14_12=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,city02,FuncNpc00102" style="HLStype1">Chủ Tiệm Phòng Cụ-Bạch Căng Nhu</a>
+interacthypelink_009_b_14_13=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,city02,FuncNpc00103" style="HLStype1">Chủ Tiệm Trang Sức-Tang Thanh</a>
+interacthypelink_009_b_14_14=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,city02,FuncNpc00134" style="HLStype1">Hồng Bách Phương</a>
+interacthypelink_009_b_15_1=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,city03,FuncNpc02613" style="HLStype1">Chủ Tiệm Tạp Hóa</a>
+interacthypelink_009_b_15_2=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,city03,FuncNpc02614" style="HLStype1">Chưởng Quầy Tửu Lâu-</a>
+interacthypelink_009_b_15_3=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,city03,FuncNpc02615" style="HLStype1">Chủ Tiền Trang</a>
+interacthypelink_009_b_15_4=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,city03,FuncNpc02603" style="HLStype1">Chủ Tiệm Vũ Khí</a>
+interacthypelink_009_b_15_5=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,city03,FuncNpc02604" style="HLStype1">Phòng Cụ Thương Nhân</a>
+interacthypelink_009_b_15_6=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,city03,FuncNpc02605" style="HLStype1">Sức Phẩm Thương Nhân</a>
+interacthypelink_009_b_15_7=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,city03,FuncNpc02606" style="HLStype1">>Dược Phẩm Thương Nhân</a>
+interacthypelink_009_b_15_8=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,city03,jl122" style="HLStype1">Hí Đài Chưởng Quầy</a>
+interacthypelink_009_b_15_9=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,city03,jl363" style="HLStype1">Tú Bà</a>
+interacthypelink_009_b_15_10=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,city03,jl386" style="HLStype1">Họa Thuyền Lão Bản</a>
+interacthypelink_009_b_15_11=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,city03,jl473" style="HLStype1">Chủ Khách Điếm</a>
+interacthypelink_009_b_15_12=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,city03,jl484" style="HLStype1">Chủ Đổ Trang</a>
+interacthypelink_009_b_15_13=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,city03,jl069" style="HLStype1">Chưởng Quầy Tửu Lâu-</a>
+interacthypelink_009_b_15_14=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,city03,WorldNpc11026" style="HLStype1">Liên Y Phu Nhân</a>
+interacthypelink_009_b_15_15=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,city03,jl412" style="HLStype1">Huống Phủ Quản Sự</a>
+interacthypelink_009_b_15_16=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,city03,jl436" style="HLStype1">Đông Lăng Mã Trường-Mã Thương</a>
+interacthypelink_009_b_15_17=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,city03,jl264" style="HLStype1">Từ Khâm</a>
+interacthypelink_009_b_15_18=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,city03,jl149" style="HLStype1">Người Tiếp Khách Triều Đình</a>
+interacthypelink_009_b_15_19=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,city03,jl180" style="HLStype1">Quan Dịch Trạm-Quyền Quân</a>
+interacthypelink_009_b_16_3=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,city04,WorldNpc10129" style="HLStype1">Thư Viện Tạp Dịch-Chu Hải Sinh</a>
+interacthypelink_009_b_16_5=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,city04,WorldNpc10316" style="HLStype1">Đại Quản Gia</a>
+interacthypelink_009_b_16_6=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,city04,WorldNpc10231" style="HLStype1">Tào Bang Bang Chúng Cao Cấp-Cẩu Tu</a>
+interacthypelink_009_b_16_7=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,city04,WorldNpc10329" style="HLStype1">Chủ trì Lôi Đài-Trần Thán Thụ</a>
+interacthypelink_009_b_16_8=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,city04,WorldNpc10556" style="HLStype1">Tần Vương Phủ-Tổng Quản</a>
+interacthypelink_009_b_16_9=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,city04,WorldNpc10586" style="HLStype1">Yến Môn-Quản Gia</a>
+interacthypelink_009_b_16_10=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,city04,WorldNpc10205" style="HLStype1">Lưu Tiếu Bác</a>
+interacthypelink_009_b_16_11=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,city04,ly590" style="HLStype1">Úy Trì Hàn</a>
+interacthypelink_009_b_16_12=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,city04,FuncNpc510" style="HLStype1">Chủ Khách Điếm</a>
+interacthypelink_009_b_16_13=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,city04,ly793" style="HLStype1">Lâm Tịch Ca</a>
+interacthypelink_009_b_17_1=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,city05,FuncNpc00615" style="HLStype1">Chủ Khách Điếm-Tôn A Đạt</a>
+interacthypelink_009_b_17_2=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,city05,WorldNpc10000" style="HLStype1">Chủ Quán Trà</a>
+interacthypelink_009_b_17_3=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,city05,FuncNpc00639" style="HLStype1">Chủ Xưởng Chọi Gà Trào Thục</a>
+interacthypelink_009_b_17_4=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,city05,FuncNpc00604" style="HLStype1">Chủ Tiệm Trang Sức-Chu Sinh Sinh</a>
+interacthypelink_009_b_17_5=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,city05,FuncNpc00607" style="HLStype1">Chưởng Quầy Tửu Lâu-Lô Ngang Lâm</a>
+interacthypelink_009_b_17_6=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,city05,FuncNpc00605" style="HLStype1">Chủ Tiệm Thuốc-Hoàng Thạch Nhân</a>
+interacthypelink_009_b_17_7=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,city05,FuncNpc00608" style="HLStype1">Chủ Tiền Trang-Hoa Tam</a>
+interacthypelink_009_b_17_8=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,city05,WorldNpc09685" style="HLStype1">Tiêu Sư Bành Tào</a>
+interacthypelink_009_b_17_9=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,city05,WorldNpc09733" style="HLStype1">Chủ Cẩm Quan Phường Âu Dương Diệp</a>
+interacthypelink_009_b_17_10=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,city05,WorldNpc09701" style="HLStype1">Chủ Cẩm Quan Phường Âu Dương Diệp</a>
+interacthypelink_009_b_17_11=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,city05,WorldNpc09710" style="HLStype1">Chủ Quán Rượu Khấu Nhàn An</a>
+interacthypelink_009_b_17_12=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,city05,WorldNpc09944" style="HLStype1">Quản Đốc Dịch Trạm</a>
+interacthypelink_009_b_17_13=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,city05,WorldNpc09960" style="HLStype1">Chưởng Quầy Thục Cẩm-Hiên Dưỡng Dân Nguyên</a>
+interacthypelink_009_b_17_14=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,city05,WorldNpc09764" style="HLStype1">Tú Bà Thôi Bà</a>
+interacthypelink_009_b_17_15=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,city05,WorldNpc09689" style="HLStype1">Tửu Lâu Chưởng Quầy Ba Thục Lạc-My Khai</a>
+interacthypelink_009_b_17_16=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,city05,WorldNpc09979" style="HLStype1">Nam Cung Thế Gia Trướng Phòng-Vương Kim Hoàn</a>
+interacthypelink_009_b_17_17=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,city05,WorldNpc09970" style="HLStype1">Kim Châm Thẩm Gia Chủ-Thẩm Thương Hải</a>
+interacthypelink_009_b_17_18=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,city05,WorldNpc09796" style="HLStype1">Thẩm Gia Trang Trang Chủ-Từ Vân Tranh</a>
+interacthypelink_009_b_17_19=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,city05,WorldNpc09745" style="HLStype1">Lệ Xuân Viện Tú Bà-Thái Thúc Thiêu Cơ </a>
+interacthypelink_009_b_18_1=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,scene01,WorldNpc05530" style="HLStype1">Thiết Tượng Sư Phụ-Cái Xước</a>
+interacthypelink_009_b_18_2=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,scene01,WorldNpc05557" style="HLStype1">Giám Sát Chặt Củi-Trương Hữu Tài</a>
+interacthypelink_009_b_18_3=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,scene01,WorldNpc05518" style="HLStype1">Giám Sát Chặt Củi-Từ Tuyết Minh</a>
+interacthypelink_009_b_18_4=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,scene01,WorldNpc05543" style="HLStype1">Thiết Tượng Sư Phụ-Mao Nghệ</a>
+interacthypelink_009_b_19_1=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,scene02,WorldNpc02021" style="HLStype1">Khương Mặc Tiên</a>
+interacthypelink_009_b_19_2=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,scene02,WorldNpc02030" style="HLStype1">Diệu Thủ Y Tiên-Khúc Trung Cầu</a>
+interacthypelink_009_b_19_3=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,scene02,WorldNpc02179" style="HLStype1">Hồi Xuân Đường Chưởng Quầy-Chu Nhị</a>
+interacthypelink_009_b_19_4=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,scene02,WorldNpc02004" style="HLStype1">Trưởng Lão Cừu Mặc Thất</a>
+interacthypelink_009_b_19_5=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,scene02,WorldNpc02134" style="HLStype1">Thiết Tượng Lãnh Nhất</a>
+interacthypelink_009_b_19_6=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,scene02,WorldNpc02180" style="HLStype1">Chưởng Quầy Trà-Bao Long Hưng</a>
+interacthypelink_009_b_19_7=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,scene02,WorldNpc02181" style="HLStype1">Chưởng Quầy Tửu Lâu-Ngô Hữu Vy</a>
+interacthypelink_009_b_20_1=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,scene03,WorldNpc06682" style="HLStype1">Chưởng Quầy Khách Điếm-Tiền Vy Bản</a>
+interacthypelink_009_b_20_2=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,scene03,WorldNpc06629" style="HLStype1">Khâm Sai Thái Thần Lưu Ngọc Nghiên</a>
+interacthypelink_009_b_20_3=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,scene03,WorldNpc06631" style="HLStype1">Đoạn Hồn Lĩnh Lĩnh Chủ-Vương Phụng</a>
+interacthypelink_009_b_20_4=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,scene03,WorldNpc06599" style="HLStype1">Quản Gia</a>
+interacthypelink_009_b_21_1=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,scene04,WorldNpc05803" style="HLStype1">Thổ Ty-Thời Minh Phương</a>
+interacthypelink_009_b_21_2=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,scene04,WorldNpc05804" style="HLStype1">Vu Sư-Thôi Thất Chỉ</a>
+interacthypelink_009_b_21_3=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,scene04,WorldNpc05835" style="HLStype1">Giám Công Bến Đò-Dương Quân</a>
+interacthypelink_009_b_21_4=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,scene04,WorldNpc05836" style="HLStype1">Dịch Trạm Quản Sự-Lăng Phong</a>
+interacthypelink_009_b_21_5=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,scene04,WorldNpc05808" style="HLStype1">Thất Tinh Đường Môn Chủ-Du Thiên Xuyên</a>
+interacthypelink_009_b_21_6=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,scene04,WorldNpc05837" style="HLStype1">Chưởng Quầy Tiệm Thuốc-Hoa An</a>
+interacthypelink_009_b_21_7=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,scene04,WorldNpc05838" style="HLStype1">Chủ Quán Trà-Lục Huy</a>
+interacthypelink_009_b_22_1=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,scene05,WorldNpc06128" style="HLStype1">Niệm La Bá Tiên Chủ-Trang Thanh Thanh</a>
+interacthypelink_009_b_22_2=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,scene05,WorldNpc06241" style="HLStype1">Ngũ Tiên Giáo Hộ Pháp-Lam Đình</a>
+interacthypelink_009_b_23_1=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,scene06,WorldNpc07320" style="HLStype1">Mục Nhân Tộc Trưởng-Tiêu Thành Khuê</a>
+interacthypelink_009_b_23_2=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,scene06,WorldNpc07325" style="HLStype1">>Quản Gia Sơn Trang-Lâm Tiêu</a>
+interacthypelink_009_b_23_3=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,scene06,WorldNpc07669" style="HLStype1">Tiều Phu-Dưỡng Ngự</a>
+interacthypelink_009_b_24_1=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,scene07,WorldNpc04936" style="HLStype1">Đầu Lĩnh Thổ Phỉ-Sa Lý Phi</a>
+interacthypelink_009_b_24_2=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,scene07,WorldNpc05126" style="HLStype1">Chủ khách điếm-Vương Hiên</a>
+interacthypelink_009_b_24_3=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,scene07,WorldNpc05127" style="HLStype1">Quản Gia Lỗ Quan</a>
+interacthypelink_009_b_24_4=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,scene07,WorldNpc05042" style="HLStype1">Vạn Mai Sơn Trang Trang Chủ-Tây Môn Xuy Tuyết</a>
+interacthypelink_009_b_24_5=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,scene07,WorldNpc05128" style="HLStype1">Chủ Quán Trà-Cao Tùng</a>
+interacthypelink_009_b_24_6=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,scene07,WorldNpc04932" style="HLStype1">Bà Chủ Kim Cơ Yến</a>
+interacthypelink_009_b_24_7=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,scene07,WorldNpc05129" style="HLStype1">Chưởng Quầy Tửu Lâu-Hàng Tiêu Bình</a>
+interacthypelink_009_b_25_1=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,scene08,WorldNpc07907" style="HLStype1">Chủ thành Lôi Hành Không</a>
+interacthypelink_009_b_25_2=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,scene08,WorldNpc07748" style="HLStype1">hiên La Giáo Phó Giáo Chủ-La Hành Thương</a>
+interacthypelink_009_b_25_3=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,scene08,WorldNpc07807" style="HLStype1">Đại Kỳ Môn Tổng Quản-Lâm Thiên Bình</a>
+interacthypelink_009_b_25_4=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,scene08,WorldNpc08103" style="HLStype1">Quan Giữ Kho-Chư Đức</a>
+interacthypelink_009_b_25_5=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,scene08,WorldNpc07749" style="HLStype1">Tổng Giám Công tu sửa thành-Dịch Tiêu Hành</a>
+interacthypelink_009_b_26_1=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,scene09,WorldNpc07109" style="HLStype1">Chưởng Quầy Khách Điếm-Trần Kiếm</a>
+interacthypelink_009_b_26_2=Nhàn lai vô sự, muốn kiếm chút thù lao, có thể tìm <a href="findnpc_new,scene09,WorldNpc07110" style="HLStype1">Nhất Phẩm Đường Quản Sự-Trần Hiền Thành</a>
+interacthypelink_011_b_1=Đoạt lại hành lý người làm công, mang đến chỗ <a href="findnpc_new,city01,AbductNpc13b" style="HLStype1">Hành Hiệp Y Sư</a> tiến hành bảo quản
+interacthypelink_011_b_2=Đoạt lại hành lý người làm công, mang đến chỗ <a href="findnpc_new,city02,AbductNpc14b" style="HLStype1">Hành Hiệp Y Sư</a> tiến hành bảo quản
+interacthypelink_011_b_3=Đoạt lại hành lý người làm công, mang đến chỗ <a href="findnpc_new,city03,AbductNpc15b" style="HLStype1">Hành Hiệp Y Sư</a> tiến hành bảo quản
+interacthypelink_011_b_4=Đoạt lại hành lý người làm công, mang đến chỗ <a href="findnpc_new,city04,AbductNpc16b" style="HLStype1">Hành Hiệp Y Sư</a> tiến hành bảo quản
+interacthypelink_011_b_5=Đoạt lại hành lý người làm công, mang đến chỗ <a href="findnpc_new,city05,AbductNpc17b" style="HLStype1">Hành Hiệp Y Sư</a> tiến hành bảo quản
+show_submit_tips9=Sau khi đoạt lại hành lý người làm công sẽ nhận điểm Hiệp Nghĩa
+show_jion_tips8=Mua Khế Ước ở Tiệm Tạp Hóa, dùng với người chơi offline, có thể ký Khế Ước với người chơi này
+show_jion_tips9=Kẻ môi giới đáng ghét, đoạt lại hành lý người làm công
+ui_main_tips_bf=Thương nhân đen tối
+ui_tvtprize_tips_9=<font color="#FFB400">Phần thưởng: </font><br>Hoàn thành một lần môi giới có thể nhận<s><img src="gui\language\ChineseS\tvt\icon_xx.png"valign="bottom"/>*1<br><br><img src="gui\language\ChineseS\tvt\icon_1.png" only="line" valign="bottom"/><font color="#96CC00">Bạc Vụn (Tiền game): </font>Bạc Vụn có thể tiêu hàng ngày<br><img src="gui\language\ChineseS\tvt\icon_1.png" only="line" valign="bottom"/><font color="#96CC00">Bạc (Tiền game): </font>Bạc có thể dùng để tiêu hàng ngày, diễn võ, giao dịch ngày...
+shop_off_miyao=Tiệm Môi Giới
+ui_info_bangfei=Hiệp Sĩ Môi Giới
+ui_sns_pk_action01=PVE: Tổ đội khiêu chiến cấm địa võ lâm, khiêu chiến thế lực giang hồ, tham gia vận tiêu bang hội;<br>PVP: Cướp tiêu, cướp ngục, giao dịch môi giới, hành vi kích sát kiểu giang hồ;<br>Hành vi tương tác: Cứu người chơi bị trọng thương, giải cứu người chơi offline.
+ui_sns_pk_action02=PVE: Tổ đội khiêu chiến Cấm Địa, khiêu chiến thế lực giang hồ, tham gia Vận Tiêu Bang;<br>PVP: Cướp tiêu, cướp ngục, giao dịch môi giới tư, hành vi kích sát giang hồ;<br>Hành vi tương tác: cứu chữa người chơi trọng thương, chuộc thân người chơi rời mạng.
+ui_marrysns_2=Khi độ thân mật phu thê đều đạt 2000 điểm<br>Bên nam sẽ đến chỗ “Người Mai Mối” tại Kim Lăng (1282,1479) đề nghị kết hôn<br>Cách nhận độ thân mật<br>1. Tiến cử:<font color="#FFCC00"> Tặng quà (“Giang Hồ”-“Tặng quà”-“Vật kỷ niệm”)</font><br>2. Cách khác: Tổ đội (nhiệm vụ, Cấm Địa, Thích Quán, Vận Tiêu), giải cứu bắt cóc, hưởng ứng cứu viện, chữa trị trọng thương, thưởng offline<br><br>Cách nhận Độ Hòa Hợp phu thê<br>1. Tiến cử:<font color="#FFCC00"> nhiệm vụ phu thê hàng ngày (“Lưu Lạc Giang Hồ”-“Giang Hồ”-“Bạn Lữ Giang Hồ”), Danh Tuấn Giang Hồ mỗi ngày tối đa có thể đạt 20 điểm</font><br>2.Cách khác: Cấm Địa, Thích Quán, Vận Tiêu
+ui_mpjs_rmtj_xjz=<font color="#33CC33">Từ Gia Trang-Nhập môn tuyến chính</font><br>Người chơi phải là Vô Môn Phái và chưa vào các thế lực khác (có thể trực tiếp chọn Vô Môn Phái hoặc Phản Sư, Dịch Dung, xuống núi tu luyện của bát đại môn phái);<br>Thực lực người chơi đạt Sơ Khuynh Môn Kính;<br>Ký hiệu Hiệp Ác của người chơi phải là "Hiệp" hoặc "Sơ";<br>Người chơi không thể là người đã tịnh thân, hay là đến Thành Đô (348,800) tìm Thẩm Phi hồi phục mình hoàn chỉnh, người chơi hồi phục sẽ không thể dùng võ học "Quỳ Hoa Bảo Điển";<br>Người chơi không môi giới;<br>Người chơi không bị truy nã;<br>Người chơi chưa nghiên cứu qua Quỳ Hoa Bảo Điển hoặc đến Linh Hư Kim Lăng (1151,544) nhận nhiệm vụ được đạo cụ "Phù Thất Thuật Chí Văn";<br>Người chơi diệt không quá 300 người hoặc đến Kim Lăng gặp Linh Hư (1151,544) nhận nhiệm vụ nhận được đạo cụ "Bát Thật Bát Phật Đại Sám Hối Văn";<br>Người chơi không có điểm PK;<br>Người chơi không có Y Sam Bạo Lộ;<br>Người chơi phải học được bất kỳ 1 nghề hệ thu thập và hệ chế tạo;<br>Người chơi Phản Sư bổn môn phái trong vòng 24 ngày không thể vào lại;<br><font color="#33CC33">Từ Gia Trang-Kỳ ngộ nhập môn</font><br>Người chơi không được sát khí quá nặng mới có cơ hội thông qua kỳ ngộ vào Từ Gia Trang
+ui_froce_rumen_xujia_0=<center><font face="font_text_title1" color="#FF7F24">Từ Gia Trang-Điều kiện nhập môn</font></center><font face="font_text_title1" color="#33CC33">Điều kiện giang hồ</font><br>Người chơi không có điểm PK<br>Số lần sát nhân của người chơi không quá 300<br>Người chơi không ở trạng thái môi giới<br>Người chơi không bị truy nã<br>Người chơi không có Y Sam Bạo Lộ<br>Người chơi phản sư bổn môn trong vòng 24 ngày không thể gia nhập lại<br><font face="font_text_title1" color="#33CC33">Điều kiện danh phận</font><br>Người chơi chưa tịnh thân<br>Người chơi phải là vô môn phái hoặc là đệ tử phản sư, dịch dung, xuống núi lịch luyện<br>Ký hiệu thiện ác của người chơi là "Hiệp" hoặc "Sơ"<br>Người chơi phải học được bất kỳ 1 nghề hệ thu thập và hệ chế tạo<br><font face="font_text_title1" color="#33CC33">Điều kiện võ học</font><br>Thực lực người chơi đạt Sơ Khuy Môn Kính<br>Người chơi chưa nghiên cứu qua Quỳ Hoa Bảo Điển<br><center><font face="font_text_title1" color="#FF7F24">Từ Gia Trang-Kỳ Ngộ Nhập Môn</font></center>Người chơi không được sát khí quá nặng mới có cơ hội thông qua kỳ ngộ vào Từ Gia Trang
+tvt_abduct_1=Môi Giới Tham Lam
+ui_froce_rumen_xujia_1=<center><font face="font_text_title1" color="#FF7F24">Từ Gia Trang-Kỳ Ngộ Nhập Môn</font></center><font face="font_text_title1" color="#33CC33">Điều kiện giang hồ</font><br>Người chơi phải là Danh Tuấn Giang Hồ<br>Điểm Sát Khí của người chơi nhỏ hơn 2000<br>Người chơi không ở trạng thái môi giới<br>Người chơi không bị truy nã<br>Số lần sát nhân của người chơi không quá 1000<br>Người chơi phản sư bổn môn phái trong vòng 24 ngày không thể vào lại<br><font face="font_text_title1" color="#33CC33">Điều kiện danh phận</font><br>Người chơi chưa tịnh thân<br>Người chơi phải là vô môn phái hoặc là đệ tử phản sư, dịch dung, xuống núi lịch luyện<br>Ký hiệu thiện ác người chơi phải là "Hiệp" hoặc "Sơ"<br><font face="font_text_title1" color="#33CC33">Điều kiện võ học</font><br>Thực lực người chơi cần đạt Sơ Khuy Môn Kính<br>Người chơi chưa từng học qua Quỳ Hoa Bảo Điển
+ui_viptype11=Giao dịch môi giới
+ui_tequan11=Thưởng Bạc giao dịch môi giới nhiều hơn
+npctype186=Môi Giới Tham Lam
+npctype225=Thương nhân đen tối
+desc_buf_SaleGirl_0=Giao dịch môi giới
+desc_buf_SaleBoy_0=Giao dịch môi giới
+buf_offline_abduct_fail=Tâm trạng chán nản
+desc_buf_offline_abduct_fail_0=Khế ước không thành công, tâm trạng chán nản, tạm thời không muốn làm gì, định thân 60 giây.
+buf_offline_abduct_cd=Toàn thân mệt mỏi
+desc_buf_offline_abduct_cd_0=Vừa mới thành công hoàn thành 1 lần giao dịch môi giới, toàn thân mệt mỏi, cần nghỉ ngơi một lát
+buf_abductor=Trạng thái môi giới
+desc_buf_abductor_0=Hành lý nặng nề, nhưng việc mua bán không thể không ép dạ cầu toàn, giảm tốc độ di chuyển, có thể bị ai đó công kích
+buf_abducted=Trạng thái khế ước
+desc_buf_abducted_0=Khi làm công offline đã ký Khế Ước dùng người làm với môi giới, mất tự do 12 tiếng, dưới trạng thái này lúc làm công offline không thể tự mình đổi danh phận. Có thể nhấp nút "Chuộc thân" chỗ giao diện Offline khi rời game, tốn lượng Bạc Vụn nhất định để phục hồi tự do.
+bhf_abduct_yd=Trạng thái Môi Giới
+desc_bhf_abduct_yd_0=Hành lý nặng nề nhưng làm kinh doanh không thể không cầu toàn, tốc độ di chuyển chậm, có thể bị người khác công kích
+buf_abduct_yd_1=Kẻ Môi Giới
+desc_buf_abduct_yd_1_0=Trong thời gian quy định hoàn thành giao dịch
+desc_itmbuf_bangjia_1=Bạc nhận được khi giao dịch môi giới tăng 30%
+buf_offline_abduct_cd01=Thân thể mệt mỏi
+desc_buf_offline_abduct_cd01_0=Vừa hoàn thành thành công 1 lần giao dịch môi giới tư, thân thể mệt mỏi, cần nghỉ ngơi một lúc
+buf_offline_abduct_cd02=Thân thể mệt mỏi
+desc_buf_offline_abduct_cd02_0=Vừa hoàn thành thành công 1 lần giao dịch môi giới tư, thân thể mệt mỏi, cần nghỉ ngơi một lúc
+buf_offline_abduct_cd03=Thân thể mệt mỏi
+desc_buf_offline_abduct_cd03_0=Vừa hoàn thành thành công 1 lần giao dịch môi giới tư, thân thể mệt mỏi, cần nghỉ ngơi một lúc
+buf_offline_abduct_cd04=Thân thể mệt mỏi
+desc_buf_offline_abduct_cd04_0=Vừa hoàn thành thành công 1 lần giao dịch môi giới tư, thân thể mệt mỏi, cần nghỉ ngơi một lúc
+buf_offline_abduct_cd05=Thân thể mệt mỏi
+desc_buf_offline_abduct_cd05_0=Vừa hoàn thành thành công 1 lần giao dịch môi giới tư, thân thể mệt mỏi, cần nghỉ ngơi một lúc
+desc_condition_9525=Hiện ở trạng thái môi giới
+desc_condition_102422=Không ở trạng thái môi giới
+desc_CS_single_xzyl_1=Hư trúc u lan sinh tĩnh khí, hòa phong lãng nguyệt dụ thiên hoài, giảm 10% thời gian kéo dài trạng thái xấu, bao gồm:<br>Định thân (Do Thám, Giao Dịch thất bại), Tịnh Thân, Thích Thương (bị lừa đá bị thương), Cửu Chuyển Thông Minh.<br>(Chiêu thức tiêu hao 1 Phu Dược Mộc Châm và 5 điểm trị liệu)
+desc_CS_single_xzyl_2=Hư trúc u lan sinh tĩnh khí, hòa phong lãng nguyệt dụ thiên hoài, giảm 15% thời gian kéo dài trạng thái xấu, bao gồm:<br>Định thân (Do Thám, đàm phán môi giới thất bại), tịnh thân, thích thương (bị lừa đá bị thương), Cửu Chuyển Thông Minh.<br>(Chiêu thức tiêu hao 1 Phu Dược Mộc Châm và 5 điểm trị liệu)
+desc_CS_single_xzyl_3=Hư trúc u lan sinh tĩnh khí, hòa phong lãng nguyệt dụ thiên hoài, giảm 20% thời gian kéo dài trạng thái xấu, bao gồm:<br>Định thân (Do Thám, đàm phán môi giới thất bại), tịnh thân, thích thương (bị lừa đá bị thương), Cửu Chuyển Thông Minh.<br>(Chiêu thức tiêu hao 1 Phu Dược Mộc Châm và 5 điểm trị liệu)
+sns_event_text_35={@0:name} tại {@1:scene} bị {@2:killer} lừa gạt, không rõ sẽ bị đưa đến nơi nào làm công.
+sns_event_text_72={@0:name} tại {@2:scene} bị lừa gạt cùng {@3:npc} ký khế ước bán thân.
+sns_event_text_70={@0:name} bàn môi giới thành công, hoàn thành 1 lần giao dịch môi giới ở {@1:scene}.
+sns_Enemy_text_Abduct={@0:name} tiến hành giao dịch môi giới ở {@1:scene}
+sns_jieshi_text_018_1={@0:name} đã ký với bạn khế ước môi giới tư
+sns_jieshi_text_018_2=Bạn và {@0:name} đã ký khế ước môi giới tư
+baseevent_125=Giao dịch môi giới
+baseevent_146=Giúp người chơi khế ước
+baseevent_24=Dùng khế ước
+baseevent_25=Giao dịch môi giới
+baseevent_46=Giúp người chơi khế ước
+offitem_miyao01=Khế Ước 1
+offitem_miyao02=Khế ước 2
+offitem_miyao03=Khế ước 3
+offitem_miyao04=Khế ước 4
+offitem_miyao05=Khế ước 5
+offitem_miyao06=Khế ước 6
+offitem_miyao07=Khế ước 7
+offitem_miyao08=Khế ước 8
+offitem_miyao09=Khế ước 9
+offitem_miyao10=Khế ước 10
+AbductNpc01_1=Thương nhân đen tối
+AbductNpc02_1=Thương nhân đen tối
+AbductNpc03_1=Thương nhân đen tối
+AbductNpc04_1=Thương nhân đen tối
+AbductNpc13_1=Thương nhân đen tối
+AbductNpc13a_1=Môi Giới Tham Lam
+AbductNpc14_1=Thương nhân đen tối
+AbductNpc14a_1=Môi Giới Tham Lam
+AbductNpc15_1=Thương nhân đen tối
+AbductNpc15a_1=Môi Giới Tham Lam
+AbductNpc16_1=Thương nhân đen tối
+AbductNpc16a_1=Môi Giới Tham Lam
+AbductNpc17_1=Thương nhân đen tối
+AbductNpc17a_1=Môi Giới Tham Lam
+OffAbductNpc=Hành lý của người làm công
+OffAbductNpc_0=Hành lý người làm công
+bangjia_bf01=Môi Giới
+bangjia_bf02=Môi Giới
+bangjia_bf03=Môi Giới
+bangjia_bf04=Môi Giới
+bangjia_md01=Hành lý người làm công
+bangjia_md02=Hành lý người làm công
+bangjia_md03=Hành lý người làm công
+bangjia_md04=Hành lý người làm công
+bjyd001=Môi Giới
+bjyd011=Hành lý người làm công
+bjyd012=Hành lý người làm công
+bjyd_bf01=Môi Giới
+bjyd_bf02=Môi Giới
+bjyd_bf03=Môi Giới
+bjyd_bf04=Môi Giới
+bjyd_md001=Hành lý người làm công
+bjyd_md002=Hành lý người làm công
+bjyd_md003=Hành lý người làm công
+bjyd_md004=Hành lý người làm công
+bjyd_md01=Hành lý người làm công
+bjyd_md02=Hành lý người làm công
+bjyd_md03=Hành lý người làm công
+bjyd_md04=Hành lý người làm công
+talk_special_810040031=Đây… hình như chính là hắn! Mau đi theo!
+13507=Đang ngồi tù, không thể tham gia giao dịch môi giới
+19847=Trong trạng thái môi giới, không thể tham gia sự kiện này.
+2519=Thao tác cưỡi hai người hãy xác nhận hai bên đều chưa ở trạng thái môi giới
+40013=Giao dịch môi giới thành công, nhận được <font color="#00ff00">{@0:number}</font> lượng <img src="gui\common\money\yb.png" valign="center" only="line" data="" />!
+40022=Cần chọn 1 nhân vật người chơi offline trước rồi mới sử dụng đạo cụ môi giới.
+40028=Đã khế ước thành công <font color="#00ff00">{@0:name}</font>, điểm PK tăng <font color="#00ff00">{@1:number}</font> điểm.
+40031=Bạn đã thuyết phục 1 người ký khế ước, đừng tham quá, tránh thêm phiền toái.
+40032=Đối phương rất hài lòng với cuộc sống hiện tại, không định theo bạn, bạn rất ủ rũ, cần điều chỉnh tâm trạng, định thân 60s.
+40033=Đa tại đại hiệp cất nhắc, ta tạm thời không muốn đến nơi khác phát triển.
+40034=Đa tạ đại hiệp ra tay tương trợ, suýt chút nữa ta mắc bẫy hắn rồi!
+40035=Hành hiệp trượng nghĩa, trả cho người mất.
+40036=Thừa cơ hãm hại, tiếp tay giao dịch.
+40037=Thừa cơ hãm hại, tiếp tay giao dịch môi giới, điểm PK tăng <font color="#00ff00">{@0:number}</font> điểm.
+40038=Hành hiệp trượng nghĩa, trả lại hành lý cho người mất, điểm PK giảm <font color="#00ff00">{@0:number}</font> điểm.
+40039=Bạn không có quyền thao tác đối với hành lý. Trong 30s chỉ có đánh bại người chơi môi giới mới được thao tác, trong vòng 30s-60s tất cả người chơi đều có thể thao tác.
+40041=Trả tiền chuộc, lấy lại khế ước, khôi phục tự do.
+40042=Diệt Môi Giới, trong 30s chỉ bạn có thể thao tác đối với hành lý, trong vòng 30s-60s tất cả người chơi có thể thao tác.
+40043=Hành lý bạn lấy được do bất cẩn nên bị mất, giao dịch thất bại.
+40049=Tại {@0:scene}({@1:x},{@2:z}) phát hiện môi giới [{@3:name}], xin các vị hiệp sĩ đến ngăn chặn, trả lại trật tự của võ lâm.
+40050=[{@0:name}] gặp chuyện bất bình rút đao tương trợ, đánh bại môi giới [{@1:name}].
+40051=Tại {@0:scene}({@1:x},{@2:z}) phát hiện môi giới [{@3:name}], xin các vị hiệp sĩ đến ngăn chặn, trả lại trật tự của võ lâm.
+40052=[{@0:name}] hành hiệp trượng nghĩa, giúp người chơi offline lấy lại hành lý.
+40054=Đánh bại môi giới giúp người chơi offline lấy lại hành lý!
+40055=Tìm thương nhân hoặc môi giới tham lam đang chiêu mộ lao công giao hành lý cho họ, đổi lấy tiền hoa hồng.
+40061=Nhấp chuột phải dùng khế ước trong túi có thể ký khế ước với người chơi offline.
+40062=Đối phương rất có hứng thú với khế ước của bạn, chuẩn bị chấp nhận điều kiện của bạn rồi.
+40063=Đối phương giao hành lý cho bạn bảo quản, bạn có thể chuyển nó đến chỗ ông chủ cần dùng công nhân.
+40064=Trên đường người đông hỗn loạn, hành lý bất cẩn bị mất, giao dịch thất bại.
+40065=Ở trạng thái bảo hộ, không thể dùng khế ước.
+40066=Ở trạng thái bảo hộ, không thể thao tác đối với hành lý của người làm công.
+40067=Ở trạng thái bảo hộ, không thể công kích đối với môi giới.
+40072=Đối phương không có nhiều tiền để chi trả, giao dịch môi giới thất bại.
+40073=Giao dịch môi giới thành công, nhận được Bạc.
+40075=Người chơi này vừa ký khế ước ở đây, trong thời hạn khế ước không thể ký lại
+40081=Xem năng lực tướng mạo người này, giới thiệu cho thương nhân làm thuê, chắc cũng nhận được Bạc {@0:$锭两文}
+40082=Xem tướng mạo năng lực người này hoàn toàn không hợp yêu cầu của thương nhân, giới thiệu hắn làm công chỉ có thể nhận được chút bạc vụn.
+40084=Xem năng lực tướng mạo người này, giới thiệu cho thương nhân làm thuê, chắc cũng nhận được Bạc {@0:$锭两文}, nếu giới thiệu cho <font color="#FF0000">{@1:npc}</font> có thể nhận được nhiều hơn
+40095=Cứu giúp thành công, nhận được Bạc vụn {@0:$锭两文}
+40097=Cứu giúp thành công, nhận thêm Bạc {@0:$锭两文}
+40101=Ở trạng thái môi giới, không thể quay về chọn nhân vật
+80023=Môi Giới Tham Lam mang nhiều <font color="#ffd700">Bạc</font> xuất hiện, giờ đang ở gần <font color="#ff0000">Yến Kinh</font>
+80024=Môi Giới Tham Lam mang nhiều <font color="#ffd700">Bạc</font> xuất hiện, giờ đang ở gần <font color="#ff0000">Tô Châu</font>
+80025=Môi Giới Tham Lam mang nhiều <font color="#ffd700">Bạc</font> xuất hiện, giờ đang ở gần <font color="#ff0000">Kim Lăng</font>
+80026=Môi Giới Tham Lam mang nhiều <font color="#ffd700">Bạc</font> xuất hiện, giờ đang ở gần <font color="#ff0000">Lạc Dương</font>
+80027=Môi Giới Tham Lam mang nhiều <font color="#ffd700">Bạc</font> xuất hiện, giờ đang ở gần <font color="#ff0000">Thành Đô</font>
+80028=Trạng thái trọng thương, không thể vứt bỏ hành lý.
+80029=Lòng dạ hiệp nghĩa, trả lại hành lý
+80036=Đang trả lại hành lý, không thể dùng khế ước
+80037=Đang trả lại hành lý, không thể tham gia giao dịch môi giới
+80038=Đang tiến hành giao dịch môi giới, không rảnh chú ý đến hành lý
+80052=Trạng thái chiến đấu không thể vứt bỏ hành lý
+80053=Trạng thái trọng thương không thể vứt bỏ hành lý
+80054=Đang trên đường trả lại hành lý, không thể mang thêm hành lý nữa
+80055=Vừa trả lại 1 hành lý, thể lực không đủ, nghỉ ngơi một lát nhé
+80056=Hành lý tự mình cầm đến, đừng tự mình trả lại nhé
+80057=Đang trong sự kiện không thể trả lại hành lý
+81042=Nhân vật này không thể bị khế ước.
+83039=Đang tiến hành giao dịch môi giới, không thể báo danh tham gia Môn Phái Chiến
+83040=Đang tiến hành giao dịch môi giới, không thể vào chiến trường Môn Phái Chiến
+9113=Bản thân ở trạng thái môi giới hoặc đang ký khế ước với người khác
+97054=Người chơi trạng thái môi giới không thể gia nhập
+9751=Đối phương ở trạng thái môi giới, không thể đến!
+9791=Không thể bắt chuyện ở trạng thái sự kiện như giao dịch môi giới, Bang Chiến, Chiến Trường
+no_abduct_item=Trong túi không có đạo cụ khế ước, hãy đến Tiệm Tạp Hóa để mua.
+tips_itemtype_91=<font color="#FFFFFF">Đạo cụ môi giới</font>
+tips_itemtype_95=<font color="#FFFFFF">Đạo cụ môi giới</font>
+tips_abduct_rule_0=Lúc chạng vạng <font color="#FFD700">Môi Giới Tham Lam </font> sẽ mang nhiều <font color="#FFD700">Bạc</font> giao dịch với người chơi môi giới:<br>Thời gian giao dịch từ thứ 2 đến thứ 6 lúc 20:00-22:00<br><font color="#00FF00">Thứ 2:</font> Thu mua ở <font color="#FF0000">Kim Lăng (1664.1037)</font>;<br><font color="#00FF00">Thứ 3:</font> Thu mua ở <font color="#FF0000">Thành Đô (767.471)</font>;<br><font color="#00FF00">Thứ 4:</font> Thu mua ở <font color="#FF0000">Yến Kinh (235.132)</font>;<br><font color="#00FF00">Thứ 5:</font> Thu mua ở <font color="#FF0000">Lạc Dương (1150.722)</font>;<br><font color="#00FF00">Thứ 6:</font> Thu mua ở <font color="#FF0000">Tô Châu (453.744)</font>;<br><br><font color="#ffffff">Giao thành công hành lý của người làm công cho Môi Giới Tham Lam hoặc đem hành lý người chơi offline lấy lại được đến chỗ Bách Tính Nhiệt Tình bảo quản, có thể nhận được</font> <font color="#FFD700">Bạc</font>.
+tips_abduct_rule_1=Lúc chạng vạng <font color="#FFD700">Môi Giới Tham Lam</font> sẽ mang nhiều <font color="#FFD700">Bạc</font> giao dịch với người chơi môi giới: <br>Thời gian giao dịch từ thứ 2 đến thứ 6 lúc 20:00-22:00<br><font color="#00FF00">Thứ 2: </font>Thu mua ở <font color="#FF0000">Kim Lăng (1664.1037)</font>;<br><font color="#00FF00">Thứ 3: </font>Thu mua ở <font color="#FF0000">Thành Đô (767.471)</font>;<br><font color="#00FF00">Thứ 4: </font>Thu mua ở <font color="#FF0000">Yến Kinh (235.132)</font>;<br><font color="#00FF00">Thứ 4: </font>Thu mua ở <font color="#FF0000">Lạc Dương (1150.722)</font>;<br><font color="#00FF00">Thứ 6: </font>Thu mua ở <font color="#FF0000">Tô Châu (453.744)</font>;<br><br><font color="#ffffff">Giao thành công hành lý của người làm công cho Môi Giới Tham Lam hoặc đem hành lý người chơi rời mạng lấy lại được đến chỗ Bách Tính Nhiệt Tình bảo quản, có thể nhận được </font><font color="#FFD700">Bạc</font> tương ứng.
+desc_bangfeixiashi04=<img src="gui\special\helper\jianghuzhengdou\bangjia.png"  only="true" halign="center" valign="top" /><br><s><s>Giang hồ lại dậy sóng, các thế lực lớn xuất hiện, chiêu mộ người để mở rộng thế lực, giao dịch môi giới ngầm lừa bịp là ngành kinh doanh đen rất hấp dẫn. Tuy sẽ bị nhân sĩ chính phái truy bắt, cũng sẽ bị quan phủ truy nã nhưng vẫn có rất nhiều người mạo hiểm.<br><br><font color="#5E4939">Quy tắc môi giới</font><br><s><s>1. Giao dịch môi giới cần tốn khế ước, có thể mua ở Tiệm Tạp Hóa.<br><s><s>2. Khế ước chỉ được dùng với <font color="#993300">[Nhân vật offline]</font>, tỉ lệ thành công có liên quan đến cấp khế ước và thực lực đối phương.<br><s><s>3. Khế ước nhân vật offline thành công thì người đó sẽ tự động đặt hành lý xuống đất.<br><s><s>4. Nhặt hành lý lên, có thể giao nó cho NPC, NPC sẽ dựa vào thực lực của nhân vật rời mạng để chi trả Bạc. Chỉ thu nhận nhân vật bị bắt cóc thỏa điều kiện<br><s><s>5. Nhân vật rời mạng bị khế ước thành công sẽ tạm mất tự do, cưỡng chế làm việc ở chỗ khế ước và không thể nhận được lợi ích offline.<br><s><s>6. Thành công hoàn thành 1 lần giao dịch môi giới sẽ vào trạng thái mệt mỏi, trong 1 giờ NPC các nơi đều sẽ từ chối giao dịch với người ở trạng thái mệt mỏi.<br><s><s>7. Từ 20:00 đến 22:00, Môi Giới Tham Lam phân bố ở 5 thành sẽ tiếp nhận trắng trợn hành lý của người làm công. Mỗi ngày Môi Giới Tham Lam sẽ thu mua hành lý ở các thành khác nhau, hãy chú ý thông báo trong game để tham gia sự kiện<br><br><font color="#5E4939">Quy tắc Hiệp Sĩ</font><br><s><s>1. Mục tiêu duy nhất của hiệp sĩ chính là <font color="#993300">[Đánh bại Môi Giới]</font>, đoạt lại hành lý của người làm công.
+desc_xujiazhuang04=<font color="#453627">[Khái quát Từ Gia Trang]</font><br><img src="gui\special\forceschool\shilituyuan\xujia.png"  only="true" halign="center" valign="bottom" /><br><font color="#5E4939">1. Giới thiệu</font><br><s><s>Từ Gia Trang và Kim Châm Thẩm Gia đều nổi tiếng, là thế gia võ học lâu đời. Mỗi người trong Trang đều là lão luyện giang hồ, đến cả nô bộc và nha hoàn cũng đều thân thủ bất phàm. Từ Gia Trang xem an ninh giang hồ, trừ bạo an dân là nhiệm vụ của mình, người trong Trang đều trượng nghĩa hành hiệp, ghét cái ác. Đệ tử Từ Gia Trang đều giỏi sinh sống ở dã ngoại, thường ngày trèo đèo lội suối, rèn luyện bản lĩnh sinh tồn cho bản thân, khiến người giang hồ nể phục. Từ Gia Trang Chỉ Pháp mà đệ tử tập luyện từng được tiền bối võ lâm chỉ điểm, lại càng tinh diệu, 1 cây thước nhỏ nhắn trong tay đệ tử Từ Gia Trang lại trở thành thần binh giang hồ, được minh chủ Lâm Thiên Nam xưng là “Thiên hạ vô song, cực kỳ khéo léo”.<br><br><font color="#5E4939">2. Quy tắc nhập môn</font><br><font color="#993300">Nhập môn chính tuyến</font><br>Người chơi cần thỏa điều kiện sau:<br>1. Người chơi hiện không có điểm PK<br>2. Số người diệt không quá 300 (có thể thông qua Tránh Né Nhiệm Vụ để thông qua thẩm duyệt)<br>3. Người chơi không ở trạng thái môi giới<br>4. Người chơi không bị truy nã.<br>5. Người chơi không có Y Sam Bạo Lộ.<br>6. Người chơi phản sư từ bổn phái trong 24 ngày không thể vào lại<br>7. Người chơi không thể là người đã tịnh thân<br>8. Người chơi phải là vô môn phái hoặc đệ tử phản sư, dịch dung, hạ sơn lịch luyện<br>9. Ký hiệu người chơi phải là: Sơ hoặc Hiệp<br>10. Người chơi cần học 1 nghề hệ thu thập và chế tạo bất kỳ<br>11. Thực lực người chơi là Sơ Khuynh Môn Kính trở lên<br>14. Chưa học qua Quỳ Hoa Bảo Điển<br>Sau khi đạt điều kiện, có thể đến Xa Phu Thành Đô tìm NPC “Quan Duyệt Nhập Môn Từ Gia Trang” xong sẽ nhận nhiệm vụ nhập môn.<br><font color="#993300">Kỳ ngộ nhập môn</font><br>Người chơi đạt đến điều kiện nhất định có thể kích hoạt kỳ ngộ, nhận đạo cụ kỳ ngộ nhập môn, đến Từ Gia Trang nhận nhiệm vụ nhập môn.<br><font color="#5E4939">3. Tính năng thông dụng</font><br><s><s>Người chơi dùng danh phận “Vô môn phái” gia nhập Từ Gia Trang có thể tham gia Do Thám, Đoạt Sách.<br><font color="#5E4939">4. Đặc sắc thế lực</font><br>Kỹ năng đặc biệt<br><font color="#993300">Câu Hỏa</font>:<br><s><s>Đệ tử Từ Gia Trang có thể đốt 1 đống Câu Hỏa trên đất, người chơi trong đội có thể nấu món ăn trong túi ở Câu Hỏa để ăn, tăng thực lực. Đồng thời có thể chia sẻ thức ăn trong túi cho người chơi khác trong đội, bao gồm thức ăn khóa. Câu Hỏa chia làm 3 cấp, cấp càng cao thì thuộc tính trạng thái tăng thêm càng tốt. Muốn tăng cấp Câu Hỏa cần hoàn thành tạp học ngày của Từ Gia Trang, nhận điểm Thuần Thục để tăng cấp.<br><font color="#993300">Đại Chiến Câu Cá</font>:<br><s><s>Mỗi tuần mở 2 lần, chỉ cần đệ tử Từ Gia Trang đã học kỹ năng sống Ngư Phu đều có thể báo danh. Trong thi đấu, đệ tử Từ Gia Trang có thể đến vùng nước các nơi tiến hành câu cá, trong thời gian sự kiện, câu cá chỗ Đàn Cá có rớt thêm. Sự kiện kết thúc, dựa vào số lượng cá nhận để xếp hạng tích điểm. Người chơi xếp Top 10 sẽ nhận quà hậu hĩnh, Top 3 sẽ có thêm đạo cụ Trân Các.<br>Sự kiện Từ Gia Trang<br><font color="#993300">Chống lại tà ác</font>:<br><s><s>Khi Tiêu Cục Lạc Dương đang vận chuyển vật quan trọng của triều đình, gặp phải bọn cướp lục lâm, đệ tử Từ Gia Trang đến chi viện, ngăn chúng cướp đoạt tài nguyên. Người chơi cần hợp lực đánh bại thủ lĩnh bọn cướp, giúp Tiêu Cục tránh nạn. Nếu tiêu xa của Tiêu Cục bị cướp, sự kiện thất bại, người chơi chỉ được nhận ít quà. Thứ 4, thứ 7 hàng tuần mở sự kiện, đệ tử Từ Gia đều có thể báo danh tham gia, mỗi lần tối đa 48 người tham gia, 1 tuần chỉ được tham gia 1 lần. Thưởng sự kiện hậu hĩnh, thủ lĩnh sẽ rớt Bình Thư đặc biệt của Từ Gia Trang và trang bị thế lực phẩm chất Vàng, Bạc, Đồng.<br><font color="#5E4939">5. Xuất sư phản sư</font><br><font color="#993300">Xuất sư  thế lực</font>:<br>Sau khi người chơi nhận danh phận bậc 2, có thể ở chỗ NPC “Người lưu xuất thế lực” của thế lực đó tiếp nhận nhiệm vụ xuất sư.<br>Ảnh hưởng:<br>1. Xuất sư xong có thể gia nhập thế lực mới khác, bát đại môn phái truyền thống hoặc để bản thân trở thành tản nhân giang hồ “Vô môn phái”.<br>2. Giữ lại bộ võ học và nội công, Danh Vọng cũng giữ lại.<br>3. Xuất sư xong trong 24 ngày không thể vào lại thế lực xuất sư.<br>4. Giới hạn nội công và số tầng hiện tại thế lực này đều giảm 5 tầng, tạp học “Câu Hỏa” giữ lại 1 tầng.<br><font color="#993300">Phản sư thế lực</font>:<br>Người chơi có thể tiến hành phản sư ở NPC “Người lưu xuất thế lực” mọi lúc.<br>Ảnh hưởng:<br>1. Có thể phản sư mọi lúc.<br>2. Phản sư xong có thể gia nhập thế lực mới khác, bát đại môn phái truyền thống hoặc để bản thân thành tản nhân giang hồ “Vô môn phái”.<br>3. Phản sư xong trong 24 ngày không thể vào lại thế lực phản sư.<br>4. Nhập môn và danh phận bậc 1 phản sư xong thì nội công và chiêu thức sẽ xóa hết, Danh Vọng cũng về 0.<br>
+desc_yihuag04=<font color="#453627">[Miêu tả Di Hoa Cung]</font><br><img src="gui\special\forceschool\shilituyuan\yihua.png"  only="true" halign="center" valign="bottom" /><br><font color="#5E4939">1. Giới thiệu</font><br><s><s>Di Hoa Cung ở trong Tú Ngọc Cốc khí hậu dễ chịu, là nơi tịnh tu tuyệt vời của người học võ. Đệ tử trong cốc đều lạnh lùng cao ngạo, hành tẩu giang hồ thường mang 1 bộ Tố Sa Cung Trang, họ thường có những thủ đoạn trừng phạt tàn khốc với những kẻ ức hiếp những người phụ nữ yếu đuối, khiến võ lâm trung nhân nghe danh đã khiếp sợ.<br><br><font color="#5E4939">2. Quy tắc nhập môn</font><br><font color="#993300">Nhập môn chính</font><br>Cần hoàn thành CAC nội 4, mỗi ngày Di Hoa Cung chỉ nhận 50 đệ tử<br>Người chơi phải thỏa mãn điều kiện sau: <br>1. Người chơi là nhân vật nữ độc thân<br>2. Người chơi chưa từng ly hôn<br>3. Số lần diệt người chơi không quá 300 (Qua duyệt nhiệm vụ lẩn trốn)<br>4. Người chơi không ở trạng thái người môi giới<br>5. Người chơi không bị truy nã.<br>6. Người chơi không phải Bổ Khoái<br>7. Người chơi không say rượu<br>8. Người chơi không có Y Sam Bất Lộ.<br>9. Người chơi phản sư môn phái này xong sau 24 giờ không thể vào lại<br>10. Người chơi là đệ tử không môn phái hoặc phản sư, dịch dung, hạ sơn lịch luyện… <br>11.  Ký hiệu người chơi phải là: Cuồng<br>12. Thực lực người chơi đạt Ngạo Thị Quần Hùng<br>13. Người chơi chưa từng học qua Đoạn Tình Đao<br>14. Chưa học qua Quỳ Hoa Bảo Điển<br>Sau khi đạt điều kiện, người chơi có thể đến bến cảng Di Hoa Cung tìm NPC “Thẩm Định Nhập Môn Di Hoa Cung” xong nhận nhiệm vụ nhập môn.<br><font color="#993300">Kỳ Ngộ Nhập Môn</font><br>Người chơi đạt điều kiện nhất định xong, có thể phát ra kỳ ngộ, nhận được đạo cụ kỳ ngộ nhập môn Di Hoa Cung, rồi đến Di Hoa Cung nhận nhiệm vụ nhập môn.<br><font color="#5E4939">3. Tính năng thông dụng</font><br><s><s>Người chơi  thông qua danh phận “Vô môn phái” vào Di Hoa Cung, có thể tham gia thích thám, đoạt thư.<br><font color="#5E4939">4. Đặc sắc thế lực </font><br>Kỹ năng độc đáo<br><font color="#993300">Phất Trần Thanh Đạm</font>:<br> Yên tĩnh, không màng danh lợi, trong lòng thanh tịnh không nghĩ ngợi gì khác, chân khí lưu chuyển ào ạt, không ngừng hủy trạng thái tiêu cực bản thân, gây chấn thương cho địch<br><font color="#993300">Tạp học khảo vấn</font>:<br>1. Mỗi ngày có thể ở NPC chỉ định tiến hành đố vui (10 câu)<br>2.Kho câu hỏi gồm 100 câu, nội dung liên quan: Chăm sóc hoa cỏ, nuôi ong lấy mật, nấu nướng thêu thùa, võ học Hoa Cung, sự việc môn nhân<br>SK Di Hoa Cung<br><font color="#993300">Giải vây Hoa Cung</font>:<br><s>Thập Nhị Liên Hoàn Ổ yêu quý nữ tử Di Hoa Cung, cầu thân bất thành lại bị đánh bại, mưu tính phục thù<br>1. Thập Nhị Liên Hoàn Ổ đánh cắp bức họa Di Hoa Cung Cung Chủ vẽ và thả lũ chuột vào cung, mau diệt lũ chuột, thiêu hủy tượng vẽ<br>2. Thập Nhi Liên Hoàn Môn Nhân vây đánh Di Hoa Cung, sự việc gấp rút, đến diệt tên ác đồ này<br><font color="#993300">Hoa Cung thí luyện</font>:<br><s><s>Sau khi vào sân thí luyện sinh mệnh không ngừng giảm, cần tìm NPC trị liệu bổ sung Sinh Mệnh, nhưng có thể bị NPC khảo nghiệm môn phái chú ý và vây đánh, điểm Sinh Mệnh bằng 0 sẽ rời sân thí luyện. NPC khảo nghiệm khác nhau cần cách khác nhau giải quyết giúp đồng môn đối phó NPC khảo nghiệm. Cứ cách một thời gian hệ thống sẽ thống kê số người còn sống, số người càng nhiều thưởng mỗi người nhận được càng nhiều, số lần giúp đồng môn đánh bại NPC khảo nghiệm càng nhiều, cũng sẽ nhận được thưởng càng nhiều<br><font color="#5E4939">5. Xuất sư phản sư </font><br><font color="#993300">Xuất sư thế lực</font>:<br>Danh vọng thế lực người chơi đạt 118080, Di Hoa Cung Minh Ngọc Thần Công đạt tầng 49, người chơi có thể ở NPC thế lực này “Thế Lực Lưu Xuất Nhân” nhận nhiệm vụ xuất sư.<br>Ảnh hưởng: <br>1.Sau khi xuất sư có thể vào thế lực mới khác, bát đại môn phái truyền thống, hoặc giúp bản thân trở thành giang hồ tán nhân “Vô môn phái”.<br>2. Bộ võ học và lưu nội công.<br>3. Sau khi xuất sư trong 24 ngày không thể vào lại thế lực xuất sư.<br>4. Giới hạn nội công thế lực này và số tầng hiện tại giảm 5 tầng, tạp học xóa tất cả.<br><font color="#993300">Phản sư thế lực</font>:<br>Người chơi có thể theo NPC thế lực này “Thế Lực Lưu Xuất Nhân” tiến hành phản sư.<br>Ảnh hưởng: <br>1. Không có yêu cầu gì, tùy lúc có thể phản lại sư môn.<br>2. Sau khi phản sư có thể vào thế lực mới khác, bát đại môn phái truyền thống, hoặc giúp bản thân trở thành giang hồ tán nhân “không môn phái”.<br>3. Sau khi phản sư trong 24 ngày không thể vào lại thế lực phản sư.<br>4. Sau khi phản sư tạp học sẽ bị xóa bỏ, không thể hồi phục. Nếu vào lại môn phái này, cần học lại.<br>5. Sau khi nhập môn và phản sư danh phận bậc 1 nội công và chiêu thức sẽ xóa sạch.<br>6. Sau khi phản sư danh phận bậc 2 xóa hết nội công, giới hạn chiêu thức và số tầng hiện tại giảm xuống tầng 1, danh vọng giảm xuống danh vong ban đầu danh phận bậc 2.<br>7. Sau khi phản sư danh phận bậc 3 và danh phận bậc 4 giới hạn nội công và số tầng hiện tại sẽ giảm 10 tầng, chiêu thức cao nhất lưu đến tầng 5 (Chưa đủ tầng 5 sẽ lưu số tầng hiện tại), lưu danh vọng hiện tại.
+desc_snssqjh=<s><s><s><s><s><s><s><s><s><font color="#453627">[Lập quan hệ Nhân Tế]</font><br><br><font color="#453627">[Hảo hữu]</font><br><s><s>Có thể tự do yêu cầu trong game, yêu cầu xong danh sách hảo hữu hai bên đồng bộ thêm, hủy tự do, cũng đồng bộ hủy danh sách hảo hữu hai bên. Hảo hữu có thể hưởng tính năng cùng hưởng tin tức<br><font color="#993300">Chuyện mới giang hồ</font>, một số hảo hữu có giá trị sẽ được hệ thống ghi chép vào giao diện chuyện mới giang hồ lưu một thời gian, để hảo hữu xem, bình luận.<br><s><s>Giữa hảo hữu tồn tại công cụ tính thiện cảm của <font color="#993300">độ thân mật</font>, một số hành vi như tặng quà, tổ đội, cùng tiến hành thế lực khiêu chiến cấm địa… có thể tăng độ thân mật giữa hảo hữu, còn PK tiêu diệt sẽ giảm độ thân mật.<br><br><font color="#453627">[Chí hữu]</font><br><s><s>Chí hữu là quan hệ tăng cấp của hảo hữu, chỉ có thể thông qua quan hệ hảo hữu tăng cấp thành chí hữu, khi thêm cần gửi yêu cầu với đối phương, sau khi thông qua ở danh sách chí hữu hai bên đồng bộ thêm. Giữa chí hữu có thể truyền phát tin mới, biểu hiện ở cửa sổ phải giao diện chính game.<br><br><font color="#453627">[Thù]</font><br><s><s>Khi người chơi bị PK đến tử vong sẽ xuất hiện nhắc nhở thêm kẻ thù, thêm xong người được thêm đơn phương thêm vào danh sách kẻ thù. Cách xóa cần thông qua một loại đạo cụ tên <font color="#993300">Hòa Khí Tửu</font> giải trừ quan hệ kẻ thù. Người chơi có thể nhận một số thông tin động thái kẻ thù, đồng thời khi kẻ thù xuất hiện ở cùng map người chơi minimap sẽ đánh dấu ký hiệu đặc biệt, có thể dễ dàng chú ý.<br><s><s>Công cụ tính quan hệ giữa kẻ thù là <font color="#993300">độ thù hận</font>, độ thù hận của kẻ thù sẽ giảm dần theo thời gian, khi độ thù hận bằng 0 sẽ tự động hủy quan hệ kẻ thù, PK…hành vi không hữu nghị sẽ tăng độ thù hận.<br><br><font color="#453627">[Huyết thù]</font><br><s><s>Huyết thù là tăng cấp quan hệ kẻ thù, chỉ thông qua quan hệ kẻ thù tăng cấp thành huyết thù, và cùng thêm đơn phương, không thể trực tiếp hủy, cần tốn 1 đạo cụ <font color="#993300">Giải Hận Tửu</font> giảm thành kẻ thù. Giữa huyết thù không thể tổ đội game.<br><s><s>Công cụ tính quan hệ giữa huyết thù cũng là độ thù hận, độ thù hận huyết thù và kẻ thù kế thừa lẫn nhau, cần chú ý, độ thù hận của huyết thù sẽ không giảm theo thời gian, chỉ có thông qua đạo cụ mới giảm được.<br><br><font color="#453627">[DS đen]</font><br><s><s>Có thể chọn người chơi trong game tự do thêm vào ds đen, người chơi bị thêm vào danh sách đen hai bên không thể xuất hiện giao diện trò chuyện.<br><br><font color="#453627">[Theo dõi]</font><br><s><s>Có thể chọn người chơi trong game tự động thêm, người chơi bị theo dõi đơn phương bị thêm vào danh sách theo dõi.<br><br><font color="#453627">[Kết bạn]</font><br><s><s>Khi đại hiệp và người lạ trong game có hành vi tương tác như tổ đội, PK, giao dịch môi giới…hệ thống sẽ tự động thêm đối tượng tương tác vào danh sách kết bạn, tiện cho việc sau này đại hiệp quay lại tìm đối tượng tương tác. Kết bạn có thể hủy tùy lúc. Chuyển trỏ chuột đến avatar người chơi trong danh sách kết bạn có thể xem người chơi kết bạn được thêm vào <font color="#993300">sự kiện kết bạn</font> của danh sách kết bạn.<br><br><s><s><s><s><s><s><s><s><s><font color="#453627">[Tương tác đặc biệt]</font><br><br><font color="#453627">[Tặng quà]</font><br><s><s>Nhấp icon hộp quà góc trên bên trái giao diện tương tác mở giao diện tặng quà, có thể tự do nhập tên đối tượng tặng hoặc chọn ở danh sách quan hệ đã có. Có thể chọn nhiều lần tên và quà người chơi trong danh sách quan hệ, chọn nhiều lần người chơi xong tặng quà đã chọn cho người chơi đã chọn, lúc tăng quà đồng thời có thể nhập lời nhắn. Ở quà tặng nhấp tab <font color="#993300">nhận quà</font> có thể xem và nhận quà nhận được, có thể xem thời gian tặng quà người chơi và lời nhắn, giới hạn quà nhận được là 100 phần.<br><br><font color="#453627">[Cùng chúc phúc]</font><br><s><s>Nhấp icon chúc phúc phía trên bên trái giao diện tương tác, có thể tự do nhập tên đối tượng cầu phúc hoặc chọn trong danh sách quan hệ đã có. Có thể chọn nhiều lần tên người chơi và chúc phúc ở danh sách, chọn nhiều người chơi xong lần lượt tặng chúc phúc cho người chơi đã chọn, chúc phúc đồng thời có thể cùng lúc nhập lời chúc phúc. Tăng chúc phúc xong bản thân và đối tượng chúc phúc sẽ nhận được hiệu quả chúc phúc, trong giao diện chúc phúc nhấp tab <font color="#993300">Chúc phúc nhận được</font> có thể xem chúc phúc nhận được và mở chúc phúc, giới hạn chúc phúc nhận được là 100 dòng. Chúc phúc mỗi ngày có thể mở và số lượng chúc phúc mỗi lần có thể đồng thời mở hạn chế, đại hiệp hãy chọn cẩn thận khi mở.
+desc_friedship04=<s><s>Nếu người chơi muốn thành phu thê, cần độ thân mật hai bên đạt 2000 điểm.<br><s><s>Độ thân mật có thể nhận theo cách sau: <br><s><s>"Giang hồ"--"Tặng quà"--"Vật kỷ niệm", Dương Chi Bạch Ngọc + 200 điểm<font color="#993300">(Tiến cử)</font>, <br><s><s>Dã Sồ Cúc +10 điểm, Điếu Trụy May mắn +5 điểm, thêm riêng bên tặng <br><s><s>Nhiệm vụ đội: Hai bên +1<br><s><s>Cấm Địa đội: Hai bên +10<br><s><s>Thích Quán đội: Hai bên+3<br><s><s>Vận tiêu đội: Hai bên+3<br><s><s>Giải cứu bắt cóc: Bên chủ động +5<br><s><s>Hưởng ứng cứu viện: Bên chủ động +5<br><s><s>Trọng thương cứu trị: Hai bên+1<br><s><s> Thưởng offline: Bên chủ động +1
+ui_bangfeixiashi04=Hiệp Sĩ Môi Giới
+target_37543=Hoàn thành 10 lần giao dịch môi giới.
+target_37560=Hoàn thành 10 lần điều tra và 5 lần giao dịch môi giới.
+target_37570=Khế ước thành công 2 người chơi offline, và hoàn thành giao dịch môi giới.
+accept_18229_1=<font face="Default" color="#ffffff" >  Ngươi rất may mắn, nay chỗ ta có nhiệm vụ muốn ngươi chứng minh thực lực bản thân, đến hoàn thành 1 lần giao dịch môi giới, sau đó về gặp ta.</font>
+context_87208=Không biết từ lúc nào giang hồ lại xuất hiện chuyện giao dịch môi giới, và người bị hại đa số là người trong giang hồ, trong đó có không ít đệ tử Cái Bang, nay tình thế rất nguy cấp, Cái Bang ta không thể khoanh tay đứng nhìn. Nếu không thể áp chế chuyện này, nhất định ngày càng nghiêm trọng hơn. Đệ tử Cái Bang ta trượng kiếm giang hồ, nhất định trả lại yên bình cho giang hồ. Phàm là đệ tử Cái Bang, gặp phải ác nhân giao dịch môi giới hại đồng đạo giang hồ, nhất định trảm diệt không tha, tỏ rõ chính khí Cái Bang.
+target_87208=Đoạt lại 1 hành lý người làm công
+CanAcceptMenu_87014=<font face="Default" color="#ffffff" >Giao dịch môi giới</font>
+target_87014=Hoàn thành môi giới.
+title_87014=Giao dịch môi giới
+target_86812=Đoạt lại hành lý người làm công.
+context_86507=<s>Gần đây kinh phật bản môn khá khẩn trương, các đệ tử ngươi không nên chỉ ăn chay phải góp sức cho bản môn. Nào, tiến hành một vài giao dịch môi giới, kiếm chút thu nhập. Nhưng lần này nhất định thận trọng, chớ để người ngoài biết rõ sự việc mà Đường Môn ta lén làm nhé.
+context_86508=<s>Người giang hồ đều nói đệ tử Đường Môn tâm tính bất thường, ai nấy đều gian xảo... Lần này Đường Môn ta phải để họ nhìn bằng ánh mắt khác, nay ngươi đến giúp 1 vị giang hồ đoạt lại hành lý, tránh việc hắn bị môi giới lừa gạt.
+target_86506=<s>Bàn bạc khế ước môi giới cùng 1 người chơi offline, mang hành lý hắn, về gặp Môn Chủ Đường Thiên Hành.
+target_86507=<s>Lấy hành lý người làm công bán cho người môi giới Thành Đô.
+target_86508=<s>Giúp người giang hồ đoạt lại hành lý bị lừa.
+context_87107=Không biết từ lúc nào trong giang hồ lại xuất hiện chuyện giao dịch môi giới, và người bị hại đa số là người trong giang hồ, trong đó có không ít đệ tử Võ Đang, nay tình thế rất nguy cấp, Võ Đang ta không thể khoanh tay đứng nhìn. Nếu không thể áp chế chuyện này, nhất định ngày càng nghiêm trong hơn. Đệ tử Võ Đang ta trượng kiếm giang hồ, nhất định trả lại yên bình cho giang hồ. Phàm là đệ tử Võ Đang, gặp phải ác nhân giao dịch môi giới hại đồng đạo giang hồ, nhất định trảm diệt không tha, tỏ rõ chính khí Võ Đang ta.
+accept_120_1=<font face="Default" color="#ffffff" >Hừ, chớ làm ầm, thiếu hiệp, dạo này ổn chứ? Muốn phát tài không? Ta chỉ ngươi cách phát tài. Nếu muốn làm theo lời ta nói, ngươi đến Chủ Tiệm Tạp Hóa mua 5 khế ước về, ta sẽ chỉ ngươi làm sao phát tài.</font>
+accept_121_1=<font face="Default" color="#ffffff" >  Mấy người môi giới này ngày càng ngông cuồng, vì tiền tài, xem thường vương pháp, giở trò môi giới, thiếu hiệp mới vào giang hồ, hi vọng ngươi sẽ nêu cao chính nghĩa võ lâm, đừng đi vào tà môn ngoại đạo</font>
+accept_125_1=<font face="Default" color="#ffffff" >Xùy, đừng rêu rao, thiếu hiệp, gần đây kinh tế khó khăn ư? Muốn phát tài không? Ta chỉ cho người 1 con đường phát tài, Nếu ngươi thật sự muốn hãy làm theo lời ta nói, ngươi đến chỗ Chủ Tiệm Tạp Hóa trong trấn mua 5 Khế Ước 1 về đây, ta sẽ dạy ngươi làm thế nào để phát tài.</font>
+accept_126_1=<font face="Default" color="#ffffff" >  Hừm, làm tốt lắm. Tiếp đến ngươi đến thị trấn đó, sẽ có rất nhiều người bận rộn (Trên đầu hiển thị người chơi danh phận offline), ngươi lừa họ đến đây làm công, bảo đảm ngươi sẽ được món tiền lớn. Có điều khế ước này rất dễ hỏng, gặp phải người từng trải 1 lần chưa chắc thành công, phải nói chuyện cùng hắn mấy lần, sau khi hắn tin ngươi, sẽ giao hành lý cho ngươi, giao hành lý cho thương nhân, có thể được một món tiền lớn.</font>
+accept_129_1=<font face="Default" color="#ffffff" >Những người môi giới này càng ngày càng điên cuồng rồi, vì tiền, chả xem vương pháp ra gì, thiếu hiệp mới gia nhập võ lâm, hi vọng ngươi trợ giúp võ lâm chính nghĩa, đừng đi theo tà môn ngoại đạo</font>
+accept_130_1=<font face="Default" color="#ffffff" >Xùy, đừng rêu rao, thiếu hiệp, gần đây kinh tế khó khăn ư? Muốn phát tài không? Ta chỉ cho người 1 con đường phát tài, Nếu ngươi thật sự muốn hãy làm theo lời ta nói, ngươi đến chỗ Chủ Tiệm Tạp Hóa trong trấn mua 5 Khế Ước 1 về đây, ta sẽ dạy ngươi làm thế nào để phát tài.</font>
+accept_131_1=<font face="Default" color="#ffffff" >Làm rất tốt. Tiếp theo ngươi hãy đến thị trấn, sẽ có nhiều người bận rộn (trên đầu hiển thị người chơi offline), ngươi lừa họ đến chỗ ta làm công, đảm bảo ngươi sẽ kiếm ra tiền. Nhưng Khế Ước khá cẩu thả, gặp người giang hồ lai lịch bất minh còn không chắc 1 lần có thể dùng thành công, trò chuyện vài lần với hắn, hắn tin ngươi rồi sẽ đưa hành lý cho ngươi, đem hành lý giao cho Thương Nhân, sẽ kiếm được tiền.</font>
+accept_132_1=<font face="Default" color="#ffffff" >  Trong trấn rất nhiều người bề ngoài là thương nhân chân chính, nhưng sau lưng là thương nhân dỏm, giống như ông chủ tiệm, giám công bến cảng, quản gia đại hộ nhân, thủ lĩnh sơn trại....Mang hành lý người làm công đến tìm mấy người này bàn bạc giá tiền sẽ hoàn thành giao dịch môi giới. Dĩ nhiên giao dịch nên chú ý, không thể lừa từ đâu lại bán về đó, tự ngươi giải quyết đi, sau khi hoàn thành giao dịch môi giới lại đến tìm ta.
+accept_133_1=<font face="Default" color="#ffffff" >Những người môi giới này càng ngày càng điên cuồng rồi, vì tiền, chả xem vương pháp ra gì, thiếu hiệp mới gia nhập võ lâm, hi vọng ngươi trợ giúp võ lâm chính nghĩa, đừng đi theo tà môn ngoại đạo</font>
+accept_137_1=<font face="Default" color="#ffffff" >Làm rất tốt. Tiếp theo ngươi hãy đến thị trấn, sẽ có nhiều người bận rộn (trên đầu hiển thị người chơi offline), ngươi lừa họ đến chỗ ta làm công, đảm bảo ngươi sẽ kiếm ra tiền. Nhưng Khế Ước khá cẩu thả, gặp người giang hồ lai lịch bất minh còn không chắc 1 lần có thể dùng thành công, trò chuyện vài lần với hắn, hắn tin ngươi rồi sẽ đưa hành lý cho ngươi, đem hành lý giao cho Thương Nhân, sẽ kiếm được tiền.</font>
+accept_138_1=<font face="Default" color="#ffffff" >Rất nhiều người trong trấn biểu hiện là thương nhân nhưng thực chất lại là những thương nhân đen tối, ví dụ Chưởng Quầy, Giám Công Bến Thuyền, Quản Gia Phú Hộ, Thủ Lĩnh Sơn Trại...Mang hành lý của người làm công tìm đến những người này thỏa thuận giá thì có thể hoàn thành môi giới. Tất nhiên, giao dịch cũng phải xem, không thể ở đâu cũng lừa đến chỗ đó được, ngươi phải tìm cách, hoàn thành môi giới rồi về tìm ta.
+accept_141_1=<font face="Default" color="#ffffff" >Xùy, đừng rêu rao, thiếu hiệp, gần đây kinh tế khó khăn ư? Muốn phát tài không? Ta chỉ cho người 1 con đường phát tài, Nếu ngươi thật sự muốn hãy làm theo lời ta nói, ngươi đến chỗ Chủ Tiệm Tạp Hóa trong trấn mua 5 Khế Ước 1 về đây, ta sẽ dạy ngươi làm thế nào để phát tài.</font>
+accept_142_1=<font face="Default" color="#ffffff" > Hừm, làm tốt lắm. Tiếp đến ngươi đến thị trấn đó, sẽ có rất nhiều người bận (Trên đầu hiển thị người chơi danh phận offline), ngươi lừa họ đến làm đây làm công, bảo đảm ngươi kiếm được món lời. Có điều khế ước này rất dễ hỏng, gặp phải người từng trải 1 lần chưa chắc thành công, phải nói chuyện cùng hắn mấy lần, sau khi hắn tin ngươi, sẽ giao hành lý cho ngươi, giao hành lý cho thương nhân, có thể được một món tiền lớn.</font>
+accept_143_1=<font face="Default" color="#ffffff" >Rất nhiều người trong trấn biểu hiện là thương nhân nhưng thực chất lại là những thương nhân đen tối, ví dụ Chưởng Quầy, Giám Công Bến Thuyền, Quản Gia Phú Hộ, Thủ Lĩnh Sơn Trại...Mang hành lý của người làm công tìm đến những người này thỏa thuận giá thì có thể hoàn thành môi giới. Tất nhiên, giao dịch cũng phải xem, không thể ở đâu cũng lừa đến chỗ đó được, ngươi phải tìm cách, hoàn thành môi giới rồi về tìm ta.
+accept_144_1=<font face="Default" color="#ffffff" >Những người môi giới này càng ngày càng điên cuồng rồi, vì tiền, chả xem vương pháp ra gì, thiếu hiệp mới gia nhập võ lâm, hi vọng ngươi trợ giúp võ lâm chính nghĩa, đừng đi theo tà môn ngoại đạo</font>
+complete_120=<font face="Default" color="#ffffff" >  Tốt lắm, đây là khế ước cần giao dịch môi giới, giao dịch môi giới là nghề kiếm tiền hậu hĩnh, bước đầu là mua khế ước cần, nhưng lúc dùng không phải lần nào cũng thành công, vì vậy ta bảo ngươi mua 5 phần.</font>
+complete_125=<font face="Default" color="#ffffff" >Rất tốt, đây là Khế Ước cần thiết cho môi giới, môi giới là nghề kiếm rất nhiều tiền, bước đầu là phải mua Khế Ước, nhưng dùng Khế Ước không phải lúc nào cũng thành công, cho nên ta bảo ngươi mua 5 tờ.</font>
+complete_130=<font face="Default" color="#ffffff" >Rất tốt, đây là Khế Ước cần thiết cho môi giới, môi giới là nghề kiếm rất nhiều tiền, bước đầu là phải mua Khế Ước, nhưng dùng Khế Ước không phải lúc nào cũng thành công, cho nên ta bảo ngươi mua 5 tờ.</font>
+complete_141=<font face="Default" color="#ffffff" >Rất tốt, đây là Khế Ước cần thiết cho môi giới, môi giới là nghề kiếm rất nhiều tiền, bước đầu là phải mua Khế Ước, nhưng dùng Khế Ước không phải lúc nào cũng thành công, cho nên ta bảo ngươi mua 5 tờ.</font>
+context_120=Hừ, chớ làm ầm, thiếu hiệp, dạo này ổn chứ? Muốn phát tài không? Ta chỉ ngươi cách phát tài. Nếu muốn làm theo lời ta nói, ngươi đến Chủ Tiệm Tạp Hóa mua 5 khế ước về, ta sẽ chỉ ngươi làm sao phát tài.
+context_125=Xùy, đừng rêu rao, thiếu hiệp, gần đây kinh tế khó khăn ư? Muốn phát tài không? Ta chỉ cho người 1 con đường phát tài, Nếu ngươi thật sự muốn hãy làm theo lời ta nói, ngươi đến chỗ Chủ Tiệm Tạp Hóa trong trấn mua 5 Khế Ước 1 về đây, ta sẽ dạy ngươi làm thế nào để phát tài.
+context_126=Hừm, làm tốt lắm. Tiếp đến ngươi đến thị trấn đó, sẽ có rất nhiều người bận rộn (Trên đầu hiển thị người chơi danh phận offline), ngươi lừa họ đến làm đây làm công, bảo đảm ngươi kiếm được món lời. Có điều khế ước này rất dễ hỏng, gặp phải người từng trải 1 lần chưa chắc thành công, phải nói chuyện cùng hắn mấy lần, sau khi hắn tin ngươi, sẽ giao hành lý cho ngươi, giao hành lý cho thương nhân, có thể được một món tiền lớn.
+context_127=Ngươi đã lĩnh hội được Tọa Vong Công, tiếp theo phải học chiêu thức ngoại công. Nhưng vì sao ngươi học võ? Nếu là để hành ác, ta tuyệt đối không truyền thụ cho ngươi.
+context_129=Mấy người môi giới này ngày càng ngông cuồng, vì tiền tài, xem thường vương pháp, giở trò môi giới, thiếu hiệp mới vào giang hồ, hi vọng ngươi sẽ dương cao chính nghĩa võ lâm, đừng đi vào tà môn ngoại đạo.
+context_130=Xùy, đừng rêu rao, thiếu hiệp, gần đây kinh tế khó khăn ư? Muốn phát tài không? Ta chỉ cho người 1 con đường phát tài, Nếu ngươi thật sự muốn hãy làm theo lời ta nói, ngươi đến chỗ Chủ Tiệm Tạp Hóa trong trấn mua 5 Khế Ước 1 về đây, ta sẽ dạy ngươi làm thế nào để phát tài.
+context_131=Làm rất tốt. Tiếp theo ngươi hãy đến thị trấn, sẽ có nhiều người bận rộn (trên đầu hiển thị người chơi offline), ngươi lừa họ đến chỗ ta làm công, đảm bảo ngươi sẽ kiếm ra tiền. Nhưng Khế Ước khá cẩu thả, gặp người giang hồ lai lịch bất minh còn không chắc 1 lần có thể dùng thành công, trò chuyện vài lần với hắn, hắn tin ngươi rồi sẽ đưa hành lý cho ngươi, đem hành lý giao cho Thương Nhân, sẽ kiếm được tiền
+context_132=Trong trấn rất nhiều người bề ngoài là thương nhân chân chính, nhưng sau lưng là thương nhân dỏm, giống như ông chủ tiệm, giám công bến cảng, quản gia đại hộ nhân, thủ lĩnh sơn trại....Mang hành lý người làm công đến tìm mấy người này bàn bạc giá tiền sẽ hoàn thành giao dịch môi giới. Dĩ nhiên giao dịch cũng nên chú ý, không thể bị lừa từ đâu thì bán lại về đó, tự ngươi giải quyết đi, sau khi hoàn thành giao dịch môi giới lại đến tìm ta..
+context_136=Ngươi cũng đã đến Đường Môn rồi, hành tẩu giang hồ phải cần chút lộ phí, vi sư giới thiệu ngươi đến tiêu cục, ở đó long ngư hỗn tạp, loại người nào cũng có, nhưng cũng là con đường phát tài. Ngươi có thể đến Tô Châu tiêu cục tìm Hà Lâm Nhạn xem sao.
+context_137=Làm rất tốt. Tiếp theo ngươi hãy đến thị trấn, sẽ có nhiều người bận rộn (trên đầu hiển thị người chơi offline), ngươi lừa họ đến chỗ ta làm công, đảm bảo ngươi sẽ kiếm ra tiền. Nhưng Khế Ước khá cẩu thả, gặp người giang hồ lai lịch bất minh còn không chắc 1 lần có thể dùng thành công, trò chuyện vài lần với hắn, hắn tin ngươi rồi sẽ đưa hành lý cho ngươi, đem hành lý giao cho Thương Nhân, sẽ kiếm được tiền
+context_138=Rất nhiều người trong trấn biểu hiện là thương nhân nhưng thực chất lại là những thương nhân đen tối, ví dụ Chưởng Quầy, Giám Công Bến Thuyền, Quản Gia Phú Hộ, Thủ Lĩnh Sơn Trại...Mang hành lý của người làm công tìm đến những người này thỏa thuận giá thì có thể hoàn thành môi giới. Tất nhiên, giao dịch cũng phải xem, không thể ở đâu cũng lừa đến chỗ đó được, ngươi phải tìm cách, hoàn thành môi giới rồi về tìm ta.
+context_141=Xùy, đừng rêu rao, thiếu hiệp, gần đây kinh tế khó khăn ư? Muốn phát tài không? Ta chỉ cho người 1 con đường phát tài, Nếu ngươi thật sự muốn hãy làm theo lời ta nói, ngươi đến chỗ Chủ Tiệm Tạp Hóa trong trấn mua 5 Khế Ước 1 về đây, ta sẽ dạy ngươi làm thế nào để phát tài.
+context_142=Làm rất tốt. Tiếp theo ngươi hãy đến thị trấn, sẽ có nhiều người bận rộn (trên đầu hiển thị người chơi offline), ngươi lừa họ đến chỗ ta làm công, đảm bảo ngươi sẽ kiếm ra tiền. Nhưng Khế Ước khá cẩu thả, gặp người giang hồ lai lịch bất minh còn không chắc 1 lần có thể dùng thành công, trò chuyện vài lần với hắn, hắn tin ngươi rồi sẽ đưa hành lý cho ngươi, đem hành lý giao cho Thương Nhân, sẽ kiếm được tiền
+context_143=Rất nhiều người trong trấn biểu hiện là thương nhân nhưng thực chất lại là những thương nhân đen tối, ví dụ Chưởng Quầy, Giám Công Bến Thuyền, Quản Gia Phú Hộ, Thủ Lĩnh Sơn Trại...Mang hành lý của người làm công tìm đến những người này thỏa thuận giá thì có thể hoàn thành môi giới. Tất nhiên, giao dịch cũng phải xem, không thể ở đâu cũng lừa đến chỗ đó được, ngươi phải tìm cách, hoàn thành môi giới rồi về tìm ta.
+context_144=Những người môi giới này càng ngày càng điên cuồng rồi, vì tiền, chả xem vương pháp ra gì, thiếu hiệp mới gia nhập võ lâm, hi vọng ngươi trợ giúp võ lâm chính nghĩa, đừng đi theo tà môn ngoại đạo.
+submit_120=<font face="Default" color="#ffffff" >Khế ước ta lấy được cả rồi.</font>
+submit_125=<font face="Default" color="#ffffff" >Khế Ước ta đều cầm đến rồi.</font>
+submit_130=<font face="Default" color="#ffffff" >Khế Ước ta đều cầm đến rồi.</font>
+target_120=Đến <a href="findnpc_new,born04,FuncNpc00007" style="HLStype1">Chủ Tiệm Tạp Hóa</a> mua 5 phần khế ước 1
+target_125=Đến <a href="findnpc_new,born03,FuncNpc00055" style="HLStype1">Chủ Tiệm Tạp Hóa</a> mua 5 phần khế ước 1
+target_126=Dùng khế ước 1 khế ước với 1 người, hoàn thành giao dịch môi giới
+target_129=Diệt người chơi trở thành người môi giới giúp người chơi offline đoạt lại hành lý xong đến phục mệnh
+target_130=Tìm <a href="findnpc_new,city05,FuncNpc00606" style="HLStype1">Chủ Tiệm Tạp Hóa</a> mua 5 phần khế ước 1
+target_131=Dùng khế ước hoàn thành 1 lần giao dịch môi giới
+target_132=Đến xử lý hành lý lừa gạt được
+target_133=Tiêu diệt người chơi môi giới giúp người chơi offline lấy lại hành lý rồi về phục mệnh
+target_137=Dùng Khế Ước hoàn thành 1 lần môi giới
+target_138=Đến xử lý hành lý lừa gạt được
+target_141=Tìm <a href="findnpc_new,born01,FuncNpc404" style="HLStype1">Chủ Tiệm Tạp Hóa</a> mua 5 khế ước
+target_142=Dùng Khế Ước hoàn thành 1 lần môi giới
+target_143=Xử lý hành lý lừa gạt được
+target_144=Tiêu diệt người chơi môi giới giúp người chơi offline lấy lại hành lý rồi về phục mệnh
+title_120=Môi Giới
+title_125=Môi Giới
+title_126=Môi Giới
+title_130=Môi Giới
+title_131=Môi Giới
+title_132=Môi Giới
+title_137=Môi Giới
+title_138=Môi Giới
+title_141=Môi Giới
+title_142=Môi Giới
+title_143=Môi Giới
+context_1476=Trong quá trình tìm thiếu nữ mất tích tìm hiểu được tổ chức giao dịch môi giới gần Yến Kinh Thành.
+context_1477=Trong quá trình tìm thiếu nữ mất tích tìm hiểu được tổ chức giao dịch môi giới gần Tô Châu Thành.
+context_1478=Trong quá trình tìm thiếu nữ mất tích tìm hiểu được tổ chức giao dịch môi giới gần Lạc Dương Thành.
+context_1479=Trong quá trình tìm thiếu nữ mất tích tìm hiểu được tổ chức giao dịch môi giới gần Thành Đô Thành.
+context_1480=Tìm Bổ Khoái cài người vào tổ chức môi giới, biết được tình hình tổ chức môi giới từ người này.
+context_1481=Tìm được bổ khoái được cài vào bên trong tổ chức môi giới, từ y biết được một số tình hình của tổ chức này.
+context_1482=Tìm được bổ khoái được cài vào bên trong tổ chức môi giới, từ y biết được một số tình hình của tổ chức này.
+context_1483=Tìm được bổ khoái được cài vào bên trong tổ chức môi giới, từ y biết được một số tình hình của tổ chức này.
+context_1484=Tiến hành 1 lần giao dịch môi giới nhận được tín nhiệm tổ chức môi giới, và có thể nhận được chứng cứ phạm tội tổ chức môi giới. (Nếu ở thời gian quy định chưa hoàn thành nhiệm vụ, có thể bỏ nhiệm vụ, ở chỗ <a href="findnpc_new,city01,hbyd001" style="HLStype1">Hứa Khả</a> nhận lại nhiệm vụ)
+context_1485=Tiến hành 1 lần giao dịch môi giới nhận được tín nhiệm tổ chức môi giới, và có thể nhận được chứng cứ phạm tội tổ chức môi giới. (Nếu ở thời gian quy định chưa hoàn thành nhiệm vụ, có thể bỏ nhiệm vụ, ở chỗ <a href="findnpc_new,city02,hbyd002" style="HLStype1">Lý Long</a> nhận lại nhiệm vụ)
+context_1486=Tiến hành 1 lần giao dịch môi giới nhận được tín nhiệm tổ chức môi giới, và có thể nhận được chứng cứ phạm tội tổ chức môi giới. (Nếu ở thời gian quy định chưa hoàn thành nhiệm vụ, có thể bỏ nhiệm vụ, ở chỗ <a href="findnpc_new,city04,hbyd004" style="HLStype1">Mã Kỳ Tùng</a> nhận lại nhiệm vụ)
+context_1487=Tiến hành 1 lần giao dịch môi giới nhận được tín nhiệm tổ chức môi giới, và có thể nhận được chứng cứ phạm tội tổ chức môi giới.. (Nếu ở thời gian quy định chưa hoàn thành nhiệm vụ, có thể bỏ nhiệm vụ, ở chỗ <a href="findnpc_new,city05,hbyd005" style="HLStype1">Đơn Duyệt</a> nhận lại nhiệm vụ)
+context_1488=Giao chứng cứ phạm tội tổ chức môi giới cho Bổ Khoái, kết thúc nhiệm vụ lẻn vào tổ chức môi giới, gửi thông báo, tìm lại chân tướng.
+context_1489=Giao chứng cứ phạm tội của tổ chức môi giới cho bổ khoái, kết thúc nhiệm vụ lén vào tổ chức môi giới, gửi thông báo, trở về thân phận thật.
+context_1490=Giao chứng cứ phạm tội của tổ chức môi giới cho bổ khoái, kết thúc nhiệm vụ lén vào tổ chức môi giới, gửi thông báo, trở về thân phận thật.
+context_1491=Giao chứng cứ phạm tội của tổ chức môi giới cho bổ khoái, kết thúc nhiệm vụ lén vào tổ chức môi giới, gửi thông báo, trở về thân phận thật.
+title_1480=Truy tìm tổ chức môi giới
+title_1481=Truy xét tổ chức môi giới
+title_1482=Truy xét tổ chức môi giới
+title_1483=Truy xét tổ chức môi giới
+specialinfo_1011=Lâu Vân Lệnh: Hoàn thành 5 lần giao dịch môi giới. (Ở chỗ <font face="Default" color="#993300" >Bách Hiểu Ngữ Lục-Giang Hồ Tình Báo-Giang Hồ Tranh Đấu-Giang Hồ Thiên-Bàng Phỉ Hiệp Sĩ</font> xem cách chơi)
+specialinfo_1018=Lâu Vân Lệnh: Hoàn thành 2 lần giao dịch môi giới. (Ở chỗ <font face="Default" color="#993300" >Bách Hiểu Ngữ Lục-Giang Hồ Tình Báo-Giang Hồ Tranh Đấu-Giang Hồ Thiên-Bàng Phỉ Hiệp Sĩ</font> xem cách chơi)
+specialinfo_7455=Hắn rất thích giao dịch môi giới, mong người chơi dùng khế ước đã tặng lừa được người chơi offline, sau khi nhận được hành lý hắn giao cho thương nhân các nơi.
+specialinfo_7456=Rất thích giao dịch môi giới, hy vọng người chơi dùng khế ước thành công đánh lừa người chơi offline, sau khi đạt được hành lý giao cho thương nhân các nơi
+specialinfo_780=Rất thích giao dịch môi giới, hy vọng người chơi dùng khế ước thành công đánh lừa người chơi offline, sau khi đạt được hành lý giao cho thương nhân các nơi
+specialinfo_818=Hoàn thành thành công giao dịch môi giới
+specialinfo_741=Đến cướp 2 hành lý người làm công
+specialinfo_526=Hoàn thành 1 lần giao dịch môi giới
+specialinfo_527=Đoạt lại 1 hành lý người làm công
+specialinfo_550=Hoàn thành 1 lần giao dịch môi giới
+specialinfo_557=Cứu đoạt lại 1 hành lý người làm công
+specialinfo_253=Đoạt lại hành lý người làm công từ tay người môi giới, vốn là hành động chính nghĩa của ta
+specialinfo_144=Đoạt lại được 1 hành lý người làm công
+specialinfo_276=Đến mua khế ước và bàn bạc cùng người làm công, sau đó hoàn thành giao dịch môi giới
+specialinfo_195=Thừa cơ cướp thành công hành lý người làm công
+specialinfo_232=Để giúp Đường Tứ Công thử độc, ngươi mau đến lừa 1 người đi đường nhé.
+specialinfo_233=Giao người lừa được cho người môi giới Thành Đô, đừng để người ngoài biết được Đường Môn ta lén giở trò.
+specialinfo_234=Người giang hồ nói đệ tử Đường Môn ta đều là gian tà, hôm nay Đường Môn ta phải cho bọn họ nhìn chúng ta bằng cặp mắt khác, ngươi đi giúp 1 người giang hồ đoạt hành lý về
+specialinfo_130=Đoạt về hành lý của 1 người làm công
+DialogID_15=<font face="Default" color="#ffffff" >  Trên lưng những người môi giới vác Bao Gai chứa hành lý, trên đỉnh đầu có chữ "Hội", dù ở chỗ nào nhìn thấy người chơi mai mối, ai cũng có thể công kích. Chỉ có tiêu diệt được người chơi mai mối, mới có thể ngăn chặn hành vi tội ác của họ.</font>
+DialogID_16=<font face="Default" color="#ffffff" >  Trên lưng những người môi giới vác Bao Gai chứa hành lý, trên đỉnh đầu có chữ "Hội", dù ở chỗ nào nhìn thấy người chơi mai mối, ai cũng có thể công kích. Chỉ có tiêu diệt được người chơi mai mối, mứoi có thể ngăn chặn hành vi tội ác của họ.</font>
+DialogID_21=<font face="Default" color="#ffffff" >  Trên lưng những người môi giới vác Bao Gai chứa hành lý, trên đỉnh đầu có chữ "Hội", dù ở chỗ nào nhìn thấy người chơi mai mối, ai cũng có thể công kích. Chỉ có tiêu diệt được người chơi mai mối, mứoi có thể ngăn chặn hành vi tội ác của họ.</font>
+DialogID_42=<font face="Default" color="#ffffff" >  Trên lưng những người môi giới vác Bao Gai chứa hành lý, trên đỉnh đầu có chữ "Hội", dù ở chỗ nào nhìn thấy người chơi mai mối, ai cũng có thể công kích. Chỉ có tiêu diệt được người chơi mai mối, mứoi có thể ngăn chặn hành vi tội ác của họ.</font>
+collectinfo_20=Tìm <a href="findnpc_new,born04,FuncNpc00007" style="HLStype1">Chưởng Quầy Tiệm Tạp Hóa</a> mua 5 Khế Ước 1
+collectinfo_21=Thu thập <a href="findnpc_new,born03," style="HLStype1"></a>5 phần Khế Ước 1
+collectinfo_22=Tìm <a href="findnpc_new,city05,FuncNpc00606" style="HLStype1">Chủ Tiệm Tạp Hóa</a> mua 5 Khế Ước 1
+collectinfo_23=Đi tìm <a href="findnpc_new,born01,FuncNpc404" style="HLStype1">Ông chủ tiệm tạp hóa</a> mua 5 phần Khế Ước 1
+interact_offline_abduct=Hoàn thành thỏa thuận môi giới với người chơi offline, mang hành lý của họ về phục lệnh
+interact_offline_sale=Trong trấn có rất nhiều người ngấm ngầm giao dịch môi giới, ngươi có thể cùng giám công bến đò <a href="findnpc_new,born04,WorldNpc00137" style="HLStype1">Bàn Tử Lý</a> hoặc chưởng quầy tiệm thuốc<a href="findnpc_new,born04,FuncNpc00002" style="HLStype1">Chu Thương</a> thỏa thuận giao dịch môi giới.
+interact_offline_sale_chengdu=Trong thành có rất nhiều người ngấm ngầm giao dịch môi giới, ngươi có thể cùng <a href="findnpc_new,city05,FuncNpc00615" style="HLStype1">Chủ khách sạn Tôn A Đạt</a> hoặc chủ tiệm trang sức <a href="findnpc_new,city05,FuncNpc00604" style="HLStype1">Chu Sinh Sinh</a> thoả thuận giao dịch môi giới.
+interact_offline_sale_jmy=Ở đây có rất nhiều người ngấm ngầm tham gia giao dịch môi giới, ngươi có thể cùng <a href="findnpc_new,born01,WorldNpc10941" style="HLStype1">Chủ Khách Sạn Thọ Gia</a> hoặc giám công mỏ than <a href="findnpc_new,born01,WorldNpc10690" style="HLStype1">Tiền Vân</a> thỏa thuận giao dịch môi giới.
+interact_offline_sale_yanyu=Ở đây có rất nhiều người ngấm ngầm tham gia giao dịch môi giới, ngươi có thể cùng <a href="findnpc_new,born03,WorldNpc00535" style="HLStype1">Đổ Phường Đả Thủ Dương Tiểu Hắc</a> hoặc Chủ tiệm trà <a href="findnpc_new,born03,WorldNpc00512" style="HLStype1">Thường Tứ Hải</a> thỏa thuận giao dịch môi giới.
+interact_offline_save=Đánh bại 1 người chơi môi giới, sau đó giúp đoạt hành lý về phục lệnh
+interactinfo_15=Hỏi thăm <a href="findnpc_new,city05,WorldNpc09862" style="HLStype1">Vạn Quân</a> làm thế nào tìm được người môi giới
+interactinfo_16=Hỏi thăm <a href="findnpc_new,born01,WorldNpc10751" style="HLStype1">Du Thành</a> làm thế nào tìm được người môi giới
+specialinfo_284=Dùng Khế Ước 1 hoàn thành thỏa thuận môi giới với người chơi offline, lấy được hành lý của y
+specialinfo_285=Dùng Khế Ước 1 hoàn thành thỏa thuận môi giới với người chơi offline, lấy được hành lý của y. Trong trấn có rất nhiều người tham gia giao dịch môi giới, bạn có thể cùng giám công bến đò <a href="findnpc_new,born04,WorldNpc00137" style="HLStype1">Bàn Tử Lý</a> hoặc Chưởng quầy tiệm thuốc <a href="findnpc_new,born04,FuncNpc00002" style="HLStype1">Chu Thương</a> thỏa thuận giao dịch môi giới.
+specialinfo_286=Dùng Khế Ước 1 hoàn thành thỏa thuận môi giới với người chơi offline, lấy được hành lý của y
+specialinfo_287=Dùng Khế Ước 1 hoàn thành thỏa thuận môi giới với người chơi offline, lấy được hành lý của y. Ở đây có rất nhiều người ngấm ngầm tham gia giao dịch môi giới, bạn có thể cùng <a href="findnpc_new,born03,WorldNpc00535" style="HLStype1">Đổ Phường Đả Thủ Dương Tiểu Hắc</a>hoặc Chủ tiệm trà <a href="findnpc_new,born03,WorldNpc00512" style="HLStype1">Thường Tứ Hải</a> thỏa thuận giao dịch môi giới.
+specialinfo_288=Dùng Khế Ước 1 hoàn thành thỏa thuận môi giới với người chơi offline, lấy được hành lý của y
+specialinfo_289=Dùng Khế Ước 1 hoàn thành thỏa thuận môi giới với người chơi offline, lấy được hành lý của y. Trong thành có rất nhiều người ngấm ngầm tham gia giao dịch môi giới, bạn có thể cùng <a href="findnpc_new,city05,FuncNpc00615" style="HLStype1">Chủ khách sạn Tôn A Đạt</a> hoặc chủ tiệm trang sức <a href="findnpc_new,city05,FuncNpc00604" style="HLStype1">Chu Sinh Sinh</a> thoả thuận giao dịch môi giới.
+specialinfo_290=Dùng Khế Ước 1 hoàn thành thỏa thuận môi giới với người chơi offline, lấy được hành lý của y
+specialinfo_291=Dùng Khế Ước 1 hoàn thành thỏa thuận môi giới với người chơi offline, lấy được hành lý của y. Ở đây có rất nhiều người ngấm ngầm tham gia giao dịch môi giới, bạn có thể cùng <a href="findnpc_new,born01,WorldNpc10941" style="HLStype1">Chủ Khách Sạn Thọ Gia</a> hoặc giám công mỏ than <a href="findnpc_new,born01,WorldNpc10690" style="HLStype1">Tiền Vân</a> thỏa thuận giao dịch môi giới.
+DialogID_447=<font face="Default" color="#ffffff" >Ngươi thu thập được chứng cứ phạm tội của người môi giới rồi chứ?</font>
+DialogID_448=<font face="Default" color="#ffffff" >Ngươi thu thập đuwọc chứng cứ phạm tội của người môi giới rồi chứ?</font>
+DialogID_449=<font face="Default" color="#ffffff" >Ngươi thu thập đuwọc chứng cứ phạm tội của người môi giới rồi chứ?</font>
+DialogID_450=<font face="Default" color="#ffffff" >Ngươi thu thập đuwọc chứng cứ phạm tội của người môi giới rồi chứ?</font>
+QiecuoMenu_162=<font face="Default" color="#ffffff" >Việc rõ như ban ngày, ngươi lại dám ở đây giao dịch môi giới, tiếp chiêu.</font>
+QiecuoMenu_163=<font face="Default" color="#ffffff" >Việc rõ như ban ngày, ngươi lại dám ở đây giao dịch môi giới, tiếp chiêu.</font>
+QiecuoMenu_164=<font face="Default" color="#ffffff" >Việc rõ như ban ngày, ngươi lại dám ở đây giao dịch môi giới, tiếp chiêu.</font>
+QiecuoMenu_301=<font face="Default" color="#ffffff" >Việc rõ như ban ngày, ngươi lại dám ở đây giao dịch môi giới, tiếp chiêu.</font>
+SubmitNpcEx_1480=Tìm <a href="findnpc_new,city01,WorldNpc08410" style="HLStype1">Nhị Cường</a> tìm hiểu tình hình tổ chức môi giới.
+collectinfo_221=Đến sào huyệt của người môi giới, từ trong <a href="findnpc_new,city01,bjyd013" style="HLStype1">Rương Mật Hàm</a> tìm được danh sách người môi giới.
+collectinfo_222=Đến sào huyệt của người môi giới, từ trong <a href="findnpc_new,city02,bjyd013" style="HLStype1">Rương Mật Hàm</a> tìm được danh sách người môi giới.
+collectinfo_223=Đến sào huyệt của người môi giới, từ trong <a href="findnpc_new,city04,bjyd013" style="HLStype1">Rương Mật Hàm</a> tìm được danh sách người môi giới.
+collectinfo_224=Đến sào huyệt của người môi giới, từ trong <a href="findnpc_new,city05,bjyd013" style="HLStype1">Rương Mật Hàm</a> tìm được danh sách người môi giới.
+hunterinfo_162=Tìm thấy và đánh bại <a href="findnpc_new,city02,bjyd001" style="HLStype1">người môi giới</a>, đoạt về hành lý của người làm công
+hunterinfo_163=Tìm thấy và đánh bại <a href="findnpc_new,city04,bjyd001" style="HLStype1">người môi giới</a>, đoạt về hành lý của người làm công
+hunterinfo_164=Tìm thấy và đánh bại <a href="findnpc_new,city05,bjyd001" style="HLStype1">người môi giới</a>, đoạt về hành lý của người làm công
+hunterinfo_301=Tìm thấy và đánh bại <a href="findnpc_new,city01,bjyd001" style="HLStype1">người môi giới</a>, đoạt về hành lý của người làm công bị lừa
+interactinfo_421=Giải cứu thiếu nữ mất tích từ trong <a href="findnpc_new,city01,bjyd011" style="HLStype1">hành lý người làm công</a>
+interactinfo_422=Giải cứu thiếu nữ mất tích từ trong <a href="findnpc_new,city02,bjyd011" style="HLStype1">hành lý người làm công</a>
+interactinfo_423=Giải cứu thiếu nữ mất tích từ trong <a href="findnpc_new,city04,bjyd011" style="HLStype1">hành lý người làm công</a>
+interactinfo_424=Giải cứu thiếu nữ mất tích từ trong <a href="findnpc_new,city05,bjyd011" style="HLStype1">hành lý người làm công</a>
+interactinfo_435=Nhặt <a href="findnpc_new,city01,bjyd012" style="HLStype1">hành lý</a>
+interactinfo_436=Nhặt <a href="findnpc_new,city02,bjyd012" style="HLStype1">hành lý</a>
+interactinfo_437=Nhặt <a href="findnpc_new,city04,bjyd012" style="HLStype1">hành lý</a>
+interactinfo_438=Nhặt <a href="findnpc_new,city05,bjyd012" style="HLStype1">hành lý</a>
+interactinfo_439=Mang người bị môi giới bán cho <a href="findnpc_new,city01,FuncNpc00104" style="HLStype1">Đỗ Bách Niên</a>, và gia nhập tổ chức người môi giới
+interactinfo_440=Mang người bị môi giới bán cho <a href="findnpc_new,city02,WorldNpc10316" style="HLStype1">Đại Quản Gia</a>, và gia nhập tổ chức người môi giới
+interactinfo_441=Mang người bị môi giới bán cho <a href="findnpc_new,city04,FuncNpc00604" style="HLStype1">Chu Sinh Sinh</a>, và gia nhập tổ chức người môi giới
+interactinfo_442=Mang người bị môi giới bán cho <a href="findnpc_new,city05,WorldNpc08410" style="HLStype1">Nhị Cường</a>, và gia nhập tổ chức người môi giới
+interactinfo_447=Giao chứng cứ phạm tội của người môi giới cho <a href="findnpc_new,city01,WorldNpc08965" style="HLStype1">Trạm Cương Hùng</a>
+interactinfo_448=Giao chứng cứ phạm tội của người môi giới cho <a href="findnpc_new,city02,WorldNpc01246" style="HLStype1">Phạm Hồng Cử</a>
+interactinfo_449=Giao chứng cứ phạm tội của người môi giới cho <a href="findnpc_new,city04,ly735" style="HLStype1">Kim Nhân Lộ</a>
+interactinfo_450=Giao chứng cứ phạm tội của người môi giới cho <a href="findnpc_new,city05,cd483" style="HLStype1">Nguyên Phương</a>
+okmenu_439=<font face="Default" color="#ffffff" >Còn nhờ ngươi tiến cử ta vào tổ chức môi giới.</font>
+okmenu_440=<font face="Default" color="#ffffff" >Còn nhờ ngươi tiến cử ta vào tổ chức môi giới.</font>
+okmenu_441=<font face="Default" color="#ffffff" >Còn nhờ ngươi tiến cử ta vào tổ chức môi giới.</font>
+okmenu_442=<font face="Default" color="#ffffff" >Còn nhờ ngươi tiến cử ta vào tổ chức môi giới.</font>
+okmenu_447=<font face="Default" color="#ffffff" >Đây chính là chứng cứ phạm tội của người môi giới, chúng ta có thể diệt trừ chúng rồi.</font>
+okmenu_448=<font face="Default" color="#ffffff" >Đây chính là chứng cứ phạm tội của người môi giới, chúng ta có thể diệt trừ chúng rồi.</font>
+okmenu_449=<font face="Default" color="#ffffff" >Đây chính là chứng cứ phạm tội của người môi giới, chúng ta có thể diệt trừ chúng rồi.</font>
+okmenu_450=<font face="Default" color="#ffffff" >Đây chính là chứng cứ phạm tội của người môi giới, chúng ta có thể diệt trừ chúng rồi.</font>
+story_151_2=<font face="Default" color="#ffffff" >Xem ra chúng ta cần nghĩ cách diệt trừ tổ chức môi giới này rồi.</font>
+story_152_2=<font face="Default" color="#ffffff" >Xem ra chúng ta cần nghĩ cách diệt trừ tổ chức môi giới này rồi.</font>
+story_153_2=<font face="Default" color="#ffffff" >Xem ra chúng ta cần nghĩ cách diệt trừ tổ chức môi giới này rồi.</font>
+story_154_2=<font face="Default" color="#ffffff" >Xem ra chúng ta cần nghĩ cách diệt trừ tổ chức môi giới này rồi.</font>
+story_159_3=<font face="Default" color="#ffffff" >Chỉ có vào tổ chức này mới có cơ hội tìm ra manh mối phạm tội của của chúng. Nhưng tổ chức này tương đối nghiêm ngặt, ngươi cần đánh lừa hành lý của 1 người làm công đến, ta mới có thể tiến cử ngươi.</font>
+story_160_3=<font face="Default" color="#ffffff" >Chỉ có vào tổ chức này mứoi có cơ hội tìm ra manh mối phạm tội của của chúng. Nhưng tổ chức này tương đối nghiêm ngặt, ngươi cần đánh lừa hành lý của 1 người làm công đến, ta mới có thể tiến cử ngươi.</font>
+story_161_3=<font face="Default" color="#ffffff" >Chỉ có vào tổ chức này mứoi có cơ hội tìm ra manh mối phạm tội của của chúng. Nhưng tổ chức này tương đối nghiêm ngặt, ngươi cần đánh lừa hành lý của 1 người làm công đến, ta mới có thể tiến cử ngươi.</font>
+story_162_3=<font face="Default" color="#ffffff" >Chỉ có vào tổ chức này mứoi có cơ hội tìm ra manh mối phạm tội của của chúng. Nhưng tổ chức này tương đối nghiêm ngặt, ngươi cần đánh lừa hành lý của 1 người làm công đến, ta mới có thể tiến cử ngươi.</font>
+story_menu_155=<font face="Default" color="#ffffff" >Về tổ chức người môi giới không biết thần bổ có cách nhìn thế nào?</font>
+story_menu_156=<font face="Default" color="#ffffff" >Về tổ chức người môi giới không biết thần bổ có cách nhìn thế nào?</font>
+story_menu_157=<font face="Default" color="#ffffff" >Về tổ chức người môi giới không biết thần bổ có cách nhìn thế nào?</font>
+story_menu_158=<font face="Default" color="#ffffff" >Về tổ chức người môi giới không biết thần bổ có cách nhìn thế nào?</font>
+story_menu_164=<font face="Default" color="#ffffff" >Thần bổ ta đã tìm hiểu tổ chức môi giới rồi.</font>
+storyinfo_151=Báo cáo việc phát hiện ra người môi giới cho <a href="findnpc_new,city01,hbyd001" style="HLStype1">Hứa Khả</a>
+storyinfo_152=Báo cáo việc phát hiện ra người môi giới cho <a href="findnpc_new,city02,hbyd002" style="HLStype1">Lý Long</a>
+storyinfo_153=Báo cáo việc phát hiện ra người môi giới cho <a href="findnpc_new,city04,hbyd004" style="HLStype1">Mã Kỳ Tùng</a>
+storyinfo_154=Báo cáo việc phát hiện ra người môi giới cho <a href="findnpc_new,city05,hbyd005" style="HLStype1">Đơn Duyệt</a>
+storyinfo_159=Tìm <a href="findnpc_new,city01,WorldNpc08410" style="HLStype1">Nhị Cường</a> tìm hiểu tình hình chung của tổ chức người môi giới
+storyinfo_160=Tìm <a href="findnpc_new,city02,FuncNpc00104" style="HLStype1">Đỗ Bá Niên</a> tìm hiểu tình hình chung của tổ chức người môi giới
+storyinfo_161=Tìm <a href="findnpc_new,city04,WorldNpc10316" style="HLStype1">Đại Quản Gia</a> tìm hiểu tình hình chung của tổ chức người môi giới
+storyinfo_162=Tìm <a href="findnpc_new,city05,FuncNpc00604" style="HLStype1">Chu Sinh Sinh</a> tìm hiểu tình hình chung của tổ chức người môi giới
+storyinfo_164=Đem tin tức của tổ chức môi giới nhận được báo cho <a href="findnpc_new,city02,hbyd002" style="HLStype1">Lý Long</a>, bàn bạc kế hoạch trà trộn.
+storymenu_151_1=<font face="Default" color="#ffffff" >Đúng vậy, ở Yến Kinh tồn tại 1 tổ chức dùng giao dịch môi giới tư để làm ăn, họ làm hại rất nhiều người, kiếm được không ít tiền.</font>
+storymenu_152_1=<font face="Default" color="#ffffff" >Đúng vậy, ở Tô Châu tồn tại 1 tổ chức dùng giao dịch môi giới tư để làm ăn, họ làm hại rất nhiều người, kiếm được không ít tiền.</font>
+storymenu_153_1=<font face="Default" color="#ffffff" >Đúng vậy, ở Lạc Dương tồn tại 1 tổ chức dùng giao dịch môi giới tư để làm ăn, họ làm hại rất nhiều người, kiếm được không ít tiền.</font>
+storymenu_154_1=<font face="Default" color="#ffffff" >Đúng vậy, ở Thành Đô tồn tại 1 tổ chức dùng giao dịch môi giới tư để làm ăn, họ làm hại rất nhiều người, kiếm được không ít tiền.</font>
+storymenu_159_1=<font face="Default" color="#ffffff" >Ta đến để tìm hiểu về tình hình tổ chức môi giới tư.</font>
+storymenu_160_1=<font face="Default" color="#ffffff" >Ta đến để tìm ngươi đến tìm hiểu tình hình tổ chức môi giới tư.</font>
+storymenu_161_1=<font face="Default" color="#ffffff" >Ta đến để tìm hiểu về tình hình tổ chức môi giới tư.</font>
+storymenu_162_1=<font face="Default" color="#ffffff" >Ta đến để tìm hiểu về tình hình tổ chức môi giới tư.</font>
+storymenu_164_2=<font face="Default" color="#ffffff" >Ta cần tiến hành 1 lần môi giới tư, hi vọng các ngươi có thể phối hợp diễn vở kịch, ngoài ra ta cần 1 vài Khế Ước 1.</font>
+useiteminfo_101=Nhắm vào <a href="findnpc_new,city01,bjyd002" style="HLStype1">Vương Đằng</a> dùng <a href="TASK_ITEM,bj_yd01" style="HLStype1">Khế Ước 1</a>, tiến hành giao dịch môi giới tư với hắn (chỉ trong thời gian quy định mới nhận được tín nhiệm của tổ chức môi giới)
+useiteminfo_102=Nhắm vào <a href="findnpc_new,city02,bjyd004" style="HLStype1">Đằng Hiền Bân</a> dùng <a href="TASK_ITEM,bj_yd04" style="HLStype1">Khế Ước 1</a>, tiến hành giao dịch môi giới tư với hắn (chỉ trong thời gian quy định mới nhận được tín nhiệm của tổ chức môi giới)
+useiteminfo_103=Nhắm vào <a href="findnpc_new,city04,bjyd005" style="HLStype1">Vương Văn Trung</a> dùng <a href="TASK_ITEM,bj_yd05" style="HLStype1">Khế Ước 1</a>, tiến hành giao dịch môi giới tư với hắn (chỉ trong thời gian quy định mới nhận được tín nhiệm của tổ chức môi giới)
+useiteminfo_104=Nhắm vào <a href="findnpc_new,city05,bjyd006" style="HLStype1">Ngô Đào</a> dùng <a href="TASK_ITEM,bj_yd06" style="HLStype1">Khế Ước 1</a>, tiến hành giao dịch môi giới tư với hắn (chỉ trong thời gian quy định mới nhận được tín nhiệm của tổ chức môi giới)
+AbductNpc13b_1=Bách Tính Nhiệt Tình
+AbductNpc14b_1=Bách Tính Nhiệt Tình
+AbductNpc15b_1=Bách Tính Nhiệt Tình
+AbductNpc16b_1=Bách Tính Nhiệt Tình
+AbductNpc17b_1=Bách Tính Nhiệt Tình
+13506=Giao dịch môi giới tư của bạn lần này nhận được <img src="gui\common\money\suiyin.png"  valign="center" />{@0:$}
+school_rule_event_4=Vi phạm môn quy: Không được làm điều ác (Giao dịch môi giới tư)
+school_rule_event_5=Vi phạm môn quy:  Không được làm điều ác (Giao dịch môi giới tư)
+MaDai=Hành lý
+specialinfo_1070=Hoàn thành thành công 2 lần giao dịch môi giới tư
+

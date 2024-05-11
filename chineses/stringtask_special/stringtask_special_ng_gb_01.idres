@@ -1,0 +1,574 @@
+﻿
+DialogID_81501=<font face="Default" color="#ffffff" >Tàn sát đồng môn? nhất triều bạn li? Ngươi hỏi Nhung Tiễn xem.</font>
+DialogID_81502=<font face="Default" color="#ffffff" >Nói thế này ta chắc chắn đã nghĩ đến một người, 8 năm trước Cái Bang đã xảy ra một việc, một Đệ Tử Cái Bang đã sát hại đồng môn trong miếu hoang, cuối cùng trốn khỏi Cái Bang. Việc năm đó Quý Tuấn tương đối rõ, ngươi đi hỏi xem?</font>
+DialogID_81510=<font face="Default" color="#ffffff" >Ngươi đem</font> <font face="Default" color="#ffffff" >hai</font> <font face="Default" color="#ffffff" >Hộ Thiếp này cho</font> <font face="Default" color="#ffffff" >hai</font> <font face="Default" color="#ffffff" >người sống ở Kê Minh Dịch đã lâu là Cao Văn Phủ, Tương Quân Luân, bảo họ nhớ điền vào danh sách phía trên, ngoài ra đừng quên điền Hộ Biệt, Hộ Biệt có "Quân Hộ", "Dân hộ" hoặc "Tượng Hộ".</font>
+DialogID_81511=<font face="Default" color="#ffffff" >Chúng ta phải điền Hộ Thiếp này à? Phiền thiếu hiệp đi thêm một chuyến, ta điền xong thì đưa cho trấn trưởng.</font>
+DialogID_81512=<font face="Default" color="#ffffff" >Để ta xem Hộ Thiếp này, cần điền nhiều quá vậy!</font>
+DialogID_81514=<font face="Default" color="#ffffff" >Yên tâm, ta điền xong thì giao cho trấn trưởng.</font>
+DialogID_81515=<font face="Default" color="#ffffff" >Ngươi làm không tệ, ta thấy nơi ghi chép trên bản đồ này chắc là Tuyết Sơn ở Cực Lạc Cốc, ngươi nhanh qua đó xem sao.</font>
+DialogID_81516=<font face="Default" color="#ffffff" >Không sai không sai, lần này ngươi xem như đã lập công lớn rồi.</font>
+DialogID_81517=<font face="Default" color="#ffffff" >Xem ra sự kiện chúng ta điều tra đã bị người ta phát hiện rồi.</font>
+DialogID_81523=<font face="Default" color="#ffffff" >Là Huyết Thư của Tứ Đại Khấu, mong Cao Thủ của phái ta có thể cứu viện Đinh Cửu Trùng.</font>
+SubmitNpcEx_56532=Đến chỗ <a href="findnpc_new,school02,npc_4neidh_gb" style="HLStype1">Chưởng Sự sư thúc</a> báo kết quả.
+SubmitNpcEx_56537=Nghe <a href="findnpc_new,school02,WorldNpc03003" style="HLStype1">Tiêu Thiên Phóng</a> kể
+SubmitNpcEx_56544=Về Cái Bang báo với <a href="findnpc_new,school02,WorldNpc03003" style="HLStype1">Tiêu Thiên Phóng</a>
+collectinfo_81503=Lật tung <a href="findnpc_new,city01,Gather_4nei_gb003" style="HLStype1">Ụ Đất</a>
+collectinfo_81504=Đi <a href="findnpc_new,school02,Gather_4nei_gb004" style="HLStype1">điều tra manh mối</a>
+collectinfo_81505=Kiểm tra <a href="findnpc_new,school02,Gather_4nei_gb005" style="HLStype1">thi thể</a>
+hunterinfo_81501=Đánh bại <a href="findnpc_new,school02,NPC_4nei_gb002" style="HLStype1">NPC_4nei_gb002</a>
+hunterinfo_81502=Đến <a href="findnpc_new,born02,PlotDoor00035" style="HLStype1">Tuyết Sơn</a>-Cực Lạc Cốc, nhất chiến với Ma Đao Đường, đòi lại Đả Cẩu Bổng.
+hunterinfo_81503=Đến ngoại ô Kim Lăng tìm <a href="findnpc_new,city03,NPC_4nei_gb005" style="HLStype1">Lý sư phụ</a>.
+hunterinfo_81504=Đánh bại <a href="findnpc_new,born01,NPC_4nei_gb006" style="HLStype1">Tất Gia Hỏa</a>
+hunterinfo_81505=Đánh bại <a href="findnpc_new,school02,monm021401" style="HLStype1">thám tử Mật Tông cải trang</a>
+interactinfo_81501=Trò chuyện với <a href="findnpc_new,school02,gb120" style="HLStype1">Mễ Vĩ</a>
+interactinfo_81502=Trò chuyện với <a href="findnpc_new,school02,gb121" style="HLStype1">Nhung Tiễn</a>
+interactinfo_81510=Trò chuyện với <a href="findnpc_new,born01,WorldNpc10673" style="HLStype1">Lý Phú Quý</a>
+interactinfo_81511=Trò chuyện với <a href="findnpc_new,born01,WorldNpc10622" style="HLStype1">Cao Văn Phủ</a>
+interactinfo_81512=Trò chuyện cùng <a href="findnpc_new,born01,WorldNpc10949" style="HLStype1">Tương Quân Luân</a>
+interactinfo_81514=Trò chuyện với <a href="findnpc_new,born01,WorldNPC10738" style="HLStype1">Vu Tiềm Tiềm</a>
+interactinfo_81515=Trò chuyện với <a href="findnpc_new,school02,gb161" style="HLStype1">Đàm Sĩ Cương</a>
+interactinfo_81516=Về Cái Bang trò chuyện với <a href="findnpc_new,school02,gb161" style="HLStype1">Đàm Sĩ Cương</a>
+interactinfo_81517=Trò chuyện cùng <a href="findnpc_new,school02,WorldNpc03003" style="HLStype1">Tiêu Thiên Phóng</a>
+interactinfo_81523=Trò chuyện cùng <a href="findnpc_new,school02,WorldNpc03003" style="HLStype1">Tiêu Thiên Phóng</a>
+okmenu_81501=<font face="Default" color="#ffffff" >Mễ huynh có biết câu nói "Phá miếu chi tranh tàn sát đồng môn bất nhân bất nghĩa, thập niên dưỡng dục nhất triều bạn li bất trung bất hiếu" là ám chỉ ai không</font><font face="Default" color="#ffffff" >?</font>
+okmenu_81502=<font face="Default" color="#ffffff" >Nhung Tiễn huynh có biết "Phá miếu chi tranh tàn sát đồng môn bất nhân bất nghĩa, thập niên dưỡng dục nhất triều bạn li bất trung bất hiếu" là ám chỉ ai không?</font>
+okmenu_81510=<font face="Default" color="#ffffff" >Yên tâm đi đạo trưởng,</font> <font face="Default" color="#ffffff" >ta đi ngay đây.</font>
+okmenu_81511=<font face="Default" color="#ffffff" >Trấn trưởng bảo ta nhắc các ngươi</font> <font face="Default" color="#ffffff" >đừng quên điền Hộ Biệt, có "Quân Hộ", "Dân Hộ"</font><font face="Default" color="#ffffff" >,</font> <font face="Default" color="#ffffff" >"Tượng Hộ</font><font face="Default" color="#ffffff" >"3 loại khác nhau.</font>
+okmenu_81512=<font face="Default" color="#ffffff" >Trấn trưởng bảo ta nhắc các ngươi đừng quên điền Hộ Biệt, có "Quân Hộ", "Dân Hộ", "Tượng Hộ" 3 loại khác nhau.</font>
+okmenu_81514=<font face="Default" color="#ffffff" >Trấn trưởng bảo ta nhắc các ngươi đừng quên điền Hộ Biệt, có "Quân Hộ", "Dân Hộ", "Tượng Hộ" 3 loại khác nhau.</font>
+okmenu_81515=<font face="Default" color="#ffffff" >Đệ tử tuân lệnh!</font>
+okmenu_81516=<font face="Default" color="#ffffff" >Trưởng lão, may đã không phụ lòng người.</font>
+okmenu_81517=<font face="Default" color="#ffffff" >Vậy tiếp theo làm gì đây?</font>
+okmenu_81523=<font face="Default" color="#ffffff" >Vậy</font> <font face="Default" color="#ffffff" >bang chủ</font> <font face="Default" color="#ffffff" >sao không phái người đi?</font>
+story_81501_1=<font face="Default" color="#ffffff" >Việc này nói ra dài dòng, tin rằng ngươi cũng đã đoán ra được vài phần, lần trước việc tặc nhân cướp Đả Cẩu Bổng ngươi biết rõ không?</font>
+story_81501_2=<font face="Default" color="#ffffff" >Theo tên tặc nhân đó nói, Đệ Tử Cái Bang đến cấm địa đích thật là thu thập được vài thứ kỳ lạ, chúng ta đoán việc này có liên quan đến người thần bí, những Dương Bì Tàn Phiến kỳ lạ đó bên trong dường như có một câu nói liên quan đến Cái Bang.</font>
+story_81501_3=<font face="Default" color="#ffffff" >"Phá miếu chi tranh tàn sát đồng môn bất nhân bất nghĩa, thập niên dưỡng dục nhất triều bạn li bất trung bất hiếu" ngươi phải theo câu nói này tìm đến người thần bí đó.</font>
+story_81502_1=<font face="Default" color="#ffffff" >Uhm, ta cũng nghĩ đến việc đó, lúc đầu ta cùng các vị trưởng lão đến miếu hoang, được biết Tất Gia Hỏa đả thương các vị sư huynh rồi phản bội Cái Bang.</font>
+story_81502_2=<font face="Default" color="#ffffff" >Điều này ngươi có thể hỏi Hoắc Nhượng Hương Chủ, việc trên giang hồ không gì mà y không biết.</font>
+story_81503_1=<font face="Default" color="#ffffff" >Làm không tệ</font><font face="Default" color="#ffffff" >,</font> <font face="Default" color="#ffffff" >còn </font> <font face="Default" color="#ffffff" >việc môn phái giao có manh mối gì không?</font>
+story_81503_2=<font face="Default" color="#ffffff" >Ơ? Có việc gì cứ nói.</font>
+story_81503_3=<font face="Default" color="#ffffff" >Tất Gia Hỏa? Người này kể từ lần tái xuất giang hồ ngắn ngủi đó thì lại mai danh ẩn tích rồi, y dường như không qua lại với ai, tuy nói đệ tử Cái Bang rải rác khắp thiên hạ, nhưng mấy tháng gần đây cũng không có tung tích của y. Xem ra ta phải báo các đệ tử tăng cường chú ý người này.</font>
+story_81504_1=<font face="Default" color="#ffffff" >Thông tin vừa nhận được,</font> <font face="Default" color="#ffffff" >qua nghiên cứu Dương Bì Tàn Phiến, chúng ta phát hiện tên tặc nhân đó đã để lại 3 câu, câu trước đây chúng ta đã biết là nói về Tất Gia Hỏa, nhưng câu thứ 2 đến nay vẫn chưa lý giải được.</font>
+story_81504_2=<font face="Default" color="#ffffff" >Theo thông tin trên Dương Bì Tàn Phiến, câu thứ 2 trong môn phái dự đoán là "Thất niên bất kiến trọng xuất giang hồ ý đồ bất quỹ, Đường Tử khí đồ hành thích Cái Bang mạc hậu hắc thủ".</font>
+story_81505_1=<font face="Default" color="#ffffff" >Việc bảo ngươi điều tra đã có thông tin rồi?</font>
+story_81505_2=<font face="Default" color="#ffffff" >Sao? Nói thế thì ta có vài ấn tượng, ngươi có thể thăm dò tin tức Tất Gia Hỏa?</font>
+story_81505_3=<font face="Default" color="#ffffff" >Cái này? Ngay đệ tử Cái Bang ta cũng không có tin tức người này, lời tặc nhân cướp Đả Cẩu Bổng đó nói lẽ nào là cố ý mê hoặc chúng ta? Hay là Dương Bì Tàn Phiến trong cấm địa này vẫn chưa thu thập đủ, chúng ta không phát hiện thêm manh mối? Việc này cần bàn thêm lần nữa, ngươi về thông báo các đệ tử tiếp tục thu thập Dương Bì Tàn Phiến. Ngoài ra, trang sách này hãy cầm về tìm hiểu, tranh thủ nâng cao 1 tầng nội công.</font>
+story_81506_1=<font face="Default" color="#ffffff" >Ngươi là đệ tử Cái Bang?! Tìm ta có việc gì?</font>
+story_81506_2=<font face="Default" color="#ffffff" >Phải thì sao? Không phải thì sao? Ta vốn không phải người trong Cái Bang, thiếu hiệp tìm ta có việc gì?</font>
+story_81506_3=<font face="Default" color="#ffffff" >Đả Cẩu Bổng? Đây là chí bảo của Cái Bang, liên quan gì đến ta, ngươi hỏi nhầm người rồi.</font>
+story_81506_4=<font face="Default" color="#ffffff" >Việc này ta thật sự không biết, ngươi hỏi nhầm người rồi, mời về đi.</font>
+story_81506_5=<font face="Default" color="#ffffff" >Haha, Cái Bang chỉ xem ta là phản đồ, ta lại trở thành đệ tử Cái Bang hồi nào rồi, năm đó không hỏi phải trái đúng sai mà đổ oan cho ta, nay sao lại nói đến ơn dưỡng dục.</font>
+story_81506_6=<font face="Default" color="#ffffff" >Việc năm đó ta không muốn tranh luận với ngươi nữa. Bất kể ngươi tin hay không, Cái Bang Đả Cẩu Bổng không liên quan tới ta, các ngươi tin vào manh mối để lại của một tên cướp Đả Cẩu Bổng, thật nực cười. Ta nói lại lần nữa, việc này không liên quan đến ta</font><font face="Default" color="#ffffff" >!</font>
+story_81508_1=<font face="Default" color="#ffffff" >Thiếu hiệp đừng khách khí, không biết có việc chi?</font>
+story_81508_2=<font face="Default" color="#ffffff" >Thì ra người quen chỗ của Đàm huynh, ngươi cứ hỏi đi.</font>
+story_81508_4=<font face="Default" color="#ffffff" >Nhưng mỗi lần ép Cửu Vĩ Linh Hồ này tìm bảo vật đều phải chuẩn bị nhiều thứ trước đó, cho ăn những dược liệu, thức ăn xong Linh Hồ sẽ tu dưỡng trong một khoảng thời gian dài, lúc đầu khi Tất Gia Hỏa mượn đi sau một thời gian thì trả lại, nhưng có thể thấy rõ Linh Hồ đã 1 lần tìm bảo vật rồi, còn cụ thể tìm cái gì thì ta không rõ.</font>
+story_81509_1=<font face="Default" color="#ffffff" >Có phải Tầm Bảo Linh Hồ?</font>
+story_81509_3=<font face="Default" color="#ffffff" >Đúng, lần đó ngươi cũng trải qua, lúc đó có một đám tặc nhân dùng binh khí Đường Môn hành thích bang chủ, đả thương nhiều huynh đệ Cái Bang, sau đó qua thu thập manh mối tặc nhân để lại, đã lấy lại Đả Cẩu Bổng mà tặc nhân cướp đi ở sau miếu hoang. Sau này qua điều tra và trao đổi với Đường Môn chưởng môn, kẻ hành thích là phản đồ Đường Môn-Đường Vân và Hình Quân Khả, còn ngân châm ngươi vừa tìm về theo ta biết được là do tuyệt chiêu độc môn của Đường Vân-Hồng Đoạn Thiên Tuyệt tung ra mà có.</font>
+story_81509_4=<font face="Default" color="#ffffff" >Đúng, may mà lần trước bang chủ anh minh, phát hiện trước vết tích tặc nhân để lại, đến miếu hoang đoạt lại Đả Cẩu Bổng. Không ngờ</font> <font face="Default" color="#ffffff" >lần này còn để tặc nhân cướp Đả Cẩu Bổng, xem ra chắc chắn là Tất Gia Hỏa vẫn chưa từ bỏ.</font>
+story_81509_5=<font face="Default" color="#ffffff" >"Thất niên bất kiến trọng xuất giang hồ ý đồ bất quỹ, Đường Tử khí đồ hành thích Cái Bang mạc hậu hắc thủ", xem cách nói chính là Tất Gia Hỏa sau khi tái xuất giang hồ cùng phản đồ Hình Quân Khả của Quân Tử Đường với Đường Vân của Đường Môn đã vạch mưu hành thích Cái Bang rồi nhân lúc hỗn loạn cướp Đả Cẩu Bổng đi, nhưng tặc nhân cướp Đả Cẩu Bổng này sao lại để lại manh mối này chứ?</font>
+story_81509_6=<font face="Default" color="#ffffff" >Theo những gì đã nói lúc đầu, chúng, ta cần giải 3 vấn đề mà y để lại mới có thể hoàn lại Chí Bảo. Tóm lại đến nay đã giải được 2 câu rồi.</font> <font face="Default" color="#ffffff" >Chúng ta tạm tìm manh mối tiếp ở cấm địa.</font>
+story_81511_1=<font face="Default" color="#ffffff" >Ngươi đến thật đúng lúc, qua nhiều ngày nghiên cứu chúng ta đã phát hiện Dương Bì Tàn Phiến để lại trong cấm địa có</font> <font face="Default" color="#ffffff" >câu nói cuối cùng</font><font face="Default" color="#ffffff" >.</font>
+story_81511_2=<font face="Default" color="#ffffff" >"Mạc hà tiểu trấn thần bí tà giáo tiềm phục đa niên, thần miếu đại thính thú thần điêu tượng ẩn thế chi mật" Câu nói này không biết lại nói cái gì?</font>
+story_81511_3=<font face="Default" color="#ffffff" >Uhm, ngươi có thể đến</font> <font face="Default" color="#ffffff" >Kê Minh Dịch</font> <font face="Default" color="#ffffff" >hỏi xem,</font> <font face="Default" color="#ffffff" >Mạc Hà tiểu trấn này ta thấy chắc là Mạc Hà Trấn của Kê Minh Dịch</font><font face="Default" color="#ffffff" >.</font>
+story_81512_1=<font face="Default" color="#ffffff" >Nói hay nói hay, chỉ là lão hiện đang sức đầu mẻ trán, kỳ thực lực bất tòng tâm.</font>
+story_81512_2=<font face="Default" color="#ffffff" >Là thế này</font><font face="Default" color="#ffffff" >, mấy năm trước triều đình giao các nơi viết Hộ Thiếp nộp lên, lúc đó Mạc Hà Trấn chỉ mấy hộ, không điền Hộ Thiếp này, đúng lúc, hai ngày nay hộ bộ phái người đến thúc nộp Hộ Thiếp, bây giờ Mạc Hà Trấn có nhiều nhà thế này, sao làm kịp được đây.</font>
+story_81512_3=<font face="Default" color="#ffffff" >Việc này là Thái Tổ Hoàng Đế giao phó, các hộ đều phải điền vào Hộ Thiếp, viết lên danh sách và hộ biệt, sau đó niêm phong vào hộ bộ, mỗi năm phải tra rõ ràng. Vừa hay, Mạc Hà Trấn xa xôi chưa hề giao nộp, kéo dài đến nay. Trong tay ta còn mấy Hộ Thiếp chưa điền.</font>
+story_81512_4=<font face="Default" color="#ffffff" >Thật Đa tạ thiếu hiệp, việc này triều đình giao xuống, ngươi phải cẩn thận đừng làm mất mát.</font>
+story_81514_1=<font face="Default" color="#ffffff" >Vị thiếu hiệp này có việc gì?</font>
+story_81514_2=<font face="Default" color="#ffffff" >Ngươi có muốn thăm gò tin tức Tất Gia Hỏa không?</font>
+story_81514_3=<font face="Default" color="#ffffff" >Việc gì cũng có ý trời. Nhưng đệ tử Cái Bang đến, bần đạo không giấu diếm. Thiếu hiệp muốn biết gì cứ hỏi.</font>
+story_81514_4=<font face="Default" color="#ffffff" >Sao? Đang nói cái gì vậy?</font>
+story_81514_5=<font face="Default" color="#ffffff" >Việc này phải nói bắt đầu từ năm Tất Gia Hỏa rời Cái Bang, chắc hẳn việc Tất Gia Hỏa phản bội rời Cái Bang ngươi đã biết rõ, sau đó Tất Gia Hỏa bị truy sát đến cùng đường, người trong giang hồ cứ tưởng y chết rồi, nhưng không biết y được Hắc Y Nhân cứu thoát.</font> <font face="Default" color="#ffffff" >Sau này Tất Gia Hỏa sống một nơi thần bí được truyền dạy các loại võ công, cho đến khi Hắc Y Nhân đó xuất hiện, giao cho Tất Gia Hỏa một nhiệm vụ.</font>
+story_81514_6=<font face="Default" color="#ffffff" >Chính thế, điều này liên quan đến nửa câu sau trong câu nói đó của ngươi,</font> <font face="Default" color="#ffffff" >"</font> <font face="Default" color="#ffffff" >bí mật ẩn thế pho tượng Thần Thú ở sảnh Thần Miếu</font> <font face="Default" color="#ffffff" >” " Thần miếu Bạch Lỗ Ca ẩn chứa bí mật của vị đại tướng tiền triều, nghe nói hắn bại trận chạy về hướng Kê Minh Dịch, giấu một bí mật kinh thiên của tiền triều trong tượng Lỗ Ca. Có người nói bí mật kinh thiên đó là một quyển tuyệt thế binh pháp và võ công, cũng có người nói ở đó ẩn chứa của cải của tiền triều.</font>
+story_81514_7=<font face="Default" color="#ffffff" >Tượng thật sự có thể đã sớm bị người ta mang đi rồi hoặc là vốn không tồn tại, tóm lại, cuối cùng cũng không đâu vào đâu.</font> <font face="Default" color="#ffffff" >Chỉ lưu lại một vài cao thủ võ lâm đi theo Tất Gia Hỏa tạo thành một thế lực ẩn trốn ở Hoa Bắc, nhưng cũng bị Hắc Y Nhân đó khống chế.</font>
+story_81514_8=<font face="Default" color="#ffffff" >Việc Tất Gia Hỏa sau đó rời khỏi Kê Minh Dịch ta không biết. Nhưng</font> <font face="Default" color="#ffffff" >nếu ngươi muốn tìm Tất Gia Hỏa, ngươi có thể đến Thần miếu Bách Lỗ Ca xem xem, có lẽ ngươi có thể tìm được manh mối gì.</font>
+story_81520_1=<font face="Default" color="#ffffff" >Thiếu hiệp không cần đa lễ, thiếu hiệp lần này đến có vật gì quan trọng cần Vận Tiêu sao?</font>
+story_81520_2=<font face="Default" color="#ffffff" >Thì ra là Đàm huynh nhờ, ta nhất định không giấu diếm.</font>
+story_81520_3=<font face="Default" color="#ffffff" >Đúng, chắc chắn có việc này, người này đã tham gia vào một trận cướp tiêu, đúng lúc một Tiêu Sư trong Tiêu Cục năm đó tham gia truy bắt Tất Gia Hỏa vì thế mà đã nhận ra người này.</font>
+story_81520_4=<font face="Default" color="#ffffff" >Đương nhiên, Du Tiêu Sư vừa lúc ở bên ngoài, ngươi có việc gì có thể hỏi y.</font>
+story_81521_1=<font face="Default" color="#ffffff" >Thiếu hiệp không cần đa lễ, không biết thiếu hiệp muốn hỏi gì?</font>
+story_81521_2=<font face="Default" color="#ffffff" >Ngươi hỏi việc này à, để ta nghĩ xem...thật sự, lúc đầu vốn là một chuyến tiêu mà Đường Môn ủy thác,</font> <font face="Default" color="#ffffff" >là một xe độc môn binh khí của Đường Môn,</font> <font face="Default" color="#ffffff" >các Tiêu Sư bọn ta và vài đệ tử Đường Môn cùng áp tiêu, không ngờ nhóm người đến cướp tiêu võ công đều rất cao cường, chúng ta không địch nổi, nhanh chóng thất bại, cũng may đệ tử Đường Môn cùng tham gia áp tiêu nên không truy cứu gì bọn ta.</font>
+story_81521_3=<font face="Default" color="#ffffff" >Nói đúng hơn, họ đã phân hai nhóm đến đây, nhóm đầu tiên đều hắc y nhân giấu mặt, do một nam một nữ dẫn đầu, Tất Gia Hỏa là nhóm sau. Lúc Tất Gia Hỏa đến chúng ta đã bại tan tác rồi, chỉ là Tất Gia Hỏa không có mặt nạ ta vừa nhìn đã nhận ra y, sau đó thì bị đánh hôn mê rồi.</font>
+story_81521_4=<font face="Default" color="#ffffff" >Rất có khả năng. Ô, đúng rồi, lúc đầu ta bị một nữ tử đả thương, sau đó từ chỗ vết thương phát hiện vài cây kim nhỏ, ta nhớ sau đó cây kim đó được ta vứt trong ụ đất sau viện, ngươi có thể tìm xem, chắc vẫn ở đó.</font>
+story_81522_1=<font face="Default" color="#ffffff" >Không sai không sai, ngươi đã phát hiện ra cái gì?</font>
+story_81522_2=<font face="Default" color="#ffffff" >Lẽ nàoTất Gia Hỏa còn lập nên tổ chức thần bí gì? Nhưng sau đó sao lại không thăm dò được tin tức gì của y. Ngươi còn phát hiện gì không?</font>
+story_81523_1=<font face="Default" color="#ffffff" >Aiya, thật là phiền thiếu hiệp rồi, ta nhớ trước đây thiếu hiệp có nói cần hỏi lão vài chuyện.</font>
+story_81523_10=<font face="Default" color="#ffffff" >Thiếu hiệp nói đúng, Thanh Phổ Đạo Trưởng cũng nói như vậy, thật ra việc này Thanh Phổ Đạo Trưởng tương đối hiểu rõ, năm đó đều dựa vào y mọi người mới từ từ thoát khỏi chỗ tà giáo đó, ngươi muốn biết chi tiết hơn có thể đi hỏi y.</font>
+story_81523_2=<font face="Default" color="#ffffff" >Ơ? Lời gì?</font>
+story_81523_3=<font face="Default" color="#ffffff" >Tà giáo thần bí? Mấy năm trước Mạc Hà Trấn thực sự có một tà giáo thần bí, thu hút nhiều bách tính Kê Minh Dịch nhập giáo, chỉ là sau đó những bách tính này đều bị giải tán.</font>
+story_81523_4=<font face="Default" color="#ffffff" >Cái này phải nói từ đầu rồi, khoảng chừng 3 năm trước, các nơi ở Kê Minh Dịch đột nhiên xuất hiện một vài mảnh giấy, trên viết những lời tế tự thần miếu, thần cứu thế nhân. Ngay sau đó vài giáo đồ mặc những bộ trang phục kỳ quái đã đến các nơi truyền giáo.</font> <font face="Default" color="#ffffff" >Những thôn dân xem qua mảnh giấy hoặc đã tiếp xúc với mảnh giấy vốn không tin những lời xằng bậy, nhưng khi những giáo đồ này xuất hiện thì mọi người như bị mê muội, bỏ mặc người nhà ngăn cản mà nhập giáo.</font>
+story_81523_5=<font face="Default" color="#ffffff" >Chúng ta sau đó mới phát hiện, vẫn là Thanh Phổ Đạo Trưởng báo với chúng ta, trên mảnh giấy đó có kỳ độc mãn tính, người tiếp xúc lâu sẽ không hề hay biết mà bị người hạ độc khống chế, đáng tiếc lúc đó muộn rồi, hầu hết thôn dân đã trúng độc đều đã nhập giáo, Kê Minh Dịch lúc đó thật sự đã bị che phủ bởi tà giáo thần bí này.</font>
+story_81523_6=<font face="Default" color="#ffffff" >Nhưng nói ra cũng kỳ lạ, tà giáo này cũng không bảo những bách tính đó làm gì, chỉ định kỳ đến Thần miếu Bách Lỗ Ca cúng tế và dọn dẹp thần miếu. Thần miếu Bách Lỗ Ca đó to lớn vô cùng, mỗi lần dọn dẹp hàng loạt giáo chúng đều phải tốn nguyên cả một ngày, nhưng ngoài ra, mọi người nên làm ruộng thì làm ruộng, nên dệt vải thì dệt vải, giáo chủ cũng không sai bảo mọi người làm việc gì.</font>
+story_81523_7=<font face="Default" color="#ffffff" >Uhm, chính là ở Hạnh Hoa Thôn đó, xem ra thần miếu trong nửa câu sau mà thiếu hiệp nói "Thần miếu đại thính thú thần điêu tượng ẩn thế chi mật" chính là thần miếu Bách Lỗ Ca rồi, bên trong đúng là có một cái tượng cực lớn.</font>
+story_81523_8=<font face="Default" color="#ffffff" >Tất Gia Hỏa? Giáo chủ tà giáo đó dường như được gọi là Tất giáo chủ</font><font face="Default" color="#ffffff" >.</font>
+story_81523_9=<font face="Default" color="#ffffff" >Đúng vậy, việc thờ cúng của tà giáo đó cũng đã tồn tại được hơn nửa năm, sau đó giáo chủ và giáo đồ cũng không thông báo cho bách tích đến tế tự, các nhà hình như đều được phát thuốc giải, phần lớn các bách tính đều đã tỉnh lại, cũng không đi nữa. Nhưng đệ tử nòng cốt trong giáo có lẽ vẫn chưa giải tán.</font>
+story_81524_1=<font face="Default" color="#ffffff" >Ngươi đến thật đúng lúc, trong bang có đại sự, bang chủ bảo ta dẹp sạch thám tử xung quanh Cái Bang, hiện nhân lực không đủ, ngươi cũng chạy một chuyến xem.</font>
+story_81530_1=<font face="Default" color="#ffffff" >Đây là tai họa của bát đại môn phái trong võ lâm, mấy ngày nay có một nhóm tặc nhân võ công cao cường lần lượt lén vào bát đại môn phái cướp đi bảo vật, đả thương rất nhiều đệ tử,</font> <font face="Default" color="#ffffff" >còn cướp đi Đả Cẩu Bổng Cái Bang ta,</font> <font face="Default" color="#ffffff" >để lại mấy câu nói buộc chúng ta phải hành sự theo sự sai bảo của chúng mới có lại bảo vật.</font>
+story_81530_2=<font face="Default" color="#ffffff" >Tặc nhân chủ sự</font> <font face="Default" color="#ffffff" >cử chỉ kỳ quái, mang áo khoác, che nửa mặt mình, hơn nữa hình như không nói được, trước đây khi chưa xuất hiện trên giang hồ, võ công cũng không có tiếng tăm gì</font><font face="Default" color="#ffffff" >,</font> <font face="Default" color="#ffffff" >làm chưởng môn ta vô cùng ngạc nhiên. Nhưng có thể khẳng định là, nội lực chúng thâm hậu, võ học kỳ lạ, nay ta lệnh ngươi đến điều tra tung tích chúng, nhưng hãy nhớ không được va chạm chính diện.</font>
+story_81530_3=<font face="Default" color="#ffffff" >Trong đệ tử Cái Bang thì ngươi thận trọng nhất, tin tưởng ngươi có thể điều tra rõ ràng. Ngươi đến chỗ đệ tử Cái Bang lần đầu tiên phát hiện tặc nhân đó xem có phát hiện thêm manh mối gì không.</font>
+story_81532_1=<font face="Default" color="#ffffff" >Vị thiếu hiệp này có việc gì?</font>
+story_81532_2=<font face="Default" color="#ffffff" >Đây đều là của nhà phú quý dùng, ta thấy ngay trong nhà thủ phủ Kim Lăng cũng chưa hẳn đã dùng vật liệu này, ta chỉ bán buôn bình thường, hay ngươi đi hỏi lão thợ may Lý sư phụ đi.</font>
+story_81532_3=<font face="Default" color="#ffffff" >Lý sư phụ năm xưa may vá trong cung, tơ lụa vải bố trong thiên hạ không loại nào chưa động tay qua, nay lão sư phụ một mình sống ở ngoại ô Kim Lăng, ngươi đi tìm xem, bình thường Lý sư phụ đều ở nhà.</font>
+story_81533_1=<font face="Default" color="#ffffff" >Thấy trên người ngươi bị thương, điều tra lần này gặp phải kẻ địch ư?</font>
+story_81533_2=<font face="Default" color="#ffffff" >Quả thật có việc này!</font>
+story_81533_3=<font face="Default" color="#ffffff" >Xem ra sự kiện chúng ta điều tra đã bị người ta phát hiện rồi.</font>
+story_81534_1=<font face="Default" color="#ffffff" >Xem ra bọn tặc nhân đó quả nhiên đã phát hiện ra chúng ta đang điều tra tung tích của chúng, thật không ngờ tin tức của hắn nhanh vậy, nói không chừng quanh Cái Bang ta đều có người của hắn giám sát.</font>
+story_81534_2=<font face="Default" color="#ffffff" >Việc này người thường tuyệt đối không làm được, nhất định có tổ chức chặt chẽ, hơn nữa theo thư hắn viết, chúng ta đang lãng phí thời gian, nếu hắn muốn khiển trách,</font> <font face="Default" color="#ffffff" >nói dám điều tra tung tích hắn thì sẽ hủy Đả Cẩu Bổng, còn nói</font> <font face="Default" color="#ffffff" >để chúng ta đến sau núi phá miếu thu thập thi thể, ta nghi ngờ có một số Đệ Tử Cái Bang đã gặp nạn, ngươi mau đến sau núi xem thử.</font>
+story_81535_1=<font face="Default" color="#ffffff" >Tên tặc nhân đó cùng tổ chức sau hắn có lai lịch thật lớn, chúng ta đành tùy cơ ứng biến vậy, ta định sắp xếp một số đệ tử đến Cấm Địa điều tra manh mối tặc nhân nói, tạm thời dựa vào yêu cầu hắn để hành sự. Nhưng việc này thật nguy hiểm, ta cũng không bắt buộc mọi người tham gia.</font>
+story_81535_2=<font face="Default" color="#ffffff" >Tâm ý ngươi ta đã biết, chỉ là võ lâm ngày nay đã không còn như trước, nay ngươi mới tu luyện Tửu Vũ Thần Công, ta e sức ngươi vẫn chưa đủ</font>
+story_81535_3=
+story_81536_1=<font face="Default" color="#ffffff" >Cảm thấy đỡ nhiều rồi, thật làm phiền ngươi.</font>
+story_81536_2=<font face="Default" color="#ffffff" >Ngươi </font> <font face="Default" color="#ffffff" >khách khí rồi, có việc gì cần ta giúp hãy nói đi.</font>
+story_81536_3=<font face="Default" color="#ffffff" >Nhắc đến thật hổ thẹn, hôm đó lúc phát hiện tên tặc nhân đó liền bị hắn đánh ngất, thật không nhớ được manh mối nào cả. Đều do thực lực ta yếu khó giữ lại người này.</font>
+story_81537_1=<font face="Default" color="#ffffff" >Ừ, loại tơ lụa này rất quý hiếm, manh mối này rất quan trọng, ngươi làm tốt lắm. Mấy đệ tử bị tên tặc nhân sát thương hiện dang cần thuốc, ngươi đi một chuyến nhé. Nhân tiện hỏi họ xem có manh mối gì khác không.</font>
+story_81538_1=<font face="Default" color="#ffffff" >Tạm thời không phải nói lúc này, Tất Gia Hỏa hình như đã bị người đánh trọng thương, đang ngồi thiền trị thương.</font>
+story_81538_2=<font face="Default" color="#ffffff" >Tuyệt đối không được sơ suất, Tất Gia Hỏa trãi qua mấy năm tu luyện công lực thâm hậu, nếu không hắn không bị thương thì ngươi không phải là đối thủ, quanh hắn lại có giáo đồ trung thành tương trợ, muốn đánh bại hắn không phải là việc dễ.</font> <font face="Default" color="#ffffff" >Ta vừa tiến lên tấn công hắn, nhưng lại bị lệ khí liệu thương lcủa hắn sát thương.</font>
+story_81538_3=<font face="Default" color="#ffffff" >May mà ta đã nghiên cứu được cách đối phó hắn.</font> <font face="Default" color="#FF0000">Tất Gia Hỏa hiện đang dùng nội công trị thương Âm Độc, khiến lệ khí trong cơ thể phát tán khắp nơi, người đứng gần sẽ trúng phải lệ khí, duy trì chịu sát thương, giảm tốc độ di chuyển và khinh công, nếu không rời đi ngay, trạng thái lệ khí sẽ tăng lên, chịu sát thương càng lớn.</font>
+story_81538_4=<font face="Default" color="#ffffff" >Nếu chỉ là lệ khí, lão phu vẫn có thể đối chiến với hắn.</font> <font face="Default" color="#FF0000">Chỉ là khi hắn trị thương còn phát ra một luồng chân khí hộ thể, người thường không thể phá được luồng chân khí này.</font>
+story_81538_5=<font face="Default" color="#ffffff" >Lão phu tuy bị thương, nhưng khi giao đấu cùng giáo đồ môn hạ của hắn phát hiện, chân khí hộ thể của Tất Gia Hỏa ảnh hưởng đến giáo đồ ở gần hắn, giúp nó đốt cháy khí huyết tăng cường thực lực.</font>
+story_81538_6=<font face="Default" color="#FF0000">Nhưng nếu nhân lúc giáo đồ hắn đốt cháy hết khí huyết thì tấn công hắn, sẽ rơi 1 Chân Khí Nguyên.</font> <font face="Default" color="#ffffff" >Chân Khí Nguyên này là do giáo đồ của hắn không thể hấp thu hết ảnh hưởng chân khí của Tất Gia Hỏa mà rơi.</font> <font face="Default" color="#FF0000">Ngươi chỉ cần hấp thu luồng Chân Khí Nguyên này, tạm sở hữu chân khí của hắn, như vậy có thể bỏ qua chân khí hộ thể, trực tiếp sát thương hắn.</font>
+story_81538_7=<font face="Default" color="#ffffff" >Một lúc nói nhiều vậy e là ngươi khó mà nhớ hết, ngươi hãy thử giao đấu với hắn, hiện Tất Gia Hỏa vẫn đang bị thương, không thể cử động, chỉ có thể trị thương tại chỗ, ngươi chớ để lệ khí hắn ảnh hưởng quá nặng là được. Nếu có gì không rõ, cứ đến hỏi ta.</font>
+story_81542_1=<font face="Default" color="#ffffff" >Ngươi đâu biết! Đan Thư Thiết Khoán này là vật truyền thế, lúc quan trọng có thể tiêu trừ kiếp nạn cho môn phái. </font>
+story_81542_2=<font face="Default" color="#ffffff" >Hừm! Nhiều năm gần đây hắn đã có ý định thu hồi Thiết Khoán, chỉ là chưa có lí do gì. Lần này lợi dụng chuyện Ma Đao Đường để lấy cớ mà thôi.</font>
+story_81543_1=<font face="Default" color="#ffffff" >Nay thời buổi loạn lạc, hoàng thượng vừa thu hồi Đan Thư Thiết Khoán, khó đảm bảo hắn sẽ không tìm cớ gây chuyện với bát đại phái</font><font face="Default" color="#ffffff" >...</font>
+story_81543_2=<font face="Default" color="#ffffff" >Được! được! Trên huyết thư viết chúng đang ở cạnh Kim Lăng Minh Kính Hồ, ngươi hãy khởi hành ngay.</font>
+story_81544_1=<font face="Default" color="#ffffff" >Việc này ngươi không nên tham gia, hành sự lỗ mãng chỉ rước họa vào thân. Có lẽ ban đầu cướp pháp trường là một sai lầm, ài!</font>
+story_menu_81501=<font face="Default" color="#ffffff" >Không biết Đàm trưởng lão muốn ta đến làm chuyện gì?</font>
+story_menu_81502=<font face="Default" color="#ffffff" >Quý Tuấn huynh biết câu "Trận phá miếu tàn sát đồng môn bất nhân bất nghĩa, mười năm dưỡng dục một ngày làm phản bất trung bất hiếu" là chỉ ai không? Có phải là chuyện xảy ra ở Cái Bang 8 năm trước?</font>
+story_menu_81503=<font face="Default" color="#ffffff" >Hoắc Nhượng hương chủ,</font> <font face="Default" color="#ffffff" >may mà không phụ lòng cấp trên</font><font face="Default" color="#ffffff" >. </font>
+story_menu_81504=<font face="Default" color="#ffffff" >Đàm trưởng lão,</font> <font face="Default" color="#ffffff" >vậy bước tiếp theo nên làm sao?</font>
+story_menu_81505=<font face="Default" color="#ffffff" >Đàm trưởng lão, đệ tử có việc bẩm báo.</font>
+story_menu_81506=<font face="Default" color="#ffffff" >Vị huynh đài này có thể nói chuyện được không?</font>
+story_menu_81508=<font face="Default" color="#ffffff" >Sử trang chủ, tại hạ là Đệ Tử Cái Bang đến cầu kiến.</font>
+story_menu_81509=<font face="Default" color="#ffffff" >Đàm trưởng lão, đệ tử đã hỏi thăm Sử trang chủ năm đó Tất Gia Hỏa đã lấy đi vật gì.</font>
+story_menu_81511=<font face="Default" color="#ffffff" >Đàm trưởng lão, đệ tử đến bái kiến.</font>
+story_menu_81512=<font face="Default" color="#ffffff" >Lý trấn trưởng, tại hạ đệ tử Cái Bang muốn hỏi người vài việc, có phiền không.</font>
+story_menu_81514=<font face="Default" color="#ffffff" >Thanh Phố đạo trưởng, tại hạ đệ tử Cái Bang đến bái kiến.</font>
+story_menu_81520=<font face="Default" color="#ffffff" >Tiết tổng tiêu đầu, tại hạ đệ tử Cái Bang đến cầu kiến.</font>
+story_menu_81521=<font face="Default" color="#ffffff" >Du tiêu sư, tại hạ đệ tử Cái Bang muốn hỏi thăm người một việc.</font>
+story_menu_81522=<font face="Default" color="#ffffff" >Đàm trưởng lão, đệ tử may mắn không làm phụ lòng cấp trên, từ Yến Kinh tiêu cục mang về một vài manh mối.</font>
+story_menu_81523=<font face="Default" color="#ffffff" >Trấn trưởng, mấy hộ thiếp</font> <font face="Default" color="#ffffff" >của</font> <font face="Default" color="#ffffff" > Hộ Nhân Gia ta đã gửi đi rồi.</font>
+story_menu_81524=<font face="Default" color="#ffffff" >Hoắc Nhượng hương chủ, đã lâu không gặp</font><font face="Default" color="#ffffff" >.</font>
+story_menu_81530=<font face="Default" color="#ffffff" >Bang chủ đã xảy ra chuyện gì?</font>
+story_menu_81532=<font face="Default" color="#ffffff" >Thợ May Lữ, xin chào.</font>
+story_menu_81533=<font face="Default" color="#ffffff" >Khởi bẩm bang chủ, đệ tử từ Kim Lăng trở về rồi.</font>
+story_menu_81534=<font face="Default" color="#ffffff" >Bang chủ, bức thư đó đâu?</font>
+story_menu_81535=<font face="Default" color="#ffffff" >Bang chủ, giờ chúng ta nên làm thế nào?</font>
+story_menu_81536=<font face="Default" color="#ffffff" >Đào huynh, giờ huynh thấy sao rồi?</font>
+story_menu_81537=<font face="Default" color="#ffffff" >Bang chủ, ta đã phát hiện mảnh áo rách này, xem ra chất liệu rất hiếm.</font>
+story_menu_81538=<font face="Default" color="#ffffff" >Đàm trưởng lão, sao ông lại ở đây?</font>
+story_menu_81542=<font face="Default" color="#ffffff" >Đan Thư Thiết Khoán này quan trọng vậy ư?</font>
+story_menu_81543=<font face="Default" color="#ffffff" >Ta muốn đến cứu viện, để chuộc lại lỗi lầm!</font>
+story_menu_81544=<font face="Default" color="#ffffff" >Bang chủ</font><font face="Default" color="#ffffff" >, thì ra Tứ Đại Khấu bọn họ hộ tống mẫu tử Phụng Phi tiểu thiếp của Đinh Cửu Trùng, nhưng đã gặp phải độc thủ của Ma Đao Đường.</font>
+storyinfo_81501=Nghe <a href="findnpc_new,school02,gb161" style="HLStype1">Đàm Sĩ Cương</a> kể chuyện
+storyinfo_81502=Nghe <a href="findnpc_new,school02,gb122" style="HLStype1">Quý Tuấn</a> kể chuyện
+storyinfo_81503=Nghe <a href="findnpc_new,school02,WorldNpc03005" style="HLStype1">Hoắc Nhượng</a> nói
+storyinfo_81504=Nghe <a href="findnpc_new,school02,gb161" style="HLStype1">Đàm Sĩ Cương</a> kể chuyện
+storyinfo_81505=Nghe <a href="findnpc_new,school02,gb161" style="HLStype1">Đàm Sĩ Cương</a> kể chuyện
+storyinfo_81506=Nghe <a href="findnpc_new,school02,NPC_4nei_gb001" style="HLStype1">NPC_4nei_gb001</a> kể chuyện
+storyinfo_81508=Nghe <a href="findnpc_new,school02,WorldNpc03041" style="HLStype1">Sử Thư Ưng</a> kể chuyện
+storyinfo_81509=Nghe <a href="findnpc_new,school02,gb161" style="HLStype1">Đàm Sĩ Cương</a> kể chuyện
+storyinfo_81511=Nghe <a href="findnpc_new,school02,gb161" style="HLStype1">Đàm Sĩ Cương</a> kể chuyện
+storyinfo_81512=Đến Kê Minh Dịch tìm <a href="findnpc_new,born01,WorldNpc10673" style="HLStype1">Lý Phú Quý</a> trấn trưởng
+storyinfo_81514=Nghe <a href="findnpc_new,born01,WorldNpc10645" style="HLStype1">Thanh Phố</a> kể chuyện
+storyinfo_81515=Nghe <a href="findnpc_new,school02,gb124" style="HLStype1">Hữu Ngự</a> kể chuyện
+storyinfo_81519=Nghe <a href="findnpc_new,city01,NPC_4nei_gb001" style="HLStype1">NPC_4nei_gb001</a> kể chuyện
+storyinfo_81520=Nghe <a href="findnpc_new,city01,WorldNpc08209" style="HLStype1">Tiết Kiếm</a> kể chuyện
+storyinfo_81521=Nghe <a href="findnpc_new,city01,WorldNpc08959" style="HLStype1">Du Bảo Vĩnh</a> kể chuyện
+storyinfo_81522=Nghe <a href="findnpc_new,school02,gb161" style="HLStype1">Đàm Sĩ Cương</a> kể chuyện
+storyinfo_81523=Nghe <a href="findnpc_new,born01,WorldNpc10673" style="HLStype1">Lý Phú Quý</a> kể chuyện
+storyinfo_81524=Nghe <a href="findnpc_new,school02,WorldNpc03005" style="HLStype1">Hoắc Nhượng</a> nói
+storyinfo_81530=Nghe <a href="findnpc_new,school02,WorldNpc03003" style="HLStype1">Tiêu Thiên Phóng</a> kể
+storyinfo_81532=Nghe <a href="findnpc_new,city03,NPC_4nei_gb004" style="HLStype1">Lữ Thu Địch</a> kể chuyện
+storyinfo_81533=Nghe <a href="findnpc_new,school02,WorldNpc03003" style="HLStype1">Tiêu Thiên Phóng</a> kể
+storyinfo_81534=Nghe <a href="findnpc_new,school02,WorldNpc03003" style="HLStype1">Tiêu Thiên Phóng</a> kể
+storyinfo_81535=Nghe <a href="findnpc_new,school02,WorldNpc03003" style="HLStype1">Tiêu Thiên Phóng</a> kể
+storyinfo_81536=Nghe <a href="findnpc_new,school02,gb099" style="HLStype1">Đào Tố</a> kể chuyện
+storyinfo_81537=Nghe <a href="findnpc_new,school02,WorldNpc03003" style="HLStype1">Tiêu Thiên Phóng</a> kể
+storyinfo_81538=Đến <a href="findnpc_new,born01,PlotDoor00040" style="HLStype1">Bạch Lỗ Ca Thần Miếu</a> tìm xem có <a href="findnpc_new,born01,NPC_4nei_gb003" style="HLStype1">manh mối</a> gì không
+storyinfo_81539=Nghe <a href="findnpc_new,school02,gb161" style="HLStype1">Đàm Sĩ Cương</a> kể chuyện
+storyinfo_81542=Nghe <a href="findnpc_new,school02,WorldNpc03003" style="HLStype1">Tiêu Thiên Phóng</a> kể
+storyinfo_81543=Nghe <a href="findnpc_new,school02,WorldNpc03003" style="HLStype1">Tiêu Thiên Phóng</a> kể
+storyinfo_81544=Nghe <a href="findnpc_new,school02,WorldNpc03003" style="HLStype1">Tiêu Thiên Phóng</a> kể
+storymenu_81501_1=<font face="Default" color="#ffffff" > (Trong lòng</font> <font face="Default" color="#ffffff" >không rõ</font><font face="Default" color="#ffffff" > ngươi nói là lần nào?) Đệ tử có biết đôi điều.</font>
+storymenu_81501_2=<font face="Default" color="#ffffff" >Ồ? Là lời nói gì chứ?</font>
+storymenu_81501_3=<font face="Default" color="#ffffff" >Việc này!...Đệ tử nhất định dốc sức làm.</font>
+storymenu_81502_1=<font face="Default" color="#ffffff" >Tất Gia Hỏa? Ta nhớ lúc đầu đã nghe nói về người này, lẽ nào người thần bí ngươi nói chính là hắn, nhưng ta phải đi đâu tìm chứ?</font>
+storymenu_81502_2=<font face="Default" color="#ffffff" >Ừ, vậy ta đến thỉnh giáo Hoắc Nhượng hương chủ.</font>
+storymenu_81503_1=<font face="Default" color="#ffffff" >Đệ tử đến vì chuyện này, mong Hoắc hương chủ giúp đỡ.</font>
+storymenu_81503_2=<font face="Default" color="#ffffff" >Ta muốn hỏi hương chủ tin tức của Tất Gia Hỏa, theo điều tra của đệ tử</font> <font face="Default" color="#ffffff" >người thần bí mà Đàm trưởng lão bảo đệ tử đi tìm chính là phản đồ Tất Gia Hỏa năm đó.</font>
+storymenu_81503_3=<font face="Default" color="#ffffff" >Đệ tử hiểu!</font>
+storymenu_81504_1=<font face="Default" color="#ffffff" >Ồ? Câu nói thứ 2 là gì chứ?</font>
+storymenu_81504_2=<font face="Default" color="#ffffff" >Việc này, dường như nói đến việc Tất Gia Hỏa tái xuất giang hồ.</font>
+storymenu_81504_3=<font face="Default" color="#ffffff" >Đệ tử tuân lệnh!</font>
+storymenu_81505_1=<font face="Default" color="#ffffff" >Quả thật như vậy, qua đệ tử điều tra, 24 chữ nghiên cứu được ở Dương Bì Tàn Phiến của Cấm Địa đó là chỉ tên phản đồ Tất Gia Hỏa của Cái Bang năm đó</font><font face="Default" color="#ffffff" >.</font>
+storymenu_81505_2=<font face="Default" color="#ffffff" >Đệ tử đã tìm Hoắc Nhượng hương chủ, đáng tiếc mấy tháng gần đây, trên giang hồ không có tin tức gì của Tất Gia Hỏa.</font>
+storymenu_81505_3=<font face="Default" color="#ffffff" >Đa tạ trưởng lão, đệ tử tuân lệnh!</font>
+storymenu_81506_1=<font face="Default" color="#ffffff" >Vừa nhìn đã biết ta là đệ tử Cái Bang, xem ra ngươi quả là Tất Gia Hỏa.</font>
+storymenu_81506_2=<font face="Default" color="#ffffff" >Người minh bạch không nói lời mờ ám, lần này đến chỉ là muốn hỏi tung tích Đả Cẩu Bổng bổn bang...</font>
+storymenu_81506_3=<font face="Default" color="#ffffff" >Ngươi đừng có ngụy biện, theo điều tra, các manh mối để lại cấm địa Cái Bang đều có liên quan đến ngươi, tuy nói là kẻ Nha Bộc thần bí đó cướp đi. Nhưng ta biết ngươi chắc chắn biết rõ đôi điều.</font>
+storymenu_81506_4=<font face="Default" color="#ffffff" >Ngươi! Cái Bang dưỡng dục ngươi hơn 10 năm, nay Cái Bang gặp nạn, lẽ nào ngươi thật sự muốn mình là phản đồ bất trung bất hiếu bất nhân bất nghĩa ư!</font>
+storymenu_81506_5=<font face="Default" color="#ffffff" >Chuyện năm đó, thật sự là sai lầm của mấy người Hồng Bảo, nhưng ngươi đã phạm phải sai lầm ra tay sát hại hai vị sư huynh đệ là sự thực không thể tranh cãi.</font>
+storymenu_81506_6=<font face="Default" color="#ffffff" >Thì ra là vậy</font>
+storymenu_81508_1=<font face="Default" color="#ffffff" >Tại hạ phụng mệnh Đàm Sĩ Cương trưởng lão</font> <font face="Default" color="#ffffff" >đến</font><font face="Default" color="#ffffff" >, </font> <font face="Default" color="#ffffff" >hỏi</font> <font face="Default" color="#ffffff" >Sử trang chủ</font> <font face="Default" color="#ffffff" >một số tin tức.</font>
+storymenu_81508_3=<font face="Default" color="#ffffff" >Quả thật có loại linh thú này!</font>
+storymenu_81508_4=<font face="Default" color="#ffffff" >Đa tạ Sử trang chủ chỉ bảo!</font>
+storymenu_81509_1=<font face="Default" color="#ffffff" >Đúng, Cửu Vĩ Linh Hồ, sao Đàm trưởng lão biết chứ?</font>
+storymenu_81509_2=<font face="Default" color="#ffffff" >Việc này? Trưởng lão nói chính là lần Cái Bang bị tặc nhân hành thích ư?</font>
+storymenu_81509_4=<font face="Default" color="#ffffff" > (Rõ ràng là manh mối ta tìm được…) vậy nay phải làm sao?</font>
+storymenu_81509_5=<font face="Default" color="#ffffff" >Có lẽ chúng và Tất Gia Hỏa cũng đối đầu? Cũng có thể Tất Gia Hỏa và bọn tặc nhân này đang tranh chấp nội bộ?</font>
+storymenu_81509_6=<font face="Default" color="#ffffff" >Đệ tử rõ rồi.</font>
+storymenu_81511_1=<font face="Default" color="#ffffff" >Nói cái gì?</font>
+storymenu_81511_2=<font face="Default" color="#ffffff" >Đệ tử đi thăm dò xem sao.</font>
+storymenu_81511_3=<font face="Default" color="#ffffff" >Đệ tử tuân lệnh!</font>
+storymenu_81512_1=<font face="Default" color="#ffffff" >Không biết có chuyện gì khiến trấn trưởng lo lắng? Có thể ta sẽ giúp được gì.</font>
+storymenu_81512_2=<font face="Default" color="#ffffff" >Hộ Thiếp? Cái này dùng để làm gì?</font>
+storymenu_81512_3=<font face="Default" color="#ffffff" >Trấn trưởng chuyện vặt này cứ giao cho ta, ta thay người đi một chuyến.</font>
+storymenu_81512_4=<font face="Default" color="#ffffff" >Yên tâm đi, trấn trưởng!</font>
+storymenu_81514_1=<font face="Default" color="#ffffff" >Là Lý Phú Quý trấn trưởng giới thiệu tại hạ tới, muốn hỏi người chuyện Kê Minh Dịch, không biết đạo trưởng có tiện nói cho ta hay không.</font>
+storymenu_81514_2=<font face="Default" color="#ffffff" >Sao đạo trưởng biết?</font>
+storymenu_81514_3=<font face="Default" color="#ffffff" >Thật không dám giấu, Cái Bang cũng do bị ép nên mới đến điều tra chuyện này, có 1 tặc nhân để lại 3 câu đố để Cái Bang giải đáp, nay chỉ còn lại 1 câu sau cùng.</font>
+storymenu_81514_4=<font face="Default" color="#ffffff" >Nhắc đến "Mạc Hà Tiểu Trấn bị tà giáo thần bí mai phục nhiều năm, tượng thú thần ở đại sảnh thần miếu ẩn chứa nhiều bí mật ",</font> <font face="Default" color="#ffffff" >tại hạ đã biết được tin tức tà giáo thần bí ở chỗ Lý trấn trưởng, muốn hỏi người việc này có phải liên quan đến Tất Gia Hỏa không?</font>
+storymenu_81514_5=<font face="Default" color="#ffffff" >Nhiệm vụ gì chứ? Lẽ nào là tạo lập thần bí tà giáo này?</font>
+storymenu_81514_6=<font face="Default" color="#ffffff" >Chả trách triệu tập nhiều bách tánh đến Bạch Lỗ Ca Thần Miếu tế bái, thì ra là để tìm đồ.</font> <font face="Default" color="#ffffff" >Vậy sau đó họ có tìm thấy không?</font>
+storymenu_81514_7=<font face="Default" color="#ffffff" >Thì ra là vậy, đạo trưởng có biết</font> <font face="Default" color="#ffffff" >hiện Tất Gia Hỏa ở đâu không?</font> <font face="Default" color="#ffffff" >hắn lại tái xuất giang hồ là có ý gì?</font>
+storymenu_81514_8=<font face="Default" color="#ffffff" >Đa tạ đạo trưởng chỉ bảo.</font>
+storymenu_81520_1=<font face="Default" color="#ffffff" >Đệ tử phụng lệnh</font> <font face="Default" color="#ffffff" >Đàm Sĩ Cương trưởng lão</font> <font face="Default" color="#ffffff" >đến đến hỏi thăm Tiết tiêu đầu một số tin tức.</font>
+storymenu_81520_2=<font face="Default" color="#ffffff" >Đa tạ Tiết tiêu đầu, thực ra việc này vẫn phải nhắc đến mấy tháng trước. Lúc đó đệ tử Cái Bang đến Yến Kinh áp tiêu, nhớ lúc đó Tiết tiêu đầu từng nhắc đến việc Tất Gia Hỏa tái xuất giang hồ.</font>
+storymenu_81520_3=<font face="Default" color="#ffffff" >Vãn bối muốn nhanh chóng</font> <font face="Default" color="#ffffff" >tra rõ việc cướp tiêu của Tất Gia Hỏa lúc đó, phiền tiêu sư nói rõ sự tình năm đó được không.</font>
+storymenu_81520_4=<font face="Default" color="#ffffff" >Đa tạ Tiết tổng tiêu đầu.</font>
+storymenu_81521_1=<font face="Default" color="#ffffff" >Mấy tháng trước Tất Gia Hỏa tái xuất giang hồ, trong một lần cướp tiêu bị người phát hiện thân phận, tại hạ muốn nhanh chóng làm rõ tình hình cướp tiêu của hắn lúc đó.</font>
+storymenu_81521_2=<font face="Default" color="#ffffff" >Mấy người? Nói như vậy Tất Gia Hỏa có đồng bọn ư?</font>
+storymenu_81521_3=<font face="Default" color="#ffffff" >Nếu như vậy, Tất Gia Hỏa hình như là thủ lĩnh của bọn người đó, chỉ đến sau này mới xuất hiện.</font>
+storymenu_81521_4=<font face="Default" color="#ffffff" >Đa tạ Du huynh đã báo, ta đi xem ngay.</font>
+storymenu_81522_1=<font face="Default" color="#ffffff" >Năm đó Tất Gia Hỏa cùng một nhóm người cướp tiêu, nhưng hắn là người xuất hiện sau cùng, rất có thể là thủ lĩnh của bọn người đó.</font>
+storymenu_81522_2=<font face="Default" color="#ffffff" >Tiêu mà chúng đã cướp là của Đường Môn vận chuyển, vốn là xe binh khí độc môn của Đường Môn. Ngoài ra tiêu sư trong hiện trường bị nữ tử cướp tiêu đả thương, vết thương lưu lại mấy độc châm kỳ lạ, chắc là binh khí của nữ tử đó.</font>
+storymenu_81522_3=<font face="Default" color="#ffffff" >Đệ tử tuân lệnh!</font>
+storymenu_81523_1=<font face="Default" color="#ffffff" >Trấn trưởng ta muốn hỏi người một câu, về chuyện của Mạc Hà Trấn.</font>
+storymenu_81523_10=<font face="Default" color="#ffffff" >Đa tạ trấn trưởng đã báo.</font>
+storymenu_81523_2=<font face="Default" color="#ffffff" >"Mạc Hà Tiểu Trấn bị tà giáo thần bí mai phục nhiều năm, tượng thú thần ở đại sảnh thần miếu ẩn chứa nhiều bí mật"</font> <font face="Default" color="#ffffff" >Không biết việc nói đến ở đây là chuyện của Mạc Hà Trấn? Hay là nói đến người nào?</font>
+storymenu_81523_3=<font face="Default" color="#ffffff" >Quả nhiên có chuyện tà giáo thần bí, trấn trưởng người có thể nói rõ hơn không? Sau đó làm sao để gải tán</font> <font face="Default" color="#ffffff" >số bách tánh nhập giáo đó</font><font face="Default" color="#ffffff" >.</font>
+storymenu_81523_4=<font face="Default" color="#ffffff" >Lẽ nào mảnh giấy đó có vấn đề?</font>
+storymenu_81523_5=<font face="Default" color="#ffffff" >Thật có việc này ư?</font>
+storymenu_81523_6=<font face="Default" color="#ffffff" >Bạch Lỗ Ca Thần Miếu?</font>
+storymenu_81523_7=<font face="Default" color="#ffffff" >Xem ra ta phải đến Bạch Lỗ Ca Thần Miếu một chuyến.</font> <font face="Default" color="#ffffff" >Đa tạ trấn trưởng đã báo, ta còn muốn hỏi thăm một người, người từng nghe qua Tất Gia Hỏa không?</font>
+storymenu_81523_8=<font face="Default" color="#ffffff" >Thì ra là vậy, như vậy là đúng rồi, vậy hiện nay ma giáo này còn không? Ta nhớ người đã từng nói bách tánh đều đã giải tán?</font>
+storymenu_81523_9=<font face="Default" color="#ffffff" >Nghe có vẻ như tà giáo này muốn lợi dùng bách tánh để tìm vật gì đó ở Bạch Lỗ Ca Thần Miếu, sau đó có thể đã tìm được hoặc đã từ bỏ không tìm nữa.</font>
+storymenu_81524_1=<font face="Default" color="#ffffff" >Việc này, đệ tử tuân lệnh!</font>
+storymenu_81530_1=<font face="Default" color="#ffffff" >Quả thật có việc này!</font>
+storymenu_81530_2=<font face="Default" color="#ffffff" >Đệ tử xin ghi nhớ!</font>
+storymenu_81530_3=<font face="Default" color="#ffffff" >Đệ tử tuân lệnh!</font>
+storymenu_81532_1=<font face="Default" color="#ffffff" >Ta muốn hỏi ông một việc, chất liệu y phục này dường như rất hiếm, xin hỏi ông đã từng làm loại y phục chất liệu tương tự vậy không?</font>
+storymenu_81532_2=<font face="Default" color="#ffffff" >Thế à, Lý sư phụ biết không?</font>
+storymenu_81532_3=<font face="Default" color="#ffffff" >Đa tạ ngài.</font>
+storymenu_81533_1=<font face="Default" color="#ffffff" >Bang chủ anh minh, ta theo lời Thợ May Lữ đến ngoại thành Kim Lăng tìm người Thợ May Lý từng làm việc trong cung, ai ngờ lại bị tặc nhân mai phục.</font>
+storymenu_81533_2=<font face="Default" color="#ffffff" >Tuy ta đã đánh bại kẻ địch, nhưng người thợ may đó đã bị sát hại, về việc chất liệu y phục mà Thợ May Lữ nói hiếm gặp đó cũng không rõ nguồn gốc từ đâu, chỉ có thể hỏi Thợ May Lý đó thôi.</font>
+storymenu_81533_3=<font face="Default" color="#ffffff" >Vậy tiếp theo làm gì đây?</font>
+storymenu_81534_1=<font face="Default" color="#ffffff" >Người này quả thật rất to gan.</font>
+storymenu_81534_2=<font face="Default" color="#ffffff" >Đệ tử tuân lệnh!</font>
+storymenu_81535_1=<font face="Default" color="#ffffff" >Cái Bang đối mặt với nguy cơ như vậy, thân là đệ tử Cái Bang lẽ nào lại lùi bước! Đệ tử nguyện đến đó, xin bang chủ chấp thuận!</font>
+storymenu_81535_2=<font face="Default" color="#ffffff" >Bang chủ, đệ tử đã lưu lạc giang hồ nhiều năm, lần này chủ yếu là điều tra manh mối, đệ tử tuyệt không nhất thời nông nổi, xin bang chủ chấp thuận.</font>
+storymenu_81535_3=
+storymenu_81536_1=Đào huynh chớ nên đa lễ, lần này đến còn có một chuyện nhờ Đào huynh giúp đỡ.
+storymenu_81536_2=<font face="Default" color="#ffffff" >Ta phụng mệnh đến điều tra tung tích tặc nhân cướp Đả Cẩu Bổng, muốn hỏi</font> <font face="Default" color="#ffffff" >Đào huynh</font> <font face="Default" color="#ffffff" >có manh mối gì liên quan không.</font>
+storymenu_81536_3=<font face="Default" color="#ffffff" >Đào huynh không nên tự trách mình,</font> <font face="Default" color="#ffffff" >đây vốn là kẻ địch chung của Cái Bang, chúng ta phải vạch rõ chân tướng của người này, ngươi hãy yên tâm dưỡng thương.</font>
+storymenu_81537_1=<font face="Default" color="#ffffff" >Đệ tử tuân lệnh.</font>
+storymenu_81538_1=<font face="Default" color="#ffffff" >Đây là cơ hội tốt để chúng ta lấy lại Đả Cẩu Bổng, để ta hàng phục hắn.</font>
+storymenu_81538_2=<font face="Default" color="#ffffff" >Quả có việc này.</font>
+storymenu_81538_3=<font face="Default" color="#ffffff" >Hắn đã bị thương mã vẫn lợi hại vậy quá.</font>
+storymenu_81538_4=<font face="Default" color="#ffffff" >Việc này, nên giải quyết sao?</font>
+storymenu_81538_5=<font face="Default" color="#ffffff" >Việc này chẳng phải là khó đối phó sao?</font>
+storymenu_81538_6=<font face="Default" color="#ffffff" >Phiền phức vậy ư.</font>
+storymenu_81538_7=<font face="Default" color="#ffffff" >Đệ tử tuân lệnh!</font>
+storymenu_81542_1=<font face="Default" color="#ffffff" >A! Tên hoàng thượng đó lần này thu hồi há chả phải có ý định gì sao?</font>
+storymenu_81542_2=<font face="Default" color="#ffffff" >Vậy chẳng phải ta đã gây ra họa lớn rồi sao?</font>
+storymenu_81543_1=<font face="Default" color="#ffffff" >Bang chủ yên tâm</font><font face="Default" color="#ffffff" >, đại trượng phu đầu đội trời chân đạp đất,</font> <font face="Default" color="#ffffff" >mọi hành động lần này</font> <font face="Default" color="#ffffff" >đều do một mình ta gánh chịu,</font> <font face="Default" color="#ffffff" >không liên quan đến Cái Bang!</font>
+storymenu_81543_2=<font face="Default" color="#ffffff" >Được, ta đi ngay.</font>
+storymenu_81544_1=<font face="Default" color="#ffffff" >Sao Ma Đao Đường lại gọi Đinh Cửu Trùng và Tứ Đại Khấu là Ma Giáo? Ban đầu chúng ta liên thủ với triều đình chống lại Ma Giáo, nay sao lại giúp bọn Ma Giáo?</font>
+useiteminfo_81501=Giúp <a href="findnpc_new,school02,gb099" style="HLStype1">Đào Tố</a> dùng <a href="TASK_ITEM,Item_4nei_gb006" style="HLStype1">Kim Sang Dược</a>
+DialogID_81529=<font face="Default" color="#ffffff" >Các đệ tử đã thông báo cho ta biết cả rồi, Đường Châm ngươi cần ta đã chuẩn bị xong</font><font face="Default" color="#ffffff" >.</font>
+DialogID_81530=<font face="Default" color="#ffffff" >Những món dược này ta đã chuẩn bị xong hết rồi, ngươi đem đến cho Tiêu bang chủ đi.</font>
+DialogID_81531=<font face="Default" color="#ffffff" >Ngươi đã trở về rồi.</font>
+QiecuoMenu_81507=<font face="Default" color="#ffffff" >Đem ngựa qua đây!</font>
+QiecuoMenu_81514=<font face="Default" color="#ffffff" >Thả ngựa qua đây đi!</font>
+QiecuoTitle_81507=<font face="Default" color="#ffffff" >Ta sẽ không nương tay đâu, cẩn thận!</font>
+QiecuoTitle_81514=<font face="Default" color="#ffffff" >Ngươi chuẩn bị xong chưa?</font>
+collectinfo_81507=Đến <a href="findnpc_new,born03,PlotDoor5neigbqz002" style="HLStype1">Thê Phụng Sơn</a> bắt Hươu, lấy được Nhung Hươu (Dùng đạo cụ Bẫy Bắt Thú, lúc Hươu đi ngang qua có thể bắt được, dùng Bạc Khóa để mua Bẫy Bắt Thú tại Lão Lang)
+collectinfo_81509=Thu thập <a href="findnpc_new,," style="HLStype1"></a>Hổ Cốt
+collectinfo_81510=Thu thập <a href="findnpc_new,," style="HLStype1"></a>Đường Châm
+collectinfo_81511=Tiêu diệt <a href="findnpc_new,school02,monm021100" style="HLStype1">Cự Hùng</a>, thu thập <a href="findnpc_new,," style="HLStype1"></a>Tay Gấu
+hunterinfo_81507=Đánh bại <a href="findnpc_new,city02,5nei_gbmdt001" style="HLStype1">Lý Lập</a>
+hunterinfo_81508=Tiêu diệt <a href="findnpc_new,city02,NPC_5nei_gbzd001" style="HLStype1">Trần Vạn Tam</a>
+hunterinfo_81509=Đánh bại <a href="findnpc_new,city02,NPC_5nei_gbzd002" style="HLStype1">Lư Vương Tử</a>
+hunterinfo_81510=Đánh bại <a href="findnpc_new,city02,NPC_5nei_gbzd003" style="HLStype1">Ngô Cao Quan</a>
+hunterinfo_81513=Đánh bại <a href="findnpc_new,adv031,NPC_5nei_gbzd004" style="HLStype1">Kim Chính Cừu</a>
+hunterinfo_81514=Khiêu chiến <a href="findnpc_new,school02,NPC_5nei_gbysx001" style="HLStype1">Yến Song Hành</a>
+interactinfo_81524=Trò chuyện với <a href="findnpc_new,born03,yyz068" style="HLStype1">Trịnh Kiện</a>
+interactinfo_81526=Đến Tô Châu <a href="findnpc_new,city02,EventNpc_5nei_gb002" style="HLStype1">Tửu Lâu</a> tìm thư sinh Liên Thanh Thành và bảo vệ hắn.
+interactinfo_81527=Lên thuyền đi Không Cốc
+interactinfo_81528=Đuổi đến <a href="findnpc,adv031,175,19,31" style="HLStype1">phía trước</a> xem sao
+interactinfo_81529=Đến y sư <a href="findnpc_new,school05,tm047" style="HLStype1">Đường Như Hải</a> lấy Đường Châm
+interactinfo_81530=Từ thần y <a href="findnpc_new,school02,NPC_5nei_gbsy001" style="HLStype1">Khai Phi Cơ</a> lấy được thánh dược trị thương
+interactinfo_81531=Đưa thánh dược trị thương cho bang chủ <a href="findnpc_new,school02,WorldNpc03003" style="HLStype1">Tiêu Thiên Phóng</a>
+okmenu_81529=<font face="Default" color="#ffffff" >Đa tạ tiền bối</font><font face="Default" color="#ffffff" >!</font>
+okmenu_81530=<font face="Default" color="#ffffff" >Đa tạ Khai thần y.</font>
+okmenu_81531=<font face="Default" color="#ffffff" >Bang chủ, đệ tử trở về rồi, đây là thuốc thần y bảo ta đưa cho ngươi.</font>
+story_81545_1=<font face="Default" color="#ffffff" >Có việc cần bàn bạc, Ma Đao Đường ta lần này liên kết với bát đại môn phái cũng là chuẩn bị cho việc đại sự trong giang hồ</font><font face="Default" color="#ffffff" >.</font>
+story_81545_2=<font face="Default" color="#ffffff" >Ha ha, không phải ai cũng có thể tham gia vào việc này đâu, để ta xem thực lực của ngươi thế nào đã!</font>
+story_81546_1=<font face="Default" color="#ffffff" >Đã qua một thời gian, không ngờ võ công của ngươi lại tiến bộ đến vậy, xem ra bát đại môn phái không thiếu người rồi. Ngươi đã qua khảo nghiệm, đến ngoại thành Tô Châu tìm vị trưởng lão ở Ma Đao Đường, hắn sẽ nói cho ngươi biết việc tiếp theo.</font>
+story_81546_2=<font face="Default" color="#ffffff" >Vị trưởng lão này ở Tang Thụ Lâm phía đông nam Tô Châu, ngươi đi rồi sẽ biết, nhớ cho kĩ, muốn gặp được ông ta tốt nhất không nên dùng khinh công</font><font face="Default" color="#ffffff" >.</font>
+story_81547_1=<font face="Default" color="#ffffff" >Không ngờ ngươi có thể đến đây gặp ta, khá lắm. Ngươi đã vượt qua khảo nghiệm của Lý chấp sự, xem ra võ công bây giờ của ngươi</font> <font face="Default" color="#ffffff" >so với trước đây</font> <font face="Default" color="#ffffff" >tiến bộ lên rất nhiều.</font>
+story_81547_2=<font face="Default" color="#ffffff" >Ma Đao Đường ta nắm chuyện trên giang hồ rõ như lòng bàn tay, cái ngươi đang thấy chỉ là một góc trong đó thôi.</font> <font face="Default" color="#ffffff" >Đừng phí lời, dù ngươi đã từng tỉ thí với Lý chấp sự, nhưng ngươi cũng chỉ đến ngang đó là cùng, bây giờ có một việc cần giao cho ngươi, hy vọng ngươi có thể giải quyết.</font>
+story_81547_3=<font face="Default" color="#ffffff" >Đến Tô Châu Tửu Lâu có vị thư sinh tên là Liên Thanh Thành, tìm và bảo vệ hắn.</font>
+story_81547_4=<font face="Default" color="#ffffff" >Ngươi cứ đi đi rồi sẽ biết.</font>
+story_81548_1=<font face="Default" color="#ffffff" >Đa tạ cứu giúp, bọn người đó thật đúng là đang cố tình gây sự.</font> <font face="Default" color="#ffffff" >May có hiệp sĩ cứu giúp, thật cảm kích vô cùng.</font>
+story_81548_2=<font face="Default" color="#ffffff" >Chuyện nói ra dài lắm,</font> <font face="Default" color="#ffffff" >tiểu sinh cũng không biết tại sao nữa, tóm lại lần này ra ngoài mục đích là để tìm một thứ hoặc nói một địa điểm, ta cũng không biết ta đang tìm gì nữa, nhưng ta biết khi ta tìm được nó mọi việc sẽ sáng tỏ.</font>
+story_81548_3=<font face="Default" color="#ffffff" >Mấy ngày trước tiểu sinh tỉnh lại trong nhà, đột nhiên quên rất nhiều việc, đau đầu, khó chịu; chỉ nhớ lờ mờ có bồ câu đưa thư, một mẩu giấy, phát hiện trong tay đang cầm mảnh giấy viết 4 chữ "Mau đến Không Cốc".</font>
+story_81548_4=<font face="Default" color="#ffffff" >Tiểu sinh chỉ nhớ mình tên là Liên Thanh Thành, những việc còn lại chẳng ấn tượng gì, "Không Cốc" này cũng không có manh mối, ba người này lại gây phiền phức, chẳng biết là thù hận xưa hay </font><font face="Default" color="#ffffff" >mới. Nhưng dù thế nào, phải tìm được Không Cốc.</font>
+story_81548_5=<font face="Default" color="#ffffff" >Đa tạ ý tốt, nhưng </font><font face="Default" color="#ffffff" >lòng ta đã quyết, hiệp sĩ không cần nhiều lời.</font>
+story_81549_1=<font face="Default" color="#ffffff" >Xem ra ngươi cũng có chút bản lĩnh, khá lắm.</font>
+story_81549_2=<font face="Default" color="#ffffff" >Ha ha, tình báo Ma Đao Đường khắp giang hồ, đương nhiên là ta biết. Ngươi đã nói với Liên Thanh Thành về thân thế y chưa?</font>
+story_81549_3=<font face="Default" color="#ffffff" >Kỳ thực Liên Thanh Thành đã quên mất thân phận trước đây. Không Cốc mà hắn muốn tìm nhất định ở đây, Ma Đao Đường cũng đang dò la, tất cả đều có liên quan đến đại sự.</font>
+story_81549_4=<font face="Default" color="#ffffff" >Ngươi có từng nghe qua "Thập Tuyệt" trên giang hồ?</font>
+story_81549_5=<font face="Default" color="#ffffff" >Thập Tuyệt là mười nhân vật xuất chúng trong số cao thủ giang hồ. Trong thời khắc sóng gió, mười nhân vật này lần lượt bị cuốn vào vòng xoáy chiến tranh, chia ra đầu quân dưới trướng của Vạn Tuế và Doãn Văn. Về sau Ma Giáo bại trận, họ cũng mai danh ẩn tích. Đinh Cửu Trùng xuất hiện gây náo động giang hồ cũng là một trong Thập Tuyệt</font><font face="Default" color="#ffffff" >, trong tay ông ta nắm giữ vật mấu chốt khiến giang hồ dậy sóng.</font>
+story_81549_6=<font face="Default" color="#ffffff" >Đúng vậy, việc không thể chậm trễ, mau đến Tô Châu tửu lầu đuổi theo Liên Thanh Thành, không chừng sẽ có điều bất ngờ.</font>
+story_81550_1=<font face="Default" color="#ffffff" >Khách quan đến chậm một bước rồi, vị khách đó vừa mới đi khỏi, tại hạ nghe được người đó có nói hai câu.</font>
+story_81550_2=<font face="Default" color="#ffffff" >Hình như là "Yên Vũ Trang, nơi này cũng tốt, mây khói Giang Nam, đến đó xem thử"</font>
+story_81551_1=<font face="Default" color="#ffffff" >Ngài vào trong xem đi, hình như có một vị thư sinh, không biết phải là người ngài muốn tìm không.</font>
+story_81552_1=<font face="Default" color="#ffffff" >Ân nhân</font><font face="Default" color="#ffffff" >, </font><font face="Default" color="#ffffff" >không ngờ lại gặp ngài ở đây.</font>
+story_81552_2=<font face="Default" color="#ffffff" >Không Cốc hình như ở tại Yên Vũ Trang này, ta vô tình đến đây, không ngờ lại có chút manh mối. Yên Vũ Trang này có người từng nghe qua Không Cốc nhưng cụ thể ở đâu thì không rõ. </font><font face="Default" color="#ffffff" >Ta đang định đi hỏi thử.</font>
+story_81552_3=<font face="Default" color="#ffffff" >Đa tạ ân nhân tương trợ, cảm kích khôn xiết.</font>
+story_81553_1=<font face="Default" color="#ffffff" >Ta đến Yên Vũ Trang đã hơn 10 năm, chưa từng nghe qua, không nhớ sai đấy chứ.</font>
+story_81554_1=<font face="Default" color="#ffffff" >Chuyện gì? Nói đi.</font>
+story_81554_2=<font face="Default" color="#ffffff" >Nghe rất lạ, để ta nhớ kỹ lại xem… À, thật sự là không biết.</font>
+story_81555_1=<font face="Default" color="#ffffff" >Mau hỏi đi, ta ở Yên Vũ Trang cả đời rồi, chuyện gì ở đây ta cũng biết</font><font face="Default" color="#ffffff" >.</font>
+story_81555_2=<font face="Default" color="#ffffff" >Yên Vũ Trang có Thê Phụng Sơn, Tường Vân Sơn</font><font face="Default" color="#ffffff" >, Lạc Hà Pha, còn có Vọng Vân Pha, Phi Hồng Kiều, Lão Long Miếu, còn Không Cốc thì chưa từng nghe qua.</font>
+story_81555_3=<font face="Default" color="#ffffff" >Để xem nào, hình như ta có nghe đến nơi này, nhưng ta chưa từng đặt chân tới, </font><font face="Default" color="#ffffff" >địa điểm thì ta không biết, chỉ nhớ phải ngồi thuyền từ Yên Vũ Trang mới tới được.</font>
+story_81556_1=<font face="Default" color="#ffffff" >Ngươi muốn đến Không Cốc? Hiếm ai biết nơi này, ngươi đến </font><font face="Default" color="#ffffff" >chỗ đó</font><font face="Default" color="#ffffff" > làm gì?</font>
+story_81556_2=<font face="Default" color="#ffffff" >Nhưng ta đang chuẩn bị dọn hàng, vợ ta đang bệnh, mấy ngày nay ta phải đi tìm mấy vị thuốc.</font>
+story_81556_3=<font face="Default" color="#ffffff" >Hiện tại đang thiếu Hồ Dương Thảo</font><font face="Default" color="#ffffff" >.</font><font face="Default" color="#ffffff" > Tình hình cụ thể phải hỏi lại lang trung.</font>
+story_81557_1=<font face="Default" color="#ffffff" >Khách quan đến thật đúng lúc, vị thư sinh kia nhờ ta nhắn lại đã tìm thấy Không Cốc rồi, thấy ngài chưa về nên đã đi trước, đa tạ ngài giúp đỡ, sau khi trở về sẽ cảm tạ ngài.</font>
+story_81559_1=<font face="Default" color="#ffffff" >Ồ, để ta xem nào, đủ rồi đó. Để ta báo ông Nguyễn chuẩn bị hốt thuốc cho vợ, nghe nói ngươi cần ông ta giúp, hãy </font><font face="Default" color="#ffffff" >đi gặp ông ấy đi.</font>
+story_81560_1=<font face="Default" color="#ffffff" >Thật cảm kích quá!</font>
+story_81560_2=<font face="Default" color="#ffffff" >Đương nhiên là được, xuất phát lúc nào cũng được, chuẩn bị xong chỉ cần gọi ta một tiếng.</font>
+story_81561_1=<font face="Default" color="#ffffff" >Việc này nói ra dài dòng, tóm lại, ta và Tiêu cô nương vừa gặp đã thân, rồi có kẻ muốn hại cô ấy</font><font face="Default" color="#ffffff" >…...</font>
+story_81561_2=<font face="Default" color="#ffffff" >Vết thương của ta không sao đâu, mau đuổi theo Tiêu cô nương, mấy tên đó rất đáng sợ.</font>
+story_81563_1=<font face="Default" color="#ffffff" >Liên Thanh Thành đã qua đời, ta là Diệp Kinh Lâu.</font>
+story_81563_2=<font face="Default" color="#ffffff" >Ta nói rồi, ta là Diệp Kinh Lâu. Ta có nghe chuyện Hình Quân Khả nói với ngươi, hắn do Đinh gia cử đến, nói hắn giao món đồ của Tiêu cô nương cho ta, ta sẽ tha mạng hắn.</font>
+story_81563_3=<font face="Default" color="#ffffff" >Không cần biết quá nhiều, ta vốn là Diệp Kinh Lâu, là thuộc hạ của Đinh Cửu Trùng. Hình Quân Khả thân phận bất minh, lúc trong thiên lao Đinh gia đã truyền võ công cho hắn, người này </font><font face="Default" color="#ffffff" >thiếu quyết đoán</font><font face="Default" color="#ffffff" >, vật của Đinh gia không thể </font><font face="Default" color="#ffffff" >giao</font><font face="Default" color="#ffffff" > cho hắn, bằng không thì ta sẽ ra tay.</font>
+story_81564_1=<font face="Default" color="#ffffff" >Diệp Kinh Lâu? Lẽ nào là Diệp Kinh Lâu của Thập Tuyệt? Dù thế nào đi nữa, vật này cũng là của Đinh gia giao phó, ta phải bảo vệ. Ta sẽ nói chuyện với hắn, không chừng phải giao chiến một trận </font><font face="Default" color="#ffffff" >cho ra lẽ</font><font face="Default" color="#ffffff" >.</font>
+story_81564_2=<font face="Default" color="#ffffff" >Đa tạ hảo ý, ta sẽ nói chuyện với Diệp Kinh Lâu.</font>
+story_81566_1=<font face="Default" color="#ffffff" >Yên tâm, ta không ra tay đâu. Ta lấy tư cách gì lại tùy tiện đụng thủ! Ha ha, ta chỉ đến xem thôi</font><font face="Default" color="#ffffff" >...</font>
+story_81652_1=<font face="Default" color="#ffffff" >Tiêu cô nương đuổi theo Đinh Cửu Trùng. Việc này kể ra dài dòng, lúc đầu ta gặp Đinh gia ở thiên lao, Đinh gia hiệp nghĩa trước khi nhắm mắt đã truyền võ công cho ta và dặn ta đến Không Cốc tìm Tiêu cô nương lấy lại di vật ông để lại nơi này.</font>
+story_81652_2=<font face="Default" color="#ffffff" >Sau khi ta ra khỏi thiên lao luôn bị theo dõi rồi truy sát, cuối cùng cũng tới đây, không ngờ lại gặp ba người Lãnh Thiên Tuyệt, Tất Gia Hỏa và Kim Chính Thù.</font>
+story_81652_3=<font face="Default" color="#ffffff" >Liên Thanh Thành hình như là bằng hữu của Tiêu cô nương, ta cũng đoán biết được Liên huynh đã thầm yêu Tiêu cô nương và chẳng có ý dòm ngó gì di vật của Đinh gia. Nhưng thật chẳng ngờ, Tiêu cô nương đa mưu túc trí, tiếc rằng không đoán được ai là truyền nhân của Đinh gia</font><font face="Default" color="#ffffff" >.</font>
+story_81652_4=<font face="Default" color="#ffffff" >Ba kẻ đó sau bao phen tranh đấu bị thương không nhẹ nhưng vẫn chưa mất sức chiến đấu, ta và Tiêu cô nương lẳng lặng mang Liên Thanh Thành rời khỏi hậu viện, bị Lãnh Thiên Tuyệt phát hiện đuổi theo, sau đó thì gặp ngươi. </font><font face="Default" color="#ffffff" >May nhờ ngươi cản Kim Chính Thù, sau đó hai tên kia bao vây ta, không ngờ lúc ta lâm nguy, Tất Gia Hỏa ra tay đánh lén Lãnh Thiên Tuyệt rồi chạy mất dạng.</font>
+story_81652_5=<font face="Default" color="#ffffff" >Ta cũng chẳng biết người này rốt cuộc thế lực phương nào, nhưng lúc này Tiêu cô nương đột nhiên phát độc, thì ra khi chúng ta đến Không Cốc cô nương ấy đã uống độc dược, hay tin Đinh gia đã mất, quá đau buồn nên có ý định tự sát, liền đưa di vật cho ta </font><font face="Default" color="#ffffff" >rồi</font><font face="Default" color="#ffffff" > ra đi như thế.</font>
+story_81652_6=<font face="Default" color="#ffffff" >Thực ra trước khi ra đi Tiêu cô nương không an tâm về Liên huynh, cô nương ấy nói vì duyên mỏng phận bạc nên Liên huynh đã quên cô ấy.</font><font face="Default" color="#ffffff" >Hình như Liên huynh kích động lắm khi nhìn thấy Tiêu cô nương tự sát.</font>
+story_81653_1=<font face="Default" color="#ffffff" >Về rồi à, Ngã Vi Hoàng đã đi rồi, việc này ta đã sớm biết.</font>
+story_81653_2=<font face="Default" color="#ffffff" >Ngươi hiểu lầm rồi, ban đầu chúng ta đã sớm tìm được Liên Thanh Thành, theo hắn đến Không Cốc. Kỳ thực, Tiêu Y Y tự tử vì tình, lúc đó hai trong số ba người đến Không Cốc có Lãnh Thiên Tuyệt của Mật Tông và Kim Chính Thù của Cao Lệ, bọn chúng chính là kẻ đã bức hại Tiêu cô nương, chúng cũng là kẻ thù của Ma Đao Đường ta.</font>
+story_81653_3=<font face="Default" color="#ffffff" >Sư môn ngươi bắt tay với Ma Đao Đường thì phải tin chúng ta chứ. Ngươi biết di vật của Đinh Cửu Trùng mà Tiêu cô nương đang giữ là gì không? Đó là mấu chốt của cả vấn đề đấy</font><font face="Default" color="#ffffff" >.</font>
+story_81653_4=<font face="Default" color="#ffffff" >Hòa Thị Bích! Đây là biểu tượng của vương quyền, một khi bị kẻ xấu lấy mất nhất định thiên hạ đại loạn! Kim Chính Thù và Lãnh Thiên Tuyệt, một kẻ là man di một kẻ là </font><font face="Default" color="#ffffff" >loạn thần tặc tử</font><font face="Default" color="#ffffff" >, chúng mà chiếm được hậu quả khôn lường.</font>
+story_81653_5=<font face="Default" color="#ffffff" >Ma Đao Đường chỉ cần đảm bảo món đồ không rơi vào tay kẻ xấu là được, Hình Quân Khả chẳng qua chỉ là người trong giang hồ, Ngã Vi Hoàng cuối cùng không ra tay là vì lẽ đó, Diệp Kinh Lâu giờ cũng chẳng phải là đối thủ của Ngã Vi Hoàng.</font>
+story_81653_6=<font face="Default" color="#ffffff" >Rốt cuộc thì Hòa Thị Bích đã trở về tay thánh thượng, Ma Đao Đường sẵn sàng dùng phương thức của nhân sĩ giang hồ các ngươi để quyết định, </font><font face="Default" color="#ffffff" >thôi bỏ đi</font><font face="Default" color="#ffffff" >. Lần này việc ở Không Cốc không tốt đẹp, Ngã Vi Hoàng bị việc khác ngăn trở, cuối cùng cũng tới, nhưng cũng nhờ có ngươi ra tay tương trợ nên Hòa Thị Bích không rơi vào tay địch, quả nhiên không lầm người.</font>
+story_81653_7=<font face="Default" color="#ffffff" >Ha ha, ngươi khá lắm. Lần này sư môn ngươi bắt tay với Ma Đao Đường mới chỉ là khởi đầu, tin rằng sau này sẽ khăng khít hơn.</font>
+story_81654_1=<font face="Default" color="#ffffff" >Không cần đa lễ, Tửu Vũ Thần Công truyền cho đệ tử Cái Bang, khuếch trương thực lực Cái Bang cũng chính là gánh trách nhiệm lớn hơn. Nay Hòa Thị Bích hiện thế, các môn phái lớn không thể khoanh tay đứng nhìn, ta có việc muốn giao cho các ngươi, có đủ tự tin không?</font>
+story_81654_2=<font face="Default" color="#ffffff" >Tốt lắm, cách Cái Bang không xa có một vị thần y ẩn cư</font><font face="Default" color="#ffffff" >, cứ một khoảng thời gian ông ta lại cung cấp cho bổn bang thánh dược trị thương, việc lần này giao cho ngươi nhé.</font>
+story_81654_3=<font face="Default" color="#ffffff" >Đừng nghi ngờ, phái ngươi đi tức là có chuyện khác, gần đây nơi thần y ẩn cư đã bị tiết lộ hoặc có người tìm ra. Ta nghi ngờ Yến Song Hành của Thập Tuyệt vì chữa bệnh cho muội muội nên đến tìm thần y.</font>
+story_81654_4=<font face="Default" color="#ffffff" >Ha ha, thế gian này không ai ngăn hắn nổi, Yến Song Hành không phải người tàn độc, trước đây ta cũng có chút giao tình với hắn, sau này có gặp hãy kết giao với y </font><font face="Default" color="#ffffff" >sẽ giúp ngươi rất nhiều trên con đường hành tẩu giang hồ</font><font face="Default" color="#ffffff" >, nếu không gặp cũng chẳng sao.</font>
+story_81655_1=<font face="Default" color="#ffffff" >Hiệp sĩ không cần đa lễ, không biết lần này có thể lấy được thuốc trị thương cho Cái Bang hay không?</font>
+story_81655_2=<font face="Default" color="#ffffff" >Tiêu bang chủ truyền tin cho hay đã phái đệ tử trẻ tuổi đến, chắc là ngươi, nhưng thuốc này vẫn còn thiếu phụ liệu cuối cùng, hiệp sĩ thu thập giúp ta chứ?</font>
+story_81655_3=<font face="Default" color="#ffffff" >Ừm, tốt quá rồi, cần thêm ít </font><font face="Default" color="#ffffff" >Tay Gấu</font><font face="Default" color="#ffffff" >, có thể tìm trong Cái Bang.</font>
+story_81656_1=<font face="Default" color="#ffffff" >Đa tạ, nhưng Yến hiệp sĩ </font><font face="Default" color="#ffffff" >đến đây xin chữa bệnh cho muội muội hắn</font><font face="Default" color="#ffffff" >...</font>
+story_81657_1=<font face="Default" color="#ffffff" >Có việc gì thì nói với thần y đi, đừng phiền đến ta.</font>
+story_81657_2=<font face="Default" color="#ffffff" >Ngươi mới hành tẩu giang hồ sao lại nóng nảy như vậy. Ngươi chỉ là tiểu đệ tử Cái Bang sao có thể ra mặt bảo vệ, chúng ta đấu một trận nào, nếu ta thắng ngươi thay ta xin thần y, nếu là đệ tử Cái Bang chắc thần y không từ chối đâu</font><font face="Default" color="#ffffff" >, nếu ta thua thì sẽ rời khỏi nơi này.</font>
+story_81658_1=<font face="Default" color="#ffffff" >Quyền cước tầm thường quá, bằng hữu, khi nào thực hiện lời hứa đây?</font>
+story_81659_1=<font face="Default" color="#ffffff" >Hiệp sĩ đừng xem nhẹ bản thân, đấu được với hắn là tốt rồi, đâu phải là ta không đồng ý xem bệnh cho muội muội Yến Song Hành, chỉ sợ hiệp sĩ </font><font face="Default" color="#ffffff" >Cái Bang các ngươi lo lắng thôi.</font>
+story_81659_2=<font face="Default" color="#ffffff" >Thảo nào Yến Song Hành lại không động thủ với ngươi, thế thì tốt thôi, nhưng ta nghe Yến Song Hành nhắc về bệnh tình của muội muội hắn, muốn tra rõ phải cần ít dược liệu và dụng cụ.</font>
+story_81659_3=<font face="Default" color="#ffffff" >Thực ra ta đã nói với Yến Song Hành rồi, ta vốn định để hắn đi tìm phương thuốc trước, sau đó chế thuốc cho Cái Bang. Thôi thì ngươi thương lượng với hắn xem, hai người chia ra hành động sẽ nhanh hơn.</font>
+story_81660_1=<font face="Default" color="#ffffff" >Được, để ta nghĩ xem, Linh Xà Đan của Cái Bang, còn có Đường </font><font face="Default" color="#ffffff" >Châm</font><font face="Default" color="#ffffff" > của Đường Môn, </font><font face="Default" color="#ffffff" >hai</font><font face="Default" color="#ffffff" > thứ này giao cho ngươi đó, mau về đưa cho thần y.</font>
+story_81661_1=<font face="Default" color="#ffffff" >Thế nào? Ngươi ra tay rồi sao?</font>
+story_81661_2=Đúng là đứa trẻ vừa đáng thương và hạnh phúc, mong rằng thần y có thể tìm được nguyên nhân bệnh, hãy mau đến chỗ Triển Hóa Sinh lấy thuốc.
+story_81662_1=<font face="Default" color="#ffffff" >Linh Xà Đan à, ngày thường hiếm lắm, </font><font face="Default" color="#ffffff" >thần y cần sao? Một lúc nữa hãy quay lại lấy, hoặc ta làm xong sẽ đem giao cho thần y.</font>
+story_81662_2=<font face="Default" color="#ffffff" >Không sao, để ta lo.</font>
+story_81663_1=<font face="Default" color="#ffffff" >Không cần đa lễ, có chuyện gì không?</font>
+story_81663_2=<font face="Default" color="#ffffff" >Ồ, chuyện gì? Ngươi nói đi.</font>
+story_81663_3=<font face="Default" color="#ffffff" >Đường Châm?!</font><font face="Default" color="#ffffff" >Tuy rằng đó không phải là bảo vật trấn phái của Đường Môn nhưng cũng không thể truyền cho người ngoài, </font><font face="Default" color="#ffffff" >Đệ tử Cái Bang thì cần Đường Châm để làm gì? Theo ta biết, Cái Bang dùng thuốc nhiều hơn mà...</font>
+story_81663_4=<font face="Default" color="#ffffff" >Thập tuyệt Yến Song Hành? Thì ra là thế, thần y đã ra mặt cho hắn, Đường mỗ ta cũng phải nể trọng </font><font face="Default" color="#ffffff" >, ngươi mau tìm y sư Đường Như Hải của bổn môn đi.</font>
+story_81664_1=<font face="Default" color="#ffffff" >Yến Song Hành sớm đã trở về, đã thu thập đủ những nguyên liệu khác, thêm Linh Xà Đan của Triển Hóa Sinh đem về cũng đã đủ. Thế là ta bắt đầu trị bệnh duy trì mạng sống cho em gái</font>
+story_81664_2=<font face="Default" color="#ffffff" >Bệnh của người con gái này vẫn là số 1 trên thiên hạ, quả thật khiến người khác xót thương, đáng tiếc y thuật của ta không đủ, không thể điều trị, chỉ có thể duy trì mạng sống cho cô ta 1 thời gian. Nhưng, ta cũng coi như không lãng phí những thứ này, trên người cô ta tuy hoàn toàn là tử khí, nhưng trái lại vẫn có 1 cơ hội sống, chỉ là y thuật của ta có hạn.</font>
+story_81664_3=<font face="Default" color="#ffffff" >Tuy sức người có hạn, nhưng tạo hóa thì vô hạn, ta đoán cơ hội sống này vẫn có thể cứu được, bởi thế ta bóc 1 phương thuốc cho Yến Song Hành, tuy những nguyên liệu cần đều hiếm thấy trên thế gian, trong đó chủ yếu nhất là loại Tuyết Liên hiếm có tên là Tương Tư Thành Huyết, ta chỉ nghe nói chứ chưa dùng qua</font><font face="Default" color="#ffffff" >. </font>
+story_81664_4=<font face="Default" color="#ffffff" >Tuy là nói như thế, nhưng thời gian của muội muội không nhiều, anh ta vì để kịp thời gian, đã lấy phương thuốc đi, thế là không đến kịp để gặp ngươi.</font>
+story_81664_5=
+story_81665_1=<font face="Default" color="#ffffff" >Ngươi về nhanh như thế, chắc hẳn Khai Thần Y cũng bất lực đối với bệnh của muội muội đúng không?</font>
+story_81665_2=<font face="Default" color="#ffffff" >Võ công của Yến Song Hành tuy đệ nhất thiên hạ, nhưng mà cũng là người đáng thương. Việc này dù sao cũng là duyên gặp mặt giữa ngươi và anh ta, tiếp theo hành tẩu giang hồ nếu có cơ hội tự nhiên sẽ nhận được sự chiếu cố của anh ta, ta cũng yên tâm giao công việc tiếp theo cho ngươi.</font>
+story_81665_3=<font face="Default" color="#ffffff" >Ngươi về chuẩn bị, tiếp theo còn có việc quan trọng giao cho ngươi.</font>
+story_menu_81545=<font face="Default" color="#ffffff" >Không biết tìm ta có việc gì?</font>
+story_menu_81546=<font face="Default" color="#ffffff" >Không biết Lí Chấp Sự có hài lòng hay không?</font>
+story_menu_81547=<font face="Default" color="#ffffff" >Ngươi là?</font>
+story_menu_81548=<font face="Default" color="#ffffff" >Huynh đài, huynh không sao chứ.</font>
+story_menu_81549=<font face="Default" color="#ffffff" >Ta về rồi, việc ngươi giao rất nhẹ nhàng.</font>
+story_menu_81550=<font face="Default" color="#ffffff" >Tiểu nhị ca, xin hỏi thư sinh trước đây ở chỗ này cùng với ta sau khi rời Tửu Lầu đã đi đâu? Tiểu nhị ca biết không?</font>
+story_menu_81551=<font face="Default" color="#ffffff" >Tiểu nhị ca, không biết huynh</font> <font face="Default" color="#ffffff" >có</font> <font face="Default" color="#ffffff" >nhìn thấy 1 thư sinh mặc áo màu xanh tự xưng là Liên Thanh Thành đến lầu trà của các huynh không?</font>
+story_menu_81552=<font face="Default" color="#ffffff" >Liên Huynh</font><font face="Default" color="#ffffff" >?</font>
+story_menu_81553=<font face="Default" color="#ffffff" >Vị đại ca này, cho hỏi thăm, không biết huynh đã từng nghe nói đến Không Cốc chưa?</font>
+story_menu_81554=<font face="Default" color="#ffffff" >Vị đại ca này, làm phiền 1 chút</font><font face="Default" color="#ffffff" >, muốn hỏi huynh 1 chút việc, không biết có tiện không?</font>
+story_menu_81555=<font face="Default" color="#ffffff" >Vị đại thúc này, muốn hỏi thăm thúc </font><font face="Default" color="#ffffff" >1 chút việc về Yên Vũ Trang, không biết có được hay không?</font>
+story_menu_81556=<font face="Default" color="#ffffff" >Nguyễn đại thúc </font><font face="Default" color="#ffffff" > làm phiền 1 chút, muốn hỏi thúc biết đường đến Không Cốc đi như thế nào không? </font>
+story_menu_81557=<font face="Default" color="#ffffff" >Tiểu nhị ca, xin hỏi người thư sinh Liên Thanh Thành mặc áo xanh trước đây cùng ở quán trà với ta có về quán trà lại không ạ?</font>
+story_menu_81558=<font face="Default" color="#ffffff" >Tiết đại phu, ta được Minh đại thúc nhờ thay vợ thúc ta tìm Hồ Dương Thảo, không biết</font> <font face="Default" color="#ffffff" >loại thảo dược này</font> <font face="Default" color="#ffffff" >có thể tìm ở đâu.</font>
+story_menu_81559=<font face="Default" color="#ffffff" >Lão Tiết, Hồ Dương Thảo</font><font face="Default" color="#ffffff" > ta đã tìm được rồi</font><font face="Default" color="#ffffff" >. </font>
+story_menu_81560=<font face="Default" color="#ffffff" >Nguyễn lão gia, ta đã giao thuốc dẫn cho Tiết Lang Trung rồi.</font>
+story_menu_81561=<font face="Default" color="#ffffff" >Liên huynh huynh vẫn khỏe, lúc nãy xảy ra việc gì thế?</font>
+story_menu_81563=<font face="Default" color="#ffffff" >Liên huynh, Liên huynh? Huynh sao rồi?</font>
+story_menu_81564=<font face="Default" color="#ffffff" >Hình huynh, Liên Huynh, à không, Diệp Kinh Lâu, hắn nói hắn là thuộc hạ Đinh Gia</font><font face="Default" color="#ffffff" >, muốn xem thứ Tiêu Cô Nương gửi cho ngươi không, ngươi xem? </font>
+story_menu_81566=<font face="Default" color="#ffffff" >Ngã Vi Hoàng, ngươi tại sao đến chỗ này? </font><font face="Default" color="#ffffff" >Hai người này tuy bị thương, nhưng giao đấu khó tránh hai bên cùng bị thương.</font>
+story_menu_81652=<font face="Default" color="#ffffff" >Hình Quân Khả, rốt cuộc đã xảy ra chuyện gì? Tiêu cô nương</font><font face="Default" color="#ffffff" >, cô ta</font><font face="Default" color="#ffffff" >?</font>
+story_menu_81653=<font face="Default" color="#ffffff" >Đầu trọc, ta đã cùng Liên Thanh Thành đi qua Không Cốc.</font>
+story_menu_81654=<font face="Default" color="#ffffff" >Đệ tử đặc biệt đến bái kiến. </font>
+story_menu_81655=<font face="Default" color="#ffffff" >Khai Thần Y, ta là đệ tử Cái Bang đặc biệt đến bái kiến</font>
+story_menu_81656=<font face="Default" color="#ffffff" >Khai Thần Y, ngươi xem số này đủ chưa?</font>
+story_menu_81657=<font face="Default" color="#ffffff" >Yến Song Hành?</font>
+story_menu_81658=<font face="Default" color="#ffffff" >Ngươi! Võ công lúc nãy của ngươi là gì? ! </font>
+story_menu_81659=<font face="Default" color="#ffffff" >Khai Thần Y, thật hổ thẹn tại hạ không phải là đối thủ của Yến Song Hành.</font>
+story_menu_81660=<font face="Default" color="#ffffff" >Yến Tiền Bối, ta đã nói xong với Khai Thần Y, không biết nguyên liệu mà Khai Thần Y cần</font> <font face="Default" color="#ffffff" >là loại nào? Ta cũng đi theo tìm thử nha.</font>
+story_menu_81661=<font face="Default" color="#ffffff" >Bang chủ, đệ tử ở chỗ Khai Thần Y quả nhiên gặp được Yến Song Hành.</font>
+story_menu_81662=<font face="Default" color="#ffffff" >Triển Sư Huynh, không biết huynh có Linh Xà Đan không, bang chủ ra lệnh ta đến lấy 1 ít </font><font face="Default" color="#ffffff" >giao cho Khai Thần Y. </font>
+story_menu_81663=<font face="Default" color="#ffffff" >Đường Chưởng Môn, tại hạ là đệ tử Cái Bang đặc biệt đến bái kiến</font>
+story_menu_81664=<font face="Default" color="#ffffff" >Ta đến muộn rồi? Vậy...</font>
+story_menu_81665=<font face="Default" color="#ffffff" >Bang chủ, xin hỏi còn có dặn dò gì nửa không? </font>
+storyinfo_81545=Đi Tô Châu tìm tùy tùng Ma Đao Đường <a href="findnpc_new,city02,5nei_gbmdt001" style="HLStype1">Lí Lập</a>
+storyinfo_81546=Nghe <a href="findnpc_new,city02,5nei_gbmdt001" style="HLStype1">Lí Lập </a>kể lại
+storyinfo_81547=Đi vùng ngoại ô Tang Thụ Lâm tìm <a href="findnpc_new,city02,NPC_4nei_gbj012" style="HLStype1">người thần bí</a>
+storyinfo_81548=Hỏi thử <a href="findnpc_new,city02,NPC_5nei_gblqc001" style="HLStype1">Liên Thanh Thành</a> như thế nào rồi
+storyinfo_81549=Về tìm <a href="findnpc_new,city02,NPC_4nei_gbj012" style="HLStype1">người thần bí</a>
+storyinfo_81550=Đi Tửu Lầu Tô Châu tìm <a href="findnpc_new,city02,WorldNpc01054" style="HLStype1">Du Lương</a> nghe ngóng tăm tích của Liên Thanh Thành
+storyinfo_81551=Hướng đến <a href="findnpc_new,born03,WorldNpc00513" style="HLStype1">Chu Thiên Bảo </a>nghe ngóng tăm tích của Liên Thanh Thành
+storyinfo_81552=Tìm được <a href="findnpc_new,born03,NPC_5nei_gblqc002" style="HLStype1">Liên Thanh Thành</a>
+storyinfo_81553=Khắp nơi hỏi người đi đường, tìm Nha Dịch <a href="findnpc_new,born03,yyz009" style="HLStype1">Ngô Nhuệ </a>hỏi thử
+storyinfo_81554=Nhìn thử người trong giang hồ này <a href="findnpc_new,born03,WorldNpc00923" style="HLStype1">Diêu Thánh </a>phải chăng biết
+storyinfo_81555=Chi bằng hỏi thử ông lão Yên Vũ Trang, mới bước qua thấy mấy ông lão đánh cờ, hỏi thử <a href="findnpc_new,born03,yyz125" style="HLStype1">Lí Vĩ Thần </a>xem thử
+storyinfo_81556=Đi tìm thuyền gia Yên Vũ Trang <a href="findnpc,born03,583,1.326,997.9" style="HLStype1">Nguyễn Minh</a>
+storyinfo_81557=Hỏi được 1 chút manh mối, lúc đó đã không còn sớm, trở về <a href="findnpc_new,born03,yyz068" style="HLStype1">Trà lầu</a> tìm Liên Thanh Thành nha.
+storyinfo_81558=Tìm được Lão Lang Trung <a href="findnpc_new,born03,NPC_5nei_gblz001" style="HLStype1">Tiết Lão</a>
+storyinfo_81559=Đã tìm đủ thuốc dẫn, đi tìm Lang Trung <a href="findnpc_new,born03,NPC_5nei_gblz001" style="HLStype1">Tiết Lão </a>nha
+storyinfo_81560=Tìm được <a href="findnpc_new,born03,WorldNpc00641" style="HLStype1">Nguyễn Minh</a>
+storyinfo_81561=Xem thử <a href="findnpc_new,adv031,NPC_5nei_gblqc003" style="HLStype1">Liên Thanh Thành</a> như thế nào rồi
+storyinfo_81563=Hỏi <a href="findnpc_new,adv031,NPC_5nei_gbyjl001" style="HLStype1">Diệp Kinh Lâu</a> (Liên Thanh Thành)
+storyinfo_81564=Tìm <a href="findnpc_new,adv031,NPC_5nei_gbxjk001" style="HLStype1">Hình Quân Khả</a> đòi lại di vật của Tiêu Y Y
+storyinfo_81566=Nghe <a href="findnpc_new,adv031,NPC_5nei_gbwwh001" style="HLStype1">Ngã Vi Hoàng</a> nói
+storyinfo_81652=Hỏi thử <a href="findnpc_new,adv031,NPC_5nei_gbxjk001" style="HLStype1">Hình Quân Khả </a>rốt cuộc đã xảy ra việc gì
+storyinfo_81653=Tìm <a href="findnpc_new,city02,NPC_4nei_gbj012" style="HLStype1">người thần bí </a>nói việc đã qua
+storyinfo_81654=Thương lượng với <a href="findnpc_new,school02,npc_5neidh_gb" style="HLStype1">Ngô Thiên Nộ</a>
+storyinfo_81655=Tìm được Thần Y <a href="findnpc_new,school02,NPC_5nei_gbsy001" style="HLStype1">Khai Phi Cơ</a>
+storyinfo_81656=Lấy dược liệu giao cho Thần Y <a href="findnpc_new,school02,NPC_5nei_gbsy001" style="HLStype1">Khai Phi Cơ </a>
+storyinfo_81657=Hỏi <a href="findnpc_new,school02,NPC_5nei_gbysx001" style="HLStype1">Yến Song Hành</a>
+storyinfo_81658=Võ công Yến Song Hành vượt sức tưởng tượng, Cùng với <a href="findnpc_new,school02,NPC_5nei_gbysx001" style="HLStype1">Yến Song Hành</a> trò chuyện
+storyinfo_81659=Nói cho Thần Y <a href="findnpc_new,school02,NPC_5nei_gbsy001" style="HLStype1">Khai Phi Cơ </a> kết quả so tài
+storyinfo_81660=Hỏi <a href="findnpc_new,school02,NPC_5nei_gbysx001" style="HLStype1">Yến Song Hành </a>cần những nguyên liệu nào
+storyinfo_81661=Về Cái Bang tìm <a href="findnpc_new,school02,WorldNpc03003" style="HLStype1">bang chủ Tiêu Thiên Phóng </a>nói rõ việc đã xảy ra
+storyinfo_81662=Tìm <a href="findnpc_new,school02,WorldNpc03020" style="HLStype1">sư huynh Triển Hóa Sinh</a> lấy Linh Xà Đan
+storyinfo_81663=Đi Đường Môn tìm môn chủ <a href="findnpc_new,school05,WorldNpc02203" style="HLStype1">Đường Thiên Hành</a>
+storyinfo_81664=Về Cái Bang tìm Thần Y <a href="findnpc_new,school02,NPC_5nei_gbsy001" style="HLStype1">Khai Phi Cơ</a>
+storyinfo_81665=Nói cho bang chủ <a href="findnpc_new,school02,WorldNpc03003" style="HLStype1">Tiêu Thiên Phóng</a> những việc đã xảy ra
+storymenu_81545_1=<font face="Default" color="#ffffff" >Việc gì? </font><font face="Default" color="#ffffff" >Chuyện gì?</font><font face="Default" color="#ffffff" >Chuyện gì?</font>
+storymenu_81545_2=<font face="Default" color="#ffffff" >Cứ thả ngựa qua.</font>
+storymenu_81546_1=<font face="Default" color="#ffffff" >Ngoại ô Tô Châu? </font>
+storymenu_81546_2=<font face="Default" color="#ffffff" >Rõ.</font>
+storymenu_81547_1=<font face="Default" color="#ffffff" >Ngươi? Quen ta?</font>
+storymenu_81547_2=<font face="Default" color="#ffffff" >Có gì khó?</font>
+storymenu_81547_3=<font face="Default" color="#ffffff" >Bảo vệ?</font>
+storymenu_81547_4=<font face="Default" color="#ffffff" >Được, không vấn đề gì!</font><font face="Default" color="#ffffff" >Được, không vấn đề gì!</font>
+storymenu_81548_1=<font face="Default" color="#ffffff" >Không cần khách khí, không biết Liên huynh tại sao dẫn theo mấy người này.</font>
+storymenu_81548_2=<font face="Default" color="#ffffff" >Xin thứ lỗi tại hạ không hiểu lắm? Rốt cuộc là gì?</font>
+storymenu_81548_3=<font face="Default" color="#ffffff" >Cho nên ngươi theo đấy mà thăm dò thử xem sao? </font>
+storymenu_81548_4=<font face="Default" color="#ffffff" >Huynh đài thân thế khác thường trái lại ý chí kiên định khiến người khác phải khâm phục, chỉ là ta nhìn huynh không có võ công, hành tẩu giang hồ mù quáng như thế không dễ lạc quan. </font><font face="Default" color="#ffffff" >Huynh đài đã bị mất trí nhớ, hay là tìm lang trung xem kỹ 1 phen.</font>
+storymenu_81548_5=<font face="Default" color="#ffffff" >Đây, (Quả nhiên là thư sinh vô dụng, đã cứu anh ta, cũng không cần phải làm phiền anh ta) Chúc Anh Đài sớm đã hoàn thành tâm nguyện.</font>
+storymenu_81549_1=<font face="Default" color="#ffffff" >Chỉ là ngươi làm sao biết Tửu Lầu sẽ phát sinh trận tranh đấu này? Lẽ nào 3 người này là ngươi sắp đặt?</font>
+storymenu_81549_2=<font face="Default" color="#ffffff" >Cái này ngươi cũng biết? Anh ta xác thực nói với ta rồi, cũng không biết là thật hay giả.</font>
+storymenu_81549_3=<font face="Default" color="#ffffff" >Việc lớn gì?</font>
+storymenu_81549_4=<font face="Default" color="#ffffff" >Thập Tuyệt?</font>
+storymenu_81549_5=<font face="Default" color="#ffffff" >Lẽ nào ngươi cho rằng vật này có liên quan đến Không Cốc mà Liên Thanh Thành đang tìm?</font>
+storymenu_81549_6=<font face="Default" color="#ffffff" >Đã có việc lớn như thế, vậy ta không thể bỏ lỡ!</font>
+storymenu_81550_1=<font face="Default" color="#ffffff" >Hắn ta đã nói gì?</font>
+storymenu_81550_2=<font face="Default" color="#ffffff" >Cảm ơn tiểu nhị ca.</font>
+storymenu_81551_1=<font face="Default" color="#ffffff" >Được, cảm ơn tiểu nhị ca. </font>
+storymenu_81552_1=<font face="Default" color="#ffffff" >Thế nào, ngươi có thể tìm được nơi muốn đi chưa?</font>
+storymenu_81552_2=<font face="Default" color="#ffffff" >Việc không được chậm trễ, ta cũng thay ngươi hỏi thử rồi.</font>
+storymenu_81552_3=<font face="Default" color="#ffffff" >Không cần Cảm ơn, chúng ta chia nhau đi hỏi, đến lúc đó lại về Tửu Lầu này.</font>
+storymenu_81553_1=<font face="Default" color="#ffffff" >Như vậy, làm phiền ngươi rồi.</font>
+storymenu_81554_1=<font face="Default" color="#ffffff" >Tại hạ muốn tìm 1 nơi gọi là Không Cốc, nghe nói ở gần Yên Vũ Trang này, không biết đại ca có biết hay không?</font>
+storymenu_81554_2=<font face="Default" color="#ffffff" >Đây...Vậy không làm phiền ngươi nữa </font>
+storymenu_81555_1=<font face="Default" color="#ffffff" >Vậy thì quá tốt rồi, không biết ngươi có nghe qua Không Cốc hay chưa?</font>
+storymenu_81555_2=<font face="Default" color="#ffffff" >Cái này, lão bá nhớ lại xem?</font>
+storymenu_81555_3=<font face="Default" color="#ffffff" >Cảm ơn bác!</font>
+storymenu_81556_1=<font face="Default" color="#ffffff" >Tìm 1 người bạn, hay là xin đại thúc dẫn ta 1 đoạn.</font>
+storymenu_81556_2=<font face="Default" color="#ffffff" >Không biết là thiếu gì, tại hạ có lẽ có thể giúp.</font>
+storymenu_81556_3=<font face="Default" color="#ffffff" >Yên tâm</font><font face="Default" color="#ffffff" >, ta đi ngay. </font>
+storymenu_81557_1=<font face="Default" color="#ffffff" >Đây, được, phiền tiểu nhị ca.</font>
+storymenu_81558_1=<font face="Default" color="#ffffff" >Không sao, giờ ta sẽ đến Nhạn Môn Quan 1 chuyến</font>
+storymenu_81558_2=
+storymenu_81559_1=<font face="Default" color="#ffffff" >Được.</font>
+storymenu_81560_1=<font face="Default" color="#ffffff" >Vậy, bây giờ có thể đưa ta đi Không Cốc đúng không?</font>
+storymenu_81560_2=<font face="Default" color="#ffffff" >Được.</font>
+storymenu_81561_1=<font face="Default" color="#ffffff" >Vết thương của ngươi?</font>
+storymenu_81561_2=<font face="Default" color="#ffffff" >Được, ngươi chú ý an toàn.</font>
+storymenu_81563_1=<font face="Default" color="#ffffff" >Liên huynh? huynh?!!</font>
+storymenu_81563_2=<font face="Default" color="#ffffff" >Ngươi? Rốt cuộc đã xảy ra việc gì?</font>
+storymenu_81563_3=<font face="Default" color="#ffffff" >Đây...</font>
+storymenu_81564_1=<font face="Default" color="#ffffff" >Ngươi...đây hà tất</font><font face="Default" color="#ffffff" >?</font>
+storymenu_81566_1=<font face="Default" color="#ffffff" >Ngươi!</font>
+storymenu_81652_1=<font face="Default" color="#ffffff" >Vậy ở đây sao có nhiều người như vậy?</font>
+storymenu_81652_2=<font face="Default" color="#ffffff" >Liên huynh này?</font>
+storymenu_81652_3=<font face="Default" color="#ffffff" >Sau đó?</font>
+storymenu_81652_4=<font face="Default" color="#ffffff" >Tất Gia Hỏa này là ý gì?</font>
+storymenu_81652_5=<font face="Default" color="#ffffff" >Đây, Tiêu Cô Nương tình cảm sâu đậm, quả thực khiến người khác vừa khâm phục vừa xót thương.</font>
+storymenu_81652_6=<font face="Default" color="#ffffff" >Ta đi hỏi thử anh ta như thế nào rồi?</font>
+storymenu_81653_1=<font face="Default" color="#ffffff" >Các ngươi quả nhiên là theo ta đến Không Cốc</font><font face="Default" color="#ffffff" >, Đinh Cửu Trùng cũng thế thôi, cái chết của Tiêu Cô Nương…Ma Đao Đường tại sao cần phải khổ cực ép 1 người con gái đáng thương!</font>
+storymenu_81653_2=<font face="Default" color="#ffffff" >Ta tại sao phải tin ngươi?</font>
+storymenu_81653_3=<font face="Default" color="#ffffff" >Là gì?</font>
+storymenu_81653_4=<font face="Default" color="#ffffff" >Hóa ra là thế</font><font face="Default" color="#ffffff" >!</font>
+storymenu_81653_5=<font face="Default" color="#ffffff" >Vậy ước chiến sau này? </font>
+storymenu_81653_6=<font face="Default" color="#ffffff" >Đây là tất nhiên! 1 tiểu tặc ngoại bang mà thôi.</font>
+storymenu_81653_7=<font face="Default" color="#ffffff" >Không vấn đề.</font>
+storymenu_81654_1=<font face="Default" color="#ffffff" >Không thể chối từ!</font>
+storymenu_81654_2=<font face="Default" color="#ffffff" >Đệ tử tuân lệnh, chỉ là đây với giang hồ....</font>
+storymenu_81654_3=<font face="Default" color="#ffffff" >Ta cần phải cản Yến Song Hành không?</font>
+storymenu_81654_4=<font face="Default" color="#ffffff" >Đệ tử hiểu.</font> <font face="Default" color="#ff3333" >(Hoàn thành nhiệm vụ này sẽ mở nhiệm vụ nội công 5 Cái Bang, và nhiệm vụ tiếp theo đều không thể vứt bỏ, sau khi hoàn thành nhiệm vụ nội công 5 môn phái có thể tìm người đổi nội công 5 môn phái mở thuộc tính thử luyện, và không ngừng tu luyện nội công của mình.)</font>
+storymenu_81655_1=<font face="Default" color="#ffffff" >Đúng là như vậy.</font><font face="Default" color="#ffffff" >Đúng là như vậy.</font>
+storymenu_81655_2=<font face="Default" color="#ffffff" >Không sao, giao cho ta đi.</font>
+storymenu_81655_3=<font face="Default" color="#ffffff" >Ta đi làm ngay</font>
+storymenu_81656_1=<font face="Default" color="#ffffff" >Yến Song Hành?</font> <font face="Default" color="#ffffff" >Ta đến nói với hắn ta.</font>
+storymenu_81657_1=<font face="Default" color="#ffffff" >Tại hạ đệ tử Cái Bang, Khai Thần Y ẩn cư tại Cái Bang, người trong Cái Bang tự nhiên muốn đứng ra bảo vệ, hơn nữa phàm là việc đều có trước có sau, ta đã hẹn với Khai Thần Y rồi.</font>
+storymenu_81657_2=<font face="Default" color="#ffffff" >Được, nhất ngôn cửu đỉnh!</font>
+storymenu_81658_1=<font face="Default" color="#ffffff" >Đương nhiên, không hổ thẹn là Thập Tuyệt, võ công Yến Song Hành thiên hạ đệ nhất, tại hạ khâm phục</font><font face="Default" color="#ffffff" >, giờ ta sẽ giúp ngươi khuyên Thần Y. </font>
+storymenu_81659_1=<font face="Default" color="#ffffff" >Ta nguyện chịu thua </font><font face="Default" color="#ffffff" >, kỳ thực trước khi Bang Chủ đến cũng căn dặn ta, anh ta trước đây đã có giao tình với Yến Song Hành, cho nên tất cả thuốc trị thương mà Cái Bang cần có thể đợi 1 chút.</font>
+storymenu_81659_2=<font face="Default" color="#ffffff" >Cần những thứ gì, ta sẽ đi tìm.</font>
+storymenu_81659_3=<font face="Default" color="#ffffff" >Không thành vấn đề!</font>
+storymenu_81660_1=<font face="Default" color="#ffffff" >Được, không vấn đề gì!</font><font face="Default" color="#ffffff" >Được, không vấn đề gì!</font>
+storymenu_81661_1=<font face="Default" color="#ffffff" >Võ công Yến tiền bối cao cường, đệ tử cam bái phục</font><font face="Default" color="#ffffff" >. Nhưng ta đúng lúc cũng muốn giúp Yến tiền bối việc cầu y, Khai Thần Y nói muốn nghiên cứu bệnh tình em gái Yến Tiền Bối thì cần có 1 số nguyên liệu đặc biệt, trong đó có Linh Xà Đan của Cái Bang, không biết có thể giao cho Khai Thần Y không? </font>
+storymenu_81661_2=<font face="Default" color="#ffffff" >Đệ tử tuân lệnh!</font>
+storymenu_81662_1=<font face="Default" color="#ffffff" >Như vậy, vậy phiền Triển sư huynh đi 1 chuyến, Khai Thần Y còn cần thứ khác, ta phải đi Đường Môn 1 chuyến.</font>
+storymenu_81662_2=<font face="Default" color="#ffffff" >Đa tạ Triển sư huynh.</font>
+storymenu_81663_1=<font face="Default" color="#ffffff" >Chưởng môn anh minh, tại hạ đúng là có 1 việc thỉnh cầu, hi vọng chưởng môn đồng ý</font>
+storymenu_81663_2=<font face="Default" color="#ffffff" >Tại hạ muốn mượn Đường Châm của Đường Môn, không biết có được không?</font>
+storymenu_81663_3=<font face="Default" color="#ffffff" >Quả thực không giấu, lần này là bởi vì Khai Phi Cơ Thần Y muốn trị bệnh thay cho em gái Yến Song Hành, cần mượn Đường Châm...</font>
+storymenu_81663_4=<font face="Default" color="#ffffff" >Đa tạ Đường chưởng môn!</font>
+storymenu_81664_1=<font face="Default" color="#ffffff" >Đã đến mức cần duy trì tính mạng ?</font>
+storymenu_81664_2=<font face="Default" color="#ffffff" >Vậy</font> <font face="Default" color="#ffffff" >phải làm sao đây</font><font face="Default" color="#ffffff" >...</font>
+storymenu_81664_3=<font face="Default" color="#ffffff" >Với sự từng trải và danh tiếng của Yến Tiền Bối, và võ công đệ nhất thiên hạ của huynh ấy, thì có gì khó?</font>
+storymenu_81664_4=<font face="Default" color="#ffffff" >Hóa ra là thế, Yến Tiền Bối gấp rút cứu người, chắc chắn như thế.</font>
+storymenu_81664_5=
+storymenu_81665_1=<font face="Default" color="#ffffff" >Vâng, nhưng Khai Thần Y thay Yến Tiền Bối mở 1 phương thuốc, có lẽ sẽ có cơ hội trị tốt.</font>
+storymenu_81665_2=<font face="Default" color="#ffffff" >Việc tiếp theo?</font>
+storymenu_81665_3=<font face="Default" color="#ffffff" >Đệ tử tuân lệnh!</font>
+story_81504_3=<font face="Default" color="#ffffff" >Uhm, Tất Gia Hỏa sau khi mất tích 7 năm thì tái xuất giang hồ, lúc đó đúng là thông tin truyền từ Tiết tổng tiêu đầu Yến Kinh và Sử Thư Ưng Vạn Thú Sơn Trang, nay cần ngươi đi một chuyến, những cái đã qua nhất định phải làm rõ thông tin liên quan đến Tất Gia Hỏa.</font>
+story_81508_3=<font face="Default" color="#ffffff" >Thì ra là việc này</font><font face="Default" color="#ffffff" >,</font> <font face="Default" color="#ffffff" >Tất Gia Hỏa</font> <font face="Default" color="#ffffff" >thật sự</font> <font face="Default" color="#ffffff" >có</font> <font face="Default" color="#ffffff" >lấy một linh vật chỗ bổn trang, đó là một loại linh thú đặc biệt nhất trong Vạn Thú Sơn Trang tên là Cửu Vĩ Linh Hồ, cũng có người gọi là Tầm Bảo Linh Hồ, bởi vì linh thú này có thể tìm được tung tích các bảo vật thế gian.</font>
+story_81509_2=<font face="Default" color="#ffffff" >Quả nhiên như thế, chẳng trách lúc đầu sau khi tìm lại Đả Cẩu Bổng bang chủ phát hiện dường như có dấu tích Tầm Bảo Linh Hồ, lúc đó bang chủ băn khoăn về Vạn Thú Sơn Trang và chưa nghiên cứu kỹ việc này, xem ra ta hiểu lầm Vạn Thú Sơn Trang rồi, người làm việc này thì ra là Tất Gia Hỏa.</font>
+story_81522_3=<font face="Default" color="#ffffff" >Có việc này sao? Mang cho ta xem...binh khí của Đường Môn? Thêm cây kim này? Dường như ta đã phát hiện ra gì rồi, thêm thời gian Tất Gia Hỏa tái xuất giang hồ, ta biết rồi, ngươi nhanh đến Vạn Thú Sơn Trang, ta cần khẳng định thêm một chút. Lúc đầu Tất Gia Hỏa tái xuất giang hồ ở Vạn Thú Sơn Trang đã mượn đi một thứ, ta cần ngươi đi xác nhận vật mà Tất Gia Hỏa mượn đi đó là vật gì của Vạn Thú Sơn Trang.</font>
+storymenu_81508_2=<font face="Default" color="#ffffff" >Trước khi Cái Bang chúng ta điều tra việc Tất Gia Hỏa tái xuất giang hồ, muốn hỏi xem lúc đầu Tất Gia Hỏa ở Vạn Thú Sơn Trang</font> <font face="Default" color="#ffffff" >đã</font> <font face="Default" color="#ffffff" >lấy đi vật gì?</font>
+storymenu_81509_3=<font face="Default" color="#ffffff" >Thì ra là vậy, Tất Gia Hỏa cấu kết Hình Quân Khả và Đường Vân cùng đi cướp tiêu, đoạt được nhiều vũ khí Đường Môn, sau đó đến Vạn Thú Sơn Trang bức ép lấy đi Cửu Vĩ Linh Hồ, Hình Quân Khả và Đường Vân hành thích Cái Bang vu oan cho Đường Môn, còn Tất Gia Hỏa lén lút lấy trộm Đả Cẩu Bổng.</font>
+collectinfo_81508=Đến Nhạn Môn Quan thu thập <a href="findnpc,clone004_wln,278,1,430" style="HLStype1">Hồ Dương Thảo</a>
+story_81558_1=<font face="Default" color="#ffffff" >Đây là loại cỏ hiếm có, mọc tại Nhạn Môn Quan, ngày trước khi chiến sự chưa căng thẳng, năm nào cũng có thương nhân đến thu thập, nay nơi này loạn lạc, cỏ này rất hiếm.</font>
+story_81558_2=<font face="Default" color="#ffffff" >Khó tìm lắm, đây là loại cỏ quý, mọc ở Nhạn Môn Quan, ngày trước khi chiến sự chưa căng thẳng, năm nào cũng có thương nhân đến thu thập, nay nơi này loạn lạc, cỏ này không dễ kiếm.</font>
+

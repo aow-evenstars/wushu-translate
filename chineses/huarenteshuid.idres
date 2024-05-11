@@ -1,0 +1,356 @@
+﻿
+jianghu_shashou=Ác nhân
+jianghu_sidi=Túc Địch
+role_title_851=Du côn
+role_title_852=Ác côn
+role_title_853=Cuồng Đồ
+role_title_854=Đồ Tể
+role_title_855=Tội Ác Chồng Chất
+role_title_856=Thiên Sát Tinh
+desc_condition_9560=Ở kiểu giang hồ, đánh bại đối thủ 1 lần trở lên
+desc_condition_9561=Ở kiểu giang hồ, đánh bại đối thủ 10 lần trở lên
+desc_condition_9562=Ở kiểu giang hồ, đánh bại đối thủ 30 lần trở lên
+desc_condition_9563=Ở kiểu giang hồ, đánh bại đối thủ 100 lần trở lên
+desc_condition_9564=Ở kiểu giang hồ, đánh bại đối thủ 300 lần trở lên
+desc_condition_9565=Ở kiểu giang hồ, đánh bại đối thủ 1000 lần trở lên
+desc_condition_9566=Phải nhận được danh phận Lưu Manh
+desc_condition_9567=Phải nhận được danh phận Ác Ôn
+desc_condition_9568=Phải nhận được danh phận Cuồng Đồ
+desc_condition_9569=Phải nhận được danh phận Đồ Tể
+desc_condition_9570=Phải nhận được danh phận Tội Ác Chồng Chất
+desc_condition_9587=Sở hữu 1 Túc Địch
+desc_condition_9588=Sở hữu 3 Túc Địch
+desc_condition_9589=Sở hữu 10 Túc Địch
+desc_condition_9590=Sở hữu 20 Túc Địch
+origin_851_desc=Người tùy tiện làm càn ở chợ, vô pháp vô thiên, khiến bách tính vô cùng căm ghét.
+origin_852_desc=Người gây ra nhiều vụ án ở các nơi, khiến hàng xóm bất an, bị truy nã công khai
+origin_853_desc=Kẻ phạm tội coi thường vương pháp, điên cuồng, đã bị nhiều nơi treo thưởng truy bắt
+origin_854_desc=Làm vô số việc ác, phạm nhiều tội tày trời, đã trở thành kẻ thù chung của giang hồ
+origin_855_desc=Tính tình thô bạo, làm nhiều việc ác, tội nghiệt chồng chất, Phật Đà khó độ
+origin_856_desc=Kẻ đại ác hiện thân của Thiên Sát Tinh, quen làm việc ác, tội ác khiến thiên lý khó dung
+origin_881_desc=Gặp người có tính khí không hợp, thường có xung đột, trong lòng có oán niệm!
+origin_884_desc=Hành sự trái với đạo lý, có xung đột với nhiều nhân sĩ, có nhiều kẻ địch trên giang hồ
+origin_851=Du côn
+origin_852=Ác côn
+origin_853=Cuồng Đồ
+origin_854=Đồ Tể
+origin_855=Tội Ác Chồng Chất
+origin_856=Thiên Sát Tinh
+origin_kill_01=Đã có <font color="#ff0000">{@0:name}</font> người bị các hạ tấn công.
+ui_rank_node_6=Thích khách
+ui_rank_6_killer=Cấm Địa Bách Đại Thích Khách
+rank_6_killer_desc=100 Thích Khách thủ đoạn cao minh trong Cấm Địa
+ui_rank_1_tongjifan=Trọng Phạm Giang Hồ
+ui_task_pdjm_jdss=Thích Khách Giang Hồ
+ui_killer_report=Thích Khách báo danh
+ui_killer_ranking=BXH Thích Khách
+ui_chouren_01=Túc Địch
+ui_xuechou_01=Huyết cừu
+ui_menu_friend_update_xuechou=Thăng cấp thành huyết cừu
+ui_menu_friend_delete_xuechou=Xóa huyết cừu
+ui_menu_friend_delete_chouren=Xóa Túc Địch
+ui_chouren_haibu=<font color="#ff8d28">Hải Bổ: Thêm làm Túc Địch và gửi Hải Bổ truy nã</font>
+ui_menu_xuechou_prompt=1. Sau khi thành huyết cừu, độ hận không thể giảm mỗi ngày<br>2. Quan hệ huyết cừu không thể tổ đội<br>3.Xem bói có thể truy đuổi huyết cừu trong t.gian có hiệu lực.<br><br> Muốn thêm <font color="#ffff00">{@0:name}</font> thành huyết cừu?
+ui_menu_friend_confirm_add={@0:name} đánh ngươi choáng, có thêm hắn làm Túc Địch?
+jdss04_1=<s><s>Giang hồ đầy rẫy Cấm Địa hung hiểm, Cấm Địa cũng không thiếu nghĩa sĩ hào kiệt. Nhưng có nghĩa sĩ hào hiệp thì có thích khách cầu tài bán mạng. Họ hành sự theo lệnh nhưng không phải nhiệm vụ nào cũng làm; Họ cầu tài nhưng không phải tiền nào cũng lấy. Ngươi không cần biết họ là ai, cần tiền làm gì, chỉ cần hiểu giao tiền thì việc đó ngươi cứ an tâm. Không phải không có ai hoài nghi danh phận và mục đích của họ, nhưng họ nay đã trở thành thi thể. Không có tên hiệu, mọi người chỉ gọi là: Thích Khách Giang Hồ.
+jdss04_2=1. Hạn chế cách chơi: <br>Phải thoát bảo hộ tân thủ mới được tham gia<br>2. Cách chơi chính: <br>Trong thời gian chỉ định bảo vệ BOSS không bị kẻ xâm nhập Cấm Địa tiêu diệt và cố gắng tiêu diệt kẻ xâm nhập nhiều nhất<br>3. Quy tắc triệu hoán: <br>Tham gia các sự kiện bất kỳ khác đều sẽ không được triệu hoán; Có thể chọn báo danh, báo danh xong sẽ được ưu tiên triệu hoán<br>4. Phân phối thực lực: <br>Cấp Thích Khách triệu hoán lấy trình độ thực lực bình quân của đội của kẻ xâm nhập Cấm Địa làm chuẩn, biến động lên xuống chút ít<br>5. Quy tắc được điểm: <br>Diệt kẻ xâm nhập Cấm Địa 1 lần được vài điểm; Thời gian bảo vệ BOSS càng lâu thì điểm càng cao; Bảo vệ BOSS đến khi hết thời gian thì thắng, nhận nhiều điểm
+ui_qs_mouse=Công cụ chuyển động gây rối
+ui_qs_g=Chuyển động
+home_qs_tips_01=Gây rối thành công
+ui_home_zh_05=Vào gây rối
+home_enter_failed_06=Gây rối thất bại
+home_qiaosuo_failed_01=Không có công cụ cần để gây rối (Mua ở thương nhân tạp hóa) hoặc Bạc Chẵn cần để mở khóa cạm bẫy
+tool_home_qs=Công cụ gây rối
+desc_tool_home_qs_0=Công cụ cần để tiến hành gây rối.<br>Có thể mua ở thương nhân tạp hóa
+tips_btn_home_17=Vào gây rối
+talk_wjd_cm01_05=Tiếp theo ta sẽ chỉ cho ngươi cách đọc 5 âm tiết trong tiếng Nhật, ví dụ あ(a), cách đọc của “あ” là “a”, đợi ngươi nhớ xong ta sẽ hỏi ngươi, nếu ngươi đáp đúng, chứng tỏ ngươi đã học được
+talk_wjd_cm01_teach01=Nghe nhé, あ(a), い(i), う(u), え(e), お(o), ngươi nhớ những âm đọc này rồi chứ?
+talk_wjd_cm01_teach01q_1=“あ” đọc như thế nào?
+talk_wjd_cm01_teach01q_2=“い” đọc như thế nào?
+talk_wjd_cm01_teach01q_3=“う” đọc như thế nào?
+talk_wjd_cm01_teach01q_4=“え” đọc như thế nào?
+talk_wjd_cm01_teach01q_5=“お” đọc như thế nào?
+talk_wjd_cm01_teach01q_6=Âm đọc nào dưới đây là a?
+talk_wjd_cm01_teach01q_7=Âm đọc nào dưới đây là i?
+talk_wjd_cm01_teach01q_8=Âm đọc nào dưới đây là u?
+talk_wjd_cm01_teach01q_9=Âm đọc nào dưới đây là e?
+talk_wjd_cm01_teach01q_10=Âm đọc nào dưới đây là o?
+talk_wjd_cm01_teach01a_1=a
+talk_wjd_cm01_teach01a_2=i
+talk_wjd_cm01_teach01a_3=u
+talk_wjd_cm01_teach01a_4=e
+talk_wjd_cm01_teach01a_5=o
+talk_wjd_cm01_teach01a_6=あ
+talk_wjd_cm01_teach01a_7=い
+talk_wjd_cm01_teach01a_8=う
+talk_wjd_cm01_teach01a_9=え
+talk_wjd_cm01_teach01a_10=お
+talk_wjd_cm01_teach02=Nghe nhé, か(ka), き(ki), く(ku), け(ke), こ(ko), ngươi nhớ những âm đọc này rồi chứ?
+talk_wjd_cm01_teach02q_1=“か” đọc như thế nào?
+talk_wjd_cm01_teach02q_2=“き” đọc như thế nào?
+talk_wjd_cm01_teach02q_3=“く” đọc như thế nào?
+talk_wjd_cm01_teach02q_4=“け” đọc như thế nào?
+talk_wjd_cm01_teach02q_5=“こ” đọc như thế nào?
+talk_wjd_cm01_teach02q_6=Âm đọc nào dưới đây là ka?
+talk_wjd_cm01_teach02q_7=Âm đọc nào dưới đây là ki?
+talk_wjd_cm01_teach02q_8=Âm đọc nào dưới đây là ku?
+talk_wjd_cm01_teach02q_9=Âm đọc nào dưới đây là ke?
+talk_wjd_cm01_teach02q_10=Âm đọc nào dưới đây là ko?
+talk_wjd_cm01_teach02a_1=ka
+talk_wjd_cm01_teach02a_2=ki
+talk_wjd_cm01_teach02a_3=ku
+talk_wjd_cm01_teach02a_4=ke
+talk_wjd_cm01_teach02a_5=ko
+talk_wjd_cm01_teach02a_6=か
+talk_wjd_cm01_teach02a_7=き
+talk_wjd_cm01_teach02a_8=く
+talk_wjd_cm01_teach02a_9=け
+talk_wjd_cm01_teach02a_10=こ
+talk_wjd_cm01_teach03=Nghe nhé, さ(sa), し(si), す(su), せ(se), そ(so), ngươi nhớ những âm đọc này rồi chứ?
+talk_wjd_cm01_teach03q_1=“さ” đọc như thế nào?
+talk_wjd_cm01_teach03q_2=“し” đọc như thế nào?
+talk_wjd_cm01_teach03q_3=“す” đọc như thế nào?
+talk_wjd_cm01_teach03q_4=“せ” đọc như thế nào?
+talk_wjd_cm01_teach03q_5=“そ” đọc như thế nào?
+talk_wjd_cm01_teach03q_6=Âm đọc nào dưới đây là sa?
+talk_wjd_cm01_teach03q_7=Âm đọc nào dưới đây là si?
+talk_wjd_cm01_teach03q_8=Âm đọc nào dưới đây là su?
+talk_wjd_cm01_teach03q_9=Âm đọc nào dưới đây là se?
+talk_wjd_cm01_teach03q_10=Âm đọc nào dưới đây là so?
+talk_wjd_cm01_teach03a_1=sa
+talk_wjd_cm01_teach03a_2=si
+talk_wjd_cm01_teach03a_3=su
+talk_wjd_cm01_teach03a_4=se
+talk_wjd_cm01_teach03a_5=so
+talk_wjd_cm01_teach03a_6=さ
+talk_wjd_cm01_teach03a_7=し
+talk_wjd_cm01_teach03a_8=す
+talk_wjd_cm01_teach03a_9=せ
+talk_wjd_cm01_teach03a_10=そ
+talk_wjd_cm01_teach04=Nghe nhé, た(ta), ち(ti), つ(tu), て(te), と(to), ngươi nhớ những âm đọc này rồi chứ?
+talk_wjd_cm01_teach04q_1=“た” đọc như thế nào?
+talk_wjd_cm01_teach04q_2=“ち” đọc như thế nào?
+talk_wjd_cm01_teach04q_3=“つ” đọc như thế nào?
+talk_wjd_cm01_teach04q_4=“て” đọc như thế nào?
+talk_wjd_cm01_teach04q_5=“と” đọc như thế nào?
+talk_wjd_cm01_teach04q_6=Âm đọc nào dưới đây là ta?
+talk_wjd_cm01_teach04q_7=Âm đọc nào dưới đây là ti?
+talk_wjd_cm01_teach04q_8=Âm đọc nào dưới đây là tu?
+talk_wjd_cm01_teach04q_9=Âm đọc nào dưới đây là te?
+talk_wjd_cm01_teach04q_10=Âm đọc nào dưới đây là to?
+talk_wjd_cm01_teach04a_1=ta
+talk_wjd_cm01_teach04a_2=ti
+talk_wjd_cm01_teach04a_3=tu
+talk_wjd_cm01_teach04a_4=te
+talk_wjd_cm01_teach04a_5=to
+talk_wjd_cm01_teach04a_6=た
+talk_wjd_cm01_teach04a_7=ち
+talk_wjd_cm01_teach04a_8=つ
+talk_wjd_cm01_teach04a_9=て
+talk_wjd_cm01_teach04a_10=と
+talk_wjd_cm01_teach05=Nghe nhé, な(na), に(ni), ぬ(nu), ね(ne), の(no), ngươi nhớ những âm đọc này rồi chứ?
+talk_wjd_cm01_teach05q_1=“な” đọc như thế nào?
+talk_wjd_cm01_teach05q_2=“に” đọc như thế nào?
+talk_wjd_cm01_teach05q_3=“ぬ” đọc như thế nào?
+talk_wjd_cm01_teach05q_4=“ね” đọc như thế nào?
+talk_wjd_cm01_teach05q_5=“の” đọc như thế nào?
+talk_wjd_cm01_teach05q_6=Âm đọc nào dưới đây là na?
+talk_wjd_cm01_teach05q_7=Âm đọc nào dưới đây là ni?
+talk_wjd_cm01_teach05q_8=Âm đọc nào dưới đây là nu?
+talk_wjd_cm01_teach05q_9=Âm đọc nào dưới đây là ne?
+talk_wjd_cm01_teach05q_10=Âm đọc nào dưới đây là no?
+talk_wjd_cm01_teach05a_1=na
+talk_wjd_cm01_teach05a_2=ni
+talk_wjd_cm01_teach05a_3=nu
+talk_wjd_cm01_teach05a_4=ne
+talk_wjd_cm01_teach05a_5=no
+talk_wjd_cm01_teach05a_6=な
+talk_wjd_cm01_teach05a_7=に
+talk_wjd_cm01_teach05a_8=ぬ
+talk_wjd_cm01_teach05a_9=ね
+talk_wjd_cm01_teach05a_10=の
+talk_wjd_cm01_teach06=Nghe nhé, は(ha), ひ(hi), ふ(hu), へ(he), ほ(ho), ngươi nhớ những âm đọc này rồi chứ?
+talk_wjd_cm01_teach06q_1=“は” đọc như thế nào?
+talk_wjd_cm01_teach06q_2=“ひ” đọc như thế nào?
+talk_wjd_cm01_teach06q_3=“ふ” đọc như thế nào?
+talk_wjd_cm01_teach06q_4=“へ” đọc như thế nào?
+talk_wjd_cm01_teach06q_5=“ほ” đọc như thế nào?
+talk_wjd_cm01_teach06q_6=Âm đọc nào dưới đây là ha?
+talk_wjd_cm01_teach06q_7=Âm đọc nào dưới đây là hi?
+talk_wjd_cm01_teach06q_8=Âm đọc nào dưới đây là hu?
+talk_wjd_cm01_teach06q_9=Âm đọc nào dưới đây là he?
+talk_wjd_cm01_teach06q_10=Âm đọc nào dưới đây là ho?
+talk_wjd_cm01_teach06a_1=ha
+talk_wjd_cm01_teach06a_2=hi
+talk_wjd_cm01_teach06a_3=hu
+talk_wjd_cm01_teach06a_4=he
+talk_wjd_cm01_teach06a_5=ho
+talk_wjd_cm01_teach06a_6=は
+talk_wjd_cm01_teach06a_7=ひ
+talk_wjd_cm01_teach06a_8=ふ
+talk_wjd_cm01_teach06a_9=へ
+talk_wjd_cm01_teach06a_10=ほ
+talk_wjd_cm01_teach07=Nghe nhé, ま(ma), み(mi), む(mu), め(me), も(mo), ngươi nhớ những âm đọc này rồi chứ?
+talk_wjd_cm01_teach07q_1=“ま” đọc như thế nào?
+talk_wjd_cm01_teach07q_2=“み” đọc như thế nào?
+talk_wjd_cm01_teach07q_3=“む” đọc như thế nào?
+talk_wjd_cm01_teach07q_4=“め” đọc như thế nào?
+talk_wjd_cm01_teach07q_5=“も” đọc như thế nào?
+talk_wjd_cm01_teach07q_6=Âm đọc nào dưới đây là ma?
+talk_wjd_cm01_teach07q_7=Âm đọc nào dưới đây là mi?
+talk_wjd_cm01_teach07q_8=Âm đọc nào dưới đây là mu?
+talk_wjd_cm01_teach07q_9=Âm đọc nào dưới đây là me?
+talk_wjd_cm01_teach07q_10=Âm đọc nào dưới đây là mo?
+talk_wjd_cm01_teach07a_1=ma
+talk_wjd_cm01_teach07a_2=mi
+talk_wjd_cm01_teach07a_3=mu
+talk_wjd_cm01_teach07a_4=me
+talk_wjd_cm01_teach07a_5=mo
+talk_wjd_cm01_teach07a_6=ま
+talk_wjd_cm01_teach07a_7=み
+talk_wjd_cm01_teach07a_8=む
+talk_wjd_cm01_teach07a_9=め
+talk_wjd_cm01_teach07a_10=も
+talk_wjd_cm01_teach08=Nghe nhé, や(ya), い(i), ゆ(yu), え(e), よ(yo), ngươi nhớ những âm đọc này rồi chứ?
+talk_wjd_cm01_teach08q_1=“や” đọc như thế nào?
+talk_wjd_cm01_teach08q_2=“い” đọc như thế nào?
+talk_wjd_cm01_teach08q_3=“ゆ” đọc như thế nào?
+talk_wjd_cm01_teach08q_4=“え” đọc như thế nào?
+talk_wjd_cm01_teach08q_5=“よ” đọc như thế nào?
+talk_wjd_cm01_teach08q_6=Âm đọc nào dưới đây là ya?
+talk_wjd_cm01_teach08q_7=Âm đọc nào dưới đây là i?
+talk_wjd_cm01_teach08q_8=Âm đọc nào dưới đây là yu?
+talk_wjd_cm01_teach08q_9=Âm đọc nào dưới đây là e?
+talk_wjd_cm01_teach08q_10=Âm đọc nào dưới đây là yo?
+talk_wjd_cm01_teach08a_1=ya
+talk_wjd_cm01_teach08a_2=i
+talk_wjd_cm01_teach08a_3=yu
+talk_wjd_cm01_teach08a_4=e
+talk_wjd_cm01_teach08a_5=yo
+talk_wjd_cm01_teach08a_6=や
+talk_wjd_cm01_teach08a_7=い
+talk_wjd_cm01_teach08a_8=ゆ
+talk_wjd_cm01_teach08a_9=え
+talk_wjd_cm01_teach08a_10=よ
+talk_wjd_cm01_teach09=Nghe nhé, ら(ra), り(ri), る(ru), れ(re), ろ(ro), ngươi nhớ những âm đọc này rồi chứ?
+talk_wjd_cm01_teach09q_1=“ら” đọc như thế nào?
+talk_wjd_cm01_teach09q_2=“り” đọc như thế nào?
+talk_wjd_cm01_teach09q_3=“る” đọc như thế nào?
+talk_wjd_cm01_teach09q_4=“れ” đọc như thế nào?
+talk_wjd_cm01_teach09q_5=“ろ” đọc như thế nào?
+talk_wjd_cm01_teach09q_6=Âm đọc nào dưới đây là ra?
+talk_wjd_cm01_teach09q_7=Âm đọc nào dưới đây là ri?
+talk_wjd_cm01_teach09q_8=Âm đọc nào dưới đây là ru?
+talk_wjd_cm01_teach09q_9=Âm đọc nào dưới đây là re?
+talk_wjd_cm01_teach09q_10=Âm đọc nào dưới đây là ro?
+talk_wjd_cm01_teach09a_1=ra
+talk_wjd_cm01_teach09a_2=ri
+talk_wjd_cm01_teach09a_3=ru
+talk_wjd_cm01_teach09a_4=re
+talk_wjd_cm01_teach09a_5=ro
+talk_wjd_cm01_teach09a_6=ら
+talk_wjd_cm01_teach09a_7=り
+talk_wjd_cm01_teach09a_8=る
+talk_wjd_cm01_teach09a_9=れ
+talk_wjd_cm01_teach09a_10=ろ
+talk_wjd_cm01_teach10=Nghe nhé, わ(wa), い(i), う(u), え(e), を(wo), ngươi nhớ những âm đọc này rồi chứ?
+talk_wjd_cm01_teach10q_1=“わ” đọc như thế nào?
+talk_wjd_cm01_teach10q_2=“い” đọc như thế nào?
+talk_wjd_cm01_teach10q_3=“う” đọc như thế nào?
+talk_wjd_cm01_teach10q_4=“え” đọc như thế nào?
+talk_wjd_cm01_teach10q_5=“を” đọc như thế nào?
+talk_wjd_cm01_teach10q_6=Âm đọc nào dưới đây là wa?
+talk_wjd_cm01_teach10q_7=Âm đọc nào dưới đây là i?
+talk_wjd_cm01_teach10q_8=Âm đọc nào dưới đây là u?
+talk_wjd_cm01_teach10q_9=Âm đọc nào dưới đây là e?
+talk_wjd_cm01_teach10q_10=Âm đọc nào dưới đây là wo?
+talk_wjd_cm01_teach10a_1=wa
+talk_wjd_cm01_teach10a_2=i
+talk_wjd_cm01_teach10a_3=u
+talk_wjd_cm01_teach10a_4=e
+talk_wjd_cm01_teach10a_5=wo
+talk_wjd_cm01_teach10a_6=わ
+talk_wjd_cm01_teach10a_7=い
+talk_wjd_cm01_teach10a_8=う
+talk_wjd_cm01_teach10a_9=え
+talk_wjd_cm01_teach10a_10=を
+talk_wjd_dongyingyu_1=こんにちは (Xin Chào)
+talk_special_45303=てんのうばんざい...
+talk_xiake_shit_shenbu_005=バカやろう, ころす.
+DialogID_56780=<s>やめて!!!
+task_worldnpc01052=大丈夫だ, 問題ない…… (Hoàn toàn không hiểu cô ta nói gì, xem ra người này không phải là nhân sĩ trung nguyên)
+desc_Lyric_104=<center>Weng...Mou ni mou ni ma ha mou ni ye suo ha</center>
+desc_Lyric_105=<center><font color="#FFFF80">Weng...</font>Mou ni mou ni ma ha mou ni ye suo ha</center>
+desc_Lyric_106=<center><font color="#FFFF80">------Sakyamuni Buddha's mantra------</center>
+desc_Lyric_107=<center>Weng...Mou ni mou ni ma ha mou ni ye suo ha</center>
+desc_Lyric_305=<center><font color="#FFFF80">Weng</font>A hong...ban za gu lu bei ma xi de hong</center>
+desc_Lyric_306=<center>Heng......</center>
+desc_Lyric_307=<center><font color="#FFFF80">------ZhongBa Rinpoche------</center>
+desc_Lyric_201=<center><font color="#FFFF80">(Na)</font> (Mo) (Ha) (La)</center>
+desc_Lyric_202=<center>(Da) (Na) (Duo) (La) (Ye) (Ye)</center>
+desc_Lyric_203=<center><font color="#FFFF80">(Na)</font> (Mo) (A) (Li) (Ye)</center>
+desc_Lyric_204=<center>(Po) (Lu) (Jie) (Di) (Shuo) (Bo)</center>
+desc_Lyric_205=<center><font color="#FFFF80">(La)</font> (Ye) (Pu) (Ti ) (Sa) (Duo) (Po) (Ye)</center>
+desc_Lyric_206=<center>(Mo) (He) (Sa) (Duo) (Po) (Ye)</center>
+desc_Lyric_207=<center><font color="#FFFF80">(Mo)</font> (He) (Jia) (Lu) (Ni) (Jia) (Ye)</center>
+desc_Lyric_208=<center>(ong) (Sa) (Po) (La) (Fa ) (Yi)</center>
+desc_Lyric_209=<center><font color="#FFFF80">(Shu)</font> (Da) (Na) (Da) (Xia)</center>
+desc_Lyric_210=<center>(Na) (Mo) (Xi) (Ji) ( Li ) (Duo)</center>
+desc_Lyric_211=<center><font color="#FFFF80">(Yi)</font> (Meng) (A) (Li) (Ye) (Po) (Lu) (Ji) (Di)</center>
+desc_Lyric_212=<center>(Shi) (Fo) (La) (Leng) (Tuo) (Po)</center>
+desc_Lyric_213=<center><font color="#FFFF80">(Na)</font> (Mo) (Na) (La) (Jin) (Chi)</center>
+desc_Lyric_214=<center>(xi) (Li) (Mo) (He) (Po) (Duo) (Sha) (Mie)</center>
+desc_Lyric_215=<center><font color="#FFFF80">(Sa)</font> (Po) (A) (Tuo) (Dou) (Shu) (Peng)</center>
+desc_Lyric_216=<center>(A) (Shi) (Yun) (Sa) (Po) (Sa) (Duo)</center>
+desc_Lyric_217=<center><font color="#FFFF80">(Na)</font> (Mo) (Po) (Sa) (Duo) (Na) (Mo) (Po) (Qie)</center>
+desc_Lyric_218=<center>(Mo) (Fa) (Te) (Dou) (Da) (Zhi) (Tuo)</center>
+desc_Lyric_219=<center><font color="#FFFF80">(ong)</font> (A) (Po) (Lu) (Xi) (Lu) (Jia)</center>
+desc_Lyric_220=<center>(Di) (Jia) (Luo) (Di) (Yi) (Xi)</center>
+desc_Lyric_221=<center><font color="#FFFF80">(Li)</font> (Mo) (He) (Pu) (Ti) (Sa) (Duo)</center>
+desc_Lyric_222=<center>(Sa) (Po) (Sa) (Po) (Mo) (La) (Mo) (La)</center>
+desc_Lyric_223=<center><font color="#FFFF80">(Mo)</font> (Xi) (Mo) (Xi) (Li) (Tuo) (Yun)</center>
+desc_Lyric_224=<center>(Ju) (Lu) (Ju) (Lu) (Jie) (Meng)</center>
+desc_Lyric_225=<center><font color="#FFFF80">(Du)</font> (Lu) (Du) (Lu) (Fa) (She) (Ye) (Di)</center>
+desc_Lyric_226=<center>(Mo) (He) (Fa) (She) (Ye) (Di)</center>
+desc_Lyric_227=<center><font color="#FFFF80">(Tuo)</font> (La) (Tuo) (La) (Di) (Li) (Ni)</center>
+desc_Lyric_228=<center>(Shi) (Fo) (La) (Ye) (Zhe) (La)</center>
+desc_Lyric_229=<center><font color="#FFFF80"> (Zhe)</font> (La) (Mo) (Mo) (Fa) (Mo) (La)</center>
+desc_Lyric_230=<center>(Mu) (Di) (Li) (Yi) (Xi) (Yi) (Xi)</center>
+desc_Lyric_231=<center><font color="#FFFF80">(Shi)</font> (Na) (Shi) (Na) (A) (La) (Shen)</center>
+desc_Lyric_232=<center>(Fo) (La) (She) (Li) (Fa) (Sha) (Fa) (Shen)</center>
+desc_Lyric_233=<center><font color="#FFFF80">(Fo)</font> (La) (She) (Ye)</center>
+desc_Lyric_234=<center>(Hu) (Lu) (Hu) (Lu) (Mo) (La)</center>
+desc_Lyric_235=<center><font color="#FFFF80">(Hu)</font> (Lu) (Hu) (Lu) (Xi) (Li)</center>
+desc_Lyric_236=<center>(Suo) (La) (Suo) (La) (Xi) (Li) (Xi) (Li)</center>
+desc_Lyric_237=<center><font color="#FFFF80">(Su)</font> (Lu) (Su) (Lu) (Pu) (Ti) (Ye)</center>
+desc_Lyric_238=<center>(Pu) (Ti) (Ye) (Pu) (Tuo) (Ye)</center>
+desc_Lyric_239=<center><font color="#FFFF80">(Pu)</font> (Tuo) (Ye) (Mi) (Di) (Li) (Ye)</center>
+desc_Lyric_240=<center>(Na) (La) (Jin) (Chi) (Di) (Li)</center>
+desc_Lyric_241=<center><font color="#FFFF80">(Se)</font> (Ni) (Na) (Po) (Ye) (Mo) (Na)</center>
+desc_Lyric_242=<center>(Suo) (Po) (He) (Xi) (Tuo) (Ye)</center>
+desc_Lyric_243=<center><font color="#FFFF80">(Suo)</font> (Po) (He) (Mo) (He) (Xi) (Tuo) (Ye)</center>
+desc_Lyric_244=<center>(Suo) (Po) (He) (Xi) (Tuo) (Yu) (Yi)</center>
+desc_Lyric_245=<center><font color="#FFFF80">(Shi)</font> (Po) (La) (Ye) (Suo) (Po) (He)</center>
+desc_Lyric_246=<center>(Na) (La) (Jin) (Chi) (Suo) (Po) (He)</center>
+desc_Lyric_247=<center><font color="#FFFF80">(Mo)</font> (la) (Na) (La) (Suo) (Po) (He)</center>
+desc_Lyric_248=<center>(Xi) (La) (Seng) (A) (Mu) (Qie) (Ye)</center>
+desc_Lyric_249=<center><font color="#FFFF80">(Suo)</font> (Po) (He) (Suo) (Po) (Mo) (He)</center>
+desc_Lyric_250=<center>(A) (Xi) (Tuo) (Ye) (Suo) (Po) (He)</center>
+desc_Lyric_251=<center><font color="#FFFF80">(Zhe)</font> (Ji) (La) (A) (Xi) (Tuo) (Ye)</center>
+desc_Lyric_252=<center>(Suo) (Po) (He) (Bo) (Tuo) (Mo) (Jie)</center>
+desc_Lyric_253=<center><font color="#FFFF80">(Xi)</font> (Tuo) (Ye) (Suo) (Po) (He)</center>
+desc_Lyric_254=<center>(Na) (La) (Jin) (Chi) (Po) (Qie) (La) (Ye)</center>
+desc_Lyric_255=<center><font color="#FFFF80">(Suo)</font> (Po) (He) (Mo) (Po) (Li) (Sheng)</center>
+desc_Lyric_256=<center>(Jie) (La) (Ye) (Suo) (Po) (He)</center>
+desc_Lyric_257=<center><font color="#FFFF80">(Na)</font> (Mo) (He) (La) (Da) (Na)</center>
+desc_Lyric_258=<center>(Duo) (La) (Ye) (Ye) (Na) (Mo)</center>
+desc_Lyric_259=<center><font color="#FFFF80">(A)</font> (Li) (Ye) (Po) (Lu) (Ji) (Di)</center>
+desc_Lyric_260=<center>(Suo) (Po) (La) (Ye) (Suo) (Po) (He)</center>
+desc_Lyric_261=<center><font color="#FFFF80">(ong)</font> (Xi) (Dian) (Du)</center>
+desc_Lyric_262=<center>(Man) (Duo) (La) (Ba) (Tuo) (Ye)</center>
+desc_Lyric_263=<center><font color="#FFFF80">(Suo)</font>(Po) (He)</center>
+desc_Lyric_264=<center>------Mercy Mantra------</center>
+ui_note_text="Quý bằng hữu thân mến,<br><br><s><s>Lợi dụng lỗ hỏng để thực hiện bug/hack hoặc sử dụng các phần mềm để xâm hại phi pháp vào dữ liệu game đó chính là những hành động không tốt, là những hành xử thiếu văn minh trong một cộng đồng game.<br>Chúng ta không nên cổ xúy cho những hành vi sai trái ấy cũng như không nên dửng dưng khi phát hiện người chơi khác vi phạm. Và hơn hết, chúng ta cần phải chung tay xây đắp một cộng đồng game Cửu Âm Chân Kinh đoàn kết, đông vui - nói không với bug/hack. <br>Đối với những trường hợp vẫn cố tình sử dụng các phần mềm trái phép, tác động vào hệ thống game để thực hiện hành vi bug/hack, ... nếu phát hiện thì BQT sẽ tiến hành tạm khóa mà không cần báo trước. Bên cạnh đó, nếu điều tra có vi phạm sẽ tiến hành xử lý vi phạm tùy theo mức độ. Để hướng đến một cộng đồng game văn minh tiến bộ. BQT rất mong nhận được sự đồng tình, đóng góp của chư vị hảo hán khắp nơi bằng cách: khi phát hiện ra các hành vi vi phạm, hãy gởi thông tin về cho BQT thông qua trang hỗ trợ: <a href="http://hotro.gosu.vn/" style="HLStype1">http://hotro.gosu.vn/</a><br>Một lần nữa thay mặt BQT, Bổn Trang xin chân thành cám ơn sự đồng hành của quý vị trong thời gian vừa qua và cùng nhau chung tay xây dựng một cộng đồng game CACK đoàn kết - gắn bó - phát triển trong thời gian sắp tới.<br>Kính chúc quý vị có những giây phút thư giãn thoải mái cùng CACK!"
+ui_note_sign="BQT kính bút"
+desc_jysg_text_011=Một sự kiện mở server.
+

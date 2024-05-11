@@ -1,0 +1,35 @@
+﻿
+context_6201=<s>Nhìn ngươi cũng không phải người xấu, hay là thế này đi. Nghe nói Tịch Giai Sơn gần đây có bọn sơn tặc làm loạn, ngươi đi giáo huấn bọn chúng trừ hại cho dân, tiền xe của ngươi ta cũng không lấy nữa, ngươi thấy sao?
+context_6203=<s>Muốn sống thì hãy thay ta hái một ít Thực Vĩ Thảo và Lam Khê Hoa
+context_6204=<s>Ở đây có vò rượu, bên trong có chứa Tả Dược mà ta vừa bào chế. Ngươi hãy thay ta mang đến cho Phàn Học Băng, xem ta hành hạ hắn, haha
+context_6205=<s>{@0:}, giang hồ hiểm ác. Ủa, Cửu Chuyển Hoàn trên người ngươi ở đâu có thế? Đây là bí dược thất truyền nhiều năm của Đường Môn mà!
+context_6206={@0:}, ngươi đến thật đúng lúc, ta đang có việc cần ngươi giúp. Mấy ngày nữa là đến ngày giỗ của mẫu thân ta, nhờ ngươi giúp ta thu thập một ít rau, làm một ít món ăn dân dã để cúng mẫu thân. Mấy ngày trước do không cẩn thận nên lưng ta đau quá, {@0:}, phiền ngươi vậy.
+context_6207=<s>{@0:}, ta có việc nhờ ngươi giúp. Mộ của mẫu thân ta ở sau núi, nhưng một đám người hung dữ đến chiếm đỉnh núi, ta muốn nhờ thay ta dạy dỗ chúng.
+context_6208=<s>{@0:}, ta vẫn không yên tâm, ngươi bảo vệ ta dọc đường nhé
+context_6209=<s>{@0:}, ngươi nói có việc muốn hỏi ta? Là việc gì?
+context_6210=<s>Thiếu hiệp, sao nhiều ngày rồi cứ lưu lại Đường Môn ta thế này?
+context_6211=<s>Tần Dương Vũ?! Hừ, thả hắn ư? Được! Nhưng có một điều kiện! Ta muốn người phải thay ta đến Vạn Độc Cung lấy đồ. Trong Vạn Độc Cung đâu cũng có độc, ta mốn ngươi thay ta đến Nội Đảm của Độc Vương về đây, ngươi ử dụng Tang Hồn Tán ở nơi thích sẽ khiến Độc Vương tự xuất hiện!
+context_6212=<s>Láo xược, ngươi xứng để nói điều kiện với ta sao? Ta nói ngươi biết, lần này ta thấy ngươi dâng lên bài thuốc gia truyền nên tha mạng cho ngươi, hãy về báo lại cho con trai của Tần Dương Vũ, đừng hoang tưởng!
+target_6201=<s>Thay <a href="findnpc_new,school05,Transschool05A" style="HLStype1">Phàn Học Băng</a>đến Tịch Giai Sơn trừ khử <a href="findnpc_new,school05,npcclone013038" style="HLStype1">Sơn Tặc</a>
+target_6203=<s>Thay <a href="findnpc_new,school05,funnpcclone013025" style="HLStype1">Tần Côn</a> hái một ít <a href="findnpc_new,school05,GatherClone013003" style="HLStype1">Thực Vĩ Thảo</a> và <a href="findnpc_new,school05,GatherClone013004" style="HLStype1">Lan Khê Hoa</a>
+target_6204=<s>Đem bình rượu đựng Tả Dược này cho <a href="findnpc_new,school05,Transschool05A" style="HLStype1">Phàn Học Băng</a>
+target_6205=<s>Tìm <a href="findnpc_new,school05,funnpcclone013025" style="HLStype1">Tần Côn</a> hỏi rõ lai lịch dược hoàn
+target_6206=<s>Thay ta hái một ít <a href="findnpc_new,school05,GatherClone013002" style="HLStype1">Cải xanh</a> và thu thập ít <a href="findnpc_new,school05,npcclone013039" style="HLStype1">Dã Trư Nhục</a>
+target_6207=<s>Giúp ta giáo huấn bọn <a href="findnpc_new,school05,npcclone013040" style="HLStype1">Thần Mộc Cung Thủ Vệ</a>
+target_6208=<s>Hộ tống ta đến mộ phần
+target_6209=<s>Nói cho <a href="findnpc_new,school05,Reliveschool05A" style="HLStype1">Chương Diệp</a> lai lịch của dược hoàn
+target_6210=<s>Có bản lĩnh thì tự mình đi hỏi <a href="findnpc_new,school05,WorldNpc02201" style="HLStype1">Lão Lão</a>đi
+target_6211=<s>Thay ta đến Vạn Thú Sơn Trang lấy <a href="findnpc_new,school05,Bossclone013008" style="HLStype1">Độc Vương Nội Đảm</a>
+target_6212=<s>Nói với <a href="findnpc_new,school05,funnpcclone013025" style="HLStype1">Tần Côn</a> đừng vọng tưởng nữa
+title_6201=Sơn tặc Tịch Giai Sơn
+title_6203=Thuốc Xổ
+title_6204=Trả thù
+title_6205=Cửu Chuyển Hoàn?
+title_6206=Tế Mẫu (1)
+title_6207=Tế Mẫu (2)
+title_6208=Tế Mẫu (3)
+title_6209=Tìm cha
+title_6210=Chủ Đường Môn
+title_6211=Độc Vương Nội Đảm
+title_6212=Lật lọng
+

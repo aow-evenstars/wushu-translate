@@ -1,0 +1,100 @@
+﻿
+DialogID_55800=Thay mặt thôn dân đa tạ ngươi, họ an toàn rồi. Nghe nói nhện độc là do Hóa Sơn Bộ Tộc thả,ngươi đi xem thử.
+DialogID_55801=Chúng nó muốn cướp ngọc bội của ta, cứu ta với.
+DialogID_55802=Ngươi là đồ đệ của Lý Xuân Sơn? Ngươi bảo hắn giúp ta gắn Điêu Hoa Mộc lên tường nhé!
+DialogID_55803=Ngươi diệt bọn chúng rồi nhỉ, nghe nói thủ lĩnh của chúng là Liên Cô Tử, đi diệt Liên Cô Tử.
+DialogID_55804=Ngọc bội danh phận của chúng ta bị Hiệp Khách che mặt trộm đi rồi, hãy đi diệt chúng đoạt lại ngọc bội.
+DialogID_55805=Ngươi đến thật đúng lúc, trên đường toàn là độc trùng, ngươi đi xử lý chúng.
+DialogID_55806=Nhìn những Cơ Quan Mộc Nhân đó thật không dễ chịu, ngươi hãy đi hủy chúng.
+DialogID_55807=Khương Ông bảo ta đi lấy ít Xà Đảm, ta vẫn chưa lấy xong, ngươi giúp ta nhé, thật ra ta rất sợ rắn.
+DialogID_55808=Ngươi giúp ta đi báo với Tư Đồ Gia Kỳ, đi đường nhớ cẩn thận.
+DialogID_55809=Không ngờ ngươi không hề bị thương, đúng là anh hùng xuất thiếu niên
+DialogID_55810=Quá tốt, ngươi giúp ta đi diệt mấy con Tiên Sơn Dã Lang lấy về ít thịt.
+DialogID_55811=Ta ở đây có ít đồ, ngươi biết tác dụng của nó không?
+DialogID_55812=Đa tạ ngươi, cuối cùng chúng ta cũng được sống cuộc sống an nhàn.
+DialogID_55813=Đa ta ngươi, con người ta vô cùng trượng nghĩa, không muốn nợ ân tình, ngươi có chuyện gì cứ nói.
+DialogID_55814=Đúng là người tốt, ta nhất định kết bằng hữu với ngươi, rượu đây, chúng ta không say không về.
+DialogID_55815=Ta nghĩ ngươi nên đi giáo huấn chúng
+DialogID_55816=Nhiều gỗ thế này nhất định đủ rồi, ngươi đi hỏi Tần Tang Nam thế này đã vừa ý chưa?
+DialogID_55817=Đa ta ngươi, hãy mang bức thư này giao cho Khương Mặc Tiên, báo với hắn ta rất an toàn.
+ZZAnswerText1_3641=Một loại dược vật được nung luyện từ lửa
+ZZAnswerText2_3641=Không phải là Thuốc nổ đó sao?
+ZZAnswerText3_3641=Dược vật trị nhiệt.
+collectinfo_55800=Thu thập <a href="findnpc_new,scene02,Gather00123m" style="HLStype1">ngọc bội</a>
+collectinfo_55801=Thu thập <a href="findnpc_new,scene02,Gather00124m" style="HLStype1">gỗ</a>
+collectinfo_55802=Thu thập ngọc bội trên người <a href="findnpc_new,scene02,monf022201" style="HLStype1">Hiệp Khách che mặt</a>
+collectinfo_55808=Từ <a href="findnpc_new,scene02,monf022102" style="HLStype1">Thúy Trúc Độc Xà</a> thu thập Xà Đảm
+collectinfo_55809=Từ <a href="findnpc_new,scene02,monf022205" style="HLStype1">Tiên Sơn Mi Lộc</a>thu thập sừng nai
+collectinfo_55810=Từ <a href="findnpc_new,scene02,monf022207" style="HLStype1">Tiên Sơn Khủng Lang</a> thu thập thịt sói
+collectinfo_55811=Thu thập <a href="findnpc_new,scene02,Gather00125m" style="HLStype1">nấm</a>
+collectinfo_55812=Từ <a href="findnpc_new,scene02,monrf020628" style="HLStype1">Độc Hạt Tử</a> thu thập Vĩ Châm
+collectinfo_55813=Thu thập <a href="findnpc_new,scene02,Gather00126m" style="HLStype1">Quả dại</a>
+convoyinfo_55800=Dẫn Lý Quân Nam đi <a href="findnpc,scene02,-179,,574" style="HLStype1">đến đây</a>
+convoyinfo_55802=Dẫn Nam Cung Thanh đi <a href="findnpc,scene02,19,351,,128" style="HLStype1">đến đây</a>
+convoyinfo_55803=Rời khỏi <a href="findnpc,scene02,19,-123,,-73" style="HLStype1">đây</a>
+hunterinfo_55800=Diệt <a href="findnpc_new,scene02,monrf020627" style="HLStype1">nhện độc</a>
+hunterinfo_55801=Tiêu diệt <a href="findnpc_new,scene02,monrf020616" style="HLStype1">Hóa Sơn Bộ Tộc</a>
+hunterinfo_55802=Đánh bại <a href="findnpc_new,scene02,monrf020617" style="HLStype1">Kẻ cướp đoạt</a>
+hunterinfo_55803=Đánh bại <a href="findnpc_new,scene02,npcp1022100" style="HLStype1">Tiêu Dao Công Tử</a>
+hunterinfo_55804=Đánh bại <a href="findnpc_new,scene02,npcp1022101" style="HLStype1">Liên Cô Tử</a>
+hunterinfo_55805=Đánh bại <a href="findnpc_new,scene02,monf022200" style="HLStype1">Tiên Cư Cao Thủ</a>
+hunterinfo_55806=Tiêu diệt <a href="findnpc_new,scene02,monf022103" style="HLStype1">Thúy Lâm Độc Hạt</a>
+hunterinfo_55807=Tiêu diệt <a href="findnpc_new,scene02,monf022202" style="HLStype1">Cơ Quan Mộc Nhân</a>
+hunterinfo_55808=Đánh bại <a href="findnpc_new,scene02,monf022104" style="HLStype1">Thúy Lâm Độc Tri Thù</a>
+hunterinfo_55809=Đánh bại <a href="findnpc_new,scene02,monf022302" style="HLStype1">Đạo Bảo Bang Chúng</a>
+hunterinfo_55810=Đánh bại <a href="findnpc_new,scene02,monf022401" style="HLStype1">Giang Hồ Cuồng Đồ</a>
+hunterinfo_55811=Đánh bại <a href="findnpc_new,scene02,monf022500" style="HLStype1">Ngư Trường Ác Bá</a>
+hunterinfo_55812=Đánh bại <a href="findnpc_new,scene02,monf022206" style="HLStype1">Thợ Săn to gan</a>
+interactinfo_55800=Trò chuyện cùng <a href="findnpc_new,scene02,WorldNpc02123" style="HLStype1">Cùng Truyền Phong</a>
+interactinfo_55801=Trò chuyện cùng <a href="findnpc_new,scene02,WorldNpc02029" style="HLStype1">Thu Yên Ngữ</a>
+interactinfo_55802=Trò chuyện cùng <a href="findnpc_new,scene02,WorldNpc02031" style="HLStype1">Tần Tang Nam</a>
+interactinfo_55803=Trò chuyện cùng <a href="findnpc_new,scene02,WorldNpc02123" style="HLStype1">Cùng Truyền Phong</a>
+interactinfo_55804=Trò chuyện cùng <a href="findnpc_new,scene02,WorldNpc02047" style="HLStype1">Tư Đồ Gia Kỳ</a>
+interactinfo_55805=Trò chuyện cùng <a href="findnpc_new,scene02,WorldNpc02057" style="HLStype1">Chu Lâm</a>
+interactinfo_55806=Trò chuyện cùng <a href="findnpc_new,scene02,WorldNpc02057" style="HLStype1">Chu Lâm</a>
+interactinfo_55807=Trò chuyện cùng <a href="findnpc_new,scene02,WorldNpc02125" style="HLStype1">Lý Quân Nam</a>
+interactinfo_55808=Trò chuyện cùng <a href="findnpc_new,scene02,WorldNpc02125" style="HLStype1">Lý Quân Nam</a>
+interactinfo_55809=Trò chuyện cùng <a href="findnpc_new,scene02,WorldNpc02173" style="HLStype1">Thiên Sơn Hiệp Khách</a>
+interactinfo_55810=Trò chuyện cùng <a href="findnpc_new,scene02,WorldNpc02174" style="HLStype1">Tiên Sơn Lạp Nhân</a>
+interactinfo_55811=Trò chuyện cùng <a href="findnpc_new,scene02,WorldNpc02176" style="HLStype1">Ẩn Cư Lão Nhân</a>
+interactinfo_55812=Trò chuyện cùng <a href="findnpc_new,scene02,WorldNpc02177" style="HLStype1">Ngư Dân</a>
+interactinfo_55813=Trò chuyện cùng <a href="findnpc_new,scene02,WorldNpc02046" style="HLStype1">Ba Trát Hán</a>
+interactinfo_55814=Trò chuyện cùng <a href="findnpc_new,scene02,WorldNpc02050" style="HLStype1">Tá Tá Mộc</a>
+interactinfo_55815=Trò chuyện cùng <a href="findnpc_new,scene02,WorldNpc02178" style="HLStype1">Người theo dõi thiên sơn</a>
+interactinfo_55816=Trò chuyện cùng <a href="findnpc_new,scene02,WorldNpc02034" style="HLStype1">Lý Xuân Sơn</a>
+interactinfo_55817=Trò chuyện cùng <a href="findnpc_new,scene02,WorldNpc02125" style="HLStype1">Lý Quân Nam</a>
+maintext_3641=Ngươi biết hỏa dược là vật gì không?
+okmenu_55800=Ta đi ngay
+okmenu_55801=Yên tâm, có ta đây, không thể để chúng làm hại ngươi.
+okmenu_55802=Ta đi ngay
+okmenu_55803=Ta đi ngay
+okmenu_55804=Cướp đồ, ta giỏi nhất.
+okmenu_55805=Giao cho ta, ngươi yên tâm đi
+okmenu_55806=Đợi tin tốt của ta
+okmenu_55807=Được, ta đi lát rồi về
+okmenu_55808=Ngươi thật cẩn thận, ta đi ngay
+okmenu_55809=Không dám, quá khen, quá khen
+okmenu_55810=Được
+okmenu_55811=Ngươi nói, ta xem có biết không
+okmenu_55812=Đừng khách sáo, giữa đường gặp chuyện bất bình rút đao tương trợ
+okmenu_55813=Ừ, ta biết rồi
+okmenu_55814=Cạn ly
+okmenu_55815=Hắn thật đáng ghét, giáo huấn hắn là tất nhiên
+okmenu_55816=Ừ, được
+okmenu_55817=Được, ta đi đây
+quest_menu_55800=Vấn đề gì?
+questioninfo_55800=Trả lời vấn đề của <a href="findnpc_new,scene02,WorldNpc02176" style="HLStype1">Ẩn Cư Lão Nhân</a>
+story_55800_1=Người khác thấy chúng ta có nhiều tiền nghĩ là rất hạnh phúc, thật ra ai hiểu được nỗi khổ của chúng ta.
+story_55800_2=Cả năm gặp mặt người thân có mấy lần. Khi người ta sum họp gia đình thì chúng ta ở trên núi, còn sợ hàng hóa bị cướp!
+story_55801_1=Ở đây, các loại dộng vật nhỏ không còn bao nhiêu, vì lợi ích bản thân mà chúng không thương tiếc sát hại động vật ở đây.
+story_menu_55800=Ngươi có chuyện gì cần nói với ta.
+story_menu_55801=Ngươi có chuyện gì cần nói với ta.
+storyinfo_55800=Nghe <a href="findnpc_new,scene02,WorldNpc02175" style="HLStype1">thương nhân</a> kể chuyện
+storyinfo_55801=Nghe <a href="findnpc_new,scene02,WorldNpc02178" style="HLStype1">Người theo dõi thiên sơn</a> kể chuyện
+storymenu_55800_1=Chua xót?
+storymenu_55800_2=Thì ra mỗi nhà mỗi cảnh.
+storymenu_55801_1=Đúng là trong rừng, loài chim lớn nào cũng có, quả nhiên là kẻ xấu
+useiteminfo_55800=Giúp <a href="findnpc_new,scene02,WorldNpc02034" style="HLStype1">Lý Xuân Sơn</a> dùng <a href="TASK_ITEM,useitem_74m" style="HLStype1">Điêu Hoa Mộc</a>
+useiteminfo_55801=Dùng <a href="TASK_ITEM,useitem_78m" style="HLStype1">thùng gỗ</a> lấy nước
+useiteminfo_55802=Uống hết <a href="TASK_ITEM,useitem_75m" style="HLStype1">1 bình rượu</a>
+

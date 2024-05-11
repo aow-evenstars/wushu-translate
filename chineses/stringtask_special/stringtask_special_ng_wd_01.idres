@@ -1,0 +1,706 @@
+﻿
+DialogID_80502=<font face="Default" color="#ffffff" >Tìm ta có việc gì?</font>
+DialogID_80503=<font face="Default" color="#ffffff" >Có việc gì sao</font>
+DialogID_80504=<font face="Default" color="#ffffff" >Đi nhanh về nhanh!</font>
+DialogID_80505=<font face="Default" color="#ffffff" >Ngươi nói đám người Tây Vực kia sao? Bọn họ hành tung kỳ lạ, không ở nhà trọ</font> <font face="Default" color="#ffffff" >lại</font> <font face="Default" color="#ffffff" >chạy lên núi lập trại, nhưng ở núi Võ Đang ta thì chắc chúng không</font> <font face="Default" color="#ffffff" >dám</font> <font face="Default" color="#ffffff" >làm loạn. Ngươi đến ngọn núi đối diện có thể tìm được chúng.</font>
+DialogID_80506=<font face="Default" color="#ffffff" >Những…những người này...</font>
+DialogID_80507=<font face="Default" color="#ffffff" >Phát hiện gì rồi sao?</font>
+DialogID_80508=<font face="Default" color="#ffffff" >Ta...ta đã trúng mai phục của Hắc Y Nhân...</font>
+DialogID_80509=<font face="Default" color="#ffffff" >Hic…hichic...</font><font face="Default" color="#ffffff" >mấy vị sư huynh đuổi theo Hắc Y Nhân xuống núi rồi, tên Hắc Y Nhân đó lắm mưu mô, chỉ e..</font>
+DialogID_80510=<font face="Default" color="#ffffff" >Vết thương của ta không sao. Nhanh mở thư xem bên trong viết gì?</font>
+DialogID_80511=<font face="Default" color="#ffffff" >Ôi! Chuyện ngươi gặp phải ta đã biết.</font>
+DialogID_80512=<font face="Default" color="#ffffff" > </font><font face="Default" color="#ffffff" > </font><font face="Default" color="#ffffff" > </font><font face="Default" color="#ffffff" > </font>
+DialogID_80513=<font face="Default" color="#ffffff" >Đến tìm ta có việc gì?</font>
+DialogID_80514=<font face="Default" color="#ffffff" >Tống Thanh Ngọc này tuy mỗi tối đều về phòng đệ tử nghỉ ngơi, nhưng ban ngày lại rất khó tìm được y. Ngươi đi đến phòng đệ tử tìm</font><font face="Default" color="#ffffff" > Hà Thuận Sinh</font><font face="Default" color="#ffffff" > hỏi thử xem </font><font face="Default" color="#ffffff" >y biết Tống Thanh Ngọc ở đâu không.</font>
+DialogID_80515=<font face="Default" color="#ffffff" >Tìm ta có việc gì sao?</font>
+DialogID_80516=<font face="Default" color="#ffffff" >Ngươi muốn mua Kẹo Hồ Lô à? Mấy xâu?</font>
+DialogID_80517=<font face="Default" color="#ffffff" >Oa oa oa …oa oa oa</font>
+DialogID_80519=<font face="Default" color="#ffffff" >Tìm ta có việc gì?</font>
+DialogID_80521=<font face="Default" color="#ffffff" >Huyền Chân đến rồi sao?</font>
+QiecuoMenu_80501=<font face="Default" color="#ffffff" >Sư huynh cẩn thận!</font>
+QiecuoMenu_80502=<font face="Default" color="#ffffff" >Còn muốn đi</font><font face="Default" color="#ffffff" >?</font>
+QiecuoMenu_80504=<font face="Default" color="#ffffff" >Đắc tội!</font>
+QiecuoTitle_80501=<font face="Default" color="#ffffff" >Ta…sao ta lại phải lừa ngươi?!</font>
+QiecuoTitle_80502=<font face="Default" color="#ffffff" >Ngươi... ngươi đừng qua đây!</font>
+QiecuoTitle_80504=<font face="Default" color="#ffffff" >Đừng phí lời, hãy xem đây!</font>
+SubmitNpcEx_55501=<s>Đem rượu giao cho <a href="findnpc_new,school07,npc_4neidh_wd" style="HLStype1">chưởng sự sư thúc</a>
+SubmitNpcEx_55502=<s>Đem rượu đưa cho <a href="findnpc_new,school07,wd121" style="HLStype1">Cổ Tuấn Trì</a>
+SubmitNpcEx_55503=<s>Đến sau núi hỏi chư vị <a href="findnpc_new,school07,WorldNpc04876" style="HLStype1">sư huynh đệ</a> lai lịch Túy Sinh Mộng Tử này
+SubmitNpcEx_55504=Được <a href="findnpc_new,school07,WorldNpc04876" style="HLStype1">sư huynh làm cơm</a> cho biết lai lịch xuất hiện Túy Sinh Mộng Tử
+SubmitNpcEx_55505=<s>Tìm tung tích <a href="findnpc_new,school07,npc_4nei_xuanzhentd" style="HLStype1">người thần bí</a> đưa rượu
+SubmitNpcEx_55506=Hỏi thăm Thần Dương Thiện-<a href="findnpc_new,school07,WorldNpc04435" style="HLStype1">Mạc sư thúc</a>
+SubmitNpcEx_55507=<s>Đem dược liệu thu thập được giao cho <a href="findnpc_new,school07,WorldNpc04402" style="HLStype1">Cửu Hạc Đạo Trưởng</a>
+SubmitNpcEx_55508=<s>Tìm hướng đi của <a href="findnpc_new,school07,npc_4nei_lxy" style="HLStype1">Tây Vực Thương Đội</a>
+SubmitNpcEx_55509=Manh mối phi tiêu đã bị đứt, báo với <a href="findnpc_new,school07,npc_4neidh_wd" style="HLStype1">chưởng sự sư thúc</a> rồi nghe theo sắp xếp của y
+SubmitNpcEx_55510=<s>Tìm <a href="findnpc_new,school07,npc_4nei_sda" style="HLStype1">Hắc Y Nhân</a>
+SubmitNpcEx_55511=Nhường <a href="findnpc_new,school07,npc_4nei_sdb" style="HLStype1">Sư đệ</a> báo với chưởng sự sư thúc trước
+SubmitNpcEx_55512=Báo với <a href="findnpc_new,school07,WorldNpc04401" style="HLStype1">Tử Dương Chân Nhân</a> chuyện đã xảy ra và giao thư cho y
+SubmitNpcEx_55513=Mang việc đã thấy báo cho <a href="findnpc_new,school07,npc_4neidh_wd" style="HLStype1">chưởng sự sư thúc</a>
+SubmitNpcEx_55514=Đến dưới núi Võ Đang tìm <a href="findnpc_new,school07,npc_4nei_sqy" style="HLStype1">Tống Thanh Ngọc</a>
+SubmitNpcEx_55515=<s>Đem Kẹo Hồ Lô giao cho<a href="findnpc_new,school07,WorldNpc04521" style="HLStype1">Tống Thanh Ngọc</a>
+SubmitNpcEx_55516=<s>Kiểm tra thương thế của <a href="findnpc_new,school07,npc_4nei_sqy2" style="HLStype1">Tống Thanh Ngọc</a>
+SubmitNpcEx_55517=<s>Báo với <a href="findnpc_new,school07,npc_4neidh_wd" style="HLStype1">chưởng sự sư thúc</a> sự việc có tiến triển mới
+SubmitNpcEx_55521=<s>Cáo biệt <a href="findnpc_new,city04,npc_4nei_nvhai" style="HLStype1">Bé Gái</a>
+SubmitNpcEx_55522=Mang kết quả điều tra được báo với <a href="findnpc_new,school07,npc_4neidh_wd" style="HLStype1">chưởng sự sư thúc</a>
+SubmitNpcEx_55523=Bẩm báo với <a href="findnpc_new,school07,npc_4neidh_wd" style="HLStype1">chưởng sự sư thúc</a>
+SubmitNpcEx_55524=Bẩm báo với <a href="findnpc_new,school07,npc_4neidh_wd" style="HLStype1">chưởng sự sư thúc</a>
+SubmitNpcEx_55526=Báo cho <a href="findnpc,school07,412,825,396" style="HLStype1">Tống Thanh Ngọc</a> biết quyết định của chưởng sự sư thúc
+SubmitNpcEx_55527=<s>Bẩm báo với <a href="findnpc_new,school07,npc_4neidh_wd" style="HLStype1">chưởng sự sư thúc</a>
+SubmitNpcEx_55528=Hỏi <a href="findnpc_new,school07,WorldNpc04521" style="HLStype1">Lý A Hoa</a> hướng đi của Tống Thanh Ngọc
+SubmitNpcEx_55529=Nghe <a href="findnpc_new,school07,WorldNpc04401" style="HLStype1">Tử Dương Chân Nhân</a> nói về bí mật bát đại môn phái
+SubmitNpcEx_55530=Theo chỉ dẫn trong thư đi tìm <a href="findnpc_new,city03,NPCxszhh_4nei_yuming" style="HLStype1">Dư Vi Thiên</a>
+SubmitNpcEx_55531=Đem chuyện đã thấy báo cho <a href="findnpc_new,school07,WorldNpc04401" style="HLStype1">Tử Dương Chân Nhân</a>
+collectinfo_80501=Đến gần Dưỡng Tâm Điện kiểm tra, tìm<a href="findnpc,school07,617,106,318" style="HLStype1">Thù Ti Mã Tích</a>
+collectinfo_80502=Thu thập <a href="findnpc,school07,437,92,528" style="HLStype1">Kim Đỉnh Thảo</a>
+collectinfo_80503=Thu thập <a href="findnpc,school07,390,107,401" style="HLStype1">Nê Hoàn Hoa</a>
+collectinfo_80504=Kiểm tra <a href="findnpc_new,school07,Gather_4nei_st" style="HLStype1">thi thể</a> Tây Vực Thương Nhân
+collectinfo_80505=Kiểm tra <a href="findnpc_new,school07,Gather_4nei_yc" style="HLStype1">hàng hóa</a> của Tây Vực Thương Nhân
+collectinfo_80506=Thu thập <a href="findnpc_new,school07,Gather_4nei_hxc" style="HLStype1">Hoạt Huyết Thảo</a>
+collectinfo_80507=Thu thập <a href="findnpc_new,school07,Gather_4nei_hsh" style="HLStype1">Hồng Tai Hoa</a>
+collectinfo_80508=Đến Tư Quá Nhai tìm <a href="findnpc_new,school07,Gather_4nei_wdyp" style="HLStype1">tung tích sư huynh đệ</a>
+collectinfo_80509=Đánh bại Hắc Y Nhân đoạt lại <a href="findnpc,school07,670,18,170" style="HLStype1">Thái Cực Đồ</a>
+collectinfo_80510=Kiểm tra thương tích của <a href="findnpc_new,school07,Gather_4nei_sdst" style="HLStype1">sư đệ</a>
+collectinfo_80511=Mở <a href="findnpc_new,city04,Gather_4nei_fenmu" style="HLStype1">quan tài </a> kiểm tra
+collectinfo_80512=Xem <a href="findnpc_new,school07,Gather_4nei_tjtxl" style="HLStype1">rương</a> Nha Bộc để lại
+collectinfo_80513=Tìm tung tích <a href="findnpc_new,school07,npc_4nei_xuanzhentd2" style="HLStype1">người đưa rượu</a>
+convoyinfo_80501=Uông Tử dường như muốn đưa ngươi đi nơi nào đó, đi theo y
+convoyinfo_80503=Đưa Tống Thanh Ngọc đến đối chất với Huyền Chân đối chất
+hunterinfo_80501=Ép <a href="findnpc_new,school07,WorldNpc04876" style="HLStype1">sư huynh làm cơm</a> nói ra việc y biết
+hunterinfo_80502=Đuổi theo <a href="findnpc_new,school07,npc_4nei_xuanzhentd2" style="HLStype1">người đưa rượu</a>
+hunterinfo_80503=Theo hướng Lão Hổ Lâm đuổi theo <a href="findnpc_new,school07,npc_4nei_smhyr" style="HLStype1">Hắc Y Nhân thần bí</a>
+hunterinfo_80504=So chiêu với <a href="findnpc_new,city04,ly007" style="HLStype1">người giang hồ</a> này
+hunterinfo_80505=Đánh bại <a href="findnpc_new,school07,npc_4nei_xuanzhen1" style="HLStype1">Huyền Chân</a>
+hunterinfo_80506=Đến Ác Nhân Cốc-<a href="findnpc_new,born02,PlotDoor00035" style="HLStype1">Tuyết Phong</a> tìm Ma Đao Đường Chủ Sự Nhân
+hunterinfo_80507=Đánh bại <a href="findnpc_new,school07,PlotDoor00070" style="HLStype1">Ma Đao Đường Môn Nhân</a> tự tiện xông vào mật thất Võ Đang
+interactinfo_80502=Đem rượu tìm được trong sơn động giao cho <a href="findnpc_new,school07,wd121" style="HLStype1">Cổ Tuấn Trì</a> trong Đan Phòng
+interactinfo_80503=Đưa phi tiêu cho <a href="findnpc_new,school07,WorldNpc04402" style="HLStype1">Cửu Hạc Đạo Trưởng</a> xem thử
+interactinfo_80504=Nói chuyện với <a href="findnpc_new,school07,WorldNpc04402" style="HLStype1">Cửu Hạc Đạo Trưởng</a>
+interactinfo_80505=Tìm tung tích <a href="findnpc_new,school07,wd005" style="HLStype1">Tây Vực Thương Đội</a>
+interactinfo_80506=Tìm hướng đi của <a href="findnpc_new,school07,npc_4nei_lxy" style="HLStype1">Tây Vực Thương Nhân</a>
+interactinfo_80507=Báo <a href="findnpc_new,school07,npc_4nei_lxy" style="HLStype1">Lư Tiểu Nguyệt</a> kết quả khám nghiệm tử thi
+interactinfo_80508=Tìm <a href="findnpc_new,school07,npc_4nei_xsd" style="HLStype1">Sư đệ</a> tham gia Mê Cục và âm thầm hỗ trợ
+interactinfo_80509=Đem thảo dược giao cho <a href="findnpc_new,school07,npc_4nei_xsd" style="HLStype1">tiểu sư đệ</a>
+interactinfo_80510=Kiểm tra vết thương của <a href="findnpc_new,school07,npc_4nei_sdb" style="HLStype1">sư đệ</a>
+interactinfo_80511=Báo với <a href="findnpc_new,school07,WorldNpc04401" style="HLStype1">Tử Dương Chân Nhân</a> chuyện đã xảy ra
+interactinfo_80512=Kiểm tra vết thương của <a href="findnpc_new,school07,npc_4nei_sdst" style="HLStype1">sư đệ</a>
+interactinfo_80513=Tìm <a href="findnpc_new,school07,WorldNpc04814" style="HLStype1">sư đệ</a> trong Đệ Tử Phòng lấy 1 Rương Gỗ
+interactinfo_80514=Nghe <a href="findnpc_new,school07,npc_4neidh_wd" style="HLStype1">chưởng sự sư thúc</a> căn dặn
+interactinfo_80515=Đến Đệ Tử Phòng hỏi <a href="findnpc_new,school07,WorldNpc04426" style="HLStype1">Hà Thuận Sinh</a> biết hướng đi của Tống Thanh Ngọc không
+interactinfo_80516=Thay Tống Thanh Ngọc mua một xâu <a href="findnpc_new,school07,WorldNpc04897" style="HLStype1">Kẹo Hồ Lô</a>
+interactinfo_80517=Đến Đào Viên tìm <a href="findnpc_new,school07,npc_4nei_wz1" style="HLStype1">Tống Thanh Ngọc</a>
+interactinfo_80518=Tìm được <a href="findnpc_new,school07,Event_4nei_wd_55516" style="HLStype1">Tống Thanh Ngọc</a>
+interactinfo_80519=Để <a href="findnpc_new,school07,WorldNpc04795" style="HLStype1">Viêm Đồng</a> mang người đi đưa Tống Thanh Ngọc về núi dưỡng thương
+interactinfo_80521=Trò chuyện với <a href="findnpc,school07,412,825,396" style="HLStype1">Tống Thanh Ngọc</a>
+interactinfo_80522=Xem <a href="findnpc_new,school07,Event_4nei_wd_55522" style="HLStype1">Huyền Chân</a> đã đến chưa
+interactinfo_80523=Đưa Kẹo Hồ Lô đưa cho <a href="findnpc_new,school07,Event_4nei_wd_55505" style="HLStype1">Tống Thanh Ngọc</a>
+okmenu_80502=<font face="Default" color="#ffffff" >Cổ sư huynh, nghe nói kỹ thuật ủ rượu của ngươi rất tốt. Ta có một hủ rượu này không biết ngươi</font> <font face="Default" color="#ffffff" >có thể</font> <font face="Default" color="#ffffff" >nhận ra điểm đặc biệt của nó không?</font>
+okmenu_80503=<font face="Default" color="#ffffff" >Cửu Hạc Đạo Trưởng, Mạc sư thúc bảo ta đem phi tiêu này giao cho người đồng thời bảo ta hỏi người trên phi tiêu này</font> <font face="Default" color="#ffffff" >có</font> <font face="Default" color="#ffffff" > lấp loáng lục quang, người biết là gì không?!</font>
+okmenu_80504=<font face="Default" color="#ffffff" >Đệ tử đi đây!</font>
+okmenu_80505=<font face="Default" color="#ffffff" >Đa tạ Ngô Đại Ca!</font>
+okmenu_80506=<font face="Default" color="#ffffff" >Lư sư muội, Chỗ…nơi này đã phát sinh chuyện gì? Những người này?</font>
+okmenu_80507=<font face="Default" color="#ffffff" >Hung thủ thật sự quá độc ác!</font>
+okmenu_80508=<font face="Default" color="#ffffff" >Cái gì?! Hắc Y Nhân?</font>
+okmenu_80509=<font face="Default" color="#ffffff" >Những thảo dược này ngươi cầm đi, ta truy đuổi bọn Hắc Y Nhân đó!</font>
+okmenu_80510=<font face="Default" color="#ffffff" >Sư đệ, vết thương ngươi thế nào rồi?</font>
+okmenu_80511=<font face="Default" color="#ffffff" >Chưởng môn, đệ tử bất tài không thể cứu được các sư đệ cũng không thể đoạt lại Thái Cực Đồ. Xin chưởng môn trách phạt!</font>
+okmenu_80512=<font face="Default" color="#ffffff" >Sư đệ đã không còn thở nữa rồi, đây là cái gì</font><font face="Default" color="#ffffff" >?</font> <font face="Default" color="#ffffff" >một lá thư!? Võ Đang? Hay là nhanh chóng đem nó giao cho chưởng môn thì hơn.</font>
+okmenu_80513=<font face="Default" color="#ffffff" >Ta cần một Rương Gỗ.</font>
+okmenu_80514=<font face="Default" color="#ffffff" >Đệ tử hiểu!</font>
+okmenu_80515=<font face="Default" color="#ffffff" >Hà Sư đệ, ngươi có nhìn thấy Tống Thanh Ngọc không?</font>
+okmenu_80516=<font face="Default" color="#ffffff" >Cho ta 1 xâu. Ông chủ, ngươi có quen biết Tống Thanh Ngọc không?</font>
+okmenu_80517=<font face="Default" color="#ffffff" >Ngươi đưa ta đi đâu?</font>
+okmenu_80519=<font face="Default" color="#ffffff" >Tống Thanh Ngọc đã hồi phục ký ức, y đã bị trọng thương ở Đào Viên. Ngươi nhanh chóng bảo người mang y trở về.</font>
+okmenu_80521=<font face="Default" color="#ffffff" >Ta đi xem thử!</font>
+story_65501_1=<font face="Default" color="#ffffff" >story_80501_1</font><font face="Default" color="#ffffff" >story_80501_1</font><font face="Default" color="#ffffff" >story_80501_1</font><font face="Default" color="#ffffff" >story_80501_1</font>
+story_80501_1=<font face="Default" color="#ffffff" >Chúng ta điều tra mấy ngày cuối cùng phát hiện người khả nghi, nhưng người này là một trường lão đức cao vọng trọng trong phái ta.</font>
+story_80501_2=<font face="Default" color="#ffffff" >Tuy chúng ta không muốn thừa nhận những manh mối này đều hướng về y! Ta vốn muốn báo cho các vị trưởng lão khác rồi hẳn điều tra việc này, chỉ sợ sẽ có vị trưởng lão khác bao che cho y. Vì vậy ta quyết định để ngươi đi điều tra trước</font> <font face="Default" color="#ffffff" >rồi</font> <font face="Default" color="#ffffff" >tính, người này chính là Huyền Chân trưởng lão!</font>
+story_80501_3=<font face="Default" color="#ffffff" >Ta cũng rất kinh ngạc với kết quả này, nhưng mong không phải là thật. Gần đây có đệ tử nói với ra rằng từng có</font> <font face="Default" color="#ffffff" >một</font> <font face="Default" color="#ffffff" >đệ tử trẻ tuổi lén lút xuất hiện gần Dưỡng Tâm Điện, ngươi đến đó tìm manh mối đi!</font>
+story_80502_1=<font face="Default" color="#ffffff" >Để ta ngửi thử xem, cái gì</font> <font face="Default" color="#ffffff" >?!</font> <font face="Default" color="#ffffff" >Túy Sinh Mộng Tử ?! Rượu này ngươi từ đâu mà có?!</font>
+story_80502_2=<font face="Default" color="#ffffff" >Túy Sinh Mộng Tử là rượu ngon hiếm có, sao lại ở trong sơn động ?! Nhưng Túy Sinh Mộng Tử này tuy</font> <font face="Default" color="#ffffff" >là</font><font face="Default" color="#ffffff" >rượu ngon hiếm có, nhưng uống xong sẽ có thể quên đi mọi chuyện vui buồn đau khổ.</font>
+story_80502_3=<font face="Default" color="#ffffff" >Lúc ta chưa xuất gia từng may mắn uống một hũ, uống xong ngủ 3 ngày 3 đêm. Tỉnh dậy chỉ thấy đầu óc lờ mờ, trong lòng chỉ là cảm giác giải thoát không vui không buồn. Sau đó ngao du đến dưới núi Võ Đang, cảm thấy nơi này phong cảnh hữu tình bèn xuất gia ở đây. Về sau xem kinh điển mới biết thứ mình uống lúc đó là Túy Sinh Mộng Tử này.</font>
+story_80503_1=<font face="Default" color="#ffffff" >Ta từng hỏi đầu bếp sau núi, đầu bếp sau núi nói với ta y không biết rượu này xuất xứ ở đâu. Chỉ biết mỗi lần rượu xuất hiện đều có một dòng chữ, bảo y đem cho Tống Thanh Ngọc uống.</font>
+story_80503_2=<font face="Default" color="#ffffff" >Nếu ngươi muốn biết nhiều hơn thì tự ra sau núi hỏi đi. Ta biết chỉ có vậy!</font>
+story_80504_1=<font face="Default" color="#ffffff" >Ta có thể nói cho ngươi biết, nhưng ta muốn ngươi đồng ý một điều kiện.</font>
+story_80504_2=<font face="Default" color="#ffffff" >Ta nói với ngươi rồi thì ngươi nhất định phải bảo vệ tính mạng cho ta đó!</font>
+story_80504_3=<font face="Default" color="#ffffff" >Đây là ngươi nói đó! Vậy ta nói với ngươi, khoảng bắt đầu từ nửa năm trước cứ hơn một tháng đều có một hũ rượu</font> <font face="Default" color="#ffffff" >được</font> <font face="Default" color="#ffffff" >đưa đến sau bếp và thêm dòng chữ ở trên: Mang cho Tống Thanh Ngọc uống,</font> <font face="Default" color="#ffffff" >không được để người khác biết</font><font face="Default" color="#ffffff" >.</font>
+story_80504_4=<font face="Default" color="#ffffff" >Không có</font><font face="Default" color="#ffffff" >!</font> <font face="Default" color="#ffffff" >Lúc đầu ta cũng không để ý, không ngờ sớm ngày thứ hai tỉnh lại toàn thân sưng phù, tay chân tê dại. Nghiêng đầu xem bên gối có một viên đan dược và dòng chữ : Đây là thuốc giải, nếu muốn sống thì làm theo lời ta!</font>
+story_80504_5=<font face="Default" color="#ffffff" >Những gì ta biết đều nói cho ngươi rồi, ngươi phải bảo vệ tính mạng ta đó. Đây đều là ngươi bảo ta nói. Nhưng còn có một việc có thể nói với ngươi, thời gian mỗi lần đưa rượu đều rất cố định, thời gian đưa rượu tháng này đúng vào sau giờ trưa hôm nay. Ta từng muốn núp sau bếp xem kết quả liền bị người ta làm hôn mê! Nếu ngươi muốn biết nhiều hơn chi bằng nằm vùng sau bếp xem, đợi người thần bí này xuất hiện. Nhưng ta nhắc ngươi</font> <font face="Default" color="#ffffff" >hãy</font> <font face="Default" color="#ffffff" >tìm sư đệ Đệ Tử Phòng lấy một Rương Gỗ trước.</font>
+story_80505_1=<font face="Default" color="#ffffff" >Hắc Y Nhân này rời đi chỉ để lại mấy</font> <font face="Default" color="#ffffff" >cái</font> <font face="Default" color="#ffffff" >phi tiêu và một lá thư. Lá thư này không có gì đặc biệt, ngươi điều tra từ phi tiêu này nhé!</font>
+story_80506_1=<font face="Default" color="#ffffff" >Đây…đây là U Minh Phấn?! Ngoài ngươi ra còn ai từng thấy phi tiêu này?!</font>
+story_80506_2=<font face="Default" color="#ffffff" >U Minh Phấn</font> <font face="Default" color="#ffffff" >là</font> <font face="Default" color="#ffffff" >một loại cực độc của Tây Vực Hồ Nhân, màu lục không mùi. Người trúng độc thường không có cảm giác gì, bảy ngày sau mới xuất hiện dấu vết trúng độc. Đến lúc đó toàn thân bị kiến đục khoét, da thịt lở loét, đau đớn như rơi xuống 18 tầng địa ngục! Hơn nữa loại cực độc này chỉ cần tiếp xúc với da người là có thể khiến người đó nhiễm độc!</font>
+story_80506_3=<font face="Default" color="#ffffff" >Chớ hoảng hốt, sự việc</font> <font face="Default" color="#ffffff" >tuy</font> <font face="Default" color="#ffffff" >khó nhưng không phải không có cách, phái ta có vị tiền bối từng qua lại với Tây Vực Hồ Nhân chắc hẳn sẽ biết cách giải độc này. Nhưng bên trong có một loại thảo dược Tây Vực rất khó lấy được gọi là Thi Cốt Hoa.</font>
+story_80506_4=<font face="Default" color="#ffffff" >Nhưng số dược liệu còn lại thì dễ tìm, ngươi đi thu thập một ít Kim Đỉnh Thảo và Nê Hoàn Hoa.</font>
+story_80507_1=<font face="Default" color="#ffffff" >Thi thể có gì không ổn sao?</font>
+story_80507_2=<font face="Default" color="#ffffff" >Vậy nguyên nhân bọn họ bị sát hại là gì?</font>
+story_80507_3=<font face="Default" color="#ffffff" >Đồ bọn họ bán? Là đồ gì?</font>
+story_80508_1=<font face="Default" color="#ffffff" >Không, không phải hắn. Nếu là hắn tấn công ta, ta chắc đã mất mạng!</font> <font face="Default" color="#ffffff" >Nhưng chiêu thức võ công mà đám người này dùng chắc cùng một người.</font>
+story_80508_2=<font face="Default" color="#ffffff" >May mà một số sư huynh đến kịp thời, nếu không chỉ e...</font>
+story_80509_1=<font face="Default" color="#ffffff" >Ta nói...</font> <font face="Default" color="#ffffff" >việc này là do sư phụ Huyền Chân bảo ta làm. Không liên can đến ta!</font>
+story_80509_2=<font face="Default" color="#ffffff" >Ta tuyệt đối không dám lừa ngươi! Ngày đó ta cùng sư huynh đệ tụng xong buổi kinh sáng, một mình ta trên đường núi của Dưỡng Tâm Điện đột nhiên thấy một bóng đen. Lúc ta tỉnh lại phát hiện mình ở sơn động, có một người ngồi bên cạnh.</font>
+story_80509_3=<font face="Default" color="#ffffff" >Đúng vậy! Ngươi đã gặp sư phụ Huyền Chân chưa?</font> <font face="Default" color="#ffffff" >Nhưng lúc đó ta không biết hắn là sư phụ Huyền Chân, thấy ta tỉnh dậy liền hỏi ta muốn làm đồ đệ hắn không? Ta nghĩ mình là đệ tử Võ Đang sao có thể bội phản sư môn. Nhưng hình như hắn biết được điều ta nghĩ bèn nói ngươi chớ lo lắng việc phản bội sư môn ta cũng là người của Võ Đang.</font>
+story_80509_4=<font face="Default" color="#ffffff" >Ta cũng không rõ. Hắn chỉ bảo ta làm mấy việc, hiện giờ ta có thể sống trốn thoát được là do hắn sắp xếp. Sau khi hắn nhận ta làm đồ đệ xong mới nói với ta hắn là Huyền Chân, sau khi rời khỏi sơn động ta hỏi thăm các huynh đệ mới biết người ta đã gặp là một người quyền cao chức trọng, ta còn nghĩ sau này mình có thể vượt trội hơn người!</font> <font face="Default" color="#ffffff" >Kết quả là ngày thường căn bản ta không gặp được hắn, chỉ có mỗi tháng lúc hắn bảo ta đưa rượu thì mới gặp!</font> <font face="Default" color="#ffffff" >Còn nói là sư phụ sao, trước giờ không dạy ta có gì cả! </font>
+story_80509_5=<font face="Default" color="#ffffff" >Hành động kỳ lạ? Ta chỉ nhớ có một lần lúc ta đến sơn động vừa lúc gặp một mình sư phụ Huyền Chân đang uống rượu lẩm bẩm gì đó, Tống</font> đại <font face="Default" color="#ffffff" >ca</font> <font face="Default" color="#ffffff" >là ta đã hại cả nhà huynh. Huynh...đừng nói cho ai biết! Những việc này sư phụ không cho ta nói với người khác.</font>
+story_80510_1=<font face="Default" color="#ffffff" >Tống Thanh Ngọc, ngươi nói tên điên đó à? Ta cũng không rõ hắn đã đi đâu, tên đó sau khi ngủ dậy liền vội vã xuống núi.</font>
+story_80510_2=<font face="Default" color="#ffffff" >Lúc bắt đầu chúng ta cũng thấy kỳ lạ, liền hỏi hắn đi đâu. Nhưng hắn không trả lời, chúng ta lén lút theo hắn, phát hiện sau khi xuống núi hắn đều nói chuyện với tảng đá, có một lần hắn lén trộm màn thầu bày trước tảng đá rồi lẩm bẩm nói gì với tảng đá, dĩ nhiên tảng đá không biết ăn uống gì, kết quả hắn giận dữ ngồi trước tảng đá rất lâu...</font>
+story_80510_3=<font face="Default" color="#ffffff" >Nếu ngươi muốn tìm hắn, xuống núi tìm thử.</font>
+story_80511_1=<font face="Default" color="#ffffff" >Ngươi nhắc đến tên điên đó làm gì? Mỗi lần gặp ta hắn luôn đòi kẹo hồ lô, kẻ này tuy càn quấy nhưng cũng đáng thương.</font>
+story_80512_1=<font face="Default" color="#ffffff" >Huyền Chân, là Huyền Chân! Huyền Chân ở đâu! Ta muốn báo thù!</font>
+story_80512_2=<font face="Default" color="#ffffff" >Ngươi là ai? Sao ta phải nói với ngươi việc của ta?</font>
+story_80512_3=<font face="Default" color="#ffffff" >Hừ!</font><font face="Default" color="#ffffff" > Tên Huyền Chân này có thù không đội trời chung với ta!...</font>
+story_80512_4=<font face="Default" color="#ffffff" >Năm đó Huyền Chân vốn là bằng hữu tốt của gia phụ Tống Vân Thiên, nhìn tính tình Huyền Chân thường ngày thanh tao, liêm chính, nhược điểm duy nhất là si mê đan dược. Không ngờ hắn tiếp cận cha ta chỉ vì muốn thử nghiệm đan dược hắn luyện ra.</font>
+story_80512_5=<font face="Default" color="#ffffff" >Khi mẹ mang thai đệ đệ ta thì Huyền Chân hắn thường tặng đan dược dưỡng thai. Kết quả khi đệ ta ra đời là hình thù gì chứ? Mẹ ta sinh ra là quái vật không giống hình người, vì sợ quá nên người đã qua đời. Còn cha ta rất kinh hoàng phát điên, không ngờ lúc này Huyền Chân ra tay làm trọng thương người. Sau đó không cần nhìn cha ta ra sao, hắn liền nhìn vào đứa trẻ và bảo: Không ngờ kỳ dược ta chế ra lại sinh ra loại quái vật này, thật đáng tiếc cho dược liệu của ta!</font>
+story_80512_6=<font face="Default" color="#ffffff" >Cha ta tức giận mắng lớn: Huyền Chân, thường ngày ta đối với ngươi không tệ, sao ngươi lại đối xử với ta như vậy? Hắn không nhìn cha ta nữa mà ra tay giết ông! Sau đó bắt</font> <font face="Default" color="#ffffff" >ta đi</font><font face="Default" color="#ffffff" >, giữa đường cho ta uống gì đó khiến thần trí ta không rõ!</font>
+story_80512_7=<font face="Default" color="#ffffff" >Túy Sinh Mộng Tử? Đó là gì chứ?</font> <font face="Default" color="#ffffff" >Ta chỉ nhớ lúc đầu hắn cho ta uống thuốc gì đó không nhiều lắm, sau đó tăng liều lượng. Ta cứ mơ màng không rõ thần trí, ký ức sau cùng của ta chính ở trong sơn động này.</font>
+story_80512_8=<font face="Default" color="#ffffff" >Ta lờ mờ nhớ có một lần ta tỉnh dậy nhìn thấy Huyền Chân và một đám Hắc Y Nhân nói chuyện với nhau, đợi đã! Ma Đao Đường, đúng! Hắc Y Nhân đó tự xưng là người Ma Đao Đường! Khi ta tỉnh lại đầu vẫn còn đau, sau đó ta không còn nhớ gì nữa.</font>
+story_80513_1=<font face="Default" color="#ffffff" >Việc này còn phải hỏi ư?</font>
+story_80513_2=<font face="Default" color="#ffffff" >Ngươi nghĩ ta có thể dùng cái chết của gia phụ và gia mẫu để đùa cợt ư?</font> <font face="Default" color="#ffffff" >Nếu ngươi không tin có thể đi điều tra, nhà ta ở gần Lạc Dương Tiểu Ô Thôn!</font>
+story_80514_1=<font face="Default" color="#ffffff" >Lão tử không có thời gian để ý ngươi, nếu muốn biết việc gì từ miệng ta, đánh thắng ta rồi nói.</font>
+story_80515_1=<font face="Default" color="#ffffff" >Khách quan có việc gì xin cứ nói, việc khác ta không dám nói nhưng ta là người biết rất nhiều chuyện trong thôn, thôn dân gần đây đều gọi ta là Bách Sự Thông. Không việc gì ta không biết...</font>
+story_80515_2=<font face="Default" color="#ffffff" >Khách quan cứ hỏi.</font>
+story_80515_3=<font face="Default" color="#ffffff" >Khách quan chớ hỏi ta, 5 năm trước ta mới đến đây. Chuyện 10 năm trước ta thật không biết gì.</font>
+story_80516_1=<font face="Default" color="#ffffff" >Chuyện gì?</font>
+story_80516_2=<font face="Default" color="#ffffff" >Chuyện 10 năm trước ai còn nhớ chứ, trí nhớ người này không tốt rất mau quên.</font>
+story_80517_1=<font face="Default" color="#ffffff" >Chuyện gì?</font>
+story_80517_2=<font face="Default" color="#ffffff" >Tống Gia? Ngươi đến tìm Tống Gia làm gì chứ?</font>
+story_80517_3=<font face="Default" color="#ffffff" >Thì ra là thiếu hiệp của Võ Đang, ta có mắt không thấy Thái Sơn. 10 năm trước Tống Gia này cũng là hộ giàu có trong vòng 10 dặm Tiểu Ô Thôn này, gia chủ Tống Vân Thiên nhân hậu đối đãi với mọi người rất tốt. Chỉ là thật không thể đoán trước được việc gì, trong đêm nọ cả nhà Tống Gia gặp phải hỏa hoạn.</font>
+story_80517_4=<font face="Default" color="#ffffff" >Đó là hỏa hoạn lớn. Khi thôn dân chúng ta phát hiện thì không thể ngăn được lửa, lúc đó là mùa hạ. Chỉ nghe tiếng sét đánh rồi trời đổ mưa lớn, lửa dần tắt. Mọi người xông vào cứu người, kết quả Tống Gia không ai sống sót. Chúng tôi tìm di thể người Tống Gia trong đống đổ nát, thiết nghĩ thường ngày họ đối xử với chúng ta không tệ, bèn thu thập thi thể để mai táng. Nhưng khi đào thi thể đã phát hiện một việc kỳ lạ.</font>
+story_80517_5=<font face="Default" color="#ffffff" >Trong lúc tìm thi thể, đã phát hiện được một di thể tựa như trẻ sơ sinh, nhưng xương cốt nhìn rất kỳ lạ…Chúng ta cũng an táng cùng với người Tống Gia.</font>
+story_80517_6=<font face="Default" color="#ffffff" >Chúng ta an táng họ ở phía nam Tiểu Ô Thôn. Ồ, đúng rồi. Mười năm trước Tống Gia có qua lại thân mật với một đạo sĩ, hình như tên là Huyền Chân.</font>
+story_80517_7=
+story_80518_1=<font face="Default" color="#ffffff" >Thân thủ thiếu hiệp thật cao cường! Tại hạ bội phục, ngươi có gì muốn hỏi cứ nói đi!</font>
+story_80518_2=<font face="Default" color="#ffffff" >Mười năm trước? Mười năm trước lão còn xông pha quan ngoại, có biết gì đến Tống Gia chứ!</font>
+story_80519_1=<font face="Default" color="#ffffff" >Cả nhà Tống đại ca chết thật oan uổng! Ngươi là người nào? Ngươi là đạo sĩ? Ngươi cùng bọn với Huyền Chân? Ta phải giết ngươi!</font>
+story_80519_2=<font face="Default" color="#ffffff" >Điều ngươi nói là thật ư? Tống đại ca vẫn chưa chết? Được, Ta sẽ nói điều ta biết với ngươi.</font>
+story_80520_1=<font face="Default" color="#ffffff" >Thiện Phương? Ngươi đã gặp Thiện Phương? Nàng ấy sống thế nào? Nàng…đã lấy ai chưa?</font>
+story_80521_1=
+story_80521_2=
+story_80522_1=
+story_80523_1=
+story_80524_1=<font face="Default" color="#ffffff" >Cuối cùng ngươi cũng đã về, Thái Cực Đồ đã được mang về nhưng lại không thấy ngươi. Hiện giờ ngươi trở về bình yên vô sự, ta cũng yên tâm hơn!</font>
+story_80524_2=<font face="Default" color="#ffffff" >Nhìn sắc mặt ngươi chắc đã trải qua trận ác chiến! Ngươi mau nghỉ ngơi, sau này khi ta đến thăm ngươi hãy nói chi tiết chuyện đã trải qua cho ta nghe.</font>
+story_80525_1=<font face="Default" color="#ffffff" >Tìm ta có việc gì sao?</font>
+story_80525_2=<font face="Default" color="#ffffff" >Ngươi nói tên điên trên núi Võ Đang ư?</font>
+story_80526_1=<font face="Default" color="#ffffff" >Người kiến lập Võ Đang theo thời gian đã không thể truy tìm nữa, chỉ biết lúc khai sơn lập phái Võ Đang đã có. Kính Hoa Thủy Nguyệt trong động, còn có động thiên, thật là thần tích, bí mật bên trong ngươi đến rồi sẽ biết!</font>
+story_80527_1=<font face="Default" color="#ffffff" >Cống hiến cho triều đình? Chỉ là tạm thời liên thủ đánh bại kẻ địch chung thôi, triều đình thừa cơ hội này ngự ban Đan Thư Thiết Khoán cho bát đại môn phái.</font>
+story_80527_2=<font face="Default" color="#ffffff" >Hơn 10 năm trước, Chu Doãn Văn và đương kim thánh thượng tranh đoạt ngôi vua. Lúc đó giáo chủ Ma Giáo ngang nhiên ủng hộ Chu Doãn Văn. Nếu Ma Giáo và Chu Doãn Văn đạt được ý đồ, triều đình và võ lâm sẽ đối mặt với kiếp nạn lớn.</font>
+story_80527_3=<font face="Default" color="#ffffff" >Không sai, võ lâm liên thủ cùng đương kim thánh thượng, đập tan âm mưu của Ma Giáo và Chu Doãn Văn. Từ đó Ma Giáo thất bại hoàn toàn, võ lâm tránh được kiếp nạn. Để biểu dương bát đại môn phái có công dẹp nạn triều định ngự ban Đan Thư Thiết Khoán, Thế Tập Võng Thế, lúc quan trọng có thể giúp môn phái diệt trừ tai họa.</font>
+story_80528_1=<font face="Default" color="#ffffff" >Chưởng môn lấy đại cuộc làm trọng, triều đình muốn trách tội,</font> <font face="Default" color="#ffffff" >Võ Đang</font> <font face="Default" color="#ffffff" >sao có thể chống đối nổi.</font>
+story_80528_2=<font face="Default" color="#ffffff" >Ngươi đi đi. Nhưng nếu triều đình truy cứu, ta sẽ trục xuất ngươi khỏi</font> <font face="Default" color="#ffffff" >Võ Đang</font><font face="Default" color="#ffffff" >, chứng tỏ chuyện này không có liên quan đến</font> <font face="Default" color="#ffffff" >Võ Đang</font> <font face="Default" color="#ffffff" >, chỉ là hành động của cá nhân ngươi thôi.</font>
+story_80529_1=<font face="Default" color="#ffffff" >Việc này ngươi vốn không nên xen vào, hành sự lỗ mãng chỉ rước họa vào thân. Có lẽ lúc đầu cướp pháp trường chính là sai lầm, ôi.</font>
+story_menu_80501=<font face="Default" color="#ffffff" >chưởng sự sư thúc?</font>
+story_menu_80502=<font face="Default" color="#ffffff" >Chính là bình này!</font>
+story_menu_80503=<font face="Default" color="#ffffff" >Sư huynh nghĩ gì về chuyện này?</font>
+story_menu_80504=<font face="Default" color="#ffffff" >Sao ngươi không nói chứ?</font>
+story_menu_80505=<font face="Default" color="#ffffff" >Chỉ là lúc này nên làm thế nào?</font>
+story_menu_80506=<font face="Default" color="#ffffff" >Đạo trưởng?</font>
+story_menu_80507=<font face="Default" color="#ffffff" >Sư muội, ngươi bảo thôn dân gần đây đừng lại gần thi thể.</font>
+story_menu_80508=<font face="Default" color="#ffffff" >Hắc Y Nhân? Là Hắc Y Nhân cướp đoạt Tháu Cực Đồ đó ư?</font>
+story_menu_80509=<font face="Default" color="#ffffff" >Rốt cuộc ngươi có chịu nói không?</font>
+story_menu_80510=<font face="Default" color="#ffffff" >Ngươi biết</font> <font face="Default" color="#ffffff" >Tống Thanh Ngọc</font> <font face="Default" color="#ffffff" >đi đâu?</font>
+story_menu_80511=<font face="Default" color="#ffffff" >Chính là Tống Thanh Ngọc trên núi Võ Đang.</font>
+story_menu_80512=<font face="Default" color="#ffffff" >Ngươi có nhớ sao mình đến chỗ này không?</font>
+story_menu_80513=<font face="Default" color="#ffffff" >Vết thương ngươi đỡ nhiều chưa?</font> <font face="Default" color="#ffffff" >Tống Thanh Ngọc ngươi muốn báo thù rửa hận không?</font>
+story_menu_80514=<font face="Default" color="#ffffff" >Vị đại ca này, ta muốn thỉnh giáo chút việc. Không biết ngươi có thể giúp ta không</font>
+story_menu_80515=<font face="Default" color="#ffffff" >Tiểu nhị, ta muốn hỏi thăm ngươi một chuyện.</font>
+story_menu_80516=<font face="Default" color="#ffffff" >Đại tẩu, ta muốn thỉnh giáo người một chuyện.</font>
+story_menu_80517=<font face="Default" color="#ffffff" >Ô đại ca, ta muốn hỏi thăm một số chuyện.</font>
+story_menu_80518=<font face="Default" color="#ffffff" >Ngươi phục không?</font>
+story_menu_80519=<font face="Default" color="#ffffff" >Cô nương, sao cô lại khóc ở chỗ này?</font>
+story_menu_80520=<font face="Default" color="#ffffff" >Tống Thanh Ngọc, ta đã tra rõ thực hư lời ngươi nói. Ngươi chuẩn bị đi, lát nữa chúng ta đến tìm Huyền Chân đạo trưởng!</font> <font face="Default" color="#ffffff" >Một vị cô nương tên là Ô Thiện Phương bảo ta hỏi thăm ngươi.</font>
+story_menu_80521=
+story_menu_80522=
+story_menu_80523=
+story_menu_80524=<font face="Default" color="#ffffff" >chưởng sự sư thúc?</font>
+story_menu_80525=<font face="Default" color="#ffffff" >Lý đại thúc</font><font face="Default" color="#ffffff" >?</font>
+story_menu_80526=<font face="Default" color="#ffffff" >Mật thất Võ Đang là nơi thế nào chứ?</font>
+story_menu_80527=<font face="Default" color="#ffffff" >Sao triều đình ngự ban Đan Thư Thiết Khoán cho bát đại môn phái, lẽ nào bát đại môn phái từng liên thủ góp sức vì triều đình?</font>
+story_menu_80528=<font face="Default" color="#ffffff" >Tứ Đại Khấu gửi huyết thư cứu viện, chưởng môn lo lắng, nhưng ta nghĩ...</font>
+story_menu_80529=<font face="Default" color="#ffffff" >Chưởng môn, Tứ Đại Khấu bọn họ vốn dĩ hộ tống vợ con của Đinh Cửu Trùng. Nhưng bọn họ đều bị sát hại bởi độc thủ của Ma Đao Đường.</font>
+storyinfo_80501=Nghe <a href="findnpc_new,school07,npc_4neidh_wd" style="HLStype1">chưởng sự sư thúc</a> nói ra phát hiện mới
+storyinfo_80502=Nghe phân tích của <a href="findnpc_new,school07,wd121" style="HLStype1">Cổ Tuấn Trì</a>
+storyinfo_80503=Nghe thử cách nghĩ của <a href="findnpc_new,school07,wd121" style="HLStype1">Cổ Tuấn Trì</a>
+storyinfo_80504=Nghe <a href="findnpc_new,school07,WorldNpc04876" style="HLStype1">đạo sĩ làm cơm</a> kể lai lịch của Túy Sinh Mộng Tửu
+storyinfo_80505=Nghe <a href="findnpc_new,school07,WorldNpc04401" style="HLStype1">Tử Dương Chân Nhân</a> dặn dò
+storyinfo_80506=Nghe xem <a href="findnpc_new,school07,WorldNpc04402" style="HLStype1">Cửu Hạc Đạo Trưởng</a> nghĩ thế nào
+storyinfo_80507=Phân tích kết quả nghiệm thi với <a href="findnpc_new,school07,npc_4nei_lxy" style="HLStype1">Lư Tiểu Nguyệt</a>
+storyinfo_80508=Nghe <a href="findnpc_new,school07,npc_4nei_xsd" style="HLStype1">tiểu sư đệ</a> kể chuyện
+storyinfo_80509=Ép <a href="findnpc_new,school07,npc_4nei_xuanzhentd2" style="HLStype1">Người đưa rượu</a> nói mục đích của chúng
+storyinfo_80510=Hỏi <a href="findnpc_new,school07,WorldNpc04426" style="HLStype1">Hà Thuận Sinh</a> hướng đi của Tống Thanh Ngọc
+storyinfo_80511=Hỏi <a href="findnpc_new,school07,WorldNpc04897" style="HLStype1">Người bán</a> kẹo hồ lô về Tống Thanh Ngọc
+storyinfo_80512=Hỏi thân thế <a href="findnpc_new,school07,npc_4nei_sqy2" style="HLStype1">Tống Thanh Ngọc</a>
+storyinfo_80513=Nghĩ cách xác minh thực hư lời nói của <a href="findnpc,school07,412,825,396" style="HLStype1">Tống Thanh Ngọc</a>
+storyinfo_80514=Hỏi <a href="findnpc_new,city04,ly007" style="HLStype1">Thôn dân</a> chuyện Tống Gia
+storyinfo_80515=Hỏi <a href="findnpc_new,city04,ly697" style="HLStype1">Thôn dân</a> chuyện Tống Gia
+storyinfo_80516=Hỏi <a href="findnpc_new,city04,ly694" style="HLStype1">Thôn dân</a> chuyện Tống Gia
+storyinfo_80517=Nghe nói vị <a href="findnpc_new,city04,WorldNpc10536" style="HLStype1">Ô Đại Gia</a> này là thôn trưởng ở đây, có lẽ hắn biết được gì đó
+storyinfo_80518=Hỏi <a href="findnpc_new,city04,ly007" style="HLStype1">người giang hồ</a> lỗ mãng này về chuyện Tống Gia
+storyinfo_80519=Đến phía nam Tiểu Ô Thôn tìm <a href="findnpc_new,city04,npc_4nei_nvhai" style="HLStype1">Mộ Tống Gia</a>
+storyinfo_80520=Bảo <a href="findnpc,school07,412,825,396" style="HLStype1">Tống Thanh Ngọc</a> ngươi đã chứng thực lời hắn nói
+storyinfo_80521=Nghe <a href="findnpc_new,school07,npc_4neidh_wd" style="HLStype1">chưởng sự sư thúc</a> kể chuyện
+storyinfo_80522=Nghe <a href="findnpc,school07,412,825,396" style="HLStype1">Tống Thanh Ngọc</a> kể chuyện
+storyinfo_80524=Nghe <a href="findnpc_new,school07,npc_4neidh_wd" style="HLStype1">chưởng sự sư thúc</a> kể chuyện
+storyinfo_80525=Hỏi <a href="findnpc_new,school07,WorldNpc04521" style="HLStype1">Lý A Hoa</a> hướng đi của Tống Thanh Ngọc
+storyinfo_80526=Nghe <a href="findnpc_new,school07,npc_4neidh_wd" style="HLStype1">chưởng sự sư thúc</a> nói về mật thất Võ Đang
+storyinfo_80527=Nghe <a href="findnpc_new,school07,WorldNpc04401" style="HLStype1">Tử Dương Chân Nhân</a> giảng giải bí ẩn bát đại môn phái
+storyinfo_80528=Nghe <a href="findnpc_new,school07,npc_4neidh_wd" style="HLStype1">chưởng sự sư thúc</a> kể chuyện
+storyinfo_80529=Nghe <a href="findnpc_new,school07,WorldNpc04401" style="HLStype1">Tử Dương Chân Nhân</a> kể
+storymenu_80501_1=<font face="Default" color="#ffffff" >Trưởng lão? Không biết là? </font>
+storymenu_80501_2=<font face="Default" color="#ffffff" >Ngươi nói gì?</font> <font face="Default" color="#ffffff" >Huyền Chân trưởng lão?</font> <font face="Default" color="#ffffff" >Sao có thể?</font>
+storymenu_80501_3=<font face="Default" color="#ffffff" >Đệ tử tuân lệnh!</font>
+storymenu_80502_1=<font face="Default" color="#ffffff" >Túy Sinh Mộng Tửu? Tên loại rượu này thật đặc biệt. Rượu này ta phát hiện ra ở sơn động cạnh</font> <font face="Default" color="#ffffff" >Dưỡng Tâm Điện</font><font face="Default" color="#ffffff" >. </font>
+storymenu_80502_2=<font face="Default" color="#ffffff" >Lại có chuyện này ư?</font>
+storymenu_80502_3=<font face="Default" color="#ffffff" >Hả! Trên đời lại có loại rượu kỳ lạ vậy!</font>
+storymenu_80503_1=<font face="Default" color="#ffffff" >Tống Thanh Ngọc?</font>
+storymenu_80503_2=<font face="Default" color="#ffffff" >Sư huynh? (Sư huynh hình như có gì khó nói, không biết huynh ấy đang lo lắng gì) </font>
+storymenu_80504_1=<font face="Default" color="#ffffff" >Điều kiện gì?</font>
+storymenu_80504_2=<font face="Default" color="#ffffff" >Được, chắc chắn.</font> <font face="Default" color="#ffffff" > (Đợi ta giải quyết xong chuyện này, tính mạng sư huynh dĩ nhiên an toàn, chỉ là việc gì khiến chư vị sư huynh lo lắng vậy chứ?) </font>
+storymenu_80504_3=<font face="Default" color="#ffffff" >Lẽ nào trước giờ ngươi chưa gặp người đưa rượu?</font>
+storymenu_80504_4=<font face="Default" color="#ffffff" >Rốt cuộc việc này do ai làm chứ?</font> <font face="Default" color="#ffffff" >Dám giở trò ở núi Võ Đang?</font>
+storymenu_80504_5=<font face="Default" color="#ffffff" >Ta thật muốn xem thử kẻ nào dám giở trò ở Võ Đang ta!</font>
+storymenu_80505_1=<font face="Default" color="#ffffff" >Đệ tử tuân lệnh!</font>
+storymenu_80506_1=<font face="Default" color="#ffffff" >U…U Minh Phấn? Ta chỉ biết ta và Mạc sư bá bị trúng độc, hiện giờ nên làm gì? Nhưng đây là cái gì?</font>
+storymenu_80506_2=<font face="Default" color="#ffffff" >Việc này…nên làm sao mới được?</font>
+storymenu_80506_3=<font face="Default" color="#ffffff" >Thật </font> <font face="Default" color="#ffffff" >táng tận lương tâm</font><font face="Default" color="#ffffff" >!</font>
+storymenu_80506_4=<font face="Default" color="#ffffff" >Đệ tử đi ngay!</font>
+storymenu_80507_1=<font face="Default" color="#ffffff" >Vết thương những người này giống với các sư đệ, ta đoán do một người gây ra. Hơn nữa số</font> <font face="Default" color="#ffffff" >tài</font> <font face="Default" color="#ffffff" >sản này không hao hụt chút nào, có thể thấy hắn đến không phải vì của cải.</font>
+storymenu_80507_2=<font face="Default" color="#ffffff" >Ta đoán nguyên dân là do loại đồ vật mà bọn họ bán.</font>
+storymenu_80507_3=<font face="Default" color="#ffffff" >Việc này nói ra dài dòng, ta còn có việc khác phải làm.</font> <font face="Default" color="#ffffff" >Ngươi cứ ở lại đây chờ các sư huynh đệ khác đến!</font>
+storymenu_80508_1=<font face="Default" color="#ffffff" >Bọn người này âm mưu thâm độc, lòng lang dạ sói...</font>
+storymenu_80508_2=<font face="Default" color="#ffffff" >Sư đệ, ngươi đợi đây một chút. Ta đi thu thập ít thảo dược giúp ngươi trị liệu.</font>
+storymenu_80509_1=<font face="Default" color="#ffffff" >Huyền Chân sư phụ?</font> <font face="Default" color="#ffffff" >Huyền Chân sư thúc thân mang trọng trách trấn thủ cấm địa, vốn không có đồ đệ, sao lại có đồ đệ là ngươi?</font>
+storymenu_80509_2=<font face="Default" color="#ffffff" >Sơn động? Là sơn động cạnh Dưỡng Tâm Điện ư?</font>
+storymenu_80509_3=<font face="Default" color="#ffffff" >Sao hắn lại lén lút nhận ngươi làm đồ đệ chứ?</font>
+storymenu_80509_4=<font face="Default" color="#ffffff" >Thì ra ngươi có oán hận lớn vậy!</font> <font face="Default" color="#ffffff" >Ngoài việc này ra Huyền Chân sư thúc còn có hành động gì kỳ lạ?</font>
+storymenu_80509_5=<font face="Default" color="#ffffff" >Tống đại</font> <font face="Default" color="#ffffff" >ca</font><font face="Default" color="#ffffff" >? Hắn có quan hệ gì với Tống Thanh Ngọc?</font>
+storymenu_80510_1=<font face="Default" color="#ffffff" >Xuống núi, hắn xuống núi làm gì?</font>
+storymenu_80510_2=<font face="Default" color="#ffffff" >Bệnh của người này không nhẹ.</font>
+storymenu_80510_3=<font face="Default" color="#ffffff" >Ta đến tìm thử, cáo từ!</font>
+storymenu_80511_1=<font face="Default" color="#ffffff" >Cáo từ!</font>
+storymenu_80512_1=<font face="Default" color="#ffffff" >(Việc này quả thật có liên quan đến Huyền Chân đạo trưởng!) lúc này ngươi đã bị thương, chớ manh động!</font>
+storymenu_80512_2=<font face="Default" color="#ffffff" >Ta là đệ tử Võ Đang, gần đây bản môn gặp phải việc nan giản. Nói ra dài dòng, sau này ta sẽ nói cho ngươi nghe. Nhưng chúng ta nghi ngờ việc này có liên quan đến Huyền Chân đạo trưởng, ngươi lại là người giang hồ được Huyền Chân đạo trưởng dẫn về. Chúng ta lại không thể trực tiếp điều tra Huyền Chân đạo trưởng tránh bứt dây động rừng, vì vậy chỉ có thể nhờ cậy ngươi.</font><font face="Default" color="#ffffff" ></font>
+storymenu_80512_3=<font face="Default" color="#ffffff" >Ngươi đừng vội, cứ từ từ nói.</font>
+storymenu_80512_4=<font face="Default" color="#ffffff" >Thử nghiệm đan dược tự chế?</font>
+storymenu_80512_5=<font face="Default" color="#ffffff" >Việc này…thật táng tận lương tâm, không bằng cầm thú!</font>
+storymenu_80512_6=<font face="Default" color="#ffffff" >Nhất định là Túy Sinh Mộng Tử!</font>
+storymenu_80512_7=<font face="Default" color="#ffffff" >Ngươi còn nhớ gì không?</font> <font face="Default" color="#ffffff" >Ví dụ Huyền Chân đạo trưởng từng tiếp xúc với người nào?</font> <font face="Default" color="#ffffff" >Ngươi đã nghe qua Ma Đao Đường chưa?</font>
+storymenu_80512_8=<font face="Default" color="#ffffff" >Huyền Chân đạo trưởng quả nhiên có vấn đề! Ngươi đợi ở đây một lát, ta đi gọi người giúp ngươi, yên tâm đi! Võ Đang ta nhất định bảo vệ ngươi!</font>
+storymenu_80513_1=<font face="Default" color="#ffffff" >Được! Vậy ta hỏi ngươi, mấy việc ngươi nói trước đây về Huyền Chân đạo trưởng đều là sự thật chứ?</font>
+storymenu_80513_2=<font face="Default" color="#ffffff" >Vì chuyện này liên hệ trọng đại, nên ta đã lo lắng thái quá, xin lượng thứ!</font>
+storymenu_80514_1=<font face="Default" color="#ffffff" >Đã như vậy thì ta xin đắc tội vậy!</font>
+storymenu_80515_1=<font face="Default" color="#ffffff" >Nghe ngươi nói vậy, ta hỏi ngươi một chuyện. Nếu câu trả lời của ngươi khiến ta hài lòng, ta sẽ tặng bạc cho ngươi.</font>
+storymenu_80515_2=<font face="Default" color="#ffffff" >Được! Vậy ta hỏi ngươi, ngươi có biết 10 năm trước có Tống Gia gần Tiểu Ô Thôn này? Gia chủ họ Tống tên là Vân Thiên.</font>
+storymenu_80515_3=<font face="Default" color="#ffffff" >Nghe ngươi khoác lác vậy nên ta chỉ hỏi qua loa vậy thôi, cáo từ!</font>
+storymenu_80516_1=<font face="Default" color="#ffffff" >Ngươi có biết 10 năm trước có Tống Gia gần Tiểu Ô Thôn này? Gia chủ họ Tống tên Vân Thiên</font>
+storymenu_80516_2=<font face="Default" color="#ffffff" >Đa tạ, cáo từ!</font>
+storymenu_80517_1=<font face="Default" color="#ffffff" >Ngươi có biết 10 năm trước có Tống Gia gần Tiểu Ô Thôn này? Gia chủ họ Tống tên Vân Thiên</font>
+storymenu_80517_2=<font face="Default" color="#ffffff" >Cuối cùng cũng có người biết. Tại hạ là đệ tử Võ Đang, chỉ vì dạo này bản môn xảy ra vài việc nan giải. Mà nhân vật quan trọng của việc này là hậu nhân Tống Gia, người này đã phát điên hơn 10 năm. Nay vì cơ duyên trùng hợp chợt tỉnh lại, kể lại chuyện xưa. Lần này ta đến chứng thực lời hắn nói!</font> <font face="Default" color="#ffffff" >Chuyện này là cơ mật của bản môn không tiện tiết lộ, xin lượng thứ.</font>
+storymenu_80517_3=<font face="Default" color="#ffffff" >Trận hỏa hoạn lớn?</font>
+storymenu_80517_4=<font face="Default" color="#ffffff" >Việc kỳ lạ gì?</font>
+storymenu_80517_5=<font face="Default" color="#ffffff" >Chôn cất cùng nhau? Ô đại gia có thể nói rõ người Tống Gia ta mai táng ở đâu không? Ta đến bái tế họ!</font>
+storymenu_80517_6=<font face="Default" color="#ffffff" >Huyền Chân? Cảm tạ!</font>
+storymenu_80517_7=<font face="Default" color="#ffffff" >Xương cốt kỳ quái? Giống trẻ sơ sinh?</font>
+storymenu_80518_1=<font face="Default" color="#ffffff" >Được! Ta hỏi ngươi, ngươi có biết Tống Gia của Tiểu Ô Thôn 10 năm trước?</font>
+storymenu_80518_2=<font face="Default" color="#ffffff" > (Thật lãng phí thời gian!) Cáo từ!</font>
+storymenu_80519_1=<font face="Default" color="#ffffff" >Cô nương hãy nghe ta nói! Mục đích ta đến đây là tìm chân tướng mười năm trước! Nếu chuyện này đều do Huyền Chân gây ra, ta nhất định sẽ đòi lại công đạo cho Tống Gia. Hơn nữa Tống đại ca của ngươi vẫn chưa chết, hắn đang sống rất tốt ở Võ Đang!</font> <font face="Default" color="#ffffff" >Ngươi hãy nói với ta những chuyện ngươi biết.</font>
+storymenu_80519_2=<font face="Default" color="#ffffff" >Đừng vội, cứ từ từ nói.</font>
+storymenu_80520_1=<font face="Default" color="#ffffff" >Nàng ấy sống rất tốt, còn việc nàng ấy có lấy ai chưa. Đợi làm xong việc này ngươi tự đi hỏi nhé.</font> <font face="Default" color="#ffffff" >Ta muốn nói việc này với chưởng sự sư thúc. </font>
+storymenu_80521_1=
+storymenu_80521_2=
+storymenu_80522_1=
+storymenu_80523_1=
+storymenu_80524_1=<font face="Default" color="#ffffff" >Ma Đao Đường này tuy hành sự độc ác nhưng rất trọng chữ tín!</font>
+storymenu_80524_2=<font face="Default" color="#ffffff" >Đa tạ sư thúc!</font>
+storymenu_80525_1=<font face="Default" color="#ffffff" >Lý đại thúc, thúc</font> <font face="Default" color="#ffffff" >có</font> <font face="Default" color="#ffffff" >nhìn thấy Tống Thanh Ngọc vừa ngồi ở cây lớn đó không?</font>
+storymenu_80525_2=<font face="Default" color="#ffffff" >Đúng vậy!</font><font face="Default" color="#ffffff" >Đúng vậy!</font>
+storymenu_80526_1=<font face="Default" color="#ffffff" >Kính Hoa Thủy Nguyệt, còn có động thiên?</font>
+storymenu_80527_1=<font face="Default" color="#ffffff" >Kẻ địch chung gì chứ?</font>
+storymenu_80527_2=<font face="Default" color="#ffffff" >Vì vậy bát đại môn phái liên thủ cùng triều đình, tiêu diệt Ma Giáo và Chu Doãn Văn?</font>
+storymenu_80527_3=<font face="Default" color="#ffffff" >Thì ra là thế.</font>
+storymenu_80528_1=<font face="Default" color="#ffffff" >Chưởng sự sư thúc nói chí phải. Nhưng thấy chết không cứu, không phải hành vi của kẻ hiệp nghĩa, huống hồ các phái khác còn nghĩ Võ Đang quy thuận triều đình. Vì vậy ta quyết định tự mình đến cứu họ.</font>
+storymenu_80528_2=<font face="Default" color="#ffffff" >Đa tạ</font> <font face="Default" color="#ffffff" >chưởng sự sư thúc</font>
+storymenu_80529_1=<font face="Default" color="#ffffff" >Sao Ma Đao Đường lại gọi Đinh Cửu Trùng và Tứ Đại Khấu là Ma Giáo? Ban đầu chúng ta liên thủ với triều đình chống lại Ma Giáo, nay sao lại giúp bọn Ma Giáo?</font>
+useiteminfo_80501=Xem <a href="TASK_ITEM,useitem_4nei_mx" style="HLStype1">trong thư</a> viết cái gì
+useiteminfo_80502=Đến cạnh <a href="findnpc_new,school07,Event_4nei_wd_yc" style="HLStype1">Vại Nước</a> dùng <a href="TASK_ITEM,useitem_4nei_xiangzi" style="HLStype1">Rương Gỗ</a> ngụy trang
+useiteminfo_80503=Kiểm tra <a href="TASK_ITEM,useitem_4nei_gh" style="HLStype1">hài cốt</a> đào lên từ Mộ Tống Gia
+DialogID_80526=<font face="Default" color="#ffffff" >Vừa khéo Thanh Thành ở trên núi Võ Đang?</font>
+DialogID_80532=<font face="Default" color="#ffffff" >Ngươi tìm thấy nó ở đâu?</font>
+DialogID_80536=<font face="Default" color="#ffffff" >Nếu ngươi gặp chuyện gì liên quan Vô Căn Môn ta có thể giúp ngươi, Ma Đao Đường đã cài vài người vào Vô Căn Môn!</font> <font face="Default" color="#ffffff" >Đây là chân dung của Liên Thanh Thành, chúng ta đã mất hành tung của hắn.</font>
+DialogID_80537=<font face="Default" color="#ffffff" >Hãy yên tâm! Thuộc hạ sẽ làm ổn thỏa chuyện này!</font>
+DialogID_80542=<font face="Default" color="#ffffff" >Ngươi là ai?</font>
+DialogID_80546=<font face="Default" color="#ffffff" >Được! Nhưng ngươi phải thay ta tìm ra Âm Khuyết trước đã! Đây là cái cuốc, mau đào cho ta!</font>
+DialogID_80547=<font face="Default" color="#ffffff" >Ha ha ha! Chàng trai trẻ</font> <font face="Default" color="#ffffff" >ngươi quên tên của ta rồi! Ta đúng là Thập Khuyết!</font>
+DialogID_80549=<font face="Default" color="#ffffff" >Lời đồn trong giang hồ về việc Âm Khuyết trên người của Yến Song Hành phải chăng là thật?</font>
+QiecuoMenu_80510=<font face="Default" color="#ffffff" >Hà đại thúc, mời!</font>
+QiecuoMenu_80511=<font face="Default" color="#ffffff" >Tiền bối, mời!</font>
+QiecuoMenu_80512=<font face="Default" color="#ffffff" >Ủa!</font>
+QiecuoMenu_80514=<font face="Default" color="#ffffff" >Thập Tuyệt Tô Hồng Hồng?!</font>
+QiecuoMenu_80516=<font face="Default" color="#ffffff" >Thập Khuyết xem chiêu, rõ ràng là hạ độc thủ với Tiểu Đồng vô tội!</font>
+QiecuoTitle_80510=<font face="Default" color="#ffffff" >Đừng phí lời, hãy xem đây!</font>
+QiecuoTitle_80511=<font face="Default" color="#ffffff" >Có dũng khí!</font>
+QiecuoTitle_80512=<font face="Default" color="#ffffff" >Đủ tư cách chứ, tất nhiên phải đánh qua. Xem chiêu!</font>
+QiecuoTitle_80514=<font face="Default" color="#ffffff" >Tại hạ Tô Hồng Hồng!</font>
+QiecuoTitle_80516=<font face="Default" color="#ffffff" >Không biết sống chết!</font>
+SubmitNpcEx_55540=Đưa Vô Danh Hoa cho <a href="findnpc_new,school07,npc_5neidh_wd" style="HLStype1">Từ Phong Hành</a> (Thí luyện xong hãy <a href="findnpc_new,school07,PlotDoor_5nei_nx_sl" style="HLStype1">rời khỏi mê cung</a>)
+SubmitNpcEx_55541=Đưa Vô Danh Hoa cho <a href="findnpc_new,school07,npc_5neidh_wd" style="HLStype1">Từ Phong Hành</a> (Thí luyện xong hãy <a href="findnpc_new,school07,PlotDoor_5nei_nx_sl" style="HLStype1">rời khỏi mê cung</a>)
+SubmitNpcEx_55550=
+SubmitNpcEx_55551=
+SubmitNpcEx_55552=Hỏi thăm <a href="findnpc_new,school07,NPC_5nei_wd_xjc1" style="HLStype1">Hướng sư thúc</a>
+SubmitNpcEx_55553=Thăm dò ý đồ của <a href="findnpc_new,school07,NPC_5nei_wd_yjl1" style="HLStype1">Diệp Kinh Lâu</a>
+SubmitNpcEx_55554=Thử thuyết phục <a href="findnpc_new,school07,NPC_5nei_wd_lh1" style="HLStype1">lão hán</a>
+SubmitNpcEx_55556=Hỏi thăm <a href="findnpc_new,school07,NPC_5nei_wd_lh1" style="HLStype1">lão hán</a> lúc đó xảy ra chuyện gì
+SubmitNpcEx_55557=Bác lẽ <a href="findnpc_new,school07,NPC_5nei_wd_yjl1" style="HLStype1">Diệp Kinh Lâu</a>
+SubmitNpcEx_55558=Chuyển lời <a href="findnpc_new,school07,NPC_5nei_wd_yjl1" style="HLStype1">Diệp Kinh Lâu</a> việc giao phó đã làm xong rồi
+SubmitNpcEx_55559=Giúp <a href="findnpc_new,school07,NPC_5nei_wd_xjc2" style="HLStype1">Hướng sư thúc</a>
+SubmitNpcEx_55561=Đến sơn môn tìm <a href="findnpc_new,school07,NPC_5nei_wd_sd" style="HLStype1">tiểu sư đệ</a> xem đã xảy ra chuyện gì
+SubmitNpcEx_55562=Nghe <a href="findnpc_new,school07,npc_5neidh_wd" style="HLStype1">Từ sư bá</a> dặn dò
+SubmitNpcEx_55564=Chấp nhận yêu cầu của <a href="findnpc_new,city03,NPC_5nei_z2_ysx" style="HLStype1">Yến Song Hành</a>
+SubmitNpcEx_55565=Nói <a href="findnpc_new,city03,NPC_5nei_z2_ll" style="HLStype1">Lí Lập</a> giúp ngươi đưa tin của Yến Song Hành đến cho Quản sự Vô Căn Môn
+SubmitNpcEx_55569=Liên Thanh Thành muốn đi Khoái Hoạt Đảo nhất định phải qua Tô Châu, đi <a href="findnpc_new,city02,NPC_5nei_z2_shh" style="HLStype1">Tô Châu</a> điều tra
+SubmitNpcEx_55574=Đồng ý với <a href="findnpc_new,city02,NPC_5nei_z2_cx1" style="HLStype1">Sở Tiếu</a> đi Quân Tử Đường
+SubmitNpcEx_55575=Tìm <a href="findnpc_new,school03,NPC_5nei_z2_msz" style="HLStype1">Mộ Thục Tử</a>
+collectinfo_80514=Ở cơ quan mê cung thu thập <a href="findnpc_new,,Gather_5nei_nx_hua" style="HLStype1">Vô Danh Hoa</a> (Nếu thí luyện thất bại, bỏ qua hoặc hoàn thành thì hãy <a href="findnpc_new,school07,PlotDoor_5nei_nx_sl" style="HLStype1">rời khỏi mê cung</a>)
+collectinfo_80515=Thu thập <a href="findnpc_new,school07,Gather_5nei_wd_yao" style="HLStype1">Sam Mộc Thảo</a> đưa cho Hà lão hán trị thương
+collectinfo_80516=Đưa <a href="findnpc_new,school07,Gather_5nei_wd_diao" style="HLStype1">Đoàn Đoàn</a> ở trong động ra, tặng cho Tiểu Hạch Đào
+collectinfo_80517=Thu thập <a href="findnpc_new,,Gather_5nei_nx_hua1" style="HLStype1">Vô Danh Hoa</a> (Nếu thí luyện thất bại, bỏ qua hoặc hoàn thành thì hãy <a href="findnpc_new,school07,PlotDoor_5nei_nx_sl" style="HLStype1">rời khỏi mê cung</a>)
+hunterinfo_80508=Lại có người to gan dám gây sự ở dưới núi Võ Đang! Đi trừng trị đám <a href="findnpc_new,school07,NPC_5nei_wd_xhh" style="HLStype1">sơn tặc</a> đó
+hunterinfo_80509=Vị sư huynh này không hỏi nguyên do lại ra tay, cho <a href="findnpc_new,school07,NPC_5nei_wd_ks" style="HLStype1">hắn</a> biết là ta cũng không dễ bắt nạt
+hunterinfo_80510=Thay Hướng sư thúc thỉnh giáo <a href="findnpc_new,school07,NPC_5nei_wd_lh1" style="HLStype1">lão hán</a>
+hunterinfo_80511=Tỉ thí với <a href="findnpc_new,city03,NPC_5nei_z2_ysx" style="HLStype1">Yến Song Hành</a>
+hunterinfo_80512=Cùng <a href="findnpc_new,city05,NPC_5nei_z2_jz" style="HLStype1">Vương Sơn Sơn</a> so tài
+hunterinfo_80513=Di Hoa Cung và Từ Gia Trang quả thực là đang sống mái với nhau, đưa thư phải nhanh chóng! Mau ngăn <a href="findnpc_new,city05,NPC_5nei_z2_yhgs" style="HLStype1">họ</a>
+hunterinfo_80514=<a href="findnpc_new,city02,NPC_5nei_z2_shh" style="HLStype1">Nữ tử này</a> biết Liên Thanh Thành, cách cô ta ăn mặc trang điểm không giống người bình thường, phải ứng phó cẩn thận với cô ta
+hunterinfo_80515=Bị Thập Khuyết hãm hại, mau cứu họ! (Đánh bại <a href="findnpc_new,city02,NPC_5nei_z2_wg" style="HLStype1">kẻ dẫn đầu</a> của chúng trước)
+hunterinfo_80516=Chuyện này nhất định là <a href="findnpc_new,city02,NPC_5nei_z2_sq1" style="HLStype1">Thập Khuyết</a> làm! Hừ, đã hạ thủ Tiểu Đồng vô tội
+interactinfo_80524=Nói chuyện cùng <a href="findnpc_new,school07,NPC_5nei_wd_lh" style="HLStype1">lão hán</a>
+interactinfo_80525=Hỏi thăm <a href="findnpc_new,school07,Event_5nei_wd_55556" style="HLStype1">lão hán</a> lúc đó đã xảy ra chuyện gì
+interactinfo_80526=Đưa thứ Diệp Kinh Lâu ủy thác giao cho <a href="findnpc_new,school07,WorldNpc04582" style="HLStype1">Duệ Y</a>
+interactinfo_80527=Đến <a href="findnpc_new,school07,Event_5nei_wd_55559" style="HLStype1">nơi đã hẹn</a>
+interactinfo_80528=Lén đến <a href="findnpc_new,school07,Event_5nei_wd_55554" style="HLStype1">nơi đã hẹn</a> của bọn họ thăm dò
+interactinfo_80529=Trò chuyện cùng <a href="findnpc_new,school07,Event_5nei_wd_55555" style="HLStype1"> nơi đã hẹn</a>
+interactinfo_80530=Không thấy Đoàn Đoàn của Tiểu Hạch Đào nữa, hãy <a href="findnpc_new,school07,Event_5nei_wd_55560" style="HLStype1">đến đó xem</a> thử
+interactinfo_80531=Đoàn Đoàn chạy theo hướng Tư Quá Nhai, mau đuổi theo <a href="findnpc_new,school07,Event_5nei_wd_55560a" style="HLStype1">nó</a>
+interactinfo_80532=Đồng ý vấn đề của <a href="findnpc_new,school07,npc_5nei_wd_hetao" style="HLStype1">Tiểu Hạch Đào</a>
+interactinfo_80533=Đưa <a href="findnpc_new,school07,Gather_5nei_wd_diao" style="HLStype1">Đoàn Đoàn</a> ở trong động ra, tặng cho Tiểu Hạch Đào
+interactinfo_80534=Đến <a href="findnpc_new,city03,Event_5nei_z2_55563" style="HLStype1">phụ cận Nam Giao</a> tìm Yến Song Hành
+interactinfo_80535=Phía trước có <a href="findnpc_new,city03,Event_5nei_z2_55563a" style="HLStype1">người bị thương</a>, mau đến xem thử
+interactinfo_80536=Hỏi thăm <a href="findnpc_new,city03,NPC_5nei_z2_ll" style="HLStype1">Lí Lập</a> chuyện của Vô Căn Môn
+interactinfo_80537=Đến gần <a href="findnpc_new,city03,Event_5nei_z2_55565" style="HLStype1">Chính Dương Môn</a> dùng cái còi triệu hoán nội ứng Ma Đao Đường, đưa tin của Yến Song Hành cho nội ứng Ma Đao Đường
+interactinfo_80538=Nghe nói thế lực của Di Hoa Cung có sức ảnh hưởng rất lớn ở Thành Đô, đi Thành Đô <a href="findnpc_new,city05,Event_5nei_z2_55566" style="HLStype1">nghe ngóng</a>
+interactinfo_80539=Đến Trà Than tìm <a href="findnpc_new,city05,5nei_z2_hc" style="HLStype1">vị trí</a> ngồi
+interactinfo_80540=Tin của Kim Châm Thẩm Gia cũng mang đến rồi, tiếp theo nên đi <a href="findnpc_new,city05,Event_5nei_z2_55568" style="HLStype1">Từ Gia Trang</a> trước, có lẽ sẽ tìm thấy Liên Thanh Thành
+interactinfo_80541=Lúc này sự chú ý của mọi người trong Từ Gia Trang đều ở bên ngoài, chi bằng vào trong tìm <a href="findnpc_new,city05,Event_5nei_z2_55569" style="HLStype1">Liên Thanh Thành</a>
+interactinfo_80542=<a href="findnpc_new,city05,NPC_5nei_z2_lqcbb" style="HLStype1">Liên Thanh Thành</a> nhất định ở gần đây, tìm lại xem
+interactinfo_80543=Đánh bại cai ngục xong đuổi theo <a href="findnpc_new,city05,Gather_5nei_z2_ywt" style="HLStype1">Liên Thanh Thành</a>
+interactinfo_80546=Đồng ý điều kiện của <a href="findnpc_new,city02,NPC_5nei_z2_sq1" style="HLStype1">Thập Khuyết</a>
+interactinfo_80547=Giao Âm Khuyết cho <a href="findnpc_new,city02,NPC_5nei_z2_sq1" style="HLStype1">Thập Khuyết lão nhân</a>, sau đó đưa Giang Giang rời khỏi chỗ này
+interactinfo_80548=Đến Quân Tử Đường tìm <a href="findnpc_new,school03,Event_5nei_z2_55575" style="HLStype1">Mộ Thục Tử</a>
+okmenu_80526=<font face="Default" color="#ffffff" >(Chắc chắn lúc Diệp Kinh Lâu ẩn núp ở đây Đã dùng thân phận của Liên Thanh Thành) tất cả đều tốt, đây là cái mà hắn ủy thác ta đưa cho ngươi.</font>
+okmenu_80532=<font face="Default" color="#ffffff" >Ở phía sau núi.</font>
+okmenu_80536=<font face="Default" color="#ffffff" >Đa tạ!</font>
+okmenu_80537=<font face="Default" color="#ffffff" >Cáo từ!</font>
+okmenu_80542=<font face="Default" color="#ffffff" >Suỵt!</font>
+okmenu_80546=<font face="Default" color="#ffffff" >Nhất ngôn vi định!</font>
+okmenu_80547=<font face="Default" color="#ffffff" >Ngươi!</font>
+okmenu_80549=<font face="Default" color="#ffffff" >Tiền bối xem sẽ biết!</font>
+story_80530_1=<font face="Default" color="#ffffff" >Ha ha ha…nói khích tướng ta chẳng có tác dụng gì đâu, nhưng ta đồng ý.</font>
+story_80531_1=
+story_80532_1=<font face="Default" color="#ffffff" >Hừm! Thì ra Võ Đang cũng đạo đức giả vậy! Ta muốn biết Hướng Cửu Trần hắn là kẻ nào trong Võ Đang các ngươi, ta tận mắt thấy hắn giết con trai ta!</font> <font face="Default" color="#ffffff" >Giết người phải đền mạng,</font> <font face="Default" color="#ffffff" >kiếp này ta không tận tay giết hắn thì còn mặt mũi nào đi gặp đứa con trai đã chết của ta!?</font>
+story_80533_1=<font face="Default" color="#ffffff" >Giết người phải đền mạng, nhưng đại trượng phu trên thế gian này nếu đã không làm nên chuyện. Cũng được, thuận theo tự nhiên đi.</font>
+story_80534_1=<font face="Default" color="#ffffff" >Việc gì? </font><font face="Default" color="#ffffff" >Chuyện gì?</font><font face="Default" color="#ffffff" >Chuyện gì?</font>
+story_80535_1=<font face="Default" color="#ffffff" >Đã không còn sớm nữa rồi, ngươi đi tìm lão hán đó đến sau núi.</font>
+story_80535_2=<font face="Default" color="#ffffff" >Chuyện này chính là</font> cá cược của <font face="Default" color="#ffffff" >sư thúc</font> người, <font face="Default" color="#ffffff" >nếu sai lời hẹn chỉ sợ...</font>
+story_80536_1=<font face="Default" color="#ffffff" >Ngươi hiểu cái gì chứ?!</font> <font face="Default" color="#ffffff" >Đệ tử Võ Đang giết người rồi cũng không thèm ngó ngàng gì được sao? Giết người đền mạng là chuyện đương nhiên!</font> <font face="Default" color="#ffffff" >Nếu có thể báo thù cho con trai ta thì ta cũng không tiếc thân già này mà liều mạng!</font>
+story_80537_1=<font face="Default" color="#ffffff" >Ta biết là các ngươi luôn nghĩ cho ta, nhưng những chuyện như vậy sau này phải nghe ta dặn dò! Kết quả sao rồi?</font>
+story_80537_2=<font face="Default" color="#ffffff" >Sai! Nhưng Diệp Kinh Lâu có tài năng trời phú, nếu không chắc chắn thì đừng làm những việc quyết định qua loa đại khái vậy.</font>
+story_80537_3=<font face="Default" color="#ffffff" >Xem ra</font> <font face="Default" color="#ffffff" >đúng là ta đã lo lắng quá rồi, cũng xem như cho Diệp Kinh Lâu nhiều thời gian hơn, hắn cũng chưa có kế hay nào.</font>
+story_80538_1=<font face="Default" color="#ffffff" >Kẻ này ăn nói hàm hồ! Hắn nói là Hướng sư thúc đã giết con trai của hắn, nên bây giờ đến báo thù!</font>
+story_80539_1=
+story_80540_1=<font face="Default" color="#ffffff" >Hừm! Cho rằng như vậy thì ta sẽ bỏ qua cho hắn à?</font>
+story_80540_2=<font face="Default" color="#ffffff" >Hừ!</font>
+story_80540_3=<font face="Default" color="#ffffff" >Để cho ngươi không bị kẻ mặt người dạ thú đó lừa bịp nữa, ta sẽ nói chuyện xảy ra hôm đó cho ngươi biết. Hôm đó ta từ ngoài ruộng về, thấy một ám khí bay từ trong phòng ra đâm trúng con trai ta, rồi tên Hướng Cửu Trần từ trong phòng xông ra!</font> <font face="Default" color="#ffffff" >Có vài tên giang hồ đuổi theo sau,</font> <font face="Default" color="#ffffff" >ta có nhìn nhầm không!?</font>
+story_80541_1=<font face="Default" color="#ffffff" >Ta phải đến chỗ Hướng Diệp hiệp sĩ thỉnh giáo công phu, cáo từ.</font>
+story_80542_1=<font face="Default" color="#ffffff" >Cáo từ.</font>
+story_80542_2=<font face="Default" color="#ffffff" >Sao lại xấu hổ? Niềm vui của con người trên thế gian này, mọi chuyện đều suy nghĩ trước sau, há chẳng phải đã làm mất đi nhiều niềm vui ư.</font>
+story_80542_3=<font face="Default" color="#ffffff" >Tất nhiên là không! Nếu lão hán đó tìm ta báo thù thì ta sẽ giết hắn!</font>
+story_80542_4=<font face="Default" color="#ffffff" >Hổ thẹn? Nếu là giết nhầm con trai hắn thì ta có lẽ sẽ hổ thẹn, nhưng ta sẽ bồi thường cho hắn theo cách của ta. Nếu Hà lão hán còn muốn giết ta thì đương nhiên ta sẽ giết hắn, chỉ là vì Diệp Mỗ ta giờ chưa muốn chết!</font>
+story_80543_1=<font face="Default" color="#ffffff" >Ngươi nói láo! Nếu không phải gặp hắn trong sơn cốc</font> <font face="Default" color="#ffffff" >liều chết cứu mạng</font><font face="Default" color="#ffffff" >, chỉ sợ ta và con trai ta...</font>
+story_80543_2=<font face="Default" color="#ffffff" >Chính là bên cạnh sơn đạo của Long Nam Thôn, Thanh Thành sao lại là người xấu được?!</font> <font face="Default" color="#ffffff" >Cho dù</font> <font face="Default" color="#ffffff" >ngươi thân là đệ tử Võ Đang</font> <font face="Default" color="#ffffff" >cũng</font> <font face="Default" color="#ffffff" >không thể vu khống huynh ấy!</font>
+story_80544_1=<font face="Default" color="#ffffff" >Ha ha ha, ngươi cứ mở miệng là nói không thể tùy tiện lấy mạng kẻ khác, bàn tay này đánh cũng vang lắm!</font>
+story_80544_2=<font face="Default" color="#ffffff" >Cho là ý chí bản thân là thiên ý, đệ tử danh môn chính phái quả đúng là giả dối bảo thủ, ha ha ha. Trận tỉ thí thứ hai của Hướng</font> <font face="Default" color="#ffffff" >sư thúc</font> ngươi<font face="Default" color="#ffffff" > và Hà lão hán đã kết thúc rồi, đáng tiếc đang tiếc.</font>
+story_80544_3=<font face="Default" color="#ffffff" >Đáng tiếc là Hà lão hán lại thua rồi!</font>
+story_80545_1=<font face="Default" color="#ffffff" >Thắng rồi thì sao chứ?</font> <font face="Default" color="#ffffff" >Nếu</font> <font face="Default" color="#ffffff" >kẻ đối mặt là Diệp Kinh Lâu, chỉ sợ là ta cũng không đỡ nổi ván thứ nhất.</font>
+story_80545_2=<font face="Default" color="#ffffff" >Diệp Kinh Lâu bảo ta cho hắn thời gian là một nén hương rồi</font> <font face="Default" color="#ffffff" >bắt đầu</font> <font face="Default" color="#ffffff" >vòng tỉ thí thứ ba, thời gian cũng sắp đến rồi, ngươi cùng ta đi thôi.</font>
+story_80546_1=<font face="Default" color="#ffffff" >Không sao, tịnh dưỡng vài tháng là được!</font>
+story_80547_1=<font face="Default" color="#ffffff" >Hu hu…không thấy Đoàn Đoàn của ta đâu cả…hu hu hu....</font>
+story_80547_2=<font face="Default" color="#ffffff" >Hu hu...Đoàn Đoàn là con chồn mà đại sư bá tặng cho ta</font><font face="Default" color="#ffffff" >,</font> <font face="Default" color="#ffffff" >không thấy nó đâu cả. Hu hu hu...</font>
+story_80547_3=
+story_80548_1=<font face="Default" color="#ffffff" >Ta đi qua điện thì gặp Hạch Đào, biết là ngươi không cố ý. Nhưng tự ý xông vào cấm địa sẽ bị phạt đó!</font>
+story_80548_2=<font face="Default" color="#ffffff" >Ngươi ra sau núi thay Triệu đại tráng làm việc một tháng, làm việc hắn sai bảo. Nhưng hãy tặng chồn nhỏ cho Hạch Đào trước.</font>
+story_80549_1=<font face="Default" color="#ffffff" >Đoàn Đoàn, là Đoàn Đoàn! Đa tạ ngươi.</font>
+story_80550_1=<font face="Default" color="#ffffff" >Vận khí của la luôn may mắn!</font>
+story_80550_2=<font face="Default" color="#ffffff" >Nghe nói Yến Song Hành đã</font> <font face="Default" color="#ffffff" >đến</font> <font face="Default" color="#ffffff" >Kim Lăng, gần đây có người ở gần Nam Giao thấy hắn. Trên người hắn luôn có một Băng Quan, rất dễ nhận ra.</font>
+story_80551_1=<font face="Default" color="#ffffff" >Thiếu hiệp</font> <font face="Default" color="#ffffff" >xin cứu mạng</font> <font face="Default" color="#ffffff" >ta! Ta đến vì Âm Khuyết, không ngờ mọi người đều thiệt mạng trong tay Yến Tặc, cũng may tại hạ hiện nay võ công cũng khá...ôi ôi..</font>
+story_80551_2=<font face="Default" color="#ffffff" >Tên Yến Song Hành này vẫn đang thủ một </font><font face="Default" color="#ffffff" >Băng Quan</font>, <font face="Default" color="#ffffff" >nếu không phải vậy chỉ sợ lúc này ta đã là một tử thi! Ôi ôi...</font>
+story_80551_3=<font face="Default" color="#ffffff" >Sườn núi phía tây.</font>
+story_80552_1=<font face="Default" color="#ffffff" >Ngươi cũng đến vì Âm Khuyết?</font>
+story_80552_2=<font face="Default" color="#ffffff" >Ồ?</font><font face="Default" color="#ffffff" >Hả?</font>
+story_80552_3=<font face="Default" color="#ffffff" >Ha ha ha ha, hay. Nhưng giao ước này hình như không công bằng với ta, nếu ngươi thua thì ta có thể giết ngươi, nhưng ta cần ngươi thay ta làm vài việc!</font>
+story_80553_1=<font face="Default" color="#ffffff" >Việc giao cho ngươi đã làm ổn thỏa rồi? Sao lại quan tâm Vô Căn Môn vậy? Tốt nhất chuyện này đừng có gây thêm phiền phức!</font>
+story_80553_2=<font face="Default" color="#ffffff" >Lẽ ra ta không nên nói với ngươi.</font>
+story_80554_1=<font face="Default" color="#ffffff" >Ngươi cứ yên tâm! </font><font face="Default" color="#ffffff" >Ngươi cứ yên tâm! </font>
+story_80555_1=<font face="Default" color="#ffffff" >Thế lực Di Hoa Cung tuy lớn, nhưng</font> <font face="Default" color="#ffffff" >vùng Thành Đô này có thể không chỉ có mỗi Di Hoa Cung, ngươi đừng quên ở đây còn có Kim Châm Thẩm Gia và Từ Gia Trang! Họ đều không phải là kẻ dễ trêu ghẹo, nghe nói họ còn thường ác chiến với nhau!</font>
+story_80556_1=<font face="Default" color="#ffffff" >Ngươi nghĩ Kim Châm Thẩm Gia ta là nơi nào, kẻ tùy tiện nào cũng đến bái kiến được à?</font>
+story_80557_1=<font face="Default" color="#ffffff" >Võ công của thiếu hiệp thật lợi hại, cớ gì lại can tâm tình nguyện làm đầy tớ cho Yến Song Hành?</font>
+story_80558_1=<font face="Default" color="#ffffff" >Thiếu hiệp quả thông minh, mời vào trong!</font>
+story_80559_1=<font face="Default" color="#ffffff" >Người của Yến Song Hành? Quả nhiên có chút thủ đoạn!</font>
+story_80560_1=<font face="Default" color="#ffffff" >Nghe nói Âm Khuyết trong tay hắn, hắn làm vậy có ý đồ gì?</font>
+story_80561_1=<font face="Default" color="#ffffff" >Tiền bối? Xem ta già vậy ư?</font>
+story_80561_2=<font face="Default" color="#ffffff" >Ta hỏi ngươi tên Liên Thanh Thành</font> <font face="Default" color="#ffffff" >lúc này</font> <font face="Default" color="#ffffff" >đang ở đâu?</font>
+story_80561_3=<font face="Default" color="#ffffff" >Có thể ngươi cũng không dám gạt ta! Cút đi.</font>
+story_80562_1=<font face="Default" color="#ffffff" >Nước…nước</font>. <font face="Default" color="#ffffff" >Sao lại nghe tiếng một phụ nữ không ngừng kêu khóc, ồn ào quá! Ngươi đi xem…nước...</font>
+story_80563_1=<font face="Default" color="#ffffff" >Giang Giang, Giang Giang của ta bị bắt đi rồi...Giang Giang của ta bị một kẻ có tướng mạo hung dữ bắt đi rồi, nói rằng Giang Giang đã trộm Dương Khuyết của hắn! Giang Giang là một đứa trẻ ngoan sao lại trộm đồ chứ! Hắn nói láo, thiếu hiệp cầu xin người hãy giúp ta, cầu</font> <font face="Default" color="#ffffff" >xin</font> <font face="Default" color="#ffffff" >người</font> <font face="Default" color="#ffffff" >...</font>
+story_80564_1=<font face="Default" color="#ffffff" >Hu hu hu hu…đồ ta nhặt được trong rừng đều bị mất rồi.</font>
+story_80565_1=<font face="Default" color="#ffffff" >Hừ! Thằng nhãi con trộm Dương Khuyết của lão, ngươi cho là ta dễ dàng tha cho hắn vậy à?!</font>
+story_80566_1=<font face="Default" color="#ffffff" >Có chút khó khăn, nhưng họ nghĩ giết ta cũng không dễ dàng vậy. Sở mỗ có chuyện muốn nhờ, xin thiếu hiệp thay ta đi gặp một người</font><font face="Default" color="#ffffff" >,</font> <font face="Default" color="#ffffff" >người này gọi là Mộ Thục Tử là một trong Thập Tuyệt.</font> <font face="Default" color="#ffffff" >Hiện giờ Sở mỗ bị trọng thương nên không tiện hành động, xin thiếu hiệp thay ta đi lấy vài linh đan dược thảo.</font>
+story_80566_2=
+story_80567_1=<font face="Default" color="#ffffff" >Thúc thúc ở phía trước, ngươi đi tìm thúc đi.</font>
+story_80568_1=<font face="Default" color="#ffffff" >Yến Song Hành?</font>
+story_80569_1=<font face="Default" color="#ffffff" >Đệ nhất Thập Tuyệt Yến Song Hành?!</font>
+story_80570_1=<font face="Default" color="#ffffff" >Sở Tiếu có ơn với ta, việc này ta tự biết cách làm.</font> <font face="Default" color="#ffffff" >Nhưng khi ta đã ra khỏi cốc, ngươi dùng thân phận Sở Tiếu thì ở nơi nào gọi ta cũng được!</font>
+story_80571_1=<font face="Default" color="#ffffff" >Lần trước sau khi tạm biệt ngươi, ta đã đưa Thanh Nhi đi tìm Mộ tiền bối, mong là Mộ tiền bối có thể cứu chữa cho Thanh Nhi!</font>
+story_80571_2=<font face="Default" color="#ffffff" >Chỉ là Mộ tiền bối hiệu là Ác thủ độc y, xin cô ấy trị bệnh không phải là chuyện dễ, nữ tử bên cạnh ngươi vì cầu cứu Mộ tiền bối chữa trị cho</font> <font face="Default" color="#ffffff" >Diệp Kinh Lâu</font> <font face="Default" color="#ffffff" >cam nguyện tự hủy dung mạo, ôi! Nhưng Mộ tiền bối đã chấp nhận thỉnh cầu của ta, ta bắt đầu đi tìm “Tương Tư Thành Huyết” đây!</font>
+story_80572_1=<font face="Default" color="#ffffff" >Những việc ta vì hắn mà</font> <font face="Default" color="#ffffff" >làm</font> <font face="Default" color="#ffffff" >không yêu cầu ai tán thành!</font>
+story_80573_1=<font face="Default" color="#ffffff" >Đợi lúc hoa Tương Tư Thành Huyết nở ta sẽ đưa Âm Khuyết cho ngươi, tiếp theo ngươi hãy xem một trò vui!</font>
+story_80574_1=<font face="Default" color="#ffffff" >Còn vài ngày nữa hoa Tương Tư Thành Huyết sẽ nở, ta nhất định đợi ở đây, đến lúc đó ngươi hãy đến tìm ta!</font>
+story_80575_1=<font face="Default" color="#ffffff" >Trên giang hồ tuy đã biết Diệp Kinh Lâu bị Võ Đang làm khó, nhưng cũng không ai dám tùy tiện đến!</font>
+story_80576_1=<font face="Default" color="#ffffff" >Ta đến tìm Hướng Cửu Trần báo thù, ngươi làm ồn gì vậy!</font>
+story_menu_80530=<font face="Default" color="#ffffff" >Tùy cơ ứng biến. Một mình lão hán dùng Thiên Trần Kiếm vào đấu trận đầu với Võ Đang, gạt ta là Võ Đang không có ai à? Tuy ta</font> <font face="Default" color="#ffffff" >thay</font> <font face="Default" color="#ffffff" >Hướng sư thúc ra tay có chút không hợp thời, nhưng ngươi cũng không thể lấy trận này để thử thành quả luyện tập bản thân được. Ngươi có dám nói lão hán đấu với ta một trận không?</font>
+story_menu_80531=
+story_menu_80532=<font face="Default" color="#ffffff" >Đại thúc? Hướng</font> <font face="Default" color="#ffffff" >sư thúc</font> <font face="Default" color="#ffffff" >là nhân vật nổi bật ở Võ Đang ta hiện giờ, sao lại là kẻ sát nhân như ngươi nói được! Ta nghĩ việc này chắc chắn có hiểu lầm!</font>
+story_menu_80533=<font face="Default" color="#ffffff" >Hướng</font> <font face="Default" color="#ffffff" >sư thúc</font>, <font face="Default" color="#ffffff" >chuyện này người giải quyết thế nào?</font>
+story_menu_80534=<font face="Default" color="#ffffff" >Diệp Kinh Lâu?</font>
+story_menu_80535=<font face="Default" color="#ffffff" >Ngươi cười cái gì?</font>
+story_menu_80536=<font face="Default" color="#ffffff" >Đại thúc, ta biết người buồn. Nhưng người chết không thể sống lại được, người có giết được Hướng sư thúc đi nữa thì con trai người cũng không trở về được! Huống hồ Hướng</font> <font face="Default" color="#ffffff" >sư thúc</font><font face="Default" color="#ffffff" >cũng không phải cố ý!</font>
+story_menu_80537=<font face="Default" color="#ffffff" >Hướng sư thúc? Đánh cược của hai người ta sẽ làm chủ</font> <font face="Default" color="#ffffff" >Cùng</font> <font face="Default" color="#ffffff" >Hà lão hán tỉ thí một trận trước, nhưng chuyện ta đã được Diệp Kinh Lâu đồng ý. Xin sư thúc trừng phạt!</font>
+story_menu_80538=<font face="Default" color="#ffffff" >Sao hắn lại làm loạn ở sơn môn? Nguyên do là gì?</font>
+story_menu_80539=
+story_menu_80540=<font face="Default" color="#ffffff" >Đại thúc, đây là thuốc Hướng</font> <font face="Default" color="#ffffff" >sư thúc</font> <font face="Default" color="#ffffff" >bảo ta đưa cho người. Chỉ cần đắp lên miệng vết thương là được.</font>
+story_menu_80541=<font face="Default" color="#ffffff" > (Lá xanh rụng xuống lá vàng trên cây, xem</font> <font face="Default" color="#ffffff" >ra</font> <font face="Default" color="#ffffff" >tâm kết của Hà đại thúc rất khó hóa giải.)</font>
+story_menu_80542=<font face="Default" color="#ffffff" >Hà lão hán có thể xem ngươi là hiệp sĩ, nhưng ngươi đã lợi dụng thù hận của lão hán. Như vậy cũng được ư?</font>
+story_menu_80543=<font face="Default" color="#ffffff" >Hắn ủy thác ta đa tạ ơn thu nhận của ngươi, nhưng hắn không thể tưởng tượng được ngươi là người như vậy.</font> <font face="Default" color="#ffffff" >Hắn...</font>
+story_menu_80544=<font face="Default" color="#ffffff" >Quả thực có chút vướng víu.</font>
+story_menu_80545=<font face="Default" color="#ffffff" >Hướng</font> <font face="Default" color="#ffffff" >sư thúc</font>, <font face="Default" color="#ffffff" >còn có một trận có thể thắng Diệp Kinh Lâu kia.</font>
+story_menu_80546=<font face="Default" color="#ffffff" >Hướng</font> <font face="Default" color="#ffffff" >sư thúc</font> <font face="Default" color="#ffffff" >người</font> <font face="Default" color="#ffffff" >sao rồi</font><font face="Default" color="#ffffff" >?</font>
+story_menu_80547=<font face="Default" color="#ffffff" >Tiểu Hạch Đào, sao vậy? Ai chọc giận ngươi, đừng khóc nữa. Nào, nói ta nghe.</font>
+story_menu_80548=<font face="Default" color="#ffffff" >Hướng sư thúc, ta chỉ đang giúp Tiểu Hạch Đào tìm Đoàn Đoàn chạy vào đây. Không cố ý đến đây gây sự.</font>
+story_menu_80549=<font face="Default" color="#ffffff" >Tiểu Hạch Đào, ngươi mau ra xem ta đưa ai về nè!</font>
+story_menu_80550=<font face="Default" color="#ffffff" >Cao thủ Ma Đao Đường như mây cũng không thể cướp Âm Khuyết từ tay Yến Song Hành, sao các ngươi lại cho là ta có thể? Ta đi thì cũng vào chỗ chết thôi!</font>
+story_menu_80551=<font face="Default" color="#ffffff" >Thiếu hiệp, vết thương của người? Lẽ nào là do Yến Song Hành?</font>
+story_menu_80552=<font face="Default" color="#ffffff" >Xin hỏi các hạ có phải là Yến</font> <font face="Default" color="#ffffff" >tiền bối</font><font face="Default" color="#ffffff" >?</font>
+story_menu_80553=<font face="Default" color="#ffffff" >Lí chấp sự, người có biết</font> <font face="Default" color="#ffffff" >làm sao</font> <font face="Default" color="#ffffff" >mới có thể gặp Quản sự Vô Căn Môn không?</font>
+story_menu_80554=
+story_menu_80555=<font face="Default" color="#ffffff" >Tiểu</font> <font face="Default" color="#ffffff" >nhị</font>, <font face="Default" color="#ffffff" >nghe nói lúc này Thành Đô đều được Di Hoa Cung bảo vệ à?</font>
+story_menu_80556=<font face="Default" color="#ffffff" >Tại hạ nhận sự ủy thác của Yến Song Hành đến quý phái</font> <font face="Default" color="#ffffff" >để đưa một tin</font>, <font face="Default" color="#ffffff" >mong các hạ thông báo cho.</font>
+story_menu_80557=<font face="Default" color="#ffffff" >Khúc tiền bối, tại hạ được</font> <font face="Default" color="#ffffff" >Yến Song Hành</font> <font face="Default" color="#ffffff" >ủy thác đưa tin. Mười ngày sau, đưa môn phái chi bảo đến đỉnh Hoa Sơn, nếu thắng Yến mỗ một chiêu! Yến mỗ xin hai tay hiến tặng Âm Khuyết!</font>
+story_menu_80558=<font face="Default" color="#ffffff" >Vương huynh, là sao?</font>
+story_menu_80559=<font face="Default" color="#ffffff" >Tiền bối, tại hạ thân mang trọng trách, ra tay tùy tiện mong thứ cho. Tại hạ được</font> <font face="Default" color="#ffffff" >Yến Song Hành</font><font face="Default" color="#ffffff" >ủy thác đưa tin. Mười ngày sau, đưa môn phái chi bảo đến đỉnh Hoa Sơn, nếu thắng Yến mỗ một chiêu! Yến mỗ xin hai tay hiến tặng Âm Khuyết!</font>
+story_menu_80560=<font face="Default" color="#ffffff" >Tiền bối, tại hạ thân mang trọng trách, ra tay tùy tiện mong thứ cho. Tại hạ được</font> <font face="Default" color="#ffffff" >Yến Song Hành</font><font face="Default" color="#ffffff" >ủy thác đưa tin. Mười ngày sau, đưa môn phái chi bảo đến đỉnh Hoa Sơn, nếu thắng Yến mỗ một chiêu! Yến mỗ xin hai tay hiến tặng Âm Khuyết!</font>
+story_menu_80561=<font face="Default" color="#ffffff" >Tiền bối là một trong Thập Tuyệt, địa vị giang hồ chí cao, hà tất phải làm khó một tiểu bối ta.</font>
+story_menu_80562=<font face="Default" color="#ffffff" >Sở Tiếu?!</font> <font face="Default" color="#ffffff" >Sở tiền bối</font> <font face="Default" color="#ffffff" >sao người lại say ngã ở đây?!</font>
+story_menu_80563=<font face="Default" color="#ffffff" >Đại thẩm, sao người lại đau lòng chứ?</font>
+story_menu_80564=<font face="Default" color="#ffffff" >Giang Giang không sao rồi chứ? Người đó có ức hiếp người không?</font>
+story_menu_80565=<font face="Default" color="#ffffff" >Thập Khuyết rốt cuộc ngươi muốn gì? Nhất định phải làm khó một tiểu đồng à?</font>
+story_menu_80566=<font face="Default" color="#ffffff" >Sở đại hiệp, vết thương của người?</font>
+story_menu_80568=<font face="Default" color="#ffffff" >Bái kiến tiền bối! Tại hạ được</font> <font face="Default" color="#ffffff" >Yến Song Hành</font> <font face="Default" color="#ffffff" >ủy thác đưa tin. Mười ngày sau, đưa môn phái chi bảo đến đỉnh Hoa Sơn, nếu thắng Yến mỗ một chiêu! Yến mỗ xin hai tay hiến tặng Âm Khuyết!</font>
+story_menu_80569=<font face="Default" color="#ffffff" >Bái kiến tiền bối! Tại hạ được</font> <font face="Default" color="#ffffff" >Yến Song Hành</font> <font face="Default" color="#ffffff" >ủy thác đưa tin. Mười ngày sau, đưa môn phái chi bảo đến đỉnh Hoa Sơn, nếu thắng Yến mỗ một chiêu! Yến mỗ xin hai tay hiến tặng Âm Khuyết!</font>
+story_menu_80570=<font face="Default" color="#ffffff" >Mộ tiền bối, Sở tiền bối bị Trác Bắc đánh bị thương! Hắn nói chút thương tích này vốn không sao nhưng hắn có việc gấp nên bảo ta đến xin thuốc!</font>
+story_menu_80571=<font face="Default" color="#ffffff" >Hình huynh, đã lâu không gặp. Không ngờ huynh cũng ở đây!</font>
+story_menu_80572=<font face="Default" color="#ffffff" >Cô nương vì Diệp tiền bối mà</font> <font face="Default" color="#ffffff" >làm</font> <font face="Default" color="#ffffff" > những việc này tại hạ vô cùng khâm phục!</font>
+story_menu_80573=<font face="Default" color="#ffffff" >Yến tiền bối, ta đã gửi thư cả rồi.</font>
+story_menu_80574=<font face="Default" color="#ffffff" >Yến tiền bối quả nhiên lợi hại!</font>
+story_menu_80575=<font face="Default" color="#ffffff" >Nhân vật Diệp Kinh Lâu này, chỉ sợ...</font>
+story_menu_80576=<font face="Default" color="#ffffff" >TA nghĩ ta cũng vừa nghe thấy, Diệp Kinh Lâu đồng ý cho ngươi và ta đấu một trận trước.</font>
+storyinfo_80530=Định để <a href="findnpc_new,school07,NPC_5nei_wd_yjl" style="HLStype1">Diệp Kinh Lâu</a> đồng ý cho ta và lão hán tỉ thí trước một trận
+storyinfo_80531=
+storyinfo_80532=Hỏi thăm <a href="findnpc_new,school07,NPC_5nei_wd_lh" style="HLStype1">lão hán</a> sao lại đến gây sự
+storyinfo_80533=Hỏi thăm <a href="findnpc_new,school07,NPC_5nei_wd_xjc1" style="HLStype1">Hướng sư thúc</a> việc này xử lý thế nào
+storyinfo_80534=Thăm dò ý đồ của <a href="findnpc_new,school07,NPC_5nei_wd_yjl1" style="HLStype1">Diệp Kinh Lâu</a>
+storyinfo_80535=Thăm dò ý đồ của <a href="findnpc_new,school07,NPC_5nei_wd_yjl1" style="HLStype1">Diệp Kinh Lâu</a>
+storyinfo_80536=Nói cho <a href="findnpc_new,school07,NPC_5nei_wd_lh1" style="HLStype1">lão hán</a> biết là Diệp Kinh Lâu đợi ông ấy ở khu rừng sau núi
+storyinfo_80537=Nói việc quyết định tỉ thí của ngươi và lão hán cho <a href="findnpc_new,school07,NPC_5nei_wd_xjc1" style="HLStype1">Hướng sư thúc</a>, xin Hướng sư thúc trừng phạt
+storyinfo_80538=Tìm <a href="findnpc_new,school07,NPC_5nei_wd_sd" style="HLStype1">tiểu sư đệ</a> hỏi dò đã có chuyện gì xảy ra trước sơn môn
+storyinfo_80539=<a href="findnpc_new,school07,NPC_5nei_wd_yjl" style="HLStype1">Diệp Kinh Lâu</a>
+storyinfo_80540=Đưa Sam Mộc Thảo cho <a href="findnpc_new,school07,NPC_5nei_wd_lh1" style="HLStype1">lão hán</a>
+storyinfo_80541=Thử thuyết phục <a href="findnpc_new,school07,NPC_5nei_wd_lh1" style="HLStype1">lão hán</a>
+storyinfo_80542=Tìm <a href="findnpc_new,school07,NPC_5nei_wd_yjl1" style="HLStype1">Diệp Kinh Lâu</a>, bác lẽ hắn
+storyinfo_80543=Tìm <a href="findnpc_new,school07,WorldNpc04582" style="HLStype1">Duệ Y</a> vạch trần bộ mặt thật của Diệp Kinh Lâu
+storyinfo_80544=Cùng <a href="findnpc_new,school07,NPC_5nei_wd_yjl1" style="HLStype1">Diệp Kinh Lâu</a> tranh luận vận mệnh của sơn trại
+storyinfo_80545=Hỏi thăm <a href="findnpc_new,school07,NPC_5nei_wd_xjc1" style="HLStype1">Hướng sư thúc</a>
+storyinfo_80546=Kiểm tra xem vết thương của <a href="findnpc_new,school07,NPC_5nei_wd_xjc2" style="HLStype1">Hướng sư thúc</a>
+storyinfo_80547=<a href="findnpc_new,school07,npc_5nei_wd_hetao" style="HLStype1">Tiểu Hạch Đào</a> đang khóc, mau đi hỏi xem có chuyện gì
+storyinfo_80548=Tìm <a href="findnpc,school07,611,106,345" style="HLStype1">Hướng sư thúc</a> giải thích chuyện này
+storyinfo_80549=Đưa Đoàn Đoàn về trả cho <a href="findnpc_new,school07,npc_5nei_wd_hetao" style="HLStype1">Tiểu Hạch Đào</a>
+storyinfo_80550=Hỏi thăm mục đích đến đây tìm ngươi của <a href="findnpc_new,city02,5nei_gbmdt001" style="HLStype1">Lí Lập</a>
+storyinfo_80551=Vị <a href="findnpc_new,city03,NPC_5nei_z2_sy" style="HLStype1">nhân sĩ giang hồ bị thương</a> này hình như là do Yến Song Hành đánh, hắn sẽ biết chút gì đó
+storyinfo_80552=<a href="findnpc_new,city03,NPC_5nei_z2_ysx" style="HLStype1">Yến Song Hành</a> nhất định ở gần đây, tìm xem
+storyinfo_80553=Lời đồn giang hồ đại bổn cung của Vô Căn Môn ở Kim Lăng, <a href="findnpc_new,city03,NPC_5nei_z2_ll" style="HLStype1">Lí Lập</a> chắc sẽ biết chuyện này, đi hỏi xem.
+storyinfo_80554=Đến gần <a href="findnpc_new,city03,Event_5nei_z2_55565" style="HLStype1">Chính Dương Môn</a> dùng còi triệu hoán nội ứng Ma Đao Đường, nói nội ứng truyền tin cho Quản sự Vô Căn Môn
+storyinfo_80555=Tìm <a href="findnpc_new,city05,cd353" style="HLStype1">tiểu nhị</a> nghe ngóng Di Hoa Cung
+storyinfo_80556=Truyền tin đến Kim Châm Thẩm Gia, mời <a href="findnpc_new,city05,NPC_5nei_z2_jz" style="HLStype1">cai ngục đại ca</a> thông báo dùm
+storyinfo_80557=Truyền tin của Yến Song Hành cho trưởng lão Kim Châm Thẩm Gia <a href="findnpc_new,city05,WorldNpc100049" style="HLStype1">Khúc Tiên Cốc</a>
+storyinfo_80558=Nhờ <a href="findnpc_new,city05,NPC_5nei_z2_jz" style="HLStype1">Vương Sơn Sơn</a> thông báo dùm
+storyinfo_80559=Mọi người đều đã dừng tay, mau đưa tin của Yến Song Hành cho <a href="findnpc_new,city05,NPC_5nei_z2_jzgs" style="HLStype1">Quản sự</a> Từ Gia Trang
+storyinfo_80560=Mọi người đều đã dừng tay, mau đưa tin của Yến Song Hành cho <a href="findnpc,city05,680,36,260" style="HLStype1">Quản sự</a> Di Hoa Cung
+storyinfo_80561=<a href="findnpc_new,city02,NPC_5nei_z2_shh" style="HLStype1">Tô Hồng Hồng</a> chính là một trong Thập Tuyệt, xuất hiện ở đây chắc chắn có chuyện, phải cẩn thận đối phó
+storyinfo_80562=Một kẻ say rượu ngã trong chùa không ai hỏi han, xem xem <a href="findnpc_new,city02,NPC_5nei_z2_cx" style="HLStype1">gã say rượu</a> có sao không
+storyinfo_80563=Hỏi thăm <a href="findnpc_new,city02,NPC_5nei_z2_fr" style="HLStype1">phu nhân đang khóc</a> có chuyện gì
+storyinfo_80564=Tìm <a href="findnpc_new,city02,NPC_5nei_z2_jj" style="HLStype1">Giang Giang</a>
+storyinfo_80565=Hỏi thăm <a href="findnpc_new,city02,NPC_5nei_z2_sq1" style="HLStype1">Thập Khuyết</a> làm sao để thả tiểu đồng
+storyinfo_80566=Kiểm tra xem vết thương của <a href="findnpc_new,city02,NPC_5nei_z2_cx1" style="HLStype1">Sở Tiếu</a>
+storyinfo_80570=Tìm <a href="findnpc_new,school03,NPC_5nei_z2_msz" style="HLStype1">Mộ Thục Tử</a> giải thích lý do ngươi đến đây
+storyinfo_80571=<a href="findnpc_new,school03,NPC_5nei_z2_xjk" style="HLStype1">Hình Quân Khả</a> cũng đã ở đây
+storyinfo_80572=Nghe <a href="findnpc_new,school03,NPC_5nei_z2_cn" style="HLStype1">Sửu Nữ</a> kể
+storyinfo_80575=Hỏi thăm <a href="findnpc_new, school07, npc_5neidh_wd" style="HLStype1">Từ sư bá</a>
+storyinfo_80576=Thử đấu với <a href="findnpc_new, school07, NPC_5nei_wd_lh1" style="HLStype1">lão hán</a> một trận
+storymenu_80530_1=<font face="Default" color="#ffffff" >Ngươi đồng ý thì càng tốt!</font>
+storymenu_80531_1=
+storymenu_80532_1=<font face="Default" color="#ffffff" >Đại thúc!</font>
+storymenu_80533_1=<font face="Default" color="#ffffff" >Sư thúc</font><font face="Default" color="#ffffff" >!</font>
+storymenu_80534_1=<font face="Default" color="#ffffff" >Ngươi biết rõ lão hán đó không phải là đối thủ của Hướng</font> <font face="Default" color="#ffffff" >sư thúc</font> <font face="Default" color="#ffffff" >mà vẫn xúi giục lão viết chiến thư, rốt cuộc ngươi có ý đồ gì?!</font>
+storymenu_80535_1=<font face="Default" color="#ffffff" >Sao ta phải nghe ngươi chứ?</font>
+storymenu_80535_2=<font face="Default" color="#ffffff" >Hừ!</font>
+storymenu_80536_1=<font face="Default" color="#ffffff" >Oan oan tương báo khi nào mới hết! Đại thúc, họ Diệp đó kêu người ra khu rừng sau núi tìm hắn.</font>
+storymenu_80537_1=<font face="Default" color="#ffffff" >Không lẽ sư thúc cũng cho rằng một lão hán chỉ học vài ngày võ đã có thể thắng được Võ Đang có truyền thống mấy trăm năm ư?</font>
+storymenu_80537_2=<font face="Default" color="#ffffff" >Sư thúc đã quá xem trọng tên Diệp Kinh Lâu đó rồi, ván tỉ thí này ta đã thắng. Nhưng mấy chiêu Hà lão hán dùng thực sự là rất đẹp!</font>
+storymenu_80537_3=<font face="Default" color="#ffffff" >Sư thúc nói phải! Sao có thể hạ uy phong của mình để tăng sĩ khí của người khác được!</font> <font face="Default" color="#ffffff" >Nhưng trong lúc tỉ thí Hà lão hán đã bị chút thương nhẹ, ta đi hái Sam Mộc Thảo cho lão trị thương trước.</font>
+storymenu_80538_1=<font face="Default" color="#ffffff" >Có liên quan đến Hướng sư thúc?</font>
+storymenu_80539_1=
+storymenu_80540_1=<font face="Default" color="#ffffff" >Nhưng nếu vết thương của ngươi chưa khỏi thì không thể đi tìm</font> <font face="Default" color="#ffffff" >sư thúc</font> <font face="Default" color="#ffffff" >báo thù được, phải không? Thuốc ta để ở đây.</font>
+storymenu_80540_2=<font face="Default" color="#ffffff" >Đại thúc, thực sự là đến bây giờ ta vẫn không tin là Hướng</font> <font face="Default" color="#ffffff" >sư thúc</font> <font face="Default" color="#ffffff" >giết người vô tội, chắc chắn ở đây có hiểu lầm. Đại thúc có thể kể cho ta chi tiết chuyện xảy ra lúc đó không?</font>
+storymenu_80540_3=<font face="Default" color="#ffffff" >Cái này, Hướng sư thúc nhất định không phải là kẻ vô</font> <font face="Default" color="#ffffff" >cớ</font> <font face="Default" color="#ffffff" >giết kẻ tay không tấc sắt được!</font>
+storymenu_80541_1=<font face="Default" color="#ffffff" >(Diệp hiệp sĩ à)</font>
+storymenu_80542_1=<font face="Default" color="#ffffff" >Lẽ nào lợi dụng thù hận của Hà lão hán mà không cảm thấy xấu hổ à?</font>
+storymenu_80542_2=<font face="Default" color="#ffffff" >Nếu kẻ mà Hà lão hán tìm là ngươi chứ không phải Hướng sư huynh, ngươi cũng bất chấp là lí do kề dao lên cổ mình à?</font>
+storymenu_80542_3=<font face="Default" color="#ffffff" >Giết những người vô tội này lẽ nào ngươi không cảm thấy áy náy?</font>
+storymenu_80542_4=<font face="Default" color="#ffffff" >Hừ!</font>
+storymenu_80543_1=<font face="Default" color="#ffffff" >Sơn cốc? Dưới núi Võ Đang lại có những tên xấu xa như vậy làm điều ác ư?! Nơi mà ngươi nói ở chỗ nào?</font>
+storymenu_80543_2=<font face="Default" color="#ffffff" >Cái này…ta thay ngươi dạy dỗ bọn xấu đó.</font>
+storymenu_80544_1=<font face="Default" color="#ffffff" >Bọn này làm nhiều chuyện ác, lần này là ta thay trời hành đạo mà thôi!</font>
+storymenu_80544_2=<font face="Default" color="#ffffff" >Đáng tiếc cái gì?! Chẳng lẽ Hướng</font> <font face="Default" color="#ffffff" >sư thúc</font> <font face="Default" color="#ffffff" >ông ấy?</font>
+storymenu_80544_3=<font face="Default" color="#ffffff" >Đây là chuyện đương nhiên! Ngươi nghĩ là</font> <font face="Default" color="#ffffff" >bàng môn tả đạo</font> các ngươi <font face="Default" color="#ffffff" >có thể đấu với Võ Đang chính thống à?</font>
+storymenu_80545_1=<font face="Default" color="#ffffff" >Sư thúc</font> <font face="Default" color="#ffffff" >hà tất phải tự trách bản thân như vậy.</font>
+storymenu_80545_2=<font face="Default" color="#ffffff" >Chỉ cần thời gian một nén hương sẽ bắt đầu vòng thứ 3? (Chẳng lẽ bị lừa?!)</font>
+storymenu_80546_1=<font face="Default" color="#ffffff" >Hướng</font> <font face="Default" color="#ffffff" >sư thúc</font> <font face="Default" color="#ffffff" >người đừng cử động, ta sẽ đi tìm vài sư huynh đệ đến đỡ người về.</font>
+storymenu_80547_1=<font face="Default" color="#ffffff" >Đoàn Đoàn? Đoàn Đoàn là ai?</font>
+storymenu_80547_2=<font face="Default" color="#ffffff" >Tiểu Hạch Đào ngoan, yên tâm nhé, ta sẽ giúp ngươi tìm Đoàn Đoàn về. Đừng khóc nữa, ngoan nào!</font>
+storymenu_80548_1=<font face="Default" color="#ffffff" >Xin sư thúc trừng phạt.</font>
+storymenu_80548_2=<font face="Default" color="#ffffff" >Vâng!</font>
+storymenu_80549_1=<font face="Default" color="#ffffff" >Chuyện vặt thôi!</font>
+storymenu_80550_1=<font face="Default" color="#ffffff" >Biết rồi, biết rồi. Ta đi thử xem!</font> <font face="Default" color="#ffffff" >Chỉ là tên Yến Song Hành này hành tung bất định, làm sao để tìm ra hắn đây?</font>
+storymenu_80550_2=<font face="Default" color="#ffffff" >Cáo từ!</font>
+storymenu_80551_1=<font face="Default" color="#ffffff" >Giang hồ đồn đại, những người đã gặp Yến Song Hành đều chết cả rồi. Cứ xem như hiện giờ võ công ngươi lợi hại cũng chưa</font> <font face="Default" color="#ffffff" >chắc</font> <font face="Default" color="#ffffff" >có thể thoát?</font>
+storymenu_80551_2=<font face="Default" color="#ffffff" >Thiếu hiệp đừng vội, ta đi tìm người đến giúp. Mà ngươi gặp Yến Song Hành ở đâu?</font>
+storymenu_80551_3=<font face="Default" color="#ffffff" >Thiếu hiệp ở đây</font> <font face="Default" color="#ffffff" >đợi</font><font face="Default" color="#ffffff" >, ta đi rồi về.</font>
+storymenu_80552_1=<font face="Default" color="#ffffff" >Đúng! Nhưng tại hạ chẳng qua cũng chỉ là làm việc thay người khác, không muốn vô cớ mất mạng. Yến</font> <font face="Default" color="#ffffff" >tiền bối</font><font face="Default" color="#ffffff" >, chúng ta cá cược một phen nhé?</font>
+storymenu_80552_2=<font face="Default" color="#ffffff" >Ta và ngươi tỉ thí một trận công bằng, nếu tại hạ may mắn</font> <font face="Default" color="#ffffff" >thắng tiền bối một chiêu thì ta thắng, nếu không. Xin tiền bối nương tay thả ta đi, ta đảm bảo sẽ không xuất hiện trước mặt tiền bối nữa!</font>
+storymenu_80552_3=<font face="Default" color="#ffffff" >Yến tiền bối có vẻ đã nắm chắc phần thắng?!</font>
+storymenu_80553_1=<font face="Default" color="#ffffff" >Ngươi yên tâm, việc ta đồng ý chắc chắn sẽ làm. Nhưng bây giờ ta cần biết làm thế nào để gặp quản sự Vô Căn Môn.</font>
+storymenu_80554_1=<font face="Default" color="#ffffff" >Đa tạ Lí chấp sự</font><font face="Default" color="#ffffff" >!</font>
+storymenu_80555_1=<font face="Default" color="#ffffff" >Hả?</font> <font face="Default" color="#ffffff" >Nhưng phải chăng ngươi đã gặp người này?</font>
+storymenu_80556_1=<font face="Default" color="#ffffff" >Ý của các hạ là?</font>
+storymenu_80557_1=<font face="Default" color="#ffffff" >Ha, mỗi người đều có chí hướng riêng, hơn nữa tại hạ cũng chưa từng nói là người của</font> <font face="Default" color="#ffffff" >Yến Song Hành</font><font face="Default" color="#ffffff" >. Cáo từ!</font>
+storymenu_80558_1=<font face="Default" color="#ffffff" >Đa tạ!</font>
+storymenu_80559_1=<font face="Default" color="#ffffff" >Tiền bối quá khen!</font>
+storymenu_80560_1=<font face="Default" color="#ffffff" >Cái này e là, tiền bối đích thân hỏi cô ấy đi.</font>
+storymenu_80561_1=<font face="Default" color="#ffffff" >Không dám không dám!</font><font face="Default" color="#ffffff" >Không dám không dám!</font>
+storymenu_80561_2=<font face="Default" color="#ffffff" >Ta phát hiện trong túi của Liên Thanh Thành có Diêm Vương Thiếp, e là bây giờ hắn đã đi về hướng Yên Vũ Trang! Những lời của tại hạ đều là sự thật, tuyệt đối không nói dối nửa lời!</font>
+storymenu_80561_3=<font face="Default" color="#ffffff" >Đúng đúng đúng.</font>
+storymenu_80562_1=<font face="Default" color="#ffffff" >Ôi trời, sao mà say đến vậy rồi vẫn không ai quan tâm!</font>
+storymenu_80563_1=<font face="Default" color="#ffffff" >Ta sẽ giúp ngươi tìm đứa bé!</font>
+storymenu_80564_1=<font face="Default" color="#ffffff" >Không lẽ cái mà ngươi nhặt được là Dương Khuyết? Giang Giang ngươi yên tâm, ta sẽ nhất định đưa ngươi an toàn rời khỏi đây!</font>
+storymenu_80565_1=<font face="Default" color="#ffffff" >Nếu ta giúp ngươi tìm được Dương Khuyết thì ngươi sẽ thả hắn ra chứ?</font>
+storymenu_80566_1=<font face="Default" color="#ffffff" >Ta làm sao mới gặp được Mộ Thục Tử tiền bối?</font>
+storymenu_80566_2=
+storymenu_80567_1=<font face="Default" color="#ffffff" >Tứ Tiểu Tỷ, cáo từ!</font>
+storymenu_80568_1=<font face="Default" color="#ffffff" >Chuyện này có liên quan đến Âm Khuyết! Xin tiền bối suy nghĩ thận trọng!</font>
+storymenu_80569_1=<font face="Default" color="#ffffff" >Chuyện này có liên quan đến Âm Khuyết! Xin tiền bối suy nghĩ thận trọng!</font>
+storymenu_80570_1=<font face="Default" color="#ffffff" >Đa tạ tiền bối!</font> <font face="Default" color="#ffffff" >Sở tiền bối giờ đang náu thân ở gần Trại Sơn Tự Tô Châu!</font>
+storymenu_80571_1=<font face="Default" color="#ffffff" >Không biết Mạc cô nương bây giờ?</font>
+storymenu_80571_2=<font face="Default" color="#ffffff" >Bảo trọng!</font>
+storymenu_80572_1=<font face="Default" color="#ffffff" >Bảo trọng!</font>
+storymenu_80573_1=<font face="Default" color="#ffffff" >Ý của tiền bối là?</font>
+storymenu_80574_1=<font face="Default" color="#ffffff" >Cáo từ!</font>
+storymenu_80575_1=<font face="Default" color="#ffffff" >Sư bá nói đúng!</font>
+storymenu_80576_1=<font face="Default" color="#ffffff" >Hà sư thúc, cùng ta đấu một trận trước để người rõ năng lực bản thân, có thể người sẽ bỏ trận tỉ thí này.</font>
+useiteminfo_80504=Đến gần <a href="findnpc_new,city03,Event_5nei_z2_55565" style="HLStype1">Chính Dương Môn</a>, dùng cái còi
+useiteminfo_80505=Đưa <a href="TASK_ITEM,useitem_5nei_z2_hx" style="HLStype1">bức vẽ</a> cho <a href="findnpc_new,city05,cd353" style="HLStype1">tiểu nhị</a> xem, hỏi hắn đã gặp người trong bức vẽ chưa
+useiteminfo_80506=Mở <a href="TASK_ITEM,useitem_5nei_z2_ywt" style="HLStype1">túi</a> xem
+useiteminfo_80507=Dùng <a href="TASK_ITEM,useitem_5nei_z2_ct" style="HLStype1">cuốc</a> đến đào Dương Khuyết ở<a href="findnpc_new,city02,Event_5nei_z2_55573" style="HLStype1">gần đây</a>
+useiteminfo_80508=Dùng <a href="TASK_ITEM,useitem_5nei_z2_ct" style="HLStype1">cuốc</a> đến đào Dương Khuyết ở<a href="findnpc_new,city02,Event_5nei_z2_55573" style="HLStype1">gần đây</a>
+useiteminfo_80509=Dùng <a href="TASK_ITEM,useitem_5nei_z2_ct" style="HLStype1">cuốc</a> đến đào Dương Khuyết ở<a href="findnpc_new,city02,Event_5nei_z2_55573" style="HLStype1">gần đây</a>
+story_menu_80567=<font face="Default" color="#ffffff" >Bái kiến Tứ Tiểu Thư!</font> <font face="Default" color="#ffffff" >Tại hạ có việc cần bái kiến Quản sự Vạn Thú Sơn Trang, Tứ Tiểu Thư đã ở đây, chắc chắn là ta đã có một nhân vật lớn bên cạnh rồi!</font>
+storyinfo_80567=Bái kiến <a href="findnpc_new,school03,NPC_5nei_z2_sxj" style="HLStype1">Tứ Tiểu Thư</a> của Vạn Thú Sơn Trang
+storyinfo_80568=Đưa tin của Yến Song Hành cho <a href="findnpc_new,school03,NPC_5nei_z2_ws" style="HLStype1">Quản sự Vạn Thú Sơn Trang</a>
+SubmitNpcEx_57031=Submit the task to <a href="findnpc_new,school03,npc_5neidh_jzt" style="HLStype1">Cao Xuemo</a>(Finishing this task activates Scholars fifth internal task and following tasks cannot be abandoned)
+DialogID_80552=<font face="Default" color="#ffffff" >Ố? Cái này… bắt được rồi?</font>
+SubmitNpcEx_55580=Từ biệt <a href="findnpc_new,city02,yxhd_dy_xbt1" style="HLStype1">Hình bổ đầu</a>
+SubmitNpcEx_55581=Công việc chăm sóc Mẫu Đơn Hoa làm xong rồi, xem thử <a href="findnpc_new,city02,meigui" style="HLStype1">Hoa Ngữ Phu Nhân</a> còn có gì dặn dò
+SubmitNpcEx_55582=Hỏi thăm <a href="findnpc_new,city02,meigui" style="HLStype1">Hoa Ngữ Phu Nhân</a> nên giúp bà ấy thế nào
+collectinfo_80518=Nghe nói nơi Thái Hoa Tặc xuất hiện cuối cùng là gần Bàn Môn, có lẽ ở bên đó có thể nghe ngóng được tin tức (487, 653)
+hunterinfo_80517=Lại bị mắc bẫy hắn rồi, xem ta làm sao giáo huấn <a href="findnpc_new,city02,yxhd_dy_chz1" style="HLStype1">hắn</a>
+interactinfo_80552=Giao Thái Hoa Tặc cho <a href="findnpc_new,city02,yxhd_dy_xbt1" style="HLStype1">Hình bổ đầu</a>
+interactinfo_80553=Rượu đã uống xong, trò chuyện với Dư đại quan nhân này xem thử có được manh mối gì không!
+okmenu_80552=<font face="Default" color="#ffffff" >Hình bổ đầu, giờ ngươi có thể an tâm rồi!</font>
+story_80577_1=<font face="Default" color="#ffffff" >Bắt đầu năm mới Tô Châu này lại có Thái Hoa Tặc chạy đến địa bàn ta gây chuyện!</font><font face="Default" color="#ffffff" > Áp lực bên trên rất lớn, hạn cho ta phá án trong 3 ngày. Giờ đã qua 2 ngày rồi vẫn chưa có manh mối gì!</font>
+story_80577_2=<font face="Default" color="#ffffff" >Vậy thì Làm phiền thiếu hiệp rồi! Nếu có thể bắt người này, lão Hình ta ắt sẽ cảm tạ! Ta trông đợi vào người đó!</font>
+story_menu_80577=<font face="Default" color="#ffffff" >Hình bổ đầu, việc gì khiến ngươi phiền não như vậy?!</font>
+storyinfo_80577=Hỏi thăm <a href="findnpc_new,city02,yxhd_dy_xbt1" style="HLStype1">Hình bổ đầu</a> tình hình vụ án
+storymenu_80577_1=<font face="Default" color="#ffffff" >Kẻ nào to gan như vậy?! Hình bổ đầu hãy yên tâm, </font><font face="Default" color="#ffffff" >việc</font><font face="Default" color="#ffffff" > này cứ để ta lo!</font>
+storymenu_80577_2=<font face="Default" color="#ffffff" >Chờ tin tốt của ta nhé!</font>
+useiteminfo_80510=Cùng <a href="findnpc_new,city02,yxhd_dy_chz" style="HLStype1">Dư đại quan nhân</a> uống một bình <a href="TASK_ITEM,useitem_yxhd_dy_01" style="HLStype1">rượu</a>
+useiteminfo_80511=Dùng <a href="TASK_ITEM,useitem_ycsy_dy_01" style="HLStype1">Phân Bón Mẫu Đơn Hoa</a> mà Hoa Ngữ Phu Nhân đưa bón phân cho Mẫu Đơn Hoa bên cạnh Hoa Ngữ Phu Nhân
+useiteminfo_80512=Dùng <a href="TASK_ITEM,useitem_ycsy_dy_02" style="HLStype1">kéo</a> Hoa Ngữ Phu Nhân đưa để tỉa Mẫu Đơn Hoa bên cạnh Hoa Ngữ Phu Nhân
+interactinfo_80544=Tìm <a href="findnpc_new,city02,Event_5nei_z2_55570" style="HLStype1">lối vào</a> Đào Hoa Đảo, mau gửi thư đi
+interactinfo_80545=Đến <a href="findnpc_new,city02,Event_5nei_z2_55571" style="HLStype1">Hàn Sơn Tự</a> nghe ngóng Đào Hoa Đảo
+interactinfo_80549=Trả lời câu hỏi của <a href="findnpc_new,school03,NPC_5nei_z2_th" style="HLStype1">Quản sự Đào Hoa Đảo</a>
+storyinfo_80569=Đưa tin của Yến Song Hành cho <a href="findnpc_new,school03,NPC_5nei_z2_th" style="HLStype1">Quản sự Đào Hoa Đảo</a>
+SubmitNpcEx_55583=Thỉnh giáo <a href="findnpc_new,city02,WorldNpc01097" style="HLStype1">Nghiêm Luân</a>
+SubmitNpcEx_55584=Việc khiển trách "Phù Nô” đã hoàn thành, hồi bẩm <a href="findnpc_new,scene25,WorldNpc07345" style="HLStype1">Tân Viễn Hàng</a>
+SubmitNpcEx_55585=<a href="findnpc_new,city02,hd_dw_001" style="HLStype1">Lâm Lương</a>
+SubmitNpcEx_55586=<a href="findnpc_new,city05,world_npc_ybsz_01" style="HLStype1">Sứ Giả Dị Bảo</a>
+SubmitNpcEx_55587=<a href="findnpc_new,city05,world_npc_ybsz_01" style="HLStype1">Sứ Giả Dị Bảo</a>
+SubmitNpcEx_55588=<a href="findnpc_new,city05,world_npc_ybsz_01" style="HLStype1">Sứ Giả Dị Bảo</a>
+SubmitNpcEx_55589=<a href="findnpc_new,city05,world_npc_ybsz_01" style="HLStype1">Sứ Giả Dị Bảo</a>
+SubmitNpcEx_55590=<a href="findnpc_new,city05,world_npc_ybsz_01" style="HLStype1">Sứ Giả Dị Bảo</a>
+SubmitNpcEx_55591=<a href="findnpc_new,city05,world_npc_ybsz_01" style="HLStype1">Sứ Giả Dị Bảo</a>
+SubmitNpcEx_55592=<a href="findnpc_new,city02,WorldNpc01097" style="HLStype1">Nghiêm Luân</a>
+useiteminfo_80523=Hướng về <a href="findnpc_new,scene25,NPC_ssfnpc_dy_01" style="HLStype1">Võ Phong Hàn</a> dùng <a href="TASK_ITEM,useitem_ssfnpc_dy_01" style="HLStype1">Sinh Tử Phù</a>, người này bị yểm phù đã hơn hai mươi ngày, mặt mày biến dạng, sợ là mẫu thân hắn cũng không dễ gì nhận ra hắn!
+useiteminfo_80524=Hướng về <a href="findnpc_new,scene25,NPC_ssfnpc_dy_02" style="HLStype1">Trần Nghĩa Thuận</a> dùng <a href="TASK_ITEM,useitem_ssfnpc_dy_01" style="HLStype1">Sinh Tử Phù</a>, người này từng là đệ tử Thiếu Lâm, vì học trộm võ học thượng thừa trong Tàng Kinh Các bị phát hiện, đả thương hơn 20 đệ tử Giới Luật Viện chạy xuống Thiếu Thất Sơn. Bị yểm phù ở nơi này đã hơn 60 ngày, thật hiếu kỳ! Hắn còn chịu được bao lâu?
+useiteminfo_80525=Hướng về <a href="findnpc_new,scene25,NPC_ssfnpc_dy_03" style="HLStype1">Đặng Kính Quân</a> dùng <a href="TASK_ITEM,useitem_ssfnpc_dy_01" style="HLStype1">Sinh Tử Phù</a>, người này vừa bị đưa đến nơi này, dám đối địch với Lăng Tiêu Thành, để hắn nếm thử mùi vị của Sinh Tử Phù!
+useiteminfo_80526=Hướng về <a href="findnpc_new,scene25,NPC_ssfnpc_dy_04" style="HLStype1">Giải Thừa Cố</a> dùng <a href="TASK_ITEM,useitem_ssfnpc_dy_01" style="HLStype1">Sinh Tử Phù</a>, người này khi mới đến Lăng Tiêu Thành vẫn là công tử nhanh nhẹn, vậy mà đối địch với Lăng Tiêu Thành. Gặp thời loạn thế, phải có bản lĩnh, chậc, đáng tiếc cho diện mạo này!
+useiteminfo_80527=Hướng về <a href="findnpc_new,scene25,NPC_ssfnpc_dy_05" style="HLStype1">Âu Dương Sinh</a> dùng <a href="TASK_ITEM,useitem_ssfnpc_dy_01" style="HLStype1">Sinh Tử Phù</a>, người này là đệ tử thân truyền của nhân vật thần bí Đạt Thúc! Một bộ Đan Tĩnh Thần Công xuất thần nhập hóa! Người trong giang hồ đều sợ Sinh Tử Lệnh, người này lại là người đầu tiên chủ động xin phù, sợ là luyện công bị ngốc rồi!
+useiteminfo_80528=Hướng về <a href="findnpc_new,scene25,NPC_ssfnpc_dy_06" style="HLStype1">Cát Thiệu Chính</a> dùng <a href="TASK_ITEM,useitem_ssfnpc_dy_01" style="HLStype1">Sinh Tử Phù</a>, đây là một nam nhân không có lưỡi, hắn không phải người đầu tiên hay người cuối cùng bị mất lưỡi!
+useiteminfo_80529=Hướng về <a href="findnpc_new,scene25,NPC_ssfnpc_dy_07" style="HLStype1">Thiện Vu Thành</a> dùng <a href="TASK_ITEM,useitem_ssfnpc_dy_01" style="HLStype1">Sinh Tử Phù</a>, người này đã sắp tàn hơi,  hôm nay cho hắn đi nhanh hơn chút!
+useiteminfo_80530=Hướng về <a href="findnpc_new,scene25,NPC_ssfnpc_dy_08" style="HLStype1">Ngư Minh</a> dùng <a href="TASK_ITEM,useitem_ssfnpc_dy_01" style="HLStype1">Sinh Tử Phù</a>, người này bị yểm phù hơn 40 ngày, sợ là không qua được hôm nay!
+SubmitNpcEx_55593=Giao "Túi Ngũ Cốc" cho <a href="findnpc_new,city02,npc_wugu_dy_01" style="HLStype1">Tuệ Trí Hòa Thượng</a>
+SubmitNpcEx_55594=<a href="findnpc_new,city05,world_npc_ybsz_01" style="HLStype1">Sứ Giả Dị Bảo</a>
+SubmitNpcEx_55595=<a href="findnpc_new,city05,world_npc_ybsz_01" style="HLStype1">Sứ Giả Dị Bảo</a>
+SubmitNpcEx_55596=<a href="findnpc_new,city05,world_npc_ybsz_01" style="HLStype1">Sứ Giả Dị Bảo</a>
+SubmitNpcEx_55597=<a href="findnpc_new,city05,world_npc_ybsz_01" style="HLStype1">Sứ Giả Dị Bảo</a>
+SubmitNpcEx_55598=<a href="findnpc_new,city05,world_npc_ybsz_01" style="HLStype1">Sứ Giả Dị Bảo</a>
+SubmitNpcEx_55599=<a href="findnpc_new,city05,world_npc_ybsz_01" style="HLStype1">Sứ Giả Dị Bảo</a>
+SubmitNpcEx_55600=Đến <a href="findnpc_new,city02,hd_dw_001" style="HLStype1">Lâm Lương</a> nhận quà
+SubmitNpcEx_55601=Bẩm báo <a href="findnpc_new,city04,huodong_dy_51" style="HLStype1">Trần Huyền</a>
+interactinfo_80554=Trò chuyện với Trần Huyền tiến hành tham ngộ "Huyền Tinh Ngọc Bích" (Tấn công "Huyền Tinh Ngọc Bích" hoàn thành nhiệm vụ)
+interactinfo_80555=Trò chuyện với Trần Huyền tiến hành tham ngộ "Huyền Tinh Ngọc Bích" (Tấn công "Huyền Tinh Ngọc Bích" hoàn thành nhiệm vụ)
+SubmitNpcEx_55577=Tìm <a href="findnpc_new,city02,5nei_gbmdt001" style="HLStype1">Lí Lập</a>  (Nhấp tọa kỵ của Yến Song Hành có thể rời khỏi Hoa Sơn)
+interactinfo_80550=Đứng sang <a href="findnpc_new,groupscene008_5nei,Event_5nei_z2_55577" style="HLStype1">một bên</a>, xem Yến Song Hành cần gì (nếu không ở bên cạnh Yến Song Hành thì có thể tìm <a href="findnpc_new,city02,5nei_gbmdt001" style="HLStype1">Lí Lập</a>, nói hắn giúp ngươi đến Hoa Sơn. Nếu có việc gấp cần rời khỏi đây, hãy nhấp tọa kỵ của Yến Song Hành)
+specialinfo_4001=Vượt ải Mộ Sắc Thôn
+specialinfo_4002=Vượt ải Thanh Vân Bảo
+specialinfo_4003=Vượt ải Khổng Tước Sơn Trang
+specialinfo_4004=Vượt ải Nhạn Môn Quan (Phản Quân)
+specialinfo_4005=Vượt ải Vô Tranh Bí Cảnh
+specialinfo_4006=Vượt ải Đại Mạc Quỷ Thành
+storyinfo_80573=Tin đã được đưa tới, tìm <a href="findnpc_new,groupscene008_5nei,NPC_5nei_z2_ysx1" style="HLStype1">Yến Song Hành</a> (Tìm <a href="findnpc_new,city02,5nei_gbmdt001" style="HLStype1">Lí Lập</a>,kêu hắn giúp ngươi đến Hoa Sơn. Nếu có việc gấp cần rời khỏi, hãy nhấp tọa kỵ của Yến Song Hành)
+storyinfo_80574=Trò chuyện cùng <a href="findnpc_new,groupscene008_5nei,NPC_5nei_z2_ysx1" style="HLStype1">Yến Song Hành</a> (Nếu không ở cạnh Yến Song Hành có thể tìm <a href="findnpc_new,city02,5nei_gbmdt001" style="HLStype1">Lí Lập</a>, kêu hắn giúp ngươi đến Hoa Sơn. Nếu có việc gấp cần rời khỏi, hãy nhấp tọa kỵ của Yến Song Hành)
+

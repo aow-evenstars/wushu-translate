@@ -1,0 +1,764 @@
+﻿
+DialogID_5750=<font face="Default" color="#ffffff" >Ttiết trời mấy ngày nay đột nhiên thay đổi, đã nhiễm phải phong hàn, tiểu huynh đệ có thể giúp ta đến quán rượu một chuyến, tìm ông chủ lấy sổ sách được không?</font>
+DialogID_5751=<font face="Default" color="#ffffff" >Ngươi nói xem Văn tiên sinh sao vẫn chưa đến, thì ra là nhiễm phong hàn. Sổ sách đưa ngươi, giúp ta dặn y nghỉ ngơi cẩn thận.</font>
+DialogID_5752=<font face="Default" color="#ffffff" >Huhu,</font> <font face="Default" color="#ffffff" >Con Quay</font> <font face="Default" color="#ffffff" > của ta không thấy đâu nữa.</font>
+DialogID_5753=<font face="Default" color="#ffffff" >Dạo này người đến xe đi tấp nập, rất nhiều người không chú ý vệ sinh, khiến Mã Phấn rơi đầy đường. Ngươi rảnh giúp ta quét dọn?</font>
+DialogID_5754=<font face="Default" color="#ffffff" >Thiếu hiệp làm việc mau lẹ, thật ra việc này cũng không gấp.</font>
+DialogID_5755=<font face="Default" color="#ffffff" >Hôm qua không biết kẻ nào vô lương tâm, giẫm nát hoa cúc ta vất vả trồng được, nghe nói Thái Hoa Tặc ở gần đây, ta liền truy đuổi.</font>
+DialogID_5756=<font face="Default" color="#ffffff" >A…Tiểu huynh đệ giúp ta, tên lưu manh đó đã đoạt quải trượng của ta, vậy ta nên làm sao?</font>
+DialogID_5757=<font face="Default" color="#ffffff" >Được, ta nhận nguyên liệu kiểm kê ngay.</font><font face="Default" color="#ffffff" >Được, ta nhận nguyên liệu kiểm kê ngay.</font>
+DialogID_5758=<font face="Default" color="#ffffff" >Được, ta nhận nguyên liệu kiểm kê ngay.</font><font face="Default" color="#ffffff" >Được, ta nhận nguyên liệu kiểm kê ngay.</font>
+SubmitNpcEx_43756=Nhiệm vụ có thể trả ở chỗ Đại Sứ Sự Kiện Lễ Tết của các thành thị
+SubmitNpcEx_43757=Tìm đại sứ sự kiện Hoàng Phủ Mậu nhận thưởng
+SubmitNpcEx_43758=Nói chuyện với Lâm Lương nhận thưởng
+SubmitNpcEx_43759=Nói chuyện với Lâm Lương nhận thưởng
+collectinfo_5750=Giáo huấn <a href="findnpc_new,city05,ldjhd_02" style="HLStype1">Lưu Manh</a>, đoạt lại quải trượng của <a href="findnpc_new,city05,ldjhd_01" style="HLStype1">Chung Lai Lý</a>
+collectinfo_5751=Giáo huấn <a href="findnpc_new,city05,ldjhd_06" style="HLStype1">Thái Hoa Tặc</a>, mang về 1 đóa hoa cúc làm bằng chứng
+collectinfo_5752=Con quay bị <a href="findnpc_new,city05,ldjhd_08" style="HLStype1">viên đá</a> đó đè lên, lấy viên đá ra là được
+collectinfo_5753=Dọn dẹp <a href="findnpc_new,city05,ldjhd_10" style="HLStype1">Mã Phấn</a> trong thành, bỏ vào bao
+interactinfo_5750=<a href="findnpc_new,city05,ldjhd_03" style="HLStype1">Văn tiên sinh</a> đã bị phong hàn, cần ngươi đến giúp
+interactinfo_5751=Tìm <a href="findnpc_new,city05,FuncNpc00607" style="HLStype1">chủ tiệm rượu</a> lấy sổ sách
+interactinfo_5752=<a href="findnpc_new,city05,ldjhd_07" style="HLStype1">Lượng Lượng</a> đang khóc ở đằng kia, hình như xảy ra chuyện gì.
+interactinfo_5753=Nha dịch quan phủ Thành Đô-<a href="findnpc_new,city05,ldjhd_09" style="HLStype1">Tần Phương</a> gần đây bận việc, đến xem thử có thể giúp được gì không.
+interactinfo_5754=Giao sổ sách cho <a href="findnpc_new,city05,ldjhd_03" style="HLStype1">Văn tiên sinh</a>
+interactinfo_5755=Hoa Nông <a href="findnpc_new,city05,ldjhd_05" style="HLStype1">An Kiện</a> gần đây gặp điều không may, mau đến xem thử
+interactinfo_5756=<a href="findnpc_new,city05,ldjhd_01" style="HLStype1">Chung Lai Lý</a> ở Thành Đô hình như gặp phải chuyện phiền phức, mau đến giúp
+interactinfo_5757=Trò chuyện và giao cho Lâm Lương vật phẩm thu thậpTrò chuyện và giao cho Lâm Lương vật phẩm thu thập
+interactinfo_5758=Trò chuyện và giao cho Lâm Lương vật phẩm thu thậpTrò chuyện và giao cho Lâm Lương vật phẩm thu thập
+okmenu_5750=<font face="Default" color="#ffffff" >Cứ giao cho ta, yên tâm dưỡng bệnh nhé.</font>
+okmenu_5751=<font face="Default" color="#ffffff" >Ngươi cứ yên tâm đi, nhất định sẽ giúp ngươi.</font>
+okmenu_5752=<font face="Default" color="#ffffff" >Lượng Lượng đừng khóc, ta tìm nó cho ngươi.</font>
+okmenu_5753=<font face="Default" color="#ffffff" >Ta đi đây.</font>
+okmenu_5754=<font face="Default" color="#ffffff" >Việc của tiên sinh chính là việc của ta, ông chủ tiệm rượu nhờ ta bảo người cố gắng nghỉ ngơi.</font>
+okmenu_5755=<font face="Default" color="#ffffff" >Lão bá hãy nguôi giận, ta nhất định giúp người tra rõ ngọn ngành.</font>
+okmenu_5756=<font face="Default" color="#ffffff" >Đại thúc người hãy nghỉ ngơi đi, ta giúp người đi thu phục hắn.</font>
+okmenu_5757=<font face="Default" color="#ffffff" >Xin kiểm kê nguyên liệu ta thu thập.</font><font face="Default" color="#ffffff" >Xin kiểm kê nguyên liệu ta thu thập.</font>
+okmenu_5758=<font face="Default" color="#ffffff" >Xin kiểm kê nguyên liệu ta thu thập.</font><font face="Default" color="#ffffff" >Xin kiểm kê nguyên liệu ta thu thập.</font>
+quest_menu_5750=<font face="Default" color="#ffffff" >Mời ra đề</font><font face="Default" color="#ffffff" >Mời ra đề</font>
+quest_menu_5751=<font face="Default" color="#ffffff" >Mời ra đề</font><font face="Default" color="#ffffff" >Mời ra đề</font>
+quest_menu_5752=<font face="Default" color="#ffffff" >Mời ra đề</font><font face="Default" color="#ffffff" >Mời ra đề</font>
+quest_menu_5753=<font face="Default" color="#ffffff" >Mời ra đề</font><font face="Default" color="#ffffff" >Mời ra đề</font>
+quest_menu_5754=<font face="Default" color="#ffffff" >Mời ra đề</font><font face="Default" color="#ffffff" >Mời ra đề</font>
+quest_menu_5755=<font face="Default" color="#ffffff" >Mời ra đề</font><font face="Default" color="#ffffff" >Mời ra đề</font>
+quest_menu_5756=<font face="Default" color="#ffffff" >Mời ra đề</font><font face="Default" color="#ffffff" >Mời ra đề</font>
+quest_menu_5757=<font face="Default" color="#ffffff" >Mời ra đề</font><font face="Default" color="#ffffff" >Mời ra đề</font>
+quest_menu_5758=<font face="Default" color="#ffffff" >Mời ra đề</font><font face="Default" color="#ffffff" >Mời ra đề</font>
+quest_menu_5759=<font face="Default" color="#ffffff" >Mời ra đề</font><font face="Default" color="#ffffff" >Mời ra đề</font>
+quest_menu_5760=<font face="Default" color="#ffffff" >Mời ra đề</font><font face="Default" color="#ffffff" >Mời ra đề</font>
+quest_menu_5761=<font face="Default" color="#ffffff" >Mời ra đề</font><font face="Default" color="#ffffff" >Mời ra đề</font>
+quest_menu_5762=<font face="Default" color="#ffffff" >Mời ra đề</font><font face="Default" color="#ffffff" >Mời ra đề</font>
+quest_menu_5763=<font face="Default" color="#ffffff" >Mời ra đề</font><font face="Default" color="#ffffff" >Mời ra đề</font>
+quest_menu_5764=<font face="Default" color="#ffffff" >Mời ra đề</font><font face="Default" color="#ffffff" >Mời ra đề</font>
+quest_menu_5765=<font face="Default" color="#ffffff" >Mời ra đề</font><font face="Default" color="#ffffff" >Mời ra đề</font>
+quest_menu_5766=<font face="Default" color="#ffffff" >Mời ra đề</font><font face="Default" color="#ffffff" >Mời ra đề</font>
+quest_menu_5767=<font face="Default" color="#ffffff" >Mời ra đề</font><font face="Default" color="#ffffff" >Mời ra đề</font>
+quest_menu_5768=<font face="Default" color="#ffffff" >Mời ra đề</font><font face="Default" color="#ffffff" >Mời ra đề</font>
+quest_menu_5769=<font face="Default" color="#ffffff" >Mời ra đề</font><font face="Default" color="#ffffff" >Mời ra đề</font>
+quest_menu_5770=<font face="Default" color="#ffffff" >Mời ra đề</font><font face="Default" color="#ffffff" >Mời ra đề</font>
+quest_menu_5771=<font face="Default" color="#ffffff" >Mời ra đề</font><font face="Default" color="#ffffff" >Mời ra đề</font>
+quest_menu_5772=<font face="Default" color="#ffffff" >Mời ra đề</font><font face="Default" color="#ffffff" >Mời ra đề</font>
+quest_menu_5773=<font face="Default" color="#ffffff" >Mời ra đề</font><font face="Default" color="#ffffff" >Mời ra đề</font>
+quest_menu_5774=<font face="Default" color="#ffffff" >Mời ra đề</font><font face="Default" color="#ffffff" >Mời ra đề</font>
+quest_menu_5775=<font face="Default" color="#ffffff" >Mời ra đề</font><font face="Default" color="#ffffff" >Mời ra đề</font>
+quest_menu_5776=<font face="Default" color="#ffffff" >Mời ra đề</font><font face="Default" color="#ffffff" >Mời ra đề</font>
+quest_menu_5777=<font face="Default" color="#ffffff" >Mời ra đề</font><font face="Default" color="#ffffff" >Mời ra đề</font>
+quest_menu_5778=<font face="Default" color="#ffffff" >Mời ra đề</font><font face="Default" color="#ffffff" >Mời ra đề</font>
+quest_menu_5779=<font face="Default" color="#ffffff" >Mời ra đề</font><font face="Default" color="#ffffff" >Mời ra đề</font>
+quest_menu_5780=<font face="Default" color="#ffffff" >Mời ra đề</font><font face="Default" color="#ffffff" >Mời ra đề</font>
+quest_menu_5781=<font face="Default" color="#ffffff" >Mời ra đề</font><font face="Default" color="#ffffff" >Mời ra đề</font>
+quest_menu_5782=<font face="Default" color="#ffffff" >Mời ra đề</font><font face="Default" color="#ffffff" >Mời ra đề</font>
+quest_menu_5783=<font face="Default" color="#ffffff" >Mời ra đề</font><font face="Default" color="#ffffff" >Mời ra đề</font>
+quest_menu_5784=<font face="Default" color="#ffffff" >Mời ra đề</font><font face="Default" color="#ffffff" >Mời ra đề</font>
+quest_menu_5785=<font face="Default" color="#ffffff" >Mời ra đề</font><font face="Default" color="#ffffff" >Mời ra đề</font>
+quest_menu_5786=<font face="Default" color="#ffffff" >Mời ra đề</font><font face="Default" color="#ffffff" >Mời ra đề</font>
+quest_menu_5787=<font face="Default" color="#ffffff" >Mời ra đề</font><font face="Default" color="#ffffff" >Mời ra đề</font>
+questioninfo_5750=Đáp đúng câu hỏi của Đại Sứ Sự Kiện Lễ Tết
+questioninfo_5751=Đáp đúng câu hỏi của Đại Sứ Sự Kiện Lễ Tết
+questioninfo_5752=Đáp đúng câu hỏi của Đại Sứ Sự Kiện Lễ Tết
+questioninfo_5753=Đáp đúng câu hỏi của Đại Sứ Sự Kiện Lễ Tết
+questioninfo_5754=Đáp đúng câu hỏi của Đại Sứ Sự Kiện Lễ Tết
+questioninfo_5755=Đáp đúng câu hỏi của Đại Sứ Sự Kiện Lễ Tết
+questioninfo_5756=Đáp đúng câu hỏi của Đại Sứ Sự Kiện Lễ Tết
+questioninfo_5757=Đáp đúng câu hỏi của Đại Sứ Sự Kiện Lễ Tết
+questioninfo_5758=Tô Châu Đào Hoa Đàm-<a href="findnpc_new,city02,QingMingnpc_001" style="HLStype1">Thẩm Mạnh</a> thi tình đại phát, cùng ngươi tâm đầu ý hợp, uống rượu ngâm thơ, bày tỏ nỗi lòng.Tô Châu Đào Hoa Đàm-<a href="findnpc_new,city02,QingMingnpc_001" style="HLStype1">Thẩm Mạnh</a> thi tình đại phát, cùng ngươi tâm đầu ý hợp, uống rượu ngâm thơ, bày tỏ nỗi lòng.
+questioninfo_5759=Tô Châu Đào Hoa Đàm-<a href="findnpc_new,city02,QingMingnpc_001" style="HLStype1">Thẩm Mạnh</a> thi tình đại phát, cùng ngươi tâm đầu ý hợp, uống rượu ngâm thơ, bày tỏ nỗi lòng.Tô Châu Đào Hoa Đàm-<a href="findnpc_new,city02,QingMingnpc_001" style="HLStype1">Thẩm Mạnh</a> thi tình đại phát, cùng ngươi tâm đầu ý hợp, uống rượu ngâm thơ, bày tỏ nỗi lòng.
+questioninfo_5760=Tô Châu Đào Hoa Đàm-<a href="findnpc_new,city02,QingMingnpc_001" style="HLStype1">Thẩm Mạnh</a> thi tình đại phát, cùng ngươi tâm đầu ý hợp, uống rượu ngâm thơ, bày tỏ nỗi lòng.Tô Châu Đào Hoa Đàm-<a href="findnpc_new,city02,QingMingnpc_001" style="HLStype1">Thẩm Mạnh</a> thi tình đại phát, cùng ngươi tâm đầu ý hợp, uống rượu ngâm thơ, bày tỏ nỗi lòng.
+questioninfo_5761=Tô Châu Đào Hoa Đàm-<a href="findnpc_new,city02,QingMingnpc_001" style="HLStype1">Thẩm Mạnh</a> thi tình đại phát, cùng ngươi tâm đầu ý hợp, uống rượu ngâm thơ, bày tỏ nỗi lòng.Tô Châu Đào Hoa Đàm-<a href="findnpc_new,city02,QingMingnpc_001" style="HLStype1">Thẩm Mạnh</a> thi tình đại phát, cùng ngươi tâm đầu ý hợp, uống rượu ngâm thơ, bày tỏ nỗi lòng.
+questioninfo_5762=Tô Châu Đào Hoa Đàm-<a href="findnpc_new,city02,QingMingnpc_001" style="HLStype1">Thẩm Mạnh</a> thi tình đại phát, cùng ngươi tâm đầu ý hợp, uống rượu ngâm thơ, bày tỏ nỗi lòng.Tô Châu Đào Hoa Đàm-<a href="findnpc_new,city02,QingMingnpc_001" style="HLStype1">Thẩm Mạnh</a> thi tình đại phát, cùng ngươi tâm đầu ý hợp, uống rượu ngâm thơ, bày tỏ nỗi lòng.
+questioninfo_5763=Tô Châu Đào Hoa Đàm-<a href="findnpc_new,city02,QingMingnpc_001" style="HLStype1">Thẩm Mạnh</a> thi tình đại phát, cùng ngươi tâm đầu ý hợp, uống rượu ngâm thơ, bày tỏ nỗi lòng.Tô Châu Đào Hoa Đàm-<a href="findnpc_new,city02,QingMingnpc_001" style="HLStype1">Thẩm Mạnh</a> thi tình đại phát, cùng ngươi tâm đầu ý hợp, uống rượu ngâm thơ, bày tỏ nỗi lòng.
+questioninfo_5764=Tô Châu Đào Hoa Đàm-<a href="findnpc_new,city02,QingMingnpc_001" style="HLStype1">Thẩm Mạnh</a> thi tình đại phát, cùng ngươi tâm đầu ý hợp, uống rượu ngâm thơ, bày tỏ nỗi lòng.Tô Châu Đào Hoa Đàm-<a href="findnpc_new,city02,QingMingnpc_001" style="HLStype1">Thẩm Mạnh</a> thi tình đại phát, cùng ngươi tâm đầu ý hợp, uống rượu ngâm thơ, bày tỏ nỗi lòng.
+questioninfo_5765=Tô Châu Đào Hoa Đàm-<a href="findnpc_new,city02,QingMingnpc_001" style="HLStype1">Thẩm Mạnh</a> thi tình đại phát, cùng ngươi tâm đầu ý hợp, uống rượu ngâm thơ, bày tỏ nỗi lòng.Tô Châu Đào Hoa Đàm-<a href="findnpc_new,city02,QingMingnpc_001" style="HLStype1">Thẩm Mạnh</a> thi tình đại phát, cùng ngươi tâm đầu ý hợp, uống rượu ngâm thơ, bày tỏ nỗi lòng.
+questioninfo_5766=Tô Châu Đào Hoa Đàm-<a href="findnpc_new,city02,QingMingnpc_001" style="HLStype1">Thẩm Mạnh</a> thi tình đại phát, cùng ngươi tâm đầu ý hợp, uống rượu ngâm thơ, bày tỏ nỗi lòng.Tô Châu Đào Hoa Đàm-<a href="findnpc_new,city02,QingMingnpc_001" style="HLStype1">Thẩm Mạnh</a> thi tình đại phát, cùng ngươi tâm đầu ý hợp, uống rượu ngâm thơ, bày tỏ nỗi lòng.
+questioninfo_5767=Tô Châu Đào Hoa Đàm-<a href="findnpc_new,city02,QingMingnpc_001" style="HLStype1">Thẩm Mạnh</a> thi tình đại phát, cùng ngươi tâm đầu ý hợp, uống rượu ngâm thơ, bày tỏ nỗi lòng.Tô Châu Đào Hoa Đàm-<a href="findnpc_new,city02,QingMingnpc_001" style="HLStype1">Thẩm Mạnh</a> thi tình đại phát, cùng ngươi tâm đầu ý hợp, uống rượu ngâm thơ, bày tỏ nỗi lòng.
+questioninfo_5768=Thành Đô Nam Cung Thế Gia-<a href="findnpc_new,city05,QingMingnpc_002" style="HLStype1">Trần Hiển Thành</a> thi tình đại phát, cùng ngươi tâm đầu ý hợp, uống rượu ngâm thơ, bày tỏ nỗi lòng.Thành Đô Nam Cung Thế Gia-<a href="findnpc_new,city05,QingMingnpc_002" style="HLStype1">Trần Hiển Thành</a> thi tình đại phát, cùng ngươi tâm đầu ý hợp, uống rượu ngâm thơ, bày tỏ nỗi lòng.
+questioninfo_5769=Thành Đô Nam Cung Thế Gia-<a href="findnpc_new,city05,QingMingnpc_002" style="HLStype1">Trần Hiển Thành</a> thi tình đại phát, cùng ngươi tâm đầu ý hợp, uống rượu ngâm thơ, bày tỏ nỗi lòng.Thành Đô Nam Cung Thế Gia-<a href="findnpc_new,city05,QingMingnpc_002" style="HLStype1">Trần Hiển Thành</a> thi tình đại phát, cùng ngươi tâm đầu ý hợp, uống rượu ngâm thơ, bày tỏ nỗi lòng.
+questioninfo_5770=Thành Đô Nam Cung Thế Gia-<a href="findnpc_new,city05,QingMingnpc_002" style="HLStype1">Trần Hiển Thành</a> thi tình đại phát, cùng ngươi tâm đầu ý hợp, uống rượu ngâm thơ, bày tỏ nỗi lòng.Thành Đô Nam Cung Thế Gia-<a href="findnpc_new,city05,QingMingnpc_002" style="HLStype1">Trần Hiển Thành</a> thi tình đại phát, cùng ngươi tâm đầu ý hợp, uống rượu ngâm thơ, bày tỏ nỗi lòng.
+questioninfo_5771=Thành Đô Nam Cung Thế Gia-<a href="findnpc_new,city05,QingMingnpc_002" style="HLStype1">Trần Hiển Thành</a> thi tình đại phát, cùng ngươi tâm đầu ý hợp, uống rượu ngâm thơ, bày tỏ nỗi lòng.Thành Đô Nam Cung Thế Gia-<a href="findnpc_new,city05,QingMingnpc_002" style="HLStype1">Trần Hiển Thành</a> thi tình đại phát, cùng ngươi tâm đầu ý hợp, uống rượu ngâm thơ, bày tỏ nỗi lòng.
+questioninfo_5772=Thành Đô Nam Cung Thế Gia-<a href="findnpc_new,city05,QingMingnpc_002" style="HLStype1">Trần Hiển Thành</a> thi tình đại phát, cùng ngươi tâm đầu ý hợp, uống rượu ngâm thơ, bày tỏ nỗi lòng.Thành Đô Nam Cung Thế Gia-<a href="findnpc_new,city05,QingMingnpc_002" style="HLStype1">Trần Hiển Thành</a> thi tình đại phát, cùng ngươi tâm đầu ý hợp, uống rượu ngâm thơ, bày tỏ nỗi lòng.
+questioninfo_5773=Thành Đô Nam Cung Thế Gia-<a href="findnpc_new,city05,QingMingnpc_002" style="HLStype1">Trần Hiển Thành</a> thi tình đại phát, cùng ngươi tâm đầu ý hợp, uống rượu ngâm thơ, bày tỏ nỗi lòng.Thành Đô Nam Cung Thế Gia-<a href="findnpc_new,city05,QingMingnpc_002" style="HLStype1">Trần Hiển Thành</a> thi tình đại phát, cùng ngươi tâm đầu ý hợp, uống rượu ngâm thơ, bày tỏ nỗi lòng.
+questioninfo_5774=Thành Đô Nam Cung Thế Gia-<a href="findnpc_new,city05,QingMingnpc_002" style="HLStype1">Trần Hiển Thành</a> thi tình đại phát, cùng ngươi tâm đầu ý hợp, uống rượu ngâm thơ, bày tỏ nỗi lòng.Thành Đô Nam Cung Thế Gia-<a href="findnpc_new,city05,QingMingnpc_002" style="HLStype1">Trần Hiển Thành</a> thi tình đại phát, cùng ngươi tâm đầu ý hợp, uống rượu ngâm thơ, bày tỏ nỗi lòng.
+questioninfo_5775=Thành Đô Nam Cung Thế Gia-<a href="findnpc_new,city05,QingMingnpc_002" style="HLStype1">Trần Hiển Thành</a> thi tình đại phát, cùng ngươi tâm đầu ý hợp, uống rượu ngâm thơ, bày tỏ nỗi lòng.Thành Đô Nam Cung Thế Gia-<a href="findnpc_new,city05,QingMingnpc_002" style="HLStype1">Trần Hiển Thành</a> thi tình đại phát, cùng ngươi tâm đầu ý hợp, uống rượu ngâm thơ, bày tỏ nỗi lòng.
+questioninfo_5776=Thành Đô Nam Cung Thế Gia-<a href="findnpc_new,city05,QingMingnpc_002" style="HLStype1">Trần Hiển Thành</a> thi tình đại phát, cùng ngươi tâm đầu ý hợp, uống rượu ngâm thơ, bày tỏ nỗi lòng.Thành Đô Nam Cung Thế Gia-<a href="findnpc_new,city05,QingMingnpc_002" style="HLStype1">Trần Hiển Thành</a> thi tình đại phát, cùng ngươi tâm đầu ý hợp, uống rượu ngâm thơ, bày tỏ nỗi lòng.
+questioninfo_5777=Thành Đô Nam Cung Thế Gia-<a href="findnpc_new,city05,QingMingnpc_002" style="HLStype1">Trần Hiển Thành</a> thi tình đại phát, cùng ngươi tâm đầu ý hợp, uống rượu ngâm thơ, bày tỏ nỗi lòng.Thành Đô Nam Cung Thế Gia-<a href="findnpc_new,city05,QingMingnpc_002" style="HLStype1">Trần Hiển Thành</a> thi tình đại phát, cùng ngươi tâm đầu ý hợp, uống rượu ngâm thơ, bày tỏ nỗi lòng.
+questioninfo_5778=Yến Kinh Bách Hoa Cốc-<a href="findnpc_new,city01,QingMingnpc_003" style="HLStype1">Trương Lăng Dương</a> thi tình đại phát, cùng ngươi tâm đầu ý hợp, uống rượu ngâm thơ, bày tỏ nỗi lòng.Yến Kinh Bách Hoa Cốc-<a href="findnpc_new,city01,QingMingnpc_003" style="HLStype1">Trương Lăng Dương</a> thi tình đại phát, cùng ngươi tâm đầu ý hợp, uống rượu ngâm thơ, bày tỏ nỗi lòng.
+questioninfo_5779=Yến Kinh Bách Hoa Cốc-<a href="findnpc_new,city01,QingMingnpc_003" style="HLStype1">Trương Lăng Dương</a> thi tình đại phát, cùng ngươi tâm đầu ý hợp, uống rượu ngâm thơ, bày tỏ nỗi lòng.Yến Kinh Bách Hoa Cốc-<a href="findnpc_new,city01,QingMingnpc_003" style="HLStype1">Trương Lăng Dương</a> thi tình đại phát, cùng ngươi tâm đầu ý hợp, uống rượu ngâm thơ, bày tỏ nỗi lòng.
+questioninfo_5780=Yến Kinh Bách Hoa Cốc-<a href="findnpc_new,city01,QingMingnpc_003" style="HLStype1">Trương Lăng Dương</a> thi tình đại phát, cùng ngươi tâm đầu ý hợp, uống rượu ngâm thơ, bày tỏ nỗi lòng.Yến Kinh Bách Hoa Cốc-<a href="findnpc_new,city01,QingMingnpc_003" style="HLStype1">Trương Lăng Dương</a> thi tình đại phát, cùng ngươi tâm đầu ý hợp, uống rượu ngâm thơ, bày tỏ nỗi lòng.
+questioninfo_5781=Yến Kinh Bách Hoa Cốc-<a href="findnpc_new,city01,QingMingnpc_003" style="HLStype1">Trương Lăng Dương</a> thi tình đại phát, cùng ngươi tâm đầu ý hợp, uống rượu ngâm thơ, bày tỏ nỗi lòng.Yến Kinh Bách Hoa Cốc-<a href="findnpc_new,city01,QingMingnpc_003" style="HLStype1">Trương Lăng Dương</a> thi tình đại phát, cùng ngươi tâm đầu ý hợp, uống rượu ngâm thơ, bày tỏ nỗi lòng.
+questioninfo_5782=Yến Kinh Bách Hoa Cốc-<a href="findnpc_new,city01,QingMingnpc_003" style="HLStype1">Trương Lăng Dương</a> thi tình đại phát, cùng ngươi tâm đầu ý hợp, uống rượu ngâm thơ, bày tỏ nỗi lòng.Yến Kinh Bách Hoa Cốc-<a href="findnpc_new,city01,QingMingnpc_003" style="HLStype1">Trương Lăng Dương</a> thi tình đại phát, cùng ngươi tâm đầu ý hợp, uống rượu ngâm thơ, bày tỏ nỗi lòng.
+questioninfo_5783=Yến Kinh Bách Hoa Cốc-<a href="findnpc_new,city01,QingMingnpc_003" style="HLStype1">Trương Lăng Dương</a> thi tình đại phát, cùng ngươi tâm đầu ý hợp, uống rượu ngâm thơ, bày tỏ nỗi lòng.Yến Kinh Bách Hoa Cốc-<a href="findnpc_new,city01,QingMingnpc_003" style="HLStype1">Trương Lăng Dương</a> thi tình đại phát, cùng ngươi tâm đầu ý hợp, uống rượu ngâm thơ, bày tỏ nỗi lòng.
+questioninfo_5784=Yến Kinh Bách Hoa Cốc-<a href="findnpc_new,city01,QingMingnpc_003" style="HLStype1">Trương Lăng Dương</a> thi tình đại phát, cùng ngươi tâm đầu ý hợp, uống rượu ngâm thơ, bày tỏ nỗi lòng.Yến Kinh Bách Hoa Cốc-<a href="findnpc_new,city01,QingMingnpc_003" style="HLStype1">Trương Lăng Dương</a> thi tình đại phát, cùng ngươi tâm đầu ý hợp, uống rượu ngâm thơ, bày tỏ nỗi lòng.
+questioninfo_5785=Yến Kinh Bách Hoa Cốc-<a href="findnpc_new,city01,QingMingnpc_003" style="HLStype1">Trương Lăng Dương</a> thi tình đại phát, cùng ngươi tâm đầu ý hợp, uống rượu ngâm thơ, bày tỏ nỗi lòng.Yến Kinh Bách Hoa Cốc-<a href="findnpc_new,city01,QingMingnpc_003" style="HLStype1">Trương Lăng Dương</a> thi tình đại phát, cùng ngươi tâm đầu ý hợp, uống rượu ngâm thơ, bày tỏ nỗi lòng.
+questioninfo_5786=Yến Kinh Bách Hoa Cốc-<a href="findnpc_new,city01,QingMingnpc_003" style="HLStype1">Trương Lăng Dương</a> thi tình đại phát, cùng ngươi tâm đầu ý hợp, uống rượu ngâm thơ, bày tỏ nỗi lòng.Yến Kinh Bách Hoa Cốc-<a href="findnpc_new,city01,QingMingnpc_003" style="HLStype1">Trương Lăng Dương</a> thi tình đại phát, cùng ngươi tâm đầu ý hợp, uống rượu ngâm thơ, bày tỏ nỗi lòng.
+questioninfo_5787=Yến Kinh Bách Hoa Cốc-<a href="findnpc_new,city01,QingMingnpc_003" style="HLStype1">Trương Lăng Dương</a> thi tình đại phát, cùng ngươi tâm đầu ý hợp, uống rượu ngâm thơ, bày tỏ nỗi lòng.Yến Kinh Bách Hoa Cốc-<a href="findnpc_new,city01,QingMingnpc_003" style="HLStype1">Trương Lăng Dương</a> thi tình đại phát, cùng ngươi tâm đầu ý hợp, uống rượu ngâm thơ, bày tỏ nỗi lòng.
+specialinfo_788=Sự kiện tết Đoan Ngọ, tham gia thế lực chiến trường bất kỳ
+specialinfo_789=Sự kiện tết Đoan Ngọ, tham gia 1 lần luyện nhóm
+SubmitNpcEx_43901=Chúc mừng bạn đã vượt ải Khổng Tước Sơn Trang [Thường], bây giờ có thể đến Đại Minh Lễ Tư tìm Tiền Phú Quý lãnh thưởng
+SubmitNpcEx_43902=Chúc mừng bạn đã vượt ải Khổng Tước Sơn Trang [Khó], bây giờ có thể đến Đại Minh Lễ Tư tìm Tiền Phú Quý lãnh thưởng
+SubmitNpcEx_43903=Chúc mừng bạn đã vượt ải Khổng Tước Sơn Trang [Địa Ngục], bây giờ có thể đến Đại Minh Lễ Tư tìm Tiền Phú Quý lãnh thưởng
+SubmitNpcEx_43904=Bây giờ có thể đến Đại Minh Lễ Tư tìm Tiền Phú Quý lãnh thưởng
+SubmitNpcEx_43905=Bây giờ có thể đến Đại Minh Lễ Tư tìm Tiền Phú Quý lãnh thưởng
+SubmitNpcEx_43906=Bây giờ có thể đến Đại Minh Lễ Tư tìm Tiền Phú Quý lãnh thưởng
+SubmitNpcEx_43907=Bây giờ có thể đến Đại Minh Lễ Tư tìm Tiền Phú Quý lãnh thưởng
+SubmitNpcEx_43908=Bây giờ có thể đến Đại Minh Lễ Tư tìm Tiền Phú Quý lãnh thưởng
+SubmitNpcEx_43909=Bây giờ có thể đến Đại Minh Lễ Tư tìm Tiền Phú Quý lãnh thưởng
+SubmitNpcEx_43910=Bây giờ có thể đến Đại Minh Lễ Tư tìm Tiền Phú Quý lãnh thưởng
+specialinfo_839=Vượt cấm địa Khổng Tước Sơn Trang [Thường]
+specialinfo_840=Vượt cấm địa Khổng Tước Sơn Trang [Khó]
+specialinfo_841=Vượt cấm địa Khổng Tước Sơn Trang [Địa Ngục]
+specialinfo_842=Hoàn thành 1 lần Do Thám
+specialinfo_843=Hoàn thành một lần Luyện nhóm
+specialinfo_844=Hoàn thành 1 lần Do Thám
+specialinfo_845=Hoàn thành một lần Luyện nhóm
+specialinfo_846=Hoàn thành 1 lần Tuần Tra
+specialinfo_847=Hoàn thành 1 lần khiêu chiến thế lực
+specialinfo_848=Hoàn thành 1 lần Tuần Tra
+specialinfo_849=Hoàn thành 1 lần khiêu chiến thế lực
+specialinfo_850=Hoàn thành một lần Luyện nhóm
+specialinfo_851=Hoàn thành 1 lần Đoạt Thư
+specialinfo_852=Hoàn thành một lần Luyện nhóm
+specialinfo_853=Hoàn thành 1 lần Đoạt Thư
+specialinfo_854=Hoàn thành 1 lần Đoạt Thư
+specialinfo_855=Thành công vượt ải Mộ Sắc Chi Thôn-Thường
+SubmitNpcEx_43950=Đến Đại Minh Lễ Tư tìm <a href="findnpc_new,,operation_manage" style="HLStype1">Tiền Phú Quý</a> nhận Đèn Bí Ngô
+SubmitNpcEx_43951=Đến Đại Minh Lễ Tư tìm <a href="findnpc_new,,operation_manage" style="HLStype1">Tiền Phú Quý</a> nhận Quà Tiểu Quỷ
+SubmitNpcEx_43952=Đến Đại Minh Lễ Tư tìm <a href="findnpc_new,,operation_manage" style="HLStype1">Tiền Phú Quý</a> nhận Kẹo Halloween
+SubmitNpcEx_43763=Tìm Đại Minh Lễ Tư Tiền Phú Quý để trả nhiệm vụ
+SubmitNpcEx_43764=Tìm Đại Minh Lễ Tư Tiền Phú Quý để trả nhiệm vụ
+SubmitNpcEx_43765=Tìm Đại Minh Lễ Tư Tiền Phú Quý để trả nhiệm vụ
+SubmitNpcEx_43766=Tìm Đại Minh Lễ Tư Tiền Phú Quý để trả nhiệm vụ
+collectinfo_5754=Thu thập chữ "Thiên"
+collectinfo_5755=Thu thập chữ "Hạ"
+collectinfo_5756=Thu thập chữ "Biến"
+collectinfo_5757=Thu thập chữ "Cửu"
+collectinfo_5758=Thu thập chữ "Âm"
+collectinfo_5759=Thu thập chữ "Chân"
+collectinfo_5760=Thu thập chữ "Kinh"
+collectinfo_5761=Thu thập chữ "Thiên"
+collectinfo_5762=Thu thập chữ "Hạ"
+collectinfo_5763=Thu thập chữ "Biến"
+specialinfo_825=Hoàn thành 6 lần Thích Quán bất kỳ
+specialinfo_826=Hoàn thành 1 lần Cấm Địa bất kỳ
+specialinfo_856=Đánh bại triệt để Thiên Hương Trà Lâm (Thế lực khiêu chiến thành công 6 lần)
+specialinfo_857=Đánh bại triệt để Bão Độc Trại (Thế lực khiêu chiến thành công 6 lần)
+specialinfo_858=Vượt ải Mộ Sắc Chi Thôn-độ khó thường
+specialinfo_938=Hoàn thành 1 lần khiêu chiến thế lực giang hồ tùy ý
+specialinfo_939=Qua ải 1 cấm địa bất kỳ
+specialinfo_940=Hoàn thành 2 lần tỉ thí Thiên Thê Lôi Đài
+SubmitNpcEx_43768=Trò chuyện với Cửu Mộ Hoa (Đại sứ tôn hiệu tròn một năm), có thể nhận tôn hiệu "Tráng Chí Hào Tình".
+DialogID_5760=<font face="Default" color="#ffffff" >Thị vệ đại nội trong Hoàng Thành thông báo cho người chơi, gần đây trong Kim Lăng Thành ngày càng nhiều trung nhân giang hồ có lai lịch bất minh, hơn nữa gần đây trong dân gian truyền nhau rất nhiều lời đồn không hay về Hoàng Đế hiện tại, hi vọng người chơi có thể điều tra rõ việc này.</font>
+DialogID_5762=<font face="Default" color="#ffffff" >Hoàng thượng thực ra  là người như thế, thật ra đều xem thường người trong thiên hạ.</font>
+DialogID_5763=Được! Tiểu huynh đệ có đại nghĩa như vậy. Tại hạ cũng có việc muốn nhờ, bây giờ cần phải phanh phui chân tướng của tên cẩu tặc Chu Đệ cho thiên hạ biết, tại hạ muốn phiền tiểu huynh đệ phát những văn thư này cho bách tính, để mọi người đều biết rõ chân tướng năm ấy.
+DialogID_5764=Tiểu huynh đệ làm rất tốt, ta còn vài chuyện vụn vặt nữa, nếu như ngươi có thể giúp, có thể đến Thư Viện Kim Lăng trước, ở đấy có rất nhiều bạn của ta. Hãy giữ chiếc lệnh bài này, đến đấy hãy đưa cho thủ hạ của ta xem, hắn sẽ nói cho ngươi phải làm gì.
+DialogID_5765=Ngưoi là người đại ca ta phái đến? Ha ha ha, hãy mau chóng chuẩn bị, chút nữa sẽ tiêu diệt đám mọt sách này, sau đó sẽ đi lấy thủ cấp của tên cẩu hoàng đề. Hôm nay là ngày Thiên cẩu thực nhật, cũng là lúc báo thù của thủ lĩnh Thiên Tình Công Tử chúng ta.
+DialogID_5766=Thiếu hiệp, ngươi có thể vận khí thử, có phải cảm thấy đan điền bị tắc nghẽn 1 chút đúng không?
+DialogID_5767=<font face="Default" color="#ffffff" >Ngươi xem đám người giang hồ đó còn ở ở đấy không, tìm giúp cho bạn đồng hành của ta vài cái lệnh bài để trà trộn vào Thư Viện</font> <font face="Default" color="#ffffff" >. Còn ngươi thì đưa ta lệnh bài của ngươi, ta đi do thám Thư Viện trước, ngươi hãy cầm lấy tín vật này, có thể giúp ngươi và bạn đồng hành của ta nhận ra nhau.</font>
+DialogID_5768=<font face="Default" color="#ffffff" >Triều Thiên Cung trước nay không xung đột với người khác, một mặt là Đạo Trường của chư thần đạo giáo lễ bái, cầu phúc phần hương quý tộc hoàng thất, mặc khác, là nơi để bách quan văn võ diễn tập các triều bái lễ nghi trước ngày vào năm mới, đông chí, hoặc sinh nhật của Hoàng Đế, Có lúc cũng được coi là nơi học tập các nghi thức lễ nghĩa trước khi được tập phong của con cháu quan liêu. Còn hành động lần này thực tế là ý của triều đình, hi vọng người có kiến thức có thể đến hộ vệ hoàng thành, điều tra nguồn gốc các lời đồn không thực, hoàn thành xong sẽ được trọng thưởng.</font>
+DialogID_5769=<font face="Default" color="#ffffff" >Đây là chứng minh danh phận tham gia đến việc này, xin nữ hiệp hãy giữ kỹ.</font>
+DialogID_5770=
+DialogID_5772=<font face="Default" color="#ffffff" >    </font><font face="Default" color="#ffffff" >Những ngày này có rất nhiều</font> <font face="Default" color="#ffffff" >kẻ xấu</font> <font face="Default" color="#ffffff" >theo dõi</font> <font face="Default" color="#ffffff" >ta</font><font face="Default" color="#ffffff" >, </font><font face="Default" color="#ffffff" >lẽ nào ngươi là</font> <font face="Default" color="#ffffff" >1 trong số họ</font><font face="Default" color="#ffffff" >?</font>
+DialogID_5773=<font face="Default" color="#ffffff" >Dạo này thế nào. Lão phu được biết, người truyền tin đồn đó không chỉ có 1 mình Thư tiên sinh, hiện nay đi trên đường gặp 1 người giống với Thư tiên sinh đang bàn về thiên hạ đại biến, quan binh thử bắt về để thẩm vấn, nhưng hỏi không được cũng là lẽ đương nhiên.</font>
+DialogID_5774=<font face="Default" color="#ffffff" >  </font><font face="Default" color="#ffffff" >Chi bằng chúng ta phân làm 2 đầu kiểm tra, cố gắng bắt được kẻ phao tin đồn để thẩm vấn 1 phen.</font>
+DialogID_5775=Lén lút theo dõi đến đây, các hạ quả là to gan. Bây giờ, hay là các hạ ở lại đây đi.
+DialogID_5776=<font face="Default" color="#ffffff" >Đây là</font> <font face="Default" color="#ffffff" >Thuốc Giải Độc</font> <font face="Default" color="#ffffff" >, hãy giữ lấy.</font>
+DialogID_5789=Rất cảm tạ cống hiến của quý khách với chúng tôi, lát nữa mời đến chỗ Ôn Tuyền Trướng Phòng nhận tặng phẩm (Mỗi ngày nhận 1 lần). Nếu như còn nhiều Hàn Nha Thảo thì xin hãy tiếp tục cống hiến, đến lúc đấy cấp Ôn Tuyền cao rồi, mọi người sẽ nhận được càng nhiều lợi ích!
+DialogID_5790=Quý khách đến nhận trạng thái Ôn Tuyền Tư Dưỡng à?
+DialogID_5791=Rất cảm tạ cống hiến của quý khách với chúng tôi, lát nữa mời đến chỗ Ôn Tuyền Trướng Phòng nhận tặng phẩm (Mỗi ngày nhận 1 lần). Nếu như còn nhiều Hàn Nha Thảo thì xin hãy tiếp tục cống hiến, đến lúc đấy cấp Ôn Tuyền cao rồi, mọi người sẽ nhận được càng nhiều lợi ích!
+DialogID_5792=Rất cảm tạ cống hiến của quý khách với chúng tôi, lát nữa mời đến chỗ Ôn Tuyền Trướng Phòng nhận tặng phẩm (Mỗi ngày nhận 1 lần). Nếu như còn nhiều Hàn Nha Thảo thì xin hãy tiếp tục cống hiến, đến lúc đấy cấp Ôn Tuyền cao rồi, mọi người sẽ nhận được càng nhiều lợi ích!
+DialogID_5795=<font face="Default" color="#ffffff" >Ngươi là đến giúp ta tặng Vật Liệu Gỗ cho Trịnh Quan Binh đó ư, ngươi hãy lấy những Vật Liệu Gỗ này đi.</font>
+SubmitNpcEx_43771=Tìm Ôn Tuyền Tiểu Đồng trả nhiệm vụ
+SubmitNpcEx_43772=Tìm Ôn Tuyền Quản Sự trả nhiệm vụ
+SubmitNpcEx_43773=Tìm Ôn Tuyền Tổng Quản trả nhiệm vụ
+SubmitNpcEx_43774=Tìm Ôn Tuyền Quản Sự trả nhiệm vụ
+SubmitNpcEx_43775=Tìm Ôn Tuyền Quản Sự trả nhiệm vụ
+SubmitNpcEx_43776=Tìm Ôn Tuyền Tiểu Nhị trả nhiệm vụ
+SubmitNpcEx_43777=Tìm Ôn Tuyền Trướng Phòng trả nhiệm vụ
+SubmitNpcEx_43779=Tìm Người Chủ Trì Đại hội Câu Hỏa-Trịnh Quán Binh giao Nguyên Liệu Gỗ
+SubmitNpcEx_43780=Tìm Ngải Hiểu Phong nhận Quà Tân Xuân
+SubmitNpcEx_43781=Tìm Ngải Hiểu Phong nhận Quà Danh Tuấn Tân Xuân
+SubmitNpcEx_43782=Tìm Ngải Hiểu Phong nhận Lì Xì Năm Mới
+convoyinfo_5751=Theo Thạch Thiên Lỗi, xem rốt cuộc hắn đi đâu
+convoyinfo_5752=Theo dõi Từ Diệu Chân
+convoyinfo_5754=Tìm Thư Sinh
+hunterinfo_5750=Kích hoạt khống chế
+hunterinfo_5751=Người chơi nam hãy giải độc, người chơi nữ sau khi nhận lệnh bai, đến Thư Viện Kim Lăng, giải cứu mọi người
+hunterinfo_5752=Chiến đấu với Từ Diệu Chân
+hunterinfo_5753=Bắt <a href="findnpc_new,city03,EventNpc_jltq_009" style="HLStype1">Tiêu Dao Giả</a>
+hunterinfo_5755=Chế phục <a href="findnpc,city03,1293,0,1436" style="HLStype1">Thư Sinh</a> tung tin đồn
+interactinfo_5760=Cùng <a href="findnpc_new,city03,jltq_qz_001" style="HLStype1">jltq_qz_001</a> trò chuyện NpcId=jltq_qz_001
+interactinfo_5761=Đến bên ngoài Tây An môn
+interactinfo_5762=Nghe nói trong Khách sạn có <a href="findnpc_new,city03,jltq_qz_002" style="HLStype1">Người Giang Hồ</a> đang tuyên dương việc này, đến xem thử
+interactinfo_5763=Trò chuyện với <a href="findnpc_new,city03,jltq_qz_003" style="HLStype1">Lý Mộc Tử</a>
+interactinfo_5764=Trò chuyện với <a href="findnpc_new,city03,jltq_qz_003" style="HLStype1">Lý Mộc Tử</a>
+interactinfo_5765=Đến Thư Viện Kim Lăng, bàn bạc với <a href="findnpc_new,city03,jltq_qz_004" style="HLStype1">Thủ Hạ</a> của Lý Mộc Tử
+interactinfo_5766=<a href="findnpc,city03,1249,0,1447" style="HLStype1">Cô Nương</a> ở trước cửa Thư Viện cứ nhìn ta, đến hỏi thử
+interactinfo_5767=Trò chuyện với <a href="findnpc,city03,1249,0,1447" style="HLStype1">Từ Diệu Chân</a>
+interactinfo_5768=Trò chuyện với <a href="findnpc,city03,1469,15,1365" style="HLStype1">Thanh Hư Đạo Nhân</a>
+interactinfo_5769=Trò chuyện với <a href="findnpc,city03,1469,15,1365" style="HLStype1">Thanh Hư Đạo Nhân</a>
+interactinfo_5770=Đến <a href="findnpc_new,city03,EventNpc_jltq_003" style="HLStype1">Trà Quán</a> mà Thanh Hư Đạo Nhân nói
+interactinfo_5772=Trò chuyện với <a href="findnpc_new,city03,jltq_qz_xmz03" style="HLStype1">Từ Diệu Chân</a>
+interactinfo_5773=Trò chuyện với <a href="findnpc,city03,1469,15,1365" style="HLStype1">Thanh Hư Đạo Nhân</a>
+interactinfo_5774=Trò chuyện với <a href="findnpc_new,city03,jltq_qz_xmz03" style="HLStype1">Từ Diệu Chân</a>
+interactinfo_5775=Ngồi uống rượu ở phía trước hình như cũng cùng 1 bọn với chúng, <a href="findnpc_new,city03,EventNpc_jltq_007" style="HLStype1">lên phía trước xem thử</a>
+interactinfo_5776=Trò chuyện với <a href="findnpc,city03,1249,0,1447" style="HLStype1">Từ Diệu Chân</a>
+interactinfo_5785=<a href="findnpc_new,city03,EventNpc_jltq_012" style="HLStype1">đi theo</a>, xem thử đi đâu
+interactinfo_5786=<a href="findnpc_new,city03,EventNpc_jltq_011" style="HLStype1">đi theo</a>, xem thử đi đâu
+interactinfo_5787=Dùng khinh công chạm cánh hoa màu hồng rơi rải rác
+interactinfo_5788=Đi theo <a href="findnpc_new,city03,EventNpc_jltq_014" style="HLStype1">Cô nương ấy</a>
+interactinfo_5789=Hoàn thành cống hiến 100 cái Hàn Nha Thảo
+interactinfo_5790=Nhận trạng thái Ôn Tuyền Tư Dưỡng
+interactinfo_5791=Hoàn thành cống hiến 100 cái Hàn Nha Thảo
+interactinfo_5792=Hoàn thành cống hiến 100 cái Hàn Nha Thảo
+interactinfo_5795=Tìm Phạt Mộc Công Nhân Đới Hoài Tường (<a href="findnpc_new,born04,gn_hdzyb_005" style="HLStype1">Thiên Đăng Trấn</a> <a href="findnpc_new,born03,gn_hdzyb_005" style="HLStype1">Yên Vũ Trang</a> <a href="findnpc_new,born01,gn_hdzyb_005" style="HLStype1">Kê Minh Dịch</a> <a href="findnpc_new,born02,gn_hdzyb_005" style="HLStype1">Ác Nhân Cốc</a>) nhận Vật Liệu Gỗ
+okmenu_5760=<font face="Default" color="#ffffff" >OK</font><font face="Default" color="#ffffff" >OK</font><font face="Default" color="#ffffff" >OK</font><font face="Default" color="#ffffff" >OK</font>
+okmenu_5762=<font face="Default" color="#ffffff" >Người nói nặng lời rồi, nhưng cần phải hiểu rõ.</font>
+okmenu_5763=Tại hạ sẽ không hổ thẹn.
+okmenu_5764=<font face="Default" color="#ffffff" >Đa tạ đại huynh đã chỉ điểm.</font> <font face="Default" color="#8fd6ef" >(Kim Lăng Thư Viện đều là người đọc sách, sao lại có liên quan đến việc này? Kỳ lạ….Sao lại đột nhiên cảm thấy sự khác lạ về hình dáng cơ thể.....)</font>
+okmenu_5765=<font face="Default" color="#ffffff" >...</font> <font face="Default" color="#8fd6ef" >(Hoàng Thượng hiện tại đương nhiên có lỗi, nhưng đa số nhân thủ trong Thư Viện đều là sức trói gà không chặt, nếu lỡ diệt nhầm, ta biết làm sao? nhất định phải cứu mọi người trong Thư Viện ra ngoài!) </font>
+okmenu_5766=Quả nhiên có ý cản trở.
+okmenu_5767=Đa tạ cô nương.
+okmenu_5768=<font face="Default" color="#ffffff" >Thì ra là vậy...</font><font face="Default" color="#ffffff" >Thì ra là vậy...</font>
+okmenu_5769=<font face="Default" color="#ffffff" >Tại hạ sẽ bảo trọng, cáo từ.</font>
+okmenu_5770=
+okmenu_5772=<font face="Default" color="#ffffff" >Cô Nương chắc là hiểu lầm rồi, tại hạ là Triều Thiên Cung Thanh Hư Đạo Nhân ủy thác đi xác thực nguồn gốc tin đồn gần đây, xem ngươi hành sự, hình như là người đi đường, đây là nhận dạng mà đạo trưởng đưa cho tại hạ, mời cô nương xem qua ...</font>
+okmenu_5773=<font face="Default" color="#ffffff" >Xem ra hành động của thế lực phía sau, đã</font> <font face="Default" color="#ffffff" >ngày càng</font> <font face="Default" color="#ffffff" >trắng trợn hơn rồi.</font>
+okmenu_5774=<font face="Default" color="#ffffff" >Cứ theo như lời mà cô nương nói.</font>
+okmenu_5775=Khẩu xuất cuồng ngôn, xem ngươi có bản lĩnh gì.
+okmenu_5776=<font face="Default" color="#ffffff" >Đa tạ cô nương.</font><font face="Default" color="#ffffff" >Đa tạ cô nương.</font>
+okmenu_5789=<font face="Default" color="#ffffff" >Này, đây là 100 Hàn Nha Thảo ta muốn cống hiến!</font>
+okmenu_5790=<font face="Default" color="#ffffff" >Được, hẹn ngày tái ngộ!</font>
+okmenu_5791=<font face="Default" color="#ffffff" >Này, đây là 100 Hàn Nha Thảo ta muốn cống hiến!</font>
+okmenu_5792=<font face="Default" color="#ffffff" >Này, đây là 100 Hàn Nha Thảo ta muốn cống hiến!</font>
+okmenu_5795=<font face="Default" color="#ffffff" >Được, cảm ơn đại thúc.</font>
+specialinfo_1003=Thôi Bối cho bằng hữu trong Ôn Tuyền
+specialinfo_1004=Hí Thủy với bằng hữu trong Ôn Tuyền
+specialinfo_1005=Án Ma cho bằng hữu trong Ôn Tuyền
+specialinfo_1045=Để bằng hữu trong Ôn Tuyền Thôi Bối cho ngươi
+specialinfo_1046=Để bằng hữu trong Ôn Tuyền Hí Thủy với ngươi
+specialinfo_1047=Để bằng hữu trong Ôn Tuyền Án Ma cho ngươi
+specialinfo_967=Vượt ải Tâm Ma 1 lần (Thực lực đạt Lược Hữu Tiểu Thành. Và phải cùng Hảo Hữu Đồng Hành hoàn thành, và cả 2 đều phải còn số lần đi, mới có thể nhận thưởng) .
+story_5750_1=<font face="Default" color="#ffffff" >Tên tiểu tử ngươi, chưa hỏi ngọn ngành đã theo qua đây, còn muốn giữ mạng không hả?!</font>
+story_5750_2=<font face="Default" color="#ffffff" >Cũng được, ta kể cho ngươi nghe. Chuyện là lúc hoàng thượng năm đó còn là Yến Vương, đã để ý đến Từ Diệu Cẩm con gái của Khai Quốc Công, ép nàng ta đến nổi nàng phải lên Nga My xuất gia, chia tách với người tình cũng là thanh mai trúc mã của nàng là Lăng Vân Ngọc.</font>
+story_5750_3=<font face="Default" color="#ffffff" >Kim Thượng đăng cơ vốn chẳng vẻ vang gì, sau đó từ khi Kim Thượng</font> <font face="Default" color="#ffffff" >đăng cơ đến nay, nơi đâu cũng làm khó nhân sĩ giang hồ ta, còn phái mật thám trong triều trà trộn vào</font> <font face="Default" color="#ffffff" >các đại phái</font> <font face="Default" color="#ffffff" >làm mưa làm gió, gây họa khắp nơi,</font> <font face="Default" color="#ffffff" >khiến trong giang hồ nổi lên tranh chấp,</font> <font face="Default" color="#ffffff" >dân chúng lầm than.</font>
+story_5750_4=Hôm nay Thiên Tìn Công Tử theo ta vì đại nghĩa trả lại thanh bình cho giang hồ, trả lại an sinh cho bách tính, diệt cẩu tặc Chu Đệ, đưa Hoàng Trưởng Tôn trở vê.
+story_5751_1=<font face="Default" color="#ffffff" >Vì vậy cần mượn sức mạnh của nghĩa sĩ giang hồ, chính vì nguồn lực lượng phản động này không hề nhỏ, hành động cẩn thận bí mật, quan binh thời gian đầu cũng chẳng có biện pháp gì, nữ hiệp có thể đến trà quán, khách sạn, chờ mọi người tập hợp tại đây cùng thu thập đầu mối, rồi tản ra khắp nơi tìm kiếm, có lẽ sẽ thu hoạch được gì đấy.</font>
+story_5752_1=<font face="Default" color="#ffffff" >Thanh Hư đạo trưởng ngày xưa có ân với ta, nếu ngươi đã nhận lời ủy thác của y, thì chúng ta tự nhiên sẽ là người 1 nhà.</font> <font face="Default" color="#ffffff" >Vừa nãy đã mạo phạm rồi.</font>
+story_5752_2=<font face="Default" color="#ffffff" >Chuyện này kể lại thì dài, năm đó Từ Diệu Cẩm con gái của Khai Quốc Công Từ Đạt là bạn thanh mai trúc mã với Lăng Vân Ngọc, cùng học nghệ trên Bồng Lai Sơn. Sau đó Từ Diệu Cẩm học thành tài trở về nhà, đã bị Yến Vương Chu Đệ nhìn thấy. Chu Đệ vừa thấy giai nhân đã ngưỡng mộ vô cùng,</font> <font face="Default" color="#ffffff" >thề</font> <font face="Default" color="#ffffff" >phải biến nàng ta trở thành vương phi cho bằng được.</font>
+story_5752_3=<font face="Default" color="#ffffff" >Đúng là như vậy, Từ Diệu Cẩm đã cực kỳ lúng túng chỉ có thể lên núi Nga My xuất gia, mới có thể giải quyết chuyện này, sau đó Yên Vương Chu Đệ đã cưới đại tỷ của Từ Diệu Cẩm lên làm hoàng hậu hiện tại. Lăng Vân Ngọc biết chuyện đã vô cùng tức giận, thề sẽ lấy thủ cấp của Chu Đệ, kết quả chuyện chẳng thành, trong nhà lại gặp phải kiếp nạn, hắn ngày đêm luyện công, chờ ngày báo thù lại bị tẩu hỏa nhập ma, tình tình đại biến. Sau đó Từ Diệu Cẩm tu luyện trên núi Nga My đã từng hạ sơn giúp Lăng Vân Ngọc hồi phục nguyện dạng, rồi 2 người gặp sự cố mà thất lạc nhau, sau này gặp lại Lăng Vân Ngọc lại giống như đã mất đi tâm trí, còn bị ác nhân khống chế.</font>
+story_5752_4=<font face="Default" color="#ffffff" >Ta ở Kim Lăng điều tra rất lâu, đoán rằng Thuyết Thư tiên sinh của trà quán chính là đồng bọn của đám người khống chế sau lưng và lợi dụng Lăng Vân Ngọc. Để tránh làm khổ Lăng Vân Ngọc, tránh liên lụy đến thiên hạ, chuyện này phải được giải quyết nhanh chóng.</font>
+story_5752_5=<font face="Default" color="#ffffff" >  </font><font face="Default" color="#ffffff" >Thời gian không còn sớm nữa, chúng ta hồi triều Thiên Cung trước, xem kỹ đạo nhân ở đó có tiến triển gì không.</font>
+story_5753_1=<font face="Default" color="#ffffff" >Nữ</font> <font face="Default" color="#ffffff" >Hiệp tha mạng, ta...Ta sẽ không trốn nữa…</font>
+story_5753_2=<font face="Default" color="#ffffff" >Tại hạ thật tình do bất đắc dĩ, không lâu trước đây tại hạ</font> <font face="Default" color="#ffffff" >bị</font> <font face="Default" color="#ffffff" >Ác Nhân</font> <font face="Default" color="#ffffff" >hạ độc, mới không thể không giả làm người của Kim Lăng Thư Viện phát truyền tin đồn</font> <font face="Default" color="#ffffff" >, nếu không cái mạng nhỏ này đã khó giữ.....xin nữ hiệp minh xét!</font>
+story_5754_1=<font face="Default" color="#ffffff" >Dạo này thế nào. Tại hạ thăm dò được biết, Kim Lăng Thư Viện đã bị khống chế bởi 1 thế lực, một loạt các lời đồn làm náo loạn dân chúng cũng từ đây mà ra, nhưng không thể chứng minh có danh phận đặc biệt sẽ không thể thâm nhập vào</font><font face="Default" color="#ffffff" >.</font>
+story_5754_2=<font face="Default" color="#ffffff" >Tại hạ cũng đã gặp kẻ giống với tên "Thư sinh" bị ngươi bắt được, người giang hồ mà thường bị các thế lực dùng độc dược khống chế, hơn nữa đều là nam sinh, lúc họ biết chuyện Thiên Cẩu Thực Nhật, thế lực đó muốn tiêu diệt toàn bộ học tử và thầy trong Kim Lăng Thư Viện, những người giang hồ đó không chịu nhịn, quyết định cứu toàn bộ người trong Thư Viện, nhưng họ quyết tử không rời đi, trong đó có 1 người già cho hay, đây là hành động đại nghĩa của dân tộc, nguyện xá thân thành nhân. Những người giang hồ kia cảm động sâu sắc, cũng cảm thấy có lỗi, nhưng vì trong bản thân có độc tính cao, không biết làm sao mới phải.
+story_5754_3=<font face="Default" color="#ffffff" >Thật may tại hạ rất hiểu biết về loại Độc Dược này,</font> <font face="Default" color="#ffffff" >viên giải độc này ngươi giữ lấy. Ngươi có thể giải độc giúp họ, rồi đổi lệnh bài vào Thư Viện. Thuốc giải dùng hết rồi, có thể đến lấy ở chổ ta.</font>
+story_5754_4=<font face="Default" color="#ffffff" >Từ nay về sau hãy nhận thuốc giải độc ở chổ ta, để tiện trao đổi chứng minh danh phận với các nam tử có liên quan đến việc này.</font>
+story_5755_1=Thiếu hiệp đã trúng độc của lũ tâm địa hiểm ác ấy rồi, nếu như không giải độc, trong 2 canh giờ độc sẽ phát tác thân vong. Không ngờ đám người này hạ thủ độc ác như vậy!
+story_5755_2=Thuốc giải của độc này, ta đã giao cho đồng hành của ta (Người chơi nữ). Ta lúc này không tiện hành động, thiếu hiệp có đến e rằng cũng khó đổi được thuốc giải. Đồng hành của ta đến cũng vì muốn cứu người trong Thư Viện, họ cần Lệnh bài mới có thể vào Thư Viện, nếu đã như vậy, ngươi có thể đi tìm 1 cái, giao cho họ, sau đó dùng danh phận nói rõ lý do tới, tự có người giải độc cho ngươi.
+story_5756_1=Đương kim thánh thượng đăng cơ có chút không vinh dự, nhưng không biết các hạ có biết rằng năm ấy Thái Tổ Gia vốn muốn truyền ngôi cho Hoàng Trưởng Tôn, không người Kim Thượng sinh bất bình. Hoàng Trưởng Tôn điện hạ sợ Kim Thượng âm mưu soán vị, nên hy vọng Kim Thượng có thể ở lại kinh thành bảo dưỡng tuổi thọ thiên niên. Ai ngờ Kim Thượng lại làm nên chuyện đại nghịch như vậy
+story_5756_2=Năm ấy Thái Tổ Gia vốn muốn truyền ngôi cho Hoàng Trưởng Tôn, không người Kim Thượng sinh bất bình. Hoàng Trưởng Tôn điện hạ sợ Kim Thượng âm mưu soán vị, nên hy vọng Kim Thượng có thể ở lại kinh thành bảo dưỡng tuổi thọ thiên niên. Ai ngờ Kim Thượng lại làm nên chuyện đại nghịch như vậy. Kim Thượng mua chuộc các cận thần của Hoàng Trưởng Tôn, để bọn chúng đồn rằng Hoàng Trưởng Tôn đố kị người tài, muốn hạ độc Kim Thượng. Còn cho đám cận thần ấy buông lời dèm pha, rằng Hoàng Trưởng Tôn thăm dò Kim Thượng. Kim Thượng vì muốn tự bảo vệ mình nên rời khỏi kinh thành, thống lĩnh đại quân đến.
+story_5756_3=Thái Tổ Gia sợ nhất là con cháu thủ túc tương tàn. Hoàng Trưởng Tôn nhân hậu, nên mai danh ẩn tích nhường hoàng vị cho Kim Thượng, nếu không như vậy, Kim Thượng sao có thể thuận lợi đăng cơ. Nhưng ai biết Kim Thượng lại không niệm tình Hoàng Trưởng Tôn, lại còn bí mật bày mưu hãm hại Hoàng Trưởng Tôn tới chỗ chết.
+story_5756_4=Sự thật như vậy mà ngươi không chịu tin? Hừ! Chắc ngươi cũng cỉ là lũ tay sai mà thôi. Ta không việc gì phải nhiều lời với ngươi nữa, xin cáo từ!
+story_menu_5750=<font face="Default" color="#8fd6ef" >(Những người này rất có bản lĩnh, họ có lai lịch như thế nào?)</font>
+story_menu_5751=<font face="Default" color="#ffffff" >Không biết hiện tại việc đó đã có tiến triển gì không?</font>
+story_menu_5752=<font face="Default" color="#ffffff" >Tranh chấp chuyện xưa</font>
+story_menu_5753=<font face="Default" color="#ffffff" >Đầu đuôi tin đồn</font>
+story_menu_5754=<font face="Default" color="#ffffff" >Kim Lăng Thư Viện</font>
+story_menu_5755=Dám hỏi cô nương giờ ta thế nào rồi?
+story_menu_5756=Các hạ đang ba hoa khoác lác ở đây, không biết các hạ có gì bất mãn với đương kim thánh thượng không?
+storyinfo_5750=Trò chuyện với <a href="findnpc_new,city03,jltq_qz_003" style="HLStype1">Lý Mộc Tử</a>
+storyinfo_5751=Nghe <a href="findnpc,city03,1469,15,1365" style="HLStype1">Thanh Hư Đạo Nhân</a> kể chuyện
+storyinfo_5752=Nghe <a href="findnpc_new,city03,jltq_qz_xmz03" style="HLStype1">Từ Diệu Chân</a> kể chuyện
+storyinfo_5753=Nghe <a href="findnpc_new,city03,jltq_qz_ss" style="HLStype1">Thư Sinh</a> kể chuyện
+storyinfo_5754=Nghe <a href="findnpc,city03,1249,0,1447" style="HLStype1">Từ Diệu Chân</a> kể chuyện
+storyinfo_5755=Trò chuyện với <a href="findnpc,city03,1249,0,1447" style="HLStype1">Từ Diệu Chân</a>
+storyinfo_5756=Xem xem tên <a href="findnpc_new,city03,jltq_qz_002" style="HLStype1">Thạch Thiên Lỗi</a> đang kể chuyện gì
+storymenu_5750_1=<font face="Default" color="#ffffff" >Ta cũng là nhận ủy thác của người ta, hay là việc này có nội tình</font><font face="Default" color="#ffffff" >?</font>
+storymenu_5750_2=<font face="Default" color="#ffffff" >Điều này tính ra cũng là việc của nữ nhi, sao lại làm nhiều người giận dữ như vậy?</font>
+storymenu_5750_3=<font face="Default" color="#ffffff" >Hèn gì gần đây khắp nơi đều không được yên bình...</font>
+storymenu_5750_4=Hóa ra là vậy, ta và các nữ nhi giang hồ, nguyện góp chút sức lực.
+storymenu_5751_1=<font face="Default" color="#ffffff" >Tại hạ nhất định sẽ lưu ý. Đạo trưởng còn dặn dò gì không?</font>
+storymenu_5752_1=<font face="Default" color="#ffffff" >Cô nương không cần phải áy náy</font><font face="Default" color="#ffffff" >.</font> <font face="Default" color="#ffffff" >Không biết nguyên nhân hậu quả này, Cô Nương đã tra ra chưa?</font>
+storymenu_5752_2=<font face="Default" color="#ffffff" >Tưởng tượng lúc thế lực người này mạnh lên, e là Từ Quốc Công cũng không dễ dàng ngăn cản được.</font>
+storymenu_5752_3=<font face="Default" color="#ffffff" >Không ngờ</font> chuyện <font face="Default" color="#ffffff" >Lăng Vân Ngọc Kinh Lịch</font> <font face="Default" color="#ffffff" >lại thê thảm như vậy.</font>
+storymenu_5752_4=<font face="Default" color="#ffffff" >Cô nương nói chí phải!</font> <font face="Default" color="#8fd6ef" >(Có vẻ như cô ta là Từ Diệu Cẩm năm xưa trước khi xuất gia...) </font>
+storymenu_5752_5=<font face="Default" color="#ffffff" >Đúng là như vậy.</font><font face="Default" color="#ffffff" >Đúng là như vậy.</font>
+storymenu_5753_1=<font face="Default" color="#ffffff" >Giữa ban ngày ban mặt, sao dám buông lời đồn nhảm, mê hoặc dân chúng, nhanh khai ra!</font>
+storymenu_5753_2=<font face="Default" color="#8fd6ef" >(Xem ra đã đến lúc tụ họp với Từ cô nương rồi…..)</font>
+storymenu_5754_1=<font face="Default" color="#ffffff" >Vậy thế nào mới tốt đây?</font>
+storymenu_5754_2=<font face="Default" color="#ffffff" >Nếu chúng ta có thể giải độc cho bọn họ</font> <font face="Default" color="#ffffff" >thì</font> <font face="Default" color="#ffffff" >tốt rồi.</font>
+storymenu_5754_3=<font face="Default" color="#ffffff" >Tốt quá, vậy là chúng ta có thể vào Kim Lăng Thư Viện.</font>
+storymenu_5754_4=<font face="Default" color="#ffffff" >Tại hạ đã biết rồi.</font>
+storymenu_5755_1=Độc này có thuốc giải sao?
+storymenu_5755_2=Nhưng đám người này võ nghệ cao cường, 1 mình ta đi e rằng sẽ trở về tay không.
+storymenu_5756_1=Chắc hẳn các hạ biết rất nhiều, xin hãy nói rõ.
+storymenu_5756_2=Cái này... Đương kim thánh thượng hiền đức, sao có thể hành sự như vậy?
+storymenu_5756_3=Nếu quả thật như vậy, bệ hạ quả khiến người khác khinh thường!
+storymenu_5756_4=<font face="Default" color="#8fd6ef" >(Người này hành tung khả nghi, chi bằng lén theo dõi, xem hắn có âm mưu gì)</font>
+useiteminfo_5750=Đem <a href="TASK_ITEM,items_jltq_wensh" style="HLStype1">Văn Thư</a> ghi chép tội trạng của Chu Đệ sử dụng trong thành Kim Lăng với <a href="findnpc_new,city03,EventNpc_jltq_013" style="HLStype1">Thị Tỉnh Bách Tính</a>
+SubmitNpcEx_43958=Tìm Ngải Hiểu Phong nhận Lễ Đản Lễ Hạp
+DialogID_5777=<font face="Default" color="#ffffff" >Giúp chính nghĩa Võ Lâm, nghĩa vụ không thể chối từ.</font>
+DialogID_5778=<font face="Default" color="#ffffff" >Giúp chính nghĩa Võ Lâm, nghĩa vụ không thể chối từ.</font>
+DialogID_5779=<font face="Default" color="#ffffff" >Giúp chính nghĩa Võ Lâm, nghĩa vụ không thể chối từ.</font>
+DialogID_5780=<font face="Default" color="#ffffff" >Giúp chính nghĩa Võ Lâm, nghĩa vụ không thể chối từ.</font>
+DialogID_5781=<font face="Default" color="#ffffff" >Chúng ta chỉ làm việc mà chúng ta cảm thấy đúng.</font>
+DialogID_5782=<font face="Default" color="#ffffff" >Chỉ cần Đường Môn không sao, ta yên tâm rồi.</font>
+DialogID_5783=<font face="Default" color="#ffffff" >Ta biết rồi, nếu không muốn ngồi tù, ngươi có thể đi rồi.</font>
+DialogID_5784=<font face="Default" color="#ffffff" >Hừ! Danh môn chính phái, chỉ toàn làm bộ mà thôi.</font>
+DialogID_5796=<font face="Default" color="#ffffff" >Chân tay nhanh nhẹn mà. Haha!!</font>
+SubmitNpcEx_43953=Tìm Tiền Phú Quý phục mệnh
+SubmitNpcEx_43954=Tìm Tiền Phú Quý phục mệnh
+SubmitNpcEx_43955=Tìm Tiền Phú Quý phục mệnh
+SubmitNpcEx_43956=Đòi Tiền Phú Quý thưởng đi
+interactinfo_5777=Trò chuyện cùng <a href="findnpc_new,school06,WorldNpc02604" style="HLStype1">Tuyệt Trần Sư Thái</a>Trò chuyện cùng <a href="findnpc_new,school06,WorldNpc02604" style="HLStype1">Tuyệt Trần Sư Thái</a>Trò chuyện với <a href="findnpc_new,school06,WorldNpc02604" style="HLStype1">Tuyệt Trần Sư Thái</a>
+interactinfo_5778=Trò chuyện cùng <a href="findnpc_new,school08,WorldNpc00212" style="HLStype1">Huyền Hoài Đại Sư</a>
+interactinfo_5779=Trò chuyện cùng <a href="findnpc_new,school07,WorldNpc04401" style="HLStype1">Tử Dương Chân Nhân</a>Trò chuyện với <a href="findnpc_new,school07,WorldNpc04401" style="HLStype1">Tử Dương Chân Nhân</a>
+interactinfo_5780=Trò chuyện cùng <a href="findnpc_new,school02,WorldNpc03003" style="HLStype1">Tiêu Thiên Phóng</a>
+interactinfo_5781=Trò chuyện cùng <a href="findnpc_new,school03,WorldNpc03305" style="HLStype1">Tiêu Biệt Tình</a>
+interactinfo_5782=Trò chuyện cùng <a href="findnpc_new,school05,WorldNpc02203" style="HLStype1">Đường Thiên Hành</a>
+interactinfo_5784=Trò chuyện cùng <a href="findnpc_new,school04,WorldNpc03816" style="HLStype1">Đơn Thiên Minh</a>
+interactinfo_5796=Giúp <a href="findnpc_new,,operation_manage" style="HLStype1">Tiền Phú Quý</a> thu thập đủ nguyên liệu cần, sau đó tìm hắn nhận thưởng.
+okmenu_5777=<font face="Default" color="#ffffff" >Cảm ơn những cống hiến của sư thái cho võ lâm</font>
+okmenu_5778=<font face="Default" color="#ffffff" >Cảm ơn những cống hiến của đại sư cho võ lâm</font>
+okmenu_5779=<font face="Default" color="#ffffff" >Cảm ơn những cống hiến của chân nhân cho võ lâm</font>
+okmenu_5780=<font face="Default" color="#ffffff" >Cảm ơn những cống hiến của chưởng môn cho võ lâm</font>
+okmenu_5781=<font face="Default" color="#ffffff" >Cảm ơn chưởng môn đã cống hiến cho võ lâm</font>
+okmenu_5782=<font face="Default" color="#ffffff" >Cảm ơn chưởng môn đã cống hiến cho võ lâm</font>
+okmenu_5783=<font face="Default" color="#ffffff" >Tại hạ là nhận sự ủy thác của người khác, đặc biệt đến bái kiến trưởng môn.</font>
+okmenu_5784=<font face="Default" color="#ffffff" >Tại hạ là nhận sự ủy thác của người khác, đặc biệt đến bái kiến trưởng môn.</font>
+okmenu_5796=<font face="Default" color="#ffffff" >Đây là nguyên liệu ngươi cần, ta giúp ngươi thu thập về rồi.</font>
+SubmitNpcEx_43783=Tìm <a href="findnpc_new,city02,hd_YYrenwu_npc001" style="HLStype1">An Thái Diễm</a> trả nhiệm vụ
+SubmitNpcEx_43785=Tìm sư huynh nội công 5, hoàn thành nhiệm vụ
+SubmitNpcEx_43786=Tìm sư huynh nội công 5, hoàn thành nhiệm vụ
+SubmitNpcEx_43787=Tìm sư huynh nội công 5, hoàn thành nhiệm vụ
+SubmitNpcEx_43788=Tìm sư huynh nội công 5, hoàn thành nhiệm vụ
+collectinfo_5767=Thu thập Dương Bì Tàn Phiến
+hunterinfo_5756=Tìm <a href="findnpc_new,city02,EventNpc_hd_yyrenwu_01" style="HLStype1">Ẩn sĩ giang hồ</a> thỉnh giáo thân thủ
+hunterinfo_5757=Tìm <a href="findnpc_new,city02,EventNpc_hd_yyrenwu_01" style="HLStype1">Ẩn sĩ giang hồ</a> thỉnh giáo thân thủ
+hunterinfo_5758=Tìm <a href="findnpc_new,city02,EventNpc_hd_yyrenwu_01" style="HLStype1">Ẩn sĩ giang hồ</a> thỉnh giáo thân thủ
+hunterinfo_5759=Tìm <a href="findnpc_new,city02,EventNpc_hd_yyrenwu_01" style="HLStype1">Ẩn sĩ giang hồ</a> thỉnh giáo thân thủ
+hunterinfo_5760=Tìm <a href="findnpc_new,city02,EventNpc_hd_yyrenwu_01" style="HLStype1">Ẩn sĩ giang hồ</a> thỉnh giáo thân thủ
+specialinfo_1058=Vượt ải Mộ Sắc Thôn (Độ khó không giới hạn)
+specialinfo_1059=Khiêu chiến Ác Hổ Sơn Trại
+SubmitNpcEx_43790=Ở các thành lớn tìm Đại Sứ Sự Kiện Lâm Lương trả nhiệm vụ
+collectinfo_5768=Thu thập chữ "Cửu"
+collectinfo_5769=Thu thập chữ "Âm"
+collectinfo_5770=Thu thập chữ "Chân"
+collectinfo_5771=Thu thập chữ "Kinh"
+collectinfo_5772=Thu thập chữ “Hiệp”
+collectinfo_5773=Thu thập chữ “Khách”
+collectinfo_5774=Thu thập chữ “Hành”
+DialogID_5797=<font face="Default" color="#ffffff" >Thiếu hiệp khiêm tốn rồi, Bái Thiếp này ta nhận, sau này hằng năm trời thu trong xanh, đến chỗ ta uống Rượu Hoa Cúc nhé.</font>
+DialogID_5799=<font face="Default" color="#ffffff" >Chàng trai, xem ngươi nhiệt tình như vậy, Phù Du này tặng ngươi nhé.</font>
+DialogID_5800=<font face="Default" color="#ffffff" >Đem những hạt giống này trồng xong, lấy đồ trồng được đưa cho ta!</font>
+DialogID_5801=<font face="Default" color="#ffffff" >Hạt giống đã thu hoạch rồi? Thật quá tốt rồi</font><font face="Default" color="#ffffff" >!</font>
+DialogID_5802=<font face="Default" color="#ffffff" >Đem những hạt giống này trồng xong, lấy đồ trồng được đưa cho ta!</font>
+DialogID_5803=<font face="Default" color="#ffffff" >Hạt giống đã thu hoạch rồi? Thật quá tốt rồi!</font>
+SubmitNpcEx_43791=Đến chỗ đại đồ đệ của Dịch Dung Đại Sư ở chỗ Thợ May Thần Bí trả nhiệm vụ
+SubmitNpcEx_43792=Đến chỗ đại đồ đệ của Dịch Dung Đại Sư ở chỗ Thợ May Thần Bí trả nhiệm vụ
+SubmitNpcEx_43795=Tìm Tư Nghệ Lão Nhân trả nhiệm vụ
+SubmitNpcEx_43796=Tìm Tư Nghệ Lão Nhân trả nhiệm vụ
+SubmitNpcEx_43797=Tìm Tư Nghệ Lão Nhân trả nhiệm vụ
+SubmitNpcEx_43798=Tìm Tư Nghệ Lão Nhân trả nhiệm vụ
+SubmitNpcEx_43799=Nhiệm vụ có thể trả ở chỗ Đại Sứ Sự Kiện Lễ Tết của các thành thị
+SubmitNpcEx_43815=Tìm Âu La Ba trả nhiệm vụ
+SubmitNpcEx_43816=Tìm <a href="findnpc_new,school01,ActivityNpc001" style="HLStype1">Tiền Thông</a> nhận đền bù
+SubmitNpcEx_43817=Tìm <a href="findnpc_new,school01,ActivityNpc001" style="HLStype1">Tiền Thông</a> nhận đền bù
+SubmitNpcEx_43818=Tìm Lâm Lương trả nhiệm vụ
+SubmitNpcEx_43819=Tìm Lâm Lương trả nhiệm vụ
+SubmitNpcEx_43820=Tìm Thần Húc Quốc trả nhiệm vụ
+SubmitNpcEx_43821=Tìm Hoa Ngữ Phu Nhân trả nhiệm vụTìm Hoa Ngữ phu nhân trả nhiệm vụ
+ZZAnswerText1_6800=Quảng Nam
+ZZAnswerText1_6801=Trần
+ZZAnswerText1_6802=2 cách
+ZZAnswerText1_6803=La-ha-ba-na
+ZZAnswerText1_6804=Năm 1709
+ZZAnswerText1_6805=Cầu thủ
+ZZAnswerText1_6806=Bồ Tùng Linh
+ZZAnswerText1_6807=ThânMễ Phất
+ZZAnswerText1_6808=Lan Đình Tự
+ZZAnswerText1_6809=Đặng
+ZZAnswerText1_6810=Răng trên
+ZZAnswerText1_6811=Cao Sơn Lưu Thủy
+ZZAnswerText1_6812=Mẹ cho con bú
+ZZAnswerText1_6813=Đới Đao Hộ Vệ
+ZZAnswerText1_6814=Miệng
+ZZAnswerText1_6815=Tám
+ZZAnswerText1_6816=Sáo Trúc
+ZZAnswerText1_6817=Con dốc
+ZZAnswerText1_6818=Đua xe đạp
+ZZAnswerText1_6819=Con rết đau chân
+ZZAnswerText1_6820=Sherlock Holmes
+ZZAnswerText1_6821=Sherlock Holmes
+ZZAnswerText1_6822=Sherlock Holmes
+ZZAnswerText1_6823=Cung đình
+ZZAnswerText1_6824=Tám nốt
+ZZAnswerText1_6825=Tám nốt
+ZZAnswerText1_6826=Đông Timo
+ZZAnswerText1_6827=Ulaanbaatar
+ZZAnswerText1_6828=Uống sữa bò
+ZZAnswerText1_6829=Bốn cái
+ZZAnswerText1_6830=Hơn 4000 độ C
+ZZAnswerText1_6831=Cố Khải Chi
+ZZAnswerText1_6832=Cố Khải Chi
+ZZAnswerText1_6833=Cuốc
+ZZAnswerText1_6834=Danh
+ZZAnswerText1_6835=Thái Bình Dương
+ZZAnswerText1_6836=Cố Khải Chi
+ZZAnswerText1_6837=Đến bệnh viện
+ZZAnswerText1_6838=Năm 1990
+ZZAnswerText1_6839=Tên
+ZZAnswerText2_6800=Đà Nẵng
+ZZAnswerText2_6801=Trương Húc
+ZZAnswerText2_6802=3 cách
+ZZAnswerText2_6803=Bangkok
+ZZAnswerText2_6804=Năm 1990
+ZZAnswerText2_6805=Cầu gỗ
+ZZAnswerText2_6806=Trương Húc
+ZZAnswerText2_6807=GốcHoàng Đình Kiên
+ZZAnswerText2_6808=Cá vàng
+ZZAnswerText2_6809=Nguyễn
+ZZAnswerText2_6810=Răng dưới
+ZZAnswerText2_6811=Lượng
+ZZAnswerText2_6812=Nhồi bột
+ZZAnswerText2_6813=Họ là giám đốc
+ZZAnswerText2_6814=Nương tử
+ZZAnswerText2_6815=Nương tử
+ZZAnswerText2_6816=Nhanh
+ZZAnswerText2_6817=Con người
+ZZAnswerText2_6818=Nhảy xa
+ZZAnswerText2_6819=Con giun đau đầu
+ZZAnswerText2_6820=Spiderman
+ZZAnswerText2_6821=Spiderman
+ZZAnswerText2_6822=Hoa hồng
+ZZAnswerText2_6823=Chùa
+ZZAnswerText2_6824=Chín nốt
+ZZAnswerText2_6825=Núi Phú Sĩ
+ZZAnswerText2_6826=Brunei
+ZZAnswerText2_6827=Không có thủ đô
+ZZAnswerText2_6828=Uống can xi
+ZZAnswerText2_6829=Không cái nào
+ZZAnswerText2_6830=3800 độ C
+ZZAnswerText2_6831=Ngô Đạo Tử
+ZZAnswerText2_6832=Ngô Đạo Tử
+ZZAnswerText2_6833=Cành
+ZZAnswerText2_6834=Bụng
+ZZAnswerText2_6835=Bụng
+ZZAnswerText2_6836=Đổi diễn viên
+ZZAnswerText2_6837=Thái Vi Đồ
+ZZAnswerText2_6838=Nương tử
+ZZAnswerText2_6839=Tô Thức
+collectinfo_5775=Thu thập Hoa Cúc
+SubmitNpcEx_43828=Đến chỗ đại sứ Lâm Lương của sự kiện lễ tết ở tiền trang các thành chủ lớn nhận thưởng
+SubmitNpcEx_43829=Đến chỗ đại sứ Lâm Lương của sự kiện lễ tết ở tiền trang các thành chủ lớn nhận thưởng
+SubmitNpcEx_43830=Đến chỗ đại sứ Lâm Lương của sự kiện lễ tết ở tiền trang các thành chủ lớn nhận thưởng
+SubmitNpcEx_43831=Đến chỗ đại sứ Lâm Lương của sự kiện lễ tết ở tiền trang các thành chủ lớn nhận thưởng
+SubmitNpcEx_43832=Đến chỗ đại sứ Lâm Lương của sự kiện lễ tết ở tiền trang các thành chủ lớn nhận thưởng
+SubmitNpcEx_43833=Đến chỗ đại sứ Lâm Lương của sự kiện lễ tết ở tiền trang các thành chủ lớn nhận thưởng
+SubmitNpcEx_43834=Đến chỗ đại sứ Lâm Lương của sự kiện lễ tết ở tiền trang các thành chủ lớn nhận thưởng
+interactinfo_5797=Thăm Tư Nghệ Lão Nhân, đem Trùng Dương Bái Thiếp giao cho Tư Nghệ Lão Nhân
+interactinfo_5798=Cùng <a href="findnpc_new,,hd_gq2014_001" style="HLStype1">Tư Nghệ Lão Nhân</a> trò chuyệnNpcId=Tư Nghệ Lão NhânGetItems=item_gq2014_003-1
+interactinfo_5799=Tìm Thương Nhân Dược Thảo gần đây, đánh dẹp Phù Du
+interactinfo_5800=Trò chuyện với Thần Húc Quốc
+interactinfo_5801=Thu thập 9 Hoa Bách Hợp và trò chuyện với Thần Húc Quốc
+interactinfo_5802=Trò chuyện với Hoa Ngữ Phu Nhân
+interactinfo_5803=Thu thập 9 Hoa Hồng Tình Nhân và trò chuyện với Hoa Ngữ Phu Nhân
+maintext_6800=Tỉnh nào có 2 di sản văn hóa thế giới?
+maintext_6801=Trong Tây Du Ký Đường Tăng có họ là gì
+maintext_6802=Có mấy cách phân tích tỷ giá hối đoái?
+maintext_6803=Thủ đô Cuba là?
+maintext_6804=Đàn Piano được phát minh vào năm nào?
+maintext_6805=Cầu gì biết đi?
+maintext_6806=Ai là tác giả truyện Liêu trai chí dị
+maintext_6807=Củ khoai tây là
+maintext_6808=Cá gì có 4 màu?
+maintext_6809=Thi Sách họ gì?
+maintext_6810=Ngà của voi là:
+maintext_6811=Đơn vị tiền tệ của Lào có tên là gì?
+maintext_6812=Tay nắn nắn, tay vỗ mông. Hỏi đang làm gì?
+maintext_6813=Tại sao có những người đi taxi nhưng sao họ lại không bao giờ trả tiền?
+maintext_6814=Vua gọi hoàng hậu bằng gì?
+maintext_6815=Chữ nào trong tiếng Việt có 12 chữ "m"?
+maintext_6816=Chữ nào trong tiếng Việt có 9 chữ "h"?
+maintext_6817=Con gì đầu dê mình ốc?
+maintext_6818=Môn gì càng thắng càng thua?
+maintext_6819=Con gì còn đau khổ hơn hươu cao cổ bị viêm họng?
+maintext_6820=Ai là thám tử?
+maintext_6821=Vịt nào đi bằng 2 chân?
+maintext_6822=Hoa gì biết nói?
+maintext_6823=Bệnh viện cổ xưa nhất được xây ở đâu?
+maintext_6824=Có mấy loại nốt cơ bản trong âm nhạc?
+maintext_6825=Dãy núi có mực nước biển cao nhất là?
+maintext_6826=Quốc gia trẻ nhất khu vực Đông Nam Á?
+maintext_6827=Bạn cho biết tên thủ đô của Mông Cổ?
+maintext_6828=Cách nào bổ sung canxi hiệu quả nhất?
+maintext_6829=Tim người có mấy tâm nhĩ và tâm thất?
+maintext_6830=Nhiệt độ ở tâm trái đất là bao nhiêu?
+maintext_6831=Quốc gia nào được gọi là Xứ Sở Vàng?
+maintext_6832=Máu người có độ pH khoảng bao nhiêu?
+maintext_6833=Tìm chữ nào chứa được đến 4 con vật?
+maintext_6834=Tốt … hơn lành áo
+maintext_6835=Đảo Tahiti ở đâu?
+maintext_6836=Khi nào hài kịch trở thành bi kịch?
+maintext_6837=Nếu có một đôi cánh, bạn sẽ làm gì?
+maintext_6838=Bạn có biết www ra đời vào năm nào?
+maintext_6839=Cái gì của mình nhưng người khác lại dùng nhiều hơn?
+okmenu_5797=<font face="Default" color="#ffffff" >Đa tạ lão nhân.</font>
+okmenu_5799=<font face="Default" color="#ffffff" >Đa tạ ngài.</font>
+okmenu_5800=<font face="Default" color="#ffffff" >Được!</font><font face="Default" color="#ffffff" >Được!</font>
+okmenu_5801=<font face="Default" color="#ffffff" >Vâng</font><font face="Default" color="#ffffff" >!</font>
+okmenu_5802=<font face="Default" color="#ffffff" >Được!</font><font face="Default" color="#ffffff" >Được!</font>
+okmenu_5803=<font face="Default" color="#ffffff" >Vâng!</font><font face="Default" color="#ffffff" >Đúng vậy!</font>
+quest_menu_5788=<font face="Default" color="#ffffff" >Ngươi cứ hỏi đi</font>
+quest_menu_5789=<font face="Default" color="#ffffff" >Ngươi cứ hỏi đi</font>
+quest_menu_5790=<font face="Default" color="#ffffff" >Ngươi cứ hỏi đi</font>
+quest_menu_5792=<font face="Default" color="#ffffff" >Ngươi cứ hỏi đi</font>
+quest_menu_5793=<font face="Default" color="#ffffff" >Ngươi cứ hỏi đi</font>
+quest_menu_5794=<font face="Default" color="#ffffff" >Ngươi cứ hỏi đi</font>
+quest_menu_5795=<font face="Default" color="#ffffff" >Ngươi cứ hỏi đi</font>
+quest_menu_5796=<font face="Default" color="#ffffff" >Ngươi cứ hỏi đi</font>
+questioninfo_5788=Trả lời vấn đề của Tư Nghệ Lão Nhân
+questioninfo_5789=Trả lời vấn đề của Tư Nghệ Lão Nhân
+questioninfo_5790=Trả lời vấn đề của Tư Nghệ Lão Nhân
+questioninfo_5792=Trả lời vấn đề của Tư Nghệ Lão Nhân
+questioninfo_5793=Trả lời vấn đề của Tư Nghệ Lão Nhân
+questioninfo_5794=Trả lời vấn đề của Tư Nghệ Lão Nhân
+questioninfo_5795=Trả lời vấn đề của Tư Nghệ Lão Nhân
+questioninfo_5796=Trả lời vấn đề của Tư Nghệ Lão Nhân
+specialinfo_1096=Hoàn thành 2 lần thí luyện Tâm Ma
+specialinfo_1097=Tiến độ thụ nghiệp sư môn đạt 100%
+specialinfo_1098=Hoàn thành 1 lần luyện nhóm và độ mệt mỏi đạt 100%
+specialinfo_1101=Thông quan 1 lần cấm địa độ khó bất kỳ
+SubmitNpcEx_43822=Tìm Lâm Lương trả nhiệm vụ
+SubmitNpcEx_43823=Tìm Lâm Lương trả nhiệm vụ
+SubmitNpcEx_43824=Tìm Lâm Lương trả nhiệm vụ
+SubmitNpcEx_43825=Tìm Lâm Lương trả nhiệm vụ
+SubmitNpcEx_43826=Tìm Lâm Lương trả nhiệm vụ
+SubmitNpcEx_43835=Đến chỗ đại sứ Lâm Lương của sự kiện lễ tết ở tiền trang các thành chủ lớn nhận thưởng
+SubmitNpcEx_43836=Đến chỗ đại sứ Lâm Lương của sự kiện lễ tết ở tiền trang các thành chủ lớn nhận thưởng
+SubmitNpcEx_43837=Đến chỗ đại sứ Lâm Lương của sự kiện lễ tết ở tiền trang các thành chủ lớn nhận thưởng
+SubmitNpcEx_43838=Đến chỗ đại sứ Lâm Lương của sự kiện lễ tết ở tiền trang các thành chủ lớn nhận thưởng
+SubmitNpcEx_43839=Đến chỗ đại sứ Lâm Lương của sự kiện lễ tết ở tiền trang các thành chủ lớn nhận thưởng
+SubmitNpcEx_43840=Đến chỗ đại sứ Lâm Lương của sự kiện lễ tết ở tiền trang các thành chủ lớn nhận thưởng
+SubmitNpcEx_43841=Đến chỗ đại sứ Lâm Lương của sự kiện lễ tết ở tiền trang các thành chủ lớn nhận thưởng
+SubmitNpcEx_43842=Đến chỗ đại sứ Lâm Lương của sự kiện lễ tết ở tiền trang các thành chủ lớn nhận thưởng
+SubmitNpcEx_43843=Đến chỗ đại sứ Lâm Lương của sự kiện lễ tết ở tiền trang các thành chủ lớn nhận thưởng
+specialinfo_1104=Hoàn thành 1 lần do thám (Do thám điện thoại không có hiệu quả)
+specialinfo_1105=Hoàn thành 1 lần Đoạt Thư
+specialinfo_1106=Hoàn thành 1 lần cấm địa
+specialinfo_1107=Hoàn thành 1 lần Môn Phái Chiến
+specialinfo_1108=Tiến độ thụ nghiệp sư môn đạt 100%
+specialinfo_1109=Đánh bại 1 thế lực
+SubmitNpcEx_43845=Tìm Lâm Lương trả nhiệm vụ
+SubmitNpcEx_43846=Tìm Lễ bái đại thần trả nhiệm vụ
+useiteminfo_5753=Nhanh đến phụ cận Kim Lăng (2011,1418) tế bái
+useiteminfo_5754=Mau đến Kim Lăng gần (2173, 956) để bái tế
+useiteminfo_5755=Mau đến Kim Lăng gần (2018, 491) để bái tế
+useiteminfo_5756=Mau đến Kim Lăng gần (1714, 77) để bái tế
+SubmitNpcEx_43863=Đến các nơi tìm Đại Sứ SK Lâm Lương trả nhiệm vụ
+SubmitNpcEx_43862=<a href="findnpc,,450.93,," style="HLStype1"></a><a href="findnpc,city02,450,0.56,774" style="HLStype1">Đại Sứ SK Rung Chuông Tết</a>
+DialogID_5815=<font face="Default" color="#ffffff" >Thông qua Phiếu Rung Chuông trong thưởng sự kiện có được để tiến hành rung chuông</font>
+interactinfo_5815=Gặp <a href="findnpc,city02,450,0.56,774" style="HLStype1">Đại Sứ SK Rung Chuông Tết</a> nói chuyện
+okmenu_5815=<font face="Default" color="#ffffff" >Được</font>
+DialogID_5816=<font face="Default" color="#ffffff" >Về việc câu đối hãy tha thứ lão phu không giúp được gì cho thiếu hiệp, đa số câu đối trong thành đều là thư viện Triêu Tiên Sinh cho, thiếu hiệp có thể đến đó xin lấy.</font>
+DialogID_5817=<font face="Default" color="#ffffff" >Thiếu hiệp tìm lão phu có việc gì không?</font>
+DialogID_5818=<font face="Default" color="#ffffff" >Tập tục thỉnh Môn Thần thật ra là… Ơ, tên ác đồ lại đến gây sự</font>
+DialogID_5819=<font face="Default" color="#ffffff" >Lại là ác đồ này, tết rồi vẫn còn đến gây sự, đáng ghét thật. Đa tạ thiếu hiệp ra tay đánh bại bọn ác đồ.</font>
+DialogID_5820=<font face="Default" color="#ffffff" >Thiếu hiệp, giúp ta </font><font face="Default" color="#ffffff" > trồng một ít nông sản.</font>
+DialogID_5821=<font face="Default" color="#ffffff" >Tết đến rồi mà vẫn còn chút hàng tết chưa mua được, thiếu hiệp hãy đi mua giúp ta.</font>
+DialogID_5822=<font face="Default" color="#ffffff" >Tết đến rồi , huynh đệ mời tụ họp gặp gỡ, vậy ta nhất định phải đi</font>
+DialogID_5823=<font face="Default" color="#ffffff" >Tết đến rồi , huynh đệ mời tụ họp gặp gỡ, vậy ta nhất định phải đi</font>
+DialogID_5824=<font face="Default" color="#ffffff" >Tết đến rồi , huynh đệ mời tụ họp gặp gỡ, vậy ta nhất định phải đi</font>
+DialogID_5825=<font face="Default" color="#ffffff" >Đến Thành Môn, gặp Kiều Thi Vận và Chu Tiên Sinh để lấy nguyên liệu cần chế tạo, sau đó đi tìm Tiêu Tư Linh chế tạo</font>
+DialogID_5826=<font face="Default" color="#ffffff" > cho </font><font face="Default" color="#ffffff" >, </font><font face="Default" color="#ffffff" >đây là nguyên liệu ngươi cần!</font>
+DialogID_5827=<font face="Default" color="#ffffff" > cho </font><font face="Default" color="#ffffff" >, </font><font face="Default" color="#ffffff" >đây là nguyên liệu ngươi cần!</font>
+DialogID_5828=<font face="Default" color="#ffffff" >Lấy nguyên liệu đã thu thập giao cho ta, ta sẽ làm giúp ngươi.</font>
+DialogID_5829=<font face="Default" color="#ffffff" >Lì Xì, thật à? Cảm ơn</font>
+DialogID_5830=<font face="Default" color="#ffffff" >Lì Xì, thật à? Cảm ơn</font>
+DialogID_5831=<font face="Default" color="#ffffff" >Lì Xì, thật à? Cảm ơn</font>
+DialogID_5832=<font face="Default" color="#ffffff" >Lì Xì, thật à? Cảm ơn</font>
+DialogID_5833=<font face="Default" color="#ffffff" >Bái tế tổ tiên là chuyện lớn, không được sơ xài, ta đây vẫn thiếu vài món nguyên liệu, thiếu hiệp hãy đi tìm giúp ta?</font>
+DialogID_5834=<font face="Default" color="#ffffff" >Tết đến rồi, nhân lời chúc tốt lành của thiếu hiệp, Võ Đang đệ tử sẽ cố gắng tu hành.</font>
+DialogID_5835=<font face="Default" color="#ffffff" >Tết đến rồi, nhân lời chúc tốt lành của thiếu hiệp, </font><font face="Default" color="#ffffff" >Đường Môn</font><font face="Default" color="#ffffff" > đệ tử sẽ cố gắng tu hành.</font>
+DialogID_5836=<font face="Default" color="#ffffff" >Tết đến rồi, nhân lời chúc tốt lành của thiếu hiệp, </font><font face="Default" color="#ffffff" >Quân Tử Đường</font><font face="Default" color="#ffffff" > đệ tử sẽ cố gắng tu hành.</font>
+DialogID_5837=<font face="Default" color="#ffffff" >Tết đến rồi, nhân lời chúc tốt lành của thiếu hiệp, </font><font face="Default" color="#ffffff" >Cái Bang</font><font face="Default" color="#ffffff" > đệ tử sẽ cố gắng tu hành.</font>
+DialogID_5838=<font face="Default" color="#ffffff" >Tết đến rồi, nhân lời chúc tốt lành của thiếu hiệp, </font><font face="Default" color="#ffffff" >Nga My</font><font face="Default" color="#ffffff" > đệ tử sẽ cố gắng tu hành.</font>
+DialogID_5839=<font face="Default" color="#ffffff" >Dạo này lão phu cơ duyên tìm hiểu được ở Thành Môn chỗ nào đó có xuất hiện dị bảo, thiếu hiệp có thể đến khảo sát.</font>
+DialogID_5840=<font face="Default" color="#ffffff" >Tế Đài đã chuẩn bị ổn thỏa, ngươi tạm tự đến bái tế.</font>
+SubmitNpcEx_43865=Lấy kết quả kiểm nghiệm nói với <a href="findnpc_new,city05,hd_bdn_01" style="HLStype1">Tư Đồ Yến</a>
+SubmitNpcEx_43866=Gặp <a href="findnpc_new,city05,hd_bdn_cl_01" style="HLStype1">Triệu Tiên Sinh</a> trò truyện
+SubmitNpcEx_43867=Gặp <a href="findnpc_new,city05,hd_bdn_01" style="HLStype1">Tư Đồ Yến</a> trò truyện
+SubmitNpcEx_43869=Lấy trồng trọt đã thu hoạch giao cho <a href="findnpc_new,city05,hd_bdn_01" style="HLStype1">Tư Đồ Yến</a>
+SubmitNpcEx_43870=Lấy thực phẩm đã thu thập giao cho <a href="findnpc_new,city05,hd_bdn_01" style="HLStype1">Tư Đồ Yến</a>
+SubmitNpcEx_43872=Quay về Cảm ơn <a href="findnpc_new,city05,hd_bdn_01" style="HLStype1">Tư Đồ Yến</a>
+SubmitNpcEx_43874=Gặp <a href="findnpc_new,city05,hd_bdn_js" style="HLStype1">Triệu Bá</a> trò truyện
+SubmitNpcEx_43875=Quay về báo Tiệc Pháo Hoa với <a href="findnpc_new,city05,hd_bdn_01" style="HLStype1">Tư Đồ Yến</a>
+SubmitNpcEx_43877=Về đến <a href="findnpc_new,city05,hd_bdn_01" style="HLStype1">Tư Đồ Yến</a>, cảm tạ Tư Đồ Lão Nhân
+ZZAnswerText1_2972=Quả chuông
+ZZAnswerText1_2973=Quả đất
+ZZAnswerText1_2974=Con ruồi
+ZZAnswerText2_2972=Quả tạ
+ZZAnswerText2_2973=Quả quýt
+ZZAnswerText2_2974=Con ve
+collectinfo_5780=Trồng vài "Cà Chua" (Đến chỗ Nông Phu mua hạt giống để trồng có được, hoặc mua tại Giao Dịch Đại Minh)
+collectinfo_5781=Trồng vài "Măng Đông" (Đến chỗ Nông Phu mua hạt giống để trồng có được, hoặc mua tại Giao Dịch Đại Minh)
+collectinfo_5782=Trồng vài "Bột Tể" (Đến chỗ Nông Phu mua hạt giống để trồng có được, hoặc mua tại Giao Dịch Đại Minh)
+collectinfo_5783=Trồng vài "Cải Trắng" (Đến chỗ Nông Phu mua hạt giống để trồng có được, hoặc mua tại Giao Dịch Đại Minh)
+collectinfo_5784=Thu thập "Thịt Heo" (Thông qua sắn bắt có được hoặc mua tại Giao Dịch Đại Minh)
+collectinfo_5785=Thu thập "Thịt Gà Rừng" (Thông qua sắn bắt có được hoặc mua tại Giao Dịch Đại Minh)
+collectinfo_5786=Thu thập <a href="findnpc_new,," style="HLStype1"></a>được "Cá Chim" (Thông qua Ngư Phu câu được hoặc mua tại Giao Dịch Đại Minh)
+collectinfo_5787=Thu thập <a href="findnpc_new,," style="HLStype1"></a>Sườn Bò (Thông qua săn bắt thu thập hoặc mua tại Giao Dịch Đại Minh)
+collectinfo_5788=Thu thập <a href="findnpc_new,," style="HLStype1"></a>Thịt Heo Rừng (Thông qua săn bắt thu thập hoặc mua tại Giao Dịch Đại Minh)
+collectinfo_5789=Thu thập <a href="findnpc_new,," style="HLStype1"></a>Cá Mè (Thông qua Ngư Phu câu được hoặc mua tại Giao Dịch Đại Minh)
+hunterinfo_5765=Đến Thiên Đăng Trấn, kiểm tra thực lực của <font color="#00CC33">"Hà Y Sát Thủ"</font> (Khiêu chiến thế lực giang hồ Thiên Hương Trà Lâm)
+hunterinfo_5766=Đến Đường Môn, kiểm tra thực lực của <font color="#00CC33">"Thiên Bảo Trại Cao Thủ"</font> (Khiêu chiến thế lực giang hồ Thiên Bảo Trại)
+hunterinfo_5767=Đến Lạc Dương, kiểm tra thực lực của <font color="#00CC33">"Bão Độc Trại Võ Sĩ"</font> (Khiêu chiến thế lực giang hồ Bão Độc Trại)
+hunterinfo_5770=Đến Yên Vũ Trang, kiểm tra thực lực của <font color="#00CC33">"Diêm Bang Giám Công"</font> (Khiêu chiến thế lực giang hồ Bang Muối)
+hunterinfo_5771=Lên ngăn cản <a href="findnpc_new,city05,hd_bdn_qms" style="HLStype1">Thị Tỉnh Ác Đồ</a> và hỏi mục đích đến của chúng
+hunterinfo_5772=Đến diệt <a href="findnpc_new,city05,bossmpdn001" style="HLStype1">Niên Thú</a> quấy rối
+hunterinfo_5773=Đến diệt <a href="findnpc_new,city05,bossmpdn002" style="HLStype1">Niên Thú</a> quấy rối
+hunterinfo_5774=Đến diệt <a href="findnpc_new,city05,bossmpdn003" style="HLStype1">Niên Thú</a> quấy rối
+hunterinfo_5775=Đến diệt <a href="findnpc_new,city05,bossmpdn004" style="HLStype1">Niên Thú</a> quấy rối
+hunterinfo_5776=Đến diệt <a href="findnpc_new,city05,bossmpdn005" style="HLStype1">Niên Thú</a> quấy rối
+interactinfo_5816=Tết đến vẫn chưa chuẩn bị câu đối xuân, tìm <a href="findnpc_new,city05,hd_bdn_01" style="HLStype1">Tư Đồ Yến</a> trong thành để xin lấy
+interactinfo_5817=Gặp <a href="findnpc_new,city05,hd_bdn_cl_01" style="HLStype1">Triệu Hiển Văn</a> tiên sinh xin lấy câu đối xuân
+interactinfo_5818=Nghe nói tết có tạp tục thỉnh Môn Thần, không hiểu rõ lắm, hãy thỉnh giáo lão bá <a href="findnpc_new,city05,hd_bdn_01" style="HLStype1">Tư Đồ Yến</a>.
+interactinfo_5819=Phúc đáp <a href="findnpc_new,city05,hd_bdn_01" style="HLStype1">Tư Đồ Yến</a> đã đánh bại kẻ gây sự.
+interactinfo_5820=Đi tìm <a href="findnpc_new,city05,hd_bdn_01" style="HLStype1">Tư Đồ Yến</a> và nhờ hắn giúp đỡ
+interactinfo_5821=Tìm <a href="findnpc_new,city05,hd_bdn_01" style="HLStype1">Tư Đồ Yến</a> giúp hắn tìm thực phẩm
+interactinfo_5822=Tìm được <a href="findnpc_new,city04,bdn_ly320" style="HLStype1">Dung Ý Hiên</a>, và mời hắn
+interactinfo_5823=Tìm được <a href="findnpc_new,city04,bdn_ly321" style="HLStype1">Hướng Hách</a>, và mời hắn
+interactinfo_5824=Tìm được <a href="findnpc_new,city04,bdn_ly322" style="HLStype1">Bàng Đam</a>, và mời hắn
+interactinfo_5825=Đi tìm <a href="findnpc_new,city05,hd_bdn_01" style="HLStype1">Tư Đồ Yến</a> tìm hiểu cách chế tạo áo mới
+interactinfo_5826=Đi tìm <a href="findnpc_new,city05,FuncNpc00603" style="HLStype1">Kiều Thi Vận</a>, lấy nguyên liệu chế tạo
+interactinfo_5827=Đi tìm <a href="findnpc_new,city05,FuncNpc00604" style="HLStype1">Chu Tiên Sinh</a>, lấy nguyên liệu chế tạo
+interactinfo_5828=Lấy nguyên liệu giao cho <a href="findnpc_new,city05,JobChengD007" style="HLStype1">Tiêu Tư Linh</a> chế tạo áo mới
+interactinfo_5829=Đến Yến Kinh, phát lì xì tết cho <a href="findnpc_new,city01,WorldNpc08556" style="HLStype1">trẻ con</a>
+interactinfo_5830=Đến Yến Kinh, phát lì xì tết cho <a href="findnpc_new,city01,WorldNpc08557" style="HLStype1">trẻ con</a>
+interactinfo_5831=Đến Lạc Dương, phát lì xì tết cho <a href="findnpc_new,city04,WorldNpc10178" style="HLStype1">trẻ con</a>
+interactinfo_5832=Đến Lạc Dương, phát lì xì tết cho <a href="findnpc_new,city04,WorldNpc10179" style="HLStype1">trẻ con</a>
+interactinfo_5833=Tết đến cúng tế tổ tiên phù hộ bình an, tìm Tế Tư <a href="findnpc_new,city05,hd_bdn_js" style="HLStype1">Trần Triệt</a> trong thành để hiểu rõ thêm
+interactinfo_5834=Đến thăm chưởng môn Võ Đang <a href="findnpc_new,school07,WorldNpc04401" style="HLStype1">Tử Dương Chân Nhân</a>
+interactinfo_5835=Đến thăm chưởng môn Đường Môn <a href="findnpc_new,school05,WorldNpc02203" style="HLStype1">Đường Thiên Hành</a>
+interactinfo_5836=Đến thăm chưởng môn Quân Tử Đường <a href="findnpc_new,school03,WorldNpc03305" style="HLStype1">Tiêu Biệt Tình</a>
+interactinfo_5837=Đến thăm chưởng môn Cái Bang <a href="findnpc_new,school02,WorldNpc03003" style="HLStype1">Tiêu Thiên Phóng</a>
+interactinfo_5838=Đến thăm chưởng môn Nga My <a href="findnpc_new,school06,WorldNpc02604" style="HLStype1">Tuyệt Trần Sư Thái</a>
+interactinfo_5839=Đến chỗ <a href="findnpc_new,city05,hd_bdn_01" style="HLStype1">Tư Đồ Yến</a>, hỏi thăm tung tích bảo vật
+interactinfo_5840=Phúc đáp <a href="findnpc_new,city05,hd_bdn_js" style="HLStype1">Trần Triệt</a> vật phẩm thiếu đã chuẩn bị đủ
+maintext_2972=Quả gì lắc nhẹ, đâu đâu cũng rền?
+maintext_2973=Quả gì có đủ năm châu?
+maintext_2974=Vừa bằng hạt đỗ, ăn giỗ cả làng. Là con gì?
+okmenu_5816=<font face="Default" color="#ffffff" >Đa tạ Tư Đồ lão bá thông báo, tại hạ cáo từ.</font>
+okmenu_5817=<font face="Default" color="#ffffff" >Tết đến rồi, trong nhà vẫn chưa có câu đối xuân, cố tình đến xin lấy.</font>
+okmenu_5818=<font face="Default" color="#ffffff" >Lão bá đừng sợ, ta đi xem thử.</font>
+okmenu_5819=<font face="Default" color="#ffffff" >Chỉ là công lao nhỏ, không cần để tâm,.</font>
+okmenu_5820=<font face="Default" color="#ffffff" >Được</font>
+okmenu_5821=<font face="Default" color="#ffffff" >Được</font>
+okmenu_5822=<font face="Default" color="#ffffff" >Được</font>
+okmenu_5823=<font face="Default" color="#ffffff" >Được</font>
+okmenu_5824=<font face="Default" color="#ffffff" >Được</font>
+okmenu_5825=<font face="Default" color="#ffffff" >Được</font>
+okmenu_5826=<font face="Default" color="#ffffff" >Đa tạ!</font>
+okmenu_5827=<font face="Default" color="#ffffff" >Đa tạ!</font>
+okmenu_5828=<font face="Default" color="#ffffff" >Được</font>
+okmenu_5829=<font face="Default" color="#ffffff" >cho, cầm lấy.</font>
+okmenu_5830=<font face="Default" color="#ffffff" >cho, cầm lấy.</font>
+okmenu_5831=<font face="Default" color="#ffffff" >cho, cầm lấy.</font>
+okmenu_5832=<font face="Default" color="#ffffff" >cho, cầm lấy.</font>
+okmenu_5833=<font face="Default" color="#ffffff" >Tại hạ đi chuẩn bị.</font>
+okmenu_5834=<font face="Default" color="#ffffff" >Cáo từ</font><font face="Default" color="#ffffff" >Cáo từ</font>
+okmenu_5835=<font face="Default" color="#ffffff" >Cáo từ</font><font face="Default" color="#ffffff" >Cáo từ</font>
+okmenu_5836=<font face="Default" color="#ffffff" >Cáo từ</font><font face="Default" color="#ffffff" >Cáo từ</font>
+okmenu_5837=<font face="Default" color="#ffffff" >Cáo từ</font><font face="Default" color="#ffffff" >Cáo từ</font>
+okmenu_5838=<font face="Default" color="#ffffff" >Cáo từ</font><font face="Default" color="#ffffff" >Cáo từ</font>
+okmenu_5839=<font face="Default" color="#ffffff" >Được</font>
+okmenu_5840=<font face="Default" color="#ffffff" >Đa tạ Trần Bá!</font>
+quest_menu_5949=<font face="Default" color="#ffffff" >Được tiên sinh thưởng thức, tại hạ sẽ cố hết sức.</font>
+questioninfo_5949=Giúp đỡ <a href="findnpc_new,city05,hd_bdn_cl_01" style="HLStype1">Triệu Tiên Sinh</a> đối vế sau
+specialinfo_1113=Hoàn thành 2 lần thí luyện Tâm Ma
+specialinfo_1114=Tiến độ thụ nghiệp sư môn đạt 100%
+specialinfo_1115=Hoàn thành 1 lần luyện nhóm và độ mệt mỏi đạt 100%
+specialinfo_1116=Đánh bại 2 thế lực bất kỳ
+specialinfo_1117=Hoàn thành 1 lần Cấm Địa bất kỳ
+specialinfo_1118=Thắng 2 lần chiến trường tùy ý
+useiteminfo_5757=Tụ tập <a href="findnpc_new,city04,ly320" style="HLStype1">tại đây</a><a href="TASK_ITEM," style="HLStype1"></a>, cùng mọi người ăn<a href="TASK_ITEM,taskitem_pdn001" style="HLStype1"> thực phẩm</a>
+useiteminfo_5758=Ở chỗ <a href="findnpc_new,city05,JobChengD007" style="HLStype1">Tiêu Tư Linh</a>, mở <a href="TASK_ITEM,useitem_bdnguj_006" style="HLStype1">Túi Y Vật</a>, mặc áo mới vào
+useiteminfo_5759=Đồ dùng cúng tế đã chuẩn bị xong, đến <a href="findnpc_new,city05,hd_bdn_jt" style="HLStype1">Tế Đài</a> sử dụng <a href="TASK_ITEM,taskitem_bdn_xiang" style="HLStype1">Hương</a> để cúng tế tổ tiên
+useiteminfo_5760=Đến <a href="findnpc_new,city05,Event_bdngj_001" style="HLStype1">Thành Môn</a> chỉ định đốt <a href="TASK_ITEM,taskitem_pdn002" style="HLStype1">Pháo Hoa</a>
+useiteminfo_5761=Đến <a href="findnpc_new,city05,Event_bdngj_002" style="HLStype1">Thành Môn</a> chỉ định để đốt<a href="TASK_ITEM,taskitem_pdn002" style="HLStype1"> Pháo Hoa</a>
+useiteminfo_5762=Đến <a href="findnpc_new,city05,Event_bdngj_003" style="HLStype1">Thành Môn</a> chỉ định để đốt<a href="TASK_ITEM,taskitem_pdn002" style="HLStype1">Pháo Hoa</a>
+useiteminfo_5763=Đến <a href="findnpc_new,city05,Event_bdngj_004" style="HLStype1">Thành Môn</a> chỉ định để đốt<a href="TASK_ITEM,taskitem_pdn002" style="HLStype1">Pháo Hoa</a>
+useiteminfo_5764=Đến <a href="findnpc_new,city05,Event_bdngj_003" style="HLStype1">Thành Môn</a>, sử dụng<a href="TASK_ITEM,useitem_bdnguj_005" style="HLStype1"> Cái xẻng</a> để lấy bảo vật ra
+QiecuoMenu_5771=<font face="Default" color="#ffffff" >Có ta ở đây, há cho phép ngươi gây sự vô lý.</font>
+QiecuoTitle_5771=<font face="Default" color="#ffffff" >Lão già, đưa ta ít tiền ăn tết nào, haha!</font>
+hunterinfo_5764=Tiêu diệt <font color="#ff0000">Tiểu Niên Thú</font>
+collectinfo_5790=Thu thập <font color="#00cc00">Thịt Heo Tươi</font>
+QiecuoMenu_5777=<font face="Default" color="#ffffff" >Hừm! Tên thất phu như ngươi cũng dám khẩu xuất cuồng ngôn à .</font>
+QiecuoMenu_5778=<font face="Default" color="#ffffff" >Hừm! Tên thất phu như ngươi cũng dám khẩu xuất cuồng ngôn à .</font>
+QiecuoTitle_5777=<font face="Default" color="#ffffff" >Đừng có chuyện gì cũng xen vào, nếu không hậu quả tự chịu.</font>
+QiecuoTitle_5778=<font face="Default" color="#ffffff" >Đừng có chuyện gì cũng xen vào, nếu không hậu quả tự chịu.</font>
+hunterinfo_5777=<a href="findnpc_new,city03,hd_qm_007" style="HLStype1">Đạo Mộ Tặc</a> hình như ở gần đây<a href="findnpc_new,city03,hd_qm_007" style="HLStype1">Đạo Mộ Tặc</a> hình như ở gần đây
+hunterinfo_5778=<a href="findnpc_new,city03,hd_qm_007" style="HLStype1">Đạo Mộ Tặc</a> hình như ở gần đây<a href="findnpc_new,city03,hd_qm_007" style="HLStype1">Đạo Mộ Tặc</a> hình như ở gần đây
+interactinfo_5841=Gặp <a href="findnpc_new,city03,hd_qm_006" style="HLStype1">Người Thủ Lăng</a>Gặp <a href="findnpc_new,city03,hd_qm_006" style="HLStype1">Người Thủ Lăng</a>
+interactinfo_5842=Gặp <a href="findnpc_new,city03,hd_qm_006" style="HLStype1">Người Thủ Lăng</a>Gặp <a href="findnpc_new,city03,hd_qm_006" style="HLStype1">Người Thủ Lăng</a>
+okmenu_5841=<font face="Default" color="#ffffff" >Tại hạ đã rõ.</font><font face="Default" color="#ffffff" >Tại hạ đã rõ.</font>
+okmenu_5842=<font face="Default" color="#ffffff" >Tại hạ đã rõ.</font><font face="Default" color="#ffffff" >Tại hạ đã rõ.</font>
+useiteminfo_5765=Dùng <a href="TASK_ITEM,qingming_43879a" style="HLStype1">Cuốc</a> bỏ đi <a href="findnpc_new,city03,Gather00156m" style="HLStype1">Tạp Thảo</a>
+useiteminfo_5766=Có thể đến <a href="findnpc_new,city03,Gather00155m" style="HLStype1">Bàn Thờ</a> thấp <a href="TASK_ITEM,qingming_43879" style="HLStype1">Hương</a>
+useiteminfo_5767=Dùng <a href="TASK_ITEM,qingming_43880a" style="HLStype1">Cuốc</a> bỏ đi <a href="findnpc_new,city03,Gather00156m" style="HLStype1">Tạp Thảo</a>
+useiteminfo_5768=Có thể đến chỗ <a href="findnpc_new,city03,Gather00155m" style="HLStype1">Bàn Thờ</a> dâng <a href="TASK_ITEM,qingming_43880" style="HLStype1">Hương</a> rồi
+DialogID_5841=<font face="Default" color="#ffffff" >Ngươi đến thật đúng lúc, trước khi bái tế Thái Tổ Hoàng Đế, cần ngươi giúp ta làm 2 việc. Một là cầm cái cuốc ta đưa đến gần đây làm sạch cỏ. Hai là nghe nói dạo này có nhiều Đạo Mộc Tặc lảng vảng quanh đây, hãy đến diệt chúng đi.</font><font face="Default" color="#ffffff" >Ngươi đến thật đúng lúc, trước khi bái tế Thái Tổ Hoàng Đế, cần ngươi giúp ta làm 2 việc. Một là cầm cái cuốc ta đưa đến gần đây làm sạch cỏ. Hai là nghe nói dạo này có nhiều Đạo Mộc Tặc lảng vảng quanh đây, hãy đến diệt chúng đi.</font>
+DialogID_5842=<font face="Default" color="#ffffff" >Ngươi đến thật đúng lúc, trước khi bái tế Thái Tổ Hoàng Đế, cần ngươi giúp ta làm 2 việc. Một là cầm cái cuốc ta đưa đến gần đây làm sạch cỏ. Hai là nghe nói dạo này có nhiều Đạo Mộc Tặc lảng vảng quanh đây, hãy đến diệt chúng đi.</font><font face="Default" color="#ffffff" >Ngươi đến thật đúng lúc, trước khi bái tế Thái Tổ Hoàng Đế, cần ngươi giúp ta làm 2 việc. Một là cầm cái cuốc ta đưa đến gần đây làm sạch cỏ. Hai là nghe nói dạo này có nhiều Đạo Mộc Tặc lảng vảng quanh đây, hãy đến diệt chúng đi.</font>
+DialogID_5843=<font face="Default" color="#ffffff" >Quà tặng đặc biệt, chúc mọi người lễ tết vui vẻ.</font>
+SubmitNpcEx_43890=Đến chỗ Lâm Lương trả NV
+interactinfo_5843=Nói chuyện với Lâm Lương
+okmenu_5843=<font face="Default" color="#ffffff" >Hy vọng là đồ tốt.</font>
+hunterinfo_5761=Đánh bại Tam Trảo Tuyết Viên (Tổ đội đánh Tam Trảo Tuyết Viên cuối cùng và phải ở phạm vi 15m xung quanh Tam Trảo Tuyết Viên mới có thể hoàn thành nhiệm vụ)
+hunterinfo_5762=Đánh bại Vạn Niên Hỏa Quy (Tổ đội đánh Vạn Niên Hỏa Quy cuối cùng và phải ở phạm vi 15m xung quanh Vạn Niên Hỏa Quy mới có thể hoàn thành nhiệm vụ)
+useiteminfo_5769=Dùng Thiên Đăng, tặng Thất Tịch Tình. (Thiên Đăng mua ở <a href="findnpc_new,city05,fqrwnpc_1014" style="HLStype1">Cố Nguyệt Tiêu</a> gần Nguyệt Lão Miếu)
+SubmitNpcEx_43891=Đến Lâm Lương trả nhiệm vụ
+SubmitNpcEx_43892=Đến Lâm Lương trả nhiệm vụ
+SubmitNpcEx_43893=Đến Lâm Lương trả nhiệm vụ
+SubmitNpcEx_43894=Đến Lâm Lương trả nhiệm vụ
+SubmitNpcEx_43895=Đến Lâm Lương trả nhiệm vụ
+SubmitNpcEx_43896=Đến Lâm Lương trả nhiệm vụ
+SubmitNpcEx_43898=Đến Lâm Lương trả nhiệm vụ
+SubmitNpcEx_43899=Đến Lâm Lương trả nhiệm vụ
+DialogID_5844=<font face="Default" color="#ffffff" >Thu thập nhanh vậy sao?</font>
+DialogID_5845=<font face="Default" color="#ffffff" >Quà Toàn Dân Phong Vân Thiên Hạ</font>
+SubmitNpcEx_43999=Tìm Hoa Ngữ Phu Nhân trả nhiệm vụTìm Hoa Ngữ phu nhân trả nhiệm vụ
+interactinfo_5844=Thu thập <a href="TASK_ITEM,cropper_50005" style="HLStype1">10 Cánh Hoa Hòe</a> xong trò chuyện với Hoa Ngữ phu nhân. (Cánh Hoa Hòe có thể nhận sau khi mua Hạt Giống Cây Hòe ở chỗ Nông Phu Đạo Sư trồng)
+okmenu_5844=<font face="Default" color="#ffffff" >Vâng!</font><font face="Default" color="#ffffff" >Đúng vậy!</font>
+SubmitNpcEx_43900=Tìm đại sứ sự kiện lễ tết Lâm Lương trả nhiệm vụ nhận quà lễ tết.
+SubmitNpcEx_43934=Tìm Lâm Lương trả nhiệm vụ
+interactinfo_5845=Trò chuyện với Lâm Lương nhận Quà Toàn Dân Phong Vân Thiên Hạ
+okmenu_5845=<font face="Default" color="#ffffff" >Được</font>
+DialogID_5846=<font face="Default" color="#ffffff" >Open Beta tròn năm năm tặng </font><font face="Default" color="#ffffff" >quà</font>
+SubmitNpcEx_43935=Thiếu hiệp nhận lấy nhé
+okmenu_5846=<font face="Default" color="#ffffff" >Được</font>
+specialinfo_1099=Đánh bại 2 thế lực bất kỳ
+specialinfo_1100=Thắng 2 lần chiến trường tùy ý
+hunterinfo_5763=Đánh bại Thốc Ưng Vương (Tổ đội đánh Thốc ưng Vương cuối cùng và phải ở phạm vi 15m xung quanh Thốc Ưng Vương mới có thể hoàn thành nhiệm vụ)
+hunterinfo_5768=Đến Thành Môn, kiểm tra thực lực của <font color="#00CC33">"Cán Hoa Kiếm Vệ"</font> (Khiêu chiến thế lực giang hồ Cán Hoa Kiếm Phái)
+hunterinfo_5769=Đến Cái Bang, kiểm tra thực lực của <font color="#00CC33">"Huấn Lang Sư"</font> (Khiêu chiến thế lực giang hồ Vạn Thú Sơn Trang)
+SubmitNpcEx_43827=Tìm Lâm Lương trả nhiệm vụ
+

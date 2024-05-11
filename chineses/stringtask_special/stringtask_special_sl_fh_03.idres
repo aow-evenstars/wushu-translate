@@ -1,0 +1,77 @@
+﻿
+DialogID_56720=<s>Ôi! Bệnh của Khuyển Tử không phải không chữa được, nhưng chúng ta... đi hỏi đại phu thử đi!
+DialogID_56721=<s>Ngươi nói bệnh của công tử này à? Ừm, thực ra không khó, mấu chốt là cần có thuốc tên Kỳ Lân Quả, trừ phi có cái này, nếu không sợ là rất khó... Nghe nói quan binh vừa từ Tây Vực về, đã cướp được không ít... Thiếu hiệp nhờ ngươi đó!
+DialogID_56722=<s>Thiếu hiệp, tại hạ có việc nhờ, có thể giao ngọc bội của tại hạ cho Lương Viêm Bân không? Bảo hắn đừng lo lắng! Nói với hắn một thời gian nữa cùng cướp giàu giúp nghèo!
+DialogID_56723=<s>Ừm, về việc này là do đám ác nhân Tây Vực làm, đi tìm Miêu Bác Văn thử xem, hắn sẽ nói cho ngươi nên làm gì! Nhân tiện đi diệt mấy Tây Vực Ác Sĩ đi!
+DialogID_56724=<s>Chúng ta cần đả kích dáng vẻ hung hăng của chúng, nếu không chưa biết chừng chúng sẽ làm ra loạn gì ở Trung Nguyên!
+DialogID_56725=<s>Hử? Vị thiếu hiệp này đến tìm ta ư? Khụ... Ta đã tra rõ điểm ẩn nấp của chúng, bản đồ đã vẽ xong rồi, nhưng bị người của chúng truy sát, bản đồ cũng bị cướp đi!
+DialogID_56726=<s>U Minh Cung của chúng ta là dựa vào bãi tha ma gần đây để yểm trợ, nhưng xuất hiện 1 tên đạo mộ tặc, chúng ta phải ngăn chúng, nếu không U Minh Cung sớm muộn sẽ bị lộ!
+DialogID_56727=<s>Nói tin tức này cho Thời Thiệp Lực nhé, cảm ơn sự giúp đỡ của hắn!
+DialogID_56728=<s>Á! Thì ra ngươi không phải đến diệt ta... U Minh Cung thật đáng sợ, ta không ở lại được nữa, nhưng ta vẫn bị người của U Minh Cung truy sát, thiếu hiệp có thể giúp ta không?
+DialogID_56729=<s>Chỗ ta có bức thư, giao cho Trang Kế Lâm đi, trong đó có tài liệu về U Minh Cung, nhất định không thể lạc mất! Nhớ kỹ!
+DialogID_56730=<s>Hử? Đứa bé à? Có thấy một đứa ở hướng tây bắc!
+DialogID_56731=<s>Đại ca ca! Huynh đang làm gì vậy?
+collectinfo_56720=Tiêu diệt <a href="findnpc_new,scene03,monf032400" style="HLStype1">Tiệt Lương Sơn Tặc</a>, và tìm được lương thực từ trên người hắn
+collectinfo_56721=Tiêu diệt <a href="findnpc_new,scene03,monf032601" style="HLStype1">Tham Quan Cẩu Thoái Tử</a>, và tìm được dược liệu Kỳ Lân Quả mà Chu Hống mô tả
+collectinfo_56722=Tiêu diệt <a href="findnpc_new,scene03,monf032400" style="HLStype1">Tiệt Lương Sơn Tặc</a>, tìm được lương thực cứu tế trên người hắn
+collectinfo_56723=Thu thập <a href="findnpc_new,scene03,Gather0004pc" style="HLStype1">Kim Ngân Thảo</a>
+collectinfo_56724=Tiêu diệt <a href="findnpc_new,scene03,monf032301" style="HLStype1">Tây Thôn Đạo Mộ Tặc Thám Tử</a> tìm được bản đồ
+collectinfo_56725=Tiêu diệt <a href="findnpc_new,scene03,monf032700" style="HLStype1">U Minh Cung Đệ Tử</a>, và tìm Tiên Nhân Thảo trên người hắn
+collectinfo_56726=Tiêu diệt <a href="findnpc_new,scene03,monf032700" style="HLStype1">U Minh Cung Đệ Tử Tuần Sơn</a> và đoạt lại vàng
+collectinfo_56727=Thu thập <a href="findnpc_new,scene03,Gather0005pc" style="HLStype1">Hạt Độc Thảo</a>
+collectinfo_56728=Đánh bại <a href="findnpc_new,scene03,monf032302" style="HLStype1">U Minh Cung Đệ Tử Tuần Sơn</a> lấy lại bản đồ
+hunterinfo_56720=Tiêu diệt <a href="findnpc_new,scene03,monf032700" style="HLStype1">U Minh Cung Đệ Tử</a>
+hunterinfo_56721=Tiêu diệt <a href="findnpc_new,scene03,monf032601" style="HLStype1">Tham Quan Cẩu Thoái Tử</a>
+hunterinfo_56722=Tiêu diệt <a href="findnpc_new,scene03,monf032502" style="HLStype1">Tây Vực Ác Sĩ</a>
+hunterinfo_56723=Tiêu diệt <a href="findnpc_new,scene03,monf032503" style="HLStype1">Hộ Vệ Tây Vực Ác Sĩ</a>
+hunterinfo_56724=Tiêu diệt <a href="findnpc_new,scene03,monf031100" style="HLStype1">Du Quân Thương Binh</a>
+hunterinfo_56725=Tiêu diệt <a href="findnpc_new,scene03,monf031100" style="HLStype1">Du Quân Thương Binh</a>
+hunterinfo_56726=Tiêu diệt <a href="findnpc_new,scene03,monf032501" style="HLStype1">U Minh Cung Đệ Tử Tư Thông</a>
+hunterinfo_56727=Tiêu diệt <a href="findnpc_new,scene03,monf032701" style="HLStype1">Giang Hồ Chính Phái Thám Tử</a>
+hunterinfo_56728=Tiêu diệt <a href="findnpc_new,scene03,monf032302" style="HLStype1">U Minh Cung Đệ Tử Tuần Sơn</a>
+hunterinfo_56729=Tiêu diệt <a href="findnpc_new,scene03,monf032600" style="HLStype1">U Minh Cung Cao Thủ</a>
+hunterinfo_56730=Tiêu diệt <a href="findnpc_new,scene03,monf032601" style="HLStype1">Tham Quan Cẩu Thoái Tử</a>
+hunterinfo_56731=Tiêu diệt <a href="findnpc_new,scene03,monf032601" style="HLStype1">Tham Quan Cẩu Thoái Tử</a>
+hunterinfo_56732=Tiêu diệt <a href="findnpc_new,scene03,monf032600" style="HLStype1">U Minh Cung Cao Thủ</a>
+hunterinfo_56733=Săn diệt <a href="findnpc_new,scene03,monf032600" style="HLStype1">U Minh Cung Cao Thủ</a>
+hunterinfo_56734=Tiêu diệt <a href="findnpc_new,scene03,monf032400" style="HLStype1">Tiệt Lương Sơn Tặc</a>
+hunterinfo_56735=Tiêu diệt <a href="findnpc_new,scene03,monf032502" style="HLStype1">Tây Vực Ác Sĩ</a>
+hunterinfo_56736=Tiêu diệt <a href="findnpc_new,scene03,monf032503" style="HLStype1">Hộ Vệ Tây Vực Ác Sĩ</a>
+hunterinfo_56737=Tiêu diệt <a href="findnpc_new,scene03,monf032300" style="HLStype1">Tây Thôn Đạo Mộ Tặc</a>
+hunterinfo_56738=Tiêu diệt <a href="findnpc_new,scene03,monf032301" style="HLStype1">Tây Thôn Đạo Mộ Tặc Thám Tử</a>
+hunterinfo_56739=Tiêu diệt <a href="findnpc_new,scene03,monf032500" style="HLStype1">U Minh Cung Thám Tử</a>
+hunterinfo_56740=Tiêu diệt <a href="findnpc_new,scene03,monf032502" style="HLStype1">Tây Vực Ác Sĩ</a>
+hunterinfo_56741=Tiêu diệt <a href="findnpc_new,scene03,monf032503" style="HLStype1">Hộ Vệ Tây Vực Ác Sĩ</a>
+hunterinfo_56742=Tiêu diệt <a href="findnpc_new,scene03,monf032700" style="HLStype1">U Minh Cung Đệ Tử</a>
+hunterinfo_56743=Giáo huấn <a href="findnpc_new,scene03,monf031100" style="HLStype1">Du Quân Thương Binh</a>
+hunterinfo_56744=Giáo huấn <a href="findnpc_new,scene03,monf032400" style="HLStype1">Tiệt Lương Sơn Tặc</a>
+hunterinfo_56745=Tiêu diệt <a href="findnpc_new,scene03,monf032701" style="HLStype1">Giang Hồ Chính Phái Thám Tử</a>
+hunterinfo_56746=Tiêu diệt <a href="findnpc_new,scene03,monf032205" style="HLStype1">U Minh Cung Lục Y Môn Nhân</a>
+hunterinfo_56747=Tiêu diệt <a href="findnpc_new,scene03,monf032201" style="HLStype1">U Minh Cung Huyền Y Môn Nhân</a>
+hunterinfo_56748=Tiêu diệt <a href="findnpc_new,scene03,monf032203" style="HLStype1">U Minh Cung Tử Y Môn Nhân</a>
+hunterinfo_56749=Tiêu diệt <a href="findnpc_new,scene03,monf032204" style="HLStype1">U Minh Cung Thanh Y Môn Nhân</a>
+interactinfo_56720=Trò chuyện với <a href="findnpc_new,scene03,WorldNpc06743" style="HLStype1">Thương Ký</a>
+interactinfo_56721=Trò chuyện với <a href="findnpc_new,scene03,WorldNpc06747" style="HLStype1">Chu Hống</a>
+interactinfo_56722=Trò chuyện với <a href="findnpc_new,scene03,WorldNpc06749" style="HLStype1">Nam Cung Lăng</a>
+interactinfo_56723=Trò chuyện với <a href="findnpc_new,scene03,WorldNpc06433" style="HLStype1">Bát Đại Trưởng Lão</a>
+interactinfo_56724=Trò chuyện với <a href="findnpc_new,scene03,WorldNpc06739" style="HLStype1">Miêu Bác Văn</a>
+interactinfo_56725=Trò chuyện với <a href="findnpc_new,scene03,WorldNpc06741" style="HLStype1">Hạnh Tài</a>
+interactinfo_56726=Trò chuyện với <a href="findnpc_new,scene03,WorldNpc06783" style="HLStype1">Tiêu Anh</a>
+interactinfo_56727=Trò chuyện với <a href="findnpc_new,scene03,WorldNpc06783" style="HLStype1">Tiêu Anh</a>
+interactinfo_56728=Trò chuyện với <a href="findnpc_new,scene03,WorldNpc06789" style="HLStype1">Do Đạt</a>
+interactinfo_56729=Trò chuyện với <a href="findnpc_new,scene03,WorldNpc06789" style="HLStype1">Do Đạt</a>
+interactinfo_56730=Trò chuyện với <a href="findnpc_new,scene03,WorldNpc06734" style="HLStype1">Chiêm Lịch</a>
+interactinfo_56731=Trò chuyện với <a href="findnpc_new,scene03,WorldNpc06736" style="HLStype1">Thang Kỳ</a>
+okmenu_56720=Để ta đi!
+okmenu_56721=Vâng, cứ giao cho ta!
+okmenu_56722=Được!
+okmenu_56723=Được, ta sẽ đi ngay!
+okmenu_56724=Có sao nói vậy!
+okmenu_56725=Đừng sợ, ta đến giúp ngươi!
+okmenu_56726=Được
+okmenu_56727=Ừm, được!
+okmenu_56728=Được! Đừng sợ!
+okmenu_56729=Được, ta sẽ cố hết sức!
+okmenu_56730=Đa tạ!
+okmenu_56731=Ở yên đây, ta nói mẹ ngươi đến đón ngươi!
+

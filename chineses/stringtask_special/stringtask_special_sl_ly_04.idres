@@ -1,0 +1,83 @@
+﻿
+DialogID_38780=<s>Đa tạ thiếu hiệp giúp đỡ, có thể giúp ta đi hái ít Rau Dại để lấp đầy dạ dày không?
+DialogID_38781=<s>Chắc y phụ cở đâu đó tỏng Tướng Thủ! Thiếu hiệp, diệt Phụng Tiên Tự Tướng Thủ giúp ta đoạt y phục về đi!
+DialogID_38782=<s>Phụng Tiên Tự  Võ Tăng cùng Liên Hoa Động Mật TôngPháp Sư cấu kết làm càn, thiếu hiệp hãy đi diệt Phụng Tiên Tự  Võ Tăng!
+DialogID_38783=<s>Thiếu hiệp, đây là một số thảo dược cho thợ săn Trương đi!
+DialogID_38784=<s>Thật là rộng rãi, ta vô cùng cảm kích! Thiếu hiệp hãy mang một ít Báo Bì và Da Sói cho Ung Khách Lục!
+DialogID_38785=<s>Thiếu hiệp đừng quên cảm ơn hắn giúp ta
+DialogID_38786=<s>Đa tạ! Thiếu hiệp có thể giúp ta đến hậu sơn diệt một ít Cẩu Hùng không? Lấy một ít chân gấu về?
+DialogID_38787=<s>Thiếu hiệp hãy mang số chân gấu này cho thợ săn, bày tỏ tấm lòng của ta
+DialogID_38788=<s>Đi báo cho Cẩm Y Vệ Chỉ Huy Quan, mọi việc đã xong rồi!
+DialogID_38789=<s>Ngươi vào trong Dược Sư Động tự tìm thảo dược đi~ Thảo dược có tên là Vũ Dạ Thảo, trị được nội thương bình thường!
+DialogID_38790=<s>Ta sớm đã buông bỏ thù hận, nhưng không muốn nhìn thấy Tu Mi Lão Đạo, Thiếu hiệp hãy bảo hắn về đi!
+DialogID_38791=<s>Điều khiến ta rắc rối của nửa đời cuối cùng đã sáng tỏ! Sư huynh của ta là một Vân Du Dược Sư, học tập ở trong Dược Sư Động đối diện, mang Kiếm Tuệ của ta đi tìm dược sư, hy vọng có thể giúp hắn cứu thế giúp đời!
+DialogID_38792=<s>Thảo dược vẫn chưa đủ dùng, ngươi có thể hái thêm ít Phục Linh Thảo không?
+DialogID_38793=<s>Đúng rồi, giao số cá này cho Thôn Danh đi! Họ đều đói rồi, đây cũng là việc duy nhất mà ta có thể làm!
+DialogID_38794=<s>Thiếu hiệp,  gần đây Dã Hùng thưởng xuất hiện cắn người bị thương, Thiếu hiệp có thể diệt trừ chúng không, nhân tiện mang một số Tay Gấu đến làm dược dẫn!
+collectinfo_38780=Đến <a href="findnpc_new,city04,monc042400" style="HLStype1">Dã Hùng</a> thu thập chân gấu
+collectinfo_38781=Thu thập <a href="findnpc_new,city04,Gather0009pc" style="HLStype1">Rau Dại</a>
+collectinfo_38782=Đến <a href="findnpc_new,city04,monc042702" style="HLStype1">Phụng Tiên Tự Thủ Quân Sĩ Binh</a> thu thập một tấm Da Hổ
+collectinfo_38783=Thu thập <a href="findnpc_new,city04,Gather0008pc" style="HLStype1">Vũ Dạ Thảo</a>
+collectinfo_38784=Thu thập <a href="findnpc_new,city04,Gather0007pc" style="HLStype1">Phục Linh Thảo</a>
+collectinfo_38785=Đến <a href="findnpc_new,city04,monc042401" style="HLStype1">Thú Hùng Thợ Săn</a> thu thập Màn Thầu
+hunterinfo_38780=Đánh bại <a href="findnpc_new,city04,monc042400" style="HLStype1">Dã Hùng</a>
+hunterinfo_38781=Đánh bại <a href="findnpc_new,city04,monc042401" style="HLStype1">Thú Hùng Thợ Săn</a>
+hunterinfo_38782=Đánh bại <a href="findnpc_new,city04,monc042402" style="HLStype1">Lôi Cổ Đài Sĩ Binh</a>
+hunterinfo_38783=Đánh bại <a href="findnpc_new,city04,monc042403" style="HLStype1">Lôi Cổ Đài Thủ Tướng</a>
+hunterinfo_38784=Đánh bại <a href="findnpc_new,city04,monc042300" style="HLStype1">Vạn Phật Động Tà Giáo Pháp Sư</a>
+hunterinfo_38785=Đánh bại <a href="findnpc_new,city04,monc042301" style="HLStype1">Vạn Phật Động Tà Giáo Phiên tăng </a>
+hunterinfo_38786=Đánh bại <a href="findnpc_new,city04,monc042100" style="HLStype1">Kim Đao Môn Nghịch Đồ</a>
+hunterinfo_38787=Đánh bại <a href="findnpc_new,city04,monc042201" style="HLStype1">Điêu Nan Sĩ Binh</a>
+hunterinfo_38788=Đánh bại <a href="findnpc_new,city04,monc042200" style="HLStype1">Manh Sơn Phái Đệ Tử</a>
+hunterinfo_38789=Đánh bại <a href="findnpc_new,city04,monc042704" style="HLStype1">Phụng Tiên Tự Tuần Tra Binh</a>
+hunterinfo_38790=Đánh bại <a href="findnpc_new,city04,monc042703" style="HLStype1">Phụng Tiên Tự Tiểu Sa Di</a>
+hunterinfo_38791=Đánh bại <a href="findnpc_new,city04,monc042702" style="HLStype1">Phụng Tiên Tự Thủ Quân Sĩ Binh</a>
+hunterinfo_38792=Đánh bại <a href="findnpc_new,city04,monc042502" style="HLStype1">Liên Hoa Động Mật Tông Đệ Tử</a>
+hunterinfo_38793=Đánh bại <a href="findnpc_new,city04,monc042501" style="HLStype1">Liên Hoa Động Mật Tông Hộ Pháp</a>
+hunterinfo_38794=Đánh bại <a href="findnpc_new,city04,monc042500" style="HLStype1">Liên Hoa Động Mật Tông Pháp Sư </a>
+hunterinfo_38795=Đánh bại <a href="findnpc_new,city04,monc042700" style="HLStype1">Phụng Tiên Tự Võ tăng </a>
+hunterinfo_38796=Đánh bại <a href="findnpc_new,city04,monc042800" style="HLStype1">Du Côn Thành Tây</a>
+hunterinfo_38797=Đánh bại <a href="findnpc_new,city04,monc042801" style="HLStype1">Tây Thành Dã Cẩu</a>
+hunterinfo_38798=Đánh bại <a href="findnpc_new,city04,monc042800" style="HLStype1">Du Côn Thành Tây</a>
+hunterinfo_38799=Đánh bại <a href="findnpc_new,city04,monc042602" style="HLStype1">Trượng Thế Đả Thủ</a>
+hunterinfo_38800=Đánh bại <a href="findnpc_new,city04,monc042601" style="HLStype1">Cẩm Y Vệ Thủ Vệ</a>
+hunterinfo_38801=Đánh bại <a href="findnpc_new,city04,monc042603" style="HLStype1">Cẩm Y Vệ Chỉ Huy Sứ</a>
+hunterinfo_38802=Đánh bại <a href="findnpc_new,city04,monc042601" style="HLStype1">Cẩm Y Vệ Thủ Vệ</a>
+hunterinfo_38803=Đánh bại <a href="findnpc_new,city04,monc042600" style="HLStype1">Thần Bà</a>
+hunterinfo_38804=Đánh bại <a href="findnpc_new,city04,monc042400" style="HLStype1">Dã Hùng</a>
+hunterinfo_38805=Đánh bại <a href="findnpc_new,city04,monc042603" style="HLStype1">Cẩm Y Vệ Chỉ Huy Sứ</a>
+hunterinfo_38806=Đánh bại <a href="findnpc_new,city04,monc042601" style="HLStype1">Cẩm Y Vệ Thủ Vệ</a>
+hunterinfo_38807=Đánh bại <a href="findnpc_new,city04,monc042500" style="HLStype1">Liên Hoa Động Mật Tông Pháp Sư </a>
+hunterinfo_38808=Đánh bại <a href="findnpc_new,city04,monc042300" style="HLStype1">Vạn Phật Động Tà Giáo Pháp Sư</a>
+interactinfo_38780=Trò chuyện với <a href="findnpc_new,city04,WorldNpc10015" style="HLStype1">Tịnh Duyên</a>
+interactinfo_38781=Trò chuyện với <a href="findnpc_new,city04,WorldNpc10578" style="HLStype1">Trương Nhất Trung</a>
+interactinfo_38782=Trò chuyện với <a href="findnpc_new,city04,WorldNpc10339" style="HLStype1">Ngô Khải</a>
+interactinfo_38783=Trò chuyện với <a href="findnpc_new,city04,WorldNpc10062" style="HLStype1">Tú Nga</a>
+interactinfo_38784=Trò chuyện với <a href="findnpc_new,city04,WorldNpc10340" style="HLStype1">Vương Canh Hổ</a>
+interactinfo_38785=Trò chuyện với <a href="findnpc_new,city04,WorldNpc10062" style="HLStype1">Tú Nga</a>
+interactinfo_38786=Trò chuyện với <a href="findnpc_new,city04,WorldNpc10341" style="HLStype1">Tiền Tiểu Bân</a>
+interactinfo_38787=Trò chuyện với <a href="findnpc_new,city04,WorldNpc10341" style="HLStype1">Tiền Tiểu Bân</a>
+interactinfo_38788=Trò chuyện với <a href="findnpc_new,city04,WorldNpc10063" style="HLStype1">Ung Khách Lục</a>
+interactinfo_38789=Trò chuyện với <a href="findnpc_new,city04,WorldNpc10343" style="HLStype1">Tôn Sĩ Long</a>
+interactinfo_38790=Trò chuyện với <a href="findnpc_new,city04,WorldNpc10059" style="HLStype1">Diêm Thần</a>
+interactinfo_38791=Trò chuyện với <a href="findnpc_new,city04,WorldNpc10338" style="HLStype1">Sở Lâm Hiền</a>
+interactinfo_38792=Trò chuyện với <a href="findnpc_new,city04,WorldNpc10343" style="HLStype1">Tôn Sĩ Long</a>
+interactinfo_38793=Trò chuyện với <a href="findnpc_new,city04,WorldNpc10579" style="HLStype1">Tuần La Quan Binh</a>
+interactinfo_38794=Trò chuyện với <a href="findnpc_new,city04,WorldNpc10015" style="HLStype1">Tịnh Duyên</a>
+okmenu_38780=... Được thôi
+okmenu_38781=Được thôi!
+okmenu_38782=Được thôi!
+okmenu_38783=Được
+okmenu_38784=Được
+okmenu_38785=Không có gì
+okmenu_38786=Được
+okmenu_38787=Được
+okmenu_38788=Được
+okmenu_38789=Được, ta đi đây!
+okmenu_38790=Dạ!
+okmenu_38791=Được
+okmenu_38792=Được
+okmenu_38793=Được
+okmenu_38794=Được
+useiteminfo_38780=Giúp <a href="findnpc_new,city04,WorldNpc10343" style="HLStype1">Tôn Sĩ Long</a> đem <a href="TASK_ITEM,useitem_5pc" style="HLStype1">Thảo Dược</a> nghiền thành bột
+

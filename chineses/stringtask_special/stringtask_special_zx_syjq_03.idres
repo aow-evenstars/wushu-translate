@@ -1,0 +1,97 @@
+﻿
+DialogID_73901=<font face="Default" color="#ffffff" >  </font><font face="Default" color="#ffffff" >Chuyện giữa ngươi và Tần Vương Phủ ở Lạc Dương ta đã biết rồi, ta cũng có phái người đến cửu đại tông phái để bàn bạc chuyện này với các vị chưởng môn.</font>
+DialogID_73902=<font face="Default" color="#ffffff" >Khoan đã, </font><font face="Default" color="#ffffff" >Huyền Hoài phương trượng vẫn chưa biết được ta đã giao nhiệm vụ mật sứ cho ngươi, e là sẽ hoài nghi thân phận của ngươi. Thư này ta tự tay viết, ngươi đưa nó cho phương trượng, y xem xong tự nhiên sẽ giúp ngươi.</font>
+DialogID_73903=<font face="Default" color="#ffffff" >Đây đúng là thư của Lâm minh chủ, vừa rồi đã mạo phạm, mong thiếu hiệp lượng thứ.</font>
+DialogID_73905=<font face="Default" color="#ffffff" >Vừa rồi phương trượng đã phái người đến nói rồi, thư tịch mà thần tăng để lại năm đó ta đã đặt ở đỉnh lầu Tàng Kinh Các rồi, ngươi tự đi lấy xem đi.</font>
+DialogID_73906=<font face="Default" color="#ffffff" >Thiếu hiệp quả nhiên võ nghệ cao cường, vừa rồi đã mạo phạm mong hãy thứ lỗi.</font>
+DialogID_73907=<font face="Default" color="#ffffff" >(Nhận thư) Lần này vất vả rồi.</font>
+DialogID_73909=<font face="Default" color="#ffffff" >  </font><font face="Default" color="#ffffff" >Không ngờ Mật Tông đã hung hãn đến mức như vậy, </font><font face="Default" color="#ffffff" >chuyến đi Nga My rất quan trọng, thiếu hiệp hãy mau xuất phát. Lão phu ở đây trị thương 1 lát là khỏe.</font>
+QiecuoMenu_73901=<font face="Default" color="#ffffff" >Đại sư đừng động thủ, tại hạ có việc đến đây.</font><font face="Default" color="#ffffff" > (Chỉ có thể ứng chiến trước)</font>
+QiecuoMenu_73903=<font face="Default" color="#ffffff" >Đại sư khoan đã, ta là người phương trượng phái đến điều tra manh mối của Mật Tông, xin hãy lưu tình.</font>
+QiecuoTitle_73901=<font face="Default" color="#ffffff" >Ai? Dám xông vào hậu viện Thiếu Lâm?</font><font face="Default" color="#ffffff" > (Nói xong liền tung chưởng qua)</font>
+QiecuoTitle_73903=<font face="Default" color="#ffffff" >  </font><font face="Default" color="#ffffff" >Ngươi là ai? Dám xông vào Tàng Kinh Các? Xem chiêu!</font>
+SubmitNpcEx_73901=<a href="findnpc_new,school08,WorldNpc00212" style="HLStype1">Huyền Hoài đại sư</a> (Khi làm nhiệm vụ đến bước này, có thể trò chuyện cùng đệ tử minh chủ <a href="findnpc_new,city02,WorldNpc01158" style="HLStype1">Diệp Phi</a> ở dưới lầu, y sẽ đưa ngươi đến Thiếu Lâm)
+SubmitNpcEx_73903=<a href="findnpc_new,school08,WorldNpc00212" style="HLStype1">Huyền Hoài đại sư</a> (Sau khi lấy được đạo cụ nhiệm vụ, có thể nói chuyện với đệ tử Thiếu Lâm ở cửa để rời map)
+SubmitNpcEx_73905=<a href="findnpc_new,school08,WorldNpc00212" style="HLStype1">Huyền Hoài đại sư</a> (Sau khi lấy được thư của Mật Tông có thể nói chuyện với tiểu hòa thượng bên cạnh để rời khỏi mật thất Tàng Kinh Các)
+SubmitNpcEx_73907=Sự việc khẩn cấp, mau đến Nga My tìm <a href="findnpc_new,school06,WorldNpc02631" style="HLStype1">Hiên Viên Sở Tinh</a> (Khi làm nhiệm vụ đến bước này, có thể trò chuyện cùng đệ tử minh chủ <a href="findnpc_new,city02,WorldNpc01158" style="HLStype1">Diệp Phi</a> ở dưới lầu, y sẽ đưa ngươi đến Nga My)
+collectinfo_73901=Tìm manh mối mà Mật Tông để lại trong nhà cũ của Tổ Trừng (căn phòng đằng sau Thanh Nghiên chính là nhà cũ Tổ Trừng) (Có thể trò chuyện với <a href="findnpc_new,school08,mzjq_sl_001" style="HLStype1">Thanh Nghiên</a>, vào nhà cũ Tổ Trừng, lật tung các đồ vật trong phòng, hình như có thứ gì được giấu trong đó. Nhấp vào vật phẩm khả nghi trong phòng có thể tìm thấy manh mối)
+collectinfo_73902=Tìm thư của Mật Tông trong Tàng Kinh Các <a href="findnpc_new,," style="HLStype1"></a> (Trò chuyện với <a href="findnpc_new,school08,mzjq_sl_003" style="HLStype1">Thanh Kha</a>, vào mật thất Tàng Kinh Các, có thể xem các kinh sách nằm rải rác dưới đất, hình như ở trong đó có xen lẫn manh mối gì đó)
+hunterinfo_73901=Vội vã đến nhà cũ Tổ Trừng, gặp phải người canh gác hậu viện <a href="findnpc_new,school08,mzjq_sl_001" style="HLStype1">Thanh Nghiên</a>, và đã xảy ra xung đột
+hunterinfo_73902=Dưới sự giúp đỡ của Tổ Danh đại sư, đánh bại <a href="findnpc_new,school08,boss_jqmz_001" style="HLStype1">tăng nhân thần bí</a> đột nhiên xuất hiện (Nếu chưa hoàn thành nhiệm vụ mà rời khỏi map cốt truyện, có thể đến <a href="findnpc_new,school08,EventNpc_wyjq_001" style="HLStype1">Sơn Môn Thiếu Lâm Tự</a> kích hoạt lại cốt truyện để hoàn thành nhiệm vụ)
+hunterinfo_73903=Đánh bại thủ vệ Tàng Kinh Các <a href="findnpc_new,school08,mzjq_sl_003" style="HLStype1">Thanh Kha</a> (Ở đỉnh Tàng Kinh Các, có thể đi từ cầu thang)
+hunterinfo_73904=Thế lực Mật Tông không lấy được thư của Tổ Trừng thẹn quá hóa giận, lại đến hành thích võ lâm minh chủ, giúp Lâm Thiên Nam đánh bại <a href="findnpc_new,," style="HLStype1"></a>thủ lĩnh sát thủ Mật Tông khí thế hung dữ (Nếu vô ý rời khỏi map cốt truyện, có thể <a href="findnpc_new,city02,EventNpc_wyjq_002" style="HLStype1"> rời Tô Châu đến Nga My</a> để vào)
+hunterinfo_73905=Sát thủ hắc y Cẩm Y Vệ Triệu Chỉ bỗng phát hiện ra ngươi, thấy sự việc đã bại lộ, phi thân liền chạy, (Không thể để hắn chạy thoát, ngươi cần nhanh chóng đến trên cầu mượn khinh công nhảy lên để đuổi kịp hắn!) sau đó dưới sự trợ giúp của Hiên Viên Cuồng Lãng đã hợp lực tiêu diệt được Triệu Chỉ (Nếu vô ý rời khỏi map cốt truyện, có thể đến <a href="findnpc_new,school06,EventNpc_wyjq_003" style="HLStype1">núi Nga My</a> để kích hoạt cốt truyện)
+interactinfo_73901=Hỏi minh chủ <a href="findnpc_new,city02,WorldNpc01194" style="HLStype1">Lâm Thiên Nam</a> còn có căn dặn gì
+interactinfo_73902=Cầm thư giới thiệu mà <a href="findnpc_new,city02,WorldNpc01194" style="HLStype1">Lâm Thiên Nam</a> đưa đến Thiếu Lâm
+interactinfo_73903=Đưa thư giới thiệu của minh chủ cho <a href="findnpc_new,school08,WorldNpc00212" style="HLStype1">Huyền Hoài đại sư</a> để chứng tỏ thân phận
+interactinfo_73904=Đến <a href="findnpc_new,school08,EventNpc_wyjq_001" style="HLStype1">Thiếu Lâm Tự Sơn Môn</a>, giả vờ rời Thiếu Lâm Tự
+interactinfo_73905=Nói rõ mục đích đến với <a href="findnpc_new,school08,WorldNpc00262" style="HLStype1">Huyền Chân</a>
+interactinfo_73906=Trò chuyện với thủ vệ Tàng Kinh Các <a href="findnpc_new,school08,mzjq_sl_003" style="HLStype1">Thanh Kha</a> (Ở đỉnh Tàng Kinh Các, có thể đi từ cầu thang)
+interactinfo_73907=Đưa mật thư của Mật Tông cho <a href="findnpc_new,city02,WorldNpc01194" style="HLStype1">Lâm Thiên Nam</a>
+interactinfo_73908=Việc xảy ra đột ngột, <a href="findnpc_new,city02,EventNpc_wyjq_002" style="HLStype1">rời khỏi Tô Châu đến Nga My</a>
+interactinfo_73909=Minh chủ <a href="findnpc_new,city02,WorldNpc01194" style="HLStype1">Lâm Thiên Nam</a> trải qua 1 phen kịch đấu, cuối cùng đã đánh lui cao thủ của Mật Tông, Lâm minh chủ cũng bị nội thương nặng, đến xem xem
+interactinfo_73910=Rời khỏi <a href="findnpc_new,school06,EventNpc_wyjq_003" style="HLStype1">núi Nga My</a> trước
+okmenu_73901=<font face="Default" color="#ffffff" >(Nhỏ giọng)</font><font face="Default" color="#ffffff" > Minh chủ vọi vã triệu kiến là có chuyện gì?</font>
+okmenu_73902=<font face="Default" color="#ffffff" >Đa tạ minh chủ.</font>
+okmenu_73903=<font face="Default" color="#ffffff" >Không sao, lần này phương trượng .</font>
+okmenu_73905=<font face="Default" color="#ffffff" >Tại hạ phụng mệnh Huyền Hoài phương trượng đến xem vật mà Huyền Giám Thần Tăng để lại năm đó, xem xem có manh mối mà Tổ Trừng để lại hay không.</font>
+okmenu_73906=<font face="Default" color="#ffffff" >Sở dĩ tặc nhân Mật Tông không lấy được di vật của Tổ Trừng là nhờ đại sư trông coi Tàng Kinh Các này.</font>
+okmenu_73907=<font face="Default" color="#ffffff" >Minh chủ, trong này đều là những người quan trọng của các môn phái, xem ra chuyện này không phải tầm thường.</font>
+okmenu_73909=<font face="Default" color="#ffffff" >Minh chủ, người không sao chứ?</font>
+story_73901_1=<font face="Default" color="#ffffff" >  </font><font face="Default" color="#ffffff" >Từ chỗ các chưởng môn ta biết được không ít môn phái sớm đã phát hiện ra tung tích hoạt động của gian tế Mật Tông, nhưng do </font><font face="Default" color="#ffffff" >ngăn cách giữa các môn phái</font><font face="Default" color="#ffffff" >, </font><font face="Default" color="#ffffff" >vì vậy ta đều </font><font face="Default" color="#ffffff" >xử lý bí mật mà không công khai.</font>
+story_73901_2=<font face="Default" color="#ffffff" >  </font><font face="Default" color="#ffffff" >Hiện nay Mật Tông ngày càng phát triển, sau khi thảo luận với chưởng môn các phái, ta quyết định cử một sứ giả liên lạc qua lại với từng phái để giúp mỗi phái tập trung xử lý chuyện của Mật Tông, có lẽ sẽ có thêm nhiều manh mối về Mật Tông. Ta thấy chuyện này không ai khác ngoài ngươi.</font>
+story_73901_3=<font face="Default" color="#ffffff" >  </font><font face="Default" color="#ffffff" >Từ chỗ chủ trì Thiếu Lâm Huyền Hoài phương trượng ta biết được, thủ tọa Bồ Đề Viện trước đây của Thiếu Lâm Tự-Tổ Trừng là 1 trong lục đại hộ pháp của Mật Tông, từng nhìn trộm võ học cao thâm của Thiếu Lâm Tự, khiêu khích mối quan hệ của </font><font face="Default" color="#ffffff" >các</font><font face="Default" color="#ffffff" > môn phái, là người có thân phận cao nhất trong các gian tế Mật Tông được biết đến ở các phái hiện nay. Hiện tuy Tổ Trừng đã bị trừng phạt, nhưng Thiếu Lâm Tự vẫn chưa tiếp tục điều tra chuyện Mật Tông, có lẽ trong nhiều năm Tổ Trừng vẫn còn lưu lại manh mối của Mật Tông ở Thiếu Lâm mà vẫn chưa bị ai phát giác. Ta lệnh ngươi đến Thiếu Lâm 1 chuyến.</font>
+story_73902_1=<font face="Default" color="#ffffff" >Tổ Trừng đã ẩn náu ở Thiếu Lâm Tự nhiều năm, âm hiểm giảo hoạt, luôn không để lộ ra sơ hở</font><font face="Default" color="#ffffff" >, cho đến ngày hắn bị lộ tẩy lão nạp mới biết thân phận thật sự của hắn, thật là hổ thẹn.</font>
+story_73902_2=<font face="Default" color="#ffffff" >Nhưng từ sau khi Tổ Trừng mất, nơi ở trước của hắn không có người mới đến ở, thiếu hiệp có thể đến xem thử có manh mối gì để lại không.</font>
+story_73903_1=<font face="Default" color="#ffffff" >  </font><font face="Default" color="#ffffff" >Thiếu hiệp có điều không biết, nơi cửa Phật thanh tịnh. Ta phụng mệnh canh giữ ở đây nhiều năm, trước đây cũng không có chuyện gì kỳ quái. Không biết vì sao gần đây ban đêm lại có người thần bí lén lút, khinh công lợi hại. Nhưng tiểu tăng võ nghệ không giỏi, không làm gì được.</font>
+story_73903_2=<font face="Default" color="#ffffff" >Đúng vậy, kỳ lạ là chúng cũng không đến nơi khác, chỉ xuất hiện ở gần nơi Tổ Trừng ở</font><font face="Default" color="#ffffff" >.</font>
+story_73904_1=<font face="Default" color="#ffffff" >Không biết thiếu hiệp có diệu kế gì có thể dụ kẻ xấu từ bóng tối ra?</font>
+story_73904_2=<font face="Default" color="#ffffff" >Kế này rất hay, ta sẽ phái Tổ Danh lén đi theo âm thầm giúp ngươi.</font>
+story_73905_1=<font face="Default" color="#ffffff" >Trừ nơi ở của Tổ Trừng ra, còn có 1 nơi Tổ Trừng cũng ở qua. Thì ra năm đó Thần Tăng Huyền Giám đem Tổ Trừng từ Tây Vực trở về, vài ngày đầu Tổ Trừng đã ở thiền phòng Huyền Giám, có lẽ Tổ Trừng có để lại gì đó mà nhất thời không đem đi được.</font>
+story_73905_2=<font face="Default" color="#ffffff" >Đúng vậy, </font><font face="Default" color="#ffffff" >mà Huyền Giám Thần Tăng được liệt vào 1 trong Lục Thánh, dù gan của Mật Tông có lớn thế nào cũng không dám phái người tìm đồ dưới con mắt của Huyền Giám được, khi Huyền Giám Thần Tăng rời tự đi ngao du đều đặt phần lớn sưu tập vào Tàng Kinh Các giao cho Huyền Chân đại sư đích thân trông coi, Mật Tông cũng không có cơ hội dò xét. Chi bằng ngươi đi hỏi Huyền Chân đại sư trông coi Tàng Kinh Các xem xem có manh mối gì không.</font>
+story_73906_1=<font face="Default" color="#ffffff" >Hiên Viên Sở Tinh của phái Nga My, Hiên Viên Cuồng Lãng của Cẩm Y Vệ đều là gian tế Mật Tông. Bây giờ ngươi lập tức đến bẩm báo Lâm minh chủ. </font><font face="Default" color="#ffffff" >Những người này có danh tiếng trên giang hồ đã lâu, thật không ngờ lại là gian tế mà Mật Tông cài vào các đại môn phái!</font>
+story_73907_1=<font face="Default" color="#ffffff" >Trong những người này thì thân phận của Dư Mạnh Thu sớm đã bị bại lộ, còn Cẩm Y Vệ tuy đã rời khỏi triều đình, nhưng hiện tại triều đình đang điều tra chuyện Mật Tông, Cẩm Y Vệ không thể không tham gia, dù ngươi đi thì dưới sự giám sát cũng rất khó điều tra ra gì.</font>
+story_73907_2=<font face="Default" color="#ffffff" >  Tuyệt Trần Sư Thái của Nga My sớm đã phát giác Hiên Viên Sở Tinh lai lịch bất thường, nhưng nữ nhân nay có lòng tốt, chưa từng làm chuyện gì nguy hại cho Nga My và võ lâm, nên Tuyệt Trần Sư Thái chưa nghiên cứu việc này. Trước mắt đến Nga My, xem có manh mối gì giá trị không.</font>
+story_73908_1=<font face="Default" color="#ffffff" >  Mấy năm ta ở Nga My được sư tỷ muội đối đãi chân thành, bản thân không làm việc gì bất lợi cho sư môn. Chí khí khi cùng ca ca bị sư môn phái đi thực hiện nhiệm vụ, đã sớm bị tiêu tan rồi.</font>
+story_73908_2=<font face="Default" color="#ffffff" >  Nay Mật Tông vùng dậy, thế lực đằng sau không phải các ngươi có thể chống lại, nên dừng tay, đừng chuốc họa vào thân.</font>
+story_73909_1=<font face="Default" color="#ffffff" >Bây giờ không chỉ Mật Tông và Thiên Ngoại Thiên coi ngươi như cái gai trong mắt, mà thủ đoạn của triều đình và Cẩm Y Vệ cũng không thua Mật Tông chút nào, nếu ngươi thức thời thì biến mất ở đây có lẽ còn thoát đươc nạn, nếu dám gây bất lợi cho Hiên Viên Sở Tinh thì sẽ rơi vào kết cục như Triệu Chỉ..</font>
+story_73910_1=<font face="Default" color="#ffffff" >Hiện tại ta chỉ có thể ở ẩn để tránh nghi ngờ, sau này ngươi có thể đến Tần Vương Phủ giúp Tần Vương, như thế thì chuyện này mới có thể có tiến triển.</font>
+story_menu_73901=<font face="Default" color="#ffffff" >Không biết minh chủ có </font><font face="Default" color="#ffffff" >dự định gì?</font>
+story_menu_73902=<font face="Default" color="#ffffff" >Hiện Mật Tông gây sự khắp nơi, chưởng môn làm vậy cũng là việc đương nhiên.</font><font face="Default" color="#ffffff" > Không biết năm đó Tổ Trừng có để lại manh mối gì trong tự không?</font>
+story_menu_73903=<font face="Default" color="#ffffff" >Mong đại sư nói rõ?</font>
+story_menu_73904=<font face="Default" color="#ffffff" >  </font><font face="Default" color="#ffffff" >Tại hạ có kế này không biết có thể dụ hắn ra không.</font>
+story_menu_73905=<font face="Default" color="#ffffff" >Mong đại sư nghĩ kỹ.</font>
+story_menu_73906=<font face="Default" color="#ffffff" >Trước đây Dư Mạnh Thu của Quân Tử Đường bị lộ ra là gian tế của Mật Tông, lẽ nào còn có người khác?</font>
+story_menu_73907=<font face="Default" color="#ffffff" >Minh chủ có dự định gì không?</font>
+story_menu_73908=<font face="Default" color="#ffffff" >Những hành động gần đây của Mật Tông rốt cuộc có mục đích gì?</font>
+story_menu_73909=<font face="Default" color="#ffffff" >Đừng nói xằng nói bậy, Lâm minh chủ sẽ không tha cho Mật Tông các ngươi đâu</font><font face="Default" color="#ffffff" >, chân tướng chắc chắn sẽ được phơi bày.</font>
+story_menu_73910=<font face="Default" color="#ffffff" >Sao lại biến thành thế này</font><font face="Default" color="#ffffff" >?</font>
+storyinfo_73901=Nghe ngóng ngọn ngành sự việc từ <a href="findnpc_new,city02,WorldNpc01194" style="HLStype1">Lâm Thiên Nam</a>
+storyinfo_73902=Trò chuyện với <a href="findnpc_new,school08,WorldNpc00212" style="HLStype1">Huyền Hoài đại sư</a> để tìm hiểu quá khứ của Tổ Trừng
+storyinfo_73903=Nói rõ mục đích đến với <a href="findnpc_new,school08,mzjq_sl_001" style="HLStype1">Thanh Nghiên</a>
+storyinfo_73904=Bàn bạc kế sách cùng <a href="findnpc_new,school08,WorldNpc00212" style="HLStype1">Huyền Hoài đại sư</a>
+storyinfo_73905=Mong <a href="findnpc_new,school08,WorldNpc00212" style="HLStype1">Huyền Hoài đại sư</a> nhớ kĩ lại năm đó Tổ Trừng còn để lại manh mối gì không
+storyinfo_73906=Tìm hiểu những bí mật trong thư từ <a href="findnpc_new,school08,WorldNpc00212" style="HLStype1">Huyền Hoài đại sư</a>
+storyinfo_73907=Lắng nghe đối sách của <a href="findnpc_new,city02,WorldNpc01194" style="HLStype1">Lâm Thiên Nam</a>
+storyinfo_73908=Hỏi <a href="findnpc_new,school06,WorldNpc02631" style="HLStype1">Hiên Viên Sở Tinh</a> rốt cuộc đã biết được những gì
+storyinfo_73909=Trò chuyện với <a href="findnpc_new,school06,mzjq_sl_005" style="HLStype1">Hiên Viên Cuồng Lãng</a>
+storyinfo_73910=Nghe <a href="findnpc_new,city02,WorldNpc01194" style="HLStype1">Lâm Thiên Nam</a> nói
+storymenu_73901_1=<font face="Default" color="#ffffff" >Mật Tông lại hung hăng như vậy, nanh vuốt đã thâm nhập vào các đại tông phái rồi!</font>
+storymenu_73901_2=<font face="Default" color="#ffffff" >Đa tạ Minh Chủ hậu ái, tại hạ nhất định hoàn thành sứ mệnh.</font>
+storymenu_73901_3=<font face="Default" color="#ffffff" >Tại hạ tuân lệnh</font>
+storymenu_73902_1=<font face="Default" color="#ffffff" >Giờ không phải là lúc than thở, mau tranh thủ tìm manh mối </font><font face="Default" color="#ffffff" >liên quan</font><font face="Default" color="#ffffff" > Mật Tông.</font>
+storymenu_73902_2=<font face="Default" color="#ffffff" >Đa tạ chưởng môn</font>
+storymenu_73903_1=<font face="Default" color="#ffffff" >Hắc y nhân thần bí ư? (Xem ra phải tranh thủ)</font>
+storymenu_73903_2=<font face="Default" color="#ffffff" >Chắc chắn là người của Mật Tông, xem ra phải tranh thủ thời gian. </font><font face="Default" color="#ffffff" >Đại sư, hãy để tại hạ vào trong xem một chuyến.</font>
+storymenu_73904_1=<font face="Default" color="#ffffff" >  Người này nhiều lần xuất hiện ở nơi ở của Tổ Trừng và chưa rời đi, chứng tỏ hắn chưa có được manh mối của Tổ Trừng để lại. Giờ ta nhận được hộp này, có thể vờ như đã có manh mối. Ta cầm hộp giả vờ rời đi, hắn nhất định sẽ đuổi theo đoạt lấy hộp, Lúc đó xin nhờ đại sư tương trợ.</font>
+storymenu_73904_2=<font face="Default" color="#ffffff" >  </font><font face="Default" color="#ffffff" >Đa tạ phương trượng tương trợ.</font>
+storymenu_73905_1=<font face="Default" color="#ffffff" >Thật không ngờ, Tổ Trường lại do Huyền Giám Thần Tăng, một trong Lục Thánh năm xưa mang về.</font>
+storymenu_73905_2=<font face="Default" color="#ffffff" >Đa tạ phương trượng, để tại hạ đi thăm dò một phen.</font>
+storymenu_73906_1=<font face="Default" color="#ffffff" >Việc này quan trọng, tại hạ phải về </font><font face="Default" color="#ffffff" >bẩm báo Minh Chủ.</font>
+storymenu_73907_1=<font face="Default" color="#ffffff" >Vậy thì đành phải quan sát Hiên Viên Sở Tinh.</font>
+storymenu_73907_2=<font face="Default" color="#ffffff" >Tại hạ xuất phát ngay.</font>
+storymenu_73908_1=<font face="Default" color="#ffffff" >  </font><font face="Default" color="#ffffff" >Nhiều năm như vậy chẳng nghe nói ngươi làm chuyện gì trái đạo lý, xem ra ngươi đã xem nhẹ hồng trần, ở chốn phật môn thanh tịnh tu hành phật pháp.</font>
+storymenu_73908_2=<font face="Default" color="#ffffff" >  </font><font face="Default" color="#ffffff" >Chúng ta sẽ không ngồi nhìn Mật Tông gây hại võ lâm. Sư thái đã nói là không biết gì, tại hạ xin cáo từ trước.</font>
+storymenu_73909_1=<font face="Default" color="#ffffff" >Hãy đợi mà xem.</font>
+storymenu_73910_1=<font face="Default" color="#ffffff" >Minh Chủ hãy bảo trọng.</font>
+
