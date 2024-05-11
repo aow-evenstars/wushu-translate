@@ -1,0 +1,573 @@
+﻿
+DialogID_81501=<font face="Default" color="#ffffff" >残杀同门？一朝叛离？你问问戎箭看看。</font>
+DialogID_81502=<font face="Default" color="#ffffff" >这么一说我倒是确实想到了一个人，八年前丐帮发生了一件大事，一个丐帮弟子在破庙残杀同门，最后逃出丐帮。当年的事情季俊比较清楚，你去问问他？</font>
+DialogID_81510=<font face="Default" color="#ffffff" >你将这</font><font face="Default" color="#ffffff" >两</font><font face="Default" color="#ffffff" >份户贴带给高文甫、相军伦</font><font face="Default" color="#ffffff" >两</font><font face="Default" color="#ffffff" >位久居鸡鸣驿的百姓，让他们记得填好上面的花名册事宜，另外别忘了填好户别，户别有“军户”、“民户”或者“匠户”。</font>
+DialogID_81511=<font face="Default" color="#ffffff" >这户贴是要我们填吗？劳烦少侠你跑一趟了，我填好了就送给镇长。</font>
+DialogID_81512=<font face="Default" color="#ffffff" >让我看看这户贴，要填这么多东西啊！</font>
+DialogID_81514=<font face="Default" color="#ffffff" >放心，我填好了就送给镇长。</font>
+DialogID_81515=<font face="Default" color="#ffffff" >你干的很不错，我看这地图上面记载的地方应该在恶人谷的雪山，你赶紧前往过去看看。</font>
+DialogID_81516=<font face="Default" color="#ffffff" >不错不错，你这次可算是立了大功。</font>
+DialogID_81517=<font face="Default" color="#ffffff" >看来我们的调查活动已经被人发觉了。</font>
+DialogID_81523=<font face="Default" color="#ffffff" >是四大寇的血书，希望我派高手帮助营救丁九重。</font>
+DialogID_81529=<font face="Default" color="#ffffff" >门下弟子已经通知过我，你要的唐针我已经准备好了</font><font face="Default" color="#ffffff" >。</font>
+DialogID_81530=<font face="Default" color="#ffffff" >还有，这些药我也准备好了，你带回去给萧帮主吧。</font>
+DialogID_81531=<font face="Default" color="#ffffff" >恩，你回来了。</font>
+QiecuoMenu_81507=<font face="Default" color="#ffffff" >放马过来！</font>
+QiecuoMenu_81514=<font face="Default" color="#ffffff" >放马过来吧！</font>
+QiecuoTitle_81507=<font face="Default" color="#ffffff" >我可不会留手，哼，小心了!</font>
+QiecuoTitle_81514=<font face="Default" color="#ffffff" >你准备好了吗？</font>
+SubmitNpcEx_56532=前往<a href="findnpc_new,school02,npc_4neidh_gb" style="HLStype1">掌事师叔</a>处回禀结果。
+SubmitNpcEx_56537=听<a href="findnpc_new,school02,WorldNpc03003" style="HLStype1">萧天放</a>诉说
+SubmitNpcEx_56544=返回丐帮与<a href="findnpc_new,school02,WorldNpc03003" style="HLStype1">萧天放</a>诉说
+collectinfo_81503=翻开<a href="findnpc_new,city01,Gather_4nei_gb003" style="HLStype1">土堆</a>
+collectinfo_81504=前往<a href="findnpc_new,school02,Gather_4nei_gb004" style="HLStype1">调查线索</a>
+collectinfo_81505=查看<a href="findnpc_new,school02,Gather_4nei_gb005" style="HLStype1">尸体</a>
+collectinfo_81507=去<a href="findnpc_new,born03,PlotDoor5neigbqz002" style="HLStype1">栖凤山</a>捉鹿，并拿到鹿茸（使用捕兽夹道具在原地放下捕兽夹，鹿经过的时候就会被捕捉到。捕兽夹可以在老郎中那里用碎银购买）
+collectinfo_81508=前往雁门关，收集<a href="findnpc,clone004_wln,278,1,430" style="HLStype1">胡杨草</a>
+collectinfo_81509=收集<a href="findnpc_new,," style="HLStype1"></a>虎骨
+collectinfo_81510=收集<a href="findnpc_new,," style="HLStype1"></a>唐针
+collectinfo_81511=攻克<a href="findnpc_new,school02,monm021100" style="HLStype1">巨熊</a>，收集<a href="findnpc_new,," style="HLStype1"></a>熊掌
+hunterinfo_81501=击败<a href="findnpc_new,school02,NPC_4nei_gb002" style="HLStype1">NPC_4nei_gb002</a>
+hunterinfo_81502=前往恶人谷的<a href="findnpc_new,born02,PlotDoor00035" style="HLStype1">雪山</a>，与磨刀堂一战，要回打狗棒。
+hunterinfo_81503=前往金陵郊外找到<a href="findnpc_new,city03,NPC_4nei_gb005" style="HLStype1">李师傅</a>。
+hunterinfo_81504=击败<a href="findnpc_new,born01,NPC_4nei_gb006" style="HLStype1">毕家火</a>
+hunterinfo_81505=击败<a href="findnpc_new,school02,monm021401" style="HLStype1">乔装的密宗探子</a>
+hunterinfo_81507=击败<a href="findnpc_new,city02,5nei_gbmdt001" style="HLStype1">李立</a>
+hunterinfo_81508=击败<a href="findnpc_new,city02,NPC_5nei_gbzd001" style="HLStype1">陈万三</a>
+hunterinfo_81509=击败<a href="findnpc_new,city02,NPC_5nei_gbzd002" style="HLStype1">卢王紫</a>
+hunterinfo_81510=击败<a href="findnpc_new,city02,NPC_5nei_gbzd003" style="HLStype1">吴高冠</a>
+hunterinfo_81513=击败<a href="findnpc_new,adv031,NPC_5nei_gbzd004" style="HLStype1">金正仇</a>
+hunterinfo_81514=挑战<a href="findnpc_new,school02,NPC_5nei_gbysx001" style="HLStype1">燕双行</a>
+interactinfo_81501=与<a href="findnpc_new,school02,gb120" style="HLStype1">米伟</a>交谈
+interactinfo_81502=与<a href="findnpc_new,school02,gb121" style="HLStype1">戎箭</a>交谈
+interactinfo_81510=与<a href="findnpc_new,born01,WorldNpc10673" style="HLStype1">李富贵</a>交谈
+interactinfo_81511=与<a href="findnpc_new,born01,WorldNpc10622" style="HLStype1">高文甫</a>交谈
+interactinfo_81512=与<a href="findnpc_new,born01,WorldNpc10949" style="HLStype1">相军伦</a>交谈
+interactinfo_81514=与<a href="findnpc_new,born01,WorldNPC10738" style="HLStype1">于潜潜</a>交谈
+interactinfo_81515=与<a href="findnpc_new,school02,gb161" style="HLStype1">谭仕刚</a>交谈
+interactinfo_81516=回到丐帮与<a href="findnpc_new,school02,gb161" style="HLStype1">谭仕刚</a>交谈
+interactinfo_81517=与<a href="findnpc_new,school02,WorldNpc03003" style="HLStype1">萧天放</a>交谈
+interactinfo_81523=与<a href="findnpc_new,school02,WorldNpc03003" style="HLStype1">萧天放</a>交谈
+interactinfo_81524=与<a href="findnpc_new,born03,yyz068" style="HLStype1">邓建</a>交谈
+interactinfo_81526=前往苏州<a href="findnpc_new,city02,EventNpc_5nei_gb002" style="HLStype1">酒楼</a>，找到书生连青城并保护他。
+interactinfo_81527=去船上前往空谷
+interactinfo_81528=追到<a href="findnpc,adv031,175,19,31" style="HLStype1">前面</a>去看看
+interactinfo_81529=去医师<a href="findnpc_new,school05,tm047" style="HLStype1">唐如海</a>那里拿唐针
+interactinfo_81530=从神医<a href="findnpc_new,school02,NPC_5nei_gbsy001" style="HLStype1">开飞机</a>取得疗伤圣药
+interactinfo_81531=将疗伤圣药交给帮主<a href="findnpc_new,school02,WorldNpc03003" style="HLStype1">萧天放</a>
+okmenu_81501=<font face="Default" color="#ffffff" >米兄你知道“破庙之争残杀同门不仁不义，十年养育一朝叛离不忠不孝”这句话指的是谁吗</font><font face="Default" color="#ffffff" >？</font>
+okmenu_81502=<font face="Default" color="#ffffff" >戎箭兄你知道“破庙之争残杀同门不仁不义，十年养育一朝叛离不忠不孝”这句话指的是谁吗？</font>
+okmenu_81510=<font face="Default" color="#ffffff" >放心吧镇长，</font><font face="Default" color="#ffffff" >我这就过去。</font>
+okmenu_81511=<font face="Default" color="#ffffff" >镇长让我提醒你们</font><font face="Default" color="#ffffff" >别忘了填户别，有“军户”、“民户”</font><font face="Default" color="#ffffff" >、</font><font face="Default" color="#ffffff" >“匠户</font><font face="Default" color="#ffffff" >”三种。</font>
+okmenu_81512=<font face="Default" color="#ffffff" >镇长让我提醒你们别忘了填户别，有“军户”、“民户”、“匠户”三种。</font>
+okmenu_81514=<font face="Default" color="#ffffff" >镇长让我提醒你们别忘了填户别，有“军户”、“民户”、“匠户”三种。</font>
+okmenu_81515=<font face="Default" color="#ffffff" >弟子遵命！</font>
+okmenu_81516=<font face="Default" color="#ffffff" >长老，幸不辱命。</font>
+okmenu_81517=<font face="Default" color="#ffffff" >那接下来该如何是好？</font>
+okmenu_81523=<font face="Default" color="#ffffff" >那</font><font face="Default" color="#ffffff" >帮主</font><font face="Default" color="#ffffff" >为何还不派人？</font>
+okmenu_81529=<font face="Default" color="#ffffff" >多谢前辈</font><font face="Default" color="#ffffff" >！</font>
+okmenu_81530=<font face="Default" color="#ffffff" >恩，多谢开神医了。</font>
+okmenu_81531=<font face="Default" color="#ffffff" >帮主，弟子回来了，这是开神医让我交给您的药。</font>
+story_81501_1=<font face="Default" color="#ffffff" >此事说来话长，相信你也应该猜到几分，上次本帮打狗棒被贼人盗走一事你可知晓？</font>
+story_81501_2=<font face="Default" color="#ffffff" >根据那个贼人所说，丐帮弟子前往禁地确实收集到一些奇怪的东西，我们推测此事与一个神秘人有关，在那些奇怪的羊皮残片里面似乎有提到和丐帮相关的一句话。</font>
+story_81501_3=<font face="Default" color="#ffffff" >“破庙之争残杀同门不仁不义，十年养育一朝叛离不忠不孝”你需要根据这句话找到那个神秘人。</font>
+story_81502_1=<font face="Default" color="#ffffff" >嗯，我也想到了那件事，当初正是我跟几位长老赶到破庙，得知毕家火打伤几位师兄叛离丐帮。</font>
+story_81502_2=<font face="Default" color="#ffffff" >这你可以问问霍让香主，江湖上的事没有他不知道的。</font>
+story_81503_1=<font face="Default" color="#ffffff" >干的不错</font><font face="Default" color="#ffffff" >，</font><font face="Default" color="#ffffff" >还有</font><font face="Default" color="#ffffff" >门派交代一事可有什么线索？</font>
+story_81503_2=<font face="Default" color="#ffffff" >哦？有什么事尽管说。</font>
+story_81503_3=<font face="Default" color="#ffffff" >毕家火？此人自从上次短暂的重出江湖之后，很快就销声匿迹了，他似乎独来独往，虽说丐帮弟子遍布天下，不过最近几个月确实没有他的下落。看样子我要让各分舵弟子加紧留意此人了。</font>
+story_81504_1=<font face="Default" color="#ffffff" >刚刚传来的消息，</font><font face="Default" color="#ffffff" >经过对羊皮残片的研究，我们发现原来那贼人总共留下了三句话，之前的一句我们已经知道说的是人是毕家火，而这第二句现如今也破解出来了。</font>
+story_81504_2=<font face="Default" color="#ffffff" >根据羊皮残片上的信息，门派中推测出第二句写的是“七年不见重出江湖意图不轨，君子弃徒行刺丐帮幕后黑手”。</font>
+story_81504_3=<font face="Default" color="#ffffff" >嗯，毕家火在消失七年之后重出江湖，当时正是燕京的薛总镖头和百兽庄的史舒鹰庄主那里传来的消息，现在需要你前往跑一趟，过去之后一定要打听清楚所有关于毕家火的消息。</font>
+story_81505_1=<font face="Default" color="#ffffff" >让你调查的事情就有下落了？</font>
+story_81505_2=<font face="Default" color="#ffffff" >哦？这么一说我到有几分印象，你可打听到毕家火的下落？</font>
+story_81505_3=<font face="Default" color="#ffffff" >这？连我丐帮弟子都没有此人的消息，那盗走打狗棒贼人所说难道是故意迷惑我们的？还是这禁地中羊皮残片尚未收集足够，我们没有发现更多的线索？此事还需商议一番，你回去以后通知众弟子继续收集羊皮残片。另外，这份书页拿回去好好参悟，争取内功更上一层楼。</font>
+story_81506_1=<font face="Default" color="#ffffff" >你是丐帮弟子？！找我何事？</font>
+story_81506_2=<font face="Default" color="#ffffff" >是又何妨？不是又何妨？我早非丐帮中人，这位少侠找我又有何贵干？</font>
+story_81506_3=<font face="Default" color="#ffffff" >打狗棒？此乃丐帮至宝，与我何干，你问错人了吧。</font>
+story_81506_4=<font face="Default" color="#ffffff" >这件事我确实不知，你问错人了，还是请回吧。</font>
+story_81506_5=<font face="Default" color="#ffffff" >哈哈，丐帮只当我是叛徒一个，什么时候我又变成丐帮弟子了，当年不问青红皂白冤枉诬陷于我，现在又何谈养育之恩。</font>
+story_81506_6=<font face="Default" color="#ffffff" >当年一事我不想与你争论。不管你信与不信，丐帮打狗棒之事与我无关，你们听信一个盗走打狗棒的人留下的线索，实在可笑。我再说一遍，此事与我无关</font><font face="Default" color="#ffffff" >！</font>
+story_81508_1=<font face="Default" color="#ffffff" >少侠不必客气，不知有何贵干？</font>
+story_81508_2=<font face="Default" color="#ffffff" >原来是谭兄所托，你尽管问。</font>
+story_81508_3=<font face="Default" color="#ffffff" >原来是这件事</font><font face="Default" color="#ffffff" >，</font><font face="Default" color="#ffffff" >毕家火</font><font face="Default" color="#ffffff" >确实</font><font face="Default" color="#ffffff" >有向本庄</font><font face="Default" color="#ffffff" >借走了一样灵物，此乃我百兽庄最特殊一种灵兽，名曰九尾灵狐，也有人叫它寻宝灵狐，因为这灵兽能够找到世间各种宝物的下落。</font>
+story_81508_4=<font face="Default" color="#ffffff" >不过每次驱使九尾灵狐寻宝都需要提前做好很多准备，喂食一些珍贵的食材、药材，事后灵狐也会修养很长一段时间，当初毕家火借走之后过了一段时间就还回来了，不过很明显的可以看出灵狐已经寻过一次宝了，至于具体是寻的什么我就不得而知了。</font>
+story_81509_1=<font face="Default" color="#ffffff" >是不是寻宝灵狐？</font>
+story_81509_2=<font face="Default" color="#ffffff" >果然如此，怪不得当初打狗棒找回来之后帮主发现似乎有寻宝灵狐的痕迹，当时帮主顾忌与百兽庄的情谊并未深究此事，看来是我等误会百兽庄了，做此事的人原来是毕家火。</font>
+story_81509_3=<font face="Default" color="#ffffff" >对，那次你也有所经历，当时有一伙贼人用的唐门兵器行刺帮主，打伤众多丐帮兄弟，后来通过收集贼人留下的线索，在后山破庙拿回来了贼人趁乱盗走的打狗棒。后来经过调查和唐门掌门交代，行刺之人是唐门的叛徒唐芸和邢君可，而刚刚你找回来的银针据我所知就是唐芸独门绝技红断千绝所发。</font>
+story_81509_4=<font face="Default" color="#ffffff" >对，幸亏上次帮主英明，提前发现了贼人留下的踪迹，又前往破庙夺回了打狗棒。没想到</font><font face="Default" color="#ffffff" >这次还是让贼人盗走了打狗棒，看样子肯定是毕家火还不死心。</font>
+story_81509_5=<font face="Default" color="#ffffff" >“七年不见重出江湖意图不轨，君子弃徒行刺丐帮幕后黑手”，看样子说的正是毕家火重出江湖之后与君子堂的弃徒邢君可还有唐门的唐芸一起谋划了当初行刺丐帮并趁乱偷走打狗棒一事，可是这次盗走打狗棒的贼人为什么会留下来这个线索呢？</font>
+story_81509_6=<font face="Default" color="#ffffff" >按照最初所说，我们要破解他留下的三个问题才会归还至宝。总之如今已经破解开了两句话。</font><font face="Default" color="#ffffff" >我们暂且继续在禁地找寻线索。</font>
+story_81511_1=<font face="Default" color="#ffffff" >你来的正好，经过多日研究，我们发现了禁地里留下的羊皮残片的</font><font face="Default" color="#ffffff" >最后一段话</font><font face="Default" color="#ffffff" >。</font>
+story_81511_2=<font face="Default" color="#ffffff" >“漠河小镇神秘邪教潜伏多年，神庙大厅兽神雕像隐世之密”这句话不知道又说的是什么？</font>
+story_81511_3=<font face="Default" color="#ffffff" >嗯，你可以去</font><font face="Default" color="#ffffff" >鸡鸣驿</font><font face="Default" color="#ffffff" >问问看，</font><font face="Default" color="#ffffff" >这个漠河小镇我看应该说的就是鸡鸣驿的漠河镇</font><font face="Default" color="#ffffff" >。</font>
+story_81512_1=<font face="Default" color="#ffffff" >好说好说，只是老头儿现在忙的焦头烂额，实在是有些力不从心啊。</font>
+story_81512_2=<font face="Default" color="#ffffff" >是这样的</font><font face="Default" color="#ffffff" >，前些年朝廷吩咐各地填写户贴上缴，当时漠河镇就那么几户人家，一直没有填这个户贴，这不，这两天户部派人来催缴户贴了，现在的漠河镇可有那么多人家啊，这怎么忙的过来啊。</font>
+story_81512_3=<font face="Default" color="#ffffff" >这是太祖皇帝吩咐下来的，各家各户要填写户贴，写上花名册和户别，然后封存户部，每年都要清查呢。这不，我们漠河镇地处偏远，倒是一直没有上缴，都拖到现在了。我手里还有好几张户贴没有给镇里的百姓。</font>
+story_81512_4=<font face="Default" color="#ffffff" >那可真是多谢少侠了，这可是朝廷吩咐下来的，你可要小心点不要弄丢了。</font>
+story_81514_1=<font face="Default" color="#ffffff" >这位少侠有什么事吗？</font>
+story_81514_2=<font face="Default" color="#ffffff" >你是不是想打听毕家火的消息？</font>
+story_81514_3=<font face="Default" color="#ffffff" >一饮一啄，自有天意。既然是丐帮弟子前来，贫道知无不言。少侠想知道什么尽管问吧。</font>
+story_81514_4=<font face="Default" color="#ffffff" >哦？说的是什么？</font>
+story_81514_5=<font face="Default" color="#ffffff" >这件事还要从当年毕家火离开丐帮之后说起，想必当年毕家火叛离丐帮一事你已知晓，后来毕家火被追杀至绝境，江湖中人以为他已经死了，却不知他被一个黑衣人救走。</font><font face="Default" color="#ffffff" >之后毕家火便一直在一个秘密的地方被传授各种武功，直到有一天那个黑衣人出现，交给毕家火一个任务。</font>
+story_81514_6=<font face="Default" color="#ffffff" >正是，这就关系到你那句话中的后半句，</font><font face="Default" color="#ffffff" >“</font><font face="Default" color="#ffffff" >神庙大厅兽神雕像隐世之密</font><font face="Default" color="#ffffff" >”白鲁卡神庙隐藏了一个前朝大将的秘密，据说他兵败逃往鸡鸣驿，将前朝的一个惊天秘密藏在那一个兽神雕像里。有的人说那个惊天秘密是一本绝世兵法和武功，有的人也说那里面藏着前朝的财富。</font>
+story_81514_7=<font face="Default" color="#ffffff" >真正的雕像可能早已经被人拿走了又或者根本不存在，总之，最后却是不了了之。</font><font face="Default" color="#ffffff" >只留下一些武林好手跟随毕家火在华北自成一派隐藏着势力，却也是被那黑衣人控制。</font>
+story_81514_8=<font face="Default" color="#ffffff" >之后毕家火离开了鸡鸣驿的事情我就不知道了。不过</font><font face="Default" color="#ffffff" >如果你要找毕家火，你可以去白鲁卡神庙看一看，或许你可以找到什么线索。</font>
+story_81520_1=<font face="Default" color="#ffffff" >少侠不必多礼，少侠此次前来是有什么紧要物件需要运镖吗？</font>
+story_81520_2=<font face="Default" color="#ffffff" >原来是谭兄所托，我一定知无不言。</font>
+story_81520_3=<font face="Default" color="#ffffff" >对，确有此事，此人参与了一场劫镖，刚好镖局中一位镖师当年参与过追捕毕家火的行动，就此认出了此人。</font>
+story_81520_4=<font face="Default" color="#ffffff" >当然，游镖师刚好就在门外，你有什么事都可以问他。</font>
+story_81521_1=<font face="Default" color="#ffffff" >少侠不必多礼，不知少侠想问什么事？</font>
+story_81521_2=<font face="Default" color="#ffffff" >你问此事啊，让我想一想……确实，当初本来是一趟唐门委托的镖，</font><font face="Default" color="#ffffff" >是一车唐门的独门兵器，</font><font face="Default" color="#ffffff" >我们几个镖师加上几个唐门弟子一同押镖的，谁知道来劫镖的几个人武功十分高强，我们几人不敌，很快就溃败了，还好唐门的弟子也参与了押镖，倒是没有追究我们太多。</font>
+story_81521_3=<font face="Default" color="#ffffff" >准确的说，他们是分两批前来的，先来的一批人均蒙面黑衣，是一男一女带头的，毕家火是后来的。毕家火来的时候我们已经溃不成军了，只是毕家火没有蒙面我一眼认出了他，随后就被打晕了。</font>
+story_81521_4=<font face="Default" color="#ffffff" >很有可能。哦，对了，当初我被一女子打伤，回来之后从伤口处发现了好几根细针，我记得后来那针被我丢到后院的土堆里面了，你可以找找看，应该还在那里。</font>
+story_81522_1=<font face="Default" color="#ffffff" >不错不错，你都发现了什么？</font>
+story_81522_2=<font face="Default" color="#ffffff" >难道毕家火居然还建立什么神秘的组织？可是后来为什么压根没有打听到他什么消息。你还有什么发现？</font>
+story_81522_3=<font face="Default" color="#ffffff" >竟有此事，拿给我看看……唐门的兵器？加上这根针？我似乎察觉到什么了，加上毕家火重出江湖的时间，我知道了，你赶紧去百兽庄，我需要进一步确定。当初毕家火重出江湖在百兽庄强行借走一样东西，我需要你去确定毕家火借走的是百兽庄的什么东西。</font>
+story_81523_1=<font face="Default" color="#ffffff" >哎呀，真是麻烦少侠了，我记得少侠之前有说过需要问老朽点事情。</font>
+story_81523_10=<font face="Default" color="#ffffff" >少侠说的对，清浦道长也是这样说的，其实这件事情清浦道长了解的比较清楚，当年都是靠他大家才慢慢从那邪教中解脱出来，您要想知道更详细的事情可以去问问他。</font>
+story_81523_2=<font face="Default" color="#ffffff" >哦？什么话？</font>
+story_81523_3=<font face="Default" color="#ffffff" >神秘邪教？漠河镇前几年确实有一个神秘邪教，吸引了好多鸡鸣驿附近的百姓入教，只不过后来这些百姓又都被遣散了。</font>
+story_81523_4=<font face="Default" color="#ffffff" >这个可就要从头说起了，大概是三年前，鸡鸣驿各地突然出现一些散落的纸片，上面写着一些神庙祭祀，神救世人之类的话。紧接着就来了一些穿着奇怪衣服的教徒来各地传教。</font><font face="Default" color="#ffffff" >那些看过纸片或者说接触过纸片的村民，本来有很多都不信里面的鬼话的，偏偏这些教徒一出现，大家都着了魔似的，不顾家人的阻拦非要入教。</font>
+story_81523_5=<font face="Default" color="#ffffff" >我们后来才发现，还是清浦道长告诉我们的，那纸片上有一种慢性奇毒，接触时间长了的人会不知不觉被下毒之人控制，可惜那个时候已经晚了，大批的村民都中了毒入了教，那时候的鸡鸣驿可真是被这个神秘邪教所笼罩。</font>
+story_81523_6=<font face="Default" color="#ffffff" >不过说来也怪，这邪教倒是也没有让那些百姓做什么事情，只是定期去白鲁卡神庙祭祀，并打扫神庙。那白鲁卡神庙巨大无比，每次打扫都要大批的教众花上整整一天的时间，可是除此之外，大家该种田的种田，该织布的织布，教主也并未吩咐大家做什么其他的事情。</font>
+story_81523_7=<font face="Default" color="#ffffff" >嗯，就在杏花村那边，看起来少侠说的那句话后半句“神庙大厅兽神雕像隐世之密”中的神庙应该就是白鲁卡神庙了，里面正好有一个巨大的雕像。</font>
+story_81523_8=<font face="Default" color="#ffffff" >毕家火？那个邪教的教主好像被称作毕教主</font><font face="Default" color="#ffffff" >。</font>
+story_81523_9=<font face="Default" color="#ffffff" >是的，那个邪教的祭祀也就存在了半年多，后来教主和教徒再也没有通知百姓们来祭祀，各家好像都分发了解药，那些百姓大多也都清醒了，也就没有去了。不过他们教中的核心弟子或许还没有解散。</font>
+story_81524_1=<font face="Default" color="#ffffff" >你来的正好，帮中出了大事，帮主让我清理一下丐帮周边的探子，现在人手不足，你也去跑一趟吧。</font>
+story_81530_1=<font face="Default" color="#ffffff" >此乃武林八大门派之祸事，这几天有一批武功高强的贼人陆续潜入八大门派盗走宝物，打伤了众多弟子，</font><font face="Default" color="#ffffff" >更是将我丐帮的打狗棒盗走，</font><font face="Default" color="#ffffff" >还留下话来说要我们按他的吩咐行事才能拿回宝物。</font>
+story_81530_2=<font face="Default" color="#ffffff" >主事的贼人</font><font face="Default" color="#ffffff" >举止奇怪，头戴斗篷，遮住了自己的半张脸，而且似乎口不能言，以前从未在江湖上出现过，所用武功也闻所未闻</font><font face="Default" color="#ffffff" >，</font><font face="Default" color="#ffffff" >令我等掌门十分诧异。不过可以确定的是，他们的内力深厚，武学诡异，我现在命你前往调查他们的下落，但切记不可与之正面冲突。</font>
+story_81530_3=<font face="Default" color="#ffffff" >众多丐帮弟子就属你心思最为缜密，相信你定能调查个水落石出。你先去丐帮弟子最初发现那贼人的地方看看是否能发现什么线索。</font>
+story_81532_1=<font face="Default" color="#ffffff" >这位少侠有什么事吗？</font>
+story_81532_2=<font face="Default" color="#ffffff" >这都是非富即贵的人家用的，我看就连金陵首富家中也未必用的了这种衣料，我都是做的普通人的生意，我看你还是问问城外的老裁缝李师傅吧。</font>
+story_81532_3=<font face="Default" color="#ffffff" >李师傅当年为宫里裁衣服的，这天底下的布料丝绸就没有他没经手过的，不过现在他一个人住在金陵郊外，你去找找看吧，一般李师傅都在家。</font>
+story_81533_1=<font face="Default" color="#ffffff" >看你身上略有伤痕，莫不是此次调查遇到了什么敌人？</font>
+story_81533_2=<font face="Default" color="#ffffff" >竟有此事！</font>
+story_81533_3=<font face="Default" color="#ffffff" >看来我们的调查活动已经被人发觉了。</font>
+story_81534_1=<font face="Default" color="#ffffff" >看样子那贼人果然是发现了我们在调查他的下落，没想到他消息这么灵通，说不定我丐帮周围就有他的人在监视。</font>
+story_81534_2=<font face="Default" color="#ffffff" >这绝对不是一般人能做到的，肯定有一个很严密的组织，而且按照他信中写到，我们在浪费时间，他要略施惩戒之类的话，</font><font face="Default" color="#ffffff" >说再敢调查他本人的下落就要毁了打狗棒，还说</font><font face="Default" color="#ffffff" >让我们到后山破庙收尸，我怀疑有一批丐帮弟子已经遇害了，你赶紧去后山看一下。</font>
+story_81535_1=<font face="Default" color="#ffffff" >那贼人和他身后的组织来头甚大，我们只能走一步看一步，我打算安排一批弟子前往禁地调查贼人所说的线索，暂时按照他的要求行事。不过此事甚是危险，我也不强求你们一定要去。</font>
+story_81535_2=<font face="Default" color="#ffffff" >你的心意我已经知道了，只是当今武林发展已不同往日，你如今才刚刚修炼酒雨神功，我怕你力有不逮啊</font>
+story_81535_3=
+story_81536_1=<font face="Default" color="#ffffff" >感觉好多了，真是麻烦你了。</font>
+story_81536_2=<font face="Default" color="#ffffff" >你太</font><font face="Default" color="#ffffff" >客气了，有什么需要我做的尽管说。</font>
+story_81536_3=<font face="Default" color="#ffffff" >说来惭愧，那天刚发现那个贼人就被他打晕过去了，实在是想不出来有什么线索。都怪我实力低微难以留住此人，哎。</font>
+story_81537_1=<font face="Default" color="#ffffff" >嗯，这种材质的丝绸非富即贵，这条线索很重要，你做的很不错。对了，那几名被贼人打伤的弟子目前需要用药，你辛苦一下跑一趟。顺便问问他们看看有没有别的线索。</font>
+story_81538_1=<font face="Default" color="#ffffff" >暂时不是说这个的时候，毕家火似乎被人打成了重伤，正在打坐疗伤。</font>
+story_81538_2=<font face="Default" color="#ffffff" >千万不要掉以轻心，毕家火经过这几年的修炼功力深厚，要不是他受伤了你我恐怕并非他的敌手，而且他身边还有虔诚的教徒相助，想要击败他并不容易。</font><font face="Default" color="#ffffff" >我刚刚想要上前击败他，却被他疗伤的戾气所伤。</font>
+story_81538_3=<font face="Default" color="#ffffff" >幸好我已经研究出对付他的方法了。</font><font face="Default" color="#FF0000">毕家火目前正在用阴毒的内功疗伤，会将体内的伤势以戾气的形式散发在四周，靠近的人都会身中戾气，持续受到伤害并降低移动速度和轻功值，如果不及时离开，戾气的状态将会叠加，受到更多的伤害。</font>
+story_81538_4=<font face="Default" color="#ffffff" >如果仅仅是戾气的话，老夫还是能与之一战的。</font><font face="Default" color="#FF0000">只是他疗伤的同时还散发了一股真气护体，常人根本无法击破这股真气。</font>
+story_81538_5=<font face="Default" color="#ffffff" >老夫虽然受了伤，不过与他麾下教徒打斗时候发现，毕家火的真气护体能够影响到靠近他身边的教徒，让其燃烧生命从而大幅度提升实力。</font>
+story_81538_6=<font face="Default" color="#FF0000">但是如果乘其教徒完全燃烧生命之时将其击败，将会掉落一个真气源。</font><font face="Default" color="#ffffff" >这是因为他手下的教徒无法完全吸收毕家火真气的影响而掉落的真气源。</font><font face="Default" color="#FF0000">你只需将这股真气源吸收，暂时将拥有毕家火的同源真气，这样就能无视他的真气护体，直接伤害他本体。</font>
+story_81538_7=<font face="Default" color="#ffffff" >一时讲这么多你恐怕难以记住，你可以与之尝试着战斗，毕家火现在仍然身受重伤，无法起身，只能在原地疗伤，你莫要被他戾气影响太深即可。如果有不明白的，再过来问我。</font>
+story_81542_1=<font face="Default" color="#ffffff" >你哪里知道！这丹书铁券为世袭罔替，关键时刻可为门派消灾避祸。</font>
+story_81542_2=<font face="Default" color="#ffffff" >哼！他多年来早有打算收回铁劵，只是一直没有理由。这次只是利用磨刀堂一事找个借口罢了。</font>
+story_81543_1=<font face="Default" color="#ffffff" >如今正值多事之秋，皇上刚刚收回丹书铁券，难保他不会再找借口找八大派的麻烦</font><font face="Default" color="#ffffff" >……</font>
+story_81543_2=<font face="Default" color="#ffffff" >好！好！好！血书上说他们正在金陵明镜湖旁，你可立即起程。</font>
+story_81544_1=<font face="Default" color="#ffffff" >这事儿你本不该去参合，鲁莽行事只会惹祸上身。也许当初劫法场就是个错误，唉！</font>
+story_81545_1=<font face="Default" color="#ffffff" >自是有要事相商，此次我磨刀堂与八大门派联系乃是为了江湖上即将发生的一件大事做准备</font><font face="Default" color="#ffffff" >。</font>
+story_81545_2=<font face="Default" color="#ffffff" >呵呵，不是所有人都可以参与这件事的，让我先看看你的实力如何！</font>
+story_81546_1=<font face="Default" color="#ffffff" >没想到一段时间过去，你武功又有如此大的进步，看来八大门派并非无人。你已通过了我的考验，去苏州郊外找到我磨刀堂在外的一位长老，他会告诉你接下来的事情。</font>
+story_81546_2=<font face="Default" color="#ffffff" >这位长老就在苏州东南方向的桑树林边，你去了就知道了，记住，想要见到那位长老，最好不使用轻功</font><font face="Default" color="#ffffff" >。</font>
+story_81547_1=<font face="Default" color="#ffffff" >没想到你居然能上来见到我，不错不错。既然你通过了李执事的考验，看样子你功夫</font><font face="Default" color="#ffffff" >相比过去</font><font face="Default" color="#ffffff" >精进很多啊。</font>
+story_81547_2=<font face="Default" color="#ffffff" >我磨刀堂对江湖上的情报了如指掌，你看到的只是冰山一角。</font><font face="Default" color="#ffffff" >废话少说，虽说你与李执事切磋过一番，毕竟只是点到为止，现在有一件事交给你，希望你能顺利解决。</font>
+story_81547_3=<font face="Default" color="#ffffff" >去苏州酒楼，那里有一名书生名叫连青城，你找到他并保护好他。</font>
+story_81547_4=<font face="Default" color="#ffffff" >你去了就知道了。</font>
+story_81548_1=<font face="Default" color="#ffffff" >多谢，多谢相救，这几个人实在是太无理取闹了。</font><font face="Default" color="#ffffff" >幸好有侠士相救，真是感激不尽。</font>
+story_81548_2=<font face="Default" color="#ffffff" >说来话长，</font><font face="Default" color="#ffffff" >小生也不知道为什么，但是也许又知道原因，总之我这次出门是寻找一样东西或者说一个地点，我也不知道我要找什么，但是我知道我找到了一切就明白了。</font>
+story_81548_3=<font face="Default" color="#ffffff" >说起来你也许不信，小生前些日子在家中醒来，忽然间忘记了很多事情，头痛的厉害，浑身皮肉骨都又痒又痛，隐约间记得一个信鸽，一张纸条，发现手中确有一张字条，上面写着“速来空谷”四个字。</font>
+story_81548_4=<font face="Default" color="#ffffff" >正是如此，小生因为忘记了很多事情乃至只记得自己名叫连青城，其他大多都没有印象了，这“空谷”之地，一路打听过来确是没有太多线索，而这三个人找我麻烦，也不知是旧恨还是</font><font face="Default" color="#ffffff" >新仇。不过不管如何，我一定要寻到那空谷之地。</font>
+story_81548_5=<font face="Default" color="#ffffff" >多谢侠士好意，只是</font><font face="Default" color="#ffffff" >我意已决，侠士不必多言。</font>
+story_81549_1=<font face="Default" color="#ffffff" >看来你确实有点本事，不错不错。</font>
+story_81549_2=<font face="Default" color="#ffffff" >呵呵，磨刀堂的情报遍布江湖，我当然知道。你又是否和连青城聊起了他的身世？</font>
+story_81549_3=<font face="Default" color="#ffffff" >连青城其实还有一个身份，那就是他失忆之前的身份。他要寻找的空谷也确有此地，我们磨刀堂也正在找那个地方，这一切都牵涉到一件大事。</font>
+story_81549_4=<font face="Default" color="#ffffff" >你可听说过江湖上的“十绝”？</font>
+story_81549_5=<font face="Default" color="#ffffff" >十绝，乃是指十几年前纵横江湖，冠绝天下的超绝人物。其时江湖高手辈出，但此十人尤为出众，锋头堪比隐世的六圣。时值大明风雨飘摇的关键时刻——靖难之争，这十人先后卷入了那场关键之战，分别为万岁和允炆所用，影响颇巨。之后魔教兵败，此十个人竟也神秘地从大众视线中淡出。不过，前一段时间出现轰动江湖的丁九重便是十绝之一</font><font face="Default" color="#ffffff" >，而他手中有一样十绝保管的东西，涉及江湖风云乃至江山社稷。</font>
+story_81549_6=<font face="Default" color="#ffffff" >正是，事不宜迟，你现在赶回苏州酒楼跟上连青城吧，也许会有意外的收获。</font>
+story_81550_1=<font face="Default" color="#ffffff" >客官来晚了一步，那位客人刚走没多久，不过客官算是问对人了，我记得那位客人走的时候似乎嘀咕了两句，刚巧我听到了。</font>
+story_81550_2=<font face="Default" color="#ffffff" >好像说的是“烟雨庄，这个地名不错，烟雨下江南，到那里去看看也行”</font>
+story_81551_1=<font face="Default" color="#ffffff" >您进去看看吧，好像现在就有一位客官一身书生打扮，不知道是不是您要找的人。</font>
+story_81552_1=<font face="Default" color="#ffffff" >恩人</font><font face="Default" color="#ffffff" >，</font><font face="Default" color="#ffffff" >没想到在这里遇到你了。</font>
+story_81552_2=<font face="Default" color="#ffffff" >空谷，似乎真的在这烟雨庄，我本是无意来这里的，没想到竟然真的问出了点什么。烟雨庄这里确实有人听说过空谷这个地方，只是具体在哪里却并不清楚。</font><font face="Default" color="#ffffff" >我正打算出去问问呢。</font>
+story_81552_3=<font face="Default" color="#ffffff" >恩人肯相助，实在是感激不尽。</font>
+story_81553_1=<font face="Default" color="#ffffff" >我来烟雨庄当差十多年了，还真没有听说过，你不会是记错了吧。</font>
+story_81554_1=<font face="Default" color="#ffffff" >什么事？你说吧。</font>
+story_81554_2=<font face="Default" color="#ffffff" >听起来很陌生，容我仔细想想……恩，确实不知道。</font>
+story_81555_1=<font face="Default" color="#ffffff" >没看我正看棋吗，算了，你赶紧问，老头我在烟雨庄过了一辈子，这里的事没有我不知道的</font><font face="Default" color="#ffffff" >。</font>
+story_81555_2=<font face="Default" color="#ffffff" >我烟雨庄有栖凤山，翔云山</font><font face="Default" color="#ffffff" >，落霞坡，还有望云坡，飞虹桥，老龙庙，只是这空谷，好像还真没听说过。</font>
+story_81555_3=<font face="Default" color="#ffffff" >容我想想，刚刚在看棋一时没细想，这么说来，似乎我听说过这个地方，不过我也没去过，</font><font face="Default" color="#ffffff" >地点我就不知道了，只记得似乎要从我烟雨庄过去只能坐船才能到。</font>
+story_81556_1=<font face="Default" color="#ffffff" >你想去空谷？这个地方知道的人可不多，你去</font><font face="Default" color="#ffffff" >那</font><font face="Default" color="#ffffff" >里干嘛？</font>
+story_81556_2=<font face="Default" color="#ffffff" >可是我正准备收摊，我家中妻子卧病在床，郎中开了方子缺几味药引，我这两天恐怕都要去找这几味药引。</font>
+story_81556_3=<font face="Default" color="#ffffff" >现在最主要的是缺少一个叫胡杨草</font><font face="Default" color="#ffffff" >的药引。</font><font face="Default" color="#ffffff" >具体的还得去问问那位老郎中。</font>
+story_81557_1=<font face="Default" color="#ffffff" >客官你来的正好，那位书生回来过特别叮嘱让我告诉你他已经找到空谷了，看你还没回来他先走了，说多谢你的帮助，等他从空谷回来再好好谢谢你。</font>
+story_81558_1=<font face="Default" color="#ffffff" >这是一种很稀少的草药，在雁门关有少量生长，以前战事没有那么频繁的时候，年年都有商人从关外带回来，现在关外战乱，各地都没有这种草药卖了。</font>
+story_81558_2=<font face="Default" color="#ffffff" >这个就比较难找了，这是一种很稀少的草药，在雁门关有少量生长，以前战事没有那么频繁的时候，年年都有商人从关外带回来，现在关外战乱，各地都没有这种草药卖了。</font>
+story_81559_1=<font face="Default" color="#ffffff" >不错，让我看看，恩，足够用了，我这就通知阮老头准备给他妻子配药，听说你要让阮老头帮你点忙，你</font><font face="Default" color="#ffffff" >现在直接去找他吧。</font>
+story_81560_1=<font face="Default" color="#ffffff" >实在是太感谢您了！</font>
+story_81560_2=<font face="Default" color="#ffffff" >当然，当然可以，随时出发，你准备好了喊我一声就行。</font>
+story_81561_1=<font face="Default" color="#ffffff" >此事说来话长，总之，我和萧姑娘一见如故，却有贼人要加害她</font><font face="Default" color="#ffffff" >……</font>
+story_81561_2=<font face="Default" color="#ffffff" >我的伤不要紧，你赶紧追上萧姑娘，那几个贼人看起来很厉害。</font>
+story_81563_1=<font face="Default" color="#ffffff" >连青城已死，我乃叶惊楼。</font>
+story_81563_2=<font face="Default" color="#ffffff" >我说过了，我叫叶惊楼。邢君可和你说的我都听到了，他乃丁爷无奈之举，既然我来了，让他把萧姑娘给他的东西交给我，我饶他一命。</font>
+story_81563_3=<font face="Default" color="#ffffff" >你不必知道太多，连青城是我涅槃恢复时的身份，我本名叶惊楼，乃是丁九重原先部下。邢君可身份不明，丁爷天牢之中无奈托付武功给他，此人</font><font face="Default" color="#ffffff" >优柔寡断</font><font face="Default" color="#ffffff" >，丁爷的东西决不能</font><font face="Default" color="#ffffff" >交</font><font face="Default" color="#ffffff" >给他，你且与他说明此事，免得我动手。</font>
+story_81564_1=<font face="Default" color="#ffffff" >叶惊楼？难道是十绝之一叶惊楼……不管如何，不管是谁，这东西既然是丁爷临终所托，我绝对要自己守护。多谢你的好意，我自己去与他说，大不了再打一场</font><font face="Default" color="#ffffff" >便</font><font face="Default" color="#ffffff" >是。</font>
+story_81564_2=<font face="Default" color="#ffffff" >多谢好意，我自己与叶惊楼说好了。</font>
+story_81566_1=<font face="Default" color="#ffffff" >还不是多亏了少侠你，你放心，我本意也不想动手。我是何等身份，又岂会轻易出手！哈哈，我只是来看一场戏罢了</font><font face="Default" color="#ffffff" >……</font>
+story_81652_1=<font face="Default" color="#ffffff" >哎，萧姑娘是追随丁九重而去的。此事说来话长，当初我在天牢遇到丁爷，丁爷义薄云天，临死时传功于我并交代我来空谷找萧姑娘拿到他留在这里的东西。</font>
+story_81652_2=<font face="Default" color="#ffffff" >我从天牢出来之后一直有人跟踪甚至被人追杀，终于一番曲折来到这里，没想到同时遇到了冷千绝、毕家火和金正仇三人。</font>
+story_81652_3=<font face="Default" color="#ffffff" >那位连青城兄弟似乎是萧姑娘的朋友，我们来时两人已经在此弹琴作诗，我也看的出来他只是爱慕萧姑娘并没有对丁爷的遗物有何窥视。只是那三人却是意料之外，萧姑娘足智多谋，假借没有看出来谁是丁爷传人，与那三人虚与委蛇</font><font face="Default" color="#ffffff" >。</font>
+story_81652_4=<font face="Default" color="#ffffff" >那三人却也是不笨，几番争斗之后虽说受伤不小，但也尚未丧失太多战斗力，我和萧姑娘带着连青城偷偷从后院离开，却被冷千绝发现追了上来，然后就在那边遇到了你。</font><font face="Default" color="#ffffff" >多亏你替我们拦下了金正仇，后来剩下两人围攻于我，没想到我正无法抵挡之时，毕家火突然出手偷袭冷千绝，然后远遁而去。</font>
+story_81652_5=<font face="Default" color="#ffffff" >我也不知此人到底是哪方势力的，只是这个时候萧姑娘突然毒发，原来她早在我们几人来到空谷之时就服下了毒药，她说她看到来人便知丁爷已去，生无挂念，便起了死意，将东西交付与我</font><font face="Default" color="#ffffff" >便</font><font face="Default" color="#ffffff" >这样去了。</font>
+story_81652_6=<font face="Default" color="#ffffff" >其实萧姑娘临走之时却也放心不下那位连兄，她说奈何缘浅，奈何命运，让连兄忘了她罢了。</font><font face="Default" color="#ffffff" >只是连兄看到萧姑娘自杀，似乎大受刺激。</font>
+story_81653_1=<font face="Default" color="#ffffff" >你回来了，我为皇已经去过了，事情我都已经知道了。</font>
+story_81653_2=<font face="Default" color="#ffffff" >你误会了，首先我们其实一早就找上了连青城，与其说跟你不如说跟着连青城找到的空谷。其次，萧依依是殉情而亡，而且当时前往空谷的三个人中的两个，一个是密宗的冷千绝，一个高丽的金正仇，他们才是逼死萧姑娘的人，而他们恰恰是我磨刀堂的敌人。</font>
+story_81653_3=<font face="Default" color="#ffffff" >既然你师门选择与我磨刀堂合作，你本就该信我们。你可知道他们一直所说萧姑娘手中丁九重的遗物是什么吗？这才是整件事的关键所在</font><font face="Default" color="#ffffff" >。</font>
+story_81653_4=<font face="Default" color="#ffffff" >和氏璧！这是皇权的象征，一旦被别有用心的人拿到，必定会天下大乱，生灵涂炭，而金正仇和冷千绝，一个是蛮夷来人一个是</font><font face="Default" color="#ffffff" >乱臣贼子</font><font face="Default" color="#ffffff" >，被他们拿去后果不堪设想。</font>
+story_81653_5=<font face="Default" color="#ffffff" >磨刀堂只要保证东西不要落入别有用心的人手中就行了，邢君可只不过是个江湖中人，我为皇最后之所以没有出手也就是这个原因了，要不然难道真怕了这个江湖后辈，叶惊楼刚刚涅槃恢复更不是我为皇的对手。</font>
+story_81653_6=<font face="Default" color="#ffffff" >和氏璧终究要回到当今圣上的手中，只是面对你们江湖中人，磨刀堂愿意以江湖中人的方式去解决</font><font face="Default" color="#ffffff" >罢了</font><font face="Default" color="#ffffff" >。此次空谷之事虽有瑕疵，我为皇被其他事情所阻，最后才到，不过之前多亏你出手相助击退了金正仇，让和氏璧没有落到他们手中，看来让你前去果然没有错。</font>
+story_81653_7=<font face="Default" color="#ffffff" >哈哈哈哈，终究是我大明朝子民，你能理解最好。这次你师门与我磨刀堂的合作只是一个开始，相信以后还有更多的合作，希望你继续这么自信。</font>
+story_81654_1=<font face="Default" color="#ffffff" >不必多礼，随着酒雨神功传授给你们这一批丐帮弟子，丐帮实力逐渐壮大，也意味着丐帮承担着更大的责任。如今和氏璧出世，我们八大门派都不能置身事外，我有一件要事交与你去办你可有信心办好？</font>
+story_81654_2=<font face="Default" color="#ffffff" >很好，在我丐帮不远处隐居了一位神医</font><font face="Default" color="#ffffff" >，这位神医与我丐帮有约，每隔一段时间为本帮提供一些疗伤圣药，这次去拿药之事就交给你吧。</font>
+story_81654_3=<font face="Default" color="#ffffff" >不要疑惑，派你前去当然有别的事情，最近那位神医的隐居之地被无意中泄露了出去，或许江湖上已经隐约有人知道了，我怀疑其中就有十绝之一燕双行，燕双行为了他的妹妹很有可能来找这位神医。</font>
+story_81654_4=<font face="Default" color="#ffffff" >哈哈哈哈，当今世上还没有人能保证拦得下他，燕双行并非大恶之人，我早年与他有过一些接触，算是有一些交情，到时候你若碰到了不妨与之交好</font><font face="Default" color="#ffffff" >这对你今后行走江湖会有意想不到的好处</font><font face="Default" color="#ffffff" >，若没有碰到也并无大碍。</font>
+story_81655_1=<font face="Default" color="#ffffff" >侠士不必多礼了，不知这次是前来拿丐帮所需的疗伤药么？</font>
+story_81655_2=<font face="Default" color="#ffffff" >萧帮主飞鸽传信已经说过换了一个年轻的弟子前来，想必就是你了，只是这药尚缺一味最后的辅料，之前来的几位长老都会帮我收集过来，不知侠士？</font>
+story_81655_3=<font face="Default" color="#ffffff" >恩，这就最好不过了，需要一些</font><font face="Default" color="#ffffff" >熊掌</font><font face="Default" color="#ffffff" >，就在丐帮境内便可找到。</font>
+story_81656_1=<font face="Default" color="#ffffff" >不错，多亏你了，只是，这，这位燕侠士</font><font face="Default" color="#ffffff" >找到这里为他妹妹求医</font><font face="Default" color="#ffffff" >……</font>
+story_81657_1=<font face="Default" color="#ffffff" >正是，某有要事与开神医相商，你还是不要打扰我。</font>
+story_81657_2=<font face="Default" color="#ffffff" >罢了罢了，现在初出江湖的人怎么都如此浮躁。你一个小小丐帮弟子又如何出面保护，不若我们赌斗一场，如果我赢了，你替我求医，相信你丐帮弟子的身份开神医不会拒绝</font><font face="Default" color="#ffffff" >，若我输了，自然会离开这里。</font>
+story_81658_1=<font face="Default" color="#ffffff" >普通拳脚功夫罢了，朋友，是时候履行诺言了？</font>
+story_81659_1=<font face="Default" color="#ffffff" >侠士不必妄自菲薄，你能与他一战已经非常不错，而且我并没有不同意给燕双行的妹妹看病，只是担心侠士</font><font face="Default" color="#ffffff" >你们丐帮着急而已。</font>
+story_81659_2=<font face="Default" color="#ffffff" >怪不得燕双行没有像传说那样直接对你动手，这样最好，不过我听燕双行介绍过他妹妹的病情，我要给那女子看病的话需要一些特别的药材和器具才能研究病情。</font>
+story_81659_3=<font face="Default" color="#ffffff" >其实我刚刚也和燕双行说过了，我本是打算让他先去寻找这些东西，然后先替丐帮制药的。现在既然你们达成一致，那你不如与他商量一番，两人分头行动，应该也会快一些。</font>
+story_81660_1=<font face="Default" color="#ffffff" >可以，让我想想，你丐帮的灵蛇丹，还有唐门的唐</font><font face="Default" color="#ffffff" >针</font><font face="Default" color="#ffffff" >，这</font><font face="Default" color="#ffffff" >两</font><font face="Default" color="#ffffff" >样东西交给你了，尽快拿到回神医这里即可。</font>
+story_81661_1=<font face="Default" color="#ffffff" >如何？你是不是忍不住动手了？</font>
+story_81661_2=真是个可怜又幸福的女孩，希望开神医能够找到她的病因，你去展化生那里拿药吧。
+story_81662_1=<font face="Default" color="#ffffff" >灵蛇丹啊，这个平时还真没有余货，</font><font face="Default" color="#ffffff" >是开神医需要么？要么你等几个时辰过来，或者一会弄到了我替你交给开神医吧。</font>
+story_81662_2=<font face="Default" color="#ffffff" >没问题，包在我身上。</font>
+story_81663_1=<font face="Default" color="#ffffff" >不必多礼，有何要事么？</font>
+story_81663_2=<font face="Default" color="#ffffff" >恩？什么事？说来听听。</font>
+story_81663_3=<font face="Default" color="#ffffff" >唐针？！</font><font face="Default" color="#ffffff" >虽说并不是我唐门的镇派之宝，但也算是不传外人的，</font><font face="Default" color="#ffffff" >你一个丐帮弟子要唐针干嘛？据我所知，丐帮用药居多……</font>
+story_81663_4=<font face="Default" color="#ffffff" >十绝燕双行？！原来如此，既然是开飞机神医加上燕双行的面子，我唐某人必须要给了</font><font face="Default" color="#ffffff" >，你去找本门医师唐如海吧。</font>
+story_81664_1=<font face="Default" color="#ffffff" >燕双行早在之前就回来过了，把其他材料都收集齐了，加上展化生带来的灵蛇丹，也就足够了。我于是便开始为她妹妹续命治病。</font>
+story_81664_2=<font face="Default" color="#ffffff" >此女乃是天下一等一的绝症，实在是令人惋惜，可惜我开某人医术不够，无法医治，只能给她续命一段时间。不过，我总算没有白白浪费这些东西，她身上虽然全是死气，却是仍有一线生机，只是我医术有限。</font>
+story_81664_3=<font face="Default" color="#ffffff" >虽人力有限，但造化无限，我推测这一线生机还是有得一救，故而给燕双行开出了一个药方，虽然所要的材料都乃世间罕见，其中最主要的更是一种名叫相思成血的罕见雪莲，我只是听说过却从未用过</font><font face="Default" color="#ffffff" >。</font>
+story_81664_4=<font face="Default" color="#ffffff" >话虽如此，但是他的妹妹时日却也不多，他为了赶时间，拿到药方也就走了，故而没有来得及见你。</font>
+story_81664_5=
+story_81665_1=<font face="Default" color="#ffffff" >你这么快回来，想必开神医对燕双行妹妹的病也是无能为力了？</font>
+story_81665_2=<font face="Default" color="#ffffff" >燕双行武功独步天下，却也是个可怜之人。此事你与他好歹也算有过一面之缘，接下来行走江湖如果有机会自然会得到他的照应，我也放心交给你接下来的事了。</font>
+story_81665_3=<font face="Default" color="#ffffff" >你且回去准备准备，接下来还有要事交给你。</font>
+story_menu_81501=<font face="Default" color="#ffffff" >不知道谭长老要我去办什么事？</font>
+story_menu_81502=<font face="Default" color="#ffffff" >季俊兄你知道“破庙之争残杀同门不仁不义，十年养育一朝叛离不忠不孝”这句话指的是谁吗？是不是八年前丐帮发生的事？</font>
+story_menu_81503=<font face="Default" color="#ffffff" >霍让香主，</font><font face="Default" color="#ffffff" >幸不辱命</font><font face="Default" color="#ffffff" >。</font>
+story_menu_81504=<font face="Default" color="#ffffff" >谭长老，</font><font face="Default" color="#ffffff" >那下一步该怎么办？</font>
+story_menu_81505=<font face="Default" color="#ffffff" >谭长老，弟子有事禀告。</font>
+story_menu_81506=<font face="Default" color="#ffffff" >这位兄台可否借一步说话？</font>
+story_menu_81508=<font face="Default" color="#ffffff" >史庄主，在下丐帮弟子特来求见。</font>
+story_menu_81509=<font face="Default" color="#ffffff" >谭长老，弟子已从史庄主处打听清楚毕家火当初借走的是何物了。</font>
+story_menu_81511=<font face="Default" color="#ffffff" >谭长老，弟子前来拜见。</font>
+story_menu_81512=<font face="Default" color="#ffffff" >李镇长，在下丐帮弟子，想向您询问一些事情，不知是否方便。</font>
+story_menu_81514=<font face="Default" color="#ffffff" >清浦道长，在下丐帮弟子特来拜见。</font>
+story_menu_81520=<font face="Default" color="#ffffff" >薛总镖头，在下丐帮弟子特来求见。</font>
+story_menu_81521=<font face="Default" color="#ffffff" >游镖师，在下丐帮弟子想向您打听一件事。</font>
+story_menu_81522=<font face="Default" color="#ffffff" >谭长老，弟子幸不辱命从燕京镖局带回来一些线索。</font>
+story_menu_81523=<font face="Default" color="#ffffff" >镇长，这</font><font face="Default" color="#ffffff" >几</font><font face="Default" color="#ffffff" >户人家的户贴我都给送过去了。</font>
+story_menu_81524=<font face="Default" color="#ffffff" >霍让香主，好久不见</font><font face="Default" color="#ffffff" >。</font>
+story_menu_81530=<font face="Default" color="#ffffff" >帮主到底是何事？</font>
+story_menu_81532=<font face="Default" color="#ffffff" >吕裁缝，你好。</font>
+story_menu_81533=<font face="Default" color="#ffffff" >启禀帮主，弟子从金陵回来。</font>
+story_menu_81534=<font face="Default" color="#ffffff" >帮主，那封信？</font>
+story_menu_81535=<font face="Default" color="#ffffff" >帮主，现在我们该怎么做？</font>
+story_menu_81536=<font face="Default" color="#ffffff" >陶兄，你现在感觉如何？</font>
+story_menu_81537=<font face="Default" color="#ffffff" >帮主，我发现了这片破碎的衣角，看起来材质很少见。</font>
+story_menu_81538=<font face="Default" color="#ffffff" >谭长老，你怎么在这里。</font>
+story_menu_81542=<font face="Default" color="#ffffff" >这丹书铁券这么重要吗？</font>
+story_menu_81543=<font face="Default" color="#ffffff" >我愿前往营救，以弥补犯下的过失！</font>
+story_menu_81544=<font face="Default" color="#ffffff" >帮主</font><font face="Default" color="#ffffff" >，四大寇他们原来是护送丁九重的妻小凤菲母子。不过他们都遭了磨刀堂的毒手。</font>
+story_menu_81545=<font face="Default" color="#ffffff" >不知找我何事？</font>
+story_menu_81546=<font face="Default" color="#ffffff" >不知李执事是否满意？</font>
+story_menu_81547=<font face="Default" color="#ffffff" >你是？</font>
+story_menu_81548=<font face="Default" color="#ffffff" >兄台，你没事吧。</font>
+story_menu_81549=<font face="Default" color="#ffffff" >我回来了，你交代的事情很轻松嘛。</font>
+story_menu_81550=<font face="Default" color="#ffffff" >小二哥，请问之前在这里与我在一起的那个书生离开酒楼之后去了哪里？你知道吗？</font>
+story_menu_81551=<font face="Default" color="#ffffff" >小二哥，不知道你</font><font face="Default" color="#ffffff" >有</font><font face="Default" color="#ffffff" >没有看到一位一身青衣的书生自称连青城的来你们茶楼？</font>
+story_menu_81552=<font face="Default" color="#ffffff" >连兄</font><font face="Default" color="#ffffff" >？</font>
+story_menu_81553=<font face="Default" color="#ffffff" >这位大哥，打听一下，不知道您有没有听说过空谷这个地方？</font>
+story_menu_81554=<font face="Default" color="#ffffff" >这位大哥，打扰一下</font><font face="Default" color="#ffffff" >，想问您点事，不知是否方便？</font>
+story_menu_81555=<font face="Default" color="#ffffff" >这位大叔，想跟您打听</font><font face="Default" color="#ffffff" >点烟雨庄的事，不知是否方便？</font>
+story_menu_81556=<font face="Default" color="#ffffff" >阮大叔，</font><font face="Default" color="#ffffff" >打扰一下，想问您知道空谷怎么去吗？</font>
+story_menu_81557=<font face="Default" color="#ffffff" >小二哥，请问之前和我在茶楼一起的那名青衣书生连青城有没有回茶楼？</font>
+story_menu_81558=<font face="Default" color="#ffffff" >薛大夫，我受阮明大叔所托替他妻子找胡杨草，不知道这</font><font face="Default" color="#ffffff" >种草药</font><font face="Default" color="#ffffff" >哪里能找到。</font>
+story_menu_81559=<font face="Default" color="#ffffff" >薛老，胡杨草</font><font face="Default" color="#ffffff" >我已经找到了</font><font face="Default" color="#ffffff" >。</font>
+story_menu_81560=<font face="Default" color="#ffffff" >阮大爷，我已经把药引交给薛郎中了。</font>
+story_menu_81561=<font face="Default" color="#ffffff" >连兄你还好，刚刚是怎么回事？</font>
+story_menu_81563=<font face="Default" color="#ffffff" >连兄，连兄？你怎么样了？</font>
+story_menu_81564=<font face="Default" color="#ffffff" >邢兄，连兄，哦不，叶惊楼，他说他是丁爷部下</font><font face="Default" color="#ffffff" >，想要看看萧姑娘托付给你的东西，你看？</font>
+story_menu_81566=<font face="Default" color="#ffffff" >我为皇，你怎么找到这里的？</font><font face="Default" color="#ffffff" >这两人虽说受了伤，但打起来难免两败俱伤。</font>
+story_menu_81652=<font face="Default" color="#ffffff" >邢君可，到底发生了什么？萧姑娘</font><font face="Default" color="#ffffff" >，她</font><font face="Default" color="#ffffff" >？</font>
+story_menu_81653=<font face="Default" color="#ffffff" >光头，我已经和连青城去过空谷了。</font>
+story_menu_81654=<font face="Default" color="#ffffff" >弟子特来拜见。</font>
+story_menu_81655=<font face="Default" color="#ffffff" >开神医，我乃丐帮弟子特来拜见</font>
+story_menu_81656=<font face="Default" color="#ffffff" >开神医，您看这些够么？</font>
+story_menu_81657=<font face="Default" color="#ffffff" >燕双行？</font>
+story_menu_81658=<font face="Default" color="#ffffff" >你！你刚刚是何武功？！</font>
+story_menu_81659=<font face="Default" color="#ffffff" >开神医，实在不好意思在下不是燕双行的对手。</font>
+story_menu_81660=<font face="Default" color="#ffffff" >燕前辈，我已经和开神医讲好了，不知道开神医需要的</font><font face="Default" color="#ffffff" >研究病情的材料有哪些？我也跟着去找一找吧。</font>
+story_menu_81661=<font face="Default" color="#ffffff" >帮主，弟子在开神医那果然见到了燕双行。</font>
+story_menu_81662=<font face="Default" color="#ffffff" >展师兄，不知你这里可否有灵蛇丹，帮主命我前来取一些</font><font face="Default" color="#ffffff" >交给开神医。</font>
+story_menu_81663=<font face="Default" color="#ffffff" >唐掌门，在下丐帮弟子特来拜见。</font>
+story_menu_81664=<font face="Default" color="#ffffff" >我回来晚了？那……</font>
+story_menu_81665=<font face="Default" color="#ffffff" >帮主，请问还有什么吩咐？</font>
+storyinfo_81501=听<a href="findnpc_new,school02,gb161" style="HLStype1">谭仕刚</a>诉说
+storyinfo_81502=听<a href="findnpc_new,school02,gb122" style="HLStype1">季俊</a>诉说
+storyinfo_81503=听<a href="findnpc_new,school02,WorldNpc03005" style="HLStype1">霍让</a>诉说
+storyinfo_81504=听<a href="findnpc_new,school02,gb161" style="HLStype1">谭仕刚</a>诉说
+storyinfo_81505=听<a href="findnpc_new,school02,gb161" style="HLStype1">谭仕刚</a>诉说
+storyinfo_81506=听<a href="findnpc_new,school02,NPC_4nei_gb001" style="HLStype1">NPC_4nei_gb001</a>诉说
+storyinfo_81508=听<a href="findnpc_new,school02,WorldNpc03041" style="HLStype1">史舒鹰</a>诉说
+storyinfo_81509=听<a href="findnpc_new,school02,gb161" style="HLStype1">谭仕刚</a>诉说
+storyinfo_81511=听<a href="findnpc_new,school02,gb161" style="HLStype1">谭仕刚</a>诉说
+storyinfo_81512=前往鸡鸣驿找<a href="findnpc_new,born01,WorldNpc10673" style="HLStype1">李富贵</a>镇长
+storyinfo_81514=听<a href="findnpc_new,born01,WorldNpc10645" style="HLStype1">清浦</a>诉说
+storyinfo_81515=听<a href="findnpc_new,school02,gb124" style="HLStype1">有御</a>诉说
+storyinfo_81519=听<a href="findnpc_new,city01,NPC_4nei_gb001" style="HLStype1">NPC_4nei_gb001</a>诉说
+storyinfo_81520=听<a href="findnpc_new,city01,WorldNpc08209" style="HLStype1">薛剑</a>诉说
+storyinfo_81521=听<a href="findnpc_new,city01,WorldNpc08959" style="HLStype1">游宝永</a>诉说
+storyinfo_81522=听<a href="findnpc_new,school02,gb161" style="HLStype1">谭仕刚</a>诉说
+storyinfo_81523=听<a href="findnpc_new,born01,WorldNpc10673" style="HLStype1">李富贵</a>诉说
+storyinfo_81524=听<a href="findnpc_new,school02,WorldNpc03005" style="HLStype1">霍让</a>诉说
+storyinfo_81530=听<a href="findnpc_new,school02,WorldNpc03003" style="HLStype1">萧天放</a>诉说
+storyinfo_81532=听<a href="findnpc_new,city03,NPC_4nei_gb004" style="HLStype1">吕秋迪</a>诉说
+storyinfo_81533=听<a href="findnpc_new,school02,WorldNpc03003" style="HLStype1">萧天放</a>诉说
+storyinfo_81534=听<a href="findnpc_new,school02,WorldNpc03003" style="HLStype1">萧天放</a>诉说
+storyinfo_81535=听<a href="findnpc_new,school02,WorldNpc03003" style="HLStype1">萧天放</a>诉说
+storyinfo_81536=听<a href="findnpc_new,school02,gb099" style="HLStype1">陶溯</a>诉说
+storyinfo_81537=听<a href="findnpc_new,school02,WorldNpc03003" style="HLStype1">萧天放</a>诉说
+storyinfo_81538=前往<a href="findnpc_new,born01,PlotDoor00040" style="HLStype1">白鲁卡神庙</a>找找看有什么<a href="findnpc_new,born01,NPC_4nei_gb003" style="HLStype1">线索</a>
+storyinfo_81539=听<a href="findnpc_new,school02,gb161" style="HLStype1">谭仕刚</a>诉说
+storyinfo_81542=听<a href="findnpc_new,school02,WorldNpc03003" style="HLStype1">萧天放</a>诉说
+storyinfo_81543=听<a href="findnpc_new,school02,WorldNpc03003" style="HLStype1">萧天放</a>诉说
+storyinfo_81544=听<a href="findnpc_new,school02,WorldNpc03003" style="HLStype1">萧天放</a>诉说
+storyinfo_81545=去苏州找磨刀堂执事<a href="findnpc_new,city02,5nei_gbmdt001" style="HLStype1">李立</a>
+storyinfo_81546=听<a href="findnpc_new,city02,5nei_gbmdt001" style="HLStype1">李立</a>诉说
+storyinfo_81547=去郊外桑树林找到<a href="findnpc_new,city02,NPC_4nei_gbj012" style="HLStype1">神秘人</a>
+storyinfo_81548=问问<a href="findnpc_new,city02,NPC_5nei_gblqc001" style="HLStype1">连青城</a>怎么样了
+storyinfo_81549=回去找<a href="findnpc_new,city02,NPC_4nei_gbj012" style="HLStype1">神秘人</a>
+storyinfo_81550=去苏州酒楼找<a href="findnpc_new,city02,WorldNpc01054" style="HLStype1">俞良</a>打听连青城的下落
+storyinfo_81551=向<a href="findnpc_new,born03,WorldNpc00513" style="HLStype1">朱天宝</a>打听连青城下落
+storyinfo_81552=找到<a href="findnpc_new,born03,NPC_5nei_gblqc002" style="HLStype1">连青城</a>
+storyinfo_81553=四处问问路人，找那位衙役<a href="findnpc_new,born03,yyz009" style="HLStype1">吴锐</a>问问
+storyinfo_81554=看看这个江湖中人<a href="findnpc_new,born03,WorldNpc00923" style="HLStype1">姚圣</a>是否知道
+storyinfo_81555=不如问问烟雨庄的老人家，刚刚过来看到几个下棋的老人家，问问<a href="findnpc_new,born03,yyz125" style="HLStype1">李伟宸</a>看看
+storyinfo_81556=去找烟雨庄的船家<a href="findnpc,born03,583,1.326,997.9" style="HLStype1">阮明</a>
+storyinfo_81557=问出了点眉目，时候不早了回去<a href="findnpc_new,born03,yyz068" style="HLStype1">茶楼</a>找连青城吧
+storyinfo_81558=找到老郎中<a href="findnpc_new,born03,NPC_5nei_gblz001" style="HLStype1">薛老</a>
+storyinfo_81559=已经找齐药引了，去找郎中<a href="findnpc_new,born03,NPC_5nei_gblz001" style="HLStype1">薛老</a>吧
+storyinfo_81560=找到<a href="findnpc_new,born03,WorldNpc00641" style="HLStype1">阮明</a>
+storyinfo_81561=看看<a href="findnpc_new,adv031,NPC_5nei_gblqc003" style="HLStype1">连青城</a>怎么样了
+storyinfo_81563=询问<a href="findnpc_new,adv031,NPC_5nei_gbyjl001" style="HLStype1">叶惊楼</a>（连青城）
+storyinfo_81564=向<a href="findnpc_new,adv031,NPC_5nei_gbxjk001" style="HLStype1">邢君可</a>要萧依依的遗物
+storyinfo_81566=听<a href="findnpc_new,adv031,NPC_5nei_gbwwh001" style="HLStype1">我为皇</a>诉说
+storyinfo_81652=问问<a href="findnpc_new,adv031,NPC_5nei_gbxjk001" style="HLStype1">邢君可</a>到底发生了什么
+storyinfo_81653=向<a href="findnpc_new,city02,NPC_4nei_gbj012" style="HLStype1">神秘人</a>告知事情经过
+storyinfo_81654=与<a href="findnpc_new,school02,npc_5neidh_gb" style="HLStype1">吴天怒</a>相商
+storyinfo_81655=找到神医<a href="findnpc_new,school02,NPC_5nei_gbsy001" style="HLStype1">开飞机</a>
+storyinfo_81656=将药材带给神医<a href="findnpc_new,school02,NPC_5nei_gbsy001" style="HLStype1">开飞机</a>
+storyinfo_81657=询问<a href="findnpc_new,school02,NPC_5nei_gbysx001" style="HLStype1">燕双行</a>
+storyinfo_81658=燕双行武功出人意料，与<a href="findnpc_new,school02,NPC_5nei_gbysx001" style="HLStype1">燕双行</a>交谈
+storyinfo_81659=向神医<a href="findnpc_new,school02,NPC_5nei_gbsy001" style="HLStype1">开飞机</a>说明比试结果
+storyinfo_81660=询问<a href="findnpc_new,school02,NPC_5nei_gbysx001" style="HLStype1">燕双行</a>需要哪些材料
+storyinfo_81661=回丐帮找<a href="findnpc_new,school02,WorldNpc03003" style="HLStype1">萧天放</a>帮主说明事情经过，并求得灵蛇丹
+storyinfo_81662=向<a href="findnpc_new,school02,WorldNpc03020" style="HLStype1">展化生</a>师兄要来灵蛇丹
+storyinfo_81663=去唐门找门主<a href="findnpc_new,school05,WorldNpc02203" style="HLStype1">唐天行</a>
+storyinfo_81664=回丐帮找神医<a href="findnpc_new,school02,NPC_5nei_gbsy001" style="HLStype1">开飞机</a>
+storyinfo_81665=向帮主<a href="findnpc_new,school02,WorldNpc03003" style="HLStype1">萧天放</a>交代事情经过
+storymenu_81501_1=<font face="Default" color="#ffffff" >（心中</font><font face="Default" color="#ffffff" >莫名</font><font face="Default" color="#ffffff" >，你说的是哪一次？）弟子略有所知。</font>
+storymenu_81501_2=<font face="Default" color="#ffffff" >哦？是什么话？</font>
+storymenu_81501_3=<font face="Default" color="#ffffff" >这！……弟子一定尽力而为。</font>
+storymenu_81502_1=<font face="Default" color="#ffffff" >毕家火？我记得当初听说过这个人。难道这个神秘人指的就是他，可是我应该去哪里找他呢？</font>
+storymenu_81502_2=<font face="Default" color="#ffffff" >嗯，我这就去请教霍让香主。</font>
+storymenu_81503_1=<font face="Default" color="#ffffff" >弟子正为此事而来，还望霍香主相助。</font>
+storymenu_81503_2=<font face="Default" color="#ffffff" >我想向香主打听毕家火的下落，据弟子调查</font><font face="Default" color="#ffffff" >谭长老让弟子找的神秘人应该就是当年的叛徒毕家火。</font>
+storymenu_81503_3=<font face="Default" color="#ffffff" >弟子明白！</font>
+storymenu_81504_1=<font face="Default" color="#ffffff" >哦？这第二句说的是什么？</font>
+storymenu_81504_2=<font face="Default" color="#ffffff" >这，这看起来好像说的是毕家火重出江湖一事。</font>
+storymenu_81504_3=<font face="Default" color="#ffffff" >弟子遵命！</font>
+storymenu_81505_1=<font face="Default" color="#ffffff" >确实如此，经过弟子调查，那禁地的羊皮残片中所研究出来的二十四个字应该是指当年的丐帮叛徒毕家火</font><font face="Default" color="#ffffff" >。</font>
+storymenu_81505_2=<font face="Default" color="#ffffff" >弟子已经找过霍让香主，可惜最近几个月江湖上一直没有毕家火的消息。</font>
+storymenu_81505_3=<font face="Default" color="#ffffff" >多谢长老，弟子领命！</font>
+storymenu_81506_1=<font face="Default" color="#ffffff" >一眼就能看出我是丐帮弟子，看来你果然就是毕家火了。</font>
+storymenu_81506_2=<font face="Default" color="#ffffff" >明人不说暗话，此次前来只是想从你这里打听本帮打狗棒的下落……</font>
+storymenu_81506_3=<font face="Default" color="#ffffff" >你休要狡辩，根据我们调查，留在丐帮禁地的多方线索都指向你，虽说是那神秘哑仆所盗，但我相信你肯定知道一二。</font>
+storymenu_81506_4=<font face="Default" color="#ffffff" >你！丐帮养育你十多年，如今丐帮有难，难道你真要做那不忠不孝不仁不义之徒！</font>
+storymenu_81506_5=<font face="Default" color="#ffffff" >当年一事，确实是洪宝几人过错在先，可是你以下犯上大打出手导致两名师兄弟之死确实不争的事实。</font>
+storymenu_81506_6=<font face="Default" color="#ffffff" >既然如此</font>
+storymenu_81508_1=<font face="Default" color="#ffffff" >在下奉谭仕刚长老之命</font><font face="Default" color="#ffffff" >前来</font><font face="Default" color="#ffffff" >，</font><font face="Default" color="#ffffff" >想</font><font face="Default" color="#ffffff" >向史庄主</font><font face="Default" color="#ffffff" >打听一点消息。</font>
+storymenu_81508_2=<font face="Default" color="#ffffff" >我们丐帮在调查之前毕家火重出江湖一事，想打听一下毕家火当初在百兽庄</font><font face="Default" color="#ffffff" >借</font><font face="Default" color="#ffffff" >走了何物？</font>
+storymenu_81508_3=<font face="Default" color="#ffffff" >竟然有这种灵兽！</font>
+storymenu_81508_4=<font face="Default" color="#ffffff" >多谢史庄主相告！</font>
+storymenu_81509_1=<font face="Default" color="#ffffff" >对，九尾灵狐，谭长老你怎么知道的？</font>
+storymenu_81509_2=<font face="Default" color="#ffffff" >这？长老指的是丐帮被贼人行刺那次？</font>
+storymenu_81509_3=<font face="Default" color="#ffffff" >原来如此，毕家火勾结邢君可和唐芸一起先劫镖，拿到大批唐门的武器，然后从百兽庄强行借来九尾灵狐，邢君可和唐芸行刺丐帮嫁祸唐门，而毕家火就偷偷拿走打狗棒。</font>
+storymenu_81509_4=<font face="Default" color="#ffffff" >（明明是我去房顶找的线索……）那现在怎么办？</font>
+storymenu_81509_5=<font face="Default" color="#ffffff" >或许他们与毕家火也是对头？又或者毕家火与这些贼人是一伙的只是他们自己内讧？</font>
+storymenu_81509_6=<font face="Default" color="#ffffff" >弟子明白。</font>
+storymenu_81511_1=<font face="Default" color="#ffffff" >说的是什么？</font>
+storymenu_81511_2=<font face="Default" color="#ffffff" >弟子这就去打听打听。</font>
+storymenu_81511_3=<font face="Default" color="#ffffff" >弟子遵命！</font>
+storymenu_81512_1=<font face="Default" color="#ffffff" >不知有何事令镇长烦心？也许我能帮上一点忙。</font>
+storymenu_81512_2=<font face="Default" color="#ffffff" >户贴？这是干什么的？</font>
+storymenu_81512_3=<font face="Default" color="#ffffff" >镇长这点小事就交给我吧，我替您跑一趟。</font>
+storymenu_81512_4=<font face="Default" color="#ffffff" >放心吧，镇长！</font>
+storymenu_81514_1=<font face="Default" color="#ffffff" >是李富贵镇长引荐在下前来的，想向您打听点鸡鸣驿的轶事，不知道长是否方便告知。</font>
+storymenu_81514_2=<font face="Default" color="#ffffff" >道长你是怎么知道的！？</font>
+storymenu_81514_3=<font face="Default" color="#ffffff" >实不相瞒，丐帮也是迫于无奈才来调查此事，有一贼人留下三个谜题让我丐帮解答，现如今仅剩下最后一句。</font>
+storymenu_81514_4=<font face="Default" color="#ffffff" >说的是“漠河小镇神秘邪教潜伏多年，神庙大厅兽神雕像隐世之密”，</font><font face="Default" color="#ffffff" >在下已经在李镇长那里得知了神秘邪教的消息，想向您问一下这件事是否与毕家火有关？</font>
+storymenu_81514_5=<font face="Default" color="#ffffff" >什么任务？难道是建立这个神秘邪教？</font>
+storymenu_81514_6=<font face="Default" color="#ffffff" >怪不得召集那么多老百姓在白鲁卡神庙祭祀，原来是为了找东西。</font><font face="Default" color="#ffffff" >那后来他们找到了吗？</font>
+storymenu_81514_7=<font face="Default" color="#ffffff" >原来如此，道长是否知道</font><font face="Default" color="#ffffff" >毕家火现在在哪里？</font><font face="Default" color="#ffffff" >他后来重出江湖又是何意？</font>
+storymenu_81514_8=<font face="Default" color="#ffffff" >多谢道长相告。</font>
+storymenu_81520_1=<font face="Default" color="#ffffff" >这倒不是，弟子是奉</font><font face="Default" color="#ffffff" >谭仕刚长老之</font><font face="Default" color="#ffffff" >命前来想向薛镖头打听一点消息的。</font>
+storymenu_81520_2=<font face="Default" color="#ffffff" >多谢薛镖头，其实此事还要从几个月之前说起。当初我丐帮弟子来燕京押镖，记得薛镖头曾经提醒过说毕家火重出江湖一事。</font>
+storymenu_81520_3=<font face="Default" color="#ffffff" >晚辈想</font><font face="Default" color="#ffffff" >尽量了解清楚当初毕家火劫镖一事，不知道能否方便打扰一下当初经历此事的镖师。</font>
+storymenu_81520_4=<font face="Default" color="#ffffff" >多谢薛总镖头。</font>
+storymenu_81521_1=<font face="Default" color="#ffffff" >几个月前毕家火重出江湖，在一次劫镖中被您看出身份，在下想尽可能的了解当初他劫镖时候的情况。</font>
+storymenu_81521_2=<font face="Default" color="#ffffff" >几个人？这么说毕家火有同伙了？</font>
+storymenu_81521_3=<font face="Default" color="#ffffff" >这么看来，毕家火似乎是那批人的领头人，直到最后收场了才出现。</font>
+storymenu_81521_4=<font face="Default" color="#ffffff" >多谢游兄相告，我这就去看看。</font>
+storymenu_81522_1=<font face="Default" color="#ffffff" >当年毕家火是与一群人一起去劫镖的，而且他是最后一个出现的，很有可能是那批人的头领。</font>
+storymenu_81522_2=<font face="Default" color="#ffffff" >他们所劫的镖是唐门所运，乃是一车唐门的独门兵器。另外，在场的镖师被一个劫镖的女子打伤，伤口处留下了几根怪异的针，应该是那女子的兵器。</font>
+storymenu_81522_3=<font face="Default" color="#ffffff" >弟子领命！</font>
+storymenu_81523_1=<font face="Default" color="#ffffff" >嗯，镇长我想向您打听一句话，说的是漠河镇的事情。</font>
+storymenu_81523_10=<font face="Default" color="#ffffff" >多谢镇长相告了。</font>
+storymenu_81523_2=<font face="Default" color="#ffffff" >“漠河小镇神秘邪教潜伏多年，神庙大厅兽神雕像隐世之密”</font><font face="Default" color="#ffffff" >不知道这说的是漠河镇的什么事情？或者什么人？</font>
+storymenu_81523_3=<font face="Default" color="#ffffff" >果然有神秘邪教一说，镇长您能详细说说么？为什么后来又遣散了</font><font face="Default" color="#ffffff" >那些入教的百姓</font><font face="Default" color="#ffffff" >。</font>
+storymenu_81523_4=<font face="Default" color="#ffffff" >难道那纸片有什么问题？</font>
+storymenu_81523_5=<font face="Default" color="#ffffff" >竟然有这样的事。</font>
+storymenu_81523_6=<font face="Default" color="#ffffff" >白鲁卡神庙？</font>
+storymenu_81523_7=<font face="Default" color="#ffffff" >看来我要去这白鲁卡神庙一趟。</font><font face="Default" color="#ffffff" >多谢镇长相告，我还想向您打听一个人，不知道您有没有听说过毕家火这个人。</font>
+storymenu_81523_8=<font face="Default" color="#ffffff" >原来如此，这下就对上了，那现在这个邪教还在吗？我记得您说过后来百姓们都被遣散了。</font>
+storymenu_81523_9=<font face="Default" color="#ffffff" >听起来，似乎这个邪教是在借老百姓在那个白鲁卡神庙找什么东西，后来或许是找到了或许是放弃了。</font>
+storymenu_81524_1=<font face="Default" color="#ffffff" >这个，弟子遵命！</font>
+storymenu_81530_1=<font face="Default" color="#ffffff" >竟有此事！</font>
+storymenu_81530_2=<font face="Default" color="#ffffff" >弟子谨记！</font>
+storymenu_81530_3=<font face="Default" color="#ffffff" >弟子遵命！</font>
+storymenu_81532_1=<font face="Default" color="#ffffff" >我想向您打听一下，这种材质的衣料似乎很少见，不知道你有没有经手过类似的衣服制作？</font>
+storymenu_81532_2=<font face="Default" color="#ffffff" >这样啊，李师傅他知道吗？</font>
+storymenu_81532_3=<font face="Default" color="#ffffff" >多谢您了。</font>
+storymenu_81533_1=<font face="Default" color="#ffffff" >帮主英明，我按吕裁缝所说前往金陵郊外找一位曾在宫中做事的李裁缝，谁知却被贼人埋伏。</font>
+storymenu_81533_2=<font face="Default" color="#ffffff" >虽说我已击败敌人，可那位裁缝却被袭害了，偏偏这衣料吕裁缝说乃极为罕见的衣料她也不清楚出自何处，只能问那位李裁缝。</font>
+storymenu_81533_3=<font face="Default" color="#ffffff" >那接下来该如何是好？</font>
+storymenu_81534_1=<font face="Default" color="#ffffff" >此人竟然如此胆大。</font>
+storymenu_81534_2=<font face="Default" color="#ffffff" >弟子遵命！</font>
+storymenu_81535_1=<font face="Default" color="#ffffff" >丐帮面临如此危机，身为丐帮弟子岂敢退缩！岂能退缩！弟子愿意前往，还请帮主成全！</font>
+storymenu_81535_2=<font face="Default" color="#ffffff" >帮主，弟子也已闯荡江湖数载，此次主要是调查线索为主，弟子绝不逞一时之勇，还请帮主成全。</font>
+storymenu_81535_3=
+storymenu_81536_1=陶兄不必多礼，哦，对了，此次前来还有一事希望陶兄相助。
+storymenu_81536_2=<font face="Default" color="#ffffff" >我奉命来调查盗走打狗棒的贼人下落，想在</font><font face="Default" color="#ffffff" >陶兄</font><font face="Default" color="#ffffff" >这里打听一下有没有相关的线索。</font>
+storymenu_81536_3=<font face="Default" color="#ffffff" >陶兄不必自责，</font><font face="Default" color="#ffffff" >此乃我丐帮共同的敌人，我们必将此人查个水落石出，你就安心养伤吧。</font>
+storymenu_81537_1=<font face="Default" color="#ffffff" >弟子遵命。</font>
+storymenu_81538_1=<font face="Default" color="#ffffff" >这正是我们拿回打狗棒的好机会，我这就降服他。</font>
+storymenu_81538_2=<font face="Default" color="#ffffff" >竟有此事。</font>
+storymenu_81538_3=<font face="Default" color="#ffffff" >他受伤了还这么厉害。</font>
+storymenu_81538_4=<font face="Default" color="#ffffff" >这，这该怎么办？</font>
+storymenu_81538_5=<font face="Default" color="#ffffff" >这岂不是更难对付。</font>
+storymenu_81538_6=<font face="Default" color="#ffffff" >这么麻烦。</font>
+storymenu_81538_7=<font face="Default" color="#ffffff" >弟子遵命！</font>
+storymenu_81542_1=<font face="Default" color="#ffffff" >啊！那皇上这次收回岂不是有意为之？</font>
+storymenu_81542_2=<font face="Default" color="#ffffff" >那我岂不是闯下大祸了？</font>
+storymenu_81543_1=<font face="Default" color="#ffffff" >帮主放心</font><font face="Default" color="#ffffff" >，大丈夫顶天立地，</font><font face="Default" color="#ffffff" >此次</font><font face="Default" color="#ffffff" >一切行为由我个人承担，</font><font face="Default" color="#ffffff" >与丐帮无关！</font>
+storymenu_81543_2=<font face="Default" color="#ffffff" >好，我立即前往。</font>
+storymenu_81544_1=<font face="Default" color="#ffffff" >磨刀堂为何称丁九重和四大寇是魔教？当初我们与朝廷联手对抗魔教，如今为何又相助魔教？</font>
+storymenu_81545_1=<font face="Default" color="#ffffff" >何事？</font>
+storymenu_81545_2=<font face="Default" color="#ffffff" >尽管放马过来。</font>
+storymenu_81546_1=<font face="Default" color="#ffffff" >苏州郊外？</font>
+storymenu_81546_2=<font face="Default" color="#ffffff" >明白了。</font>
+storymenu_81547_1=<font face="Default" color="#ffffff" >你？认识我？</font>
+storymenu_81547_2=<font face="Default" color="#ffffff" >这有何难？</font>
+storymenu_81547_3=<font face="Default" color="#ffffff" >保护？</font>
+storymenu_81547_4=<font face="Default" color="#ffffff" >好的，没问题！</font>
+storymenu_81548_1=<font face="Default" color="#ffffff" >不必客气，不知道连兄是怎么惹上这几个人的。</font>
+storymenu_81548_2=<font face="Default" color="#ffffff" >请恕在下不是很明白？到底是什么？</font>
+storymenu_81548_3=<font face="Default" color="#ffffff" >所以你是按那个字条所指出来一探究竟的？</font>
+storymenu_81548_4=<font face="Default" color="#ffffff" >兄台身世离奇却意志坚定让人佩服，只是我看你并不会武功，这样盲目的行走江湖不容乐观啊。</font><font face="Default" color="#ffffff" >兄台既然受伤失忆，不若找个郎中仔细看一番。</font>
+storymenu_81548_5=<font face="Default" color="#ffffff" >这，（果然百无一用是书生，既然已经救下他了，也没必要跟他纠缠了）那祝兄台早日完成心愿了。</font>
+storymenu_81549_1=<font face="Default" color="#ffffff" >只是你怎么知道酒楼会有那场争斗发生？难道那三个人是你安排的？</font>
+storymenu_81549_2=<font face="Default" color="#ffffff" >这个你也知道？他确实和我说了，也不知是真是假。</font>
+storymenu_81549_3=<font face="Default" color="#ffffff" >什么大事？</font>
+storymenu_81549_4=<font face="Default" color="#ffffff" >十绝？</font>
+storymenu_81549_5=<font face="Default" color="#ffffff" >难道你们认为那样东西与连青城寻找的空谷有关？</font>
+storymenu_81549_6=<font face="Default" color="#ffffff" >既然有如此大事，那我必须不能错过！</font>
+storymenu_81550_1=<font face="Default" color="#ffffff" >他说了什么？</font>
+storymenu_81550_2=<font face="Default" color="#ffffff" >多谢小二哥了。</font>
+storymenu_81551_1=<font face="Default" color="#ffffff" >好的，多谢小二哥了。</font>
+storymenu_81552_1=<font face="Default" color="#ffffff" >怎么样，你可找到了要去的地方？</font>
+storymenu_81552_2=<font face="Default" color="#ffffff" >事不宜迟，我也去替你问问好了。</font>
+storymenu_81552_3=<font face="Default" color="#ffffff" >不用谢，我们分头去问，到时候再回这酒楼。</font>
+storymenu_81553_1=<font face="Default" color="#ffffff" >这样啊，打扰您了。</font>
+storymenu_81554_1=<font face="Default" color="#ffffff" >在下想找一个叫空谷的地方，听说就在这烟雨庄附近，不知大哥是否知道？</font>
+storymenu_81554_2=<font face="Default" color="#ffffff" >这……那就不打扰您了。</font>
+storymenu_81555_1=<font face="Default" color="#ffffff" >那真是太好了，不知道您有没有听说过空谷这个地方？</font>
+storymenu_81555_2=<font face="Default" color="#ffffff" >这，老伯您再想想看？</font>
+storymenu_81555_3=<font face="Default" color="#ffffff" >多谢老伯了！</font>
+storymenu_81556_1=<font face="Default" color="#ffffff" >找一个朋友，还请大叔带我一程。</font>
+storymenu_81556_2=<font face="Default" color="#ffffff" >不知道缺的是什么，在下或许可以帮忙。</font>
+storymenu_81556_3=<font face="Default" color="#ffffff" >放心</font><font face="Default" color="#ffffff" >，我这就去。</font>
+storymenu_81557_1=<font face="Default" color="#ffffff" >这，好吧，麻烦小二哥。</font>
+storymenu_81558_1=<font face="Default" color="#ffffff" >没问题，我这就去雁门关一趟。</font>
+storymenu_81558_2=
+storymenu_81559_1=<font face="Default" color="#ffffff" >好的。</font>
+storymenu_81560_1=<font face="Default" color="#ffffff" >那，现在能否带我去空谷？</font>
+storymenu_81560_2=<font face="Default" color="#ffffff" >好的。</font>
+storymenu_81561_1=<font face="Default" color="#ffffff" >你的伤？</font>
+storymenu_81561_2=<font face="Default" color="#ffffff" >好吧，你注意安全。</font>
+storymenu_81563_1=<font face="Default" color="#ffffff" >连兄？你？！！</font>
+storymenu_81563_2=<font face="Default" color="#ffffff" >你？到底发生了什么？</font>
+storymenu_81563_3=<font face="Default" color="#ffffff" >这……</font>
+storymenu_81564_1=<font face="Default" color="#ffffff" >你……这又是何必</font><font face="Default" color="#ffffff" >？</font>
+storymenu_81566_1=<font face="Default" color="#ffffff" >你！</font>
+storymenu_81652_1=<font face="Default" color="#ffffff" >那为何这里有这么多人？</font>
+storymenu_81652_2=<font face="Default" color="#ffffff" >那连兄？</font>
+storymenu_81652_3=<font face="Default" color="#ffffff" >然后呢？</font>
+storymenu_81652_4=<font face="Default" color="#ffffff" >这毕家火是何意？</font>
+storymenu_81652_5=<font face="Default" color="#ffffff" >这，萧姑娘一往情深，实在让人又是钦佩又是惋惜。</font>
+storymenu_81652_6=<font face="Default" color="#ffffff" >我去问问他如何了？</font>
+storymenu_81653_1=<font face="Default" color="#ffffff" >你们果然是跟随我去的空谷</font><font face="Default" color="#ffffff" >，丁九重也就罢了，萧姑娘之死……磨刀堂为何要苦苦逼迫一个可怜的女孩！</font>
+storymenu_81653_2=<font face="Default" color="#ffffff" >我为何要信你？</font>
+storymenu_81653_3=<font face="Default" color="#ffffff" >是什么？</font>
+storymenu_81653_4=<font face="Default" color="#ffffff" >原来如此</font><font face="Default" color="#ffffff" >！</font>
+storymenu_81653_5=<font face="Default" color="#ffffff" >那之后的约战？</font>
+storymenu_81653_6=<font face="Default" color="#ffffff" >这是必然！一个外邦小贼罢了。</font>
+storymenu_81653_7=<font face="Default" color="#ffffff" >没问题。</font>
+storymenu_81654_1=<font face="Default" color="#ffffff" >义不容辞！</font>
+storymenu_81654_2=<font face="Default" color="#ffffff" >弟子遵命，只是这与江湖……</font>
+storymenu_81654_3=<font face="Default" color="#ffffff" >我要拦下燕双行吗？</font>
+storymenu_81654_4=<font face="Default" color="#ffffff" >弟子明白。</font><font face="Default" color="#ff3333" >（完成此任务将开启丐帮五内任务，且后续任务均不可放弃，完成门派五内任务后可找门派五内兑换员开启属性试炼，并不断修炼自身内功。）</font>
+storymenu_81655_1=<font face="Default" color="#ffffff" >正是如此。</font>
+storymenu_81655_2=<font face="Default" color="#ffffff" >没问题，交给我吧。</font>
+storymenu_81655_3=<font face="Default" color="#ffffff" >我这就去办。</font>
+storymenu_81656_1=<font face="Default" color="#ffffff" >燕双行？</font><font face="Default" color="#ffffff" >我来和他说。</font>
+storymenu_81657_1=<font face="Default" color="#ffffff" >在下丐帮弟子，开神医在丐帮隐居，丐帮中人自然要出面保护，再说凡事有个先来后到，我已经和开神医约好了。</font>
+storymenu_81657_2=<font face="Default" color="#ffffff" >好！一言为定！</font>
+storymenu_81658_1=<font face="Default" color="#ffffff" >当然！不愧是十绝，燕双行武功独步天下，在下佩服</font><font face="Default" color="#ffffff" >，我这就帮你劝说神医。</font>
+storymenu_81659_1=<font face="Default" color="#ffffff" >我愿赌服输</font><font face="Default" color="#ffffff" >，其实帮主来之前也嘱咐过我，他与燕双行早年有些交情，故而丐帮所需的伤药可以等一等。</font>
+storymenu_81659_2=<font face="Default" color="#ffffff" >都需要些什么，我去弄。</font>
+storymenu_81659_3=<font face="Default" color="#ffffff" >没问题！</font>
+storymenu_81660_1=<font face="Default" color="#ffffff" >好的，没问题！</font>
+storymenu_81661_1=<font face="Default" color="#ffffff" >燕前辈武功高强，弟子佩服</font><font face="Default" color="#ffffff" >。不过我正好也借机插手帮忙燕前辈求医一事，开神医说要研究燕前辈的妹妹的病情需要一些特殊的材料，其中有一样是丐帮的灵蛇丹，不知可否交予开神医？</font>
+storymenu_81661_2=<font face="Default" color="#ffffff" >弟子遵命！</font>
+storymenu_81662_1=<font face="Default" color="#ffffff" >这样啊，那麻烦展师兄跑一趟了，开神医还需要别的东西，我得去唐门一趟。</font>
+storymenu_81662_2=<font face="Default" color="#ffffff" >多谢展师兄了。</font>
+storymenu_81663_1=<font face="Default" color="#ffffff" >掌门英明，在下确实有一件事相求，还望唐掌门答应。</font>
+storymenu_81663_2=<font face="Default" color="#ffffff" >在下想求借唐门的唐针一用，不知能否通融？</font>
+storymenu_81663_3=<font face="Default" color="#ffffff" >实不相瞒，这次是因为开飞机神医要替燕双行前辈的妹妹治病，需要借唐针一用……</font>
+storymenu_81663_4=<font face="Default" color="#ffffff" >多谢唐掌门！</font>
+storymenu_81664_1=<font face="Default" color="#ffffff" >已经到了要续命的程度了？</font>
+storymenu_81664_2=<font face="Default" color="#ffffff" >那</font><font face="Default" color="#ffffff" >该如何是好</font><font face="Default" color="#ffffff" >……</font>
+storymenu_81664_3=<font face="Default" color="#ffffff" >以燕前辈的声望和阅历，还有他那独步天下的武功，又有何难？</font>
+storymenu_81664_4=<font face="Default" color="#ffffff" >原来如此，燕前辈急着救人，定当如此。</font>
+storymenu_81664_5=
+storymenu_81665_1=<font face="Default" color="#ffffff" >是的，不过开神医替燕前辈开了一个药方，也许会有机会治好。</font>
+storymenu_81665_2=<font face="Default" color="#ffffff" >接下来的事？</font>
+storymenu_81665_3=<font face="Default" color="#ffffff" >弟子领命！</font>
+useiteminfo_81501=为<a href="findnpc_new,school02,gb099" style="HLStype1">陶溯</a>用<a href="TASK_ITEM,Item_4nei_gb006" style="HLStype1">金疮药</a>

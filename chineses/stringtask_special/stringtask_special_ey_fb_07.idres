@@ -1,0 +1,37 @@
+﻿
+DialogID_37301=<s>最近厨房里老是丢东西，赵师傅心情很是不好，前些天烧菜都忘记放盐了……咦？{@0:}，你总是盯着我做啥？难不成你以为是我偷的吧？！你去问问那挑水的胖子看看，我看八成是他偷吃的。
+DialogID_37302=<s>厨房老是丢东西？你来问我作甚？！别看我长的胖，我可是从来都不……不偷食吃的！不过……
+DialogID_37303=<s>不过被你这么一问，我忽然想起一件事情，昨天晚上我起夜的时候听到厨房里面有动静，结果一个黑影忽然窜出来，飘到房顶上，一眨眼就不见了，吓的我半死，我还以为见鬼了呢！
+DialogID_37304=<s>啥？你说偷食吃的小贼还会武功？他功夫这么好为何还来我这偷东西吃？嘿嘿，难道老赵做的饭菜如此惹人垂涎？哈哈哈……
+DialogID_37305=<s>这样吧，我来做份炒面给你，你晚上就用这炒面引诱他出来，将他捉住。到时候有啥事情，一问便知。
+DialogID_37306=　　呵呵，老赵叫你过来的？这家伙就是喜欢偷懒……我这就叫伙计把面粉搬过来，挺沉的，你一个人行不行？
+DialogID_37307=
+SubmitNpcEx_5601=xxx
+collectinfo_37301=拿一份炒面回来给老道
+collectinfo_37302=收集<a href="findnpc_new,school07,monm072300" style="HLStype1">虎唇鳄</a>的肉。
+collectinfo_37303=将佩剑带给馋嘴老道
+interactinfo_37301=询问<a href="findnpc_new,school07,WorldNpc04876" style="HLStype1">做饭道士</a>有关厨房失窃之事
+interactinfo_37302=与<a href="findnpc_new,school07,wd023" style="HLStype1">挑水胖道士</a>交谈
+interactinfo_37303=追问<a href="findnpc_new,school07,wd023" style="HLStype1">挑水胖道士</a>有关厨房失窃的线索
+interactinfo_37304=与<a href="findnpc_new,school07,FunnpcClone007008" style="HLStype1">赵大壮</a>交谈
+interactinfo_37305=与<a href="findnpc_new,school07,FunnpcClone007008" style="HLStype1">赵大壮</a>交谈
+interactinfo_37306=去山下米铺找<a href="findnpc_new,school07,FunnpcClone007011" style="HLStype1">贾坤兴</a>买一袋面粉回来。
+interactinfo_37307=与<a href="findnpc_new,school07,FunnpcClone007008" style="HLStype1">赵大壮</a>交谈
+okmenu_37301=我就看了你两眼，难不成你心虚了？
+okmenu_37302=不过什么？！
+okmenu_37303=哦？有这等怪事？！
+okmenu_37304=这个我也不甚清楚，最好抓住他问个明白。
+okmenu_37305=如此也好。
+okmenu_37306=不碍事的，交给我吧。
+okmenu_37307=
+story_37301_1=<s>呵呵，老道我当年乃是武当六道真人门下，道号玄音，若是按照入门先后来算的话，现在的武当掌门紫阳真人还得叫我一声师兄呢！哈哈哈……
+story_37301_2=<s>想当年老道我喜爱钻研机关术数，镇守紫霞地宫乃是惊门看守道长，不常在山内走动，你没听说也是应当。当年的景门看守道长玄真和我乃是至交，却不知他现下如何，如若你有机会见到他，一问便知。
+story_37301_3=<s>还俗？哈哈哈……你这年轻人当真有趣！老道我一心向道，无牵无挂，还俗作甚？只不过当年有些误会，我年少气盛一时想不通才会负气出走，离开武当。想不到这一走就是三十多年啊……
+story_37301_4=<s>这……一时半会也讲不清楚，唉……不提也罢！只是离乡背井这么些年，老道我年纪也大了，走不动了，方才想回来瞧瞧……<br><s>咦，我跟你说这些干啥？不说了，不说了！
+story_menu_37301=馋嘴老道的身世
+storymenu_37301_1=玄音？当真没有听说过！老先生你不是在唬我吧？！
+storymenu_37301_2=若有机会当真得问上一问。只是老先生你……莫不是还俗了？
+storymenu_37301_3=究竟是什么样的误会呢？
+storymenu_37301_4=这……
+useiteminfo_37301=将<a href="TASK_ITEM,TaskItemClone_007601" style="HLStype1">一碗香喷喷的炒面</a>放在碗橱里
+useiteminfo_37302=将<a href="TASK_ITEM,TaskItemClone_007602" style="HLStype1">面粉</a>放在米缸旁边

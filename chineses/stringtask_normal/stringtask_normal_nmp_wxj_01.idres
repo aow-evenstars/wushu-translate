@@ -1,0 +1,916 @@
+﻿
+;=12
+>五毒</font><font face="Default" color="#ffffff" >令数量不一，在下也会以不同功力与你切磋。</font>
+CanAcceptMenu_30001=<font face="Default" color="#ffffff" >加固建筑（可承接）</font>
+CanAcceptMenu_30002=<font face="Default" color="#ffffff" >照料草药（可接）</font>
+CanAcceptMenu_30003=<font face="Default" color="#ffffff" >巡视五仙教</font>
+CanAcceptMenu_30004=<font face="Default" color="#ffffff" >梯田劳作（耕地）</font>
+CanAcceptMenu_30005=<font face="Default" color="#ffffff" >梯田劳作（播种）</font>
+CanAcceptMenu_30006=<font face="Default" color="#ffffff" >梯田劳作（灌溉）</font>
+CanAcceptMenu_30007=<font face="Default" color="#ffffff" >梯田劳作（施肥）</font>
+CanAcceptMenu_30008=<font face="Default" color="#ffffff" >梯田劳作（除虫）</font>
+CanAcceptMenu_30009=<font face="Default" color="#ffffff" >梯田劳作（除草）</font>
+CanAcceptMenu_30010=<font face="Default" color="#ffffff" >梯田劳作（收获）</font>
+CanAcceptMenu_30011=<font face="Default" color="#ffffff" >五仙渊源（一）</font>
+CanAcceptMenu_30012=<font face="Default" color="#ffffff" >五仙渊源（二）</font>
+CanAcceptMenu_30013=<font face="Default" color="#ffffff" >五仙渊源（三）</font>
+CanAcceptMenu_30014=<font face="Default" color="#ffffff" >五仙渊源（四）</font>
+CanAcceptMenu_30016=<font face="Default" color="#ffffff" >虿盆争斗</font>
+CanAcceptMenu_30017=<font face="Default" color="#ffffff" >霓裳宫来袭</font>
+CanAcceptMenu_30030=五仙教周常斗蛊大会1/5（可承接）
+CanAcceptMenu_30031=五仙教周常斗蛊大会3/5（可承接）
+CanAcceptMenu_30032=五仙教周常斗蛊大会2/5（可承接）
+CanAcceptMenu_30033=五仙教周常斗蛊大会4/5（可承接）
+CanAcceptMenu_30034=五仙教周常斗蛊大会5/5（可承接）
+CanAcceptMenu_30037=五仙教日常养蛊3/3（可承接）
+CanAcceptMenu_30038=五仙教日常养蛊2/3（可承接）
+CanAcceptMenu_30039=五仙教日常养蛊1/3（可承接）
+CanAcceptMenu_30040=<font face="Default" color="#ffffff" >加固建筑（可承接）</font>
+CanAcceptMenu_30041=<font face="Default" color="#ffffff" >谋夺神水</font>
+CanAcceptMenu_30101=<font face="Default" color="#ffffff" >蛊毒伤人</font>
+CanAcceptMenu_30102=<font face="Default" color="#ffffff" >寻找线索</font>
+CanAcceptMenu_30103=<font face="Default" color="#ffffff" >错认凶手</font>
+CanAcceptMenu_30104=<font face="Default" color="#ffffff" >查明缘由</font>
+CanAcceptMenu_30105=<font face="Default" color="#ffffff" >求援</font>
+CanAcceptMenu_30106=<font face="Default" color="#ffffff" >紫令使</font>
+CanAcceptMenu_30107=<font face="Default" color="#ffffff" >黄令使</font>
+CanAcceptMenu_30108=<font face="Default" color="#ffffff" >拜访五仙教</font>
+CanAcceptMenu_30109=<font face="Default" color="#ffffff" >入门审核</font>
+CanAcceptMenu_30110=<font face="Default" color="#ffffff" >血祭</font>
+CanAcceptMenu_30111=<font face="Default" color="#ffffff" >圣蝎</font>
+CanAcceptMenu_30112=<font face="Default" color="#ffffff" >驭蛊之音</font>
+CanAcceptMenu_30113=<font face="Default" color="#ffffff" >面见长老</font>
+CanAcceptMenu_30114=<font face="Default" color="#ffffff" >以血饲蛊，加入五仙教。</font>
+CanAcceptMenu_30115=<font face="Default" color="#ffffff" >叛师（可接取）</font>
+CanAcceptMenu_30116=<font face="Default" color="#ffffff" >出师回极乐谷</font><font face="Default" color="#ffffff" >（可接取）</font>
+CanAcceptMenu_30117=<font face="Default" color="#ffffff" >出师回江湖</font><font face="Default" color="#ffffff" >（可接取）</font>
+CanAcceptMenu_30118=<font face="Default" color="#ffffff" >加入五仙教</font>
+CanAcceptMenu_30120=<font face="Default" color="#ffffff" >五仙之秘</font>
+CanAcceptMenu_30121=<font face="Default" color="#ffffff" >前往五仙</font>
+CanAcceptMenu_30122=<font face="Default" color="#ffffff" >五仙教</font>
+CanAcceptMenu_30123=<font face="Default" color="#ffffff" >五仙考验</font>
+CanAcceptMenu_30124=<font face="Default" color="#ffffff" >资格审核</font>
+CanAcceptMenu_30125=<font face="Default" color="#ffffff" >五仙解毒</font>
+CanAcceptMenu_30200=<font face="Default" color="#ffffff" >初入五仙教（可承接）</font>
+CanAcceptMenu_30201=<font face="Default" color="#ffffff" >得知初因（可承接）</font>
+CanAcceptMenu_30206=<font face="Default" color="#ffffff" >寻霓裳宫（可承接）</font>
+CanAcceptMenu_30207=<font face="Default" color="#ffffff" >告知教主（可承接）</font>
+CanAcceptMenu_30208=<font face="Default" color="#ffffff" >捉拿回教（可承接）</font>
+CanAcceptMenu_30251=<font face="Default" color="#ffffff" >二阶身份晋级挑战</font>
+CanAcceptMenu_30252=<font face="Default" color="#ffffff" >二阶身份晋级挑战（简单）</font>
+CanAcceptMenu_30253=<font face="Default" color="#ffffff" >二阶身份晋级挑战（普通）</font>
+CanAcceptMenu_30254=<font face="Default" color="#ffffff" >二阶身份晋级挑战（困难）</font>
+CanAcceptMenu_30255=<font face="Default" color="#ffffff" >三阶身份晋级挑战</font>
+CanAcceptMenu_30256=<font face="Default" color="#ffffff" >三阶身份晋级挑战（简单）</font>
+CanAcceptMenu_30257=<font face="Default" color="#ffffff" >三阶身份晋级挑战（普通）</font>
+CanAcceptMenu_30258=<font face="Default" color="#ffffff" >三阶身份晋级挑战（困难）</font>
+CanAcceptMenu_30259=<font face="Default" color="#ffffff" >四阶身份晋级挑战</font>
+CanAcceptMenu_30260=<font face="Default" color="#ffffff" >四阶身份晋级挑战（简单）</font>
+CanAcceptMenu_30261=<font face="Default" color="#ffffff" >四阶身份晋级挑战（普通）</font>
+CanAcceptMenu_30262=<font face="Default" color="#ffffff" >四阶身份晋级挑战（困难）</font>
+CanAcceptMenu_30263=<font face="Default" color="#ffffff" >五阶身份晋级挑战</font>
+CanAcceptMenu_30264=<font face="Default" color="#ffffff" >五阶身份晋级挑战（简单）</font>
+CanAcceptMenu_30265=<font face="Default" color="#ffffff" >五阶身份晋级挑战（普通）</font>
+CanAcceptMenu_30266=<font face="Default" color="#ffffff" >五阶身份晋级挑战（困难）</font>
+CanAcceptMenu_30267=<font face="Default" color="#ffffff" >六阶身份晋级挑战</font>
+CanAcceptMenu_30268=<font face="Default" color="#ffffff" >六阶身份晋级挑战（简单）</font>
+CanAcceptMenu_30269=<font face="Default" color="#ffffff" >六阶身份晋级挑战（普通）</font>
+CanAcceptMenu_30270=<font face="Default" color="#ffffff" >六阶身份晋级挑战（困难）</font>
+CanAcceptMenu_30271=<font face="Default" color="#ffffff" >七阶身份晋级挑战</font>
+CanAcceptMenu_30272=<font face="Default" color="#ffffff" >七阶身份晋级挑战（简单）</font>
+CanAcceptMenu_30273=<font face="Default" color="#ffffff" >七阶身份晋级挑战（普通）</font>
+CanAcceptMenu_30274=<font face="Default" color="#ffffff" >七阶身份晋级挑战（困难）</font>
+CanAcceptMenu_30275=<font face="Default" color="#ffffff" >八阶身份晋级挑战</font>
+CanAcceptMenu_30276=<font face="Default" color="#ffffff" >八阶身份晋级挑战（简单）</font>
+CanAcceptMenu_30277=<font face="Default" color="#ffffff" >八阶身份晋级挑战（普通）</font>
+CanAcceptMenu_30278=<font face="Default" color="#ffffff" >八阶身份晋级挑战（困难）</font>
+CanAcceptMenu_30279=<font face="Default" color="#ffffff" >九阶身份晋级挑战</font>
+CanAcceptMenu_30280=<font face="Default" color="#ffffff" >九阶身份晋级挑战（简单）</font>
+CanAcceptMenu_30281=<font face="Default" color="#ffffff" >九阶身份晋级挑战（普通）</font>
+CanAcceptMenu_30282=<font face="Default" color="#ffffff" >九阶身份晋级挑战（困难）</font>
+CanAcceptMenu_30283=<font face="Default" color="#ffffff" >十阶身份晋级挑战</font>
+CanAcceptMenu_30284=<font face="Default" color="#ffffff" >十阶身份晋级挑战（简单）</font>
+CanAcceptMenu_30285=<font face="Default" color="#ffffff" >十阶身份晋级挑战（普通）</font>
+CanAcceptMenu_30286=<font face="Default" color="#ffffff" >十阶身份晋级挑战（困难）</font>
+CompleteMenu_30001=<font face="Default" color="#ffffff" >加固建筑（可提交）</font>
+CompleteMenu_30002=<font face="Default" color="#ffffff" >照料草药（已完成）</font>
+CompleteMenu_30003=<font face="Default" color="#ffffff" >巡视五仙教（已完成）</font>
+CompleteMenu_30004=<font face="Default" color="#ffffff" >梯田劳作（耕地）</font>
+CompleteMenu_30005=<font face="Default" color="#ffffff" >梯田劳作（播种）</font>
+CompleteMenu_30006=<font face="Default" color="#ffffff" >梯田劳作（灌溉）</font>
+CompleteMenu_30007=<font face="Default" color="#ffffff" >梯田劳作（施肥）</font>
+CompleteMenu_30008=<font face="Default" color="#ffffff" >梯田劳作（除虫）</font>
+CompleteMenu_30009=<font face="Default" color="#ffffff" >梯田劳作（除草）</font>
+CompleteMenu_30010=<font face="Default" color="#ffffff" >梯田劳作（收获）</font>
+CompleteMenu_30011=<font face="Default" color="#ffffff" >五仙渊源（一)（可提交）</font>
+CompleteMenu_30012=<font face="Default" color="#ffffff" >五仙渊源（二）（可提交）</font>
+CompleteMenu_30013=<font face="Default" color="#ffffff" >五仙渊源（三）（可提交）</font>
+CompleteMenu_30014=<font face="Default" color="#ffffff" >五仙渊源（四）（可提交）</font>
+CompleteMenu_30016=<font face="Default" color="#ffffff" >虿盆争斗（已完成）</font>
+CompleteMenu_30017=<font face="Default" color="#ffffff" >霓裳宫来袭（已完成）</font>
+CompleteMenu_30030=教主，我已完成了对于蛊知识的考验！
+CompleteMenu_30031=圣老，这是我捕捉的蛊虫，请过目！
+CompleteMenu_30032=圣老，我浸泡好了！
+CompleteMenu_30033=副教主，弟子完成了中蛊考验，特来回禀！（脸色有点难堪...）
+CompleteMenu_30034=教主，我已完成斗蛊大会全部考验！
+CompleteMenu_30037=圣老，已经喂养好了，蛊虫吃的饱饱的，非常开心！
+CompleteMenu_30038=回禀圣老，我已经把蛊虫喂养好了！
+CompleteMenu_30039=回禀圣老，我已经把毒草采回来了！
+CompleteMenu_30040=<font face="Default" color="#ffffff" >加固建筑（可提交）</font>
+CompleteMenu_30041=<font face="Default" color="#ffffff" >谋夺神水(提交任务)</font>
+CompleteMenu_30101=<font face="Default" color="#ffffff" >蛊毒伤人(可提交)</font>
+CompleteMenu_30102=<font face="Default" color="#ffffff" >寻找线索（可提交）</font>
+CompleteMenu_30103=<font face="Default" color="#ffffff" >错认凶手（可提交）</font>
+CompleteMenu_30104=<font face="Default" color="#ffffff" >查明缘由（可提交）</font>
+CompleteMenu_30105=<font face="Default" color="#ffffff" >求援（可提交）</font>
+CompleteMenu_30106=<font face="Default" color="#ffffff" >紫令使（可提交）</font>
+CompleteMenu_30107=<font face="Default" color="#ffffff" >黄令使（可提交）</font>
+CompleteMenu_30108=<font face="Default" color="#ffffff" >拜访五仙教（可提交）</font>
+CompleteMenu_30109=<font face="Default" color="#ffffff" >入门审核（可提交）</font>
+CompleteMenu_30110=<font face="Default" color="#ffffff" >血祭（可提交）</font>
+CompleteMenu_30111=<font face="Default" color="#ffffff" >圣蝎（可提交）</font>
+CompleteMenu_30112=<font face="Default" color="#ffffff" >驭蛊之音</font><font face="Default" color="#ffffff" >（可提交）</font>
+CompleteMenu_30113=<font face="Default" color="#ffffff" >面见长老（可提交）</font>
+CompleteMenu_30114=<font face="Default" color="#ffffff" >以血饲蛊，加入五仙教。（可提交）</font>
+CompleteMenu_30115=<font face="Default" color="#ffffff" >叛师（可提交）</font>
+CompleteMenu_30116=<font face="Default" color="#ffffff" >出师回极乐谷</font><font face="Default" color="#ffffff" >（可提交）</font>
+CompleteMenu_30117=<font face="Default" color="#ffffff" >出师回江湖</font><font face="Default" color="#ffffff" >（可提交）</font>
+CompleteMenu_30118=<font face="Default" color="#ffffff" >加入五仙教</font>
+CompleteMenu_30120=<font face="Default" color="#ffffff" >五仙之秘</font><font face="Default" color="#ffffff" >（可提交）</font>
+CompleteMenu_30121=<font face="Default" color="#ffffff" >前往五仙（可提交）</font>
+CompleteMenu_30122=<font face="Default" color="#ffffff" >五仙教（可提交）</font>
+CompleteMenu_30123=<font face="Default" color="#ffffff" >五仙考验（可提交）</font>
+CompleteMenu_30124=<font face="Default" color="#ffffff" >资格审核（可提交）</font>
+CompleteMenu_30125=<font face="Default" color="#ffffff" >五仙解毒（可提交）</font>
+CompleteMenu_30200=<font face="Default" color="#ffffff" >初入五仙教（可提交）</font>
+CompleteMenu_30202=<font face="Default" color="#ffffff" >再见教主（可提交）</font>
+CompleteMenu_30203=<font face="Default" color="#ffffff" >了解事因（可提交）</font>
+CompleteMenu_30204=<font face="Default" color="#ffffff" >打探消息（可提交）</font>
+CompleteMenu_30205=<font face="Default" color="#ffffff" >霓裳下落（可提交）</font>
+CompleteMenu_30207=<font face="Default" color="#ffffff" >完成任务</font>
+CompleteMenu_30208=<font face="Default" color="#ffffff" >完成任务</font>
+CompleteMenu_30209=<font face="Default" color="#ffffff" >完成任务</font>
+CompleteMenu_30210=<font face="Default" color="#ffffff" >查询线索（可提交）</font>
+CompleteMenu_30211=<font face="Default" color="#ffffff" >完成任务</font>
+CompleteMenu_30251=<font face="Default" color="#ffffff" >完成任务</font>
+CompleteMenu_30252=<font face="Default" color="#ffffff" >承让了。</font>
+CompleteMenu_30253=<font face="Default" color="#ffffff" >承让了。</font>
+CompleteMenu_30254=<font face="Default" color="#ffffff" >承让了。</font>
+CompleteMenu_30255=<font face="Default" color="#ffffff" >完成任务</font>
+CompleteMenu_30256=<font face="Default" color="#ffffff" >承让了。</font>
+CompleteMenu_30257=<font face="Default" color="#ffffff" >承让了。</font>
+CompleteMenu_30258=<font face="Default" color="#ffffff" >承让了。</font>
+CompleteMenu_30259=<font face="Default" color="#ffffff" >完成任务</font>
+CompleteMenu_30260=<font face="Default" color="#ffffff" >承让了。</font>
+CompleteMenu_30261=<font face="Default" color="#ffffff" >承让了。</font>
+CompleteMenu_30262=<font face="Default" color="#ffffff" >承让了。</font>
+CompleteMenu_30263=<font face="Default" color="#ffffff" >完成任务</font>
+CompleteMenu_30264=<font face="Default" color="#ffffff" >承让了。</font>
+CompleteMenu_30265=<font face="Default" color="#ffffff" >承让了。</font>
+CompleteMenu_30266=<font face="Default" color="#ffffff" >承让了。</font>
+CompleteMenu_30267=<font face="Default" color="#ffffff" >完成任务</font>
+CompleteMenu_30268=<font face="Default" color="#ffffff" >承让了。</font>
+CompleteMenu_30269=<font face="Default" color="#ffffff" >承让了。</font>
+CompleteMenu_30270=<font face="Default" color="#ffffff" >承让了。</font>
+CompleteMenu_30271=<font face="Default" color="#ffffff" >完成任务</font>
+CompleteMenu_30272=<font face="Default" color="#ffffff" >承让了。</font>
+CompleteMenu_30273=<font face="Default" color="#ffffff" >承让了。</font>
+CompleteMenu_30274=<font face="Default" color="#ffffff" >承让了。</font>
+CompleteMenu_30275=<font face="Default" color="#ffffff" >完成任务</font>
+CompleteMenu_30276=<font face="Default" color="#ffffff" >承让了。</font>
+CompleteMenu_30277=<font face="Default" color="#ffffff" >承让了。</font>
+CompleteMenu_30278=<font face="Default" color="#ffffff" >承让了。</font>
+CompleteMenu_30279=<font face="Default" color="#ffffff" >完成任务</font>
+CompleteMenu_30280=<font face="Default" color="#ffffff" >承让了。</font>
+CompleteMenu_30281=<font face="Default" color="#ffffff" >承让了。</font>
+CompleteMenu_30282=<font face="Default" color="#ffffff" >承让了。</font>
+CompleteMenu_30283=<font face="Default" color="#ffffff" >完成任务</font>
+CompleteMenu_30284=<font face="Default" color="#ffffff" >承让了。</font>
+CompleteMenu_30285=<font face="Default" color="#ffffff" >承让了。</font>
+CompleteMenu_30286=<font face="Default" color="#ffffff" >承让了。</font>
+SubmitNpcEx_30251=与<a href="findnpc_new,school12,newmp_wxj_09" style="HLStype1">仰阿莎</a>交谈
+SubmitNpcEx_30252=与<a href="findnpc_new,school12,newmp_wxj_09" style="HLStype1">仰阿莎</a>交谈
+SubmitNpcEx_30253=与<a href="findnpc_new,school12,newmp_wxj_09" style="HLStype1">仰阿莎</a>交谈
+SubmitNpcEx_30254=与<a href="findnpc_new,school12,newmp_wxj_09" style="HLStype1">仰阿莎</a>交谈
+SubmitNpcEx_30255=与<a href="findnpc_new,school12,newmp_wxj_08" style="HLStype1">小妹松</a>交谈
+SubmitNpcEx_30256=与<a href="findnpc_new,school12,newmp_wxj_08" style="HLStype1">小妹松</a>交谈
+SubmitNpcEx_30257=与<a href="findnpc_new,school12,newmp_wxj_08" style="HLStype1">小妹松</a>交谈
+SubmitNpcEx_30258=与<a href="findnpc_new,school12,newmp_wxj_08" style="HLStype1">小妹松</a>交谈
+SubmitNpcEx_30259=与<a href="findnpc_new,school12,newmp_wxj_07" style="HLStype1">金珠尼</a>交谈
+SubmitNpcEx_30260=与<a href="findnpc_new,school12,newmp_wxj_07" style="HLStype1">金珠尼</a>交谈
+SubmitNpcEx_30261=与<a href="findnpc_new,school12,newmp_wxj_07" style="HLStype1">金珠尼</a>交谈
+SubmitNpcEx_30262=与<a href="findnpc_new,school12,newmp_wxj_07" style="HLStype1">金珠尼</a>交谈
+SubmitNpcEx_30263=与<a href="findnpc_new,school12,newmp_wxj_06" style="HLStype1">东娜彩</a>交谈
+SubmitNpcEx_30264=与<a href="findnpc_new,school12,newmp_wxj_06" style="HLStype1">东娜彩</a>交谈
+SubmitNpcEx_30265=与<a href="findnpc_new,school12,newmp_wxj_06" style="HLStype1">东娜彩</a>交谈
+SubmitNpcEx_30266=与<a href="findnpc_new,school12,newmp_wxj_06" style="HLStype1">东娜彩</a>交谈
+SubmitNpcEx_30267=与<a href="findnpc_new,school12,newmp_wxj_05" style="HLStype1">阿妮桑</a>交谈
+SubmitNpcEx_30268=与<a href="findnpc_new,school12,newmp_wxj_05" style="HLStype1">阿妮桑</a>交谈
+SubmitNpcEx_30269=与<a href="findnpc_new,school12,newmp_wxj_05" style="HLStype1">阿妮桑</a>交谈
+SubmitNpcEx_30270=与<a href="findnpc_new,school12,newmp_wxj_05" style="HLStype1">阿妮桑</a>交谈
+SubmitNpcEx_30271=与<a href="findnpc_new,school12,newmp_wxj_04" style="HLStype1">阿各林</a>交谈
+SubmitNpcEx_30272=与<a href="findnpc_new,school12,newmp_wxj_04" style="HLStype1">阿各林</a>交谈
+SubmitNpcEx_30273=与<a href="findnpc_new,school12,newmp_wxj_04" style="HLStype1">阿各林</a>交谈
+SubmitNpcEx_30274=与<a href="findnpc_new,school12,newmp_wxj_04" style="HLStype1">阿各林</a>交谈
+SubmitNpcEx_30275=与<a href="findnpc_new,school12,newmp_wxj_03" style="HLStype1">茂沙</a>交谈
+SubmitNpcEx_30276=与<a href="findnpc_new,school12,newmp_wxj_03" style="HLStype1">茂沙</a>交谈
+SubmitNpcEx_30277=与<a href="findnpc_new,school12,newmp_wxj_03" style="HLStype1">茂沙</a>交谈
+SubmitNpcEx_30278=与<a href="findnpc_new,school12,newmp_wxj_03" style="HLStype1">茂沙</a>交谈
+SubmitNpcEx_30279=与<a href="findnpc_new,school12,newmp_wxj_02" style="HLStype1">务侯也</a>交谈
+SubmitNpcEx_30280=与<a href="findnpc_new,school12,newmp_wxj_02" style="HLStype1">务侯也</a>交谈
+SubmitNpcEx_30281=与<a href="findnpc_new,school12,newmp_wxj_02" style="HLStype1">务侯也</a>交谈
+SubmitNpcEx_30282=与<a href="findnpc_new,school12,newmp_wxj_02" style="HLStype1">务侯也</a>交谈
+SubmitNpcEx_30283=与<a href="findnpc_new,school12,newmp_wxj_01" style="HLStype1">白夙珏</a>交谈
+SubmitNpcEx_30284=与<a href="findnpc_new,school12,newmp_wxj_01" style="HLStype1">白夙珏</a>交谈
+SubmitNpcEx_30285=与<a href="findnpc_new,school12,newmp_wxj_01" style="HLStype1">白夙珏</a>交谈
+SubmitNpcEx_30286=与<a href="findnpc_new,school12,newmp_wxj_01" style="HLStype1">白夙珏</a>交谈
+accept_30001_1=<font face="Default" color="#ffffff" >五仙教所在之处为大山之中，风吹雨淋，吊桥和寨门等处每日都会有所损耗，你且去巡查下是否有此情况，若发现需及时修复。先去竹林取竹子，处理后才能当修复材料，这是加工工具，你且收好</font>
+accept_30002_1=<font face="Default" color="#ffffff" >五仙教常与毒物相伴，故在教里会培养专门克制毒性的药草，大侠是否愿意前去帮忙照料草药？</font>
+accept_30003_1=<font face="Default" color="#ffffff" >你刚入我五仙教，就先在另外一位师姐的带领下先巡视下五仙教，也好熟悉熟悉周围的环境。</font>
+accept_30004_1=<font face="Default" color="#ffffff" >五仙教日常食用之物都是门内弟子自行种植，你先去梯田把地犁一遍吧</font>
+accept_30005_1=<font face="Default" color="#ffffff" >现在梯田里的地已经耕过了，去选择种子播种吧</font>
+accept_30006_1=<font face="Default" color="#ffffff" >庄稼已经种下去了，你去灌溉一下吧</font>
+accept_30007_1=<font face="Default" color="#ffffff" >我看庄稼长势不旺，去施点肥吧</font>
+accept_30008_1=<font face="Default" color="#ffffff" >最近庄稼上面好像长虫了，去把这些破坏庄稼的虫子消灭掉</font>
+accept_30009_1=<font face="Default" color="#ffffff" >庄稼地里开始滋生杂草了，我这有除草剂，去给庄稼撒上，防止边上再长出来</font>
+accept_30010_1=<font face="Default" color="#ffffff" >终于到了收获的时刻了，去把庄稼上的果实割下来吧</font>
+accept_30011_1=<font face="Default" color="#ffffff" >五仙教隐于南疆，此番出世，定能名震武林。</font>
+accept_30012_1=<font face="Default" color="#ffffff" >当年相助五仙教，与白教主共赴战场，一统南疆武林，后五仙隐于南疆，再无联络。。此来找我可有何事？</font>
+accept_30013_1=<font face="Default" color="#ffffff" >单谷主如何回复？</font>
+accept_30014_1=<font face="Default" color="#ffffff" >极乐谷谷主与五仙有旧，我亦乐于极乐谷武学发扬，但传授武学乃门派大事，需要先请示谷主，亦需征得贵教掌门同意方可。</font>
+accept_30016_1=<font face="Default" color="#ffffff" >入我五仙教有段时日的弟子都可以前去参加虿盆争斗，这是每一个五仙教刚入门弟子展现自己的实力的时候，你可愿意试一试？</font>
+accept_30017_1=<font face="Default" color="#ffffff" >少侠，霓裳宫突袭我教，你是否愿意前去抵御</font>
+accept_30030_1=斗蛊大会斗智斗勇，乃我教传承已久的精髓所在！各位弟子需勤加苦练，不仅要掌握对于蛊虫知识，还要懂得养蛊，施蛊，解蛊等高深技艺！首先，我先出三道题你回答看看！
+accept_30031_1=（哎...去哪再多弄几个尸体呢？）...正好，你去万蛊洞给那些蛊虫喂食你带过来的“浸过毒的动物心脏”，并且要捉几只回来。
+accept_30032_1=第二个考验，主要是看你对养蛊的掌握程度！你去寻一下雨祖吧，他对养蛊颇有研究。顺路找一下副教主“务侯也”，雨祖有东西需要你带给他一下!
+accept_30033_1=呵呵是不是感觉尸蛊圣老“阿各林”很邪乎啊？放心，能成为圣老也说明他是一方强者，蛊文化深邃，世间万物都可能成为蛊，只不过尸蛊圣老只对尸蛊比较中意罢了，呵呵...这是你刚拿来的一袋蛊虫，你去给尸蛊圣老“阿各林”中蛊试试！别担心，尽管试便是了，第四个考验便是如此！
+accept_30034_1="上树容易，下树难"。施蛊容易，解蛊难！只因每种养蛊方法都不同，施蛊方式又不同，所以解蛊起来比较麻烦，这里有一套最简单的解蛊方法，你现在对两位圣老试试！解完之后记得回禀教主！
+accept_30037_1=恩，这里有一份万兽血，你拿去给你的蛊虫喂养下吧，直接使用便可！
+accept_30038_1=哎，最近蛊虫日益稀少，我那些宝贝尸蛊可要饿坏了！去把，赶紧伺候好蛊虫！
+accept_30039_1=弟子来喂养蛊虫啊，太好了，多养点蛊虫，又可以多添点蛊尸来陪我了！死人比活人有意思的多，会有很多乐趣自在其中...呵呵，赶紧去，先采些毒草回来！
+accept_30040_1=<font face="Default" color="#ffffff" >既然已有加固材料，你且去巡视一下，若遇损坏之处便将其修补好</font>
+accept_30041_1=<font face="Default" color="#ffffff" >近日，我教弟子将会攻打神水宫，谋夺神水，弟子们需全力以赴</font>
+accept_30101_1=<font face="Default" color="#ffffff" >你找我何事？</font>
+accept_30102_1=<font face="Default" color="#ffffff" >这位少侠，你来的正好，求求您救救我妻子，他被人变成僵尸了，我想去把我妻子抢回来，反而被他们咬伤了，我就要变成僵尸了，我没保护好我妻子，我怕死了没脸见她。</font>
+accept_30103_1=<font face="Default" color="#ffffff" >嘿，你说什么哪，嘴巴放干净点。</font>
+accept_30104_1=<font face="Default" color="#ffffff" >我是五仙教弟子，这些蛊尸的炼制手法很像我们门派的独门手法，我来此就是查明原因的。</font>
+accept_30105_1=<font face="Default" color="#ffffff" >你去千灯镇找我教紫令使，她就在客栈里，告诉他我找到叛徒了，让她速速来此。</font><font face="Default" color="#ffffff" >别忘了暗号是“圣蝎”。</font>
+accept_30106_1=<font face="Default" color="#ffffff" >有什么急事？</font>
+accept_30107_1=<font face="Default" color="#ffffff" >终于抓住了这个叛徒，回去后好好</font><font face="Default" color="#ffffff" >收拾他</font><font face="Default" color="#ffffff" >。</font>
+accept_30108_1=<font face="Default" color="#ffffff" >我见少侠对我五仙教十分感兴趣，不如和我们一起去五仙教如何。</font>
+accept_30109_1=<font face="Default" color="#ffffff" >你来接受入门审核么？</font>
+accept_30110_1=<font face="Default" color="#ffffff" >首先先去祭坛接受血祭。</font>
+accept_30111_1=<font face="Default" color="#ffffff" >接下来你要想办法获取圣蝎毒液。</font>
+accept_30112_1=<font face="Default" color="#ffffff" >我们历代教主都精通琴乐，接下来你就为我弹奏一曲如何？</font>
+accept_30113_1=<font face="Default" color="#ffffff" >接下来你去见见我派诸位长老。</font>
+accept_30114_1=<font face="Default" color="#ffffff" >想成为五仙教弟子，你还需以血饲蛊，不知道你敢不敢。</font>
+accept_30115_1=<font face="Default" color="#ffffff" >你不好好练武，来找我做什么？</font>
+accept_30116_1=<font face="Default" color="#ffffff" >你是我见过天分最高的弟子，有什么事找我么？</font>
+accept_30117_1=<font face="Default" color="#ffffff" >你是我近年来见到的最有潜力的弟子，找我何事？</font>
+accept_30118_1=<font face="Default" color="#ffffff" >你有何事？</font>
+accept_30120_1=<font face="Default" color="#ffffff" >近日，五仙教</font><font face="Default" color="#ffffff" >之凶名又在江湖扬起</font><font face="Default" color="#ffffff" >，你</font><font face="Default" color="#ffffff" >此番</font><font face="Default" color="#ffffff" >前来</font><font face="Default" color="#ffffff" >定然也是为了此事吧</font><font face="Default" color="#ffffff" >？</font>
+accept_30121_1=<font face="Default" color="#ffffff" >五仙教久居南疆，千灯镇是通往五仙教的必经之地，必有五仙教弟子停留，你可前去千灯镇拜访五仙教弟子。</font>
+accept_30122_1=<font face="Default" color="#ffffff" >原来是极乐谷的弟子，</font><font face="Default" color="#ffffff" >怪不得，若非你</font><font face="Default" color="#ffffff" >修炼</font><font face="Default" color="#ffffff" >的乃是</font><font face="Default" color="#ffffff" >极乐谷内功，</font><font face="Default" color="#ffffff" >只怕早已经毒发身亡了</font><font face="Default" color="#ffffff" >！</font>
+accept_30123_1=<font face="Default" color="#ffffff" >如今</font><font face="Default" color="#ffffff" >你身中我五仙教之毒，</font><font face="Default" color="#ffffff" >虽以极乐谷内功压制，却仍旧有爆发之日，若是你能自行解毒，那便有入我五仙教门下的资格了</font><font face="Default" color="#ffffff" >。</font>
+accept_30124_1=<font face="Default" color="#ffffff" >五仙教入门严格，你还需要接受审核。</font>
+accept_30125_1=<font face="Default" color="#ffffff" >那便让我看看你是以何种手段解毒吧。</font>
+accept_30200_1=<font face="Default" color="#ffffff" >你既然已经入我五仙教门下，当忠心护教，不可做出叛逆之事。</font>
+accept_30201_1=<font face="Default" color="#ffffff" >霓裳宫？你为何会问起此事？</font>
+accept_30206_1=<font face="Default" color="#ffffff" >这珠花倒也不是什么名贵之物，</font><font face="Default" color="#ffffff" >只是</font><font face="Default" color="#ffffff" >若无熔铸好的金锭，只怕难以修复……</font>
+accept_30207_1=<font face="Default" color="#ffffff" >你来了。</font>
+accept_30208_1=<font face="Default" color="#ffffff" >此行当小心行事，速去速回。</font>
+accept_30251_1=<font face="Default" color="#ffffff" >身份晋级一共有“简单试炼”、“普通试炼”、“困难试炼”三种难度可供选择，在不同难度下所上交的</font><font face="Default" color="#ffffff" >五毒</font><font face="Default" color="#ffffff" >令数量不一，在下也会以不同功力与你切磋。</font>
+accept_30252_1=<font face="Default" color="#ffffff" >此番考验，一则是你的日常修行，其后才是你的武学修炼。若能通过试炼，你方能获得相应的身份。</font>
+accept_30253_1=<font face="Default" color="#ffffff" >此番考验，一则是你的日常修行，其后才是你的武学修炼。若能通过试炼，你方能获得相应的身份。</font>
+accept_30254_1=<font face="Default" color="#ffffff" >此番考验，一则是你的日常修行，其后才是你的武学修炼。若能通过试炼，你方能获得相应的身份。</font>
+accept_30255_1=<font face="Default" color="#ffffff" >身份晋级一共有“简单试炼”、“普通试炼”、“困难试炼”三种难度可供选择，在不同难度下所上交的</font><font face="Default" color="#ffffff" >五毒</font><font face="Default" color="#ffffff" >令数量不一，在下也会以不同功力与你切磋。</font>
+accept_30256_1=<font face="Default" color="#ffffff" >此番考验，一则是你的日常修行，其后才是你的武学修炼。若能通过试炼，你方能获得相应的身份。</font>
+accept_30257_1=<font face="Default" color="#ffffff" >此番考验，一则是你的日常修行，其后才是你的武学修炼。若能通过试炼，你方能获得相应的身份。</font>
+accept_30258_1=<font face="Default" color="#ffffff" >此番考验，一则是你的日常修行，其后才是你的武学修炼。若能通过试炼，你方能获得相应的身份。</font>
+accept_30259_1=<font face="Default" color="#ffffff" >身份晋级一共有“简单试炼”、“普通试炼”、“困难试炼”三种难度可供选择，在不同难度下所上交的</font><font face="Default" color="#ffffff" >五毒</font><font face="Default" color="#ffffff" >令数量不一，在下也会以不同功力与你切磋。</font>
+accept_30260_1=<font face="Default" color="#ffffff" >此番考验，一则是你的日常修行，其后才是你的武学修炼。若能通过试炼，你方能获得相应的身份。</font>
+accept_30261_1=<font face="Default" color="#ffffff" >此番考验，一则是你的日常修行，其后才是你的武学修炼。若能通过试炼，你方能获得相应的身份。</font>
+accept_30262_1=<font face="Default" color="#ffffff" >此番考验，一则是你的日常修行，其后才是你的武学修炼。若能通过试炼，你方能获得相应的身份。</font>
+accept_30263_1=<font face="Default" color="#ffffff" >身份晋级一共有“简单试炼”、“普通试炼”、“困难试炼”三种难度可供选择，在不同难度下所上交的</font><font face="Default" color="#ffffff" >五毒</font><font face="Default" color="#ffffff" >令数量不一，在下也会以不同功力与你切磋。</font>
+accept_30264_1=<font face="Default" color="#ffffff" >此番考验，一则是你的日常修行，其后才是你的武学修炼。若能通过试炼，你方能获得相应的身份。</font>
+accept_30265_1=<font face="Default" color="#ffffff" >此番考验，一则是你的日常修行，其后才是你的武学修炼。若能通过试炼，你方能获得相应的身份。</font>
+accept_30266_1=<font face="Default" color="#ffffff" >此番考验，一则是你的日常修行，其后才是你的武学修炼。若能通过试炼，你方能获得相应的身份。</font>
+accept_30267_1=<font face="Default" color="#ffffff" >身份晋级一共有“简单试炼”、“普通试炼”、“困难试炼”三种难度可供选择，在不同难度下所上交的</font><font face="Default" color="#ffffff" >五毒</font><font face="Default" color="#ffffff" >令数量不一，在下也会以不同功力与你切磋。</font>
+accept_30268_1=<font face="Default" color="#ffffff" >此番考验，一则是你的日常修行，其后才是你的武学修炼。若能通过试炼，你方能获得相应的身份。</font>
+accept_30269_1=<font face="Default" color="#ffffff" >此番考验，一则是你的日常修行，其后才是你的武学修炼。若能通过试炼，你方能获得相应的身份。</font>
+accept_30270_1=<font face="Default" color="#ffffff" >此番考验，一则是你的日常修行，其后才是你的武学修炼。若能通过试炼，你方能获得相应的身份。</font>
+accept_30271_1=<font face="Default" color="#ffffff" >身份晋级一共有“简单试炼”、“普通试炼”、“困难试炼”三种难度可供选择，在不同难度下所上交的</font><font face="Default" color="#ffffff" >五毒</font><font face="Default" color="#ffffff" >令数量不一，在下也会以不同功力与你切磋。</font>
+accept_30272_1=<font face="Default" color="#ffffff" >此番考验，一则是你的日常修行，其后才是你的武学修炼。若能通过试炼，你方能获得相应的身份。</font>
+accept_30273_1=<font face="Default" color="#ffffff" >此番考验，一则是你的日常修行，其后才是你的武学修炼。若能通过试炼，你方能获得相应的身份。</font>
+accept_30274_1=<font face="Default" color="#ffffff" >此番考验，一则是你的日常修行，其后才是你的武学修炼。若能通过试炼，你方能获得相应的身份。</font>
+accept_30275_1=<font face="Default" color="#ffffff" >身份晋级一共有“简单试炼”、“普通试炼”、“困难试炼”三种难度可供选择，在不同难度下所上交的</font><font face="Default" color="#ffffff" >五毒</font><font face="Default" color="#ffffff" >令数量不一，在下也会以不同功力与你切磋。</font>
+accept_30276_1=<font face="Default" color="#ffffff" >此番考验，一则是你的日常修行，其后才是你的武学修炼。若能通过试炼，你方能获得相应的身份。</font>
+accept_30277_1=<font face="Default" color="#ffffff" >此番考验，一则是你的日常修行，其后才是你的武学修炼。若能通过试炼，你方能获得相应的身份。</font>
+accept_30278_1=<font face="Default" color="#ffffff" >此番考验，一则是你的日常修行，其后才是你的武学修炼。若能通过试炼，你方能获得相应的身份。</font>
+accept_30279_1=<font face="Default" color="#ffffff" >身份晋级一共有“简单试炼”、“普通试炼”、“困难试炼”三种难度可供选择，在不同难度下所上交的</font><font face="Default" color="#ffffff" >五毒</font><font face="Default" color="#ffffff" >令数量不一，在下也会以不同功力与你切磋。</font>
+accept_30280_1=<font face="Default" color="#ffffff" >此番考验，一则是你的日常修行，其后才是你的武学修炼。若能通过试炼，你方能获得相应的身份。</font>
+accept_30281_1=<font face="Default" color="#ffffff" >此番考验，一则是你的日常修行，其后才是你的武学修炼。若能通过试炼，你方能获得相应的身份。</font>
+accept_30282_1=<font face="Default" color="#ffffff" >此番考验，一则是你的日常修行，其后才是你的武学修炼。若能通过试炼，你方能获得相应的身份。</font>
+accept_30283_1=<font face="Default" color="#ffffff" >身份晋级一共有“简单试炼”、“普通试炼”、“困难试炼”三种难度可供选择，在不同难度下所上交的</font><font face="Default" color="#ffffff" >五毒</font><font face="Default" color="#ffffff" >令数量不一，在下也会以不同功力与你切磋。</font>
+accept_30284_1=<font face="Default" color="#ffffff" >此番考验，一则是你的日常修行，其后才是你的武学修炼。若能通过试炼，你方能获得相应的身份。</font>
+accept_30285_1=<font face="Default" color="#ffffff" >此番考验，一则是你的日常修行，其后才是你的武学修炼。若能通过试炼，你方能获得相应的身份。</font>
+accept_30286_1=<font face="Default" color="#ffffff" >此番考验，一则是你的日常修行，其后才是你的武学修炼。若能通过试炼，你方能获得相应的身份。</font>
+complete_30001=<font face="Default" color="#ffffff" >你是否已制成加固材料</font>
+complete_30002=<font face="Default" color="#ffffff" >辛苦你照料草药了，这是给予你的奖励！</font>
+complete_30003=<font face="Default" color="#ffffff" >少侠真是好身手，贼人这么就被轻易给击退了，真乃我教之幸</font>
+complete_30004=<font face="Default" color="#ffffff" >已经完成了吗？这速度还真是让人惊讶啊</font>
+complete_30005=<font face="Default" color="#ffffff" >种植也是一种修炼，希望你能坚持</font>
+complete_30006=<font face="Default" color="#ffffff" >希望能有个好收成啊</font>
+complete_30007=<font face="Default" color="#ffffff" >搞定了啊，真是辛苦你了</font>
+complete_30008=<font face="Default" color="#ffffff" >很好，你已经把虫子消灭掉了，看来不用担心庄稼因此减产了</font>
+complete_30009=<font face="Default" color="#ffffff" >撒上了么，这就好，不然到时全是杂草，影响收成</font>
+complete_30010=<font face="Default" color="#ffffff" >怎么样，收成如何？</font>
+complete_30011=<font face="Default" color="#ffffff" >你为何人，前来可有何事？</font>
+complete_30012=<font face="Default" color="#ffffff" >是否已拜见单谷主？</font>
+complete_30013=<font face="Default" color="#ffffff" >年轻人还有何事？</font>
+complete_30016=<font face="Default" color="#ffffff" >小小年纪竟有如此本领，不仅将你的师姐们一一击败，而且能一一辨识五毒，最后还成功挑战了教内长老，真是了得</font>
+complete_30017=<font face="Default" color="#ffffff" >在众弟子的协助下，我们已经成功抵御了霓裳宫来袭，教主以及派内高手都觉得大家勇气可嘉，是我</font><font face="Default" color="#ffffff" >教之幸</font>
+complete_30030=“天上凡间旧如初，只影山涧，独步长亭，一缕愁思舞霓裳”即错了又何悔，今生又为何？你既然已经回答出了问题，我也不再为难你，去进行下一个任务吧！
+complete_30031=不用看了，我连教中每棵树乃至树木的年轮，每个人乃至其人的习好都了然于胸。你这一袋总共五种蛊虫，没问题的！嗯···算你通过！
+complete_30032=恩，颜色已入紫，做的非常不错！这个考验算你通过了！
+complete_30033=呵呵呵...那两个老怪又在为难弟子啊！虽然蛊作为一种毒物，一般中蛊人必死无疑，但也有高深教众能够解别人中的蛊，甚至用蛊医病！接下来我跟你说说如何解蛊！
+complete_30034=斗蛊大会斗智斗勇，虽然只是个简单的考验，但教中研蛊习武的风气不能少！回去之后勤加苦练，早日成名！
+complete_30037=呵呵，这就对了，蛊虫也跟人一样需要精心照料，也有感情。去吧，你今日任务已完成，明日再来可再进行喂养！
+complete_30038=嗯，尸蛊乃南疆最险恶的蛊术之一，取中蛊后毒发身亡的尸体用于养蛊！养蛊之尸，而非徒造杀孽！养蛊更为重要！
+complete_30039=好好，再到万蛊洞把蛊虫好生喂养！这样教中蛊虫越来越多，教主也会很高兴的！
+complete_30040=<font face="Default" color="#ffffff" >做的不错，这是给你的奖励，希望日后再接再励</font>
+complete_30041=<font face="Default" color="#ffffff" >干的甚好，这次你在攻打神水宫上出力，这是给予你的奖励。</font>
+complete_30101=<font face="Default" color="#ffffff" >好可怕。</font>
+complete_30102=<font face="Default" color="#ffffff" >这些蛊尸是你打倒的么？身手不错啊。</font>
+complete_30103=<font face="Default" color="#ffffff" >晦气，怎么遇见你这么个家伙。</font>
+complete_30104=<font face="Default" color="#ffffff" >哎呦，这混蛋，敢偷袭我。</font>
+complete_30105=<font face="Default" color="#ffffff" >你是谁，怎么会</font><font face="Default" color="#ffffff" >知道</font><font face="Default" color="#ffffff" >我五仙教的暗号。</font>
+complete_30106=<font face="Default" color="#ffffff" >你在这等着，我去看看。</font>
+complete_30107=<font face="Default" color="#ffffff" >我是五仙教黄令使，多谢少侠相助。</font>
+complete_30108=<font face="Default" color="#ffffff" >你想加入我五仙教？也不是不可以，不过要看你够不够格。</font>
+complete_30109=<font face="Default" color="#ffffff" >恭喜你初步通过测试，不过你还要接受我接下来的测试。</font>
+complete_30110=<font face="Default" color="#ffffff" >你做的不错。</font>
+complete_30111=<font face="Default" color="#ffffff" >你的确不错，这么快便通过了考验。</font>
+complete_30112=<font face="Default" color="#ffffff" >不愧是江湖新秀，连琴也弹的这么好。</font>
+complete_30113=<font face="Default" color="#ffffff" >拜见过长老们了吧，觉得他们怎么样？</font>
+complete_30114=<font face="Default" color="#ffffff" >恭喜你通过全部考验，你确定要加入五仙教么？</font>
+complete_30115=<font face="Default" color="#ffffff" >既然你决定了，我也不勉强你，不过你要遗忘掉这里的一切才能离开。</font>
+complete_30116=<font face="Default" color="#ffffff" >既然你已经决定了，</font><font face="Default" color="#ffffff" >记得以后多回来看看。</font>
+complete_30117=<font face="Default" color="#ffffff" >哎，一个“名”字让多少人为之丧命，我不希望你为它所困，五仙教也不需要这个名，以后一切都要小心，你去吧。</font>
+complete_30118=<font face="Default" color="#ffffff" >阁下正是我五仙教所寻之人！</font>
+complete_30120=<font face="Default" color="#ffffff" >江湖之中虽盛传</font><font face="Default" color="#ffffff" >五仙教擅使蛊毒，但其武学颇为精妙，与我派有许多共同之处，</font><font face="Default" color="#ffffff" >若是你愿意，大可前往五仙教求取高深武学。</font>
+complete_30121=<font face="Default" color="#ffffff" >你是何人？竟敢鬼祟跟踪我五仙教之人。</font>
+complete_30122=<font face="Default" color="#ffffff" >想不到你的功夫竟然有此等精湛境界，不愧是极乐谷弟子！</font>
+complete_30123=<font face="Default" color="#ffffff" >你既然能顺利回来，想必已经找到解毒之法了。</font>
+complete_30124=<font face="Default" color="#ffffff" >你</font><font face="Default" color="#ffffff" >便</font><font face="Default" color="#ffffff" >是极乐谷弟子？</font>
+complete_30125=<font face="Default" color="#ffffff" >你能独自解除此毒，资质不错，不愧是极乐谷弟子。</font>
+complete_30200=<font face="Default" color="#ffffff" >你有何事？</font>
+complete_30202=<font face="Default" color="#ffffff" >好了不要说了！</font>
+complete_30203=<font face="Default" color="#ffffff" >此事</font><font face="Default" color="#ffffff" >怕是</font><font face="Default" color="#ffffff" >只能从念萝坝弟子身上入手了。而今念萝坝已经重入武林，想必在成都城中，定能找到念萝坝弟子。</font>
+complete_30204=<font face="Default" color="#ffffff" >你可以前去</font><font face="Default" color="#ffffff" >拜访王梓</font><font face="Default" color="#ffffff" >师姐，</font><font face="Default" color="#ffffff" >若得到师姐同意，你便可进入念萝坝了。</font>
+complete_30205=<font face="Default" color="#ffffff" >不知这位少侠前来，是想买些什么？</font>
+complete_30207=<font face="Default" color="#ffffff" >此蛊虫为我五仙教特有之物，你且带着，若是遇到霓裳宫弟子，只需对其使用这蛊虫，他便会乖乖随你回到五仙教来。</font>
+complete_30208=<font face="Default" color="#ffffff" >此事事关重大，速去请副教主前来议事。</font>
+complete_30209=<font face="Default" color="#ffffff" >如何？可有问他们究竟是何身份？</font>
+complete_30210=<font face="Default" color="#ffffff" >什么？我知道了，你先回去告知教主，我去帮副教主！</font>
+complete_30211=<font face="Default" color="#ffffff" >此事我已知晓，自会派人接应副教主与黄令使，你无须再担心此事。</font><font face="Default" color="#ffffff" >你如今身在五仙教</font><font face="Default" color="#ffffff" >，还需</font><font face="Default" color="#ffffff" >日日苦练，莫要坠了五仙教的名头。</font>
+complete_30251=<font face="Default" color="#ffffff" >若是你已经准备妥当，那便自行选择罢。</font>
+complete_30252=<font face="Default" color="#ffffff" >想不到你的功夫竟然已有如此进展。</font>
+complete_30253=<font face="Default" color="#ffffff" >想不到你的功夫竟然已有如此进展。</font>
+complete_30254=<font face="Default" color="#ffffff" >想不到你的功夫竟然已有如此进展。</font>
+complete_30255=<font face="Default" color="#ffffff" >若是你已经准备妥当，那便自行选择罢。</font>
+complete_30256=<font face="Default" color="#ffffff" >想不到你的功夫竟然已有如此进展。</font>
+complete_30257=<font face="Default" color="#ffffff" >想不到你的功夫竟然已有如此进展。</font>
+complete_30258=<font face="Default" color="#ffffff" >想不到你的功夫竟然已有如此进展。</font>
+complete_30259=<font face="Default" color="#ffffff" >若是你已经准备妥当，那便自行选择罢。</font>
+complete_30260=<font face="Default" color="#ffffff" >想不到你的功夫竟然已有如此进展。</font>
+complete_30261=<font face="Default" color="#ffffff" >想不到你的功夫竟然已有如此进展。</font>
+complete_30262=<font face="Default" color="#ffffff" >想不到你的功夫竟然已有如此进展。</font>
+complete_30263=<font face="Default" color="#ffffff" >若是你已经准备妥当，那便自行选择罢。</font>
+complete_30264=<font face="Default" color="#ffffff" >想不到你的功夫竟然已有如此进展。</font>
+complete_30265=<font face="Default" color="#ffffff" >想不到你的功夫竟然已有如此进展。</font>
+complete_30266=<font face="Default" color="#ffffff" >想不到你的功夫竟然已有如此进展。</font>
+complete_30267=<font face="Default" color="#ffffff" >若是你已经准备妥当，那便自行选择罢。</font>
+complete_30268=<font face="Default" color="#ffffff" >想不到你的功夫竟然已有如此进展。</font>
+complete_30269=<font face="Default" color="#ffffff" >想不到你的功夫竟然已有如此进展。</font>
+complete_30270=<font face="Default" color="#ffffff" >想不到你的功夫竟然已有如此进展。</font>
+complete_30271=<font face="Default" color="#ffffff" >若是你已经准备妥当，那便自行选择罢。</font>
+complete_30272=<font face="Default" color="#ffffff" >想不到你的功夫竟然已有如此进展。</font>
+complete_30273=<font face="Default" color="#ffffff" >想不到你的功夫竟然已有如此进展。</font>
+complete_30274=<font face="Default" color="#ffffff" >想不到你的功夫竟然已有如此进展。</font>
+complete_30275=<font face="Default" color="#ffffff" >若是你已经准备妥当，那便自行选择罢。</font>
+complete_30276=<font face="Default" color="#ffffff" >想不到你的功夫竟然已有如此进展。</font>
+complete_30277=<font face="Default" color="#ffffff" >想不到你的功夫竟然已有如此进展。</font>
+complete_30278=<font face="Default" color="#ffffff" >想不到你的功夫竟然已有如此进展。</font>
+complete_30279=<font face="Default" color="#ffffff" >若是你已经准备妥当，那便自行选择罢。</font>
+complete_30280=<font face="Default" color="#ffffff" >想不到你的功夫竟然已有如此进展。</font>
+complete_30281=<font face="Default" color="#ffffff" >想不到你的功夫竟然已有如此进展。</font>
+complete_30282=<font face="Default" color="#ffffff" >想不到你的功夫竟然已有如此进展。</font>
+complete_30283=<font face="Default" color="#ffffff" >若是你已经准备妥当，那便自行选择罢。</font>
+complete_30284=<font face="Default" color="#ffffff" >想不到你的功夫竟然已有如此进展。</font>
+complete_30285=<font face="Default" color="#ffffff" >想不到你的功夫竟然已有如此进展。</font>
+complete_30286=<font face="Default" color="#ffffff" >想不到你的功夫竟然已有如此进展。</font>
+context_30001=五仙教所在之处为大山之中，风吹雨淋，吊桥和寨门等处每日都会有所损耗，教主安排弟子每日巡视吊桥和寨门，若是发现损坏之处，马上进行加固修建。
+context_30002=五仙教常与毒物相伴，故在教里会培养专门克制毒性的药草，此种药草需特殊<a href="TASK_ITEM,item_wxj_zlcy_008" style="HLStype1">药水</a>浇灌才能有解毒功效；<a href="TASK_ITEM,item_wxj_zlcy_008" style="HLStype1">药水</a>需要以下五毒才能配置成功：从<a href="findnpc_new,school12,npc_wuxianjiao_gujzlcy_001" style="HLStype1">蜘蛛</a>处获得蜘蛛、从<a href="findnpc_new,school12,npc_wuxianjiao_gujzlcy_002" style="HLStype1">蛇</a>处获得蛇胆、从<a href="findnpc_new,school12,boxnpc_wuxianjiao_gujzlcy_001" style="HLStype1">蜈蚣</a>处获得蜈蚣、从<a href="findnpc_new,school12,boxnpc_wuxianjiao_gujzlcy_002" style="HLStype1">蝎子</a>处获得蝎子、从<a href="findnpc_new,school12,boxnpc_wuxianjiao_gujzlcy_003" style="HLStype1">蟾蜍</a>处获得蟾蜍血，然后使用<a href="TASK_ITEM,item_wxj_zlcy_009" style="HLStype1">器皿</a>合成“毒液”；拥有“毒液”后使用<a href="TASK_ITEM,item_wxj_zlcy_010" style="HLStype1">装满水的水桶</a>稀释出<a href="TASK_ITEM,item_wxj_zlcy_008" style="HLStype1">药水</a>，最后前去浇灌草药！
+context_30003=近日来中原的贼人一直觊觎我教中五毒至宝，你既然刚入五仙教，便跟随同门师姐一起前去巡视下教中的情况，以防贼人入侵
+context_30004=梯田里的作物都已经被收割了，如今需要再次将地犁一遍才能再次种植
+context_30005=又到了播种的季节，去边上选好种子，然后去梯田里播下种子吧
+context_30006=最近天气有点干，地里水分不足，梯田里的作物看来需要灌溉一下啊
+context_30007=最近地里的庄稼长势不旺，看来需要施点肥了
+context_30008=最近地里的庄稼上面长了不少虫子，要是不除掉的话，影响收成
+context_30009=不知道是不是施过肥的缘故，梯田开始长出了野草，这些野草会影响庄稼的生长
+context_30010=哈哈，地里的庄稼终于成熟了，可以去收回来了
+context_30011=发现有不明人士在五仙教内，上前询问其来意。
+context_30012=拜见极乐谷谷主单天冥
+context_30013=回复掌门单谷主已同意尉迟初传授极乐谷武学
+context_30014=回复尉迟初，五仙掌门望其在五仙教传授极乐谷武学，极乐谷单谷主亦已同意
+context_30015=此处为我五仙教弟子试炼之地，山中常年狂风不断，且此处有石壁高台，在狂风中跳跃高台，不仅能强身健体，而且可以磨练我派中人的毅力；你既已入我门下，当有非凡的毅力与强健的体魄，你可敢前去一试？
+context_30016=五仙教弟子入教之后达到一定时日后，都会被安排去虿盆进行试炼，试炼过程中不仅考验武力，同样也考验对五毒的辨识程度，只有最后通过虿盆争斗的弟子，才能得到掌门的认可
+context_30017=霓裳宫向来与我教为敌，一直觊觎我教南疆霸主的地位，无时不刻都在关注我教一举一动；如今她们趁教内高手不在时，竟然突袭我教现已到山门口处，情况危急；
+context_30030=斗蛊大会斗智斗勇，乃我教传承已久的精髓所在！各位弟子需勤加苦练，不仅要掌握对于蛊虫知识，还要懂得养蛊，施蛊，解蛊等高深技艺！教主吩咐让你回答她提出的三道问题！
+context_30031=教主吩咐去万蛊洞喂养与捕捉毒虫
+context_30032=斗蛊大会斗智斗勇，乃我教传承已久的精髓所在！各位弟子需勤加苦练，不仅要掌握对于蛊虫知识，还要懂得养蛊，施蛊，解蛊等高深技艺！第二个是考验你对养蛊的技巧掌握程度！
+context_30033=施蛊乃教众弟子必会手段，去圣老“茂沙”那，他将会考验你的施蛊手段！
+context_30034=解蛊难上加难，副教主让你给两位圣老解蛊后再找教主禀告！
+context_30037=圣老给了你一份万兽血，让你喂养你的蛊虫！（如果没有自己的蛊虫可以到<a href="findnpc_new,school12,newmp_wxj_zwdh" style="HLStype1">澹台香(1766,591)</a>处购买）
+context_30038=从七色花田中采摘到毒草之后，现在帮圣老“阿各林”到万蛊洞用毒草喂养蛊虫！
+context_30039=圣老“阿各林”让你去七色花田中采摘毒草，用于喂养蛊虫！
+context_30040=五仙教所在之处为大山之中，风吹雨淋，吊桥和寨门等处每日都会有所损耗，教主安排弟子每日巡视吊桥和寨门，若是发现损坏之处，马上进行加固修建。
+context_30041=近日，我教弟子将会攻打神水宫，谋夺神水，弟子们需全力以赴
+context_30101=听闻千灯镇出现有村民中蛊的情况，决定前往调查。
+context_30102=查探中蛊的村民。
+context_30103=查探线索中出现一个嚣张的江湖人，询问他来历。
+context_30104=突然出现的人影击伤了五仙教弟子。
+context_30105=将消息送到千灯镇客栈五仙教紫令使。
+context_30106=将事情告知紫令使。
+context_30107=紫令使将叛徒捉拿回到客栈之中，准备问出叛徒背后隐藏的秘密。
+context_30108=紫令使和黄令使邀请玩家前往五仙教，请跟随黄令使前往五仙教。
+context_30109=通过入门审核
+context_30110=前往祭坛，以血祭天。
+context_30111=接受紫令使的考核，获取圣蝎的毒液。
+context_30112=为教主弹奏一曲，获得教主认可。
+context_30113=拜见诸位长老。
+context_30114=以血饲蛊，吞食蛊虫，成为五仙教弟子。
+context_30115=告诉阿尼你要离开五仙教的事。
+context_30116=告诉阿尼，你要回极乐谷，来此向他告别。
+context_30117=告诉阿尼，你觉得你可以出师去江湖闯荡，不想呆在五仙教了。
+context_30118=持有隐世门派信物，可以加入五仙教
+context_30120=单天冥讲述与五仙教的渊源，并同意弟子前往五仙教历练。
+context_30121=经单天冥指引，前往千灯镇寻找五仙教弟子。
+context_30122=五仙教长老询问来历，并考验
+context_30123=身中五仙教之毒，需在教内找到解药。
+context_30124=去五仙教审核人那里查看自己是否满足加入五仙教的条件，获得审核令牌。
+context_30125=在五仙教长老面前解除自身所中之毒。
+context_30200=霓裳宫弟子经常来闹事，四下询问，看有没有人知道霓裳宫所在！
+context_30201=向五仙掌令使之一询问霓裳宫相关消息。
+context_30202=找到教主，请命探查霓裳宫下落，为五仙教弟子出气。
+context_30203=副教主召见，乘机询问副教主霓裳宫相关事因！
+context_30204=在成都寻找念萝坝弟子的相关消息，争取前往念萝坝寻找霓裳宫。
+context_30205=查询霓裳宫下落。
+context_30206=想办法修复珠花。
+context_30207=跟着副教主前去把事情的经过告知给教主白夙珏。
+context_30208=捉拿一个霓裳宫弟子回五仙教。
+context_30209=先去找副教主告知他这件事，然后把副教主的想法告知教主！
+context_30210=在周围看看有啥线索。然后离开前去支援副教主！
+context_30211=赶回五仙教，把事情告知教主！
+context_30251=了解二阶身份晋级挑战
+context_30252=完成二阶身份晋级挑战（简单）
+context_30253=完成二阶身份晋级挑战（普通）
+context_30254=完成二阶身份晋级挑战（困难）
+context_30255=了解三阶身份晋级挑战
+context_30256=完成三阶身份晋级挑战（简单）
+context_30257=完成三阶身份晋级挑战（普通）
+context_30258=完成三阶身份晋级挑战（困难）
+context_30259=了解四阶身份晋级挑战
+context_30260=完成四阶身份晋级挑战（简单）
+context_30261=完成四阶身份晋级挑战（普通）
+context_30262=完成四阶身份晋级挑战（困难）
+context_30263=了解五阶身份晋级挑战
+context_30264=完成五阶身份晋级挑战（简单）
+context_30265=完成五阶身份晋级挑战（普通）
+context_30266=完成五阶身份晋级挑战（困难）
+context_30267=了解六阶身份晋级挑战
+context_30268=完成六阶身份晋级挑战（简单）
+context_30269=完成六阶身份晋级挑战（普通）
+context_30270=完成六阶身份晋级挑战（困难）
+context_30271=了解七阶身份晋级挑战
+context_30272=完成七阶身份晋级挑战（简单）
+context_30273=完成七阶身份晋级挑战（普通）
+context_30274=完成七阶身份晋级挑战（困难）
+context_30275=了解八阶身份晋级挑战
+context_30276=完成八阶身份晋级挑战（简单）
+context_30277=完成八阶身份晋级挑战（普通）
+context_30278=完成八阶身份晋级挑战（困难）
+context_30279=了解九阶身份晋级挑战
+context_30280=完成九阶身份晋级挑战（简单）
+context_30281=完成九阶身份晋级挑战（普通）
+context_30282=完成九阶身份晋级挑战（困难）
+context_30283=了解十阶身份晋级挑战
+context_30284=完成十阶身份晋级挑战（简单）
+context_30285=完成十阶身份晋级挑战（普通）
+context_30286=完成十阶身份晋级挑战（困难）
+menu_30001_1=<font face="Default" color="#ffffff" >弟子遵命</font>
+menu_30002_1=<font face="Default" color="#ffffff" >好的，我这就去！</font>
+menu_30003_1=<font face="Default" color="#ffffff" >好的，师兄</font>
+menu_30004_1=<font face="Default" color="#ffffff" >好的</font>
+menu_30005_1=<font face="Default" color="#ffffff" >我这就去</font>
+menu_30006_1=<font face="Default" color="#ffffff" >我马上去</font>
+menu_30007_1=<font face="Default" color="#ffffff" >我这就去</font>
+menu_30008_1=<font face="Default" color="#ffffff" >我这就去</font>
+menu_30009_1=<font face="Default" color="#ffffff" >好的</font>
+menu_30010_1=<font face="Default" color="#ffffff" >我这就去</font>
+menu_30011_1=<font face="Default" color="#ffffff" >前辈来访五仙教所为何事？</font>
+menu_30012_1=<font face="Default" color="#ffffff" >听闻五仙极乐谷有旧，恰逢极乐谷尉迟初师兄来访五仙教，遂向掌门提出想要学习极乐谷武学之愿。掌门命我拜访单天冥谷主以求同意。</font>
+menu_30013_1=<font face="Default" color="#ffffff" >单天冥谷主已然同意由尉迟初前辈传授极乐谷武学</font>
+menu_30014_1=<font face="Default" color="#ffffff" >前辈所言甚是，之前我已请示过我派掌门，并奉掌门之命拜见过单谷主，其已同意前辈在五仙教传授极乐谷武学。</font>
+menu_30016_1=<font face="Default" color="#ffffff" >我愿意</font>
+menu_30017_1=<font face="Default" color="#ffffff" >我愿意</font>
+menu_30030_1=请教主出题！
+menu_30031_1=弟子明白！
+menu_30032_1=遵命，教主！
+menu_30033_1=这...弟子遵命！
+menu_30034_1=遵命，副教主！
+menu_30037_1=谢谢圣老！
+menu_30038_1=遵命圣老！
+menu_30039_1=遵命圣老！
+menu_30040_1=<font face="Default" color="#ffffff" >弟子遵命</font>
+menu_30041_1=<font face="Default" color="#ffffff" >谨遵师姐之命</font>
+menu_30101_1=<font face="Default" color="#ffffff" >我就看看小兄弟你忙不忙。</font>
+menu_30102_1=<font face="Default" color="#ffffff" >这位大哥，您说是在那边看到了那些蛊尸，我去看看。</font>
+menu_30103_1=<font face="Default" color="#ffffff" >怎么，被说中了，恼羞成怒了！</font>
+menu_30104_1=<font face="Default" color="#ffffff" >原来是大门派弟子啊，失敬失敬。</font>
+menu_30105_1=<font face="Default" color="#ffffff" >好的，你在这看着，我去去就回。</font>
+menu_30106_1=<font face="Default" color="#ffffff" >我找到五仙教叛徒的踪迹了，你们那位五仙教弟子正在守着，不过受伤了。</font>
+menu_30107_1=<font face="Default" color="#ffffff" >一定要他为那些村民偿命。</font>
+menu_30108_1=<font face="Default" color="#ffffff" >在下十分仰慕贵教，想加入贵教，不知可否。</font>
+menu_30109_1=<font face="Default" color="#ffffff" >是的。</font>
+menu_30110_1=<font face="Default" color="#ffffff" >是，掌教。</font>
+menu_30111_1=<font face="Default" color="#ffffff" >小事一桩。</font>
+menu_30112_1=<font face="Default" color="#ffffff" >没问题。</font>
+menu_30113_1=<font face="Default" color="#ffffff" >是。</font>
+menu_30114_1=<font face="Default" color="#ffffff" >这有何不敢。</font>
+menu_30115_1=<font face="Default" color="#ffffff" >阿尼长老，五仙教那些蛇虫鼠蚁太恶心了，我不想呆在五仙教了。</font>
+menu_30116_1=<font face="Default" color="#ffffff" >我在这已经没有留恋的了，我想去极乐谷。</font>
+menu_30117_1=<font face="Default" color="#ffffff" >我想去江湖闯荡下，顺便扬我五仙教威名。</font>
+menu_30118_1=<font face="Default" color="#ffffff" >我想加入五仙教</font>
+menu_30120_1=<font face="Default" color="#ffffff" >弟子正是</font><font face="Default" color="#ffffff" >为此而来</font><font face="Default" color="#ffffff" >，还望师尊指明。</font>
+menu_30121_1=<font face="Default" color="#ffffff" >弟子这便动身。</font>
+menu_30122_1=<font face="Default" color="#ffffff" >多谢阁下手下留情。</font>
+menu_30123_1=<font face="Default" color="#ffffff" >既如此，那我便去寻找解毒之物。</font>
+menu_30124_1=<font face="Default" color="#ffffff" >不知都有何等条件？</font>
+menu_30125_1=<font face="Default" color="#ffffff" >在下这便施展解毒之法。</font>
+menu_30200_1=<font face="Default" color="#ffffff" >弟子谨遵教主吩咐。</font>
+menu_30201_1=<font face="Default" color="#ffffff" >霓裳宫之人屡屡伤我教中弟子，在下甚为不忿，愿为教中各位师兄师姐报此大仇！</font>
+menu_30206_1=<font face="Default" color="#ffffff" >不知这金锭应该前往何处寻获？</font>
+menu_30207_1=<font face="Default" color="#ffffff" >是的，</font>
+menu_30208_1=<font face="Default" color="#ffffff" >弟子遵命。</font>
+menu_30251_1=<font face="Default" color="#ffffff" >弟子明白。</font>
+menu_30252_1=<font face="Default" color="#ffffff" >弟子晓得。</font>
+menu_30253_1=<font face="Default" color="#ffffff" >弟子晓得。</font>
+menu_30254_1=<font face="Default" color="#ffffff" >弟子晓得。</font>
+menu_30255_1=<font face="Default" color="#ffffff" >弟子明白。</font>
+menu_30256_1=<font face="Default" color="#ffffff" >弟子晓得。</font>
+menu_30257_1=<font face="Default" color="#ffffff" >弟子晓得。</font>
+menu_30258_1=<font face="Default" color="#ffffff" >弟子晓得。</font>
+menu_30259_1=<font face="Default" color="#ffffff" >弟子明白。</font>
+menu_30260_1=<font face="Default" color="#ffffff" >弟子晓得。</font>
+menu_30261_1=<font face="Default" color="#ffffff" >弟子晓得。</font>
+menu_30262_1=<font face="Default" color="#ffffff" >弟子晓得。</font>
+menu_30263_1=<font face="Default" color="#ffffff" >弟子明白。</font>
+menu_30264_1=<font face="Default" color="#ffffff" >弟子晓得。</font>
+menu_30265_1=<font face="Default" color="#ffffff" >弟子晓得。</font>
+menu_30266_1=<font face="Default" color="#ffffff" >弟子晓得。</font>
+menu_30267_1=<font face="Default" color="#ffffff" >弟子明白。</font>
+menu_30268_1=<font face="Default" color="#ffffff" >弟子晓得。</font>
+menu_30269_1=<font face="Default" color="#ffffff" >弟子晓得。</font>
+menu_30270_1=<font face="Default" color="#ffffff" >弟子晓得。</font>
+menu_30271_1=<font face="Default" color="#ffffff" >弟子明白。</font>
+menu_30272_1=<font face="Default" color="#ffffff" >弟子晓得。</font>
+menu_30273_1=<font face="Default" color="#ffffff" >弟子晓得。</font>
+menu_30274_1=<font face="Default" color="#ffffff" >弟子晓得。</font>
+menu_30275_1=<font face="Default" color="#ffffff" >弟子明白。</font>
+menu_30276_1=<font face="Default" color="#ffffff" >弟子晓得。</font>
+menu_30277_1=<font face="Default" color="#ffffff" >弟子晓得。</font>
+menu_30278_1=<font face="Default" color="#ffffff" >弟子晓得。</font>
+menu_30279_1=<font face="Default" color="#ffffff" >弟子明白。</font>
+menu_30280_1=<font face="Default" color="#ffffff" >弟子晓得。</font>
+menu_30281_1=<font face="Default" color="#ffffff" >弟子晓得。</font>
+menu_30282_1=<font face="Default" color="#ffffff" >弟子晓得。</font>
+menu_30283_1=<font face="Default" color="#ffffff" >弟子明白。</font>
+menu_30284_1=<font face="Default" color="#ffffff" >弟子晓得。</font>
+menu_30285_1=<font face="Default" color="#ffffff" >弟子晓得。</font>
+menu_30286_1=<font face="Default" color="#ffffff" >弟子晓得。</font>
+next_30011=<a href="findnpc_new,school04,WorldNpc03816" style="HLStype1">单天冥</a>
+next_30012=<a href="findnpc_new,school04,WorldNpc03816" style="HLStype1">单天冥</a>
+next_30013=<a href="findnpc_new,school12,newmp_wxj_jldh01" style="HLStype1">尉迟初</a>
+next_30014=<a href="findnpc_new,school12,newmp_wxj_jldh01" style="HLStype1">尉迟初</a>
+next_30016=在夸祖的指引之下，完成一次虿盆争斗
+next_30017=参与并成功完成一次抵御霓裳宫来袭
+next_30030=回答<a href="findnpc_new,school12,newmp_wxj_01" style="HLStype1">教主</a>的问题
+next_30031=去万蛊洞喂养与捕捉毒虫
+next_30032=通过对养蛊技巧熟练掌握程度的考验
+next_30033=完成施蛊考验
+next_30034=给两位圣老解蛊
+next_30037=使用<a href="TASK_ITEM,item_feedinsect_005a" style="HLStype1">万兽血</a>喂养蛊虫（如果没有自己的蛊虫可以到<a href="findnpc_new,school12,newmp_wxj_zwdh" style="HLStype1">澹台香(1766,591)</a>处购买）
+next_30038=用<a href="TASK_ITEM,item_wxj_dg_003" style="HLStype1">毒草</a>喂养<a href="findnpc_new,school12,Attack_wxj_duwu001" style="HLStype1">蛊虫</a>
+next_30039=采摘<a href="findnpc,school12,1918,68,695" style="HLStype1">毒草</a>
+next_30107=和<a href="findnpc,born04,724,-37,698" style="HLStype1">黄令使</a>交谈
+submit_30001=<font face="Default" color="#ffffff" >是的长老</font>
+submit_30002=<font face="Default" color="#ffffff" >谢</font><font face="Default" color="#ffffff" >谢</font>
+submit_30003=<font face="Default" color="#ffffff" >多谢师兄夸奖</font>
+submit_30004=<font face="Default" color="#ffffff" >多谢夸奖</font>
+submit_30005=<font face="Default" color="#ffffff" >我会的</font>
+submit_30006=<font face="Default" color="#ffffff" >放心吧，一定可以的</font>
+submit_30007=<font face="Default" color="#ffffff" >不辛苦</font>
+submit_30008=<font face="Default" color="#ffffff" >这是我应该做的</font>
+submit_30009=<font face="Default" color="#ffffff" >是的</font>
+submit_30010=<font face="Default" color="#ffffff" >给，这是收获的果实</font>
+submit_30011=<font face="Default" color="#ffffff" >我为五仙教弟子，奉我派掌门之命前来拜见单谷主</font>
+submit_30012=<font face="Default" color="#ffffff" >弟子适才拜见归来。</font>
+submit_30013=<font face="Default" color="#ffffff" >谢前辈，久闻极乐谷武学精湛，可否传授在下。</font>
+submit_30016=<font face="Default" color="#ffffff" >谢谢夸奖</font>
+submit_30017=<font face="Default" color="#ffffff" >多谢师姐夸奖，这是我们应该做的</font>
+submit_30030=谢教主！
+submit_30031=知道了，谢圣老！
+submit_30032=谢圣老成全！
+submit_30033=副教主威武！
+submit_30034=谢教主厚爱，弟子告辞！
+submit_30037=那就不叨扰圣老了，我明日再来！
+submit_30038=我自己也养有蛊虫，如何喂养呢？
+submit_30039=这就去，为兴隆我教！
+submit_30040=<font face="Default" color="#ffffff" >多谢长老</font>
+submit_30041=<font face="Default" color="#ffffff" >多谢师姐，您谬赞了！</font>
+submit_30101=<font face="Default" color="#ffffff" >发生什么事了？</font>
+submit_30102=<font face="Default" color="#ffffff" >你是何人，这些蛊尸是你搞的鬼？</font>
+submit_30103=<font face="Default" color="#ffffff" >彼此彼此。</font>
+submit_30104=<font face="Default" color="#ffffff" >你伤的不轻，先休息下吧。</font>
+submit_30105=<font face="Default" color="#ffffff" >您就是紫令使，我有急事要和你说。</font>
+submit_30106=<font face="Default" color="#ffffff" >好的。</font>
+submit_30107=<font face="Default" color="#ffffff" >不客气，正好我也和这个家伙有仇。</font>
+submit_30108=<font face="Default" color="#ffffff" >晚辈一定好好表现。</font>
+submit_30109=<font face="Default" color="#ffffff" >请赐教。</font>
+submit_30110=<font face="Default" color="#ffffff" >多谢夸奖。</font>
+submit_30111=<font face="Default" color="#ffffff" >多谢掌门夸奖。</font>
+submit_30112=<font face="Default" color="#ffffff" >多谢夸奖。</font>
+submit_30113=<font face="Default" color="#ffffff" >禀教主，长老们都很友好，对我也很关心。</font>
+submit_30114=<font face="Default" color="#ffffff" >我确定要加入五仙教。</font>
+submit_30115=<font face="Default" color="#ffffff" >一切全听长老吩咐。</font>
+submit_30116=<font face="Default" color="#ffffff" >谢谢长老。</font>
+submit_30117=<font face="Default" color="#ffffff" >阿尼长老，多谢您长久以来的关照</font><font face="Default" color="#ffffff" >。</font>
+submit_30118=<font face="Default" color="#ffffff" >多谢！</font>
+submit_30120=<font face="Default" color="#ffffff" >蒙谷主不弃，</font><font face="Default" color="#ffffff" >弟子愿意前往，但不知如何前往。</font>
+submit_30121=<font face="Default" color="#ffffff" >阁下请勿动手，在下乃是极乐谷弟子，奉谷主之命，特来拜会。</font>
+submit_30122=<font face="Default" color="#ffffff" >都是</font><font face="Default" color="#ffffff" >师门</font><font face="Default" color="#ffffff" >精心栽培</font><font face="Default" color="#ffffff" >，才能有此成就</font><font face="Default" color="#ffffff" >。</font>
+submit_30123=<font face="Default" color="#ffffff" >在下确是找到了</font><font face="Default" color="#ffffff" >解毒方法。</font>
+submit_30124=<font face="Default" color="#ffffff" >拜见教主，在下奉谷主之命特来五仙教拜师学艺。</font>
+submit_30125=<font face="Default" color="#ffffff" >若无谷主悉心教导，在下也不会有今日之成就。</font>
+submit_30200=<font face="Default" color="#ffffff" >弟子</font><font face="Default" color="#ffffff" >此番前来，是想向令使大人询问</font><font face="Default" color="#ffffff" >霓裳宫</font><font face="Default" color="#ffffff" >之事。</font>
+submit_30202=<font face="Default" color="#ffffff" >是，教主！</font>
+submit_30203=<font face="Default" color="#ffffff" >既如此，弟子这便动身。</font>
+submit_30204=<font face="Default" color="#ffffff" >多谢</font><font face="Default" color="#ffffff" >师姐相告。</font>
+submit_30205=<font face="Default" color="#ffffff" >在下想求老板帮我看看，能否修复这支珠花。</font>
+submit_30207=<font face="Default" color="#ffffff" >弟子定不会令教主失望。</font>
+submit_30208=<font face="Default" color="#ffffff" >弟子遵命。</font>
+submit_30209=<font face="Default" color="#ffffff" >那人不过是受人雇佣假扮霓裳宫弟子，而雇佣他们之人留有书信在武侯祠中，弟子请命亲自前往调查。</font>
+submit_30210=<font face="Default" color="#ffffff" >弟子遵命！</font>
+submit_30211=<font face="Default" color="#ffffff" >弟子一定不负</font><font face="Default" color="#ffffff" >教主</font><font face="Default" color="#ffffff" >重望！</font>
+submit_30251=<font face="Default" color="#ffffff" >弟子明白。</font>
+submit_30252=<font face="Default" color="#ffffff" >多谢夸奖。</font>
+submit_30253=<font face="Default" color="#ffffff" >多谢夸奖。</font>
+submit_30254=<font face="Default" color="#ffffff" >多谢夸奖。</font>
+submit_30255=<font face="Default" color="#ffffff" >弟子明白。</font>
+submit_30256=<font face="Default" color="#ffffff" >多谢夸奖。</font>
+submit_30257=<font face="Default" color="#ffffff" >多谢夸奖。</font>
+submit_30258=<font face="Default" color="#ffffff" >多谢夸奖。</font>
+submit_30259=<font face="Default" color="#ffffff" >弟子明白。</font>
+submit_30260=<font face="Default" color="#ffffff" >多谢夸奖。</font>
+submit_30261=<font face="Default" color="#ffffff" >多谢夸奖。</font>
+submit_30262=<font face="Default" color="#ffffff" >多谢夸奖。</font>
+submit_30263=<font face="Default" color="#ffffff" >弟子明白。</font>
+submit_30264=<font face="Default" color="#ffffff" >多谢夸奖。</font>
+submit_30265=<font face="Default" color="#ffffff" >多谢夸奖。</font>
+submit_30266=<font face="Default" color="#ffffff" >多谢夸奖。</font>
+submit_30267=<font face="Default" color="#ffffff" >弟子明白。</font>
+submit_30268=<font face="Default" color="#ffffff" >多谢夸奖。</font>
+submit_30269=<font face="Default" color="#ffffff" >多谢夸奖。</font>
+submit_30270=<font face="Default" color="#ffffff" >多谢夸奖。</font>
+submit_30271=<font face="Default" color="#ffffff" >弟子明白。</font>
+submit_30272=<font face="Default" color="#ffffff" >多谢夸奖。</font>
+submit_30273=<font face="Default" color="#ffffff" >多谢夸奖。</font>
+submit_30274=<font face="Default" color="#ffffff" >多谢夸奖。</font>
+submit_30275=<font face="Default" color="#ffffff" >弟子明白。</font>
+submit_30276=<font face="Default" color="#ffffff" >多谢夸奖。</font>
+submit_30277=<font face="Default" color="#ffffff" >多谢夸奖。</font>
+submit_30278=<font face="Default" color="#ffffff" >多谢夸奖。</font>
+submit_30279=<font face="Default" color="#ffffff" >弟子明白。</font>
+submit_30280=<font face="Default" color="#ffffff" >多谢夸奖。</font>
+submit_30281=<font face="Default" color="#ffffff" >多谢夸奖。</font>
+submit_30282=<font face="Default" color="#ffffff" >多谢夸奖。</font>
+submit_30283=<font face="Default" color="#ffffff" >弟子明白。</font>
+submit_30284=<font face="Default" color="#ffffff" >多谢夸奖。</font>
+submit_30285=<font face="Default" color="#ffffff" >多谢夸奖。</font>
+submit_30286=<font face="Default" color="#ffffff" >多谢夸奖。</font>
+target_30001=采集竹子后制成加固材料并使用工具修复损坏的建筑
+target_30002=完成一次草药照料！
+target_30003=在同门师姐的带领下，分别前去教中的三个位置巡视是否有贼人
+target_30004=去梯田那边犁地
+target_30005=去梯田里播种
+target_30006=给梯田里的作物灌溉
+target_30007=给梯田里的庄稼施肥
+target_30008=除掉庄稼上的虫子
+target_30009=除掉影响庄稼生长的野草
+target_30010=收获庄稼
+target_30011=了解不明人士来意，禀明掌门。
+target_30012=拜见极乐谷谷主单天冥，望其准许尉迟初传授极乐谷武学
+target_30013=回复掌门极乐谷单谷主已同意尉迟初传授极乐谷武学
+target_30014=回复尉迟初，我派掌门望其在五仙教传授极乐谷武学，极乐谷单谷主太亦已同意
+target_30015=进入山风试炼场景前去完成试炼。
+target_30016=虿盆争斗，需要完成三个阶段，每个阶段需要完成不同的目标，不仅需要武力也需要脑力
+target_30017=与其他教中弟子，一同抵御霓裳宫的来袭，等待教主以及派内高手的回援
+target_30030=完成第一个考验：回答教主的问题
+target_30031=完成第三个考验：去万蛊洞喂养与捕捉毒虫
+target_30032=完成第二个考验：通过对养蛊技巧熟练掌握程度的考验
+target_30033=完成第四个考验：给两位圣老施蛊
+target_30034=完成最有一个考验：给两位圣老解蛊
+target_30037=使用<a href="TASK_ITEM,item_feedinsect_005a" style="HLStype1">万兽血</a>喂养蛊虫（如果没有自己的蛊虫可以到<a href="findnpc_new,school12,newmp_wxj_zwdh" style="HLStype1">澹台香(1766,591)</a>处购买）
+target_30038=到万蛊洞用毒草喂养蛊虫
+target_30039=采摘<a href="findnpc,school12,1918,68,695" style="HLStype1">毒草</a>
+target_30040=采集竹子后制成加固材料并使用工具修复损坏的建筑
+target_30041=攻打神水宫
+target_30101=寻找中蛊的村民。
+target_30102=寻找线索
+target_30103=击败凶手
+target_30104=查明缘由
+target_30105=回千灯镇求援
+target_30106=紫令使
+target_30107=和<a href="findnpc,born04,724,-37,698" style="HLStype1">黄令使</a>交谈
+target_30108=拜访五仙教
+target_30109=通过入门审核
+target_30110=血祭
+target_30111=获取圣蝎毒液
+target_30112=驭蛊之音
+target_30113=面见长老
+target_30114=以血饲蛊，加入五仙教
+target_30115=叛师
+target_30116=出师回极乐谷
+target_30117=出师回江湖
+target_30118=寻找<a href="findnpc_new,school12,newmp_wuxian_rumen_002" style="HLStype1">玉蟾(奇遇入门资格审核)</a>将隐世门派入门信物交给他，并通过入门审核
+target_30120=与<a href="findnpc_new,school04,WorldNpc03816" style="HLStype1">单天冥</a>交谈
+target_30121=前往五仙教
+target_30122=五仙教考验
+target_30123=五仙考验
+target_30124=资格审核
+target_30125=五仙解毒
+target_30200=四下询问，看有没有人知道霓裳宫所在！
+target_30201=向五仙掌令使之一询问霓裳宫相关消息。
+target_30202=找到教主，请命探查霓裳宫下落，为五仙教弟子出气。
+target_30203=询问副教主霓裳宫事因！
+target_30204=在成都寻找念萝坝弟子的相关消息，争取前往念萝坝寻找霓裳宫。
+target_30205=查询霓裳宫下落。
+target_30206=想办法修复珠花。
+target_30207=跟着副教主前去把事情的经过告知给教主白夙珏。
+target_30208=捉拿一个霓裳宫弟子回五仙教。
+target_30209=先去找副教主告知他这件事，然后把副教主的想法告知教主！
+target_30210=在周围看看有啥线索。
+target_30211=赶回五仙教，把事情告知教主！
+target_30251=了解二阶身份晋级挑战
+target_30252=完成二阶身份晋级挑战（简单）
+target_30253=完成二阶身份晋级挑战（普通）
+target_30254=完成二阶身份晋级挑战（困难）
+target_30255=了解三阶身份晋级挑战
+target_30256=完成三阶身份晋级挑战（简单）
+target_30257=完成三阶身份晋级挑战（普通）
+target_30258=完成三阶身份晋级挑战（困难）
+target_30259=了解四阶身份晋级挑战
+target_30260=完成四阶身份晋级挑战（简单）
+target_30261=完成四阶身份晋级挑战（普通）
+target_30262=完成四阶身份晋级挑战（困难）
+target_30263=了解五阶身份晋级挑战
+target_30264=完成五阶身份晋级挑战（简单）
+target_30265=完成五阶身份晋级挑战（普通）
+target_30266=完成五阶身份晋级挑战（困难）
+target_30267=了解六阶身份晋级挑战
+target_30268=完成六阶身份晋级挑战（简单）
+target_30269=完成六阶身份晋级挑战（普通）
+target_30270=完成六阶身份晋级挑战（困难）
+target_30271=了解七阶身份晋级挑战
+target_30272=完成七阶身份晋级挑战（简单）
+target_30273=完成七阶身份晋级挑战（普通）
+target_30274=完成七阶身份晋级挑战（困难）
+target_30275=了解八阶身份晋级挑战
+target_30276=完成八阶身份晋级挑战（简单）
+target_30277=完成八阶身份晋级挑战（普通）
+target_30278=完成八阶身份晋级挑战（困难）
+target_30279=了解九阶身份晋级挑战
+target_30280=完成九阶身份晋级挑战（简单）
+target_30281=完成九阶身份晋级挑战（普通）
+target_30282=完成九阶身份晋级挑战（困难）
+target_30283=了解十阶身份晋级挑战
+target_30284=完成十阶身份晋级挑战（简单）
+target_30285=完成十阶身份晋级挑战（普通）
+target_30286=完成十阶身份晋级挑战（困难）
+title_30001=加固建筑
+title_30002=照料草药
+title_30003=巡视五仙教
+title_30004=梯田劳作（耕地）
+title_30005=梯田劳作（播种）
+title_30006=梯田劳作（灌溉）
+title_30007=梯田劳作（施肥）
+title_30008=梯田劳作（除虫）
+title_30009=梯田劳作（除草）
+title_30010=梯田劳作（收获）
+title_30011=五仙渊源（一）
+title_30012=五仙渊源（二）
+title_30013=五仙渊源（三）
+title_30014=五仙渊源（四）
+title_30015=山风锻体
+title_30016=虿盆争斗
+title_30017=霓裳宫来袭
+title_30030=斗蛊大会（五仙教周常）
+title_30031=斗蛊大会（五仙教周常）
+title_30032=斗蛊大会（五仙教周常）
+title_30033=斗蛊大会（五仙教周常）
+title_30034=斗蛊大会（五仙教周常）
+title_30035=斗蛊大会-斗智（6/7）
+title_30036=斗蛊大会-斗智（7/7） 
+title_30037=养蛊（五仙教日常）
+title_30038=养蛊（五仙教日常）
+title_30039=养蛊（五仙教日常）
+title_30040=加固建筑（修复建筑）
+title_30041=谋夺神水
+title_30101=蛊毒伤人
+title_30102=寻找线索
+title_30103=错认凶手
+title_30104=查明缘由
+title_30105=求援
+title_30106=紫令使
+title_30107=黄令使
+title_30108=拜访五仙教
+title_30109=入门审核
+title_30110=血祭
+title_30111=圣蝎
+title_30112=驭蛊之音
+title_30113=面见长老
+title_30114=以血饲蛊，加入五仙教
+title_30115=叛师
+title_30116=出师回极乐谷
+title_30117=出师回江湖
+title_30118=加入五仙教
+title_30120=五仙之秘
+title_30121=前往五仙
+title_30122=五仙教
+title_30123=五仙考验
+title_30124=资格审核
+title_30125=五仙解毒
+title_30200=初入五仙教
+title_30201=得知初因
+title_30202=再见教主
+title_30203=了解事因
+title_30204=打探消息
+title_30205=霓裳下落
+title_30206=寻霓裳宫
+title_30207=告知教主
+title_30208=捉拿回教
+title_30209=调查事因
+title_30210=查询线索
+title_30211=返回教中
+title_30251=二阶身份晋级挑战
+title_30252=二阶身份晋级挑战（简单）
+title_30253=二阶身份晋级挑战（普通）
+title_30254=二阶身份晋级挑战（困难）
+title_30255=三阶身份晋级挑战
+title_30256=三阶身份晋级挑战（简单）
+title_30257=三阶身份晋级挑战（普通）
+title_30258=三阶身份晋级挑战（困难）
+title_30259=四阶身份晋级挑战
+title_30260=四阶身份晋级挑战（简单）
+title_30261=四阶身份晋级挑战（普通）
+title_30262=四阶身份晋级挑战（困难）
+title_30263=五阶身份晋级挑战
+title_30264=五阶身份晋级挑战（简单）
+title_30265=五阶身份晋级挑战（普通）
+title_30266=五阶身份晋级挑战（困难）
+title_30267=六阶身份晋级挑战
+title_30268=六阶身份晋级挑战（简单）
+title_30269=六阶身份晋级挑战（普通）
+title_30270=六阶身份晋级挑战（困难）
+title_30271=七阶身份晋级挑战
+title_30272=七阶身份晋级挑战（简单）
+title_30273=七阶身份晋级挑战（普通）
+title_30274=七阶身份晋级挑战（困难）
+title_30275=八阶身份晋级挑战
+title_30276=八阶身份晋级挑战（简单）
+title_30277=八阶身份晋级挑战（普通）
+title_30278=八阶身份晋级挑战（困难）
+title_30279=九阶身份晋级挑战
+title_30280=九阶身份晋级挑战（简单）
+title_30281=九阶身份晋级挑战（普通）
+title_30282=九阶身份晋级挑战（困难）
+title_30283=十阶身份晋级挑战
+title_30284=十阶身份晋级挑战（简单）
+title_30285=十阶身份晋级挑战（普通）
+title_30286=十阶身份晋级挑战（困难）
+context_30020=当前任务已废止，请手动放弃任务，给你造成不便，多有抱歉。
+next_30020=当前任务已废止，请手动放弃任务，给你造成不便，多有抱歉。
+target_30020=当前任务已废止，请手动放弃任务，给你造成不便，多有抱歉。
+title_30020=任务废止

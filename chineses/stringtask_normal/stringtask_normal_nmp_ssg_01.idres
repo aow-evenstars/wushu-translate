@@ -1,0 +1,891 @@
+﻿
+;=为你所在的派系获得尽量多的门派贡献值，在本周的派系之争中获得胜利。
+CanAcceptMenu_21401=<font face="Default" color="#ffffff" >梧桐栖凤</font>
+CanAcceptMenu_21402=<font face="Default" color="#ffffff" >水径</font><font face="Default" color="#ffffff" >取果</font>
+CanAcceptMenu_21403=<font face="Default" color="#ffffff" >观水练功</font>
+CanAcceptMenu_21404=<font face="Default" color="#ffffff" >灭派之仇</font>
+CanAcceptMenu_21405=<font face="Default" color="#ffffff" >水中捕鱼</font>
+CanAcceptMenu_21406=<font face="Default" color="#ffffff" >巡视神水宫</font>
+CanAcceptMenu_21407=<font face="Default" color="#ffffff" >驱赶灵猴</font>
+CanAcceptMenu_21410=<font face="Default" color="#ffffff" >神水被盗</font>
+CanAcceptMenu_21411=<font face="Default" color="#ffffff" >冰火炼体</font><font face="Default" color="#ffffff" >（周常任务）</font>
+CanAcceptMenu_21412=<font face="Default" color="#ffffff" >苗人来袭</font>
+CanAcceptMenu_21413=<font face="Default" color="#ffffff" >追影灵猴（周常）</font>
+CanAcceptMenu_21414=<font face="Default" color="#ffffff" >天池佛会</font>
+CanAcceptMenu_21415=<font face="Default" color="#ffffff" >天池佛会</font>
+CanAcceptMenu_21416=<font face="Default" color="#ffffff" >我是来接取门派活动周常任务的</font><font face="Default" color="#ffffff" >。</font>
+CanAcceptMenu_21417=<font face="Default" color="#ffffff" >倭寇作乱（可接）</font>
+CanAcceptMenu_21418=<font face="Default" color="#ffffff" >神水宫派系之争（周常任务）</font>
+CanAcceptMenu_21420=<font face="Default" color="#ffffff" >神水迷踪</font><font face="Default" color="#ffffff" >（前置任务）</font>
+CanAcceptMenu_21421=<font face="Default" color="#ffffff" >菩提庵中</font><font face="Default" color="#ffffff" >（前置任务）</font>
+CanAcceptMenu_21422=<font face="Default" color="#ffffff" >初闻神水</font><font face="Default" color="#ffffff" >（前置任务）</font>
+CanAcceptMenu_21423=<font face="Default" color="#ffffff" >神水之谜</font><font face="Default" color="#ffffff" >（前置任务）</font>
+CanAcceptMenu_21424=<font face="Default" color="#ffffff" >镜水公子</font><font face="Default" color="#ffffff" >（前置任务）</font>
+CanAcceptMenu_21425=<font face="Default" color="#ffffff" >叛师</font>
+CanAcceptMenu_21426=<font face="Default" color="#ffffff" >出师返回江湖</font>
+CanAcceptMenu_21427=<font face="Default" color="#ffffff" >出师返回峨眉</font>
+CanAcceptMenu_21430=<font face="Default" color="#ffffff" >神水面貌</font>
+CanAcceptMenu_21431=<font face="Default" color="#ffffff" >资格审核</font>
+CanAcceptMenu_21432=<font face="Default" color="#ffffff" >拜见宫主</font>
+CanAcceptMenu_21433=<font face="Default" color="#ffffff" >水</font><font face="Default" color="#ffffff" >莲气息</font>
+CanAcceptMenu_21434=<font face="Default" color="#ffffff" >神水冰心</font>
+CanAcceptMenu_21435=<font face="Default" color="#ffffff" >沐浴更衣</font>
+CanAcceptMenu_21436=<font face="Default" color="#ffffff" >加入神水宫</font>
+CanAcceptMenu_21440=<font face="Default" color="#ffffff" >神水渊源（一）</font>
+CanAcceptMenu_21441=<font face="Default" color="#ffffff" >神水渊源（二）</font>
+CanAcceptMenu_21442=<font face="Default" color="#ffffff" >神水渊源（三）</font>
+CanAcceptMenu_21443=<font face="Default" color="#ffffff" >神水渊源（四）</font>
+CanAcceptMenu_21450=<font face="Default" color="#ffffff" >初识神水</font>
+CanAcceptMenu_21451=<font face="Default" color="#ffffff" >守庵老尼</font>
+CanAcceptMenu_21452=<font face="Default" color="#ffffff" >白衣美妇</font>
+CanAcceptMenu_21453=<font face="Default" color="#ffffff" >初入神水</font>
+CanAcceptMenu_21454=<font face="Default" color="#ffffff" >资格审核</font>
+CanAcceptMenu_21459=<font face="Default" color="#ffffff" >加入神水宫</font>
+CanAcceptMenu_21460=<font face="Default" color="#ffffff" >神水入门审核</font>
+CanAcceptMenu_21500=<font face="Default" color="#ffffff" >（剧情）</font><font face="Default" color="#ffffff" >初入神水</font>
+CanAcceptMenu_21501=<font face="Default" color="#ffffff" >（剧情）</font><font face="Default" color="#ffffff" >闯宫之人</font>
+CanAcceptMenu_21502=<font face="Default" color="#ffffff" >（剧情）回忆过去</font>
+CanAcceptMenu_21503=<font face="Default" color="#ffffff" >（剧情）回忆过去</font>
+CanAcceptMenu_21506=<font face="Default" color="#ffffff" >（剧情）</font><font face="Default" color="#ffffff" >寒冰离火</font>
+CanAcceptMenu_21507=<font face="Default" color="#ffffff" >（剧情）宫主阴姬</font>
+CanAcceptMenu_21510=<font face="Default" color="#ffffff" >（剧情）</font><font face="Default" color="#ffffff" >仙音鱼</font>
+CanAcceptMenu_21601=<font face="Default" color="#ffffff" >二阶身份晋级挑战</font>	
+CanAcceptMenu_21602=<font face="Default" color="#ffffff" >二阶身份晋级挑战（简单）</font>	
+CanAcceptMenu_21603=<font face="Default" color="#ffffff" >二阶身份晋级挑战（普通）</font>	
+CanAcceptMenu_21604=<font face="Default" color="#ffffff" >二阶身份晋级挑战（困难）</font>	
+CanAcceptMenu_21605=<font face="Default" color="#ffffff" >三阶身份晋级挑战</font>	
+CanAcceptMenu_21606=<font face="Default" color="#ffffff" >三阶身份晋级挑战（简单）</font>	
+CanAcceptMenu_21607=<font face="Default" color="#ffffff" >三阶身份晋级挑战（普通）</font>	
+CanAcceptMenu_21608=<font face="Default" color="#ffffff" >三阶身份晋级挑战（困难）</font>	
+CanAcceptMenu_21609=<font face="Default" color="#ffffff" >四阶身份晋级挑战</font>	
+CanAcceptMenu_21610=<font face="Default" color="#ffffff" >四阶身份晋级挑战（简单）</font>	
+CanAcceptMenu_21611=<font face="Default" color="#ffffff" >四阶身份晋级挑战（普通）</font>	
+CanAcceptMenu_21612=<font face="Default" color="#ffffff" >四阶身份晋级挑战（困难）</font>	
+CanAcceptMenu_21613=<font face="Default" color="#ffffff" >五阶身份晋级挑战</font>	
+CanAcceptMenu_21614=<font face="Default" color="#ffffff" >五阶身份晋级挑战（简单）</font>	
+CanAcceptMenu_21615=<font face="Default" color="#ffffff" >五阶身份晋级挑战（普通）</font>	
+CanAcceptMenu_21616=<font face="Default" color="#ffffff" >五阶身份晋级挑战（困难）</font>	
+CanAcceptMenu_21617=<font face="Default" color="#ffffff" >六阶身份晋级挑战</font>	
+CanAcceptMenu_21618=<font face="Default" color="#ffffff" >六阶身份晋级挑战（简单）</font>	
+CanAcceptMenu_21619=<font face="Default" color="#ffffff" >六阶身份晋级挑战（普通）</font>	
+CanAcceptMenu_21620=<font face="Default" color="#ffffff" >六阶身份晋级挑战（困难）</font>	
+CanAcceptMenu_21621=<font face="Default" color="#ffffff" >七阶身份晋级挑战</font>	
+CanAcceptMenu_21622=<font face="Default" color="#ffffff" >七阶身份晋级挑战（简单）</font>	
+CanAcceptMenu_21623=<font face="Default" color="#ffffff" >七阶身份晋级挑战（普通）</font>	
+CanAcceptMenu_21624=<font face="Default" color="#ffffff" >七阶身份晋级挑战（困难）</font>	
+CanAcceptMenu_21625=<font face="Default" color="#ffffff" >八阶身份晋级挑战</font>	
+CanAcceptMenu_21626=<font face="Default" color="#ffffff" >八阶身份晋级挑战（简单）</font>	
+CanAcceptMenu_21627=<font face="Default" color="#ffffff" >八阶身份晋级挑战（普通）</font>	
+CanAcceptMenu_21628=<font face="Default" color="#ffffff" >八阶身份晋级挑战（困难）</font>	
+CanAcceptMenu_21629=<font face="Default" color="#ffffff" >九阶身份晋级挑战</font>	
+CanAcceptMenu_21630=<font face="Default" color="#ffffff" >九阶身份晋级挑战（简单）</font>	
+CanAcceptMenu_21631=<font face="Default" color="#ffffff" >九阶身份晋级挑战（普通）</font>	
+CanAcceptMenu_21632=<font face="Default" color="#ffffff" >九阶身份晋级挑战（困难）</font>	
+CanAcceptMenu_21633=<font face="Default" color="#ffffff" >十阶身份晋级挑战</font>	
+CanAcceptMenu_21634=<font face="Default" color="#ffffff" >十阶身份晋级挑战（简单）</font>	
+CanAcceptMenu_21635=<font face="Default" color="#ffffff" >十阶身份晋级挑战（普通）</font>	
+CanAcceptMenu_21636=<font face="Default" color="#ffffff" >十阶身份晋级挑战（困难）</font>	
+CompleteMenu_21401=<font face="Default" color="#ffffff" >梧桐栖凤</font>
+CompleteMenu_21402=<font face="Default" color="#ffffff" >水径</font><font face="Default" color="#ffffff" >取果</font>
+CompleteMenu_21403=<font face="Default" color="#ffffff" >观水练功</font>
+CompleteMenu_21404=<font face="Default" color="#ffffff" >灭派之仇</font>
+CompleteMenu_21405=<font face="Default" color="#ffffff" >水中捕鱼</font>
+CompleteMenu_21406=<font face="Default" color="#ffffff" >巡视神水宫</font>
+CompleteMenu_21407=<font face="Default" color="#ffffff" >驱赶灵猴</font>
+CompleteMenu_21410=<font face="Default" color="#ffffff" >多谢阴姬娘娘。</font>
+CompleteMenu_21411=<font face="Default" color="#ffffff" >完成任务</font>
+CompleteMenu_21412=<font face="Default" color="#ffffff" >师姐您谬赞了。</font>
+CompleteMenu_21413=<font face="Default" color="#ffffff" >完成任务</font>
+CompleteMenu_21414=<font face="Default" color="#ffffff" >完成任务</font>
+CompleteMenu_21415=<font face="Default" color="#ffffff" >完成任务</font>
+CompleteMenu_21416=<font face="Default" color="#ffffff" >嘿嘿，师姐！我已经成功完成一次</font><font face="Default" color="#ffffff" >神水会武</font><font face="Default" color="#ffffff" >咯！</font>
+CompleteMenu_21417=<font face="Default" color="#ffffff" >倭寇作乱（可提交）</font>
+CompleteMenu_21418=<font face="Default" color="#ffffff" >神水宫派系之争</font><font face="Default" color="#ffffff" >（可提交）</font>
+CompleteMenu_21420=<font face="Default" color="#ffffff" >神水迷踪</font><font face="Default" color="#ffffff" >（可提交）</font>
+CompleteMenu_21421=<font face="Default" color="#ffffff" >菩提庵中</font><font face="Default" color="#ffffff" >（可提交）</font>
+CompleteMenu_21422=<font face="Default" color="#ffffff" >初闻</font><font face="Default" color="#ffffff" >神水（可提交）</font>
+CompleteMenu_21423=<font face="Default" color="#ffffff" >神水之谜</font><font face="Default" color="#ffffff" >(可提交)</font>
+CompleteMenu_21424=<font face="Default" color="#ffffff" >镜水公子（可提交）</font>
+CompleteMenu_21425=<font face="Default" color="#ffffff" >叛师（可提交）</font>
+CompleteMenu_21426=<font face="Default" color="#ffffff" >出师返回江湖（可提交）</font>
+CompleteMenu_21427=<font face="Default" color="#ffffff" >出师返回峨眉（可提交）</font>
+CompleteMenu_21430=<font face="Default" color="#ffffff" >神水面貌（可提交）</font>
+CompleteMenu_21431=<font face="Default" color="#ffffff" >资格审核（可提交）</font>
+CompleteMenu_21432=<font face="Default" color="#ffffff" >拜见宫主（可提交）</font>
+CompleteMenu_21433=<font face="Default" color="#ffffff" >水</font><font face="Default" color="#ffffff" >莲气息（可提交）</font>
+CompleteMenu_21434=<font face="Default" color="#ffffff" >神水冰心</font><font face="Default" color="#ffffff" >（可提交）</font>
+CompleteMenu_21435=<font face="Default" color="#ffffff" >沐浴更衣</font><font face="Default" color="#ffffff" >（可提交）</font>
+CompleteMenu_21436=<font face="Default" color="#ffffff" >加入神水宫（可提交）</font>
+CompleteMenu_21440=<font face="Default" color="#ffffff" >神水渊源（一)（可提交）</font>
+CompleteMenu_21441=<font face="Default" color="#ffffff" >神水渊源（二）（可提交）</font>
+CompleteMenu_21442=<font face="Default" color="#ffffff" >神水渊源（三）（可提交）</font>
+CompleteMenu_21443=<font face="Default" color="#ffffff" >神水渊源（四）（可提交）</font>
+CompleteMenu_21450=<font face="Default" color="#ffffff" >初识神水（可提交）</font>
+CompleteMenu_21451=<font face="Default" color="#ffffff" >守庵老尼（可提交）</font>
+CompleteMenu_21452=<font face="Default" color="#ffffff" >白衣美妇（可提交）</font>
+CompleteMenu_21453=<font face="Default" color="#ffffff" >初入神水（可提交）</font>
+CompleteMenu_21454=<font face="Default" color="#ffffff" >资格审核（可提交）</font>
+CompleteMenu_21459=<font face="Default" color="#ffffff" >加入神水宫</font>
+CompleteMenu_21460=<font face="Default" color="#ffffff" >神水入门审核</font>
+CompleteMenu_21501=<font face="Default" color="#ffffff" >完成任务</font>
+CompleteMenu_21503=<font face="Default" color="#ffffff" >完成任务</font>
+CompleteMenu_21504=<font face="Default" color="#ffffff" >完成任务</font>
+CompleteMenu_21505=<font face="Default" color="#ffffff" >完成任务</font>
+CompleteMenu_21506=<font face="Default" color="#ffffff" >寒冰离火（可提交）</font>
+CompleteMenu_21508=<font face="Default" color="#ffffff" >完成任务</font>
+CompleteMenu_21509=<font face="Default" color="#ffffff" >慈爱阴姬（可提交）</font>
+CompleteMenu_21511=<font face="Default" color="#ffffff" >完成任务</font>
+CompleteMenu_21601=<font face="Default" color="#ffffff" >完成任务</font>
+CompleteMenu_21602=<font face="Default" color="#ffffff" >多谢师姐夸奖。</font>
+CompleteMenu_21603=<font face="Default" color="#ffffff" >多谢师姐夸奖。</font>
+CompleteMenu_21604=<font face="Default" color="#ffffff" >多谢师姐夸奖。</font>
+CompleteMenu_21605=<font face="Default" color="#ffffff" >完成任务</font>
+CompleteMenu_21606=<font face="Default" color="#ffffff" >多谢师姐夸奖。</font>
+CompleteMenu_21607=<font face="Default" color="#ffffff" >多谢师姐夸奖。</font>
+CompleteMenu_21608=<font face="Default" color="#ffffff" >多谢师姐夸奖。</font>
+CompleteMenu_21609=<font face="Default" color="#ffffff" >完成任务</font>
+CompleteMenu_21610=<font face="Default" color="#ffffff" >多谢师姐夸奖。</font>
+CompleteMenu_21611=<font face="Default" color="#ffffff" >多谢师姐夸奖。</font>
+CompleteMenu_21612=<font face="Default" color="#ffffff" >多谢师姐夸奖。</font>
+CompleteMenu_21613=<font face="Default" color="#ffffff" >完成任务</font>
+CompleteMenu_21614=<font face="Default" color="#ffffff" >多谢师姐夸奖。</font>
+CompleteMenu_21615=<font face="Default" color="#ffffff" >多谢师姐夸奖。</font>
+CompleteMenu_21616=<font face="Default" color="#ffffff" >多谢师姐夸奖。</font>
+CompleteMenu_21617=<font face="Default" color="#ffffff" >完成任务</font>
+CompleteMenu_21618=<font face="Default" color="#ffffff" >多谢师姐夸奖。</font>
+CompleteMenu_21619=<font face="Default" color="#ffffff" >多谢师姐夸奖。</font>
+CompleteMenu_21620=<font face="Default" color="#ffffff" >多谢师姐夸奖。</font>
+CompleteMenu_21621=<font face="Default" color="#ffffff" >完成任务</font>
+CompleteMenu_21622=<font face="Default" color="#ffffff" >多谢师姐夸奖。</font>
+CompleteMenu_21623=<font face="Default" color="#ffffff" >多谢师姐夸奖。</font>
+CompleteMenu_21624=<font face="Default" color="#ffffff" >多谢师姐夸奖。</font>
+CompleteMenu_21625=<font face="Default" color="#ffffff" >完成任务</font>
+CompleteMenu_21626=<font face="Default" color="#ffffff" >多谢师姐夸奖。</font>
+CompleteMenu_21627=<font face="Default" color="#ffffff" >多谢师姐夸奖。</font>
+CompleteMenu_21628=<font face="Default" color="#ffffff" >多谢师姐夸奖。</font>
+CompleteMenu_21629=<font face="Default" color="#ffffff" >完成任务</font>
+CompleteMenu_21630=<font face="Default" color="#ffffff" >多谢师姐夸奖。</font>
+CompleteMenu_21631=<font face="Default" color="#ffffff" >多谢师姐夸奖。</font>
+CompleteMenu_21632=<font face="Default" color="#ffffff" >多谢师姐夸奖。</font>
+CompleteMenu_21633=<font face="Default" color="#ffffff" >完成任务</font>
+CompleteMenu_21634=<font face="Default" color="#ffffff" >多谢师姐夸奖。</font>
+CompleteMenu_21635=<font face="Default" color="#ffffff" >多谢师姐夸奖。</font>
+CompleteMenu_21636=<font face="Default" color="#ffffff" >多谢师姐夸奖。</font>
+ZZAnswerText1_8100=法会因由
+ZZAnswerText1_8101=善现启请
+ZZAnswerText1_8102=大乘正宗
+ZZAnswerText1_8103=妙行无住
+ZZAnswerText1_8104=如理实见
+ZZAnswerText1_8105=正信希有
+ZZAnswerText1_8106=无得无说
+ZZAnswerText1_8107=依法出生
+ZZAnswerText1_8108=一相无相
+ZZAnswerText1_8109=庄严净土
+ZZAnswerText1_8110=无为福胜
+ZZAnswerText1_8111=尊重正教
+ZZAnswerText1_8112=如法受持
+ZZAnswerText1_8113=离相寂灭
+ZZAnswerText1_8114=持经功德
+ZZAnswerText1_8115=能净业障
+ZZAnswerText1_8116=究竟无我
+ZZAnswerText1_8117=一体同观
+ZZAnswerText1_8118=法界通化
+ZZAnswerText1_8119=离色离相
+ZZAnswerText1_8120=非说所说
+ZZAnswerText1_8121=无法可得
+ZZAnswerText1_8122=净心行善
+ZZAnswerText1_8123=福智无比
+ZZAnswerText1_8124=化无所化
+ZZAnswerText1_8125=法身非相
+ZZAnswerText1_8126=无断无灭
+ZZAnswerText1_8127=不受不贪
+ZZAnswerText1_8128=威仪寂净
+ZZAnswerText1_8129=一合理相
+ZZAnswerText1_8130=知见不生
+ZZAnswerText1_8131=应化非真
+ZZAnswerText1_8132=威仪寂净
+ZZAnswerText1_8133=持经功德
+ZZAnswerText1_8134=无法可得
+ZZAnswerText2_8100=如理实见
+ZZAnswerText2_8101=依法出生
+ZZAnswerText2_8102=无法可得
+ZZAnswerText2_8103=究竟无我
+ZZAnswerText2_8104=一相无相
+ZZAnswerText2_8105=无断无灭
+ZZAnswerText2_8106=福智无比
+ZZAnswerText2_8107=如法受持
+ZZAnswerText2_8108=一合理相
+ZZAnswerText2_8109=无法可得
+ZZAnswerText2_8110=究竟无我
+ZZAnswerText2_8111=善现启请
+ZZAnswerText2_8112=法身非相
+ZZAnswerText2_8113=应化非真
+ZZAnswerText2_8114=一体同观
+ZZAnswerText2_8115=化无所化
+ZZAnswerText2_8116=法界通化
+ZZAnswerText2_8117=大乘正宗
+ZZAnswerText2_8118=能净业障
+ZZAnswerText2_8119=持经功德
+ZZAnswerText2_8120=无为福胜
+ZZAnswerText2_8121=依法出生
+ZZAnswerText2_8122=离色离相
+ZZAnswerText2_8123=非说所说
+ZZAnswerText2_8124=无法可得
+ZZAnswerText2_8125=不受不贪
+ZZAnswerText2_8126=知见不生
+ZZAnswerText2_8127=如法受持
+ZZAnswerText2_8128=净心行善
+ZZAnswerText2_8129=法身非相
+ZZAnswerText2_8130=应化非真
+ZZAnswerText2_8131=尊重正教
+ZZAnswerText2_8132=净心行善
+ZZAnswerText2_8133=一体同观
+ZZAnswerText2_8134=依法出生
+accept_21401_1=<font face="Default" color="#ffffff" >当年我与仙鹤约定</font><font face="Default" color="#ffffff" >，至于内容就不便相告</font><font face="Default" color="#ffffff" >，</font><font face="Default" color="#ffffff" >每天</font><font face="Default" color="#ffffff" >给它带去火焰草，不知你可愿帮我将火焰草送去？</font>
+accept_21402_1=<font face="Default" color="#ffffff" >冰果乃长白山特有之物，此物效果良多，可惜对生长环境要求奇高</font><font face="Default" color="#ffffff" >，在神水迷窟之中长有此物</font><font face="Default" color="#ffffff" >，可否帮我去摘两个冰果？</font>
+accept_21403_1=<font face="Default" color="#ffffff" >我神水宫武学与水多有相似，若要是武学登堂入室，须多从自然借鉴。如今，你可去观摩瀑布，看是否能有所领悟。</font>
+accept_21404_1=<font face="Default" color="#ffffff" >近日我神水宫范围内老是有陌生面孔出现，这伙人极有可能与当年攻击我神水宫的势力是一伙人，你速度探查，可便宜行事。</font>
+accept_21405_1=<font face="Default" color="#ffffff" >我神水宫地处长白山天池，天池中生活着一群神奇的鱼，若长期服食鱼肉，可促进修炼，你可去池中抓捕一些过来，以你的修为，这应该不是难事。</font>
+accept_21406_1=<font face="Default" color="#ffffff" >如今我神水宫正值多事之秋，与世隔绝的日子已经成为过去，各方势力都在盯着我们。我们必须加强戒备，以防万一。</font><font face="Default" color="#ffffff" >你可去宫内巡视一番，莫要让贼人混入我神水宫。</font>
+accept_21407_1=<font face="Default" color="#ffffff" >最近宫内总是有灵猴出没，</font><font face="Default" color="#ffffff" >每次都是捣乱一番后就躲了起来，</font><font face="Default" color="#ffffff" >让众弟子不胜其烦，你去将灵猴赶出神水宫，还众弟子一个清静。</font>
+accept_21410_1=<font face="Default" color="#ffffff" >宫中神水被盗，搞得人心惶惶，我已命花非白和十月分别去查找线索，你若有心，可前去协助其中一人收集线索，找到偷盗神水之人。</font>
+accept_21411_1=<font face="Default" color="#ffffff" >即是想要前往</font><font face="Default" color="#ffffff" >寒冰离火殿</font><font face="Default" color="#ffffff" >修炼的师妹，那就让在下送师妹一程吧。</font>
+accept_21412_1=<font face="Default" color="#ffffff" >近日总有苗人前来我神水宫门口滋事生非，驱走他们，必要的时候可以动手。</font>
+accept_21413_1=<font face="Default" color="#ffffff" >天池温泉</font><font face="Default" color="#ffffff" >就在后山之中，在下倒可送你一程，直入温泉之内。</font>
+accept_21414_1=
+accept_21415_1=<font face="Default" color="#ffffff" >凡我神水宫弟子皆可参与天池佛会。聆听</font><font face="Default" color="#ffffff" >隐世高僧</font><font face="Default" color="#ffffff" >讲经说法，每次佛会皆在彼岸花海处举行，在下可送你一程。</font>
+accept_21416_1=<font face="Default" color="#ffffff" >神水会武</font><font face="Default" color="#ffffff" >当属神水宫重要的活动之一，身为弟子一定要在掌门和总师姐面前好好表现自己喔，加油！</font>
+accept_21417_1=<font face="Default" color="#ffffff" >最近倭寇作乱频繁，身为神水弟子需要历练，前往唐门围剿倭寇</font>
+accept_21418_1=<font face="Default" color="#ffffff" >帮助自己所在的派系获得每周派系之争的胜利，乃是莫大的荣耀！</font>
+accept_21420_1=<font face="Default" color="#ffffff" >不知小友找老头子有何要事？</font>
+accept_21421_1=<font face="Default" color="#ffffff" >神水宫隐藏在雪山之中，很久没有在世间走动了，你从何处得知</font>
+accept_21422_1=<font face="Default" color="#ffffff" >既如此，贫尼倒是有几个问题请教施主。</font>
+accept_21423_1=<font face="Default" color="#ffffff" >施主果然心思缜密。贫尼有清茶一杯奉与施主。</font>
+accept_21424_1=<font face="Default" color="#ffffff" >想必你也有诸多疑问吧。</font>
+accept_21425_1=<font face="Default" color="#ffffff" >你要叛出我神水宫</font>
+accept_21426_1=<font face="Default" color="#ffffff" >你已经是一个合格的神水宫弟子了，你要出去闯荡了么</font>
+accept_21427_1=<font face="Default" color="#ffffff" >你已经是一个合格的神水宫弟子了，你要</font><font face="Default" color="#ffffff" >回峨眉了么</font>
+accept_21430_1=<font face="Default" color="#ffffff" >在下乃是神水宫</font><font face="Default" color="#ffffff" >十月</font><font face="Default" color="#ffffff" >。</font>
+accept_21431_1=<font face="Default" color="#ffffff" >若是无法</font><font face="Default" color="#ffffff" >通过审核</font><font face="Default" color="#ffffff" >，只恐难以加入</font><font face="Default" color="#ffffff" >神水宫</font>
+accept_21432_1=<font face="Default" color="#ffffff" >很好，你的资质足以加入我神水宫</font><font face="Default" color="#ffffff" >。</font>
+accept_21433_1=<font face="Default" color="#ffffff" >第一个考验，便是要</font><font face="Default" color="#ffffff" >你在神水宫之中寻获水莲花</font><font face="Default" color="#ffffff" >。</font>
+accept_21434_1=<font face="Default" color="#ffffff" >天池酷寒，你且前往雪山之巅，若能坚持打坐3分钟，便算你通过考验。</font>
+accept_21435_1=<font face="Default" color="#ffffff" >如今你也算我神水宫弟子，且去准备一番，稍后自有入门大典。</font>
+accept_21436_1=<font face="Default" color="#ffffff" >师姐，宫主命我前来请师姐速到大殿。</font>
+accept_21440_1=<font face="Default" color="#ffffff" >神水宫多年隐世不出，此来拜访，果然人才济济啊。</font>
+accept_21441_1=<font face="Default" color="#ffffff" >当年我派弟子杜茗雪、徐妙真与神水宫菱水仙子一见如故，奈何之后神水避世。。此来找我可有何事？</font>
+accept_21442_1=<font face="Default" color="#ffffff" >绝尘师太如何回复？</font>
+accept_21443_1=<font face="Default" color="#ffffff" >峨眉先辈与神水有旧，我亦乐于峨眉武学发扬，但传授武学乃门派大事，需要先请示掌门师太，亦需征得贵派掌门同意方可。</font>
+accept_21450_1=<font face="Default" color="#ffffff" >近日来</font><font face="Default" color="#ffffff" >，神水宫在江湖广招门徒。</font>
+accept_21451_1=<font face="Default" color="#ffffff" >你来此处所谓何事！</font>
+accept_21452_1=<font face="Default" color="#ffffff" >你是何人</font><font face="Default" color="#ffffff" >，</font><font face="Default" color="#ffffff" >来此处做什么！</font>
+accept_21453_1=<font face="Default" color="#ffffff" >神水宫招徒严格，你可</font><font face="Default" color="#ffffff" >愿吃苦。</font>
+accept_21454_1=<font face="Default" color="#ffffff" >神水宫入门严格，你</font><font face="Default" color="#ffffff" >还需接受</font><font face="Default" color="#ffffff" >审核</font><font face="Default" color="#ffffff" >。</font>
+accept_21459_1=<font face="Default" color="#ffffff" >如今魔教出世，</font><font face="Default" color="#ffffff" >我神水宫绝不会独善其身！</font>
+accept_21460_1=<font face="Default" color="#ffffff" >我神水宫有诸多入门要求，满足神水入门要求方可拜入我神水宫</font>
+accept_21500_1=<font face="Default" color="#ffffff" >神水宫示警铃声突然想起，不知是何方宵小。</font><font face="Default" color="#ffffff" >你</font><font face="Default" color="#ffffff" >速去找</font><font face="Default" color="#ffffff" >花非白</font><font face="Default" color="#ffffff" >问个清楚</font><font face="Default" color="#ffffff" >！</font>
+accept_21501_1=<font face="Default" color="#ffffff" >来人可是神水宫弟子？</font><font face="Default" color="#ffffff" >在下徐妙真，</font><font face="Default" color="#ffffff" >乃是前来</font><font face="Default" color="#ffffff" >神水宫拜访旧友</font><font face="Default" color="#ffffff" >。</font>
+accept_21502_1=<font face="Default" color="#ffffff" >我没有说谎吧！</font>
+accept_21503_1=<font face="Default" color="#ffffff" >我的伤势加重了！</font>
+accept_21506_1=<font face="Default" color="#ffffff" >如今只剩下一处难题了。</font>
+accept_21507_1=<font face="Default" color="#ffffff" >尔不在宫中苦练，来此有何要事？</font>
+accept_21510_1=<font face="Default" color="#ffffff" >此物予你或有大用处，收好罢。</font>
+accept_21601_1=<font face="Default" color="#ffffff" >身份晋级一共有“简单试炼”、“普通试炼”、“困难试炼”三种难度可供选择，在不同难度下所上交的</font><font face="Default" color="#ffffff" >神水</font><font face="Default" color="#ffffff" >令数量不一，在下也会以不同功力与你切磋。</font>
+accept_21602_1=<font face="Default" color="#ffffff" >此番考验，一则是你的日常修行，其后才是你的武学修炼。若能通过试炼，你方能获得相应的身份。</font>
+accept_21603_1=<font face="Default" color="#ffffff" >此番考验，一则是你的日常修行，其后才是你的武学修炼。若能通过试炼，你方能获得相应的身份。</font>
+accept_21604_1=<font face="Default" color="#ffffff" >此番考验，一则是你的日常修行，其后才是你的武学修炼。若能通过试炼，你方能获得相应的身份。</font>
+accept_21605_1=<font face="Default" color="#ffffff" >身份晋级一共有“简单试炼”、“普通试炼”、“困难试炼”三种难度可供选择，在不同难度下所上交的</font><font face="Default" color="#ffffff" >神水</font><font face="Default" color="#ffffff" >令数量不一，在下也会以不同功力与你切磋。</font>
+accept_21606_1=<font face="Default" color="#ffffff" >此番考验，一则是你的日常修行，其后才是你的武学修炼。若能通过试炼，你方能获得相应的身份。</font>
+accept_21607_1=<font face="Default" color="#ffffff" >此番考验，一则是你的日常修行，其后才是你的武学修炼。若能通过试炼，你方能获得相应的身份。</font>
+accept_21608_1=<font face="Default" color="#ffffff" >此番考验，一则是你的日常修行，其后才是你的武学修炼。若能通过试炼，你方能获得相应的身份。</font>
+accept_21609_1=<font face="Default" color="#ffffff" >身份晋级一共有“简单试炼”、“普通试炼”、“困难试炼”三种难度可供选择，在不同难度下所上交的</font><font face="Default" color="#ffffff" >神水</font><font face="Default" color="#ffffff" >令数量不一，在下也会以不同功力与你切磋。</font>
+accept_21610_1=<font face="Default" color="#ffffff" >此番考验，一则是你的日常修行，其后才是你的武学修炼。若能通过试炼，你方能获得相应的身份。</font>
+accept_21611_1=<font face="Default" color="#ffffff" >此番考验，一则是你的日常修行，其后才是你的武学修炼。若能通过试炼，你方能获得相应的身份。</font>
+accept_21612_1=<font face="Default" color="#ffffff" >此番考验，一则是你的日常修行，其后才是你的武学修炼。若能通过试炼，你方能获得相应的身份。</font>
+accept_21613_1=<font face="Default" color="#ffffff" >身份晋级一共有“简单试炼”、“普通试炼”、“困难试炼”三种难度可供选择，在不同难度下所上交的</font><font face="Default" color="#ffffff" >神水</font><font face="Default" color="#ffffff" >令数量不一，在下也会以不同功力与你切磋。</font>
+accept_21614_1=<font face="Default" color="#ffffff" >此番考验，一则是你的日常修行，其后才是你的武学修炼。若能通过试炼，你方能获得相应的身份。</font>
+accept_21615_1=<font face="Default" color="#ffffff" >此番考验，一则是你的日常修行，其后才是你的武学修炼。若能通过试炼，你方能获得相应的身份。</font>
+accept_21616_1=<font face="Default" color="#ffffff" >此番考验，一则是你的日常修行，其后才是你的武学修炼。若能通过试炼，你方能获得相应的身份。</font>
+accept_21617_1=<font face="Default" color="#ffffff" >身份晋级一共有“简单试炼”、“普通试炼”、“困难试炼”三种难度可供选择，在不同难度下所上交的</font><font face="Default" color="#ffffff" >神水</font><font face="Default" color="#ffffff" >令数量不一，在下也会以不同功力与你切磋。</font>
+accept_21618_1=<font face="Default" color="#ffffff" >此番考验，一则是你的日常修行，其后才是你的武学修炼。若能通过试炼，你方能获得相应的身份。</font>
+accept_21619_1=<font face="Default" color="#ffffff" >此番考验，一则是你的日常修行，其后才是你的武学修炼。若能通过试炼，你方能获得相应的身份。</font>
+accept_21620_1=<font face="Default" color="#ffffff" >此番考验，一则是你的日常修行，其后才是你的武学修炼。若能通过试炼，你方能获得相应的身份。</font>
+accept_21621_1=<font face="Default" color="#ffffff" >身份晋级一共有“简单试炼”、“普通试炼”、“困难试炼”三种难度可供选择，在不同难度下所上交的</font><font face="Default" color="#ffffff" >神水</font><font face="Default" color="#ffffff" >令数量不一，在下也会以不同功力与你切磋。</font>
+accept_21622_1=<font face="Default" color="#ffffff" >此番考验，一则是你的日常修行，其后才是你的武学修炼。若能通过试炼，你方能获得相应的身份。</font>
+accept_21623_1=<font face="Default" color="#ffffff" >此番考验，一则是你的日常修行，其后才是你的武学修炼。若能通过试炼，你方能获得相应的身份。</font>
+accept_21624_1=<font face="Default" color="#ffffff" >此番考验，一则是你的日常修行，其后才是你的武学修炼。若能通过试炼，你方能获得相应的身份。</font>
+accept_21625_1=<font face="Default" color="#ffffff" >身份晋级一共有“简单试炼”、“普通试炼”、“困难试炼”三种难度可供选择，在不同难度下所上交的</font><font face="Default" color="#ffffff" >神水</font><font face="Default" color="#ffffff" >令数量不一，在下也会以不同功力与你切磋。</font>
+accept_21626_1=<font face="Default" color="#ffffff" >此番考验，一则是你的日常修行，其后才是你的武学修炼。若能通过试炼，你方能获得相应的身份。</font>
+accept_21627_1=<font face="Default" color="#ffffff" >此番考验，一则是你的日常修行，其后才是你的武学修炼。若能通过试炼，你方能获得相应的身份。</font>
+accept_21628_1=<font face="Default" color="#ffffff" >此番考验，一则是你的日常修行，其后才是你的武学修炼。若能通过试炼，你方能获得相应的身份。</font>
+accept_21629_1=<font face="Default" color="#ffffff" >身份晋级一共有“简单试炼”、“普通试炼”、“困难试炼”三种难度可供选择，在不同难度下所上交的</font><font face="Default" color="#ffffff" >神水</font><font face="Default" color="#ffffff" >令数量不一，在下也会以不同功力与你切磋。</font>
+accept_21630_1=<font face="Default" color="#ffffff" >此番考验，一则是你的日常修行，其后才是你的武学修炼。若能通过试炼，你方能获得相应的身份。</font>
+accept_21631_1=<font face="Default" color="#ffffff" >此番考验，一则是你的日常修行，其后才是你的武学修炼。若能通过试炼，你方能获得相应的身份。</font>
+accept_21632_1=<font face="Default" color="#ffffff" >此番考验，一则是你的日常修行，其后才是你的武学修炼。若能通过试炼，你方能获得相应的身份。</font>
+accept_21633_1=<font face="Default" color="#ffffff" >身份晋级一共有“简单试炼”、“普通试炼”、“困难试炼”三种难度可供选择，在不同难度下所上交的</font><font face="Default" color="#ffffff" >神水</font><font face="Default" color="#ffffff" >令数量不一，在下也会以不同功力与你切磋。</font>
+accept_21634_1=<font face="Default" color="#ffffff" >此番考验，一则是你的日常修行，其后才是你的武学修炼。若能通过试炼，你方能获得相应的身份。</font>
+accept_21635_1=<font face="Default" color="#ffffff" >此番考验，一则是你的日常修行，其后才是你的武学修炼。若能通过试炼，你方能获得相应的身份。</font>
+accept_21636_1=<font face="Default" color="#ffffff" >此番考验，一则是你的日常修行，其后才是你的武学修炼。若能通过试炼，你方能获得相应的身份。</font>
+complete_21401=<font face="Default" color="#ffffff" >让你帮我去送草，真是让我过意不去，辛苦了。</font>
+complete_21402=<font face="Default" color="#ffffff" >能在如此恶劣的环境下取来冰果，看来你修为不错。这些东西对你应该有点作用，望你勤加修炼。</font>
+complete_21403=<font face="Default" color="#ffffff" >此次静坐参悟应该有所收获吧，速去消化这次的感悟吧。</font>
+complete_21404=<font face="Default" color="#ffffff" >哼，果然是那个势力的人，看来他们对冰银入骨水仍未死心，你做的很好，先去修炼吧。</font>
+complete_21405=<font face="Default" color="#ffffff" >不错，居然还是活着的鱼，看来你的武学修为已经极其深厚了。</font>
+complete_21406=<font face="Default" color="#ffffff" >辛苦你们了，不过为了安全，这也是迫不得已，继续戒备，莫要松懈。</font>
+complete_21407=<font face="Default" color="#ffffff" >唉，总算将这泼猴逮住了，这下应该能清静些了。</font>
+complete_21410=<font face="Default" color="#ffffff" >找到这小偷有你的一份功劳，这是我给你的赏赐。</font>
+complete_21411=<font face="Default" color="#ffffff" >虽是片刻之间，想必师妹也是获益良多。</font>
+complete_21412=<font face="Default" color="#ffffff" >这次活动中，你干的甚好！</font>
+complete_21413=<font face="Default" color="#ffffff" >想必那灵猴也必定让你吃了不少苦头吧。</font>
+complete_21414=<font face="Default" color="#ffffff" >此番佛会盛况如前，师妹定是收获不菲。</font>
+complete_21415=<font face="Default" color="#ffffff" >接下来就是老衲所提问题，请施主仔细回答</font><font face="Default" color="#ffffff" >。</font>
+complete_21416=<font face="Default" color="#ffffff" >太棒了，就连掌门都说你表现的很好，神水宫的未来就靠你了！</font>
+complete_21417=<font face="Default" color="#ffffff" >这份情报很重要，我立即将情报交于掌门，让掌门定夺，这是给你的奖励</font>
+complete_21418=<font face="Default" color="#ffffff" >你已经帮助你所在的派系获得胜利？</font>
+complete_21420=<font face="Default" color="#ffffff" >不知施主到此有何贵干？</font>
+complete_21421=<font face="Default" color="#ffffff" >此番名动江湖，不知</font><font face="Default" color="#ffffff" >是福是祸</font>
+complete_21422=<font face="Default" color="#ffffff" >想不到你竟对神水宫之事知之甚多。</font>
+complete_21423=<font face="Default" color="#ffffff" >你醒了？</font>
+complete_21424=<font face="Default" color="#ffffff" >倒是在下失礼了，此地乃是神水宫所在，你能来到此处，想必也是为了加入神水宫而来。既然能到此地，说明你也有几分机缘，不知可愿随我拜见宫主？</font>
+complete_21425=<font face="Default" color="#ffffff" >我理解你的想法，</font><font face="Default" color="#ffffff" >但叛出师门会受到我等的追杀，你知道如此，还决意要叛出师门么？</font>
+complete_21426=<font face="Default" color="#ffffff" >记得以后多回来看看</font>
+complete_21427=<font face="Default" color="#ffffff" >你也是时候离开了，保重</font>
+complete_21430=<font face="Default" color="#ffffff" >你便是新来的弟子么？</font>
+complete_21431=<font face="Default" color="#ffffff" >怎么？你也是来入我神水宫门下的么？</font>
+complete_21432=<font face="Default" color="#ffffff" >本宫还有小小考验，若你能一一通过，那便是我神水宫弟子了。</font>
+complete_21433=<font face="Default" color="#ffffff" >片刻之间竟能完成第一个任务，本宫倒是小瞧你了。</font>
+complete_21434=<font face="Default" color="#ffffff" >好好好，不过半日时间竟能完成这双重考验，自今日起，你便是我神水宫弟子了。</font>
+complete_21435=<font face="Default" color="#ffffff" >师姐这边请。</font>
+complete_21436=<font face="Default" color="#ffffff" >若是这大典一起，你便是我神水宫弟子了</font><font face="Default" color="#ffffff" >，你</font><font face="Default" color="#ffffff" >可是考虑清楚了？</font>
+complete_21440=<font face="Default" color="#ffffff" >你为何人，前来可有何事？</font>
+complete_21441=<font face="Default" color="#ffffff" >是否已拜见绝尘师太？</font>
+complete_21442=<font face="Default" color="#ffffff" >年轻人还有何事？</font>
+complete_21450=<font face="Default" color="#ffffff" >你是何人，竟然能找到此地！</font>
+complete_21451=<font face="Default" color="#ffffff" >此茶乃我独有，不知</font><font face="Default" color="#ffffff" >这茶香如何</font><font face="Default" color="#ffffff" >？</font>
+complete_21452=<font face="Default" color="#ffffff" >你是何人，</font><font face="Default" color="#ffffff" >胆敢擅闯神水宫禁地。</font>
+complete_21453=<font face="Default" color="#ffffff" >竟然可接住我两层功力</font><font face="Default" color="#ffffff" >！</font>
+complete_21454=<font face="Default" color="#ffffff" >你已通关审核</font><font face="Default" color="#ffffff" >，自可以</font><font face="Default" color="#ffffff" >加入</font><font face="Default" color="#ffffff" >本门</font><font face="Default" color="#ffffff" >，且让我带你熟悉下神水宫</font><font face="Default" color="#ffffff" >各处。</font>
+complete_21459=<font face="Default" color="#ffffff" >难得你有这份心，可我神水宫也不是想来就来的。</font>
+complete_21460=<font face="Default" color="#ffffff" >阁下正是我神水宫所寻之人，请入内</font>
+complete_21501=<font face="Default" color="#ffffff" >是她！走我们出去找她！</font>
+complete_21503=<font face="Default" color="#ffffff" >还好有人相助，不然这次就要凶多吉少了！</font>
+complete_21504=<font face="Default" color="#ffffff" >我等先回宫中再说。</font>
+complete_21505=<font face="Default" color="#ffffff" >可有将冰果带回？</font>
+complete_21506=<font face="Default" color="#ffffff" >你</font><font face="Default" color="#ffffff" >是何人？</font>
+complete_21509=<font face="Default" color="#ffffff" >天意弄人……此事休要再提！尔也不可再问此事，若是有宫中弟子得知此事，定不轻饶！</font>
+complete_21511=<font face="Default" color="#ffffff" >可有将所需之物取回？</font>
+complete_21601=<font face="Default" color="#ffffff" >若是你已经准备妥当，那便自行选择罢。</font>
+complete_21602=<font face="Default" color="#ffffff" >想不到你的功夫竟然已有如此进展。</font>
+complete_21603=<font face="Default" color="#ffffff" >想不到你的功夫竟然已有如此进展。</font>
+complete_21604=<font face="Default" color="#ffffff" >想不到你的功夫竟然已有如此进展。</font>
+complete_21605=<font face="Default" color="#ffffff" >若是你已经准备妥当，那便自行选择罢。</font>
+complete_21606=<font face="Default" color="#ffffff" >想不到你的功夫竟然已有如此进展。</font>
+complete_21607=<font face="Default" color="#ffffff" >想不到你的功夫竟然已有如此进展。</font>
+complete_21608=<font face="Default" color="#ffffff" >想不到你的功夫竟然已有如此进展。</font>
+complete_21609=<font face="Default" color="#ffffff" >若是你已经准备妥当，那便自行选择罢。</font>
+complete_21610=<font face="Default" color="#ffffff" >想不到你的功夫竟然已有如此进展。</font>
+complete_21611=<font face="Default" color="#ffffff" >想不到你的功夫竟然已有如此进展。</font>
+complete_21612=<font face="Default" color="#ffffff" >想不到你的功夫竟然已有如此进展。</font>
+complete_21613=<font face="Default" color="#ffffff" >若是你已经准备妥当，那便自行选择罢。</font>
+complete_21614=<font face="Default" color="#ffffff" >想不到你的功夫竟然已有如此进展。</font>
+complete_21615=<font face="Default" color="#ffffff" >想不到你的功夫竟然已有如此进展。</font>
+complete_21616=<font face="Default" color="#ffffff" >想不到你的功夫竟然已有如此进展。</font>
+complete_21617=<font face="Default" color="#ffffff" >若是你已经准备妥当，那便自行选择罢。</font>
+complete_21618=<font face="Default" color="#ffffff" >想不到你的功夫竟然已有如此进展。</font>
+complete_21619=<font face="Default" color="#ffffff" >想不到你的功夫竟然已有如此进展。</font>
+complete_21620=<font face="Default" color="#ffffff" >想不到你的功夫竟然已有如此进展。</font>
+complete_21621=<font face="Default" color="#ffffff" >若是你已经准备妥当，那便自行选择罢。</font>
+complete_21622=<font face="Default" color="#ffffff" >想不到你的功夫竟然已有如此进展。</font>
+complete_21623=<font face="Default" color="#ffffff" >想不到你的功夫竟然已有如此进展。</font>
+complete_21624=<font face="Default" color="#ffffff" >想不到你的功夫竟然已有如此进展。</font>
+complete_21625=<font face="Default" color="#ffffff" >若是你已经准备妥当，那便自行选择罢。</font>
+complete_21626=<font face="Default" color="#ffffff" >想不到你的功夫竟然已有如此进展。</font>
+complete_21627=<font face="Default" color="#ffffff" >想不到你的功夫竟然已有如此进展。</font>
+complete_21628=<font face="Default" color="#ffffff" >想不到你的功夫竟然已有如此进展。</font>
+complete_21629=<font face="Default" color="#ffffff" >若是你已经准备妥当，那便自行选择罢。</font>
+complete_21630=<font face="Default" color="#ffffff" >想不到你的功夫竟然已有如此进展。</font>
+complete_21631=<font face="Default" color="#ffffff" >想不到你的功夫竟然已有如此进展。</font>
+complete_21632=<font face="Default" color="#ffffff" >想不到你的功夫竟然已有如此进展。</font>
+complete_21633=<font face="Default" color="#ffffff" >若是你已经准备妥当，那便自行选择罢。</font>
+complete_21634=<font face="Default" color="#ffffff" >想不到你的功夫竟然已有如此进展。</font>
+complete_21635=<font face="Default" color="#ffffff" >想不到你的功夫竟然已有如此进展。</font>
+complete_21636=<font face="Default" color="#ffffff" >想不到你的功夫竟然已有如此进展。</font>
+context_21401=花非白与玄晶灵谷的仙鹤在苦战一番后不知达成了什么协议，每天都会找人给仙鹤带去火焰草
+context_21402=花非白为了酿制冰果清茗，需要大量的冰果，那冰果生长在神水迷窟之中，需仔细寻找
+context_21403=神水宫武学大都蕴含水的特性，所以神水宫弟子每天须静坐观水，从中领悟水的韵味
+context_21404=南疆江湖人士曾联合起来将神水宫覆灭，只有少数人逃出，创建了如今的神水宫。现在神水宫复出，南疆再次派出高手前来查探
+context_21405=天池深处生活着一种名为仙音鱼的特殊鱼种，服食仙音鱼肉对修炼武学有着不小的增益。因此，神水宫弟子通常都会下水捕鱼(仙音鱼主要分布在 2288，-1204 附近的水域)
+context_21406=由于冰银入骨水被盗，所以神水宫增强了戒备，每天都有弟子不停的巡视
+context_21407=最近总有天池灵猴偷喝冰银入骨水，让神水宫弟子不胜其烦，不得不出手驱赶
+context_21410=冰银入骨水被盗，根据宫主的指示，在“神水被盗”活动报名开启时前往吴琼（神水被盗活动管理员）处报名，协助花非白或十月，搜集小偷遗落的信息。
+context_21411=前往寒冰离火殿，完成修炼
+context_21412=近日总有苗人前来我神水宫门口滋事生非，驱走他们，必要的时候可以动手。活动开启报名时，请前往鸡鸣驿（ 752，-6）找姚艺芬（苗人来袭报名管理员）参与报名。
+context_21413=从灵猴手中夺回自己的衣服。
+context_21414=隐世高僧论经说法完毕，可与高僧继续辩经。
+context_21415=前往彼岸花海参加天池佛会。
+context_21416=神水宫最热闹的事情，当属一年一度的神水会武。掌门为了查看大家一年的武功修炼进境，特举行此活动，挑战门派内七位师姐，成功挑战七位师姐，可以获得丰厚奖励！
+context_21417=最近倭寇作乱频繁，神水宫弟子不能固步自封，需多出去历练历练，那么前往唐门将在那作乱倭寇围剿了，并且找出倭寇频繁作乱的原因。
+context_21420=向醉酒老者询问神水宫所在。
+context_21421=向菩提庵中老尼打探神水宫所在。
+context_21422=接受老尼的询问，答出老尼所提的问题。
+context_21423=老尼端出的茶水香气扑鼻，不如品尝一番。
+context_21424=既已见到神水宫的镜水公子花非白，向他询问详情。
+context_21425=叛出神水宫，可能会受到神水宫弟子的追杀
+context_21426=你已经出师，决定返回江湖
+context_21427=你已经出师，决定返回峨眉
+context_21430=跟随十月熟悉神水宫环境。
+context_21431=参与神水宫审核，查看自己是否满足加入神水宫的条件，获得审核令牌。
+context_21432=拜见神水宫宫主，请求加入神水宫
+context_21433=前往玄晶灵谷附近采集水莲。
+context_21434=前往雪山之巅打坐，其中若是遇到一些异常状态，需按照提示解除
+context_21435=沐浴更衣，等待入门大典开始。
+context_21436=通过层层考验，如今可以加入神水宫了
+context_21440=发现有不明人士在神水宫内，上前询问其来意。
+context_21441=拜见峨眉掌门绝尘师太
+context_21442=回复掌门绝尘师太已同意谢冬梅传授峨眉武学
+context_21443=回复谢冬梅，神水掌门望其在神水宫传授峨眉武学，峨眉绝尘师太亦已同意
+context_21450=向掌门绝尘师太打听有关神宫的消息
+context_21451=向菩提庵老尼打听神水宫消息。
+context_21452=佛堂处遇白衣美妇，打听神水宫情况。
+context_21453=在神水宫内见到十月，与十月交谈。
+context_21454=去神水宫审核那里查看自己是否满足加入神水宫的条件，获得审核令牌。
+context_21459=拿着隐世门派信物欲加入神水宫
+context_21460=想要加入神水宫需要先通过入门审核，在<a href="findnpc_new,school19,newmp_shenshui_rumen_002" style="HLStype1">苏荇(奇遇入门资格审核)</a>处查看入门要求吧。
+context_21500=初入神水宫，突然发现有人闯入。前去询问花非白该如何处理！
+context_21501=询问徐妙真来意！
+context_21502=看看徐妙真的经历
+context_21503=变身徐妙真，参加她所经历的一切！
+context_21504=询问十月到底事情的经过！
+context_21505=按照十月的吩咐前去寻找相关疗伤药物！
+context_21506=想办法进入神水宫禁地！
+context_21507=向宫主求情让你们进入禁地！
+context_21508=找华山掌门之事甚是不妥，如今还是与十月师姐一同拜见阴姬娘娘请罪罢。
+context_21509=恳请阴姬娘娘原谅此番的鲁莽行事。
+context_21510=收集5条仙音鱼给花非白
+context_21511=击败花非白获得冰果！
+context_21601=了解二阶身份晋级挑战
+context_21602=完成二阶身份晋级挑战（简单）
+context_21603=完成二阶身份晋级挑战（普通）
+context_21604=完成二阶身份晋级挑战（困难）
+context_21605=了解三阶身份晋级挑战
+context_21606=完成三阶身份晋级挑战（简单）
+context_21607=完成三阶身份晋级挑战（普通）
+context_21608=完成三阶身份晋级挑战（困难）
+context_21609=了解四阶身份晋级挑战
+context_21610=完成四阶身份晋级挑战（简单）
+context_21611=完成四阶身份晋级挑战（普通）
+context_21612=完成四阶身份晋级挑战（困难）
+context_21613=了解五阶身份晋级挑战
+context_21614=完成五阶身份晋级挑战（简单）
+context_21615=完成五阶身份晋级挑战（普通）
+context_21616=完成五阶身份晋级挑战（困难）
+context_21617=了解六阶身份晋级挑战
+context_21618=完成六阶身份晋级挑战（简单）
+context_21619=完成六阶身份晋级挑战（普通）
+context_21620=完成六阶身份晋级挑战（困难）
+context_21621=了解七阶身份晋级挑战
+context_21622=完成七阶身份晋级挑战（简单）
+context_21623=完成七阶身份晋级挑战（普通）
+context_21624=完成七阶身份晋级挑战（困难）
+context_21625=了解八阶身份晋级挑战
+context_21626=完成八阶身份晋级挑战（简单）
+context_21627=完成八阶身份晋级挑战（普通）
+context_21628=完成八阶身份晋级挑战（困难）
+context_21629=了解九阶身份晋级挑战
+context_21630=完成九阶身份晋级挑战（简单）
+context_21631=完成九阶身份晋级挑战（普通）
+context_21632=完成九阶身份晋级挑战（困难）
+context_21633=了解十阶身份晋级挑战
+context_21634=完成十阶身份晋级挑战（简单）
+context_21635=完成十阶身份晋级挑战（普通）
+context_21636=完成十阶身份晋级挑战（困难）
+maintext_8100=金刚经第一品所讲为何？
+maintext_8101=金刚经第二品所讲为何？
+maintext_8102=金刚经第三品所讲为何？
+maintext_8103=金刚经第四品所讲为何？
+maintext_8104=金刚经第五品所讲为何？
+maintext_8105=金刚经第六品所讲为何？
+maintext_8106=金刚经第七品所讲为何？
+maintext_8107=金刚经第八品所讲为何？
+maintext_8108=金刚经第九品所讲为何？
+maintext_8109=金刚经第十品所讲为何？
+maintext_8110=金刚经第十一品所讲为何？
+maintext_8111=金刚经第十二品所讲为何？
+maintext_8112=金刚经第十三品所讲为何？
+maintext_8113=金刚经第十四品所讲为何？
+maintext_8114=金刚经第十五品所讲为何？
+maintext_8115=金刚经第十六品所讲为何？
+maintext_8116=金刚经第十七品所讲为何？
+maintext_8117=金刚经第十八品所讲为何？
+maintext_8118=金刚经第十九品所讲为何？
+maintext_8119=金刚经第二十品所讲为何？
+maintext_8120=金刚经第二十一品所讲为何？
+maintext_8121=金刚经第二十二品所讲为何？
+maintext_8122=金刚经第二十三品所讲为何？
+maintext_8123=金刚经第二十四品所讲为何？
+maintext_8124=金刚经第二十五品所讲为何？
+maintext_8125=金刚经第二十六品所讲为何？
+maintext_8126=金刚经第二十七品所讲为何？
+maintext_8127=金刚经第二十八品所讲为何？
+maintext_8128=金刚经第二十九品所讲为何？
+maintext_8129=金刚经第三十品所讲为何？
+maintext_8130=金刚经第三十一品所讲为何？
+maintext_8131=金刚经第三十二品所讲为何？
+maintext_8132=金刚经第二十九品所讲为何？
+maintext_8133=金刚经第十五品所讲为何？
+maintext_8134=金刚经第二十二品所讲为何？
+menu_21401_1=<font face="Default" color="#ffffff" >没问题，我马上去</font>
+menu_21402_1=<font face="Default" color="#ffffff" >乐意之至</font>
+menu_21403_1=<font face="Default" color="#ffffff" >弟子这便前去</font>
+menu_21404_1=<font face="Default" color="#ffffff" >是，弟子领命</font>
+menu_21405_1=<font face="Default" color="#ffffff" >我这就前去</font>
+menu_21406_1=<font face="Default" color="#ffffff" >弟子这便</font><font face="Default" color="#ffffff" >前去</font>
+menu_21407_1=<font face="Default" color="#ffffff" >是</font>
+menu_21410_1=<font face="Default" color="#ffffff" >谨遵阴姬娘娘之命。</font>
+menu_21411_1=<font face="Default" color="#ffffff" >如此，有劳师姐费心了。</font>
+menu_21412_1=<font face="Default" color="#ffffff" >这些苗人真是欺人太甚，请让我去给他们一个教训。</font>
+menu_21413_1=<font face="Default" color="#ffffff" >多谢师姐相助。</font>
+menu_21414_1=
+menu_21415_1=<font face="Default" color="#ffffff" >多谢师姐相助。</font>
+menu_21416_1=<font face="Default" color="#ffffff" >谢谢师姐提醒，我一定会好好表现的！</font>
+menu_21417_1=<font face="Default" color="#ffffff" >弟子明白</font>
+menu_21418_1=<font face="Default" color="#ffffff" >弟子当尽力而为！</font>
+menu_21420_1=<font face="Default" color="#ffffff" >听闻前辈曾拜访过神水宫，不知前辈可愿告知小可神水宫所在？</font>
+menu_21421_1=<font face="Default" color="#ffffff" >神水宫出世</font><font face="Default" color="#ffffff" >的传闻在江湖中早已传开了</font><font face="Default" color="#ffffff" >，在下对神水宫仰慕已久。</font>
+menu_21422_1=<font face="Default" color="#ffffff" >师太请问。</font>
+menu_21423_1=<font face="Default" color="#ffffff" >多谢师太。</font>
+menu_21424_1=<font face="Default" color="#ffffff" >你究竟是谁？我这又是在何处？</font>
+menu_21425_1=<font face="Default" color="#ffffff" >是的</font>
+menu_21426_1=<font face="Default" color="#ffffff" >是的</font>
+menu_21427_1=<font face="Default" color="#ffffff" >是的</font>
+menu_21430_1=<font face="Default" color="#ffffff" >小妹拜见</font><font face="Default" color="#ffffff" >十月姐姐</font><font face="Default" color="#ffffff" >。</font>
+menu_21431_1=<font face="Default" color="#ffffff" >在下自认资质足够，不知加入神水宫究竟有何条件？</font>
+menu_21432_1=<font face="Default" color="#ffffff" >多谢宫主。</font>
+menu_21433_1=<font face="Default" color="#ffffff" >弟子这便前去。</font>
+menu_21434_1=<font face="Default" color="#ffffff" >弟子这便前往。</font>
+menu_21435_1=<font face="Default" color="#ffffff" >弟子遵命。</font>
+menu_21436_1=<font face="Default" color="#ffffff" >有劳师妹前来告知。</font>
+menu_21440_1=<font face="Default" color="#ffffff" >前辈来访神水宫所为何事？</font>
+menu_21441_1=<font face="Default" color="#ffffff" >听闻神水峨眉有旧，恰逢峨眉谢冬梅师姐来访神水宫，遂向掌门提出想要学习峨眉武学之愿。掌门命我拜访绝尘师太以求同意。</font>
+menu_21442_1=<font face="Default" color="#ffffff" >绝尘师太已然同意由谢冬梅前辈传授峨眉武学</font>
+menu_21443_1=<font face="Default" color="#ffffff" >前辈所言甚是，之前我已请示过我派掌门，并奉掌门之命拜见过绝尘师太，其已同意前辈在神水宫传授峨眉武学。</font>
+menu_21450_1=<font face="Default" color="#ffffff" >此事弟子也有所耳闻。</font>
+menu_21451_1=<font face="Default" color="#ffffff" >我欲前往神水宫拜师，还望前辈指引一二</font><font face="Default" color="#ffffff" >，这是家师的书信！</font>
+menu_21452_1=<font face="Default" color="#ffffff" >晚辈峨眉派弟子，欲前往神水宫，</font><font face="Default" color="#ffffff" >不知前辈何人？</font><font face="Default" color="#ffffff" >此处</font><font face="Default" color="#ffffff" >又</font><font face="Default" color="#ffffff" >是何</font><font face="Default" color="#ffffff" >地方？</font>
+menu_21453_1=<font face="Default" color="#ffffff" >在下</font><font face="Default" color="#ffffff" >愿意。</font>
+menu_21454_1=<font face="Default" color="#ffffff" >在下</font><font face="Default" color="#ffffff" >这</font><font face="Default" color="#ffffff" >便</font><font face="Default" color="#ffffff" >前去</font><font face="Default" color="#ffffff" >。</font>
+menu_21459_1=<font face="Default" color="#ffffff" >在下愿加入</font><font face="Default" color="#ffffff" >神水宫</font><font face="Default" color="#ffffff" >，为保卫黎民百姓出一份力</font>
+menu_21460_1=<font face="Default" color="#ffffff" >在下愿接受审核。</font>
+menu_21500_1=<font face="Default" color="#ffffff" >弟子明白。</font>
+menu_21501_1=<font face="Default" color="#ffffff" >不知阁下来此</font><font face="Default" color="#ffffff" >拜</font><font face="Default" color="#ffffff" >访何人？</font>
+menu_21502_1=<font face="Default" color="#ffffff" >我这也是为了安全起见！</font>
+menu_21503_1=<font face="Default" color="#ffffff" >我去帮你找药！</font>
+menu_21506_1=<font face="Default" color="#ffffff" >师姐难道不能进入寒冰离火殿？</font>
+menu_21507_1=<font face="Default" color="#ffffff" >弟子有要事禀告阴姬娘娘。</font>
+menu_21510_1=<font face="Default" color="#ffffff" >多谢师姐。</font>
+menu_21601_1=<font face="Default" color="#ffffff" >弟子明白。</font>
+menu_21602_1=<font face="Default" color="#ffffff" >弟子晓得。</font>
+menu_21603_1=<font face="Default" color="#ffffff" >弟子晓得。</font>
+menu_21604_1=<font face="Default" color="#ffffff" >弟子晓得。</font>
+menu_21605_1=<font face="Default" color="#ffffff" >弟子明白。</font>
+menu_21606_1=<font face="Default" color="#ffffff" >弟子晓得。</font>
+menu_21607_1=<font face="Default" color="#ffffff" >弟子晓得。</font>
+menu_21608_1=<font face="Default" color="#ffffff" >弟子晓得。</font>
+menu_21609_1=<font face="Default" color="#ffffff" >弟子明白。</font>
+menu_21610_1=<font face="Default" color="#ffffff" >弟子晓得。</font>
+menu_21611_1=<font face="Default" color="#ffffff" >弟子晓得。</font>
+menu_21612_1=<font face="Default" color="#ffffff" >弟子晓得。</font>
+menu_21613_1=<font face="Default" color="#ffffff" >弟子明白。</font>
+menu_21614_1=<font face="Default" color="#ffffff" >弟子晓得。</font>
+menu_21615_1=<font face="Default" color="#ffffff" >弟子晓得。</font>
+menu_21616_1=<font face="Default" color="#ffffff" >弟子晓得。</font>
+menu_21617_1=<font face="Default" color="#ffffff" >弟子明白。</font>
+menu_21618_1=<font face="Default" color="#ffffff" >弟子晓得。</font>
+menu_21619_1=<font face="Default" color="#ffffff" >弟子晓得。</font>
+menu_21620_1=<font face="Default" color="#ffffff" >弟子晓得。</font>
+menu_21621_1=<font face="Default" color="#ffffff" >弟子明白。</font>
+menu_21622_1=<font face="Default" color="#ffffff" >弟子晓得。</font>
+menu_21623_1=<font face="Default" color="#ffffff" >弟子晓得。</font>
+menu_21624_1=<font face="Default" color="#ffffff" >弟子晓得。</font>
+menu_21625_1=<font face="Default" color="#ffffff" >弟子明白。</font>
+menu_21626_1=<font face="Default" color="#ffffff" >弟子晓得。</font>
+menu_21627_1=<font face="Default" color="#ffffff" >弟子晓得。</font>
+menu_21628_1=<font face="Default" color="#ffffff" >弟子晓得。</font>
+menu_21629_1=<font face="Default" color="#ffffff" >弟子明白。</font>
+menu_21630_1=<font face="Default" color="#ffffff" >弟子晓得。</font>
+menu_21631_1=<font face="Default" color="#ffffff" >弟子晓得。</font>
+menu_21632_1=<font face="Default" color="#ffffff" >弟子晓得。</font>
+menu_21633_1=<font face="Default" color="#ffffff" >弟子明白。</font>
+menu_21634_1=<font face="Default" color="#ffffff" >弟子晓得。</font>
+menu_21635_1=<font face="Default" color="#ffffff" >弟子晓得。</font>
+menu_21636_1=<font face="Default" color="#ffffff" >弟子晓得。</font>
+next_21418=获得派系之争胜利
+next_21440=<a href="findnpc_new,school06,WorldNpc02604" style="HLStype1">绝尘师太</a>
+next_21441=<a href="findnpc_new,school06,WorldNpc02604" style="HLStype1">绝尘师太</a>
+next_21442=<a href="findnpc_new,school19,newmp_ssg_emdh01" style="HLStype1">谢冬梅</a>
+next_21443=<a href="findnpc_new,school19,newmp_ssg_emdh01" style="HLStype1">谢冬梅</a>
+next_21451=
+submit_21401=<font face="Default" color="#ffffff" >这是弟子应该做的</font>
+submit_21402=<font face="Default" color="#ffffff" >多谢</font>
+submit_21403=<font face="Default" color="#ffffff" >是，弟子告退</font>
+submit_21404=<font face="Default" color="#ffffff" >是，弟子告退</font>
+submit_21405=<font face="Default" color="#ffffff" >多谢夸奖</font>
+submit_21406=<font face="Default" color="#ffffff" >是</font>
+submit_21407=<font face="Default" color="#ffffff" >是啊，总算清静了</font>
+submit_21410=<font face="Default" color="#ffffff" >神水被盗（提交任务）</font>
+submit_21411=<font face="Default" color="#ffffff" >师姐谬赞了，小妹还需多加努力才是。</font>
+submit_21412=<font face="Default" color="#ffffff" >提交任务（苗人来袭）</font>
+submit_21413=<font face="Default" color="#ffffff" >真是惭愧，若非在下武功小有所成，只怕今日定会出丑了。</font>
+submit_21414=<font face="Default" color="#ffffff" >小妹愚钝，还需多多聆听高僧传法。</font>
+submit_21415=<font face="Default" color="#ffffff" >大师且请发问。</font>
+submit_21416=<font face="Default" color="#ffffff" >多谢师姐夸张，我一定会更加努力的，不辜负大家的厚望</font><font face="Default" color="#ffffff" >！</font>
+submit_21417=<font face="Default" color="#ffffff" >嗯</font>
+submit_21418=<font face="Default" color="#ffffff" >凭证在此，请云师姐收下！</font>
+submit_21420=<font face="Default" color="#ffffff" >在下听闻神水宫武功神秘高深，想拜入神水宫并习得精妙的招式，希望师太可以成全。</font>
+submit_21421=<font face="Default" color="#ffffff" >还望师太成全在下心愿。</font>
+submit_21422=<font face="Default" color="#ffffff" >加入神水宫乃是在下心中所愿。</font>
+submit_21423=<font face="Default" color="#ffffff" >这是哪？</font><font face="Default" color="#ffffff" >你是谁？</font>
+submit_21424=<font face="Default" color="#ffffff" >在下此来正为此事，烦劳阁下头前引路。</font>
+submit_21425=<font face="Default" color="#ffffff" >我意已决，请成全。</font>
+submit_21426=<font face="Default" color="#ffffff" >我会的，珍重</font>
+submit_21427=<font face="Default" color="#ffffff" >珍重</font>
+submit_21430=<font face="Default" color="#ffffff" >弟子拜见宫主。</font>
+submit_21431=<font face="Default" color="#ffffff" >在下仰慕神水宫威名已久，特来拜入。</font>
+submit_21432=<font face="Default" color="#ffffff" >弟子定当竭尽所能。</font>
+submit_21433=<font face="Default" color="#ffffff" >弟子不敢怠慢，还请宫主说明其余考验。</font>
+submit_21434=<font face="Default" color="#ffffff" >多谢宫主</font><font face="Default" color="#ffffff" >成全，弟子拜谢。</font>
+submit_21435=<font face="Default" color="#ffffff" >多谢师妹引路，我一个人就行了，有劳师妹了。</font>
+submit_21436=<font face="Default" color="#ffffff" >弟子愿意加入，绝不后悔</font><font face="Default" color="#ffffff" >。</font>
+submit_21440=<font face="Default" color="#ffffff" >我为神水宫弟子，奉我派掌门之命前来拜见绝尘师太</font>
+submit_21441=<font face="Default" color="#ffffff" >弟子适才拜见归来。</font>
+submit_21442=<font face="Default" color="#ffffff" >谢前辈，久闻峨眉武学精湛，可否传授在下。</font>
+submit_21450=<font face="Default" color="#ffffff" >晚辈是峨眉弟子</font><font face="Default" color="#ffffff" >，奉师命前来拜见前辈。</font>
+submit_21451=<font face="Default" color="#ffffff" >的确是好茶！</font><font face="Default" color="#ffffff" >多谢前辈所赠。</font>
+submit_21452=<font face="Default" color="#ffffff" >晚辈峨眉派弟子，</font><font face="Default" color="#ffffff" >奉师傅之命，</font><font face="Default" color="#ffffff" >特来拜师。</font>
+submit_21453=<font face="Default" color="#ffffff" >承让了。</font>
+submit_21454=<font face="Default" color="#ffffff" >多谢师姐。</font>
+submit_21459=<font face="Default" color="#ffffff" >请指教</font>
+submit_21460=<font face="Default" color="#ffffff" >多谢</font>
+submit_21501=<font face="Default" color="#ffffff" >是！</font>
+submit_21503=<font face="Default" color="#ffffff" >你定不能出事啊！</font>
+submit_21504=<font face="Default" color="#ffffff" >是！</font>
+submit_21505=<font face="Default" color="#ffffff" >幸不辱命！</font>
+submit_21506=<font face="Default" color="#ffffff" >宫主</font><font face="Default" color="#ffffff" >，我是新来的弟子！</font>
+submit_21509=<font face="Default" color="#ffffff" >弟子知晓，弟子做事愚钝，还请宫主责罚！</font>
+submit_21511=<font face="Default" color="#ffffff" >十月师姐放心，师妹</font><font face="Default" color="#ffffff" >幸不辱命！</font>
+submit_21601=<font face="Default" color="#ffffff" >弟子明白。</font>
+submit_21602=<font face="Default" color="#ffffff" >多谢师姐夸奖。</font>
+submit_21603=<font face="Default" color="#ffffff" >多谢师姐夸奖。</font>
+submit_21604=<font face="Default" color="#ffffff" >多谢师姐夸奖。</font>
+submit_21605=<font face="Default" color="#ffffff" >弟子明白。</font>
+submit_21606=<font face="Default" color="#ffffff" >多谢师姐夸奖。</font>
+submit_21607=<font face="Default" color="#ffffff" >多谢师姐夸奖。</font>
+submit_21608=<font face="Default" color="#ffffff" >多谢师姐夸奖。</font>
+submit_21609=<font face="Default" color="#ffffff" >弟子明白。</font>
+submit_21610=<font face="Default" color="#ffffff" >多谢师姐夸奖。</font>
+submit_21611=<font face="Default" color="#ffffff" >多谢师姐夸奖。</font>
+submit_21612=<font face="Default" color="#ffffff" >多谢师姐夸奖。</font>
+submit_21613=<font face="Default" color="#ffffff" >弟子明白。</font>
+submit_21614=<font face="Default" color="#ffffff" >多谢师姐夸奖。</font>
+submit_21615=<font face="Default" color="#ffffff" >多谢师姐夸奖。</font>
+submit_21616=<font face="Default" color="#ffffff" >多谢师姐夸奖。</font>
+submit_21617=<font face="Default" color="#ffffff" >弟子明白。</font>
+submit_21618=<font face="Default" color="#ffffff" >多谢师姐夸奖。</font>
+submit_21619=<font face="Default" color="#ffffff" >多谢师姐夸奖。</font>
+submit_21620=<font face="Default" color="#ffffff" >多谢师姐夸奖。</font>
+submit_21621=<font face="Default" color="#ffffff" >弟子明白。</font>
+submit_21622=<font face="Default" color="#ffffff" >多谢师姐夸奖。</font>
+submit_21623=<font face="Default" color="#ffffff" >多谢师姐夸奖。</font>
+submit_21624=<font face="Default" color="#ffffff" >多谢师姐夸奖。</font>
+submit_21625=<font face="Default" color="#ffffff" >弟子明白。</font>
+submit_21626=<font face="Default" color="#ffffff" >多谢师姐夸奖。</font>
+submit_21627=<font face="Default" color="#ffffff" >多谢师姐夸奖。</font>
+submit_21628=<font face="Default" color="#ffffff" >多谢师姐夸奖。</font>
+submit_21629=<font face="Default" color="#ffffff" >弟子明白。</font>
+submit_21630=<font face="Default" color="#ffffff" >多谢师姐夸奖。</font>
+submit_21631=<font face="Default" color="#ffffff" >多谢师姐夸奖。</font>
+submit_21632=<font face="Default" color="#ffffff" >多谢师姐夸奖。</font>
+submit_21633=<font face="Default" color="#ffffff" >弟子明白。</font>
+submit_21634=<font face="Default" color="#ffffff" >多谢师姐夸奖。</font>
+submit_21635=<font face="Default" color="#ffffff" >多谢师姐夸奖。</font>
+submit_21636=<font face="Default" color="#ffffff" >多谢师姐夸奖。</font>
+target_21401=将火焰草带去玄晶灵谷
+target_21402=采集两颗冰果
+target_21403=去瀑布下静坐参悟
+target_21404=攻克南疆高手
+target_21405=捕捉五条仙音鱼
+target_21406=踩着浮萍巡视神水宫
+target_21407=将灵猴带给神水宫弟子
+target_21410=在活动开启时前往神水宫吴琼(神水被盗活动管理员)处报名参与活动，根据指示协助花非白与十月中的一方，收集线索，找到偷盗神水之人。
+target_21411=前往寒冰离火殿，完成修炼
+target_21412=抵御苗人的袭击
+target_21413=从灵猴手中夺回自己的衣服。
+target_21414=隐世高僧论经说法完毕，可与高僧继续辩经。
+target_21415=前往彼岸花海参加天池佛会。
+target_21416=前去<a href="findnpc_new,school19,ssg_hd_mphz_011" style="HLStype1">玲珑</a>处通过报名参与神水会武活动，成功挑战七位师姐，赢取掌门对大家的认可！
+target_21417=前往唐门将作乱倭寇围剿，并且得到相应情报
+target_21418=神水宫中有花非白，十月两大派系，每周两大派系中对门派贡献较多的一方将获得宫主赏识，为该派系发放奖励，并且任命派系中的杰出弟子出任门派职位，协助管理门派事宜。
+target_21420=向醉酒老者询问神水宫所在。
+target_21421=向菩提庵中老尼打探神水宫所在。
+target_21422=接受老尼的询问，答出老尼所提的问题。
+target_21423=老尼端出的茶水香气扑鼻，不如品尝一番。
+target_21424=既已见到神水宫的镜水公子花非白，向他询问详情。
+target_21425=叛师
+target_21426=出师返回江湖
+target_21427=出师返回峨眉
+target_21430=跟随十月熟悉神水宫环境。
+target_21431=参与神水宫审核，查看自己是否满足加入神水宫的条件，获得审核令牌。
+target_21432=拜见神水宫宫主，请求加入神水宫
+target_21433=前往玄晶灵谷附近采集水莲。
+target_21434=前往雪山之巅打坐，其中若是遇到一些异常状态，需按照提示解除
+target_21435=沐浴更衣，等待入门大典开始。
+target_21436=通过层层考验，如今可以加入神水宫了
+target_21440=了解不明人士来意，禀明掌门。
+target_21441=拜见峨眉掌门绝尘师太，望其准许谢冬梅传授峨眉武学
+target_21442=回复掌门峨眉绝尘师太已同意谢冬梅传授峨眉武学
+target_21443=回复谢冬梅，我派掌门望其在神水宫传授峨眉武学，峨眉绝尘师太亦已同意
+target_21450=前往鸡鸣驿探寻神水宫消息
+target_21451=打探神水宫消息
+target_21452=打听情况。
+target_21453=与十月交谈
+target_21454=资格审核
+target_21459=拜师神水宫
+target_21460=通过入门审核
+target_21500=告知花非白
+target_21501=询问徐妙真来意！
+target_21502=看看徐妙真的经历
+target_21503=变身徐妙真，参加她所经历的一切！
+target_21504=询问十月到底事情的经过！
+target_21505=按照十月的吩咐前去寻找相关疗伤药物！
+target_21506=想办法进入神水宫禁地！
+target_21507=向宫主求情让你们进入禁地！
+target_21508=找华山掌门之事甚是不妥，如今还是与十月师姐一同拜见阴姬娘娘请罪罢。
+target_21509=恳请阴姬娘娘原谅此番的鲁莽行事。
+target_21510=收集5条仙音鱼给花非白
+target_21511=击败花非白获得冰果！
+target_21601=了解二阶身份晋级挑战
+target_21602=完成二阶身份晋级挑战（简单）
+target_21603=完成二阶身份晋级挑战（普通）
+target_21604=完成二阶身份晋级挑战（困难）
+target_21605=了解三阶身份晋级挑战
+target_21606=完成三阶身份晋级挑战（简单）
+target_21607=完成三阶身份晋级挑战（普通）
+target_21608=完成三阶身份晋级挑战（困难）
+target_21609=了解四阶身份晋级挑战
+target_21610=完成四阶身份晋级挑战（简单）
+target_21611=完成四阶身份晋级挑战（普通）
+target_21612=完成四阶身份晋级挑战（困难）
+target_21613=了解五阶身份晋级挑战
+target_21614=完成五阶身份晋级挑战（简单）
+target_21615=完成五阶身份晋级挑战（普通）
+target_21616=完成五阶身份晋级挑战（困难）
+target_21617=了解六阶身份晋级挑战
+target_21618=完成六阶身份晋级挑战（简单）
+target_21619=完成六阶身份晋级挑战（普通）
+target_21620=完成六阶身份晋级挑战（困难）
+target_21621=了解七阶身份晋级挑战
+target_21622=完成七阶身份晋级挑战（简单）
+target_21623=完成七阶身份晋级挑战（普通）
+target_21624=完成七阶身份晋级挑战（困难）
+target_21625=了解八阶身份晋级挑战
+target_21626=完成八阶身份晋级挑战（简单）
+target_21627=完成八阶身份晋级挑战（普通）
+target_21628=完成八阶身份晋级挑战（困难）
+target_21629=了解九阶身份晋级挑战
+target_21630=完成九阶身份晋级挑战（简单）
+target_21631=完成九阶身份晋级挑战（普通）
+target_21632=完成九阶身份晋级挑战（困难）
+target_21633=了解十阶身份晋级挑战
+target_21634=完成十阶身份晋级挑战（简单）
+target_21635=完成十阶身份晋级挑战（普通）
+target_21636=完成十阶身份晋级挑战（困难）
+title_21401=梧桐栖凤
+title_21402=水径取果
+title_21403=观水练功
+title_21404=灭派之仇
+title_21405=水中捕鱼
+title_21406=巡视神水宫
+title_21407=驱赶灵猴
+title_21410=神水被盗
+title_21411=冰火炼体
+title_21412=苗人来袭
+title_21413=追影灵猴（周常）
+title_21414=天池佛会
+title_21415=天池佛会
+title_21416=神水会武
+title_21417=倭寇作乱
+title_21418=派系之争【神水宫】
+title_21420=神水迷踪
+title_21421=菩提庵中
+title_21422=初闻神水
+title_21423=神水之谜
+title_21424=镜水公子
+title_21425=叛师
+title_21426=出师返回江湖
+title_21427=出师返回峨眉
+title_21430=神水面貌
+title_21431=资格审核
+title_21432=拜见宫主
+title_21433=水莲气息
+title_21434=神水冰心
+title_21435=沐浴更衣
+title_21436=加入神水宫
+title_21440=神水渊源（一）
+title_21441=神水渊源（二）
+title_21442=神水渊源（三）
+title_21443=神水渊源（四）
+title_21450=初识神水
+title_21451=守庵老尼
+title_21452=白衣美妇
+title_21453=初入神水
+title_21454=资格审核
+title_21459=加入神水宫
+title_21460=神水宫入门审核
+title_21500=（剧情）初入神水
+title_21501=（剧情）闯宫之人
+title_21502=（剧情）回忆过去
+title_21503=（剧情）回忆过去
+title_21504=（剧情）回到现实
+title_21505=（剧情）获取冰果
+title_21506=（剧情）寒冰离火
+title_21507=（剧情）宫主阴姬
+title_21508=（剧情）负荆请罪
+title_21509=（剧情）慈爱阴姬
+title_21510=（剧情）仙音鱼
+title_21511=击败花非白
+title_21601=二阶身份晋级挑战
+title_21602=二阶身份晋级挑战（简单）
+title_21603=二阶身份晋级挑战（普通）
+title_21604=二阶身份晋级挑战（困难）
+title_21605=三阶身份晋级挑战
+title_21606=三阶身份晋级挑战（简单）
+title_21607=三阶身份晋级挑战（普通）
+title_21608=三阶身份晋级挑战（困难）
+title_21609=四阶身份晋级挑战
+title_21610=四阶身份晋级挑战（简单）
+title_21611=四阶身份晋级挑战（普通）
+title_21612=四阶身份晋级挑战（困难）
+title_21613=五阶身份晋级挑战
+title_21614=五阶身份晋级挑战（简单）
+title_21615=五阶身份晋级挑战（普通）
+title_21616=五阶身份晋级挑战（困难）
+title_21617=六阶身份晋级挑战
+title_21618=六阶身份晋级挑战（简单）
+title_21619=六阶身份晋级挑战（普通）
+title_21620=六阶身份晋级挑战（困难）
+title_21621=七阶身份晋级挑战
+title_21622=七阶身份晋级挑战（简单）
+title_21623=七阶身份晋级挑战（普通）
+title_21624=七阶身份晋级挑战（困难）
+title_21625=八阶身份晋级挑战
+title_21626=八阶身份晋级挑战（简单）
+title_21627=八阶身份晋级挑战（普通）
+title_21628=八阶身份晋级挑战（困难）
+title_21629=九阶身份晋级挑战
+title_21630=九阶身份晋级挑战（简单）
+title_21631=九阶身份晋级挑战（普通）
+title_21632=九阶身份晋级挑战（困难）
+title_21633=十阶身份晋级挑战
+title_21634=十阶身份晋级挑战（简单）
+title_21635=十阶身份晋级挑战（普通）
+title_21636=十阶身份晋级挑战（困难）

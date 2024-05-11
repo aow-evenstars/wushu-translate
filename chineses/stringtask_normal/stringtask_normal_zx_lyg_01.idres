@@ -1,0 +1,899 @@
+﻿
+;=获得势力四阶称号
+CanAcceptMenu_49201=<font face="Default" color="#ffffff" >接受任务：山庄义务</font>
+CanAcceptMenu_49202=<font face="Default" color="#ffffff" >接受任务：山庄义务</font>
+CanAcceptMenu_49203=<font face="Default" color="#ffffff" >接受任务：山庄义务</font>
+CanAcceptMenu_49204=<font face="Default" color="#ffffff" >接受任务：山庄义务</font>
+CanAcceptMenu_49205=<font face="Default" color="#ffffff" >接受任务：山庄义务</font>
+CanAcceptMenu_49206=<font face="Default" color="#ffffff" >接受任务：山庄义务</font>
+CanAcceptMenu_49207=<font face="Default" color="#ffffff" >接受任务：山庄义务</font>
+CanAcceptMenu_49208=<font face="Default" color="#ffffff" >接受任务：山庄义务</font>
+CanAcceptMenu_49209=<font face="Default" color="#ffffff" >接受任务：山庄义务</font>
+CanAcceptMenu_49210=<font face="Default" color="#ffffff" >接受任务：山庄义务</font>
+CanAcceptMenu_49211=<font face="Default" color="#ffffff" >接受任务：山庄义务</font>
+CanAcceptMenu_49212=<font face="Default" color="#ffffff" >接受任务：寻找失窃食物</font>
+CanAcceptMenu_49213=<font face="Default" color="#ffffff" >接受任务：喂食</font>
+CanAcceptMenu_49214=<font face="Default" color="#ffffff" >接受任务：安抚猛兽</font>
+CanAcceptMenu_49215=<font face="Default" color="#ffffff" >接受任务：了解野兽外貌</font>
+CanAcceptMenu_49216=<font face="Default" color="#ffffff" >接受任务：了解野兽习性</font>
+CanAcceptMenu_49218=<font face="Default" color="#ffffff" >接受任务：清扫道路</font>
+CanAcceptMenu_49219=<font face="Default" color="#ffffff" >接受任务：寻找失踪动物</font>
+CanAcceptMenu_49220=<font face="Default" color="#ffffff" >接受任务：收集木材</font>
+CanAcceptMenu_49221=<font face="Default" color="#ffffff" >接受任务：带领小孩参观大象</font>
+CanAcceptMenu_49222=<font face="Default" color="#ffffff" >接受任务：埋葬兽骨</font>
+CanAcceptMenu_49223=<font face="Default" color="#ffffff" >接受任务：犒劳守卫</font>
+CanAcceptMenu_49224=<font face="Default" color="#ffffff" >接受任务：引荐江湖人</font>
+CanAcceptMenu_49225=<font face="Default" color="#ffffff" >接受任务：劝说路人</font>
+CanAcceptMenu_49226=<font face="Default" color="#ffffff" >接受任务：辨认脚印</font>
+CanAcceptMenu_49227=<font face="Default" color="#ffffff" >接受任务：治疗受伤路人</font>
+CanAcceptMenu_49228=<font face="Default" color="#ffffff" >接受任务：送信</font>
+CanAcceptMenu_49229=<font face="Default" color="#ffffff" >接受任务：任性的师兄</font>
+CanAcceptMenu_49230=<font face="Default" color="#ffffff" >接受任务：认真工作</font>
+CanAcceptMenu_49231=<font face="Default" color="#ffffff" >接受任务：懒惰的师兄</font>
+CanAcceptMenu_49232=<font face="Default" color="#ffffff" >接受任务：询问底细</font>
+CanAcceptMenu_49233=<font face="Default" color="#ffffff" >接受任务：运送粮食</font>
+CanAcceptMenu_49234=<font face="Default" color="#ffffff" >接受任务：询问药方</font>
+CanAcceptMenu_49235=<font face="Default" color="#ffffff" >接受任务：解救乞丐</font>
+CanAcceptMenu_49236=<font face="Default" color="#ffffff" >接受任务：收集蔬菜</font>
+CanAcceptMenu_49237=<font face="Default" color="#ffffff" >接受任务：切磋功夫</font>
+CanAcceptMenu_49238=<font face="Default" color="#ffffff" >接受任务：赶回兽栏</font>
+CanAcceptMenu_49239=<font face="Default" color="#ffffff" >接受任务：赶回兽栏</font>
+CanAcceptMenu_49240=<font face="Default" color="#ffffff" >接受任务：赶回兽栏</font>
+CanAcceptMenu_49241=<font face="Default" color="#ffffff" >接受任务：</font><font face="Default" color="#ffffff" >寻找幼鹰</font>
+CanAcceptMenu_49242=<font face="Default" color="#ffffff" >接受任务：茶林蛇踪</font>
+CanAcceptMenu_49243=<font face="Default" color="#ffffff" >接受任务：山庄如虎</font>
+CanAcceptMenu_49244=<font face="Default" color="#ffffff" >接受任务：饿虎夺食</font>
+CanAcceptMenu_49245=<font face="Default" color="#ffffff" >接受任务：阴谋匪类</font>
+CanAcceptMenu_49246=<font face="Default" color="#ffffff" >接受任务：收集材料</font>
+CanAcceptMenu_49247=<font face="Default" color="#ffffff" >接受任务：驱赶掏蛋村民</font>
+CanAcceptMenu_49248=<font face="Default" color="#ffffff" >接受任务：</font><font face="Default" color="#ffffff" >丢失的礼盒</font>
+CanAcceptMenu_49249=<font face="Default" color="#ffffff" >接受任务：</font><font face="Default" color="#ffffff" >收集美酒佳肴</font>
+CanAcceptMenu_49250=<font face="Default" color="#ffffff" >接受任务：驱赶兽皮贩</font>
+CanAcceptMenu_49251=<font face="Default" color="#ffffff" >接受任务：攻克密探</font>
+CanAcceptMenu_49252=<font face="Default" color="#ffffff" >接受任务：驱赶偷猎人</font>
+CanAcceptMenu_49253=<font face="Default" color="#ffffff" >接受</font><font face="Default" color="#ffffff" >任务：收集药材</font>
+CanAcceptMenu_49300=<font face="Default" color="#ffffff" >近来心头总有一疑问，百思不得其解。阿水你见多识广，你可知道，咱们山庄明明江湖传名，为何要龟缩在此处，天天和畜生打交道？</font>
+CanAcceptMenu_49301=<font face="Default" color="#ffffff" >阿水，大庄主他说啥没？</font>
+CanAcceptMenu_49302=<font face="Default" color="#ffffff" >师兄，为何你会在这里？</font>
+CanAcceptMenu_49303=<font face="Default" color="#ffffff" >这位大嫂，快带你的孩子下山去吧。</font>
+CanAcceptMenu_49304=<font face="Default" color="#ffffff" >大庄主，是我之错，私自带小孩儿进庄，失却了金花鼠。最终竟惹得村民和山庄反目。这，这都怪我。</font>
+CanAcceptMenu_49305=<font face="Default" color="#ffffff" >那群人现在在哪里，晏师兄？</font>
+CanAcceptMenu_49306=<font face="Default" color="#ffffff" >……不仅归还了兽夹，还赠送了伤药和银两。冤家宜解不宜结……</font>
+CanAcceptMenu_49307=<font face="Default" color="#ffffff" >如今熊王业已捕获，希望本地熊患就此而绝，我理该功成身退。</font>
+CanAcceptMenu_49308=<font face="Default" color="#ffffff" >他们为取熊胆而捉熊，我不辨真伪，竟然还帮他们捕熊，这些熊，都是因为我，因为我才……</font>
+CanAcceptMenu_49309=<font face="Default" color="#ffffff" >师兄这般声泪俱下，莫非过去你和她……她和你……</font>
+CanAcceptMenu_49310=<font face="Default" color="#ffffff" >三庄主，我们什么时候动身？</font>
+CanAcceptMenu_49311=<font face="Default" color="#ffffff" >大叔，你，你还有什么话要说？</font>
+CanAcceptMenu_49312=<font face="Default" color="#ffffff" >四庄主，现在，我是不是有资格和你对话了？</font>
+CanAcceptMenu_49313=<font face="Default" color="#ffffff" >你慢点说。怎么会有狮灵袭击村子？</font>
+CanAcceptMenu_49314=<font face="Default" color="#ffffff" >庄主，我已做好准备。如何猎虎，请示下。</font>
+CanAcceptMenu_49315=<font face="Default" color="#ffffff" >贡品？猪牛羊三牲，你们选什么贡品是你们的事，我山庄若连这个都管——</font>
+CanAcceptMenu_49316=<font face="Default" color="#ffffff" >村庄竟用活人饲虎，以求平安？</font>
+CanAcceptMenu_49317=<font face="Default" color="#ffffff" >酒已尽，日已残，阁下有何打算？</font>
+CanAcceptMenu_49318=<font face="Default" color="#ffffff" >啊，一时失言，让五庄主见笑了。</font>
+CanAcceptMenu_49319=<font face="Default" color="#ffffff" >黄大哥，你脸色怎得这么难看？庄主让我告诉你……</font>
+CanAcceptMenu_49320=<font face="Default" color="#ffffff" >大庄主曾说，野兽再恶，也恶不过人心。我终于明白了。</font>
+CanAcceptMenu_49324=
+CanAcceptMenu_49325=<font face="Default" color="#ffffff" >二庄主，你的托辞，我怕是难以接受。请容属下思索一番。那只熊仔，可否由在下照料？</font>
+CanAcceptMenu_49326=<font face="Default" color="#ffffff" >四庄主，那我们什么出发？</font>
+CanAcceptMenu_49327=<font face="Default" color="#ffffff" >四庄主，我已先后经历了鹰王、熊王、豹王、狮王的围猎，有迷惘，却也受益匪浅。我很好奇，素来与兽为善的山庄，狩猎猛兽必非所愿，究竟为了谁？谁值得我们花如此力气？</font>
+CanAcceptMenu_49328=<font face="Default" color="#ffffff" >五庄主莫要开玩笑。四庄主命我来助你猎兽，这已然是最后一头猛兽，若前事不明，实难令在下尽心竭力。</font>
+CanAcceptMenu_49332=<font face="Default" color="#ffffff" >接受任务：</font><font face="Default" color="#ffffff" >山庄杂事</font>
+CanAcceptMenu_49333=<font face="Default" color="#ffffff" >接受任务：</font><font face="Default" color="#ffffff" >山庄杂事</font>
+CanAcceptMenu_49334=<font face="Default" color="#ffffff" >接受任务：</font><font face="Default" color="#ffffff" >山庄杂事</font>
+CanAcceptMenu_49335=<font face="Default" color="#ffffff" >接受任务：</font><font face="Default" color="#ffffff" >山庄杂事</font>
+CanAcceptMenu_49336=<font face="Default" color="#ffffff" >接受任务：</font><font face="Default" color="#ffffff" >山庄杂事</font>
+CanAcceptMenu_49337=<font face="Default" color="#ffffff" >庄主，我在百兽庄愈久，愈发觉此处理念荒谬，作法离奇，根本不是正常人呆的地方。所谓良禽择木而栖，在下已决意离开。</font>
+CanAcceptMenu_49338=<font face="Default" color="#ffffff" >百兽庄让我脱胎换骨，但避世不出终非我之所愿，在下决心再入江湖闯荡一番，或许能够让更多人理解我山庄本质。</font>
+CanAcceptMenu_49343=<font face="Default" color="#ffffff" >接受任务：每日</font><font face="Default" color="#ffffff" >猎杀</font><font face="Default" color="#ffffff" >任务</font>
+CanAcceptMenu_49410=<font face="Default" color="#ffffff" >接受任务：</font><font face="Default" color="#ffffff" >猎杀王蛇</font>
+CanAcceptMenu_49411=<font face="Default" color="#ffffff" >接受任务：猎杀青眼虎王</font>
+CanAcceptMenu_49412=<font face="Default" color="#ffffff" >接受任务：猎杀毒蝎</font>
+CanAcceptMenu_49413=<font face="Default" color="#ffffff" >接受任务：猎杀通臂猿</font>
+CanAcceptMenu_49414=<font face="Default" color="#ffffff" >接受任务：猎杀七步蝮龟</font>
+CanAcceptMenu_49415=<font face="Default" color="#ffffff" >接受任务：猎杀红顶鹰王</font>
+CanAcceptMenu_49416=<font face="Default" color="#ffffff" >接受任务：猎杀吊睛猛虎</font>
+CompleteMenu_49201=<font face="Default" color="#ffffff" >提交任务</font><font face="Default" color="#ffffff" >：山庄义务</font>
+CompleteMenu_49202=<font face="Default" color="#ffffff" >提交任务</font><font face="Default" color="#ffffff" >：山庄义务</font>
+CompleteMenu_49203=<font face="Default" color="#ffffff" >提交任务</font><font face="Default" color="#ffffff" >：山庄义务</font>
+CompleteMenu_49204=<font face="Default" color="#ffffff" >提交任务</font><font face="Default" color="#ffffff" >：山庄义务</font>
+CompleteMenu_49205=<font face="Default" color="#ffffff" >提交任务</font><font face="Default" color="#ffffff" >：山庄义务</font>
+CompleteMenu_49206=<font face="Default" color="#ffffff" >提交任务</font><font face="Default" color="#ffffff" >：山庄义务</font>
+CompleteMenu_49207=<font face="Default" color="#ffffff" >提交任务</font><font face="Default" color="#ffffff" >：山庄义务</font>
+CompleteMenu_49208=<font face="Default" color="#ffffff" >提交任务</font><font face="Default" color="#ffffff" >：山庄义务</font>
+CompleteMenu_49209=<font face="Default" color="#ffffff" >提交任务</font><font face="Default" color="#ffffff" >：山庄义务</font>
+CompleteMenu_49210=<font face="Default" color="#ffffff" >提交任务</font><font face="Default" color="#ffffff" >：山庄义务</font>
+CompleteMenu_49211=<font face="Default" color="#ffffff" >提交任务</font><font face="Default" color="#ffffff" >：山庄义务</font>
+CompleteMenu_49212=<font face="Default" color="#ffffff" >提交任务</font><font face="Default" color="#ffffff" >：寻找失窃食物</font>
+CompleteMenu_49213=<font face="Default" color="#ffffff" >提交任务</font><font face="Default" color="#ffffff" >：喂食</font>
+CompleteMenu_49214=<font face="Default" color="#ffffff" >提交任务</font><font face="Default" color="#ffffff" >：安抚猛兽</font>
+CompleteMenu_49215=<font face="Default" color="#ffffff" >提交任务</font><font face="Default" color="#ffffff" >：</font><font face="Default" color="#ffffff" >了解野兽外貌</font>
+CompleteMenu_49216=<font face="Default" color="#ffffff" >提交任务</font><font face="Default" color="#ffffff" >：</font><font face="Default" color="#ffffff" >了解野兽习性</font>
+CompleteMenu_49218=<font face="Default" color="#ffffff" >提交任务</font><font face="Default" color="#ffffff" >：</font><font face="Default" color="#ffffff" >清扫道路</font>
+CompleteMenu_49219=<font face="Default" color="#ffffff" >提交任务</font><font face="Default" color="#ffffff" >：</font><font face="Default" color="#ffffff" >寻找失踪动物</font>
+CompleteMenu_49220=<font face="Default" color="#ffffff" >提交任务</font><font face="Default" color="#ffffff" >：</font><font face="Default" color="#ffffff" >收集木材</font>
+CompleteMenu_49221=<font face="Default" color="#ffffff" >提交任务</font><font face="Default" color="#ffffff" >：</font><font face="Default" color="#ffffff" >带领小孩参观大象</font>
+CompleteMenu_49222=<font face="Default" color="#ffffff" >提交任务</font><font face="Default" color="#ffffff" >：</font><font face="Default" color="#ffffff" >埋葬兽骨</font>
+CompleteMenu_49223=<font face="Default" color="#ffffff" >提交任务</font><font face="Default" color="#ffffff" >：犒劳守卫</font>
+CompleteMenu_49224=<font face="Default" color="#ffffff" >提交任务</font><font face="Default" color="#ffffff" >：</font><font face="Default" color="#ffffff" >引荐江湖人</font>
+CompleteMenu_49225=<font face="Default" color="#ffffff" >提交任务</font><font face="Default" color="#ffffff" >：</font><font face="Default" color="#ffffff" >劝说路人</font>
+CompleteMenu_49226=<font face="Default" color="#ffffff" >提交任务</font><font face="Default" color="#ffffff" >：</font><font face="Default" color="#ffffff" >辨认脚印</font>
+CompleteMenu_49227=<font face="Default" color="#ffffff" >提交任务</font><font face="Default" color="#ffffff" >：</font><font face="Default" color="#ffffff" >治疗受伤路人</font>
+CompleteMenu_49228=<font face="Default" color="#ffffff" >提交任务</font><font face="Default" color="#ffffff" >：</font><font face="Default" color="#ffffff" >送信</font>
+CompleteMenu_49229=<font face="Default" color="#ffffff" >提交任务</font><font face="Default" color="#ffffff" >：</font><font face="Default" color="#ffffff" >任性的师兄</font>
+CompleteMenu_49230=<font face="Default" color="#ffffff" >提交任务</font><font face="Default" color="#ffffff" >：</font><font face="Default" color="#ffffff" >认真工作</font>
+CompleteMenu_49231=<font face="Default" color="#ffffff" >提交任务</font><font face="Default" color="#ffffff" >：</font><font face="Default" color="#ffffff" >懒惰的师兄</font>
+CompleteMenu_49232=<font face="Default" color="#ffffff" >提交任务</font><font face="Default" color="#ffffff" >：</font><font face="Default" color="#ffffff" >询问底细</font>
+CompleteMenu_49233=<font face="Default" color="#ffffff" >提交任务</font><font face="Default" color="#ffffff" >：</font><font face="Default" color="#ffffff" >运送粮食</font>
+CompleteMenu_49234=<font face="Default" color="#ffffff" >提交任务</font><font face="Default" color="#ffffff" >：</font><font face="Default" color="#ffffff" >询问药方</font>
+CompleteMenu_49235=<font face="Default" color="#ffffff" >提交任务</font><font face="Default" color="#ffffff" >：</font><font face="Default" color="#ffffff" >解救乞丐</font>
+CompleteMenu_49236=<font face="Default" color="#ffffff" >提交任务：收集蔬菜</font>
+CompleteMenu_49237=<font face="Default" color="#ffffff" >提交任务</font><font face="Default" color="#ffffff" >：</font><font face="Default" color="#ffffff" >切磋功夫</font>
+CompleteMenu_49238=<font face="Default" color="#ffffff" >提交任务</font><font face="Default" color="#ffffff" >：</font><font face="Default" color="#ffffff" >赶回兽栏</font>
+CompleteMenu_49239=<font face="Default" color="#ffffff" >提交任务</font><font face="Default" color="#ffffff" >：</font><font face="Default" color="#ffffff" >赶回兽栏</font>
+CompleteMenu_49240=<font face="Default" color="#ffffff" >提交任务</font><font face="Default" color="#ffffff" >：</font><font face="Default" color="#ffffff" >赶回兽栏</font>
+CompleteMenu_49241=<font face="Default" color="#ffffff" >提交任务：寻找幼鹰</font>
+CompleteMenu_49242=<font face="Default" color="#ffffff" >弟子已将天香茶林诸人狠狠教训了。估计很长一段时间，再不敢打金花腹蛇的主意。</font>
+CompleteMenu_49243=<font face="Default" color="#ffffff" >禀告四庄主，咱已和虎啸山庄的人打过招呼了。他们称赞四庄主的建议大有道理，但想到新名字颇为费事，只好拖后了。</font>
+CompleteMenu_49244=<font face="Default" color="#ffffff" >三庄主，在下幸不辱命。</font>
+CompleteMenu_49245=<font face="Default" color="#ffffff" >二庄主，天宝寨行事缜密，没留下半点线索，想必背后有高人指点。在下虽出手教训了他们，毕竟没能完成任务，请庄主治罪。</font>
+CompleteMenu_49246=<font face="Default" color="#ffffff" >提交任务：收集材料</font>
+CompleteMenu_49247=<font face="Default" color="#ffffff" >提交任务：</font><font face="Default" color="#ffffff" >驱赶掏蛋村民</font>
+CompleteMenu_49248=<font face="Default" color="#ffffff" >提交任务：丢失的礼盒</font>
+CompleteMenu_49249=<font face="Default" color="#ffffff" >提交任务：</font><font face="Default" color="#ffffff" >收集美酒佳肴</font>
+CompleteMenu_49250=<font face="Default" color="#ffffff" >完成任务：驱赶兽皮贩</font>
+CompleteMenu_49251=<font face="Default" color="#ffffff" >提交任务：攻克密探</font>
+CompleteMenu_49252=<font face="Default" color="#ffffff" >完成任务：驱赶偷猎人</font>
+CompleteMenu_49253=<font face="Default" color="#ffffff" >提交任务：收集</font><font face="Default" color="#ffffff" >药材</font>
+CompleteMenu_49300=<font face="Default" color="#ffffff" >阿水，究竟发生了什么？难道是我惹庄主……</font>
+CompleteMenu_49301=<font face="Default" color="#ffffff" >捉贼捉赃，没话可说了吧，金花鼠还给我！我可酌情考虑既往不咎。</font><font face="Default" color="#ffffff" >！</font>
+CompleteMenu_49302=<font face="Default" color="#ffffff" >大庄主，我回来了。</font>
+CompleteMenu_49303=<font face="Default" color="#ffffff" >大庄主，我回来了。</font>
+CompleteMenu_49304=<font face="Default" color="#ffffff" >大庄主我先退下了。</font>
+CompleteMenu_49305=<font face="Default" color="#ffffff" >我已经将陷阱还给他们了。</font>
+CompleteMenu_49306=<font face="Default" color="#ffffff" >有了这只熊仔，母熊必定手到擒来。小心点，小家伙暴躁的很。</font>
+CompleteMenu_49307=<font face="Default" color="#ffffff" >住手！你们，你们在干什么？</font>
+CompleteMenu_49308=<font face="Default" color="#ffffff" >（即便为了救人，杀熊依然是杀熊，人命便比熊命值钱么？村民固然做的不对，可熊胆入药，却也不是救了人么？从结果看，他们和我们，又有什么区别？）</font>
+CompleteMenu_49309=<font face="Default" color="#ffffff" >三庄主，您召集我有什么要事？</font>
+CompleteMenu_49310=<font face="Default" color="#ffffff" >！（这一刻，头脑里忽然空空荡荡的，什么话，什么行为都做不出来）</font>
+CompleteMenu_49311=<font face="Default" color="#ffffff" >四庄主，我来了。</font>
+CompleteMenu_49312=<font face="Default" color="#ffffff" >（这人站在这荒凉之处，六神无主）这位大哥，发生什么事了？</font>
+CompleteMenu_49313=<font face="Default" color="#ffffff" >狮王果有灵性。如您所说，除却猎人夫妇，几无死者。相比之下，人类却差强人意。几位庄主总说人性如何渺小，兽性如何伟大，我不以为然。今天终于有些开窍。</font>
+CompleteMenu_49314=<font face="Default" color="#ffffff" >先说好，阁下不是我喜欢的类型。叫我来有何事？</font>
+CompleteMenu_49315=<font face="Default" color="#ffffff" >现在可以说了吧？什么贡品，要这么故弄玄虚，神神秘秘？</font>
+CompleteMenu_49316=<font face="Default" color="#ffffff" >……（惭愧！他让我所采之药乃是断肠草。刚趁我打酒之时，他已将之碾碎，刚才便是将草汁混在自己酒碗中。我防着他害我，想不到却是给自己喝的。）</font>
+CompleteMenu_49317=<font face="Default" color="#ffffff" >五庄主，这最后一头猛兽终解决了。你总算没有让我失望。</font>
+CompleteMenu_49318=<font face="Default" color="#ffffff" >黄大哥，那些东西总够了吧？</font>
+CompleteMenu_49319=<font face="Default" color="#ffffff" >大庄主，伤势怎样了？</font>
+CompleteMenu_49320=<font face="Default" color="#ffffff" >大庄主，属下告退！</font>
+CompleteMenu_49321=<font face="Default" color="#ffffff" >师兄，你怎么在这里？</font>
+CompleteMenu_49322=<font face="Default" color="#ffffff" >师兄，他，他们竟然活熊取胆……</font>
+CompleteMenu_49323=<font face="Default" color="#ffffff" >大叔，你，你怎样了？</font>
+CompleteMenu_49324=<font face="Default" color="#ffffff" >二庄主，我已经按照符姐姐的吩咐，将那些闹事的村民送走了。不过仔细想这件事，却越来越不妥当，我百兽庄什么地方，用得着抢人家陷阱么……</font>
+CompleteMenu_49325=<font face="Default" color="#ffffff" >两位师兄在谈论什么如此开心？ </font>
+CompleteMenu_49327=<font face="Default" color="#ffffff" >五庄主，我想知道山庄狩猎兽王得原因。</font>
+CompleteMenu_49328=<font face="Default" color="#ffffff" >想不到其中有这样的缘故。恕我冒昧，山庄素来重兽轻人，何以却要为苏大哥破例？莫非因为亲疏之别？换做别的大仁大义之辈，山庄是否愿意为此破例？</font>
+CompleteMenu_49329=<font face="Default" color="#ffffff" >完成任务：</font><font face="Default" color="#ffffff" >争端开始</font>
+CompleteMenu_49330=<font face="Default" color="#ffffff" >我已经决心加入百兽庄。</font>
+CompleteMenu_49331=<font face="Default" color="#ffffff" >见过水师兄。</font>
+CompleteMenu_49332=<font face="Default" color="#ffffff" >完成任务。</font>
+CompleteMenu_49333=<font face="Default" color="#ffffff" >完成任务。</font>
+CompleteMenu_49334=<font face="Default" color="#ffffff" >完成任务。</font>
+CompleteMenu_49335=<font face="Default" color="#ffffff" >完成任务。</font>
+CompleteMenu_49336=<font face="Default" color="#ffffff" >完成任务。</font>
+CompleteMenu_49337=<font face="Default" color="#ffffff" >我意已决，自今天脱离山庄，绝无悔意！(完成此任务你将彻底退出百兽庄）</font>
+CompleteMenu_49338=<font face="Default" color="#ffffff" >庄主教导之责，属下永志不忘！今日一别，他日江湖再聚！(完成此任务你将成功出师）</font>
+CompleteMenu_49339=<font face="Default" color="#ffffff" >完成任务：</font><font face="Default" color="#ffffff" >疯癫妇人</font>
+CompleteMenu_49340=<font face="Default" color="#ffffff" >完成任务：</font><font face="Default" color="#ffffff" >雄狮之怒</font>
+CompleteMenu_49341=<font face="Default" color="#ffffff" >完成任务：</font><font face="Default" color="#ffffff" >吊睛猛虎</font>
+CompleteMenu_49342=<font face="Default" color="#ffffff" >完成任务：</font><font face="Default" color="#ffffff" >山庄危机</font>
+CompleteMenu_49343=<font face="Default" color="#ffffff" >完成任务。</font>
+CompleteMenu_49344=<font face="Default" color="#ffffff" >五庄主，这最后一头猛兽终解决了。你总算没有让我失望。</font>
+CompleteMenu_49410=<font face="Default" color="#ffffff" >完成任务。</font>
+CompleteMenu_49411=<font face="Default" color="#ffffff" >完成任务。</font>
+CompleteMenu_49412=<font face="Default" color="#ffffff" >完成任务。</font>
+CompleteMenu_49413=<font face="Default" color="#ffffff" >完成任务。</font>
+CompleteMenu_49414=<font face="Default" color="#ffffff" >完成任务。</font>
+CompleteMenu_49415=<font face="Default" color="#ffffff" >完成任务。</font>
+CompleteMenu_49416=<font face="Default" color="#ffffff" >完成任务</font>
+accept_49201_1=<font face="Default" color="#ffffff" >这里正好有几个村民的请求需要处理。</font><font face="Default" color="#ffffff" >麻烦你代表山庄处理一下。</font>
+accept_49202_1=<font face="Default" color="#ffffff" >这里正好有几个村民的请求需要处理。麻烦你代表山庄处理一下。</font>
+accept_49203_1=<font face="Default" color="#ffffff" >这里正好有几个村民的请求需要处理。麻烦你代表山庄处理一下。</font>
+accept_49204_1=<font face="Default" color="#ffffff" >这里正好有几个村民的请求需要处理。麻烦你代表山庄处理一下。</font>
+accept_49205_1=<font face="Default" color="#ffffff" >这里正好有几个村民的请求需要处理。麻烦你代表山庄处理一下。</font>
+accept_49206_1=<font face="Default" color="#ffffff" >这里正好有几个村民的请求需要处理。麻烦你代表山庄处理一下</font><font face="Default" color="#ffffff" >。</font>
+accept_49207_1=<font face="Default" color="#ffffff" >这里正好有几个村民的请求需要处理。麻烦你代表山庄处理一下。</font>
+accept_49208_1=<font face="Default" color="#ffffff" >这里正好有几个村民的请求需要处理。麻烦你代表山庄处理一下。</font>
+accept_49209_1=<font face="Default" color="#ffffff" >这里正好有几个村民的请求需要处理。麻烦你代表山庄处理一下</font><font face="Default" color="#ffffff" >。</font>
+accept_49210_1=<font face="Default" color="#ffffff" >这里正好有几个村民的请求需要处理。麻烦你代表山庄处理一下。</font>
+accept_49211_1=<font face="Default" color="#ffffff" >这里正好有几个村民的请求需要处理。麻烦你代表山庄处理一下。</font>
+accept_49212_1=<font face="Default" color="#ffffff" >厨房的厨子告诉我说，厨房的</font><font face="Default" color="#ffffff" >肉块被山庄内的野兽偷走了。你去帮助他把肉块寻回来。</font>
+accept_49213_1=<font face="Default" color="#ffffff" >山庄饲养的毒物还有几只需要喂食，你拿着这几份</font><font face="Default" color="#ffffff" >饲料去帮忙喂食下。</font>
+accept_49214_1=<font face="Default" color="#ffffff" >山庄内的猛兽几日情绪不太稳定，很容易伤人</font><font face="Default" color="#ffffff" >。</font><font face="Default" color="#ffffff" >你去</font><font face="Default" color="#ffffff" >照看下</font><font face="Default" color="#ffffff" >看那边那两只</font><font face="Default" color="#ffffff" >……</font>
+accept_49215_1=<font face="Default" color="#ffffff" >庄主有令，让大家前去聆听他讲授野兽外貌的知识，你速速前去，不要误了时辰。</font>
+accept_49216_1=<font face="Default" color="#ffffff" >庄主有令，让大家前去聆听他讲授野兽外貌的知识，你速速前去，不要误了时辰。</font>
+accept_49218_1=<font face="Default" color="#ffffff" >山庄外的道路上不知为何，撒了很多碎石块，人畜容易被它扎脚，你快去扫干净。</font>
+accept_49219_1=<font face="Default" color="#ffffff" >万兽牢传来消息，走丢了一只熊仔，快去把它找回来，这附近猛兽还是很多的……</font>
+accept_49220_1=<font face="Default" color="#ffffff" >山庄中遗留了很多木材，你去把它们收集起来，</font><font face="Default" color="#ffffff" >这些木材还另有他用。</font>
+accept_49221_1=<font face="Default" color="#ffffff" >山庄守卫来报，附近的孩子在山庄门口等着去看大象，</font><font face="Default" color="#ffffff" >你快带着他们吧。</font>
+accept_49222_1=<font face="Default" color="#ffffff" >山庄中有很多死去动物的兽骨，希望你能够把它们埋葬到葬兽场的枯树下。</font>
+accept_49223_1=<font face="Default" color="#ffffff" >我这有点刚从厨房送来的酒水，麻烦</font><font face="Default" color="#ffffff" >你把这些酒水带给</font><font face="Default" color="#ffffff" >两位守卫吧。</font>
+accept_49224_1=<font face="Default" color="#ffffff" >大庄主现在有时间面见那些江湖人士了，你速去找到他们，把话带到。</font><font face="Default" color="#ffffff" >他们平时多在山庄内闲晃。</font>
+accept_49225_1=<font face="Default" color="#ffffff" >山庄外常有人拾取兽皮虎骨，你去帮我劝说他们离开。</font>
+accept_49226_1=<font face="Default" color="#ffffff" >昨夜厨房失窃，被偷走了好多蔬菜。一番排查就发现了这么几个模糊的脚印，</font><font face="Default" color="#ffffff" >你速去辨认一下。</font>
+accept_49227_1=<font face="Default" color="#ffffff" >你来的正好，山庄外有一路人被熊伤到了，你速速找狩猎师要份药膏，前去救人。</font>
+accept_49228_1=<font face="Default" color="#ffffff" >三庄主</font><font face="Default" color="#ffffff" >有一封信，需要立马寄出去，山庄中有信喉。你可以用它们寄信。</font>
+accept_49229_1=<font face="Default" color="#ffffff" >庄主</font><font face="Default" color="#ffffff" >有个徒弟名曰李师，离开山庄多日了，希望你去帮我找到他，他应该就在山庄附近。</font>
+accept_49230_1=<font face="Default" color="#ffffff" >山庄近日在修补万兽牢的兽栏，那些工匠总是在没人的时候偷懒</font><font face="Default" color="#ffffff" >睡觉</font><font face="Default" color="#ffffff" >，</font><font face="Default" color="#ffffff" >发现了就去把他们弄醒。</font>
+accept_49231_1=<font face="Default" color="#ffffff" >庄主</font><font face="Default" color="#ffffff" >有个徒弟名曰杨雄，离开山庄多日了，希望你去帮我找到他，他应该就在山庄附近。</font>
+accept_49232_1=<font face="Default" color="#ffffff" >山庄来了两位黑衣人，神色慌张。你去弄清楚他们来到山庄究竟有何目的。</font>
+accept_49233_1=<font face="Default" color="#ffffff" >丐帮近日开仓救民，但是灾民不断恐怕丐帮的粮仓也要见底了，你快带着运粮弟子去丐帮！最近世道不好，路上小心。</font>
+accept_49234_1=<font face="Default" color="#ffffff" >竺献的父亲前些日子被毒蜘蛛咬伤，中了蛛毒。如今性命危在旦夕，你去找山庄内的养蛛弟子要一份解药。</font>
+accept_49235_1=<font face="Default" color="#ffffff" >守卫来报，</font><font face="Default" color="#ffffff" >山庄外面似乎传来阵阵呼救声，</font><font face="Default" color="#ffffff" >你速去探查一下。</font>
+accept_49236_1=<font face="Default" color="#ffffff" >山庄厨房需要收集蔬菜，你去到附近集市里购买一些蔬菜来。</font>
+accept_49237_1=<font face="Default" color="#ffffff" >你来山庄也有数日，有时间去和师兄们切磋一下功夫。</font>
+accept_49238_1=<font face="Default" color="#ffffff" >山庄中很多动物逃出了兽栏，你速去帮忙抓回那些动物。</font>
+accept_49239_1=<font face="Default" color="#ffffff" >山庄中很多动物逃出了兽栏，你速去帮忙抓回那些动物。</font>
+accept_49240_1=<font face="Default" color="#ffffff" >山庄中很多动物逃出了兽栏，你速去帮忙抓回那些动物。</font>
+accept_49241_1=<font face="Default" color="#ffffff" >失去了巨鹰保护的幼鹰很容易成为其他野兽的目标。</font><font face="Default" color="#ffffff" >你速速去那山头附近，看看有没有落单的幼鹰。</font>
+accept_49242_1=<font face="Default" color="#ffffff" >闻据此千里之外的巴蜀之地有座天香茶林，其场主萃取‘金花腹蛇’之毒炼出极易上瘾的‘神仙茶’，控制了不少好汉。植茶晒茶乃至制毒咱都不管，可竭泽而渔，使蛇几乎绝迹，便不能袖手旁观了。你打咱的旗号，去给她们些教训。</font>
+accept_49243_1=<font face="Default" color="#ffffff" >多年不行走江湖，想不到小小的武当山脚，竟出了一座虎啸山庄。叫什么不好，偏偏叫个‘虎’字，如此猖狂，有咱们允许么？五弟知道了定然没什么好脸色，你去让他们改个名字，干脆直接来硬的。</font>
+accept_49244_1=<font face="Default" color="#ffffff" >前几天咱们一支队伍关外走货，途径鸡鸣驿，竟被一帮当地土匪截了下来，明知咱是百兽庄，还敢扣人勒索，后来得关外龙头老大说项，才施施然将将人放回来，货物却全留下了。大哥说江湖行多一事不如少一事，我却咽不下这口气，家门口出了这等事，让百兽庄的面子往哪搁！只恨自己毕竟是史家老三，不能亲自去教训那帮贼子。</font>
+accept_49245_1=<font face="Default" color="#ffffff" >上次巴蜀走货取道唐门，在那儿做了几天客，人家对咱也倒客气。回程路上，却被一帮用唐门暗器的人袭击，折了几个人。听闻赠与唐门的十几匹健马也发疯而死。俺不傻，唐门没这个胆子敢在自己地头上动手，必是有人想引咱们互斗。听说当地有个天宝寨，和唐门关系不怎样，你给我去探一探，若属实，俺就去扒了他们的寨子！</font>
+accept_49246_1=<font face="Default" color="#ffffff" >山庄正在赶制一批陷阱，但是缺少一些材料。需要去收集一些</font><font face="Default" color="#ffffff" >。</font>
+accept_49247_1=<font face="Default" color="#ffffff" >那些村民依旧没日没夜的在掏鹰巢中的鹰蛋。不能让他们这样继续下去，去驱赶走他们。</font>
+accept_49248_1=<font face="Default" color="#ffffff" >山庄准备了一批礼盒赠送给江湖豪杰，但是今天清点的时候发现少了几个，一番巡查下来，估计是被鹰叼走了。你快去寻回来。</font>
+accept_49249_1=<font face="Default" color="#ffffff" >二庄主平日里最喜欢美酒和香牛肉干，每次都要把厨房的美酒和牛肉干都吃完。</font><font face="Default" color="#ffffff" >你快去帮忙准备几份。</font>
+accept_49250_1=<font face="Default" color="#ffffff" >山庄外总有许多兽皮贩游荡。几番劝说都没有效果。你去将他们彻底驱赶出去。</font>
+accept_49251_1=<font face="Default" color="#ffffff" >庄外常有密宗密探窥探，不知道他们在谋划什么，你速速去将他们收拾掉。</font>
+accept_49252_1=<font face="Default" color="#ffffff" >山庄外常有偷猎人出没，经常趁着山庄弟子不注意的时候，猎杀山庄内的野兽。实在可恨，你去驱赶走他们。</font>
+accept_49253_1=<font face="Default" color="#ffffff" >山庄弟子平日训练猛兽，经常受伤。山庄内近日药品缺乏，你速去收集一些以备不时之需。</font>
+accept_49300_1=<font face="Default" color="#ffffff" >我和你说了多少次，叫水哥！问我就对了！一句话，去除你心中疑惑。这问题，不重要！看，你是不是豁然开朗？……好吧。大庄主就在厅中，要不你去问问他老人家？</font>
+accept_49301_1=<font face="Default" color="#ffffff" >大庄主还在气头上，这金花鼠是他千辛万苦找回来的，必有大用，若非你得他赏识，才不会交你照看，你还是别进去添乱，想想如何把金花鼠寻回来才是正经！还有，叫我水哥……</font>
+accept_49302_1=<font face="Default" color="#ffffff" >这山顶栖息着世所罕见的红顶巨鹰，性子温顺，嗜食野鼠，少与人争。然鹰蛋味美，大城市中的达官显贵食之后赞不绝口，愿出重金采购。于是此地村民贪图暴利，纷纷弃耕采蛋，一夜暴富者不知凡几。巨鹰数量由此锐减，渐有绝种之势。庄主几次与村民交涉不果，一怒之下，派我等把守上山必经之路，禁止村民采蛋，总算遏制。可惜防不胜防，有人财迷心窍，竟不惜攀后山绝壁而上，摔死者不知凡几，却是我等无能为力的了。人为财死，鸟为食亡，承不余欺也！看，这些蠢妇蠹民，不思悔过，仍在为蝇头之利和我叫嚣，可悲啊可悲！对了，你上山来所为何事？</font>
+accept_49303_1=<font face="Default" color="#ffffff" >这孩子虽然贪玩但是不会这么胆大，跑到这荒山山顶来，告诉我究竟怎么回事？</font>
+accept_49304_1=<font face="Default" color="#ffffff" >这也并不能全怪你，其中必然也有很多的误会。鹰蛋之争早将百兽庄推到了风口浪尖，你只不过是压在上面的最后一根稻草。现在，你总该知道百兽庄要与江湖保持距离的原因了。世人多以己之心度人，总以为我百兽庄要独揽暴利，如今他们总算如愿以偿，成功将我等排挤出去，哎。</font>
+accept_49305_1=<font face="Default" color="#ffffff" >他们被二庄主让进了大厅，过了这么久，场面一定很僵。我有种不好的预感。</font>
+accept_49306_1=<font face="Default" color="#ffffff" >闭嘴！你懂个屁！一帮贪婪无义之徒，还好意思来山庄胡搅蛮缠！打伤两个孙子是便宜他们，早知今日来搅闹，老子一手一个都丢到涧子里喂蛤蟆！还有你，瞎扯什么蛋，跟这帮龟孙子讲什么道理，乱棍子打出去都是客气的，还送钱送药，归还东西，把咱们百兽庄的脸都丢尽了！</font>
+accept_49307_1=<font face="Default" color="#ffffff" >大恩不言谢，壮士于我赵家庄有大恩，到咱赵家庄，让咱村婆娘们做菜烫酒，好好招待恩公！</font>
+accept_49308_1=<font face="Default" color="#ffffff" >你本是出于善意，但善意被人利用，比恶意更加可怕。好了，残局交于我们处理。受伤村民会送返村庄，纵然十恶不赦，我们也没有夺人性命的权利，这世道有多么不公！可怜这些熊，是再也活不了，只能给它们一个痛快。二庄主很生气，已经先回去了，着你带着熊胆立刻返回山庄。</font>
+accept_49309_1=<font face="Default" color="#ffffff" >我我我可是黄瓜大爷们，你莫要污了咱的清白，这迎风流泪的毛病怎也治不好，我什么也不知道，你若想认识她，自己去问问？</font>
+accept_49310_1=<font face="Default" color="#ffffff" >不在月底，便在下月初。这豹王狡猾灵活，行踪诡秘，但凭我的追踪术找它倒也不难，但要活捉它便大大不易，前几次均被它逃走。我已着人去打一些特殊的陷阱器具，这几日便能交货。待咱们练习纯熟，便可出发了。</font>
+accept_49311_1=<font face="Default" color="#ffffff" >我，我……小翠，孩，孩子……（一口气接不上来，死不瞑目）</font>
+accept_49312_1=<font face="Default" color="#ffffff" >哼，哈，哈哈哈哈！大哥确没有诳我。这么短时间便能掌握驯狮之术，果然有一手!不枉费我在五弟面前夸下海口。</font>
+accept_49313_1=<font face="Default" color="#ffffff" >两月前上山采药的老客被咬死，目击者说是一头通体通红，狮不像狮，犬不像犬的怪物。百兽庄的那大汉告诫我们短期内莫要入山。我们却觉得不对，动不动就封山，若不进山，难道咱喝西北风么？老人揣测，莫不是去年烧山作的太绝，狮子化鬼来索命？于是绑了那夫妇，要放血祭山。那二人慌乱，信誓旦旦说只消让他们做场法事便可避祸，我们竟信了，给他们一笔巨款做法事。事后倒也安生了几日，采药人也安全归来。谁知昨夜那狮灵闯进村子，见人就咬，血流成河啊！再找那两贼子哪里还有踪影？哼，白吃白喝了一年，连替死鬼都不愿作，还是不是人！</font>
+accept_49314_1=<font face="Default" color="#ffffff" >好！雷厉风行。我这边却还要做些准备。先提个醒，这只虎与之前所有猛兽均不相同，连我百兽庄亦无法追踪，无法打败。你断不可轻敌，否则……</font>
+accept_49315_1=<font face="Default" color="#ffffff" >错。错。错。若非贡品，百兽庄又岂会和村庄起冲突？若非贡品，我一个本村人，为何要几次三番不顾危险，向百兽庄求助？少侠你告诉我，百兽庄对捕猎此兽，是否有把握？</font>
+accept_49316_1=<font face="Default" color="#ffffff" >（表情苦涩）不错。五六年前，不知哪里来只大虎掠食人畜。村中大巫言此虎乃山神化身，欲消灾免祸，须供奉芳龄处子，方可保一年安泰。穷乡僻壤，愚昧不化，村人虽不忍，最后仍然认同。果然大虎消停。此后年年舍人求平安。百兽庄也曾派人阻供猎虎，竟然功败垂成，而村子隔天便遭了报复。村子和百兽庄便这么结下了梁子……少侠，在下口渴，心绪不宁，能否到酒铺取些酒来压压惊？</font>
+accept_49317_1=<font face="Default" color="#ffffff" >酒尽，人散。今日我与少侠一见如故，不巧在下另有要事，只得少陪了。实不相瞒，大巫算到百兽庄会来阻止，早将贡女自小路运走，而进贡地点亦选到别处。真不知巨虎每次如何寻到地点，想必有一套召唤之法。少侠还是快去通知山庄搜山，希望这次能制住大虎，还我村庄太平，枉死少女们一个公道。</font>
+accept_49318_1=<font face="Default" color="#ffffff" >……哈！想不到你终能认识到这点！大哥他们眼光不错。当然还是咱调教的好。如今五种材料已然备齐，咱总算能够报答恩公了！大哥他们定然高兴的很，哈！我要去告诉大哥！咳咳（吐血，咽下去）</font>
+accept_49319_1=<font face="Default" color="#ffffff" >……这坛，这坛，还有这坛也是！这些酒味道厚醇，异香弥散，我怎么早没有察觉！你，你！你这些酒是哪寻来的？好胆！敢在我百兽庄地盘撒野！你也是朝廷派来的奸细！</font>
+accept_49320_1=<font face="Default" color="#ffffff" >所谓善恶，全是对人而言，以此衡量畜生，本身便是不公。人食猪羊，策牛马，便说它们是善；畏虎狼，惧熊豹，便说他们是恶。万物求生，你我、牲畜莫不相同。牛马食草，虎狼食人，并没好坏；人食猪羊，杀熊豹，也没过错。只是，兽可噬人，人亦可噬人。兽噬人乃为生存，人噬人却为贪婪。兽不知恶而为恶，人知不善而怙为，唉。天作孽，犹可恕，自作孽，不可留！</font>
+accept_49324_1=
+accept_49325_1=<font face="Default" color="#ffffff" >一时半会儿，也不指望你能明白。你以为咱们便愿意无端端戕屠么？还不是为了那五味‘王药’。好了，不和你扯淡。那头熊仔目睹了亲人被害，对人类必定恨入骨髓，你若要照料，我不拦你，但若有一朝始乱终弃，我便要狠狠治你的罪！我这里你已混了不少时日，从明起儿你就跟着老三，接触一下山庄的皮毛生意，好好体会下山庄和外人，有什么不同！</font>
+accept_49327_1=<font face="Default" color="#ffffff" >嘿！就知道你会有此一问。不过咱这次猎狮表现的实在太差，没脸给你答案。胜就是胜，败就是败，我史羽施伙着你才将老朋友击倒，不是好汉行径，无话可说！今日起俺要闭门思过。你带着我的手札去找老五，替我助他猎最后的目标。你想知道的，他都会告诉你。</font>
+accept_49328_1=<font face="Default" color="#ffffff" >呵，竟然还来威胁我么。我最欣赏有胆有主见的少年人，我的老虎也很喜欢，要不要给它改善一下伙食……还是算了。这虽是秘密，却已没必要向你隐瞒。恐怕你已猜测了许久，也或多或少从几个嘴无遮拦的兄弟口中听到些。告诉你无妨。</font>
+accept_49332_1=<font face="Default" color="#ffffff" >这里有一</font><font face="Default" color="#ffffff" >些山庄杂事</font><font face="Default" color="#ffffff" >需要你去完成。</font>
+accept_49333_1=<font face="Default" color="#ffffff" >这里有一</font><font face="Default" color="#ffffff" >些山庄杂事</font><font face="Default" color="#ffffff" >需要你去完成。</font>
+accept_49334_1=<font face="Default" color="#ffffff" >这里有一</font><font face="Default" color="#ffffff" >些山庄杂事</font><font face="Default" color="#ffffff" >需要你去完成。</font>
+accept_49335_1=<font face="Default" color="#ffffff" >这里有一</font><font face="Default" color="#ffffff" >些山庄杂事</font><font face="Default" color="#ffffff" >需要你去完成。</font>
+accept_49336_1=<font face="Default" color="#ffffff" >这里有一</font><font face="Default" color="#ffffff" >些山庄杂事</font><font face="Default" color="#ffffff" >需要你去完成。</font>
+accept_49337_1=<font face="Default" color="#ffffff" >好胆！叛出山庄？哼，半途而废的蠢物，原也不值得挽留。不过百兽庄立庄数百年，从没有人敢藐视我庄的理念，更没有人能大放厥词，说走便走的！</font>
+accept_49338_1=<font face="Default" color="#ffffff" >自第一次见到你，便知你天性自由自在，绝不会束缚在一时一地。我不会阻止你，但江湖凶险，人心难测。你真的做好准备，重入江湖了嘛？</font>
+accept_49343_1=<font face="Default" color="#ffffff" >山庄探子来报，有一头凶猛野兽出现。你代表山庄速速去把它击败。</font>
+accept_49410_1=<font face="Default" color="#ffffff" >现有王蛇盘踞丐帮，速速前去剿灭。</font>
+accept_49411_1=<font face="Default" color="#ffffff" >现有</font><font face="Default" color="#ffffff" >青眼虎王</font><font face="Default" color="#ffffff" >盘踞</font><font face="Default" color="#ffffff" >金陵</font><font face="Default" color="#ffffff" >，速速前去剿灭。</font>
+accept_49412_1=<font face="Default" color="#ffffff" >现有</font><font face="Default" color="#ffffff" >毒蝎盘踞极乐谷</font><font face="Default" color="#ffffff" >，速速前去剿灭。</font>
+accept_49413_1=<font face="Default" color="#ffffff" >现有通臂猿祸害</font><font face="Default" color="#ffffff" >乡里</font><font face="Default" color="#ffffff" >，速速前去剿灭</font><font face="Default" color="#ffffff" >。</font>
+accept_49414_1=<font face="Default" color="#ffffff" >现有</font><font face="Default" color="#ffffff" >七步蝮龟</font><font face="Default" color="#ffffff" >祸害乡里，速速前去剿灭。</font>
+accept_49415_1=<font face="Default" color="#ffffff" >现有</font><font face="Default" color="#ffffff" >红爪雄鹰</font><font face="Default" color="#ffffff" >祸害乡里，速速前去剿灭。</font>
+accept_49416_1=<font face="Default" color="#ffffff" >现有</font><font face="Default" color="#ffffff" >吊睛猛虎</font><font face="Default" color="#ffffff" >祸害乡里，速速前去剿灭。</font>
+complete_49201=<font face="Default" color="#ffffff" >嗯，干的不错，我会回禀庄主的。</font>
+complete_49202=<font face="Default" color="#ffffff" >嗯，干的不错，我会回禀庄主的。</font>
+complete_49203=<font face="Default" color="#ffffff" >嗯，干的不错，我会回禀庄主的。</font>
+complete_49204=<font face="Default" color="#ffffff" >嗯，干的不错，我会回禀庄主的。</font>
+complete_49205=<font face="Default" color="#ffffff" >嗯，干的不错，我会回禀庄主的。</font>
+complete_49206=<font face="Default" color="#ffffff" >嗯，干的不错，我会回禀庄主的。</font>
+complete_49207=<font face="Default" color="#ffffff" >嗯，干的不错，我会回禀庄主的。</font>
+complete_49208=<font face="Default" color="#ffffff" >嗯，干的不错，我会回禀庄主的。</font>
+complete_49209=<font face="Default" color="#ffffff" >嗯，干的不错，我会回禀庄主的。</font>
+complete_49210=<font face="Default" color="#ffffff" >嗯，干的不错，我会回禀庄主的。</font>
+complete_49211=<font face="Default" color="#ffffff" >嗯，干的不错，我会回禀庄主的。</font>
+complete_49212=<font face="Default" color="#ffffff" >嗯，干的不错，我会回禀庄主的。</font>
+complete_49213=<font face="Default" color="#ffffff" >嗯，干的不错，我会回禀庄主的。</font>
+complete_49214=<font face="Default" color="#ffffff" >嗯，干的不错，我会回禀庄主的。</font>
+complete_49215=<font face="Default" color="#ffffff" >嗯，干的不错，我会回禀庄主的。</font>
+complete_49216=<font face="Default" color="#ffffff" >嗯，干的不错，我会回禀庄主的。</font>
+complete_49218=<font face="Default" color="#ffffff" >嗯，干的不错，我会回禀庄主的。</font>
+complete_49219=<font face="Default" color="#ffffff" >嗯，干的不错，我会回禀庄主的。</font>
+complete_49220=<font face="Default" color="#ffffff" >嗯，干的不错，我会回禀庄主的。</font>
+complete_49221=<font face="Default" color="#ffffff" >嗯，干的不错，我会回禀庄主的。</font>
+complete_49222=<font face="Default" color="#ffffff" >嗯，干的不错，我会回禀庄主的。</font>
+complete_49223=<font face="Default" color="#ffffff" >嗯，干的不错，我会回禀庄主的。</font>
+complete_49224=<font face="Default" color="#ffffff" >嗯，干的不错，我会回禀庄主的。</font>
+complete_49225=<font face="Default" color="#ffffff" >嗯，干的不错，我会回禀庄主的。</font>
+complete_49226=<font face="Default" color="#ffffff" >嗯，干的不错，我会回禀庄主的。</font>
+complete_49227=<font face="Default" color="#ffffff" >嗯，干的不错，我会回禀庄主的。</font>
+complete_49228=<font face="Default" color="#ffffff" >嗯，干的不错，我会回禀庄主的。</font>
+complete_49229=<font face="Default" color="#ffffff" >嗯，干的不错，我会回禀庄主的。</font>
+complete_49230=<font face="Default" color="#ffffff" >嗯，干的不错，我会回禀庄主的。</font>
+complete_49231=<font face="Default" color="#ffffff" >嗯，干的不错，我会回禀庄主的。</font>
+complete_49232=<font face="Default" color="#ffffff" >嗯，干的不错，我会回禀庄主的。</font>
+complete_49233=<font face="Default" color="#ffffff" >嗯，干的不错，我会回禀庄主的。</font>
+complete_49234=<font face="Default" color="#ffffff" >嗯，干的不错，我会回禀庄主的。</font>
+complete_49235=<font face="Default" color="#ffffff" >嗯，干的不错，我会回禀庄主的。</font>
+complete_49236=<font face="Default" color="#ffffff" >嗯，干的不错，我会回禀庄主的。</font>
+complete_49237=<font face="Default" color="#ffffff" >嗯，干的不错，我会回禀庄主的。</font>
+complete_49238=<font face="Default" color="#ffffff" >嗯，干的不错，我会回禀庄主的。</font>
+complete_49239=<font face="Default" color="#ffffff" >嗯，干的不错，我会回禀庄主的。</font>
+complete_49240=<font face="Default" color="#ffffff" >嗯，干的不错，我会回禀庄主的。</font>
+complete_49241=<font face="Default" color="#ffffff" >嗯，干的不错，我会回禀庄主的。</font>
+complete_49242=<font face="Default" color="#ffffff" >小小一座茶林，仗着无人束缚，便要无法无天了么。且看他们日后会不会收敛。你做得很好，下去歇息吧！</font>
+complete_49243=<font face="Default" color="#ffffff" >这么笨，叫‘狮啸山庄’不就好了么！你怎么办事的！</font>
+complete_49244=<font face="Default" color="#ffffff" >这件事天知地知你知我知，当然那帮孙子也知道。可惜哑巴吃黄莲有苦说不出，一座山寨却连我百兽庄一个小弟子都打不过，以后在江湖如何立足！哈哈！我要去告诉大哥他们，他们嘴上不说，心里必定高兴的很。</font>
+complete_49245=<font face="Default" color="#ffffff" >……想不到真有人打咱们主意，哼！如此一来我们便难以亲自出手，天宝寨，这一次算你走运。好了，你辛苦，下去休息吧，小小事情别放在心上，总有天会叫他们血债血偿！</font>
+complete_49246=<font face="Default" color="#ffffff" >嗯，干的不错，我会回禀庄主的。</font>
+complete_49247=<font face="Default" color="#ffffff" >嗯，干的不错，我会回禀庄主的。</font>
+complete_49248=<font face="Default" color="#ffffff" >嗯，干的不错，我会回禀庄主的。</font>
+complete_49249=<font face="Default" color="#ffffff" >嗯，干的不错，我会回禀庄主的。</font>
+complete_49250=<font face="Default" color="#ffffff" >嗯，干的不错，我会回禀庄主的。</font>
+complete_49251=<font face="Default" color="#ffffff" >嗯，干的不错，我会回禀庄主的</font><font face="Default" color="#ffffff" >。</font>
+complete_49252=<font face="Default" color="#ffffff" >嗯，干的不错，我会回禀庄主的</font><font face="Default" color="#ffffff" >。</font>
+complete_49253=<font face="Default" color="#ffffff" >嗯，干的不错，我会回禀庄主的。</font>
+complete_49300=<font face="Default" color="#ffffff" >是水哥！和你没关系啦！刚才有人向庄主禀告，山庄内饲养的金花鼠不见了！刚才有人瞧见庄外的小孩子鬼鬼祟祟，定是他们拿去了。奇怪，山庄看守这么严，他们怎么进来的呢？大庄主很生气，你现在最好不要进去。</font>
+complete_49301=<font face="Default" color="#ffffff" >小金金是自愿的！再说凭什么说它是你的，你叫它，它答应么？我偏不给你，你能怎样？别过来，我哭了哦？我真哭了哦？</font>
+complete_49302=<font face="Default" color="#ffffff" >嗯……，看来你有些话想跟我说？</font>
+complete_49303=<font face="Default" color="#ffffff" >嗯……</font><font face="Default" color="#ffffff" >，看来你有些话想跟我说？</font>
+complete_49304=<font face="Default" color="#ffffff" >或许会有醒悟的那天，但那时，鹰或许已然绝迹，百兽庄也已成为历史，纵要道歉，却又向谁去说？算了，这些道理，你终有一天会明白。二庄主在为狩猎一头巨熊筹备人手。你已跟了我许久，该学的已都学了，余下这几日你就去帮他吧，或许对于人性，兽性能有些新的认识。</font>
+complete_49305=<font face="Default" color="#ffffff" >哎，终于把他们</font><font face="Default" color="#ffffff" >说服了</font><font face="Default" color="#ffffff" >……</font>
+complete_49306=<font face="Default" color="#ffffff" >不愧是百兽庄的人。你的诚意我们有目共睹，从今以后，你就是咱们赵家庄永远的朋友！一切准备妥当，朋友，随我们捕熊去！</font>
+complete_49307=<font face="Default" color="#ffffff" >我道是谁，这不就是那个帮忙猎熊的臭小子么？亏了你捉住熊王，这些熊才乖乖的束手就擒！干嘛</font><font face="Default" color="#ffffff" >瞪</font><font face="Default" color="#ffffff" >着我，怎么，见过杀熊取胆，没见过活熊取胆吧？</font>
+complete_49308=<font face="Default" color="#ffffff" >看你一脸不服，是不是心中骂我虚伪？哼。老子取胆，也是为救恩人性命的无奈之举，大丈夫有恩报恩，爱憎分明，纵然有违祖训，却也顾不得了。何况我们要捕的，只是熊王，若下刀准确，原可让它毫无痛苦。如今它广受凌辱而死，毫无尊严，却不是对生命大大的不敬？</font>
+complete_49309=<font face="Default" color="#ffffff" >你在我手下已有些时日，总是做些贩皮子之类的生意，定是憋坏了。听说之前还对我山庄颇有微词，如今不知感想如何——你不必答我，我没兴趣知道。老二这大嘴巴，向你说过咱们山庄须猎五兽的事，对不对？无论何种原因，你都卷与其中，且表现的似模似样。如今我要去猎一头豹子，缺一两个得力之人，你有没有兴趣？</font>
+complete_49310=<font face="Default" color="#ffffff" >（皮毛如缎般光滑，硕大而健美的身躯，如流线般浑然天成。一双铜铃般的眼睛，冷冷地瞪着你，喉咙中发出低沉而不屑的‘嗬’‘嗬’的示威声。在它面前，你只是个毫无威胁的入侵者）</font>
+complete_49311=<font face="Default" color="#ffffff" >鹰，熊，豹，狮，虎，五得其三，你确是福将。三位兄长赞不绝口，我却不以为然。百兽庄要的是实力，不是运气。若然斗兽中心存侥幸，必死无疑，且是对对手大大不敬。听过你前几战的细节，现在的你，和我说话，还不够资格。给我滚。给你几月时间，届时达不到我要求，就给我有多远滚多远。</font>
+complete_49312=<font face="Default" color="#ffffff" >狮灵，是狮灵！当初烧了山，狮灵来报复了！狮灵爷爷，狮灵奶奶，这，这不关我们的事啊！是那两个人干的，我们是无辜的啊，要吃去吃他们……</font>
+complete_49313=<font face="Default" color="#ffffff" >啧，顽石也有点头日，野兽凶猛，却哪里凶的过险恶人心？老子活了这么多年，吃的饭多过你食的盐，全山庄便只你这个蠢蛋在烦恼，纵然觉得野兽千般好，也还比不上蠹人随口放的一个屁。上了这么多次当，人性有多次，好该有点醒悟吧？</font>
+complete_49314=<font face="Default" color="#ffffff" >……在下听了少侠与村长对话。您既为那老虎而来，但为何对最关键之事——贡品，避而不谈？</font>
+complete_49315=<font face="Default" color="#ffffff" >那贡品，少侠，是活人啊。</font>
+complete_49316=<font face="Default" color="#ffffff" >一往情深又有何用？她一心为村求死，绝不会随我私奔；那怪物强到你们百兽庄都束手无策；此时此刻，我已走投无路。壮士！酒是好酒，人是好人。今日一吐心中苦闷，再无遗憾。相逢何必曾相识，陪我干了这杯如何？</font>
+complete_49317=<font face="Default" color="#ffffff" >……这句话，不应该我对你说么？也罢。今日了却我一桩心事。总说为虎作伥，虎常被以为乃世上最恶之物，今次连我亦相信它是祸首，村人是虎伥，岂知大错特错。那大巫利用老虎满足自己污秽的欲望，虎不过是忠于主人，可悲可怜的工具。兽吃人不可恶，人吃人才可恶！</font>
+complete_49318=<font face="Default" color="#ffffff" >新来的小弟不懂做事，要是人人都似你这般手眼灵便就好了。庄主传下令来，这几天要好好犒赏各位兄弟，你就好好去歇着，到时候尝尝咱的手艺！</font>
+complete_49319=<font face="Default" color="#ffffff" >经过几日调理好多了。</font><font face="Default" color="#ffffff" >哎，山庄这番遭到如此劫难……</font>
+complete_49320=<font face="Default" color="#ffffff" >你去吧。人兽无别，心自扰之。我不会看错的，终有一日，你必可超越我等，开拓一番人兽和谐共生的展新境界。</font>
+complete_49321=<font face="Default" color="#ffffff" >你难道不知道发生了什么？</font>
+complete_49322=<font face="Default" color="#ffffff" >冷静。我们早已知道，深呼吸，不要慌张。</font>
+complete_49323=<font face="Default" color="#ffffff" >小，小翠，不要，不要怪我，我，我对不起你……</font>
+complete_49324=<font face="Default" color="#ffffff" >你，你，你你都说了什么？</font>
+complete_49325=<font face="Default" color="#ffffff" >你看那边那个女人，疯疯癫癫的看见小孩子就迎上去。</font>
+complete_49327=<font face="Default" color="#ffffff" >啧，那些家伙谁都没和你说过么……这么长的故事，好烦躁。不过总瞒着你也不是办法，毕竟这些日子你捣了不少乱——出了不少力气。</font>
+complete_49328=<font face="Default" color="#ffffff" >好胆。这种事，也是你问的么？人兽本无轻重，轻重只在人心。谁人不被感情左右？谁人真能一视同仁？行走江湖，义气当先，若为义气，壮士断臂亦在所不惜，兄弟手足已可抛弃。你当我们做出决定，很轻松么？</font>
+complete_49329=<font face="Default" color="#ffffff" >刚看到几个人气势汹汹的闯进庄里，说要找庄主理论理论，几个村夫，本来我拦住就得了，偏偏庄主要将他们让进去。</font>
+complete_49330=<font face="Default" color="#ffffff" >既然拜入山庄，那就要遵守山庄的规矩。我代表山庄欢迎你</font><font face="Default" color="#ffffff" >，这有一套山庄内功心法和龙虎霸王拳，你下去潜心修炼。</font>
+complete_49331=<font face="Default" color="#ffffff" >什么师兄师弟的，见外了啊见外了！水大哥！以后就水大哥了啊！叫错不给你秘籍哦！看你面相便知你天生人面兽心，在山庄大有前途，以后咱们就是好兄弟，有什么不明白的都来问你水大哥，一句话，解除你心中疑惑！</font>
+complete_49332=<font face="Default" color="#ffffff" >你准备好接受今日的</font><font face="Default" color="#ffffff" >山庄杂事</font><font face="Default" color="#ffffff" >了嘛？</font>
+complete_49333=<font face="Default" color="#ffffff" >你准备好接受今日的</font><font face="Default" color="#ffffff" >山庄杂事</font><font face="Default" color="#ffffff" >了嘛？</font>
+complete_49334=<font face="Default" color="#ffffff" >你准备好接受今日的</font><font face="Default" color="#ffffff" >山庄杂事</font><font face="Default" color="#ffffff" >了嘛？</font>
+complete_49335=<font face="Default" color="#ffffff" >你准备好接受今日的</font><font face="Default" color="#ffffff" >山庄杂事</font><font face="Default" color="#ffffff" >了嘛？</font>
+complete_49336=<font face="Default" color="#ffffff" >你准备好接受今日的</font><font face="Default" color="#ffffff" >山庄杂事</font><font face="Default" color="#ffffff" >了嘛？</font>
+complete_49337=<font face="Default" color="#ffffff" >既然如此，我等要对你施以严厉惩罚。</font>
+complete_49338=<font face="Default" color="#ffffff" >江湖多凶险，你日后好自为之！</font>
+complete_49339=<font face="Default" color="#ffffff" >哎，又是她。有没有觉得那疯癫妇人很可怜？我，我实在看不下去，我，我要背过身去了！</font>
+complete_49340=<font face="Default" color="#ffffff" >（狠瞪）你准备好了？</font>
+complete_49341=<font face="Default" color="#ffffff" >如今五只猛兽还剩下最后一只了。</font>
+complete_49342=<font face="Default" color="#ffffff" >刚庄主着人告诉我，大恩人服了药，身体恢复的七七八八，五位庄主今晚要摆百兽大宴，命全庄喝他娘的三天三夜，我这里正缺人手。上次你寻来的酒，早耗的七七八八……唔！不对，身上怎得没了力气，这是…</font><font face="Default" color="#ffffff" >…</font>
+complete_49343=<font face="Default" color="#ffffff" >你已经准备妥当了嘛？</font>
+complete_49344=<font face="Default" color="#ffffff" >……这句话，不应该我对你说么？也罢。今日了却我一桩心事。总说为虎作伥，虎被当做世上最恶之物，可若非人甘为伥鬼，又岂会有牺牲者。不思众志成城反抗暴政，只因事不关己，便可一味逆来顺受，牺牲弱小以求自保，更将之解释为金科玉律。可笑可笑。兽吃人犹可恕，人吃人不可活！</font>
+complete_49410=<font face="Default" color="#ffffff" >这是山庄给你的奖励，请收好。</font>
+complete_49411=<font face="Default" color="#ffffff" >这是山庄给你的奖励，请收好。</font>
+complete_49412=<font face="Default" color="#ffffff" >这是山庄给你的奖励，请收好。</font>
+complete_49413=<font face="Default" color="#ffffff" >这是山庄给你的奖励，请收好。</font>
+complete_49414=<font face="Default" color="#ffffff" >这是山庄给你的奖励，请收好。</font>
+complete_49415=<font face="Default" color="#ffffff" >这是山庄给你的奖励，请收好。</font>
+complete_49416=<font face="Default" color="#ffffff" >这是山庄给你的奖励，请收好。</font>
+context_49201=前些日子，有村民向山庄求助，村落附近常有野兽出没。村中百姓夜不能寐，过着提心吊胆的日子，希望山庄出手帮助。你就代表山庄前去消灭野兽吧。
+context_49202=前些日子，有村民向山庄求助，村落附近常有野兽出没。村中百姓夜不能寐，过着提心吊胆的日子，希望山庄出手帮助。你就代表山庄前去消灭野兽吧。
+context_49203=前些日子，有村民向山庄求助，村落附近常有野兽出没。村中百姓夜不能寐，过着提心吊胆的日子，希望山庄出手帮助。你就代表山庄前去消灭野兽吧。
+context_49204=前些日子，有村民向山庄求助，村落附近常有野兽出没。村中百姓夜不能寐，过着提心吊胆的日子，希望山庄出手帮助。你就代表山庄前去消灭野兽吧。
+context_49205=前些日子，有村民向山庄求助，村落附近常有野兽出没。村中百姓夜不能寐，过着提心吊胆的日子，希望山庄出手帮助。你就代表山庄前去消灭野兽吧。
+context_49206=前些日子，有村民向山庄求助，村落附近常有野兽出没。村中百姓夜不能寐，过着提心吊胆的日子，希望山庄出手帮助。你就代表山庄前去消灭野兽吧。
+context_49207=前些日子，有村民向山庄求助，村落附近常有野兽出没。村中百姓夜不能寐，过着提心吊胆的日子，希望山庄出手帮助。你就代表山庄前去消灭野兽吧。
+context_49208=前些日子，有村民向山庄求助，村落附近常有野兽出没。村中百姓夜不能寐，过着提心吊胆的日子，希望山庄出手帮助。你就代表山庄前去消灭野兽吧。
+context_49209=前些日子，有村民向山庄求助，村落附近常有野兽出没。村中百姓夜不能寐，过着提心吊胆的日子，希望山庄出手帮助。你就代表山庄前去消灭野兽吧。
+context_49210=前些日子，有村民向山庄求助，村落附近常有野兽出没。村中百姓夜不能寐，过着提心吊胆的日子，希望山庄出手帮助。你就代表山庄前去消灭野兽吧。
+context_49211=前些日子，有村民向山庄求助，村落附近常有野兽出没。村中百姓夜不能寐，过着提心吊胆的日子，希望山庄出手帮助。你就代表山庄前去消灭野兽吧。
+context_49212=山庄中饲养的野兽肚子饿，居然偷走了厨房间的肉块，这下中午大家就没肉吃了，快去帮厨子找回肉来。
+context_49213=闾丘洋被命令给山庄的动物喂食，但是他居然害怕那些毒物。不得已只能帮助他。
+context_49214=山庄中有几头猛兽最近情绪异常，一旦真的发怒了容易伤人，如果看见愤怒的猛兽快去安抚它们。
+context_49215=来到山庄多日，庄主向我传授野兽外貌知识，需要好好听讲。
+context_49216=来到山庄多日，庄主向我传授野兽生活习性知识，需要好好听讲。
+context_49218=通往庄门的路上，出现了很多碎石块。需要马上清理，不然动物和人走过，容易扎脚。特别是山庄里的野兽。
+context_49219=万兽牢的守卫在清点兽栏的时候，发现丢失一只熊仔，我快去把它找回来，它应该还在山庄附近。
+context_49220=庄中工匠经常从仓库搬运木材用来维修庄中建筑，在修理完庄中建筑的时候就遗留下很多还没使用过的，这么木材整理起来还是能够继续使用。
+context_49221=山庄中养着很多稀奇的动物，丐帮常有孩子跑来参观。我要带着他们，以免他们被其他动物伤到。
+context_49222=山庄中经常会有许多死去动物的兽骨，需要将这些兽骨埋葬好，但是经常有虎骨小偷去偷，我要好好的把这些兽骨埋起来。
+context_49223=山庄守卫需要保护好山庄内外的安全，任务重大。所以带点适量的酒水给他们，解渴消疲吧。
+context_49224=山庄经常有慕名而来的江湖人拜见，大庄主日理万机不是每天都能面见他们，所以很多江湖人就在山庄中参观，等大庄主有空的时候，就会依次面见他们。但是经常不知道他们走去哪里，我还是速速去找到他们吧。
+context_49225=山庄外常有人拾取兽皮虎骨，经常被野兽伤到。我需要去劝说他们，不要再干这些事情，会危及到他们的生命。
+context_49226=山庄厨房失窃，在案发现场留下了一些脚印。辨认出是何种动物留下的。
+context_49227=山庄外有一被熊伤到的路人，向他伸出援手是山庄义不容辞的义务。去找狩猎师要份药膏，速去给路人治疗。
+context_49228=三庄主史云豹要份重要的信件需要送出，山庄中饲养着很多信喉，我可以靠它们送出信件。
+context_49229=李师兄聪明伶俐但是有点任性，不愿静下心来习武。四庄主多次让他能苦练武学但都无果，最终师徒关系闹僵，李师兄离开山庄。现在四庄主希望师兄能够回去，我要速速找到师兄。
+context_49230=山庄近日在修补万兽牢的兽栏，那些工匠总是在没人的时候偷懒，带上口哨去把他们都吵醒了。
+context_49231=杨师兄好吃，好美酒，整日懒散成性，武功没什么进益。对庄主的话充耳不闻，几日前离开山庄，现在庄主要找他，我速速去找到杨师兄。
+context_49232=山庄内来了两个神秘访客，指名就找大庄主，乘着庄主还没来，我先去谈谈他们的口风。
+context_49233=丐帮常年开仓救济灾民，但是灾民数量依旧很多，恐怕丐帮的粮仓也快见底了，山庄也理应出一份力。
+context_49234=竺献的父亲被毒蜘蛛咬伤，中了蛛毒。山庄中有很多弟子饲养了毒蜘蛛，帮助竺献去讨要解蛛毒的药方
+context_49235=山庄外路旁有一名乞丐，被巨熊吓唬住了，暂时还没生命危险，快去将他解救出来。
+context_49236=山庄诸位平时只喜欢大鱼大肉，厨子说要做点蔬菜给大家吃，赶紧多去收集点。
+context_49237=来到山庄多日，每日同师兄切磋功夫，希望有所长进。
+context_49238=山庄中很多动物逃出了兽栏，那些逃出来的动物很容易伤人，你速速去把它们赶回兽栏。如果它们不愿意，你可以适当教训一下它们。但是不要打伤它们。
+context_49239=山庄中很多动物逃出了兽栏，那些逃出来的动物很容易伤人，你速速去把它们赶回兽栏。如果它们不愿意，你可以适当教训一下它们。但是不要打伤它们。
+context_49240=山庄中很多动物逃出了兽栏，那些逃出来的动物很容易伤人，你速速去把它们赶回兽栏。如果它们不愿意，你可以适当教训一下它们。但是不要打伤它们。
+context_49241=失去了巨鹰保护的幼鹰很容易成为其他野兽的目标。山庄要尽义务保护那些幼鹰。
+context_49242=闻据此千里之外的巴蜀之地有座天香茶林，其场主萃取‘金花腹蛇’之毒炼出极易上瘾的‘神仙茶’，控制了不少好汉。植茶晒茶乃至制毒咱都不管，可竭泽而渔，使蛇几乎绝迹，便不能袖手旁观了。你打咱的旗号，去给她们些教训。
+context_49243=多年不行走江湖，想不到小小的武当山脚，竟出了一座虎啸山庄。叫什么不好，偏偏叫个‘虎’字，如此猖狂，有咱们允许么？五弟知道了定然没什么好脸色，你去告诉他们改个名字，干脆直接来硬的。
+context_49244=前几天咱们一支队伍关外走货，途径鸡鸣驿，竟被一帮当地土匪截了下来，明知咱是百兽庄，还敢扣人勒索，后来得关外龙头老大说项，才施施然将将人放回来，货物却全留下了。大哥说江湖行多一事不如少一事，我却咽不下这口气，家门口出了这等事，让百兽庄的面子往哪搁！只恨自己毕竟是史家老三，不能亲自去教训那帮贼子。
+context_49245=上次巴蜀走货取道唐门，在那儿做了几天客，人家对咱也倒客气。回程路上，却被一帮用唐门暗器的人袭击，折了几个人。听闻赠与唐门的十几匹健马也发疯而死。俺不傻，唐门没这个胆子敢在自己地头上动手，必是有人想引咱们互斗。听说当地有个天宝寨，和唐门关系不怎样，你给我去探一探，若属实，俺就去扒了他们的寨子！
+context_49246=山庄正在赶制一批陷阱，但是缺少一些材料。需要去收集一些。
+context_49247=那些村民依旧没日没夜的在掏鹰巢中的鹰蛋。虽然巨鹰已经被我们收服了，但是依旧存在着很大的危险。山庄需要驱赶那些村民。
+context_49248=山庄准备了一批礼盒赠送给江湖豪杰，但是今天清点的时候发现少了几个，一番巡查下来，估计是被鹰叼走了。
+context_49249=二庄主平日里最喜欢美酒和香牛肉干，每次都要把厨房的美酒和牛肉干都吃完。看来需要去多准备几份。
+context_49250=山庄外总有许多兽皮贩游荡。几番劝说都没有效果。只有用武力将他们驱赶出去。
+context_49251=山庄外常有密宗密探窥探，为了山庄安全需要把这些密探全部收拾掉。
+context_49252=山庄外常有偷猎人出没，经常趁着山庄弟子不注意的时候，猎杀山庄内的野兽。
+context_49253=山庄弟子平日训练猛兽，经常受伤。山庄内近日药品缺乏，需要收集一些以备不时之需。
+context_49300=进入山庄多日，整日只是做着服侍动物的工作，这究竟有什么意义？迷茫不解环绕心头，真想弄清山庄存在的意义。却又遇到山庄外孩童想要去看大象，百般无奈只能领着他去看大象了。
+context_49301=小诚居然趁我不注意，顺走了一只金花鼠，现在庄主很生气。如今怪罪下来，遭殃的可是我。虽然不知一只老鼠有什么着紧，但还是速度去把这只金花鼠寻回来。
+context_49302=小诚竟被从天而降的巨鹰叼走，鹰向来没有袭击人的习惯，这却是为何？山庄又为何派人守在山口？丢了金花鼠算不了什么，我无论如何也要救出孩子。
+context_49303=一番恶斗，幸亏大庄主出手终于制住了这巨鹰。孩子安全无事，巨鹰也被愤怒的村民杀死。但是村妇似乎认为是我讲孩子带到了这山顶之上，看来还需费一番口舌，讲清事情的来龙去脉。
+context_49304=没想到那孩子居然将事情的责任全栽赃给我，采蛋村民更是借此推波助澜，对山庄的仇恨难以缓和。这许多事，是我做错了？还是村民做错了？找大庄主诉说一下。
+context_49305=山庄最近似乎在筹划猎熊，我们一直在筹备陷阱和工具。今日忽有一群人来闹庄，难道和我们要做的事有关？
+context_49306=山庄为什么会包庇那些祸害乡里的猛兽。我去询问史孟雄却被他怒斥。决定加入那些村民的行列，帮助他们猎杀巨熊。村民抓来了熊仔，用它成功捕获了巨熊。
+context_49307=村民终于成功捕获了巨熊。但我询问这些熊的下落时，他们却遮遮掩掩好生奇怪，这其中有问题，我定要弄清楚。
+context_49308=没想到村民捉熊竟然是为了活取熊胆。这巨熊暴怒冲出围栏，带领熊群乘乱逃了出去。山庄人马也赶到这里，救治伤员。这群村民居然是这样的人……
+context_49309=猎熊一事终究过去，我却越迷茫于山庄坚持的道义，百思不得其解。今日准备去山庄外看兽皮成色，在庄门口又遇到那位疯癫妇人。
+context_49310=三庄主对我颇为赏识，邀我参加猎豹行动。只是猎豹尚需时日，我等不及。这只猎豹难道就是喻哲瀚口中的那只？我决定自己去找。
+context_49311=癫妇人死了，汉子死了，猎豹也死了。本来三庄主便是要杀豹取骨，但为什么他看起来也是这般悲伤？
+context_49312=山庄猎五兽，如今只剩下一狮一虎。四庄主恶语相向，却只为锤炼我。我一度误会，直到他讲述了一年前猎狮之事。
+context_49313=狮子已抢先袭击村庄，我毕竟来晚一步。一年前，人屠狮，一年后，狮屠人。狮子一定在寻找那对夫妇，而他们不在这里，我必须将他们找到。这或许是平息狮王愤怒的唯一方式。
+context_49314=这头猛虎虽然行踪无定，但每年那个时候都会到回雁峰享受贡品。五庄主说村庄敬它为神，猎虎反而要先猎人。我想其中定有蹊跷，还是趁庄主准备的功夫，先到村中摸摸底。
+context_49315=当地村民果然不愿意出手帮助我，村长更是将我逐出。屋外有一青年询问我是否是百兽庄门人，其中必定有什么端倪。
+context_49316=青年早有牺牲的觉悟，欲以身饲虎，救下自己的青梅竹马，少女静雯。我误会了他，心中惭愧。我要保护他，救下少女，救下他的性命。
+context_49317=我们劝说静雯不成功，只能躲在附近等待机会。不料这猛虎居然轻松就发现了躲在石头背后的我两。看来只能硬着头皮上了。
+context_49318=五种材料已经全部入手，救醒恩人指日可待。庄主让我上下打点准备宴席，山庄一片欢庆。多年努力终于没有白费，五位庄主看着熬制出来的药丸，甚至差点流泪了。
+context_49319=恩人苏醒，全庄上下大摆筵席。不料食物中被人下了毒！究竟发生了什么，我需要赶到后院去查看一下。难道有人想要谋害山庄。
+context_49320=山庄遭此劫难，山庄萧条。回想狩猎5种猛兽的过程，和这最终结果，许多想法充斥在脑中。当初大庄主同我所说的话，似乎也终于明白了。
+context_49321=我在山庄外找到了小诚，向他索要金花鼠，他却不愿意承认。我发现他似乎隐瞒了什么，便偷偷跟在他身后，果然在山脚下发现了他和金花鼠。这时突然一只巨鹰滑翔而过，叼走了他和金花鼠，这下该怎么办。
+context_49322=暴怒的巨熊破笼而出，打伤了村民，带着剩下的熊逃离了这里。只留下一片狼藉。面对着这场变故，我突然不知该如何去应对。
+context_49323=搏‘豹’中途，竟被外人打扰，不堪忍耐的丈夫要杀疯癫的妻子，昔日的卖掉的孩童竟是眼前被豹养大的孩子。丈夫还是杀死了妻子，自己也在豹爪下丢了性命。只留下无语的我们，对这满地尸体暗自感伤。
+context_49324=你自以为成功化解了纠纷，殊不知其中另有隐情。
+context_49325=同是戕屠，我们和村民能有什么区别？我想不透。生气的二庄主罚我去准备贩卖山庄的毛皮。命运使然，阴差阳错我又卷入到了其他事件中。
+context_49327=如今五种猛兽已经猎杀了四种。我却依然不清楚山庄耗费人力物力猎杀猛兽的原因，只听二庄主说过，似乎是为了救人。什么人能让山庄不惜打破庄规？
+context_49328=五庄主终于告诉了我，山庄猎杀五种猛兽的缘由。原来这其中还有这么一段故事，让我大为震惊。
+context_49329=与<a href="findnpc_new,school02,WorldNpc03191" style="HLStype1">晏明轩</a>交谈继续下一阶段主线任务
+context_49330=一如江湖岁月愁，尔虞我诈，血雨腥风，我已疲惫。据闻世上有一百兽庄遗世独立，仰慕久矣，何不前去造访，或许，能让重拾对生活的向往。
+context_49331=一如江湖岁月愁，我已厌倦了它的尔虞我诈，血雨腥风。百兽庄遗世独立，我欲造访几位庄主，或许，他们能赋予我人生新的意义，让我从这疲惫的生活中解脱出来。
+context_49332=在山庄中能力越强责任越大，每天都有很多事情需要去处理。尽你所能完成任务，成为一名合格的百兽庄弟子。
+context_49333=在山庄中能力越强责任越大，每天都有很多事情需要去处理。尽你所能完成任务，成为一名合格的百兽庄弟子。
+context_49334=在山庄中能力越强责任越大，每天都有很多事情需要去处理。尽你所能完成任务，成为一名合格的百兽庄弟子。
+context_49335=在山庄中能力越强责任越大，每天都有很多事情需要去处理。尽你所能完成任务，成为一名合格的百兽庄弟子。
+context_49336=在山庄中能力越强责任越大，每天都有很多事情需要去处理。尽你所能完成任务，成为一名合格的百兽庄弟子。
+context_49337=我已决心脱离山庄，投奔其他江湖势力。哪怕废除山庄绝学我也不会回头。<font color="#ff0000">（提交任务请先卸除宝物，否则可能退出势力失败）</font>
+context_49338=百兽庄之行已让我脱胎换骨。但避世不出终非我之所愿，我决心离开山庄再入江湖，面对新的挑战。<font color="#ff0000">（提交任务请先卸除宝物，否则可能退出势力失败）</font>
+context_49339=与<a href="findnpc_new,school02,gb237" style="HLStype1">戚琉</a>交谈继续下一阶段主线任务
+context_49340=与<a href="findnpc_new,school02,WorldNpc03176" style="HLStype1">史羽施</a>交谈继续下一阶段主线任务
+context_49341=与<a href="findnpc_new,school02,WorldNpc03177" style="HLStype1">史耀虎</a>交谈继续下一阶段主线任务
+context_49342=与<a href="findnpc_new,school02,WorldNpc03162" style="HLStype1">黄广鸣</a>交谈继续下一阶段主线任务
+context_49343=山庄虽然不过问江湖之事，但是当有凶猛野兽出现在江湖之时。山庄有义务去猎杀那些猛兽。
+context_49344=俞公子和静雯双双丧于虎口，侥幸不死的虎爬上岸来，却要我独自面对了。毒素在它体内发作，我决不能让它就此逃走，否则怎对的起抱定信念以身饲虎的他们？
+context_49410=百姓来报丐帮附近出现一条王蛇，扰乱百姓生活，威胁百姓生命安全。山庄广邀天下豪杰一同出力剿灭王蛇。
+context_49411=百姓来报金陵附近出现一只青眼虎王，扰乱百姓生活，威胁百姓生命安全。山庄广邀天下豪杰一同出力剿灭青眼虎王。
+context_49412=百姓来报极乐谷附近出现一只毒蝎，扰乱百姓生活，威胁百姓生命安全。山庄广邀天下豪杰一同出力剿灭毒蝎。
+context_49413=百姓来报发现一只通臂猿，但是行踪不定。山庄广邀天下豪杰一同出力发现并且剿灭这通臂猿。
+context_49414=百姓来报发现一只七步蝮龟，但是行踪不定。山庄广邀天下豪杰一同出力发现并且剿灭这通臂猿。
+context_49415=百姓来报发现一只红爪雄鹰，但是行踪不定。山庄广邀天下豪杰一同出力发现并且剿灭这红爪雄鹰。
+context_49416=百姓来报发现一只吊睛猛虎，但是行踪不定。山庄广邀天下豪杰一同出力发现并且剿灭这吊睛猛虎。
+menu_49201_1=<font face="Default" color="#ffffff" >嗯，弟子明白了。</font>
+menu_49202_1=<font face="Default" color="#ffffff" >嗯，弟子明白了。</font>
+menu_49203_1=<font face="Default" color="#ffffff" >嗯，弟子明白了。</font>
+menu_49204_1=<font face="Default" color="#ffffff" >嗯，弟子明白了。</font>
+menu_49205_1=<font face="Default" color="#ffffff" >嗯，弟子明白了。</font>
+menu_49206_1=<font face="Default" color="#ffffff" >嗯，弟子明白了。</font>
+menu_49207_1=<font face="Default" color="#ffffff" >嗯，弟子明白了。</font>
+menu_49208_1=<font face="Default" color="#ffffff" >嗯，弟子明白了。</font>
+menu_49209_1=<font face="Default" color="#ffffff" >嗯，弟子明白了。</font>
+menu_49210_1=<font face="Default" color="#ffffff" >嗯，弟子明白了。</font>
+menu_49211_1=<font face="Default" color="#ffffff" >嗯，弟子明白了。</font>
+menu_49212_1=<font face="Default" color="#ffffff" >嗯，弟子明白了。</font>
+menu_49213_1=<font face="Default" color="#ffffff" >嗯，弟子明白了。</font>
+menu_49214_1=<font face="Default" color="#ffffff" >嗯，弟子明白了。</font>
+menu_49215_1=<font face="Default" color="#ffffff" >嗯，弟子明白了。</font>
+menu_49216_1=<font face="Default" color="#ffffff" >嗯，弟子明白了。</font>
+menu_49218_1=<font face="Default" color="#ffffff" >嗯，弟子明白了。</font>
+menu_49219_1=<font face="Default" color="#ffffff" >嗯，弟子明白了。</font>
+menu_49220_1=<font face="Default" color="#ffffff" >嗯，弟子明白了。</font>
+menu_49221_1=<font face="Default" color="#ffffff" >嗯，弟子明白了。</font>
+menu_49222_1=<font face="Default" color="#ffffff" >嗯，弟子明白了。</font>
+menu_49223_1=<font face="Default" color="#ffffff" >嗯，弟子明白了。</font>
+menu_49224_1=<font face="Default" color="#ffffff" >嗯，弟子明白了。</font>
+menu_49225_1=<font face="Default" color="#ffffff" >嗯，弟子明白了。</font>
+menu_49226_1=<font face="Default" color="#ffffff" >嗯，弟子明白了。</font>
+menu_49227_1=<font face="Default" color="#ffffff" >嗯，弟子明白了。</font>
+menu_49228_1=<font face="Default" color="#ffffff" >嗯，弟子明白了。</font>
+menu_49229_1=<font face="Default" color="#ffffff" >嗯，弟子明白了。</font>
+menu_49230_1=<font face="Default" color="#ffffff" >嗯，弟子明白了。</font>
+menu_49231_1=<font face="Default" color="#ffffff" >嗯，弟子明白了。</font>
+menu_49232_1=<font face="Default" color="#ffffff" >嗯，弟子明白了。</font>
+menu_49233_1=<font face="Default" color="#ffffff" >嗯，弟子明白了。</font>
+menu_49234_1=<font face="Default" color="#ffffff" >嗯，弟子明白了。</font>
+menu_49235_1=<font face="Default" color="#ffffff" >嗯，弟子明白了。</font>
+menu_49236_1=<font face="Default" color="#ffffff" >嗯，弟子明白了。</font>
+menu_49237_1=<font face="Default" color="#ffffff" >嗯，弟子明白了。</font>
+menu_49238_1=<font face="Default" color="#ffffff" >嗯，弟子明白了。</font>
+menu_49239_1=<font face="Default" color="#ffffff" >嗯，弟子明白了。</font>
+menu_49240_1=<font face="Default" color="#ffffff" >嗯，</font><font face="Default" color="#ffffff" >我</font><font face="Default" color="#ffffff" >明白了。</font>
+menu_49241_1=<font face="Default" color="#ffffff" >嗯，我明白了。</font>
+menu_49242_1=<font face="Default" color="#ffffff" >小事一桩，属下得令。</font>
+menu_49243_1=<font face="Default" color="#ffffff" >……四庄主，你纯粹是想找事吧？</font>
+menu_49244_1=<font face="Default" color="#ffffff" >三庄主，在下人微言轻，想必出趟门该不打紧吧？</font>
+menu_49245_1=<font face="Default" color="#ffffff" >二庄主稍安勿若真是他们做的，我必让他们讨不了好。</font>
+menu_49246_1=<font face="Default" color="#ffffff" >嗯，我明白了。</font>
+menu_49247_1=<font face="Default" color="#ffffff" >嗯，我明白了。</font>
+menu_49248_1=<font face="Default" color="#ffffff" >嗯，我明白了。</font>
+menu_49249_1=<font face="Default" color="#ffffff" >嗯，我明白了。</font>
+menu_49250_1=<font face="Default" color="#ffffff" >嗯，我明白了。</font>
+menu_49251_1=<font face="Default" color="#ffffff" >嗯，我明白了</font>
+menu_49252_1=<font face="Default" color="#ffffff" >嗯，我明白了</font>
+menu_49253_1=<font face="Default" color="#ffffff" >嗯，我明白了</font>
+menu_49300_1=<font face="Default" color="#ffffff" >谢了，阿水。</font><font face="Default" color="#ffffff" ></font>
+menu_49301_1=<font face="Default" color="#ffffff" >多谢阿水！庄主问起就说我没回来！（那帮熊孩子！）</font><font face="Default" color="#ffffff" >）</font>
+menu_49302_1=<font face="Default" color="#ffffff" >想不到其中还有这许多缘故！我还有事，师兄少陪！下次找师兄教我念书！（难道抓小</font><font face="Default" color="#ffffff" >诚</font><font face="Default" color="#ffffff" >是因为金花鼠？村人取鹰蛋，巨鹰捉孩童，可见天理循环，报应不爽。不过人怎能和畜生相提并论，伤了人便不能留你，定要救回小诚！刚才师兄提到了后山……）</font>
+menu_49303_1=<font face="Default" color="#ffffff" >（那孩子呢？让他站出来说清楚）</font>
+menu_49304_1=<font face="Default" color="#ffffff" >想不到我一时之仁，坏了庄主的大计，大庄主，你责罚我吧。</font>
+menu_49305_1=<font face="Default" color="#ffffff" >你总有不好的预感，晏师兄。好，我去看看究竟发什么什么事。</font>
+menu_49306_1=<font face="Default" color="#ffffff" >是，是符姐姐……不，我觉得自己没有做错！以和为贵，我这样做正是捍卫了山庄的名誉。连邻居都安顿不好，怎么会让别的江湖人心服口服？何况这件事我们本就理亏，本来我还疑惑其中是不是有什么误会，现在我知道错了，像二庄主这样蛮横不讲道理，不出事才怪呢</font><font face="Default" color="#ffffff" >！</font>
+menu_49307_1=<font face="Default" color="#ffffff" >这却不必了。但熊性顽固，难以驯化，那熊王更是如此，寻常饿、打、奖、疲之法恐怕无以为继，稍有不慎，让熊窜出牢笼，暴起伤人，便是大患了。在下毕竟在百兽庄一段时日，愿同去驯熊地，或能提供些建议之策。（咦？他脸色怎么变了？）</font>
+menu_49308_1=<font face="Default" color="#ffffff" >二庄主刚才来过？他岂不是都见到了？我，我……</font>
+menu_49309_1=<font face="Default" color="#ffffff" >……师兄保重。</font>
+menu_49310_1=<font face="Default" color="#ffffff" >（我可等不了这么久。这些日子，我的追踪术也算小成，该能找到豹王。三庄主的猎豹行动我可没兴趣，反正又是杀豹做药那一套。我只要找到豹穴，寻回小孩子的尸骨，希望还在吧。）我明白了，三庄主。</font>
+menu_49311_1=<font face="Default" color="#ffffff" >（人心会空虚，会脆弱，空虚脆弱就会行差踏错。有朝一日，我会不会像大叔一样，铸成无可挽回的大错？我不要，我不要！）</font>
+menu_49312_1=<font face="Default" color="#ffffff" >！！难道，难道——四庄主为了鞭策我，才故意放出狠话么？狮子为磨练幼狮，会狠心将幼狮推下山崖——</font>
+menu_49313_1=<font face="Default" color="#ffffff" >当初若非你们雇人猎狮，狮患早已根绝，如今出了事，你们不想死，把责任给旁人一推就行了？还指责人家不心甘情愿去死，你们知不知道无耻二字怎么写？</font>
+menu_49314_1=<font face="Default" color="#ffffff" >连五庄主都束手无策，那要我学猎虎之术又有何用？</font>
+menu_49315_1=<font face="Default" color="#ffffff" >这……战场千变万化，胜负还要看随机应变，难说的很。还是先说回贡品，莫非有什么特殊之处？</font>
+menu_49316_1=<font face="Default" color="#ffffff" >……每道兴头上你便诸多要求，阁下莫非是天桥下说书出身？你要我去取酒，有钱么？算了别可怜巴巴的看着我，在这里等着。我回来时你若不在，我会让你后悔出生在世上。</font>
+menu_49317_1=<font face="Default" color="#ffffff" >兄台珍重，告辞。（显然他知道进贡之处，且要自己以身相饲。回山庄肯定来不及。五庄主老谋深算，既将我哄骗到这里，定另有对策，也可借大庄主之鹰寻找我。我只需悄悄跟着这书呆子到上贡之处便可）</font>
+menu_49318_1=<font face="Default" color="#ffffff" >……您伤这么重，还是由我去吧，免得乐极生悲，药只得那么一粒……</font>
+menu_49319_1=<font face="Default" color="#ffffff" >酒便是从你告诉我的地方取来，山庄对我有再造之恩，我对天发誓，下毒者绝非我！（解释也是无用，这些酒这些日子被大家大饮特饮，今天大恩人出现才发现问题……我要去瞧瞧庄主他们！）</font>
+menu_49320_1=<font face="Default" color="#ffffff" >大庄主的话，我必铭记于心。</font>
+menu_49324_1=
+menu_49325_1=<font face="Default" color="#ffffff" >二庄主教训的是。属下告退。</font>
+menu_49327_1=<font face="Default" color="#ffffff" >（四庄主将狮王完全当做了兄弟看待，无法释怀。狮子与村民，狮子倒更正直，更坚毅，我……讨厌自己的想法）我明白了。</font>
+menu_49328_1=<font face="Default" color="#ffffff" >多谢五庄主。（总算能够知道这秘密。究竟是什么人，什么事，令百兽庄不惜违抗山规，也要放手一搏呢？）</font>
+menu_49332_1=<font face="Default" color="#ffffff" >我明白了。</font>
+menu_49333_1=<font face="Default" color="#ffffff" >我明白了。</font>
+menu_49334_1=<font face="Default" color="#ffffff" >我明白了。</font>
+menu_49335_1=<font face="Default" color="#ffffff" >我明白了。</font>
+menu_49336_1=<font face="Default" color="#ffffff" >我明白了。</font>
+menu_49337_1=<font face="Default" color="#ffffff" >早料到没这么容易，我已做好了心理准备，有什么招待，来吧！</font>
+menu_49338_1=<font face="Default" color="#ffffff" >是的，大庄主。</font>
+menu_49343_1=<font face="Default" color="#ffffff" >我明白了。</font>
+menu_49410_1=<font face="Default" color="#ffffff" >明白。</font>
+menu_49411_1=<font face="Default" color="#ffffff" >明白。</font>
+menu_49412_1=<font face="Default" color="#ffffff" >明白。</font>
+menu_49413_1=<font face="Default" color="#ffffff" >明白。</font>
+menu_49414_1=<font face="Default" color="#ffffff" >明白。</font>
+menu_49415_1=<font face="Default" color="#ffffff" >明白。</font>
+menu_49416_1=<font face="Default" color="#ffffff" >明白。</font>
+next_49337=向大庄主史舒鹰表明叛出山庄的决心。<font color="#ff0000">（提交任务请先卸除宝物，否则可能退出势力失败）</font>
+next_49338=向大庄主表明出师的愿望。<font color="#ff0000">（提交任务请先卸除宝物，否则可能退出势力失败）</font>
+submit_49201=<font face="Default" color="#ffffff" >这是我分内的事。</font>
+submit_49202=<font face="Default" color="#ffffff" >这是我分内的事。</font>
+submit_49203=<font face="Default" color="#ffffff" >这是我分内的事。</font>
+submit_49204=<font face="Default" color="#ffffff" >这是我分内的事。</font>
+submit_49205=<font face="Default" color="#ffffff" >这是我分内的事。</font>
+submit_49206=<font face="Default" color="#ffffff" >这是我分内的事。</font>
+submit_49207=<font face="Default" color="#ffffff" >这是我分内的事。</font>
+submit_49208=<font face="Default" color="#ffffff" >这是我分内的事。</font>
+submit_49209=<font face="Default" color="#ffffff" >这是我分内的事。</font>
+submit_49210=<font face="Default" color="#ffffff" >这是我分内的事。</font>
+submit_49211=<font face="Default" color="#ffffff" >这是我分内的事。</font>
+submit_49212=<font face="Default" color="#ffffff" >这是我分内的事。</font>
+submit_49213=<font face="Default" color="#ffffff" >这是我分内的事。</font>
+submit_49214=<font face="Default" color="#ffffff" >这是我分内的事。</font>
+submit_49215=<font face="Default" color="#ffffff" >这是我分内的事。</font>
+submit_49216=<font face="Default" color="#ffffff" >这是我分内的事。</font>
+submit_49218=<font face="Default" color="#ffffff" >这是我分内的事。</font>
+submit_49219=<font face="Default" color="#ffffff" >这是我分内的事。</font>
+submit_49220=<font face="Default" color="#ffffff" >这是我分内的事。</font>
+submit_49221=<font face="Default" color="#ffffff" >这是我分内的事。</font>
+submit_49222=<font face="Default" color="#ffffff" >这是我分内的事。</font>
+submit_49223=<font face="Default" color="#ffffff" >这是我分内的事。</font>
+submit_49224=<font face="Default" color="#ffffff" >这是我分内的事。</font>
+submit_49225=<font face="Default" color="#ffffff" >这是我分内的事。</font>
+submit_49226=<font face="Default" color="#ffffff" >这是我分内的事。</font>
+submit_49227=<font face="Default" color="#ffffff" >这是我分内的事。</font>
+submit_49228=<font face="Default" color="#ffffff" >这是我分内的事。</font>
+submit_49229=<font face="Default" color="#ffffff" >这是我分内的事。</font>
+submit_49230=<font face="Default" color="#ffffff" >这是我分内的事。</font>
+submit_49231=<font face="Default" color="#ffffff" >这是我分内的事。</font>
+submit_49232=<font face="Default" color="#ffffff" >这是我分内的事。</font>
+submit_49233=<font face="Default" color="#ffffff" >这是我分内的事。</font>
+submit_49234=<font face="Default" color="#ffffff" >这是我分内的事。</font>
+submit_49235=<font face="Default" color="#ffffff" >这是我分内的事。</font>
+submit_49236=<font face="Default" color="#ffffff" >这是我分内的事。</font>
+submit_49237=<font face="Default" color="#ffffff" >这是我分内的事。</font>
+submit_49238=<font face="Default" color="#ffffff" >这是我分内的事</font><font face="Default" color="#ffffff" >。</font>
+submit_49239=<font face="Default" color="#ffffff" >这是我分内的事</font><font face="Default" color="#ffffff" >。</font>
+submit_49240=<font face="Default" color="#ffffff" >这是我分内的事。</font>
+submit_49241=<font face="Default" color="#ffffff" >这是我分内的事。</font>
+submit_49242=<font face="Default" color="#ffffff" >弟子告退。</font>
+submit_49243=<font face="Default" color="#ffffff" >这，改天得闲，咱再去提醒一下。</font>
+submit_49244=<font face="Default" color="#ffffff" >嘿，经此一战，料定他们再不敢小觑咱百兽庄的名头。
+submit_49245=<font face="Default" color="#ffffff" >给兄弟们报复时，请庄主务必喊上我。
+submit_49246=<font face="Default" color="#ffffff" >这是我分内的事。</font>
+submit_49247=<font face="Default" color="#ffffff" >这是我分内的事。</font>
+submit_49248=<font face="Default" color="#ffffff" >这是我分内的事。</font>
+submit_49249=<font face="Default" color="#ffffff" >这是我分内的事。</font>
+submit_49250=<font face="Default" color="#ffffff" >这是我分内的事。</font>
+submit_49251=<font face="Default" color="#ffffff" >这是我分内的事</font><font face="Default" color="#ffffff" >。</font>
+submit_49252=<font face="Default" color="#ffffff" >这是我分内的事。</font>
+submit_49253=<font face="Default" color="#ffffff" >这是我分内的事。</font>
+submit_49300=<font face="Default" color="#ffffff" >（死小鬼！！）这下糟了！</font>
+submit_49301=<font face="Default" color="#ffffff" >竟然起了名字！别闹了，路不拾遗懂不懂？你哭啊，你哭啊？你哭的再大声，也不会有人来帮你的，嘿嘿！等，等等！别跑！</font>
+submit_49302=<font face="Default" color="#ffffff" >是的。</font>
+submit_49303=<font face="Default" color="#ffffff" >是的。</font>
+submit_49304=<font face="Default" color="#ffffff" >（庄主的话，我还是不能尽数认同）那在下去向二庄主打声招呼。</font>
+submit_49305=<font face="Default" color="#ffffff" >（这猎熊之事估计是二庄主策划的</font><font face="Default" color="#ffffff" >，我去看看究竟是怎么回事</font><font face="Default" color="#ffffff" >）</font>
+submit_49306=<font face="Default" color="#ffffff" >好！</font>
+submit_49307=<font face="Default" color="#ffffff" >活取熊胆！你们，简直没有人性！</font>
+submit_49308=<font face="Default" color="#ffffff" >（恩人性命？）纵然如何辩解，这种悖论，我，我还是无法接受。</font>
+submit_49309=<font face="Default" color="#ffffff" >（猎豹？会不会和那疯妇人的豹子有关？）多谢三庄主给我这个机会。</font>
+submit_49310=<font face="Default" color="#ffffff" >（……冷静！冷静！手，腿，怎么不听使唤？动啊，动啊！）</font>
+submit_49311=<font face="Default" color="#ffffff" >（压抑愤怒）四庄主，若你以为这样便能让我屈服，便要失望了。我会做个样子给你瞧瞧，只为证明你惹毛我，是个多大的错误。</font>
+submit_49312=<font face="Default" color="#ffffff" >你讲什么？！狮子来过了？</font>
+submit_49313=<font face="Default" color="#ffffff" >人总将关爱和牺牲放在嘴边吹嘘，可一旦涉及切身利益，翻脸便能比翻书快。当初正是因为村民猜忌百兽庄，才招来浑水摸鱼的猎者，一把山火陨殁无数生灵；猎者自私而牺牲小狮，狮王仅以身免，引出复仇惨剧。然而这些人却从未有哪怕半分忏悔。村民悔不当初，不过是怜惜自己的小命。他们能残忍的舍弃猎户，却又因为贪婪和愚蠢放跑二人。猎人夫妻面对狮吻，什么郎情妾意都抛到河沟里，互相推诿，倒也死得其所。</font>
+submit_49314=<font face="Default" color="#ffffff" >贡品？</font>
+submit_49315=<font face="Default" color="#ffffff" >活人？！！！</font>
+submit_49316=<font face="Default" color="#ffffff" >……好！（我小人之心，度君子之腹，惭愧。他眼神锐利，绝非要自杀，而是要以身饲虎！想不到他文文弱弱，竟下了这般与敌偕亡的决心。我不会阻止男人的决心。这毒服下总要一两个时辰才见效，我当然能救他！）</font>
+submit_49317=<font face="Default" color="#ffffff" >愚人钝妇易被蛊惑，还是因为贪生怕死。爱惜自己性命，便要别人去牺牲？和一群人的性命相比，一个人的性命便无足轻重？少数人为何定要为多数人牺牲？谁给他们这个权利？天下有这样的道理？若非俞兄和静雯，那人间最后一丝光亮便要泯灭。人有兽性，兽亦有人性。人兽本就是一种东西。</font>
+submit_49318=<font face="Default" color="#ffffff" >嘿，说的我口水都要流下来。就指着您了！</font>
+submit_49319=<font face="Default" color="#ffffff" >大庄主，我…</font>
+submit_49320=<font face="Default" color="#ffffff" >属下定不会让庄主失望。</font>
+submit_49321=<font face="Default" color="#ffffff" >（我先卖个傻，套套师兄的话）</font>
+submit_49322=<font face="Default" color="#ffffff" >他们！他们……我好恨！</font>
+submit_49323=<font face="Default" color="#ffffff" >（血不住的从腹中流出来，肠穿肚烂，已是没救了）</font>
+submit_49324=<font face="Default" color="#ffffff" >（你明明听到的啊）我告诉他们，山庄本打算去猎熊，其中定然有误会……</font>
+submit_49325=<font face="Default" color="#ffffff" >疯妇人？</font>
+submit_49327=<font face="Default" color="#ffffff" >……五庄主若是不愿说，属下也不勉强。</font>
+submit_49328=<font face="Default" color="#ffffff" >……孰是孰非，原本便难有定论。无论何种选择也不能两全其美。如今事已过半，回头也是不能。属下会为庄主效犬马之劳，只希望几位庄主不会后悔。</font>
+submit_49329=<font face="Default" color="#ffffff" >（看来又发生了什么！）</font>
+submit_49330=<font face="Default" color="#ffffff" >多谢庄主。</font>
+submit_49331=<font face="Default" color="#ffffff" >谢了，阿水。</font>
+submit_49332=<font face="Default" color="#ffffff" >是的。</font>
+submit_49333=<font face="Default" color="#ffffff" >是的。</font>
+submit_49334=<font face="Default" color="#ffffff" >是的。</font>
+submit_49335=<font face="Default" color="#ffffff" >是的。</font>
+submit_49336=<font face="Default" color="#ffffff" >是的。</font>
+submit_49337=<font face="Default" color="#ffffff" >来吧！</font>
+submit_49338=<font face="Default" color="#ffffff" >多谢庄主成全！</font>
+submit_49339=<font face="Default" color="#ffffff" >……（关于那妇人，还是问问师兄吧）</font>
+submit_49340=<font face="Default" color="#ffffff" >（一眨不眨的迎击）是。</font>
+submit_49341=<font face="Default" color="#ffffff" >属下正是为此事而来。</font>
+submit_49342=<font face="Default" color="#ffffff" >黄大哥手艺名不虚传，我看燕京王府的名厨都赛不过您的手艺，左右闲着没事，你这里缺不缺人手？</font>
+submit_49343=<font face="Default" color="#ffffff" >是的。</font>
+submit_49344=<font face="Default" color="#ffffff" >愚人钝妇易被蛊惑，还是因为贪生怕死。爱惜自己性命，便要别人去牺牲？和一群人的性命相比，一个人的性命便无足轻重？少数人为何定要为多数人牺牲？谁给他们这个权利？天下有这样的道理？若非俞兄和静雯，那人间最后一丝光亮便要泯灭。人有兽性，兽亦有人性。人兽本就是一种东西。</font>
+submit_49410=<font face="Default" color="#ffffff" >多谢。</font>
+submit_49411=<font face="Default" color="#ffffff" >多</font><font face="Default" color="#ffffff" >谢。</font>
+submit_49412=<font face="Default" color="#ffffff" >多谢。</font>
+submit_49413=<font face="Default" color="#ffffff" >多谢。</font>
+submit_49414=<font face="Default" color="#ffffff" >多谢。</font>
+submit_49415=<font face="Default" color="#ffffff" >多谢。</font>
+submit_49416=<font face="Default" color="#ffffff" >多谢。</font>
+target_49201=帮助百姓消灭野兽。
+target_49202=帮助百姓消灭野兽。
+target_49203=帮助百姓消灭野兽。
+target_49204=帮助百姓消灭野兽。
+target_49205=帮助百姓消灭野兽。
+target_49206=帮助百姓消灭野兽。
+target_49207=帮助百姓消灭野兽。
+target_49208=帮助百姓消灭野兽。
+target_49209=帮助百姓消灭野兽。
+target_49210=帮助百姓消灭野兽。
+target_49211=帮助百姓消灭野兽。
+target_49212=找到被偷走的肉块
+target_49213=给剩下的两只动物喂食
+target_49214=安抚愤怒的猛兽
+target_49215=听史耀虎传授野兽外貌的知识
+target_49216=听史羽施传授野兽生活习性的知识
+target_49218=将庄前的碎石块清理干净
+target_49219=找到丢失熊仔
+target_49220=收集散落的木材
+target_49221=带领这些从丐帮跑来的孩子，参观大象
+target_49222=将兽骨埋葬到葬兽场的枯树下。
+target_49223=给守卫大哥带去酒水
+target_49224=告之广成，广天可以前去拜见大庄主了。
+target_49225=劝说两位在山庄外拾取兽皮虎骨的人，让他们不要再干这些事情。
+target_49226=辨认出脚印来自何种动物
+target_49227=救人之事争分夺秒，问狩猎师要份药膏，这就去救人。
+target_49228=将庄主交与的信寄出
+target_49229=找到李师师兄
+target_49230=去万兽牢教训偷懒的工匠
+target_49231=找到杨雄师兄
+target_49232=探探两个神秘访客的口风
+target_49233=护送运粮弟子到丐帮
+target_49234=向山庄中的养蛛弟子询问蛛毒药方
+target_49235=救出被巨熊吓坏的乞丐
+target_49236=收集足够的蔬菜
+target_49237=在和师兄的切磋中赢得胜利
+target_49238=将动物赶回兽栏
+target_49239=将动物赶回兽栏
+target_49240=将动物赶回兽栏
+target_49241=找到一只幼鹰。
+target_49242=给天香茶林些教训
+target_49243=象征性的挑战下虎啸山庄也就是了
+target_49244=踢爆饿虎寨
+target_49245=探天宝寨
+target_49246=收集足够的材料
+target_49247=驱赶掏蛋村民
+target_49248=寻找丢失的礼盒
+target_49249=收集二庄主喜欢的黄酒和香牛肉干
+target_49250=驱赶山庄外的兽皮贩
+target_49251=攻克密宗密探
+target_49252=驱赶偷猎江湖人
+target_49253=收集相应的药材
+target_49300=向大庄主请教心中的疑惑
+target_49301=寻回被孩子偷走的金花鼠
+target_49302=救回小诚
+target_49303=向孩子的母亲解释下究竟发生了什么
+target_49304=将自己的想法告诉大庄主
+target_49305=去山庄大厅瞧瞧发生了什么事
+target_49306=帮助村民捕获巨熊
+target_49307=查清楚村民究竟对那些熊做了什么
+target_49308=取到巨熊的熊胆，向二庄主认错。
+target_49309=弄清疯癫妇人的身世
+target_49310=追寻着线索，找到猎豹
+target_49311=取下豹骨，回山庄见史云豹
+target_49312=听四庄主讲述一年前的事
+target_49313=找到那夫妇，平息狮王之怒
+target_49314=去当地村民中摸摸老虎底细。
+target_49315=从青年处得知事情来龙去脉
+target_49316=前往供奉贡品的地方。
+target_49317=等待机会救出少女
+target_49318=帮助山庄厨房准备宴席
+target_49319=解除山庄危机
+target_49320=同大庄主交谈
+target_49321=同前来的山庄师兄交谈
+target_49322=向赶来的师兄寻求帮助
+target_49323=看皮仲是否有救
+target_49324=询问二庄主，到底有什么事，自己不知道
+target_49325=百无聊赖去到百兽庄庄外，咦，那里好像有热闹看？打听下发生了什么
+target_49327=向四、五庄主打听山庄猎杀猛兽的原因
+target_49328=听五庄主诉说山庄猎杀五种猛兽的缘由
+target_49329=与<a href="findnpc_new,school02,WorldNpc03191" style="HLStype1">晏明轩</a>交谈继续下一阶段主线任务
+target_49330=造访百兽庄的大庄主
+target_49331=造访大庄主史舒鹰
+target_49332=完成今天的山庄杂事。
+target_49333=完成今天的山庄杂事。
+target_49334=完成今天的山庄杂事。
+target_49335=完成今天的山庄杂事。
+target_49336=完成今天的山庄杂事。
+target_49337=向大庄主史舒鹰表明叛出山庄的决心。<font color="#ff0000">（提交任务请先卸除宝物，否则可能退出势力失败）</font>
+target_49338=向大庄主表明出师的愿望。<font color="#ff0000">（提交任务请先卸除宝物，否则可能退出势力失败）</font>
+target_49339=与<a href="findnpc_new,school02,gb237" style="HLStype1">戚琉</a>交谈继续下一阶段主线任务
+target_49340=与<a href="findnpc_new,school02,WorldNpc03176" style="HLStype1">史羽施</a>交谈继续下一阶段主线任务
+target_49341=与<a href="findnpc_new,school02,WorldNpc03177" style="HLStype1">史耀虎</a>交谈继续下一阶段主线任务
+target_49342=与<a href="findnpc_new,school02,WorldNpc03162" style="HLStype1">黄广鸣</a>交谈继续下一阶段主线任务
+target_49343=完成今日的猎杀任务。
+target_49344=击败虎王
+target_49410=猎杀盘踞在丐帮的王蛇
+target_49411=猎杀盘踞在金陵的青眼虎王
+target_49412=猎杀盘踞在极乐谷的毒蝎
+target_49413=猎杀通臂猿
+target_49414=猎杀七步蝮龟
+target_49415=猎杀红爪雄鹰
+target_49416=猎杀吊睛猛虎
+title_49201=山庄义务
+title_49202=山庄义务
+title_49203=山庄义务
+title_49204=山庄义务
+title_49205=山庄义务
+title_49206=山庄义务
+title_49207=山庄义务
+title_49208=山庄义务
+title_49209=山庄义务
+title_49210=山庄义务
+title_49211=山庄义务
+title_49212=寻找失窃食物
+title_49213=喂食
+title_49214=安抚猛兽
+title_49215=了解野兽外貌
+title_49216=了解野兽习性
+title_49218=清扫道路
+title_49219=寻找失踪动物
+title_49220=收集木材
+title_49221=带领小孩参观大象
+title_49222=埋葬兽骨
+title_49223=犒劳守卫
+title_49224=引荐江湖人
+title_49225=劝说路人
+title_49226=辨认脚印
+title_49227=治疗受伤路人
+title_49228=送信
+title_49229=任性的师兄
+title_49230=认真工作
+title_49231=懒惰的师兄
+title_49232=询问底细
+title_49233=运送粮食
+title_49234=询问药方
+title_49235=解救乞丐
+title_49236=收集蔬菜
+title_49237=切磋功夫
+title_49238=赶回兽栏
+title_49239=赶回兽栏
+title_49240=赶回兽栏
+title_49241=寻找幼鹰
+title_49242=茶林蛇踪
+title_49243=山庄如虎
+title_49244=饿虎夺食
+title_49245=阴谋匪类
+title_49246=收集材料
+title_49247=驱赶掏蛋村民
+title_49248=丢失的礼盒
+title_49249=收集美酒佳肴
+title_49250=驱赶兽皮贩
+title_49251=攻克密探
+title_49252=驱赶偷猎人
+title_49253=收集药材
+title_49300=心中疑惑
+title_49301=大难临头
+title_49302=大战巨鹰
+title_49303=反被栽赃
+title_49304=风波平息
+title_49305=争端开始
+title_49306=捕获熊王
+title_49307=活取熊胆
+title_49308=谁是谁非
+title_49309=疯癫妇人
+title_49310=追踪猎豹
+title_49311=口是心非
+title_49312=雄狮之怒
+title_49313=亡灵之斗
+title_49314=吊睛猛虎
+title_49315=为虎作伥
+title_49316=拯救少女
+title_49317=同归于尽
+title_49318=五龙捧圣
+title_49319=山庄危机
+title_49320=破而后立
+title_49321=不知所措
+title_49322=巨熊肆虐
+title_49323=剧终无语
+title_49324=自以为是
+title_49325=巧遇妇人
+title_49327=疑惑不断
+title_49328=往事如电
+title_49329=争端开始
+title_49330=加入山庄
+title_49331=山庄武学
+title_49332=山庄杂事
+title_49333=山庄杂事
+title_49334=山庄杂事
+title_49335=山庄杂事
+title_49336=山庄杂事
+title_49337=叛出山庄
+title_49338=出师—百兽庄
+title_49339=疯癫妇人
+title_49340=雄狮之怒
+title_49341=吊睛猛虎
+title_49342=山庄危机
+title_49343=猎杀任务
+title_49344=虎落平阳
+title_49410=猎杀王蛇
+title_49411=猎杀青眼虎王
+title_49412=猎杀毒蝎
+title_49413=猎杀通臂猿
+title_49414=猎杀七步蝮龟
+title_49415=猎杀红爪雄鹰
+title_49416=猎杀吊睛猛虎

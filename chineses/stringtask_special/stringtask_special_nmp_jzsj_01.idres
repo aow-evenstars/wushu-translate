@@ -1,0 +1,793 @@
+﻿
+DialogID_10500=<font face="Default" color="#ffffff" >多谢少侠了，我身上伤好多了。</font>
+DialogID_10501=<font face="Default" color="#ffffff" >嗯，这么快就回来了？我吩咐你的事情都</font><font face="Default" color="#ffffff" >做的怎么样了？</font>
+DialogID_10503=<font face="Default" color="#ffffff" >这些草药因为运到这里的时候药箱打翻了，很多药混在一起了，你拿一部分去帮我辨别后在来找我</font>
+DialogID_10506=<font face="Default" color="#ffffff" >我沈家以金针闻名于世，而光有针而不会用针也是不可取的，你也来了不短时间了，可以练习施针的本事了，喏这给你一组针，去门外准确的击中目标，这用针就需要多加练习</font>
+DialogID_10507=<font face="Default" color="#ffffff" >啊，听说沈家最近来了个身手不错的弟子，想必就是你了，看起来果然与众不同，失敬失敬。</font>
+DialogID_10508=<font face="Default" color="#ffffff" >我生病了，常常咳嗽，请了很多大夫都看过一直治不好。</font>
+DialogID_10509=<font face="Default" color="#ffffff" >最近一直胸口痛，呼吸困难，我估计活不长了</font>
+DialogID_10510=<font face="Default" color="#ffffff" >最近眼前老是一阵黑一阵黑的</font><font face="Default" color="#ffffff" >有种随时会晕倒的感觉</font>
+DialogID_10512=<font face="Default" color="#ffffff" >真是麻烦少侠你了。</font>
+DialogID_10517=<font face="Default" color="#ffffff" >诺，我这有几个捕兽夹，都给你了，你去堡外找找，我记得就围墙外就有些野兔到处乱窜</font><font face="Default" color="#ffffff" >，应该很容易捉到一只。</font>
+DialogID_10523=<font face="Default" color="#ffffff" >我不告诉你</font>
+DialogID_10524=<font face="Default" color="#ffffff" >恩，令牌有了</font><font face="Default" color="#ffffff" >，</font><font face="Default" color="#ffffff" >但是你已经暴露了，再穿这身打扮出去恐怕会被他们识破，来我给你准备了一套便衣，穿好去和他们谈谈。套出他们是受何人指使来此作乱</font>
+DialogID_10525=<font face="Default" color="#ffffff" >东西带来么？</font>
+DialogID_10527=<font face="Default" color="#ffffff" >{@0:text}</font>
+DialogID_10530=<font face="Default" color="#ffffff" >啊，你来了，我正发愁找不到人手帮忙，</font><font face="Default" color="#ffffff" >沈家有</font><font face="Default" color="#ffffff" >药物要运往金陵，</font><font face="Default" color="#ffffff" >希望你能将车子安全护送到成都外的驿站。</font>
+DialogID_10535=<font face="Default" color="#ffffff" >止血？我这里有些止血用的</font><font face="Default" color="#ffffff" >纱布</font><font face="Default" color="#ffffff" >，你拿去用吧！</font>
+DialogID_10539=<font face="Default" color="#ffffff" >你想教训外面的人？</font><font face="Default" color="#ffffff" >正好我刚好有新的东西要教你，你可以拿那些可恶的掷斧监工练练手，</font><font face="Default" color="#ffffff" >劳宫和涌泉穴对睡眠很有帮助，你只要用我教你的法子刺激他们的这两处穴位，他们就会昏昏欲睡。</font>
+DialogID_10540=<font face="Default" color="#ffffff" >（在上面似乎发现了一些虫子）</font>
+DialogID_10544=<font face="Default" color="#ffffff" >是我二弟要你过来的？</font><font face="Default" color="#ffffff" >他要的东西我已经准备好了，你这就拿去吧。</font>
+DialogID_10545=<font face="Default" color="#ffffff" >就活了，你看清楚了吗</font><font face="Default" color="#ffffff" >。</font>
+DialogID_10547=<font face="Default" color="#ffffff" >多谢沈家</font><font face="Default" color="#ffffff" >的好意，沈堡主的心意我就收下了。</font>
+DialogID_10548=<font face="Default" color="#ffffff" >沈家的心意我们收到了</font><font face="Default" color="#ffffff" >，我们徐家庄和沈家永远是兄弟。</font>
+DialogID_10549=<font face="Default" color="#ffffff" >{@0:text}</font>
+DialogID_10551=<font face="Default" color="#ffffff" >{@0:text}</font>
+DialogID_10554=<font face="Default" color="#ffffff" >年轻人手脚真麻利，我这老家伙可是可是越来越迟钝了，你是什么？你捡到的钱吗</font><font face="Default" color="#ffffff" >？你</font><font face="Default" color="#ffffff" >拾金不昧</font><font face="Default" color="#ffffff" >，真是难得。</font>
+DialogID_10556=<font face="Default" color="#ffffff" >喏！这里面装了3种草药，打开以后分别尝一下，切忌一次吃多种草药，你吃多了死了可别怨我没提醒你</font>
+DialogID_10601=<font face="Default" color="#ffffff" >再后来你效仿神农氏尝遍百草，此间辛苦你比谁都有体会，那么我再考你一考。不过这次要变点花样，这里有一副现成的药剂，你且试试能分辨出由什么组成吗？</font>
+DialogID_10603=<font face="Default" color="#ffffff" >太清楚我也说不清，您来晚了，要是不然我让刚才的客官给你描述下，包您马上明白。这样吧，就以我</font><font face="Default" color="#ffffff" >所</font><font face="Default" color="#ffffff" >听给您画个地图吧，但是找不找得到，我可不能打包票。</font>
+DialogID_10604=<font face="Default" color="#ffffff" >准备好了吗？</font>
+DialogID_10607=<font face="Default" color="#ffffff" >对对，就是它，透骨草！我马上用它配一副药给你，</font><font face="Default" color="#ffffff" >你跑的比我快</font><font face="Default" color="#ffffff" >，</font><font face="Default" color="#ffffff" >你先回去帮我把这副药给病人服下，</font><font face="Default" color="#ffffff" >再晚了我怕就来不及了。</font>
+DialogID_10608=<font face="Default" color="#ffffff" >感激就不必了，我天香茶林可不稀罕金针沈家的恩惠。若我所料不差，你是来找萧山凤那个疯婆子的吧。沈家这些陈芝麻烂谷子的事情我多少还是知道点。我一手下刚才来报，他看到了那疯婆子，我这就给你画张地图，你自己找吧，走的快点也许还能看到一场好戏</font><font face="Default" color="#ffffff" >呢</font><font face="Default" color="#ffffff" >。</font>
+DialogID_10610=<font face="Default" color="#ffffff" >哼，你可是来晚了一步。我一路跟着他们，果然发现他们在这里修炼偏针，今天我一定要抓他们俩个去见家父。</font>
+DialogID_10611=<font face="Default" color="#ffffff" >这点小伤，我能自行处理。</font>
+DialogID_10612=<font face="Default" color="#ffffff" >咳……咳……</font>
+DialogID_10614=<font face="Default" color="#ffffff" >兔子抓回来了吗。</font>
+DialogID_10616=<font face="Default" color="#ffffff" >草药好了吗？</font>
+DialogID_10618=<font face="Default" color="#ffffff" >终于成功了，</font><font face="Default" color="#ffffff" >如果没有你，我可能</font><font face="Default" color="#ffffff" >就毁了沈家的声誉</font><font face="Default" color="#ffffff" >，那时真成了沈家的罪人。</font>
+DialogID_10619=<font face="Default" color="#ffffff" >你终于回来了，事情怎么样了？</font>
+DialogID_10620=<font face="Default" color="#ffffff" >我知法犯法，有负父亲厚望，让他失望了，这是我应得到的惩罚。</font>
+DialogID_10621=<font face="Default" color="#ffffff" >少侠，你要救救我们这些可怜人啊，幸好你还没有抛弃我们，但是我还有一件事情相求，就是最近一个月，我们这些人一直都在这里，可是每天早上起来，我们都会失踪一个人，有男人，有妇女，也有孩子。他们失踪前没什么异样，失踪后也从来没有回来过，这让我们这一群人整天人心惶惶，害怕哪天自己也这么不明不白的丢了。少侠，请你一定要</font><font face="Default" color="#ffffff" >救救</font><font face="Default" color="#ffffff" >我们。</font>
+DialogID_10622=<font face="Default" color="#ffffff" >他们毕竟是我的哥哥，我到底是下不了手，可是想到那些无辜的百姓，我又恨不得……恨不得……</font>
+DialogID_10623=<font face="Default" color="#ffffff" >慢着，你先听我说，等我说完了，你在作打算。我和希珏确实在修炼偏针，我有过拿难民来练习偏针的想法，但是自从上次沈小溪使用偏针失败被父亲发现以后我们就断了这样的想法，我们修炼偏针也只不过是想让自己的医术更高明，但是我们可不愿意冒着一辈子不能行针的危险来修炼偏针。我和希珏只是修炼偏针，并没有做出什么伤天害理的事情，我们再有过错也罪不致死吧。至于那些难民是怎么失踪，我们兄弟两可就什么都不知道了。</font><font face="Default" color="#ffffff" >我的话说完了，你们信也好，不信也好。</font>
+DialogID_10624=<font face="Default" color="#ffffff" >偏针之术是沈家的不传之术，虽有神奇的功效，但是却有违人道，所以沈家的人不允许修炼</font><font face="Default" color="#ffffff" >。</font>
+DialogID_10626=<font face="Default" color="#ffffff" >原来他们还有这关系。</font>
+DialogID_10627=<font face="Default" color="#ffffff" >是我的嫂子徐心宁让你过来的，她真是</font><font face="Default" color="#ffffff" >多</font><font face="Default" color="#ffffff" >关闲事，我这么大的人难道还不会照顾好自己么，在说我哪有什么偷偷的看什么东西。</font>
+DialogID_10628=<font face="Default" color="#ffffff" >我们会保护好山庄的。</font>
+DialogID_10629=<font face="Default" color="#ffffff" >不管来的是谁，我们都可以从容应付了。</font>
+DialogID_10630=<font face="Default" color="#ffffff" >有我在你不必担心</font>
+DialogID_10633=<font face="Default" color="#ffffff" >你们沈家的沈小溪把我的病治的更加严重了，我来找他理论，他居然害怕的躲起来，不知去向了。</font>
+DialogID_10635=<font face="Default" color="#ffffff" >你小小年纪却能把事情看的如此透彻，很是难得，我若是再为难你那不显得我不如你了。这里有两个丹药对他俩的伤势有所帮助，你拿去给他们服下吧。</font>
+DialogID_10636=<font face="Default" color="#ffffff" >哈哈，多谢谢沈而小姐送我礼物，老朽却之不恭了。我这也有一件事，我希望你能带</font><font face="Default" color="#ffffff" >我</font><font face="Default" color="#ffffff" >向二少夫人问声好。</font>
+DialogID_10637=<font face="Default" color="#ffffff" >哈哈，你多心了，哪有会有什么敌人向沈家复仇，不过是外面的谣传罢了。</font>
+DialogID_10638=<font face="Default" color="#ffffff" >看来萧山凤又回来了，</font><font face="Default" color="#ffffff" >你们</font><font face="Default" color="#ffffff" >留在这里保护山庄，我要亲手了结这段恩怨。</font>
+DialogID_10642=<font face="Default" color="#ffffff" >哼，他还敢回来，难道他不知道偏针在沈家一直是禁学之术吗？念在他一心悔过，并且及时救好了病人，我就不再追究了，你去告诉他，依沈家家规，我决定罚他一生不能行针。你是沈家的弟子，这件事情你也要引以为戒，切不可抱着什么侥幸心理，否则我</font><font face="Default" color="#ffffff" >可</font><font face="Default" color="#ffffff" >不饶恕你，你可明白。</font>
+DialogID_10644=<font face="Default" color="#ffffff" >这本就是偏针换血，你考虑清楚了吗？</font>
+DialogID_10702=<font face="Default" color="#ffffff" >我要的带来了吗。</font>
+DialogID_10704=<font face="Default" color="#ffffff" >草药带来了么？</font>
+DialogID_10706=<font face="Default" color="#ffffff" >你把这么好的东西也带回来了。</font>
+DialogID_10708=<font face="Default" color="#ffffff" >这可真是一件宝贝。</font>
+DialogID_10710=<font face="Default" color="#ffffff" >这草药在中原一带可是非常稀有的</font><font face="Default" color="#ffffff" >。</font>
+DialogID_10716=<font face="Default" color="#ffffff" >带了多少药品过来。</font>
+DialogID_10723=<font face="Default" color="#ffffff" >这么多的</font><font face="Default" color="#ffffff" >木材</font><font face="Default" color="#ffffff" >，应该够暂时用的了吧。</font>
+DialogID_10729=<font face="Default" color="#ffffff" >多谢你了，你可帮了我的大忙。</font>
+DialogID_10735=<font face="Default" color="#ffffff" >你居然带了这么多，真是难得。</font>
+DialogID_10741=<font face="Default" color="#ffffff" >这么多的</font><font face="Default" color="#ffffff" >草药</font><font face="Default" color="#ffffff" >，你真是个了不起的人。</font>
+DialogID_10751=<font face="Default" color="#ffffff" >都带来了吗？</font>
+DialogID_10755=<font face="Default" color="#ffffff" >果然是好东西，真是要多谢你了。</font>
+DialogID_10760=<font face="Default" color="#ffffff" >城外</font><font face="Default" color="#ffffff" >北边</font><font face="Default" color="#ffffff" >地方有很多的病人。</font>
+DialogID_10761=<font face="Default" color="#ffffff" >想加入本门派得有沈家的令牌，</font><font face="Default" color="#ffffff" >并且一旦加入金针沈家就不能加入其它门派，你确定要加入？</font>
+DialogID_10764=<font face="Default" color="#ffffff" >苏州的东南面一带有很多病人。</font>
+DialogID_10768=<font face="Default" color="#ffffff" >在洛阳的东面一带有很多的病人</font>
+DialogID_10772=<font face="Default" color="#ffffff" >你从这里一直往南走，那边有个兵营</font><font face="Default" color="#ffffff" >。</font>
+DialogID_10773=<font face="Default" color="#ffffff" >我听史渊说你要叛出沈家，可有此事？</font>
+DialogID_10774=<font face="Default" color="#ffffff" >你来了，你是沈家最杰出的弟子之一，最近医术和武学上是否再有突破？</font>
+DialogID_10775=<font face="Default" color="#ffffff" >怎么是你？沈小溪呢？</font><font face="Default" color="#ffffff" >也罢他一定又借故不想来。那你就随我走一趟好了</font>
+DialogID_10776=<font face="Default" color="#ffffff" >可是长老....不，可是老园丁让你来这里寻我的？这无根门的窝点就在这湖面之下，我这边给你准备了套衣服你穿上，进去见机行事机灵点。</font><font face="Default" color="#ffffff" >准备好我就把你送过去</font>
+DialogID_10777=<font face="Default" color="#ffffff" >你晃晃悠悠的来这边做什么？看起来面生啊？新来的？门主可有吩咐如何处置这帮犯错的弟子？我这边刀子都磨好了就等着见血了</font><font face="Default" color="#ffffff" >。</font>
+DialogID_10778=<font face="Default" color="#ffffff" >啊，少侠你终于回来了，可有查到我亲戚还活着吗？</font>
+DialogID_10779=<font face="Default" color="#ffffff" >是你啊，我们继续学习沈家的医术吧。</font>
+DialogID_10780=<font face="Default" color="#ffffff" >你的医术进步很快。</font>
+DialogID_10781=<font face="Default" color="#ffffff" >我关注你很久了，你在沈家医术上很有成就。</font>
+DialogID_10782=<font face="Default" color="#ffffff" >沈家很久没有出现一个像你这样学的这么快的弟子了，不错不错</font><font face="Default" color="#ffffff" >。</font>
+QiecuoMenu_10517=<font face="Default" color="#ffffff" >请师兄赐教</font><font face="Default" color="#ffffff" >。</font>
+QiecuoMenu_10518=<font face="Default" color="#ffffff" >请师兄赐教</font><font face="Default" color="#ffffff" >。</font>
+QiecuoMenu_10622=<font face="Default" color="#ffffff" >脸不脸红你试一下不</font><font face="Default" color="#ffffff" >就</font><font face="Default" color="#ffffff" >知道了。</font>
+QiecuoMenu_10623=<font face="Default" color="#ffffff" >看招！</font>
+QiecuoTitle_10517=<font face="Default" color="#ffffff" >掌门说最近门内来了个比较厉害的弟子看来就是你了。</font>
+QiecuoTitle_10518=<font face="Default" color="#ffffff" >你是来找我比试的？我也刚好想找个人好好的活动一下，你不必紧张，用出你最大的力气。</font>
+QiecuoTitle_10622=<font face="Default" color="#ffffff" >助她一臂之力？说大话不脸红！</font>
+QiecuoTitle_10623=<font face="Default" color="#ffffff" >看来你们是有备而来啊，好！我来</font><font face="Default" color="#ffffff" >掂量一下</font><font face="Default" color="#ffffff" >你有多少斤两。</font>
+SubmitNpcEx_41553=去各个城市找寻患有疾病的人，完成一次“望”小游戏（提示：各个城市的病人可以通过查询“地图-采集-病人“获得病人对应的地图坐标位置）
+SubmitNpcEx_41554=去各个城市找寻患有疾病的人，利用闻疗法进行一次治疗（提示：各个城市的病人可以通过查询“地图-采集-病人“获得病人对应的地图坐标位置）
+SubmitNpcEx_41555=去各个城市找寻患有疾病的人，利用问疗法进行一次治疗（提示：各个城市的病人可以通过查询“地图-采集-病人“获得病人对应的地图坐标位置）
+SubmitNpcEx_41556=去各个城市找寻患有疾病的人，利用切疗法进行一次针灸治疗（提示：各个城市的病人可以通过查询“地图-采集-病人“获得病人对应的地图坐标位置）
+SubmitNpcEx_41557=去各个城市找寻患有疾病的人，完成一次“望”小游戏（提示：各个城市的病人可以通过查询“地图-采集-病人“获得病人对应的地图坐标位置）
+SubmitNpcEx_41558=去各个城市找寻患有疾病的人，利用闻疗法进行一次治疗（提示：各个城市的病人可以通过查询“地图-采集-病人“获得病人对应的地图坐标位置）
+SubmitNpcEx_41559=去各个城市找寻患有疾病的人，利用问疗法进行一次治疗（提示：各个城市的病人可以通过查询“地图-采集-病人“获得病人对应的地图坐标位置）
+SubmitNpcEx_41560=去各个城市找寻患有疾病的人，利用切疗法进行一次针灸治疗（提示：各个城市的病人可以通过查询“地图-采集-病人“获得病人对应的地图坐标位置）
+SubmitNpcEx_41602=告诉<a href="findnpc_new,city05,WorldNpc100065" style="HLStype1">沈珺</a>，这就去寻找沈小溪
+SubmitNpcEx_41614=病人已经被治好了，快告诉<a href="findnpc_new,city05,WorldNpc09928" style="HLStype1">沈小溪</a>
+SubmitNpcEx_41617=告诉<a href="findnpc_new,city05,WorldNpc09905" style="HLStype1">沈珺</a>关于沈沧海对沈小溪的处罚
+SubmitNpcEx_41618=让<a href="findnpc_new,city05,WorldNpc100061" style="HLStype1">难民头头</a>放心，沈家会帮忙调差难民失踪一事
+SubmitNpcEx_41619=让<a href="findnpc_new,city05,WorldNpc100053" style="HLStype1">沈珺</a>不必为难，沈堡主自会处理
+SubmitNpcEx_41620=回到沈家堡，看看此时<a href="findnpc_new,city05,WorldNpc09963" style="HLStype1">沈裴珏</a>的状况
+SubmitNpcEx_41622=询问<a href="findnpc_new,city05,WorldNpc09969" style="HLStype1">王天怀</a>，是否还有什么要考验自己的
+SubmitNpcEx_41623=问问<a href="findnpc_new,city05,WorldNpc09969" style="HLStype1">王天怀</a>，这到底是怎么回事
+SubmitNpcEx_41624=问问<a href="findnpc_new,city05,WorldNpc09969" style="HLStype1">王天怀</a>，看看自己是否能帮得上什么忙
+SubmitNpcEx_41626=人已经救治了，看看<a href="findnpc_new,city05,WorldNpc100067" style="HLStype1">幽冥宫长老</a>还有什么要说的
+SubmitNpcEx_41627=沈沧海让你向<a href="findnpc_new,city05,WorldNpc09969" style="HLStype1">王天怀</a>复命，让<a href="findnpc_new,city05,WorldNpc09969" style="HLStype1">王天怀</a>不必担心沈沧海
+SubmitNpcEx_41641=<a href="findnpc_new,city05,WorldNpc09778" style="HLStype1">沈希珏</a>有事找你相商，去他那看看吧。
+SubmitNpcEx_41642=<a href="findnpc_new,city05,WorldNpc09905" style="HLStype1">沈珺</a>有事与你相商，赶紧过去吧。
+SubmitNpcEx_41643=你已经证明了自己的实力，<a href="findnpc_new,city05,WorldNpc09969" style="HLStype1">王天怀</a>有要事找你相商。
+SubmitNpcEx_41650=回去找<a href="findnpc_new,city05,WorldNpc09778" style="HLStype1">沈希珏</a>复命
+SubmitNpcEx_41651=你已经达到了要求，去找<a href="findnpc_new,city05,WorldNpc09778" style="HLStype1">沈希珏</a>吧，他等你很久了。
+SubmitNpcEx_41655=与<a href="findnpc_new,city05,WorldNpc09928" style="HLStype1">沈小溪</a>交谈
+SubmitNpcEx_41656=与<a href="findnpc_new,city05,WorldNpc09905" style="HLStype1">沈珺</a>交谈
+SubmitNpcEx_41721=
+ZZAnswerText1_2661=<font face="Default" color="#ffffff" >摔伤，需要用易骨丹治疗</font>
+ZZAnswerText1_2662=<font face="Default" color="#ffffff" >大拇指内侧</font>
+ZZAnswerText1_2663=<font face="Default" color="#ffffff" >命不医，</font><font face="Default" color="#ffffff" >乞</font><font face="Default" color="#ffffff" >不医，</font><font face="Default" color="#ffffff" >仇</font><font face="Default" color="#ffffff" >不医</font>
+ZZAnswerText1_2665=<font face="Default" color="#ffffff" >头晕、耳鸣的病人。</font>
+ZZAnswerText1_2670=<font face="Default" color="#ffffff" >中府穴，云门下一寸处</font>
+ZZAnswerText2_2661=<font face="Default" color="#ffffff" >内伤，需要用大还丹治疗</font>
+ZZAnswerText2_2662=<font face="Default" color="#ffffff" >手掌心</font>
+ZZAnswerText2_2663=<font face="Default" color="#ffffff" >乞不医，命不医，死不医</font>
+ZZAnswerText2_2665=<font face="Default" color="#ffffff" >咳嗽不止的病人。</font>
+ZZAnswerText2_2670=<font face="Default" color="#ffffff" >少商穴，大拇指内侧</font>
+ZZAnswerText3_2661=<font face="Default" color="#ffffff" >食物中毒，需要用生甘草和绿豆治疗</font>
+ZZAnswerText3_2662=<font face="Default" color="#ffffff" >食指桡侧</font>
+ZZAnswerText3_2663=<font face="Default" color="#ffffff" >死不医，乞不医，仇不医</font>
+ZZAnswerText3_2665=<font face="Default" color="#ffffff" >患了相思病的人</font>
+ZZAnswerText3_2670=<font face="Default" color="#ffffff" >商阳穴，食指内侧</font>
+collectinfo_10501=先替老人止血，去采集<a href="findnpc_new,city05,GatherNpc_nmp_sj001" style="HLStype1">普通草药</a>
+collectinfo_10502=然后再采<a href="findnpc_new,city05,GatherNpc_nmp_sj002" style="HLStype1">一般草药</a>
+collectinfo_10503=采集<a href="findnpc_new,city05,GatherNpc_nmp_sj004" style="HLStype1">化骨莲</a>
+collectinfo_10504=采集<a href="findnpc_new,city05,GatherNpc_nmp_sj005" style="HLStype1">钻山风</a>
+collectinfo_10505=收集<a href="findnpc_new,city05,Gather_jzsj_002" style="HLStype1">退血草</a>
+collectinfo_10506=采集<a href="findnpc_new,school05,GatherNpc_nmp_sj006" style="HLStype1">天南星</a>
+collectinfo_10508=去<a href="findnpc_new,city05,PlotDoornmpsjdw002" style="HLStype1">堡外</a>抓一只受伤的兔子（合理使用背包中的捕兽夹，可成功抓到兔子，当你身上没有捕兽夹的时候，可以在<a href="findnpc_new,city05,WorldNpc100055" style="HLStype1">老园丁</a>处领取一个捕兽夹）
+collectinfo_10509=声望达到要求，换取相关凭证后开启下一段主线剧情。
+collectinfo_10529=在沈家周围采一些<a href="findnpc_new,city05,Gather_jzsj_032" style="HLStype1">青荚叶</a>
+collectinfo_10530=从<a href="findnpc_new,born04,monv041403" style="HLStype1">茶林毒蛇</a>身上收集血清
+collectinfo_10531=收集<a href="findnpc_new,," style="HLStype1"></a>浴阳药谱
+collectinfo_10532=收集<a href="findnpc_new,," style="HLStype1"></a>天心药录
+collectinfo_10533=收集<a href="findnpc_new,," style="HLStype1"></a>牵机奇经
+collectinfo_10534=收集药师制作的药物 延寿药酒
+collectinfo_10535=收集药师制作的药物 玉露药粉
+collectinfo_10536=收集药师制作的药物 固金药剂
+collectinfo_10531_1=收集<a href="findnpc_new,," style="HLStype1"></a>配方：无为本草
+collectinfo_10532_1=收集<a href="findnpc_new,," style="HLStype1"></a>配方：浴阳药谱
+collectinfo_10533_1=收集<a href="findnpc_new,," style="HLStype1"></a>配方：外台秘药
+collectinfo_10534_1=收集药师制作的药物 强效正气药膏（获得3级身份的药师用《三春正方》可制作获得）
+collectinfo_10535_1=收集药师制作的药物 茴香药剂（获得3级身份的药师用《三春正方》可制作获得）
+collectinfo_10536_1=收集药师制作的药物 补筋药汤（获得3级身份的药师用《三春正方》可制作获得）
+collectinfo_10537=在沈家周围采一些<a href="findnpc_new,city05,Gather_jzsj_031" style="HLStype1">金铁锁</a>
+collectinfo_10538=在沈家周围采一些<a href="findnpc_new,city05,Gather_jzsj_006" style="HLStype1">省头草</a>
+collectinfo_10539=在沈家周围采一些<a href="findnpc_new,city05,Gather_jzsj_030" style="HLStype1">参三七</a>
+collectinfo_10540=收集<a href="findnpc_new,city05,Gather_jzsj_005" style="HLStype1">柴火</a>
+collectinfo_10541=从<a href="findnpc_new,city05,monc050101" style="HLStype1">细脚毒蜘蛛</a>身上收集毒牙
+collectinfo_10543=捉一只<a href="findnpc_new,city05,Gather_jzsj_007" style="HLStype1">野兔</a>
+collectinfo_10544=收集<a href="findnpc_new,city05,Gather_jzsj_029" style="HLStype1">Gather_jzsj_029</a>
+collectinfo_10548=把院子里的<a href="findnpc_new,city05,Gather_jzsj_026" style="HLStype1">Gather_jzsj_026</a>打扫干净
+collectinfo_10549=从Gather_jzsj_003中解救妇女
+collectinfo_10550=将院子里的<a href="findnpc_new,city05,Gather_jzsj_026" style="HLStype1">落叶</a>打扫干净
+collectinfo_10551=打破<a href="findnpc_new,born04,Gather_jzsj_004" style="HLStype1">Gather_jzsj_004</a>
+collectinfo_10558=到千灯镇的天香茶林采一些新鲜的<a href="findnpc_new,born04,Gather_jzsj_028" style="HLStype1">茶叶</a>
+collectinfo_10603=到沈小溪房间的<a href="findnpc_new,city05,Gather_jzsj_008" style="HLStype1">药盒</a>里拿点药
+collectinfo_10613=捉一只<a href="findnpc_new,city05,Gather_jzsj_009" style="HLStype1">白兔</a>
+collectinfo_10615=采一颗<a href="findnpc_new,city05,Gather_jzsj_010" style="HLStype1">透骨草</a>
+collectinfo_10631=收集<a href="findnpc_new,city05,taskitem_jzsj_015" style="HLStype1">解药</a>
+collectinfo_10701=采集<a href="findnpc_new,born04,Gather_jzsj_011" style="HLStype1">象贝母</a>
+collectinfo_10703=采集<a href="findnpc_new,born03,Gather_jzsj_012" style="HLStype1">望江南</a>
+collectinfo_10707=收集<a href="findnpc_new,scene08,Gather_jzsj_014" style="HLStype1">野马追</a>
+collectinfo_10709=收集<a href="findnpc_new,scene08,Gather_jzsj_015" style="HLStype1">不灰草</a>
+collectinfo_10756=采集<a href="findnpc_new,city04,Gather_jzsj_013" style="HLStype1">海人草</a>
+collectinfo_10770=找到门口的<a href="findnpc_new,city05,wssz_516" style="HLStype1">万兽高级弟子</a>带领你前往<a href="findnpc,born04,255,0.6,990" style="HLStype1">吊晴猛虎的巢穴</a>找到并采集传说中的火焰草（提示：吸引猛虎去攻击巨石方可击碎巨石）
+collectinfo_10771=毒蝎的藏身之处一般都有<a href="findnpc_new,,Gather_jzsj_hu_002" style="HLStype1">寒霜草</a>此乃至阴至寒的草药，一般会生长在石头逢下
+collectinfo_10772=找到门口的<a href="findnpc_new,city05,wssz_516" style="HLStype1">万兽高级弟子</a>带领你前往<a href="findnpc,born01,101,163,575" style="HLStype1">雪山绝壁</a>采集传说中的黄金枝
+collectinfo_10773=找到门口的<a href="findnpc_new,city05,wssz_516" style="HLStype1">万兽高级弟子</a>带领你前往<a href="findnpc,school02,216,32,-63" style="HLStype1">红爪雄鹰的巢穴</a>，传说的中的银色妖姬草就在它的巢穴中
+collectinfo_10774=为沈家收集薄荷
+collectinfo_10775=为沈家收集苦情花
+collectinfo_10776=为沈家收集艾草
+collectinfo_10777=为沈家收集粗布
+collectinfo_10778=为沈家收集麻布
+collectinfo_10779=为沈家收集瓜州青
+collectinfo_10780=为沈家收集白杨木
+collectinfo_10781=为沈家收集柏木
+collectinfo_10782=为沈家收集桂花木
+collectinfo_10783=为沈家收集红粉白株
+collectinfo_10784=为沈家收集断肠花
+collectinfo_10785=为沈家收集马钱子
+collectinfo_10786=为沈家收集铁矿
+collectinfo_10787=为沈家收集铜矿
+collectinfo_10788=为沈家收集铅矿
+collectinfo_10789=前往<a href="findnpc,school02,352,797" style="HLStype1">丐帮</a>，使用师傅给的<a href="TASK_ITEM,useitem_shenjia_41538" style="HLStype1">御蛇丹</a>进入王蛇的毒圈内收集毒样
+collectinfo_10790=找到门口的<a href="findnpc_new,city05,wssz_516" style="HLStype1">万兽高级弟子</a>带领你前往<a href="findnpc,school01,736,60,702" style="HLStype1">七步蝮龟的巢穴</a>，使用师傅给的<a href="TASK_ITEM,useitem_shenjia_41542" style="HLStype1">御毒丹</a>进入蝮龟的毒圈内收集毒样（提示：如果中途御毒丹丢失可以回沈家堡去<a href="findnpc_new,city05,WorldNpc09968" style="HLStype1">沈三姑</a>那领取）
+collectinfo_10791=使用<a href="TASK_ITEM,Item_nmp_sjdw001" style="HLStype1">捕兽夹</a>抓一只<a href="findnpc_new,city05,PlotDoornmpsjdw003" style="HLStype1">梅花鹿</a>（提示：当你身上没有捕兽夹的时候，可以在<a href="findnpc_new,city05,WorldNpc100055" style="HLStype1">老园丁</a>处领取一个捕兽夹）
+collectinfo_10792=使用<a href="TASK_ITEM,Item_nmp_sjdw001" style="HLStype1">捕兽夹</a>抓一只<a href="findnpc_new,city05,PlotDoornmpsjdw004" style="HLStype1">貂</a>（提示：当你身上没有捕兽夹的时候，可以在<a href="findnpc_new,city05,WorldNpc100055" style="HLStype1">老园丁</a>处领取一个捕兽夹）
+collectinfo_10793=去山下找到<a href="findnpc_new,city05,WorldNpc100015" style="HLStype1">黒锋猛士</a>探得情报（提示：该伪装服装后仅有2分钟的时间去完成该步骤，如果时间到任然没有完成则任务只能失败。需重置任务方可重新开始任务）
+collectinfo_10794=从<a href="findnpc_new,,wgm_zd_004" style="HLStype1">犯错弟子</a>身上获得情报
+convoy_nmp_41722_1=你跟着我走，我给你简单介绍一下金针沈家。
+convoy_nmp_41722_11=大少爷，豪迈刚烈，积极进取，行事稳重，武功不弱，喜欢交朋友，饮酒海量。沈家许多的事情都由大少爷处理了。
+convoy_nmp_41722_12=这边是沈珺沈姑娘的闺房，她心思机敏，天性善良。
+convoy_nmp_41722_13=这里面就是内院了，沈家是世世代代以医为本，行侠仗义，为江湖人物敬仰，沈家也有自己的规矩，你入门以后应该谨记，决不能违反沈家的门规。
+convoy_nmp_41722_17=这边就是大厅了，沈堡主就在里面，你自己进去拜见堡主吧。
+convoy_nmp_41722_3=自从前代庄主沈劲风夫妇出征流寇，双双战死在嘉峪关口之后，沈家庄人丁凋零，但仍凭借着能与江湖各大宗派中唐门相匹敌的金针，令武林中人不敢轻视。现任的庄主为沈沧海，沈家在其手上盛极一时。
+convoy_nmp_41722_5=这里住的是沈庄主的义子沈小溪，他是庄主在拜佛的途中捡到的孤儿，当时小溪已经饿的奄奄一息，庄主说小溪应该是泛黄平原一带过来的难民，于是将他带回沈家，如自己孩子般抚养，心里比亲生孩子还要怜惜疼爱。
+convoy_nmp_41722_9=这两位是二少爷和二少夫人，二少爷经常和大少爷一起出去办事，二少夫人武功高强，冰雪聪明。
+convoy_talk_41503_2=这看病救人的功夫就如同做人一样，讲究实实在在，踏踏实实。你一个闪失就可能葬送一条人命
+convoy_talk_41503_3=这学医也讲究个循序渐进，操之过急是万万不可的。首先要了解病情，更要多了解药物。这二者就是我们学医之人必须掌握的学问
+convoy_talk_41503_4=你看此人上吐下泻胃部疼痛，多半是<font face="Default" color="#008B45" >食物中毒</font>。食物中毒就需要清热解毒，方可除去疾病
+convoy_talk_41503_5=此类食物中毒只需使用生<font face="Default" color="#008B45" >甘草和绿豆</font>熬制的汤药服用几日，就可以康复了
+convoyinfo_10504=护送载满药品的马车到<a href="findnpc_new,city05,WorldNpc100002" style="HLStype1">沈少席</a>所在的驿站
+convoyinfo_10531=保护药地的草药免受害虫侵害
+convoyinfo_10533=保护初生的草药免受蝗虫的攻击。
+convoyinfo_10544=跟随沈希珏
+convoyinfo_10607=带可怜的老人到<a href="findnpc_new,city05,WorldNpc09905" style="HLStype1">沈珺</a>处
+convoyinfo_10776=跟着高泰拜见堡主。
+convoyinfo_10777=陪同沈沧海一同去隔壁的治疗新来的病人
+hunterinfo_10501=击败闯入沈家堡<a href="findnpc_new,city05,PlotDoornmpsj001" style="HLStype1">门口</a>的<a href="findnpc_new,city05,NPC_nmp_sj001" style="HLStype1">江湖匪类</a>
+hunterinfo_10517=击败<a href="findnpc_new,city05,WorldNpc100009" style="HLStype1">章先林</a>
+hunterinfo_10518=和<a href="findnpc_new,city05,WorldNpc100010" style="HLStype1">范影</a>切磋武艺
+hunterinfo_10522=杀死<a href="findnpc_new,city05,monc050201" style="HLStype1">黑蜂快刀手</a>
+hunterinfo_10526=杀死<a href="findnpc_new,city05,WorldNpc100017" style="HLStype1">黑蜂头目</a>
+hunterinfo_10528=杀死<a href="findnpc_new,born04,monv041402" style="HLStype1">茶林监工</a>
+hunterinfo_10529=击败<a href="findnpc_new,born04,monv041103" style="HLStype1">天香茶林打手</a>
+hunterinfo_10530=击败<a href="findnpc_new,city05,monc050501" style="HLStype1">凶残打手</a>
+hunterinfo_10531=击败<a href="findnpc_new,city05,monc050500" style="HLStype1">凶残猎户</a>
+hunterinfo_10532=击败<a href="findnpc_new,city05,jzsj_task_41563"style="HLStype1">凶残的暴徒</a>
+hunterinfo_10537=踩死门口的<a href="findnpc_new,city05,jzsj_002" style="HLStype1">毒虫</a>（提示：靠近毒虫直接点击鼠标可以直接杀死毒虫，无需使用自身技能杀死毒虫）
+hunterinfo_10539=用金针刺中<a href="findnpc_new,city05,monc050205" style="HLStype1">掷斧监工</a><a href="TASK_ITEM," style="HLStype1"></a>的穴位，使他们沉睡
+hunterinfo_10545=杀死<a href="findnpc_new,city05,monc050200" style="HLStype1">四川黑背</a>
+hunterinfo_10546=杀死<a href="findnpc_new,city05,monc050205" style="HLStype1">掷斧监工</a>
+hunterinfo_10553=击败<a href="findnpc_new,city05,monc050202" style="HLStype1">黑蜂猛士</a>
+hunterinfo_10557=击败<a href="findnpc_new,city05,jzsj_034" style="HLStype1">蛊毒狂人头目</a>
+hunterinfo_10600=杀沈家周围的<a href="findnpc_new,city05,monc050205" style="HLStype1">掷斧监工</a>
+hunterinfo_10606=杀死<a href="findnpc_new,city05,jzsj_003" style="HLStype1">怪人头目</a>
+hunterinfo_10622=击败<a href="findnpc_new,city05,jzsj_035" style="HLStype1">沈希珏</a>
+hunterinfo_10623=击败<a href="findnpc_new,city05,jzsj_036" style="HLStype1">沈裴珏</a>
+hunterinfo_10650=击败<a href="findnpc_new,school02,boss_wssz_001" style="HLStype1">王蛇</a>（提示：使用师傅给的<a href="TASK_ITEM,useitem_shenjia_41538" style="HLStype1">御蛇丹</a>可以免疫王蛇的毒圈的效果）
+hunterinfo_10651=找到门口的<a href="findnpc_new,city05,wssz_516" style="HLStype1">万兽高级弟子</a>带领你前往<a href="findnpc,born04,255,0.6,990" style="HLStype1">吊晴猛虎的巢穴</a>攻克猛虎
+hunterinfo_10652=杀死<a href="findnpc_new,,boss_wssz_003" style="HLStype1">毒蝎</a>为民除害
+hunterinfo_10653=找到门口的<a href="findnpc_new,city05,wssz_516" style="HLStype1">万兽高级弟子</a>带领你前往<a href="findnpc,born01,101,163,575" style="HLStype1">雪山绝壁</a>追猎通臂猿为民除害
+hunterinfo_10654=找到门口的<a href="findnpc_new,city05,wssz_516" style="HLStype1">万兽高级弟子</a>带领你前往<a href="findnpc,school01,736,60,702" style="HLStype1">七步蝮龟的巢穴</a>，杀死七步蝮龟（提示：使用师傅给的<a href="TASK_ITEM,useitem_shenjia_41542" style="HLStype1">御毒丹</a>可以免疫毒圈的影响，如果中途御毒丹丢失可以回沈家堡去<a href="findnpc_new,city05,WorldNpc09968" style="HLStype1">沈三姑</a>那领取）
+hunterinfo_10655=找到门口的<a href="findnpc_new,city05,wssz_516" style="HLStype1">万兽高级弟子</a>带领你前往<a href="findnpc,school02,216,32,-63" style="HLStype1">红爪雄鹰的巢穴</a>，杀死红爪雄鹰
+hunterinfo_10705=击败<a href="findnpc_new,city04,jzsj_005" style="HLStype1">jzsj_005</a>
+hunterinfo_10709=使用金针攻击墙上<a href="findnpc,city05,318.291,768.320" style="HLStype1">练习物苹果</a>，<a href="findnpc,city05,313.267,766.074" style="HLStype1">木瓜</a>，<a href="findnpc,city05,335.310,772.97" style="HLStype1">碗</a>来练习施针的精准度（提示：使用临时技能栏上的技能，攻击墙上的练针物，完成任务）
+interactinfo_10500=飞飞飞飞飞飞飞
+interactinfo_10501=与<a href="findnpc_new,city05,WorldNpc09964" style="HLStype1">帮工杂役</a>交谈
+interactinfo_10502=去沈家堡<a href="findnpc_new,city05,PlotDoornmpsj001" style="HLStype1">门口</a>查看到底发生了<a href="findnpc_new,city05,EventNpc_nmp_sj001" style="HLStype1">什么</a>
+interactinfo_10503=与<a href="findnpc_new,city05,WorldNpc09928" style="HLStype1">沈小溪</a>交谈
+interactinfo_10504=先替老人止血，从那边采来<a href="findnpc_new,city05,GatherNpc_nmp_sj001" style="HLStype1">蒲黄</a>
+interactinfo_10506=与<a href="findnpc_new,city05,WorldNpc09905" style="HLStype1">沈珺</a>交谈了解使针的要诀
+interactinfo_10507=告诉<a href="findnpc_new,city05,WorldNpc100002" style="HLStype1">沈少席</a>药物安全抵达。
+interactinfo_10508=询问<a href="findnpc_new,city05,WorldNpc100003" style="HLStype1">生病的小吴</a>的病情
+interactinfo_10509=询问<a href="findnpc_new,city05,WorldNpc100004" style="HLStype1">生病的老张</a>的病情
+interactinfo_10510=询问<a href="findnpc_new,city05,WorldNpc100005" style="HLStype1">生病的老李</a>的病情
+interactinfo_10511=再采些<a href="findnpc_new,city05,GatherNpc_nmp_sj002" style="HLStype1">三七</a>
+interactinfo_10512=与<a href="findnpc_new,city05,PlotDoornmpsj001" style="HLStype1">门前</a>这位<a href="findnpc_new,city05,WorldNpc100054" style="HLStype1">可怜的老人</a>交谈
+interactinfo_10516=这让我去哪里捉动物啊，先<a href="findnpc_new,city05,EventNpc_nmp_sj002" style="HLStype1">到处看看</a>吧
+interactinfo_10517=向<a href="findnpc_new,city05,WorldNpc100055" style="HLStype1">老园丁</a>要几个捕兽夹
+interactinfo_10523=与<a href="findnpc_new,city05,WorldNpc100015" style="HLStype1">黑蜂猛士</a>交谈
+interactinfo_10524=带着令牌回去和<a href="findnpc_new,city05,WorldNpc09963" style="HLStype1">沈裴珏</a>商讨下一步计划
+interactinfo_10525=与<a href="findnpc_new,city05,WorldNpc09969" style="HLStype1">王天怀</a>交谈
+interactinfo_10527=破坏<a href="findnpc_new,city05,Gather_jzsj_027" style="HLStype1">草席</a>
+interactinfo_10528=略感不适，与沈希珏交谈了解情况。
+interactinfo_10530=<a href="findnpc_new,city05,WorldNpc09964" style="HLStype1">管家</a>那边有一车药物需你帮忙运往金陵
+interactinfo_10534=与<a href="findnpc_new,," style="HLStype1"></a>沈珺交谈，让她助你解除偏针。
+interactinfo_10535=那边那位<a href="findnpc_new,city05,WorldNpc09633" style="HLStype1">华生权</a>大哥应该有止血用的药吧，过去问问。
+interactinfo_10539=向<a href="findnpc_new,city05,WorldNpc09905" style="HLStype1">沈珺</a>讨教何如何对付外面的砍柴工人和掷斧监工
+interactinfo_10540=看看是否有害虫毁坏<a href="findnpc_new,city05,WorldNpc100111" style="HLStype1">药地的草药</a>
+interactinfo_10544=与<a href="findnpc_new,city05,WorldNpc09963" style="HLStype1">沈裴珏</a>交谈
+interactinfo_10545=与<a href="findnpc_new,city05,WorldNpc09778" style="HLStype1">沈希珏</a>交谈
+interactinfo_10547=将药物带给<a href="findnpc_new,city05,WorldNpc09801" style="HLStype1">江尊堂</a>
+interactinfo_10548=将药物带给<a href="findnpc_new,city05,WorldNpc09796" style="HLStype1">徐云铮</a>
+interactinfo_10549=从<a href="findnpc_new,born04,Gather_jzsj_003" style="HLStype1">装着人的麻袋</a>救出妇女
+interactinfo_10551=打碎<a href="findnpc_new,born04,Gather_jzsj_004" style="HLStype1">蛇蛋巢</a>
+interactinfo_10554=与<a href="findnpc_new,city05,WorldNpc09964" style="HLStype1">管家</a>交谈
+interactinfo_10556=与<a href="findnpc_new,city05,WorldNpc09928" style="HLStype1">沈小溪</a>交谈
+interactinfo_10601=准备接受<a href="findnpc_new,city05,WorldNpc09969" style="HLStype1">王天怀</a>的下一个问题
+interactinfo_10602=王天怀希望传授你最后的武学之前你能再下山<a href="findnpc_new,city05,EventNpc_jzsj_14" style="HLStype1">外出游医</a>一次
+interactinfo_10603=请<a href="findnpc_new,city05,WorldNpc09626" style="HLStype1">石庄</a>尽量把事情描述的详细点
+interactinfo_10604=根据图中所绘寻找萧山凤的踪迹
+interactinfo_10607=告诉<a href="findnpc_new,city05,WorldNpc100050" style="HLStype1">沈小溪</a>已近采到药了。
+interactinfo_10608=与<a href="findnpc_new,born04,WorldNpc00013" style="HLStype1">东方玉环</a>交谈
+interactinfo_10609=根据图中所绘寻找萧山凤的踪迹
+interactinfo_10610=<a href="findnpc_new,city05,WorldNpc100053" style="HLStype1">沈珺</a>已经追出去了，赶快追上她！
+interactinfo_10611=将药物给<a href="findnpc_new,city05,WorldNpc100051" style="HLStype1">沈沧海</a>服下
+interactinfo_10612=将药物给<a href="findnpc_new,city05,WorldNpc100068" style="HLStype1">萧山凤</a>服下
+interactinfo_10614=与<a href="findnpc_new,city05,WorldNpc09778" style="HLStype1">沈希珏</a>交谈
+interactinfo_10615=到崖壁上采一株<a href="findnpc_new,city05,Gather_jzsj_010" style="HLStype1">透骨草</a>
+interactinfo_10616=与<a href="findnpc_new,city05,WorldNpc09928" style="HLStype1">沈小溪</a>交谈
+interactinfo_10618=把病人的情况告诉<a href="findnpc_new,city05,WorldNpc09928" style="HLStype1">沈小溪</a>
+interactinfo_10619=将沈小溪的情况告诉<a href="findnpc_new,city05,WorldNpc09905" style="HLStype1">沈珺</a>
+interactinfo_10620=将处罚的结果告诉<a href="findnpc_new,city05,WorldNpc09928" style="HLStype1">沈小溪</a>
+interactinfo_10621=与难民头头<a href="findnpc_new,city05,WorldNpc100061" style="HLStype1">难民头头</a>谈谈
+interactinfo_10622=与<a href="findnpc_new,city05,WorldNpc100053" style="HLStype1">沈珺</a>交谈
+interactinfo_10623=与<a href="findnpc_new,city05,jzsj_036" style="HLStype1">沈裴珏</a>交谈
+interactinfo_10624=与<a href="findnpc_new,,WorldNpc09905" style="HLStype1">沈珺</a>交谈
+interactinfo_10627=与<a href="findnpc_new,,WorldNpc09965" style="HLStype1">沈恋慈</a>交谈
+interactinfo_10628=与<a href="findnpc_new,,WorldNpc100009" style="HLStype1">章先林</a>交谈
+interactinfo_10629=与<a href="findnpc_new,,WorldNpc100010" style="HLStype1">范影</a>交谈
+interactinfo_10630=与<a href="findnpc_new,,WorldNpc09778" style="HLStype1">沈希珏</a>交谈
+interactinfo_10633=与<a href="findnpc_new,city05,WorldNpc100047" style="HLStype1">老季</a>交谈
+interactinfo_10635=与<a href="findnpc_new,city05,WorldNpc100067" style="HLStype1">幽冥宫长老</a>交谈
+interactinfo_10636=到<a href="findnpc_new,city05,EventNpc_jzsj_11" style="HLStype1">沈裴珏</a>的住处看看他是否有异常举动
+interactinfo_10637=与<a href="findnpc_new,city05,WorldNpc09970" style="HLStype1">沈沧海</a>交谈
+interactinfo_10638=与<a href="findnpc_new,city05,WorldNpc09970" style="HLStype1">沈沧海</a>交谈
+interactinfo_10640=到<a href="findnpc_new,city05,EventNpc_jzsj_18" style="HLStype1">城外</a>看看难民的情况
+interactinfo_10642=向<a href="findnpc_new,city05,WorldNpc09970" style="HLStype1">沈沧海</a>询问如何处罚沈小溪
+interactinfo_10702=与<a href="findnpc_new,city05,WorldNpc100030" style="HLStype1">WorldNpc100030</a>交谈
+interactinfo_10706=与<a href="findnpc_new,city05,WorldNpc100030" style="HLStype1">WorldNpc100030</a>交谈
+interactinfo_10708=与<a href="findnpc_new,,WorldNpc100030" style="HLStype1">WorldNpc100030</a>交谈
+interactinfo_10710=与<a href="findnpc_new,city05,WorldNpc100023" style="HLStype1">WorldNpc100023</a>交谈
+interactinfo_10716=与<a href="findnpc_new,city05,WorldNpc100057" style="HLStype1">沈正</a>交谈
+interactinfo_10723=与<a href="findnpc_new,city05,WorldNpc100057" style="HLStype1">沈正</a>交谈
+interactinfo_10729=与<a href="findnpc_new,city05,WorldNpc100057" style="HLStype1">沈正</a>交谈
+interactinfo_10735=与<a href="findnpc_new,city05,WorldNpc100057" style="HLStype1">沈正</a>交谈
+interactinfo_10741=与<a href="findnpc_new,city05,WorldNpc100057" style="HLStype1">沈正</a>交谈
+interactinfo_10742=与<a href="findnpc_new,city05,WorldNpc100057" style="HLStype1">沈正</a>交谈
+interactinfo_10751=与<a href="findnpc_new,city05,WorldNpc100057" style="HLStype1">沈正</a>交谈
+interactinfo_10755=与<a href="findnpc_new,city05,WorldNpc100031" style="HLStype1">WorldNpc100031</a>交谈
+interactinfo_10760=与<a href="findnpc_new,city05,JobChengD009" style="HLStype1">朱洪涛</a>交谈
+interactinfo_10761=与<a href="findnpc_new,city05,WorldNpc100048" style="HLStype1">高泰</a>交谈
+interactinfo_10764=与<a href="findnpc_new,city02,JobSuZ009" style="HLStype1">何苍浩</a>交谈
+interactinfo_10768=与<a href="findnpc_new,city04,JobLuoY009" style="HLStype1">公孙智</a>交谈
+interactinfo_10772=与<a href="findnpc_new,scene08,yewaishop001" style="HLStype1">江湖郎中</a>交谈
+interactinfo_10773=向<a href="findnpc_new,city05,WorldNpc09970" style="HLStype1">沈沧海</a>提出退出金针沈家
+interactinfo_10774=作为一个出师的弟子你需要向<a href="findnpc_new,city05,WorldNpc09970" style="HLStype1">沈沧海</a>报道
+interactinfo_10775=去大厅找到<a href="findnpc_new,city05,WorldNpc09970" style="HLStype1">沈沧海</a>交谈
+interactinfo_10776=前往金陵与<a href="findnpc_new,city03,WorldNpc100110" style="HLStype1">接头人</a>碰面
+interactinfo_10777=穿好伪装的外衣与<a href="findnpc_new,city03,WorldNpc100110" style="HLStype1">接头人</a>对话传送进入无根门<a href="findnpc_new,school11,wgm_043" style="HLStype1">见机行事</a>找到老管家的亲戚（提示：任务期间可以向接头人领取伪装外衣，传送进入无根门）
+interactinfo_10778=回沈家堡回报<a href="findnpc_new,city05,WorldNpc100055" style="HLStype1">老园丁</a>
+interactinfo_10779=与<a href="findnpc_new,city05,WorldNpc09778" style="HLStype1">沈希珏</a>交谈，进行更高深的武学和医术学习。
+interactinfo_10780=与<a href="findnpc_new,city05,WorldNpc09778" style="HLStype1">沈希珏</a>交谈，继续沈家武学和医术的学习。
+interactinfo_10781=与<a href="findnpc_new,city05,WorldNpc09905" style="HLStype1">沈珺</a>交谈，继续沈家武学和医术的学习。
+interactinfo_10782=与<a href="findnpc_new,city05,WorldNpc09969" style="HLStype1">王天怀</a>交谈，继续沈家武学和医术的学习。
+maintext_2661=<font face="Default" color="#ffffff" >刚才那病人生的病你可还记得？此种病症需要何种药物进行调料？</font>
+maintext_2662=<font face="Default" color="#ffffff" >我再问你，</font><font face="Default" color="#ffffff" >少商穴位处在什么位置？</font>
+maintext_2663=<font face="Default" color="#ffffff" >我再问你，</font><font face="Default" color="#ffffff" >我沈家家规有哪三不医？</font>
+maintext_2665=<font face="Default" color="#ffffff" >我且</font><font face="Default" color="#ffffff" >问</font><font face="Default" color="#ffffff" >你，刺激</font><font face="Default" color="#ffffff" >中府</font><font face="Default" color="#ffffff" >穴位对什么症状的病人有效？</font>
+maintext_2670=<font face="Default" color="#ffffff" >我听说，你来沈家的第一天，沈小溪就教你认穴辨位。他先教你的是中府、少商、商阳三穴，想必这些你还记忆犹新吧。那么我现在问你第一个问题，我们沈家治疗晕迷的人，一般金针刺激他的哪个穴位，此穴位又在人体什么位置。</font>
+okmenu_10500=<font face="Default" color="#ffffff" >老人家，我这就去替你找人治病，您先休息一下。</font>
+okmenu_10501=<font face="Default" color="#ffffff" >弟子已经全部</font>
+okmenu_10503=<font face="Default" color="#ffffff" >好的，我马上就去。</font>
+okmenu_10506=<font face="Default" color="#ffffff" >我都准备好了</font><font face="Default" color="#ffffff" >，</font><font face="Default" color="#ffffff" >师姐请给我金针吧</font>
+okmenu_10507=<font face="Default" color="#ffffff" >沈大哥见笑了。</font>
+okmenu_10508=<font face="Default" color="#ffffff" >恩，让我看看吧。</font>
+okmenu_10509=<font face="Default" color="#ffffff" >恩，让我把把脉。</font>
+okmenu_10510=<font face="Default" color="#ffffff" >恩，让我仔细观察观察</font>
+okmenu_10512=<font face="Default" color="#ffffff" >老人家别客气，你现在好了些吧，先坐起来吧。</font>
+okmenu_10517=<font face="Default" color="#ffffff" >多谢老伯了。</font>
+okmenu_10523=<font face="Default" color="#ffffff" >告诉我那个人身份的秘密</font>
+okmenu_10524=<font face="Default" color="#ffffff" >少爷想的就是周到，我这就去探他个虚实</font>
+okmenu_10525=<font face="Default" color="#ffffff" >带来了</font>
+okmenu_10530=<font face="Default" color="#ffffff" >管家放心，我一定不服相托</font>
+okmenu_10535=<font face="Default" color="#ffffff" >多谢华大哥了。</font>
+okmenu_10539=<font face="Default" color="#ffffff" >好吧，我去试试看效果（我怎么感觉沈姑娘的方法</font><font face="Default" color="#ffffff" >似乎不能赶走那些监工</font><font face="Default" color="#ffffff" >）。</font>
+okmenu_10540=<font face="Default" color="#ffffff" >（我得想办法除掉这些虫子）</font>
+okmenu_10544=<font face="Default" color="#ffffff" >是，</font><font face="Default" color="#ffffff" >大</font><font face="Default" color="#ffffff" >少爷</font><font face="Default" color="#ffffff" >真是</font><font face="Default" color="#ffffff" >料事如神。</font>
+okmenu_10545=<font face="Default" color="#ffffff" >看清楚了。</font>
+okmenu_10547=<font face="Default" color="#ffffff" >愿两家永远相好</font><font face="Default" color="#ffffff" >。</font>
+okmenu_10548=<font face="Default" color="#ffffff" >能见到徐堡主十分荣幸</font><font face="Default" color="#ffffff" >。</font>
+okmenu_10551=<font face="Default" color="#ffffff" >okmenu_10551</font>
+okmenu_10554=<font face="Default" color="#ffffff" >这是我刚才打扫时捡到的碎银，我不知道是谁丢的，就由老先生还给失主吧。</font>
+okmenu_10556=<font face="Default" color="#ffffff" >好的沈少爷</font>
+okmenu_10601=<font face="Default" color="#ffffff" >弟子遵命。</font>
+okmenu_10603=<font face="Default" color="#ffffff" >多谢</font><font face="Default" color="#ffffff" >石</font><font face="Default" color="#ffffff" >兄弟。</font>
+okmenu_10604=<font face="Default" color="#ffffff" >药拿来了</font>
+okmenu_10607=<font face="Default" color="#ffffff" >好，你把</font><font face="Default" color="#ffffff" >配好的</font><font face="Default" color="#ffffff" >药给我，我马上回去。</font>
+okmenu_10608=<font face="Default" color="#ffffff" >多谢，东方</font><font face="Default" color="#ffffff" >场主</font><font face="Default" color="#ffffff" >我们后会有期(真神奇，东方玉环的样貌倒是和沈珺沈姑娘有七分相似，都是不可多得的美人，但是沈姑娘的心肠可比她好多啦）。</font>
+okmenu_10610=<font face="Default" color="#ffffff" >我也真要问清楚难民的事情，沈姑娘我助你一臂之力。</font>
+okmenu_10611=<font face="Default" color="#ffffff" >沈堡主先别说话，把这</font><font face="Default" color="#ffffff" >丹</font><font face="Default" color="#ffffff" >药服下疗伤。</font>
+okmenu_10612=<font face="Default" color="#ffffff" >萧前辈，把这药物服下吧，对你的伤势有帮助。</font>
+okmenu_10614=<font face="Default" color="#ffffff" >给你兔子</font><font face="Default" color="#ffffff" >。</font>
+okmenu_10616=<font face="Default" color="#ffffff" >药已经带来了。</font>
+okmenu_10618=<font face="Default" color="#ffffff" >啊哈哈，哪里哪里，没有你的好方法，我可有心无力</font><font face="Default" color="#ffffff" >。</font>
+okmenu_10619=<font face="Default" color="#ffffff" >小溪找到了医治病人的草药，我刚刚给那病人服下，应该没什么大碍了。</font>
+okmenu_10620=<font face="Default" color="#ffffff" >你不要灰心，也许哪天堡主就原谅你了。</font>
+okmenu_10621=<font face="Default" color="#ffffff" >大叔，</font><font face="Default" color="#ffffff" >你放心，我一定会将事情弄清楚。</font>
+okmenu_10622=<font face="Default" color="#ffffff" >我能理解你现在的心情</font><font face="Default" color="#ffffff" >，我们就将此事交给堡主决断吧。</font>
+okmenu_10623=<font face="Default" color="#ffffff" >这么说你也不知道那些难民失踪的事情了。</font>
+okmenu_10624=<font face="Default" color="#ffffff" >原来是这样。</font>
+okmenu_10626=<font face="Default" color="#ffffff" >真是没想到。</font>
+okmenu_10627=<font face="Default" color="#ffffff" >看来是我多事了。</font>
+okmenu_10628=<font face="Default" color="#ffffff" >师兄小心了。</font>
+okmenu_10629=<font face="Default" color="#ffffff" >师兄小心了。</font>
+okmenu_10630=<font face="Default" color="#ffffff" >多谢少爷</font>
+okmenu_10633=<font face="Default" color="#ffffff" >你先冷静，你的病沈家一定能为你治好，我也相信沈小溪不是这样逃避责任的人。</font>
+okmenu_10635=<font face="Default" color="#ffffff" >多谢前辈！</font>
+okmenu_10636=<font face="Default" color="#ffffff" >我这就去想二少夫人问好。</font>
+okmenu_10637=<font face="Default" color="#ffffff" >沈家救人为怀，武功高强，不该有什么敌人，但是弟子还是觉得小心为妙</font><font face="Default" color="#ffffff" >。</font>
+okmenu_10638=<font face="Default" color="#ffffff" >你一个人去太危险了，堡主。</font>
+okmenu_10642=<font face="Default" color="#ffffff" >弟子谨遵教诲。</font>
+okmenu_10644=<font face="Default" color="#ffffff" >绝不反悔</font>
+okmenu_10702=<font face="Default" color="#ffffff" >带来了。</font>
+okmenu_10704=<font face="Default" color="#ffffff" >带来了。</font>
+okmenu_10706=<font face="Default" color="#ffffff" >找个你应该需要吧。</font>
+okmenu_10708=<font face="Default" color="#ffffff" >好眼力。</font>
+okmenu_10710=<font face="Default" color="#ffffff" >请收下吧。</font>
+okmenu_10716=<font face="Default" color="#ffffff" >应该够用了吧。</font>
+okmenu_10723=<font face="Default" color="#ffffff" >放心吧，不够我再去想办法</font>
+okmenu_10729=<font face="Default" color="#ffffff" >不必客气。</font>
+okmenu_10735=<font face="Default" color="#ffffff" >一点心意。</font>
+okmenu_10741=<font face="Default" color="#ffffff" >哪里哪里……</font>
+okmenu_10751=<font face="Default" color="#ffffff" >都在这</font>
+okmenu_10755=<font face="Default" color="#ffffff" >哪里哪里。</font>
+okmenu_10760=<font face="Default" color="#ffffff" >多谢</font>
+okmenu_10761=<font face="Default" color="#ffffff" >是的，我确定加入金针沈家</font>
+okmenu_10764=<font face="Default" color="#ffffff" >多谢相告</font>
+okmenu_10768=<font face="Default" color="#ffffff" >多谢相告</font>
+okmenu_10772=<font face="Default" color="#ffffff" >多谢指教。</font>
+okmenu_10773=<font face="Default" color="#ffffff" >是的，我意已决！多谢堡主长久以来的栽培。</font>
+okmenu_10774=<font face="Default" color="#ffffff" >堡主…其实弟子今天是向堡主辞别的。弟子在沈家已有一段时间，对外面的江湖甚是怀念，所以想下山闯荡，还望堡主成全。</font>
+okmenu_10775=<font face="Default" color="#ffffff" >是！ 堡主</font>
+okmenu_10776=<font face="Default" color="#ffffff" >这~~怎么办，看来只能见机行事了</font><font face="Default" color="#ffffff" >。这回真是没有回头路了</font>
+okmenu_10777=<font face="Default" color="#ffffff" >（被当成传话的了，只能将计就计了，他说要杀就让你杀个痛快</font><font face="Default" color="#ffffff" >，不过说不定能从他们身上搜得什么，恩就这么办</font><font face="Default" color="#ffffff" >）门主说这伙人罪大恶极门规处置</font><font face="Default" color="#ffffff" >由我来负责将他们统统杀死</font>
+okmenu_10778=<font face="Default" color="#ffffff" >老人家不用太担心，你亲戚还活着，而且从他们门人身上的犯人记录上来看，你亲戚不会遭袭而死，属于要留活口的</font>
+okmenu_10779=<font face="Default" color="#ffffff" >好的，希珏公子</font>
+okmenu_10780=<font face="Default" color="#ffffff" >多谢沈公子夸奖。</font>
+okmenu_10781=<font face="Default" color="#ffffff" >多谢，</font><font face="Default" color="#ffffff" >沈小姐。</font>
+okmenu_10782=<font face="Default" color="#ffffff" >多谢前辈夸奖</font><font face="Default" color="#ffffff" >！</font>
+quest_menu_10501=沈公子，我已经准备好了。
+quest_menu_10502=堡主我回来了
+quest_menu_10601=<font face="Default" color="#ffffff" >你准备好我就开始考你了。</font>
+questioninfo_10501=回答<a href="findnpc_new,city05,WorldNpc09928" style="HLStype1">沈小溪</a>的问题
+questioninfo_10502=将刚才记录下的药方给<a href="findnpc_new,city05,WorldNpc09970" style="HLStype1">沈沧海</a>过目
+questioninfo_10601=回答<a href="findnpc_new,city05,WorldNpc09969" style="HLStype1">王天怀</a>的问题
+specialinfo_3500=按照沈珺的要求依次放入合适的药物
+specialinfo_3501=治疗病人，尽力抢救更多的人
+specialinfo_3502=提升金针沈家声望，获得巧手飞针的身份（需要金针沈家声望达到三万四千点），<a href="findnpc_new,city05,WorldNpc09778" style="HLStype1">沈希珏</a>将会有新的事情交给你去办。(可以前往<a href="findnpc_new,city05,WorldNpc09964" style="HLStype1">管家</a>处承接日常任务，坚持完成日常任务可获得大量金针沈家声望）
+specialinfo_3503=提升金针沈家的声望，获得金针度穴的身份（需要金针沈家声望达到七万六千点），然后<a href="findnpc_new,city05,WorldNpc09778" style="HLStype1">沈希珏</a>将有新的事情交给你去办。(可以前往<a href="findnpc_new,city05,WorldNpc09964" style="HLStype1">管家</a>处承接日常任务，坚持完成日常任务可获得大量金针沈家声望）
+specialinfo_3504=向<a href="findnpc_new,city05,WorldNpc100049" style="HLStype1">曲先谷</a>领取医疗篮。然后去各个城市找寻患有疾病的人，完成一次“望”小游戏（提示：各个城市的病人可以通过查询“地图-采集-病人“获得病人对应的地图坐标位置）
+specialinfo_3505=然后向<a href="findnpc_new,city05,WorldNpc100049" style="HLStype1">曲先谷</a>领取医疗篮。然后去各个城市找寻患有疾病的人，利用“闻”疗法进行一次治疗（提示：各个城市的病人可以通过查询“地图-采集-病人“获得病人对应的地图坐标位置）
+specialinfo_3506=向<a href="findnpc_new,city05,WorldNpc100049" style="HLStype1">曲先谷</a>领取医疗篮。然后去各个城市找寻患有疾病的人，利用“问”疗法进行一次治疗（提示：各个城市的病人可以通过查询“地图-采集-病人“获得病人对应的地图坐标位置）
+specialinfo_3507=向<a href="findnpc_new,city05,WorldNpc100049" style="HLStype1">曲先谷</a>领取医疗篮。然后去各个城市找寻患有疾病的人，利用“切”疗法进行一次针灸治疗（提示：各个城市的病人可以通过查询“地图-采集-病人“获得病人对应的地图坐标位置）
+specialinfo_3508=提升金针沈家的声望，获得飞针乱舞的身份（需要金针沈家声望达到十四万），然后<a href="findnpc_new,city05,WorldNpc09905" style="HLStype1">沈珺</a>将有新的事情交给你去办。(可以前往<a href="findnpc_new,city05,WorldNpc09964" style="HLStype1">管家</a>处承接日常任务，坚持完成日常任务可获得大量金针沈家声望）
+specialinfo_3509=提升金针沈家的声望，获得针法通玄的身份（需要金针沈家声望达二十三万六千五百点），然后<a href="findnpc_new,city05,WorldNpc09969" style="HLStype1">王天怀</a>将有新的事情交给你去办。(可以前往<a href="findnpc_new,city05,WorldNpc09964" style="HLStype1">管家</a>处承接日常任务，坚持完成日常任务可获得大量金针沈家声望）
+specialinfo_3510=前往千灯镇，完成一次天香茶林的踢馆活动
+specialinfo_3511=前往烟雨庄，完成一次盐帮的踢馆活动
+specialinfo_3512=前往洛阳，完成一次抱犊寨的踢馆活动
+specialinfo_3513=前往鸡鸣驿，完成一次恶虎山寨的踢馆活动
+specialinfo_3514=前往唐门，完成一次天宝寨的踢馆活动
+story_10501_1=<font face="Default" color="#ffffff" >多谢少侠相助了，咳咳……老夫我……</font><font face="Default" color="#ffffff" >这几个宵小之辈到是没有什么……只是，老夫……</font>
+story_10501_2=<font face="Default" color="#ffffff" >老夫也不知道，咳……咳……</font>
+story_10501_3=<font face="Default" color="#ffffff" >我身上的伤不要紧，只是我病了大半个月了，咳……</font>
+story_10502_1=<font face="Default" color="#ffffff" >别急，</font><font face="Default" color="#ffffff" >别急，</font><font face="Default" color="#ffffff" >我沈家堡行医多年，自然有自己治病救人的规矩</font><font face="Default" color="#ffffff" >。</font>
+story_10502_2=<font face="Default" color="#ffffff" >你且先说说</font><font face="Default" color="#ffffff" >刚刚门口到底发生了什么？</font>
+story_10502_3=<font face="Default" color="#ffffff" >然后你与他们争斗起来了？</font>
+story_10502_4=<font face="Default" color="#ffffff" >放肆！谁让你出手的！难道你不知道我沈家堡的家规</font><font face="Default" color="#ffffff" >！</font><font face="Default" color="#ffffff" >不得参与江湖争斗，</font><font face="Default" color="#ffffff" >你懂不懂是什么意思？！</font><font face="Default" color="#ffffff" >谁让你在我沈家堡门外挑起争端的！</font>
+story_10502_5=<font face="Default" color="#ffffff" >不要再说了，我沈家堡虽是身在江湖，世代行医，但我们只治病救人，绝不参与江湖争端，这是祖上定下的规矩，谁也不能违背。</font><font face="Default" color="#ffffff" >念你初犯，我就不罚你了。</font>
+story_10502_6=<font face="Default" color="#ffffff" >哼，</font><font face="Default" color="#ffffff" >我不是跟你说过么</font><font face="Default" color="#ffffff" >，所谓乞不医，你都说了那人是一个老乞丐，定是付不起诊金的，这是我们沈家自祖上定的规矩，你还是不要多事了。</font>
+story_10502_7=<font face="Default" color="#ffffff" >我知道你们新进的弟子有时候不能理解这些规矩，但是规矩毕竟就是规矩，以后你就明白了，这天下每天有多少人生病受伤，就算我沈家医术再怎么高明也没救不了那么多人，你明白么？没有这些规矩，我沈家又怎么能屹立江湖这么多年。你还是先好好学学家规，</font><font face="Default" color="#ffffff" >等你学好了，</font><font face="Default" color="#ffffff" >我再教你医术。</font>
+story_10503_1=<font face="Default" color="#ffffff" >你是？</font>
+story_10503_2=<font face="Default" color="#ffffff" >求医？乞丐</font><font face="Default" color="#ffffff" >？老头？不医，不医！你这新进弟子难道没有好好研读我沈家家规，我这就让家丁将那老乞丐赶走，真是晦气！</font>
+story_10504_1=<font face="Default" color="#ffffff" >是你？听说你在替一个乞丐求医，真是糊涂。</font>
+story_10504_2=<font face="Default" color="#ffffff" >小溪已经训斥过你了，怎么不知悔改，你还是回去吧，不要参与此事，一个新入堡的弟子不要多管闲事。</font>
+story_10505_1=<font face="Default" color="#ffffff" >有事？</font>
+story_10505_2=<font face="Default" color="#ffffff" >他的家人呢？来我沈家堡求医自然有家人带着诊金前来，怎么让你一个弟子过来了？</font>
+story_10505_3=<font face="Default" color="#ffffff" >没想到我正愁没有活……哦，不对，你很不错，快，快将那个老头带过来，本公子要亲自试试……亲自救，对，救他！</font>
+story_10506_1=<font face="Default" color="#ffffff" >多谢少侠关心，我已经好多了，刚刚</font><font face="Default" color="#ffffff" >从堡里出来</font><font face="Default" color="#ffffff" >一位姑娘过来医治过我了。</font>
+story_10506_2=<font face="Default" color="#ffffff" >那位姑娘似乎也不愿意透露身份，她给我施针敷药之后，劝我</font><font face="Default" color="#ffffff" >早点离开，只是我想着还是等少侠你过来了，好好谢谢你再走。</font>
+story_10506_3=<font face="Default" color="#ffffff" >原来如此，今天的事情多亏少侠了</font><font face="Default" color="#ffffff" >，看样子少侠也认识那位姑娘，</font><font face="Default" color="#ffffff" >她来去的匆忙，</font><font face="Default" color="#ffffff" >也</font><font face="Default" color="#ffffff" >请少侠</font><font face="Default" color="#ffffff" >帮我</font><font face="Default" color="#ffffff" >好好谢谢</font><font face="Default" color="#ffffff" >她。</font>
+story_10507_1=<font face="Default" color="#ffffff" >咳，咳，多谢少侠，好多了，只是我这病……</font>
+story_10508_1=<font face="Default" color="#ffffff" >不急，不急。我记得上次就见过你，当时你说有病人求医，怎么后来没有将病人带到本公子这里来</font><font face="Default" color="#ffffff" >让本公子救人</font><font face="Default" color="#ffffff" >？难道是不相信本公子的医术么！</font>
+story_10508_2=<font face="Default" color="#ffffff" >他怎么了？</font><font face="Default" color="#ffffff" >！</font>
+story_10508_3=<font face="Default" color="#ffffff" >不见了？！怎么会不见了？</font>
+story_10508_4=<font face="Default" color="#ffffff" >哼，你最好不要骗我！算了，</font><font face="Default" color="#ffffff" >你</font><font face="Default" color="#ffffff" >先去采些草药</font><font face="Default" color="#ffffff" >过</font><font face="Default" color="#ffffff" >来，</font><font face="Default" color="#ffffff" >本公子今天教教你神农尝百草之术。</font>
+story_10509_1=<font face="Default" color="#ffffff" >药性很好，恩，</font><font face="Default" color="#ffffff" >本公子正缺这些药物，干得不错。</font>
+story_10509_2=<font face="Default" color="#ffffff" >光会采药可不行，我沈家弟子要想医术高明，必须要能够效仿神农尝百草，正好，我这里有一颗药性不明的草药，你可敢一试？</font>
+story_10510_1=<font face="Default" color="#ffffff" >哈哈，没想到这子午阴阳针果然有效，你居然还活着。</font>
+story_10510_2=<font face="Default" color="#ffffff" >哼，我让你之前欺骗本公子，告诉你，你现在中了本公子的子午阴阳针，我劝你最好不要忤逆我，哼哼！</font><font face="Default" color="#ffffff" >你现在身上的子午阴阳针-母针，每隔六个时辰就会产生子针影响你全身穴道，只有我的独门解药才能暂时祛除子针的影响。</font>
+story_10510_3=<font face="Default" color="#ffffff" >哼，之前的事我不想追究，本公子研究偏……此事，尚不能让你知道，总之，你现在老老实实在我手下办事，本公子吩咐你办的事，最好不要说出去，否则，</font><font face="Default" color="#ffffff" >这子午阴阳针发作的感觉，可不好受！</font>
+story_10510_4=<font face="Default" color="#ffffff" >又不是让你去死，那么激动干什么，你只要听话，好处少不了你的。本公子研究针法，上次你过来找我求医，本来打算找那个送上门的病人试验，没想到你居然欺骗了我，实在让我气愤。</font>
+story_10510_5=<font face="Default" color="#ffffff" >哼，现在你还是老老实实听从我的吩咐，如果你敢</font><font face="Default" color="#ffffff" >将</font><font face="Default" color="#ffffff" >这些事说出去，定让你死的很难看。不过，要是你办事利索，本公子决不吝啬，诺，你先替我抓些动物过来，我要试验针法。此事决不能让堡中人知道！</font>
+story_10512_1=原来是少侠你啊，你还记得那年沈家堡门口的老乞丐么？
+story_10512_2=<font face="Default" color="#ffffff" >少侠好久不见，</font><font face="Default" color="#ffffff" >自从上次病好之后我也没个去处，后来就来沈家堡领了这份园丁的活，只是少侠最近一直忙于研习武学和医术，也没有遇见过我。今天</font><font face="Default" color="#ffffff" >看你</font><font face="Default" color="#ffffff" >匆忙</font><font face="Default" color="#ffffff" >的样子，似乎有什么</font><font face="Default" color="#ffffff" >急事</font><font face="Default" color="#ffffff" >？</font>
+story_10512_3=<font face="Default" color="#ffffff" >此事好办，我沈家堡依山而建，堡外就有很多动物，只是要抓活的话，确实得费些力气，我这好像有几个捕兽夹，容我找找。</font>
+story_10519_1=<font face="Default" color="#ffffff" >少侠不知你是否听说过江湖上有一门派叫“无根门”的，他们门派是一伙秘密的组织，据说都是由一群阉人组成的。</font><font face="Default" color="#ffffff" >只要被这伙人看上的人都会被神不知鬼不觉的抓走，甚至被阉割，是生是死世间无人得知，似乎世间根本就没有这人来过。</font>
+story_10519_2=<font face="Default" color="#ffffff" >哎，老朽前几日老家的来书信说我一亲戚被从天而降的无根门弟子抓到他们的秘密基地里，我这些日子连夜打听，终于打听到无根门的秘密基地在金陵的皇宫内，还望少侠再帮老朽一把看看我的亲戚是生是死。堡内上下我看也只有你会帮我了，</font><font face="Default" color="#ffffff" >我亲戚姓梁单名一个辰字。</font><font face="Default" color="#ffffff" >老朽这就给你跪下了，还望少侠再帮我这老骨头一把。</font>
+story_10520_1=<font face="Default" color="#ffffff" >痛苦的回忆</font>
+story_10521_1=<font face="Default" color="#ffffff" >未来没有希望</font>
+story_10525_1=<font face="Default" color="#ffffff" >原来是新进的弟子啊，不错不错，堡主他最近比较忙，所以新进弟子的安排都交由我负责。既然加入我金针沈家，必然能学到上乘的武学，当然更重要的是我沈家高明的医术。</font><font face="Default" color="#ffffff" >不过，这些也都是要你付出努力才能得到的。</font>
+story_10525_2=<font face="Default" color="#ffffff" >我沈家堡有三条家规和三条医规，你可知道？</font>
+story_10525_3=<font face="Default" color="#ffffff" >还有一条，切记，不得参与江湖争斗！</font>
+story_10525_4=<font face="Default" color="#ffffff" >此乃金针三条家规，总之我沈家乃是江湖上赫赫有名医术世家，行事切不可有损我沈家名声。同时，我沈家金针虽治病救人，但你要牢记有三不医！</font>
+story_10525_5=<font face="Default" color="#ffffff" >我沈家祖传的医规，乃是命不医！乞不医！死不医！</font>
+story_10525_6=<font face="Default" color="#ffffff" >你且记住了，医者医病，不医命。续命之事乃是与天道做对，不可为！此乃命不医。而死不医指的是，医死一命，抵偿一命，因此没有把握的病人不医</font><font face="Default" color="#ffffff" >。</font>
+story_10525_7=<font face="Default" color="#ffffff" >好，我看你已经有了一些习武的底子，武技的修炼可以先放一放，我这就准备准备开始教你医术。哦，对了，刚刚有弟子来报门口似乎发生了什么争吵，你先去看一看，回来我再教你医术。</font>
+story_10526_1=<font face="Default" color="#ffffff" >既然知道家规了就好好学习医术，以后不要再犯了。</font>
+story_10526_2=<font face="Default" color="#ffffff" >我金针沈家乃江湖上赫赫有名的行医世家，身为我沈家弟子，必须要掌握一手好的医术。医术与习武一样，从来就不是一蹴而就的，打下一个好的基础十分重要。虽说你如今已经过了学医的最佳年龄，不过我还是会尽力将我所知道的传授给你，能学到多少就看你自己的。</font>
+story_10526_3=<font face="Default" color="#ffffff" >我沈家医术，主要以针法和灸法为主，以用药为辅，而不管针法和灸法都离不开对人体穴位的认识。我知道你有些习武的底子，对经脉穴位并不陌生，不过习武所认识的穴道多是关乎武技一类，若是治病救人又有不同。今天就从基础的开始，你且好好听着。</font>
+story_10526_4=<font face="Default" color="#ffffff" >你且记住，神气之所游行出入也，非皮肉筋骨也。沈家医术，对症下药，不同穴位对应不同症状。今天先教你中府、少商、商阳三处穴位。首先讲中府，此乃手足太阴两经之交会处，距任脉六寸，云门下一寸处。对于咳嗽之病症，以沈家针法疗养可痊愈。</font>
+story_10526_5=<font face="Default" color="#ffffff" >然后讲少商，此穴位位于大指内侧去爪甲角一分许，当赤白肉际。所谓“少商曲泽，血虚口渴同施”，此乃通瘀解热之要穴。对于昏迷的病人，以沈家针法刺激，可救急。你可明白？</font>
+story_10526_6=<font face="Default" color="#ffffff" >最后讲商阳，此穴位位于食指桡侧去爪甲角一分许，当赤白肉际。所谓“寒疟兮，商阳太溪验”，对于心下满，伤害疾者，以沈家针法疗养可痊愈。你可记得。</font>
+story_10526_7=<font face="Default" color="#ffffff" >恩，不错不错，既然你说你记下了，我现在就考考你。</font>
+story_10534_1=<font face="Default" color="#ffffff" >沈家家丁已经回来说过了，是我那两个没用的儿子偷学偏针禁术么</font><font face="Default" color="#ffffff" >？</font>
+story_10534_2=<font face="Default" color="#ffffff" >咳……咳……家丑不可外扬，此事还是不要张扬了，这两个没用的家伙我自然会狠狠的教训他们一顿，你将他们带回堡中吧。</font>
+story_10534_3=<font face="Default" color="#ffffff" >难民、乞丐的事休要再提，官府不会为这点小事追究我们沈家堡的，就这样吧，你和小珺也不要多管闲事了。</font>
+story_10601_1=<font face="Default" color="#ffffff" >啊，让我想想你还做过什么，你还学过采草药，你还学过如何对症下药，如何在时间紧急的情况下用最好的方法救治更多的人等等。我很还没见过有哪个弟子如你这般的用功，也没见过哪个弟子在这么短的时间内可以学的那么多又那么好。</font>
+story_10601_2=<font face="Default" color="#ffffff" >你不必谦虚，我想我似乎也没什么可以在教你的了，这是你这么些天所付出的努力应有的回报。</font>
+story_10601_3=<font face="Default" color="#ffffff" >我想让你再下一次山完成一次行医，这样我就可以把我会的都传授给你，你可有信心完成这次的历练。</font>
+story_10602_1=<font face="Default" color="#ffffff" >哎，此时说来话长，得从二十多年前说起。萧山凤本</font><font face="Default" color="#ffffff" >是</font><font face="Default" color="#ffffff" >我们堡主年轻时的情人，他们育有一子便是老大沈裴珏了。此事隐瞒多年，</font><font face="Default" color="#ffffff" >庄内几乎没人知道，连</font><font face="Default" color="#ffffff" >裴珏自己都不知道。</font>
+story_10602_2=<font face="Default" color="#ffffff" >（王天怀似乎出了神）后来，后来沈堡主的父母并不同意堡主和萧山凤之间的婚事，加上堡主年轻时风流多情，所以堡主就和希珏的母亲成亲并生下裴珏，萧山凤也在堡主成亲时含恨离开。没想到这么些年过去了，她满头青丝</font><font face="Default" color="#ffffff" >已</font><font face="Default" color="#ffffff" >成银发却还是含恨在心。</font>
+story_10602_3=<font face="Default" color="#ffffff" >毕竟是母子，只是她对堡主的恨意更甚以往了。其实萧山凤当年出走之时还盗走了沈家的偏针之术。偏针乃是沈家的不专之术，连沈家自己人都不得学习。</font>
+story_10602_4=<font face="Default" color="#ffffff" >我本想这次趁着萧山凤回来认裴珏之际，让他们母子团圆，了却这一段恩怨。没想到裴珏这孩子不识自己的亲生母亲，还将她打伤。</font>
+story_10603_1=<font face="Default" color="#ffffff" >嘿，客官</font><font face="Default" color="#ffffff" >您</font><font face="Default" color="#ffffff" >好，这边请！</font>
+story_10603_2=<font face="Default" color="#ffffff" >（石庄搓着手指，</font><font face="Default" color="#ffffff" >一脸干笑)店里行人各异，奇怪的人我见的多，正常的人也不少，就是不知少侠口中的是哪一样人物了。</font>
+story_10603_3=<font face="Default" color="#ffffff" >客官您太客气了，今天奇怪的客人没有，但是奇怪的事情倒是有一件。刚才我听客人在这谈论什么，说是有一个疯疯癫癫的老婆子，满头白发，从东边一路向西北的方向跑去，一路上东倒西歪横冲直撞，你说奇怪不奇怪。不知客官对这个轶事满意不？</font>
+story_10603_4=<font face="Default" color="#ffffff" >具体我也不太记得了，要不然我给你画张图吧，我看</font>
+story_10605_1=<font face="Default" color="#ffffff" >你不在沈家庄里</font><font face="Default" color="#ffffff" >好好学习</font><font face="Default" color="#ffffff" >，怎么跑到这</font><font face="Default" color="#ffffff" >里来了</font><font face="Default" color="#ffffff" >。</font>
+story_10605_2=<font face="Default" color="#ffffff" >沈希珏让你去找生病</font><font face="Default" color="#ffffff" >的</font><font face="Default" color="#ffffff" >乞丐难民给他医治</font><font face="Default" color="#ffffff" >？</font><font face="Default" color="#ffffff" >这可不像他的为人。难道他忘了沈家的家规了？</font>
+story_10605_3=<font face="Default" color="#ffffff" >先不管沈希珏的事情了，如果他真的想救人，他自己会救的。刚才沈家来了一个病人，说他的病被小溪治的更加糟糕了，这可就奇怪了，按沈小溪的医术再不济也不会把别人治的更加的严重。沈小溪也因此不见踪影了，我出来就是为了寻他，你也找找看，他这个</font><font face="Default" color="#ffffff" >人</font><font face="Default" color="#ffffff" >心气极高，我担心他想不开做出什么傻事。</font>
+story_10605_4=<font face="Default" color="#ffffff" >恩，我出来了大半天一直没找到小溪，只是刚刚打听到有人看到他去郊外半山腰的悬崖那边了，我担心他做什么傻事，只是我只精通医术却未曾学过轻功，幸好你过来了……</font>
+story_10606_1=<font face="Default" color="#ffffff" >没有，没有……</font><font face="Default" color="#ffffff" >你想多了，我是来采药的。</font>
+story_10606_2=<font face="Default" color="#ffffff" >当然了，要不然你以为呢，那个病人虽然是我的错，但是我还是能够救回他的，只是现在缺一株草药，长在前面的悬崖上，你也知道我轻功很烂，正愁怎么采呢，你就过来。要不然……</font>
+story_10608_1=<font face="Default" color="#ffffff" >你是金针沈家的人？</font>
+story_10608_2=<font face="Default" color="#ffffff" >哼，这么说你是到我这边来要人了？</font>
+story_10608_3=<font face="Default" color="#ffffff" >哈哈哈，你一个刚入江湖的后辈居然也在本</font><font face="Default" color="#ffffff" >场主</font><font face="Default" color="#ffffff" >面前大言不惭，想我闯荡江湖的时候，你还不知道江湖为何物。也罢，我一</font><font face="Default" color="#ffffff" >场主</font><font face="Default" color="#ffffff" >也不能和你这小辈一般见识。</font>
+story_10610_1=<font face="Default" color="#ffffff" >没错，老夫确为幽冥宫的长老，但老夫绝非有意</font><font face="Default" color="#ffffff" >欺瞒</font><font face="Default" color="#ffffff" >于你。</font>
+story_10610_2=<font face="Default" color="#ffffff" >哈哈，小友切莫生气，想当初小友你刚进沈家之时，什么医术都不会，但是你有一个行医救人的心，敢顶着沈家的家规求人救我这一个邋遢的老头儿，这一点沈沧海就不如你。</font>
+story_10610_3=<font face="Default" color="#ffffff" >刚才的事情你也看到了，他们两人本可以成为令人羡慕的一对夫妇，没想到一个贪恋美色，一个贪恋那所谓的武学，到最后大打出手，岂不是让人笑话。</font>
+story_10610_4=<font face="Default" color="#ffffff" >这萧山凤这么多年来一直都在想着颠覆沈家，沈沧海贵为一个医疗世家的家主更是用成都城外的乞丐难民修炼偏针，可以说他们二人都是丧心病狂之辈，但说这一点倒是很有夫妻相。</font>
+story_10610_5=<font face="Default" color="#ffffff" >你有恩于我，老夫本不应该瞒你，但是此事有关于我幽冥宫，而非老夫私事，恕老夫不能相告。但老夫可以向你保证，在沈家期间</font><font face="Default" color="#ffffff" >老夫</font><font face="Default" color="#ffffff" >绝没有做出什么对沈家不利的事情。并且此间事情事情已了，老夫也要立刻回宫。</font>
+story_10610_6=<font face="Default" color="#ffffff" >这二人半辈子都做梦，以为学了偏针就能就能无敌于天下，老夫只是让他们认清现实，何来伤害一说。你是一个医者只会救人从不害人，而这二人却都是心狠手辣之辈根本不值得救治，救了以后反而害了更多的人，不知道你会怎么处置他们二人呢</font><font face="Default" color="#ffffff" >?</font>
+story_10621_1=<font face="Default" color="#ffffff" >少侠，你要救救我们这些可怜人啊。你在来晚点，我们这</font><font face="Default" color="#ffffff" >些</font><font face="Default" color="#ffffff" >人可能都要没命了。</font>
+story_10621_2=<font face="Default" color="#ffffff" >我们这些人生来命苦，你刚才虽然救了我们一时的命，但是保不准今晚我们可能就会没了。</font>
+story_10621_3=<font face="Default" color="#ffffff" >事情是这样的，就是最近一个月，我们这些人一直都在这里，可是每天早上起来，我们都会失踪一个人，有男人，有妇女，也有孩子。他们失踪前没什么异样</font><font face="Default" color="#ffffff" >举动</font><font face="Default" color="#ffffff" >，失踪后也从来没有回来过，这让我们这一群人整天人心惶惶，害怕哪天自己也这么不明不白的丢了。少侠，请你一定要救救我们。</font>
+story_10622_1=<font face="Default" color="#ffffff" >咳咳……</font><font face="Default" color="#ffffff" >我不知道你说的什么失踪案。</font>
+story_10622_2=<font face="Default" color="#ffffff" >哈哈，我们在这里修炼偏针不假，但是你们看这</font><font face="Default" color="#ffffff" >里</font><font face="Default" color="#ffffff" >哪有什么难民？其实我们确实有过拿难民来练习偏针的想法，但是自从上次沈小溪使用偏针失败被父亲发现以后我们就断了这样的想法，我们修炼偏针也只不过是想让自己的医术更高明，但是我们可不愿意冒着一辈子不能行针的危险来修炼偏针。我和希珏只是修炼偏针，并没有做出什么伤天害理的事情，我们再有过错也罪不致死吧。至于那些难民是怎么失踪，我们兄弟两可就什么都不知道了。我的话说完了，你们信也好，不信也好。</font>
+story_10623_1=<font face="Default" color="#ffffff" >爹爹也这么决定么，我刚刚训斥他们，他们说自己只是修炼偏针但是并没有拿活人做实验了，我看这附近没有什么难民的踪迹，有的也是些动物的尸体和血迹，但是那些难民到底是怎么失踪的呢？</font>
+story_10623_2=<font face="Default" color="#ffffff" >（沈珺低头略微思考了一下）</font><font face="Default" color="#ffffff" >我也没有办法</font><font face="Default" color="#ffffff" >……</font><font face="Default" color="#ffffff" >只是，我记得</font><font face="Default" color="#ffffff" >偏针里面确有一篇名叫偏针换血的方法，可是这个方法凶险性极大，只怕对施术者自身也有害处，即使是这样我也不能保证有几成成功的把握。</font>
+story_10623_3=<font face="Default" color="#ffffff" >你就算临时学会偏针换血之术，我怕也不太管用。</font>
+story_10635_1=<font face="Default" color="#ffffff" >难民的病情得到缓解了吗？</font>
+story_10635_2=<font face="Default" color="#ffffff" >你说他们经常会有人莫名其妙的失踪</font><font face="Default" color="#ffffff" >？</font><font face="Default" color="#ffffff" >啊！这</font><font face="Default" color="#ffffff" >倒是</font><font face="Default" color="#ffffff" >让我想起来上次沈希珏让你给他找难民的事情，当时我就觉得奇怪，难道这件事情和他有关？</font>
+story_10635_3=<font face="Default" color="#ffffff" >沈希珏一直都以哥哥沈裴珏马首是瞻，</font><font face="Default" color="#ffffff" >如果是他们干的也一定是沈裴珏的主意。不管怎么说，这关系到人命，我们还是查看清楚比较好，你说呢。</font>
+story_10640_1=<font face="Default" color="#ffffff" >恩，</font><font face="Default" color="#ffffff" >你难道不奇怪医术原本不错的沈小溪为什么会突然失手，以至于将一个病人治疗的更糟糕吗？</font>
+story_10640_2=<font face="Default" color="#ffffff" >之前我回来爹爹刚好过来看了这个病人，他说此人病情加重是</font><font face="Default" color="#ffffff" >因为沈小溪在偷偷修炼偏针之术，并且他以为他的偏针能够治好那个病人，所以才会发生这样的事情。</font>
+story_10640_3=<font face="Default" color="#ffffff" >这些本来都是沈家的秘密，但是现在因为你的自身情况，你有必要知道一些。偏针是我们沈家的禁术，与之相对的是正针，也就是我们现在修炼的功夫。百年来的研究让沈家对于穴位的研究登峰造极，用于医道无往而不利。但人身上总是有些用途不明的穴位的。一些人便大胆的进行尝试，摸索下针的时辰和效果，美其名曰独辟蹊径，由此发现一些具有神奇力量的穴位，甚至可以据此研究武功——但这些穴位不仅凶险，且后患无穷，以己之身实验，谁人敢为？用于他人，则损天道，大违本意。偏针就是这样的武功。沈小溪用的</font><font face="Default" color="#ffffff" >就</font><font face="Default" color="#ffffff" >是偏针</font><font face="Default" color="#ffffff" >。</font>
+story_10640_4=<font face="Default" color="#ffffff" >果然如此，我今天在堡外看到你就觉得有些不对劲，刚刚你进门我就仔细看了一下，你步伐不稳，内息有些紊乱，似乎也是中了什么偏针？</font><font face="Default" color="#ffffff" >是谁？非我沈家堡弟子是不可能会用偏针的。</font>
+story_10640_5=<font face="Default" color="#ffffff" >子午阴阳针？啊，这个沈希珏，真是胡闹，竟然用这种邪门的偏针。</font>
+story_10640_6=<font face="Default" color="#ffffff" >沈家偏针其实最早也是为了救人的目的，有点类似以毒攻毒，就好像小溪这次救人，只是一旦失败却是会导致病情加重乃至死亡，所以后来偏针就成了禁术。但是还有人将偏针研究出更加邪恶的用法，完全不以救人为目的，只是为了伤人害人，子午阴阳针就是其中最简单的一种。</font>
+story_10640_7=<font face="Default" color="#ffffff" >这个该死的沈希珏，总是胡闹，用偏针捉弄家丁，没想到他现在竟然敢直接给正式弟子下偏针了，我定要好好骂他一顿，我现在就给解了偏针，不过你还是别和爹爹还有王伯伯他们说，要不然希珏可要比小溪惨多了。</font>
+story_10742_1=<font face="Default" color="#ffffff" >望而知之者，望见其五色，以知其病。望诊，是对病人的神、色、形、态、舌象等进行有目的的观察，以测知内脏的病变。</font>
+story_10742_2=<font face="Default" color="#ffffff" >比如说，肝主目、心主舌、脾主口、肺主鼻、肾主耳。就是说眼睛的问题就是肝的问题，舌头有问题就是心脏不好，口腔问题就是脾不好，鼻子的问题就是肺不好。</font>
+story_10742_3=<font face="Default" color="#ffffff" >不，我们还要明白为什么。如果脏腑阴阳气血有了变化，就会必然反映都体表。所谓“视其外应，以知其内脏，则知所病矣。”但是这只是概论，目、舌、口、鼻又有细分，不同的体表特征又反映了不同的内脏变化。所以并不能一概而论。</font>
+story_10743_1=<font face="Default" color="#ffffff" >闻诊，包括听声音和嗅气味两个方面。主要是听患者语音气息的高低、强弱。清浊、缓急……等变化，以分辨病情的虚实寒热。</font><font face="Default" color="#ffffff" >或者嗅气味以分辨邪气性质为主。</font>
+story_10743_2=<font face="Default" color="#ffffff" >人体内发出来的各种声音和气味均是脏腑生理和病理活动产生的，因此声音和气味的变化能反映脏腑生理和病理的变化。</font>
+story_10743_3=<font face="Default" color="#ffffff" >听声音不仅可以诊断与声音有关器官的病变，还可根据声音诊察各脏腑的变化。一般的新病、小病其声音多不变，而久病、苛疾其声音多有变化。听声音包括听语声、呼吸声、嗳气声、呃逆声。</font>
+story_10743_4=<font face="Default" color="#ffffff" >气味分为病体气味和病室气味。嗅气味以辨邪气为性质为主。包括嗅口中的气味，嗅排泄物的气味，嗅病室的气味。</font>
+story_10744_1=<font face="Default" color="#ffffff" >问诊，是通过询问患者或者其陪诊者，以了解病情，有关疾病发生的时间、原因、经过、既往病史、患者的痛病所在，以及生活习惯等与疾病有关的情况。而问什么病的不配叫中医。</font>
+story_10744_2=<font face="Default" color="#ffffff" >我这里有一首关于闻诊的歌谣，你应该听听</font><font face="Default" color="#ffffff" >：一问寒热二问汗，三问头身四问便，五问饮食六问胸，七聋八谒俱当辨，九问旧病十问因，再兼眼药叁机变，妇女尤必问经期，迟速闭崩皆可见，再添片语告儿科，天花麻疹全占验。</font>
+story_10745_1=<font face="Default" color="#ffffff" >切脉石医者用手指按其腕后挠东脉搏处，借以体察脉象变化,辨别脏腑功能盛衰，的一种方法。正常的脉象是寸、关、尺三部位都有脉在搏动，不浮不沉，不迟不数，从容和缓，柔和有力，流利均匀，节律一致，一息搏动四至五次。</font>
+story_10745_2=<font face="Default" color="#ffffff" >切脉早在《内经》、《难经》就又记载，经历几千年的不断总结，对于何证出现何脉已有详细论述。但对于证象与脉象之间的内在联系却无明析的概论，不能令人一目了然，以致学着只知其然而不知其所以然。</font>
+story_10745_3=<font face="Default" color="#ffffff" >脉证间的内在联系，如果要概括的话，就是气血津液出现虚滞，五脏佛功能出现盛衰，才会出现不同的脉证。所以只有弄清楚气血津液的生化输泄与五脏间的关系，才能将气血津液虚滞和五脏功能盛衰出现的证象与脉象联系起来，也才能明白切脉能够察其五脏病变的道理变化所在。</font>
+story_10750_1=<font face="Default" color="#ffffff" >所谓九思真道，调和阴阳，扶正祛邪，功成果满，其实扶正祛邪这一招也源自偏针</font><font face="Default" color="#ffffff" >。</font>
+story_10750_2=<font face="Default" color="#ffffff" >其实偏针并没有那么可怕，关键是用偏针的人。此招经过改良已经成了沈家堡成名的招式之一，虽说因为源自偏针，有时会有一些副作用，不过并不影响正常使用，也自然就没有被禁止。</font>
+story_10750_3=<font face="Default" color="#ffffff" >你向来悟性很高，我就直接将扶正祛邪的武学招式写在这本书中，你自行慢慢领悟吧。</font>
+story_10751_1=<font face="Default" color="#ffffff" >所谓九思真道，调和阴阳，扶正祛邪，功成果满，其实扶正祛邪这一招也源自偏针。</font>
+story_10751_2=<font face="Default" color="#ffffff" >其实偏针也没有那么可怕，关键</font><font face="Default" color="#ffffff" >在于</font><font face="Default" color="#ffffff" >用偏针的人。此招经过改良已经成了沈家堡成名的招式之一，虽说因为源自偏针，有时会有一些副作用，不过并不影响正常使用，也自然就没有被禁止。</font>
+story_menu_10501=<font face="Default" color="#ffffff" >这位老人家，你没事吧？</font><font face="Default" color="#ffffff" >这几个败类伤到你没有？</font>
+story_menu_10502=<font face="Default" color="#ffffff" >沈公子，我，我刚遇到堡外有一个病人</font><font face="Default" color="#ffffff" >……</font>
+story_menu_10503=<font face="Default" color="#ffffff" >沈公子，您好。</font>
+story_menu_10504=<font face="Default" color="#ffffff" >沈小姐，弟子……</font>
+story_menu_10505=<font face="Default" color="#ffffff" >沈公子，弟子我特来拜见。</font>
+story_menu_10506=<font face="Default" color="#ffffff" >老人家，我回来了，您怎么样？我带你去见我们堡的沈公子。</font>
+story_menu_10507=<font face="Default" color="#ffffff" >老人家，你身上的伤口怎么样了。</font>
+story_menu_10508=<font face="Default" color="#ffffff" >希珏公子，</font><font face="Default" color="#ffffff" >不知安排我过来有何事要办？</font>
+story_menu_10509=<font face="Default" color="#ffffff" >公子，这些草药我都采回来了</font><font face="Default" color="#ffffff" >，你看看可都齐全。</font>
+story_menu_10510=<font face="Default" color="#ffffff" >沈公子，</font><font face="Default" color="#ffffff" >你刚刚向我刺的几针似乎？</font>
+story_menu_10512=<font face="Default" color="#ffffff" >这位老人家看起来好面熟，请问？</font>
+story_menu_10519=<font face="Default" color="#ffffff" >老人家有什么要紧的事？</font>
+story_menu_10520=<font face="Default" color="#ffffff" >痛苦的回忆</font>
+story_menu_10521=<font face="Default" color="#ffffff" >未来</font><font face="Default" color="#ffffff" >没有</font><font face="Default" color="#ffffff" >希望</font>
+story_menu_10525=<font face="Default" color="#ffffff" >沈公子</font><font face="Default" color="#ffffff" >，弟子奉命特来拜见。</font>
+story_menu_10526=<font face="Default" color="#ffffff" >沈大哥，</font><font face="Default" color="#ffffff" >我已经认真学习过家规了，不知道现在可不可以教我医术。</font>
+story_menu_10534=<font face="Default" color="#ffffff" >堡主，我有要事禀告。</font>
+story_menu_10601=<font face="Default" color="#ffffff" >前辈还有什么要吩咐我做的吗？</font>
+story_menu_10602=<font face="Default" color="#ffffff" >前辈</font><font face="Default" color="#ffffff" >，这是怎么回事？</font>
+story_menu_10603=<font face="Default" color="#ffffff" >石</font><font face="Default" color="#ffffff" >兄弟好久不见。</font>
+story_menu_10605=<font face="Default" color="#ffffff" >没想到会在这里遇到沈姑娘。</font>
+story_menu_10606=<font face="Default" color="#ffffff" >终于找到你了，沈珺小姐让我出来找你，她很担心你</font><font face="Default" color="#ffffff" >，</font><font face="Default" color="#ffffff" >怕你做什么傻事，你跑到这里来干嘛？这可是悬崖，你不会……</font>
+story_menu_10608=<font face="Default" color="#ffffff" >你是天香茶林的</font><font face="Default" color="#ffffff" >场主</font><font face="Default" color="#ffffff" >？</font>
+story_menu_10610=<font face="Default" color="#ffffff" >原来你是幽冥宫的长老，哼，失敬失敬。</font>
+story_menu_10621=<font face="Default" color="#ffffff" >离奇的失踪</font>
+story_menu_10622=<font face="Default" color="#ffffff" >城外难民的失踪是不是和你们有关。</font>
+story_menu_10623=<font face="Default" color="#ffffff" >沈姑娘，</font><font face="Default" color="#ffffff" >堡主让我们息事宁人，说家丑不可外扬。</font>
+story_menu_10635=<font face="Default" color="#ffffff" >乞丐难民的情况。</font>
+story_menu_10640=<font face="Default" color="#ffffff" >沈小姐，你好像还有话要说？</font>
+story_menu_10742=<font face="Default" color="#ffffff" >望</font><font face="Default" color="#ffffff" >气色</font>
+story_menu_10743=<font face="Default" color="#ffffff" >何为闻诊</font>
+story_menu_10744=<font face="Default" color="#ffffff" >什么</font><font face="Default" color="#ffffff" >是</font><font face="Default" color="#ffffff" >问</font><font face="Default" color="#ffffff" >诊</font>
+story_menu_10745=<font face="Default" color="#ffffff" >何为切诊</font>
+story_menu_10750=<font face="Default" color="#ffffff" >沈公子，不知扶正祛邪这招……</font>
+story_menu_10751=<font face="Default" color="#ffffff" >沈</font><font face="Default" color="#ffffff" >姑娘</font><font face="Default" color="#ffffff" >，不知扶正祛邪这招……</font>
+storyinfo_10501=<a href="findnpc_new,city05,PlotDoornmpsj001" style="HLStype1">门前</a>这<a href="findnpc_new,city05,WorldNpc100054" style="HLStype1">可怜的老人</a>似乎受伤了，赶紧问问
+storyinfo_10502=向<a href="findnpc_new,city05,WorldNpc09928" style="HLStype1">沈小溪</a>禀告刚刚发生的事情
+storyinfo_10503=向<a href="findnpc_new,city05,WorldNpc09963" style="HLStype1">沈裴珏</a>求助
+storyinfo_10504=向<a href="findnpc_new,city05,WorldNpc09905" style="HLStype1">沈珺</a>小姐求助
+storyinfo_10505=只能向<a href="findnpc_new,city05,WorldNpc09778" style="HLStype1">沈希珏</a>求医了
+storyinfo_10506=去<a href="findnpc_new,city05,PlotDoornmpsj001" style="HLStype1">门口</a>找<a href="findnpc_new,city05,NPC_nmp_sj003" style="HLStype1">可怜的老人</a>
+storyinfo_10507=听<a href="findnpc_new,city05,NPC_nmp_sj002" style="HLStype1">可怜的老人</a>诉说
+storyinfo_10508=听<a href="findnpc_new,city05,WorldNpc09778" style="HLStype1">沈希珏</a>诉说
+storyinfo_10509=听<a href="findnpc_new,city05,WorldNpc09778" style="HLStype1">沈希珏</a>诉说
+storyinfo_10510=向<a href="findnpc_new,city05,WorldNpc09778" style="HLStype1">沈希珏</a>询问
+storyinfo_10512=前面那<a href="findnpc_new,city05,WorldNpc100055" style="HLStype1">老园丁</a>看起来哪里见过，上前寒暄一番
+storyinfo_10519=找到<a href="findnpc_new,city05,WorldNpc100055" style="HLStype1">老园丁</a>问有事发生了
+storyinfo_10520=听<a href="findnpc_new,city05,WorldNpc100012" style="HLStype1">痛苦的窦大婶</a>诉说
+storyinfo_10521=听<a href="findnpc_new,city05,WorldNpc100013" style="HLStype1">迷茫的黄老汉</a>诉说
+storyinfo_10522=拜见<a href="findnpc_new,city05,WorldNpc09905" style="HLStype1">沈珺</a>
+storyinfo_10523=拜见<a href="findnpc_new,city05,WorldNpc09963" style="HLStype1">沈裴珏</a>
+storyinfo_10524=拜见<a href="findnpc_new,city05,WorldNpc09778" style="HLStype1">沈希珏</a>
+storyinfo_10525=拜见<a href="findnpc_new,city05,WorldNpc09928" style="HLStype1">沈小溪</a>
+storyinfo_10526=既然老人的病已经好了，还是回去找<a href="findnpc_new,city05,WorldNpc09928" style="HLStype1">沈小溪</a>学习医术吧
+storyinfo_10534=向<a href="findnpc_new,city05,WorldNpc09970" style="HLStype1">沈沧海</a>禀告刚刚发生的事情，请他决断如何处理此事。
+storyinfo_10601=准备<a href="findnpc_new,city05,WorldNpc09969" style="HLStype1">王天怀</a>接受下一个考核
+storyinfo_10602=向<a href="findnpc_new,city05,WorldNpc09969" style="HLStype1">王天怀</a>询问这到底是怎么回事
+storyinfo_10603=萧山凤疯疯癫癫的败走，找起来一定有诸多困难。酒楼里人多线广，不如我先找酒楼的店小二<a href="findnpc_new,city05,WorldNpc09626" style="HLStype1">石庄</a>打听一下
+storyinfo_10605=询问<a href="findnpc_new,city05,WorldNpc100065" style="HLStype1">沈珺</a>为何会在这里
+storyinfo_10606=找到<a href="findnpc_new,city05,WorldNpc100050" style="HLStype1">沈小溪</a>，看看他发生了什么事。
+storyinfo_10608=根据地图所示找到萧山凤。
+storyinfo_10610=询问<a href="findnpc_new,city05,WorldNpc100067" style="HLStype1">幽冥宫长老</a>，看看他到底有何居心
+storyinfo_10621=向<a href="findnpc_new,city05,WorldNpc100061" style="HLStype1">难民头头</a>询问这里的情况
+storyinfo_10622=向<a href="findnpc_new,city05,jzsj_036" style="HLStype1">沈裴珏</a>询问关于难民的事情
+storyinfo_10623=与<a href="findnpc_new,city05,WorldNpc100053" style="HLStype1">沈珺</a>一起协商接下来的事情
+storyinfo_10635=问问<a href="findnpc_new,city05,WorldNpc09905" style="HLStype1">沈珺</a>，看看她对此有什么看法
+storyinfo_10640=已经听完<a href="findnpc_new,city05,WorldNpc09905" style="HLStype1">沈珺</a>所述关于正针偏针的秘事了
+storyinfo_10742=听<a href="findnpc_new,city05,WorldNpc100057" style="HLStype1">沈正</a>讲述望诊的知识
+storyinfo_10743=听<a href="findnpc_new,city05,WorldNpc100057" style="HLStype1">沈正</a>讲解关于闻声息的知识
+storyinfo_10744=听<a href="findnpc_new,city05,WorldNpc100057" style="HLStype1">沈正</a>讲解关于问诊的知识
+storyinfo_10745=听<a href="findnpc_new,city05,WorldNpc100057" style="HLStype1">沈正</a>讲解切诊的的有关知识。
+storyinfo_10750=与<a href="findnpc_new,city05,WorldNpc09928" style="HLStype1">沈小溪</a>交谈
+storyinfo_10751=与<a href="findnpc_new,city05,WorldNpc09905" style="HLStype1">沈珺</a>交谈
+storymenu_10501_1=<font face="Default" color="#ffffff" >刚刚那几个败类喊的什么长老您知道吗？</font>
+storymenu_10501_2=<font face="Default" color="#ffffff" >（怎么觉得有点奇怪，算了救人要紧）</font><font face="Default" color="#ffffff" >老人家，你别急，我，我先给你止血。</font>
+storymenu_10501_3=<font face="Default" color="#ffffff" >您别急，我刚入沈家，这病我也治不了，先帮你止血，然后我就去沈家堡替您求医。</font>
+storymenu_10502_1=<font face="Default" color="#ffffff" >可是</font><font face="Default" color="#ffffff" >，可是，事有轻重缓急……</font>
+storymenu_10502_2=<font face="Default" color="#ffffff" >刚刚我在门口</font><font face="Default" color="#ffffff" >确实听到争吵声</font><font face="Default" color="#ffffff" >，才发现居然有几个江湖败类欺负一个手无寸铁的老乞丐，我与他们讲理，他们不听，竟然在我沈家堡门前大打出手……</font>
+storymenu_10502_3=<font face="Default" color="#ffffff" >对啊！我狠狠的教训了他们一顿（嘿嘿，这下该夸奖我了吧！）</font>
+storymenu_10502_4=<font face="Default" color="#ffffff" >这，可是，</font><font face="Default" color="#ffffff" >我，</font><font face="Default" color="#ffffff" >他们……</font>
+storymenu_10502_5=<font face="Default" color="#ffffff" >可是，可是</font><font face="Default" color="#ffffff" >那位老人家生了重病，您既然说治病救人……</font>
+storymenu_10502_6=<font face="Default" color="#ffffff" >这，我……</font>
+storymenu_10502_7=<font face="Default" color="#ffffff" >弟子，弟子领命！</font><font face="Default" color="#ffffff" >（哼，我去找其他人求助，我就不信了！）</font>
+storymenu_10503_1=<font face="Default" color="#ffffff" >我是沈家堡新进的弟子，特来向沈公子求医的。我刚刚在沈家堡外看到一个可怜的老乞丐，生了重病</font><font face="Default" color="#ffffff" >，还望沈公子相助。</font>
+storymenu_10503_2=<font face="Default" color="#ffffff" >你，你……</font>
+storymenu_10504_1=<font face="Default" color="#ffffff" >沈小姐，我……</font>
+storymenu_10504_2=<font face="Default" color="#ffffff" >我……（怎么都这样，只剩下希珏公子了</font><font face="Default" color="#ffffff" >，不知道他是不是还是这样</font><font face="Default" color="#ffffff" >）</font>
+storymenu_10505_1=<font face="Default" color="#ffffff" >沈公子是这样的，刚刚我在堡外看到一个可怜的</font><font face="Default" color="#ffffff" >老翁</font><font face="Default" color="#ffffff" >，生了重病，还望公子</font><font face="Default" color="#ffffff" >能出手</font><font face="Default" color="#ffffff" >相助。</font>
+storymenu_10505_2=<font face="Default" color="#ffffff" >这，实不相瞒，那位老翁衣着破烂，看起来好像是孤苦的乞丐，只是……</font>
+storymenu_10505_3=<font face="Default" color="#ffffff" >多谢希珏公子！（怎么希珏公子说话怪怪的，感觉有些不对劲）</font>
+storymenu_10506_1=<font face="Default" color="#ffffff" >什么？我就问过几位沈家公子和沈珺小姐，难道是沈小姐？可是为什么她……</font>
+storymenu_10506_2=<font face="Default" color="#ffffff" >老人家，你不必客气。沈家堡里</font><font face="Default" color="#ffffff" >一堆</font><font face="Default" color="#ffffff" >规矩，那位姑娘可能有诸多不便才不愿意透露身份的。</font>
+storymenu_10506_3=<font face="Default" color="#ffffff" >恩，放心吧。（</font><font face="Default" color="#ffffff" >看样子，沈小姐是口冷心热，这沈家家规也只是表面上严格了）</font>
+storymenu_10507_1=<font face="Default" color="#ffffff" >我刚入沈家堡不久，不过您别着急，我这就去找沈家公子来给您治病。</font><font face="Default" color="#ffffff" >您先在这稍等片刻。</font>
+storymenu_10508_1=<font face="Default" color="#ffffff" >弟子不敢，只是当时弟子再赶过去的时候，那个病人，他，他</font><font face="Default" color="#ffffff" >……</font>
+storymenu_10508_2=<font face="Default" color="#ffffff" >（这希珏公子好生奇怪，</font><font face="Default" color="#ffffff" >都过了这么久了，</font><font face="Default" color="#ffffff" >沈珺小姐好心救人，还是不要说出来了）</font><font face="Default" color="#ffffff" >那病人不见了。</font>
+storymenu_10508_3=<font face="Default" color="#ffffff" >弟子，弟子不知。确实是出去之后，那病人不见了，可能是求医无望就离开了吧。</font>
+storymenu_10508_4=<font face="Default" color="#ffffff" >弟子遵命。</font>
+storymenu_10509_1=<font face="Default" color="#ffffff" >公子过奖了</font><font face="Default" color="#ffffff" >！</font>
+storymenu_10509_2=<font face="Default" color="#ffffff" >这，这（罢了，反正身在沈家，难道还能让我被一颗草毒死）弟子这就尝试。</font>
+storymenu_10510_1=<font face="Default" color="#ffffff" >沈公子你这话是什么意思？</font>
+storymenu_10510_2=<font face="Default" color="#ffffff" >此话从何说起，我哪里敢欺骗公子，您，这一定是搞错了吧？</font>
+storymenu_10510_3=<font face="Default" color="#ffffff" >你！</font>
+storymenu_10510_4=<font face="Default" color="#ffffff" >你……（原来这沈希珏当初是如此打算，幸好</font><font face="Default" color="#ffffff" >我当时就觉得不对劲）</font>
+storymenu_10510_5=<font face="Default" color="#ffffff" >我，我这就去（为了自身的安危，看来暂时只能虚与委蛇了）</font>
+storymenu_10512_1=<font face="Default" color="#ffffff" >额……这，老人家原来是你啊</font>
+storymenu_10512_2=<font face="Default" color="#ffffff" >（现在受制于沈希珏那个混蛋，还不能将事情说出来）哎，上面又拍大腿，乱安排事情，要我去抓个动物过来</font><font face="Default" color="#ffffff" >，这哪里去找啊，找到了我也不会抓啊。</font>
+storymenu_10512_3=<font face="Default" color="#ffffff" >实在太谢谢了。</font>
+storymenu_10519_1=<font face="Default" color="#ffffff" >最近的确有所耳闻，不知道</font><font face="Default" color="#ffffff" >老人家，这与你有什么关系吗？</font>
+storymenu_10519_2=<font face="Default" color="#ffffff" >哎，老人家兄弟姐妹亲如骨肉这帮无根门的简直畜生不如，无缘无故乱抓百姓还有王法不。我这就去帮你探他个究竟。</font>
+storymenu_10520_1=<font face="Default" color="#ffffff" >痛苦的回忆</font>
+storymenu_10521_1=<font face="Default" color="#ffffff" >未来没有希望</font>
+storymenu_10525_1=<font face="Default" color="#ffffff" >弟子明白！</font>
+storymenu_10525_2=<font face="Default" color="#ffffff" >入门之时有听家丁说过，家规乃是：不得犯上忤逆，不得伤及同门，还有一条就不记得了。</font>
+storymenu_10525_3=<font face="Default" color="#ffffff" >不得参与江湖争斗？弟子记住了。</font>
+storymenu_10525_4=<font face="Default" color="#ffffff" >三不医？这指的是？</font>
+storymenu_10525_5=<font face="Default" color="#ffffff" >乞不医弟子大概知道，应该是付不起诊金的人不医。只是那命不医和死不医又是何解？</font>
+storymenu_10525_6=<font face="Default" color="#ffffff" >命不医，乞不医，死不医，弟子明白了！</font>
+storymenu_10525_7=<font face="Default" color="#ffffff" >好的，我这就过去。</font>
+storymenu_10526_1=<font face="Default" color="#ffffff" >弟子明白！</font>
+storymenu_10526_2=<font face="Default" color="#ffffff" >我一定会努力的。</font>
+storymenu_10526_3=<font face="Default" color="#ffffff" >是！</font>
+storymenu_10526_4=<font face="Default" color="#ffffff" >弟子记住了。</font>
+storymenu_10526_5=<font face="Default" color="#ffffff" >弟子明白。</font>
+storymenu_10526_6=<font face="Default" color="#ffffff" >弟子记下了。</font>
+storymenu_10526_7=<font face="Default" color="#ffffff" >好的。</font>
+storymenu_10534_1=<font face="Default" color="#ffffff" >确有此事，而且弟子怀疑他们偷掳难民，用活人做试验练偏针，实在……</font>
+storymenu_10534_2=<font face="Default" color="#ffffff" >可是，这难民的命……再说，要是官府问起来？</font>
+storymenu_10534_3=<font face="Default" color="#ffffff" >弟子，弟子遵命（堡主对小溪练偏针可不是这样，哎，毕竟是亲生的儿子，算了，此事还是就此罢了）</font>
+storymenu_10601_1=<font face="Default" color="#ffffff" >前辈</font><font face="Default" color="#ffffff" >太抬举我了。</font>
+storymenu_10601_2=<font face="Default" color="#ffffff" >是，弟子受教了。</font>
+storymenu_10601_3=<font face="Default" color="#ffffff" >弟子定不负所托。</font>
+storymenu_10602_1=<font face="Default" color="#ffffff" >后来呢？</font>
+storymenu_10602_2=<font face="Default" color="#ffffff" >但是我看出她对沈裴珏公子还有感情的。</font>
+storymenu_10602_3=<font face="Default" color="#ffffff" >（又是偏针之术）</font>
+storymenu_10602_4=<font face="Default" color="#ffffff" >这也不能怪裴珏公子，毕竟这么多年他都不知道自己的母亲是谁。</font>
+storymenu_10603_1=<font face="Default" color="#ffffff" >不知酒楼最近可有什么奇怪的人来过。</font>
+storymenu_10603_2=<font face="Default" color="#ffffff" >（你先是一愣，随即会意，从身上掏出一些碎银塞进石庄手中）</font>
+storymenu_10603_3=<font face="Default" color="#ffffff" >一个疯癫老婆子，去的向北方向？还请石兄弟说的详细点。</font>
+storymenu_10605_1=<font face="Default" color="#ffffff" >沈希珏少爷说城外来了很多的难民，让我看看是否有生病的难民，沈希珏少爷</font><font face="Default" color="#ffffff" >打算亲自救治他们</font><font face="Default" color="#ffffff" >。</font>
+storymenu_10605_2=<font face="Default" color="#ffffff" >我也觉得有些奇怪。只是，沈公子的吩咐我也没办法推辞啊。</font>
+storymenu_10605_3=<font face="Default" color="#ffffff" >病人的病更严重了？这可有点奇怪了。好，我先</font><font face="Default" color="#ffffff" >去找沈小溪。</font>
+storymenu_10605_4=<font face="Default" color="#ffffff" >沈小姐放心，我这就过去将小溪公子带回来，你就安心在堡中等候消息吧。</font>
+storymenu_10606_1=<font face="Default" color="#ffffff" >采药？</font>
+storymenu_10606_2=<font face="Default" color="#ffffff" >没问题，救人要紧，我这就去采。</font>
+storymenu_10608_1=<font face="Default" color="#ffffff" >在下</font><font face="Default" color="#ffffff" >正</font><font face="Default" color="#ffffff" >是金针沈家的弟子，因为追查一人的行踪，顺着线索一路追查到天香茶林。</font>
+storymenu_10608_2=<font face="Default" color="#ffffff" >不敢，虽说天香茶林和沈家一向不和，但我沈家也绝非无理取闹之辈，但是天香茶林若真和这件事有什么瓜葛，我沈家绝不善罢甘休</font><font face="Default" color="#ffffff" >，只因这人对我沈家非常重要，还请东方姑娘三思。</font>
+storymenu_10608_3=<font face="Default" color="#ffffff" >堡主若有消息还请告知，在下感激不尽。</font>
+storymenu_10610_1=<font face="Default" color="#ffffff" >不敢当！</font>
+storymenu_10610_2=<font face="Default" color="#ffffff" >你</font><font face="Default" color="#ffffff" >武功高强，就算我不出手相救，</font><font face="Default" color="#ffffff" >那几人又岂能伤的了你。</font>
+storymenu_10610_3=<font face="Default" color="#ffffff" >你想说什么</font><font face="Default" color="#ffffff" >？</font>
+storymenu_10610_4=<font face="Default" color="#ffffff" >看着别人如此你就开心么，你一直潜伏在沈家的目的是什么？</font>
+storymenu_10610_5=<font face="Default" color="#ffffff" >既然如此你又为何伤了沈堡主。</font>
+storymenu_10610_6=<font face="Default" color="#ffffff" >老先生之前也说过，我初进沈家之时对医术一窍不通，我顶着困难救你也是因为我怀着一个信念——希望尽自己的力量让人们免于苦难。这个信念让我在沈家刻苦学习，但是沈希珏用偏针胁迫我，萧山凤多年对沈家的仇恨，沈</font><font face="Default" color="#ffffff" >堡主</font><font face="Default" color="#ffffff" >用活人修炼偏针</font><font face="Default" color="#ffffff" >，这一系列的事情让我明白光救人的身体并不能让一个人健康，最重要的是激励他们的心！我会救治他们二人，并说服他们放弃仇恨，放弃偏针。</font>
+storymenu_10621_1=<font face="Default" color="#ffffff" >大叔别急，有什么事情慢慢我说。</font>
+storymenu_10621_2=<font face="Default" color="#ffffff" >没了？好好的人怎么会没了呢。</font>
+storymenu_10621_3=<font face="Default" color="#ffffff" >难民无辜失踪，这可是一件大事，我马上回去和沈家的人商量。大叔你放心，我一定不会坐视不理的。</font>
+storymenu_10622_1=<font face="Default" color="#ffffff" >沈家世代行医，从不做什么伤天害理的事情。上次沈希珏命我到城外带一些生病的难民给他，说是想救他们。当时我便奇怪</font><font face="Default" color="#ffffff" >，沈家家规甚严，如何敢把难民带到沈家来治。而且</font><font face="Default" color="#ffffff" >最近成都城外屡次发生难民失踪案，</font><font face="Default" color="#ffffff" >你还敢说这个不是你们兄弟两干的好事。</font>
+storymenu_10622_2=<font face="Default" color="#ffffff" >（看沈裴珏神情激愤，似乎不太像说谎的样子）这么说难民失踪确实和你们没有关系了。</font>
+storymenu_10623_1=<font face="Default" color="#ffffff" >既然如此，还是将两位公子带回堡中吧，只是我刚刚出手有些重了，他们如今的伤……</font>
+storymenu_10623_2=<font face="Default" color="#ffffff" >你将方法叫给我，也许我能从中学到什么，</font><font face="Default" color="#ffffff" >说不定能救</font><font face="Default" color="#ffffff" >好他们而又不会损伤自己。</font>
+storymenu_10623_3=<font face="Default" color="#ffffff" >但是作为医师我不能眼睁睁的看着两个活人在我面前死去而我却什么都不能做，我一定要试一试。</font>
+storymenu_10635_1=<font face="Default" color="#ffffff" >我尽我所能的救了一些人，但是那边的情况有点蹊跷，难民说在最近每天晚上他们都会莫名其妙的失踪一个人，至今仍然没有找到真相</font><font face="Default" color="#ffffff" >。</font>
+storymenu_10635_2=<font face="Default" color="#ffffff" >不会吧……希珏少爷会做出这样的人命关天的事？</font>
+storymenu_10635_3=<font face="Default" color="#ffffff" >我偷偷到裴珏少爷那边看看，但愿这事情和他们没有关系才好。</font>
+storymenu_10640_1=<font face="Default" color="#ffffff" >这难道有什么隐情？</font>
+storymenu_10640_2=<font face="Default" color="#ffffff" >偏针，偏针是什么针？</font>
+storymenu_10640_3=<font face="Default" color="#ffffff" >竟然是这样？难道？我身上的？</font>
+storymenu_10640_4=<font face="Default" color="#ffffff" >沈希珏，他，他给我下的子午阴阳针……</font>
+storymenu_10640_5=<font face="Default" color="#ffffff" >难道偏针还分类别？</font>
+storymenu_10640_6=<font face="Default" color="#ffffff" >还请沈</font><font face="Default" color="#ffffff" >小姐</font><font face="Default" color="#ffffff" >帮我解了这子午阴阳针。</font>
+storymenu_10640_7=<font face="Default" color="#ffffff" >恩，我都听你的沈小姐。</font><font face="Default" color="#ffffff" >（终于能解掉这个该死的偏针了）</font>
+storymenu_10742_1=<font face="Default" color="#ffffff" >请说的详细点。</font>
+storymenu_10742_2=<font face="Default" color="#ffffff" >我似乎明白了一些。</font>
+storymenu_10742_3=<font face="Default" color="#ffffff" >医学高深莫测，学医的人应该应急而变。</font>
+storymenu_10743_1=<font face="Default" color="#ffffff" >请继续说。</font>
+storymenu_10743_2=<font face="Default" color="#ffffff" >请继续说。</font>
+storymenu_10743_3=<font face="Default" color="#ffffff" >那嗅气味又是怎样的？</font>
+storymenu_10743_4=<font face="Default" color="#ffffff" >受教了。</font>
+storymenu_10744_1=<font face="Default" color="#ffffff" >请继续</font>
+storymenu_10744_2=<font face="Default" color="#ffffff" >受教了。</font>
+storymenu_10745_1=<font face="Default" color="#ffffff" >请继续</font><font face="Default" color="#ffffff" >。</font>
+storymenu_10745_2=<font face="Default" color="#ffffff" >请继续</font>
+storymenu_10745_3=<font face="Default" color="#ffffff" >多谢指教</font>
+storymenu_10750_1=<font face="Default" color="#ffffff" >源自偏针？可是？</font>
+storymenu_10750_2=<font face="Default" color="#ffffff" >原来如此。</font>
+storymenu_10750_3=<font face="Default" color="#ffffff" >多谢沈公子。</font>
+storymenu_10751_1=<font face="Default" color="#ffffff" >源自偏针？可是？</font>
+storymenu_10751_2=<font face="Default" color="#ffffff" >原来如此。</font>
+useiteminfo_10500=用<a href="TASK_ITEM,useitem_shenjia_001" style="HLStype1">锄头</a>打理一下<a href="findnpc_new,city05,Gather_jzsj_001" style="HLStype1">药地里的野草</a>
+useiteminfo_10501=对于未知的草药，还是先服下<a href="TASK_ITEM,Item_nmp_sj007" style="HLStype1">护心丹</a>以防万一。
+useiteminfo_10502=从<a href="TASK_ITEM,useitem_shenjia_002" style="HLStype1">useitem_shenjia_002</a>中分辨出草药
+useiteminfo_10503=乘着护心丹药性还在，尝试这株<a href="TASK_ITEM,Item_nmp_sj008" style="HLStype1">未知草药</a>，看看药性如何。
+useiteminfo_10505=将<a href="TASK_ITEM,Item_nmp_sj001" style="HLStype1">蒲黄</a>和三七碾碎，得到止血药。
+useiteminfo_10506=回到<a href="findnpc_new,city05,PlotDoornmpsj001" style="HLStype1">门口</a>为<a href="findnpc_new,city05,WorldNpc100054" style="HLStype1">可怜的老人</a>敷上<a href="TASK_ITEM,Item_nmp_sj003" style="HLStype1">止血纱布</a>
+useiteminfo_10511=对<a href="findnpc_new,city05,WorldNpc100003" style="HLStype1">生病的小吴</a>使用<a href="TASK_ITEM,useitem_shenjia_005" style="HLStype1">止咳浆</a>
+useiteminfo_10512=对<a href="findnpc_new,city05,WorldNpc100004" style="HLStype1">生病的老张</a>使用<a href="TASK_ITEM,useitem_shenjia_006" style="HLStype1">顺气丸</a>
+useiteminfo_10513=对<a href="findnpc_new,city05,WorldNpc100005" style="HLStype1">生病的老李</a>使用<a href="TASK_ITEM,useitem_shenjia_007" style="HLStype1">提神丹</a>
+useiteminfo_10514=<a href="findnpc,city05,352,797" style="HLStype1">前往药房</a>使用<a href="TASK_ITEM,useitem_shenjia_008" style="HLStype1">金针</a>救治病人
+useiteminfo_10515=用<a href="TASK_ITEM,useitem_shenjia_008" style="HLStype1">金针</a>救治<a href="findnpc_new,city05,WorldNpc100007" style="HLStype1">生病的冯老汉</a>
+useiteminfo_10516=用<a href="TASK_ITEM,useitem_shenjia_008" style="HLStype1">金针</a>救治<a href="findnpc_new,city05,WorldNpc100008" style="HLStype1">生病的老陶</a>
+useiteminfo_10518=到沈家堡外面用<a href="TASK_ITEM,useitem_shenjia_013" style="HLStype1">木棍</a>吓走<a href="findnpc_new,city05,monc050206" style="HLStype1">背柴工人</a>
+useiteminfo_10527=使用<a href="TASK_ITEM,useitem_shenjia_009" style="HLStype1">useitem_shenjia_009</a>烧掉帐篷
+useiteminfo_10528=使用<a href="TASK_ITEM,useitem_shenjia_012" style="HLStype1">火把</a>烧死千灯镇的<a href="findnpc_new,born04,monv041403" style="HLStype1">茶林毒蛇</a>
+useiteminfo_10539=对<a href="findnpc_new,city05,monc050206" style="HLStype1">背柴工人</a><a href="TASK_ITEM," style="HLStype1"></a>使用
+useiteminfo_10542=对<a href="findnpc_new,city05,monc050102" style="HLStype1">蛊毒狂人</a>使用<a href="TASK_ITEM,useitem_shenjia_011" style="HLStype1">useitem_shenjia_011</a>
+useiteminfo_10550=使用<a href="TASK_ITEM,useitem_shenjia_012" style="HLStype1">useitem_shenjia_012</a>烧掉<a href="findnpc_new,born04,monv041403" style="HLStype1">茶林毒蛇</a>的尸体
+useiteminfo_10555=服用<a href="TASK_ITEM,item_jzsj_richang_002" style="HLStype1">item_jzsj_richang_002</a>
+useiteminfo_10601=服用<a href="TASK_ITEM,item_jzsj_richang_011" style="HLStype1">神秘的药水</a>后告诉王天怀此药由何物组成
+useiteminfo_10603=到房间拿点<a href="TASK_ITEM,useitem_shenjia_015" style="HLStype1">useitem_shenjia_015</a><a href="findnpc_new,city05,Gather_jzsj_008" style="HLStype1">Gather_jzsj_008</a>
+useiteminfo_10605=为<a href="findnpc_new,city05,WorldNpc100021" style="HLStype1">刘白</a>服用<a href="TASK_ITEM,useitem_shenjia_015" style="HLStype1">药丸</a>
+useiteminfo_10609=为<a href="findnpc_new,city05,WorldNpc100021" style="HLStype1">刘白</a>服用<a href="TASK_ITEM,useitem_shenjia_016" style="HLStype1">解药</a>
+useiteminfo_10610=服用<a href="TASK_ITEM,useitem_shenjia_017" style="HLStype1">奇怪的草药</a>
+useiteminfo_10617=马上回到沈家堡，用<a href="TASK_ITEM,item_jzsj_richang_009" style="HLStype1">续心浆</a>医治沈小溪房内的老季
+useiteminfo_10621=使用<a href="TASK_ITEM,useitem_shenjia_033" style="HLStype1">金针</a>救治<a href="findnpc_new,city05,WorldNpc100064" style="HLStype1">难民</a>
+useiteminfo_10643=使用<a href="TASK_ITEM,item_jzsj_richang_010" style="HLStype1">金针</a>救治<a href="findnpc_new,city05,WorldNpc100062" style="HLStype1">乞丐难民</a>
+useiteminfo_10761=使用<a href="TASK_ITEM,useitem_shenjia_029" style="HLStype1">金针</a>救治<a href="findnpc_new,city05,jzsj_015" style="HLStype1">jzsj_015</a>
+useiteminfo_10762=使用<a href="TASK_ITEM,useitem_shenjia_029" style="HLStype1">金针</a>救治<a href="findnpc_new,city05,jzsj_023" style="HLStype1">生病的农夫</a>
+useiteminfo_10763=使用<a href="TASK_ITEM,useitem_shenjia_029" style="HLStype1">金针</a>救治<a href="findnpc_new,city05,jzsj_024" style="HLStype1">生病的猎人</a>
+useiteminfo_10765=使用<a href="TASK_ITEM,useitem_shenjia_030" style="HLStype1">金针</a>救治<a href="findnpc_new,city02,jzsj_016" style="HLStype1">生病的商人</a>
+useiteminfo_10766=使用<a href="TASK_ITEM,useitem_shenjia_030" style="HLStype1">金针</a>救治<a href="findnpc_new,city02,jzsj_025" style="HLStype1">生病的行人</a>
+useiteminfo_10767=使用<a href="TASK_ITEM,useitem_shenjia_030" style="HLStype1">金针</a>救治<a href="findnpc_new,city02,jzsj_026" style="HLStype1">生病的旅客</a>
+useiteminfo_10769=使用<a href="TASK_ITEM,useitem_shenjia_031" style="HLStype1">金针</a>救治<a href="findnpc_new,city04,jzsj_017" style="HLStype1">生病的镖师</a>
+useiteminfo_10770=使用<a href="TASK_ITEM,useitem_shenjia_031" style="HLStype1">金针</a>救治<a href="findnpc_new,city04,jzsj_027" style="HLStype1">生病的外乡人</a>
+useiteminfo_10771=使用<a href="TASK_ITEM,useitem_shenjia_031" style="HLStype1">金针</a>救治<a href="findnpc_new,city04,jzsj_028" style="HLStype1">生病的异乡人</a>
+useiteminfo_10773=使用<a href="TASK_ITEM,useitem_shenjia_032" style="HLStype1">金针</a>救治<a href="findnpc_new,scene08,jzsj_018" style="HLStype1">受伤的将士</a>
+useiteminfo_10774=使用<a href="TASK_ITEM,useitem_shenjia_032" style="HLStype1">金针</a>救治<a href="findnpc_new,scene08,jzsj_029" style="HLStype1">受伤的士兵</a>
+useiteminfo_10775=使用<a href="TASK_ITEM,useitem_shenjia_032" style="HLStype1">金针</a>救治<a href="findnpc_new,scene08,jzsj_030" style="HLStype1">受伤的兵人</a>
+useiteminfo_10780=右键打开<a href="TASK_ITEM,box_jzsj_task_41537" style="HLStype1">草药袋</a>食用各草药，然后回复沈小溪自己目前吃的是哪种草药（切忌同一时间食用多种草药）
+useiteminfo_10781=使用<a href="findnpc_new,,bucunzai" style="HLStype1">bucunzai</a><a href="TASK_ITEM,useitem_shenjia_41538" style="HLStype1">useitem_shenjia_41538</a>可以免疫王蛇的蛇毒，并且可以采集到珍贵的毒液样本，这样我们就可以制造出合适的解药来帮助受蛇毒困扰的人了
+useiteminfo_10783=前往千灯镇解救<a href="findnpc_new,born04,WorldNpc100105" style="HLStype1">被掳走的茶女</a>
+useiteminfo_10784=使用<a href="TASK_ITEM,useitem_shenjia_41514_bangchui" style="HLStype1">棒槌</a>砸晕<a href="findnpc_new,city05,monc050202" style="HLStype1">黑蜂猛士</a>获得信物

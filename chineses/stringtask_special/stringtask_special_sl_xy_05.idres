@@ -1,0 +1,96 @@
+﻿
+DialogID_43800=大侠我和你在仔细搜索搜索，不要让他们逃掉一个
+DialogID_43801=我感觉好多了，麻烦少侠能不能赶走天池看护者？
+DialogID_43802=这些人太可恨了，我怕他们报复我们，少侠能再教训教训他们吗？
+DialogID_43803=不是池蕊花，真笨，是赤尾花~
+DialogID_43804=圆滑奸商的出现，严重破坏了这里商人的生意，现在生意一天不如一天，年轻人，能帮帮我们吗？
+DialogID_43805=我迷路了，找不到我姐姐了，呜呜呜~
+DialogID_43806=我也忘记了，要事我记得我还能哭吗？我姐姐特别喜欢花，呜呜呜呜~
+DialogID_43807=她们有告诉你什么原因么？估计教训的还不彻底。
+DialogID_43808=还是不肯说？嘴真硬。
+DialogID_43809=我靠倒卖一些特产在摩梭镇赚点银子，现在出入摩梭镇都要使用腰牌，一个腰牌要20两，我哪来的这么多钱，这可怎么办啊！（叹气）
+DialogID_43810=真是太感谢你了，终于可以进摩梭镇了
+DialogID_43811=有些奸商竟然说他们不怕打压，怎么办？
+DialogID_43812=快逃吧，快逃吧，这里已经不能在留了……
+DialogID_43813=听我慢慢道来。
+DialogID_43814=要上天池山必先解决山中的看护者。
+DialogID_43815=传说天池山上有种叫雪莲的极品药材，非常稀罕，能治百病，帮我去采点么？
+DialogID_43816=最近几年，天池的水质变浑浊了，需要清理一下水里的杂物才能恢复到之前的状态了。
+DialogID_43817=我这里有颗药丸，你速去带给他，希望还能有救。
+collectinfo_43800=从<a href="findnpc_new,scene04,monf044500" style="HLStype1">祠堂守卫</a>得到腰牌
+collectinfo_43801=从<a href="findnpc_new,scene04,monf044501" style="HLStype1">祠堂守卫巡逻</a>得到手牌
+collectinfo_43802=从<a href="findnpc_new,scene04,monf044502" style="HLStype1">祠堂守卫精英</a>得到令牌
+collectinfo_43803=从<a href="findnpc_new,scene04,monf044102" style="HLStype1">偷鱼小贩</a>得到偷去的鱼
+collectinfo_43804=采集<a href="findnpc_new,scene04,Gather00099m" style="HLStype1">池蕊花</a>
+collectinfo_43805=采集<a href="findnpc_new,scene04,Gather00100m" style="HLStype1">赤尾花</a>
+collectinfo_43806=从<a href="findnpc_new,scene04,monf044600" style="HLStype1">摩梭卫兵</a>得到摩梭腰牌
+collectinfo_43807=从天池山上采<a href="findnpc_new,scene04,Gather00101m" style="HLStype1">雪莲</a>
+collectinfo_43808=搜集<a href="findnpc_new,scene04,Gather00102m" style="HLStype1">水草</a>
+convoyinfo_43800=护送流着血的人进入天池
+convoyinfo_43801=护送商人老李离开这里
+convoyinfo_43802=护送正在哭泣的小孩
+convoyinfo_43803=护送天池指引人去天池山上
+hunterinfo_43800=杀死<a href="findnpc_new,scene04,monf044500" style="HLStype1">祠堂守卫</a>
+hunterinfo_43801=杀死<a href="findnpc_new,scene04,monf044501" style="HLStype1">祠堂守卫巡逻</a>
+hunterinfo_43802=杀死<a href="findnpc_new,scene04,monf044502" style="HLStype1">祠堂守卫精英</a>
+hunterinfo_43803=教训<a href="findnpc_new,scene04,monf044700" style="HLStype1">天池看护者</a>
+hunterinfo_43804=教训<a href="findnpc_new,scene04,monf044102" style="HLStype1">偷鱼小贩</a>
+hunterinfo_43805=教训<a href="findnpc_new,scene04,monf044101" style="HLStype1">圆滑奸商</a>
+hunterinfo_43806=杀死<a href="findnpc_new,scene04,monf044400" style="HLStype1">亚丁城女剑客</a>
+hunterinfo_43807=教训<a href="findnpc_new,scene04,monf044400" style="HLStype1">亚丁城女剑客</a>
+hunterinfo_43808=教训<a href="findnpc_new,scene04,monf044101" style="HLStype1">圆滑奸商</a>
+hunterinfo_43809=击败<a href="findnpc_new,scene04,monf044101" style="HLStype1">圆滑奸商</a>
+hunterinfo_43810=杀死<a href="findnpc_new,scene04,monf044700" style="HLStype1">天池看护者</a>
+interactinfo_43800=与<a href="findnpc_new,scene04,WorldNpc05821" style="HLStype1">祠堂流浪汉</a>聊聊
+interactinfo_43801=与<a href="findnpc_new,scene04,WorldNpc05822" style="HLStype1">流着血的人</a>聊聊
+interactinfo_43802=与<a href="findnpc_new,scene04,WorldNpc05827" style="HLStype1">渔民刘罗</a>聊聊
+interactinfo_43803=与<a href="findnpc_new,scene04,WorldNpc05828" style="HLStype1">漂亮的小姑娘</a>交谈
+interactinfo_43804=与<a href="findnpc_new,scene04,WorldNpc05829" style="HLStype1">商人老李</a>交谈
+interactinfo_43805=与<a href="findnpc_new,scene04,WorldNpc05830" style="HLStype1">哭泣的小孩</a>交谈
+interactinfo_43806=与<a href="findnpc_new,scene04,WorldNpc05830" style="HLStype1">哭泣的小孩</a>聊聊
+interactinfo_43807=与<a href="findnpc_new,scene04,WorldNpc05828" style="HLStype1">漂亮的小姑娘</a>交谈
+interactinfo_43808=与<a href="findnpc_new,scene04,WorldNpc05828" style="HLStype1">漂亮的小姑娘</a>聊聊
+interactinfo_43809=与<a href="findnpc_new,scene04,WorldNpc05829" style="HLStype1">商人老李</a>交谈
+interactinfo_43810=与<a href="findnpc_new,scene04,WorldNpc05829" style="HLStype1">商人老李</a>交谈
+interactinfo_43811=与<a href="findnpc_new,scene04,WorldNpc05829" style="HLStype1">商人老李</a>聊聊
+interactinfo_43812=与<a href="findnpc_new,scene04,WorldNpc05831" style="HLStype1">逃亡的村民</a>交谈
+interactinfo_43813=与<a href="findnpc_new,scene04,WorldNpc05831" style="HLStype1">逃亡的村民</a>交谈
+interactinfo_43814=与<a href="findnpc_new,scene04,WorldNpc05823" style="HLStype1">天池指引人</a>交谈
+interactinfo_43815=与<a href="findnpc_new,scene04,WorldNpc05823" style="HLStype1">天池指引人</a>交谈
+interactinfo_43816=与<a href="findnpc_new,scene04,WorldNpc05823" style="HLStype1">天池指引人</a>交谈
+interactinfo_43817=与<a href="findnpc_new,scene04,WorldNpc05823" style="HLStype1">天池指引人</a>交谈
+okmenu_43800=嗯，好的
+okmenu_43801=交给我，你放心
+okmenu_43802=没问题，小事一桩
+okmenu_43803=额，我再去一次
+okmenu_43804=我这就去灭灭他们的气焰
+okmenu_43805=你姐姐在什么地方
+okmenu_43806=额，别哭了，我想办法帮你去找找
+okmenu_43807=那我在去看看
+okmenu_43808=估计要另想其他方法了
+okmenu_43809=老人家我帮你去弄一个回来
+okmenu_43810=不用客气
+okmenu_43811=别急，他们这是自讨苦吃，我再去看看
+okmenu_43812=到底发生什么事了
+okmenu_43813=好的
+okmenu_43814=好的，我这就去
+okmenu_43815=好的，没问题
+okmenu_43816=此事交给我吧
+okmenu_43817=嗯，我这就去
+story_43800_1=太谢谢你了，年轻人，我这么一把年纪了，想安安稳稳做点小生意挣点钱养老，真不容易。
+story_43800_2=他们把整个市场的秩序都搞乱了，我不想和他们一样，所以常常被他们欺负，希望大侠能带我离开这里
+story_43801_1=自从摩梭守卫进入我们村后，经常吃东西不给钱，还到处的肆意妄为，有时候还对村子里的女孩子动手动脚，大家敢怒不敢言。
+story_43801_2=专门蛮横不讲理，希望大侠能帮助我们解决下这个问题。
+story_menu_43800=我已经教训他们了
+story_menu_43801=大叔请讲
+storyinfo_43800=听<a href="findnpc_new,scene04,WorldNpc05829" style="HLStype1">商人老李</a>述说
+storyinfo_43801=听<a href="findnpc_new,scene04,WorldNpc05831" style="HLStype1">逃亡的村民</a>叙述摩梭镇的事情
+storymenu_43800_1=老人家要注意身体，不要太劳累了
+storymenu_43800_2=嗯，好的，我知道了。
+storymenu_43801_1=他们也太放肆了
+storymenu_43801_2=好的没问题，包我身上。
+useiteminfo_43800=对<a href="findnpc_new,scene04,WorldNpc05822" style="HLStype1">流着血的人</a>使用<a href="TASK_ITEM,useitem_61m" style="HLStype1">止血药</a>
+useiteminfo_43801=对<a href="findnpc_new,scene04,WorldNpc05824" style="HLStype1">受伤的剑客</a>使用<a href="TASK_ITEM,useitem_62m" style="HLStype1">治疗药</a>
+useiteminfo_43802=对<a href="findnpc_new,scene04,WorldNpc05825" style="HLStype1">受伤的摊贩</a>使用<a href="TASK_ITEM,useitem_62m" style="HLStype1">治疗药</a>
+useiteminfo_43803=对<a href="findnpc_new,scene04,WorldNpc05826" style="HLStype1">受伤的商人</a>使用<a href="TASK_ITEM,useitem_62m" style="HLStype1">治疗药</a>
+useiteminfo_43804=对<a href="findnpc_new,scene04,WorldNpc05831" style="HLStype1">逃亡的村民</a>使用<a href="TASK_ITEM,useitem_63m" style="HLStype1">解疲丸</a>

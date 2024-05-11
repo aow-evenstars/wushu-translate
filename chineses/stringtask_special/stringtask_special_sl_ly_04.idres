@@ -1,0 +1,82 @@
+﻿
+DialogID_38780=<s>多谢少侠帮忙，能否帮忙采摘些野菜来填饱肚子？
+DialogID_38781=<s>看来衣服应该在守将哪里！少侠，杀掉奉先寺守将帮我抢回衣服吧！
+DialogID_38782=<s>奉先寺武僧跟莲花洞密宗法师狼狈为奸，少侠你去杀死奉先寺武僧吧！
+DialogID_38783=<s>少侠，这是些草药，带给张猎户吧！
+DialogID_38784=<s>真是太豪爽了，我真是太感动了！少侠你带些豹皮和狼皮给雍客力吧！
+DialogID_38785=<s>少侠别忘记替我谢谢他
+DialogID_38786=<s>多谢多谢！少侠可否帮我去后山杀些狗熊？取些熊掌回来？
+DialogID_38787=<s>少侠把这些熊掌送给猎户吧，以表我的心意
+DialogID_38788=<s>去告诉锦衣卫指挥官，事情搞定了！
+DialogID_38789=<s>你在药师洞里自己找草药吧~草药的名字叫做雨夜草，可治疗一般的内伤！
+DialogID_38790=<s>我早已近放下仇恨，但是不想见到须眉老道，少侠让他回去吧！
+DialogID_38791=<s>困扰我大半辈子的事终于了了！我师兄是个云游药师，就在对面的药师洞中学习，带上我的剑穗去找药师，希望你可以帮助他济世救人！
+DialogID_38792=<s>草药还是不够用啊，能否再去采集一些茯苓草来呢，拜托你了！
+DialogID_38793=<s>对了，把这些鱼送给村名吧！他们都揭不开锅了，这也是我唯一能尽力的地方！
+DialogID_38794=<s>少侠，近来野熊常常出没伤人，少侠帮忙宰杀他们吧，顺便带些熊掌来做药引！
+collectinfo_38780=从<a href="findnpc_new,city04,monc042400" style="HLStype1">野熊</a>身上收集熊掌
+collectinfo_38781=收集<a href="findnpc_new,city04,Gather0009pc" style="HLStype1">野菜</a>
+collectinfo_38782=从<a href="findnpc_new,city04,monc042702" style="HLStype1">奉先寺守军士兵</a>收集一张老虎皮
+collectinfo_38783=收集<a href="findnpc_new,city04,Gather0008pc" style="HLStype1">雨夜草</a>
+collectinfo_38784=收集<a href="findnpc_new,city04,Gather0007pc" style="HLStype1">茯苓草</a>
+collectinfo_38785=从<a href="findnpc_new,city04,monc042401" style="HLStype1">狩熊猎户</a>身上收集馒头
+hunterinfo_38780=击败<a href="findnpc_new,city04,monc042400" style="HLStype1">野熊</a>
+hunterinfo_38781=击败<a href="findnpc_new,city04,monc042401" style="HLStype1">狩熊猎户</a>
+hunterinfo_38782=击败<a href="findnpc_new,city04,monc042402" style="HLStype1">擂鼓台士兵</a>
+hunterinfo_38783=击败<a href="findnpc_new,city04,monc042403" style="HLStype1">擂鼓台守将</a>
+hunterinfo_38784=击败<a href="findnpc_new,city04,monc042300" style="HLStype1">万佛洞邪教法师</a>
+hunterinfo_38785=击败<a href="findnpc_new,city04,monc042301" style="HLStype1">万佛洞邪教番僧</a>
+hunterinfo_38786=击败<a href="findnpc_new,city04,monc042100" style="HLStype1">金刀门逆徒</a>
+hunterinfo_38787=击败<a href="findnpc_new,city04,monc042201" style="HLStype1">刁难士兵</a>
+hunterinfo_38788=击败<a href="findnpc_new,city04,monc042200" style="HLStype1">邙山派弟子</a>
+hunterinfo_38789=击败<a href="findnpc_new,city04,monc042704" style="HLStype1">奉先寺巡逻兵</a>
+hunterinfo_38790=击败<a href="findnpc_new,city04,monc042703" style="HLStype1">奉先寺小沙弥</a>
+hunterinfo_38791=击败<a href="findnpc_new,city04,monc042702" style="HLStype1">奉先寺守军士兵</a>
+hunterinfo_38792=击败<a href="findnpc_new,city04,monc042502" style="HLStype1">莲花洞密宗弟子</a>
+hunterinfo_38793=击败<a href="findnpc_new,city04,monc042501" style="HLStype1">莲花洞密宗护法</a>
+hunterinfo_38794=击败<a href="findnpc_new,city04,monc042500" style="HLStype1">莲花洞密宗法师</a>
+hunterinfo_38795=击败<a href="findnpc_new,city04,monc042700" style="HLStype1">奉先寺武僧</a>
+hunterinfo_38796=击败<a href="findnpc_new,city04,monc042800" style="HLStype1">城西地痞</a>
+hunterinfo_38797=击败<a href="findnpc_new,city04,monc042801" style="HLStype1">城西野狗</a>
+hunterinfo_38798=击败<a href="findnpc_new,city04,monc042800" style="HLStype1">城西地痞</a>
+hunterinfo_38799=击败<a href="findnpc_new,city04,monc042602" style="HLStype1">仗势打手</a>
+hunterinfo_38800=击败<a href="findnpc_new,city04,monc042601" style="HLStype1">锦衣卫守卫</a>
+hunterinfo_38801=击败<a href="findnpc_new,city04,monc042603" style="HLStype1">锦衣卫指挥使</a>
+hunterinfo_38802=击败<a href="findnpc_new,city04,monc042601" style="HLStype1">锦衣卫守卫</a>
+hunterinfo_38803=击败<a href="findnpc_new,city04,monc042600" style="HLStype1">神婆</a>
+hunterinfo_38804=击败<a href="findnpc_new,city04,monc042400" style="HLStype1">野熊</a>
+hunterinfo_38805=击败<a href="findnpc_new,city04,monc042603" style="HLStype1">锦衣卫指挥使</a>
+hunterinfo_38806=击败<a href="findnpc_new,city04,monc042601" style="HLStype1">锦衣卫守卫</a>
+hunterinfo_38807=击败<a href="findnpc_new,city04,monc042500" style="HLStype1">莲花洞密宗法师</a>
+hunterinfo_38808=击败<a href="findnpc_new,city04,monc042300" style="HLStype1">万佛洞邪教法师</a>
+interactinfo_38780=与<a href="findnpc_new,city04,WorldNpc10015" style="HLStype1">净缘</a>交谈
+interactinfo_38781=与<a href="findnpc_new,city04,WorldNpc10578" style="HLStype1">张一中</a>交谈
+interactinfo_38782=与<a href="findnpc_new,city04,WorldNpc10339" style="HLStype1">吴启</a>交谈
+interactinfo_38783=与<a href="findnpc_new,city04,WorldNpc10062" style="HLStype1">秀娥</a>交谈
+interactinfo_38784=与<a href="findnpc_new,city04,WorldNpc10340" style="HLStype1">王耕虎</a>交谈
+interactinfo_38785=与<a href="findnpc_new,city04,WorldNpc10062" style="HLStype1">秀娥</a>交谈
+interactinfo_38786=与<a href="findnpc_new,city04,WorldNpc10341" style="HLStype1">钱小斌</a>交谈
+interactinfo_38787=与<a href="findnpc_new,city04,WorldNpc10341" style="HLStype1">钱小斌</a>交谈
+interactinfo_38788=与<a href="findnpc_new,city04,WorldNpc10063" style="HLStype1">雍客力</a>交谈
+interactinfo_38789=与<a href="findnpc_new,city04,WorldNpc10343" style="HLStype1">孙士龙</a>交谈
+interactinfo_38790=与<a href="findnpc_new,city04,WorldNpc10059" style="HLStype1">阎辰</a>交谈
+interactinfo_38791=与<a href="findnpc_new,city04,WorldNpc10338" style="HLStype1">楚林贤</a>交谈
+interactinfo_38792=与<a href="findnpc_new,city04,WorldNpc10343" style="HLStype1">孙士龙</a>交谈
+interactinfo_38793=与<a href="findnpc_new,city04,WorldNpc10579" style="HLStype1">巡逻官兵</a>交谈
+interactinfo_38794=与<a href="findnpc_new,city04,WorldNpc10015" style="HLStype1">净缘</a>交谈
+okmenu_38780=……好吧
+okmenu_38781=好的！
+okmenu_38782=好的！
+okmenu_38783=好的
+okmenu_38784=好的
+okmenu_38785=没问题
+okmenu_38786=好的
+okmenu_38787=好
+okmenu_38788=好的
+okmenu_38789=好的，我这就去！
+okmenu_38790=嗯！
+okmenu_38791=好的
+okmenu_38792=好的
+okmenu_38793=好的
+okmenu_38794=好的
+useiteminfo_38780=帮助<a href="findnpc_new,city04,WorldNpc10343" style="HLStype1">孙士龙</a>把<a href="TASK_ITEM,useitem_5pc" style="HLStype1">草药</a>磨成粉

@@ -1,0 +1,915 @@
+﻿
+;=
+CanAcceptMenu_21201=<font face="Default" color="#ffffff" >尊主好。</font>
+CanAcceptMenu_21222=<font face="Default" color="#ffffff" >额，杭令主</font>
+CanAcceptMenu_21228=<font face="Default" color="#ffffff" >尊主</font>
+CanAcceptMenu_21231=<font face="Default" color="#ffffff" >尊主，在坝子里呆久了，我想出去看看外面的江湖。</font>
+CanAcceptMenu_21232=<font face="Default" color="#ffffff" >确认接受“门派渊源”任务。</font>
+CanAcceptMenu_21251=<font face="Default" color="#ffffff" >提炼花粉</font>
+CanAcceptMenu_21252=<font face="Default" color="#ffffff" >喂食</font>
+CanAcceptMenu_21253=<font face="Default" color="#ffffff" >收集花草</font>
+CanAcceptMenu_21254=<font face="Default" color="#ffffff" >送花取粉</font>
+CanAcceptMenu_21255=<font face="Default" color="#ffffff" >武学锻炼</font>
+CanAcceptMenu_21256=<font face="Default" color="#ffffff" >抵御野兽</font>
+CanAcceptMenu_21261=<font face="Default" color="#ffffff" >这位大哥...</font>
+CanAcceptMenu_21268=<font face="Default" color="#ffffff" >来者何人？</font>
+CanAcceptMenu_21273=<font face="Default" color="#ffffff" >花蕊夫人。这令牌是何物？</font>
+CanAcceptMenu_21292=<font face="Default" color="#ffffff" >江湖救急</font>
+CanAcceptMenu_21293=<font face="Default" color="#ffffff" >江湖救急</font>
+CanAcceptMenu_21294=<font face="Default" color="#ffffff" >江湖救急</font>
+CanAcceptMenu_21295=<font face="Default" color="#ffffff" >江湖救急</font>
+CanAcceptMenu_21296=<font face="Default" color="#ffffff" >江湖救急</font>
+CanAcceptMenu_21297=<font face="Default" color="#ffffff" >江湖救急</font>
+CanAcceptMenu_21298=<font face="Default" color="#ffffff" >江湖救急</font>
+CanAcceptMenu_21299=<font face="Default" color="#ffffff" >千里送信</font>
+CanAcceptMenu_21300=<font face="Default" color="#ffffff" >千里送信</font>
+CanAcceptMenu_21301=<font face="Default" color="#ffffff" >千里送信</font>
+CanAcceptMenu_21302=<font face="Default" color="#ffffff" >千里送信</font>
+CanAcceptMenu_21303=<font face="Default" color="#ffffff" >千里送信</font>
+CanAcceptMenu_21304=<font face="Default" color="#ffffff" >千里送信</font>
+CanAcceptMenu_21305=<font face="Default" color="#ffffff" >千里送信</font>
+CanAcceptMenu_21306=<font face="Default" color="#ffffff" >强兵壮马</font>
+CanAcceptMenu_21307=<font face="Default" color="#ffffff" >强兵壮马</font>
+CanAcceptMenu_21308=<font face="Default" color="#ffffff" >强兵壮马</font>
+CanAcceptMenu_21309=<font face="Default" color="#ffffff" >强兵壮马</font>
+CanAcceptMenu_21310=<font face="Default" color="#ffffff" >强兵壮马</font>
+CanAcceptMenu_21311=<font face="Default" color="#ffffff" >强兵壮马</font>
+CanAcceptMenu_21312=<font face="Default" color="#ffffff" >强兵壮马</font>
+CanAcceptMenu_21313=<font face="Default" color="#ffffff" >平息谣言</font>
+CanAcceptMenu_21314=<font face="Default" color="#ffffff" >平息谣言</font>
+CanAcceptMenu_21315=<font face="Default" color="#ffffff" >平息谣言</font>
+CanAcceptMenu_21316=<font face="Default" color="#ffffff" >平息谣言</font>
+CanAcceptMenu_21317=<font face="Default" color="#ffffff" >平息谣言</font>
+CanAcceptMenu_21318=<font face="Default" color="#ffffff" >平息谣言</font>
+CanAcceptMenu_21319=<font face="Default" color="#ffffff" >平息谣言</font>
+CanAcceptMenu_21320=<font face="Default" color="#ffffff" >天下奇毒</font>
+CanAcceptMenu_21321=<font face="Default" color="#ffffff" >囚笼斗奴</font>
+CanAcceptMenu_21322=<font face="Default" color="#ffffff" >不明之人</font>
+CanAcceptMenu_21323=<font face="Default" color="#ffffff" >精血为引</font>
+CanAcceptMenu_21324=<font face="Default" color="#ffffff" >念萝坝周常</font><font face="Default" color="#ffffff" >（江湖救急）</font>
+CanAcceptMenu_21325=<font face="Default" color="#ffffff" >念萝坝周常（千里送信）</font>
+CanAcceptMenu_21326=<font face="Default" color="#ffffff" >念萝坝周常（强兵壮马）</font>
+CanAcceptMenu_21327=<font face="Default" color="#ffffff" >念萝坝周常（平息谣言）</font>
+CanAcceptMenu_21330=<font face="Default" color="#ffffff" >护送公主</font>
+CanAcceptMenu_21331=<font face="Default" color="#ffffff" >保护同门</font>
+CanAcceptMenu_21332=<font face="Default" color="#ffffff" >直言纳谏</font>
+CanAcceptMenu_21333=<font face="Default" color="#ffffff" >当然是真的。</font>
+CanAcceptMenu_21334=<font face="Default" color="#ffffff" >难题？什么样的难题？</font>
+CanAcceptMenu_21335=<font face="Default" color="#ffffff" >这个怎么玩？</font>
+CanAcceptMenu_21336=<font face="Default" color="#ffffff" >采集奇草</font>
+CanAcceptMenu_21337=<font face="Default" color="#ffffff" >直言纳谏</font>
+CanAcceptMenu_21338=<font face="Default" color="#ffffff" >直言纳谏</font>
+CanAcceptMenu_21339=<font face="Default" color="#ffffff" >直言纳谏</font>
+CanAcceptMenu_21340=<font face="Default" color="#ffffff" >直言纳谏</font>
+CanAcceptMenu_21341=<font face="Default" color="#ffffff" >直言纳谏</font>
+CanAcceptMenu_21342=<font face="Default" color="#ffffff" >念萝坝周常（</font><font face="Default" color="#ffffff" >直言纳谏</font><font face="Default" color="#ffffff" >）</font>
+CanAcceptMenu_21343=<font face="Default" color="#ffffff" >护送公主</font>
+CanAcceptMenu_21344=<font face="Default" color="#ffffff" >护送公主</font>
+CanAcceptMenu_21345=<font face="Default" color="#ffffff" >护送公主</font>
+CanAcceptMenu_21346=<font face="Default" color="#ffffff" >护送公主</font>
+CanAcceptMenu_21347=<font face="Default" color="#ffffff" >护送公主</font>
+CanAcceptMenu_21348=<font face="Default" color="#ffffff" >念萝坝周常（</font><font face="Default" color="#ffffff" >护送公主</font><font face="Default" color="#ffffff" >）</font>
+CanAcceptMenu_21349=<font face="Default" color="#ffffff" >保护同门</font>
+CanAcceptMenu_21350=<font face="Default" color="#ffffff" >前辈不知能否与你共舞一曲？！</font>
+CanAcceptMenu_21351=<font face="Default" color="#ffffff" >前辈，念萝坝中武学以舞技为根本。晚辈来此便是向您请教舞技修习一事！</font>
+CanAcceptMenu_21352=<font face="Default" color="#ffffff" >听说花会中藏着一位如花般的女子？不知此事是真是假！</font>
+CanAcceptMenu_21353=<font face="Default" color="#ffffff" >念萝花会果真是个有趣的地方。</font>
+CanAcceptMenu_21354=<font face="Default" color="#ffffff" >念萝花会果真是个好地方。</font>
+CanAcceptMenu_21355=<font face="Default" color="#ffffff" >师姐，如何才能快速的提升舞技？</font>
+CanAcceptMenu_21360=<font face="Default" color="#ffffff" >保护同门</font>
+CanAcceptMenu_21361=<font face="Default" color="#ffffff" >保护同门</font>
+CanAcceptMenu_21362=<font face="Default" color="#ffffff" >保护同门</font>
+CanAcceptMenu_21363=<font face="Default" color="#ffffff" >保护同门</font>
+CanAcceptMenu_21364=<font face="Default" color="#ffffff" >念萝坝周常（</font><font face="Default" color="#ffffff" >保护同门</font><font face="Default" color="#ffffff" >）</font>
+CanAcceptMenu_21365=<font face="Default" color="#ffffff" >采集奇草</font>
+CanAcceptMenu_21366=<font face="Default" color="#ffffff" >采集奇草</font>
+CanAcceptMenu_21367=<font face="Default" color="#ffffff" >采集奇草</font>
+CanAcceptMenu_21368=<font face="Default" color="#ffffff" >采集奇草</font>
+CanAcceptMenu_21369=<font face="Default" color="#ffffff" >采集奇草</font>
+CanAcceptMenu_21370=<font face="Default" color="#ffffff" >师姐</font><font face="Default" color="#ffffff" >好。</font>
+CanAcceptMenu_21371=<font face="Default" color="#ffffff" >找猴子</font>
+CanAcceptMenu_21372=<font face="Default" color="#ffffff" >念萝坝周常（采集奇草）</font>
+CompleteMenu_21208=<font face="Default" color="#ffffff" >提交任务</font>
+CompleteMenu_21216=<font face="Default" color="#ffffff" >提交任务</font>
+CompleteMenu_21227=<font face="Default" color="#ffffff" >尊主……</font>
+CompleteMenu_21228=<font face="Default" color="#ffffff" >提交任务</font>
+CompleteMenu_21231=<font face="Default" color="#ffffff" >多谢成全</font>
+CompleteMenu_21232=<font face="Default" color="#ffffff" >完成任务</font>
+CompleteMenu_21235=<font face="Default" color="#ffffff" >尊主</font>
+CompleteMenu_21251=<font face="Default" color="#ffffff" >提炼花粉</font><font face="Default" color="#ffffff" >（可提交）</font>
+CompleteMenu_21252=<font face="Default" color="#ffffff" >喂食（可提交）</font>
+CompleteMenu_21253=<font face="Default" color="#ffffff" >收集花草（可提交）</font>
+CompleteMenu_21254=<font face="Default" color="#ffffff" >送花取粉（可提交）</font>
+CompleteMenu_21255=<font face="Default" color="#ffffff" >武学锻炼（可提交）</font>
+CompleteMenu_21256=<font face="Default" color="#ffffff" >抵御野兽（可提交）</font>
+CompleteMenu_21266=<font face="Default" color="#ffffff" >我已完成念萝坝试炼，前来加入念萝坝！</font>
+CompleteMenu_21271=<font face="Default" color="#ffffff" >在下前来加入念萝坝。</font>
+CompleteMenu_21280=<font face="Default" color="#ffffff" >我奉水寒秋之命前来加入念萝坝。</font>
+CompleteMenu_21281=<font face="Default" color="#ffffff" >我奉水寒秋之命前来加入念萝坝。</font>
+CompleteMenu_21282=<font face="Default" color="#ffffff" >我奉水寒秋之命前来加入念萝坝。</font>
+CompleteMenu_21292=<font face="Default" color="#ffffff" >江湖救急（可提交）</font>
+CompleteMenu_21293=<font face="Default" color="#ffffff" >江湖救急（可提交）</font>
+CompleteMenu_21294=<font face="Default" color="#ffffff" >江湖救急（可提交）</font>
+CompleteMenu_21295=<font face="Default" color="#ffffff" >江湖救急（可提交）</font>
+CompleteMenu_21296=<font face="Default" color="#ffffff" >江湖救急（可提交）</font>
+CompleteMenu_21297=<font face="Default" color="#ffffff" >江湖救急（可提交）</font>
+CompleteMenu_21298=<font face="Default" color="#ffffff" >江湖救急（可提交）</font>
+CompleteMenu_21299=<font face="Default" color="#ffffff" >千里送信（可提交）</font>
+CompleteMenu_21300=<font face="Default" color="#ffffff" >千里送信（可提交）</font>
+CompleteMenu_21301=<font face="Default" color="#ffffff" >千里送信（可提交）</font>
+CompleteMenu_21302=<font face="Default" color="#ffffff" >千里送信（可提交）</font>
+CompleteMenu_21303=<font face="Default" color="#ffffff" >千里送信（可提交）</font>
+CompleteMenu_21304=<font face="Default" color="#ffffff" >千里送信（可提交）</font>
+CompleteMenu_21305=<font face="Default" color="#ffffff" >千里送信（可提交）</font>
+CompleteMenu_21306=<font face="Default" color="#ffffff" >强兵壮马（可提交）</font>
+CompleteMenu_21307=<font face="Default" color="#ffffff" >强兵壮马（可提交）</font>
+CompleteMenu_21308=<font face="Default" color="#ffffff" >强兵壮马（可提交）</font>
+CompleteMenu_21309=<font face="Default" color="#ffffff" >强兵壮马（可提交）</font>
+CompleteMenu_21310=<font face="Default" color="#ffffff" >强兵壮马（可提交）</font>
+CompleteMenu_21311=<font face="Default" color="#ffffff" >强兵壮马（可提交）</font>
+CompleteMenu_21312=<font face="Default" color="#ffffff" >强兵壮马（可提交）</font>
+CompleteMenu_21313=<font face="Default" color="#ffffff" >平息谣言（可提交）</font>
+CompleteMenu_21314=<font face="Default" color="#ffffff" >平息谣言（可提交）</font>
+CompleteMenu_21315=<font face="Default" color="#ffffff" >平息谣言（可提交）</font>
+CompleteMenu_21316=<font face="Default" color="#ffffff" >平息谣言（可提交）</font>
+CompleteMenu_21317=<font face="Default" color="#ffffff" >平息谣言（可提交）</font>
+CompleteMenu_21318=<font face="Default" color="#ffffff" >平息谣言（可提交）</font>
+CompleteMenu_21319=<font face="Default" color="#ffffff" >平息谣言（可提交）</font>
+CompleteMenu_21320=<font face="Default" color="#ffffff" >天下奇毒（可提交）</font>
+CompleteMenu_21321=<font face="Default" color="#ffffff" >囚笼斗奴</font><font face="Default" color="#ffffff" >（可提交）</font>
+CompleteMenu_21322=<font face="Default" color="#ffffff" >不明之人（可提交）</font>
+CompleteMenu_21323=<font face="Default" color="#ffffff" >精血为引（可提交）</font>
+CompleteMenu_21324=<font face="Default" color="#ffffff" >念萝坝周常</font><font face="Default" color="#ffffff" >（可提交）</font>
+CompleteMenu_21330=<font face="Default" color="#ffffff" >护送公主</font><font face="Default" color="#ffffff" >（可提交）</font>
+CompleteMenu_21331=<font face="Default" color="#ffffff" >保护同门</font><font face="Default" color="#ffffff" >（可提交）</font>
+CompleteMenu_21332=<font face="Default" color="#ffffff" >直言纳谏</font><font face="Default" color="#ffffff" >（可提交）</font>
+CompleteMenu_21333=<font face="Default" color="#ffffff" >小妮妮，你要的蝴蝶哦！</font>
+CompleteMenu_21334=<font face="Default" color="#ffffff" >蓉蓉</font><font face="Default" color="#ffffff" >妹妹，芙蓉令取来了哦！</font>
+CompleteMenu_21335=<font face="Default" color="#ffffff" >看看我玩的怎么样？</font>
+CompleteMenu_21336=<font face="Default" color="#ffffff" >采集奇草</font><font face="Default" color="#ffffff" >（可提交）</font>
+CompleteMenu_21337=<font face="Default" color="#ffffff" >直言纳谏</font><font face="Default" color="#ffffff" >（可提交）</font>
+CompleteMenu_21338=<font face="Default" color="#ffffff" >直言纳谏</font><font face="Default" color="#ffffff" >（可提交）</font>
+CompleteMenu_21339=<font face="Default" color="#ffffff" >直言纳谏</font><font face="Default" color="#ffffff" >（可提交）</font>
+CompleteMenu_21340=<font face="Default" color="#ffffff" >直言纳谏</font><font face="Default" color="#ffffff" >（可提交）</font>
+CompleteMenu_21341=<font face="Default" color="#ffffff" >直言纳谏</font><font face="Default" color="#ffffff" >（可提交）</font>
+CompleteMenu_21342=<font face="Default" color="#ffffff" >念萝坝周常（可提交）</font>
+CompleteMenu_21343=<font face="Default" color="#ffffff" >护送公主</font><font face="Default" color="#ffffff" >（可提交）</font>
+CompleteMenu_21344=<font face="Default" color="#ffffff" >护送公主</font><font face="Default" color="#ffffff" >（可提交）</font>
+CompleteMenu_21345=<font face="Default" color="#ffffff" >护送公主</font><font face="Default" color="#ffffff" >（可提交）</font>
+CompleteMenu_21346=<font face="Default" color="#ffffff" >护送公主</font><font face="Default" color="#ffffff" >（可提交）</font>
+CompleteMenu_21347=<font face="Default" color="#ffffff" >护送公主</font><font face="Default" color="#ffffff" >（可提交）</font>
+CompleteMenu_21348=<font face="Default" color="#ffffff" >念萝坝周常（可提交）</font>
+CompleteMenu_21349=<font face="Default" color="#ffffff" >保护同门</font><font face="Default" color="#ffffff" >（可提交）</font>
+CompleteMenu_21350=<font face="Default" color="#ffffff" >前辈承让！</font>
+CompleteMenu_21351=<font face="Default" color="#ffffff" >前辈，舞技修习果然不是件容易的事。此事虽不易但是弟子却乐在其中！</font>
+CompleteMenu_21352=<font face="Default" color="#ffffff" >这样就可以了吧。</font>
+CompleteMenu_21353=<font face="Default" color="#ffffff" >念萝坝是否也如念萝花会一样有趣？</font>
+CompleteMenu_21354=<font face="Default" color="#ffffff" >不知阁下是否满意？</font>
+CompleteMenu_21355=<font face="Default" color="#ffffff" >师姐说的果然有道理，我在师兄弟的身上学到了很多东西！</font>
+CompleteMenu_21356=<font face="Default" color="#ffffff" >念萝坝是否也如念萝花会一样有趣？</font>
+CompleteMenu_21360=<font face="Default" color="#ffffff" >保护同门</font><font face="Default" color="#ffffff" >（可提交）</font>
+CompleteMenu_21361=<font face="Default" color="#ffffff" >保护同门</font><font face="Default" color="#ffffff" >（可提交）</font>
+CompleteMenu_21362=<font face="Default" color="#ffffff" >保护同门</font><font face="Default" color="#ffffff" >（可提交）</font>
+CompleteMenu_21363=<font face="Default" color="#ffffff" >保护同门</font><font face="Default" color="#ffffff" >（可提交）</font>
+CompleteMenu_21364=<font face="Default" color="#ffffff" >念萝坝周常（可提交）</font>
+CompleteMenu_21365=<font face="Default" color="#ffffff" >采集奇草（可提交）</font>
+CompleteMenu_21366=<font face="Default" color="#ffffff" >采集奇草（可提交）</font>
+CompleteMenu_21367=<font face="Default" color="#ffffff" >采集奇草（可提交）</font>
+CompleteMenu_21368=<font face="Default" color="#ffffff" >采集奇草（可提交）</font>
+CompleteMenu_21369=<font face="Default" color="#ffffff" >采集奇草（可提交）</font>
+CompleteMenu_21370=<font face="Default" color="#ffffff" >无字玉璧果然神奇。</font>
+CompleteMenu_21371=<font face="Default" color="#ffffff" >找猴子（可提交）</font>
+CompleteMenu_21372=<font face="Default" color="#ffffff" >念萝坝周常（可提交）</font>
+accept_21201_1=<font face="Default" color="#ffffff" >恩，你就是新加入的弟子，多谢你之前的帮助，念萝坝奉行女尊男卑，这里对女弟子几乎没有什么要求，不过对于魔奴的要求是很严格的，你先去熟悉下门派吧。</font>
+accept_21222_1=<font face="Default" color="#ffffff" >你把我弄丢了？</font>
+accept_21228_1=<font face="Default" color="#ffffff" >我念萝坝容不得废人，如果你不努力提升自己，下场？只能是花肥了。</font>
+accept_21231_1=<font face="Default" color="#ffffff" >我念萝坝不是那些迂腐的门派，你去找</font><font face="Default" color="#ffffff" >卿笺若，她会告诉你怎么做。</font>
+accept_21232_1=<font face="Default" color="#ffffff" >不错，本门弟子都需要了解本门的历史渊源，在熟悉之后，方能学习渊源门派的武学，了解这些武学的精髓。</font><font face="Default" color="#ff0000" >【警示】日后离开念萝坝，若非进入唐门，则废除所有所学唐门武学！望三思而后行！</font>
+accept_21251_1=<font face="Default" color="#ffffff" >花粉，花粉，用途多多，可制敌，可修己，可清身，可药害......</font><font face="Default" color="#ffffff" >身为念萝坝弟子需每日锻炼自己的提炼花粉之术，你是不是要开始今天的锻炼了？</font>
+accept_21252_1=<font face="Default" color="#ffffff" >我派弟子当互帮互助，共建有爱之派！我前面不远处的包打听好像有点事在找人帮忙，你若闲来无事可以去问问看。</font>
+accept_21253_1=<font face="Default" color="#ffffff" >本派弟子基本都</font><font face="Default" color="#ffffff" >擅于</font><font face="Default" color="#ffffff" >研制各类花粉之术，每种花粉都有不同的作用，研制过程需要一些花草的加入研磨才可，现在本派正缺这些花草。你可愿帮助本派收集些来？</font>
+accept_21254_1=<font face="Default" color="#ffffff" >大师姐得了一种奇怪的皮肤病，浑身疼痛，皮肤如灼烧一般，需每日涂抹小师妹精心研制的花粉才可消除疼痛感，但此花粉每天只能研制出一点点，因为所需研磨的奇花一天只开一朵。</font><font face="Default" color="#ffffff" >你可愿</font><font face="Default" color="#ffffff" >帮大师姐把她采得的奇花送给酷爱炼制花粉的小师妹，并从小师妹处把研磨好的花粉带回来交给大师姐</font><font face="Default" color="#ffffff" >？</font>
+accept_21255_1=<font face="Default" color="#ffffff" >习武，不仅可以强身，也可以护身，本派弟子需每日去找武艺高强的念萝坝弟子木慕穆切磋，来提升自己的武艺。木慕穆是念萝坝比较擅长精研武学之道的弟子，每日和她切磋，都会获得不一样的长进！你可以去找她切磋切磋！</font>
+accept_21256_1=<font face="Default" color="#ffffff" >本派</font><font face="Default" color="#ffffff" >周围</font><font face="Default" color="#ffffff" >山林</font><font face="Default" color="#ffffff" >环绕</font><font face="Default" color="#ffffff" >，常有野兽来袭，伤及不少外出游行弟子，为了减少这样的事件发生，需要派你去攻克这些野兽，你可愿意？</font>
+accept_21261_1=<font face="Default" color="#ffffff" >你想打听什么？我们说的事情可</font><font face="Default" color="#ffffff" >不</font><font face="Default" color="#ffffff" >是你想知道就知道的</font><font face="Default" color="#ffffff" >。</font>
+accept_21268_1=<font face="Default" color="#ffffff" >你是唐门弟子！你来的正好！</font>
+accept_21273_1=<font face="Default" color="#ffffff" >如果你遇到什么解决不了的问题，可以拿着令牌来找我，我可以帮你一次。</font>
+accept_21292_1=<font face="Default" color="#ffffff" >有弟子回来禀报，说有本门派弟子在外面被人欺负，并且嘲讽我念萝坝实力太弱，尊主知道后很是生气，尊主一直告诫我们要团结一致，互帮互助，所以派你赶去帮忙，也为了门派的荣誉，狠狠教训这狂妄之徒。你可愿意否？</font>
+accept_21293_1=<font face="Default" color="#ffffff" >有弟子回来禀报，说有本门派弟子在外面被人欺负，并且嘲讽我念萝坝实力太弱，尊主知道后很是生气，尊主一直告诫我们要团结一致，互帮互助，所以派你赶去帮忙，也为了门派的荣誉，狠狠教训这狂妄之徒。你可愿意否？</font>
+accept_21294_1=<font face="Default" color="#ffffff" >有弟子回来禀报，说有本门派弟子在外面被人欺负，并且嘲讽我念萝坝实力太弱，尊主知道后很是生气，尊主一直告诫我们要团结一致，互帮互助，所以派你赶去帮忙，也为了门派的荣誉，狠狠教训这狂妄之徒。你可愿意否？</font>
+accept_21295_1=<font face="Default" color="#ffffff" >有弟子回来禀报，说有本门派弟子在外面被人欺负，并且嘲讽我念萝坝实力太弱，尊主知道后很是生气，尊主一直告诫我们要团结一致，互帮互助，所以派你赶去帮忙，也为了门派的荣誉，狠狠教训这狂妄之徒。你可愿意否？</font>
+accept_21296_1=<font face="Default" color="#ffffff" >有弟子回来禀报，说有本门派弟子在外面被人欺负，并且嘲讽我念萝坝实力太弱，尊主知道后很是生气，尊主一直告诫我们要团结一致，互帮互助，所以派你赶去帮忙，也为了门派的荣誉，狠狠教训这狂妄之徒。你可愿意否？</font>
+accept_21297_1=<font face="Default" color="#ffffff" >有弟子回来禀报，说有本门派弟子在外面被人欺负，并且嘲讽我念萝坝实力太弱，尊主知道后很是生气，尊主一直告诫我们要团结一致，互帮互助，所以派你赶去帮忙，也为了门派的荣誉，狠狠教训这狂妄之徒。你可愿意否？</font>
+accept_21298_1=<font face="Default" color="#ffffff" >有弟子回来禀报，说有本门派弟子在外面被人欺负，并且嘲讽我念萝坝实力太弱，尊主知道后很是生气，尊主一直告诫我们要团结一致，互帮互助，所以派你赶去帮忙，也为了门派的荣誉，狠狠教训这狂妄之徒。你可愿意否？</font>
+accept_21299_1=<font face="Default" color="#ffffff" >如今江湖，一个门派要想立足于江湖，不得不和各大门派搞好关系，就算关系不是太好，也不能结仇</font><font face="Default" color="#ffffff" >。</font>
+accept_21300_1=<font face="Default" color="#ffffff" >如今江湖，一个门派要想立足于江湖，不得不和各大门派搞好关系，就算关系不是太好，也不能结仇。</font>
+accept_21301_1=<font face="Default" color="#ffffff" >如今江湖，一个门派要想立足于江湖，不得不和各大门派搞好关系，就算关系不是太好，也不能结仇。</font>
+accept_21302_1=<font face="Default" color="#ffffff" >如今江湖，一个门派要想立足于江湖，不得不和各大门派搞好关系，就算关系不是太好，也不能结仇。</font>
+accept_21303_1=<font face="Default" color="#ffffff" >如今江湖，一个门派要想立足于江湖，不得不和各大门派搞好关系，就算关系不是太好，也不能结仇。</font>
+accept_21304_1=<font face="Default" color="#ffffff" >如今江湖，一个门派要想立足于江湖，不得不和各大门派搞好关系，就算关系不是太好，也不能结仇。</font>
+accept_21305_1=<font face="Default" color="#ffffff" >如今江湖，一个门派要想立足于江湖，不得不和各大门派搞好关系，就算关系不是太好，也不能结仇。</font>
+accept_21306_1=<font face="Default" color="#ffffff" >门派若想立足，必然需强大起来，强大固然需要兵强马壮，现在门派尚缺一些弟子。听说各大门派有一些被赶出或自己叛出的弟子，念萝坝管事想把这些人招揽进来，说不定以后会有什么用。你去找尊主问问看她要你做什么</font>
+accept_21307_1=<font face="Default" color="#ffffff" >门派若想立足，必然需强大起来，强大固然需要兵强马壮，现在门派尚缺一些弟子。听说各大门派有一些被赶出或自己叛出的弟子，念萝坝管事想把这些人招揽进来，说不定以后会有什么用。你去找尊主问问看她要你做什么</font>
+accept_21308_1=<font face="Default" color="#ffffff" >门派若想立足，必然需强大起来，强大固然需要兵强马壮，现在门派尚缺一些弟子。听说各大门派有一些被赶出或自己叛出的弟子，念萝坝管事想把这些人招揽进来，说不定以后会有什么用。</font><font face="Default" color="#ffffff" >你去找尊主问问看她要你做什么</font>
+accept_21309_1=<font face="Default" color="#ffffff" >门派若想立足，必然需强大起来，强大固然需要兵强马壮，现在门派尚缺一些弟子。听说各大门派有一些被赶出或自己叛出的弟子，念萝坝管事想把这些人招揽进来，说不定以后会有什么用。</font><font face="Default" color="#ffffff" >你去找尊主问问看她要你做什么</font>
+accept_21310_1=<font face="Default" color="#ffffff" >门派若想立足，必然需强大起来，强大固然需要兵强马壮，现在门派尚缺一些弟子。听说各大门派有一些被赶出或自己叛出的弟子，念萝坝管事想把这些人招揽进来，说不定以后会有什么用。</font><font face="Default" color="#ffffff" >你去找尊主问问看她要你做什么</font>
+accept_21311_1=<font face="Default" color="#ffffff" >门派若想立足，必然需强大起来，强大固然需要兵强马壮，现在门派尚缺一些弟子。听说各大门派有一些被赶出或自己叛出的弟子，念萝坝管事想把这些人招揽进来，说不定以后会有什么用。</font><font face="Default" color="#ffffff" >你去找尊主问问看她要你做什么</font>
+accept_21312_1=<font face="Default" color="#ffffff" >门派若想立足，必然需强大起来，强大固然需要兵强马壮，现在门派尚缺一些弟子。听说各大门派有一些被赶出或自己叛出的弟子，念萝坝管事想把这些人招揽进来，说不定以后会有什么用。</font><font face="Default" color="#ffffff" >你去找尊主问问看她要你做什么</font>
+accept_21313_1=<font face="Default" color="#ffffff" >江湖之中，恶意中伤者多矣，意图挑起门派之间的战争，</font><font face="Default" color="#ffffff" >听外出游行归来的弟子说有部分谣言叛徒分子在各大门派里说念萝坝的各种坏话，意图挑起其它门派与念萝坝的战争，身为念萝坝弟子不能纵容这些人的为所欲为，得前去各大门派教训此等不怀好意之人。</font>
+accept_21314_1=<font face="Default" color="#ffffff" >江湖之中，恶意中伤者多矣，意图挑起门派之间的战争，</font><font face="Default" color="#ffffff" >听外出游行归来的弟子说有部分谣言叛徒分子在各大门派里说念萝坝的各种坏话，意图挑起其它门派与念萝坝的战争，身为念萝坝弟子不能纵容这些人的为所欲为，得前去各大门派教训此等不怀好意之人。</font>
+accept_21315_1=<font face="Default" color="#ffffff" >江湖之中，恶意中伤者多矣，意图挑起门派之间的战争，</font><font face="Default" color="#ffffff" >听外出游行归来的弟子说有部分谣言叛徒分子在各大门派里说念萝坝的各种坏话，意图挑起其它门派与念萝坝的战争，身为念萝坝弟子不能纵容这些人的为所欲为，得前去各大门派教训此等不怀好意之人。</font>
+accept_21316_1=<font face="Default" color="#ffffff" >江湖之中，恶意中伤者多矣，意图挑起门派之间的战争，</font><font face="Default" color="#ffffff" >听外出游行归来的弟子说有部分谣言叛徒分子在各大门派里说念萝坝的各种坏话，意图挑起其它门派与念萝坝的战争，身为念萝坝弟子不能纵容这些人的为所欲为，得前去各大门派教训此等不怀好意之人。</font>
+accept_21317_1=<font face="Default" color="#ffffff" >江湖之中，恶意中伤者多矣，意图挑起门派之间的战争，</font><font face="Default" color="#ffffff" >听外出游行归来的弟子说有部分谣言叛徒分子在各大门派里说念萝坝的各种坏话，意图挑起其它门派与念萝坝的战争，身为念萝坝弟子不能纵容这些人的为所欲为，得前去各大门派教训此等不怀好意之人。</font>
+accept_21318_1=<font face="Default" color="#ffffff" >江湖之中，恶意中伤者多矣，意图挑起门派之间的战争，</font><font face="Default" color="#ffffff" >听外出游行归来的弟子说有部分谣言叛徒分子在各大门派里说念萝坝的各种坏话，意图挑起其它门派与念萝坝的战争，身为念萝坝弟子不能纵容这些人的为所欲为，得前去各大门派教训此等不怀好意之人。</font>
+accept_21319_1=<font face="Default" color="#ffffff" >江湖之中，恶意中伤者多矣，意图挑起门派之间的战争，</font><font face="Default" color="#ffffff" >听外出游行归来的弟子说有部分谣言叛徒分子在各大门派里说念萝坝的各种坏话，意图挑起其它门派与念萝坝的战争，身为念萝坝弟子不能纵容这些人的为所欲为，得前去各大门派教训此等不怀好意之人。</font>
+accept_21320_1=<font face="Default" color="#ffffff" >天下奇毒，无奇不有，念萝坝弟子善于培养毒花，她们把一些药物捣烂混入泥土之中培养毒花，故此毒花之毒，奇特无比，根据放入的药物比例，能培养出不同特效的毒花。你想学吗？真想学会此术，先帮我收集一些材料吧？</font>
+accept_21321_1=<font face="Default" color="#ffffff" >天下是男人的又如何，在这念萝坝里还不是各个服服帖帖沦为魔奴，就算那些男人再傲气，到我等姐妹手里都只是那鼓掌之间的玩物。那如梦令的牢笼里也不知关押过多少臭男人，都不是好东西。该杀个干净，你去斩杀一个，试试你的胆量，就当做你的日常修行，免得日后行走江湖，少了提刀的勇气。你直接去如梦令，找斐姬，让她指导你。</font>
+accept_21322_1=<font face="Default" color="#ffffff" >近日门内经常出现一些来历不明的江湖人，意在窃取我门中机密事物，你等弟子需加强巡视，找出那些不明之人，将其铲除，免了门内隐患。你可愿前去查看？</font>
+accept_21323_1=<font face="Default" color="#ffffff" >本派毒花，可制奇毒，此毒花，每开花之时取下，方可有奇效，但毒花开花都需一个引子-人的精血，身为毒花的培育者，需每天为毒花寻得开花之引，才能制得天下奇毒！我这有一专门取人精血的容器-储血管，你可前去击伤他人，然后对他使用它来吸取和存储精血即可，用它储存的精血可保保鲜如初。</font>
+accept_21324_1=<font face="Default" color="#ffffff" >噢，</font><font face="Default" color="#ffffff" >你来本门也有些日子了吧，</font><font face="Default" color="#ffffff" >师门</font><font face="Default" color="#ffffff" >现在</font><font face="Default" color="#ffffff" >有点事需要交给你去完成！</font>
+accept_21330_1=<font face="Default" color="#ffffff" >仙儿好久没见到杭彩衣令主了，甚是想念，你就带着她去</font><font face="Default" color="#ffffff" >香罗袖</font><font face="Default" color="#ffffff" >吧</font>
+accept_21331_1=<font face="Default" color="#ffffff" >近日有弟子来禀，江湖上小觑我</font><font face="Default" color="#ffffff" >念萝坝</font><font face="Default" color="#ffffff" >女子为尊，处处与我派为难，说我</font><font face="Default" color="#ffffff" >念萝坝</font><font face="Default" color="#ffffff" >不堪一击。我</font><font face="Default" color="#ffffff" >念萝坝</font><font face="Default" color="#ffffff" >虽女子为尊，但巾帼不让须眉，岂容他人随意欺凌！尊主得知后甚为愤怒，特欲你前往援助，以长本门之威，狠狠教训这些狂妄之徒，让他们知道何谓巾帼须眉！</font>
+accept_21332_1=<font face="Default" color="#ffffff" >当下大势，一派若想立足于江湖之中，须众人集思广益，共同努力，门派才能得以兴盛。尊主特此修书，你去把此书带给本门各大令主，让大家出言献策，并带回给尊主。</font>
+accept_21333_1=<font face="Default" color="#ffffff" >妮妮想要好多好多蝴蝶，可是追了好久都追不到。帮妮妮捉几只蝴蝶吧，妮妮可以和你一起玩亲亲哦。</font>
+accept_21334_1=<font face="Default" color="#ffffff" >我也不是很清楚，要不你去试试吧！</font>
+accept_21335_1=<font face="Default" color="#ffffff" >花箭投壶，不是一般人可以玩的哦！先拿几只花箭试试手吧，用花箭投中标记的壶就可以了。</font>
+accept_21336_1=<font face="Default" color="#ffffff" >这里的水坝上长有一种神奇的草药，能够制成特殊的药物，你去采集些然后交给我。</font>
+accept_21337_1=<font face="Default" color="#ffffff" >当下大势，一派若想立足于江湖之中，须众人集思广益，共同努力，门派才能得以兴盛。尊主特此修书，你去把此书带给本门各大令主，让大家出言献策，并带回给尊主。</font>
+accept_21338_1=<font face="Default" color="#ffffff" >当下大势，一派若想立足于江湖之中，须众人集思广益，共同努力，门派才能得以兴盛。尊主特此修书，你去把此书带给本门各大令主，让大家出言献策，并带回给尊主。</font>
+accept_21339_1=<font face="Default" color="#ffffff" >当下大势，一派若想立足于江湖之中，须众人集思广益，共同努力，门派才能得以兴盛。尊主特此修书，你去把此书带给本门各大令主，让大家出言献策，并带回给尊主。</font>
+accept_21340_1=<font face="Default" color="#ffffff" >当下大势，一派若想立足于江湖之中，须众人集思广益，共同努力，门派才能得以兴盛。尊主特此修书，你去把此书带给本门各大令主，让大家出言献策，并带回给尊主。</font>
+accept_21341_1=<font face="Default" color="#ffffff" >当下大势，一派若想立足于江湖之中，须众人集思广益，共同努力，门派才能得以兴盛。尊主特此修书，你去把此书带给本门各大令主，让大家出言献策，并带回给尊主。</font>
+accept_21342_1=<font face="Default" color="#ffffff" >噢，你来本门也有些日子了吧，师门现在有点事需要交给你去完成！</font>
+accept_21343_1=<font face="Default" color="#ffffff" >仙儿好久没见到</font><font face="Default" color="#ffffff" >弓媚妩</font><font face="Default" color="#ffffff" >令主了，甚是想念，你就带着她去媚红妆吧</font>
+accept_21344_1=<font face="Default" color="#ffffff" >仙儿好久没见到柒绮梦令主了，甚是想念，你就带着她去红尘劫吧</font>
+accept_21345_1=<font face="Default" color="#ffffff" >仙儿好久没见到轩辕天舞令主了，甚是想念，你就带着她去天魔舞吧</font>
+accept_21346_1=<font face="Default" color="#ffffff" >仙儿好久没见到</font><font face="Default" color="#ffffff" >芷清幽</font><font face="Default" color="#ffffff" >令主了，甚是想念，你就带着她去</font><font face="Default" color="#ffffff" >如梦令</font><font face="Default" color="#ffffff" >吧</font>
+accept_21347_1=<font face="Default" color="#ffffff" >仙儿好久没见到宫碧若令主了，甚是想念，你就带着她去</font><font face="Default" color="#ffffff" >胭脂谷</font><font face="Default" color="#ffffff" >吧</font>
+accept_21348_1=<font face="Default" color="#ffffff" >噢，你来本门也有些日子了吧，师门现在有点事需要交给你去完成！</font>
+accept_21349_1=<font face="Default" color="#ffffff" >近日有弟子来禀，江湖上小觑我念萝坝女子为尊，处处与我派为难，说我念萝坝不堪一击。我念萝坝虽女子为尊，但巾帼不让须眉，岂容他人随意欺凌！尊主得知后甚为愤怒，特欲你前往援助，以长本门之威，狠狠教训这些狂妄之徒，让他们知道何谓巾帼须眉！</font>
+accept_21350_1=<font face="Default" color="#ffffff" >来者便是客，区区在下舞技欠佳还请阁下指教一二！</font>
+accept_21351_1=<font face="Default" color="#ffffff" >哦？舞技入门十分简单，如要取得长足的进步却不是件容易的事，不知你是否</font><font face="Default" color="#ffffff" >有</font><font face="Default" color="#ffffff" >此毅力！？</font>
+accept_21352_1=<font face="Default" color="#ffffff" >你也是为这神秘女子而来吗？听说只要制作出足够的花酿那位神秘女子便会出现！</font>
+accept_21353_1=<font face="Default" color="#ffffff" >还有众多有趣之处少侠还未见到，里面请。</font><font face="Default" color="#7f0000" >不过你要记住参与花会中的活动必须持有花票，花票则可以来我这里购买。</font>
+accept_21354_1=<font face="Default" color="#ffffff" >话虽如此却不是所有人都这么想！总有些好事之徒看不得别人的好。</font>
+accept_21354_2=
+accept_21355_1=<font face="Default" color="#ffffff" >提升舞技最快的办法便是与人切磋，与同门进行舞技对垒便是最快的途径。</font>
+accept_21360_1=<font face="Default" color="#ffffff" >近日有弟子来禀，江湖上小觑我念萝坝女子为尊，处处与我派为难，说我念萝坝不堪一击。我念萝坝虽女子为尊，但巾帼不让须眉，岂容他人随意欺凌！尊主得知后甚为愤怒，特欲你前往援助，以长本门之威，狠狠教训这些狂妄之徒，让他们知道何谓巾帼须眉！</font>
+accept_21361_1=<font face="Default" color="#ffffff" >近日有弟子来禀，江湖上小觑我念萝坝女子为尊，处处与我派为难，说我念萝坝不堪一击。我念萝坝虽女子为尊，但巾帼不让须眉，岂容他人随意欺凌！尊主得知后甚为愤怒，特欲你前往援助，以长本门之威，狠狠教训这些狂妄之徒，让他们知道何谓巾帼须眉！</font>
+accept_21362_1=<font face="Default" color="#ffffff" >近日有弟子来禀，江湖上小觑我念萝坝女子为尊，处处与我派为难，说我念萝坝不堪一击。我念萝坝虽女子为尊，但巾帼不让须眉，岂容他人随意欺凌！尊主得知后甚为愤怒，特欲你前往援助，以长本门之威，狠狠教训这些狂妄之徒，让他们知道何谓巾帼须眉！</font>
+accept_21363_1=<font face="Default" color="#ffffff" >近日有弟子来禀，江湖上小觑我念萝坝女子为尊，处处与我派为难，说我念萝坝不堪一击。我念萝坝虽女子为尊，但巾帼不让须眉，岂容他人随意欺凌！尊主得知后甚为愤怒，特欲你前往援助，以长本门之威，狠狠教训这些狂妄之徒，让他们知道何谓巾帼须眉！</font>
+accept_21364_1=<font face="Default" color="#ffffff" >噢，你来本门也有些日子了吧，师门现在有点事需要交给你去完成！</font>
+accept_21365_1=<font face="Default" color="#ffffff" >这里的水坝上长有一种神奇的草药，能够制成特殊的药物，你去采集些然后交给我。</font>
+accept_21366_1=<font face="Default" color="#ffffff" >这里的水坝上长有一种神奇的草药，能够制成特殊的药物，你去采集些然后交给我。</font>
+accept_21367_1=<font face="Default" color="#ffffff" >这里的水坝上长有一种神奇的草药，能够制成特殊的药物，你去采集些然后交给我。</font>
+accept_21368_1=<font face="Default" color="#ffffff" >这里的水坝上长有一种神奇的草药，能够制成特殊的药物，你去采集些然后交给我。</font>
+accept_21369_1=<font face="Default" color="#ffffff" >这里的水坝上长有一种神奇的草药，能够制成特殊的药物，你去采集些然后交给我。</font>
+accept_21370_1=<font face="Default" color="#ffffff" >我的职责就是守护无字玉璧，此处非念萝坝弟子不得入内。</font>
+complete_21208=<font face="Default" color="#ffffff" >快点过去把，花蕊夫人那里我已经替你打点好。你直接去找她就好</font><font face="Default" color="#ffffff" >。</font>
+accept_21372_1=<font face="Default" color="#ffffff" >噢，你来本门也有些日子了吧，师门现在有点事需要交给你去完成！</font>
+complete_21216=<font face="Default" color="#ffffff" >花会的事情已经办的差不多了，你先回去吧，去城门口会有人接应你回去。</font>
+complete_21227=<font face="Default" color="#ffffff" >女人如花……花似梦</font><font face="Default" color="#ffffff" >……</font>
+complete_21228=<font face="Default" color="#ffffff" >还愣着干什么，快去练功。</font>
+complete_21231=<font face="Default" color="#ffffff" >没关系，只是可惜你这个苗子。</font>
+complete_21232=<font face="Default" color="#ffffff" >嗯，现在你了解了本门的历史渊源。可以学习唐门的武学招式，想要心领神会</font><font face="Default" color="#ffffff" >唐门</font><font face="Default" color="#ffffff" >的武学，你可以多去</font><font face="Default" color="#ffffff" >唐门</font><font face="Default" color="#ffffff" >走动走动，和</font><font face="Default" color="#ffffff" >唐门</font><font face="Default" color="#ffffff" >弟子交流切磋。</font><font face="Default" color="#ff0000" >【警示】日后离开念萝坝，若非进入唐门，则废除所有所学唐门武学！望三思而后行！</font>
+complete_21235=<font face="Default" color="#ffffff" >你既加入了我念萝坝，就要按照我念萝坝的规矩办事。</font>
+complete_21251=<font face="Default" color="#ffffff" >想必你天资还是不错，</font><font face="Default" color="#ffffff" >只是这提炼之术，得每日勤加练习才可，还望你以后能多多锻炼！</font>
+complete_21252=<font face="Default" color="#ffffff" >此是善举，所谓善有善报，汝</font><font face="Default" color="#ffffff" >若能此般</font><font face="Default" color="#ffffff" >坚持下去必有好报！</font>
+complete_21253=<font face="Default" color="#ffffff" >哟，可以嘛，你</font><font face="Default" color="#ffffff" >很</font><font face="Default" color="#ffffff" >有前途啊，做事挺勤快！嗯，我看了，都是对的，我一定在门派贡献上记下你一笔！</font>
+complete_21254=<font face="Default" color="#ffffff" >本派弟子就应该像你这样互帮互助！</font><font face="Default" color="#ffffff" >既然你愿意帮忙那敢情是好，这样，以后这忙就每天交给你去做了！</font>
+complete_21255=<font face="Default" color="#ffffff" >那就好，我还怕你</font><font face="Default" color="#ffffff" >被揍了还什么都没有学到，那就得不偿失了，既然如此，日后当每日都去与她多切磋切磋！</font>
+complete_21256=<font face="Default" color="#ffffff" >你竟然除掉了</font><font face="Default" color="#ffffff" >四头！？我果然没看错人，只恐野兽不止这四头，日后还望多去看看！</font>
+complete_21266=<font face="Default" color="#ffffff" >欢迎少侠加入念萝坝</font><font face="Default" color="#ffffff" >。</font>
+complete_21271=<font face="Default" color="#ffffff" >欢迎</font><font face="Default" color="#ffffff" >少侠</font><font face="Default" color="#ffffff" >加入念萝坝。</font>
+complete_21280=<font face="Default" color="#ffffff" >欢迎少侠加入念萝坝。</font>
+complete_21281=<font face="Default" color="#ffffff" >欢迎少侠加入念萝坝。</font>
+complete_21282=<font face="Default" color="#ffffff" >欢迎少侠加入念萝坝。</font>
+complete_21292=<font face="Default" color="#ffffff" >果然不负众望！</font><font face="Default" color="#ffffff" >对于这种诋毁我们派欺我派弟子之人，就应该狠狠教训，对了，</font><font face="Default" color="#ffffff" >日后还有此等事情还需你来帮忙处理</font><font face="Default" color="#ffffff" >！</font>
+complete_21293=<font face="Default" color="#ffffff" >果然不负众望！</font><font face="Default" color="#ffffff" >对于这种诋毁我们派欺我派弟子之人，就应该狠狠教训，对了，</font><font face="Default" color="#ffffff" >日后还有此等事情还需你来帮忙处理</font><font face="Default" color="#ffffff" >！</font>
+complete_21294=<font face="Default" color="#ffffff" >果然不负众望！</font><font face="Default" color="#ffffff" >对于这种诋毁我们派欺我派弟子之人，就应该狠狠教训，对了，</font><font face="Default" color="#ffffff" >日后还有此等事情还需你来帮忙处理</font><font face="Default" color="#ffffff" >！</font>
+complete_21295=<font face="Default" color="#ffffff" >果然不负众望！</font><font face="Default" color="#ffffff" >对于这种诋毁我们派欺我派弟子之人，就应该狠狠教训，对了，</font><font face="Default" color="#ffffff" >日后还有此等事情还需你来帮忙处理</font><font face="Default" color="#ffffff" >！</font>
+complete_21296=<font face="Default" color="#ffffff" >果然不负众望！</font><font face="Default" color="#ffffff" >对于这种诋毁我们派欺我派弟子之人，就应该狠狠教训，对了，</font><font face="Default" color="#ffffff" >日后还有此等事情还需你来帮忙处理</font><font face="Default" color="#ffffff" >！</font>
+complete_21297=<font face="Default" color="#ffffff" >果然不负众望！</font><font face="Default" color="#ffffff" >对于这种诋毁我们派欺我派弟子之人，就应该狠狠教训，对了，</font><font face="Default" color="#ffffff" >日后还有此等事情还需你来帮忙处理</font><font face="Default" color="#ffffff" >！</font>
+complete_21298=<font face="Default" color="#ffffff" >果然不负众望！</font><font face="Default" color="#ffffff" >对于这种诋毁我们派欺我派弟子之人，就应该狠狠教训，对了，</font><font face="Default" color="#ffffff" >日后还有此等事情还需你来帮忙处理</font><font face="Default" color="#ffffff" >！</font>
+complete_21299=<font face="Default" color="#ffffff" >嗯，大家都希望和平相处！日后遇到什么大的危机，也好求助别的门派！你此次功不可没，我一定向尊主禀明！</font>
+complete_21300=<font face="Default" color="#ffffff" >嗯，大家都希望和平相处！日后遇到什么大的危机，也好求助别的门派！你此次功不可没，我一定向尊主禀明！</font>
+complete_21301=<font face="Default" color="#ffffff" >嗯，大家都希望和平相处！日后遇到什么大的危机，也好求助别的门派！你此次功不可没，我一定向尊主禀明！</font>
+complete_21302=<font face="Default" color="#ffffff" >嗯，大家都希望和平相处！日后遇到什么大的危机，也好求助别的门派！你此次功不可没，我一定向尊主禀明！</font>
+complete_21303=<font face="Default" color="#ffffff" >嗯，大家都希望和平相处！日后遇到什么大的危机，也好求助别的门派！你此次功不可没，我一定向尊主禀明！</font>
+complete_21304=<font face="Default" color="#ffffff" >嗯，大家都希望和平相处！日后遇到什么大的危机，也好求助别的门派！你此次功不可没，我一定向尊主禀明！</font>
+complete_21305=<font face="Default" color="#ffffff" >嗯，大家都希望和平相处！日后遇到什么大的危机，也好求助别的门派！你此次功不可没，我一定向尊主禀明！</font>
+complete_21306=<font face="Default" color="#ffffff" >好样的，继续加油！你为本门所做的贡献，我们都不会忘记，本门的壮大，你也是功不可没！</font>
+complete_21307=<font face="Default" color="#ffffff" >好样的，继续加油！你为本门所做的贡献，我们都不会忘记，本门的壮大，你也是功不可没！</font>
+complete_21308=<font face="Default" color="#ffffff" >好样的，继续加油！你为本门所做的贡献，我们都不会忘记，本门的壮大，你也是功不可没！</font>
+complete_21309=<font face="Default" color="#ffffff" >好样的，继续加油！你为本门所做的贡献，我们都不会忘记，本门的壮大，你也是功不可没！</font>
+complete_21310=<font face="Default" color="#ffffff" >好样的，继续加油！你为本门所做的贡献，我们都不会忘记，本门的壮大，你也是功不可没！</font>
+complete_21311=<font face="Default" color="#ffffff" >好样的，继续加油！你为本门所做的贡献，我们都不会忘记，本门的壮大，你也是功不可没！</font>
+complete_21312=<font face="Default" color="#ffffff" >好样的，继续加油！你为本门所做的贡献，我们都不会忘记，本门的壮大，你也是功不可没！</font>
+complete_21313=<font face="Default" color="#ffffff" >这些人的意图应该是想中伤念萝坝，挑起一场血雨腥风，对这种人，绝不能手下留情，不仅仅是为了念萝坝，更是为了整个江湖！</font>
+complete_21314=<font face="Default" color="#ffffff" >这些人的意图应该是想中伤念萝坝，挑起一场血雨腥风，对这种人，绝不能手下留情，不仅仅是为了念萝坝，更是为了整个江湖！</font>
+complete_21315=<font face="Default" color="#ffffff" >这些人的意图应该是想中伤念萝坝，挑起一场血雨腥风，对这种人，绝不能手下留情，不仅仅是为了念萝坝，更是为了整个江湖！</font>
+complete_21316=<font face="Default" color="#ffffff" >这些人的意图应该是想中伤念萝坝，挑起一场血雨腥风，对这种人，绝不能手下留情，不仅仅是为了念萝坝，更是为了整个江湖！</font>
+complete_21317=<font face="Default" color="#ffffff" >这些人的意图应该是想中伤念萝坝，挑起一场血雨腥风，对这种人，绝不能手下留情，不仅仅是为了念萝坝，更是为了整个江湖！</font>
+complete_21318=<font face="Default" color="#ffffff" >这些人的意图应该是想中伤念萝坝，挑起一场血雨腥风，对这种人，绝不能手下留情，不仅仅是为了念萝坝，更是为了整个江湖！</font>
+complete_21319=<font face="Default" color="#ffffff" >这些人的意图应该是想中伤念萝坝，挑起一场血雨腥风，对这种人，绝不能手下留情，不仅仅是为了念萝坝，更是为了整个江湖！</font>
+complete_21320=<font face="Default" color="#ffffff" >哈哈，辛苦了！我看了，一样不差一样不错，我先拿去用用，</font><font face="Default" color="#ffffff" >看你如此辛苦的份上，给你一点奖励拿好！</font>
+complete_21321=<font face="Default" color="#ffffff" >江湖行事，如果优柔寡断必然处处险阻，我们念萝弟子在外行事定是凶险万分，行事还需多思量利弊关系，对你行走江湖有益无害。</font>
+complete_21322=<font face="Default" color="#ffffff" >果然是我坝精英分子啊！对于这些可疑之人，我们决不能手软，还望你每日都能在门派里四处巡逻看看！</font><font face="Default" color="#ffffff" >呐</font><font face="Default" color="#ffffff" >，这是本次的奖励，拿好！</font>
+complete_21323=<font face="Default" color="#ffffff" >嗯，</font><font face="Default" color="#ffffff" >这精血</font><font face="Default" color="#ffffff" >能用，</font><font face="Default" color="#ffffff" >你成功</font><font face="Default" color="#ffffff" >完成了我教给你的任务，</font><font face="Default" color="#ffffff" >呐</font><font face="Default" color="#ffffff" >，这就是你应该获得的奖励，拿好！还望你以后每天都能来帮我弄这精血啊！</font>
+complete_21324=<font face="Default" color="#ffffff" >本次师门共安排五件事情要你去一件一件完成，还望你不嫌麻烦，认认真真完成每一件交付的事。只有这样，才能在门派中获得一定的声望，日后方有其它重任</font><font face="Default" color="#ffffff" >安排给你</font><font face="Default" color="#ffffff" >！</font>
+complete_21330=<font face="Default" color="#ffffff" >小公主天真活泼，大家都很喜欢她，你做得很好</font>
+complete_21331=<font face="Default" color="#ffffff" >不愧是我</font><font face="Default" color="#ffffff" >念萝坝</font><font face="Default" color="#ffffff" >精英！江湖纷乱，以后这种事还得劳烦你多费心了。</font>
+complete_21332=<font face="Default" color="#ffffff" >恩，此事你做得很好。你功不可没，我会禀明尊主，论功行赏。</font>
+complete_21333=<font face="Default" color="#ffffff" >哇，谢谢！蝴蝶真漂亮。</font>
+complete_21334=<font face="Default" color="#ffffff" >真的？真是太好了！快给我，快给我！</font>
+complete_21335=<font face="Default" color="#ffffff" >一般般而已，我见过更快、更准的。</font>
+complete_21336=<font face="Default" color="#ffffff" >这么快就回来了，辛苦你了，奇草采回来了吗</font><font face="Default" color="#ffffff" >？</font>
+complete_21337=<font face="Default" color="#ffffff" >恩，此事你做得很好。你功不可没，我会禀明尊主，论功行赏。</font>
+complete_21338=<font face="Default" color="#ffffff" >恩，此事你做得很好。你功不可没，我会禀明尊主，论功行赏。</font>
+complete_21339=<font face="Default" color="#ffffff" >恩，此事你做得很好。你功不可没，我会禀明尊主，论功行赏。</font>
+complete_21340=<font face="Default" color="#ffffff" >恩，此事你做得很好。你功不可没，我会禀明尊主，论功行赏。</font>
+complete_21341=<font face="Default" color="#ffffff" >恩，此事你做得很好。你功不可没，我会禀明尊主，论功行赏。</font>
+complete_21342=<font face="Default" color="#ffffff" >本次师门共安排五件事情要你去一件一件完成，还望你不嫌麻烦，认认真真完成每一件交付的事。只有这样，才能在门派中获得一定的声望，日后方有其它重任安排给你！</font>
+complete_21343=<font face="Default" color="#ffffff" >小公主天真活泼，大家都很喜欢她，你做得很好</font>
+complete_21344=<font face="Default" color="#ffffff" >小公主天真活泼，大家都很喜欢她，你做得很好</font>
+complete_21345=<font face="Default" color="#ffffff" >小公主天真活泼，大家都很喜欢她，你做得很好</font>
+complete_21346=<font face="Default" color="#ffffff" >小公主天真活泼，大家都很喜欢她，你做得很好</font>
+complete_21347=<font face="Default" color="#ffffff" >小公主天真活泼，大家都很喜欢她，你做得很好</font>
+complete_21348=<font face="Default" color="#ffffff" >本次师门共安排五件事情要你去一件一件完成，还望你不嫌麻烦，认认真真完成每一件交付的事。只有这样，才能在门派中获得一定的声望，日后方有其它重任安排给你！</font>
+complete_21349=<font face="Default" color="#ffffff" >不愧是我念萝坝精英！江湖纷乱，以后这种事还得劳烦你多费心了。</font>
+complete_21350=<font face="Default" color="#ffffff" >多年未曾在江湖中走动，没想到江湖中的舞技竟已如此玄妙！</font><font face="Default" color="#ffffff" >我这有一些小东西送予你，多谢你为我带来如此舞蹈！</font>
+complete_21351=<font face="Default" color="#ffffff" >哈哈哈，有趣有趣。</font><font face="Default" color="#ffffff" >孺子可教也！</font>
+complete_21352=<font face="Default" color="#ffffff" >没错，现在我们要做的就只是等待！</font>
+complete_21353=<font face="Default" color="#ffffff" >若有缘少侠自会知晓，但凡参加念萝花会的人都可以获得念萝花会的纪念物品。少侠请笑纳。</font>
+complete_21354=<font face="Default" color="#ffffff" >多谢少侠为花会做的一切，这有一些小东西还请少侠收下。</font>
+complete_21355=<font face="Default" color="#ffffff" >孺子可教！</font>
+complete_21356=<font face="Default" color="#ffffff" >若有缘少侠自会知晓，但凡参加念萝花会的人都可以获得念萝花会的纪念物品。少侠请笑纳。</font><font face="Default" color="#ffffff" >对了，花会中隐藏着一些神秘的宝箱，其中能获得什么，容我买个关子。你若有缘获得自会知晓其中的好处！</font>
+complete_21360=<font face="Default" color="#ffffff" >不愧是我念萝坝精英！江湖纷乱，以后这种事还得劳烦你多费心了。</font>
+complete_21361=<font face="Default" color="#ffffff" >不愧是我念萝坝精英！江湖纷乱，以后这种事还得劳烦你多费心了。</font>
+complete_21362=<font face="Default" color="#ffffff" >不愧是我念萝坝精英！江湖纷乱，以后这种事还得劳烦你多费心了。</font>
+complete_21363=<font face="Default" color="#ffffff" >不愧是我念萝坝精英！江湖纷乱，以后这种事还得劳烦你多费心了。</font>
+complete_21364=<font face="Default" color="#ffffff" >本次师门共安排五件事情要你去一件一件完成，还望你不嫌麻烦，认认真真完成每一件交付的事。只有这样，才能在门派中获得一定的声望，日后方有其它重任安排给你！</font>
+complete_21365=<font face="Default" color="#ffffff" >这么快就回来了，辛苦你了，奇草采回来了吗？</font>
+complete_21366=<font face="Default" color="#ffffff" >这么快就回来了，辛苦你了，奇草采回来了吗？</font>
+complete_21367=<font face="Default" color="#ffffff" >这么快就回来了，辛苦你了，奇草采回来了吗？</font>
+complete_21368=<font face="Default" color="#ffffff" >这么快就回来了，辛苦你了，奇草采回来了吗？</font>
+complete_21369=<font face="Default" color="#ffffff" >这么快就回来了，辛苦你了，奇草采回来了吗？</font>
+complete_21370=<font face="Default" color="#ffffff" >那是自然，在无字玉璧范围内历练转换修为速度可提升300%</font><font face="Default" color="#ffffff" >。</font>
+complete_21371=<font face="Default" color="#ffffff" >找到猴子了吗</font>
+complete_21372=<font face="Default" color="#ffffff" >本次师门共安排五件事情要你去一件一件完成，还望你不嫌麻烦，认认真真完成每一件交付的事。只有这样，才能在门派中获得一定的声望，日后方有其它重任安排给你！</font>
+context_21201=刚刚加入念萝坝，不如四处走走看看，了解下念萝坝的风土人情。
+context_21202=拜访如梦令主、魅红令主，了解两位令主在念萝坝的厉害之处。
+context_21203=总归能窥探到整个念萝坝令主的全貌，果然每一位都是貌若天仙各有所长。
+context_21204=了解了这么多，总不能天天无所事事，回去找尊主问问有没有什么我能帮忙的。
+context_21205=玉羽雀的事情终于告一段落，回坝里看看还有没有什么需要我来做的。
+context_21206=在红尘、香罗两位令主的指引下采集草药制作心魔秘毒
+context_21207=花会？难道这花会另有蹊跷？上次的花会并没有见到特殊之处啊？
+context_21208=小公主好萌哦，让我干什么我就干什么。
+context_21211=前往成都寻找花蕊夫人，询问念萝坝的相关事宜
+context_21212=这位朱公子可是我念萝坝重要的棋子，可要好生伺候不要怠慢了
+context_21213=花会即将开始，受花蕊夫人之托联系各大达官显贵准备花会。
+context_21214=差点忘了还要准备奇花装饰花会
+context_21215=根据花蕊夫人的指点，收服自己的魔奴
+context_21216=进入花会，看看这传说中的盛会有何不同
+context_21221=花会事物告一段落，准备回念萝坝汇报情况
+context_21222=想不到杭令主也是个多愁善感的人儿。美人在侧，当然不能拒绝了
+context_21223=杭令主的丈夫居然还活着？为了杭彩衣的幸福，此事一定要打探清楚。
+context_21224=这曹元淮居然是如此卑鄙下流无耻之徒！此时杭令主一定有危险。
+context_21225=事不宜迟，打探消息问问曹元淮到底去了哪儿。
+context_21226=不能再迟了，再迟搞不定曹元淮这禽兽能做出什么事情。尽快赶往风荷绣阁
+context_21227=果然每一名念萝坝的女人都有一段刻骨铭心的往事，让人叹息
+context_21228=念萝坝已经全部了解完毕，下面就要靠你自己了。去了解各种提升自己的方法。提高自己在门派内的作用。
+context_21231=历史大势，分分合合。离开是为了更好的回来。--吴睿
+context_21232=听<a href="findnpc_new,school15,npc_nlb_shop_lzj05" style="HLStype1">柳无悔</a>讲述念萝坝的门派渊源，了解本门派的历史来源之后，方能学习渊源门派的武学。【警示】日后离开念萝坝，若非进入唐门，则废除所有所学唐门武学！望三思而后行！
+context_21235=恭喜你已经成为了念萝坝弟子
+context_21251=念萝坝弟子善于养花之术，亦需精通花粉提炼之术，花粉种类复杂繁多，用途各异，身为念萝坝弟子需每日锻炼自己的花粉提炼之技。可在念萝坝大弟子妲琥碧处学习提炼之术。
+context_21252=念萝坝弟子包打听为人善良，特别喜爱小动物，某日她出游时发现念萝坝附近的林子里有一只可爱的小猴子，不过小猴子看起来有点消瘦，明显是饮食不佳，于是她每天都会做好吃的甜点想送给小猴子吃，但由于要务在身，抽不开身，希望有人帮她每天把她做的甜点送去喂给小猴子。
+context_21253=念萝坝弟子基本都擅于研制各类花粉之术，每种花粉都有不同的作用，研制过程需要一些花草的加入研磨才可，现在门派正缺这些花草。念萝坝弟子需每日帮助门派收集来提高自己的门派贡献。
+context_21254=大师姐得了一种奇怪的皮肤病，浑身疼痛，皮肤如灼烧一般，需每日涂抹小师妹精心研制的花粉才可消除疼痛感，但此花粉每天只能研制出一点点，因为所需研磨的奇花一天只开一朵。可每日帮大师姐把她采得的奇花送给酷爱炼制花粉的小师妹，并从小师妹处把研磨好的花粉带回来交给大师姐。
+context_21255=习武，不仅可以强身，也可以护身，念萝坝弟子需每日去找武艺高强的念萝坝弟子木慕穆切磋，来提升自己的武艺。木慕穆是念萝坝比较擅长精研武学之道的弟子，每日和她切磋，都会获得不一样的长进！
+context_21256=念萝坝周围山林环绕，常有野兽来袭，伤及不少外出游行弟子，为了减少这样的事件发生，念萝坝弟子需每日前去攻克四只野兽。
+context_21261=在金陵的大街上闲逛，却偶然听到几个官兵在窃窃私语，隐隐听得“后宫”“婢女”几字，前去打听打听他们在说什么
+context_21262=居然也有人在打探这件事的消息，却不知是什么人，继续跟踪下去打探清楚
+context_21263=一路跟随漂亮女子来到成都，却看到另外一个其丑无比的人与她吵了起来，前去一看究竟
+context_21264=跟着漂亮女子却没想到她和唐凤、唐解语打了起来，究竟所为何事？
+context_21265=水寒秋带你去见的人没想到却是楚大哥的女儿，另外水寒秋有事要你帮忙，先去金陵等候
+context_21266=正准备上车走，却是东厂番子追到了，与他们一战
+context_21268=山下有人要见姥姥唐凤，近期唐门风平浪静，难不成是姥姥过往的仇家找上门来？前去看看究竟是何人
+context_21269=按照姥姥的吩咐去金陵城救出念萝坝安插在皇宫的奸细
+context_21270=有了侍卫的衣服一切就顺利多了，快去找到婢女香玲、澜妃、年妃三人
+context_21271=找水若寒获得入门凭证，加入念萝坝
+context_21273=花蕊夫人暗中给了我一块令牌，令牌雕刻非常精致，看久了不禁有种让人深入其中不能自拔的诡异感觉。不知是何用意。
+context_21274=多亏花蕊夫人相救，不然还不知道要被这臭道士怎么样呢，想想还有些后怕。不知夫人所学是何绝学，前去请教。
+context_21275=根据花蕊夫人的指示前去金陵找到春丽娘，却不想已经被埋伏……
+context_21276=终于逃了出来，这些人是如何知道我们在这里的？难道一路上就在跟踪我了？恩……此处疑点重重。
+context_21277=春丽娘不慎被埋伏的人所伤，看上去有些严重，敌人随时会追来，要尽快帮她找到药材后离开这里！
+context_21278=春丽娘被恩人救下，却不知是何人所为，救命恩人一定要查清楚是谁！前去事发现场找找是否有线索。
+context_21279=终于赶到却是看见一位飘逸出尘的女子在和几个东厂番子打了起来。原来是念萝坝的尊主，他们以多欺少，我怎能看得下去！前去相助。
+context_21280=一睹了念萝坝尊主的功夫，可谓惊为天人，询问尊主如何加入念萝坝，愿为尊主效力。
+context_21281=一睹了念萝坝尊主的功夫，可谓惊为天人，询问尊主如何加入念萝坝，愿为尊主效力。
+context_21282=一睹了念萝坝尊主的功夫，可谓惊为天人，询问尊主如何加入念萝坝，愿为尊主效力。
+context_21292=有弟子回来禀报，说有本门派弟子在外面被人欺负，并且嘲讽我念萝坝实力太弱，尊主知道后很是生气，尊主一直告诫我们要团结一致，互帮互助，所以赶去帮忙，也为了门派的荣誉，狠狠教训这狂妄之徒。
+context_21293=本门派弟子在外面被人欺负，掌门一直告诫我们要团结一致，互帮互助，所以赶去帮忙。
+context_21294=本门派弟子在外面被人欺负，掌门一直告诫我们要团结一致，互帮互助，所以赶去帮忙。
+context_21295=本门派弟子在外面被人欺负，掌门一直告诫我们要团结一致，互帮互助，所以赶去帮忙。
+context_21296=本门派弟子在外面被人欺负，掌门一直告诫我们要团结一致，互帮互助，所以赶去帮忙。
+context_21297=本门派弟子在外面被人欺负，掌门一直告诫我们要团结一致，互帮互助，所以赶去帮忙。
+context_21298=本门派弟子在外面被人欺负，掌门一直告诫我们要团结一致，互帮互助，所以赶去帮忙。
+context_21299=如今江湖，一个门派要想立足于江湖，不得不需要和各大门派搞好关系，就算关系不是太好，也不能结仇，故此掌门不想与各大门派结仇，特要你帮忙送一份表示诚意的求和信给各大门派掌门，并带回各掌门的回信。
+context_21300=掌门不想与各大门派结仇，特要你帮忙送一份诚意信给各大门派掌门，并带回各掌门的回信。
+context_21301=掌门不想与各大门派结仇，特要你帮忙送一份诚意信给各大门派掌门，并带回各掌门的回信。
+context_21302=掌门不想与各大门派结仇，特要你帮忙送一份诚意信给各大门派掌门，并带回各掌门的回信。
+context_21303=掌门不想与各大门派结仇，特要你帮忙送一份诚意信给各大门派掌门，并带回各掌门的回信。
+context_21304=掌门不想与各大门派结仇，特要你帮忙送一份诚意信给各大门派掌门，并带回各掌门的回信。
+context_21305=掌门不想与各大门派结仇，特要你帮忙送一份诚意信给各大门派掌门，并带回各掌门的回信。
+context_21306=门派若想立足，必然需强大起来，强大固然需要兵强马壮，现在门派尚缺一些弟子。听说各大门派有一些被赶出或自己叛出的弟子，念萝坝管事想把这些人招揽进来，说不定以后会有什么用。
+context_21313=江湖之中，恶意中伤者多矣，意图挑起门派之间的战争，听外出游行归来的弟子说有部分谣言叛徒分子在各大门派里说念萝坝的各种坏话，意图挑起其它门派与念萝坝的战争，身为念萝坝弟子不能纵容这些人的为所欲为，得前去各大门派教训此等不怀好意之人。
+context_21314=听说有谣言分子在各大门派里说念萝坝的各种坏话，意图挑起门派之战，前去教训
+context_21315=听说有谣言分子在各大门派里说念萝坝的各种坏话，意图挑起门派之战，前去教训
+context_21316=听说有谣言分子在各大门派里说念萝坝的各种坏话，意图挑起门派之战，前去教训
+context_21317=听说有谣言分子在各大门派里说念萝坝的各种坏话，意图挑起门派之战，前去教训
+context_21318=听说有谣言分子在各大门派里说念萝坝的各种坏话，意图挑起门派之战，前去教训
+context_21319=听说有谣言分子在各大门派里说念萝坝的各种坏话，意图挑起门派之战，前去教训
+context_21320=天下奇毒，无奇不有，念萝坝弟子善于培养毒花，她们把一些药物捣烂混入泥土之中培养毒花，故此毒花之毒，奇特无比，根据放入的药物比例，能培养出不同特效的毒花。故此，需每日搜集各种药物搭配培养毒花。
+context_21321=天下是男人的又如何，在这念萝坝里还不是各个服服帖帖沦为魔奴，就算那些男人再傲气，到我等姐妹手里都只是那鼓掌之间的玩物。那如梦令的牢笼里也不知关押过多少臭男人，都不是好东西。该杀个干净，你去斩杀一个，试试你的胆量，就当做你的日常修行，免得日后行走江湖，少了提刀的勇气。
+context_21322=门派内每日都有行为鬼鬼祟祟之人游荡，本派内有弟子举报在某处常有不明之人出没，他们似乎在密谋着什么，为了防止不好的事情发生，尊主决定除之，宁可错杀一千，不可容忍本派受损。
+context_21323=念萝坝毒花，可制奇毒，此毒花，每开花之时取下，方可有奇效，但毒花开花都需一个引子--男子的精血，身为毒花的培育者，需每天为毒花寻得开花之引，才能制得天下奇毒！念萝坝有一神秘宝贝-储血管，拥有它即可吸取别人精血，还能使精血保鲜如初。
+context_21324=每周完成5个任务会有特别奖励。(周常任务可放弃，放弃后视为任务失败，无法再次承接本周周常任务)
+context_21330=小公主楚仙儿多日未见杭彩衣令主，甚是想念，你就带着她去香罗袖，杭令主一定也十分高兴。
+context_21331=近日有弟子来禀，江湖上小觑我念萝坝女子为尊，处处与我派为难，说我念萝坝不堪一击。念萝坝虽女子为尊，但巾帼不让须眉，岂容他人随意欺凌！尊主得知后甚为愤怒，特欲你前往援助，以长本门之威，狠狠教训这些狂妄之徒，让他们知道何谓巾帼须眉！
+context_21332=当下大势，一派若想立足于江湖之中，须众人集思广益，共同努力，门派才能得以兴盛。尊主特此修书，你去把此书带给本门各大令主，让大家出言献策，并带回给尊主。
+context_21333=这就是花会吗？好多蝴蝶啊，好漂亮啊！真想抓一只。好心的哥哥姐姐，谁帮捉一只吧。嗯·····谁帮妮妮捉蝴蝶，妮妮就亲他一下，好吗？
+context_21334=清水出芙蓉，天然去雕饰。我叫李蓉蓉，湖边的是我的姐姐李芙芙。姐姐总是我不让我出去玩，你去帮我向姐姐去来芙蓉令好吗？不过千万别说是我要的哦！
+context_21335=投壶源于射礼，始于秦。花会的投壶，却也不能使用普通的投矢。花会既然是花会，自然以花为投矢。给你几枝花箭，去试试吧.
+context_21336=念萝坝内的一些水坝上长有一种神奇的草药，能够制成特殊的药物，现派你去采集这些奇草来供本门派使用。
+context_21337=当下大势，一派若想立足于江湖之中，须众人集思广益，共同努力，门派才能得以兴盛。尊主特此修书，你去把此书带给本门各大令主，让大家出言献策，并带回给尊主。
+context_21338=当下大势，一派若想立足于江湖之中，须众人集思广益，共同努力，门派才能得以兴盛。尊主特此修书，你去把此书带给本门各大令主，让大家出言献策，并带回给尊主。
+context_21339=当下大势，一派若想立足于江湖之中，须众人集思广益，共同努力，门派才能得以兴盛。尊主特此修书，你去把此书带给本门各大令主，让大家出言献策，并带回给尊主。
+context_21340=当下大势，一派若想立足于江湖之中，须众人集思广益，共同努力，门派才能得以兴盛。尊主特此修书，你去把此书带给本门各大令主，让大家出言献策，并带回给尊主。
+context_21341=当下大势，一派若想立足于江湖之中，须众人集思广益，共同努力，门派才能得以兴盛。尊主特此修书，你去把此书带给本门各大令主，让大家出言献策，并带回给尊主。
+context_21342=每周完成5个任务会有特别奖励。(周常任务可放弃，放弃后视为任务失败，无法再次承接本周周常任务)
+context_21343=小公主楚仙儿多日未见弓媚妩令主，甚是想念，你就带着她去媚红妆，弓令主一定也十分高兴。
+context_21344=小公主楚仙儿多日未见柒绮梦令主，甚是想念，你就带着她去红尘劫，柒令主一定也十分高兴。
+context_21345=小公主楚仙儿多日未见轩辕天舞令主，甚是想念，你就带着她去天魔舞，轩辕令主一定也十分高兴。
+context_21346=小公主楚仙儿多日未见芷清幽令主，甚是想念，你就带着她去如梦令，芷令主一定也十分高兴。
+context_21347=小公主楚仙儿多日未见宫碧若令主，甚是想念，你就带着她去胭脂谷，宫令主一定也十分高兴。
+context_21348=每周完成5个任务会有特别奖励。(周常任务可放弃，放弃后视为任务失败，无法再次承接本周周常任务)
+context_21349=近日有弟子来禀，江湖上小觑我念萝坝女子为尊，处处与我派为难，说我念萝坝不堪一击。念萝坝虽女子为尊，但巾帼不让须眉，岂容他人随意欺凌！尊主得知后甚为愤怒，特欲你前往援助，以长本门之威，狠狠教训这些狂妄之徒，让他们知道何谓巾帼须眉！
+context_21350=既然前来花会怎能不学几只舞傍身！花会中隐藏着众多舞林高手，向诸位高手请教以验证自身的舞技！
+context_21351=念萝坝以舞技为武学之根基，众弟子每日皆需修行舞技。请寻找指导舞技的前辈修习舞技！
+context_21352=传闻在念萝坝花会中藏着一位如花般的女子。但是要见到她却不是一件容易的事，需要大家齐心协力采集大量的鲜花并将鲜花制作成花酿，才有机会一睹芳容！
+context_21353=隐世门派再现江湖，虽然此时还维持着平静。却像暴风雨的前夕，短暂且风云莫测。而念萝坝花会却给江湖带来了不一样的生气，或载歌载舞或一醉方休。这里就像是桃源，江湖中人无不流连于此。
+context_21354=念萝花会是一个充满欢乐的地方，但是免不了别有用心之人混入其中伺机做点什么。处理这些小喽喽不过举手之劳，便当做是日常的消遣。
+context_21355=提升舞技与提高武学相同，最快捷的方式便是与人切磋。在合适的场地开启舞技对垒擂台与其他师兄弟切磋是个不错的选择。
+context_21356=隐世门派再现江湖，虽然此时还维持着平静。却像暴风雨的前夕，短暂且风云莫测。而念萝坝花会却给江湖带来了不一样的生气，或载歌载舞或一醉方休。这里就像是桃源，江湖中人无不流连于此。
+context_21360=近日有弟子来禀，江湖上小觑我念萝坝女子为尊，处处与我派为难，说我念萝坝不堪一击。念萝坝虽女子为尊，但巾帼不让须眉，岂容他人随意欺凌！尊主得知后甚为愤怒，特欲你前往援助，以长本门之威，狠狠教训这些狂妄之徒，让他们知道何谓巾帼须眉！
+context_21361=近日有弟子来禀，江湖上小觑我念萝坝女子为尊，处处与我派为难，说我念萝坝不堪一击。念萝坝虽女子为尊，但巾帼不让须眉，岂容他人随意欺凌！尊主得知后甚为愤怒，特欲你前往援助，以长本门之威，狠狠教训这些狂妄之徒，让他们知道何谓巾帼须眉！
+context_21362=近日有弟子来禀，江湖上小觑我念萝坝女子为尊，处处与我派为难，说我念萝坝不堪一击。念萝坝虽女子为尊，但巾帼不让须眉，岂容他人随意欺凌！尊主得知后甚为愤怒，特欲你前往援助，以长本门之威，狠狠教训这些狂妄之徒，让他们知道何谓巾帼须眉！
+context_21363=近日有弟子来禀，江湖上小觑我念萝坝女子为尊，处处与我派为难，说我念萝坝不堪一击。念萝坝虽女子为尊，但巾帼不让须眉，岂容他人随意欺凌！尊主得知后甚为愤怒，特欲你前往援助，以长本门之威，狠狠教训这些狂妄之徒，让他们知道何谓巾帼须眉！
+context_21364=每周完成5个任务会有特别奖励。(周常任务可放弃，放弃后视为任务失败，无法再次承接本周周常任务)
+context_21365=念萝坝内的一些水坝上长有一种神奇的草药，能够制成特殊的药物，现派你去采集这些奇草来供本门派使用。
+context_21366=念萝坝内的一些水坝上长有一种神奇的草药，能够制成特殊的药物，现派你去采集这些奇草来供本门派使用。
+context_21367=念萝坝内的一些水坝上长有一种神奇的草药，能够制成特殊的药物，现派你去采集这些奇草来供本门派使用。
+context_21368=念萝坝内的一些水坝上长有一种神奇的草药，能够制成特殊的药物，现派你去采集这些奇草来供本门派使用。
+context_21369=念萝坝内的一些水坝上长有一种神奇的草药，能够制成特殊的药物，现派你去采集这些奇草来供本门派使用。
+context_21370=无字玉璧乃是神秘之地，传说无字玉璧乃是历代尊主潜心修炼之地，可见其力量不可小觑，询问师姐若无情如何才能进行修炼
+context_21371=前辈派你去找你只猴子
+context_21372=每周完成5个任务会有特别奖励。(周常任务可放弃，放弃后视为任务失败，无法再次承接本周周常任务)
+menu_21201_1=<font face="Default" color="#ffffff" >好的。</font>
+menu_21222_1=<font face="Default" color="#ffffff" >额，额。</font>
+menu_21228_1=<font face="Default" color="#ffffff" >承接任务</font>
+menu_21231_1=<font face="Default" color="#ffffff" >好的。</font>
+menu_21232_1=<font face="Default" color="#ffffff" >哦，原来如此。</font>
+menu_21251_1=<font face="Default" color="#ffffff" >（伸个懒腰，</font><font face="Default" color="#ffffff" >扭扭</font><font face="Default" color="#ffffff" >脖子~）嗯，我也正有此意，我这就去！</font>
+menu_21252_1=<font face="Default" color="#ffffff" >噢，我看到她了，好像她是很急的样子，我这就去问问！</font>
+menu_21253_1=<font face="Default" color="#ffffff" >这能帮助本派的事，我当然非常乐意效劳！我这就去！</font>
+menu_21254_1=<font face="Default" color="#ffffff" >这是什么怪病啊这么严重</font><font face="Default" color="#ffffff" >，我这就去找大师姐看看！</font>
+menu_21255_1=<font face="Default" color="#ffffff" >我一直想突破自身的武学，苦于没有找到突破点，或许是我领悟还不够，我去找她看看，说不定能有什么帮助。</font>
+menu_21256_1=<font face="Default" color="#ffffff" >为了大家的安全，就算再危险，我也当义不容辞！</font>
+menu_21261_1=<font face="Default" color="#ffffff" >大哥别激动，我没别的意思，一看你们就是见多识广的人，我初来乍到，想知道最近有什么大事吗？也好让我开开眼界。</font>
+menu_21268_1=<font face="Default" color="#ffffff" >来我唐门</font><font face="Default" color="#ffffff" >所为何事？</font>
+menu_21273_1=<font face="Default" color="#ffffff" >那我收下了，多谢花蕊夫人。（这……先拿着吧，说不定哪天会用到）</font>
+menu_21292_1=<font face="Default" color="#ffffff" >竟有这种事，</font><font face="Default" color="#ffffff" >是可忍，孰不可忍</font><font face="Default" color="#ffffff" >我这就去！</font>
+menu_21293_1=<font face="Default" color="#ffffff" >竟有这种事，</font><font face="Default" color="#ffffff" >是可忍，孰不可忍</font><font face="Default" color="#ffffff" >我这就去！</font>
+menu_21294_1=<font face="Default" color="#ffffff" >竟有这种事，</font><font face="Default" color="#ffffff" >是可忍，孰不可忍</font><font face="Default" color="#ffffff" >我这就去！</font>
+menu_21295_1=<font face="Default" color="#ffffff" >竟有这种事，</font><font face="Default" color="#ffffff" >是可忍，孰不可忍</font><font face="Default" color="#ffffff" >我这就去！</font>
+menu_21296_1=<font face="Default" color="#ffffff" >竟有这种事，</font><font face="Default" color="#ffffff" >是可忍，孰不可忍</font><font face="Default" color="#ffffff" >我这就去！</font>
+menu_21297_1=<font face="Default" color="#ffffff" >竟有这种事，</font><font face="Default" color="#ffffff" >是可忍，孰不可忍</font><font face="Default" color="#ffffff" >我这就去！</font>
+menu_21298_1=<font face="Default" color="#ffffff" >竟有这种事，</font><font face="Default" color="#ffffff" >是可忍，孰不可忍</font><font face="Default" color="#ffffff" >我这就去！</font>
+menu_21299_1=<font face="Default" color="#ffffff" >我也觉得和其它门派搞好关系很重要，这种事我很乐意效劳！</font>
+menu_21300_1=<font face="Default" color="#ffffff" >我也觉得和其它门派搞好关系很重要，这种事我很乐意效劳！</font>
+menu_21301_1=<font face="Default" color="#ffffff" >我也觉得和其它门派搞好关系很重要，这种事我很乐意效劳！</font>
+menu_21302_1=<font face="Default" color="#ffffff" >我也觉得和其它门派搞好关系很重要，这种事我很乐意效劳！</font>
+menu_21303_1=<font face="Default" color="#ffffff" >我也觉得和其它门派搞好关系很重要，这种事我很乐意效劳！</font>
+menu_21304_1=<font face="Default" color="#ffffff" >我也觉得和其它门派搞好关系很重要，这种事我很乐意效劳！</font>
+menu_21305_1=<font face="Default" color="#ffffff" >我也觉得和其它门派搞好关系很重要，这种事我很乐意效劳！</font>
+menu_21306_1=<font face="Default" color="#ffffff" >尊主有事，我当义不容辞，我这就去找她去！</font>
+menu_21307_1=<font face="Default" color="#ffffff" >尊主有事，我当义不容辞，我这就去找她去！</font>
+menu_21308_1=<font face="Default" color="#ffffff" >尊主有事，我当义不容辞，我这就去找她去！</font>
+menu_21309_1=<font face="Default" color="#ffffff" >尊主有事，我当义不容辞，我这就去找她去！</font>
+menu_21310_1=<font face="Default" color="#ffffff" >尊主有事，我当义不容辞，我这就去找她去！</font>
+menu_21311_1=<font face="Default" color="#ffffff" >尊主有事，我当义不容辞，我这就去找她去！</font>
+menu_21312_1=<font face="Default" color="#ffffff" >尊主有事，我当义不容辞，我这就去找她去！</font>
+menu_21313_1=<font face="Default" color="#ffffff" >这种人实在可恶，我辈不能容忍，我这就去教训之。</font>
+menu_21314_1=<font face="Default" color="#ffffff" >这种人实在可恶，我辈不能容忍，我这就去教训之。</font>
+menu_21315_1=<font face="Default" color="#ffffff" >这种人实在可恶，我辈不能容忍，我这就去教训之。</font>
+menu_21316_1=<font face="Default" color="#ffffff" >这种人实在可恶，我辈不能容忍，我这就去教训之。</font>
+menu_21317_1=<font face="Default" color="#ffffff" >这种人实在可恶，我辈不能容忍，我这就去教训之。</font>
+menu_21318_1=<font face="Default" color="#ffffff" >这种人实在可恶，我辈不能容忍，我这就去教训之。</font>
+menu_21319_1=<font face="Default" color="#ffffff" >这种人实在可恶，我辈不能容忍，我这就去教训之。</font>
+menu_21320_1=<font face="Default" color="#ffffff" >想不到这毒花培养起来也是挺煞费苦心啊，</font><font face="Default" color="#ffffff" >还请速速告知需要什么材料，以便我这就去弄来！</font>
+menu_21321_1=<font face="Default" color="#ffffff" >我这就前去如梦令，请教斐姬师姐。</font>
+menu_21322_1=<font face="Default" color="#ffffff" >竟有此事，我这就去查看一番！</font>
+menu_21323_1=<font face="Default" color="#ffffff" >我坝竟然还有如此神秘东西，</font><font face="Default" color="#ffffff" >听起来很玄乎的样子，但是我相信你说的话，我这就去看看有没有什么机会能搞到精血！</font>
+menu_21324_1=<font face="Default" color="#ffffff" >感谢师姐看重，我一定义不容辞！</font>
+menu_21330_1=<font face="Default" color="#ffffff" >得令</font>
+menu_21331_1=<font face="Default" color="#ffffff" >竟有这种事，是可忍，孰不可忍我这就去！</font>
+menu_21332_1=<font face="Default" color="#ffffff" >尊主想法甚妥，我这就去！</font>
+menu_21333_1=<font face="Default" color="#ffffff" >好啊，那就帮你捉几只蝴蝶吧。</font>
+menu_21334_1=<font face="Default" color="#ffffff" >嗯···我去试试吧。</font>
+menu_21335_1=<font face="Default" color="#ffffff" >试试就试试，看我的！</font>
+menu_21336_1=<font face="Default" color="#ffffff" >好嘞！</font>
+menu_21337_1=<font face="Default" color="#ffffff" >尊主想法甚妥，我这就去！</font>
+menu_21338_1=<font face="Default" color="#ffffff" >尊主想法甚妥，我这就去！</font>
+menu_21339_1=<font face="Default" color="#ffffff" >尊主想法甚妥，我这就去！</font>
+menu_21340_1=<font face="Default" color="#ffffff" >尊主想法甚妥，我这就去！</font>
+menu_21341_1=<font face="Default" color="#ffffff" >尊主想法甚妥，我这就去！</font>
+menu_21342_1=<font face="Default" color="#ffffff" >感谢师姐看重，我一定义不容辞！</font>
+menu_21343_1=<font face="Default" color="#ffffff" >得令</font>
+menu_21344_1=<font face="Default" color="#ffffff" >得令</font>
+menu_21345_1=<font face="Default" color="#ffffff" >得令</font>
+menu_21346_1=<font face="Default" color="#ffffff" >得令</font>
+menu_21347_1=<font face="Default" color="#ffffff" >得令</font>
+menu_21348_1=<font face="Default" color="#ffffff" >感谢师姐看重，我一定义不容辞！</font>
+menu_21349_1=<font face="Default" color="#ffffff" >竟有这种事，是可忍，孰不可忍我这就去！</font>
+menu_21350_1=<font face="Default" color="#ffffff" >不敢不敢！</font>
+menu_21351_1=<font face="Default" color="#ffffff" >弟子自会证明给前辈看。</font>
+menu_21352_1=<font face="Default" color="#ffffff" >原来如此？！那还等什么？！</font>
+menu_21353_1=<font face="Default" color="#ffffff" >请！</font>
+menu_21354_1=<font face="Default" color="#ffffff" >阁下请放心，这些事就交给我吧！</font>
+menu_21354_2=
+menu_21355_1=<font face="Default" color="#ffffff" >谢师姐！</font>
+menu_21360_1=<font face="Default" color="#ffffff" >竟有这种事，是可忍，孰不可忍我这就去！</font>
+menu_21361_1=<font face="Default" color="#ffffff" >竟有这种事，是可忍，孰不可忍我这就去！</font>
+menu_21362_1=<font face="Default" color="#ffffff" >竟有这种事，是可忍，孰不可忍我这就去！</font>
+menu_21363_1=<font face="Default" color="#ffffff" >竟有这种事，是可忍，孰不可忍我这就去！</font>
+menu_21364_1=<font face="Default" color="#ffffff" >感谢师姐看重，我一定义不容辞！</font>
+menu_21365_1=<font face="Default" color="#ffffff" >好嘞！</font>
+menu_21366_1=<font face="Default" color="#ffffff" >好嘞！</font>
+menu_21367_1=<font face="Default" color="#ffffff" >好嘞！</font>
+menu_21368_1=<font face="Default" color="#ffffff" >好嘞！</font>
+menu_21369_1=<font face="Default" color="#ffffff" >好嘞！</font>
+menu_21370_1=<font face="Default" color="#ffffff" >我前来进行修炼。</font>
+menu_21371_1=<font face="Default" color="#ffffff" >好的</font>
+menu_21372_1=<font face="Default" color="#ffffff" >感谢师姐看重，我一定义不容辞！</font>
+next_21222=与<a href="findnpc_new,city05,npc_nlb_cc_014" style="HLStype1">杭令主</a>对话
+next_21232=提交任务：<a href="findnpc_new,school15,npc_nlb_shop_lzj05" style="HLStype1">柳无悔</a>
+next_21235=与<a href="findnpc_new,school15,npc_nlb_001" style="HLStype1">水寒秋</a>交谈
+next_21271=<a href="findnpc_new,school05,npc_nlb_ww05" style="HLStype1">寒若水</a>
+next_21280=<a href="findnpc_new,city03,npc_nlb_ww03" style="HLStype1">念慕慈</a>
+next_21281=<a href="findnpc_new,city03,npc_nlb_ww16" style="HLStype1">海桃</a>
+next_21282=<a href="findnpc_new,city03,npc_nlb_ww03" style="HLStype1">念慕慈</a>
+next_21331=<a href="findnpc_new,school15,npc_nlb_ww57" style="HLStype1">一飘零</a>
+next_21332=next_21299
+next_21368=
+next_21370=<a href="findnpc_new,school15,npc_nlb_mxm40" style="HLStype1">若无情</a>
+next_21371=一只猴子
+submit_21208=<font face="Default" color="#ffffff" >好的，多谢</font><font face="Default" color="#ffffff" >令主照顾。</font>
+submit_21216=<font face="Default" color="#ffffff" >好的。</font>
+submit_21227=<font face="Default" color="#ffffff" >……</font>
+submit_21228=<font face="Default" color="#ffffff" >是</font>
+submit_21231=<font face="Default" color="#ffffff" >完成任务。</font>
+submit_21232=<font face="Default" color="#ffffff" >是的，弟子明白了。</font>
+submit_21235=<font face="Default" color="#ffffff" >……</font>
+submit_21251=<font face="Default" color="#ffffff" >请冷师姐放心，我</font><font face="Default" color="#ffffff" >一定会的！</font>
+submit_21252=<font face="Default" color="#ffffff" >嗯，</font><font face="Default" color="#ffffff" >无所谓是否有好报，这也是我自己愿意做的事！</font>
+submit_21253=<font face="Default" color="#ffffff" >小事一桩，以后还有这样的事都可以叫我去做，我一定随叫随到！</font>
+submit_21254=<font face="Default" color="#ffffff" >你客气了，以后还有类似的事情都可以交给我去做，我非常乐意效劳！</font>
+submit_21255=<font face="Default" color="#ffffff" >是的！我以后每天都会去找她切磋，希望有朝一日我也能像她那样武艺高强！</font>
+submit_21256=<font face="Default" color="#ffffff" >放心，我会时常过去看看，一旦发现，就立马杀掉这些野兽！</font>
+submit_21266=<font face="Default" color="#ffffff" >多谢。</font>
+submit_21271=<font face="Default" color="#ffffff" >多谢。</font>
+submit_21280=<font face="Default" color="#ffffff" >多谢。</font>
+submit_21281=<font face="Default" color="#ffffff" >多谢。</font>
+submit_21282=<font face="Default" color="#ffffff" >多谢。</font>
+submit_21292=<font face="Default" color="#ffffff" >既然一师姐这么看重我，我当义不容辞！</font>
+submit_21293=<font face="Default" color="#ffffff" >既然一师姐这么看重我，我当义不容辞！</font>
+submit_21294=<font face="Default" color="#ffffff" >既然一师姐这么看重我，我当义不容辞！</font>
+submit_21295=<font face="Default" color="#ffffff" >既然一师姐这么看重我，我当义不容辞！</font>
+submit_21296=<font face="Default" color="#ffffff" >既然一师姐这么看重我，我当义不容辞！</font>
+submit_21297=<font face="Default" color="#ffffff" >既然一师姐这么看重我，我当义不容辞！</font>
+submit_21298=<font face="Default" color="#ffffff" >既然一师姐这么看重我，我当义不容辞！</font>
+submit_21299=<font face="Default" color="#ffffff" >这是我应该做的，日后还有此事，都可以交给我去做！</font>
+submit_21300=<font face="Default" color="#ffffff" >这是我应该做的，日后还有此事，都可以交给我去做！</font>
+submit_21301=<font face="Default" color="#ffffff" >这是我应该做的，日后还有此事，都可以交给我去做！</font>
+submit_21302=<font face="Default" color="#ffffff" >这是我应该做的，日后还有此事，都可以交给我去做！</font>
+submit_21303=<font face="Default" color="#ffffff" >这是我应该做的，日后还有此事，都可以交给我去做！</font>
+submit_21304=<font face="Default" color="#ffffff" >这是我应该做的，日后还有此事，都可以交给我去做！</font>
+submit_21305=<font face="Default" color="#ffffff" >这是我应该做的，日后还有此事，都可以交给我去做！</font>
+submit_21306=<font face="Default" color="#ffffff" >我也希望看到念萝坝壮大的那天，为此，我愿意帮忙做任何事！以后有事尽管吩咐！</font>
+submit_21307=<font face="Default" color="#ffffff" >我也希望看到念萝坝壮大的那天，为此，我愿意帮忙做任何事！以后有事尽管吩咐！</font>
+submit_21308=<font face="Default" color="#ffffff" >我也希望看到念萝坝壮大的那天，为此，我愿意帮忙做任何事！以后有事尽管吩咐！</font>
+submit_21309=<font face="Default" color="#ffffff" >我也希望看到念萝坝壮大的那天，为此，我愿意帮忙做任何事！以后有事尽管吩咐！</font>
+submit_21310=<font face="Default" color="#ffffff" >我也希望看到念萝坝壮大的那天，为此，我愿意帮忙做任何事！以后有事尽管吩咐！</font>
+submit_21311=<font face="Default" color="#ffffff" >我也希望看到念萝坝壮大的那天，为此，我愿意帮忙做任何事！以后有事尽管吩咐！</font>
+submit_21312=<font face="Default" color="#ffffff" >我也希望看到念萝坝壮大的那天，为此，我愿意帮忙做任何事！以后有事尽管吩咐！</font>
+submit_21313=<font face="Default" color="#ffffff" >请一师姐放心，我不会让这些人得逞的，整个江湖的人也不会允许的！</font>
+submit_21314=<font face="Default" color="#ffffff" >请一师姐放心，我不会让这些人得逞的，整个江湖的人也不会允许的！</font>
+submit_21315=<font face="Default" color="#ffffff" >请一师姐放心，我不会让这些人得逞的，整个江湖的人也不会允许的！</font>
+submit_21316=<font face="Default" color="#ffffff" >请一师姐放心，我不会让这些人得逞的，整个江湖的人也不会允许的！</font>
+submit_21317=<font face="Default" color="#ffffff" >请一师姐放心，我不会让这些人得逞的，整个江湖的人也不会允许的！</font>
+submit_21318=<font face="Default" color="#ffffff" >请一师姐放心，我不会让这些人得逞的，整个江湖的人也不会允许的！</font>
+submit_21319=<font face="Default" color="#ffffff" >请一师姐放心，我不会让这些人得逞的，整个江湖的人也不会允许的！</font>
+submit_21320=<font face="Default" color="#ffffff" >不辛苦不辛苦，付出有所回报就值得！</font>
+submit_21321=<font face="Default" color="#ffffff" >谨遵师姐教诲，我一定记住！</font>
+submit_21322=<font face="Default" color="#ffffff" >夸奖，夸奖！维护门派，当是我派弟子义不容辞之事！</font>
+submit_21323=<font face="Default" color="#ffffff" >多谢！</font><font face="Default" color="#ffffff" >我会的，以后我每天都来，请你放心！</font>
+submit_21324=<font face="Default" color="#ffffff" >谨遵师姐教诲，我会努力完成每一件安排给我的事情！</font>
+submit_21330=<font face="Default" color="#ffffff" >谢师姐夸奖</font>
+submit_21331=<font face="Default" color="#ffffff" >既然一师姐这么看重我，我当义不容辞！</font>
+submit_21332=<font face="Default" color="#ffffff" >多谢师姐！日后若有需要，弟子随时待命。</font>
+submit_21333=<font face="Default" color="#ffffff" >小妮妮，真可爱。</font>
+submit_21334=<font face="Default" color="#ffffff" >给你吧，不过出去玩要小心哦！</font>
+submit_21335=<font face="Default" color="#ffffff" >你······</font>
+submit_21336=<font face="Default" color="#ffffff" >采回来了</font><font face="Default" color="#ffffff" >。</font>
+submit_21337=<font face="Default" color="#ffffff" >多谢师姐！日后若有需要，弟子随时待命。</font>
+submit_21338=<font face="Default" color="#ffffff" >多谢师姐！日后若有需要，弟子随时待命。</font>
+submit_21339=<font face="Default" color="#ffffff" >多谢师姐！日后若有需要，弟子随时待命。</font>
+submit_21340=<font face="Default" color="#ffffff" >多谢师姐！日后若有需要，弟子随时待命。</font>
+submit_21341=<font face="Default" color="#ffffff" >多谢师姐！日后若有需要，弟子随时待命。</font>
+submit_21342=<font face="Default" color="#ffffff" >谨遵师姐教诲，我会努力完成每一件安排给我的事情！</font>
+submit_21343=<font face="Default" color="#ffffff" >谢师姐夸奖</font>
+submit_21344=<font face="Default" color="#ffffff" >谢师姐夸奖</font>
+submit_21345=<font face="Default" color="#ffffff" >谢师姐夸奖</font>
+submit_21346=<font face="Default" color="#ffffff" >谢师姐夸奖</font>
+submit_21347=<font face="Default" color="#ffffff" >谢师姐夸奖</font>
+submit_21348=<font face="Default" color="#ffffff" >谨遵师姐教诲，我会努力完成每一件安排给我的事情！</font>
+submit_21349=<font face="Default" color="#ffffff" >既然一师姐这么看重我，我当义不容辞！</font>
+submit_21350=<font face="Default" color="#ffffff" >谢前辈！</font>
+submit_21351=<font face="Default" color="#ffffff" >前辈过奖！</font>
+submit_21352=<font face="Default" color="#ffffff" >如花般的女子，嘿嘿</font>
+submit_21353=<font face="Default" color="#ffffff" >多谢！</font>
+submit_21354=<font face="Default" color="#ffffff" >客气，客气。</font>
+submit_21356=<font face="Default" color="#ffffff" >多谢！</font>
+submit_21360=<font face="Default" color="#ffffff" >既然一师姐这么看重我，我当义不容辞！</font>
+submit_21361=<font face="Default" color="#ffffff" >既然一师姐这么看重我，我当义不容辞！</font>
+submit_21362=<font face="Default" color="#ffffff" >既然一师姐这么看重我，我当义不容辞！</font>
+submit_21363=<font face="Default" color="#ffffff" >既然一师姐这么看重我，我当义不容辞！</font>
+submit_21364=<font face="Default" color="#ffffff" >谨遵师姐教诲，我会努力完成每一件安排给我的事情！</font>
+submit_21365=<font face="Default" color="#ffffff" >采回来了。</font>
+submit_21366=<font face="Default" color="#ffffff" >采回来了。</font>
+submit_21367=<font face="Default" color="#ffffff" >采回来了。</font>
+submit_21368=<font face="Default" color="#ffffff" >采回来了。</font>
+submit_21369=<font face="Default" color="#ffffff" >采回来了。</font>
+submit_21370=<font face="Default" color="#ffffff" >在下受益匪浅。</font>
+submit_21371=<font face="Default" color="#ffffff" >找到了</font>
+submit_21372=<font face="Default" color="#ffffff" >谨遵师姐教诲，我会努力完成每一件安排给我的事情！</font>
+target_21201=在念萝坝内四处走走
+target_21202=拜访两位令主
+target_21203=继续了解各位令主的风采
+target_21204=询问尊主有没有什么事情
+target_21205=返回念萝坝
+target_21206=制作心魔秘毒
+target_21207=前往花会
+target_21208=帮小公主采来瀑布后的花
+target_21211=前往成都寻找花蕊夫人
+target_21212=伺候朱公子
+target_21213=联系达官显贵
+target_21214=收集念萝坝的奇花
+target_21215=收服魔奴
+target_21216=进入花会
+target_21221=陪伴香罗令主
+target_21222=陪香罗令主游逛成都城
+target_21223=调查曹元淮
+target_21224=援救香罗令主
+target_21225=追查曹元淮
+target_21226=赶往风荷绣阁
+target_21227=返回<a href="findnpc_new,school15,npc_nlb_001" style="HLStype1">念萝坝</a>
+target_21228=了解提升自己的方法
+target_21231=找<a href="findnpc_new,school15,npc_nlb_ww06" style="HLStype1">卿笺若</a>，叛出念萝坝
+target_21232=听<a href="findnpc_new,school15,npc_nlb_shop_lzj05" style="HLStype1">柳无悔</a>讲述门派渊源
+target_21235=进入念萝坝
+target_21251=去找<a href="findnpc_new,school15,npc_nlb_ww17" style="HLStype1">妲琥碧</a>，向她讨教花粉提炼之术。
+target_21252=帮助本派的包打听把她做的甜点送去林子里喂给小猴子吃。
+target_21253=收集5朵断肠花和5朵苦情花。
+target_21254=帮助大师姐给小师妹送花，并给大师姐拿回花粉。
+target_21255=为了提升自我的武艺，去找武艺高强的<a href="findnpc_new,school15,npc_nlb_ww53" style="HLStype1">木慕穆</a>切磋。
+target_21256=前往念萝坝（1550，1165）附近攻克4头野兽。
+target_21261=看看那几个官兵在聊什么
+target_21262=解开谜团
+target_21263=帮助漂亮女子打败罗星星
+target_21264=查看漂亮女子与唐门的关系
+target_21265=完成水寒秋交代的任务
+target_21266=杀死东厂番子
+target_21268=到山下看看是何人
+target_21269=救出念萝坝弟子
+target_21270=按照唐解语说的救出婢女香玲、澜妃、年妃三人
+target_21271=加入念萝坝
+target_21273=
+target_21274=感谢夫人救命之恩
+target_21275=协助春丽娘逃出所在地。
+target_21276=好不容易逃了出来，询问春丽娘是否受伤。
+target_21277=合成药材
+target_21278=寻找线索
+target_21279=攻克东厂番子。
+target_21280=加入念萝坝
+target_21281=加入念萝坝
+target_21282=加入念萝坝
+target_21292=帮助受欺负弟子，教训欺负之人。
+target_21293=帮助受欺负弟子，教训欺负之人。
+target_21294=帮助受欺负弟子，教训欺负之人。
+target_21295=帮助受欺负弟子，教训欺负之人。
+target_21296=帮助受欺负弟子，教训欺负之人。
+target_21297=帮助受欺负弟子，教训欺负之人。
+target_21298=帮助受欺负弟子，教训欺负之人。
+target_21299=去给别的门派掌门送信
+target_21300=去给别的门派掌门送信
+target_21301=去给别的门派掌门送信
+target_21302=去给别的门派掌门送信
+target_21303=去给别的门派掌门送信
+target_21304=去给别的门派掌门送信
+target_21305=去给别的门派掌门送信
+target_21306=将尊主给的邀请函送给其他门派的离开之人。
+target_21307=将尊主给的邀请函送给其他门派的离开之人。
+target_21308=将尊主给的邀请函送给其他门派的离开之人。
+target_21309=将尊主给的邀请函送给其他门派的离开之人。
+target_21310=将尊主给的邀请函送给其他门派的离开之人。
+target_21311=将尊主给的邀请函送给其他门派的离开之人。
+target_21312=将尊主给的邀请函送给其他门派的离开之人。
+target_21313=教训造谣中伤本门之<a href="findnpc_new,school02,npc_nlb_ww43" style="HLStype1">念萝坝叛徒</a>。
+target_21314=攻克造谣中伤本门之人。
+target_21315=攻克造谣中伤本门之人。
+target_21316=攻克造谣中伤本门之人。
+target_21317=攻克造谣中伤本门之人。
+target_21318=攻克造谣中伤本门之人。
+target_21319=攻克造谣中伤本门之人。
+target_21320=收集齐各种药物。
+target_21321=挑战男奴并取得成功！
+target_21322=完成门派巡逻，攻克可疑不明之人。
+target_21323=收集精血。
+target_21324=帮助师门完成任务
+target_21330=带着楚仙儿去香罗袖见杭彩衣
+target_21331=帮助受欺负弟子，教训欺负之人。
+target_21332=去给念萝坝令主送信
+target_21333=帮助可爱的妮妮抓住蝴蝶
+target_21334=向李芙芙取来芙蓉令
+target_21335=使用花箭投中壶
+target_21336=采集念萝坝水坝上的奇草
+target_21337=去给念萝坝令主送信
+target_21338=去给念萝坝令主送信
+target_21339=去给念萝坝令主送信
+target_21340=去给念萝坝令主送信
+target_21341=去给念萝坝令主送信
+target_21342=帮助师门完成任务
+target_21343=带着楚仙儿去媚红妆见弓媚妩
+target_21344=带着楚仙儿去红尘劫见柒绮梦
+target_21345=带着楚仙儿去天魔舞见轩辕天舞
+target_21346=带着楚仙儿去如梦令见芷清幽
+target_21347=带着楚仙儿去胭脂谷见宫碧若
+target_21348=帮助师门完成任务
+target_21349=帮助受欺负弟子，教训欺负之人。
+target_21350=寻找花会中的舞林高手以验证自身的舞技
+target_21351=找到指导舞技的前辈修习舞技
+target_21352=采集鲜花并将鲜花制作成花酿
+target_21353=参与念萝花会中的众多活动
+target_21354=帮助维持念萝花会的秩序
+target_21355=开启舞斗擂台与其他师兄弟切磋
+target_21356=参与念萝花会中的众多活动
+target_21360=帮助受欺负弟子，教训欺负之人。
+target_21361=帮助受欺负弟子，教训欺负之人。
+target_21362=帮助受欺负弟子，教训欺负之人。
+target_21363=帮助受欺负弟子，教训欺负之人。
+target_21364=帮助师门完成任务
+target_21365=采集奇草
+target_21366=采集奇草
+target_21367=采集念萝坝水坝上的奇草
+target_21368=采集念萝坝水坝上的奇草
+target_21369=采集念萝坝水坝上的奇草
+target_21370=完成修炼
+target_21371=去找<a href="findnpc_new,school15,npc_nlb_ww64" style="HLStype1">小猴子</a>
+target_21372=帮助师门完成任务
+task_menu_accept_21273=
+title_21201=初入念萝坝
+title_21202=如梦、魅红令主
+title_21203=香罗、胭脂、红尘令主
+title_21204=回禀尊主
+title_21205=返回念萝坝
+title_21206=心魔秘毒
+title_21207=小公主的兔子
+title_21208=七色迷宫后的花
+title_21211=花蕊夫人
+title_21212=朱公子
+title_21213=达官显贵
+title_21214=念萝奇花
+title_21215=收服魔奴
+title_21216=花会
+title_21221=返回念萝坝
+title_21222=游逛成都城
+title_21223=调查曹元淮
+title_21224=惊生突变
+title_21225=追查曹元淮
+title_21226=风荷绣阁
+title_21227=尘埃落定
+title_21228=提升自己
+title_21231=叛师引导
+title_21232=门派渊源
+title_21235=念萝坝弟子
+title_21251=提炼花粉
+title_21252=喂食
+title_21253=收集花草
+title_21254=送花取粉
+title_21255=武学锻炼
+title_21256=抵御野兽
+title_21261=念萝坝浮出水面
+title_21262=情报的秘密
+title_21263=漂亮女子
+title_21264=漂亮女子的身份
+title_21265=楚仙儿
+title_21266=东厂的追击
+title_21268=念萝坝初现
+title_21269=解救念萝坝弟子
+title_21270=紧急救援
+title_21271=加入念萝坝
+title_21273=花会令牌
+title_21274=救命之恩
+title_21275=危急时刻
+title_21276=险象环生
+title_21277=疗伤
+title_21278=寻找线索
+title_21279=协助尊主
+title_21280=加入念萝坝
+title_21281=加入念萝坝
+title_21282=加入念萝坝
+title_21292=江湖救急
+title_21293=江湖救急
+title_21294=江湖救急
+title_21295=江湖救急
+title_21296=江湖救急
+title_21297=江湖救急
+title_21298=江湖救急
+title_21299=千里送信
+title_21300=千里送信
+title_21301=千里送信
+title_21302=千里送信
+title_21303=千里送信
+title_21304=千里送信
+title_21305=千里送信
+title_21306=强兵壮马
+title_21307=强兵壮马
+title_21308=强兵壮马
+title_21309=强兵壮马
+title_21310=强兵壮马
+title_21311=强兵壮马
+title_21312=强兵壮马
+title_21313=平息谣言
+title_21314=平息谣言
+title_21315=平息谣言
+title_21316=平息谣言
+title_21317=平息谣言
+title_21318=平息谣言
+title_21319=平息谣言
+title_21320=天下奇毒
+title_21321=囚笼斗奴
+title_21322=不明之人
+title_21323=精血为引
+title_21324=念萝坝周常
+title_21330=护送公主
+title_21331=保护同门
+title_21332=直言纳谏
+title_21333=花会蝴蝶舞翩翩
+title_21334=出水芙蓉去雕饰
+title_21335=花箭投壶醉翩跹
+title_21336=采集奇草
+title_21337=直言纳谏
+title_21338=直言纳谏
+title_21339=直言纳谏
+title_21340=直言纳谏
+title_21341=直言纳谏
+title_21342=念萝坝周常
+title_21343=护送公主
+title_21344=护送公主
+title_21345=护送公主
+title_21346=护送公主
+title_21347=护送公主
+title_21348=念萝坝周常
+title_21349=保护同门
+title_21350=舞技比拼
+title_21351=舞技修行
+title_21352=如花的女子
+title_21353=念萝花会
+title_21354=花会巡游
+title_21355=舞技对垒
+title_21356=念萝花会
+title_21360=保护同门
+title_21361=保护同门
+title_21362=保护同门
+title_21363=保护同门
+title_21364=念萝坝周常
+title_21365=采集奇草
+title_21366=采集奇草
+title_21367=采集奇草
+title_21368=采集奇草
+title_21369=采集奇草
+title_21370=无字玉璧
+title_21371=找猴子
+title_21372=念萝坝周常

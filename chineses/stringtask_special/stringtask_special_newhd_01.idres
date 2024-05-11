@@ -1,0 +1,955 @@
+﻿
+DialogID_60013=<font face="Default" color="#ffffff" >  想要吃家乡的味道，那你得帮我去收集一下材料才行。</font>
+DialogID_60020=<font face="Default" color="#ffffff" >哎，你也不要灰心，等我们一起修炼，然后一起去捉拿这些歹徒。</font>
+DialogID_60060=<font face="Default" color="#ffffff" >  在这月老庙的祈福树下许愿，那可灵验了，保你明年升官发财，找到心上人，做一个江湖大侠！这个就是“祈</font><font face="Default" color="#ffffff" >福</font><font face="Default" color="#ffffff" >结”你拿去吧。</font>
+DialogID_60061=<font face="Default" color="#ffffff" >  在这月老庙的祈福树下许愿，那可灵验了，保你明年升官发财，找到心上人，做一个江湖大侠！这个就是“祈福结”你拿去吧。</font>
+DialogID_60062=<font face="Default" color="#ffffff" >  听我奶奶说起，想当年，九宫老人也在这里许过新年愿望呢，你们也来试试。这是“祈福结”赶紧拿去吧。</font>
+DialogID_60063=<font face="Default" color="#ffffff" >少侠，小心，</font><font face="Default" color="#ffffff" >那些恶徒定不会放过我等。</font>
+DialogID_60064=<font face="Default" color="#ffffff" >此事事关重大，还望少侠尽快将此事告知林天南林盟主。</font>
+DialogID_60080=<font face="Default" color="#ffffff" >你也不用着急，城南码头的船夫，正在为朝廷寻找该彩蛋，你可以将此彩蛋</font><font face="Default" color="#ffffff" >交给</font><font face="Default" color="#ffffff" >他。</font>
+DialogID_60081=<font face="Default" color="#ffffff" > 少侠小心，周围有西域贼人正盯着我，还请低声说话。</font>
+DialogID_60082=<font face="Default" color="#ffffff" >  </font><font face="Default" color="#ffffff" >多谢少侠，我这就将此物归还主人。还带我向阿仙儿问好，我在她那存了一份薄礼，还请少侠笑纳。</font>
+QiecuoMenu_60007=<font face="Default" color="#ffffff" >那就看你有没有这个本事了！</font>
+QiecuoMenu_60010=<font face="Default" color="#ffffff" >拿命来！</font>
+QiecuoMenu_60011=<font face="Default" color="#ffffff" >拿命来！</font>
+QiecuoMenu_60012=<font face="Default" color="#ffffff" >拿命来！</font>
+QiecuoMenu_60013=<font face="Default" color="#ffffff" >拿命来！</font>
+QiecuoMenu_60014=<font face="Default" color="#ffffff" >拿命来！</font>
+QiecuoMenu_60015=<font face="Default" color="#ffffff" >拿命来！</font>
+QiecuoMenu_60021=<font face="Default" color="#ffffff" >那前辈请指教。</font>
+QiecuoTitle_60007=<font face="Default" color="#ffffff" > </font><font face="Default" color="#ffffff" >哪里冒出来的无名小辈，待我一并了结了你们！</font>
+QiecuoTitle_60010=<font face="Default" color="#ffffff" >中原武林，也不过如此，哈哈哈哈。</font>
+QiecuoTitle_60011=<font face="Default" color="#ffffff" >中原武林，也不过如此，哈哈哈哈。</font>
+QiecuoTitle_60012=<font face="Default" color="#ffffff" >中原武林，也不过如此，哈哈哈哈。</font>
+QiecuoTitle_60013=<font face="Default" color="#ffffff" >中原武林，也不过如此，哈哈哈哈。</font>
+QiecuoTitle_60014=<font face="Default" color="#ffffff" >中原武林，也不过如此，哈哈哈哈。</font>
+QiecuoTitle_60015=<font face="Default" color="#ffffff" >中原武林，也不过如此，哈哈哈哈。</font>
+QiecuoTitle_60021=<font face="Default" color="#ffffff" >  此次恶人谷之行险恶重重，老夫想看看少侠的身手，请不要谦虚了。</font>
+SubmitNpcEx_60002=请回各主城衙门祭祀大臣处，领取活动奖励
+SubmitNpcEx_60004=请回各主城衙门祭祀大臣处，领取活动奖励
+SubmitNpcEx_60006=请回各主城衙门祭祀大臣处，领取活动奖励
+SubmitNpcEx_60008=请回各主城衙门祭祀大臣处，领取活动奖励
+SubmitNpcEx_60010=请回各主城衙门祭祀大臣处，领取活动奖励
+SubmitNpcEx_60012=请回各主城衙门祭祀大臣处，领取活动奖励
+SubmitNpcEx_70013=请回侠客岛各落脚点附近找叶春晓提交任务
+SubmitNpcEx_70015=到东海蓬莱找<a href="findnpc_new,scene16,newworld_pld211" style="HLStype1">冷凌（蓬莱岛接引使者）</a>交任务<font face="Default" color="#FF8080" >『提示：在此等候并乘坐七色宝船进入东海蓬莱，进入时需要“生死令”道具』</font>
+SubmitNpcEx_70024=找<a href="findnpc_new,scene16,newworld_shengsipan_001" style="HLStype1">墨宇</a>
+SubmitNpcEx_70025=去月老庙寻找<a href="findnpc_new,city05,hd_2015qx_001" style="HLStype1">织女</a>，向她祈福
+SubmitNpcEx_70026=去月老庙寻找<a href="findnpc_new,city05,hd_2015qx_002" style="HLStype1">七姐</a>，向她祈福
+SubmitNpcEx_70030=找到武馆师兄陈龙（千灯镇NPC位置882 655 鸡鸣驿NPC位置565 340 烟雨庄NPC位置400 957 成都NPC位置845 652 恶人谷NPC位置385 341 ）
+SubmitNpcEx_70033=与林梁对话
+SubmitNpcEx_70082=隐士老者可能会出现在苏州（1370 877），(1440 884)，(1413 910)
+SubmitNpcEx_70401=与<a href="findnpc_new,born02,outlandwar_lpf001" style="HLStype1">武林战场接引人</a>交谈
+collectinfo_60001=收集<a href="findnpc_new,," style="HLStype1"></a>芝麻酱
+collectinfo_60002=收集<a href="findnpc_new,," style="HLStype1"></a>面粉
+collectinfo_60003=收集<a href="findnpc_new,," style="HLStype1"></a>糯米
+collectinfo_60004=收集<a href="findnpc_new,," style="HLStype1"></a>火腿
+collectinfo_60005=收集<a href="findnpc_new,," style="HLStype1"></a>大碗
+collectinfo_60013=收集<a href="findnpc_new,," style="HLStype1"></a>火麻
+collectinfo_60014=收集<a href="findnpc_new,," style="HLStype1"></a>沙蚕丝
+collectinfo_60015=收集<a href="findnpc_new,," style="HLStype1"></a>黄牛皮
+collectinfo_60016=收集<a href="findnpc_new,," style="HLStype1"></a>薄牛皮
+collectinfo_60017=收集<a href="findnpc_new,," style="HLStype1"></a>铜精石
+collectinfo_60018=收集<a href="findnpc_new,," style="HLStype1"></a>灵碎石
+collectinfo_60019=收集<a href="findnpc_new,," style="HLStype1"></a>棉线
+collectinfo_60020=收集<a href="findnpc_new,," style="HLStype1"></a>鱼尾
+collectinfo_60021=收集<a href="findnpc_new,," style="HLStype1"></a>鱼鳞
+collectinfo_60022=收集<a href="findnpc_new,," style="HLStype1"></a>黑烙锭
+collectinfo_60023=收集<a href="findnpc_new,," style="HLStype1"></a>一元石
+collectinfo_60024=收集<a href="findnpc_new,," style="HLStype1"></a>雪蕴绸
+collectinfo_60025=收集<a href="findnpc_new,," style="HLStype1"></a>薄贴
+collectinfo_60026=收集<a href="findnpc_new,," style="HLStype1"></a>杀生石
+collectinfo_60027=收集<a href="findnpc_new,," style="HLStype1"></a>铜矿
+collectinfo_60028=收集<a href="findnpc_new,," style="HLStype1"></a>柏木
+collectinfo_60029=收集<a href="findnpc_new,," style="HLStype1"></a>苦情花
+collectinfo_60030=收集<a href="findnpc_new,," style="HLStype1"></a>断肠花
+collectinfo_60031=收集<a href="findnpc_new,," style="HLStype1"></a>麻布
+collectinfo_60032=收集<a href="findnpc_new,," style="HLStype1"></a>粗布
+desc_hd_dw_2015_a_0=右键点击使用
+desc_hd_dw_2015_b_0=右键点击使用
+desc_hd_dw_2015_c_0=右键点击使用
+desc_hd_dw_2015_d_0=右键点击使用
+desc_hd_dw_2015_e_0=右键点击使用
+desc_hd_dw_2015_f_0=右键点击使用
+hd_dw_2015_a=香
+hd_dw_2015_b=香
+hd_dw_2015_c=香
+hd_dw_2015_d=香
+hd_dw_2015_e=香
+hd_dw_2015_f=香
+hd_dw_qes=宋古今
+hunterinfo_60007=击败<a href="findnpc_new,city02,waiyuwulin_031" style="HLStype1">外域隐卫</a>
+hunterinfo_60010=击败<a href="findnpc_new,born02,waiyuwulin_025" style="HLStype1">外域武林人士</a>
+hunterinfo_60011=击败<a href="findnpc_new,born02,waiyuwulin_026" style="HLStype1">外域武林人士</a>
+hunterinfo_60012=击败<a href="findnpc_new,born02,waiyuwulin_027" style="HLStype1">外域武林人士</a>
+hunterinfo_60013=击败<a href="findnpc_new,born02,waiyuwulin_028" style="HLStype1">外域武林人士</a>
+hunterinfo_60014=击败<a href="findnpc_new,born02,waiyuwulin_029" style="HLStype1">外域武林人士</a>
+hunterinfo_60015=击败<a href="findnpc_new,born02,waiyuwulin_030" style="HLStype1">外域武林人士</a>
+hunterinfo_60021=与<a href="findnpc_new,city04,npc_ftask_004" style="HLStype1">玉旋子</a>进行切磋
+hunterinfo_60029=与<a href="findnpc_new,city02,Transcity02H" style="HLStype1">裘谦哲</a>交谈，突然<a href="findnpc_new,city02,hd_2017_12_30" style="HLStype1">外域匪贼</a>从旁杀出，将其击败
+hunterinfo_60910=在恶人谷之战中取得一次胜利
+interactinfo_60000=担负运输任务时，请尽快运送物资到指定处；当对方运输物资时，请尽可能多的击败运输物资的玩家，破坏对方的物资。
+interactinfo_60006=攻克机关人（头目）
+interactinfo_60013=找到大厨<a href="findnpc_new,city02,JobSuZ011" style="HLStype1">赵福</a>
+interactinfo_60060=与<a href="findnpc_new,city05,chunjie_qifu_001" style="HLStype1">菀之</a>获得“祈福结”
+interactinfo_60061=与<a href="findnpc_new,city05,chunjie_qifu_001" style="HLStype1">菀之</a>交完，获得“祈福结”
+interactinfo_60062=与<a href="findnpc_new,city05,chunjie_qifu_001" style="HLStype1">菀之</a>交谈，获得“祈福结”
+interactinfo_60063=光天化日竟有人行凶！询问<a href="findnpc_new,city02,waiyuwulin_001" style="HLStype1">长孙空</a>发生了何事。
+interactinfo_60064=向<a href="findnpc_new,city02,waiyuwulin_001" style="HLStype1">长孙空</a>详细询问。
+interactinfo_60080=询问<a href="findnpc_new,city02,hd_npc_zdyl_001" style="HLStype1">阿仙儿</a>，此彩蛋的来历
+interactinfo_60081=找到<a href="findnpc_new,city02,Transcity02H" style="HLStype1">裘谦哲</a>，求他帮助
+interactinfo_60082=将神秘彩蛋交给<a href="findnpc_new,city02,Transcity02H" style="HLStype1">裘谦哲</a>，让他帮忙物归原主
+okmenu_60020=<font face="Default" color="#ffffff" >一定会的。这里是我做的家乡的味道，送给你吧。</font>
+okmenu_60060=<font face="Default" color="#ffffff" >多谢。</font>
+okmenu_60061=<font face="Default" color="#ffffff" >多谢。</font>
+okmenu_60062=<font face="Default" color="#ffffff" >多谢</font>
+okmenu_60063=<font face="Default" color="#ffffff" >阁下放心，我定会保阁下万全。</font>
+okmenu_60064=<font face="Default" color="#ffffff" >既如此，我这便动身，阁下还是快些离开此地，免遭不测。</font>
+okmenu_60080=<font face="Default" color="#ffffff" >多谢指点</font>
+okmenu_60081=<font face="Default" color="#ffffff" >船家，今天我偶然得到一枚神秘彩蛋，听城中仙儿说你正在寻找此蛋。</font>
+okmenu_60082=<font face="Default" color="#ffffff" >现在安全了，还请船家收下这彩蛋。</font>
+quest_menu_60001=<font face="Default" color="#ffffff" >佳节怀古</font>
+quest_menu_60002=<font face="Default" color="#ffffff" >佳节怀古</font>
+quest_menu_60003=<font face="Default" color="#ffffff" >佳节怀古</font>
+quest_menu_60004=<font face="Default" color="#ffffff" >佳节怀古</font>
+quest_menu_60005=<font face="Default" color="#ffffff" >佳节怀古</font>
+quest_menu_60006=<font face="Default" color="#ffffff" >佳节怀古</font>
+quest_menu_60007=<font face="Default" color="#ffffff" >佳节怀古</font>
+quest_menu_60008=<font face="Default" color="#ffffff" >佳节怀古</font>
+quest_menu_60009=<font face="Default" color="#ffffff" >佳节怀古</font>
+quest_menu_60010=<font face="Default" color="#ffffff" >佳节怀古</font>
+quest_menu_60011=<font face="Default" color="#ffffff" >佳节怀古</font>
+quest_menu_60012=<font face="Default" color="#ffffff" >佳节怀古</font>
+quest_menu_60013=<font face="Default" color="#ffffff" >佳节怀古</font>
+quest_menu_60014=<font face="Default" color="#ffffff" >佳节怀古</font>
+quest_menu_60015=<font face="Default" color="#ffffff" >佳节怀古</font>
+quest_menu_60016=<font face="Default" color="#ffffff" >佳节怀古</font>
+quest_menu_60017=<font face="Default" color="#ffffff" >佳节怀古</font>
+quest_menu_60018=<font face="Default" color="#ffffff" >佳节怀古</font>
+quest_menu_60019=<font face="Default" color="#ffffff" >佳节怀古</font>
+quest_menu_60020=<font face="Default" color="#ffffff" >佳节怀古</font>
+quest_menu_60021=<font face="Default" color="#ffffff" >佳节怀古</font>
+quest_menu_60022=<font face="Default" color="#ffffff" >佳节怀古</font>
+quest_menu_60023=<font face="Default" color="#ffffff" >佳节怀古</font>
+quest_menu_60024=<font face="Default" color="#ffffff" >佳节怀古</font>
+quest_menu_60025=<font face="Default" color="#ffffff" >佳节怀古</font>
+quest_menu_60026=<font face="Default" color="#ffffff" >佳节怀古</font>
+quest_menu_60027=<font face="Default" color="#ffffff" >佳节怀古</font>
+quest_menu_60028=<font face="Default" color="#ffffff" >佳节怀古</font>
+quest_menu_60029=<font face="Default" color="#ffffff" >佳节怀古</font>
+quest_menu_60030=<font face="Default" color="#ffffff" >佳节怀古</font>
+quest_menu_60031=<font face="Default" color="#ffffff" >中秋思念</font>
+quest_menu_60032=<font face="Default" color="#ffffff" >中秋思念</font>
+quest_menu_60033=<font face="Default" color="#ffffff" >中秋思念</font>
+quest_menu_60034=<font face="Default" color="#ffffff" >听闻秀才学多识广，还来请教一下。</font>
+quest_menu_60035=<font face="Default" color="#ffffff" >听闻秀才学多识广，还来请教一下。</font>
+quest_menu_60036=<font face="Default" color="#ffffff" >听闻秀才学多识广，还来请教一下。</font>
+questioninfo_60001=佳节怀古，与<a href="findnpc_new,city03,hd_dw_qes" style="HLStype1">宋古今</a>对诗
+questioninfo_60002=佳节怀古，与<a href="findnpc_new,city03,hd_dw_qes" style="HLStype1">宋古今</a>对诗
+questioninfo_60003=佳节怀古，与<a href="findnpc_new,city03,hd_dw_qes" style="HLStype1">宋古今</a>对诗
+questioninfo_60004=佳节怀古，与<a href="findnpc_new,city03,hd_dw_qes" style="HLStype1">宋古今</a>对诗
+questioninfo_60005=佳节怀古，与<a href="findnpc_new,city03,hd_dw_qes" style="HLStype1">宋古今</a>对诗
+questioninfo_60006=佳节怀古，与<a href="findnpc_new,city03,hd_dw_qes" style="HLStype1">宋古今</a>对诗
+questioninfo_60007=佳节怀古，与<a href="findnpc_new,city03,hd_dw_qes" style="HLStype1">宋古今</a>对诗
+questioninfo_60008=佳节怀古，与<a href="findnpc_new,city03,hd_dw_qes" style="HLStype1">宋古今</a>对诗
+questioninfo_60009=佳节怀古，与<a href="findnpc_new,city03,hd_dw_qes" style="HLStype1">宋古今</a>对诗
+questioninfo_60010=佳节怀古，与<a href="findnpc_new,city03,hd_dw_qes" style="HLStype1">宋古今</a>对诗
+questioninfo_60011=佳节怀古，与<a href="findnpc_new,city03,hd_dw_qes" style="HLStype1">宋古今</a>对诗
+questioninfo_60012=佳节怀古，与<a href="findnpc_new,city03,hd_dw_qes" style="HLStype1">宋古今</a>对诗
+questioninfo_60013=佳节怀古，与<a href="findnpc_new,city03,hd_dw_qes" style="HLStype1">宋古今</a>对诗
+questioninfo_60014=佳节怀古，与<a href="findnpc_new,city03,hd_dw_qes" style="HLStype1">宋古今</a>对诗
+questioninfo_60015=佳节怀古，与<a href="findnpc_new,city03,hd_dw_qes" style="HLStype1">宋古今</a>对诗
+questioninfo_60016=佳节怀古，与<a href="findnpc_new,city03,hd_dw_qes" style="HLStype1">宋古今</a>对诗
+questioninfo_60017=佳节怀古，与<a href="findnpc_new,city03,hd_dw_qes" style="HLStype1">宋古今</a>对诗
+questioninfo_60018=佳节怀古，与<a href="findnpc_new,city03,hd_dw_qes" style="HLStype1">宋古今</a>对诗
+questioninfo_60019=佳节怀古，与<a href="findnpc_new,city03,hd_dw_qes" style="HLStype1">宋古今</a>对诗
+questioninfo_60020=佳节怀古，与<a href="findnpc_new,city03,hd_dw_qes" style="HLStype1">宋古今</a>对诗
+questioninfo_60021=佳节怀古，与<a href="findnpc_new,city03,hd_dw_qes" style="HLStype1">宋古今</a>对诗
+questioninfo_60022=佳节怀古，与<a href="findnpc_new,city03,hd_dw_qes" style="HLStype1">宋古今</a>对诗
+questioninfo_60023=佳节怀古，与<a href="findnpc_new,city03,hd_dw_qes" style="HLStype1">宋古今</a>对诗
+questioninfo_60024=佳节怀古，与<a href="findnpc_new,city03,hd_dw_qes" style="HLStype1">宋古今</a>对诗
+questioninfo_60025=佳节怀古，与<a href="findnpc_new,city03,hd_dw_qes" style="HLStype1">宋古今</a>对诗
+questioninfo_60026=佳节怀古，与<a href="findnpc_new,city03,hd_dw_qes" style="HLStype1">宋古今</a>对诗
+questioninfo_60027=佳节怀古，与<a href="findnpc_new,city03,hd_dw_qes" style="HLStype1">宋古今</a>对诗
+questioninfo_60028=佳节怀古，与<a href="findnpc_new,city03,hd_dw_qes" style="HLStype1">宋古今</a>对诗
+questioninfo_60029=佳节怀古，与<a href="findnpc_new,city03,hd_dw_qes" style="HLStype1">宋古今</a>对诗
+questioninfo_60030=佳节怀古，与<a href="findnpc_new,city03,hd_dw_qes" style="HLStype1">宋古今</a>对诗
+specialinfo_1124=找<a href="findnpc,born03,802,3,1786" style="HLStype1">幽若(东海阵营使者)</a>选择加入东海“无为武修”或者“百战狂客”阵营<font face="Default" color="#FF8080" >『提示：加入时需要“生死令”道具』</font>
+questioninfo_60031=回答<a href="findnpc_new,city02,zqhd_001" style="HLStype1">丘仁杰</a>的问题
+questioninfo_60032=回答<a href="findnpc_new,city02,zqhd_001" style="HLStype1">丘仁杰</a>的问题
+questioninfo_60033=回答<a href="findnpc_new,city02,zqhd_001" style="HLStype1">丘仁杰</a>的问题
+questioninfo_60034=回答<a href="findnpc_new,city02,zqhd_002" style="HLStype1">沈思成</a>的问题
+questioninfo_60035=回答<a href="findnpc_new,city02,zqhd_002" style="HLStype1">沈思成</a>的问题
+questioninfo_60036=回答<a href="findnpc_new,city02,zqhd_002" style="HLStype1">沈思成</a>的问题
+specialinfo_1173=师徒组队一起踢馆，完成六次
+specialinfo_1174=师徒组队挑战心魔,完成三次
+specialinfo_1175=师徒组队挑战禁地，完成一次
+story_60001_1=<font face="Default" color="#ffffff" >  哎，自从你离开这里之后，就已经是物是人非。好多人都已经背井离乡，离开了这里。</font>
+story_60001_2=<font face="Default" color="#ffffff" >  你离开的半年之后，有一帮蒙面人突然闯入这里，打破了我们平静的生活，他们自称从东海上来，四处搜寻着你的踪迹。</font>
+story_60001_3=<font face="Default" color="#ffffff" >我们也不知道他们想干什么，经过一番折腾之后，他们也把师傅打伤了。从此师傅就再也不能教我们习武了，呜呜呜呜呜呜！</font>
+story_60001_4=<font face="Default" color="#ffffff" >他们自称去了东海蓬莱岛。你，你现在还不是他们的对手，还是不要去送死。</font>
+story_menu_60001=<font face="Default" color="#ffffff" >物是人非</font>
+storyinfo_60001=听武馆师兄陈龙诉说（千灯镇NPC位置882 655 鸡鸣驿NPC位置565 340 烟雨庄NPC位置400 957 成都NPC位置845 652 恶人谷NPC位置385 341 ）
+storymenu_60001_1=<font face="Default" color="#ffffff" >怎么会变成这样？</font>
+storymenu_60001_2=<font face="Default" color="#ffffff" >搜寻我的踪迹？他们想干什么？</font>
+storymenu_60001_3=<font face="Default" color="#ffffff" >别哭，快告诉我，那帮人去哪了？</font>
+storymenu_60001_4=<font face="Default" color="#ffffff" >不行，我一定要弄明白，他们为什么要找我。</font>
+useiteminfo_60001=给<a href="findnpc_new,city03,Gather00159m" style="HLStype1">祭台</a>上<a href="TASK_ITEM,hd_dw_2015_a" style="HLStype1">香</a>，祭祀屈原
+useiteminfo_60002=给<a href="findnpc_new,city03,Gather00159m" style="HLStype1">祭台</a>上<a href="TASK_ITEM,hd_dw_2015_b" style="HLStype1">香</a>，祭祀屈原
+useiteminfo_60003=给<a href="findnpc_new,city03,Gather00159m" style="HLStype1">祭台</a>上<a href="TASK_ITEM,hd_dw_2015_c" style="HLStype1">香</a>，祭祀屈原
+useiteminfo_60004=给<a href="findnpc_new,city03,Gather00159m" style="HLStype1">祭台</a>上<a href="TASK_ITEM,hd_dw_2015_d" style="HLStype1">香</a>，祭祀屈原
+useiteminfo_60005=给<a href="findnpc_new,city03,Gather00159m" style="HLStype1">祭台</a>上<a href="TASK_ITEM,hd_dw_2015_e" style="HLStype1">香</a>，祭祀屈原
+useiteminfo_60006=给<a href="findnpc_new,city03,Gather00159m" style="HLStype1">祭台</a>上<a href="TASK_ITEM,hd_dw_2015_f" style="HLStype1">香</a>，祭祀屈原
+useiteminfo_60020=前往恶人谷<a href="findnpc_new,born02,npc_lzy_huodong_ergjb" style="HLStype1">无名冢</a>前上<a href="TASK_ITEM,useitem_lzy_huodong_ergjb" style="HLStype1">香</a>进行祭拜
+DialogID_60001=<font face="Default" color="#ffffff" >你来晚一步，武林大会已经结束，我给你大致描述下当时的情况吧</font>
+DialogID_60002=<font face="Default" color="#ffffff" >对于东海各个势力，我等皆知之不详，于是大家意见不一，始终无法得到统一</font>
+DialogID_60003=<font face="Default" color="#ffffff" >当时我们正在议论东海的事情，徐妙真正在向众人介绍东海的势力，此时，东海使者骑鹤赶了过来</font>
+DialogID_60004=<font face="Default" color="#ffffff" >在东海使者到来后，在言语上略微有点不愉快，接下来</font><font face="Default" color="#ffffff" >嘛......</font>
+interactinfo_60001=前往六和台找到林天南了解武林大会详情
+interactinfo_60002=在六和台上找紫阳真人了解接下来的情况
+interactinfo_60003=在六和台中间找到九宫老人继续了解当时的情况
+interactinfo_60004=在六和台林天南处了解后续情况
+okmenu_60001=<font face="Default" color="#ffffff" >多谢盟主</font>
+okmenu_60002=<font face="Default" color="#ffffff" >愿闻其详</font>
+okmenu_60003=<font face="Default" color="#ffffff" >不知发生了什么事情</font>
+okmenu_60004=<font face="Default" color="#ffffff" >请盟主告知</font>
+interactinfo_60005=亲爱的玩家，与各大主城<font face="Default" color="#EE0000" >周年称号大使-九慕华</font>对话后即可完成任务。
+submit_70016=<font face="Default" color="#ffffff" >好的。</font>
+DialogID_60005=<font face="Default" color="#ffffff" >亲爱的玩家，感谢这些年来您对九阴真经的支持与厚爱。这是给您的礼物。</font>
+okmenu_60005=<font face="Default" color="#ffffff" >确定</font>
+falsetalk_8019=<font face="Default" color="#000000" >不对不对</font>
+falsetalk_8002=<font face="Default" color="#000000" >不对不对</font>
+falsetalk_8003=<font face="Default" color="#000000" >不对不对</font>
+falsetalk_8004=<font face="Default" color="#000000" >不对不对</font>
+falsetalk_8020=<font face="Default" color="#000000" >不对不对</font>
+falsetalk_8021=<font face="Default" color="#000000" >不对不对</font>
+falsetalk_8007=<font face="Default" color="#000000" >不对不对</font>
+falsetalk_8008=<font face="Default" color="#000000" >不对不对</font>
+falsetalk_8009=<font face="Default" color="#000000" >不对不对</font>
+falsetalk_8010=<font face="Default" color="#000000" >不对不对</font>
+falsetalk_8011=<font face="Default" color="#000000" >不对不对</font>
+falsetalk_8012=<font face="Default" color="#000000" >不对不对</font>
+falsetalk_8013=<font face="Default" color="#000000" >不对不对</font>
+falsetalk_8014=<font face="Default" color="#000000" >不对不对</font>
+falsetalk_8015=<font face="Default" color="#000000" >不对不对</font>
+falsetalk_8016=<font face="Default" color="#000000" >不对不对</font>
+falsetalk_8017=<font face="Default" color="#000000" >不对不对</font>
+falsetalk_8018=<font face="Default" color="#000000" >不对不对</font>
+DialogID_60007=<font face="Default" color="#ffffff" >若想加入我柳生家族，只怕不易。凡加入我柳生家族的中原人士，都是带着中原武林高手的首级来的，此乃投名状，若无此物，只怕难以获得信任。是去是留，还是你自己考虑吧。</font>
+DialogID_60009=<font face="Default" color="#ffffff" >如今你刚刚投靠柳生家族，只怕短时间内还难以触及到柳生家机密之事，此事无需太过焦急，只怕欲速则不达，反而暴露了自身身份。</font>
+DialogID_60012=<font face="Default" color="#ffffff" >家主交代</font><font face="Default" color="#ffffff" >之</font><font face="Default" color="#ffffff" >事</font><font face="Default" color="#ffffff" >，</font><font face="Default" color="#ffffff" >你</font><font face="Default" color="#ffffff" >可有小心办好</font><font face="Default" color="#ffffff" >？</font>
+DialogID_60014=<font face="Default" color="#ffffff" >你小子可真会说话，哈哈，要知道</font><font face="Default" color="#ffffff" >就连</font><font face="Default" color="#ffffff" >清音壁里面也有</font><font face="Default" color="#ffffff" >我柳生……</font><font face="Default" color="#ffffff" >（额，不好，怎么把这事给说出来了，希望他没有注意）</font>
+DialogID_60015=<font face="Default" color="#ffffff" >你不妨约</font><font face="Default" color="#ffffff" >那使者一同</font><font face="Default" color="#ffffff" >喝酒，然后用药将其迷晕，找到信件后可</font><font face="Default" color="#ffffff" >复制</font><font face="Default" color="#ffffff" >一份</font><font face="Default" color="#ffffff" >交予我，只要能确认内奸身份，后续之事便可以实施。</font>
+DialogID_60016=<font face="Default" color="#ffffff" >咦，我怎么睡着了？糟糕！……</font><font face="Default" color="#8fd6ef" >（还好，信件还在）</font>
+DialogID_60017=<font face="Default" color="#ffffff" >怎样，</font><font face="Default" color="#ffffff" >可否拿到信件？</font>
+DialogID_60018=<font face="Default" color="#ffffff" >想不到啊想不到，这内奸竟然是</font><font face="Default" color="#ffffff" >清音壁弟子柳望生，</font><font face="Default" color="#ffffff" >唉！当年的英勇之军，如今竟然也会如此不堪！唉……此乃</font><font face="Default" color="#ffffff" >柳生次郎的信物，你带上</font><font face="Default" color="#ffffff" >此物，想法</font><font face="Default" color="#ffffff" >骗取柳望生的信任，趁</font><font face="Default" color="#ffffff" >其不备</font><font face="Default" color="#ffffff" >将其攻克</font><font face="Default" color="#ffffff" >，以绝后患！</font>
+DialogID_60019=<font face="Default" color="#ffffff" >很好，如今内奸已经清除，总算能松一口气了</font>
+DialogID_60021=<font face="Default" color="#ffffff" >什么</font><font face="Default" color="#ffffff" >！</font><font face="Default" color="#ffffff" >投靠柳生家族！哼，</font><font face="Default" color="#ffffff" >想不到你竟是如此不堪之人，若不是看在你我多年相识的份上，我定要将你斩于此地！</font><font face="Default" color="#ffffff" >你给我滚</font><font face="Default" color="#ffffff" >！</font>
+DialogID_60022=<font face="Default" color="#ffffff" >柳生家族？若是当真加入柳生家族，不知道在下可有什么好处？</font>
+DialogID_60023=<font face="Default" color="#ffffff" >此行如何，可有人愿意归顺我柳生家？</font>
+DialogID_60024=<font face="Default" color="#ffffff" >你可有将信物交予紫旗旗主？此事可有他人知道？</font>
+DialogID_60026=
+DialogID_60027=<font face="Default" color="#ffffff" >柳生次郎如此大张旗鼓</font><font face="Default" color="#ffffff" >为</font><font face="Default" color="#ffffff" >你庆功</font><font face="Default" color="#ffffff" >。</font><font face="Default" color="#ffffff" >看来对你已经有所怀疑</font><font face="Default" color="#ffffff" >。如今你身份暴露，若是大明武者仍旧对此不闻不问，那便坐实了你的身份。可若是大明武者前来围攻，就算你被袭，柳生家也不会有任何损失，当真是毒计啊。</font>
+DialogID_60029=<font face="Default" color="#ffffff" >什么，你说有血刀堂弟子投靠柳生家</font><font face="Default" color="#ffffff" >？</font><font face="Default" color="#ffffff" >此人</font><font face="Default" color="#ffffff" >断然留不得！</font><font face="Default" color="#ffffff" >你</font><font face="Default" color="#ffffff" >要想方设法将此人除掉！</font>
+DialogID_60030=<font face="Default" color="#ffffff" >宴请在下？哈哈哈，难得大人如此客气，在下定会准时赴约。</font>
+DialogID_60033=<font face="Default" color="#ffffff" >在宴会中救你的舞姬不知是敌是友，你不妨前去打探一下</font>
+DialogID_60034=<font face="Default" color="#ffffff" >原来是念罗坝弟子。唉，我中原人杰地灵，虽</font><font face="Default" color="#ffffff" >也</font><font face="Default" color="#ffffff" >有见利忘义之辈，不过</font><font face="Default" color="#ffffff" >中原武林侠义之人却是</font><font face="Default" color="#ffffff" >深明大义</font><font face="Default" color="#ffffff" >，为我中原安危四下奔走。</font>
+DialogID_60036=<font face="Default" color="#ffffff" >不好</font><font face="Default" color="#ffffff" >！</font><font face="Default" color="#ffffff" >如今柳生次郎对你已经产生怀疑，你去见柳生次郎</font><font face="Default" color="#ffffff" >之时</font><font face="Default" color="#ffffff" >定要一口咬</font><font face="Default" color="#ffffff" >死</font><font face="Default" color="#ffffff" >血海</font><font face="Default" color="#ffffff" >乃是</font><font face="Default" color="#ffffff" >假意投靠，</font><font face="Default" color="#ffffff" >若是柳生次郎不信，你便将</font><font face="Default" color="#ffffff" >这封伪造的书信交给他，希望能</font><font face="Default" color="#ffffff" >借此</font><font face="Default" color="#ffffff" >躲过一劫</font><font face="Default" color="#ffffff" >。</font>
+DialogID_60037=<font face="Default" color="#ffffff" >你可</font><font face="Default" color="#ffffff" >放心，舞姬</font><font face="Default" color="#ffffff" >那边</font><font face="Default" color="#ffffff" >我</font><font face="Default" color="#ffffff" >自会</font><font face="Default" color="#ffffff" >安排</font><font face="Default" color="#ffffff" >妥当。</font>
+DialogID_60038=<font face="Default" color="#ffffff" >哼，你还敢来见我，说，血海是不是</font><font face="Default" color="#ffffff" >被</font><font face="Default" color="#ffffff" >你所杀？</font>
+DialogID_60040=<font face="Default" color="#ffffff" >柳生家收买了生死判弟子，负责为我柳生家督造战船，此事事关重大，你便以我名义，前去视察，看看战船修造进展如何！</font>
+DialogID_60042=<font face="Default" color="#ffffff" >如今在柳生家族还有很多卖国求荣的武者，我现在以大明密探的身份伪造书信，设计他们，好将他们一网打尽</font><font face="Default" color="#ffffff" >。你拿着书信找周荣盖上密印，柳生次郎必定深信不疑</font>
+DialogID_60043=<font face="Default" color="#ffffff" >你说密印啊，我这就给你盖上</font><font face="Default" color="#ffffff" >。</font>
+DialogID_60044=<font face="Default" color="#ffffff" >这是</font><font face="Default" color="#ffffff" >……</font><font face="Default" color="#ffffff" >什么，这些人居然敢欺骗</font><font face="Default" color="#ffffff" >于</font><font face="Default" color="#ffffff" >我，枉我如此信任他们</font><font face="Default" color="#ffffff" >，当真该杀！既然此事乃是你所发现，就交由你全权处置，记住，不要留下一个活口！宁可错杀一百，也不能放走一个！</font>
+DialogID_60045=<font face="Default" color="#ffffff" >事情可否处理妥当？</font>
+DialogID_60046=<font face="Default" color="#ffffff" >唉，</font><font face="Default" color="#ffffff" >如今无极岛上的</font><font face="Default" color="#ffffff" >村民生活本身就已</font><font face="Default" color="#ffffff" >困苦不堪</font><font face="Default" color="#ffffff" >，我已</font><font face="Default" color="#ffffff" >命</font><font face="Default" color="#ffffff" >人收购了一些粮草放在码头</font><font face="Default" color="#ffffff" >附近</font><font face="Default" color="#ffffff" >，你</font><font face="Default" color="#ffffff" >自行前去收取便是。</font>
+DialogID_60048=<font face="Default" color="#ffffff" >竟然还有村民</font><font face="Default" color="#ffffff" >拒绝</font><font face="Default" color="#ffffff" >交</font><font face="Default" color="#ffffff" >粮，还躲在岛上山洞之中</font><font face="Default" color="#ffffff" >，</font><font face="Default" color="#ffffff" >既</font><font face="Default" color="#ffffff" >如此</font><font face="Default" color="#ffffff" >，</font><font face="Default" color="#ffffff" >留着</font><font face="Default" color="#ffffff" >他们</font><font face="Default" color="#ffffff" >也是无用</font><font face="Default" color="#ffffff" >。</font><font face="Default" color="#ffffff" >你</font><font face="Default" color="#ffffff" >率数名</font><font face="Default" color="#ffffff" >足轻将其灭杀</font><font face="Default" color="#ffffff" >！以警示其他村民！</font>
+DialogID_60049=<font face="Default" color="#ffffff" >这东瀛倭寇果然心狠手辣，竟为了区区粮食便要将村民赶尽杀绝！我等</font><font face="Default" color="#ffffff" >只能冒险将</font><font face="Default" color="#ffffff" >数名</font><font face="Default" color="#ffffff" >足轻攻克，</font><font face="Default" color="#ffffff" >救出村民，而后再假借大明武者之事，将一切事情推到中原武林侠士身上，如此方能不引起怀疑。</font>
+DialogID_60050=<font face="Default" color="#ffffff" >为了能瞒过柳生次郎，</font><font face="Default" color="#ffffff" >必要将你击成重伤</font><font face="Default" color="#ffffff" >，如此方</font><font face="Default" color="#ffffff" >能取信于他！</font>
+DialogID_60051=<font face="Default" color="#ffffff" >什么</font><font face="Default" color="#ffffff" >？</font><font face="Default" color="#ffffff" >你们被大明武者围攻了</font><font face="Default" color="#ffffff" >？</font><font face="Default" color="#ffffff" >好大的胆子</font><font face="Default" color="#ffffff" >！竟然还有大明武者胆敢在我柳生家族的</font><font face="Default" color="#ffffff" >地盘上</font><font face="Default" color="#ffffff" >出手伤人！</font><font face="Default" color="#ffffff" >还好你身手不错，逃了出来</font><font face="Default" color="#ffffff" >，不然有大明武者潜入岛上之事，我还无从得知。</font>
+DialogID_60052=<font face="Default" color="#ffffff" >现在柳生次郎应该已经完全信任你了，</font><font face="Default" color="#ffffff" >也是时候找机会盗取海图了。</font>
+DialogID_60053=<font face="Default" color="#ffffff" >不好</font><font face="Default" color="#ffffff" >！</font><font face="Default" color="#ffffff" >这海图是假的</font><font face="Default" color="#ffffff" >！看来</font><font face="Default" color="#ffffff" >柳生次郎定</font><font face="Default" color="#ffffff" >是</font><font face="Default" color="#ffffff" >识破了我</font><font face="Default" color="#ffffff" >等</font><font face="Default" color="#ffffff" >的</font><font face="Default" color="#ffffff" >身份，才会设下如此陷阱！</font>
+DialogID_60058=<font face="Default" color="#ffffff" >这是</font><font face="Default" color="#ffffff" >？</font><font face="Default" color="#ffffff" >！</font><font face="Default" color="#ffffff" >此事我已知晓</font><font face="Default" color="#ffffff" >，你</font><font face="Default" color="#ffffff" >可</font><font face="Default" color="#ffffff" >先</font><font face="Default" color="#ffffff" >行</font><font face="Default" color="#ffffff" >离</font><font face="Default" color="#ffffff" >去。</font>
+collectinfo_60006=搬运<a href="findnpc_new,scene19,Gather_wjd_wjd_002" style="HLStype1">货物</a>
+collectinfo_60007=使用<a href="TASK_ITEM,item_wjd_wjd_001" style="HLStype1">药酒</a>将<a href="findnpc_new,scene17,npc_wjd_wjd_004" style="HLStype1">柳生无恙</a>迷晕后，从他身上获取密信
+collectinfo_60008=去码头收集<a href="findnpc_new,scene19,Gather_wjd_wjd_003" style="HLStype1">粮草</a>
+collectinfo_60009=使用<a href="TASK_ITEM,item_wjd_wjd_004" style="HLStype1">飞龙探云手</a>从<a href="findnpc_new,scene19,npc_wjd_wjd_003" style="HLStype1">柳生次郎</a>处盗取海图
+collectinfo_60010=获得周云天首级
+collectinfo_60011=获得大明密令
+collectinfo_60012=前往忍者神社偷取真正的<a href="findnpc_new,scene19,Gather_wjd_wjd_004" style="HLStype1">海图</a>
+hunterinfo_60001=既然只要大明武者，那么就杀几个为祸一方的<a href="findnpc_new,born03,attack_wjd_wjd_001" style="HLStype1">土匪</a>作为投名状吧
+hunterinfo_60002=将柳望生骗到<a href="findnpc_new,scene16,EventNpc_wjd_wjd_003" style="HLStype1">偏僻的地方</a>将其攻克（此任务无法多人同时触发）
+hunterinfo_60003=攻克<a href="findnpc_new,scene19,attack_wjd_wjd_003" style="HLStype1">叛变的大明武者</a>
+hunterinfo_60004=前往<a href="findnpc_new,scene19,EventNpc_wjd_wjd_007" style="HLStype1">山上</a>将等待的足轻消灭（此任务无法多人同时触发）
+hunterinfo_60006=击败周荣
+interactinfo_60007=前往无极岛投靠<a href="findnpc_new,scene19,npc_wjd_wjd_003" style="HLStype1">柳生次郎</a>
+interactinfo_60008=修理<a href="findnpc_new,scene19,Gather_wjd_wjd_001" style="HLStype1">大炮</a>
+interactinfo_60009=向<a href="findnpc_new,scene19,npc_wjd_wjd_001" style="HLStype1">周云天</a>问计（可以使用<a href="TASK_ITEM,item_wjd_wjd_003" style="HLStype1">火把</a>点燃传信火堆召唤周云天）
+interactinfo_60010=去<a href="findnpc_new,scene16,EventNpc_wjd_wjd_001" style="HLStype1">蓬莱岛</a>假意探查大明军队以及武者动静
+interactinfo_60011=去<a href="findnpc_new,scene17,EventNpc_wjd_wjd_002" style="HLStype1">侠客岛</a>探查大明军队以及武者的动静
+interactinfo_60012=既然没什么收获，不如找<a href="findnpc_new,scene17,npc_wjd_wjd_004" style="HLStype1">柳生无恙</a>谈谈，看看他有什么发现
+interactinfo_60014=套取<a href="findnpc_new,scene17,npc_wjd_wjd_004" style="HLStype1">柳生家线人</a>的情报
+interactinfo_60015=听<a href="findnpc_new,scene19,npc_wjd_wjd_001" style="HLStype1">周云天</a>交代行动方案
+interactinfo_60016=消除<a href="findnpc_new,scene17,npc_wjd_wjd_004" style="HLStype1">柳生无恙</a>的疑虑
+interactinfo_60017=将<a href="TASK_ITEM,item_wjd_wjd_011" style="HLStype1">密信</a>交给<a href="findnpc_new,scene19,npc_wjd_wjd_001" style="HLStype1">周云天</a>，让他辨认字迹，找出内奸
+interactinfo_60018=与<a href="findnpc_new,scene19,npc_wjd_wjd_001" style="HLStype1">周云天</a>定计，铲除内奸
+interactinfo_60019=将攻克内奸的事情告诉<a href="findnpc_new,scene19,npc_wjd_wjd_001" style="HLStype1">周云天</a>并询问接下来的行动
+interactinfo_60020=将家乡的味道赠予陈龙
+interactinfo_60021=随意的与<a href="findnpc_new,school01,jyw040" style="HLStype1">刑昭君</a>交谈
+interactinfo_60022=随意的与<a href="findnpc_new,school01,jyw041" style="HLStype1">张继武</a>交谈
+interactinfo_60023=向<a href="findnpc_new,scene19,npc_wjd_wjd_003" style="HLStype1">柳生次郎</a>汇报此行结果
+interactinfo_60024=与<a href="findnpc_new,scene19,npc_wjd_wjd_001" style="HLStype1">周云天</a>交谈
+interactinfo_60025=短暂的休息，等待柳生次郎的召唤
+interactinfo_60026=应<a href="findnpc_new,scene19,npc_wjd_wjd_003" style="HLStype1">柳生次郎</a>的邀请，去<a href="findnpc_new,scene19,EventNpc_wjd_wjd_004" style="HLStype1">偏厅</a>参加宴会
+interactinfo_60027=将宴会的详情向<a href="findnpc_new,scene19,npc_wjd_wjd_001" style="HLStype1">周云天</a>描述，并与他商量
+interactinfo_60028=小心保护自己，有可能会被袭击（请耐心等待柳生次郎的传唤，十分钟左右）
+interactinfo_60029=与<a href="findnpc_new,scene19,npc_wjd_wjd_001" style="HLStype1">周云天</a>商议铲除叛徒之事
+interactinfo_60030=邀请<a href="findnpc_new,scene19,npc_wjd_wjd_006" style="HLStype1">血海</a>参加宴会
+interactinfo_60031=前往<a href="findnpc_new,scene19,EventNpc_wjd_wjd_005" style="HLStype1">宴会场所</a>暗袭血海
+interactinfo_60033=与<a href="findnpc_new,scene19,npc_wjd_wjd_001" style="HLStype1">周云天</a>交谈
+interactinfo_60034=回复<a href="findnpc_new,scene19,npc_wjd_wjd_001" style="HLStype1">周云天</a>，将舞姬的真实身份告之
+interactinfo_60035=血海已死，等待各方的反应
+interactinfo_60036=血海被袭一事已经引起柳生次郎怀疑，并派人抓捕，与<a href="findnpc_new,scene19,npc_wjd_wjd_001" style="HLStype1">周云天</a>商议计策
+interactinfo_60037=请求<a href="findnpc_new,scene19,npc_wjd_wjd_001" style="HLStype1">周云天</a>安排舞姬
+interactinfo_60038=向<a href="findnpc_new,scene19,npc_wjd_wjd_003" style="HLStype1">柳生次郎</a>解释血海被袭一事
+interactinfo_60040=柳生次郎传唤，不知所为何事，前去听从<a href="findnpc_new,scene19,npc_wjd_wjd_003" style="HLStype1">柳生次郎</a>吩咐
+interactinfo_60041=前往<a href="findnpc_new,scene19,EventNpc_wjd_wjd_006" style="HLStype1">造船厂</a>监督生死判弟子造船（此任务无法多人同时触发）
+interactinfo_60042=听<a href="findnpc_new,scene19,npc_wjd_wjd_001" style="HLStype1">周云天</a>定计，设法铲除卖国求荣的武者
+interactinfo_60043=找<a href="findnpc_new,scene19,npc_wjd_wjd_002" style="HLStype1">周荣</a>将假情报盖章
+interactinfo_60044=将伪造的情报交给<a href="findnpc_new,scene19,npc_wjd_wjd_003" style="HLStype1">柳生次郎</a>，借机铲除卖国求荣的武者
+interactinfo_60045=回复<a href="findnpc_new,scene19,npc_wjd_wjd_003" style="HLStype1">柳生次郎</a>
+interactinfo_60046=向<a href="findnpc_new,scene19,npc_wjd_wjd_001" style="HLStype1">周云天</a>问计
+interactinfo_60048=听<a href="findnpc_new,scene19,npc_wjd_wjd_003" style="HLStype1">柳生次郎</a>交代任务
+interactinfo_60049=与<a href="findnpc_new,scene19,npc_wjd_wjd_001" style="HLStype1">周云天</a>商议，避免屠杀村民一事
+interactinfo_60050=请<a href="findnpc_new,scene19,npc_wjd_wjd_002" style="HLStype1">周荣</a>伪装现场
+interactinfo_60051=将事先编好的理由回复<a href="findnpc_new,scene19,npc_wjd_wjd_003" style="HLStype1">柳生次郎</a>
+interactinfo_60052=与<a href="findnpc_new,scene19,npc_wjd_wjd_001" style="HLStype1">周云天</a>商议偷取海图一事
+interactinfo_60053=询问<a href="findnpc_new,scene19,npc_wjd_wjd_001" style="HLStype1">周云天</a>海图的真伪
+interactinfo_60054=往<a href="findnpc_new,scene19,EventNpc_wjd_wjd_008" style="HLStype1">码头</a>逃亡（身上需保留两个任务道具空格）
+interactinfo_60056=想起周云天的请求，还是去<a href="findnpc_new,scene19,EventNpc_wjd_wjd_009" style="HLStype1">周荣住处</a>看下情况吧，以免遭遇什么不测
+interactinfo_60057=海图已经到手，迅速离开，前往<a href="findnpc_new,scene19,EventNpc_wjd_wjd_010" style="HLStype1">码头</a>，准备离开无极岛（此任务无法多人同时触发）
+interactinfo_60058=将<a href="TASK_ITEM,item_wjd_wjd_013" style="HLStype1">情报</a>交给<a href="findnpc_new,school01,WorldNpc04103" style="HLStype1">缪樱</a>
+interactinfo_60059=使用<a href="TASK_ITEM,item_wjd_wjd_002" style="HLStype1">解药</a>将<a href="findnpc_new,scene17,npc_wjd_wjd_004" style="HLStype1">柳生无恙</a>唤醒，并找理由蒙骗过去
+okmenu_60007=<font face="Default" color="#ffffff" >不过是区区首级，在下片刻便回。还请阁下看看我的本事。</font>
+okmenu_60009=<font face="Default" color="#ffffff" >是在下心急了，多谢前辈提醒。</font>
+okmenu_60012=<font face="Default" color="#ffffff" >使者大人，在下多方刺探，却收获甚微。这该如何？</font>
+okmenu_60013=<font face="Default" color="#ffffff" >我这就去</font>
+okmenu_60014=<font face="Default" color="#ffffff" >哈哈哈！以后还望使者大人多多提携。</font>
+okmenu_60015=<font face="Default" color="#ffffff" >好，事不宜迟，我这就出发</font>
+okmenu_60016=<font face="Default" color="#ffffff" >唉，</font><font face="Default" color="#ffffff" >或许</font><font face="Default" color="#ffffff" >是</font><font face="Default" color="#ffffff" >这</font><font face="Default" color="#ffffff" >酒</font><font face="Default" color="#ffffff" >太烈</font><font face="Default" color="#ffffff" >，</font><font face="Default" color="#ffffff" >在下如今也是头晕眼花。</font>
+okmenu_60017=<font face="Default" color="#ffffff" >幸不辱命，这是</font><font face="Default" color="#ffffff" >在下复制的</font><font face="Default" color="#ffffff" >信件</font><font face="Default" color="#ffffff" >。</font>
+okmenu_60018=<font face="Default" color="#ffffff" >此等人，如此杀了当真便宜了他！</font>
+okmenu_60019=<font face="Default" color="#ffffff" >柳望生还透露军中藏有两个内奸，分别名为无涯和无痕，望前辈早做打算</font><font face="Default" color="#ffffff" >。</font>
+okmenu_60021=<font face="Default" color="#ffffff" >唉，你不妨考虑下，</font><font face="Default" color="#ffffff" >在下先告辞了。</font>
+okmenu_60022=<font face="Default" color="#ffffff" >柳生家族实力强悍，若是当真加入，荣华富贵功名利禄只怕是少不了你的。</font>
+okmenu_60023=<font face="Default" color="#ffffff" >此次在下</font><font face="Default" color="#ffffff" >拜访了几个好友，其中有人已经</font><font face="Default" color="#ffffff" >有所</font><font face="Default" color="#ffffff" >心动，</font><font face="Default" color="#ffffff" >只是未能得到大人首肯，如今仍有些摇摆不定</font><font face="Default" color="#ffffff" >，</font><font face="Default" color="#ffffff" >只要在下</font><font face="Default" color="#ffffff" >继续游说，</font><font face="Default" color="#ffffff" >他们定会前来，</font><font face="Default" color="#ffffff" >请家主放心。</font>
+okmenu_60024=<font face="Default" color="#ffffff" >前辈放心，信物在下已经亲手交给紫旗旗主，此事并无他人知晓。</font>
+okmenu_60026=
+okmenu_60027=<font face="Default" color="#ffffff" >言之有理，柳生次郎还真是打的好算盘啊</font>
+okmenu_60029=<font face="Default" color="#ffffff" >在下定会尽力而为。</font>
+okmenu_60030=<font face="Default" color="#ffffff" >如此，那我就恭候阁下大驾光临。</font>
+okmenu_60033=<font face="Default" color="#ffffff" >此人能救在下于危难，想必是友非敌，不过她究竟是何身份，在下还需打探一番。</font>
+okmenu_60034=<font face="Default" color="#ffffff" >是啊</font>
+okmenu_60036=<font face="Default" color="#ffffff" >若真暴露了，那舞姬</font><font face="Default" color="#ffffff" >也定会受到牵连</font><font face="Default" color="#ffffff" >，还望前辈</font><font face="Default" color="#ffffff" >能妥当</font><font face="Default" color="#ffffff" >安排</font><font face="Default" color="#ffffff" >。</font>
+okmenu_60037=<font face="Default" color="#ffffff" >如此我就放心了</font>
+okmenu_60038=<font face="Default" color="#ffffff" >大人明察！那</font><font face="Default" color="#ffffff" >血海乃是假意投靠，</font><font face="Default" color="#ffffff" >就是为了混入我柳生家中，刺探情报，在下有书信一封可做证明，还请大人一看，便知事情原委。</font>
+okmenu_60040=<font face="Default" color="#ffffff" >遵大人令！</font>
+okmenu_60042=<font face="Default" color="#ffffff" >一切就依前辈计划行事。</font>
+okmenu_60043=<font face="Default" color="#ffffff" >此事还望周兄保密。</font>
+okmenu_60044=<font face="Default" color="#ffffff" >是，</font><font face="Default" color="#ffffff" >大人！</font>
+okmenu_60045=<font face="Default" color="#ffffff" >大人放心，没有一个人逃掉！</font>
+okmenu_60046=<font face="Default" color="#ffffff" >多谢前辈相助。</font>
+okmenu_60048=<font face="Default" color="#ffffff" >遵大人命！</font>
+okmenu_60049=<font face="Default" color="#ffffff" >好，我这就去准备</font>
+okmenu_60050=<font face="Default" color="#ffffff" >既如此，还要劳烦周兄出手了。</font>
+okmenu_60051=<font face="Default" color="#ffffff" >在下能逃出生天也属侥幸。只是那几名足轻兄弟却无此运气。</font>
+okmenu_60052=<font face="Default" color="#ffffff" >恩，</font><font face="Default" color="#ffffff" >在下这便回去，寻找机会盗取海图。</font>
+okmenu_60053=<font face="Default" color="#ffffff" >那我们如今该如何是好？</font>
+okmenu_60058=<font face="Default" color="#ffffff" >既然如此，</font><font face="Default" color="#ffffff" >在下告辞！</font>
+story_60002_1=<font face="Default" color="#ffffff" >如今柳生家</font><font face="Default" color="#ffffff" >派出大量人士驻扎于无极岛，想必这些倭寇已经获得了大明海图。</font><font face="Default" color="#ffffff" >有此海图，他们就可以挥军出海，</font><font face="Default" color="#ffffff" >直入我大明海域，四处侵占。</font>
+story_60002_2=<font face="Default" color="#ffffff" >海图如此珍贵，只怕东瀛倭寇无力复制另一份，只要我们能将海图偷出，这些倭寇必定无计可施。而且若是我们能将倭寇在东海之中的势力部署也一并偷到，进</font><font face="Default" color="#ffffff" >可攻</font><font face="Default" color="#ffffff" >退</font><font face="Default" color="#ffffff" >可守，掌握主动权</font><font face="Default" color="#ffffff" >。只是</font><font face="Default" color="#ffffff" >如何混进柳生家族，你</font><font face="Default" color="#ffffff" >还需</font><font face="Default" color="#ffffff" >去找我义子周荣</font><font face="Default" color="#ffffff" >商议</font><font face="Default" color="#ffffff" >。</font>
+story_60003_1=<font face="Default" color="#ffffff" >义父叫你过来想必是希望你潜入柳生家族吧。唉，我本是孤儿，偶然情况下被义父收养，义父妻儿皆被倭寇所杀，为了报复，</font><font face="Default" color="#ffffff" >只得</font><font face="Default" color="#ffffff" >以身犯险，前来无极岛当内应。希望你能尽力帮助义父。</font>
+story_60003_2=<font face="Default" color="#ffffff" >如此就多谢了，想要打入柳生家族内部，就必须取得柳生次郎的信任，如今有不少大明武者投靠柳生家族，你不妨也假扮成投靠的武者，试试能否混进去。</font>
+story_60004_1=<font face="Default" color="#ffffff" >哈</font><font face="Default" color="#ffffff" >哈</font><font face="Default" color="#ffffff" >哈，我</font><font face="Default" color="#ffffff" >又岂会像你一样不堪！</font><font face="Default" color="#ffffff" >要知道为了入侵</font><font face="Default" color="#ffffff" >大明江山</font><font face="Default" color="#ffffff" >，我们</font><font face="Default" color="#ffffff" >柳生一族可是</font><font face="Default" color="#ffffff" >做好了万全的准备，不管是</font><font face="Default" color="#ffffff" >在</font><font face="Default" color="#ffffff" >朝廷</font><font face="Default" color="#ffffff" >之中</font><font face="Default" color="#ffffff" >还是</font><font face="Default" color="#ffffff" >在</font><font face="Default" color="#ffffff" >武林</font><font face="Default" color="#ffffff" >之</font><font face="Default" color="#ffffff" >中，可都有我们</font><font face="Default" color="#ffffff" >柳生家</font><font face="Default" color="#ffffff" >的探子</font><font face="Default" color="#ffffff" >。</font>
+story_60004_2=<font face="Default" color="#ffffff" >那是当然</font><font face="Default" color="#ffffff" >！家主其智只怕也不输于你们中原古代的名士诸葛亮了！哈哈哈！</font>
+story_60005_1=<font face="Default" color="#ffffff" >如果这个内奸不能及早清理掉，</font><font face="Default" color="#ffffff" >只怕我等身份，早晚有一日会被暴露。</font>
+story_60005_2=<font face="Default" color="#ffffff" >当务之急是先确认内奸的身份，身为内奸，肯定需要传递消息，那么在线人身上肯定有他们交流的信件，你要想法子把信件拿来</font><font face="Default" color="#ffffff" >。</font>
+story_60006_1=<font face="Default" color="#ffffff" >原来是大人驾到！在下有失远迎！</font><font face="Default" color="#ffffff" >不知大人</font><font face="Default" color="#ffffff" >此来所为何事？在下</font><font face="Default" color="#ffffff" >定</font><font face="Default" color="#ffffff" >当</font><font face="Default" color="#ffffff" >知无不言，言无不尽</font><font face="Default" color="#ffffff" >。</font>
+story_60006_2=<font face="Default" color="#ffffff" >大人冤枉啊，</font><font face="Default" color="#ffffff" >在下的情报可是</font><font face="Default" color="#ffffff" >两位潜伏在中原的大人传回来的</font><font face="Default" color="#ffffff" >，在下可以保证，这情报与两位大人传回的情报一致，绝无半点差错啊。</font><font face="Default" color="#ffffff" >而且此次潜伏在军中的无涯和无痕两位大人还传来信息，</font><font face="Default" color="#ffffff" >说大明</font><font face="Default" color="#ffffff" >朝廷即将运送一批货物前往东海，让我们早做准备。</font>
+story_60007_1=<font face="Default" color="#ffffff" >不知道你有何事啊？</font>
+story_60007_2=<font face="Default" color="#ffffff" >此事甚好，我柳生家族</font><font face="Default" color="#ffffff" >此番正是用人之际</font><font face="Default" color="#ffffff" >，如若真如你所说，必定重重有赏（以防万一，还是派人跟着看看）</font>
+story_60008_1=<font face="Default" color="#ffffff" >而今东海盛传，说清音壁弟子柳望生乃是被你所杀，可有此事？</font>
+story_60008_2=<font face="Default" color="#ffffff" >哦？他</font><font face="Default" color="#ffffff" >竟发现了</font><font face="Default" color="#ffffff" >你</font><font face="Default" color="#ffffff" >的身份？</font><font face="Default" color="#ffffff" >（难得我猜错了，此人真的不是大明的内奸）既然如此，</font><font face="Default" color="#ffffff" >此事就此作罢。只是下次莫要再有这等打草惊蛇之举。对了，</font><font face="Default" color="#ffffff" >我</font><font face="Default" color="#ffffff" >在此</font><font face="Default" color="#ffffff" >举办宴会</font><font face="Default" color="#ffffff" >招待无极岛上的众多好手</font><font face="Default" color="#ffffff" >，你</font><font face="Default" color="#ffffff" >也</font><font face="Default" color="#ffffff" >一起来吧</font><font face="Default" color="#ffffff" >。</font>
+story_60009_1=<font face="Default" color="#ffffff" >哈哈</font><font face="Default" color="#ffffff" >哈</font><font face="Default" color="#ffffff" >，</font><font face="Default" color="#ffffff" >想不到竟会有</font><font face="Default" color="#ffffff" >血刀堂弟子前来投靠，我柳生家族又添一员虎将</font><font face="Default" color="#ffffff" >！</font>
+story_60009_2=<font face="Default" color="#ffffff" >无须担心，</font><font face="Default" color="#ffffff" >此人因在中原犯下无数血案，为中原武林所不容，是以前来投靠，以后你们要好好合作</font><font face="Default" color="#ffffff" >才是！</font>
+story_60010_1=<font face="Default" color="#ffffff" >不过是</font><font face="Default" color="#ffffff" >举手之劳，何足挂齿。</font>
+story_60010_2=<font face="Default" color="#ffffff" >你如此忍辱负重投身柳生家族，若是就此被袭，不但毫无作用，还要背负贼寇之命，在下是以才出手相救。</font>
+story_60010_3=<font face="Default" color="#ffffff" >在下乃是念罗坝弟子，因见东瀛倭寇侵我大明江山，杀我中原百姓，特禀明师门，</font><font face="Default" color="#ffffff" >乔装打扮</font><font face="Default" color="#ffffff" >前来无极岛</font><font face="Default" color="#ffffff" >探听情报</font><font face="Default" color="#ffffff" >。</font>
+story_60011_1=<font face="Default" color="#ffffff" >此时还是不能放松警惕，柳生次郎肯定没那么容易相信，以后需要更加小心了</font>
+story_60011_2=<font face="Default" color="#ffffff" >我去寻她之时，已是人去屋空，想必她早已得到消息，就此离去了。</font>
+story_60012_1=<font face="Default" color="#ffffff" >唉</font><font face="Default" color="#ffffff" >！想不到此间竟有此次波折！你也不必太过懊恼！</font><font face="Default" color="#ffffff" >如今我已将生死判门人安置妥当，</font><font face="Default" color="#ffffff" >你可放心了。</font>
+story_60012_2=<font face="Default" color="#ffffff" >这也怪不得你，此事我也有责任，我们没有调查清楚就贸然出手，实在有点莽撞了</font>
+story_60013_1=<font face="Default" color="#ffffff" >哼，你说吧，枉我如此信任你，你居然吃里爬外，我倒要看看你到底能说出什么来</font><font face="Default" color="#ffffff" >！</font>
+story_60013_2=<font face="Default" color="#ffffff" >你有</font><font face="Default" color="#ffffff" >何</font><font face="Default" color="#ffffff" >证据能证明</font><font face="Default" color="#ffffff" >你所说之事乃是真的</font><font face="Default" color="#ffffff" >？</font>
+story_60014_1=<font face="Default" color="#ffffff" >没事没事，这隐卫招招险恶，这套路在下并未见过，看来不是我中原人士。不知此次行刺我有何目的。</font>
+story_60014_2=<font face="Default" color="#ffffff" >  什么？</font><font face="Default" color="#ffffff" >卓北他又回来了？怪不得这些天，江湖有些人行踪诡异，都往西域赶去；卓北他们现在在哪？</font>
+story_menu_60002=<font face="Default" color="#ffffff" >如今东海倭寇态势如何？</font>
+story_menu_60003=<font face="Default" color="#ffffff" >周兄，周前辈让我过来找你</font>
+story_menu_60004=<font face="Default" color="#ffffff" >不知道使者大人可否有所收获？</font>
+story_menu_60005=<font face="Default" color="#ffffff" >什么，清音壁居然出了内奸，</font><font face="Default" color="#ffffff" >若真如此，只怕事态有些严重了。</font>
+story_menu_60006=<font face="Default" color="#ffffff" >在下</font><font face="Default" color="#ffffff" >奉</font><font face="Default" color="#ffffff" >柳生一族</font><font face="Default" color="#ffffff" >之命前来</font><font face="Default" color="#ffffff" >查问</font><font face="Default" color="#ffffff" >，</font><font face="Default" color="#ffffff" >此乃柳生家</font><font face="Default" color="#ffffff" >信物</font><font face="Default" color="#ffffff" >！</font>
+story_menu_60007=<font face="Default" color="#ffffff" >大人</font><font face="Default" color="#ffffff" >，在下有事禀报。</font>
+story_menu_60008=<font face="Default" color="#ffffff" >不知</font><font face="Default" color="#ffffff" >大人召见，有何吩咐？</font>
+story_menu_60009=<font face="Default" color="#ffffff" >不知</font><font face="Default" color="#ffffff" >大人为</font><font face="Default" color="#ffffff" >何事如此高兴</font><font face="Default" color="#ffffff" >？</font>
+story_menu_60010=<font face="Default" color="#ffffff" >上次</font><font face="Default" color="#ffffff" >之</font><font face="Default" color="#ffffff" >情</font><font face="Default" color="#ffffff" >多谢姑娘相助！</font>
+story_menu_60011=<font face="Default" color="#ffffff" >总算是有惊无险，暂时骗过了柳生次郎</font>
+story_menu_60012=<font face="Default" color="#ffffff" >前辈，</font><font face="Default" color="#ffffff" >此事……</font>
+story_menu_60013=<font face="Default" color="#ffffff" >大人</font><font face="Default" color="#ffffff" >，请容</font><font face="Default" color="#ffffff" >在下</font><font face="Default" color="#ffffff" >解释</font><font face="Default" color="#ffffff" >。</font>
+story_menu_60014=<font face="Default" color="#ffffff" >盟主你没事吧？</font>
+storyinfo_60002=听<a href="findnpc_new,scene19,npc_wjd_wjd_001" style="HLStype1">周云天</a>讲述缘由
+storyinfo_60003=找<a href="findnpc_new,scene19,npc_wjd_wjd_002" style="HLStype1">周荣</a>了解潜入无极岛的方法
+storyinfo_60004=找到<a href="findnpc_new,scene17,npc_wjd_wjd_004" style="HLStype1">柳生家线人</a>套话
+storyinfo_60005=与<a href="findnpc_new,scene19,npc_wjd_wjd_001" style="HLStype1">周云天</a>商量计策
+storyinfo_60006=设法套取<a href="findnpc_new,scene16,npc_wjd_wjd_005" style="HLStype1">柳望生</a>的情报
+storyinfo_60007=向<a href="findnpc_new,scene19,npc_wjd_wjd_003" style="HLStype1">柳生次郎</a>辞行前往大明
+storyinfo_60008=向<a href="findnpc_new,scene19,npc_wjd_wjd_003" style="HLStype1">柳生次郎</a>解释
+storyinfo_60009=听<a href="findnpc_new,scene19,npc_wjd_wjd_003" style="HLStype1">柳生次郎</a>介绍血海的事迹
+storyinfo_60010=前往<a href="findnpc_new,scene19,npc_wjd_wjd_007" style="HLStype1">舞姬</a>处，探听她的真实身份
+storyinfo_60011=询问<a href="findnpc_new,scene19,npc_wjd_wjd_001" style="HLStype1">周云天</a>舞姬的动向
+storyinfo_60012=听<a href="findnpc_new,scene19,npc_wjd_wjd_001" style="HLStype1">周云天</a>讲述情况
+storyinfo_60013=向<a href="findnpc_new,scene19,npc_wjd_wjd_003" style="HLStype1">柳生次郎</a>解释，重新获得信任
+storyinfo_60014=找到<a href="findnpc_new,born03,waiyuwulin_002" style="HLStype1">林天南</a>，到底发生了什么事
+storymenu_60002_1=<font face="Default" color="#ffffff" >若真如此，沿海百姓只怕危矣。</font>
+storymenu_60002_2=<font face="Default" color="#ffffff" >此举为国为民，在下义不容辞！</font>
+storymenu_60003_1=<font face="Default" color="#ffffff" >于公于私，我都会全力帮你义父达成心愿</font><font face="Default" color="#ffffff" >。</font>
+storymenu_60003_2=<font face="Default" color="#ffffff" >既然如此，事不宜迟，</font><font face="Default" color="#ffffff" >在下这便动身。</font>
+storymenu_60004_1=<font face="Default" color="#ffffff" >柳生一族果然深谋远虑，有家主如此高明的计策，大明江山迟早易主。</font>
+storymenu_60004_2=<font face="Default" color="#ffffff" >那是那是！就连使者大人也是万分厉害，在下还毫无收获，使者大人便已经对东海的中原人士动向了如指掌了。</font>
+storymenu_60005_1=<font face="Default" color="#ffffff" >不知前辈有何妙计？</font>
+storymenu_60005_2=<font face="Default" color="#ffffff" >只是那使者行事谨慎，在下恐怕一时之间难以成功。</font>
+storymenu_60006_1=<font face="Default" color="#ffffff" >如此</font><font face="Default" color="#ffffff" >最好不过，由于你上报的情报有误，导致此次家族损失惨重，家主对此很是不满</font><font face="Default" color="#ffffff" >！</font>
+storymenu_60006_2=<font face="Default" color="#ffffff" >此事我已知晓，家主还有一项命令给你，</font><font face="Default" color="#ffffff" >我在隐蔽之处等你</font><font face="Default" color="#ffffff" >，速速</font><font face="Default" color="#ffffff" >过来！</font>
+storymenu_60007_1=<font face="Default" color="#ffffff" >在下</font><font face="Default" color="#ffffff" >在中原</font><font face="Default" color="#ffffff" >武林也有</font><font face="Default" color="#ffffff" >些</font><font face="Default" color="#ffffff" >至交好友</font><font face="Default" color="#ffffff" >，</font><font face="Default" color="#ffffff" >如今柳生家族广受人才，在下请命前往中原大地，为大人招揽一些人才，以壮大我柳生一族的实力。</font>
+storymenu_60007_2=<font face="Default" color="#ffffff" >既如此，那在下这便动身。</font>
+storymenu_60008_1=<font face="Default" color="#ffffff" >大人明察，这</font><font face="Default" color="#ffffff" >柳望生对</font><font face="Default" color="#ffffff" >在下的身份</font><font face="Default" color="#ffffff" >有所</font><font face="Default" color="#ffffff" >察觉，想要揭发在下已经投靠柳生家族之事，在下不得已只能将其攻克，没想到竟然被发现了，不知在下这冒失之举可是对大人的计划造成了影响？</font>
+storymenu_60008_2=<font face="Default" color="#ffffff" >多谢大人栽培。</font>
+storymenu_60009_1=<font face="Default" color="#ffffff" >恭喜</font><font face="Default" color="#ffffff" >大人</font><font face="Default" color="#ffffff" >！只是此人冒然来投，不知可信否？</font>
+storymenu_60009_2=<font face="Default" color="#ffffff" >为</font><font face="Default" color="#ffffff" >大人</font><font face="Default" color="#ffffff" >办事，</font><font face="Default" color="#ffffff" >在下</font><font face="Default" color="#ffffff" >义不容辞</font>
+storymenu_60010_1=<font face="Default" color="#ffffff" >不知姑娘因何救我？</font>
+storymenu_60010_2=<font face="Default" color="#ffffff" >看来姑娘也是</font><font face="Default" color="#ffffff" >大义之人！</font><font face="Default" color="#ffffff" >不瞒姑娘，</font><font face="Default" color="#ffffff" >在下乃是为了</font><font face="Default" color="#ffffff" >柳生家的海图而来</font><font face="Default" color="#ffffff" >。</font><font face="Default" color="#ffffff" >此次看到血刀堂弟子投靠，是以冒险将其攻克</font><font face="Default" color="#ffffff" >。</font>
+storymenu_60010_3=<font face="Default" color="#ffffff" >姑娘高义，让人敬佩</font>
+storymenu_60011_1=<font face="Default" color="#ffffff" >在下明白</font><font face="Default" color="#ffffff" >，不知道舞姬如何了</font>
+storymenu_60011_2=<font face="Default" color="#ffffff" >吉人自有天相，希望她能平安无事。</font>
+storymenu_60012_1=<font face="Default" color="#ffffff" >虽说如此，可是一想到亲手攻克了一个义士，我实在是--实在是</font><font face="Default" color="#ffffff" >……</font><font face="Default" color="#ffffff" >啊</font><font face="Default" color="#ffffff" >！</font><font face="Default" color="#ffffff" >（仰天大吼）</font>
+storymenu_60012_2=<font face="Default" color="#ffffff" >前辈放心，我不会因为此事而一蹶不振的，我不能让血海白死，只要拿到海图，一切付出都是值得的</font>
+storymenu_60013_1=<font face="Default" color="#ffffff" >在下对大人，对柳生家都是忠心耿耿，只因此事隐秘，在下一时之间，怕消息泄露，所以只能如此。在下</font><font face="Default" color="#ffffff" >偶然听闻有人意图偷取海图，为了不打草惊蛇，于是就将计就计，偷取海图后引出幕后之人，好将其一网打尽</font><font face="Default" color="#ffffff" >。此事未能及时禀明大人，还望大人恕罪。</font>
+storymenu_60013_2=<font face="Default" color="#ffffff" >在下为大人取得密谋此事之人的首级，还有大明密令在此，请大人过目。</font>
+SubmitNpcEx_70032=获得令牌
+SubmitNpcEx_70034=找到林梁，领取奖励
+SubmitNpcEx_70035=找到林梁，领取奖励
+SubmitNpcEx_70039=找到林梁，领取奖励
+storymenu_60014_1=<font face="Default" color="#ffffff" >  盟主，他们是外域武林的隐卫，卓北带着大批高手又杀回来了！</font>
+storymenu_60014_2=<font face="Default" color="#ffffff" >  在下在苏州城遇到一个恶人谷前来报信的弟子，他说卓北已经攻到恶人谷了！还请盟主支援！</font>
+useiteminfo_60009=使用包裹中“祈福结”，许下新年愿望
+useiteminfo_60010=使用包裹内的“祈福结”，许下新年愿望
+useiteminfo_60011=使用包裹内的“祈福结”
+SubmitNpcEx_70040=找到林梁，领取奖励
+specialinfo_1132=需和自己的同行好友完成一次“仗剑同行”。（需要邀请人队长自己接取仗剑任务才能完成。）
+specialinfo_1133=需挫败任意一个势力。
+specialinfo_1134=需完成1次团练且疲劳度达到100%。
+specialinfo_1135=需江湖散擂胜利5次。
+specialinfo_1136=实力在略有小成到炉火纯青（一阶）需通过任意难度暮色之村禁地1次。
+specialinfo_1137=实力在出类拔萃到出神入化（二阶）需通过任意难度青云堡禁地1次。
+specialinfo_1138=实力在傲视群雄到无与伦比（三阶）需通过任意难度青云堡禁地1次。
+specialinfo_1139=实力在所向披靡到惊世骇俗（四阶）需通过任意难度龙门客栈禁地1次。
+specialinfo_1140=实力在撼天动地到空前绝后（五阶）需通过任意难度雁门关守军线禁地1次。
+specialinfo_1141=实力在天人合一以上（六阶）需通过任意难度雁门关守军线禁地1次。
+SubmitNpcEx_70041=前往各大主城节日活动大使林梁处提交任务领取奖励。
+SubmitNpcEx_70042=前往各大主城的节日活动大使林梁处提交任务领取奖励。
+SubmitNpcEx_70043=前往各大主城的节日活动大使林梁处提交任务领取奖励。
+SubmitNpcEx_70044=前往各大主城的节日活动大使林梁处提交任务领取奖励。
+SubmitNpcEx_70045=前往各大主城的节日活动大使林梁处提交任务领取奖励。
+SubmitNpcEx_70046=前往各大主城的节日活动大使林梁处提交任务领取奖励。
+SubmitNpcEx_70803=前往<a href="findnpc_new,born02,yywl_gujjztz_001" style="HLStype1">葛林（叫阵挑战报名者）</a>获取奖励
+hunterinfo_60009=可通过<a href="findnpc_new,born02,yywl_gujjztz_001" style="HLStype1">葛林（叫阵挑战报名者）</a>前往参加“叫阵挑战”活动，并取得最终胜利
+specialinfo_1142=前往<a href="findnpc_new,born02,wywl_sneakon_001" style="HLStype1">谭兆飞</a>处完成情报收集活动
+specialinfo_1143=前往<a href="findnpc_new,born02,wywl_sneakon_002" style="HLStype1">郭亚健</a>处完成营救人质活动
+
+interactinfo_60065=与<a href="findnpc_new,born03,EventNpc_ruqin_wy_001" style="HLStype1">林天南</a>交谈
+
+interactinfo_60903=去内外谷交界处探查（820，300 附近），看看到底发生了什么事
+interactinfo_60904=攻克目标
+interactinfo_60905=寻找追杀者。
+interactinfo_60906=按照要求收集或使用物品，帮助目标逃脱追杀（请保证包裹存在可用空格）
+interactinfo_60907=在区域附近寻找合适方法，帮目标清理痕迹或者通风报信，寻求帮助。
+interactinfo_60908=击败目标
+interactinfo_60909=在周围区域寻找指定物件或与指定人物交互以完成事件
+interactinfo_60910=在周围区域寻找指定物件或与指定人物交互以完成事件。
+interactinfo_60911=在周围区域寻找指定物件或与指定人物交互以完成事件。
+interactinfo_60913=攻克目标
+interactinfo_60914=在周围区域寻找指定物件或与指定人物交互以完成事件。
+interactinfo_60915=在周围区域寻找指定物件或与指定人物交互以完成事件。
+interactinfo_60916=攻克全部目标
+interactinfo_60919=去侠客岭（420 360 附近）查看
+interactinfo_60920=前往内谷（935 183 附近）查看
+
+SubmitNpcEx_70903=做出抉择
+SubmitNpcEx_70904=攻克目标
+SubmitNpcEx_70905=静观其变
+SubmitNpcEx_70906=回去复命
+SubmitNpcEx_70907=回去复命
+SubmitNpcEx_70908=击败目标
+SubmitNpcEx_70909=按照自己的意愿处理此事
+SubmitNpcEx_70910=恰当地处理此事
+SubmitNpcEx_70911=达到自己目的
+SubmitNpcEx_70913=攻克目标
+SubmitNpcEx_70914=找人通报此事
+SubmitNpcEx_70915=按目标要求完成此事
+SubmitNpcEx_70916=攻克全部目标
+SubmitNpcEx_70919=做出抉择
+SubmitNpcEx_70920=做出抉择
+SubmitNpcEx_70921=回<a href="findnpc_new,born02,juqingxiang_001" style="HLStype1">程鸿</a>处报个信
+
+DialogID_60067=<font face="Default" color="#ffffff" >我先给你一坛酒尝尝，您要是觉得喜欢，就帮我做点儿小事，我有更多的好酒等您来品。</font>
+okmenu_60067=<font face="Default" color="#ffffff" >甚好，甚好啊！</font>
+interactinfo_60067=与<a href="findnpc_new,city02,hd_qm_mutong" style="HLStype1">胡小栋</a>交谈
+collectinfo_60033=根据林琅的线索，前往寒山寺寻找潇湘八景图的残本，听线报说或在高处
+collectinfo_60034=根据林琅的线索，前往风铃别院寻找潇湘八景图的残本，听线报说或在高处
+collectinfo_60035=根据林琅的线索，前往拥翠山庄寻找潇湘八景图的残本，听线报或在塔楼之中
+collectinfo_60036=根据林琅的线索，前往碧螺岛寻找潇湘八景图的残本，听线报说或在房檐之下
+SubmitNpcEx_70047=找<a href="findnpc_new,city02,hd_qm_mutong" style="HLStype1">胡小栋</a>提交任务
+specialinfo_1144=挫败任意势力一次
+
+SubmitNpcEx_70049=与<a href="findnpc_new,city02,hd_shcx_001" style="HLStype1">周扬军(百晓生传人)</a>交谈。
+SubmitNpcEx_70050=经过高人一番指点必定有所收获，回去找<font face="Default" color="#EE0000" >林梁</font>吧。
+okmenu_60068=<font face="Default" color="#ffffff" >如此便谢过了。</font>
+okmenu_60069=<font face="Default" color="#ffffff" >如此便谢过前辈了</font><font face="Default" color="#ffffff" >，晚辈自当谨记于心。</font>
+okmenu_60070=<font face="Default" color="#ffffff" >如此便谢过前辈了，晚辈自当谨记于心。</font>
+okmenu_60071=<font face="Default" color="#ffffff" >如此便谢过前辈了，晚辈自当谨记于心。</font>
+okmenu_60072=<font face="Default" color="#ffffff" >如此便谢过前辈了，晚辈自当谨记于心。</font>
+okmenu_60073=<font face="Default" color="#ffffff" >前辈好雅兴。</font>
+DialogID_60068=<font face="Default" color="#ffffff" >少侠好本领，这壶珍品琼浆佳酿就赠与你了。</font>
+interactinfo_60068=与活动大使林梁交谈，他有物品相赠与你。
+DialogID_60073=<font face="Default" color="#ffffff" >举杯邀明月，对影成三人。好酒，好酒。。。</font>
+DialogID_60072=<font face="Default" color="#ffffff" >世间多纷扰，生死困顿寂寥。只有这里才有片刻安宁。既然少侠你是周扬军介绍来此，还带有信物，那我便指点你一番吧。</font>
+interactinfo_60069=少侠你这佳酿着实不错，实乃佳品，为了答谢你相赠美酒，我这里有一个锦囊，且赠与你，你可带此锦囊前往苏州磨坊村附近(1308 291)寻找<font face="Default" color="#EE0000" >卜磊远(隐世高人)</font>行踪。（且勿丢失此锦囊）
+interactinfo_60070=少侠你这佳酿着实不错，实乃佳品，为了答谢你相赠美酒，我这里有一个锦囊，且赠与你，你可带此锦囊前往苏州太湖渔村附近(1596 416)寻找<font face="Default" color="#EE0000" >卜磊远(隐世高人)</font>行踪。（且勿丢失此锦囊）
+interactinfo_60071=少侠你这佳酿着实不错，实乃佳品，为了答谢你相赠美酒，我这里有一个锦囊，且赠与你，你可带此锦囊前往苏州碧螺村附近(1085 945)寻找<font face="Default" color="#EE0000" >卜磊远(隐世高人)</font>行踪。（且勿丢失此锦囊）
+interactinfo_60072=少侠你这佳酿着实不错，实乃佳品，为了答谢你相赠美酒，我这里有一个锦囊，且赠与你，你可带此锦囊前往苏州金蚕村附近(112 1340)寻找<font face="Default" color="#EE0000" >卜磊远(隐世高人)</font>行踪。（且勿丢失此锦囊）
+interactinfo_60073=与<a href="findnpc_new,city02,hd_shcx_001" style="HLStype1">周扬军(百晓生传人)</a>交谈，他爱喝酒，此刻应该在苏州酒楼二楼，带上佳酿前去找他吧。
+specialinfo_1145=通关任意禁地一次。
+specialinfo_1146=参加“恶人谷之战”并取得胜利
+SubmitNpcEx_70051=找林梁回复
+SubmitNpcEx_70053=找林梁提交任务获得奖励。
+interactinfo_60075=与林梁交谈，他有一份精美礼物相赠。
+okmenu_60075=<font face="Default" color="#ffffff" >非常感谢。</font>
+DialogID_60075=<font face="Default" color="#ffffff" >武林风起云涌，我特地为各位少侠准备了一份精美礼物。</font>
+SubmitNpcEx_70052=找苏州比武区的丁相龙提交任务领取奖励。
+interactinfo_60074=与丁相龙交谈，领取勤修争分夺秒礼盒。
+okmenu_60074=<font face="Default" color="#ffffff" >如此多谢了。</font>
+DialogID_60074=<font face="Default" color="#ffffff" >武林动荡时期，我特此为各位侠士准备了一份精美礼物。</font>
+DialogID_60069=<font face="Default" color="#ffffff" >世间多纷扰，生死困顿寂寥。只有这里才有片刻安宁。既然少侠你是周扬军介绍来此，还带有信物，那我便指点你一番</font><font face="Default" color="#ffffff" >吧</font><font face="Default" color="#ffffff" >。</font>
+DialogID_60070=<font face="Default" color="#ffffff" >世间多纷扰，生死困顿寂寥。只有这里才有片刻安宁。既然少侠你是周扬军介绍来此，还带有信物，那我便指点你一番</font><font face="Default" color="#ffffff" >吧</font><font face="Default" color="#ffffff" >。</font>
+DialogID_60071=<font face="Default" color="#ffffff" >世间多纷扰，生死困顿寂寥。只有这里才有片刻安宁。既然少侠你是周扬军介绍来此，还带有信物，那我便指点你一番吧。</font>
+specialinfo_1147=完成心魔试炼1次。
+specialinfo_1148=挫败任意势力1个。
+specialinfo_1149=通关任意禁地1次。
+specialinfo_1150=完成战场胜利1次。
+specialinfo_1151=完成天梯1次。
+SubmitNpcEx_70059=完成任务后，请前往各大主城找活动大使林梁复命
+specialinfo_1161=通关通天峰
+SubmitNpcEx_70060=与<a href="findnpc_new,city05,biaoqian_npc_01" style="HLStype1">怪老头</a>交谈
+
+SubmitNpcEx_70062=去活动大使林梁处领取奖励
+
+DialogID_60076=<font face="Default" color="#ffffff" >你前去外域武林之地，定当凶险万分，</font><font face="Default" color="#ffffff" >有我这奇异状态定当助你不被那些外域喽啰识破，一切小心行事。</font>
+interactinfo_60076=与<a href="findnpc_new,born02,hd_wyqb_01" style="HLStype1">碧叶（中原情报大使）</a>交谈，领取外域奇异状态后，前去恶人谷内外域武林周边寻找那些外域喽啰，让其送你去见那些外域小头目。
+okmenu_60076=<font face="Default" color="#ffffff" >多谢相赠，我这便前去。</font>
+collectinfo_60037=领取奇异状态后前去恶人谷内找那些外域喽啰，让其送你去见外域小头目与之划拳灌醉对方后获取外域情报。<font color="#FF3030">（这些喽啰分别分布在恶人谷（437 424），（776 423），（818 348）三个地方，注意看你身上的状态，只有对应的状态才能蒙混过关，骗过喽啰，让其帮你见他们的小头目。）</font>
+
+SubmitNpcEx_70064=去活动大使尚武处领取奖励
+SubmitNpcEx_70063=去活动大使尚武处领取奖励
+
+SubmitNpcEx_70201=按H键打开帮会主界面在【帮会气运】-【获取气运】分页提交任务
+SubmitNpcEx_70202=<a href="findnpc_new,city01,Guild_tasknpc_001" style="HLStype1">帮会任务大使（燕京）</a><br><a href="findnpc_new,city02,Guild_tasknpc_001" style="HLStype1">帮会任务大使（苏州）</a><br><a href="findnpc_new,city04,Guild_tasknpc_001" style="HLStype1">帮会任务大使（洛阳）</a><br><a href="findnpc_new,city05,Guild_tasknpc_001" style="HLStype1">帮会任务大使（成都）</a><br>
+SubmitNpcEx_70203=<a href="findnpc_new,city01,Guild_tasknpc_001" style="HLStype1">帮会任务大使（燕京）</a><br><a href="findnpc_new,city02,Guild_tasknpc_001" style="HLStype1">帮会任务大使（苏州）</a><br><a href="findnpc_new,city04,Guild_tasknpc_001" style="HLStype1">帮会任务大使（洛阳）</a><br><a href="findnpc_new,city05,Guild_tasknpc_001" style="HLStype1">帮会任务大使（成都）</a><br>
+SubmitNpcEx_70204=按H键打开帮会主界面在【帮会气运】-【获取气运】分页提交任务
+SubmitNpcEx_70205=<a href="findnpc_new,city01,Guild_tasknpc_001" style="HLStype1">帮会任务大使（燕京）</a><br><a href="findnpc_new,city02,Guild_tasknpc_001" style="HLStype1">帮会任务大使（苏州）</a><br><a href="findnpc_new,city04,Guild_tasknpc_001" style="HLStype1">帮会任务大使（洛阳）</a><br><a href="findnpc_new,city05,Guild_tasknpc_001" style="HLStype1">帮会任务大使（成都）</a><br>
+SubmitNpcEx_70206=<a href="findnpc_new,city01,Guild_tasknpc_001" style="HLStype1">帮会任务大使（燕京）</a><br><a href="findnpc_new,city02,Guild_tasknpc_001" style="HLStype1">帮会任务大使（苏州）</a><br><a href="findnpc_new,city04,Guild_tasknpc_001" style="HLStype1">帮会任务大使（洛阳）</a><br><a href="findnpc_new,city05,Guild_tasknpc_001" style="HLStype1">帮会任务大使（成都）</a><br>
+SubmitNpcEx_70207=按H键打开帮会主界面在【帮会气运】-【获取气运】分页提交任务
+
+SubmitNpcEx_70232=按H键打开帮会主界面在【帮会气运】-【获取气运】分页提交任务
+SubmitNpcEx_70233=按H键打开帮会主界面在【帮会气运】-【获取气运】分页提交任务
+SubmitNpcEx_70235=按H键打开帮会主界面在【帮会气运】-【获取气运】分页提交任务
+SubmitNpcEx_70236=按H键打开帮会主界面在【帮会气运】-【获取气运】分页提交任务
+
+okmenu_60922=<font face="Default" color="#ffffff" >原来如此</font><font face="Default" color="#ffffff" >!</font>
+okmenu_60923=<font face="Default" color="#ffffff" >受教了</font>
+okmenu_60924=<font face="Default" color="#ffffff" >确实如此</font>
+okmenu_60925=<font face="Default" color="#ffffff" >原来如此</font>
+okmenu_60926=<font face="Default" color="#ffffff" >上交5个五蕴伏魔品</font>
+DialogID_60922=<font face="Default" color="#ffffff" >重剑，重剑无锋，大巧不工，指天天崩，划地地裂。剑法讲究化繁为简，以重克轻。能够使用重剑之人必是修为上有过人之处。
+DialogID_60923=<font face="Default" color="#ffffff" >扇子，折合是可以刺、砍、挑、压、拌、点穴，打开时可以抵挡暗器，技巧型武器，不适合正面对碰。</font>
+DialogID_60924=<font face="Default" color="#ffffff" >拳刃，奇门兵器，固定于手腕或者手持，拥有快、准、狠、奇等特点，适合体术强大之人。拳刃攻守兼备，单挑下不惧任何冷兵器
+DialogID_60925=<font face="Default" color="#ffffff" >笔，灵巧型兵器，于书房中随处可见，形状类似于峨眉刺。主要用于取穴打位。俗语有云：“一寸小，一寸巧；一寸短，一寸险。”
+DialogID_60926=<font face="Default" color="#ffffff" >怎么样，少侠，想好了吗？</font>
+
+collectinfo_60202=收集铁锭（材料可由生活职业产出）
+collectinfo_60203=收集铜锭（材料可由生活职业产出）
+collectinfo_60204=收集白杨木（材料可由生活职业产出）
+collectinfo_60205=收集柏木（材料可由生活职业产出）
+collectinfo_60206=任务已优化，请放弃该任务后按H键在【帮派界面】-【气运任务】重新接取任务
+collectinfo_60207=任务已优化，请放弃该任务后按H键在【帮派界面】-【气运任务】重新接取任务
+collectinfo_60208=任务已优化，请放弃该任务后按H键在【帮派界面】-【气运任务】重新接取任务
+collectinfo_60209=任务已优化，请放弃该任务后按H键在【帮派界面】-【气运任务】重新接取任务
+collectinfo_160208=去找<a href="findnpc_new,city02,bhzc_xhq_001" style="HLStype1">苏州栖仙峰风水先生</a>，获取苏州驻地风水图。
+
+
+interactinfo_60201=完成一次帮会团练（团练时，团队内至少有一个与自己同帮的侠士）
+interactinfo_60210=完成一次勤修苦练（请去各大城镇活动大使处领取勤修苦练任务）
+interactinfo_60211=完成一次世家团队玩法（需要多名帮会成员组队参与，玩法介绍参见四大世家界面）
+specialinfo_1200=攻克敌对帮会玩家三次
+
+interactinfo_60078=帮会镖需帮会任意官员前去帮会镖师处开启。<a href="findnpc_new,city01,NPC_guild_pray_001" style="HLStype1">燕京帮会镖师</a>，<a href="findnpc_new,city02,NPC_guild_pray_002" style="HLStype1">苏州帮会镖师</a>，<a href="findnpc_new,city04,NPC_guild_pray_003" style="HLStype1">洛阳帮会镖师</a>，<a href="findnpc_new,city05,NPC_guild_pray_004" style="HLStype1">成都帮会镖师</a>。开启帮会运镖后将帮会镖车护送至中途休息处，玩家必须和镖车同时抵达休息处才能完成任务。<a href="findnpc_new,city01,EventNpc_guild_biaoche_001" style="HLStype1">燕京休息处</a>，<a href="findnpc_new,city02,EventNpc_guild_biaoche_001" style="HLStype1">苏州休息处</a>，<a href="findnpc_new,city04,EventNpc_guild_biaoche_001" style="HLStype1">洛阳休息处</a>，<a href="findnpc_new,city05,EventNpc_guild_biaoche_001" style="HLStype1">成都休息处</a>。
+interactinfo_60079=将帮会镖护送至终点,玩家必须和镖车同时抵达终点才能完成任务。<a href="findnpc_new,city01,EventNpc_guild_biaoche_002" style="HLStype1">燕京终点</a>，<a href="findnpc_new,city02,EventNpc_guild_biaoche_002" style="HLStype1">苏州终点</a>，<a href="findnpc_new,city04,EventNpc_guild_biaoche_002" style="HLStype1">洛阳终点</a>，<a href="findnpc_new,city05,EventNpc_guild_biaoche_002" style="HLStype1">成都终点</a>。
+SubmitNpcEx_70065=前往（燕京602 8 苏州583 302 金陵1796 0 洛阳1244 491 成都840 689）找到姚之毅提交任务
+
+SubmitNpcEx_70067=找各大主城活动大使林梁领取全民赠礼礼包。
+
+SubmitNpcEx_70066=前往苏州活动大使江磊处领取好礼。
+
+SubmitNpcEx_70068=挫败任意一个势力后，可前去各大主城活动大使林梁处领取奖励。
+specialinfo_1185=挫败江湖任意一个势力。
+DialogID_60213=<font face="Default" color="#ffffff" >我这就将拜帖送至各大掌门处！</font>
+SubmitNpcEx_70069=去<a href="findnpc_new,city02,WorldNpc01650" style="HLStype1">荆惠娟</a>处获取新年礼盒
+SubmitNpcEx_70070=回复<a href="findnpc_new,city02,WorldNpc01194" style="HLStype1">林天南</a>，拜帖送出之事
+interactinfo_60213=前去与<a href="findnpc_new,city02,Transcity02A" style="HLStype1">相军</a>相谈，吩咐其将拜帖送至各大掌门处
+okmenu_60213=<font face="Default" color="#ffffff" >恩</font>
+
+DialogID_60214=<font face="Default" color="#ffffff" >少侠行行好，我已经好多天没吃东西了，我饿的头晕脑胀，感觉身体都被掏空了。</font>
+DialogID_60215=<font face="Default" color="#ffffff" >节日虽然到了，我还是这么孤独，只得在此来求签算一卦了，哎，时也命也。</font>
+DialogID_60216=<font face="Default" color="#ffffff" >书中自有颜如玉，书中自有黄金屋，少侠你可是来看书的？</font>
+DialogID_60217=<font face="Default" color="#ffffff" >今朝有酒今朝醉，哇好酒，好酒，少侠你可是来给我送好酒的？</font>
+interactinfo_60214=将中秋礼盒送给在苏州酒楼门外乞讨的老叫花子<a href="findnpc_new,city02,WorldNpc01135" style="HLStype1">范一汤</a>，给他送去温暖。
+interactinfo_60215=将中秋礼盒送给在苏州酒楼门外的孤寡老人<a href="findnpc_new,city02,WorldNpc01551" style="HLStype1">徐云</a>，给她送去温暖。
+interactinfo_60216=将中秋礼盒送给在苏州城内的书斋先生<a href="findnpc_new,city02,WorldNpc01097" style="HLStype1">严伦</a>，给他送去温暖。
+interactinfo_60217=将中秋礼盒送给在苏州酒楼门外醉酒的醉汉<a href="findnpc_new,city02,WorldNpc01626" style="HLStype1">解广天</a>，给他送去温暖。
+okmenu_60214=<font face="Default" color="#ffffff" >这位大哥，您运气不错，我正好是帮酒楼掌柜给您送些中秋礼盒的。</font>
+okmenu_60215=<font face="Default" color="#ffffff" >婆婆切勿悲伤，我是替酒楼掌柜给</font><font face="Default" color="#ffffff" >您</font><font face="Default" color="#ffffff" >送些中秋礼盒，以便</font><font face="Default" color="#ffffff" >您</font><font face="Default" color="#ffffff" >度过佳节。</font>
+okmenu_60216=<font face="Default" color="#ffffff" >我是帮酒楼掌柜给</font><font face="Default" color="#ffffff" >您</font><font face="Default" color="#ffffff" >送些中秋礼盒的，请您收下。</font>
+okmenu_60217=<font face="Default" color="#ffffff" >我是帮酒楼掌柜给您送些中秋礼盒的，请您收下。</font>
+SubmitNpcEx_70075=前往各大主城活动大使林梁处领取新春大礼包。
+SubmitNpcEx_70076=前往各大主城活动大使林梁处领取新年红包。
+SubmitNpcEx_70077=前往各大主城活动林梁处领取任务奖励。
+SubmitNpcEx_70078=前往各大主城活动大使林梁处领取任务奖励。
+SubmitNpcEx_70079=找苏州书斋先生严伦领取开学好礼。
+SubmitNpcEx_70080=找苏州书斋先生严伦领取开学好礼。
+specialinfo_1211=完成2次心魔。
+specialinfo_1212=完成1次团练并疲劳到100%。
+specialinfo_1213=完成1次授业并完成度100%。
+specialinfo_1214=完成1次挫败任意一个江湖势力。
+specialinfo_1215=完成1次通关任意禁地。
+specialinfo_1216=完成1次战场首胜（古墓6v6）。
+specialinfo_1217=勤修苦练活跃度达到75（接取任务后必须要参加一次增加活跃度的活动）
+
+DialogID_60223=<font face="Default" color="#ffffff" >我这就将拜帖送至各大掌门处！</font>
+SubmitNpcEx_70405=回复<a href="findnpc_new,city02,WorldNpc01194" style="HLStype1">林天南</a>，拜帖送出之事
+interactinfo_60223=前去与<a href="findnpc_new,city02,Transcity02A" style="HLStype1">相军</a>相谈，吩咐其将拜帖送至各大掌门处
+okmenu_60223=<font face="Default" color="#ffffff" >恩</font>
+
+DialogID_60220=<font face="Default" color="#ffffff" >少侠前来所谓何事？</font>
+DialogID_60221=<font face="Default" color="#ffffff" >少侠前来所谓何事？</font>
+DialogID_60222=<font face="Default" color="#ffffff" >少侠前来所谓何事？</font>
+interactinfo_60220=前往恶人谷摘星门拜访摘星门掌门<a href="findnpc_new,born02,WorldNpc09303" style="HLStype1">苏百灵</a>，送出中原武盟令。
+interactinfo_60221=前往恶人谷素云宫拜访素云宫宫主<a href="findnpc_new,born02,erg14" style="HLStype1">云曼</a>，送出中原武盟令。
+interactinfo_60222=前往恶人谷昆仑派拜访昆仑派掌门<a href="findnpc_new,born02,WorldNpc09401" style="HLStype1">云阳子</a>，送出中原武盟令。
+okmenu_60220=<font face="Default" color="#ffffff" >我是奉九宫老人之命前来给前辈送中原武盟令的。</font>
+okmenu_60221=<font face="Default" color="#ffffff" >我是奉九宫老人之命前来给前辈送中原武盟令的。</font>
+okmenu_60222=<font face="Default" color="#ffffff" >我是奉九宫老人之命前来给前辈送中原武盟令的。</font>
+DialogID_60218=<font face="Default" color="#ffffff" >少侠可前去探查一次恶虎山寨，那边貌似有些动静。</font>
+DialogID_60219=<font face="Default" color="#ffffff" >少侠那批机关存放在恶虎山寨内，少侠前往找寻机会将其摧毁。</font>
+SubmitNpcEx_70402=回去告诉<a href="findnpc_new,city04,npc_ftask_007" style="HLStype1">石砚冰</a>情况
+SubmitNpcEx_70403=回去告诉<a href="findnpc_new,city02,WorldNpc01194" style="HLStype1">林天南</a>情况
+SubmitNpcEx_70404=回去告诉<a href="findnpc_new,born01,WorldNpc10992" style="HLStype1">孔德福</a>情况（提示：可通过<a href="findnpc_new,born01,WorldNpc_guj04yue_001" style="HLStype1">孔福</a>离开活动场景）
+hunterinfo_60022=前往<a href="findnpc_new,born01,EventNpc_guj_04yue_003" style="HLStype1">恶虎山脉</a>处进入活动场景，击败恶虎山寨护卫（可以通过<a href="findnpc_new,born01,WorldNpc_guj04yue_001" style="HLStype1">孔福</a>离开场景）
+interactinfo_60218=与<a href="findnpc_new,born01,WorldNpc10992" style="HLStype1">孔德福</a>对话获取消息（提示：可通过<a href="findnpc_new,city02,WorldNpc01194" style="HLStype1">林天南</a>直接传送至鸡鸣驿）
+interactinfo_60219=与<a href="findnpc_new,born01,WorldNpc10992" style="HLStype1">孔德福</a>对话获取消息（提示：可通过<a href="findnpc_new,city02,WorldNpc01194" style="HLStype1">林天南</a>直接传送至鸡鸣驿）
+okmenu_60218=<font face="Default" color="#ffffff" >好的</font>
+okmenu_60219=<font face="Default" color="#ffffff" >好的</font>
+specialinfo_1218=完成一次恶虎山寨踢馆。
+useiteminfo_60021=前往<a href="findnpc_new,born01,EventNpc_guj_04yue_002" style="HLStype1">恶虎山脉</a>处，使用<a href="TASK_ITEM,useitem_guj_04yueguj001" style="HLStype1">炸药</a>将机关炸毁
+hunterinfo_60023=与<a href="findnpc_new,city04,npc_ftask_007" style="HLStype1">石砚冰</a>进行一次棋艺切磋
+collectinfo_60907=收集<a href="findnpc_new,," style="HLStype1"></a>五蕴伏魔品
+SubmitNpcEx_70087=回禀身在洛阳的<a href="findnpc_new,city04,npc_ftask_002" style="HLStype1">九宫老人</a>。
+collectinfo_60039=除去马场上的<a href="findnpc_new,city01,gather_hd_201751_001" style="HLStype1">杂草</a>
+collectinfo_60040=帮助马场总管搬取<a href="findnpc_new,city01,gather_hd_201751_002" style="HLStype1">木料</a>
+
+useiteminfo_60022=使用<a href="TASK_ITEM,useitem_hd_201751_001" style="HLStype1">修理工具</a>修缮<a href="findnpc_new,city01,EventNpc_hd_201751_001" style="HLStype1">马棚</a>
+useiteminfo_60023=使用<a href="TASK_ITEM,useitem_hd_201751_002" style="HLStype1">加工工具</a>加工<a href="findnpc_new,city01,gather_hd_201751_003" style="HLStype1">搬运来的木料</a>
+useiteminfo_60024=对其他玩家使用五次<a href="TASK_ITEM,item_niqiu_001" style="HLStype1">泥球</a>（泥球可在糖葫芦处使用五蕴兑换，需要变成正太/萝莉才能使用泥球）
+specialinfo_1221=完成1次运镖(在四大主城的镖局镖师处可以开启运镖）
+specialinfo_1222=完成1次劫镖(点击其他人正在进行运镖的镖车可以开启劫镖)
+collectinfo_60220=收集30个寒鸦草
+collectinfo_60221=收集50个寒鸦草
+collectinfo_60222=收集20个寒鸦草
+collectinfo_60223=收集40个寒鸦草
+interactinfo_60922=前往东方世家，与<a href="findnpc_new,city01,sdsj_lzy_dh_df001" style="HLStype1">东方学哲（东方世家武学兑换）</a>交流武学心得
+interactinfo_60923=前往南宫世家，与<a href="findnpc_new,city05,sdsj_lzy_dh_ng001" style="HLStype1">南宫盛元（南宫世家武学兑换）</a>交流武学心得
+interactinfo_60924=前往燕门世家，与<a href="findnpc_new,city04,sdsj_lzy_dh_ym001" style="HLStype1">燕世谦（燕门世家武学兑换）</a>交流武学心得
+interactinfo_60925=前往慕容世家，与<a href="findnpc_new,city02,sdsj_lzy_dh_mr001" style="HLStype1">慕容绍达（慕容世家武学兑换）</a>交流武学心得
+interactinfo_60926=与<a href="findnpc_new,city05,act818_mj_001" style="HLStype1">天山派师兄</a>交谈
+
+hunterinfo_60024=由酒馆老板告知成都有<a href="findnpc_new,city05,npc_lzy_cbt_drrw001" style="HLStype1">外域人士</a>出没，其身上应该携有藏宝图，击败他获得藏宝图<font face="Default" color="#FF0000" >（可在任务界面中查看前往成都的方法）</font>
+hunterinfo_60025=由酒馆老板告知苏州有<a href="findnpc_new,city02,npc_lzy_cbt_drrw002" style="HLStype1">外域人士</a>出没，其身上应该携有藏宝图，击败他获得藏宝图<font face="Default" color="#FF0000" >（可在任务界面中查看前往苏州的方法）</font>
+hunterinfo_60026=由酒馆老板告知金陵有<a href="findnpc_new,city03,npc_lzy_cbt_drrw003" style="HLStype1">外域人士</a>出没，其身上应该携有藏宝图，击败他获得藏宝图<font face="Default" color="#FF0000" >（可在任务界面中查看前往金陵的方法）</font>
+hunterinfo_60027=由酒馆老板告知洛阳有<a href="findnpc_new,city04,npc_lzy_cbt_drrw004" style="HLStype1">外域人士</a>出没，其身上应该携有藏宝图，击败他获得藏宝图<font face="Default" color="#FF0000" >（可在任务界面中查看前往洛阳的方法）</font>
+hunterinfo_60028=由酒馆老板告知燕京有<a href="findnpc_new,city01,npc_lzy_cbt_drrw005" style="HLStype1">外域人士</a>出没，其身上应该携有藏宝图，击败他获得藏宝图<font face="Default" color="#FF0000" >（可在任务界面中查看前往燕京的方法）</font>
+
+SubmitNpcEx_70093=前往各大主城活动大使林梁处领取端午佳节礼品。
+SubmitNpcEx_70094=前往各大主城林梁处领取礼包
+
+SubmitNpcEx_70095=前往各大主城活动大使林梁处领取夏日礼包。
+SubmitNpcEx_70102=与<a href="findnpc_new,city05,act818_mj_001" style="HLStype1">明教师兄</a>交谈
+
+SubmitNpcEx_70103=找成都武馆<a href="findnpc_new,city05,act818_mj_001" style="HLStype1">凌傲梅（明教师兄）</a>提交任务获得奖励。
+SubmitNpcEx_70104=找成都武馆<a href="findnpc_new,city05,act818_mj_001" style="HLStype1">凌傲梅（明教师兄）</a>提交任务获得奖励。
+SubmitNpcEx_70105=找成都武馆<a href="findnpc_new,city05,act818_mj_001" style="HLStype1">凌傲梅（明教师兄）</a>提交任务获得奖励。
+SubmitNpcEx_70106=找成都武馆<a href="findnpc_new,city05,act818_mj_001" style="HLStype1">凌傲梅（明教师兄）</a>提交结伴嘉奖任务获得奖励。
+SubmitNpcEx_70107=找成都武馆找<a href="findnpc_new,city05,act818_mj_001" style="HLStype1">凌傲梅（明教师兄）</a>提交结伴嘉奖任务获得奖励。
+SubmitNpcEx_70108=找成都武馆<a href="findnpc_new,city05,act818_mj_001" style="HLStype1">凌傲梅（明教师兄）</a>提交结伴嘉奖任务获得奖励。
+SubmitNpcEx_70109=找成都武馆<a href="findnpc_new,city05,act818_mj_001" style="HLStype1">凌傲梅（明教师兄）</a>提交结伴嘉奖任务获得奖励。
+SubmitNpcEx_70110=找成都武馆找<a href="findnpc_new,city05,act818_mj_001" style="HLStype1">凌傲梅（明教师兄）</a>提交结伴嘉奖任务获得奖励。
+SubmitNpcEx_70111=找成都武馆<a href="findnpc_new,city05,act818_mj_001" style="HLStype1">凌傲梅（明教师兄）</a>提交任务获得奖励。
+SubmitNpcEx_70112=找成都武馆<a href="findnpc_new,city05,act818_mj_001" style="HLStype1">凌傲梅（明教师兄）</a>提交任务获得奖励。
+SubmitNpcEx_70113=找成都武馆<a href="findnpc_new,city05,act818_mj_001" style="HLStype1">凌傲梅（明教师兄）</a>提交任务获得奖励。
+SubmitNpcEx_70114=找成都武馆<a href="findnpc_new,city05,act818_mj_001" style="HLStype1">凌傲梅（明教师兄）</a>提交任务获得奖励。
+SubmitNpcEx_70115=找成都武馆<a href="findnpc_new,city05,act818_mj_001" style="HLStype1">凌傲梅（明教师兄）</a>提交任务获得奖励。
+SubmitNpcEx_70116=找成都武馆<a href="findnpc_new,city05,act818_mj_001" style="HLStype1">凌傲梅（明教师兄）</a>提交任务获得奖励。
+specialinfo_1359=通关禁地普通暮色之村一次。
+specialinfo_1360=通关禁地普通青云堡一次。
+specialinfo_1361=通关禁地困难青云堡一次。
+specialinfo_1362=通关禁地普通凤凰山庄一次。
+specialinfo_1363=通关禁地普通龙门客栈一次。
+specialinfo_1364=通关禁地地狱雁门关守军一次。
+
+DialogID_60927=<font face="Default" color="#ffffff" >我这就将拜帖送至各大掌门处！</font>
+SubmitNpcEx_70126=回复<a href="findnpc_new,city02,WorldNpc01194" style="HLStype1">林天南</a>，拜帖送出之事
+interactinfo_60927=前去与<a href="findnpc_new,city02,Transcity02A" style="HLStype1">相军</a>相谈，吩咐其将拜帖送至各大掌门处
+okmenu_60927=<font face="Default" color="#ffffff" >恩</font>
+specialinfo_1383=成功挑战心魔两次
+
+specialinfo_1368=挫败任意势力1次。（即任意一个势力当日踢馆6次方可）
+specialinfo_1369=成功挑战心魔2次。
+specialinfo_1370=完成战场获胜3次。（参加古墓战场；武道大会，群锋问武任意一种胜利均可完成）
+SubmitNpcEx_70123=找苏州（423.794）或成都（923.551）宁九徽（江湖客）提交任务领取奖励。
+SubmitNpcEx_70124=找苏州（423.794）或成都（923.551）宁九徽（江湖客）提交任务领取奖励。
+SubmitNpcEx_70125=找苏州（423.794）或成都（923.551）宁九徽（江湖客）提交任务领取奖励。
+SubmitNpcEx_70127=找苏州书斋先生<a href="findnpc_new,city02,WorldNpc01097" style="HLStype1">严伦</a>领取入学奖励。
+SubmitNpcEx_70128=找各大主城节日活动大使林梁提交任务领取奖励。
+SubmitNpcEx_70129=找各大主城节日活动大使林梁提交任务获得奖励。
+SubmitNpcEx_70130=找各大主城活动大使林梁提交任务获得奖励。
+SubmitNpcEx_70131=与<a href="findnpc_new,city02,hd_shcx_001" style="HLStype1">周扬军(百晓生传人)</a>交谈。
+SubmitNpcEx_70132=经过高人一番指点必定有所收获，回去找林梁吧。
+interactinfo_60928=与林梁交谈，他有物品相赠与你。
+interactinfo_60929=与<a href="findnpc_new,city02,hd_shcx_001" style="HLStype1">周扬军(百晓生传人)</a>交谈，他爱喝酒，此刻应该在苏州酒楼二楼，带上佳酿前去找他吧。
+interactinfo_60930=少侠你这佳酿着实不错，实乃佳品，为了答谢你相赠美酒，我这里有一个锦囊，且赠与你，你可带此锦囊前往苏州磨坊村附近(1308 291)寻找卜磊远(隐世高人)行踪。（且勿丢失此锦囊）
+interactinfo_60931=少侠你这佳酿着实不错，实乃佳品，为了答谢你相赠美酒，我这里有一个锦囊，且赠与你，你可带此锦囊前往苏州太湖渔村附近(1596 416)寻找卜磊远(隐世高人)行踪。（且勿丢失此锦囊）
+interactinfo_60932=少侠你这佳酿着实不错，实乃佳品，为了答谢你相赠美酒，我这里有一个锦囊，且赠与你，你可带此锦囊前往苏州碧螺村附近(1085 945)寻找卜磊远(隐世高人)行踪。（且勿丢失此锦囊）
+interactinfo_60933=少侠你这佳酿着实不错，实乃佳品，为了答谢你相赠美酒，我这里有一个锦囊，且赠与你，你可带此锦囊前往苏州金蚕村附近(112 1340)寻找卜磊远(隐世高人)行踪。（且勿丢失此锦囊）
+specialinfo_1371=通关任意禁地一次。
+DialogID_60928=<font face="Default" color="#ffffff" >少侠好本领，这壶珍品琼浆佳酿就赠与你了。</font>
+DialogID_60929=<font face="Default" color="#ffffff" >举杯邀明月，对影成三人。好酒，好酒。。。</font>
+DialogID_60930=<font face="Default" color="#ffffff" >世间多纷扰，生死困顿寂寥。只有这里才有片刻安宁。既然少侠你是周扬军介绍来此，还带有信物，那我便指点你一番吧。</font>
+DialogID_60931=<font face="Default" color="#ffffff" >世间多纷扰，生死困顿寂寥。只有这里才有片刻安宁。既然少侠你是周扬军介绍来此，还带有信物，那我便指点你一番吧。</font>
+DialogID_60932=<font face="Default" color="#ffffff" >世间多纷扰，生死困顿寂寥。只有这里才有片刻安宁。既然少侠你是周扬军介绍来此，还带有信物，那我便指点你一番吧。</font>
+DialogID_60933=<font face="Default" color="#ffffff" >世间多纷扰，生死困顿寂寥。只有这里才有片刻安宁。既然少侠你是周扬军介绍来此，还带有信物，那我便指点你一番吧。</font>
+okmenu_60928=<font face="Default" color="#ffffff" >如此便谢过了。</font>
+okmenu_60929=<font face="Default" color="#ffffff" >前辈好雅兴。</font>
+okmenu_60930=<font face="Default" color="#ffffff" >如此便谢过前辈了，晚辈自当谨记于心。</font>
+okmenu_60931=<font face="Default" color="#ffffff" >如此便谢过前辈了，晚辈自当谨记于心。</font>
+okmenu_60932=<font face="Default" color="#ffffff" >如此便谢过前辈了，晚辈自当谨记于心。</font>
+okmenu_60933=<font face="Default" color="#ffffff" >如此便谢过前辈了，晚辈自当谨记于心。</font>
+SubmitNpcEx_70133=找林梁提交任务
+SubmitNpcEx_70134=找林梁提交任务
+SubmitNpcEx_70135=找林梁提交任务
+SubmitNpcEx_70136=找林梁提交任务
+SubmitNpcEx_70137=找林梁提交任务
+SubmitNpcEx_70138=找林梁提交任务
+SubmitNpcEx_70139=找林梁提交任务
+SubmitNpcEx_70140=找各大主城节日活动大使林梁提交任务获得“镇国枪魂”全民赠礼礼包。
+SubmitNpcEx_70141=与<a href="findnpc_new,school21,newmp_sjy_002" style="HLStype1">耿伯宣</a>交谈
+SubmitNpcEx_70144=去<a href="findnpc_new,city02,WorldNpc01650" style="HLStype1">荆惠娟</a>处获取新年礼盒
+DialogID_60934=<font face="Default" color="#ffffff" >我这就将拜帖送至各大掌门处！</font>
+SubmitNpcEx_70145=回复<a href="findnpc_new,city02,WorldNpc01194" style="HLStype1">林天南</a>，拜帖送出之事
+interactinfo_60934=前去与<a href="findnpc_new,city02,Transcity02A" style="HLStype1">相军</a>相谈，吩咐其将拜帖送至各大掌门处
+okmenu_60934=<font face="Default" color="#ffffff" >恩</font>
+SubmitNpcEx_70147=找各大主城节日活动大使林梁提交任务领取腊月礼包。
+SubmitNpcEx_70148=找各大主城节日活动大使林梁提交任务领取腊八礼包。
+SubmitNpcEx_70149=前往苏州荆惠娟（432 812）处领取新春大礼包一份。
+SubmitNpcEx_70150=前往苏州荆惠娟（432 812）处领取拜年礼包一份。
+SubmitNpcEx_70151=找各大主城节日活动大使林梁提交任务领取新年武学凭证
+
+DialogID_60938=<font face="Default" color="#ffffff" >我这就将拜帖送至各大掌门处！</font>
+SubmitNpcEx_70157=回复<a href="findnpc_new,city02,WorldNpc01194" style="HLStype1">林天南</a>，拜帖送出之事
+interactinfo_60938=前去与<a href="findnpc_new,city02,Transcity02A" style="HLStype1">相军</a>相谈，吩咐其将拜帖送至各大掌门处
+okmenu_60938=<font face="Default" color="#ffffff" >恩</font>
+
+DialogID_60935=<font face="Default" color="#ffffff" >你若有</font><font face="Default" color="#ffffff" >1份</font><font face="Default" color="#ffffff" >篝火木料给我，我便送你</font><font face="Default" color="#ffffff" >1份</font><font face="Default" color="#ffffff" >精美的物品。</font>
+DialogID_60936=<font face="Default" color="#ffffff" >你若有</font><font face="Default" color="#ffffff" >10份</font><font face="Default" color="#ffffff" >篝火木料给我，我便送你</font><font face="Default" color="#ffffff" >10份</font><font face="Default" color="#ffffff" >精美的物品。</font>
+DialogID_60937=<font face="Default" color="#ffffff" >你若有</font><font face="Default" color="#ffffff" >50份</font><font face="Default" color="#ffffff" >篝火木料给我，我便送你</font><font face="Default" color="#ffffff" >50份</font><font face="Default" color="#ffffff" >精美的物品。</font>
+interactinfo_60935=向<a href="findnpc_new,city03,npc_ghkh_hd_001" style="HLStype1">隐者</a>上交1份篝火木料，即可获得“篝火凭证*1，雪莲果*1”。
+interactinfo_60936=向<a href="findnpc_new,city03,npc_ghkh_hd_001" style="HLStype1">隐者</a>上交10份篝火木料，即可获得“篝火凭证*10，雪莲果*10”。
+interactinfo_60937=向<a href="findnpc_new,city03,npc_ghkh_hd_001" style="HLStype1">隐者</a>上交50份篝火木料，即可获得“篝火凭证*50，雪莲果*50”。
+okmenu_60935=<font face="Default" color="#ffffff" >我要上交1份篝火木料。</font>
+okmenu_60936=<font face="Default" color="#ffffff" >我要上交10份篝火木料。</font>
+okmenu_60937=<font face="Default" color="#ffffff" >我要上交50份篝火木料。</font>
+
+SubmitNpcEx_70158=<a href="findnpc_new,city02,hd_dw_001" style="HLStype1">林梁</a>
+SubmitNpcEx_70159=<a href="findnpc_new,city02,WorldNpc01097" style="HLStype1">严伦</a>
+SubmitNpcEx_70160=<a href="findnpc_new,city02,sz493" style="HLStype1">唐葫芦</a>
+SubmitNpcEx_70161=<a href="findnpc_new,city02,hd_dw_001" style="HLStype1">林梁</a>
+
+SubmitNpcEx_70163=<a href="findnpc_new,city02,hd_dw_001" style="HLStype1">林梁</a>
+
+SubmitNpcEx_70164=<a href="findnpc_new,city02,hd_dw_001" style="HLStype1">林梁</a>
+
+SubmitNpcEx_70165=找成都武馆<a href="findnpc_new,city05,act818_mj_001" style="HLStype1">凌傲梅（天山派师兄）</a>提交结伴嘉奖任务获得奖励。
+SubmitNpcEx_70166=找成都武馆<a href="findnpc_new,city05,act818_mj_001" style="HLStype1">凌傲梅（天山派师兄）</a>提交结伴嘉奖任务获得奖励。
+SubmitNpcEx_70167=找成都武馆<a href="findnpc_new,city05,act818_mj_001" style="HLStype1">凌傲梅（天山派师兄）</a>提交结伴嘉奖任务获得奖励。
+SubmitNpcEx_70168=找成都武馆<a href="findnpc_new,city05,act818_mj_001" style="HLStype1">凌傲梅（天山派师兄）</a>提交结伴嘉奖任务获得奖励。
+SubmitNpcEx_70169=找成都武馆<a href="findnpc_new,city05,act818_mj_001" style="HLStype1">凌傲梅（天山派师兄）</a>提交结伴嘉奖任务获得奖励。
+SubmitNpcEx_70170=找成都武馆<a href="findnpc_new,city05,act818_mj_001" style="HLStype1">凌傲梅（天山派师兄）</a>提交结伴嘉奖任务获得奖励。
+SubmitNpcEx_70171=找成都武馆<a href="findnpc_new,city05,act818_mj_001" style="HLStype1">凌傲梅（天山派师兄）</a>提交结伴嘉奖任务获得奖励。
+SubmitNpcEx_70172=找成都武馆<a href="findnpc_new,city05,act818_mj_001" style="HLStype1">凌傲梅（天山派师兄）</a>提交结伴嘉奖任务获得奖励。
+
+SubmitNpcEx_70173=找成都武馆<a href="findnpc_new,city05,act818_mj_001" style="HLStype1">凌傲梅（天山派师兄）</a>提交任务获得奖励。
+SubmitNpcEx_70174=找成都武馆<a href="findnpc_new,city05,act818_mj_001" style="HLStype1">凌傲梅（天山派师兄）</a>提交任务获得奖励。
+SubmitNpcEx_70175=找成都武馆<a href="findnpc_new,city05,act818_mj_001" style="HLStype1">凌傲梅（天山派师兄）</a>提交任务获得奖励。
+SubmitNpcEx_70176=找成都武馆<a href="findnpc_new,city05,act818_mj_001" style="HLStype1">凌傲梅（天山派师兄）</a>提交任务获得奖励。
+SubmitNpcEx_70177=找成都武馆<a href="findnpc_new,city05,act818_mj_001" style="HLStype1">凌傲梅（天山派师兄）</a>提交任务获得奖励。
+SubmitNpcEx_70178=找成都武馆<a href="findnpc_new,city05,act818_mj_001" style="HLStype1">凌傲梅（天山派师兄）</a>提交任务获得奖励。
+specialinfo_1390=通关禁地暮色之村（序章）一次。
+specialinfo_1391=通关禁地青云堡（序章）一次。
+specialinfo_1392=通关禁地青云堡一次。
+specialinfo_1393=通关禁地凤凰山庄一次。
+specialinfo_1394=通关禁地雁门关（叛军线）一次。
+specialinfo_1395=通关禁地大漠鬼城一次。
+
+DialogID_60939=<font face="Default" color="#ffffff" >我这就将拜帖送至各大掌门处！</font>
+SubmitNpcEx_70185=回复<a href="findnpc_new,city02,WorldNpc01194" style="HLStype1">林天南</a>，拜帖送出之事
+interactinfo_60939=前去与<a href="findnpc_new,city02,Transcity02A" style="HLStype1">相军</a>相谈，吩咐其将拜帖送至各大掌门处
+okmenu_60939=<font face="Default" color="#ffffff" >恩</font>
+
+SubmitNpcEx_70237=<a href="findnpc_new,city02,hd_dw_001" style="HLStype1">林梁</a>
+
+SubmitNpcEx_70190=与<a href="findnpc_new,city05,act818_mj_001" style="HLStype1">天山派师兄</a>交谈
+
+SubmitNpcEx_70238=<a href="findnpc_new,city02,WorldNpc01097" style="HLStype1">严伦</a>
+SubmitNpcEx_70186=前往苏州书斋先生<a href="findnpc_new,city02,WorldNpc01097" style="HLStype1">严伦</a>处领取莘莘学子礼包。
+
+SubmitNpcEx_70239=<a href="findnpc_new,city02,hd_dw_001" style="HLStype1">林梁</a>
+
+specialinfo_1396=通关任意禁地1次
+
+SubmitNpcEx_70240=<a href="findnpc_new,city02,hd_dw_001" style="HLStype1">林梁</a>
+
+DialogID_60940=<font face="Default" color="#ffffff" >我这就将拜帖送至各大掌门处！</font>
+SubmitNpcEx_70187=回复<a href="findnpc_new,city02,WorldNpc01194" style="HLStype1">林天南</a>，拜帖送出之事
+interactinfo_60940=前去与<a href="findnpc_new,city02,Transcity02A" style="HLStype1">相军</a>相谈，吩咐其将拜帖送至各大掌门处
+okmenu_60940=<font face="Default" color="#ffffff" >恩</font>
+SubmitNpcEx_70188=去<a href="findnpc_new,city02,WorldNpc01650" style="HLStype1">荆惠娟</a>处获取新年礼盒
+
+SubmitNpcEx_70241=<a href="findnpc_new,city02,hd_dw_001" style="HLStype1">林梁</a>
+SubmitNpcEx_70242=<a href="findnpc_new,city02,hd_dw_001" style="HLStype1">林梁</a>
+SubmitNpcEx_70250=找各大主城节日活动大使林梁提交任务领取腊月礼包。
+SubmitNpcEx_70251=找各大主城节日活动大使林梁提交任务领取腊八礼包。
+
+SubmitNpcEx_70252=<a href="findnpc_new,city02,WorldNpc01097" style="HLStype1">严伦</a>
+
+SubmitNpcEx_70520=<a href="findnpc_new,scene08,WorldNpc07833" style="HLStype1">谭诫霞</a>
+useiteminfo_60025=对<a href="findnpc_new,scene08,Gather00155_fc" style="HLStype1">供桌</a>使用<a href="TASK_ITEM,useitem_20190318_fc_001" style="HLStype1">忠魂香</a>
+
+SubmitNpcEx_70521=<a href="findnpc_new,city02,hd_dw_001" style="HLStype1">林梁</a>
+SubmitNpcEx_70522=<a href="findnpc_new,city02,WorldNpc01097" style="HLStype1">严伦</a>
+
+SubmitNpcEx_70523=<a href="findnpc_new,city02,sz493" style="HLStype1">唐葫芦</a>
+SubmitNpcEx_70096=<a href="findnpc_new,city02,hd_dw_001" style="HLStype1">林梁</a>
+SubmitNpcEx_70097=<a href="findnpc_new,city02,sz460" style="HLStype1">萧竹青</a>
+SubmitNpcEx_70098=<a href="findnpc_new,city02,sz460" style="HLStype1">萧竹青</a>
+SubmitNpcEx_70099=<a href="findnpc_new,city02,sz460" style="HLStype1">萧竹青</a>
+specialinfo_1419=参加并完成武道大会1场
+specialinfo_1420=参加并完成群锋问武1场
+specialinfo_1421=参加并完成名城风云1场
+
+SubmitNpcEx_70261=<a href="findnpc_new,city02,Transcity02A" style="HLStype1">相军</a>
+QiecuoMenu_60300=<font face="Default" color="#ffffff" >你便是朱扒皮？！</font>
+QiecuoTitle_60300=<font face="Default" color="#ffffff" >你是何人！</font>
+SubmitNpcEx_70260=<a href="findnpc_new,city05,npc_act_cj_nz01" style="HLStype1">惊慌的农夫</a>
+hunterinfo_60300=帮助农夫击败恶霸<a href="findnpc_new,city05,npc_hd_zlw_01" style="HLStype1">朱扒皮</a>
+story_60016_1=<font face="Default" color="#ffffff" >大</font><font face="Default" color="#ffffff" >侠</font><font face="Default" color="#ffffff" >饶命！小人再也不敢了！</font>
+story_menu_60016=<font face="Default" color="#ffffff" >你若日后再敢欺负邻里乡亲，本少侠见你一次打你一次！</font>
+storyinfo_60016=帮助农夫击败恶霸<a href="findnpc_new,city05,npc_hd_zlw_01" style="HLStype1">朱扒皮</a>
+storymenu_60016_1=<font face="Default" color="#ffffff" >你说的最好是真的！</font>
+
+useiteminfo_60026=使用相军（车夫）给予的<a href="TASK_ITEM,taskitem_xinge_fc_001" style="HLStype1">信鸽</a>，先行飞鸽传书，传至宗门。江湖风雨兼程，莫忘师恩。
+
+
+SubmitNpcEx_70541=<a href="findnpc_new,city02,hd_wyhd_001" style="HLStype1">尚武(活动大使)</a>
+
+specialinfo_1425=成功挑战心魔1次。
+specialinfo_1426=完成战场获胜1次。（参加古墓战场或群锋问武任意一种后获得胜利即可完成）
+SubmitNpcEx_70208=<a href="findnpc_new,city02,hd_wyhd_001" style="HLStype1">尚武(活动大使)</a>
+SubmitNpcEx_70209=<a href="findnpc_new,city02,hd_wyhd_001" style="HLStype1">尚武(活动大使)</a>
+SubmitNpcEx_70210=<a href="findnpc_new,city02,hd_dw_001" style="HLStype1">林梁</a>
+SubmitNpcEx_70545=<a href="findnpc_new,city02,hd_wyhd_001" style="HLStype1">尚武(活动大使)</a>
+
+SubmitNpcEx_70555=<a href="findnpc_new,city02,hd_wyhd_001" style="HLStype1">尚武(活动大使)</a>
+SubmitNpcEx_70556=<a href="findnpc_new,city02,hd_dw_001" style="HLStype1">林梁</a>
+
+DialogID_60100=<font face="Default" color="#ffffff" > </font>
+DialogID_60101=<font face="Default" color="#ffffff" > </font>
+DialogID_60102=<font face="Default" color="#ffffff" > </font>
+DialogID_60103=<font face="Default" color="#ffffff" > </font>
+DialogID_60104=<font face="Default" color="#ffffff" > </font>
+DialogID_60105=<font face="Default" color="#ffffff" > </font>
+DialogID_60106=<font face="Default" color="#ffffff" > </font>
+DialogID_60107=<font face="Default" color="#ffffff" > </font>
+SubmitNpcEx_70300=回复劳作狱司
+SubmitNpcEx_70301=回复劳作狱司
+SubmitNpcEx_70302=回复劳作狱司
+SubmitNpcEx_70303=回复劳作狱司
+SubmitNpcEx_70304=回复劳作狱司
+SubmitNpcEx_70305=回复劳作狱司
+SubmitNpcEx_70306=回复劳作狱司
+SubmitNpcEx_70307=回复劳作狱司
+interactinfo_60100=前往书案处书写悔过书
+interactinfo_60101=帮忙清理杂物，杂物堆在牢房角落
+interactinfo_60102=帮忙劈柴，木柴堆在牢房角落
+interactinfo_60103=帮忙整理草席
+interactinfo_60104=前往书案处书写悔过书
+interactinfo_60105=帮忙清理杂物，杂物堆在牢房角落
+interactinfo_60106=帮忙劈柴，木柴堆在牢房角落
+interactinfo_60107=帮忙整理草席
+interactinfo_60108=书写悔过书，完成后回复劳作狱司便可接取劳作任务以减免戕屠值
+interactinfo_60109=清理杂物，完成后回复劳作狱司便可减免戕屠值
+interactinfo_60110=劈柴，完成后回复劳作狱司便可减免戕屠值
+interactinfo_60111=整理草席，完成后回复劳作狱司便可减免戕屠值
+interactinfo_60112=书写悔过书，完成后回复劳作狱司便可接取劳作任务以减免关押时间
+interactinfo_60113=清理杂物，完成后回复劳作狱司便可减免关押时间
+interactinfo_60114=劈柴，完成后回复劳作狱司便可减免关押时间
+interactinfo_60115=整理草席，完成后回复劳作狱司便可减免关押时间
+okmenu_60100=<font face="Default" color="#ffffff" >开始书写悔过书</font>
+okmenu_60101=<font face="Default" color="#ffffff" >开始清理杂物</font>
+okmenu_60102=<font face="Default" color="#ffffff" >开始劈柴</font>
+okmenu_60103=<font face="Default" color="#ffffff" >开始整理草席</font>
+okmenu_60104=<font face="Default" color="#ffffff" >开始书写悔过书</font>
+okmenu_60105=<font face="Default" color="#ffffff" >开始清理杂物</font>
+okmenu_60106=<font face="Default" color="#ffffff" >开始劈柴</font>
+okmenu_60107=<font face="Default" color="#ffffff" >开始整理草席</font>
+
+SubmitNpcEx_70562=<a href="findnpc_new,city02,WorldNpc01650" style="HLStype1">荆惠娟</a>
+SubmitNpcEx_70563=<a href="findnpc_new,city02,hd_dw_001" style="HLStype1">林梁</a>
+
+useiteminfo_60027=使用<a href="TASK_ITEM,item_20201029_wlt_001" style="HLStype1">武林贴</a>
+
+SubmitNpcEx_70598=<a href="findnpc_new,city02,hd_wyhd_001" style="HLStype1">尚武(活动大使)</a>

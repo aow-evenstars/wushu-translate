@@ -1,0 +1,109 @@
+﻿
+DialogID_47600=嗯，最近镇上是来了不少人，这小镇人来人往的，每天事情可多着呢，你不要小看了我们这些守城的。
+DialogID_47601=这塞外可大着呢，要想走遍是不可能的，不说这路上都是绿林山匪，单单是这茫茫沙漠，一不小心就会送命。
+DialogID_47602=最近沙漠匪患猖獗，其他的都是些小咯罗，只不过最近有一伙大漠劫匪武艺高强，不少护卫都命丧那里，少侠如果可以帮我把这伙劫匪清理掉，我可以护送他们。
+DialogID_47603=唉，少侠不知啊，这些强盗武艺高强，我们边关人手不够，去了也是送命啊。
+DialogID_47604=唉，我想入魔鬼城，可是他们要我杀了再此地的连坊高手，可是他武艺高强，只怪我技艺不精啊，少侠可否帮我？
+DialogID_47605=少侠一定要帮我啊，前几日路上被一伙沙漠匪徒追杀，不小心将货物丢失在了城外，少侠能帮我取回吗？不然魔鬼城不会绕我的。
+DialogID_47606=帮主前几日让我搞些巡逻兵的衣物来，只是最近边防好像多了许多人手，少侠可否帮我，我就告诉你一下大漠宝藏的秘密。
+DialogID_47607=朝廷听说边关有战败逃兵，影响军民士气，要想边关安定必须有一些雷霆手段，你去把那些逃兵都给我除掉吧，并把他们的人头带来。
+DialogID_47608=这里是疗伤药，还要劳烦少侠用内功帮他敷上让药力发挥。
+DialogID_47609=我前几日看到一伙神秘人好像交给守城军官一些东西，少侠要为我保密啊，魔鬼城和军官都不敢得罪，少侠要为小的保密啊。
+DialogID_47610=我在此打探了多日，并未收集到什么情报，只是一些地痞一直来犯，你去问一问天外天那家伙。
+DialogID_47611=哼，这边地痞简直太可恶了，你去帮我收拾他们。
+DialogID_47612=大师所言极是，我明白了。
+DialogID_47613=什么佛法无边，没我们给他香火钱，他们饭都吃不上
+DialogID_47614=这和尚吃饱了吧，我天天饭都吃不上，还信什么佛呢。
+DialogID_47615=哼，锦衣卫这帮人，终归还是朝廷的狗！
+DialogID_47616=唉，连坊虽然是大漠之主，缺也不敢得罪朝廷啊。
+DialogID_47617=想当初，崆峒武术，威震西陲，现在却被锦衣卫的走狗压迫，唉。
+DialogID_47618=这里是上等的金创药，快去给大师送去吧。
+QiecuoMenu_47600=找死！
+QiecuoMenu_47603=唉，得罪了！
+QiecuoMenu_47610=现在你还执迷不悟，看招。
+QiecuoTitle_47600=这里是我的地盘，你是何人，不要坏了小爷的事，否则让你吃不了兜着走！
+QiecuoTitle_47603=我看少侠一脸正气，没想到也甘为魔鬼城的走狗！
+QiecuoTitle_47610=那小子敢和本大爷过不去，本来就是找死的。
+collectinfo_47600=杀死<a href="findnpc_new,scene08,monf080701" style="HLStype1">猖狂马匪</a>取回<a href="TASK_ITEM,taskitem_p076" style="HLStype1">被掠夺的物资</a>
+collectinfo_47601=收集<a href="findnpc_new,scene08,monf080500" style="HLStype1">魔鬼城探子</a>身上的情报
+collectinfo_47602=收集<a href="findnpc_new,scene08,Gather00026p" style="HLStype1">遗失的货物</a>
+collectinfo_47603=杀死<a href="findnpc_new,scene08,monf080100" style="HLStype1">边境巡逻兵</a>取得<a href="TASK_ITEM,taskitem_p078" style="HLStype1">巡逻兵的衣物</a>
+collectinfo_47604=杀死<a href="findnpc_new,scene08,monf080704" style="HLStype1">战败逃兵</a>并取得<a href="TASK_ITEM,taskitem_p079" style="HLStype1">逃兵的首级</a>
+collectinfo_47605=杀死<a href="findnpc_new,scene08,monf080202" style="HLStype1">守军统领</a>找回<a href="TASK_ITEM,taskitem_p080" style="HLStype1">情报</a>
+collectinfo_47606=杀死<a href="findnpc_new,scene08,monf080301" style="HLStype1">修城监工</a>取得<a href="TASK_ITEM,taskitem_p020" style="HLStype1">银票</a>
+collectinfo_47607=杀死<a href="findnpc_new,scene08,monf080601" style="HLStype1">押货枪兵</a>取得<a href="findnpc_new,scene08,Gather00026p" style="HLStype1">遗失的货物</a>
+collectinfo_47608=收集<a href="findnpc_new,scene08,Gather00027p" style="HLStype1">夹竹桃</a>
+collectinfo_47609=收集<a href="findnpc_new,scene08,Gather00028p" style="HLStype1">百里香</a>
+collectinfo_47612=杀死<a href="findnpc_new,scene08,monf080500" style="HLStype1">魔鬼城探子</a>取得<a href="TASK_ITEM,useitem_039p" style="HLStype1">魔鬼城探子衣物</a>
+hunterinfo_47600=击败<a href="findnpc_new,scene08,WorldNpc07727" style="HLStype1">纪晨</a>
+hunterinfo_47601=击败<a href="findnpc_new,scene08,monf080502" style="HLStype1">大漠劫匪</a>
+hunterinfo_47602=击败<a href="findnpc_new,scene08,monf080501" style="HLStype1">大漠强盗</a>
+hunterinfo_47603=击败<a href="findnpc_new,scene08,WorldNpc07734" style="HLStype1">宗艺寒</a>
+hunterinfo_47604=击败<a href="findnpc_new,scene08,monf080201" style="HLStype1">统领护卫</a>
+hunterinfo_47605=击败<a href="findnpc_new,scene08,monf080703" style="HLStype1">外域地痞</a>
+hunterinfo_47606=击败<a href="findnpc_new,scene08,monf080300" style="HLStype1">修城劳工</a>
+hunterinfo_47607=击败<a href="findnpc_new,scene08,monf080600" style="HLStype1">补给站卫兵</a>
+hunterinfo_47608=击败<a href="findnpc_new,scene08,monf080701" style="HLStype1">猖狂马匪</a>
+hunterinfo_47609=击败<a href="findnpc_new,scene08,monf080702" style="HLStype1">蛮横恶霸</a>
+hunterinfo_47610=击败<a href="findnpc_new,scene08,WorldNpc07720" style="HLStype1">滕邦</a>
+hunterinfo_47611=击败<a href="findnpc_new,scene08,monf080701" style="HLStype1">猖狂马匪</a>
+hunterinfo_47612=击败<a href="findnpc_new,scene08,monf080702" style="HLStype1">蛮横恶霸</a>
+interactinfo_47600=与<a href="findnpc_new,scene08,WorldNpc07726" style="HLStype1">刑管</a>交谈
+interactinfo_47601=与<a href="findnpc_new,scene08,WorldNpc07735" style="HLStype1">蒙维</a>交谈
+interactinfo_47602=与<a href="findnpc_new,scene08,WorldNpc07747" style="HLStype1">曾世琛</a>交谈
+interactinfo_47603=与<a href="findnpc_new,scene08,WorldNpc07725" style="HLStype1">李和豪</a>交谈
+interactinfo_47604=与<a href="findnpc_new,scene08,WorldNpc07723" style="HLStype1">俞勇</a>交谈
+interactinfo_47605=与<a href="findnpc_new,scene08,WorldNpc07732" style="HLStype1">简福</a>交谈
+interactinfo_47606=与<a href="findnpc_new,scene08,WorldNpc07743" style="HLStype1">狄红青</a>交谈
+interactinfo_47607=与<a href="findnpc_new,scene08,WorldNpc07740" style="HLStype1">卫海</a>交谈
+interactinfo_47608=与<a href="findnpc_new,scene08,WorldNpc07722" style="HLStype1">卫杰贵</a>交谈
+interactinfo_47609=与<a href="findnpc_new,scene08,WorldNpc07728" style="HLStype1">崔凡</a>交谈
+interactinfo_47610=与<a href="findnpc_new,scene08,WorldNpc07729" style="HLStype1">戈领</a>交谈
+interactinfo_47611=与<a href="findnpc_new,scene08,WorldNpc07724" style="HLStype1">松鸣强</a>交谈
+interactinfo_47612=与<a href="findnpc_new,scene08,WorldNpc07735" style="HLStype1">蒙维</a>交谈
+interactinfo_47613=与<a href="findnpc_new,scene08,WorldNpc07747" style="HLStype1">曾世琛</a>交谈
+interactinfo_47614=与<a href="findnpc_new,scene08,WorldNpc07728" style="HLStype1">崔凡</a>交谈
+interactinfo_47615=与<a href="findnpc_new,scene08,WorldNpc07738" style="HLStype1">那策</a>交谈
+interactinfo_47616=与<a href="findnpc_new,scene08,WorldNpc07734" style="HLStype1">宗艺寒</a>交谈
+interactinfo_47617=与<a href="findnpc_new,scene08,WorldNpc07733" style="HLStype1">丁珂</a>交谈
+interactinfo_47618=与<a href="findnpc_new,scene08,WorldNpc07737" style="HLStype1">向康会</a>交谈
+interactinfo_47619=采集<a href="findnpc_new,scene08,Gather00029p" style="HLStype1">火凤之睛</a>
+okmenu_47600=嗯，大哥辛苦了。
+okmenu_47601=看来确实凶险，我会劝告他的。
+okmenu_47602=好。
+okmenu_47603=我来帮你吧。
+okmenu_47604=好吧。
+okmenu_47605=好吧。
+okmenu_47606=好吧。
+okmenu_47607=......
+okmenu_47608=好的。
+okmenu_47609=放心，我明白你的难处的。
+okmenu_47610=好的。
+okmenu_47611=好的。
+okmenu_47612=嗯。
+okmenu_47613=......
+okmenu_47614=......
+okmenu_47615=......
+okmenu_47616=嗯。
+okmenu_47617=兄台莫伤心了。
+okmenu_47618=多谢。
+story_47600_1=我儿本是这镇上有名的少年，为人仗义豪爽，结实了不少江湖豪杰。
+story_47600_2=后来，不知道在哪里得罪了魔鬼城的滕邦，竟然对我儿痛下杀死，我儿死的好惨啊。
+story_47601_1=年轻人，有句俗话说的好：饭后走一走，能活九十九，不知你听过没。
+story_47601_2=我对此可是深信不移啊！于是我便想用我的实际行动来想世人证明这句话的正确性。又有句话说的好：真理要靠实践来检验。
+story_47601_3=所以，我就从很久很久以前，从很远很远的边边的边边的边边........
+story_47601_4=每天坚持，吃完饭就走，没有一天停止过。所以我才能活到如今的三十五岁。我离我证明真理的道路越来越近了！
+story_menu_47600=可以告诉我吗？或许我可以帮你。
+story_menu_47601=（呃，这跟我的问题没多大联系吧！）哦？怎么说？
+storyinfo_47600=听<a href="findnpc_new,scene08,WorldNpc07730" style="HLStype1">庄子福</a>诉说
+storyinfo_47601=听<a href="findnpc_new,scene08,WorldNpc07728" style="HLStype1">崔凡</a>诉说
+storymenu_47600_1=后来怎么了？
+storymenu_47600_2=岂有此理，我来帮你报复。
+storymenu_47601_1=今天倒是听你说了好几遍了！
+storymenu_47601_2=所以......
+storymenu_47601_3=......
+storymenu_47601_4=（好嘛，难怪看起来这么老，原来是累的。）老人家你辛苦了，继续努力。
+useiteminfo_47600=对<a href="findnpc_new,scene08,WorldNpc07719" style="HLStype1">阎泰</a>使用<a href="TASK_ITEM,useitem_036p" style="HLStype1">疗伤药</a>
+useiteminfo_47601=对<a href="findnpc_new,scene08,WorldNpc07731" style="HLStype1">昌国亮</a>使用<a href="TASK_ITEM,useitem_037p" style="HLStype1">金创药</a>
+useiteminfo_47602=对<a href="findnpc_new,scene08,WorldNpc07734" style="HLStype1">宗艺寒</a>使用<a href="TASK_ITEM,useitem_038p" style="HLStype1">火凤之睛</a>
+useiteminfo_47603=对<a href="findnpc_new,scene08,WorldNpc07729" style="HLStype1">戈领</a>使用<a href="TASK_ITEM,useitem_039p" style="HLStype1">魔鬼城探子衣物</a>

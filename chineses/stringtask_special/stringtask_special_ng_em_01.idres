@@ -1,0 +1,521 @@
+﻿
+DialogID_81002=<font face="Default" color="#ffffff" >经过我们一番调查，现在磨刀堂留给我们的谜题我们已经找到了。这个难题原来是一个神秘人，现在他已经出现在峨眉了，你们去仔细查探，务必要先知晓这个神秘人的身世。</font>
+DialogID_81003=<font face="Default" color="#ffffff" >空白的纸条？让我好好想想（师傅似乎想到了什么）！</font>
+DialogID_81011=<font face="Default" color="#ffffff" >快滚，我谁也不想见。你不怕死吗？</font>
+DialogID_81021=<font face="Default" color="#ffffff" >为了找到孙潇和张若止见面的地点，我们分析了很多收集来的线索，听说孙潇习惯把重要的事情都记录下来，所以要找到这两个人约定见面的地点，就要找到他那本随身记录本，你快去找找吧。</font>
+DialogID_81022=<font face="Default" color="#ffffff" >这是孙潇留下的盒子，你这是要做什么？</font>
+DialogID_81025=<font face="Default" color="#ffffff" >嘻嘻，哈哈。你来做什么？</font>
+DialogID_81026=<font face="Default" color="#ffffff" >一滩血迹</font>
+DialogID_81027=<font face="Default" color="#ffffff" >哎，我真是倒了霉了。</font>
+DialogID_81031=<font face="Default" color="#ffffff" >徒儿你上前来仔细听好，那磨刀堂气焰嚣张，要求我们去完成他的考验，我们可不能被他牵着鼻子走，我们要暗中调查丢宝一事。藏宝阁里有一个扫地老尼，她长期居住在藏宝阁内，丢宝之时若有风吹草动，她定会有所察觉，你去问问那老尼当日的情况。</font>
+DialogID_81033=<font face="Default" color="#ffffff" >脚印花纹别致，深度很浅。</font>
+DialogID_81042=<font face="Default" color="#ffffff" >我知道最近峨眉新加入了一批入门弟子，也许她们中间混入了很多磨刀堂的人也说不定，你先去试探一下她们的武功，要逼她们出绝招，看看她们的武功路数，会不会是外面渗透到我峨眉的奸细。</font>
+DialogID_81043=<font face="Default" color="#ffffff" >试探的怎么样？她们会使其他门派的武功吗？</font>
+DialogID_81044=<font face="Default" color="#ffffff" >找我何事？</font>
+DialogID_81045=<font face="Default" color="#ffffff" >哎，我最近忙的要死，你怎么突然来了？</font>
+DialogID_81046=<font face="Default" color="#ffffff" >峨眉山山青水秀，真是个好地方。</font>
+DialogID_81047=<font face="Default" color="#ffffff" >看你急匆匆的来，恐怕又有麻烦事了。</font>
+DialogID_81048=<font face="Default" color="#ffffff" >事情不妙啊，刚才山下传来消息，你安排出去的师姐师妹们，在山脚下受到伏击，有些还身受重伤！</font>
+DialogID_81049=<font face="Default" color="#ffffff" >快快！后院起火了，还有弟子受伤，你快快去救助受伤弟子。磨刀堂，我峨眉与你势不两立！</font>
+DialogID_81050=<font face="Default" color="#ffffff" >这名弟子身体僵硬，看来已经不行了。咦，她的身边有一张便笺，打开来看看（尔等肆意胡为，浪费时间，毫不在意与我等条约，我派略施手段小惩大诫，尔等稍后便知，若再将我派之举视若儿戏，门派之宝立毁不待。）</font>
+DialogID_81061=<font face="Default" color="#ffffff" >你又来做什么？</font>
+DialogID_81069=<font face="Default" color="#ffffff" >南宫世家</font>
+DialogID_81073=<font face="Default" color="#ffffff" >这位侠士，我刚才见你似乎发了</font><font face="Default" color="#ffffff" >失心疯</font><font face="Default" color="#ffffff" >一般，在狂乱的挥舞。</font>
+DialogID_81077=<font face="Default" color="#ffffff" >不要问我，我什么都不知道。</font>
+DialogID_81078=<font face="Default" color="#ffffff" >今天天气不错，我出来散散步而已。</font>
+DialogID_81079=<font face="Default" color="#ffffff" >你说什么？什么姑娘丢了？我派人去找找。</font>
+DialogID_81080=<font face="Default" color="#ffffff" >你在找人么？我年纪大了，老眼昏花，什么都看不清楚。</font>
+DialogID_81081=<font face="Default" color="#ffffff" >你在干嘛？我今天买了点胭脂，你要不要拿去看看。</font>
+DialogID_81082=<font face="Default" color="#ffffff" >什么也别说，帮我去做点事情再来找我。</font>
+SubmitNpcEx_56014=事情都搞清楚，去告诉<a href="findnpc_new,school06,WorldNpc02604" style="HLStype1">绝尘师太</a>
+SubmitNpcEx_56021=捡到一个记事本，去给<a href="findnpc_new,school06,WorldNpc02692" style="HLStype1">燕长空</a>看看。
+SubmitNpcEx_56025=赶快去告诉<a href="findnpc_new,school06,WorldNpc02604" style="HLStype1">绝尘师太</a>
+SubmitNpcEx_56033=去和<a href="findnpc_new,school06,npc_4nei_emei30" style="HLStype1">无名老尼</a>谈谈
+SubmitNpcEx_56034=把消息都告诉<a href="findnpc_new,school06,WorldNpc02604" style="HLStype1">绝尘师太</a>
+SubmitNpcEx_56071=去找孙二获取奖励
+SubmitNpcEx_56072=去找孙二获取奖励
+SubmitNpcEx_56073=去找五内解说员获取奖励
+SubmitNpcEx_56074=去找五内解说员获取奖励
+collectinfo_81001=虽然<a href="findnpc_new,school06,npc_4nei_emei01" style="HLStype1">孙潇</a>不知所云，但是从他的眼神中可以看出，他在不断的提示你，在他的身边转转，看看有没有什么线索。
+collectinfo_81011=去和<a href="findnpc_new,school06,npc_4nei_emei03" style="HLStype1">张若止</a>比试武功，她现在就在下面的温泉处等你，温泉会从地底下喷出，你只要将她引诱至泉眼喷水处，待到她被泉水击中信物就会掉出来，然后取了她的定情信物。
+collectinfo_81021=咦，那边似乎有个<a href="findnpc_new,school06,npc_4nei_emei06" style="HLStype1">盒子</a>，捡起来看看。
+hunterinfo_81021=击败<a href="findnpc_new,school06,npc_4nei_emei28" style="HLStype1">孙潇</a>，孙潇受到了强烈的刺激，已经变的狂暴不堪。
+hunterinfo_81022=去往<a href="findnpc_new,born02,PlotDoor00035" style="HLStype1">雪山之巅</a>，杀上磨刀堂总坛，杀死少堂主。
+hunterinfo_81031=有<a href="findnpc_new,school06,npc_4nei_emei34" style="HLStype1">黑衣人</a>突袭，看来我的行动已经被人发现，先把他拿下再说。
+hunterinfo_81041=与入门弟子<a href="findnpc_new,school06,npc_4nei_emei33" style="HLStype1">峨眉学徒</a>切磋，看看她会不会使用其他门派的功夫。
+hunterinfo_81049=探索死牢内的奥秘，攻克熬信雄
+hunterinfo_81051=通过燕京沁水湖西岸的<a href="findnpc_new,city01,PlotDoor00062" style="HLStype1">洞口</a>进入水府洞天剿灭磨刀堂余孽
+hunterinfo_81052=进入<a href="findnpc_new,school05,PlotDoor00064" style="HLStype1">唐门</a>内击败<a href="findnpc_new,,Boss_4nei_xcj_002" style="HLStype1">巴依</a>
+hunterinfo_81053=进入<a href="findnpc_new,school07,PlotDoor00070" style="HLStype1">武当</a>内击败<a href="findnpc_new,,Boss_4nei_xcj_003" style="HLStype1">徐达欲</a>
+hunterinfo_81054=进入<a href="findnpc_new,school08,PlotDoor00067" style="HLStype1">阴森洞穴</a>内击败<a href="findnpc_new,,Boss_4nei_xcj_004" style="HLStype1">浮屠</a>
+hunterinfo_81056=进入<a href="findnpc_new,school06,PlotDoor00058" style="HLStype1">神秘房屋</a>，击败<a href="findnpc_new,,Boss_4nei_xcj_006" style="HLStype1">张广风</a>
+hunterinfo_81057=击败身藏烟雨庄附近<a href="findnpc_new,born03,PlotDoor00053" style="HLStype1">谷地</a>的歃血铁匠<a href="findnpc_new,adv106,Boss_4nei_xcj_007" style="HLStype1">薛剑剑</a>，削弱磨刀堂的势力。
+hunterinfo_81060=帮助捕快攻克<a href="findnpc_new,school06,monm060300" style="HLStype1">峨眉山贼</a>
+hunterinfo_81061=突然从尸体体内跑出一只<a href="findnpc_new,school06,npc_5n_em_02" style="HLStype1">蛊虫</a>，快把它杀死
+hunterinfo_81062=找找峨眉山上哪里还有类似的<a href="findnpc_new,school06,npc_5n_em_10" style="HLStype1">蛊虫</a>
+hunterinfo_81063=地上的这些<a href="findnpc_new,school06,monm062504" style="HLStype1">五彩蜘蛛</a>非常容易伤害到你，先杀死一些。
+hunterinfo_81064=突击<a href="findnpc_new,school06,npc_5n_em_08" style="HLStype1">化地老祖</a>
+hunterinfo_81065=原来莫姑娘真的被关在此地，快击败<a href="findnpc_new,city05,monc052700" style="HLStype1">南宫府密探</a>
+hunterinfo_81066=据莫姑娘所说，得去青羊宫刺探我为皇的秘密，门口有<a href="findnpc_new,city05,monc051600" style="HLStype1">讳言道士</a>，先杀死他，省的碍手碍脚暴露了行踪。
+hunterinfo_81067=<a href="findnpc_new,city05,npc_5n_zx_13" style="HLStype1">心魔</a>来袭，务必要克制自己的心魔
+hunterinfo_81068=突然杀出三个<a href="findnpc_new,city05,npc_5n_zx_14" style="HLStype1">黑衣人</a>，击败他们。
+hunterinfo_81069=击败<a href="findnpc_new,city05,npc_5n_zx_15" style="HLStype1">黑衣人</a>
+hunterinfo_81070=击败<a href="findnpc_new,city05,npc_5n_zx_16" style="HLStype1">黑衣人</a>
+hunterinfo_81071=击败一些<a href="findnpc_new,city05,monc050102" style="HLStype1">蛊毒狂人</a>
+hunterinfo_81072=杀死一些<a href="findnpc_new,city05,monc050101" style="HLStype1">细脚毒蜘蛛</a>
+hunterinfo_81404=<a href="findnpc_new,born02,npc_qygp_x04" style="HLStype1">客栈打手</a>冲上来要找你算账，快应付他一下。
+hunterinfo_81408=抓几只<a href="findnpc_new,born02,npc_qygp_x02" style="HLStype1">雪山田鸡</a>来烤了吃（雪山田鸡喜好钻地，出现的时间时长时短，极其难以抓捕）。
+hunterinfo_81500=探索死牢内的秘密，攻克疯狂的古狱
+interactinfo_81001=峨眉近日出现了一个神秘人<a href="findnpc_new,school06,npc_4nei_emei01" style="HLStype1">孙潇</a>，去问问他是什么来头。
+interactinfo_81002=经过一番调查，现在<a href="findnpc_new,school06,WorldNpc02604" style="HLStype1">绝尘师太</a>有事情要交代你
+interactinfo_81003=<a href="findnpc_new,school06,WorldNpc02604" style="HLStype1">绝尘师太</a>绝顶聪明，她似乎想到了什么。
+interactinfo_81011=去问问<a href="findnpc_new,school06,npc_4nei_emei02" style="HLStype1">张若止</a>，打听打听她当年的情事。
+interactinfo_81012=<a href="findnpc_new,school06,npc_4nei_emei01" style="HLStype1">孙潇</a>有话要问你
+interactinfo_81013=<a href="findnpc_new,school06,npc_4nei_emei01" style="HLStype1">孙潇</a>还有话要你告诉张若止
+interactinfo_81014=去找<a href="findnpc_new,school06,npc_4nei_emei02" style="HLStype1">张若止</a>，把孙潇说的话告诉她。
+interactinfo_81015=看看<a href="findnpc_new,school06,npc_4nei_emei02" style="HLStype1">张若止</a>还有什么话要说。
+interactinfo_81021=听<a href="findnpc_new,school06,WorldNpc02604" style="HLStype1">绝尘师太</a>的交代
+interactinfo_81022=捡到一个记事本，去给<a href="findnpc_new,school06,WorldNpc02692" style="HLStype1">燕长空</a>看看。
+interactinfo_81023=去往<a href="findnpc,school06,397,16,556" style="HLStype1">一线天</a>，找到孙潇和张若止。
+interactinfo_81024=把一切都告诉<a href="findnpc_new,school06,WorldNpc02604" style="HLStype1">绝尘师太</a>
+interactinfo_81025=要到哪里才能找到孙潇的记录本呢？只能先去找找<a href="findnpc_new,school06,npc_4nei_emei02" style="HLStype1">张若止</a>，再问问旁边的<a href="findnpc_new,school06,WorldNpc02621" style="HLStype1">张丹</a>。
+interactinfo_81026=张若止不知所踪，到前面去看看，找找<a href="findnpc_new,school06,ItemNpc02201" style="HLStype1">线索</a>。
+interactinfo_81027=<a href="findnpc_new,school06,WorldNpc02692" style="HLStype1">燕长空</a>无辜受冤，去慰问一下他。
+interactinfo_81028=咦，那边似乎有个<a href="findnpc_new,school06,npc_4nei_emei06" style="HLStype1">盒子</a>，捡起来看看。
+interactinfo_81031=近日磨刀堂盗取了我门派宝物倚天剑鞘，并留下书信一封，要求破解他们留下的一个考验，<a href="findnpc_new,school06,WorldNpc02604" style="HLStype1">绝尘师太</a>心急如焚，她有重要的事情要交代你。
+interactinfo_81032=去找到<a href="findnpc_new,school06,npc_4nei_emei30" style="HLStype1">无名老尼</a>，问问她丢宝当日有没有什么异常？
+interactinfo_81033=去查查盗贼留下来的<a href="findnpc_new,school06,npc_4nei_emei32" style="HLStype1">脚印</a>
+interactinfo_81034=去找峨眉掌管衣物的<a href="findnpc_new,school06,npc_4nei_emei31" style="HLStype1">衣芙蓉</a>聊聊，或许能从脚印中发现一点线索。
+interactinfo_81035=听<a href="findnpc_new,school06,npc_4nei_emei30" style="HLStype1">无名老尼</a>讲讲丢宝之日所发生的事情。
+interactinfo_81042=为了保密起见，去找<a href="findnpc_new,school06,WorldNpc02636" style="HLStype1">绝慧师太</a>商量，暗中调查丢宝一事。
+interactinfo_81043=把结果告诉<a href="findnpc_new,school06,WorldNpc02636" style="HLStype1">绝慧师太</a>
+interactinfo_81044=去找<a href="findnpc_new,school06,em814" style="HLStype1">岳珊</a>，安排她下山调查。
+interactinfo_81045=去找<a href="findnpc_new,school06,em815" style="HLStype1">令狐盈</a>，安排她下山调查。
+interactinfo_81046=去找<a href="findnpc_new,school06,em816" style="HLStype1">任灵</a>，安排她下山调查。
+interactinfo_81047=去找<a href="findnpc_new,school06,em813" style="HLStype1">顾娟</a>，安排她下山调查。
+interactinfo_81048=<a href="findnpc_new,school06,WorldNpc02636" style="HLStype1">绝慧师太</a>带话来，只说有事发生，让你赶快过去。
+interactinfo_81049=峨眉后院突然无故起火，还有数名弟子死伤，<a href="findnpc_new,school06,WorldNpc02636" style="HLStype1">绝慧师太</a>有事情要交代你去做。
+interactinfo_81050=后院有一个受伤的<a href="findnpc_new,school06,npc_4nei_emei35" style="HLStype1">峨眉弟子</a>，快去查看一下她的伤势。
+interactinfo_81060=有一个<a href="findnpc_new,school06,npc_5n_em_01" style="HLStype1">峨眉弟子</a>躺在地上，看样子是已经不行了。去翻动一下她的身躯，看看有何古怪之处。
+interactinfo_81061=那个骗人的<a href="findnpc_new,school06,npc_5n_em_11" style="HLStype1">阿离</a>还没走远，快追上去。
+interactinfo_81062=这件事情与那<a href="findnpc_new,school06,npc_5n_em_12" style="HLStype1">化地夫人</a>定脱不了干系！快上山去找她
+interactinfo_81063=原来我为皇还有这等阴谋，我还是先赶回<a href="findnpc_new,city05,EventNpc_5n_zx_07" style="HLStype1">武侯祠</a>与莫姑娘汇合吧。
+interactinfo_81065=去往洛阳调查一些<a href="findnpc_new,city04,npc_5n_zx_07" style="HLStype1">线索</a>
+interactinfo_81066=那边摆放着一把<a href="findnpc_new,city04,npc_5n_zx_09" style="HLStype1">铲子</a>
+interactinfo_81067=还有一堆<a href="findnpc_new,city04,npc_5n_zx_10" style="HLStype1">铁链</a>堆在地上
+interactinfo_81068=那边有个<a href="findnpc_new,city04,npc_5n_zx_08" style="HLStype1">小孩</a>在玩耍
+interactinfo_81069=<a href="findnpc_new,city04,npc_5n_zx_05" style="HLStype1">蝴蝶</a>围在他的身边
+interactinfo_81070=此事看来定与<a href="findnpc_new,city05,EventNpc_5n_zx_01" style="HLStype1">南宫世家</a>有关，赶过去看看。
+interactinfo_81071=看来硬闯是不行的了，得好好想个办法！对了，观察一下院里的厨子送饭的行迹，可能会发现<a href="findnpc,city05,321.271,119.289,209.560" style="HLStype1">可疑之处</a>（跟随其中的一名厨子，可回原处重新寻找）
+interactinfo_81072=悄悄进入<a href="findnpc_new,city05,EventNpc_5n_zx_03" style="HLStype1">青羊宫</a>
+interactinfo_81073=刚才是怎么了？我还是问问旁边的<a href="findnpc_new,city05,npc_5n_zx_12" style="HLStype1">看守</a>
+interactinfo_81074=进入武侯祠到处找找<a href="findnpc_new,city05,EventNpc_5n_zx_04" style="HLStype1">莫姑娘</a>
+interactinfo_81075=这里不见莫姑娘的踪迹，去找找<a href="findnpc_new,city05,EventNpc_5n_zx_05" style="HLStype1">别的地方</a>
+interactinfo_81076=还是没有，<a href="findnpc_new,city05,EventNpc_5n_zx_06" style="HLStype1">莫姑娘</a>到底躲到哪里去了
+interactinfo_81077=问问附近的<a href="findnpc_new,city05,World_qy_em018" style="HLStype1">全石</a>，有没有见过一个年轻女子经过。
+interactinfo_81078=<a href="findnpc_new,city05,ldjhd_05" style="HLStype1">安健</a>站在那边很久了，会不会看到点什么。
+interactinfo_81079=<a href="findnpc_new,city05,WorldNpc09624" style="HLStype1">王霸</a>是这一带的地头蛇，在这里耳目众多，会不会知道点什么。
+interactinfo_81080=<a href="findnpc_new,city05,cd469" style="HLStype1">萧山凤</a>就在不远处，去问问她有什么情况。
+interactinfo_81081=<a href="findnpc_new,city05,WorldNpc09836" style="HLStype1">倪欢</a>应该知道点什么。
+interactinfo_81082=<a href="findnpc_new,city05,WorldNpc09828" style="HLStype1">浦叶</a>也许能告诉你点什么。
+interactinfo_81083=探索死牢内的秘密，攻克疯狂的古狱
+interactinfo_81084=将箱子推到前面那个NPC的光圈里去。
+interactinfo_81085=将箱子推到对面NPC的光圈里去。
+okmenu_81002=<font face="Default" color="#ffffff" >我这就去。</font>
+okmenu_81003=<font face="Default" color="#ffffff" >师傅，你想到什么了吗？</font>
+okmenu_81011=<font face="Default" color="#ffffff" >这，这人太恐怖了。</font>
+okmenu_81021=<font face="Default" color="#ffffff" >是，掌门，这记录本可不好找啊。</font>
+okmenu_81022=<font face="Default" color="#ffffff" >这，莫非就是孙潇记事本？真是踏破铁鞋无觅处，得来全不费功夫。前辈，这本子记录了重要的信息，孙潇去了哪里？我很着急的要找他。</font>
+okmenu_81025=<font face="Default" color="#ffffff" >我来找张若止，可是好像她不在这里了。</font>
+okmenu_81026=<font face="Default" color="#ffffff" >咦？这是怎么回事？对了，梅村最近来了一个六扇门的神捕，听说破案十分厉害，我去请他来验验这血迹。</font>
+okmenu_81027=<font face="Default" color="#ffffff" >长空大人，你别生气了，下次习武我给你找个清静一点的地方。</font>
+okmenu_81031=<font face="Default" color="#ffffff" >我马上就去找那老尼，定要查个水落石出。</font>
+okmenu_81033=<font face="Default" color="#ffffff" >把这个脚印拓下来。</font>
+okmenu_81042=<font face="Default" color="#ffffff" >师太英明，我这会去和她们比试比试，三十招之内，我必能逼的她们露出本来的功夫底子。</font>
+okmenu_81043=<font face="Default" color="#ffffff" >哎，不知我是否露出了马脚。不管我怎么打，她们死活不露本来的功夫，眼看着就要被我打的不行了。</font>
+okmenu_81044=<font face="Default" color="#ffffff" >师太有命，让你下山去调查新入峨眉弟子的底细。</font>
+okmenu_81045=<font face="Default" color="#ffffff" >师太有命，最近峨眉来了一批新弟子，师傅要你去查查她们的底细。</font>
+okmenu_81046=<font face="Default" color="#ffffff" >师姐，有件事情要麻烦你，师太要你去调查一些入门峨眉弟子的底细，你可要赶紧去才成。</font>
+okmenu_81047=<font face="Default" color="#ffffff" >师姐好眼力，师太有命，要你去调查最近新入峨眉弟子的底细。</font>
+okmenu_81048=<font face="Default" color="#ffffff" >什么？这，这，怎么会这样？</font>
+okmenu_81049=<font face="Default" color="#ffffff" >我等誓与峨眉共存亡。</font>
+okmenu_81050=<font face="Default" color="#ffffff" >这磨刀堂对我派的行动是了如指掌，此事得速速禀告掌门。</font>
+okmenu_81061=<font face="Default" color="#ffffff" >是你害了果果，拿命来。</font>
+okmenu_81069=<font face="Default" color="#ffffff" >咦？蝴蝶翅膀上居然有字，让我仔细看看。</font>
+okmenu_81073=<font face="Default" color="#ffffff" >这，我没事，我没事。</font>
+okmenu_81077=<font face="Default" color="#ffffff" >哎，你太让我失望了。</font>
+okmenu_81078=<font face="Default" color="#ffffff" >好吧，我啥也不问了。</font>
+okmenu_81079=<font face="Default" color="#ffffff" >这事你还是不知道的好。</font>
+okmenu_81080=<font face="Default" color="#ffffff" >得，你接着休息吧。</font>
+okmenu_81081=<font face="Default" color="#ffffff" >哪有心思来跟你讨论这个。</font>
+okmenu_81082=<font face="Default" color="#ffffff" >你说吧，要干嘛？</font>
+story_81001_1=<font face="Default" color="#ffffff" >八大门派，无一可以幸免此番浩劫！</font>
+story_81001_2=<font face="Default" color="#ffffff" >这，这（神秘人欲言又止，似乎有什么难言之隐）</font>
+story_81002_1=<font face="Default" color="#ffffff" >调查的怎么样？</font>
+story_81002_2=<font face="Default" color="#ffffff" >纸条？拿来我看看，这纸条上面什么都没有啊？</font>
+story_81003_1=<font face="Default" color="#ffffff" >那字条上写的什么？</font>
+story_81003_2=<font face="Default" color="#ffffff" >那他又为什么要用这种方式提示我们呢？莫非，他有什么难言之隐？</font>
+story_81003_3=<font face="Default" color="#ffffff" >恩，不错，磨刀堂还果真给我们安排了一个大难题！等等，孙潇！孙潇！这个名字怎么那么熟悉呢？莫非？我知道了，你赶紧去问问水净师太当年张若止的一段往事。你快去！</font>
+story_81011_1=<font face="Default" color="#ffffff" >看你如此着急，定是有事发生？听说近来磨刀堂气焰嚣张，莫非老尼有什么可以帮上忙的地方？</font>
+story_81011_2=<font face="Default" color="#ffffff" >张若止？怎么会打听起张若止的事情来了？这是一段很久以前的往事了，峨眉记得这件事情的，恐怕也就我们几个老人了。</font>
+story_81011_3=<font face="Default" color="#ffffff" >此事说来话长，当年有一个潇洒的公子来我峨眉拜山，当年张若止还是一个漂亮的姑娘，两个年轻人很快就坠入了爱河。张若止为了那公子违抗师傅的命令最终落得了如今这步田地。</font>
+story_81011_4=<font face="Default" color="#ffffff" >后来，那个公子哥离开了峨眉，抛弃了张若止。张若止也变成了现在这个样子。听说张若止随身还带着当年的定情信物，哎，真是一段孽缘啊。</font>
+story_81011_5=<font face="Default" color="#ffffff" >这事情过去了太长的时间了，我都已经记不清楚了。</font>
+story_81012_1=<font face="Default" color="#ffffff" >你是什么东西？快滚！</font>
+story_81012_2=<font face="Default" color="#ffffff" >快滚，我谁也不想见。你不怕死吗？</font>
+story_81012_3=<font face="Default" color="#ffffff" >你还留在这里是要等死吗？天就要黑了，不要打扰我练功。</font>
+story_81014_1=<font face="Default" color="#ffffff" >你从何处得来的这支发簪？</font>
+story_81014_2=<font face="Default" color="#ffffff" >记得，这是我一辈子也忘不了的。你见过若止了吗？她现在还好吗？这么多年了，自从我们峨眉一别，就再也没有见过她，是我对不起她，是我害苦了她。你快去告诉她，就说我没有忘记她，我很想见她，我是来向她赔罪的。</font>
+story_81015_1=<font face="Default" color="#ffffff" >你是不是偷了我的发簪？快拿来，不然我要了你的命。</font>
+story_81015_2=<font face="Default" color="#ffffff" >孙潇！他怎么来了？这么多年，他还记的我这个非人非鬼的老太婆吗？他害我害的还不够吗？他还来做什么！</font>
+story_81015_3=<font face="Default" color="#ffffff" >原谅？哈哈哈哈，当年他对我如此狠心，这么多年不闻不问，现在来跟我说要我原谅他？</font>
+story_81015_4=<font face="Default" color="#ffffff" >哈哈哈哈，这件事情不劳烦你操心，我想见就见，不想见就不见，你快滚吧。</font>
+story_81021_1=<font face="Default" color="#ffffff" >哈哈哈哈，这事情真巧了，此事你得去找那燕长空问问。</font>
+story_81021_2=<font face="Default" color="#ffffff" >前些日子那燕长空大人去温泉处习武，无意中看到了一群女子在温泉内洗澡，一不小心被当成了淫贼，被一个路过的唐门弟子飞了一镖，那血迹应该就是他留下的。</font>
+story_81022_1=<font face="Default" color="#ffffff" >你看到了什么？</font>
+story_81022_2=<font face="Default" color="#ffffff" >一天，一天？哦，我知道了，一线天，孙潇去了一线天，你去一线天找他吧。</font>
+story_81024_1=<font face="Default" color="#ffffff" >孙潇调查的怎么样了？门派宝物的下落又如何？</font>
+story_81024_2=<font face="Default" color="#ffffff" >什么？孙潇已经死了？</font>
+story_81024_3=<font face="Default" color="#ffffff" >那倚天剑鞘的下落呢？</font>
+story_81024_4=<font face="Default" color="#ffffff" >原来是这样！此行凶险异常，你前去磨刀堂一定要万分小心哪！</font>
+story_81031_1=<font face="Default" color="#ffffff" >咦，你手里拿的是什么东西？</font>
+story_81031_2=<font face="Default" color="#ffffff" >脚印？（衣芙蓉拿起拓片左右端详，似乎发现了一点什么），这可不像一般制鞋作坊里出来的东西，你看这花纹精致，用料讲究，依我看这倒是像朝廷进贡之物。</font>
+story_81041_1=<font face="Default" color="#ffffff" >刚才有弟子来报，就在你去调查了脚印之后，藏宝阁老尼和制衣掌事都遭到黑衣人偷袭，幸好巡逻弟子及时发现，才幸免于难.....</font>
+story_81041_2=<font face="Default" color="#ffffff" >这件事情现在已经惊动了峨眉的前辈，为今之计，恐怕只能暗地里行事了，尽量不要走漏风声，并秘密调查峨眉内部的眼线。你现在去找绝慧师太，她会安排你怎么做的。</font>
+story_81042_1=<font face="Default" color="#ffffff" >徒儿不要着急，我已经听说了。</font>
+story_81042_2=<font face="Default" color="#ffffff" >从目前的情形来看，我峨眉之内必有磨刀堂的眼线，不然你刚走，怎么会有黑衣人袭击制衣掌事和老尼呢？我猜测最近门派内新加入了一批小尼姑，这些人中必然混入了磨刀堂的人。</font>
+story_81042_3=<font face="Default" color="#ffffff" >你去调查一下这些小尼姑的武功底子，看看她们有没有外家的武学渊源，只是这些人肯定很狡猾，你要出全力逼他们慌乱中使出本门功夫。</font>
+story_81043_1=<font face="Default" color="#ffffff" >事情办的怎么样？</font>
+story_81043_2=<font face="Default" color="#ffffff" >看来这些人都是经过严格训练的死士，要想从她们身上查出点破绽是不可能了。</font>
+story_81043_3=<font face="Default" color="#ffffff" >看来只能安排一些信的过的人去外围调查一番了，我给你一个名单，你安排这些人去山下打听打听，看看江湖上是否有什么异动。</font>
+story_81044_1=<font face="Default" color="#ffffff" >恩，徒儿非常能干，此事神不知鬼不觉，应该可以调查出一些重要的线索来。磨刀堂，你留点神吧，哈哈哈。</font>
+story_81044_2=<font face="Default" color="#ffffff" >我们也不可太过轻敌，当日我与哑仆交过手，他虽然被我击败，可是我隐约觉得此人内力不低，如若此人真是磨刀堂内一个籍籍无名的哑仆，那磨刀堂的主人功力实在是深不可测。</font>
+story_81045_1=<font face="Default" color="#ffffff" >事情不妙啊，刚才山下传来消息。你安排出去的师姐师妹们，在山脚下受到伏击，有些还身受重伤！</font>
+story_81045_2=<font face="Default" color="#ffffff" >哎，我也没想到这磨刀堂的势力竟然如此强大，如今之计，恐怕只有按照磨刀堂的安排来行事了，看看他到底给我们留下了一个什么考验？</font>
+story_81052_1=<font face="Default" color="#ffffff" >你哪里知道！这丹书铁券为世袭罔替，关键时刻可为门派消灾避祸。</font>
+story_81052_2=<font face="Default" color="#ffffff" >哼！他多年来早有打算收回铁券，只是一直没有理由。这次只是利用磨刀堂一事找个借口罢了。</font>
+story_81053_1=<font face="Default" color="#ffffff" >是四大寇的血书，希望我派高手帮助营救丁九重</font>
+story_81053_2=<font face="Default" color="#ffffff" >如今正值多事之秋，皇上刚刚收回丹书铁券，难保他不会再找借口找八大派的麻烦。我身为掌门自然要为</font><font face="Default" color="#ffffff" >峨眉</font><font face="Default" color="#ffffff" >考虑，你如前往，只可以个人身份，不管生死概予</font><font face="Default" color="#ffffff" >峨眉</font><font face="Default" color="#ffffff" >无关，你可愿意？</font>
+story_81053_3=<font face="Default" color="#ffffff" >好！好！好！不管结果如何，</font><font face="Default" color="#ffffff" >峨眉</font><font face="Default" color="#ffffff" >名簿上从此有你一名。血书上说他们正在金陵明镜湖旁，你可立即起程。</font>
+story_81054_1=<font face="Default" color="#ffffff" >这事儿你本不该去掺和，鲁莽行事只会惹祸上身。也许当初劫法场就是个错误，唉！</font>
+story_81302_1=<font face="Default" color="#ffffff" >当日夜黑风高，我正在阁内休息，只听得外面树叶沙沙作响，恍惚间只见几条黑影窜入阁内。</font>
+story_81302_2=<font face="Default" color="#ffffff" >这伙人行动很迅速，轻功之高非一般江湖大盗所能及，而且他们直奔那</font><font face="Default" color="#ffffff" >倚天剑鞘</font><font face="Default" color="#ffffff" >而去，似乎早已熟知这阁内的摆设，我老尼姑功夫不济，只能默不作声，待到黑影闪去，我才得以去报告掌门。</font>
+story_81302_3=<font face="Default" color="#ffffff" >这伙人武功虽强，但却似乎不善偷盗。临走之时，居然在院墙外面留下了一个脚印，你可以去查看一下。</font>
+story_81401_1=<font face="Default" color="#ffffff" >我肚子好饿啊！</font>
+story_81401_2=<font face="Default" color="#ffffff" >走开！（老乞拿起包子闻了一下，把包子扔在了地上。）</font>
+story_81401_3=<font face="Default" color="#ffffff" >我不要吃包子，我要吃大鱼大肉，我要喝酒！</font>
+story_81401_4=<font face="Default" color="#ffffff" >啥？你看不起我这个臭要饭的？我还偏要吃给你看。你到饭庄去点好一桌酒菜，我这就来！</font>
+story_81402_1=<font face="Default" color="#ffffff" >好嘞！客官里面请！</font>
+story_81403_1=<font face="Default" color="#ffffff" >你就瞧好吧！（老乞丐一仰脖子，喝了一口酒，“噗”的一声朝着一桌子菜喷了过去，然后大喊一句“啊呀，我忘带钱了。”）</font>
+story_81403_2=<font face="Default" color="#ffffff" >哈哈，小子，我先溜了，你怎么还不快跑，等着店家来打你啊？</font>
+story_81405_1=<font face="Default" color="#ffffff" >哈哈哈哈，我看你武艺高强，一个小小客栈打手能奈你何？</font>
+story_81405_2=<font face="Default" color="#ffffff" >你看那酒菜不是还在桌子上吗？你再去管那店小二要就是了。</font>
+story_81405_3=<font face="Default" color="#ffffff" >哈哈哈哈，傻小子，你不记得我喷过口水在那菜上了吗？反正他也卖不掉了，扔了也浪费，还不如送我得了！</font>
+story_81406_1=<font face="Default" color="#ffffff" >你！你还要干什么？你还想打劫不成？</font>
+story_81406_2=<font face="Default" color="#ffffff" >商量什么？跟你有什么好商量的！</font>
+story_81406_3=<font face="Default" color="#ffffff" >什么？你们！你们真是无赖啊！遇到你们俩算我倒霉了！拿上你们的酒菜快走，我以后再也不想看见你们。</font>
+story_81407_1=<font face="Default" color="#ffffff" >哈哈哈哈，你看，我没说错吧，今天可以饱餐一顿了。</font>
+story_81407_2=<font face="Default" color="#ffffff" >你不要看不起我老乞丐，想当年我在皇帝老儿的御厨房里大吃了半个多月，直到吃腻了才跑出来。</font>
+story_81407_3=<font face="Default" color="#ffffff" >我曾经吃过一种雪山田鸡，这种田鸡数量稀少，肉质细腻，只要吃上一口就终生难忘。</font>
+story_81407_4=<font face="Default" color="#ffffff" >巧了，前些日子我在附近见过这种田鸡，你可以去抓一些来尝尝。</font>
+story_81409_1=<font face="Default" color="#ffffff" >年轻人，你的见识还少了点呐！以后跟我走，我保证你吃香的喝辣的！</font>
+story_81409_2=<font face="Default" color="#ffffff" >怎么！你看不起乞丐？做乞丐有什么不好的，想吃就吃，想睡就睡，想走就走，我看阁下从头到脚没有一点不像乞丐的，有没有兴趣加入我们丐帮啊？加以时日你定能成为乞丐中的霸主！</font>
+story_81409_3=<font face="Default" color="#ffffff" >还是乞丐！</font>
+story_81409_4=<font face="Default" color="#ffffff" >年轻人，我这里有只叫花鸡或许会对你有用！</font>
+story_81409_5=<font face="Default" color="#ffffff" >以后你遇到我丐帮前辈逍遥老乞，一定记得要向他讨教几招。</font>
+story_81420_1=<font face="Default" color="#ffffff" >近来各门主事上报，有不少弟子无故失踪。此事非同小可，我等得速速想法子应对才是。</font>
+story_81420_2=<font face="Default" color="#ffffff" >不错，我担心的正是此事，只是苦于没有证据，还是得你等前去调查，一有线索，速速上报。</font>
+story_81420_3=<font face="Default" color="#ffffff" >此事说来也怪，在我峨眉山脚下，是谁敢如此放肆，敢掳我弟子，我看他是活的不耐烦了。</font>
+story_81420_4=<font face="Default" color="#ffffff" >不错，我峨眉山上太平很久了，近来要吩咐弟子勤加练功，最怕有什么仇家找上门，这可是难对付的很！</font>
+story_81421_1=<font face="Default" color="#ffffff" >哎，每天找我打听事情的人一大堆，我快忙死了。你去帮我抓两个山贼，我就告诉你。</font>
+story_81422_1=<font face="Default" color="#ffffff" >没错，最近山脚下不太平，老是报案人口失踪，包括你们峨眉的人。听说前些天还在山坳里发现了一具峨眉弟子的尸体，衙门正要去报峨眉掌门来认领，你来的正好，快去看看你的师姐。</font>
+story_81423_1=<font face="Default" color="#ffffff" >什么事情，说吧</font><font face="Default" color="#ffffff" >。</font>
+story_81423_2=<font face="Default" color="#ffffff" >这里是英雄谷，不是英雄怎么敢到这里来？</font>
+story_81423_3=<font face="Default" color="#ffffff" >你想多了。你快走吧。（逍遥，你干嘛呢？快过来，远处传来一个女人声。）</font>
+story_81423_4=<font face="Default" color="#ffffff" >见笑了，多情自古空余恨，</font><font face="Default" color="#ffffff" >这是</font><font face="Default" color="#ffffff" >相思成血</font><font face="Default" color="#ffffff" >，</font><font face="Default" color="#ffffff" >你不懂的。</font>
+story_81423_5=<font face="Default" color="#ffffff" >此人便是江湖中名不见经传的化地夫人夏萍儿</font>
+story_81424_1=<font face="Default" color="#ffffff" >怎么了？又出了什么事情了？</font>
+story_81424_2=<font face="Default" color="#ffffff" >什么化地夫人？此人叫甚名谁？</font>
+story_81424_3=<font face="Default" color="#ffffff" >什么？叫什么？</font>
+story_81424_4=<font face="Default" color="#ffffff" >这个妖女，怎么又在我峨眉出现了，此人一出，必定引来一场风波。你们一定要万分小心才是。</font>
+story_81424_5=<font face="Default" color="#ffffff" >当年你一个师伯走岔了道，爱上了一个叫柳若非的魔教中人，还跟这个人生下了一个孩子。没想到这个花花公子早就有了一个女人，这个人就叫夏萍儿。这个女人突然出现在我峨眉，定是要对我峨眉不利。</font>
+story_81425_1=<font face="Default" color="#ffffff" >啊，师姐。你到哪里去了？这两天都没有看见你。</font>
+story_81425_2=<font face="Default" color="#ffffff" >果果生病了，我带她下来看病的，这孩子太不省心了。听说村子里来了一个神医，我就带她去看</font><font face="Default" color="#ffffff" >了一下</font><font face="Default" color="#ffffff" >。</font>
+story_81425_3=<font face="Default" color="#ffffff" >据说很灵的，村里好多人得病了，就是那人给看好的。</font>
+story_81426_1=<font face="Default" color="#ffffff" >我在卖一种神药，名叫“相思成血”，包治百病啊！大家快来买啊！</font>
+story_81426_2=<font face="Default" color="#ffffff" >多情自古空余恨，人世间的一切疾病，皆是因为情而起。这相思成血，便能让你忘记人间一切烦恼。</font>
+story_81426_3=<font face="Default" color="#ffffff" >你买不买？来一包嘛，包治百病，无病也能强身健体。</font>
+story_81427_1=<font face="Default" color="#ffffff" >不知道啊，果果突然就倒下了，说她肚子特别疼，像有个虫子</font><font face="Default" color="#ffffff" >在</font><font face="Default" color="#ffffff" >爬一样，呜呜呜。</font>
+story_81428_1=<font face="Default" color="#ffffff" >我</font><font face="Default" color="#ffffff" >，我肚子好难受，我是不是快要死了。</font>
+story_81428_2=<font face="Default" color="#ffffff" >呜呜呜，我恐怕是要不行了，你，你要替我报复。</font>
+story_81429_1=<font face="Default" color="#ffffff" >哈哈哈</font><font face="Default" color="#ffffff" >，我已形同行尸走肉，活着和死去还有什么分别？</font>
+story_81429_2=<font face="Default" color="#ffffff" >相思成血</font><font face="Default" color="#ffffff" >是一种控制人意志的蛊毒，一旦中毒，除非下蛊之人死去，要不然你就会像案板之上的鱼肉一样，任人宰割。</font>
+story_81429_3=<font face="Default" color="#ffffff" >没错，中蛊之人必须每隔三日服用解药才能克制体内的蛊虫发作，不然就会四肢萎缩，七窍流血而死。</font>
+story_81429_4=<font face="Default" color="#ffffff" >哎，只因我爹娘给了我这副臭皮囊，长的偏偏像那贼婆娘的前情人柳若非，那贼婆娘长期凌辱于我，我真是生不如死。</font>
+story_81430_1=<font face="Default" color="#ffffff" >啊哈哈，现在这里已经是虫王谷了！</font>
+story_81430_2=<font face="Default" color="#ffffff" >峨眉掌门？峨眉掌门是什么东西？哈哈，当年我的情郎柳若非就是被峨眉的人害死的，我巴不得你们峨眉派从此在江湖中消失！</font>
+story_81430_3=<font face="Default" color="#ffffff" >你想要救你的小妹？这也不是不可以，我虽然恨透了你们峨眉，可是我更恨另外一个人！</font>
+story_81430_4=<font face="Default" color="#ffffff" >就是我的丈夫化地老祖，当年他强掳我做了他的夫人，多少年来，对我百般折磨，我早就已经受够了。如今蛊毒已经在峨眉扩散，你只有杀了他，才能救你的小妹，才能救</font><font face="Default" color="#ffffff" >那些</font><font face="Default" color="#ffffff" >中了蛊毒的峨眉弟子。</font>
+story_81431_1=<font face="Default" color="#ffffff" >事情怎么样了？</font>
+story_81431_2=<font face="Default" color="#ffffff" >啊哈哈哈，老天爷啊，你终于开眼了！</font>
+story_81440_1=<font face="Default" color="#ffffff" >走开，不要理我，我已经是个废人。</font>
+story_81440_2=<font face="Default" color="#ffffff" >不要管我，如今我生不如死。我唯一想做到的就是找到莫无情。</font>
+story_81440_3=<font face="Default" color="#ffffff" >话说当日决战之夜，和氏璧分为阴阳两阙，现场一定留下一点蛛丝马迹也说不定</font><font face="Default" color="#ffffff" >。</font>
+story_81441_1=<font face="Default" color="#ffffff" >我......我还活着。</font>
+story_81441_2=<font face="Default" color="#ffffff" >是......是我为皇干的。</font>
+story_81441_3=<font face="Default" color="#ffffff" >君可怎么样了？</font>
+story_81442_1=<font face="Default" color="#ffffff" >闲杂人等，一律不得进入。</font><font face="Default" color="#ffffff" >你有何事？无事请回。</font>
+story_81442_2=<font face="Default" color="#ffffff" >庄主出门游历，你改日再来吧。</font>
+story_81443_1=<font face="Default" color="#ffffff" >听说去了青羊宫。</font>
+story_81443_2=<font face="Default" color="#ffffff" >大侠小心，我为皇武功高强，只可智取，不可强攻。</font>
+story_81444_1=<font face="Default" color="#ffffff" >我听说这里有异动，我就来看看。</font>
+story_81444_2=<font face="Default" color="#ffffff" >什么？无情她还好吗？</font>
+story_81444_3=<font face="Default" color="#ffffff" >你到这里来做什么？</font>
+story_81444_4=<font face="Default" color="#ffffff" >又是这个我为皇！</font>
+story_81445_1=<font face="Default" color="#ffffff" >什么姑娘？我们这姑娘多的是，你要找的是哪个？</font>
+story_81445_2=<font face="Default" color="#ffffff" >我们这里最虚弱的人就在那不远处的房子里，你去看看她是不是你要找的人。</font>
+story_81446_1=<font face="Default" color="#ffffff" >咳咳，你是谁？找我何事？</font>
+story_81446_2=<font face="Default" color="#ffffff" >你在找谁？</font><font face="Default" color="#ffffff" >你还是去问问王勇吧。</font>
+story_81447_1=<font face="Default" color="#ffffff" >你是什么人？我见过如何，没见过又如何？</font>
+story_81447_2=<font face="Default" color="#ffffff" >如此说来，我应该知道的你找的是谁了。前些天在我这屋子附近，来了一位受伤的姑娘，我想应该就是你要找的人。</font>
+story_81448_1=<font face="Default" color="#ffffff" >这里危机四伏，我实在没有办法，才找了个地方躲了起来。</font>
+story_81448_2=<font face="Default" color="#ffffff" >多谢。</font>
+story_81449_1=<font face="Default" color="#ffffff" >啊？莫姑娘可安好？</font>
+story_81449_2=<font face="Default" color="#ffffff" >不错，你现在还有一个重要的事情。我为皇一心想要陷害燕双行，你得找到燕双行，让他提防我为皇的诡计。</font>
+story_81450_1=<font face="Default" color="#ffffff" >自从洛阳一战，邢君可就意志消沉，你得去劝劝他。</font>
+story_menu_81001=<font face="Default" color="#ffffff" >你就是那个神秘人孙潇？</font>
+story_menu_81002=<font face="Default" color="#ffffff" >掌门，我回来了。</font>
+story_menu_81003=<font face="Default" color="#ffffff" >掌门，我知道了，那纸条上有字，遇到水就显示出来了。</font>
+story_menu_81011=<font face="Default" color="#ffffff" >师太，我有一件很重要的事情要问问你。</font>
+story_menu_81012=<font face="Default" color="#ffffff" >前辈，今天天气</font><font face="Default" color="#ffffff" >真</font><font face="Default" color="#ffffff" >不错！</font>
+story_menu_81014=<font face="Default" color="#ffffff" >你</font><font face="Default" color="#ffffff" >看这是什么？</font>
+story_menu_81015=<font face="Default" color="#ffffff" >前辈，莫怪我多事，我这也是不得以而为之</font><font face="Default" color="#ffffff" >。</font>
+story_menu_81021=<font face="Default" color="#ffffff" >神捕大人，我有一事不解，我在温泉处发现了一处血迹，还请神捕大人前去调查一番。</font>
+story_menu_81022=<font face="Default" color="#ffffff" >前辈，这是怎么回事？</font>
+story_menu_81024=<font face="Default" color="#ffffff" >掌门，我有要事禀告。</font>
+story_menu_81031=<font face="Default" color="#ffffff" >衣姐姐，你看看这是什么？</font>
+story_menu_81041=<font face="Default" color="#ffffff" >掌门，看你神色紧张，发生了什么事情？</font>
+story_menu_81042=<font face="Default" color="#ffffff" >师太，我是奉掌门的命令前来的。</font>
+story_menu_81043=<font face="Default" color="#ffffff" >师太，我回来了。</font>
+story_menu_81044=<font face="Default" color="#ffffff" >师傅，经过我和绝慧师太的商量，我们已经安排好了一</font><font face="Default" color="#ffffff" >切</font><font face="Default" color="#ffffff" >。</font>
+story_menu_81045=<font face="Default" color="#ffffff" >师太，发生了什么事情？</font>
+story_menu_81052=<font face="Default" color="#ffffff" >这丹书铁券这么重要吗？</font>
+story_menu_81053=<font face="Default" color="#ffffff" >难道？是何事如此紧急？</font>
+story_menu_81054=<font face="Default" color="#ffffff" >掌门，四大寇他们原来是护送丁九重的妻小凤菲母子。不过他们都遭了磨刀堂的毒手。</font>
+story_menu_81302=<font face="Default" color="#ffffff" >师太，敢问峨眉丢失倚天剑鞘那日，你</font><font face="Default" color="#ffffff" >可是</font><font face="Default" color="#ffffff" >在这阁内？</font>
+story_menu_81401=<font face="Default" color="#ffffff" >你还好吗？</font>
+story_menu_81402=<font face="Default" color="#ffffff" >小二，来五斤牛肉，一坛上好的女儿红，再炒两个精美的小菜来！</font>
+story_menu_81403=<font face="Default" color="#ffffff" >酒菜我已经点好了，你看接下来怎么办？</font>
+story_menu_81405=<font face="Default" color="#ffffff" >你这个无赖，你可坑苦我了！</font>
+story_menu_81406=<font face="Default" color="#ffffff" >小二！</font>
+story_menu_81407=<font face="Default" color="#ffffff" >店小二答应送酒肉过来了！</font>
+story_menu_81409=<font face="Default" color="#ffffff" >哎呀，那雪山田鸡的味道果然是不同一般。</font>
+story_menu_81420=<font face="Default" color="#ffffff" >今日可有急事？</font>
+story_menu_81421=<font face="Default" color="#ffffff" >请问捕快大人，最近峨眉山下有没有什么异常情况？</font>
+story_menu_81422=<font face="Default" color="#ffffff" >现在可以告诉我了吧</font>
+story_menu_81423=<font face="Default" color="#ffffff" >这位小哥，我向你打听个事情。</font>
+story_menu_81424=<font face="Default" color="#ffffff" >师太，我有点事情想问问你。</font>
+story_menu_81425=<font face="Default" color="#ffffff" >小双师妹，你怎么在这里？</font>
+story_menu_81426=<font face="Default" color="#ffffff" >你是什么人？</font>
+story_menu_81427=<font face="Default" color="#ffffff" >小双师妹，怎么了？</font>
+story_menu_81428=<font face="Default" color="#ffffff" >果果，你觉得怎么样？</font>
+story_menu_81429=<font face="Default" color="#ffffff" >这位小哥，我知道你现在一定生不如死，我是来救你的，你快把真相告诉我。</font>
+story_menu_81430=<font face="Default" color="#ffffff" >这英雄谷里，没想到还有如此美艳的一位夫人！</font>
+story_menu_81431=<font face="Default" color="#ffffff" >禀夫人。</font>
+story_menu_81440=<font face="Default" color="#ffffff" >邢君可，你怎么在这里?</font>
+story_menu_81441=<font face="Default" color="#ffffff" >莫姑娘，真的是你，你怎么在这里？</font>
+story_menu_81442=<font face="Default" color="#ffffff" >这位兄台！</font>
+story_menu_81443=<font face="Default" color="#ffffff" >这个我为皇去了哪里？</font>
+story_menu_81444=<font face="Default" color="#ffffff" >邢君可？你怎么在这里？</font>
+story_menu_81445=<font face="Default" color="#ffffff" >你有没有见过一个年轻姑娘？</font>
+story_menu_81446=<font face="Default" color="#ffffff" >这位姑娘。</font>
+story_menu_81447=<font face="Default" color="#ffffff" >这位壮士，你见过一位受伤的姑娘吗？</font>
+story_menu_81448=<font face="Default" color="#ffffff" >莫姑娘，你果然在这附近，我找你找的好苦。</font>
+story_menu_81449=<font face="Default" color="#ffffff" >告诉你一个好消息，我找到莫姑娘了。</font>
+story_menu_81450=<font face="Default" color="#ffffff" >你有什么要讲的？</font>
+storyinfo_81001=峨眉近日出现了一个神秘人<a href="findnpc_new,school06,npc_4nei_emei01" style="HLStype1">孙潇</a>，去问问他是什么来头。
+storyinfo_81002=把捡到的纸条交给<a href="findnpc_new,school06,WorldNpc02604" style="HLStype1">绝尘师太</a>
+storyinfo_81003=原来这张纸条遇到水就显示出了字迹，快把这些都告诉<a href="findnpc_new,school06,WorldNpc02604" style="HLStype1">绝尘师太</a>
+storyinfo_81011=去找<a href="findnpc_new,school06,WorldNpc02610" style="HLStype1">水净师太</a>聊聊张若止当年的事
+storyinfo_81012=去问问<a href="findnpc_new,school06,npc_4nei_emei02" style="HLStype1">张若止</a>，打听打听她当年的情事。
+storyinfo_81014=把发簪交给<a href="findnpc_new,school06,npc_4nei_emei01" style="HLStype1">孙潇</a>，看看他有什么要说的。
+storyinfo_81015=把话带给<a href="findnpc_new,school06,npc_4nei_emei02" style="HLStype1">张若止</a>
+storyinfo_81021=问问神捕大人<a href="findnpc_new,school06,WorldNpc02693" style="HLStype1">铁面</a>，请他去调查一下血迹的事情。（此行路途遥远，凑巧<a href="findnpc,school06,281.111,10.859,438.251" style="HLStype1">山脚</a>之上有一处飓风，能助大侠跳跃过山头，只是稍有不慎便会粉身碎骨，亦可选择绕道远行）
+storyinfo_81022=地面上显示出“一天”两个字，这两个字到底是什么意思？去和<a href="findnpc_new,school06,WorldNpc02692" style="HLStype1">燕长空</a>商量商量。
+storyinfo_81024=把一切都告诉<a href="findnpc_new,school06,WorldNpc02604" style="HLStype1">绝尘师太</a>
+storyinfo_81031=去找<a href="findnpc_new,school06,npc_4nei_emei31" style="HLStype1">衣芙蓉</a>，给她看看那个脚印拓片
+storyinfo_81041=<a href="findnpc_new,school06,WorldNpc02604" style="HLStype1">绝尘师太</a>眉头紧锁，看来又有事情要告诉你了。
+storyinfo_81042=为了保密起见，去找<a href="findnpc_new,school06,WorldNpc02636" style="HLStype1">绝慧师太</a>商量，暗中调查丢宝一事。
+storyinfo_81043=去把事情都告诉<a href="findnpc_new,school06,WorldNpc02636" style="HLStype1">绝慧师太</a>
+storyinfo_81044=去把这些安排都跟<a href="findnpc_new,school06,WorldNpc02604" style="HLStype1">绝尘师太</a>说一说
+storyinfo_81045=<a href="findnpc_new,school06,WorldNpc02636" style="HLStype1">绝慧师太</a>带话来，只说有事发生，让你赶快过去。
+storyinfo_81052=听<a href="findnpc_new,school06,WorldNpc02604" style="HLStype1">绝尘师太</a>诉说
+storyinfo_81053=听<a href="findnpc_new,school06,WorldNpc02604" style="HLStype1">绝尘师太</a>诉说血书的内容
+storyinfo_81054=听<a href="findnpc_new,school06,WorldNpc02604" style="HLStype1">绝尘师太</a>诉说
+storyinfo_81302=去找<a href="findnpc_new,school06,npc_4nei_emei30" style="HLStype1">无名老尼</a>，听她说一说丢宝之日所发生的事情。
+storyinfo_81401=和<a href="findnpc_new,born02,npc_qygp_x01" style="HLStype1">老乞</a>聊聊，看看他需不需要帮助。
+storyinfo_81402=去跟<a href="findnpc_new,born02,WorldNpc09114" style="HLStype1">店小二</a>点一桌上好的酒菜。
+storyinfo_81403=<a href="findnpc_new,born02,npc_qygp_x03" style="HLStype1">老乞</a>已经来到客栈了，问问他接下来该怎么办？
+storyinfo_81405=再去原来的地方找那<a href="findnpc_new,born02,npc_qygp_x01" style="HLStype1">老乞</a>，要他对吃霸王餐的事情负责。
+storyinfo_81406=去和<a href="findnpc_new,born02,WorldNpc09114" style="HLStype1">店小二</a>要那些污染了的酒菜。
+storyinfo_81407=要到了酒菜，再去和那个<a href="findnpc_new,born02,npc_qygp_x01" style="HLStype1">老乞</a>谈谈
+storyinfo_81409=和<a href="findnpc_new,born02,npc_qygp_x01" style="HLStype1">老乞</a>聊聊
+storyinfo_81420=山中钟声大作，<a href="findnpc_new,school06,npc_5neidh_em" style="HLStype1">徐诗况</a>有要事要交代大家，快去那里集中。
+storyinfo_81421=捕快<a href="findnpc_new,school06,WorldNpc02718" style="HLStype1">毕丘盛</a>可能知道点什么，去问问他。
+storyinfo_81422=再去问问<a href="findnpc_new,school06,WorldNpc02718" style="HLStype1">毕丘盛</a>
+storyinfo_81423=这个地方十分古怪，那里有个<a href="findnpc_new,school06,npc_5n_em_03" style="HLStype1">玉逍遥</a>，长的还挺帅的，去和他聊一聊，打听点这个地方的事情。
+storyinfo_81424=那谷中的化地夫人十分可疑，她好像控制了那个叫玉逍遥的小生，这件事情得去问问峨眉的前辈<a href="findnpc_new,school06,npc_5n_em_09" style="HLStype1">灭元师太</a>，听听她能说点什么
+storyinfo_81425=化地夫人是个危险人物，我得提醒大家小心行事。咦？前面不是<a href="findnpc_new,school06,npc_5n_em_04" style="HLStype1">小双</a>师妹么？她怎么下山来了？我得去提醒一下她。
+storyinfo_81426=小双师妹说的那个神医，莫非就是前面不远处的女子<a href="findnpc_new,school06,npc_5n_em_05" style="HLStype1">阿离</a>，去看看她有什么本事？
+storyinfo_81427=<a href="findnpc_new,school06,npc_5n_em_04" style="HLStype1">小双</a>师妹突然说果果病情反而更加严重了，这是怎么回事？快回去看看。
+storyinfo_81428=<a href="findnpc_new,school06,npc_5n_em_06" style="HLStype1">于果果</a>病的很严重，看样子是要不行了。
+storyinfo_81429=再和<a href="findnpc_new,school06,npc_5n_em_03" style="HLStype1">玉逍遥</a>聊一聊
+storyinfo_81430=<a href="findnpc_new,school06,npc_5n_em_07" style="HLStype1">化地夫人</a>就在远处看着你，想救果果的话，就去和她交涉一下吧。
+storyinfo_81431=回禀<a href="findnpc_new,school06,npc_5n_em_07" style="HLStype1">化地夫人</a>
+storyinfo_81440=<a href="findnpc_new,city05,npc_5n_zx_06" style="HLStype1">邢君可</a>意志消沉，去和他聊聊
+storyinfo_81441=<a href="findnpc,city05,304.865,116.084,3.837" style="HLStype1">莫无情</a>有话要说
+storyinfo_81442=<a href="findnpc_new,city05,npc_5n_zx_11" style="HLStype1">看守</a>似乎很难沟通，试探一下他的口风
+storyinfo_81443=<a href="findnpc,city05,304.865,116.084,3.837" style="HLStype1">莫无情</a>还有话要说
+storyinfo_81444=<a href="findnpc_new,city05,npc_5n_zx_15" style="HLStype1">邢君可</a>突然到来，跟他说说见到莫无情的事情，他一定很感兴趣。
+storyinfo_81445=再去和<a href="findnpc_new,city05,WorldNpc09828" style="HLStype1">浦叶</a>谈谈莫无情的事情。
+storyinfo_81446=虚弱的<a href="findnpc_new,city05,WorldNpc09839" style="HLStype1">秦秀秀</a>有话要说
+storyinfo_81447=还是问问门外的猎户<a href="findnpc_new,city05,JobChengD006" style="HLStype1">王勇</a>
+storyinfo_81448=<a href="findnpc_new,city05,npc_5n_zx_16" style="HLStype1">莫无情</a>果然在这附近，快去和她见面
+storyinfo_81449=把见到莫无情的消息告诉<a href="findnpc_new,city05,npc_5n_zx_15" style="HLStype1">邢君可</a>
+storyinfo_81450=<a href="findnpc_new,city02,5nei_gbmdt001" style="HLStype1">李立</a>有话要说
+storymenu_81001_1=<font face="Default" color="#ffffff" >疯言疯语说些什么东西，当心我对你不客气。快说，你到底是什么人？来我峨眉做什么？</font>
+storymenu_81001_2=<font face="Default" color="#ffffff" >神神叨叨的，你这人真奇怪！</font>
+storymenu_81002_1=<font face="Default" color="#ffffff" >那孙潇真是个怪人，什么都不肯说，可是他却在不断的提示我，我只在他身边找到了一张纸条。</font>
+storymenu_81002_2=<font face="Default" color="#ffffff" >这，这，我也不知道是怎么回事情了。</font>
+storymenu_81003_1=<font face="Default" color="#ffffff" >原来这个孙潇</font><font face="Default" color="#ffffff" >曾是君子堂的得意门徒，只因在竞争掌门候选人时遭人陷害，才被逐出师门。</font>
+storymenu_81003_2=<font face="Default" color="#ffffff" >掌门</font><font face="Default" color="#ffffff" >这个孙潇来我峨眉做什么？看来我们要还再好好调查一番。</font>
+storymenu_81003_3=<font face="Default" color="#ffffff" >好吧，我这就去。</font>
+storymenu_81011_1=<font face="Default" color="#ffffff" >师太，掌门是命我来问问你张若止的事情的。</font>
+storymenu_81011_2=<font face="Default" color="#ffffff" >师太，那张若止</font><font face="Default" color="#ffffff" >身上到底发生了什么事情？</font>
+storymenu_81011_3=<font face="Default" color="#ffffff" >哎，没想到张若止</font><font face="Default" color="#ffffff" >还是一个多情之人。</font>
+storymenu_81011_4=<font face="Default" color="#ffffff" >师太，你还记得那公子哥的名字吗？</font>
+storymenu_81011_5=<font face="Default" color="#ffffff" >难道掌门猜测那个神秘人孙潇会是张若止当年的情人？还是去找张若止当面问个清楚吧。</font>
+storymenu_81012_1=<font face="Default" color="#ffffff" >这，这人太恐怖了。</font>
+storymenu_81012_2=<font face="Default" color="#ffffff" >这张若止真是名不虚传，看样子问她什么都不会说的。</font>
+storymenu_81012_3=<font face="Default" color="#ffffff" >不行，我得想个万全的办法，</font><font face="Default" color="#ffffff" >对了，师太说</font><font face="Default" color="#ffffff" >她</font><font face="Default" color="#ffffff" >身上还带着当年的</font><font face="Default" color="#ffffff" >定情信物，</font><font face="Default" color="#ffffff" >我只要想个办法取了她的定情信物，然后去拿给孙潇一看便知道了。</font>
+storymenu_81014_1=<font face="Default" color="#ffffff" >前辈，</font><font face="Default" color="#ffffff" >你终于肯开口了！</font><font face="Default" color="#ffffff" >你还记得当年你和张若止的一段情吗？</font>
+storymenu_81014_2=<font face="Default" color="#ffffff" >前辈莫急，我这就给你传话给张若止。</font>
+storymenu_81015_1=<font face="Default" color="#ffffff" >你知道孙潇来了峨眉吗？</font>
+storymenu_81015_2=<font face="Default" color="#ffffff" >哎，这一切都已经过去了！他说他来是为了得到你的原谅的。</font>
+storymenu_81015_3=<font face="Default" color="#ffffff" >前辈，恐怕他也有什么苦衷。</font><font face="Default" color="#ffffff" >他还说他非常想见你。</font>
+storymenu_81015_4=<font face="Default" color="#ffffff" >哎，你这个人太固执了，我只是想帮你们。</font>
+storymenu_81021_1=<font face="Default" color="#ffffff" >神捕大人何以断定？</font>
+storymenu_81021_2=<font face="Default" color="#ffffff" >原来如此，我去看看他。</font>
+storymenu_81022_1=<font face="Default" color="#ffffff" >我打开记录本，只在地上显示了两个字“一天”。</font>
+storymenu_81022_2=<font face="Default" color="#ffffff" >事不宜迟，我马上就去。</font>
+storymenu_81024_1=<font face="Default" color="#ffffff" >孙潇已经被我杀死了，这件事情原来是磨刀堂一手控制的，是他们控制了孙潇。</font>
+storymenu_81024_2=<font face="Default" color="#ffffff" >是的，他受到了磨刀堂哑仆的毒素激化，变的狂暴异常，我没有办法，只能杀了他。</font>
+storymenu_81024_3=<font face="Default" color="#ffffff" >孙潇留下了一个地址，要我们上雪山之巅去，看来要夺回宝物，还得上闯一闯那磨刀堂总坛。</font>
+storymenu_81024_4=<font face="Default" color="#ffffff" >掌门放心，就是那刀山火海，我也要闯上一闯。</font>
+storymenu_81031_1=<font face="Default" color="#ffffff" >衣姐姐，你看看这个，这是个脚印的拓片。</font>
+storymenu_81031_2=<font face="Default" color="#ffffff" >朝廷？怎么会是朝廷？磨刀堂和朝廷难道还有什么联系？</font><font face="Default" color="#ffffff" >谢过姐姐了，</font><font face="Default" color="#ffffff" >此事我得去报告掌门。</font>
+storymenu_81041_1=<font face="Default" color="#ffffff" >什么？还有这样的事情？</font>
+storymenu_81041_2=<font face="Default" color="#ffffff" >绝慧师太平日里深居简出，此次居然也过问起是非，我马上就去找她。</font>
+storymenu_81042_1=<font face="Default" color="#ffffff" >师太，你有什么好办法？</font>
+storymenu_81042_2=<font face="Default" color="#ffffff" >师太分析的非常有道理。</font>
+storymenu_81042_3=<font face="Default" color="#ffffff" >是，师太说的非常有道理，</font><font face="Default" color="#ffffff" >我一定会让她们露出破绽的</font><font face="Default" color="#ffffff" >。</font>
+storymenu_81043_1=<font face="Default" color="#ffffff" >这些人果然如你所说，用来用去都是几招峨眉武学，我已经逼的她们到了绝境。</font><font face="Default" color="#ffffff" >还一不小心打死了几个。</font>
+storymenu_81043_2=<font face="Default" color="#ffffff" >我们现在该怎么办？</font>
+storymenu_81043_3=<font face="Default" color="#ffffff" >师太料事如神，这件事情相信应该马上就可以调查清楚。</font>
+storymenu_81044_1=<font face="Default" color="#ffffff" >师傅，相信不用多长时间，我们就可以调查出磨刀堂的底细，夺回倚天剑鞘，那个磨刀堂留下的什么考验，让他见鬼去吧。</font>
+storymenu_81044_2=<font face="Default" color="#ffffff" >恩，掌门说的有道理。</font>
+storymenu_81045_1=<font face="Default" color="#ffffff" >什么？这，这，怎么会这样？</font><font face="Default" color="#ffffff" >是我害了她们呐。</font>
+storymenu_81045_2=<font face="Default" color="#ffffff" >也只有如此了。</font>
+storymenu_81052_1=<font face="Default" color="#ffffff" >啊！那皇上这次收回岂不是有意为之？</font>
+storymenu_81052_2=<font face="Default" color="#ffffff" >那我岂不是闯下大祸了？</font>
+storymenu_81053_1=<font face="Default" color="#ffffff" >那掌门为何还不派人？</font>
+storymenu_81053_2=<font face="Default" color="#ffffff" >掌门的话我明白，一切行为由我个人承担，请掌门放心</font>
+storymenu_81053_3=<font face="Default" color="#ffffff" >好，我立即前往。</font>
+storymenu_81054_1=<font face="Default" color="#ffffff" >磨刀堂为何称丁九重和四大寇是魔教？当初我们与朝廷联手对抗魔教，如今为何又相助魔教？</font>
+storymenu_81302_1=<font face="Default" color="#ffffff" >原来还来了不止一个人。</font>
+storymenu_81302_2=<font face="Default" color="#ffffff" >看来他们是有备而来。</font><font face="Default" color="#ffffff" >师太，难道他们就一点线索都没有留下？</font>
+storymenu_81302_3=<font face="Default" color="#ffffff" >脚印？好，这可是个大发现。</font>
+storymenu_81401_1=<font face="Default" color="#ffffff" >好可怜的老乞丐，我这里有个包子，你拿去充充饥吧！</font>
+storymenu_81401_2=<font face="Default" color="#ffffff" >咦！你这个臭要饭的太没有礼貌了！</font>
+storymenu_81401_3=<font face="Default" color="#ffffff" >你一个要饭的，哪里来的钱吃大鱼大肉。</font>
+storymenu_81401_4=<font face="Default" color="#ffffff" >我到要看看你葫芦里卖的是什么药！</font>
+storymenu_81402_1=<font face="Default" color="#ffffff" >赶紧的，我还要赶路呢！</font>
+storymenu_81403_1=<font face="Default" color="#ffffff" >不好，你这是要吃霸王餐啊。</font>
+storymenu_81403_2=<font face="Default" color="#ffffff" >哎呀不好，我上了你的当了。</font>
+storymenu_81405_1=<font face="Default" color="#ffffff" >可吃霸王餐这么丢脸的事情，要是传到江湖上，你让我以后还怎么混？再说了，你的酒肉呢？你一口也没吃上嘛！</font>
+storymenu_81405_2=<font face="Default" color="#ffffff" >那店小二恨透我了，如何还肯给我酒菜？</font>
+storymenu_81405_3=<font face="Default" color="#ffffff" >你这臭要饭的太无赖了。</font>
+storymenu_81406_1=<font face="Default" color="#ffffff" >小二放心，我也不是个坏人，我就是来跟你商量商量！</font>
+storymenu_81406_2=<font face="Default" color="#ffffff" >你看你那桌酒菜都被那脏兮兮的老乞丐喷了口水，你这卖也卖不掉，倒了也可惜，还不如送我们俩吃了得了！</font>
+storymenu_81406_3=<font face="Default" color="#ffffff" >嘿嘿，谢过店小二，你就给我们送过来吧！</font>
+storymenu_81407_1=<font face="Default" color="#ffffff" >想不到你这个臭要饭的还挺有招，虽然这招损了点！</font>
+storymenu_81407_2=<font face="Default" color="#ffffff" >你少吹牛了，你都吃过什么好东西了？</font>
+storymenu_81407_3=<font face="Default" color="#ffffff" >这东西真有这么好吃？我倒要尝一尝。</font>
+storymenu_81407_4=<font face="Default" color="#ffffff" >我去抓来烤了吃！</font>
+storymenu_81409_1=<font face="Default" color="#ffffff" >我呸，你这吃霸王餐的老乞丐。</font>
+storymenu_81409_2=<font face="Default" color="#ffffff" >乞丐中的霸主？那是什么？</font>
+storymenu_81409_3=<font face="Default" color="#ffffff" >没有兴趣，我还是找个地方睡觉去吧。</font>
+storymenu_81409_4=<font face="Default" color="#ffffff" >死远一点，你这个老乞丐！</font>
+storymenu_81409_5=<font face="Default" color="#ffffff" >别烦我，我走了！</font>
+storymenu_81420_1=<font face="Default" color="#ffffff" >你可记得从前也发生过这种事情？</font>
+storymenu_81420_2=<font face="Default" color="#ffffff" >我身为峨眉弟子，愿誓死效忠峨眉。</font>
+storymenu_81420_3=<font face="Default" color="#ffffff" >不必烦恼，此事易查。只是怕背后又有什么阴谋！</font>
+storymenu_81420_4=<font face="Default" color="#ffffff" >不错。</font><font face="Default" color="#ff3333" >（完成此任务将开启峨眉五内任务，且后续任务均不可放弃，完成门派五内任务后可找门派五内兑换员开启属性试炼，并不断修炼自身内功。）</font>
+storymenu_81421_1=<font face="Default" color="#ffffff" >这点小意思，看我手到擒来。</font>
+storymenu_81422_1=<font face="Default" color="#ffffff" >啊？还有这样的事情。谁敢在我峨眉滋事，真是活的不耐烦了。</font>
+storymenu_81423_1=<font face="Default" color="#ffffff" >这里怎么这么阴森森的？连过路的人都没有几个。</font>
+storymenu_81423_2=<font face="Default" color="#ffffff" >真是这样么？我看这里很诡异，好像隐藏着很多秘密。</font>
+storymenu_81423_3=<font face="Default" color="#ffffff" >原来是这样啊。小哥你艳福不浅，我懂的。我这就走。</font>
+storymenu_81423_4=<font face="Default" color="#ffffff" >这是什么玩意？</font><font face="Default" color="#ffffff" >敢问里面这位夫人高姓大名？怎会有如此勾魂摄魄的本事？</font>
+storymenu_81423_5=<font face="Default" color="#ffffff" >没想到江湖中还有如此人物。</font>
+storymenu_81424_1=<font face="Default" color="#ffffff" >你在江湖中，有没有听说过化地夫人的名号？</font>
+storymenu_81424_2=<font face="Default" color="#ffffff" >听说好像是叫，叫什么夏萍儿？</font>
+storymenu_81424_3=<font face="Default" color="#ffffff" >好像是叫夏萍儿。</font>
+storymenu_81424_4=<font face="Default" color="#ffffff" >敢问师太，此人是何出处？</font>
+storymenu_81424_5=<font face="Default" color="#ffffff" >原来还有这么一段故事。</font>
+storymenu_81425_1=<font face="Default" color="#ffffff" >我奉师傅的命令，到山下调查事情啊。你怎么下山来了？</font>
+storymenu_81425_2=<font face="Default" color="#ffffff" >神医？什么神医？</font>
+storymenu_81425_3=<font face="Default" color="#ffffff" >有这么神奇？我去调查一下。</font>
+storymenu_81426_1=<font face="Default" color="#ffffff" >相思成血？这是什么玩意？</font>
+storymenu_81426_2=<font face="Default" color="#ffffff" >这话怎么这么熟悉？好像哪里听过！</font>
+storymenu_81426_3=<font face="Default" color="#ffffff" >哦，我不需要，你还是去救助有需要的人吧。</font>
+storymenu_81427_1=<font face="Default" color="#ffffff" >怎么会这样。</font>
+storymenu_81428_1=<font face="Default" color="#ffffff" >这莫非是那个相思成血把你害成这样的？</font>
+storymenu_81428_2=<font face="Default" color="#ffffff" >果果你挺住，我去找那个</font><font face="Default" color="#ffffff" >人</font><font face="Default" color="#ffffff" >。</font>
+storymenu_81429_1=<font face="Default" color="#ffffff" >难道</font><font face="Default" color="#ffffff" >这相思成血</font><font face="Default" color="#ffffff" >真有这么厉害</font><font face="Default" color="#ffffff" >？</font>
+storymenu_81429_2=<font face="Default" color="#ffffff" >原来如此，看来小哥定是受了里面那贼婆娘的控制。</font>
+storymenu_81429_3=<font face="Default" color="#ffffff" >可是这位小哥，这里面的贼婆娘为何偏偏盯着你不放？</font>
+storymenu_81429_4=<font face="Default" color="#ffffff" >这世间居然还有如此荒唐之事。</font>
+storymenu_81430_1=<font face="Default" color="#ffffff" >这位夫人，我家小妹中了你的蛊毒，还望夫人看在峨眉掌门的面子上，救救我家小妹。</font>
+storymenu_81430_2=<font face="Default" color="#ffffff" >夫人切勿动怒。</font>
+storymenu_81430_3=<font face="Default" color="#ffffff" >此话怎讲？</font>
+storymenu_81430_4=<font face="Default" color="#ffffff" >原来是这样，你被化地凌辱，你又去凌辱玉逍遥，你们俩夫妻还真是般配。</font>
+storymenu_81431_1=<font face="Default" color="#ffffff" >化地老祖原来是如此的不堪一击，他已经被我杀死了。</font>
+storymenu_81431_2=<font face="Default" color="#ffffff" >此事就这么结束了么？</font>
+storymenu_81440_1=<font face="Default" color="#ffffff" >你怎么变成这样了？</font>
+storymenu_81440_2=<font face="Default" color="#ffffff" >你有什么线索？</font>
+storymenu_81440_3=<font face="Default" color="#ffffff" >还是我去帮你调查一番吧。</font>
+storymenu_81441_1=<font face="Default" color="#ffffff" >你太虚弱了，需要好好休息一番。</font><font face="Default" color="#ffffff" >是谁把你软禁到这里来的？</font>
+storymenu_81441_2=<font face="Default" color="#ffffff" >这个我为皇到底想干什么？</font>
+storymenu_81441_3=<font face="Default" color="#ffffff" >他很好，你别担心，现在最要紧的就是我们要先跑出去。</font>
+storymenu_81442_1=<font face="Default" color="#ffffff" >这位兄台，我是来拜见庄主的，麻烦你通融一下。</font>
+storymenu_81442_2=<font face="Default" color="#ffffff" >原来如此，我这就告辞。</font>
+storymenu_81443_1=<font face="Default" color="#ffffff" >我这就去会会他，看看他在搞什么</font><font face="Default" color="#ffffff" >阴谋诡计</font><font face="Default" color="#ffffff" >。</font>
+storymenu_81443_2=<font face="Default" color="#ffffff" >莫姑娘放心，我只是去打探一番。你这就前往武侯祠，等我打探完了消息。我就去武侯祠找你。</font>
+storymenu_81444_1=<font face="Default" color="#ffffff" >你消息还真灵通，我已经找到莫姑娘了，我们相约在这里，可是突然有人突袭，这会又不见了莫姑娘的踪迹。</font>
+storymenu_81444_2=<font face="Default" color="#ffffff" >都好都好，就是又找不到</font><font face="Default" color="#ffffff" >她</font><font face="Default" color="#ffffff" >了，这该怎么办?</font>
+storymenu_81444_3=<font face="Default" color="#ffffff" >我刚在青羊宫偷听到了我为皇要对付燕双行的诡计。</font>
+storymenu_81444_4=<font face="Default" color="#ffffff" >先别说这个了，还是先找到莫姑娘再说吧。</font>
+storymenu_81445_1=<font face="Default" color="#ffffff" >是一位黑衣女子，刚受了伤，看上去很虚弱的样子。</font>
+storymenu_81445_2=<font face="Default" color="#ffffff" >哪儿？我马上就去。</font>
+storymenu_81446_1=<font face="Default" color="#ffffff" >不好意思，我想我是找错人了。</font>
+storymenu_81446_2=<font face="Default" color="#ffffff" >我在找一位受了伤的姑娘。</font>
+storymenu_81447_1=<font face="Default" color="#ffffff" >求壮士相助，此事非同小可。</font>
+storymenu_81447_2=<font face="Default" color="#ffffff" >原来如此，多谢壮士相告。</font>
+storymenu_81448_1=<font face="Default" color="#ffffff" >不错，我也遭了几次伏击，好在终于找到你了，你待在这里，我要把这个消息去告诉邢君可。</font>
+storymenu_81448_2=<font face="Default" color="#ffffff" >我这就去。</font>
+storymenu_81449_1=<font face="Default" color="#ffffff" >她受了点伤，身体还很虚弱，你还是赶紧带她离开这个地方。</font>
+storymenu_81449_2=<font face="Default" color="#ffffff" >邢大侠所言极是，我这就去找燕双行。</font>
+storymenu_81450_1=<font face="Default" color="#ffffff" >哎</font><font face="Default" color="#ffffff" >，</font><font face="Default" color="#ffffff" >又是一个苦差事。</font>
+useiteminfo_81001=按照掌门的指示，要将<a href="TASK_ITEM,item_4nei_emei01" style="HLStype1">纸条</a>放入<a href="findnpc_new,school06,npc_4nei_emei04" style="HLStype1">水缸</a>内，看看会有什么发现。
+useiteminfo_81021=去<a href="findnpc,school06,397,11.5,796" style="HLStype1">门外</a>，使用<a href="TASK_ITEM,item_4nei_emei03" style="HLStype1">记事本</a>，然后从高处往下看看地上。

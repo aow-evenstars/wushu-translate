@@ -1,0 +1,102 @@
+﻿
+DialogID_56600=这位侠士，我和朱六叔走散了，您能带我去找他么？
+DialogID_56601=祖巧！你回来了！真的是太感谢你了！哎！逃难的路上，仅有的粮食被抢走了，我们可怎么活啊！
+DialogID_56602=少侠你来的正好，刚才穴鬼喽啰来抢劫了，您帮我赶走他们吧！
+DialogID_56603=少侠，这是包子钱，你交给包旺弟吧！多谢你了！
+DialogID_56604=好的，我现在就带大家撤离，多谢！
+DialogID_56605=现在女贼抢走了很多东西，少侠帮忙拿回来吧！
+DialogID_56606=多谢少侠救命之恩，现在需要向右都御使告状，我们赶紧去！
+DialogID_56607=嗯，我已经知道了，这件事情我一定查清楚给大家一个交代！
+DialogID_56608=我们需要先杀了看守的，这样我们才好进行下一步行动！
+DialogID_56609=事情并非如此，当时我来不及向她辞别，是因为心系百姓。确实有点对不住她……对了，我这里还有些事情，需要少侠帮忙！
+DialogID_56610=这是她的发钗，少侠给她，她自然会明白！
+DialogID_56611=少侠可否为我报复，杀了那群恶贼？
+DialogID_56612=哎……现在闹灾，什么吃的也没了！
+DialogID_56613=多谢少侠，他们将我囚禁，将我女儿抓走了！少侠，快，快！
+DialogID_56614=多谢这位侠士相助，小女子感激不尽！
+DialogID_56615=流民要聚众造反了，我们得有所措施才好！将此事告诉右都御史，我来集结人准备！
+DialogID_56616=嗯？好的，我立马调兵，现在麻烦少侠先去抵挡一阵，我随后就到！
+DialogID_56617=多谢侠士，他们曾今征收了不少粮食，都存在仓库里，但是拒绝发放！
+DialogID_56618=不好了，右都御使派兵镇压，要杀光这群饥民，这样很容易误杀的！
+DialogID_56619=嗯，我想过了，这确实我的问题，我太心急了。对不起了，少侠帮我和大家解释一下吧！这里面丐帮的叛徒有很多是发动者！
+DialogID_56620=这事情和我们有关，我们应该负责，少侠，我这就去看看，对了，听说官宅看守与叛徒勾结，此事他们绝脱不了干系！
+DialogID_56621=最近俺老婆缺衣服，少侠能不能帮我找件肚兜来？
+DialogID_56622=好的，我知道了，多谢少侠，少侠可否帮忙杀掉兵痞队长，我怀疑他拿了极乐谷腰牌想要混进极乐谷。
+collectinfo_56600=从<a href="findnpc_new,scene03,monf031500" style="HLStype1">穴鬼爪牙</a>身上收集一些粮食
+collectinfo_56601=从<a href="findnpc_new,scene03,monf030200" style="HLStype1">敛财女贼</a>身上收集一些银两
+collectinfo_56602=从<a href="findnpc_new,scene03,monf030200" style="HLStype1">敛财女贼</a>身上找来一些绸缎
+collectinfo_56603=攻克<a href="findnpc_new,scene03,monf033200" style="HLStype1">粮仓守将</a>，并从其身上找到过冬的粮食
+collectinfo_56604=攻克<a href="findnpc_new,scene03,monf031600" style="HLStype1">穴鬼护法</a>，并从其身上找来一些粮食
+collectinfo_56605=攻克<a href="findnpc_new,scene03,monf031400" style="HLStype1">官宅看守</a>，从其身上找到一些粮食
+collectinfo_56606=攻克<a href="findnpc_new,scene03,monf031400" style="HLStype1">官宅看守</a>，并从其身上找来一箱武器
+collectinfo_56607=攻克<a href="findnpc_new,scene03,monf030200" style="HLStype1">敛财女贼</a>，并从其身上收集一件红肚兜
+collectinfo_56608=攻克<a href="findnpc_new,scene03,monf031301" style="HLStype1">兵痞队长</a>，并从其身上找来一块极乐谷腰牌
+convoyinfo_56600=带祖巧去找<a href="findnpc_new,scene03,WorldNpc06643" style="HLStype1">村民</a>
+hunterinfo_56601=攻克<a href="findnpc_new,scene03,monf031500" style="HLStype1">穴鬼爪牙</a>
+hunterinfo_56602=攻克<a href="findnpc_new,scene03,monf031500" style="HLStype1">穴鬼爪牙</a>
+hunterinfo_56603=攻克<a href="findnpc_new,scene03,monf031200" style="HLStype1">饥饿疯狗</a>
+hunterinfo_56604=攻克<a href="findnpc_new,scene03,monf031300" style="HLStype1">凶残兵痞</a>
+hunterinfo_56605=攻克<a href="findnpc_new,scene03,monf031300" style="HLStype1">凶残兵痞</a>
+hunterinfo_56606=攻克<a href="findnpc_new,scene03,monf033201" style="HLStype1">粮仓巡逻兵</a>
+hunterinfo_56607=攻克<a href="findnpc_new,scene03,monf032100" style="HLStype1">民兵</a>
+hunterinfo_56608=攻克<a href="findnpc_new,scene03,monf030600" style="HLStype1">劫道恶贼</a>
+hunterinfo_56609=攻克<a href="findnpc_new,scene03,monf031700" style="HLStype1">凶残土匪</a>
+hunterinfo_56611=攻克<a href="findnpc_new,scene03,monf030300" style="HLStype1">武装饥民</a>
+hunterinfo_56612=攻克<a href="findnpc_new,scene03,monf031700" style="HLStype1">凶残土匪</a>
+hunterinfo_56613=教训<a href="findnpc_new,scene03,monf031401" style="HLStype1">凶恶家丁</a>
+hunterinfo_56614=攻克<a href="findnpc_new,scene03,monf030300" style="HLStype1">武装饥民</a>
+hunterinfo_56615=攻克<a href="findnpc_new,scene03,monf032800" style="HLStype1">御史护卫</a>
+hunterinfo_56616=攻克<a href="findnpc_new,scene03,monf032801" style="HLStype1">军营哨兵</a>
+hunterinfo_56617=攻克<a href="findnpc_new,scene03,monf031500" style="HLStype1">穴鬼爪牙</a>
+interactinfo_56600=与<a href="findnpc_new,scene03,WorldNpc06687" style="HLStype1">祖巧</a>交谈
+interactinfo_56601=与<a href="findnpc_new,scene03,WorldNpc06643" style="HLStype1">村民</a>交谈
+interactinfo_56602=与<a href="findnpc_new,scene03,WorldNpc06529" style="HLStype1">马回</a>交谈
+interactinfo_56603=与<a href="findnpc_new,scene03,WorldNpc06529" style="HLStype1">马回</a>交谈
+interactinfo_56604=与<a href="findnpc_new,scene03,WorldNpc06529" style="HLStype1">马回</a>交谈
+interactinfo_56605=与<a href="findnpc_new,scene03,WorldNpc06444" style="HLStype1">司徒利民</a>交谈
+interactinfo_56606=与<a href="findnpc_new,scene03,WorldNpc06606" style="HLStype1">王大乐</a>交谈
+interactinfo_56607=与<a href="findnpc_new,scene03,WorldNpc06444" style="HLStype1">司徒利民</a>交谈
+interactinfo_56608=与<a href="findnpc_new,scene03,WorldNpc06658" style="HLStype1">极乐谷喽啰</a>交谈
+interactinfo_56609=与<a href="findnpc_new,scene03,WorldNpc06620" style="HLStype1">向九尘</a>交谈
+interactinfo_56610=与<a href="findnpc_new,scene03,WorldNpc06620" style="HLStype1">向九尘</a>交谈
+interactinfo_56611=与<a href="findnpc_new,scene03,WorldNpc06491" style="HLStype1">跳井民妇</a>交谈
+interactinfo_56612=与<a href="findnpc_new,scene03,WorldNpc06491" style="HLStype1">跳井民妇</a>交谈
+interactinfo_56613=与<a href="findnpc_new,scene03,WorldNpc06688" style="HLStype1">郑朝卫</a>交谈
+interactinfo_56614=与<a href="findnpc_new,scene03,WorldNpc06426" style="HLStype1">崔圆圆</a>交谈
+interactinfo_56615=与<a href="findnpc_new,scene03,WorldNpc06620" style="HLStype1">向九尘</a>交谈
+interactinfo_56616=与<a href="findnpc_new,scene03,WorldNpc06589" style="HLStype1">右都御史</a>交谈
+interactinfo_56617=与<a href="findnpc_new,scene03,WorldNpc06532" style="HLStype1">许三</a>交谈
+interactinfo_56618=与<a href="findnpc_new,scene03,WorldNpc06436" style="HLStype1">许谦</a>交谈
+interactinfo_56619=与<a href="findnpc_new,scene03,WorldNpc06444" style="HLStype1">司徒利民</a>交谈
+interactinfo_56620=与<a href="findnpc_new,scene03,WorldNpc06484" style="HLStype1">严诨天</a>交谈
+interactinfo_56621=与<a href="findnpc_new,scene03,WorldNpc06607" style="HLStype1">二牛</a>交谈
+interactinfo_56622=与<a href="findnpc_new,scene03,WorldNpc06650" style="HLStype1">姚启</a>交谈
+okmenu_56600=好的，跟我来
+okmenu_56601=没关系，我帮你找回来！
+okmenu_56602=好的，包在我身上
+okmenu_56603=客气客气
+okmenu_56604=嗯！好！
+okmenu_56605=我立马去！
+okmenu_56606=事不宜迟，走吧！
+okmenu_56607=如此甚好！
+okmenu_56608=好的，交给我吧！
+okmenu_56609=嗯！
+okmenu_56610=好的。
+okmenu_56611=好的，我这就去！
+okmenu_56612=别急，我帮你想想办法！
+okmenu_56613=别慌，我这就去
+okmenu_56614=不要说了，赶紧走吧！
+okmenu_56615=好的！
+okmenu_56616=没问题
+okmenu_56617=我去教训他们！
+okmenu_56618=我不会允许这样的事情发生的
+okmenu_56619=好的
+okmenu_56620=我去看看！
+okmenu_56621=没问题
+okmenu_56622=好吧！
+story_56600_1=事情是这样的，今年黄河发大水，水坝都冲毁了……
+story_56600_2=朝廷没有足够的粮饷来赈灾，只能迁近内陆，但是一群人发国难财，大肆掠夺，勾官结匪！哎！民不聊生！
+story_menu_56600=请问具体是什么事情呢？
+storyinfo_56600=听<a href="findnpc_new,scene03,WorldNpc06444" style="HLStype1">司徒利民</a>讲故事
+storymenu_56600_1=嗯？然后呢
+storymenu_56600_2=这样的啊！？我知道了

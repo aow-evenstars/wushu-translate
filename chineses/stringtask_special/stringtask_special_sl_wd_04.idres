@@ -1,0 +1,98 @@
+﻿
+DialogID_41729=<s>真是多谢了，要是能再帮我采集一写止血草来就好了……
+DialogID_41730=<s>多谢了，再麻烦替我带话给城楼顶上的相鹏煊，让他小心外面的蛮横山贼。
+DialogID_41731=<s>哈哈，这老道，慷慨赠酒不就完事了嘛！话说这么多美酒在，外面那些馋酒醉鬼可不是善人，你快去将他们打走，说不准这老道会给你一些奖励哦~
+DialogID_41732=<s>也不是我不给，只是最近一批酒酿造出来着实不易，好吧好吧，你就帮我去取一坛子给他吧！
+DialogID_41733=<s>谢谢你，这里有些甘蔗糖水，给你，很好喝的。
+DialogID_41734=<s>坏人？我才不怕。我就是在找蜘蛛玩的，你要是不帮我找就走开些。
+DialogID_41735=<s>哎，那孩子行事总是有些古里古怪的。这样的话，不知你能不能帮忙教训一下龙南村盗贼，让他们不敢肆意乱来。
+DialogID_41736=<s>诶呀，前阵子不是缺少那一种好甘蔗么，他是我伙计，还能少了他的不成，这袋糖你去拿给他吧。
+DialogID_41737=<s>嘻嘻，我最喜欢吃糖葫芦了，谢谢爹爹。
+DialogID_41738=<s>好，这事我知道了，你去告诉他别辛苦了。
+DialogID_41739=<s>好的，我干完活就去吃饭
+DialogID_41740=<s>好的，嘻嘻，我就去
+DialogID_41741=<s>哼，眼下龙南村盗贼在此滋事，我要看着他们，小女孩那我才不去。你能帮我去教训一下这些龙南村盗贼吗？
+DialogID_41742=<s>哈哈，怎么样，我酿得酒不错吧……不过，喝了我的酒不知道能不能帮我个忙呀？就是驱赶那些可恶的蜥蜴！
+DialogID_41743=<s>这事没得商量，你给我去告诉他！再不还钱我可要抖搂他的丑事了！
+DialogID_41744=<s>哎！你看能不能帮我这个忙，从诡异江湖客那把玉佩给夺回来！他们真不是什么好人！
+DialogID_41745=<s>这帮阴邪道人实在可恶，你能帮我收拾一下他们吗？呼……
+DialogID_41747=<s>有劳兄台告知这的主人容明轩，此处制得糖着实很好很甜。
+DialogID_41748=<s>哎呀，那道观里的一帮阴邪道人为非作歹，甚是可恶呀，你快去看看吧。
+DialogID_41749=<s>那些挑衅流氓，我差点被……被……呜呜，他们人多势众，要是有人能收拾他们，还我一个公道就好了。
+DialogID_41750=<s>谢……谢谢你。
+collectinfo_41729=采集<a href="findnpc_new,school07,Gather00039j" style="HLStype1">止血草</a>
+collectinfo_41730=采集<a href="findnpc_new,school07,Gather00040j" style="HLStype1">金银花</a>
+collectinfo_41731=采集<a href="findnpc_new,school07,Gather00039j" style="HLStype1">止血草</a>
+collectinfo_41732=找<a href="findnpc_new,school07,Gather00038j" style="HLStype1">酒</a>来
+collectinfo_41733=挖掘<a href="findnpc_new,school07,Gather00037j" style="HLStype1">小蜘蛛</a>
+collectinfo_41734=攻克<a href="findnpc_new,school07,monm072400" style="HLStype1">诡异江湖客</a>，获回玉佩
+hunterinfo_41729=教训<a href="findnpc_new,school07,monm072200" style="HLStype1">神秘江湖人</a>
+hunterinfo_41730=打倒<a href="findnpc_new,school07,monm075200" style="HLStype1">蛮横山贼</a>
+hunterinfo_41731=攻克<a href="findnpc_new,school07,monm075200" style="HLStype1">蛮横山贼</a>
+hunterinfo_41732=教训一些<a href="findnpc_new,school07,monm075200" style="HLStype1">蛮横山贼</a>
+hunterinfo_41733=击倒<a href="findnpc_new,school07,monm075200" style="HLStype1">蛮横山贼</a>
+hunterinfo_41734=击倒<a href="findnpc_new,school07,monm072301" style="HLStype1">馋酒醉鬼</a>
+hunterinfo_41735=击倒<a href="findnpc_new,school07,monm072301" style="HLStype1">馋酒醉鬼</a>
+hunterinfo_41736=猎杀<a href="findnpc_new,school07,monm070500" style="HLStype1">碧溪蝮蛇</a>
+hunterinfo_41737=教训<a href="findnpc_new,school07,monm072500" style="HLStype1">龙南村盗贼</a>
+hunterinfo_41738=击退<a href="findnpc_new,school07,monm072500" style="HLStype1">龙南村盗贼</a>
+hunterinfo_41739=教训<a href="findnpc_new,school07,monm072500" style="HLStype1">龙南村盗贼</a>
+hunterinfo_41740=猎杀<a href="findnpc_new,school07,monm072300" style="HLStype1">虎唇鳄</a>
+hunterinfo_41741=攻克<a href="findnpc_new,school07,monm076500" style="HLStype1">阴邪道人</a>
+hunterinfo_41742=教训<a href="findnpc_new,school07,monm072500" style="HLStype1">龙南村盗贼</a>
+hunterinfo_41743=攻克<a href="findnpc_new,school07,monm076500" style="HLStype1">阴邪道人</a>
+hunterinfo_41744=击败<a href="findnpc_new,school07,monm072700" style="HLStype1">欺世道姑</a>
+hunterinfo_41745=教训<a href="findnpc_new,school07,monm070600" style="HLStype1">挑衅流氓</a>
+hunterinfo_41746=教训<a href="findnpc_new,school07,monm070600" style="HLStype1">挑衅流氓</a>
+interactinfo_41729=与<a href="findnpc_new,school07,WorldNpc04551" style="HLStype1">空空道人</a>交谈
+interactinfo_41730=与<a href="findnpc_new,school07,WorldNpc04453" style="HLStype1">卢鸿涛</a>对话
+interactinfo_41731=与<a href="findnpc_new,school07,WorldNpc04622" style="HLStype1">廉鑫</a>交谈
+interactinfo_41732=与<a href="findnpc_new,school07,WorldNpc04561" style="HLStype1">癫狂道人</a>交谈
+interactinfo_41733=与<a href="findnpc_new,school07,WorldNpc04621" style="HLStype1">桂长义</a>交谈
+interactinfo_41734=与<a href="findnpc_new,school07,WorldNpc04702" style="HLStype1">陈文儿</a>交谈
+interactinfo_41735=回去找<a href="findnpc_new,school07,WorldNpc04620" style="HLStype1">卓然</a>
+interactinfo_41736=去找<a href="findnpc_new,school07,WorldNpc04617" style="HLStype1">容明轩</a>
+interactinfo_41737=去找<a href="findnpc_new,school07,WorldNpc04619" style="HLStype1">容彤艳</a>
+interactinfo_41738=与<a href="findnpc_new,school07,WorldNpc04618" style="HLStype1">商芹</a>交谈
+interactinfo_41739=与<a href="findnpc_new,school07,WorldNpc04617" style="HLStype1">容明轩</a>交谈
+interactinfo_41740=与<a href="findnpc_new,school07,WorldNpc04619" style="HLStype1">容彤艳</a>谈谈
+interactinfo_41741=去找<a href="findnpc_new,school07,WorldNpc04621" style="HLStype1">桂长义</a>
+interactinfo_41742=与<a href="findnpc_new,school07,WorldNpc04561" style="HLStype1">癫狂道人</a>交谈
+interactinfo_41743=去找<a href="findnpc_new,school07,WorldNpc04589" style="HLStype1">姬轩辕</a>
+interactinfo_41744=回去找<a href="findnpc_new,school07,WorldNpc04802" style="HLStype1">仇一刀</a>
+interactinfo_41745=与<a href="findnpc_new,school07,WorldNpc04587" style="HLStype1">黑衣人</a>交谈
+interactinfo_41746=喝下桌上的<a href="findnpc_new,school07,Gather00041j" style="HLStype1">倒满酒的酒杯</a>
+interactinfo_41747=与<a href="findnpc_new,school07,WorldNpc04801" style="HLStype1">莫狂炎</a>交谈
+interactinfo_41748=问问<a href="findnpc_new,school07,WorldNpc04608" style="HLStype1">段干益</a>附近还有没有歹人
+interactinfo_41749=与<a href="findnpc_new,school07,WorldNpc04591" style="HLStype1">伍若一</a>交谈
+interactinfo_41750=与<a href="findnpc_new,school07,WorldNpc04591" style="HLStype1">伍若一</a>交谈
+okmenu_41729=没问题，道长稍等
+okmenu_41730=好
+okmenu_41731=那好，我这就去
+okmenu_41732=呵呵，好的
+okmenu_41733=哦，呵呵，多谢
+okmenu_41734=小弟弟你也太不听话了
+okmenu_41735=好，没问题
+okmenu_41736=呵呵，好
+okmenu_41737=彤彤真乖
+okmenu_41738=嗯，好
+okmenu_41739=嗯
+okmenu_41740=嗯，乖
+okmenu_41741=这没问题……
+okmenu_41742=好酒！
+okmenu_41743=这……好吧
+okmenu_41744=没问题，你稍等
+okmenu_41745=好，你稍等
+okmenu_41747=好的
+okmenu_41748=好
+okmenu_41749=原来是这样，交给我了！
+okmenu_41750=姑娘客气了
+story_41729_1=<s>哎，我屡试不第，今年又一次落榜了，于是，我便独自来此散散心……这武当山清水秀，我也甚是喜欢。
+story_41729_2=<s>听闻此地的三清真人很灵验，所以我也来拜拜。可是，就在刚才，一群欺世道姑听到我许愿之事，却对我百般耻笑，还偷走我银两！我实在咽不下这口气，还望你能帮我教训一下他们！
+story_menu_41729=也许我能帮得上忙
+storyinfo_41729=听<a href="findnpc_new,school07,WorldNpc04616" style="HLStype1">惠伟泽</a>诉说
+storymenu_41729_1=嗯，不必这么灰心丧气，都会好起来的
+storymenu_41729_2=竟有这样的事
+useiteminfo_41729=喝<a href="TASK_ITEM,useitem_41j" style="HLStype1">甘蔗糖水</a>
+useiteminfo_41730=喝下酒<a href="TASK_ITEM,useitem_42j" style="HLStype1">一杯酒 </a>
+useiteminfo_41731=将<a href="TASK_ITEM,useitem_43j" style="HLStype1">清心露</a>给<a href="findnpc_new,school07,WorldNpc04587" style="HLStype1">黑衣人</a>嗅一下

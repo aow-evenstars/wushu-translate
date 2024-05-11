@@ -1,0 +1,524 @@
+﻿
+CanAcceptMenu_74401=<font face="Default" color="#ffffff" >皇家灵宠园出现了缺漏，有很多灵宠跑出来了？</font>
+CanAcceptMenu_74402=<font face="Default" color="#ffffff" >皇家灵宠园出现了缺漏，有很多灵宠跑出来了？</font>
+CanAcceptMenu_74403=<font face="Default" color="#ffffff" >皇家灵宠园出现了缺漏，有很多灵宠跑出来了？</font>
+CanAcceptMenu_74404=<font face="Default" color="#ffffff" >皇家灵宠园出现了缺漏，有很多灵宠跑出来了？</font>
+CanAcceptMenu_74405=<font face="Default" color="#ffffff" >皇家灵宠园出现了缺漏，有很多灵宠跑出来了？</font>
+CanAcceptMenu_74406=<font face="Default" color="#ffffff" >皇家灵宠园出现了缺漏，有很多灵宠跑出来了？</font>
+CanAcceptMenu_74411=<font face="Default" color="#ffffff" >盟主盛情邀隐王（可接取）</font>
+CanAcceptMenu_74415=<font face="Default" color="#ffffff" >门派会武拜帖忙（可接取）</font>
+CanAcceptMenu_74418=<font face="Default" color="#ffffff" >盟主拜帖庆佳节（可接取）</font>
+CanAcceptMenu_74421=<font face="Default" color="#ffffff" >盟主拜帖武林兴（可接取）</font>
+CanAcceptMenu_74425=<font face="Default" color="#ffffff" >盟主拜帖喜迎新（可接取）</font>
+CanAcceptMenu_74426=<font face="Default" color="#ffffff" >莘莘学子闯江湖（可接取）</font>
+CanAcceptMenu_74427=<font face="Default" color="#ffffff" >盟主拜帖庆武林（可接取）</font>
+CanAcceptMenu_74428=<font face="Default" color="#ffffff" >尚武大使赠好礼（可承接）</font>
+CanAcceptMenu_74429=<font face="Default" color="#ffffff" >隐世灌顶武道升（可承接）</font>
+CanAcceptMenu_74440=<font face="Default" color="#ffffff" >群侠修武</font><font face="Default" color="#ffffff" >（可承接）</font>
+CanAcceptMenu_74446=<font face="Default" color="#ffffff" >醉酒当歌（可承接）</font>
+CanAcceptMenu_74448=<font face="Default" color="#ffffff" >隐世经脉添助力（可承接）</font>
+CanAcceptMenu_74449=<font face="Default" color="#ffffff" >心魔挑战（可承接）</font>
+CompleteMenu_74401=<font face="Default" color="#ffffff" >灵宠伴君行（已完成）</font>
+CompleteMenu_74402=<font face="Default" color="#ffffff" >灵宠伴君行（已完成）</font>
+CompleteMenu_74403=<font face="Default" color="#ffffff" >灵宠伴君行（已完成）</font>
+CompleteMenu_74404=<font face="Default" color="#ffffff" >灵宠伴君行（已完成）</font>
+CompleteMenu_74405=<font face="Default" color="#ffffff" >灵宠伴君行（已完成）</font>
+CompleteMenu_74406=<font face="Default" color="#ffffff" >灵宠伴君行（已完成）</font>
+CompleteMenu_74411=<font face="Default" color="#ffffff" >盟主盛情邀隐王（可提交）</font>
+CompleteMenu_74415=<font face="Default" color="#ffffff" >门派会武拜帖忙（可提交）</font>
+CompleteMenu_74418=<font face="Default" color="#ffffff" >盟主拜帖庆佳节（可提交）</font>
+CompleteMenu_74421=<font face="Default" color="#ffffff" >盟主拜帖武林兴（可提交）</font>
+CompleteMenu_74425=<font face="Default" color="#ffffff" >盟主拜帖喜迎新（可提交）</font>
+CompleteMenu_74426=<font face="Default" color="#ffffff" >莘莘学子闯江湖（可提交）</font>
+CompleteMenu_74427=<font face="Default" color="#ffffff" >盟主拜帖庆武林（可提交）</font>
+CompleteMenu_74428=<font face="Default" color="#ffffff" >尚武大使赠好礼（可提交）</font>
+CompleteMenu_74429=<font face="Default" color="#ffffff" >隐世灌顶武道升（可</font><font face="Default" color="#ffffff" >提交</font><font face="Default" color="#ffffff" >）</font>
+CompleteMenu_74440=<font face="Default" color="#ffffff" >群侠修武</font><font face="Default" color="#ffffff" >（可提交）</font>
+CompleteMenu_74446=<font face="Default" color="#ffffff" >完成任务</font>
+CompleteMenu_74448=<font face="Default" color="#ffffff" >隐世经脉添助力（可</font><font face="Default" color="#ffffff" >提交</font><font face="Default" color="#ffffff" >）</font>
+CompleteMenu_74449=<font face="Default" color="#ffffff" >心魔挑战（可提交）</font>
+accept_74401_1=<font face="Default" color="#ffffff" >希望大侠能在禁地中找到一些线索。</font>
+accept_74402_1=<font face="Default" color="#ffffff" >希望大侠能在禁地中找到一些线索。</font>
+accept_74403_1=<font face="Default" color="#ffffff" >希望大侠能在禁地中找到一些线索。</font>
+accept_74404_1=<font face="Default" color="#ffffff" >希望大侠能在禁地中找到一些线索。</font>
+accept_74405_1=<font face="Default" color="#ffffff" >希望大侠能在禁地中找到一些线索。</font>
+accept_74406_1=<font face="Default" color="#ffffff" >希望大侠能在禁地中找到一些线索。</font>
+accept_74411_1=<font face="Default" color="#ffffff" >蜀南药王，技艺精湛，能治天下蛊毒，常年隐居，不为人知。经多年辛苦探寻，终于在隐王峰得其线索，遂欲向中原武林各家送上拜帖并集合前往相邀，请药王出山救世。</font>
+accept_74415_1=<font face="Default" color="#ffffff" >为了提升中原武林的整体实力，遂欲向各大宗门送上拜帖，相约再次开启门派论剑，武林论道谁与争锋。</font>
+accept_74418_1=<font face="Default" color="#ffffff" >佳节将至，遂欲向各大宗门送上拜帖，共庆佳节</font>
+accept_74421_1=<font face="Default" color="#ffffff" >欲向各派掌门赠送拜帖，江湖同庆，风起剑歌</font>
+accept_74425_1=<font face="Default" color="#ffffff" >欲向各派掌门赠送拜帖，江湖开学季，武林喜迎新</font>
+accept_74426_1=<font face="Default" color="#ffffff" >又是一年开学季，活动期间，每天都可以在我这边领取一份奖品。</font>
+accept_74427_1=<font face="Default" color="#ffffff" >欲向各派掌门赠送拜帖，纵横棋局迎新版，武林同庆乐江湖</font>
+accept_74428_1=<font face="Default" color="#ffffff" >只要在活动期间登陆，每天都可以在我这边领取一份奖品！</font>
+accept_74429_1=<font face="Default" color="#ffffff" >少侠实力不凡，老朽有好礼相赠！</font>
+accept_74440_1=<font face="Default" color="#ffffff" >桃园结义薄云天, 偃月青龙刀刃寒。
+accept_74446_1=<font face="Default" color="#ffffff" >古来圣贤皆寂寞，惟有饮者留其名。美酒既能使人胆略勇壮，更能振奋人心，英勇杀敌！醉酒当歌活动即将开启，少侠快来一展身手吧！</font>
+accept_74448_1=<font face="Default" color="#ffffff" >活动期间，满足条件的侠士可在此处领取一份逆脉助力凭证。</font>
+accept_74449_1=<font face="Default" color="#ffffff" >活动期间，江湖名俊玩家每天可在我处接取“心魔挑战”任务，完成后可领取大使赐赏</font>
+complete_74401=<font face="Default" color="#ffffff" >大侠果然找到了些线索？</font>
+complete_74402=<font face="Default" color="#ffffff" >大侠果然找到了些线索？</font>
+complete_74403=<font face="Default" color="#ffffff" >大侠果然找到了些线索？</font>
+complete_74404=<font face="Default" color="#ffffff" >大侠果然找到了些线索？</font>
+complete_74405=<font face="Default" color="#ffffff" >大侠果然找到了些线索？</font>
+complete_74406=<font face="Default" color="#ffffff" >大侠果然找到了些线索？</font>
+complete_74411=<font face="Default" color="#ffffff" >这是给予大侠的奖励，请您笑纳！</font>
+complete_74415=<font face="Default" color="#ffffff" >这是给予大侠的奖励，请您笑纳！</font>
+complete_74418=<font face="Default" color="#ffffff" >这是给予大侠的奖励，请您笑纳！</font>
+complete_74421=<font face="Default" color="#ffffff" >这是给予大侠的奖励，请您笑纳！</font>
+complete_74425=<font face="Default" color="#ffffff" >这是给予大侠的奖励，请您笑纳！</font>
+complete_74426=<font face="Default" color="#ffffff" >祝大侠一路顺风</font>
+complete_74427=<font face="Default" color="#ffffff" >这是给予大侠的奖励，请您笑纳！</font>
+complete_74428=<font face="Default" color="#ffffff" >祝大侠一路顺风！</font>
+complete_74429=<font face="Default" color="#ffffff" >祝大侠一路顺风！</font>
+complete_74440=<font face="Default" color="#ffffff" >壮志威风千古在，英雄气概万夫奇。堂堂庙貌人瞻仰，忠勇惟君更有谁？</font>
+complete_74446=<font face="Default" color="#ffffff" >酒为欢伯，除忧来乐！少侠不但懂得品酒，更身怀绝技，实力超凡！佩服佩服！</font>
+complete_74448=<font face="Default" color="#ffffff" >隐世经脉添助力（</font><font face="Default" color="#ffffff" >已完成</font><font face="Default" color="#ffffff" >）</font>
+complete_74449=<font face="Default" color="#ffffff" >这是给你的奖励，请收好</font>
+context_74401=通关暮色之村，寻找灵宠线索。（暮色之村（序）无法完成任务）
+context_74402=通关青云堡，寻找灵宠线索。（青云堡（序）无法完成任务）
+context_74403=通关凤凰山庄，寻找灵宠线索。（凤凰山庄（序）无法完成任务）
+context_74404=通关蝙蝠洞，寻找灵宠线索。
+context_74405=通关无争秘境，寻找灵宠线索。
+context_74406=通关大漠鬼城，寻找灵宠线索。
+context_74407=新年活动期间（2019.1.24-2019.2.13），玩家可以前往苏州荆惠娟（432 812）处领取新春大礼包一份。
+context_74408=拜年活动期间（2019.2.5），玩家可以前往苏州荆惠娟（432 812）处领取拜年礼包一份。
+context_74409=春节活动期间（2019.1.24-2019.2.13），玩家可以前往苏州<a href="findnpc_new,city02,hd_wyhd_001" style="HLStype1">尚武(活动大使)</a>处领修行礼包一份。
+context_74410=活动期间，江湖名俊侠士每日可前往苏州（423.794）或成都（923.551）宁九徽（江湖客）处承接活动任务，侠士可自由选择接取勤学练业之历练，虎斗，龙争，风云中任务一个， 完成后获得对应任务的奖励。（四种任务只能选择其中一种接取）
+context_74411=蜀南药王，技艺精湛，能治天下蛊毒，常年隐居，不为人知。经多年辛苦探寻，终于在隐王峰得其线索。武林盟主林天南遂集合中原武林各家前往相邀，请药王出山救世。
+context_74412=活动期间，侠士每天可在各大主城活动大使林梁处领取开学季任务（一），完成后即可获得开学回归令牌*1。
+context_74413=活动期间，侠士每天可在各大主城活动大使林梁处领取开学季任务（二），完成后即可获得开学迎新令牌*1。
+context_74415=为了提升中原武林的整体实力，武林盟主林天南发放门派论剑拜帖至各大宗门相约再次开启门派论剑，武林论道谁与争锋。
+context_74418=助武林盟主林天南赠送拜帖，共庆佳节。完成任务，就能从林天南处获得丰厚的奖励。
+context_74421=助武林盟主林天南赠送拜帖，江湖同庆，风起剑歌。完成任务，就能从林天南处获得丰厚的奖励。
+context_74425=助武林盟主林天南赠送拜帖，江湖开学季，武林喜迎新。完成任务，就能从林天南处获得丰厚的奖励。
+context_74426=活动期间，所有江湖名俊玩家，每天可在苏州NPC严伦（472,433）处领取“事半功倍礼包”一份
+context_74427=助武林盟主林天南赠送拜帖，纵横棋局迎新版，武林同庆乐江湖。完成任务，就能从林天南处获得丰厚的奖励。
+context_74428=活动期间，所有江湖名俊玩家，每天可在苏州NPC尚武大使（390,768）处领取“江湖尚武礼包”一份。
+context_74429=活动期间，江湖名俊玩家，实力达到空前绝后，前往苏州神秘老人（行善积德）（390，735）处，对话完成魔踪乍现实力认证任务，将获得隐世直升令牌*1。
+context_74440=前往金陵<a href="findnpc_new,city03,npc_sworn002" style="HLStype1">关志（帝庙结拜指引人）</a>处祭拜武圣后，挑战武圣侍从。
+context_74446=成功完成1次心魔挑战。
+context_74447=活动期间，江湖名俊玩家可在苏州NPC易名（改名大使）（395，740）处接取任务：盟主助力入隐世，任务完成可获取林天南的书信*1。
+context_74448=活动期间，开通六内九阴志（魔踪乍现）计划合服服务器的江湖名俊玩家前往苏州NPC易名（改名大使）（395，740）处对话，接取“隐世经脉添助力”任务，提交任务获得逆脉助力凭证*1。
+context_74449=活动期间，江湖名俊玩家每天可前往苏州尚武大使（390,768）处接取“心魔挑战”任务，完成后可领取大使赐赏
+menu_74401_1=<font face="Default" color="#ffffff" >原来如此，那我便去了。</font>
+menu_74402_1=<font face="Default" color="#ffffff" >原来如此，那我便去了。</font>
+menu_74403_1=<font face="Default" color="#ffffff" >原来如此，那我便去了。</font>
+menu_74404_1=<font face="Default" color="#ffffff" >原来如此，那我便去了。</font>
+menu_74405_1=<font face="Default" color="#ffffff" >原来如此，那我便去了。</font>
+menu_74406_1=<font face="Default" color="#ffffff" >原来如此，那我便去了。</font>
+menu_74411_1=<font face="Default" color="#ffffff" >好的</font>
+menu_74415_1=<font face="Default" color="#ffffff" >好的</font>
+menu_74418_1=<font face="Default" color="#ffffff" >好的</font>
+menu_74421_1=<font face="Default" color="#ffffff" >好的</font>
+menu_74425_1=<font face="Default" color="#ffffff" >好的</font>
+menu_74426_1=<font face="Default" color="#ffffff" >多谢</font>
+menu_74427_1=<font face="Default" color="#ffffff" >好的</font>
+menu_74428_1=<font face="Default" color="#ffffff" >多谢！</font>
+menu_74429_1=<font face="Default" color="#ffffff" >多谢！</font>
+menu_74440_1=<font face="Default" color="#ffffff" >我想祭拜武圣。</font>
+menu_74446_1=<font face="Default" color="#ffffff" >那我便痛饮美酒，放手一搏了！</font>
+menu_74448_1=<font face="Default" color="#ffffff" >多谢！</font>
+menu_74449_1=<font face="Default" color="#ffffff" >好的</font>
+next_74401=通关暮色之村
+next_74402=通关青云堡。
+next_74403=通关凤凰山庄。
+next_74404=通关蝙蝠洞。
+next_74405=通关无争秘境。
+next_74406=通关大漠鬼城。
+next_74449=完成1次心魔挑战后，领取大使赐赏
+submit_74401=<font face="Default" color="#ffffff" >灵宠伴君行（已完成）</font>
+submit_74402=<font face="Default" color="#ffffff" >灵宠伴君行（已完成）</font>
+submit_74403=<font face="Default" color="#ffffff" >灵宠伴君行（已完成）</font>
+submit_74404=<font face="Default" color="#ffffff" >灵宠伴君行（已完成）</font>
+submit_74405=<font face="Default" color="#ffffff" >灵宠伴君行（已完成）</font>
+submit_74406=<font face="Default" color="#ffffff" >灵宠伴君行（已完成）</font>
+submit_74411=<font face="Default" color="#ffffff" >谢谢</font>
+submit_74415=<font face="Default" color="#ffffff" >谢谢</font>
+submit_74418=<font face="Default" color="#ffffff" >谢谢</font>
+submit_74421=<font face="Default" color="#ffffff" >谢谢</font>
+submit_74425=<font face="Default" color="#ffffff" >谢谢</font>
+submit_74426=<font face="Default" color="#ffffff" >多谢</font>
+submit_74427=<font face="Default" color="#ffffff" >谢谢</font>
+submit_74428=<font face="Default" color="#ffffff" >在下告辞！</font>
+submit_74429=<font face="Default" color="#ffffff" >在下告辞！</font>
+submit_74440=<font face="Default" color="#ffffff" >真是令人敬仰。</font>
+submit_74446=<font face="Default" color="#ffffff" >今朝有酒今朝醉，明日愁来明日愁。美酒入喉，方才一番酣畅淋漓的大战如有神助！爽哉爽哉！</font>
+submit_74448=<font face="Default" color="#ffffff" >多谢！</font>
+submit_74449=<font face="Default" color="#ffffff" >多谢</font>
+target_74401=通关暮色之村
+target_74402=通关青云堡。
+target_74403=通关凤凰山庄。
+target_74404=通关蝙蝠洞。
+target_74405=通关无争秘境。
+target_74406=通关大漠鬼城。
+target_74407=前往苏州荆惠娟（432 812）处领取新春大礼包一份
+target_74408=前往苏州荆惠娟（432 812）处领取拜年礼包一份
+target_74409=前往苏州<a href="findnpc_new,city02,hd_wyhd_001" style="HLStype1">尚武(活动大使)</a>处修行礼包一份
+target_74411=前去与相军相谈，吩咐其将拜帖送至各大掌门处
+target_74412=找各大主城活动大使林梁接取开学季任务（一），完成后获得开学回归令牌。（江湖名俊的侠士方可接取）
+target_74413=找各大主城活动大使林梁领取开学季任务（二），完成后获得开学迎新令牌。（江湖名俊的侠士方可接取）
+target_74414=前往（家园）完成一次打扫。
+target_74415=前去与相军相谈，吩咐其将拜帖送至各大掌门处
+target_74418=前去与相军相谈，吩咐其将拜帖送至各大掌门处
+target_74421=助武林盟主林天南赠送拜帖，江湖同庆，风起剑歌。完成任务，就能从林天南处获得丰厚的奖励。
+target_74425=助武林盟主林天南赠送拜帖，江湖开学季，武林喜迎新。完成任务，就能从林天南处获得丰厚的奖励。
+target_74426=找到严伦，领取莘莘学子礼包。
+target_74427=助武林盟主林天南赠送拜帖，纵横棋局迎新版，武林同庆乐江湖。完成任务，就能从林天南处获得丰厚的奖励。
+target_74428=寻找尚武大使领取礼包
+target_74429=前往苏州找到神秘老人
+target_74440=群侠修武
+target_74446=完成一次心魔
+target_74447=找到易名（改名大使）
+target_74448=找到易名（改名大使）
+target_74449=完成1次心魔挑战后，领取大使赐赏
+title_74401=【活动】灵宠伴君行—暮色之村
+title_74402=【活动】灵宠伴君行—青云堡
+title_74403=【活动】灵宠伴君行—凤凰山庄
+title_74404=【活动】灵宠伴君行—蝙蝠洞
+title_74405=【活动】灵宠伴君行—无争秘境
+title_74406=【活动】灵宠伴君行—大漠鬼城
+title_74407=新春礼包
+title_74408=拜年礼包
+title_74409=金猪送福助修行
+title_74410=勤学练业之风云
+title_74411=盟主盛情邀隐王
+title_74412=开学季任务（一）
+title_74413=开学季任务（二）
+title_74415=门派会武拜帖忙
+title_74418=盟主拜帖庆佳节
+title_74421=盟主拜帖武林兴
+title_74425=盟主拜帖喜迎新
+title_74426=莘莘学子闯江湖
+title_74427=盟主拜帖庆武林
+title_74449=心魔挑战
+context_74416=对其他玩家丢5次西瓜皮
+next_74416=<a href="findnpc_new,city02,hd_wyhd_001" style="HLStype1">尚武(活动大使)</a>
+target_74416=对其他玩家丢5次西瓜皮
+title_74416=甩他瓜皮乐淘淘
+CanAcceptMenu_74417=<font face="Default" color="#ffffff" >接取任务</font>
+CompleteMenu_74417=<font face="Default" color="#ffffff" >提交任务</font>
+accept_74417_1=<font face="Default" color="#ffffff" >江湖名俊玩家可以来我这领取“暮剑寻心”全民赠礼一份。</font>
+complete_74417=<font face="Default" color="#ffffff" >五行魅泣镇天宫，冥岳戾刃守夜城，全民欢庆享赠礼</font><font face="Default" color="#ffffff" >。</font>
+context_74417=去林梁处签到即可获得奖励。
+menu_74417_1=<font face="Default" color="#ffffff" >好的</font>
+next_74417=全民欢庆享赠礼
+submit_74417=<font face="Default" color="#ffffff" >好的</font>
+target_74417=全民欢庆享赠礼
+title_74417=全民欢庆享赠礼
+context_74419=活动期间内，“江湖名俊”玩家可以到各大主城钱庄，活动大使-林梁处进行签到，提交任务后可以获得“墨刃归源”全民赠礼一份。
+target_74419=找到活动大使-林梁领取“墨刃归源”全民赠礼一份。
+title_74419=墨刃归源厚礼赠
+CanAcceptMenu_74420=<font face="Default" color="#ffffff" >嬉戏江湖</font><font face="Default" color="#ffffff" >（可接取）</font>
+CompleteMenu_74420=<font face="Default" color="#ffffff" >嬉戏江湖</font><font face="Default" color="#ffffff" >（可提交）</font>
+accept_74420_1=<font face="Default" color="#ffffff" >江湖名俊玩家处于小体型时可以对其他玩家扔泥球，泥球可以在我这边兑换。</font>
+complete_74420=<font face="Default" color="#ffffff" >闯荡江湖最重要的是心情，自己开心就好，哪管那刀光剑影。</font>
+context_74420=江湖名俊玩家处于小体型时对其他玩家扔5次泥球
+menu_74420_1=<font face="Default" color="#ffffff" >好的</font>
+submit_74420=<font face="Default" color="#ffffff" >谢谢</font>
+target_74420=江湖名俊玩家处于小体型时对其他玩家扔5次泥球
+title_74420=嬉戏江湖
+CanAcceptMenu_74422=<font face="Default" color="#ffffff" >打扫家园喜迎宾</font><font face="Default" color="#ffffff" >（可领取）</font>
+CompleteMenu_74422=<font face="Default" color="#ffffff" >打扫家园喜迎宾（可提交）</font>
+accept_74422_1=<font face="Default" color="#ffffff" >帮好友打扫一次家园。</font>
+complete_74422=<font face="Default" color="#ffffff" >帮好友打扫一次家园。</font>
+context_74422=帮好友打扫一次家园
+menu_74422_1=<font face="Default" color="#ffffff" >好的</font>
+next_74422=打扫家园喜迎宾
+submit_74422=<font face="Default" color="#ffffff" >我已经打扫过了。</font>
+target_74422=帮好友打扫一次家园
+title_74422=打扫家园喜迎宾
+CanAcceptMenu_74423=<font face="Default" color="#ffffff" >武圣祭拜（可接取）</font>
+CompleteMenu_74423=<font face="Default" color="#ffffff" >武圣祭拜（</font><font face="Default" color="#ffffff" >已完成</font><font face="Default" color="#ffffff" >）</font>
+accept_74423_1=<font face="Default" color="#ffffff" >桃园结义薄云天,偃月青龙刀刃寒。一骑绝尘走千里,五关斩将震坤乾。侠士这是前来祭拜武圣？</font>
+complete_74423=<font face="Default" color="#ffffff" >侠士既已祭拜完武圣，这是给予的奖励，请收下。</font>
+context_74423=壮志威风千古在，英雄气概万夫奇。堂堂庙貌人瞻仰，忠勇惟君更有谁？<br>桃园结义薄云天,偃月青龙刀刃寒。<br>一骑绝尘走千里,五关斩将震坤乾。<br>忠心报国为梁栋,肝胆护兄铸铁肩。<br>一去麦城无复返,英魂庙里化青烟。
+menu_74423_1=<font face="Default" color="#ffffff" >是的，先生。</font>
+submit_74423=<font face="Default" color="#ffffff" >多谢。</font>
+target_74423=完成一次武圣祭拜。
+title_74423=武圣祭拜
+CanAcceptMenu_74424=<font face="Default" color="#ffffff" >尚武大使助修行（可承接）</font>
+CompleteMenu_74424=<font face="Default" color="#ffffff" >尚武大使助修行（可提交）</font>
+accept_74424_1=<font face="Default" color="#ffffff" >只要在活动期间登陆，每天都可以在我这边领取一份奖品。</font>
+complete_74424=<font face="Default" color="#ffffff" >祝大侠一路顺风。</font>
+context_74424=活动期间，名俊玩家每日均可前往苏州NPC尚武大使（苏州-389，768）领取：江湖尚武礼包*1
+menu_74424_1=<font face="Default" color="#ffffff" >多谢</font>
+submit_74424=<font face="Default" color="#ffffff" >在下告辞</font>
+target_74424=找到尚武，领取江湖尚武礼包
+title_74424=尚武大使助修行
+title_74428=尚武大使赠好礼
+title_74429=隐世灌顶武道升
+CanAcceptMenu_74430=<font face="Default" color="#ffffff" >业精于勤（</font><font face="Default" color="#ffffff" >可承接</font><font face="Default" color="#ffffff" >）</font>
+CompleteMenu_74430=<font face="Default" color="#ffffff" >业精于勤（</font><font face="Default" color="#ffffff" >可</font><font face="Default" color="#ffffff" >提交）</font>
+accept_74430_1=<font face="Default" color="#ffffff" >业精于勤荒于嬉，完成一次授业再来找我。</font>
+complete_74430=<font face="Default" color="#ffffff" >持之以恒方为人上人。</font>
+context_74430=完成司马浩弘的请求，完成一次授业。
+menu_74430_1=<font face="Default" color="#ffffff" >好的。</font>
+next_74430=业精于勤
+submit_74430=<font face="Default" color="#ffffff" >勤能补拙。</font>
+target_74430=完成1次授业
+title_74430=业精于勤
+CanAcceptMenu_74431=<font face="Default" color="#ffffff" >全民欢庆迎新版（可承接）</font>
+CanAcceptMenu_74432=<font face="Default" color="#ffffff" >江湖尚武好礼赠</font><font face="Default" color="#ffffff" >(可承接)</font>
+CompleteMenu_74431=<font face="Default" color="#ffffff" >全民欢庆迎新版（可提交）</font>
+CompleteMenu_74432=<font face="Default" color="#ffffff" >江湖尚武好礼赠</font><font face="Default" color="#ffffff" >（可提交）</font>
+accept_74431_1=<font face="Default" color="#ffffff" >活动期间可在我这里领取礼包一份。</font>
+accept_74432_1=<font face="Default" color="#ffffff" >活动期间可在我这里领取礼包一份。</font>
+complete_74431=<font face="Default" color="#ffffff" >请收好！</font>
+complete_74432=<font face="Default" color="#ffffff" >请收好！</font>
+context_74431=活动期间内，江湖名俊玩家只要登录游戏，就可以找到各大主城钱庄NPC：林梁进行签到。提交任务后可以获得“边城侠歌”全民赠礼一份。
+context_74432=活动期间，江湖名俊玩家每天可在苏州NPC尚武大使（390,768）处领取“江湖尚武礼包”一份。
+menu_74431_1=<font face="Default" color="#ffffff" >多谢！</font>
+menu_74432_1=<font face="Default" color="#ffffff" >多谢！</font>
+submit_74431=<font face="Default" color="#ffffff" >全民欢庆迎新版（已完成）</font>
+submit_74432=<font face="Default" color="#ffffff" >江湖尚武好礼赠</font><font face="Default" color="#ffffff" >（已完成）</font>
+target_74431=找到大使林梁领取礼包
+target_74432=找到尚武大使领取礼包
+title_74431=全民欢庆迎新版
+title_74432=江湖尚武好礼赠
+
+
+
+
+CanAcceptMenu_74433=<font face="Default" color="#ffffff" >粽叶飘香全民享（可承接）</font>
+CompleteMenu_74433=<font face="Default" color="#ffffff" >粽叶飘香全民享（可提交）</font>
+accept_74433_1=<font face="Default" color="#ffffff" >江湖名俊玩家只要在活动期间登陆，每天都可以在我这边领取一份奖品。</font>
+complete_74433=<font face="Default" color="#ffffff" >祝大侠一路顺风。</font>
+context_74433=活动期间，江湖名俊玩家每天前往 活动大使·林梁 处领取粽叶飘香礼盒
+menu_74433_1=<font face="Default" color="#ffffff" >多谢</font>
+submit_74433=<font face="Default" color="#ffffff" >在下告辞</font>
+target_74433=找到林梁，领取粽叶飘香礼盒
+title_74433=粽叶飘香全民享
+
+
+CanAcceptMenu_74434=<font face="Default" color="#ffffff" >师尊恩情深似海（可承接）</font>
+CompleteMenu_74434=<font face="Default" color="#ffffff" >师尊恩情深似海（可提交）</font>
+accept_74434_1=<font face="Default" color="#ffffff" >活动期间，江湖名俊玩家每天可以在此处飞鸽传书，传至宗门。完成后可获得师恩难忘礼包</font>
+complete_74434=<font face="Default" color="#ffffff" >祝大侠一路顺风。</font>
+context_74434=活动期间，江湖名俊玩家每天可以前往苏州相军（车夫）( 645 ，433)处接取：师恩难忘任务，将大侠对师尊的惦念之情，飞鸽传书，传至宗门：江湖风雨兼程，莫忘师恩！任务完成后，即可获取师恩难忘礼包一份。"
+menu_74434_1=<font face="Default" color="#ffffff" >多谢</font>
+submit_74434=<font face="Default" color="#ffffff" >在下告辞</font>
+target_74434=找到相军，领取师恩难忘礼包
+title_74434=师尊恩情深似海
+CanAcceptMenu_74435=<font face="Default" color="#ffffff" >见义勇为助瓜农(可承接)</font>
+CompleteMenu_74435=<font face="Default" color="#ffffff" >见义勇为助瓜农(可提交)</font>
+accept_74435_1=<font face="Default" color="#ffffff" >哎，那朱扒皮每日在此捣乱，这日子怎么过啊！</font>
+complete_74435=<font face="Default" color="#ffffff" >多谢少侠出手相助，</font><font face="Default" color="#ffffff" >少侠此去没有受到伤害吧！</font>
+context_74435=暑期西瓜收成甚好，瓜农老汉近来却忧心忡忡，愁容满面。地痞朱扒皮每天都会差人来瓜地捣乱，强取豪夺。路见不平，当见义勇为，惩恶扬善，各位大侠请为瓜农老汉讨回公道。
+menu_74435_1=<font face="Default" color="#ffffff" >大爷放心，我去帮你教训他。</font>
+next_74435=见义勇为助瓜农
+submit_74435=<font face="Default" color="#ffffff" >区区小事</font><font face="Default" color="#ffffff" >，何足挂齿，三两下就揍得他满地找牙。</font>
+target_74435=赶走在农田中捣乱的<a href="findnpc_new,city05,npc_hd_zlw_01" style="HLStype1">朱扒皮</a>。
+title_74435=见义勇为助瓜农
+
+CanAcceptMenu_74436=<font face="Default" color="#ffffff" >巧拜织女(可承接)</font>
+CanAcceptMenu_74437=<font face="Default" color="#ffffff" >七姐诞（可承接）</font>
+CompleteMenu_74436=<font face="Default" color="#ffffff" >巧拜织女(可提交)</font>
+CompleteMenu_74437=<font face="Default" color="#ffffff" >七姐诞（可提交）</font>
+accept_74436_1=<font face="Default" color="#ffffff" >又是一年七夕时，你也是来为你的另一半祈求祝福的吗？你来的正巧，织女正在这月老庙中，你快去吧。</font>
+accept_74437_1=<font face="Default" color="#ffffff" >又是一年七夕时，你可找到了你的意中人？你可去月老庙找七姐祈福，她或许能帮你找到你的意中人。</font>
+complete_74436=<font face="Default" color="#ffffff" >你还真是聪明，看你也是成婚之人，是来给你的意中人祈福的吧？这份小礼物你收下，好好与你意中人共品人生百味，你的意中人将来一定会功成名就的。</font>
+complete_74437=<font face="Default" color="#ffffff" >阅历尚浅，我这有一份赠礼，你且收下。你尚需品人生百味，认真生活，你的意中人，自然会走进你的生活里。</font>
+context_74436=七夕是中国的传统节日，在这一天伴侣们吃巧果。妇女们一起拜织女，祈祷自己的意中人可以功成名就，同时也为自己祈求智巧。少女们联合在一起祭拜七姐，以求得如意郎君。故又名“乞巧节”
+context_74437=七夕是中国的传统节日，在这一天伴侣们吃巧果。妇女们一起拜织女，祈祷自己的意中人可以功成名就，同时也为自己祈求智巧。少女们联合在一起祭拜七姐，以求得如意郎君。故又名“乞巧节”
+context_74438=活动期间，江湖名俊玩家满足当前服务器九阴志条件下相应内功点数可在苏州易名（改名大使）处获取改名文书。
+menu_74436_1=<font face="Default" color="#ffffff" >多谢郡主指点！</font>
+menu_74437_1=<font face="Default" color="#ffffff" >多谢郡主指点！</font>
+submit_74436=<font face="Default" color="#ffffff" >多谢织女姐姐！</font>
+submit_74437=<font face="Default" color="#ffffff" >多谢七姐！</font>
+target_74436=巧拜织女，得到织女的祝福。
+target_74437=前往七姐处祈求七姐降福。
+target_74438=找到易名（改名大使）完成任务
+title_74436=巧拜织女
+title_74437=七姐诞
+title_74438=江湖易名任我行
+title_74440=群侠修武
+CanAcceptMenu_74439=<font face="Default" color="#ffffff" >开卷有益礼相赠（可承接）</font>
+CompleteMenu_74439=<font face="Default" color="#ffffff" >开卷有益礼相赠（可提交）</font>
+accept_74439_1=<font face="Default" color="#ffffff" >活动期间，江湖名俊玩家每天可以在此处接取任务，开卷有益，读万卷书。求得“神秘书笈”一个</font>
+complete_74439=<font face="Default" color="#ffffff" >祝大侠一路顺风。</font>
+context_74439=活动期间，江湖名俊玩家每天可以前往苏州严伦（472,433）处接取任务：开卷有益礼相赠，开卷有益，读万卷书。任务完成后，即可获取“神秘书笈”一份。
+menu_74439_1=<font face="Default" color="#ffffff" >多谢</font>
+submit_74439=<font face="Default" color="#ffffff" >在下告辞</font>
+target_74439=找到严伦，领取神秘书笈
+title_74439=开卷有益礼相赠
+context_74441=完成司马浩弘的请求，完成一次团练并且疲劳度达到100%。
+target_74441=完成一次团练并且疲劳度达到100%。
+title_74441=业精于勤
+CanAcceptMenu_74441=<font face="Default" color="#ffffff" >业精于勤</font><font face="Default" color="#ffffff" >（可承接）</font>
+CompleteMenu_74441=<font face="Default" color="#ffffff" >业精于勤</font><font face="Default" color="#ffffff" >（可提交）</font>
+accept_74441_1=<font face="Default" color="#ffffff" >业精于勤荒于嬉，完成一次</font><font face="Default" color="#ffffff" >团练</font><font face="Default" color="#ffffff" >再来找我。</font>
+complete_74441=<font face="Default" color="#ffffff" >持之以恒方为人上人。</font>
+menu_74441_1=<font face="Default" color="#ffffff" >好的</font>
+submit_74441=<font face="Default" color="#ffffff" >路遥知马力</font>
+
+CanAcceptMenu_74442=<font face="Default" color="#ffffff" >武林同庆（可承接）</font>
+CanAcceptMenu_74443=<font face="Default" color="#ffffff" >心魔挑战（可承接）</font>
+CanAcceptMenu_74444=<font face="Default" color="#ffffff" >精武兴邦（可承接）</font>
+CompleteMenu_74442=<font face="Default" color="#ffffff" >武林同庆（可提交）</font>
+CompleteMenu_74443=<font face="Default" color="#ffffff" >心魔挑战（可提交）</font>
+CompleteMenu_74444=<font face="Default" color="#ffffff" >精武兴邦（可提交）</font>
+accept_74442_1=<font face="Default" color="#ffffff" >活动期间，江湖名俊玩家每天可在我处接取“武林同庆”任务，完成后可领取大使赐赏</font>
+accept_74443_1=<font face="Default" color="#ffffff" >活动期间，江湖名俊玩家每天可在我处接取“心魔挑战”任务，完成后可领取大使赐赏</font>
+accept_74444_1=<font face="Default" color="#ffffff" >活动期间，江湖名俊玩家每天可在我处接取“精武兴邦”任务，完成后可领取大使赐赏</font>
+complete_74442=<font face="Default" color="#ffffff" >这是给你的奖励，请收好</font>
+complete_74443=<font face="Default" color="#ffffff" >这是给你的奖励，请收好</font>
+complete_74444=<font face="Default" color="#ffffff" >这是给你的奖励，请收好</font>
+context_74442=活动期间，江湖名俊玩家每天可前往苏州尚武大使（390,768）处接取“武林同庆”任务，完成后可领取大使赐赏
+context_74443=活动期间，江湖名俊玩家每天可前往苏州尚武大使（390,768）处接取“心魔挑战”任务，完成后可领取大使赐赏
+context_74444=活动期间，江湖名俊玩家每天可前往苏州尚武大使（390,768）处接取“精武兴邦”任务，完成后可领取大使赐赏
+menu_74442_1=<font face="Default" color="#ffffff" >好的</font>
+menu_74443_1=<font face="Default" color="#ffffff" >好的</font>
+menu_74444_1=<font face="Default" color="#ffffff" >好的</font>
+submit_74442=<font face="Default" color="#ffffff" >多谢</font>
+submit_74443=<font face="Default" color="#ffffff" >多谢</font>
+submit_74444=<font face="Default" color="#ffffff" >多谢</font>
+target_74442=与尚武大使对话，领取大使赐赏
+target_74443=完成1次心魔挑战后，领取大使赐赏
+target_74444=江湖散擂胜利1次后，领取大使赐赏
+title_74442=武林同庆
+title_74443=心魔挑战
+title_74444=精武兴邦
+title_74446=醉酒当歌
+CanAcceptMenu_74445=<font face="Default" color="#ffffff" >重阳踏秋齐欢乐</font>
+CompleteMenu_74445=<font face="Default" color="#ffffff" >重阳踏秋齐欢乐（可提交）</font>
+accept_74445_1=<font face="Default" color="#ffffff" >活动期间，江湖名俊玩家每日可前往 四艺老人( 成都955，791) 处，同四艺老人对话完成“重阳踏秋齐欢乐”后可获得踏秋欢乐礼包一个</font>
+complete_74445=<font face="Default" color="#ffffff" >祝大侠一路顺风。</font>
+context_74445=活动期间，江湖名俊玩家每日可前往 四艺老人( 成都955，791) 处接取任务：重阳踏秋齐欢乐。任务完成后，即可获取“踏秋欢乐礼包”一份。
+menu_74445_1=<font face="Default" color="#ffffff" >多谢</font>
+submit_74445=<font face="Default" color="#ffffff" >在下告辞</font>
+target_74445=找到四艺老人，领取踏秋欢乐礼包
+title_74445=重阳踏秋齐欢乐
+title_74447=盟主助力入隐世
+title_74448=隐世经脉添助力
+
+CanAcceptMenu_74450=<font face="Default" color="#ffffff" >心魔挑战（可承接）</font>
+CanAcceptMenu_74451=<font face="Default" color="#ffffff" >精武兴邦（可承接）</font>
+CompleteMenu_74450=<font face="Default" color="#ffffff" >心魔挑战（可提交）</font>
+CompleteMenu_74451=<font face="Default" color="#ffffff" >精武兴邦（可提交）</font>
+accept_74450_1=<font face="Default" color="#ffffff" >活动期间，江湖名俊玩家每天可在我处接取“心魔挑战”任务，完成后可领取大使赐赏</font>
+accept_74451_1=<font face="Default" color="#ffffff" >活动期间，江湖名俊玩家每天可在我处接取“精武兴邦”任务，完成后可领取大使赐赏</font>
+complete_74450=<font face="Default" color="#ffffff" >这是给你的奖励，请收好</font>
+complete_74451=<font face="Default" color="#ffffff" >这是给你的奖励，请收好</font>
+context_74450=活动期间，江湖名俊玩家每天可前往苏州尚武大使（390,768）处接取“心魔挑战”任务，完成后可领取大使赐赏
+context_74451=活动期间，江湖名俊玩家每天可前往苏州尚武大使（390,768）处接取“精武兴邦”任务，完成后可领取大使赐赏
+menu_74450_1=<font face="Default" color="#ffffff" >好的</font>
+menu_74451_1=<font face="Default" color="#ffffff" >好的</font>
+next_74450=<a href="findnpc_new,city02,hd_wyhd_001" style="HLStype1">尚武(活动大使)</a>
+next_74451=<a href="findnpc_new,city02,hd_wyhd_001" style="HLStype1">尚武(活动大使)</a>
+submit_74450=<font face="Default" color="#ffffff" >多谢</font>
+submit_74451=<font face="Default" color="#ffffff" >多谢</font>
+target_74450=完成1次心魔挑战后，领取大使赐赏
+target_74451=江湖散擂胜利1次后，领取大使赐赏
+title_74450=心魔挑战
+title_74451=精武兴邦
+CanAcceptMenu_74452=<font face="Default" color="#ffffff" >势力挑战</font><font face="Default" color="#ffffff" >（可承接）</font>
+CanAcceptMenu_74453=<font face="Default" color="#ffffff" >拭剑寻风助群英</font><font face="Default" color="#ffffff" >（可承接）</font>
+CompleteMenu_74452=<font face="Default" color="#ffffff" >势力挑战（</font><font face="Default" color="#ffffff" >可提交</font><font face="Default" color="#ffffff" >）</font>
+CompleteMenu_74453=<font face="Default" color="#ffffff" >拭剑寻风助群英</font><font face="Default" color="#ffffff" >（可提交）</font>
+accept_74452_1=<font face="Default" color="#ffffff" >活动期间，江湖名俊玩家每天可在我处接取“</font><font face="Default" color="#ffffff" >势力挑战</font><font face="Default" color="#ffffff" >”任务，完成后可领取大使赐赏</font>
+accept_74453_1=<font face="Default" color="#ffffff" >广邀江湖豪侠，对其他玩家使用在</font><font face="Default" color="#ffffff" >拭剑帖</font>
+complete_74452=<font face="Default" color="#ffffff" >这是给你的奖励，请收好</font>
+complete_74453=<font face="Default" color="#ffffff" >四海之内皆知己</font>
+context_74452=江湖名俊侠士每天可以前往成都<a href="findnpc_new,city05,npc_lotto_guj_01" style="HLStype1">司马浩弘(活跃使者)</a>处接取“势力挑战”任务。
+context_74453=使用10本心得手札在尚武处兑换奇遇帖，对其他玩家扔出5次拭剑帖。
+menu_74452_1=<font face="Default" color="#ffffff" >好的</font>
+menu_74453_1=<font face="Default" color="#ffffff" >好的</font>
+submit_74452=<font face="Default" color="#ffffff" >多谢</font>
+submit_74453=<font face="Default" color="#ffffff" >有朋自远方来</font>
+target_74452=完成任意一次江湖势力挑战。
+target_74453=对其他玩家扔出5次拭剑帖。
+title_74452=势力挑战
+title_74453=拭剑寻风助群英
+
+CanAcceptMenu_74414=<font face="Default" color="#ffffff" >新春祝福送佳人（可承接）</font>
+CanAcceptMenu_74454=<font face="Default" color="#ffffff" >尚武大使贺礼多（可承接）</font>
+CanAcceptMenu_74455=<font face="Default" color="#ffffff" >肝胆相照（可承接）</font>
+CompleteMenu_74414=<font face="Default" color="#ffffff" >新春祝福送佳人（可提交）</font>
+CompleteMenu_74454=<font face="Default" color="#ffffff" >尚武大使贺礼多（可提交）</font>
+CompleteMenu_74455=<font face="Default" color="#ffffff" >肝胆相照（可提交）</font>
+accept_74414_1=<font face="Default" color="#ffffff" >活动期间，江湖名俊玩家每天前往苏州NPC荆惠娟（432,812）处，接取“新春祝福送佳人”,完成后找荆惠娟领取奖励。</font>
+accept_74454_1=<font face="Default" color="#ffffff" >活动期间，江湖名俊玩家可</font><font face="Default" color="#ffffff" >在我这里</font><font face="Default" color="#ffffff" >领取“新春大礼包”一份</font>
+accept_74455_1=<font face="Default" color="#ffffff" >活动期间，江湖名俊玩家</font><font face="Default" color="#ffffff" >每天</font><font face="Default" color="#ffffff" >可在我这里领取</font><font face="Default" color="#ffffff" >护心镜（内功）或护心镜（外功）</font>
+complete_74414=<font face="Default" color="#ffffff" >这是给你的奖励，请收好</font>
+complete_74454=<font face="Default" color="#ffffff" >这是给你的奖励，请收好</font>
+complete_74455=<font face="Default" color="#ffffff" >这是给你的奖励，请收好</font>
+context_74414=活动期间，江湖名俊玩家每天前往苏州NPC荆惠娟（432,812）处，接取“新春祝福送佳人”任务：拜访他人家园，完成一次扫地。
+context_74454=活动期间，江湖名俊玩家可在苏州NPC尚武大使（390,768）处领取“新春大礼包”一份
+context_74455=活动期间，江湖名俊玩家每天可前往苏州NPC尚武大使（390,768）处领取“肝胆相照”任务,完成后可获得护心镜（内功）或护心镜（外功）。
+menu_74414_1=<font face="Default" color="#ffffff" >好的</font>
+menu_74454_1=<font face="Default" color="#ffffff" >好的</font>
+menu_74455_1=<font face="Default" color="#ffffff" >好的</font>
+next_74414=<a href="findnpc_new,city02,WorldNpc01650" style="HLStype1">荆惠娟</a>
+next_74454=<a href="findnpc_new,city02,hd_wyhd_001" style="HLStype1">尚武(活动大使)</a>
+next_74455=<a href="findnpc_new,city02,hd_wyhd_001" style="HLStype1">尚武(活动大使)</a>
+submit_74414=<font face="Default" color="#ffffff" >多谢</font>
+submit_74454=<font face="Default" color="#ffffff" >多谢</font>
+submit_74455=<font face="Default" color="#ffffff" >多谢</font>
+target_74454=找到尚武，领取“新春大礼包”
+target_74455=找到尚武，领取奖励
+title_74414=新春祝福送佳人
+title_74454=尚武大使贺礼多
+title_74455=肝胆相照
+
+CanAcceptMenu_74456=<font face="Default" color="#ffffff" >美味元宵</font><font face="Default" color="#ffffff" >（可领取）</font>
+CompleteMenu_74456=<font face="Default" color="#ffffff" >美味元宵</font><font face="Default" color="#ffffff" >（可提交）</font>
+accept_74456_1=<font face="Default" color="#ffffff" >猜谜</font><font face="Default" color="#ffffff" >，答对三题可获得奖励。</font>
+complete_74456=<font face="Default" color="#ffffff" >美味元宵</font>
+context_74456=玩家每天可在苏州姚之易（390,765）处猜谜，需猜对三道谜题方可获得奖励。
+menu_74456_1=<font face="Default" color="#ffffff" >我要参与。</font>
+submit_74456=<font face="Default" color="#ffffff" >我已经猜出三道谜题了。</font>
+target_74456=猜谜
+title_74456=美味元宵
+
+CanAcceptMenu_74457=<font face="Default" color="#ffffff" >飘逸若仙行江湖（可承接）</font>
+CompleteMenu_74457=<font face="Default" color="#ffffff" >飘逸若仙行江湖（可提交）</font>
+accept_74457_1=<font face="Default" color="#ffffff" >活动期间，江湖名俊玩家可</font><font face="Default" color="#ffffff" >在我这里</font><font face="Default" color="#ffffff" >领取“江湖修行大礼包”一份</font>
+complete_74457=<font face="Default" color="#ffffff" >这是给你的奖励，请收好</font>
+context_74457=活动期间，江湖名俊玩家可在苏州NPC尚武大使（390,768）处领取“江湖修行大礼包”一份
+menu_74457_1=<font face="Default" color="#ffffff" >好的</font>
+next_74457=<a href="findnpc_new,city02,hd_wyhd_001" style="HLStype1">尚武(活动大使)</a>
+submit_74457=<font face="Default" color="#ffffff" >多谢</font>
+target_74457=找到尚武，领取“江湖修行大礼包”
+title_74457=飘逸若仙行江湖
+
+CanAcceptMenu_74458=<font face="Default" color="#ffffff" >挑战心魔</font><font face="Default" color="#ffffff" >（可承接）</font>
+CompleteMenu_74458=<font face="Default" color="#ffffff" >挑战心魔</font><font face="Default" color="#ffffff" >（可提交）</font>
+accept_74458_1=<font face="Default" color="#ffffff" >修行路</font><font face="Default" color="#ffffff" >坦荡</font><font face="Default" color="#ffffff" >，魔在心底藏。</font>
+complete_74458=<font face="Default" color="#ffffff" >百无禁忌</font><font face="Default" color="#ffffff" >驱万鬼</font><font face="Default" color="#ffffff" >。</font>
+context_74458=江湖名俊大侠每天前往苏州尚武大使（390,768）处接取任务后挑战一次心魔。
+menu_74458_1=<font face="Default" color="#ffffff" >他横由他横，明月照大江。</font>
+submit_74458=<font face="Default" color="#ffffff" >问心</font><font face="Default" color="#ffffff" >无愧亦无悔。</font>
+target_74458=挑战心魔
+title_74458=挑战心魔
+
+CanAcceptMenu_74459=<font face="Default" color="#ffffff" >虎口脱险（可承接）</font>
+CompleteMenu_74459=<font face="Default" color="#ffffff" >虎口脱险（可提交）</font>
+accept_74459_1=<font face="Default" color="#ffffff" >活动期间，江湖名俊玩家</font><font face="Default" color="#ffffff" >每天</font><font face="Default" color="#ffffff" >可在我这里领取</font><font face="Default" color="#ffffff" >金蝉丹</font>
+complete_74459=<font face="Default" color="#ffffff" >这是给你的奖励，请收好</font>
+context_74459=活动期间，江湖名俊玩家每天可前往苏州NPC尚武大使（390,768）处领取“虎口脱险”任务,完成后可获得金蝉丹。
+menu_74459_1=<font face="Default" color="#ffffff" >好的</font>
+next_74459=<a href="findnpc_new,city02,hd_wyhd_001" style="HLStype1">尚武(活动大使)</a>
+submit_74459=<font face="Default" color="#ffffff" >多谢</font>
+target_74459=找到尚武，领取奖励
+title_74459=虎口脱险
+
+CanAcceptMenu_74460=<font face="Default" color="#ffffff" >江湖迎新赠群侠（可承接）</font>
+CompleteMenu_74460=<font face="Default" color="#ffffff" >江湖迎新赠群侠（可提交）</font>
+accept_74460_1=<font face="Default" color="#ffffff" >活动期间，江湖名俊玩家</font><font face="Default" color="#ffffff" >可在我这里领取</font><font face="Default" color="#ffffff" >江湖迎新礼包</font>
+complete_74460=<font face="Default" color="#ffffff" >这是给你的奖励，请收好</font>
+context_74460=活动期间，江湖名俊玩家可前往苏州NPC尚武大使（390,768）处领取“江湖迎新赠群侠”任务,完成后可获得江湖迎新礼包。
+menu_74460_1=<font face="Default" color="#ffffff" >好的</font>
+next_74460=<a href="findnpc_new,city02,hd_wyhd_001" style="HLStype1">尚武(活动大使)</a>
+submit_74460=<font face="Default" color="#ffffff" >多谢</font>
+target_74460=找到尚武，领取奖励
+title_74460=江湖迎新赠群侠
+CanAcceptMenu_74473=<font face="Default" color="#ffffff" >天轮试炼</font><font face="Default" color="#ffffff" >（</font><font face="Default" color="#ffffff" >可承接</font><font face="Default" color="#ffffff" >）</font>
+CompleteMenu_74473=<font face="Default" color="#ffffff" >天轮试炼</font><font face="Default" color="#ffffff" >（可提交）</font>
+accept_74473_1=<font face="Default" color="#ffffff" >点到即止，不伤和气。</font>
+complete_74473=<font face="Default" color="#ffffff" >刀剑无眼，手下留情。</font>
+context_74473=在江湖散擂中获胜1次。
+menu_74473_1=<font face="Default" color="#ffffff" >文无第一，武无第二。</font>
+submit_74473=<font face="Default" color="#ffffff" >既分高下，也决生死。</font>
+target_74473=在江湖散擂中获胜1次。
+title_74473=天轮试炼

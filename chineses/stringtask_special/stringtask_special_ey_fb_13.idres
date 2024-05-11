@@ -1,0 +1,53 @@
+﻿
+DialogID_43300=<s>{@0:}，你回来啦
+DialogID_43302=<s>{@0:}，我...我还有一事相求。我娘死前嘱咐我，有机会一定要想办法救出我爹。我也不是没想过办法，可是唐门岂是我这等乡下人可以进去的地方。我想就算我爹犯了再大的错，这么多年过去了也该放过他了。我爹他姓秦名扬武小兄弟，我看你功夫不凡，想求你到唐门帮我爹求求情让唐门把我爹放出来，在下感激不尽。还有这配方，我不知道是不是那药丸的配方不过是在�
+DialogID_43303=<s>农夫？！这不可能！这是我唐门秘药，一个农夫怎么会有？！这秘药的配方乃唐门门主一代代口传，自上一代门主唐天致突然暴毙后便失传了！虽我只在书本中见过记载不过绝对错不了。此事事关重大！你快去找来那农夫，问清他到底这九转丸从何而来！
+DialogID_43304=　　{@0:}，我...我还有一事相求。我娘死前嘱咐我，有机会一定要想办法救出我爹。我也不是没想过办法，可是唐门岂是我这等乡下人可以进去的地方。我爹他姓秦名扬武小兄弟，我看你功夫不凡，想求你到唐门帮我爹求求情让唐门把我爹放出来，在下感激不尽。还有这配方，我不知道是不是那药丸的配方,不过希望能帮上忙
+DialogID_43305=　　秦扬武？！哼，放他出来？可以！不过，有个条件！我要你替我去万毒宫中取一样东西。万毒宫中毒物密布，我要你替我去来宫中毒王的内胆来，这是丧魂散，你在合适的地方使用毒王自会现身！
+collectinfo_43300=收集<a href="findnpc_new,school05,GatherClone013003" style="HLStype1">食尾草</a>
+collectinfo_43301=收集<a href="findnpc_new,school05,GatherClone013004" style="HLStype1">兰溪花</a>
+collectinfo_43302=收集<a href="findnpc_new,,GatherClone013002" style="HLStype1">青菜</a>
+collectinfo_43303=收集<a href="findnpc_new,,npcclone013039" style="HLStype1">野猪</a>
+collectinfo_43304=收集<a href="findnpc_new,school05,Bossclone013008" style="HLStype1">毒王内胆</a>
+convoyinfo_43300=带<a href="findnpc_new,school05,funnpcclone013025" style="HLStype1">秦锟</a>到<a href="findnpc,school05,332,0,-166" style="HLStype1">后山</a>
+hunterinfo_43300=击败<a href="findnpc_new,school05,npcclone013038" style="HLStype1"></a><a href="findnpc_new,school05,npcclone013038" style="HLStype1">山贼</a>
+hunterinfo_43302=击败<a href="findnpc_new,school05,npcclone013040" style="HLStype1">神木宫守卫</a>
+interactinfo_43300=与<a href="findnpc_new,school05,Transschool05A" style="HLStype1">樊学冰</a>交谈
+interactinfo_43304=与<a href="findnpc_new,school05,funnpcclone013025" style="HLStype1">秦锟</a>交谈
+interactinfo_43305=与<a href="findnpc_new,school05,WorldNpc02201" style="HLStype1">唐凤</a>交谈
+okmenu_43300=樊大爷，这时我在夕佳山上发现的一壶好酒特意带回孝敬您的。
+okmenu_43302=我自当尽力而为。
+okmenu_43303=九转丸？你说的是这个吗？这是我在山下的一个叫秦锟的农夫处得来的。
+okmenu_43304=我自当尽力而为
+okmenu_43305=一言为定
+story_43300_1=　　农夫？！这不可能！这是我唐门秘药，一个农夫怎么会有？！
+story_43300_2=<s>这秘药的配方乃唐门门主一代代口传，自上一代门主唐天致突然暴毙后便失传了！虽我只在书本中见过记载不过绝对错不了。你快去找来那农夫，问清他到底这九转丸从何而来！
+story_43301_1=　　唐门秘药？！唉，{@0:}。你有所不知，我听我娘说我爹以前也是唐门中人，可是不知道犯了什么错被唐门给囚禁了起来。我爹被囚禁起来后我娘不久便郁郁而终了。所以我自小便成了孤儿，总是被人欺负，也因此才会打了樊学冰。
+story_43301_2=<s>那药丸是我在整理我爹、我娘的遗物时发现的。我原本以为是普通的药丸，而且过了那么久一定也没什么用的，便虽有扔了，不想第二天发现家里的家禽都死光了。我才知道这原来是剧毒之物。
+story_43301_3=
+story_43302_1=<s>你说什么，姥姥她身为一家之主竟出尔反尔！岂有此理！
+story_43303_1=<s>秦扬武？不认识，不知你找他所为何事？为何找到我唐门中来了？
+story_43303_2=<s>此人身世确实凄惨，不过我确实不认识此人。可惜我在唐门中身份地位不能帮你引荐，这种事情能做主的只有姥姥了。你若有能耐便自己去询问姥姥吧。
+story_43304_1=<s>这...这是九转丸的秘方。为何你会有？！
+story_43304_2=<s>你们有什么目的就老实交待了吧！
+story_43304_3=<s>所以呢？
+story_menu_43300=九转丸？你说的是这个吗？这是我在山下的一个农夫处得来的。
+story_menu_43301=前几日，我受伤被唐门中一位叫章叶的前辈救起，他见了你给我的药丸说叫什么九转丸，还说是唐门秘药，让我问你这药丸的来历。
+story_menu_43302=姥姥她言而无信是在可恶！
+story_menu_43303=<s>请问阁下是否认识一人姓秦名扬武？
+story_menu_43304=姥姥，我前些时日得到一药方不过小人不才，不知道有何妙用，特来献给姥姥。
+storyinfo_43300=听<a href="findnpc_new,school05,Reliveschool05A" style="HLStype1">章叶</a>诉说
+storyinfo_43301=听<a href="findnpc_new,school05,funnpcclone013025" style="HLStype1">秦锟</a>诉说
+storyinfo_43302=听<a href="findnpc_new,school05,funnpcclone013025" style="HLStype1">秦锟</a>诉说
+storyinfo_43304=听<a href="findnpc_new,school05,WorldNpc02201" style="HLStype1">唐凤</a>诉说
+storymenu_43300_1=唐门秘药？！
+storymenu_43300_2=我这就去。
+storymenu_43301_1=想不到秦大叔你的身世竟是如此凄苦。可是那九转丸有事从何而来呢？
+storymenu_43301_2=原来是这样
+storymenu_43301_3=
+storymenu_43302_1=秦大叔，姥姥她居然不信守承诺
+storymenu_43303_1=我受一位大叔所托，秦扬武是他的父亲……
+storymenu_43303_2=多谢
+storymenu_43304_1=日前我在山下遇到一农夫，他赠于我此物。
+storymenu_43304_2=他告诉我，他爹叫秦扬武，多年前因犯下大错被囚禁在了唐门。
+storymenu_43304_3=他无意中发现这药方希望交给唐门有用处，可以让他爹爹减轻惩罚，早日出来，这也是他娘的遗愿。

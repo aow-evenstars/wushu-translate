@@ -1,0 +1,307 @@
+﻿
+;=
+DialogID_52000=看少侠英俊潇洒，气宇不凡，风流倜傥，真是人中龙凤，马中赤兔……
+DialogID_52001=啊!成斌前辈的，这个死郜潮，居然想害我，还好我没有用，少侠你赶紧拿去还给成斌前辈，就说我根本就不知道，都是郜潮干的好事，少侠你可一定要为奴家做主啊。
+DialogID_52001|DialogID_52001_1=
+DialogID_52002=真是多谢少侠了，刚刚蔚弓已经向我请罪了，我念在他平日没有功劳也有苦劳，加上千年天山雪莲也没有什么损失，就原谅他了。
+DialogID_52003=你找我何事？
+DialogID_52004=少侠还是念念不忘奴家么？又来找奴家聊天？
+DialogID_52005=你快走吧，对面的女侠脾气可不好，别害了性命。
+DialogID_52006=邢君可不知道最近犯了什么事？好像要被逐出门墙了。不过他和燕长空私交甚密，我想这会他应该就在燕长空的寄东居里了。
+DialogID_52007=邢君可的为人在君子堂一向不错，为人正直，颇有堂主萧别情的风范。只是不知为什么最近谣传他要背逐出门墙的消息。
+DialogID_52020=谷主竟然安排你这种小鬼来审问。
+DialogID_52021=<font face="Default" color="#ffffff" >为善之心不在于听了多少佛经，</font><font face="Default" color="#ffffff" >而在于做了多少善事。回去转告谷主，等其明白了“善”字真正的含义后，老衲自当前往。</font>
+DialogID_52022=你是极乐谷弟子吗？回去告诉谷主，我这里一切正常，暂时没有什么事情，有事情我一定第一时间汇报！
+DialogID_52023=你是极乐谷弟子吗？回去告诉谷主，我这里一切正常，暂时没有什么事情，有事情我一定第一时间汇报！
+DialogID_52024=你是极乐谷弟子吗？回去告诉谷主，我这里一切正常，暂时没有什么事情，有事情我一定第一时间汇报！
+DialogID_52025=你找到了我们安插在君子堂的内应弟子了吗？
+DialogID_52026=你......你是怎么发现我的？饶命啊，大人，我也是一时见钱眼开，我保证下次再也不敢了！
+DialogID_52027=你......你是怎么发现我的？饶命啊，大人，我也是一时见钱眼开，我保证下次再也不敢了！
+DialogID_52028=你......你是怎么发现我的？饶命啊，大人，我也是一时见钱眼开，我保证下次再也不敢了！
+DialogID_52029=你找到潜藏在我们谷内其他门派的内应了嘛？
+QiecuoMenu_52001=你这种江湖败类，还不快快束手就擒！
+QiecuoMenu_52002=夫人何必遮遮掩掩，安乐公让我来拿着钗子问你，自然是全知道了呢！还有夫人的真实身份……
+QiecuoTitle_52001=就凭你也想找我的麻烦？
+QiecuoTitle_52002=（大惊失色）……少侠在说什么，奴家不明白呢！
+SubmitNpcEx_18010=找到<a href="findnpc,school04,22,549" style="HLStype1">白暮云</a>，向他道谢。
+SubmitNpcEx_18025=看看包裹里是否有谷主给的<a href="TASK_ITEM,key_120301_school04_miling" style="HLStype1">【信物】密令</a>。
+SubmitNpcEx_18026=<s>任务完成，回禀谷主。
+SubmitNpcEx_18027=<s>看看包裹里有没有线索。 
+SubmitNpcEx_18035=<s>你已经完成了谷主吩咐的事情，回极乐谷向谷主<a href="findnpc_new,school04,WorldNpc03816" style="HLStype1">单天冥</a>禀报。
+SubmitNpcEx_18053=<s>谷主吩咐的事情办完了。
+SubmitNpcEx_Qy3NSan=<s>看看谷主给你密信里写了什么。
+collectinfo_52000=收集<a href="findnpc_new,school04,Gather_qy_jilegu002" style="HLStype1">武器</a>
+collectinfo_52002=潜入深水池塘中找出神秘锦盒
+collectinfo_52003=信中提到木匠<a href="findnpc_new,city02,sz326" style="HLStype1">陈宁</a>也许知道赵子亟的线索，为了讨好他送他松木
+collectinfo_52004=信中提到木匠<a href="findnpc_new,city02,sz326" style="HLStype1">陈宁</a>也许知道赵子亟的线索，为了讨好他送他桃木
+collectinfo_52005=信中提到和尚<a href="findnpc_new,city02,WorldNpc01673" style="HLStype1">匡朋</a>也许知道赵子亟的线索，为了讨好他送他五花肉
+collectinfo_52006=信中提到和尚<a href="findnpc_new,city02,WorldNpc01673" style="HLStype1">匡朋</a>也许知道赵子亟的线索，为了讨好他送他猪里脊肉
+collectinfo_52007=信中提到渔夫<a href="findnpc_new,city02,sz354" style="HLStype1">钱庆航</a>也许知道赵子亟的线索，为了讨好他送他团头鲂
+collectinfo_52008=信中提到渔夫<a href="findnpc_new,city02,sz354" style="HLStype1">钱庆航</a>也许知道赵子亟的线索，为了讨好他送他草虾
+collectinfo_52009=信中提到商人<a href="findnpc_new,city02,sz350" style="HLStype1">明元善</a>也许知道赵子亟的线索，为了讨好他送他武侠全集
+collectinfo_52010=信中提到商人<a href="findnpc_new,city02,sz350" style="HLStype1">明元善</a>也许知道赵子亟的线索，为了讨好他送他三丰真人本记
+collectinfo_52011=信中提到妇人<a href="findnpc_new,city02,WorldNpc01508" style="HLStype1">石虹惠</a>也许知道赵子亟的线索，为了讨好她送她火麻
+collectinfo_52012=信中提到妇人<a href="findnpc_new,city02,WorldNpc01508" style="HLStype1">石虹惠</a>也许知道赵子亟的线索，为了讨好她送她朝天椒
+collectinfo_52013=暮色之村的韩似锦身上也许会有无相剑谱，从他身上搜一搜
+collectinfo_52017=找点伪装吧，试试从守城士兵(离线玩家)的身上扒一些军服，要怎么样才能神不知鬼不觉的扒光他们呢？
+collectinfo_52020=收集蜈黛香毒散（七阶以上毒师研毒可得）
+collectinfo_52021=收集五毒毒浆（七阶以上毒师研毒可得）
+collectinfo_52022=收集五淋毒膏（七阶以上毒师研毒可得）
+collectinfo_52023=收集千鸠毒散（五阶以上毒师研毒可得）
+collectinfo_52024=收集金波旬花毒粉（七阶以上毒师研毒可得）
+collectinfo_52025=收集黛哈药丸（六阶以上药师炼药可得）
+collectinfo_52026=收集血府逐瘀药酒（五阶以上药师炼药可得）
+collectinfo_52027=收集百炼四物药散（七阶以上药师炼药可得）
+collectinfo_52028=收集复方华佗药丸（六阶以上药师炼药可得）
+collectinfo_52029=收集复方大圣药浆（六阶以上药师炼药可得）
+collectinfo_52030=寻找或者制作一些“工具”，看看包裹里是否有<a href="TASK_ITEM,key_120301_school04_tuzhi" style="HLStype1">刑具制作图纸</a>之类,皮开肉绽鞭是拷问必备之物，还是先做皮开肉绽鞭再行拷问。
+collectinfo_52031=抢回兵刃“素云濯流”
+collectinfo_52032=抢回兵刃“天星流魅”
+collectinfo_52033=听说叶楼凯现在在暮色之村，去暮色之村看看他手上有没有线索
+collectinfo_52034=前去暮色之村,在黑白双煞之黑煞郭刚身上找寻“瑶光”的相关线索（在暮色之村禁地困难难度可以寻觅到郭刚的身影）
+convoyinfo_52000=带
+hunterinfo_52001=击败<a href="findnpc_new,school04,WorldNpc04080" style="HLStype1">胡天立</a>
+hunterinfo_52002=击败<a href="findnpc_new,school04,Boss_qy_jilegu020_wufuren" style="HLStype1">Boss_qy_jilegu020_wufuren</a>
+hunterinfo_52003=从黑衣女子的手下救出白暮云。
+hunterinfo_52004=前去村头<a href="findnpc,school04,165,590" style="HLStype1">车夫</a>处，询问莫姑娘的去向。
+hunterinfo_52005=前往啸鸣园找寻<a href="findnpc,school04,536,648" style="HLStype1">莫姑娘</a>
+hunterinfo_52006=去找啸名园的<a href="findnpc,school04,552,706" style="HLStype1">小二</a>打听神秘锦盒的消息
+hunterinfo_52007=把打听到的消息告诉<a href="findnpc,school04,536,648" style="HLStype1">莫无情</a>
+hunterinfo_52008=去天游宫找<a href="findnpc,school04,652,-23" style="HLStype1">莫无情</a>会合
+hunterinfo_52009=打开锦盒取出里面的东西，再回复<a href="findnpc,school04,652,-23" style="HLStype1">莫无情</a>
+hunterinfo_52010=前去极乐谷，向<a href="findnpc,school04,82,-26" style="HLStype1">谷主</a>打听莫无情的消息
+hunterinfo_52011=带上暗哨前去君子堂<a href="findnpc,school03,702,615" style="HLStype1">门口</a>接应莫无情
+hunterinfo_52012=赶去<a href="findnpc,school03,629,415" style="HLStype1">君子堂</a>内援救莫无情
+hunterinfo_52013=去<a href="findnpc,school03,401,277" style="HLStype1">后山</a>寻找莫无情
+hunterinfo_52014=前去<a href="findnpc,school03,87,1598" style="HLStype1">老君洞</a>，找到莫无情
+hunterinfo_52015=前往<a href="findnpc,school03,1119,1084" style="HLStype1">兰谷试剑台</a>寻找莫无情
+hunterinfo_52016=拿着谷主给你的<a href="TASK_ITEM,key_120301_school04_miling" style="HLStype1">【信物】密令</a>审问你觉得可疑的谷中弟子，注意你的审问方法。
+hunterinfo_52017=去找找黑风山首领的晦气吧，注意不要暴露。
+hunterinfo_52020=完成谷主吩咐的事情
+hunterinfo_52024=击败10个<a href="findnpc_new,school04,monm040705" style="HLStype1">假冒扶桑浪人</a>
+hunterinfo_52038=去找奸细<a href="findnpc_new,school04,qy_120301_school04_LS" style="HLStype1">黎三</a>看能不能问出些有用的信息。
+hunterinfo_52039=用谷主给的<a href="TASK_ITEM,key_120301_school04_lieying" style="HLStype1">猎鹰</a>追寻邢君可的踪迹是个不错的选择，教训邢君可
+hunterinfo_52040=使用<a href="TASK_ITEM,key_120301_school04_bianzi" style="HLStype1">刑具</a>从<a href="findnpc_new,city02,WorldNpc01635" style="HLStype1">石谅坚</a>口中掏出点有用的信息
+hunterinfo_52041=按照<a href="findnpc_new,city02,WorldNpc01635" style="HLStype1">石谅坚</a>所述的<a href="findnpc,city02,160.5959,20.301,988.374" style="HLStype1">地点</a>查探一番，救出灵儿。
+hunterinfo_52042=使用<a href="TASK_ITEM,key_120301_school04_bianzi" style="HLStype1">刑具</a>从<a href="findnpc_new,city02,WorldNpc01637" style="HLStype1">尚刚雄</a>口中掏出点有用的信息
+hunterinfo_52043=按照<a href="findnpc_new,city02,WorldNpc01637" style="HLStype1">尚刚雄</a>所述的<a href="findnpc,city02,160.5959,20.301,988.374" style="HLStype1">地点</a>查探一番，救出琬儿。
+hunterinfo_52044=使用<a href="TASK_ITEM,key_120301_school04_bianzi" style="HLStype1">刑具</a>从<a href="findnpc_new,city02,WorldNpc01643" style="HLStype1">从力翰</a>口中掏出点有用的信息
+hunterinfo_52045=按照<a href="findnpc_new,city02,WorldNpc01643" style="HLStype1">从力翰</a>所述的<a href="findnpc,city02,160.5959,20.301,988.374" style="HLStype1">地点</a>查探一番，救出曼儿。
+hunterinfo_52046=找<a href="findnpc_new,school04,qy_120301_school04_MZ" style="HLStype1">莫综</a>问出散谣之人是谁
+hunterinfo_52047=找<a href="findnpc_new,school04,qy_120301_school04_MZ" style="HLStype1">莫综</a>问出散谣之人到底说了什么
+hunterinfo_52048=找<a href="findnpc_new,school04,qy_120301_school04_MZ" style="HLStype1">莫综</a>问出散谣之人在哪
+hunterinfo_52049=去询问下谷内众人看有没有可疑的情况，最好还是在盘问之前给他们出示谷主信物
+hunterinfo_52050=去询问下谷内众人看有没有可疑的情况，最好还是在盘问之前给他们出示谷主信物
+hunterinfo_52051=按照情报上所述的<a href="findnpc,city02,160.5959,20.301,988.374" style="HLStype1">地点</a>查探一番
+hunterinfo_52054=使用<a href="TASK_ITEM,key_120301_school04_bianzi" style="HLStype1">刑具</a>找出极乐谷内的<a href="findnpc,school04,36.375,124.684,-128.047" style="HLStype1">藏匿的密探</a>
+hunterinfo_52055=救出被绑的女孩（从<a href="findnpc,city02,160.5959,20.301,988.374" style="HLStype1">洞口</a>处，可再次进入山洞）
+hunterinfo_52056=<a href="findnpc_new,city02,qy_120301_school04_MWY" style="HLStype1">莫无言</a>让你教训下<a href="findnpc_new,city02,monc010101" style="HLStype1">西村强盗</a>
+hunterinfo_52057=<a href="findnpc_new,city02,qy_120301_school04_MWY" style="HLStype1">莫无言</a>让你教训下<a href="findnpc_new,city02,monc014101" style="HLStype1">拥翠山庄护卫</a>
+hunterinfo_52058=<a href="findnpc_new,city02,qy_120301_school04_MWY" style="HLStype1">莫无言</a>让你教训下<a href="findnpc_new,city02,monc014301" style="HLStype1">梅花林淫贼</a>
+hunterinfo_52059=<a href="findnpc_new,city02,qy_120301_school04_MWY" style="HLStype1">莫无言</a>让你教训下<a href="findnpc_new,city02,monc012205" style="HLStype1">恶劣官兵</a>
+hunterinfo_52060=前去盐帮，击败5名盐帮帮众
+hunterinfo_52063=击败<a href="findnpc_new,school04,monm041500" style="HLStype1">黑风山使者</a>
+interactinfo_52000=找到<a href="findnpc_new,school04,WorldNpc04007" style="HLStype1">董万权</a>
+interactinfo_52001=找<a href="findnpc_new,school04,JlgNpc019" style="HLStype1">常芹</a>要千年天山雪莲
+interactinfo_52002=向<a href="findnpc_new,school04,JlgNpc015" style="HLStype1">成斌</a>归还天山雪莲
+interactinfo_52003=与<a href="findnpc_new,school04,WorldNpc03811" style="HLStype1">雾狐</a>交谈
+interactinfo_52004=与<a href="findnpc_new,school04,Boss_qy_jilegu020_wufuren" style="HLStype1">Boss_qy_jilegu020_wufuren</a>交谈
+interactinfo_52005=找到<a href="findnpc,school04,22,549" style="HLStype1">白暮云</a>，向他道谢。
+interactinfo_52006=找到<a href="findnpc_new,school03,lurknpc_jzt05" style="HLStype1">闵御</a>打听邢君可的动向
+interactinfo_52007=找到<a href="findnpc_new,school03,lurknpc_jzt01" style="HLStype1">杨博涛</a>打听邢君可的为人
+interactinfo_52008=潜入深水池塘中，把神秘锦盒捞上来
+interactinfo_52020=与<a href="findnpc_new,school04,WorldNpc03996" style="HLStype1">隐风</a>交谈
+interactinfo_52021=与<a href="findnpc_new,school04,WorldNpc03919" style="HLStype1">玄杯</a>交谈
+interactinfo_52022=前往君子堂找到君子堂内应杨博涛探明情报
+interactinfo_52023=前往君子堂找到君子堂内应与邬杰探明情报
+interactinfo_52024=前往君子堂找到君子堂内应闵御探明情报
+interactinfo_52025=回到极乐谷将获得的情报告知谷主单天冥
+interactinfo_52026=在极乐谷内找到敌对门派的内应弟子仰焕
+interactinfo_52027=在极乐谷内找到敌对门派的内应弟子法志远
+interactinfo_52028=在极乐谷内找到敌对门派的内应弟子谷粱英
+interactinfo_52029=回禀极乐谷谷主单天冥你找到的线索
+okmenu_52000=得了得了，二位难道是一个德行的吗？到底有什么事？
+okmenu_52001=常芹姑娘放心，我会如实相告的。
+okmenu_52002=前辈，千年天山雪莲药液已经找回来了。
+okmenu_52003=谷主有命，请佛使大人即刻到山下渡头一会。
+okmenu_52004=夫人真是好风雅，安乐公那里也有你的香气，真是来者不拒。这只钗子是你落下的吧？
+okmenu_52005=白大哥，我是来替孙诗韵姑娘道谢的。
+okmenu_52006=这样一来，那莫姑娘就没机会下手了
+okmenu_52007=哦，想不到他在君子堂的声誉会这么好
+okmenu_52020=看我手段便知，少废话了，给我工具吧。
+okmenu_52021=<font face="Default" color="#ffffff" >见过玄怀大师，受谷主之命想请您前去讲经。</font>
+okmenu_52022=我知道了
+okmenu_52023=我知道了
+okmenu_52024=我知道了
+okmenu_52025=是的谷主，我找到了。
+okmenu_52026=你还有何话说！
+okmenu_52027=你还有何话说！
+okmenu_52028=你还有何话说！
+okmenu_52029=是的谷主，我找到了！
+specialinfo_300=踢馆神风帮
+specialinfo_520=去君子堂刺探获得两份情报
+specialinfo_521=夺回敌方刺探到的情报两份
+story_52000_1=少侠果然快人快语，那我就直说了。我这里有一张藏宝图，不知少侠有没有兴趣？
+story_52000_2=少侠好眼光，这正是刚画的……少侠息怒，不要拔刀！容在下解释！
+story_52000_3=岂，岂敢。哎呀，现在的年轻人怎么这么冲动……是这个样子的，前些日子小可在路上救起一个奄奄一息的胡商，他在弥留之际给了我一只古旧箱子，还神神秘秘的嘱咐我。箱子万万不能开，赶紧找个地方埋了，否则招来杀身之祸。我当时正在跑商队，这种晦气话宁信其有勿信其无，当即找个地方埋了，但还是画了个记号以求按图索骥。果然之后遇上了打劫。
+story_52000_4=实不相瞒，在下先后派了几波人，却没有一个能活着将箱子带回来。
+story_52000_5=这个不可能。箱子的钥匙还在这里。是一个七巧盒，若非用钥匙，便是当世的能工巧匠也未必打得开，强行开启其内存物立毁。
+story_52001_1=（女子冷漠的看了你一眼，却又挤出个笑）少侠，有什么事？
+story_52001_2=咦咦？少侠，你胡说八道些什么，怎么可能吗！这东西，不，这人生的肥头大耳油光满面，不是蛮可爱的吗……
+story_52002_1=少侠但说无妨，坐下来一起喝杯酒吧，你和他是朋友么？
+story_52002_2=啧，明人不说暗话，杀富济贫，有什么不对？
+story_52003_1=江湖险恶，人心更是险恶。师父反复叮嘱，我总算明白了。想不到刚出来没多久就遇到一个登徒浪子，看我们替天行道！嗯？你，你什么时候站在这里的？
+story_52003_2=他见到我们眼珠子都快掉下来了，怎会错怪他？
+story_52004_1=怎么样？怎么样？问出来了吗？
+story_52005_1=我，我怎么知道。我每天都做些打杂的事情，哪里能接触到真正的炼丹内容。难道师傅居然怀疑是我做错了事？怎么可能！我每天都……
+story_52005_2=你说那天啊，那天，那天我是……（他抓耳挠腮，似乎想不起来了）
+story_52005_3=对，对，对，你也知道头天晚上我们捣药捣到很晚……
+story_52005_4=我，我，我！我冤枉啊！大侠，那天，那天早上我是去见常芹去了，这次我说的可都是真的，我是偷偷拿了极乐花，然后去了常芹那里，然后第二天一早赶回来了。
+story_52005_5=是极乐花啊，是蔚弓的，那天晚上他捣药的时候也捣了些极乐花,说是有养颜之功效。我前些天和常芹闹了些不愉快，当时就偷偷带上蔚弓做好的极乐花液去找了常芹，然后第二天上午才回来，所以才回来晚了。
+story_52006_1=是啊，好可惜啊，不知道师傅能不能炼这个丹了，好多药都很稀有的，应该很难收集到了。
+story_52006_2=千年天山雪莲？我记得师傅当天晚上才给的我们千年雪莲，然后我和郜潮去将它捣碎入药，保管好之后，放入师傅专门布置的珍贵药房。那个药房有两重锁，我和郜潮一人一把，取药时是需要我们两个人一起拿着钥匙才能开锁的。哦，第二天取药的时候郜潮还来晚了，当时师傅也在，怎么可能会少放了千年雪莲呢？
+story_52006_3=啊！极乐花？你怎么知道？是郜潮告诉你的吧，你千万不要说出去，那是我打算送给斗南院的小红的。
+story_52007_1=少侠，真是太谢谢你了！
+story_52007_2=蔚弓？让我想一想，恩，好像没听说过这个人，他是谁啊？
+story_52007_3=不认识，也没见过。
+story_52008_1=对啊，还在我手中，我都没舍得用呢！
+story_52009_1=我便知道以少侠的本事轻而易举。那家伙有没有胡说八道些什么污人清誉的话？
+story_52009_2=奴家真是越来越佩服少侠了呢！不过少侠也不是什么好人，说谎骗奴家！你一定，一定知道了那厮和小女子的事，对不对？少侠不会因此瞧不起奴家吧？雾狐那个蠢材吃了豹子胆，竟敢要挟奴家，不想混了！以为和安乐公走得近就不能把他怎样了吗？活该！
+story_52010_1=哼！落在你这狠心人手里，要杀要剐，还是要……
+story_52010_2=何必扮作，我就是夫人。单天冥那畜生为占有我，背地使人杀我全家后假作拔刀相助，这么多年我忍辱负重，一直对他百依百顺，他从不知我会武功，只恨学艺不精没有手刃敌人，爹娘在天之灵不能安息！至于那恶心的老头子，垂涎我美色久矣，给他点便宜，便偷出了极乐谷的大秘密，不过玉珏我已扔了，要宝藏下辈子吧！你全知道了，一刀杀了我吧！ 
+story_52010_3=……我不要！呜呜……你侮辱了半天，害我把秘密都说出来，就想一走了之么？呜呜……
+story_52010_4=……嘻嘻，少侠是什么样的人，看你的眼睛就知道哩。虽然总是凶巴巴又好色，但藏在眸子深处的善良正直却是掩不掉呢！喏，拿去，这是老色鬼的玉珏，我早就嫌累赘，你收着吧，千万别让老色鬼取了去，最好能先把宝藏取了去，让老色鬼活活气死！听说他刚被几个对头弄得焦头烂额，在这么一下还不要了他的老命！嘻嘻……
+story_52011_1=呵呵呵，少侠不必惊慌，你为我谷中出力不少，此事说与你不妨。安乐公练功岔了气，需要闭关数日，那人是个替身罢了。
+story_52011_2=哦？正是我着安乐公细查此事，少侠不妨说与我听。人在哪里？
+story_52011_3=（失望）那些是数十年前游魂窟中逃脱的囚犯，罪大恶极，盗走了我教的圣物，你也不必知道的太多。天惊听说你回来，很是欢喜，着我务必叫你去一趟。我这个妹妹还要你多费心了。
+story_52012_1=副谷主副谷主，这周围又没旁人，你就只懂叫人家这个吗？
+story_52012_2=大哥有了那个骚货，真是越来越糊涂哩，那两个老家伙到我这里来做什么？再说不是听说人已经在谷外找到了么？只是没有找到那东西就是了。
+story_52012_3=你是不知道，那两人本也是我谷中的长老，三十年前因偷盗圣物获罪，武功被废，扔进了游魂窟的最底层，安乐公去逼问圣物下落。谁知最后竟被两个人逃了出去，一直下落不明。真是奇怪，他们如今怎会有这么高的武功呢？
+story_52012_4=有谁能像你这般看得开呢！那圣物听说是前代某个大侠留下的，不仅包含天地奥妙，更藏着绝世武学。不过我看也是稀松平常，这么多年，也没见谷中人参出过什么花样。不谈这些个扫兴的话题了，今个儿我着人准备下酒菜，你不要走，留在这里陪陪我
+story_52013_1=我收到了确切消息赵子亟就出现在这苏州，但是接下来就没有线索了。
+story_52013_2=你也不要这样说，要不你看看谷主的信里有没有提到什么其他的线索。
+story_52020_1=你……你是极乐谷的人！？你要干嘛？你还我的灵儿！呜呜呜呜……
+story_52020_2=当然，这群牲口竟然还在光天化日之下谈论此事，我真恨不得把他们的舌头割下来喂猪！
+story_52021_1=你也是道长介绍来的么？
+story_52021_2=其实那牛鼻子最近也没啥大胃口了，我这里没啥好货，要不你自己去苏州城转转，找点好货色过来？
+story_52021_3=就跟我之前去捞的一个叫灵儿的妞差不多就行。
+story_52022_1=你……你是极乐谷的人！？你要干嘛？你还我的琬儿！呜呜呜呜……
+story_52022_2=当然，这群牲口竟然还在光天化日之下谈论此事，我真恨不得把他们的舌头割下来喂猪！
+story_52023_1=你也是道长介绍来的么？
+story_52023_2=其实那牛鼻子最近也没啥大胃口了，我这里没啥好货，要不你自己去苏州城转转，找点好货色过来？
+story_52023_3=<font face="Default" color="#ffffff" >就跟我之前去捞的一个叫琬儿的妞差不多就行。</font>
+story_52024_1=你……你是极乐谷的人！？你要干嘛？你还我的曼儿！呜呜呜呜……
+story_52024_2=当然，这群牲口竟然还在光天化日之下谈论此事，我真恨不得把他们的舌头割下来喂猪！
+story_52025_1=你也是道长介绍来的么？
+story_52025_2=其实那牛鼻子最近也没啥大胃口了，我这里没啥好货，要不你自己去苏州城转转，找点好货色过来？
+story_52025_3=<font face="Default" color="#ffffff" >就跟我之前去捞的一个叫曼儿的妞差不多就行。</font>
+story_52026_1=不认识，我等你的时候一些小混混过来搭茬，为了不暴露身份我一直忍着。后来好像那个家伙想帮我出头……
+story_52026_2=算了，我们还有事要去办……<font face="Default" color="#008B8B" >（莫无言默默回头看了一眼，随即转过头来）</font>我们走吧。
+story_52027_1=<font face="Default" color="#ffffff" >这个你无须多问，你来的正好，帮我做一件事情，快去。</font>
+story_52028_1=<font face="Default" color="#ffffff" >这个你无须多问，你来的正好，帮我做一件事情，快去。</font>
+story_52029_1=<font face="Default" color="#ffffff" >这个你无须多问，你来的正好，帮我做一件事情，快去。</font>
+story_menu_52000=有话快说，别耽误我时间
+story_menu_52001=这位姑娘......
+story_menu_52002=这位姑娘我有话想和你谈谈
+story_menu_52003=（悄悄来到她身后）......
+story_menu_52004=贾老板我帮你问过她们了
+story_menu_52005=郜潮，你知道师傅这次炼丹为什么失败了吗？
+story_menu_52006=蔚弓，这次炼丹失败了，你知道了吧？
+story_menu_52007=小红姑娘，那个胡天立已经被我狠狠的教训了一顿，他以后再也不会来缠着你了。
+story_menu_52008=常芹姑娘，那天郜潮送给你的极乐花液，还在你那里吧！
+story_menu_52009=夫人要的东西，我已经找到了。
+story_menu_52010=夫人莫要挣扎了，我已经锁了你身上数处大穴，连咬舌自尽都要征得我同意。
+story_menu_52011=谷主大事不好，适才在下应安乐公前日之邀去下棋，却发现那个人一问三不知，那人是冒名顶替
+story_menu_52012=副谷主找我？
+story_menu_52013=散落的线索
+story_menu_52020=失踪的少女
+story_menu_52021=真相
+story_menu_52022=失踪的少女
+story_menu_52023=真相
+story_menu_52024=失踪的少女
+story_menu_52025=真相
+story_menu_52026=刚才的是谁？
+story_menu_52027=<font face="Default" color="#ffffff" >吩咐的事情已经办妥了，那个是……</font>
+story_menu_52028=<font face="Default" color="#ffffff" >吩咐的事情已经办妥了，那个是……</font>
+story_menu_52029=<font face="Default" color="#ffffff" >吩咐的事情已经办妥了，那个是……</font>
+storyinfo_51009=听<a href="findnpc_new,city02,WorldNpc01304" style="HLStype1">慕容嫣</a>诉说NpcId=慕容嫣
+storyinfo_52000=和<a href="findnpc_new,school04,WorldNpc04007" style="HLStype1">董万权</a>谈谈
+storyinfo_52001=和<a href="findnpc_new,school04,JlgNpc144" style="HLStype1">阮艺馨</a>谈谈
+storyinfo_52002=和<a href="findnpc_new,school04,JlgNpc145" style="HLStype1">羊玉纯</a>谈谈
+storyinfo_52003=和<a href="findnpc_new,school04,JlgNpc147" style="HLStype1">朱靓馨</a>谈谈
+storyinfo_52004=回复<a href="findnpc_new,school04,WorldNpc04010" style="HLStype1">贾常山</a>谈话的结果
+storyinfo_52005=向<a href="findnpc_new,school04,JlgNpc016" style="HLStype1">郜潮</a>取证
+storyinfo_52006=向<a href="findnpc_new,school04,JlgNpc017" style="HLStype1">蔚弓</a>取证
+storyinfo_52007=向<a href="findnpc_new,school04,WorldNpc03913" style="HLStype1">小红</a>取证
+storyinfo_52008=找到那个有千年天山雪莲的人
+storyinfo_52010=听<a href="findnpc_new,school04,Boss_qy_jilegu020_wufuren" style="HLStype1">Boss_qy_jilegu020_wufuren</a>诉说
+storyinfo_52011=听<a href="findnpc_new,school04,WorldNpc03816" style="HLStype1">单天冥</a>诉说
+storyinfo_52012=按谷主吩咐去找<a href="findnpc_new,school04,WorldNpc03904" style="HLStype1">单天惊</a>
+storyinfo_52013=听<a href="findnpc_new,city02,WorldNpc01667" style="HLStype1">童寒</a>诉说
+storyinfo_52020=听线报说苏州<a href="findnpc_new,city02,sz063" style="HLStype1">雍渔妍</a>经常哭斥极乐谷，去询问一下。
+storyinfo_52021=询问<a href="findnpc_new,city02,WorldNpc01635" style="HLStype1">石谅坚</a>
+storyinfo_52022=听线报说苏州<a href="findnpc_new,city02,sz392" style="HLStype1">司惠菊</a>经常哭斥极乐谷，去询问一下。
+storyinfo_52023=询问<a href="findnpc_new,city02,WorldNpc01637" style="HLStype1">尚刚雄</a>
+storyinfo_52024=听线报说苏州<a href="findnpc_new,city02,sz097" style="HLStype1">庞红娣</a>经常哭斥极乐谷，去询问一下。
+storyinfo_52025=询问<a href="findnpc_new,city02,WorldNpc01643" style="HLStype1">从力翰</a>
+storyinfo_52026=去苏州找<a href="findnpc_new,city02,qy_120301_school04_MWY" style="HLStype1">莫无言</a>
+storyinfo_52027=回禀<a href="findnpc_new,city02,qy_120301_school04_MWY" style="HLStype1">莫无言</a>
+storymenu_52000_1=藏宝图？（董万权小心翼翼的露出一个角，又赶紧收了回去。）我看是破纸吧！
+storymenu_52000_2=如果你耍我……
+storymenu_52000_3=……不说废话了，你想让我去找这只箱子？你为什么不自己派人去找？
+storymenu_52000_4=也许他们已经带着箱子跑了。
+storymenu_52000_5=你想怂恿我去拿那破箱子然后死翘翘？你皮痒了？
+storymenu_52001_1=其实，你们是冲着他的钱来的，对不对？
+storymenu_52001_2=我明白了。姑娘你太紧张了，撒谎的样子好可爱。
+storymenu_52002_1=我是谁其实不重要，你也不用再装了。为什么是这个人？
+storymenu_52002_2=依我看这个人虽然富，却并不是个坏人。你们还是先冷静冷静。
+storymenu_52003_1=在下不是不理解你们伸张正义的心情，只是看事情不能只看表面，也许你们冤枉……
+storymenu_52003_2=像姑娘这般天生丽质，就更是难怪。姑娘不妨在暗中观察几天为好，莫要错杀好人。
+storymenu_52004_1=……你还是死了这份心吧。估计她们是认错人了。也许一会儿就会和你说的。
+storymenu_52005_1=听说炼丹那天上午你人不在？你师傅和蔚弓等了你很久。
+storymenu_52005_2=你师傅说你当天起晚了？
+storymenu_52005_3=那你当天和你师傅说你去了茅房！！你说话前后不一，到底想隐瞒什么？
+storymenu_52005_4=极乐花？是极乐花还是千年天山雪莲？
+storymenu_52005_5=极乐花？常芹？我自会去问个明白，到时候你可不要狡辩。
+storymenu_52006_1=这次炼丹失败，是因为少放了一个非常重要的药引，千年天山雪莲。
+storymenu_52006_2=听说你还弄了些极乐花？
+storymenu_52006_3=好的，我知道了。（原来真有极乐花这回事）
+storymenu_52007_1=举手之劳，何足挂齿，我想向小红姑娘打听个人，不知道蔚弓你认不认识？
+storymenu_52007_2=极乐谷的炼丹药工，蔚弓，你再想一想，你不认识他吗？或者你见过他吗？
+storymenu_52007_3=好的，我知道了。多谢姑娘
+storymenu_52008_1=太好了，其实这份药液不是极乐花液，而且千年天山雪莲液，是成斌前辈的，我看……
+storymenu_52009_1=他来不及说出任何字便死了。夫人的承诺呢？
+storymenu_52009_2=夫人私生活如何，在下并不关心。夫人好自为之。（人传言极乐夫人不会武功，这个人到底是谁？）
+storymenu_52010_1=你身负武功，究竟是谁？为什么要扮作夫人？到安乐公那里做了什么？潜在谷中有何目的？
+storymenu_52010_2=……（解了穴道）夫人可以走了。你的事我绝不会乱说。还有，擦擦眼泪，看着怪可怜的。
+storymenu_52010_3=不，不要真哭出来啊？你……你，你怎么在偷笑？……夫人早知我不会害你，对吗？
+storymenu_52010_4=以我之见夫人不如及早抽身。在下告辞。（莫不是那几个隐士对安乐公出手了）
+storymenu_52011_1=（与吴苏媚和凤天南说的不同，竟还想瞒我）安乐公事前曾托我打听几个人的消息……
+storymenu_52011_2=（为何不告诉单天冥？除非这件事是安乐公瞒着他私下查的，要私吞那东西）不瞒谷主我也没查出他们的身份
+storymenu_52011_3=副谷主有事找我，我去去便是。
+storymenu_52012_1=副谷主还是莫要开玩笑。谷主让我来问问，伤了安乐公的刺客有没有来这里捣乱？
+storymenu_52012_2=（……）那便好了。我一直担心副谷主的安危，如今终于放下心来。听说那两个人武功不错。
+storymenu_52012_3=（原来如此）世人真是糊涂，什么样的宝物让人舍生忘死，竟连命也不要了。
+storymenu_52012_4=（苦笑）谷主还吩咐了一件重要之事，必须完成，副谷主好意心领了，告辞！
+storymenu_52013_1=你这个废物。
+storymenu_52013_2=好吧，我再看看。
+storymenu_52020_1=我就是为此事前来的，听说你的……灵儿，被我极乐谷门人所劫。你确定？
+storymenu_52020_2=<font face="Default" color="#ffffff" >哦？你告诉我，是谁。</font>
+storymenu_52021_1=（顺水推舟探探虚实）对，我能干些啥？
+storymenu_52021_2=什么叫做好货色呢，我怕那个牛鼻子不喜欢啊。
+storymenu_52021_3=原来你就是极乐谷的败类！我奉谷主之命前来清理门户！说出被绑架的女孩在哪我就饶你一死！
+storymenu_52022_1=我就是为此事前来的，听说你的……琬儿，被我极乐谷门人所劫。你确定？
+storymenu_52022_2=<font face="Default" color="#ffffff" >哦？你告诉我，是谁。</font>
+storymenu_52023_1=（顺水推舟探探虚实）对，我能干些啥？
+storymenu_52023_2=什么叫做好货色呢，我怕那个牛鼻子不喜欢啊。
+storymenu_52023_3=原来你就是极乐谷的败类！我奉谷主之命前来清理门户！说出被绑架的女孩在哪我就饶你一死！
+storymenu_52024_1=我就是为此事前来的，听说你的……曼儿，被我极乐谷门人所劫。你确定？
+storymenu_52024_2=<font face="Default" color="#ffffff" >哦？你告诉我，是谁。</font>
+storymenu_52025_1=<font face="Default" color="#ffffff" >（顺水推舟探探虚实）对，我能干些啥？</font>
+storymenu_52025_2=什么叫做好货色呢，我怕那个牛鼻子不喜欢啊。
+storymenu_52025_3=原来你就是极乐谷的败类！我奉谷主之命前来清理门户！说出被绑架的女孩在哪我就饶你一死！
+storymenu_52026_1=用不用帮他一下？
+storymenu_52026_2=遵命。
+storymenu_52027_1=<font face="Default" color="#ffffff" >遵命</font>
+storymenu_52028_1=<font face="Default" color="#ffffff" >遵命</font>
+storymenu_52029_1=<font face="Default" color="#ffffff" >遵命</font>

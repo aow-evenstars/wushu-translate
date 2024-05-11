@@ -1,0 +1,106 @@
+﻿
+DialogID_43650=是堂主派你来的吧，来的正好，我现在要你去收集一些亚丁村的粮食，这样他们就没有粮食过冬了。
+DialogID_43651=干得好，你可以去回报堂主了，说大功告成。
+DialogID_43652=牟~~
+DialogID_43653=你可以帮我去杀掉些七星堂弟子么？
+DialogID_43654=有……有什么事吗？（颤抖）
+DialogID_43655=我怀疑，偷牛之事与七星堂有关，你去帮我教训那群七星堂帮众把。
+DialogID_43656=从七星堂长老口中得知，他们的堂主叫俞天川，既然知道主谋了，就好办了，去杀死俞天川。
+DialogID_43657=你……你是何人，胆敢擅闯凉月寺！
+DialogID_43658=原来是七星堂找来的帮手，你马上去杀掉他们，不能让七星堂壮大实力。
+DialogID_43659=你……你想干嘛……
+DialogID_43660=住手……住手……别打了，我说，我全说。
+DialogID_43661=村子里最近村子里来了群土匪，影响堂主的计划，你去赶走那群土匪。
+DialogID_43662=说起可疑人物，我觉得郝大刚有可疑
+DialogID_43663=你……你说什么？
+DialogID_43664=如果郝大刚是七星堂派来的内奸，必然会有书信往来，去七星坛杀死七星坛长老寻找线索。
+DialogID_43665=你来干什么？
+DialogID_43666=他怎么说？
+DialogID_43667=我也不想这样，只不过有些往事无法忘怀，容我考虑考虑。
+QiecuoMenu_43656=俞天川，你作恶多端，拿命来
+QiecuoMenu_43657=果然是七星堂做的好事
+QiecuoMenu_43659=那我就不客气了，看招……
+QiecuoMenu_43661=那好吧，接招
+QiecuoTitle_43656=你是何人，胆敢擅闯七星堂！
+QiecuoTitle_43657=大侠不要杀我，我只是个跑腿的，七星堂的人才是幕后主使。
+QiecuoTitle_43659=哼，想知道事情？我不会说的。
+QiecuoTitle_43661=你打赢我，我就不再寻仇
+ZZAnswerText1_3686=愿意
+ZZAnswerText2_3686=不愿意
+collectinfo_43650=收集<a href="findnpc_new,scene04,Gather00098m" style="HLStype1">亚丁村粮食</a>
+collectinfo_43651=从<a href="findnpc_new,scene04,monf043300" style="HLStype1">七星堂帮众</a>身上收集解药
+collectinfo_43652=从<a href="findnpc_new,scene04,monf043603" style="HLStype1">亚丁村恶徒</a>身上抢回被抢的粮食
+collectinfo_43653=从<a href="findnpc_new,scene04,monf043402" style="HLStype1">狂牛驯服者</a>那里抢回七星堂武器
+collectinfo_43654=从<a href="findnpc_new,scene04,monf043400" style="HLStype1">奸诈牛贩</a>那里夺回被骗的财物
+collectinfo_43655=从<a href="findnpc_new,scene04,monf043301" style="HLStype1">七星堂长老</a>身上获得密信
+collectinfo_43656=从<a href="findnpc_new,scene04,monf043404" style="HLStype1">路口狂徒</a>夺回被抢的财物
+collectinfo_43657=从<a href="findnpc_new,scene04,monf043303" style="HLStype1">外来藏僧</a>身上寻找线密信
+collectinfo_43658=从<a href="findnpc_new,scene04,monf043500" style="HLStype1">发疯的牦牛</a>身上收集牦牛肉
+collectinfo_43659=从<a href="findnpc_new,scene04,monf043500" style="HLStype1">发疯的牦牛</a>身上收集牦牛皮
+convoyinfo_43650=带牛到<a href="findnpc,scene04,280,0,829" style="HLStype1">银花姑</a>处
+hunterinfo_43650=杀死<a href="findnpc_new,scene04,monf043603" style="HLStype1">亚丁村恶徒</a>
+hunterinfo_43651=击败<a href="findnpc_new,scene04,monf043302" style="HLStype1">七星堂弟子</a>
+hunterinfo_43652=杀死<a href="findnpc_new,scene04,monf043604" style="HLStype1">河边匪徒</a>
+hunterinfo_43653=杀死<a href="findnpc_new,scene04,monf043401" style="HLStype1">偷牛者</a>
+hunterinfo_43654=击败<a href="findnpc_new,scene04,monf043300" style="HLStype1">七星堂帮众</a>
+hunterinfo_43655=击败<a href="findnpc_new,scene04,monf043301" style="HLStype1">七星堂长老</a>
+hunterinfo_43656=击败<a href="findnpc_new,scene04,WorldNpc05808" style="HLStype1">俞天川</a>
+hunterinfo_43657=击败<a href="findnpc_new,scene04,WorldNpc05704" style="HLStype1">喇嘛</a>
+hunterinfo_43658=击败<a href="findnpc_new,scene04,monf043303" style="HLStype1">外来藏僧</a>
+hunterinfo_43659=击败<a href="findnpc_new,scene04,WorldNpc06067" style="HLStype1">潘雁鹏</a>
+hunterinfo_43660=击败<a href="findnpc_new,scene04,monf043600" style="HLStype1">亚丁村土匪</a>
+hunterinfo_43661=击败<a href="findnpc_new,scene04,WorldNpc05740" style="HLStype1">郝大刚</a>
+interactinfo_43650=与<a href="findnpc_new,scene04,WorldNpc05740" style="HLStype1">郝大刚</a>交谈
+interactinfo_43651=与<a href="findnpc_new,scene04,WorldNpc05740" style="HLStype1">郝大刚</a>交谈
+interactinfo_43652=找回丢失的<a href="findnpc_new,scene04,WorldNpc05820" style="HLStype1">牛</a>
+interactinfo_43653=与<a href="findnpc_new,scene04,WorldNpc06068" style="HLStype1">祖戚</a>交谈
+interactinfo_43654=与<a href="findnpc_new,scene04,WorldNpc06069" style="HLStype1">钟成</a>交谈
+interactinfo_43655=与<a href="findnpc_new,scene04,WorldNpc06068" style="HLStype1">祖戚</a>交谈
+interactinfo_43656=与<a href="findnpc_new,scene04,WorldNpc06068" style="HLStype1">祖戚</a>交谈
+interactinfo_43657=与<a href="findnpc_new,scene04,WorldNpc05704" style="HLStype1">喇嘛</a>交谈
+interactinfo_43658=与<a href="findnpc_new,scene04,WorldNpc06067" style="HLStype1">潘雁鹏</a>交谈
+interactinfo_43659=与<a href="findnpc_new,scene04,WorldNpc06067" style="HLStype1">潘雁鹏</a>交谈
+interactinfo_43660=与<a href="findnpc_new,scene04,WorldNpc06067" style="HLStype1">潘雁鹏</a>交谈
+interactinfo_43661=与<a href="findnpc_new,scene04,WorldNpc05740" style="HLStype1">郝大刚</a>交谈
+interactinfo_43662=与<a href="findnpc_new,scene04,WorldNpc06069" style="HLStype1">钟成</a>交谈
+interactinfo_43663=与<a href="findnpc_new,scene04,WorldNpc05740" style="HLStype1">郝大刚</a>交谈
+interactinfo_43664=与<a href="findnpc_new,scene04,WorldNpc06067" style="HLStype1">潘雁鹏</a>交谈
+interactinfo_43665=与<a href="findnpc_new,scene04,WorldNpc05740" style="HLStype1">郝大刚</a>交谈
+interactinfo_43666=与<a href="findnpc_new,scene04,WorldNpc06067" style="HLStype1">潘雁鹏</a>交谈
+interactinfo_43667=与<a href="findnpc_new,scene04,WorldNpc05740" style="HLStype1">郝大刚</a>交谈
+maintext_3686=以后是否还愿意帮助再杀些人?
+okmenu_43650=好吧，我这就去
+okmenu_43651=好的，我这就去回禀堂主
+okmenu_43652=跟我走
+okmenu_43653=我这就去
+okmenu_43654=那群匪徒已经被我赶跑了，不用怕了
+okmenu_43655=好的，我这就去
+okmenu_43656=好的，我这就去
+okmenu_43657=你这和尚，好生古怪
+okmenu_43658=好的我这就去
+okmenu_43659=我想知道点事
+okmenu_43660=快说，谁是你们的领头人
+okmenu_43661=好的，我这就去
+okmenu_43662=好的，我这就去探查一下
+okmenu_43663=（此人被一问此事就慌张有古怪）
+okmenu_43664=我这就去
+okmenu_43665=你和潘雁鹏曾经也兄弟一场，不能放弃仇恨么
+okmenu_43666=他在我的说服下，决定考虑考虑
+okmenu_43667=能放弃仇恨，这样最好
+quest_menu_43650=你有什么问题？
+questioninfo_43650=回答<a href="findnpc_new,scene04,WorldNpc05808" style="HLStype1">俞天川</a>的问题
+story_43650_1=七星堂的人与我们亚丁村同在这个地方，但是矛盾很深，七星堂弟子又经常来村中捣乱，弄得民不聊生。
+story_43651_1=是祖戚，他组织村民反抗七星堂的暴行，你别说是我说的，不然他会把我当叛徒处置
+story_43652_1=曾经我和他是好兄弟，但是因为一个女人而反目成仇，小花她已经死了，他觉得是我害死了小花……
+story_menu_43650=有什么难处吗
+story_menu_43651=速速与我说来
+story_menu_43652=这其中有什么隐情
+storyinfo_43650=听<a href="findnpc_new,scene04,WorldNpc06068" style="HLStype1">祖戚</a>诉说
+storyinfo_43651=听<a href="findnpc_new,scene04,WorldNpc06067" style="HLStype1">潘雁鹏</a>诉说
+storyinfo_43652=听<a href="findnpc_new,scene04,WorldNpc06067" style="HLStype1">潘雁鹏</a>诉说
+storymenu_43650_1=居然如此可恶，我必定帮大哥除掉这个祸害
+storymenu_43651_1=原来如此
+storymenu_43652_1=原来如此
+useiteminfo_43650=使用<a href="TASK_ITEM,useitem_58m" style="HLStype1">火把</a>烧毁<a href="findnpc_new,scene04,EventNpc82920" style="HLStype1">粮食</a>
+useiteminfo_43651=使用<a href="TASK_ITEM,useitem_59m" style="HLStype1">毒粉</a>在<a href="findnpc_new,scene04,EventNpc82921" style="HLStype1">水源</a>下毒
+useiteminfo_43652=使用<a href="TASK_ITEM,useitem_60m" style="HLStype1">毒水解药</a>帮<a href="findnpc_new,scene04,WorldNpc05738" style="HLStype1">银花姑</a>解毒

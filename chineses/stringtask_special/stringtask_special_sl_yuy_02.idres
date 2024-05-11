@@ -1,0 +1,95 @@
+﻿
+DialogID_40660=你是来救我的吧？
+DialogID_40661=现在安全了吗，我们赶快走！
+DialogID_40662=你找我有什么事？
+DialogID_40663=我身受重伤，上药不便请大侠帮忙上药。
+DialogID_40664=你去替我把剑还给鲍阳天。
+DialogID_40665=替我去告诉刘放，毒物收集好了！
+DialogID_40666=你是谁，找我所为何事？
+DialogID_40667=小子，有什么话快说。
+DialogID_40668=找我何事？
+DialogID_40669=你找我何事？
+DialogID_40670=我是附近茶铺的小二，出去送货的路上被野兽咬伤了。
+DialogID_40671=你找我何事？
+DialogID_40672=汉军副将今天这么早就回军营，看来是得到好东西了。
+DialogID_40673=我怕信件又给我这个粗心的人弄丢，你替我把信件交给宋青奇。
+DialogID_40674=找我何事？
+DialogID_40675=回答的很好，这女儿红给你了！
+ZZAnswerText1_3597=色如鲜血
+ZZAnswerText2_3597=色、香、味、俱全
+ZZAnswerText3_3597=晶亮透明、微有黄色、酱香突出、令人陶醉
+collectinfo_40660=收集<a href="findnpc_new,scene01,Gather00080m" style="HLStype1">金银花</a>
+collectinfo_40661=收集<a href="findnpc_new,scene01,Gather00081m" style="HLStype1">佩剑</a>
+collectinfo_40662=收集<a href="findnpc_new,scene01,Gather00082m" style="HLStype1">粮草</a>
+collectinfo_40663=收集<a href="findnpc_new,scene01,Gather00083m" style="HLStype1">金菊花</a>
+collectinfo_40664=从<a href="findnpc_new,scene01,monf011702" style="HLStype1">汉军副将</a>处夺回宝剑
+collectinfo_40665=收集<a href="findnpc_new,scene01,Gather00084m" style="HLStype1">信件</a>
+collectinfo_40666=收集<a href="findnpc_new,scene01,Gather00085m" style="HLStype1">活筋草</a>
+collectinfo_40667=收集<a href="findnpc_new,scene01,Gather00086m" style="HLStype1">薄荷花</a>
+convoyinfo_40660=护送去<a href="findnpc,scene01,1043,0,1019" style="HLStype1">安全地</a>
+convoyinfo_40661=护送牧坤<a href="findnpc,scene01,970,0,946" style="HLStype1">回去</a>
+convoyinfo_40662=护送茶铺小二<a href="findnpc,scene01,962,0,901" style="HLStype1">回去</a>
+convoyinfo_40663=一起去找<a href="findnpc,scene01,908,0,1051" style="HLStype1">菊花</a>
+hunterinfo_40660=杀死<a href="findnpc_new,scene01,monf011105" style="HLStype1">山贼</a> 
+hunterinfo_40661=杀死<a href="findnpc_new,scene01,monf011104" style="HLStype1">山贼头子</a>
+hunterinfo_40662=击败<a href="findnpc_new,scene01,monf011103" style="HLStype1">江湖刺客</a>
+hunterinfo_40663=杀死<a href="findnpc_new,scene01,monf011100" style="HLStype1">江湖刀客</a>
+hunterinfo_40664=击败<a href="findnpc_new,scene01,monf011401" style="HLStype1">汉军士兵</a>
+hunterinfo_40665=击败<a href="findnpc_new,scene01,monf011105" style="HLStype1">山贼</a>
+hunterinfo_40666=击败<a href="findnpc_new,scene01,monf011103" style="HLStype1">江湖剑客</a>
+hunterinfo_40667=杀死<a href="findnpc_new,scene01,monf011300" style="HLStype1">满军纵火者</a>
+hunterinfo_40668=击败<a href="findnpc_new,scene01,monf011500" style="HLStype1">汉军粮仓守卫</a>
+interactinfo_40660=与<a href="findnpc_new,scene01,WorldNpc05450" style="HLStype1">勾坡</a>交谈
+interactinfo_40661=与<a href="findnpc_new,scene01,WorldNpc05450" style="HLStype1">勾坡</a>交谈
+interactinfo_40662=与<a href="findnpc_new,scene01,WorldNpc05202" style="HLStype1">鲍阳天</a>交谈
+interactinfo_40663=与<a href="findnpc_new,scene01,WorldNpc05419" style="HLStype1">周充</a>交谈
+interactinfo_40664=与<a href="findnpc_new,scene01,WorldNpc05202" style="HLStype1">鲍阳天</a>交谈
+interactinfo_40665=与<a href="findnpc_new,scene01,WorldNpc05453" style="HLStype1">牧坤</a>交谈
+interactinfo_40666=与<a href="findnpc_new,scene01,WorldNpc05454" style="HLStype1">蓟弘怀</a>交谈
+interactinfo_40667=与<a href="findnpc_new,scene01,WorldNpc05201" style="HLStype1">余都</a>交谈
+interactinfo_40668=与<a href="findnpc_new,scene01,WorldNpc05462" style="HLStype1">江湖神医</a>交谈
+interactinfo_40669=与<a href="findnpc_new,scene01,WorldNpc05458" style="HLStype1">宋青奇</a>交谈
+interactinfo_40670=与<a href="findnpc_new,scene01,WorldNpc05463" style="HLStype1">茶铺小二</a>交谈
+interactinfo_40671=与<a href="findnpc_new,scene01,WorldNpc05454" style="HLStype1">蓟弘怀</a>交谈
+interactinfo_40672=与<a href="findnpc_new,scene01,WorldNpc05456" style="HLStype1">仰鸿涛</a>交谈
+interactinfo_40673=与<a href="findnpc_new,scene01,WorldNpc05461" style="HLStype1">佘默</a>交谈
+interactinfo_40674=与<a href="findnpc_new,scene01,WorldNpc05418" style="HLStype1">茶铺小二</a>交谈
+interactinfo_40675=与<a href="findnpc_new,scene01,WorldNpc05418" style="HLStype1">茶铺小二</a>交谈
+maintext_3597=你知道女儿红有什么特点？
+okmenu_40660=我先帮你消灭附近的坏人！
+okmenu_40661=跟好我！
+okmenu_40662=我是替周充来找奇兰花的
+okmenu_40663=好的
+okmenu_40664=我这就去
+okmenu_40665=我这就去
+okmenu_40666=刘放让我把秘籍还给你
+okmenu_40667=蓟弘怀让我来拿独门心法
+okmenu_40668=很多村民受伤了，我来要些紫金丹
+okmenu_40669=茶铺小二受伤了，请给些活气散
+okmenu_40670=见到你就好了，你们老板让我来找你的，我送你回去
+okmenu_40671=余都让你陪他一起去寻找金菊花
+okmenu_40672=原来他已经回军营了，谢谢
+okmenu_40673=好的，我这就去
+okmenu_40674=我是来要些女儿红的
+okmenu_40675=多谢
+quest_menu_40660=你想说什么？
+questioninfo_40660=回答<a href="findnpc_new,scene01,WorldNpc05418" style="HLStype1">茶铺小二</a>的问题
+story_40660_1=应该是掉在城门口了，那里有很多杂草的。
+story_40661_1=我知道也不用叫你送了！
+story_40662_1=我不知道啊……怎么也想不起来啊！对了，应该是掉在很拥挤的地方吧……
+story_menu_40660=你好像有什么要对我说
+story_menu_40661=你家里大概在哪里
+story_menu_40662=信件大概掉落位置你知道么？
+storyinfo_40660=听<a href="findnpc_new,scene01,WorldNpc05203" style="HLStype1">李青筝</a>诉说
+storyinfo_40661=听<a href="findnpc_new,scene01,WorldNpc05452" style="HLStype1">牧坤</a>诉说
+storyinfo_40662=听<a href="findnpc_new,scene01,WorldNpc05461" style="HLStype1">佘默</a>诉说
+storymenu_40660_1=我知道了
+storymenu_40661_1=这个……那我们慢慢找吧
+storymenu_40662_1=……是吗
+useiteminfo_40660=对<a href="findnpc_new,scene01,WorldNpc05419" style="HLStype1">周充</a>使用<a href="TASK_ITEM,useitem_45m" style="HLStype1">奇兰花</a>
+useiteminfo_40661=对<a href="findnpc_new,scene01,WorldNpc05455" style="HLStype1">第五君浩</a>使用<a href="TASK_ITEM,useitem_50m" style="HLStype1">紫金丹</a>
+useiteminfo_40662=对<a href="findnpc_new,scene01,WorldNpc05456" style="HLStype1">仰鸿涛</a>使用<a href="TASK_ITEM,useitem_50m" style="HLStype1">紫金丹</a>
+useiteminfo_40663=对<a href="findnpc_new,scene01,WorldNpc05457" style="HLStype1">湛伟奇</a>使用<a href="TASK_ITEM,useitem_50m" style="HLStype1">紫金丹</a>
+useiteminfo_40664=对<a href="findnpc_new,scene01,WorldNpc05418" style="HLStype1">茶铺小二</a>使用<a href="TASK_ITEM,useitem_46m" style="HLStype1">活气散</a>
+useiteminfo_40665=把<a href="TASK_ITEM,useitem_78m" style="HLStype1">地埂草</a>与决明草混合
+useiteminfo_40666=对<a href="findnpc_new,scene01,WorldNpc05464" style="HLStype1">沈嘉文</a>使用<a href="TASK_ITEM,useitem_47m" style="HLStype1">混合好的草药</a>

@@ -1,0 +1,724 @@
+﻿desc_buf_abductor=牙侩状态，移动速度减慢，可被任何人攻击。
+desc_buf_offline_abduct_cd=刚刚做成一笔买卖，十分疲劳，不想动弹，需要休息一段时间。
+desc_buf_abducted=被牙侩欺骗，签了卖身契，暂时失去了自由。此状态下，自身历练不能自动转换成修为，等待三个时辰自动结束，或者可以通过离线功能界面“赎身”。
+desc_buf_offline_abduct_fail=被人拒绝，十分沮丧，不愿动弹。
+desc_buf_abductdaction=被人欺骗，头脑不太清醒。
+off_abduct=私牙洽谈
+off_setfree=帮助赎身
+desc_buf_salegirl=私牙交易
+desc_buf_saleboy=私牙交易
+ol_026={@name}试图对你使用{@para1}，没想你无意改变现状，致使他心情沮丧，不想动弹。
+ol_028=趁牙侩不备，偷偷拿回行李，中止了私牙交易。
+event_covert_desc_sale_1=<font color="#ff00ff">{@0:name}</font>丧尽天良，竟然骗我签下卖身契。
+event_covert_desc_sale_2=等我反应过来，才发现我签的根本不是用工契约，而是卖身契，原来<font color="#ff00ff">{@0:name}</font>骗我，将我卖到了此地。
+menu_text_sale_begin=我这里有一个人要到你这边干活，你要不要？
+menu_title_sale_faild_job_error=这本来就是我的工人，你胆子真大，挖墙脚挖到我这里来了！
+menu_title_sale_faild_player_error=你拿个空包袱做什么？拜托专业一点好不好？
+menu_title_sale_faild_cd_error=最近生意不好做，我连自己都快养不活了，现在不需要人，等过段时间再说。
+menu_title_sale_succeed_free=人可以到我这边干活，但我可是一个铜钱的佣金也不会付的。
+menu_title_condition_buy_time_in=想赚银子吗？只要你在<font color="#46fd15">{@0:time1}点</font>前介绍一个<font color="#46fd15">{@1:shoolneed}</font>的弟子给我便可。被介绍的人实力越高，我出的价钱就越高。
+menu_title_condition_buy_time_out=想赚银子吗？在<font color="#46fd15">{@0:time1}</font>点到<font color="#46fd15">{@1:time2}</font>点之间来找我。
+menu_title_condition_buy_time_Activity_out=我暂时有其实事情忙，无暇帮你保管东西，等我有空的时候再来吧。
+menu_title_condition_buy_time_Activity_in=现在我正好无事，找到没人认领的行李可以先交给我，我来帮忙找到失主。
+menu_text_buy_time_Activity_begin=老前辈快看！我捡到一个包袱。
+menu_title_buy_time_Activity_npc=恩！交给我吧，我一定会找到失主的！
+menu_title_sale_succeed_condition=嗯，符合我的要求，这里是<font color="#46fd15">{@0:$}</font>，你也累了，回去好好休息吧，等休息够了再来找我。
+desc_can_set_free_self=江湖险恶，被人骗至此地打工，支付赎金{@0:money}即可重获自由。
+menu_sale_faild_005=我要的是会砍柴的樵夫，赶紧帮我去找一个来吧，我出双倍工钱。
+menu_sale_faild_011=没点厨师的基础知识，在我这里只能是帮倒忙，你还是去别家问问吧。
+desc_abduct_talk_1=请大侠帮我看管行李，我把此间事情料理完就跟你走。
+desc_abduct_talk_2=多谢大侠出手相助，我险些上了恶当！
+desc_abduct_talk_3=多谢女侠出手相助，我险些上了恶当！
+desc_offitem_miyao01_0=一级契约，寻常废纸写就的契约文书，纸质极差，书写潦草，只有初入江湖的菜鸟才会对这样的契约信以为真。近距离对离线角色使用此契约，有一定几率成功契约离线玩家，并得到他的行李。
+desc_offitem_miyao02_0=二级契约，普通废纸写就的契约文书，纸质很差，书写也极不规范，但凡有点江湖经验的人都不会相信这样的契约。近距离对离线角色使用此契约，有一定几率成功契约离线玩家，并得到他的行李。
+desc_offitem_miyao03_0=三级契约，书写在一张旧纸上的契约文书，纸质较差，书写很不规范，只要有一定的江湖经验就能看出契约的破绽，很难跟人达成协议。近距离对离线角色使用此契约，有一定几率成功契约离线玩家，并得到他的行李。
+desc_offitem_miyao04_0=四级契约，书写在一张普通纸张上的契约文书，纸质稍差，书写还算规范，需要有一定的江湖经验才能看穿其中的伎俩。近距离对离线角色使用此契约，有一定几率成功契约离线玩家，并得到他的行李。
+desc_offitem_miyao05_0=五级契约，贫困读书人经常用的纸张写就的契约文书，纸质一般，书写工整，普通江湖中人不太容易看穿契约中的破绽。近距离对离线角色使用此契约，有一定几率成功契约离线玩家，并得到他的行李。
+desc_offitem_miyao06_0=六级契约，普通家庭经常使用的纸张写就的契约文书，纸质不错，书写也比较规范，没有几年江湖经验是看不出契约破绽的。近距离对离线角色使用此契约，有一定几率成功契约离线玩家，并得到他的行李。
+desc_offitem_miyao07_0=七级契约，书写在一张崭新纸张上的契约，纸质较好，书写也比较规范，看起来有点像牙行的真是契约，不仔细分辩很难辨别真假。近距离对离线角色使用此契约，有一定几率成功契约离线玩家，并得到他的行李。
+desc_offitem_miyao08_0=八级契约，书写在一张普通官衙常用纸张之上的契约，纸质很好，书写也很规范，普通江湖人难辨真假，很容易就会被私牙得逞。近距离对离线角色使用此契约，有一定几率成功契约离线玩家，并得到他的行李。
+desc_offitem_miyao09_0=九级契约，假造的牙行契约用纸写就的契约文书，纸质跟官办牙行所用很相似，按照牙行条款逐条书写，非内行人绝难分辨。近距离对离线角色使用此契约，有一定几率成功契约离线玩家，并得到他的行李。
+desc_offitem_miyao10_0=十级契约，私牙商人买通牙行之人，偷出的牙行契约专用纸，以此书写的契约跟官办牙行出具的契约基本没有区别，唯独背面加盖的官印印泥有所区别，非专业鉴别专家根本看不出差别。近距离对离线角色使用此契约，有一定几率成功契约离线玩家，并得到他的行李。
+desc_offitem_hscd01_0=<s>私牙交易必备，用于鉴别对方能力，用特殊的墨水制成，见光之后图形和字迹慢慢消失<br><s>近距离对离线玩家使用，可以估算出帮此离线玩家介绍工作所能获得的官银数量，使用后请留意价格提示文字。<br><s>提醒：私牙交易有违正途，黑市险恶且人心诡诈，有时无法得到官银也怨不得别人。
+desc_bj_yd01_0=寻常废纸写就的契约文书，纸质极差，书写潦草，只有初入江湖的菜鸟才会对这样的契约信以为真。近距离对离线角色使用此契约，有一定几率成功契约离线玩家，并得到他的行李。<font color="#FF0000">(私牙交易用的契约在各处杂货商店均有销售）</font>
+desc_bj_yd04_0=寻常废纸写就的契约文书，纸质极差，书写潦草，只有初入江湖的菜鸟才会对这样的契约信以为真。近距离对离线角色使用此契约，有一定几率成功契约离线玩家，并得到他的行李。<font color="#FF0000">(私牙交易用的契约在各处杂货商店均有销售）</font>
+desc_bj_yd05_0=寻常废纸写就的契约文书，纸质极差，书写潦草，只有初入江湖的菜鸟才会对这样的契约信以为真。近距离对离线角色使用此契约，有一定几率成功契约离线玩家，并得到他的行李。<font color="#FF0000">(私牙交易用的契约在各处杂货商店均有销售）</font>
+desc_bj_yd06_0=寻常废纸写就的契约文书，纸质极差，书写潦草，只有初入江湖的菜鸟才会对这样的契约信以为真。近距离对离线角色使用此契约，有一定几率成功契约离线玩家，并得到他的行李。<font color="#FF0000">(私牙交易用的契约在各处杂货商店均有销售）</font>
+desc_bj_yd02_0=参加过私牙交易的凭证，凭借此凭证可以参加私牙商行。
+desc_bj_yd03_0=私牙商行犯罪的凭证，有了这个凭证官府就可以铲除私牙商行。
+bj_yd01=契约一
+bj_yd02=私牙投名状
+bj_yd03=私牙名册
+bj_yd04=契约一
+bj_yd05=契约一
+bj_yd06=契约一
+desc_bj_yd01=寻常废纸写就的契约文书，纸质极差，书写潦草，只有初入江湖的菜鸟才会对这样的契约信以为真。近距离对离线角色使用此契约，有一定几率成功契约离线玩家，并得到他的行李。
+desc_bj_yd02=想要进入私牙组织就必须得到他们的信任，投名状就是获得信任的凭证。
+desc_bj_yd03=此名册记载了关于私牙组织的所有成员，同时还记载了他们进行私牙交易的经过，是铲除他们的必要证据。
+desc_lixianbangjia=各地遍布着各种牙侩，很多人面兽心，表面是堂堂正正的商人，背后却是个黑心牙侩，他们替其他商人物色合适的工人，用高薪诱惑他们，赚取中介佣金，来钱很快，不过这种私下里的牙侩交易得冒着被官府通缉的风险。
+desc_award_lixianbangjia=找到地下私牙，通过他的指引尝试参与私牙交易从中牟取暴利
+desc_jianghuxiashi=最近江湖上私牙交易越来越猖獗了，必须有人出来惩恶扬善，去阻止那些经常用假契约坑害江湖人士的黑心牙侩，救出被蒙骗的武林人士。
+desc_award_jianghuxiashi=去找捕快了解怎么当一个侠士，打击牙侩们的气焰
+desc_special_lixianbangjia=了解私牙交易的玩法，可以得到<font color="#FF0000">官银</font>哦
+desc_lixianbangjia_1=想谈成契约，就必须要有<font color="#FF0000">逼真的契约</font>。这些契约能在各地的<font color="#FF0000">杂货商</font>那里购买，当然，越贵的越是逼真。
+desc_lixianbangjia_2=拿着契约找到离线打工的玩家，与他们<font color="#FF0000">洽谈私牙交易</font>。
+desc_lixianbangjia_3=当然，粗糙的契约经常会被识破，被识破后自然就影响你的心情，使你不想动弹。
+desc_lixianbangjia_4=如果成功了，对方则会把行李交给你，你拿去交给愿意接收的商人，换取钱财。所以逼真的契约是必须的，否则便会事倍功半。
+desc_lixianbangjia_5=将打工者的行李<font color="#FF0000">捡起来</font>背走。记得哦，私牙交易毕竟是不合法度的事情，人人看见了都可以将你<font color="#FF0000">击败</font>报官，所以入行得三思。
+desc_lixianbangjia_6=将打工者的行李交给<font color="#FF0000">各地的黑心牙侩</font>，就能得到不菲的奖励。
+desc_offdaily_2701=最近听说突然放弃工作的人越来越多，而且这些人又出现在了城内其他各大商铺打工，难道私下跟牙侩签订契约，不管原来雇主的符合法度么？
+desc_offdaily_2702=据说要帮助被黑心牙侩蒙骗，签订卖身契的人，需要找到契约，撕毁它，才能把对方救出来，仅凭一身蛮力是不行的。
+desc_buf_itm_02=使用后下一次私牙交易获得的银子提高30%
+desc_bj_yd07_0=寻常废纸写就的契约文书，纸质极差，书写潦草，只有初入江湖的菜鸟才会对这样的契约信以为真。近距离对离线角色使用此契约，有一定几率成功契约离线玩家，并得到他的行李。<font color="#FF0000">(私牙交易用的契约在各处杂货商店均有销售）</font>
+desc_item_wgm_xumingwan_1=能够快速清除契约失败后遗症产生的定身效果。
+desc_forcetvt_xujia14=<font color="#6E8B3D">参与条件</font><br><s>徐家庄弟子均可参与<br><br><font color="#6E8B3D">玩法简介</font><br><s>1.前去抢回若干打工者的行李；<br><s>2.周常玩法，每周可完成一次。
+ui_addmoney_4=<s>银子可通过离线打工、私牙交易、奇遇任务、黄金兑换获得，此外玩家之间的相互交易是银子聚散的主要方式。
+tips_lixianbangjia=您已可开始牙侩生涯，请点击查看详情。
+tips_jianghuxiashi=您已可开始捉拿私牙，请点击查看详情。
+ui_lixianbangjia_worldnpc00175_format_text=私牙交易据说是赚钱的好法子，去找<font color="#FA3935">{@0:场景}</font>的<font color="#FA3935">{@1:NPC}</font>问问怎么交易
+ui_lixianbangjia_yyz248_format_text=私牙交易据说是赚钱的好法子，去找<font color="#FA3935">{@0:场景}</font>的<font color="#FA3935">{@1:NPC}</font>问问怎么交易
+ui_lixianbangjia_worldnpc10750_format_text=私牙交易据说是赚钱的好法子，去找<font color="#FA3935">{@0:场景}</font>的<font color="#FA3935">{@1:NPC}</font>问问怎么交易
+ui_lixianbangjia_worldnpc09861_format_text=私牙交易据说是赚钱的好法子，去找<font color="#FA3935">{@0:场景}</font>的<font color="#FA3935">{@1:NPC}</font>问问怎么交易
+ui_jianghuxiashi_worldnpc00176_format_text=<font color="#FA3935">{@0:场景}</font>的<font color="#FA3935">{@1:NPC}</font>最近在为越来越猖狂的私牙头痛，去看看有什么帮忙的
+ui_jianghuxiashi_yyz249_format_text=<font color="#FA3935">{@0:场景}</font>的<font color="#FA3935">{@1:NPC}</font>最近在为越来越猖狂的私牙头痛，去看看有什么帮忙的
+ui_jianghuxiashi_worldnpc10751_format_text=<font color="#FA3935">{@0:场景}</font>的<font color="#FA3935">{@1:NPC}</font>最近在为越来越猖狂的私牙头痛，去看看有什么帮忙的
+ui_jianghuxiashi_worldnpc09862_format_text=<font color="#FA3935">{@0:场景}</font>的<font color="#FA3935">{@1:NPC}</font>最近在为越来越猖狂的私牙头痛，去看看有什么帮忙的
+ui_tvt_xxd_tips3=完成下列行为可获得休闲点：<br>门派刺探<br>门派巡逻<br>门派夺书<br>门派护书<br>日常运镖<br>私牙交易<br>日常任务<br>团练<br>采集<br>制造“银”以上装备<br>海捕告示<br>闯荡四海-"挑战"模式<br>江湖豪杰
+ui_shcoolwar_rule049=不得私牙交易（法度值+10）
+ui_gamename_bangpiao=私牙交易
+interactname_009=私牙交易
+interactdesc_009=<s>活动要求：1.脱离新手保护的玩家。2.包裹中需要有契约道具，可以在杂货商处购买。3.契约只能对离线玩家使用。4.成功完成一次私牙交易后陷入疲劳状态，在此状态下无法再次洽谈业务。<br><s>活动方式：1.购买契约后，可直接对离线玩家使用。2.成功与离线玩家达成意向后，会把行李放地上。3.将地上的行李捡起，可将其交给某些商人，这些商人会根据被契约离线玩家的实力和离线情况支付碎银和官银。4.玩家也可以在击败其他牙侩后，获得其行李继续交易。5.不同的商人用工的条件不同，他们只会收取满足条件的契约玩家。<br><s>失败条件：离开当前场景、自动放弃行李或被其他玩家击败，私牙交易失败<br><s>成功条件：成功契约离线玩家并将行李交给特定商人处<br><s>活动奖励：1.碎银子（固定）2.银子（被契约玩家离线时长）
+interactcamp_desc_009=专营逐利，不顾道义。
+interactguid_desc_009=<s>蒙骗江湖上的离线玩家签订契约，然后把他介绍给特定商人做工赚取佣金。
+interactsort_info_009_1=介绍人数：{@0:num}
+tvttitle_009_1=私牙交易
+tvtcontent_009_1=江湖上血雨腥风又起，各大势力不问出身，大肆收人扩充实力，跟离线玩家签订契约，介绍给各地老板用工，赚取佣金，这种私牙交易有很大的利润。<br><font color="#3299CC">奖励</font><br><font color="#3299CC">大量银两</font>
+ui_offline_bangjia_40081=看此人的样貌能力，介绍给商人打工，估计可以获得官银{@0:$锭两文}。
+ui_offline_bangjia_40082=看此人样貌能力，完全不符合商人的要求，介绍他做工，最多也就得点散碎银子。
+ui_offline_bangjia_40084=看此人的样貌能力，介绍给商人打工，估计可以获得官银{@0:$锭两文}，如果介绍给<font color="#FF0000">{@1:npc}</font>或许能获得更多。
+button_bangpiao_1=交易去向
+button_bangpiao_2=黑心牙侩
+ui_off_giveupadbuct=中途放弃，丢弃行李？
+ui_off_stophelp=体力不支，丢弃行李？
+interactdesc_010=<s>活动要求：脱离新手保护的玩家。<br><s>活动方式：发现牙侩，对其进行攻击，成功击败牙侩，抢回打工者的行李！<br><s>失败条件：与牙侩搏斗中被攻克或让牙侩脱逃<br><s>成功条件：成功攻克牙侩，抢回打工者的行李<br><s>活动奖励：1，成功抢回打工者的行李获得侠义值；<br>2，贪婪牙侩活动期间，成功抢回打工者的行李并送到热心百姓处保管，可获得碎银，并有几率获得官银
+interactguid_desc_010=<s>身为以“维护江湖和平，匡扶武林正义为己任”的侠士，遇见坑蒙拐骗的无证牙侩，不要犹豫，将其击败，夺回受害者的行李。
+interactsort_info_010_1=抢回行李：{@0:num}
+interactsort_info_010_2=攻克牙侩：{@0:num}
+tvtcontent_010_1=江湖上出现通过大量蒙骗无知百姓，签订卖身契约的无证牙侩，武林同道、无辜百姓频频受害，请各位侠客惩恶扬善，匡扶武林正义！<br><font color="#3299CC">奖励</font><br><font color="#3299CC">消除戕屠值</font>
+ui_map_wanfa_renfan=贪心牙侩
+ui_loading2046=杂货店购买的契约可对离线玩家使用从而进行私牙交易，获得官银和碎银。
+ui_type13=黑心牙侩
+ui_attach_marry_request01=1.男女双方必须为江湖名俊，互为好友且好感度达到2000点。<br>亲密度获得方式：<br><s><s>"我的江湖"--"送礼"--"纪念<br><s><s>品"，羊脂白玉+200点<font color="#993300">（推荐）</font><br><s><s>，雏菊+10点,幸运吊坠+5点,<br><s><s>由送礼方单向加<br><s><s>组队任务:双向+1<br><s><s>组队禁地:双向+10<br><s><s>组队踢馆:双向+3<br><s><s>组队运镖:双向+10<br><s><s>解救赎身:主动方单向+10<br><s><s>响应求救:主动方单向+5<br><s><s>离线打赏:主动方单向+1
+interact_desc_009=江湖血雨腥风又起，各路英雄不问出身，私牙交易亦不失为生财之道
+tvt_name_009=黑心牙侩
+tvt_rule_010=<font face="font_main" color="#AAD21E">活动要求：</font><br><s>脱离新手保护的玩家<br><font face="font_main" color="#AAD21E">活动方式：</font><br><s>发现正在交易的私牙，对其进行攻击，直至击败，并抢回打工者的行李<br><font face="font_main" color="#AAD21E">失败条件：</font><br><s>与私牙搏斗中被攻克或者让私牙脱逃<br><font face="font_main" color="#AAD21E">成功条件：</font><br><s>成功攻克私牙，抢回打工者的行李<br><font face="font_main" color="#AAD21E">活动奖励：</font><br><s>成功抢回打工者的行李获得侠义值
+tvt_rule_009=<font face="font_main" color="#AAD21E">活动要求：</font><br><s>1.脱离新手保护的玩家<br><s>2.包裹中需要有契约道具，可以在杂货商处购买<br><s>3.契约只能对离线玩家使用<br><s>4.成功完成一次私牙交易后会有一段时间的疲劳状态，在此状态下无法交易<br><font face="font_main" color="#AAD21E">活动方式：</font><br><s>1.购买契约后，可直接对离线玩家使用<br><s>2.成功契约离线玩家后，会自动将行李放在地上<br><s>3.将地上的行李捡起，交给某些商人，这些商人会根据被契约离线玩家的实力和离线情况支付碎银和官银。<br><s>4.玩家也可以在击败其他牙侩后，获得其行李继续交易<br><s>5.不同的商人收人的条件不同，他们只会收留满足条件的离线玩家<br><font face="font_main" color="#AAD21E">失败条件：</font><br><s>离开当前场景、自动放弃行李或被其他玩家击败，交易失败<br><font face="font_main" color="#AAD21E">成功条件：</font><br><s>成功契约离线玩家并将行李送至特定商人处<br><font face="font_main" color="#AAD21E">活动奖励：</font><br><s>1.碎银子（固定）<br><s>2.银子（被契约玩家离线时长）<br><s>3.修补工具（固定）
+interacthypelink_009_a_1=傍晚时分，若想获得额外收益，可以去鸡鸣驿找黑心牙侩<a href="findnpc_new,born01,AbductNpc04" style="HLStype1">赵彪</a>
+interacthypelink_009_a_2=傍晚时分，若想获得额外收益，可以去恶人谷找黑心牙侩<a href="findnpc_new,born02,AbductNpc02" style="HLStype1">钱贵</a>
+interacthypelink_009_a_3=傍晚时分，若想获得额外收益，可以去烟雨庄找黑心牙侩<a href="findnpc_new,born03,AbductNpc03" style="HLStype1">孙豹</a>
+interacthypelink_009_a_4=傍晚时分，若想获得额外收益，可以去千灯镇找黑心牙侩<a href="findnpc_new,born04,AbductNpc01" style="HLStype1">李春</a>
+interacthypelink_009_a_5=若想获得额外收益，周三的20点到22点，可以去燕京找贪心牙侩<a href="findnpc_new,city01,AbductNpc13a" style="HLStype1">李又江</a>
+interacthypelink_009_a_6=若想获得额外收益，周五的20点到22点，可以去苏州找贪心牙侩<a href="findnpc_new,city02,AbductNpc14a" style="HLStype1">沈万</a>
+interacthypelink_009_a_7=若想获得额外收益，周一的20点到22点，可以去金陵找贪心牙侩<a href="findnpc_new,city03,AbductNpc15a" style="HLStype1">季铖</a>
+interacthypelink_009_a_8=若想获得额外收益，周四的20点到22点，可以去洛阳找贪心牙侩<a href="findnpc_new,city04,AbductNpc16a" style="HLStype1">王大冶</a>
+interacthypelink_009_a_9=若想获得额外收益，周二的20点到22点，可以去成都找贪心牙侩<a href="findnpc_new,city05,AbductNpc17a" style="HLStype1">任士强</a>
+interacthypelink_009_b_1_1=闲来无事，赚些外快佣金，可找<a href="findnpc_new,born04,WorldNpc00136" style="HLStype1">车马行管事</a>
+interacthypelink_009_b_1_2=闲来无事，赚些外快佣金，可找<a href="findnpc_new,born04,WorldNpc00137" style="HLStype1">码头监工</a>
+interacthypelink_009_b_1_3=闲来无事，赚些外快佣金，可找<a href="findnpc_new,born04,FuncNpc00002" style="HLStype1">药堂老板 周仓 </a>
+interacthypelink_009_b_1_4=闲来无事，赚些外快佣金，可找<a href="findnpc_new,born04,WorldNpc00015" style="HLStype1">茶馆掌柜 黄荣</a>
+interacthypelink_009_b_1_5=闲来无事，赚些外快佣金，可找<a href="findnpc_new,born04,FuncNpc00007" style="HLStype1">杂货铺掌柜 臧百货</a>
+interacthypelink_009_b_1_6=闲来无事，赚些外快佣金，可找<a href="findnpc_new,born04,FuncNpc00006" style="HLStype1">钱庄掌柜 钱永富</a>
+interacthypelink_009_b_1_7=闲来无事，赚些外快佣金，可找<a href="findnpc_new,born04,FuncNpc00001" style="HLStype1">布衣坊掌柜 申秀儿</a>
+interacthypelink_009_b_1_8=闲来无事，赚些外快佣金，可找<a href="findnpc_new,born04,FuncNpc00005" style="HLStype1">首饰行老板 夏思玲</a>
+interacthypelink_009_b_1_9=闲来无事，赚些外快佣金，可找<a href="findnpc_new,born04,FuncNpc00009" style="HLStype1">酒楼掌柜 钱渊来</a>
+interacthypelink_009_b_1_10=闲来无事，赚些外快佣金，可找<a href="findnpc_new,born04,FuncNpc00008" style="HLStype1">兵器铺老板 沙百刃</a>
+interacthypelink_009_b_1_11=闲来无事，赚些外快佣金，可找<a href="findnpc_new,born04,FuncNpc00004" style="HLStype1">客栈掌柜 黄荣</a>
+interacthypelink_009_b_1_12=闲来无事，赚些外快佣金，可找<a href="findnpc_new,born04,WorldNpc00135" style="HLStype1">茶林监工 陆熏</a>
+interacthypelink_009_b_2_1=闲来无事，赚些外快佣金，可找<a href="findnpc_new,born02,WorldNpc09347" style="HLStype1">赌坊掌柜 陈乾</a>
+interacthypelink_009_b_2_2=闲来无事，赚些外快佣金，可找<a href="findnpc_new,born02,FuncNpc303" style="HLStype1">客栈老板</a>
+interacthypelink_009_b_2_3=闲来无事，赚些外快佣金，可找<a href="findnpc_new,born02,FuncNpc302" style="HLStype1">药堂老板</a>
+interacthypelink_009_b_2_4=闲来无事，赚些外快佣金，可找<a href="findnpc_new,born02,FuncNpc304" style="HLStype1">杂货店老板</a>
+interacthypelink_009_b_2_5=闲来无事，赚些外快佣金，可找<a href="findnpc_new,born02,WorldNpc09246" style="HLStype1">客栈掌柜 桑采</a>
+interacthypelink_009_b_2_6=闲来无事，赚些外快佣金，可找<a href="findnpc_new,born02,WorldNpc09231" style="HLStype1">绸缎庄少掌柜 解敬庆</a>
+interacthypelink_009_b_2_7=闲来无事，赚些外快佣金，可找<a href="findnpc_new,born02,WorldNpc09103" style="HLStype1">钱老板</a>
+interacthypelink_009_b_2_8=闲来无事，赚些外快佣金，可找<a href="findnpc_new,born02,FuncNpc306" style="HLStype1">兵器店老板</a>
+interacthypelink_009_b_2_9=闲来无事，赚些外快佣金，可找<a href="findnpc_new,born02,WorldNpc09348" style="HLStype1">黑泥谷谷主 逆天行</a>
+interacthypelink_009_b_2_10=闲来无事，赚些外快佣金，可找<a href="findnpc_new,born02,WorldNpc09333" style="HLStype1">恶人谷守卫 易天然</a>
+interacthypelink_009_b_2_11=闲来无事，赚些外快佣金，可找<a href="findnpc_new,born02,WorldNpc09349" style="HLStype1">车马行老板 陆明</a>
+interacthypelink_009_b_2_12=闲来无事，赚些外快佣金，可找<a href="findnpc_new,born02,WorldNpc09401" style="HLStype1">昆仑派掌门 云阳子</a>
+interacthypelink_009_b_2_13=闲来无事，赚些外快佣金，可找<a href="findnpc_new,born02,WorldNpc09279" style="HLStype1">素云宫香主 万昭亚</a>
+interacthypelink_009_b_3_1=闲来无事，赚些外快佣金，可找<a href="findnpc_new,born03,WorldNpc00579" style="HLStype1">盐帮舵主 胡不愁</a>
+interacthypelink_009_b_3_2=闲来无事，赚些外快佣金，可找<a href="findnpc_new,born03,WorldNpc00759" style="HLStype1">神风帮舵主</a>
+interacthypelink_009_b_3_3=闲来无事，赚些外快佣金，可找<a href="findnpc_new,born03,WorldNpc00693" style="HLStype1">劫匪 关斡</a>
+interacthypelink_009_b_3_4=闲来无事，赚些外快佣金，可找<a href="findnpc_new,born03,WorldNpc00535" style="HLStype1">赌坊打手 潘豪</a>
+interacthypelink_009_b_3_5=闲来无事，赚些外快佣金，可找<a href="findnpc_new,born03,Transbron03A" style="HLStype1">驿站车夫 于注</a>
+interacthypelink_009_b_3_6=闲来无事，赚些外快佣金，可找<a href="findnpc_new,born03,WorldNpc00512" style="HLStype1">茶铺掌柜 常四海</a>
+interacthypelink_009_b_3_7=闲来无事，赚些外快佣金，可找<a href="findnpc_new,born03,FuncNpc00056" style="HLStype1">酒楼老板 徐青</a>
+interacthypelink_009_b_3_8=闲来无事，赚些外快佣金，可找<a href="findnpc_new,born03,FuncNpc00054" style="HLStype1">药堂老板 谢石</a>
+interacthypelink_009_b_3_9=闲来无事，赚些外快佣金，可找<a href="findnpc_new,born03,WorldNpc00587" style="HLStype1">米行老板 冯根宝</a>
+interacthypelink_009_b_4_1=闲来无事，赚些外快佣金，可找<a href="findnpc_new,born01,WorldNpc10958" style="HLStype1">车马店掌柜 沃陵邦</a>
+interacthypelink_009_b_4_2=闲来无事，赚些外快佣金，可找<a href="findnpc_new,born01,WorldNpc10689" style="HLStype1">驿站管事 顾源</a>
+interacthypelink_009_b_4_3=闲来无事，赚些外快佣金，可找<a href="findnpc_new,born01,WorldNpc10622" style="HLStype1">茶摊老板 高文甫</a>
+interacthypelink_009_b_4_4=闲来无事，赚些外快佣金，可找<a href="findnpc_new,born01,WorldNpc10941" style="HLStype1">客栈掌柜 </a>
+interacthypelink_009_b_4_5=闲来无事，赚些外快佣金，可找<a href="findnpc_new,born01,WorldNpc10602" style="HLStype1">赌场老板 刘东虎</a>
+interacthypelink_009_b_4_6=闲来无事，赚些外快佣金，可找<a href="findnpc_new,born01,WorldNpc10997" style="HLStype1">钱庄掌柜 云彩</a>
+interacthypelink_009_b_4_7=闲来无事，赚些外快佣金，可找<a href="findnpc_new,born01,WorldNpc10690" style="HLStype1">煤矿监工 钱云</a>
+interacthypelink_009_b_4_8=闲来无事，赚些外快佣金，可找<a href="findnpc_new,born01,WorldNpc10691" style="HLStype1">熊家管家</a>
+interacthypelink_009_b_4_9=闲来无事，赚些外快佣金，可找<a href="findnpc_new,born01,WorldNpc10692" style="HLStype1">恶虎山寨寨主</a>
+interacthypelink_009_b_4_10=闲来无事，赚些外快佣金，可找<a href="findnpc_new,born01,WorldNpc10646" style="HLStype1">茶馆老板 毛伟光</a>
+interacthypelink_009_b_4_11=闲来无事，赚些外快佣金，可找<a href="findnpc_new,born01,WorldNpc10693" style="HLStype1">长白山庄管家 赵治</a>
+interacthypelink_009_b_4_12=闲来无事，赚些外快佣金，可找<a href="findnpc_new,born01,WorldNpc10913" style="HLStype1">长白派弟子 胡鑫</a>
+interacthypelink_009_b_5_1=闲来无事，赚些外快佣金，可找<a href="findnpc_new,school01,WorldNpc04200" style="HLStype1">锻造厂主管</a>
+interacthypelink_009_b_5_2=闲来无事，赚些外快佣金，可找<a href="findnpc_new,school01,WorldNpc04396" style="HLStype1">幽灵山庄管家</a>
+interacthypelink_009_b_6_1=闲来无事，赚些外快佣金，可找<a href="findnpc_new,school02,WorldNpc03042" style="HLStype1">万兽山庄二庄主 史孟雄</a>
+interacthypelink_009_b_6_2=闲来无事，赚些外快佣金，可找<a href="findnpc_new,school02,gb392" style="HLStype1">外域士兵头目 兰合</a>
+interacthypelink_009_b_7_1=闲来无事，赚些外快佣金，可找<a href="findnpc_new,school03,WorldNpc03455" style="HLStype1">双龙堡管家</a>
+interacthypelink_009_b_7_2=闲来无事，赚些外快佣金，可找<a href="findnpc_new,school03,WorldNpc03701" style="HLStype1">雾竹山庄庄主 余孟秋</a>
+interacthypelink_009_b_8_2=闲来无事，赚些外快佣金，可找<a href="findnpc_new,school04,WorldNpc04073" style="HLStype1">卧虎堂堂主 龙怒涯</a>
+interacthypelink_009_b_8_3=闲来无事，赚些外快佣金，可找<a href="findnpc_new,school04,WorldNpc04060" style="HLStype1">黑风教长老 莫无懈</a>
+interacthypelink_009_b_9_1=闲来无事，赚些外快佣金，可找<a href="findnpc_new,school05,WorldNpc02358" style="HLStype1">沐云庄管家</a>
+interacthypelink_009_b_9_2=闲来无事，赚些外快佣金，可找<a href="findnpc_new,school05,WorldNpc02357" style="HLStype1">十二连环坞小头目</a>
+interacthypelink_009_b_9_3=闲来无事，赚些外快佣金，可找<a href="findnpc_new,school05,WorldNpc02248" style="HLStype1">天宝寨副寨主 李行空</a>
+interacthypelink_009_b_10_1=闲来无事，赚些外快佣金，可找<a href="findnpc_new,school06,WorldNpc02649" style="HLStype1">五仙教带头人 龙奇春</a>
+interacthypelink_009_b_10_2=闲来无事，赚些外快佣金，可找<a href="findnpc_new,school06,WorldNpc02923" style="HLStype1">任记茶铺老板 任百里</a>
+interacthypelink_009_b_11_1=闲来无事，赚些外快佣金，可找<a href="findnpc_new,school07,WorldNpc04657" style="HLStype1">茶店老板娘</a>
+interacthypelink_009_b_11_2=闲来无事，赚些外快佣金，可找<a href="findnpc_new,school07,WorldNpc04658" style="HLStype1">虎啸山庄管家</a>
+interacthypelink_009_b_11_3=闲来无事，赚些外快佣金，可找<a href="findnpc_new,school07,WorldNpc04453" style="HLStype1">军队队长 卢鸿涛</a>
+interacthypelink_009_b_12_1=闲来无事，赚些外快佣金，可找<a href="findnpc_new,school08,WorldNpc00230" style="HLStype1">茶铺掌柜 梁南</a>
+interacthypelink_009_b_12_2=闲来无事，赚些外快佣金，可找<a href="findnpc_new,school08,sl143" style="HLStype1">嵩山弟子 郁晟睿</a>
+interacthypelink_009_b_12_3=闲来无事，赚些外快佣金，可找<a href="findnpc_new,school08,sl061" style="HLStype1">扫地老者 朱隽</a>
+interacthypelink_009_b_13_1=闲来无事，赚些外快佣金，可找<a href="findnpc_new,city01,WorldNpc08281" style="HLStype1">青楼老鸨 崔凤姑</a>
+interacthypelink_009_b_13_2=闲来无事，赚些外快佣金，可找<a href="findnpc_new,city01,WorldNpc08295" style="HLStype1">青楼打手 高刚</a>
+interacthypelink_009_b_13_3=闲来无事，赚些外快佣金，可找<a href="findnpc_new,city01,FuncNpc00204" style="HLStype1">药铺老板</a>
+interacthypelink_009_b_13_4=闲来无事，赚些外快佣金，可找<a href="findnpc_new,city01,WorldNpc08410" style="HLStype1">伙计 二强</a>
+interacthypelink_009_b_13_5=闲来无事，赚些外快佣金，可找<a href="findnpc_new,city01,WorldNpc08929" style="HLStype1">太师 庞佳</a>
+interacthypelink_009_b_13_6=闲来无事，赚些外快佣金，可找<a href="findnpc_new,city01,WorldNpc08916" style="HLStype1">燕王府总管 朱志堩</a>
+interacthypelink_009_b_13_7=闲来无事，赚些外快佣金，可找<a href="findnpc_new,city01,WorldNpc08519" style="HLStype1">管家 寂叔</a>
+interacthypelink_009_b_13_8=闲来无事，赚些外快佣金，可找<a href="findnpc_new,city01,WorldNpc08832" style="HLStype1">古墓派掌门 杨池蕊</a>
+interacthypelink_009_b_13_9=闲来无事，赚些外快佣金，可找<a href="findnpc_new,city01,WorldNpc09065" style="HLStype1">异人庄小头目</a>
+interacthypelink_009_b_13_10=闲来无事，赚些外快佣金，可找<a href="findnpc_new,city01,WorldNpc08235" style="HLStype1">军需官 陈大周</a>
+interacthypelink_009_b_13_11=闲来无事，赚些外快佣金，可找<a href="findnpc_new,city01,WorldNpc08219" style="HLStype1">义庄老板 石万惊</a>
+interacthypelink_009_b_14_1=闲来无事，赚些外快佣金，可找<a href="findnpc_new,city02,WorldNpc01054" style="HLStype1">酒楼小二 俞良</a>
+interacthypelink_009_b_14_2=闲来无事，赚些外快佣金，可找<a href="findnpc_new,city02,WorldNpc01015" style="HLStype1">青楼老鸨 一枝花</a>
+interacthypelink_009_b_14_3=闲来无事，赚些外快佣金，可找<a href="findnpc_new,city02,WorldNpc01179" style="HLStype1">中年管家 俞开元</a>
+interacthypelink_009_b_14_4=闲来无事，赚些外快佣金，可找<a href="findnpc_new,city02,FuncNpc00104" style="HLStype1">药铺老板 杜柏年</a>
+interacthypelink_009_b_14_5=闲来无事，赚些外快佣金，可找<a href="findnpc_new,city02,WorldNpc01193" style="HLStype1">严宅管家 谢吟</a>
+interacthypelink_009_b_14_6=闲来无事，赚些外快佣金，可找<a href="findnpc_new,city02,WorldNpc01001" style="HLStype1">绣坊老板娘 玉流苏</a>
+interacthypelink_009_b_14_7=闲来无事，赚些外快佣金，可找<a href="findnpc_new,city02,FuncNpc00110" style="HLStype1">镖局总镖头 欧阳诚</a>
+interacthypelink_009_b_14_8=闲来无事，赚些外快佣金，可找<a href="findnpc_new,city02,WorldNpc01303" style="HLStype1">管家 慕容乾</a>
+interacthypelink_009_b_14_9=闲来无事，赚些外快佣金，可找<a href="findnpc_new,city02,WorldNpc01031" style="HLStype1">青楼打手 王狗儿</a>
+interacthypelink_009_b_14_10=闲来无事，赚些外快佣金，可找<a href="findnpc_new,city02,FuncNpc00101" style="HLStype1">兵器铺老板 冯玉柱</a>
+interacthypelink_009_b_14_11=闲来无事，赚些外快佣金，可找<a href="findnpc_new,city02,WorldNpc01153" style="HLStype1">搬运工 张三</a>
+interacthypelink_009_b_14_12=闲来无事，赚些外快佣金，可找<a href="findnpc_new,city02,FuncNpc00102" style="HLStype1">防具铺老板 白矜柔</a>
+interacthypelink_009_b_14_13=闲来无事，赚些外快佣金，可找<a href="findnpc_new,city02,FuncNpc00103" style="HLStype1">首饰铺老板 桑青</a>
+interacthypelink_009_b_14_14=闲来无事，赚些外快佣金，可找<a href="findnpc_new,city02,FuncNpc00134" style="HLStype1">马贩子 洪百方</a>
+interacthypelink_009_b_15_1=闲来无事，赚些外快佣金，可找<a href="findnpc_new,city03,FuncNpc02613" style="HLStype1">杂货店老板</a>
+interacthypelink_009_b_15_2=闲来无事，赚些外快佣金，可找<a href="findnpc_new,city03,FuncNpc02614" style="HLStype1">酒楼掌柜</a>
+interacthypelink_009_b_15_3=闲来无事，赚些外快佣金，可找<a href="findnpc_new,city03,FuncNpc02615" style="HLStype1">钱庄老板</a>
+interacthypelink_009_b_15_4=闲来无事，赚些外快佣金，可找<a href="findnpc_new,city03,FuncNpc02603" style="HLStype1">武器铺老板</a>
+interacthypelink_009_b_15_5=闲来无事，赚些外快佣金，可找<a href="findnpc_new,city03,FuncNpc02604" style="HLStype1">防具商人</a>
+interacthypelink_009_b_15_6=闲来无事，赚些外快佣金，可找<a href="findnpc_new,city03,FuncNpc02605" style="HLStype1">饰品商人</a>
+interacthypelink_009_b_15_7=闲来无事，赚些外快佣金，可找<a href="findnpc_new,city03,FuncNpc02606" style="HLStype1">药品商人</a>
+interacthypelink_009_b_15_8=闲来无事，赚些外快佣金，可找<a href="findnpc_new,city03,jl122" style="HLStype1">戏台掌柜</a>
+interacthypelink_009_b_15_9=闲来无事，赚些外快佣金，可找<a href="findnpc_new,city03,jl363" style="HLStype1">老鸨</a>
+interacthypelink_009_b_15_10=闲来无事，赚些外快佣金，可找<a href="findnpc_new,city03,jl386" style="HLStype1">画舫老板</a>
+interacthypelink_009_b_15_11=闲来无事，赚些外快佣金，可找<a href="findnpc_new,city03,jl473" style="HLStype1">客栈老板</a>
+interacthypelink_009_b_15_12=闲来无事，赚些外快佣金，可找<a href="findnpc_new,city03,jl484" style="HLStype1">赌庄老板</a>
+interacthypelink_009_b_15_13=闲来无事，赚些外快佣金，可找<a href="findnpc_new,city03,jl069" style="HLStype1">酒楼掌柜</a>
+interacthypelink_009_b_15_14=闲来无事，赚些外快佣金，可找<a href="findnpc_new,city03,WorldNpc11026" style="HLStype1">梅花门弟子 涟漪夫人</a>
+interacthypelink_009_b_15_15=闲来无事，赚些外快佣金，可找<a href="findnpc_new,city03,jl412" style="HLStype1">况府管事</a>
+interacthypelink_009_b_15_16=闲来无事，赚些外快佣金，可找<a href="findnpc_new,city03,jl436" style="HLStype1">东陵马场 马商</a>
+interacthypelink_009_b_15_17=闲来无事，赚些外快佣金，可找<a href="findnpc_new,city03,jl264" style="HLStype1">徐钦</a>
+interacthypelink_009_b_15_18=闲来无事，赚些外快佣金，可找<a href="findnpc_new,city03,jl149" style="HLStype1">朝廷接待</a>
+interacthypelink_009_b_15_19=闲来无事，赚些外快佣金，可找<a href="findnpc_new,city03,jl180" style="HLStype1">驿站官 权君</a>
+interacthypelink_009_b_16_3=闲来无事，赚些外快佣金，可找<a href="findnpc_new,city04,WorldNpc10129" style="HLStype1">书院杂役 周海生</a>
+interacthypelink_009_b_16_5=闲来无事，赚些外快佣金，可找<a href="findnpc_new,city04,WorldNpc10316" style="HLStype1">大管家</a>
+interacthypelink_009_b_16_6=闲来无事，赚些外快佣金，可找<a href="findnpc_new,city04,WorldNpc10231" style="HLStype1">漕帮高级帮众 苟修</a>
+interacthypelink_009_b_16_7=闲来无事，赚些外快佣金，可找<a href="findnpc_new,city04,WorldNpc10329" style="HLStype1">擂台主办 陈叹树</a>
+interacthypelink_009_b_16_8=闲来无事，赚些外快佣金，可找<a href="findnpc_new,city04,WorldNpc10556" style="HLStype1">秦王府总管</a>
+interacthypelink_009_b_16_9=闲来无事，赚些外快佣金，可找<a href="findnpc_new,city04,WorldNpc10586" style="HLStype1">燕门管家</a>
+interacthypelink_009_b_16_10=闲来无事，赚些外快佣金，可找<a href="findnpc_new,city04,WorldNpc10205" style="HLStype1">天星帮仓库主管 刘肖博</a>
+interacthypelink_009_b_16_11=闲来无事，赚些外快佣金，可找<a href="findnpc_new,city04,ly590" style="HLStype1">青楼掌柜 尉迟莟</a>
+interacthypelink_009_b_16_12=闲来无事，赚些外快佣金，可找<a href="findnpc_new,city04,FuncNpc510" style="HLStype1">客栈老板</a>
+interacthypelink_009_b_16_13=闲来无事，赚些外快佣金，可找<a href="findnpc_new,city04,ly793" style="HLStype1">监管老妓女 林夕歌</a>
+interacthypelink_009_b_17_1=闲来无事，赚些外快佣金，可找<a href="findnpc_new,city05,FuncNpc00615" style="HLStype1">客栈老板 孙阿达</a>
+interacthypelink_009_b_17_2=闲来无事，赚些外快佣金，可找<a href="findnpc_new,city05,WorldNpc10000" style="HLStype1">茶摊老板</a>
+interacthypelink_009_b_17_3=闲来无事，赚些外快佣金，可找<a href="findnpc_new,city05,FuncNpc00639" style="HLStype1">斗鸡场老板 晁淑</a>
+interacthypelink_009_b_17_4=闲来无事，赚些外快佣金，可找<a href="findnpc_new,city05,FuncNpc00604" style="HLStype1">首饰铺老板 周生生</a>
+interacthypelink_009_b_17_5=闲来无事，赚些外快佣金，可找<a href="findnpc_new,city05,FuncNpc00607" style="HLStype1">酒楼掌柜 卢昂林</a>
+interacthypelink_009_b_17_6=闲来无事，赚些外快佣金，可找<a href="findnpc_new,city05,FuncNpc00605" style="HLStype1">药铺老板 黄石仁</a>
+interacthypelink_009_b_17_7=闲来无事，赚些外快佣金，可找<a href="findnpc_new,city05,FuncNpc00608" style="HLStype1">钱庄老板 华三</a>
+interacthypelink_009_b_17_8=闲来无事，赚些外快佣金，可找<a href="findnpc_new,city05,WorldNpc09685" style="HLStype1">镖师 彭曹</a>
+interacthypelink_009_b_17_9=闲来无事，赚些外快佣金，可找<a href="findnpc_new,city05,WorldNpc09733" style="HLStype1">锦官坊店家 欧阳叶</a>
+interacthypelink_009_b_17_10=闲来无事，赚些外快佣金，可找<a href="findnpc_new,city05,WorldNpc09701" style="HLStype1">赌坊老板 董卉淮</a>
+interacthypelink_009_b_17_11=闲来无事，赚些外快佣金，可找<a href="findnpc_new,city05,WorldNpc09710" style="HLStype1">酿酒坊老板 寇闲安</a>
+interacthypelink_009_b_17_12=闲来无事，赚些外快佣金，可找<a href="findnpc_new,city05,WorldNpc09944" style="HLStype1">驿站工头</a>
+interacthypelink_009_b_17_13=闲来无事，赚些外快佣金，可找<a href="findnpc_new,city05,WorldNpc09960" style="HLStype1">蜀锦轩掌柜 养民元</a>
+interacthypelink_009_b_17_14=闲来无事，赚些外快佣金，可找<a href="findnpc_new,city05,WorldNpc09764" style="HLStype1">老鸨 崔婆</a>
+interacthypelink_009_b_17_15=闲来无事，赚些外快佣金，可找<a href="findnpc_new,city05,WorldNpc09689" style="HLStype1">巴蜀乐酒家掌柜 糜开</a>
+interacthypelink_009_b_17_16=闲来无事，赚些外快佣金，可找<a href="findnpc_new,city05,WorldNpc09979" style="HLStype1">南宫世家帐房 王金环</a>
+interacthypelink_009_b_17_17=闲来无事，赚些外快佣金，可找<a href="findnpc_new,city05,WorldNpc09970" style="HLStype1">金针金针沈家主 沈沧海</a>
+interacthypelink_009_b_17_18=闲来无事，赚些外快佣金，可找<a href="findnpc_new,city05,WorldNpc09796" style="HLStype1">徐家庄庄主 徐云铮</a>
+interacthypelink_009_b_17_19=闲来无事，赚些外快佣金，可找<a href="findnpc_new,city05,WorldNpc09745" style="HLStype1">丽春院老鸨 太叔悄姬</a>
+interacthypelink_009_b_18_1=闲来无事，赚些外快佣金，可找<a href="findnpc_new,scene01,WorldNpc05530" style="HLStype1">铁匠师傅 盖绰</a>
+interacthypelink_009_b_18_2=闲来无事，赚些外快佣金，可找<a href="findnpc_new,scene01,WorldNpc05557" style="HLStype1">伐木监工 张有财</a>
+interacthypelink_009_b_18_3=闲来无事，赚些外快佣金，可找<a href="findnpc_new,scene01,WorldNpc05518" style="HLStype1">伐木监工 徐雪明</a>
+interacthypelink_009_b_18_4=闲来无事，赚些外快佣金，可找<a href="findnpc_new,scene01,WorldNpc05543" style="HLStype1">铁匠师傅 茅羿</a>
+interacthypelink_009_b_19_1=闲来无事，赚些外快佣金，可找<a href="findnpc_new,scene02,WorldNpc02021" style="HLStype1">姜墨仙</a>
+interacthypelink_009_b_19_2=闲来无事，赚些外快佣金，可找<a href="findnpc_new,scene02,WorldNpc02030" style="HLStype1">妙手医仙 曲中求</a>
+interacthypelink_009_b_19_3=闲来无事，赚些外快佣金，可找<a href="findnpc_new,scene02,WorldNpc02179" style="HLStype1">回春堂掌柜 朱二</a>
+interacthypelink_009_b_19_4=闲来无事，赚些外快佣金，可找<a href="findnpc_new,scene02,WorldNpc02004" style="HLStype1">村中长老 仇墨七</a>
+interacthypelink_009_b_19_5=闲来无事，赚些外快佣金，可找<a href="findnpc_new,scene02,WorldNpc02134" style="HLStype1">铁匠 冷一</a>
+interacthypelink_009_b_19_6=闲来无事，赚些外快佣金，可找<a href="findnpc_new,scene02,WorldNpc02180" style="HLStype1">茶铺掌柜 包龙兴</a>
+interacthypelink_009_b_19_7=闲来无事，赚些外快佣金，可找<a href="findnpc_new,scene02,WorldNpc02181" style="HLStype1">酒楼掌柜 吴有为</a>
+interacthypelink_009_b_20_1=闲来无事，赚些外快佣金，可找<a href="findnpc_new,scene03,WorldNpc06682" style="HLStype1">客栈掌柜 钱为本</a>
+interacthypelink_009_b_20_2=闲来无事，赚些外快佣金，可找<a href="findnpc_new,scene03,WorldNpc06629" style="HLStype1">钦差大臣 刘玉砚</a>
+interacthypelink_009_b_20_3=闲来无事，赚些外快佣金，可找<a href="findnpc_new,scene03,WorldNpc06631" style="HLStype1">断魂岭岭主 王凤</a>
+interacthypelink_009_b_20_4=闲来无事，赚些外快佣金，可找<a href="findnpc_new,scene03,WorldNpc06599" style="HLStype1">管家</a>
+interacthypelink_009_b_21_1=闲来无事，赚些外快佣金，可找<a href="findnpc_new,scene04,WorldNpc05803" style="HLStype1">土司 时盟方</a>
+interacthypelink_009_b_21_2=闲来无事，赚些外快佣金，可找<a href="findnpc_new,scene04,WorldNpc05804" style="HLStype1">巫师 崔七指</a>
+interacthypelink_009_b_21_3=闲来无事，赚些外快佣金，可找<a href="findnpc_new,scene04,WorldNpc05835" style="HLStype1">码头监工 杨军</a>
+interacthypelink_009_b_21_4=闲来无事，赚些外快佣金，可找<a href="findnpc_new,scene04,WorldNpc05836" style="HLStype1">驿站管事 凌峰</a>
+interacthypelink_009_b_21_5=闲来无事，赚些外快佣金，可找<a href="findnpc_new,scene04,WorldNpc05808" style="HLStype1">七星堂门主 俞天川</a>
+interacthypelink_009_b_21_6=闲来无事，赚些外快佣金，可找<a href="findnpc_new,scene04,WorldNpc05837" style="HLStype1">药店掌柜 华安</a>
+interacthypelink_009_b_21_7=闲来无事，赚些外快佣金，可找<a href="findnpc_new,scene04,WorldNpc05838" style="HLStype1">茶馆掌柜 陆辉</a>
+interacthypelink_009_b_22_1=闲来无事，赚些外快佣金，可找<a href="findnpc_new,scene05,WorldNpc06128" style="HLStype1">念罗坝仙主 庄青青</a>
+interacthypelink_009_b_22_2=闲来无事，赚些外快佣金，可找<a href="findnpc_new,scene05,WorldNpc06241" style="HLStype1">五仙教护法 蓝亭</a>
+interacthypelink_009_b_23_1=闲来无事，赚些外快佣金，可找<a href="findnpc_new,scene06,WorldNpc07320" style="HLStype1">牧民族长 萧成奎</a>
+interacthypelink_009_b_23_2=闲来无事，赚些外快佣金，可找<a href="findnpc_new,scene06,WorldNpc07325" style="HLStype1">山庄管家 林萧</a>
+interacthypelink_009_b_23_3=闲来无事，赚些外快佣金，可找<a href="findnpc_new,scene06,WorldNpc07669" style="HLStype1">伐木人 养御</a>
+interacthypelink_009_b_24_1=闲来无事，赚些外快佣金，可找<a href="findnpc_new,scene07,WorldNpc04936" style="HLStype1">土匪头子 沙里飞</a>
+interacthypelink_009_b_24_2=闲来无事，赚些外快佣金，可找<a href="findnpc_new,scene07,WorldNpc05126" style="HLStype1">客栈掌柜 王轩</a>
+interacthypelink_009_b_24_3=闲来无事，赚些外快佣金，可找<a href="findnpc_new,scene07,WorldNpc05127" style="HLStype1">管家 鲁关</a>
+interacthypelink_009_b_24_4=闲来无事，赚些外快佣金，可找<a href="findnpc_new,scene07,WorldNpc05042" style="HLStype1">万梅山庄庄主 西门吹雪</a>
+interacthypelink_009_b_24_5=闲来无事，赚些外快佣金，可找<a href="findnpc_new,scene07,WorldNpc05128" style="HLStype1">茶馆掌柜 高松</a>
+interacthypelink_009_b_24_6=闲来无事，赚些外快佣金，可找<a href="findnpc_new,scene07,WorldNpc04932" style="HLStype1">老板娘 金姬燕</a>
+interacthypelink_009_b_24_7=闲来无事，赚些外快佣金，可找<a href="findnpc_new,scene07,WorldNpc05129" style="HLStype1">酒楼掌柜 杭萧平</a>
+interacthypelink_009_b_25_1=闲来无事，赚些外快佣金，可找<a href="findnpc_new,scene08,WorldNpc07907" style="HLStype1">城主 雷行空</a>
+interacthypelink_009_b_25_2=闲来无事，赚些外快佣金，可找<a href="findnpc_new,scene08,WorldNpc07748" style="HLStype1">天罗教副教主 罗行殇</a>
+interacthypelink_009_b_25_3=闲来无事，赚些外快佣金，可找<a href="findnpc_new,scene08,WorldNpc07807" style="HLStype1">大旗门总管 林天平</a>
+interacthypelink_009_b_25_4=闲来无事，赚些外快佣金，可找<a href="findnpc_new,scene08,WorldNpc08103" style="HLStype1">补给站守将 诸德</a>
+interacthypelink_009_b_25_5=闲来无事，赚些外快佣金，可找<a href="findnpc_new,scene08,WorldNpc07749" style="HLStype1">修城总监工 易萧行</a>
+interacthypelink_009_b_26_1=闲来无事，赚些外快佣金，可找<a href="findnpc_new,scene09,WorldNpc07109" style="HLStype1">客栈掌柜 陈剑</a>
+interacthypelink_009_b_26_2=闲来无事，赚些外快佣金，可找<a href="findnpc_new,scene09,WorldNpc07110" style="HLStype1">一品堂管事 陈贤诚</a>
+interacthypelink_011_b_1=抢回打工者的行李，带到<a href="findnpc_new,city01,AbductNpc13b" style="HLStype1">行侠医师</a>处进行保管
+interacthypelink_011_b_2=抢回打工者的行李，带到<a href="findnpc_new,city02,AbductNpc14b" style="HLStype1">行侠医师</a>处进行保管
+interacthypelink_011_b_3=抢回打工者的行李，带到<a href="findnpc_new,city03,AbductNpc15b" style="HLStype1">行侠医师</a>处进行保管
+interacthypelink_011_b_4=抢回打工者的行李，带到<a href="findnpc_new,city04,AbductNpc16b" style="HLStype1">行侠医师</a>处进行保管
+interacthypelink_011_b_5=抢回打工者的行李，带到<a href="findnpc_new,city05,AbductNpc17b" style="HLStype1">行侠医师</a>处进行保管
+show_submit_tips9=抢回打工者的行李后会获得侠义值
+show_jion_tips8=在杂货店购买契约，对离线玩家使用，可与该玩家签订契约
+show_jion_tips9=杀死牙侩，抢回打工者的行李
+ui_main_tips_bf=黑心牙侩
+ui_tvtprize_tips_9=<font color="#FFB400">奖励详细：</font><br>完成1次黑心牙侩可获得<s><img src="gui\language\ChineseS\tvt\icon_xx.png"valign="bottom"/>*1<br><br><img src="gui\language\ChineseS\tvt\icon_1.png" only="line" valign="bottom"/><font color="#96CC00">碎银子(游戏币)：</font>碎银子可用于日常消耗<br><img src="gui\language\ChineseS\tvt\icon_1.png" only="line" valign="bottom"/><font color="#96CC00">银子(游戏币)：</font>银子可用于日常消耗、演武、日常交易等
+shop_off_miyao=私牙交易商店
+ui_info_bangfei=牙侩侠士
+ui_sns_pk_action01=PVE：组队挑战武林禁地、挑战江湖势力、参加帮会运镖；<br>PVP：劫镖、劫狱、私牙交易、江湖攻克行为；<br>交互行为：救治重伤玩家、赎身离线玩家。
+ui_sns_pk_action02=PVE：组队挑战武林禁地、挑战江湖势力、参加帮会运镖；<br>PVP：劫镖、劫狱、私牙交易、江湖攻克行为；<br>交互行为：救治重伤玩家、赎身离线玩家。
+ui_marrysns_2=夫妻双方彼此亲密度达到2000点<br>男方找到金陵“官媒”（1282,1479）提亲<br>亲密度获得方式<br>1.推荐：<font color="#FFCC00"> 送礼（“我的江湖”-“送礼”-“纪念品”）</font><br>2.其他方法：组队（任务、禁地、踢馆、运镖）、帮助赎身、响应求救、重伤救治、离线打赏<br><br>夫妻协作度获得方式<br>1.推荐：<font color="#FFCC00"> 夫妻日常任务（“江湖助力”-“江湖”-“江湖伴侣”），江湖名俊每日最高可达20点</font><br>2.其他方法：禁地、踢馆、运镖
+ui_mpjs_rmtj_xjz=<font color="#33CC33">徐家庄-主线入门</font><br>玩家须为无门派且未加入其它势力（直接选择或从八大门派叛师、易容、下山历练）;<br>玩家实力须达到初窥门径;<br>玩家的善恶标签须为“侠”或“初”;<br>玩家不能为阉人或去成都（348,800）找沈飞将自己的身体恢复完整，恢复身体的玩家将无法使用武学“葵花宝典”;<br>玩家不是牙侩;<br>玩家没有被通缉;<br>玩家未曾研习过葵花宝典或去金陵（1151,544）灵虚处接取任务获得道具“本经阴符七术志文”;<br>玩家攻克数不超过300或去金陵（1151,544）灵虚处接取任务获得道具“八十八佛大忏悔文”;<br>玩家无戕屠值;<br>玩家没有衣衫暴露;<br>玩家须习得任意一个采集系和制造系职业;<br>玩家从本门派叛师24天之内无法再次加入;<br><font color="#33CC33">徐家庄-奇遇入门</font><br>玩家不可杀气过重方有机会通过奇遇加入徐家庄
+ui_froce_rumen_xujia_0=<center><font face="font_text_title1" color="#FF7F24">徐家庄-拜入条件</font></center><font face="font_text_title1" color="#33CC33">江湖条件</font><br>玩家无戕屠值<br>玩家攻克次数不超过300<br>玩家不处于牙侩状态<br>玩家没有被通缉<br>玩家没有衣衫暴露<br>玩家从本门派叛师后24天之内无法再次加入<br><font face="font_text_title1" color="#33CC33">身份条件</font><br>玩家不能为阉人<br>玩家须为无门派或为叛师、易容、下山游历的弟子<br>玩家的善恶标签须为“侠”或“初”<br>玩家须习得任意一个采集系和制造系职业<br><font face="font_text_title1" color="#33CC33">武学条件</font><br>玩家实力须达到初窥门径<br>玩家未曾研习过葵花宝典<br><center><font face="font_text_title1" color="#FF7F24">徐家庄-奇遇入门</font></center>玩家不可杀气过重方有机会通过奇遇加入徐家庄
+tvt_abduct_1=贪心牙侩
+ui_froce_rumen_xujia_1=<center><font face="font_text_title1" color="#FF7F24">徐家庄-奇遇入门</font></center><font face="font_text_title1" color="#33CC33">江湖条件</font><br>玩家须是江湖名俊<br>玩家杀气值小于2000<br>玩家不处于牙侩状态<br>玩家没有被通缉<br>玩家攻克次数不超过1000<br>玩家从本门派叛师后24天之内无法再次加入<br><font face="font_text_title1" color="#33CC33">身份条件</font><br>玩家不能为阉人<br>玩家须为无门派或为叛师、易容、下山游历的弟子<br>玩家的善恶标签须为“侠”或“初”<br><font face="font_text_title1" color="#33CC33">武学条件</font><br>玩家实力须达到初窥门径<br>玩家未曾研习过葵花宝典
+ui_viptype11=私牙交易
+ui_tequan11=私牙交易官银奖励更多
+npctype186=贪心牙侩
+npctype225=黑心牙侩
+desc_buf_SaleGirl_0=私牙交易
+desc_buf_SaleBoy_0=私牙交易
+buf_offline_abduct_fail=心情沮丧
+desc_buf_offline_abduct_fail_0=契约不成功，心情沮丧，暂时不想动弹,定身60秒。
+buf_offline_abduct_cd=身心俱疲
+desc_buf_offline_abduct_cd_0=刚刚成功完成一次私牙交易，身心俱疲，需要休息一段时间
+buf_abductor=牙侩状态
+desc_buf_abductor_0=行李沉重,但为做成买卖不得不委屈求全，移动速度减慢，可被任何人攻击
+buf_abducted=契约状态
+desc_buf_abducted_0=离线打工时跟牙侩签订了用工契约，失去六个时辰的自由,此状态下离线打工时不能自由转换身份。可以通过在退出游戏时的离线界面点击“赎身”按钮，花费一定的碎银子来恢复自由之身。
+bhf_abduct_yd=牙侩状态
+desc_bhf_abduct_yd_0=行李沉重,但为做成买卖不得不委屈求全，移动速度减慢，可被任何人攻击
+buf_abduct_yd_1=牙侩
+desc_buf_abduct_yd_1_0=在时间限制内完成交易
+desc_itmbuf_bangjia_1=私牙交易获得的银子提高30%
+buf_offline_abduct_cd01=身心俱疲
+desc_buf_offline_abduct_cd01_0=刚刚成功完成一次私牙交易，身心俱疲，需要休息一段时间
+buf_offline_abduct_cd02=身心俱疲
+desc_buf_offline_abduct_cd02_0=刚刚成功完成一次私牙交易，身心俱疲，需要休息一段时间
+buf_offline_abduct_cd03=身心俱疲
+desc_buf_offline_abduct_cd03_0=刚刚成功完成一次私牙交易，身心俱疲，需要休息一段时间
+buf_offline_abduct_cd04=身心俱疲
+desc_buf_offline_abduct_cd04_0=刚刚成功完成一次私牙交易，身心俱疲，需要休息一段时间
+buf_offline_abduct_cd05=身心俱疲
+desc_buf_offline_abduct_cd05_0=刚刚成功完成一次私牙交易，身心俱疲，需要休息一段时间
+desc_condition_9525=当前处于牙侩状态
+desc_condition_102422=不处于牙侩状态
+desc_CS_single_xzyl_1=虚竹幽兰生静气，和风朗月喻天怀，减少友方负面状态10%持续时间，状态包括：<br>定身状态（刺探、私牙洽谈失败获得）、去势状态、踢伤状态（被毛驴踢伤获得）、九转通冥状态。<br>(招式消耗一枚敷药木针和5点医疗值)
+desc_CS_single_xzyl_2=虚竹幽兰生静气，和风朗月喻天怀，减少友方负面状态15%持续时间，状态包括：<br>定身状态（刺探、私牙洽谈失败获得）、去势状态、踢伤状态（被毛驴踢伤获得）、九转通冥状态。<br>(招式消耗一枚敷药铁针和5点医疗值)
+desc_CS_single_xzyl_3=虚竹幽兰生静气，和风朗月喻天怀，减少友方负面状态20%持续时间，状态包括：<br>定身状态（刺探、私牙洽谈失败获得）、去势状态、踢伤状态（被毛驴踢伤获得）、九转通冥状态。<br>(招式消耗一枚敷药银针和5点医疗值)
+sns_event_text_35={@0:name}在{@1:scene}被{@2:killer}蒙骗，不知会被介绍到什么地方打工。
+sns_event_text_72={@0:name}在{@2:scene}被蒙骗跟{@3:npc}签订了卖身契。
+sns_event_text_70={@0:name}私牙洽谈成功，在{@1:scene}准备完成一次私牙交易。
+sns_Enemy_text_Abduct={@0:name}在{@1:scene}进行私牙交易
+sns_jieshi_text_018_1={@0:name}与你签订了私牙契约
+sns_jieshi_text_018_2=你与{@0:name}签订了私牙契约
+baseevent_125=私牙交易
+baseevent_146=帮助契约玩家
+baseevent_24=使用契约
+baseevent_124=使用契约
+baseevent_25=私牙交易
+baseevent_46=帮助契约玩家玩家
+offitem_miyao01=契约一
+offitem_miyao02=契约二
+offitem_miyao03=契约三
+offitem_miyao04=契约四
+offitem_miyao05=契约五
+offitem_miyao06=契约六
+offitem_miyao07=契约七
+offitem_miyao08=契约八
+offitem_miyao09=契约九
+offitem_miyao10=契约十
+AbductNpc01_1=黑心牙侩
+AbductNpc02_1=黑心牙侩
+AbductNpc03_1=黑心牙侩
+AbductNpc04_1=黑心牙侩
+AbductNpc13_1=黑心牙侩
+AbductNpc13a_1=贪心牙侩
+AbductNpc14_1=黑心牙侩
+AbductNpc14a_1=贪心牙侩
+AbductNpc15_1=黑心牙侩
+AbductNpc15a_1=贪心牙侩
+AbductNpc16_1=黑心牙侩
+AbductNpc16a_1=贪心牙侩
+AbductNpc17_1=黑心牙侩
+AbductNpc17a_1=贪心牙侩
+OffAbductNpc=打工者的行李
+OffAbductNpc_0=打工者的行李
+bangjia_bf01=牙侩
+bangjia_bf02=牙侩
+bangjia_bf03=牙侩
+bangjia_bf04=牙侩
+bangjia_md01=打工者的行李
+bangjia_md02=打工者的行李
+bangjia_md03=打工者的行李
+bangjia_md04=打工者的行李
+bjyd001=牙侩
+bjyd011=打工者的行李
+bjyd012=打工者的行李
+bjyd_bf01=牙侩
+bjyd_bf02=牙侩
+bjyd_bf03=牙侩
+bjyd_bf04=牙侩
+bjyd_md001=打工者的行李
+bjyd_md002=打工者的行李
+bjyd_md003=打工者的行李
+bjyd_md004=打工者的行李
+bjyd_md01=打工者的行李
+bjyd_md02=打工者的行李
+bjyd_md03=打工者的行李
+bjyd_md04=打工者的行李
+talk_special_810040031=这……好像就是那个家伙！快跟上！
+13507=坐牢中，无法参与私牙交易
+19847=牙侩状态下，无法参加该活动。
+2519=双人骑乘操作请确认双方都未处于牙侩状态
+40013=私牙交易成功，获得<font color="#00ff00">{@0:number}</font>两<img src="gui\common\money\yb.png" valign="center" only="line" data="" />！
+40022=牙侩道具需要先选择一个离线玩家角色再使用。
+40028=成功契约了<font color="#00ff00">{@0:name}</font>，戕屠值增加<font color="#00ff00">{@1:number}</font>点。
+40031=你已说服了一个人签订契约，不要太贪心了，免得节外生枝。
+40032=对方对现在的生活很满意，不打算跟你走，你非常沮丧，需要先整理一下心情,定身60秒。
+40033=多谢大侠抬爱，我暂时不想去其他地方发展。
+40034=多谢大侠出手相助，我险些上了他的恶当！
+40035=行侠仗义，还给失主。
+40036=落井下石，接手交易。
+40037=落井下石，接手牙侩交易，戕屠值增加<font color="#00ff00">{@0:number}</font>点。
+40038=行侠仗义，将行李还给了失主，戕屠值减少<font color="#00ff00">{@0:number}</font>点。
+40039=你当前无权限对行李进行操作。30秒内只有击败牙侩的玩家才能操作，30秒-60秒之内，所有玩家皆可操作。
+40041=支付赎金，拿回契约，恢复自由。
+40042=攻克牙侩，30秒内只有你可以对行李操作，30秒-60秒之内，所有玩家可以操作。
+40043=你拿到的行李不下心丢失，交易失败。
+40049=在{@0:scene}({@1:x},{@2:z})发现牙侩[{@3:name}]，请各位侠士前往制止，还武林正常秩序。
+40050=[{@0:name}]路见不平拔刀相助，击败牙侩[{@1:name}]。
+40051=在{@0:scene}({@1:x},{@2:z})发现牙侩[{@3:name}]，请各位侠士前往制止，还武林正常秩序。
+40052=[{@0:name}]行侠仗义，帮离线玩家抢回行李。
+40054=击败牙侩，帮离线玩家抢回行李！
+40055=寻找正在招募劳工的商人或贪心牙侩将行李交给他们，换取佣金。
+40061=右键使用包裹中的契约可以同离线玩家签订契约。
+40062=对方对你的契约很感兴趣，准备接受你的条件了。
+40063=对方把行李交给你保管，你可以先把它送到需要用工的老板那里。
+40064=路上人多混乱，行李不慎丢失，交易失败。
+40065=处于保护状态，无法使用契约。
+40066=处于保护状态，无法对打工者的行李操作。
+40067=处于保护状态，无法对牙侩发起攻击。
+40072=对方没有更多闲钱用于支付，私牙交易失败。
+40073=私牙交易成功，获得银两。
+40075=此玩家刚在这里签订契约，契约期内无法再次签约
+40081=看此人的样貌能力，介绍给商人打工，估计可以获得官银{@0:$锭两文}
+40082=看此人样貌能力，完全不符合商人的要求，介绍他做工，最多也就得点散碎银子。
+40084=看此人的样貌能力，介绍给商人打工，估计可以获得官银{@0:$锭两文}，如果介绍给<font color="#FF0000">{@1:npc}</font>或许能获得更多
+40095=救助成功，获得碎银{@0:$锭两文}作为答谢
+40097=救助成功，获得额外给予官银{@0:$锭两文}作为答谢
+40101=牙侩状态下，无法返回到角色选择
+80023=贪心牙侩携大量<font color="#ffd700">官银</font>出没，现正在<font color="#ff0000">燕京</font>附近
+80024=贪心牙侩携大量<font color="#ffd700">官银</font>出没，现正在<font color="#ff0000">苏州</font>附近
+80025=贪心牙侩携大量<font color="#ffd700">官银</font>出没，现正在<font color="#ff0000">金陵</font>附近
+80026=贪心牙侩携大量<font color="#ffd700">官银</font>出没，现正在<font color="#ff0000">洛阳</font>附近
+80027=贪心牙侩携大量<font color="#ffd700">官银</font>出没，现正在<font color="#ff0000">成都</font>附近
+80028=重伤状态，无法丢弃行李。
+80029=侠肝义胆，送回行李
+80036=正在送回行李，不能使用使用契约
+80037=正在送回行李，不能参与私牙交易
+80038=正在进行私牙交易，无暇顾及行李
+80052=战斗状态不能放弃行李
+80053=重伤状态不能放弃行李
+80054=已经在送回行李的路上，拿不下更多行李了
+80055=刚刚送回了一份行李，体力不足，休息一下吧
+80056=自己拿来的行李，还是不要自己送回去吧
+80057=处于活动中不能送回行李
+81042=该人物无法被契约。
+83039=你正进行私牙交易，无法报名参加门派战
+83040=你正进行私牙交易，无法进入门派战战场
+9113=自己处于牙侩状态或者跟人签订契约中
+97054=牙侩状态的玩家无法加入
+9751=对方处于牙侩状态，不可前往！
+9791=无法在私牙交易、帮会战、战场等活动状态下搭讪
+no_abduct_item=包裹里无契约道具，请先至杂货商处购买。
+tips_itemtype_91=<font color="#FFFFFF">牙侩道具</font>
+tips_itemtype_95=<font color="#FFFFFF">牙侩道具</font>
+tips_abduct_rule_0=傍晚时分<font color="#FFD700">贪心牙侩</font>将携大量<font color="#FFD700">官银</font>与私牙玩家交易：<br>交易时间周一至周五的20:00-22:00<br><font color="#00FF00">周一：</font>在 <font color="#FF0000">金陵(1664.1037)</font> 收购；<br><font color="#00FF00">周二：</font>在 <font color="#FF0000">成都(767.471)</font> 收购；<br><font color="#00FF00">周三：</font>在 <font color="#FF0000">燕京(235.132)</font> 收购；<br><font color="#00FF00">周四：</font>在 <font color="#FF0000">洛阳(1150.722)</font> 收购；<br><font color="#00FF00">周五：</font>在 <font color="#FF0000">苏州(453.744)</font> 收购；<br><br><font color="#ffffff">成功把打工者的行李交给贪心牙侩或者把抢回的离线玩家行李送到热心百姓处保管，可以获得相应</font><font color="#FFD700">官银</font>。
+tips_abduct_rule_1=傍晚时分<font color="#FFD700">贪心牙侩</font>将携大量<font color="#FFD700">官银</font>与私牙玩家交易：<br>交易时间周一至周五的20:00-22:00<br><font color="#00FF00">周一：</font>在 <font color="#FF0000">金陵(1664.1037)</font> 收购；<br><font color="#00FF00">周二：</font>在 <font color="#FF0000">成都(767.471)</font> 收购；<br><font color="#00FF00">周三：</font>在 <font color="#FF0000">燕京(235.132)</font> 收购；<br><font color="#00FF00">周四：</font>在 <font color="#FF0000">洛阳(1150.722)</font> 收购；<br><font color="#00FF00">周五：</font>在 <font color="#FF0000">苏州(453.744)</font> 收购；<br><br><font color="#ffffff">成功把打工者的行李交给贪心牙侩或者把抢回的离线玩家行李送到热心百姓处保管，可以获得相应</font><font color="#FFD700">官银</font>。
+desc_bangfeixiashi04=<img src="gui\special\helper\jianghuzhengdou\bangjia.png"  only="true" halign="center" valign="top" /><br><s><s>江湖上血雨腥风又起，各大势力不问出身，大肆收人扩充实力，坑蒙拐骗的地下私牙交易是个很诱人的黑色生意。虽然会被正派人士捉拿，也会被官府通缉，但还是有很多人愿意铤而走险。<br><br><font color="#5E4939">牙侩规则</font><br><s><s>1.私牙交易需要消耗契约，在杂货商处可以买到。<br><s><s>2.契约只能对<font color="#993300">【离线角色】</font>使用，成功率跟契约等级和对方的实力有关系。<br><s><s>3.成功契约离线角色后，离线角色将自动把行李放在地上。<br><s><s>4.将行李捡起，可将之交给部分NPC，NPC会根据离线角色的实力支付银两。只收取满足条件的被绑角色<br><s><s>5.成功被契约的离线角色会暂时失去自由，强制在契约处干活，且无法得到离线收益。<br><s><s>6.成功完成一次私牙交易后会陷入疲劳状态，一个小时内，各处的NPC都会拒绝跟疲劳状态的玩家交易。<br><s><s>7.在20:00至22:00期间，分布在5个城市的贪心牙侩会大肆高价接收打工者的行李。每天贪心牙侩会在不同城市收购行李，请注意游戏中的公告，及时参加活动<br><br><font color="#5E4939">侠士规则</font><br><s><s>1.侠士的唯一目标，就是<font color="#993300">【击败牙侩】</font>，夺回打工者的行李。
+desc_xujiazhuang04=<font color="#453627">【徐家庄概述】</font><br><img src="gui\special\forceschool\shilituyuan\xujia.png"  only="true" halign="center" valign="bottom" /><br><font color="#5E4939">一、徐家庄简介</font><br><s><s>徐家庄与金针沈家齐名，乃江湖之中早有的武学世家。庄中人各个都是江湖好手，就连奴仆和丫鬟也都身手不凡。徐家庄以江湖安宁、除暴安良为己任，庄中之人各个都仗义行侠、嫉恶如仇。并且徐家庄弟子个个都是野外生存的好手，在平日里跋山涉水的日子里，锻炼的一身好的生存本领，令江湖中人刮目相看。徐家庄弟子所习的徐家庄尺法曾受武林前辈所指点，更是精妙无比，一把短巧之尺，在徐家庄弟子手中变成了江湖神兵，更被盟主林天南称之为“天下无双，巧妙至极”。<br><br><font color="#5E4939">二、入门规则</font><br><font color="#993300">主线入门</font><br>玩家需先满足以下条件：<br>1.玩家当前无戕屠值<br>2.玩家攻克次刷不超过300 （可以通过规避任务通过审核）<br>3.玩家不处于牙侩状态<br>4.玩家没有被通缉。<br>5.玩家没有衣衫暴露。<br>6.玩家从本门派叛师后24天之内无法再次加入<br>7.玩家不能为阉人<br>8.玩家必须为无门派或者叛师，易容，下山历练的弟子<br>9.玩家标签必须为：初或者侠<br>10.玩家需习得任意一个采集系和制造系职业<br>11.玩家实力初窥门径以上<br>14.未研习过葵花宝典<br>达到条件之后，玩家可以去成都官驿处找到NPC“徐家庄入门审核员”后可获取入门任务。<br><font color="#993300">奇遇入门</font><br>玩家达到一定条件之后，可以触发奇遇，获得徐家庄奇遇入门道具，遂前往徐家庄承接入门任务。<br><font color="#5E4939">三、通用功能</font><br><s><s>通过“无门派”身份加入徐家庄的玩家，可以参加刺探，夺书。<br><font color="#5E4939">四、势力特色</font><br>独特技能<br><font color="#993300">篝火</font>:<br><s><s>徐家庄弟子可以在地上生起一堆篝火，队伍里面的玩家可以通过篝火，将包裹内的菜肴烤熟食用，获取提升实力的状态。并且，也可以将包裹内的食物分享给队伍里面其他的玩家食用，包括绑定的食物。篝火分三个不同的等级，等级越高，添加的额外状态属性越好。想要提升篝火等级，需要完成徐家庄的杂学日常，获取篝火熟练点进行提升。<br><font color="#993300">钓鱼大战</font>:<br><s><s>每周开放两次，只要学习过生活技能渔夫的徐家庄弟子，都可以报名。在大赛期间，徐家庄弟子可以前往世界各地水域进行钓鱼，在活动期间，在鱼群处钓鱼会有额外的掉落。活动结束后，按照获得的鱼数量进行积分排行。排名前十的玩家会获得丰厚的奖励，前三的更有商城道具产出。<br>徐家庄活动<br><font color="#993300">抵抗邪恶</font>:<br><s><s>洛阳镖局在运朝廷要物之时，遇到绿林劫匪，徐家庄弟子前往支援，阻止劫匪抢夺资源。玩家需要合力击败劫匪头目，帮助镖局躲过一劫。若镖局镖车被劫，那活动失败，玩家只能获得较少的奖励。每周三周六活动开放，徐家庄弟子均可报名参加，每次最多48人参加，一周只能参加一次。活动奖励丰厚，头目会掉落徐家庄特有的批注书，以及金、银、铜品质的势力装备。<br><font color="#5E4939">五、出师叛师</font><br><font color="#993300">势力出师</font>:<br>在玩家获得二阶身份后，玩家即可在该势力NPC“势力流出人”处接取出师任务。<br>影响：<br>1.出师后可以加入其他新势力、传统八大门派，或者让自己成为“无门派”的江湖散人。<br>2.武学套路和内功保留并且声望也保留。<br>3.出师后24天内无法再加入出师势力。<br>4.该势力内功上限及当前层数均下降五层，杂学“篝火”保留一层。<br><font color="#993300">势力叛师</font>:<br>玩家可随时在该势力NPC“势力流出人”处进行叛师。<br>影响：<br>1.	无任何要求，随时可以叛出师门。<br>2.	叛师后可以加入其他新势力、传统八大门派，或者让自己成为“无门派”的江湖散人。<br>3.叛师后24天内无法再次加入叛师势力。<br>4.入门和一阶身份叛师后内功和招式全部删除声望全部清空。<br>
+desc_yihuag04=<font color="#453627">【移花宫概述】</font><br><img src="gui\special\forceschool\shilituyuan\yihua.png"  only="true" halign="center" valign="bottom" /><br><font color="#5E4939">一、移花宫简介</font><br><s><s>移花宫位于气候宜人，四季如春的绣玉谷，谷内山川湖泊星罗棋布，一年四季百花齐放，是习武之人难求的静修佳地。移花宫招收弟子条件异常苛刻，且宫规甚严，江湖传闻其用来接送门人的神秘宫船，偶尔会停留在成都郊外的码头，然而众多武林人士几番探寻，却是摸不得半点痕迹。花宫门人皆出落得雅致绝俗、清冷孤傲，她们行走江湖往往着一袭素纱宫装，秀丽聪慧之中却少了几分常人的生气与感情。再加上她们对品行不端、用情不专的男女惩罚手段极为冷酷无情，武林中人闻之无不耸然失色。<br><br><font color="#5E4939">二、入门规则</font><br><font color="#993300">主线入门</font><br>必须满足九阴志四内完成，且移花宫每日只招收50名弟子<br>玩家需先满足以下条件：<br>1.玩家必须是单身女性角色<br>2.玩家未曾离过婚<br>3.玩家攻克次数不超过300 （可以通过规避任务通过审核）<br>4.玩家不处于牙侩状态<br>5.玩家没有被通缉。<br>6.玩家不是捕快<br>7.玩家无醉酒度<br>8.玩家没有衣衫暴露。<br>9.玩家从本门派叛师后24天之内无法再次加入<br>10.玩家必须为无门派或者叛师，易容，下山历练的弟子<br>11.	玩家标签必须为：狂<br>12.玩家实力达到傲视群雄<br>13.玩家未曾研习过断情刀<br>12.未研习过葵花宝典<br>达到条件之后，玩家可以去移花宫码头处找到NPC“移花宫入门审核员”后可获取入门任务。<br><font color="#993300">奇遇入门</font><br>玩家达到一定条件之后，可以触发奇遇，获得移花宫奇遇入门道具，遂前往移花宫承接入门任务。<br><font color="#5E4939">三、通用功能</font><br><s><s>通过“无门派”身份加入移花宫的玩家，可以参加刺探，夺书。<br><font color="#5E4939">四、势力特色</font><br>独特技能<br><font color="#993300">拂尘清淡</font>:<br>淡泊宁静，宁静致远，心无旁骛，无欲清心，真气急速流转，可清除自身大部分负面状态，并震伤敌人<br><font color="#993300">杂学考问</font>:<br>1.每天可以在指定NPC处进行一轮答题（十题）<br>2.题库为一百题，涉及内容：花草养护、养蜂酿蜜、刺绣厨艺、花宫武学、门人故事<br>移花宫活动<br><font color="#993300">花宫解围</font>:<br><s>十二连环坞爱慕移花宫女子，求亲不成反被打败，怒而谋划并展开了报复行动<br>1.十二连环坞将所画鞭打移花宫宫主的画像和捉来的大批老鼠投入宫内，赶紧消灭老鼠，焚毁画像<br>2.十二连环坞门人大举围攻移花宫，事不宜迟，前去剿灭这帮恶徒<br><font color="#993300">花宫试练</font>:<br><s><s>进入试炼场后生命不断减少，需寻找治疗NPC补充生命，但可能被门派考验NPC盯上并围攻，生命值为0则退出试炼场。不同的考验NPC需要不同的方法解决可以帮助同门对付考验NPC。每隔一段时间系统会统计存活的人数，人数越多则每人获得的奖励越多，帮助同门击败考验NPC的次数越多，也将获得越多的奖励<br><font color="#5E4939">五、出师叛师</font><br><font color="#993300">势力出师</font>:<br>在玩家势力声望达到118080，移花宫明玉神功达到49层，玩家即可在该势力NPC“势力流出人”处接取出师任务。<br>影响：<br>1.出师后可以加入其他新势力、传统八大门派，或者让自己成为“无门派”的江湖散人。<br>2.武学套路和内功保留。<br>3.出师后24天内无法再加入出师势力。<br>4.该势力内功上限及当前层数均下降五层，杂学全部去除。<br><font color="#993300">势力叛师</font>:<br>玩家可随时在该势力NPC“势力流出人”处进行叛师。<br>影响：<br>1.无任何要求，随时可以叛出师门。<br>2.	叛师后可以加入其他新势力、传统八大门派，或者让自己成为“无门派”的江湖散人。<br>3.	叛师后24天内无法再次加入叛师势力。<br>4.叛师后杂学会被去除，不可恢复。若再次拜入该门派，需重新学习。<br>5.入门和一阶身份叛师后内功和招式会全部删除。<br>6.二阶身份叛师后内功全部删除，招式上限及当前层数均下降到一层，声望降为二阶身份初始声望。<br>7.三阶身份和四阶身份叛师后内功上限及当前层数均下降十层，招式最高保留五层（未满五层则保留当前层数），声望保留当前声望。
+desc_snssqjh=<s><s><s><s><s><s><s><s><s><font color="#453627">【人际关系的建立】</font><br><br><font color="#453627">【好友】</font><br><s><s>可以在游戏里自由申请，通过申请后双方好友列表里同步添加，删除自由，也是双方好友列表同步删除。好友可以享受<br><font color="#993300">江湖新鲜事</font>的信息共享功能，部分有价值的好友行为将被系统记录到江湖新鲜事界面保存一段时间，供好友查看、评论。<br><s><s>好友之间存在名为<font color="#993300">亲密度</font>的好感计算工具，一些行为譬如送礼、组队、共同进行势力挑战禁地等可以增加好友间的亲密度， 而PK攻克会降低亲密度。<br><br><font color="#453627">【挚友】</font><br><s><s>挚友为好友的升级关系，只能通过好友关系升级为挚友，添加时需向对方发出申请，通过后即在双方挚友列表里同步添加。挚友之间可传递新鲜事，在游戏主界面右侧弹窗表现。<br><br><font color="#453627">【敌人】</font><br><s><s>当玩家在被PK致死时才会出现添加敌人的提示，添加后被添加者单方面被加进敌人列表。删除方式必须通过消耗一种名为<font color="#993300">和气酒</font>的道具来解除敌人关系。玩家可以获得部分敌人的动态信息，同时当敌人出现在玩家同一场景时小地图会以特别的标志标识出来，可以适当留意。<br><s><s>敌人之间的关系计算工具是<font color="#993300">仇恨度</font>，敌人的仇恨度会随时间递减，当仇恨度为零时将自动解除敌人关系，PK等不友好行为将增加仇恨度。<br><br><font color="#453627">【一生之敌】</font><br><s><s>一生之敌是敌人关系的升级，只能通过敌人关系升级到一生之敌，同样是单方面的添加，不可直接删除，必须通过消耗一种名为<font color="#993300">解恨酒</font>的道具来降为敌人。一生之敌之间是不可以组队游戏的。<br><s><s>一生之敌之间的关系计算工具也是仇恨度，一生之敌和敌人仇恨度相互继承，需要注意的是，一生之敌的仇恨度不会随时间减少，只有通过道具来降低。<br><br><font color="#453627">【黑名单】</font><br><s><s>可以选择游戏中的玩家自由添加进黑名单列表，被添加进黑名单的玩家双方不能发起窗口会话。<br><br><font color="#453627">【关注】</font><br><s><s>可以选择游戏中的玩家自由添加，被关注的玩家单方面被添加进关注列表。<br><br><font color="#453627">【结识】</font><br><s><s>当大侠在游戏中和陌生人发生一些诸如组队、PK、私牙交易等特殊交互行为时，系统将自动把交互对象加入到这个结识列表中，方便日后大侠回头寻找交互对象。结识可以随时删除。把鼠标移到结识列表中的玩家头像上可以查询结识玩家被添加到结识列表的<font color="#993300">结识事件</font>。<br><br><s><s><s><s><s><s><s><s><s><font color="#453627">【特别的交互功能】</font><br><br><font color="#453627">【赠送礼物】</font><br><s><s>点击交互界面左上角的礼物盒图标开启送礼界面，可以自由输入赠送对象的姓名或者在已有的关系列表里选取。可以复数勾选关系列表中的玩家姓名和礼物，复数勾选玩家后将把所选礼物分别赠送给所选玩家，赠送礼物的同时可以输入赠言。在赠送礼物里点击<font color="#993300">收到礼物</font>标签可以查看和领取收到的礼物，可以看到礼物的送出时间赠送玩家及赠言，收到的礼物上限为100个。<br><br><font color="#453627">【共同祈福】</font><br><s><s>点击交互界面左上角的祈福图标开启祈福界面，可以自由输入祈福对象的姓名或者在已有的关系列表里选取。可以复数勾选系列表中的玩家姓名和祈福，复数勾选玩家后将把所选祈福分别送给所选玩家，祈福的同时可以输入祝福话语。送出祈福后自己和祈福的对象将同时收到祈福效果，在祈福界面中点击<font color="#993300">获得的祝福</font>标签可以查看收到的祈福和开启祈福，获得的祈福上限为100个。每天可以开启的祈福和每次可以同时开启的祈福有数量限制，请大侠在开启时慎重选择。
+desc_friedship04=<s><s>玩家若想成为夫妻，必须双方彼此亲密度达到2000点。<br><s><s>可通过以下方式获得亲密度：<br><s><s>"我的江湖"--"送礼"--"纪念品"，羊脂白玉+200点<font color="#993300">（推荐）</font>，<br><s><s>雏菊+10点,幸运吊坠+5点,由送礼方单向加<br><s><s>组队任务:双向+1<br><s><s>组队禁地:双向+10<br><s><s>组队踢馆:双向+3<br><s><s>组队运镖:双向+3<br><s><s>解救赎身:主动方单向+5<br><s><s>响应求救:主动方单向+5<br><s><s>重伤救治:双向+1<br><s><s>离线打赏:主动方单向+1
+ui_bangfeixiashi04=牙侩侠士
+target_37543=成功完成10次私牙交易。
+target_37560=完成十次刺探和五次私牙交易。
+target_37570=成功契约2个离线玩家，并完成私牙交易。
+accept_18229_1=<font face="Default" color="#ffffff" >  你很走运，现在我这里有个任务需要你证明下自己的实力，去完成一次私牙交易，然后回来这里见我。</font>
+context_87208=不知何时江湖中竟然出现私牙交易之事，且被坑害之人大多是武林中人，其中也不乏有我丐帮弟子，而今情势虽非万分危急，但我丐帮也不能坐视不管。若不能将此风压制，定会愈演愈烈。我丐帮弟子仗剑江湖，定要还江湖宁定。凡武当弟子，路遇私牙交易坑害江湖同道之恶人，定斩不饶，扬我丐帮浩然正气。
+target_87208=成功抢回一个打工者的行李
+CanAcceptMenu_87014=<font face="Default" color="#ffffff" >私牙交易</font>
+target_87014=成功完成私牙佳偶。
+title_87014=私牙交易
+target_86812=抢回打工者的行李。
+context_86507=<s>近日本门经费有些紧张，你们这些做弟子的可不该吃白食，理应为本门做些贡献。去，做些私牙交易，赚到外快。不过，此行一定要慎重，切不可让外人知晓我唐门暗地里做这种勾当。
+context_86508=<s>江湖人都说我唐门弟子心性无常，各个皆是奸邪之辈，此话让人听得着实心里不痛快。近日我唐门偏偏要让他们另眼相看，你现下便去帮一位江湖人抢回行李，免得他受牙侩坑害罢。
+target_86506=<s>与一名离线玩家洽谈牙侩契约，带着他的行李，回去面见门主唐天行。
+target_86507=<s>将打工者的行李贩卖给成都的牙侩。
+target_86508=<s>替一位江湖人抢回被骗走的行李。
+context_87107=不知何时江湖中竟然出现私牙交易之事，且被坑害之人大多是武林中人，其中也不乏有我武当弟子，而今情势虽非万分危急，但我武当也不能坐视不管。若不能将此风压制，定会愈演愈烈。我武当弟子仗剑江湖，定要还江湖宁定。凡武当弟子，路遇私牙交易坑害江湖同道之恶人，定斩不饶，扬我武当浩然正气。
+accept_120_1=<font face="Default" color="#ffffff" >  嘘，不要声张，少侠，最近手头紧不？想发财么？我告诉你一条生财之道。如果真想跟着我说的做的话，你先去镇上杂货店老板那买五份契约一过来，我教你怎么发财。</font>
+accept_121_1=<font face="Default" color="#ffffff" >  这些牙侩越来越猖狂了，为了金钱，无视王法，干起了地下私牙的勾当，少侠刚踏入武林，希望你匡扶武林正义，不要走入邪门歪道啊</font>
+accept_125_1=<font face="Default" color="#ffffff" >  嘘，不要声张，少侠，最近手头紧不？想发财么？我告诉你一条生财之道。如果真想跟着我说的做的话，你先去镇上杂货店老板那买五份契约一过来，我教你怎么发财。</font>
+accept_126_1=<font face="Default" color="#ffffff" >  哼哼，干得不错。接下来你就去那市集上，会有很多忙碌的人（头顶显示离线身份的玩家），你骗他们来我这边打工，拿到他们的行李后带到我这边来，保证你大赚一笔。不过这契约比较粗糙，遇到那种有些江湖阅历的人来一次还不一定能成功，得多跟他聊几次，他相信你之后，会把行李交给你，把行李交给商人，能得到一笔不菲的金钱。</font>
+accept_129_1=<font face="Default" color="#ffffff" >  这些牙侩越来越猖狂了，为了金钱，无视王法，干起了地下私牙的勾当，少侠刚踏入武林，希望你匡扶武林正义，不要走入邪门歪道啊</font>
+accept_130_1=<font face="Default" color="#ffffff" >  嘘，不要声张，少侠，最近手头紧不？想发财么？我告诉你一条生财之道。如果真想跟着我说的做的话，你先去镇上杂货店老板那买五份契约一过来，我教你怎么发财。</font>
+accept_131_1=<font face="Default" color="#ffffff" >  哼哼，干得不错。接下来你就去那市集上，会有很多忙碌的人（头顶显示离线身份的玩家），你骗他们来我这边打工，拿到他们的行李后带到我这边来，保证你大赚一笔。不过这契约比较粗糙，遇到那种有些江湖阅历的人来一次还不一定能成功，得多跟他聊几次，他相信你之后，会把行李交给你，把行李交给商人，能得到一笔不菲的金钱。</font>
+accept_132_1=<font face="Default" color="#ffffff" >  镇里中很多人其实表面是正经商人，背后却是黑心商人，比如店铺的掌柜，码头的监工，大户人家的管家，山寨的头领，等等。背着打工者的行李去找这些人谈妥价钱就可以完成私牙交易。当然交易也得看着点，不能从哪里骗来还卖到哪里去，你自己看着办吧，完成私牙交易后再回来找我。
+accept_133_1=<font face="Default" color="#ffffff" >  这些牙侩越来越猖狂了，为了金钱，无视王法，干起了地下私牙的勾当，少侠刚踏入武林，希望你匡扶武林正义，不要走入邪门歪道啊</font>
+accept_137_1=<font face="Default" color="#ffffff" >  哼哼，干得不错。接下来你就去那市集上，会有很多忙碌的人（头顶显示离线身份的玩家），你骗他们来我这边打工，拿到他们的行李后带到我这边来，保证你大赚一笔。不过这契约比较粗糙，遇到那种有些江湖阅历的人来一次还不一定能成功，得多跟他聊几次，他相信你之后，会把行李交给你，把行李交给商人，能得到一笔不菲的金钱。</font>
+accept_138_1=<font face="Default" color="#ffffff" >  镇里中很多人其实表面是正经商人，背后却是黑心商人，比如店铺的掌柜，码头的监工，大户人家的管家，山寨的头领，等等。背着打工者的行李去找这些人谈妥价钱就可以完成私牙交易。当然交易也得看着点，不能从哪里骗来还卖到哪里去，你自己看着办吧，完成私牙交易后再回来找我。
+accept_141_1=<font face="Default" color="#ffffff" >  嘘，不要声张，少侠，最近手头紧不？想发财么？我告诉你一条生财之道。如果真想跟着我说的做的话，你先去镇上杂货店老板那买五份契约一过来，我教你怎么发财。</font>
+accept_142_1=<font face="Default" color="#ffffff" > 哼哼，干得不错。接下来你就去那市集上，会有很多忙碌的人（头顶显示离线身份的玩家），你骗他们来我这边打工，拿到他们的行李后带到我这边来，保证你大赚一笔。不过这契约比较粗糙，遇到那种有些江湖阅历的人来一次还不一定能成功，得多跟他聊几次，他相信你之后，会把行李交给你，把行李交给商人，能得到一笔不菲的金钱。</font>
+accept_143_1=<font face="Default" color="#ffffff" >  镇里中很多人其实表面是正经商人，背后却是黑心商人，比如店铺的掌柜，码头的监工，大户人家的管家，山寨的头领，等等。背着打工者的行李去找这些人谈妥价钱就可以完成私牙交易。当然交易也得看着点，不能从哪里骗来还卖到哪里去，你自己看着办吧，完成私牙交易后再回来找我。
+accept_144_1=<font face="Default" color="#ffffff" >  这些牙侩越来越猖狂了，为了金钱，无视王法，干起了地下私牙的勾当，少侠刚踏入武林，希望你匡扶武林正义，不要走入邪门歪道啊</font>
+complete_120=<font face="Default" color="#ffffff" >  很好很好，这是私牙交易必备的契约，私牙交易是个非常赚钱的行当，第一步是买必备的契约，但是使用契约不是每次都能成功的，所以我叫你买了五份。</font>
+complete_125=<font face="Default" color="#ffffff" >  很好很好，这是私牙交易必备的契约，私牙交易是个非常赚钱的行当，第一步是买必备的契约，但是使用契约不是每次都能成功的，所以我叫你买了五份。</font>
+complete_130=<font face="Default" color="#ffffff" >  很好很好，这是私牙交易必备的契约，私牙交易是个非常赚钱的行当，第一步是买必备的契约，但是使用契约不是每次都能成功的，所以我叫你买了五份。</font>
+complete_141=<font face="Default" color="#ffffff" >  很好很好，这是私牙交易必备的契约，私牙交易是个非常赚钱的行当，第一步是买必备的契约，但是使用契约不是每次都能成功的，所以我叫你买了五份。</font>
+context_120=嘘，不要声张，少侠，最近手头紧不？想发财么？我告诉你一条生财之道。如果真想跟着我说的做的话，你先去镇上杂货店老板那买五份契约一过来，我教你怎么发财。
+context_125=嘘，不要声张，少侠，最近手头紧不？想发财么？我告诉你一条生财之道。如果真想跟着我说的做的话，你先去镇上杂货店老板那买五份契约一过来，我教你怎么发财。
+context_126=哼哼，干得不错。接下来你就去那市集上，会有很多忙碌的人（头顶显示离线身份的玩家），你骗他们来我这边打工，拿到他们的行李后带到我这边来，保证你大赚一笔。不过这契约比较粗糙，遇到那种有些江湖阅历的人来一次还不一定能成功，得多跟他聊几次，他相信你之后，会把行李交给你，把行李交给商人，能得到一笔不菲的金钱。
+context_127=你已掌握了坐忘功的要领，接下来就得学习外功招式。但是我想知道，你学武是为了什么？如果是用来作恶的，我是万万不能传授与你。
+context_129=这些牙侩越来越猖狂了，为了金钱，无视王法，干起了地下私牙的勾当，少侠刚踏入武林，希望你匡扶武林正义，不要走入邪门歪道啊。
+context_130=嘘，不要声张，少侠，最近手头紧不？想发财么？我告诉你一条生财之道。如果真想跟着我说的做的话，你先去镇上杂货店老板那买五份契约一过来，我教你怎么发财。
+context_131=哼哼，干得不错。接下来你就去那市集上，会有很多忙碌的人（头顶显示离线身份的玩家），你骗他们来我这边打工，拿到他们的行李后带到我这边来，保证你大赚一笔。不过这契约比较粗糙，遇到那种有些江湖阅历的人来一次还不一定能成功，得多跟他聊几次，他相信你之后，会把行李交给你，把行李交给商人，能得到一笔不菲的金钱。
+context_132=镇里中很多人其实表面是正经商人，背后却是黑心商人，比如店铺的掌柜，码头的监工，大户人家的管家，山寨的头领，等等。背着打工者的行李去找这些人谈妥价钱就可以完成私牙交易。当然交易也得看着点，不能从哪里骗来还卖到哪里去，你自己看着办吧，完成私牙交易后再回来找我。
+context_136=你也来唐门有一阵子了，行走江湖总得要点盘缠什么的，为师就推荐你去镖局看看，那里鱼龙混杂，各种人都有，但未必不是一条发家致富之路。你可以去苏州镖局找何林雁看看。
+context_137=哼哼，干得不错。接下来你就去那市集上，会有很多忙碌的人（头顶显示离线身份的玩家），你骗他们来我这边打工，拿到他们的行李后带到我这边来，保证你大赚一笔。不过这契约比较粗糙，遇到那种有些江湖阅历的人来一次还不一定能成功，得多跟他聊几次，他相信你之后，会把行李交给你，把行李交给商人，能得到一笔不菲的金钱。
+context_138=镇里中很多人其实表面是正经商人，背后却是黑心商人，比如店铺的掌柜，码头的监工，大户人家的管家，山寨的头领，等等。背着打工者的行李去找这些人谈妥价钱就可以完成私牙交易。当然交易也得看着点，不能从哪里骗来还卖到哪里去，你自己看着办吧，完成私牙交易后再回来找我。
+context_141=嘘，不要声张，少侠，最近手头紧不？想发财么？我告诉你一条生财之道。如果真想跟着我说的做的话，你先去镇上杂货店老板那买五份契约一过来，我教你怎么发财。
+context_142=哼哼，干得不错。接下来你就去那市集上，会有很多忙碌的人（头顶显示离线身份的玩家），你骗他们来我这边打工，拿到他们的行李后带到我这边来，保证你大赚一笔。不过这契约比较粗糙，遇到那种有些江湖阅历的人来一次还不一定能成功，得多跟他聊几次，他相信你之后，会把行李交给你，把行李交给商人，能得到一笔不菲的金钱。
+context_143=镇里中很多人其实表面是正经商人，背后却是黑心商人，比如店铺的掌柜，码头的监工，大户人家的管家，山寨的头领，等等。背着打工者的行李去找这些人谈妥价钱就可以完成私牙交易。当然交易也得看着点，不能从哪里骗来还卖到哪里去，你自己看着办吧，完成私牙交易后再回来找我。
+context_144=这些牙侩越来越猖狂了，为了金钱，无视王法，干起了地下私牙的勾当，少侠刚踏入武林，希望你匡扶武林正义，不要走入邪门歪道啊。
+submit_120=<font face="Default" color="#ffffff" >契约我都拿来了。</font>
+submit_125=<font face="Default" color="#ffffff" >契约我都拿来了。</font>
+submit_130=<font face="Default" color="#ffffff" >契约我都拿来了。</font>
+target_120=去<a href="findnpc_new,born04,FuncNpc00007" style="HLStype1">杂货店掌柜</a>那买五份契约一
+target_125=去<a href="findnpc_new,born03,FuncNpc00055" style="HLStype1">杂货店掌柜</a>那买五份契约一
+target_126=去用契约一契约一个人，完成私牙交易
+target_129=攻克成为牙侩的玩家帮离线玩家抢回行李后回来复命
+target_130=去找<a href="findnpc_new,city05,FuncNpc00606" style="HLStype1">杂货店老板</a>买五份契约一
+target_131=去用契约完成一次私牙交易
+target_132=去把骗来的行李处理掉
+target_133=攻克成为牙侩的玩家帮离线玩家抢回行李后回来复命
+target_137=去用契约完成一次私牙交易
+target_138=去去把骗来的行李处理掉
+target_141=去找<a href="findnpc_new,born01,FuncNpc404" style="HLStype1">杂货店老板</a>买五份契约
+target_142=去用契约完成一次私牙交易
+target_143=去把骗来的行李处理掉
+target_144=攻克成为牙侩的玩家帮离线玩家抢回行李后回来复命
+title_120=牙侩
+title_125=牙侩
+title_126=牙侩
+title_130=牙侩
+title_131=牙侩
+title_132=牙侩
+title_137=牙侩
+title_138=牙侩
+title_141=牙侩
+title_142=牙侩
+title_143=牙侩
+context_1476=在寻找失踪的少女的过程中了解到在燕京城附近活跃着一个以私牙交易为生的组织。
+context_1477=在寻找失踪的少女的过程中了解到在苏州城附近活跃着一个以私牙交易为生的组织。
+context_1478=在寻找失踪的少女的过程中了解到在洛阳城附近活跃着一个以私牙交易为生的组织。
+context_1479=在寻找失踪的少女的过程中了解到在成都城附近活跃着一个以私牙交易为生的组织。
+context_1480=找到捕快安排在私牙组织里的线人，从他口中得知一些关于私牙组织的情况。
+context_1481=找到捕快安排在私牙组织里的线人，从他口中得知一些关于私牙组织的情况。
+context_1482=找到捕快安排在私牙组织里的线人，从他口中得知一些关于私牙组织的情况。
+context_1483=找到捕快安排在私牙组织里的线人，从他口中得知一些关于私牙组织的情况。
+context_1484=进行一次私牙交易获取私牙组织的信任，并能够成功的获得关于私牙组织犯罪的证据。(如果未能在规定的时间内完成任务，可以放弃任务，在<a href="findnpc_new,city01,hbyd001" style="HLStype1">许可</a>重新接受任务)
+context_1485=进行一次私牙交易获取私牙组织的信任，并能够成功的获得关于私牙组织犯罪的证据。(如果未能在规定的时间内完成任务，可以放弃任务，在<a href="findnpc_new,city02,hbyd002" style="HLStype1">李龙</a>重新接受任务)
+context_1486=进行一次私牙交易获取私牙组织的信任，并能够成功的获得关于私牙组织犯罪的证据。(如果未能在规定的时间内完成任务，可以放弃任务，在<a href="findnpc_new,city04,hbyd004" style="HLStype1">马奇松</a>重新接受任务)
+context_1487=进行一次私牙交易获取私牙组织的信任，并能够成功的获得关于私牙组织犯罪的证据。。(如果未能在规定的时间内完成任务，可以放弃任务，在<a href="findnpc_new,city05,hbyd005" style="HLStype1">单悦</a>重新接受任务)
+context_1488=把获得的私牙组织的犯罪证据交给捕快，结束潜入私牙组织任务，发布公告，还以真相。
+context_1489=把获得的私牙组织的犯罪证据交给捕快，结束潜入私牙组织任务，发布公告，还以真相。
+context_1490=把获得的私牙组织的犯罪证据交给捕快，结束潜入私牙组织任务，发布公告，还以真相。
+context_1491=把获得的私牙组织的犯罪证据交给捕快，结束潜入私牙组织任务，发布公告，还以真相。
+title_1480=追查私牙组织
+title_1481=追查私牙组织
+title_1482=追查私牙组织
+title_1483=追查私牙组织
+specialinfo_1011=楼云之令：成功完成五次私牙交易。（可在<font face="Default" color="#993300" >百晓语录-江湖情报-江湖争斗-江湖篇-绑匪侠士</font>查看玩法）
+specialinfo_1018=楼云之令：成功完成两次私牙交易。（可在<font face="Default" color="#993300" >百晓语录-江湖情报-江湖争斗-江湖篇-绑匪侠士</font>查看玩法）
+specialinfo_7455=其非常喜欢私牙交易，希望玩家用所给契约成功蒙骗离线玩家，获得他的行李之后交给各地的商人。
+specialinfo_7456=其非常喜欢私牙交易，希望玩家用所给契约成功蒙骗离线玩家，获得他的行李之后交给各地的商人。
+specialinfo_780=其非常喜欢私牙交易，希望玩家用所给契约成功蒙骗离线玩家，获得他的行李之后交给各地的商人。
+specialinfo_818=成功完成私牙交易
+specialinfo_741=请前去抢回两个打工者的行李
+specialinfo_526=完成一次私牙交易
+specialinfo_527=抢回一个打工者的行李
+specialinfo_550=完成一次私牙交易
+specialinfo_557=解抢回一个打工者的行李
+specialinfo_253=从牙侩手中抢回打工者的行李，乃是我辈匡扶正义之举
+specialinfo_144=成功抢回了一个打工者的行李
+specialinfo_276=去购买契约与一个打工的人洽谈，然后完成私牙交易
+specialinfo_195=伺机成功抢回打工者的行李
+specialinfo_232=为了能让唐四公活体试毒，你即刻去蒙骗一名路人过来
+specialinfo_233=将骗来的人交给给成都的牙侩，切不可让外人知晓我唐门暗地里做这种勾当
+specialinfo_234=江湖人说我唐门弟子皆是奸邪之辈，今日我唐门偏偏要让他们另眼相看，你速去帮一个江湖人抢回行李
+specialinfo_130=抢回一个打工者的行李
+DialogID_15=<font face="Default" color="#ffffff" >  那些牙侩玩家背上背着装行李的麻袋，头顶上上有个“侩”字，不管在任何地点看见牙侩玩家，任何人都可以对之发动攻击。只有攻克牙侩玩家，才能阻止他们的罪恶行径。</font>
+DialogID_16=<font face="Default" color="#ffffff" >  那些牙侩玩家背上背着装行李的麻袋，头顶上上有个“侩”字，不管在任何地点看见牙侩玩家，任何人都可以对之发动攻击。只有攻克牙侩玩家，才能阻止他们的罪恶行径。</font>
+DialogID_21=<font face="Default" color="#ffffff" >  那些牙侩玩家背上背着装行李的麻袋，头顶上上有个“侩”字，不管在任何地点看见牙侩玩家，任何人都可以对之发动攻击。只有攻克牙侩玩家，才能阻止他们的罪恶行径。</font>
+DialogID_42=<font face="Default" color="#ffffff" >  那些牙侩玩家背上背着装行李的麻袋，头顶上上有个“侩”字，不管在任何地点看见牙侩玩家，任何人都可以对之发动攻击。只有攻克牙侩玩家，才能阻止他们的罪恶行径。</font>
+collectinfo_20=去<a href="findnpc_new,born04,FuncNpc00007" style="HLStype1">杂货店掌柜</a>那买五份契约一
+collectinfo_21=收集<a href="findnpc_new,born03," style="HLStype1"></a>五份契约一
+collectinfo_22=去找<a href="findnpc_new,city05,FuncNpc00606" style="HLStype1">杂货店老板</a>买五份契约一
+collectinfo_23=去找<a href="findnpc_new,born01,FuncNpc404" style="HLStype1">杂货店老板</a>买五份契约一
+interact_offline_abduct=与离线玩家完成私牙洽谈，拿到他的行李回去复命
+interact_offline_sale=镇上有很多人暗地里参与私牙交易，你可以和码头监工<a href="findnpc_new,born04,WorldNpc00137" style="HLStype1">胖子李</a>或者药店掌柜<a href="findnpc_new,born04,FuncNpc00002" style="HLStype1">周仓</a>等等洽谈私牙交易。
+interact_offline_sale_chengdu=城里有很多人暗地里参与私牙交易，你可以和<a href="findnpc_new,city05,FuncNpc00615" style="HLStype1">客栈老板孙阿达</a>或首饰铺老板<a href="findnpc_new,city05,FuncNpc00604" style="HLStype1">周生生</a>等等洽谈私牙交易。
+interact_offline_sale_jmy=这里有很多人暗地里参与私牙交易，你可以和<a href="findnpc_new,born01,WorldNpc10941" style="HLStype1">客栈掌柜寿家</a>或煤矿监工<a href="findnpc_new,born01,WorldNpc10690" style="HLStype1">钱云</a>等等洽谈私牙交易。
+interact_offline_sale_yanyu=这里有很多人暗地里参与私牙交易，你可以和<a href="findnpc_new,born03,WorldNpc00535" style="HLStype1">赌坊打手杨小黑</a>或茶铺掌柜<a href="findnpc_new,born03,WorldNpc00512" style="HLStype1">常四海</a>等等洽谈私牙交易。
+interact_offline_save=击败一名牙侩玩家，然后帮助其抢回行李回来复命
+interactinfo_15=向<a href="findnpc_new,city05,WorldNpc09862" style="HLStype1">万军</a>询问如何找到牙侩
+interactinfo_16=询问<a href="findnpc_new,born01,WorldNpc10751" style="HLStype1">俞成</a>怎么找到牙侩
+specialinfo_284=用契约一与离线玩家完成私牙洽谈，拿到他的行李
+specialinfo_285=用契约一与离线玩家完成私牙洽谈，拿到他的行李。镇上有很多人暗地里参与私牙交易，你可以和码头监工<a href="findnpc_new,born04,WorldNpc00137" style="HLStype1">胖子李</a>或者药店掌柜<a href="findnpc_new,born04,FuncNpc00002" style="HLStype1">周仓</a>等等洽谈私牙交易。
+specialinfo_286=与用契约一与离线玩家完成私牙洽谈，拿到他的行李
+specialinfo_287=用契约一与离线玩家完成私牙洽谈，拿到他的行李。这里有有很多人暗地里参与私牙交易，你可以和<a href="findnpc_new,born03,WorldNpc00535" style="HLStype1">赌坊打手杨小黑</a>或茶铺掌柜<a href="findnpc_new,born03,WorldNpc00512" style="HLStype1">常四海</a>等等洽谈私牙交易。
+specialinfo_288=用契约一与离线玩家完成私牙洽谈，拿到他的行李
+specialinfo_289=用契约一与离线玩家完成私牙洽谈，拿到他的行李。城里有很多人暗地里参与私牙交易，你可以和<a href="findnpc_new,city05,FuncNpc00615" style="HLStype1">客栈老板孙阿达</a>或首饰铺老板<a href="findnpc_new,city05,FuncNpc00604" style="HLStype1">周生生</a>等等洽谈私牙交易。
+specialinfo_290=用契约一与离线玩家完成私牙洽谈，拿到他的行李
+specialinfo_291=用契约一与离线玩家完成私牙洽谈，拿到他的行李。这里有很多人暗地里参与私牙交易，你可以和<a href="findnpc_new,born01,WorldNpc10941" style="HLStype1">客栈掌柜寿家</a>或煤矿监工<a href="findnpc_new,born01,WorldNpc10690" style="HLStype1">钱云</a>等等洽谈私牙交易。
+DialogID_447=<font face="Default" color="#ffffff" >你收集到牙侩的犯罪证据了吗？</font>
+DialogID_448=<font face="Default" color="#ffffff" >你收集到牙侩的犯罪证据了吗？</font>
+DialogID_449=<font face="Default" color="#ffffff" >你收集到牙侩的犯罪证据了吗？</font>
+DialogID_450=<font face="Default" color="#ffffff" >你收集到牙侩的犯罪证据了吗？</font>
+QiecuoMenu_162=<font face="Default" color="#ffffff" >光天化日，朗朗乾坤，你竟敢在此私牙交易，看招。</font>
+QiecuoMenu_163=<font face="Default" color="#ffffff" >光天化日，朗朗乾坤，你竟敢在此私牙交易，看招。</font>
+QiecuoMenu_164=<font face="Default" color="#ffffff" >光天化日，朗朗乾坤，你竟敢在此私牙交易，看招。</font>
+QiecuoMenu_301=<font face="Default" color="#ffffff" >光天化日，朗朗乾坤，你竟敢在此私牙交易，看招。</font>
+SubmitNpcEx_1480=找<a href="findnpc_new,city01,WorldNpc08410" style="HLStype1">二强</a>了解私牙组织的情况
+collectinfo_221=到牙侩的老巢，从<a href="findnpc_new,city01,bjyd013" style="HLStype1">密函宝箱</a>中找到牙侩名册
+collectinfo_222=到牙侩的老巢，从<a href="findnpc_new,city02,bjyd013" style="HLStype1">密函宝箱</a>中找到牙侩名册
+collectinfo_223=到牙侩的老巢，从<a href="findnpc_new,city04,bjyd013" style="HLStype1">密函宝箱</a>中找到牙侩名册
+collectinfo_224=到牙侩的老巢，从<a href="findnpc_new,city05,bjyd013" style="HLStype1">密函宝箱</a>中找到牙侩名册
+hunterinfo_162=找到并击败<a href="findnpc_new,city02,bjyd001" style="HLStype1">牙侩</a>，抢回打工者的行李
+hunterinfo_163=找到并击败<a href="findnpc_new,city04,bjyd001" style="HLStype1">牙侩</a>，抢回打工者的行李
+hunterinfo_164=找到并击败<a href="findnpc_new,city05,bjyd001" style="HLStype1">牙侩</a>，抢回打工者的行李
+hunterinfo_301=找到并击败<a href="findnpc_new,city01,bjyd001" style="HLStype1">牙侩</a>，抢回被骗的打工者的行李
+interactinfo_421=从<a href="findnpc_new,city01,bjyd011" style="HLStype1">打工者的行李</a>解救出失踪的少女
+interactinfo_422=从<a href="findnpc_new,city02,bjyd011" style="HLStype1">打工者的行李</a>解救出失踪的少女
+interactinfo_423=从<a href="findnpc_new,city04,bjyd011" style="HLStype1">打工者的行李</a>解救出失踪的少女
+interactinfo_424=从<a href="findnpc_new,city05,bjyd011" style="HLStype1">打工者的行李</a>解救出失踪的少女
+interactinfo_435=捡起<a href="findnpc_new,city01,bjyd012" style="HLStype1">行李</a>
+interactinfo_436=捡起<a href="findnpc_new,city02,bjyd012" style="HLStype1">行李</a>
+interactinfo_437=捡起<a href="findnpc_new,city04,bjyd012" style="HLStype1">行李</a>
+interactinfo_438=捡起<a href="findnpc_new,city05,bjyd012" style="HLStype1">行李</a>
+interactinfo_439=把绑架来的人卖给<a href="findnpc_new,city01,FuncNpc00104" style="HLStype1">杜柏年</a>，并加入牙侩组织
+interactinfo_440=把绑来的人带给<a href="findnpc_new,city02,WorldNpc10316" style="HLStype1">大管家</a>，并加入牙侩组织
+interactinfo_441=把绑来的人带给<a href="findnpc_new,city04,FuncNpc00604" style="HLStype1">周生生</a>，并加入牙侩组织
+interactinfo_442=把绑来的人带给<a href="findnpc_new,city05,WorldNpc08410" style="HLStype1">二强</a>，并加入牙侩组织
+interactinfo_447=把牙侩的犯罪证据交给<a href="findnpc_new,city01,WorldNpc08965" style="HLStype1">湛刚雄</a>
+interactinfo_448=把牙侩的犯罪证据交给<a href="findnpc_new,city02,WorldNpc01246" style="HLStype1">范宏举</a>
+interactinfo_449=把牙侩的犯罪证据交给<a href="findnpc_new,city04,ly735" style="HLStype1">金仁路</a>
+interactinfo_450=把牙侩的犯罪证据交给<a href="findnpc_new,city05,cd483" style="HLStype1">元方</a>
+okmenu_439=<font face="Default" color="#ffffff" >还请你引荐我进入私牙组织。</font>
+okmenu_440=<font face="Default" color="#ffffff" >还请你引荐我进入私牙组织。</font>
+okmenu_441=<font face="Default" color="#ffffff" >还请你引荐我进入私牙组织。</font>
+okmenu_442=<font face="Default" color="#ffffff" >还请你引荐我进入私牙组织。</font>
+okmenu_447=<font face="Default" color="#ffffff" >这就是牙侩的犯罪证据，我们可以铲除他们了。</font>
+okmenu_448=<font face="Default" color="#ffffff" >这就是牙侩的犯罪证据，我们可以铲除他们了。</font>
+okmenu_449=<font face="Default" color="#ffffff" >这就是牙侩的犯罪证据，我们可以铲除他们了。</font>
+okmenu_450=<font face="Default" color="#ffffff" >这就是牙侩的犯罪证据，我们可以铲除他们了。</font>
+story_151_2=<font face="Default" color="#ffffff" >看来我们要想个办法铲除这个私牙组织。</font>
+story_152_2=<font face="Default" color="#ffffff" >看来我们要想个办法铲除这个私牙组织。</font>
+story_153_2=<font face="Default" color="#ffffff" >看来我们要想个办法铲除这个私牙组织。</font>
+story_154_2=<font face="Default" color="#ffffff" >看来我们要想个办法铲除这个私牙组织。</font>
+story_159_3=<font face="Default" color="#ffffff" >只有进入这个组织才有可能找到他们犯罪的线索。但是这个组织比较严格，你必须骗一个打工者的行李来， 我才能给你引荐。</font>
+story_160_3=<font face="Default" color="#ffffff" >只有进入这个组织才有可能找到他们犯罪的线索。但是这个组织比较严格，你必须骗一个打工者的行李来， 我才能给你引荐。</font>
+story_161_3=<font face="Default" color="#ffffff" >只有进入这个组织才有可能找到他们犯罪的线索。但是这个组织比较严格，你必须骗一个打工者的行李来， 我才能给你引荐。</font>
+story_162_3=<font face="Default" color="#ffffff" >只有进入这个组织才有可能找到他们犯罪的线索。但是这个组织比较严格，你必须骗一个打工者的行李来， 我才能给你引荐。</font>
+story_menu_155=<font face="Default" color="#ffffff" >关于牙侩组织不知道神捕有何看法？</font>
+story_menu_156=<font face="Default" color="#ffffff" >关于牙侩组织不知道神捕有何看法？</font>
+story_menu_157=<font face="Default" color="#ffffff" >关于牙侩组织不知道神捕有何看法？</font>
+story_menu_158=<font face="Default" color="#ffffff" >关于牙侩组织不知道神捕有何看法？</font>
+story_menu_164=<font face="Default" color="#ffffff" >神捕，我已经了解私牙组织了。</font>
+storyinfo_151=把发现牙侩一事告诉<a href="findnpc_new,city01,hbyd001" style="HLStype1">许可</a>
+storyinfo_152=把发现牙侩一事告诉<a href="findnpc_new,city02,hbyd002" style="HLStype1">李龙</a>
+storyinfo_153=把发现牙侩一事告诉<a href="findnpc_new,city04,hbyd004" style="HLStype1">马奇松</a>
+storyinfo_154=把发现牙侩一事告诉<a href="findnpc_new,city05,hbyd005" style="HLStype1">单悦</a>
+storyinfo_159=找<a href="findnpc_new,city01,WorldNpc08410" style="HLStype1">二强</a>了解牙侩组织的大致情况
+storyinfo_160=找<a href="findnpc_new,city02,FuncNpc00104" style="HLStype1">杜柏年</a>了解牙侩组织的大致情况
+storyinfo_161=找<a href="findnpc_new,city04,WorldNpc10316" style="HLStype1">大管家</a>了解牙侩组织的大致情况
+storyinfo_162=找<a href="findnpc_new,city05,FuncNpc00604" style="HLStype1">周生生</a>了解牙侩组织的大致情况
+storyinfo_164=把获得的关于牙侩组织的信息告诉<a href="findnpc_new,city02,hbyd002" style="HLStype1">李龙</a>，并商量潜入计划。
+storymenu_151_1=<font face="Default" color="#ffffff" >是的，在燕京范围内存在一批以私牙交易为营生的组织，他们坑害了很多人，赚了不少黑心钱。</font>
+storymenu_152_1=<font face="Default" color="#ffffff" >是的，在苏州范围内存在一批以私牙交易为营生的组织，他们坑害了很多人，赚了不少黑心钱。</font>
+storymenu_153_1=<font face="Default" color="#ffffff" >是的，在洛阳范围内存在一批以私牙交易为营生的组织，他们坑害了很多人，赚了不少黑心钱。</font>
+storymenu_154_1=<font face="Default" color="#ffffff" >是的，在成都范围内存在一批以私牙交易为营生的组织，他们坑害了很多人，赚了不少黑心钱。</font>
+storymenu_159_1=<font face="Default" color="#ffffff" >我是来找你了解下关于私牙组织情况的。</font>
+storymenu_160_1=<font face="Default" color="#ffffff" >我是来找你来了解下关于私牙组织情况的。</font>
+storymenu_161_1=<font face="Default" color="#ffffff" >我是来找你了解下关于私牙组织情况的。</font>
+storymenu_162_1=<font face="Default" color="#ffffff" >我是来找你了解下关于私牙组织情况的。</font>
+storymenu_164_2=<font face="Default" color="#ffffff" >我需要进行一次私牙，希望你们能够配合我演好这出戏，另外我需要些契约一。</font>
+useiteminfo_101=对<a href="findnpc_new,city01,bjyd002" style="HLStype1">王腾</a>使用<a href="TASK_ITEM,bj_yd01" style="HLStype1">契约一</a>，与他进行私牙交易(只有在规定的时间内，才能得到牙侩组织的信任)
+useiteminfo_102=对<a href="findnpc_new,city02,bjyd004" style="HLStype1">滕贤斌</a>使用<a href="TASK_ITEM,bj_yd04" style="HLStype1">契约一</a>，与他进行私牙交易(只有在规定的时间内，才能得到牙侩组织的信任)
+useiteminfo_103=对<a href="findnpc_new,city04,bjyd005" style="HLStype1">王文忠</a>使用<a href="TASK_ITEM,bj_yd05" style="HLStype1">契约一</a>，与他进行私牙交易(只有在规定的时间内，才能得到牙侩组织的信任)
+useiteminfo_104=对<a href="findnpc_new,city05,bjyd006" style="HLStype1">吴涛</a>使用<a href="TASK_ITEM,bj_yd06" style="HLStype1">契约一</a>，与他进行私牙交易(只有在规定的时间内，才能得到牙侩组织的信任)
+AbductNpc13b_1=热心百姓
+AbductNpc14b_1=热心百姓
+AbductNpc15b_1=热心百姓
+AbductNpc16b_1=热心百姓
+AbductNpc17b_1=热心百姓
+13506=您此次私牙交易获益<img src="gui\common\money\suiyin.png"  valign="center" />{@0:$}
+school_rule_event_4=触犯门规：不得为恶（私牙交易）
+school_rule_event_5=触犯门规：不得为恶（私牙交易）
+MaDai=行李
+specialinfo_1070=成功完成两次私牙交易
+13505=此次介绍来的人商家非常满意 ，额外赏你<img src="gui\common\money\liang.png"  valign="center" />{@0:$}
+ui_offline_form_zhinengchengwei=被牙侩介绍工作，成为：
+desc_buf_abduct_rescue_cd01_0=刚刚帮助过别人，身体比较虚弱，暂时无法帮助更多的人
+tvt_rule_010_hdfs=<s>给被牙侩介绍工作的玩家介绍更好的工作，并可获得侠义值让你侠风凛凛！
+tvt_rule_009_hdfs=<s>人在江湖走，难免断水断粮，这里有个好主意：看到街上那些离线打工的玩家了吗？给他们介绍更好的工作，可以从雇佣他们的商人那里拿到很多佣金。

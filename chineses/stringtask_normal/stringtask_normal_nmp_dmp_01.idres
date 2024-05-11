@@ -1,0 +1,670 @@
+﻿
+;=<a href="findnpc_new,school18,newmp_dmp_04" style="HLStype1">newmp_dmp_04</a>
+CanAcceptMenu_21700=<font face="Default" color="#ffffff" >嘴馋的弟子（可承接，</font><font face="Default" color="#ff0000" >此任务不可放弃</font><font face="Default" color="#ffffff" >）</font>
+CanAcceptMenu_21702=<font face="Default" color="#ffffff" >丢失的佛珠（可承接</font><font face="Default" color="#ffffff" >，</font><font face="Default" color="#ff0000" >此任务不可放弃</font><font face="Default" color="#ffffff" >）</font>
+CanAcceptMenu_21704=<font face="Default" color="#ffffff" >师叔。</font>
+CanAcceptMenu_21705=<font face="Default" color="#ffffff" >潜心修炼（可承接）</font>
+CanAcceptMenu_21706=<font face="Default" color="#ffffff" >偷经贼（可承接）</font>
+CanAcceptMenu_21710=<font face="Default" color="#ffffff" >达摩出世（可承接）</font>
+CanAcceptMenu_21715=<font face="Default" color="#ffffff" >达摩传闻</font><font face="Default" color="#ffffff" >（可承接）</font>
+CanAcceptMenu_21741=
+CanAcceptMenu_21750=<font face="Default" color="#ffffff" >菩提诡影</font>
+CanAcceptMenu_21751=悟我论禅
+CanAcceptMenu_21790=南无阿弥陀佛，弟子来领“门派颂经”周常任务
+CanAcceptMenu_21791=南无阿弥陀佛，弟子来领“苦修悟禅”日常任务
+CanAcceptMenu_21792=南无阿弥陀佛，弟子来领“苦修悟禅”日常任务
+CanAcceptMenu_21793=南无阿弥陀佛，弟子来领“苦修悟禅”日常任务
+CanAcceptMenu_21794=南无阿弥陀佛，弟子来领“苦修悟禅”日常任务
+CanAcceptMenu_21795=南无阿弥陀佛，弟子来领“苦修悟禅”日常任务
+CanAcceptMenu_21801=<font face="Default" color="#ffffff" >达摩渊源（一）</font>
+CanAcceptMenu_21802=<font face="Default" color="#ffffff" >达摩渊源（二）</font>
+CanAcceptMenu_21803=<font face="Default" color="#ffffff" >达摩渊源（三）</font>
+CanAcceptMenu_21804=<font face="Default" color="#ffffff" >达摩渊源（四）</font>
+CanAcceptMenu_21810=<font face="Default" color="#ffffff" >初入达摩</font><font face="Default" color="#ffffff" >(可承接)</font>
+CanAcceptMenu_21815=<font face="Default" color="#ffffff" >菩提心魔（可承接）</font>
+CanAcceptMenu_21900=<font face="Default" color="#ffffff" >二阶身份晋级挑战</font>
+CanAcceptMenu_21901=<font face="Default" color="#ffffff" >二阶身份晋级挑战（简单）</font>
+CanAcceptMenu_21902=<font face="Default" color="#ffffff" >二阶身份晋级挑战（普通）</font>
+CanAcceptMenu_21903=<font face="Default" color="#ffffff" >二阶身份晋级挑战（困难）</font>
+CanAcceptMenu_21904=<font face="Default" color="#ffffff" >三阶身份晋级挑战</font>
+CanAcceptMenu_21905=<font face="Default" color="#ffffff" >三阶身份晋级挑战（简单）</font>
+CanAcceptMenu_21906=<font face="Default" color="#ffffff" >三阶身份晋级挑战（普通）</font>
+CanAcceptMenu_21907=<font face="Default" color="#ffffff" >三阶身份晋级挑战（困难）</font>
+CanAcceptMenu_21908=<font face="Default" color="#ffffff" >四阶身份晋级挑战</font>
+CanAcceptMenu_21909=<font face="Default" color="#ffffff" >四阶身份晋级挑战（简单）</font>
+CanAcceptMenu_21910=<font face="Default" color="#ffffff" >四阶身份晋级挑战（普通）</font>
+CanAcceptMenu_21911=<font face="Default" color="#ffffff" >四阶身份晋级挑战（困难）</font>
+CanAcceptMenu_21912=<font face="Default" color="#ffffff" >五阶身份晋级挑战</font>
+CanAcceptMenu_21913=<font face="Default" color="#ffffff" >五阶身份晋级挑战（简单）</font>
+CanAcceptMenu_21914=<font face="Default" color="#ffffff" >五阶身份晋级挑战（普通）</font>
+CanAcceptMenu_21915=<font face="Default" color="#ffffff" >五阶身份晋级挑战（困难）</font>
+CanAcceptMenu_21916=<font face="Default" color="#ffffff" >六阶身份晋级挑战</font>
+CanAcceptMenu_21917=<font face="Default" color="#ffffff" >六阶身份晋级挑战（简单）</font>
+CanAcceptMenu_21918=<font face="Default" color="#ffffff" >六阶身份晋级挑战（普通）</font>
+CanAcceptMenu_21919=<font face="Default" color="#ffffff" >六阶身份晋级挑战（困难）</font>
+CanAcceptMenu_21920=<font face="Default" color="#ffffff" >七阶身份晋级挑战</font>
+CanAcceptMenu_21921=<font face="Default" color="#ffffff" >七阶身份晋级挑战（简单）</font>
+CanAcceptMenu_21922=<font face="Default" color="#ffffff" >七阶身份晋级挑战（普通）</font>
+CanAcceptMenu_21923=<font face="Default" color="#ffffff" >七阶身份晋级挑战（困难）</font>
+CanAcceptMenu_21924=<font face="Default" color="#ffffff" >八阶身份晋级挑战</font>
+CanAcceptMenu_21925=<font face="Default" color="#ffffff" >八阶身份晋级挑战（简单）</font>
+CanAcceptMenu_21926=<font face="Default" color="#ffffff" >八阶身份晋级挑战（普通）</font>
+CanAcceptMenu_21927=<font face="Default" color="#ffffff" >八阶身份晋级挑战（困难）</font>
+CanAcceptMenu_21928=<font face="Default" color="#ffffff" >九阶身份晋级挑战</font>
+CanAcceptMenu_21929=<font face="Default" color="#ffffff" >九阶身份晋级挑战（简单）</font>
+CanAcceptMenu_21930=<font face="Default" color="#ffffff" >九阶身份晋级挑战（普通）</font>
+CanAcceptMenu_21931=<font face="Default" color="#ffffff" >九阶身份晋级挑战（困难）</font>
+CanAcceptMenu_21932=<font face="Default" color="#ffffff" >十阶身份晋级挑战</font>
+CanAcceptMenu_21933=<font face="Default" color="#ffffff" >十阶身份晋级挑战（简单）</font>
+CanAcceptMenu_21934=<font face="Default" color="#ffffff" >十阶身份晋级挑战（普通）</font>
+CanAcceptMenu_21935=<font face="Default" color="#ffffff" >十阶身份晋级挑战（困难）</font>
+CompleteMenu_21700=<font face="Default" color="#ffffff" >嘴馋的弟子（已完成）</font>
+CompleteMenu_21701=<font face="Default" color="#ffffff" >嘴馋的弟子（已完成）</font>
+CompleteMenu_21702=<font face="Default" color="#ffffff" >丢失的佛珠（已完成）</font>
+CompleteMenu_21703=<font face="Default" color="#ffffff" >丢失的佛珠（已完成）</font>
+CompleteMenu_21704=<font face="Default" color="#ffffff" >辩经。</font>
+CompleteMenu_21705=<font face="Default" color="#ffffff" >潜心修炼（可提交）</font>
+CompleteMenu_21706=<font face="Default" color="#ffffff" >偷经贼（可</font><font face="Default" color="#ffffff" >提交</font><font face="Default" color="#ffffff" >）</font>
+CompleteMenu_21712=<font face="Default" color="#ffffff" >初</font><font face="Default" color="#ffffff" >入</font><font face="Default" color="#ffffff" >达摩（已完成）</font>
+CompleteMenu_21717=<font face="Default" color="#ffffff" >初入达摩（已完成）</font>
+CompleteMenu_21750=<font face="Default" color="#ffffff" >菩提诡影</font><font face="Default" color="#ffffff" >（提交任务）</font>
+CompleteMenu_21751=悟我论禅(可提交)
+CompleteMenu_21790=南无阿弥陀佛，弟子"门派颂经"任务已完成
+CompleteMenu_21791=南无阿弥陀佛，揭悟隐尊，弟子任务已完成
+CompleteMenu_21792=南无阿弥陀佛，揭悟隐尊，弟子任务已完成
+CompleteMenu_21793=南无阿弥陀佛，揭悟隐尊，弟子任务已完成
+CompleteMenu_21794=南无阿弥陀佛，揭悟隐尊，弟子任务已完成
+CompleteMenu_21795=南无阿弥陀佛，揭悟隐尊，弟子任务已完成
+CompleteMenu_21801=<font face="Default" color="#ffffff" >达摩渊源（一）（可提交）</font>
+CompleteMenu_21802=<font face="Default" color="#ffffff" >达摩渊源（二）（可提交）</font>
+CompleteMenu_21803=<font face="Default" color="#ffffff" >达摩渊源（三）（可提交）</font>
+CompleteMenu_21804=<font face="Default" color="#ffffff" >达摩渊源（四）（可提交）</font>
+CompleteMenu_21811=完成任务
+CompleteMenu_21812=<font face="Default" color="#ffffff" >完成任务</font>
+CompleteMenu_21814=<font face="Default" color="#ffffff" >完成任务</font>
+CompleteMenu_21815=<font face="Default" color="#ffffff" >完成任务</font>
+CompleteMenu_21817=<font face="Default" color="#ffffff" >完成任务</font>
+CompleteMenu_21821=<font face="Default" color="#ffffff" >完成任务</font>
+CompleteMenu_21900=<font face="Default" color="#ffffff" >完成任务</font>
+CompleteMenu_21901=<font face="Default" color="#ffffff" >多谢前辈手下留情。</font>
+CompleteMenu_21902=<font face="Default" color="#ffffff" >多谢前辈手下留情。</font>
+CompleteMenu_21903=<font face="Default" color="#ffffff" >多谢前辈手下留情。</font>
+CompleteMenu_21904=<font face="Default" color="#ffffff" >完成任务</font>
+CompleteMenu_21905=<font face="Default" color="#ffffff" >多谢前辈手下留情。</font>
+CompleteMenu_21906=<font face="Default" color="#ffffff" >多谢前辈手下留情。</font>
+CompleteMenu_21907=<font face="Default" color="#ffffff" >多谢前辈手下留情。</font>
+CompleteMenu_21908=<font face="Default" color="#ffffff" >完成任务</font>
+CompleteMenu_21909=<font face="Default" color="#ffffff" >多谢前辈手下留情。</font>
+CompleteMenu_21910=<font face="Default" color="#ffffff" >多谢前辈手下留情。</font>
+CompleteMenu_21911=<font face="Default" color="#ffffff" >多谢前辈手下留情。</font>
+CompleteMenu_21912=<font face="Default" color="#ffffff" >完成任务</font>
+CompleteMenu_21913=<font face="Default" color="#ffffff" >多谢前辈手下留情。</font>
+CompleteMenu_21914=<font face="Default" color="#ffffff" >多谢前辈手下留情。</font>
+CompleteMenu_21915=<font face="Default" color="#ffffff" >多谢前辈手下留情。</font>
+CompleteMenu_21916=<font face="Default" color="#ffffff" >完成任务</font>
+CompleteMenu_21917=<font face="Default" color="#ffffff" >多谢前辈手下留情。</font>
+CompleteMenu_21918=<font face="Default" color="#ffffff" >多谢前辈手下留情。</font>
+CompleteMenu_21919=<font face="Default" color="#ffffff" >多谢前辈手下留情。</font>
+CompleteMenu_21920=<font face="Default" color="#ffffff" >完成任务</font>
+CompleteMenu_21921=<font face="Default" color="#ffffff" >多谢前辈手下留情。</font>
+CompleteMenu_21922=<font face="Default" color="#ffffff" >多谢前辈手下留情。</font>
+CompleteMenu_21923=<font face="Default" color="#ffffff" >多谢前辈手下留情。</font>
+CompleteMenu_21924=<font face="Default" color="#ffffff" >完成任务</font>
+CompleteMenu_21925=<font face="Default" color="#ffffff" >多谢前辈手下留情。</font>
+CompleteMenu_21926=<font face="Default" color="#ffffff" >多谢前辈手下留情。</font>
+CompleteMenu_21927=<font face="Default" color="#ffffff" >多谢前辈手下留情。</font>
+CompleteMenu_21928=<font face="Default" color="#ffffff" >完成任务</font>
+CompleteMenu_21929=<font face="Default" color="#ffffff" >多谢前辈手下留情。</font>
+CompleteMenu_21930=<font face="Default" color="#ffffff" >多谢前辈手下留情。</font>
+CompleteMenu_21931=<font face="Default" color="#ffffff" >多谢前辈手下留情。</font>
+CompleteMenu_21932=<font face="Default" color="#ffffff" >完成任务</font>
+CompleteMenu_21933=<font face="Default" color="#ffffff" >多谢前辈手下留情。</font>
+CompleteMenu_21934=<font face="Default" color="#ffffff" >多谢前辈手下留情。</font>
+CompleteMenu_21935=<font face="Default" color="#ffffff" >多谢前辈手下留情。</font>
+SubmitNpcEx_21900=与<a href="findnpc_new,school18,newmp_dmp_09" style="HLStype1">善令</a>交谈
+SubmitNpcEx_21901=与<a href="findnpc_new,school18,newmp_dmp_09" style="HLStype1">善令</a>交谈
+SubmitNpcEx_21902=与<a href="findnpc_new,school18,newmp_dmp_09" style="HLStype1">善令</a>交谈
+SubmitNpcEx_21903=与<a href="findnpc_new,school18,newmp_dmp_09" style="HLStype1">善令</a>交谈
+SubmitNpcEx_21904=与<a href="findnpc_new,school18,newmp_dmp_08" style="HLStype1">缘未生</a>交谈
+SubmitNpcEx_21905=与<a href="findnpc_new,school18,newmp_dmp_08" style="HLStype1">缘未生</a>交谈
+SubmitNpcEx_21906=与<a href="findnpc_new,school18,newmp_dmp_08" style="HLStype1">缘未生</a>交谈
+SubmitNpcEx_21907=与<a href="findnpc_new,school18,newmp_dmp_08" style="HLStype1">缘未生</a>交谈
+SubmitNpcEx_21908=与<a href="findnpc_new,school18,newmp_dmp_07" style="HLStype1">无痕</a>交谈
+SubmitNpcEx_21909=与<a href="findnpc_new,school18,newmp_dmp_07" style="HLStype1">无痕</a>交谈
+SubmitNpcEx_21910=与<a href="findnpc_new,school18,newmp_dmp_07" style="HLStype1">无痕</a>交谈
+SubmitNpcEx_21911=与<a href="findnpc_new,school18,newmp_dmp_07" style="HLStype1">无痕</a>交谈
+SubmitNpcEx_21912=与<a href="findnpc_new,school18,newmp_dmp_06" style="HLStype1">法归摩罗</a>交谈
+SubmitNpcEx_21913=与<a href="findnpc_new,school18,newmp_dmp_06" style="HLStype1">法归摩罗</a>交谈
+SubmitNpcEx_21914=与<a href="findnpc_new,school18,newmp_dmp_06" style="HLStype1">法归摩罗</a>交谈
+SubmitNpcEx_21915=与<a href="findnpc_new,school18,newmp_dmp_06" style="HLStype1">法归摩罗</a>交谈
+SubmitNpcEx_21916=与<a href="findnpc_new,school18,newmp_dmp_05" style="HLStype1">那须陀</a>交谈
+SubmitNpcEx_21917=与<a href="findnpc_new,school18,newmp_dmp_05" style="HLStype1">那须陀</a>交谈
+SubmitNpcEx_21918=与<a href="findnpc_new,school18,newmp_dmp_05" style="HLStype1">那须陀</a>交谈
+SubmitNpcEx_21919=与<a href="findnpc_new,school18,newmp_dmp_05" style="HLStype1">那须陀</a>交谈
+SubmitNpcEx_21920=与<a href="findnpc_new,school18,newmp_dmp_04" style="HLStype1">袁智清</a>交谈
+SubmitNpcEx_21921=与<a href="findnpc_new,school18,newmp_dmp_04" style="HLStype1">袁智清</a>交谈
+SubmitNpcEx_21922=与<a href="findnpc_new,school18,newmp_dmp_04" style="HLStype1">袁智清</a>交谈
+SubmitNpcEx_21923=与<a href="findnpc_new,school18,newmp_dmp_04" style="HLStype1">袁智清</a>交谈
+SubmitNpcEx_21924=与<a href="findnpc_new,school18,newmp_dmp_03" style="HLStype1">具慧</a>交谈
+SubmitNpcEx_21925=与<a href="findnpc_new,school18,newmp_dmp_03" style="HLStype1">具慧</a>交谈
+SubmitNpcEx_21926=与<a href="findnpc_new,school18,newmp_dmp_03" style="HLStype1">具慧</a>交谈
+SubmitNpcEx_21927=与<a href="findnpc_new,school18,newmp_dmp_03" style="HLStype1">具慧</a>交谈
+SubmitNpcEx_21928=与<a href="findnpc_new,school18,newmp_dmp_02" style="HLStype1">笈摩陀</a>交谈
+SubmitNpcEx_21929=与<a href="findnpc_new,school18,newmp_dmp_02" style="HLStype1">笈摩陀</a>交谈
+SubmitNpcEx_21930=与<a href="findnpc_new,school18,newmp_dmp_02" style="HLStype1">笈摩陀</a>交谈
+SubmitNpcEx_21931=与<a href="findnpc_new,school18,newmp_dmp_02" style="HLStype1">笈摩陀</a>交谈
+SubmitNpcEx_21932=与<a href="findnpc_new,school18,newmp_dmp_01" style="HLStype1">缘觉释</a>交谈
+SubmitNpcEx_21933=与<a href="findnpc_new,school18,newmp_dmp_01" style="HLStype1">缘觉释</a>交谈
+SubmitNpcEx_21934=与<a href="findnpc_new,school18,newmp_dmp_01" style="HLStype1">缘觉释</a>交谈
+SubmitNpcEx_21935=与<a href="findnpc_new,school18,newmp_dmp_01" style="HLStype1">缘觉释</a>交谈
+accept_21700_1=<font face="Default" color="#ffffff" >哎，这几个嘴馋的东西，没有吃饱便去偷偷找东西吃，不慎吃了已经馊掉的食物，这不，现在肚子痛的不行！</font>
+accept_21702_1=<font face="Default" color="#ffffff" >我不小心把装佛珠的盒子打翻了，佛珠都丢了！师父肯定会怪罪我的！呜呜呜。</font>
+accept_21704_1=<font face="Default" color="#ffffff" >恩，你来了，可是有什么事？</font>
+accept_21705_1=<font face="Default" color="#ffffff" >你最近习武可有长进？</font>
+accept_21706_1=<font face="Default" color="#ffffff" >哎……哎，这可怎么办啊，急死我了。</font>
+accept_21710_1=<font face="Default" color="#ffffff" >阿弥陀佛，可有要事</font><font face="Default" color="#ffffff" >禀报？</font>
+accept_21715_1=<font face="Default" color="#ffffff" >哟，客官，</font><font face="Default" color="#ffffff" >恭喜发财，</font><font face="Default" color="#ffffff" >里面请。</font>
+accept_21741_1=
+accept_21750_1=<font face="Default" color="#ffffff" >近日，需要守卫本派菩提树，攻克来犯恶人，我派弟子需全力以赴</font>
+accept_21751_1=<font face="Default" color="#ffffff" >达摩派佛学广博，武理精妙，门下弟子既修禅，亦修武，理当禅武并举，以禅修心，以武强身，故而子定时于禅武台举行禅武之会，比武抢经，参禅悟道。比试之时，不得使用武学，点到为止，不可杀伤性命。</font>
+accept_21790_1=达摩祖师曾偈言“吾本来兹土，传法救迷情。一花开五叶，结果自然成”（我来到这里，本是为传妙法、救迷情。结果自然成）作为达摩弟子需每日颂经悟心明禅，在我这里参与“门派颂经”活动，获得一定积分之后便可完成此任务
+accept_21791_1=“心非心，物非物，心高于物，心是心，物是物，心物合一，心物是一”，扫地乃是日常修炼悟禅必须完成的事情之一，拿着扫把，再去庭院打扫下！
+accept_21792_1=“所有相皆是虚妄；一切有为法如梦幻泡影，如露亦如电，当作如是观”，香火乃我门鼎盛象征之一，拿着这些木材，找到火盆，照看下，别让火盆熄灭！
+accept_21793_1=“一花一世界， 一叶一春秋，佛虽成佛亦有劫，渡劫无心自成佛”，打水练体更修心，拿着水桶去水边打点水回来！
+accept_21794_1=“色即是空，空即是色”，带着油灯去四处看看其他的油灯，保证长明不灭，顾养本性！
+accept_21795_1=“终日看天不举头，桃花烂漫始抬眸;饶君更有遮天网，透得牢关即便休”，拿着鸡毛掸到佛像经文前打扫灰尘！
+accept_21801_1=<font face="Default" color="#ffffff" >达摩派庄严肃穆，佛音袅袅</font>
+accept_21802_1=<font face="Default" color="#ffffff" >当年我下山修行，徒步西行，拜于达摩门下，潜心修禅，禅意大成后回到少林继任主持之位，一直致力于两宗修好。此来找我可有何事？</font>
+accept_21803_1=<font face="Default" color="#ffffff" >玄怀大师如何回复？</font>
+accept_21804_1=<font face="Default" color="#ffffff" >玄怀方丈既致力于两宗修好，我亦乐于少林武学发扬，但传授武学乃门派大事，需要先请示玄怀方丈，亦需征得贵派掌门同意方可。</font>
+accept_21810_1=<font face="Default" color="#ffffff" >阿弥陀佛，你来得正好，老衲正有要事，需</font><font face="Default" color="#ffffff" >要</font><font face="Default" color="#ffffff" >托人去办。</font>
+accept_21815_1=<font face="Default" color="#ffffff" >如此便好。</font>
+accept_21900_1=<font face="Default" color="#ffffff" >身份晋级一共有“简单试炼”、“普通试炼”、“困难试炼”三种难度可供选择，在不同难度下所上交的</font><font face="Default" color="#ffffff" >菩提</font><font face="Default" color="#ffffff" >子数量不一，在下也会以不同功力与你切磋。</font>
+accept_21901_1=<font face="Default" color="#ffffff" >此番考验，一则是你的日常修行，其后才是你的武学修炼。若能通过试炼，你方能获得相应的身份。</font>
+accept_21902_1=<font face="Default" color="#ffffff" >此番考验，一则是你的日常修行，其后才是你的武学修炼。若能通过试炼，你方能获得相应的身份。</font>
+accept_21903_1=<font face="Default" color="#ffffff" >此番考验，一则是你的日常修行，其后才是你的武学修炼。若能通过试炼，你方能获得相应的身份。</font>
+accept_21904_1=<font face="Default" color="#ffffff" >身份晋级一共有“简单试炼”、“普通试炼”、“困难试炼”三种难度可供选择，在不同难度下所上交的</font><font face="Default" color="#ffffff" >菩提</font><font face="Default" color="#ffffff" >子数量不一，在下也会以不同功力与你切磋。</font>
+accept_21905_1=<font face="Default" color="#ffffff" >此番考验，一则是你的日常修行，其后才是你的武学修炼。若能通过试炼，你方能获得相应的身份。</font>
+accept_21906_1=<font face="Default" color="#ffffff" >此番考验，一则是你的日常修行，其后才是你的武学修炼。若能通过试炼，你方能获得相应的身份。</font>
+accept_21907_1=<font face="Default" color="#ffffff" >此番考验，一则是你的日常修行，其后才是你的武学修炼。若能通过试炼，你方能获得相应的身份。</font>
+accept_21908_1=<font face="Default" color="#ffffff" >身份晋级一共有“简单试炼”、“普通试炼”、“困难试炼”三种难度可供选择，在不同难度下所上交的</font><font face="Default" color="#ffffff" >菩提</font><font face="Default" color="#ffffff" >子数量不一，在下也会以不同功力与你切磋。</font>
+accept_21909_1=<font face="Default" color="#ffffff" >此番考验，一则是你的日常修行，其后才是你的武学修炼。若能通过试炼，你方能获得相应的身份。</font>
+accept_21910_1=<font face="Default" color="#ffffff" >此番考验，一则是你的日常修行，其后才是你的武学修炼。若能通过试炼，你方能获得相应的身份。</font>
+accept_21911_1=<font face="Default" color="#ffffff" >此番考验，一则是你的日常修行，其后才是你的武学修炼。若能通过试炼，你方能获得相应的身份。</font>
+accept_21912_1=<font face="Default" color="#ffffff" >身份晋级一共有“简单试炼”、“普通试炼”、“困难试炼”三种难度可供选择，在不同难度下所上交的</font><font face="Default" color="#ffffff" >菩提</font><font face="Default" color="#ffffff" >子数量不一，在下也会以不同功力与你切磋。</font>
+accept_21913_1=<font face="Default" color="#ffffff" >此番考验，一则是你的日常修行，其后才是你的武学修炼。若能通过试炼，你方能获得相应的身份。</font>
+accept_21914_1=<font face="Default" color="#ffffff" >此番考验，一则是你的日常修行，其后才是你的武学修炼。若能通过试炼，你方能获得相应的身份。</font>
+accept_21915_1=<font face="Default" color="#ffffff" >此番考验，一则是你的日常修行，其后才是你的武学修炼。若能通过试炼，你方能获得相应的身份。</font>
+accept_21916_1=<font face="Default" color="#ffffff" >身份晋级一共有“简单试炼”、“普通试炼”、“困难试炼”三种难度可供选择，在不同难度下所上交的</font><font face="Default" color="#ffffff" >菩提</font><font face="Default" color="#ffffff" >子数量不一，在下也会以不同功力与你切磋。</font>
+accept_21917_1=<font face="Default" color="#ffffff" >此番考验，一则是你的日常修行，其后才是你的武学修炼。若能通过试炼，你方能获得相应的身份。</font>
+accept_21918_1=<font face="Default" color="#ffffff" >此番考验，一则是你的日常修行，其后才是你的武学修炼。若能通过试炼，你方能获得相应的身份。</font>
+accept_21919_1=<font face="Default" color="#ffffff" >此番考验，一则是你的日常修行，其后才是你的武学修炼。若能通过试炼，你方能获得相应的身份。</font>
+accept_21920_1=<font face="Default" color="#ffffff" >身份晋级一共有“简单试炼”、“普通试炼”、“困难试炼”三种难度可供选择，在不同难度下所上交的</font><font face="Default" color="#ffffff" >菩提</font><font face="Default" color="#ffffff" >子数量不一，在下也会以不同功力与你切磋。</font>
+accept_21921_1=<font face="Default" color="#ffffff" >此番考验，一则是你的日常修行，其后才是你的武学修炼。若能通过试炼，你方能获得相应的身份。</font>
+accept_21922_1=<font face="Default" color="#ffffff" >此番考验，一则是你的日常修行，其后才是你的武学修炼。若能通过试炼，你方能获得相应的身份。</font>
+accept_21923_1=<font face="Default" color="#ffffff" >此番考验，一则是你的日常修行，其后才是你的武学修炼。若能通过试炼，你方能获得相应的身份。</font>
+accept_21924_1=<font face="Default" color="#ffffff" >身份晋级一共有“简单试炼”、“普通试炼”、“困难试炼”三种难度可供选择，在不同难度下所上交的</font><font face="Default" color="#ffffff" >菩提</font><font face="Default" color="#ffffff" >子数量不一，在下也会以不同功力与你切磋。</font>
+accept_21925_1=<font face="Default" color="#ffffff" >此番考验，一则是你的日常修行，其后才是你的武学修炼。若能通过试炼，你方能获得相应的身份。</font>
+accept_21926_1=<font face="Default" color="#ffffff" >此番考验，一则是你的日常修行，其后才是你的武学修炼。若能通过试炼，你方能获得相应的身份。</font>
+accept_21927_1=<font face="Default" color="#ffffff" >此番考验，一则是你的日常修行，其后才是你的武学修炼。若能通过试炼，你方能获得相应的身份。</font>
+accept_21928_1=<font face="Default" color="#ffffff" >身份晋级一共有“简单试炼”、“普通试炼”、“困难试炼”三种难度可供选择，在不同难度下所上交的</font><font face="Default" color="#ffffff" >菩提</font><font face="Default" color="#ffffff" >子数量不一，在下也会以不同功力与你切磋。</font>
+accept_21929_1=<font face="Default" color="#ffffff" >此番考验，一则是你的日常修行，其后才是你的武学修炼。若能通过试炼，你方能获得相应的身份。</font>
+accept_21930_1=<font face="Default" color="#ffffff" >此番考验，一则是你的日常修行，其后才是你的武学修炼。若能通过试炼，你方能获得相应的身份。</font>
+accept_21931_1=<font face="Default" color="#ffffff" >此番考验，一则是你的日常修行，其后才是你的武学修炼。若能通过试炼，你方能获得相应的身份。</font>
+accept_21932_1=<font face="Default" color="#ffffff" >身份晋级一共有“简单试炼”、“普通试炼”、“困难试炼”三种难度可供选择，在不同难度下所上交的</font><font face="Default" color="#ffffff" >菩提</font><font face="Default" color="#ffffff" >子数量不一，在下也会以不同功力与你切磋。</font>
+accept_21933_1=<font face="Default" color="#ffffff" >此番考验，一则是你的日常修行，其后才是你的武学修炼。若能通过试炼，你方能获得相应的身份。</font>
+accept_21934_1=<font face="Default" color="#ffffff" >此番考验，一则是你的日常修行，其后才是你的武学修炼。若能通过试炼，你方能获得相应的身份。</font>
+accept_21935_1=<font face="Default" color="#ffffff" >此番考验，一则是你的日常修行，其后才是你的武学修炼。若能通过试炼，你方能获得相应的身份。</font>
+complete_21700=<font face="Default" color="#ffffff" >这次多亏有你。</font>
+complete_21701=<font face="Default" color="#ffffff" >这次多亏有你</font><font face="Default" color="#ffffff" >。</font>
+complete_21702=<font face="Default" color="#ffffff" >多谢你啦。</font>
+complete_21703=<font face="Default" color="#ffffff" >多谢你啦。</font>
+complete_21704=<font face="Default" color="#ffffff" >你可明白了？</font>
+complete_21705=<font face="Default" color="#ffffff" >恩，不错，你进步很多呀。</font>
+complete_21706=<font face="Default" color="#ffffff" >多谢多谢，希望他们不会再来了。</font>
+complete_21712=<font face="Default" color="#ffffff" >加入我派？</font><font face="Default" color="#ffffff" >我派修行皆为苦修，</font><font face="Default" color="#ffffff" >你可想好了？</font>
+complete_21717=<font face="Default" color="#ffffff" >加入我派？我派修行皆为苦修，你可想好了？</font>
+complete_21741=
+complete_21750=<font face="Default" color="#ffffff" >干的甚好，本次</font><font face="Default" color="#ffffff" >你</font><font face="Default" color="#ffffff" >攻克来犯恶人出力，这是给予你的奖励。</font>
+complete_21751=<font face="Default" color="#ffffff" >看来你对禅悟又有了新的领悟。</font>
+complete_21790=达摩弟子需修身养性，悟禅通佛！你完成的很好！记得下周再来参与！
+complete_21791=每日三步任务，现在去做下一个吧，日积月累，必有所悟！奖励通过邮件发放！
+complete_21792=每日三步任务，现在去做下一个吧，日积月累，必有所悟！奖励通过邮件发放！
+complete_21793=每日三步任务，现在去做下一个吧，日积月累，必有所悟！奖励通过邮件发放！
+complete_21794=每日三步任务，现在去做下一个吧，日积月累，必有所悟！奖励通过邮件发放！
+complete_21795=每日三步任务，现在去做下一个吧，日积月累，必有所悟！奖励通过邮件发放！
+complete_21801=<font face="Default" color="#ffffff" >你为何人，前来可有何事？</font>
+complete_21802=<font face="Default" color="#ffffff" >是否已拜见玄怀大师？</font>
+complete_21803=<font face="Default" color="#ffffff" >年轻人还有何事？</font>
+complete_21811=<font face="Default" color="#ffffff" >《楞伽经》失落，非同小可，需从长计议，不可操之过急。你中那黑衣人一掌，估计受伤不轻，且先下去好生调息，将身子养好，免得日后留下病根，妨碍武学修炼。
+complete_21812=<font face="Default" color="#ffffff" >看你愁眉不展，莫非是有什么心事？</font>
+complete_21814=<font face="Default" color="#ffffff" >心魔</font><font face="Default" color="#ffffff" >可曾化解了</font><font face="Default" color="#ffffff" >？</font>
+complete_21815=<font face="Default" color="#ffffff" >伏魔窟戒备森严，又有三隐尊</font><font face="Default" color="#ffffff" >看守，法妄应无逃脱之理。只是以防万一，你还是去伏魔窟看一下为妙。</font>
+complete_21817=<font face="Default" color="#ffffff" >伏魔窟内情况如何？</font>
+complete_21821=<font face="Default" color="#ffffff" >原来如此，此番辛苦你了。</font><font face="Default" color="#ffffff" >日后仍需勤修佛法，多行善事，不可懈怠。</font>
+complete_21900=<font face="Default" color="#ffffff" >若是你已经准备妥当，那便自行选择罢。</font>
+complete_21901=<font face="Default" color="#ffffff" >想不到你的功夫竟然已有如此进展。</font>
+complete_21902=<font face="Default" color="#ffffff" >想不到你的功夫竟然已有如此进展。</font>
+complete_21903=<font face="Default" color="#ffffff" >想不到你的功夫竟然已有如此进展。</font>
+complete_21904=<font face="Default" color="#ffffff" >若是你已经准备妥当，那便自行选择罢。</font>
+complete_21905=<font face="Default" color="#ffffff" >想不到你的功夫竟然已有如此进展。</font>
+complete_21906=<font face="Default" color="#ffffff" >想不到你的功夫竟然已有如此进展。</font>
+complete_21907=<font face="Default" color="#ffffff" >想不到你的功夫竟然已有如此进展。</font>
+complete_21908=<font face="Default" color="#ffffff" >若是你已经准备妥当，那便自行选择罢。</font>
+complete_21909=<font face="Default" color="#ffffff" >想不到你的功夫竟然已有如此进展。</font>
+complete_21910=<font face="Default" color="#ffffff" >想不到你的功夫竟然已有如此进展。</font>
+complete_21911=<font face="Default" color="#ffffff" >想不到你的功夫竟然已有如此进展。</font>
+complete_21912=<font face="Default" color="#ffffff" >若是你已经准备妥当，那便自行选择罢。</font>
+complete_21913=<font face="Default" color="#ffffff" >想不到你的功夫竟然已有如此进展。</font>
+complete_21914=<font face="Default" color="#ffffff" >想不到你的功夫竟然已有如此进展。</font>
+complete_21915=<font face="Default" color="#ffffff" >想不到你的功夫竟然已有如此进展。</font>
+complete_21916=<font face="Default" color="#ffffff" >若是你已经准备妥当，那便自行选择罢。</font>
+complete_21917=<font face="Default" color="#ffffff" >想不到你的功夫竟然已有如此进展。</font>
+complete_21918=<font face="Default" color="#ffffff" >想不到你的功夫竟然已有如此进展。</font>
+complete_21919=<font face="Default" color="#ffffff" >想不到你的功夫竟然已有如此进展。</font>
+complete_21920=<font face="Default" color="#ffffff" >若是你已经准备妥当，那便自行选择罢。</font>
+complete_21921=<font face="Default" color="#ffffff" >想不到你的功夫竟然已有如此进展。</font>
+complete_21922=<font face="Default" color="#ffffff" >想不到你的功夫竟然已有如此进展。</font>
+complete_21923=<font face="Default" color="#ffffff" >想不到你的功夫竟然已有如此进展。</font>
+complete_21924=<font face="Default" color="#ffffff" >若是你已经准备妥当，那便自行选择罢。</font>
+complete_21925=<font face="Default" color="#ffffff" >想不到你的功夫竟然已有如此进展。</font>
+complete_21926=<font face="Default" color="#ffffff" >想不到你的功夫竟然已有如此进展。</font>
+complete_21927=<font face="Default" color="#ffffff" >想不到你的功夫竟然已有如此进展。</font>
+complete_21928=<font face="Default" color="#ffffff" >若是你已经准备妥当，那便自行选择罢。</font>
+complete_21929=<font face="Default" color="#ffffff" >想不到你的功夫竟然已有如此进展。</font>
+complete_21930=<font face="Default" color="#ffffff" >想不到你的功夫竟然已有如此进展。</font>
+complete_21931=<font face="Default" color="#ffffff" >想不到你的功夫竟然已有如此进展。</font>
+complete_21932=<font face="Default" color="#ffffff" >若是你已经准备妥当，那便自行选择罢。</font>
+complete_21933=<font face="Default" color="#ffffff" >想不到你的功夫竟然已有如此进展。</font>
+complete_21934=<font face="Default" color="#ffffff" >想不到你的功夫竟然已有如此进展。</font>
+complete_21935=<font face="Default" color="#ffffff" >想不到你的功夫竟然已有如此进展。</font>
+context_21700=师兄告知有几个弟子偷吃，不慎吃了馊掉的食物，腹痛难忍，急需鸡矢藤，还麻烦你前去采摘,采好后让其他弟子服下。
+context_21701=师兄让你去采摘鸡矢藤，采好后让其他弟子服下。
+context_21702=师弟不小心将要串好的佛珠盒打翻了，佛珠撒的到处都是，帮他找到遗失的佛珠。
+context_21703=师弟不小心将要串好的佛珠盒打翻了，佛珠撒的到处都是，帮他找到遗失的佛珠。
+context_21704=听闻吾派代掌门无相尊者自19岁时第一次参加辩经以后，再无对手，因此可见参悟佛法的重要性，可与师叔堕空辩经，加深对佛法的理解。
+context_21705=虽然没日没夜的修炼，但是不与人切磋总是不知道自己有没有长进，找找有没有空闲的师兄师弟，与他切磋一番。
+context_21706=金贞似乎有心事，前去一问方知是经书被一群偷经贼入侵了，经书被偷去不少，帮助他打败偷经贼。
+context_21710=近日江湖传言，达摩祖师出世，方丈闻后震惊，疑有江湖宵小冒名顶替，亵渎佛门祖师，欲派门下弟子下山一探究竟。
+context_21711=隐世已久的达摩派重出江湖，门下弟子四处游历，洛阳小乌村似有达摩弟子出没，前去拜访。
+context_21712=达摩弟子无故身死，事有蹊跷。奉方丈之命前往达摩派，拜见达摩掌门，禀告达摩弟子遇害一事。
+context_21715=隐世已久的达摩派重现江湖，门下弟子外出游历，开坛讲经。前去酒楼的小二处打听消息。
+context_21716=有不明人士偷袭达摩弟子，不知有何图谋，寻找线索，前去追查。
+context_21717=追击埋伏之人无果，先前往少林与摩林会合，再做打算。
+context_21718=加入达摩
+context_21740=作为我达摩弟子当尊师祖之志，游历四方，行医济世，普度众生，听下山归来的师兄弟们说到峨眉山那边最近有事发生，你可愿前往查看一番？
+context_21741=前往峨眉山脚下梅村附近查看情况。
+context_21742=下山为中毒之人收集药材
+context_21743=风雅阁阁主纱音在来门派游览，前去拜访下，看能否从她那获得所需药材。
+context_21744=找门派师兄慧尚，他那应该有菩提心的药材。
+context_21745=青凌师兄乃是药医圣手，十龄紫姜他那应该有，而且他也懂得化寒丹的炼制之法，前去求他帮帮忙吧。
+context_21746=经过一番寻找总算是得到解药化寒丹，立即前往峨眉救治伤者。
+context_21747=中毒之人毒也已经解了，此番经历也算是一种磨练了。
+context_21748=近日我派伏魔窟附近有野兽出没，经过铜人们合力已将野兽赶至一线天下面，作为我派弟子，你可愿前往除魔护派。
+context_21749=以传灯相续，点亮真理和慈悲，苦海里的众生有了希望。
+context_21750=菩提圣树为达摩派之象征，传闻得菩提树心者，可得无上妙法。江湖之中无数人士皆对菩提树心怀贪念，因而集结十方恶徒，暗中潜入达摩派，妄图将菩提树连根拔起，取得菩提树心。
+context_21751=达摩派佛学广博，武理精妙，门下弟子既修禅，亦修武，有主张以禅入武者，也有主张以武悟禅者，禅武之争，历来便是达摩派门内要务。而后达摩派高僧觉得无妄论争徒生执念，理当禅武并举，以禅修心，以武强身，你可于活动之时，参与悟我论禅活动，比武抢经，参禅悟道。比试之时，不得使用武学，点到为止，不可杀伤性命。
+context_21790=达摩祖师曾偈言“吾本来兹土，传法救迷情。一花开五叶，结果自然成”（我来到这里，本是为传妙法、救迷情。结果自然成）作为达摩弟子需每日颂经悟心明禅，通过参与袁智清这里的“门派颂经”玩法累计达到一定积分之后便可完成任务
+context_21791=“心非心，物非物，心高于物，心是心，物是物，心物合一，心物是一”，扫尘乃为物，除垢乃为心！揭悟隐尊让你拿着扫把，再去庭院打扫下！
+context_21792=“所有相皆是虚妄；一切有为法如梦幻泡影，如露亦如电，当作如是观”，揭悟隐尊让你拿着这些木材，找到火盆，照看下，别让火盆熄灭！
+context_21793=“一花一世界，一叶一春秋，佛虽成佛亦有劫，渡劫无心自成佛”，揭悟隐尊让你拿着水桶去水边打点水回来，以修身悟禅！
+context_21794=“色即是空，空即是色”，揭悟隐尊让你带着油灯去四处看看其他的油灯，保证长明不灭，顾养本性！
+context_21795=“终日看天不举头，桃花烂漫始抬眸;饶君更有遮天网，透得牢关即便休”，揭悟隐尊让你拿着鸡毛掸到佛像经文前打扫灰尘！
+context_21801=发现有不明人士在达摩派内，上前询问其来意。
+context_21802=拜见少林方丈玄怀大师
+context_21803=回复掌门玄怀大师已同意祖澄传授少林武学
+context_21804=回复祖澄，达摩掌门望其在达摩派传授少林武学，少林方丈玄怀大师亦已同意
+context_21810=无相禅尊似有要事相托，前去拜访，听从无相禅尊的吩咐。
+context_21811=少林护经弟子被神秘黑衣人袭击，《楞伽经》下落不明，将此事回禀无相禅尊。
+context_21812=与劫经黑衣人动手受伤，需要好生调养，治疗伤势，以免落下病根，妨碍武学修炼。
+context_21813=疗伤之时，突生心魔，前去询问无相禅尊心魔滋生的缘由。
+context_21814=依无妄行尊之言，炼制菩提丹，于菩提树下静坐，化解心魔。
+context_21815=依无妄行尊之言，化解心魔之患，向无相禅尊回复。
+context_21816=达摩罪僧法妄自创菩提心魔录，危害武林，后被达摩高手击败，囚禁于伏魔窟。前去伏魔窟一探，看法妄是否逃脱。
+context_21817=通过三隐尊的考验，进入伏魔窟，查看法妄是否脱困。
+context_21818=攻克法妄，将法妄身上的令牌交给无相禅尊，询问令牌来历。
+context_21819=白马寺举办楞伽法会，为免遭密宗之人算计，与定慧禅尊一同前往白马寺，打探虚实。
+context_21820=楞伽法会将至，密宗阴谋伺伏，白马寺内敌踪难觅，前去打探虚实。
+context_21821=密宗阴谋败露，法妄伏诛，《楞伽经》被毁，前往少林，向少林方丈请罪。
+context_21900=了解二阶身份晋级挑战
+context_21901=完成二阶身份晋级挑战（简单）
+context_21902=完成二阶身份晋级挑战（普通）
+context_21903=完成二阶身份晋级挑战（困难）
+context_21904=了解三阶身份晋级挑战
+context_21905=完成三阶身份晋级挑战（简单）
+context_21906=完成三阶身份晋级挑战（普通）
+context_21907=完成三阶身份晋级挑战（困难）
+context_21908=了解四阶身份晋级挑战
+context_21909=完成四阶身份晋级挑战（简单）
+context_21910=完成四阶身份晋级挑战（普通）
+context_21911=完成四阶身份晋级挑战（困难）
+context_21912=了解五阶身份晋级挑战
+context_21913=完成五阶身份晋级挑战（简单）
+context_21914=完成五阶身份晋级挑战（普通）
+context_21915=完成五阶身份晋级挑战（困难）
+context_21916=了解六阶身份晋级挑战
+context_21917=完成六阶身份晋级挑战（简单）
+context_21918=完成六阶身份晋级挑战（普通）
+context_21919=完成六阶身份晋级挑战（困难）
+context_21920=了解七阶身份晋级挑战
+context_21921=完成七阶身份晋级挑战（简单）
+context_21922=完成七阶身份晋级挑战（普通）
+context_21923=完成七阶身份晋级挑战（困难）
+context_21924=了解八阶身份晋级挑战
+context_21925=完成八阶身份晋级挑战（简单）
+context_21926=完成八阶身份晋级挑战（普通）
+context_21927=完成八阶身份晋级挑战（困难）
+context_21928=了解九阶身份晋级挑战
+context_21929=完成九阶身份晋级挑战（简单）
+context_21930=完成九阶身份晋级挑战（普通）
+context_21931=完成九阶身份晋级挑战（困难）
+context_21932=了解十阶身份晋级挑战
+context_21933=完成十阶身份晋级挑战（简单）
+context_21934=完成十阶身份晋级挑战（普通）
+context_21935=完成十阶身份晋级挑战（困难）
+menu_21700_1=<font face="Default" color="#ffffff" >原来如此，我有什么能帮上忙的吗？</font>
+menu_21702_1=<font face="Default" color="#ffffff" >你别着急，我去帮你找找。</font>
+menu_21704_1=<font face="Default" color="#ffffff" >师叔，我近日有一事始终参不透，似乎到了瓶颈，还请师叔点拨。</font>
+menu_21705_1=<font face="Default" color="#ffffff" >我正是想来向师兄讨教呢。</font>
+menu_21706_1=<font face="Default" color="#ffffff" >先别着急，你这是怎么了？说不定我能帮上你。</font>
+menu_21710_1=<font face="Default" color="#ffffff" >弟子</font><font face="Default" color="#ffffff" >忝为佛门弟子</font><font face="Default" color="#ffffff" >，近日</font><font face="Default" color="#ffffff" >听闻有江湖宵小假冒达摩祖师，妖言惑众，有辱佛门清誉</font><font face="Default" color="#ffffff" >，</font><font face="Default" color="#ffffff" >想去一探究竟，还望方丈恩准。</font>
+menu_21715_1=<font face="Default" color="#ffffff" >听说隐世已久的达摩派重现江湖，只是众说纷纭，不知真假。此处客人来往频繁，耳目灵通，若是有什么</font><font face="Default" color="#ffffff" >达摩派的</font><font face="Default" color="#ffffff" >消息，还望小哥告知。</font>
+menu_21741_1=
+menu_21750_1=<font face="Default" color="#ffffff" >好的</font>
+menu_21751_1=<font face="Default" color="#ffffff" >谨遵尊者之命。</font>
+menu_21790_1=南无阿弥陀佛
+menu_21791_1=南无阿弥陀佛
+menu_21792_1=南无阿弥陀佛
+menu_21793_1=南无阿弥陀佛
+menu_21794_1=南无阿弥陀佛
+menu_21795_1=南无阿弥陀佛
+menu_21801_1=<font face="Default" color="#ffffff" >前辈来访达摩派所为何事？</font>
+menu_21802_1=<font face="Default" color="#ffffff" >听闻达摩少林本为同源之宗，恰逢少林祖澄大师来访达摩派，遂向掌门提出想要学习少林武学之愿。掌门命我拜访玄怀大师以求同意。</font>
+menu_21803_1=<font face="Default" color="#ffffff" >玄怀大师已然同意由祖澄大师传授少林武学</font>
+menu_21804_1=<font face="Default" color="#ffffff" >大师所言甚是，之前我已请示过我派掌门无相尊者，并奉掌门之命拜见过玄怀大师，其已同意前辈在达摩派传授少林武学。</font>
+menu_21810_1=<font face="Default" color="#ffffff" >掌门但有吩咐，弟子</font><font face="Default" color="#ffffff" >莫不遵从</font><font face="Default" color="#ffffff" >。</font>
+menu_21815_1=<font face="Default" color="#ffffff" >有劳掌门了。</font>
+menu_21900_1=<font face="Default" color="#ffffff" >弟子明白。</font>
+menu_21901_1=<font face="Default" color="#ffffff" >弟子晓得。</font>
+menu_21902_1=<font face="Default" color="#ffffff" >弟子晓得。</font>
+menu_21903_1=<font face="Default" color="#ffffff" >弟子晓得。</font>
+menu_21904_1=<font face="Default" color="#ffffff" >弟子明白。</font>
+menu_21905_1=<font face="Default" color="#ffffff" >弟子晓得。</font>
+menu_21906_1=<font face="Default" color="#ffffff" >弟子晓得。</font>
+menu_21907_1=<font face="Default" color="#ffffff" >弟子晓得。</font>
+menu_21908_1=<font face="Default" color="#ffffff" >弟子明白。</font>
+menu_21909_1=<font face="Default" color="#ffffff" >弟子晓得。</font>
+menu_21910_1=<font face="Default" color="#ffffff" >弟子晓得。</font>
+menu_21911_1=<font face="Default" color="#ffffff" >弟子晓得。</font>
+menu_21912_1=<font face="Default" color="#ffffff" >弟子明白。</font>
+menu_21913_1=<font face="Default" color="#ffffff" >弟子晓得。</font>
+menu_21914_1=<font face="Default" color="#ffffff" >弟子晓得。</font>
+menu_21915_1=<font face="Default" color="#ffffff" >弟子晓得。</font>
+menu_21916_1=<font face="Default" color="#ffffff" >弟子明白。</font>
+menu_21917_1=<font face="Default" color="#ffffff" >弟子晓得。</font>
+menu_21918_1=<font face="Default" color="#ffffff" >弟子晓得。</font>
+menu_21919_1=<font face="Default" color="#ffffff" >弟子晓得。</font>
+menu_21920_1=<font face="Default" color="#ffffff" >弟子明白。</font>
+menu_21921_1=<font face="Default" color="#ffffff" >弟子晓得。</font>
+menu_21922_1=<font face="Default" color="#ffffff" >弟子晓得。</font>
+menu_21923_1=<font face="Default" color="#ffffff" >弟子晓得。</font>
+menu_21924_1=<font face="Default" color="#ffffff" >弟子明白。</font>
+menu_21925_1=<font face="Default" color="#ffffff" >弟子晓得。</font>
+menu_21926_1=<font face="Default" color="#ffffff" >弟子晓得。</font>
+menu_21927_1=<font face="Default" color="#ffffff" >弟子晓得。</font>
+menu_21928_1=<font face="Default" color="#ffffff" >弟子明白。</font>
+menu_21929_1=<font face="Default" color="#ffffff" >弟子晓得。</font>
+menu_21930_1=<font face="Default" color="#ffffff" >弟子晓得。</font>
+menu_21931_1=<font face="Default" color="#ffffff" >弟子晓得。</font>
+menu_21932_1=<font face="Default" color="#ffffff" >弟子明白。</font>
+menu_21933_1=<font face="Default" color="#ffffff" >弟子晓得。</font>
+menu_21934_1=<font face="Default" color="#ffffff" >弟子晓得。</font>
+menu_21935_1=<font face="Default" color="#ffffff" >弟子晓得。</font>
+next_21701=找<a href="findnpc_new,school18,npc_dmp_mxm01" style="HLStype1">师兄</a>完成任务
+next_21703=找<a href="findnpc_new,school18,npc_dmp_mxm07" style="HLStype1">空阑</a>完成任务
+next_21705=找<a href="findnpc_new,school18,npc_dmp_mxm14" style="HLStype1">竹如</a>完成任务
+next_21706=找<a href="findnpc_new,school18,npc_dmp_mxm15" style="HLStype1">金贞</a>完成任务
+next_21712=找<a href="findnpc_new,school18,npc_damo_xu_001" style="HLStype1">张月</a>完成任务
+next_21717=找<a href="findnpc_new,school18,npc_damo_xu_005" style="HLStype1">吴一兀</a>提交任务
+next_21718=找<a href="findnpc_new,school18,npc_damo_xu_006" style="HLStype1">叶人辰</a>提交任务
+next_21790=完成门派颂经
+next_21791=到<a href="findnpc_new,school18,newmp_dmp_12" style="HLStype1">纳笈(揭悟隐尊)</a>处参与“苦修悟禅”日常任务
+next_21792=到<a href="findnpc_new,school18,newmp_dmp_12" style="HLStype1">纳笈(揭悟隐尊)</a>处参与“苦修悟禅”日常任务
+next_21793=到<a href="findnpc_new,school18,newmp_dmp_12" style="HLStype1">纳笈(揭悟隐尊)</a>处参与“苦修悟禅”日常任务
+next_21794=到<a href="findnpc_new,school18,newmp_dmp_12" style="HLStype1">纳笈(揭悟隐尊)</a>处参与“苦修悟禅”日常任务
+next_21795=到<a href="findnpc_new,school18,newmp_dmp_12" style="HLStype1">纳笈(揭悟隐尊)</a>处参与“苦修悟禅”日常任务
+next_21801=<a href="findnpc_new,school08,WorldNpc00212" style="HLStype1">玄怀大师</a>
+next_21802=<a href="findnpc_new,school08,WorldNpc00212" style="HLStype1">玄怀大师</a>
+next_21803=<a href="findnpc_new,school18,newmp_dmp_sldh01" style="HLStype1">祖澄</a>
+next_21804=<a href="findnpc_new,school18,newmp_dmp_sldh01" style="HLStype1">祖澄</a>
+submit_21700=<font face="Default" color="#ffffff" >这次多亏有你。</font>
+submit_21701=<font face="Default" color="#ffffff" >不客气。</font>
+submit_21702=<font face="Default" color="#ffffff" >不用客气，同门之间本来就应该互相帮助。</font>
+submit_21703=<font face="Default" color="#ffffff" >不用客气，同门之间本来就应该互相帮助。</font>
+submit_21704=<font face="Default" color="#ffffff" >多谢师叔，我已是茅塞顿开。</font>
+submit_21705=<font face="Default" color="#ffffff" >是师兄承让了。</font>
+submit_21706=<font face="Default" color="#ffffff" >举手之劳。</font>
+submit_21712=<font face="Default" color="#ffffff" >我想好了。</font>
+submit_21717=<font face="Default" color="#ffffff" >我想好了。</font>
+submit_21741=
+submit_21750=<font face="Default" color="#ffffff" >多谢师父</font><font face="Default" color="#ffffff" >谬赞</font>
+submit_21751=<font face="Default" color="#ffffff" >尊者过誉。</font>
+submit_21790=南无阿弥陀佛，弟子明白！
+submit_21791=南无阿弥陀佛，弟子明白！
+submit_21792=南无阿弥陀佛，弟子明白！
+submit_21793=南无阿弥陀佛，弟子明白！
+submit_21794=南无阿弥陀佛，弟子明白！
+submit_21795=南无阿弥陀佛，弟子明白！
+submit_21801=<font face="Default" color="#ffffff" >我为达摩派弟子，奉我派掌门之命前来拜见玄怀大师</font>
+submit_21802=<font face="Default" color="#ffffff" >弟子适才拜见归来。</font>
+submit_21803=<font face="Default" color="#ffffff" >前辈，久闻少林武学精湛，可否传授在下。</font>
+submit_21811=谢掌门关心，弟子告退。
+submit_21812=<font face="Default" color="#ffffff" >不瞒禅尊，弟子适才打坐调息，突觉心神不宁，恍如间竟陷入幻境，有心魔滋生。弟子惶恐，不知何故，特来询问。</font>
+submit_21814=<font face="Default" color="#ffffff" >回禀掌门，弟子已依无妄行尊之言，化解了心魔。</font>
+submit_21815=<font face="Default" color="#ffffff" >是，弟子这</font><font face="Default" color="#ffffff" >便前去</font><font face="Default" color="#ffffff" >！</font>
+submit_21817=<font face="Default" color="#ffffff" >启禀</font><font face="Default" color="#ffffff" >掌门，弟子</font><font face="Default" color="#ffffff" >奉命</font><font face="Default" color="#ffffff" >至伏魔窟内查看，不料那法妄竟突然脱困，对弟子狠下毒手。弟子迫不得已，只好将其攻克，这是法妄身上遗留的令牌，弟子不知来历，请方丈过目。</font>
+submit_21821=<font face="Default" color="#ffffff" >弟子谨记掌门教诲。</font>
+submit_21900=<font face="Default" color="#ffffff" >弟子明白。</font>
+submit_21901=<font face="Default" color="#ffffff" >多谢前辈夸奖。</font>
+submit_21902=<font face="Default" color="#ffffff" >多谢前辈夸奖。</font>
+submit_21903=<font face="Default" color="#ffffff" >多谢前辈夸奖。</font>
+submit_21904=<font face="Default" color="#ffffff" >弟子明白。</font>
+submit_21905=<font face="Default" color="#ffffff" >多谢前辈夸奖。</font>
+submit_21906=<font face="Default" color="#ffffff" >多谢前辈夸奖。</font>
+submit_21907=<font face="Default" color="#ffffff" >多谢前辈夸奖。</font>
+submit_21908=<font face="Default" color="#ffffff" >弟子明白。</font>
+submit_21909=<font face="Default" color="#ffffff" >多谢前辈夸奖。</font>
+submit_21910=<font face="Default" color="#ffffff" >多谢前辈夸奖。</font>
+submit_21911=<font face="Default" color="#ffffff" >多谢前辈夸奖。</font>
+submit_21912=<font face="Default" color="#ffffff" >弟子明白。</font>
+submit_21913=<font face="Default" color="#ffffff" >多谢前辈夸奖。</font>
+submit_21914=<font face="Default" color="#ffffff" >多谢前辈夸奖。</font>
+submit_21915=<font face="Default" color="#ffffff" >多谢前辈夸奖。</font>
+submit_21916=<font face="Default" color="#ffffff" >弟子明白。</font>
+submit_21917=<font face="Default" color="#ffffff" >多谢前辈夸奖。</font>
+submit_21918=<font face="Default" color="#ffffff" >多谢前辈夸奖。</font>
+submit_21919=<font face="Default" color="#ffffff" >多谢前辈夸奖。</font>
+submit_21920=<font face="Default" color="#ffffff" >弟子明白。</font>
+submit_21921=<font face="Default" color="#ffffff" >多谢前辈夸奖。</font>
+submit_21922=<font face="Default" color="#ffffff" >多谢前辈夸奖。</font>
+submit_21923=<font face="Default" color="#ffffff" >多谢前辈夸奖。</font>
+submit_21924=<font face="Default" color="#ffffff" >弟子明白。</font>
+submit_21925=<font face="Default" color="#ffffff" >多谢前辈夸奖。</font>
+submit_21926=<font face="Default" color="#ffffff" >多谢前辈夸奖。</font>
+submit_21927=<font face="Default" color="#ffffff" >多谢前辈夸奖。</font>
+submit_21928=<font face="Default" color="#ffffff" >弟子明白。</font>
+submit_21929=<font face="Default" color="#ffffff" >多谢前辈夸奖。</font>
+submit_21930=<font face="Default" color="#ffffff" >多谢前辈夸奖。</font>
+submit_21931=<font face="Default" color="#ffffff" >多谢前辈夸奖。</font>
+submit_21932=<font face="Default" color="#ffffff" >弟子明白。</font>
+submit_21933=<font face="Default" color="#ffffff" >多谢前辈夸奖。</font>
+submit_21934=<font face="Default" color="#ffffff" >多谢前辈夸奖。</font>
+submit_21935=<font face="Default" color="#ffffff" >多谢前辈夸奖。</font>
+target_21700=采摘鸡矢藤
+target_21701=让其他弟子服下鸡矢藤
+target_21702=寻找丢失的佛珠。
+target_21703=寻找丢失的佛珠。
+target_21704=与师叔辩经。
+target_21705=与师兄弟切磋。
+target_21706=打败偷经贼。
+target_21710=拜访方丈，请求下山，查探达摩出世的真相。
+target_21711=洛阳小乌村似有达摩弟子讲经，前去拜访。
+target_21712=前往达摩派，拜见掌门，禀告达摩弟子遇害一事。
+target_21715=找到张全，打听达摩派弟子的消息。
+target_21716=寻找线索，追查偷袭的江湖人士。
+target_21717=与摩林回合
+target_21718=加入达摩
+target_21740=前往峨眉山脚下梅村附近查看情况。
+target_21741=救助中毒之人。
+target_21742=去门派山脚下看看，能否找到所需药材。
+target_21743=拜访风雅阁阁主纱音
+target_21744=去找师兄慧尚帮忙。
+target_21745=去找青凌师兄帮忙炼制丹药
+target_21746=去峨眉梅村救治中毒之人。
+target_21747=返回师门，去找师兄那尊告知此番经历。
+target_21748=在师兄迦皮帮助下送你进入一线天附近，并在铜人协助下除掉前来门派捣乱的野兽，保护门派安全。
+target_21749=我可以助你进入传灯祈福区域，完成传灯祈福。
+target_21750=前往智上(-519,-252)处，守卫菩提树，攻克来犯之人
+target_21751=遵袁尊者之命，参与“悟我论禅”活动，比武参禅，提升自我禅道。
+target_21790=门派颂经积分达到1000
+target_21791=拿着扫把到庭院打扫
+target_21792=拿着木柴照看火盆
+target_21793=拿着水桶去水边打水
+target_21794=去寺院四处照看油灯
+target_21795=拿着鸡毛掸到佛像经文前打扫灰尘
+target_21801=了解不明人士来意，禀明掌门。
+target_21802=拜见少林方丈玄怀大师，望其准许祖澄传授少林武学
+target_21803=回复掌门玄怀大师已同意祖澄传授少林武学
+target_21804=回复祖澄，我派掌门望其在达摩派传授少林武学，玄怀大师亦已同意
+target_21810=拜访无相禅尊，听从无相禅尊的吩咐。
+target_21811=拜访无相禅尊，回禀《楞伽经》失落一事。
+target_21812=回房中打坐，调养伤势。
+target_21813=拜访无相禅尊，询问心魔滋生的缘由。
+target_21814=依无妄行尊所说之法，化解心魔。
+target_21815=化解心魔之后，拜访无相禅尊。
+target_21816=前往伏魔窟，看法妄是否逃出生天。
+target_21817=进入伏魔窟，查看法妄是否脱困。
+target_21818=拜见无相禅尊，告知伏魔窟之事。
+target_21819=拜访定慧禅尊，商量白马寺事宜。
+target_21820=进入白马寺内，打探虚实。
+target_21821=前往少林，向少林方丈请罪。
+target_21900=了解二阶身份晋级挑战
+target_21901=完成二阶身份晋级挑战（简单）
+target_21902=完成二阶身份晋级挑战（普通）
+target_21903=完成二阶身份晋级挑战（困难）
+target_21904=了解三阶身份晋级挑战
+target_21905=完成三阶身份晋级挑战（简单）
+target_21906=完成三阶身份晋级挑战（普通）
+target_21907=完成三阶身份晋级挑战（困难）
+target_21908=了解四阶身份晋级挑战
+target_21909=完成四阶身份晋级挑战（简单）
+target_21910=完成四阶身份晋级挑战（普通）
+target_21911=完成四阶身份晋级挑战（困难）
+target_21912=了解五阶身份晋级挑战
+target_21913=完成五阶身份晋级挑战（简单）
+target_21914=完成五阶身份晋级挑战（普通）
+target_21915=完成五阶身份晋级挑战（困难）
+target_21916=了解六阶身份晋级挑战
+target_21917=完成六阶身份晋级挑战（简单）
+target_21918=完成六阶身份晋级挑战（普通）
+target_21919=完成六阶身份晋级挑战（困难）
+target_21920=了解七阶身份晋级挑战
+target_21921=完成七阶身份晋级挑战（简单）
+target_21922=完成七阶身份晋级挑战（普通）
+target_21923=完成七阶身份晋级挑战（困难）
+target_21924=了解八阶身份晋级挑战
+target_21925=完成八阶身份晋级挑战（简单）
+target_21926=完成八阶身份晋级挑战（普通）
+target_21927=完成八阶身份晋级挑战（困难）
+target_21928=了解九阶身份晋级挑战
+target_21929=完成九阶身份晋级挑战（简单）
+target_21930=完成九阶身份晋级挑战（普通）
+target_21931=完成九阶身份晋级挑战（困难）
+target_21932=了解十阶身份晋级挑战
+target_21933=完成十阶身份晋级挑战（简单）
+target_21934=完成十阶身份晋级挑战（普通）
+target_21935=完成十阶身份晋级挑战（困难）
+title_21700=嘴馋的弟子
+title_21701=嘴馋的弟子（二）
+title_21702=丢失的佛珠
+title_21703=丢失的佛珠
+title_21704=辩经
+title_21705=潜心修炼
+title_21706=偷经贼
+title_21710=达摩出世
+title_21711=寻访达摩
+title_21712=初入达摩
+title_21715=达摩传闻
+title_21716=追查敌踪
+title_21717=初入达摩
+title_21718=初入达摩
+title_21740=行医济世
+title_21741=行医济世
+title_21742=行医济世
+title_21743=行医济世
+title_21744=行医济世
+title_21745=行医济世
+title_21746=行医济世
+title_21747=行医济世
+title_21748=铜人伏魔
+title_21749=传灯祈福
+title_21750=菩提诡影
+title_21790=门派颂经（周常）
+title_21791=苦修悟禅（日常）
+title_21792=苦修悟禅（日常）
+title_21793=苦修悟禅（日常）
+title_21794=苦修悟禅（日常）
+title_21795=苦修悟禅（日常）
+title_21801=达摩渊源（一）
+title_21802=达摩渊源（二）
+title_21803=达摩渊源（三）
+title_21804=达摩渊源（四）
+title_21810=初入达摩
+title_21811=楞伽疑云
+title_21812=心魔诡影
+title_21813=心魔缘由
+title_21814=菩提化魔
+title_21815=菩提心魔
+title_21816=伏魔法妄
+title_21817=偷天换日
+title_21818=真假法妄
+title_21819=白马之行
+title_21820=白马敌踪
+title_21821=楞伽经书
+title_21900=二阶身份晋级挑战
+title_21901=二阶身份晋级挑战（简单）
+title_21902=二阶身份晋级挑战（普通）
+title_21903=二阶身份晋级挑战（困难）
+title_21904=三阶身份晋级挑战
+title_21905=三阶身份晋级挑战（简单）
+title_21906=三阶身份晋级挑战（普通）
+title_21907=三阶身份晋级挑战（困难）
+title_21908=四阶身份晋级挑战
+title_21909=四阶身份晋级挑战（简单）
+title_21910=四阶身份晋级挑战（普通）
+title_21911=四阶身份晋级挑战（困难）
+title_21912=五阶身份晋级挑战
+title_21913=五阶身份晋级挑战（简单）
+title_21914=五阶身份晋级挑战（普通）
+title_21915=五阶身份晋级挑战（困难）
+title_21916=六阶身份晋级挑战
+title_21917=六阶身份晋级挑战（简单）
+title_21918=六阶身份晋级挑战（普通）
+title_21919=六阶身份晋级挑战（困难）
+title_21920=七阶身份晋级挑战
+title_21921=七阶身份晋级挑战（简单）
+title_21922=七阶身份晋级挑战（普通）
+title_21923=七阶身份晋级挑战（困难）
+title_21924=八阶身份晋级挑战
+title_21925=八阶身份晋级挑战（简单）
+title_21926=八阶身份晋级挑战（普通）
+title_21927=八阶身份晋级挑战（困难）
+title_21928=九阶身份晋级挑战
+title_21929=九阶身份晋级挑战（简单）
+title_21930=九阶身份晋级挑战（普通）
+title_21931=九阶身份晋级挑战（困难）
+title_21932=十阶身份晋级挑战
+title_21933=十阶身份晋级挑战（简单）
+title_21934=十阶身份晋级挑战（普通）
+title_21935=十阶身份晋级挑战（困难）
+title_21751=悟我论禅

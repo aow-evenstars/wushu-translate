@@ -1,0 +1,101 @@
+﻿
+DialogID_48780=我的道术驱除不了如此凶厉的恶鬼，你还是去找那边的芒里克看看吧。
+DialogID_48781=常言道：“自作孽，不可活。”掘人祖坟之人有如此下场活该。
+DialogID_48782=嘿嘿，任何人来到这里都会感到阴森害怕的，你去附近找个龟甲带在身上就好了。
+DialogID_48783=我也有这种预感，不过我们得先把我的伤治好才能安然离开，你去找几颗毒舌兰来吧。
+DialogID_48784=谢谢你，我感觉好一些了。
+DialogID_48785=真的吗？怪不得我怎么走都走不出去，像进了迷宫似的。
+DialogID_48786=哼，我可不怕这些鬼魂，我一定要挖出西夏国的宝藏！
+DialogID_48787=我身上从来不带蛇药，不过要是你去弄些蛇皮来的话我还是能做一些给你的。
+DialogID_48788=李某的忠心从未改变，愿为我西夏之主赴汤蹈火。
+DialogID_48789=我族世代守护于此，忠心天地可鉴。
+DialogID_48790=我知道，让他放心吧。
+DialogID_48791=哈哈，这下我们要发财了。
+DialogID_48792=这里能有什么历史，你先去给我把那些讨厌的鬼菩萨赶走吧。
+DialogID_48793=你居然破坏了我们的仪式，去杀些守灵仙姑赎罪吧。
+DialogID_48794=你去把那些女鬼除掉吧。
+DialogID_48795=哦？我也有此感，看来我不得不下狠手整治一番了，你去给我教训教训他们。
+DialogID_48796=哼，我可不怕他，我一定要找到宝藏后再走！
+collectinfo_48780=让叶行伦使用<a href="TASK_ITEM,Gather0015w" style="HLStype1">神秘的龟甲</a>
+collectinfo_48781=采集<a href="TASK_ITEM,Gether0016wu" style="HLStype1">毒舌兰</a>
+collectinfo_48782=收集<a href="findnpc_new,scene09,Gather0016wu" style="HLStype1">毒舌兰</a>
+collectinfo_48783=击败<a href="findnpc_new,scene09,monf094100" style="HLStype1">黑油响尾蛇</a>收集<a href="TASK_ITEM,taskitem_17w" style="HLStype1">蛇皮</a>
+collectinfo_48784=收集<a href="findnpc_new,scene09,Gather0016wu" style="HLStype1">毒舌兰</a>
+collectinfo_48786=收集<a href="findnpc_new,scene09,monf094502" style="HLStype1">灵刀护卫</a>
+collectinfo_48787=收集<a href="findnpc_new,scene09,monf094702" style="HLStype1">毒僵尸</a>
+collectinfo_48788=收集<a href="findnpc_new,scene09,monf094501" style="HLStype1">石刻解读人</a>
+hunterinfo_48780=击败<a href="findnpc_new,scene09,monf094201" style="HLStype1">鬼菩萨</a>
+hunterinfo_48781=击败<a href="findnpc_new,scene09,monf094202" style="HLStype1">守灵仙姑</a>
+hunterinfo_48782=击败<a href="findnpc_new,scene09,monf094300" style="HLStype1">天罡护法</a>
+hunterinfo_48783=击败<a href="findnpc_new,scene09,monf094400" style="HLStype1">地煞护法</a>
+hunterinfo_48784=击败<a href="findnpc_new,scene09,monf094301" style="HLStype1">天罡使徒</a>
+hunterinfo_48785=击败<a href="findnpc_new,scene09,monf094401" style="HLStype1">地煞使徒</a>
+hunterinfo_48786=击败<a href="findnpc_new,scene09,monf094100" style="HLStype1">黑油响尾蛇</a>
+hunterinfo_48787=击败<a href="findnpc_new,scene09,monf094101" style="HLStype1">曼陀妖女</a>
+hunterinfo_48788=击败<a href="findnpc_new,scene09,monf094102" style="HLStype1">毒尸魔女</a>
+hunterinfo_48789=击败<a href="findnpc_new,scene09,monf094500" style="HLStype1">王陵卫兵</a>
+hunterinfo_48790=击败<a href="findnpc_new,scene09,monf094700" style="HLStype1">王陵守卫</a>
+hunterinfo_48791=击败<a href="findnpc_new,scene09,monf094600" style="HLStype1">石像灵卫</a>
+hunterinfo_48792=击败<a href="findnpc_new,scene09,monf094601" style="HLStype1">石像守卫兵</a>
+hunterinfo_48793=击败<a href="findnpc_new,scene09,monf094502" style="HLStype1">灵刀护卫</a>
+hunterinfo_48794=击败<a href="findnpc_new,scene09,monf094503" style="HLStype1">龙骨骑兵</a>
+hunterinfo_48795=击败<a href="findnpc_new,scene09,monf094503" style="HLStype1">龙骨骑兵</a>
+hunterinfo_48796=击败<a href="findnpc_new,scene09,monf094502" style="HLStype1">灵刀护卫</a>
+hunterinfo_48797=击败<a href="findnpc_new,scene09,monf094702" style="HLStype1">毒僵尸</a>
+hunterinfo_48798=击败<a href="findnpc_new,scene09,monf094200" style="HLStype1">盗墓恶匪</a>
+hunterinfo_48799=击败<a href="findnpc_new,scene09,monf094701" style="HLStype1">护陵死士</a>
+hunterinfo_48800=击败<a href="findnpc_new,scene09,monf094200" style="HLStype1">盗墓恶匪</a>
+hunterinfo_48801=击败<a href="findnpc_new,scene09,monf094701" style="HLStype1">护陵死士</a>
+hunterinfo_48802=击败<a href="findnpc_new,scene09,monf094700" style="HLStype1">王陵守卫</a>
+hunterinfo_48803=击败<a href="findnpc_new,scene09,monf094202" style="HLStype1">守灵仙姑</a>
+hunterinfo_48804=击败<a href="findnpc_new,scene09,monf094201" style="HLStype1">鬼菩萨</a>
+hunterinfo_48805=击败<a href="findnpc_new,scene09,monf094100" style="HLStype1">黑油响尾蛇</a>
+interactinfo_48780=与<a href="findnpc_new,scene09,WorldNpc07255" style="HLStype1">叶行伦</a>交谈
+interactinfo_48781=与<a href="findnpc_new,scene09,WorldNpc07256" style="HLStype1">芒里克</a>交谈
+interactinfo_48782=与<a href="findnpc_new,scene09,WorldNpc07257" style="HLStype1">拓拔苍木</a>交谈
+interactinfo_48783=与<a href="findnpc_new,scene09,WorldNpc07253" style="HLStype1">包振旭</a>交谈
+interactinfo_48784=与<a href="findnpc_new,scene09,WorldNpc07254" style="HLStype1">孟时</a>交谈
+interactinfo_48785=与<a href="findnpc_new,scene09,WorldNpc07259" style="HLStype1">热黑木</a>交谈
+interactinfo_48786=与<a href="findnpc_new,scene09,WorldNpc07251" style="HLStype1">耿辰飞</a>交谈
+interactinfo_48787=与<a href="findnpc_new,scene09,WorldNpc07258" style="HLStype1">阿皮兹</a>交谈
+interactinfo_48788=与<a href="findnpc_new,scene09,WorldNpc07262" style="HLStype1">拓拔夏</a>交谈
+interactinfo_48789=与<a href="findnpc_new,scene09,WorldNpc07257" style="HLStype1">拓拔苍木</a>交谈
+interactinfo_48790=与<a href="findnpc_new,scene09,WorldNpc07265" style="HLStype1">巴拉提</a>交谈
+interactinfo_48791=与<a href="findnpc_new,scene09,WorldNpc07266" style="HLStype1">热介甫</a>交谈
+interactinfo_48792=与<a href="findnpc_new,scene09,WorldNpc07264" style="HLStype1">哈里克</a>交谈
+interactinfo_48793=与<a href="findnpc_new,scene09,WorldNpc07267" style="HLStype1">巴吐尔</a>交谈
+interactinfo_48794=与<a href="findnpc_new,scene09,WorldNpc07265" style="HLStype1">巴拉提</a>交谈
+interactinfo_48795=与<a href="findnpc_new,scene09,WorldNpc07262" style="HLStype1">拓拔夏</a>交谈
+interactinfo_48796=与<a href="findnpc_new,scene09,WorldNpc07251" style="HLStype1">耿辰飞</a>交谈
+okmenu_48780=知道了。我这就去。
+okmenu_48781=知道了。我这就回去告诉他。
+okmenu_48782=好的。我这就回去告诉他。
+okmenu_48783=好的，我这就去。
+okmenu_48784=好的。那我就先行告辞了。
+okmenu_48785=是的。赶紧回去吧。
+okmenu_48786=你就别痴心妄想了！
+okmenu_48787=好的。我这就去。
+okmenu_48788=我知道了。那我先走了。
+okmenu_48789=我知道了。我这就回去告诉他。
+okmenu_48790=知道了。那我线告辞了。
+okmenu_48791=知道了。我这就回去告诉他。
+okmenu_48792=好的。我这就去。
+okmenu_48793=好的。我这就去。
+okmenu_48794=好的。我这就去。
+okmenu_48795=好的。我这就去。
+okmenu_48796=反正话我已经带到了，在下先行告辞了。
+story_48780_1=你应该知道吧，很多人都传说在这座西夏国的历代王陵中埋藏着西夏国最后的宝藏。
+story_48780_2=的确，这座王陵中埋藏着一份巨大的宝藏，但是最珍贵的可不是这些宝藏，而是有一份更大的秘密在里面。你要是去帮我去杀掉那些护陵死士，我倒是可以告诉你。
+story_48781_1=其实西夏李氏一开始并不姓李，他们的姓氏是和我们一样的拓拔，而后，他们成为了王族，改姓为李，而我们仍姓拓拔。
+story_48781_2=只是渐渐地，我们拓跋氏和王族李氏慢慢的产生了隔阂，彼此都疏远了起来，可我们始终没有忘记我们体内流着的都是党项人的血液！
+story_menu_48780=这可不是一座简单的王陵啊。
+story_menu_48781=人人都知道西夏李氏，可他们知道我们党项人的历史吗？
+storyinfo_48780=听<a href="findnpc_new,scene09,WorldNpc07263" style="HLStype1">李元胜</a>诉说
+storyinfo_48781=听<a href="findnpc_new,scene09,WorldNpc07257" style="HLStype1">拓拔苍木</a>诉说
+storymenu_48780_1=是的，我也有听说过。
+storymenu_48780_2=到底有什么秘密在里面？
+storymenu_48781_1=还有这种事？
+storymenu_48781_2=原来还有这么一段故事。
+useiteminfo_48780=对热木黑使用<a href="TASK_ITEM,useitem_005w" style="HLStype1">护身符</a>
+useiteminfo_48781=对<a href="findnpc_new,scene09,WorldNpc07251" style="HLStype1">耿辰飞</a>使用<a href="TASK_ITEM,useitem_006w" style="HLStype1">蒙汗药</a>
+useiteminfo_48783=使用<a href="TASK_ITEM,useitem_007w" style="HLStype1">安魂水</a>

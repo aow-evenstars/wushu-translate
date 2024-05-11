@@ -1,0 +1,904 @@
+﻿
+DialogID_6500=<font face="Default" color="#ffffff" >咳咳，谢谢你给我带来些药，要是再有些吃的就更好了。</font>
+DialogID_6501=<font face="Default" color="#ffffff" >血燕窝产于烟雨庄，我可以帮你尽快获得，这是我养的灵兽小名叫兽兽，它对血燕窝非常敏感，可指引你尽快找到此物。</font>
+DialogID_6502=<font face="Default" color="#ffffff" >你且将药炉随身携带，药炉炼制的时间未到药炉是无法打开的，</font><font face="Default" color="#ffffff" >丹药</font><font face="Default" color="#ffffff" >炼制时间为六小时，六小时后方可打开。</font>
+DialogID_6503=<font face="Default" color="#ffffff" >（）</font>
+DialogID_6505=<font face="Default" color="#ffffff" >  你想出家为僧，须求少林寺中的大师们剃度。这是一封信函，你拿去交给玄怀方丈，他看了自然会明白。</font>
+DialogID_6506=<font face="Default" color="#ffffff" >  </font><font face="Default" color="#ffffff" >不错，这是我写给绝尘师太的信函，你拿去交予师太吧。</font>
+DialogID_6507=<font face="Default" color="#ffffff" >  呵呵，不错不错，虽然老夫喝醉了，但是小兄弟你也有两手嘛，这引荐信你就拿去给我师兄吧。</font>
+DialogID_6508=<font face="Default" color="#ffffff" >  不错不错，看来你是块习武的料，以后就不要再流浪了，留在我丐帮吧。</font><font face="Default" color="#ffffff" >这是一封引荐信，你拿着去找萧帮主吧。</font>
+DialogID_6509=<font face="Default" color="#ffffff" >  恩，身手不错，姥姥肯定喜欢你这样的，这引荐信你拿去给姥姥吧，她看了自然会明白。</font>
+DialogID_6510=<font face="Default" color="#ffffff" >  不错不错，单谷主肯定会喜欢你的，这是引荐信，你拿去给谷主吧。</font>
+DialogID_6511=<font face="Default" color="#ffffff" >恩，不错，果然没吹牛，这信你就拿去给统领吧，他会收下你的。</font>
+DialogID_6512=<font face="Default" color="#ffffff" >  恩，不错不错，能文善舞，正是萧掌门喜欢的弟子，这引荐信你就拿去给掌门吧。</font>
+DialogID_6540=<font face="Default" color="#ffffff" >   哈哈哈，我就知道有这一天，你别急，我身边这护卫，有一招江湖绝技，能把你的脸变成原来的样子，至于怎么实现么，你去找他吧。</font>
+DialogID_6542=<font face="Default" color="#ffffff" >   哈哈哈，我就知道有这一天，你别急，我身边这护卫，有一招江湖绝技，能把你的脸变回来。</font>
+DialogID_6543=<font face="Default" color="#ffffff" >   哈哈哈，我就知道有这一天，你别急，我身边这护卫，有一招江湖绝技，能把你的脸变回来。</font>
+DialogID_6544=<font face="Default" color="#ffffff" >   哈哈哈，我就知道有这一天，你别急，我身边这护卫，有一招江湖绝技，能把你的脸变回来。</font>
+DialogID_6545=<font face="Default" color="#ffffff" >   哈哈哈，我就知道有这一天，你别急，我身边这护卫，有一招江湖绝技，能把你的脸变回来。</font>
+DialogID_6546=<font face="Default" color="#ffffff" >   哈哈哈，我就知道有这一天，你别急，我身边这护卫，有一招江湖绝技，能把你的脸变回来。</font>
+DialogID_6547=<font face="Default" color="#ffffff" >   哈哈哈，我就知道有这一天，你别急，我身边这护卫，有一招江湖绝技，能把你的脸变回来。</font>
+DialogID_6548=<font face="Default" color="#ffffff" >   哈哈哈，我就知道有这一天，你别急，我身边这护卫，有一招江湖绝技，能把你的脸变回来。</font>
+DialogID_6549=<font face="Default" color="#ffffff" >一小时之后，你可凭此令牌查看是否通过考核。一小时之内，此令牌无任何效果。</font>
+DialogID_6550=<font face="Default" color="#ffffff" >一小时之后，你可凭此令牌查看是否通过考核。一小时之内，此令牌无任何效果。</font>
+DialogID_6551=<font face="Default" color="#ffffff" >一小时之后，你可凭此令牌查看是否通过考核。一小时之内，此令牌无任何效果。</font>
+DialogID_6552=<font face="Default" color="#ffffff" >一小时之后，你可凭此令牌查看是否通过考核。一小时之内，此令牌无任何效果。</font>
+DialogID_6553=<font face="Default" color="#ffffff" >一小时之后，你可凭此令牌查看是否通过考核。一小时之内，此令牌无任何效果。</font>
+DialogID_6554=<font face="Default" color="#ffffff" >一小时之后，你可凭此令牌查看是否通过考核。一小时之内，此令牌无任何效果。</font>
+DialogID_6555=<font face="Default" color="#ffffff" >一小时之后，你可凭此令牌查看是否通过考核。一小时之内，此令牌无任何效果。</font>
+DialogID_6556=<font face="Default" color="#ffffff" >一小时之后，你可凭此令牌查看是否通过考核。一小时之内，此令牌无任何效果。</font>
+DialogID_6557=<font face="Default" color="#ffffff" >既然你想重新返回门派接下来按照派内规定，需要对你重新回到门派进行为期</font><font face="Default" color="#ffffff" >一</font><font face="Default" color="#ffffff" >小时的审核。</font>
+DialogID_6558=<font face="Default" color="#ffffff" >既然你想重新返回门派接下来按照派内规定，需要对你重新回到门派进行为期</font><font face="Default" color="#ffffff" >一</font><font face="Default" color="#ffffff" >小时的审核。</font>
+DialogID_6559=<font face="Default" color="#ffffff" >既然你想重新返回门派接下来按照派内规定，需要对你重新回到门派进行为期</font><font face="Default" color="#ffffff" >一</font><font face="Default" color="#ffffff" >小时的审核。</font>
+DialogID_6560=<font face="Default" color="#ffffff" >既然你想重新返回门派接下来按照派内规定，需要对你重新回到门派进行为期</font><font face="Default" color="#ffffff" >一</font><font face="Default" color="#ffffff" >小时的审核。</font>
+DialogID_6561=<font face="Default" color="#ffffff" >既然你想重新返回门派接下来按照派内规定，需要对你重新回到门派进行为期</font><font face="Default" color="#ffffff" >一</font><font face="Default" color="#ffffff" >小时的审核。</font>
+DialogID_6562=<font face="Default" color="#ffffff" >既然你想重新返回门派接下来按照派内规定，需要对你重新回到门派进行为期</font><font face="Default" color="#ffffff" >一</font><font face="Default" color="#ffffff" >小时的审核。</font>
+DialogID_6563=<font face="Default" color="#ffffff" >既然你想重新返回门派接下来按照派内规定，需要对你重新回到门派进行为期</font><font face="Default" color="#ffffff" >一</font><font face="Default" color="#ffffff" >小时的审核。</font>
+DialogID_6564=<font face="Default" color="#ffffff" >既然你想重新返回门派接下来按照派内规定，需要对你重新回到门派进行为期</font><font face="Default" color="#ffffff" >一</font><font face="Default" color="#ffffff" >小时的审核。</font>
+DialogID_6565=<font face="Default" color="#ffffff" >好久没见你了，多在门派里走动走动，最近没怎么见你，门派里都开始有些你的风言风语了。</font>
+DialogID_6566=<font face="Default" color="#ffffff" >  不错不错，教主肯定会喜欢你的，这是引荐信，你拿去给谷主吧。</font>
+DialogID_6567=<font face="Default" color="#ffffff" >  哈哈哈，你以为我真会和你一起走？我已经偷偷派人去告诉掌门了。</font>
+DialogID_6568=<font face="Default" color="#ffffff" >一个时辰之后，你可凭此令牌查看是否通过考核。一个时辰之内，此令牌无任何效果。</font>
+DialogID_6569=<font face="Default" color="#ffffff" >既然你想重新返回门派接下来按照派内规定，需要对你重新回到门派进行为期一天的审核。</font>
+DialogID_6570=<font face="Default" color="#ffffff" >   哈哈哈，我就知道有这一天，你别急，我身边这护卫，有一招江湖绝技，能把你的脸变回来。</font>
+DialogID_6571=<font face="Default" color="#ffffff" >  不错不错，</font><font face="Default" color="#ffffff" >掌门</font><font face="Default" color="#ffffff" >肯定会喜欢你的，这是引荐信，你拿去给掌门吧。</font>
+DialogID_6572=<font face="Default" color="#ffffff" >  哈哈哈，你以为我真会和你一起走？我已经偷偷派人去告诉掌门了。</font>
+DialogID_6573=<font face="Default" color="#ffffff" >既然你想重新返回门派接下来按照派内规定，需要对你重新回到门派进行为期一天的审核。</font>
+DialogID_6574=<font face="Default" color="#ffffff" >   哈哈哈，我就知道有这一天，你别急，我身边这护卫，有一招江湖绝技，能把你的脸变回来。</font>
+DialogID_6575=<font face="Default" color="#ffffff" >  不错不错，掌门肯定会喜欢你的，这是引荐信，你拿去给掌门吧。</font>
+DialogID_6576=<font face="Default" color="#ffffff" >  哈哈哈，你以为我真会和你一起走？我已经偷偷派人去告诉掌门了。</font>
+DialogID_6577=<font face="Default" color="#ffffff" >既然你想重新返回门派接下来按照派内规定，需要对你重新回到门派进行为期一天的审核。</font>
+DialogID_6578=<font face="Default" color="#ffffff" >   哈哈哈，我就知道有这一天，你别急，我身边这护卫，有一招江湖绝技，能把你的脸变回来。</font>
+QiecuoMenu_6506=<font face="Default" color="#ffffff" >废话怎么那么多，赶紧的。</font>
+QiecuoMenu_6507=<font face="Default" color="#ffffff" >哪那么多话，出招！</font>
+QiecuoMenu_6508=<font face="Default" color="#ffffff" >累？门派里的人越来越没有血性，全是一群废物。</font>
+QiecuoMenu_6509=<font face="Default" color="#ffffff" >你以为你能打的过我，找死！</font>
+QiecuoMenu_6510=<font face="Default" color="#ffffff" >你可要小心了，看招。</font>
+QiecuoMenu_6512=<font face="Default" color="#ffffff" >弟子即以</font><font face="Default" color="#ffffff" >叛</font><font face="Default" color="#ffffff" >师出门，一身武艺皆失，还请大师手下留情。</font>
+QiecuoMenu_6513=<font face="Default" color="#ffffff" >弟子武学皆已全失，还请师太手下留情。</font>
+QiecuoMenu_6514=<font face="Default" color="#ffffff" >那就得罪了！</font>
+QiecuoMenu_6515=<font face="Default" color="#ffffff" >小弟不才，武学都已经被废掉，那就得罪了。</font>
+QiecuoMenu_6516=<font face="Default" color="#ffffff" >前辈，那就得罪了。</font>
+QiecuoMenu_6517=<font face="Default" color="#ffffff" >前辈，那就得罪了。</font>
+QiecuoMenu_6518=<font face="Default" color="#ffffff" >那就得罪了。</font>
+QiecuoMenu_6520=<font face="Default" color="#ffffff" >还请前辈手下留情。</font>
+QiecuoMenu_6521=<font face="Default" color="#ffffff" >呀，怎么突然就攻过来了。</font>
+QiecuoMenu_6522=<font face="Default" color="#ffffff" >呀，怎么突然就攻过来了。</font>
+QiecuoMenu_6523=<font face="Default" color="#ffffff" >呀，怎么突然就攻过来了。</font>
+QiecuoMenu_6524=<font face="Default" color="#ffffff" >呀，怎么突然就攻过来了。</font>
+QiecuoMenu_6525=<font face="Default" color="#ffffff" >呀，怎么突然就攻过来了。</font>
+QiecuoMenu_6526=<font face="Default" color="#ffffff" >呀，怎么突然就攻过来了。</font>
+QiecuoMenu_6527=<font face="Default" color="#ffffff" >呀，怎么突然就攻过来了。</font>
+QiecuoMenu_6528=<font face="Default" color="#ffffff" >呀，怎么突然就攻过来了。</font>
+QiecuoMenu_6538=<font face="Default" color="#ffffff" >前辈，那就得罪了。</font>
+QiecuoMenu_6539=<font face="Default" color="#ffffff" >看招！</font>
+QiecuoMenu_6540=<font face="Default" color="#ffffff" >呀，怎么突然就攻过来了。</font>
+QiecuoMenu_6541=<font face="Default" color="#ffffff" >前辈，那就得罪了。</font>
+QiecuoMenu_6542=<font face="Default" color="#ffffff" >看招！</font>
+QiecuoMenu_6543=<font face="Default" color="#ffffff" >呀，怎么突然就攻过来了。</font>
+QiecuoMenu_6544=<font face="Default" color="#ffffff" >前辈，那就得罪了。</font>
+QiecuoMenu_6545=<font face="Default" color="#ffffff" >看招！</font>
+QiecuoMenu_6546=<font face="Default" color="#ffffff" >呀，怎么突然就攻过来了。</font>
+QiecuoTitle_6506=<font face="Default" color="#ffffff" >这么急冲冲的不就是为了切磋么，我还怕你不成？</font>
+QiecuoTitle_6507=<font face="Default" color="#ffffff" >最近你可是追着喊着跟门派里的人比试，你……疯了？</font>
+QiecuoTitle_6508=<font face="Default" color="#ffffff" >你烦不烦，一次次的骚扰</font><font face="Default" color="#ffffff" >找</font><font face="Default" color="#ffffff" >人切磋，累不累。</font>
+QiecuoTitle_6509=<font face="Default" color="#ffffff" >你刚刚说什么，说门派里的都是废物？可恶，看招。</font>
+QiecuoTitle_6510=<font face="Default" color="#ffffff" >别墨迹了，让我看看你的实力。</font>
+QiecuoTitle_6512=<font face="Default" color="#ffffff" >既是如此，老衲倒还想试试施主的身手如何，还请施主放手攻来。</font>
+QiecuoTitle_6513=<font face="Default" color="#ffffff" >  不过在此，我要考验一下你的武学所成，你就放手攻过来吧。</font>
+QiecuoTitle_6514=<font face="Default" color="#ffffff" >  </font><font face="Default" color="#ffffff" >嗝~</font><font face="Default" color="#ffffff" >那还得看你能不能从老夫手上拿过去咯。</font>
+QiecuoTitle_6515=<font face="Default" color="#ffffff" >  没事没事，小事一桩，如果帮主知道了此事，肯定也会收留你的。现在我倒想试试你的身手，看看你是不是一块习武的料。</font>
+QiecuoTitle_6516=<font face="Default" color="#ffffff" >  </font><font face="Default" color="#ffffff" >既然那么自信，那就放马过来，让我瞧瞧。</font>
+QiecuoTitle_6517=<font face="Default" color="#ffffff" >  </font><font face="Default" color="#ffffff" >在去见谷主之前，我还想试一试你的身手，你就放手攻过来，让我瞧瞧吧。</font>
+QiecuoTitle_6518=<font face="Default" color="#ffffff" >那你就来两招，让爷见识见识。</font>
+QiecuoTitle_6520=<font face="Default" color="#ffffff" >  那好，既然这样，你的才华不成问题，那你的武学怎么样呢？不如让在下考考你。</font>
+QiecuoTitle_6521=<font face="Default" color="#ffffff" >  又来一个，正好手痒，吃我一招“还我漂漂拳”。</font>
+QiecuoTitle_6522=<font face="Default" color="#ffffff" >  又来一个，正好手痒，吃我一招“还我漂漂拳”。</font>
+QiecuoTitle_6523=<font face="Default" color="#ffffff" >  又来一个，正好手痒，吃我一招“还我漂漂拳”。</font>
+QiecuoTitle_6524=<font face="Default" color="#ffffff" >  又来一个，正好手痒，吃我一招“还我漂漂拳”。</font>
+QiecuoTitle_6525=<font face="Default" color="#ffffff" >  又来一个，正好手痒，吃我一招“还我漂漂拳”。</font>
+QiecuoTitle_6526=<font face="Default" color="#ffffff" >  又来一个，正好手痒，吃我一招“还我漂漂拳”。</font>
+QiecuoTitle_6527=<font face="Default" color="#ffffff" >  又来一个，正好手痒，吃我一招“还我漂漂拳”。</font>
+QiecuoTitle_6528=<font face="Default" color="#ffffff" >  又来一个，正好手痒，吃我一招“还我漂漂拳”。</font>
+QiecuoTitle_6538=<font face="Default" color="#ffffff" > 在去见教主之前，我还想试一试你的身手，你就放手攻过来，让我瞧瞧吧。</font>
+QiecuoTitle_6539=<font face="Default" color="#ffffff" >就凭你也想和我斗？</font>
+QiecuoTitle_6540=<font face="Default" color="#ffffff" >  又来一个，正好手痒，吃我一招“还我漂漂拳”。</font>
+QiecuoTitle_6541=<font face="Default" color="#ffffff" > 在去见</font><font face="Default" color="#ffffff" >掌门</font><font face="Default" color="#ffffff" >之前，我还想试一试你的身手，你就放手攻过来，让我瞧瞧吧。</font>
+QiecuoTitle_6542=<font face="Default" color="#ffffff" >就凭你也想和我斗？</font>
+QiecuoTitle_6543=<font face="Default" color="#ffffff" >  又来一个，正好手痒，吃我一招“还我漂漂拳”。</font>
+QiecuoTitle_6544=<font face="Default" color="#ffffff" > 在去见掌门之前，我还想试一试你的身手，你就放手攻过来，让我瞧瞧吧。</font>
+QiecuoTitle_6545=<font face="Default" color="#ffffff" >就凭你也想和我斗？</font>
+QiecuoTitle_6546=<font face="Default" color="#ffffff" >  又来一个，正好手痒，吃我一招“还我漂漂拳”。</font>
+SubmitNpcEx_45501=去罗汉堂找到<a href="findnpc_new,school08,WorldNpc00202" style="HLStype1">祖明</a>
+SubmitNpcEx_45502=找到<a href="findnpc_new,school08,WorldNpc00212" style="HLStype1">玄怀大师</a>讲明自己想要叛出师门一事
+SubmitNpcEx_45503=跟<a href="findnpc_new,school08,WorldNpc00212" style="HLStype1">玄怀大师</a>交谈下定决心叛出师门。
+SubmitNpcEx_45504=跟二师姐<a href="findnpc_new,school06,WorldNpc02626" style="HLStype1">崔益鸾</a>理论
+SubmitNpcEx_45505=向掌门<a href="findnpc_new,school06,WorldNpc02604" style="HLStype1">绝尘师太</a>表明叛出师门一事
+SubmitNpcEx_45506=与<a href="findnpc_new,school06,WorldNpc02604" style="HLStype1">绝尘师太</a>交谈下定决心叛出师门。
+SubmitNpcEx_45507=跟<a href="findnpc_new,school07,WorldNpc04880" style="HLStype1">天心道长</a>讲叛出师门一事
+SubmitNpcEx_45508=将自己要叛出门派一事告诉<a href="findnpc_new,school07,WorldNpc04401" style="HLStype1">紫阳真人</a>
+SubmitNpcEx_45509=与<a href="findnpc_new,school07,WorldNpc04401" style="HLStype1">紫阳真人</a>交谈下定决心叛出师门。
+SubmitNpcEx_45510=将粮食交给<a href="findnpc_new,school02,gb170" style="HLStype1">符溯</a>并询问他灾民情况
+SubmitNpcEx_45511=对<a href="findnpc_new,school02,WorldNpc03003" style="HLStype1">萧天放</a>讲自己要叛出师门
+SubmitNpcEx_45512=与<a href="findnpc_new,school02,WorldNpc03003" style="HLStype1">萧天放</a>交谈下定决心叛出师门。
+SubmitNpcEx_45513=找到<a href="findnpc_new,school05,WorldNpc02339" style="HLStype1">寇聘致</a>诉说不想炼毒一事
+SubmitNpcEx_45514=向<a href="findnpc_new,school05,WorldNpc02201" style="HLStype1">唐凤</a>讲明自己要叛出师门一事
+SubmitNpcEx_45515=与<a href="findnpc_new,school05,WorldNpc02201" style="HLStype1">唐凤</a>交谈下定决心叛出师门。
+SubmitNpcEx_45516=找到<a href="findnpc_new,school04,WorldNpc03812" style="HLStype1">马查兰</a>询问何事
+SubmitNpcEx_45517=找到谷主<a href="findnpc_new,school04,WorldNpc03816" style="HLStype1">单天冥</a>讲明自己叛出师门一事
+SubmitNpcEx_45518=与<a href="findnpc_new,school04,WorldNpc03816" style="HLStype1">单天冥</a>交谈下定决心叛出师门。
+SubmitNpcEx_45519=跟<a href="findnpc_new,school01,WorldNpc04126" style="HLStype1">张世钧</a>讲明自己要叛出师门
+SubmitNpcEx_45520=对<a href="findnpc_new,school01,worldnpc04101" style="HLStype1">皇甫遥</a>说自己要叛出师门
+SubmitNpcEx_45521=与<a href="findnpc_new,school01,worldnpc04101" style="HLStype1">皇甫遥</a>交谈下定决心叛出师门。
+SubmitNpcEx_45522=门派里一群废柴，向<a href="findnpc_new,school03,JZTNPC148" style="HLStype1">云烟</a>提出切磋请求
+SubmitNpcEx_45523=与<a href="findnpc_new,school03,WorldNpc03305" style="HLStype1">萧别情</a>交谈讲明自己要叛出师门
+SubmitNpcEx_45524=与<a href="findnpc_new,school03,WorldNpc03305" style="HLStype1">萧别情</a>交谈下定决心叛出师门。
+SubmitNpcEx_45525=将收集到的东西交给位于恶人谷的<a href="findnpc_new,born02,erg32" style="HLStype1">淳于仓</a>
+SubmitNpcEx_45526=将找到的玉髓交予<a href="findnpc_new,born02,erg32" style="HLStype1">淳于仓</a>
+SubmitNpcEx_45527=将紫冰银针交给<a href="findnpc_new,born02,erg32" style="HLStype1">淳于仓</a>
+SubmitNpcEx_45528=将血燕窝，冰蚕丝交给<a href="findnpc_new,born02,erg32" style="HLStype1">淳于仓</a>
+SubmitNpcEx_45529=将找到的麻沸散和灵骨草交给<a href="findnpc_new,born02,erg32" style="HLStype1">淳于仓</a>
+SubmitNpcEx_45530=将藏传天珠交给<a href="findnpc_new,born02,erg32" style="HLStype1">淳于仓</a>
+SubmitNpcEx_45531=将腐心散、千鸠散、红汤散交给<a href="findnpc_new,born02,erg32" style="HLStype1">淳于仓</a>
+SubmitNpcEx_45532=易容成功，对<a href="findnpc_new,born02,erg32" style="HLStype1">淳于仓</a>表示感谢并道别
+SubmitNpcEx_45538=告诉玄怀大师自己加入少林的决心（若当前少林已被灭门，祖勋会被转移至武当派）
+SubmitNpcEx_45539=恳请<a href="findnpc_new,school06,WorldNpc02604" style="HLStype1">绝尘师太</a>准许自己加入峨眉
+SubmitNpcEx_45540=向<a href="findnpc_new,school07,WorldNpc04401" style="HLStype1">紫阳真人</a>诉述自己加入武当的决心（若当前武当已被灭门，真人会被转移至少林派）
+SubmitNpcEx_45541=恳请<a href="findnpc_new,school02,WorldNpc03003" style="HLStype1">萧天放</a>将自己留在丐帮
+SubmitNpcEx_45542=恳请<a href="findnpc_new,school05,WorldNpc02201" style="HLStype1">唐凤</a>准许自己加入唐门
+SubmitNpcEx_45543=恳求<a href="findnpc_new,school04,WorldNpc03816" style="HLStype1">单天冥</a>准许自己加入极乐谷（若当前极乐谷已被灭门，单天冥会被转移至锦衣卫）
+SubmitNpcEx_45544=找到<a href="findnpc_new,school01,worldnpc04101" style="HLStype1">皇甫遥</a>诉说加入锦衣卫的诉求（若当前锦衣卫已被灭门，皇统领会被转移至极乐谷）
+SubmitNpcEx_45545=向<a href="findnpc_new,school03,WorldNpc03305" style="HLStype1">萧别情</a>讲述自己加入君子堂的诉求
+SubmitNpcEx_45549=任务完成后可找各门派场景内的下山历练指引员领取奖励
+SubmitNpcEx_45550=任务完成后可找各门派场景内的下山历练指引员领取奖励
+SubmitNpcEx_45577=与<a href="findnpc_new,school20,newmp_mj_001" style="HLStype1">明教主</a>交谈告诉其想法
+SubmitNpcEx_45578=恳求<a href="findnpc_new,school20,newmp_mj_001" style="HLStype1">明时月</a>准许自己加入明教
+SubmitNpcEx_45583=拜别<a href="findnpc_new,school20,newmp_mj_001" style="HLStype1">明时月</a>开启江湖历练之路
+SubmitNpcEx_45584=将重归明教山门的入门凭证交给教主<a href="findnpc_new,school20,newmp_mj_001" style="HLStype1">明时月</a>
+SubmitNpcEx_45595=<a href="findnpc_new,school22,newmp_tsp_004" style="HLStype1">汪汐潮</a>
+SubmitNpcEx_45597=与<a href="findnpc_new,school22,newmp_tsp_001" style="HLStype1">白天璟</a>交谈告诉其想法
+SubmitNpcEx_45598=恳求<a href="findnpc_new,school22,newmp_tsp_001" style="HLStype1">白天璟</a>准许自己加入天山派
+SubmitNpcEx_45613=拜别<a href="findnpc_new,school22,newmp_tsp_001" style="HLStype1">白天璟</a>开启江湖历练之路
+SubmitNpcEx_45614=将重归天山派山门的入门凭证交给<a href="findnpc_new,school22,newmp_tsp_001" style="HLStype1">白天璟</a>
+SubmitNpcEx_45625=<a href="findnpc_new,school24,newmp_kl_004" style="HLStype1">曹亦安</a>
+SubmitNpcEx_45627=与<a href="findnpc_new,school24,newmp_kl_001" style="HLStype1">云阳子</a>交谈告诉其想法
+SubmitNpcEx_45628=恳求<a href="findnpc_new,school24,newmp_kl_001" style="HLStype1">云阳子</a>准许自己加入昆仑派
+SubmitNpcEx_45633=拜别<a href="findnpc_new,school24,newmp_kl_001" style="HLStype1">云阳子</a>开启江湖历练之路
+SubmitNpcEx_45634=将重归昆仑派山门的入门凭证交给<a href="findnpc_new,school24,newmp_kl_001" style="HLStype1">云阳子</a>
+SubmitNpcEx_45900=与深夜到此之人<a href="findnpc_new,school08,WorldNpc00215" style="HLStype1">净缘</a>交谈
+SubmitNpcEx_45902=听凭<a href="findnpc_new,school08,WorldNpc00212" style="HLStype1">玄怀大师</a>处置
+SubmitNpcEx_45903=与深夜到此之人<a href="findnpc_new,school06,WorldNpc02742" style="HLStype1">柳凤</a>交谈
+SubmitNpcEx_45905=听凭<a href="findnpc_new,school06,WorldNpc02604" style="HLStype1">绝尘师太</a>处置
+SubmitNpcEx_45906=与深夜到此之人<a href="findnpc_new,school07,WorldNpc04424" style="HLStype1">袁天明</a>交谈
+SubmitNpcEx_45908=听凭<a href="findnpc_new,school07,WorldNpc04401" style="HLStype1">紫阳真人</a>处置
+SubmitNpcEx_45909=与深夜到此之人<a href="findnpc_new,school02,gb187" style="HLStype1">仲昊</a>交谈
+SubmitNpcEx_45911=听凭<a href="findnpc_new,school02,WorldNpc03003" style="HLStype1">萧天放</a>处置
+SubmitNpcEx_45912=与深夜到此之人<a href="findnpc_new,school05,WorldNpc02286" style="HLStype1">党箱</a>交谈
+SubmitNpcEx_45914=听凭<a href="findnpc_new,school05,WorldNpc02201" style="HLStype1">唐凤</a>处置
+SubmitNpcEx_45915=与深夜到此之人<a href="findnpc_new,school04,jlg036" style="HLStype1">杭绪</a>交谈
+SubmitNpcEx_45917=听凭<a href="findnpc_new,school04,WorldNpc03816" style="HLStype1">单天冥</a>处置
+SubmitNpcEx_45918=与深夜到此之人<a href="findnpc_new,school01,WorldNpc04306" style="HLStype1">扫地仆人</a>交谈
+SubmitNpcEx_45920=听凭<a href="findnpc_new,school01,worldnpc04101" style="HLStype1">皇甫遥</a>处置
+SubmitNpcEx_45921=与深夜到此之人<a href="findnpc_new,school03,WorldNpc03449" style="HLStype1">欧阳帆云</a>交谈
+SubmitNpcEx_45922=听凭<a href="findnpc_new,school03,WorldNpc03305" style="HLStype1">萧别情</a>处置
+SubmitNpcEx_45923=将实力凭证交给<a href="findnpc_new,school08,WorldNpc00202" style="HLStype1">祖明</a>
+SubmitNpcEx_45924=带着审核信函找到<a href="findnpc_new,school08,WorldNpc00212" style="HLStype1">玄怀大师</a>
+SubmitNpcEx_45925=拜别方丈<a href="findnpc_new,school08,WorldNpc00212" style="HLStype1">玄怀大师</a>，开启红尘历练之路
+SubmitNpcEx_45926=将实力凭证交给<a href="findnpc_new,school06,WorldNpc02634" style="HLStype1">华贞絮</a>
+SubmitNpcEx_45927=带着审核信函找到<a href="findnpc_new,school06,WorldNpc02604" style="HLStype1">绝尘师太</a>
+SubmitNpcEx_45928=拜别掌门<a href="findnpc_new,school06,WorldNpc02604" style="HLStype1">绝尘师太</a>，开启凡尘历练之路
+SubmitNpcEx_45929=将实力凭证交给<a href="findnpc_new,school07,WorldNpc04430" style="HLStype1">霍天星</a>
+SubmitNpcEx_45930=带着审核信函找到<a href="findnpc_new,school07,WorldNpc04401" style="HLStype1">紫阳真人</a>
+SubmitNpcEx_45931=拜别掌门<a href="findnpc_new,school07,WorldNpc04401" style="HLStype1">紫阳真人</a>，开启红尘历练之路
+SubmitNpcEx_45932=将实力凭证交给<a href="findnpc_new,school02,WorldNpc03004" style="HLStype1">范单</a>
+SubmitNpcEx_45933=带着审核信函找到<a href="findnpc_new,school02,WorldNpc03003" style="HLStype1">萧天放</a>
+SubmitNpcEx_45934=拜别帮主<a href="findnpc_new,school02,WorldNpc03003" style="HLStype1">萧天放</a>，开启江湖历练之路
+SubmitNpcEx_45935=将实力凭证交给<a href="findnpc_new,school05,WorldNpc02206" style="HLStype1">唐解语</a>
+SubmitNpcEx_45936=带着审核信函找到<a href="findnpc_new,school05,WorldNpc02201" style="HLStype1">唐凤</a>
+SubmitNpcEx_45937=拜别姥姥<a href="findnpc_new,school05,WorldNpc02201" style="HLStype1">唐凤</a>，开启江湖历练之路
+SubmitNpcEx_45938=将实力凭证交给<a href="findnpc_new,school04,WorldNpc03811" style="HLStype1">雾狐</a>
+SubmitNpcEx_45939=带着审核信函找到<a href="findnpc_new,school04,WorldNpc03816" style="HLStype1">单天冥</a>
+SubmitNpcEx_45940=拜别谷主<a href="findnpc_new,school04,WorldNpc03816" style="HLStype1">单天冥</a>，开启江湖历练之路
+SubmitNpcEx_45941=将实力凭证交给<a href="findnpc_new,school01,WorldNpc04126" style="HLStype1">张世钧</a>
+SubmitNpcEx_45942=带着审核信函找到<a href="findnpc_new,school01,worldnpc04101" style="HLStype1">皇甫遥</a>
+SubmitNpcEx_45943=拜别<a href="findnpc_new,school01,worldnpc04101" style="HLStype1">皇甫遥</a>大人，开启江湖历练之路
+SubmitNpcEx_45944=将实力凭证交给<a href="findnpc_new,school03,JZTNPC139" style="HLStype1">华采衣</a>
+SubmitNpcEx_45945=带着审核信函找到<a href="findnpc_new,school03,WorldNpc03305" style="HLStype1">萧别情</a>
+SubmitNpcEx_45946=拜别掌门<a href="findnpc_new,school03,WorldNpc03305" style="HLStype1">萧别情</a>，开启江湖历练之路
+SubmitNpcEx_45947=将重归少林门派的入门凭证交给方丈<a href="findnpc_new,school08,WorldNpc00212" style="HLStype1">玄怀大师</a>（若当前少林已被灭门，方丈会被转移至武当派）
+SubmitNpcEx_45948=将重归峨眉门派的入门凭证交给掌门<a href="findnpc_new,school06,WorldNpc02604" style="HLStype1">绝尘师太</a>
+SubmitNpcEx_45949=将重归武当山门的入门凭证交给掌门<a href="findnpc_new,school07,WorldNpc04401" style="HLStype1">紫阳真人</a>（若当前武当已被灭门，真人会被转移至少林派）
+SubmitNpcEx_45950=将重归丐帮的入门凭证交给帮主<a href="findnpc_new,school02,WorldNpc03003" style="HLStype1">萧天放</a>
+SubmitNpcEx_45951=将重归唐门的入门凭证交给唐门姥姥<a href="findnpc_new,school05,WorldNpc02201" style="HLStype1">唐凤</a>
+SubmitNpcEx_45952=将重归极乐谷山门的入门凭证交给谷主<a href="findnpc_new,school04,WorldNpc03816" style="HLStype1">单天冥</a>（若当前极乐谷已被灭门，单天冥会被转移至锦衣卫）
+SubmitNpcEx_45953=将重归锦衣卫麾下的入门凭证交给指挥使<a href="findnpc_new,school01,worldnpc04101" style="HLStype1">皇甫遥</a>（若当前锦衣卫已被灭门，皇统领会被转移至极乐谷派）
+SubmitNpcEx_45954=将重归君子堂山门的入门凭证交给掌门<a href="findnpc_new,school03,WorldNpc03305" style="HLStype1">萧别情</a>
+collectinfo_6500=收集<a href="findnpc_new,," style="HLStype1"></a>龙骨石
+collectinfo_6501=收集<a href="findnpc_new,," style="HLStype1"></a>极乐散（可在恶人谷242,792秘宝商人处换取）
+collectinfo_6502=收集<a href="findnpc_new,," style="HLStype1"></a>清心散（可在恶人谷242,792秘宝商人处换取）
+collectinfo_6503=收集<a href="findnpc_new,," style="HLStype1"></a>山西老陈醋
+collectinfo_6504=根据前辈的指点，去塞外大漠从楼兰后裔，楼兰信徒身上搜寻玉髓。也可从神秘怪医处购买，只是神秘怪医太过神秘，不知何时会出现，有缘遇到的话你不妨从他手中购买，如果你舍得花钱不妨去恶人谷找找<a href="findnpc_new,born02,erg35" style="HLStype1">秘宝商人</a>，他可什么都卖。
+collectinfo_6505=药炉炼制一小时之后才可打开，取出药炉中的融骨丹
+collectinfo_6506=药炉炼制一小时之后才可打开，取出药炉中的生肌丹
+collectinfo_6507=找巧匠（大世界中任意一巧匠NPC均可）分解玉髓
+collectinfo_6508=去凤凰山庄、龙门客栈找寻紫冰银针（所有BOSS均有几率掉落）也可从神秘怪医，<a href="findnpc_new,born02,erg35" style="HLStype1">秘宝商人</a>处购买
+collectinfo_6509=去烟雨庄根据兽兽的指引找到血燕窝（右键点击兽兽，兽兽会带你找到血燕窝）
+collectinfo_6510=从青云堡的鲍梦婕，凤凰山庄的柳菁菁以及龙门客栈的金怀玉、邱无言的手中获得冰蚕丝，也可从<a href="findnpc_new,born02,erg35" style="HLStype1">秘宝商人</a>处购买
+collectinfo_6511=从大世界刷出的各种品质宝箱中找到销声匿迹的华家秘药麻沸散（开启木、铜、镀银、镀金、镶玉、黑铁品质的宝箱都有几率获得麻沸散）神秘怪医手里应该有麻沸散出售，只是神秘怪医太过神秘，不知何时会出现，有缘遇到的话你不妨从他手中购买，如果你舍得花钱不妨去恶人谷找找<a href="findnpc_new,born02,erg35" style="HLStype1">秘宝商人</a>他可什么都卖
+collectinfo_6512=从神秘怪医或者<a href="findnpc_new,born02,erg35" style="HLStype1">秘宝商人</a>手中购得灵骨草
+collectinfo_6513=踢馆获得藏传天珠（此物只能由踢馆评分为甲等时的宝箱中开出）神秘怪医手里应该有藏传天珠出售，只是神秘怪医太过神秘，不知何时会出现，有缘遇到的话你不妨从他手中购买，如果你舍得花钱不妨去恶人谷找找<a href="findnpc_new,born02,erg35" style="HLStype1">秘宝商人</a>，他可什么都卖。
+collectinfo_6514=收集腐心散（可在恶人谷242,792秘宝商人处换取）
+collectinfo_6515=收集千鸠散（可在恶人谷242,792秘宝商人处换取）
+collectinfo_6516=收集红汤散（可在恶人谷242,792秘宝商人处换取）
+collectinfo_6517=江湖禁地青云堡和凤凰山庄会掉落实力凭证，参加踢馆（一级馆不掉落）获得甲级评分也会掉落证明自己实力的实力凭证，二级及以上馆挫败宝箱中会有实力凭证，你也可以去下山历练指引员处接取日常任务获得实力凭证
+collectinfo_6518=一小时审核期限结束时可点击门派审核令牌查看审核结果
+collectinfo_6519=江湖禁地青云堡和凤凰山庄会掉落实力凭证，参加踢馆（一级馆不掉落）获得甲级评分也会掉落证明自己实力的实力凭证，二级及以上馆挫败宝箱中会有实力凭证，你也可以去下山历练指引员处接取日常任务获得实力凭证
+collectinfo_6520=一小时审核期限结束时可点击门派审核令牌查看审核结果
+collectinfo_6521=江湖禁地青云堡和凤凰山庄会掉落实力凭证，参加踢馆（一级馆不掉落）获得甲级评分也会掉落证明自己实力的实力凭证，二级及以上馆挫败宝箱中会有实力凭证，你也可以去下山历练指引员处接取日常任务获得实力凭证
+collectinfo_6522=一小时审核期限结束时可点击门派审核令牌查看审核结果
+collectinfo_6523=江湖禁地青云堡和凤凰山庄会掉落实力凭证，参加踢馆（一级馆不掉落）获得甲级评分也会掉落证明自己实力的实力凭证，二级及以上馆挫败宝箱中会有实力凭证，你也可以去下山历练指引员处接取日常任务获得实力凭证
+collectinfo_6524=一小时审核期限结束时可点击门派审核令牌查看审核结果
+collectinfo_6525=江湖禁地青云堡和凤凰山庄会掉落实力凭证，参加踢馆（一级馆不掉落）获得甲级评分也会掉落证明自己实力的实力凭证，二级及以上馆挫败宝箱中会有实力凭证，你也可以去下山历练指引员处接取日常任务获得实力凭证
+collectinfo_6526=一小时审核期限结束时可点击门派审核令牌查看审核结果
+collectinfo_6527=江湖禁地青云堡和凤凰山庄会掉落实力凭证，参加踢馆（一级馆不掉落）获得甲级评分也会掉落证明自己实力的实力凭证，二级及以上馆挫败宝箱中会有实力凭证，你也可以去下山历练指引员处接取日常任务获得实力凭证
+collectinfo_6528=一小时审核期限结束时可点击门派审核令牌查看审核结果
+collectinfo_6529=江湖禁地青云堡和凤凰山庄会掉落实力凭证，参加踢馆（一级馆不掉落）获得甲级评分也会掉落证明自己实力的实力凭证，二级及以上馆挫败宝箱中会有实力凭证，你也可以去下山历练指引员处接取日常任务获得实力凭证
+collectinfo_6530=一小时审核期限结束时可点击门派审核令牌查看审核结果
+collectinfo_6531=江湖禁地青云堡和凤凰山庄会掉落实力凭证，参加踢馆（一级馆不掉落）获得甲级评分也会掉落证明自己实力的实力凭证，二级及以上馆挫败宝箱中会有实力凭证，你也可以去下山历练指引员处接取日常任务获得实力凭证
+collectinfo_6532=一小时审核期限结束时可点击门派审核令牌查看审核结果
+collectinfo_6533=获得江湖历练实力凭证以证明下山历练成果（江湖历练实力凭证从门派战奖励包中有几率获得，参加禁地江湖隐卫骚扰成功也可有几率获得）
+collectinfo_6534=获得江湖历练实力凭证以证明下山历练成果（江湖历练实力凭证从门派战奖励包中有几率获得，参加禁地江湖隐卫骚扰成功也可有几率获得）
+collectinfo_6535=获得江湖历练实力凭证以证明下山历练成果（江湖历练实力凭证从门派战奖励包中有几率获得，参加禁地江湖隐卫骚扰成功也可有几率获得）
+collectinfo_6536=获得江湖历练实力凭证以证明下山历练成果（江湖历练实力凭证从门派战奖励包中有几率获得，参加禁地江湖隐卫骚扰成功也可有几率获得）
+collectinfo_6537=获得江湖历练实力凭证以证明下山历练成果（江湖历练实力凭证从门派战奖励包中有几率获得，参加禁地江湖隐卫骚扰成功也可有几率获得）
+collectinfo_6538=获得江湖历练实力凭证以证明下山历练成果（江湖历练实力凭证从门派战奖励包中有几率获得，参加禁地江湖隐卫骚扰成功也可有几率获得）
+collectinfo_6539=获得江湖历练实力凭证以证明下山历练成果（江湖历练实力凭证从门派战奖励包中有几率获得，参加禁地江湖隐卫骚扰成功也可有几率获得）
+collectinfo_6540=获得江湖历练实力凭证以证明下山历练成果（江湖历练实力凭证从门派战奖励包中有几率获得，参加禁地江湖隐卫骚扰成功也可有几率获得）
+collectinfo_6541=等待门派一小时审核期结束后打开返回门派审核令牌查看是否可以重新返回门派
+collectinfo_6542=等待门派一小时审核期结束后打开返回门派审核令牌查看是否可以重新返回门派
+collectinfo_6543=等待门派一小时审核期结束后打开返回门派审核令牌查看是否可以重新返回门派
+collectinfo_6544=等待门派一小时审核期结束后打开返回门派审核令牌查看是否可以重新返回门派
+collectinfo_6545=等待门派一小时审核期结束后打开返回门派审核令牌查看是否可以重新返回门派
+collectinfo_6546=等待门派一小时审核期结束后打开返回门派审核令牌查看是否可以重新返回门派
+collectinfo_6547=等待门派一小时审核期结束后打开返回门派审核令牌查看是否可以重新返回门派
+collectinfo_6548=等待门派一小时审核期结束后打开返回门派审核令牌查看是否可以重新返回门派
+collectinfo_6557=收集<a href="findnpc_new,," style="HLStype1"></a>实力凭证
+collectinfo_6558=一小时审核期限结束时可点击门派审核令牌查看审核结果
+collectinfo_6559=等待门派一日审核期结束后打开返回门派审核令牌查看是否可以重新返回门派
+collectinfo_6560=获得江湖历练实力凭证以证明下山历练成果（江湖历练实力凭证从门派战奖励包中有几率获得，参加禁地江湖隐卫骚扰成功也可有几率获得）
+collectinfo_6561=江湖禁地青云堡和凤凰山庄会掉落实力凭证，参加踢馆（一级馆不掉落）获得甲级评分也会掉落证明自己实力的实力凭证，二级及以上馆挫败宝箱中会有实力凭证，你也可以去下山历练指引员处接取日常任务获得实力凭证
+collectinfo_6562=等待门派一日审核期结束后打开返回门派审核令牌查看是否可以重新返回门派
+collectinfo_6563=获得江湖历练实力凭证以证明下山历练成果（江湖历练实力凭证从门派战奖励包中有几率获得，参加禁地江湖隐卫骚扰成功也可有几率获得）
+collectinfo_6564=江湖禁地青云堡和凤凰山庄会掉落实力凭证，参加踢馆（一级馆不掉落）获得甲级评分也会掉落证明自己实力的实力凭证，二级及以上馆挫败宝箱中会有实力凭证，你也可以去下山历练指引员处接取日常任务获得实力凭证
+collectinfo_6565=等待门派一日审核期结束后打开返回门派审核令牌查看是否可以重新返回门派
+collectinfo_6566=获得江湖历练实力凭证以证明下山历练成果（江湖历练实力凭证从门派战奖励包中有几率获得，参加禁地江湖隐卫骚扰成功也可有几率获得）
+convoy_talk_45501_2=住手！在寺内竟然大开杀戒，身为一个少林弟子竟然做出此等有违佛门之事，速速去罗汉堂领罪！
+convoy_talk_45504_2=终于找到你了，赶紧去二师姐那一趟，她找你有事。
+convoy_talk_45505_2=住手！放肆，怎么能对二师姐动手。到我这里来一趟。
+convoy_talk_45510_2=对，就是你，你这个臭要饭的，还记得上次在酒楼外面你朝我吐口水么，别以为我没看到，得罪我何二少的没几个有好下场，况且还是个臭要饭的，给我狠狠的打，打的越重奖赏越多。
+convoy_talk_45511_2=对，就是你，你这个臭要饭的，还记得上次在酒楼外面你朝我吐口水么，别以为我没看到，得罪我何二少的没几个有好下场，况且还是个臭要饭的，给我狠狠的打，打的越重奖赏越多。
+convoy_talk_45513_1=别拖拖拉拉的了，赶紧跟我一起走，默默唧唧的。
+convoy_talk_45513_14=到了，人我带来了，也不知道为什么这么不情愿。
+convoy_talk_45513_6=快跟上，今天你怎么怪怪的，这么不情愿。
+convoyinfo_6500=听突然出现的少林师兄说些什么
+convoyinfo_6501=苏玉竹出现传达二师姐的话
+convoyinfo_6502=大师姐突然出现予以阻拦
+convoyinfo_6503=何二少突然出现，他怎么会找到这里
+convoyinfo_6504=被迫跟着公瑶去门派大殿
+convoyinfo_6505=在众高手围攻之下护住净缘，设法脱困
+convoyinfo_6506=在众高手围攻之下护住柳凤，设法脱困
+convoyinfo_6507=在众高手围攻之下护住袁天明，设法脱困
+convoyinfo_6508=在众高手围攻之下护住仲昊，设法脱困
+convoyinfo_6509=在众高手围攻之下护住党箱，设法脱困
+convoyinfo_6510=在众高手围攻之下护住杭绪，设法脱困
+convoyinfo_6511=在众高手围攻之下护住扫地仆人，设法脱困
+convoyinfo_6512=在众高手围攻之下护住欧阳帆云，设法脱困
+convoyinfo_6513=何二少突然出现，他怎么会找到这里
+hunterinfo_6500=刚出大殿发现有人在骚扰书生，击退<a href="findnpc_new,school08,monrm089007" style="HLStype1">凶狠打手</a>
+hunterinfo_6501=收拾掉前来阻拦的<a href="findnpc_new,school08,monrm089008" style="HLStype1">罗汉堂弟子</a>
+hunterinfo_6502=打败出面阻拦的<a href="findnpc_new,school06,monrm067717" style="HLStype1">峨眉师妹</a>
+hunterinfo_6503=击退迎面而来的<a href="findnpc_new,school02,monrm024727" style="HLStype1">二少家奴</a>
+hunterinfo_6504=杀死盅使马查兰放出的<a href="findnpc_new,school04,monrm040111" style="HLStype1">青面毒蝎</a>
+hunterinfo_6505=击退突然出现的<a href="findnpc_new,school01,monrm013910" style="HLStype1">锦衣卫弟子</a>
+hunterinfo_6506=找到<a href="findnpc_new,school03,JZTNPC046" style="HLStype1">家伟泽</a>并与他切磋
+hunterinfo_6507=与<a href="findnpc_new,school03,JZTNPC044" style="HLStype1">谷则</a>切磋
+hunterinfo_6508=门派里难道没有一个能打的？找到<a href="findnpc_new,school03,JZTNPC013" style="HLStype1">墨鹏涛</a>并与他切磋
+hunterinfo_6509=<a href="findnpc_new,school03,JZTNPC024" style="HLStype1">权荫</a>不满于挑衅，击败她
+hunterinfo_6510=拿出全部实力与<a href="findnpc_new,school03,JZTNPC148" style="HLStype1">云烟</a>打一架
+hunterinfo_6511=击退误会的<a href="findnpc_new,school03,monrm034800" style="HLStype1">君子堂弟子</a>
+hunterinfo_6512=接受<a href="findnpc_new,school08,sl182" style="HLStype1">祖勋</a>的考验（若当前少林已被灭门，祖勋会被转移至武当派）
+hunterinfo_6513=接受<a href="findnpc_new,school06,em909" style="HLStype1">李骁骁</a>师太的考验
+hunterinfo_6514=与<a href="findnpc_new,school07,wd179" style="HLStype1">广龙真人</a>切磋（若当前武当已被灭门，真人会被转移至少林派）
+hunterinfo_6515=与<a href="findnpc_new,school02,gb390" style="HLStype1">陆一脚</a>切磋
+hunterinfo_6516=与<a href="findnpc_new,school05,tm089" style="HLStype1">唐欢</a>切磋武艺
+hunterinfo_6517=接受<a href="findnpc_new,school04,jlg093" style="HLStype1">徐堂刺</a>的考验（若当前极乐谷已被灭门，徐堂刺会被转移至锦衣卫）
+hunterinfo_6518=与<a href="findnpc_new,school01,jyw048" style="HLStype1">张飞爷</a>切磋，获得认可（若当前锦衣卫已被灭门，张飞爷会被转移至极乐谷）
+hunterinfo_6520=与<a href="findnpc_new,school03,JZTNPC150" style="HLStype1">吴卿芸</a>切磋武艺
+hunterinfo_6521=接受<a href="findnpc_new,born02,erg36" style="HLStype1">丹圣护卫</a>的拳法医疗
+hunterinfo_6522=接受<a href="findnpc_new,born02,erg36" style="HLStype1">丹圣护卫</a>的拳法医疗
+hunterinfo_6523=接受<a href="findnpc_new,born02,erg36" style="HLStype1">丹圣护卫</a>的拳法医疗
+hunterinfo_6524=接受<a href="findnpc_new,born02,erg36" style="HLStype1">丹圣护卫</a>的拳法医疗
+hunterinfo_6525=接受<a href="findnpc_new,born02,erg36" style="HLStype1">丹圣护卫</a>的拳法医疗
+hunterinfo_6526=接受<a href="findnpc_new,born02,erg36" style="HLStype1">丹圣护卫</a>的拳法医疗
+hunterinfo_6527=接受<a href="findnpc_new,born02,erg36" style="HLStype1">丹圣护卫</a>的拳法医疗
+hunterinfo_6528=接受<a href="findnpc_new,born02,erg36" style="HLStype1">丹圣护卫</a>的拳法医疗
+hunterinfo_6529=击退迎面而来的<a href="findnpc_new,school02,monrm024727" style="HLStype1">二少家奴</a>
+hunterinfo_6530=与<a href="findnpc_new,school07,panmen_qiecuo_sl" style="HLStype1">少林弟子</a>切磋武艺
+hunterinfo_6538=接受<a href="findnpc_new,school20,npc_mjwy_005" style="HLStype1">雷日</a>的考验
+hunterinfo_6539=没想到<a href="findnpc_new,school20,npc_mjwy_003" style="HLStype1">雷星</a>居然告密，打败他
+hunterinfo_6540=接受<a href="findnpc_new,born02,erg36" style="HLStype1">丹圣护卫</a>的拳法医疗
+hunterinfo_6541=接受<a href="findnpc_new,school22,npc_tsguj_005" style="HLStype1">天家冠</a>的考验
+hunterinfo_6542=没想到<a href="findnpc_new,school22,npc_tsguj_003" style="HLStype1">天世龙</a>居然告密，打败他
+hunterinfo_6543=接受<a href="findnpc_new,born02,erg36" style="HLStype1">丹圣护卫</a>的拳法医疗
+hunterinfo_6544=接受<a href="findnpc_new,school24,npc_klguj_005" style="HLStype1">轩辕清</a>的考验
+hunterinfo_6545=没想到<a href="findnpc_new,school24,npc_klguj_003" style="HLStype1">慕容炎</a>居然告密，打败他
+hunterinfo_6546=接受<a href="findnpc_new,born02,erg36" style="HLStype1">丹圣护卫</a>的拳法医疗
+interactinfo_6500=将回气丹交给受伤的<a href="findnpc_new,school02,WorldNpc03216" style="HLStype1">冯良亮</a>
+interactinfo_6501=与<a href="findnpc_new,born02,erg32" style="HLStype1">淳于仓</a>交谈了解血燕窝的事情
+interactinfo_6502=与<a href="findnpc_new,born02,erg32" style="HLStype1">淳于仓</a>交谈了解融骨丹、生肌丹的炼制情况
+interactinfo_6503=待到夜深人静之时，于寺中寻找<a href="findnpc_new,school08,EventNpc45900" style="HLStype1">隐蔽之所</a>
+interactinfo_6505=接过<a href="findnpc_new,school08,sl182" style="HLStype1">祖勋</a>的推荐信（若当前少林已被灭门，祖勋会被转移至武当派）
+interactinfo_6506=接过<a href="findnpc_new,school06,em909" style="HLStype1">李骁骁</a>的推荐信
+interactinfo_6507=从<a href="findnpc_new,school07,wd179" style="HLStype1">广龙真人</a>手中拿过引荐信（若当前武当已被灭门，真人会被转移至少林派）
+interactinfo_6508=从<a href="findnpc_new,school02,gb390" style="HLStype1">陆一脚</a>手中接过引荐信
+interactinfo_6509=接过<a href="findnpc_new,school05,tm089" style="HLStype1">唐欢</a>的引荐信
+interactinfo_6510=得到<a href="findnpc_new,school04,jlg093" style="HLStype1">徐堂刺</a>交予的引荐信（若当前极乐谷已被灭门，徐堂刺会被转移至锦衣卫）
+interactinfo_6511=接过<a href="findnpc_new,school01,jyw048" style="HLStype1">张飞爷</a>给予的引荐信（若当前锦衣卫已被灭门，张飞爷会被转移至极乐谷）
+interactinfo_6512=接过<a href="findnpc_new,school03,JZTNPC150" style="HLStype1">吴卿芸</a>给予的引荐信
+interactinfo_6514=从<a href="findnpc_new,school08,EventNpc45902_1" style="HLStype1">人迹罕至之地</a>偷偷溜出门派
+interactinfo_6515=<a href="findnpc_new,school08,EventNpc45902_2" style="HLStype1">EventNpc45902_2</a>
+interactinfo_6516=待到夜深人静之时，于门派之中寻找<a href="findnpc_new,school06,EventNpc45903" style="HLStype1">隐蔽之所</a>
+interactinfo_6518=从<a href="findnpc_new,school06,EventNpc45905_1" style="HLStype1">人迹罕至之处</a>偷偷溜出门派
+interactinfo_6520=待到夜深人静之时，于门派之中寻找<a href="findnpc_new,school07,EventNpc45906" style="HLStype1">隐蔽之所</a>
+interactinfo_6522=从<a href="findnpc_new,school07,EventNpc45908_1" style="HLStype1">人迹罕至之处</a>偷偷溜出门派
+interactinfo_6524=待到夜深人静之时，于门派之中寻找<a href="findnpc_new,school02,EventNpc45909" style="HLStype1">隐蔽之所</a>
+interactinfo_6526=从<a href="findnpc_new,school02,EventNpc45911_1" style="HLStype1">人迹罕至之处</a>偷偷溜出门派
+interactinfo_6528=待到夜深人静之时，于门派之中寻找<a href="findnpc_new,school05,EventNpc45912" style="HLStype1">隐蔽之所</a>
+interactinfo_6529=从<a href="findnpc_new,school05,EventNpc45914_1" style="HLStype1">人迹罕至之处</a>偷偷溜出门派
+interactinfo_6530=待到夜深人静之时，于门派之中寻找<a href="findnpc_new,school04,EventNpc45915" style="HLStype1">隐蔽之所</a>
+interactinfo_6531=从<a href="findnpc_new,school04,EventNpc45917_1" style="HLStype1">人迹罕至之处</a>偷偷溜出门派
+interactinfo_6532=待到夜深人静之时，于门派之中寻找<a href="findnpc_new,school01,EventNpc45918" style="HLStype1">隐蔽之所</a>
+interactinfo_6533=从<a href="findnpc_new,school01,EventNpc45920_1" style="HLStype1">人迹罕至之处</a>偷偷溜出门派
+interactinfo_6535=待到夜深人静之时，于门派之中寻找<a href="findnpc_new,school03,EventNpc45921" style="HLStype1">隐蔽之所</a>
+interactinfo_6536=从<a href="findnpc_new,school03,EventNpc45922_1" style="HLStype1">人迹罕至之处</a>偷偷溜出门派
+interactinfo_6540=向<a href="findnpc_new,born02,erg38" style="HLStype1">丹圣弟子</a>探讨去除易容的方法
+interactinfo_6542=向<a href="findnpc_new,born02,erg38" style="HLStype1">丹圣弟子</a>探讨去除易容的方法
+interactinfo_6543=向<a href="findnpc_new,born02,erg38" style="HLStype1">丹圣弟子</a>探讨去除易容的方法
+interactinfo_6544=向<a href="findnpc_new,born02,erg38" style="HLStype1">丹圣弟子</a>探讨去除易容的方法
+interactinfo_6545=向<a href="findnpc_new,born02,erg38" style="HLStype1">丹圣弟子</a>探讨去除易容的方法
+interactinfo_6546=向<a href="findnpc_new,born02,erg38" style="HLStype1">丹圣弟子</a>探讨去除易容的方法
+interactinfo_6547=向<a href="findnpc_new,born02,erg38" style="HLStype1">丹圣弟子</a>探讨去除易容的方法
+interactinfo_6548=向<a href="findnpc_new,born02,erg38" style="HLStype1">丹圣弟子</a>探讨去除易容的方法
+interactinfo_6549=向<a href="findnpc_new,school08,WorldNpc00202" style="HLStype1">祖明</a>询问下山历练一事
+interactinfo_6550=向<a href="findnpc_new,school06,WorldNpc02634" style="HLStype1">华贞絮</a>询问下山历练一事
+interactinfo_6551=向<a href="findnpc_new,school07,WorldNpc04430" style="HLStype1">霍天星</a>询问下山历练一事
+interactinfo_6552=向<a href="findnpc_new,school02,WorldNpc03004" style="HLStype1">范单</a>询问下山历练一事
+interactinfo_6553=向<a href="findnpc_new,school05,WorldNpc02206" style="HLStype1">唐解语</a>询问下山历练一事
+interactinfo_6554=向<a href="findnpc_new,school04,WorldNpc03811" style="HLStype1">雾狐</a>询问下山历练一事
+interactinfo_6555=向<a href="findnpc_new,school01,WorldNpc04126" style="HLStype1">张世钧</a>询问下山历练一事
+interactinfo_6556=向<a href="findnpc_new,school03,JZTNPC139" style="HLStype1">华采衣</a>询问下山历练一事
+interactinfo_6557=与<a href="findnpc_new,school08,WorldNpc00317" style="HLStype1">清木</a>交谈，询问重归少林一事（若当前少林已被灭门，清木会被转移至武当派）
+interactinfo_6558=与<a href="findnpc_new,school06,WorldNpc02623" style="HLStype1">慕容荻云</a>交谈，询问重归峨眉事宜
+interactinfo_6559=向<a href="findnpc_new,school07,WorldNpc04726" style="HLStype1">龙城</a>询问重归武当一事（若当前武当已被灭门，龙城会被转移至少林派）
+interactinfo_6560=与<a href="findnpc_new,school02,gb157" style="HLStype1">糜智</a>交谈询问重归丐帮一事。
+interactinfo_6561=与<a href="findnpc_new,school05,WorldNpc02303" style="HLStype1">沃坦</a>交谈询问重归唐门一事。
+interactinfo_6562=与<a href="findnpc_new,school04,WorldNpc03864" style="HLStype1">姬无命</a>询问重归山门一事。（若当前极乐谷已被灭门，姬无命会被转移至锦衣卫）
+interactinfo_6563=与<a href="findnpc_new,school01,WorldNpc04106" style="HLStype1">徐克</a>交谈询问重归麾下一事。（若当前锦衣卫已被灭门，徐克会被转移至极乐谷）
+interactinfo_6564=与<a href="findnpc_new,school03,WorldNpc03417" style="HLStype1">陶牧</a>交谈询问重归山门一事
+interactinfo_6565=与<a href="findnpc_new,school06,WorldNpc02602" style="HLStype1">黄澜</a>交谈询问派内事务
+interactinfo_6566=得到<a href="findnpc_new,school20,npc_mjwy_005" style="HLStype1">雷日</a>交予的引荐信
+interactinfo_6567=把私自下山的想法告诉<a href="findnpc_new,school20,npc_mjwy_003" style="HLStype1">雷星</a>
+interactinfo_6568=向<a href="findnpc_new,school20,newmp_mj_003" style="HLStype1">茅震</a>询问下山历练一事
+interactinfo_6569=与<a href="findnpc_new,school20,newmp_mj_003" style="HLStype1">茅震</a>交谈询问重归山门一事
+interactinfo_6570=向<a href="findnpc_new,born02,erg38" style="HLStype1">丹圣弟子</a>探讨去除易容的方法
+interactinfo_6571=得到<a href="findnpc_new,school22,npc_tsguj_005" style="HLStype1">天家冠</a>交予的引荐信
+interactinfo_6572=把私自下山的想法告诉<a href="findnpc_new,school22,npc_tsguj_003" style="HLStype1">天世龙</a>
+interactinfo_6573=与<a href="findnpc_new,school22,newmp_tsp_003" style="HLStype1">卓战夏</a>交谈询问重归山门一事(可以前去燕京寻找<a href="findnpc_new,city01,Transschool22guj_B" style="HLStype1">钭军心</a>前往天山派)
+interactinfo_6574=向<a href="findnpc_new,born02,erg38" style="HLStype1">丹圣弟子</a>探讨去除易容的方法
+interactinfo_6575=得到<a href="findnpc_new,school24,npc_klguj_005" style="HLStype1">轩辕清</a>交予的引荐信
+interactinfo_6576=把私自下山的想法告诉<a href="findnpc_new,school24,npc_klguj_003" style="HLStype1">慕容炎</a>
+interactinfo_6577=与<a href="findnpc_new,school24,newmp_kl_003" style="HLStype1">无为道长</a>交谈询问重归山门一事（注：可通过恶人谷的<a href="findnpc_new,born02,DoorNpc00103" style="HLStype1">传送门</a>前往昆仑派）
+interactinfo_6578=向<a href="findnpc_new,born02,erg38" style="HLStype1">丹圣弟子</a>探讨去除易容的方法
+okmenu_6500=<font face="Default" color="#ffffff" >别奢望太多了，这些回气丹你先服下，伤好了再说。</font>
+okmenu_6501=<font face="Default" color="#ffffff" >多谢</font><font face="Default" color="#ffffff" >前辈，我找到血燕窝后会把兽兽尽快还回来的。</font>
+okmenu_6502=<font face="Default" color="#ffffff" >晚辈记下了。</font>
+okmenu_6503=<font face="Default" color="#8fd6ef" >（也罢，就等到夜黑风高之时再想办法吧。）</font>
+okmenu_6505=<font face="Default" color="#ffffff" >弟子遵命。</font>
+okmenu_6506=<font face="Default" color="#ffffff" >弟子遵命。</font>
+okmenu_6507=<font face="Default" color="#ffffff" >多谢真人成全。</font>
+okmenu_6508=<font face="Default" color="#ffffff" >多谢</font><font face="Default" color="#ffffff" >。</font>
+okmenu_6509=<font face="Default" color="#ffffff" >多谢。</font>
+okmenu_6510=<font face="Default" color="#ffffff" >多谢前辈。</font>
+okmenu_6511=<font face="Default" color="#ffffff" >多谢成全。</font>
+okmenu_6512=<font face="Default" color="#ffffff" >多谢前辈成全。</font>
+okmenu_6540=<font face="Default" color="#ffffff" >多谢神医。</font>
+okmenu_6542=<font face="Default" color="#ffffff" >多谢神医。</font>
+okmenu_6543=<font face="Default" color="#ffffff" >多谢神医。</font>
+okmenu_6544=<font face="Default" color="#ffffff" >多谢神医。</font>
+okmenu_6545=<font face="Default" color="#ffffff" >多谢神医。</font>
+okmenu_6546=<font face="Default" color="#ffffff" >多谢神医。</font>
+okmenu_6547=<font face="Default" color="#ffffff" >多谢神医。</font>
+okmenu_6548=<font face="Default" color="#ffffff" >多谢神医。</font>
+okmenu_6549=弟子遵命。
+okmenu_6550=<font face="Default" color="#ffffff" >师妹遵命。</font>
+okmenu_6551=弟子遵命。
+okmenu_6552=弟子遵命。
+okmenu_6553=弟子遵命。
+okmenu_6554=弟子遵命。
+okmenu_6555=属下遵命。
+okmenu_6556=弟子遵命。
+okmenu_6557=多谢师兄。
+okmenu_6558=多谢师姐。
+okmenu_6559=<font face="Default" color="#ffffff" >多谢师兄。</font>
+okmenu_6560=多谢师兄。
+okmenu_6561=多谢师兄。
+okmenu_6562=多谢师兄。
+okmenu_6563=多谢大人。
+okmenu_6564=多谢师兄。
+okmenu_6565=<font face="Default" color="#ffffff" >我的风言风语？</font>
+okmenu_6566=<font face="Default" color="#ffffff" >多谢前辈。</font>
+okmenu_6567=<font face="Default" color="#ffffff" >你你......你居然做这种事！</font>
+okmenu_6568=<font face="Default" color="#ffffff" >弟子遵命。</font>
+okmenu_6569=<font face="Default" color="#ffffff" >多谢师兄。</font>
+okmenu_6570=<font face="Default" color="#ffffff" >多谢神医。</font>
+okmenu_6571=<font face="Default" color="#ffffff" >多谢前辈。</font>
+okmenu_6572=<font face="Default" color="#ffffff" >你你......你居然做这种事！</font>
+okmenu_6573=<font face="Default" color="#ffffff" >多谢师兄。</font>
+okmenu_6574=<font face="Default" color="#ffffff" >多谢神医。</font>
+okmenu_6575=<font face="Default" color="#ffffff" >多谢前辈。</font>
+okmenu_6576=<font face="Default" color="#ffffff" >你你......你居然做这种事！</font>
+okmenu_6577=<font face="Default" color="#ffffff" >多谢长老。</font>
+okmenu_6578=<font face="Default" color="#ffffff" >多谢神医。</font>
+specialinfo_804=去恶人谷找到<a href="findnpc_new,born02,erg37" style="HLStype1">向帆</a>索要游仙岛令牌（游仙岛令牌每月有固定发放数量）按照游仙岛令牌上的指引进入游仙岛并且成功完成一次易容（修炼过幽昙秘典的玩家进入游仙岛后与易容大师对话方可完成任务）
+specialinfo_909=学习幻玉神功第一层，获取花奴身份
+specialinfo_910=磨练功夫心性，在<a href="findnpc_new,school09,yhg_origin_02" style="HLStype1">花镜空</a>处完成二阶身份晋级任务，获取绣玉宫人身份
+specialinfo_911=磨练功夫心性，在<a href="findnpc_new,school09,yhg_origin_03" style="HLStype1">星飞莹</a>处完成三阶身份晋级任务，获取香初仙子身份
+specialinfo_912=磨练功夫心性，在<a href="findnpc_new,school09,yhg_origin_04" style="HLStype1">月落瑶</a>处完成四阶身份晋级任务，获取星月圣女身份
+specialinfo_913=学习碧波心经第一层，获取奇门隐士身份
+specialinfo_914=磨练功夫心性，在<a href="findnpc_new,school10,thd_origin_02" style="HLStype1">孙如峰</a>处完成二阶身份晋级任务，获取桃花使者身份
+specialinfo_915=磨练功夫心性，在<a href="findnpc_new,school10,thd_origin_03" style="HLStype1">李天阙</a>处完成三阶身份晋级任务，获取假面奇才身份
+specialinfo_916=磨练功夫心性，在<a href="findnpc_new,school10,thd_origin_04" style="HLStype1">黄子瑜</a>处完成四阶身份晋级任务，获取玉箫剑神身份
+specialinfo_917=学习三清真气第一层，获取徐家侠士身份
+specialinfo_918=磨练功夫心性，在<a href="findnpc_new,city05,xjz_origin_02" style="HLStype1">徐云天</a>处完成二阶身份晋级任务，获取忠义豪侠身份
+specialinfo_919=通关青云堡（任意难度均可）
+specialinfo_920=通关凤凰山庄（任意难度）
+specialinfo_921=通关凤凰山庄（任意难度）
+specialinfo_922=通关凤凰山庄（任意难度）
+story_6500_1=<font face="Default" color="#ffffff" >我没事，只是这些人真的</font><font face="Default" color="#ffffff" >很过分</font><font face="Default" color="#ffffff" >，欺负我一介书生，哎。</font>
+story_6500_2=<font face="Default" color="#ffffff" >谢谢你出手相助，不过因为这个连累了你要受到惩罚</font><font face="Default" color="#ffffff" >，我多少有些过意不去。</font>
+story_6500_3=<font face="Default" color="#ffffff" >这个……（吞吞吐吐）我当时为了上京赶考，临时挪用了一些该按时交的租子，后来没考上，钱也都花光了，这些人就一直追着我要租子。</font>
+story_6501_1=<font face="Default" color="#ffffff" >（摇头）你杀业太重，没想到少林此清净之地仍没有洗净你的凡心，你对因果律理解太狭隘，因和果之间还有个缘，缘就是今人说的条件，有因，还必须有缘，才能产生果</font>
+story_6501_2=<font face="Default" color="#ffffff" >杀业有两种情况，一种是被袭者不欠攻克者之杀债，但是却有横死之业，一种是双方之间有杀债，因缘际会。第一种情况创造了新的因果报应的起因，第二种情况是不断进行的一个恶性循环。</font>
+story_6502_1=<font face="Default" color="#ffffff" >离开少林？此话怎讲……</font>
+story_6502_2=<font face="Default" color="#ffffff" >唉！既然你心意已决，叛出师门一事我不敢妄作决定，你还是去找掌门将此事说清吧。</font>
+story_6503_1=<font face="Default" color="#ffffff" >哟，这不是大忙人么，今天怎么有空来找我了？找了你好几天都没找到你，说！你最近都干什么去了！</font>
+story_6503_2=<font face="Default" color="#ffffff" >历练？哼！说的好听点是历练，实际上是跟歪门邪派暗中勾搭，我们峨眉是一门正派，怎容你跟锦衣卫，极乐谷这种歪门邪派勾搭到一起，毁坏门规！</font>
+story_6503_3=<font face="Default" color="#ffffff" >什么？我一概而论，在门派内排资论辈哪轮得到你来教训我，破坏了门规就是破坏了门规，没什么好说的。</font>
+story_6504_1=<font face="Default" color="#ffffff" >你别说了，二师姐的为人我再清楚不过了，你刚刚要对二师姐动手确实是你的不对。</font>
+story_6504_2=<font face="Default" color="#ffffff" >什么？你想退出峨眉派？在派内不是一直生活的挺好的么，为什么突然提出这个要求？</font>
+story_6504_3=<font face="Default" color="#ffffff" >哎，既然你心意已决，我也就不多加阻拦，你要记住，江湖险恶，有什么需要帮忙的记得一定要找师姐我，</font><font face="Default" color="#ffffff" >叛</font><font face="Default" color="#ffffff" >出门派一事我做不了主，你去找掌门将此事讲清吧。</font>
+story_6505_1=<font face="Default" color="#ffffff" >你今天这是怎么了，说话吞吞吐吐的，有事赶紧说，是不是又要借阅功法招式秘籍看呀，你呀，等着，师叔给你去取……</font>
+story_6505_2=<font face="Default" color="#8fd6ef" >（身体抖动了一下）</font><font face="Default" color="#ffffff" >什么？你说什么？你说要叛出……师门……</font>
+story_6505_3=<font face="Default" color="#8fd6ef" >（叹了口气）</font><font face="Default" color="#ffffff" >近日看你练功时心不在焉，本想有时间找你询问，没想到今日你找我诉说却是想离开门派，你入门以来一直潜心习武，武功虽略微有所长进，但是心境迟迟不前，你要知道我们武当提倡的就是平衡，心境乃练武途中必过的一道门槛。</font>
+story_6505_4=<font face="Default" color="#ffffff" >叛</font><font face="Default" color="#ffffff" >门一事事关重大，此事需掌门定夺，你叛出师门之前最好跟天心道长说一声。</font>
+story_6506_1=<font face="Default" color="#ffffff" >你这孩子看你说的，我不是一直都挺好么</font><font face="Default" color="#8fd6ef" >（眼含泪水）</font>
+story_6506_2=<font face="Default" color="#ffffff" >好了好了，从你不堪一击的时候慢慢看着你成长到现在也满足了，哪想到你有一天会叛出门派，罢了罢了，</font><font face="Default" color="#ffffff" >叛</font><font face="Default" color="#ffffff" >门的事情你去找掌门说去吧。好好照顾自己。</font>
+story_6507_1=<font face="Default" color="#ffffff" >是啊，这几天好些灾民都生病了，门派里的药物好像也不多了。</font>
+story_6507_2=<font face="Default" color="#ffffff" >实不相瞒，粮食也没有多少了，现在每天熬的粥一天比一天的</font><font face="Default" color="#ffffff" >稀</font><font face="Default" color="#ffffff" >，哎……</font>
+story_6508_1=<font face="Default" color="#ffffff" >怎么了，发生什么事了，是不是刚刚跟人打架了，面红耳赤的。</font>
+story_6508_2=<font face="Default" color="#ffffff" >你……你原来萌生了这个想法，罢了罢了，年轻人心境难免浮躁一些，我告诉你的是锦衣玉食不是那么容易就能得到的。</font>
+story_6508_3=<font face="Default" color="#ffffff" >哼！你竟然对丐帮恶语相向，没有人敢对天下第一大帮横眉指责，况且你现在还是帮里的一员，等到你真的叛出师门，到时你若是对我丐帮不敬，别怪丐帮兄弟心狠手辣，判门的事情你找帮主说去。</font>
+story_6509_1=<font face="Default" color="#ffffff" >你看你这话说的，什么叫不去，从入门那天起炼毒就是我们唐门弟子的一门必须课，你之前不是好好的么，出什么事了？</font>
+story_6510_1=<font face="Default" color="#ffffff" >唐家堡的毒药能够让武林惧怕，靠的就是唐门弟子舍身炼毒，你如今已生怯意，已经背离了我唐门的精神，你可知道后果？</font>
+story_6510_2=<font face="Default" color="#ffffff" >既然你心意已决我也不阻拦你，但是你要记住，没有什么毒可以与唐门的一较高下，你要叛出师门，我不知道</font><font face="Default" color="#ffffff" >姥姥</font><font face="Default" color="#ffffff" >会如何处置此事。</font>
+story_6511_1=<font face="Default" color="#ffffff" >哼！既然承认了那我就实话实说了，昨天</font><font face="Default" color="#ffffff" >晚上</font><font face="Default" color="#ffffff" >喂养虫盅的弟子可是你？</font>
+story_6511_2=<font face="Default" color="#ffffff" >好大的胆子，今天虫盅大批死亡，你昨天给虫盅喂错了草药，这都是你干的！那可是我精心培养的一批虫盅，我不会放过你的。</font>
+story_6511_3=<font face="Default" color="#ffffff" >杀了你又能如何？你到头来只是一个极乐谷的弟子而已，怎么能跟我的虫盅相提并论，用你十条命都抵不上我一只虫盅的价值。</font>
+story_6512_1=<font face="Default" color="#ffffff" >事情是这样的，上次我从成都订了一批武器，昨天收到消息说武器已经完工了，需要派个人过去取，我琢磨着你这几天没事，就安排你过去吧。</font>
+story_6512_2=<font face="Default" color="#ffffff" >你去的时候带几个师弟一起去，一起护送</font><font face="Default" color="#ffffff" >路上</font><font face="Default" color="#ffffff" >也比较安全，你有没有在听我讲话！</font>
+story_6512_3=<font face="Default" color="#8fd6ef" >（暴怒）</font><font face="Default" color="#ffffff" >岂有此理，目中无人，丝毫没有把我的话听进去，心不在焉的你到底在搞什么！今天就教训教训你，让你知道在锦衣卫什么叫做执行和条例。</font>
+story_6513_1=<font face="Default" color="#ffffff" >为什么要离开锦衣卫？</font>
+story_6513_2=<font face="Default" color="#ffffff" >哼。你以为离开锦衣卫一切事情都与你无关了么？还没有人能够活着离开锦衣卫过。你知道叛出师门会付出多大的代价么？好一个狂妄的小儿。</font>
+story_6513_3=<font face="Default" color="#ffffff" >既然你这样说，那我不妨告诉你你是叛出师门的，在你离开锦衣卫的那天起，你会</font><font face="Default" color="#ffffff" >受</font><font face="Default" color="#ffffff" >到锦衣卫的无尽追杀，我不会手软的。</font>
+story_6514_1=<font face="Default" color="#ffffff" >我没事，只是擦伤而已，我一直不太了解你最近疯狂找人比武切磋打架是为了什么，怎么好像变了一个人一样。</font>
+story_6514_2=<font face="Default" color="#ffffff" >为了找回戕屠的血性你就开始</font><font face="Default" color="#ffffff" >无休止的跟派内的弟子切磋？你这是何苦呢。弄的派内很多人怨声载道。</font>
+story_6514_3=<font face="Default" color="#ffffff" >叛出师门……很久没有人有这个想法了，放着派内安逸的生活不要，非要投奔险恶的江湖中去，罢了罢了，叛出师门的事你还是去找门主说去吧。</font>
+story_6515_1=<font face="Default" color="#ffffff" >老夫我退出江湖多年，</font><font face="Default" color="#ffffff" >没想到</font><font face="Default" color="#ffffff" >还有人记得我懂这门手艺，易容听起来就是捏一张脸，想要把这张脸捏好那可是难上之难。</font>
+story_6515_2=<font face="Default" color="#ffffff" >易容是件艰难的事情，不仅</font><font face="Default" color="#ffffff" >需要很多材料，还需要大量的金钱。</font><font face="Default" color="#ffffff" >这之间所需要的金钱和努力是你不能够想象的。</font>
+story_6515_3=<font face="Default" color="#ffffff" >既然你心意已决，看在红汤爆鱼面的份上我就破例告诉你一次，易容非易事，它所需要的材料遍布于整个江湖，有的材料存在于世的只有传闻，所用材料都是其种类中最顶级的，首先要准备的就是融骨丹和生肌丹，这是最基础的两味丹药。</font>
+story_6515_4=<font face="Default" color="#ffffff" >这两味药的单独配方我不会告诉你，但是只要你将一些龙骨石、</font><font face="Default" color="#ffffff" >极乐散</font><font face="Default" color="#ffffff" >、清心散带回来，我自然帮你把融骨丹和生肌丹炼制出来，对了，顺便带些山西老陈醋回来，只有面没有醋我可吃不下。</font>
+story_6516_1=<font face="Default" color="#ffffff" >易容需要碰触肌肤，</font><font face="Default" color="#ffffff" >触碰肌肤就要有一把锋利且温和的刀，玄玉小刀不知道你听过没有，玄玉小刀</font><font face="Default" color="#ffffff" >由</font><font face="Default" color="#ffffff" >玉髓打造而成，触碰到肌肤有温热感，但又不失锋利，对易容来说是再合适不过的一把刀了。</font>
+story_6516_2=<font face="Default" color="#ffffff" >你呀太年轻，玉髓怎样形成的没人知道，当年此物发现于大漠的楼兰死域，起初并没有多少人识得此物，随着大批高手赶往大漠，识得此物的人也开始变得多了起来，江湖传闻此物最后落入了楼兰后裔和楼兰信徒手里。神秘怪医手里应该有此物，只是神秘怪医太过神秘，不知何时会出现，有缘遇到的话你不妨从他手中购买。</font><font face="Default" color="#ffffff" >如果你舍得花钱不妨去恶人谷找找秘宝商人，他可什么都卖。</font>
+story_6517_1=<font face="Default" color="#ffffff" >玄玉小刀有了，下一步就是紫冰银针了，想要获得紫冰银针其实不难，江湖大家族中凤凰山庄就有此物，传闻有一部分紫冰银针被西域人士获得，此人</font><font face="Default" color="#ffffff" >途经</font><font face="Default" color="#ffffff" >龙门客栈时被暗算，紫冰银针失踪。</font>
+story_6517_2=<font face="Default" color="#ffffff" >你这算问着了，记得我上次跟你说过的神秘怪医么？他那里不出我所料应该会有紫冰银针，只是神秘怪医太过神秘，不知何时会出现，有缘遇到的话你不妨从他手中购买。</font><font face="Default" color="#ffffff" >如果你舍得花钱不妨去恶人谷找找秘宝商人，他可什么都卖。</font>
+story_6518_1=<font face="Default" color="#ffffff" >目前所需物品为三种，</font><font face="Default" color="#ffffff" >一种是用来缝合伤口必须的冰蚕丝，一种是抹平疤痕的血燕窝，还有一种便是人皮面具。</font>
+story_6518_2=<font face="Default" color="#ffffff" >你说的没错，血燕窝确实只产于烟雨庄。冰蚕丝这种奢侈稀有的物品一般都被大家族收入了囊中，供家族中女眷使用，青云堡的鲍梦婕，凤凰山庄的柳菁菁以及龙门客栈的金怀玉、邱无言，身上会有此物</font><font face="Default" color="#ffffff" >。</font>
+story_6519_1=<font face="Default" color="#ffffff" >麻沸散不知道你有没有听过，此物是一代神医华佗的秘制药，如今华家虽然已经销声匿迹，然而此物并非绝迹，而是流落到了江湖中，世界宝箱之中定然有麻沸散存在。神秘怪医手里应该有麻沸散出售，只是神秘怪医太过神秘，不知何时会出现，有缘遇到的话你不妨从他手中购买。</font><font face="Default" color="#ffffff" >如果你舍得花钱不妨去恶人谷找找秘宝商人，他可什么都卖。</font>
+story_6519_2=<font face="Default" color="#ffffff" >还有最为至关重要也是最难弄到的一味药</font><font face="Default" color="#ffffff" >——</font><font face="Default" color="#ffffff" >灵骨草。此物只有神秘怪医有售，此物异常珍贵，可以提高易容的成功几率，做到不留后遗症。</font>
+story_6520_1=如今江湖虽非多事之秋，然各势力蠢蠢欲动，况且以你如今的实力，只怕连参加试炼的资格都不可获得。你又何必急于一时呢？
+story_6520_2=<font face="Default" color="#ffffff" >阿弥陀佛。以你现如今的功力，即便前往江湖之中，也不过是敬陪末座。我少林武功博大精深，若不能更近一步，你又怎能有资格于江湖历练扬我少林佛法？少林三十六房七十二绝技，足够你研习一生，下山弘扬佛法一事，再议吧。</font>
+story_6521_1=<font face="Default" color="#ffffff" >哦，你就是前阵子闹的沸沸扬扬的那个</font><font face="Default" color="#ffffff" >叛</font><font face="Default" color="#ffffff" >师弟子？以你这种秉性，我少林寺是绝对不会收你的，你回吧！</font>
+story_6521_2=<font face="Default" color="#ffffff" >苦海无涯，回头是岸，施主，既然你想遁入空门，对曾经的事，心中可还有什么放不下？</font>
+story_6522_1=<font face="Default" color="#ffffff" >  施主为何想入我峨眉呢？</font>
+story_6522_2=<font face="Default" color="#ffffff" >  </font><font face="Default" color="#ffffff" >苦海无涯</font><font face="Default" color="#ffffff" >，回头是岸。本寺只收有缘人，既是施主能及时回头，实在万幸。既然你与本尼相遇，也算有缘，我会恳请绝尘师太收你入寺的。</font>
+story_6523_1=<font face="Default" color="#ffffff" > 嗝~</font><font face="Default" color="#ffffff" >谁......叫你扶我的？</font><font face="Default" color="#ffffff" >嗝~</font><font face="Default" color="#ffffff" >我这不......正往山上走么......你看看，害的我都忘记路了？你是谁啊？来我武当干什么？</font>
+story_6523_2=<font face="Default" color="#ffffff" > </font><font face="Default" color="#ffffff" >嗝~</font><font face="Default" color="#ffffff" >这......这不归我管。你......你找我紫阳师兄去......</font><font face="Default" color="#ffffff" >嗝~</font><font face="Default" color="#ffffff" >我......我还要继续去喝.....一杯。</font>
+story_6523_3=<font face="Default" color="#ffffff" >  别别，这位小兄弟，有事好好说嘛。你要加入我武当，凭我手中的这封信，不就可以了么？</font>
+story_6524_1=<font face="Default" color="#ffffff" >  我丐帮弟子</font><font face="Default" color="#ffffff" >都是热心肠的人，你不妨说出来吧，也许说不定还有什么地方可以帮到你。</font>
+story_6524_2=<font face="Default" color="#ffffff" >  那为何不加入我们丐帮呢？丐帮乃是天下第一大帮，虽然大家都过着颠沛流离的生活，但是我们同心，一人有难，大家都会伸出手来帮助的。</font>
+story_6524_3=<font face="Default" color="#ffffff" >  哈哈哈哈，怕什么？我们丐帮弟子还怕过谁么？没事，小兄弟，你加入了我丐帮之后，保你没问题！</font>
+story_6525_1=<font face="Default" color="#ffffff" >  噢？</font><font face="Default" color="#ffffff" >唐门弟子一向在门内潜心修炼暗器手法，并且钻研各种毒物，这倒挺符合你的要求的。不过，唐门不是什么人都收，还是需要一定的先天条件才能进入唐门。</font>
+story_6525_2=<font face="Default" color="#ffffff" >  </font><font face="Default" color="#ffffff" >唐门弟子都是对江湖毒药有一定研究的人，并且身法都是一等一之人，不知道你可以么？</font>
+story_6527_1=<font face="Default" color="#ffffff" >  哦？发生了什么事？居然想加入我们极乐谷？你可知，我们极乐谷在江湖可是被所谓的正派人事所唾弃之流。</font>
+story_6527_2=<font face="Default" color="#ffffff" >  呵呵，为何这么说呢？</font>
+story_6527_3=<font face="Default" color="#ffffff" >  哈哈哈，所谓的江湖正派，全是狗屁。侠？能做什么？人生苦短，做一个真正的自我，才是真谛。好，既然你这么想，我就推荐你给单谷主。</font>
+story_6528_1=<font face="Default" color="#ffffff" >  我锦衣卫岂是你说来就来的？锦衣卫弟子各个都是身手矫捷，武艺超群，听候</font><font face="Default" color="#ffffff" >皇甫</font><font face="Default" color="#ffffff" >统领的号令，你可行？</font>
+story_6529_1=<font face="Default" color="#ffffff" >  君子堂门人各个都是潇洒倜傥，</font><font face="Default" color="#ffffff" >能文善舞，只要你符合条件了，就可以加入我君子堂，但是必须要远离江湖纷争才行，你能办到么？</font>
+story_6530_1=如今江湖虽非多事之秋，然各势力蠢蠢欲动，况且以你如今的实力，只怕连参加试炼的资格都不可获得。你又何必急于一时呢？
+story_6530_2=以你如今的功力，即便前往江湖之中，也不过是敬陪末座。我峨眉自祖师开山，流传下来的武功博大精深，若不能更近一步，你又怎能有资格于江湖历练扬我峨眉之威？下山一事，休要再提。
+story_6531_1=如今江湖虽非多事之秋，然各势力蠢蠢欲动，况且以你如今的实力，只怕连参加试炼的资格都不可获得。你又何必急于一时呢？
+story_6531_2=<font face="Default" color="#ffffff" >以你如今的功力，即便前往江湖之中，也不过是敬陪末座。我武当如今已是武林之中泰山北斗，张祖师流传下来的武功博大精深，若不能更进一步，你又怎能有资格于江湖历练扬我武当之威？下山一事，且等以后再说罢。</font>
+story_6532_1=如今江湖虽非多事之秋，然各势力蠢蠢欲动，况且以你如今的实力，只怕连参加试炼的资格都不可获得。你又何必急于一时呢？
+story_6532_2=<font face="Default" color="#ffffff" >以你如今的功力，即便前往江湖之中，也不过是敬陪末座。我丐帮早已是江湖第一大派，帮中人才济济，历代帮主传下的武功博大精深，若不能更近一步，你又怎能有资格于江湖历练扬我丐帮之威？外出一事，莫再多言，你且先下去罢。</font>
+story_6533_1=如今江湖虽非多事之秋，然各势力蠢蠢欲动，况且以你如今的实力，只怕连参加试炼的资格都不可获得。你又何必急于一时呢？
+story_6533_2=以你如今的功力，即便前往江湖之中，也不过是敬陪末座。我唐门之中人才济济，若你的武功不能更近一步，又有何资格于江湖历练扬我唐门之威？只会让我唐门成为江湖中人的笑柄。外出一事，休要呱噪，你且先行退下。
+story_6534_1=如今江湖虽非多事之秋，然各势力蠢蠢欲动，况且以你如今的实力，只怕连参加试炼的资格都不可获得。你又何必急于一时呢？
+story_6534_2=<font face="Default" color="#ffffff" >以你如今的功力，即便前往江湖之中，也不过是敬陪末座。我极乐谷虽不是江湖泰斗，却也在江湖之中小有名望。若你的武功不能更上层楼，又有何资格于江湖之中扬我极乐谷之威？只怕会让我极乐谷成为众人嘲笑之资。外出一事，勿再多言。</font>
+story_6535_1=如今江湖虽非多事之秋，然各势力蠢蠢欲动，况且以你如今的实力，只怕连参加试炼的资格都不可获得。你又何必急于一时呢？
+story_6535_2=我锦衣卫早已在江湖之中赫赫扬名。虽比不得那些名门正派，然而江湖之中谁不对我锦衣卫敬让三分？况且以你现在的武功，在江湖之中不过是敬陪末座之辈。如何能扬我锦衣卫之威？此事莫再多言，速速退下。
+story_6536_1=如今江湖虽非多事之秋，然各势力蠢蠢欲动，况且以你如今的实力，只怕连参加试炼的资格都不可获得。你又何必急于一时呢？
+story_6536_2=君子堂本就超然物外与世无争。若是为了争甚么虚名，我君子堂弟子早已超越其他诸派。你即有此心，便以脱离我君子堂超然之心态，还是留在门中好生思过。若能思虑通达，便是你踏入江湖之时。
+story_6537_1=<font face="Default" color="#ffffff" >诶，想不到你竟能在这阵中撑到这番地步，已经深受重伤，想必功力也大不如前，也罢，既然你想下山历练，就需按照门派规定一一行事。</font>
+story_6538_1=诶，想不到你身受重伤竟还能在这阵中撑到此番地步。这是何苦？！即便日后康复，功力也大不如前。
+story_6539_1=诶，想不到你身受重伤竟还能在这阵中撑到此番地步。这是何苦？！即便日后康复，功力也大不如前。
+story_6540_1=我早知你去意已决，前者有仲昊劝阻，你也未曾听进。我丐帮弟子行事向来光明磊落，我阻你离去，并非为其他，只是怕你功夫不精，行走江湖无法自保，如今你在这众高手手中坚持如此之久，我也放心让你离去，只是你却不再是我丐帮弟子，你可知晓？
+story_6541_1=<font face="Default" color="#ffffff" >你可知阻拦你之人都是我唐门之中数一数二的高手，你既然能在他们手下勉强不死，我便不再追究你擅离之罪。既然你想要离我唐门出外闯荡，我便准你出外闯荡，不过刚才那些人已经将你击伤，即便痊愈功力也会大减，也算是对你的惩罚，如今你已不是我唐门之人，速速离去！</font>
+story_6543_1=哼，擅离职守！你可知锦衣卫禁令？而今你已功力大减，即便我不杀你，你在江湖之中也那难以立足。况且你如此作为又怎能继续留在我锦衣卫之中，既然你想要离去，那便赶紧离开。我锦衣卫不要尔等不尊上命的部署！
+story_6544_1=此番你虽被我君子堂高手擒获，然你所用武功在我君子堂众弟子之中也算前列，然而经此一战，你身受内伤，即便痊愈，也难恢复到从前实力，也罢，便让你下山去罢，若非有所奇遇，恐怕你的武功也难以恢复了，只是从此之后，你不再是我君子堂弟子了。
+story_6545_1=<font face="Default" color="#ffffff" >诶，想不到你身受重伤竟还能在这阵中撑到此番地步。这是何苦？！即便日后康复，功力也大不如前。也罢！就拿这功力退步之事换你离开极乐谷罢。从今日起，你不再是我极乐谷弟子。</font>
+story_6546_1=<font face="Default" color="#ffffff" >  （拿过信函过目）居然是祖勋师弟的信函！师弟性格孤僻，十年前从少林寺出走之后，就云游四海，再也没有回到过少林，你是在何方遇到祖勋</font><font face="Default" color="#ffffff" >师弟</font><font face="Default" color="#ffffff" >的？</font>
+story_6546_2=<font face="Default" color="#ffffff" >  师弟路过我少林寺，都不回来，不知为何原因，既然师</font><font face="Default" color="#ffffff" >弟</font><font face="Default" color="#ffffff" >的信函在此，要我收你入寺，老衲便为你剃度，以后你就是我少林寺弟子了。</font>
+story_6547_1=<font face="Default" color="#ffffff" >  （绝尘师太接过信函，看了一遍）恩，事情经过我都知道了。既然你已经洗心革面，彻底向佛，我也不计前嫌，收你入寺吧。</font>
+story_6548_1=<font face="Default" color="#ffffff" >  哎，广龙师弟又偷偷下山喝酒去了......（拿过引荐信看了起来）</font>
+story_6548_2=<font face="Default" color="#ffffff" >  既然广龙师弟这么推荐你，我就收下你吧，不过你以后得遵守我武当的门规，不得和我那师弟一样，知道了么？</font>
+story_6549_1=<font face="Default" color="#ffffff" >  （接过信，看了起来）你以后就不要在江湖中流浪了，留在我丐帮吧。</font>
+story_6550_1=<font face="Default" color="#ffffff" >  （接过唐欢的信，仔细的看了起来）唐欢这小</font><font face="Default" color="#ffffff" >子</font><font face="Default" color="#ffffff" >，最近越来越让姥姥喜欢了。（抬头看了你一下）听唐欢说，少侠想离开江湖纷争，找一个清静之地钻研武学？</font>
+story_6554_1=阿弥陀佛。不知你下山历练可有所收获？
+story_6554_2=阿弥陀佛。若只是弘扬佛法，我少林早已是声名远播。尔等入世弟子下山历练除了提高佛法修为，更需提高自己的武学修为。若你能取回相应凭证，借此证明此番历练你并未荒废武学，方才拥有重归山门的资格。
+story_6555_1=既然如此，不知你下山历练可有所收获？
+story_6555_2=尔等入世弟子乃是以武入道，历练除了提高自我心境，扬我峨眉声威，更需提高自己的武学修为。若你能取回相应凭证，借此证明此番历练你并未荒废武学，方才拥有重归山门的资格。
+story_6556_1=既然如此，不知你下山历练可有所收获？
+story_6556_2=尔等入世弟子虽是为求历经百般磨难而成道心通达，除了提高自我心境之外，更需提高自己的武学修为。若你能取回相应凭证，借此证明此番历练你并未荒废武学，方才拥有重归山门的资格。
+story_6557_1=既然如此，不知你外出历练可有所收获？
+story_6557_2=尔等外出历练弟子经此种种，想必也已经知道民间疾苦，然而天下太平光有一腔热血甚难为之。若无高深武功，怎么面对种种艰难之处？若你能取回相应凭证证明此番历练你并未荒废武学，方才拥有重回帮中的资格。
+story_6558_1=既然如此，不知你外出历练可有所收获？
+story_6558_2=尔等外出弟子行走江湖，能时刻心念唐门安慰，不枉唐门教导一番。如今你既然要重回唐门，便需依照我唐门规矩。若你能取回相应凭证，借此证明此番历练你并未荒废武学，方才拥有重回唐门的资格。
+story_6559_1=既然如此，不知你下山历练可有所收获？
+story_6559_2=极乐谷规矩森严，若是你想重新入我极乐谷，需按我极乐谷规矩办事。若你能取回相应凭证，借此证明此番历练你并未荒废武学，方才拥有重归山门的资格。
+story_6560_1=既然如此，不知你下山历练可有所收获？
+story_6560_2=尔等外出历练，能心系锦衣卫，刺探诸门派消息，对锦衣卫之忠心自不必说，然若想重投锦衣卫麾下，必按照锦衣卫规矩办事。若你能取回相应凭证，借此证明此番历练你并未荒废武学，方才拥有重投锦衣卫麾下的资格。
+story_6561_1=既然如此，不知你外出历练可有所收获？
+story_6561_2=当初掌门劝阻尔等，尔等却执意外出，如今可尝到苦果了？也罢，若你能取回相应凭证，借此证明此番历练你并未荒废武学，方才拥有重归山门的资格。
+story_6570_1=<font face="Default" color="#ffffff" >  平时你也为了我明教四处奔波，兢兢业业，我也都看在眼里。但是明教教规森严，任何人等都不得触犯，即使是我，也不能。虽然我知你无心，但是我也不能留你在明教，否则教内众多弟子，以后步你后尘的肯定会越来越多。</font>
+story_6570_2=<font face="Default" color="#ffffff" >  哈哈，我不</font><font face="Default" color="#ffffff" >会和</font><font face="Default" color="#ffffff" >你一般见识，你今天就从我明教走吧，我不会为难你。</font><font face="Default" color="#ffffff" >以后再遇到你，可不会这么让你走的。</font>
+story_6571_1=<font face="Default" color="#ffffff" > 哦？发生了什么事？居然想加入我们</font><font face="Default" color="#ffffff" >明教</font><font face="Default" color="#ffffff" >？你可知，我们</font><font face="Default" color="#ffffff" >明教</font><font face="Default" color="#ffffff" >在江湖可是被所谓的正派人事所唾弃之流。</font>
+story_6571_2=<font face="Default" color="#ffffff" >呵呵，为何这么说呢？</font>
+story_6571_3=<font face="Default" color="#ffffff" >  哈哈哈，所谓的江湖正派，全是狗屁。侠？能做什么？人生苦短，做一个真正的自我，才是真谛。好
+story_6572_1=<font face="Default" color="#ffffff" >如今江湖虽非多事之秋，然各势力蠢蠢欲动，况且以你如今的实力，只怕连参加试炼的资格都不可获得
+story_6572_2=<font face="Default" color="#ffffff" >明教本就超然物外与世无争。若是为了争甚么虚名，我明教弟子早已超越其他诸派。你即有此心，便以脱离我明教超然之心态，还是留在门中好生思过。若能思虑通达，便是你踏入江湖之时。</font>
+story_6573_1=<font face="Default" color="#ffffff" >此番你虽被我明教高手擒获，然你所用武功在我明教众弟子之中也算前列，然而经此一战，你身受内伤，即便痊愈，也难恢复到从前实力，也罢，便让你下山去罢，若非有所奇遇，恐怕你的武功也难以恢复了，只是从此之后，你不再是我明教弟子了。</font>
+story_6573_2=
+story_6574_1=<font face="Default" color="#ffffff" >既然如此，不知你外出历练可有所收获？</font>
+story_6574_2=<font face="Default" color="#ffffff" >当初教主劝阻尔等，尔等却执意外出，如今可尝到苦果了？也罢，若你能取回相应凭证，借此证明此番历练你并未荒废武学，方才拥有重归山门的资格。</font>
+story_6575_1=<font face="Default" color="#ffffff" >  平时你也为了我</font><font face="Default" color="#ffffff" >天山派</font><font face="Default" color="#ffffff" >四处奔波，兢兢业业，我也都看在眼里。但是</font><font face="Default" color="#ffffff" >天山派门</font><font face="Default" color="#ffffff" >规森严，任何人等都不得触犯，即使是我，也不能。虽然我知你无心，但是我也不能留你在</font><font face="Default" color="#ffffff" >天山派</font><font face="Default" color="#ffffff" >，否则</font><font face="Default" color="#ffffff" >门</font><font face="Default" color="#ffffff" >内众多弟子，以后步你后尘的肯定会越来越多。</font>
+story_6575_2=<font face="Default" color="#ffffff" >  哈哈，我不会和你一般见识，你今天就从我</font><font face="Default" color="#ffffff" >天山派</font><font face="Default" color="#ffffff" >走吧，我不会为难你。以后再遇到你，可不会这么让你走的。</font>
+story_6576_1=<font face="Default" color="#ffffff" > 哦？发生了什么事？居然想加入我们</font><font face="Default" color="#ffffff" >天山派</font><font face="Default" color="#ffffff" >？</font>
+story_6576_2=<font face="Default" color="#ffffff" >呵呵，为何这么说呢？</font>
+story_6576_3=<font face="Default" color="#ffffff" >  哈哈哈，人生苦短，做一个真正的自我，才是真谛。</font>
+story_6577_1=<font face="Default" color="#ffffff" >如今江湖虽非多事之秋，然各势力蠢蠢欲动，况且以你如今的实力，只怕连参加试炼的资格都不可获得</font>
+story_6577_2=<font face="Default" color="#ffffff" >天山派</font><font face="Default" color="#ffffff" >本就超然物外与世无争。若是为了争甚么虚名，我</font><font face="Default" color="#ffffff" >天山派</font><font face="Default" color="#ffffff" >弟子早已超越其他诸派。你即有此心，便以脱离我</font><font face="Default" color="#ffffff" >天山派</font><font face="Default" color="#ffffff" >超然之心态，还是留在门中好生思过。若能思虑通达，便是你踏入江湖之时。</font>
+story_6578_1=<font face="Default" color="#ffffff" >此番你虽被我天山派高手擒获，然你所用武功在我天山派众弟子之中也算前列，然而经此一战，你身受内伤，即便痊愈，也难恢复到从前实力，也罢，便让你下山去罢，若非有所奇遇，恐怕你的武功也难以恢复了，只是从此之后，你不再是我</font><font face="Default" color="#ffffff" >天山派</font><font face="Default" color="#ffffff" >弟子了。</font>
+story_6579_1=<font face="Default" color="#ffffff" >既然如此，不知你外出历练可有所收获？</font>
+story_6579_2=<font face="Default" color="#ffffff" >当初</font><font face="Default" color="#ffffff" >掌门</font><font face="Default" color="#ffffff" >劝阻尔等，尔等却执意外出，如今可尝到苦果了？也罢，若你能取回相应凭证，借此证明此番历练你并未荒废武学，方才拥有重归山门的资格。</font>
+story_6580_1=<font face="Default" color="#ffffff" >  平时你也为了我</font><font face="Default" color="#ffffff" >昆仑</font><font face="Default" color="#ffffff" >派四处奔波，兢兢业业，我也都看在眼里。但是</font><font face="Default" color="#ffffff" >昆仑</font><font face="Default" color="#ffffff" >派门规森严，任何人等都不得触犯，即使是我，也不能。虽然我知你无心，但是我也不能留你在</font><font face="Default" color="#ffffff" >昆仑</font><font face="Default" color="#ffffff" >派，否则门内众多弟子，以后步你后尘的肯定会越来越多。</font>
+story_6580_2=<font face="Default" color="#ffffff" >  哈哈，我不会和你一般见识，你今天就从我</font><font face="Default" color="#ffffff" >昆仑</font><font face="Default" color="#ffffff" >派走吧，我不会为难你。以后再遇到你，可不会这么让你走的。</font>
+story_6581_1=<font face="Default" color="#ffffff" > 哦？发生了什么事？来我</font><font face="Default" color="#ffffff" >昆仑</font><font face="Default" color="#ffffff" >干什么？</font>
+story_6581_2=<font face="Default" color="#ffffff" >呵呵，为何这么说呢？</font>
+story_6581_3=<font face="Default" color="#ffffff" >  哈哈哈，你要加入我</font><font face="Default" color="#ffffff" >昆仑派</font><font face="Default" color="#ffffff" >，凭我手中的这封信，不就可以了么？</font>
+story_6582_1=<font face="Default" color="#ffffff" >如今江湖虽非多事之秋，然各势力蠢蠢欲动，况且以你如今的实力，只怕连参加试炼的资格都不可获得</font>
+story_6582_2=<font face="Default" color="#ffffff" >昆仑</font><font face="Default" color="#ffffff" >派本就超然物外与世无争。若是为了争甚么虚名，我</font><font face="Default" color="#ffffff" >昆仑</font><font face="Default" color="#ffffff" >派弟子早已超越其他诸派。你即有此心，便以脱离我</font><font face="Default" color="#ffffff" >昆仑</font><font face="Default" color="#ffffff" >派超然之心态，还是留在门中好生思过。若能思虑通达，便是你踏入江湖之时。</font>
+story_6583_1=<font face="Default" color="#ffffff" >此番你虽被我昆仑派高手擒获，然你所用武功在我昆仑派众弟子之中也算前列，然而经此一战，你身受内伤，即便痊愈，也难恢复到从前实力，也罢，便让你下山去罢，若非有所奇遇，恐怕你的武功也难以恢复了，只是从此之后，你不再是我</font><font face="Default" color="#ffffff" >昆仑</font><font face="Default" color="#ffffff" >派弟子了。</font>
+story_6584_1=<font face="Default" color="#ffffff" >既然如此，不知你外出历练可有所收获？</font>
+story_6584_2=<font face="Default" color="#ffffff" >当初掌门劝阻尔等，尔等却执意外出，如今可尝到苦果了？也罢，若你能取回相应凭证，借此证明此番历练你并未荒废武学，方才拥有重归山门的资格。</font>
+story_menu_6500=<font face="Default" color="#ffffff" >刚刚你</font><font face="Default" color="#ffffff" >没事吧。</font>
+story_menu_6501=<font face="Default" color="#ffffff" >其实攻克也是一种度化，这不正是因果么？</font>
+story_menu_6502=<font face="Default" color="#ffffff" >祖名师叔刚刚得罪了，我想离开</font><font face="Default" color="#ffffff" >少林</font><font face="Default" color="#ffffff" >。</font>
+story_menu_6503=<font face="Default" color="#ffffff" >师姐找我有何事？</font>
+story_menu_6504=<font face="Default" color="#ffffff" >大师姐，刚刚二师姐她……</font>
+story_menu_6505=<font face="Default" color="#ffffff" >师叔，从我入门以来你就一直对我照顾有加……</font>
+story_menu_6506=<font face="Default" color="#ffffff" >师叔，</font><font face="Default" color="#ffffff" >我离开门派后你要好好照顾自己。</font>
+story_menu_6507=<font face="Default" color="#ffffff" >灾民怎么越来越多……</font>
+story_menu_6508=<font face="Default" color="#ffffff" >石长老我有件事想说。</font>
+story_menu_6509=<font face="Default" color="#ffffff" >可不可以不去……</font>
+story_menu_6510=<font face="Default" color="#ffffff" >我</font><font face="Default" color="#ffffff" >要叛出师门，再也不想接触任何与毒有关的东西了。</font>
+story_menu_6511=<font face="Default" color="#ffffff" >最近我确实有些心不在焉，在想一些自己的事情。</font>
+story_menu_6512=<font face="Default" color="#ffffff" >王旗使找我有何事？</font>
+story_menu_6513=<font face="Default" color="#ffffff" >我想过自己的生活，离开锦衣卫。</font>
+story_menu_6514=<font face="Default" color="#ffffff" >云烟姐，刚刚没有伤到你吧。</font>
+story_menu_6515=<font face="Default" color="#ffffff" >前辈，</font><font face="Default" color="#ffffff" >听闻您精通易容之术，</font><font face="Default" color="#ffffff" >能够向晚辈介绍一下。</font>
+story_menu_6516=<font face="Default" color="#ffffff" >前辈，融骨丹和生肌丹我都有了还缺少何种物品。</font>
+story_menu_6517=<font face="Default" color="#ffffff" >既然玄玉小刀有着落了，不知下一步需要晚辈准备些什么</font>
+story_menu_6518=<font face="Default" color="#ffffff" >还需要几种药物，前辈尽管说来我去找便是。</font>
+story_menu_6519=<font face="Default" color="#ffffff" >前辈尽管</font><font face="Default" color="#ffffff" >将</font><font face="Default" color="#ffffff" >所需之物一一详说，我定会想法设法寻到。</font>
+story_menu_6520=方丈容禀，弟子想知道是否能前往山下一行？
+story_menu_6521=<font face="Default" color="#ffffff" >在下仰慕少林寺已经很久了，这次特意从原门派</font><font face="Default" color="#ffffff" >叛</font><font face="Default" color="#ffffff" >师出来，投靠少林寺。</font>
+story_menu_6522=<font face="Default" color="#ffffff" >还请师太收留。</font>
+story_menu_6523=<font face="Default" color="#ffffff" >真人，你没事吧？</font>
+story_menu_6524=<font face="Default" color="#ffffff" >哎，不提也罢，回想起来全是泪啊。</font>
+story_menu_6525=<font face="Default" color="#ffffff" >在下厌恶了所谓的江湖正派与邪派之间的恩怨，想找一个中立的门派潜心研习武学。</font>
+story_menu_6527=<font face="Default" color="#ffffff" >在下实在走头无路，还请极乐谷收留。</font>
+story_menu_6528=<font face="Default" color="#ffffff" >说明来意</font>
+story_menu_6529=<font face="Default" color="#ffffff" >加入君子堂</font>
+story_menu_6530=掌门容禀，弟子想前往山下一行，不知掌门能否应允？
+story_menu_6531=掌门容禀，弟子想前往山下一行，不知掌门能否应允？
+story_menu_6532=帮主容禀，弟子想出外一行，不知帮主能否应允？
+story_menu_6533=姥姥容禀，弟子想出外一行，不知姥姥能否应允？
+story_menu_6534=谷主容禀，弟子想出谷一行，不知谷主能否应允？
+story_menu_6535=大人容禀，弟子想出外一行，不知统领大人能否应允？
+story_menu_6536=掌门容禀，弟子想出外一行，不知掌门能否应允？
+story_menu_6537=事已至此，弟子听凭掌门发落。
+story_menu_6538=事已至此，弟子听凭掌门发落。
+story_menu_6539=事已至此，弟子听凭掌门发落。
+story_menu_6540=事已至此，弟子听凭帮主发落。
+story_menu_6541=事已至此，弟子听凭姥姥发落。
+story_menu_6543=事已至此，弟子听凭统领发落。
+story_menu_6544=事已至此，弟子听凭掌门发落。
+story_menu_6545=事已至此，弟子听凭谷主发落。
+story_menu_6546=<font face="Default" color="#ffffff" >  </font><font face="Default" color="#ffffff" >方丈，弟子想加入少林寺，这是山门口高僧命我交予你的信函。</font>
+story_menu_6547=<font face="Default" color="#ffffff" >掌门师太，在下想加入峨眉派。</font>
+story_menu_6548=<font face="Default" color="#ffffff" >加入武当</font>
+story_menu_6549=<font face="Default" color="#ffffff" >萧帮主，这是陆长老的信。</font>
+story_menu_6550=<font face="Default" color="#ffffff" >恳请姥姥收留</font>
+story_menu_6554=弟子想要重归少林门下。
+story_menu_6555=弟子想要重归峨眉门下。
+story_menu_6556=弟子想要重归武当门下。
+story_menu_6557=弟子想要重归丐帮门下。
+story_menu_6558=弟子想要重归唐门。
+story_menu_6559=弟子想要重回极乐谷。
+story_menu_6560=属下想要重归锦衣卫麾下，以供驱策。
+story_menu_6561=弟子想要重回君子堂，还望成全。
+story_menu_6570=<font face="Default" color="#ffffff" >门内关于你的议论，我已有耳闻</font>
+story_menu_6571=<font face="Default" color="#ffffff" >加入明教</font>
+story_menu_6572=<font face="Default" color="#ffffff" >掌门容禀，弟子想出外一行，不知掌门能否应允？</font>
+story_menu_6573=<font face="Default" color="#ffffff" >事已至此，弟子听凭</font><font face="Default" color="#ffffff" >教主</font><font face="Default" color="#ffffff" >发落。</font>
+story_menu_6574=<font face="Default" color="#ffffff" >弟子想要重回明教，还望成全。</font>
+story_menu_6575=<font face="Default" color="#ffffff" >门内关于你的议论，我已有耳闻</font>
+story_menu_6576=<font face="Default" color="#ffffff" >加入天山派</font>
+story_menu_6577=<font face="Default" color="#ffffff" >掌门容禀，弟子想出外一行，不知掌门能否应允？</font>
+story_menu_6578=<font face="Default" color="#ffffff" >事已至此，弟子听凭</font><font face="Default" color="#ffffff" >掌门</font><font face="Default" color="#ffffff" >发落。</font>
+story_menu_6579=<font face="Default" color="#ffffff" >弟子想要重回</font><font face="Default" color="#ffffff" >天山派</font><font face="Default" color="#ffffff" >，还望成全。</font>
+story_menu_6580=<font face="Default" color="#ffffff" >门内关于你的议论，我已有耳闻</font>
+story_menu_6581=<font face="Default" color="#ffffff" >加入</font><font face="Default" color="#ffffff" >昆仑</font><font face="Default" color="#ffffff" >派</font>
+story_menu_6582=<font face="Default" color="#ffffff" >掌门容禀，弟子想出外一行，不知掌门能否应允？</font>
+story_menu_6583=<font face="Default" color="#ffffff" >事已至此，弟子听凭掌门发落。</font>
+story_menu_6584=<font face="Default" color="#ffffff" >弟子想要重回</font><font face="Default" color="#ffffff" >昆仑</font><font face="Default" color="#ffffff" >派，还望成全。</font>
+storyinfo_6500=询问<a href="findnpc_new,school08,WorldNpc00455" style="HLStype1">陈耳东</a>为什么被打手骚扰
+storyinfo_6501=与<a href="findnpc_new,school08,WorldNpc00202" style="HLStype1">祖明</a>讲析佛道杀业
+storyinfo_6502=跟<a href="findnpc_new,school08,WorldNpc00202" style="HLStype1">祖明</a>讲明自己的想法
+storyinfo_6503=找到二师姐<a href="findnpc_new,school06,WorldNpc02626" style="HLStype1">崔益鸾</a>询问有何事
+storyinfo_6504=向大师姐<a href="findnpc_new,school06,WorldNpc02634" style="HLStype1">华贞絮</a>表明叛出门派一事
+storyinfo_6505=跟<a href="findnpc_new,school07,WorldNpc04430" style="HLStype1">霍天星</a>讲叛出师门一事
+storyinfo_6506=跟<a href="findnpc_new,school06,WorldNpc04880" style="HLStype1">天心道长</a>道别
+storyinfo_6507=将粮食交给<a href="findnpc_new,school02,gb170" style="HLStype1">符溯</a>并询问他灾民情况
+storyinfo_6508=跟<a href="findnpc_new,school02,WorldNpc03012" style="HLStype1">石净之</a>讲述想要叛出师门的意图
+storyinfo_6509=将不想炼毒一事告诉<a href="findnpc_new,school05,WorldNpc02304" style="HLStype1">公瑶</a>
+storyinfo_6510=向<a href="findnpc_new,school05,WorldNpc02339" style="HLStype1">寇聘致</a>说自己要叛出师门一事
+storyinfo_6511=询问<a href="findnpc_new,school04,WorldNpc03812" style="HLStype1">马查兰</a>到底发生了何事
+storyinfo_6512=仔细的听<a href="findnpc_new,school01,WorldNpc04209" style="HLStype1">王逍</a>吩咐的事情
+storyinfo_6513=跟<a href="findnpc_new,school01,WorldNpc04126" style="HLStype1">张世钧</a>表明自己要叛出师门
+storyinfo_6514=对<a href="findnpc_new,school03,JZTNPC148" style="HLStype1">云烟</a>讲述自己最近心境的变化
+storyinfo_6515=与<a href="findnpc_new,born02,erg32" style="HLStype1">淳于仓</a>交谈，了解易容相关事宜
+storyinfo_6516=与<a href="findnpc_new,born02,erg32" style="HLStype1">淳于仓</a>对话，了解易容所需其他物品
+storyinfo_6517=与<a href="findnpc_new,born02,erg32" style="HLStype1">淳于仓</a>对话，了解易容所需其他物品
+storyinfo_6518=与<a href="findnpc_new,born02,erg32" style="HLStype1">淳于仓</a>对话，了解易容所需其他物品
+storyinfo_6519=与<a href="findnpc_new,born02,erg32" style="HLStype1">淳于仓</a>对话，了解易容所需其他物品
+storyinfo_6520=向方丈<a href="findnpc_new,school08,WorldNpc00212" style="HLStype1">玄怀大师</a>询问下山弘法一事
+storyinfo_6521=与<a href="findnpc_new,school08,sl182" style="HLStype1">祖勋</a>交谈（若当前少林已被灭门，祖勋会被转移至武当派）
+storyinfo_6522=与<a href="findnpc_new,school06,em909" style="HLStype1">李骁骁</a>师太交谈
+storyinfo_6523=偶遇<a href="findnpc_new,school07,wd179" style="HLStype1">广龙真人</a>（若当前武当已被灭门，真人会被转移至少林派）
+storyinfo_6524=找到<a href="findnpc_new,school02,gb390" style="HLStype1">陆一脚</a>
+storyinfo_6525=找到<a href="findnpc_new,school05,tm089" style="HLStype1">唐欢</a>
+storyinfo_6527=偶遇<a href="findnpc_new,school04,jlg093" style="HLStype1">徐堂刺</a>，与其交谈（若当前极乐谷已被灭门，徐堂刺会被转移至锦衣卫）
+storyinfo_6528=找到<a href="findnpc_new,school01,jyw048" style="HLStype1">张飞爷</a>，说明自己的来意（若当前锦衣卫已被灭门，张飞爷会被转移至极乐谷）
+storyinfo_6529=找到<a href="findnpc_new,school03,JZTNPC150" style="HLStype1">吴卿芸</a>
+storyinfo_6530=向掌门<a href="findnpc_new,school06,WorldNpc02604" style="HLStype1">绝尘师太</a>询问下山闯荡之事
+storyinfo_6531=向掌门<a href="findnpc_new,school07,WorldNpc04401" style="HLStype1">紫阳真人</a>询问下山闯荡之事
+storyinfo_6532=向帮主<a href="findnpc_new,school02,WorldNpc03003" style="HLStype1">萧天放</a>询问出外闯荡之事
+storyinfo_6533=向家主<a href="findnpc_new,school05,WorldNpc02201" style="HLStype1">唐凤</a>询问出外闯荡之事
+storyinfo_6534=向谷主<a href="findnpc_new,school04,WorldNpc03816" style="HLStype1">单天冥</a>请求出外闯荡
+storyinfo_6535=向锦衣卫统领<a href="findnpc_new,school01,worldnpc04101" style="HLStype1">皇甫遥</a>请命出外闯荡
+storyinfo_6536=向掌门<a href="findnpc_new,school03,WorldNpc03305" style="HLStype1">萧别情</a>询问出外闯荡之事
+storyinfo_6537=听凭方丈<a href="findnpc_new,school08,WorldNpc00212" style="HLStype1">玄怀大师</a>处置
+storyinfo_6538=听凭掌门<a href="findnpc_new,school06,WorldNpc02604" style="HLStype1">绝尘师太</a>处置
+storyinfo_6539=听凭掌门<a href="findnpc_new,school07,WorldNpc04401" style="HLStype1">紫阳真人</a>处置
+storyinfo_6540=听凭帮主<a href="findnpc_new,school02,WorldNpc03003" style="HLStype1">萧天放</a>处置
+storyinfo_6541=听凭<a href="findnpc_new,school05,WorldNpc02201" style="HLStype1">唐门姥姥</a>处置
+storyinfo_6543=听凭统领<a href="findnpc_new,school01,worldnpc04101" style="HLStype1">皇甫遥</a>处置
+storyinfo_6544=听凭掌门<a href="findnpc_new,school03,WorldNpc03305" style="HLStype1">萧别情</a>处置
+storyinfo_6545=听凭谷主<a href="findnpc_new,school04,WorldNpc03816" style="HLStype1">单天冥</a>处置
+storyinfo_6546=听<a href="findnpc_new,school08,WorldNpc00212" style="HLStype1">玄怀大师</a>教诲（若当前少林已被灭门，方丈会被转移至武当派）
+storyinfo_6547=恳请<a href="findnpc_new,school06,WorldNpc02604" style="HLStype1">绝尘师太</a>收我进峨眉派
+storyinfo_6548=将引荐信交予<a href="findnpc_new,school07,WorldNpc04401" style="HLStype1">紫阳真人</a>（若当前武当已被灭门，真人会被转移至少林派）
+storyinfo_6549=恳请<a href="findnpc_new,school02,WorldNpc03003" style="HLStype1">萧天放</a>收留
+storyinfo_6550=恳请<a href="findnpc_new,school05,WorldNpc02201" style="HLStype1">唐凤</a>收留
+storyinfo_6551=找到谷主<a href="findnpc_new,school04,WorldNpc03816" style="HLStype1">单天冥</a>
+storyinfo_6554=与<a href="findnpc_new,school08,sl182" style="HLStype1">祖勋</a>交谈询问重归少林一事（若当前少林已被灭门，祖勋会被转移至武当派）
+storyinfo_6555=与<a href="findnpc_new,school06,em909" style="HLStype1">李骁骁</a>交谈询问重归峨眉一事
+storyinfo_6556=与<a href="findnpc_new,school07,wd179" style="HLStype1">广龙真人</a>交谈询问重归武当一事（若当前武当已被灭门，真人会被转移至少林派）
+storyinfo_6557=与<a href="findnpc_new,school02,gb390" style="HLStype1">陆一脚</a>交谈询问重归丐帮一事。
+storyinfo_6558=与<a href="findnpc_new,school05,tm089" style="HLStype1">唐欢</a>交谈询问重归唐门一事。
+storyinfo_6559=与<a href="findnpc_new,school04,jlg093" style="HLStype1">徐堂刺</a>交谈询问重归极乐谷一事。（若当前极乐谷已被灭门，徐堂刺会被转移至锦衣卫）
+storyinfo_6560=与<a href="findnpc_new,school01,jyw048" style="HLStype1">张飞爷</a>交谈询问重归锦衣卫一事。（若当前锦衣卫已被灭门，张飞爷会被转移至极乐谷）
+storyinfo_6561=与<a href="findnpc_new,school03,JZTNPC150" style="HLStype1">吴卿芸</a>交谈询问重归君子堂一事
+storyinfo_6570=与<a href="findnpc_new,school20,newmp_mj_004" style="HLStype1">蔚掌教</a>交谈
+storyinfo_6571=偶遇<a href="findnpc_new,school20,npc_mjwy_005" style="HLStype1">雷日</a>与其交谈(可以前去恶人谷寻找<a href="findnpc_new,born02,Transbron02I" style="HLStype1">蒋大晨</a>前往明教)
+storyinfo_6572=向教主<a href="findnpc_new,school20,newmp_mj_001" style="HLStype1">明时月</a>询问出外闯荡之事
+storyinfo_6573=听凭教主<a href="findnpc_new,school20,newmp_mj_001" style="HLStype1">明时月</a>处置
+storyinfo_6574=与<a href="findnpc_new,school20,newmp_mj_003" style="HLStype1">茅震</a>交谈询问重归明教一事
+storyinfo_6575=听<a href="findnpc_new,school22,newmp_tsp_004" style="HLStype1">汪汐潮</a>诉说
+storyinfo_6576=偶遇<a href="findnpc_new,school22,npc_tsguj_005" style="HLStype1">天家冠</a>与其交谈(可以前去燕京寻找<a href="findnpc_new,city01,Transschool22guj_B" style="HLStype1">钭军心</a>前往天山派)
+storyinfo_6577=向掌门<a href="findnpc_new,school22,newmp_tsp_001" style="HLStype1">白天璟</a>询问出外闯荡之事
+storyinfo_6578=听凭掌门<a href="findnpc_new,school22,newmp_tsp_001" style="HLStype1">白天璟</a>处置
+storyinfo_6579=与<a href="findnpc_new,school22,newmp_tsp_003" style="HLStype1">卓战夏</a>交谈询问重归天山派一事。
+storyinfo_6580=听<a href="findnpc_new,school24,newmp_kl_001" style="HLStype1">云阳子</a>诉说
+storyinfo_6581=偶遇<a href="findnpc_new,school24,npc_klguj_005" style="HLStype1">轩辕清</a>与其交谈。（注：可通过恶人谷的<a href="findnpc_new,born02,DoorNpc00103" style="HLStype1">传送门</a>前往昆仑派）
+storyinfo_6582=向掌门<a href="findnpc_new,school24,newmp_kl_001" style="HLStype1">云阳子</a>询问出外闯荡之事
+storyinfo_6583=听凭掌门<a href="findnpc_new,school24,newmp_kl_001" style="HLStype1">云阳子</a>处置
+storyinfo_6584=与<a href="findnpc_new,school24,newmp_kl_003" style="HLStype1">无为道长</a>交谈询问重归昆仑派一事。
+storymenu_6500_1=<font face="Default" color="#ffffff" >你没事就好，坏人总归是要受到惩处的。</font>
+storymenu_6500_2=<font face="Default" color="#ffffff" >别客气，少林弟子一向爱打抱不平，对了，这些人打你的时候喊着要你交租子是怎么回事？</font>
+storymenu_6500_3=<font face="Default" color="#ffffff" >原来是这样，这样说来我倒是有些鲁莽了。</font>
+storymenu_6501_1=<font face="Default" color="#ffffff" >那依你之见杀业到底该怎么理解？</font>
+storymenu_6501_2=<font face="Default" color="#ffffff" >（听的有些烦躁）攻克就攻克哪来那么多废话，我攻克是为了正义，如果我现在杀你，你会还手么或者你会杀了我？</font>
+storymenu_6502_1=<font face="Default" color="#ffffff" >对于佛法中的很多东西我最近心生异议，我该去江湖中重新历练一番，一切随我自己的意。我想叛出师门。</font>
+storymenu_6502_2=<font face="Default" color="#ffffff" >师叔，那我告辞了。</font>
+storymenu_6503_1=<font face="Default" color="#ffffff" >我最近</font><font face="Default" color="#ffffff" >下山</font><font face="Default" color="#ffffff" >去了，一直在江湖中历练。</font>
+storymenu_6503_2=<font face="Default" color="#ffffff" >师姐，你这话严重了，门派虽然被定性为邪恶门派但并不代表门派内的弟子都是坏人，也有好多品行端正的人，你怎能一概而论。</font>
+storymenu_6503_3=<font face="Default" color="#ffffff" >那我斗胆问师姐一句师姐认为何为邪何为善何为恶</font>
+storymenu_6504_1=<font face="Default" color="#ffffff" >大师姐，在门派</font><font face="Default" color="#ffffff" >里</font><font face="Default" color="#ffffff" >除了掌门就是你对我最好了，有些话提出来又怕不妥，只是我现在真的忍无可忍了，我想退出峨眉派！</font>
+storymenu_6504_2=<font face="Default" color="#ffffff" >派内斗争愈演愈烈，二师姐处处刁难与你，想把你赶下大师姐的位子，派内师姐师妹纷纷站队，弄的我一点好好练功的心境都没有，派内门规不得与邪派交往，我确实在江湖上认识了些邪派的朋友，我不想沦为别人争夺地位的棋子，我决定退出峨眉。</font>
+storymenu_6504_3=<font face="Default" color="#ffffff" >大师姐，后会有期。</font>
+storymenu_6505_1=<font face="Default" color="#ffffff" >师叔……</font><font face="Default" color="#8fd6ef" >（眼含泪水）</font><font face="Default" color="#ffffff" >你别忙了，我想跟你说我要叛出师门，离开武当派。</font>
+storymenu_6505_2=<font face="Default" color="#ffffff" >师叔你别激动，这件事情是我仔细想过多日才决定的。</font>
+storymenu_6505_3=<font face="Default" color="#ffffff" >入门这些日子</font><font face="Default" color="#ffffff" >多谢</font><font face="Default" color="#ffffff" >掌门、师叔、师兄的教导，离开门派一事我心意已决，还望师叔成全。</font>
+storymenu_6505_4=<font face="Default" color="#ffffff" >我现在就过去跟他说一声，师叔，告辞了。</font>
+storymenu_6506_1=<font face="Default" color="#ffffff" >师叔，谢谢你一直以来的照顾，真的很感谢。</font>
+storymenu_6506_2=<font face="Default" color="#ffffff" >师叔，那我告辞了。</font>
+storymenu_6507_1=<font face="Default" color="#ffffff" >食物还够么？别让灾民饿到了，刚路过的时候看到有孩子都饿哭了。</font>
+storymenu_6507_2=<font face="Default" color="#ffffff" >哎，咱们帮派太穷了，没有足够的实力安置灾民，无富贵，无生活，这真的是我想要过的日子么。</font>
+storymenu_6508_1=<font face="Default" color="#ffffff" >我想</font><font face="Default" color="#ffffff" >叛出</font><font face="Default" color="#ffffff" >师门，再也不想当乞丐了，受够了天天被人指着鼻子骂臭要饭的，我还年轻，我想要过我自己的生活，我不想为了一个馒头忍饥挨饿看人脸色。</font>
+storymenu_6508_2=<font face="Default" color="#ffffff" >荣华富贵，锦衣玉食，我一定会拥有，再也不想当这臭乞丐被人天天指着鼻子骂了，我要叛出门派，离开又脏又臭的丐帮。</font>
+storymenu_6508_3=<font face="Default" color="#ffffff" >我叛出师门后丐帮与我井水不犯河水，我自会躲着丐帮走的。</font>
+storymenu_6509_1=<font face="Default" color="#ffffff" >跟我一起入门的有两个练毒时毒瞎了眼睛，有一个为了保全手臂把手掌整个都砍掉了，太多这种意外出现我有些接受不了，我不想年纪轻轻就身有残疾，最近炼毒的时候才有所推脱。</font>
+storymenu_6510_1=<font face="Default" color="#ffffff" >后果我并不知道，多大的后果我都可以承担。</font>
+storymenu_6510_2=<font face="Default" color="#ffffff" >此事不为难你，我直接去找</font><font face="Default" color="#ffffff" >姥姥</font><font face="Default" color="#ffffff" >讲明此事。</font>
+storymenu_6511_1=<font face="Default" color="#ffffff" >昨天</font><font face="Default" color="#ffffff" >晚上确实是我喂养的，出什么事了么？</font>
+storymenu_6511_2=<font face="Default" color="#ffffff" >盅使……盅使……这……你要对我下毒手？</font>
+storymenu_6511_3=<font face="Default" color="#ffffff" >你……我前些日子心不在焉就是在考虑是否叛出师门，离开极乐谷，看来我的决定是正确的，人命不如盅，在这样的门派还有何情感可言，罢了罢了。</font>
+storymenu_6512_1=<font face="Default" color="#8fd6ef" >（又吩咐我事情做，每次都是这样，自从我加入锦衣卫后就被人用另类的眼光各种打量，受够了）</font>
+storymenu_6512_2=<font face="Default" color="#8fd6ef" >（叛出师门是唯一的解决我困惑的办法了）</font><font face="Default" color="#ffffff" >啊……你刚刚说什么……</font>
+storymenu_6512_3=<font face="Default" color="#ffffff" >王……你……你要干什么……</font>
+storymenu_6513_1=<font face="Default" color="#ffffff" >我自从加入锦衣卫以来就像是一颗人人都能摆布的</font><font face="Default" color="#ffffff" >棋子</font><font face="Default" color="#ffffff" >一样，在门派内处处执行命令，在江湖中处处遭人盘问，被人用另类的眼光看待，这种日子过够了，我想自由，再也不要跟锦衣卫有</font><font face="Default" color="#ffffff" >任何</font><font face="Default" color="#ffffff" >瓜葛。</font>
+storymenu_6513_2=<font face="Default" color="#ffffff" >我心意已决</font><font face="Default" color="#ffffff" >再</font><font face="Default" color="#ffffff" >残酷的后果我都承受的起。</font>
+storymenu_6513_3=<font face="Default" color="#ffffff" >你……入门以来我为你做过许多见得光见不得光的事情，没想到今日我叛出师门你却这样对我，他日江湖中遇到我不会对你手软的。</font>
+storymenu_6514_1=<font face="Default" color="#ffffff" >在门派中每日与琴棋书画为伴，置身于自己的世界中，江湖的腥风血雨丝毫波及不到我，安逸的生活来的太早了，我需要历练，江湖中真正的生杀历练。</font>
+storymenu_6514_2=<font face="Default" color="#ffffff" >我受够了这种生活，我要到江湖上去历练，去独自面对危险，戕屠，我要经过江湖腥风血雨的洗礼，重新整理自己的心境。</font><font face="Default" color="#ffffff" >我要叛出师门。</font>
+storymenu_6514_3=<font face="Default" color="#ffffff" >云烟姐，那我就告辞了。</font>
+storymenu_6515_1=<font face="Default" color="#ffffff" >晚辈此次前来就是</font><font face="Default" color="#ffffff" >为了能够</font><font face="Default" color="#ffffff" >向前辈讨教易容之术。</font>
+storymenu_6515_2=<font face="Default" color="#ffffff" >前辈你就告诉我吧，钱我有的是，</font><font face="Default" color="#ffffff" >现在就少你的指点了。</font>
+storymenu_6515_3=<font face="Default" color="#ffffff" >敢问前辈融骨丹和生肌丹药如何才能炼得。</font>
+storymenu_6515_4=<font face="Default" color="#ffffff" >多谢前辈，前辈稍安勿躁，我这就去。</font>
+storymenu_6516_1=<font face="Default" color="#ffffff" >晚辈在江湖中混迹了这么久，从来没有听说有玉髓这种东西。</font>
+storymenu_6516_2=<font face="Default" color="#ffffff" >原来是这样，我且去大漠打探一番</font><font face="Default" color="#ffffff" >。</font>
+storymenu_6517_1=<font face="Default" color="#ffffff" >凤凰山庄和龙门客栈，又是一处险地，看来又要硬闯一番了，其他地方</font><font face="Default" color="#ffffff" >可</font><font face="Default" color="#ffffff" >有机会获得紫冰银针？</font>
+storymenu_6517_2=<font face="Default" color="#ffffff" >晚辈记下了，多些前辈。</font>
+storymenu_6518_1=<font face="Default" color="#ffffff" >血燕窝我听闻只在烟雨庄出现</font><font face="Default" color="#ffffff" >，其他两种</font><font face="Default" color="#ffffff" >晚辈</font><font face="Default" color="#ffffff" >并不曾听说。</font>
+storymenu_6518_2=<font face="Default" color="#ffffff" >冰蚕丝看来又是个麻烦事，为了易容只能拼了。</font>
+storymenu_6519_1=<font face="Default" color="#ffffff" >我已将此记在心中，还需要寻找何物？</font>
+storymenu_6519_2=<font face="Default" color="#ffffff" >前辈且放心，只要能用钱解决的事情就不是问题，我定找到神秘怪医从他手中购得。</font>
+storymenu_6520_1=方丈明鉴。弟子不过是想去江湖中游历一番，扬我少林佛法。
+storymenu_6520_2=<font face="Default" color="#ffffff" >弟子……弟子谨遵方丈教诲。弟子告退。</font><font face="Default" color="#8fd6ef" >（既如此，我且想个办法偷偷下山罢。）</font>
+storymenu_6521_1=<font face="Default" color="#ffffff" >大师，虽然曾经我是杀过很多人，但是，佛法不是说，放下屠刀，立地成佛么，如今我是真心皈依佛门。</font>
+storymenu_6521_2=<font face="Default" color="#ffffff" >  弟子生平攻克，无虑百数，倘若被我所杀之人的眷属皆来向我复仇索命，弟子虽死百次，亦自不足。
+storymenu_6522_1=<font face="Default" color="#ffffff" >弟子被原掌门逐出门派，无所依靠，路过此地，本想跳崖了</font><font face="Default" color="#ffffff" >结</font><font face="Default" color="#ffffff" >此生，但是看到山上尼姑庵，心想，一死也不能了结所有事，于是心生削发为尼的想法。</font>
+storymenu_6522_2=<font face="Default" color="#ffffff" >多谢师太成全。</font>
+storymenu_6523_1=<font face="Default" color="#ffffff" >在下仰慕武当武学渊源流长，特想拜入武当。</font>
+storymenu_6523_2=<font face="Default" color="#ffffff" >（这丫看不出来，居然是武当派的广龙真人，早就听说嗜酒如命，这下好办了！）好，那我就上山去了，说在山下遇到一烂醉如泥的道士。</font>
+storymenu_6523_3=<font face="Default" color="#ffffff" >那好，你把那封引荐信给我，我就不告诉你师兄。</font>
+storymenu_6524_1=<font face="Default" color="#ffffff" >哎，自从被逐出门派，废掉武功之后，我就一直颠沛流离，还时不时要躲开隐卫的追杀，真不想过这种流离的生活了。</font>
+storymenu_6524_2=<font face="Default" color="#ffffff" >你就不怕那些追杀我的人来找你们麻烦么？</font>
+storymenu_6524_3=<font face="Default" color="#ffffff" >小弟在此感激不尽。</font>
+storymenu_6525_1=<font face="Default" color="#ffffff" >是什么条件呢？</font>
+storymenu_6525_2=<font face="Default" color="#ffffff" >毒药，可以从现在开始研习，身法，我对自己的身法以及走位技巧都是很有自信的。</font>
+storymenu_6527_1=<font face="Default" color="#ffffff" >不瞒您说，我早就看穿那些所谓的名门正派，一个个都披着虚伪的面皮，我就是要加入极乐谷，把他们一个个都杀光！</font>
+storymenu_6527_2=<font face="Default" color="#ffffff" >你有所不知，早前奉师傅之命，与师傅一起下山，谁知道师傅他居然打着正派的名号，四处作恶，在下实在看不下去，一走了之，本想揭发他的，没想到被发现，还被废了武功，四处追杀。</font>
+storymenu_6527_3=<font face="Default" color="#ffffff" >多谢前辈成全。</font>
+storymenu_6528_1=<font face="Default" color="#ffffff" >那你不试试我，怎么知道我就不行呢？</font>
+storymenu_6529_1=<font face="Default" color="#ffffff" >在下从小舞文弄墨，在家乡，也算是有点小名气的。至于江湖纷争，在下从上一个门派出来，就是为了远离江湖纷争，每天写写画画才来到君子堂的。</font>
+storymenu_6530_1=掌门明鉴。弟子不过是想去江湖中游历一番，扬我峨眉之威。
+storymenu_6530_2=<font face="Default" color="#ffffff" >弟子……弟子谨遵掌门教诲。弟子告退。</font><font face="Default" color="#8fd6ef" >（既如此，我且想个办法偷偷下山罢。）</font>
+storymenu_6531_1=掌门明鉴。弟子不过是想去江湖中游历一番，扬我武当之威。
+storymenu_6531_2=<font face="Default" color="#ffffff" >弟子……弟子谨遵掌门教诲。弟子告退。</font><font face="Default" color="#8fd6ef" >（既如此，我且想个办法偷偷下山罢。）</font>
+storymenu_6532_1=帮主明鉴。弟子不过是想去江湖中游历一番，扬我丐帮之威。
+storymenu_6532_2=<font face="Default" color="#ffffff" >弟子……弟子谨遵帮主教诲。弟子告退。</font><font face="Default" color="#8fd6ef" >（既如此，我且想个办法偷偷下山罢。）</font>
+storymenu_6533_1=姥姥明鉴。弟子不过是想去江湖中游历一番，扬我唐门之威。
+storymenu_6533_2=<font face="Default" color="#ffffff" >弟子……弟子谨遵</font><font face="Default" color="#ffffff" >姥姥</font><font face="Default" color="#ffffff" >教诲。弟子告退。</font><font face="Default" color="#8fd6ef" >（既如此，我且想个办法偷偷下山罢。）</font>
+storymenu_6534_1=<font face="Default" color="#ffffff" >谷主明鉴。弟子不过是想去江湖中游历一番，扬我极乐谷之威。</font>
+storymenu_6534_2=<font face="Default" color="#ffffff" >弟子……弟子谨遵</font><font face="Default" color="#ffffff" >谷主</font><font face="Default" color="#ffffff" >教诲。弟子告退。</font><font face="Default" color="#8fd6ef" >（既如此，我且想个办法偷偷下山罢。）</font>
+storymenu_6535_1=统领明鉴。属下不过是想去江湖中游历一番，扬我锦衣卫之威
+storymenu_6535_2=<font face="Default" color="#ffffff" >属下</font><font face="Default" color="#ffffff" >……</font><font face="Default" color="#ffffff" >属下遵命</font><font face="Default" color="#ffffff" >。</font><font face="Default" color="#ffffff" >属下</font><font face="Default" color="#ffffff" >告退。</font><font face="Default" color="#8fd6ef" >（既如此，我且想个办法偷偷下山罢。）</font>
+storymenu_6536_1=掌门明鉴。弟子不过是想去江湖中游历一番，扬我君子堂之威。
+storymenu_6536_2=<font face="Default" color="#ffffff" >弟子……弟子谨遵掌门教诲，这便回去思过。</font><font face="Default" color="#8fd6ef" >（既如此，我便寻个机会偷偷离开罢。）</font>
+storymenu_6537_1=方丈恩重如山，弟子惭愧万分。
+storymenu_6538_1=掌门待弟子恩重如山，弟子自知万死难赎。
+storymenu_6539_1=掌门待我恩重如山，如今弟子深知罪孽深重，难以赎罪。
+storymenu_6540_1=帮主厚爱至此，弟子有愧。
+storymenu_6541_1=姥姥大恩，弟子粉身难报。
+storymenu_6543_1=多谢统领不杀之恩。
+storymenu_6544_1=弟子犯下此等过错，掌门竟还如此关心弟子，弟子羞愧万分。
+storymenu_6545_1=谷主大恩，弟子万死难报。
+storymenu_6546_1=<font face="Default" color="#ffffff" >就在山门口。</font>
+storymenu_6546_2=<font face="Default" color="#ffffff" >弟子知道。</font>
+storymenu_6547_1=<font face="Default" color="#ffffff" >多谢掌门师太成全。</font>
+storymenu_6548_1=<font face="Default" color="#ffffff" >这是在下从广龙真人手中得到的引荐信，还请真人过目。</font>
+storymenu_6548_2=<font face="Default" color="#ffffff" >多谢真人收留。</font>
+storymenu_6549_1=<font face="Default" color="#ffffff" >多谢帮主。</font>
+storymenu_6550_1=<font face="Default" color="#ffffff" >正是，还请姥姥成全。</font>
+storymenu_6554_1=弟子入世已久，每日弘扬我少林佛法，惩恶扬善，普济众生。
+storymenu_6554_2=弟子明白，弟子这便前去。
+storymenu_6555_1=弟子入世已久，每日救济灾民，惩恶扬善，振我峨眉声威。
+storymenu_6555_2=弟子明白，弟子这便前去。
+storymenu_6556_1=弟子入世已久，游遍天下，餐风饮露，仗剑而行，而今道心通明，恳请回山聆听掌门教诲。
+storymenu_6556_2=弟子明白，弟子这便前去。
+storymenu_6557_1=弟子此番外出，历经种种磨难，放置世间民众疾苦。此番会来，想要再入丐帮门下，发奋而为，以求天下百姓安居乐业。
+storymenu_6557_2=弟子明白，弟子这便前去。
+storymenu_6558_1=弟子才入江湖，方知唐门在江湖之中威名赫赫。众江湖人士莫不对我唐门弟子恭敬有加。然弟子察觉到江湖之中暗潮汹涌，望能重回唐门，为我唐门效力。
+storymenu_6558_2=弟子明白，弟子这便前去。
+storymenu_6559_1=弟子此番出谷，牢记谷主教诲，并未与官府中人打过交道，每日里餐风饮露，仗剑而行，而今有所顿悟，恳请再听谷主教诲。
+storymenu_6559_2=弟子明白，弟子这便前去。
+storymenu_6560_1=属下此番外出历练，对各大门派一一探查，虽未探出什么惊天秘密，却也得知不少诸门派隐秘之事。
+storymenu_6560_2=属下明白，属下这便前去。
+storymenu_6561_1=弟子此番江湖游历，人情冷暖世态炎凉之事屡见不鲜，更见到诸多小人嘴脸。而今心灰意冷，只望能重回君子堂中，每日吟诗作对，挥毫作画，以求心静。
+storymenu_6561_2=弟子明白，弟子这便前去。
+storymenu_6570_1=<font face="Default" color="#ffffff" >教主，其实我不是有意要和朝廷有瓜葛，只是，人在江湖，身不得已。</font>
+storymenu_6570_2=<font face="Default" color="#ffffff" >哼，既然这样，那以后也别怪我无情。</font>
+storymenu_6571_1=<font face="Default" color="#ffffff" >在下实在走头无路，还请</font><font face="Default" color="#ffffff" >明教</font><font face="Default" color="#ffffff" >收留。</font>
+storymenu_6571_2=<font face="Default" color="#ffffff" >不瞒您说，我早就看穿那些所谓的名门正派，一个个都披着虚伪的面皮，我就是要加入明教，把他们一个个都杀光！</font>
+storymenu_6571_3=<font face="Default" color="#ffffff" >你有所不知，早前奉师傅之命，与师傅一起下山，谁知道师傅他居然打着正派的名号，四处作恶，在下
+storymenu_6572_1=<font face="Default" color="#ffffff" >掌门明鉴。弟子不过是想去江湖中游历一番，扬我明教之威。</font>
+storymenu_6572_2=<font face="Default" color="#ffffff" >弟子……弟子谨遵掌门教诲，这便回去思过</font>
+storymenu_6573_1=<font face="Default" color="#ffffff" >弟子犯下此等过错，教主竟还如此关心弟子，弟子羞愧万分。</font>
+storymenu_6573_2=
+storymenu_6574_1=<font face="Default" color="#ffffff" >弟子此番江湖游历，人情冷暖世态炎凉之事屡见不鲜，更见到诸多小人嘴脸。而今心灰意冷，只望能重回明教中，每日习武强身，潇洒饮酒，以求心静。</font>
+storymenu_6574_2=<font face="Default" color="#ffffff" >弟子明白，弟子这便前去。</font>
+storymenu_6575_1=<font face="Default" color="#ffffff" >掌门</font><font face="Default" color="#ffffff" >，其实我不是有意要和朝廷有瓜葛，只是，人在江湖，身不得已。</font>
+storymenu_6575_2=<font face="Default" color="#ffffff" >哼，既然这样，那以后也别怪我无情。</font>
+storymenu_6576_1=<font face="Default" color="#ffffff" >在下实在走头无路，还请</font><font face="Default" color="#ffffff" >天山派</font><font face="Default" color="#ffffff" >收留。</font>
+storymenu_6576_2=<font face="Default" color="#ffffff" >不瞒您说，我早就看穿那些所谓的</font><font face="Default" color="#ffffff" >门派</font><font face="Default" color="#ffffff" >，我就是要加入</font><font face="Default" color="#ffffff" >天山派。</font>
+storymenu_6576_3=<font face="Default" color="#ffffff" >你有所不知，早前奉师傅之命，与师傅一起下山</font><font face="Default" color="#ffffff" >。</font>
+storymenu_6577_1=<font face="Default" color="#ffffff" >掌门明鉴。弟子不过是想去江湖中游历一番，扬我</font><font face="Default" color="#ffffff" >天山派</font><font face="Default" color="#ffffff" >之威。</font>
+storymenu_6577_2=<font face="Default" color="#ffffff" >弟子……弟子谨遵掌门教诲，这便回去思过</font>
+storymenu_6578_1=<font face="Default" color="#ffffff" >弟子犯下此等过错，</font><font face="Default" color="#ffffff" >掌门</font><font face="Default" color="#ffffff" >竟还如此关心弟子，弟子羞愧万分。</font>
+storymenu_6579_1=<font face="Default" color="#ffffff" >弟子此番江湖游历，人情冷暖世态炎凉之事屡见不鲜，更见到诸多小人嘴脸。而今心灰意冷，只望能重回</font><font face="Default" color="#ffffff" >天山派</font><font face="Default" color="#ffffff" >中，每日习武强身，潇洒饮酒，以求心静。</font>
+storymenu_6579_2=<font face="Default" color="#ffffff" >弟子明白，弟子这便前去。</font>
+storymenu_6580_1=<font face="Default" color="#ffffff" >掌门，其实我不是有意要和朝廷有瓜葛，只是，人在江湖，身不得已。</font>
+storymenu_6580_2=<font face="Default" color="#ffffff" >哼，既然这样，那以后也别怪我无情。</font>
+storymenu_6581_1=<font face="Default" color="#ffffff" >在下实在走头无路，还请</font><font face="Default" color="#ffffff" >昆仑</font><font face="Default" color="#ffffff" >派收留。</font>
+storymenu_6581_2=<font face="Default" color="#ffffff" >不瞒您说，我早就看穿那些所谓的门派，我就是要加入</font><font face="Default" color="#ffffff" >昆仑</font><font face="Default" color="#ffffff" >派。</font>
+storymenu_6581_3=<font face="Default" color="#ffffff" >那好，前辈把那封引荐信给我</font><font face="Default" color="#ffffff" >吧。</font>
+storymenu_6582_1=<font face="Default" color="#ffffff" >掌门明鉴。弟子不过是想去江湖中游历一番，扬我</font><font face="Default" color="#ffffff" >昆仑</font><font face="Default" color="#ffffff" >派之威。</font>
+storymenu_6582_2=<font face="Default" color="#ffffff" >弟子……弟子谨遵掌门教诲，这便回去思过</font>
+storymenu_6583_1=<font face="Default" color="#ffffff" >弟子犯下此等过错，掌门竟还如此关心弟子，弟子羞愧万分。</font>
+storymenu_6584_1=<font face="Default" color="#ffffff" >弟子此番江湖游历，人情冷暖世态炎凉之事屡见不鲜，更见到诸多小人嘴脸。而今心灰意冷，只望能重回</font><font face="Default" color="#ffffff" >昆仑</font><font face="Default" color="#ffffff" >派中，每日习武强身，潇洒饮酒，以求心静。</font>
+storymenu_6584_2=<font face="Default" color="#ffffff" >弟子明白，弟子这便前去。</font>
+，既然你这么想，我就推荐你给</font><font face="Default" color="#ffffff" >明教主</font><font face="Default" color="#ffffff" >。</font>

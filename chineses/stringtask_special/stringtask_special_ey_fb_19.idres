@@ -1,0 +1,40 @@
+﻿
+DialogID_49300=　　好啊，你说你不是和他们一伙的？那你就把他们给我赶走瞧瞧。
+DialogID_49301=　　唉，说来话长。杨日本是单天冥的得意弟子，在同辈之中罕有其敌，可是在闯销魂洞的过程中弄成了这幅样子。他这身伤势想要复原也不是不可能，只是因为心灰意冷而使得身体每况愈下。所谓医者父母心，纵然他曾经在极乐谷中也是有些跋扈，我却也不能见死不救。这份药单你且记下，对他的伤势很有好处，上面缺少的药材我已经标记好，你去收集一些来吧。
+DialogID_49302=　　药方上的药材你都收集齐了吗？
+DialogID_49303=　　我和我兄弟在闯销魂洞的时候，在幽冥潭中发现了一处水下通道，似乎连接到某处。此通道深不可测，我们因水性不佳而未能潜至深处，即使如此，我们也在其中拾到了不少好东西。黑风山采珠村那里有一名渔夫精通水性，我曾对其有恩，你若是有兴趣，可执我的信物去找他，他一定会帮你的。
+DialogID_49304=　　咦？这把扇子是从何而来？怎么会在你的手上？
+DialogID_49305=<s>你的来意我已经知道了，这是我写好的信件，你带给他看看吧。
+DialogID_49306=<s>衣服我已经缝好了，我这就给你取来。
+QiecuoMenu_49300=休要欺人太甚！
+QiecuoMenu_49301=看来上回教训的你还不够，现在还想走？看招！
+QiecuoTitle_49300=<s>哼，这极乐谷中敢惹我的人还真不多，就你这小胳膊小腿，大爷我一只手就能捏碎。
+QiecuoTitle_49301=<s>啊，是你，我错了我这就走。
+collectinfo_49300=去销魂洞中找到<a href="findnpc_new,clone019,GatherClone019003" style="HLStype1">杨成的遗物</a>
+collectinfo_49302=收集<a href="findnpc_new,," style="HLStype1"></a>一份鸡汤银丝面
+collectinfo_49303=收集<a href="findnpc_new,," style="HLStype1"></a>一份桃园鸡汤
+collectinfo_49304=收集<a href="findnpc_new,," style="HLStype1"></a>一份沔阳三蒸
+collectinfo_49305=收集<a href="findnpc_new,," style="HLStype1"></a>一份佛跳墙
+collectinfo_49306=收集<a href="findnpc_new,school04,monm040100" style="HLStype1">新鲜的湿地毒蛙血肉</a>
+collectinfo_49307=收集<a href="findnpc_new,school04,monm040203" style="HLStype1">完好的湿地巨蟒的胆</a>
+collectinfo_49308=取回渔夫的<a href="findnpc_new,school04,GatherClone019006" style="HLStype1">渔具</a>
+collectinfo_49309=探索销魂洞的秘密
+hunterinfo_49300=教训前来闹事的<a href="findnpc_new,school04,JlgNpc186" style="HLStype1">宋忠</a>
+hunterinfo_49301=教训前来闹事的<a href="findnpc_new,school04,JlgNpc186" style="HLStype1">宋忠</a>
+interactinfo_49300=向<a href="findnpc_new,school04,JlgNpc187" style="HLStype1">杨日</a>解释清楚误会
+interactinfo_49301=向<a href="findnpc_new,school04,JlgNpc184" style="HLStype1">闵茂泰</a>询问杨日的事情
+interactinfo_49302=等你把药材收集齐就去找<a href="findnpc_new,school04,JlgNpc184" style="HLStype1">闵茂泰</a>吧
+interactinfo_49303=听听<a href="findnpc_new,school04,JlgNpc187" style="HLStype1">杨日</a>的秘密
+interactinfo_49305=去找<a href="findnpc_new,school04,WorldNpc03816" style="HLStype1">单天冥</a>
+interactinfo_49306=去找<a href="findnpc_new,school04,JobJiL007" style="HLStype1">孙丽娘</a>取回衣服
+okmenu_49300=确定
+okmenu_49301=我这就去
+okmenu_49304=这是杨日师兄交给我的
+okmenu_49305=弟子遵命
+okmenu_49306=多谢
+story_49300_1=　　哦？若是只需要能快速下潜的话那此事就简单了许多，一般人都可以办到。只要在身上绑缚一些石块就能加快下潜的速度，到时只要把石块卸掉就能浮起。
+story_menu_49300=其实我只需要一种能快速下潜的方法就可以了
+storyinfo_49300=和<a href="findnpc_new,school04,WorldNpc04019" style="HLStype1">何中余</a>谈谈
+storymenu_49300_1=多谢您的指点
+useiteminfo_49300=喂<a href="findnpc_new,school04,JlgNpc187" style="HLStype1">杨日</a>服<a href="TASK_ITEM,taskitemclone019024" style="HLStype1">药</a>
+useiteminfo_49301=喂<a href="findnpc_new,school04,JlgNpc187" style="HLStype1">杨日</a>服下<a href="TASK_ITEM,taskitemclone019001" style="HLStype1">白玉生肌丸</a>

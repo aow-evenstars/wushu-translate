@@ -1,0 +1,91 @@
+﻿
+DialogID_46800=　　逍遥观旁边的道士很是嚣张，去杀死逍遥观道士，常常指使手下做坏事！
+DialogID_46801=　　少侠，帮我到林中采些花么？我想送给要过生日的女儿！多谢您了！
+DialogID_46802=　　沼林樵夫经常抢夺村民砍的柴，少侠去教训他们！他们这简直就是强盗！
+DialogID_46803=　　沼林盗贼头目指挥着这群喽啰，俗话说“擒贼先擒王”，干掉他！
+DialogID_46804=　　毒蝎！毒蝎！这些玩意前天还蛰了我，真倒霉！少侠，去收拾掉他们！给我出出气！
+DialogID_46805=　　嗯？是大姐让你来的么？多谢你了！能否帮我转告大姐，让他放心！
+DialogID_46806=　　嗯！多谢少侠你了！最近不知道为什么莫名窜出许多毒蛇，害我都不敢去田里摘菜了！
+DialogID_46807=　　青花蛇也常常伤人，去杀死青花蛇。保证大家安全！
+DialogID_46808=　　请问少侠可以帮我捕些鱼么？
+DialogID_46809=　　少侠，去杀死肉多的鳄鱼，取些鳄鱼肉回来食用吧！那一定是异常的美味！
+DialogID_46810=　　神秘过路客是古怪老者的托儿，千万不能相信他们！干掉神迷过路客，防止大家受骗！
+DialogID_46811=　　通常，野兽当中也有当头的！少侠，杀了野猪头目，这样他们就四散了！
+DialogID_46812=　　黑店厨子已经被教训了，去告诉唐宝吧！
+DialogID_46813=　　少侠，黑店雇了些打手前来，去教训这些打手！为了钱，他们什么都干！
+DialogID_46814=　　教训店小二！不能让他们继续这样！
+DialogID_46815=　　既然是他们的宠物，那就杀掉他们，哈哈！
+DialogID_46816=　　嗯！我也总吃他们的鱼！拿着！
+DialogID_46817=　　拿着！给渔夫送去吧！
+DialogID_46818=　　太感谢你了少侠，我这里有些鱼，给猎人送去吧！
+DialogID_46819=　　啊哈！又能吃到新鲜的鱼了！替我向他道谢！
+collectinfo_46800=收集<a href="findnpc_new,scene07,Gather0001kh" style="HLStype1">雨夜花</a>
+collectinfo_46801=收集<a href="findnpc_new,scene07,Gather0002kh" style="HLStype1">美味的鱼</a>
+collectinfo_46802=猎杀<a href="findnpc_new,scene07,monf071103" style="HLStype1">肉多的鳄鱼</a>拿到鳄鱼肉
+collectinfo_46803=收集<a href="findnpc_new,scene07,Gather0003kh" style="HLStype1">木柴</a>
+hunterinfo_46800=击败<a href="findnpc_new,scene07,monf071802" style="HLStype1">逍遥观童子</a>
+hunterinfo_46801=击败<a href="findnpc_new,scene07,monf071800" style="HLStype1">逍遥观道士</a>
+hunterinfo_46802=击败<a href="findnpc_new,scene07,monf071801" style="HLStype1">逍遥观道长</a>
+hunterinfo_46803=击败<a href="findnpc_new,scene07,monf071400" style="HLStype1">沼林猎人</a>
+hunterinfo_46804=击败<a href="findnpc_new,scene07,monf071401" style="HLStype1">沼林樵夫</a>
+hunterinfo_46805=击败<a href="findnpc_new,scene07,monf071500" style="HLStype1">沼林盗贼</a>
+hunterinfo_46806=击败<a href="findnpc_new,scene07,monf071501" style="HLStype1">沼林盗贼头目</a>
+hunterinfo_46807=击败<a href="findnpc_new,scene07,monf071301" style="HLStype1">毒蛛</a>
+hunterinfo_46808=击败<a href="findnpc_new,scene07,monf071300" style="HLStype1">毒蝎</a>
+hunterinfo_46809=击败<a href="findnpc_new,scene07,monf071302" style="HLStype1">毒蛇</a>
+hunterinfo_46810=击败<a href="findnpc_new,scene07,monf071104" style="HLStype1">沼林蟒蛇</a>
+hunterinfo_46811=击败<a href="findnpc_new,scene07,monf071100" style="HLStype1">青花蛇</a>
+hunterinfo_46812=击败<a href="findnpc_new,scene07,monf071101" style="HLStype1">小鳄鱼</a>
+hunterinfo_46813=击败<a href="findnpc_new,scene07,monf071102" style="HLStype1">食人鳄</a>
+hunterinfo_46814=击败<a href="findnpc_new,scene07,monf071601" style="HLStype1">古怪老者</a>
+hunterinfo_46815=击败<a href="findnpc_new,scene07,monf071600" style="HLStype1">神秘过路客</a>
+hunterinfo_46816=击败<a href="findnpc_new,scene07,monf071200" style="HLStype1">滋事野猪</a>
+hunterinfo_46817=击败<a href="findnpc_new,scene07,monf071201" style="HLStype1">滋事野猪头目</a>
+hunterinfo_46818=击败<a href="findnpc_new,scene07,monf071702" style="HLStype1">黑店厨子</a>
+hunterinfo_46819=击败<a href="findnpc_new,scene07,monf071701" style="HLStype1">黑店小二</a>
+hunterinfo_46820=击败<a href="findnpc_new,scene07,monf071700" style="HLStype1">黑店打手</a>
+hunterinfo_46821=击败<a href="findnpc_new,scene07,monf071600" style="HLStype1">神秘过路客</a>
+hunterinfo_46822=击败<a href="findnpc_new,scene07,monf071701" style="HLStype1">黑店小二</a>
+hunterinfo_46823=击败<a href="findnpc_new,scene07,monf071400" style="HLStype1">沼林猎人</a>
+hunterinfo_46824=击败<a href="findnpc_new,scene07,monf071300" style="HLStype1">毒蝎</a>
+hunterinfo_46825=击败<a href="findnpc_new,scene07,monf071401" style="HLStype1">沼林樵夫</a>
+interactinfo_46800=与<a href="findnpc_new,scene07,WorldNpc04942" style="HLStype1">鲁阿福</a>交谈
+interactinfo_46801=与<a href="findnpc_new,scene07,WorldNpc04941" style="HLStype1">武安</a>交谈
+interactinfo_46802=与<a href="findnpc_new,scene07,WorldNpc04947" style="HLStype1">西义子</a>交谈
+interactinfo_46803=与<a href="findnpc_new,scene07,WorldNpc05111" style="HLStype1">无为道长</a>交谈
+interactinfo_46804=与<a href="findnpc_new,scene07,WorldNpc05112" style="HLStype1">胡破狼</a>交谈
+interactinfo_46805=与<a href="findnpc_new,scene07,WorldNpc05120" style="HLStype1">张世钧</a>交谈
+interactinfo_46806=与<a href="findnpc_new,scene07,WorldNpc05110" style="HLStype1">梅诗婵</a>交谈
+interactinfo_46807=与<a href="findnpc_new,scene07,WorldNpc05120" style="HLStype1">张世钧</a>交谈
+interactinfo_46808=与<a href="findnpc_new,scene07,WorldNpc05095" style="HLStype1">吴昊</a>交谈
+interactinfo_46809=与<a href="findnpc_new,scene07,WorldNpc05114" style="HLStype1">查几</a>交谈
+interactinfo_46810=与<a href="findnpc_new,scene07,WorldNpc05118" style="HLStype1">游连青</a>交谈
+interactinfo_46811=与<a href="findnpc_new,scene07,WorldNpc05019" style="HLStype1">施善婆</a>交谈
+interactinfo_46812=与<a href="findnpc_new,scene07,WorldNpc04931" style="HLStype1">唐非</a>交谈
+interactinfo_46813=与<a href="findnpc_new,scene07,WorldNpc04930" style="HLStype1">唐宝</a>交谈
+interactinfo_46814=与<a href="findnpc_new,scene07,WorldNpc04928" style="HLStype1">唐贵</a>交谈
+interactinfo_46815=与<a href="findnpc_new,scene07,WorldNpc05073" style="HLStype1">道士</a>交谈
+interactinfo_46816=与<a href="findnpc_new,scene07,WorldNpc04946" style="HLStype1">史小翠</a>交谈
+interactinfo_46817=与<a href="findnpc_new,scene07,WorldNpc05142" style="HLStype1">王晨</a>交谈
+interactinfo_46818=与<a href="findnpc_new,scene07,WorldNpc05141" style="HLStype1">松凌</a>交谈
+interactinfo_46819=与<a href="findnpc_new,scene07,WorldNpc05142" style="HLStype1">王晨</a>交谈
+okmenu_46800=好的，我这就去
+okmenu_46801=好的，小事一桩！
+okmenu_46802=好的！
+okmenu_46803=好的
+okmenu_46804=好吧
+okmenu_46805=好的！
+okmenu_46806=我去帮你解决他们！
+okmenu_46807=好的
+okmenu_46808=好的，稍等
+okmenu_46809=好吧……（口味真重）
+okmenu_46810=好的
+okmenu_46811=好的，我这就去
+okmenu_46812=好的
+okmenu_46813=好的！
+okmenu_46814=好的，我这就去！
+okmenu_46815=好的我就去
+okmenu_46816=好的，我给他送去！
+okmenu_46817=多谢多谢！
+okmenu_46818=好吧……
+okmenu_46819=你们……

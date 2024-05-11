@@ -1,0 +1,561 @@
+﻿
+DialogID_76302=<font face="Default" color="#ffffff" >老夫觀小友面似月兮身似貝，眉目分明氣骨清</font><font face="Default" color="#ffffff" >。</font><font face="Default" color="#ffffff" >可否</font><font face="Default" color="#ffffff" >為</font><font face="Default" color="#ffffff" >小友算上</font><font face="Default" color="#ffffff" >一算？</font>
+DialogID_76303=
+DialogID_76305=<font face="Default" color="#ffffff" >生當作人傑，死亦為鬼雄。</font><font face="Default" color="#fc0717" >（將一個木塊塞入你懷中）</font><font face="Default" color="#ffffff" >是進是退，少俠自己斟酌吧！</font>
+DialogID_76308=<font face="Default" color="#fc021f" >（急得滿臉通紅）</font><font face="Default" color="#ffffff" >荒謬！我不穿！</font>
+DialogID_76310=<font face="Default" color="#ffffff" >那漢王揚言今晚就要寵幸我，強搶民女，當真荒淫無恥。若非俠士及時趕到，後果不堪設想……對了，我被帶進去時，瞧見府中似乎在搞什麼祭祀活動。這是我偷偷順走的一張符紙，請過目。</font>
+DialogID_76311=<font face="Default" color="#ffffff" >你總算回來了</font><font face="Default" color="#ffffff" >，</font><font face="Default" color="#ffffff" >旋白</font><font face="Default" color="#ffffff" >公子</font><font face="Default" color="#ffffff" >呢？</font>
+DialogID_76325=<font face="Default" color="#ffffff" >……你究竟是何人</font><font face="Default" color="#ffffff" >？</font>
+QiecuoMenu_76301=<font face="Default" color="#ffffff" >來都來了，</font><font face="Default" color="#ffffff" >何必</font><font face="Default" color="#ffffff" >匆匆離去。</font><font face="Default" color="#ff051e" >（出招）</font>
+QiecuoMenu_76305=<font face="Default" color="#ffffff" >既然你不肯說出實情，那就只有用拳頭說話了。</font>
+QiecuoMenu_76307=<font face="Default" color="#ffffff" >那就得看你有沒有這個能耐了。</font>
+QiecuoTitle_76301=<font face="Default" color="#ffffff" >哼……</font><font face="Default" color="#f90429" >（暗自後退想要開溜）</font>
+QiecuoTitle_76305=<font face="Default" color="#ffffff" >還挺橫，真是找死！</font>
+QiecuoTitle_76307=<font face="Default" color="#ffffff" >可惡！現在就讓你嘗嘗煉丹爐的滋味！</font>
+choose_menu_37=你是何人？
+choose_menu_38=（光顧著想事，竟與漢王撞了個正著！）
+chooseinfo_37=詢問<a href="findnpc_new,city03,JQnpc_2021sy_001" style="HLStype1">算命先生</a>有何事
+chooseinfo_38=與<a href="findnpc_new,city03,JQnpc_2021sy_030" style="HLStype1">漢王</a>交談
+choosemenu_37_1_1=我還有要事在身，先生還是另找他人吧。
+choosemenu_37_2_1=反正閒來也無事，那就勞煩老先生您給我算一卦吧。
+choosemenu_38_1_1=（抬手行禮）漢王，在下受長公主之邀前來，請容先行一步。（撇開漢王，去尋找蘇楚楚）
+choosemenu_38_2_1=（抬手行禮）漢王，在下特來瞻仰這盛大的祭天大典。（與漢王周旋半天，來不及阻止蘇楚楚行刺）
+choosetitle_37=老夫觀小友面似月兮身似貝，眉目分明氣骨清。可否為小友算上一算？
+choosetitle_38=你怎會出現在此？
+collectinfo_76301=找女子<a href="findnpc_new,city03,caiji_2021zybsy_001" style="HLStype1">衣服</a>
+collectinfo_76302=採摘<a href="findnpc_new,city03,caiji_2021zybsy_002" style="HLStype1">牡丹花</a>
+collectinfo_76303=採摘<a href="findnpc_new,city03,caiji_2021zybsy_003" style="HLStype1">月季</a>
+collectinfo_76304=採摘<a href="findnpc_new,city03,caiji_2021zybsy_004" style="HLStype1">菊花</a>
+collectinfo_76305=擊殺可疑的<a href="findnpc_new,city03,husong_2021zyb_004" style="HLStype1">江湖人</a>，收集五行天宮令旗
+collectinfo_76306=擊殺可疑的<a href="findnpc_new,city03,husong_2021zyb_004" style="HLStype1">江湖人</a>，收集藥石
+collectinfo_76307=收集灰色<a href="findnpc_new,city03,caiji_2021zybsy_005" style="HLStype1">粉末</a>
+convoyinfo_76301=帶旋白找個<a href="findnpc_new,city03,JQnpc_2021sy_012" style="HLStype1">隱秘之處</a>躲藏
+convoyinfo_76302=跟隨蘇楚楚四處遊玩
+convoyinfo_76303=帶旋白<a href="findnpc_new,city03,JQnpc_2021sy_015" style="HLStype1">離開</a>王府
+hunterinfo_76301=教訓<a href="findnpc_new,city03,JQnpc_2021sy_002" style="HLStype1">黑衣人</a>
+hunterinfo_76302=擊退<a href="findnpc_new,city03,hurnt_jq2021_001" style="HLStype1">官兵</a>
+hunterinfo_76303=擊退前來搜捕的<a href="findnpc_new,city03,hurnt_jq2021_002" style="HLStype1">官兵</a>
+hunterinfo_76304=擊敗<a href="findnpc_new,city03,hurnt_jq2021_003" style="HLStype1">衛兵</a>
+hunterinfo_76305=擊敗<a href="findnpc_new,city03,JQnpc_2021sy_019" style="HLStype1">苟三</a>
+hunterinfo_76307=擊敗<a href="findnpc_new,city03,JQnpc_2021sy_028" style="HLStype1">銀狐</a>
+interactinfo_76301=<a href="findnpc_new,city03,EventyNpc_2021sy_001" style="HLStype1">離開夫子廟</a>
+interactinfo_76302=算命<a href="findnpc_new,city03,JQnpc_2021sy_001" style="HLStype1">吳先生</a>為你推算命理
+interactinfo_76303=<a href="findnpc_new,city03,EventyNpc_2021sy_004" style="HLStype1">前往夫子廟</a>
+interactinfo_76304=<a href="findnpc_new,city03,EventyNpc_2021sy_002" style="HLStype1">離開夫子廟</a>
+interactinfo_76305=詢問<a href="findnpc_new,city03,JQnpc_2021sy_001" style="HLStype1">吳先生</a>
+interactinfo_76306=無人知曉旋白身在何處，先行<a href="findnpc_new,city03,EventyNpc_2021sy_003" style="HLStype1">前往夫子廟</a>查探
+interactinfo_76307=<a href="findnpc_new,city03,EventyNpc_2021sy_005" style="HLStype1">進入夫子廟</a>
+interactinfo_76308=把衣服交予<a href="findnpc_new,city03,JQnpc_2021sy_012" style="HLStype1">旋白</a>讓其換上
+interactinfo_76309=<a href="findnpc_new,city03,EventyNpc_2021sy_006" style="HLStype1">進入王府</a>救出旋白
+interactinfo_76310=與<a href="findnpc_new,city03,JQnpc_2021sy_015" style="HLStype1">旋白</a>交談
+interactinfo_76311=詢問<a href="findnpc_new,city03,JQnpc_2021sy_013" style="HLStype1">蘇楚楚</a>
+interactinfo_76312=前往駙馬<a href="findnpc_new,city03,EventyNpc_2021sy_007" style="HLStype1">失足落水之地</a>調查
+interactinfo_76313=<a href="findnpc_new,city03,EventyNpc_2021sy_008" style="HLStype1">離開</a>
+interactinfo_76314=<a href="findnpc_new,city03,EventyNpc_2021sy_009" style="HLStype1">前往道觀</a>
+interactinfo_76315=<a href="findnpc_new,city03,EventyNpc_2021sy_019" style="HLStype1">前往道觀</a>
+interactinfo_76316=<a href="findnpc_new,city03,EventyNpc_2021sy_010" style="HLStype1">進入朝天宮查看</a>
+interactinfo_76317=<a href="findnpc_new,city03,EventyNpc_2021sy_017" style="HLStype1">離開</a>
+interactinfo_76318=<a href="findnpc_new,city03,EventyNpc_2021sy_011" style="HLStype1">離開</a>此地
+interactinfo_76319=<a href="findnpc_new,city03,EventyNpc_2021sy_012" style="HLStype1">潛入皇宮</a>
+interactinfo_76320=<a href="findnpc_new,city03,EventyNpc_2021sy_013" style="HLStype1">離開皇宮</a>
+interactinfo_76321=前往<a href="findnpc_new,city03,EventyNpc_2021sy_018" style="HLStype1">祭天大典</a>
+interactinfo_76322=<a href="findnpc_new,city03,EventyNpc_2021sy_015" style="HLStype1">前往廟的南面</a>查看
+interactinfo_76323=<a href="findnpc_new,city03,EventyNpc_2021sy_016" style="HLStype1">前往廟的西面</a>查看
+interactinfo_76324=<a href="findnpc_new,city03,EventyNpc_2021sy_014" style="HLStype1">前往碼頭</a>
+interactinfo_76325=找<a href="findnpc_new,city03,JQnpc_2021sy_011" style="HLStype1">旋白</a>交談
+okmenu_76302=<font face="Default" color="#ffffff" >我還有要事在身，先生還是另找他人吧</font><font face="Default" color="#ffffff" >。</font>
+okmenu_76303=
+okmenu_76305=<font face="Default" color="#ff050d" >（猝不及防）</font><font face="Default" color="#ffffff" >……</font><font face="Default" color="#ffffff" >得想想他法。比如，</font><font face="Default" color="#ffffff" >塞給我字條的少年</font><font face="Default" color="#ffffff" >。</font>
+okmenu_76308=<font face="Default" color="#ffffff" >迂腐！大丈夫能屈能伸，有何不可？先避開眼前危機再做他想。</font><font face="Default" color="#ffffff" >你先更衣，我去引開追兵。</font>
+okmenu_76310=<font face="Default" color="#fc0228" >（接過符咒，仔細查看）</font><font face="Default" color="#ffffff" >祭祀……莫非</font><font face="Default" color="#ffffff" >這便是楚楚姑娘說的</font><font face="Default" color="#ffffff" >少女獻祭……</font>
+okmenu_76311=<font face="Default" color="#ffffff" >放心，我已將他救出，安置在金陵城外……楚楚姑娘，恐怕你先前聽聞的祭祀活動並非空穴來風。</font>
+okmenu_76325=<font face="Default" color="#ffffff" >來不及解釋了，先跟我走！</font>
+story_76302_1=<font face="Default" color="#ffffff" >隕葉辭舊枝，飄塵就歧路……</font>
+story_76302_2=<font face="Default" color="#ffffff" >小友樣貌清奇、天賦異稟，生來便是人中龍鳳，志踏青雲，卻遭奸邪構陷，屢屢蒙受不白之冤。</font>
+story_76302_3=<font face="Default" color="#ffffff" >正所謂，人命</font><font face="Default" color="#ffffff" >稟</font><font face="Default" color="#ffffff" >於天，</font><font face="Default" color="#ffffff" >而</font><font face="Default" color="#ffffff" >表於體，富貴貧賤、命運禍福，皆在此一道。</font>
+story_76302_4=<font face="Default" color="#ffffff" >目分黑白貴印堂，飛星照命作公王！</font>
+story_76302_5=<font face="Default" color="#ed1044" >（見你遲遲不予回應，手捋蒼須，緩緩道）</font><font face="Default" color="#ffffff" >大俠可曾聽聞江南哭廟的風俗？文人志士齊聚貢院，向先聖哭訴世之憾也。雖是星星之火，亦可</font><font face="Default" color="#ffffff" >惠澤天下！</font>
+story_76302_6=<font face="Default" color="#e21433" >（見你欲走，連忙攔住）</font><font face="Default" color="#ffffff" >且慢！星主入世，天生人傑——</font>
+story_76303_1=<font face="Default" color="#ffffff" >隕葉辭舊枝，飄塵就歧路……</font>
+story_76303_2=<font face="Default" color="#ffffff" >小友樣貌清奇、天賦異稟，生來便是人中龍鳳，志踏青雲，卻遭奸邪構陷，屢屢蒙受不白之冤。</font>
+story_76303_3=<font face="Default" color="#ffffff" >正所謂，人命稟於天，而表於體，富貴貧賤、命運禍福，皆在此一道。</font>
+story_76303_4=<font face="Default" color="#ffffff" >目分黑白貴印堂，飛星照命作公王！</font>
+story_76303_5=<font face="Default" color="#ed1044" >（見你遲遲不予回應，手捋蒼須，緩緩道）</font><font face="Default" color="#ffffff" >大俠可曾聽聞江南哭廟的風俗？文人志士齊聚貢院，向先聖哭訴世之憾也。雖是星星之火，亦可惠澤天下！</font>
+story_76303_6=<font face="Default" color="#e21433" >（見你欲走，連忙攔住）</font><font face="Default" color="#ffffff" >且慢！星主入世，天生人傑——</font>
+story_76304_1=<font face="Default" color="#ffffff" >在下無根門中人，值巡金陵，暗護民濟，見閣下與吳，咳……與那卦師接頭，形跡可疑，因而一路追蹤至此。</font>
+story_76304_2=<font face="Default" color="#ffffff" >近日文士隊伍中混入了可疑分子，還望閣下遠離那些非尋常的活動，話已至此，好自為之。</font>
+story_76305_1=<font face="Default" color="#ffffff" >小友可是回心轉意了？</font>
+story_76306_1=<font face="Default" color="#ffffff" >閣下想要找誰？</font>
+story_76306_2=<font face="Default" color="#ffffff" >大賢雖當不得，但旋白兄以弱冠之齡，首陳遠略、高潔邁俗、才華橫溢、學貫古今……</font>
+story_76306_3=<font face="Default" color="#ffffff" >旋白兄</font><font face="Default" color="#ffffff" >為民奔命</font><font face="Default" color="#ffffff" >，</font><font face="Default" color="#ffffff" >不惜勞苦，眼下我</font><font face="Default" color="#ffffff" >也不知他在何處</font><font face="Default" color="#ffffff" >，但大抵還在城中。</font>
+story_76307_1=<font face="Default" color="#ffffff" >些許日子未見了，但明日哭廟集會，他作為發起人，是一定會去的。</font>
+story_76308_1=<font face="Default" color="#ffffff" >未曾，但小生同窗倒是見他今日現身孔廟。</font>
+story_76309_1=<font face="Default" color="#ffffff" >誰，什麼白?</font>
+story_76310_1=<font face="Default" color="#ffffff" >旋白兄不就在那邊嘛？</font>
+story_76311_1=<font face="Default" color="#f9021f" >（詫異狀）</font><font face="Default" color="#ffffff" >閣下</font><font face="Default" color="#ffffff" >是……</font><font face="Default" color="#ffffff" >？</font>
+story_76311_2=<font face="Default" color="#fc0a2e" >（恍然大悟）</font><font face="Default" color="#ffffff" >閣下氣宇不凡，我</font><font face="Default" color="#ffffff" >有印象</font><font face="Default" color="#ffffff" >。</font>
+story_76312_1=<font face="Default" color="#ffffff" >可</font><font face="Default" color="#ffffff" >這</font><font face="Default" color="#ffffff" >是秦樓，</font><font face="Default" color="#ffffff" >在下這一身書生直裰未免有些</font><font face="Default" color="#ffffff" >扎眼。</font>
+story_76312_2=<font face="Default" color="#f90429" >（急的滿臉通紅）</font><font face="Default" color="#ffffff" >我……我可不穿！</font>
+story_76313_1=<font face="Default" color="#ffffff" >舉手之勞而已，不必多禮。</font>
+story_76313_2=<font face="Default" color="#ffffff" >雖不相識，但秦樓是何地方，倒也聽說過這位公子的故事。他是方孝孺一支母系族人的後輩，這才躲過殺身之禍，為方便行走，這才化名旋白。</font>
+story_76313_3=<font face="Default" color="#ffffff" >旋白公子天生男身女相，這才堪堪避過了搜查。</font><font face="Default" color="#ffffff" >不料</font><font face="Default" color="#ffffff" >他作女兒家裝扮太過清麗絕倫，</font><font face="Default" color="#ffffff" >竟</font><font face="Default" color="#ffffff" >引起了為朝廷選美的教坊司注意</font><font face="Default" color="#ffffff" >。</font><font face="Default" color="#ffffff" >傳聞選美只是幌子，這些佳人會被秘密獻祭……</font>
+story_76313_4=<font face="Default" color="#ffffff" >哼，這有什麼難以理解的，本就是個弒君篡位的</font><font face="Default" color="#ffffff" >暴君罷了</font><font face="Default" color="#ffffff" >……</font>
+story_76313_5=<font face="Default" color="#ffffff" >都說旋白公子是高志大節之人，今日一見果真名不虛傳，他已答應深入虎穴，調查選美一事真相。</font>
+story_76313_6=<font face="Default" color="#ffffff" >這儀表姿態嘛，有我調教，倒也非難事。有一種百花養顏膏，可以令他更好地掩飾，只是眼下還差這牡丹、月季、</font><font face="Default" color="#ffffff" >雛</font><font face="Default" color="#ffffff" >菊三種花品，此事須暗中進行，我……</font>
+story_76314_1=<font face="Default" color="#ed1742" >（略帶一絲苦笑）</font><font face="Default" color="#ffffff" >瞞不過</font><font face="Default" color="#ffffff" >俠士</font><font face="Default" color="#ffffff" >的火眼金睛，可願聽我一說。</font>
+story_76314_2=<font face="Default" color="#ffffff" >我們秦樓女子身份低微，歷來被世人輕賤，嘗盡苦楚。然而，若能自行選擇，又有誰不想生在好人家，平凡簡單過此一生呢？</font>
+story_76314_3=<font face="Default" color="#e80b25" >（感激地</font><font face="Default" color="#f9021f" >看著你）</font><font face="Default" color="#ffffff" >這些年，我們一樓兒姐妹相依為命，也正因如此，我不能讓她們中的任何人以身犯險，淪為祭品。</font>
+story_76314_4=<font face="Default" color="#ffffff" >說我假公濟私也好，矯言偽行也罷，我都認了。旋白公子若有什麼閃失，大不了我一命抵一命，到了地府做牛做馬，償還恩情。</font>
+story_76314_5=<font face="Default" color="#ffffff" >俠士，</font><font face="Default" color="#ffffff" >叫我楚楚好了。</font>
+story_76315_1=<font face="Default" color="#ffffff" >不好了，聽說選美那日漢王也來到了畫舫。他垂涎於旋白公子「美色」，竟將其帶回了府中！若是漢王欲行不軌，那旋白公子男扮女裝之事豈不就露陷了？！</font>
+story_76316_1=<font face="Default" color="#ffffff" >……我先是奪得選美第一，後又被漢王所擄，此事恐怕會</font><font face="Default" color="#ffffff" >鬧得滿城風雨</font><font face="Default" color="#ffffff" >。</font>
+story_76317_1=<font face="Default" color="#ffffff" >制魂咒</font><font face="Default" color="#ffffff" >，源自南疆，極為陰邪。</font>
+story_76317_2=<font face="Default" color="#ffffff" >實不相瞞</font><font face="Default" color="#ffffff" >，我是女秀才劉莫邪的</font><font face="Default" color="#ffffff" >部</font><font face="Default" color="#ffffff" >下。</font>
+story_76317_3=<font face="Default" color="#ffffff" >劉莫邪，昔日曾被太祖皇帝召於殿上面試，因賞識她的才華，賜下女秀才名號。她為人豁達，廣交文士名流，與寧國長公主亦是密友。</font>
+story_76317_4=<font face="Default" color="#ffffff" >他不過是個暴虐百姓、枉殺忠良的篡位賊子而已。此次畫舫選美，便是漢王奉其命執行，挑選無辜女子活祭。她們被關在莫愁湖行宮中，只待十日之後的祭天大典，便要送往紫金山圜丘壇，化為亡魂了。</font>
+story_76317_5=<font face="Default" color="#ffffff" >正是。劉秀才說此事若是借得您一臂之力，必有所成。她還要我轉告，久仰俠名，願與您坦誠一敘。</font>
+story_76318_1=<font face="Default" color="#ffffff" >俠士義名我早有耳聞，今日得見真容，果然令人驚羨。聽聞您斷案如神，此次邀請前來便是有個不情之請！</font>
+story_76318_2=<font face="Default" color="#ffffff" >我與寧國長公主交好多年，看她與駙馬爺夫妻和睦，恩愛圓滿。豈料前陣子，駙馬意外溺亡，公主哀慟不已，連飲食俱各減了。</font>
+story_76318_3=<font face="Default" color="#ea1546" >（重重歎了口氣）</font><font face="Default" color="#f7f7f7" >唉，駙馬出事後，公主即刻便進了宮面聖，請求查明死因。聖上將當日事發地兩名百姓抓來，斷其手足後活殉了。此事據說是道士徐仲文一手促成，公主聽聞後又驚又怕，也不敢明著再為駙馬出頭。</font>
+story_76318_4=<font face="Default" color="#ffffff" >你有所不知，駙馬曾是廢帝舊部，當初金陵城破，本欲追隨舊主殉國，只因長公主血書苦求，才勉以歸降。</font>
+story_76319_1=<font face="Default" color="#ffffff" >有有有，駙馬爺當時就是在這座橋上掉下去的！</font>
+story_76319_2=<font face="Default" color="#ffffff" >哎呀你有所不知，那天橋上本就人山人海，還有個地痞苟三尋釁鬥毆，大傢伙就都湊過去看熱鬧了。不過，誰也沒瞧見，那駙馬爺是怎麼跌下橋去的。</font>
+story_76319_3=<font face="Default" color="#ffffff" >那混小子成天在這一帶瞎轉悠，並不難找。</font>
+story_76320_1=<font face="Default" color="#ffffff" >那個苟三，附近誰不認識！自小就打架鬥毆，偷雞摸狗，沒幹過一件好</font><font face="Default" color="#ffffff" >事</font><font face="Default" color="#ffffff" >！</font>
+story_76320_2=<font face="Default" color="#ffffff" >哼，苟三那日在橋上非說有人偷走了他的錢袋，其實，誰不知道他窮的叮噹響！他在橋上見人就打，猶如瘋狗一般！正鬧著，只聽得噗通一聲，大家才發現有人落水了！</font>
+story_76321_1=<font face="Default" color="#ffffff" >找小爺有什麼事？</font>
+story_76321_2=<font face="Default" color="#ffffff" >你胡說八道什麼？！駙馬落水那是他自己倒霉，與小爺何干？滾開，別妨礙小爺去發財！</font>
+story_76322_1=<font face="Default" color="#e8123d" >（驚恐萬分）</font><font face="Default" color="#ffffff" >駙馬爺，行行好放過小人吧！冤有頭債有主，小人也是被迫行事，實在不敢得罪徐道長啊！若非您生前招惹了他，何至於這一場飛來橫禍呢……</font>
+story_76322_2=<font face="Default" color="#ffffff" >不不不，小人只是拿錢替人辦事！是徐仲文徐道長！是他座下仙童銀狐遣人允下重金，要小人那日在橋上製造騷亂。駙馬是被隱於人群中的殺手扔進了莫愁湖，同小人無關啊！</font>
+story_76322_3=<font face="Default" color="#ffffff" >真不是我殺了駙馬爺！大俠饒命啊！</font>
+story_76323_1=<font face="Default" color="#fc021f" >（悲憤交加）</font><font face="Default" color="#ffffff" >為何不讓那惡賊替駙馬償命！</font>
+story_76323_2=<font face="Default" color="#ffffff" >無須再調查了，真兇便是我那心狠手辣的兄長和裝神弄鬼的徐仲文！</font>
+story_76323_3=<font face="Default" color="#ff0026" >（逐漸冷靜下來）</font><font face="Default" color="#ffffff" >究竟是誰，設下這一連串的陰謀陷阱！</font>
+story_76323_4=<font face="Default" color="#ffffff" >你的意思，本宮明白了。本宮並非不通情理之人，只想為陪伴多年的駙馬討個公道。</font>
+story_76324_1=<font face="Default" color="#ffffff" >聖上在「靖難之役」中與武當山有過一段淵源，因而登基以來，極為尊崇道教。那徐仲文功行雙全，名聲在外，因此深受聖上器重。此外，我聽聞徐道長亦與都御史陳固私交甚密。</font>
+story_76324_2=<font face="Default" color="#ffffff" >此人實乃奸佞之臣，多番進獻讒言，慫恿對前朝忠良趕盡殺絕，在江南文士中向有惡名。先前他無端指責駙馬仍念舊主，對當今聖上心懷異心。</font>
+story_76325_1=<font face="Default" color="#ffffff" >本姑娘已在此恭候多時了。你可別誤會！並非我關心你，而是盟主要我來助你一臂之力。</font>
+story_76325_2=<font face="Default" color="#ffffff" >那是，本姑娘眼線眾多，每每都能救你於水火。最近我方探子來報，金陵城中，紫金戲院、莫愁湖行宮、秦淮酒樓和</font><font face="Default" color="#ffffff" >道觀</font><font face="Default" color="#ffffff" >，都有不少行色匆匆的外域人士出沒。</font>
+story_76325_3=<font face="Default" color="#ffffff" >嗯，到時候還在此處會合！</font>
+story_76326_1=<font face="Default" color="#f2134e" >（失望搖頭）</font><font face="Default" color="#ffffff" >跟蹤了好幾撥人，無甚發現。你那邊可有進展？</font>
+story_76326_2=<font face="Default" color="#ffffff" >特殊的藥石？</font>
+story_76326_3=<font face="Default" color="#ff021b" >（撇撇嘴）</font><font face="Default" color="#ffffff" >看上去並沒什麼特別的，或許只是普通信號彈罷了。</font>
+story_76327_1=<font face="Default" color="#ffffff" >你發現了什麼？</font>
+story_76327_2=<font face="Default" color="#ffffff" >對了，你可曾留意到，不久前天色突然轉暗，黑雲壓城，我還從未見過如此現象。</font>
+story_76327_3=<font face="Default" color="#ffffff" >所以，是他們故意製造天之異象……</font>
+story_76327_4=<font face="Default" color="#ffffff" >裝神弄鬼的，到底意欲何為？</font>
+story_76328_1=<font face="Default" color="#ffffff" >不勞小友相尋，貧道這便來了。</font>
+story_76328_10=<font face="Default" color="#ffffff" >小友是通透之人。那徐仲文專門建了一座陰陽顛倒</font><font face="Default" color="#ffffff" >宮</font><font face="Default" color="#ffffff" >，為聖上煉製長生不老藥。聖上自然是不信的，但他亦有自己的謀算，需要讓世人知道他「信」。</font>
+story_76328_11=<font face="Default" color="#ffffff" >小友莫急，此事日後定有分曉。今日老衲已透露得太多。只望眾人能分辨假相，妙心現影。小友，有緣再見。</font>
+story_76328_2=<font face="Default" color="#ffffff" >金陵城中這天之異象，上蒙下霧……可不是什麼祥瑞之兆啊。</font>
+story_76328_3=<font face="Default" color="#ffffff" >自古以來，日月亂行，星辰逆行，天久陰不雨，是有臣子謀反之象。</font>
+story_76328_4=<font face="Default" color="#ffffff" >小友對時局看得頗為通透啊。</font>
+story_76328_5=<font face="Default" color="#ffffff" >愧不敢當，不過是個擺攤討生活的窮道罷了。</font>
+story_76328_6=<font face="Default" color="#ffffff" >呵呵呵呵，貧道實在不知小友之意。</font>
+story_76328_7=<font face="Default" color="#ff0010" >（眼神似有閃爍，很快便恢復了平靜）</font><font face="Default" color="#ffffff" >貧道雖入道門，因身體孱弱，並未修習過道家功法，倒讓小友誤會了。</font>
+story_76328_8=<font face="Default" color="#ffffff" >哈哈哈哈，原來小友已洞察一切，令人不得不折服！那老衲也不再隱瞞了。老衲已拜師道衍，餘生，乃師所賜也。</font>
+story_76328_9=<font face="Default" color="#ffffff" >原來如此。他二人因哭廟之事向聖上進言，言必談哭廟猶如哭喪，唯有活祭才能挽回天子運。聖上一方面對其早已心生不滿，覺得此二人過於陰狠，另一方面卻又真怕皇運受損，因此尚在權衡之中。</font>
+story_76329_1=<font face="Default" color="#ffffff" >那賊道人徐仲文的手下將十幾名無辜少女押送進了皇宮，說是用來煉丹！……我打算去救人。</font>
+story_76329_2=<font face="Default" color="#ff051e" >（飽含熱淚</font><font face="Default" color="#ea124f" >）</font><font face="Default" color="#ffffff" >你……</font>
+story_76330_1=<font face="Default" color="#ffffff" >嗚嗚……那道人要取我們的月信煉丹。若是月信不至，便要強灌藥丸，嗚嗚嗚……</font>
+story_76331_1=<font face="Default" color="#ffffff" >什麼話，我有禁宮腰牌，自然來去自如！哼，還不是某人太笨，本姑娘怕別有個三長兩短，這不就來撈你了嗎？</font>
+story_76331_2=<font face="Default" color="#ffffff" >好說，哎，那你呢？</font>
+story_76332_1=<font face="Default" color="#ffffff" >大膽賊人，竟敢擅闖皇宮！破壞了煉丹，小心聖上讓你活殉！</font>
+story_76333_1=<font face="Default" color="#ffffff" >狂妄之徒！上回進漢王府搶人，這次連禁宮都敢闖，你以為自己有幾顆項上人頭？！</font>
+story_76333_2=<font face="Default" color="#ffffff" >你我都知那假道人可憎，但他的確善用旁門左道之術，怎可貿然行動。</font>
+story_76333_3=<font face="Default" color="#ffffff" >父皇因早年多番帶兵出征，身有餘疾，先前服用了徐仲文的丹丸後，曾一度好轉，但近日屢屢胸中煩懣，面赤不食……本王懷疑，與那丹藥不無關係。幾番勸說之下，如今也已停用。</font>
+story_76333_4=<font face="Default" color="#ffffff" >唉，此事本乃皇家辛秘，如今還是說與你聽罷。這些年來，廢帝生死未卜，一直是父皇心病。那徐仲文之所以受到重用，其中一由，便是父皇想假借煉丹之名，暗尋廢帝下落。</font>
+story_76333_5=<font face="Default" color="#ffffff" >話說回來，此次你欠本王一條命，日後本王自會有用得上你的地方。</font>
+story_76334_1=<font face="Default" color="#ffffff" >即便非他所為，也是名不正言不順的暴君。若非他謀權奪位，何來諸多忠臣良將戰死，百姓遭殃。</font>
+story_76334_2=<font face="Default" color="#ffffff" >或許你說的有幾分道理，但我曾在劉秀才面前起誓，效忠舊主。若能親手刺殺朱棣，區區性命又有何惜。</font>
+story_76334_3=<font face="Default" color="#f9092d" >（沉默不語，陷入了沉思）</font>
+story_76335_1=<font face="Default" color="#ffffff" >不成功，便成仁。若你執意攔我去路，可別怪劍下無情。</font>
+story_76335_2=<font face="Default" color="#f90429" >（手上舉起的劍緩緩放下）</font><font face="Default" color="#ffffff" >……</font>
+story_76335_3=<font face="Default" color="#ffffff" >可是</font>
+story_76336_1=<font face="Default" color="#ffffff" >從未想過有一天，我能懷著這樣平靜的心，離開金陵。</font>
+story_76336_2=<font face="Default" color="#ffffff" >謝謝你</font><font face="Default" color="#ffffff" >如此高看我，即使遠離中原，我也會不忘初心，去圓我的</font><font face="Default" color="#ffffff" >江湖夢。</font>
+story_76337_1=<font face="Default" color="#ffffff" >與你相識雖短，你卻教會了我太多。此次離開，我會去找到方旋白這三個字真正存在於世的意義。到那時，再回來尋你。</font>
+story_76337_2=<font face="Default" color="#ffffff" >放心吧，我暫時會放下心中的仇恨。</font>
+story_76338_1=<font face="Default" color="#ffffff" >怎麼？上回闖皇宮仍不過癮，又看上祭天大典了？</font>
+story_76338_2=<font face="Default" color="#ffffff" >本王早已說明，不存在活殉之說，看來你始終不信本王啊。</font>
+story_76338_3=<font face="Default" color="#ffffff" >是麼，那便陪本王一同前往吧。</font>
+story_76339_1=<font face="Default" color="#ffffff" >寧兒已將金陵的事情稟告老夫了。文士乃國之棟樑，賢侄此次保住了江南數千讀書人的性命，智勇大義令人敬佩。</font>
+story_76339_2=<font face="Default" color="#ffffff" >賢侄可知，除金陵外，武林中亦有不少江湖高手被有心之人煽動，聽信陰陽顛倒</font><font face="Default" color="#ffffff" >宮</font><font face="Default" color="#ffffff" >有長生不死藥的謠言。預備前往一探。</font>
+story_76339_3=<font face="Default" color="#ffffff" >據說這宮殿設計上下顛倒，取顛倒陰陽，起死回生，永生永世之意。傳聞</font><font face="Default" color="#ffffff" >宮</font><font face="Default" color="#ffffff" >中仙丹秘藥、武學神兵，應有盡有。我擔心那些江湖人士冒然闖宮，只怕凶多吉少！</font>
+story_76340_1=<font face="Default" color="#f90415" >(心一橫，眼一閉)</font><font face="Default" color="#ffffff" >……今個就算你打死小爺，小爺也無話可說！</font>
+story_menu_76301=<font face="Default" color="#ffffff" >算命先生</font>
+story_menu_76302=<font face="Default" color="#db1a57" >（欲走，被拉住了手臂）</font><font face="Default" color="#ffffff" >你……</font>
+story_menu_76303=<font face="Default" color="#ffffff" >推算命理</font>
+story_menu_76304=<font face="Default" color="#ffffff" >兄台，現在能好好說話了麼</font>
+story_menu_76305=<font face="Default" color="#ffffff" >先生……</font>
+story_menu_76306=<font face="Default" color="#ffffff" >我想向公子打聽一人</font>
+story_menu_76307=<font face="Default" color="#ffffff" >請問</font><font face="Default" color="#ffffff" >兄台</font><font face="Default" color="#ffffff" >，</font><font face="Default" color="#ffffff" >可知旋白</font><font face="Default" color="#ffffff" >公子</font><font face="Default" color="#ffffff" >的下落？</font>
+story_menu_76308=<font face="Default" color="#ffffff" >冒昧打擾，可曾看見旋白</font><font face="Default" color="#ffffff" >公子</font><font face="Default" color="#ffffff" >？</font>
+story_menu_76309=<font face="Default" color="#ffffff" >兄台，</font><font face="Default" color="#ffffff" >可曾看見旋白公子？ </font>
+story_menu_76310=<font face="Default" color="#ffffff" >公子，可認識旋白？</font>
+story_menu_76311=<font face="Default" color="#ffffff" >旋白公子</font>
+story_menu_76312=<font face="Default" color="#ffffff" >四周都被圍堵，只能</font><font face="Default" color="#ffffff" >先藏身於此</font><font face="Default" color="#ffffff" >了</font>
+story_menu_76313=<font face="Default" color="#ffffff" >多謝姑娘</font><font face="Default" color="#ffffff" >幫忙掩飾</font>
+story_menu_76314=<font face="Default" color="#ffffff" >蘇姑娘似乎</font><font face="Default" color="#ffffff" >，還有其他</font><font face="Default" color="#ffffff" >心事</font>
+story_menu_76315=<font face="Default" color="#ffffff" >楚楚姑娘，怎麼了</font><font face="Default" color="#ffffff" >……</font>
+story_menu_76316=<font face="Default" color="#ffffff" >漢王發現你被劫走，定會派人追蹤，此地不宜久留</font>
+story_menu_76317=<font face="Default" color="#ffffff" >你看</font><font face="Default" color="#ffffff" >這張符咒</font>
+story_menu_76318=<font face="Default" color="#ffffff" >聞名不如見面</font>
+story_menu_76319=<font face="Default" color="#ffffff" >這位大哥，可聽說前幾日此處，有人不慎落水的事</font>
+story_menu_76320=<font face="Default" color="#ffffff" >這位大哥，可認識苟三？</font>
+story_menu_76321=<font face="Default" color="#ffffff" >你便是苟三？</font>
+story_menu_76322=<font face="Default" color="#ffffff" >苟三，你可看清我是誰了？！</font>
+story_menu_76323=<font face="Default" color="#ffffff" >長公主，別激動</font>
+story_menu_76324=<font face="Default" color="#ffffff" >女秀才可知道徐仲文此人？</font>
+story_menu_76325=<font face="Default" color="#ffffff" >謝姑娘，好久不見</font>
+story_menu_76326=<font face="Default" color="#ffffff" >你有何發現？</font>
+story_menu_76327=<font face="Default" color="#ffffff" >果然是五行天宮門人</font>
+story_menu_76328=<font face="Default" color="#ffffff" >說曹操曹操到</font>
+story_menu_76329=<font face="Default" color="#ffffff" >楚楚姑娘，何事如此慌張？</font>
+story_menu_76330=<font face="Default" color="#ffffff" >你們可是被徐道長抓進宮的？</font>
+story_menu_76331=<font face="Default" color="#ffffff" >你怎麼來了？</font>
+story_menu_76332=<font face="Default" color="#ffffff" >哪裡跑</font><font face="Default" color="#ffffff" >！</font>
+story_menu_76333=<font face="Default" color="#ffffff" >多謝王爺相救</font>
+story_menu_76334=<font face="Default" color="#ffffff" >（將宮中發生的一切告訴楚楚）</font>
+story_menu_76335=<font face="Default" color="#ffffff" >你還是來了</font>
+story_menu_76336=<font face="Default" color="#e80935" >（靜靜望著你，目光中第一次沒有了戾色）</font>
+story_menu_76337=<font face="Default" color="#ffffff" >後會有期</font>
+story_menu_76338=<font face="Default" color="#ffffff" >難以脫身</font>
+story_menu_76339=<font face="Default" color="#ffffff" >拜見盟主</font>
+story_menu_76340=<font face="Default" color="#ffffff" >現在，我們能好好說話了麼</font>
+storyinfo_76301=聽<a href="findnpc_new,city03,JQnpc_2021sy_001" style="HLStype1">算命先生</a>算命
+storyinfo_76302=聽<a href="findnpc_new,city03,JQnpc_2021sy_001" style="HLStype1">吳先生</a>訴說
+storyinfo_76303=聽<a href="findnpc_new,city03,JQnpc_2021sy_001" style="HLStype1">吳先生</a>推算
+storyinfo_76304=質問<a href="findnpc_new,city03,JQnpc_2021sy_002" style="HLStype1">黑衣人</a>
+storyinfo_76305=去找<a href="findnpc_new,city03,JQnpc_2021sy_001" style="HLStype1">吳先生</a>
+storyinfo_76306=向<a href="findnpc_new,city03,JQnpc_2021sy_003" style="HLStype1">盛少天</a>打聽
+storyinfo_76307=向<a href="findnpc_new,city03,JQnpc_2021sy_004" style="HLStype1">白榮瑾</a>打聽
+storyinfo_76308=向<a href="findnpc_new,city03,JQnpc_2021sy_005" style="HLStype1">楊狄青</a>打聽
+storyinfo_76309=向<a href="findnpc_new,city03,JQnpc_2021sy_007" style="HLStype1">文人</a>打聽旋白
+storyinfo_76310=繼續向其他<a href="findnpc_new,city03,JQnpc_2021sy_008" style="HLStype1">文人</a>打聽旋白
+storyinfo_76311=上去詢問<a href="findnpc_new,city03,JQnpc_2021sy_011" style="HLStype1">旋白</a>
+storyinfo_76312=與<a href="findnpc_new,city03,JQnpc_2021sy_012" style="HLStype1">旋白</a>交談
+storyinfo_76313=拜謝<a href="findnpc_new,city03,JQnpc_2021sy_013" style="HLStype1">蘇楚楚</a>
+storyinfo_76314=與<a href="findnpc_new,city03,JQnpc_2021sy_013" style="HLStype1">蘇楚楚</a>傾談
+storyinfo_76315=聽<a href="findnpc_new,city03,JQnpc_2021sy_013" style="HLStype1">蘇楚楚</a>訴說
+storyinfo_76316=聽<a href="findnpc_new,city03,JQnpc_2021sy_015" style="HLStype1">旋白</a>訴說
+storyinfo_76317=聽<a href="findnpc_new,city03,JQnpc_2021sy_013" style="HLStype1">蘇楚楚</a>訴說
+storyinfo_76318=前去拜會<a href="findnpc_new,city03,JQnpc_2021sy_016" style="HLStype1">劉莫邪</a>
+storyinfo_76319=向<a href="findnpc_new,city03,JQnpc_2021sy_017" style="HLStype1">百姓甲</a>打聽
+storyinfo_76320=向<a href="findnpc_new,city03,JQnpc_2021sy_018" style="HLStype1">百姓乙</a>打聽
+storyinfo_76321=詢問<a href="findnpc_new,city03,JQnpc_2021sy_019" style="HLStype1">苟三</a>
+storyinfo_76322=質問<a href="findnpc_new,city03,JQnpc_2021sy_020" style="HLStype1">苟三</a>
+storyinfo_76323=安撫<a href="findnpc_new,city03,JQnpc_2021sy_021" style="HLStype1">公主</a>
+storyinfo_76324=與<a href="findnpc_new,city03,JQnpc_2021sy_016" style="HLStype1">劉莫邪</a>詳談
+storyinfo_76325=重逢<a href="findnpc_new,city03,JQnpc_2021sy_022" style="HLStype1">謝若寧</a>
+storyinfo_76326=告知<a href="findnpc_new,city03,JQnpc_2021sy_036" style="HLStype1">謝若寧</a>
+storyinfo_76327=與<a href="findnpc_new,city03,JQnpc_2021sy_036" style="HLStype1">謝若寧</a>商議
+storyinfo_76328=向<a href="findnpc_new,city03,JQnpc_2021sy_023" style="HLStype1">吳先生</a>請教
+storyinfo_76329=聽<a href="findnpc_new,city03,JQnpc_2021sy_024" style="HLStype1">蘇楚楚</a>訴說
+storyinfo_76330=上前查看，找到<a href="findnpc_new,city03,JQnpc_2021sy_025" style="HLStype1">宮女</a>
+storyinfo_76331=與<a href="findnpc_new,city03,JQnpc_2021sy_027" style="HLStype1">謝若寧</a>商議
+storyinfo_76332=拷問<a href="findnpc_new,city03,JQnpc_2021sy_028" style="HLStype1">銀狐</a>
+storyinfo_76333=與<a href="findnpc_new,city03,JQnpc_2021sy_029" style="HLStype1">漢王</a>周旋
+storyinfo_76334=勸告<a href="findnpc_new,city03,JQnpc_2021sy_013" style="HLStype1">蘇楚楚</a>放下仇恨
+storyinfo_76335=阻止<a href="findnpc_new,city03,JQnpc_2021sy_031" style="HLStype1">蘇楚楚</a>
+storyinfo_76336=與<a href="findnpc_new,city03,JQnpc_2021sy_032" style="HLStype1">蘇楚楚</a>告別
+storyinfo_76337=與<a href="findnpc_new,city03,JQnpc_2021sy_033" style="HLStype1">旋白</a>告別
+storyinfo_76338=與<a href="findnpc_new,city03,JQnpc_2021sy_030" style="HLStype1">漢王</a>密談
+storyinfo_76339=拜見盟主<a href="findnpc_new,city02,WorldNpc01194" style="HLStype1">林天南</a>
+storyinfo_76340=再次質問<a href="findnpc_new,city03,JQnpc_2021sy_019" style="HLStype1">苟三</a>
+storymenu_76302_1=<font face="Default" color="#ff021b" >（他為何會知道字條上的那兩句詩……先不露聲色，聽他葫蘆裡賣的什麼藥）</font><font face="Default" color="#ffffff" >在下愚鈍</font><font face="Default" color="#ffffff" >，</font><font face="Default" color="#ffffff" >不解</font><font face="Default" color="#ffffff" >先生之意。</font>
+storymenu_76302_2=<font face="Default" color="#e21f33" >（心中已怔，面上卻只淡淡一笑）</font><font face="Default" color="#ffffff" >先生似乎對在下十分瞭解。</font>
+storymenu_76302_3=<font face="Default" color="#ff0a26" >（不妨聽聽他的真實用意）</font><font face="Default" color="#ffffff" >既如此</font><font face="Default" color="#ffffff" >，還</font><font face="Default" color="#ffffff" >望</font><font face="Default" color="#ffffff" >明示。</font>
+storymenu_76302_4=<font face="Default" color="#ffffff" >……</font><font face="Default" color="#e0184d" >（此人著實大膽，看來今日將我攔住，是別有用心）</font>
+storymenu_76302_5=<font face="Default" color="#e21b43" >（甩袖冷笑）</font><font face="Default" color="#ffffff" >哦？如何惠澤？不以天地立心，不以生民立命，僅憑在逝者祠廟哭天搶地、怨天尤人，便能為盛世開太平麼?先生之言，恕我不敢苟同。</font>
+storymenu_76302_6=<font face="Default" color="#ffffff" >住口!道不同不相為謀，再作阻攔，</font><font face="Default" color="#ffffff" >休</font><font face="Default" color="#ffffff" >怪我手下無情。</font>
+storymenu_76303_1=<font face="Default" color="#ff021b" >（他為何會知道字條上的那兩句詩……先不露聲色，聽他葫蘆裡賣的什麼藥）</font><font face="Default" color="#ffffff" >恕晚輩不才，並不明白先生之意。</font>
+storymenu_76303_2=<font face="Default" color="#e21f33" >（心中已怔，面上卻只淡淡一笑）</font><font face="Default" color="#ffffff" >先生似乎對在下十分瞭解。</font>
+storymenu_76303_3=<font face="Default" color="#ff0a26" >（不妨聽聽他的真實用意）</font><font face="Default" color="#ffffff" >既如此，還望明示。</font>
+storymenu_76303_4=<font face="Default" color="#ffffff" >……</font><font face="Default" color="#e0184d" >（此人著實大膽，看來今日將我攔住，是別有用心）</font>
+storymenu_76303_5=<font face="Default" color="#e21b43" >（甩袖冷笑）</font><font face="Default" color="#ffffff" >哦？如何惠澤？不以天地立心，不以生民立命，僅憑在逝者祠廟哭天搶地、怨天尤人，便能為盛世開太平麼?先生之言，恕我不敢苟同。</font>
+storymenu_76303_6=<font face="Default" color="#ffffff" >住口!道不同不相為謀，再作阻攔，休怪我手下無情。</font>
+storymenu_76304_1=<font face="Default" color="#ffffff" >……</font><font face="Default" color="#fc0a22" >（莫非朝廷也嗅到了不尋常的氣息）</font>
+storymenu_76304_2=<font face="Default" color="#ffffff" >自然，自然。在下雖一介草莽，卻也是良民。</font><font face="Default" color="#ea173e" >（看來哭廟集會是一個餌，須盡快阻止，避免這一場流血事件）</font>
+storymenu_76305_1=<font face="Default" color="#ffffff" >先生是明白人，我便長話短說了。先生</font><font face="Default" color="#ffffff" >既</font><font face="Default" color="#ffffff" >觀「天象」</font><font face="Default" color="#ffffff" >必</font><font face="Default" color="#ffffff" >知「風雨」，</font><font face="Default" color="#ffffff" >還望</font><font face="Default" color="#ffffff" >慎之又慎！</font>
+storymenu_76306_1=<font face="Default" color="#d61538" >（先暫時充充文士，</font><font face="Default" color="#f90429" >方</font><font face="Default" color="#e21249" >便與他套話）</font><font face="Default" color="#ffffff" >這位兄台，在下因友人之邀，</font><font face="Default" color="#ffffff" >特地從</font><font face="Default" color="#ffffff" >外地趕來赴明日哭廟之約，兄台可知組織集會的是哪位大賢？</font>
+storymenu_76306_2=<font face="Default" color="#ffffff" >在下想去拜會一番，敢問</font><font face="Default" color="#ffffff" >那</font><font face="Default" color="#ffffff" >旋白</font><font face="Default" color="#ffffff" >公子現在何處？</font>
+storymenu_76306_3=<font face="Default" color="#ffffff" >謝過兄台。</font>
+storymenu_76307_1=<font face="Default" color="#ffffff" >多謝公子相告。</font>
+storymenu_76308_1=<font face="Default" color="#ffffff" >多謝公子</font><font face="Default" color="#e50956" >（看來只能前往夫子廟看</font><font face="Default" color="#e80b3f" >看了）</font>
+storymenu_76309_1=<font face="Default" color="#ffffff" >打擾了。</font>
+storymenu_76310_1=<font face="Default" color="#ea0e48" >（朝著他指的方向看</font><font face="Default" color="#f41624" >去</font><font face="Default" color="#ea0e48" >）</font><font face="Default" color="#ffffff" >竟然是先前遞我紙條之人……未想到他竟親自做這些瑣碎之事。</font>
+storymenu_76311_1=<font face="Default" color="#ffffff" >幾日前，兄台曾將一紙條遞到在下手中。</font>
+storymenu_76311_2=<font face="Default" color="#ffffff" >可否借兩步說話？</font><font face="Default" color="#f90429" >（突然旁邊</font><font face="Default" color="#e21d41" >有人扯了扯旋白，說時間已到）</font>
+storymenu_76312_1=<font face="Default" color="#ffffff" >我去尋一套女裳，以作喬裝之用，要先委屈旋白公子了。</font>
+storymenu_76312_2=<font face="Default" color="#ffffff" >大丈夫能屈能伸</font><font face="Default" color="#ffffff" >，將就下吧。</font>
+storymenu_76313_1=<font face="Default" color="#ed1044" >（見她先前盯了旋白公子好幾眼，試探道）</font><font face="Default" color="#ffffff" >……那姑娘可認識旋白公子？</font>
+storymenu_76313_2=<font face="Default" color="#ffffff" >原來是方家後人……</font>
+storymenu_76313_3=<font face="Default" color="#ffffff" >獻祭？姑娘所說當真</font><font face="Default" color="#ffffff" >？</font><font face="Default" color="#ffffff" >在下從未聽過明廷還有獻祭一說……</font>
+storymenu_76313_4=<font face="Default" color="#ffffff" >蘇姑娘謹慎！可知錦衣衛與無根門向無漏網之</font><font face="Default" color="#ffffff" >魚</font><font face="Default" color="#ffffff" >，小心禍從口出！</font>
+storymenu_76313_5=<font face="Default" color="#ffffff" >……你可想過他一介書生不通武藝，若遇到危險，連自保的能力都無。再者，他到底是男兒身，豈能不</font><font face="Default" color="#ffffff" >露馬腳</font><font face="Default" color="#ffffff" >？</font>
+storymenu_76313_6=<font face="Default" color="#ffffff" >姑娘之意，在下已然明瞭，</font><font face="Default" color="#ffffff" >此事便交予在下罷。</font>
+storymenu_76314_1=<font face="Default" color="#ffffff" >能為蘇姑娘排憂解難，自是欣然。</font>
+storymenu_76314_2=<font face="Default" color="#ffffff" >蘇姑娘無需太過心酸，</font><font face="Default" color="#ffffff" >市井百業，各謀營生、各擔甘苦，又有誰真的能比誰高貴些呢，不過皆是討生活罷了。</font>
+storymenu_76314_3=<font face="Default" color="#ffffff" >所以，姑娘才大費周章讓旋白</font><font face="Default" color="#ffffff" >公子</font><font face="Default" color="#ffffff" >頂替。</font>
+storymenu_76314_4=<font face="Default" color="#ffffff" >蘇姑娘不必如此，眼下事情並未到最壞的地步。在下既然趟了渾水，自然沒有棄之不顧的道理。</font>
+storymenu_76314_5=<font face="Default" color="#ffffff" >楚楚</font><font face="Default" color="#ffffff" >姑娘</font><font face="Default" color="#ffffff" >。</font>
+storymenu_76315_1=<font face="Default" color="#ffffff" >先別急，待我探</font><font face="Default" color="#ffffff" >一探</font><font face="Default" color="#ffffff" >王府，打聽虛實。</font>
+storymenu_76316_1=<font face="Default" color="#ffffff" >不錯，為今之計還是盡快離開金陵，再做打算</font><font face="Default" color="#ffffff" >。</font>
+storymenu_76317_1=<font face="Default" color="#ffffff" >……楚楚姑娘，你究竟是什麼人？</font>
+storymenu_76317_2=<font face="Default" color="#ffffff" >劉莫邪</font><font face="Default" color="#ffffff" >？</font>
+storymenu_76317_3=<font face="Default" color="#ffffff" >難怪楚楚姑娘消息如此靈通。在下還有一問，與你相熟以來，總覺得姑娘對當今……十分不滿，可有什麼隱情？</font>
+storymenu_76317_4=<font face="Default" color="#ffffff" >所以，你們打算破壞這場祭典</font><font face="Default" color="#ffffff" >。</font>
+storymenu_76317_5=<font face="Default" color="#ffffff" >那就有勞楚楚姑娘引薦，也讓我會一會這位奇女子</font><font face="Default" color="#ffffff" >。</font>
+storymenu_76318_1=<font face="Default" color="#ffffff" >女秀才請</font><font face="Default" color="#ffffff" >。</font>
+storymenu_76318_2=<font face="Default" color="#ffffff" >在下聽聞駙馬爺梅殷德才兼備，乃國之棟樑。他不幸蒙難，朝廷必定經過一番徹查。聽女秀才之意，這其中莫非別有隱情？</font>
+storymenu_76318_3=<font face="Default" color="#ffffff" >竟有此事……聖上此舉難道意在警誡長公主？</font>
+storymenu_76318_4=<font face="Default" color="#ffffff" >女秀才之意，聖上並非誠心要幫助調查駙馬死因，甚至……在下已明瞭，願盡綿薄之力。</font>
+storymenu_76319_1=<font face="Default" color="#ffffff" >可此橋甚是開闊，要「失足」落水談何容易？</font>
+storymenu_76319_2=<font face="Default" color="#ffffff" >可知苟三現在何處？</font>
+storymenu_76319_3=<font face="Default" color="#ffffff" >多謝相告。</font>
+storymenu_76320_1=<font face="Default" color="#ffffff" >那大哥可知，駙馬爺落水那天，苟三因何在橋上鬧事？</font>
+storymenu_76320_2=<font face="Default" color="#e8122b" >(看來這個苟三大有問題)</font><font face="Default" color="#ffffff" >……</font>
+storymenu_76321_1=<font face="Default" color="#e81b44" >（此人奸猾，不如反其道而行，「打草驚蛇」）</font><font face="Default" color="#ffffff" >苟三，你那日故意在橋上引起騷動，暗中卻聯合他人將駙馬推下河去溺斃，你可知罪？！</font>
+storymenu_76321_2=<font face="Default" color="#ffffff" >我勸你老實交代，不要敬酒不吃吃罰酒。</font>
+storymenu_76322_1=<font face="Default" color="#c91c4d" >（卸下偽裝，質問道）</font><font face="Default" color="#ffffff" >所以，你當真就是兇手！</font>
+storymenu_76322_2=<font face="Default" color="#ffffff" >哼，這世上本沒有鬼！心中有鬼，所見皆鬼！</font>
+storymenu_76322_3=<font face="Default" color="#ffffff" >走，跟我去見長公主！</font>
+storymenu_76323_1=<font face="Default" color="#ffffff" >長公主，他不過是一枚棋子罷了，若打草驚蛇，讓背後的真兇察覺到，恐怕會讓我們接下來的追查更加困難。</font>
+storymenu_76323_2=<font face="Default" color="#ffffff" >只怕事情沒有那麼簡單。苟三言語中提到「來了金陵的那位大人」，自然不會是久居宮中的聖上，那對方指的是誰，來此何意，又做了些什麼，目前我們都無從知曉。</font>
+storymenu_76323_3=<font face="Default" color="#ffffff" >如若駙馬之死別有隱情，那背後之人便是成功地離間了您和聖上，其真正的用心又在何處？</font>
+storymenu_76323_4=<font face="Default" color="#ffffff" >長公主放心，在下既然答應了會追查下去，必定信守承諾，給您一個完整的答案。</font>
+storymenu_76324_1=<font face="Default" color="#ffffff" >都御史陳固又是何人？</font>
+storymenu_76324_2=<font face="Default" color="#ffffff" >看來這陳固亦可能與駙馬被害一事有所幹系。但當務之急，仍是要找出幕後真兇與關鍵性證據。</font>
+storymenu_76325_1=<font face="Default" color="#ffffff" >承蒙盟主掛念，銘記於心，不過還是要謝謝你跑這一趟。</font>
+storymenu_76325_2=<font face="Default" color="#ffffff" >真的？！……難道五行天宮的人也潛入了金陵？謝姑娘，不若，我們分頭去查。</font>
+storymenu_76325_3=<font face="Default" color="#ffffff" >好，姑娘萬事小心。</font>
+storymenu_76326_1=<font face="Default" color="#f90925" >（將五行令旗遞過去）</font><font face="Default" color="#ffffff" >你看這個，五行天宮的人不知何故來到了金陵。我在他們身上搜到了五行令旗，還截獲了一些特殊的藥石。</font>
+storymenu_76326_2=<font face="Default" color="#ffffff" >我曾到過外域，在永夜城和五行天宮都見過這種藥石，看上去是再平常不過的石頭，實際卻是一種特別的信號彈，燃放瞬間除了產生漫天煙雲外，還能釋放暗器與毒霧。</font>
+storymenu_76326_3=<font face="Default" color="#ffffff" >不。直覺告訴我，這些信號彈出現在金陵，絕不止為了聯絡這麼簡單。</font>
+storymenu_76327_1=<font face="Default" color="#ffffff" >我在道觀的幾處偏僻角落都發現了這些灰色粉末，這就是那特殊藥石燃後留下的痕跡，不會有錯。</font>
+storymenu_76327_2=<font face="Default" color="#ffffff" >並非烏雲，這正是我剛才同你說的特殊藥石，點燃後迅速升空，便可人為製造這些灰色煙霧。</font>
+storymenu_76327_3=<font face="Default" color="#ffffff" >如果我料想的不錯，應是陳固與徐仲文暗中聯手，趁聖上在道觀時，故意假造不祥天象。</font>
+storymenu_76327_4=<font face="Default" color="#ffffff" >我突然想到了一個人，或許他能給我答案。我先去一趟夫子廟。</font>
+storymenu_76328_1=<font face="Default" color="#fc0521" >（恭恭敬敬）</font><font face="Default" color="#ffffff" >吳先生真乃神人也。看來先生已經猜到晚輩有何事請教了。</font>
+storymenu_76328_10=<font face="Default" color="#ffffff" >可如今此事被別有用心之人利用，將天子沉迷長生不老術，抓活人祭祀的謠言散佈到了民間，如此下去，恐動搖社稷。</font>
+storymenu_76328_11=<font face="Default" color="#ffffff" >拜別大師</font><font face="Default" color="#ffffff" >。</font>
+storymenu_76328_2=<font face="Default" color="#ffffff" >……上蒙下霧？</font>
+storymenu_76328_3=<font face="Default" color="#ff052a" >（恍然大悟）</font><font face="Default" color="#ffffff" >看來，有人想要藉著製造異象，使得聖上相信天子運被折損，藉以陷害忠良。</font>
+storymenu_76328_4=<font face="Default" color="#ffffff" >吳先生，依晚輩看，您才是深藏不露。</font>
+storymenu_76328_5=<font face="Default" color="#ffffff" >先生何必過謙。從哭廟集會開始，您引我入局，多番試探於我。在得到滿意的答案後，便借我推動集會風波大事化小，令文士們免於一劫。</font>
+storymenu_76328_6=<font face="Default" color="#ffffff" >吳先生以卦師身份示人，道人裝束雖說無差，卻百密一疏。須知常年修煉道家功法之人，行路習慣，矯健卻沉穩，輕快卻無聲。先生走路端正威儀，抬腳落腳卻緩慢有度，更像僧人。</font>
+storymenu_76328_7=<font face="Default" color="#ffffff" >聖上歷來扶持道教，平生唯一器重的僧者，僅黑衣宰相姚廣孝一人。姚相病重，久臥居於慶壽寺中。如今能為其奔走的，唯有不久前因他求情，而得以蒙赦的，曾被禁錮下獄十餘年的舊帝主錄僧——溥洽大師！晚輩拜見大師。</font>
+storymenu_76328_8=<font face="Default" color="#ffffff" >大師可知，此次天之異象是都御史陳固與道士徐仲文合謀所為。</font><font face="Default" color="#ef104c" >（將先前在道觀見聞一一講來）</font>
+storymenu_76328_9=<font face="Default" color="#ffffff" >所以，他們為了讓聖上下定決心，便再借異象之事添了把火。不過，在下覺得，這背後還有一隻無形的手在推波助瀾……</font>
+storymenu_76329_1=<font face="Default" color="#ffffff" >你可想過，私闖皇宮被發現是何罪名，這</font><font face="Default" color="#ffffff" >秦</font><font face="Default" color="#ffffff" >樓姐妹又該何去何從？暫且心安，此事我自有籌算。</font>
+storymenu_76329_2=<font face="Default" color="#ffffff" >無需多言，在此守著等候消息便可</font><font face="Default" color="#ffffff" >。</font>
+storymenu_76330_1=<font face="Default" color="#ffffff" >稍安勿躁，等我救你們出去！</font>
+storymenu_76331_1=<font face="Default" color="#ffffff" >如此多謝了！你先想辦法將這些被徐仲文抓來的少女帶出宮去，盡快找大夫醫治，她們的身體禁不起折磨了。</font>
+storymenu_76331_2=<font face="Default" color="#ed1e33" >（握緊了手中的兵器）</font><font face="Default" color="#ffffff" >呵，我要去會一會那道人。</font>
+storymenu_76332_1=<font face="Default" color="#ffffff" >該活殉的是你們這些妖言惑眾的無知假道。竟敢借道之名濫殺無辜，豈知真武大帝不會怒降天雷，劈你個魂飛魄散。</font>
+storymenu_76333_1=<font face="Default" color="#fc0a1a" >（原來漢王早就知道是我劫走了旋白）</font><font face="Default" color="#ffffff" >王爺庇護之心，在下無以為報。此番闖宮，實為救人，假道士徐仲文罔顧人命，用陰邪之術煉丹，在下不能坐視不理。</font>
+storymenu_76333_2=<font face="Default" color="#e80d52" >（鄭重一拜）</font><font face="Default" color="#ffffff" >是在下考慮不周，此番得以解圍，還得多謝王爺。</font>
+storymenu_76333_3=<font face="Default" color="#ffffff" >服藥求神仙，多為藥所誤。他用女子月信製藥，足見荒謬。</font>
+storymenu_76333_4=<font face="Default" color="#ffffff" >……原來如此</font><font face="Default" color="#ffffff" > </font>
+storymenu_76333_5=<font face="Default" color="#ffffff" >只要非行不義，自當知恩圖報。</font>
+storymenu_76334_1=<font face="Default" color="#ffffff" >雖以藩王入承大統，但勵精勤政、威德遠被、屢破漠北、皆親歷陣，假使舊帝承襲祖業，必不能有此。</font>
+storymenu_76334_2=<font face="Default" color="#ffffff" >楚楚姑娘可曾想過，你究竟是為天下百姓爭天下，還是為一人一家一姓爭天下，若是後者，只當我們今日未曾有過對話。</font>
+storymenu_76334_3=<font face="Default" color="#ef174a" >（轉身離去）</font>
+storymenu_76335_1=<font face="Default" color="#ffffff" >你的執念僅為一己之私，只要一朝得名，哪怕犧牲自己、姐妹、朋友，甚至盛世康平也在所不惜。我同你無話可說。今日你為自己拔劍，我為天下拔劍，且看誰能贏得這一局。動手罷。</font>
+storymenu_76335_2=<font face="Default" color="#ffffff" >你若能放下執念，即刻前往碼頭與旋白會合，我已為你們打點一切。</font>
+storymenu_76335_3=<font face="Default" color="#ffffff" >你帶上旋白在碼頭等我。我們在那裡見面</font>
+storymenu_76336_1=<font face="Default" color="#ffffff" >去真正的江湖吧。去到一個可以讓行俠仗義的故事，以蘇楚楚這個名字開始的地方。</font>
+storymenu_76336_2=<font face="Default" color="#ffffff" >看到你能放下一切，</font><font face="Default" color="#ffffff" >有如此覺悟</font><font face="Default" color="#ffffff" >，我也倍感欣慰。此去東瀛，山高水長，多加珍重！</font>
+storymenu_76337_1=<font face="Default" color="#ffffff" >好，我等著。</font>
+storymenu_76337_2=<font face="Default" color="#ffffff" >珍重，後會有期。</font>
+storymenu_76338_1=<font face="Default" color="#f90431" >（糟了，被漢王發現了蹤跡）</font><font face="Default" color="#ffffff" >參見王爺，萬望恕罪。在下只是想見識見識這盛大的祭天大典。</font>
+storymenu_76338_2=<font face="Default" color="#f90925" >（得趕緊脫身才行）</font><font face="Default" color="#ffffff" >在下當然信王爺所說，此次前來，確實只為觀禮……</font>
+storymenu_76338_3=<font face="Default" color="#ffffff" >……</font><font face="Default" color="#e81740" >（糟了，來</font><font face="Default" color="#f90421" >不及阻止楚楚了！）</font>
+storymenu_76339_1=<font face="Default" color="#ffffff" >盟主過獎了，此乃晚輩分內之事。</font><font face="Default" color="#e8173d" >（然而，我與「那位大人」的較量，或許才剛剛開始……）</font>
+storymenu_76339_2=<font face="Default" color="#ffffff" >晚輩在金陵時，已洞悉那假道人徐仲文的長生不死藥謠言，並安排破謠對策。至於這陰陽顛倒</font><font face="Default" color="#ffffff" >宮</font><font face="Default" color="#ffffff" >，雖有耳聞，卻不曾探得位置。</font>
+storymenu_76339_3=<font face="Default" color="#ffffff" >直覺告訴我，陰陽顛倒</font><font face="Default" color="#ffffff" >宮</font><font face="Default" color="#ffffff" >和「那位大人」脫不開干係……既如此，倒是去闖它一闖罷。</font>
+storymenu_76340_1=<font face="Default" color="#e20b24" >（這是寧死都不敢得罪背後的人麼，那就……來一個順水推舟）</font><font face="Default" color="#ffffff" >哼，憑你還不配讓我動手。</font>
+DialogID_76328=<font face="Default" color="#ffffff" >不過是娛樂消遣的比試活動，竟</font><font face="Default" color="#ffffff" >然也玩</font><font face="Default" color="#ffffff" >暗襲</font><font face="Default" color="#ffffff" >傷人</font><font face="Default" color="#ffffff" >，若讓他逃了我還當什麼神捕！！</font>
+DialogID_76330=<font face="Default" color="#e21433" >（細細檢查倒在</font><font face="Default" color="#e00b2b" >地上之人）</font>
+DialogID_76331=<font face="Default" color="#d62252" >（眉頭緊蹙，滿是不解）</font><font face="Default" color="#ffffff" >李將軍的致命傷，難道竟是這形狀怪異的野豬牙？</font>
+DialogID_76332=<font face="Default" color="#ffffff" >還記得李將軍身上的野豬牙嗎？</font>
+DialogID_76335=<font face="Default" color="#ffffff" >救</font><font face="Default" color="#ffffff" >……</font><font face="Default" color="#ffffff" >救我</font>
+DialogID_76337=<font face="Default" color="#ffffff" >...</font>
+QiecuoMenu_76309=<font face="Default" color="#ffffff" >……啊？</font>
+QiecuoMenu_76312=<font face="Default" color="#ffffff" >看招！</font>
+QiecuoMenu_76313=<font face="Default" color="#ffffff" >看招！</font>
+QiecuoMenu_76314=<font face="Default" color="#ffffff" >看招！</font>
+QiecuoMenu_76315=<font face="Default" color="#ffffff" >看招！</font>
+QiecuoMenu_76317=<font face="Default" color="#ffffff" >要你狗命的人！</font>
+QiecuoTitle_76309=<font face="Default" color="#ffffff" >哎呀，被綁了這麼久，手腳都不利索了。我看你像個高手的樣子，陪我過過招活動一下筋骨吧</font>
+QiecuoTitle_76312=<font face="Default" color="#ffffff" >不管我有多少女人，楊媽媽是我最愛的一個。</font>
+QiecuoTitle_76313=<font face="Default" color="#ffffff" >人生苦短，春光乍洩，及時行樂。</font>
+QiecuoTitle_76314=<font face="Default" color="#ffffff" >我說什麼都是對的。</font>
+QiecuoTitle_76315=<font face="Default" color="#ffffff" >紅旗不倒，彩旗飄飄。我就是這樣一個專一的男人。</font>
+QiecuoTitle_76317=<font face="Default" color="#ffffff" >你是何人？</font>
+SubmitNpcEx_76338=與掌門<a href="findnpc_new,adv156,tls_001" style="HLStype1">鴻海</a>交談，加入天輪寺
+SubmitNpcEx_76341=與掌門<a href="findnpc_new,adv156,tls_001" style="HLStype1">鴻海</a>交談，加入天輪寺
+collectinfo_76308=狩獵<a href="findnpc_new,city03,npc_tls_dy_26" style="HLStype1">野豬</a>，收集野豬牙
+collectinfo_76309=通過<a href="findnpc_new,adv156,npc_tianlun_kyf_001" style="HLStype1">蘭方</a>的審核，獲得天輪寺的門派信物（可與<a href="findnpc_new,scene32,npc_tls_dy_33" style="HLStype1">溫師叔</a>對話快速前往天輪寺）
+collectinfo_76310=通過<a href="findnpc_new,adv156,npc_tianlun_kyf_003" style="HLStype1">巴莉</a>的審核，獲得天輪寺的門派信物（可與<a href="findnpc_new,scene32,npc_tls_dy_009" style="HLStype1">仁真堂主</a>對話快速前往天輪寺）
+hunterinfo_76308=擊敗圍攻謝若寧的<a href="findnpc_new,city03,npc_tls_dy_21" style="HLStype1">黑衣人</a>
+hunterinfo_76309=幫助<a href="findnpc_new,scene32,npc_tls_dy_08" style="HLStype1">益西</a>活動筋骨
+hunterinfo_76310=打敗圍攻益西的<a href="findnpc_new,scene32,npc_tls_dy_28" style="HLStype1">永夜城匪寇</a>
+hunterinfo_76311=替溫師叔教訓<a href="findnpc_new,scene32,npc_tls_dy_31" style="HLStype1">地痞</a>
+hunterinfo_76312=教訓惡少<a href="findnpc_new,scene32,npc_tls_dy_34" style="HLStype1">樸書桓</a>
+hunterinfo_76313=教訓惡少<a href="findnpc_new,scene32,npc_tls_dy_35" style="HLStype1">管子喬</a>
+hunterinfo_76314=教訓惡少<a href="findnpc_new,scene32,npc_tls_dy_36" style="HLStype1">鄭世賢</a>
+hunterinfo_76315=教訓惡少<a href="findnpc_new,scene32,npc_tls_dy_37" style="HLStype1">姚小寶</a>
+hunterinfo_76316=光天化日之下竟有<a href="findnpc_new,scene32,npc_tls_dy_005" style="HLStype1">地痞</a>當街行兇
+hunterinfo_76317=出手懲戒<a href="findnpc_new,scene32,npc_tls_dy_006" style="HLStype1">姚小寶</a>
+interactinfo_76326=奪取<a href="findnpc,city03,1335.349,0.141,1819.298" style="HLStype1">百魅生</a>
+interactinfo_76327=追擊<a href="findnpc_new,city03,Eventnpc_tls_dy_01" style="HLStype1">黑衣人</a>
+interactinfo_76328=詢問<a href="findnpc_new,city03,npc_tls_dy_22" style="HLStype1">謝若寧</a>是否受傷
+interactinfo_76329=繼續追擊<a href="findnpc_new,city03,Eventnpc_tls_dy_02" style="HLStype1">黑衣人</a>
+interactinfo_76330=檢查<a href="findnpc_new,city03,npc_tls_dy_23" style="HLStype1">屍體</a>
+interactinfo_76331=詢問<a href="findnpc_new,city03,npc_tls_dy_24" style="HLStype1">謝若寧</a>的意見
+interactinfo_76332=詢問<a href="findnpc_new,city03,npc_tls_dy_25" style="HLStype1">謝若寧</a>的想法
+interactinfo_76333=前往<a href="findnpc_new,scene32,Eventnpc_tls_dy_03" style="HLStype1">永夜城</a>（可與<a href="findnpc_new,city03,npc_tls_dy_25" style="HLStype1">謝若寧</a>對話快速前往永夜城）
+interactinfo_76334=與<a href="findnpc_new,,Eventnpc_tls_dy_04" style="HLStype1">76336交互子任務</a>呼救聲，去看看
+interactinfo_76335=幫助<a href="findnpc_new,scene32,npc_tls_dy_07" style="HLStype1">小和尚</a>脫困
+interactinfo_76336=尋找<a href="findnpc_new,scene32,Eventnpc_tls_dy_04" style="HLStype1">溫師叔</a>
+interactinfo_76337=手中的求援書應就是<a href="findnpc_new,scene32,npc_tls_dy_001" style="HLStype1">啞女</a>所書
+interactinfo_76338=前往<a href="findnpc_new,scene32,Eventnpc_tls_dy_001" style="HLStype1">永夜城</a>
+interactinfo_76339=尋找惡少<a href="findnpc_new,scene32,Eventnpc_tls_dy_002" style="HLStype1">姚小寶</a>
+okmenu_76328=<font face="Default" color="#ffffff" >他受傷了，跑不遠，追！</font>
+okmenu_76330=<font face="Default" color="#ffffff" >這是……</font>
+okmenu_76331=<font face="Default" color="#ffffff" >……光天化日之下，竟發生了人命案</font>
+okmenu_76332=<font face="Default" color="#ffffff" >那獠牙不似中原品種</font><font face="Default" color="#ffffff" >……</font><font face="Default" color="#ffffff" >稍等片刻，我去去就來。</font>
+okmenu_76335=<font face="Default" color="#d61330" >（替他鬆綁）</font><font face="Default" color="#ffffff" >這位</font><font face="Default" color="#ffffff" >小兄弟，誰將你捆在這裡的？</font>
+okmenu_76337=<font face="Default" color="#ffffff" >姑娘，這封</font><font face="Default" color="#ffffff" >求援書</font><font face="Default" color="#ffffff" >是你所寫嗎？</font>
+quest_menu_76301=<font face="Default" color="#ffffff" >嘗試猜出是什麼酒</font>
+quest_menu_76302=<font face="Default" color="#ffffff" >嘗試猜出是什麼酒</font>
+quest_menu_76303=<font face="Default" color="#ffffff" >嘗試猜出是什麼酒</font>
+questioninfo_76301=前往二樓猜<a href="findnpc_new,city03,npc_tls_dy_10" style="HLStype1">酒</a>
+questioninfo_76302=前往二樓猜<a href="findnpc_new,city03,npc_tls_dy_11" style="HLStype1">酒</a>
+questioninfo_76303=前往二樓猜<a href="findnpc_new,city03,npc_tls_dy_12" style="HLStype1">酒</a>
+questioninfo_76304=回答<a href="findnpc_new,city03,npc_tls_dy_13" style="HLStype1">酒</a>
+questioninfo_76305=回答<a href="findnpc_new,city03,npc_tls_dy_14" style="HLStype1">酒</a>
+story_76341_1=<font face="Default" color="#ffffff" >難得讓你破費一回，自然要去。你到得可真是時候，近來這城中新開了一間傾城酒坊，每日日門庭若市，好不熱鬧。</font>
+story_76341_2=<font face="Default" color="#ffffff" >這傾城酒坊有雙絕，一來自然是那桂酒椒漿，二來嘛，聽聞老闆娘秦百媚與一眾江南美人不同，是個風情萬種的辣椒娘子。怎樣，有興趣嗎？</font>
+story_76342_1=<font face="Default" color="#e81239" >（眸底閃過一絲狡黠）</font><font face="Default" color="#ffffff" >這位客官，不知你期待的，是美酒還是美人呢？</font>
+story_76343_1=<font face="Default" color="#ea0e48" >（光艷一笑）</font><font face="Default" color="#ffffff" >俠士過獎了。敝處今日有賽酒大會，獲勝者可以品嚐妾身新釀的「百媚生」，未知俠士可有興趣？</font>
+story_76343_2=<font face="Default" color="#ffffff" >這酒會的第一輪，是聞酒猜名。若俠士能率先猜出三種酒的名稱，且飲之不醉便算勝出！</font><font face="Default" color="#ef104c" >（右臂柔然一展）</font><font face="Default" color="#ffffff" >樓上請！</font>
+story_76344_1=<font face="Default" color="#ffffff" >俠士對酒見識非凡，果真是同道中人，妾身佩服。接下來的快手取酒，妾身期待俠士的表現。</font>
+story_76345_1=<font face="Default" color="#ffffff" >酒之一道，我瞭解得不多，只能區分好不好喝……</font>
+story_76346_1=<font face="Default" color="#e01656" >（歎了口氣）</font><font face="Default" color="#ffffff" >有過幾面之緣。李將軍生前驍勇善戰，武藝高超，常人想要近他身側絕非易事，不料竟命喪於此……</font>
+story_76346_2=<font face="Default" color="#f20e30" >（凝視了你好一會）</font><font face="Default" color="#ffffff" >抱歉，把你拖下水。實不相瞞，我去傾城酒坊是為了守株待兔，追捕大盜管輝。</font>
+story_76346_3=<font face="Default" color="#ffffff" >此人出身外域武林，真名不詳，前些日子入宮盜取御酒和數件國庫珍寶，六扇門正著人全力搜捕。因他嗜酒如命，我們在全城的酒坊都設了埋伏，不料今日還是讓他逃了。李將軍遇害一事，就算他不是兇手，也脫不了干係。</font>
+story_76347_1=<font face="Default" color="#ffffff" >此人狡詐異常，一路上躲過數道官府設卡，依腳印推斷，應該</font><font face="Default" color="#ffffff" >是往西北方向</font><font face="Default" color="#ffffff" >。</font>
+story_76347_2=
+story_76348_1=<font face="Default" color="#ffffff" >以老漢我多年打獵的經驗來看，此獠牙絕非中原野豬所出。你看這前端，是不是像匕首形狀，此品種應是來自於西北地區，甚至還要再遠一些。</font>
+story_76349_1=<font face="Default" color="#ffffff" >難道是……永夜城？！若他真回到永夜城，那我們緝捕起來就更困難了。</font>
+story_76350_1=<font face="Default" color="#ffffff" >多謝相救，吾乃苦足山天輪寺門下弟子，叫我益西就好。</font>
+story_76350_2=<font face="Default" color="#ffffff" >敝寺教義與中原佛門不同，行走江湖靠的是「以暴制暴」的度化準則。然而寺中一位掌理刑罰的師叔「度化」過多，惹毛了大批武林人士，吾奉師命下山尋他，一時不察……</font>
+story_76350_3=<font face="Default" color="#ffffff" >不好！又來了許多人……</font><font face="Default" color="#e21249" >（掏出兵器便要上前）</font>
+story_76351_1=<font face="Default" color="#ed071e" >（看到你驚喜萬分，連忙回頭招呼）</font><font face="Default" color="#ffffff" >東家！是東家回來了！</font>
+story_76352_1=<font face="Default" color="#ffffff" >怎會不記得，你離開了那麼久，大家都很</font><font face="Default" color="#ffffff" >想念你</font><font face="Default" color="#ffffff" >，東家在中原可安好？</font>
+story_76353_1=<font face="Default" color="#ffffff" >天輪寺</font><font face="Default" color="#ffffff" >可是外域武林一等一囂張的門派，門中那一位溫長老經常來永夜城「蕩惡」，就現在這時辰</font><font face="Default" color="#ffffff" >，</font><font face="Default" color="#ffffff" >你在周圍逛逛，保證有所收穫——等等，</font><font face="Default" color="#ffffff" >東家救了天輪寺的人？！</font>
+story_76353_2=<font face="Default" color="#ffffff" >東家你有所不知。城主府大主管霍青</font><font face="Default" color="#ffffff" >乃是五行天宮的馬前卒，先前無故</font><font face="Default" color="#ffffff" >暴斃，據聞是天輪寺弟子下的手，對方事後還用野豬獠牙刺穿了霍青的胸膛，挑釁之意十分明顯。</font>
+story_76353_3=<font face="Default" color="#ffffff" >那天輪寺嘴上說佛、手上截活，外域但凡有些劣跡之人，誰曾躲得過他們的拳腳，早把人都得罪光了。如今惹上五行天宮，先前吃過他們虧的人，那裡肯放過這機會，添油加醋以訛傳訛，真相如何又有誰在乎呢。</font>
+story_76354_1=<font face="Default" color="#e51635" >（低頭思考了一陣）</font><font face="Default" color="#ffffff" >管輝……我沒有印象，但前兩日外域大盜赤傑曾出現在這一帶，此人也是嗜酒如命、見錢眼開的主。</font>
+story_76355_1=<font face="Default" color="#ffffff" >都這時候了，還想著加入敝寺，你可真是囂張……此事我做不了主，若找到溫師叔，她倒可以為你引薦一二。</font>
+story_76356_1=<font face="Default" color="#ffffff" >你是何人？這二人本由我來度化，為何搶先動手。</font>
+story_76356_2=<font face="Default" color="#ffffff" >這……我倒是沒想過，草率了。</font>
+story_76357_1=<font face="Default" color="#ffffff" >不錯</font><font face="Default" color="#ffffff" >，有前途</font><font face="Default" color="#ffffff" >！這便隨我一同前往天輪寺吧！</font>
+story_76358_1=<font face="Default" color="#ffffff" >唉，都怪那惡少姚小寶！</font>
+story_76358_2=<font face="Default" color="#ffffff" >不錯，這姑娘本名凌蘭。乃是梨園的當紅花旦，若不是那惡少姚小寶，怎會如此。</font>
+story_76358_3=<font face="Default" color="#ffffff" >原來在這永夜城中，有一處附庸風雅的好去處，那便是夜心梨園。之所以有梨園的存在，卻是因為一個人，那人便是永夜四大惡少之一的姚小寶。</font>
+story_76358_4=<font face="Default" color="#ffffff" >這位號稱吃喝嫖賭樣樣俱全的姚少爺。平日閒來無事，最愛看戲，雖然愛看戲，但他最瞧不起的，便是戲子，在他眼中，戲子就是可以供人取樂的小丑。也就是說，他愛看戲，卻不懂戲，更不懂戲子。</font>
+story_76358_5=<font face="Default" color="#ffffff" >姚小寶喜怒無常，時常半夜三更忽來興致，便叫戲子為他唱戲，有時為了尋求逼真的感覺，更是讓戲子們假戲真做，上演著真實的悲歡離合。</font>
+story_76358_6=<font face="Default" color="#ffffff" >某日，他為了看個霸王別姬的戲，竟真的想讓花旦凌蘭當眾自刎。凌蘭拚死不從，便被他打個半死，並被迫吞下了燒紅的炭塊，從此再也不能唱戲了，成了個啞巴。凌蘭再也不能唱戲了，眾人也害怕姚小寶，誰也不敢收留她，以至於她流落街頭，成了乞丐。</font>
+story_76359_1=<font face="Default" color="#ffffff" >哈哈，你說話倒是有趣。貧僧乃天輪寺仁真堂主，這廝作惡多端，貧僧早就看他不順眼了。你出手倒也公平，免得別人說我以大欺小。不過，就地正法這個活不能讓給你。</font>
+story_76359_2=<font face="Default" color="#ffffff" >如此也好！</font>
+story_76360_1=<font face="Default" color="#ffffff" >（凌蘭</font><font face="Default" color="#ffffff" >眼神</font><font face="Default" color="#ffffff" >含笑看著你）</font>
+story_76361_1=<font face="Default" color="#ffffff" >天輪寺雖行事霸道，卻不行那傷天害理之事。凌蘭希望天輪寺可以收留她，免得在城中在招人欺凌。</font>
+story_76362_1=<font face="Default" color="#ffffff" >沒有問題，我見你行事乖張卻有任俠之風，可有興趣入我天輪寺？</font>
+story_menu_76341=<font face="Default" color="#ffffff" >這一路前來</font><font face="Default" color="#ffffff" >，</font><font face="Default" color="#ffffff" >舟車勞頓，最好的便是有一壺美酒...</font>
+story_menu_76342=<font face="Default" color="#ffffff" >竟然如此熱鬧，我開始有些期待了！</font>
+story_menu_76343=<font face="Default" color="#ffffff" >碧桃天上栽和露，不是凡花數。</font>
+story_menu_76344=<font face="Default" color="#e80d48" >（點頭一禮）</font><font face="Default" color="#ffffff" >多謝東家佳釀款待，在下</font><font face="Default" color="#ffffff" >僥倖通過</font>
+story_menu_76345=<font face="Default" color="#ffffff" >若寧</font><font face="Default" color="#ffffff" >，你猜得如何？</font>
+story_menu_76346=<font face="Default" color="#ffffff" >你識得此人？</font>
+story_menu_76347=<font face="Default" color="#ffffff" >可有什麼新線索</font>
+story_menu_76348=<font face="Default" color="#ffffff" >大爺，</font><font face="Default" color="#ffffff" >你見過這種野豬牙嗎？</font>
+story_menu_76349=<font face="Default" color="#ce0c49" >（聽著你的轉述，陷入沉思）</font><font face="Default" color="#ffffff" >西北地區……再遠一些的話，就是外域了。</font>
+story_menu_76350=<font face="Default" color="#ffffff" >怎樣，好些了嗎？</font>
+story_menu_76351=<font face="Default" color="#ffffff" >掌櫃的，好久不見！</font>
+story_menu_76352=<font face="Default" color="#e81434" >（笑瞇瞇）</font><font face="Default" color="#ffffff" >小河子，還記得我嗎</font>
+story_menu_76353=<font face="Default" color="#ffffff" >掌櫃的，你對天輪寺瞭解多少？我救了個寺中的小兄弟，想幫著打聽一下他師叔的下落。</font>
+story_menu_76354=<font face="Default" color="#ffffff" >小河子，向你打聽個人。我不在永夜城的這段時間，你可曾聽過一個名字：管輝。</font><font face="Default" color="#ffffff" >此人貪財好酒，功夫很是不錯。</font>
+story_menu_76355=<font face="Default" color="#e8203e" >（微彎下腰，笑瞇瞇）</font><font face="Default" color="#ffffff" >小師傅，加入你們天輪寺需要什麼條件？</font>
+story_menu_76356=<font face="Default" color="#ffffff" >閣下想必就是益西小師傅口中的「溫師叔」了</font>
+story_menu_76357=<font face="Default" color="#ffffff" >不知溫</font><font face="Default" color="#ffffff" >長老</font><font face="Default" color="#ffffff" >是否滿意？</font>
+story_menu_76358=<font face="Default" color="#ffffff" >婆婆</font><font face="Default" color="#ffffff" >，這位姑娘雖淪落至此但瑕不掩瑜。可看出她曾經也是風華絕代的女子，為何此時...？</font>
+story_menu_76359=<font face="Default" color="#ffffff" >閣下也是來給姚少爺</font><font face="Default" color="#ffffff" >上</font><font face="Default" color="#ffffff" >演拳打姚小寶嗎？</font>
+story_menu_76360=<font face="Default" color="#ffffff" >姑娘，在下這齣戲演的如何？</font>
+story_menu_76361=<font face="Default" color="#ffffff" >婆婆，凌蘭</font><font face="Default" color="#ffffff" >似乎有話要說。</font>
+story_menu_76362=<font face="Default" color="#ffffff" >仁真堂主，這位是凌蘭...（講述凌蘭的遭遇）。希望天輪寺可以收留她。</font>
+storyinfo_76341=讓<a href="findnpc_new,city03,npc_tls_dy_01" style="HLStype1">謝若寧</a>給你介紹金陵有趣的地方
+storyinfo_76342=與<a href="findnpc_new,city03,npc_tls_dy_02" style="HLStype1">謝若寧</a>在傾城酒館會合
+storyinfo_76343=與傾城酒館的老闆娘<a href="findnpc_new,city03,npc_tls_dy_03" style="HLStype1">秦百魅</a>,聊一聊
+storyinfo_76344=詢問<a href="findnpc_new,city03,npc_tls_dy_03" style="HLStype1">秦百魅</a>賽酒大賽第二輪的規則
+storyinfo_76345=向<a href="findnpc_new,city03,npc_tls_dy_16" style="HLStype1">謝若寧</a>炫耀
+storyinfo_76346=詢問<a href="findnpc_new,city03,npc_tls_dy_24" style="HLStype1">謝若寧</a>的意見
+storyinfo_76347=詢問<a href="findnpc_new,city03,npc_tls_dy_25" style="HLStype1">謝若寧</a>是否有新的線索
+storyinfo_76348=詢問<a href="findnpc_new,city03,npc_tls_dy_27" style="HLStype1">獵戶</a>，是否見過這種野豬牙
+storyinfo_76349=詢問<a href="findnpc_new,city03,npc_tls_dy_25" style="HLStype1">謝若寧</a>的想法
+storyinfo_76350=詢問<a href="findnpc_new,scene32,npc_tls_dy_08" style="HLStype1">益西</a>為何被困
+storyinfo_76351=前往客棧找到<a href="findnpc_new,scene32,npc_tls_dy_39" style="HLStype1">掌櫃</a>
+storyinfo_76352=和<a href="findnpc_new,scene32,npc_tls_dy_29" style="HLStype1">小河子</a>打招呼
+storyinfo_76353=向<a href="findnpc_new,scene32,npc_tls_dy_39" style="HLStype1">掌櫃</a>打聽天輪寺
+storyinfo_76354=詢問<a href="findnpc_new,scene32,npc_tls_dy_29" style="HLStype1">小河子</a>是否見過可以之人
+storyinfo_76355=詢問<a href="findnpc_new,scene32,npc_tls_dy_30" style="HLStype1">益西</a>加入天輪寺的條件
+storyinfo_76356=與<a href="findnpc_new,scene32,npc_tls_dy_33" style="HLStype1">溫師叔</a>交談，請求加入天輪寺
+storyinfo_76357=詢問<a href="findnpc_new,scene32,npc_tls_dy_33" style="HLStype1">溫師叔</a>是否滿意
+storyinfo_76358=聽<a href="findnpc_new,scene32,npc_tls_dy_002" style="HLStype1">婆婆</a>講述啞女的遭遇
+storyinfo_76359=眼前這位<a href="findnpc_new,scene32,npc_tls_dy_004" style="HLStype1">仁真堂主</a>似乎也是為姚小寶而來
+storyinfo_76360=詢問<a href="findnpc_new,scene32,npc_tls_dy_007" style="HLStype1">凌蘭</a>以後的打算
+storyinfo_76361=詢問<a href="findnpc_new,scene32,npc_tls_dy_008" style="HLStype1">婆婆</a>凌蘭以後的打算
+storyinfo_76362=請求<a href="findnpc_new,scene32,npc_tls_dy_009" style="HLStype1">仁真堂主</a>收留凌蘭
+storymenu_76341_1=<font face="Default" color="#ffffff" >哦？</font>
+storymenu_76341_2=<font face="Default" color="#ea1c3b" >（淡淡一笑）</font><font face="Default" color="#ffffff" >自然是，即刻動身。</font>
+storymenu_76342_1=<font face="Default" color="#ffffff" >美人悅目，美酒沁心，自然是雙份的了。</font>
+storymenu_76343_1=<font face="Default" color="#ffffff" >願聞其詳</font>
+storymenu_76343_2=<font face="Default" color="#ffffff" >多謝</font><font face="Default" color="#ffffff" >！</font>
+storymenu_76344_1=<font face="Default" color="#ffffff" >不敢當</font>
+storymenu_76345_1=<font face="Default" color="#ffffff" >簡單明瞭，甚好</font>
+storymenu_76346_1=<font face="Default" color="#ed1250" >（檢查完屍體</font><font face="Default" color="#ea1038" >，站起身</font><font face="Default" color="#ed1250" >）</font><font face="Default" color="#ffffff" >要了他性命的，並非這野豬牙，而是慢</font><font face="Default" color="#ffffff" >性</font><font face="Default" color="#ffffff" >毒藥。（一頓，看向謝若寧）先前那黑衣人一出現，你便有所防範。今日我們的酒坊之行，是你有意而為之，對麼？</font>
+storymenu_76346_2=<font face="Default" color="#ffffff" >管輝</font><font face="Default" color="#ffffff" >？</font>
+storymenu_76346_3=<font face="Default" color="#ffffff" >反正也讓你攪了酒興，就乾脆一起追查此事。</font>
+storymenu_76347_1=<font face="Default" color="#ffffff" >西北方向……</font><font face="Default" color="#d81744" >（腦海中莫名浮現出了三個字）</font>
+storymenu_76347_2=
+storymenu_76348_1=<font face="Default" color="#ffffff" >多謝！</font>
+storymenu_76349_1=<font face="Default" color="#db1a47" >（回想起自己在永夜城的那些歷程）</font><font face="Default" color="#ffffff" >……又是永夜城。若他以為逃到那裡便安全了，只怕是要失望了。</font>
+storymenu_76350_1=<font face="Default" color="#dd0d60" >（見他年紀小小，言語間卻格外認真，覺得十分可愛）</font><font face="Default" color="#ffffff" >原來是出自外域八派之一天輪寺的益西小師傅，有禮了。</font><font face="Default" color="#ffffff" >可否告知在下，你如何會在此處？</font>
+storymenu_76350_2=<font face="Default" color="#ffffff" >貴寺行事果真別具一格……</font>
+storymenu_76350_3=<font face="Default" color="#ea1730" >（連忙攔住）</font><font face="Default" color="#ffffff" >我說小師傅，咱們先別急著動手，眼下找你師叔要緊。對方人多，我們不妨分頭撤退，</font><font face="Default" color="#ffffff" >與城中客棧會和。</font>
+storymenu_76351_1=<font face="Default" color="#ffffff" >別來無恙</font>
+storymenu_76352_1=<font face="Default" color="#ffffff" >勞你們掛念了，諸事無虞。</font>
+storymenu_76353_1=<font face="Default" color="#ffffff" >嗯，有何不對麼？</font>
+storymenu_76353_2=<font face="Default" color="#ffffff" >據我瞭解，天輪寺門人皆以禪杖為兵器，有何證據表明，野豬獠牙也是他們所為？</font>
+storymenu_76353_3=<font face="Default" color="#db232f" >（難怪連一個十幾歲的少年都不放過……）</font><font face="Default" color="#ffffff" >我知道了，你先去忙吧，我四處轉轉。</font>
+storymenu_76354_1=<font face="Default" color="#ffffff" >若寧先前說，管輝只是化名。赤傑，管輝……難道此兩人是同一個？</font>
+storymenu_76355_1=<font face="Default" color="#ffffff" >這有何難，你先進客棧躲一躲，其他交給我吧。</font>
+storymenu_76356_1=<font face="Default" color="#ffffff" >溫長老莫怪，實在是先前我救下益西小師傅時，他痛心疾首地說過，溫長老再度化下去，貴寺就要因無錢賠償傷者而關門大吉了。</font>
+storymenu_76356_2=<font face="Default" color="#ffffff" >溫長老現在收手也還來得及。若實在閒得無聊，不妨考慮一下在下想拜入貴寺的意願。</font>
+storymenu_76357_1=<font face="Default" color="#ffffff" >師叔，請！</font>
+storymenu_76358_1=<font face="Default" color="#ffffff" >姚小寶？</font>
+storymenu_76358_2=<font face="Default" color="#ffffff" >我也曾耳聞永夜城四大惡少，沒想到竟是如此心狠手辣！</font>
+storymenu_76358_3=<font face="Default" color="#ffffff" >哼！</font>
+storymenu_76358_4=<font face="Default" color="#ffffff" >戲子與普通人有何貴賤之分，豈可憑他一人定奪！</font>
+storymenu_76358_5=<font face="Default" color="#ffffff" >好一個姚小寶！</font>
+storymenu_76358_6=<font face="Default" color="#ffffff" >哼！今天就給他演一出拳打姚小寶，然他見識下什麼才叫戲如人生！</font>
+storymenu_76359_1=<font face="Default" color="#ffffff" >堂主刀下留人！殺他髒了閣下的手，不如將他交到城主府。城主自由定奪。</font>
+storymenu_76359_2=<font face="Default" color="#ffffff" >請！</font>
+storymenu_76360_1=<font face="Default" color="#ffffff" >哈哈哈</font>
+storymenu_76361_1=<font face="Default" color="#ffffff" >如此甚好！</font>
+storymenu_76362_1=<font face="Default" color="#ffffff" >在下早就想一覽天輪寺的風采，如此便恭敬不如從命了。</font>
+useiteminfo_76301=查看<a href="TASK_ITEM,useitem_tls_dy_001" style="HLStype1">碎紙片</a>
+

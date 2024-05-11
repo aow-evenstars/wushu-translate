@@ -1,0 +1,48 @@
+﻿
+CanAcceptMenu_16805=<font face="Default" color="#ffffff" >坐骑训练（三）</font>
+CanAcceptMenu_16807=<font face="Default" color="#ffffff" >捕捉野马(一)</font>
+CanAcceptMenu_16808=<font face="Default" color="#ffffff" >捕捉野马（二）</font>
+CanAcceptMenu_16809=<font face="Default" color="#ffffff" >关公公，我来求您相助了。</font>
+CompleteMenu_16801=<font face="Default" color="#ffffff" >我来取东西了。</font>
+CompleteMenu_16807=<font face="Default" color="#ffffff" >我回来了</font><font face="Default" color="#ffffff" >。</font>
+CompleteMenu_16808=<font face="Default" color="#ffffff" >我回来了。</font>
+accept_16805_1=<font face="Default" color="#ffffff" >不同的马都不同的喜好，羊草、谷草、稻草、鲜草、清水，这些都是马最常吃的食料，这个训练是对马进行喂食的训练，去找马腾，他会教你怎么做。</font><font face="Default" color="#ffffff" >拿到十个凭证再回来找我</font>
+accept_16807_1=<font face="Default" color="#ffffff" >最近我们丢失了一些刚运来的野马，麻烦少侠帮我们捉回来，必有重谢</font><font face="Default" color="#ffffff" >。</font>
+accept_16808_1=<font face="Default" color="#ffffff" >最近我们丢失了一些刚运来的野马，麻烦少侠帮我们捉回来，必有重谢。</font>
+accept_16809_1=<font face="Default" color="#ffffff" >哦？你不是已经……让我看看，啧啧，天下竟有这等医术，能去势再续，当真令人叹服。</font>
+complete_16801=<font face="Default" color="#ffffff" >怎么样</font><font face="Default" color="#ffffff" >，关公公的刀法不错吧，你运气好有他老人家</font><font face="Default" color="#ffffff" >给你主刀。我们第一次的时候都是随便拉个公公就解决了，连续几天都下不了床，运气不好的还会大出血。好了收好你的“宝贝”可别弄丢了，你以后每个月总会有那么几天要想着的，我是过来人，我懂的。</font>
+complete_16807=<font face="Default" color="#ffffff" >恩，不错，这是你的奖励</font><font face="Default" color="#ffffff" >。</font>
+complete_16808=<font face="Default" color="#ffffff" >恩，不错，这是你的奖励。</font>
+context_16801=这关公公刀工还真是一绝，别忘了找小甸子取回自己的“宝贝”
+context_16802=这里会随机提供四种训练任务，分别为速跑任务、负重任务、喂养任务、跳桩任务。<br>(1)速跑任务：在15分钟内跑到终点与NPC对话完成任务。<br>(2)负重任务：在15分钟内运送十箱货物，获得十个收据，完成任务。<br>(3)喂养任务：在15分钟内正确的给坐骑喂食十次，获得十个喂养凭证，完成任务。<br>(4)跳桩任务：在15分钟内跳到NPC所在位置与NPC对话完成任务。
+context_16803=最快的速度跑到目标处完成任务
+context_16804=帮助别人运送十箱货物
+context_16805=1与马腾交谈<br>2进行喂食训练<br>3向罗贤回报
+context_16807=最近我们丢失了一些刚运来的野马，麻烦少侠帮我们捉回来，必有重谢
+context_16808=最近我们丢失了一些刚运来的野马，麻烦少侠帮我们捉回来，必有重谢
+context_16809=让关公公帮忙再次去势，由于是续势后再去势，难度要比第一次去势更甚。
+menu_16805_1=<font face="Default" color="#ffffff" >领取任务</font>
+menu_16807_1=<font face="Default" color="#ffffff" >接受任务</font>
+menu_16808_1=<font face="Default" color="#ffffff" >接受任务</font>
+menu_16809_1=<font face="Default" color="#ffffff" >如今我欲再度去势，还请公公相助。</font>
+next_16807=将野马交给<a href="findnpc_new,city02,mounttrain_city02_1" style="HLStype1">罗贤</a>
+next_16808=将野马交给<a href="findnpc_new,city02,mounttrain_city02_1" style="HLStype1">罗贤</a>
+submit_16801=<font face="Default" color="#ffffff" >......第一次......每个月......</font><font face="Default" color="#ffffff" >（完成任务）</font>
+submit_16807=<font face="Default" color="#ffffff" >完成任务</font>
+submit_16808=<font face="Default" color="#ffffff" >完成任务</font>
+target_16801=与<a href="findnpc_new,city03,funnpcskill001005" style="HLStype1">小甸子</a>对话
+target_16802=按照提示完成任务。
+target_16803=最快的速度跑到目标处完成任务
+target_16804=拿到收据
+target_16805=完成训练任务
+target_16807=用陷阱捕捉一匹脱缰的野马
+target_16808=用套马索捕捉一匹脱缰的野马
+target_16809=再次去势
+title_16801=去势之后
+title_16802=坐骑训练
+title_16803=跑马训练（一）
+title_16804=坐骑训练（二）
+title_16805=坐骑训练（三）
+title_16807=捕捉野马（一）
+title_16808=捕捉野马（二）
+title_16809=再断尘缘

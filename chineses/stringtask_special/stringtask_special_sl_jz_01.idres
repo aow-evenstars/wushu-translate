@@ -1,0 +1,87 @@
+﻿
+DialogID_51600=  最近真穷疯了，极乐谷弟子坏了我好几单买卖，去帮我把极乐谷的那些人收拾了。
+DialogID_51601=<font face="Default" color="#ffffff" >  送信的极乐谷弟子在极乐谷弟子间传递消息！看他们频繁的跑路，一定有什么阴谋发生！杀了他们，让这次的阴谋落空！</font><font face="Default" color="#ffffff" > </font>
+DialogID_51602=<font face="Default" color="#ffffff" >  饥饿难耐啊！少侠，可否帮我到林中采集些水果来充饥？那里的树太高了……多谢多谢！</font>
+DialogID_51603=<s>多谢少侠，那日，我在打探消息，极乐谷的人发暗器伤我！去教训鬼祟极乐谷头目，以报我心头之恨！
+DialogID_51604=<s>呜……呜……那群流氓，真不要脸！我父亲是渔夫，我常常需要送些东西给他！但是一群流氓常常调戏过路女子！呜……呜……
+DialogID_51605=<s>哎！少侠，倭寇经常无缘无故殴打村民，我们的日子实在是不好过！少侠你可否替我们讨个公道？
+DialogID_51606=<s>你的……嗯！我的……嗯！我是好人！他们！是坏人！揍他们！
+DialogID_51607=<s>燕窝是非常有珍贵的补品！但是，大量采集的话会使海燕减少，这样下去就是恶性循环！少侠，阻止这帮贼！
+DialogID_51608=<s>有倭寇海盗常欺负渔民，不能让这群畜生活在这世上！干掉他们！别忘记他们的头目！
+DialogID_51609=<s>聋骨滩倭寇占着小岛，倭寇的势力越来越大，在这带胡作非为，不能放任他们，少侠，交给你了！
+DialogID_51610=<s>这些倭寇，不揍他们难消我心头之恨！少侠，靠你了！
+DialogID_51611=<font face="Default" color="#ffffff" >  嗯，少侠，我家柴火不多了，但是我又怕……能帮我收集些木头给爹爹送去？</font>
+DialogID_51612=<s>已经教训过他们了，这就好，看他们以后还敢不敢！告诉吴老三，让他不要担心！
+DialogID_51613=<s>伐木船夫跟倭寇头目暗中勾结，杀死伐木船夫和倭寇头目，保护我们的百姓！
+DialogID_51614=　　倭寇海盗把我打伤了，哼！不能放过他们！
+DialogID_51615=<s>哎，那日的暗器有毒，我现在又不能乱动，怕乱了真气那就走火入魔了！少侠帮我采些草药疗伤吧！
+DialogID_51616=<font face="Default" color="#ffffff" >  哎，最近渔网都被他们收去了，连鱼都没的打！少侠可以帮我采点蘑菇来充充饥吗？</font>
+collectinfo_51600=收集<a href="findnpc_new,school03,Gather0013pc" style="HLStype1">果子</a>
+collectinfo_51601=收集<a href="findnpc_new,school03,Gather0014pc" style="HLStype1">比丘草</a>
+collectinfo_51602=收集<a href="findnpc_new,school03,Gather0015pc" style="HLStype1">蘑菇</a>
+collectinfo_51603=从<a href="findnpc_new,school03,monm030600" style="HLStype1">燕窝盗贼</a>收集燕窝
+collectinfo_51604=从<a href="findnpc_new,school03,monm030400" style="HLStype1">通敌渔夫</a>身上收集木头
+collectinfo_51605=从<a href="findnpc_new,school03,monm030200" style="HLStype1">鬼祟的极乐谷弟子</a>身上找到信件
+hunterinfo_51600=击败<a href="findnpc_new,school03,monm030100" style="HLStype1">胆小强盗</a>
+hunterinfo_51601=击败<a href="findnpc_new,school03,monm030200" style="HLStype1">鬼祟的极乐谷弟子</a>
+hunterinfo_51602=击败<a href="findnpc_new,school03,monm030201" style="HLStype1">送信的极乐谷弟子</a>
+hunterinfo_51603=击败<a href="findnpc_new,school03,monm030202" style="HLStype1">极乐谷信使护卫</a>
+hunterinfo_51604=击败<a href="findnpc_new,school03,monm030101" style="HLStype1">落魄书生</a>
+hunterinfo_51605=击败<a href="findnpc_new,school03,monm030203" style="HLStype1">鬼祟的极乐谷头目</a>
+hunterinfo_51606=击败<a href="findnpc_new,school03,monm030401" style="HLStype1">贪财渔夫</a>
+hunterinfo_51607=击败<a href="findnpc_new,school03,monm030400" style="HLStype1">通敌渔夫</a>
+hunterinfo_51608=击败<a href="findnpc_new,school03,monm030300" style="HLStype1">猥琐男子</a>
+hunterinfo_51609=击败<a href="findnpc_new,school03,monm030400" style="HLStype1">通敌渔夫</a>
+hunterinfo_51610=击败<a href="findnpc_new,school03,monm030500" style="HLStype1">聋骨滩倭寇</a>
+hunterinfo_51611=击败<a href="findnpc_new,school03,monm030501" style="HLStype1">聋骨滩倭寇力士</a>
+hunterinfo_51612=击败<a href="findnpc_new,school03,monm030503" style="HLStype1">倭寇头目</a>
+hunterinfo_51613=击败<a href="findnpc_new,school03,monm030502" style="HLStype1">倭寇武士</a>
+hunterinfo_51614=击败<a href="findnpc_new,school03,monm030600" style="HLStype1">燕窝盗贼</a>
+hunterinfo_51615=击败<a href="findnpc_new,school03,monm030601" style="HLStype1">伐木船夫</a>
+hunterinfo_51616=击败<a href="findnpc_new,school03,monm030700" style="HLStype1">倭寇海盗</a>
+hunterinfo_51617=击败<a href="findnpc_new,school03,monm030701" style="HLStype1">倭寇海盗头目</a>
+hunterinfo_51618=击败<a href="findnpc_new,school03,monm030700" style="HLStype1">倭寇海盗</a>
+hunterinfo_51619=击败<a href="findnpc_new,school03,monm030701" style="HLStype1">倭寇海盗头目</a>
+hunterinfo_51620=击败<a href="findnpc_new,school03,monm030500" style="HLStype1">聋骨滩倭寇</a>
+hunterinfo_51621=击败<a href="findnpc_new,school03,monm030501" style="HLStype1">聋骨滩倭寇力士</a>
+hunterinfo_51622=击败<a href="findnpc_new,school03,monm030401" style="HLStype1">贪财渔夫</a>
+hunterinfo_51623=击败<a href="findnpc_new,school03,monm030701" style="HLStype1">倭寇海盗头目</a>
+hunterinfo_51624=击败<a href="findnpc_new,school03,monm030400" style="HLStype1">通敌渔夫</a>
+hunterinfo_51625=击败<a href="findnpc_new,school03,monm030503" style="HLStype1">倭寇头目</a>
+hunterinfo_51626=击败<a href="findnpc_new,school03,monm030700" style="HLStype1">倭寇海盗</a>
+hunterinfo_51627=击败<a href="findnpc_new,school03,monm030701" style="HLStype1">倭寇海盗头目</a>
+hunterinfo_51628=击败<a href="findnpc_new,school03,monm030203" style="HLStype1">鬼祟的极乐谷头目</a>
+interactinfo_51600=与<a href="findnpc_new,school03,WorldNpc03446" style="HLStype1">李全</a>交谈
+interactinfo_51601=与<a href="findnpc_new,school03,WorldNpc03392" style="HLStype1">韩芷心</a>交谈
+interactinfo_51602=与<a href="findnpc_new,school03,WorldNpc03443" style="HLStype1">岳轻城</a>交谈
+interactinfo_51603=与<a href="findnpc_new,school03,WorldNpc03456" style="HLStype1">曹佳斌</a>交谈
+interactinfo_51604=与<a href="findnpc_new,school03,WorldNpc03459" style="HLStype1">吴小洺</a>交谈
+interactinfo_51605=与<a href="findnpc_new,school03,WorldNpc03457" style="HLStype1">吴老三</a>交谈
+interactinfo_51606=与<a href="findnpc_new,school03,WorldNpc03460" style="HLStype1">廖青山</a>交谈
+interactinfo_51607=与<a href="findnpc_new,school03,WorldNpc03461" style="HLStype1">金柳程</a>交谈
+interactinfo_51608=与<a href="findnpc_new,school03,WorldNpc03461" style="HLStype1">金柳程</a>交谈
+interactinfo_51609=与<a href="findnpc_new,school03,WorldNpc03462" style="HLStype1">程首盛</a>交谈
+interactinfo_51610=与<a href="findnpc_new,school03,WorldNpc03463" style="HLStype1">柳如烟</a>交谈
+interactinfo_51611=与<a href="findnpc_new,school03,WorldNpc03459" style="HLStype1">吴小洺</a>交谈
+interactinfo_51612=与<a href="findnpc_new,school03,WorldNpc03463" style="HLStype1">柳如烟</a>交谈
+interactinfo_51613=与<a href="findnpc_new,school03,WorldNpc03463" style="HLStype1">柳如烟</a>交谈
+interactinfo_51614=与<a href="findnpc_new,school03,WorldNpc03313" style="HLStype1">夏烟湖</a>交谈
+interactinfo_51615=与<a href="findnpc_new,school03,WorldNpc03456" style="HLStype1">曹佳斌</a>交谈
+interactinfo_51616=与<a href="findnpc_new,school03,WorldNpc03457" style="HLStype1">吴老三</a>交谈
+okmenu_51600=好吧……
+okmenu_51601=好的，我这就去！
+okmenu_51602=好吧……
+okmenu_51603=好的，我这就去
+okmenu_51604=别哭！我去教训他们
+okmenu_51605=好的，我这就去
+okmenu_51606=好……吧……
+okmenu_51607=好的！
+okmenu_51608=好的，我这就去！
+okmenu_51609=好的！
+okmenu_51610=好吧……
+okmenu_51611=好吧……
+okmenu_51612=好的
+okmenu_51613=好！
+okmenu_51614=我帮你！
+okmenu_51615=好的！
+okmenu_51616=好的，我这就去

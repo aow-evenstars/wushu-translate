@@ -1,0 +1,977 @@
+﻿
+DialogID_12800=<font face="Default" color="#ffffff" >有一伙水贼就在村外，正伺机来洗劫村子。</font>
+DialogID_12801=<font face="Default" color="#ffffff" >你是谁我不认识你，莫非你也是来求我施舍的</font><font face="Default" color="#ffffff" >？</font><font face="Default" color="#ffffff" >去去去……</font>
+DialogID_12802=<font face="Default" color="#ffffff" >你来的正好！方才我路过张碧云那儿，看见那小子闷闷不乐的，我这儿有点好酒，你带过去陪他喝两口。</font>
+DialogID_12803=<font face="Default" color="#ffffff" >谢谢少侠。</font>
+DialogID_12804=<font face="Default" color="#ffffff" >谢谢少侠。</font>
+DialogID_12805=<font face="Default" color="#ffffff" >谢谢少侠。</font>
+DialogID_12807=<font face="Default" color="#ffffff" >你问我道的真意么？道之意，因人而异，在我看来，便是前行之路，必须心无所惧，至爱至诚</font><font face="Default" color="#ffffff" >。</font>
+DialogID_12808=<font face="Default" color="#ffffff" >昨儿买的酒又喝完了，真是不尽兴！要是有一瓶“上好的女儿红”就再好不过了！</font><font face="Default" color="#0000ff" >（苏州酒楼处可购买）</font>
+DialogID_12809=<font face="Default" color="#ffffff" >昨儿买的酒又喝完了，真是不尽兴！要是有一瓶“富水春”就再好不过了！</font><font face="Default" color="#0000ff" >（各主城酒楼、客栈处可购买）</font>
+DialogID_12810=<font face="Default" color="#ffffff" >昨儿买的酒又喝完了，真是不尽兴！要是有一瓶“米酒”就再好不过了！</font><font face="Default" color="#0000ff" >（各主城酒楼、客栈处可购买）</font>
+DialogID_12811=<font face="Default" color="#ffffff" >我的酒不见了，我的酒不见了！可恶，一定又是那些顽皮的猴子所为。</font>
+DialogID_12812=<font face="Default" color="#ffffff" >这些日子忙于琐事，照顾花的事倒是疏忽了，你能给我的花浇浇水吗?</font>
+DialogID_12813=<font face="Default" color="#ffffff" >这些日子忙于琐事，照顾花的事倒是疏忽了，你能给我的花</font><font face="Default" color="#ffffff" >锄</font><font face="Default" color="#ffffff" >下草吗?</font>
+DialogID_12814=<font face="Default" color="#ffffff" >今年的花开的比往年更加动人，灵枢那丫头还没有看过呢，我采了一些你去送给灵枢。</font>
+DialogID_12815=<font face="Default" color="#ffffff" >往事不可追……</font>
+DialogID_12816=<font face="Default" color="#ffffff" >最近研制一种新药，对调养内息有不错的效果，只是这材料已经不够了，你若是有空，帮我采一些苦情花回来。</font>
+DialogID_12817=<font face="Default" color="#ffffff" >我平时最爱练习拳脚，整天对着木桩实在太无聊了！我看你不错，来切磋一下吧。</font>
+DialogID_12818=<font face="Default" color="#ffffff" >最近岛上有一些鹿兴许受了惊吓，显得很狂躁，甚至冲撞了路人，你去除掉一些，好让第一轩早日安宁。</font>
+DialogID_12819=<font face="Default" color="#ffffff" >恩恩…啊…啊（哑仆画了个手势，指了指附近又指了放在一边的扫帚）</font>
+DialogID_12820=<font face="Default" color="#ffffff" >恩恩…啊…啊（哑仆画了个手势，指了指附近又指了指手边的木雕）</font>
+DialogID_12821=<font face="Default" color="#ffffff" >恩恩…啊…啊（哑仆画了个手势，指了指手中的饭菜和远方的某个地方）</font>
+DialogID_12822=<font face="Default" color="#ffffff" >恩恩…啊…啊（哑仆画了个手势，指了指手中剩余不多的桃花酿）</font>
+DialogID_12823=<font face="Default" color="#ffffff" >恩恩…啊…啊（哑仆画了个手势，指了指</font><font face="Default" color="#ffffff" >包的好好的桃花酿</font><font face="Default" color="#ffffff" >）</font>
+DialogID_12824=<font face="Default" color="#ffffff" >黄老古怪让你来看我的么？我呆的好着呢，只是有点想吃灵枢那丫头做的烤鸭，你</font><font face="Default" color="#ffffff" >如果帮我我可以教你一门很厉害的神功哦。</font>
+DialogID_12825=<font face="Default" color="#ffffff" >什么，</font><font face="Default" color="#ffffff" >岑九</font><font face="Default" color="#ffffff" >又要吃烤鸭,昨天不是刚给他送过么？也罢也罢，这还有一些，你且拿去给他吧。</font>
+DialogID_12826=<font face="Default" color="#ffffff" >你完成的很好，这个信物就交给你了！</font>
+DialogID_12827=<font face="Default" color="#ffffff" >你很合我的心意，这个信物就交给你吧</font>
+DialogID_12829=<font face="Default" color="#ffffff" >你很符合我的心意，这个信物就交给你吧！</font>
+DialogID_12830=<font face="Default" color="#ffffff" >不错不错，你很符合我的心意，这个信物就交给你吧！</font>
+DialogID_12831=<font face="Default" color="#ffffff" >不错不错，你很符合我的心意，这个信物就交给你了！</font>
+DialogID_12832=<font face="Default" color="#ffffff" >岛主隐世多年，怎会随意收徒？再说岛上有这桃花阵，你是很难闯过去的。</font><font face="Default" color="#ffffff" >劝</font><font face="Default" color="#ffffff" >你</font><font face="Default" color="#ffffff" >还是</font><font face="Default" color="#ffffff" >在岛外游览一番美景，随后还是速速离去为好。</font>
+DialogID_12842=<font face="Default" color="#ffffff" >这支箫是我以前所用，你</font><font face="Default" color="#ffffff" >带</font><font face="Default" color="#ffffff" >着它去找黄岛主，想必他会收你入门。</font>
+DialogID_12843=<font face="Default" color="#ffffff" >言语就像风，</font><font face="Default" color="#ffffff" >你可有什么证明？</font>
+DialogID_12850=<font face="Default" color="#ffffff" >    此竹箫是你师母程瑜昔年所用之物，其亲妹妹程媛极爱音律，</font><font face="Default" color="#ffffff" >且正在四月岛上，</font><font face="Default" color="#ffffff" >老夫还有要事，希望你能代我送去。</font>
+DialogID_12851=<font face="Default" color="#ffffff" >    这</font><font face="Default" color="#ffffff" >是</font><font face="Default" color="#ffffff" >姐姐的</font><font face="Default" color="#ffffff" >竹箫</font><font face="Default" color="#ffffff" >，是姐夫让你送来的么？唉，想必是姐夫又想念姐姐了，她留给我们的不过寥寥几样物事，至今却行踪不明……</font>
+DialogID_12852=<font face="Default" color="#ffffff" >    呵呵，你脸色怎么这么不好，难道生师姐气了？开个玩笑而已嘛，你功夫底子还不错，不过你不要以为自己很厉害，你师姐我</font><font face="Default" color="#ffffff" >压根</font><font face="Default" color="#ffffff" >就没使出真功夫呢！</font>
+DialogID_12853=<font face="Default" color="#ffffff" >    这些又聋又哑的仆人过去的确都是奸恶之徒，只有阿祥除外。阿祥原本在沿海小村生活，某一天村民们被恶人下药后屠杀抢掠，阿祥虽被爹爹所救，但还是被毒哑了</font><font face="Default" color="#ffffff" >，不过他耳朵并没有聋</font><font face="Default" color="#ffffff" >。</font>
+DialogID_12854=<font face="Default" color="#ffffff" >    好啊，居然来了个会说话的，刚才臭黄老儿的话八成都被你听去了，若传到他耳朵里岂不是要加倍折磨俺！</font>
+DialogID_12855=<font face="Default" color="#ffffff" >    干的不错，像这样调配下就好了……嗯，你拿好药剂给她送过去，就说是我专门给她做的糖水，她一定会高兴</font><font face="Default" color="#ffffff" >得很</font><font face="Default" color="#ffffff" >。</font>
+DialogID_12857=<font face="Default" color="#ffffff" >    那个……我采了好多漂亮的花，你帮我送给阿祥哥哥好不好？</font>
+DialogID_12858=<font face="Default" color="#ffffff" >    </font><font face="Default" color="#8fd6ef" >（阿祥看到好看的花草，眼中的温暖一闪即逝，脸上又恢复了僵硬和冷漠……）</font>
+DialogID_12859=<font face="Default" color="#ffffff" >    </font><font face="Default" color="#ffffff" >哎，那些陈年往事，你就不要过问了……如今四月岛正逢雨季，你能否帮忙把这御寒的衣服和蓑衣斗笠交给她？</font>
+DialogID_12860=<font face="Default" color="#ffffff" >    哼，你还来做什么？</font><font face="Default" color="#ffffff" >还想和我打一场么？</font>
+DialogID_12861=<font face="Default" color="#ffffff" >    和你说了这么多，不能再耽搁你了，</font><font face="Default" color="#ffffff" >还</font><font face="Default" color="#ffffff" >请你把这把</font><font face="Default" color="#ffffff" >木制的匕首交给雷哥。</font>
+DialogID_12862=<font face="Default" color="#ffffff" >    这……这是我当年送给她的定情信物，想不到她留在身边这么久。</font>
+DialogID_12865=<font face="Default" color="#ffffff" >你的来意我已经了解，你回去就说，我接受你们的善意。</font>
+DialogID_12866=<font face="Default" color="#ffffff" >你的来意我已经了解，你回去就说，我接受你们的善意。</font>
+DialogID_12867=<font face="Default" color="#ffffff" >你的来意我已经了解，你回去就说，我接受你们的善意。</font>
+DialogID_12868=<font face="Default" color="#ffffff" >你的来意我已经了解，你回去就说，我接受你们的善意。</font>
+DialogID_12869=<font face="Default" color="#ffffff" >你的来意我已经了解，你回去就说，我接受你们的善意。</font>
+DialogID_12870=<font face="Default" color="#ffffff" >你的来意我已经了解，你回去就说，我接受你们的善意。</font>
+DialogID_12871=<font face="Default" color="#ffffff" >你的来意我已经了解，你回去就说，我接受你们的善意。</font>
+DialogID_12872=<font face="Default" color="#ffffff" >你的来意我已经了解，你回去就说，我接受你们的善意。</font>
+DialogID_12873=<font face="Default" color="#ffffff" >什么事？</font>
+DialogID_12874=<font face="Default" color="#ffffff" >什么事？</font>
+DialogID_12875=<font face="Default" color="#ffffff" >爹地让你来看我的么？让他放心吧，我最近又研制了几道美食，过几天让他尝尝！</font>
+DialogID_12876=<font face="Default" color="#ffffff" >    </font><font face="Default" color="#ffffff" >都怪我们一时大意，才身处险地，你师姐与我又被吴滔天这恶人击伤……</font>
+DialogID_12877=<font face="Default" color="#ffffff" >不料这么多年过去了，</font><font face="Default" color="#ffffff" >老朽</font><font face="Default" color="#ffffff" >居然又见到了这琴谱……</font>
+DialogID_12878=
+DialogID_12879=<font face="Default" color="#ffffff" >没想到</font><font face="Default" color="#ffffff" >我段海清</font><font face="Default" color="#ffffff" >居然</font><font face="Default" color="#ffffff" >会</font><font face="Default" color="#ffffff" >栽在你的手里。</font>
+DialogID_12880=<font face="Default" color="#ffffff" >    黄古箫那老儿真是不识好歹，整天惦记着女人惹来满心愁闷，哪比得上俺醉心武学逍遥自在，女人好不容易走了，却把气生在俺身上！哼……咦，今天送饭的怎么换人了？</font>
+DialogID_12882=<font face="Default" color="#ffffff" >    这恶贼……咳咳……居然偷袭我……</font><font face="Default" color="#ffffff" >我定饶不了他……</font>
+DialogID_12883=<font face="Default" color="#ffffff" >等你拿</font><font face="Default" color="#ffffff" >到</font><font face="Default" color="#ffffff" >指定的信物再来吧！</font>
+DialogID_12884=<font face="Default" color="#ffffff" >等你拿到指定的信物再来吧！</font>
+DialogID_12885=<font face="Default" color="#ffffff" >等你拿到指定的信物再来吧！</font>
+DialogID_12886=<font face="Default" color="#ffffff" >等你拿到指定的信物再来吧！</font>
+DialogID_12887=<font face="Default" color="#ffffff" >等你拿到指定的信物再来吧！</font>
+DialogID_12888=<font face="Default" color="#ffffff" >琴谱找到了吗？</font>
+DialogID_12889=<font face="Default" color="#ffffff" >琴谱找到了吗？</font>
+DialogID_12890=<font face="Default" color="#ffffff" >琴谱找到了吗？</font>
+DialogID_12891=<font face="Default" color="#ffffff" >你拿到</font><font face="Default" color="#ffffff" >《天心药录》</font><font face="Default" color="#ffffff" >了吗？</font>
+DialogID_12892=<font face="Default" color="#ffffff" >你拿到</font><font face="Default" color="#ffffff" >十香暖药散</font><font face="Default" color="#ffffff" >了吗？</font>
+DialogID_12893=<font face="Default" color="#ffffff" >你拿到</font><font face="Default" color="#ffffff" >《横心肃杀第一篇》</font><font face="Default" color="#ffffff" >了吗</font><font face="Default" color="#ffffff" >？</font>
+DialogID_12894=<font face="Default" color="#ffffff" >你拿到</font><font face="Default" color="#ffffff" >《千里追魂第一篇》</font><font face="Default" color="#ffffff" >了</font><font face="Default" color="#ffffff" >吗？</font>
+DialogID_12896=<font face="Default" color="#ffffff" >这是什么？</font>
+DialogID_12897=<font face="Default" color="#ffffff" >回去告诉师父吧，我这都好好的呢，侍弄花草倒也惬意。</font>
+DialogID_12898=<font face="Default" color="#ffffff" >好酒！你要不要来和我一起喝！</font>
+DialogID_12899=<font face="Default" color="#ffffff" >师父叫你来看看我？哈哈，好着呢，最近劈空掌练的越发纯熟了，我看你不错，基础再厚实点，日后便把这招传授于你！</font>
+DialogID_12900=<font face="Default" color="#ffffff" >观今夜天象，知天下大事，这天空真是妙不可言啊……</font>
+DialogID_12904=<font face="Default" color="#ffffff" >首先，师弟需要上交50个桃花令。</font>
+DialogID_12905=<font face="Default" color="#ffffff" >首先，师弟需要上交30个桃花令。</font>
+DialogID_12906=<font face="Default" color="#ffffff" >首先，师弟需要上交10个桃花令。</font>
+DialogID_12907=<font face="Default" color="#ffffff" >首先，师弟需要上交80个桃花令。</font>
+DialogID_12908=<font face="Default" color="#ffffff" >首先，师弟需要上交50个桃花令。</font>
+DialogID_12909=<font face="Default" color="#ffffff" >首先，师弟需要上交20个桃花令。</font>
+DialogID_12910=<font face="Default" color="#ffffff" >首先，师弟需要上交100个桃花令。</font>
+DialogID_12911=<font face="Default" color="#ffffff" >首先，师弟需要上交70个桃花令。</font>
+DialogID_12912=<font face="Default" color="#ffffff" >首先，师弟需要上交30个桃花令。</font>
+DialogID_12913=
+QiecuoMenu_12804=<font face="Default" color="#ffffff" >那就请多多指教！</font>
+QiecuoMenu_12806=<font face="Default" color="#ffffff" >准备好了，尽管来吧！</font>
+QiecuoMenu_12807=<font face="Default" color="#ffffff" >你这个骗子，还不赶快束手就擒。</font>
+QiecuoMenu_12816=<font face="Default" color="#ffffff" >请大师姐指教！</font>
+QiecuoMenu_12820=<font face="Default" color="#ffffff" >望前辈手下留情。</font>
+QiecuoMenu_12821=<font face="Default" color="#ffffff" >望师兄手下留情</font><font face="Default" color="#ffffff" >！</font>
+QiecuoMenu_12823=<font face="Default" color="#ffffff" >师兄放心。</font>
+QiecuoMenu_12824=<font face="Default" color="#ffffff" >望师姐手下留情！</font>
+QiecuoMenu_12844=<font face="Default" color="#ffffff" >接招吧</font>
+QiecuoMenu_12845=<font face="Default" color="#ffffff" >接招吧</font>
+QiecuoMenu_12846=<font face="Default" color="#ffffff" >接招吧</font>
+QiecuoMenu_12847=<font face="Default" color="#ffffff" >接招吧</font>
+QiecuoMenu_12848=<font face="Default" color="#ffffff" >接招吧</font>
+QiecuoMenu_12849=<font face="Default" color="#ffffff" >接招吧</font>
+QiecuoMenu_12850=<font face="Default" color="#ffffff" >接招吧</font>
+QiecuoMenu_12851=<font face="Default" color="#ffffff" >接招吧</font>
+QiecuoMenu_12858=<font face="Default" color="#ffffff" >你这个骗子，还不束手就擒？</font>
+QiecuoMenu_12859=<font face="Default" color="#ffffff" >师姐手下留情，是我……</font>
+QiecuoMenu_12864=<font face="Default" color="#ffffff" >还请师兄手下留情。</font>
+QiecuoMenu_12865=<font face="Default" color="#ffffff" >还请师兄手下留情。</font>
+QiecuoMenu_12866=<font face="Default" color="#ffffff" >还请师兄手下留情。</font>
+QiecuoMenu_12867=<font face="Default" color="#ffffff" >还请</font><font face="Default" color="#ffffff" >师兄</font><font face="Default" color="#ffffff" >手下留情。</font>
+QiecuoMenu_12868=<font face="Default" color="#ffffff" >还请</font><font face="Default" color="#ffffff" >师兄</font><font face="Default" color="#ffffff" >手下留情。</font>
+QiecuoMenu_12869=<font face="Default" color="#ffffff" >还请</font><font face="Default" color="#ffffff" >师兄</font><font face="Default" color="#ffffff" >手下留情。</font>
+QiecuoMenu_12870=<font face="Default" color="#ffffff" >还请</font><font face="Default" color="#ffffff" >师姐</font><font face="Default" color="#ffffff" >手下留情。</font>
+QiecuoMenu_12871=<font face="Default" color="#ffffff" >还请</font><font face="Default" color="#ffffff" >师姐</font><font face="Default" color="#ffffff" >手下留情。</font>
+QiecuoMenu_12872=<font face="Default" color="#ffffff" >还请</font><font face="Default" color="#ffffff" >师姐</font><font face="Default" color="#ffffff" >手下留情。</font>
+QiecuoTitle_12804=<font face="Default" color="#ffffff" >哈哈哈，小家伙放心吧，我会点到为止的。</font>
+QiecuoTitle_12806=<font face="Default" color="#ffffff" >来与我切磋一番！准备好了么？</font>
+QiecuoTitle_12807=<font face="Default" color="#ffffff" >嘿嘿，我们手底见真章。</font>
+QiecuoTitle_12816=<font face="Default" color="#ffffff" >如果你准备好了，那我们就开始吧</font><font face="Default" color="#ffffff" >！</font>
+QiecuoTitle_12820=<font face="Default" color="#ffffff" >    唔……这东西味道不错……我好吃的还没吃够呢，哪能那么快教她。吃饱了顿觉手痒，不如</font><font face="Default" color="#ffffff" >就</font><font face="Default" color="#ffffff" >和你练练吧！</font>
+QiecuoTitle_12821=<font face="Default" color="#ffffff" >    武学还是要手脚上见真章，废话不必多说，使出全力向我进攻吧！放心，我会控制力道，必不会伤你。</font>
+QiecuoTitle_12823=<font face="Default" color="#ffffff" >    </font><font face="Default" color="#ffffff" >既然有机会，我们便切磋下武艺吧，</font><font face="Default" color="#ffffff" >拳脚无眼，你可要小心了！</font>
+QiecuoTitle_12824=<font face="Default" color="#ffffff" >    全力向我进攻吧，让我看看你的实力！</font>
+QiecuoTitle_12844=<font face="Default" color="#ffffff" >出手吧</font>
+QiecuoTitle_12845=<font face="Default" color="#ffffff" >出手吧</font>
+QiecuoTitle_12846=<font face="Default" color="#ffffff" >出手吧</font>
+QiecuoTitle_12847=<font face="Default" color="#ffffff" >出手吧</font>
+QiecuoTitle_12848=<font face="Default" color="#ffffff" >出手吧</font>
+QiecuoTitle_12849=<font face="Default" color="#ffffff" >出手吧</font>
+QiecuoTitle_12850=<font face="Default" color="#ffffff" >出手吧</font>
+QiecuoTitle_12851=<font face="Default" color="#ffffff" >出手吧</font>
+QiecuoTitle_12858=<font face="Default" color="#ffffff" >嘿，</font><font face="Default" color="#ffffff" >虽然你救了我，但现下却由不得我对你手狠了</font><font face="Default" color="#ffffff" >！</font>
+QiecuoTitle_12859=<font face="Default" color="#ffffff" >     哪里来的小贼，吃我一招！</font>
+QiecuoTitle_12864=<font face="Default" color="#ffffff" >在接下来的比试中，我将使出三成功力，师弟小心，我们点到为止。</font>
+QiecuoTitle_12865=<font face="Default" color="#ffffff" >在接下来的比试中，我将使出七成功力，师弟小心，我们点到为止。</font>
+QiecuoTitle_12866=<font face="Default" color="#ffffff" >在接下来的比试中，我将使出十成功力，师弟小心，我们点到为止。</font>
+QiecuoTitle_12867=<font face="Default" color="#ffffff" >在接下来的比试中，我将使出三成功力，师弟小心，我们点到为止。</font>
+QiecuoTitle_12868=<font face="Default" color="#ffffff" >在接下来的比试中，我将使出七成功力，师弟小心，我们点到为止。</font>
+QiecuoTitle_12869=<font face="Default" color="#ffffff" >在接下来的比试中，我将使出十成功力，师弟小心，我们点到为止。</font>
+QiecuoTitle_12870=<font face="Default" color="#ffffff" >在接下来的比试中，我将使出三成功力，师弟小心，我们点到为止。</font>
+QiecuoTitle_12871=<font face="Default" color="#ffffff" >在接下来的比试中，我将使出七成功力，师弟小心，我们点到为止。</font>
+QiecuoTitle_12872=<font face="Default" color="#ffffff" >在接下来的比试中，我将使出十成功力，师弟小心，我们点到为止。</font>
+SubmitNpcEx_39601=再向戏班老板<a href="findnpc_new,city02,thd_018" style="HLStype1">姚成</a>打听四月岛的事
+SubmitNpcEx_39602=去找苏州郊外碧螺村的村长<a href="findnpc_new,city02,thd_010" style="HLStype1">马霍霍</a>
+SubmitNpcEx_39603=去找苏州郊外碧螺村的村长<a href="findnpc_new,city02,thd_010" style="HLStype1">马霍霍</a>
+SubmitNpcEx_39604=这几个喽啰不堪一击，难道水贼主力已前往碧螺村？快回去找<a href="findnpc_new,city02,thd_011" style="HLStype1">马霍霍</a>
+SubmitNpcEx_39605=打退了水贼劫匪，快去见<a href="findnpc_new,city02,thd_011" style="HLStype1">马霍霍</a>
+SubmitNpcEx_39606=击败了水贼头目，与<a href="findnpc_new,city02,thd_011" style="HLStype1">马霍霍</a>交谈
+SubmitNpcEx_39607=去碧螺村附近码头找船夫<a href="findnpc_new,city02,Transcity02P" style="HLStype1">张三</a>
+SubmitNpcEx_39608=采到珍珠了，带去给碧螺村码头的<a href="findnpc_new,city02,Transcity02P" style="HLStype1">张三</a>
+SubmitNpcEx_39609=去苏州城与<a href="findnpc_new,city02,thd_014" style="HLStype1">张三</a>会合
+SubmitNpcEx_39610=<a href="findnpc_new,city02,Transcity02P" style="HLStype1">张三</a>应已得手，回到碧螺渡的码头去见他
+SubmitNpcEx_39611=终于将吩咐的事做完，回去询问<a href="findnpc_new,city02,Transcity02P" style="HLStype1">张三</a>如何去四月岛
+SubmitNpcEx_39612=与碧螺渡的张三对话，可坐船前往四月岛，到达后请向四月岛弟子<a href="findnpc_new,school10,thd_036" style="HLStype1">云书</a>说明来意
+SubmitNpcEx_39613=去找<a href="findnpc_new,school10,thd_001" style="HLStype1">黄古箫</a>岛主商谈(提交任务请先卸除宝物，否则可能退出势力失败)
+SubmitNpcEx_39614=去找<a href="findnpc_new,school10,thd_001" style="HLStype1">黄古箫</a>岛主商谈(提交任务请先卸除宝物，否则可能退出势力失败)
+SubmitNpcEx_39683=将梁霄的信送给<a href="findnpc_new,school10,thd_rc_008" style="HLStype1">周二通</a>
+SubmitNpcEx_39701=闯过桃花阵，并找到<a href="findnpc_new,school10,thd_002" style="HLStype1">黄灵枢</a>
+SubmitNpcEx_39702=与<a href="findnpc_new,school10,thd_002" style="HLStype1">黄灵枢</a>对话
+SubmitNpcEx_39703=将收集好的食材交给黄灵枢
+SubmitNpcEx_39705=将收集到的曲谱交给<a href="findnpc_new,school10,thd_017" style="HLStype1">程媛</a>吧
+SubmitNpcEx_39707=回复<a href="findnpc_new,school10,thd_004" style="HLStype1">桃儿</a>
+SubmitNpcEx_39709=花朵已经护理好，去回复<a href="findnpc_new,school10,thd_003" style="HLStype1">李涵秋</a>吧！
+SubmitNpcEx_39710=将收集好的花露送给金无箴
+SubmitNpcEx_39711=将收集到的物品送去给<a href="findnpc_new,school10,thd_007" style="HLStype1">金无箴</a>吧
+SubmitNpcEx_39713=将收集到的秘籍交给<a href="findnpc_new,school10,thd_009" style="HLStype1">秦玄雷</a>吧
+SubmitNpcEx_39714=终于成功闯过桃花阵了，去告诉<a href="findnpc_new,school10,thd_002" style="HLStype1">黄灵枢</a>这个好消息
+SubmitNpcEx_39715=找到第一轩岛主<a href="findnpc_new,school10,thd_001" style="HLStype1">黄古箫</a>
+SubmitNpcEx_39716=与<a href="findnpc_new,school10,thd_001" style="HLStype1">黄古箫</a>对话
+SubmitNpcEx_39717=已通过第一轩入门资格认证，接下来还需与<a href="findnpc_new,school10,thd_019" style="HLStype1">垂钓翁</a>谈一谈
+SubmitNpcEx_39718=与<a href="findnpc_new,school10,thd_037" style="HLStype1">云锦（资质审核官）</a>对话
+SubmitNpcEx_39719=与<a href="findnpc_new,school10,thd_001" style="HLStype1">黄古箫</a>继续交谈
+SubmitNpcEx_39720=与<a href="findnpc_new,school10,thd_002" style="HLStype1">黄灵枢</a>对话
+SubmitNpcEx_39721=闯过桃花阵回第一轩去将信物交给<a href="findnpc_new,school10,thd_002" style="HLStype1">黄灵枢</a>吧
+SubmitNpcEx_39722=将收集好的花露送给<a href="findnpc_new,school10,thd_002" style="HLStype1">黄灵枢</a>
+SubmitNpcEx_39723=已经拿到令牌了，快去面见<a href="findnpc_new,school10,thd_001" style="HLStype1">黄古箫</a>吧。
+SubmitNpcEx_39724=与<a href="findnpc_new,school10,thd_037" style="HLStype1">云锦（资质审核官）</a>对话
+SubmitNpcEx_39741=喂<a href="findnpc_new,school10,thd_040" style="HLStype1">段海清</a>服药
+SubmitNpcEx_39742=盘问<a href="findnpc_new,school10,thd_020" style="HLStype1">段海清</a>
+SubmitNpcEx_39743=与<a href="findnpc_new,school10,thd_020" style="HLStype1">段海清</a>对话
+SubmitNpcEx_39744=与<a href="findnpc_new,school10,thd_034" style="HLStype1">黄灵枢</a>交谈
+SubmitNpcEx_39745=将段海清之事告知<a href="findnpc_new,school10,thd_001" style="HLStype1">黄古萧</a>
+SubmitNpcEx_39746=拜<a href="findnpc_new,school10,thd_001" style="HLStype1">黄古萧</a>为师
+SubmitNpcEx_39747=接受<a href="findnpc_new,school10,thd_001" style="HLStype1">黄古萧</a>的酬谢
+SubmitNpcEx_39748=与<a href="findnpc_new,school10,thd_037" style="HLStype1">云锦（资质审核官）</a>对话
+SubmitNpcEx_39751=与<a href="findnpc_new,school10,thd_019" style="HLStype1">垂钓翁</a>交谈
+SubmitNpcEx_39752=听<a href="findnpc_new,school10,thd_019" style="HLStype1">垂钓翁</a>讲故事
+SubmitNpcEx_39753=将找到的琴交给<a href="findnpc_new,school10,thd_019" style="HLStype1">垂钓翁</a>
+SubmitNpcEx_39754=与<a href="findnpc_new,school10,thd_019" style="HLStype1">垂钓翁</a>交谈
+SubmitNpcEx_39755=拿到令牌了，去见<a href="findnpc_new,school10,thd_001" style="HLStype1">黄古萧</a>吧
+SubmitNpcEx_39756=与<a href="findnpc_new,school10,thd_001" style="HLStype1">黄古萧</a>交谈
+SubmitNpcEx_39757=与<a href="findnpc_new,school10,thd_037" style="HLStype1">云锦（资质审核官）</a>对话
+SubmitNpcEx_39758=找到少林方丈<a href="findnpc_new,school08,WorldNpc00212" style="HLStype1">玄怀大师</a>
+SubmitNpcEx_39759=将抄录的经文交给<a href="findnpc_new,school08,WorldNpc00212" style="HLStype1">玄怀大师</a>
+SubmitNpcEx_39852=让大师姐送你离开飞花阵，她在屋子前等你
+SubmitNpcEx_39853=听<a href="findnpc_new,school10,thd_003" style="HLStype1">李涵秋</a>讲述关于身法的一些事情
+SubmitNpcEx_39900=与<a href="findnpc_new,school10,thd_017" style="HLStype1">程媛</a>继续交谈
+SubmitNpcEx_39901=听听<a href="findnpc_new,school10,thd_002" style="HLStype1">黄灵枢</a>想说些什么
+SubmitNpcEx_39902=与<a href="findnpc_new,school10,thd_002" style="HLStype1">黄灵枢</a>告别
+SubmitNpcEx_39903=与<a href="findnpc_new,school10,thd_006" style="HLStype1">岑九</a>交谈
+SubmitNpcEx_39904=前去找<a href="findnpc_new,school10,thd_004" style="HLStype1">桃儿</a>，将金无箴配制的药剂交给她饮用
+SubmitNpcEx_39905=想起师父的话，不如现在去找四师兄<a href="findnpc_new,school10,thd_009" style="HLStype1">秦玄雷</a>请教第一轩武学
+SubmitNpcEx_39906=继续与<a href="findnpc_new,school10,thd_009" style="HLStype1">秦玄雷</a>交谈
+SubmitNpcEx_39907=继续与<a href="findnpc_new,school10,thd_009" style="HLStype1">秦玄雷</a>交谈
+SubmitNpcEx_39908=吴娅彤已经不在此处，回去告知<a href="findnpc_new,school10,thd_009" style="HLStype1">秦玄雷</a>
+SubmitNpcEx_39909=前去找大师姐<a href="findnpc_new,school10,thd_003" style="HLStype1">李涵秋</a>谈一谈
+SubmitNpcEx_39910=与<a href="findnpc_new,school10,thd_039" style="HLStype1">张碧云</a>交谈
+SubmitNpcEx_39911=与二师兄<a href="findnpc_new,school10,thd_039" style="HLStype1">张碧云</a>交谈
+SubmitNpcEx_39912=与<a href="findnpc_new,school10,thd_038" style="HLStype1">李涵秋</a>交谈
+SubmitNpcEx_39913=与<a href="findnpc_new,school10,thd_039" style="HLStype1">张碧云</a>交谈
+SubmitNpcEx_39914=与第一轩东边荒岛上的<a href="findnpc_new,school10,thd_039" style="HLStype1">张碧云</a>交谈
+SubmitNpcEx_39915=与<a href="findnpc_new,school10,thd_038" style="HLStype1">李涵秋</a>交谈
+SubmitNpcEx_39916=与<a href="findnpc_new,school10,thd_039" style="HLStype1">张碧云</a>交谈
+ZZAnswerText1_7000=徵
+ZZAnswerText1_7001=角
+ZZAnswerText1_7002=乐毅
+ZZAnswerText1_7003=四百一十二
+ZZAnswerText1_7004=胃
+ZZAnswerText1_7005=《灵枢》《素问》
+ZZAnswerText1_7006=随心而为，无拘无束。
+ZZAnswerText1_7007=音律、医术、阵法
+ZZAnswerText1_7008=兰花拂穴手
+ZZAnswerText1_7711=米芾
+ZZAnswerText1_7712=信
+ZZAnswerText1_7713=木渎古镇
+ZZAnswerText1_7714=儒教
+ZZAnswerText1_7715=洪七公
+ZZAnswerText1_7716=《出师表》
+ZZAnswerText1_7717=一百岁
+ZZAnswerText1_7718=加冠
+ZZAnswerText1_7719=老残游记
+ZZAnswerText1_7720=畜生地狱
+ZZAnswerText1_7721=道德天尊
+ZZAnswerText1_7722=365
+ZZAnswerText1_7723=南官朱雀
+ZZAnswerText1_7724=十年
+ZZAnswerText1_7725=周伯通
+ZZAnswerText1_7726=屠龙刀
+ZZAnswerText1_7727=《史记》
+ZZAnswerText1_7728=《诗经·国风·周南》
+ZZAnswerText1_7729=李斯
+ZZAnswerText1_7730=去世
+ZZAnswerText1_7731=孟姜女
+ZZAnswerText1_7732=杨过
+ZZAnswerText1_7733=阿拉伯
+ZZAnswerText1_7734=隋炀帝
+ZZAnswerText1_7735=共工
+ZZAnswerText1_7736=金庸
+ZZAnswerText1_7737=神节
+ZZAnswerText1_7738=是
+ZZAnswerText1_7739=《韩非子》
+ZZAnswerText1_7740=曲洋
+ZZAnswerText1_7741=晋文公
+ZZAnswerText1_7742=卢沟桥
+ZZAnswerText1_7743=董卓
+ZZAnswerText1_7744=扁鹊
+ZZAnswerText1_7745=说文解字
+ZZAnswerText1_7746=《岳阳楼记》
+ZZAnswerText1_7747=倒马关
+ZZAnswerText1_7748=洛阳
+ZZAnswerText1_7749=河南少林寺
+ZZAnswerText1_7750=郎中
+ZZAnswerText1_7751=神农氏
+ZZAnswerText1_7752=黄河流域
+ZZAnswerText1_7753=西域
+ZZAnswerText1_7754=三年
+ZZAnswerText1_7755=《三国志》
+ZZAnswerText1_7756=命
+ZZAnswerText1_7757=恒景
+ZZAnswerText1_7758=巧果
+ZZAnswerText1_7759=川剧
+ZZAnswerText1_7760=李贺
+ZZAnswerText2_7000=徽
+ZZAnswerText2_7001=商
+ZZAnswerText2_7002=鲍叔牙
+ZZAnswerText2_7003=四百零九
+ZZAnswerText2_7004=脾
+ZZAnswerText2_7005=《灵素》《问枢》
+ZZAnswerText2_7006=侠义为大，乐善好施。
+ZZAnswerText2_7007=机械、烹饪、铸造
+ZZAnswerText2_7008=海月清辉曲
+ZZAnswerText2_7711=黄庭坚
+ZZAnswerText2_7712=勇
+ZZAnswerText2_7713=佛山镇
+ZZAnswerText2_7714=儒家
+ZZAnswerText2_7715=黄药师
+ZZAnswerText2_7716=《前出师表》
+ZZAnswerText2_7717=八、九十岁
+ZZAnswerText2_7718=总角
+ZZAnswerText2_7719=红楼梦
+ZZAnswerText2_7720=烊铜地狱
+ZZAnswerText2_7721=无始天尊
+ZZAnswerText2_7722=360
+ZZAnswerText2_7723=西官白虎
+ZZAnswerText2_7724=十六年
+ZZAnswerText2_7725=王重阳
+ZZAnswerText2_7726=凤凰翎
+ZZAnswerText2_7727=《资治通鉴》
+ZZAnswerText2_7728=《诗经·秦风·蒹葭》
+ZZAnswerText2_7729=吕不韦
+ZZAnswerText2_7730=薨
+ZZAnswerText2_7731=白素贞
+ZZAnswerText2_7732=郭靖
+ZZAnswerText2_7733=伊朗
+ZZAnswerText2_7734=陈后主
+ZZAnswerText2_7735=大禹
+ZZAnswerText2_7736=古龙
+ZZAnswerText2_7737=鬼节
+ZZAnswerText2_7738=不是
+ZZAnswerText2_7739=《荀子》
+ZZAnswerText2_7740=嵇康
+ZZAnswerText2_7741=楚庄王
+ZZAnswerText2_7742=赵州桥
+ZZAnswerText2_7743=董仲舒
+ZZAnswerText2_7744=孙思邈
+ZZAnswerText2_7745=康熙字典
+ZZAnswerText2_7746=《孔雀东南飞》
+ZZAnswerText2_7747=雁门关
+ZZAnswerText2_7748=开封
+ZZAnswerText2_7749=浙江灵隐寺
+ZZAnswerText2_7750=挑夫
+ZZAnswerText2_7751=燧人氏
+ZZAnswerText2_7752=长江流域
+ZZAnswerText2_7753=中原
+ZZAnswerText2_7754=三个季度
+ZZAnswerText2_7755=《红楼梦》
+ZZAnswerText2_7756=坤
+ZZAnswerText2_7757=后羿
+ZZAnswerText2_7758=竹筒饭
+ZZAnswerText2_7759=京剧
+ZZAnswerText2_7760=李白
+collectinfo_12800=去河里寻找<a href="findnpc_new,city02,thd_qianzhi_gather001" style="HLStype1">蚌</a>，打开采集珍珠
+collectinfo_12801=去酒楼老板处买一瓶“上好的女儿红”（苏州酒楼处可购买）
+collectinfo_12802=去酒楼老板处买一瓶“富水春”（各主城酒楼、客栈处可购买）
+collectinfo_12803=去酒楼老板处买一瓶“米酒”（各主城酒楼、客栈处可购买）
+collectinfo_12804=从<a href="findnpc_new,school10,month_cc001" style="HLStype1">猴子</a>处夺回张碧云的酒
+collectinfo_12805=采集<a href="findnpc_new,school10,Gather_thd_cc001" style="HLStype1">苦情花</a>
+collectinfo_12806=收集一些<a href="findnpc_new,school10,Gather_thd_cc002" style="HLStype1">木头</a>
+collectinfo_12807=收集<a href="findnpc_new,," style="HLStype1"></a>黄灵枢的拜师信物
+collectinfo_12808=收集<a href="findnpc_new,," style="HLStype1"></a>程媛的拜师信物
+collectinfo_12809=收集<a href="findnpc_new,," style="HLStype1"></a>桃儿的拜师信物
+collectinfo_12810=收集<a href="findnpc_new,," style="HLStype1"></a>李涵秋的拜师信物
+collectinfo_12811=收集<a href="findnpc_new,," style="HLStype1"></a>金无箴的拜师信物
+collectinfo_12812=收集<a href="findnpc_new,," style="HLStype1"></a>秦玄雷的拜师信物
+collectinfo_12813=收集<a href="findnpc_new,school10,Gather_thd_zhusun" style="HLStype1">竹笋</a>
+collectinfo_12814=收集<a href="findnpc_new,school10,Gather_thd_taohuahuaban" style="HLStype1">桃花花瓣</a>
+collectinfo_12815=收集<a href="findnpc_new,school10,Gather_thd_heye" style="HLStype1">荷叶</a>
+collectinfo_12816=收集<a href="findnpc_new,school10,Gather_thd_hualu_1" style="HLStype1">花</a>
+collectinfo_12817=收集<a href="findnpc_new,school10,Gather_thd_hualu_2" style="HLStype1">花</a>
+collectinfo_12818=收集<a href="findnpc_new,school10," style="HLStype1"></a><a href="findnpc_new,,Gather_thd_hualu_3" style="HLStype1">花</a>
+collectinfo_12819=从珍珠贝上采集珍珠
+collectinfo_12820=从粉色珍珠贝上采集粉色珍珠
+collectinfo_12821=从蓝色珍珠贝上采集蓝色珍珠
+collectinfo_12822=从银色珍珠贝上采集银色珍珠
+collectinfo_12823=从金色珍珠贝上采集金色珍珠
+collectinfo_12824=从黑珍珠贝上采集黑珍珠
+collectinfo_12825=通过传送门(-604,-90)到桃花阵外，去东边小岛上攻克<a href="findnpc_new,school10,thd_rm_tf" style="HLStype1">海盗</a>，获得其信物
+collectinfo_12826=通过传送门(-604,-90)到桃花阵外，去东边小岛上攻克<a href="findnpc_new,school10,thd_rm_gb" style="HLStype1">官兵</a>，获得其信物
+collectinfo_12827=找到<a href="findnpc_new,school10,Gather_thd_hualu_4" style="HLStype1">花</a>，收集其花露
+collectinfo_12828=找到<a href="findnpc_new,school10,Gather_thd_hualu_5" style="HLStype1">花</a>，收集其花露
+collectinfo_12829=找到<a href="findnpc_new,school10,Gather_thd_hualu_6" style="HLStype1">花</a>，收集其花露
+collectinfo_12830=找到<a href="findnpc_new,school10,Gather_thd_hualu_7" style="HLStype1">花</a>，收集其花露
+collectinfo_12831=找到<a href="findnpc_new,school10,Gather_thd_hualu_8" style="HLStype1">花</a>，收集其花露
+collectinfo_12832=找到<a href="findnpc_new,school10,Gather_thd_hualu_9" style="HLStype1">花</a>，收集其花露
+collectinfo_12833=找到<a href="findnpc_new,school10,Gather_thd_hualu_10" style="HLStype1">花</a>，收集其花露
+collectinfo_12834=找到<a href="findnpc_new,school10,Gather_thd_hualu_11" style="HLStype1">花</a>，收集其花露
+collectinfo_12835=找到<a href="findnpc_new,school10,Gather_thd_hualu_12" style="HLStype1">花</a>，收集其花露
+collectinfo_12836=收集<a href="findnpc_new,," style="HLStype1"></a>一份《致伤毒方》。
+collectinfo_12837=收集<a href="findnpc_new,," style="HLStype1"></a>一份《千金翼方》。
+collectinfo_12838=收集<a href="findnpc_new,," style="HLStype1"></a>一份《佩兰》尾曲。
+collectinfo_12839=收上交一份《梅花落》前曲
+collectinfo_12840=上交一份《伯祥饶三路》
+collectinfo_12841=上交一份《金明图》棋谱
+collectinfo_12842=上交一本《吉祥如意》
+collectinfo_12843=上交一本《送孟浩然之广陵》
+collectinfo_12844=上交一副《花鸟图册》（十一）
+collectinfo_12845=上交一副《明妃出塞图》
+collectinfo_12846=寻找<a href="findnpc_new,school10,Gather_thd_qin" style="HLStype1">藏起来的琴</a>
+collectinfo_12848=从<a href="findnpc_new,school10,Gather_thd_cc003" style="HLStype1">桃树</a>上收集一些桃花
+collectinfo_12850=前往<a href="findnpc_new,school10,Gather0002thd" style="HLStype1">蜂巢</a>处收集蜂蜜
+collectinfo_12851=收集<a href="findnpc_new,," style="HLStype1"></a>《兰亭集序》（卷一）（暮色之村、青云堡禁地掉落，推荐玩家前往普通难度暮色之村禁地获取）
+collectinfo_12852=收集<a href="findnpc_new,," style="HLStype1"></a>《兰亭集序》（卷二）（暮色之村、青云堡禁地掉落）
+collectinfo_12852_1=收集《勇能无惧》,低级踢馆（盐帮,抱犊寨,恶虎山寨,天宝寨,天香茶林,沈家堡,徐家庄）获得
+collectinfo_12853=收集<a href="findnpc_new,," style="HLStype1"></a>《兰亭集序》（卷三）（暮色之村、青云堡禁地掉落）
+collectinfo_12853_1=收集<a href="findnpc_new,," style="HLStype1"></a>《吉祥如意》,低级踢馆（盐帮,抱犊寨,恶虎山寨,天宝寨,天香茶林,沈家堡,徐家庄）获得
+collectinfo_12854=收集<a href="findnpc_new,," style="HLStype1"></a>《兰亭集序》（卷四）（暮色之村、青云堡禁地掉落）
+collectinfo_12854_1=收集<a href="findnpc_new,," style="HLStype1"></a>《侃歌》间奏,低级踢馆（盐帮,抱犊寨,恶虎山寨,天宝寨,天香茶林,沈家堡,徐家庄）获得
+collectinfo_12855=收集<a href="findnpc_new,," style="HLStype1"></a>《兰亭集序》（卷五）（暮色之村、青云堡禁地掉落）
+collectinfo_12855_1=收集<a href="findnpc_new,," style="HLStype1"></a>混珠（巧匠可用低级分解材料合成）
+collectinfo_12856=收集<a href="findnpc_new,," style="HLStype1"></a>《兰亭集序》（卷六）（暮色之村、青云堡禁地掉落）
+collectinfo_12856_1=收集<a href="findnpc_new,," style="HLStype1"></a>药布（药师可用低级分解材料合成）
+collectinfo_12857=收集<a href="findnpc_new,," style="HLStype1"></a>《滕王阁序》(卷一）
+collectinfo_12857_1=收集<a href="findnpc_new,," style="HLStype1"></a>精粉（铁匠分解低级装备获得）
+collectinfo_12858=收集<a href="findnpc_new,," style="HLStype1"></a>《滕王阁序》(卷二）
+collectinfo_12858_1=收集<a href="findnpc_new,," style="HLStype1"></a>精珠（巧匠分解低级装备获得）
+collectinfo_12859=收集<a href="findnpc_new,," style="HLStype1"></a>《滕王阁序》(卷三）
+collectinfo_12859_1=收集<a href="findnpc_new,," style="HLStype1"></a>麻线（裁缝分解低级装备获得）
+collectinfo_12860=收集<a href="findnpc_new,," style="HLStype1"></a>《滕王阁序》(卷四）
+collectinfo_12860_1=收集<a href="findnpc_new,," style="HLStype1"></a>薄荷（药师采集获得）
+collectinfo_12862=在接取本任务的NPC处接取资质审核引导任务，然后根据任务引导到<a href="findnpc_new,school10,thd_037" style="HLStype1">云锦（资质审核官）</a>处通过奇遇入门审核，获得第一轩审核令牌，之后面见<a href="findnpc_new,school10,thd_001" style="HLStype1">黄古箫</a>
+collectinfo_12863=去<a href="findnpc_new,school10,EventNpc_thd_diaoyu" style="HLStype1">桃花潭</a>钓<a href="findnpc_new,school10," style="HLStype1"></a>弓鱼
+collectinfo_12864=去<a href="findnpc_new,school10,EventNpc_thd_diaoyu" style="HLStype1">桃花潭</a>钓<a href="findnpc_new,school10," style="HLStype1"></a>鳟鱼
+collectinfo_12865=去<a href="findnpc_new,school10,EventNpc_thd_diaoyu" style="HLStype1">桃花潭</a>钓<a href="findnpc_new,school10," style="HLStype1"></a>团头鲂
+collectinfo_12866=去<a href="findnpc_new,school10,EventNpc_thd_diaoyu" style="HLStype1">桃花潭</a>钓<a href="findnpc_new,school10," style="HLStype1"></a><a href="findnpc_new,school10," style="HLStype1"></a>岩原鲤
+collectinfo_12867=去<a href="findnpc_new,school10,EventNpc_thd_diaoyu" style="HLStype1">桃花潭</a>钓<a href="findnpc_new,school10," style="HLStype1"></a><a href="findnpc_new,school10," style="HLStype1"></a>青竹鱼
+collectinfo_12868=去<a href="findnpc_new,school10,EventNpc_thd_diaoyu" style="HLStype1">桃花潭</a>钓<a href="findnpc_new,school10," style="HLStype1"></a><a href="findnpc_new,school10," style="HLStype1"></a>石首鱼
+collectinfo_12869=去<a href="findnpc_new,school10,EventNpc_thd_diaoyu" style="HLStype1">桃花潭</a>钓<a href="findnpc_new,school10," style="HLStype1"></a>小黄鱼
+collectinfo_12870=去<a href="findnpc_new,school10,EventNpc_thd_diaoyu" style="HLStype1">桃花潭</a>钓<a href="findnpc_new,school10," style="HLStype1"></a><a href="findnpc_new,school10," style="HLStype1"></a>黑鱼
+collectinfo_12871=去<a href="findnpc_new,school10,EventNpc_thd_diaoyu" style="HLStype1">桃花潭</a>钓<a href="findnpc_new,school10," style="HLStype1"></a><a href="findnpc_new,school10," style="HLStype1"></a>花鲈
+collectinfo_12872=去<a href="findnpc_new,school10,EventNpc_thd_diaoyu" style="HLStype1">桃花潭</a>钓<a href="findnpc_new,school10," style="HLStype1"></a>鲮鱼
+collectinfo_12873=找到<a href="findnpc_new,school10,thd_036" style="HLStype1">云书（第一轩接引人）</a>,通过他的审核，获得第一轩入门令牌。
+collectinfo_12874=将黄灵枢的信物交给她
+collectinfo_12875=到金陵栖霞寺抄录<a href="findnpc_new,city03,Gather_shalu_js_1" style="HLStype1">《心经》</a>
+collectinfo_12876=到金陵大报恩寺抄录<a href="findnpc_new,city03,Gather_shalu_js_2" style="HLStype1">《地藏经》</a>
+collectinfo_12877=到苏州西园寺抄录<a href="findnpc_new,city02,Gather_shalu_js_3" style="HLStype1">《楞严经》</a>
+collectinfo_12878=到苏州寒山寺抄录<a href="findnpc_new,city02,Gather_shalu_js_4" style="HLStype1">《金刚经》</a>
+collectinfo_12879=到洛阳白马寺抄录<a href="findnpc_new,city04,Gather_shalu_js_5" style="HLStype1">《大涅槃经》</a>
+collectinfo_12880=到洛阳潜溪寺抄录<a href="findnpc_new,city04,Gather_shalu_js_6" style="HLStype1">《大宝积经》</a>
+collectinfo_12881=到洛阳奉先寺抄录<a href="findnpc_new,city04,Gather_shalu_js_7" style="HLStype1">《华严经》</a>
+collectinfo_12882=到极乐谷永乐寺抄录<a href="findnpc_new,school04,Gather_shalu_js_8" style="HLStype1">《妙法莲华经》</a>
+collectinfo_12883=在少林寺抄录<a href="findnpc_new,school08,Gather_shalu_js_9" style="HLStype1">《十善业道经》</a>
+collectinfo_12884=到丐帮法华寺抄录<a href="findnpc_new,school02,Gather_shalu_js_10" style="HLStype1">《无量寿经》</a>
+collectinfo_12885=给岛主找来一本《勇能无惧》
+collectinfo_12886=去药店采购一些止血草回来。
+collectinfo_12887=去药店采购一些还命药回来
+collectinfo_12888=寻找一份水煮鱼交给岛主。
+collectinfo_12889=寻找一份血豆腐交给岛主。
+collectinfo_12890=岛主让你去<a href="findnpc_new,school10,Gather_thd_cc006" style="HLStype1">红铜矿</a>处采集一些红铜回来
+collectinfo_12891=岛主让你去采集一些<a href="findnpc_new,school10,Gather_thd_cc007" style="HLStype1">竹子</a>
+collectinfo_12892=岛主让你去采集一些<a href="findnpc_new,school10,Gather_thd_cc008" style="HLStype1">红辣椒</a>回来。
+convoy_talk_39707_2=<font face="Default" color="#ffffff" >快追上来啊!跑的这么慢~</font>
+convoy_talk_39707_4=<font face="Default" color="#ffffff" >嘿嘿，追不上我吧！</font>
+convoy_talk_39707_6=<font face="Default" color="#ffffff" >哎呦，竟然能跟上我！</font>
+convoy_talk_39707_7=<font face="Default" color="#ffffff" >你的轻功不错哦，竟能跟的上桃儿！</font>
+convoyinfo_12800=带段海清去见<a href="findnpc_new,school10,thd_034" style="HLStype1">黄灵枢</a>
+convoyinfo_12801=带桃儿找到她描述中的地方(-766,42)
+convoyinfo_12802=保护大师姐李涵秋不被吴滔天所伤
+hunterinfo_12800=去碧螺村附近击败<a href="findnpc_new,city02,monthd001001" style="HLStype1">水贼喽啰</a>
+hunterinfo_12801=击溃碧螺村中的<a href="findnpc_new,city02,monthd001002" style="HLStype1">水贼劫匪</a>
+hunterinfo_12803=击败<a href="findnpc_new,city02,monthd001003" style="HLStype1">水贼头目</a>
+hunterinfo_12804=和<a href="findnpc_new,school10,thd_009" style="HLStype1">秦玄雷</a>切磋
+hunterinfo_12805=除掉狂躁的<a href="findnpc_new,school10,month_cc002" style="HLStype1">小鹿</a>
+hunterinfo_12806=击败<a href="findnpc_new,school10,thd_009" style="HLStype1">秦玄雷</a>
+hunterinfo_12807=奉命清理<a href="findnpc_new,school10,month_cc003" style="HLStype1">潜入的外派弟子</a>
+hunterinfo_12808=除掉<a href="findnpc_new,school10,month_cc004" style="HLStype1">入岛的锦衣卫弟子</a>
+hunterinfo_12808_1=除掉<a href="findnpc_new,school10,month_cc004" style="HLStype1">入岛的锦衣卫弟子</a>
+hunterinfo_12809=除掉<a href="findnpc_new,school10,month_cc005" style="HLStype1">入岛的丐帮弟子</a>
+hunterinfo_12809_1=除掉<a href="findnpc_new,school10,month_cc005" style="HLStype1">入岛的丐帮弟子</a>
+hunterinfo_12810=除掉<a href="findnpc_new,school10,month_cc006" style="HLStype1">入岛的君子堂弟子</a>
+hunterinfo_12810_1=除掉<a href="findnpc_new,school10,month_cc006" style="HLStype1">入岛的君子堂弟子</a>
+hunterinfo_12811=除掉<a href="findnpc_new,school10,month_cc007" style="HLStype1">入岛的极乐谷弟子</a>
+hunterinfo_12811_1=除掉<a href="findnpc_new,school10,month_cc007" style="HLStype1">入岛的极乐谷弟子</a>
+hunterinfo_12812=除掉<a href="findnpc_new,school10,month_cc008" style="HLStype1">入岛的唐门弟子</a>
+hunterinfo_12812_1=除掉<a href="findnpc_new,school10,month_cc008" style="HLStype1">入岛的唐门弟子</a>
+hunterinfo_12813=除掉<a href="findnpc_new,school10,month_cc009" style="HLStype1">入岛的峨眉弟子</a>
+hunterinfo_12813_1=除掉<a href="findnpc_new,school10,month_cc009" style="HLStype1">入岛的峨眉弟子</a>
+hunterinfo_12814=除掉<a href="findnpc_new,school10,month_cc010" style="HLStype1">入岛的武当弟子</a>
+hunterinfo_12814_1=除掉<a href="findnpc_new,school10,month_cc010" style="HLStype1">入岛的武当弟子</a>
+hunterinfo_12815=除掉<a href="findnpc_new,school10,month_cc011" style="HLStype1">入岛的少林弟子</a>
+hunterinfo_12815_1=除掉<a href="findnpc_new,school10,month_cc011" style="HLStype1">入岛的少林弟子</a>
+hunterinfo_12816=随<a href="findnpc_new,school10,thd_003" style="HLStype1">李涵秋</a>进入桃林飞花阵开始挑战，飞花阵在屋子北方不远处(-687,-214)
+hunterinfo_12820=与<a href="findnpc_new,school10,thd_006" style="HLStype1">岑九</a>切磋武艺
+hunterinfo_12821=与<a href="findnpc_new,school10,thd_009" style="HLStype1">秦玄雷</a>切磋武艺
+hunterinfo_12823=与二师兄<a href="findnpc_new,school10,thd_005" style="HLStype1">张碧云</a>切磋武艺
+hunterinfo_12824=与大师姐<a href="findnpc_new,school10,thd_003" style="HLStype1">李涵秋</a>切磋武艺
+hunterinfo_12825=击败小岛上的剿寇将军<a href="findnpc_new,school10,month_thd01" style="HLStype1">江大勇</a>
+hunterinfo_12826=击败四月岛东边荒岛上的<a href="findnpc_new,school10,thd_rm_gb" style="HLStype1">官兵</a>
+hunterinfo_12827=去千灯镇，挑战江湖势力天香茶林，击败<a href="findnpc_new,born04,bosstg02001" style="HLStype1">东方玉环</a>
+hunterinfo_12827_1=去千灯镇，挑战江湖势力天香茶林，击败<a href="findnpc_new,born04,montg02004" style="HLStype1">霞衣隐卫</a>
+hunterinfo_12828=去成都，挑战江湖势力沈家堡，击败<a href="findnpc_new,city05,bosstg03001" style="HLStype1">沈沧海</a>
+hunterinfo_12828_1=去成都，挑战江湖势力金针沈家，击败<a href="findnpc_new,city05,montg03004" style="HLStype1">金针沈家护院</a>
+hunterinfo_12829=去成都，挑战江湖势力徐家庄，击败<a href="findnpc_new,city05,bosstg04001" style="HLStype1">徐云铮</a>
+hunterinfo_12829_1=去成都，挑战江湖势力徐家庄，击败<a href="findnpc_new,city05,montg04004" style="HLStype1">徐家庄护院</a>
+hunterinfo_12830=去成都，挑战江湖势力南宫世家，击败<a href="findnpc_new,city05,bosstg05001" style="HLStype1">南宫傲天</a>
+hunterinfo_12830_1=去成都，挑战江湖势力浣花山庄，攻克<a href="findnpc_new,city05,montg01002" style="HLStype1">浣花派剑卫</a>
+hunterinfo_12831=去烟雨庄，挑战江湖势力盐帮，击败<a href="findnpc_new,born03,bosstg07001" style="HLStype1">刘泰</a>
+hunterinfo_12831_1=去烟雨庄，挑战江湖势力盐帮，击败<a href="findnpc_new,born03,montg07003" style="HLStype1">盐帮监工</a>
+hunterinfo_12832=去丐帮，挑战江湖势力万寿山庄，击败<a href="findnpc_new,school02,bosstg11001" style="HLStype1">史舒鹰</a>
+hunterinfo_12832_1=去丐帮，挑战江湖势力百兽庄，击败<a href="findnpc_new,school02,montg11002" style="HLStype1">训狼师</a>
+hunterinfo_12833=去少林，挑战江湖势力嵩山铁剑门，击败<a href="findnpc_new,school08,bosstg12001" style="HLStype1">左一鸣</a>
+hunterinfo_12833_1=去洛阳，挑战江湖势力抱犊寨，击败<a href="findnpc_new,city04,montg28001" style="HLStype1">抱犊寨武士</a>
+hunterinfo_12834=去烟雨庄，挑战江湖势力神风帮，击败<a href="findnpc_new,born03,bosstg13001" style="HLStype1">曲天</a>
+hunterinfo_12834_1=去武当，挑战江湖势力虎啸山庄，击败<a href="findnpc_new,school07,montg30003" style="HLStype1">虎啸山庄武师</a>
+hunterinfo_12835=去唐门，挑战江湖势力沐云庄，击败<a href="findnpc_new,school05,bosstg16001" style="HLStype1">庄聿贤</a>
+hunterinfo_12835_1=去少林，挑战江湖势力嵩山铁剑门，击败<a href="findnpc_new,school08,montg12002" style="HLStype1">嵩山派狂徒</a>
+hunterinfo_12836=去唐门，挑战江湖势力十二连环坞，击败<a href="findnpc_new,school05,bosstg17001" style="HLStype1">仇百岁</a>
+hunterinfo_12836_1=去烟雨庄，挑战江湖势力盐帮，击败<a href="findnpc_new,born03,montg07002" style="HLStype1">盐帮打手</a>
+hunterinfo_12837=去燕京，挑战江湖势力东方世家，击败<a href="findnpc_new,city01,bosstg18001" style="HLStype1">东方城</a>
+hunterinfo_12837_1=去少林，挑战江湖势力嵩山铁剑门，击败<a href="findnpc_new,school08,montg12001" style="HLStype1">嵩山派长老</a>
+hunterinfo_12838=去苏州，挑战江湖势力慕容世家，击败<a href="findnpc_new,city02,bosstg19001" style="HLStype1">慕容千秋</a>
+hunterinfo_12838_1=去成都，挑战江湖势力徐家庄，击败<a href="findnpc_new,city05,montg04005" style="HLStype1">徐家庄高手</a>
+hunterinfo_12839=去洛阳，挑战江湖势力燕门世家，击败<a href="findnpc_new,city04,bosstg20001" style="HLStype1">燕百苦</a>
+hunterinfo_12839_1=去洛阳，挑战江湖势力抱犊寨，击败<a href="findnpc_new,city04,montg28005" style="HLStype1">抱犊寨长老</a>
+hunterinfo_12840=去鸡鸣驿，挑战江湖势力恶虎山寨，击败<a href="findnpc_new,born01,bosstg27001" style="HLStype1">熊霸天</a>
+hunterinfo_12840_1=去武当，挑战江湖势力虎啸山庄，击败<a href="findnpc_new,school07,montg30004" style="HLStype1">虎啸山庄高手</a>
+hunterinfo_12841=去洛阳，挑战江湖势力抱犊寨，击败<a href="findnpc_new,city04,bosstg28001" style="HLStype1">公孙奇</a>
+hunterinfo_12841_1=去洛阳，挑战江湖势力抱犊寨，击败<a href="findnpc_new,city04,montg28006" style="HLStype1">抱犊寨死士</a>
+hunterinfo_12842=去唐门，挑战江湖势力天宝寨，击败<a href="findnpc_new,school05,bosstg29001" style="HLStype1">刘铁胆</a>
+hunterinfo_12842_1=去唐门，挑战江湖势力天宝寨，击败<a href="findnpc_new,school05,montg29006" style="HLStype1">天宝寨高手</a>
+hunterinfo_12843=去武当，挑战江湖势力虎啸山庄，击败<a href="findnpc_new,school07,bosstg30001" style="HLStype1">关逢雷</a>
+hunterinfo_12843_1=去唐门，挑战江湖势力天宝寨，击败<a href="findnpc_new,school05,montg29004" style="HLStype1">天宝寨哨塔守卫</a>
+hunterinfo_12844=击败<a href="findnpc_new,school10,thd_025" style="HLStype1">神秘访客</a>
+hunterinfo_12845=击败<a href="findnpc_new,school10,thd_026" style="HLStype1">神秘访客</a>
+hunterinfo_12846=击败<a href="findnpc_new,school10,thd_027" style="HLStype1">神秘访客</a>
+hunterinfo_12847=击败<a href="findnpc_new,school10,thd_028" style="HLStype1">神秘访客</a>
+hunterinfo_12848=击败<a href="findnpc_new,school10,thd_029" style="HLStype1">神秘访客</a>
+hunterinfo_12849=击败<a href="findnpc_new,school10,thd_030" style="HLStype1">神秘访客</a>
+hunterinfo_12850=击败<a href="findnpc_new,school10,thd_031" style="HLStype1">神秘访客</a>
+hunterinfo_12851=击败<a href="findnpc_new,school10,thd_032" style="HLStype1">神秘访客</a>
+hunterinfo_12852=去少林，挑战江湖势力嵩山铁剑门，击败<a href="findnpc_new,school08,montg12006" style="HLStype1">嵩山派精英</a>
+hunterinfo_12853=去燕京，挑战江湖势力东方世家，击败<a href="findnpc_new,city01,montg18003" style="HLStype1">东方世家铸剑师</a>
+hunterinfo_12853_1=去丐帮，挑战江湖势力百兽庄，击败<a href="findnpc_new,school02,montg11003" style="HLStype1">百兽庄守卫</a>
+hunterinfo_12854=去成都，挑战江湖势力浣花山庄，击败<a href="findnpc_new,city05,montg01004" style="HLStype1">浣花派金衣剑卫</a>
+hunterinfo_12855=去唐门，挑战江湖势力沐云庄，击败<a href="findnpc_new,school05,montg16008" style="HLStype1">沐云庄高手</a>
+hunterinfo_12855_1=去武当，挑战江湖势力虎啸山庄，击败<a href="findnpc_new,school07,montg30001" style="HLStype1">虎啸山庄护院</a>
+hunterinfo_12856=击败<a href="findnpc_new,school10,month_thd03" style="HLStype1">海盗岗哨</a>
+hunterinfo_12857=击败<a href="findnpc_new,school10,month_thd02" style="HLStype1">海盗粮草守卫</a>
+hunterinfo_12858=瞧这样子，<a href="findnpc_new,school10,thd_020" style="HLStype1">段海清</a>似是第一轩叛徒，先将其拿下再说
+hunterinfo_12859=与<a href="findnpc_new,school10,thd_002" style="HLStype1">黄灵枢</a>谈一谈
+hunterinfo_12864=在切磋中战胜<a href="findnpc_new,school10,thd_origin_02_01" style="HLStype1">孙如峰</a>
+hunterinfo_12865=在切磋中战胜<a href="findnpc_new,school10,thd_origin_02_02" style="HLStype1">孙如峰</a>
+hunterinfo_12866=在切磋中战胜<a href="findnpc_new,school10,thd_origin_02_03" style="HLStype1">孙如峰</a>
+hunterinfo_12867=在切磋中战胜<a href="findnpc_new,school10,thd_origin_03_01" style="HLStype1">李天阙</a>
+hunterinfo_12868=在切磋中战胜<a href="findnpc_new,school10,thd_origin_03_02" style="HLStype1">李天阙</a>
+hunterinfo_12869=在切磋中战胜<a href="findnpc_new,school10,thd_origin_03_03" style="HLStype1">李天阙</a>
+hunterinfo_12870=在切磋中战胜<a href="findnpc_new,school10,thd_origin_04_01" style="HLStype1">黄子瑜</a>
+hunterinfo_12871=在切磋中战胜<a href="findnpc_new,school10,thd_origin_04_02" style="HLStype1">黄子瑜</a>
+hunterinfo_12872=在切磋中战胜<a href="findnpc_new,school10,thd_origin_04_03" style="HLStype1">黄子瑜</a>
+hunterinfo_12873=去锦衣卫，挑战江湖势力幽冥山庄，击败<a href="findnpc_new,school01,montg31004" style="HLStype1">幽冥山庄守卫</a>
+hunterinfo_12873_1=去唐门，挑战江湖势力天宝寨，击败<a href="findnpc_new,school05,montg29005" style="HLStype1">天宝寨精英</a>
+interactinfo_12800=与<a href="findnpc_new,city02,thd_012" style="HLStype1">村民</a>交谈获知水贼的事
+interactinfo_12801=去吸引无良富商<a href="findnpc_new,city02,thd_015" style="HLStype1">贾大才</a>的注意力
+interactinfo_12802=去见<a href="findnpc_new,school10,thd_002" style="HLStype1">黄灵枢</a>
+interactinfo_12803=传信给<a href="findnpc_new,city02,WorldNpc01735" style="HLStype1">孙怡薇</a>
+interactinfo_12804=传信给<a href="findnpc_new,city02,WorldNpc01718" style="HLStype1">周思琴</a>
+interactinfo_12805=传信给<a href="findnpc_new,city02,WorldNpc01734" style="HLStype1">柏林腾</a>
+interactinfo_12806=找一处<a href="findnpc_new,school10,EventNpc39627" style="HLStype1">僻静之所</a>静心明悟
+interactinfo_12807=去向<a href="findnpc_new,school10,thd_007" style="HLStype1">金无箴</a>请教
+interactinfo_12808=去找<a href="findnpc_new,school10,thd_005" style="HLStype1">张碧云</a>
+interactinfo_12809=去见<a href="findnpc_new,school10,thd_005" style="HLStype1">张碧云</a>
+interactinfo_12810=去见<a href="findnpc_new,school10,thd_005" style="HLStype1">张碧云</a>
+interactinfo_12811=去找<a href="findnpc_new,school10,thd_005" style="HLStype1">张碧云</a>
+interactinfo_12812=去找<a href="findnpc_new,school10,thd_003" style="HLStype1">李涵秋</a>
+interactinfo_12813=去找<a href="findnpc_new,school10,thd_003" style="HLStype1">李涵秋</a>
+interactinfo_12814=去找<a href="findnpc_new,school10,thd_003" style="HLStype1">李涵秋</a>
+interactinfo_12815=去找<a href="findnpc_new,school10,thd_003" style="HLStype1">李涵秋</a>
+interactinfo_12816=去找<a href="findnpc_new,school10,thd_007" style="HLStype1">金无箴</a>
+interactinfo_12817=去找<a href="findnpc_new,school10,thd_009" style="HLStype1">秦玄雷</a>
+interactinfo_12818=与<a href="findnpc_new,school10,thd_009" style="HLStype1">秦玄雷</a>交谈
+interactinfo_12819=与<a href="findnpc_new,school10,thd_008" style="HLStype1">阿祥</a>交谈
+interactinfo_12820=与<a href="findnpc_new,school10,thd_008" style="HLStype1">阿祥</a>交谈
+interactinfo_12821=与<a href="findnpc_new,school10,thd_008" style="HLStype1">阿祥</a>交谈
+interactinfo_12822=与<a href="findnpc_new,school10,thd_008" style="HLStype1">阿祥</a>交谈
+interactinfo_12823=与<a href="findnpc_new,school10,thd_008" style="HLStype1">阿祥</a>交谈
+interactinfo_12824=去看看<a href="findnpc_new,school10,thd_006" style="HLStype1">岑九</a>
+interactinfo_12825=帮岑九去<a href="findnpc_new,school10,thd_002" style="HLStype1">黄灵枢</a>那要烤鸭
+interactinfo_12826=与<a href="findnpc_new,,thd_002" style="HLStype1">黄灵枢</a>交谈
+interactinfo_12832=与<a href="findnpc_new,school10,thd_020" style="HLStype1">段海清</a>对话
+interactinfo_12833=去<a href="findnpc_new,school01,EventNpc39642" style="HLStype1">锦衣卫</a>打探一下
+interactinfo_12834=去<a href="findnpc_new,school02,EventNpc39643" style="HLStype1">丐帮</a>打探一下
+interactinfo_12835=去<a href="findnpc_new,school03,EventNpc39644" style="HLStype1">君子堂</a>打探一下
+interactinfo_12836=去<a href="findnpc_new,school04,EventNpc39645" style="HLStype1">极乐谷</a>打探一下
+interactinfo_12837=去<a href="findnpc_new,school05,EventNpc39646" style="HLStype1">唐门</a>打探一下
+interactinfo_12838=去<a href="findnpc_new,school06,EventNpc39647" style="HLStype1">峨眉</a>打探一下
+interactinfo_12839=去<a href="findnpc_new,school07,EventNpc39648" style="HLStype1">武当</a>打探一下
+interactinfo_12840=去<a href="findnpc_new,school08,EventNpc39649" style="HLStype1">少林</a>打探一下
+interactinfo_12841=岛主让你去巡岛，<a href="findnpc_new,school10,EventNpc39650" style="HLStype1">到处看看</a>有什么情况
+interactinfo_12842=收下<a href="findnpc_new,school10,thd_019" style="HLStype1">垂钓翁</a>的信物
+interactinfo_12843=拜师<a href="findnpc_new,school10,thd_001" style="HLStype1">黄古萧</a>
+interactinfo_12850=与<a href="findnpc_new,school10,thd_001" style="HLStype1">黄古箫</a>交谈，看其还有何吩咐
+interactinfo_12851=与第一轩的<a href="findnpc_new,school10,thd_017" style="HLStype1">程媛</a>交谈，并将竹箫交给她
+interactinfo_12852=<a href="findnpc_new,school10,thd_002" style="HLStype1">黄灵枢</a>为何攻击自己，莫不是在开玩笑？与其交谈，并将梳妆盒交给她
+interactinfo_12853=与<a href="findnpc_new,school10,thd_002" style="HLStype1">黄灵枢</a>交谈，并接到送去给岑九的食盒
+interactinfo_12854=与<a href="findnpc_new,school10,thd_006" style="HLStype1">岑九</a>交谈，将食盒交给他
+interactinfo_12855=将采来的蜂蜜交给<a href="findnpc_new,school10,thd_007" style="HLStype1">金无箴</a>
+interactinfo_12856=与<a href="findnpc_new,school10,thd_004" style="HLStype1">桃儿</a>交谈
+interactinfo_12857=与<a href="findnpc_new,school10,thd_004" style="HLStype1">桃儿</a>交谈
+interactinfo_12858=与<a href="findnpc_new,school10,thd_008" style="HLStype1">阿祥</a>交谈
+interactinfo_12859=与<a href="findnpc_new,school10,thd_009" style="HLStype1">秦玄雷</a>交谈
+interactinfo_12860=与<a href="findnpc_new,school10,thd_035" style="HLStype1">吴娅彤</a>交谈，并将秦师兄所托之物交予她
+interactinfo_12861=与<a href="findnpc_new,school10,thd_035" style="HLStype1">吴娅彤</a>交谈
+interactinfo_12862=将吴娅彤给的木制匕首交给<a href="findnpc_new,school10,thd_009" style="HLStype1">秦玄雷</a>查看
+interactinfo_12863=与<a href="findnpc_new,school10,thd_009" style="HLStype1">秦玄雷</a>交谈
+interactinfo_12864=与<a href="findnpc_new,school10,thd_003" style="HLStype1">李涵秋</a>
+interactinfo_12865=与<a href="findnpc_new,school08,WorldNpc00212" style="HLStype1">玄怀大师</a>交谈
+interactinfo_12866=与<a href="findnpc_new,school07,WorldNpc04401" style="HLStype1">紫阳真人</a>交谈
+interactinfo_12867=与<a href="findnpc_new,school06,WorldNpc02604" style="HLStype1">绝尘师太</a>交谈
+interactinfo_12868=与<a href="findnpc_new,school05,WorldNpc02203" style="HLStype1">唐天行</a>交谈
+interactinfo_12869=与<a href="findnpc_new,school04,WorldNpc03816" style="HLStype1">单天冥</a>交谈
+interactinfo_12870=与<a href="findnpc_new,school03,WorldNpc03305" style="HLStype1">萧别情</a>交谈
+interactinfo_12871=与<a href="findnpc_new,school02,WorldNpc03003" style="HLStype1">萧天放</a>交谈
+interactinfo_12872=与<a href="findnpc_new,school01,worldnpc04101" style="HLStype1">皇甫遥</a>交谈
+interactinfo_12873=与<a href="findnpc_new,school10,thd_025" style="HLStype1">神秘访客</a>交谈
+interactinfo_12874=与<a href="findnpc_new,school10,thd_026" style="HLStype1">神秘访客</a>交谈
+interactinfo_12875=替岛主去看看<a href="findnpc_new,school10,thd_002" style="HLStype1">黄灵枢</a>
+interactinfo_12876=与<a href="findnpc_new,school10,thd_039" style="HLStype1">张碧云</a>交谈
+interactinfo_12877=将神秘琴谱交给<a href="findnpc_new,school10,thd_019" style="HLStype1">垂钓翁</a>
+interactinfo_12878=烧掉这群海盗的<a href="findnpc_new,school10,Gather0001thd" style="HLStype1">粮草</a>
+interactinfo_12879=与<a href="findnpc_new,school10,thd_020" style="HLStype1">段海清</a>交谈
+interactinfo_12880=与清音洞的<a href="findnpc_new,school10,thd_006" style="HLStype1">岑九</a>谈一谈
+interactinfo_12881=前去与<a href="findnpc_new,school10,EventNpc39651" style="HLStype1">吴娅彤</a>谈一谈
+interactinfo_12882=与<a href="findnpc_new,school10,thd_038" style="HLStype1">李涵秋</a>交谈，探问伤势如何
+interactinfo_12883=通过<a href="findnpc_new,school10,thd_009" style="HLStype1">秦玄雷</a>、<a href="findnpc_new,school10,thd_007" style="HLStype1">金无箴</a>、<a href="findnpc_new,school10,thd_003" style="HLStype1">李涵秋</a>、<a href="findnpc_new,school10,thd_004" style="HLStype1">桃儿</a>的考验，获得他们的信物并交给<a href="findnpc_new,school10,thd_002" style="HLStype1">黄灵枢</a>
+interactinfo_12884=通过<a href="findnpc_new,school10,thd_009" style="HLStype1">秦玄雷</a>、<a href="findnpc_new,school10,thd_004" style="HLStype1">桃儿</a>、<a href="findnpc_new,school10,thd_017" style="HLStype1">程媛</a>的考验，获得他们的信物并交给<a href="findnpc_new,school10,thd_002" style="HLStype1">黄灵枢</a>
+interactinfo_12885=通过<a href="findnpc_new,school10,thd_009" style="HLStype1">秦玄雷</a>、<a href="findnpc_new,school10,thd_003" style="HLStype1">李涵秋</a>、<a href="findnpc_new,school10,thd_004" style="HLStype1">桃儿</a>、<a href="findnpc_new,school10,thd_017" style="HLStype1">程媛</a>的考验，获得他们的信物并交给<a href="findnpc_new,school10,thd_002" style="HLStype1">黄灵枢</a>
+interactinfo_12886=通过<a href="findnpc_new,school10,thd_009" style="HLStype1">秦玄雷</a>、<a href="findnpc_new,school10,thd_003" style="HLStype1">李涵秋</a>、<a href="findnpc_new,school10,thd_017" style="HLStype1">程媛</a>的考验，获得他们的信物并交给<a href="findnpc_new,school10,thd_002" style="HLStype1">黄灵枢</a>
+interactinfo_12887=通过<a href="findnpc_new,school10,thd_009" style="HLStype1">秦玄雷</a>、<a href="findnpc_new,school10,thd_007" style="HLStype1">金无箴</a>、<a href="findnpc_new,school10,thd_003" style="HLStype1">李涵秋</a>、<a href="findnpc_new,school10,thd_004" style="HLStype1">桃儿</a>、<a href="findnpc_new,school10,thd_017" style="HLStype1">程媛</a>的考验，获得他们的信物并交给<a href="findnpc_new,school10,thd_002" style="HLStype1">黄灵枢</a>
+interactinfo_12888=将曲谱《高山流水》前奏(禁地掉落)交给<a href="findnpc_new,school10,thd_017" style="HLStype1">程媛</a>
+interactinfo_12889=将曲谱《高山流水》间奏(禁地掉落)交给<a href="findnpc_new,school10,thd_017" style="HLStype1">程媛</a>
+interactinfo_12890=将曲谱《高山流水》前奏、间奏、尾曲(禁地掉落)交给<a href="findnpc_new,school10,thd_017" style="HLStype1">程媛</a>
+interactinfo_12891=将《天心药录》(踢馆、禁地掉落)交给<a href="findnpc_new,school10,thd_007" style="HLStype1">金无箴</a>
+interactinfo_12892=收集一个十香暖药散(药师制作)交给<a href="findnpc_new,school10,thd_007" style="HLStype1">金无箴</a>
+interactinfo_12893=将武学秘籍《横心肃杀第一篇》(禁地掉落或专家点兑换)交与<a href="findnpc_new,school10,thd_009" style="HLStype1">秦玄雷</a>
+interactinfo_12894=将武学秘籍《千里追魂第一篇》(禁地掉落或专家点兑换)交与<a href="findnpc_new,school10,thd_009" style="HLStype1">秦玄雷</a>
+interactinfo_12895=在无良富商<a href="findnpc_new,city02,EventNpc39610" style="HLStype1">贾大才</a>身边奔跑跳跃，吸引他的注意力，给张三创造机会
+interactinfo_12896=将信件送交给<a href="findnpc_new,school10,thd_rc_008" style="HLStype1">周二通</a>
+interactinfo_12897=替岛主去看看大师姐<a href="findnpc_new,school10,thd_003" style="HLStype1">李涵秋</a>
+interactinfo_12898=替岛主去看看二师兄<a href="findnpc_new,school10,thd_005" style="HLStype1">张碧云</a>
+interactinfo_12899=替岛主去看看四师兄<a href="findnpc_new,school10,thd_009" style="HLStype1">秦玄雷</a>
+interactinfo_12900=替岛主去看看三师兄<a href="findnpc_new,school10,thd_007" style="HLStype1">金无箴</a>
+interactinfo_12904=将50个桃花令交给<a href="findnpc_new,school10,thd_origin_02_01" style="HLStype1">孙如峰</a>
+interactinfo_12905=将30个桃花令交给<a href="findnpc_new,school10,thd_origin_02_02" style="HLStype1">孙如峰</a>
+interactinfo_12906=将10个桃花令交给<a href="findnpc_new,school10,thd_origin_02_03" style="HLStype1">孙如峰</a>
+interactinfo_12907=将80个桃花令交给<a href="findnpc_new,school10,thd_origin_03_01" style="HLStype1">李天阙</a>
+interactinfo_12908=将50个桃花令交给<a href="findnpc_new,school10,thd_origin_03_02" style="HLStype1">李天阙</a>
+interactinfo_12909=将20个桃花令交给<a href="findnpc_new,school10,thd_origin_03_03" style="HLStype1">李天阙</a>
+interactinfo_12910=将100个桃花令交给<a href="findnpc_new,school10,thd_origin_04_01" style="HLStype1">黄子瑜</a>
+interactinfo_12911=将70个桃花令交给<a href="findnpc_new,school10,thd_origin_04_02" style="HLStype1">黄子瑜</a>
+interactinfo_12912=将30个桃花令交给<a href="findnpc_new,school10,thd_origin_04_03" style="HLStype1">黄子瑜</a>
+interactinfo_12913=向黄古箫求教第一轩武学精义，并熟悉一下<a href="findnpc_new,school10,EventNpc39652" style="HLStype1">路途环境</a>
+maintext_7000=下列哪个不是五音之一？
+maintext_7001=五音中第三个音是什么？
+maintext_7002=《高山流水》琴曲讲的是管仲和谁之间的友谊？
+maintext_7003=人体有多少个穴位？
+maintext_7004=下面哪个不属于人体五脏之一？ 
+maintext_7005=医学巨著《黄帝内经》分为哪两个部分？
+maintext_7006=我第一轩的处世原则是什么？
+maintext_7007=我第一轩弟子除了要勤修武功外，还要对哪些方面有一定的造诣？
+maintext_7008=我第一轩的镇岛绝学是什么？
+maintext_7711=北宋四大家是指欧阳修、苏轼、王安石和谁？
+maintext_7712=仁、义、礼、智和什么被称为五常？
+maintext_7713=以下哪一个不属于四大古镇？
+maintext_7714=三教九流中的“三教”是指佛教，道教和？
+maintext_7715=《射雕英雄传》中黄蓉做出的“好逑汤”是给谁做的？
+maintext_7716=“不宜妄自菲薄，引喻失义”出自诸葛亮的哪篇文章？
+maintext_7717=期颐之年是指？
+maintext_7718=垂髫是指幼年儿童，又叫什么？
+maintext_7719=以下哪一部不属于晚清四大谴责小说？
+maintext_7720=十八层地狱中第十八层是？
+maintext_7721=西游记中“三清”是指元始天尊、灵宝天尊和？
+maintext_7722=女娲补天用了多少块石头？
+maintext_7723=“二十八宿”中奎木狼是属于？
+maintext_7724=神雕侠侣中小龙女在绝情谷底过了多少年？
+maintext_7725=射雕英雄传中“中神通”是谁？
+maintext_7726=以下哪一个不属于古龙“七武器”之一？
+maintext_7727=中国第一部纪传体通史是指？
+maintext_7728=“蒹葭苍苍，白露为霜”出于诗经中哪一篇？
+maintext_7729=秦始皇完成统一六国时，辅佐他的丞相是？
+maintext_7730=古代皇帝死亡称“驾崩”，王侯死亡称什么？
+maintext_7731=四大民间传说中一位哭死长城的人叫什么？
+maintext_7732=“侠之大者，为国为民”这句话是谁说的？
+maintext_7733=古代时期“波斯”是指现在的哪个地方？
+maintext_7734=“隔江犹唱后庭花”中的《后庭花》是指谁写的歌曲？
+maintext_7735=古神话中撞断不周山的英雄人物是？
+maintext_7736=“飞雪连天射白鹿，笑书神侠倚碧鸳”是指哪位作家的作品？
+maintext_7737=农历七月十五是中元节，又称？
+maintext_7738=避暑山庄是属于四大名园吗？
+maintext_7739=以下哪一部不属于六子全书？
+maintext_7740=竹林七贤中临刑之前索琴弹奏广陵散的是？
+maintext_7741=春秋五霸中最后一位霸主是？
+maintext_7742=世界上现存最古老的石拱桥是哪座桥？
+maintext_7743=提出“罢黜百家，独尊儒术”的是谁？
+maintext_7744=中国古代第一位享有盛誉的名医是？
+maintext_7745=我国第一部字典是？
+maintext_7746=“乐府双璧”指的是《木兰诗》和？
+maintext_7747=古代内三关是指居庸关、紫荆关和？
+maintext_7748=北宋时期的东京是指现在的哪个地方？
+maintext_7749=被称为“天下第一名刹”的是哪个地方？
+maintext_7750=“五花八门”中的“土牛花”指的是？
+maintext_7751=中华古代神话中发明钻木取火的是谁？
+maintext_7752=中华民族的摇篮是？
+maintext_7753=“阳关大道”原是指通往哪里的道路？
+maintext_7754=“一日不见，如隔三秋”中的“三秋”是指？
+maintext_7755=“回光返照”这个成语出自哪部作品？
+maintext_7756=下列不属于中医的“五术”的是？
+maintext_7757=重阳节的传说与哪个人物有关？
+maintext_7758=七夕节，中国人通常吃什么？
+maintext_7759=徽剧是什么传统戏剧的前身？
+maintext_7760=唐代诗人中被称为诗鬼的是谁？
+okmenu_12800=<font face="Default" color="#ffffff" >好的，我知道了</font><font face="Default" color="#ffffff" >，去去就来。</font>
+okmenu_12801=<font face="Default" color="#ffffff" >你看那边有大鸟！</font>
+okmenu_12802=<font face="Default" color="#ffffff" >如此好酒相陪，怕是什么烦心事都要烟消云散了。</font>
+okmenu_12803=<font face="Default" color="#ffffff" >张三</font><font face="Default" color="#ffffff" >用</font><font face="Default" color="#ffffff" >采珍珠换来</font><font face="Default" color="#ffffff" >的</font><font face="Default" color="#ffffff" >钱</font><font face="Default" color="#ffffff" >买了粮食</font><font face="Default" color="#ffffff" >，他叫你们去</font><font face="Default" color="#ffffff" >领呢。</font>
+okmenu_12804=<font face="Default" color="#ffffff" >张三用采珍珠换来的钱买了粮食，他叫你们去领呢。</font>
+okmenu_12805=<font face="Default" color="#ffffff" >张三用采珍珠换来的钱买了粮食，他叫你们去领呢。</font>
+okmenu_12807=<font face="Default" color="#ffffff" >多谢教诲！</font>
+okmenu_12808=<font face="Default" color="#ffffff" >这有何难，我去给你取来。</font>
+okmenu_12809=<font face="Default" color="#ffffff" >这有何难，我去给你取来。</font>
+okmenu_12810=<font face="Default" color="#ffffff" >这有何难，我去给你取来。</font>
+okmenu_12811=<font face="Default" color="#ffffff" >之前执行任务的时候我有见过那些猴子，想必还没走远，我去把酒夺回来。</font>
+okmenu_12812=<font face="Default" color="#ffffff" >当然可以。</font>
+okmenu_12813=<font face="Default" color="#ffffff" >当然可以。</font>
+okmenu_12814=<font face="Default" color="#ffffff" >好。</font>
+okmenu_12815=<font face="Default" color="#ffffff" >师姐，怎么了，又想起往事了么。</font>
+okmenu_12816=<font face="Default" color="#ffffff" >好的。</font>
+okmenu_12817=<font face="Default" color="#ffffff" >啊，必须要比啊……</font>
+okmenu_12818=<font face="Default" color="#ffffff" >好的。</font>
+okmenu_12819=<font face="Default" color="#ffffff" >你是说让我帮你打扫一下么？</font><font face="Default" color="#ffffff" >（哑仆点点头）</font><font face="Default" color="#ffffff" >没问题！</font>
+okmenu_12820=<font face="Default" color="#ffffff" >我明白了，你是需要更多的木头来做木雕，等我一下</font>
+okmenu_12821=<font face="Default" color="#ffffff" >又到了给岑九送饭的时间么，我给你送过去你去忙别的吧。</font>
+okmenu_12822=<font face="Default" color="#ffffff" >桃花酿不多了么，我去采一些桃花回来。</font>
+okmenu_12823=<font face="Default" color="#ffffff" >又是送给张碧云大哥么？让我去吧。</font>
+okmenu_12824=<font face="Default" color="#ffffff" >真教我神功？我去给你问问，要不要得到我</font><font face="Default" color="#ffffff" >可</font><font face="Default" color="#ffffff" >不保证。</font>
+okmenu_12825=<font face="Default" color="#ffffff" >真羡慕岑九</font><font face="Default" color="#ffffff" >的口福啊！</font>
+okmenu_12826=<font face="Default" color="#ffffff" >多谢！</font>
+okmenu_12827=<font face="Default" color="#ffffff" >好的，谢谢！</font>
+okmenu_12829=<font face="Default" color="#ffffff" >多谢！</font>
+okmenu_12830=<font face="Default" color="#ffffff" >多谢！</font>
+okmenu_12831=<font face="Default" color="#ffffff" >多谢！</font>
+okmenu_12832=<font face="Default" color="#ffffff" >在下此来四月岛历经一路艰险，尚且不惧，若不见黄岛主一面，怎可就此离去</font><font face="Default" color="#ffffff" >？</font>
+okmenu_12842=<font face="Default" color="#ffffff" >多谢老伯，我以后会经常来找你聊天的。</font>
+okmenu_12843=<font face="Default" color="#ffffff" >这</font><font face="Default" color="#ffffff" >支箫是</font><font face="Default" color="#ffffff" >他给我的信物。</font>
+okmenu_12850=<font face="Default" color="#ffffff" >弟子遵命。</font>
+okmenu_12851=<font face="Default" color="#ffffff" >弟子入门之后确实未曾见到师母，不料她竟不在这岛上，却不知原因。</font>
+okmenu_12852=<font face="Default" color="#ffffff" >这……师姐……这是程媛姑娘托我带给你的梳妆盒，说是师母当年留下的。</font>
+okmenu_12853=<font face="Default" color="#ffffff" >有机会我定要认识下阿祥。</font>
+okmenu_12854=<font face="Default" color="#ffffff" >前辈放心，我定会保密的……黄师姐</font><font face="Default" color="#ffffff" >托我送来美食，</font><font face="Default" color="#ffffff" >希望前辈能早日传授她高妙武功，并能对我指点一二……</font>
+okmenu_12855=<font face="Default" color="#ffffff" >一定帮师兄送到，告辞。</font>
+okmenu_12857=<font face="Default" color="#ffffff" >好，我一定帮你带到。</font>
+okmenu_12858=<font face="Default" color="#ffffff" >桃儿送花只是希望你能开心点……</font>
+okmenu_12859=<font face="Default" color="#ffffff" >一定帮师兄带到！</font>
+okmenu_12860=<font face="Default" color="#ffffff" >姑娘息怒，这是秦师兄托我交给你的东西。</font>
+okmenu_12861=<font face="Default" color="#ffffff" >一定帮</font><font face="Default" color="#ffffff" >姑娘送到。</font>
+okmenu_12862=<font face="Default" color="#ffffff" >吴姑娘实乃</font><font face="Default" color="#ffffff" >重情重义之人。</font>
+okmenu_12865=<font face="Default" color="#ffffff" >好的</font>
+okmenu_12866=<font face="Default" color="#ffffff" >好的</font>
+okmenu_12867=<font face="Default" color="#ffffff" >好的</font>
+okmenu_12868=<font face="Default" color="#ffffff" >好的</font>
+okmenu_12869=<font face="Default" color="#ffffff" >好的</font>
+okmenu_12870=<font face="Default" color="#ffffff" >好的</font>
+okmenu_12871=<font face="Default" color="#ffffff" >好的</font>
+okmenu_12872=<font face="Default" color="#ffffff" >好的</font>
+okmenu_12873=<font face="Default" color="#ffffff" >我不管你们是谁，速速离开我四月岛，不然后果自负。</font>
+okmenu_12874=<font face="Default" color="#ffffff" >我不管你们是谁，速速离开我四月岛，不然后果自负。</font>
+okmenu_12875=<font face="Default" color="#ffffff" >师姐的手艺又精妙了！</font>
+okmenu_12876=<font face="Default" color="#ffffff" >师兄，现在我们该怎么办</font><font face="Default" color="#ffffff" >？</font>
+okmenu_12877=<font face="Default" color="#ffffff" >前辈莫非识得这琴谱？</font>
+okmenu_12878=
+okmenu_12879=<font face="Default" color="#ffffff" >乖乖跟我去见黄姑娘，我也好澄清自己。</font>
+okmenu_12880=<font face="Default" color="#ffffff" >见过岑九前辈，黄师姐托我来给前辈送饭。</font>
+okmenu_12882=<font face="Default" color="#ffffff" >师姐你受了伤，先别说话……</font><font face="Default" color="#ffffff" >师姐小心，吴滔天他过来了！</font>
+okmenu_12883=<font face="Default" color="#ffffff" >已经拿到了！</font>
+okmenu_12884=<font face="Default" color="#ffffff" >已经拿到了！</font>
+okmenu_12885=<font face="Default" color="#ffffff" >已经拿到了！</font>
+okmenu_12886=<font face="Default" color="#ffffff" >已经拿到了！</font>
+okmenu_12887=<font face="Default" color="#ffffff" >已经拿到了！</font>
+okmenu_12888=<font face="Default" color="#ffffff" >是不是这个？</font>
+okmenu_12889=<font face="Default" color="#ffffff" >是不是这个？</font>
+okmenu_12890=<font face="Default" color="#ffffff" >是不是这个？</font>
+okmenu_12891=<font face="Default" color="#ffffff" >是这本吗？</font>
+okmenu_12892=<font face="Default" color="#ffffff" >是这个药丸吗？</font>
+okmenu_12893=<font face="Default" color="#ffffff" >是这本秘籍吗？</font>
+okmenu_12894=<font face="Default" color="#ffffff" >是这本秘籍吗？</font>
+okmenu_12896=<font face="Default" color="#ffffff" >这是第一轩梁霄要我送给你的信件。</font>
+okmenu_12897=<font face="Default" color="#ffffff" >好的，师姐。</font>
+okmenu_12898=<font face="Default" color="#ffffff" >二师兄看样子是酒喝多了……算了，还是去告诉岛主吧</font>
+okmenu_12899=<font face="Default" color="#ffffff" >太谢谢三师兄了！</font>
+okmenu_12900=<font face="Default" color="#ffffff" >师兄对这星象的研究倒是颇深！</font>
+okmenu_12904=<font face="Default" color="#ffffff" >师兄请收好。</font>
+okmenu_12905=<font face="Default" color="#ffffff" >师兄请收好。</font>
+okmenu_12906=<font face="Default" color="#ffffff" >师兄请收好。</font>
+okmenu_12907=<font face="Default" color="#ffffff" >师兄</font><font face="Default" color="#ffffff" >请收好。</font>
+okmenu_12908=<font face="Default" color="#ffffff" >师兄</font><font face="Default" color="#ffffff" >请收好。</font>
+okmenu_12909=<font face="Default" color="#ffffff" >师兄</font><font face="Default" color="#ffffff" >请收好。</font>
+okmenu_12910=<font face="Default" color="#ffffff" >师姐</font><font face="Default" color="#ffffff" >请收好。</font>
+okmenu_12911=<font face="Default" color="#ffffff" >师姐</font><font face="Default" color="#ffffff" >请收好。</font>
+okmenu_12912=<font face="Default" color="#ffffff" >师姐</font><font face="Default" color="#ffffff" >请收好。</font>
+okmenu_12913=
+quest_menu_12800=<font face="Default" color="#ffffff" >音律问答</font>
+quest_menu_12801=<font face="Default" color="#ffffff" >医理问答</font>
+quest_menu_12802=<font face="Default" color="#ffffff" >岛主问答</font>
+quest_menu_12825=<font face="Default" color="#ffffff" >请出题！</font>
+quest_menu_12826=<font face="Default" color="#ffffff" >请出题！</font>
+quest_menu_12827=<font face="Default" color="#ffffff" >请出题！</font>
+quest_menu_12828=<font face="Default" color="#ffffff" >请出题！</font>
+quest_menu_12829=<font face="Default" color="#ffffff" >请出题！</font>
+quest_menu_12830=<font face="Default" color="#ffffff" >请出题！</font>
+quest_menu_12831=<font face="Default" color="#ffffff" >请出题！</font>
+quest_menu_12832=<font face="Default" color="#ffffff" >请出题！</font>
+quest_menu_12833=<font face="Default" color="#ffffff" >请出题！</font>
+quest_menu_12834=<font face="Default" color="#ffffff" >请出题！</font>
+questioninfo_12800=回答<a href="findnpc_new,school10,thd_017" style="HLStype1">程媛</a>的问题
+questioninfo_12801=回答<a href="findnpc_new,school10,thd_007" style="HLStype1">金无箴</a>的问题
+questioninfo_12802=回答<a href="findnpc_new,school10,thd_001" style="HLStype1">黄古箫</a>的问题
+questioninfo_12825=回答<a href="findnpc_new,school10,thd_007" style="HLStype1">金无箴</a>的问题
+questioninfo_12826=回答<a href="findnpc_new,school10,thd_007" style="HLStype1">金无箴</a>的问题
+questioninfo_12827=回答<a href="findnpc_new,school10,thd_007" style="HLStype1">金无箴</a>的问题
+questioninfo_12828=回答<a href="findnpc_new,school10,thd_007" style="HLStype1">金无箴</a>的问题
+questioninfo_12829=回答<a href="findnpc_new,school10,thd_007" style="HLStype1">金无箴</a>的问题
+questioninfo_12830=回答<a href="findnpc_new,school10,thd_007" style="HLStype1">金无箴</a>的问题
+questioninfo_12831=回答<a href="findnpc_new,school10,thd_007" style="HLStype1">金无箴</a>的问题
+questioninfo_12832=回答<a href="findnpc_new,school10,thd_007" style="HLStype1">金无箴</a>的问题
+questioninfo_12833=回答<a href="findnpc_new,school10,thd_007" style="HLStype1">金无箴</a>的问题
+questioninfo_12834=回答<a href="findnpc_new,school10,thd_007" style="HLStype1">金无箴</a>的问题
+specialinfo_348=四月岛共有三处桃花阵，通过任意一个桃花阵，证明自己已经熟悉了桃花阵的走法
+specialinfo_787=跟<a href="findnpc_new,school10,thd_006" style="HLStype1">岑九</a>玩牌九赢得32个铜板
+specialinfo_800=和<a href="findnpc_new,school10,thd_006" style="HLStype1">岑九</a>玩牌九获得49个铜板
+specialinfo_801=和<a href="findnpc_new,school10,thd_006" style="HLStype1">岑九</a>玩牌九赢得65个铜板
+specialinfo_802=和<a href="findnpc_new,school10,thd_006" style="HLStype1">岑九</a>玩牌九赢得73个铜板
+specialinfo_807=通关凤凰山庄地狱。
+specialinfo_808=通关和龙门客栈地狱。
+specialinfo_809=通过凤凰山庄修罗。
+specialinfo_810=通过龙门客栈修罗。
+story_12800_1=<font face="Default" color="#ffffff" >故老相传，在东海之上有座海岛，岛上满是桃树。</font>
+story_12800_2=<font face="Default" color="#ffffff" >可是</font><font face="Default" color="#ffffff" >海边之人却畏四月岛如蛇蝎，不敢近岛四十里以内</font><font face="Default" color="#ffffff" >。</font><font face="Default" color="#ffffff" >寻常</font><font face="Default" color="#ffffff" >船家舟子，只是听到</font><font face="Default" color="#ffffff" >四月岛</font><font face="Default" color="#ffffff" >三字</font><font face="Default" color="#ffffff" >，任凭</font><font face="Default" color="#ffffff" >你</font><font face="Default" color="#ffffff" >出多少金钱</font><font face="Default" color="#ffffff" >也不敢去</font><font face="Default" color="#ffffff" >。</font>
+story_12800_3=<font face="Default" color="#ffffff" >也有说</font><font face="Default" color="#ffffff" >上四月岛的人都不知端由地迷失了方向，结果就被恶魔捉去割了舌头、刺聋耳朵百般折磨，还有人说岛上恶魔攻克不眨眼，最爱挖人心肝肺肠。
+story_12800_4=<font face="Default" color="#ffffff" >但近年来，时有天赋异禀、性情不羁的武林才俊从东海而来，自称是第一轩弟子。只要有第一轩弟子在江湖上被人无故欺凌，就会受到第一轩所有门人的追击报复。第一轩弟子行事轻狂，不拘泥礼法，蔑视沽名钓誉的大侠，却也将作奸犯科的恶人捉到岛上刺耳割舌，充当仆人。这一切种种，让武林中的宵小之徒闻“第一轩”之名而色变，而名门大派见到第一轩弟子也大多会礼让三分。</font>
+story_12801_1=<font face="Default" color="#ffffff" >本是大明开国功臣李善长的义孙女,却逢不幸，每次想起，不免叹息。</font>
+story_12801_2=<font face="Default" color="#ffffff" >胡惟庸一案，我爷爷李善长受到牵连，全家七十余人被处死，我因和奶娘出远门而幸免于难</font><font face="Default" color="#ffffff" >。</font>
+story_12802_1=<font face="Default" color="#ffffff" >很久以前，</font><font face="Default" color="#ffffff" >本村是叫桃源村的。</font><font face="Default" color="#ffffff" >一个冒充水神“河伯”的水匪每年都要带着一群打手来村子周遭，逼着方圆数十里的村民们给他进贡，还得献上童女一名，不然就要灭全村人的命。</font>
+story_12802_2=<font face="Default" color="#ffffff" >开始大家都抗拒，可是那</font><font face="Default" color="#ffffff" >个带头的河伯武艺高强</font><font face="Default" color="#ffffff" >，</font><font face="Default" color="#ffffff" >下手狠毒，他们又行踪不定</font><font face="Default" color="#ffffff" >，官府也没辙，大家便也只好逆来顺受</font>
+story_12802_3=<font face="Default" color="#ffffff" >几年前，一位武林高手来制服了河伯，救了全村人性命。但那高人认为</font><font face="Default" color="#ffffff" >桃源村与四月岛名称犯冲，便将本村改为了碧螺村</font><font face="Default" color="#ffffff" >。</font>
+story_12802_4=<font face="Default" color="#ffffff" >少侠</font><font face="Default" color="#ffffff" >角对</font><font face="Default" color="#ffffff" >本村</font><font face="Default" color="#ffffff" >有恩，本应倾力帮助，但去东海四月岛水势凶险，村子里</font><font face="Default" color="#ffffff" >的</font><font face="Default" color="#ffffff" >张三早年受过第一轩主恩惠，</font><font face="Default" color="#ffffff" >识得路径，更兼驾船的本领高超</font><font face="Default" color="#ffffff" >。但这人脾气古怪之极，恐怕</font><font face="Default" color="#ffffff" >不会轻易相助</font><font face="Default" color="#ffffff" >。</font>
+story_12803_1=<font face="Default" color="#ffffff" >多年前，</font><font face="Default" color="#ffffff" >江湖</font><font face="Default" color="#ffffff" >上曾有“</font><font face="Default" color="#ffffff" >十大琴师</font><font face="Default" color="#ffffff" >”</font><font face="Default" color="#ffffff" >之</font><font face="Default" color="#ffffff" >说</font><font face="Default" color="#ffffff" >，</font><font face="Default" color="#ffffff" >他们个个精通音律之道，且武功超绝。</font>
+story_12803_2=<font face="Default" color="#ffffff" >呵呵，老朽也算是其中之一，而这琴曲便是出自我手。老朽渐渐厌倦了武林中的明争暗斗，后遇第一轩黄岛主，引为知己，退隐江湖后，便终日在此垂钓守望，也算是报答</font><font face="Default" color="#ffffff" >黄岛主</font><font face="Default" color="#ffffff" >当初的知遇之恩吧。</font>
+story_12810_1=<font face="Default" color="#ffffff" >    </font><font face="Default" color="#ffffff" >瞧你慌张前来，不知所为何事？</font>
+story_12810_2=<font face="Default" color="#ffffff" >    蒙面人？江湖中流言可畏，都传四月岛上有诸般宝藏，结果引来了无数高手前来打探，桃花阵虽然高妙，但未必能完全阻拦那些野心勃勃的高手。</font>
+story_12810_3=<font face="Default" color="#ffffff" >    此事确实奇怪……你可知这些年江湖上崛起了一股庞大的黑暗势力？据传这个组织代号“密宗”兴风作浪、诛除异己，雪山圣域被灭门便与不肯归顺有关。但四月岛并非寻常地方，即使是密宗，亦难轻易染指。</font>
+story_12810_4=<font face="Default" color="#ffffff" >    最近东海之上，海盗格外猖獗，那称霸海上多年、有“海龙王”之称的“海龙帮”首领吴滔天更是恶贯满盈，最近甚至常在四月岛左近海域出没，老夫已让李涵秋和张碧云留意打探此事。</font>
+story_12810_5=<font face="Default" color="#ffffff" >    老夫不太相信吴滔天手下有只身闯进四月岛的能人，哎，我担心的是祸起萧墙啊……</font>
+story_12810_6=<font face="Default" color="#ffffff" >    </font><font face="Default" color="#ffffff" >第一轩武功通神、逍遥傲物，希望你不要贪功躁进，时候到了自然会知晓其中精义。你可去请教众师兄师姐，尤其是四师兄秦玄雷武学天赋极高，向他请教或可多些体会。另外，希望你在学习武功杂学之余，能协助大师姐李涵秋和二师兄张碧云惩治海寇恶人，并将其刺耳割舌带回岛上充作仆役。如若恶人抗拒，直接了结其性命也未尝不可。</font>
+story_12811_1=<font face="Default" color="#ffffff" >    昔年江湖上曾传出消息，姐姐的师父红枫婆婆因得到《九阴真经》秘籍</font><font face="Default" color="#ffffff" >，而</font><font face="Default" color="#ffffff" >被</font><font face="Default" color="#ffffff" >垂涎此物的</font><font face="Default" color="#ffffff" >黑白两道围困于泰山之巅，姐姐欲迅速前往救援，而姐夫却不同意，还因此起了争执。</font>
+story_12811_2=<font face="Default" color="#ffffff" >    原因有三，其一，姐夫认为有关《九阴真经》的假消息一直在江湖上频传，此消息也未必是真，或许这正是对第一轩别有所图之人引自己离开，女儿黄灵枢刚满月正需要贴身照顾，不可贸然离岛</font><font face="Default" color="#ffffff" >……</font>
+story_12811_3=<font face="Default" color="#ffffff" >    其二，姐夫本就觉得那红枫婆婆每次杀了恶人都还要在其身上摆一片血红的枫叶故作姿态，是平生最讨厌的自诩侠义、沽名钓誉之人，不愿抽身前往；其三，他与武林高手岑九有比武之约在先，且日期将到，不愿离开第一轩失信。</font>
+story_12811_4=<font face="Default" color="#ffffff" >    结果，一向恩爱有加的姐夫姐姐第一次有了分歧，挂念师父安危的姐姐选择不告而别，想想那时灵儿刚刚满月，尚在襁褓之中，姐姐因是赶赴险地并未带女儿，可自她孤身离岛之后，变得音讯全无、生死未卜</font><font face="Default" color="#ffffff" >……</font>
+story_12811_5=<font face="Default" color="#ffffff" >    而我当时年纪尚轻，那时出岛搜集音律古籍，等再回到四月岛时，所见却是一番萧索光景，我不忍留下外甥女灵儿在孤独中长大，而姐姐久久难觅其踪，便留在四月岛协助姐夫将灵儿抚养成人。</font>
+story_12811_6=<font face="Default" color="#ffffff" >    我们多年以来一直寻访姐姐踪迹，可惜</font><font face="Default" color="#ffffff" >并无</font><font face="Default" color="#ffffff" >成果。江湖上很多人说，那时黑白两道在泰山之巅被无数神秘人埋伏偷袭，死伤惨重，且未留下活口，但其后未过多久，泰山之巅所留下的惨状竟已被收拾得干干净净。姐夫他多年来内心深藏失去姐姐的悲痛之情，性格在超然傲世外又不免多了几分邪气。</font>
+story_12812_1=<font face="Default" color="#ffffff" >    哎，但愿母亲她依旧安好……</font><font face="Default" color="#ffffff" >不知你可还有其它事情？</font>
+story_12812_2=<font face="Default" color="#ffffff" >    那你可真是问错人了，</font><font face="Default" color="#ffffff" >你师姐我在所有第一轩弟子里武功只能算得上末流。</font>
+story_12812_3=<font face="Default" color="#ffffff" >    怎么，难道你不信？爹爹他怕我学了太高明的功夫后到处作乱，不肯过早传授，后来我就做好吃的，求清音洞的岑九叔叔教自己功夫，但被爹爹知道后责骂，我还因此负气离家出走过呢</font><font face="Default" color="#ffffff" >！</font>
+story_12812_4=<font face="Default" color="#ffffff" >    想不到，你倒是我的知己，呵呵，这样吧，相信你也不是那种乱嚼舌头的人，不如你帮我给清音洞的岑九叔叔送次饭吧！或许他一时高兴了还能指点你几招，但你可得避开那附近路上的哑仆和巡逻弟子，因为四月岛的清音洞和埋香冢，未经爹爹许可走近的话是</font><font face="Default" color="#ffffff" >会</font><font face="Default" color="#ffffff" >被罚的！</font>
+story_12812_5=<font face="Default" color="#ffffff" >    不错，当年岑九与爹爹赴约比武，岑九这家伙只痴迷武学，对于儿女之情很是厌烦，知道娘亲离岛后甚至拍手称快，被爹爹一怒之下打断双腿关在清音洞，然后每日用内力吹出箫声折磨他，却又让哑仆按时</font><font face="Default" color="#ffffff" >送饭</font><font face="Default" color="#ffffff" >给</font><font face="Default" color="#ffffff" >他</font><font face="Default" color="#ffffff" >吃。</font>
+story_12813_1=<font face="Default" color="#ffffff" >    哎，瞧你这伤受的……习武虽然重要也要注意轻重，别把身体毁了，这功夫越高越容易伤人，所以</font><font face="Default" color="#ffffff" >我</font><font face="Default" color="#ffffff" >只醉心于医卜星相等杂学。</font>
+story_12813_2=<font face="Default" color="#ffffff" >   </font><font face="Default" color="#ffffff" >好了，所幸你伤得不重。对了，</font><font face="Default" color="#ffffff" >你来了已有一段时间，或许已知道，岛上有个女孩叫“桃儿”。</font>
+story_12813_3=<font face="Default" color="#ffffff" >    她因为受过重大刺激而失忆，明明是个二十多岁的姑娘，却只有小女孩的心智，常被人称作“傻姑”。</font>
+story_12813_4=<font face="Default" color="#ffffff" >    对于此事，我所知并不多，只知道师父云游天下时看到桃儿被一群坏孩子欺负，心下不忍，便将其带回四月岛，还传授了她一些简单武艺，师父说桃儿身世不简单，嘱托大家一定要好好照顾。</font>
+story_12813_5=<font face="Default" color="#ffffff" >    这些年来，我一直在想能医好她的方法，苦的汤药桃会儿闹脾气不喝，最近我倒是研制了一些口味比较甘甜的药剂，但还缺上好的蜂蜜。师兄还要配药，你且帮我取来，小心别被四月岛上的蜜蜂蛰到。</font>
+story_12814_1=<font face="Default" color="#ffffff" >   </font><font face="Default" color="#ffffff" > </font><font face="Default" color="#8fd6ef" >（阿祥身上传来一阵阵怪异的气味，像是些跌打损伤后涂抹的药物……就像是……像是与我交手的蒙面人身上传来的味道！）</font>
+story_12814_2=<font face="Default" color="#ffffff" >    </font><font face="Default" color="#8fd6ef" >（阿祥神色间的惊疑一闪而逝，并用手势说明自己是做活不小心弄伤的，不用担心……）</font>
+story_12814_3=<font face="Default" color="#ffffff" >    </font><font face="Default" color="#8fd6ef" >（阿祥用手势说明如果没特别的事情就只在这附近做事……）</font>
+story_12816_1=<font face="Default" color="#ffffff" >    </font><font face="Default" color="#ffffff" >你武功底子不错，不过尚需勤学苦练。</font>
+story_12816_2=<font face="Default" color="#ffffff" >    你不必懊恼，我不像其他师兄、师姐有那么多爱好，自己唯一的爱好就是习武，武功练得高些也正常得很，但比起师父还是远远不及的，能被各方面学问都是天才的师父收留已算是</font><font face="Default" color="#ffffff" >我</font><font face="Default" color="#ffffff" >极大的运气。</font>
+story_12816_3=<font face="Default" color="#ffffff" >    自己刚开始练武时，喜欢用各种兵刃做为武器，到最后却发现这些利器反倒都是累赘，世上最厉害的武器就是自己的拳脚</font><font face="Default" color="#ffffff" >！现在虽然仍喜欢玩耍收集兵器，却在大阵仗时弃之不用。</font>
+story_12818_1=<font face="Default" color="#ffffff" >    你便是新来的弟子么？师父曾交代要好好关照你。</font>
+story_12818_2=<font face="Default" color="#ffffff" >    我初步探查了一番，这次来四月岛附近的贼人绝非寻常海盗可比，他们秩序井然，背后定有一个强有力的领导者，恐怕师父所料不错，</font><font face="Default" color="#ffffff" >带头的</font><font face="Default" color="#ffffff" >正是有“海龙王”之称的海龙帮帮主吴滔天。</font>
+story_12818_3=<font face="Default" color="#ffffff" >    这些宵小想染指四月岛这片净土终究痴心妄想，武之一道，本就是为了驱除奸恶而存在！</font>
+story_12819_1=<font face="Default" color="#ffffff" >    呵呵，你功夫底子不错，假以时日，必会成为江湖上的一枝独秀。</font>
+story_12819_2=<font face="Default" color="#ffffff" >    那吴滔天是这些年来极为嚣张的海盗魁首，平日里打劫过往商船，骚扰沿海居民，并扬言朱棣是陆上皇帝，自己却是海上霸王，连官府围剿几次都拿他没有丝毫办法。</font>
+story_12819_3=<font face="Default" color="#ffffff" >    那些所谓的江湖好汉怎么样，我懒得管。至于四月岛，虽然</font><font face="Default" color="#ffffff" >我们以</font><font face="Default" color="#ffffff" >超然绝世</font><font face="Default" color="#ffffff" >的姿态自居</font><font face="Default" color="#ffffff" >，</font><font face="Default" color="#ffffff" >但</font><font face="Default" color="#ffffff" >对于家门口的恶人还是应该先下手为强，希望你能去请示下大师姐的意见。</font>
+story_12820_1=<font face="Default" color="#ffffff" >    哎，大师姐她心情忽然变得很是失落，应该是又想起往事了……官府涉入擒拿海盗一事看来虽好，但这些官兵道德低下，怕是引起了师姐的回忆与仇恨</font><font face="Default" color="#ffffff" >……</font>
+story_12820_2=<font face="Default" color="#ffffff" >    大师姐本是大明开国功臣李善长的义孙女，在其幼时，因李善长被胡惟庸一案牵连，全家七十余人被处死，师姐因和奶娘出远门而幸免遇难，后被官兵追杀</font><font face="Default" color="#ffffff" >。</font>
+story_12820_3=<font face="Default" color="#ffffff" >    奶娘为了护其周全而身受重伤，师姐在危急之下仍不肯撇下奶娘独自逃生，</font><font face="Default" color="#ffffff" >师父</font><font face="Default" color="#ffffff" >在危机之际救了尚是幼女的师姐，见其性格颇有巾帼风范，又心思聪颖，将其收为弟子……</font>
+story_12820_4=<font face="Default" color="#ffffff" >    但师姐奶娘在师父医术之下，依然伤重不治而死，成为师父平生的一段恨事。多年之后，大师姐很快成为人人称赞的女中豪杰，但</font><font face="Default" color="#ffffff" >她</font><font face="Default" color="#ffffff" >对昏暗的朝廷当年所做恶事依然恨之入骨，现在她一见到言行恶劣的官兵便会大发脾气。</font>
+story_12821_1=<font face="Default" color="#ffffff" >少林寺玄怀方丈与我乃知交好友，他精通佛法，心怀慈悲，你可找他一叙，如果你心够诚，或可洗清一身杀孽，重新做人。</font>
+story_12861_1=<font face="Default" color="#ffffff" >    这是……他还是这么贴心……我先前对你脾气不好，实在抱歉。</font><font face="Default" color="#ffffff" >你可愿听听我们的故事么？</font>
+story_12861_2=<font face="Default" color="#ffffff" >    雷哥他本是世家公子，自幼习武成痴，还四处找人比武，加上他生性倨傲，</font><font face="Default" color="#ffffff" >便</font><font face="Default" color="#ffffff" >得罪了很多人，不但结义兄弟被仇家所杀，最终还被仇家寻入家中烧杀抢掠，连累了无数家人。</font>
+story_12861_3=<font face="Default" color="#ffffff" >    被赶出家族后，雷哥执意要上四月岛拜师，要为结义兄弟和死去家人报复。</font><font face="Default" color="#ffffff" >我与其相恋多年，其</font><font face="Default" color="#ffffff" >为求武道极致</font><font face="Default" color="#ffffff" >狠心离开</font><font face="Default" color="#ffffff" >。初时黄古萧对其拒而不见，在一番辛苦磨砺之后，终于被收为弟子。</font>
+story_12861_4=<font face="Default" color="#ffffff" >    入门许久之后，雷哥曾寄出一封信给我，说他与师兄师姐相处并不算融洽，后又发现被关押在岛的岑九，因为武学上的追求颇为相似，而一见如故，只是碍于师父威严，未和他结为兄弟。</font>
+story_12861_5=<font face="Default" color="#ffffff" >    他信中还说，艺未成时，不愿出岛与我相见。而我也是天性倔强之人，如今费尽周折寻到四月岛上，还险些丢了性命。</font><font face="Default" color="#ffffff" >雷哥他</font><font face="Default" color="#ffffff" >现在不愿见</font><font face="Default" color="#ffffff" >我</font><font face="Default" color="#ffffff" >，</font><font face="Default" color="#ffffff" >我虽然</font><font face="Default" color="#ffffff" >伤心</font><font face="Default" color="#ffffff" >，但对他也很是</font><font face="Default" color="#ffffff" >理解。</font>
+story_12862_1=<font face="Default" color="#ffffff" >     听大家说来了个不错的新弟子，想必就是你了。</font><font face="Default" color="#ffffff" >第一轩弟子大都逍遥不羁，但也不要忘了同门之间相互尊重，除了修炼武功，也莫要荒废了天文地理、医卜星相音律等杂学的学习。</font>
+story_12862_2=<font face="Default" color="#ffffff" >    四月轩可谓是东海上的一颗明珠，岛上美丽景色甚多，出了门派居住区域，东南有弹指峰，西北有两忘峰，西南有大佛岩，若无要事，这些地方你都可去走走看看。</font>
+story_12862_3=<font face="Default" color="#ffffff" >    第一轩武学练到深处，几可通神，你可向师父他老人家请教其中的奥妙</font><font face="Default" color="#ffffff" >精义所在</font><font face="Default" color="#ffffff" >。</font>
+story_menu_12800=<font face="Default" color="#ffffff" >请告诉我第一轩的事</font>
+story_menu_12801=<font face="Default" color="#ffffff" >师姐，怎么了，又想起往事了么。</font>
+story_menu_12802=<font face="Default" color="#ffffff" >请告诉我有关第一轩的事</font>
+story_menu_12803=<font face="Default" color="#ffffff" >十大琴师</font>
+story_menu_12810=<font face="Default" color="#ffffff" >第一轩的形势</font>
+story_menu_12811=<font face="Default" color="#ffffff" >昔年往事</font>
+story_menu_12812=<font face="Default" color="#ffffff" >古怪高手</font>
+story_menu_12813=<font face="Default" color="#ffffff" >傻姑桃儿</font>
+story_menu_12814=<font face="Default" color="#ffffff" >可疑的阿祥</font>
+story_menu_12816=<font face="Default" color="#ffffff" >武学</font><font face="Default" color="#ffffff" >之</font><font face="Default" color="#ffffff" >道</font>
+story_menu_12818=<font face="Default" color="#ffffff" >惩奸除恶</font>
+story_menu_12819=<font face="Default" color="#ffffff" >除恶之际</font>
+story_menu_12820=<font face="Default" color="#ffffff" >李涵秋的过往</font>
+story_menu_12821=<font face="Default" color="#ffffff" >请教道长可有什么方法可以减轻在下的杀孽？</font>
+story_menu_12861=<font face="Default" color="#ffffff" >情义两难</font>
+story_menu_12862=<font face="Default" color="#ffffff" >拜见大师姐</font>
+storyinfo_12800=向戏班老板<a href="findnpc_new,city02,thd_018" style="HLStype1">姚成</a>打听第一轩的传言
+storyinfo_12801=听<a href="findnpc_new,school10,thd_003" style="HLStype1">李涵秋</a>诉说
+storyinfo_12802=听<a href="findnpc_new,city02,thd_011" style="HLStype1">马霍霍</a>说碧螺村与第一轩的故事
+storyinfo_12803=听<a href="findnpc_new,school10,thd_019" style="HLStype1">垂钓翁</a>的故事
+storyinfo_12810=将发现黑衣人的事告诉<a href="findnpc_new,school10,thd_001" style="HLStype1">黄古箫</a>
+storyinfo_12811=听<a href="findnpc_new,school10,thd_017" style="HLStype1">程媛</a>诉说昔年往事
+storyinfo_12812=听<a href="findnpc_new,school10,thd_002" style="HLStype1">黄灵枢</a>诉说岛上怪人岑九的事
+storyinfo_12813=面见三师兄<a href="findnpc_new,school10,thd_007" style="HLStype1">金无箴</a>
+storyinfo_12814=听<a href="findnpc_new,school10,thd_008" style="HLStype1">阿祥</a>诉说
+storyinfo_12815=听<a href="findnpc_new,school10,thd_009" style="HLStype1">秦玄雷</a>诉说
+storyinfo_12816=听<a href="findnpc_new,school10,thd_009" style="HLStype1">秦玄雷</a>讲述对武学的理解
+storyinfo_12817=听<a href="findnpc_new,school10,thd_009" style="HLStype1">秦玄雷</a>诉说
+storyinfo_12818=前去找二师兄<a href="findnpc_new,school10,thd_005" style="HLStype1">张碧云</a>商量惩治恶人一事
+storyinfo_12819=听<a href="findnpc_new,school10,thd_005" style="HLStype1">张碧云</a>诉说海上巨恶吴滔天之事
+storyinfo_12820=听<a href="findnpc_new,school10,thd_039" style="HLStype1">张碧云</a>诉说李涵秋的过往
+storyinfo_12821=向<a href="findnpc_new,city03,WorldNpc_shensuan" style="HLStype1">灵虚</a>询问解脱之道
+storyinfo_12861=听<a href="findnpc_new,school10,thd_035" style="HLStype1">吴娅彤</a>诉说与秦师兄的往事
+storyinfo_12862=听大师姐<a href="findnpc_new,school10,thd_003" style="HLStype1">李涵秋</a>说第一轩门派概况
+storymenu_12800_1=<font face="Default" color="#ffffff" >然后呢？</font>
+storymenu_12800_2=<font face="Default" color="#ffffff" >然后呢？</font>
+storymenu_12800_3=<font face="Default" color="#ffffff" >然后呢？</font>
+storymenu_12800_4=<font face="Default" color="#ffffff" >然后呢？</font>
+storymenu_12801_1=<font face="Default" color="#ffffff" >什么，</font><font face="Default" color="#ffffff" >师姐</font><font face="Default" color="#ffffff" >竟然是功臣之后？到底发生了什么后来。</font>
+storymenu_12801_2=<font face="Default" color="#ffffff" >原来师姐经历这么多……</font>
+storymenu_12802_1=<font face="Default" color="#ffffff" >然后呢？</font>
+storymenu_12802_2=<font face="Default" color="#ffffff" >然后呢？</font>
+storymenu_12802_3=<font face="Default" color="#ffffff" >这是那位高人怕名字里都带了桃字，会为你</font><font face="Default" color="#ffffff" >们</font><font face="Default" color="#ffffff" >带来无穷无尽的烦恼。</font>
+storymenu_12802_4=<font face="Default" color="#ffffff" >好的，我知道了。</font>
+storymenu_12803_1=<font face="Default" color="#ffffff" >想必前辈也是这“十大琴师”之一。</font>
+storymenu_12803_2=<font face="Default" color="#ffffff" >原来老伯也</font><font face="Default" color="#ffffff" >曾</font><font face="Default" color="#ffffff" >是江湖中人。</font>
+storymenu_12810_1=<font face="Default" color="#ffffff" >弟子在岛上发现可疑蒙面人，却因武功不济，未能将其擒获。</font>
+storymenu_12810_2=<font face="Default" color="#ffffff" >弟子只觉这蒙面人身法奇快，武功高出我甚多，但事到临头却并未对我下毒手，很是奇怪……</font>
+storymenu_12810_3=<font face="Default" color="#ffffff" >弟子对这“密宗”略有耳闻，是否还有其他人有嫌疑来第一轩呢？</font>
+storymenu_12810_4=<font face="Default" color="#ffffff" >那蒙面人莫非正是“海龙王”吴滔天派来的探子？</font>
+storymenu_12810_5=<font face="Default" color="#8fd6ef" >（师父莫非是说岛上或有内奸？）</font><font face="Default" color="#ffffff" >弟子除了禀报此事，还是来向师父请教第一轩武功的精义。</font>
+storymenu_12810_6=<font face="Default" color="#ffffff" >师父所言甚是，弟子定铭记心间！</font>
+storymenu_12811_1=<font face="Default" color="#ffffff" >不知师父为何不允？</font>
+storymenu_12811_2=<font face="Default" color="#ffffff" >师父考虑得也有道理。</font>
+storymenu_12811_3=<font face="Default" color="#ffffff" >此事当真让人为难……</font>
+storymenu_12811_4=<font face="Default" color="#ffffff" >但愿师母她能平安无恙……</font>
+storymenu_12811_5=<font face="Default" color="#ffffff" >原来如此，不知那泰山之巅一事可否属实？</font>
+storymenu_12811_6=<font face="Default" color="#ffffff" >程姑娘真可谓是师父的知己，谢谢你给我讲了这么昔日之事，不知姑娘对第一轩武学是否有独到见解？</font>
+storymenu_12812_1=<font face="Default" color="#ffffff" >我想向师姐请教第一轩武学的精义。</font>
+storymenu_12812_2=<font face="Default" color="#8fd6ef" >（奇怪，师姐贵为岛主之女，此话未免过谦……）</font>
+storymenu_12812_3=<font face="Default" color="#ffffff" >我想，师姐学高明功夫，定是为了早点闯荡江湖，</font><font face="Default" color="#ffffff" >以</font><font face="Default" color="#ffffff" >寻找娘亲下落……</font>
+storymenu_12812_4=<font face="Default" color="#ffffff" >想必这</font><font face="Default" color="#ffffff" >定有一番缘故……</font>
+storymenu_12812_5=<font face="Default" color="#ffffff" >说到哑仆，师父他命我协助师兄师姐捉来恶人，</font><font face="Default" color="#ffffff" >而后</font><font face="Default" color="#ffffff" >刺耳割舌充当仆人，岛上这些哑仆过去可否都是大奸大恶之人？</font>
+storymenu_12813_1=<font face="Default" color="#ffffff" >师兄所言不错，但人各有志，亦不能强求。</font>
+storymenu_12813_2=<font face="Default" color="#ffffff" >我</font><font face="Default" color="#ffffff" >确实有些印象。</font>
+storymenu_12813_3=<font face="Default" color="#ffffff" >却不知因何致此？</font>
+storymenu_12813_4=<font face="Default" color="#ffffff" >希望桃儿姑娘能早日恢复记忆。</font>
+storymenu_12813_5=<font face="Default" color="#ffffff" >师兄放心，我去去就来。</font>
+storymenu_12814_1=<font face="Default" color="#ffffff" >阿祥，你是怎么受伤的，可否要紧？我还是去找</font><font face="Default" color="#ffffff" >金</font><font face="Default" color="#ffffff" >师兄拿点伤药给</font><font face="Default" color="#ffffff" >你吧！</font>
+storymenu_12814_2=<font face="Default" color="#ffffff" >不知你</font><font face="Default" color="#ffffff" >平时</font><font face="Default" color="#ffffff" >都</font><font face="Default" color="#ffffff" >在岛上哪里活动</font><font face="Default" color="#ffffff" >？</font>
+storymenu_12814_3=<font face="Default" color="#ffffff" >    </font><font face="Default" color="#8fd6ef" >（那蒙面人是否与阿祥有关呢？但我若是随随便便怀疑一个好人，是不是有点小人之心……）</font><font face="Default" color="#ffffff" >阿祥，我先走一步。</font>
+storymenu_12816_1=<font face="Default" color="#ffffff" >与师兄相较，当真是云泥之别……</font>
+storymenu_12816_2=<font face="Default" color="#ffffff" >师兄说的是，不知师兄擅使何种兵刃？</font>
+storymenu_12816_3=<font face="Default" color="#ffffff" >师兄境界或已到返璞归真呢！</font>
+storymenu_12818_1=<font face="Default" color="#ffffff" >多谢师兄，师父命我协助二师兄和大师姐惩治</font><font face="Default" color="#ffffff" >滋扰四月岛周围海域的</font><font face="Default" color="#ffffff" >恶人，并刺耳割舌带回岛上。</font>
+storymenu_12818_2=<font face="Default" color="#ffffff" >这海龙帮在附近小岛驻扎，莫非要针对第一轩不成？</font>
+storymenu_12818_3=<font face="Default" color="#ffffff" >师兄真是豪气干云，</font><font face="Default" color="#ffffff" >望师兄日后能多多指导。</font>
+storymenu_12819_1=<font face="Default" color="#ffffff" >师兄若使出全力，我必毫无还手之力。依师兄看来，我们该如何惩治离第一轩不远的奸恶之徒？</font>
+storymenu_12819_2=<font face="Default" color="#ffffff" >难道</font><font face="Default" color="#ffffff" >江湖上的好汉</font><font face="Default" color="#ffffff" >就任由其作恶么？</font>
+storymenu_12819_3=<font face="Default" color="#ffffff" >师兄放心，我这就去。</font>
+storymenu_12820_1=<font face="Default" color="#ffffff" >愿闻师兄</font><font face="Default" color="#ffffff" >讲述。</font>
+storymenu_12820_2=<font face="Default" color="#ffffff" >哎，所谓“鸟尽弓藏，兔死狗烹”</font><font face="Default" color="#ffffff" >……</font><font face="Default" color="#ffffff" >不知后来如何？</font>
+storymenu_12820_3=<font face="Default" color="#ffffff" >师姐不愧是女中豪杰，自小便能如此，实属难得。</font>
+storymenu_12820_4=<font face="Default" color="#ffffff" >原来事情如此，这也怨不得师姐下手重了。</font>
+storymenu_12821_1=<font face="Default" color="#ffffff" >多谢道长指点，今日之恩在下没齿难忘。</font>
+storymenu_12861_1=<font face="Default" color="#ffffff" >姑娘但说无妨。</font>
+storymenu_12861_2=<font face="Default" color="#8fd6ef" >（想不到秦师兄竟有此悲惨过往，难怪他会给人既冷傲又坚毅的感觉……）</font>
+storymenu_12861_3=<font face="Default" color="#ffffff" >在这之后秦师兄与姑娘没再联系么？</font>
+storymenu_12861_4=<font face="Default" color="#ffffff" >那岑九前辈也曾提过秦师兄武艺高强，与他很是投机。</font>
+storymenu_12861_5=<font face="Default" color="#ffffff" >姑娘实乃敢爱敢恨之人。</font>
+storymenu_12862_1=<font face="Default" color="#ffffff" >大师姐所言，我必谨记在心。</font>
+storymenu_12862_2=<font face="Default" color="#ffffff" >在下入门这一路上早已因岛上美景心旷神怡。</font>
+storymenu_12862_3=<font face="Default" color="#ffffff" >大师姐告辞，我这就去拜见师父。</font>
+useiteminfo_12800=和<a href="findnpc_new,school10,thd_005" style="HLStype1">张碧云</a>一起饮掉这<a href="TASK_ITEM,useitem_thd_cc001" style="HLStype1">一坛酒</a>
+useiteminfo_12801=用<a href="TASK_ITEM,useitem_thd_cc003" style="HLStype1">装满水的桶</a>给李涵秋的<a href="findnpc_new,school10,thd_022" style="HLStype1">花</a>浇水
+useiteminfo_12802=用<a href="TASK_ITEM,useitem_thd_cc002" style="HLStype1">铲子</a>给李涵秋的<a href="findnpc_new,school10,thd_022" style="HLStype1">花</a>除草
+useiteminfo_12803=用岛主给你的<a href="TASK_ITEM,useitem_thd_cc004" style="HLStype1">毛笔</a>去石刻边<a href="findnpc_new,school10,EventNpc39625" style="HLStype1">抄录碑文</a>
+useiteminfo_12804=去<a href="findnpc_new,school10,EventNpc39629" style="HLStype1">湖里</a>将<a href="TASK_ITEM,useitem_thd_cc005" style="HLStype1">木桶</a>盛满水
+useiteminfo_12805=将<a href="findnpc_new,school10,EventNpc39632" style="HLStype1">附近</a>用<a href="TASK_ITEM,useitem_thd_cc006" style="HLStype1">扫帚</a>打扫一下
+useiteminfo_12806=喂<a href="findnpc_new,school10,thd_040" style="HLStype1">段海清</a>服下<a href="TASK_ITEM,item_thd_dan" style="HLStype1">清水丹</a>
+useiteminfo_12807=使用正确的方法护理<a href="findnpc_new,school10,thd_023" style="HLStype1">花（需要照料的）</a>
+useiteminfo_12808=使用正确的方法护理<a href="findnpc_new,school10,thd_024" style="HLStype1">花（需要照料的）</a>
+useiteminfo_12809=使用正确的方法护理<a href="findnpc_new,school10,thd_022" style="HLStype1">花（需要照料的）</a>

@@ -1,0 +1,64 @@
+﻿
+DialogID_75205=<font face="Default" color="#ffffff" >此次行动还算顺利，想不到东厂和六扇门的人也来了。</font>
+DialogID_75206=<font face="Default" color="#ffffff" >不用担心，盟主并无大碍。其实这一次我们的施救行动便是他安排的，不过知悉此事之人寥寥，切莫张扬出去。</font>
+DialogID_75209=<font face="Default" color="#ff0522" >（点头，目光凝重。）</font><font face="Default" color="#ffffff" >眼下盟主府并不安全，我仍需守在盟主身边。我想拜托你去一个地方，这不但关系到你的清白，更涉及武林安危。可是我所得到的情报极少，只知这个地方叫永夜城。只是眼下我收集的情报有限，更多消息，只能靠你自己去洛阳打听了。</font>
+DialogID_75211=<font face="Default" color="#ffffff" >冥岳的具体方位我不清楚，不过冥岳</font><font face="Default" color="#ffffff" >就</font><font face="Default" color="#ffffff" >在对面的悬崖之上，我可以送你过去。</font>
+DialogID_75213=<font face="Default" color="#ffffff" >多谢</font><font face="Default" color="#ffffff" >阁下</font><font face="Default" color="#ffffff" >出手相助，不过</font><font face="Default" color="#ffffff" >……这里地处偏僻，平常不会有人路过，</font><font face="Default" color="#ffffff" >你</font><font face="Default" color="#ffffff" >……</font>
+DialogID_75214=<font face="Default" color="#f40414" >（迟疑，对你似有所防备）</font><font face="Default" color="#ffffff" >……不过阁下为何要找血心？</font>
+DialogID_75215=<font face="Default" color="#ff0010" >（神秘微笑）</font><font face="Default" color="#ffffff" >我倒是知道血心的下落，你若不怕死的话，尽管跟来！</font>
+DialogID_75218=<font face="Default" color="#f70431" >（抬手抹去嘴边血迹）</font><font face="Default" color="#ffffff" >呵，想不到莫尔风这妖女，竟然找来了这么强悍的帮手！颠覆冥岳，就差一刻，可恨！可恨！血心门人，从不讨饶，要杀要剐悉听尊便！</font>
+DialogID_75219=<font face="Default" color="#ffffff" >哼，明廷的人，过河拆桥、忘恩负义，皆是死有余辜！你动手吧！就算我今日夺派失败，血心一脉也不会覆灭！还有其他堂的兄弟，会为我报复的！</font>
+DialogID_75220=<font face="Default" color="#ff001d" >（根本不理会你，自说自话）</font><font face="Default" color="#ffffff" >呸！你不过一介蝼蚁，有何资格质问我！须知今日我并非输给了你，而是输给了“他”！“那位大人”……哼，想不到他竟然和假王爷合作，欺骗了我！</font>
+DialogID_75221=<font face="Default" color="#ffffff" >看来你不是轩辕山的人，</font><font face="Default" color="#ffffff" >之前我怀疑你是轩辕山的眼线，因此不敢完全信任你，</font><font face="Default" color="#ffffff" >所以</font><font face="Default" color="#ffffff" >将</font><font face="Default" color="#ffffff" >你</font><font face="Default" color="#ffffff" >引入</font><font face="Default" color="#ffffff" >了沼泽区，</font><font face="Default" color="#ffffff" >不得已而为之，抱歉了。</font><font face="Default" color="#ffffff" >如今我已经</font><font face="Default" color="#ffffff" >救出</font><font face="Default" color="#ffffff" >域主，域主</font><font face="Default" color="#ffffff" >要见你。</font>
+DialogID_75222=<font face="Default" color="#ffffff" >想不到本座的左掌令使竟然是血心门人，还妄想夺权光复旧宗，痴人说梦！此番我们能将计就计剿灭此贼，除了尔风之外</font><font face="Default" color="#f4041c" >（目光转向你）</font><font face="Default" color="#ffffff" >这位朋友亦是出力不少。如今本座的左掌令使一职空缺，不知你可有兴趣？</font>
+DialogID_75223=<font face="Default" color="#ffffff" >哈哈哈，朋友不必多虑，本座看重的除了阁下的一身好武功之外，更</font><font face="Default" color="#ffffff" >因为</font><font face="Default" color="#ffffff" >你并非外域人士</font><font face="Default" color="#ffffff" >，不会成为第二个轩辕山。当然本座也不会亏待了你。无论阁下为何而来，作为外域八派之一，我相信凭我们冥岳的力量，定能对你有所帮助。</font>
+hunterinfo_75201=击败<a href="findnpc_new,adv149,attack_201908yyz_01" style="HLStype1">神秘隐卫</a>（若中途离开任务场景，可以去苏州衙门找<a href="findnpc_new,city02,yyjq_second_015" style="HLStype1">捕头</a>进入剧情模式。）
+hunterinfo_75202=前往对面悬崖，正巧看到一女子遭到血心隐卫追杀，帮助女子击败<a href="findnpc_new,adv148,boss_jqyyseven_004" style="HLStype1">血心隐卫</a>（若中途离开场景，前往永夜城<a href="findnpc_new,scene32,EventNpc_yyz_201908jq_003" style="HLStype1">悬崖</a>找<a href="findnpc_new,scene32,yyjq_seven_002" style="HLStype1">守卫</a>重新进入）
+hunterinfo_75203=前往<a href="findnpc_new,adv148,EventNpc_yyz_201908jq_004" style="HLStype1">冥岳内部</a>击败<a href="findnpc_new,adv148,boss_jqyyseven_001" style="HLStype1">轩辕山</a>（若中途离开任务场景，可以去<a href="findnpc_new,adv148,EventNpc_yyz_201908jq_004" style="HLStype1">冥岳内部</a>重新进入剧情模式。）
+hunterinfo_75204=击败刺客（靠近鬼市打手，寻找杀气重的人，揭穿并且将其击败，鬼市打手分布在鬼市各个地方，请耐心寻找）
+hunterinfo_75205=击败<a href="findnpc_new,adv149,boss_jqyysecond_011" style="HLStype1">东厂高手</a>（若中途离开任务场景，可以去苏州衙门找<a href="findnpc_new,city02,yyjq_second_015" style="HLStype1">捕头</a>进入剧情模式。）
+interactinfo_75201=在水牢里发现机关，想办法开启机关（仔细阅读石碑上的文字）（若中途离开任务场景，可以去苏州衙门找<a href="findnpc_new,city02,yyjq_second_015" style="HLStype1">捕头</a>进入剧情模式。）
+interactinfo_75202=既然身处牢房，不妨向牢头打探下消息（若中途离开任务场景，可以去苏州衙门找<a href="findnpc_new,city02,yyjq_second_015" style="HLStype1">捕头</a>进入剧情模式。）
+interactinfo_75203=从狱卒那获取食物，填饱肚子（若中途离开任务场景，可以去苏州衙门找<a href="findnpc_new,city02,yyjq_second_015" style="HLStype1">捕头</a>进入剧情模式。）
+interactinfo_75204=前往<a href="findnpc_new,adv149,EventNpc_yyz_201908jq_001" style="HLStype1">典狱房</a>，与众人会和（若中途离开任务场景，可以去苏州衙门找<a href="findnpc_new,city02,yyjq_second_015" style="HLStype1">捕头</a>进入剧情模式。）
+interactinfo_75205=通过<a href="findnpc_new,adv149,yyjq_second_016" style="HLStype1">密道</a>离开地牢后，向<a href="findnpc_new,city02,yyjq_second_006" style="HLStype1">张丹栩</a>表达谢意（若中途离开任务场景，可以去苏州衙门找<a href="findnpc_new,city02,yyjq_second_015" style="HLStype1">捕头</a>进入剧情模式。）
+interactinfo_75206=向<a href="findnpc_new,city02,yyjq_second_006" style="HLStype1">张丹栩</a>询问事情真相。（若中途离开任务场景，可以去苏州衙门找<a href="findnpc_new,city02,yyjq_second_015" style="HLStype1">捕头</a>进入剧情模式。）
+interactinfo_75207=通过密道离开水牢（若中途离开任务场景，可以去苏州衙门找<a href="findnpc_new,city02,yyjq_second_015" style="HLStype1">捕头</a>进入剧情模式。）
+interactinfo_75208=在<a href="findnpc_new,adv149,EventNpc_yyz_201908jq_001" style="HLStype1">典狱房</a>协助前来劫狱的众人击败牢中守卫，然后通过<a href="findnpc_new,adv149,yyjq_second_016" style="HLStype1">密道</a>离开地牢后（若中途离开任务场景，可以去苏州衙门找<a href="findnpc_new,city02,yyjq_second_015" style="HLStype1">捕头</a>进入剧情模式。）
+interactinfo_75209=与<a href="findnpc_new,city02,yyjq_second_006" style="HLStype1">张丹栩</a>道别
+interactinfo_75210=前往<a href="findnpc_new,scene32,EventNpc_yyz_201908jq_003" style="HLStype1">悬崖</a>寻找前往冥岳的线索（可以去1585 1150附近寻找上山途径）
+interactinfo_75211=请求<a href="findnpc_new,scene32,yyjq_seven_002" style="HLStype1">守卫</a>，带你前往冥岳之地
+interactinfo_75212=与<a href="findnpc_new,," style="HLStype1"></a>交谈
+interactinfo_75213=询问<a href="findnpc_new,adv148,boss_jqyyseven_003" style="HLStype1">莫尔风</a>为何被血心隐卫追杀（若中途离开场景，前往永夜城<a href="findnpc_new,scene32,EventNpc_yyz_201908jq_003" style="HLStype1">悬崖</a>找<a href="findnpc_new,scene32,yyjq_seven_002" style="HLStype1">守卫</a>重新进入）
+interactinfo_75214=继续与<a href="findnpc_new,adv148,boss_jqyyseven_003" style="HLStype1">莫尔风</a>交谈（若中途离开场景，前往永夜城<a href="findnpc_new,scene32,EventNpc_yyz_201908jq_003" style="HLStype1">悬崖</a>找<a href="findnpc_new,scene32,yyjq_seven_002" style="HLStype1">守卫</a>重新进入）
+interactinfo_75215=向<a href="findnpc_new,adv148,boss_jqyyseven_003" style="HLStype1">莫尔风</a>打听前往冥岳的道路（若中途离开场景，前往永夜城<a href="findnpc_new,scene32,EventNpc_yyz_201908jq_003" style="HLStype1">悬崖</a>找<a href="findnpc_new,scene32,yyjq_seven_002" style="HLStype1">守卫</a>重新进入）
+interactinfo_75216=前方有块<a href="findnpc_new,adv148,EventNpc_yyz_201908jq_010" style="HLStype1">奇异的石碑</a>前往探查一下，找到进入冥岳的方法
+interactinfo_75217=通过<a href="findnpc_new,adv148,yyjq_seven_003" style="HLStype1">守门人</a>的考验
+interactinfo_75218=向<a href="findnpc_new,adv148,boss_jqyyseven_001" style="HLStype1">轩辕山</a>套问真相（若中途离开任务场景，可以去<a href="findnpc_new,adv148,EventNpc_yyz_201908jq_004" style="HLStype1">冥岳内部</a>重新进入剧情模式。）
+interactinfo_75219=逼问<a href="findnpc_new,adv148,boss_jqyyseven_001" style="HLStype1">轩辕山</a>幕后黑手的身份（若中途离开任务场景，可以去<a href="findnpc_new,adv148,EventNpc_yyz_201908jq_004" style="HLStype1">冥岳内部</a>重新进入剧情模式。）
+interactinfo_75220=继续逼问<a href="findnpc_new,adv148,boss_jqyyseven_001" style="HLStype1">轩辕山</a>（若中途离开任务场景，可以去<a href="findnpc_new,adv148,EventNpc_yyz_201908jq_004" style="HLStype1">冥岳内部</a>重新进入剧情模式。）
+interactinfo_75221=与<a href="findnpc_new,adv148,yyc_myzyb_002" style="HLStype1">莫尔风</a>交谈后，前往拜见萧桀
+interactinfo_75222=与<a href="findnpc_new,adv148,yyc_myzyb_003" style="HLStype1">萧桀</a>交谈
+interactinfo_75223=与<a href="findnpc_new,adv148,yyc_myzyb_003" style="HLStype1">萧桀</a>交谈
+interactinfo_75224=前往洛阳<a href="findnpc_new,city04,EventNpc_yyz_201908jq_005" style="HLStype1">墓地</a>祭拜泪儿爷爷
+okmenu_75205=<font face="Default" color="#ffffff" >多谢各位冒险搭救，这份恩情在下铭记在心，张兄，之前听闻盟主遇袭，不知状况如何？</font>
+okmenu_75206=<font face="Default" color="#ffffff" >听张兄所言，莫非林盟主遇袭另有隐情？</font>
+okmenu_75209=<font face="Default" color="#ffffff" >张兄的意思我明白了，我立即动身，我们就在此分别吧。</font>
+okmenu_75211=<font face="Default" color="#ffffff" >那</font><font face="Default" color="#ffffff" >多谢了。</font>
+okmenu_75213=<font face="Default" color="#ffffff" >实不相瞒，在下为寻觅血心踪迹而来！</font>
+okmenu_75214=<font face="Default" color="#f90429" >（毫不畏惧，对上她的眼）</font><font face="Default" color="#ffffff" >……追查疑案，讨回公道。</font>
+okmenu_75215=<font face="Default" color="#ffffff" >……姑娘请带路。</font>
+okmenu_75218=<font face="Default" color="#fc052a" >（原来，眼前人便是来自血心组织……目光森然）</font><font face="Default" color="#ffffff" >大明永安公主和驸马殒命燕王府，是不是你们干的好事？！</font>
+okmenu_75219=<font face="Default" color="#f70227" >（上前揪住他的衣领）</font><font face="Default" color="#ffffff" >你们为何要将杀害皇室的罪名嫁祸于我？幕后首领又是谁？说！</font>
+okmenu_75220=<font face="Default" color="#f70227" >（欲再度质问，却发现对方已服毒自尽）</font><font face="Default" color="#ffffff" >……</font>
+okmenu_75221=<font face="Default" color="#ffffff" >幸亏我</font><font face="Default" color="#ffffff" >“稀里糊涂”竟然出了沼泽区，前事不提也罢。走吧</font><font face="Default" color="#ffffff" >，随你去见域主</font><font face="Default" color="#ffffff" >。</font>
+okmenu_75222=<font face="Default" color="#f7022f" >（拱手）</font><font face="Default" color="#ffffff" >多谢域主好意，只是在下自由散漫惯了，应该不会久留于此。</font>
+okmenu_75223=<font face="Default" color="#f90717" >（明白了域主的心思，其实就是各取所需）</font><font face="Default" color="#ffffff" >既如此，恭敬不如从命。</font>
+story_75201_1=<font face="Default" color="#ff0019" >（见你现身，一愣，随即又魅惑一笑）</font><font face="Default" color="#ffffff" >呵，阁下倒是好命的很，竟然能从冥界四花区域全身而退。</font>
+story_75201_2=<font face="Default" color="#ffffff" >（拱手作揖，诚恳地道歉）对不起，先前是我不对。鄙派刚经历过一场生死存亡，不得不防。</font><font face="Default" color="#ffffff" >重新认识一下，我叫莫尔风，是冥岳域主麾下的右掌令使，你方才除去的，是我们叛乱的左掌令使轩辕山。阁下于我派有恩，请随我前去拜见域主。</font>
+story_menu_75201=<font face="Default" color="#ffffff" >姑娘，我们又见面了。</font>
+storyinfo_75201=听<a href="findnpc_new,adv148,yyc_myzyb_002" style="HLStype1">莫尔风</a>诉说
+storymenu_75201_1=<font face="Default" color="#ff001d" >（平淡道）</font><font face="Default" color="#ffffff" >在下先前助姑娘脱困，姑娘不感激便罢了，反将在下骗至毒花迷阵，又借在下之手，除去贵派敌对，这恐怕有悖恩义吧？</font>
+storymenu_75201_2=<font face="Default" color="#ffffff" >……请带路。（且随她去看看吧）</font>
+interactinfo_75225=协助毒尊者炼制毒药(<font face="Default" color="#ff0000">如果准备好以后，可以找毒尊者对话开始练毒</font>，一旦离开分组则任务失败，若要离开场景，可直接放弃任务)
+interactinfo_75226=帮助<a href="findnpc_new,adv153,Npc_yyz_jtgnnhz_001" style="HLStype1">净天宫弟子</a>摆脱走火入魔

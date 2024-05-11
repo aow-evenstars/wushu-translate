@@ -1,0 +1,586 @@
+﻿//
+// 九阴志相关
+//
+
+tips_jiuyinzhi=九阴志<br/>查看九阴历史事件进程，每当一组新的历史事件完成，高阶武学的投放随之开启
+text_jiuyinzhi_eventprogress=开启条件
+text_jiuyinzhi_eventprogress_tips=开启条件需要由玩家去完成，所有条件都完成后，新武学的投放自动开启
+text_jiuyinzhi_eventresult=完成结果
+text_jiuyinzhi_eventresult_tips=开启条件都完成后，新武学的投放自动开启
+text_jiuyinzhi_return=返回
+tips_jiuyinzhi_school_icon=率先完成门派
+jyz_completed=已完成
+jyz_not_completed=未完成
+
+//二内事件
+
+text_jiuyinzhi_sow_chapter_1_close=二内开启
+text_jiuyinzhi_sow_chapter_1_open=二内完成
+
+//进程
+ui_jiuyinzhi_sow_chapter_1_event_tips=点击进入查看二内投放开启需要完成的江湖事件
+
+ui_jiuyinzhi_sow_chapter_1_ep_1_title=<font face="font_sns_event_mid" color="#361f12" >收集锦帛</font>
+ui_jiuyinzhi_sow_chapter_1_ep_1=<font face="font_sns_list" color="#5c3317" >大量魔教高手劫走本派机要《江山锦》。全派弟子须尽快在各自门派内搜寻贼人，夺回失物，交予库房长老重新封存，方可完成任务。</font>
+ui_jiuyinzhi_sow_chapter_1_ep_1_tip=门派库房长老坐标：<br/>少林（791 384）<br/>武当（471 367）<br/>峨眉（495 158）<br/>丐帮（548 351）<br/>唐门（956 -124）<br/>君子堂（515 464）<br/>锦衣卫（385 46）<br/>极乐谷（136 -18）<br/>明教（-37 115）<br/>天山（1245 998）<br/>昆仑（-174 -465）
+
+ui_jiuyinzhi_sow_chapter_1_ep_2_title=<font face="font_sns_event_mid" color="#361f12" >摧毁密宗据点</font>
+ui_jiuyinzhi_sow_chapter_1_ep_2=<font face="font_sns_list" color="#5c3317" >密宗在本门隐秘之处设立据点接应偷盗帛图者，其中不乏绝世高手，非一人之力可敌，门派弟子需同心协力，破此据点。</font>
+ui_jiuyinzhi_sow_chapter_1_ep_2_tip=魔教据点设立在本门隐秘之处，与本门众弟子一起找到并摧毁据点（推荐玩家以团队规模进行），参与者都将获得奖励
+
+ui_jiuyinzhi_sow_chapter_1_ep_3_title=<font face="font_sns_event_mid" color="#361f12" >识破密探</font>
+ui_jiuyinzhi_sow_chapter_1_ep_3=<font face="font_sns_list" color="#5c3317" >去库房长老处领取门派暗号，在场景中搜索密探，对密宗密探使用门派暗号可识破其身份，杀之可完成任务。</font>
+ui_jiuyinzhi_sow_chapter_1_ep_3_tip=门派库房长老坐标：<br/>少林（791 384）<br/>武当（471 367）<br/>峨眉（495 158）<br/>丐帮（548 351）<br/>唐门（956 -124）<br/>君子堂（515 464）<br/>锦衣卫（385 46）<br/>极乐谷（136 -18）<br/>明教（-37 115）<br/>天山（1245 998）<br/>昆仑（-174 -465）
+
+//结果
+ui_jiuyinzhi_sow_chapter_1_er_1_title=<font face="font_sns_event_mid" color="#361f12" >二内获取方式1</font>
+ui_jiuyinzhi_sow_chapter_1_er_1_color_text=任务获取二内
+ui_jiuyinzhi_sow_chapter_1_er_1=<font face="font_sns_list" color="#5c3317" >角色</font><font face="font_sns_list" color="#bc1717" >一内达到30层</font>，<font face="font_sns_list" color="#5c3317" >可至各门派掌门处接受二内获取任务，每阶任务均需完成前一阶任务后才可接到。门派二内达到30层后，第31-36层书页无法通过任务获得，只能使用门派荣誉凭证进行兑换。</font>
+ui_jiuyinzhi_sow_chapter_1_er_1_tip=门派二内任务接取NPC<br/>少林：玄怀大师（821 417）<br/>武当：紫阳真人（478 329）<br/>峨眉：绝尘师太（489 132）<br/>丐帮：萧天放（554 339）<br/>唐门：唐门姥姥（1089 -162）<br/>君子堂：萧别情（529 457）<br/>锦衣卫：皇甫遥（352 -118）<br/>极乐谷：单天冥（81 -26）<br/>明教：明时月（-4 296）<br/>天山：白天璟（1262 918）<br/>昆仑：云阳子（-126 -545）
+
+ui_jiuyinzhi_sow_chapter_1_er_2_title=<font face="font_sns_event_mid" color="#361f12" >二内获取方式2</font>
+ui_jiuyinzhi_sow_chapter_1_er_2_color_text=凭证兑换二内
+ui_jiuyinzhi_sow_chapter_1_er_2=<font face="font_sns_list" color="#5c3317" >角色</font><font face="font_sns_list" color="#bc1717" >声望达到三万以上</font>,<font face="font_sns_list" color="#5c3317" >可与各自门派二阶内功兑换NPC对话，进行门派二阶内功书页兑换；兑换时，需确保您的包裹中有足够门派荣誉凭证。学习非本门派二内至多可学至30层，第31-36层限本门派弟子可学。</font>
+ui_jiuyinzhi_sow_chapter_1_er_2_tip=门派二内兑换NPC<br/>少林：少林传功长老（721 374）<br/>武当：武当传功长老（373 334）<br/>峨眉：峨眉传功长老（276 110）<br/>丐帮：丐帮传功长老（618 224）<br/>唐门：唐门传功长老（1067 -133）<br/>君子堂：君子堂传功长老（541 453）<br/>锦衣卫：锦衣卫传功长老（353 -126）<br/>极乐谷：极乐谷传功长老（133 41）<br/>明教：明教传功长老（-23 238）<br/>天山：天山传功长老（1272 975）<br/>昆仑：昆仑传功长老（-155 -464）
+
+ui_jiuyinzhi_sow_chapter_1_er_3_title=<font face="font_sns_event_mid" color="#361f12" >新武学投放开启</font>
+ui_jiuyinzhi_sow_chapter_1_er_3_color_text=新武学投放方式
+ui_jiuyinzhi_sow_chapter_1_er_3=<font face="font_sns_list" color="#5c3317" >二内阶段开启后，踢馆将掉落新武学。</font>
+ui_jiuyinzhi_sow_chapter_1_er_3_tip=踢馆掉落：<br/>螳螂拳（1-3）<br/>魔心连环手（1-3）<br/>夺魄勾心刺（1-3）
+
+ui_jiuyinzhi_sow_chapter_1_er_4_title=<font face="font_sns_event_mid" color="#361f12" >禁地开启</font>
+ui_jiuyinzhi_sow_chapter_1_er_4_color_text=江湖禁地开启说明
+ui_jiuyinzhi_sow_chapter_1_er_4=<font face="font_sns_list" color="#5c3317" >九阴志二内阶段完成后，达到相应实力的玩家可挑战以下江湖禁地：</font><br/><font face="font_sns_list" color="#5c3317" >通天峰</font><br/><font face="font_sns_list" color="#5c3317" >青云堡·序章</font><br/><font face="font_sns_list" color="#5c3317" >龙门客栈·金怀玉线</font><br/><font face="font_sns_list" color="#5c3317" >青云堡</font>
+ui_jiuyinzhi_sow_chapter_1_er_4_tip=可挑战禁地及对应实力：<br/>通天峰1-20层（神乎其技-内功点数36点）<br/>青云堡·序章（神乎其技-内功点数36点）<br/>龙门客栈·金怀玉线（出神入化-内功点数46点）<br/>青云堡（登峰造极-内功点数56点）
+
+
+//三内事件
+
+text_jiuyinzhi_sow_chapter_2_close=三内开启
+text_jiuyinzhi_sow_chapter_2_open=三内完成
+
+//进程
+ui_jiuyinzhi_sow_chapter_2_event_tips=点击进入查看三内投放开启需要完成的江湖事件
+
+ui_jiuyinzhi_sow_chapter_2_ep_1_title=<font face="font_sns_event_mid" color="#361f12" >天香茶林危急</font>
+ui_jiuyinzhi_sow_chapter_2_ep_1=<font face="font_sns_list" color="#5c3317" >今有东瀛倭人于千灯镇天香茶林挑衅滋事，用下三滥手段打伤茶林护卫并讥笑我中原门派阴盛阳衰，堂堂天香茶林竟唯一女子马首是瞻。小小倭寇可笑可笑，附近侠士可速去教训此等狂徒，让此等鼠辈知我华夏之威。</font>
+ui_jiuyinzhi_sow_chapter_2_ep_1_tip=倭寇武士就在千灯镇天香茶林（287 1113），将他们打倒获取奖励（推荐玩家以小团队规模进行）
+
+ui_jiuyinzhi_sow_chapter_2_ep_2_title=<font face="font_sns_event_mid" color="#361f12" >盐帮危急</font>
+ui_jiuyinzhi_sow_chapter_2_ep_2=<font face="font_sns_list" color="#5c3317" >今有东瀛倭人在烟雨庄盐帮屡施诡计，借故打伤盐帮太保并讥笑我中原武林人才凋蔽，堂堂盐帮竟无人是倭人武士数合之将。小小倭寇可笑可笑，附近侠士可速去教训此等狂徒，让他们见识一下我中原武林之威。</font>
+ui_jiuyinzhi_sow_chapter_2_ep_2_tip=倭寇武士就在烟雨庄盐帮（136 1440），将他们打倒获取奖励（推荐玩家以小团队规模进行）
+
+ui_jiuyinzhi_sow_chapter_2_ep_3_title=<font face="font_sns_event_mid" color="#361f12" >恶虎山寨危急</font>
+ui_jiuyinzhi_sow_chapter_2_ep_3=<font face="font_sns_list" color="#5c3317" >今有东瀛倭人在鸡鸣驿恶虎山挑衅滋事，用下三滥手段打伤山寨护卫并讥笑我中原民风野蛮，竟以白虎之皮覆体。小小倭寇可笑可笑，附近侠士可速去教训这群倭贼，辱人者人恒辱之。</font>
+ui_jiuyinzhi_sow_chapter_2_ep_3_tip=倭寇武士就在鸡鸣驿恶虎山寨（-190 997），将他们打倒获取奖励（推荐玩家以小团队规模进行）
+
+ui_jiuyinzhi_sow_chapter_2_ep_4_title=<font face="font_sns_event_mid" color="#361f12" >沈家堡危急</font>
+ui_jiuyinzhi_sow_chapter_2_ep_4=<font face="font_sns_list" color="#5c3317" >今有东瀛倭人在成都沈家堡寻隙滋事，暗施诡计打伤堡内护卫并嘲笑金针沈家虽医者仁心，然刀法平平，竟没有大和武士数合之将。小小倭寇可笑可笑，附近侠士可速去教训这群倭贼，让他们见识一下中原武术高深莫测之能。</font>
+ui_jiuyinzhi_sow_chapter_2_ep_4_tip=倭寇武士就在成都沈家堡（223 779），将他们打倒获取奖励（推荐玩家以小团队规模进行）
+
+ui_jiuyinzhi_sow_chapter_2_ep_5_title=<font face="font_sns_event_mid" color="#361f12" >倭寇入侵</font>
+ui_jiuyinzhi_sow_chapter_2_ep_5=<font face="font_sns_list" color="#5c3317" >今东瀛倭贼私自起兵，竟以海船数十艘，便狂言欲大举进犯我天朝沿海。而今倭寇数艘先锋船只已近烟雨庄烟波湾，欲从此处登陆。我朝水师宝船已出海迎击倭贼主力船队，望武林同道速去支援我王朝水师，务必将倭寇先锋部队悉数诛杀于烟波湾海滩。</font>
+ui_jiuyinzhi_sow_chapter_2_ep_5_tip=倭寇先锋在烟雨庄烟波湾登陆（-73 414），将他们尽数消灭！（推荐玩家以大团队规模进行）
+
+ui_jiuyinzhi_sow_chapter_2_ep_6_title=<font face="font_sns_event_mid" color="#361f12" >救治伤者</font>
+ui_jiuyinzhi_sow_chapter_2_ep_6=<font face="font_sns_list" color="#5c3317" >东瀛倭贼剑术师从中原，讲求迅捷凌厉。虽武功不济，然其所用直刀狭长锋利，伤者虽无性命之忧，但如此利刃配以凌冽剑术，也令伤口深可见骨，若不及时医治，难免会落下终生之疾。如今，几位精通治疗刀创剑伤的郎中已开始着手治疗伤者，奈何所需药材数量巨大，各位大侠如力有所及，劳烦尽量帮助收集。</font>
+ui_jiuyinzhi_sow_chapter_2_ep_6_tip=从郎中处接取任务后集齐红粉白株，黄酒，麻布，白杨木，薄荷各五份交至郎中处领取奖励（推荐玩家个人进行）,每个人只能完成一次（所需数量满后将不再接收材料）<br/>郎中坐标<br/>千灯镇：（387 1015）<br/>烟雨庄：（134 1373）<br/>鸡鸣驿：（-87 982）<br/>成都：（215 760）
+
+//结果
+ui_jiuyinzhi_sow_chapter_2_er_1_title=<font face="font_sns_event_mid" color="#361f12" >三内投放开启</font>
+ui_jiuyinzhi_sow_chapter_2_er_1_color_text=三内书页道具兑换开启
+ui_jiuyinzhi_sow_chapter_2_er_1=<font face="font_sns_list" color="#5c3317" >九阴志三内开启后</font><font face="font_sns_list" color="#5c3317" >本门派玩家即可至门派传功长老NPC处与之进行对话，在弹出的窗口中选择你所需要兑换的选项，进行门派三阶书页道具兑换。（内功31-36层书页可直接兑换也可在书页合成功能处合成）</font>
+ui_jiuyinzhi_sow_chapter_2_er_1_tip=门派传功长老NPC<br/>少林传功长老：（721，375）<br/>武当传功长老：（369，334）<br/>峨眉传功长老：（277，111）<br/>丐帮传功长老：（619，224）<br/>唐门传功长老：（1067，-133）<br/>君子堂传功长老：（542，453）<br/>锦衣卫传功长老：（354，-126）<br/>极乐谷传功长老：（134，42）<br/>明教传功长老：（-23，238）<br/>天山传功长老（1272 975）<br/>昆仑传功长老（-155 -464）
+
+
+ui_jiuyinzhi_sow_chapter_2_er_2_title=<font face="font_sns_event_mid" color="#361f12" >新武学投放开启</font>
+ui_jiuyinzhi_sow_chapter_2_er_2_color_text=新武学投放方式
+ui_jiuyinzhi_sow_chapter_2_er_2=<font face="font_sns_list" color="#5c3317" >三内阶段开启后，踢馆、禁地、奇遇将投放新武学。</font>
+ui_jiuyinzhi_sow_chapter_2_er_2_tip=【新投放内功】<br/>禁地掉落：<br/>无妄神功（1-36）<br/>残阳功诀（1-36）<br/>五行心法（1-36）<br/>紫瑞心经（1-36）<br/>奇遇投放：<br/>无妄神功（37-49）<br/>残阳功诀（37-49）<br/>五行心法（37-49）<br/>紫瑞心经（37-49）<br/><br/>【新投放招式】<br/>踢馆掉落：<br/>部分江湖武学（4-6）<br/>禁地掉落：<br/>残阳剑法（5-6）<br/>青云掌法（5-6）<br/>凋翎（5-6）<br/>流沙（5-6）<br/>天魔追魂刀（6-7）<br/>陪风刀诀（5-6）<br/>傲雪凌霜掌（5-6）<br/>疯魔乱棍（1-6）<br/>奇遇投放：<br/>捻花功（古谱）（4-6）<br/>太极拳（古谱）（4-6）<br/>打狗八绝（古谱）（4-6）<br/>门派武学：<br/>门派基础武学可修炼至7层
+
+ui_jiuyinzhi_sow_chapter_2_er_3_title=<font face="font_sns_event_mid" color="#361f12" >江湖至宝开启</font>
+ui_jiuyinzhi_sow_chapter_2_er_3_color_text=绝学投放
+ui_jiuyinzhi_sow_chapter_2_er_3=<font face="font_sns_list" color="#5c3317" >江湖至宝被遗落在宝箱中，武林人士可从世界宝箱中获取。获取至宝后，当小心谨慎，防人所害，世人皆对江湖至宝觊觎良久，定会使出浑身解数争夺。若持有人被攻克，则至宝将为他人所夺。空有至宝，不知其法，亦不能修炼江湖绝学，当今世上有一些高手可使其掌握修炼的法门，获取至宝后，可根据至宝上的提示向他们讨教。当然，你还需要跟这些高手搞好关系，不然，他们随时会把你出卖给有钱人。</font>
+ui_jiuyinzhi_sow_chapter_2_er_3_tip=江湖至宝可从世界宝箱中获取<br/>持有江湖至宝的玩家可根据上面提示找相应的武林高手获取【幽昙秘典（第一重：1~16层）】、【玄冥真罡（第一重：1~36层）】的修炼方式<br/>修炼幽昙秘典可获取江湖散招：<br/>飞碟穿针<br/>蛛锋寒雪<br/>蝶舞九天<br/>修炼玄冥真罡可获取江湖散招：<br/>星若邪动（1-3）<br/>吸魔招魂（1-3）<br/>邪魔群舞（1-3）
+
+ui_jiuyinzhi_sow_chapter_2_er_4_title=<font face="font_sns_event_mid" color="#361f12" >禁地开启</font>
+ui_jiuyinzhi_sow_chapter_2_er_4_color_text=江湖禁地开启说明
+ui_jiuyinzhi_sow_chapter_2_er_4=<font face="font_sns_list" color="#5c3317" >九阴志三内阶段完成后，达到相应实力的玩家可挑战以下江湖禁地：</font><br/><font face="font_sns_list" color="#5c3317" >凤凰山庄·序章</font><br/><font face="font_sns_list" color="#5c3317" >龙门客栈·马贼线</font><br/><font face="font_sns_list" color="#5c3317" >凤凰山庄</font>
+ui_jiuyinzhi_sow_chapter_2_er_4_tip=可挑战禁地及对应实力：<br/>凤凰山庄·序章（出神入化-内功点数46点）<br/>龙门客栈·马贼线（登峰造极-内功点数56点）<br/>凤凰山庄（所向披靡-内功点数66点）
+
+//镇派事件
+
+text_jiuyinzhi_sow_chapter_3_close=镇派开启
+text_jiuyinzhi_sow_chapter_3_open=镇派完成
+
+//进程
+ui_jiuyinzhi_sow_chapter_3_event_tips=点击进入查看镇派武学投放开启需要完成的江湖事件
+
+ui_jiuyinzhi_sow_chapter_3_ep_1_title=<font face="font_sns_event_mid" color="#361f12" >信使</font>
+ui_jiuyinzhi_sow_chapter_3_ep_1=<font face="font_sns_list" color="#5c3317" >各大门派大门口都出现了一些自称是朝鲜王子特使的人，他们声称朝鲜王文治武功，雄才大略，灭高丽，抗东瀛。而中原外有鞑靼犯边，安南反乱，内有水患饥荒，厂卫弄权。今在苏州环秀山庄成立举贤阁，欲使英雄择良木而栖。现诚邀各派加盟，共谋大事，将来荣华富贵取之不尽。如若冥顽不灵，以卵击石，三日之内必高手尽出，让尔等灰飞烟灭。</font>
+ui_jiuyinzhi_sow_chapter_3_ep_1_tip=玩家实力达到出类拔萃，可去本门派接取任务，每人只能接取一次。任务完成后将获得稀有称号："<font color="#ff1cae" >少年狂</font>"！先到先得，数量有限！<br/>信使坐标：<br/>少林：（820 360）<br/>武当：（479 332）<br/>峨眉：（489 133）<br/>丐帮：（554 338）<br/>唐门：（1087 -161）<br/>君子堂：（527 457）<br/>锦衣卫：（352 -115）<br/>极乐谷：（89 -23）<br/>明教：（-4 240）<br/>天山：（1262 946）<br/>昆仑：（-127 -520）<br/>（推荐玩家个人进行）
+
+ui_jiuyinzhi_sow_chapter_3_ep_2_title=<font face="font_sns_event_mid" color="#361f12" >收集身份牌</font>
+ui_jiuyinzhi_sow_chapter_3_ep_2=<font face="font_sns_list" color="#5c3317" >据禁地守卫弟子来报，近日各个门派中出现不少举贤阁成员，在叛门弟子带领下源源不断的前往门派禁地，觊觎我中原武林秘藏！各派弟子速速在他们进入禁地前加以阻拦，擒拿后可搜集到身份令牌，到各门派婢女处换取奖励。</font>
+ui_jiuyinzhi_sow_chapter_3_ep_2_tip=消灭向门派禁地前进的朝鲜镖队，他们兵分数路，大家分头寻找，攻克后获得其身份牌后去门派婢女处换取奖励,收集满后，将无法继续换取奖励！<br/>各大门派禁地入口坐标：<br/>少林：（433 -56）<br/>武当：（1047 515）<br/>峨眉：（655 -279）<br/>丐帮：（882 -11）<br/>唐门：（1188 -552）<br/>君子堂：（141 617）<br/>锦衣卫：（-25 -555）<br/>极乐谷：（663 -42）<br/>明教：（148 -574）<br/>天山：（949 585）<br/>婢女坐标：<br/>少林：（442 -61）<br/>武当：（1027 525）<br/>峨眉：（664 -286）<br/>丐帮：（891 -11）<br/>唐门：（1203 -543）<br/>君子堂：（131 622）<br/>锦衣卫：（-32 -544）<br/>极乐谷：（687 -69）<br/>明教：（148 -574）<br/>天山：（949 585）<br/>（推荐玩家以小团队规模进行）
+
+ui_jiuyinzhi_sow_chapter_3_ep_3_title=<font face="font_sns_event_mid" color="#361f12" >收集镔铁令</font>
+ui_jiuyinzhi_sow_chapter_3_ep_3=<font face="font_sns_list" color="#5c3317" >朝鲜王子成立举贤阁，狼子野心，昭然若揭。这几日各大门派弟子都受到招揽，不少地方也出现了陌生的朝鲜人大撒镔铁令。朝鲜本属我大明附庸，今穷一国之力如此作为，恐无数宵小借此飞黄腾达，风闻不少江湖败类已投其麾下。我等炎黄之后，岂能任其如此嚣张！今番正好借此机会乍做投诚，混入其中，借机挫其锋芒，来日一举捣毁。各派弟子不妨放手收集镔铁令，能多拿一份令牌，便少一个民族败类。</font>
+ui_jiuyinzhi_sow_chapter_3_ep_3_tip=玩家实力达到出类拔萃，可去各大主城陌生的朝鲜人处领取镔铁令，每个NPC处只可领取一次，领取镔铁令后交付给苏州环秀山庄安在熙换取奖励，有几率获得<font color="#ff1cae" >高品质奖励</font>（镔铁令携带在身上会散发出奇特香味，被他人所察觉，闻到此异香之人，将会杀心大起。镔铁令携带者死亡后，令牌会掉落！）,收集满后，将无法继续换取奖励！<br/>陌生的朝鲜人坐标：<br/>燕京：（138 -105）<br/>苏州：（328 765）<br/>金陵：（1092 2256）<br/>洛阳：（1141 642）<br/>成都：（912 535）<br/>安在熙坐标：<br/>苏州：（12 1108）<br/>（推荐玩家个人进行）
+
+ui_jiuyinzhi_sow_chapter_3_ep_4_title=<font face="font_sns_event_mid" color="#361f12" >挖墙脚</font>
+ui_jiuyinzhi_sow_chapter_3_ep_4=<font face="font_sns_list" color="#5c3317" >举贤阁在中原虎视眈眈，迟早为祸武林，早有江湖义士欲将之除去，只是强手如林，机关密布，防守严密，滴水不进。今有江湖人士严老四发现其防守的一处漏洞，趁此漏洞，削弱其防守，等时机成熟，再一举捣毁。</font>
+ui_jiuyinzhi_sow_chapter_3_ep_4_tip=破坏防御工事，削弱举贤阁实力（每人可进行5次）<br/>任务领取NPC：<br/>苏州：严老四（-50 1197）<br/>（推荐玩家个人进行）
+
+ui_jiuyinzhi_sow_chapter_3_ep_5_title=<font face="font_sns_event_mid" color="#361f12" >门派收集</font>
+ui_jiuyinzhi_sow_chapter_3_ep_5=<font face="font_sns_list" color="#5c3317" >那举贤庄藏龙卧虎，高手如云，非轻易可以攻下，各派掌门现正收集药材，炼制养气丹，服用后可短时间内提升功力，如今正缺一味寒鸦草。望众门派弟子以大局为重，捐献寒鸦草。</font>
+ui_jiuyinzhi_sow_chapter_3_ep_5_tip=所有人都在为攻打举贤阁做准备，大侠应以大局为重，尽力收集寒鸦草！寒鸦草每次捐献量为200个。打开排行榜-九阴志-门派捐献（镇派事件）可查看当前捐献排行，捐献数量满后，排行榜第一名将获得<font color="#ff1cae" >至尊锦盒（内含太极、打狗、捻花、焚天、魅影、血海、大力 七种古谱残卷），开启礼盒将随机获得其中的部分残卷，可100%获得三张残卷</font>。同时，每次捐献都有几率获得<font color="#ff1cae" >纪念道具</font>。若因特殊原因未收集齐镇派事件就已完成，则奖励不予发放！<br/>各门派寒鸦草收集人陈兴旺坐标：<br/>少林：（790 382）<br/>武当：（470 366）<br/>峨眉：（497 156）<br/>丐帮：（547 350）<br/>唐门：（957 -122）<br/>君子堂：（515 462）<br/>锦衣卫：（385 48）<br/>极乐谷：（135 -21）<br/>明教：（-31 214）<br/>天山：（1240 990）<br/>昆仑：（-179 -465）
+
+//未激活时显示tips
+jyz_sow_chapter_3_lock_6=需等信使，收集身份牌，收集镔铁令，挖墙脚和门派收集事件全部完成后才可开启
+
+jyz_sow_chapter_3_lock_5=需等信使，收集身份牌，收集镔铁令，挖墙脚事件全部完成后才可开启
+
+jyz_sow_chapter_3_lock_4=需等信使，收集镔铁令，挖墙脚事件全部完成后才可开启
+
+ui_jiuyinzhi_sow_chapter_3_ep_6_title=<font face="font_sns_event_mid" color="#361f12" >攻打举贤阁</font>
+ui_jiuyinzhi_sow_chapter_3_ep_6=<font face="font_sns_list" color="#5c3317" >数天前，各大宗门各有一位高阶弟子叛门出逃，带着本派学习镇派武学的至宝和记载江山锦帛位置的地图，投靠了朝鲜王子的举贤阁。朝鲜王子派人进入门派禁地是为了窃取各大门派秘藏的江山锦帛，他以所抢的江山锦帛为胁迫，摆下八门阵，挑战天下群豪。</font>
+ui_jiuyinzhi_sow_chapter_3_ep_6_tip=攻打举贤阁的时机已经成熟，已有豪侠闯进环秀山庄，发现那朝鲜王子竟是女儿身，消灭叛徒和朝鲜公主，夺回各门派镇派武学和江山锦帛！<br/>第一步：攻克8大门派的8个叛徒<br/>第二步：消灭200个死士<br/>第三步：攻克朝鲜公主。<br/>参与攻克朝鲜公主的侠士，将获得称号："<font color="#ff1cae" >射贪狼</font>",最后将朝鲜公主攻克者，拾取尸体将获得唯一称号："<font color="#ff1cae" >士无双</font>"！<br/>朝鲜公主坐标：<br/>苏州：环秀山庄（-66 1116）<br/>（推荐玩家以大团队规模进行）
+
+ui_jiuyinzhi_sow_chapter_3_ep_7_title=<font face="font_sns_event_mid" color="#361f12" >消灭举贤阁死士</font>
+ui_jiuyinzhi_sow_chapter_3_ep_7=<font face="font_sns_list" color="#5c3317" >攻克朝鲜公主豢养的2000名聚贤阁死士，门派叛徒便会出手。</font>
+ui_jiuyinzhi_sow_chapter_3_ep_7_tip=攻打举贤阁的时机已经成熟，只需将外围的聚贤阁死士清除，就可攻入庄内！
+
+//结果
+ui_jiuyinzhi_sow_chapter_3_er_1_title=<font face="font_sns_event_mid" color="#361f12" >门派试炼禁地开启</font>
+ui_jiuyinzhi_sow_chapter_3_er_1_color_text=门派试炼禁地开启方式
+ui_jiuyinzhi_sow_chapter_3_er_1=<font face="font_sns_list" color="#5c3317" >镇派事件完成后，角色</font><font face="font_sns_list" color="#bc1717" >实力达到登峰造极</font><font face="font_sns_list" color="#5c3317" >即可至天弈谷（-300 23）进入宗门试炼。</font>
+ui_jiuyinzhi_sow_chapter_3_er_1_tip=镇派事件完成后，角色实力达到登峰造极即可至天弈谷（-300 23）进入宗门试炼。
+
+ui_jiuyinzhi_sow_chapter_3_er_2_title=<font face="font_sns_event_mid" color="#361f12" >镇派武学投放开启</font>
+ui_jiuyinzhi_sow_chapter_3_er_2_color_text=镇派武学兑换方式
+ui_jiuyinzhi_sow_chapter_3_er_2=<font face="font_sns_list" color="#5c3317" >镇派事件完成后，玩家可以凭门派禁地中开启奖励盒得到的门派兑换物来兑换门派镇派武学，具体兑换数量设定根据技能等级不同而不同。（非江湖名俊玩家兑换同一个镇派武学所需要的兑换物将比江湖名俊玩家多）</font>
+ui_jiuyinzhi_sow_chapter_3_er_2_tip=门派镇派武学兑换NPC：<br/>少林传功长老：（721，375）<br/>武当传功长老：（369，334）<br/>峨眉传功长老：（277，111）<br/>丐帮传功长老：（619，224）<br/>唐门传功长老：（1067，-133）<br/>君子堂传功长老：（542，453）<br/>锦衣卫传功长老：（354，-126）<br/>极乐谷传功长老：（134，42）<br/>明教传功长老：（-23，238）<br/>天山传功长老（1272 975）<br/>昆仑传功长老（-155 -464）
+
+ui_jiuyinzhi_sow_chapter_3_er_3_title=<font face="font_sns_event_mid" color="#361f12" >门派宝物投放开启</font>
+ui_jiuyinzhi_sow_chapter_3_er_3_color_text=门派宝物说明
+ui_jiuyinzhi_sow_chapter_3_er_3=<font face="font_sns_list" color="#5c3317" >在各门派禁地中会掉落特殊的门派宝物，门派宝物的属性专门加强本门派武学。</font>
+ui_jiuyinzhi_sow_chapter_3_er_3_tip=门派宝物属于特殊的宝物，只加强单一门派的武学
+
+
+//四内事件
+
+text_jiuyinzhi_sow_chapter_4_close=四内开启
+text_jiuyinzhi_sow_chapter_4_open=四内完成
+
+//进程
+ui_jiuyinzhi_sow_chapter_4_event_tips=点击进入查看四内投放开启需要完成的江湖事件
+
+ui_jiuyinzhi_sow_chapter_4_ep_1_title=<font face="font_sns_event_mid" color="#361f12" >风雨欲来</font>
+ui_jiuyinzhi_sow_chapter_4_ep_1=<font face="font_sns_list" color="#5c3317" >“九月十三，大凶，诸事不宜，见血则破。江洋大盗丁九重，罪在不赦，九月十三午时，当街凌迟，以儆效尤！”丁九重何许人也？南七北六十三省，东西南北四大寇瓢把头 。十绝之中排行第九，武艺冠绝天下武林，建文皇帝座下平叛大将，兵败后聚啸山林，虎踞一方。多年前销声匿迹，今日才知落进天牢。丁九重所犯何事？这与武艺无关，也与平叛无关，唯独与到那魔教宝藏有关。普天之下，知晓那宝藏秘密的，大概也只有他了。此番九重问斩，天下不宁，武林暗涌，风云际会！</font>
+ui_jiuyinzhi_sow_chapter_4_ep_1_tip=玩家实力达到出类拔萃，可去本门派领取拜帖，将拜帖交给金陵的严老二，加入营救丁九重的江湖势力。每人只能接取一次，任务接取后加入势力才可参与“聚啸山林”进行捐献。数量满后仍可继续接取。聚啸山林事件完成后此事件自动完成（推荐玩家个人进行，<font color="#ff1cae" >聚啸山林事件完成后将不能完成该任务，建议优先完成</font>）<br/>拜帖使者坐标：<br/>少林：（820 360）<br/>武当：（479 332）<br/>峨眉：（489 133）<br/>丐帮：（554 338）<br/>唐门：（1087 -161）<br/>君子堂：（527 457）<br/>锦衣卫：（352 -115）<br/>极乐谷：（89 -23）<br/>明教：（-4 241）<br/>天山：（1262 951）<br/>昆仑：（-127 -488）
+
+ui_jiuyinzhi_sow_chapter_4_ep_2_title=<font face="font_sns_event_mid" color="#361f12" >劳其筋骨</font>
+ui_jiuyinzhi_sow_chapter_4_ep_2=<font face="font_sns_list" color="#5c3317" >大刑前三日，御林军便已开赴城南扎营，瓮城里甲仗森严，瓮城外厂卫攒动。看这阵势，想要捞出丁九重，那是难如登天。菜米早已屯在营中，饮水却是取自秦淮河，如此这般，让他们拉上几日，也是好事。</font>
+ui_jiuyinzhi_sow_chapter_4_ep_2_tip=玩家实力达到出类拔萃，可去金陵严小妹处领取泻药投入秦淮河。每人只能接取一次，任务完成后有几率获得<font color="#ff1cae" >趣味道具和内功突破要诀</font>。（推荐玩家个人进行）<br/>严小妹坐标：<br/>金陵（1242 2014）
+
+ui_jiuyinzhi_sow_chapter_4_ep_3_title=<font face="font_sns_event_mid" color="#361f12" >聚啸山林</font>
+ui_jiuyinzhi_sow_chapter_4_ep_3=<font face="font_sns_list" color="#5c3317" >如今四方势力并起，镔铁，皮革，粮米，箭羽源源不断地汇集到各大势力的秘密营地，少侠如若有心，不妨寻些寒鸦草，刀兵相见，伤亡难免，总该备些伤药才是。另外，四方势力今虽表面同心，实则各怀目的。下绊子什么的事情做做无妨，要知道谁救出丁九重，就与那魔教宝藏近了一步。</font>
+ui_jiuyinzhi_sow_chapter_4_ep_3_tip=接取“风雨欲来”任务（<font color="#ff1cae" >风雨欲来进度满后仍可接取，但是聚啸山林事件完成后将不能完成该任务，建议优先完成</font>）成功加入势力后，在各大势力捐献NPC处上交寒鸦草或门派荣誉凭证（每次需上交200个寒鸦草或10个门派荣誉凭证），每次捐献都有几率获得<font color="#ff1cae" >趣味道具,宝物和奇珍</font>。打开排行榜-九阴志-四内事件可查看当前捐献排行，捐献总榜数量满后，各势力排行榜第一名将获得<font color="#ff1cae" >至尊锦盒（内含太极、打狗、捻花、焚天、魅影、血海、大力 七种古谱残卷），开启礼盒将随机获得其中的部分残卷，可100%获得三张残卷</font>。率先捐满2000次的势力，所有势力成员将获得一份额外奖励：其中包含稀有称号“<font color="#ff1cae" >电光火石</font>”。（推荐玩家个人进行）<br/>四大势力捐献NPC坐标：<br/>四大寇：金陵（2126 885）<br/>铁骑会：燕京（1755 1231）<br/>大日宗：苏州（1525 969）<br/>密宗：成都（1042 446）<br/>率先完成势力奖励领取NPC:<br/>四大寇：严十六 金陵（2128 884）<br/>铁骑会：严十九 燕京（1757 1230）<br/>大日宗：严十八 苏州（1523 967）<br/>密宗：严十七 成都（1042 448）
+
+ui_jiuyinzhi_sow_chapter_4_ep_12_title=<font face="font_sns_event_mid" color="#361f12" >请君入瓮</font>
+ui_jiuyinzhi_sow_chapter_4_ep_12=<font face="font_sns_list" color="#5c3317" >斩首时辰临近，四方实力却凭空消失，城南瓮城已经戒严，凡是硬闯的，都落了个身首异处的下场。一声号炮响过，数道鬼魅身影跃上城墙，却发现竟然有四辆一模一样的囚车。正在此时，刑部正堂胡滢一声令下，伏兵尽出，城门紧闭，各方势力陷入重围，血腥厮杀已然开始。</font>
+ui_jiuyinzhi_sow_chapter_4_ep_12_tip=斩首时辰临近，四方实力却凭空消失，城南瓮城已经戒严，凡是硬闯的，都落了个身首异处的下场。一声号炮响过，数道鬼魅身影跃上城墙，却发现竟然有四辆一模一样的囚车。正在此时，刑部正堂胡滢一声令下，伏兵尽出，城门紧闭，各方势力陷入重围，血腥厮杀已然开始。准备就绪，杀去法场，救出丁九重！参与攻克御林军统领江若生的侠士，将获得称号："<font color="#ff1cae" >逆天行道</font>"！（推荐玩家以大团队规模进行）<br/>刑场坐标：<br/>金陵：（1303 1885）
+
+//未激活时显示tips
+jyz_sow_chapter_4_lock_3=需等风雨欲来，劳其筋骨事件全部完成后才可开启
+
+ui_jiuyinzhi_sow_chapter_4_ep_4_title=<font face="font_sns_event_mid" color="#361f12" >请君入瓮</font>
+ui_jiuyinzhi_sow_chapter_4_ep_4=<font face="font_sns_list" color="#5c3317" >斩首时辰临近，四方实力却凭空消失，城南瓮城已经戒严，凡是硬闯的，都落了个身首异处的下场。一声号炮响过，数道鬼魅身影跃上城墙，却发现竟然有四辆一模一样的囚车。正在此时，刑部正堂胡滢一声令下，伏兵尽出，城门紧闭，各方势力陷入重围，血腥厮杀已然开始。</font>
+ui_jiuyinzhi_sow_chapter_4_ep_4_tip=准备就绪，杀去法场，救出丁九重！参与攻克御林军统领江若生的侠士，将获得称号："<font color="#ff1cae" >逆天行道</font>"！（推荐玩家以大团队规模进行）<br/>刑场坐标：<br/>金陵：（1303 1885）
+
+//未激活时显示tips
+jyz_sow_chapter_4_lock_5=需等请君入瓮事件完成后才可开启
+
+ui_jiuyinzhi_sow_chapter_4_ep_5_title=<font face="font_sns_event_mid" color="#361f12" >杀出重围</font>
+ui_jiuyinzhi_sow_chapter_4_ep_5=<font face="font_sns_list" color="#5c3317" >瓮城之内，血流漂杵，四方势力中大日宗，铁骑会，密宗终于撕下面具，对四大寇势力大打出手，最终各自劫得一辆囚车在朝廷援兵赶来之前顺利逃脱。四大寇被官兵堵截，陷入苦战。少侠身负师门重托，务必保护最后一辆囚车杀出重围，因为没人知道真正的丁九重到底在哪辆车上。</font>
+ui_jiuyinzhi_sow_chapter_4_ep_5_tip=护送一辆囚车杀出城去，途中官兵会阻碍囚车前进，请尽数诛杀。（推荐玩家以大团队规模进行）<br/>囚车目标地点坐标：<br/>金陵：（1307 2012）
+
+//未激活时显示tips
+jyz_sow_chapter_4_lock_6=需等杀出重围事件完成后才可开启
+
+ui_jiuyinzhi_sow_chapter_4_ep_6_title=<font face="font_sns_event_mid" color="#361f12" >真假九重</font>
+ui_jiuyinzhi_sow_chapter_4_ep_6=<font face="font_sns_list" color="#5c3317" >众人杀出城外，果然发现车上的丁九重只是裹着人皮面具的替身，无奈只好依照探子的指引，依次寻找其他势力，途中难免又是一番血战，诸位少侠多做准备。</font>
+ui_jiuyinzhi_sow_chapter_4_ep_6_tip=铁骑会，大日宗，密宗各劫走一辆囚车，依次前往这三方势力营地，方能知道是谁劫走了真正的丁九重！所有参与的玩家，都将有几率获得<font color="#ff1cae" >内功突破要诀</font>！（推荐玩家以大团队规模进行）<br/>铁骑会囚车坐标：金陵（1528 2369）<br/>大日宗囚车坐标：金陵（852 2358）<br/>密宗囚车坐标：金陵（680 359）
+
+//结果
+ui_jiuyinzhi_sow_chapter_4_er_1_title=<font face="font_sns_event_mid" color="#361f12" >四内投放开启</font>
+ui_jiuyinzhi_sow_chapter_4_er_1_color_text=四内投放任务开启
+ui_jiuyinzhi_sow_chapter_4_er_1=<font face="font_sns_list" color="#5c3317" >九阴志四内事件完成后，角色</font><font face="font_sns_list" color="#bc1717" >获得门派第九阶身份，三阶内功达到30层以上，江湖声望达到13W以上或者是四内师弟</font><font face="font_sns_list" color="#5c3317" >以上四种条件只需满足其一，即可至门派相关NPC处领取门派四内任务。</font>
+ui_jiuyinzhi_sow_chapter_4_er_1_tip=门派四内任务接取NPC<br/>少林：玄怀大师（821 417）<br/>武当：紫阳真人（478 329）<br/>峨眉：绝尘师太（489 132）<br/>丐帮：萧天放（554 339）<br/>唐门：唐天行（1037 -127）<br/>君子堂：萧别情（529 457）<br/>锦衣卫：皇甫遥（352 -118）<br/>极乐谷：掌事师叔（131 25）
+
+ui_jiuyinzhi_sow_chapter_4_er_2_title=<font face="font_sns_event_mid" color="#361f12" >门派禁地困难玩法开启</font>
+ui_jiuyinzhi_sow_chapter_4_er_2_color_text=门派禁地困难玩法说明
+ui_jiuyinzhi_sow_chapter_4_er_2=<font face="font_sns_list" color="#5c3317" >九阴志四内事件完成后，角色</font><font face="font_sns_list" color="#bc1717" >实力达到无与伦比</font><font face="font_sns_list" color="#5c3317" >即可挑战各门派禁地困难玩法，门派禁地困难玩法掉落门派武学高阶和镇派武学高阶。</font>
+ui_jiuyinzhi_sow_chapter_4_er_2_tip=门派禁地困难玩法掉落武学高阶：<br/>门派武学8-9层<br/>镇派武学5-6层
+
+ui_jiuyinzhi_sow_chapter_4_er_3_title=<font face="font_sns_event_mid" color="#361f12" >江湖类武学高阶投放开启</font>
+ui_jiuyinzhi_sow_chapter_4_er_3_color_text=江湖类武学高阶投放说明
+ui_jiuyinzhi_sow_chapter_4_er_3=<font face="font_sns_list" color="#5c3317" >九阴志四内事件完成后，江湖类武学高阶投放开启。</font>
+ui_jiuyinzhi_sow_chapter_4_er_3_tip=投放江湖类武学高阶：<br/>天魔追魂刀8-9层<br/>残阳剑法7-8层<br/>陪风刀诀7-8层<br/>青云掌法7-8层<br/>傲雪凌霜掌7-8层<br/>凋翎7-8层<br/>疯魔乱棍7-8层<br/>流沙7-8层<br/>惊鸿刀法7-8层<br/>所有99武学开放7-8层
+
+ui_jiuyinzhi_sow_chapter_4_er_4_title=<font face="font_sns_event_mid" color="#361f12" >江湖禁地开启</font>
+ui_jiuyinzhi_sow_chapter_4_er_4_color_text=江湖禁地开启说明
+ui_jiuyinzhi_sow_chapter_4_er_4=<font face="font_sns_list" color="#5c3317" >九阴志四内阶段完成后，达到相应实力的玩家可挑战以下江湖禁地：</font><br/><font face="font_sns_list" color="#5c3317" >雁门关</font><br/><font face="font_sns_list" color="#5c3317" >蝙蝠洞</font><br/><font face="font_sns_list" color="#5c3317" >雁门关·叛军线</font>
+ui_jiuyinzhi_sow_chapter_4_er_4_tip=可挑战禁地及对应实力：<br/>雁门关（登峰造极-内功点数56点）<br/>蝙蝠洞（一代宗师-内功点数71点）<br/>雁门关·叛军线（惊世骇俗-内功点数86点）
+
+ui_jiuyinzhi_sow_chapter_4_er_5_title=<font face="font_sns_event_mid" color="#361f12" >绝学投放</font>
+ui_jiuyinzhi_sow_chapter_4_er_5_color_text=绝学进阶投放
+ui_jiuyinzhi_sow_chapter_4_er_5=<font face="font_sns_list" color="#5c3317" >江湖至宝被遗落在宝箱中，武林人士可从世界宝箱中获取。获取至宝后，当小心谨慎，防人所害，世人皆对江湖至宝觊觎良久，定会使出浑身解数争夺。若持有人被攻克，则至宝将为他人所夺。空有至宝，不知其法，亦不能修炼江湖绝学，当今世上有一些高手可使其掌握修炼的法门，获取至宝后，可根据至宝上的提示向他们讨教。当然，你还需要跟这些高手搞好关系，不然，他们随时会把你出卖给有钱人。</font>
+ui_jiuyinzhi_sow_chapter_4_er_5_tip=江湖至宝可从世界宝箱中获取<br/>持有江湖至宝的玩家可根据上面提示找相应的武林高手获取【幽昙秘典（第一重：17~36层）】、【玄冥真罡（第一重：37~49层）】的修炼方式<br/>修炼幽昙秘典可获取招式书页：<br/>飞碟穿针（2-3）<br/>蛛锋寒雪（2-3）<br/>蝶舞九天（2-3）<br/>修炼玄冥真罡可获取招式书页：<br/>星若邪动（4-5）<br/>吸魔招魂（4-5）<br/>邪魔群舞（4-5）
+
+ui_jiuyinzhi_sow_chapter_1_er_4_hyperlink=form_stage_main\form_helper\form_theme_helper;jhqb,jianghuzd02,jhzhibao03,jhzhibaojj04
+ui_jiuyinzhi_sow_chapter_2_er_3_hyperlink=form_stage_main\form_helper\form_theme_helper;jhqb,jianghuzd02,jhzhibao03,jhzhibaojj04
+jyz_count_sl_1_1_open_jyz=1;1;1;1
+jyz_count_sl_1_2_open_jyz=1;1;1;1
+jyz_count_sl_1_3_open_jyz=1;1;1;1
+jyz_count_wd_1_1_open_jyz=1;1;1;1
+jyz_count_wd_1_2_open_jyz=1;1;1;1
+jyz_count_wd_1_3_open_jyz=1;1;1;1
+jyz_count_em_1_1_open_jyz=1;1;1;1
+jyz_count_em_1_2_open_jyz=1;1;1;1
+jyz_count_em_1_3_open_jyz=1;1;1;1
+jyz_count_jz_1_1_open_jyz=1;1;1;1
+jyz_count_jz_1_2_open_jyz=1;1;1;1
+jyz_count_jz_1_3_open_jyz=1;1;1;1
+jyz_count_tm_1_1_open_jyz=1;1;1;1
+jyz_count_tm_1_2_open_jyz=1;1;1;1
+jyz_count_tm_1_3_open_jyz=1;1;1;1
+jyz_count_jl_1_1_open_jyz=1;1;1;1
+jyz_count_jl_1_2_open_jyz=1;1;1;1
+jyz_count_jl_1_3_open_jyz=1;1;1;1
+jyz_count_jy_1_1_open_jyz=1;1;1;1
+jyz_count_jy_1_2_open_jyz=1;1;1;1
+jyz_count_jy_1_3_open_jyz=1;1;1;1
+jyz_count_gb_1_1_open_jyz=1;1;1;1
+jyz_count_gb_1_2_open_jyz=1;1;1;1
+jyz_count_gb_1_3_open_jyz=1;1;1;1
+jyz_count_sl_2_1_open_jyz=1;1;2;1
+jyz_count_sl_2_2_open_jyz=1;1;2;1
+jyz_count_sl_2_3_open_jyz=1;1;2;1
+jyz_count_sl_2_4_open_jyz=1;1;2;1
+jyz_count_sl_2_5_open_jyz=1;1;2;1
+jyz_count_sl_2_6_open_jyz=1;1;2;1
+jyz_count_sl_3_1_open_jyz=1;1;3;1
+jyz_count_sl_3_2_open_jyz=1;1;3;1
+jyz_count_sl_3_3_open_jyz=1;1;3;1
+jyz_count_sl_3_4_open_jyz=1;1;3;1
+jyz_count_sl_3_5_open_jyz=1;1;3;1
+jyz_count_sl_3_6_open_jyz=1;1;3;1
+jyz_count_sl_3_7_open_jyz=1;1;3;1
+jyz_count_sl_4_1_open_jyz=1;1;4;1
+jyz_count_sl_4_2_open_jyz=1;1;4;1
+jyz_count_sl_4_3_open_jyz=1;1;4;1
+jyz_count_sl_4_4_open_jyz=1;1;4;1
+jyz_count_sl_4_5_open_jyz=1;1;4;1
+jyz_count_sl_4_6_open_jyz=1;1;4;1
+jyz_count_sl_4_7_open_jyz=1;1;4;1
+jyz_count_sl_4_8_open_jyz=1;1;4;1
+jyz_count_sl_4_9_open_jyz=1;1;4;1
+jyz_count_sl_4_10_open_jyz=1;1;4;1
+jyz_count_sl_4_11_open_jyz=1;1;4;1
+jyz_count_sl_4_12_open_jyz=1;1;4;1
+jyz_count_sl_4_13_open_jyz=1;1;4;1
+jyz_count_sl_4_14_open_jyz=1;1;4;1
+jyz_count_sl_4_15_open_jyz=1;1;4;1
+jyz_count_sl_4_16_open_jyz=1;1;4;1
+jyz_count_sl_4_17_open_jyz=1;1;4;1
+jyz_count_sl_5_1_open_jyz=1;1;5;1
+jyz_count_sl_5_2_open_jyz=1;1;5;1
+jyz_count_sl_5_3_open_jyz=1;1;5;1
+jyz_count_sl_5_4_open_jyz=1;1;5;1
+jyz_count_sl_6_1_open_jyz=1;1;6;1
+jyz_count_sl_6_2_open_jyz=1;1;6;1
+jyz_count_sl_6_3_open_jyz=1;1;6;1
+jyz_count_sl_6_4_open_jyz=1;1;6;1
+jyz_count_sl_6_5_open_jyz=1;1;6;1
+jyz_count_sl_6_6_open_jyz=1;1;6;1
+jyz_count_sl_6_7_open_jyz=1;1;6;1
+
+//六品装备事件
+
+text_jiuyinzhi_sow_chapter_5_close=六品装备开启
+text_jiuyinzhi_sow_chapter_5_open=六品装备完成
+
+//进程
+ui_jiuyinzhi_sow_chapter_5_event_tips=点击进入查看六品装备投放开启需要完成的江湖事件
+
+ui_jiuyinzhi_sow_chapter_5_ep_1_title=<font face="font_sns_event_mid" color="#361f12" >决战内幕</font>
+ui_jiuyinzhi_sow_chapter_5_ep_1=<font face="font_sns_list" color="#5c3317" >邢君可将与磨刀堂少主我为皇，八月十五，洛阳明月楼一决生死。关于这场决斗，有着各种传说，有人说，这是为了魔教大宝藏，也有人说，这是为了一个女人。其中最可靠的，大概就是，和氏璧吧。和氏璧乃皇权象征，失传至今，已被弃用。但黎庶之间，其依然有着不凡意义。有传言，和氏璧似与魔教大宝库关系匪浅。而带有和氏璧的邢君可，成为当下唯一的知情者。</font>
+ui_jiuyinzhi_sow_chapter_5_ep_1_tip=玩家实力达到出类拔萃，可至洛阳秦王府找秦王了解决战的相关消息（推荐玩家单人进行）<br>秦王坐标（373，1007）
+
+//未激活时显示tips
+jyz_sow_chapter_5_lock_2=需等“决战之因”完成后才可开启
+
+ui_jiuyinzhi_sow_chapter_5_ep_2_title=<font face="font_sns_event_mid" color="#361f12" >攻克刺客</font>
+ui_jiuyinzhi_sow_chapter_5_ep_2=<font face="font_sns_list" color="#5c3317" >决战临近，江湖中闻名遐迩的老侠客西门无敌，不顾秦王命令，广招天下隐卫刺客，欲行下作之事，原来西门无敌就是陶百岁的结拜大哥，江湖传闻陶百岁为魔教邢君可所杀，曾经将所有的财产委托给西门无敌照看。陶百岁的遗产中，当然包括一些早已时传的工艺。陶百岁之死让西门无敌转瞬间成为洛阳，甚至天下最富有的人。</font>
+ui_jiuyinzhi_sow_chapter_5_ep_2_tip=秦王已经摸清了所有刺客的藏身之所，各位少侠速速前往攻克（推荐玩家以大团队规模进行）<br/>刺客聚集坐标：<br/>洛阳：（1213 759）（758 794）（936 1001）（512 518）
+
+//未激活时显示tips
+jyz_sow_chapter_5_lock_3=需等刺客来袭事件完成后才可开启
+
+ui_jiuyinzhi_sow_chapter_5_ep_3_title=<font face="font_sns_event_mid" color="#361f12" >隐卫首领</font>
+ui_jiuyinzhi_sow_chapter_5_ep_3=<font face="font_sns_list" color="#5c3317" >江若生本为声名显赫的朝廷大将军，因丁九重劫囚事件惨死于各大势力之手，他的两个儿子改名江无情和江无恨，召集了一批隐卫刺客，假借西门无敌之名，欲破坏邢君可的决战，在背后行使魍魉之事.</font>
+ui_jiuyinzhi_sow_chapter_5_ep_3_tip=击败幕后黑手西门无敌，彻底瓦解隐卫集团（推荐玩家以大团队规模进行）<br/>西门无敌坐标：<br/>洛阳：（883 1207）
+
+//未激活时显示tips
+jyz_sow_chapter_5_lock_4=需等刺客首领事件完成后才可开启
+
+ui_jiuyinzhi_sow_chapter_5_ep_4_title=<font face="font_sns_event_mid" color="#361f12" >西门无敌</font>
+ui_jiuyinzhi_sow_chapter_5_ep_4=<font face="font_sns_list" color="#5c3317" >江若生之子已经伏诛，幕后黑手西门无敌见事件败露，正在收拾家当准备躲避秦王府的追杀，据说他携带了大量陶百岁的制器心得，江湖四方涌动</font>
+ui_jiuyinzhi_sow_chapter_5_ep_4_tip=前往西门无敌的窝藏点地鼠门，攻克西门无敌（推荐玩家以大团队规模进行）<br/>西门无敌坐标：洛阳（881 1212）
+
+//结果
+ui_jiuyinzhi_sow_chapter_5_er_1_title=<font face="font_sns_event_mid" color="#361f12" >六品装备投放开启</font>
+ui_jiuyinzhi_sow_chapter_5_er_1_color_text=六品装备投放开启
+ui_jiuyinzhi_sow_chapter_5_er_1=<font face="font_sns_list" color="#5c3317" >九阴志六品装备事件完成后，心魔玩法开启兑换六品装备相关道具掉落，战场开放战场荣誉凭证兑换六品装备璞具功能</font>
+ui_jiuyinzhi_sow_chapter_5_er_1_tip=内功点数超过80点玩家触发心魔玩法时可获得纯阳符剑，到苏州义庄找游方怪叟周逸仙（320,732）处兑换六品装备相关道具
+
+
+ui_jiuyinzhi_sow_chapter_5_er_2_title=<font face="font_sns_event_mid" color="#361f12" >蝙蝠洞、雁门关叛军线掉落六品璞具</font>
+ui_jiuyinzhi_sow_chapter_5_er_2_color_text=蝙蝠洞、雁门关叛军线掉落六品璞具
+ui_jiuyinzhi_sow_chapter_5_er_2=<font face="font_sns_list" color="#5c3317" >玩家可前往蝙蝠洞、雁门关叛军线获取六品璞具</font>
+ui_jiuyinzhi_sow_chapter_5_er_2_tip=玩家可前往蝙蝠洞、雁门关叛军线获取六品璞具
+
+
+
+//五内事件
+
+text_jiuyinzhi_sow_chapter_6_close=五内开启
+text_jiuyinzhi_sow_chapter_6_open=五内完成
+
+//进程
+ui_jiuyinzhi_sow_chapter_6_event_tips=点击进入查看五内投放开启需要完成的江湖事件
+
+ui_jiuyinzhi_sow_chapter_6_ep_1_title=<font face="font_sns_event_mid" color="#361f12" >决战开始</font>
+ui_jiuyinzhi_sow_chapter_6_ep_1=<font face="font_sns_list" color="#5c3317" >八月十五，邢君可与磨刀堂少主以和氏璧与莫无情为赌注，于洛阳明月楼一战。此战原本秘而不宣，但和氏璧出世之时，江湖闻风而动，更有与此璧牵连甚深之十绝冒头</font>
+ui_jiuyinzhi_sow_chapter_6_ep_1_tip=玩家可去洛阳严噶炮处对话，了解目前情形，并获得一份奖励，有几率获得<font color="#ff1cae" >金丝粉和玄玉粉</font>。（推荐玩家个人进行）<br/>严噶炮坐标：<br/>洛阳：（999 631）
+
+ui_jiuyinzhi_sow_chapter_6_ep_2_title=<font face="font_sns_event_mid" color="#361f12" >护送疫民</font>
+ui_jiuyinzhi_sow_chapter_6_ep_2=<font face="font_sns_list" color="#5c3317" >整个洛阳弥漫着化地老祖释放的瘟疫，此瘟疫由蛊毒引起，城中到处可见被感染的百姓、凑热闹武林人。十绝还在此城中对和氏璧争执不休，一时间，无数人头涌动在城中各处。</font>
+ui_jiuyinzhi_sow_chapter_6_ep_2_tip=玩家需要进入洛阳，制服被蛊虫感染的疫民后将其带到神医严老处医治并可获得一份奖励，有几率获得<font color="#ff1cae" >六品玉防具和玉首饰散件璞具</font>。（推荐玩家个人进行，<font color="#ff1cae" >每次护送无论疫民人数多少最多只可获得一份奖励</font>）<br/>疫民坐标：<br/>洛阳（1041 934）<br/>神医严老坐标：<br/>洛阳（750 786）
+
+ui_jiuyinzhi_sow_chapter_6_ep_3_title=<font face="font_sns_event_mid" color="#361f12" >药材急缺</font>
+ui_jiuyinzhi_sow_chapter_6_ep_3=<font face="font_sns_list" color="#5c3317" >洛阳城中，衰弱的百姓和焚烧后的尸体随处可见，城中各处药房均已掏空了储备，无奈难民如潮，后继乏力。如今唯有号召江湖侠客与各大势力共施援手，方有渡过危机的可能。</font>
+ui_jiuyinzhi_sow_chapter_6_ep_3_tip=在洛阳严不在处捐献寒鸦草或门派荣誉凭证（每次需上交200个寒鸦草或15个门派荣誉凭证），每次捐献都可获得一份奖励，有几率获得<font color="#ff1cae" >璞锭、璞缎和璞砂</font>。打开排行榜-九阴志-五内事件可查看当前捐献排行，捐献数量满后，排行榜第一名将获得<font color="#ff1cae" >至尊锦盒（内含太极、打狗、捻花、焚天、魅影、血海、大力 七种古谱残卷），开启礼盒将随机获得其中的部分残卷，可100%获得三张残卷</font>。（推荐玩家个人进行）<br/>严不在坐标：<br/>洛阳（777 755）<br/>洛阳（1186 774）
+
+ui_jiuyinzhi_sow_chapter_6_ep_4_title=<font face="font_sns_event_mid" color="#361f12" >清除蛊源</font>
+ui_jiuyinzhi_sow_chapter_6_ep_4=<font face="font_sns_list" color="#5c3317" >化地老祖安排傀儡，携带蛊母于洛阳肆虐，若想破除蛊劫，只有先将那些作为蛊源的傀儡绞杀，方能引得化地老祖现身。</font>
+ui_jiuyinzhi_sow_chapter_6_ep_4_tip=攻克散播瘟疫的蛊源！（推荐玩家以小团队规模进行）<br/>蛊源坐标：<br/>洛阳：（933 1256）<br/>洛阳：（512 518）<br/>洛阳：（640 1110）<br/>洛阳：（936 1001）
+
+//未激活时显示tips
+jyz_sow_chapter_6_lock_5=需等决战开始、护送疫民、药材急缺和清除蛊源事件都完成后才可开启
+jyz_sow_chapter_6_lock_4=需等决战开始、护送疫民、清除蛊源事件都完成后才可开启
+
+ui_jiuyinzhi_sow_chapter_6_ep_5_title=<font face="font_sns_event_mid" color="#361f12" >洛阳蛊劫</font>
+ui_jiuyinzhi_sow_chapter_6_ep_5=<font face="font_sns_list" color="#5c3317" >十绝第一燕双行嚣张一剑，击碎和氏璧。十绝众人四散遁走，此时若能击退叶惊楼，洛阳蛊劫立解。</font>
+ui_jiuyinzhi_sow_chapter_6_ep_5_tip=攻克十绝，参与的玩家都将获得一份奖励，包含<font color="#ff1cae" >金丝粉</font>一份，并有几率获得<font color="#ff1cae" >六品金武器、金防具、金首饰散件璞具</font>！（推荐玩家以大团队规模进行）<br/>十绝坐标：<br/>洛阳：（1045 932）
+
+//未激活时显示tips
+jyz_sow_chapter_6_lock_6=需等化地老祖事件完成后才可开启
+
+ui_jiuyinzhi_sow_chapter_6_ep_6_title=<font face="font_sns_event_mid" color="#361f12" >阴阙之争</font>
+ui_jiuyinzhi_sow_chapter_6_ep_6=<font face="font_sns_list" color="#5c3317" >蛊劫虽解，但阴阙尚在苏虹红手中，于是各大宗门暂时结成了同盟，追杀苏虹红夺取她手中的阴阙。此女因为化地老祖的布置并没有及时远遁。</font>
+ui_jiuyinzhi_sow_chapter_6_ep_6_tip=攻克苏虹红，夺取阴阙！参与的玩家都将获得一份奖励，包含<font color="#ff1cae" >金丝粉</font>一份，并有几率获得<font color="#ff1cae" >六品金武器、金防具、金首饰散件璞具</font>！攻克苏虹红后会额外掉落一份奖励，包含<font color="#ff1cae" >玄玉粉</font>一份，并有几率获得<font color="#ff1cae" >六品玉武器、玉防具、玉首饰散件璞具</font>！（推荐玩家以大团队规模进行）<br/>苏虹红坐标：<br/>洛阳（92 851）
+
+//未激活时显示tips
+jyz_sow_chapter_6_lock_7=需等阴阙之争事件完成后才可开启
+
+ui_jiuyinzhi_sow_chapter_6_ep_7_title=<font face="font_sns_event_mid" color="#361f12" >阳阙之争</font>
+ui_jiuyinzhi_sow_chapter_6_ep_7=<font face="font_sns_list" color="#5c3317" >卓北、楚笑打斗中，被磨刀堂和我为皇包围。之后叶惊楼、邢君可再次出现，楚笑与叶、邢二人联手，却只和我为皇斗个平手，卓北趁机围攻我为皇。在我为皇的要求下，众人开始围攻楚笑和叶惊楼，夺取阳阙。</font>
+ui_jiuyinzhi_sow_chapter_6_ep_7_tip=攻克楚笑和叶惊楼。参与的玩家都将获得一份奖励，包含<font color="#ff1cae" >玄玉粉</font>一份，并有几率获得<font color="#ff1cae" >六品金武器、金防具、金首饰散件璞具</font>攻克楚笑和叶惊楼后会分别掉落一份奖励，包含<font color="#ff1cae" >玄玉粉</font>一份，并有几率获得<font color="#ff1cae" >六品玉武器、玉防具、玉首饰散件璞具</font>（推荐玩家以大团队规模进行）<br/>楚笑和叶惊楼坐标：<br/>洛阳（92 851）
+
+//结果
+ui_jiuyinzhi_sow_chapter_6_er_1_title=<font face="font_sns_event_mid" color="#361f12" >五内前置任务开启</font>
+ui_jiuyinzhi_sow_chapter_6_er_1_color_text=五内前置任务开启
+ui_jiuyinzhi_sow_chapter_6_er_1=<font face="font_sns_list" color="#5c3317" >九阴志五内事件开启后，角色</font><font face="font_sns_list" color="#bc1717" >门派四阶内功达到36层以上</font><font face="font_sns_list" color="#5c3317" >可至苏州码头处寻找磨刀堂执事李立承接五内九阴志的前置剧情，完成后可获得一定数量的五内兑换道具。</font><font face="font_sns_list" color="#bc1717" >（可选任务）</font>
+ui_jiuyinzhi_sow_chapter_6_er_1_tip=门派五内前置任务接取NPC<br/>苏州：<br/>李立（287 444）
+
+ui_jiuyinzhi_sow_chapter_6_er_2_title=<font face="font_sns_event_mid" color="#361f12" >五内投放任务开启</font>
+ui_jiuyinzhi_sow_chapter_6_er_2_color_text=五内投放任务开启
+ui_jiuyinzhi_sow_chapter_6_er_2=<font face="font_sns_list" color="#5c3317" >九阴志五内事件完成后，角色</font><font face="font_sns_list" color="#bc1717" >获得门派第十一阶身份，四阶内功达到36层以上，江湖声望达到35W以上或者是五内师弟</font><font face="font_sns_list" color="#5c3317" >以上四种条件只需满足其一，即可至门派相关NPC处领取门派五内任务。</font>
+ui_jiuyinzhi_sow_chapter_6_er_2_tip=门派五内任务接取NPC<br/>少林：陈摩（720 378）<br/>武当：徐风行（382 339）<br/>峨眉：徐诗况（292 124）<br/>丐帮：吴天怒（548  252）<br/>唐门：鲁梯鄙（1053 -170）<br/>君子堂：曹雪墨（616 457）<br/>锦衣卫：何惊凌（394 -48）<br/>极乐谷：吴马懿（140 51）<br/>明教：杨晓澄（19 212）<br/>天山：石廉山（1270 975）<br/>昆仑：伊伏（-145 -429）
+
+ui_jiuyinzhi_sow_chapter_6_er_3_title=<font face="font_sns_event_mid" color="#361f12" >势力内功新等级投放开启</font>
+ui_jiuyinzhi_sow_chapter_6_er_3_color_text=势力内功新等级投放开启说明
+ui_jiuyinzhi_sow_chapter_6_er_3=<font face="font_sns_list" color="#5c3317" >九阴志五内事件完成后，玩家可至各势力兑换NPC处兑换书页</font>
+ui_jiuyinzhi_sow_chapter_6_er_3_tip=各势力兑换NPC：<br/>第一轩：黄灵枢（-485 -253）<br/>移花宫：卿雪（681 656）<br/>徐家庄：徐霏烟（604 108）<br/>金针沈家：沈怀天（309 858）<br/>百兽庄：彭剑（595 926）<br/>无根门：张青峰（42 333）<br/>天轮寺：瑞霖（-90 -173）
+
+ui_jiuyinzhi_sow_chapter_6_er_4_title=<font face="font_sns_event_mid" color="#361f12" >武学新等级投放开启</font>
+ui_jiuyinzhi_sow_chapter_6_er_4_color_text=武学新等级投放开启说明
+ui_jiuyinzhi_sow_chapter_6_er_4=<font face="font_sns_list" color="#5c3317" >九阴志五内事件完成后，门派武学，势力武学，无门派无势力武学新等级投放开启。</font>
+ui_jiuyinzhi_sow_chapter_6_er_4_tip=兑换NPC坐标：<br/>门派：<br/>少林：清贤（800 368）<br/>武当：张五岳（454 342）<br/>峨眉：虞芙纪（475 152）<br/>丐帮：娄英（563 351）<br/>唐门：唐凌天（1038 -161）<br/>君子堂：石剑秋（518 471）<br/>锦衣卫：纪东学（338 -92）<br/>极乐谷：单天娇（145 21）<br/>明教：明教传功长老（-23,238）<br/>天山：天山传功长老（1272 975）<br/>昆仑：昆仑传功长老（-155 -464）<br/>势力：<br/>第一轩：程媛（-498 -307）<br/>移花宫：烟迟（506 602）/无缺公子:柳景微（526 700）<br/>徐家庄：徐霏烟（604 108）<br/>金针沈家：沈怀天（309 858）<br/>百兽庄：彭剑（595 926）<br/>无根门：张青峰（42 333）<br/>天轮寺：仓琼（15 -33）<br/>无门派无势力：<br/>恶人谷：罗九（861 211）
+
+ui_jiuyinzhi_sow_chapter_6_er_5_title=<font face="font_sns_event_mid" color="#361f12" >禁地快活岛开启</font>
+ui_jiuyinzhi_sow_chapter_6_er_5_color_text=禁地快活岛开启说明
+ui_jiuyinzhi_sow_chapter_6_er_5=<font face="font_sns_list" color="#5c3317" >九阴志五内事件完成后，角色</font><font face="font_sns_list" color="#bc1717" >实力达到一代宗师</font><font face="font_sns_list" color="#5c3317" >即可通过与烟雨庄艾风奇对话进入快活岛禁地。</font>
+ui_jiuyinzhi_sow_chapter_6_er_5_tip=艾风奇坐标：<br/>烟雨庄（409 771）
+
+ui_jiuyinzhi_sow_chapter_6_er_6_title=<font face="font_sns_event_mid" color="#361f12" >禁地金陵变开启</font>
+ui_jiuyinzhi_sow_chapter_6_er_6_color_text=禁地金陵变开启说明
+ui_jiuyinzhi_sow_chapter_6_er_6=<font face="font_sns_list" color="#5c3317" >九阴志五内事件完成后，角色</font><font face="font_sns_list" color="#bc1717" >实力达到超凡入圣</font><font face="font_sns_list" color="#5c3317" >即可通过与金陵黑衣宰相对话进入金陵变禁地。</font>
+ui_jiuyinzhi_sow_chapter_6_er_6_tip=黑衣宰相坐标：<br/>金陵（1047 1954）
+
+ui_jiuyinzhi_sow_chapter_6_er_7_title=<font face="font_sns_event_mid" color="#361f12" >禁地无争秘境开启</font>
+ui_jiuyinzhi_sow_chapter_6_er_7_color_text=禁地无争秘境开启说明
+ui_jiuyinzhi_sow_chapter_6_er_7=<font face="font_sns_list" color="#5c3317" >九阴志五内事件完成后，角色</font><font face="font_sns_list" color="#bc1717" >实力达到惊世骇俗</font><font face="font_sns_list" color="#5c3317" >即可通过与东海陆文信对话进入无争秘境禁地。</font>
+ui_jiuyinzhi_sow_chapter_6_er_7_tip=陆文信坐标：<br/>东海（-171 -603）
+
+
+
+
+//新门派事件
+
+text_jiuyinzhi_sow_chapter_7_close=新门派开启
+text_jiuyinzhi_sow_chapter_7_open=新门派完成
+
+//进程
+ui_jiuyinzhi_sow_chapter_7_event_tips=点击进入查看新门派开启需要完成的江湖事件
+
+ui_jiuyinzhi_sow_chapter_7_ep_1_title=<font face="font_sns_event_mid" color="#361f12" >发现魔教</font>
+ui_jiuyinzhi_sow_chapter_7_ep_1=<font face="font_sns_list" color="#5c3317" >燕京城外忽现明月夫人暗记，标示来日即有大动作。明月夫人召回安插在各隐世门派的手下密议举事，立生死之状，搦战天下英雄。</font>
+ui_jiuyinzhi_sow_chapter_7_ep_1_tip=玩家可去燕京赵际安处对话，完成寻找暗记任务，获得一份奖励，有几率获得<font color="#ff1cae" >金丝粉和玄玉粉等</font>。（推荐玩家个人进行）<br/>赵际安坐标：<br/>燕京：（416 348）
+
+//未激活时显示tips
+jyz_sow_chapter_7_lock_2=需等发现魔教事件完成后才可开启
+
+ui_jiuyinzhi_sow_chapter_7_ep_2_title=<font face="font_sns_event_mid" color="#361f12" >燕京平乱</font>
+ui_jiuyinzhi_sow_chapter_7_ep_2=<font face="font_sns_list" color="#5c3317" >明月夫人手下齐聚燕京，叫阵天下英雄，江湖群豪愤而应战。</font>
+ui_jiuyinzhi_sow_chapter_7_ep_2_tip=消灭魔教余孽，平定燕京之乱。魔教余孽将有几率掉落奖励，包含<font color="#ff1cae" >青元丹、混元易筋丹等</font>，并有几率获得<font color="#ff1cae" >6品金武器、金防具、金首饰江湖璞具</font>！（推荐玩家以大团队规模进行）
+
+//未激活时显示tips
+jyz_sow_chapter_7_lock_3=需等发现魔教事件完成后才可开启
+
+ui_jiuyinzhi_sow_chapter_7_ep_3_title=<font face="font_sns_event_mid" color="#361f12" >洛阳平乱</font>
+ui_jiuyinzhi_sow_chapter_7_ep_3=<font face="font_sns_list" color="#5c3317" >明月夫人手下齐聚洛阳，叫阵天下英雄，江湖群豪愤而应战。</font>
+ui_jiuyinzhi_sow_chapter_7_ep_3_tip=消灭魔教余孽，平定洛阳之乱。魔教余孽将有几率掉落奖励，包含<font color="#ff1cae" >青元丹、混元易筋丹等</font>，并有几率获得<font color="#ff1cae" >6品金武器、金防具、金首饰江湖璞具</font>！（推荐玩家以大团队规模进行）
+
+//未激活时显示tips
+jyz_sow_chapter_7_lock_4=需等发现魔教事件完成后才可开启
+
+ui_jiuyinzhi_sow_chapter_7_ep_4_title=<font face="font_sns_event_mid" color="#361f12" >金陵平乱</font>
+ui_jiuyinzhi_sow_chapter_7_ep_4=<font face="font_sns_list" color="#5c3317" >明月夫人手下齐聚金陵，叫阵天下英雄，江湖群豪愤而应战。</font>
+ui_jiuyinzhi_sow_chapter_7_ep_4_tip=消灭魔教余孽，平定金陵之乱。魔教余孽将有几率掉落奖励，包含<font color="#ff1cae" >青元丹、混元易筋丹等</font>，并有几率获得<font color="#ff1cae" >六品金武器、金防具、金首饰江湖璞具</font>！（推荐玩家以大团队规模进行）
+
+//未激活时显示tips
+jyz_sow_chapter_7_lock_5=需等各城平乱事件完成后才可开启
+
+ui_jiuyinzhi_sow_chapter_7_ep_5_title=<font face="font_sns_event_mid" color="#361f12" >古墓血刀</font>
+ui_jiuyinzhi_sow_chapter_7_ep_5=<font face="font_sns_list" color="#5c3317" >八散人其二——步闪翟、萧莫愁，一人偷学血刀堂绝技，一人偷学西山古墓奇功，凭此挑战天下英雄。隐世武学重现于世，江湖豪杰再拜山门。</font>
+ui_jiuyinzhi_sow_chapter_7_ep_5_tip=攻克步闪翟和萧莫愁。参与的玩家都将获得一份奖励，包含<font color="#ff1cae" >青元丹、混元易筋丹等</font>，并有几率获得<font color="#ff1cae" >六品金武器、金防具、金首饰江湖璞具</font>击步闪翟后会掉落一份奖励，包含<font color="#ff1cae" >玄玉粉、拓本碎片等</font>，并有几率获得<font color="#ff1cae" >六品金武器、金防具、金首饰江湖璞具</font>击萧莫愁后会掉落一份奖励，包含<font color="#ff1cae" >玄玉粉、拓本碎片等</font>，并有几率获得<font color="#ff1cae" >六品金武器、金防具、金首饰江湖璞具及六品玉武器一件</font>（推荐玩家以大团队规模进行）
+
+//结果
+ui_jiuyinzhi_sow_chapter_7_er_1_title=<font face="font_sns_event_mid" color="#361f12" >血刀堂开启</font>
+ui_jiuyinzhi_sow_chapter_7_er_1_color_text=血刀堂开启
+ui_jiuyinzhi_sow_chapter_7_er_1=<font face="font_sns_list" color="#5c3317" >九阴志隐世门派事件完成后，寻找新门派NPC接取入门任务，同时开启七品装兑换商店</font><font face="font_sns_list" color="#bc1717" >玩家需要为叛师、下山、易容状态,方可加入血刀堂</font><font face="font_sns_list" color="#5c3317" >完成任务后可获得奖励。</font>
+ui_jiuyinzhi_sow_chapter_7_er_1_tip=血刀堂入门任务接取NPC<br/>叛师下山易容弟子：苏州黄引时（747 431）
+
+ui_jiuyinzhi_sow_chapter_7_er_2_title=<font face="font_sns_event_mid" color="#361f12" >西山古墓开启</font>
+ui_jiuyinzhi_sow_chapter_7_er_2_color_text=西山古墓开启
+ui_jiuyinzhi_sow_chapter_7_er_2=<font face="font_sns_list" color="#5c3317" >九阴志隐世门派事件完成后，寻找新门派NPC接取入门任务，同时开启七品装兑换商店</font><font face="font_sns_list" color="#bc1717" >武当派角色可以直接加入西山古墓，其他门派角色需要为叛师、下山、易容状态方可加入西山古墓</font><font face="font_sns_list" color="#5c3317" >完成任务后可获得奖励。</font>
+ui_jiuyinzhi_sow_chapter_7_er_2_tip=西山古墓入门任务接取NPC<br/>武当弟子：武当紫阳真人（401 374）<br/>叛师下山易容弟子：燕京糟老头（485 96）（488 165）（478 194）（543 254）
+
+ui_jiuyinzhi_sow_chapter_7_er_3_title=<font face="font_sns_event_mid" color="#361f12" >念萝坝开启</font>
+ui_jiuyinzhi_sow_chapter_7_er_3_color_text=念萝坝开启
+ui_jiuyinzhi_sow_chapter_7_er_3=<font face="font_sns_list" color="#5c3317" >九阴志隐世门派事件完成后，寻找新门派NPC接取入门任务，同时开启七品装兑换商店</font><font face="font_sns_list" color="#bc1717" >玩家需要为判门、下山、易容状态，方可加入念萝坝</font><font face="font_sns_list" color="#5c3317" >完成任务后可获得奖励。</font>
+ui_jiuyinzhi_sow_chapter_7_er_3_tip=念萝坝入门任务接取NPC<br/>叛师下山易容弟子：金陵赵卓（1431 1738）
+
+ui_jiuyinzhi_sow_chapter_7_er_4_title=<font face="font_sns_event_mid" color="#361f12" >长风镖局开启</font>
+ui_jiuyinzhi_sow_chapter_7_er_4_color_text=长风镖局开启
+ui_jiuyinzhi_sow_chapter_7_er_4=<font face="font_sns_list" color="#5c3317" >九阴志隐世门派事件完成后，寻找新门派NPC接取入门任务，同时开启七品装兑换商店</font><font face="font_sns_list" color="#bc1717" >丐帮角色可以直接加入长风镖局，其他门派需要为叛师、下山、易容状态方可加入长风镖局，</font><font face="font_sns_list" color="#5c3317" >完成任务后可获得奖励。</font>
+ui_jiuyinzhi_sow_chapter_7_er_4_tip=长风镖局入门任务接取NPC<br/>丐帮掌门：萧天放（554 337）<br/>叛师下山易容弟子：苏州阿七（765 468）<br/>
+
+ui_jiuyinzhi_sow_chapter_7_er_5_title=<font face="font_sns_event_mid" color="#361f12" >华山派开启</font>
+ui_jiuyinzhi_sow_chapter_7_er_5_color_text=华山派开启
+ui_jiuyinzhi_sow_chapter_7_er_5=<font face="font_sns_list" color="#5c3317" >九阴志隐世门派事件完成后，寻找新门派NPC接取入门任务，同时开启七品装兑换商店</font><font face="font_sns_list" color="#bc1717" >君子堂角色可以直接加入华山派，其他门派需要为叛师、下山、易容状态方可加入华山派，</font><font face="font_sns_list" color="#5c3317" >完成任务后可获得奖励。</font>
+ui_jiuyinzhi_sow_chapter_7_er_5_tip=华山派入门任务接取NPC<br/>君子堂掌门：萧别情（531,457）<br/>叛师下山易容弟子：洛阳四饼（1120,1093）<br/>
+
+ui_jiuyinzhi_sow_chapter_7_er_6_title=<font face="font_sns_event_mid" color="#361f12" >神水宫开启</font>
+ui_jiuyinzhi_sow_chapter_7_er_6_color_text=神水宫开启
+ui_jiuyinzhi_sow_chapter_7_er_6=<font face="font_sns_list" color="#5c3317" >九阴志隐世门派事件完成后，寻找新门派NPC接取入门任务，同时开启七品装兑换商店</font><font face="font_sns_list" color="#bc1717" >峨眉角色可以直接加入神水宫，其他门派需要为叛师、下山、易容状态方可加入神水宫，</font><font face="font_sns_list" color="#5c3317" >完成任务后可获得奖励。</font>
+ui_jiuyinzhi_sow_chapter_7_er_6_tip=神水宫入门任务接取NPC<br/>峨眉掌门：绝尘师太（489,123）<br/>叛师下山易容弟子：司徒钟成都酒楼（550，597）<br/>
+
+ui_jiuyinzhi_sow_chapter_7_er_7_title=<font face="font_sns_event_mid" color="#361f12" >五仙教开启</font>
+ui_jiuyinzhi_sow_chapter_7_er_7_color_text=五仙教开启
+ui_jiuyinzhi_sow_chapter_7_er_7=<font face="font_sns_list" color="#5c3317" >九阴志隐世门派事件完成后，寻找新门派NPC接取入门任务</font><font face="font_sns_list" color="#bc1717" >极乐谷角色可以直接加入五仙教，其他门派需要为叛师、下山、易容状态方可加入五仙教，</font><font face="font_sns_list" color="#5c3317" >完成任务后可获得奖励。</font>
+ui_jiuyinzhi_sow_chapter_7_er_7_tip=五仙教入门任务接取NPC<br/>极乐谷掌门：单天冥（81,-26）<br/>叛师下山易容弟子：乞儿千灯镇（885,740）<br/>
+
+ui_jiuyinzhi_sow_chapter_7_er_8_title=<font face="font_sns_event_mid" color="#361f12" >达摩派开启</font>
+ui_jiuyinzhi_sow_chapter_7_er_8_color_text=达摩派开启
+ui_jiuyinzhi_sow_chapter_7_er_8=<font face="font_sns_list" color="#5c3317" >九阴志隐世门派事件完成后，寻找新门派NPC接取入门任务</font><font face="font_sns_list" color="#bc1717" >少林角色可以直接加入达摩派，其他门派需要为叛师、下山、易容状态方可加入达摩派，</font><font face="font_sns_list" color="#5c3317" >完成任务后可获得奖励。</font>
+ui_jiuyinzhi_sow_chapter_7_er_8_tip=达摩派入门任务接取NPC<br/>少林：玄怀大师（824，357）<br/>叛师下山易容弟子：洛阳张全（1030，764）<br/>
+
+ui_jiuyinzhi_sow_chapter_7_er_9_title=<font face="font_sns_event_mid" color="#361f12" >神机营开启</font>
+ui_jiuyinzhi_sow_chapter_7_er_9_color_text=神机营开启
+ui_jiuyinzhi_sow_chapter_7_er_9=<font face="font_sns_list" color="#5c3317" >九阴志隐世门派事件完成后，寻找新门派NPC接取入门任务</font><font face="font_sns_list" color="#bc1717" >明教角色可以直接加入神机营，其他门派需要为叛师、下山、易容状态方可加入神机营，</font><font face="font_sns_list" color="#5c3317" >完成任务后可获得奖励。</font>
+ui_jiuyinzhi_sow_chapter_7_er_9_tip=神机营入门任务接取NPC<br/>明教：明时月（-4，295）<br/>叛师下山易容弟子：燕京酒楼苗二皮（494，165）<br/>
+
+ui_jiuyinzhi_sow_chapter_7_er_10_title=<font face="font_sns_event_mid" color="#361f12" >星渺阁开启</font>
+ui_jiuyinzhi_sow_chapter_7_er_10_color_text=星渺阁开启
+ui_jiuyinzhi_sow_chapter_7_er_10=<font face="font_sns_list" color="#5c3317" >九阴志隐世门派事件完成后，寻找新门派NPC接取入门任务</font><font face="font_sns_list" color="#bc1717" >天山角色可以直接加入星渺阁，其他门派需要为叛师、下山、易容状态方可加入星渺阁，</font><font face="font_sns_list" color="#5c3317" >完成任务后可获得奖励。</font>
+ui_jiuyinzhi_sow_chapter_7_er_10_tip=星渺阁入门任务接取NPC<br/>天山：白天璟（1262，918）<br/>叛师下山易容弟子：烟雨庄酒楼游侠（485，1083）<br/>
+
+ui_jiuyinzhi_sow_chapter_7_er_11_title=<font face="font_sns_event_mid" color="#361f12" >天涯海阁开启</font>
+ui_jiuyinzhi_sow_chapter_7_er_11_color_text=天涯海阁开启
+ui_jiuyinzhi_sow_chapter_7_er_11=<font face="font_sns_list" color="#5c3317" >九阴志隐世门派事件完成后，寻找新门派NPC接取入门任务</font><font face="font_sns_list" color="#bc1717" >昆仑角色可以直接加入天涯海阁，其他门派需要为叛师、下山、易容状态方可加入天涯海阁，</font><font face="font_sns_list" color="#5c3317" >完成任务后可获得奖励。</font>
+ui_jiuyinzhi_sow_chapter_7_er_11_tip=天涯海阁入门任务接取NPC<br/>昆仑：云阳子（-126 -545）<br/>叛师下山易容弟子：金陵客栈汪老（1550 1024）<br/>
+
+//六内事件
+
+text_jiuyinzhi_sow_chapter_8_close=六内开启
+text_jiuyinzhi_sow_chapter_8_open=六内完成
+
+//进程
+ui_jiuyinzhi_sow_chapter_8_event_tips=点击进入查看六内投放开启需要完成的江湖事件
+
+ui_jiuyinzhi_sow_chapter_8_ep_1_title=<font face="font_sns_event_mid" color="#361f12" >明时月</font>
+ui_jiuyinzhi_sow_chapter_8_ep_1=<font face="font_sns_list" color="#5c3317" >自明时月出关以来，虽不曾在江湖上行走，但江湖中已人人自危。明月夫人不顾劝阻，率部分教众出走，明教长期以来的休养生息究竟积攒了怎样的实力？答案，很快便能知晓！</font>
+ui_jiuyinzhi_sow_chapter_8_ep_1_tip=玩家可去金陵公羊胜处对话，完成明时月任务，获得一份奖励，有几率获得<font color="#ff1cae" >金丝粉、玄玉粉等</font>。（推荐玩家个人进行）<br/>公羊胜坐标：<br/>金陵：（682 1771）
+
+//未激活时显示tips
+jyz_sow_chapter_8_lock_2=需等明时月事件完成后才可开启
+
+ui_jiuyinzhi_sow_chapter_8_ep_2_title=<font face="font_sns_event_mid" color="#361f12" >宝丹秘药</font>
+ui_jiuyinzhi_sow_chapter_8_ep_2=<font face="font_sns_list" color="#5c3317" >随明月夫人前往中原的高手中卧虎藏龙，绝非轻易可以战胜。各派现正收集寒鸦草，炼制秘药，服用后可短时间内提升武学，望众门派弟子以大局为重，捐献寒鸦草。同时还在收集粗布及麻布用以包扎受伤的江湖豪杰。</font>
+ui_jiuyinzhi_sow_chapter_8_ep_2_tip=在金陵明宋浪处捐献寒鸦草（每次需上交200个寒鸦草，粗布或者麻布），每次捐献都可获得一份奖励，有几率获得<font color="#ff1cae" >璞锭、璞缎和璞砂</font>。打开排行榜-九阴志-六内事件可查看当前捐献排行，捐献数量满后，排行榜第一名将获得<font color="#ff1cae" >至尊锦盒（内含太极、打狗、捻花、焚天、魅影、血海、大力 七种古谱残卷），开启礼盒将随机获得其中的部分残卷，可100%获得三张残卷</font>。（推荐玩家个人进行）<br/>明宋浪坐标：<br/>金陵（677 1768）
+
+//未激活时显示tips
+jyz_sow_chapter_8_lock_3=需等围剿魔教事件完成后才可开启
+
+ui_jiuyinzhi_sow_chapter_8_ep_3_title=<font face="font_sns_event_mid" color="#361f12" >围剿魔教</font>
+ui_jiuyinzhi_sow_chapter_8_ep_3=<font face="font_sns_list" color="#5c3317" >明月夫人率部分教众意图对抗朝廷，江湖群豪为免天下大乱，纷纷前往阻拦。</font>
+ui_jiuyinzhi_sow_chapter_8_ep_3_tip=消灭魔教教众，平定金陵之乱。剿灭魔教余孽将获得掉落奖励，包含<font color="#ff1cae" >混元易筋丹、雪莲丹等</font>一份，并有几率获得<font color="#ff1cae" >六品金武器、金防具、金首饰江湖璞具</font>（推荐玩家以大团队规模进行）<br/>明教教众坐标：<br/>金陵（1539 2340）
+
+//未激活时显示tips
+jyz_sow_chapter_8_lock_4=需等围剿魔教事件完成后才可开启
+
+ui_jiuyinzhi_sow_chapter_8_ep_4_title=<font face="font_sns_event_mid" color="#361f12" >八散人之霍云</font>
+ui_jiuyinzhi_sow_chapter_8_ep_4=<font face="font_sns_list" color="#5c3317" >霍云！明月夫人手下八大散人之一，武功高深莫测。据说他曾奉明月夫人之名潜入华山派偷学华山绝技，只怕此时的他更加难以对付！</font>
+ui_jiuyinzhi_sow_chapter_8_ep_4_tip=攻克霍云，歼灭魔教余党！参与的玩家都将获得一份奖励，包含<font color="#ff1cae" >混元易筋丹、雪莲果等</font>，并有几率获得<font color="#ff1cae" >六品金武器、金防具、金首饰白胚兑换道具</font>！攻克霍云后会额外掉落一份奖励，包含<font color="#ff1cae" >六品玉武器</font>一件，<font color="#ff1cae" >玄玉粉、雪莲果、拓本碎片等</font>并有几率获得<font color="#ff1cae" >六品金武器、金防具、金首饰江湖璞具</font>！（推荐玩家以大团队规模进行）<br/>霍云坐标：<br/>金陵（1539 2340）
+
+//结果
+ui_jiuyinzhi_sow_chapter_8_er_1_title=<font face="font_sns_event_mid" color="#361f12" >六内投放任务开启</font>
+ui_jiuyinzhi_sow_chapter_8_er_1_color_text=六内投放任务开启
+ui_jiuyinzhi_sow_chapter_8_er_1=<font face="font_sns_list" color="#5c3317" >九阴志六内事件完成后，角色</font><font face="font_sns_list" color="#bc1717" >实力达到傲视群雄</font><font face="font_sns_list" color="#5c3317" >，即可至相关NPC处领取六内任务。</font>
+ui_jiuyinzhi_sow_chapter_8_er_1_tip=六内任务<br/>第一章<br/>条件：实力达到“傲视群雄”<br/>成都：峨眉弟子（685 721）<br/>奖励：魔门令<br/>第二章<br/>条件：实力达到“举世无双”<br/>洛阳：莫无情（1125 619）<br/>奖励：魔门令
+
+
+ui_jiuyinzhi_sow_chapter_8_er_2_title=<font face="font_sns_event_mid" color="#361f12" >六内特色玩法</font>
+ui_jiuyinzhi_sow_chapter_8_er_2_color_text=六内特色玩法
+ui_jiuyinzhi_sow_chapter_8_er_2=<font face="font_sns_list" color="#5c3317" >九阴志六内事件完成后，</font><font face="font_sns_list" color="#5c3317" >角色满足条件，即可至相关NPC处参与六内特色任务。</font>
+ui_jiuyinzhi_sow_chapter_8_er_2_tip=参与特色玩法条件：实力达到“一代宗师”且当前服务器开启该玩法<br/><font color="#ff1cae" >日常玩法：</font><br/><s>奖励：魔门令<br/><s>1.秘境挑战<br/><s>在洛阳NPC“刘宇达”，坐标（1137 662）接取任务。<br/><s>2.雾峰寻侠<br/><s>在金陵NPC“吉贲发”，坐标（692 1689）接取任务。<br/><s>3.眼疾手快<br/><s>在金陵NPC“葛云鹤”，坐标（1696 1656）接取任务。<br/><s>4.瑶台点花<br/><s>在苏州NPC“赵雀”，坐标（568 297）接取任务。<br/><font color="#ff1cae" >周常玩法：</font><br/><s>奖励：魔门令、荒兽石<br/><s>书页合成<br/><s>在洛阳NPC“葛云鹏”，坐标（1137 642）接取任务。<br/><font color="#ff1cae" >单人禁地：</font><br/><s>完成六内主线第一章任务后，在洛阳，坐标（1125 621）进入晴瑶别院禁地。<br/><font color="#ff1cae" >六人禁地：</font><br/><s>实力达到<font color="#ff1cae" >“震古烁今”</font>的玩家，可以在烟雨庄，坐标（348 20）进入晴瑶宫禁地。
+
+ui_jiuyinzhi_sow_chapter_8_er_3_title=<font face="font_sns_event_mid" color="#361f12" >禁地开启</font>
+ui_jiuyinzhi_sow_chapter_8_er_3_color_text=江湖禁地开启说明
+ui_jiuyinzhi_sow_chapter_8_er_3=<font face="font_sns_list" color="#5c3317" >九阴志六内阶段完成后，达到相应实力的玩家可挑战以下江湖禁地：</font><br/><font face="font_sns_list" color="#5c3317" >晴瑶宫</font><br/><font face="font_sns_list" color="#5c3317" >大漠鬼城</font><br/><font face="font_sns_list" color="#5c3317" >雁门关·守军线</font><br/><font face="font_sns_list" color="#5c3317" >天隐谷</font>
+ui_jiuyinzhi_sow_chapter_8_er_3_tip=可挑战禁地及对应实力：<br/>晴瑶宫（惊世骇俗-内功点数86点）<br/>大漠鬼城（震古铄今-内功点数96点）<br/>雁门关·守军线（威镇寰宇-内功点数106点）<br/>天隐谷（空前绝后-内功点数111点）

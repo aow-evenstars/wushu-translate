@@ -1,0 +1,871 @@
+﻿
+;=门派磨练
+CanAcceptMenu_38801=<font face="Default" color="#ffffff" >侠义为先</font>
+CanAcceptMenu_38802=<font face="Default" color="#ffffff" >添柴加旺</font>
+CanAcceptMenu_38803=<font face="Default" color="#ffffff" >烤肉</font>
+CanAcceptMenu_38804=<font face="Default" color="#ffffff" >后山救人</font>
+CanAcceptMenu_38805=<font face="Default" color="#ffffff" >偷取情报</font>
+CanAcceptMenu_38806=<font face="Default" color="#ffffff" >惩奸除恶</font>
+CanAcceptMenu_38807=<font face="Default" color="#ffffff" >生存考验</font>
+CanAcceptMenu_38808=<font face="Default" color="#ffffff" >后山救人</font>
+CanAcceptMenu_38809=<font face="Default" color="#ffffff" >偷取情报</font>
+CanAcceptMenu_38813=<font face="Default" color="#ffffff" >门派支援</font>
+CanAcceptMenu_38814=<font face="Default" color="#ffffff" >门派磨练（一）</font>
+CanAcceptMenu_38815=<font face="Default" color="#ffffff" >收集物资</font>
+CanAcceptMenu_38816=<font face="Default" color="#ffffff" >蔺封之首</font>
+CanAcceptMenu_38817=<font face="Default" color="#ffffff" >冯由之首</font>
+CanAcceptMenu_38818=<font face="Default" color="#ffffff" >运镖</font><font face="Default" color="#d60000" >（此任务每周只能完成七次）</font>
+CanAcceptMenu_38819=<font face="Default" color="#ffffff" >生火野炊</font>
+CanAcceptMenu_38820=<font face="Default" color="#ffffff" >烤肉</font>
+CanAcceptMenu_38821=<font face="Default" color="#ffffff" >缘（道德经卷）</font>
+CanAcceptMenu_38822=<font face="Default" color="#ffffff" >心结（接受任务）</font>
+CanAcceptMenu_38850=<font face="Default" color="#ffffff" >多谢提醒，我想出师！</font>
+CanAcceptMenu_38851=<font face="Default" color="#ffffff" >毋须多言，我意已决！</font>
+CanAcceptMenu_38861=<font face="Default" color="#ffffff" >拜见庄主</font>
+CanAcceptMenu_38862=<font face="Default" color="#ffffff" >暗中指点</font>
+CanAcceptMenu_38863=<font face="Default" color="#ffffff" >武痴天池</font>
+CanAcceptMenu_38864=<font face="Default" color="#ffffff" >心怀罅隙</font>
+CanAcceptMenu_38865=<font face="Default" color="#ffffff" >智囊先生</font>
+CanAcceptMenu_38866=<font face="Default" color="#ffffff" >三位公子</font>
+CanAcceptMenu_38867=<font face="Default" color="#ffffff" >四海风波</font>
+CanAcceptMenu_38871=<font face="Default" color="#ffffff" >四海风波</font>
+CanAcceptMenu_38872=<font face="Default" color="#ffffff" >追查真相</font>
+CanAcceptMenu_38873=<font face="Default" color="#ffffff" >重剑来路</font>
+CanAcceptMenu_38874=<font face="Default" color="#ffffff" >东方</font><font face="Default" color="#ffffff" >世家</font>
+CanAcceptMenu_38875=<font face="Default" color="#ffffff" >错综复杂</font>
+CanAcceptMenu_38876=<font face="Default" color="#ffffff" >平息纠纷</font>
+CanAcceptMenu_38881=<font face="Default" color="#ffffff" >抽丝剥茧</font>
+CanAcceptMenu_38882=<font face="Default" color="#ffffff" >浣花山庄</font>
+CanAcceptMenu_38883=<font face="Default" color="#ffffff" >离奇失剑</font>
+CanAcceptMenu_38884=<font face="Default" color="#ffffff" >东方铸剑</font>
+CanAcceptMenu_38891=<font face="Default" color="#ffffff" >南宫世家</font>
+CanAcceptMenu_38892=<font face="Default" color="#ffffff" >鲁莽失陷</font>
+CanAcceptMenu_38893=<font face="Default" color="#ffffff" >毒手毒心</font>
+CanAcceptMenu_38894=<font face="Default" color="#ffffff" >物归原主</font>
+CanAcceptMenu_38895=<font face="Default" color="#ffffff" >断剑疑云</font>
+CanAcceptMenu_38896=<font face="Default" color="#ffffff" >风波尾声</font>
+CanAcceptMenu_38900=<font face="Default" color="#ffffff" >拜访徐家庄</font><font face="Default" color="#ffffff" >(入门任务)</font>
+CanAcceptMenu_38901=<font face="Default" color="#ffffff" >接受考验(入门任务)</font>
+CanAcceptMenu_38902=<font face="Default" color="#ffffff" >明辨忠奸</font>
+CanAcceptMenu_38903=<font face="Default" color="#ffffff" >徐子汐的考验</font><font face="Default" color="#ffffff" >(入门任务)</font>
+CanAcceptMenu_38904=<font face="Default" color="#ffffff" >游山历水</font><font face="Default" color="#ffffff" >1</font>
+CanAcceptMenu_38905=<font face="Default" color="#ffffff" >游山历水</font><font face="Default" color="#ffffff" >2</font>
+CanAcceptMenu_38906=<font face="Default" color="#ffffff" >游山历水</font><font face="Default" color="#ffffff" >3</font>
+CanAcceptMenu_38907=<font face="Default" color="#ffffff" >游山历水</font><font face="Default" color="#ffffff" >4</font>
+CanAcceptMenu_38908=<font face="Default" color="#ffffff" >寻找老者</font><font face="Default" color="#ffffff" >（入门任务）</font>
+CanAcceptMenu_38909=<font face="Default" color="#ffffff" >池边垂钓</font><font face="Default" color="#ffffff" >（入门任务）</font>
+CanAcceptMenu_38910=<font face="Default" color="#ffffff" >了解徐家庄（入门任务）</font>
+CanAcceptMenu_38911=<font face="Default" color="#ffffff" >熟读庄规</font><font face="Default" color="#ffffff" >（入门任务）</font>
+CanAcceptMenu_38912=<font face="Default" color="#ffffff" >加入徐家庄</font><font face="Default" color="#ffffff" >（入门任务）</font>
+CanAcceptMenu_38913=<font face="Default" color="#ffffff" >徐子凌的考验</font><font face="Default" color="#ffffff" >（入门任务）</font>
+CanAcceptMenu_38914=<font face="Default" color="#ffffff" >邀请函</font>
+CanAcceptMenu_38915=<font face="Default" color="#ffffff" >寻找遗失的画卷</font><font face="Default" color="#ffffff" >（入门任务）</font>
+CanAcceptMenu_38916=盘问
+CanAcceptMenu_38917=武功挑战
+CanAcceptMenu_38918=<font face="Default" color="#ffffff" >路遇疯丐</font>
+CanAcceptMenu_38919=<font face="Default" color="#ffffff" >拜入师门</font>
+CanAcceptMenu_38920=<font face="Default" color="#ffffff" >徐家庄弟子的感谢信</font>
+CanAcceptMenu_38921=<font face="Default" color="#ffffff" >前往金陵</font>
+CanAcceptMenu_38922=<font face="Default" color="#ffffff" >拜师</font>
+CanAcceptMenu_38923=<font face="Default" color="#ffffff" >悲惨身世</font>
+CanAcceptMenu_38924=<font face="Default" color="#ffffff" >入门资格审核</font>
+CanAcceptMenu_38925=<font face="Default" color="#ffffff" >入门资格审核</font>
+CanAcceptMenu_38926=<font face="Default" color="#ffffff" >资质审核</font>
+CanAcceptMenu_38927=<font face="Default" color="#ffffff" >通过审核</font>
+CanAcceptMenu_38928=<font face="Default" color="#ffffff" >入门资格审核</font>
+CanAcceptMenu_38929=<font face="Default" color="#ffffff" >寻找画卷</font><font face="Default" color="#ffffff" >（入门任务）</font>
+CanAcceptMenu_38930=<font face="Default" color="#ffffff" >生命的真谛</font><font face="Default" color="#ffffff" >（入门任务）</font>
+CanAcceptMenu_38931=<font face="Default" color="#ffffff" >通过审核</font>
+CanAcceptMenu_38932=<font face="Default" color="#ffffff" >通过审核</font>
+CanAcceptMenu_38949=<font face="Default" color="#ffffff" >门派磨练（二）</font>
+CanAcceptMenu_38950=<font face="Default" color="#ffffff" >门派磨练（三）</font>
+CanAcceptMenu_38951=<font face="Default" color="#ffffff" >一阶身份晋级挑战</font>
+CanAcceptMenu_38952=<font face="Default" color="#ffffff" >一阶身份晋级挑战（简单）</font>
+CanAcceptMenu_38953=<font face="Default" color="#ffffff" >一阶身份晋级挑战（普通）</font>
+CanAcceptMenu_38954=<font face="Default" color="#ffffff" >一阶身份晋级挑战（困难）</font>
+CanAcceptMenu_38955=<font face="Default" color="#ffffff" >二阶身份晋级挑战</font>
+CanAcceptMenu_38956=<font face="Default" color="#ffffff" >二阶身份晋级挑战（简单）</font>
+CanAcceptMenu_38957=<font face="Default" color="#ffffff" >二阶身份晋级挑战（普通）</font>
+CanAcceptMenu_38958=<font face="Default" color="#ffffff" >二阶身份晋级挑战（困难）</font>
+CanAcceptMenu_38971=<font face="Default" color="#ffffff" >门派武学</font>
+CanAcceptMenu_38972=<font face="Default" color="#ffffff" >勤加修炼</font>
+CanAcceptMenu_38973=<font face="Default" color="#ffffff" >勤加修炼（二）</font>
+CanAcceptMenu_38974=<font face="Default" color="#ffffff" >勤加修炼（三）</font>
+CompleteMenu_38801=<font face="Default" color="#ffffff" >完成任务</font>
+CompleteMenu_38802=<font face="Default" color="#ffffff" >完成任务</font>
+CompleteMenu_38803=
+CompleteMenu_38804=<font face="Default" color="#ffffff" >完成任务</font>
+CompleteMenu_38805=<font face="Default" color="#ffffff" >完成任务</font>
+CompleteMenu_38806=<font face="Default" color="#ffffff" >完成任务</font>
+CompleteMenu_38807=<font face="Default" color="#ffffff" >完成任务</font>
+CompleteMenu_38808=<font face="Default" color="#ffffff" >完成任务</font>
+CompleteMenu_38809=<font face="Default" color="#ffffff" >完成任务</font>
+CompleteMenu_38813=<font face="Default" color="#ffffff" >完成任务</font>
+CompleteMenu_38814=<font face="Default" color="#ffffff" >完成任务</font>
+CompleteMenu_38815=<font face="Default" color="#ffffff" >完成任务</font>
+CompleteMenu_38816=<font face="Default" color="#ffffff" >完成任务</font>
+CompleteMenu_38817=<font face="Default" color="#ffffff" >完成任务</font>
+CompleteMenu_38818=<font face="Default" color="#ffffff" >完成任务</font>
+CompleteMenu_38819=<font face="Default" color="#ffffff" >完成任务</font>
+CompleteMenu_38820=<font face="Default" color="#ffffff" >完成任务</font>
+CompleteMenu_38821=<font face="Default" color="#ffffff" >心结</font>
+CompleteMenu_38822=<font face="Default" color="#ffffff" >心结（提交任务）</font>
+CompleteMenu_38850=<font face="Default" color="#ffffff" >入庄许久，承蒙庄主和各位师兄照顾，感激不尽。江湖之大，海阔天空，我想出去闯荡一番，还望庄主成全！</font>
+CompleteMenu_38851=<font face="Default" color="#ffffff" >庄主，我想要离开徐家庄。</font>
+CompleteMenu_38861=<font face="Default" color="#ffffff" >完成任务</font>
+CompleteMenu_38862=<font face="Default" color="#ffffff" >完成任务</font>
+CompleteMenu_38863=<font face="Default" color="#ffffff" >完成任务</font>
+CompleteMenu_38864=<font face="Default" color="#ffffff" >完成任务</font>
+CompleteMenu_38865=<font face="Default" color="#ffffff" >完成任务</font>
+CompleteMenu_38866=<font face="Default" color="#ffffff" >完成任务</font>
+CompleteMenu_38867=<font face="Default" color="#ffffff" >完成任务</font>
+CompleteMenu_38871=<font face="Default" color="#ffffff" >完成任务</font>
+CompleteMenu_38872=<font face="Default" color="#ffffff" >完成任务</font>
+CompleteMenu_38873=<font face="Default" color="#ffffff" >完成任务</font>
+CompleteMenu_38874=<font face="Default" color="#ffffff" >完成任务</font>
+CompleteMenu_38875=<font face="Default" color="#ffffff" >完成任务</font>
+CompleteMenu_38876=<font face="Default" color="#ffffff" >完成任务</font>
+CompleteMenu_38881=<font face="Default" color="#ffffff" >完成任务</font>
+CompleteMenu_38882=<font face="Default" color="#ffffff" >完成任务</font>
+CompleteMenu_38883=<font face="Default" color="#ffffff" >完成任务</font>
+CompleteMenu_38884=<font face="Default" color="#ffffff" >完成任务</font>
+CompleteMenu_38891=<font face="Default" color="#ffffff" >完成任务</font>
+CompleteMenu_38892=<font face="Default" color="#ffffff" >完成任务</font>
+CompleteMenu_38894=<font face="Default" color="#ffffff" >完成任务</font>
+CompleteMenu_38895=<font face="Default" color="#ffffff" >完成任务</font>
+CompleteMenu_38896=<font face="Default" color="#ffffff" >完成任务</font>
+CompleteMenu_38900=<font face="Default" color="#ffffff" >拜访徐家庄</font><font face="Default" color="#ffffff" >（可提交）</font>
+CompleteMenu_38901=<font face="Default" color="#ffffff" >接受考验</font><font face="Default" color="#ffffff" >（可提交）</font>
+CompleteMenu_38902=<font face="Default" color="#ffffff" >任务完成</font>
+CompleteMenu_38903=<font face="Default" color="#ffffff" >徐子汐的考验</font><font face="Default" color="#ffffff" >（可提交）</font>
+CompleteMenu_38904=<font face="Default" color="#ffffff" >任务完成</font>
+CompleteMenu_38905=<font face="Default" color="#ffffff" >任务完成</font>
+CompleteMenu_38906=<font face="Default" color="#ffffff" >任务完成</font>
+CompleteMenu_38907=<font face="Default" color="#ffffff" >任务完成</font>
+CompleteMenu_38908=<font face="Default" color="#ffffff" >寻找老者</font><font face="Default" color="#ffffff" >（可提交）</font>
+CompleteMenu_38909=<font face="Default" color="#ffffff" >池边垂钓</font><font face="Default" color="#ffffff" >（可提交</font><font face="Default" color="#ffffff" >）</font>
+CompleteMenu_38910=<font face="Default" color="#ffffff" >了解徐家庄</font><font face="Default" color="#ffffff" >（可提交）</font>
+CompleteMenu_38911=<font face="Default" color="#ffffff" >熟读庄规</font><font face="Default" color="#ffffff" >（可提交）</font>
+CompleteMenu_38912=<font face="Default" color="#ffffff" >加入徐家庄</font><font face="Default" color="#ffffff" >（可提交）</font>
+CompleteMenu_38913=<font face="Default" color="#ffffff" >徐子凌的考验</font><font face="Default" color="#ffffff" >（可提交）</font>
+CompleteMenu_38914=<font face="Default" color="#ffffff" >任务完成</font>
+CompleteMenu_38915=<font face="Default" color="#ffffff" >寻找遗失的画卷</font><font face="Default" color="#ffffff" >（可提交）</font>
+CompleteMenu_38916=盘问（可提交）
+CompleteMenu_38917=武功挑战（可提交）
+CompleteMenu_38918=<font face="Default" color="#ffffff" >路遇疯丐</font><font face="Default" color="#ffffff" >（可提交）</font>
+CompleteMenu_38919=<font face="Default" color="#ffffff" >拜入师门（可提交）</font>
+CompleteMenu_38920=<font face="Default" color="#ffffff" >任务完成</font>
+CompleteMenu_38921=<font face="Default" color="#ffffff" >前往徐家庄</font>
+CompleteMenu_38922=<font face="Default" color="#ffffff" >拜师（可提交）</font>
+CompleteMenu_38923=<font face="Default" color="#ffffff" >悲惨身世</font><font face="Default" color="#ffffff" >（可提交）</font>
+CompleteMenu_38924=<font face="Default" color="#ffffff" >资质审核通过</font>
+CompleteMenu_38925=<font face="Default" color="#ffffff" >资质审核通过</font>
+CompleteMenu_38926=<font face="Default" color="#ffffff" >任务完成</font>
+CompleteMenu_38927=<font face="Default" color="#ffffff" >任务完成</font><font face="Default" color="#ffffff" >(</font><font face="Default" color="#ffffff" >获得审核令牌</font><font face="Default" color="#ffffff" >)</font>
+CompleteMenu_38928=<font face="Default" color="#ffffff" >资质审核通过</font>
+CompleteMenu_38929=<font face="Default" color="#ffffff" >上交画卷</font>
+CompleteMenu_38930=<font face="Default" color="#ffffff" >生命的真谛</font><font face="Default" color="#ffffff" >（可提交）</font>
+CompleteMenu_38931=<font face="Default" color="#ffffff" >任务完成(获得审核令牌)</font>
+CompleteMenu_38932=<font face="Default" color="#ffffff" >任务完成(获得审核令牌)</font>
+CompleteMenu_38949=<font face="Default" color="#ffffff" >完成任务</font>
+CompleteMenu_38950=<font face="Default" color="#ffffff" >完成任务</font>
+CompleteMenu_38951=<font face="Default" color="#ffffff" >我已经准备好</font><font face="Default" color="#ffffff" >接受挑战</font><font face="Default" color="#ffffff" >了。</font>
+CompleteMenu_38952=<font face="Default" color="#ffffff" >师兄，承让了。</font>
+CompleteMenu_38953=<font face="Default" color="#ffffff" >师兄，承让了。</font>
+CompleteMenu_38954=<font face="Default" color="#ffffff" >师兄，承让了。</font>
+CompleteMenu_38955=<font face="Default" color="#ffffff" >我已经准备好接受挑战了。</font>
+CompleteMenu_38956=<font face="Default" color="#ffffff" >师兄，承让了。</font>
+CompleteMenu_38957=<font face="Default" color="#ffffff" >师兄，承让了。</font>
+CompleteMenu_38958=<font face="Default" color="#ffffff" >师兄，承让了。</font>
+CompleteMenu_38971=<font face="Default" color="#ffffff" >门派武学（可提交）</font>
+CompleteMenu_38972=<font face="Default" color="#ffffff" >完成任务。</font>
+CompleteMenu_38973=<font face="Default" color="#ffffff" >完成任务</font>
+CompleteMenu_38974=<font face="Default" color="#ffffff" >完成任务</font>
+accept_38801_1=<font face="Default" color="#ffffff" >最近绑匪盛行，你前去解救若干被绑架的人质。并且击败绑匪头目，据说绑匪头目是夫妻两个很是厉害，我给你一暗器你到时候用上好对付他们。</font>
+accept_38802_1=<font face="Default" color="#ffffff" >徐家庄每日修业之一就是生火，院外的火堆需要添些柴火，你现在就去把火生旺一点吧</font>
+accept_38803_1=<font face="Default" color="#ffffff" >作为一个徐家庄的门人，要善于生火野炊，现在你需要做的，就是成为一个合格的徐家庄门人，先从做一顿可口的饭菜开始吧！去院外的大篝火</font><font face="Default" color="#ffffff" >上烤制一份食物</font>
+accept_38804_1=<font face="Default" color="#ffffff" >徐家庄后山收治了一批落难的村民，徐家庄门人需要帮助他们度过难关,我这里有衣服食物和水，你带上山交给村民。</font>
+accept_38805_1=<font face="Default" color="#ffffff" >徐家庄与神风帮向来交恶，庄主下令，接受此指令的徐家庄弟子需前往神风帮偷取一份情报，烟雨庄神风帮离此地较远，</font><font face="Default" color="#ffffff" >让门口的</font><font face="Default" color="#ffffff" >车送你一程</font>
+accept_38806_1=<font face="Default" color="#ffffff" >最近恶势力比较猖狂，你前去教训教训他们，让他们收敛收敛。</font>
+accept_38807_1=<font face="Default" color="#ffffff" >火焰是我徐家庄的象征，但是玩火自焚是从古至今的道理，所以你需要练成一套可以掌握火焰的本事。</font>
+accept_38808_1=<font face="Default" color="#ffffff" >徐家庄后山救治了一批老人，他们身体虚弱，徐家庄门人当然不会不管他们，你会得到食物、衣物和水，村民要什么你就给他们什么。</font>
+accept_38809_1=<font face="Default" color="#ffffff" >我派一向与神风帮不合，神风帮屡次派人来我派骚扰，我们也要给他们一个教训，你现在去神风帮打探一下，看看有没有什么有用的情报带一份回来。</font>
+accept_38813_1=<font face="Default" color="#ffffff" >当今武林可谓群雄并起，各大宗派实力亦是各有消长，徐家庄弟子素来以“锄强扶弱”为己任，现前去帮助那些门派打败强敌，才是维护武林大势平衡的方法。</font>
+accept_38814_1=<font face="Default" color="#ffffff" >为了证明你平时努力练功，我安排一些任务给你，看你是否能完成。</font>
+accept_38815_1=<font face="Default" color="#ffffff" >最近门派需要这些物资，你前去收集一些回来。</font>
+accept_38816_1=<font face="Default" color="#ffffff" >这次可多亏了你们徐家庄啊，要不然皇家怪罪下来我们可就完了。</font>
+accept_38817_1=<font face="Default" color="#ffffff" >这次可多亏了你们徐家庄啊，要不然皇家怪罪下来我们可就完了。</font>
+accept_38818_1=<font face="Default" color="#ffffff" >如今劫匪横行于世，多行不义，各地镖车多被其不断侵扰。徐家庄弟子当奉行侠义之道，前去运镖正好可以锻炼自己又可以除去劫匪。</font>
+accept_38819_1=<font face="Default" color="#ffffff" >这个</font><font face="Default" color="#ffffff" >篝火</font><font face="Default" color="#ffffff" >已经添置了木柴，可以加旺了</font>
+accept_38820_1=<font face="Default" color="#ffffff" >食物已经放置好，可以开始烤制了</font>
+accept_38821_1=<font face="Default" color="#ffffff" >我知道你心中一直有一个心结，一直没解开，但是你想开始新的生活，你不知道怎么才能摆脱过去的阴影，所以你来找我了。</font>
+accept_38822_1=<font face="Default" color="#ffffff" >你心中的结很深，有很多东西放不下，</font><font face="Default" color="#ffffff" >有些东西由我说不合适，</font><font face="Default" color="#ffffff" >我想你应该先去找几个人谈谈，他们会稍微让你明白些东西。</font>
+accept_38850_1=<font face="Default" color="#ffffff" >出师需要经得庄主同意，你去找庄主商谈吧。</font>
+accept_38851_1=<font face="Default" color="#ffffff" >离开徐家庄需要经得庄主同意，你去找庄主商谈吧。</font>
+accept_38861_1=<font face="Default" color="#ffffff" >看你面生得紧，莫非是</font><font face="Default" color="#ffffff" >本庄</font><font face="Default" color="#ffffff" >新晋</font><font face="Default" color="#ffffff" >的门人</font><font face="Default" color="#ffffff" >？</font>
+accept_38862_1=<font face="Default" color="#ffffff" >你</font><font face="Default" color="#ffffff" >既是刚</font><font face="Default" color="#ffffff" >来不久</font><font face="Default" color="#ffffff" >，</font><font face="Default" color="#ffffff" >先</font><font face="Default" color="#ffffff" >去</font><font face="Default" color="#ffffff" >熟悉</font><font face="Default" color="#ffffff" >一下</font><font face="Default" color="#ffffff" >本庄环境。</font>
+accept_38863_1=<font face="Default" color="#ffffff" >我三弟天池</font><font face="Default" color="#ffffff" >一向</font><font face="Default" color="#ffffff" >痴迷练武，你</font><font face="Default" color="#ffffff" >现在便去拜见他罢</font><font face="Default" color="#ffffff" >。</font>
+accept_38864_1=<font face="Default" color="#ffffff" >这有些桂花糕，你</font><font face="Default" color="#ffffff" >替我送到</font><font face="Default" color="#ffffff" >薛寒和冰</font><font face="Default" color="#ffffff" >秋手中</font><font face="Default" color="#ffffff" >。</font>
+accept_38864_2=<font face="Default" color="#ffffff" >你倒疑心得很。哼，我这一双儿女乃亡妻所生，自我遵从大哥之命续弦后，他们便与我日渐疏远。如今这碟桂花糕，难道是我当父亲的求着他们吃</font><font face="Default" color="#ffffff" >的</font><font face="Default" color="#ffffff" >么？</font>
+accept_38865_1=<font face="Default" color="#ffffff" >这么多</font><font face="Default" color="#ffffff" >糕</font><font face="Default" color="#ffffff" >点，我和冰秋哪里吃得完，有劳你去请子汐</font><font face="Default" color="#ffffff" >姐</font><font face="Default" color="#ffffff" >和</font><font face="Default" color="#ffffff" >皓月姐夫</font><font face="Default" color="#ffffff" >过来一同享用。</font>
+accept_38866_1=<font face="Default" color="#ffffff" >唉......大</font><font face="Default" color="#ffffff" >庄主的三位公子，</font><font face="Default" color="#ffffff" >性格迥异，彼此相处得</font><font face="Default" color="#ffffff" >并不</font><font face="Default" color="#ffffff" >是那么</font><font face="Default" color="#ffffff" >和睦，我这里准备了一些东西，</font><font face="Default" color="#ffffff" >你不妨</font><font face="Default" color="#ffffff" >假装是他们互</font><font face="Default" color="#ffffff" >赠之礼</font><font face="Default" color="#ffffff" >，</font><font face="Default" color="#ffffff" >如此一一</font><font face="Default" color="#ffffff" >交到他们手中。送完后</font><font face="Default" color="#ffffff" >，便</font><font face="Default" color="#ffffff" >回来</font><font face="Default" color="#ffffff" >拜见大</font><font face="Default" color="#ffffff" >庄主</font><font face="Default" color="#ffffff" >，他应是有事要嘱咐与你</font><font face="Default" color="#ffffff" >。</font>
+accept_38867_1=<font face="Default" color="#ffffff" >哦？原来阴平先生想了这么个法子缓和他们三兄弟的关系，也难为他了。</font>
+accept_38871_1=<font face="Default" color="#ffffff" >我现在便要助大庄主疗伤。</font>
+accept_38872_1=<font face="Default" color="#ffffff" >别假惺惺的了！云鹏</font><font face="Default" color="#ffffff" >已然醒来，</font><font face="Default" color="#ffffff" >我四海镖局死去的弟兄们所受之伤，若不是你徐家的尺法所致，还能是怎么来的？你手中这把重剑，不正是徐家庄劫镖得来的贼赃么！想不到徐家庄在江湖上侠名远播，背地里竟也干些卑鄙龌龊的勾当！</font>
+accept_38873_1=<font face="Default" color="#ffffff" >此剑乃是我在外乡觅得，岂有不识之理。但前几日，我已将它转手卖给徐家庄四小姐与沈姑爷，如今怎会落入你手？</font>
+accept_38873_2=<font face="Default" color="#ffffff" >上个月有个外乡人抱着这剑来我这，说手头吃紧要卖了他。我见他来历不明，怕惹祸上身，原是不敢收的。但他说</font>
+accept_38874_1=<font face="Default" color="#ffffff" >住口！这柄重剑本就不是你的东西，快快</font><font face="Default" color="#ffffff" >交还予我</font><font face="Default" color="#ffffff" >！</font>
+accept_38875_1=<font face="Default" color="#ffffff" >在下听闻，徐云铮徐大庄主中了毒，内力被封故被曹腾偷袭。贵庄沈皓月徐子汐夫妇因是送剑之人，嫌疑最大，如今他二人自愿禁足庄中，可有此事？</font>
+accept_38875_2=<font face="Default" color="#ffffff" >沈皓月既来自金针沈家，理应不会</font><font face="Default" color="#ffffff" >如此</font><font face="Default" color="#ffffff" >。</font><font face="Default" color="#ffffff" >眼下</font><font face="Default" color="#ffffff" >消息传得沸沸扬扬，沈家</font><font face="Default" color="#ffffff" >必有所耳闻</font><font face="Default" color="#ffffff" >。</font><font face="Default" color="#ffffff" >方</font><font face="Default" color="#ffffff" >才我</font><font face="Default" color="#ffffff" >还瞧</font><font face="Default" color="#ffffff" >见</font><font face="Default" color="#ffffff" >贵庄</font><font face="Default" color="#ffffff" >徐子凌</font><font face="Default" color="#ffffff" >徐公子</font><font face="Default" color="#ffffff" >往沈家堡方向去了</font><font face="Default" color="#ffffff" >。</font>
+accept_38876_1=<font face="Default" color="#ffffff" >徐沈两家世代交好，幸得天怀叔深明大义，信得过我们。此事一定要查得水落石出，给沈家一个交代。眼下我还有一些事要办，你先行回庄向阴平先生禀报，我们已取得了沈家的谅解。</font>
+accept_38881_1=<font face="Default" color="#ffffff" >我已查明，大庄主所中之毒确是在细细端详此剑时触碰所致。然而此剑购来之时，却并未淬毒，否则子汐小姐必定会先受其害。重剑摆放之处，唯有我徐家门人方能得知。故而我断定，此次必定是庄内之人下毒。若论此剑经手，现下唯皓月相公、子汐小姐、冰秋小姐、薛寒少爷和下人徐三嫌疑最大。我要你去与他们交谈，问明前天晚上在做什么。</font>
+accept_38882_1=<font face="Default" color="#ffffff" >唉，依大庄主的气度，必定会顾念亲情，宽恕冰秋小姐。只是她因这儿女私情，作出如此偏激之事，实在叫人惋惜......</font><font face="Default" color="#ffffff" >此事暂且不谈，我方才得到消息，浣花四杰中的君淮明君少侠，近日被人盗走了佩剑，我要你去浣花山庄走一趟，看看是否与本庄此次卷入的事件有所关联。</font>
+accept_38883_1=<font face="Default" color="#ffffff" >那是几日前的事了，</font><font face="Default" color="#ffffff" >说来惭愧。</font>
+accept_38884_1=<font face="Default" color="#ffffff" >话虽如此，眼下却无一点头绪......</font>
+accept_38884_2=<font face="Default" color="#ffffff" >贵庄在江湖上侠名远播，又以乌墨尺法行走江湖。依君某之见，断不可能与劫镖盗剑有关。但若真是连环作案，那真正的主谋背后动机实在不宜小觑......</font>
+accept_38891_1=<font face="Default" color="#ffffff" >此事暂且不提。</font><font face="Default" color="#ffffff" >先前我</font><font face="Default" color="#ffffff" >托</font><font face="Default" color="#ffffff" >二公子去</font><font face="Default" color="#ffffff" >查一桩事</font><font face="Default" color="#ffffff" >，</font><font face="Default" color="#ffffff" >二公子却迟迟没有消息。再等一盏茶的功夫，若二公子还不回来。</font><font face="Default" color="#ffffff" >你</font><font face="Default" color="#ffffff" >便即刻前</font><font face="Default" color="#ffffff" >去南宫世家接应</font><font face="Default" color="#ffffff" >与</font><font face="Default" color="#ffffff" >他。记住</font><font face="Default" color="#ffffff" >，只可在门外等候，断不能冒然闯进南宫府邸</font><font face="Default" color="#ffffff" >。</font>
+accept_38892_1=<font face="Default" color="#ffffff" >自从四海镖局的曹镖头来过</font><font face="Default" color="#ffffff" >之</font><font face="Default" color="#ffffff" >后，三叔发现徐家庄附近偶有南宫世家的弟子出没。他怀疑那些人是南宫世家派来监视我们的，因而非常气愤。不但将他们轰走，更是闯进南宫世家理论。阴平先生怕他冲动误事，这才让我去将他追回来，谁知晚了一步，等我到此时，三叔已与他们动过了手，此刻应仍被扣留在南宫世家府邸之内。</font>
+accept_38892_2=<font face="Default" color="#ffffff" >唉，以三叔的脾气......</font><font face="Default" color="#ffffff" >每在南宫世家多待一刻，</font><font face="Default" color="#ffffff" >我们想解除误会的难度便多一分</font><font face="Default" color="#ffffff" >。为今之计，只好我登门</font><font face="Default" color="#ffffff" >道歉，</font><font face="Default" color="#ffffff" >请他们释放三叔</font><font face="Default" color="#ffffff" >。</font><font face="Default" color="#ffffff" >你</font><font face="Default" color="#ffffff" >可否先行</font><font face="Default" color="#ffffff" >潜入南宫世家，</font><font face="Default" color="#ffffff" >我们须先了解</font><font face="Default" color="#ffffff" >三叔</font><font face="Default" color="#ffffff" >此刻身在何处</font><font face="Default" color="#ffffff" >。</font>
+accept_38893_1=<font face="Default" color="#ffffff" >又是你！休想坏我好事，待我先料理了你，再解决徐天池！</font>
+accept_38894_1=<font face="Default" color="#ffffff" >徐家庄此次得以化解干戈，还得清白，你功不可没。想不到子汐小姐与沈相公购来的重剑竟是林天南林大侠委托东方世家所铸的佩剑。林大侠的高徒傅博渊眼下正在本庄作客，你将重剑交付于他罢。</font>
+accept_38895_1=<font face="Default" color="#ffffff" >这次西南之行，</font><font face="Default" color="#ffffff" >不但为师父</font><font face="Default" color="#ffffff" >寻回重剑，也看到</font><font face="Default" color="#ffffff" >贵庄</font><font face="Default" color="#ffffff" >在徐</font><font face="Default" color="#ffffff" >大</font><font face="Default" color="#ffffff" >庄主的</font><font face="Default" color="#ffffff" >执掌</font><font face="Default" color="#ffffff" >下</font><font face="Default" color="#ffffff" >日益壮大。徐家庄侠名远播，如今</font><font face="Default" color="#ffffff" >更有少侠这般的出色弟子加入</font><font face="Default" color="#ffffff" >，相信</font><font face="Default" color="#ffffff" >日后定能成为西南武林</font><font face="Default" color="#ffffff" >的</font><font face="Default" color="#ffffff" >中流砥柱。</font>
+accept_38895_2=<font face="Default" color="#ffffff" >东方</font><font face="Default" color="#ffffff" >前辈何以愁眉不展</font><font face="Default" color="#ffffff" >？</font>
+accept_38896_1=<font face="Default" color="#ffffff" >此次我徐家庄得以查明真相，重振声威，你功不可没！</font>
+accept_38900_1=<font face="Default" color="#ffffff" >你也是听到我们徐家庄在江湖上的名声来加入我们的吧</font>
+accept_38901_1=<font face="Default" color="#ffffff" >你想要加入徐家庄还需要接受一下考验，放心，很简单的。</font>
+accept_38902_1=<font face="Default" color="#ffffff" >我们徐家庄讲求江湖正义，由于你恶行太多，我想你加入徐家庄，但我这人是公平的，打败我，可以减免你100点恶行和桀骜。少年准备好了么。</font>
+accept_38903_1=<font face="Default" color="#ffffff" >找到徐家二小姐徐子汐，看看</font><font face="Default" color="#ffffff" >会给你什么考验</font>
+accept_38904_1=<font face="Default" color="#ffffff" >想加入徐家庄就必须要有一个平和的心，我过去层游历过很多地方，如果你能到达那些地方，我就认同你</font>
+accept_38905_1=<font face="Default" color="#ffffff" >接着去寻找下一处地方吧</font>
+accept_38906_1=<font face="Default" color="#ffffff" >接着去寻找下一处地方吧</font>
+accept_38907_1=<font face="Default" color="#ffffff" >寻找到最后一处地点</font>
+accept_38908_1=<font face="Default" color="#ffffff" >找到</font><font face="Default" color="#ffffff" >徐漠风</font><font face="Default" color="#ffffff" >，他会给你新的考验</font>
+accept_38909_1=<font face="Default" color="#ffffff" >我年纪大了以后就在这一直看着这些鱼，对生命多了一些特别的理解，我觉得你对生命的理解很差，你再去钓4尾不同颜色的鱼给我。</font>
+accept_38910_1=<font face="Default" color="#ffffff" >既然你想加入徐家庄，我就告诉你一些事</font>
+accept_38911_1=<font face="Default" color="#ffffff" >找到庄主，他会对你做出最后的考验</font>
+accept_38912_1=<font face="Default" color="#ffffff" >要加入徐家庄必须要将姓氏改成“徐”，你接受么</font>
+accept_38913_1=<font face="Default" color="#ffffff" >打败我的</font><font face="Default" color="#ffffff" >弟弟</font><font face="Default" color="#ffffff" >就能通过我的考验</font>
+accept_38914_1=<font face="Default" color="#ffffff" >拥有邀请函可以加入徐家庄</font>
+accept_38915_1=<font face="Default" color="#ffffff" >由于我的疏忽，前几天丢了一幅我最心爱的画卷，你能帮我找回来么，</font><font face="Default" color="#ffffff" >这些刺绣上的风景是我之前去过的地方，你按照上面的风景去找找看。</font>
+accept_38916_1=<font face="Default" color="#ffffff" >我家庄主觉得少侠无事献殷勤，非奸即盗，庄主有请少侠回答几个问题。</font>
+accept_38917_1=<font face="Default" color="#ffffff" >老夫要看看少侠的实力如何。</font>
+accept_38918_1=<font face="Default" color="#ffffff" >少侠请留步，我已几日没有进食了，行行好，给几个包子吧。</font>
+accept_38919_1=<font face="Default" color="#ffffff" >你就是</font><font face="Default" color="#ffffff" >我</font><font face="Default" color="#ffffff" >徐家庄弟子所说的</font><font face="Default" color="#ffffff" >豪情</font><font face="Default" color="#ffffff" >少侠</font><font face="Default" color="#ffffff" >？</font>
+accept_38920_1=<font face="Default" color="#ffffff" >收集3张徐家庄弟子感谢信可以来我这里换成一张徐家庄邀请函</font>
+accept_38921_1=<font face="Default" color="#ffffff" >我徐家庄只接受姓徐的侠士，你是否愿意将姓氏改成徐，假如你同意，我将直接送你去金陵。</font>
+accept_38922_1=<font face="Default" color="#ffffff" >少侠</font><font face="Default" color="#ffffff" >可否拜入我徐家庄。</font>
+accept_38923_1=<font face="Default" color="#ffffff" >（疯丐想起痛处，泪流不止，包子咽到一半，停住了。）</font>
+accept_38924_1=<font face="Default" color="#ffffff" >在资格审核处接受审核，获得徐家庄审核令牌</font>
+accept_38925_1=<font face="Default" color="#ffffff" >在资格审核处接受审核，获得徐家庄审核令牌</font>
+accept_38926_1=<font face="Default" color="#ffffff" >想要加入徐家庄，来我这测试一下你的资质吧</font>
+accept_38927_1=<font face="Default" color="#ffffff" >想要加入徐家庄，必须先通过我的审核</font>
+accept_38928_1=<font face="Default" color="#ffffff" >恭喜你资质完美，非常符合我徐家庄的侠义精神</font>
+accept_38929_1=<font face="Default" color="#ffffff" >你找到我的画卷了么，那你还站这里做什么，还不快去找！</font>
+accept_38930_1=<font face="Default" color="#ffffff" >生命的真谛</font><font face="Default" color="#ffffff" >在于感恩，我们要敬畏生命，你能理解我的话么？</font>
+accept_38931_1=<font face="Default" color="#ffffff" >想要加入徐家庄，必须先通过我的审核</font>
+accept_38932_1=<font face="Default" color="#ffffff" >想要加入徐家庄，必须先通过我的审核</font>
+accept_38949_1=<font face="Default" color="#ffffff" >为了证明你平时努力练功，我安排一些任务给你，看你是否能完成。</font>
+accept_38950_1=<font face="Default" color="#ffffff" >为了证明你平时努力练功，我安排一些任务给你，看你是否能完成。</font>
+accept_38951_1=<font face="Default" color="#ffffff" >身份晋级一共有三种难度，你可以任意选择一种适合自己的难度。</font>
+accept_38952_1=<font face="Default" color="#ffffff" >我将考验你的</font><font face="Default" color="#ffffff" >修行</font><font face="Default" color="#ffffff" >与武艺，通过考验后，你便可以获得相应的身份。</font>
+accept_38953_1=<font face="Default" color="#ffffff" >我将考验你的修行与武艺，通过考验后，你便可以获得相应的身份。</font>
+accept_38954_1=<font face="Default" color="#ffffff" >我将考验你的修行与武艺，通过考验后，你便可以获得相应的身份。</font>
+accept_38955_1=<font face="Default" color="#ffffff" >身份晋级一共有“简单”、“普通”、“困难”三种难度可供选择，在不同难度下你所需要上交的令牌数量和切磋的武功实力都不同。</font>
+accept_38956_1=<font face="Default" color="#ffffff" >我将考验你的日常修行与武学修炼，通过考验后，你</font><font face="Default" color="#ffffff" >才</font><font face="Default" color="#ffffff" >可以获得相应的身份。</font>
+accept_38957_1=<font face="Default" color="#ffffff" >我将考验你的修行与武艺，通过考验后，你便可以获得相应的身份。</font>
+accept_38958_1=<font face="Default" color="#ffffff" >我将考验你的日常修行与武学修炼，通过考验后，你才可以获得相应的身份。</font>
+accept_38971_1=<font face="Default" color="#ffffff" >想要获得更高的武学,你就得证明自己的实力足够。记得必须要先通过青云堡和暮色之村。</font>
+accept_38972_1=<font face="Default" color="#ffffff" >  你加入了我徐家庄，应该要好好习武，勤加练习，用来帮助江湖中那些需要我们帮助的人。这里是一些我徐家庄秘制的丹药，能大幅度的提升我们的内功修为，切记，每日不可多吃，否则容易走火入魔。</font>
+accept_38973_1=<font face="Default" color="#ffffff" >  不错不错，你现在内功已经有所小成，这些丹药是下阶段所需要的，你拿去吧。</font>
+accept_38974_1=<font face="Default" color="#ffffff" >  果然我没看错人，你是一个有毅力又有侠义之心的人，我徐家庄能收到你这样的弟子，真实荣幸。这些是最后的秘药，你拿去用吧，切记，欲速则不达，不可一日服用。</font>
+complete_38801=<font face="Default" color="#ffffff" >恩，你做的非常好。</font>
+complete_38802=<font face="Default" color="#ffffff" >火堆已经添</font><font face="Default" color="#ffffff" >过木</font><font face="Default" color="#ffffff" >柴</font><font face="Default" color="#ffffff" >了</font>
+complete_38803=
+complete_38804=<font face="Default" color="#ffffff" >我想有你的帮助，村民一定很开心</font><font face="Default" color="#ffffff" >，这是给你的奖励！</font>
+complete_38805=<font face="Default" color="#ffffff" >很好，这样我们就知道神风帮背地里有什么计划了。</font>
+complete_38806=<font face="Default" color="#ffffff" >恩，你做的非常好。</font>
+complete_38807=<font face="Default" color="#ffffff" >算你行，坚持下来了，没变烤猪</font>
+complete_38808=<font face="Default" color="#ffffff" >村民得到了帮助，你也得到了锻炼</font>
+complete_38809=<font face="Default" color="#ffffff" >这么快就回来了?</font>
+complete_38813=<font face="Default" color="#ffffff" >你所做的我都看到了，没丢我们徐家庄的脸，做的很不错。</font>
+complete_38814=<font face="Default" color="#ffffff" >做的好，徐家庄以后就靠你们了！</font>
+complete_38815=<font face="Default" color="#ffffff" >做的不错。</font>
+complete_38816=<font face="Default" color="#ffffff" >唉，此事说起来还是因我而其，这蔺封当年是我的师弟，师傅见其心术不正，于是将镖局全部交给了我打理，师弟一时恼怒离开镖局，没想到做了土匪，而且这次居然敢劫皇粮，看来他对我恨之入骨，罢了，念在师兄弟一场，我会给他安排一场后事。</font>
+complete_38817=<font face="Default" color="#ffffff" >这次可多亏了你们徐家庄啊，要不然皇家怪罪下来我们可就完了。</font>
+complete_38818=<font face="Default" color="#ffffff" >你做的非常好。</font>
+complete_38819=<font face="Default" color="#ffffff" >院外大篝火已经熊熊燃烧，干得不错，这是给你的奖励</font>
+complete_38820=<font face="Default" color="#ffffff" >啧啧，香气扑鼻，做的不错，这是给你的奖励</font>
+complete_38821=<font face="Default" color="#ffffff" >哎，痴儿，痴儿</font>
+complete_38822=<font face="Default" color="#ffffff" >虽然你心中还是放不下，但我看你心中的包袱已经轻了少许，这是紫阳真人留下的道家经书，希望你能好好参悟，解开心结。</font>
+complete_38850=<font face="Default" color="#ffffff" >入庄以来我观你天资聪颖，心性纯善。如今徐家庄所学皆以传授与你，希望你在江湖之中惩恶扬善，万万不可辱没徐家庄名号！</font>
+complete_38851=<font face="Default" color="#ffffff" >我徐家剑法被被盟主林天南称之为“天下无双，巧妙至极”，若离开徐家庄，将无法继续修行，希望你慎重考虑之后再来找我！</font>
+complete_38861=<font face="Default" color="#ffffff" >徐家庄的未来，终究是要交付到你们手上，</font><font face="Default" color="#ffffff" >慢慢去成长，去体会吧。</font>
+complete_38862=<font face="Default" color="#ffffff" >你</font><font face="Default" color="#ffffff" >既已</font><font face="Default" color="#ffffff" >入了徐家，</font><font face="Default" color="#ffffff" >当</font><font face="Default" color="#ffffff" >可自由传习</font><font face="Default" color="#ffffff" >乌墨尺法</font><font face="Default" color="#ffffff" >精髓</font><font face="Default" color="#ffffff" >。须得勤加操练，切莫白费了这难能可贵的机会。</font>
+complete_38863=<font face="Default" color="#ffffff" >恩，</font><font face="Default" color="#ffffff" >天赋异禀，</font><font face="Default" color="#ffffff" >可造之材。</font>
+complete_38864=<font face="Default" color="#ffffff" >代我谢谢爹......还有，有劳你跑这一趟了。</font>
+complete_38865=<font face="Default" color="#ffffff" >你便是本庄最近新招募的门人么？</font>
+complete_38866=<font face="Default" color="#ffffff" >哦，你已将全庄逛过？</font>
+complete_38867=<font face="Default" color="#ffffff" >大</font><font face="Default" color="#ffffff" >庄主</font><font face="Default" color="#ffffff" >并不</font><font face="Default" color="#ffffff" >大碍，只</font><font face="Default" color="#ffffff" >不过中了曹腾的毒</font><font face="Default" color="#ffffff" >药</font><font face="Default" color="#ffffff" >罢了</font><font face="Default" color="#ffffff" >。</font><font face="Default" color="#ffffff" >那</font><font face="Default" color="#ffffff" >曹腾武功平平，</font><font face="Default" color="#ffffff" >岂能伤及大庄主性命</font><font face="Default" color="#ffffff" >，你不必过于担心。</font>
+complete_38871=<font face="Default" color="#ffffff" >徐家庄就派你这么</font><font face="Default" color="#ffffff" >个无名小卒前</font><font face="Default" color="#ffffff" >来领罪？</font>
+complete_38872=<font face="Default" color="#ffffff" >这位义士，可是要来寻一把趁手的兵器？</font>
+complete_38873=<font face="Default" color="#ffffff" >原来阁下是</font><font face="Default" color="#ffffff" >徐家庄的弟子</font><font face="Default" color="#ffffff" >。</font>
+complete_38874=<font face="Default" color="#ffffff" >曹腾一个跑镖出身，眼光自是毒辣得很，脑子就有些不够用了。你</font><font face="Default" color="#ffffff" >既代表贵庄追查此事</font><font face="Default" color="#ffffff" >，我就不向你讨要</font><font face="Default" color="#ffffff" >这物证了</font><font face="Default" color="#ffffff" >，但</font><font face="Default" color="#ffffff" >望阁下记住，此事真相大白之后，还请贵庄将这柄重剑物归原主，交至林大侠手中。</font>
+complete_38875=<font face="Default" color="#ffffff" >原来如此......溪儿竟然对子凌贤侄动手，实在太过无礼！我要将他带回，好好训斥一番。有劳你替我向子凌贤侄致歉</font><font face="Default" color="#ffffff" >，此事我相信徐家庄定会查明真相，沈家就静候消息了。</font>
+complete_38876=<font face="Default" color="#ffffff" >哦</font><font face="Default" color="#ffffff" >，</font><font face="Default" color="#ffffff" >是你回来了。你前去查探的这些时辰，我在庄中亦寻得一些线索。</font>
+complete_38881=<font face="Default" color="#ffffff" >看你神情，想必心中已是有了答案。</font>
+complete_38882=<font face="Default" color="#ffffff" >果然是天赋异禀，英雄出少年。</font>
+complete_38883=<font face="Default" color="#ffffff" >事情经过大概便是如此了。君某的佩剑乃是东方世家一故友所铸，整个浣花山庄唯我有幸得此一物。如今平白无故丢失，实乃愧对老友......</font>
+complete_38884=<font face="Default" color="#ffffff" >又是东方世家</font><font face="Default" color="#ffffff" >......成都城货商处所购之</font><font face="Default" color="#ffffff" >剑</font><font face="Default" color="#ffffff" >、</font><font face="Default" color="#ffffff" >四海镖局</font><font face="Default" color="#ffffff" >丢失的货物、</font><font face="Default" color="#ffffff" >君淮明的</font><font face="Default" color="#ffffff" >贴身佩剑，</font><font face="Default" color="#ffffff" >他们的目标为何都是东方世家的铸剑</font><font face="Default" color="#ffffff" >？如若我料想得不错，这应该是同一批人所为，却不知其用意何在？</font>
+complete_38891=<font face="Default" color="#ffffff" >你怎么来了？</font>
+complete_38892=<font face="Default" color="#ffffff" >谁？</font>
+complete_38894=<font face="Default" color="#ffffff" >我代师父谢过少侠了！</font>
+complete_38895=<font face="Default" color="#ffffff" >你去见过东方士廷和傅博渊了么？</font>
+complete_38896=<font face="Default" color="#ffffff" >今天就到此</font><font face="Default" color="#ffffff" >为止</font><font face="Default" color="#ffffff" >，你先下去休息吧。</font>
+complete_38900=<font face="Default" color="#ffffff" >你来的正好，我们徐家庄正缺你这种有潜力的弟子。</font>
+complete_38901=<font face="Default" color="#ffffff" >嘿！又来一个菜鸟，我都不忍心下手了，要不让我弟弟试试你的本事。</font>
+complete_38902=<font face="Default" color="#ffffff" >看你能知错悔改，就给你次一洗刷罪恶的机会，继续努力吧</font>
+complete_38903=<font face="Default" color="#ffffff" >你</font><font face="Default" color="#ffffff" >通过</font><font face="Default" color="#ffffff" >徐子凌的考验了，实力还不错</font>
+complete_38904=<font face="Default" color="#ffffff" >你竟然可以找到这里，那接着去寻找下一处地方吧</font>
+complete_38905=<font face="Default" color="#ffffff" >你竟然可以找到这里</font><font face="Default" color="#ffffff" >，继续努力</font>
+complete_38906=<font face="Default" color="#ffffff" >你竟然可以找到这里</font><font face="Default" color="#ffffff" >，你果然不是一般人</font>
+complete_38907=<font face="Default" color="#ffffff" >你能发现这些地方很好，你通过了我的考验</font>
+complete_38908=<font face="Default" color="#ffffff" >是子汐那丫头叫你来我这边的吧</font>
+complete_38909=<font face="Default" color="#ffffff" >这么快就钓到我需要的鱼了，真是个聪明伶俐的孩子。</font>
+complete_38910=<font face="Default" color="#ffffff" >看来漠风大哥很看好你啊，和你说了那么多，记得以后多去陪陪他。</font>
+complete_38911=<font face="Default" color="#ffffff" >你来啦</font>
+complete_38912=<font face="Default" color="#ffffff" >很好，现在我正式邀请你加入徐家庄，在问你一次，你是否要加入徐家庄</font><font face="Default" color="#ffffff" >？</font>
+complete_38913=<font face="Default" color="#ffffff" >很好，你比我那个不成器的</font><font face="Default" color="#ffffff" >弟弟</font><font face="Default" color="#ffffff" >强</font>
+complete_38914=<font face="Default" color="#ffffff" >你已经有我</font><font face="Default" color="#ffffff" >的</font><font face="Default" color="#ffffff" >邀请函了</font><font face="Default" color="#ffffff" >，你确定要加入徐家庄么？</font>
+complete_38915=<font face="Default" color="#ffffff" >怎么样，</font><font face="Default" color="#ffffff" >找到啦，太感谢你了</font>
+complete_38916=<font face="Default" color="#ffffff" >看来少侠确实对字画颇有研究，老夫就算认识了。</font>
+complete_38917=<font face="Default" color="#ffffff" >少侠年纪轻轻，功夫了得，老夫</font><font face="Default" color="#ffffff" >很</font><font face="Default" color="#ffffff" >欣赏</font><font face="Default" color="#ffffff" >你</font><font face="Default" color="#ffffff" >。</font>
+complete_38918=<font face="Default" color="#ffffff" >呼哧、呼哧，好大的</font><font face="Default" color="#ffffff" >肉包子！</font>
+complete_38919=<font face="Default" color="#ffffff" >看来少侠考虑好了，现在可以</font><font face="Default" color="#ffffff" >去书童处阅读庄规并</font><font face="Default" color="#ffffff" >完成改姓事宜。</font>
+complete_38920=<font face="Default" color="#ffffff" >去找我们庄主吧</font>
+complete_38921=<font face="Default" color="#ffffff" >你已经将姓氏改成徐了，现在我就送你</font><font face="Default" color="#ffffff" >回</font><font face="Default" color="#ffffff" >徐家庄</font>
+complete_38922=<font face="Default" color="#ffffff" >看来少侠考虑好了，现在可以</font><font face="Default" color="#ffffff" >去书童处阅读庄规并</font><font face="Default" color="#ffffff" >完成改姓事宜。</font>
+complete_38923=<font face="Default" color="#ffffff" >我已把少侠的情况禀报庄主，少侠可直接去徐家庄找徐庄主，但在此之前，少侠须先去资质审核处判定是否满足我徐家庄入门条件。</font>
+complete_38924=<font face="Default" color="#ffffff" >恭喜你成功通过审核，满足加入我徐家庄的条件，你可以加入我徐家庄</font>
+complete_38925=<font face="Default" color="#ffffff" >恭喜你通过测试</font>
+complete_38926=<font face="Default" color="#ffffff" >恭喜你成功通过审核，满足加入我徐家庄的条件，你</font><font face="Default" color="#ffffff" >可以加入</font><font face="Default" color="#ffffff" >我徐家庄</font>
+complete_38927=<font face="Default" color="#ffffff" >你已经测试过了么</font><font face="Default" color="#ffffff" >，只有通过测试，我才会给你加入徐家庄的凭证</font>
+complete_38928=<font face="Default" color="#ffffff" >很好，你来这里表示你通过了考验</font>
+complete_38929=<font face="Default" color="#ffffff" >你找到了么，我看看是不是我丢失的画卷</font>
+complete_38930=<font face="Default" color="#ffffff" >如果你不是敷衍我，而是真的懂就好了</font>
+complete_38931=<font face="Default" color="#ffffff" >你已经测试过了么，只有通过测试，我才会给你加入徐家庄的凭证</font>
+complete_38932=<font face="Default" color="#ffffff" >你已经测试过了么，只有通过测试，我才会给你加入徐家庄的凭证</font>
+complete_38949=<font face="Default" color="#ffffff" >做的好，徐家庄以后就靠你们了！</font>
+complete_38950=<font face="Default" color="#ffffff" >做的好，徐家庄以后就靠你们了！</font>
+complete_38951=<font face="Default" color="#ffffff" >如果你已经准备好了的话，就在我这</font><font face="Default" color="#ffffff" >里</font><font face="Default" color="#ffffff" >选择接下来的挑战难度吧。</font>
+complete_38952=<font face="Default" color="#ffffff" >师弟</font><font face="Default" color="#ffffff" >身手不凡，他日必成大器。</font>
+complete_38953=<font face="Default" color="#ffffff" >师弟身手不凡，他日必成大器。</font>
+complete_38954=<font face="Default" color="#ffffff" >师弟身手不凡，他日必成大器。</font>
+complete_38955=<font face="Default" color="#ffffff" >既然你已经准备好了的话，就在我这里选择接下来的挑战难度吧。</font>
+complete_38956=<font face="Default" color="#ffffff" >师弟身手不凡，他日必成大器。</font>
+complete_38957=<font face="Default" color="#ffffff" >师弟身手不凡，他日必成大器。</font>
+complete_38958=<font face="Default" color="#ffffff" >师弟身手不凡，他日必成大器。</font>
+complete_38971=<font face="Default" color="#ffffff" >你拿着庄主奖励你的玉尺令</font><font face="Default" color="#ffffff" >和庄主令</font><font face="Default" color="#ffffff" >就可以来我这边换取门派武学书页了。</font>
+complete_38972=<font face="Default" color="#ffffff" >  等你</font><font face="Default" color="#ffffff" >三清真气达到十层</font><font face="Default" color="#ffffff" >了，再来找我领取下阶段的丹药吧。</font>
+complete_38973=<font face="Default" color="#ffffff" >  等你三清真气修炼到二十层之后再来找我吧，如果我现在一次性给你，只会让你走火入魔。</font>
+complete_38974=<font face="Default" color="#ffffff" >  现在，所有的丹药我都已经赠予给你，以后就还看你自己的造化了，希望不要辜负我一片用心。</font>
+context_38801=最近绑匪盛行，你前去解救若干被绑架的人质。
+context_38802=徐家庄每日修业之一就是生火，院外的火堆需要添些柴火，你现在就去把火生旺一点吧
+context_38803=作为一个徐家庄的门人，要善于生火野炊，现在你需要做的，就是成为一个合格的徐家庄门人，先从做一顿可口的饭菜开始吧！
+context_38804=徐家庄后山救治了一批村民，他们身体虚弱，徐家庄门人需要帮助他们度过难关。
+context_38805=徐家庄与神风帮向来交恶，门主下令，接受此指令的徐家庄弟子需前往神风帮偷取一份情报。
+context_38806=最近恶势力比较猖狂，你前去教训教训他们，让他们收敛收敛。（邪恶势力如下：盐帮，恶虎山寨，天香茶林，虎啸山庄，嵩山铁剑门，摘星门，神风帮，沐云庄，异人庄，十二连环坞，幽冥山庄）
+context_38807=通过火焰的生存考验，证明你是一名合格的徐家庄弟子
+context_38808=徐家庄后山救治了一批村民，他们身体虚弱，徐家庄门人需要帮助他们度过难关。
+context_38809=徐家庄与神风帮向来交恶，门主下令，接受此指令的徐家庄弟子需前往神风帮偷取一份情报。
+context_38813=当今武林可谓群雄并起，各大宗派实力亦是各有消长，徐家庄弟子素来以“锄强扶弱”为己任，二少爷认为现下去帮助那些弱势的门派，才是维护武林大势平衡的方法。
+context_38814=为了证明你平时努力练功，我安排一些任务给你，看你是否能完成。
+context_38815=最近门派需要这些物资，你前去收集一些回来。
+context_38816=蔺封已经伏诛，还是将此事尽快告知威远镖局的总镖头卓天鹏吧。
+context_38817=蔺封已经伏诛，还是将此事尽快告知威远镖局的总镖头卓天鹏吧。
+context_38818=如今劫匪横行于世，多行不义，各地镖车多被其不断侵扰。徐家庄弟子当奉行侠义之道，前去运镖正好可以锻炼自己又可以除去劫匪。
+context_38819=作为一个徐家庄的门人，要善于生火野炊，现在你需要做的，就是成为一个合格的徐家庄门人，先从做一顿可口的饭菜开始吧！
+context_38820=作为一个徐家庄的门人，要善于生火野炊，现在你需要做的，就是成为一个合格的徐家庄门人，先从做一顿可口的饭菜开始吧！
+context_38821=虽说和心爱的人斩断了关系，但是心中始终还存在着那个模糊的影子，无法消散
+context_38822=紫阳真人表示他乃出家人，只能教你为人处世的道理，无法解开你的心结，一切都只是一个缘字。
+context_38829=各大门派纷纷派遣高手前来拜访，实际是为了打探我派实力。
+context_38850=入庄以来我观你天资聪颖，心性纯善。如今徐家庄所学皆以传授与你，希望你在江湖之中惩恶扬善，万万不可辱没徐家庄名号！
+context_38851=我徐家剑法被被盟主林天南称之为“天下无双，巧妙至极”，若离开徐家庄，将无法继续修行，希望你慎重考虑之后再来找我！
+context_38861=拜见大庄主徐云铮，聆听他的教诲。
+context_38862=见过庄主徐云铮，徐云铮勉励了一番，要你在庄内四处走走，熟悉环境。
+context_38863=徐云藻告诉你可去找徐天池讨教一下徐家庄的武功。
+context_38864=替徐天池将桂花糕送去给徐冰秋姐弟。
+context_38865=去见徐子汐和沈皓月，之后去见过智囊先生阴平。
+context_38866=把礼物送到徐子卿、徐子凌、徐子朔手中。
+context_38867=战胜前来滋事的四海镖局曹腾。
+context_38871=听智囊先生阴平计划，去四海镖局对质。
+context_38872=查看成都四海镖局周云鹏的伤势。
+context_38873=货商说起有一位江湖人士也在打听重剑的事，去找他看看。
+context_38874=击败东方士廷，再从他口中得知重剑的来历。
+context_38875=东方士廷说看到徐子凌已去了沈家堡，眼下两家关系紧张，快去助他。
+context_38876=徐子凌有事在身，先行离去，现在可以先回徐家庄找阴平。
+context_38881=询问徐三、沈皓月徐子汐夫妇、徐冰秋徐薛寒姐弟。
+context_38882=浣花山庄君淮明的佩剑也被盗走，你可去浣花山庄拜访一下他。看看是否与本庄卷入的事件有关联。
+context_38883=打败了君淮明，向他说明来意，听他说说他的剑究竟是怎么丢失的。
+context_38884=好的，如果四海镖局的镖不是你们劫走的话，我帮助你们查明真相，对我寻剑自然有益无害。
+context_38891=先前有一件事，我遣二公子去办，公子还没有回来，你去南宫世家附近接应他。记住千万不可进去。
+context_38892=三叔每在南宫世家多待一刻，我们与南宫世家的矛盾便越难化解。为今之计，只好由二公子登门请他们释放三叔，不过，我须先行潜入南宫世家，查明三叔的下落。
+context_38893=<a href="findnpc_new,city05,xjz_zx_009" style="HLStype1">周云鹏</a>想要在南宫世家加害徐天池，挑起两派纷争，阻止他
+context_38894=原来子汐小姐与沈相公购来的重剑竟是林天南林大侠委托东方世家所铸的佩剑。林大侠的高徒傅博渊眼下正在本庄作客，将重剑交付于他。
+context_38895=只是东方兄似乎有些担忧，从南宫世家回来后便愁眉紧缩。
+context_38896=你来了啊，这事的事件你出力甚大，做得不错。我有些话要对你说。
+context_38900=徐家庄广结天下英雄，不如去看看能否加入徐家庄一展抱负
+context_38901=徐子卿想让你先接受徐子凌的考验
+context_38902=打败徐子陵后，徐伏威会帮你洗刷恶行值和桀骜值
+context_38903=找到徐子汐，接受考验
+context_38904=找到徐子汐
+context_38905=寻找二小姐徐子汐
+context_38906=去找到二小姐看风景的地方
+context_38907=去二小姐经常去的地方看看
+context_38908=寻找徐漠风，顺带提醒一下，那老头喜欢钓鱼
+context_38909=老者想考验你对生命真谛的理解，就让你钓起4尾不同颜色的鲤鱼，如果你想通过考验，最好仔细听清老者的话，只要钓起4尾。
+context_38910=你钓到了鱼，老者很高心，请你喝酒顺便聊聊
+context_38911=找到庄主，他会决定是否让你加入徐家庄
+context_38912=将自己的姓氏改成“徐”方可加入徐家庄
+context_38913=打败徐子凌的弟弟徐子朔
+context_38914=拥有徐家庄邀请函，可以去徐庄主那里改姓徐后加入徐家庄
+context_38915=徐子汐在游玩的时候丢失了一幅画卷，希望你能帮她找回来，这些丫鬟的刺绣上绣了一些当时游玩地点的风景，也许你能从中找到一些线索。
+context_38916=徐家庄庄主<a href="findnpc_new,city05,WorldNpc09796" style="HLStype1">徐云铮</a>觉着你没事献殷勤，非奸即盗，想出些题考考你。
+context_38917=徐家庄庄主<a href="findnpc_new,city05,WorldNpc09796" style="HLStype1">徐云铮</a>要试探你的实力。
+context_38918=这个叫<a href="findnpc_new,city05,xjz_rm_002" style="HLStype1">徐小清（疯乞）</a>的小乞丐，可怜兮兮，饿得看起来要倒下的样子，给他找些吃的东西吧。
+context_38919=去徐家庄找庄主<a href="findnpc_new,city05,WorldNpc09796" style="HLStype1">徐云铮</a>商讨入门事宜。
+context_38920=感谢信有几率在解救徐家庄被绑架的弟子身上掉落。
+context_38921=去金陵找徐家庄改姓长老，他会带你去办理改姓手续。
+context_38922=<a href="findnpc_new,city05,WorldNpc09796" style="HLStype1">徐云铮</a>要你考虑下是否加入徐家庄。
+context_38923=<a href="findnpc_new,city05,xjz_rm_002" style="HLStype1">徐小清（疯乞）</a>想告诉你他的身世，去看一下吧。
+context_38924=只有通过资质审核，才能加入徐家庄。
+context_38925=只有通过资质审核，才能加入徐家庄。
+context_38926=徐家庄弟子招募员要审核一下你的资质是否满足加入徐家庄
+context_38927=只有通过资质审核，才能加入徐家庄
+context_38928=在资格审核处接受审核，获得徐家庄审核令牌
+context_38929=徐子汐在游玩的时候丢失了一幅画卷，希望你能帮他找回来，这些丫鬟的刺绣上绣了一些当时游玩地点的风景，也许你能从中找到一些线索。
+context_38930=老者觉得你需要学会怎么敬畏生命，学会感恩，不要肆意掠夺生命。
+context_38931=只有通过资质审核，才能加入徐家庄
+context_38932=只有通过资质审核，才能加入徐家庄
+context_38949=为了证明你平时努力练功，我安排一些任务给你，看你是否能完成。
+context_38950=为了证明你平时努力练功，我安排一些任务给你，看你是否能完成。
+context_38951=做好接受挑战的准备
+context_38952=完成身份晋级挑战
+context_38953=完成身份晋级挑战
+context_38954=完成身份晋级挑战
+context_38955=了解身份晋级的难度选择
+context_38956=完成身份晋级挑战
+context_38957=完成身份晋级挑战
+context_38958=完成身份晋级挑战
+context_38971=想要获得更高的武学,你就得证明自己的实力足够。记得必须要先通过青云堡和暮色之村。
+context_38972=  你加入了我徐家庄，应该要好好习武，勤加练习，用来帮助江湖中那些需要我们帮助的人。这里是一些我徐家庄秘制的丹药，能大幅度的提升我们的内功修为，切记，每日不可多吃，否则容易走火入魔。
+context_38973=  不错不错，你现在内功已经有所小成，这些丹药是下阶段所需要的，你拿去吧。
+context_38974=  果然我没看错人，你是一个有毅力又有侠义之心的人，我徐家庄能收到你这样的弟子，真实荣幸。这些是最后的秘药，你拿去用吧，切记，欲速则不达，不可一日服用。
+menu_38801_1=<font face="Default" color="#ffffff" >好的，我这就去。</font>
+menu_38802_1=<font face="Default" color="#ffffff" >大哥说的是，我这就去</font><font face="Default" color="#ffffff" >添柴加旺</font>
+menu_38803_1=<font face="Default" color="#ffffff" >我现在就</font><font face="Default" color="#ffffff" >去烤制食物</font>
+menu_38804_1=<font face="Default" color="#ffffff" >遵命，三庄主</font>
+menu_38805_1=<font face="Default" color="#ffffff" >三庄主</font><font face="Default" color="#ffffff" >，我速去速回</font>
+menu_38806_1=<font face="Default" color="#ffffff" >好的，我这就去。</font>
+menu_38807_1=<font face="Default" color="#ffffff" >我该如何掌握？</font>
+menu_38808_1=<font face="Default" color="#ffffff" >我这就去</font>
+menu_38809_1=<font face="Default" color="#ffffff" >我这就去</font>
+menu_38813_1=<font face="Default" color="#ffffff" >好的，我这就去。</font>
+menu_38814_1=<font face="Default" color="#ffffff" >好的，我这就去！</font>
+menu_38815_1=<font face="Default" color="#ffffff" >好的。</font>
+menu_38816_1=<font face="Default" color="#ffffff" >镖头客气了，惩奸除恶的事情我们徐家庄可从不推脱</font><font face="Default" color="#ffffff" >。</font>
+menu_38817_1=<font face="Default" color="#ffffff" >镖头客气了，惩奸除恶的事情我们徐家庄可从不推脱</font><font face="Default" color="#ffffff" >。</font>
+menu_38818_1=<font face="Default" color="#ffffff" >好的，我这就去。</font>
+menu_38819_1=<font face="Default" color="#ffffff" >我现在就开始</font><font face="Default" color="#ffffff" >加旺篝火</font>
+menu_38820_1=<font face="Default" color="#ffffff" >我现在就开始烤肉</font>
+menu_38821_1=<font face="Default" color="#ffffff" >大师明鉴，请大师帮我。</font>
+menu_38822_1=<font face="Default" color="#ffffff" >谢道长指点</font>
+menu_38850_1=<font face="Default" color="#ffffff" >多谢！</font>
+menu_38851_1=<font face="Default" color="#ffffff" >告辞！</font>
+menu_38861_1=<font face="Default" color="#ffffff" >弟</font><font face="Default" color="#ffffff" >子才入门不久，特来拜见大庄主。</font>
+menu_38862_1=<font face="Default" color="#ffffff" >弟子遵命。</font>
+menu_38863_1=<font face="Default" color="#ffffff" >弟子这就去。</font>
+menu_38864_1=<font face="Default" color="#ffffff" >弟子</font><font face="Default" color="#ffffff" >遵命。不知弟子能否多嘴一问，</font><font face="Default" color="#ffffff" >三庄主</font><font face="Default" color="#ffffff" >似乎不愿见到薛寒公子和冰秋小姐</font><font face="Default" color="#ffffff" >？</font>
+menu_38864_2=<font face="Default" color="#ffffff" >......</font><font face="Default" color="#ffffff" >三庄主</font><font face="Default" color="#ffffff" >莫生气</font><font face="Default" color="#ffffff" >，弟子这便送去。</font>
+menu_38865_1=<font face="Default" color="#ffffff" >好</font><font face="Default" color="#ffffff" >。</font>
+menu_38866_1=<font face="Default" color="#ffffff" >弟子这就去办。</font>
+menu_38867_1=<font face="Default" color="#ffffff" >素闻阴平先生足智多谋，今日得见果真如此。</font>
+menu_38871_1=<font face="Default" color="#ffffff" >敢问阴平先生，</font><font face="Default" color="#ffffff" >那四海镖局的曹腾</font><font face="Default" color="#ffffff" >何以</font><font face="Default" color="#ffffff" >突然来</font><font face="Default" color="#ffffff" >本</font><font face="Default" color="#ffffff" >庄寻事？</font>
+menu_38872_1=<font face="Default" color="#ffffff" >曹镖头，真相水落石出之前，你休得含血喷人！敝庄行事历来光明磊落，何曾有过半点亏欠武林同道？此事既然牵扯到敝庄，敝庄定会全力以赴追查，给四海镖局一个交代。至于这柄重剑，阴平先生说乃是姑爷沈皓月从成都货商处购得。云鹏兄既然已醒，我前去同他对质便是。</font>
+menu_38873_1=<font face="Default" color="#ffffff" >这</font><font face="Default" color="#ffffff" >便是了，请问</font><font face="Default" color="#ffffff" >掌柜的，此</font><font face="Default" color="#ffffff" >剑你从何得来？</font>
+menu_38874_1=<font face="Default" color="#ffffff" >如此说来,</font><font face="Default" color="#ffffff" >你就是</font><font face="Default" color="#ffffff" >此剑原来的主人</font><font face="Default" color="#ffffff" >？</font>
+menu_38875_1=<font face="Default" color="#ffffff" >在下离庄之时，只知大庄主</font><font face="Default" color="#ffffff" >所中</font><font face="Default" color="#ffffff" >之毒</font><font face="Default" color="#ffffff" >确是源自重剑剑柄</font><font face="Default" color="#ffffff" >。难道真是沈相公</font><font face="Default" color="#ffffff" >所为</font><font face="Default" color="#ffffff" >？</font>
+menu_38875_2=<font face="Default" color="#ffffff" >多谢东方兄提醒，在下担心子凌少爷</font><font face="Default" color="#ffffff" >莽撞，此刻须前去追他，先告辞了！</font>
+menu_38876_1=<font face="Default" color="#ffffff" >在下这就回庄，二公子一路小心。</font>
+menu_38881_1=<font face="Default" color="#ffffff" >弟子遵命。</font>
+menu_38882_1=<font face="Default" color="#ffffff" >弟子遵命！</font>
+menu_38883_1=<font face="Default" color="#ffffff" >人有失足马有失蹄，君大侠无须过分在意......</font>
+menu_38884_1=<font face="Default" color="#ffffff" >不瞒君大侠，敝</font><font face="Default" color="#ffffff" >庄近日也卷入了</font><font face="Default" color="#ffffff" >一桩盗剑风波。而令人不解的是，这些剑</font><font face="Default" color="#ffffff" >都</font><font face="Default" color="#ffffff" >是</font><font face="Default" color="#ffffff" >东方世家</font><font face="Default" color="#ffffff" >所</font><font face="Default" color="#ffffff" >铸。</font><font face="Default" color="#ffffff" >说不定，这两件事有所关联......</font>
+menu_38884_2=<font face="Default" color="#ffffff" >在下亦有同感。他们嫁祸敝庄，蓄意破坏敝庄与江湖同道的关系，必定有所图谋。</font><font face="Default" color="#ffffff" >事不宜迟，在下还要返回庄中禀告此事，就不做逗留了。君大侠，告辞！</font>
+menu_38891_1=<font face="Default" color="#ffffff" >弟子遵命</font><font face="Default" color="#ffffff" >。</font>
+menu_38892_1=<font face="Default" color="#ffffff" >三庄主性情刚烈，</font><font face="Default" color="#ffffff" >为人豪爽不羁，虽容易得罪他人，却无甚心机，希望南宫世家莫要为难于他。</font>
+menu_38892_2=<font face="Default" color="#ffffff" >在下明白</font><font face="Default" color="#ffffff" >了</font><font face="Default" color="#ffffff" >，就依二公子之计。</font>
+menu_38893_1=<font face="Default" color="#ffffff" >原来你受伤是假的！</font>
+menu_38894_1=<font face="Default" color="#ffffff" >是，弟子这就去办。</font>
+menu_38895_1=<font face="Default" color="#ffffff" >傅兄过奖。</font>
+menu_38895_2=<font face="Default" color="#ffffff" >不妨问问他</font><font face="Default" color="#ffffff" >可有心事。</font>
+menu_38896_1=<font face="Default" color="#ffffff" >谢</font><font face="Default" color="#ffffff" >大</font><font face="Default" color="#ffffff" >庄主夸奖。</font>
+menu_38900_1=<font face="Default" color="#ffffff" >是的，还请您代为引荐一番</font>
+menu_38901_1=<font face="Default" color="#ffffff" >那少庄主</font><font face="Default" color="#ffffff" >拜托</font><font face="Default" color="#ffffff" >了。</font>
+menu_38902_1=<font face="Default" color="#ffffff" >是的</font>
+menu_38903_1=<font face="Default" color="#ffffff" >好的</font>
+menu_38904_1=<font face="Default" color="#ffffff" >没问题</font>
+menu_38905_1=<font face="Default" color="#ffffff" >好的</font>
+menu_38906_1=<font face="Default" color="#ffffff" >好的</font>
+menu_38907_1=<font face="Default" color="#ffffff" >好的</font>
+menu_38908_1=<font face="Default" color="#ffffff" >好的</font>
+menu_38909_1=<font face="Default" color="#ffffff" >没问题</font>
+menu_38910_1=<font face="Default" color="#ffffff" >好的</font>
+menu_38911_1=<font face="Default" color="#ffffff" >好的</font>
+menu_38912_1=<font face="Default" color="#ffffff" >接受</font>
+menu_38913_1=<font face="Default" color="#ffffff" >好的</font>
+menu_38914_1=<font face="Default" color="#ffffff" >好的</font>
+menu_38915_1=<font face="Default" color="#ffffff" >好的</font>
+menu_38916_1=<font face="Default" color="#ffffff" >这就速速去见庄主</font>
+menu_38917_1=<font face="Default" color="#ffffff" >请赐教！</font>
+menu_38918_1=<font face="Default" color="#ffffff" >好生可怜，稍等片刻，这就给你买包子去。</font>
+menu_38919_1=<font face="Default" color="#ffffff" >在下正是</font><font face="Default" color="#ffffff" >！</font>
+menu_38920_1=<font face="Default" color="#ffffff" >好的</font>
+menu_38921_1=<font face="Default" color="#ffffff" >好的，我愿意改姓徐</font>
+menu_38922_1=<font face="Default" color="#ffffff" >庄主容我再考虑一下。</font>
+menu_38923_1=<font face="Default" color="#ffffff" >有何冤情，还请弟弟细细说来！</font>
+menu_38924_1=<font face="Default" color="#ffffff" >好的。</font>
+menu_38925_1=<font face="Default" color="#ffffff" >好的。</font>
+menu_38926_1=<font face="Default" color="#ffffff" >好的</font>
+menu_38927_1=<font face="Default" color="#ffffff" >好的</font>
+menu_38928_1=<font face="Default" color="#ffffff" >好的</font>
+menu_38929_1=<font face="Default" color="#ffffff" >我这就去</font>
+menu_38930_1=<font face="Default" color="#ffffff" >稍微懂一点</font>
+menu_38931_1=<font face="Default" color="#ffffff" >好的</font>
+menu_38932_1=<font face="Default" color="#ffffff" >好的</font>
+menu_38949_1=<font face="Default" color="#ffffff" >好的，我这就去！</font>
+menu_38950_1=<font face="Default" color="#ffffff" >好的，我这就去！</font>
+menu_38951_1=<font face="Default" color="#ffffff" >我已经</font><font face="Default" color="#ffffff" >了解</font><font face="Default" color="#ffffff" >了。</font>
+menu_38952_1=<font face="Default" color="#ffffff" >我知道。</font>
+menu_38953_1=<font face="Default" color="#ffffff" >我知道。</font>
+menu_38954_1=<font face="Default" color="#ffffff" >我知道。</font>
+menu_38955_1=<font face="Default" color="#ffffff" >我已经知道了。</font>
+menu_38956_1=<font face="Default" color="#ffffff" >我知道。</font>
+menu_38957_1=<font face="Default" color="#ffffff" >我知道。</font>
+menu_38958_1=<font face="Default" color="#ffffff" >我知道。</font>
+menu_38971_1=<font face="Default" color="#ffffff" >好的，</font><font face="Default" color="#ffffff" >我这就去。</font>
+menu_38972_1=<font face="Default" color="#ffffff" >庄主有何吩咐？</font>
+menu_38973_1=<font face="Default" color="#ffffff" >庄主，我三清真气已经达到一定境界了，请赐药。</font>
+menu_38974_1=<font face="Default" color="#ffffff" >庄主，弟子三清真气已经修炼至二十层，希望可以赐予我下阶段的秘药。</font>
+next_38801=
+next_38802=
+next_38803=
+next_38804=
+next_38807=
+next_38808=
+next_38809=
+next_38819=
+next_38820=
+next_38850=<font face="Default" color="#000000" >去找</font><a href="findnpc_new,school10,thd_001" style="HLStype1">黄古箫</a><font face="Default" color="#000000" >岛主商谈</font><font face="Default" color="#ff0000" >(提交任务请先卸除宝物，否则可能退出势力失败)</font>
+next_38851=<font face="Default" color="#000000" >去找</font><a href="findnpc_new,city05,WorldNpc09796" style="HLStype1">徐云铮</a><font face="Default" color="#000000" >庄主商谈</font><font face="Default" color="#ff0000" >(提交任务请先卸除宝物，否则可能退出势力失败)</font>
+next_38861=<a href="findnpc_new,city05,WorldNpc09796" style="HLStype1">徐云铮</a>
+next_38862=<a href="findnpc_new,city05,WorldNpc09924" style="HLStype1">徐云藻</a>
+next_38863=<a href="findnpc_new,city05,WorldNpc09857" style="HLStype1">徐天池</a>
+next_38864=<a href="findnpc_new,city05,WorldNpc09797" style="HLStype1">徐冰秋</a>
+next_38865=<a href="findnpc_new,city05,WorldNpc09823" style="HLStype1">阴平</a>
+next_38866=<a href="findnpc_new,city05,WorldNpc09796" style="HLStype1">徐云铮</a>
+next_38867=<a href="findnpc_new,city05,WorldNpc09823" style="HLStype1">阴平</a>
+next_38871=<a href="findnpc_new,city05,WorldNpc09682" style="HLStype1">曹腾</a>
+next_38872=<a href="findnpc_new,city05,xjz_zx_003" style="HLStype1">货商</a>
+next_38873=<a href="findnpc_new,city05,xjz_zx_004" style="HLStype1">东方士廷</a>
+next_38875=<a href="findnpc_new,city05,xjz_zx_006" style="HLStype1">王天怀</a>
+next_38876=<a href="findnpc_new,city05,WorldNpc09823" style="HLStype1">阴平</a>
+next_38881=<a href="findnpc_new,city05,WorldNpc09823" style="HLStype1">阴平</a>
+next_38882=<a href="findnpc_new,city05,WorldNpc09842" style="HLStype1">君淮明</a>
+next_38883=<a href="findnpc_new,city05,WorldNpc09842" style="HLStype1">君淮明</a>
+next_38884=<a href="findnpc_new,city05,WorldNpc09823" style="HLStype1">阴平</a>
+next_38891=<a href="findnpc_new,city05,xjz_zx_008" style="HLStype1">徐子凌</a>
+next_38892=<a href="findnpc_new,city05,xjz_zx_009" style="HLStype1">周云鹏</a>
+next_38894=<a href="findnpc_new,city05,xjz_zx_011" style="HLStype1">傅博渊</a>
+next_38895=<a href="findnpc_new,city05,WorldNpc09796" style="HLStype1">徐云铮</a>
+next_38896=<a href="findnpc_new,city05,WorldNpc09796" style="HLStype1">徐云铮</a>
+next_38903=
+next_38904=
+next_38906=
+next_38910=
+next_38972=<a href="findnpc_new,city05,WorldNpc09796" style="HLStype1">徐云铮</a>
+next_38973=<a href="findnpc_new,city05,WorldNpc09796" style="HLStype1">徐云铮</a>
+next_38974=<a href="findnpc_new,city05,WorldNpc09796" style="HLStype1">徐云铮</a>
+submit_38801=<font face="Default" color="#ffffff" >二</font><font face="Default" color="#ffffff" >少爷夸奖了。</font>
+submit_38802=<font face="Default" color="#ffffff" >接下来我该</font><font face="Default" color="#ffffff" >加旺一下火堆</font>
+submit_38803=
+submit_38804=<font face="Default" color="#ffffff" >多谢</font>
+submit_38805=<font face="Default" color="#ffffff" >幸不辱命</font>
+submit_38806=<font face="Default" color="#ffffff" >谢谢三少爷夸奖。</font>
+submit_38807=<font face="Default" color="#ffffff" >真不容易</font>
+submit_38808=<font face="Default" color="#ffffff" >徐大哥说的是</font>
+submit_38809=<font face="Default" color="#ffffff" >我完成了</font>
+submit_38813=<font face="Default" color="#ffffff" >这是我应该做的。</font>
+submit_38814=<font face="Default" color="#ffffff" >幸不辱命！</font>
+submit_38815=<font face="Default" color="#ffffff" >这是我应该做的。</font>
+submit_38816=<font face="Default" color="#ffffff" >镖头仁义。</font>
+submit_38817=<font face="Default" color="#ffffff" >镖头客气了，惩奸除恶的事情我们徐家庄可从不推脱。</font>
+submit_38818=<font face="Default" color="#ffffff" >多谢夸奖。</font>
+submit_38819=<font face="Default" color="#ffffff" >多谢三庄主</font>
+submit_38820=<font face="Default" color="#ffffff" >多谢三庄主</font>
+submit_38821=<font face="Default" color="#ffffff" >道长，请教我该怎么做。</font>
+submit_38822=<font face="Default" color="#ffffff" >谢谢大师</font>
+submit_38850=<font face="Default" color="#ffffff" >多谢庄主！</font>
+submit_38851=<font face="Default" color="#ffffff" >我已经决定了。</font>
+submit_38861=<font face="Default" color="#ffffff" >弟子定不辜负大庄主今日的教诲！</font>
+submit_38862=<font face="Default" color="#ffffff" >弟子明白</font><font face="Default" color="#ffffff" >！</font>
+submit_38863=<font face="Default" color="#ffffff" >多谢三庄主。</font>
+submit_38864=<font face="Default" color="#ffffff" >冰秋小姐不必客气。</font>
+submit_38865=<font face="Default" color="#ffffff" >弟子见过阴平先生。</font>
+submit_38866=<font face="Default" color="#ffffff" >回大庄主，弟子已拜见过庄内各位前辈和师兄师姐。</font><font face="Default" color="#8fd6ef" >（将阴平先生所为告之）</font>
+submit_38867=<font face="Default" color="#ffffff" >有阴平先生这番话，弟子便能安心了</font><font face="Default" color="#ffffff" >，一切有劳先生</font><font face="Default" color="#ffffff" >。</font>
+submit_38871=<font face="Default" color="#ffffff" >前辈，在下奉敝庄阴平先生之命，前</font><font face="Default" color="#ffffff" >来</font><font face="Default" color="#ffffff" >调查事情</font><font face="Default" color="#ffffff" >真相。</font><font face="Default" color="#ffffff" >徐家庄定会给四海镖局一个说法。</font>
+submit_38872=<font face="Default" color="#ffffff" >掌柜的，我来打听些事儿。</font><font face="Default" color="#ffffff" >你可认得，我手中这柄重剑？</font>
+submit_38873=<font face="Default" color="#ffffff" >请问侠士从何而来，为何也在寻找一把重剑？</font>
+submit_38874=<font face="Default" color="#ffffff" >东方兄要求合情合理，敝庄岂有推脱之理？</font>
+submit_38875=<font face="Default" color="#ffffff" >多谢前辈谅解，晚辈定会将话带到。</font>
+submit_38876=<font face="Default" color="#ffffff" >请问</font><font face="Default" color="#ffffff" >阴平先生，</font><font face="Default" color="#ffffff" >事情有何</font><font face="Default" color="#ffffff" >进展？</font>
+submit_38881=<font face="Default" color="#ffffff" >回先生的话，我都问出来了。</font><font face="Default" color="#8fd6ef" >（将冰秋小姐所言告知）</font>
+submit_38882=<font face="Default" color="#ffffff" >君大侠见笑了。</font>
+submit_38883=<font face="Default" color="#ffffff" >君大侠不必过分担心，在下相信，你的佩剑定</font><font face="Default" color="#ffffff" >有</font><font face="Default" color="#ffffff" >物归原主</font><font face="Default" color="#ffffff" >之日</font><font face="Default" color="#ffffff" >。</font><font face="Default" color="#8fd6ef" >（又是东方世家……）</font>
+submit_38884=<font face="Default" color="#ffffff" >弟子也不明白，</font><font face="Default" color="#ffffff" >那幕后主谋</font><font face="Default" color="#ffffff" >为何要嫁祸</font><font face="Default" color="#ffffff" >我们</font><font face="Default" color="#ffffff" >，蓄意破坏</font><font face="Default" color="#ffffff" >徐家庄</font><font face="Default" color="#ffffff" >与江湖同道的关系</font><font face="Default" color="#ffffff" >。</font>
+submit_38891=<font face="Default" color="#ffffff" >是阴平先生要我来接应</font><font face="Default" color="#ffffff" >二公子</font><font face="Default" color="#ffffff" >。</font>
+submit_38892=<font face="Default" color="#ffffff" >住手！周云鹏</font><font face="Default" color="#ffffff" >，你竟敢</font><font face="Default" color="#ffffff" >加害三庄主</font><font face="Default" color="#ffffff" >！</font>
+submit_38894=<font face="Default" color="#ffffff" >傅兄客气了</font><font face="Default" color="#ffffff" >。</font>
+submit_38895=<font face="Default" color="#ffffff" >回大</font><font face="Default" color="#ffffff" >庄主</font><font face="Default" color="#ffffff" >的话，弟子已见过了</font><font face="Default" color="#ffffff" >。</font>
+submit_38896=<font face="Default" color="#ffffff" >弟子告退。</font>
+submit_38900=<font face="Default" color="#ffffff" >不敢不敢，客气了。</font>
+submit_38901=<font face="Default" color="#ffffff" >恭敬不如从命</font>
+submit_38902=<font face="Default" color="#ffffff" >谢谢</font>
+submit_38903=<font face="Default" color="#ffffff" >小意思</font>
+submit_38904=<font face="Default" color="#ffffff" >好的</font>
+submit_38905=<font face="Default" color="#ffffff" >好的</font>
+submit_38906=<font face="Default" color="#ffffff" >谢谢夸奖</font>
+submit_38907=<font face="Default" color="#ffffff" >谢谢</font>
+submit_38908=<font face="Default" color="#ffffff" >是，</font><font face="Default" color="#ffffff" >四</font><font face="Default" color="#ffffff" >小姐叫我到你这边来看看</font>
+submit_38909=<font face="Default" color="#ffffff" >我通过考验了？</font>
+submit_38910=<font face="Default" color="#ffffff" >知道了</font>
+submit_38911=<font face="Default" color="#ffffff" >是的</font>
+submit_38912=<font face="Default" color="#ffffff" >我</font><font face="Default" color="#ffffff" >确定</font><font face="Default" color="#ffffff" >要加入徐家庄</font><font face="Default" color="#ffffff" >。</font>
+submit_38913=<font face="Default" color="#ffffff" >谢谢夸奖</font>
+submit_38914=<font face="Default" color="#ffffff" >是的</font>
+submit_38915=<font face="Default" color="#ffffff" >小意思</font>
+submit_38916=<font face="Default" color="#ffffff" >多谢庄主夸赞！</font>
+submit_38917=<font face="Default" color="#ffffff" >庄主抬举了，都是些皮毛拳脚罢了。</font>
+submit_38918=<font face="Default" color="#ffffff" >刚出炉的呢！</font>
+submit_38919=<font face="Default" color="#ffffff" >愿追随徐庄主主持江湖正义。</font>
+submit_38920=<font face="Default" color="#ffffff" >好</font><font face="Default" color="#ffffff" >的</font>
+submit_38921=<font face="Default" color="#ffffff" >好的，现在就走</font>
+submit_38922=<font face="Default" color="#ffffff" >愿追随徐庄主主持江湖正义。</font>
+submit_38923=<font face="Default" color="#ffffff" >早闻徐庄主英名多时，这次终于可以见到真人了！</font>
+submit_38924=<font face="Default" color="#ffffff" >谢谢。</font>
+submit_38925=<font face="Default" color="#ffffff" >谢谢。</font>
+submit_38926=<font face="Default" color="#ffffff" >好的</font>
+submit_38927=<font face="Default" color="#ffffff" >是的</font>
+submit_38928=<font face="Default" color="#ffffff" >是的</font>
+submit_38929=<font face="Default" color="#ffffff" >肯定是的</font>
+submit_38930=<font face="Default" color="#ffffff" >晚辈惭愧</font>
+submit_38931=<font face="Default" color="#ffffff" >是的</font>
+submit_38932=<font face="Default" color="#ffffff" >是的</font>
+submit_38949=<font face="Default" color="#ffffff" >幸不辱命！</font>
+submit_38950=<font face="Default" color="#ffffff" >幸不辱命！</font>
+submit_38951=<font face="Default" color="#ffffff" >好的。</font>
+submit_38952=<font face="Default" color="#ffffff" >师兄</font><font face="Default" color="#ffffff" >过奖了</font><font face="Default" color="#ffffff" >。</font>
+submit_38953=<font face="Default" color="#ffffff" >师兄过奖了。</font>
+submit_38954=<font face="Default" color="#ffffff" >师兄过奖了。</font>
+submit_38955=<font face="Default" color="#ffffff" >好的。</font>
+submit_38956=<font face="Default" color="#ffffff" >师兄过奖了。</font>
+submit_38957=<font face="Default" color="#ffffff" >师兄过奖了。</font>
+submit_38958=<font face="Default" color="#ffffff" >师兄过奖了。</font>
+submit_38971=<font face="Default" color="#ffffff" >是，弟子</font><font face="Default" color="#ffffff" >知道了。</font>
+submit_38972=<font face="Default" color="#ffffff" >多谢庄主。</font>
+submit_38973=<font face="Default" color="#ffffff" >多谢庄主。</font>
+submit_38974=<font face="Default" color="#ffffff" >多谢庄主。</font>
+target_38801=解救两名人质,并且击败绑匪头目。
+target_38802=给徐家庄院外的篝火添柴加旺
+target_38803=在徐家庄大篝火上制作食物
+target_38804=带上衣服、食物、水前往后山，帮助村民
+target_38805=前往烟雨庄神风帮偷取情报
+target_38806=对邪恶势力完成一次踢馆
+target_38807=在火焰考验中存活下来
+target_38808=前往后山，帮助村民
+target_38809=前往烟雨庄神风帮偷取情报
+target_38813=参加一次门派战。
+target_38814=完成二少爷指派的任务。
+target_38815=收集一些门派需要的物资。
+target_38816=将蔺封的首级交给洛阳威远镖局的总镖头<a href="findnpc_new,city04,ly581" style="HLStype1">卓天鹏</a>
+target_38817=将蔺封的首级交给洛阳威远镖局的总镖头<a href="findnpc_new,city04,ly581" style="HLStype1">卓天鹏</a>
+target_38818=完成一次运镖
+target_38819=在徐家庄大篝火上制作食物
+target_38820=在徐家庄大篝火上制作食物
+target_38821=解开心结
+target_38822=心结
+target_38829=你就代表我派去和那些高手切磋较量一番，让他们领教一下我派的实力。
+target_38850=去找<a href="findnpc_new,city05,WorldNpc09796" style="HLStype1">徐云铮</a>庄主商谈（提交任务请先卸除宝物，否则可能退出势力失败）
+target_38851=去找<a href="findnpc_new,city05,WorldNpc09796" style="HLStype1">徐云铮</a>庄主商谈（提交任务请先卸除宝物，否则可能退出势力失败）
+target_38861=拜见大庄主徐云铮，聆听他的教诲。
+target_38862=在徐家庄四处走走
+target_38863=去找徐家庄的徐天池讨教武功
+target_38864=替徐天池将桂花糕送去给徐冰秋姐弟
+target_38865=去见徐子汐和沈皓月，之后去见过智囊先生阴平
+target_38866=把礼物送到徐子卿、徐子凌、徐子朔手中
+target_38867=战胜前来滋事的四海镖局曹腾
+target_38871=听智囊先生阴平计划，去四海镖局对质
+target_38872=查看成都四海镖局周云鹏的伤势
+target_38873=货商说起有一位江湖人士也在打听重剑的事，去找他看看
+target_38874=击败东方士廷，再从他口中得知重剑的来历
+target_38875=东方士廷说看到徐子凌已去了沈家堡，眼下两家关系紧张，快去助他
+target_38876=徐子凌有事在身，先行离去，现在可以先回徐家庄找阴平
+target_38881=询问徐三、沈皓月徐子汐夫妇、徐冰秋徐薛寒姐弟
+target_38882=去浣花山庄询问君淮明，他的剑是怎么丢失的
+target_38883=听君淮明说说他的剑究竟是怎么丢失的
+target_38884=君淮明答应帮助徐家庄查明真相，也为自己寻剑，现在可以回去向阴平先生回报了。
+target_38891=去南宫世家附近接应徐子凌
+target_38892=潜入南宫世家，寻找徐天池
+target_38893=周云鹏想要在南宫世家加害徐天池，挑起两派纷争，阻止他
+target_38894=把重剑还给在徐家庄作客的傅博渊
+target_38895=询问东方士廷他为何担忧
+target_38896=庄主徐云铮有话要说，听他训示
+target_38900=拜访徐家庄
+target_38901=接受考验
+target_38902=明辨忠奸
+target_38903=徐子汐的考验
+target_38904=游山历水1
+target_38905=游山历水2
+target_38906=游山历水3
+target_38907=游山历水4
+target_38908=寻找老者
+target_38909=池边垂钓
+target_38910=了解徐家庄
+target_38911=熟读庄规
+target_38912=加入徐家庄
+target_38913=徐子凌的考验
+target_38914=邀请函
+target_38915=好的
+target_38916=回答徐家庄庄主<a href="findnpc_new,city05,WorldNpc09796" style="HLStype1">徐云铮</a>的问题。
+target_38917=<a href="findnpc_new,city05,WorldNpc09796" style="HLStype1">徐云铮</a>想出手试探一下你的武功，与徐云峥发生战斗，30秒内不死亡。
+target_38918=给<a href="findnpc_new,city05,xjz_rm_002" style="HLStype1">徐小清（疯乞）</a>些吃的。
+target_38919=与徐家庄庄主<a href="findnpc_new,city05,WorldNpc09796" style="HLStype1">徐云铮</a>交谈。
+target_38920=徐家庄弟子的感谢信
+target_38921=将姓氏改成徐
+target_38922=考虑好是否加入徐家庄后找<a href="findnpc_new,city05,WorldNpc09796" style="HLStype1">徐云铮</a>交谈。
+target_38923=听<a href="findnpc_new,city05,xjz_rm_002" style="HLStype1">徐小清（疯乞）</a>述说他的悲惨身世。
+target_38924=通过资质审核
+target_38925=通过资质审核
+target_38926=通过资质审核
+target_38927=通过资质审核
+target_38928=与徐云铮交谈
+target_38929=寻找遗失的画卷
+target_38930=了解生命，敬畏生命
+target_38931=通过资质审核
+target_38932=通过资质审核
+target_38949=完成二少爷指派的任务。
+target_38950=完成二少爷指派的任务。
+target_38951=做好接受挑战的准备
+target_38952=完成身份晋级挑战
+target_38953=完成身份晋级挑战
+target_38954=完成身份晋级挑战
+target_38955=了解身份晋级的难度选择
+target_38956=完成身份晋级挑战
+target_38957=完成身份晋级挑战
+target_38958=完成身份晋级挑战
+target_38971=通过青云堡和暮色之村。
+target_38972=  与庄主对话，领取丹药
+target_38973=找庄主领取二阶段的秘药
+target_38974=找到庄主领取三阶段的秘药
+title_38801=侠义为先
+title_38802=添柴加旺
+title_38803=烤肉
+title_38804=后山救人
+title_38805=偷取情报
+title_38806=惩奸除恶
+title_38807=生存考验
+title_38808=后山救人
+title_38809=偷取情报
+title_38813=门派支援
+title_38814=门派磨练（一）
+title_38815=收集物资
+title_38816=蔺封之首
+title_38817=冯由之首
+title_38818=参加运镖
+title_38819=生火野炊
+title_38820=烤肉
+title_38821=缘（道德经卷）
+title_38822=心结
+title_38829=“友善”的拜访
+title_38850=出师离庄
+title_38851=叛师离庄
+title_38861=拜见庄主
+title_38862=暗中指点
+title_38863=武痴天池
+title_38864=心怀罅隙
+title_38865=智囊先生
+title_38866=三位公子
+title_38867=四海风波
+title_38871=四海风波
+title_38872=追查真相
+title_38873=重剑来路
+title_38874=东方世家
+title_38875=错综复杂
+title_38876=平息纠纷
+title_38881=抽丝剥茧
+title_38882=浣花山庄
+title_38883=离奇失剑
+title_38884=东方铸剑
+title_38891=南宫世家
+title_38892=鲁莽失陷
+title_38893=毒手毒心
+title_38894=物归原主
+title_38895=断剑疑云
+title_38896=风波尾声
+title_38900=拜访徐家庄(入门任务)
+title_38901=接受考验(入门任务)
+title_38902=明辨忠奸
+title_38903=徐子汐的考验(入门任务)
+title_38904=游山历水1
+title_38905=游山历水2
+title_38906=游山历水3
+title_38907=游山历水4
+title_38908=寻找老者（入门任务）
+title_38909=池边垂钓（入门任务）
+title_38910=了解徐家庄（入门任务）
+title_38911=熟读庄规（入门任务）
+title_38912=加入徐家庄（入门任务）
+title_38913=徐子凌的考验（入门任务）
+title_38914=邀请函
+title_38915=遗失的画卷（入门任务）
+title_38916=盘问
+title_38917=武功挑战
+title_38918=路遇疯丐
+title_38919=拜入师门
+title_38920=徐家庄弟子的感谢信
+title_38921=改姓入门
+title_38922=拜师
+title_38923=悲惨身世
+title_38924=资质审核
+title_38925=资质审核
+title_38926=资质审核
+title_38927=获取徐家庄入门资格令牌
+title_38928=通过资格审核
+title_38929=寻找遗失的画卷（入门任务）
+title_38930=生命的真谛（入门任务）
+title_38931=获取徐家庄入门资格令牌
+title_38932=获取徐家庄入门资格令牌
+title_38949=门派磨练（二）
+title_38950=门派磨练（三）
+title_38951=一阶身份晋级挑战
+title_38952=一阶身份晋级挑战（简单）
+title_38953=一阶身份晋级挑战（普通）
+title_38954=一阶身份晋级挑战（困难）
+title_38955=二阶身份晋级挑战
+title_38956=二阶身份晋级挑战（简单）
+title_38957=二阶身份晋级挑战（普通）
+title_38958=二阶身份晋级挑战（困难）
+title_38971=门派武学
+title_38972=勤加修炼（一）
+title_38973=勤加修炼（二）
+title_38974=勤加修炼（三）

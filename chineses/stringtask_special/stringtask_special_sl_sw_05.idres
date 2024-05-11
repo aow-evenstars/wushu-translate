@@ -1,0 +1,116 @@
+﻿
+DialogID_47840=我打探了半天，并未发现任何异常，烦请少侠替我回去禀告，我还要留在此地继续观察，有任何风吹草东我会及时报信。
+DialogID_47841=胆敢谋反！幸亏发现的及时，不然还不知酿成怎样的祸患。你速去消灭他们。
+DialogID_47842=呜呜，我的沙袋忘在了城墙的对面，可是城墙有守卫，外面还有敌军，真不知道怎么办。
+DialogID_47843=这死亡巨蝎的周围还有很多食人黑蚁和剧毒黄纹蛛，虽然对我无用，但实在是危险的生物，以防伤人，你还是前去消灭他们吧
+DialogID_47844=少侠若能助我，我告诉少侠也不妨。我到前面去探路，不小心被那里的沙漠猎手射伤。他们跟我说不得跟别人提起受伤缘由，不然饶不了小的，在下实在是有苦难言啊。
+DialogID_47845=这塞外大漠，值钱的花草是没有，可是他有一些很值钱的矿，嘿嘿。帮我采一些金花矿和银花矿回来，我不会亏待你的！
+DialogID_47847=少侠，真的不是我偷的啊！我看阿四这几天很异常，或许是阿四偷的吧，你去问问他吧。
+DialogID_47848=少侠饶命，我知道错了，是我偷了老板的银子，求少侠求情老板，切莫送我进牢房啊。
+DialogID_47850=什么？这些冷血独行侠是什么来头？你先去和他们过过手，打探一下敌人的虚实。
+DialogID_47851=敌人很难对付吗？看来得寻求救兵了。这是狼烟，你使用后可呼叫援兵。
+DialogID_47852=那件事我记得呢。我已经打听好了，他孙子今年就可以退伍回家了。如果想知道的更多点，你直接去问那边的那个军官吧。
+DialogID_47853=老人家的心情我们也理解，当兵的随时没了性命。不过现在也没什么战事，他孙子今年就可以回家了，放心吧。
+DialogID_47854=我的拨鼓不知丢到哪里了找不到了，爹爹又不管我。
+DialogID_47855=是李家大郎吗，我知道了，他会犯头痛，你把这药给他服下就好。
+DialogID_47856=哎，这个地方本来人就少。最近人不知道啥原因突然变得更少了，哪还有什么生意啊！
+DialogID_47857=兵荒马乱的，军队的粮食怎么能交给他们镖局呢！还是我们自己来吧！
+DialogID_47858=哎呀，真是糟糕！前些天我刚刚与那些野蛮人交过手，说来惭愧，却被他们给打伤了，你能不能帮我去清剿一下？
+DialogID_47859=禄世昌？我哪敢跟他合作啊？你还是另请高明吧！
+DialogID_47860=你说的是个禄老板吧，那可是相当有名的家伙啊，我劝你还是离他远点吧！
+DialogID_47861=就那个吃人不吐骨头的家伙，我怎么敢跟他合作呢，还是免了吧！
+collectinfo_47840=收集<a href="findnpc_new,scene08,Gather0012cc" style="HLStype1">沙包</a>
+collectinfo_47841=收集<a href="findnpc_new,scene08,monf084702" style="HLStype1">死亡巨蝎</a>的尾巴
+collectinfo_47842=收集<a href="findnpc_new,scene08,Gather0015cc" style="HLStype1">金花矿</a>
+collectinfo_47843=收集<a href="findnpc_new,scene08,Gather0016cc" style="HLStype1">银花矿</a>
+collectinfo_47844=收集<a href="findnpc_new,scene08,Gather0017cc" style="HLStype1">奇异的石头</a>
+collectinfo_47845=收集<a href="findnpc_new,scene08,Gather0018cc" style="HLStype1">梳妆匣</a>
+collectinfo_47846=收集<a href="findnpc_new,scene08,Gather0019cc" style="HLStype1">月英石</a>
+collectinfo_47847=收集<a href="findnpc_new,scene08,Gather0013cc" style="HLStype1">行脚商人的货物</a>
+collectinfo_47848=收集<a href="findnpc_new,scene08,Gather0014cc" style="HLStype1">装有百姓财物的箱子</a>
+collectinfo_47849=收集<a href="findnpc_new,scene08,Gather0020cc" style="HLStype1">旱灵草</a>
+collectinfo_47850=收集<a href="findnpc_new,scene08,Gather0021cc" style="HLStype1">枯木参</a>
+collectinfo_47851=收集<a href="findnpc_new,scene08,Gather0022cc" style="HLStype1">拨鼓</a>
+collectinfo_47852=收集<a href="findnpc_new,scene08,Gather0023cc" style="HLStype1">木材</a>
+hunterinfo_47840=击败<a href="findnpc_new,scene08,monf084600" style="HLStype1">凶残贼兵</a>
+hunterinfo_47841=击败<a href="findnpc_new,scene08,monf084601" style="HLStype1">关外逃兵</a>
+hunterinfo_47842=击败<a href="findnpc_new,scene08,monf084500" style="HLStype1">守关盾兵</a>
+hunterinfo_47843=击败<a href="findnpc_new,scene08,monf084501" style="HLStype1">守关弓手</a>
+hunterinfo_47844=击败<a href="findnpc_new,scene08,monf084700" style="HLStype1">剧毒沙蛇</a>
+hunterinfo_47845=击败<a href="findnpc_new,scene08,monf084403" style="HLStype1">沙漠猎手</a>
+hunterinfo_47846=击败<a href="findnpc_new,scene08,monf084402" style="HLStype1">塞北游民</a>
+hunterinfo_47848=击败<a href="findnpc_new,scene08,monf084300" style="HLStype1">剿匪大刀兵</a>
+hunterinfo_47849=击败<a href="findnpc_new,scene08,monf084104" style="HLStype1">寻水江湖人</a>
+hunterinfo_47850=击败<a href="findnpc_new,scene08,monf084101" style="HLStype1">黑纱妖女</a>
+hunterinfo_47851=击败<a href="findnpc_new,scene08,monf084102" style="HLStype1">刀疤隐卫</a>
+hunterinfo_47852=击败<a href="findnpc_new,scene08,monf084103" style="HLStype1">冷血独行侠</a>
+hunterinfo_47853=击败<a href="findnpc_new,scene08,monf084701" style="HLStype1">剧毒黄纹蛛</a>
+hunterinfo_47854=击败<a href="findnpc_new,scene08,monf084301" style="HLStype1">剿匪长枪兵</a>
+hunterinfo_47855=击败<a href="findnpc_new,scene08,monf084400" style="HLStype1">异域恶僧</a>
+hunterinfo_47856=击败<a href="findnpc_new,scene08,monf084401" style="HLStype1">大漠头陀</a>
+hunterinfo_47857=击败<a href="findnpc_new,scene08,monf084402" style="HLStype1">塞北游民</a>
+interactinfo_47840=与<a href="findnpc_new,scene08,WorldNpc08126" style="HLStype1">冯昌</a>交谈
+interactinfo_47841=与<a href="findnpc_new,scene08,WorldNpc08113" style="HLStype1">苍岩</a>交谈
+interactinfo_47842=与<a href="findnpc_new,scene08,WorldNpc08127" style="HLStype1">鱼叶</a>交谈
+interactinfo_47843=与<a href="findnpc_new,scene08,WorldNpc08116" style="HLStype1">林超心</a>交谈
+interactinfo_47844=与<a href="findnpc_new,scene08,WorldNpc08128" style="HLStype1">窦乔桂</a>交谈
+interactinfo_47845=与<a href="findnpc_new,scene08,WorldNpc08129" style="HLStype1">禄世昌</a>交谈
+interactinfo_47847=与<a href="findnpc_new,scene08,WorldNpc08130" style="HLStype1">阿三</a>交谈
+interactinfo_47848=与<a href="findnpc_new,scene08,WorldNpc08131" style="HLStype1">阿四</a>交谈
+interactinfo_47849=与<a href="findnpc_new,scene08,WorldNpc08122" style="HLStype1">澄礼</a>交谈
+interactinfo_47850=与<a href="findnpc_new,scene08,WorldNpc08132" style="HLStype1">左浩翰</a>交谈
+interactinfo_47851=与<a href="findnpc_new,scene08,WorldNpc08132" style="HLStype1">左浩翰</a>交谈
+interactinfo_47852=与<a href="findnpc_new,scene08,WorldNpc08137" style="HLStype1">张全有</a>交谈
+interactinfo_47853=与<a href="findnpc_new,scene08,WorldNpc08138" style="HLStype1">尹善毅</a>交谈
+interactinfo_47854=与<a href="findnpc_new,scene08,WorldNpc08110" style="HLStype1">薛小凤</a>交谈
+interactinfo_47855=与<a href="findnpc_new,scene08,WorldNpc08140" style="HLStype1">裴贞</a>交谈
+interactinfo_47856=与<a href="findnpc_new,scene08,WorldNpc08104" style="HLStype1">仲波</a>交谈
+interactinfo_47857=与<a href="findnpc_new,scene08,WorldNpc08154" style="HLStype1">师弘</a>交谈
+interactinfo_47858=与<a href="findnpc_new,scene08,WorldNpc08102" style="HLStype1">苍博义</a>交谈
+interactinfo_47859=与<a href="findnpc_new,scene08,WorldNpc08104" style="HLStype1">仲波</a>交谈
+interactinfo_47860=与<a href="findnpc_new,scene08,WorldNpc08121" style="HLStype1">郁朗庆</a>交谈
+interactinfo_47861=与<a href="findnpc_new,scene08,WorldNpc08109" style="HLStype1">薛嘉</a>交谈
+okmenu_47840=好，辛苦了。
+okmenu_47841=遵命！
+okmenu_47842=乖，不哭。我帮你拿过来。
+okmenu_47843=说的有道理，这么危险的生物不能留着。
+okmenu_47844=这些蛮横的猎手，实在太过分了，我去会会他们。
+okmenu_47845=这个不难，我去。
+okmenu_47847=也好，我再去问问阿四。
+okmenu_47848=哎，早知如此又何必当初呢。
+okmenu_47850=好，我去试探一下
+okmenu_47851=看来只能这样了。
+okmenu_47852=也好。
+okmenu_47853=这样就好，我去告诉老人家，省的他担心。
+okmenu_47854=乖，你爹爹在忙，我给你找出来。
+okmenu_47855=谢谢大夫。
+okmenu_47856=哦，好吧！
+okmenu_47857=那好吧！
+okmenu_47858=好的，包在我身上。
+okmenu_47859=哦，好吧！
+okmenu_47860=原来他名声这么响亮啊！
+okmenu_47861=好吧。
+story_47840_1=我出门很久了，只为将自身修为提升到更高的层次。如今对爱妻甚是想念。这是我做的爱的花灯，你替我放飞他吧。
+story_47841_1=爷爷说他年轻的时候一直未娶，后来岁数大了，又一天他在草堆里发现了被遗弃的我，就带回来了。
+story_47841_2=是啊，爷爷疼我，舍不得我吃一点苦。现在年事高了，我要照顾爷爷。我要采好些药草，少侠若是有空，帮我采一点枯木参回来吧。
+story_47842_1=那是当然，这是我这几年来的辛苦成果。这是当年前往西域的张骞被匈奴抓住之前将随身携带的珍贵的东西藏起来！
+story_47842_2=那不是在沙漠中嘛！自己藏的东西都不容易找到。我也是通过不断搜索才找到的。
+story_47842_3=嘿嘿~你我在此相遇算是有缘，这样吧，你给我一百两银子，我就告诉你宝藏的地址怎么样？
+story_47842_4=哎，兄弟价格可以商量！别走啊！
+story_menu_47840=哦，对。我是遇见过一个女子说她其实叫乔七弦，这是怎么回事？
+story_menu_47841=姑娘可以给我讲一下身世么？
+story_menu_47842=哦！真的吗？（现在就不怕我知道了）
+storyinfo_47840=听<a href="findnpc_new,scene08,WorldNpc08134" style="HLStype1">明风</a>诉说
+storyinfo_47841=听<a href="findnpc_new,scene08,WorldNpc08135" style="HLStype1">窦霞</a>诉说
+storyinfo_47842=听<a href="findnpc_new,scene08,WorldNpc08151" style="HLStype1">广策树</a>诉说
+storymenu_47840_1=真是感人呢，我替你放。
+storymenu_47841_1=这么多年，他一定很辛苦吧。
+storymenu_47841_2=这点事情，自然不在话下。
+storymenu_47842_1=哦，那他逃出来之后为什么不取走？
+storymenu_47842_2=那好啊，快说啊！
+storymenu_47842_3=当我白痴啊！
+storymenu_47842_4=没兴趣！
+useiteminfo_47840=使用<a href="TASK_ITEM,useitem_009cc" style="HLStype1">水袋</a>
+useiteminfo_47841=使用<a href="TASK_ITEM,useitem_010cc" style="HLStype1">狼烟</a>
+useiteminfo_47842=使用<a href="TASK_ITEM,useitem_011cc" style="HLStype1">爱的花灯</a>
+useiteminfo_47843=对<a href="findnpc_new,scene08,WorldNpc08139" style="HLStype1">李郎</a>使用<a href="TASK_ITEM,useitem_012cc" style="HLStype1">头痛药</a>
