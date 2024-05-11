@@ -510,7 +510,6 @@ hunterinfo_27058=除去潛伏在土地廟附近的胡人千夫長
 hunterinfo_27059=協助金懷玉殺死沈義山獲得財寶
 hunterinfo_27060=殺死雷天霸的手下城東地痞
 hunterinfo_27061=殺死位於暮色之村祠堂內的葉樓凱，救出村長的女兒張寥寥
-hunterinfo_27064=殺死村北搶奪財寶的衙役後，與趙大媽交談，保護村民將財寶奪回，並殺死惡首錢昔之（開啟村民後，幫助村民奪回一定數量財寶錢昔之才會出現）
 hunterinfo_27066=擊敗尚寸方
 hunterinfo_27068=擊殺藏彌猴王
 hunterinfo_27070=去唐門找<a href="findnpc_new,school05,WorldNpc02224" style="HLStype1">唐門弟子</a>打探當年守衛密室弟子暈迷一事
@@ -771,9 +770,7 @@ interactinfo_27620=與<a href="findnpc_new,city04,FunnpcClone021004" style="HLSt
 interactinfo_27621=與<a href="findnpc_new,city04,FunnpcClone021005" style="HLStype1">張峰</a>談談找到徐先生的下落沒有
 interactinfo_27622=與<a href="findnpc_new,city04,FunnpcClone021006" style="HLStype1">王三</a>談談找到徐先生的下落沒有
 interactinfo_27623=與<a href="findnpc_new,city04,FunnpcClone021007" style="HLStype1">肖兵</a>談談找到徐先生的下落沒有
-interactinfo_27624=到<a href="findnpc_new,city04,CloneDoorNpc00048" style="HLStype1">青雲堡（江湖禁地）</a>裡找到醉秋生(<font face="Default" color="#FF0000" >青雲堡-394,57</font>)並將手劄交給他
 interactinfo_27625=打敗五行旗主田鋒後與他交談
-interactinfo_27626=找到家丁帶你去見堡主沈青雲，去後院主樓<font face="Default" color="#FF0000" >青雲樓中(322,164)</font>看看（青雲樓的門的開關與九宮亭的機關有關聯
 interactinfo_27627=將毒蝶交給地下客廳中的醉秋生
 interactinfo_27628=將沈青雲的遺書交給沈夫人
 interactinfo_27629=放飛信鴿
@@ -1820,7 +1817,6 @@ hunterinfo_27624=教訓光棍<a href="findnpc_new,city04,FunnpcClone021019" styl
 storyinfo_27624=讓光棍<a href="findnpc_new,city04,FunnpcClone021019" style="HLStype1">丁好圓</a>賠禮道歉
 storyinfo_27564=找<a href="findnpc_new,school04,WorldNpc03942" style="HLStype1">單沖</a>打探一下
 hunterinfo_27062=與劉阿婆交談開啟禁地冒險，救出被周厲風追殺的村民並殺死匪首周厲風（救出5個村民後周厲風才會出現）
-hunterinfo_27063=殺死村口的縱火者，除掉引出的賊首魏不羈（用地上的水桶去湖邊打水撲滅房子上的大火，撲滅5間房子上的火後魏不羈才會出現）
 interactinfo_27069_2=轉達張寥寥的意思給村長張亦善（-69，-40）
 submitnpcex_2106=<s>向暮色之村的村長張亦善提交任務
 interactinfo_27007_1=通知二樓的司馬回風趕緊出發
@@ -1853,4 +1849,8 @@ storymenu_27380_1=據說鳳凰翎藏在本門禁地萬毒宮，那裡高手守�
 story_27260_1=我们峨眉一派自师祖创建以来，一直以侠义为本，为了江湖武林的和平贡献着自己的一份力量。即使你以后踏出师门，也须心怀仁义。你可记住了？
 ZZAnswerText3_104=捻花功
 ZZAnswerText_4_6=捻花功
+hunterinfo_27063=殺死村口的縱火者，除掉引出的賊首魏不羈（用地上的水桶去湖邊打水撲滅房子上的大火，撲滅4間房子上的火後魏不羈才會出現）
+hunterinfo_27064=與趙大媽交談瞭解情況，擊敗奪寶者將財寶奪回，並殺死惡首錢昔之（開啟玩法後，奪回三處財寶錢昔之才會出現）
+interactinfo_27624=到<a href="findnpc_new,city04,FunnpcClone021001" style="HLStype1">洛陽青雲堡一帶</a>找到醉秋生(<font face="Default" color="#FF0000" >洛陽（922,170）</font>)並將手札交給他
+interactinfo_27626=找到管家帶你去見堡內的主事者，去後院主樓<font face="Default" color="#FF0000" >青雲樓中(322,164)</font>看看（青雲樓的門的開關與九宮亭的機關有關聯）
 

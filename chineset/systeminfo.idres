@@ -726,12 +726,6 @@ item_random_school=無法識別該門派的暗號，無從得知其內容
 15913=必須在龍門客棧場景中
 15914=戰鬥中不能使用
 15915=離客棧太近，會被發現，還是再跑遠些
-15916=<font color="#FF0000">{@0:Name}</font>帶領的隊伍通關了禁地<font color="#FF0000">{@1:Name}普通模式</font>，通關得分：<font color="#ffff00">{@2:Name}</font>，獲得了大量<font color="#ffff00">金錢</font>和<font color="#ffff00">歷練</font>獎勵！
-15917=<font color="#FF0000">{@0:Name}</font>帶領的隊伍通關了禁地<font color="#FF0000">{@1:Name}困難模式</font>，通關得分：<font color="#ffff00">{@2:Name}</font>，獲得了大量<font color="#ffff00">金錢</font>和<font color="#ffff00">歷練</font>獎勵！
-15918=<font color="#FF0000">{@0:Name}</font>帶領的隊伍通關了禁地<font color="#FF0000">{@1:Name}地獄模式</font>，通關得分：<font color="#ffff00">{@2:Name}</font>，獲得了大量<font color="#ffff00">金錢</font>和<font color="#ffff00">歷練</font>獎勵！
-15919=<font color="#FF0000">{@0:Name}</font>帶領的隊伍通關了禁地<font color="#FF0000">{@1:Name}普通模式</font>，通關得分：<font color="#ffff00">{@2:Name}</font>，刷新了禁地排行榜的記錄，獲得了大量<font color="#ffff00">金錢</font>和<font color="#ffff00">歷練</font>獎勵！
-15920=<font color="#FF0000">{@0:Name}</font>帶領的隊伍通關了禁地<font color="#FF0000">{@1:Name}困難模式</font>，通關得分：<font color="#ffff00">{@2:Name}</font>，刷新了禁地排行榜的記錄，獲得了大量<font color="#ffff00">金錢</font>和<font color="#ffff00">歷練</font>獎勵！
-15921=<font color="#FF0000">{@0:Name}</font>帶領的隊伍通關了禁地<font color="#FF0000">{@1:Name}地獄模式</font>，通關得分：<font color="#ffff00">{@2:Name}</font>，刷新了禁地排行榜的記錄，獲得了大量<font color="#ffff00">金錢</font>和<font color="#ffff00">歷練</font>獎勵！
 15922=本周通關禁地次數已滿，請日後再來！
 15923=禁地重置成功
 15924=您當前已存在該禁地，無法重置
@@ -809,7 +803,6 @@ item_random_school=無法識別該門派的暗號，無從得知其內容
 16061=請留步
 16101=<font color="#ff6600">村民的房子已經燒起來了，每家村民的房子前面都放了水桶，可以用它去湖邊打水來澆滅房子上的火。火太大了，小心被燒傷，還要提防那些縱火者，他會把房子重新點燃。</font>
 16102=<font color="#ff6600">前面的那些人搜刮了村子裡所有值錢的東西，堆放在了前面房子的門口，清除掉那些看守的人之後，回來告訴趙大媽可以去通知村民去把財寶都拿回來，要注意保護村民的安全，當心那些來搶劫的人。</font>
-16103=逃跑村民:
 16104=滅火：
 16105=南面財寶：
 16106=東面財寶：
@@ -1885,7 +1878,6 @@ item_random_school=無法識別該門派的暗號，無從得知其內容
 19424=非正式幫派不能升級！
 19450=倉庫管理員不存在,不進行該操作
 19451=操作失敗，內容包含非法字符!
-19452=該區域還未被購買，不能進入!
 19453=幫派缺少日常消耗人氣{@0:hotness}，約{@1:hour}小時後幫派將降級。
 19455={@0:玩家}退出幫派不久，尚不能再次加入幫派
 19456=由於您退出幫派不久，不能接受來自<font color="#ff0000">{@0:guild}</font>的幫會招募請求！
@@ -5091,7 +5083,6 @@ failed_jiaoyizhong=交易中不能轉換
 failed_kaiguangbuzu=沒有開滿不能轉換
 failed_machezhong=坐馬車不能轉換
 failed_pinzhibugou=品質不夠不能轉換
-failed_qianbuzu=『火浣台』不足不能轉換，可前往商城購買。
 failed_shuizhong=水中不能轉換
 failed_siren=死人不能轉換
 failed_suodingwupin=鎖定的物品不能轉換
@@ -5137,7 +5128,6 @@ fight_xiaosan_info_1=<font color="#FFCC00">{@0:name}</font>的<font color="#FF66
 fight_xiaoshi_info_1=<font color="#FFCC00">{@0:name}</font>的<font color="#FF6699">{@1:name}</font>從<font color="#FFCC00">{@2:name}</font>身上消失了
 fight_xiqu_info_1=<font color="#FFCC00">{@0:name}</font>的<font color="#FF00FF">{@1:name}</font>從<font color="#FFCC00">{@2:name}</font>身上吸取了<font color="#00CC00">{@3:ToInt}</font>點{@4:name}
 fight_xishou_info_1=<font color="#FFCC00">{@2:name}</font>因<font color="#FFCC00">{@0:name}</font>的<font color="#FF6699">{@1:name}</font>吸收了<font color="#FFFF33">{@3:ToInt}</font>點{@4:name}
-successed_zhuanhuan=恭喜您！轉換成功！消耗『火浣台』{@0:ToInt}個
 fight_yang_info_1=陽傷害
 fight_yin_info_1=陰傷害
 fight_zhaojia_info_1=<font color="#FFCC00">{@0:name}</font>的<font color="#FF00FF">{@1:name}</font>被<font color="#FFCC00">{@2:name}</font>招架了
@@ -5902,7 +5892,6 @@ ljd1987=您未完成落腳點引導任務，請先完成落腳點引導任務後
 15933={@0:Name}本周通關禁地次數已滿，請日後再來！
 15934={@0:Name}玩家不在本場景，無法進行此操作！
 15935=只有隊長才能進行此操作！
-15936=<font color="#FF0000">{@0:Name}</font>帶領的隊伍通關了禁地<font color="#FF0000">{@1:Name}修羅模式</font>，通關得分：<font color="#ffff00">{@2:Name}</font>，獲得了大量<font color="#ffff00">金錢</font>和<font color="#ffff00">歷練</font>獎勵！
 guild_dc_cant_repeat=您已經在本輪競標中出價，不能繼續修改投標金額!
 guild_dc_no_enough_guild_silver=幫會資金不足，不能進行競標!
 guild_dc_no_enough_self_silver=私人資金不足，不能進行競標!
@@ -8917,7 +8906,6 @@ talk_4nei_sl_01=你是誰！為何易容老夫！給老夫現身！！
 19665=設置成功!
 19666=基礎積分由{@0:points}改成{@1:points}
 19667=<font color="#ff0000">{@0:name1}</font>修改了<font color="#ff0000">{@1:name2}</font>的積分,由<font color="#ff0000">{@2:score1}</font>變為<font color="#ff0000">{@3:score2}</font>。備註：<font color="#ff0000">{@4:remark}</font>
-19668=<font color="#551A8B">{@0:name1}</font>積分設置把<font color="#551A8B">{@1:type1}</font>修改為<font color="#551A8B">{@2:type2}</font>，基礎積分由<font color="#551A8B">{@3:score1}</font>變為<font color="#551A8B">{@4:score2}</font>
 19669=清空成功!
 19670=折算成功!
 19671=確定要清空活動次數嗎?
@@ -8925,8 +8913,6 @@ talk_4nei_sl_01=你是誰！為何易容老夫！給老夫現身！！
 19673=確定要扣除<font color="#ff0000">{@0:name}</font>的積分<font color="#ff0000">{@1:score}</font>嗎?
 19674=<font color="#ff0000">修改積分</font> <font color="#ff0000">{@:0player}</font>增加了<font color="#ff0000">{@:1player}</font>積分<font color="#ff0000">{@:2point}</font>
 19675=<font color="#ff0000">修改積分</font> <font color="#ff0000">{@:0player}</font>扣除了<font color="#ff0000">{@:1player}</font>積分<font color="#ff0000">{@:2point}</font>
-19676=<font color="#008B00">設置積分</font> <font color="#008B00">{@:0player}</font>設置<font color="#008B00">{@:1type}</font>的單位積分為<font color="#008B00">{@:2point}</font>
-19677=<font color="#008B00">設置積分</font> <font color="#008B00">{@:0player}</font>刪除了<font color="#008B00">{@:1type}</font>記錄項，新增了<font color="#008B00">{@:2type}</font>記錄項，基礎積分設置為<font color="#008B00">{@:2point}</font>
 19679=<font color="#ff0000">{@0:name}</font>清空了所有人的活動次數
 19680=<font color="#ff0000">{@0:name}</font>折算了<font color="#ff0000">{@1:name}</font>的積分，積分由<font color="#ff0000">{@2:score}</font>變成<font color="#ff0000">{@3:score}</font>
 19683=對不起，你不是隊長，不能操作
@@ -11681,7 +11667,6 @@ shitu_tiguan_001=您當前已經達到踢館獲得師徒值次數上限，今日
 1000253=條件不滿足參與比賽
 yhg_wuque_room_query=確定花費： <img src="gui\common\money\yyb.png" valign="center" only="line" data="" />{@0:$錠兩文}查詢？
 yhg_wuque_room_switch=確定花費： <img src="gui\common\money\yyb.png" valign="center" only="line" data="" />{@0:$錠兩文}前往？
-91178=今日溫泉修煉已達上限！
 10113=<font color="#ff0000">{@0:name}</font>對你使用了吸血魔蛭。
 adv0090238=我們需要你的幫助！<font color="#ff0000">（需先擊敗馬猩猩方可開啟此功能）</font>
 adv0090239=那就好，讓我助你們一臂之力。
@@ -14698,7 +14683,6 @@ tips_jyz_count_total_7_5_1=前往燕京郊外<font color="#ff1cae" >（479 952�
 jyz_event_7_1_open=燕京城外忽現魔教暗記，標示魔教來日即有大動作。可至燕京城（416，348）尋找趙際安處瞭解魔教暗記的相關情況。
 jyz_event_7_2_open=魔教餘孽齊聚燕京（423，556）、洛陽（1056，872）、金陵（2044，948），為禍軍府鄉民，各路少俠速速前往擊退魔教餘孽，魔教餘孽將會在5分鐘後刷新。
 jyz_event_7_3_open=八散人其二——步閃翟、蕭莫愁現身燕京郊外（479，952）挑戰天下英雄，各路少俠速速前往，將其制服。
-jyz_event_7_5_over=「隱世八派」事件完成。
 test_shuoming_gmp_hyc_02=你觸發了自身心魔，挑戰並戰勝它將獲得特殊獎勵
 test_shuoming_gmp_hyc_03=你的修煉已經結束了，可以離開此地了
 trigger_ForceSchool_GMP_select_1=<font face="font_system_friend" color="#FFCC00" size="20">開始修煉！</font>
@@ -15908,9 +15892,7 @@ info_TwQf_01=天威浩蕩，風雲變幻，<font color="#FF0000">天威</font>�
 1000304=您不是此戰鬥的參戰成員，無法進入。請聯繫幫主或有權限的管理，在幫會界面地盤的幫會領地內管理參戰成員。
 10003002=加入長風鏢局需善惡標籤不能為「惡」/"邪"的江湖人士或任意標籤的丐幫人士。
 100063=不能持有倚天劍或聖主武器參賽，請卸下武器再點擊參賽按鈕
-sys_nlhh_005=需要<font color="#ff0000">九陰志事件「隱世八派」</font>完成後，方能進入念蘿花會！
 91199=幫主獎勵已經領取，無法再次領取！
-sys_hd6_boss_born=傳聞有四大隱世門派高手出現在蘇州城比武區，打敗他們就有機會加入隱世門派！
 1000332_1001=<font color="#ff0000">{@1:atacker}</font>幫佔領了<font color="#ff0000">{@0:defender}</font>幫<font color="#ff0000">峨眉九幽山</font>地盤的王座，敲響了幫戰勝利的鐘聲。
 1000332_101=<font color="#ff0000">{@1:atacker}</font>幫佔領了<font color="#ff0000">{@0:defender}</font>幫<font color="#ff0000">千燈鎮蒼龍嶺</font>地盤的王座，敲響了幫戰勝利的鐘聲。
 1000332_1101=<font color="#ff0000">{@1:atacker}</font>幫佔領了<font color="#ff0000">{@0:defender}</font>幫<font color="#ff0000">武當神風嶺</font>地盤的王座，敲響了幫戰勝利的鐘聲。
@@ -16181,7 +16163,6 @@ sys_yjwm_04=我明白了。
 sys_yjwm_one_01=此處有一陣，名為五芒，要想激活此陣，便要按照五芒星順序開啟每一個師兄所在的陣眼。
 sys_yjwm_one_02=五芒劍陣點亮非此順序，來找我重新開啟試煉。
 sys_yjwm_one_03=五芒已成，試煉完成。
-sys_yjwm_two_01=此處要考驗你華山劍法熟習程度，仔細看我所用招式，待我用招完畢，你需對這樁子使出同樣的招式，成功五次便可過關。
 sys_yjwm_two_02=所用招式不對，來找我重新開啟試煉。
 sys_yjwm_two_03=動作太慢，來找我重新開啟試煉。
 sys_yjwm_three_01=此處是考驗你的心境，擊敗你心中的劍魔即可過關。
@@ -17860,7 +17841,6 @@ sys_clone035_004=擊敗青羆
 sys_clone035_005=前往晴瑤宮（1404,184）擊敗大力熊王青羆
 sys_clone035_006=擊敗明月夫人
 sys_clone035_007=前往晴瑤宮（1518,155）擊敗明月夫人
-scene_clone035=晴瑤宮【單人】
 desc_sns_condition_clone035_1=推薦進入實力：超凡入聖
 desc_sns_condition_clone035_2=暫不開放
 desc_sns_condition_clone035_3=暫不開放
@@ -18218,8 +18198,6 @@ sys_dmp_001=忿怒試煉
 sys_songjing_01=達摩門派頌經十分鐘後開啟，請各位弟子到禪武台（-733，-341）「袁智清」處報名參與！
 sys_chushen_tyy=廚神已在各大主城的酒樓擺下團圓宴，各位大俠可前往享用
 sys_newyear_001=使用目標必須是放燈荷葉
-sys_yearboss_apply=成都東郊有凶獸肆虐，有意為民除害的大俠們請到成都(399,585)尋找「緊張的百姓」一探究竟
-sys_yearboss_begin=年獸出現了，請各位大俠速速擊敗它
 sys_yearboss_kill_boss=經過一番激戰，{@0:團長名}大俠率領一眾英雄擊敗了肆虐的年獸
 sys_yearboss_boss_alive_ending=經過一番曠日持久的激戰，年獸眼見不敵竟轉身逃走，轉眼間消失無蹤
 sys_yearboss_entry=你已進入活動場景
@@ -18228,7 +18206,6 @@ sys_yearboss_already_apply=你已經報名過了，還請稍安勿躁靜待年�
 sys_yearboss_apply_ok=報名成功，年獸即將出現請稍候片刻
 sys_yearboss_join_failed_error_time=活動未開啟，無法參加
 sys_yearboss_join_failed_boss_die=年獸已被擊敗
-sys_yearboss_join_failed=當前未滿足參加條件
 fwz_repick_lose1=此風物誌不可回收成卡牌
 sys_yxhd_001=<font color="#ff0000">千燈燈會活動開啟，玩家可至千燈鎮中心區域尋找燈狀NPC猜燈謎。活動自2.18日開啟，至2.25日結束，每晚九點至十點可參與。</font>
 jhscene_play_movie_fail=傳送失敗！
@@ -20927,8 +20904,6 @@ clonewarning_115917=需要九陰志二內「錦繡江山」完成！
 clonewarning_115918=需要九陰志三內「倭寇跳梁」完成！
 sys_guj_choujiang001=兌換條件不滿足
 sys_9yz_binglu=<font color="#00ff00">提示：兵錄開放上限將受九陰志進程影響</font><br><font color="#d0c3a8">一內：傷害上限17</font><br><font color="#d0c3a8">二內：傷害上限38</font><br><font color="#d0c3a8">三內：傷害上限86</font><br><font color="#d0c3a8">四內：傷害上限194</font><br><font color="#d0c3a8">五內：傷害上限295</font><br><font color="#d0c3a8">六內：傷害上限454</font>
-7945=端午美味令牌
-7946=端午美味兌換活動
 10000031=超出範圍，當前操作無效!
 sys_wbwf_xuex_talk_001=你們來晚了，這裡的寶藏和你們的小命都將通通歸我所有！
 sys_wbwf_xuex_talk_002=嘿嘿嘿，你們以為我就這點能耐嗎？你們這是自尋死路！
@@ -21736,12 +21711,6 @@ sys_new_terms_sign_03=<font color="#00FF00">成功簽到並領取獎勵，獎勵
 sys_new_terms_sign_04=本日已成功簽到或尚未達到簽到天數，簽到失敗！
 sys_new_terms_sign_05=本日已完成簽到，獎勵將通過郵件寄送，請注意查收！
 sys_new_terms_sign_06=尚未達到累積天數，無法領取該獎勵
-sys_guj_choujiang003=你沒有兌換道具答題令，無法進行答題兌換。
-sys_guj_choujiang004=恭喜<font color="#A2FF6C">{@0:名字}</font>在答題兌換活動內獲得了<font color="#A2FF6C">{@1:道具}</font>
-sys_guj_choujiang005=答題兌換
-sys_guj_choujiang006=恭喜你，這是你在答題兌換內所獲得的道具
-ui_dbomall_0308=答題兌換
-ui_choujiang=答題兌換
 37403=此玩法已關閉。現有等級、排行榜、獎勵等將暫時保留。後續關閉將以公告方式通知，敬請留意。
 ui_wuque_buy_001=剩餘購買時間:{@0:時間}分{@1:時間}秒
 ui_wuque_buy_total=總花費：<img src="gui\common\money\liang.png" valign="center" only="line" data="" />
@@ -21966,7 +21935,6 @@ yhg_wuque_tongji=評選無缺公子環節即將結束，一分鐘後開始統計
 home_shenfen_failed_01=對不起，身份非法，無法操作
 gift_bag_02=對不起，只有江湖名俊才能參加此活動。
 19942=非江湖名俊玩家，無法參與運鏢。
-ui_guj_choujiangjs01=<s><s><s><s><s><s><s><s><s><s>答題兌換<br><s><s>為繁榮大明經濟，滋養民生。朝廷特下令讓江湖中各位俠士參加答題兌換。<br><s><s>指定時間段內，俠士可通過消耗答題令進行答題兌換。<br>答題令獲得途徑：<br>1、每天的智力答題活動中的獎勵包內獲得答題令<br><font color="#A2FF6C">活動時間:2017年9月14日至2017年9月27日24點</font><br>答題兌換獎勵發放方式：<br><s><s><font color="#A2FF6C">答題兌換所獲得的獎勵將以郵件的形式發放。</font>
 jyf_cross_error_tips_5=活動人數已滿，無法參加
 sys_jiuyang_011=條件不滿足，無法參加跨服玩法
 yuxuan_systeminfo_10001=此功能無法在跨服中使用
@@ -22048,4 +22016,932 @@ systeminfo_youminggong_tiguan_dual_play_hinttextid=幽冥宮<br>佔地面積：�
 1000259=匹配中，清注意參賽邀請，<font color="#f9fc00">匹配過程中請勿進入家園等分組場景</font>
 sys_activity_sign_n_draw_10=已領取簽到嘉獎包，無法重複領取
 sys_activity_sign_n_draw_12=當日累計在線滿1小時後即可點擊領取簽到嘉獎包(每天只能領取一次)
+3677300=門派為明教或者無門派無勢力且非隱世門派!
+3677301=俠惡標籤不得為「惡」
+3677302=離開本門派未滿24天!
+3677303=門派為明教！
+3677304=無門派無勢力且非隱世門派!
+esg_24=神機營營主陸少鈞收到東海勢力生死判秘函，邀其前往東海蓬萊島比武論道！
+sys_eastsea_newschool_shenji=神機營營主陸少鈞發佈門派召集令，營中將士收到盟主密函者速速使用盟主密函！（如未收到盟主密函者可去蘇州（611，435）酒樓二樓找盟主弟子詢問）
+time_jysg_jq_401=剩餘時間
+time_jysg_jq_402=剩餘時間
+time_jysg_jq_501=剩餘時間
+time_jysg_jq_502=剩餘時間
+jysg_jq_401=魔念
+jysg_jq_402=魔念
+jysg_jq_403=善念
+jysg_jq_404=善念
+tips_jysg_jq_009=赤陽子走火入魔，如今魔念叢生，<font color="#ffd700">消滅魔念</font>可使其轉化成善念，當善念<font color="#ffd700">多於</font>魔念時，赤陽子可緩慢脫離走火入魔狀態
+tips_jysg_jq_010=赤陽子走火入魔，擊殺他殘存的<font color="#ffd700">善念</font>，同時也要阻止他人擊殺魔念，讓赤陽子走火入魔而亡
+tips_jysg_jq_011=赤陽子（-276，-867）正在運功打通全身經絡，<font color="#ffd700">擊殺入侵者</font>獲得其修為，助赤陽子一臂之力
+tips_jysg_jq_012=<font color="#ffd700">擊殺赤陽子（-276，-867）</font><br>赤陽子如今正處於沖關階段，正是擊殺他的大好時機
+sys_jysg_xthh_003=赤陽子正在修煉九陽絕學，需要善念來消滅魔念，前去擊殺善念，讓魔念攻擊赤陽子。
+clone003_duobao_001=奪回財物
+clone003_duobao_002=找到三名奪寶者(10,-102)(0,-126)(24,-133,)並擊敗他們，奪回村民的財物
+clone003_duobao_003=<font color="#ff6600">找到三名奪寶者(10,-102)(0,-126)(24,-133,)並擊敗他們，奪回村民的財物</font>
+clone003_duobao_004=<font color="#ff6600">前面有很多看似衙役的人，詢問趙大媽到底發生了！</font>
+clone003_jiuyuan_001=<font color="#ff6600">碼頭上的阿婆看起來非常悲傷，去問問發生了什麼</font>
+clone001n_sys_001=擊敗李日含
+clone001n_sys_001a=前往鳳凰山莊前山道擊敗攔路土匪<font color="#ffff00">李日含(239,545)</font>
+clone001n_sys_002=擊敗南霸天
+clone001n_sys_002a=土匪頭領<font color="#ffff00">南霸天(347,505)</font>即將攻佔山莊大門，速去阻止
+clone001n_sys_003=擊敗馬鞭
+clone001n_sys_003a=前往山莊前廳，擊敗護衛頭目<font color="#ffff00">馬鞭(339,439)</font>
+clone001n_sys_004=擊敗南霸天
+clone001n_sys_004a=前往鳳凰山莊前山道擊敗<font color="#ffff00">南霸天(244,547)</font>
+clone001n_sys_005=五行迷陣
+clone001n_sys_005a=鳳凰山莊中人布下五行迷陣，不少同行的武林人士已經陷入其中，速速通過<font color="#ffff00">入口(278,566)</font>前往救援！
+clone001n_sys_006=擊敗西門煜
+clone001n_sys_006a=五行陣已在秋夫人的幫助下被其他江湖人士攻破，擊敗<font color="#ffff00">西門煜(581,431)</font>方可激活中央石塔，通過石塔離開五行陣
+clone001n_sys_007=擊敗馬鞭
+clone001n_sys_007a=眾人出了五行陣，總算進入了山莊之中，孔雀堂主<font color="#ffff00">馬鞭(406,396)</font>是莊中的一道重要防線，突破他才能向前前進
+clone001n_sys_008=繼續前進
+clone001n_sys_008a=山莊中竟似沒有其他重要人物了，馬鞭守衛的門後有一條<font color="#ffff00">古徑</font>，走到盡頭有一座<font color="#ffff00">地宮</font>，只能進入其中看看了
+clone001n_sys_009=擊敗圍攻者
+clone001n_sys_009a=前方有人在與幽冥山莊之人打鬥，看來我們的方向並沒有錯，快去救下<font color="#ffff00">打鬥之人(495,176)</font>問問發生了什麼
+clone001n_sys_010=破天宮陣
+clone001n_sys_010a=破壞六合天宮陣周圍石台上的陣法機關後，方可攻擊<font color="#ffff00">麻蜂(572,223)</font>
+clone001n_sys_011=擊敗麻蜂
+clone001n_sys_011a=擊敗<font color="#ffff00">麻蜂</font>
+clone001n_sys_012=破四象陣
+clone001n_sys_013=青龍陣
+clone001n_sys_013a=擊敗所有<font color="#ffff00">青龍護衛</font>後，<font color="#ffff00">青龍陣</font>將破
+clone001n_sys_014=朱雀陣
+clone001n_sys_014a=躲避炸彈，尋找水桶，使用水桶將<font color="#ffff00">朱雀壇</font>澆滅，<font color="#ffff00">朱雀陣</font>將破
+clone001n_sys_015=玄武陣
+clone001n_sys_015a=擊敗<font color="#ffff00">玄武赤子</font>，<font color="#ffff00">玄武陣</font>將破
+clone001n_sys_016=白虎陣
+clone001n_sys_016a=擊敗中央<font color="#ffff00">白虎柱</font>，<font color="#ffff00">白虎陣</font>將破
+clone001n_sys_017=擊敗護陣者
+clone001n_sys_017a=四象迷陣已破，擊敗<font color="#ffff00">海其闊，毛戰，高濤，古淞</font>，離開迷陣，尋找鳳凰翎
+clone001n_sys_018=擊敗柳菁菁
+clone001n_sys_018a=擊敗<font color="#ffff00">柳菁菁</font>
+clone001n_sys_019=擊敗穆道人
+clone001n_sys_019a=擊敗<font color="#ffff00">穆道人</font>
+clone001n_sys_020=麻蜂已死，通過出現的<font color="#ffff00">入口(645,272)</font>前進吧
+clone001n_sys_021=此處是<font color="#ffff00">青龍陣</font>，擊敗所有<font color="#ffff00">青龍護衛</font>後，青龍陣將破
+clone001n_sys_022=此處是<font color="#ffff00">朱雀陣</font>，躲避炸彈，尋找水桶，使用水桶將<font color="#ffff00">朱雀壇</font>澆滅，<font color="#ffff00">朱雀陣</font>將破
+clone001n_sys_023=此處是<font color="#ffff00">玄武陣</font>，擊敗<font color="#ffff00">玄武赤子</font>，<font color="#ffff00">玄武陣</font>將破
+clone001n_sys_024=此處是<font color="#ffff00">白虎陣</font>，擊敗中央<font color="#ffff00">白虎柱</font>，<font color="#ffff00">白虎陣</font>將破
+clone001n_sys_025=四象破，鳳凰出！<font color="#ffff00">鳳凰翎</font>終於就要重現江湖了，從這四人守護的陣門出去吧
+clone001n_sys_026=<font color="#ffff00">一切竟然只是如同噩夢一般的騙局，江湖就是這般無常......</font>
+clone001n_sys_027=<font color="#ffff00">青龍陣</font>已破，通過出現的<font color="#ffff00">陣門</font>前進吧
+clone001n_sys_028=<font color="#ffff00">朱雀陣</font>已破，通過出現的<font color="#ffff00">陣門</font>前進吧
+clone001n_sys_029=<font color="#ffff00">玄武陣</font>已破，通過出現的<font color="#ffff00">陣門</font>前進吧
+clone001n_sys_030=<font color="#ffff00">白虎陣</font>已破，通過出現的<font color="#ffff00">陣門</font>前進吧
+clone001n_sys_031=五行陣已破，點擊中央<font color="#ffff00">石塔</font>，可以離開五行陣
+clone001n_sys_032=六合天宮陣已破，<font color="#ffff00">麻蜂</font>失去了陣法的掩護，速速擊敗他！
+clone001n_sys_033=四象陣幾乎都被破除，然而<font color="#ffff00">護陣者</font>果然存在，擊敗<font color="#ffff00">海其闊，毛戰，高濤，古淞</font>
+clone001n_sys_034=<font color="#ffff00">穆道人</font>和<font color="#ffff00">柳菁菁</font>果然早已在此，諸位務必小心！
+clone001n_sys_035=到此為止了......
+clone004n_sys_001=崔銳的考驗
+clone004n_sys_001a=事關重大，<font color="#ffff00">崔銳（275,568）</font>對你的實力並不放心，向他露一手！
+clone004n_sys_002=詢問崔銳
+clone004n_sys_002a=<font color="#ffff00">崔銳</font>終於認可了你的實力，問問他行動計劃是怎樣的
+clone004n_sys_003=觀察情勢
+clone004n_sys_003a=前往<font color="#ffff00">過雁谷（258,346）</font>探查敵情，然後方可開始下一步計劃
+clone004n_sys_004=擊敗黎五
+clone004n_sys_004a=此人就是唐門叛徒<font color="#ffff00">黎五</font>，手段殘忍。如今投身韃靼軍中，更是不可放過他，收拾了他！
+clone004n_sys_005=上將軍領
+clone004n_sys_005a=收拾了<font color="#ffff00">黎五</font>，前往<font color="#ffff00">將軍領（455,225）</font>繼續下一步吧！
+clone004n_sys_006=敗刑中天
+clone004n_sys_006a=嶺上之人必然是韃靼將領，拿下他本就是義不容辭之事何況此處是本次行動的關鍵，擊敗<font color="#ffff00">刑中天</font>
+clone004n_sys_007=情況有變，找步兵隊長<font color="#ffff00">崔銳（275,568）</font>瞭解到底發生了什麼
+clone004n_sys_008=成功的擾亂了敵軍，敵軍恐怕正忙於救火，方才並沒有看到王爺的身影，趕緊前往前鋒營（221,51），王爺可能就在那裡，可通過（447,223）迅速前往
+clone004n_sys_009=你的功夫不錯，看來可以試試突襲敵營，只是此行兇多吉少，你可要考慮清楚！
+clone004n_sys_010=突襲敵營？！崔大人，並非在下怕死，只是這軍營豈是我們寥寥幾人可以突破的？
+clone004n_sys_011=莫急，聽我說，你們先前往過雁谷一袋視察戰況，若是韃靼有不少軍隊在谷中，敵營的守備必不會太強，而近郊有一處將軍領，此處懸崖後方便是敵軍大營，你們便有機可乘！
+clone004n_sys_012=原來如此，凶多吉少又如何，既然來了，不殺幾個韃子我怎能回去！大人，我這就出發！
+clone004n_sys_013=看來諸位確實不知情，然而你們來晚了一步，早有各大派的武林人士隨王爺前來，並且救走了那方無恨，但方無恨卻趁王爺出關迎接之際將王爺擄去了韃靼大營！
+clone004n_sys_014=據周邊百姓所說，方無恨是個好將領，怎會如此？！
+clone004n_sys_015=我也不知，但我只知道如今最重要的任務就是救出王爺，我們正需要武林高手的協助！諸位可願意幫忙？
+clone004n_sys_016=義不容辭！
+clone004n_sys_017=如此甚好，但你們若要前往，還需打贏我，若是連我都贏不了，也不必去送死了！
+clone004n_sys_018=崔大人所言極是！那在下就不客氣了！
+clone004n_sys_019=找到王爺
+clone004n_sys_019a=成功的擾亂了敵軍，敵軍恐怕正忙於救火，方才並沒有看到王爺的身影，趕緊前往<font color="#ffff00">前鋒營（221,51）</font>，王爺可能就在那裡，可通過<font color="#ffff00">（447,223）</font>迅速前往
+ui_pos_ReliveCJclone036=快活島
+sys_clone036_001=挑戰時間剩餘
+sys_clone036_002=找到莫天行
+sys_clone036_003=前往<font color="#ffff00">逍遙居（123,388）</font>找到<font color="#ffff00">莫天行</font>
+sys_clone036_004=擊敗莫天行
+sys_clone036_005=<font color="#ffff00">莫天行</font>果然在這逍遙居，不擊敗此人怕是不會鬆口的
+sys_clone036_006=追蹤神秘人
+sys_clone036_007=神秘人衝入了屋內，竟然有一條<font color="#ffff00">密道（112,366）</font>！進入其中尋找<font color="#ffff00">神秘人的身影（2833,256）</font>
+sys_clone036_008=擊敗羽柴清正
+sys_clone036_009=竟是<font color="#ffff00">倭人</font>，能獨自來到此處地位必然不低，結果此人！
+sys_clone036_010=前往閻王地宮的密道（119,375）開啟了，進入地宮擊敗屠百手的寵物吞天噬月
+sys_clone036_011=擊敗閻羅親衛
+sys_clone036_012=閻王仍然不肯輕易出手，擊敗他的<font color="#ffff00">六名親衛</font>
+sys_clone036_013=擊敗閻王
+sys_clone036_014=<font color="#ffff00">閻王（2750,255）</font>就在前方！擊敗這位快活島的掌權者
+sys_clone036_015=問問<font color="#ffff00">李忠（-121,590）</font>詳細的情況，準備下一步的行動
+sys_clone036_016=閻王黨羽中有幾位就在前方莊中，包括屠百手，秦蓉蓉，莫天行等人
+sys_clone036_017=這些人既然是閻王嫡系，想必都是高手，我們如何應對？
+sys_clone036_018=不必擔心，我們群起反抗，人數眾多，屠百手與秦蓉蓉那裡等人已經有人前去了，只是閻王勢力之大超過了我們的預料，最有可能知道他行蹤的莫天行那裡我們實在沒有把握，這才希望你能祝我們一臂之力！
+sys_clone036_019=原來如此，此人在哪？我這便去
+desc_sns_condition_clone036_1=推薦進入實力：舉世無雙
+desc_sns_condition_clone036_2=暫不開放
+desc_sns_condition_clone036_3=暫不開放
+desc_sns_condition_clone036_4=暫不開放
+ui_CloneLimit641=<br><font color="#ff0000">需通過同煙雨莊的呂安河（412,774）對話方能進入快活島</font>禁地需要組隊前往<br>1.普通模式<br>人數限制：上限1人<br>最低要求實力：神功蓋世<br>推薦挑戰實力：舉世無雙<br>2.困難模式（暫未開放）<br>3.地獄模式（暫未開放）
+ui_Desc_boss_clone036_qrr=<s>快活島溫柔鄉的話事人，實則閻王手下四使之一的欲色。表面風情萬種，骨子裡卻對男人懷有難以言喻的偏見和鄙視，利用其超凡魅力與手段，讓許多男人成為裙下之臣，更可怖的，是其內心極度變態，在溫柔鄉中馴養男人為奴，虐待取樂。
+ui_Group_boss_clone036_qrr=江湖
+ui_Identity_boss_clone036_qrr=四使之欲色
+ui_Weapon_boss_clone036_qrr=徒手
+ui_Desc_boss_clone036_mtx=<s>快活島快活莊的主人，實則閻王手下四使之一的流魄。表面對快活島所有事均事不關己，實則暗中成為閻王的代言人，掌管快活島的行止。曾在妻女被害，無力報仇，生命中最落魄時被閻王所助，是以對閻王絕對忠誠，是唯一可以找到閻王的人。為人低調沉靜，計劃周密，在快活島危機中試圖力挽狂瀾。
+ui_Group_boss_clone036_mtx=江湖
+ui_Identity_boss_clone036_mtx=四使之流魄
+ui_Weapon_boss_clone036_mtx=徒手
+ui_Desc_boss_clone036_tbs=<s>快活島醉仙樓的話事人，實則乃閻王座下四使之一的血魔，昔日江湖上赫赫有名，化身屠百手只為割裂島民，消磨其反抗之心。為人殘忍之極，醉仙樓深處蓄養猛獸，喜看野獸撕裂人的場面。對女人索然寡味，似乎只有赤裸裸的血腥才能夠讓他興奮起來。
+ui_Group_boss_clone036_tbs=江湖
+ui_Identity_boss_clone036_tbs=四使之血魔
+ui_Weapon_boss_clone036_tbs=徒手
+ui_Desc_boss_clone036_yw=<s>閻王是一個絕對神秘的存在，大家對他的身份有各種各樣的猜測，但卻一一發現錯了。直到最後，依然沒人叫的出他的身份。這是一個充滿野心，自大，卻迷失在力量中的人，相信自己可以佔有和氏璧，獨挑十絕，最終，也只能因為自己的無知被更大的力量摧毀，數十年經營的快活島，毀於一旦。其實，他只是一個普通人，正如我們每個人一樣。
+ui_Group_boss_clone036_yw=江湖
+ui_Identity_boss_clone036_yw=閻王
+ui_Weapon_boss_clone036_yw=徒手
+ui_CloneStory641=<s>葉驚樓攜陽闕遠遁快活島，為閻王扣留，銷聲匿跡。十絕高手索驥而來，倭寇亦傾巢而出，均要將葉驚樓和寶物據為己有。反抗者趁機興起義旗，要揪出閻王，奪到賬簿，徹底從島解脫……真是如此麼？從不露面的閻王，終於浮出水面。快活島上，鹿死誰手？
+ui_ClonePlay641=<s>單人前往快活島，依次擊敗秦蓉蓉、莫天行、屠百手和閻王
+desc_sns_condtion_clone003_1_n=初窺門徑
+desc_sns_condtion_clone003_3_n=融會貫通
+scene_clone003_1_n=暮色之村【序章】
+scene_clone003_3_n=暮色之村
+desc_sns_condtion_clone021_1_n=出類拔萃
+desc_sns_condtion_clone021_3_n=登峰造極
+scene_clone021_1_n=青雲堡【序章】
+scene_clone021_3_n=青雲堡
+desc_sns_condtion_clone002_1_n=出神入化
+desc_sns_condtion_clone002_4_n=登峰造極
+scene_clone002_1_n=龍門客棧【金懷玉線】
+scene_clone002_4_n=龍門客棧【馬賊線】
+desc_sns_condtion_clone001_1_n=出神入化
+desc_sns_condtion_clone001_3_n=所向披靡
+scene_clone001_1_n=鳳凰山莊【序章】
+scene_clone001_3_n=鳳凰山莊
+desc_sns_condtion_clone004_wln=登峰造極
+scene_clone004_wln=雁門關
+desc_sns_condtion_clonezone001_1_n=一代宗師
+desc_sns_condtion_clonezone002_1_n=驚世駭俗
+scene_clonezone001_1_n=蝙蝠洞
+scene_clonezone002_1_n=無爭秘境
+desc_sns_condtion_clone004_lfs_n=驚世駭俗
+desc_sns_condtion_clone036=一代宗師
+scene_clone036=快活島
+desc_sns_condtion_clone033_1_n=超凡入聖
+scene_clone033_1_n=金陵變
+desc_sns_condtion_clone035_1_n=驚世駭俗
+scene_clone035_n=晴瑤宮
+desc_sns_condtion_clone038_1_n=震古爍今
+scene_clone038_1_n=大漠鬼城
+desc_sns_condtion_clone004_qb_n=威鎮寰宇
+scene_clone004_qb_3_n=雁門關【守軍線】
+desc_sns_condtion_clone034_1_n=空前絕後
+scene_clone034_1_n=天隱谷
+ui_Desc_npcclone001008_x=李日含，江湖大盜，此前一直做著見不得人的勾當。與南霸天有私交，此番鳳凰山莊大亂，南霸天欲要侵佔山莊，邀其一同出手，在慾望的驅使下，李日含一改往日風格答應作為南霸天的副手守在山莊外抵禦為了各色目的而來的武林中人
+ui_Desc_BossClone004902=黎五，原本為唐門傑出才俊，苦於唐門核心武學不傳外姓的規矩，最終判門而出並不再嚴於律己。當他發現自己對錢財美色的追求早已超出自己的想像時，已身在韃靼軍中，為韃靼將領阿魯台做事，並且手上沾滿了中原同胞的鮮血，然而其本人毫無悔意
+clonewarning_116670=本禁地需要實力達到「一代宗師」方可進入！
+clonewarning_116671=本禁地需要實力達到「超凡入聖」方可進入！
+clonewarning_116672=本禁地暫未開放，敬請期待！
+clonewarning_116673=本禁地暫未開放，敬請期待！
+clonewarning_116674=本禁地暫未開放，敬請期待！
+clonewarning_116675=本禁地暫未開放，敬請期待！
+clonewarning_116676=本禁地暫未開放，敬請期待！
+clonewarning_116677=本禁地暫未開放，敬請期待！
+clonewarning_116678=本禁地暫未開放，敬請期待！
+ini\scene\clone003_1=序章
+ini\scene\clone003_3=暮色之村
+ini\scene\clone021_1=序章
+ini\scene\clone021_3=青雲堡
+ini\scene\clone002_n_1=金懷玉線
+ini\scene\clone002_n_4=馬賊線
+ini\scene\clone001_n_1=序章
+ini\scene\clone001_n_3=鳳凰山莊
+ini\scene\clone004_wln_1=雁門關
+ini\scene\clonezone001_1=蝙蝠洞
+ini\scene\clone004_lfs_1=雁門·叛軍
+ini\scene\clone036_1=快活島
+ini\scene\clonezone002_1=無爭秘境
+ini\scene\clone033_1=金陵變
+ini\scene\clone035_1=晴瑤宮
+ini\scene\clone038_1=大漠鬼城
+ini\scene\clone004_qb_1=雁門·守軍
+ini\scene\clone004_qb_3=雁門·守軍
+ini\scene\clone034_1=天隱谷
+ini\scene\clone005_1=普通
+ini\scene\clone005_2=困難
+ini\scene\clone007_1=普通
+ini\scene\clone007_2=困難
+ini\scene\clone009_1=普通
+ini\scene\clone009_2=困難
+ini\scene\clone011_1=普通
+ini\scene\clone011_2=困難
+ini\scene\clone013_1=普通
+ini\scene\clone013_2=困難
+ini\scene\clone015_1=普通
+ini\scene\clone015_2=困難
+ini\scene\clone017_1=普通
+ini\scene\clone017_2=困難
+ini\scene\clone019_1=普通
+ini\scene\clone019_2=困難
+ini\scene\clone039_1=普通
+ini\scene\clone039_2=困難
+ini\scene\clone036=快活島
+desc_switch_885=2017新龍門客棧禁地開關
+clonewarning_116235=每天<font color="#ff0000">17:00-23:00</font>，<font color="#ff0000">三階內功36層（所向披靡）</font>以上，至少完成一次龍門客棧的通關才可以挑戰。<br>您還沒有完成<font color="#ff0000">龍門客棧</font>的通關，請先完成<font color="#ff0000">龍門客棧</font>的通關。
+clonewarning_116237=您需要「出神入化」或更高的實力方能挑戰禁地「龍門客棧」
+clonewarning_116243=禁地「龍門客棧」尚未開啟！
+scene_clone002_n_1=龍門客棧
+desc_sns_condtion_clone002_n_1=出神入化
+desc_sns_condtion_clone_4=無與倫比
+clone002n_jhy001=這裡就是龍門客棧。在我這裡人是活的，可規矩是死的，誰要是亂了我這的規矩，以後就別到我這兒來銷贓卸貨。
+clone002n_jhy002=老闆娘，在下初來乍到，這是你的地盤，定然守你的規矩
+clone002n_jhy003=沈義山這個王八蛋，這次又不知道從哪兒弄到什麼寶貝，這麼急著要出關，居然才給老娘一百兩銀子。既然你已經瞭解了我們龍門客棧，也想跟我混。那你現在就去斫鎮把沈義山給接過來，車伕老程就在外面，租輛馬車可方便不少，路上注意安全。完事以後姐姐不會虧待你們的。
+clone002n_jhy004=姐姐你放心，我保準把這事辦的妥當。
+clone002n_jhy005=挺麻利呀，事兒辦的不錯。今天的客人太多了，來順那邊忙不過來了，你先去幫來順問刁不二要些做包子的餡來！
+clone002n_jhy006=你都看清楚了？沈義山這個王八蛋，從哪弄來的？這個寶玉可是前朝宮裡的寶貝，少說也得值一千兩銀子。（冷笑）送他出關，得一百兩，送他上鬼門關得一千兩……你要老娘怎麼做啊？
+clone002n_jhy007=老闆娘莫不是想......
+clone002n_jhy008=哼！小子心知肚明，實話告訴你，老娘已經通知小黑、來順和三子馬上去他房中堵住去路。哼，人在我這，貨就是我的！
+clone002n_jhy009=老闆娘既然不藏著掖著...好！我便奉陪到底
+clone002n_jhy010=剛才司馬回風這廝死之前竟然說他是馬賊的人，看來賀彪這狗東西也看上了沈義山的財物，你速速去找鐵弼，馬賊怕是就要來了！
+clone002n_jhy011=好！我這就去
+clone002n_jhy012=老闆娘可知道他們到底為了什麼而來，真的是那沈義山的財物？
+clone002n_jhy013=馬賊那群賊人平時都不敢動老娘店裡的主意，今天居然敢大白天搶劫，原來是東廠這群閹賊給他們撐腰，連老娘的店也敢搶！我操他爹，老娘今天跟他們拼了。抄傢伙，老娘今天就宰了這賈朝陸小江這兩個東廠的閹狗！
+clone002n_jhy014=東廠鷹犬？老闆娘稍安勿躁，他若不犯我尚且給他個面子，今日我卻要給他們好看！
+clone002n_jhy015=看來曹正卿那個閹賊也不遠了！你可知周志安大俠就在此間？我金懷玉雖是一介女流，卻也對他救援楊大人遺孤一事深感欽佩。快去通知他一起從密道出關，快去！密道就在廚房的地下室裡。別再耽誤了，那幫閹賊怕是就要殺過來了
+clone002n_jhy016=實不相瞞，在下並不喜歡你那些下屬，但是他們確實都是好漢子！
+clone002n_jhy019=世上再沒有這龍門客棧，也再無我金懷玉，金懷玉已經同這客棧一起葬身火海！
+clone002n_sys_001=會見老闆娘
+clone002n_sys_001a=<font color="#ffff00">前往（602,311）找龍門客棧老闆娘金懷玉聊聊</font>
+clone002n_sys_002=接沈義山
+clone002n_sys_002a=<font color="#ffff00">前往斫鎮（197,500）尋找商人沈義山，可通過門口車伕程鑒（582，336）或者客棧周圍馬匹前往</font>
+clone002n_sys_003=召集護衛
+clone002n_sys_003a=<font color="#ffff00">通知驛棧內董遒（213,505）和二樓的司馬回風（200,487）來護送沈義山出發，找齊後回來告訴沈義山</font>
+clone002n_sys_004=說服董遒
+clone002n_sys_005=說服司馬回風
+clone002n_sys_006=幫助司馬回風
+clone002n_sys_006a=<font color="#ffff00">幫司馬回風將信件埋在這斫鎮東北角(26.465)的一塊無名墓碑下</font>
+clone002n_sys_007=鎮門封鎖
+clone002n_sys_007a=<font color="#ffff00">沈義山已前往鎮門口（170,557），發現居然有官兵把守不讓外出，找他問問有沒有出鎮之法！</font>
+clone002n_sys_008=擊敗朱鑒之
+clone002n_sys_009=取餡
+clone002n_sys_009a=<font color="#ffff00">找刁不二（624,274）要一些包子餡</font>
+clone002n_sys_010=前往客棧
+clone002n_sys_010a=<font color="#ffff00">對話沈義山，大家動身前往客棧，回報老闆娘你已經完成了任務</font>
+clone002n_sys_011=獲取鮮肉
+clone002n_sys_011a=<font color="#ffff00">從刁不二周圍案板上幫他剁些肉</font>
+clone002n_sys_012=送肉
+clone002n_sys_012a=<font color="#ffff00">將這些肉給廚房的來順（626,320）送去</font>
+clone002n_sys_013=霍都山前來
+clone002n_sys_013a=<font color="#ffff00">霍督山突然帶兵來到了客棧門前，似乎來者不善，前往客棧二樓找金懷玉（623,318）商量對策</font>
+clone002n_sys_014=索要財物
+clone002n_sys_014a=<font color="#ffff00">前往客棧二樓找沈義山（625，302）要財物打發霍督山</font>
+clone002n_sys_015=打發霍都山
+clone002n_sys_015a=<font color="#ffff00">快去客棧二樓找到財物雕花琉璃盞（616,279）去打發客棧門口的霍都山（565,321）</font>
+clone002n_sys_016=回報金懷玉
+clone002n_sys_016a=<font color="#ffff00">前往客棧二樓找金懷玉（623,318），她貌似有啥安排</font>
+clone002n_sys_017=打劫沈義山
+clone002n_sys_017a=<font color="#ffff00">幫手都已經到齊，去二樓沈義山房間（625，302）告知來順可以動手了，協助金懷玉一夥打劫沈義山奪得貨物</font>
+clone002n_sys_018=詢問金懷玉
+clone002n_sys_018a=<font color="#ffff00">前往客棧二樓找金懷玉（623,318），詢問看看還有什麼事</font>
+clone002n_sys_019=與鐵弼交談
+clone002n_sys_019a=<font color="#ffff00">前往客棧外找鐵弼（576,362），看看他有什麼退敵的辦法</font>
+clone002n_sys_020=擊退賀彪
+clone002n_sys_020a=<font color="#ffff00">事情眼見無法善了，今日便替天行道，擊敗這伙兒馬賊</font>
+clone002n_sys_021=詢問金懷玉
+clone002n_sys_021a=<font color="#ffff00">前往二樓找金懷玉（623,318）詢問馬賊為何此時前來圍困客棧</font>
+clone002n_sys_022=擊敗東廠鷹犬
+clone002n_sys_022a=<font color="#ffff00">東廠鷹犬賈朝、陸小江就在客棧二樓（588,279）！擊敗他們</font>
+clone002n_sys_023=回報金懷玉
+clone002n_sys_023a=<font color="#ffff00">前往客棧二樓找金懷玉（623,318），擊殺了東廠的人，詢問下一步怎麼辦</font>
+clone002n_sys_024=通報周志安
+clone002n_sys_024a=<font color="#ffff00">前往客棧二樓（577.285）通知周志安，邱無言跟隨金懷玉一起通過密道前往關外</font>
+clone002n_sys_025=密道逃生
+clone002n_sys_025a=<font color="#ffff00">密道入口的機關（622,310）就在廚房，仔細找找，眾人商議在密道出口匯合！</font>
+clone002n_sys_026=擊敗曹正卿
+clone002n_sys_027=尋找金懷玉
+clone002n_sys_027a=<font color="#ffff00">通過密道（1325,103）回到客棧，在客棧外（573,371）尋找金懷玉看看還有什麼事</font>
+clone002n_sys_028=打破酒罈
+clone002n_sys_028a=<font color="#ffff00">打破客棧外牆邊的10個酒罈</font>
+clone002n_sys_029=點燃客棧
+clone002n_sys_029a=<font color="#ffff00">酒罈子都打碎了，靠近破碎的酒罈，一把火燒了它們（如果火把遺失，請找要求燒燬客棧之人重新領取）</font>
+clone002n_sys_030=詢問周志安
+clone002n_sys_030a=<font color="#ffff00">曹正卿已被剷除，詢問周志安有何打算</font>
+clone002n_shenys001=好說，我這就去
+clone002n_shenys002=沈老闆，我們這就出發吧
+clone002n_shenys003=這樣吧…你到附近的酒館裡給我買幾瓶好酒，孝敬幾位軍爺，希望可以出鎮。哎，這年頭，幹什麼都要使銀子
+clone002n_shenys004=<font color="#ffff00">聽從沈義山吩咐，前往酒鋪尋找酒鋪老闆碧露（133.535）購買一些酒來</font>
+clone002n_smhf001=我還急著向金老闆交差呢，便幫你這一次
+clone002n_smhf002=<font color="#ffff00">信件已經埋好，掙脫官兵的追擊，回去通知司馬回風！</font>
+Transclone002n001=我在這裡生活很多年了，輕車熟路，要去哪兒你說
+Transclone002n002=我要前往斫鎮
+Transclone002n003=我要前往馬賊營地
+Transclone002n004=我要前往龍門關
+Transclone002n005=我要前往龍門客棧
+Transclone002n006=我要離開禁地回到塞外大漠
+clone002n_bl001=姑娘好膽色！我們這便走吧
+clone002n_bl002=<font color="#ffff00">碧露蒙汗酒灌醉了鎮口守衛，但卻被朱鑒之發現，沈義山等人眼見不能善了，只得考慮殺出斫鎮！</font>
+clone002n_dbe001=你就是老闆娘找來的幫手？我跟你說十香肉果然名不虛傳，這麼多的肉，一天就賣完了！你再去幫我多剁些肉來
+clone002n_ls002=好，肉餡我收到了。最近不知道刮的什麼風，這一下子來了這麼多客人，我這邊的事忙完了。你快去看看還有什麼事兒可以做的！
+clone002n_ls001=你小子有膽量，我們幾個都準備好了，你可別拖了老子的後腿！
+clone002n_ls003=哼！說的太多了，我們快動手吧
+clone002n_hds001=<font color="#ffff00">找到了雕花琉璃盞，快去打發走一樓的霍都山（565,321）吧！</font>
+clone002n_tb001=我就是鐵弼！賀彪心狠手辣，貪婪無度，胸中毫無大志，更無家國，我已與他勢不兩立！
+clone002n_tb002=如今他帶著人馬打來，可有什麼辦法？
+clone002n_tb003=哼，我今日就出去會他一會，倒要看看他賀彪有何能耐。
+clone002n_tb004=鐵大哥果然爽快，正合我意，我們走！
+clone002n_hb001=看不出你們這幫狗崽子有兩下子，老子的刀也有些時日不飲血了，哈哈哈哈！
+clone002n_zha001=朋友，你應該不是客棧中人，表情極為不自然，看起來知道我等的底細，莫非是閹狗的人！
+clone002n_zha002=閣下可是周志安周大俠？在下替金老闆給你傳個話，東廠閹狗就要殺過來了，還請快從密道逃生！
+clone002n_zha003=我確是周志安！你的話我如何可以相信？
+clone002n_zha004=我已除掉了東廠惡賊賈朝陸小江，大俠若是不信自可去隔壁看看，東廠怕是盯上你們很久了！
+clone002n_zha005=<font color="#ffff00">你發現了密道入口，快快過去和金懷玉周志安等人會合吧！</font>
+clone002n_zha006=多謝諸位相助，大恩大德我周某此生難報！楊大人在天有靈也該得到了安慰
+clone002n_zha007=周大俠不要客氣，鏟奸除惡乃我輩必為之事！卻不知大俠有何打算？
+clone002n_zha008=我必須將楊大人的兩位孩兒送到安全的地方去，後會有期！來日，江湖再聚！
+clone002n_zha009=大俠捨身忘己，實在高義！來日我們定要喝幾杯，後會有期！
+GotoDoorClone002n_001=密道入口
+GotoDoorClone002n_002=回到客棧
+DoorNpcclone002002x=禁地出口
+CloneDoorNpc00028x=龍門客棧（江湖禁地）
+clone002n_mzjx001=<font color="#FF00FF">馬賊奸細（577,231）悄悄地對你說：「快到我這來，我有筆大買賣要和你商量！」</font>
+clone002n_mzjx002=哼！說的輕巧，你的鬼話我可不能全信
+clone002n_mzjx003=照我說啊，鐵弼這個人太不仗義了，雖然說他和賀彪之間積怨已深，但也不能趁賀彪不注意，將他關起來吧，這算哪門子的兄弟啊！咱們就打開天窗說亮話吧，我想讓你趁現在鐵弼和小勤不在，去馬賊山寨將賀彪給救出來，賀彪現在被關押在他的房間裡。牢房的鑰匙應該在門口的兩個看守身上，弄死他們獲 得鑰匙就把賀彪救出來。我這邊可有筆大買賣，到時候少不了
+clone002n_mzjx004=總算肯說清楚了？我倒也不怕你們，且去看看能撈到多少好處！
+clone002n_mzjx005=<font color="#ffff00">前往馬賊山寨解救賀彪，可通過客棧門口車伕程鑒（582，336）或者客棧周圍馬匹前往</font>
+clone002n_mzjx006=哦？還有這等事，哈哈哈，賀老大果然深謀遠慮，好了，這裡沒你的事了，去找那司馬回風問問情況，事成之後，少不了你的好處。還有，這件事你知我知，可別傳到別人耳朵裡面，否則到時候可別怪我不講情面！
+clone002n_mzjx007=我便去看看這司馬回風何等人物
+clone002n_sys_031=解救賀彪
+clone002n_sys_031a=<font color="#ffff00">擊敗賀彪房間門口的兩個看守（376,926），獲得他們身上的鑰匙救出賀彪</font>
+clone002n_sys_032=解救賀彪手下
+clone002n_sys_032a=<font color="#ffff00">擊敗鐵弼三名親信鐵刃（398.959），鐵環（382,886），鐵鋒（340,868），便可獲得關押虞大三人牢房鑰匙從而解救三人</font>
+clone002n_sys_033=擊敗鐵刃
+clone002n_sys_033a=擊敗鐵刃（398.959）
+clone002n_sys_034=擊敗鐵環
+clone002n_sys_034a=擊敗鐵環（382,886）
+clone002n_sys_035=擊敗鐵鋒
+clone002n_sys_035a=擊敗鐵鋒（340,868）
+clone002n_sys_036=議事廳見賀彪
+clone002n_sys_036a=<font color="#ffff00">虞大，沈二，陶三已被解救，速去議事大廳（322,951）和賀彪回合</font>
+clone002n_sys_037=再見內應
+clone002n_sys_037a=<font color="#ffff00">馬賊山寨已被整肅，盡快回到龍門客棧再次會見馬賊奸細（577,231）並向他傳話</font>
+clone002n_sys_038=找到司馬回風
+clone002n_sys_038a=<font color="#ffff00">司馬回風（559,310）就在客棧一樓，此人是賀彪的同夥，找他問問下一步怎麼辦</font>
+clone002n_sys_039=摸底賈朝
+clone002n_sys_039a=他們（588,279）似乎是朝廷的人，探探他們的口風
+clone002n_sys_040=摸底周志安
+clone002n_sys_040a=這幫江湖中人（580,284）看起來不是易與之輩，偏偏帶著兩個娃娃，很是蹊蹺，談談他們的口風
+clone002n_sys_041=回報司馬回風
+clone002n_sys_041a=<font color="#ffff00">回報司馬回風（557,358），告知探底的情況</font>
+clone002n_sys_042=擊敗鐵弼小勤
+clone002n_sys_042a=<font color="#ffff00">鐵弼和小勤出現在了客棧門外，不要放過他們！</font>
+clone002n_sys_043=擊敗碧露
+clone002n_sys_043a=<font color="#ffff00">鐵弼，小勤已經被擊殺，碧露居然衝了出來要報血海深仇，協助賀彪擊殺碧露</font>
+clone002n_sys_044=對話賀彪
+clone002n_sys_044a=<font color="#ffff00">碧露已被朱鑒之救走，但是賀彪（573,372）警覺差點壞了常笑癡的大事，又有事要吩咐你</font>
+clone002n_sys_045=擊敗客棧諸人
+clone002n_sys_045a=<font color="#ffff00">金懷玉率領著客棧夥計擋在了客棧大門前，擊敗他們</font>
+clone002n_sys_046=擊敗周志安
+clone002n_sys_046a=<font color="#ffff00">礙事的客棧一夥人總算解決了，上二樓解決周志安（580,284）一行人吧</font>
+clone002n_sys_047=對話賀彪
+clone002n_sys_047a=<font color="#ffff00">周志安已死，快去將消息告訴客棧外的賀彪（573,372）</font>
+clone002n_sys_048=擊敗董遒
+clone002n_sys_048a=擊敗沈義山的護衛董遒（622,299）
+clone002n_sys_049=擊敗沈義山
+clone002n_sys_049a=擊敗了沈義山（626,301），套出他財寶的下落！
+clone002n_sys_050=對話賀彪
+clone002n_sys_050a=<font color="#ffff00">沈義山已死，快去將消息告訴客棧外的賀彪（573,372）</font>
+clone002n_sys_051=金懷玉的錢箱
+clone002n_sys_051a=找到客棧一樓金懷玉的錢箱（606,312）
+clone002n_sys_052=沈義山的寶貝
+clone002n_sys_052a=找到客棧屋頂沈義山的寶貝（623,256）
+clone002n_sys_053=對話賀彪
+clone002n_sys_053a=<font color="#ffff00">寶貝都到手了，快去將消息告訴客棧外的賀彪（573,372）</font>
+clone002n_sys_054=對話賀彪
+clone002n_sys_054a=<font color="#ffff00">一把火燒掉了客棧，快去將消息告訴客棧外的賀彪（573,372）</font>
+clone002n_sys_055=向常笑癡邀功
+clone002n_sys_055a=<font color="#ffff00">將周志安首級送去龍門關交給常笑癡（965,601）。楊宇謙的子女已先派人押送至了龍門關</font>
+clone002n_sys_056=回見賀彪
+clone002n_sys_056a=<font color="#ffff00">見過了常笑癡，快回山寨分贓吧，賀彪已經先一步去了後山的金沙洞（287,1167），寶貝都在那裡！</font>
+clone002n_sys_057=奪得財寶
+clone002n_sys_057a=<font color="#ffff00">金沙洞內，賀彪（289,1167）背叛了眾人要獨吞財物，合作到此為止了，送他上路！</font>
+clone002n_hb002=他娘的，這幫龜孫子，老子的人全讓他們給關在後山的幾個牢籠裡面了。而牢籠的鑰匙都在鐵弼的三個當家的手上。快幫老子殺了這幫龜孫子，把老子的人都救出來。
+clone002n_hb003=哈哈…痛快，真他娘的痛快。對了，還有件大事老子差點給忘了，你得幫老子再跑趟龍門客棧，告訴馬賊奸細，就說讓他留意一個叫司馬回風的人，他也是我們的人，我讓他隱藏在沈義山的商隊中。告訴司馬回風讓他再拖延片刻，老子馬上就來！
+clone002n_hb004=恭喜賀老大坐穩大當家的交椅！好說好說，我這就去
+clone002n_hb005=賀老大，我們這就行動？會不會莽撞了點，客棧裡還有不少不同來路的人
+clone002n_hb006=糟了，老子高興過頭了，差點壞了常笑癡的大事，東廠可都是吃人不吐骨頭的主，老子要是落在他們手裡，會比死還要難看！快去給我殺了周志安，取他狗頭，還有楊宇謙那兩個孽種也要一併找到！
+clone002n_hb007=婆娘，這塞外是有人敬你怕你，可不包括我賀彪！
+clone002n_hb008=事兒都辦完了，該是時候找沈義山了吧
+clone002n_hb009=哎，司馬回風兄弟早就回到沈義山身邊探視了，久久沒有消息，一定是被這畜生給害死了。這畜生，我要讓他給我的司馬兄弟陪葬。去把那個叫董遒和沈義山給老子幹掉，老子已經將這客棧團團圍住，一隻蒼蠅它也別想飛出去。
+clone002n_hb010=賀老大，這少個人就多一份銀子，我看你也別傷心了，等我們的好消息吧，哈哈哈哈！
+clone002n_hb011=<font color="#ffff00">沈義山一行怕是已經識破了司馬回風的身份並做掉了他，速速前去客棧二樓（626，301），別讓到手的財寶丟了！</font>
+clone002n_hb012=這該辦的事情都辦了，該殺的人都殺了，接下來得辦正事了，別忘了我們是來幹什麼的了。去把沈義山的寶貝給找到，另外金懷玉這個黑店這幾年也撈了不少的銀子，順便把金懷玉的錢箱也給找到，哈哈，這趟買賣真的沒白幹。
+clone002n_hb013=嘿嘿，客棧裡都是咱的人了，這事兒好辦，我這就去
+clone002n_hb014=<font color="#ffff00">進客棧內把金懷玉藏在錢箱（606,312）裡的銀子，沈義山的藏在屋頂的寶貝（623,256）給賀彪給找到</font>
+clone002n_hb016=確該如此，不能留下什麼蛛絲馬跡！
+clone002n_hb017=哈哈哈哈哈，爽快，爽快！老子現在心情好得很，東廠交給咱的事也算完了，把周志安的人頭和小孩交給常笑癡，剩下的事我們就不必多管了。記得把賞錢給我拿回來，常笑癡說過完事後有重賞的。
+clone002n_hb018=既然有賞，這事好說
+clone002n_hb019=可惜了......你們不是我賀彪的人，我憑什麼要把吃到嘴裡的肉再吐出來一半給你們，哼哼，真是異想天開。現如今，只有死人才不會惦記我的銀子，怪只怪你們太天真，連馬賊的話都信，廢話還是不說了，我這就送你們上路。
+clone002n_hb020=哈哈哈哈哈哈哈！
+clone002n_hb021=<font color="#ffff00">擊敗看守奪取了鑰匙，房門被你打開了，快找賀彪聊聊！</font>
+clone002n_smhf003=（小聲的）賀彪？你且說說這賀彪遇到了什麼事情自己不能前來見我
+clone002n_smhf004=（小聲的）山寨遭到朝廷派兵圍剿，剛剛擊退
+clone002n_smhf005=（小聲的）路上遇到點麻煩，剛剛解決
+clone002n_smhf006=（小聲的）路上順手做了一筆買賣，耽擱了一會
+clone002n_smhf007=（小聲的）賀彪被鐵弼囚禁，剛剛脫險
+clone002n_smhf008=<font color="#ffff00">你的回答是錯誤的，再和司馬回風對話試試</font>
+clone002n_smhf009=（小聲的）原來是自家兄弟剛才失禮啦。山寨那邊賀彪已經拿下來了，我這邊就可以安心盯著沈義山這只肥羊了，跟我出門，這裡人多眼雜，不好說話
+clone002n_smhf010=好
+clone002n_smhf011=<font color="#ffff00">司馬回風已經小心的避開耳目來到了客棧門口（557,358），小心他人耳目，快跟上去！</font>
+clone002n_smhf012=客棧裡一下子多了這麼多生面孔，這些人來頭都不簡單，有幾個是官差，剩下的幾個江湖人士身手不弱。去摸摸底，看看是否有人急著出關，別讓他們壞了我們的好事！
+clone002n_smhf013=<font color="#ffff00">前往客棧二樓，對賈朝（588,279）和周志安（580,284）兩撥人好好摸摸底，然後回報門口的司馬回風</font>
+clone002n_smhf014=這周志安要出關？哼哼，今天算他們倒霉，遇上我們了，等待會賀彪大哥殺過來，管他三七二十一，一個也別放過
+clone002n_smhf015=事成之後若有後患，可別算在我頭上
+clone002n_smhf016=這沈義山也覺得今日這客棧有來路的人太多急著出關，我快要拖不住了，快給賀彪發信號，讓他快點帶人包圍客棧，晚了就來不及了！我在這盯著，你把這枚響箭放出去！
+clone002n_smhf017=<font color="#ffff00">發射司馬回風給予的響箭，賀彪即刻趕到！</font>
+clone002n_jhy020=狗賊！老娘的客棧你也趕來撒野，你他娘是吃了豹子膽啦？今天既然來了，你就別想回去了！
+clone002n_shenys005=快......快擋住他們！董遒！
+clone002n_shenys006=我管你們是誰,都別想動我的東西，我還不能死！！！
+clone002n_dq001=事情怎麼會發展成這樣......
+clonewarning_116278=需要九陰志事件「天心取米」完成
+clonewarning_116279=需要九陰志事件「魂碎九重」完成
+clonewarning_116280=需要九陰志事件「決戰之前」完成
+clonewarning_116281=需要九陰志事件「洛陽蠱劫」完成
+clonewarning_116282=需要九陰志事件「隱世九派」完成
+clonewarning_116283=需要九陰志事件「魔蹤乍現」完成
+clonewarning_116284=本禁地需要實力達到「初窺門徑」方可進入！
+clonewarning_116285=本禁地需要實力達到「融會貫通」方可進入！
+clonewarning_116286=本禁地需要實力達到「出類拔萃」方可進入！
+clonewarning_116287=本禁地需要實力達到「神乎其技」方可進入！
+clonewarning_116288=本禁地需要實力達到「出神入化」方可進入！
+clonewarning_116289=本禁地需要實力達到「登峰造極」方可進入！
+clonewarning_116290=本禁地需要實力達到「無與倫比」方可進入！
+clonewarning_116291=本禁地需要實力達到「所向披靡」方可進入！
+clonewarning_116292=本禁地需要實力達到「神功蓋世」方可進入！
+clonewarning_116293=本禁地需要實力達到「驚世駭俗」方可進入！
+clonewarning_116294=本禁地需要實力達到「撼天動地」方可進入！
+clonewarning_116295=本禁地需要實力達到「震古爍今」方可進入！
+clonewarning_116296=本禁地需要實力達到「威鎮寰宇」方可進入！
+clonewarning_116297=本禁地需要實力達到「空前絕後」方可進入！
+desc_switch_911=2017新暮色之村禁地開關
+desc_switch_912=2017新青雲堡禁地開關
+desc_switch_913=2017新鳳凰山莊禁地開關
+desc_switch_914=2017新雁門關禁地開關
+desc_switch_915=2017新雁門關叛軍線禁地開關
+desc_switch_916=2017新快活島禁地開關
+desc_switch_917=2017新金陵變禁地開關
+sys_ggw_01=幫會戰期間無法使用幫會落腳點
+sys_ggw_02=幫會戰期間無法使用風水落腳點
+sys_ggw_03=你所在的幫會本周已領取駐地收益
+sys_ggw_04=駐地戰期間不能禪讓
+sys_ggw_05=參加駐地戰不能使用求助令
+sys_ggw_06=您正在參加駐地戰不能前往此地
+sys_ggw_07=只有幫主可以買
+sys_ggw_08=只有準備期可以購買買幫會物資
+sys_ggw_09=幫會資金不足
+sys_ggw_10=購買已達上限不能購買
+sys_ggw_11=購買幫會戰物資成功
+sys_ggw_12=群雄逐鹿，幫會駐地戰即將在{@0:time}分鐘後開啟，請有志參與角逐的幫會及幫眾做好戰鬥準備。
+sys_ggw_13=幫會駐地戰進入準備期，請有志於參與角逐的幫會及幫眾做好戰鬥準備，
+sys_ggw_14=幫會駐地戰正式開啟，玩家可以進入駐地，進行爭奪，摧毀敵方王旗，樹立己方王旗
+sys_ggw_15=幫會駐地戰已經開啟，本幫正在參與此次駐地戰，請幫會成員前往戰鬥區域為榮耀而戰
+sys_ggw_16=您沒有幫會，無法參加幫會戰
+sys_ggw_17=您的幫會沒有王旗，無法參加幫會戰
+sys_ggw_18=非幫會戰戰鬥期內，無法進入戰鬥區域
+sys_ggw_19=幫會駐地戰戰鬥時間結束。勝負已分！來日再戰！
+sys_ggw_20={@0:guild}成功攻佔{@1:domain}地盤 佔領了此地盤
+sys_ggw_21=領取駐地收益成功
+sys_ggw_22=開關未開啟
+sys_ggw_23=您不是江湖明俊，無法參加幫會戰
+sys_ggw_24=非正式幫會不允許參與駐地戰。
+sys_gsp_001=未達到建造王旗的條件，無法建造王旗
+sys_gsp_002=已有他人建造，請稍後再試
+sys_gsp_003=幫會沒有剩餘王旗，無法建造
+sys_gsp_004=未達到建造營地的條件，無法建造營地
+sys_gsp_005=已有他人建造，請稍後再試
+sys_gsp_006=幫會沒有剩餘營地，無法建造
+sys_gsp_007={@0:name}已被摧毀
+sys_gsp_008={@0:name}已被{@1:name}摧毀
+sys_gsp_009=請選擇一個營地進行復活
+sys_gsp_010=王旗佔領方不能建造營地
+sys_gsp_011=設置旗幟的字成功
+sys_gsp_012=不滿足設置旗幟字的條件
+sys_gsp_013=設置的字必須為幫會名中的一個
+sys_gsp_014=請選擇您要設置的字
+sys_gsp_015=消耗營地材料，開始營地建設。
+sys_gsp_016=成功開始建造王旗
+sys_gsp_017=您沒有權限建造王旗
+sys_gsp_018=您沒有權限建造營地
+sys_gsp_hp_flag_100=您幫會在 {@0:name} 的王旗正在被攻擊。
+sys_gsp_hp_flag_50=您幫會在 {@0:name} 的王旗血量已經少於一半，情勢危急。
+sys_gsp_hp_flag_0=您幫會在 {@0:name} 的王旗已經被摧毀。
+sys_gsp_hp_relive_100=您幫會在 {@0:name} 的龍虎柱正在被攻擊。
+sys_gsp_hp_relive_50=您幫會在 {@0:name} 的龍虎柱血量已經少於一半，情勢危急。
+sys_gsp_hp_relive_0=您幫會在 {@0:name} 的龍虎柱已經被摧毀。
+sys_jysg_xthh_004=赤陽子正在修煉九陽絕學最後關頭，前去攻擊赤陽子，阻止其修煉九陽絕學。
+sjy_school_met_tips=師門大會
+sys_time_sjy_jinlsmdh01=報名階段
+sys_time_sjy_jinlsmdh02=淘汰賽準備
+sys_time_sjy_jinlsmdh03=淘汰賽階段
+sys_time_sjy_jinlsmdh04=淘汰賽結束
+sys_time_sjy_jinlsmdh05=決賽準備階段
+sys_time_sjy_jinlsmdh06=決賽階段
+sys_time_sjy_jinlsmdh07=決賽結束
+xtts_sjy_sndh_001=報名階段結束，即將進入神機營師門大會淘汰賽準備階段，請各位俠士做好準備。
+xtts_sjy_sndh_002=淘汰賽結束，即將進入神機營師門大會決賽準備階段，請各位俠士做好準備。
+xtts_sjy_sndh_003=決賽結束，即將離開場景。
+tips_time_sjy_jinlsmdh01=神機營師門大會報名階段，可前往神機營（-7.5 58.3）處找史小昭報名參加師門大會，時間有限，請及時報名。
+tips_time_sjy_jinlsmdh02=神機營師門大會淘汰賽準備階段，請勿離開神機營場景，師門大會即將開始。
+tips_time_sjy_jinlsmdh03=神機營師門大會淘汰賽階段，擊敗你周圍的目標，擊殺榜上的前4名方可進入決賽。
+tips_time_sjy_jinlsmdh04=神機營師門大會淘汰賽結束階段，可點開右上角小地圖左邊按鈕查看自己的擊殺排行榜。
+tips_time_sjy_jinlsmdh05=神機營師門大會決賽準備階段，決賽即將開始，請做好準備。
+tips_time_sjy_jinlsmdh06=神機營師門大會決賽階段，擊敗你周圍的目標，在決賽結束後決賽擊殺榜中的前7為可分別獲得對應的門派職位和郵件獎勵，第8名只能獲得郵件獎勵。
+tips_time_sjy_jinlsmdh07=神機營師門大會決賽結束，即將被傳送出去。
+task_newmp_sjy_sm_001=<font color="#FF3030">每週日晚上21:00</font>，神機營的俠士可在我這裡報名參加神機營師門大會。
+dh_sjy_smdh_001=神機營師門大會報名
+dh_sjy_smdh_002=<font color="#FF3030">每週日晚上21:00</font>，神機營的俠士可在我這裡報名參加神機營師門大會，最大報名人數48人。活動分為淘汰賽和決賽；<font color="#FF3030">1.淘汰賽階段：</font>活動開啟後成功報名的俠士將被傳送到4個區域內，進行互相搏殺，盡量保證自己有擊殺數方可上榜晉級決賽。在淘汰賽結束前，每塊區域內擊殺人數最多的榜上<font color="#FF3030">前4名</font>方可晉級決賽。<font color="#FF3030">2.決賽階段：</font>淘汰賽結束後進入決賽準備前階段，決賽開始後，所有淘汰賽晉級的俠士被傳送到中央決賽區域進行搏殺，在決賽結束後，<font color="#FF3030">決賽擊殺榜上前7名俠士</font>可分別獲得神機營門派職位和郵件獎勵，第8名俠士只能獲得郵件獎勵，盡量獲得擊殺數上榜方可有機會在最後結束獲得門派職位身份。報名條件：需為神機營俠士且不存在門派懲罰狀態,未參與其它活動方可報名參加神機營師門大會。
+dh_sjy_smdh_003=我要報名參加神機營師門大會
+title_shenji_smdh=神機營師門大會獎勵
+content_shenji_smdh=恭喜俠士在神機營師門大會中表現突出，榜上有名，特此獎勵。
+desc_switch_954=神機營師門大會開關
+tips_sjy_school_met_tips=師門大會
+sys_sjyxcyx_guj008=校場演習已經開啟，請合力將此陣破除！
+sys_sjyxcyx_guj009=竟然已將此陣破除，那麼就由老夫來領教下！
+trigger_sjyrcrw_0_1=<font color="#00FF00">將散落在各地的三個糧草袋（-244 -66）（-270 -91）（-271 -64）搬運至堆放點（-245 -82）</font>
+trigger_sjyrcrw_0_2=<font color="#00FF00">成功搬運一袋糧草至堆放點</font>
+trigger_sjyrcrw_0_3=<font color="#00FF00">糧草袋已都搬運至堆放點，快去覆命吧</font>
+trigger_sjyrcrw_1_1=<font color="#00FF00">擊敗前來搶奪軍資的外域賊人</font>
+trigger_sjyrcrw_1_2=<font color="#00FF00">已擊敗來犯外域賊人，軍資順利運達神機營，快去覆命吧</font>
+sys_yyhd_ddjj=韃靼將軍和瓦剌勇士被神機營陸少鈞帶人追殺後逃到了燕京（{@0:x}，{@1:z}），請速速前往擊殺，可獲得豐厚獎勵
+sys_yyhd_qmlj=恭喜你們擊殺了韃靼將軍，所有江湖明俊的俠士皆可在22點05分到23點55分之間到燕京（{@0:x}，{@1:z}）找輜重營士兵領取一份獎勵
+menu_yyhd_qmlj_201712=韃靼將軍已經被擊殺
+menu_yyhd_qmlj_201712_01=既然如此，你可以在我這邊領取一份獎勵
+title_yyhd_qmlj_201712=領取獎勵
+desc_switch_959=201712月BOSS全民贏嘉獎
+sys_sjy_njxlts_001=神秘刺客已被擊殺，搜搜看她們身上有沒有腰牌
+19973=戰鬥中或重傷狀態下，無法繼續運鏢。
+sys_gsp_019=幫會戰傳送冷卻期間無法使用傳送功能
+sys_gsp_020=幫會戰中無法參與此玩法
+sys_ggw_25=不在幫會戰期間，無法使用幫會傳送
+sys_ggw_26=幫會傳送冷卻中，無法使用幫會傳送
+sys_ggw_27=您當前未參加幫會戰，無法使用幫會傳送
+sys_ggw_28=您當前處於活動中，無法使用幫會傳送
+sys_give_item_001=獲得{@0:config}*{@1:count}
+sys_give_item_002=背包已滿，道具通過郵件發放
+mail_source_drop_limit=系統郵件
+mail_title_drop_limit=獎勵物品
+mail_content_drop_limit=少俠若想即時獲得獎勵物品可要記得給包裹留出空位哦！
+15916=<font color="#FF0000">{@0:Name}</font>帶領的隊伍通關了禁地<font color="#FF0000">{@1:Name}</font>，通關得分：<font color="#ffff00">{@2:Name}</font>，獲得了大量<font color="#ffff00">金錢</font>和<font color="#ffff00">歷練</font>獎勵！
+15917=<font color="#FF0000">{@0:Name}</font>帶領的隊伍通關了禁地<font color="#FF0000">{@1:Name}</font>，通關得分：<font color="#ffff00">{@2:Name}</font>，獲得了大量<font color="#ffff00">金錢</font>和<font color="#ffff00">歷練</font>獎勵！
+15918=<font color="#FF0000">{@0:Name}</font>帶領的隊伍通關了禁地<font color="#FF0000">{@1:Name}</font>，通關得分：<font color="#ffff00">{@2:Name}</font>，獲得了大量<font color="#ffff00">金錢</font>和<font color="#ffff00">歷練</font>獎勵！
+15919=<font color="#FF0000">{@0:Name}</font>帶領的隊伍通關了禁地<font color="#FF0000">{@1:Name}</font>，通關得分：<font color="#ffff00">{@2:Name}</font>，刷新了禁地排行榜的記錄，獲得了大量<font color="#ffff00">金錢</font>和<font color="#ffff00">歷練</font>獎勵！
+15920=<font color="#FF0000">{@0:Name}</font>帶領的隊伍通關了禁地<font color="#FF0000">{@1:Name}</font>，通關得分：<font color="#ffff00">{@2:Name}</font>，刷新了禁地排行榜的記錄，獲得了大量<font color="#ffff00">金錢</font>和<font color="#ffff00">歷練</font>獎勵！
+15921=<font color="#FF0000">{@0:Name}</font>帶領的隊伍通關了禁地<font color="#FF0000">{@1:Name}</font>，通關得分：<font color="#ffff00">{@2:Name}</font>，刷新了禁地排行榜的記錄，獲得了大量<font color="#ffff00">金錢</font>和<font color="#ffff00">歷練</font>獎勵！
+16103=救援村民:
+19452=該區域還未開放，不能進入!
+failed_qianbuzu=『{@0:name}』不足不能轉換
+successed_zhuanhuan=恭喜您！轉換成功！消耗『{@0:name}』{@1:ToInt}個
+15936=<font color="#FF0000">{@0:Name}</font>帶領的隊伍通關了禁地<font color="#FF0000">{@1:Name}</font>，通關得分：<font color="#ffff00">{@2:Name}</font>，獲得了大量<font color="#ffff00">金錢</font>和<font color="#ffff00">歷練</font>獎勵！
+jyz_event_7_5_over=「隱世九派」事件完成。
+sys_nlhh_005=需要<font color="#ff0000">九陰志事件「隱世九派」</font>完成後，方能進入念蘿花會！
+scene_clone035=晴瑤宮
+sys_yearboss_apply=洛陽有凶獸肆虐，有意為民除害的大俠們請到洛陽(525,870)尋找「趙二虎」一探究竟
+sys_yearboss_begin=年獸已在活動場景（523 834）出現了，請各位大俠速速擊敗它
+sys_yearboss_join_failed=參加條件:不處於戰鬥狀態的江湖名俊玩家
+clone002n_jhy017=周志安曾告訴我，這龍門客棧，就像這沙漠一樣無情。他說的對！讓我們一把火燒了它，離開這個無情無義的地方！龍門客棧，讓我再看你最後一眼……
+clone002n_jhy018=………………老闆娘…………
+clone002n_hb015=他媽的，該殺的人都殺了，寶貝也到手了，這破地方還真沒什麼好事！老子討厭這個地方，一把火給老子把這客棧燒成灰燼！
+timelimit_JBSX_001=祭拜聖賢
+desc_worldboss_hql_new_001=各位大俠請注意，<font color="#f9fc00">火麒麟</font>已出現在<font color="#f9fc00">洛陽</font>！
+desc_worldboss_notice_new_003=絕頂高手<font color="#f9fc00">火麒麟</font>即將在<font color="#f9fc00">{@0:分鐘}</font>分鐘後現身，請各位大俠做好準備！
+sys_act_faculty_limit=使用銀子演武修為轉化已達上限
+3457003=忍辱負重潛伏於曹正卿身旁，伺機而動，給其致命一擊！
+sys_jshuq_xjqrw_001=江湖人士
+sys_jshuq_xjqrw_002=天星幫幫眾
+sys_jshuq_xjqrw_003=黑衣人
+jsq_xjqrw_001=酒樓解圍
+jsq_xjqrw_002=教訓天星幫
+jsq_xjqrw_003=遇襲黑衣人
+sys_home_res_001=本日增加物資點{@0:count}點，物資點已達上限
+sys_home_res_002=本日增加物資點{@0:count}點
+sys_home_res_003=資源點數不足，無法升級
+sys_home_res_004=升級道具不足，無法升級
+sys_home_res_005=道具對該對像沒有任何影響，道具使用失敗
+sys_home_res_006=他對您的好感已達上限，道具使用失敗
+sys_home_res_007=道具使用成功，好感度增加{@0:count}點
+sys_home_res_008=道具使用失敗，請選擇合適的對象再次嘗試
+sys_home_res_009=您僱傭的{@0:name}對你喪失了好感，離你而去了
+sys_home_res_010=金錢不足，無法僱傭
+sys_home_res_011=缺少必要道具，無法僱傭
+sys_home_res_012=非可僱傭對象，無法使用好感道具
+sys_home_res_013=該對像已被僱傭，無法再次僱傭
+sys_home_res_014=建築升級功能暫未開放
+sys_home_res_015=建築僱傭功能暫未開放
+ui_home_building_levelup=升級
+ui_home_building_hire=僱傭
+home_building_level_max=已達最大級
+level_info_HomeFarm1_1=豬圈可以同時飼養一隻小豬崽<br>牛棚可以同時飼養三隻小牛崽或小羊崽<br>雞窩可以同時飼養三隻小雞崽或小鴨崽
+level_info_HomeFarm1_2=豬圈可以同時飼養三隻小豬崽<br>牛棚可以同時飼養六隻小牛崽或小羊崽<br>雞窩可以同時飼養六隻小雞崽或小鴨崽
+level_info_HomeFarm1_3=豬圈可以同時飼養五隻小豬崽<br>牛棚可以同時飼養十隻小牛崽或小羊崽<br>雞窩可以同時飼養十隻小雞崽或小鴨崽
+level_info_HomeFarm2_1=豬圈可以同時飼養一隻小豬崽<br>牛棚可以同時飼養三隻小牛崽或小羊崽<br>雞窩可以同時飼養三隻小雞崽或小鴨崽
+level_info_HomeFarm2_2=豬圈可以同時飼養三隻小豬崽<br>牛棚可以同時飼養六隻小牛崽或小羊崽<br>雞窩可以同時飼養六隻小雞崽或小鴨崽
+level_info_HomeFarm2_3=豬圈可以同時飼養五隻小豬崽<br>牛棚可以同時飼養十隻小牛崽或小羊崽<br>雞窩可以同時飼養十隻小雞崽或小鴨崽
+level_info_HomeFarm3_1=豬圈可以同時飼養一隻小豬崽<br>牛棚可以同時飼養三隻小牛崽或小羊崽<br>雞窩可以同時飼養三隻小雞崽或小鴨崽
+level_info_HomeFarm3_2=豬圈可以同時飼養三隻小豬崽<br>牛棚可以同時飼養六隻小牛崽或小羊崽<br>雞窩可以同時飼養六隻小雞崽或小鴨崽
+level_info_HomeFarm3_3=豬圈可以同時飼養五隻小豬崽<br>牛棚可以同時飼養十隻小牛崽或小羊崽<br>雞窩可以同時飼養十隻小雞崽或小鴨崽
+level_info_HomeFarm4_1=豬圈可以同時飼養一隻小豬崽<br>牛棚可以同時飼養三隻小牛崽或小羊崽<br>雞窩可以同時飼養三隻小雞崽或小鴨崽
+level_info_HomeFarm4_2=豬圈可以同時飼養三隻小豬崽<br>牛棚可以同時飼養六隻小牛崽或小羊崽<br>雞窩可以同時飼養六隻小雞崽或小鴨崽
+level_info_HomeFarm4_3=豬圈可以同時飼養五隻小豬崽<br>牛棚可以同時飼養十隻小牛崽或小羊崽<br>雞窩可以同時飼養十隻小雞崽或小鴨崽
+level_info_HomeFarm5_1=豬圈可以同時飼養一隻小豬崽<br>牛棚可以同時飼養三隻小牛崽或小羊崽<br>雞窩可以同時飼養三隻小雞崽或小鴨崽
+level_info_HomeFarm5_2=豬圈可以同時飼養三隻小豬崽<br>牛棚可以同時飼養六隻小牛崽或小羊崽<br>雞窩可以同時飼養六隻小雞崽或小鴨崽
+level_info_HomeFarm5_3=豬圈可以同時飼養五隻小豬崽<br>牛棚可以同時飼養十隻小牛崽或小羊崽<br>雞窩可以同時飼養十隻小雞崽或小鴨崽
+level_info_HomeFarm6_1=豬圈可以同時飼養一隻小豬崽<br>牛棚可以同時飼養三隻小牛崽或小羊崽<br>雞窩可以同時飼養三隻小雞崽或小鴨崽
+level_info_HomeFarm6_2=豬圈可以同時飼養三隻小豬崽<br>牛棚可以同時飼養六隻小牛崽或小羊崽<br>雞窩可以同時飼養六隻小雞崽或小鴨崽
+level_info_HomeFarm6_3=豬圈可以同時飼養五隻小豬崽<br>牛棚可以同時飼養十隻小牛崽或小羊崽<br>雞窩可以同時飼養十隻小雞崽或小鴨崽
+level_info_HomeFarm7_1=豬圈可以同時飼養一隻小豬崽<br>牛棚可以同時飼養三隻小牛崽或小羊崽<br>雞窩可以同時飼養三隻小雞崽或小鴨崽
+level_info_HomeFarm7_2=豬圈可以同時飼養三隻小豬崽<br>牛棚可以同時飼養六隻小牛崽或小羊崽<br>雞窩可以同時飼養六隻小雞崽或小鴨崽
+level_info_HomeFarm7_3=豬圈可以同時飼養五隻小豬崽<br>牛棚可以同時飼養十隻小牛崽或小羊崽<br>雞窩可以同時飼養十隻小雞崽或小鴨崽
+ui_old_hire_pos_HomeComNpc001=家園中
+ui_old_hire_effect_HomeComNpc001=倉庫商店
+ui_old_hire_pos_HomeComNpc002=家園中
+ui_old_hire_effect_HomeComNpc002=倉庫商店
+ui_old_hire_pos_HomeComNpc003=家園中
+ui_old_hire_effect_HomeComNpc003=倉庫商店
+ui_old_hire_pos_HomecleanNpc001=家園中
+ui_old_hire_effect_HomecleanNpc001=恢復耐久
+ui_old_hire_pos_HomecleanNpc002=家園中
+ui_old_hire_effect_HomecleanNpc002=恢復耐久
+ui_old_hire_pos_HomecleanNpc003=家園中
+ui_old_hire_effect_HomecleanNpc003=恢復耐久
+ui_old_hire_pos_HomeShowNpc001=家園中
+ui_old_hire_effect_HomeShowNpc001=歡迎來賓
+ui_old_hire_pos_HomeShowNpc002=家園中
+ui_old_hire_effect_HomeShowNpc002=歡迎來賓
+ui_old_hire_pos_HomeShowNpc003=家園中
+ui_old_hire_effect_HomeShowNpc003=歡迎來賓
+ui_old_hire_pos_(npc_id)=舊版僱傭的位置描述
+ui_old_hire_effect_(npc_id)=舊版僱傭的效果描述
+ui_location_npcid=npc位置信息
+ui_type_1=增加看護數{@0:count}個
+ui_type_2=增加產量等級：{@0:count}
+ui_type_3=增加成長速度{@0:count}%
+ui_time_index_1=3天
+ui_time_index_2=5天
+ui_time_index_3=10天
+ui_home_left_time_1=小於1小時
+ui_home_left_time_2={@0:count}小時
+ui_pos_npc_homeemploy_001=千燈鎮（-1000，-1000）
+ui_pos_homeemploy_002=千燈鎮（-1000，-1000）
+ui_pos_homeemploy_003=千燈鎮（-1000，-1000）
+ui_pos_homeemploy_004=千燈鎮（-1000，-1000）
+ui_pos_homeemploy_005=千燈鎮（-1000，-1000）
+ui_pos_homeemploy_006=千燈鎮（-1000，-1000）
+ui_home_hire_money=僱傭花費：
+ui_home_building_active_title_HomeFarm=養殖園
+ui_home_building_active_tips_HomeFarm=<center>養殖園</center><s><s>豬啊，羊啊，送到我家來啊。<br><s><s>可以飼養雞、牛、羊等家禽。成熟的家禽能收穫對應的獎勵。
+ui_home_building_active_tips_Home=
+npc_HomeFarm_001=楊芷
+npc_HomeFarm_001_1=家園養殖園
+npc_HomeFarm_002=楊芷
+npc_HomeFarm_002_1=家園養殖園
+npc_HomeFarm_003=楊芷
+npc_HomeFarm_003_1=家園養殖園
+npc_HomeFarm_004=楊芷
+npc_HomeFarm_004_1=家園養殖園
+npc_HomeFarm_005=楊芷
+npc_HomeFarm_005_1=家園養殖園
+npc_HomeFarm_006=楊芷
+npc_HomeFarm_006_1=家園養殖園
+npc_HomeFarm_007=楊芷
+npc_HomeFarm_007_1=家園養殖園
+HomeFarm1=養殖園
+HomeFarm2=養殖園
+HomeFarm3=養殖園
+HomeFarm4=養殖園
+HomeFarm5=養殖園
+HomeFarm6=養殖園
+HomeFarm7=養殖園
+ui_homefarm=幼崽商店
+shop_home_yangzhi_001=幼崽商店
+shop_home_yangzhi_001_page1=第一頁
+task_home_cailiao_duihuan01=歡迎你用物資點來找我兌換各種東西。
+ui_buyhome_cailiao_duihuan01=兌換
+shop_home_cailiao_001=家園兌換商店
+shop_home_cailiao_001_page1=第一頁
+home_res_point=物資點
+ui_home_myhomeshow_41=物資點：
+ui_home_newout_01=養殖園
+ui_home_newout_02=官銀僱傭
+ui_home_newout_03=好感度僱傭
+ui_home_newout_04=家園僱傭
+ui_home_newout_05=姓名
+ui_home_newout_06=所在場景
+ui_home_newout_07=好感度
+ui_home_newout_08=剩餘時間
+ui_home_newout_09=效果說明
+ui_home_newout_10=狀態
+ui_home_newout_11=頭像
+ui_home_newout_12=僱傭
+ui_home_newout_13=僱傭時間
+ui_home_newout_14=家僕選擇
+ui_home_newout_15=<s><s><s><s>家僕可以照看養殖園中的五隻家禽，當家禽生病時會第一時間照料它。
+ui_home_newout_16=建築升級
+ui_home_newout_17=領取
+ui_home_newout_18=當前
+ui_home_newout_19=升級後
+ui_home_newout_20=升級所需物資點：
+sys_home_act001=多吃點，長得快~
+sys_home_001=家園房主尚未進入過家園，暫時無法拜訪
+sys_home_002=家園版本更新，室內傢俱自動收回倉庫，風物誌卡牌和擺件將通過郵件返還
+sys_home_003=玩家處於異常狀態，請嘗試重新進入
+sys_home_004=當前所處家園場景已變更，請退出後重新進入
+home_letter_back_title=系統郵件
+home_letter_back_content=這是擺放在傢俱中的風物誌卡牌和擺件
+sys_world_auction_001=競價{@0:config}成功，本次花費<img src="gui\common\money\liang.png" valign="center" only="line" data="" />{@1:$}
+sys_world_auction_002=競價失敗，當前競價已超過您的出價，請繼續嘗試出價！
+sys_world_auction_003=競價失敗，當前銀兩不足或二級密碼尚未解鎖！
+sys_world_auction_004=競價失敗，當前您正處於異常狀態，請稍後再嘗試！
+sys_world_auction_005=該拍品目前屬於您，故尚不能取消關注！
+sys_world_auction_006=您參與的世界競拍{@0:config}競價被人超過，競拍銀兩將通過郵件返還，稍後請注意查收！
+sys_world_auction_007=少俠，你尚不是江湖名俊，故無法參與競價！
+sys_world_auction_bossworld_hql_big=麒麟現，江湖變！在眾人的努力下「火麒麟」終被擊敗，一大波珍稀物品已上架至世界競拍，眾豪俠可抓緊時間競價搶購，機不可失不容錯過！
+sys_poultry_001=家園養殖場功能未開啟。
+sys_poultry_011=只能在家園庭院中種植。
+sys_poultry_004=您不是家園主人。
+sys_poultry_003=您的菜園尚未激活。
+sys_poultry_005=這種家禽已經太多了。
+sys_poultry_006=您的養殖場已經滿了。
+sys_poultry_010=不在養殖場區域。
+sys_poultry_012=目標不是家禽，不能使用。
+sys_poultry_013=家禽沒有生病。
+sys_poultry_015=只能在家園裡使用
+sys_poultry_016=我離的太遠了
+desc_switch_918=橫雲谷禁地開關
+ui_pos_ReliveCJclone040=橫雲谷
+sys_clone040_001=諸位不但收到了我的密信，還能找到此處，也非庸才，明人不說暗話，在下秦王府朱毅
+sys_clone040_003=我多年來一直尋覓密宗之所在，頗有所得，早年便探尋至此，然而此地詭秘，不敢貿然深入
+sys_clone040_004=確實如此，此地藏得如此之深，人為痕跡又重，可是我們見到先生之前雖也有些阻礙卻不見人蹤
+sys_clone040_005=依我看來此處十之八九是密宗曾經的據點，便是此刻也可能藏匿了密宗高手，比如前面（632，-220）......故而邀請諸位前來與我一同探查
+sys_clone040_007=這些時日的探查，每逢我來到此處都不敢再前進，諸位務必小心前面那東西！
+sys_clone040_008=總算是通過了此物，不知哪位大師的心血，當真不是凡物，此地果然有秘密！
+sys_clone040_009=似乎與玄機堡墨家略有不同，先不提此事，先生可知後面該去往何處
+sys_clone040_010=前方有座橋，過去（131，78）瞧瞧！
+sys_clone040_011=沒想到除了那個瞎子，還有別人也知道這個地方，爺爺的寶物，豈能被這麼多小賊分走！
+sys_clone040_012=此人當是盜墓世家出身，一身技藝了得，聽他所言，此處不但真有重寶，還有其他高手覬覦！
+sys_clone040_013=只是不知此處是否還有密宗的秘密
+sys_clone040_014=在下為了此事早已費盡心力，若能找到些線索，定然會和諸位分享，還請諸位助我一臂之力！
+sys_clone040_015=先生客氣，我看前面地形有些奇特，不知先生有何見解
+sys_clone040_016=怪石聳立，不知有何意義，倒是已經有人通過了，我們先過去（-183，-168）吧
+sys_clone040_017=我只說我是秦王府之人，此人便突然出手，諸位助我！
+sys_clone040_018=沒想到老夫好不容易說服一群盜墓小賊幫我回到這裡，卻又落入了秦王府的手裡，嗚…
+sys_clone040_019=……此人居然自盡身亡，不知與我府中有何仇怨，也不知是不是密宗之人
+sys_clone040_020=這應該就是方纔那盜墓賊所說的瞎子，真是蹊蹺
+sys_clone040_021=如今唯有繼續深入（173，-596），才有可能知曉更多了，我們走吧
+sys_clone040_022=這是什麼東西！啊…莫非這就是傳說中的異蟒？沒想到真的存在!
+sys_clone040_023=雖然我和諸位一樣驚魂未定，但方纔前方有人回報，已發現無處可走！
+sys_clone040_024=怎會如此？此處可能還有其他艱險，難道要我們就此返回？！
+sys_clone040_025=嗯…也瞞不住大家，方纔我府中食客在前方巨石上竟然發現了一處密道（466，-609），不知通往何處…
+sys_clone040_026=先生帶路吧，我還真感興趣，這秦嶺深處的洞天奇谷，還有什麼
+sys_clone040_027=來都來了，到我面前來吧
+sys_clone040_028=你們能到這裡來，看來那個瞎劍客已經沒機會報仇了
+sys_clone040_029=前輩是何人，這裡是否是密宗總壇？
+sys_clone040_030=密宗，哈哈哈哈，密宗恐怕早已忘記公輸玄這個人了
+sys_clone040_031=公輸……公輸？！
+sys_clone040_032=這裡不過是密宗給你們準備的墳墓罷了，我也老了，你們就當給我陪葬吧！
+sys_clone040_033=原來此人是秦王府朱毅，大家這便往前方（632，-220）去看看
+sys_clone040_034=好！
+sys_clone040_035=通過了神秘機關人危宿，往前面去（131，78）看看有什麼
+sys_clone040_036=聽聞前方地形特殊，過去（-183，-168）瞧瞧
+sys_clone040_037=事情愈發撲朔，朱毅似乎也不知道到底發生了什麼，只能繼續深入（173，-596）
+sys_clone040_038=事已至此，通過巨石上的密道（466，-609）去看看是否別有洞天
+sys_clone040_039=剛通過密道（466，-609），就聽到有人讓我們過去（510，-1128），循著聲音過去看看是何人如此神通廣大
+countlimit_clone040_001=對話朱毅
+countlimit_clone040_001a=總算找到了這個地方，也終於看到了這一路走來的第一個活人（509，99），找他問問
+countlimit_clone040_002=擊敗危宿
+countlimit_clone040_002a=擊敗神秘機關人危宿（632，-220）
+countlimit_clone040_003=對話朱毅
+countlimit_clone040_003a=幹掉了這危險的機關人，趕緊找朱毅（632，-220）問問下面該怎麼辦
+countlimit_clone040_004=擊敗吳寅
+countlimit_clone040_004a=擊敗吳寅（131，78）
+countlimit_clone040_005=對話朱毅
+countlimit_clone040_005a=此地居然有盜墓賊，問問朱毅（131，78）有什麼想法
+countlimit_clone040_006=擊敗崔寂
+countlimit_clone040_006a=擊敗突然大打出手的盲劍客（-183，-168）
+countlimit_clone040_007=對話朱毅
+countlimit_clone040_008=擊敗異蟒
+countlimit_clone040_008a=擊敗異蟒（173，-596）
+countlimit_clone040_009=對話朱毅
+countlimit_clone040_009a=異蟒已死，這樣的險情不知還有多少，問問朱毅（173，-596）下面該怎麼走
+countlimit_clone040_010=擊敗公輸玄
+countlimit_clone040_010a=這老人（510，-1128）甚是恐怖，竟然要我們全體給他陪葬，小心對付！
+countlimit_clone040_011=尋找說話之人
+GotoDoorClone040_001=密道入口
+scene_clone040=橫雲谷
+clone040_lwx=橫雲谷
+clonewarning_117127=橫雲谷禁地暫未開放
+ui_homemine_surtime=少於{@0:value}分鐘
+ui_homemine_finish=已完成
+sys_4yuejuqing_sz_001=密宗殺手突然出現，還請各位協助林天南一起將其擊退。
+sys_mzyysl_001=乖乖地把剛才從祖澄那拿到的盒子交出來，就饒了你，否則讓你見不到明天的太陽！
+sys_mzyysl_003=趙止，這事和我妹無關，她早已經不過問密宗之事已久。你還來找她，居心叵測，看招！
+sys_poultry_008=已成熟
+sys_poultry_009={@0:time}
+sys_xsyjq_401=站住，你是何人？
+sys_xsyjq_402=哼，我是密宗使者
+sys_xsyjq_403=天王蓋地虎
+sys_xsyjq_404=寶塔鎮河妖，你看這是我的令牌
+sys_xsyjq_405=你到底是什麼人，我們暗號早就換掉了
+sys_xsyjq_406=不好，被識破了，糟了
+sys_xsyjq_exit=離開
+middle_spring_hunt_1=恭喜<font color="#00ff00">{@0:玩家名}</font>對<font color="#00ff00">{@1:BOSS名}</font>造成了致命的一擊，其所在團隊將獲得豐厚的獎勵！
+91178=今日活動狀態修煉已達上限！
+sys_mzyysl_002=居然有人！此行不是來殺你的，你還是不要得意！我先走一步！
+desc_worldboss_szxy_new_002=各位大俠請注意，<font color="#f9fc00">三爪雪猿</font>已出現在<font color="#f9fc00">惡人谷</font>!
+desc_worldboss_szxy_new_003=各位大俠請注意，<font color="#f9fc00">三爪雪猿</font>已出現在<font color="#f9fc00">雞鳴驛</font>!
+desc_worldboss_szxy_new_004=各位大俠請注意，<font color="#f9fc00">萬年火龜</font>已出現在<font color="#f9fc00">塞外大漠</font>！
+desc_worldboss_szxy_new_005=各位大俠請注意，<font color="#f9fc00">萬年火龜</font>已出現在<font color="#f9fc00">金陵</font>！
+desc_worldboss_notice_new_004=絕頂高手<font color="#f9fc00">三爪雪猿</font>即將在<font color="#f9fc00">{@0:分鐘}</font>分鐘後現身，請各位大俠做好準備！
+desc_worldboss_notice_new_005=絕頂高手<font color="#f9fc00">萬年火龜</font>即將在<font color="#f9fc00">{@0:分鐘}</font>分鐘後現身，請各位大俠做好準備！
+sys_world_auction_bossworld004_big=在眾人的努力下「鳩毒王（精英）」終被擊敗，一大波珍稀物品已上架至世界競拍，眾豪俠可抓緊時間競價搶購，機不可失不容錯過！
+sys_world_auction_bossworld004_small=在眾人的努力下「鳩毒王」終被擊敗，一大波珍稀物品已上架至世界競拍，眾豪俠可抓緊時間競價搶購，機不可失不容錯過！
+desc_switch_971=橫雲谷禁地支線秦王線開關
+sys_clone040_040=想知道的事情？到下面去琢磨吧，哈哈！
+sys_clone040_041=我厲清狂要走，何人攔得住？
+sys_clone040_042=假亦真時真亦假，說到底不過是一具皮囊罷了
+sys_clone040_043=告訴我等有密宗線索之人，竟然是秦王的人？你秦王府如今可在風口浪尖，莫非還與那密宗有關？叫我們如何相信你<font color="#ffff00">（進入秦王線）</font>
+sys_clone040_044=密宗？為了查明真相和這夥人的目的，我多年來倒是奉命一直尋覓其之所在，我秦王府與此宗絕無關係！
+sys_clone040_045=（此人神色不似作偽，我們人多勢眾倒也不怕他，且看他葫蘆裡賣的什麼藥）既如此，我們便暫時相信於你，敢問先生此地有何線索
+sys_clone040_046=我探查多年，此處十之八九是密宗曾經的據點，便是此刻也可能藏匿了密宗高手，實不相瞞前方便有險惡之物，我一人無法再深入了，故而邀請諸位前來與我一同探查
+sys_clone040_047=（直言有險情，似乎可信）有險必有因，事不宜遲，先生還請帶路，我們一道去看看<font color="#ffff00">（進入秦王線，不可修改）</font>
+sys_clone040_048=這厲清狂竟似很熟悉此處，我們這麼多人都跟丟了，天外天、密宗，到底怎麼回事？！
+sys_clone040_049=此處看來比想像的還要埋藏更多的秘密
+sys_clone040_050=如今可以肯定，此地不尋常，但是前方也必然有更多的危險，諸位可還願意與我一起向前？
+sys_clone040_051=先生！我們來此處便是為了查明真相，必然要往前去一探。我看前面地形有些奇特，不知是否危險
+sys_clone040_052=怪石聳立，不知有何意義，方才搜尋厲清狂之際已經有人經過一些石台似乎也沒有危險，我們過去看看
+sys_clone040_053=……此人居然自盡身亡，不知與我府中有何仇怨，也不知是不是密宗之人
+sys_clone040_054=這瞎子說的話有頗多疑點，真是蹊蹺，我看先生並非奸邪之人，可知你府中有無異常？
+sys_clone040_055=在下常年在外探訪密宗之事，在府中當值之時也未曾見到什麼怪事啊
+sys_clone040_056=如此，我等有所懷疑還請先生見諒，這便繼續前進吧
+sys_clone040_057=這畜生背上有人為縫合的痕跡，破開後發現了此物……
+sys_clone040_058=這是……一塊印？
+sys_clone040_059=這寶物是前朝國寶龍鈕玉印，是能夠統領全國宗教的象徵
+sys_clone040_060=密宗若得到，豈非有如聖物一般？又為何在這畜生體內？
+sys_clone040_061=我也不知，在下認得此物也是翻閱府中藏書時偶見。此物非同一般，在下並不能信任在場的所有人，先存於我處，等離開此地再探討如何處置
+sys_clone040_062=（此人還算光明磊落，說的倒也有理）此處豪傑眾多，我想應該也不會遺失此物，便先勞煩先生了！
+sys_clone040_063=有人發現前方有異（510，-1128），我先循著聲音過去看看是什麼情況！
+sys_clone040_064=最終的戰鬥已經開始了，無法進入密室！
+sys_clone040_065=最終的戰鬥已經開始了，無法離開密室！
+countlimit_clone040_012=對話朱毅
+countlimit_clone040_012a=這厲清狂乃是武林中最危險的殺手之一，居然出現在橫雲谷內，快問問朱毅（131，78）是否知情
+countlimit_clone040_013=對話朱毅
+countlimit_clone040_013a=異蟒已死，在場群雄似乎有什麼發現，快問問朱毅（173，-596）發生了什麼
+countlimit_clone040_014=擊敗厲清狂
+countlimit_clone040_014a=擊敗厲清狂（131，78）
+countlimit_clone040_015=擊敗秦王
+countlimit_clone040_015a=從密室入口（513，-1176）進來，發現只有疑似秦王之人，公輸玄已不知去向，為了弄清龍印去處，只能先擊敗他了（戰鬥開始後將無法進入和離開密室）
+countlimit_clone040_016=探查前方
+countlimit_clone040_016a=似乎前方有異，朱毅已先行一步探查前方（510，-1128），快快跟上
+countlimit_clone040_017=追入密室
+countlimit_clone040_017a=這二人到底什麼來路，其中之一似乎正是秦王殿下，另一個卻殺了他府中之人奪印而去，快追進密室（513，-1176）看看！
+sys_guild_auth_001=幫會認證活動未開啟，認證失敗
+sys_guild_auth_002=未滿足幫眾認證條件，認證失敗
+sys_guild_auth_003=未滿足幫主認證條件，認證失敗
+sys_guild_auth_004=不在認證時效內，認證失敗
+sys_guild_auth_005=玩家處於異常狀態，領取認證獎勵失敗
+ui_dboguild_seconds_text={@0:天}天{@1:時}時{@2:分}分
+ui_dboguild_yirenzheng=已認證
+ui_mail_guild_auth_source=活動大使
+ui_mail_guild_auth_title=幫會實力認證活動獎勵
+ui_mail_guild_auth_content=恭喜您在活動時間內達到指定實力，獲得活動獎勵。
+sys_clone040_skilltips001=不想死就來吃我一掌
+sys_clone040_skilltips002=你們就忍心看著他的生命一點點流失嘛
+sys_clone040_skilltips003=啊哈，你們就這點實力嗎
+sys_clone040_skilltips004=想要打贏我，再去修煉個兩百年吧。
+sys_sanhill_020=成功獲得{@0:數量}點闖關點
+sys_sanhill_021=成功獲得{@0:數量}點乘風點
+sys_sanhill_022=成功獲得{@0:數量}點踏雲點
+sys_sanhill_023=點數已達上限，無法使用
+sys_ssf_fc_019=扣除憑證失敗
+sys_ssf_fc_020=缺少憑證
+7945=端午粽子令牌
+7946=端午粽子兌換活動
+19668=<font color="#ffcc00">{@0:name1}</font>積分設置把<font color="#ffcc00">{@1:type1}</font>修改為<font color="#ffcc00">{@2:type2}</font>，基礎積分由<font color="#ffcc00">{@3:score1}</font>變為<font color="#ffcc00">{@4:score2}</font>
+19676=<font color="#ffcc00">設置積分</font> <font color="#ffcc00">{@:0player}</font>設置<font color="#ffcc00">{@:1type}</font>的單位積分為<font color="#ffcc00">{@:2point}</font>
+19677=<font color="#ffcc00">設置積分</font> <font color="#ffcc00">{@:0player}</font>刪除了<font color="#ffcc00">{@:1type}</font>記錄項，新增了<font color="#ffcc00">{@:2type}</font>記錄項，基礎積分設置為<font color="#ffcc00">{@:2point}</font>
+sys_guj_choujiang003=你沒有兌換道具雲崖令，無法進行活躍度兌換。
+sys_guj_choujiang004=恭喜<font color="#A2FF6C">{@0:名字}</font>在活躍度兌換活動內獲得了<font color="#A2FF6C">{@1:道具}</font>
+sys_guj_choujiang005=活躍度兌換
+sys_guj_choujiang006=恭喜你，這是你在活躍度兌換內所獲得的道具
+ui_dbomall_0308=活躍度兌換
+ui_choujiang=活躍度兌換
+sys_clone040_002=原來是秦王的人，難怪有此手筆！先生說此地和密宗有關，更可能有重寶，願聞其詳<font color="#ffff00">（進入公輸玄線）</font>
+sys_clone040_006=哈哈，先生言重，我等要麼為了密宗而來，要麼為了秘寶而來，既然來此，豈能退縮！<font color="#ffff00">（進入公輸玄線，不可修改）</font>
+countlimit_clone040_007a=這盲劍客似乎與秦王府有什麼淵源，找朱毅（-183，-168）問問
+sys_leitai_create_failed=在「絕頂高手」玩法區域內不能擺放江湖散擂！
+sys_world_auction_Boss_hd6_xd01=在眾人的努力下「楚休紅(血刀堂)」終被擊敗，一大波珍稀物品已上架至世界競拍，眾豪俠可抓緊時間競價搶購，機不可失不容錯過！
+sys_world_auction_boss_act_sz01=在眾人的努力下「黑風寨大當家」終被擊敗，一大波珍稀物品已上架至世界競拍，眾豪俠可抓緊時間競價搶購，機不可失不容錯過！
+sys_hd6_boss_born=傳聞有隱世門派高手出現在蘇州城比武區，打敗他們就有機會加入隱世門派！
+sys_yjwm_two_01=此處要考驗你華山劍法熟習程度，仔細看我所用招式，待我用招完畢，你需對這樁子使出同樣的招式，成功五次便可過關。<font color="#FF3030">（使用塗抹了毒藥的武器攻擊樁子，會導致該試煉失敗！）</font>
+ui_guj_choujiangjs01=<s><s><s><s><s><s><s><s><s>活躍度兌換<br><s><s>為繁榮大明經濟，滋養民生。朝廷特下令讓江湖中各位俠士參加活躍度兌換。<br><s><s>指定時間段內，俠士可通過消耗雲崖令進行活躍度兌換。<br>雲崖令獲得途徑：每日活躍度100點獎勵箱打開後，江湖名俊玩家將額外獲得：雲崖令*1。<br><br><font color="#A2FF6C">活躍度兌換活動時間:2018年6月8日-2018年6月20日</font>
+clone001n_sys_012a=此處便是四象陣，必須分別擊破<font color="#ffff00">青龍、白虎、朱雀、玄武</font>四陣，方可破陣，至於有沒有<font color="#ffff00">護陣者</font>，卻又不得而知了<font color="#ffff00">（如不按照進入順序依次破陣，則可能無法繼續流程）</font>
 

@@ -1,0 +1,97 @@
+﻿
+DialogID_73901=<font face="Default" color="#ffffff" >  </font><font face="Default" color="#ffffff" >I know what has happened at Lord Qin Manor. I have already sent people to meet with the headmasters of the nine sects to discuss this.</font>
+DialogID_73902=<font face="Default" color="#ffffff" >Wait. </font><font face="Default" color="#ffffff" >Abbot Xuanhuai doesn't know I have appointed you as the secret envoy, so he won't trust you. Give this letter to him and he will understand.</font>
+DialogID_73903=<font face="Default" color="#ffffff" >Yes, this is written by the alliance leader. Sorry for the misunderstanding.</font>
+DialogID_73905=<font face="Default" color="#ffffff" >We have received the abbot's order. I put everything that was left behind on the top floor of Sutra Pavilion. Go see for yourself.</font>
+DialogID_73906=<font face="Default" color="#ffffff" >You are great in the martial arts. Sorry for the misunderstanding.</font>
+DialogID_73907=<font face="Default" color="#ffffff" >(Takes the letter) Thanks for your help.</font>
+DialogID_73909=<font face="Default" color="#ffffff" >  </font><font face="Default" color="#ffffff" >The Silent Temple is so arrogant! </font><font face="Default" color="#ffffff" >You must visit Emei quickly. I will be fine.</font>
+QiecuoMenu_73901=<font face="Default" color="#ffffff" >Wait a moment. I'm here on an important duty. </font><font face="Default" color="#ffffff" >(No choice but to fight back)</font>
+QiecuoMenu_73903=<font face="Default" color="#ffffff" >Hold on. The abbot sent me here to investigate on the Silent Temple. Please understand.</font>
+QiecuoTitle_73901=<font face="Default" color="#ffffff" >Who are you? How dare you try to sneak into the backyard of Shaolin!? </font><font face="Default" color="#ffffff" >(Starts to throw punches)</font>
+QiecuoTitle_73903=<font face="Default" color="#ffffff" >  </font><font face="Default" color="#ffffff" >Who is there? How dare you try to sneak into the Sutra Pavilion!? Take this!</font>
+SubmitNpcEx_73901=<a href="findnpc_new,school08,WorldNpc00212" style="HLStype1">Abbot Xuanhuai</a> (Ask alliance leader's disciple <a href="findnpc_new,city02,WorldNpc01158" style="HLStype1">Ye Fei</a> to take you to Shaolin)
+SubmitNpcEx_73903=<a href="findnpc_new,school08,WorldNpc00212" style="HLStype1">Abbot Xuanhuai</a> (Talk to the Shaolin disciples near the door to leave the scene after you have obtained the task items)
+SubmitNpcEx_73905=<a href="findnpc_new,school08,WorldNpc00212" style="HLStype1">Abbot Xuanhuai</a> (Talk to the little monk nearby to leave the scene after you have obtained Silent Temple's letter)
+SubmitNpcEx_73907=Go to Emei to find <a href="findnpc_new,school06,WorldNpc02631" style="HLStype1">Xuanyuan Chuqing</a> (Ask alliance leader's disciple <a href="findnpc_new,city02,WorldNpc01158" style="HLStype1">Ye Fei</a> to take you to Emei)
+collectinfo_73901=Search Zu Cheng's Former Residence (right behind Qing Yan) for clues (Talk to <a href="findnpc_new,school08,mzjq_sl_001" style="HLStype1">Qing Yan</a> to enter Zu Cheng's Former Residence. Open and search the items inside. Click on anything suspicious to search for clues)
+collectinfo_73902=Search for Silent Temple's letter inside Sutra Pavilion<a href="findnpc_new,," style="HLStype1"></a> (Talk to <a href="findnpc_new,school08,mzjq_sl_003" style="HLStype1">Qing Ke</a> to enter the secret room of Sutra Pavilion. Search the books on the floor for clues)
+hunterinfo_73901=You quickly goes to Zu Cheng's Former Residence and gets into a conflict with the backyard guard <a href="findnpc_new,school08,mzjq_sl_001" style="HLStype1">Qing Yan</a>
+hunterinfo_73902=Defeat the <a href="findnpc_new,school08,boss_jqmz_001" style="HLStype1">Mysterious Monk</a> with Zu Ming (If you left the task area without completing the task you can go to the <a href="findnpc_new,school08,EventNpc_wyjq_001" style="HLStype1">entrance of Shaolin</a> again to trigger the storyline)
+hunterinfo_73903=Defeat the Sutra Pavilion guard <a href="findnpc_new,school08,mzjq_sl_003" style="HLStype1">Qing Ke</a> (Use the stairs to go to the top floor)
+hunterinfo_73904=The Silent Temple is furious after failing to retrieve Zu Cheng's letter and has came to assassinate the alliance leader. Help Lin Tiannan defeat the <a href="findnpc_new,," style="HLStype1"></a>Angry Silent Temple Assassin Leader (If you accidentally leaves the area you can use the <a href="findnpc_new,city02,EventNpc_wyjq_002" style="HLStype1">Leave Suzhou and go to Emei</a> portal to re-enter)
+hunterinfo_73905=Zhao Zhi flees after he sees you. (Don't let him get away! Make your way to the bridge and use flying skills to catch up with him) Defeat him with Xuanyuan Kuanglang (If you accidentally leaves the area you can go to <a href="findnpc_new,school06,EventNpc_wyjq_003" style="HLStype1">Emei Mountain</a> to trigger the storyline again)
+interactinfo_73901=Ask <a href="findnpc_new,city02,WorldNpc01194" style="HLStype1">Lin Tiannan</a> if there is anything else
+interactinfo_73902=Take <a href="findnpc_new,city02,WorldNpc01194" style="HLStype1">Lin Tiannan</a>'s recommendation letter and go to Shaolin
+interactinfo_73903=Give the alliance leader's letter to <a href="findnpc_new,school08,WorldNpc00212" style="HLStype1">Abbot Xuanhuai</a>
+interactinfo_73904=Go to the <a href="findnpc_new,school08,EventNpc_wyjq_001" style="HLStype1">entrance of Shaolin</a> and pretend to leave
+interactinfo_73905=Tell <a href="findnpc_new,school08,WorldNpc00262" style="HLStype1">Xuanzhen</a> why you are here
+interactinfo_73906=Talk to the Sutra Pavilion guard <a href="findnpc_new,school08,mzjq_sl_003" style="HLStype1">Qing Ke</a> (Use the stairs to go to the top floor)
+interactinfo_73907=Give this letter to <a href="findnpc_new,city02,WorldNpc01194" style="HLStype1">Lin Tiannan</a>
+interactinfo_73908=Hurry, <a href="findnpc_new,city02,EventNpc_wyjq_002" style="HLStype1">leave Suzhou and go to Emei</a>
+interactinfo_73909=After a fierce fight, <a href="findnpc_new,city02,WorldNpc01194" style="HLStype1">Lin Tiannan</a> defeated the incoming experts of Silent Temple. But he is also badly injured. Go check on him.
+interactinfo_73910=Leave <a href="findnpc_new,school06,EventNpc_wyjq_003" style="HLStype1">Emei Mountain</a>
+okmenu_73901=<font face="Default" color="#ffffff" >(Quietly) </font><font face="Default" color="#ffffff" >You wanted to see me?</font>
+okmenu_73902=<font face="Default" color="#ffffff" >Thank you.</font>
+okmenu_73903=<font face="Default" color="#ffffff" >No problem. You were only being cautious.</font>
+okmenu_73905=<font face="Default" color="#ffffff" >Abbot Xuanhuai sent me here to have a look at Abbot Xuanjian's old belongings. To see if Zu Cheng left behind any clues.</font>
+okmenu_73906=<font face="Default" color="#ffffff" >You are the reason why the Silent Temple thugs still haven't gotten their hands on Zu Cheng's things.</font>
+okmenu_73907=<font face="Default" color="#ffffff" >All of them are people of importance. Something is up.</font>
+okmenu_73909=<font face="Default" color="#ffffff" >Are you alright?</font>
+story_73901_1=<font face="Default" color="#ffffff" >  </font><font face="Default" color="#ffffff" >I learned from the Headmasters that many sects have found traces of Silent Temple spies' activity beforehand, but they chose to deal with it alone because of their differences.</font><font face="Default" color="#ffffff" ></font><font face="Default" color="#ffffff" ></font><font face="Default" color="#ffffff" ></font><font face="Default" color="#ffffff" ></font>
+story_73901_2=<font face="Default" color="#ffffff" >  </font><font face="Default" color="#ffffff" >The Silent Temple is rising in power, me and the sect leaders have decided to select an envoy to help us communicate with each other and to solve the threat of Silent Temple together. Maybe more clues could be found. I think you are perfect for this job.</font>
+story_73901_3=<font face="Default" color="#ffffff" >  </font><font face="Default" color="#ffffff" >Abbot Xuanhuai of Shaolin told me their previous Puti Institution Chief, Zu Cheng, was a Silent Temple spy. He was secretly studying Shaolin's martial arts and </font><font face="Default" color="#ffffff" ></font><font face="Default" color="#ffffff" >creating conflicts between the sects. He was the spy who held the highest position while undercover. Shaolin discontinued their investigation after Zu Cheng's death. There might still be clues to be found. Go have a look.</font>
+story_73902_1=<font face="Default" color="#ffffff" >Zu Cheng was undercover in Shaolin for so many years. He was a cunning old fox and disguised himself well. </font><font face="Default" color="#ffffff" >It wasn't until he let his guard down that I learned his true identity. I'm much ashamed.</font>
+story_73902_2=<font face="Default" color="#ffffff" >Zu Cheng's room was kept empty after he died. You can go see if anything useful was left behind.</font>
+story_73903_1=<font face="Default" color="#ffffff" >  </font><font face="Default" color="#ffffff" >This is a quiet place. The important people of Shaolin lives here. I have been guarding this place for years and nothing strange has ever happened. But recently there have been mysterious men lurking around at night. They are experts of flying skills and I'm no match for them.</font>
+story_73903_2=<font face="Default" color="#ffffff" >Indeed. The strange thing is they don't go anywhere except Zu Cheng's old room.</font><font face="Default" color="#ffffff" ></font>
+story_73904_1=<font face="Default" color="#ffffff" >Do you have a plan to lure them out?</font>
+story_73904_2=<font face="Default" color="#ffffff" >This is a nice plan. I will tell Zu Ming to secretly follow you and help.</font>
+story_73905_1=<font face="Default" color="#ffffff" >There is another place that Zu Cheng has stayed. Years ago Abbot Xuanjian brought back Zu Cheng from the Western Region, and they stayed in Xuanjian's room for some time. Maybe something is left behind there.</font>
+story_73905_2=<font face="Default" color="#ffffff" >Exactly. </font><font face="Default" color="#ffffff" >The Silent Temple wouldn't dare send people to snoop under Xuanjian's nose, and when Xuanjian left Shaolin to travel he gave Abbot Xuanzhen most of his belongings to store inside the Sutra Pavilion. The Silent Temple never had the chance to go through his stuff. Why don't you visit Abbot Xuanzhen and perhaps you can find some clues there.</font>
+story_73906_1=<font face="Default" color="#ffffff" >Xuanyuan Chuqing of Emei and Xuanyuan Kuanglang of Royal Guards are both spies of the Silent Temple. Go report to the alliance leader. </font><font face="Default" color="#ffffff" >They have been undercover for many years. No one would've known they are the spies Silent Temple planted in the major sects!</font>
+story_73907_1=<font face="Default" color="#ffffff" >Of the people listed, Yu Mengqiu has already been discovered. And the Royal Guards is still in close contact with the Imperial Court. Since the court is investigating the Silent Temple, they would be working together. You wouldn't be much help there if they don't trust you.</font>
+story_73907_2=<font face="Default" color="#ffffff" > In Emei Abbess Juechen already has suspicions about Xuanyuan Chuqing's past. But the girl is kind hearted and never did anything to harm Emei or Wulin, so the abbess never confronted her about it. The matter is complicated. Go to Emei and see if you can find any useful clues.</font>
+story_73908_1=<font face="Default" color="#ffffff" >I have been treated with honesty from my sisters in Emei all these years and I would never do anything to harm them. Me and my brother were sent by the Silent Temple, but I stopped working for them long ago.</font>
+story_73908_2=<font face="Default" color="#ffffff" >The Silent Temple is now active again. You do not have enough people to fight against them. I suggest you stay out of their way if you want to stay alive.</font>
+story_73909_1=<font face="Default" color="#ffffff" >Not only are Silent Temple and Tianwaitian your enemies, the Imperial Court and Royal Guards are also known for their bloodlust. You might still live if you choose to disappear now. And if you do any harm to Xuanyuan Chuqing, you will end up just like Zhao Zhi.</font>
+story_73910_1=<font face="Default" color="#ffffff" >I need to stay out of these matters now. You can go to Lord Qin Manor to help. Maybe progress can be made there.</font>
+story_menu_73901=<font face="Default" color="#ffffff" >What is your </font><font face="Default" color="#ffffff" >plan?</font>
+story_menu_73902=<font face="Default" color="#ffffff" >The Silent Temple has been causing troubles recently. It's right to be cautious. </font><font face="Default" color="#ffffff" >Did Zu Cheng leave behind any clues?</font>
+story_menu_73903=<font face="Default" color="#ffffff" >Please be specific.</font>
+story_menu_73904=<font face="Default" color="#ffffff" >  </font><font face="Default" color="#ffffff" >I have a plan that might lure them out.</font>
+story_menu_73905=<font face="Default" color="#ffffff" >Please take some time to think.</font>
+story_menu_73906=<font face="Default" color="#ffffff" >Yu Mengqiu from Scholars was already discovered as a Silent Temple spy. There are more?</font>
+story_menu_73907=<font face="Default" color="#ffffff" >What should we do?</font>
+story_menu_73908=<font face="Default" color="#ffffff" >What is the Silent Temple trying to accomplish?</font>
+story_menu_73909=<font face="Default" color="#ffffff" >Don't be so arrogant. The alliance leader will stop you guys. </font><font face="Default" color="#ffffff" >The people will know the truth.</font>
+story_menu_73910=<font face="Default" color="#ffffff" >How could this be?</font><font face="Default" color="#ffffff" ></font>
+storyinfo_73901=Ask <a href="findnpc_new,city02,WorldNpc01194" style="HLStype1">Lin Tiannan</a> about what happened
+storyinfo_73902=Ask <a href="findnpc_new,school08,WorldNpc00212" style="HLStype1">Abbot Xuanhuai</a> about Zu Cheng's past
+storyinfo_73903=Tell <a href="findnpc_new,school08,mzjq_sl_001" style="HLStype1">Qing Yan</a> why you are here
+storyinfo_73904=Formulate a plan with <a href="findnpc_new,school08,WorldNpc00212" style="HLStype1">Abbot Xuanhuai</a>
+storyinfo_73905=Ask <a href="findnpc_new,school08,WorldNpc00212" style="HLStype1">Abbot Xuanhuai</a> if there are any other places that might have clues that Zu Cheng left behind.
+storyinfo_73906=Ask <a href="findnpc_new,school08,WorldNpc00212" style="HLStype1">Abbot Xuanhuai</a> what's written on the letter
+storyinfo_73907=Listen to <a href="findnpc_new,city02,WorldNpc01194" style="HLStype1">Lin Tiannan</a>'s plan
+storyinfo_73908=Ask <a href="findnpc_new,school06,WorldNpc02631" style="HLStype1">Xuanyuan Chuqing</a> what she knows
+storyinfo_73909=Talk to <a href="findnpc_new,school06,mzjq_sl_005" style="HLStype1">Xuanyuan Kuanglang</a>
+storyinfo_73910=Listen to <a href="findnpc_new,city02,WorldNpc01194" style="HLStype1">Lin Tiannan</a>
+storymenu_73901_1=<font face="Default" color="#ffffff" >The Silent Temple is so arrogant! It has infiltrated all the major sects!</font>
+storymenu_73901_2=<font face="Default" color="#ffffff" >I will not fail you.</font>
+storymenu_73901_3=<font face="Default" color="#ffffff" >Yes sir</font>
+storymenu_73902_1=<font face="Default" color="#ffffff" >It's not the time to be sentimental. We must hurry and look for clues about the Silent Temple.</font><font face="Default" color="#ffffff" ></font><font face="Default" color="#ffffff" ></font>
+storymenu_73902_2=<font face="Default" color="#ffffff" >Thank you, Grandmaster.</font>
+storymenu_73903_1=<font face="Default" color="#ffffff" >Mysterious man in black? (Looks like time is running out)</font>
+storymenu_73903_2=<font face="Default" color="#ffffff" >They must be from the Silent Temple. Looks like I'm running out of time. </font><font face="Default" color="#ffffff" >Please let me enter the room to have a look.</font>
+storymenu_73904_1=<font face="Default" color="#ffffff" >That man is still lurking around Zu Cheng's room so it means he must still haven't found what he is looking for. I will take this package and leave with it. That man will think it's something important and come for it. And when he does I would need your help.</font>
+storymenu_73904_2=<font face="Default" color="#ffffff" >  </font><font face="Default" color="#ffffff" >Thanks for your help.</font>
+storymenu_73905_1=<font face="Default" color="#ffffff" >No one would believe the Divine Monk Xuanjian is the one who brought back Zu Cheng.</font>
+storymenu_73905_2=<font face="Default" color="#ffffff" >Thank you. I will go check it out.</font>
+storymenu_73906_1=<font face="Default" color="#ffffff" >This is important. I will go </font><font face="Default" color="#ffffff" >report to the alliance leader.</font>
+storymenu_73907_1=<font face="Default" color="#ffffff" >Then Xuanyuan Chuqing is our last hope.</font>
+storymenu_73907_2=<font face="Default" color="#ffffff" >I'm on my way.</font>
+storymenu_73908_1=<font face="Default" color="#ffffff" >  </font><font face="Default" color="#ffffff" >I have never heard anything bad about you. Looks like this place truly changed you.</font>
+storymenu_73908_2=<font face="Default" color="#ffffff" >  </font><font face="Default" color="#ffffff" >We will not watch as the Silent Temple creates conflict in Wulin. Since you don't know anything, I will be on my way.</font>
+storymenu_73909_1=<font face="Default" color="#ffffff" >There's still a long road ahead.</font>
+storymenu_73910_1=<font face="Default" color="#ffffff" >Take care.</font>
+

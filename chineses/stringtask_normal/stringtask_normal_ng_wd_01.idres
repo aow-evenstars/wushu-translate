@@ -324,7 +324,6 @@ context_55569=Shen Family Castle and Xu Village are in Chengdu. It's also popula
 context_55574=Thank goodness the Drunken Hero Chu Xiao helped us. I didn't expect Zhuo Bei would come to Suzhou.
 context_55575=Chu Xiao was seriously injured. He asked you to find Mu Shuzi at the Scholars so he could be healed.
 context_55576=Chu Xiao was seriously hurt. He asked you to find Mu Shuzi in Scholars for him.  Thus, he could be cured.
-context_55577=You have delivered all the letters for Yan Shuangxing. Now head for Mount Hua to find him. Will he confront the 6 factions by himself?
 menu_55540_1=<font face="Default" color="#ffffff" >So many different kinds of people here...</font>
 menu_55552_1=
 menu_55555_1=<font face="Default" color="#ffffff" >How ridiculous of you to think you can defeat Martial Uncle Xiang with some basic skills learned from Xiang!  </font>
@@ -377,7 +376,6 @@ target_55573=Use the hoe to find Yang Que.
 target_55574=Chu Xiao helped you fight Zhuo Bei though was seriously injured. Examine his wound.
 target_55575=Find Mu Shuzi at Scholars and obtain medicine for Chu Xiao
 target_55576=Go find Mu Shuzi in Scholars and seek medicine for Chu Xiao
-target_55577=Go to Mount Hua and find Yan Shuangxing (Speak with <a href="findnpc_new,city02,5nei_gbmdt001" style="HLStype1">Li Li</a> to teleport to Mount Hua)
 title_55540=Breath Trial
 title_55541=Breath Trial
 title_55550=
@@ -480,12 +478,6 @@ complete_55592=<font face="Default" color="#ffffff" >Master Kong Gift</font>
 context_55583=To praise everyone's contribution to the Ming Dynasty, a celebration gift pack is given away.
 context_55584=Jianghu is unstable, a storm is coming. When the foreign forces invaded Central Plains, the short-sighted Jianghu forces in the Lingxiao City hatched a sinister plot. Let them know how strong Life and Death Rune is!
 context_55585=Ming Cult entrusted me to distribute gifts here to make good bonds with people of insight.
-context_55586=Complete the instance Twilight Village [Hell]
-context_55587=Complete the instance Green Cloud Castle [Hell]
-context_55588=Complete the instance Longmen Inn [Normal]
-context_55589=Complete the instance Yanmen Pass [Normal]
-context_55590=Complete the instance Yanmen Pass [Hard]
-context_55591=Complete the instance Yanmen Pass [Hell]
 context_55592=Kong and Meng teachings are the ways of the holy. One who has disdain for the world has great wisdom, and the way of martial arts is no different.
 menu_55583_1=
 menu_55585_1=<font face="Default" color="#ffffff" >I confirm! </font>
@@ -495,12 +487,6 @@ menu_55588_1=<font face="Default" color="#ffffff" >I will get going then. </font
 menu_55589_1=<font face="Default" color="#ffffff" >I will get going then. </font>
 menu_55590_1=<font face="Default" color="#ffffff" >I will get going then. </font>
 menu_55591_1=<font face="Default" color="#ffffff" >I will get going then. </font>
-next_55586=Complete the instance Twilight Village [Hell]
-next_55587=Complete the instance Green Cloud Castle [Hell]
-next_55588=Complete the instance Longmen Inn [Normal]
-next_55589=Complete the instance Yanmen Pass [Normal]
-next_55590=Complete the instance Yanmen Pass [Hard]
-next_55591=Complete the instance Yanmen Pass [Hell]
 submit_55584=<font face="Default" color="#ffffff" >Life and Death Rune - Rune slave (Complete)</font>
 submit_55585=<font face="Default" color="#ffffff" >Sacred Fire Elder Gift (completed)</font>
 submit_55586=<font face="Default" color="#ffffff" >Many thanks! </font>
@@ -513,22 +499,116 @@ submit_55592=<font face="Default" color="#ffffff" >Master Kong Gift (Complete)</
 target_55583=A celebration gift pack is given away.
 target_55584=Those overconfident Lingxiao City wanderers got captured in the city center. It is better to die than live through the daily torture of Life and Death Rune. The city folk calls them "Rune slaves"!
 target_55585=Go to Lin Liang and get the Ming Cult Present
+target_55592=Go to Yan Lun to find out about Master Kong Gift
+title_55583=All Server Workbench
+title_55584=Life and Death Rune - Rune slave
+title_55585=Sacred Fire Elder Gift
+title_55592=Master Kong Gift
+menu_55529_1=<font face="Default" color="#ffffff" >An Imperial Edict Iron Ticket? How can all the Eight Schools have it? I have never heard Headmaster mention it.</font>
+CanAcceptMenu_55593=<font face="Default" color="#ffffff" >Master Hui Zhi? I heard that your temple is preparing for the Buddha’s teaching festival. I think that there must be a shortage of manpower at this time. Just tell me if I can be of help! </font>
+CanAcceptMenu_55594=They say that the Dragon Pattern Runes reappeared in Jianghu?
+CanAcceptMenu_55595=They say that the Dragon Pattern Runes reappeared in Jianghu?
+CanAcceptMenu_55596=They say that the Dragon Pattern Runes reappeared in Jianghu?
+CanAcceptMenu_55597=They say that the Dragon Pattern Runes reappeared in Jianghu?
+CanAcceptMenu_55598=They say that the Dragon Pattern Runes reappeared in Jianghu?
+CanAcceptMenu_55599=They say that the Dragon Pattern Runes reappeared in Jianghu?
+CanAcceptMenu_55600=<font face="Default" color="#ffffff" >Master Lin! </font>
+CanAcceptMenu_55601=<font face="Default" color="#ffffff" >Elder, I heard that the Divine Crystal Jade is here? </font>
+CompleteMenu_55593=<font face="Default" color="#ffffff" >Master, look, here are the rice crackers you wanted! </font><font face="Default" color="#ffffff" >? </font>
+CompleteMenu_55594=Dragon Pattern Runes (Complete)
+CompleteMenu_55595=Dragon Pattern Runes (Complete)
+CompleteMenu_55596=Dragon Pattern Runes (Complete)
+CompleteMenu_55597=Dragon Pattern Runes (Complete)
+CompleteMenu_55598=Dragon Pattern Runes (Complete)
+CompleteMenu_55599=Dragon Pattern Runes (Complete)
+CompleteMenu_55600=<font face="Default" color="#ffffff" >Obedience is better than politeness. </font>
+CompleteMenu_55601=<font face="Default" color="#ffffff" >Divine Crystal Jade (Complete)</font>
+accept_55593_1=<font face="Default" color="#ffffff" >Amitabha. Good that you came over. We are low on </font><font face="Default" color="#ffffff" >rice, chestnuts, dates, nuts and so on. If you can find these rice crackers, I will be grateful! </font>
+accept_55594_1=If you can help me explore the Forbidden Instance, I will give you this token.
+accept_55595_1=If you can help me explore the Forbidden Instance, I will give you this token.
+accept_55596_1=If you can help me explore the Forbidden Instance, I will give you this token.
+accept_55597_1=If you can help me explore the Forbidden Instance, I will give you this token.
+accept_55598_1=If you can help me explore the Forbidden Instance, I will give you this token.
+accept_55599_1=If you can help me explore the Forbidden Instance, I will give you this token.
+accept_55600_1=<font face="Default" color="#ffffff" >You have contributed to Wulin yet again! Please accept my gift. </font>
+accept_55601_1=<font face="Default" color="#ffffff" >Exactly so. </font><font face="Default" color="#ffffff" >Divine Crystal Jade is no ordinary item. Comprehend it well! </font>
+complete_55593=<font face="Default" color="#ffffff" >Amitabha. </font><font face="Default" color="#ffffff" >Thanks. Here’s a gift, please take it. </font>
+complete_55594=Thank you very much!
+complete_55595=Thank you very much!
+complete_55596=Thank you very much!
+complete_55597=Thank you very much!
+complete_55598=Thank you very much!
+complete_55599=Thank you very much!
+complete_55600=<font face="Default" color="#ffffff" >Hahaha, It is good! </font>
+complete_55601=<font face="Default" color="#ffffff" >It seems that you have a lot of experience! </font>
+context_55593=12th Lunar Month is my Buddha’s teaching festival. Are you interested in doing your best for my temple?
+context_55594=Complete Twilight Village, find Dragon Pattern Runes clues. (Twilight Village (Prologue) cannot be completed)
+context_55595=Complete Green Cloud Castle, find Dragon Pattern Runes clues. (Green Cloud Castle (Prologue) cannot be completed)
+context_55596=Complete Peacock Villa, find Dragon Pattern Runes clues. (Peacock Villa (Prologue) cannot be completed)
+context_55597=Complete Yanmen Pass Rebel Route, find Dragon Pattern Runes clues.
+context_55598=Complete Uncontested Secret Area, find Dragon Pattern Runes clues.
+context_55599=Complete Desert Ghost Town, find Dragon Pattern Runes clues.
+context_55600=You are about to face a new challenge. Here is a little gift to help you!
+context_55601=Alliance Leader Lin recently obtained a Divine Crystal Jade. It can help you increase your power.
+menu_55593_1=<font face="Default" color="#ffffff" >Calm down and give it to me! </font>
+menu_55594_1=Give it to me!
+menu_55595_1=Give it to me!
+menu_55596_1=Give it to me!
+menu_55597_1=Give it to me!
+menu_55598_1=Give it to me!
+menu_55599_1=Give it to me!
+menu_55600_1=<font face="Default" color="#ffffff" >You are too polite. </font>
+menu_55601_1=<font face="Default" color="#ffffff" >Comprehend it well! </font>
+submit_55593=<font face="Default" color="#ffffff" >Amitabha. You are most welcome. </font>
+submit_55594=Dragon Pattern Runes (Completed)
+submit_55595=Dragon Pattern Runes (Completed)
+submit_55596=Dragon Pattern Runes (Completed)
+submit_55597=Dragon Pattern Runes (Completed)
+submit_55598=Dragon Pattern Runes (Completed)
+submit_55599=Dragon Pattern Runes (Completed)
+submit_55601=<font face="Default" color="#ffffff" >Divine Crystal Jade (Completed)</font>
+target_55593=12th Lunar Month is my Buddha’s teaching festival. It's a rare opportunity!
+target_55594=Complete Twilight Village
+target_55595=Complete Green Cloud Castle
+target_55596=Complete Peacock Villa
+target_55597=Complete Yanmen Pass Rebel Route
+target_55598=Complete Wuzheng Secret Area
+target_55599=Complete Desert Ghost Town
+target_55600=Go to <a href="findnpc_new,city02,hd_dw_001" style="HLStype1">Lin Liang</a> and receive a present.
+target_55601=Comprehend the Divine Crystal Jade after talking with Chen Xuan
+title_55593=Begging for grains
+title_55594=[Dragon Pattern Runes] Twilight Village
+title_55595=[Dragon Pattern Runes] Green Cloud Castle
+title_55596=[Dragon Pattern Runes] Peacock Villa
+title_55597=[Dragon Pattern Runes] Yanmen Pass Rebel Route
+title_55598=[Dragon Pattern Runes] Uncontested Secret Area
+title_55599=[Dragon Pattern Runes] Desert Ghost Town
+title_55600=All Players Reward
+title_55601=Divine Crystal Jade
+context_55577=You have delivered all the letters for Yan Shuangxing. Now head for Mount Hua to find him. Will he confront the 6 factions by himself?
+context_55586=Complete the instance Twilight Village [Hell]
+context_55587=Complete the instance Green Cloud Castle [Hell]
+context_55588=Complete the instance Longmen Inn [Normal]
+context_55589=Complete the instance Yanmen Pass [Normal]
+context_55590=Complete the instance Yanmen Pass [Hard]
+context_55591=Complete the instance Yanmen Pass [Hell]
+next_55586=Complete the instance Twilight Village [Hell]
+next_55587=Complete the instance Green Cloud Castle [Hell]
+next_55588=Complete the instance Longmen Inn [Normal]
+next_55589=Complete the instance Yanmen Pass [Normal]
+next_55590=Complete the instance Yanmen Pass [Hard]
+next_55591=Complete the instance Yanmen Pass [Hell]
+target_55577=Go to Mount Hua and find Yan Shuangxing (Speak with <a href="findnpc_new,city02,5nei_gbmdt001" style="HLStype1">Li Li</a> to teleport to Mount Hua)
 target_55586=Complete the instance Twilight Village [Hell]
 target_55587=Complete the instance Green Cloud Castle [Hell]
 target_55588=Complete the instance Longmen Inn [Normal]
 target_55589=Complete the instance Yanmen Pass [Normal]
 target_55590=Complete the instance Yanmen Pass [Hard]
 target_55591=Complete the instance Yanmen Pass [Hell]
-target_55592=Go to Yan Lun to find out about Master Kong Gift
-title_55583=All Server Workbench
-title_55584=Life and Death Rune - Rune slave
-title_55585=Sacred Fire Elder Gift
 title_55586=Twilight Village (Hell)
 title_55587=Nightshadow Fortress (Hell)
 title_55588=Longmen Inn (Normal)
 title_55589=Yanmen Pass Defender (Normal)
 title_55590=Yanmen Pass Defender (Hard)
 title_55591=Yanmen Pass Defender (Hell)
-title_55592=Master Kong Gift
-menu_55529_1=<font face="Default" color="#ffffff" >An Imperial Edict Iron Ticket? How can all the Eight Schools have it? I have never heard Headmaster mention it.</font>
 

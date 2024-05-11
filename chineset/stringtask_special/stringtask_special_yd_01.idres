@@ -2658,7 +2658,6 @@ interactinfo_338=學會了使用落腳點，看<a href="findnpc_new,city01,hbyd0
 interactinfo_339=學會了使用落腳點，看<a href="findnpc_new,city02,hbyd002" style="HLStype1">李龍</a>還有什麼要吩咐
 interactinfo_340=學會了使用落腳點，看<a href="findnpc_new,city04,hbyd004" style="HLStype1">馬奇松</a>還有什麼要吩咐
 interactinfo_341=學會了使用落腳點，看<a href="findnpc_new,city05,hbyd005" style="HLStype1">單悅</a>還有什麼要吩咐
-interactinfo_350=前往<a href="findnpc_new,city03,Event_wmp_2ndy_51262" style="HLStype1">禮部</a>觀禮
 interactinfo_400=前往<a href="findnpc_new,city03,Event_wmp_2ndy_51263" style="HLStype1">太廟</a>附近參加宴席
 interactinfo_402=與<a href="findnpc_new,school07,WorldNpc04404" style="HLStype1">玉璇子</a>交談
 interactinfo_403=與<a href="findnpc_new,school08,WorldNpc00210" style="HLStype1">祖鏡禪師</a>交談
@@ -2670,15 +2669,12 @@ interactinfo_408=與<a href="findnpc_new,school01,WorldNpc04103" style="HLStype1
 interactinfo_409=與<a href="findnpc_new,school04,WorldNpc03811" style="HLStype1">霧狐</a>交談
 interactinfo_410=與迎賓的<a href="findnpc,city03,700,5,1504" style="HLStype1">小紅</a>對話進入場內
 interactinfo_411=<a href="findnpc,city03,634,4,1493" style="HLStype1">落座</a>後與賓客對飲（點擊凳子坐下後即可與賓客對飲）
-interactinfo_412=前往<a href="findnpc_new,city03,Event_wmp_2ndy_51262" style="HLStype1">禮部</a>觀禮
 interactinfo_413=前往<a href="findnpc_new,city03,Event_wmp_2ndy_51263" style="HLStype1">太廟</a>附近參加宴席
 interactinfo_414=與迎賓的<a href="findnpc,city03,700,5,1504" style="HLStype1">小紅</a>對話進入場內
 interactinfo_415=<a href="findnpc,city03,634,4,1493" style="HLStype1">落座</a>後與賓客對飲（點擊凳子坐下後即可與賓客對飲）
-interactinfo_416=前往<a href="findnpc_new,city03,Event_wmp_2ndy_51262" style="HLStype1">禮部</a>觀禮
 interactinfo_417=前往<a href="findnpc_new,city03,Event_wmp_2ndy_51263" style="HLStype1">太廟</a>附近參加宴席
 interactinfo_418=與迎賓的<a href="findnpc,city03,700,5,1504" style="HLStype1">小紅</a>對話進入場內
 interactinfo_419=<a href="findnpc,city03,634,4,1493" style="HLStype1">落座</a>後與賓客對飲（點擊凳子坐下後即可與賓客對飲）
-interactinfo_420=前往<a href="findnpc_new,city03,Event_wmp_2ndy_51262" style="HLStype1">禮部</a>觀禮
 interactinfo_430=前往<a href="findnpc_new,city03,Event_wmp_2ndy_51263" style="HLStype1">太廟</a>附近參加宴席
 interactinfo_445=與迎賓的<a href="findnpc,city03,700,5,1504" style="HLStype1">小紅</a>對話進入場內
 interactinfo_446=<a href="findnpc,city03,634,4,1493" style="HLStype1">落座</a>後與賓客對飲（點擊凳子坐下後即可與賓客對飲）
@@ -3296,4 +3292,8 @@ DialogID_498=<font face="Default" color="#ffffff" >  方纔的切磋很累吧？
 interactinfo_260=與<a href="findnpc_new,born_single_01,funnpcborn003037" style="HLStype1">趙子亟</a>交談
 okmenu_260=<font face="Default" color="#ffffff" >在下隨後就到。</font>
 DialogID_260=<font face="Default" color="#ffffff" >村民大多已經逃到村外，卻一直沒有見到張村長，我得去村長家裡查看一番才是。</font>
+interactinfo_350=前往<a href="findnpc_new,city03,Event_wmp_2ndy_51262" style="HLStype1">禮部</a>觀禮（可以讓<a href="findnpc_new,born04,WorldNpc00068" style="HLStype1">欒夏</a>帶你過去）
+interactinfo_412=前往<a href="findnpc_new,city03,Event_wmp_2ndy_51262" style="HLStype1">禮部</a>觀禮（可以讓<a href="findnpc_new,born03,yyz093" style="HLStype1">譚成奎</a>帶你過去）
+interactinfo_416=前往<a href="findnpc_new,city03,Event_wmp_2ndy_51262" style="HLStype1">禮部</a>觀禮（可以讓<a href="findnpc_new,city05,WorldNpc09759" style="HLStype1">易環楓</a>帶你過去）
+interactinfo_420=前往<a href="findnpc_new,city03,Event_wmp_2ndy_51262" style="HLStype1">禮部</a>觀禮(可以讓<a href="findnpc_new,born01,WorldNpc00961" style="HLStype1">石水</a>帶你過去)
 

@@ -678,4 +678,45 @@ title_52081=Suspicious Man
 title_52082=Fight of Intelligence (Ming Cult)
 title_52709=Fight of Intelligence (Ming Cult)
 accept_52054_1=<font face="Default" color="#ffffff" >Help me gether some information from the other schools. Any intelligence report you collect can be submitted to He Pianpian at Wanderer's Valley.</font>
+CanAcceptMenu_52083=<font face="Default" color="#ffffff" >Shenji Camp weekly spy mission (cannot be abandoned) </font>
+CanAcceptMenu_52085=<font face="Default" color="#ffffff" >What are you orders? </font>
+CanAcceptMenu_52086=<font face="Default" color="#ffffff" >Has someone been spying around here? </font>
+CanAcceptMenu_52087=<font face="Default" color="#ffffff" >Shenji Camp weekly spy mission (cannot be abandoned) </font>
+CompleteMenu_52083=<font face="Default" color="#ffffff" >I have spied on those schools. </font>
+CompleteMenu_52085=<font face="Default" color="#ffffff" >I have reclaimed lots of stolen information.</font>
+CompleteMenu_52086=<font face="Default" color="#ffffff" >Fulfill the task.</font>
+CompleteMenu_52087=<font face="Default" color="#ffffff" >I have spied on those schools. </font>
+accept_52083_1=<font face="Default" color="#ffffff" >Something big might have happened. Go and find out. </font>
+accept_52085_1=<font face="Default" color="#ffffff" >We've found many spies in Ming Cult Territory <font face="Default" color="#ffffff" >recently</font>. Patrol all around please. </font>
+accept_52086_1=<font face="Default" color="#ffffff" >A suspicious person was spotted around here. Find them and see if they've stolen any Intelligence. </font>
+accept_52087_1=<font face="Default" color="#ffffff" >Something big might have happened. Go and find out. </font>
+complete_52083=<font face="Default" color="#ffffff" >Well done. You didn't let me down. You have a very bright future! </font>
+complete_52085=<font face="Default" color="#ffffff" >Well done! I'll return it to the </font><font face="Default" color="#ffffff" >Ming Cult</font><font face="Default" color="#ffffff" > soon. </font>
+complete_52086=<font face="Default" color="#ffffff">Good luck. You have done well.</font>
+complete_52087=<font face="Default" color="#ffffff" >Well done. You didn't let me down. You have a very bright future! </font>
+context_52083=The intelligence fight between schools is getting increasingly fierce. More and more disciples participate in intelligence collection, yet the intelligence quality is uneven. In order to encourage disciples to collect more valuable intelligence, the Shenji Camp Leader Shaojun decides to reward disciples who can finish the spy task according to his requirements with 14 School Honor Certificates (Only once a week. Can be taken again only the next week after completing the previous task. Upon submitting the Weekly Quest all the extra Headmaster's Spy Mission Tokens will be revoked. Please plan your Spy Missions carefully!)
+context_52085=Ming Cult is in the same spirit as our Shenji Camp, taking care of us a lot, and we can do our best to patrol them and repay their kindness. There have been lots of suspicious people snooping around Ming Cult lately. They may be here to spy on us. Catch them and find out what they know. Coordinates where suspicious people may appear (7,-304); (62,-89); (Kill spies or defeat suspicious people and obtain their information.)
+context_52086=In this sneaky, must be other martial art came to spy, beat them back to the stolen intelligence. (Patrol the patrol day patrol mission can be completed, after the completion of access to a message)
+context_52087=The intelligence fight between schools is getting increasingly fierce. More and more disciples participate in intelligence collection, yet the intelligence quality is uneven. In order to encourage disciples to collect more valuable intelligence, the Shenji Camp Leader Shaojun decides to reward disciples who can finish the spy task according to his requirements with 14 School Honor Certificates (Only once a week. Can be taken again only the next week after completing the previous task. Upon submitting the Weekly Quest all the extra Headmaster's Spy Mission Tokens will be revoked. Please plan your Spy Missions carefully!)
+menu_52083_1=<font face="Default" color="#ffffff">Yes. I will obey your order.</font>
+menu_52085_1=<font face="Default" color="#ffffff" >I see. I'll return soon.</font>
+menu_52086_1=<font face="Default" color="#ffffff" >You can count on me. </font>
+menu_52087_1=<font face="Default" color="#ffffff">Yes. I will obey your order.</font>
+next_52080=
+next_52083=
+next_52085=
+next_52086=
+next_52087=
+submit_52083=<font face="Default" color="#ffffff" >Many thanks, Camp Master! </font>
+submit_52085=<font face="Default" color="#ffffff" >Thank you! </font>
+submit_52086=<font face="Default" color="#ffffff" >I took care of the spy. </font>
+submit_52087=<font face="Default" color="#ffffff" >Many thanks, Camp Master! </font>
+target_52083=Do as the Leader of Shenji Camp commanded. Finish spying on the named school.
+target_52085=Complete School patrol 4 times
+target_52086=Defeat suspicious persons.
+target_52087=Do as the Leader of Shenji Camp commanded. Finish spying on the named school.
+title_52083=Fight of Intelligence (Shenji Camp)
+title_52085=Everyday school patrol.
+title_52086=Suspicious Man
+title_52087=Fight of Intelligence (Shenji Camp)
 

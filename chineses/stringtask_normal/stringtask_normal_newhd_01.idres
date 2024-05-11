@@ -582,10 +582,6 @@ target_70054=Complete Heart of the Devil trial once.
 target_70055=Defeat any Faction once.
 target_70056=Complete the Forbidden Instance once.
 target_70057=Win the Battlefield once.
-title_70054=Model of Marital Practice - Heart of the Devil
-title_70055=Model of Marital Practice - Martial Arts Club Challenge
-title_70056=Model of Marital Practice - Forbidden Instance
-title_70057=Model of Marital Practice - Battlefield
 CanAcceptMenu_70059=<font face="Default" color="#ffffff" >Complete the Heaven Reaching Peak to get rewards</font>
 CompleteMenu_70059=<font face="Default" color="#ffffff" >Complete the Heaven Reaching Peak to get rewards (can submit)</font>
 accept_70059_1=<font face="Default" color="#ffffff" >Heaven Reaching Peak is open. Are you ready for the challenge? You will get rewards if you complete it! </font>
@@ -1153,4 +1149,93 @@ context_70078=During the event, you can claim Colorful Holiday Quest (2) at Lin 
 target_70077=Claim Colorful Holiday Quest at Lin Liang the Event Ambassador. After completing you will get May Day Token. (Only VIP players can accept)
 target_70078=Claim Colorful Holiday Quest (2) at Lin Liang the Event Ambassador. After completing you will get May Day Return Token. (Only VIP players can accept)
 context_70083=Trouble Rising Again quest are added to increase your might. After completing the corresponding quest you will get Trouble Rising Again Certificate. You can exchange for rewards such as school reversal meridian items (level 1-180), 3000000 Cultivation Perfusion Pack, 1500000 Cultivation Pack and so on with the certificate at Suzhou (472, 314) Fan Hongju.
+CanAcceptMenu_70162=<font face="Default" color="#ffffff" >Fair Child of June 1</font>
+CompleteMenu_70162=<font face="Default" color="#ffffff" >Fulfill the task.</font>
+accept_70162_1=<font face="Default" color="#ffffff" >I have some mud balls here. If you throw them at other people today, they won't hit you (evil smirk)</font>
+complete_70162=<font face="Default" color="#ffffff" >Hahaha, has someone kicked your ass?</font><font face="Default" color="#ffffff" >Here is a gift compensation for you. </font>
+context_70160=In Jianghu, you don’t have to fight all day long, but occasionally you can return to the innocence and experience this innocent child life!
+context_70162=When you small, use the mud balls on other players five times and I will give you a gift.
+menu_70162_1=<font face="Default" color="#ffffff" >Then give me some. </font>
+next_70162=
+submit_70162=<font face="Default" color="#ffffff" >I will throw you next time, humph. </font>
+target_70160=Talk to Tang Hulu Vendor
+target_70162=Throw mud balls five times on other players
+CanAcceptMenu_70145=<font face="Default" color="#ffffff" >Invite the group of heroes to gather Laba (Can Accept)</font>
+CompleteMenu_70145=<font face="Default" color="#ffffff" >Invite the group of heroes to gather Laba (Can submit)</font>
+accept_70145_1=<font face="Default" color="#ffffff" >Laba is coming, I have gone to check the situation of the Laba porridge on Hero Island, and I am going to distribute a greeting card and invite heroes to go to Hero Island to have porridge together. However, there is not enough manpower. Need your help to deliver the greeting. </font>
+complete_70145=<font face="Default" color="#ffffff" >Here is your reward. Please take it.</font>
+context_70145=Laba is coming, and Alliance Leader Lin Tiannan gone to check the situation of the Laba porridge on Hero Island, and going to distribute a greeting card and invite heroes to go to Hero Island to have porridge together. However, there is not enough manpower. Need your help to deliver the greeting.
+menu_70145_1=<font face="Default" color="#ffffff" >All right.</font>
+submit_70145=<font face="Default" color="#ffffff" >Thank you.</font>
+target_70145=Talk to Xiang Jun, request him to send the invitation notes to the grandmasters.
+target_70146=Send the laba porridge prepared by the Tavern Owner Meng Guang to the elderly
+title_70145=Invite the group of heroes to gather Laba
+context_70147=During the 12th Lunar Month event (2018.01.18-2018.01.31), all the players can claim a 12th Lunar Month Pack at Lin Liang the Festival Ambassador.
+context_70148=On the Laba event day (2018.01.24), all the players can claim a Laba Gift Pack at Lin Liang the Festival Ambassador.
+target_70147=Find Lin Liang the Event Ambassador and claim 12th Lunar Month Pack.
+target_70148=Find Lin Liang the Event Ambassador and claim Laba Gift Pack.
+title_70147=12th Lunar Month presents
+title_70148=Laba Gift Pack presents
+context_70149=During the New Year event (2018.02.8-2018.02.28), players can go to Suzhou Jing Huijuan (432 812) to receive a Spring Festival Large Gift Pack.
+context_70150=During the Pay a New Year Visit event (2018.02.16), players can go to Suzhou Jing Huijuan (432 812) to receive a Spring Festival Visit Pack.
+context_70151=During the event, all the players can claim a New Year Martial Art Certificate at Lin Liang the Festival Ambassador.
+target_70151=Find Lin Liang the Event Ambassador and claim New Year Martial Art Certificate.
+title_70151=Martial Art Heroes
+context_70152=The Women's Day is coming, and I've prepared some gifts for you the beauties. Don't forget to claim them.
+target_70152=Miss No.1
+title_70152=Miss No.1
+context_70153=During the event, VIP players who have reached Untapped Potential can claim a Student Gift Pack at Yan Lun the Suzhou Study Master (471, 434)
+title_70153=Enter school and claim rewards.
+target_70153=Claim a Student Gift Pack at Yan Lun the Suzhou Study Master.
+CanAcceptMenu_70157=<font face="Default" color="#ffffff" >Wulin Invitation Note (can accept)</font>
+CompleteMenu_70157=<font face="Default" color="#ffffff" >Wulin Invitation Note (Complete)</font>
+accept_70157_1=<font face="Default" color="#ffffff" >Due to the fact that the Lord Qin Manor is a hindrance, the gap between Wulin and the court is increasing. In order to alleviate the conflicts between Wulin factions and the court, all heroes are invited to present greeting cards to the leaders. Asked the disciples in the comfort gate not to be provoked by the wicked and disturb the unity of the Central Plains Wulin. </font>
+complete_70157=<font face="Default" color="#ffffff" >Here is your reward. Please take it.</font>
+context_70157=Due to the fact that the Lord Qin Manor is a hindrance, the gap between Wulin and the court is increasing. In order to alleviate the conflicts between Wulin factions and the court, all heroes are invited to present greeting cards to the leaders. Alliance Leader asks the disciples in the comfort gate not to be provoked by the wicked and disturb the unity of the Central Plains Wulin.
+menu_70157_1=<font face="Default" color="#ffffff" >All right.</font>
+submit_70157=<font face="Default" color="#ffffff" >Thank you.</font>
+target_70157=Talk to Xiang Jun, request him to send the invitation notes to the grandmasters.
+title_70157=Wulin Invitation
+context_70154=During the event, give 1 Wood Material to Hermit in Outskirt of Jinling (1482 70) to get 1 Bonfire Certificate and 1 Snow Lotus Fruit.
+context_70155=During the event, give 10 Wood Materials to Hermit in Outskirt of Jinling (1482 70) to get 10 Bonfire Certificates and 10 Snow Lotus Fruit.
+context_70156=During the event, give 50 Wood Materials to Hermit in Outskirt of Jinling (1482 70) to get 50 Bonfire Certificates and 50 Snow Lotus Fruit.
+target_70154=Give 1 Bonfire Wood to Hermit (1482 70)
+target_70155=Give 10 Bonfire Woods to Hermit (1482 70)
+target_70156=Give 50 Bonfire Woods to Hermit (1482 70)
+title_70154=Gather 1 Bonfire Wood
+title_70155=Gather 10 Bonfire Woods
+title_70156=Gather 50 Bonfire Woods
+title_70160=Jianghu Prodigy Appears Fair Child of June 1
+title_70162=Fair Child of June 1
+context_70158=During the Diligent Warrior event, all the players can claim a Diligent Warrior Gift Pack at Lin Liang the Festival Ambassador.
+context_70159=During the Diligent Warrior Check In event, all the players can go to Suzhou Yan Lun (472.433) to claim May Day Sign-in Pack.
+target_70158=Find Lin Liang the Event Ambassador and claim Diligent Warrior Gift Pack.
+target_70159=Go to Suzhou Yan Lun (472.433) to claim May Day Sign-in Pack.
+title_70158=Diligent Warrior
+title_70159=Diligent Warrior Check In
+context_70161=During the Vanguard Cliff event, all the players can claim an Vanguard Cliff All Players Reward at Lin Liang the Festival Ambassador.
+target_70161=Find Lin Liang the Event Ambassador and claim Vanguard Cliff All Players Reward.
+title_70161=All Players Reward All Enjoy
+context_70163=During the event period, log in and head to Event Ambassador Lin Liang to get Dragon Boat Festival Gift Pack. (Each character can get it only once.)
+target_70163=Find Lin Liang. Get the Dragon Boat Festival Gift Pack.
+title_70163=It's Dragon Boat Festival again. Here's gift pack for everyone.
+CanAcceptMenu_70163=<font face="Default" color="#ffffff" >It's Dragon Boat Festival again. Here's gift pack for everyone.</font>
+CompleteMenu_70163=<font face="Default" color="#ffffff" >Fulfill the task.</font>
+accept_70163_1=<font face="Default" color="#ffffff" >Dragon Boat Festival… It's that time of year again. Come to me during the festival period for a prize! </font>
+complete_70163=<font face="Default" color="#ffffff" >Have a good trip. </font>
+menu_70163_1=<font face="Default" color="#ffffff" >Thank you.</font>
+submit_70163=<font face="Default" color="#ffffff" >I'm leaving now.</font>
+CanAcceptMenu_70164=<font face="Default" color="#ffffff" >Summer Jianghu Pack</font>
+CompleteMenu_70164=<font face="Default" color="#ffffff" >Complete task Summer Jianghu Pack</font>
+accept_70164_1=<font face="Default" color="#ffffff" >This time of year again.</font><font face="Default" color="#ffffff" >Summer</font>. <font face="Default" color="#ffffff" >Come</font> <font face="Default" color="#ffffff" >to me during the festival period for a prize! </font>
+complete_70164=<font face="Default" color="#ffffff" >Have a good trip.</font>
+context_70164=During the event, log in and visit the Event Ambassador Lin Liang to get a Summer Jianghu Pack (each character can get only 1)
+menu_70164_1=<font face="Default" color="#ffffff" >Thank you.</font>
+submit_70164=<font face="Default" color="#ffffff" >I'm leaving now.</font>
+target_70164=Find Lin Liang, collect Summer Jianghu Pack
+title_70164=Summer Jianghu Pack
+title_70054=Model of Marital Practice - Heart of the Devil
+title_70055=Model of Marital Practice - Martial Arts Club Challenge
+title_70056=Model of Marital Practice - Forbidden Instance
+title_70057=Model of Marital Practice - Battlefield
 

@@ -358,7 +358,6 @@ SubmitNpcEx_55565=Ask <a href="findnpc_new,city03,NPC_5nei_z2_ll" style="HLStype
 SubmitNpcEx_55569=Lian Qingcheng will have to get to Suzhou before going to Delightful Island. Investigate within <a href="findnpc_new,city02,NPC_5nei_z2_shh" style="HLStype1">Suzhou</a>
 SubmitNpcEx_55574=Promise <a href="findnpc_new,city02,NPC_5nei_z2_cx1" style="HLStype1">Chu Xiao</a> and then head to the Scholars.
 SubmitNpcEx_55575=Find<a href="findnpc_new,school03,NPC_5nei_z2_msz" style="HLStype1">Mu Shuzi</a>.
-SubmitNpcEx_55577=Find <a href="findnpc_new,city02,5nei_gbmdt001" style="HLStype1">Li Li</a> (Click Yan Shuangxing's mount to leave Mount Hua)
 collectinfo_80514=Pick an <a href="findnpc_new,,Gather_5nei_nx_hua" style="HLStype1">Obscure Flower </a> from this dungeon(If you fail, give up or complete the task then<a href="findnpc_new,school07,PlotDoor_5nei_nx_sl" style="HLStype1">leave the area</a>）
 collectinfo_80515=Gather some <a href="findnpc_new,school07,Gather_5nei_wd_yao" style="HLStype1">Shanmu Grass</a> to heal He's wounds.
 collectinfo_80516=Bring <a href="findnpc_new,school07,Gather_5nei_wd_diao" style="HLStype1">Tuan Tuan </a> back to Little Walnut.
@@ -395,7 +394,6 @@ interactinfo_80543=Defeat the guards and chase after <a href="findnpc_new,city05
 interactinfo_80546=Agree to <a href="findnpc_new,city02,NPC_5nei_z2_sq1" style="HLStype1">Shique's</a> conditions.
 interactinfo_80547=Bring Yang Que to <a href="findnpc_new,city02,NPC_5nei_z2_sq1" style="HLStype1">Elder Shique</a>.
 interactinfo_80548=Find <a href="findnpc_new,school03,Event_5nei_z2_55575" style="HLStype1">Mu Shuzi</a>.
-interactinfo_80550=Stand <a href="findnpc_new,groupscene008_5nei,Event_5nei_z2_55577" style="HLStype1">aside</a> and see what Yan Shuangxing is doing (If you are not near Yan, find <a href="findnpc_new,city02,5nei_gbmdt001" style="HLStype1">Li Li</a> and have her help you get there. Click Yan's mount to leave)
 okmenu_80526=<font face="Default" color="#ffffff" >(Ye Jinglou must have been assuming Lian Qingcheng's identity) This is what he had me to deliver to you. </font>
 okmenu_80532=<font face="Default" color="#ffffff">It's at the other side of the mountain. </font>
 okmenu_80536=<font face="Default" color="#ffffff" >Thank you!</font>
@@ -562,8 +560,6 @@ storyinfo_80566=Check on <a href="findnpc_new,city02,NPC_5nei_z2_cx1" style="HLS
 storyinfo_80570=Explain why you are here to <a href="findnpc_new,school03,NPC_5nei_z2_msz" style="HLStype1">Mu Shuzi</a>.
 storyinfo_80571=How is <a href="findnpc_new,school03,NPC_5nei_z2_xjk" style="HLStype1">Xing Junke</a> here?
 storyinfo_80572=Listen to the <a href="findnpc_new,school03,NPC_5nei_z2_cn" style="HLStype1">Ugly Lady</a>.
-storyinfo_80573=All messages delivered. Find <a href="findnpc_new,groupscene008_5nei,NPC_5nei_z2_ysx1" style="HLStype1">Yan Shuangxing</a> (Find <a href="findnpc_new,city02,5nei_gbmdt001" style="HLStype1">Li Li</a> to help you get to Mount Hua. If you need to leave, click Yan's mount)
-storyinfo_80574=Speak with <a href="findnpc_new,groupscene008_5nei,NPC_5nei_z2_ysx1" style="HLStype1">Yan Shuangxing</a>(Find <a href="findnpc_new,city02,5nei_gbmdt001" style="HLStype1">Li Li</a> to help you get to Mount Hua. If you need to leave, click Yan's mount)
 storyinfo_80575=Speak with <a href="findnpc_new,school07,npc_5neidh_wd" style="HLStype1">Uncle Xu</a>.
 storyinfo_80576=Have the <a href="findnpc_new,school07,NPC_5nei_wd_lh1" style="HLStype1">old man</a> fight you first.
 storymenu_80530_1=<font face="Default" color="#ffffff" >As long as you agree! </font>
@@ -645,7 +641,7 @@ useiteminfo_80509=Use the <a href="TASK_ITEM,useitem_5nei_z2_ct" style="HLStype1
 story_menu_80567=<font face="Default" color="#ffffff" ></font><font face="Default" color="#ffffff" >I have urgent business with the manager of Beast Villa. Seeing how you are here, there must be some important figures keeping you company! </font>
 storyinfo_80567=Visit the <a href="findnpc_new,school03,NPC_5nei_z2_sxj" style="HLStype1">Fourth Lady</a> of Beast Villa.
 storyinfo_80568=Deliver Yan's message to the <a href="findnpc_new,school03,NPC_5nei_z2_ws" style="HLStype1">Beast Villa Manager</a>.
-SubmitNpcEx_57031=Submit the task to <a href="findnpc_new,school03,npc_5neidh_jzt" style="HLStype1">Cao Xuemo</a>(Finishing this task activates Scholars fifth internal task and following tasks cannot be abandoned)
+SubmitNpcEx_57031=Submit the task to <a href="findnpc_new,school03,npc_5neidh_jzt" style="HLStype1">Cao Xuemo</a> (Finishing this task activates Scholars fifth internal task and the following tasks cannot be abandoned)
 DialogID_80552=<font face="Default" color="#ffffff" >Oh? You arrested him?</font>
 SubmitNpcEx_55580=Say goodbye to <a href="findnpc_new,city02,yxhd_dy_xbt1" style="HLStype1">Constable Xing</a>.
 SubmitNpcEx_55581=You've done the work of looking after the peony flowers. Ask <a href="findnpc_new,city02,meigui" style="HLStype1">Flower Lady</a> what to do next.
@@ -678,12 +674,6 @@ SubmitNpcEx_55589=<a href="findnpc_new,city05,world_npc_ybsz_01" style="HLStype1
 SubmitNpcEx_55590=<a href="findnpc_new,city05,world_npc_ybsz_01" style="HLStype1">Rare Treasure Envoy</a>
 SubmitNpcEx_55591=<a href="findnpc_new,city05,world_npc_ybsz_01" style="HLStype1">Rare Treasure Envoy</a>
 SubmitNpcEx_55592=<a href="findnpc_new,city02,WorldNpc01097" style="HLStype1">Yan Lun</a>
-specialinfo_4001=Complete the instance Twilight Village [Hell]
-specialinfo_4002=Complete the instance Green Cloud Castle [Hell]
-specialinfo_4003=Complete the instance Longmen Inn [Normal]
-specialinfo_4004=Complete the instance Yanmen Pass [Hard]
-specialinfo_4005=Complete the instance Yanmen Pass [Hell]
-specialinfo_4006=Complete the instance Yanmen Pass [Normal]
 useiteminfo_80523=Use <a href="TASK_ITEM,useitem_ssfnpc_dy_01" style="HLStype1">Messy Heart Dust</a> on <a href="findnpc_new,scene25,NPC_ssfnpc_dy_01" style="HLStype1">Wu Fenghan</a>. The rune has distorted his face, even his mother won't recognize him now!
 useiteminfo_80524=Use <a href="TASK_ITEM,useitem_ssfnpc_dy_01" style="HLStype1">Messy Heart Dust</a> on <a href="findnpc_new,scene25,NPC_ssfnpc_dy_02" style="HLStype1">Chen Yishun</a>. He used to be a Shaolin disciple, skipped classes in Sutra Pavilion, injured many disciples and tried to escape. More than sixty days in there, how curious! How much longer can he last?
 useiteminfo_80525=Use <a href="TASK_ITEM,useitem_ssfnpc_dy_01" style="HLStype1">Messy Heart Dust</a> on <a href="findnpc_new,scene25,NPC_ssfnpc_dy_03" style="HLStype1">Deng Jingjun</a>, he dares to come to Lingxiao City, let him taste Messy Heart Dust!
@@ -692,4 +682,25 @@ useiteminfo_80527=Use <a href="TASK_ITEM,useitem_ssfnpc_dy_01" style="HLStype1">
 useiteminfo_80528=Use <a href="TASK_ITEM,useitem_ssfnpc_dy_01" style="HLStype1">Messy Heart Dust</a> on <a href="findnpc_new,scene25,NPC_ssfnpc_dy_06" style="HLStype1">Ji Shaozheng</a>. He has no tongue. And he won't be the last one to have it cut out!
 useiteminfo_80529=Use <a href="TASK_ITEM,useitem_ssfnpc_dy_01" style="HLStype1">Messy Heart Dust</a> on <a href="findnpc_new,scene25,NPC_ssfnpc_dy_07" style="HLStype1">Shan Yucheng</a>. He is dying. Let's put a smile on his face!
 useiteminfo_80530=Use <a href="TASK_ITEM,useitem_ssfnpc_dy_01" style="HLStype1">Messy Heart Dust</a> on <a href="findnpc_new,scene25,NPC_ssfnpc_dy_08" style="HLStype1">Yu Ming</a>. This one has been here for over forty days. I'm afraid today is his last one!
+SubmitNpcEx_55593=Give the "Five Crops Pack" to <a href="findnpc_new,city02,npc_wugu_dy_01" style="HLStype1">monk Huizhi</a>
+SubmitNpcEx_55594=<a href="findnpc_new,city05,world_npc_ybsz_01" style="HLStype1">Rare Treasure Envoy</a>
+SubmitNpcEx_55595=<a href="findnpc_new,city05,world_npc_ybsz_01" style="HLStype1">Rare Treasure Envoy</a>
+SubmitNpcEx_55596=<a href="findnpc_new,city05,world_npc_ybsz_01" style="HLStype1">Rare Treasure Envoy</a>
+SubmitNpcEx_55597=<a href="findnpc_new,city05,world_npc_ybsz_01" style="HLStype1">Rare Treasure Envoy</a>
+SubmitNpcEx_55598=<a href="findnpc_new,city05,world_npc_ybsz_01" style="HLStype1">Rare Treasure Envoy</a>
+SubmitNpcEx_55599=<a href="findnpc_new,city05,world_npc_ybsz_01" style="HLStype1">Rare Treasure Envoy</a>
+SubmitNpcEx_55600=Go to <a href="findnpc_new,city02,hd_dw_001" style="HLStype1">Lin Liang</a> and receive a present.
+SubmitNpcEx_55601=Report to <a href="findnpc_new,city04,huodong_dy_51" style="HLStype1">Chen Xuan</a>
+interactinfo_80554=Talk to Chen Xuan to start "Divine Crystal Jade" cultivation (Attack the "Divine Crystal Jade" to complete the task)
+interactinfo_80555=Talk to Chen Xuan to start "Divine Crystal Jade" cultivation (Attack the "Divine Crystal Jade" to complete the task)
+SubmitNpcEx_55577=Find <a href="findnpc_new,city02,5nei_gbmdt001" style="HLStype1">Li Li</a> (Click Yan Shuangxing's mount to leave Mount Hua)
+interactinfo_80550=Stand <a href="findnpc_new,groupscene008_5nei,Event_5nei_z2_55577" style="HLStype1">aside</a> and see what Yan Shuangxing is doing (If you are not near Yan, find <a href="findnpc_new,city02,5nei_gbmdt001" style="HLStype1">Li Li</a> and have her help you get there. Click Yan's mount to leave)
+specialinfo_4001=Complete the instance Twilight Village [Hell]
+specialinfo_4002=Complete the instance Green Cloud Castle [Hell]
+specialinfo_4003=Complete the instance Longmen Inn [Normal]
+specialinfo_4004=Complete the instance Yanmen Pass [Hard]
+specialinfo_4005=Complete the instance Yanmen Pass [Hell]
+specialinfo_4006=Complete the instance Yanmen Pass [Normal]
+storyinfo_80573=All messages delivered. Find <a href="findnpc_new,groupscene008_5nei,NPC_5nei_z2_ysx1" style="HLStype1">Yan Shuangxing</a> (Find <a href="findnpc_new,city02,5nei_gbmdt001" style="HLStype1">Li Li</a> to help you get to Mount Hua. If you need to leave, click Yan's mount)
+storyinfo_80574=Speak with <a href="findnpc_new,groupscene008_5nei,NPC_5nei_z2_ysx1" style="HLStype1">Yan Shuangxing</a>(Find <a href="findnpc_new,city02,5nei_gbmdt001" style="HLStype1">Li Li</a> to help you get to Mount Hua. If you need to leave, click Yan's mount)
 

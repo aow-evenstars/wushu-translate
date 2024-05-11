@@ -678,4 +678,45 @@ title_52081=可疑之人
 title_52082=情報之爭（明教）
 title_52709=情報之爭（明教）
 accept_52054_1=<font face="Default" color="#ffffff" >五仙教向來不問中原之事，此番重出江湖，必須充分瞭解中原九大宗門的情況。你幫我去各大門派刺探一番，有任何消息都可以報告身在極樂谷的何翩翩。</font>
+CanAcceptMenu_52083=<font face="Default" color="#ffffff" >神機營刺探周常任務（此任務不能放棄）</font>
+CanAcceptMenu_52085=<font face="Default" color="#ffffff" >不知前輩有何吩咐？</font>
+CanAcceptMenu_52086=<font face="Default" color="#ffffff" >這裡有人來刺探情報？</font>
+CanAcceptMenu_52087=<font face="Default" color="#ffffff" >神機營刺探周常任務（此任務不能放棄）</font>
+CompleteMenu_52083=<font face="Default" color="#ffffff" >我已經刺探過那些門派了。</font>
+CompleteMenu_52085=<font face="Default" color="#ffffff" >前輩，我截獲了不少被偷走的情報。</font>
+CompleteMenu_52086=<font face="Default" color="#ffffff" >完成任務</font>
+CompleteMenu_52087=<font face="Default" color="#ffffff" >我已經刺探過那些門派了。</font>
+accept_52083_1=<font face="Default" color="#ffffff" >近來有些門派動作頻繁，也許是發生什麼大事了，你去刺探一番，回來向我報告。</font>
+accept_52085_1=<font face="Default" color="#ffffff" >最近</font><font face="Default" color="#ffffff" >明教</font><font face="Default" color="#ffffff" >不太平，各路探子猖獗，我想讓你去幫他們巡查一下。</font>
+accept_52086_1=<font face="Default" color="#ffffff" >這裡有可疑之人出沒，好像已經獲得了不少我門派的情報，你在這四周看看一定要把他們找出來。</font>
+accept_52087_1=<font face="Default" color="#ffffff" >近來有些門派動作頻繁，也許是發生什麼大事了，你去刺探一番，回來向我報告。</font>
+complete_52083=<font face="Default" color="#ffffff" >做的不錯，我沒看錯你，你將來前途無量！</font>
+complete_52085=<font face="Default" color="#ffffff" >太好了，我稍後就送還給</font><font face="Default" color="#ffffff" >明教</font><font face="Default" color="#ffffff" >的人，你做的很好。</font>
+complete_52086=<font face="Default" color="#ffffff" >做的不錯。</font>
+complete_52087=<font face="Default" color="#ffffff" >做的不錯，我沒看錯你，你將來前途無量！</font>
+context_52085=明教跟我們神機營同氣連枝，對我們多番照顧，日常巡邏的事情我們也得出把力，回報他們。最近有很多可疑人物在明教周圍活動，他們很可能是來這裡刺探的，找到他們並把他們手裡的情報搶回來。可疑人可能出現的位置坐標（7，-304）；（62，-89）（擊殺前來刺探的人或者擊敗可疑之人後可獲得情報）
+context_52086=在這裡鬼鬼祟祟的，一定是其他門派前來刺探的，打敗他們拿回被盜走的情報。（承接巡邏日常任務的巡邏弟子可以完成，完成後可獲得一份情報）
+menu_52083_1=<font face="Default" color="#ffffff" >是，屬下遵命！</font>
+menu_52085_1=<font face="Default" color="#ffffff" >好，我去去就回。</font>
+menu_52086_1=<font face="Default" color="#ffffff" >我一定會把他們找出來的。</font>
+menu_52087_1=<font face="Default" color="#ffffff" >是，屬下遵命！</font>
+next_52080=
+next_52083=
+next_52085=
+next_52086=
+next_52087=
+submit_52083=<font face="Default" color="#ffffff" >多謝營主！</font>
+submit_52085=<font face="Default" color="#ffffff" >前輩過獎了！</font>
+submit_52086=<font face="Default" color="#ffffff" >我已經打敗可疑的人了。</font>
+submit_52087=<font face="Default" color="#ffffff" >多謝營主！</font>
+target_52083=按照神機營營主的要求，完成對指定門派的刺探。
+target_52085=完成四次門派巡邏
+target_52086=打敗可疑的人
+target_52087=按照神機營營主的要求，完成對指定門派的刺探。
+title_52083=情報之爭（神機營）
+title_52085=門派日常巡邏
+title_52086=可疑之人
+title_52087=情報之爭（神機營）
+context_52083=門派之間的情報鬥爭愈演愈烈，參與情報收集的弟子越來越多，收集的情報質量參差不齊，為鼓勵弟子們多收集有價值的情報，神機營營主陸少君決定對於能夠按照他的要求完成情報刺探的弟子，獎勵門派榮譽憑證14個（此任務每週只能完成一次，並且只有完成之後的下一周才能重新領取。在提交周常任務時會收回所有多餘的刺探掌門令，請合理安排刺探活動）。
+context_52087=門派之間的情報鬥爭愈演愈烈，參與情報收集的弟子越來越多，收集的情報質量參差不齊，為鼓勵弟子們多收集有價值的情報，神機營營主陸少君決定對於能夠按照他的要求完成情報刺探的弟子，獎勵門派榮譽憑證14個（此任務每週只能完成一次，並且只有完成之後的下一周才能重新領取。在提交周常任務時會收回所有多餘的刺探掌門令，請合理安排刺探活動）。
 

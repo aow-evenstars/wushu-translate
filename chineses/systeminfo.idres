@@ -620,12 +620,6 @@
 15913=Must be in the scene of Longmen Inn.
 15914=It cannot be used in battle.
 15915=You will be discovered if you are too close to the inn. Please stay a safe distance.
-15916=<font color="#FF0000">{@0:Name}</font>’s team cleared Forbidden Instance<font color="#FF0000">{@1:Name} under Normal Difficulty</font> with the Score: <font color="#ffff00">{@2:Name}</font>, and was rewarded with <font color="#ffff00">Money</font>, and <font color="#ffff00">Experience</font>.
-15917=<font color="#FF0000">{@0:Name}</font>’s team cleared Forbidden Instance<font color="#FF0000">{@1:Name} under Hard Difficulty</font> with the Score: <font color="#ffff00">{@2:Name}</font>, and was rewarded with <font color="#ffff00">Money</font>, and <font color="#ffff00">Experience</font>.
-15918=<font color="#FF0000">{@0:Name}</font>’s team cleared Forbidden Instance<font color="#FF0000">{@1:Name} under Hell Difficulty</font> with the Score: <font color="#ffff00">{@2:Name}</font>, and was rewarded with <font color="#ffff00">Money</font> and <font color="#ffff00">Experience</font>.
-15919=<font color="#FF0000">{@0:Name}</font>’s team cleared the Forbidden Instance <font color="#FF0000">{@1:Name} under Normal Difficulty</font> with the Score: <font color="#ffff00">{@2:Name}</font>, created a new record for the instance, and was rewarded with <font color="#ffff00">Money</font> and <font color="#ffff00">Experience</font>.
-15920=<font color="#FF0000">{@0:Name}</font>’s team cleared the Forbidden Instance <font color="#FF0000">{@1:Name} under Hard Difficulty</font> with the Score: <font color="#ffff00">{@2:Name}</font>, created a new record for the instance, and was rewarded with <font color="#ffff00">Money</font> and <font color="#ffff00">Experience</font>.
-15921=<font color="#FF0000">{@0:Name}</font>’s team cleared the Forbidden Instance <font color="#FF0000">{@1:Name} under Hell Difficulty</font> with the Score: <font color="#ffff00">{@2:Name}</font>, created a new record for the instance, and was rewarded with <font color="#ffff00">Money</font> and <font color="#ffff00">Experience</font>.
 15922=You cannot enter any more instances this week. Please come back later.
 15923=Forbidden Instance has been successfully reset.
 15924=You cannot reset the Forbidden Instance at this time.
@@ -1725,7 +1719,6 @@
 19424=Informal Guilds cannot upgrade
 19450=Store owner does not exist. Unable to perform this action.
 19451=Text contains illegal characters. Unable to perform this action.
-19452=You cannot enter this territory as it hasn't been purchased yet.
 19453=Guild is short of the daily popularity quota{@0:hotness}. Guild will degrade in{@1:hour}hours.
 19455={@0:玩家} has recently quit a Guild. Unable to join another Guild at this time.
 19456=You have recently quit a Guild. Unable to accept<font color="#ff0000">{@0:guild}</font>'s the Recruitment Request.
@@ -4962,7 +4955,6 @@ normal_attack=Normal Attack
 12557=Trigger Five Stars Continuous Bead. You can receive extra reward.
 12558=Trigger Five Stars Continuous Bead. You can get a weapon.
 15926=Congratulations, you have cleared the stage and received the rewards! Score {@0:Name}. Time Spent {@1:Name} hours {@2:Name} minutes. Number of challenges: {@3:Name}.
-16103=Fleeing Villagers:
 16104=Fires Extinguished:
 16105=Southern Treasure:
 16106=Eastern Treasure:
@@ -5450,7 +5442,6 @@ ljd1987=Please complete the guide task for Teleport Points and try again.
 15933={@0:Name} cannot enter any more instances this week. Please come back later.
 15934={@0:Name} cannot be found on the map. The operation cannot be performed.
 15935=Only a Team Leader can perform this operation.
-15936=<font color="#FF0000">{@0:Name}</font>’s team cleared Forbidden Instance<font color="#FF0000">{@1:Name} under Inferno Difficulty</font> with the Score: <font color="#ffff00">{@2:Name}</font>, and was rewarded with <font color="#ffff00">Money</font>, and <font color="#ffff00">Experience</font>.
 guild_dc_cant_repeat=Your bid for this round has been placed. Unable to revise your bid.
 guild_dc_no_enough_guild_silver=Unable to bid. Insufficient Guild funds.
 guild_dc_no_enough_self_silver=Unable to bid. Insufficient funds.
@@ -6459,7 +6450,6 @@ failed_jiaoyizhong=Unable to convert when exchanging.
 failed_kaiguangbuzu=Unable to convert if it's not full.
 failed_machezhong=Unable to convert when taking a cart.
 failed_pinzhibugou=Unable to convert if the quality is insufficient.
-failed_qianbuzu=Unable to convert if [Fire Washing Platform] is not enough. It can be bought in Shop.
 failed_shuizhong=Unable to convert in water.
 failed_siren=Unable to convert a dead person.
 failed_suodingwupin=Unable to convert a locked item.
@@ -6467,7 +6457,6 @@ failed_wupincuowu=Please put in the right equipment.
 failed_wupinjinyong=Unable to convert if use of item is forbidden.
 failed_zhandouzhong=Unable to convert during a battle.
 failed_zhongshang=Unable to convert if seriously injured.
-successed_zhuanhuan=Congratulations! Conversion is successful! Consumed {@0:ToInt} [Fire-washing Platform].
 life_sddy_01=Only available to Jianghu VIPs.
 life_sddy_02=You can only get this once per day.
 life_sddy_03=Obtained successfully, the item will be sent by mail.
@@ -8715,7 +8704,6 @@ talk_4nei_sl_01=Who are you? Why are you disguised as an old commoner? Show your
 19665=Setting adjusted!
 19666=Basic points were changed from {@0:points} to {@1:points}.
 19667=<font color="#ff0000">{@0:name1} </font>changed <font color="#ff0000">{@1:name2}</font>'s points from <font color="#ff0000">{@2:score1} </font>to <font color="#ff0000">{@3:score2}</font>. Remark: <font color="#ff0000">{@4:remark}</font>
-19668=<font color="#551A8B">{@0:name1} </font>changed the point setting from <font color="#551A8B">{@1:type1} </font>to <font color="#551A8B">{@2:type2}</font>, and basic points from <font color="#551A8B">{@3:score1} </font>to <font color="#551A8B">{@4:score2}.</font>
 19669=Cleared!
 19670=Converted!
 19671=Are you sure you want to clear the number of activities?
@@ -8723,8 +8711,6 @@ talk_4nei_sl_01=Who are you? Why are you disguised as an old commoner? Show your
 19673=Are you sure you want to deduct <font color="#ff0000">{@0:name}</font>'s points by <font color="#ff0000">{@1:score}</font>?
 19674=<font color="#ff0000">Modify points:</font>{@:0player} <font color="#ff0000">increased </font>{@:1player}<font color="#ff0000">'s points by </font>{@:2point}<font color="#ff0000">.</font>
 19675=<font color="#ff0000">Modify points:</font>{@:0player} <font color="#ff0000">subtracted </font>{@:1player}<font color="#ff0000">'s points by </font>{@:2point}<font color="#ff0000">.</font>
-19676=<font color="#008B00">Setting points:</font>{@:0player} <font color="#008B00">set up </font>{@:1type}<font color="#008B00">'s unit point to </font>{@:2point}<font color="#008B00">.</font>
-19677=<font color="#008B00">Setting points:</font>{@:0player} <font color="#008B00">deleted </font>{@:1type} <font color="#008B00">record item and added </font>{@:2type} <font color="#008B00">record item, and set the basic point to </font>{@:2point}<font color="#008B00">.</font>
 19679=<font color="#ff0000">{@0:name} </font>cleared everyone's number of activities.
 19680=<font color="#ff0000">{@0:name} </font>converted <font color="#ff0000">{@1:name}</font>'s points from <font color="#ff0000">{@2:score} </font>to <font color="#ff0000">{@3:score}.</font>
 19683=I'm sorry. Because you are not the team Leader, you cannot operate it.
@@ -10645,7 +10631,6 @@ ShiTu_Point=Apprenticeship Value
 91175=Hot Spring activity has ended.
 91176=Hot Spring activity is not available now!
 91177=It's not Hot Spring activity time, or you are not in Hot Spring area.
-91178=Your cultivation in Hot Spring has reached the limit today.
 9755=They do not want to interact with you because you are not a Jianghu VIP player.
 9756=Only Jianghu VIP players can call partners for help.
 9760=You already have a partner and temporarily cannot meet new ones. However, this function may be subsequently allowed in the future.
@@ -14735,7 +14720,6 @@ tips_jyz_count_total_7_5_1=Head to Yanjing suburb <font color="#ff1cae" >（479 
 jyz_event_7_1_open=An Evil Cult Secret Mark has been found in Yanjing suburb. Find Zhao Ji'an at （416，348） to know more about it.
 jyz_event_7_2_open=Remnant Cultists are gathering in Yanjing（423，556）, Luoyang（1056，872）and Jinling（2044，948） and they will be updated in 5 minutes. Go defeat them.
 jyz_event_7_3_open=Bu Shanqi and Xiao Mochou have shown up at Yanjing Suburb（479，952）. Go defeat them.
-jyz_event_7_5_over=Event of Isolated School has been completed.
 test_shuoming_gmp_hyc_02=Heart of the Devil is activated. Defeat it to get a reward.
 test_shuoming_gmp_hyc_03=Your cultivation ends. You may now leave.
 trigger_ForceSchool_GMP_select_1=<font face="font_system_friend" color="#FFCC00" size="20">Start cultivation.</font>
@@ -15367,7 +15351,6 @@ sys_nlhh_001=<font color="#ff0000">Nianluo Flower Festival is available soon! </
 sys_nlhh_002=Nianluo Flower Festival is available during <font color="#ff0000">14:00-23:00</font> every Sunday.  Welcome!
 sys_nlhh_003=I want to join Nianluo Flower Festival.
 sys_nlhh_004=Nianluo Flower Festival is available during <font color="#ff0000">14:00-23:00</font> every Sunday.
-sys_nlhh_005=You need to complete<font color="#ff0000"> Age of Wushu Record The Eight Reclusive Schools</font> before entering Nianluo Flower Festival.
 sys_nlhh_006=Only the players who have reached Martial Intuition can enter Nianluo Flower Festival.
 sys_nlhh_007=If you want to leave, I can help take you out.
 sys_nlhh_008=I want to leave Nianluo Flower Festival.
@@ -15708,7 +15691,6 @@ info_TwQf_01=Divinity and Crusade appear in all territories.
 91197=You have finished City Defense Fire task, unable to do it again.
 91198=The burned buildings in this territory has reached the daily limit, unable to attack.
 91199=You have received the guild leader reward, unable to receive it again.
-sys_hd6_boss_born=Four Reclusive School Experts have appeared in Competition Area in Suzhou. You might have a chance to join the Reclusive School by defeating them.
 desc_switch_2067=Nianluo Dam Double Compensation On/Off
 home_banjia_01=The house has zero Durability.
 home_banjia_02=The house it for sale.
@@ -16048,7 +16030,6 @@ sys_yjwm_04=I see.
 sys_yjwm_one_01=You must illuminate the Five-Star Array in the correct order. Follow instructions from the disciples standing in the array eye.
 sys_yjwm_one_02=The Five-Star Array was not illuminated in the correct order. Come to me to restart the test.
 sys_yjwm_one_03=The Five-Star Array is complete. You have passed the test.
-sys_yjwm_two_01=Watch me as I perform a skill, and then use the same skill on these pillars. Do this correctly 5 times, and you will pass the test.
 sys_yjwm_two_02=You used the wrong skill. Come to me to restart the test.
 sys_yjwm_two_03=You were too slow. Come to me to restart the test.
 sys_yjwm_three_01=This is a Heart of the Devil trial. Defeat the inner sword demon within you, and you will pass the test.
@@ -17655,7 +17636,6 @@ sys_clone035_004=Defeat Qing Pi.
 sys_clone035_005=Head to (1404,184) at Qingyao Palace and defeat Mighty Bear Qing Pi.
 sys_clone035_006=Defeat Lady Moon.
 sys_clone035_007=Head to (1518,155) at Qingyao Palace and defeat Lady Moon.
-scene_clone035=Qingyao Palace (single player)
 desc_sns_condition_clone035_1=Recommended strength level: Transcendent
 desc_sns_condition_clone035_2=Not available
 desc_sns_condition_clone035_3=Not available
@@ -18043,8 +18023,6 @@ sys_clone003_01=<font color="#ff6600">Take this key and open the box under the s
 sys_clone003_02=<font color="#ff6600">You already have the key to open the box under the stone statue. Take the explosives and take out the remaining people at Zhao Ziji’s house.</font>
 sys_chushen_tyy=The Master Chef has already set the reunion feast in all the main cities. Please enjoy.
 sys_newyear_001=Use Lotus Leaves to use.
-sys_yearboss_apply=There are beasts in Eastern Chengdu. Anyone interested in helping the people should go to Chengdu (399,585) and look for the "Nervous Commoners".
-sys_yearboss_begin=Nian has appeared. Go defeat him.
 sys_yearboss_kill_boss=After a fierce battle, {@0:团长名} led heroes to defeat the terrible Nian.
 sys_yearboss_boss_alive_ending=After a protracted battle, Nian fled and disappeared.
 sys_yearboss_entry=You’ve entered the event area.
@@ -18053,7 +18031,6 @@ sys_yearboss_already_apply=You’ve already registered.
 sys_yearboss_apply_ok=Registered. Nian will appear soon.
 sys_yearboss_join_failed_error_time=Event isn’t open. Cannot join.
 sys_yearboss_join_failed_boss_die=Nian has been defeated.
-sys_yearboss_join_failed=Don’t currently meet the requirements.
 jhscene_play_movie_fail=Failed to transport.
 300149=You’re in battle or movement status. Transport was interrupted.
 300150=<font color="#ef4b4b">{@0:name}</font> got the invitation but it was intercepted. Unable to come.
@@ -20770,13 +20747,6 @@ jsq_jqwfxjq_004=Charging into the valley.
 jsq_jqwfxjq_005=Final battle deep in the valley.
 sys_guj_choujiang001=Redemption conditions are not met.
 sys_guj_choujiang002=The operation is too frequent. Please try again later.
-sys_guj_choujiang003=You haven't redeemed the item activity token. You can't exchange activity.
-sys_guj_choujiang004=<font color="#A2FF6C">{@0:名字}</font> obtained <font color="#A2FF6C">{@1:道具}</font> in Activity Exchange.
-sys_guj_choujiang005=Activity Exchange
-sys_guj_choujiang006=This is the item you got in the Activity Exchange.
-ui_dbomall_0308=Activity Exchange
-ui_choujiang=Activity Exchange
-ui_guj_choujiangjs01=<s><s><s><s><s><s><s><s><s><s>Activity Exchange<br><s><s>To prosper the economy and nourish people's livelihood. The court has ordered that the every heroes in Jianghu can participate in the Activity Exchange. <br><s><s>Within a specified period of time, you can exchange activity by consuming Activity Tokens. <br>How to Get Activity Tokens: <br>1. VIP players can get Activity Token from the gift pack of Activity Value reaching 100.<br>2. Jianghu VIP and Young Hero Master players can claim Activity Token from Sima Haohong, Chengdu (879, 656) everyday.<br>3. You can exchange Activity Shards which you may get from Build New Horse Farm event for Activity Tokens at Yanjing Horse Farm Administer, Yanjing (-214, -245).<br>4. You can exchange for Activity Tokens with Working Medals you got from Model of Marital Practice event at Shang Wu, Suzhou (389, 768).<br><font color="#A2FF6C">Event Time: 4/27/2017 - 5/11/2017 midnight</font><br>Activity Exchange Rewards Give out: <br><s><s><font color="#A2FF6C">The rewards received for the activity exchange will be sent by mails. </font>
 clonewarning_115917=Must complete Age of Wushu Record Tier 2 Internal Skill Beautiful Land.
 clonewarning_115918=You must complete Tier 3 Internal story "Pirate Raid"!
 sys_wbwf_xuex_talk_001=You're late. The treasure here and your life will belong to me now!
@@ -21812,8 +21782,6 @@ systeminfo_youminggong_tiguan_dual_play_hinttextid=Youming Palace<br>Occupied ar
 21122=Failed to Login
 4040=<font color="#ff6600">({@0:名字})is opening the box under the Ancestral Hall statue. Take the gunpower from the box and use it to blast open Zhao Ziji's front gate. Be weary of the Black and White Demons under Han Sijin. They are invincible when grouped together so they must be separated before attacking.</font>
 4047=<font color="#ff6600">[{@0:名字}]is opening the box under the Ancestral Hall Statue. Use the Gun Powder inside it to blast open the Gate to Zhao Ziji's House. Be weary of Han Shijin's followers.</font>
-7945=Delicious Dragon Festival Token
-7946=Delicious Dragon Festival Token Event
 80096=You failed to sign up for the Group Purchase session. (VIP members can purchase directly without having to sign up)
 80520={@0:guild} Guild restricts {@1:school} School from joining.
 85100=You must be a Jianghu VIP to use Auto Pathfinding in this area.
@@ -21894,4 +21862,931 @@ sys_new_teacher_017=Master and disciple completed Martial Art Club Challenge onc
 jsq_jy_fswf_004=Drive Rabbit
 jsq_jy_fswf_005=Drive Rabbit
 sys_inter_building_003=Only the owner can activate Interact.
-
+3677300=Character has joined Ming Cult or has not joined any school or reclusive faction.
+3677301=Your moral alignment must not be evil.
+3677302=You have left the School for less than 24 days.
+3677303=You have joined Ming Cult.
+3677304=Character has not joined any school or reclusive faction.
+esg_24=Lu Shaojun, leader of Shenji Camp, has received a invitation from the Justices of Fate to a contest of skill on Penglai Island - from the faraway Eastern Seas!
+sys_eastsea_newschool_shenji=Lu Shaojun, leader of Shenji Camp, has sent out a notice to all didiples: Those who received a invitation from the alliance leader must report to him at once! If you haven't received your invitation, you can go to ask the alliance leader's disciple at the second floor of the tavern in Suzhou (611,435).
+desc_worldboss_hql_new_001=Attention, warriors! <font color="#f9fc00">Fire Kirin</font> at <font color="#f9fc00">Luoyang</font> has appeared!
+desc_worldboss_szxy_new_002=Attention, warriors! <font color="#f9fc00">Snow Ape with Three Claws</font> has appeared in <font color="#f9fc00">Evil Men's Valley</font>!
+desc_worldboss_szxy_new_003=Attention, warriors! <font color="#f9fc00">Snow Ape with Three Claws</font> has appeared at <font color="#f9fc00">Jiming Posthouse</font>!
+desc_worldboss_szxy_new_004=Attention, warriors! <font color="#f9fc00">Ten-thousand-year Old Fire Turtle</font> has appeared in <font color="#f9fc00">Northern Desert</font>!
+desc_worldboss_szxy_new_005=Attention, warriors! <font color="#f9fc00">Ten-thousand-year Old Fire Turtle</font> has appeared in <font color="#f9fc00">Jinling</font>!
+desc_worldboss_notice_new_003=Peerless Expert <font color="#f9fc00">Fire Kirin</font> will appear in <font color="#f9fc00">{@0:分钟}</font> minutes. Please be prepared!
+desc_worldboss_notice_new_004=Peerless Expert <font color="#f9fc00">Snow Ape with Three Claws</font> will appear in <font color="#f9fc00">{@0:分钟}</font> minutes. Please be prepared!
+desc_worldboss_notice_new_005=Peerless Expert <font color="#f9fc00">Ten-thousand-year Old Fire Turtle</font> will appear in <font color="#f9fc00">{@0:分钟}</font> minutes. Please be prepared!
+time_jysg_jq_401=Remaining Time
+time_jysg_jq_402=Remaining Time
+time_jysg_jq_501=Remaining Time
+time_jysg_jq_502=Remaining Time
+jysg_jq_401=Demonic Mind
+jysg_jq_402=Demonic Mind
+jysg_jq_403=Kindness
+jysg_jq_404=Kindness
+tips_jysg_jq_009=Chi Yangzi is Obsessed and now there are many Demonic Mind! <font color="#ffd700">Eliminate the Demonic Mind</font> to transform them into the Angelic Thoughts. Once there are <font color="#ffd700">more</font> Angelic Mind than Demonic Mind, Chi Yangzi can slowly escape the Obsessed status.
+tips_jysg_jq_010=Chi Yangzi is Obsessed! Kill his remaining <font color="#ffd700">Angelic Mind</font> and at the same time prevent others from killing the Demonic Mind to have Chi Yangzi go Obsessed and die.
+tips_jysg_jq_011=Chi Yangzi (-276, -867) is now channeling the Meridians. <font color="#ffd700">Defeat the invaders</font> to get his Cultivation and help Chi Yangzi.
+tips_jysg_jq_012=<font color="#ffd700">Kill Chi Yangzi (-276, -867)</font><br>Seize this opportune moment and kill Chi Yangzi!
+sys_jysg_xthh_003=Chi Yangzi is now cultivating Nine Yang Ultimate Skill. The Demonic Mind need to take over the Angelic Mind. Set out to eliminate the Angelic Mind and have Chi Yangzi killed by the Demonic Mind.
+clone003_duobao_001=Get Back The Treasure
+clone003_duobao_002=Find the three Treasure Robbers (10,-102)(0,-126)(24,-133,) and defeat them to get the Villager's Valuables back.
+clone003_duobao_003=<font color="#ff6600">Find the three Treasure Robbers (10,-102)(0,-126)(24,-133,) and defeat them to get the Villager's Valuables back.</font>
+clone003_duobao_004=<font color="#ff6600">There are a lot of people who look like Constables in front. Ask Aunt Zhao about what happened! </font>
+clone003_jiuyuan_001=<font color="#ff6600">The grandma on the pier looks sad! Find out what happened.</font>
+clone001n_sys_001=Defeat Li Rihan
+clone001n_sys_001a=Go To Mountain Road Before the Peacock Villa and defeat the Bandit <font color="#ffff00">Li Rihan (239,545)</font>
+clone001n_sys_002=Defeat Nan Batian
+clone001n_sys_002a=Bandit Leader <font color="#ffff00">Nan Batian (347,505)</font> is about to capture the villa's main gate. Stop him!
+clone001n_sys_003=Defeat Ma Bian
+clone001n_sys_003a=Go to Villa front hall and defeat Guard Leader <font color="#ffff00">Ma Bian (339,439)</font>
+clone001n_sys_004=Defeat Nan Batian
+clone001n_sys_004a=Go To Mountain Road Before the Peacock Villa and defeat <font color="#ffff00">Nan Batian (244,547)</font>
+clone001n_sys_005=Five Elements Maze
+clone001n_sys_005a=Peacock Villa has set up a Five Elements Maze. Many Wulin people are trapped in there. Quickly go to the <font color="#ffff00">entrance (278,566)</font> and rescue them!
+clone001n_sys_006=Defeat Ximen Yu
+clone001n_sys_006a=With help of Madam Qiu the Five Elements Maze was breached by the Jianghu folk. Defeat <font color="#ffff00">Ximen Yu (581,431)</font> to activate the Central Stone Tower and leave the maze through it.
+clone001n_sys_007=Defeat Ma Bian
+clone001n_sys_007a=Everyone has left the maze and finally entered the villa. Peacock Hall Leader <font color="#ffff00">Ma Bian (406,396)</font> is an important line of villa's defense. Defeat him to move forward.
+clone001n_sys_008=Keep moving forward
+clone001n_sys_008a=There seem to be no other important people in the villa. There is an <font color="#ffff00">ancient path</font> behind the Ma Bian Guard gate that leads to an <font color="#ffff00">Underground Palace</font>. Can only go and see what lies in there...
+clone001n_sys_009=Defeat the Besiegers
+clone001n_sys_009a=Someone is fighting the Phantoms' Mountain Manor people ahead. Seems like we are moving in the wrong direction. Save the <font color="#ffff00">fighters (495,176)</font> and ask what happened.
+clone001n_sys_010=Break the Tiangong Array
+clone001n_sys_010a=You can attack <font color="#ffff00">Ma Feng (572,223)</font> once you destroy the Liuhe Tiangong Array mechanisms on the stone platforms around it.
+clone001n_sys_011=Defeat Ma Feng
+clone001n_sys_011a=Defeat <font color="#ffff00">Ma Feng</font>
+clone001n_sys_012=Break the Four Symbols Array
+clone001n_sys_012a=Here is the Four Symbols Array. Break the four arrays of <font color="#ffff00">Green Dragon, White Tiger, Red Sparrow and Dark Turtle</font> separately to break the complete array. I don't know if there are any <font color="#ffff00">guards</font> <font color="#ffff00">(you need to break the arrays in the order of entry to be able to continue)</font>.
+clone001n_sys_013=Green Dragon Array
+clone001n_sys_013a=Defeat the <font color="#ffff00">Green Dragon Array Guards</font> and break the <font color="#ffff00">Green Dragon Array</font>.
+clone001n_sys_014=Red Sparrow Array
+clone001n_sys_014a=Avoid the bombs and find a <font color="#ffff00">Water Bucket</font> to extinguish the <font color="#ffff00">Red Sparrow Altar</font> and then break it.
+clone001n_sys_015=Dark Turtle Array
+clone001n_sys_015a=Defeat the <font color="#ffff00">Dark Turtle Array Devotees</font>, and the <font color="#ffff00">Dark Turtle Array</font> will be broken.
+clone001n_sys_016=White Tiger Array
+clone001n_sys_016a=Defeat the central <font color="#ffff00">White Tiger Pillar</font>, and the <font color="#ffff00">White Tiger Array</font> will be destroyed.
+clone001n_sys_017=Defeat the Array Guards
+clone001n_sys_017a=Four Symbols Array has been destroyed. Defeat <font color="#ffff00">Hai Qikuo, Mao Zhan, Gao Tao and Gu Song</font>, leave the maze and find Phoenix Feather.
+clone001n_sys_018=Defeat Liu Jingjing
+clone001n_sys_018a=Defeat <font color="#ffff00">Liu Jingjing</font>
+clone001n_sys_019=Defeat Taoist Mu
+clone001n_sys_019a=Defeat <font color="#ffff00">Taoist Mu</font>
+clone001n_sys_020=Ma Feng is dead. Go through the <font color="#ffff00">entrance (645,272)</font> that has appeared.
+clone001n_sys_021=Here is the <font color="#ffff00">Green Dragon Array</font>. Defeat all the <font color="#ffff00">Green Dragon Array Guards</font> and break the array.
+clone001n_sys_022=Here is the <font color="#ffff00">Red Sparrow Array</font>. Avoid the bombs and find a Water Bucket to extinguish the <font color="#ffff00">Red Sparrow Altar</font> and break the <font color="#ffff00">Red Sparrow Array</font>.
+clone001n_sys_023=Here is the <font color="#ffff00">Dark Turtle Array</font>. Defeat all the <font color="#ffff00">Dark Turtle Array Devotees</font>, and the <font color="#ffff00">Dark Turtle Array</font> will be broken.
+clone001n_sys_024=Here is the <font color="#ffff00">White Tiger Array</font>. Defeat the central <font color="#ffff00">White Tiger Pillar</font>, and the <font color="#ffff00">White Tiger Array</font> will be destroyed.
+clone001n_sys_025=The Four Symbols Array is broken! Come out, Phoenix! <font color="#ffff00">Phoenix Feather</font> is finally about to reappear. Go trough the Array Gate guarded by the four.
+clone001n_sys_026=<font color="#ffff00">Everything has turned out to be just a nightmarish fraud. Jianghu is so fleeting...</font>
+clone001n_sys_027=The <font color="#ffff00">Green Dragon Array</font> is broken. Go through the <font color="#ffff00">array entrance</font> that has appeared.
+clone001n_sys_028=The <font color="#ffff00">Red Sparrow Array</font> is broken. Go through the <font color="#ffff00">array entrance</font> that has appeared.
+clone001n_sys_029=The <font color="#ffff00">Dark Turtle Array</font> is broken. Go through the <font color="#ffff00">array entrance</font> that has appeared.
+clone001n_sys_030=The <font color="#ffff00">White Tiger Array</font> is broken. Go through the <font color="#ffff00">array entrance</font> that has appeared.
+clone001n_sys_031=Five Elements Array is broken. Click on the <font color="#ffff00">Central Stone Tower</font> to leave the array.
+clone001n_sys_032=Liuhe Tiangong Array is broken. <font color="#ffff00">Ma Feng</font> has lost the array's protection. Quickly attack him!
+clone001n_sys_033=Four Symbols Array seems to be completely destroyed, but still there are <font color="#ffff00">guards</font>. Defeat <font color="#ffff00">Hai Qikuo, Mao Zhan, Gao Tao and Gu Song</font>.
+clone001n_sys_034=<font color="#ffff00">Taoist Mu</font> and <font color="#ffff00">Liu Jingjing</font> are already here. Be careful!
+clone001n_sys_035=This is it for you...
+clone004n_sys_001=Cui Rui's trial
+clone004n_sys_001a=<font color="#ffff00">Cui Rui (275,568)</font> doubts your strength. Show what you got!
+clone004n_sys_002=Inquire Cui Rui
+clone004n_sys_002a=<font color="#ffff00">Cui Rui</font> finally admits your strength. Ask him what is he planning to do.
+clone004n_sys_003=Observe the situation
+clone004n_sys_003a=Go to <font color="#ffff00">Guaoyan Valley (258,346)</font> to investigate the enemy's situation and proceed with the next step.
+clone004n_sys_004=Defeat Li Wu
+clone004n_sys_004a=This is the Tanmeng Traitor <font color="#ffff00">Li Wu</font>. Show him no mercy. Now, when he has joined the Tartar Army, we especially can't let him go. Take him down!
+clone004n_sys_005=Go to the General
+clone004n_sys_005a=You've dealt with <font color="#ffff00">Li Wu</font>. Head out to the <font color="#ffff00">General (455,225)</font> and take the next step.
+clone004n_sys_006=Defeat Xing Zhongtian
+clone004n_sys_006a=The man on the peak must be the Tartar General. Taking him down is a duty, besides this location is a key point. Defeat <font color="#ffff00">Xing Zhongtian</font>.
+clone004n_sys_007=The situation has changed. Find <font color="#ffff00">Cui Rui (275,568)</font> and ask him what happened.
+clone004n_sys_008=The enemy troops are now in chaos. They must be busy fighting the fire. They haven't noticed the Lord's shadow rushing to the Striker Camp (221,51). He might be there. You can swiftly move through (447,223).
+clone004n_sys_009=Your Kung Fu is good. It seems you may try to raid the enemy camp, but there can be more bad than good from it. Consider this well!
+clone004n_sys_010=Raid the enemy camp?! Master Cui, I am not afraid of death, but aren't we too few for the raid?
+clone004n_sys_011=Fret not and listen to me. Head out to the Guaoyan Valley to see the combat situation first. If there are many Tartar troops, then the enemy camp's defenses won't be significant. If the enemy General is around, then the enemy camp is behind the cliff. Take advantage of the situation!
+clone004n_sys_012=I see. Bad or good, I cannot come back without killing a few Tartars! I'll start off now.
+clone004n_sys_013=Seems like you are unaware, but you are a step late. Warriors of different factions came and rescued Fang Wuheng with the Lord long ago. But Fang Wuheng captured the Lord and took him to the Tartar Campsite!
+clone004n_sys_014=According to what the people say, Fang Wuheng is an excellent General. How could this happen?!
+clone004n_sys_015=I don't know, but I know that it is now important to rescue the Lord. We need the martial masters' assistance! Are you willing to help?
+clone004n_sys_016=What should I do?
+clone004n_sys_017=This is good, but if you want to set out, you still need to beat me. If you can't, you don't have to go and lose your life!
+clone004n_sys_018=You are absolutely right. All right.
+clone004n_sys_019=Find the Lord
+clone004n_sys_019a=The enemy troops are now in chaos. They must be busy fighting the fire. They haven't noticed the Lord's shadow rushing to the <font color="#ffff00">Striker Camp (221,51)</font>. He might be there. You can swiftly move through <font color="#ffff00">(447,223)</font>.
+ui_pos_ReliveCJclone036=Delightful Island
+sys_clone036_001=Remaining Challenge Time
+sys_clone036_002=Find Mu Tianxing
+sys_clone036_003=Go to <font color="#ffff00">Residence of Leisure (123,388)</font> and find <font color="#ffff00">Mu Tianxing</font>.
+sys_clone036_004=Defeat Mu Tianxing
+sys_clone036_005=<font color="#ffff00">Mu Tianxing</font> is really at Residence of Leisure. I won't be at ease before I defeat him.
+sys_clone036_006=Track the Mysterious Person
+sys_clone036_007=The Mysterious Person rushed into the house. There is a <font color="#ffff00">secret passage (112,366)</font>! Enter and look for the <font color="#ffff00">Mysterious Person silhouette (2833,256)</font>.
+sys_clone036_008=Defeat Haneshiba Kinomasa
+sys_clone036_009=So it was <font color="#ffff00">Japanese</font>. His status must be high if he managed to come all this way!
+sys_clone036_010=The secret road to Hell King's Dungeon (119,375) is open. Enter the Underground Palace and defeat Tu Baishou's Pet, the Moon Devourer.
+sys_clone036_011=Defeat the Hell King's Guards
+sys_clone036_012=Defeat the <font color="#ffff00">six Hell King's Guards</font>!
+sys_clone036_013=Defeat the Hell King
+sys_clone036_014=<font color="#ffff00">Hell King (2750,255)</font> is ahead! Defeat the Delightful Island Ruler
+sys_clone036_015=Ask <font color="#ffff00">Li Zhong (-121,590)</font> about details and prepare for the next move.
+sys_clone036_016=Some of Hell King's minions, including Tu Baishou, Qin Rongrong, Mu Tianxing and others, are in front of the manor.
+sys_clone036_017=Since these people are Hell King's descendants, they must be Martial Masters! What do we do?
+sys_clone036_018=Do not worry, we will rally to fight back. Tu Baishou and Qin Rongrong are already gone, it is just that Hell King's power has exceeded our expectations. The location of one who is most likely to know his whereabouts, Mu Tianxing, is unknown. We really could use your help there!
+sys_clone036_019=I see. Where he might be? I'll go right now!
+desc_sns_condition_clone036_1=Recommended Strength: Peerless
+desc_sns_condition_clone036_2=Unavailable
+desc_sns_condition_clone036_3=Unavailable
+desc_sns_condition_clone036_4=Unavailable
+ui_CloneLimit641=<br><font color="#ff0000"> Talk with Lv Anhe (412,774) to enter the Delightful Island. </font>Must be in a group to enter Forbidden Instance<br>1. Normal mode<br>Teammate restriction: Maximum of 1 person<br>Lowest required Power: Matchless In Kung Fu<br> Recommended Power: Peerless<br>2. Hard Mode (Coming Soon).<br>3. Hell Mode (Coming Soon).
+ui_Desc_boss_clone036_qrr=<s>Boss of The Tender Land, one of four Hell King's lieutenants. She was beautiful, but in fact she hated men. She forced many males to be her slaves and torture them for fun.
+ui_Group_boss_clone036_qrr=Jianghu
+ui_Identity_boss_clone036_qrr=Lady of Seduction
+ui_Weapon_boss_clone036_qrr=Bare-handed
+ui_Desc_boss_clone036_mtx=<s>Leader of Delightful Villa, one of the four lieutenants of the Hell King. He did not seem to care about anything, but was infact poised to lead the island after the Hell King. He was assisted by Hell King after his wife and daughter were murdered, so he became totally loyal to him.
+ui_Group_boss_clone036_mtx=Jianghu
+ui_Identity_boss_clone036_mtx=Soul Reaper
+ui_Weapon_boss_clone036_mtx=Bare-handed
+ui_Desc_boss_clone036_tbs=<s>Boss of the Drunken Immortals in Delightful Island, and a lieutenant of Hell King known as Blood Demon. A sadistic leader, he enjoys watching people suffer under his cruel games.
+ui_Group_boss_clone036_tbs=Jianghu
+ui_Identity_boss_clone036_tbs=Blood Demon
+ui_Weapon_boss_clone036_tbs=Bare-handed
+ui_Desc_boss_clone036_yw=<s>Hell King is a mysterious person, all attempts on the guess of his name were proved wrong. He thought he could face the Ten Ultimates alone. In the end, he was destroyed along with the island he had managed. He was but a normal man, like the rest of us.
+ui_Group_boss_clone036_yw=Jianghu
+ui_Identity_boss_clone036_yw=Hell King
+ui_Weapon_boss_clone036_yw=Bare-handed
+ui_CloneStory641=<s>Delightful island is the ultimate destination of pleasure seekers, where they indulge in unrestrained debauchery. Yet all the hedonism is but a thin veil of sinister forces from home and abroad, in a titanic struggle for power.
+ui_ClonePlay641=<s>Go to Delightful Island alone and defeat Qin Rongrong, Mu Tianxing, Tu Baishou and Hell King.
+desc_sns_condtion_clone003_1_n=First Understanding
+desc_sns_condtion_clone003_3_n=One With Nature
+scene_clone003_1_n=Twilight Village [Prologue]
+scene_clone003_3_n=Twilight Village
+desc_sns_condtion_clone021_1_n=Flows With Chi
+desc_sns_condtion_clone021_3_n=Max Level
+scene_clone021_1_n=Green Cloud Castle [Prologue]
+scene_clone021_3_n=Green Cloud Castle
+desc_sns_condtion_clone002_1_n=Mentally Balanced
+desc_sns_condtion_clone002_4_n=Max Level
+scene_clone002_1_n=Longmen Inn [Jin Huaiyu Route]
+scene_clone002_4_n=Longmen Inn [Brigand Route]
+desc_sns_condtion_clone001_1_n=Mentally Balanced
+desc_sns_condtion_clone001_3_n=Infallible Martial Arts Master
+scene_clone001_1_n=Peacock Villa [Prologue]
+scene_clone001_3_n=Peacock Villa
+desc_sns_condtion_clone004_wln=Max Level
+scene_clone004_wln=Gymnastics
+desc_sns_condtion_clonezone001_1_n=Grand Master
+desc_sns_condtion_clonezone002_1_n=Shock The World
+scene_clonezone001_1_n=Bat Cave
+scene_clonezone002_1_n=Uncontested Secret Area
+desc_sns_condtion_clone004_lfs_n=Shock The World
+desc_sns_condtion_clone036=Grand Master
+scene_clone036=Delightful Island
+desc_sns_condtion_clone033_1_n=Divine
+scene_clone033_1_n=Jinling Incident
+desc_sns_condtion_clone035_1_n=Shock The World
+scene_clone035_n=Qingyao Palace
+desc_sns_condtion_clone038_1_n=Limit Breaker
+scene_clone038_1_n=Desert Ghost Town
+desc_sns_condtion_clone004_qb_n=Overawe The World
+scene_clone004_qb_3_n=Yanmen Pass "Defender's Path"
+desc_sns_condtion_clone034_1_n=Unique
+scene_clone034_1_n=Hidden Valley
+ui_Desc_npcclone001008_x=Li Rihan, the Wandering Thief, has been doing shameful deeds before. Has a personal connection with Nan Batian. This time, when Peacock Villa was in turmoil, Nan Batian wanted to invade the villa and invited him into action. Driven by his desires, Li Rihan changed his old ways and agreed to be Nan Batian's helper and stand guard outside the villa and retaliate Wulin people coming there for various reasons.
+ui_Desc_BossClone004902=Li Wu, originally a Tanmeng prodigy, suffered from the core martial arts not being passed to outlanders, finally betrayed the school and stopped exercising self-discipline. When he found that his pursuit of wealth and beauty exceeded his imagination, he already was in Tartar Army working for Tartar Army General Alutai. His hands were covered in blood of his compatriots from Central Plains, but he had no regret or remorse.
+clonewarning_116670=To enter this instance, your strength level must reach "Grand Master"!
+clonewarning_116671=To enter this instance, your strength level must reach "Transcendent"!
+clonewarning_116672=This instance is not available at this time. Please wait!
+clonewarning_116673=This instance is not available at this time. Please wait!
+clonewarning_116674=This instance is not available at this time. Please wait!
+clonewarning_116675=This instance is not available at this time. Please wait!
+clonewarning_116676=This instance is not available at this time. Please wait!
+clonewarning_116677=This instance is not available at this time. Please wait!
+clonewarning_116678=This instance is not available at this time. Please wait!
+ini\scene\clone003_1=Prologue
+ini\scene\clone003_3=Twilight Village
+ini\scene\clone021_1=Prologue
+ini\scene\clone021_3=Green Cloud Castle
+ini\scene\clone002_n_1=Jin Huaiyu Route
+ini\scene\clone002_n_4=Brigand Route
+ini\scene\clone001_n_1=Prologue
+ini\scene\clone001_n_3=Peacock Villa
+ini\scene\clone004_wln_1=Gymnastics
+ini\scene\clonezone001_1=Bat Cave
+ini\scene\clone004_lfs_1=Yanmen - Rebel Army
+ini\scene\clone036_1=Delightful Island
+ini\scene\clonezone002_1=Uncontested Secret Area
+ini\scene\clone033_1=Jinling Incident
+ini\scene\clone035_1=Qingyao Palace
+ini\scene\clone038_1=Desert Ghost Town
+ini\scene\clone004_qb_1=Yanmen - Guard
+ini\scene\clone004_qb_3=Yanmen - Guard
+ini\scene\clone034_1=Hidden Valley
+ini\scene\clone005_1=Common
+ini\scene\clone005_2=Hard
+ini\scene\clone007_1=Common
+ini\scene\clone007_2=Hard
+ini\scene\clone009_1=Common
+ini\scene\clone009_2=Hard
+ini\scene\clone011_1=Common
+ini\scene\clone011_2=Hard
+ini\scene\clone013_1=Common
+ini\scene\clone013_2=Hard
+ini\scene\clone015_1=Common
+ini\scene\clone015_2=Hard
+ini\scene\clone017_1=Common
+ini\scene\clone017_2=Hard
+ini\scene\clone019_1=Common
+ini\scene\clone019_2=Hard
+ini\scene\clone039_1=Common
+ini\scene\clone039_2=Hard
+ini\scene\clone036=Delightful Island
+desc_switch_885=New 2017 Dragon Gate Inn Forbidden Instance Switch
+clonewarning_116235=Every day <font color="#ff0000">17:00-23:00</font>, if you want to challenge, your Internal Skills should be better than <font color="#ff0000">Level 36 of Tier Three Internal Skills (Infallible Wushu Master)</font> and you should complete Common Mode for at least one time. <br>You haven't finished <font color="#ff0000">Longmen Inn</font>. Please finish <font color="#ff0000">Longmen Inn</font> first.
+clonewarning_116237=Your strength level must reach "Mentally Balanced" in order to enter Longmen Inn Forbidden Instance.
+clonewarning_116243=Forbidden Instance - Dragon Gate Inn is not yet available.
+scene_clone002_n_1=Longmen Inn
+desc_sns_condtion_clone002_n_1=Mentally Balanced
+desc_sns_condtion_clone_4=Enlightened Virtuoso
+clone002n_jhy001=Here is Longmen Inn. People are alive but rules are dead here. If anyone break the rules, don't come here to sell stolen goods.
+clone002n_jhy002=Mistress, I am new here. This is your dominion and I shall abide by your rules.
+clone002n_jhy003=Shen Yishan is a bastard, I don't know what treasure he gets. He is hurried to exit the pass. But he only gives me 100 Tael of Silver. Since you know about Longmen Inn and you want to follow me, go to Zhuo Town to bring Shen Yishan here. The carter Old Cheng is usually outside. It is much more convenient to hire a cart. Be careful on the road. I will pay you well after finishing it.
+clone002n_jhy004=Sister, don't worry. I ensure you that I will handle it.
+clone002n_jhy005=Well done! There are too many guests today. Lai Shun can't handle. Help Diao Buer to make some Steamed Buns.
+clone002n_jhy006=Did you see it clearly? Where did Shen Yishan, a bad guy get it? This Jade is a treasure in the former Dynasty. It's worth at least 1000 Tael of Silver. (Sneer) Get him out, I can get 100 Tael of Silver. Kill him, I can get 1000 Tael of Silver... What should I do?
+clone002n_jhy007=Could it be that...
+clone002n_jhy008=Humph! I already told Xiao Hei, Lai Shun, San Zi to go to his place and block the road. Hmm, he is here, and the treasure is mine!
+clone002n_jhy009=Since you don't conceal the situation... Will do! I will fight to the end.
+clone002n_jhy010=Just now that bastard Sima Huifeng, before he died, admitted that he was a brigand. Seems like that rascal He Biao is also taking interest in Shen Yishan's treasure. Quickly find Tie Bi, brigands may come soon!
+clone002n_jhy011=Alright! I'm going now.
+clone002n_jhy012=Do you know what are they coming for? Are they really after Shen Yishan's treasure?
+clone002n_jhy013=The Brigands dare not make troubles in my Hotel. They actually robbed my Hotel during the daytime today. The East Factory supports them. How dare them! Damn! I will kill them! Get your weapons, let's kill the East Chamber's Bandits, Jia Chao and Lu Xiaojiang.
+clone002n_jhy014=East Chamber Lackeys? Worry not. If he doesn't offend me and gives him face, today I will give them good looks!
+clone002n_jhy015=Seems like that mutt Cao Zhengqing is near! Did you know that Zhou Zhian is here? Even though I am just a lass, but I also deeply admire him rescuing the Lord Yang's orphan. Quickly go and tell him to leave from secret passage together! The secret passage is under the kitchen. Hurry up! That castrate gang is about to kill everyone here.
+clone002n_jhy016=To be honest, I don't like your subordinates, but they are good folks!
+clone002n_jhy017=Zhou Zhian once told me that Longmen Inn is as ruthless as a desert. He has a point! Let's burn it down and leave this desolate place once and for all! Let me take a look at you for the very last time...
+clone002n_jhy018=Mistress...
+clone002n_jhy019=There won't be Longmen Inn anymore in the world, not I Jin Huaiyu. I shall die with the inn!
+clone002n_sys_001=Goodbye, Mistress.
+clone002n_sys_001a=<font color="#ffff00">Talk to the Longmen Inn owner (602,311) Jin Huaiyu</font>
+clone002n_sys_002=Meet Shen Yishan
+clone002n_sys_002a=<font color="#ffff00">Go to Zhuo Town (197,500) and find a merchant Shen Yishan. You can hire Coachman Cheng Jian (582,336) or take a horse near the inn.</font>
+clone002n_sys_003=Rally the Guards
+clone002n_sys_003a=<font color="#ffff00">Inform Dong Qiu (213,505) at the post station and Sima Huifeng (200,487) at the second floor to escort Shen Yishan out. After that report to Shen Yishan.</font>
+clone002n_sys_004=Convince Dong Qiu
+clone002n_sys_005=Convince Sima Huifeng
+clone002n_sys_006=Help Sima Huifeng
+clone002n_sys_006a=<font color="#ffff00">Help Sima Huifeng bury the Letter under the nameless tombstone northeast of Zhuo Town (26.465).</font>
+clone002n_sys_007=Gate block
+clone002n_sys_007a=<font color="#ffff00">Shen Yishan went to the settlement gate (170,557) and found soldiers blocking everyone from leaving. Ask him if there another way out! </font>
+clone002n_sys_008=Defeat Zhu Jianzhi
+clone002n_sys_009=Take the stuffing
+clone002n_sys_009a=<font color="#ffff00">Find Diao Buer (624,274) and take stuffing for Steamed Buns</font>
+clone002n_sys_010=Go to the Inn
+clone002n_sys_010a=<font color="#ffff00">Talk to Shen Yishan and move out to the Inn to report to the Mistress that the task is complete.</font>
+clone002n_sys_011=Get fresh meat
+clone002n_sys_011a=<font color="#ffff00">Help Diao Buer chop up some meat on the board.</font>
+clone002n_sys_012=Deliver meat
+clone002n_sys_012a=<font color="#ffff00">Deliver the meat to the cook Lai Shun (626,320).</font>
+clone002n_sys_013=Go to Huo Dushan
+clone002n_sys_013a=<font color="#ffff00">Huo Dushan suddenly led soldiers to the gate of the Inn. Seems like they have ill intents. Go to the second floor and discuss countermeasures with Jin Huaiyu (623,318).</font>
+clone002n_sys_014=Demand the treasure
+clone002n_sys_014a=<font color="#ffff00">Go to the room on the second floor. Find Shen Yishan (625,302) to ask him for a treasure to make Huo Dushan leave.</font>
+clone002n_sys_015=Make Huo Dushan leave
+clone002n_sys_015a=<font color="#ffff00">Find a Carving Colored Glaze Cup (616,279) at the Inn's second floor and make Huo Dushan (565,321) leave.</font>
+clone002n_sys_016=Report to Jin Huaiyu
+clone002n_sys_016a=<font color="#ffff00">Find Jin Huaiyu (623,318) at the Inn's second floor and see if she has any arrangements.</font>
+clone002n_sys_017=Rob Shen Yishan
+clone002n_sys_017a=<font color="#ffff00">All the helpers have arrived. Go to Shen Yishan's room on the second floor (625,302) and inform Lai Shun that it is a go, help Jin Huaiyu in taking Shen Yishan's goods.</font>
+clone002n_sys_018=Inquire Jin Huaiyu
+clone002n_sys_018a=<font color="#ffff00">Find Jin Huaiyu (623,318) at the Inn's second floor and see if there are any other matters to attend to.</font>
+clone002n_sys_019=Chat with Tie Bi
+clone002n_sys_019a=<font color="#ffff00">Find Tie Bi (576,362) outside of the inn and ask him if there are any methods to repel the enemy.</font>
+clone002n_sys_020=Retaliate He Biao
+clone002n_sys_020a=<font color="#ffff00">Seeing that things can't be good, do the right thing and defeat the brigands.</font>
+clone002n_sys_021=Inquire Jin Huaiyu
+clone002n_sys_021a=<font color="#ffff00">Go to the second floor and find Jin Huaiyu (623,318), inquire why would brigands besiege the Inn this time.</font>
+clone002n_sys_022=Defeat East Chamber Lackeys
+clone002n_sys_022a=<font color="#ffff00">East Chamber Lackey Jia Chao and Lu Xiaojiang are at the Inn's second floor (588,279)!</font> Defeat them.
+clone002n_sys_023=Report to Jin Huaiyu
+clone002n_sys_023a=<font color="#ffff00">Go to the second floor and find Jin Huaiyu (623,318)</font>
+clone002n_sys_024=Inform Zhou Zhian
+clone002n_sys_024a=<font color="#ffff00">Go to the Inn's second floor (577.285) to inform Zhou Zhian that Qiu Wuyan got out with Jin Huaiyu through the secret passage.</font>
+clone002n_sys_025=Escape through the secret passage
+clone002n_sys_025a=<font color="#ffff00">The secret passage's mechanism (622,310) is in the kitchen. Look for it carefully!</font>
+clone002n_sys_026=Defeat Cao Zhengqing
+clone002n_sys_027=Find Jin Huaiyu
+clone002n_sys_027a=<font color="#ffff00">Go outside through the secret passage (1325,103) and ask Jin Huaiyu (573,371) about other matters.</font>
+clone002n_sys_028=Break the Wine Jar
+clone002n_sys_028a=<font color="#ffff00">Break 10 Wine Jars outside of the Inn.</font>
+clone002n_sys_029=Ignite Inn
+clone002n_sys_029a=<font color="#ffff00">Wine Jars are broken. Lit them up! (If you lose the torch, take the request to burn the inn from the quest giver again)</font>
+clone002n_sys_030=Inquire Zhou Zhian
+clone002n_sys_030a=<font color="#ffff00">Cao Zhengqing has been put down. Ask Zhou Zhian about his plans.</font>
+clone002n_shenys001=I'm going now.
+clone002n_shenys002=Boss Shen, let's go.
+clone002n_shenys003=How about... You buy bottles of good wine in the wine shop. We will give them to the military officers. I hope we can leave the town then. Oh, doing anything costs money in this age.
+clone002n_shenys004=<font color="#ffff00">Follow Shen Yishan's instructions and buy some wine from the Tavern Boss Green Dew (133.535).</font>
+clone002n_smhf001=I am still in a hurry to deal with Mistress Jin, so I will help you out this time.
+clone002n_smhf002=<font color="#ffff00">The letter has been buried! Break away from the officers and soldiers and notify Sima Huifeng!</font>
+Transclone002n001=I have lived here for many years and I am familiar with the road. Where do you want to go?
+Transclone002n002=I want to go to Zhuo Town
+Transclone002n003=I want to go to Brigand Campsite
+Transclone002n004=I want to go to Longmen Pass
+Transclone002n005=I want to go to Dragon Gate Inn
+Transclone002n006=I want to leave the instance and return to the Great Desert
+clone002n_bl001=You are courageous, m'lady! Let's get going.
+clone002n_bl002=<font color="#ffff00">Green Dew's wine made the guards senseless drunk, but Zhu Jianzhi discovered that Shen Yishan and others had ill intent and now only can leave Zhuo Town!</font>
+clone002n_dbe001=Are you the helper of the Mistress? The meat is so delicious that most of my meat sells out in one day! Go to and get more meat.
+clone002n_ls002=I got the Meat Stuffing. So many customers this time... I don't know what's the deal. All done here. Go and see if there is anything else to do!
+clone002n_ls001=We are ready. Don't hold back!
+clone002n_ls003=Humph! Less conversation and more action!
+clone002n_hds001=<font color="#ffff00">Carving Colored Glaze Cup was found. Now make Huo Dushan (565,321) leave!</font>
+clone002n_tb001=Tie Bi is me! He Biao is wicked merciless and greedy, has neither roots nor ambitions. It is him or me!
+clone002n_tb002=Now he came with men. What should we do?
+clone002n_tb003=I'll go fight with him. I want to see how fierce he really is.
+clone002n_tb004=That's music to my ears. Let's go!
+clone002n_hb001=So you pups are capable? Well, my blade has tasted blood of many, hahahahahahahahahaha!
+clone002n_zha001=You are not one of the inn's folks my friend, you look out of place. Seems like you know what's the deal, could it be these mongrels!
+clone002n_zha002=Are you Zhou Zhian? I have a message from the Mistress for you. The East Chamber bastards are coming. Escape through the secret passage!
+clone002n_zha003=I am Zhou Zhian! Why should I believe you?
+clone002n_zha004=I have already put down the East Chamber marauders Jia Chao and Lu Xiaojiang. If you don't believe me, go to the next door and see. I'm afraid the East Chamber has been watching you for a long time!
+clone002n_zha005=<font color="#ffff00">You have found the secret passage. Gather with Jin Huaiyu, Zhou Zhian and others!</font>
+clone002n_zha006=Thanks for help, your kindness can't be repaid! Master, you deserve some comfort.
+clone002n_zha007=Rooting out the evil is what my generation must do! What's your plan?
+clone002n_zha008=I must get Master Yang's children to a safe place. Till we meet again! Soon Jianghu will come together!
+clone002n_zha009=You sacrificed your life, truly gracious! We shall rise our cups sometime. See you later!
+GotoDoorClone002n_001=Secret passage entrance
+GotoDoorClone002n_002=Return to the Inn
+DoorNpcclone002002x=Forbidden Instance Exit
+CloneDoorNpc00028x=Longmen Inn (Forbidden Instance)
+clone002n_mzjx001=<font color="#FF00FF">Brigand Spy (577,231) tells you quietly: "Come to me soon, I have a big business to discuss with you!" </font>
+clone002n_mzjx002=Humph! I can't believe your nonsense!
+clone002n_mzjx003=I want you to rescue He Biao at Brigands Stronghold while Tie Bi and Xiao Qin are not there. He Biao is imprisoned in his room. Kill the two guards to get the key to rescue He Biao. I have a big business here, you will gain something from it.
+clone002n_mzjx004=Is that finally clear? I am not afraid of you. Let's see what you got!
+clone002n_mzjx005=<font color="#ffff00">Go to Zhuo Town Brigand Mountain Stronghold and rescue He Biao. You can hire Coachman Cheng Jian (582,336) or take a horse near the inn.</font>
+clone002n_mzjx006=Oh? There are such things too. Boss He plans far ahead. Well, you can leave now. After it is successfully done, you will be rewarded for sure. Besides, you should keep it a secret and not leak it to anyone else. Otherwise, I will not spare your feelings.
+clone002n_mzjx007=I will go to see what kind of person Sima Huifeng is.
+clone002n_sys_031=Rescue He Biao
+clone002n_sys_031a=<font color="#ffff00">Kill the two guards (376,926) to get the key to rescue He Biao.</font>
+clone002n_sys_032=Rescue He Biao's men
+clone002n_sys_032a=<font color="#ffff00">Defeat Tie Bi's trusted followers Tie Ren (398.959), Tie Huan (382,886) and Tie Feng (340,868) to get prison cell keys and save the three people.</font>
+clone002n_sys_033=Defeat Tie Ren
+clone002n_sys_033a=Defeat Tie Ren(398.959)
+clone002n_sys_034=Defeated Tie Huan
+clone002n_sys_034a=Defeated Tie Huan (382,886)
+clone002n_sys_035=Defeated Tie Feng
+clone002n_sys_035a=Defeated Tie Feng (340,868)
+clone002n_sys_036=See He Biao in the Council Hall
+clone002n_sys_036a=<font color="#ffff00">Yu Da, Shen Er and Tao San were rescued. Go to the Council Hall (322,951) and meet He Biao.</font>
+clone002n_sys_037=Meet the inside contact
+clone002n_sys_037a=<font color="#ffff00">Brigand Mountain Stronghold has been cleared out. Go back to Longmen Inn and pass on a message to the Brigand Spy (577,231).</font>
+clone002n_sys_038=Find Sima Huifeng
+clone002n_sys_038a=<font color="#ffff00">Sima Huifeng (559,310), He Biao's comrade, is at the Inn's first floor. Ask him what to do next.</font>
+clone002n_sys_039=Investigate Jia Chao
+clone002n_sys_039a=Seems like he (588,279) is from Imperial Court. See what he will say.
+clone002n_sys_040=Investigate Zhou Zhian
+clone002n_sys_040a=These people (580,284) are not easy to deal with, but they have brought two dolls. Looks fishy. Find out their intentions.
+clone002n_sys_041=Report to Sima Huifeng
+clone002n_sys_041a=<font color="#ffff00">Report to Sima Huifeng (557,358)</font>
+clone002n_sys_042=Defeat Tie Bi's servants
+clone002n_sys_042a=<font color="#ffff00">Tie Bi and his servants are outside the Inn! Don't let them go!</font>
+clone002n_sys_043=Defeat Green Dew
+clone002n_sys_043a=<font color="#ffff00">Tie Bi and his servants are done with. Green Dew rushed out to avenge. Assist He Biao to defeat Green Dew.</font>
+clone002n_sys_044=Talk to He Biao
+clone002n_sys_044a=<font color="#ffff00">Green Dew has been rescued by Zhu Jianzhi, but He Biao (573,372) has something to tell you.</font>
+clone002n_sys_045=Defeat the Inn folk
+clone002n_sys_045a=<font color="#ffff00">Jin Huaiyu commanded the Inn Waiters to guard the Inn entrance. Defeat them.</font>
+clone002n_sys_046=Defeat Zhou Zhian
+clone002n_sys_046a=<font color="#ffff00">Get to the second floor and finish off Zhou Zhian's (580,284) group.</font>
+clone002n_sys_047=Talk to He Biao
+clone002n_sys_047a=<font color="#ffff00">Zhou Zhian is dead. Inform He Biao about it (573,372).</font>
+clone002n_sys_048=Defeat Dong Qiu
+clone002n_sys_048a=Defeat Shen Yishan's guard, Dong Qiu (622,299)
+clone002n_sys_049=Defeat Shen Yishan
+clone002n_sys_049a=Shen Yishan (626,301) is defeated. Now find his treasure!
+clone002n_sys_050=Talk to He Biao
+clone002n_sys_050a=<font color="#ffff00">Shen Yishan is dead. Inform He Biao about it (573,372).</font>
+clone002n_sys_051=Jin Huaiyu's Money Box
+clone002n_sys_051a=Find Jin Huaiyu's Money Box (606,312) at the inn's first floor.
+clone002n_sys_052=Shen Yishan's Treasure
+clone002n_sys_052a=Find Shen Yishan's treasure (623,256) on the roof of the Inn.
+clone002n_sys_053=Talk to He Biao
+clone002n_sys_053a=<font color="#ffff00">You've found the treasure. Inform He Biao about it (573,372).</font>
+clone002n_sys_054=Talk to He Biao
+clone002n_sys_054a=<font color="#ffff00">The inn was burnt down. Inform He Biao about it (573,372).</font>
+clone002n_sys_055=Take credit for Chang Xiaochi's deeds
+clone002n_sys_055a=<font color="#ffff00">Give the head of Zhou Zhian to Chang Xiaochi (965,601) at Longmen Pass.</font> Yang Yuqian's children were escorted to Longmen Pass.
+clone002n_sys_056=Goodbye to He Biao
+clone002n_sys_056a=<font color="#ffff00">Return to the Mountain Stronghold and divide the loot. He Biao already went to Golden Sand Cave (287,1167).</font>
+clone002n_sys_057=Seize the treasure
+clone002n_sys_057a=<font color="#ffff00">In the Golden Sand Cave He Biao (289,1167) betrayed everyone and wanted to take all the valuables. Cooperation is done, get him on the way!</font>
+clone002n_hb002=Damn these bastards! Our people are all prisoned in cages at Back Mountain. But the keys are with Tie Bi and two other Commanders. Hurry, help me to kill these bastards! Let my people free!
+clone002n_hb003=Wonderful! You have to go to Longmen Inn for me. Tell the Brigand spy to look out for a man named Sima Huifeng. Tell Sima Huifeng to delay him for a while, I will be there at once!
+clone002n_hb004=Congratulations on becoming the leader! Alright, I am on my way.
+clone002n_hb005=What do we do next? There are still many people in the Inn.
+clone002n_hb006=Working for the East Factory would be worse than death itself! Please find Zhou Zhian and bring me his head! Look for Yang Yuqian's two children while you're at it.
+clone002n_hb007=Madam, there are people outside of the fortress who fear and respect you, but I am not one of them!
+clone002n_hb008=All done. It is time to find Shen Yishan.
+clone002n_hb009=Oh, Sima Huifeng's brother is missing, he must be killed by them. I've just finished Laughing Madman's Task. I will do my business now. I will kill these animals to bury them with Sima brother. Go to kill Dong Qiu and Shen Yishan for me. I have encircled the hotel. Even a fly won't leave.
+clone002n_hb010=Boss He, one less, more silver for you. I see you are not too sad as well. Wait for good news, hahahaha!
+clone002n_hb011=<font color="#ffff00">Shen Yishan and his people might have recognized Sima Huifeng and killed him. Go to the Inn's second floor (626,301) and don't let the treasure slip away! </font>
+clone002n_hb012=All is done here. Eyes on the prize now. You'll need to find Shen Yishan's treasure.
+clone002n_hb013=Easy job. I'm going now.
+clone002n_hb014=<font color="#ffff00">Find Jin Huaiyu's Money Box (606,312) and Shen Yishan's treasure on the roof (623,256) for He Biao.</font>
+clone002n_hb015=Everyone's taken care of, got the treasure, now this place is done for. Let's burn it down now!
+clone002n_hb016=We can't leave any traces!
+clone002n_hb017=Ha ha ha! I've got it!! I am in good mood now. We have finished the task given by East Factory. Give the Zhou Zhian's head and children to Chang Xiaochi. We don't have to care about the other things. Remember to take back the reward money. Chang Xiaochi says we will get money for a reward after finishing it.
+clone002n_hb018=It will be done.
+clone002n_hb019=Not bad. Nowadays only dead men don't think about my money. I'll send you to hell.
+clone002n_hb020=Hahahahahahaha!
+clone002n_hb021=<font color="#ffff00">Quickly talk to He Biao! </font>
+clone002n_smhf003=(Whispering) He Biao? Tell me why He Biao couldn't come himself.
+clone002n_smhf004=(Whispering) The Stronghold was attacked by government troops, but we defeated them!
+clone002n_smhf005=(Whispering) There was some trouble on the road, but nothing we couldn't handle.
+clone002n_smhf006=(Whispering) I stopped for some business on the road. So I am late.
+clone002n_smhf007=(Whispering) He Biao was imprisoned. He just escaped.
+clone002n_smhf008=<font color="#ffff00">Your answer is wrong. Try talking with Sima Huifeng.</font>
+clone002n_smhf009=(Whispering) How rude. He Biao has occupied the stronghold. I'll focus on Shen Yishan, that fat sheep. Too many eyes here, let's get out.
+clone002n_smhf010=OK.
+clone002n_smhf011=<font color="#ffff00">Sima Huifeng avoided everyone's eyes and got to the Inn's entrance (557,358). Follow carefully!</font>
+clone002n_smhf012=Many mysterious people have been appearing at the inn lately, among them martial artists and government officials. Find out more about them. We can't afford to have them ruin our plans.
+clone002n_smhf013=<font color="#ffff00"> Go to the Inn's second floor and find out about Jia Chao (588,279) and Zhou Zhian (580,284) and report to Sima Huifeng.</font>
+clone002n_smhf014=You need to get Zhou Zhian out? Ha ha! They are unlucky to meet us today. We wait brother He Biao, then we kill them all.
+clone002n_smhf015=Don't count on me if you get in trouble afterwards.
+clone002n_smhf016=Shen Yishan also thinks there are too many people in the hotel today. I nearly can't hold it. Hurry to send signal to He Biao. Let him send people to circle the hotel, and hurry! Take the Signal Arrow. Go to a remote place to shoot it. Don't let other people see it.
+clone002n_smhf017=<font color="#ffff00">Fired Sima Huifeng's signal arrow, He Biao arrived at once!</font>
+clone002n_jhy020=Lousy brigand! Are you out of your mind to come to my inn and make a mess? Since you've come today, I should inform you that you will be returning!
+clone002n_shenys005=Capture them! Dong Qiu!
+clone002n_shenys006=I don't care who you are, just don't touch my stuff. I still want to live!
+clone002n_dq001=How everything came to this?...
+clonewarning_116278=You must complete Age of Wushu Record "Fetch Rice from Heaven"
+clonewarning_116279=You must complete Age of Wushu Record "Soul Smashed Ninefold"
+clonewarning_116280=You must complete of Age of Wushu Record "Before the Duel"
+clonewarning_116281=You must complete Age of Wushu Record "Plague of Luoyang"
+clonewarning_116282=You must complete Age of Wushu Record "Nine Reclusive Factions"
+clonewarning_116283=You must complete Age of Wushu Record "Traces of the Evil Cult"
+clonewarning_116284=To enter this instance, your strength level must reach "First Understanding"!
+clonewarning_116285=To enter this instance, your strength level must reach "One With Nature"!
+clonewarning_116286=To enter this instance, your strength level must reach "Flows With Chi"!
+clonewarning_116287=To enter this instance, your strength level must reach "Spiritually Balanced"!
+clonewarning_116288=To enter this instance, your strength level must reach "Mentally Balanced"!
+clonewarning_116289=To enter this instance, your strength level must reach "Max Level"!
+clonewarning_116290=This Forbidden Instance needs your ability level reaches "Enlightened Virtuoso".
+clonewarning_116291=To enter this instance, your strength level must reach "Infallible Martial Arts Master"!
+clonewarning_116292=To enter this instance, your strength level must reach "Matchless In Kung Fu"!
+clonewarning_116293=To enter this instance, your strength level must reach "Shock The World"!
+clonewarning_116294=To enter this instance, your strength level must reach "Shake The World"!
+clonewarning_116295=To enter this instance, your strength level must reach "Limit Breaker"!
+clonewarning_116296=To enter this instance, your strength level must reach "Overawe The World"!
+clonewarning_116297=To enter this instance, your strength level must reach "Eternally Unequalled"!
+desc_switch_911=New 2017 Twilight Village Forbidden Instance Switch
+desc_switch_912=New 2017 Green Cloud Castle Forbidden Instance Switch
+desc_switch_913=New 2017 Peacock Villa Forbidden Instance Switch
+desc_switch_914=New 2017 Yanmen Pass Forbidden Instance Switch
+desc_switch_915=New 2017 Yanmen Pass Rebel Route Forbidden Instance Switch
+desc_switch_916=New 2017 Delightful Island Forbidden Instance Switch
+desc_switch_917=New 2017 Jinling Incident Forbidden Instance Switch
+sys_ggw_01=Cannot be operated during a Guild Battle.
+sys_ggw_02=Cannot be operated during a Guild Battle.
+sys_ggw_03=Your Guild Territory Income was claimed already.
+sys_ggw_04=Cannot abdicate during Territory War.
+sys_ggw_05=Cannot use Token of Help during Territory War.
+sys_ggw_06=Can't go here during Territory War.
+sys_ggw_07=Only the Sect Leader is allowed to buy this.
+sys_ggw_08=Guild resources can be purchased only during preparation period.
+sys_ggw_09=Guild funds insufficient.
+sys_ggw_10=Purchase limit reached.
+sys_ggw_11=Guild battle resources purchased.
+sys_ggw_12=Guild Territory War begins in {@0:time}. Get ready.
+sys_ggw_13=Guild Territory War entered Preparation Period. Get ready.
+sys_ggw_14=Guild Territory War has begun. Players can enter the Territory site, fight, destroy and capture enemy flags.
+sys_ggw_15=Guild Territory War has already begun and your Guild is participating. To battle for glory!
+sys_ggw_16=You have no guild, cannot participate.
+sys_ggw_17=Your Guild has no flag. Cannot take part in Guild Battle.
+sys_ggw_18=It is not Guild Battle period yet.
+sys_ggw_19=Guild Territory War is over. The battle is over! Fight next time!
+sys_ggw_20={@0:guild} successfully captured {@1:domain} territory Captured this territory
+sys_ggw_21=Obtained Territory Income
+sys_ggw_22=Switch not opened.
+sys_ggw_23=You are not a Jianghu VIP; you are not allowed to participate in Guild Battle.
+sys_ggw_24=Only formal guilds can join Territory War.
+sys_gsp_001=Can't build the flag. Conditions were not met.
+sys_gsp_002=Being built by somebody else. Please try again later.
+sys_gsp_003=No guild flags remaining.
+sys_gsp_004=Can't build the camp. Conditions were not met.
+sys_gsp_005=Being built by somebody else. Please try again later.
+sys_gsp_006=No guild camps remaining.
+sys_gsp_007={@0:name} was destroyed.
+sys_gsp_008={@0:name} was destroyed by {@1:name}.
+sys_gsp_009=Please select a camp to revive
+sys_gsp_010=Flag capturers cannot build a camp.
+sys_gsp_011=Flag signature set successfully.
+sys_gsp_012=Requirements for setting the flag signature have not been met.
+sys_gsp_013=The flag signature must contain a word from the Guild's name.
+sys_gsp_014=Please select words to set.
+sys_gsp_015=Camp materials consumed. Camp construction has begun.
+sys_gsp_016=Flag under construction.
+sys_gsp_017=You don't have the rights for that.
+sys_gsp_018=You don't have the rights for that.
+sys_gsp_hp_flag_100=Your Guild's "{@0:name}" flag is under attack.
+sys_gsp_hp_flag_50=Your Guild's "{@0:name}" flag HP is less than a half already. The situation is dire!
+sys_gsp_hp_flag_0=Your Guild's "{@0:name}" flag is destroyed.
+sys_gsp_hp_relive_100=Your Guild's "{@0:name}" Dragon and Tiger Pillar is under attack.
+sys_gsp_hp_relive_50=Your Guild's "{@0:name}" Dragon and Tiger Pillar HP is less than a half already. The situation is dire!
+sys_gsp_hp_relive_0=Your Guild's "{@0:name}" Dragon and Tiger Pillar is destroyed.
+sys_jysg_xthh_004=Chi Yangzi is now at the final stage of Nine Yang Ultimate Skill Cultivation. Attack Chi Yangzi and interrupt Cultivation.
+sjy_school_met_tips=School Meeting
+sys_time_sjy_jinlsmdh01=Registration Period
+sys_time_sjy_jinlsmdh02=Get Ready for Eliminations
+sys_time_sjy_jinlsmdh03=Eliminations Stage
+sys_time_sjy_jinlsmdh04=Eliminations Ended
+sys_time_sjy_jinlsmdh05=Get Ready for Final Competition
+sys_time_sjy_jinlsmdh06=Final match period
+sys_time_sjy_jinlsmdh07=Final Competition Ended
+xtts_sjy_sndh_001=Registration Period is over. Shenji Camp School Tournament Preparation Stage is about to begin, please get ready.
+xtts_sjy_sndh_002=Eliminations Period is over. Shenji Camp School Tournament Final Competition Stage is about to begin, please get ready.
+xtts_sjy_sndh_003=Final Competition Period is over. Please leave the scene.
+tips_time_sjy_jinlsmdh01=Shenji Camp School Tournament Registration Period is on. You may register at Shi Xiaozhao (-7.5 58.3). Please register timely.
+tips_time_sjy_jinlsmdh02=Shenji Camp School Tournament Eliminations Stage is over. Please don't leave the scene. School Tournament is about to begin.
+tips_time_sjy_jinlsmdh03=Shenji Camp School Tournament Eliminations Period is on. Attack the targets around you and eliminate the top 4 to get to the Final Competition.
+tips_time_sjy_jinlsmdh04=Shenji Camp School Tournament Final Competition Stage is on. Click on the button in the left upper corner of the map to view your kill ranking.
+tips_time_sjy_jinlsmdh05=Shenji Camp School Tournament Final Competition Preparation Period is on. Please get ready.
+tips_time_sjy_jinlsmdh06=During Shenji Camp School Tournament Final Competition Preparation Period, defeat the targets around you. Once the Final Competition is over, the top 7 of kill ranking will get corresponding School Positions and rewards via mail. The 8th will get only the reward.
+tips_time_sjy_jinlsmdh07=Shenji Camp School Tournament Final Competition Stage is over. You will leave event soon.
+task_newmp_sjy_sm_001=<font color="#FF3030">Every Sunday on 21:00</font> the Shenji Camp warriors can sign up here to participate in Shenji Camp School Tournament.
+dh_sjy_smdh_001=Shenji Camp School Tournament Registration
+dh_sjy_smdh_002=<font color="#FF3030">Every Sunday on 21:00</font> the Shenji Camp warriors can sign up here to participate in Shenji Camp School Tournament. Up to 48 players can register. The event is divided into Eliminations and Final Competition stages.<font color="#FF3030">1. Final Competition Stage: </font>Once the event begins, players who successfully registered will be sent to fight each other in 4 areas. They need to get a certain number of kills to get into Finals. Before the Elimination Stage is over, <font color="#FF3030">top 4 players</font> with the most kills from each area will advance to the Finals. <font color="#FF3030">2. Final Competition Stage: </font>After the Eliminations players enter Final Competition Preparation Period. Once the Final Competition begins, everyone who made it in the Eliminations will be sent to fight in the central area. After the Final Competition <font color="#FF3030">the top 7 players</font> of kill ranking will get corresponding School Positions and rewards via mail. The 8th will get only the reward. Try to get the listed number of kills in order to obtain the School Position. Registration Requirements: Join Shenji Camp, have no Punishment Status and do not participate in other activities.
+dh_sjy_smdh_003=I want to apply to participate in the Shenji Camp School Tournament
+title_shenji_smdh=Shenji Camp School Tournament Rewards
+content_shenji_smdh=Here is your Shenji Camp School Tournament Reward!
+desc_switch_954=Shenji Camp School Tournament Switch
+tips_sjy_school_met_tips=School Meeting
+sys_sjyxcyx_guj008=The Field Drill is on. Work together to break this array!
+sys_sjyxcyx_guj009=The array is broken. Well done!
+trigger_sjyrcrw_0_1=<font color="#00FF00">Transport the three scattered Provision Bags (-244 -66) (-270 -91) (-271 -64) to the pile (-245 -82).</font>
+trigger_sjyrcrw_0_2=<font color="#00FF00">The Provision Pack transported to the pile successfully.</font>
+trigger_sjyrcrw_0_3=<font color="#00FF00">The Provision Bags were successfully transported to the pile. Now revive.</font>
+trigger_sjyrcrw_1_1=<font color="#00FF00">Defeat the Foreign Bandits who are trying to steal army resources.</font>
+trigger_sjyrcrw_1_2=<font color="#00FF00">Foreign Bandits were defeated, army resources were transported to the Shenji Camp. Now revive.</font>
+sys_yyhd_ddjj=Tartar General and Oirat Warriors were chased by Shenji Camp's Lu Shaojun and fled to Yanjing ({@0:x},{@1:z}). Defeat them to get rich rewards!
+sys_yyhd_qmlj=You've killed the Tartar General! All the Jianghu VIP players may collect their rewards at Yanjing ({@0:x},{@1:z}) at 22:05-23:55 at the Supply Camp Soldier.
+menu_yyhd_qmlj_201712=Tartar General was killed
+menu_yyhd_qmlj_201712_01=If that's the case, you can get a reward from me.
+title_yyhd_qmlj_201712=Receive Award
+desc_switch_959=2017.12 Boss Everyone Win Reward
+sys_sjy_njxlts_001=Mysterious Assassin was killed. See if they have any Insignia on them.
+19973=You are in the middle of a battle or Heavily Wounded. Cannot continue Escort.
+sys_gsp_019=Cannot be operated during a Guild Battle teleport cooldown.
+sys_gsp_020=Cannot form a team during a Guild Battle.
+sys_ggw_25=Cannot use Guild teleport during a Guild Battle.
+sys_ggw_26=Cannot be operated during a Guild Battle teleport cooldown.
+sys_ggw_27=Guild Teleport can't be operated if you haven't participated in Guild Battle.
+sys_ggw_28=Guild Teleport can't be operated if you are in an event.
+sys_give_item_001=Got {@0:config} *{@1:count}
+sys_give_item_002=Your Backpack is full. The reward will be sent via mail.
+mail_source_drop_limit=System Mail
+mail_title_drop_limit=Reward Item
+mail_content_drop_limit=If you would like to get the reward immediately, make sure you have some space in the backpack!
+sys_act_faculty_limit=Silver used to Practice Martial Arts has reached the limit.
+3457003=Cao Zhengqing suffers in silence, waiting for an opportune moment to strike. Give him a fatal blow!
+sys_jshuq_xjqrw_001=Commoner
+sys_jshuq_xjqrw_002=Dark Star Gang Members
+sys_jshuq_xjqrw_003=Mysterious Person
+jsq_xjqrw_001=Get out of Inn Encirclement
+jsq_xjqrw_002=Teach Dark Star Gang a lesson
+jsq_xjqrw_003=Ambushed by Man In Black
+sys_home_res_001=Supply points increased by {@0:count} today. Goods have reached the limit.
+sys_home_res_002=Supply points increased by {@0:count} today
+sys_home_res_003=Insufficient Resource Points. Unable to upgrade.
+sys_home_res_004=Insufficient Items.
+sys_home_res_005=Failed to use the item.
+sys_home_res_006=Failed to use the item.
+sys_home_res_007=Item used successfully. Friendliness increased by {@0:count} points.
+sys_home_res_008=Failed to use the item. Please try again with a suitable object.
+sys_home_res_009={@0:name} you hired lost Friendliness with you and left.
+sys_home_res_010=Insufficient Gold. Cannot hire.
+sys_home_res_011=Insufficient items. Cannot hire.
+sys_home_res_012=Cannot be hired. Cannot use Friendliness items.
+sys_home_res_013=Hired already, cannot employ again.
+sys_home_res_014=The function is not available now.
+sys_home_res_015=The function is not available now.
+ui_home_building_levelup=Upgrade Guild
+ui_home_building_hire=Hire
+home_building_level_max=Reached Max Level
+level_info_HomeFarm1_1=Pigsty can raise one piglet at a time.<br>Cowshed can raise three calves or lambs at a time.<br>Hen house can raise three chicks or ducklings at a time.
+level_info_HomeFarm1_2=Pigsty can raise three piglets at a time.<br>Cowshed can raise six calves or lambs at a time.<br>Hen house can raise six chicks or ducklings at a time.
+level_info_HomeFarm1_3=Pigsty can raise five piglets at a time.<br>Cowshed can raise ten calves or lambs at a time.<br>Hen house can raise ten chicks or ducklings at a time.
+level_info_HomeFarm2_1=Pigsty can raise one piglet at a time.<br>Cowshed can raise three calves or lambs at a time.<br>Hen house can raise three chicks or ducklings at a time.
+level_info_HomeFarm2_2=Pigsty can raise three piglets at a time.<br>Cowshed can raise six calves or lambs at a time.<br>Hen house can raise six chicks or ducklings at a time.
+level_info_HomeFarm2_3=Pigsty can raise five piglets at a time.<br>Cowshed can raise ten calves or lambs at a time.<br>Hen house can raise ten chicks or ducklings at a time.
+level_info_HomeFarm3_1=Pigsty can raise one piglet at a time.<br>Cowshed can raise three calves or lambs at a time.<br>Hen house can raise three chicks or ducklings at a time.
+level_info_HomeFarm3_2=Pigsty can raise three piglets at a time.<br>Cowshed can raise six calves or lambs at a time.<br>Hen house can raise six chicks or ducklings at a time.
+level_info_HomeFarm3_3=Pigsty can raise five piglets at a time.<br>Cowshed can raise ten calves or lambs at a time.<br>Hen house can raise ten chicks or ducklings at a time.
+level_info_HomeFarm4_1=Pigsty can raise one piglet at a time.<br>Cowshed can raise three calves or lambs at a time.<br>Hen house can raise three chicks or ducklings at a time.
+level_info_HomeFarm4_2=Pigsty can raise three piglets at a time.<br>Cowshed can raise six calves or lambs at a time.<br>Hen house can raise six chicks or ducklings at a time.
+level_info_HomeFarm4_3=Pigsty can raise five piglets at a time.<br>Cowshed can raise ten calves or lambs at a time.<br>Hen house can raise ten chicks or ducklings at a time.
+level_info_HomeFarm5_1=Pigsty can raise one piglet at a time.<br>Cowshed can raise three calves or lambs at a time.<br>Hen house can raise three chicks or ducklings at a time.
+level_info_HomeFarm5_2=Pigsty can raise three piglets at a time.<br>Cowshed can raise six calves or lambs at a time.<br>Hen house can raise six chicks or ducklings at a time.
+level_info_HomeFarm5_3=Pigsty can raise five piglets at a time.<br>Cowshed can raise ten calves or lambs at a time.<br>Hen house can raise ten chicks or ducklings at a time.
+level_info_HomeFarm6_1=Pigsty can raise one piglet at a time.<br>Cowshed can raise three calves or lambs at a time.<br>Hen house can raise three chicks or ducklings at a time.
+level_info_HomeFarm6_2=Pigsty can raise three piglets at a time.<br>Cowshed can raise six calves or lambs at a time.<br>Hen house can raise six chicks or ducklings at a time.
+level_info_HomeFarm6_3=Pigsty can raise five piglets at a time.<br>Cowshed can raise ten calves or lambs at a time.<br>Hen house can raise ten chicks or ducklings at a time.
+level_info_HomeFarm7_1=Pigsty can raise one piglet at a time.<br>Cowshed can raise three calves or lambs at a time.<br>Hen house can raise three chicks or ducklings at a time.
+level_info_HomeFarm7_2=Pigsty can raise three piglets at a time.<br>Cowshed can raise six calves or lambs at a time.<br>Hen house can raise six chicks or ducklings at a time.
+level_info_HomeFarm7_3=Pigsty can raise five piglets at a time.<br>Cowshed can raise ten calves or lambs at a time.<br>Hen house can raise ten chicks or ducklings at a time.
+ui_old_hire_pos_HomeComNpc001=At Home
+ui_old_hire_effect_HomeComNpc001=Warehouse Store
+ui_old_hire_pos_HomeComNpc002=At Home
+ui_old_hire_effect_HomeComNpc002=Warehouse Store
+ui_old_hire_pos_HomeComNpc003=At Home
+ui_old_hire_effect_HomeComNpc003=Warehouse Store
+ui_old_hire_pos_HomecleanNpc001=At Home
+ui_old_hire_effect_HomecleanNpc001=Recovery Durability
+ui_old_hire_pos_HomecleanNpc002=At Home
+ui_old_hire_effect_HomecleanNpc002=Recovery Durability
+ui_old_hire_pos_HomecleanNpc003=At Home
+ui_old_hire_effect_HomecleanNpc003=Recovery Durability
+ui_old_hire_pos_HomeShowNpc001=At Home
+ui_old_hire_effect_HomeShowNpc001=Welcome!
+ui_old_hire_pos_HomeShowNpc002=At Home
+ui_old_hire_effect_HomeShowNpc002=Welcome!
+ui_old_hire_pos_HomeShowNpc003=At Home
+ui_old_hire_effect_HomeShowNpc003=Welcome!
+ui_old_hire_pos_(npc_id)=Old Hire Location Description
+ui_old_hire_effect_(npc_id)=Old Hire Effect Description
+ui_location_npcid=NPC Location Information
+ui_type_1=Increase caregivers by {@0:count}
+ui_type_2=Increase production quantity level: {@0:count}
+ui_type_3=Increase growth speed by {@0:count}%
+ui_time_index_1=3 Days
+ui_time_index_2=5 Days
+ui_time_index_3=10 Days
+ui_home_left_time_1=Less than 1 hour
+ui_home_left_time_2={@0:count} h
+ui_pos_npc_homeemploy_001=Qiandeng Town (-1000,-1000)
+ui_pos_homeemploy_002=Qiandeng Town (-1000,-1000)
+ui_pos_homeemploy_003=Qiandeng Town (-1000,-1000)
+ui_pos_homeemploy_004=Qiandeng Town (-1000,-1000)
+ui_pos_homeemploy_005=Qiandeng Town (-1000,-1000)
+ui_pos_homeemploy_006=Qiandeng Town (-1000,-1000)
+ui_home_hire_money=Hire Cost:
+ui_home_building_active_title_HomeFarm=Breeding Farm
+ui_home_building_active_tips_HomeFarm=<center>Breeding Farm</center><s><s>Pigs, sheep, send them to my house. <br><s><s>Can raise chicken, cows sheep and so on. Raise the animals to receive corresponding rewards.
+ui_home_building_active_tips_Home=
+npc_HomeFarm_001=Yang Zhi
+npc_HomeFarm_001_1=Home Breeding Farm
+npc_HomeFarm_002=Yang Zhi
+npc_HomeFarm_002_1=Home Breeding Farm
+npc_HomeFarm_003=Yang Zhi
+npc_HomeFarm_003_1=Home Breeding Farm
+npc_HomeFarm_004=Yang Zhi
+npc_HomeFarm_004_1=Home Breeding Farm
+npc_HomeFarm_005=Yang Zhi
+npc_HomeFarm_005_1=Home Breeding Farm
+npc_HomeFarm_006=Yang Zhi
+npc_HomeFarm_006_1=Home Breeding Farm
+npc_HomeFarm_007=Yang Zhi
+npc_HomeFarm_007_1=Home Breeding Farm
+HomeFarm1=Breeding Farm
+HomeFarm2=Breeding Farm
+HomeFarm3=Breeding Farm
+HomeFarm4=Breeding Farm
+HomeFarm5=Breeding Farm
+HomeFarm6=Breeding Farm
+HomeFarm7=Breeding Farm
+ui_homefarm=Cub Store
+shop_home_yangzhi_001=Cub Store
+shop_home_yangzhi_001_page1=Page 1
+task_home_cailiao_duihuan01=You are welcome to use Supply points to exchange for any items with me.
+ui_buyhome_cailiao_duihuan01=Trade for
+shop_home_cailiao_001=Home Exchange Store
+shop_home_cailiao_001_page1=Page 1
+home_res_point=Supply points
+ui_home_myhomeshow_41=Supply points:
+ui_home_newout_01=Breeding Farm
+ui_home_newout_02=Official Silver Hire
+ui_home_newout_03=Friendliness Hire
+ui_home_newout_04=Home Hire
+ui_home_newout_05=Name
+ui_home_newout_06=Scene
+ui_home_newout_07=Affinity
+ui_home_newout_08=Remaining Time
+ui_home_newout_09=Effect Description
+ui_home_newout_10=Status
+ui_home_newout_11=Avatar
+ui_home_newout_12=Hire
+ui_home_newout_13=Hiring Time:
+ui_home_newout_14=Select a servant
+ui_home_newout_15=<s><s><s><s>Servants can take care of Breeding Farm's animals, and will treat them if they get sick.
+ui_home_newout_16=Upgrade Building
+ui_home_newout_17=Loot
+ui_home_newout_18=Current
+ui_home_newout_19=After Upgrade
+ui_home_newout_20=Upgrade the required Supply points:
+sys_home_act001=Eat more, grow faster!
+sys_home_001=Home Owner is not there now. Cannot visit.
+sys_home_002=As the Home version updates, the furniture will automatically be returned to the warehouse, and Outfits and Decorations will be returned via mail.
+sys_home_003=The player is in an abnormal state. Please try again.
+sys_home_004=Home Scene has been changed. Please re-enter.
+home_letter_back_title=System Mail
+home_letter_back_content=These are Outfit cards and Decorations that can be put onto furniture.
+timelimit_JBSX_001=Worship the saints
+sys_world_auction_001={@0:config} bid successful. This time <img src="gui\common\money\liang.png" valign="center" only="line" data="" />{@1:$} was spent.
+sys_world_auction_002=Bid has lost. Someone has beaten your bid!
+sys_world_auction_003=Bid has lost. Insufficient silver or Secondary Password was not unlocked!
+sys_world_auction_004=Bid has lost. You are in abnormal state, please try again later!
+sys_world_auction_005=This lot belongs to you, you cannot unfollow it!
+sys_world_auction_006=The World Auction {@0:config} Price was exceeded. Your Bid silver was returned to your mail.
+sys_world_auction_007=You are not a Jianghu VIP and you are not allowed to participate in this activity.
+sys_world_auction_bossworld_hql_big=Kirin appeared, Jianghu changed! With everyone's effort, Fire Kirin has finally been defeated. A large amount of rare items has been put for auction. You can purchase them if you hurry. Don't miss this opportunity!
+sys_world_auction_bossworld004_big=With everyone's effort, Poison Dove (Elite) has finally been defeated. A large amount of rare items has been put for auction. You can purchase them if you hurry. Don't miss this opportunity!
+sys_world_auction_bossworld004_small=With everyone's effort, Poison Dove has finally been defeated. A large amount of rare items has been put for auction. You can purchase them if you hurry. Don't miss this opportunity!
+sys_poultry_001=Home Breeding Farm function is not activated yet!
+sys_poultry_011=Only can be planted in Home Courtyard.
+sys_poultry_004=You're not the Home Owner.
+sys_poultry_003=Your vegetable garden hasn't been activated.
+sys_poultry_005=Too many animals of this kind already.
+sys_poultry_006=Breeding Farm is full.
+sys_poultry_010=You are not in the Breeding Farm.
+sys_poultry_012=The object is not farm animal, cannot use.
+sys_poultry_013=This animal is not sick.
+sys_poultry_015=Can use only at Home.
+sys_poultry_016=Too far away
+desc_switch_918=Cloud Valley Forbidden Instance Switch
+desc_switch_971=Cloud Valley Forbidden Instance Side Lord Qin Route Switch
+ui_pos_ReliveCJclone040=Cloud Valley
+sys_clone040_001=You not just received the secret letter, but managed to find this place. You are not an ordinary person. But, a straightforward person does not resort to insinuations. I am Lord Qin Manor's Zhu Yi.
+sys_clone040_002=So you are one of Lord Qin's people. No wonder! You said this place has to do something with a Silent Temple and is likely to have great treasures. Please tell more.<font color="#ffff00">(Enter Gong Shuxuan Line)</font>
+sys_clone040_003=I have been looking for the Silent Temple for many years and I have found this place, but I don't dare to enter.
+sys_clone040_004=This place runs deep, and there are traces. But before we've met, there were obstacles.
+sys_clone040_005=I believe that this place used to be the Silent Temple's stronghold. Even now there may be Silent Temple Martial Masters as in front (632,-220)... I invite you to explore with me.
+sys_clone040_006=Since we are here, let's not retreat! <font color="#ffff00">(Entering Gong Shuxuan Line, cannot change)</font>
+sys_clone040_007=These days I dare not go any further. Be careful of what's in front!
+sys_clone040_008=Finally passed it! That master's effort was anything but usual. This place indeed hides a secret!
+sys_clone040_009=It looks slightly different from the Mystic Manor. But that is not important. I suppose you know where to go further.
+sys_clone040_010=There is a bridge over (131,78) there!
+sys_clone040_011=So there are others aside from the blind man who know about this place... How could those little thieves divide grandpa's treasure!
+sys_clone040_012=This person must be from the tomb robbers family, and his skill is great. He mentioned that this place has not only great treasures, but also Martial Masters looking for it!
+sys_clone040_013=Not sure if this place still has the secret of the Silent Temple...
+sys_clone040_014=I have already tried my best. I will share with you if I find any clues. I need your assistance!
+sys_clone040_015=The terrain in front is peculiar. I wonder if you have any ideas.
+sys_clone040_016=Not sure what this rock is doing here, but someone has passed it before. Let's get (-183,-168) across first.
+sys_clone040_017=I'm only saying I am one of Lord Qin Manor people. This person suddenly attacked. Help me!
+sys_clone040_018=I've unexpectedly talked the tomb robbers to help me return here, but I fell into hands of Lord Qin Manor again... Ugh...
+sys_clone040_019=He committed suicide... I don't know what grudges he had with me. Could he be from Silent Temple?..
+sys_clone040_020=This should be the blind man that the Tomb Burglar mentioned. Really strange.
+sys_clone040_021=We will know more if we go deeper (173,-596). Let's get going.
+sys_clone040_022=What is this? Could it be the legendary Anaconda? Can't believe it really exists!
+sys_clone040_023=Though we are still badly shaken, but I just informed that there is no other place to go!
+sys_clone040_024=How can it be? There may be other dangers in here! Shouldn't we just return?!
+sys_clone040_025=Hm... Got to tell you, just now my guests found a secret passage (466,-609) above the rock. Where could it lead?..
+sys_clone040_026=Lead the way! I am curious what else this strange valley has prepared for us!
+sys_clone040_027=Come here, everyone.
+sys_clone040_028=Just come over. Seems like this dull swordsman won't be able to take revenge.
+sys_clone040_029=Who are you? Is there really a Silent Temple altar in here?
+sys_clone040_030=Silent Temple, hahahaha... Silent Temple must have long forgotten Gong Shuxuan.
+sys_clone040_031=Gongshu... Gongshu?!
+sys_clone040_032=There is only a tomb prepared by Silent Temple for you! I am so old, and you should be buried with me!
+sys_clone040_033=Turns out this is Lord Qin Manor Zhu Yi. Look ahead (632,-220) everyone.
+sys_clone040_034=Alright, take me back there.
+sys_clone040_035=After passing the mechanical humanoid Wei Su, go to the front (131,78) to see what is there.
+sys_clone040_036=I heard that terrain in front is unusual. Go (-183,-168) and have a look.
+sys_clone040_037=Things are getting complicated. Zhu Yi doesn't know what just happened. Now can only keep going deeper (173,-596).
+sys_clone040_038=Go through the secret passage (466,-609) on the rock and see if there is a cave.
+sys_clone040_039=You went through the secret passage (466,-609) and heard the voice telling you to come over (510,-1128). Follow the magical voice.
+sys_clone040_040=What do you want to know? Go down and figure it out!
+sys_clone040_041=I am leaving. Anyone wants to stop me?
+sys_clone040_042=There is no way to go!
+sys_clone040_043=The one who told me about Silent Temple turns out to be a Lord Qin man? Lord Qin Manor is in the teeth of the storm. Does it have anything to do with Silent Temple? Why should we trust you? <font color="#ffff00">(Enter Lord Qin Route)</font>
+sys_clone040_044=Silent Temple? In order to find out the truth and the purpose of this group, I've been ordered to search it for many years. Lord Qin Manor has nothing to do with the Association!
+sys_clone040_045=(He looks real but we have numbers. Let's see what he got) We will believe you for now. Do you have any clues about this place?
+sys_clone040_046=After many years of research I came to believe that this place used to be the Silent Temple's stronghold. Even though there may be Silent Temple Martial Masters, but there can be even more evil things ahead. I invite you to explore with me.
+sys_clone040_047=(He directly speaks of danger. Seems credible) Lead the way. Let's go and see. <font color="#ffff00">(Enter Lord Qin Route, cannot change)</font>
+sys_clone040_048=This Li Qingkuang seems to be very familiar with this place when so many of us got lost. Tianwaitian Sect, Silent Temple, what is going on?!
+sys_clone040_049=It seems like there are more secrets buried in here than anyone could imagine.
+sys_clone040_050=Now we are certain that this place is unusual, but there must be more dangers further on. Are you still willing to accompany me?
+sys_clone040_051=We are here to find the truth, so let's move forward. The terrain ahead looks odd. It might be dangerous.
+sys_clone040_052=What is that strange rock for? Just now when we were looking for Li Qingkuang, someone has passed through the stone platforms. Perhaps it is safe. Let's head over and take a look.
+sys_clone040_053=He committed suicide... I don't know what grudges he had with me. Could he be from Silent Temple?..
+sys_clone040_054=What the blind man said is quite suspicious. Weird... I see that you are not evil. Of course there is nothing anomalous in your residence?
+sys_clone040_055=I often came to Silent Temple, but there was nothing abnormal in my residence.
+sys_clone040_056=I had my doubts about you, please forgive me. Let's move on.
+sys_clone040_057=This beast has stitch marks on the back. I found it after breaking open...
+sys_clone040_058=It this... a seal?
+sys_clone040_059=This is a previous dynasty's treasure, Dragonjade Seal. it is an emblem of nation religions ruler.
+sys_clone040_060=Isn't it some kind of holy artifact? And why was it in this beast?
+sys_clone040_061=No idea. I recognized it because I've been browsing through the residence's book collection and accidentally came across this. This is an extraordinary item. I cannot trust anyone here. I will keep it for now. We will see how to deal with it once we leave this place.
+sys_clone040_062=(He is sincere and is making a good point) There are many outstanding people here. I don't think you will lose it, so take care of it!
+sys_clone040_063=There is something abnormal ahead (510,-1128). I will follow the voice and see what is going on!
+sys_clone040_064=The final battle has already started. You can't enter the secret room!
+sys_clone040_065=The final battle has already started. You can't leave the secret room!
+countlimit_clone040_001=Talk to Zhu Yi
+countlimit_clone040_001a=You finally found this place and encountered another human being (509,99) for the first time in here. Talk to them.
+countlimit_clone040_002=Defeat Wei Su
+countlimit_clone040_002a=Defeat the mechanical humanoid Wei Su (632,-220)
+countlimit_clone040_003=Talk to Zhu Yi
+countlimit_clone040_003a=Find Zhu Yi (632,-220) and see what to do next.
+countlimit_clone040_004=Defeat Wu Yin
+countlimit_clone040_004a=Defeat Wu Yin (131,78)
+countlimit_clone040_005=Talk to Zhu Yi
+countlimit_clone040_005a=It turns out there are Tomb Burglars in here! Ask Zhu Yi (131,78) what to do.
+countlimit_clone040_006=Defeat Cui Ji
+countlimit_clone040_006a=Defeat the blind swordsman (-183,-168)
+countlimit_clone040_007=Talk to Zhu Yi
+countlimit_clone040_007a=The blind swordsman seem to be connected to Lord Qin Manor. Ask Zhu Yi (-183,-168) about it.
+countlimit_clone040_008=Defeat the Anaconda
+countlimit_clone040_008a=Defeat the Anaconda (173,-596)
+countlimit_clone040_009=Talk to Zhu Yi
+countlimit_clone040_009a=The Anaconda is dead. There still can be many dangers. Ask Zhu Yi (173,-596) where to go next.
+countlimit_clone040_010=Defeat Gong Shuxuan
+countlimit_clone040_010a=This spooky old man (510,-1128) wants us to get buried with him. Handle him carefully!
+countlimit_clone040_011=Find the one who is speaking
+countlimit_clone040_012=Talk to Zhu Yi
+countlimit_clone040_012a=Li Qingkuang is one of the most dangerous killers in Wulin. He appeared in Cloud Valley. Ask Zhu Yi (131,78) about it.
+countlimit_clone040_013=Talk to Zhu Yi
+countlimit_clone040_013a=The Anaconda is dead. Find what Zhu Yi (173,-596) has discovered.
+countlimit_clone040_014=Defeat Li Qingkuang
+countlimit_clone040_014a=Defeat Li Qingkuang (131,78)
+countlimit_clone040_015=Defeat Lord Qin
+countlimit_clone040_015a=Having entered through the Secret Room (513,-1176), you've seen someone looking like Lord Qin's people. Gong Shuxuan is nowhere to be found. You need to defeat him in order to find out where the Dragon Seal is. (You won't be able to enter or leave the Secret Room once the battle begins)
+countlimit_clone040_016=Investigate in front
+countlimit_clone040_016a=There's something unusual ahead. Zhu Yi has already went on (510,-1128), keep up with him.
+countlimit_clone040_017=Get to the Secret Room
+countlimit_clone040_017a=Where these two came from? One of them seems to be Lord Qin, the other one killed people in his manor and left with the seal. Quickly enter the Secret Room (513,-1176)!
+GotoDoorClone040_001=Secret passage entrance
+scene_clone040=Cloud Valley
+clone040_lwx=Cloud Valley
+clonewarning_117127=This instance is not available at this time.
+ui_homemine_surtime=Less than {@0:value} minutes
+ui_homemine_finish=Finished
+sys_4yuejuqing_sz_001=A Silent Temple Killer suddenly appeared. Help Lin Tiannan to repel him.
+sys_mzyysl_001=Hand over the box you got from Zu Cheng, and I will spare you, otherwise you won't live another day!
+sys_mzyysl_002=There is someone! I came here not to kill you, so don't be so complacent! I'll be leaving now.
+sys_mzyysl_003=This matter has nothing to do with my sister. She stopped looking into the Silent Temple matter long ago. You still come looking for her, cherishing evil intentions! Watch this!
+sys_poultry_008=Mature
+sys_poultry_009={@0:time}
+sys_xsyjq_401=Stop! Who are you?
+sys_xsyjq_402=I am a Silent Temple Emissary.
+sys_xsyjq_403=Supreme guardian conquers tiger.
+sys_xsyjq_404=Here is my token.
+sys_xsyjq_405=Who are you on earth? Our secret code has changed long ago.
+sys_xsyjq_406=Too bad, my cover is blown. Crap.
+sys_xsyjq_exit=Leaving
+middle_spring_hunt_1=Congratulations to <font color="#00ff00">{@0:玩家名}</font> for landing a fatal blow on <font color="#00ff00">{@1:BOSS名}</font>. Their raid group will receive abundant Rewards!
+sys_guild_auth_001=Guild Verification Event is not yet available.
+sys_guild_auth_002=Guild Member Verification requirements not met. Verification failed.
+sys_guild_auth_003=Guild Leader Verification requirements not met. Verification failed.
+sys_guild_auth_004=It is not verification period. Verification failed.
+sys_guild_auth_005=Player error. Failed to get Rewards for Verification.
+ui_dboguild_seconds_text={@0:天} d {@1:时} h {@2:分} min
+ui_dboguild_yirenzheng=Verified
+ui_mail_guild_auth_source=Event Ambassador
+ui_mail_guild_auth_title=Guild Might Verification Event Reward
+ui_mail_guild_auth_content=You have reached the designated Might within the event time and got event reward!
+sys_clone040_skilltips001=Come and get some if you don't want to die.
+sys_clone040_skilltips002=You can just stand and watch how he is losing his life?
+sys_clone040_skilltips003=Watch this! Hahaha, is that all you've got?
+sys_clone040_skilltips004=Practice for another two hundred years if you want to beat me!
+sys_sanhill_020=Successfully obtained {@0:数量} Challenge points
+sys_sanhill_021=Successfully obtained {@0:数量} Wind Riding Points
+sys_sanhill_022=Successfully obtained {@0:数量} Cloud Stepping Points
+sys_sanhill_023=Points have reached max. Can't use.
+sys_ssf_fc_019=Failed to deduct Certificates.
+sys_ssf_fc_020=Certificates insufficient.
+sys_leitai_create_failed=Can't set up Jianghu Arena in Peerless Expert gameplay area!
+sys_world_auction_Boss_hd6_xd01=With everyone's effort, Chu Xiuhong (Blood Blade Clan) has finally been defeated. A large amount of rare items has been put for auction. You can purchase them if you hurry. Don't miss this opportunity!
+sys_world_auction_boss_act_sz01=With everyone's effort, Black Wind Stronghold Leader has finally been defeated. A large amount of rare items has been put for auction. You can purchase them if you hurry. Don't miss this opportunity!
+15916=<font color="#FF0000">{@0:Name}</font>’s team cleared Forbidden Instance<font color="#FF0000">{@1:Name} under Normal Difficulty</font> with the Score: <font color="#ffff00">{@2:Name}</font>, and was rewarded with <font color="#ffff00">Money</font>, and <font color="#ffff00">Experience</font>.
+15917=<font color="#FF0000">{@0:Name}</font>’s team cleared Forbidden Instance<font color="#FF0000">{@1:Name} under Hard Difficulty</font> with the Score: <font color="#ffff00">{@2:Name}</font>, and was rewarded with <font color="#ffff00">Money</font>, and <font color="#ffff00">Experience</font>.
+15918=<font color="#FF0000">{@0:Name}</font>’s team cleared Forbidden Instance<font color="#FF0000">{@1:Name} under Hell Difficulty</font> with the Score: <font color="#ffff00">{@2:Name}</font>, and was rewarded with <font color="#ffff00">Money</font> and <font color="#ffff00">Experience</font>.
+15919=<font color="#FF0000">{@0:Name}</font>’s team cleared the Forbidden Instance <font color="#FF0000">{@1:Name} under Normal Difficulty</font> with the Score: <font color="#ffff00">{@2:Name}</font>, created a new record for the instance, and was rewarded with <font color="#ffff00">Money</font> and <font color="#ffff00">Experience</font>.
+15920=<font color="#FF0000">{@0:Name}</font>’s team cleared the Forbidden Instance <font color="#FF0000">{@1:Name} under Hard Difficulty</font> with the Score: <font color="#ffff00">{@2:Name}</font>, created a new record for the instance, and was rewarded with <font color="#ffff00">Money</font> and <font color="#ffff00">Experience</font>.
+15921=<font color="#FF0000">{@0:Name}</font>’s team cleared the Forbidden Instance <font color="#FF0000">{@1:Name} under Hell Difficulty</font> with the Score: <font color="#ffff00">{@2:Name}</font>, created a new record for the instance, and was rewarded with <font color="#ffff00">Money</font> and <font color="#ffff00">Experience</font>.
+16103=Fleeing Villagers:
+19452=You cannot enter this territory as it hasn't been purchased yet.
+7945=Delicious Dragon Festival Token
+7946=Delicious Dragon Festival Token Event
+91178=Your cultivation in Hot Spring has reached the limit today.
+failed_qianbuzu=Unable to convert if [Fire Washing Platform] is not enough. It can be bought in Shop.
+successed_zhuanhuan=Congratulations! Conversion is successful! Consumed {@0:ToInt} [Fire-washing Platform].
+15936=<font color="#FF0000">{@0:Name}</font>’s team cleared Forbidden Instance<font color="#FF0000">{@1:Name} under Inferno Difficulty</font> with the Score: <font color="#ffff00">{@2:Name}</font>, and was rewarded with <font color="#ffff00">Money</font>, and <font color="#ffff00">Experience</font>.
+19668=<font color="#551A8B">{@0:name1} </font>changed the point setting from <font color="#551A8B">{@1:type1} </font>to <font color="#551A8B">{@2:type2}</font>, and basic points from <font color="#551A8B">{@3:score1} </font>to <font color="#551A8B">{@4:score2}.</font>
+19676=<font color="#008B00">Setting points:</font>{@:0player} <font color="#008B00">set up </font>{@:1type}<font color="#008B00">'s unit point to </font>{@:2point}<font color="#008B00">.</font>
+19677=<font color="#008B00">Setting points:</font>{@:0player} <font color="#008B00">deleted </font>{@:1type} <font color="#008B00">record item and added </font>{@:2type} <font color="#008B00">record item, and set the basic point to </font>{@:2point}<font color="#008B00">.</font>
+jyz_event_7_5_over=Event of Isolated School has been completed.
+sys_nlhh_005=You need to complete<font color="#ff0000"> Age of Wushu Record The Eight Reclusive Schools</font> before entering Nianluo Flower Festival.
+sys_hd6_boss_born=Four Reclusive School Experts have appeared in Competition Area in Suzhou. You might have a chance to join the Reclusive School by defeating them.
+sys_yjwm_two_01=Watch me as I perform a skill, and then use the same skill on these pillars. Do this correctly 5 times, and you will pass the test.
+scene_clone035=Qingyao Palace (single player)
+sys_yearboss_apply=There are beasts in Eastern Chengdu. Anyone interested in helping the people should go to Chengdu (399,585) and look for the "Nervous Commoners".
+sys_yearboss_begin=Nian has appeared. Go defeat him.
+sys_yearboss_join_failed=Don’t currently meet the requirements.
+sys_guj_choujiang003=You haven't redeemed the item activity token. You can't exchange activity.
+sys_guj_choujiang004=<font color="#A2FF6C">{@0:名字}</font> obtained <font color="#A2FF6C">{@1:道具}</font> in Activity Exchange.
+sys_guj_choujiang005=Activity Exchange
+sys_guj_choujiang006=This is the item you got in the Activity Exchange.
+ui_dbomall_0308=Activity Exchange
+ui_choujiang=Activity Exchange
+ui_guj_choujiangjs01=<s><s><s><s><s><s><s><s><s><s>Activity Exchange<br><s><s>To prosper the economy and nourish people's livelihood. The court has ordered that the every heroes in Jianghu can participate in the Activity Exchange. <br><s><s>Within a specified period of time, you can exchange activity by consuming Activity Tokens. <br>How to Get Activity Tokens: <br>1. VIP players can get Activity Token from the gift pack of Activity Value reaching 100.<br>2. Jianghu VIP and Young Hero Master players can claim Activity Token from Sima Haohong, Chengdu (879, 656) everyday.<br>3. You can exchange Activity Shards which you may get from Build New Horse Farm event for Activity Tokens at Yanjing Horse Farm Administer, Yanjing (-214, -245).<br>4. You can exchange for Activity Tokens with Working Medals you got from Model of Marital Practice event at Shang Wu, Suzhou (389, 768).<br><font color="#A2FF6C">Event Time: 4/27/2017 - 5/11/2017 midnight</font><br>Activity Exchange Rewards Give out: <br><s><s><font color="#A2FF6C">The rewards received for the activity exchange will be sent by mails. </font>

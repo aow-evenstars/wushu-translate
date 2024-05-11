@@ -1505,7 +1505,6 @@ collectinfo_27260=Find the <a href="findnpc_new,school06,GatherClone009003" styl
 collectinfo_27383=Investigate the body of the Spy.
 convoyinfo_27006=Follow the Abbot and find Zhu Jitun. Defuse his heart knot.
 hunterinfo_27061=Kill Ye Loukai who is in the Ancestral Hall of Twilight Village and save the Village Head's daughter Zhang Liaoliao.
-hunterinfo_27064=Kill Qian Xizhi
 hunterinfo_27260=Have a duel with <a href="findnpc_new,school06,WorldNpc02605" style="HLStype1">Elder Martial Sister Yi Ruoxun</a> and just stop where it should stop.
 hunterinfo_27261=Kill <a href="findnpc_new,school06,NpcClone009034" style="HLStype1">Hu Tuchong</a> who hides in Green Bamboo Sect.
 hunterinfo_27383=Catch <a href="findnpc,school05,1465,-580" style="HLStype1">Qian Bofei</a>.
@@ -1520,8 +1519,6 @@ interactinfo_27265=Talk to <a href="findnpc_new,school06,WorldNpc02605" style="H
 interactinfo_27269=Go to Sacrifice Cliff and find Abbess Mieyuan.
 interactinfo_27388=Speak with <a href="findnpc_new,school05,WorldNpc02201" style="HLStype1">Grandmother Tang</a>.
 interactinfo_27389=Talk to <a href="findnpc_new,school05,funnpcclone013005" style="HLStype1">Tang Qing</a>.
-interactinfo_27624=Go to <a href="findnpc_new,city04,CloneDoorNpc00048" style="HLStype1">Green Cloud Castle (Forbidden Area)</a> (<font face="Default" color="#FF0000">-394,57</font>)
-interactinfo_27626=Go to <font face="Default" color="#FF0000">Green Cloud Building (322,164)</font>
 interactinfo_27634=<s>Help Ding Haoyuan not to tell the truth to their boss. Don't go to Green Cloud Castle.
 okmenu_27081=This is the chieftain's letter. He is going to Nanjing first and told us to prepare well.
 okmenu_27264=<font face="Default" color="#ffffff">Thanks to Headmaster's instruction, I can pass the test today.</font>
@@ -1836,7 +1833,6 @@ collectinfo_27005_4=Go to the place within Tangmen <a href="findnpc,school05,134
 collectinfo_27011=The drawing of Peacock Feather
 hunterinfo_27002=Get in the <a href="findnpc,school05,1344,830" style="HLStype1">Peacock Villa</a>(Forbidden Instance) of Tangmen to kill <a href="findnpc_new,clone001,bossclone001003" style="HLStype1">Nan Batian</a> (Common Mode)
 hunterinfo_27062=Talk to Gramdma Liu to start the instance, and save five villagers who are being hunted by the Bandit Leader Zhou Lifeng. Kill him when he appears.
-hunterinfo_27063=Kill the arsonist at the village gate and get rid of Wei Buji (use the water bucket to get water from the lake and put out the fires; put 5 houses on fire to make Wei Buji appear)
 hunterinfo_27382=Go to <a href="findnpc,school05,1190,0,-552" style="HLStype1">Thousands Poison Palace</a> and stop Xing Tianzheng from stealing the Peacock Plume Blueprint.
 interactinfo_27007_1=Tell Sima Huifeng on the second floor to leave now.
 interactinfo_27069_2=Give Zhang Liaoliao’s message to Village Head Zhang Yishan (-69,-40)
@@ -1853,4 +1849,8 @@ storymenu_27380_1=The Peacock Plume is hidden in the Thousands Poison Palace. Th
 submitnpcex_2106=<s>Submit the Task to Village Head Zhang Yishan in Twilight Village.
 ZZAnswerText3_104=Dragon Claw
 ZZAnswerText_4_6=Dragon Claw
+hunterinfo_27063=Kill the arsonist at the village gate and get rid of Wei Buji (use the water bucket to get water from the lake and put out the fires; put 5 houses on fire to make Wei Buji appear)
+hunterinfo_27064=Kill Qian Xizhi
+interactinfo_27624=Go to <a href="findnpc_new,city04,CloneDoorNpc00048" style="HLStype1">Green Cloud Castle (Forbidden Area)</a> (<font face="Default" color="#FF0000">-394,57</font>)
+interactinfo_27626=Go to <font face="Default" color="#FF0000">Green Cloud Building (322,164)</font>
 

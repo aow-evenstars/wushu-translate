@@ -294,7 +294,6 @@ QiecuoMenu_81514=<font face="Default" color="#ffffff" >放馬過來吧！</font>
 QiecuoTitle_81507=<font face="Default" color="#ffffff" >我可不會留手，哼，小心了!</font>
 QiecuoTitle_81514=<font face="Default" color="#ffffff" >你準備好了嗎？</font>
 collectinfo_81507=去<a href="findnpc_new,born03,PlotDoor5neigbqz002" style="HLStype1">棲鳳山</a>捉鹿，並拿到鹿茸（使用捕獸夾道具在原地放下捕獸夾，鹿經過的時候就會被捕捉到。捕獸夾可以在老郎中那裡用碎銀購買）
-collectinfo_81508=前往困難難度雁門關（守軍線），在胡楊嶺的山洞裡收集<a href="findnpc,clone004_qb,-2,-21,228" style="HLStype1">胡楊草</a>
 collectinfo_81509=收集<a href="findnpc_new,," style="HLStype1"></a>虎骨
 collectinfo_81510=收集<a href="findnpc_new,," style="HLStype1"></a>唐針
 collectinfo_81511=擊殺<a href="findnpc_new,school02,monm021100" style="HLStype1">巨熊</a>，收集<a href="findnpc_new,," style="HLStype1"></a>熊掌
@@ -349,8 +348,6 @@ story_81556_1=<font face="Default" color="#ffffff" >你想去空谷？這個地�
 story_81556_2=<font face="Default" color="#ffffff" >可是我正準備收攤，我家中妻子臥病在床，郎中開了方子缺幾味藥引，我這兩天恐怕都要去找這幾味藥引。</font>
 story_81556_3=<font face="Default" color="#ffffff" >現在最主要的是缺少一個叫胡楊草</font><font face="Default" color="#ffffff" >的藥引。</font><font face="Default" color="#ffffff" >具體的還得去問問那位老郎中。</font>
 story_81557_1=<font face="Default" color="#ffffff" >客官你來的正好，那位書生回來過特別叮囑讓我告訴你他已經找到空谷了，看你還沒回來他先走了，說多謝你的幫助，等他從空谷回來再好好謝謝你。</font>
-story_81558_1=<font face="Default" color="#ffffff" >這是一種很稀少的草藥，在雁門關外的胡楊嶺有少量生長，以前戰事沒有那麼頻繁的時候，年年都有商人從關外帶回來，現在關外戰亂，各地都沒有這種草藥賣了。</font>
-story_81558_2=<font face="Default" color="#ffffff" >這個就比較難找了，這是一種很稀少的草藥，在雁門關外的胡楊嶺有少量生長，以前戰事沒有那麼頻繁的時候，年年都有商人從關外帶回來，現在關外戰亂，各地都沒有這種草藥賣了。</font>
 story_81559_1=<font face="Default" color="#ffffff" >不錯，讓我看看，嗯，足夠用了，我這就通知阮老頭準備給他妻子配藥，聽說你要讓阮老頭幫你點忙，你</font><font face="Default" color="#ffffff" >現在直接去找他吧。</font>
 story_81560_1=<font face="Default" color="#ffffff" >實在是太感謝您了！</font>
 story_81560_2=<font face="Default" color="#ffffff" >當然，當然可以，隨時出發，你準備好了喊我一聲就行。</font>
@@ -571,4 +568,7 @@ story_81509_2=<font face="Default" color="#ffffff" >果然如此，怪不得當�
 story_81522_3=<font face="Default" color="#ffffff" >竟有此事，拿給我看看……唐門的兵器？加上這根針？我似乎察覺到什麼了，加上畢家火重出江湖的時間，我知道了，你趕緊去百獸莊，我需要進一步確定。當初畢家火重出江湖在百獸莊強行借走一樣東西，我需要你去確定畢家火借走的是百獸莊的什麼東西。</font>
 storymenu_81508_2=<font face="Default" color="#ffffff" >我們丐幫在調查之前畢家火重出江湖一事，想打聽一下畢家火當初在百獸莊</font><font face="Default" color="#ffffff" >借</font><font face="Default" color="#ffffff" >走了何物？</font>
 storymenu_81509_3=<font face="Default" color="#ffffff" >原來如此，畢家火勾結邢君可和唐芸一起先劫鏢，拿到大批唐門的武器，然後從百獸莊強行借來九尾靈狐，邢君可和唐芸行刺丐幫嫁禍唐門，而畢家火就偷偷拿走打狗棒。</font>
+collectinfo_81508=前往雁門關，收集<a href="findnpc,clone004_wln,278,1,430" style="HLStype1">胡楊草</a>
+story_81558_1=<font face="Default" color="#ffffff" >這是一種很稀少的草藥，在雁門關有少量生長，以前戰事沒有那麼頻繁的時候，年年都有商人從關外帶回來，現在關外戰亂，各地都沒有這種草藥賣了。</font>
+story_81558_2=<font face="Default" color="#ffffff" >這個就比較難找了，這是一種很稀少的草藥，在雁門關有少量生長，以前戰事沒有那麼頻繁的時候，年年都有商人從關外帶回來，現在關外戰亂，各地都沒有這種草藥賣了。</font>
 

@@ -324,7 +324,6 @@ context_55569=金針沈家、徐家莊、都在成都，據說移花宮的勢力
 context_55574=得幸醉俠楚笑出手相助不然後果真是不堪設想，沒想到這卓北也來到了蘇州。江湖必然又要掀起一場腥風血雨
 context_55575=楚笑受傷甚重，托付前往君子堂尋找慕淑子的下落。以求靈丹妙藥來治療傷勢！
 context_55576=楚笑受傷甚重，托付前往君子堂尋找慕淑子的下落。以求靈丹妙藥來治療傷勢！
-context_55577=燕雙行的信都已經送完了，按照約定這個時候應該前往華山找他，不知道他又有何打算。六個勢力可都不是吃素的，難道他想以一敵六？
 menu_55540_1=<font face="Default" color="#ffffff" >色人紛紛為分為非</font>
 menu_55552_1=
 menu_55555_1=<font face="Default" color="#ffffff" >你難道真的以為跟姓葉的學了點皮毛功夫便可以戰勝向師叔？</font>
@@ -376,7 +375,6 @@ target_55573=用鋤頭翻找陽闕，將找到的陽闕交給十缺希望他不�
 target_55574=得幸楚笑出手相助，不過他被卓北偷襲只怕傷的不輕，需速速查看楚笑的傷勢
 target_55575=前往君子堂找到慕淑子為楚笑求藥
 target_55576=前往君子堂找到慕淑子為楚笑求藥
-target_55577=前往華山，找到燕雙行(尋找<a href="findnpc_new,city02,5nei_gbmdt001" style="HLStype1">李立</a>,讓他幫助你前往華山)
 title_55540=內息試煉
 title_55541=內息試煉
 title_55550=
@@ -479,12 +477,6 @@ complete_55590=<font face="Default" color="#ffffff" >閣下果然守信</font>
 complete_55591=<font face="Default" color="#ffffff" >閣下果然守信</font>
 context_55584=江湖動盪，風雨欲來。外域勢力進犯中原之際竟有不長眼的江湖勢力欲對我凌霄城圖謀不軌。既然來了便讓他們嘗嘗生死符的厲害。
 context_55585=明教委託在下於此處廣發贈禮，志在與有識之士結下善緣。
-context_55586=通關暮色之村地獄難度
-context_55587=通關青雲堡地獄難度
-context_55588=通關龍門客棧普通難度
-context_55589=通關雁門關守軍線普通難度
-context_55590=通關雁門關守軍線困難難度
-context_55591=通關雁門關守軍線地獄難度
 menu_55585_1=<font face="Default" color="#ffffff" >確認接取！</font>
 menu_55586_1=<font face="Default" color="#ffffff" >原來如此，那我便去了。</font>
 menu_55587_1=<font face="Default" color="#ffffff" >原來如此，那我便去了。</font>
@@ -492,12 +484,6 @@ menu_55588_1=<font face="Default" color="#ffffff" >原來如此，那我便去�
 menu_55589_1=<font face="Default" color="#ffffff" >原來如此，那我便去了。</font>
 menu_55590_1=<font face="Default" color="#ffffff" >原來如此，那我便去了。</font>
 menu_55591_1=<font face="Default" color="#ffffff" >原來如此，那我便去了。</font>
-next_55586=通關暮色之村地獄難度
-next_55587=通關青雲堡地獄難度
-next_55588=通關龍門客棧普通難度
-next_55589=通關雁門關守軍線普通難度
-next_55590=通關雁門關守軍線困難難度
-next_55591=通關雁門關守軍線地獄難度
 submit_55584=<font face="Default" color="#ffffff" >生死符-符奴（已完成）</font>
 submit_55585=<font face="Default" color="#ffffff" >聖火明尊全民贈禮</font><font face="Default" color="#ffffff" >（已完成）</font>
 submit_55586=<font face="Default" color="#ffffff" >那在下便是謝過了！</font>
@@ -508,20 +494,8 @@ submit_55590=<font face="Default" color="#ffffff" >那在下便是謝過了！</
 submit_55591=<font face="Default" color="#ffffff" >那在下便是謝過了！</font>
 target_55584=那些不自量力進犯凌霄城的江湖人物多被囚禁於城中，每日承受生死符的折磨，生不如死。城中人將他們稱之為「符奴」！
 target_55585=前往林梁處領取明教贈禮
-target_55586=通關暮色之村地獄難度
-target_55587=通關青雲堡地獄難度
-target_55588=通關龍門客棧普通難度
-target_55589=通關雁門關守軍線普通難度
-target_55590=通關雁門關守軍線困難難度
-target_55591=通關雁門關守軍線地獄難度
 title_55584=生死符-符奴
 title_55585=聖火明尊全民贈禮
-title_55586=暮色之村（地獄）
-title_55587=青雲堡（地獄）
-title_55588=龍門客棧（普通）
-title_55589=雁門關守軍線（普通）
-title_55590=雁門關守軍線（困難）
-title_55591=雁門關守軍線（地獄）
 menu_55529_1=<font face="Default" color="#ffffff" >丹書鐵券？九大宗門怎麼都會有？弟子從未聽掌門提起丹書鐵券。</font>
 CanAcceptMenu_55592=<font face="Default" color="#ffffff" >不知這幾日為何如此熱鬧？</font>
 CompleteMenu_55592=<font face="Default" color="#ffffff" >孔師的贈禮（可提交）</font>
@@ -531,4 +505,110 @@ context_55592=孔孟之道，聖者之途。凡傲視天下之人皆懷大智慧
 submit_55592=<font face="Default" color="#ffffff" >孔師的贈禮（已完成）</font>
 target_55592=尋找嚴倫瞭解孔師的贈禮
 title_55592=孔師的贈禮
+context_55586=通關禁地關暮色之村
+context_55587=通關禁地青雲堡
+context_55588=通關禁地鳳凰山莊
+context_55589=通關禁地蝙蝠洞
+context_55590=通關禁地無爭秘境
+context_55591=通關禁地大漠鬼城
+next_55586=通關暮色之村
+next_55587=通關青雲堡
+next_55588=通關鳳凰山莊
+next_55589=通關蝙蝠洞
+next_55590=通關無爭秘境
+next_55591=通關大漠鬼城
+target_55586=通關暮色之村
+target_55587=通關青雲堡
+target_55588=通關鳳凰山莊
+target_55589=通關蝙蝠洞
+target_55590=通關無爭秘境
+target_55591=通關大漠鬼城
+title_55586=【活動】龍紋重現—暮色之村
+title_55587=【活動】龍紋重現—青雲堡
+title_55588=【活動】龍紋重現—鳳凰山莊
+title_55589=【活動】龍紋重現—蝙蝠洞
+title_55590=【活動】龍紋重現—無爭秘境
+title_55591=【活動】龍紋重現—大漠鬼城
+CanAcceptMenu_55593=<font face="Default" color="#ffffff" >慧智大師？聽聞貴寺正在籌備法寶節，晚輩以為此時必定人手不足，若有用得著晚輩的地方大師儘管開口！</font>
+CompleteMenu_55593=<font face="Default" color="#ffffff" >大師，你瞧這些可是你要的米果！</font><font face="Default" color="#ffffff" >？</font>
+accept_55593_1=<font face="Default" color="#ffffff" >阿彌陀佛！小友來得正是時候，此次米、栗、棗、果仁等</font><font face="Default" color="#ffffff" >物</font><font face="Default" color="#ffffff" >略顯不足。若小友能尋來這些米果貧僧感激不盡！</font>
+complete_55593=<font face="Default" color="#ffffff" >阿彌陀佛！</font><font face="Default" color="#ffffff" >多謝小友，此處有鄙寺的些許贈禮，小友務必要收下！</font>
+context_55593=臘月初八乃我教「法寶節」，不知少俠是否有興趣為我寺略盡綿力？
+menu_55593_1=<font face="Default" color="#ffffff" >大師請放心，交給我便是！</font>
+submit_55593=<font face="Default" color="#ffffff" >阿彌陀佛！大師客氣了！</font>
+target_55593=臘月初八乃佛教「法寶節」，機會難得不如去見識見識！
+title_55593=五穀化緣
+target_55594=通關暮色之村。
+target_55595=通關青雲堡。
+target_55596=通關鳳凰山莊。
+target_55598=通關無爭秘境。
+target_55599=通關大漠鬼城。
+accept_55594_1=少俠若能幫我前往禁地探尋一番，這信物便可贈予少俠。
+accept_55595_1=少俠若能幫我前往禁地探尋一番，這信物便可贈予少俠。
+accept_55596_1=少俠若能幫我前往禁地探尋一番，這信物便可贈予少俠。
+accept_55597_1=少俠若能幫我前往禁地探尋一番，這信物便可贈予少俠。
+accept_55598_1=少俠若能幫我前往禁地探尋一番，這信物便可贈予少俠。
+accept_55599_1=少俠若能幫我前往禁地探尋一番，這信物便可贈予少俠。
+complete_55594=多謝少俠！
+complete_55595=多謝少俠！
+complete_55596=多謝少俠！
+complete_55597=多謝少俠！
+complete_55598=多謝少俠！
+complete_55599=多謝少俠！
+menu_55594_1=交給在下！
+menu_55595_1=交給在下！
+menu_55596_1=交給在下！
+menu_55597_1=交給在下！
+menu_55598_1=交給在下！
+menu_55599_1=交給在下！
+context_55600=少俠們即將迎來全新的挑戰，在下此處略備薄禮以助少俠們一臂之力！
+target_55600=前往<a href="findnpc_new,city02,hd_dw_001" style="HLStype1">林梁</a>處領取贈禮
+title_55600=全民贈禮
+CompleteMenu_55600=<font face="Default" color="#ffffff" >既然如此，晚輩便恭敬不如從命了！</font>
+accept_55600_1=<font face="Default" color="#ffffff" >少俠屢屢為中原武林出力！在下略備薄禮還請笑納！</font>
+complete_55600=<font face="Default" color="#ffffff" >哈哈哈，如此甚好！</font>
+menu_55600_1=<font face="Default" color="#ffffff" >林大人太客氣了！</font>
+context_55577=燕雙行的信都已經送完了，按照約定這個時候應該前往泰山找他，不知道他又有何打算。六個勢力可都不是吃素的，難道他想以一敵六？
+target_55577=前往泰山，找到燕雙行(尋找<a href="findnpc_new,city02,5nei_gbmdt001" style="HLStype1">李立</a>,讓他幫助你前往泰山)
+context_55601=林盟主近日獲得一座「玄晶玉璧」，可幫助俠士們提升功力。
+target_55601=與陳玄交談後參悟「玄晶玉璧」
+title_55601=玄晶玉璧
+CanAcceptMenu_55601=<font face="Default" color="#ffffff" >前輩，聽聞那「玄晶玉璧」便在此處？</font>
+CompleteMenu_55601=<font face="Default" color="#ffffff" >玄晶玉璧（可提交）</font>
+accept_55601_1=<font face="Default" color="#ffffff" >正是！</font><font face="Default" color="#ffffff" >玄晶玉璧並非凡物，少俠定要好好參悟！</font>
+complete_55601=<font face="Default" color="#ffffff" >看來你頗有心得！</font>
+menu_55601_1=<font face="Default" color="#ffffff" >晚輩定當好好參悟！</font>
+submit_55601=<font face="Default" color="#ffffff" >玄晶玉璧（已完成）</font>
+CanAcceptMenu_55594=聽說龍紋異寶重現江湖？
+CanAcceptMenu_55595=聽說龍紋異寶重現江湖？
+CanAcceptMenu_55596=聽說龍紋異寶重現江湖？
+CanAcceptMenu_55597=聽說龍紋異寶重現江湖？
+CanAcceptMenu_55598=聽說龍紋異寶重現江湖？
+CanAcceptMenu_55599=聽說龍紋異寶重現江湖？
+CanAcceptMenu_55600=<font face="Default" color="#ffffff" >林大人！</font>
+CompleteMenu_55594=龍紋異寶（可提交）
+CompleteMenu_55595=龍紋異寶（可提交）
+CompleteMenu_55596=龍紋異寶（可提交）
+CompleteMenu_55597=龍紋異寶（可提交）
+CompleteMenu_55598=龍紋異寶（可提交）
+CompleteMenu_55599=龍紋異寶（可提交）
+context_55594=通關暮色之村，尋找龍紋異寶線索。（暮色之村（序）無法完成任務）
+context_55595=通關青雲堡，尋找龍紋異寶線索。（青雲堡（序）無法完成任務）
+context_55596=通關鳳凰山莊，尋找龍紋異寶線索。（鳳凰山莊（序）無法完成任務）
+context_55597=通關雁門關（叛軍線），尋找龍紋異寶線索。
+context_55598=通關無爭秘境，尋找龍紋異寶線索。
+context_55599=通關大漠鬼城，尋找龍紋異寶線索。
+submit_55594=龍紋異寶（已完成）
+submit_55595=龍紋異寶（已完成）
+submit_55596=龍紋異寶（已完成）
+submit_55597=龍紋異寶（已完成）
+submit_55598=龍紋異寶（已完成）
+submit_55599=龍紋異寶（已完成）
+target_55597=通關雁門關（叛軍線）。
+title_55594=【龍紋異寶】—暮色之村
+title_55595=【龍紋異寶】—青雲堡
+title_55596=【龍紋異寶】—鳳凰山莊
+title_55597=【龍紋異寶】—雁門關（叛軍線）
+title_55598=【龍紋異寶】—無爭秘境
+title_55599=【龍紋異寶】—大漠鬼城
 

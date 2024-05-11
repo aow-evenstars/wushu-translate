@@ -746,6 +746,35 @@ collectinfo_60208=Quest has been reset. Please give up this quest and Press H to
 collectinfo_60209=Quest has been reset. Please give up this quest and Press H to accept the quest again at Guild Main Page -- Lucky Points Quest.
 interactinfo_60201=Finish Guild Team Practice once (at least one participant should be from the same Guild)
 interactinfo_60078=Guild Armed Escort is activated by any Guild officer. <a href="findnpc_new,city01,NPC_guild_pray_001" style="HLStype1">Yanjing Guild Armed Escort</a>, <a href="findnpc_new,city02,NPC_guild_pray_002" style="HLStype1">Suzhou Guild Armed Escort</a>, <a href="findnpc_new,city04,NPC_guild_pray_003" style="HLStype1">Luoyang Guild Armed Escort</a>, <a href="findnpc_new,city05,NPC_guild_pray_004" style="HLStype1">Chengdu Guild Armed Escort</a>. Once Guild Escort is activated, get the cart to the Halt Point. You should reach it together with the Escort to complete the task. <a href="findnpc_new,city01,EventNpc_guild_biaoche_001" style="HLStype1">Yanjing Halt Point</a>, <a href="findnpc_new,city02,EventNpc_guild_biaoche_001" style="HLStype1">Suzhou Halt Point</a>, <a href="findnpc_new,city04,EventNpc_guild_biaoche_001" style="HLStype1">Luoyang Halt Point</a>, <a href="findnpc_new,city05,EventNpc_guild_biaoche_001" style="HLStype1">Chengdu Halt Point</a>.
+useiteminfo_60024=Use the <a href="TASK_ITEM,item_niqiu_001" style="HLStype1">Mud Ball</a> five times on other players (Mud ball can be exchanged from Candied Haws with Five Aggregates And Demon-Subduing Item. The Mud ball can only be used by small body size players)
+DialogID_60934=<font face="Default" color="#ffffff" >I'm going to send the invitation note.</font>
+SubmitNpcEx_70145=Report to <a href="findnpc_new,city02,WorldNpc01194" style="HLStype1">Lin Tiannan</a> that you've sent out the invitation note.
+interactinfo_60934=Talk to <a href="findnpc_new,city02,Transcity02A" style="HLStype1">Xiang Jun</a>, request him to send the invitation notes to the grandmasters.
+okmenu_60934=<font face="Default" color="#ffffff" >All right.</font>
+SubmitNpcEx_70147=Find the event ambassador Lin Liang in each major city to submit your task and receive 12th Lunar Month Pack.
+SubmitNpcEx_70148=Find the event ambassador Lin Liang in each major city to submit your task and receive Laba Gift Pack.
+SubmitNpcEx_70149=Find Jing Huijuan (432,812) in Suzhou to receive Spring Festival Large Gift Pack.
+SubmitNpcEx_70150=Find Jing Huijuan (432,812) in Suzhou to receive Spring Festival Visit Pack.
+SubmitNpcEx_70151=Find the event ambassador Lin Liang in each major city to submit your task and receive New Year Martial Art Certificate.
+DialogID_60938=<font face="Default" color="#ffffff" >I'm going to send the invitation note.</font>
+SubmitNpcEx_70157=Report to <a href="findnpc_new,city02,WorldNpc01194" style="HLStype1">Lin Tiannan</a> that you've sent out the invitation note.
+interactinfo_60938=Talk to <a href="findnpc_new,city02,Transcity02A" style="HLStype1">Xiang Jun</a>, request him to send the invitation notes to the grandmasters.
+okmenu_60938=<font face="Default" color="#ffffff" >All right.</font>
+DialogID_60935=<font face="Default" color="#ffffff" >If you give me </font><font face="Default" color="#ffffff" >1</font><font face="Default" color="#ffffff" > bonfire wood, I will give you </font><font face="Default" color="#ffffff" >1</font><font face="Default" color="#ffffff" > Exquisite Item.</font>
+DialogID_60936=<font face="Default" color="#ffffff" >If you give me </font><font face="Default" color="#ffffff" >10</font><font face="Default" color="#ffffff" > bonfire woods, I will give you </font><font face="Default" color="#ffffff" >10</font><font face="Default" color="#ffffff" > Exquisite Items.</font>
+DialogID_60937=<font face="Default" color="#ffffff" >If you give me </font><font face="Default" color="#ffffff" >50</font><font face="Default" color="#ffffff" > bonfire woods, I will give you </font><font face="Default" color="#ffffff" >50</font><font face="Default" color="#ffffff" > Exquisite Items.</font>
+interactinfo_60935=Give <a href="findnpc_new,city03,npc_ghkh_hd_001" style="HLStype1">Hermit</a> 1 bonfire wood to receive Bonfire Certificate*1, Snow Lotus Fruit*1.
+interactinfo_60936=Give <a href="findnpc_new,city03,npc_ghkh_hd_001" style="HLStype1">Hermit </a> 10 bonfire woods to receive Bonfire Certificate*10, Snow Lotus Fruit*10.
+interactinfo_60937=Give <a href="findnpc_new,city03,npc_ghkh_hd_001" style="HLStype1">Hermit </a> 50 bonfire woods to receive Bonfire Certificate*50, Snow Lotus Fruit*50.
+okmenu_60935=<font face="Default" color="#ffffff" >I want to turn in 1 bonfire wood.</font>
+okmenu_60936=<font face="Default" color="#ffffff" >I want to turn in 10 bonfire woods.</font>
+okmenu_60937=<font face="Default" color="#ffffff" >I want to turn in 50 bonfire woods.</font>
+SubmitNpcEx_70158=<a href="findnpc_new,city02,hd_dw_001" style="HLStype1">Lin Liang</a>
+SubmitNpcEx_70159=<a href="findnpc_new,city02,WorldNpc01097" style="HLStype1">Yan Lun</a>
+SubmitNpcEx_70160=<a href="findnpc_new,city02,sz493" style="HLStype1">Tang Hulu</a>
+SubmitNpcEx_70161=<a href="findnpc_new,city02,hd_dw_001" style="HLStype1">Lin Liang</a>
+SubmitNpcEx_70163=<a href="findnpc_new,city02,hd_dw_001" style="HLStype1">Lin Liang</a>
+SubmitNpcEx_70164=<a href="findnpc_new,city02,hd_dw_001" style="HLStype1">Lin Liang</a>
 interactinfo_60214=Deliver the new year goods to the old beggar <a href="findnpc_new,city02,WorldNpc01135" style="HLStype1">Fan Yitang</a>.
 interactinfo_60215=Deliver the new year goods to the old widow <a href="findnpc_new,city02,WorldNpc01551" style="HLStype1"> Xu Yun</a>
 interactinfo_60216=Deliver the new year goods to the Study Master <a href="findnpc_new,city02,WorldNpc01097" style="HLStype1">Yan Lun</a>

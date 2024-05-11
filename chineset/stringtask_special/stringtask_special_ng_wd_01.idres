@@ -358,7 +358,6 @@ SubmitNpcEx_55565=讓<a href="findnpc_new,city03,NPC_5nei_z2_ll" style="HLStype1
 SubmitNpcEx_55569=連青城既然要去快活島必定經過蘇州，去<a href="findnpc_new,city02,NPC_5nei_z2_shh" style="HLStype1">蘇州</a>查探
 SubmitNpcEx_55574=答應<a href="findnpc_new,city02,NPC_5nei_z2_cx1" style="HLStype1">楚笑</a>前往君子堂
 SubmitNpcEx_55575=找到<a href="findnpc_new,school03,NPC_5nei_z2_msz" style="HLStype1">慕淑子</a>
-SubmitNpcEx_55577=找到<a href="findnpc_new,city02,5nei_gbmdt001" style="HLStype1">李立</a>（點擊燕雙行的坐騎便可離開華山）
 collectinfo_80514=在機關重重的迷宮中收集<a href="findnpc_new,,Gather_5nei_nx_hua" style="HLStype1">無名花</a>（若試煉失敗、放棄或完成請<a href="findnpc_new,school07,PlotDoor_5nei_nx_sl" style="HLStype1">離開迷宮</a>）
 collectinfo_80515=收集<a href="findnpc_new,school07,Gather_5nei_wd_yao" style="HLStype1">杉木草</a>給何老漢療傷
 collectinfo_80516=將洞中的<a href="findnpc_new,school07,Gather_5nei_wd_diao" style="HLStype1">團團</a>帶走，送給小核桃
@@ -395,7 +394,6 @@ interactinfo_80543=擊敗看守後去追<a href="findnpc_new,city05,Gather_5nei_
 interactinfo_80546=答應<a href="findnpc_new,city02,NPC_5nei_z2_sq1" style="HLStype1">十缺</a>的條件
 interactinfo_80547=將陽闕交給<a href="findnpc_new,city02,NPC_5nei_z2_sq1" style="HLStype1">十缺老人</a>，然後帶著江江離開此處
 interactinfo_80548=前往君子堂尋找<a href="findnpc_new,school03,Event_5nei_z2_55575" style="HLStype1">慕淑子</a>
-interactinfo_80550=站到<a href="findnpc_new,groupscene008_5nei,Event_5nei_z2_55577" style="HLStype1">一邊</a>，看看燕雙行要做什麼(如不在燕雙行身邊可以尋找<a href="findnpc_new,city02,5nei_gbmdt001" style="HLStype1">李立</a>,讓他幫助你前往華山。若有急事需要離開，請點擊燕雙行的坐騎)
 okmenu_80526=<font face="Default" color="#ffffff" >（想必葉驚樓躲在此處時還是用的連青城的身份）一切都好，這是他委託我交給你的東西。</font>
 okmenu_80532=<font face="Default" color="#ffffff" >就在後山。</font>
 okmenu_80536=<font face="Default" color="#ffffff" >多謝！</font>
@@ -562,8 +560,6 @@ storyinfo_80566=查看<a href="findnpc_new,city02,NPC_5nei_z2_cx1" style="HLStyp
 storyinfo_80570=向<a href="findnpc_new,school03,NPC_5nei_z2_msz" style="HLStype1">慕淑子</a>解釋你來此處的緣由
 storyinfo_80571=<a href="findnpc_new,school03,NPC_5nei_z2_xjk" style="HLStype1">邢君可</a>居然也在這裡
 storyinfo_80572=聽<a href="findnpc_new,school03,NPC_5nei_z2_cn" style="HLStype1">醜女</a>訴說
-storyinfo_80573=口信都已經帶到了，找到<a href="findnpc_new,groupscene008_5nei,NPC_5nei_z2_ysx1" style="HLStype1">燕雙行</a>(尋找<a href="findnpc_new,city02,5nei_gbmdt001" style="HLStype1">李立</a>,讓他幫助你前往華山。若有急事需要離開，請點擊燕雙行的坐騎)
-storyinfo_80574=與<a href="findnpc_new,groupscene008_5nei,NPC_5nei_z2_ysx1" style="HLStype1">燕雙行</a>交談(如不在燕雙行身邊可以尋找<a href="findnpc_new,city02,5nei_gbmdt001" style="HLStype1">李立</a>,讓他幫助你前往華山。若有急事需要離開，請點擊燕雙行的坐騎)
 storyinfo_80575=詢問<a href="findnpc_new,school07,npc_5neidh_wd" style="HLStype1">徐師伯</a>
 storyinfo_80576=試圖讓<a href="findnpc_new,school07,NPC_5nei_wd_lh1" style="HLStype1">老漢</a>與自己先比試一場
 storymenu_80530_1=<font face="Default" color="#ffffff" >你答應了便好！</font>
@@ -676,12 +672,6 @@ SubmitNpcEx_55588=<a href="findnpc_new,city05,world_npc_ybsz_01" style="HLStype1
 SubmitNpcEx_55589=<a href="findnpc_new,city05,world_npc_ybsz_01" style="HLStype1">異寶使者</a>
 SubmitNpcEx_55590=<a href="findnpc_new,city05,world_npc_ybsz_01" style="HLStype1">異寶使者</a>
 SubmitNpcEx_55591=<a href="findnpc_new,city05,world_npc_ybsz_01" style="HLStype1">異寶使者</a>
-specialinfo_4001=通關暮色之村地獄難度
-specialinfo_4002=通關青雲堡地獄難度
-specialinfo_4003=通關龍門客棧普通難度
-specialinfo_4004=通關雁門關守軍線困難難度
-specialinfo_4005=通關雁門關守軍線地獄難度
-specialinfo_4006=通關雁門關守軍線普通難度
 useiteminfo_80523=對<a href="findnpc_new,scene25,NPC_ssfnpc_dy_01" style="HLStype1">武峰翰</a>使用<a href="TASK_ITEM,useitem_ssfnpc_dy_01" style="HLStype1">亂心塵</a>，此人被種符已有二十餘日，早已眼斜鼻歪，怕是他的老母親也不能輕易認出他！
 useiteminfo_80524=對<a href="findnpc_new,scene25,NPC_ssfnpc_dy_02" style="HLStype1">陳義順</a>使用<a href="TASK_ITEM,useitem_ssfnpc_dy_01" style="HLStype1">亂心塵</a>，相傳此人曾是少林弟子，因偷學藏經閣中上乘武學被發現，打傷戒律院弟子二十餘人逃下少室山。已在此地被種符六十餘日，很好奇！他還能撐多久？
 useiteminfo_80525=對<a href="findnpc_new,scene25,NPC_ssfnpc_dy_03" style="HLStype1">鄧敬鈞</a>使用<a href="TASK_ITEM,useitem_ssfnpc_dy_01" style="HLStype1">亂心塵</a>，此人剛被送到此處，膽敢與凌霄城作對，便讓他嘗嘗生死符的滋味！
@@ -691,4 +681,25 @@ useiteminfo_80528=對<a href="findnpc_new,scene25,NPC_ssfnpc_dy_06" style="HLSty
 useiteminfo_80529=對<a href="findnpc_new,scene25,NPC_ssfnpc_dy_07" style="HLStype1">單于成</a>使用<a href="TASK_ITEM,useitem_ssfnpc_dy_01" style="HLStype1">亂心塵</a>，此人已經奄奄一息，今天便給他個痛快吧！
 useiteminfo_80530=對<a href="findnpc_new,scene25,NPC_ssfnpc_dy_08" style="HLStype1">魚鳴</a>使用<a href="TASK_ITEM,useitem_ssfnpc_dy_01" style="HLStype1">亂心塵</a>，此人被種符已有四十餘日，怕是撐不過今天了！
 SubmitNpcEx_55592=<a href="findnpc_new,city02,WorldNpc01097" style="HLStype1">嚴倫</a>
+specialinfo_4001=通關暮色之村
+specialinfo_4002=通關青雲堡
+specialinfo_4003=通關鳳凰山莊
+specialinfo_4005=通關無爭秘境
+specialinfo_4006=通關大漠鬼城
+SubmitNpcEx_55593=將「五穀包」交給<a href="findnpc_new,city02,npc_wugu_dy_01" style="HLStype1">慧智和尚</a>
+SubmitNpcEx_55600=前往<a href="findnpc_new,city02,hd_dw_001" style="HLStype1">林梁</a>處領取贈禮
+SubmitNpcEx_55577=找到<a href="findnpc_new,city02,5nei_gbmdt001" style="HLStype1">李立</a>（點擊燕雙行的坐騎便可離開泰山）
+interactinfo_80550=站到<a href="findnpc_new,groupscene008_5nei,Event_5nei_z2_55577" style="HLStype1">一邊</a>，看看燕雙行要做什麼(如不在燕雙行身邊可以尋找<a href="findnpc_new,city02,5nei_gbmdt001" style="HLStype1">李立</a>,讓他幫助你前往泰山。若有急事需要離開，請點擊燕雙行的坐騎)
+storyinfo_80573=口信都已經帶到了，找到<a href="findnpc_new,groupscene008_5nei,NPC_5nei_z2_ysx1" style="HLStype1">燕雙行</a>(尋找<a href="findnpc_new,city02,5nei_gbmdt001" style="HLStype1">李立</a>,讓他幫助你前往泰山。若有急事需要離開，請點擊燕雙行的坐騎)
+storyinfo_80574=與<a href="findnpc_new,groupscene008_5nei,NPC_5nei_z2_ysx1" style="HLStype1">燕雙行</a>交談(如不在燕雙行身邊可以尋找<a href="findnpc_new,city02,5nei_gbmdt001" style="HLStype1">李立</a>,讓他幫助你前往泰山。若有急事需要離開，請點擊燕雙行的坐騎)
+SubmitNpcEx_55601=回稟<a href="findnpc_new,city04,huodong_dy_51" style="HLStype1">陳玄</a>
+interactinfo_80554=與陳玄交談進行「玄晶玉璧」的參悟(攻擊「玄晶玉璧」即可完成任務)
+interactinfo_80555=與陳玄交談進行「玄晶玉璧」的參悟(攻擊「玄晶玉璧」即可完成任務)
+SubmitNpcEx_55594=<a href="findnpc_new,city05,world_npc_ybsz_01" style="HLStype1">異寶使者</a>
+SubmitNpcEx_55595=<a href="findnpc_new,city05,world_npc_ybsz_01" style="HLStype1">異寶使者</a>
+SubmitNpcEx_55596=<a href="findnpc_new,city05,world_npc_ybsz_01" style="HLStype1">異寶使者</a>
+SubmitNpcEx_55597=<a href="findnpc_new,city05,world_npc_ybsz_01" style="HLStype1">異寶使者</a>
+SubmitNpcEx_55598=<a href="findnpc_new,city05,world_npc_ybsz_01" style="HLStype1">異寶使者</a>
+SubmitNpcEx_55599=<a href="findnpc_new,city05,world_npc_ybsz_01" style="HLStype1">異寶使者</a>
+specialinfo_4004=通關雁門關（叛軍線）
 

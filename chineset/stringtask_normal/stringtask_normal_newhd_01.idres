@@ -580,10 +580,6 @@ target_70054=完成心魔試煉1次。
 target_70055=挫敗任意勢力1個。
 target_70056=通關任意禁地1次。
 target_70057=完成戰場勝利1次。
-title_70054=練武勞模-心魔
-title_70055=練武勞模-踢館
-title_70056=練武勞模-禁地
-title_70057=練武勞模-戰場
 complete_70508=<font face="Default" color="#ffffff" >既然血刀堂弟子已經擊殺，你也要小心了，防止柳生次郎懷疑</font><font face="Default" color="#ffffff" >。</font>
 context_70508=最近有血刀堂弟子投靠柳生次郎，一定要想辦法將其剷除
 context_70510=如今血刀堂弟子身死一事已經被柳生次郎懷疑，還需盡快想辦法避免
@@ -1104,7 +1100,6 @@ title_70136=感恩禮盒（所向披靡）
 title_70137=感恩禮盒（驚世駭俗）
 title_70138=感恩禮盒（空前絕後）
 title_70139=感恩禮盒（深藏不露）
-
 CanAcceptMenu_70144=<font face="Default" color="#ffffff" >新年祝福（可接取）</font>
 CompleteMenu_70144=<font face="Default" color="#ffffff" >新年祝福（已完成）</font>
 accept_70144_1=<font face="Default" color="#ffffff" >新年之際，祝各位大俠吉祥如意，闔家團圓，福壽康寧，財源廣進，步步高陞！</font>
@@ -1114,7 +1109,6 @@ menu_70144_1=<font face="Default" color="#ffffff" >謝謝</font>
 submit_70144=<font face="Default" color="#ffffff" >謝謝</font>
 target_70144=祝各位大俠吉祥如意，闔家團圓，福壽康寧，財源廣進，步步高陞！
 title_70144=新年祝福
-
 CanAcceptMenu_70142=<font face="Default" color="#ffffff" >彩蛋迎新
 CanAcceptMenu_70143=<font face="Default" color="#ffffff" >神秘彩蛋</font>
 CompleteMenu_70142=<font face="Default" color="#ffffff" >完成任務</font>
@@ -1147,3 +1141,93 @@ target_70141=活動期間獲得「討賊先鋒」身份的神機營將士可前�
 title_70141=神機營現鎮國魂
 title_70142=彩蛋迎新
 title_70143=神秘彩蛋
+CanAcceptMenu_70145=<font face="Default" color="#ffffff" >廣邀群俠共聚臘八（可接取）</font>
+CompleteMenu_70145=<font face="Default" color="#ffffff" >廣邀群俠共聚臘八（可提交）</font>
+accept_70145_1=<font face="Default" color="#ffffff" >臘八將至，本人已前去查看俠客島上臘八粥熬製情況，準備分發拜帖廣邀豪傑屆時一同前往俠客島喝粥，奈何人手不足現需要俠士幫助遞送拜帖。 </font>
+complete_70145=<font face="Default" color="#ffffff" >這是給予大俠的獎勵，請您笑納！</font>
+context_70145=臘八將至，武林盟主-林天南前去查看俠客島上臘八粥熬製情況現已回到蘇州，準備分發邀請拜帖廣邀豪傑屆時一同前往俠客島喝粥，奈何人手不足現需要俠士幫助遞送請拜帖。
+menu_70145_1=<font face="Default" color="#ffffff" >好的</font>
+submit_70145=<font face="Default" color="#ffffff" >謝謝</font>
+target_70145=前去與相軍相談，吩咐其將拜帖送至各大掌門處
+target_70146=將酒樓掌櫃孟光準備的臘八食粥送各位老人
+title_70145=廣邀群俠共聚臘八
+context_70147=臘月活動期間內（2018.1.18-2018.1.31），各位俠士可在各大主城節日活動大使林梁處領取一份臘月禮包。
+context_70148=臘八節活動當天（2018.1.24），各位俠士可在各大主城節日活動大使林梁處領取一份臘八禮包。
+target_70147=在主城節日活動大使林梁處領取臘月禮包。
+target_70148=前往各大主城節日活動大使林梁處領取臘八禮包。
+title_70147=臘月禮包贈好禮
+title_70148=臘八禮包贈好禮
+context_70149=新年活動期間（2018.2.8-2018.2.28），玩家可以前往蘇州荊惠娟（432 812）處領取新春大禮包一份。
+context_70150=拜年活動期間（2018.2.16），玩家可以前往蘇州荊惠娟（432 812）處領取拜年禮包一份。
+context_70151=活動期間內，各位俠士可在各大主城節日活動大使林梁處領取新年武學憑證。
+target_70151=前往各大主城節日活動大使林梁處領取新年武學憑證。
+title_70151=武學饋眾俠
+context_70152=北方有佳人，絕世而獨立。女神節到了，在此為各位美人準備了一份大禮，過節的同時各位不要忘了收禮哦。
+target_70152=絕代佳人
+title_70152=絕代佳人
+context_70153=活動期間，實力達到略有小成且是江湖名俊的俠士，可在蘇州書齋先生嚴倫（471 434）處領取一份莘莘學子禮包。
+title_70153=學子入學領好禮
+target_70153=前往蘇州書齋先生嚴倫處領取莘莘學子禮包。
+CanAcceptMenu_70157=<font face="Default" color="#ffffff" >武林拜帖（可接取）</font>
+CompleteMenu_70157=<font face="Default" color="#ffffff" >武林拜帖（可提交）</font>
+accept_70157_1=<font face="Default" color="#ffffff" >由於秦王府從中作梗，武林與朝廷間隙日益增加，為了緩解武林各派與朝廷的矛盾，請諸位大俠贈送拜帖於各大掌門，囑咐撫慰門中弟子不要被惡人挑撥，擾亂中原武林之團結。</font>
+complete_70157=<font face="Default" color="#ffffff" >這是給予大俠的獎勵，請您笑納！</font>
+context_70157=由於秦王府從中作梗，武林與朝廷間隙日益增加，為了緩解武林各派與朝廷的矛盾，盟主吩咐諸位大俠贈送拜帖於各大掌門，囑咐撫慰門中弟子不要被惡人挑撥，擾亂中原武林之團結。
+menu_70157_1=<font face="Default" color="#ffffff" >好的</font>
+submit_70157=<font face="Default" color="#ffffff" >謝謝</font>
+target_70157=前去與相軍相談，吩咐其將拜帖送至各大掌門處
+title_70157=武林拜帖
+context_70154=活動期間內，在金陵郊外隱者（1482 70）上交木料1份即可活動獲得「篝火憑證*1，雪蓮果*1」。
+context_70155=活動期間內，在金陵郊外隱者（1482 70）上交木料10份即可活動獲得「篝火憑證*10，雪蓮果*10」。
+context_70156=活動期間內，在金陵郊外隱者（1482 70）上交木料50份即可活動獲得「篝火憑證*50，雪蓮果*50」。
+target_70154=找隱者（1482 70）上交1份篝火木料。
+target_70155=找隱者（1482 70）上交10份篝火木料。
+target_70156=找隱者（1482 70）上交50份篝火木料。
+title_70154=收集篝火木料（1）
+title_70155=收集篝火木料（10）
+title_70156=收集篝火木料（50）
+context_70158=勤武嘉獎活動期間，各位俠士可在各大主城節日活動大使林梁處領取一份勤武嘉獎包。
+context_70159=勤武簽到活動期間，各位俠士可在蘇州（472.433）嚴倫處領取五一簽到包一份。
+target_70158=前往各大主城節日活動大使林梁處領取一份勤武嘉獎包。
+target_70159=前往蘇州（472.433）嚴倫處領取五一簽到包一份
+title_70158=勤武嘉獎
+title_70159=勤武簽到
+title_70054=勤武勞模-心魔
+title_70055=勤武勞模-踢館
+title_70056=勤武勞模-禁地
+title_70057=勤武勞模-戰場
+context_70160=身在江湖，不一定要整天打打殺殺，偶爾也可回歸童真，體驗體驗這種天真的孩童生活！
+target_70160=與唐葫蘆小販對話
+title_70160=江湖童真現 萌娃鬧六一
+CanAcceptMenu_70162=<font face="Default" color="#ffffff" >萌娃鬧六一</font>
+CompleteMenu_70162=<font face="Default" color="#ffffff" >完成任務</font>
+accept_70162_1=<font face="Default" color="#ffffff" >  我這裡有一些泥球，你今天拿去丟其他的人，他們不會打你哦（壞笑）</font>
+complete_70162=<font face="Default" color="#ffffff" >  哈哈哈有沒有被人胖揍啊~</font><font face="Default" color="#ffffff" >這個小禮物就算是給你的補償。</font>
+context_70162=在小體型的狀態下，對其他玩家使用五次泥球，我就給你一份禮物
+menu_70162_1=<font face="Default" color="#ffffff" >那給我來一打。</font>
+next_70162=
+submit_70162=<font face="Default" color="#ffffff" >下次我就丟你，哼。</font>
+target_70162=對其他玩家使用五次泥球
+title_70162=萌娃鬧六一
+context_70161=鋒行雲崖活動期間，各位俠士可在各大主城節日活動大使林梁處領取一份【鋒行雲崖】全民贈禮。
+target_70161=前往各大主城節日活動大使林梁處領取一份【鋒行雲崖】全民贈禮
+title_70161=全民贈禮全民享
+context_70163=活動期間，登錄遊戲即可前往 活動大使林梁 處領取端午佳節禮盒（每個角色僅限領取1次）
+target_70163=找到林梁，領取端午佳節禮盒
+title_70163=又是一年端午到，佳節禮盒任意領
+CanAcceptMenu_70163=<font face="Default" color="#ffffff" >又是一年端午到，佳節禮盒任意領</font>
+CompleteMenu_70163=<font face="Default" color="#ffffff" >完成任務</font>
+accept_70163_1=<font face="Default" color="#ffffff" >又是一年端午佳節至。只要在端午節活動期間登陸，都可以在我這邊領取一份獎品。</font>
+complete_70163=<font face="Default" color="#ffffff" >祝少俠一路順風。</font>
+menu_70163_1=<font face="Default" color="#ffffff" >多謝</font>
+submit_70163=<font face="Default" color="#ffffff" >在下告辭</font>
+CanAcceptMenu_70164=<font face="Default" color="#ffffff" >暑期江湖禮</font>
+CompleteMenu_70164=<font face="Default" color="#ffffff" >完成任務暑期江湖禮</font>
+accept_70164_1=<font face="Default" color="#ffffff" >又是一年</font><font face="Default" color="#ffffff" >暑期</font><font face="Default" color="#ffffff" >至。只要</font><font face="Default" color="#ffffff" >在</font><font face="Default" color="#ffffff" >活動期間登陸，都可以在我這邊領取一份獎品。</font>
+complete_70164=<font face="Default" color="#ffffff" >祝大俠一路順風</font>
+context_70164=活動期間，登錄遊戲即可前往 活動大使林梁 處領暑期江湖包（每個角色僅限領取1次）
+menu_70164_1=<font face="Default" color="#ffffff" >多謝</font>
+submit_70164=<font face="Default" color="#ffffff" >在下告辭</font>
+target_70164=找到林梁，領取暑期江湖包
+title_70164=暑期江湖禮
+

@@ -580,14 +580,6 @@ DialogID_60214=<font face="Default" color="#ffffff" >少俠行行好，我已經
 DialogID_60215=<font face="Default" color="#ffffff" >節日雖然到了，我還是這麼孤獨，只得在此來求籤算一卦了，哎，時也命也。</font>
 DialogID_60216=<font face="Default" color="#ffffff" >書中自有顏如玉，書中自有黃金屋，少俠你可是來看書的？</font>
 DialogID_60217=<font face="Default" color="#ffffff" >今朝有酒今朝醉，哇好酒，好酒，少俠你可是來給我送好酒的？</font>
-interactinfo_60214=將中秋禮盒送給在蘇州酒樓門外乞討的老叫花子<a href="findnpc_new,city02,WorldNpc01135" style="HLStype1">范一湯</a>，給他送去溫暖。
-interactinfo_60215=將中秋禮盒送給在蘇州酒樓門外的孤寡老人<a href="findnpc_new,city02,WorldNpc01551" style="HLStype1">徐雲</a>，給她送去溫暖。
-interactinfo_60216=將中秋禮盒送給在蘇州城內的書齋先生<a href="findnpc_new,city02,WorldNpc01097" style="HLStype1">嚴倫</a>，給他送去溫暖。
-interactinfo_60217=將中秋禮盒送給在蘇州酒樓門外醉酒的醉漢<a href="findnpc_new,city02,WorldNpc01626" style="HLStype1">解廣天</a>，給他送去溫暖。
-okmenu_60214=<font face="Default" color="#ffffff" >這位大哥，您運氣不錯，我正好是幫酒樓掌櫃給您送些中秋禮盒的。</font>
-okmenu_60215=<font face="Default" color="#ffffff" >婆婆切勿悲傷，我是替酒樓掌櫃給</font><font face="Default" color="#ffffff" >您</font><font face="Default" color="#ffffff" >送些中秋禮盒，以便</font><font face="Default" color="#ffffff" >您</font><font face="Default" color="#ffffff" >度過佳節。</font>
-okmenu_60216=<font face="Default" color="#ffffff" >我是幫酒樓掌櫃給</font><font face="Default" color="#ffffff" >您</font><font face="Default" color="#ffffff" >送些中秋禮盒的，請您收下。</font>
-okmenu_60217=<font face="Default" color="#ffffff" >我是幫酒樓掌櫃給您送些中秋禮盒的，請您收下。</font>
 SubmitNpcEx_70075=前往各大主城活動大使林梁處領取新春大禮包。
 SubmitNpcEx_70076=前往各大主城活動大使林梁處領取新年紅包。
 SubmitNpcEx_70077=前往各大主城活動林梁處領取任務獎勵。
@@ -737,9 +729,7 @@ SubmitNpcEx_70136=找林梁提交任務
 SubmitNpcEx_70137=找林梁提交任務
 SubmitNpcEx_70138=找林梁提交任務
 SubmitNpcEx_70139=找林梁提交任務
-
 SubmitNpcEx_70144=去<a href="findnpc_new,city02,WorldNpc01650" style="HLStype1">荊惠娟</a>處獲取新年禮盒
-
 DialogID_60080=<font face="Default" color="#ffffff" >你也不用著急，城南碼頭的船夫，正在為朝廷尋找該彩蛋，你可以將此彩蛋</font><font face="Default" color="#ffffff" >交給</font><font face="Default" color="#ffffff" >他。</font>
 DialogID_60081=<font face="Default" color="#ffffff" > 少俠小心，周圍有西域賊人正盯著我，還請低聲說話。</font>
 DialogID_60082=<font face="Default" color="#ffffff" >  </font><font face="Default" color="#ffffff" >多謝少俠，我這就將此物歸還主人。還帶我向阿仙兒問好，我在她那存了一份薄禮，還請少俠笑納。</font>
@@ -753,3 +743,41 @@ okmenu_60082=<font face="Default" color="#ffffff" >現在安全了，還請船�
 specialinfo_1383=成功挑戰心魔兩次
 SubmitNpcEx_70140=找各大主城節日活動大使林梁提交任務獲得「鎮國槍魂」全民贈禮禮包。
 SubmitNpcEx_70141=與<a href="findnpc_new,school21,newmp_sjy_002" style="HLStype1">耿伯宣</a>交談
+DialogID_60934=<font face="Default" color="#ffffff" >我這就將拜帖送至各大掌門處！</font>
+SubmitNpcEx_70145=回復<a href="findnpc_new,city02,WorldNpc01194" style="HLStype1">林天南</a>，拜帖送出之事
+interactinfo_60934=前去與<a href="findnpc_new,city02,Transcity02A" style="HLStype1">相軍</a>相談，吩咐其將拜帖送至各大掌門處
+okmenu_60934=<font face="Default" color="#ffffff" >恩</font>
+SubmitNpcEx_70147=找各大主城節日活動大使林梁提交任務領取臘月禮包。
+SubmitNpcEx_70148=找各大主城節日活動大使林梁提交任務領取臘八禮包。
+interactinfo_60214=將臘八食粥送給在蘇州酒樓門外乞討的老叫花子<a href="findnpc_new,city02,WorldNpc01135" style="HLStype1">范一湯</a>，給他送去溫暖。
+interactinfo_60215=將臘八食粥送給在蘇州酒樓門外的孤寡老人<a href="findnpc_new,city02,WorldNpc01551" style="HLStype1">徐雲</a>，給她送去溫暖。
+interactinfo_60216=將臘八食粥送給在蘇州城內的書齋先生<a href="findnpc_new,city02,WorldNpc01097" style="HLStype1">嚴倫</a>，給他送去溫暖。
+interactinfo_60217=將臘八食粥送給在蘇州酒樓門外醉酒的醉漢<a href="findnpc_new,city02,WorldNpc01626" style="HLStype1">解廣天</a>，給他送去溫暖。
+okmenu_60214=<font face="Default" color="#ffffff" >這位大哥，您運氣不錯，我正好是幫酒樓掌櫃給您送些臘八食粥的。</font>
+okmenu_60215=<font face="Default" color="#ffffff" >婆婆切勿悲傷，我是替酒樓掌櫃給</font><font face="Default" color="#ffffff" >您</font><font face="Default" color="#ffffff" >送些臘八食粥，以便</font><font face="Default" color="#ffffff" >您</font><font face="Default" color="#ffffff" >度過佳節。</font>
+okmenu_60216=<font face="Default" color="#ffffff" >我是幫酒樓掌櫃給</font><font face="Default" color="#ffffff" >您</font><font face="Default" color="#ffffff" >送些臘八食粥的，請您收下。</font>
+okmenu_60217=<font face="Default" color="#ffffff" >我是幫酒樓掌櫃給您送些臘八食粥的，請您收下。</font>
+SubmitNpcEx_70149=前往蘇州荊惠娟（432 812）處領取新春大禮包一份。
+SubmitNpcEx_70150=前往蘇州荊惠娟（432 812）處領取拜年禮包一份。
+SubmitNpcEx_70151=找各大主城節日活動大使林梁提交任務領取新年武學憑證
+DialogID_60938=<font face="Default" color="#ffffff" >我這就將拜帖送至各大掌門處！</font>
+SubmitNpcEx_70157=回復<a href="findnpc_new,city02,WorldNpc01194" style="HLStype1">林天南</a>，拜帖送出之事
+interactinfo_60938=前去與<a href="findnpc_new,city02,Transcity02A" style="HLStype1">相軍</a>相談，吩咐其將拜帖送至各大掌門處
+okmenu_60938=<font face="Default" color="#ffffff" >恩</font>
+DialogID_60935=<font face="Default" color="#ffffff" >你若有</font><font face="Default" color="#ffffff" >1份</font><font face="Default" color="#ffffff" >篝火木料給我，我便送你</font><font face="Default" color="#ffffff" >1份</font><font face="Default" color="#ffffff" >精美的物品。</font>
+DialogID_60936=<font face="Default" color="#ffffff" >你若有</font><font face="Default" color="#ffffff" >10份</font><font face="Default" color="#ffffff" >篝火木料給我，我便送你</font><font face="Default" color="#ffffff" >10份</font><font face="Default" color="#ffffff" >精美的物品。</font>
+DialogID_60937=<font face="Default" color="#ffffff" >你若有</font><font face="Default" color="#ffffff" >50份</font><font face="Default" color="#ffffff" >篝火木料給我，我便送你</font><font face="Default" color="#ffffff" >50份</font><font face="Default" color="#ffffff" >精美的物品。</font>
+interactinfo_60935=向<a href="findnpc_new,city03,npc_ghkh_hd_001" style="HLStype1">隱者</a>上交1份篝火木料，即可獲得「篝火憑證*1，雪蓮果*1」。
+interactinfo_60936=向<a href="findnpc_new,city03,npc_ghkh_hd_001" style="HLStype1">隱者</a>上交10份篝火木料，即可獲得「篝火憑證*10，雪蓮果*10」。
+interactinfo_60937=向<a href="findnpc_new,city03,npc_ghkh_hd_001" style="HLStype1">隱者</a>上交50份篝火木料，即可獲得「篝火憑證*50，雪蓮果*50」。
+okmenu_60935=<font face="Default" color="#ffffff" >我要上交1份篝火木料。</font>
+okmenu_60936=<font face="Default" color="#ffffff" >我要上交10份篝火木料。</font>
+okmenu_60937=<font face="Default" color="#ffffff" >我要上交50份篝火木料。</font>
+SubmitNpcEx_70158=<a href="findnpc_new,city02,hd_dw_001" style="HLStype1">林梁</a>
+SubmitNpcEx_70159=<a href="findnpc_new,city02,WorldNpc01097" style="HLStype1">嚴倫</a>
+SubmitNpcEx_70160=<a href="findnpc_new,city02,sz493" style="HLStype1">唐葫蘆</a>
+useiteminfo_60024=對其他玩家使用五次<a href="TASK_ITEM,item_niqiu_001" style="HLStype1">泥球</a>（泥球可在糖葫蘆處使用五蘊兌換，需要變成正太/蘿莉才能使用泥球）
+SubmitNpcEx_70161=<a href="findnpc_new,city02,hd_dw_001" style="HLStype1">林梁</a>
+SubmitNpcEx_70163=<a href="findnpc_new,city02,hd_dw_001" style="HLStype1">林梁</a>
+SubmitNpcEx_70164=<a href="findnpc_new,city02,hd_dw_001" style="HLStype1">林梁</a>
+

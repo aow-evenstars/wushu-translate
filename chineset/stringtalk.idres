@@ -13705,7 +13705,6 @@ talk_special_98001=這外域武林一直是我的心頭大患，如今時機已�
 menu_npc_ftask_007_1_1=切磋棋藝
 title_npc_ftask_007_1_1=你對圍棋很感興趣，不如我們切磋一下？
 npc_ftask_007_guj01=切磋
-menu_WorldNpc01194_1_1=場景傳送
 title_WorldNpc01194_1_1=此去路途遙遠，我來送你一程。
 WorldNpc01194_guj_001=傳送
 sys_WorldNpc_guj04yue_001_1=此地守衛已經解決，我這就送俠士離開。
@@ -13999,4 +13998,99 @@ talk_special_80320213={@0:玩家名}，今天本教主要拿出真正的實力�
 talk_special_80320204={@0:玩家名}少俠，本教主要拿出真本事來了，自求多福吧……
 talk_special_80320214={@0:玩家名}少俠果然好本事，本教主佩服！
 talk_thd05=哎呀，背上癢癢，讓我先撓撓！
+talk_special_290301=多……多謝大俠！多謝大俠救命之恩！
+talk_special_290302=好痛，好痛啊！我的房子！嗚……嗚……
+talk_special_290303=大俠請救救我的家人吧！他們不是人，不是人啊！
+talk_special_290304=我得趕緊去碼頭看看，我的家人在不在那裡…………
+talk_special_290305=這是造了什麼孽啊，為什麼我們要受這種罪！
+sys_sjyguj01=神機營將士
+tip_sjyguj01=將神機營將士（藍）吸引至藍色特效圈內將其擊敗
+sys_sjyguj02=神機營將士
+tip_sjyguj02=將神機營將士（紅）吸引至紅色特效圈內將其擊敗
+sys_sjyguj03=董琛致
+tip_sjyguj03=將董琛致擊敗，從而完成此次校場演習
+sys_time_sjyguj03=活動時間
+tips_time_sjyguj03=在規定時間內完成此次校場演習
+sys_time_sjyguj04=傳送時間
+tips_time_sjyguj04=60秒後將會被傳離此活動場景
+trigger_sjy_xcyx_guj_1=<font color="#00FF00">校場演習開始，5秒後將出現演習將士！</font>
+trigger_sjy_xcyx_guj_10=校場演習已經開啟，請前往端木朋（-205 185）處參加！
+trigger_sjy_xcyx_guj_3=<font color="#00FF00">神機營將士（藍）已經在活動場景內出現，請將其擊敗！</font>
+trigger_sjy_xcyx_guj_4=<font color="#00FF00">神機營將士（紅）已經在活動場景內出現，請將其擊敗！</font>
+trigger_sjy_xcyx_guj_7=前來驗證各位俠士的江湖人士即將出現，請做好戰鬥準備！
+trigger_sjy_xcyx_guj_8=<font color="#00FF00">此次校場演習活動結束，請有序離開活動場景！</font>
+trigger_sjy_xcyx_guj_9=此次校場演習圓滿完成，請等待下一場校場演習！
+task_newmp_sjy_gujhuodong001=神機營將士不得絲毫懈怠，需勤加修煉！
+menu_newmp_sjy_gujhuodong001_1_1=軍中遊戲
+title_newmp_sjy_gujhuodong001_1_1=神機營將士每天可完成一次<font color="#00FF00">軍中遊戲</font>小遊戲。
+null_title_newmp_sjy_gujhuodong001_1_1=神機營將士每天可完成一次<font color="#00FF00">軍中遊戲</font>小遊戲。
+newmp_sjy_gujhuodong001_01=開始
+task_newmp_sjy_gujhuodong002=神機營將士不得絲毫懈怠，需勤加修煉！
+menu_newmp_sjy_gujhuodong002_1_1=校場演習
+title_newmp_sjy_gujhuodong002_1_1=神機營將士每週可完成一次<font color="#00FF00">校場演習</font>活動。
+null_title_newmp_sjy_gujhuodong002_1_1=神機營將士每週可完成一次<font color="#00FF00">校場演習</font>活動。
+menu_newmp_sjy_gujhuodong002_2_1=校場演習說明
+title_newmp_sjy_gujhuodong002_2_1=校場演習<br>活動時間：星期二、星期四、星期六的10:00-11:00、14:00-15:00或20:00-21:00；參加條件：<font color="#00FF00">董琛致</font>未被擊敗，已承接<font color="#00FF00">校場演習</font>任務、沒有門派懲罰狀態、不在戰鬥狀態的神機營將士可進入活動場景，前去擊敗<font color="#00FF00">董琛致</font>。
+null_title_newmp_sjy_gujhuodong002_2_1=校場演習<br>活動時間：星期二、星期四、星期六的10:00-11:00、14:00-15:00或20:00-21:00；參加條件：<font color="#00FF00">董琛致</font>未被擊敗，已承接<font color="#00FF00">校場演習</font>任務、沒有門派懲罰狀態、不在戰鬥狀態的神機營將士可進入活動場景，前去擊敗<font color="#00FF00">董琛致</font>。
+menu_newmp_sjy_gujhuodong002_2_2=校場演習
+title_newmp_sjy_gujhuodong002_2_2=校場演習<br>活動時間：星期二、星期四、星期六的10:00-11:00、14:00-15:00或20:00-21:00；參加條件：<font color="#00FF00">董琛致</font>未被擊敗，已承接<font color="#00FF00">校場演習</font>任務、沒有門派懲罰狀態、不在戰鬥狀態的神機營將士可進入活動場景，前去擊敗<font color="#00FF00">董琛致</font>。
+null_title_newmp_sjy_gujhuodong002_2_2=校場演習<br>活動時間：星期二、星期四、星期六的10:00-11:00、14:00-15:00或20:00-21:00；參加條件：<font color="#00FF00">董琛致</font>未被擊敗，已承接<font color="#00FF00">校場演習</font>任務、沒有門派懲罰狀態、不在戰鬥狀態的神機營將士可進入活動場景，前去擊敗<font color="#00FF00">董琛致</font>。
+newmp_sjy_gujhuodong002_01=參加活動
+sys_newmp_sjy_gujhuodong004_1=大俠，是否需要離開此地？
+sys_newmp_sjy_gujhuodong004=離開
+desc_switch_908=神機營軍中遊戲開關
+desc_switch_956=神機營校場演習開關
+desc_switch_953=神機營騎兵演練開關
+menu_newmp_sjyzyb_1_1=千機陣挑戰
+menu_newmp_sjyzyb_1_2=我確定參加千機陣挑戰。
+title_newmp_sjyzyb_1_1=你確定參加千機陣挑戰麼？
+menu_newschool_rumen_qiyu_009_2_9=我想加入神機營
+title_newschool_rumen_qiyu_009_2_9=神機營素來營規嚴格，想要加入神機營，你可以通過燕京<font color="#FFFF00">1003，-503</font>處前往神機營，拜訪神機營的營主<font color="#FFFF00">-16，-63</font>。
+newschool_rumen_qiyu_009_2_9_1=多謝！
+menu_WorldNpc01194_1_1=場景傳送
+menu_jiehun_001=前往金陵
+menu_jiehun_002=是的
+title_jiehun_001=你確定前往金陵？
+sys_xjqrwdh_001=你這小子，竟然敢多管閒事，真是找打。
+sys_xjqrwdh_002=我天星幫在洛陽城中勢力龐大，豈容你這小賊來去欺辱，這次非得然你有來無回。
+sys_xjqrwdh_003=一個黑影從洛陽城樓飛下，似乎帶有殺氣。
+sys_xjqrwdh_004=少俠莫慌，我前來助你。
+menu_jl_guj_cfsl001_1_1=春分狩獵
+title_jl_guj_cfsl001_1_1=農田里種植的作物深受其害，苦不堪言，天子得知後體恤民間疾苦，舉辦春分狩獵。
+null_title_jl_guj_cfsl001_1_1=農田里種植的作物深受其害，苦不堪言，天子得知後體恤民間疾苦，舉辦春分狩獵。
+menu_jl_guj_cfsl001_2_1=春分狩獵參與
+title_jl_guj_cfsl001_2_1=農田里種植的作物深受其害，苦不堪言，天子得知後體恤民間疾苦，舉辦春分狩獵。
+null_title_jl_guj_cfsl001_2_1=農田里種植的作物深受其害，苦不堪言，天子得知後體恤民間疾苦，舉辦春分狩獵。
+gujcfsl01=參與狩獵
+menu_jl_guj_cfsl001_2_2=捕網兌換
+title_jl_guj_cfsl001_2_2=在活動時間內，一定實力的江湖名俊玩家可通過消耗200個寒鴉草進行兌換
+null_title_jl_guj_cfsl001_2_2=在活動時間內，一定實力的江湖名俊玩家可通過消耗200個寒鴉草進行兌換
+gujcfsl02=兌換
+menu_jl_guj_cfsl001_2_3=野兔頭兌換
+title_jl_guj_cfsl001_2_3=每一個野兔頭可換取1個春分狩獵憑證
+null_title_jl_guj_cfsl001_2_3=每一個野兔頭可換取1個春分狩獵憑證
+menu_jl_guj_cfsl001_2_4=野豬頭兌換
+title_jl_guj_cfsl001_2_4=每一個野豬頭可換取30個春分狩獵憑證
+null_title_jl_guj_cfsl001_2_4=每一個野豬頭可換取30個春分狩獵憑證
+jsq_gujcfsl_001=剩餘時間：
+tips_jsq_gujcfsl_001=在活動時間內，在活動場景內，野兔將每5分鐘出來覓食，總共會出來覓食4次，在第三次野兔覓食時，野豬王將出現在活動場景內，請俠士抓緊時間抓捕野兔以及野豬王。提示：野兔覓食時間為：18:00、18:05、18:10、18:15、19:00、19:05、19:10、19:15；野豬王出現時間為：18:10、19:10；小野豬將在野豬王受傷時出現)
+sys_guj_cfsl_gg01=<font color="#00FF00">春分狩獵活動已經開啟，請俠士們前往金陵皇家獵場公孫昌(2110 1560)處參加活動</font>
+sys_guj_cfsl_gg02=<font color="#00FF00">春分狩獵活動，野兔已經在金陵皇家獵場活動場景內出現，請俠士們前往捕捉。</font>
+sys_guj_cfsl_gg03=<font color="#00FF00">春分狩獵活動，野兔已經在金陵皇家獵場活動場景內出現，請俠士們前往捕捉。</font>
+sys_guj_cfsl_gg04=<font color="#00FF00">春分狩獵活動，野豬王已經在金陵皇家獵場活動場景內出現，請俠士們前往捕捉。</font>
+sys_guj_cfsl_gg05=<font color="#00FF00">春分狩獵活動，野兔已經在金陵皇家獵場活動場景內出現，請俠士們前往捕捉。</font>
+sys_guj_cfsl_gg06=<font color="#00FF00">春分狩獵活動，野兔已經在金陵皇家獵場活動場景內出現，請俠士們前往捕捉。</font>
+sys_guj_cfsl_gg07=<font color="#00FF00">春分狩獵活動，野兔已經在金陵皇家獵場活動場景內出現，請俠士們前往捕捉。</font>
+sys_guj_cfsl_gg08=<font color="#00FF00">春分狩獵活動，野兔已經在金陵皇家獵場活動場景內出現，請俠士們前往捕捉。</font>
+sys_guj_cfsl_gg10=<font color="#00FF00">春分狩獵活動，野兔已經在金陵皇家獵場活動場景內出現，請俠士們前往捕捉。</font>
+sys_guj_cfsl_gg_009=<font color="#00FF00">春分狩獵活動，野豬王已經在金陵皇家獵場活動場景內出現，請俠士們前往捕捉。</font>
+rabbit_gujzq_04=野兔已經被抓住！
+trigger_cfsl_lzy_guj_0_6=<font color="#00FF00">春分狩獵活動，小野豬已經在金陵皇家獵場活動場景內出現，請俠士們前往捕捉。</font>
+trigger_cfsl_lzy_guj_0_7=<font color="#00FF00">春分狩獵活動，小野豬已經在金陵皇家獵場活動場景內出現，請俠士們前往捕捉。</font>
+cfslguj=春分狩獵
+syjq_zyb_001=探索古墓
+syjq_zyb_002=你準備好了嘛？
+syjq_zyb_003=走吧。
+task_jl_guj_cfsl001=春分狩獵活動<br>在活動時間內,江湖名俊玩家可用寒鴉草兌換捕網，從而前去抓捕野兔以及野豬王。<br>捕網兌換實力要求：九陰志一內實力達到爐火純青；九陰志二內實力達到出神入化；九陰志三內實力達到登峰造極；九陰志四內實力達到所向披靡；九陰志五內實力達到神功蓋世；九陰志六內實力達到威鎮寰宇。<br>活動時間：2018年04月13日-2018年04月25日的18:00-20:00<br>活動參加條件：擁有捕網的不在戰鬥狀態的江湖名俊玩家。
+talk_special_4002001=五幻終結，可惜厲某參悟不透這一式，幻中總有破綻，否則你們十死無生！
 
