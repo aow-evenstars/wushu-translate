@@ -63,7 +63,6 @@ accept_73311_1=<font face="Default" color="#ffffff" >有賊人乘著大軍外出
 accept_73400_1=<font face="Default" color="#ffffff" >「三軍未動，糧草先行」，糧草為軍隊重中之重，需每日整理清點，你且去幫忙清點糧草</font>
 accept_73401_1=<font face="Default" color="#ffffff" >朝廷物資將至，你且前往交接護送物資，以防外域賊人攔截，安全運回物資。</font>
 accept_73402_1=<font face="Default" color="#ffffff" >外域賊人猖獗，每天都有將士埋骨黃沙，故神機營規定每日需在此處登記才可領取物資，這樣即可做到物資的合理分配，同時也可及時知曉軍中人員情況。</font>
-accept_73403_1=<font face="Default" color="#ffffff" >為確保軍馬可隨時投入戰場，隨兵士上陣殺敵，每日需派人照料。你且去餵食並刷洗馬匹。</font>
 accept_73500_1=<font face="Default" color="#ffffff" >你確定要叛出我神機營？</font>
 accept_73501_1=<font face="Default" color="#ffffff" >你已經是一個合格的神機營將士了，你要出去闖蕩了麼</font>
 accept_73502_1=<font face="Default" color="#ffffff" >你已經是一個合格的神機營將士了，你要回明教了麼</font>
@@ -115,11 +114,9 @@ context_73210=初入神機營，前去拜見營主陸少鈞。
 context_73211=聽從秦霄皖的指示，前往懸空擂台尋找在營中組織比武打擂的將士。
 context_73212=在懸空擂台上接受各路將士的挑戰。
 context_73214=奉營主之命前往燕京調查瓦剌賊人的蹤跡。
-context_73215=擊殺鬼鬼祟祟的黑衣人，看看其身上有沒有什麼線索。
 context_73216=毒藥雖然棘手，所幸耿伯宣知曉化解之法，向其請教一番便可。
 context_73217=請耿伯宣配製解藥，並將之送給燕京的農戶。
 context_73218=農田毒物雖除，但瓦剌賊人恐怕不會死心，與耿伯宣商量如何是好。
-context_73219=前往殺人莊禁區的毒池，調查賊人的下一步行動。
 context_73220=將農田調查的結果回報陸少鈞，請其做下一步指示。
 context_73221=前往陰風谷跟唐方捷和杜之旻會合，協助其擊敗一眾瓦剌賊人。
 context_73222=谷外又有其他賊人襲來，火速前往支援。
@@ -143,7 +140,6 @@ context_73314=火藥乃是神機營重中之重，絕不可外傳
 context_73400=「三軍未動，糧草先行」，糧草為軍隊重中之重，需每日整理清點
 context_73401=朝廷定期分撥糧草、兵器運送至神機營。然現今外域賊人猖獗，不斷在神機營外圍騷擾挑釁，防不勝防。每次朝廷物資將至時，神機營必會派遣兵士前往交接護送物資，擊退來犯外域賊人，運回物資。
 context_73402=外域賊人猖獗，每天都有將士埋骨黃沙，故神機營規定每日需前往長官處領取物資，這樣即可做到物資的合理分配，同時也可及時知曉軍中人員情況
-context_73403=馬是軍隊不可或缺的部分，其提供的機動性在戰場上起著舉足輕重的作用，故照看軍馬也是軍隊中重要的一項任務。每日需派人餵食並刷洗馬匹，使其隨時可投入戰場，隨兵士上陣殺敵。
 context_73500=叛出神機營，從此與神機營再無瓜葛
 context_73501=你已經決定出師，重新返回江湖
 context_73502=你已經決定出師，重新返回明教
@@ -224,8 +220,6 @@ target_73214=前往燕京農田調查。
 target_73215=從黑衣人身上搜出奇怪的藥粉。
 target_73216=收集幾味藥材，請耿伯宣配製解藥。
 target_73217=將解藥交給燕京的農戶。
-target_73218=前往殺人莊禁區調查。
-target_73219=擊殺黑衣人，奪取製毒原料，搜集線索。
 target_73220=代陸少鈞向杜之旻、唐方捷傳達軍令。
 target_73221=前往陰風谷跟唐方捷和杜之旻會合，找出並擊敗瓦剌頭目。
 target_73222=擊敗來襲的賊人。
@@ -236,20 +230,17 @@ target_73301=速將此信交與營主<a href="findnpc_new,school21,newmp_sjy_001
 target_73302=將此信送與掌號頭官<a href="findnpc_new,school21,newmp_sjy_002" style="HLStype1">耿伯宣</a>。
 target_73303=將信送給<a href="findnpc_new,school21,newmp_sjy_003" style="HLStype1">秦霄皖</a>，不得耽誤。
 target_73304=將此信送給<a href="findnpc_new,school21,newmp_sjy_004" style="HLStype1">杜之旻</a>，他一看便知
-target_73305=速去擊殺<a href="findnpc_new,school21,newschool_sjy_qcbl001" style="HLStype1">神秘盜寶者</a>，奪回火藥
 target_73306=將此信用於<a href="findnpc_new,school21,newmp_sjy_005" style="HLStype1">葛蓬</a>處
 target_73307=將此信送與<a href="findnpc_new,school21,newmp_sjy_006" style="HLStype1">唐方捷</a>，他一看便知
 target_73308=追回被奪火藥
 target_73309=將回信帶給<a href="findnpc_new,school21,newmp_sjy_007" style="HLStype1">朱擎嵩</a>
 target_73310=完成逆境訓練
 target_73311=去多找幾個人來，找到了來找我（組隊後隊長與我對話，我會想辦法幫你們把賊人找出）
-target_73312=擊殺<a href="findnpc_new,school21,newschool_sjy_qcbl003" style="HLStype1">神秘盜寶者</a>，奪回火藥
 target_73313=奪回火藥
 target_73314=奪回火藥
 target_73400=將散落在各地的糧草搬運至指定點
 target_73401=前往交接護送物資，擊退來犯外域賊人，運回物資。
 target_73402=外域賊人猖獗，每天都有將士埋骨黃沙，故神機營規定每日需前往長官處領取物資，這樣即可做到物資的合理分配，同時也可及時知曉軍中人員情況
-target_73403=餵食並刷洗馬匹，使其隨時可投入戰場，隨兵士上陣殺敵。
 target_73500=叛師
 target_73501=出師返回江湖
 target_73502=出師返回明教
@@ -298,4 +289,13 @@ title_73403=照看軍馬
 title_73500=叛師
 title_73501=出師返回江湖
 title_73502=出師返回明教
+accept_73403_1=<font face="Default" color="#ffffff" >為確保軍馬可隨時投入戰場，隨兵士上陣攻克，每日需派人照料。你且去餵食並刷洗馬匹。</font>
+context_73215=攻克鬼鬼祟祟的黑衣人，看看其身上有沒有什麼線索。
+context_73219=前往異人莊禁區的毒池，調查賊人的下一步行動。
+context_73403=馬是軍隊不可或缺的部分，其提供的機動性在戰場上起著舉足輕重的作用，故照看軍馬也是軍隊中重要的一項任務。每日需派人餵食並刷洗馬匹，使其隨時可投入戰場，隨兵士上陣攻克。
+target_73218=前往異人莊禁區調查。
+target_73219=攻克黑衣人，奪取製毒原料，搜集線索。
+target_73305=速去攻克<a href="findnpc_new,school21,newschool_sjy_qcbl001" style="HLStype1">神秘盜寶者</a>，奪回火藥
+target_73312=攻克<a href="findnpc_new,school21,newschool_sjy_qcbl003" style="HLStype1">神秘盜寶者</a>，奪回火藥
+target_73403=餵食並刷洗馬匹，使其隨時可投入戰場，隨兵士上陣攻克。
 

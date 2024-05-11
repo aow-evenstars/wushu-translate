@@ -60,7 +60,6 @@ DialogID_8814=江湖上有些事情不便我們直接出手，借助於他人也
 DialogID_8818=剩下的這些人就交給你了，讓我看看你的本事究竟如何，對這些人渣，決不能心慈手軟，去吧！
 DialogID_8819=你這次任務的表現我已經知道了，你知道這只是開始，今後你將面對的是更殘酷，更嚴峻的的考驗，希望你能做好準備！
 DialogID_8820=日出江花紅勝火，春來江水綠如藍，能不憶江南？這古人也是雅興，為何我卻品不出來這意境呢？哎~~~~~還是這美酒合我的胃口。{@0:Name}你倒是瞭解我，來的很快嘛！
-DialogID_8821=多謝兄台相救，這些強盜殺人如麻，可不好對付！不好他們過來了！
 DialogID_8822={@0:Name}，我恭候多時了！
 DialogID_8823=事情我已經瞭解了，你這次表現的很不錯，每個無根門弟子都會經歷這個過程，只有這樣你才能自我成長！
 DialogID_8827=沒想到是這種結局，兄弟對不住了，沒能幫上你什麼忙！
@@ -82,14 +81,12 @@ SubmitNpcEx_49533=與<a href="findnpc_new,city02,wgm_066" style="HLStype1">燕�
 SubmitNpcEx_49534=回蘇州城南向<a href="findnpc_new,city02,wgm_062" style="HLStype1">風長恨</a>覆命
 SubmitNpcEx_49797=剿滅金針沈家
 ZZAnswerText1_9051=戒本門弟子自相殘殺
-ZZAnswerText1_9052=戒貪婪殺戮
 ZZAnswerText1_9053=戒本門弟子自相殘殺
 ZZAnswerText2_9051=戒不服從命令
 ZZAnswerText2_9052=戒暴露自己身份
 ZZAnswerText2_9053=戒暴露自己身份
 ZZAnswerText3_9051=戒衣冠不整
 ZZAnswerText3_9052=戒不服從命令
-ZZAnswerText3_9053=戒貪婪殺戮
 collectinfo_8940=將一個登峰造極以上的玩家強行去勢
 collectinfo_8941=收集<a href="findnpc_new,," style="HLStype1"></a>叫花雞
 collectinfo_8942=收集<a href="findnpc_new,," style="HLStype1"></a>鹽水鴨
@@ -98,11 +95,6 @@ collectinfo_8944=在西山山谷的山洞中收集<a href="findnpc_new,," style=
 collectinfo_8945=前往暮色之村（地獄模式）的墓地密室之中收集<a href="findnpc_new,," style="HLStype1"></a>寶物血麒麟
 collectinfo_8947=前往附近的山崖上收集<a href="findnpc_new,city02,Gather_wgm_zx003" style="HLStype1">陰陽草</a>
 collectinfo_8949=在城東院子內的<a href="findnpc_new,city02,Gather_wgm_zx004" style="HLStype1">盒子</a>中找到朱高熾的密信
-convoyinfo_8751=保護<font color="#FF3030">曾鋒</font>不被殺手殺害
-convoyinfo_8752=保護<font color="#FF3030">葉俊義</font>不被殺手殺害
-convoyinfo_8753=保護<font color="#FF3030">張臻懿</font>不被殺手殺害
-convoyinfo_8754=保護<font color="#FF3030">雷雨</font>不被殺手殺害
-convoyinfo_8756=保護<font color="#FF3030">董淑明</font>不被殺手殺害
 convoyinfo_8761=保護東方林
 hunterinfo_8750=擊敗<a href="findnpc_new,city01,wgm_028" style="HLStype1">wgm_028</a>
 hunterinfo_8751=擊敗<a href="findnpc_new,city01,wgn_zd_001" style="HLStype1">wgn_zd_001</a>
@@ -114,7 +106,6 @@ hunterinfo_8759=擊敗<a href="findnpc_new,city03,wgm_046" style="HLStype1">wgm_
 hunterinfo_8762=斬殺圍困中的匪首雷銘
 hunterinfo_8763=斬殺圍困中的雷銘護衛
 hunterinfo_8764=擊敗突然出現在附近的強盜
-hunterinfo_8766=暗殺城東院子中<a href="findnpc_new,city02,wgm_zd_010" style="HLStype1">燕南升</a>
 interactinfo_8764=與<a href="findnpc_new,city01,wgm_009" style="HLStype1">wgm_009</a>交談
 interactinfo_8765=去準備五壇酃酒交給<a href="findnpc_new,city01,wgm_009" style="HLStype1">wgm_009</a>
 interactinfo_8766=與<a href="findnpc_new,city01,wgm_009" style="HLStype1">wgm_009</a>交談
@@ -389,9 +380,6 @@ hunterinfo_8805=擊敗<a href="findnpc_new,school01,wgm_task_glm_004" style="HLS
 hunterinfo_8806=擊敗<a href="findnpc_new,school01,wgm_task_glm_005" style="HLStype1">周虎</a>
 hunterinfo_8807=擊敗<a href="findnpc_new,school01,wgm_task_glm_006" style="HLStype1">士兵</a>
 hunterinfo_8922=給<a href="findnpc_new,city03,NPC_wgm_dy_dipi" style="HLStype1">地痞</a>一點顏色瞧瞧
-hunterinfo_8923=擊殺<a href="findnpc_new,city03,NPC_wgm_dy_hy" style="HLStype1">況錢龍</a>
-hunterinfo_8924=做事要幹淨利落不能留下活口，擊殺<a href="findnpc_new,city03,NPC_wgm_dy_hyjj" style="HLStype1">況錢龍家眷</a>
-hunterinfo_8925=做事要幹淨利落不能留下活口，擊殺<a href="findnpc_new,city03,NPC_wgm_dy_hyhw" style="HLStype1">況錢龍護衛</a>
 interactinfo_8880=和<a href="findnpc_new,city03,wgm_glm_001" style="HLStype1">風長恨</a>交談
 interactinfo_8882=離開此地不要被人發現，否則身份暴露，任務失敗。回復<a href="findnpc_new,school01,wgm_glm_004" style="HLStype1">風長恨</a>
 interactinfo_8920=前往金陵<a href="findnpc_new,city03,Event_wgm_dy_49540" style="HLStype1">朝天宮</a>尋找接頭之人
@@ -454,7 +442,6 @@ story_8926_1=<font face="Default" color="#ffffff" >我知道了！</font>
 story_8996_1=<font face="Default" color="#ffffff" >恩，我已經知道了。千歲大人和高公公的很賞識你，不過你也必須拿出自己的實力來證明自己。</font>
 story_8996_2=<font face="Default" color="#ffffff" >不急不急，也許在入門之前你已經聞名江湖了，但是我無根門中人自古以來又有多少武學奇才能人異士的加入</font><font face="Default" color="#ffffff" >，你我只不過是其中普普通通的一人。</font>
 story_8997_1=<font face="Default" color="#ffffff" >千歲大人竟然帶你體悟劍魔之境，這是你的福氣</font><font face="Default" color="#ffffff" >！看來千歲大人很看重你，切莫讓大人失望。</font>
-story_8997_2=<font face="Default" color="#ffffff" >身為我無根門弟子，今後以門中之事為重！我無根門雖源自宮中，但沒有宮中那麼多規矩。一切以實力為尊，行走江湖，順我者昌，逆我者亡！ </font>
 story_8997_3=<font face="Default" color="#ffffff" >雖說如此，但也不可太過高調，切莫因為小事丟了性命。好好做事，你自然有享不盡的榮華富貴，門中武學博大精深，只要你努力，</font><font face="Default" color="#ffffff" >遲早</font><font face="Default" color="#ffffff" >能夠獨步武林！</font>
 story_8998_1=<font face="Default" color="#ffffff" >呵呵呵呵，剛剛帶你進入的是劍魔之境，你既入我無根門,自是選擇了劍道，選擇了殺道，</font><font face="Default" color="#ffffff" >你可領悟到劍魔之道的精髓？</font>
 story_8999_1=<font face="Default" color="#ffffff" >呵呵呵呵，新進弟子，有些意思……苦海無邊，回頭是岸，放下屠刀，立地成佛，本座且問你，可信佛否？</font>
@@ -491,7 +478,6 @@ storyinfo_8998=從幻境中出來，心中似有所悟，快快請教<a href="fi
 storymenu_8800_1=<font face="Default" color="#ffffff" >是……師兄可有良策？</font>
 storymenu_8800_2=<font face="Default" color="#ffffff" >是。</font>
 storymenu_8801_1=<font face="Default" color="#ffffff" >（唔，粗著嗓音）咳咳，小的原是黑風寨的舵主。皇綱是黑風寨和錦衣衛聯手劫走的，之後錦衣衛想獨吞皇綱，就出手對付我們黑風寨。</font>
-storymenu_8801_2=<font face="Default" color="#ffffff" >（唔，粗著嗓音）咳咳，黑風寨毫無防範，被錦衣衛剿滅殆盡。還好小的機靈逃了出來，一直伺機替兄弟們報仇</font><font face="Default" color="#ffffff" >。</font>
 storymenu_8801_3=<font face="Default" color="#ffffff" >（唔，粗著嗓音）咳咳，有有有，小的查到錦衣衛把皇綱藏在百寶閣</font><font face="Default" color="#ffffff" >——錦衣衛的人追來了……</font>
 storymenu_8802_1=<font face="Default" color="#ffffff" >是</font><font face="Default" color="#ffffff" >！</font>
 storymenu_8804_1=
@@ -537,7 +523,6 @@ DialogID_8816=做的不錯。
 DialogID_8817=你去發射信號彈，召集本門弟子回來。
 SubmitNpcEx_49522=向<a href="findnpc_new,school11,wgm_002" style="HLStype1">高昇</a>覆命
 SubmitNpcEx_49530=去閻尊左方的天寶閣找到<a href="findnpc_new,school11,wgm_037" style="HLStype1">張青峰</a>
-convoyinfo_8750=保護<font color="#FF3030">王俊懿</font>不被殺手殺害
 interactinfo_8771=與<a href="findnpc_new,city03,wgm_010" style="HLStype1">王俊懿</a>交談
 interactinfo_8814=與<a href="findnpc_new,born03,wgm_047" style="HLStype1">風長恨</a>交談
 interactinfo_8818=與<a href="findnpc_new,born03,wgm_048" style="HLStype1">風長恨</a>交談
@@ -552,7 +537,6 @@ DialogID_8968=<font face="Default" color="#ffffff" >門主決定不再藏拙要�
 DialogID_8992=<font face="Default" color="#ffffff" >雖說如此，但也不可太過高調，切莫因為小事丟了性命。好好做事，你自然有享不盡的榮華富貴，門中武學博大精深，只要你努力，遲早能夠獨步武林！</font>
 DialogID_8994=<font face="Default" color="#ffffff" >阿彌陀佛，我佛慈悲，渡你成魔!</font>
 DialogID_8995=<font face="Default" color="#ffffff" >呵呵呵呵，既然已經體悟過劍道了，本座看你是否有殺道的心，去吧，殺一個真正的江湖好手！</font>
-hunterinfo_8808=被突然出現的<a href="findnpc_new,city03,wgm_task_glm_007" style="HLStype1">殺手</a>襲擊阻撓，幹掉他們
 hunterinfo_8809=處死失職觸犯門規，耽誤大事的<a href="findnpc_new,school11,wgm_task_glm_008" style="HLStype1">小李子</a>
 hunterinfo_8995=謹遵門主吩咐，重傷一名實力在登峰造極以上的玩家，以證殺道。
 hunterinfo_8997=完成最後的挑戰，打到三個比武弟子
@@ -572,7 +556,6 @@ okmenu_8994=<font face="Default" color="#ffffff" >門主……</font>
 okmenu_8995=<font face="Default" color="#ffffff" >是！</font>
 story_8927_1=<font face="Default" color="#ffffff" >你要衙役的衣服作甚？</font>
 story_menu_8927=<font face="Default" color="#ffffff" >大人，敢問</font><font face="Default" color="#ffffff" >您</font><font face="Default" color="#ffffff" >是否有衙役的衣服？</font>
-storymenu_8927_1=<font face="Default" color="#ffffff" >小人為絕後患決定潛入大牢將那吳蕊滅口！</font>
 useiteminfo_8928=讓這<a href="findnpc_new,school11,npc_wgm_cc_007" style="HLStype1">小雜種</a>居然還嘴硬？真當大爺我不會下狠心麼？<a href="TASK_ITEM,item_wgm_cc_s8928" style="HLStype1">踹兩腳</a>讓他明白
 useiteminfo_8929=這<a href="findnpc_new,school11,npc_wgm_cc_007" style="HLStype1">叛徒</a>好像有些堅持不住的樣子。已經有了鬆口的傾向,加上這壓死駱駝的最後一刀!來一記<a href="TASK_ITEM,item_wgm_cc_s8929" style="HLStype1">迴旋踢</a>
 useiteminfo_8930=去<a href="findnpc_new,school11,Event_npc_wgm_cc_8927" style="HLStype1">前面</a>把<a href="TASK_ITEM,item_wgm_cc_j8956" style="HLStype1">叛徒</a>扔出來好好"調理""調理"
@@ -605,7 +588,6 @@ interactinfo_8923=前往<a href="findnpc_new,city03,Event_wgm_dy_49541" style="H
 interactinfo_8927=前往況錢龍的<a href="findnpc_new,city03,Event_wgm_dy_49542a" style="HLStype1">酒樓</a>
 interactinfo_8930=前往<a href="findnpc_new,city03,Event_wgm_dy_49544a" style="HLStype1">衙門</a>偷偷報信（既然是前往衙門偷偷報信必然要小心行事，比如藏在屋頂之上）
 interactinfo_8952=這！可怕的緊，這下該怎麼辦，這樣回去一定會被直接打死，剛才好像看到了<a href="findnpc_new,city03,Event_npc_wgm_cc_8952" style="HLStype1">風長恨</a>。不如去找他看看能不能幫幫我
-interactinfo_8954=此事非同小可,這碎布條很可能是內應被殺之時刻意留下,難道意味著門內有內奸?速度回稟外事總管<a href="findnpc_new,school11,wgm_007" style="HLStype1">李大人</a>
 interactinfo_8955=咦？剛才確實看到風大人站在這，為何轉眼便不見了蹤影？此事有些蹊蹺，算了，總要給門內一個交代，去<a href="findnpc_new,city03,Event_npc_wgm_cc_8955" style="HLStype1">遇襲之地</a>查看一番看能否獲得些開脫自己的證據
 interactinfo_8956=謠言傳播應該會有些成效,叛徒此時無論真假總要傳信出去,不如去<a href="findnpc_new,school11,Event_npc_wgm_cc_8956" style="HLStype1">天井</a>附近來個甕中捉鱉??
 interactinfo_8958=看樣子這叛徒還真吐不出什麼有用的話來,既然"小魚"已經敗露,那"大魚"也會有所行動.不如<a href="findnpc_new,school11,Event_npc_wgm_cc_8958" style="HLStype1">到處晃晃</a>說不定會有發現
@@ -978,7 +960,6 @@ collectinfo_8882=收集<a href="findnpc_new,," style="HLStype1"></a><font color=
 collectinfo_8890=收集<a href="findnpc_new,," style="HLStype1"></a><font color="#EE0000">水靈綢</font>
 collectinfo_8892=收集<a href="findnpc_new,," style="HLStype1"></a><font color="#EE0000">銅錠</font>
 collectinfo_8902=收集<a href="findnpc_new,," style="HLStype1"></a><font color="#EE0000">薄羊皮</font>
-convoyinfo_8755=<font face="Default" color="#000000" >保護</font><font face="Default" color="#f7070f" >張亮</font><font face="Default" color="#000000" >不被殺手殺害</font>
 hunterinfo_8767=在大牢附近巡邏，擊敗那些入侵者（-5 189）。（可通過按M鍵地圖左上角輸入對應坐標進行搜索位置）
 hunterinfo_8768=遇到可疑人物格殺勿論，尤其是那些入侵者（-5 189）。（可通過按M鍵地圖左上角輸入對應坐標進行搜索位置）
 hunterinfo_8769=四處巡邏，看到那些入侵者（-5 189），擊敗他們。（可通過按M鍵地圖左上角輸入對應坐標進行搜索位置）
@@ -1042,4 +1023,23 @@ storymenu_8766_1=<font face="Default" color="#ffffff" >在下從小習武，在�
 storymenu_8766_2=<font face="Default" color="#ffffff" >在下願意接受前輩的考驗</font>
 storymenu_8767_1=<font face="Default" color="#ffffff" >公公若能援手，在下必有酬謝。</font>
 storymenu_8767_2=<font face="Default" color="#ffffff" >也罷，如今必須倚仗公公的手藝了，在下去去就來。</font>
+DialogID_8821=多謝兄台相救，這些強盜攻無不克，可不好對付！不好他們過來了！
+ZZAnswerText1_9052=戒貪婪戕屠
+ZZAnswerText3_9053=戒貪婪戕屠
+convoyinfo_8750=保護<font color="#FF3030">王俊懿</font>不被隱衛殺害
+convoyinfo_8751=保護<font color="#FF3030">曾鋒</font>不被隱衛殺害
+convoyinfo_8752=保護<font color="#FF3030">葉俊義</font>不被隱衛殺害
+convoyinfo_8753=保護<font color="#FF3030">張臻逸</font>不被隱衛殺害
+convoyinfo_8754=保護<font color="#FF3030">雷雨</font>不被隱衛殺害
+convoyinfo_8755=<font face="Default" color="#000000" >保護</font><font face="Default" color="#f7070f" >張亮</font><font face="Default" color="#000000" >不被隱衛殺害</font>
+convoyinfo_8756=保護<font color="#FF3030">董淑明</font>不被隱衛殺害
+hunterinfo_8766=暗襲城東院子中<a href="findnpc_new,city02,wgm_zd_010" style="HLStype1">燕南升</a>
+hunterinfo_8808=被突然出現的<a href="findnpc_new,city03,wgm_task_glm_007" style="HLStype1">隱衛</a>襲擊阻撓，幹掉他們
+hunterinfo_8923=攻克<a href="findnpc_new,city03,NPC_wgm_dy_hy" style="HLStype1">況錢龍</a>
+hunterinfo_8924=做事要幹淨利落不能留下活口，攻克<a href="findnpc_new,city03,NPC_wgm_dy_hyjj" style="HLStype1">況錢龍家眷</a>
+hunterinfo_8925=做事要幹淨利落不能留下活口，攻克<a href="findnpc_new,city03,NPC_wgm_dy_hyhw" style="HLStype1">況錢龍護衛</a>
+interactinfo_8954=此事非同小可,這碎布條很可能是內應被襲之時刻意留下,難道意味著門內有內奸?速度回稟外事總管<a href="findnpc_new,school11,wgm_007" style="HLStype1">李大人</a>
+story_8997_2=<font face="Default" color="#ffffff" >身為我無根門弟子，今後以門中之事為重！我無根門雖源自宮中，但沒有宮中那麼多規矩。一切以實力為尊，行走江湖，順我者昌，毋人負我！ </font>
+storymenu_8801_2=<font face="Default" color="#ffffff" >（唔，粗著嗓音）咳咳，黑風寨毫無防範，被錦衣衛剿滅殆盡。還好小的機靈逃了出來，一直伺機替兄弟們報復</font><font face="Default" color="#ffffff" >。</font>
+storymenu_8927_1=<font face="Default" color="#ffffff" >小人為絕後患決定潛入大牢將那吳蕊解決後患！</font>
 

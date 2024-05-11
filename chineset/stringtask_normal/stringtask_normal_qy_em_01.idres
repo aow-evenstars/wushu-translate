@@ -65,9 +65,7 @@ CompleteMenu_18446=
 CompleteMenu_18447=<font face="Default" color="#ffffff" >掌門，我任務完成了</font>
 CompleteMenu_18448=<font face="Default" color="#ffffff" >掌門，我完成任務了</font>
 CompleteMenu_18449=
-CompleteMenu_18460=<font face="Default" color="#ffffff" >聽聞先生乃京城六扇門資深仵作，近日峨眉山下出現了殺人事件，可能與成都的蠱毒事件有關，弟子奉師命下山查探，望先生指點迷津，這份報告請先生過目。</font>
 CompleteMenu_18461=<font face="Default" color="#ffffff" >我回來了，調查完畢</font><font face="Default" color="#ffffff" >，初步判斷死者可能是中毒，可能和食用兔肉有關，而且昨晚應該還有其他與死者有關係的人一同食用了兔肉。</font>
-CompleteMenu_18462=<font face="Default" color="#ffffff" >和死者一起食用過兔肉的人都中了蠱毒</font><font face="Default" color="#ffffff" >，無奈之下，我只好將他們都擊殺了</font>
 CompleteMenu_18463=<font face="Default" color="#ffffff" >大師姐，我回來了。</font>
 CompleteMenu_18466=<font face="Default" color="#ffffff" >完成任務。</font>
 CompleteMenu_18467=<font face="Default" color="#ffffff" >完成任務。</font>
@@ -315,7 +313,6 @@ target_18440=消滅野獸。
 target_18442=幫小師妹拿香囊。
 target_18443=去找唐門內應瞭解情況。
 target_18444=跟蹤小師妹
-target_18445=擊殺山雞向陳霸回復
 target_18446=採集原材料，製作火藥
 target_18447=擊敗<a href="findnpc_new,school06,monm060504" style="HLStype1">愚鈍隨從</a>
 target_18448=擊敗<a href="findnpc_new,city05,monc050603" style="HLStype1">慕名刀客</a>
@@ -377,7 +374,6 @@ title_18447=教訓地痞
 title_18448=天降奇兵
 title_18449=門派危機
 title_18460=調查蠱毒
-title_18461=探察殺人案
 title_18462=調查嫌疑人
 title_18463=追查原委
 title_18466=看望小師妹
@@ -426,7 +422,6 @@ context_18449=聽說君子堂要對峨眉不利，現在可能已有眾多內應
 context_18460=聽說成都衙門來了位六扇門的仵作，前往成都衙門，將驗屍報告交給那位仵作。<br><font face="Default" color="#FF0000">百曉記事：</font><br><s><font face="Default" color="#A020F0">前往成都衙門，將驗屍報告交給六扇門的仵作（成都629 607）</font>
 context_18461=成都城內昨晚也發現了一具奇特的屍體，可能與峨眉山下的毒屍事件有一定聯繫，前去探察。<br><font face="Default" color="#FF0000">百曉記事：</font><br><s><font face="Default" color="#A020F0">幫助仵作去兇案現場進行搜集證據，分別調查無名屍，烤肉，腳印，奇怪的液體，結束後回稟仵作。</font>
 context_18462=無名屍死狀淒慘，其中透著古怪，先去找那三個相關的人瞭解下情況吧。<br><font face="Default" color="#FF0000">百曉記事：</font><br><s><font face="Default" color="#A020F0">再去調查三個嫌疑人武強衛，張原，全石三人，發現三人皆是因為食用了兔肉中了蠱毒，調查結束後向仵作報告。</font>
-context_18463=這次的中毒事件非常可疑，中毒者都不同程度的出現了心智的混亂，應該盡快調查清楚此事，不然後果不堪設想。<br><font face="Default" color="#FF0000">百曉記事：</font><br><s><font face="Default" color="#A020F0">調查完畢後出衙門，在門口碰到正巧經過的小曼師妹，小曼師妹飛快的跑掉了，趕快跟上小師妹。看見師妹和一個陌生人對話，在樹後偷聽。上前擊殺蠱師，在蠱師身上獲得物品奇異的蠱壇，回到峨眉把道具交給大師姐完成任務獲得獎勵。</font>
 context_18468=據衙役呂文說，那個凶神惡煞般的人往沈家堡方向去了
 context_18470=小師妹劉小曼最近情緒很是低落，將特製的清香玉露羹端給她品嚐，希望能夠讓她心情好起來。<br><font face="Default" color="#FF0000">百曉記事：</font><br><s><font face="Default" color="#A020F0">劉小曼（峨眉751  3）最近情緒很是低落，將特製的清香玉露羹端給她品嚐，希望能夠讓她心情好起來。</font>
 context_18471=小師妹劉小曼想去成都散心，約你在成都碰頭。<br><font face="Default" color="#FF0000">百曉記事：</font><br><s><font face="Default" color="#A020F0">小師妹劉小曼想去成都散心，約你在成都碰頭（成都650 651）</font>
@@ -434,15 +429,11 @@ context_18472=知府出去巡視很久，到現在都沒回來，衙役呂文表
 context_18481=來到峨嵋也有不少日子了，大師姐華貞絮想看你下你的實力究竟如何了，努力完成大師姐的試煉，讓她刮目相看吧。<br><font face="Default" color="#FF0000">百曉記事：</font><br><s><font face="Default" color="#A020F0">去擊敗五仙教高手（峨眉605 601），再獵殺三個嗜毒老妖（峨眉787 294） ，最後獵殺三個七星連環鎖（峨眉840 74）。</font>
 context_18482=向大師姐瞭解飛弦羽經的故事。<br><font face="Default" color="#FF0000">百曉記事：</font><br><s><font face="Default" color="#A020F0">向大師姐瞭解飛弦羽經的故事。</font>
 context_18490=劉小曼不告而別師傅很是擔心，掌門讓所有下山的弟子幫忙尋找劉小曼。小曼曾在之前在你這寄養一隻十分有靈性的鳥，也許可以派上用場。<br><font face="Default" color="#FF0000">百曉記事：</font><br><s><font face="Default" color="#A020F0">小曼不告而別，師傅很是擔心，好在小曼養了一隻靈鳥，靈鳥可以找到小曼師妹，據說她有可能在洛陽（1083 620）（1543 1232）（1376 793）（1029 1022）（557 584）（606 1159）等地遊蕩。</font>
-context_18491=雖然找到了劉小曼，但是她卻不願意回去，她希望你能幫助她達成心願，並答應你幫她達成心願後就會回去。<br><font face="Default" color="#FF0000">百曉記事：</font><br><s><font face="Default" color="#A020F0">擊殺城西地痞、自大匪徒、叛軍偵察兵、秦王府殺手中的一個，完成小師妹的心願。</font>
 context_18492=你完成了小曼希望你做的事兒，繼續尋找小曼的蹤跡勸她回去。<br><font face="Default" color="#FF0000">百曉記事：</font><br><s><font face="Default" color="#A020F0">你完成了小曼希望你做的事兒，繼續尋找小曼的蹤跡勸她回去。據說她有可能在洛陽（1083 620）（1543 1232）（1376 793）（1029 1022）（557 584）（606 1159）等地遊蕩</font>
-context_18493=雖然找到了劉小曼，但是她還是不願意回去，她希望你能再幫助她達成心願，並答應你再幫她達成心願後就會回去。<br><font face="Default" color="#FF0000">百曉記事：</font><br><s><font face="Default" color="#A020F0">擊殺城西地痞、自大匪徒、叛軍偵察兵、秦王府殺手中的一個，完成小師妹的心願。</font>
 context_18494=已經完成了小曼的委託，這回說什麼也要把小曼帶回峨眉。<br><font face="Default" color="#FF0000">百曉記事：</font><br><s><font face="Default" color="#A020F0">已經完成了小曼的委託，這回說什麼也要把小曼帶回峨眉。據說她有可能在洛陽（1083 620）（1543 1232）（1376 793）（1029 1022）（557 584）（606 1159）等地遊蕩</font>
-context_18495=任你如何軟磨硬泡劉小曼還是不願回去，答應完成她最後一個心願。<br><font face="Default" color="#FF0000">百曉記事：</font><br><s><font face="Default" color="#A020F0">擊殺城西地痞、自大匪徒、叛軍偵察兵、秦王府殺手中的一個，完成小師妹的心願。</font>
 context_18496=說什麼也要把劉小曼帶回去！找到她後把她捆也要捆回去。<br><font face="Default" color="#FF0000">百曉記事：</font><br><s><font face="Default" color="#A020F0">說什麼也要把劉小曼帶回去！找到她後把她捆也要捆回去。據說她有可能在洛陽（1083 620）（1543 1232）（1376 793）（1029 1022）（557 584）（606 1159）等地遊蕩</font>
 context_18500=自從上次和小師妹談過了，已經有段時間沒和她見過，不知道最近她怎麼樣了！速去看看有什麼需要做的吧！<br><font face="Default" color="#FF0000">百曉記事：</font><br><s><font face="Default" color="#A020F0">先去和小師妹談談，再前往山院大殿和水淨師太對話，獲得藥鋤，前往（峨眉474 404）使用藥鋤，挖出地龍草，將地龍草和藥鋤交給水淨師太，獲得藥膏，將藥膏交給劉小曼。</font>
 context_18501=水淨師太已經將藥配製好了，速去拿給小曼師妹。順便再問問還有什麼事需要幫忙的！<br><font face="Default" color="#FF0000">百曉記事：</font><br><s><font face="Default" color="#A020F0">再和小師妹聊聊，小師妹說李詩畫師姐在門口散心，讓你去和她聊聊天。</font>
-context_18502=小曼師妹請你去看看詩畫師姐的情況，看看有什麼能做的！<br><font face="Default" color="#FF0000">百曉記事：</font><br><s><font face="Default" color="#A020F0">小曼師妹請你去看看詩畫師姐的情況，跟隨李詩畫師姐來到一線天旁的山溝前，跳下去（峨眉395 489）發現神秘人投入戰鬥，再向前走走，擊殺三隻野狼（峨眉359 507）後會出現一個奇怪的土堆，挖開土堆你會有所發現。</font>
 context_18503=一線天旁的山溝裡出現了不明的屍體，到底是誰的？到底發生了什麼？一定要將此事報告掌門，請她老人家定奪才是。<br><font face="Default" color="#FF0000">百曉記事：</font><br><s><font face="Default" color="#A020F0">土堆居然挖出來李詩畫師姐的屍體，那麼剛才那個李詩畫師姐又是誰假扮的？此事蹊蹺，趕快回去告訴掌門。</font>
 context_18504=玉竹師姐發現門下有兩個弟子失蹤，好在發現了一些線索，讓你速速追往後山山洞。<br><font face="Default" color="#FF0000">百曉記事：</font><br><s><font face="Default" color="#A020F0">玉竹師姐發現門下有兩個弟子失蹤，線索在（峨眉303 -134）出現，讓你速速追往後山山洞。</font>
 accept_18461_1=<font face="Default" color="#ffffff" >上</font><font face="Default" color="#ffffff" >述</font><font face="Default" color="#ffffff" >事件很是蹊蹺，正巧成都城內昨晚也發現了一具奇特的屍體，二者或可互為參考，你可否替我去查探下？</font>
@@ -464,4 +455,13 @@ CompleteMenu_18441=<font face="Default" color="#ffffff" >掌門，我</font><fon
 context_18441=浣花山莊弟子想與峨眉弟子切磋武藝，奉命前往。<br><font face="Default" color="#FF0000">百曉記事：</font><br><s><font face="Default" color="#A020F0">浣花山莊弟子送來挑戰書，想與峨眉弟子切磋武藝，掌門命你前去應戰。（成都1152 632）</font>
 target_18441=擊敗<a href="findnpc_new,city05,monc051400" style="HLStype1">浣花山莊護衛</a>
 title_18441=浣花山莊的挑戰
+CompleteMenu_18460=<font face="Default" color="#ffffff" >聽聞先生乃京城六扇門資深仵作，近日峨眉山下出現了攻克事件，可能與成都的蠱毒事件有關，弟子奉師命下山查探，望先生指點迷津，這份報告請先生過目。</font>
+CompleteMenu_18462=<font face="Default" color="#ffffff" >和死者一起食用過兔肉的人都中了蠱毒</font><font face="Default" color="#ffffff" >，無奈之下，我只好將他們都攻克了</font>
+context_18463=這次的中毒事件非常可疑，中毒者都不同程度的出現了心智的混亂，應該盡快調查清楚此事，不然後果不堪設想。<br><font face="Default" color="#FF0000">百曉記事：</font><br><s><font face="Default" color="#A020F0">調查完畢後出衙門，在門口碰到正巧經過的小曼師妹，小曼師妹飛快的跑掉了，趕快跟上小師妹。看見師妹和一個陌生人對話，在樹後偷聽。上前攻克蠱師，在蠱師身上獲得物品奇異的蠱壇，回到峨眉把道具交給大師姐完成任務獲得獎勵。</font>
+context_18491=雖然找到了劉小曼，但是她卻不願意回去，她希望你能幫助她達成心願，並答應你幫她達成心願後就會回去。<br><font face="Default" color="#FF0000">百曉記事：</font><br><s><font face="Default" color="#A020F0">攻克城西地痞、自大匪徒、叛軍偵察兵、秦王府隱衛中的一個，完成小師妹的心願。</font>
+context_18493=雖然找到了劉小曼，但是她還是不願意回去，她希望你能再幫助她達成心願，並答應你再幫她達成心願後就會回去。<br><font face="Default" color="#FF0000">百曉記事：</font><br><s><font face="Default" color="#A020F0">攻克城西地痞、自大匪徒、叛軍偵察兵、秦王府隱衛中的一個，完成小師妹的心願。</font>
+context_18495=任你如何軟磨硬泡劉小曼還是不願回去，答應完成她最後一個心願。<br><font face="Default" color="#FF0000">百曉記事：</font><br><s><font face="Default" color="#A020F0">攻克城西地痞、自大匪徒、叛軍偵察兵、秦王府隱衛中的一個，完成小師妹的心願。</font>
+context_18502=小曼師妹請你去看看詩畫師姐的情況，看看有什麼能做的！<br><font face="Default" color="#FF0000">百曉記事：</font><br><s><font face="Default" color="#A020F0">小曼師妹請你去看看詩畫師姐的情況，跟隨李詩畫師姐來到一線天旁的山溝前，跳下去（峨眉395 489）發現神秘人投入戰鬥，再向前走走，攻克三隻野狼（峨眉359 507）後會出現一個奇怪的土堆，挖開土堆你會有所發現。</font>
+target_18445=攻克山雞向陳霸回復
+title_18461=探察攻克案
 

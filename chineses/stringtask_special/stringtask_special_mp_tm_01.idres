@@ -168,7 +168,6 @@ okmenu_9445=<font face="Default" color="#ffffff" >Vâng, đệ tử biết sai r
 story_9001_1=<s>Đường Phong việc này gác lại xử lý sau, việc cấp bách là bắt Đường Quan Quần về Đường Môn hỏi tội, nếu không không biết còn xảy ra loạn gì.
 story_9001_2=<s>Ngươi phải nhớ kỹ, môn quy tuyệt đối không được vi phạm. Ai dám trái lệnh, lão thân ắt sẽ nghiêm trị!
 story_9002_1=<s>Chuyện này không liên quan đến Thiên Bảo Trại ta, Thiên Bảo Trại ta không thèm làm chuyện như vậy!
-story_9002_2=<s>Độc mà người đó trúng không phải là độc dược của Đường Môn ta? Ha ha, chuyện này còn phải điều tra? Lôi Quang Tước ta trên giang hồ cũng là một nhân vật có tên tuổi, tuyệt đối không dùng độc của Đường Môn giết người. Chuyện này sao lại có quan hệ đến Thiên Bảo Trại ta, không phài là tên phản đồ cùa Đường Môn ngươi làm sao?
 story_9003_1=<s>Không ngờ một tên Tân Tú nhỏ nhoi của Đường Môn lại có võ công cao đến vậy, thậm chí còn nhìn thấu được bẫy của ta. Hahaha lẽ nào Lôi Quang Tước ta đã già rồi à! <BR><s>Ôi, ta nên tỉnh lại đi thôi, lí tưởng của Đường Quan Quần quá lớn đã che đậy mất lương tri của ta rồi.
 story_9003_3=<font face="Default" color="#ffffff" > Thôi đi, ta đã già rồi…ta dẫn ngươi gặp Đường Quan Quần, hi vọng Đường Môn các ngươi có thể mở ra con đường sống cho Thiên Bảo Trại! Ngươi đi với ta...</font>
 story_9004_1=<font face="Default" color="#ffffff" >　　Ta không tin, ta không tin. </font><font face="Default" color="#8fd6ef" >(thôn dân Trương Sơn tức giận nhìn Đường Quan Quần)</font><font face="Default" color="#ffffff" > Ngươi đã bắt ta thử độc, ngươi biết độc khó chịu thế nào chứ?</font>
@@ -213,9 +212,33 @@ SubmitNpcEx_50045=<s>Trò chuyện với <a href="findnpc_new,school05,WorldNpc0
 okmenu_9122_1=<font face="Default" color="#ffffff" >Sư huynh xin </font> <font face="Default" color="#ffffff" >đừng</font> <font face="Default" color="#ffffff" > đau lòng, ta sẽ đến cứu thôn dân ngay.</font>
 SubmitNpcEx_50048=Báo lại những lời mà Hoàng Tứ nói cho <a href="findnpc_new,school05,WorldNpc02201" style="HLStype1">Lão Lão</a>
 DialogID_9175_1=Ngươi thấy Cán Hoa Kiếm Phái bọn ta phong cảnh thế nào?
-hunterinfo_9127=Đánh bại <a href="findnpc_new,school05,monrm069500" style="HLStype1">Tinh Túc Phái Sát Thủ</a> xâm phạm
 story_9034_0=<s>Gần đây, nhiều người trong Đường Môn đã đến Khổng Tước Sơn Trang, dọn dẹp hành trang, mặt mày ủ rủ như sắp xảy ra chuyện lớn, mấy hôm trước bọn ta đều nhìn thấy một cô nương xinh đẹp và một Lão Giả vội đến Khổng Tước Sơn Trang, có lẽ là người mà thiếu hiệp muốn tìm. Đường Môn lệnh bọn ta ở lại nơi đây chỉ để che mắt thế gian.
 story_9035_0=<s>Vì tuổi đã xế chiều, lão chưởng môn biết mình không còn sống được bao lâu nên vội cho người mời Khổng Tước Sơn Trang Trang Chủ đến và kể cho ngài ấy nghe, không ngờ số mệnh khó tránh, lão chưởng môn cất tiếng cười cuối trong căn phòng, cho đến hôm nay giọng cười trước khi lâm chung đó vẫn thỉnh thoảng vang lại bên tai ta.
 story_9035_2=<s>Hôm đó, sau khi Khổng Tước Sơn Trang Trang Chủ ra ngoài, lại chỉ im lặng về việc ám khí và cảm thấy tiếc cho sự qua đời của chưởng môn, dù ta cảm thấy sự kỳ lạ nhưng mối quan hệ giữa chưởng môn và người này không như bình thường, nên cũng không hỏi thêm. Mấy năm sau, Khổng Tước Sơn Trang đột nhiên tạo ra Khổng Tước Linh uy chấn giang hồ, khiến ta rất kinh ngạc, càng nghi ngờ hơn về việc này...
-story_9003_2=<font face="Default" color="#ffffff" > Lão phu tung hoành giang hồ hơn 30 năm, trước nay không coi Đường Môn ra gì.       Ta cho rằng, ta dựa vào độc dược của Đường Quan Quần kết hợp với các môn phái khác thì có thể thay Đường Môn trở thành bá chủ nước Thục, 1 trong Cửu Đại Môn Phái giang hồ. Chỉ đáng tiếc Lôi mỗ đã quá xem thường Đường Môn, ha ha, tất cả như một giấc mộng. </font>
+DialogID_9228_1=<s>Sau đó ta điều tra ra người có vết bớt bọ cạp tên Tư Đồ Đào, biệt danh Vua Bọ Cạp, là một sát thủ giang hồ khét tiếng. <BR><s>Nhiều năm qua, ta đã bí mật theo dõi tung tích Tư Đồ Đào, tiếc rằng không một tin tức. Nhưng có tin đồn gần đây hắn xuất hiện ở Lạc Dương, vài ngày trước ta đã phái người điều tra, ngươi bây giờ nên nhanh đến Lạc Dương, xem mọi chuyện có tiến triển gì không.
+DialogID_9234_2=Khụ, khụ... Ta và ngươi không ân không oán, sao lại hạ độc thủ, lấy mạng tiểu tăng. Hôm nay đừng hòng bỏ qua, chúng ta tìm trụ trì nói cho ra lẽ.
+DialogID_9275_1=<s>Đa ta thiếu hiệp đã kịp thời xuất hiện đánh bại Sát Thủ do Mật Tông phái tới. Sau này ta nhất định cẩn thận hơn! <BR><s>Thiếu hiệp, bây giờ ta nghĩ rằng, dù người đứng đầu Mật Tông ta đã gặp trước đây bị che mặt, nhưng thân hình hắn ta rất khác lạ, ta nhớ rất rõ... đúng! Rất giống người đi xem hội hoa lần này, Đỗ Kinh Lôi của Cẩm Y Vệ! Rất có thể là hắn!
+QiecuoTitle_9018=Ta nhất định báo thù rửa hận! Xem chiêu!!
+collectinfo_9082=Tấn công <a href="findnpc_new,scene03,monrf031000" style="HLStype1">Cơ Vô Sương</a> lấy được thuốc giải độc
+hunterinfo_9026=Tấn công <a href="findnpc_new,school05,monrm053100" style="HLStype1">Thiết Chưởng Bang Chúng Gây Sự</a>
+hunterinfo_9049=Loại bỏ kẻ địch <a href="findnpc_new,born04,bossv040300" style="HLStype1">Trịnh Thục Anh</a>
+hunterinfo_9067_1=Tiêu diệt <a href="findnpc_new,city04,WorldNpc10030" style="HLStype1">Thái Sấm</a>
+hunterinfo_9069_1=Tiêu diệt <a href="findnpc_new,city04,WorldNpc10031" style="HLStype1">Quách Nhai</a>
+hunterinfo_9071_1=Tiêu diệt Thủ Lĩnh Cẩm Y Vệ <a href="findnpc_new,city04,monrc041900" style="HLStype1">Kim Thạch</a>
+hunterinfo_9072_2=Tiêu diệt <a href="findnpc_new,city04,monrc042300" style="HLStype1">Cẩm Y Vệ Đệ Tử</a>
+hunterinfo_9073_1=Tiêu diệt Thủ Lĩnh Cẩm Y Vệ <a href="findnpc_new,city04,monrc042000" style="HLStype1">Kim Minh</a>
+hunterinfo_9074_2=Tiêu diệt <a href="findnpc_new,city04,monrc042300" style="HLStype1">Cẩm Y Vệ Đệ Tử</a>
+hunterinfo_9075_1=Tiêu diệt Thủ Lĩnh Cẩm Y Vệ <a href="findnpc_new,city04,monrc042100" style="HLStype1">Kim Xung</a>
+hunterinfo_9076_2=Tiêu diệt <a href="findnpc_new,city04,monrc042300" style="HLStype1">Cẩm Y Vệ Đệ Tử</a>
+hunterinfo_9088=Đánh bại <a href="findnpc_new,school03,monrm030600" style="HLStype1">Sát Thủ Mật Tông</a>
+hunterinfo_9095=Tiêu diệt Tinh Túc phản đồ <a href="findnpc_new,born02,monrv020800" style="HLStype1">Độc Cô Hồ</a>
+hunterinfo_9098_1=Tiêu diệt <a href="findnpc_new,school05,monrm056200" style="HLStype1">Hải Xích Sơn</a>
+hunterinfo_9099_2=Tiêu diệt <a href="findnpc_new,school05,monrm057900" style="HLStype1">Mộc Kiếm Xuân</a>
+hunterinfo_9100_3=Tiêu diệt <a href="findnpc_new,school05,monrm056400" style="HLStype1">Lam Thủy Hàn</a>
+hunterinfo_9101=Tiêu diệt <a href="findnpc_new,born02,monrv020900" style="HLStype1">Chu Ngọc</a>
+hunterinfo_9127=Đánh bại <a href="findnpc_new,school05,monrm069500" style="HLStype1">Tinh Túc Phái Sát Thủ</a> xâm phạm
+story_9002_2=<s>Độc mà người đó trúng không phải là độc dược của Đường Môn ta? Ha ha, chuyện này còn phải điều tra? Lôi Quang Tước ta trên giang hồ cũng là một nhân vật có tên tuổi, tuyệt đối không dùng độc của Đường Môn sát nhân. Chuyện này sao lại có quan hệ đến Thiên Bảo Trại ta, không phài là tên phản đồ cùa Đường Môn ngươi làm sao?
+story_9021_4=Đến Đường Môn, không ngờ mũi tên có độc, bạn cũ trúng độc mà ra đi. Từ đó, ta thề, nhất định báo thù.
+story_9024_1=<s>Năm đó ta và đường chủ Đường Gia Bảo Đường Ngự Phong có xích mích, ta đã mua chuộc Vua Bọ Cạp đột nhập vào Đường Gia Bảo tìm cơ hội đột kích, tất cả đều trong tay ta.
+story_9003_2=<font face="Default" color="#ffffff" > Lão phu tung hoành giang hồ hơn 30 năm, trước nay không coi Đường Môn ra gì.       Ta cho rằng, ta dựa vào độc dược của Đường Quan Quần kết hợp với các môn phái khác thì có thể thay Đường Môn trở thành bá chủ nước Thục, 1 trong Các Đại Tông Phái giang hồ. Chỉ đáng tiếc Lôi mỗ đã quá xem thường Đường Môn, ha ha, tất cả như một giấc mộng. </font>
 

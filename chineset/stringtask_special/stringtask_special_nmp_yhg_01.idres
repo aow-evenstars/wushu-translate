@@ -8,7 +8,6 @@ DialogID_12606=<font face="Default" color="#ffffff" >移花宮弟子眾多，其
 DialogID_12609=女俠饒命！女俠饒命！我這就將人叫出來，女俠息怒！
 DialogID_12610=<font face="Default" color="#ffffff" >    有勞閣下相助。時辰不早了，我要即刻趕回宮中覆命。此枚令牌乃是花宮用來交付有緣之人的墨玉梅花。少俠今後若是要前往移花宮，需在成都城外的碼頭找到我們的花宮宮船,船家自然會帶你前往。到達之後，將此物呈於舟樹歌</font><font face="Default" color="#ffffff" >便可。</font>
 DialogID_12611=<font face="Default" color="#ffffff" >    </font><font face="Default" color="#ffffff" >少俠，你既能來此，想必身揣墨玉梅花令，可否拿出於小老兒驗證一二？</font>
-DialogID_12612=<font face="Default" color="#ffffff" >    那淫賊多次騷擾雲姐姐，就連官差都不放在眼裡，如今被殺，實在是死有餘辜、大快人心。</font>
 DialogID_12613=<font face="Default" color="#ffffff" >吾所需之畫卷是否已收集完成</font>
 DialogID_12614=<font face="Default" color="#ffffff" >吾所需之惡鼠屍體是否已收集完成</font>
 DialogID_12625=
@@ -254,8 +253,6 @@ ZZAnswerText1_6572=綠萼園
 ZZAnswerText1_6573=逐出師門
 ZZAnswerText1_6574=停止傳授內功
 ZZAnswerText1_6575=貝闕珠宮
-ZZAnswerText1_6576=增加殺戮值
-ZZAnswerText1_6577=毀壞移花宮附近山林花木，擊殺林中動物
 ZZAnswerText1_6578=需通過極為嚴酷的考驗才可以成親
 ZZAnswerText1_6579=梅花
 ZZAnswerText1_6600=愁傷之物
@@ -265,7 +262,6 @@ ZZAnswerText1_6603=心已傷，情已死，不可醫。
 ZZAnswerText1_6604=心雖死，人還在，殺無赦！
 ZZAnswerText1_6605=男人雖多，卻不及我劍利。
 ZZAnswerText1_6606=勢如雷，不出手則已，出手必留名。
-ZZAnswerText1_6607=殺人留名，震懾江湖。
 ZZAnswerText1_6608=心死之人，既已決心加入移花宮，便不會反悔。
 ZZAnswerText1_6609=想要加入！
 ZZAnswerText2_6480=東坡肘子
@@ -373,8 +369,6 @@ ZZAnswerText2_6602=心傷之物
 ZZAnswerText2_6603=破鏡可重圓，心傷亦可醫。
 ZZAnswerText2_6604=心既死，無所欲，無所求。
 ZZAnswerText2_6605=只殺負心該死之人。
-ZZAnswerText2_6606=殺人不留名。
-ZZAnswerText2_6607=殺人留名，則江湖傳言移花宮只殺負心之人。
 ZZAnswerText2_6608=讓我考慮下。
 ZZAnswerText2_6609=不要。
 collectinfo_12601=去找前輩<a href="findnpc_new,school09,yhg_rm_pt_030" style="HLStype1">月嬋娟</a>指教，通過她的眼力考驗
@@ -511,7 +505,6 @@ interactinfo_12610=將雲現筱離開之事告知<a href="findnpc_new,city05,bai
 interactinfo_12611=宮船會停在成都城郊外的哪處碼頭呢？到達後還得找一名叫舟樹歌的前輩......
 interactinfo_12612=似乎出事了？往前方<a href="findnpc_new,city05,cd415" style="HLStype1">眾人圍觀處</a>探個究竟
 interactinfo_12613=將5張損壞的畫像(宮內外刷出)上交給<a href="findnpc_new,school09,yhg_004" style="HLStype1">花憐心</a>
-interactinfo_12614=將5只惡鼠的屍體(擊殺惡鼠獲得)上交給<a href="findnpc_new,school09,yhg_004" style="HLStype1">花憐心</a>
 interactinfo_12620=清掃<a href="findnpc_new,,Gather_yhg_006" style="HLStype1">落葉</a>
 interactinfo_12621=據芳主說宮外有人販子活動，那便前往<a href="findnpc_new,school09,EventNpc_yhg_01" style="HLStype1">宮外</a>巡視一番
 interactinfo_12622=解救可憐的<a href="findnpc_new,school09,Gather_yhg_007" style="HLStype1">女嬰</a>
@@ -604,7 +597,6 @@ maintext_6603=心傷可醫否？
 maintext_6604=心死何所求？
 maintext_6605=世間男人何其多，如何殺得淨？
 maintext_6606=移花宮雖大卻敵不過天下男人圍攻，何解？
-maintext_6607=為何殺人留名？
 maintext_6609=最後你真的想要加入移花宮麼？
 okmenu_12600=竟有此事，出手之人必定功力精湛。我再向別人打聽一二。
 okmenu_12601=<font face="Default" color="#ffffff" >梅花鏢？難道是梅花門所為？可這一路似乎並無聽聞梅花門門人來到成都......</font>
@@ -900,12 +892,10 @@ collectinfo_12652=研讀世外高人所寫<a href="findnpc_new,school03,Npc_wxts
 collectinfo_12653=長久修煉葵花和斷情而無相應武德心經修煉致經脈異動，服用奇藥方可改善，製作此藥需要去惡人谷尋找一味<a href="findnpc_new,born02,Npc_wxts_04" style="HLStype1">天山雪蓮</a>。
 collectinfo_12654=去<a href="findnpc_new,school03,Npc_wxts_02" style="HLStype1">山頂</a>冥思，習武必先修德，冥思以做反省。
 collectinfo_12660=觀看<a href="findnpc_new,school06,Npc_wxts_05" style="HLStype1">峭壁</a>峭壁上所刻之字，能夠在岩石上以指刻字，功力深厚，領悟前輩武德。
-hunterinfo_12656=前去唐門擊殺<a href="findnpc_new,school05,monm052400" style="HLStype1">金環蛇</a>，取其蛇筋立即服用，對平穩經脈大有益處。
 interactinfo_12655=經世外高人指點，少林武學洗髓經可移經擴脈，對經脈有莫大的好處，帶著世外高人所賜信物前去拜見<a href="findnpc_new,school08,WorldNpc00212" style="HLStype1">玄懷大師</a>，求大師傳授洗髓法門。
 interactinfo_12657=極樂谷善用蠱蟲，亦可驅使蠱蟲增強體質，強化經脈，去極樂谷找蠱使<a href="findnpc_new,school04,WorldNpc03812" style="HLStype1">馬查蘭</a>以求獲得幫助
 interactinfo_12658=前往武當尋找<a href="findnpc_new,school07,WorldNpc04401" style="HLStype1">紫陽真人</a>化解迷津，自身所有武學均為罕世絕學，但終究不被武林認可，希望得到紫陽真人指點。
 maintext_6580=習武之人當以武德為先還是武力為先？
-maintext_6581=行走江湖不免殺戮，殺人是對是錯？
 maintext_6582=高深江湖武學大多並無相應心性修煉心法，故而容易影響天生經脈，日積月累之下，影響修煉者心性，只要修煉者心志堅定方可克服影響，堅持本心，你能做到麼
 okmenu_12655=<font face="Default" color="#ffffff" >多謝前輩！</font>
 okmenu_12657=<font face="Default" color="#ffffff" >請前輩成全</font>
@@ -991,7 +981,6 @@ maintext_6559=移花宮弟子向來機敏聰慧，善於察言觀色。你可知
 maintext_6560=移花宮弟子向來機敏聰慧，善於察言觀色。你可知道飛鷹地宮的守宮者是誰？
 maintext_6561=移花宮弟子向來機敏聰慧，善於察言觀色。你可知道蘇沐青和虞岳雙是什麼關係？
 maintext_6562=既為我移花宮弟子，對移花宮地形想必非常熟悉，你可知道移花宮環形走廊正中的建築是什麼？
-maintext_6564=既為我移花宮弟子，你可知道與我移花宮交惡成為血仇的勢力是什麼？
 maintext_6565=既為我移花宮弟子，對移花宮地形想必非常熟悉，你可知道想要前往水月洞天必須穿越那個建築？
 maintext_6566=既為我移花宮弟子，對移花宮地形想必非常熟悉，你可知道瑤波湖上的橋叫什麼名字？
 maintext_6567=既為我移花宮弟子，對移花宮地形想必非常熟悉，你可知道本門弟子的演舞台是哪裡？
@@ -1138,4 +1127,15 @@ okmenu_12708=<font face="Default" color="#ffffff" >舉手之勞，姑娘不必�
 ZZAnswerText2_6560=俞綰綰
 hunterinfo_12733=踢館浣花山莊擊敗梁影峰
 story_12701_1=<font face="Default" color="#ffffff" >    </font><font face="Default" color="#ffffff" >這......倒也無妨。錦熏妹妹之前奉令出宮辦事，半夜趕路卻迷失在下雨的荒山野嶺。狼狽的她遇見了第一軒的杜若公子。杜公子見她又饑又餓，便將自己所烤的半隻野雞奉上，更是在雨停之後一路將她護送到煙雨莊內......</font>
+DialogID_12612=<font face="Default" color="#ffffff" >    那淫賊多次騷擾雲姐姐，就連官差都不放在眼裡，如今被襲，實在是死有餘辜、大快人心。</font>
+ZZAnswerText1_6576=增加戕屠值
+ZZAnswerText1_6577=毀壞移花宮附近山林花木，攻克林中動物
+ZZAnswerText1_6607=攻克留名，震懾江湖。
+ZZAnswerText2_6606=攻克不留名。
+ZZAnswerText2_6607=攻克留名，則江湖傳言移花宮只殺負心之人。
+hunterinfo_12656=前去唐門攻克<a href="findnpc_new,school05,monm052400" style="HLStype1">金環蛇</a>，取其蛇筋立即服用，對平穩經脈大有益處。
+interactinfo_12614=將5只惡鼠的屍體(攻克惡鼠獲得)上交給<a href="findnpc_new,school09,yhg_004" style="HLStype1">花憐心</a>
+maintext_6564=既為我移花宮弟子，你可知道與我移花宮交惡成為一生之敵的勢力是什麼？
+maintext_6581=行走江湖不免戕屠，攻克是對是錯？
+maintext_6607=為何攻克留名？
 

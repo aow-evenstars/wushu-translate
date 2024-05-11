@@ -59,7 +59,6 @@ collectinfo_5607=Ở Phụ Cận tìm, thu thập<a href="findnpc_new,school01,G
 collectinfo_5608=<a href="findnpc_new,school01,Gather0045yl" style="HLStype1">Sách</a> có lẽ là Ngô Trí Dũng khi té xuống làm rơi ra, nhặt lên xem
 hunterinfo_5001=Tận lực giữ kiếm nam tử<a href="findnpc_new,school01,WorldNpc04284" style="HLStype1">Ngô Trí Dũng</a>
 hunterinfo_5620=Đến hướng tây diệt<a href="findnpc_new,school01,monm010103" style="HLStype1">Mật Lâm Độc Xà</a>
-hunterinfo_5622=<a href="findnpc_new,school01,monm010504" style="HLStype1">Trâu trúng độc</a> qủa nhiên phát điên, phải diệt.
 interactinfo_5001=Nghe Hồng Kỳ Sứ <a href="findnpc_new,school01,WorldNpc04126" style="HLStype1">Trương Thế Quân</a> còn có chỉ thị gì.
 interactinfo_5004=Đi về phía bắc, chính là <a href="findnpc_new,school01,EventNpc42004" style="HLStype1">Tường Vân Thôn</a> , đi nhanh lên sẽ đến thôi
 interactinfo_5005=Việc không thể trễ, hãy cứu <a href="findnpc_new,school01,WorldNpc04276" style="HLStype1">Sở Phong</a> sư huynh bên ngoài nhà Thôn Trưởng
@@ -137,7 +136,6 @@ storymenu_5605_2=<font face="Default" color="#ffffff" >Đọc tiếp...</font>
 storymenu_5605_3=<font face="Default" color="#ffffff" >Không ngờ Ngô Trí Nhân lại khổ mệnh ....</font>
 useiteminfo_5004=Sử dụng<a href="TASK_ITEM,useitem_71y" style="HLStype1">Bồ câu đưa thư</a> đưa thư cho Trương Thế Quân
 SubmitNpcEx_42021=<s>Đến vùng lân cận tìm sư huynh đồng môn <a href="findnpc_new,school01,WorldNpc04277" style="HLStype1">Kính Hỏa</a> nói chuyện
-interactinfo_5009=Lỡ tay sát nhân, về thôn giao cho trưởng thôn <a href="findnpc_new,school01,WorldNpc04278" style="HLStype1">Trương Tồn Thắng</a> rồi định đoạt sau
 story_5604_1=<font face="Default" color="#8fd6ef" >(Vạt áo hình như có trang sách thò ra)</font>
 storyinfo_5604=Căn cứ vào manh mối điều tra, có phải trên người <a href="findnpc_new,school01,WorldNpc04294" style="HLStype1">Ngô Trí Dũng</a> vẫn còn manh mối
 storymenu_5604_1=<font face="Default" color="#ffffff" >Đây là gì,</font> <font face="Default" color="#ffffff" >giống 1 quyển sổ,</font> <font face="Default" color="#ffffff" >mở ra xem thử…</font>
@@ -188,4 +186,32 @@ storymenu_5201_3=Người của Tinh Túc Phái rất giỏi độc công, khôn
 storymenu_5202_1=Vậy ngươi biết Vạn Độc Đỉnh ở đâu không?
 storymenu_5204_1=Tên Khương Dịch Từ đó lôi kéo đệ tử của Tinh Túc Phái muốn tiêu diệt Tô Bách Linh, tự lập nên môn phái riêng.
 storymenu_5205_1=Gì chứ? Hắn đã trộm được Vạn Độc Đỉnh rồi sao?
+DialogID_5048=Vừa nãy có vài tên thuộc hạ của bọn Ác Đồ Quỷ ép ta uống thuốc độc của Cẩm Y Vệ, ta cố đẩy Cẩm Y Vệ ra. Sát Thủ còn nói Thiên Sát Phủ đã đạt được mục đích, ta không còn giá trị lợi dụng nữa, muốn ta bỏ mạng. Cũng may ta còn một viên "Ngọc Dương Đan", trì hoãn độc phát tác, cầu xin ngươi nghĩ cách cứu ta.
+DialogID_5063_2=Những tên Sát Thủ này hẳn là do Trương Thế Quân phái đến diệt ta để phòng hậu họa. Vừa nãy khi giao đấu với Trương Thế Quân, ta thấy võ công của hắn đã tiến bộ nhiều, e rằng hắn đã luyện thành "Thụy La Hán Quyền"!
+DialogID_5201_1=Haha, Bất Giới Hòa Thượng ta hiệu là Bất Giới, ăn chơi sát nhân phóng hỏa việc gì cũng có thể làm, không quen với các quy tắc do các lão trọc Thiếu Lâm Tự đó đặt ra, nên trốn khỏi Thiếu Lâm đến Ác Nhân Cốc trêu chọc các cô nương.
+DialogID_5255_1=Không sai, chính là người gọi ngươi đến lấy tiền. Mặc dù Hồng Hoa Sát Thủ do một tay ta lập nên, nhưng ta không xuất đầu lộ diện. Hắn ta, lấy danh nghĩa của ta đi ức hiếp nữ nhân, bây giờ chỉ cần nhắc đến Hồng Hoa là mọi người liền hoảng sợ.
+collectinfo_5207=Đánh bại <a href="findnpc_new,city04,monc043200" style="HLStype1">Sát Thủ Thần Bí</a> xem có manh mối gì
+hunterinfo_5003_1=Đánh bại <a href="findnpc_new,school01,WorldNpc04108" style="HLStype1">Thường Thiên Tiếu</a>
+hunterinfo_5004_2=Đánh bại <a href="findnpc_new,school01,WorldNpc04109" style="HLStype1">Tào Mãnh</a>
+hunterinfo_5019=Đánh bại <a href="findnpc_new,school01,monrm011000" style="HLStype1">Ác Quỷ Môn Sát Thủ</a>
+hunterinfo_5020=Đánh bại <a href="findnpc_new,school01,monrm011001" style="HLStype1">Ác Quỷ Môn Sát Thủ</a>
+hunterinfo_5021=Đánh bại <a href="findnpc_new,school01,monrm011002" style="HLStype1">Ác Quỷ Môn Sát Thủ</a>
+hunterinfo_5022=Đánh bại <a href="findnpc_new,school01,monrm011003" style="HLStype1">Ác Quỷ Môn Sát Thủ</a>
+hunterinfo_5027=Đánh bại <a href="findnpc_new,scene07,monrf071500" style="HLStype1">Sát Thủ Thần Bí</a>
+hunterinfo_5031=Đánh bại <a href="findnpc,scene07,239.02. 6.79,55.29" style="HLStype1">Sát Thủ</a>
+hunterinfo_5307=Đánh bại <a href="findnpc_new,school07,monrm076100" style="HLStype1">Hắc Y Sát Thủ</a>
+hunterinfo_5618=Đánh bại <a href="findnpc_new,school01,monrv042802" style="HLStype1">Sát Thủ Bịt Mặt</a>
+hunterinfo_5621=Đánh bại <a href="findnpc_new,school01,monrm013903" style="HLStype1">Hắc Y Sát Thủ</a>
+hunterinfo_5622=<a href="findnpc_new,school01,monm010504" style="HLStype1">Trâu trúng độc</a> qủa nhiên phát điên, phải diệt.
+interactinfo_5009=Lỡ tay sát nhân, về thôn giao cho trưởng thôn <a href="findnpc_new,school01,WorldNpc04278" style="HLStype1">Trương Tồn Thắng</a> rồi định đoạt sau
+story_5002_2=Vì chỉ có ta biết chỗ ẩn nấp của Thiên Sát Phủ, nên chưa cần giải quyết ta trừ hậu họa. Quỷ Háo Sắc, Ác Đồ Quỷ vì muốn đánh lạc hướng, đã đổ tội cho Cẩm Y Vệ.
+story_5007_1=Thật ra Trương Thế Quân sai ta diệt ngươi trừ hậu họa, vì sợ ngươi nói ra chuyện "Thụy La Hán Quyền". Sau khi Trương Thế Quân lấy được Bí Tịch cố ý để ngươi đi hái hoa mai đánh lạc hướng, ngụy tạo Tàng Bảo Đồ, để ta cử người canh giữ ở địa điểm Tàng Bảo Đồ.
+story_5008_1=Hừm, quyển Bí Tịch "Thụy La Hán Quyền" mà Trần Thất Thần đưa là giả. Ta tưởng mình đã luyện thành thần công "Thụy La Hán Quyền", muốn diệt Trần Thất Thần trừ hậu họa, sẽ chẳng ai biết Bí Tịch đang trong tay ta.
+story_5011_1=Tiên Hà đã phái nội gián, để Ngũ Tiên Giáo nhân cơ hội đầu độc toàn phái, Ngũ Tiên Giáo nghiên cứu độc dược nhiều năm, chủ yếu tra tấn kẻ khác, sao có thể làm ra loại độc dược không màu không vị tiêu diệt trong vô hình. Khi ngươi đến bái sư, ta đã đoán ra ngươi là người của Cẩm Y Vệ.
+story_5219_1=Ta muốn nhờ ngươi thuê giúp một Sát Thủ, đánh trọng thương cả ta và Yên Tề Sương, sau đó xem Hoàng Phủ Dao sẽ giúp ai.
+story_5219_2=Ngươi chỉ cần giúp ta chuyện này. Xong việc ta sẽ trọng thưởng. Trên địa bàn của Tào Bang có một Sát Thủ Mã Thanh Phong rất nổi tiếng, ngươi hãy đi tìm hắn.
+story_5221_2=Tên đó muốn vu oan giá họa cũng không tìm người phù hợp, Hoàng Phủ Dao có võ công cao cường. Vết thương trên người Yên Tề Sương căn bản không phải do Hoàng Phủ Dao gây ra. Gần đây một nhóm Sát Thủ bí ẩn tụ tập gần Yến Môn, ngươi giúp ta xem có manh mối gì không.
+story_5304_1=<s>Danh tính người theo dõi Bí Tịch của Xương Tác Võ vẫn chưa rõ, thủ hộ của Vạn Mai Sơn Trang bị tấn công một cách kỳ lạ. Ta đoán do Tây Môn Xuy Tuyết trừ hậu họa. Vì vậy phải nhanh chóng điều tra nếu không e sẽ gặp nguy hiểm.
+story_5306_1=<s>Mục đích ta ở đây là để tìm kẻ thù giết vợ, gọi là Kỷ Vô Song "Giang Hồn Thiểm Điện Đao", hắn ta đã huấn luyện một nhóm sát thủ, phục vụ những người giàu có. Trên đường đã gặp kiếm khách ngươi nói.
+story_menu_5209=Haha, nhanh như vậy đã muốn diệt trừ hậu họa đoạt đồ rồi sao!
 

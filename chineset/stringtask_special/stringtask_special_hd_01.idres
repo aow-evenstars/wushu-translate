@@ -204,7 +204,6 @@ story_5752_5=<font face="Default" color="#ffffff" >    </font><font face="Defaul
 story_5753_1=<font face="Default" color="#ffffff" >    女</font><font face="Default" color="#ffffff" >俠饒命，我……我不再逃了……</font>
 story_5753_2=<font face="Default" color="#ffffff" >    在下實是情非得已，前不久在下</font><font face="Default" color="#ffffff" >被</font><font face="Default" color="#ffffff" >惡</font><font face="Default" color="#ffffff" >人下了毒，才不得不冒充金陵書院的人散播謠言</font><font face="Default" color="#ffffff" >，要不然在下小命難保啊……請女俠明察！</font>
 story_5754_1=<font face="Default" color="#ffffff" >    別來無恙。在下探查得知，這金陵書院已經被一股勢力控制，一切煽動民眾的流言皆來源於此，但是尚無特殊的身份證明而不得入</font><font face="Default" color="#ffffff" >。</font>
-story_5754_2=<font face="Default" color="#ffffff" >    在下也遇上像你擒住的這「書生」一般被那勢力用毒藥控制的江湖人，且都是男性，他們得知天狗食日之時，那勢力要將金陵書院中一干老師、學子全部滅口，那些江湖人不忍，決定將書院眾人救出，而其卻寧死不願離開，其中一位老者告知，此乃民族大義之舉，願捨身成仁。那些江湖人深受感觸，略有悔過之意，卻因身中劇毒，不知如何是好。
 story_5754_3=<font face="Default" color="#ffffff" >    在下碰巧對此種毒藥很是熟悉，</font><font face="Default" color="#ffffff" >這顆解毒藥你先收著。你可以幫助他們解毒，換取進入書院的令牌。解藥用完了，可以再來我這取。</font>
 story_5754_4=<font face="Default" color="#ffffff" >    你此後可在我處領取解毒藥，也好和那些參與此事的男子交換身份證明。</font>
 story_5755_1=少俠你這是中了那群用心險惡之徒的毒了，若是不能解毒，兩個時辰內必會毒發身亡。想不到這群人下手如此狠毒！
@@ -346,12 +345,8 @@ SubmitNpcEx_43794=前往活動大使林梁處提交任務
 SubmitNpcEx_43791=找神秘裁縫處易容大師的大徒弟提交任務
 SubmitNpcEx_43792=找神秘裁縫處易容大師的大徒弟提交任務
 SubmitNpcEx_43799=任務可在各大城市的節日活動大使處提交
-SubmitNpcEx_43797=找四藝老人提交任務
-SubmitNpcEx_43798=找四藝老人提交任務
-interactinfo_5799=找到附近的藥草商人，討要茱萸
 DialogID_5797=<font face="Default" color="#ffffff" >少俠您謙虛了，這拜帖我就收下了，以後年年在這秋高氣爽時，來我這喝杯菊花酒吧。</font>
 SubmitNpcEx_43795=找四藝老人提交任務
-SubmitNpcEx_43796=找四藝老人提交任務
 DialogID_5799=<font face="Default" color="#ffffff" >小伙子看你這麼熱心，這些茱萸就送你吧。</font>
 interactinfo_5797=拜訪四藝老人，把重陽拜帖交給四藝老人
 interactinfo_5798=與<a href="findnpc_new,,hd_gq2014_001" style="HLStype1">四藝老人</a>交談NpcId=四藝老人GetItems=item_gq2014_003-1
@@ -365,15 +360,6 @@ quest_menu_5793=<font face="Default" color="#ffffff" >您儘管問吧</font>
 quest_menu_5794=<font face="Default" color="#ffffff" >您儘管問吧</font>
 quest_menu_5795=<font face="Default" color="#ffffff" >您儘管問吧</font>
 quest_menu_5796=<font face="Default" color="#ffffff" >您儘管問吧</font>
-questioninfo_5788=回答四藝老人的問題
-questioninfo_5789=回答四藝老人的問題
-questioninfo_5790=回答四藝老人的問題
-questioninfo_5792=回答四藝老人的問題
-questioninfo_5793=回答四藝老人的問題
-questioninfo_5794=回答四藝老人的問題
-questioninfo_5795=回答四藝老人的問題
-questioninfo_5796=回答四藝老人的問題
-collectinfo_5775=採集菊花
 maintext_6800=晉代的王羲之被稱為什麼？
 maintext_6801=有草聖只稱的唐代書法家是誰？
 maintext_6802=歐陽詢是唐代人，受晉代王羲之的影響，他吸收了北朝碑刻和其他唐代書法家的長處，形成了"險勁"而怎樣的書法風格？
@@ -605,16 +591,10 @@ collectinfo_5786=收集<a href="findnpc_new,," style="HLStype1"></a>到食材「
 collectinfo_5787=收集<a href="findnpc_new,," style="HLStype1"></a>野牛裡脊肉（可通過獵戶採集或大明交易行購買獲得）
 collectinfo_5788=收集<a href="findnpc_new,," style="HLStype1"></a>野豬肉（可通過獵戶採集或大明交易行購買獲得）
 collectinfo_5789=收集<a href="findnpc_new,," style="HLStype1"></a>團頭魴（可通過漁夫釣魚或大明交易行購買獲得）
-hunterinfo_5765=前往千燈鎮，檢驗下<font color="#00CC33">「霞衣殺手」</font>實力（挑戰江湖勢力天香茶林）
 hunterinfo_5766=前往唐門，檢驗下<font color="#00CC33">「天寶寨高手」</font>實力（挑戰江湖勢力天寶寨）
 hunterinfo_5767=前往洛陽，檢驗下<font color="#00CC33">「抱犢寨武士」</font>實力（挑戰江湖勢力抱犢寨）
 hunterinfo_5770=前往煙雨莊，檢驗下<font color="#00CC33">「鹽幫監工」</font>實力（挑戰江湖勢力鹽幫）
 hunterinfo_5771=上前阻攔<a href="findnpc_new,city05,hd_bdn_qms" style="HLStype1">市井惡徒</a>並問其來意
-hunterinfo_5772=前去將鬧事的野獸<a href="findnpc_new,city05,bossmpdn001" style="HLStype1">年獸</a>擊殺
-hunterinfo_5773=前去將鬧事的野獸<a href="findnpc_new,city05,bossmpdn002" style="HLStype1">年獸</a>擊殺
-hunterinfo_5774=前去將鬧事的野獸<a href="findnpc_new,city05,bossmpdn003" style="HLStype1">年獸</a>擊殺
-hunterinfo_5775=前去將鬧事的野獸<a href="findnpc_new,city05,bossmpdn004" style="HLStype1">年獸</a>擊殺
-hunterinfo_5776=前去將鬧事的野獸<a href="findnpc_new,city05,bossmpdn005" style="HLStype1">年獸</a>擊殺
 interactinfo_5816=新春之際尚未準備春聯，找城中<a href="findnpc_new,city05,hd_bdn_01" style="HLStype1">司徒燕</a>求取
 interactinfo_5817=向<a href="findnpc_new,city05,hd_bdn_cl_01" style="HLStype1">趙顯文</a>先生求取春聯
 interactinfo_5818=聽聞春節有請門神習俗，不解其意，請教<a href="findnpc_new,city05,hd_bdn_01" style="HLStype1">司徒燕</a>老伯。
@@ -686,7 +666,6 @@ useiteminfo_5763=前往指定處<a href="findnpc_new,city05,Event_bdngj_004" sty
 useiteminfo_5764=前往<a href="findnpc_new,city05,Event_bdngj_003" style="HLStype1">成都</a>，使用<a href="TASK_ITEM,useitem_bdnguj_005" style="HLStype1">鏟子</a>將寶物取出
 QiecuoMenu_5771=<font face="Default" color="#ffffff" >有我在此，豈容你無理取鬧。</font>
 QiecuoTitle_5771=<font face="Default" color="#ffffff" >老頭，來點錢讓我過個好年啊，哈哈哈！</font>
-hunterinfo_5764=擊殺<font color="#ff0000">小年獸</font>
 collectinfo_5790=收集<font color="#00cc00">新鮮的豬肉</font>
 QiecuoMenu_5777=<font face="Default" color="#ffffff" >哼！似爾等爛行匹夫竟也敢口出狂言。</font>
 QiecuoMenu_5778=<font face="Default" color="#ffffff" >哼！似爾等爛行匹夫竟也敢口出狂言。</font>
@@ -737,4 +716,25 @@ SubmitNpcEx_43935=少俠收好了
 okmenu_5846=<font face="Default" color="#ffffff" >好的</font>
 hunterinfo_5763=擊敗鴆毒王（對鴆毒王造成最後一擊的團隊，並且需要在鴆毒王15米範圍內方可完成任務）
 SubmitNpcEx_43827=找林梁提交任務
+story_5754_2=<font face="Default" color="#ffffff" >    在下也遇上像你擒住的這「書生」一般被那勢力用毒藥控制的江湖人，且都是男性，他們得知天狗食日之時，那勢力要將金陵書院中一干老師、學子全部解決後患，那些江湖人不忍，決定將書院眾人救出，而其卻寧死不願離開，其中一位老者告知，此乃民族大義之舉，願捨身成仁。那些江湖人深受感觸，略有悔過之意，卻因身中劇毒，不知如何是好。
+hunterinfo_5765=前往千燈鎮，檢驗下<font color="#00CC33">「霞衣隱衛」</font>實力（挑戰江湖勢力天香茶林）
+hunterinfo_5772=前去將鬧事的野獸<a href="findnpc_new,city05,bossmpdn001" style="HLStype1">年獸</a>攻克
+hunterinfo_5773=前去將鬧事的野獸<a href="findnpc_new,city05,bossmpdn002" style="HLStype1">年獸</a>攻克
+hunterinfo_5774=前去將鬧事的野獸<a href="findnpc_new,city05,bossmpdn003" style="HLStype1">年獸</a>攻克
+hunterinfo_5775=前去將鬧事的野獸<a href="findnpc_new,city05,bossmpdn004" style="HLStype1">年獸</a>攻克
+hunterinfo_5776=前去將鬧事的野獸<a href="findnpc_new,city05,bossmpdn005" style="HLStype1">年獸</a>攻克
+hunterinfo_5764=攻克<font color="#ff0000">小年獸</font>
+SubmitNpcEx_43796=找<a href="findnpc_new,city05,hd_gq2014_001" style="HLStype1">四藝老人</a>提交任務
+SubmitNpcEx_43797=找<a href="findnpc_new,city05,hd_gq2014_001" style="HLStype1">四藝老人</a>提交任務
+SubmitNpcEx_43798=找<a href="findnpc_new,city05,hd_gq2014_001" style="HLStype1">四藝老人</a>提交任務
+collectinfo_5775=採集<a href="findnpc_new,city05,gather_gq2014_001" style="HLStype1">菊花</a>
+interactinfo_5799=找到附近的<a href="findnpc_new,city05,hd_gq2014_003" style="HLStype1">藥草商人</a>，討要茱萸
+questioninfo_5788=回答<a href="findnpc_new,city05,hd_gq2014_001" style="HLStype1">四藝老人</a>的問題
+questioninfo_5789=回答<a href="findnpc_new,city05,hd_gq2014_001" style="HLStype1">四藝老人</a>的問題
+questioninfo_5790=回答<a href="findnpc_new,city05,hd_gq2014_001" style="HLStype1">四藝老人</a>的問題
+questioninfo_5792=回答<a href="findnpc_new,city05,hd_gq2014_001" style="HLStype1">四藝老人</a>的問題
+questioninfo_5793=回答<a href="findnpc_new,city05,hd_gq2014_001" style="HLStype1">四藝老人</a>的問題
+questioninfo_5794=回答<a href="findnpc_new,city05,hd_gq2014_001" style="HLStype1">四藝老人</a>的問題
+questioninfo_5795=回答<a href="findnpc_new,city05,hd_gq2014_001" style="HLStype1">四藝老人</a>的問題
+questioninfo_5796=回答<a href="findnpc_new,city05,hd_gq2014_001" style="HLStype1">四藝老人</a>的問題
 

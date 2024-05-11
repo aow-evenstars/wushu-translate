@@ -60,15 +60,12 @@ specialinfo_245=Khiêu chiến Bão Độc Trại, nhân tiện tìm tung tích 
 specialinfo_246=Thành công vận tiêu một lần, xem như giang hồ rèn luyện
 specialinfo_248=Tham gia Tuần Tra Môn Phái, thu thập tình báo, nếu có thể thì đừng bỏ qua cơ hội bắt thám tử của môn phái khác
 specialinfo_249=Dò la Cực Lạc Cốc, thu thập tình báo, xem chúng gần đây làm Quỷ Danh Đường gì
-specialinfo_250=Diệt tội phạm triều đình, hoàn thành 1 lần nhiệm vụ Truy Nã Giang Hồ, nếu có thể bắt sống giao quan phủ càng tốt.
-specialinfo_253=Cứu người từ tay bọn bắt cóc, là hành vi bảo vệ chính nghĩa của ta
 specialinfo_255=Khiêu chiến Hổ Tiếu Sơn Trang, đánh bại chúng, ngăn chặn chúng luyện thành Đoạt Hồn Ma Đao
 specialinfo_256=Khiêu chiến Thẩm Gia Bảo, đánh bại chúng, làm rõ sự tình "Hồn Vũ Bảo Khúc"
 useiteminfo_58101=Sử dụng <a href="TASK_ITEM,useitem_emtz_001" style="HLStype1">Tỉnh Thần Lộ</a> trị liệu <a href="findnpc_new,school06,WorldNpc02929" style="HLStype1">bệnh điên của Vương Thăng</a>
 useiteminfo_58102=Theo di nguyện của xú nha đầu, đeo <a href="TASK_ITEM,useitem_emtz_002" style="HLStype1">Bích Tâm Ngọc Trọc</a> lên tay con gái tỷ ấy là <a href="findnpc_new,school06,WorldNpc02930" style="HLStype1">Tiểu Đào</a>
 DialogID_58110=<font face="Default" color="#ffffff" >Nếu muốn vào Hổ Tiếu Sơn Trang, chỉ có nước xông vào.</font>
 DialogID_58111=<font face="Default" color="#ffffff" >Vị đại ca này, chẳng hay có biết điều gì về nghi án Lạc Dương Hồ Điệp gần đây không?</font>
-DialogID_58112=<font face="Default" color="#ffffff" >Chuyện này hẳn không đơn giản, ngươi nhanh đến Thanh Vân Bảo, bất kể dùng thủ đoạn gì cũng phải tra rõ chân tướng Hồ Điệp Sát Nhân, tìm ra kẻ đứng sau.</font>
 SubmitNpcEx_86621=Nói những việc tra xét được với chưởng môn <a href="findnpc_new,school06,WorldNpc02604" style="HLStype1">Tuyệt Trần Sư Thái</a>
 SubmitNpcEx_86622=Bẩm báo những chuyện biết được với chưởng môn <a href="findnpc_new,school06,WorldNpc02604" style="HLStype1">Tuyệt Trần Sư Thái</a>
 SubmitNpcEx_86623=Bẩm báo chuyện phát hiện được với chưởng môn <a href="findnpc_new,school06,WorldNpc02604" style="HLStype1">Tuyệt Trần Sư Thái</a>
@@ -82,13 +79,10 @@ okmenu_58111=<font face="Default" color="#ffffff" >Không không không...ta kh�
 okmenu_58112=<font face="Default" color="#ffffff" >Đệ tử đã hiểu.</font>
 specialinfo_596=Vượt ải Hổ Tiếu Sơn Trang, tra rõ quỷ kế
 specialinfo_597=Vượt ải cấm địa Mộ Sắc Thôn
-specialinfo_598=Vượt ải cấm địa Thanh Vân Bảo, điều tra chân tướng việc Hồ Điệp Sát Nhân
 story_58101_1=<font face="Default" color="#ffffff" >Võ Đang Tử Dương Chân Nhân triệu ta đến, nói gần đây Hổ Tiếu Sơn Trang nhiều động tĩnh, ngươi mau đến Hổ Tiếu Sơn Trang, xem những người tà môn này có âm mưu gì!</font>
 story_58102_1=<font face="Default" color="#ffffff" >Dưới núi có trộm cắp giang hồ gây chuyện, ngươi mau xuống núi đuổi chúng đi, đừng quấy nhiễu Nga My thanh tịnh ta, cũng đừng làm mất uy danh Nga My.</font>
 story_58103_1=<font face="Default" color="#ffffff" >Là hắn! Hừ! Bao nhiêu năm rồi, không ngờ hắn vẫn chưa chết! Không thể tha cho tên đại gian ác này!</font>
-story_58103_2=<font face="Default" color="#ffffff" >Người này tên Triệu Tử Các, là sát thủ máu lạnh hoành hành giang hồ nhiều năm trước, nhiều năm trôi qua, không ngờ hắn vẫn chưa chết! Ngươi mau đến Tô Châu, tra rõ tung tích Triệu Tử Các, lần này phải diệt hắn cho bằng được!</font>
 story_58104_1=<font face="Default" color="#ffffff" >Triệu Tử Các? Hẳn là Triệu Tử Các mà người Hàn Gia tra hỏi mấy ngày trước? Hắn đang trốn ở Mộ Sắc Chi Thôn. Khách quan tìm hắn? E là khó tìm. Nghe nói hắn có thù với Hàn Gia, người Hàn Gia đã đến Mộ Sắc Chi Thôn tìm hắn rồi.</font>
-story_58105_1=<font face="Default" color="#ffffff" >Gần đây phụ cận Lạc Dương Thành lưu truyền việc Hồ Điệp Sát Nhân, có lẽ do giang hồ tà phái làm. Nga My ta là võ lâm chính đạo, không thể dung thứ việc này, ngươi đến Lạc Dương, phải tra rõ việc này.</font>
 story_menu_58101=<font face="Default" color="#ffffff" >Không biết Chưởng Môn có việc gì?</font>
 story_menu_58102=<font face="Default" color="#ffffff" >Không biết Chưởng Môn có dặn dò gì?</font>
 story_menu_58103=<font face="Default" color="#ffffff" >Khởi bẩm Chưởng Môn, đệ tử tìm được thư này.</font>
@@ -120,4 +114,9 @@ specialinfo_251=Khiêu chiến Vạn Thú Sơn Trang, giáo huấn người củ
 specialinfo_252=Khiêu chiến Tinh Túc Phái, đánh bại chúng.
 specialinfo_254=Khiêu chiến Cán Hoa Kiếm Phái
 specialinfo_331=Khiêu chiến Tung Sơn Kiếm Phái
+DialogID_58112=<font face="Default" color="#ffffff" >Chuyện này hẳn không đơn giản, ngươi nhanh đến Thanh Vân Bảo, bất kể dùng thủ đoạn gì cũng phải tra rõ chân tướng Hồ Điệp Sát Nhân, tìm ra kẻ đứng sau.</font>
+specialinfo_250=Diệt tội phạm triều đình, hoàn thành 1 lần nhiệm vụ Truy Nã Giang Hồ, nếu có thể bắt sống giao quan phủ càng tốt.
+specialinfo_598=Vượt ải cấm địa Thanh Vân Bảo, điều tra chân tướng việc Hồ Điệp Sát Nhân
+story_58103_2=<font face="Default" color="#ffffff" >Người này tên Triệu Tử Các, là sát thủ máu lạnh hoành hành giang hồ nhiều năm trước, nhiều năm trôi qua, không ngờ hắn vẫn chưa chết! Ngươi mau đến Tô Châu, tra rõ tung tích Triệu Tử Các, lần này phải diệt hắn cho bằng được!</font>
+story_58105_1=<font face="Default" color="#ffffff" >Gần đây phụ cận Lạc Dương Thành lưu truyền việc Hồ Điệp Sát Nhân, có lẽ do giang hồ tà phái làm. Nga My ta là võ lâm chính đạo, không thể dung thứ việc này, ngươi đến Lạc Dương, phải tra rõ việc này.</font>
 

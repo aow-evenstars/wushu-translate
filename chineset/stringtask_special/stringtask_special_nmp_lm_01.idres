@@ -40,7 +40,6 @@ DialogID_15109=<font face="Default" color="#ffffff" >此趟鏢是燕京市民委
 DialogID_15110=<font face="Default" color="#ffffff" >隨我一起在此地看護好鏢物，注意觀察四周任何動靜，不得馬虎。</font>
 DialogID_15111=<font face="Default" color="#ffffff" >此趟鏢是</font><font face="Default" color="#ffffff" >隱退之人委託鏢局沿途保護其人生安全</font><font face="Default" color="#ffffff" >，</font><font face="Default" color="#ffffff" >路途中凶險萬分，需做好充分準備。</font>
 DialogID_15112=<font face="Default" color="#ffffff" >多謝俠士一路上的保護，俠士一路辛苦了。</font>
-DialogID_15116=<font face="Default" color="#ffffff" >當時只顧著殺敵沒有發現什麼可疑的地方！</font>
 DialogID_15119=<font face="Default" color="#ffffff" >想入天下第一鏢局可不是件容易事兒。讓我好生想想……有了！近些日子，似乎有人盯上了我們的一趟鏢，你不如去找趙陽</font><font face="Default" color="#ffffff" >趙鏢頭</font><font face="Default" color="#ffffff" >，提醒他小心一些，順便也可以從旁協助一二，若是有了趙鏢頭的引薦，想要加入長風鏢局才有機會。。</font>
 DialogID_15120=<font face="Default" color="#ffffff" >你的為人</font><font face="Default" color="#ffffff" >老夫</font><font face="Default" color="#ffffff" >已經知道了，現在</font><font face="Default" color="#ffffff" >老夫還</font><font face="Default" color="#ffffff" >要看看你的手上功夫</font><font face="Default" color="#ffffff" >如何</font><font face="Default" color="#ffffff" >，</font><font face="Default" color="#ffffff" >行鏢天下，刀口舔血，若是沒有一身好武藝，老夫只能勸閣下離開，不知閣下可否準備妥當？</font>
 DialogID_15121=<font face="Default" color="#ffffff" >你可是來接受考驗的？</font>
@@ -298,7 +297,6 @@ interactinfo_15005=與<a href="findnpc_new,city03,newmp_changfeng_007" style="HL
 interactinfo_15006=幫助<a href="findnpc_new,city03,lmrc_05" style="HLStype1">聞師傅</a>製作食盒裡的菜餚，他會告訴你怎麼做
 interactinfo_15008=狄翎想要指點你的功夫，和他談談，完成他的比試後，再去找他吧。
 interactinfo_15016=前去拜見師兄<a href="findnpc_new,city03,EscortAcceptNpc005" style="HLStype1">雷萬山</a>
-interactinfo_15017=保護押送的貨物，擊殺趕來鬧事的劫匪，平安度過此夜！
 interactinfo_15018=找到燕京接頭人<a href="findnpc_new,city01,lmbj_biaoshi_001" style="HLStype1">張中</a>索取陷阱
 interactinfo_15020=都說<a href="findnpc_new,city01,WorldNpc04636" style="HLStype1">小朋友</a>童言無忌，不妨去問問可有可疑人物
 interactinfo_15021=去找燕京接頭人<a href="findnpc_new,city01,lmbj_biaoshi_001" style="HLStype1">張中</a>要來銀針
@@ -417,7 +415,6 @@ interactinfo_15166=去找<a href="findnpc_new,city02,WorldNpc01534" style="HLSty
 interactinfo_15167=去找<a href="findnpc_new,city03,jl006" style="HLStype1">掌櫃</a>，瞭解下金陵城中的江湖消息
 interactinfo_15168=與<a href="findnpc_new,," style="HLStype1"></a>鏢局女弟子交談
 interactinfo_15169=與<a href="findnpc_new,city03,newmp_changfeng_006" style="HLStype1">司南</a>交談
-interactinfo_15170=擊殺飛天大盜
 interactinfo_15172=<a href="findnpc_new,city03,EventNpc_changfeng_zyb_006" style="HLStype1">前去告知聞毅成</a>
 interactinfo_15200=向<a href="findnpc_new,city01,newmp_cfrc_guj_010" style="HLStype1">金玉明（隱退者）</a>告辭
 interactinfo_15201=向<a href="findnpc_new,city01,WorldNpc08773" style="HLStype1">王示</a>打聽下現在燕京城中的小道消息
@@ -430,7 +427,6 @@ interactinfo_15227=與<a href="findnpc_new,city03,newmp_changfeng_004" style="HL
 interactinfo_15228=殺死倭寇大頭目，並且保護船上的貨物
 interactinfo_15229=澆滅甲板上的十處火焰，避免放火倭寇成功放火，並且擊沉三十艘來犯的倭寇船隻。
 interactinfo_15231=砍斷鐵鏈，消滅倭寇小頭目「薛坤」
-interactinfo_15232=擊殺倭寇，保護貨物
 interactinfo_15233=去<a href="findnpc_new,city01,Event_cfgj_001" style="HLStype1">附近找找</a>能否跟上護送銀票的弟子
 interactinfo_15234=找到<a href="findnpc_new,city01,newmp_cfrc_guj_009" style="HLStype1">受傷長風弟子</a>，並瞭解下情況
 interactinfo_15235=將情況告知<a href="findnpc_new,city01,newmp_cfrc_guj_009" style="HLStype1">受傷長風弟子</a>，並幫其護送銀票
@@ -696,5 +692,9 @@ collectinfo_15066=「兵馬未動，糧草先行」，備足鏢局每日所需�
 collectinfo_15067=「兵馬未動，糧草先行」，備足鏢局每日所需食物乃是重中之重。<br>幫助吳三掌櫃採購狗魚（通過漁夫釣魚或大明交易行購買獲得）
 collectinfo_15068=「兵馬未動，糧草先行」，備足鏢局每日所需食物乃是重中之重。<br>幫助吳三掌櫃採購青魚（通過漁夫釣魚或大明交易行購買獲得）
 collectinfo_15069=「兵馬未動，糧草先行」，備足鏢局每日所需食物乃是重中之重。<br>幫助吳三掌櫃採購團頭魴（通過漁夫釣魚或大明交易行購買獲得）
-interactinfo_15038=與隊友鏢車護送至殺人莊客棧<br>（3種職業缺一不可，建議滿隊進入，以便順利通關）
+DialogID_15116=<font face="Default" color="#ffffff" >當時只顧著攻克沒有發現什麼可疑的地方！</font>
+interactinfo_15017=保護押送的貨物，攻克趕來鬧事的劫匪，平安度過此夜！
+interactinfo_15038=與隊友鏢車護送至異人莊客棧<br>（3種職業缺一不可，建議滿隊進入，以便順利通關）
+interactinfo_15170=攻克飛天大盜
+interactinfo_15232=攻克倭寇，保護貨物
 

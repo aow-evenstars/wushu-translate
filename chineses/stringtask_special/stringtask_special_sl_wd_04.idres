@@ -7,7 +7,6 @@ dialogid_41729=<s>Thật đa tạ, nếu lại giúp ta thu thập chút Chỉ H
 okmenu_41729=Không sao, đạo trưởng đợi chút
 collectinfo_41730=Thu thập <a href="findnpc_new,school07,Gather00040j" style="HLStype1">Kim Ngân Hoa</a>
 collectinfo_41731=Thu thập <a href="findnpc_new,school07,Gather00039j" style="HLStype1">Chỉ Huyết Thảo</a>
-hunterinfo_41731=Diệt <a href="findnpc_new,school07,monm075200" style="HLStype1">Sơn Tặc ngang ngược</a>
 interactinfo_41730=Trò chuyện cùng <a href="findnpc_new,school07,WorldNpc04453" style="HLStype1">Lư Hồng Đào</a>
 hunterinfo_41732=Dạy dỗ 1 số <a href="findnpc_new,school07,monm075200" style="HLStype1">Sơn Tặc ngang ngược</a>
 dialogid_41730=<s>Đa tạ, phiền ngươi thay ta nói với Tương Bằng Huyên trên lầu cổng thành, bảo hắn cẩn thận Sơn Tặc ngang ngược bên ngoài.
@@ -61,14 +60,12 @@ dialogid_41742=<s>Ha ha, thế nào, rượu ta ủ không tệ chứ…có đi�
 okmenu_41742=Rượu ngon!
 interactinfo_41743=Tìm <a href="findnpc_new,school07,WorldNpc04589" style="HLStype1">Cơ Hiên Viên</a>
 interactinfo_41744=Trở về tìm <a href="findnpc_new,school07,WorldNpc04802" style="HLStype1">Cừu Nhất Đao</a>
-collectinfo_41734=Diệt <a href="findnpc_new,school07,monm072400" style="HLStype1">Khách Giang Hồ Kỳ Dị</a>, đoạt lại ngọc bội
 dialogid_41743=<s>Chuyện này không thể thương lượng, ngươi nói với hắn cho ta! Còn không trả tiền ta sẽ tiết lộ chuyện xấu của hắn!
 okmenu_41743=Đây…được thôi
 dialogid_41744=<s>Ôi! Ngươi có thể giúp ta không, đoạt lại ngọc bội từ Khách Giang Hồ Kỳ Dị! Chúng không phải người tốt!
 okmenu_41744=Không vấn đề, ngươi đợi chút
 useiteminfo_41731=Đưa <a href="TASK_ITEM,useitem_43j" style="HLStype1">Thanh Tâm Lộ</a> cho <a href="findnpc_new,school07,WorldNpc04587" style="HLStype1">Hắc Y Nhân</a> ngửi 1 chút
 interactinfo_41745=Trò chuyện cùng <a href="findnpc_new,school07,WorldNpc04587" style="HLStype1">Hắc Y Nhân</a>
-hunterinfo_41741=Diệt <a href="findnpc_new,school07,monm076500" style="HLStype1">Âm Tà Nhân</a>
 dialogid_41745=<s>Đám Âm Tà Nhân này thật đáng ghét, ngươi có thể chỉnh đốn chúng không? Hu…
 okmenu_41745=Được, ngươi đợi chút
 interactinfo_41746=Uống <a href="findnpc_new,school07,Gather00041j" style="HLStype1">Rót Đầy Ly</a>
@@ -76,7 +73,6 @@ dialogid_41747=<s>Nhờ Lao huynh đài thông báo cho chủ nhân Dung Minh Hi
 okmenu_41747=Được
 hunterinfo_41742=Dạy dỗ <a href="findnpc_new,school07,monm072500" style="HLStype1">Đạo Tặc Long Nam Thôn</a>
 interactinfo_41748=Hỏi <a href="findnpc_new,school07,WorldNpc04608" style="HLStype1">Đoàn Can Ích</a> gần đó có kẻ xấu không
-hunterinfo_41743=Diệt <a href="findnpc_new,school07,monm076500" style="HLStype1">Âm Tà Nhân</a>
 dialogid_41748=<s>Ôi trời, 1 đám Âm Tà Nhân làm xằng làm bậy trên đường, thật đáng ghét, ngươi nhanh đi xem thử.
 okmenu_41748=Được
 story_menu_41729=Có lẽ ta có thể giúp
@@ -96,4 +92,8 @@ interactinfo_41747=Trò chuyện cùng <a href="findnpc_new,school07,WorldNpc048
 storyinfo_41729=Nghe <a href="findnpc_new,school07,WorldNpc04616" style="HLStype1">Huệ Vĩ Trạch</a> nói
 hunterinfo_41744=Đánh bại <a href="findnpc_new,school07,monm072700" style="HLStype1">Đạo Cô lừa người</a>
 collectinfo_41732=Tìm <a href="findnpc_new,school07,Gather00038j" style="HLStype1">Rượu</a> về
+collectinfo_41734=Diệt <a href="findnpc_new,school07,monm072400" style="HLStype1">Khách Giang Hồ Kỳ Dị</a>, đoạt lại ngọc bội
+hunterinfo_41731=Diệt <a href="findnpc_new,school07,monm075200" style="HLStype1">Sơn Tặc ngang ngược</a>
+hunterinfo_41741=Diệt <a href="findnpc_new,school07,monm076500" style="HLStype1">Âm Tà Nhân</a>
+hunterinfo_41743=Diệt <a href="findnpc_new,school07,monm076500" style="HLStype1">Âm Tà Nhân</a>
 

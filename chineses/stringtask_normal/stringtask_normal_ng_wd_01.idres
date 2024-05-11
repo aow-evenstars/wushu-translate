@@ -504,7 +504,6 @@ title_55583=Bệ Rèn Toàn Dân
 title_55584=Sinh Tử Phù-Phù Nô
 title_55585=Quà Toàn Dân Thánh Hỏa Minh Tôn
 title_55592=Quà của Khổng Sư
-menu_55529_1=<font face="Default" color="#ffffff" >Đan Thư Thiết Khoán? Cửu Đại Môn Phái sao lại có? Đệ tử chưa từng nghe chưởng môn nhắc đến Đan Thư Thiết Khoán.</font>
 CanAcceptMenu_55593=<font face="Default" color="#ffffff" >Tuệ Trí Đại Sư? Nghe nói quý tự đang chuẩn bị cho Lễ Pháp Bảo, vãn bối cho rằng lúc này nhân lực không đủ, nếu muốn dùng chỗ của vãn bối thì đại sư cứ việc nói!</font>
 CanAcceptMenu_55594=Nghe nói Long Văn Dị Bảo lại xuất hiện ở giang hồ?
 CanAcceptMenu_55595=Nghe nói Long Văn Dị Bảo lại xuất hiện ở giang hồ?
@@ -577,12 +576,12 @@ target_55599=Vượt ải Đại Mạc Quỷ Thành.
 target_55600=Đến <a href="findnpc_new,city02,hd_dw_001" style="HLStype1">Lâm Lương</a> nhận quà
 target_55601=Nói chuyện với Trần Huyền xong tham ngộ "Huyền Tinh Ngọc Bích"
 title_55593=Ngũ Cốc Hóa Duyên
-title_55594= [Long Văn Dị Bảo]- Mộ Sắc Chi Thôn
-title_55595= [Long Văn Dị Bảo]-Thanh Vân Bảo
-title_55596= [Long Văn Dị Bảo]-Khổng Tước Sơn Trang
-title_55597= [Long Văn Dị Bảo]-Nhạn Môn Quan (Phản Quân)
-title_55598= [Long Văn Dị Bảo]-Vô Tranh Bí Cảnh
-title_55599= [Long Văn Dị Bảo]-Đại Mạc Quỷ Thành
+title_55594=[Long Văn Dị Bảo]- Mộ Sắc Chi Thôn
+title_55595=[Long Văn Dị Bảo]-Thanh Vân Bảo
+title_55596=[Long Văn Dị Bảo]-Khổng Tước Sơn Trang
+title_55597=[Long Văn Dị Bảo]-Nhạn Môn Quan (Phản Quân)
+title_55598=[Long Văn Dị Bảo]-Vô Tranh Bí Cảnh
+title_55599=[Long Văn Dị Bảo]-Đại Mạc Quỷ Thành
 title_55600=Quà Toàn Dân
 title_55601=Huyền Tinh Ngọc Bích
 context_55577=Thư của Yến Song Hành đã gửi đi hết, theo lời hẹn lúc này cần đến núi Thái Sơn gặp ông ấy, không biết ông ấy có dự định gì. Sáu thế lực đều hiền lành, chẳng lẽ ông ấy muốn một địch sáu?
@@ -611,4 +610,30 @@ title_55588=[Sự kiện] Long Văn tái hiện-Khổng Tước Sơn Trang
 title_55589=[Sự kiện] Long Văn tái hiện-Biên Bức Động
 title_55590=[Sự kiện] Long Văn tái hiện-Vô Tranh Bí Cảnh
 title_55591=[Sự kiện] Long Văn tái hiện-Đại Mạc Quỷ Thành
+CanAcceptMenu_55602=<font face="Default" color="#ffffff" >Quà Quốc Khánh (Có thể nhận)</font>
+CanAcceptMenu_55603=<font face="Default" color="#ffffff" >Quà Mừng Lễ Toàn Dân (Có thể nhận)</font>
+CompleteMenu_55602=<font face="Default" color="#ffffff" >Quà Quốc Khánh (Có thể trả)</font>
+CompleteMenu_55603=<font face="Default" color="#ffffff" >Quà Mừng Lễ Toàn Dân (có thể </font><font face="Default" color="#ffffff" >trả</font><font face="Default" color="#ffffff" >)</font>
+accept_55602_1=<font face="Default" color="#ffffff" >Ngày khắp nơi ăn mừng, thiếu hiệp chỉ cần thỏa mãn thử thách nhỏ của ta là được thưởng!</font>
+accept_55603_1=<font face="Default" color="#ffffff" >Quà Mừng Lễ Toàn Dân (Nhận)</font>
+complete_55602=<font face="Default" color="#ffffff" >Quà Quốc Khánh (</font><font face="Default" color="#ffffff" >đã hoàn thành</font><font face="Default" color="#ffffff" >)</font>
+complete_55603=<font face="Default" color="#ffffff" >Quà Mừng Lễ Toàn Dân </font><font face="Default" color="#ffffff" >(đã hoàn thành)</font>
+context_55602=Ngày khắp nơi ăn mừng, thiếu hiệp chỉ cần thỏa mãn thử thách nhỏ của "Đại sứ sự kiện" Lâm Lương là được thưởng!
+context_55603=Quà Mừng Lễ Toàn Dân, các vị hiệp sĩ có thể đến chỗ Lâm Lương nhận quà đón mừng!
+menu_55602_1=<font face="Default" color="#ffffff" >Vậy thì, tại hạ thử xem!</font>
+submit_55602=<font face="Default" color="#ffffff" >Quà Quốc Khánh (đã hoàn thành)</font>
+target_55602=Hoàn thành thử thách "Đại sứ sự kiện" Lâm Lương
+target_55603=Đến chỗ Lâm Lương nhận quà mừng lễ
+title_55602=Quà Quốc Khánh
+title_55603=Quà Mừng Lễ Toàn Dân
+CanAcceptMenu_55604=<font face="Default" color="#ffffff" >Thần Binh đúc thành kinh thiên hạ (Có thể nhận)</font>
+CompleteMenu_55604=<font face="Default" color="#ffffff" >Thần Binh đúc thành kinh thiên hạ (Có thể </font><font face="Default" color="#ffffff" >trả</font><font face="Default" color="#ffffff" >)</font>
+accept_55604_1=<font face="Default" color="#ffffff" >Ngươi cũng may mắn, vinh hạnh cùng ta chứng kiến danh kiếm xuất hiện!</font>
+complete_55604=<font face="Default" color="#ffffff" >Không cần số tiền lớn cũng không cần cảm ơn ta, sau này nếu có nguyên liệu thượng hạng phải đến gặp ta ngay!</font>
+context_55604=Thần Binh đúc thành kinh thiên hạ, giao tín vật cho Âu Dã Tử nhận thần binh
+menu_55604_1=<font face="Default" color="#ffffff" >Cái này…cái này...</font>
+submit_55604=<font face="Default" color="#ffffff" >Thần Binh đúc thành kinh thiên hạ (</font><font face="Default" color="#ffffff" >Đã hoàn thành</font><font face="Default" color="#ffffff" >)</font>
+target_55604=Thần Binh đúc thành kinh thiên hạ
+title_55604=Thần Binh đúc thành kinh thiên hạ
+menu_55529_1=<font face="Default" color="#ffffff" >Đan Thư Thiết Khoán? Sao Các Đại Tông Phái lại đều có? Đệ tử chưa hề nghe chưởng môn nhắc đến Đan Thư Thiết Khoán.</font>
 

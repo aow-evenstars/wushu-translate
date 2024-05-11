@@ -80,7 +80,6 @@ hunterinfo_52610=殺死<a href="findnpc_new,school04,monm040503" style="HLStype1
 hunterinfo_52611=無意中瞧到<a href="findnpc_new,school04,monrm040065" style="HLStype1">司徒齊天的爪牙</a>在欺侮一個女戲子，路見不平拔刀相助
 hunterinfo_52612=纏住並擊敗<a href="findnpc_new,school04,monrm040108" style="HLStype1">司徒齊天</a>
 hunterinfo_52613=擊退聞訊前來的<a href="findnpc_new,school04,monrm040107" style="HLStype1">極樂谷弟子</a>
-hunterinfo_52615=那邊有個慕容世家門人鬼鬼祟祟，定是方纔的偷聽者，擊殺<a href="findnpc_new,city02,monrc013911" style="HLStype1">慕容世家門人</a>
 interactinfo_52600=與<a href="findnpc_new,school04,WorldNpc03852" style="HLStype1">馬亮</a>交談
 interactinfo_52601=與<a href="findnpc_new,school04,WorldNpc03859" style="HLStype1">趙軍</a>交談
 interactinfo_52602=與<a href="findnpc_new,school04,WorldNpc03821" style="HLStype1">衛武</a>交談
@@ -143,7 +142,6 @@ okmenu_52618=卜卦道士讓我來問你是否注意到了最近星象大亂的�
 okmenu_52619=卜卦道士讓我來問你是否注意到了最近星象大亂的事
 okmenu_52620=園主既然不願相告，那在下便告辭了。
 okmenu_52621=<font face="Default" color="#8fd6ef" >（這人目露凶光，是個狠角色，我還是不要輕易招惹的好）</font><font face="Default" color="#ffffff" >息怒息怒，何必為些小事大動干戈。</font>
-okmenu_52622=君子報仇十年不晚，從長計議有何不可！卻不知你們有何怨仇？
 okmenu_52623=姑娘你想的或許天真了，那司徒齊天也算是隻手遮天的人物，他想折磨的人，怕是難逃他的手掌心……
 okmenu_52624=<font face="Default" color="#8fd6ef" >（這毒使弟子看來睡意朦朧，不如趁她不備，冒個險，從她懷中偷點毒藥）</font>
 okmenu_52626=<font face="Default" color="#ffffff" >龍女請息怒……</font>
@@ -278,7 +276,6 @@ storymenu_52606_1=<font face="Default" color="#ffffff" >玄衣龍女說，只要
 storymenu_52606_2=<font face="Default" color="#ffffff" >難道是玄衣龍女將這兩味藥融合，用以治療綰綰姑娘？</font>
 storymenu_52607_2=<font face="Default" color="#ffffff" >綰綰姑娘，你這般想，實在是太偏激了。</font>
 storymenu_52607_3=<font face="Default" color="#ffffff" >......你要走了？</font>
-DialogID_52639=<font face="Default" color="#ffffff" >那日，我本欲前往驛站雇輛馬車回蘇州，中途遇見俞姑娘遭幾名黑衣人圍攻，便出手救了她。那些殺手所使招式十分雜亂，似乎囊括了多家武學，以我之見，恐與慕容世家有關。俞姑娘現今正在邊廂房療養，你若無事，可前去見她了。</font>
 DialogID_52653=<font face="Default" color="#ffffff" >慕容百世居然此撒了毒霧彈……水谷主和隱風的功力受限，我用藏寶圖……交換了大家的安全。你不必惋惜，若不是這所謂的傳家寶，我們俞家就不會家破人亡，也許放棄它反而更好。只是少玄哥哥……無辜的少玄哥哥卻替我擋下了慕容百世擊出的致命一擊……嗚嗚嗚嗚……</font>
 hunterinfo_52616=擊退前來捉拿俞姑娘的<a href="findnpc_new,school04,monrm040107" style="HLStype1">極樂谷弟子</a>
 interactinfo_52628=俞綰綰走時神色不對，還是去<a href="findnpc_new,school04,EventNpc84628" style="HLStype1">極樂谷門口</a>勸勸她罷
@@ -319,4 +316,7 @@ storyinfo_52609=向<a href="findnpc_new,school04,JlgNpc201" style="HLStype1">陸
 useiteminfo_52602=給<a href="findnpc_new,city02,JlgNpc209" style="HLStype1">俞綰綰</a>使用從薛穆仁處得來的<a href="TASK_ITEM,useitem_sl_jl_001" style="HLStype1">療傷靈藥</a>
 useiteminfo_52603=給<a href="findnpc_new,city02,JlgNpc209" style="HLStype1">俞綰綰</a>使用<a href="TASK_ITEM,useitem_sl_jl_002" style="HLStype1">清目丹</a>
 useiteminfo_52605=給<a href="findnpc_new,city02,JlgNpc209" style="HLStype1">俞綰綰</a>使用<a href="TASK_ITEM,useitem_sl_jl_002a" style="HLStype1">清目丹</a>
+DialogID_52639=<font face="Default" color="#ffffff" >那日，我本欲前往驛站雇輛馬車回蘇州，中途遇見俞姑娘遭幾名黑衣人圍攻，便出手救了她。那些隱衛所使招式十分雜亂，似乎囊括了多家武學，以我之見，恐與慕容世家有關。俞姑娘現今正在邊廂房療養，你若無事，可前去見她了。</font>
+hunterinfo_52615=那邊有個慕容世家門人鬼鬼祟祟，定是方纔的偷聽者，攻克<a href="findnpc_new,city02,monrc013911" style="HLStype1">慕容世家門人</a>
+okmenu_52622=君子報復十年不晚，從長計議有何不可！卻不知你們有何怨仇？
 

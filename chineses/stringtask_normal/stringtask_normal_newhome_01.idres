@@ -1,9 +1,5 @@
 ﻿
-context_72001=Trong Gia Viên giấu một số vật phẩm quý, khó tránh đạo tặc các phương dòm ngó, để bảo vệ an toàn Gia Viên, đến Gia Viên Viện tiêu diệt bọn đạo tặc xâm nhập Gia Viên.<font color="#EE0000"> (Nếu tìm hảo hữu đến giúp, thì hảo hảo cũng cần nhận nhiệm vụ, và cùng tổ đội, bằng không thì không thể hoàn thành nhiệm vụ, mỗi ngày có thể hoàn thành 3 lần.)</font>
-context_72003=Xung quanh Gia Viên trộm cướp hung hăng, chúng lén vào, khiến người ta khó đề phòng, đến Gia Viên Viện tìm bọn lén lúc đó nói chuyện, làm rõ thân phận trộm cướp của chúng và tiêu diệt, đề phòng chúng xâm nhập Gia Viên.
 context_72004=Xung quanh Gia Viên xuất hiện một số Hành Khất và người bị thương lưu lạc, đưa Hành Khất một ít thức ăn, và giúp những người bị thương.
-target_72001=Tiêu diệt Đạo Tặc xâm nhập vào Gia Viên Viện, sau khi nhận nhiệm vụ có thể tại Trò Truyện-Hảo Hữu/Chí Hữu mời hảo hữu đến diệt trộm.<font color="#EE0000"> (Nếu Hảo Hữu đến giúp, Hảo Hữu cũng cần nhận nhiệm vụ, cùng nhau tổi đội, bằng không thì sẽ không thể Hoàn thành nhiệm vụ, mỗi ngày có thể hoàn thành 3 lần.)</font>
-target_72003=Trò chuyện với bọn người lén lút, làm rõ thân phận trộm cướp của chúng, tiêu diệt chúng.
 target_72004=Đưa thức ăn cho những Hành Khất ở vườn Gia Viên, dùng kỹ năng cứu giúp những người bị thương.
 title_72001=Đạo Tặc tập kích
 title_72003=Tên trộm xuất hiện
@@ -11,4 +7,65 @@ title_72004=Cứu kẻ lâm nguy
 context_72002=Không biết lũ thỏ con từ đâu chạy vào trong gia viên làm loạn khắp nơi, đến đuổi chúng đi tránh phá hỏng hoa cỏ trong gia viên.
 target_72002=Bắt Tiểu Bạch Thố và Tiểu Kim Thố quấy phá gia viên. (Lần lượt dùng kỹ năng khác nhau để bắt)
 title_72002=Xua Đuổi Thỏ Con
+CanAcceptMenu_72005=<font face="Default" color="#ffffff" >Nhìn cách ăn mặc của các hạ, hẳn là Mục Hương Mục tiểu thư vang danh giang hồ gần đây?</font>
+CanAcceptMenu_72007=<font face="Default" color="#ffffff" >Nhìn cách ăn mặc của các hạ, hẳn là Mục Võ </font> <font face="Default" color="#ffffff" >Mục thiếu hiệp vang danh giang hồ gần đây</font><font face="Default" color="#ffffff" >?</font>
+CompleteMenu_72005=<font face="Default" color="#ffffff" >Mục tiểu thư đợi đã lâu!</font>
+CompleteMenu_72006=<font face="Default" color="#ffffff" >Không hổ là Mục thiếu hiệp nổi danh giang hồ! Đã nhường rồi!</font>
+CompleteMenu_72007=<font face="Default" color="#ffffff" >Không hổ là Mục thiếu hiệp nổi danh giang hồ! Đã nhường rồi!</font>
+accept_72005_1=<font face="Default" color="#ffffff" >Các hạ thật biết nhìn! Giang hồ nói quá thôi, nghe nói trong phủ có sưu tầm 4 loại kỳ hoa dị thảo. Không biết tiểu nữ có may mắn được xem không?</font>
+accept_72006_1=<font face="Default" color="#ffffff" >Các hạ thật biết nhìn! Giang hồ nói quá thôi, nghe nói các hạ</font> <font face="Default" color="#ffffff" >giỏi đánh cờ</font><font face="Default" color="#ffffff" >. Tại hạ đặc biệt đến thăm, mong được chỉ dạy!</font>
+accept_72007_1=<font face="Default" color="#ffffff" >Các hạ thật biết nhìn! Giang hồ nói quá thôi, nghe nói các hạ</font> <font face="Default" color="#ffffff" >là chuyên gia võ học</font><font face="Default" color="#ffffff" >.</font><font face="Default" color="#ffffff" >Tại hạ đặc biệt đến thăm, mong các hạ chỉ dạy nhiều hơn!</font>
+complete_72005=<font face="Default" color="#ffffff" >Quả là vật quý hiếm! Không biết các hạ có bằng lòng tặng những hoa thảo này cho ta? Tiểu nữ cũng có quà tặng lại!</font>
+complete_72006=<font face="Default" color="#ffffff" >Các hạ</font><font face="Default" color="#ffffff" >đánh cờ tuyệt vời</font><font face="Default" color="#ffffff" >! Tại hạ bái phục, lần này làm phiền các hạ, có món quà nhỏ không đáng kể gì!</font>
+complete_72007=<font face="Default" color="#ffffff" >Chiêu thức của các hạ quả tinh diệu, nội lực thâm sâu khó lường! Tại hạ bái phục, lần này làm phiền các hạ, có món quà nhỏ không đáng kể gì!</font>
+context_72005=Gần đây trong giang hồ xuất hiện một nữ tử kì lạ giỏi phân biệt hoa cỏ, Mục tiểu thư. Người ngoài cửa rất giống Mục tiểu thư trong lời đồn, không biết đến có việc gì?
+context_72006=Gần đây trong giang hồ xuất hiện một người kì lạ có hiểu biết rộng, kỹ thuật chơi cờ tuyệt vời, Mục Dịch. Người ngoài cửa với Mục thiếu hiệp trong lời đồn rất giống nhau, không biết đến có việc gì?
+context_72007=Gần đây trong giang hồ xuất hiện một người kì lạ tinh thông võ học của các môn phái, Mục Võ. Người ngoài cửa với Mục Võ trong lời đồn rất giống nhau, không biết đến có việc gì?
+context_72008=Giải mã câu đố Điểm Hỏa Đài, có thể tìm Hoắc Đài nhận một phần thưởng!
+menu_72005_1=<font face="Default" color="#ffffff" >Ha ha, Mục tiểu thư từ xa đến. Có lí do không thể gặp mặt, vui lòng đợi một chút!</font>
+menu_72006_1=<font face="Default" color="#ffffff" >Chưa đến mức dạy bảo, mời!</font>
+menu_72007_1=<font face="Default" color="#ffffff" >Chưa đến mức dạy bảo, mời!</font>
+submit_72005=<font face="Default" color="#ffffff" >Những hoa thảo này tuy là vật hiếm có, nhưng sao bằng quà của Mục tiểu thư? Ha ha</font>
+submit_72006=<font face="Default" color="#ffffff" >Mục thiếu hiệp khách sáo rồi!</font>
+submit_72007=<font face="Default" color="#ffffff" >Mục thiếu hiệp khách sáo rồi!</font>
+target_72005=Trò chuyện cùng nữ tử ngoài cửa, hỏi mục đích đến thăm là gì?
+target_72006=Trò chuyện với người ngoài cửa, hỏi mục đích đến thăm là gì?
+target_72007=Trò chuyện với người ngoài cửa, hỏi mục đích đến thăm là gì?
+target_72008=Giải mã câu đố Điểm Hỏa Đài, có thể tìm Hoắc Đài nhận một phần thưởng!
+title_72005=Mục Hương Tiểu Thư
+title_72006=Mục Dịch
+title_72007=Mục Võ
+title_72008=Kỳ Môn Độn Giáp
+context_72001=Trong Gia Viên giấu một số vật phẩm quý, khó tránh đạo tặc các phương dòm ngó, để bảo vệ an toàn Gia Viên, đến Gia Viên Viện tiêu diệt bọn đạo tặc xâm nhập Gia Viên.<font color="#EE0000"> (Nếu tìm hảo hữu đến giúp, thì hảo hảo cũng cần nhận nhiệm vụ, và cùng tổ đội, bằng không thì không thể hoàn thành nhiệm vụ, mỗi ngày có thể hoàn thành 3 lần.)</font>
+context_72003=Xung quanh Gia Viên trộm cướp hung hăng, chúng lén vào, khiến người ta khó đề phòng, đến Gia Viên Viện tìm bọn lén lúc đó nói chuyện, làm rõ thân phận trộm cướp của chúng và tiêu diệt, đề phòng chúng xâm nhập Gia Viên.
+target_72001=Tiêu diệt Đạo Tặc xâm nhập vào Gia Viên Viện, sau khi nhận nhiệm vụ có thể tại Trò Truyện-Hảo Hữu/Chí Hữu mời hảo hữu đến diệt trộm.<font color="#EE0000"> (Nếu Hảo Hữu đến giúp, Hảo Hữu cũng cần nhận nhiệm vụ, cùng nhau tổi đội, bằng không thì sẽ không thể Hoàn thành nhiệm vụ, mỗi ngày có thể hoàn thành 3 lần.)</font>
+target_72003=Trò chuyện với bọn người lén lút, làm rõ thân phận trộm cướp của chúng, tiêu diệt chúng.
+CanAcceptMenu_72009=<font face="Default" color="#ffffff" >Nhìn cách ăn mặc của các hạ, hẳn là Mục Hương Mục tiểu thư vang danh giang hồ gần đây?</font>
+CanAcceptMenu_72010=<font face="Default" color="#ffffff" >Nhìn cách ăn mặc của các hạ, hẳn là Mục </font><font face="Default" color="#ffffff" >Dịch</font><font face="Default" color="#ffffff" > Mục thiếu hiệp vang danh giang hồ gần đây?</font>
+CanAcceptMenu_72011=<font face="Default" color="#ffffff" >Nhìn cách ăn mặc của các hạ, hẳn là Mục Dịch Mục thiếu hiệp vang danh giang hồ gần đây?</font>
+CompleteMenu_72009=<font face="Default" color="#ffffff" >Mục tiểu thư đợi đã lâu!</font>
+CompleteMenu_72010=<font face="Default" color="#ffffff" >Không hổ là Mục thiếu hiệp nổi danh giang hồ! Đã nhường rồi!</font>
+CompleteMenu_72011=<font face="Default" color="#ffffff" >Không hổ là Mục thiếu hiệp nổi danh giang hồ! Đã nhường rồi!</font>
+accept_72009_1=<font face="Default" color="#ffffff" >Các hạ thật biết nhìn! Giang hồ nói quá thôi, nghe nói trong phủ có sưu tầm 4 loại kỳ hoa dị thảo. Không biết tiểu nữ có may mắn được xem không?</font>
+accept_72010_1=<font face="Default" color="#ffffff" >Các hạ thật biết nhìn người! Giang hồ nói quá thôi, nghe nói các hạ giỏi đánh cờ. Tại hạ đặc biệt đến thăm, mong được chỉ dạy!</font>
+accept_72011_1=<font face="Default" color="#ffffff" >Các hạ thật biết nhìn người! Giang hồ nói quá thôi, nghe nói các hạ là chuyên gia võ học. Tại hạ đặc biệt đến thăm, mong các hạ chỉ dạy nhiều hơn!</font>
+complete_72009=<font face="Default" color="#ffffff" >Quả là vật quý hiếm! Không biết các hạ có bằng lòng tặng những hoa thảo này cho ta? Tiểu nữ cũng có quà tặng lại!</font>
+complete_72010=<font face="Default" color="#ffffff" >Các hạ đánh cờ tuyệt vời! Tại hạ bái phục, lần này làm phiền các hạ, có món quà nhỏ không đáng kể gì!</font>
+complete_72011=<font face="Default" color="#ffffff" >Chiêu thức của các hạ quả tinh diệu, nội lực thâm sâu khó lường! Tại hạ bái phục, lần này làm phiền các hạ, có món quà nhỏ không đáng kể gì!</font>
+context_72009=Gần đây trong giang hồ xuất hiện một nữ tử kì lạ giỏi phân biệt hoa cỏ, Mục tiểu thư. Người ngoài cửa rất giống Mục tiểu thư trong lời đồn, không biết đến có việc gì?
+context_72010=Gần đây trong giang hồ xuất hiện một người kì lạ có hiểu biết rộng, kỹ thuật chơi cờ tuyệt vời, Mục Dịch. Người ngoài cửa với Mục thiếu hiệp trong lời đồn rất giống nhau, không biết đến có việc gì?
+context_72011=Gần đây trong giang hồ xuất hiện một người kì lạ tinh thông võ học của các môn phái, Mục Võ. Người ngoài cửa với Mục Võ trong lời đồn rất giống nhau, không biết đến có việc gì?
+menu_72009_1=<font face="Default" color="#ffffff" >Ha ha, Mục tiểu thư từ xa đến. Có lí do không thể gặp mặt, vui lòng đợi một chút!</font>
+menu_72010_1=<font face="Default" color="#ffffff" >Chưa đến mức dạy bảo, mời!</font>
+menu_72011_1=<font face="Default" color="#ffffff" >Chưa đến mức dạy bảo, mời!</font>
+submit_72009=<font face="Default" color="#ffffff" >Những hoa thảo này tuy là vật hiếm có, nhưng sao bằng quà của Mục tiểu thư? Ha ha</font>
+submit_72010=<font face="Default" color="#ffffff" >Mục thiếu hiệp khách sáo rồi!</font>
+submit_72011=<font face="Default" color="#ffffff" >Mục thiếu hiệp khách sáo rồi!</font>
+target_72009=Trò chuyện cùng nữ tử ngoài cửa, hỏi mục đích đến thăm là gì?
+target_72010=Trò chuyện với người ngoài cửa, hỏi mục đích đến thăm là gì?
+target_72011=Trò chuyện với người ngoài cửa, hỏi mục đích đến thăm là gì?
+title_72009=Mục Hương Tiểu Thư
+title_72010=Mục Dịch
+title_72011=Mục Võ
+CanAcceptMenu_72006=<font face="Default" color="#ffffff" >Nhìn cách ăn mặc của các hạ, hẳn là Mục Vũ Dịch thiếu hiệp vang danh giang hồ gần đây?</font>
 

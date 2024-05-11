@@ -253,7 +253,6 @@ context_73192=武學之路切忌淺嘗輒止，繼續向師門前輩求教武功
 context_73193=武學之道，需要實戰才能成長，與同門弟子繼續切磋武藝
 context_73194=路漫漫其修遠兮，吾將上下而求索，繼續求教同門前輩
 context_73195=武學初成，需要更多的實戰才能成長，前往戰場體驗一次酣暢淋漓的戰鬥。
-context_73196=拜入門派已有些時日，是時候外出歷練一番了，打聽打聽有關海捕的信息，學會如何申請成為捕快以及如何對自己的仇人發佈海捕文書。
 context_73197=寶物能提高人物屬性，裝備寶物對你大有益處。
 context_73198=對師叔剛剛提及的武林禁地有所興趣，欲對其進行進一步的瞭解。
 context_73199=頓起思鄉之念，最近江湖風波又起，不知是否殃及家鄉，那些故老鄉親是否安好！
@@ -491,4 +490,290 @@ menu_73155_1=<font face="Default" color="#ffffff" >好的</font>
 submit_73155=<font face="Default" color="#ffffff" >謝謝</font>
 target_73155=完成一次校場演習
 title_73155=校場演習
+context_73196=拜入門派已有些時日，是時候外出歷練一番了，打聽打聽有關海捕的信息，學會如何申請成為捕快以及如何對自己的敵人發佈海捕文書。
+CanAcceptMenu_72731=<font face="Default" color="#ffffff" >演武引導</font>
+CanAcceptMenu_72732=<font face="Default" color="#ffffff" >招式教學</font>
+CanAcceptMenu_72733=<font face="Default" color="#ffffff" >防禦教學</font>
+CanAcceptMenu_72734=<font face="Default" color="#ffffff" >破防教學</font>
+CanAcceptMenu_72735=<font face="Default" color="#ffffff" >怒氣教學</font>
+CanAcceptMenu_72736=<font face="Default" color="#ffffff" >學藝有成</font>
+CanAcceptMenu_72737=<font face="Default" color="#ffffff" >風水寶地修煉引導</font>
+CanAcceptMenu_72738=<font face="Default" color="#ffffff" >風水寶地修煉引導</font>
+CanAcceptMenu_72739=<font face="Default" color="#ffffff" >團練引導</font>
+CanAcceptMenu_72740=<font face="Default" color="#ffffff" >學無止境</font>
+CanAcceptMenu_72741=<font face="Default" color="#ffffff" >前輩，弟子前來請教武學入門之道</font>
+CanAcceptMenu_72742=<font face="Default" color="#ffffff" >前輩，弟子還是覺得所學不足</font>
+CanAcceptMenu_72743=<font face="Default" color="#ffffff" >前輩，還有什麼需要我學的嗎?</font>
+CanAcceptMenu_72744=<font face="Default" color="#ffffff" >前輩，弟子武學已經略有小成，準備去江湖上闖蕩闖蕩</font>
+CanAcceptMenu_72745=<font face="Default" color="#ffffff" >多多益善</font>
+CanAcceptMenu_72746=<font face="Default" color="#ffffff" >弟子前來聆聽習武入門之道</font>
+CanAcceptMenu_72747=<font face="Default" color="#ffffff" >前輩，剛修習這幾招應該有銜接之式吧？</font>
+CanAcceptMenu_72748=<font face="Default" color="#ffffff" >接下來可以學習哪些招式呢？</font>
+CanAcceptMenu_72749=<font face="Default" color="#ffffff" >弟子方才習得了好多招式，算是窺得武學門徑了麼？</font>
+CanAcceptMenu_72750=<font face="Default" color="#ffffff" >弟子前來請教如何參加戰場。</font>
+CanAcceptMenu_72751=<font face="Default" color="#ffffff" >瞭解海捕</font>
+CanAcceptMenu_72752=<font face="Default" color="#ffffff" >寶物引導</font>
+CanAcceptMenu_72753=<font face="Default" color="#ffffff" >師叔，有關您剛才說到的武林禁地是什麼？</font>
+CanAcceptMenu_72754=<font face="Default" color="#ffffff" >江湖風波</font>
+CanAcceptMenu_72755=<font face="Default" color="#ffffff" >前輩找我有什麼事嗎？</font>
+CanAcceptMenu_72756=<font face="Default" color="#ffffff" >前輩有什麼吩咐。</font>
+CanAcceptMenu_72757=<font face="Default" color="#ffffff" >前輩，還有什麼事是我可以做的嗎？</font>
+CanAcceptMenu_72758=<font face="Default" color="#ffffff" >前輩還有什麼吩咐嗎？</font>
+CanAcceptMenu_72759=<font face="Default" color="#ffffff" >瞭解幫會</font>
+CanAcceptMenu_72760=<font face="Default" color="#ffffff" >加入幫會</font>
+CanAcceptMenu_72761=<font face="Default" color="#ffffff" >奇門置換</font>
+CompleteMenu_72730=<font face="Default" color="#ffffff" >門派內功（完成）</font>
+CompleteMenu_72731=<font face="Default" color="#ffffff" >演武引導（完成）</font>
+CompleteMenu_72732=<font face="Default" color="#ffffff" >我已休息好，還請師兄繼續指點！</font>
+CompleteMenu_72733=<font face="Default" color="#ffffff" >師兄，我已經懂得如何招架了。</font>
+CompleteMenu_72734=<font face="Default" color="#ffffff" >師兄，我已經學會如何用虛招破解對方的防禦了。</font>
+CompleteMenu_72735=<font face="Default" color="#ffffff" >師兄，這怒氣招式當真厲害！</font>
+CompleteMenu_72736=<font face="Default" color="#ffffff" >學藝有成（完成）</font>
+CompleteMenu_72737=<font face="Default" color="#ffffff" >完成任務！</font>
+CompleteMenu_72738=<font face="Default" color="#ffffff" >完成任務！</font>
+CompleteMenu_72739=<font face="Default" color="#ffffff" >團練引導（可提交）</font>
+CompleteMenu_72740=<font face="Default" color="#ffffff" >我來學習新武學</font>
+CompleteMenu_72741=<font face="Default" color="#ffffff" >前輩，典籍上的武學，我已經瞭解了八九分</font>
+CompleteMenu_72742=<font face="Default" color="#ffffff" >前輩，弟子僥倖得勝</font>
+CompleteMenu_72743=<font face="Default" color="#ffffff" >前輩，弟子僥倖得勝</font>
+CompleteMenu_72744=<font face="Default" color="#ffffff" >前輩，這典籍裡面記載的不愧是絕學，威力確實不凡</font>
+CompleteMenu_72745=<font face="Default" color="#ffffff" >我來瞭解新武學</font>
+CompleteMenu_72746=<font face="Default" color="#ffffff" >這幾套招式我已瞭然於心，若可浮現於腦海之中</font>
+CompleteMenu_72747=<font face="Default" color="#ffffff" >前輩，剛才之比試，弟子小勝一籌。</font>
+CompleteMenu_72748=<font face="Default" color="#ffffff" >弟子僥倖得勝</font>
+CompleteMenu_72749=<font face="Default" color="#ffffff" >原來真正的絕技需要以心御氣，以神感形，弟子膚淺了，日後定當安心修煉，沉浸學海！</font>
+CompleteMenu_72750=<font face="Default" color="#ffffff" >弟子已經成功參加戰場的戰鬥。</font>
+CompleteMenu_72751=<font face="Default" color="#ffffff" >神捕武功果然高強，僅僅幾招就讓我倍加吃力，在下將更加勤學苦練</font>
+CompleteMenu_72752=<font face="Default" color="#ffffff" >寶物的效果果然不一般。</font>
+CompleteMenu_72753=<font face="Default" color="#ffffff" >晚輩奉師門之命前來瞭解武林禁地！</font>
+CompleteMenu_72754=<font face="Default" color="#ffffff" >此番江湖風波又起，不知弟子家鄉近況如何！</font>
+CompleteMenu_72755=<font face="Default" color="#ffffff" >這是我奪回來的情報。</font>
+CompleteMenu_72756=<font face="Default" color="#ffffff" >師傅讓我把情報交給你。</font>
+CompleteMenu_72757=<font face="Default" color="#ffffff" >我已經完全知道該怎麼去其他門派奪書了。</font>
+CompleteMenu_72758=<font face="Default" color="#ffffff" >我已經把秘籍交給師傅了</font>
+CompleteMenu_72759=<font face="Default" color="#ffffff" >晚輩前來想瞭解如何加入幫會。</font>
+CompleteMenu_72760=<font face="Default" color="#ffffff" >任務完成。</font>
+CompleteMenu_72761=<font face="Default" color="#ffffff" >完成任務</font>
+accept_72731_1=<font face="Default" color="#ffffff" >下面我將教你如何使用演武來修練武功，你可要仔細看清楚了！</font>
+accept_72732_1=<font face="Default" color="#ffffff" >  你已掌握了本門內功的要領，你且先休息會，我稍後再教你如何熟練運用武學招式。</font>
+accept_72733_1=<font face="Default" color="#ffffff" >　　聽好了，恩師曾教導：武學之根基，防守為上，護體為先，出招為後，戰時方可游刃有餘，發揮身體極致。嗯！你且與師兄們切磋一下武功，學習如何防禦。</font>
+accept_72734_1=<font face="Default" color="#ffffff" >　　雖防守為上，但攻而至極，防皆可破，對敵時需謹記！你且再去與師兄、師姐們切磋一下武功，學習如何破除防禦。</font>
+accept_72735_1=<font face="Default" color="#ffffff" >  正所謂怒發而衝冠，通過防禦積攢自己的怒氣，來釋放技能也很重要，使用你之前所習得的</font><font face="Default" color="#8fd6ef" >「威曜四戎」</font><font face="Default" color="#ffffff" >這招跟師兄、師姐們切磋下，仔細體會怒氣大招的威力。</font>
+accept_72736_1=<font face="Default" color="#ffffff" >  很好很好，看來你天賦聰悟，這麼快就領悟了這些招式的要領，想當年我都花了很久才到你這一步，看來是塊練武的料，以後記得要多多練習，現在去向</font><font face="Default" color="#ffffff" >司馬莫邪</font><font face="Default" color="#ffffff" >稟告學習情況吧！</font>
+accept_72737_1=<font face="Default" color="#ffffff" >拜訪修行者</font>
+accept_72738_1=<font face="Default" color="#ffffff" >在風水寶地進行武學修煉！</font>
+accept_72739_1=<font face="Default" color="#ffffff" >下面我將教你如何使用團練來修練武功，你可要仔細看清楚了</font>
+accept_72740_1=<font face="Default" color="#ffffff" >好！經過一番歷練你成長了不少，但是習武之人講究學無止境，實力達到略有小成之後，你可去學習本門其他武學</font>
+accept_72741_1=<font face="Default" color="#ffffff" >習武之路，漫長曲折，若不是有大毅力之人，必難以取得大成就，你可有信心？</font>
+accept_72742_1=<font face="Default" color="#ffffff" >恩，既然如此，我再傳你些功夫</font>
+accept_72743_1=<font face="Default" color="#ffffff" >你進展迅速，將來大有可為啊</font>
+accept_72744_1=<font face="Default" color="#ffffff" >我</font><font face="Default" color="#ffffff" >崑崙</font><font face="Default" color="#ffffff" >每個套路之中都有絕學招式，你可知道</font>
+accept_72745_1=<font face="Default" color="#ffffff" >習武之人講究多多益善，你可去瞭解本門高階武學</font>
+accept_72746_1=<font face="Default" color="#ffffff" >習武之路，漫長曲折，若不是有大毅力之人，必難以取得大成就，你可有信心</font>
+accept_72747_1=<font face="Default" color="#ffffff" >呵呵，聰明。不錯，正要傳授於你。</font>
+accept_72748_1=<font face="Default" color="#ffffff" >習武之路如逆水行舟，不進則退。</font>
+accept_72749_1=<font face="Default" color="#ffffff" >呵呵，古語有云「路漫漫其修遠兮，吾將上下而求索」，學海無涯，你的修習之路才剛剛開始啊！</font>
+accept_72750_1=<font face="Default" color="#ffffff" >俠之大者，為國為民，如今中原武林一片混亂，各大勢力之間兵戎相見，希望你能參加戰場平息一方動亂。</font>
+accept_72751_1=<font face="Default" color="#ffffff" >今我大明國泰民安，但飲血的江湖免不了無盡的冤冤相報。你的仇家如果是十惡不赦的惡人，那麼少俠可以去師爺處發佈海捕文書，天網恢恢疏而不漏，各路捕快定將其捉拿歸案</font>
+accept_72752_1=<font face="Default" color="#ffffff" >你想要繼續學習我門派武功，還需要多加努力。</font>
+accept_72753_1=<font face="Default" color="#ffffff" >你對此有所興趣？也罷，也許還為時過早，但這終究是我等江湖中人必定經歷之事，詳情我暫且不說，你最好親自去蘇州尋酒店掌櫃孟光處一探究竟。</font>
+accept_72754_1=<font face="Default" color="#ffffff" >最近江湖風波又起，特別在偏遠小鎮，一些勢力更是為禍一方，山高水遠，官府衙門鎮壓起來難免鞭長莫及！</font>
+accept_72755_1=<font face="Default" color="#ffffff" >最近各大門派都派出眾多弟子出來刺探，你到周圍看看是否有其他門派的人。（通過</font><font face="Default" color="#ff0000" >「闖蕩江湖」</font><font face="Default" color="#ffffff" >界面可以直接參加巡邏，也可以在</font><font face="Default" color="#ff0000" >「情報負責人」</font><font face="Default" color="#ffffff" >那裡參加巡邏）</font>
+accept_72756_1=<font face="Default" color="#ffffff" >現在正處在多事之秋，現在需要你去少林找到內應，詢問下少林現在的情況。（在所要刺探的門派可直接通過</font><font face="Default" color="#ff0000" >「闖蕩江湖」</font><font face="Default" color="#ffffff" >界面參加刺探，也可以找</font><font face="Default" color="#ff0000" >「刺探接頭人」</font><font face="Default" color="#ffffff" >處參加刺探）</font>
+accept_72757_1=<font face="Default" color="#ffffff" >你去找護書弟子問問他關於門派書籍的事情吧，他現在正為此事犯愁呢！</font>
+accept_72758_1=<font face="Default" color="#ffffff" >是的，最近好多其他門派的人也在覬覦我們的武學秘籍，你去查查是否有人前來盜取秘籍。（在護書活動期間可以直接通過</font><font face="Default" color="#ff0000" >「闖蕩江湖」</font><font face="Default" color="#ffffff" >界面參加護書，也可以在</font><font face="Default" color="#ff0000" >「藏書檯守護人」</font><font face="Default" color="#ffffff" >那裡參加護書）</font>
+accept_72759_1=<font face="Default" color="#ffffff" >武林英雄輩出，大野龍蛇遍佈，從來不缺少些個能人異士，為壯志豪情，振臂一呼，集結四方之士建幫立會共謀江湖，而這，也就是幫會產生的原由，你若想進一步瞭解，不妨到幫會管理員處再行詢問。</font>
+accept_72760_1=<font face="Default" color="#ffffff" >等你找到一群志同道合的人，在來我這裡吧。</font>
+accept_72761_1=<font face="Default" color="#ffffff" >關於奇門武器</font><font face="Default" color="#ffffff" >的事，讓我慢慢給你講述。</font>
+complete_72730=<font face="Default" color="#ffffff" >不錯不錯，待得你實力漸長後還會接觸到更多的內功武學，切記用功學習並熟練的切換運用。</font>
+complete_72731=<font face="Default" color="#ffffff" >演武引導</font>
+complete_72732=<font face="Default" color="#ffffff" >　　我現在教你如何熟練運用招式，但想要有所成就並非一朝一夕之事，在此之後你還需多加練習。在這練功場之內，你大可放開手腳，安心習武，日後方能成大事。</font>
+complete_72733=<font face="Default" color="#ffffff" >  不錯不錯！看來你天資聰慧，是塊練武的料，我先傳你幾招本門武學的招式秘籍，你且拿去，日後慢慢研習。</font>
+complete_72734=<font face="Default" color="#ffffff" >  恩，很好很好，我越來越欣賞你了。我再傳你幾招，你可要仔細研習。</font>
+complete_72735=<font face="Default" color="#ffffff" >這怒氣一旦爆發出來，威力無窮，以後切記不到逼不得已，不要隨意亂用。剛才我給你的幾本秘籍本是一套武學，我現將餘下的招式也授與你。</font>
+complete_72736=<font face="Default" color="#ffffff" >  和師兄、師姐們學的怎麼樣了？</font>
+complete_72737=<font face="Default" color="#ffffff" >既然有緣相見，我就將修行之術傳授與你！</font>
+complete_72738=<font face="Default" color="#ffffff" >幹得好，繼續努力修煉吧！</font>
+complete_72739=<font face="Default" color="#ffffff" >你可記牢如何團練？</font>
+complete_72740=<font face="Default" color="#ffffff" >能得到推薦到我這學藝，說明你資質不錯，但是我還要考校你一番，你可有信心？</font>
+complete_72741=<font face="Default" color="#ffffff" >恩，不錯，是個可造之材</font>
+complete_72742=<font face="Default" color="#ffffff" >恩，是可造之材</font>
+complete_72743=<font face="Default" color="#ffffff" >我果然沒有看錯人，以後崑崙在江湖上威名，就得靠你這樣的後輩維護了</font>
+complete_72744=<font face="Default" color="#ffffff" >恩，你平時要刻苦修行，時刻牢記</font><font face="Default" color="#ffffff" >崑崙</font><font face="Default" color="#ffffff" >門規，這樣才不枉為</font><font face="Default" color="#ffffff" >崑崙</font><font face="Default" color="#ffffff" >弟子，你先去吧。</font>
+complete_72745=<font face="Default" color="#ffffff" >學習我這門武學需要實力達到駕輕就熟，你還是先去提升實力吧</font>
+complete_72746=<font face="Default" color="#ffffff" >呵呵，你終於領會武學之奧秘了，可喜可賀啊！</font>
+complete_72747=<font face="Default" color="#ffffff" >不錯不錯，孺子可教也！</font>
+complete_72748=<font face="Default" color="#ffffff" >嗯，這種感覺是對的，你已經漸入佳境了，繼續保持吧！依你的潛力必會有所大成！</font>
+complete_72749=<font face="Default" color="#ffffff" >恩，謙虛而好學，不愧為我派弟子，我派屹於武林名揚四海，全靠你們這些後輩了！</font>
+complete_72750=<font face="Default" color="#ffffff" >恩，不錯，是個可造之材。</font>
+complete_72751=<font face="Default" color="#ffffff" >你小子也有兩下子，把通緝犯緝拿入獄後，官府將通過飛鴿傳書把獎勵發送到你的郵箱裡。維護江湖的秩序還需要靠更多像少俠一樣的年輕人</font>
+complete_72752=<font face="Default" color="#ffffff" >寶物雖強，最重要的還是要看你自己的實力。所以還是要繼續努力啊。</font>
+complete_72753=<font face="Default" color="#ffffff" >武林中從來都有很多秘密和禁忌，且其中不乏危及各大門派的陰謀詭計和各路絕世高手鎮守，為此禁地也吸引了眾多江湖中人為絕世武學和財富而前去冒險。</font>
+complete_72754=<font face="Default" color="#ffffff" >出門在外，難免兩望相顧，你既然思鄉情切，何不即刻返鄉一趟。江湖日息瞬變，若想快速返回鄉里，不妨使用落腳點，如何使用，我且給你演示一番！</font>
+complete_72755=<font face="Default" color="#ffffff" >嗯！幹的不錯，以後還要多多為門派進行巡邏。</font>
+complete_72756=<font face="Default" color="#ffffff" >好，你把情報交給我就行了。</font>
+complete_72757=<font face="Default" color="#ffffff" >好樣的，以後多多去奪書，將來一定能成為一代大俠。</font>
+complete_72758=<font face="Default" color="#ffffff" >看來真的有很多人在覬覦我們的武學秘籍，以後還要多多注意才行。</font>
+complete_72759=<font face="Default" color="#ffffff" >哦！待你行走江湖，結識眾多意氣相投的好友後，就可以在我這裡選擇加入其他已建立的幫會加入，當然尚若你實力達到要求也可自己建立幫會邀請好友加入！</font>
+complete_72760=<font face="Default" color="#ffffff" >這麼快就找到這麼多知己了，你比我想像中的還厲害，我想我已經記住你了，希望你將來能名揚四海。</font>
+complete_72761=<font face="Default" color="#ffffff" >少俠，需要來一把琴麼？（跟鐵匠對話，選擇奇門置換即可）</font>
+context_72730=在掌門的授意下，前往武館，聽<a href="findnpc_new,groupscene047,Npc_yd_wg_jx_kl01" style="HLStype1">柳毅</a>講解門派內功<font face="Default" color="#ee7621" >[秋老訣]</font>
+context_72731=根據指引進行演武
+context_72732=已掌握了內功基本要領，接下來就得學習外功招式。通過演練之前學過的招式來瞭解招式的基本使用方法。
+context_72733=　　很好，恩師曾教導：武學之根基，防守為上，護體為先，出招為後，戰時方可游刃有餘，發揮身體極致。嗯！你且與師兄、師姐們切磋一下武功，學習如何防禦。
+context_72734=　　雖防守為上，但攻而至極，防皆可破，對敵時需謹記！你且再去與師兄、師姐們切磋一下武功，學習如何破除防禦。
+context_72735=通過防禦積攢怒氣，來釋放怒氣技能，並體會怒氣大招的威力。
+context_72736=在武館學習了內功和招式，已築就基本的門派武學根基，向<a href="findnpc_new,school24,newmp_kl_006" style="HLStype1">司馬莫邪</a>稟報學習結果。
+context_72737=武學修煉艱苦卓絕，取巧不得。而倘若有緣，能在名山大川中找到一塊風水寶地，應天地之氣，合五行陰陽之變化，那麼修煉速度必將加快很多！因此世外高人都喜歡找一些山水秀麗或者險峻的地方修煉！我認識一位修行者，他擅長看風水，最喜歡在艱苦的環境下修行，你不妨去拜訪他一下！
+context_72738=武學修煉艱苦卓絕，取巧不得。而倘若有緣，能在名山大川中找到一塊風水寶地，應天地之氣，合五行陰陽之變化，那麼修煉速度必將加快很多！因此世外高人都喜歡找一些山水秀麗或者險峻的地方修煉！風水寶地有山、林、洞、水、雪等，對不同屬性的武學各有助益。而此地恰好是一塊風水寶地，你不妨在此修煉一番，體驗風水寶地的修煉速度！
+context_72739=根據引導進行一次團練
+context_72740=實力達到略有小成之後，尋找瞭解濯纓劍法的傳授之人
+context_72741=聆聽門派前輩教導，感悟習武入門之道
+context_72742=習武之路沒有止境，繼續向師門前輩討教武功
+context_72743=武學之道，需要實戰才能成長，與同門繼續切磋武藝
+context_72744=習武之道，不可驕，不可燥，應向同門前輩繼續請教
+context_72745=尋找瞭解寒泉洗心譜的傳授之人
+context_72746=聆聽門派前輩教導，領悟習武入門之道
+context_72747=武學之路切忌淺嘗輒止，繼續向師門前輩求教武功
+context_72748=武學之道，需要實戰才能成長，與同門弟子繼續切磋武藝
+context_72749=路漫漫其修遠兮，吾將上下而求索，繼續求教同門前輩
+context_72750=武學初成，需要更多的實戰才能成長，前往戰場體驗一次酣暢淋漓的戰鬥。
+context_72751=拜入門派已有些時日，是時候外出歷練一番了，打聽打聽有關海捕的信息，學會如何申請成為捕快以及如何對自己的仇人發佈海捕文書。
+context_72752=寶物能提高人物屬性，裝備寶物對你大有益處。
+context_72753=對師叔剛剛提及的武林禁地有所興趣，欲對其進行進一步的瞭解。
+context_72754=頓起思鄉之念，最近江湖風波又起，不知是否殃及家鄉，那些故老鄉親是否安好！
+context_72755=最近各大門派都派出眾多弟子前往其他門派刺探情報，到周圍看看是否有其他門派的人在這裡刺探。
+context_72756=江湖處多事之秋，各大勢力聞風而動，派遣眾多弟子前往各大門派刺探情報。
+context_72757=各大門派武學卓絕，最近有不世武學重現江湖，前往各大門派搶奪，可能獲得意想不到的武學秘籍
+context_72758=門派內有眾多武學書籍供派內弟子研修，但是最近很多其他門派的人總是前來搗亂，意圖偷取秘籍，到四周看看是否有其他門派的人前來盜書
+context_72759=在這混亂的江湖中，你需要一群值得依賴的夥伴和你一起在這亂世中生存下去。
+context_72760=在你踏足江湖之前，你需要找到一群可以依賴的夥伴一起闖蕩江湖。
+context_72761=可以前往大禹那邊瞭解奇門置換的事項（將其他未開光生活製造武器轉成奇門武器）
+menu_72731_1=<font face="Default" color="#ffffff" >是，師兄！</font>
+menu_72732_1=<font face="Default" color="#ffffff" >恭領師兄教誨！</font>
+menu_72733_1=<font face="Default" color="#ffffff" >師兄言之有理，我必謹記於心！</font>
+menu_72734_1=<font face="Default" color="#ffffff" >師兄所言極是，我現在就去。</font>
+menu_72735_1=<font face="Default" color="#ffffff" >多謝，我這就去。</font>
+menu_72736_1=<font face="Default" color="#ffffff" >這是師兄、師姐們教導有方，我這就回去找</font><font face="Default" color="#ffffff" >司馬莫邪</font><font face="Default" color="#ffffff" >稟告。</font>
+menu_72737_1=<font face="Default" color="#ffffff" >你要我做什麼呢？</font>
+menu_72738_1=<font face="Default" color="#ffffff" >你要我做什麼呢？</font>
+menu_72739_1=<font face="Default" color="#ffffff" >是，師傅！</font>
+menu_72740_1=<font face="Default" color="#ffffff" >我這就去</font>
+menu_72741_1=<font face="Default" color="#ffffff" >弟子有信心</font>
+menu_72742_1=<font face="Default" color="#ffffff" >多謝前輩</font>
+menu_72743_1=<font face="Default" color="#ffffff" >前輩過謙了</font>
+menu_72744_1=<font face="Default" color="#ffffff" >弟子略有耳聞</font>
+menu_72745_1=<font face="Default" color="#ffffff" >我這就去</font>
+menu_72746_1=<font face="Default" color="#ffffff" >弟子不畏艱辛</font>
+menu_72747_1=<font face="Default" color="#ffffff" >多謝前輩</font>
+menu_72748_1=<font face="Default" color="#ffffff" >言之有理。</font>
+menu_72749_1=<font face="Default" color="#ffffff" >弟子汗顏。</font>
+menu_72750_1=<font face="Default" color="#ffffff" >弟子領命！</font>
+menu_72751_1=<font face="Default" color="#ffffff" >在瞭解了個大門派的爭鬥之後，發現江湖的凶險一直存在自己的身邊</font>
+menu_72752_1=<font face="Default" color="#ffffff" >得到前輩指點，真是受益匪淺！</font>
+menu_72753_1=<font face="Default" color="#ffffff" >弟子恭領師叔之命！</font>
+menu_72754_1=<font face="Default" color="#ffffff" >確實如此，弟子也略有所聞！</font>
+menu_72755_1=<font face="Default" color="#ffffff" >好的，我馬上就去。</font>
+menu_72756_1=<font face="Default" color="#ffffff" >知道了，我這就去。</font>
+menu_72757_1=<font face="Default" color="#ffffff" >好的，我馬上就去。</font>
+menu_72758_1=<font face="Default" color="#ffffff" >知道了，我馬上就去。</font>
+menu_72759_1=<font face="Default" color="#ffffff" >多謝相告！我稍後即前往相詢。</font>
+menu_72760_1=<font face="Default" color="#ffffff" >好的，相信我們很快就會再見面的。</font>
+menu_72761_1=<font face="Default" color="#ffffff" >請前輩指教</font>
+submit_72730=<font face="Default" color="#ffffff" >感謝您的指導，我已經掌握了</font>
+submit_72731=<font face="Default" color="#ffffff" >我記牢了！</font>
+submit_72732=<font face="Default" color="#ffffff" >多謝，我會牢記師兄的教誨！</font>
+submit_72733=<font face="Default" color="#ffffff" >多謝誇獎，還請師兄繼續賜教。</font>
+submit_72734=<font face="Default" color="#ffffff" >多謝師兄，我必定努力參研。</font>
+submit_72735=<font face="Default" color="#ffffff" >多謝師兄。</font>
+submit_72736=<font face="Default" color="#ffffff" >師兄、師姐們都把基本的武學招式教我了，只是我......掌握不精。</font>
+submit_72737=<font face="Default" color="#ffffff" >請教我修行的方法！</font>
+submit_72738=<font face="Default" color="#ffffff" >謝謝指導！</font>
+submit_72739=<font face="Default" color="#ffffff" >弟子記牢了！</font>
+submit_72740=<font face="Default" color="#ffffff" >沒問題</font>
+submit_72741=<font face="Default" color="#ffffff" >前輩，您過獎了</font>
+submit_72742=<font face="Default" color="#ffffff" >都是前輩教得好</font>
+submit_72743=<font face="Default" color="#ffffff" >弟子，定會牢記前輩教導</font>
+submit_72744=<font face="Default" color="#ffffff" >弟子告退了。</font>
+submit_72745=<font face="Default" color="#ffffff" >我這就去</font>
+submit_72746=<font face="Default" color="#ffffff" >過獎</font>
+submit_72747=<font face="Default" color="#ffffff" >嘿嘿。</font>
+submit_72748=<font face="Default" color="#ffffff" >弟子遵命。</font>
+submit_72749=<font face="Default" color="#ffffff" >請放心，弟子一定不負所望！</font>
+submit_72750=<font face="Default" color="#ffffff" >過獎了。</font>
+submit_72751=<font face="Default" color="#ffffff" >我已將如何成為捕快以及如何發佈海捕文書牢記在心，願盡自己的綿薄之力</font>
+submit_72752=<font face="Default" color="#ffffff" >弟子謹記！</font>
+submit_72753=<font face="Default" color="#ffffff" >原來如此，多謝掌櫃告知！</font>
+submit_72754=<font face="Default" color="#ffffff" >如此甚好！</font>
+submit_72755=<font face="Default" color="#ffffff" >謝謝前輩，我會繼續努力的。</font>
+submit_72756=<font face="Default" color="#ffffff" >這就是我帶回來的情報。</font>
+submit_72757=<font face="Default" color="#ffffff" >謝謝前輩，我一定會努力的。</font>
+submit_72758=<font face="Default" color="#ffffff" >是的。</font>
+submit_72759=<font face="Default" color="#ffffff" >原來如此，多謝相告！</font>
+submit_72760=<font face="Default" color="#ffffff" >多謝誇獎，後會有期。</font>
+submit_72761=<font face="Default" color="#ffffff" >請讓我再考慮一下</font>
+target_72730=瞭解<font face="Default" color="#ee7621" >[秋老訣]</font>以及內功切換
+target_72731=學會使用演武
+target_72732=找<a href="findnpc_new,groupscene047,Npc_yd_wg_jx_kl01" style="HLStype1">柳毅</a>學習本門的武學招式
+target_72733=防住師姐<a href="findnpc_new,groupscene047,Npc_yd_wg_jx_kl03" style="HLStype1">閔鵬</a>的攻擊
+target_72734=破解師姐<a href="findnpc_new,groupscene047,Npc_yd_wg_jx_kl04" style="HLStype1">卞清</a>的防禦
+target_72735=積攢怒氣運用怒氣技能來擊敗師兄、師姐。
+target_72736=回去找<a href="findnpc_new,school24,newmp_kl_006" style="HLStype1">司馬莫邪</a>稟報學習成果
+target_72737=拜訪修行者
+target_72738=在風水寶地進行武學修煉！
+target_72739=完成一次團練
+target_72740=實力達到略有小成之後，找<a href="findnpc_new,school24,newmp_kl_006" style="HLStype1">司馬莫邪</a>學習濯纓劍法
+target_72741=聆聽前輩的教導
+target_72742=在師門前輩處繼續學習
+target_72743=與同門繼續切磋武藝
+target_72744=向同門前輩繼續請教
+target_72745=找<a href="findnpc_new,school24,newmp_kl_007" style="HLStype1">花玉瑩</a>學習寒泉洗心譜
+target_72746=聆聽前輩指導
+target_72747=在師門前輩處繼續求教
+target_72748=與同門弟子繼續切磋武藝
+target_72749=懇請同門前輩繼續賜教
+target_72750=完成我的戰場引導，進入戰場。
+target_72751=瞭解海捕的相關信息
+target_72752=得到寶物
+target_72753=瞭解武林禁地。
+target_72754=學習使用落腳點從而快速趕回家鄉
+target_72755=擊敗各門派前來刺探的弟子，奪回被拿走的情報。
+target_72756=前往各大門派進行刺探
+target_72757=前往少林，從少林的藏書台中拿到書籍帶回崑崙派
+target_72758=打敗前來盜書的奪書弟子，搶回被盜秘籍
+target_72759=瞭解幫會
+target_72760=加入幫會
+target_72761=找到大禹瞭解奇門置換功能
+title_72730=門派內功
+title_72731=演武引導
+title_72732=招式教學
+title_72733=防禦教學
+title_72734=破防教學
+title_72735=怒氣教學
+title_72736=學藝有成
+title_72737=風水寶地修煉引導
+title_72738=風水寶地修煉引導
+title_72739=團練引導
+title_72740=學無止境
+title_72741=習武入門
+title_72742=初試身手
+title_72743=再戰同門
+title_72744=略有小成
+title_72745=多多益善
+title_72746=初涉武學
+title_72747=小試身手
+title_72748=漸入佳境
+title_72749=學海無涯
+title_72750=初入戰場
+title_72751=海捕引導
+title_72752=寶物引導
+title_72753=武林禁地
+title_72754=江湖風波
+title_72755=門派巡邏
+title_72756=刺探情報
+title_72757=門派奪書
+title_72758=門派書籍
+title_72759=瞭解幫會
+title_72760=加入幫會
+title_72761=奇門置換
 

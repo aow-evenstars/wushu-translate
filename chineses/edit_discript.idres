@@ -1,4 +1,4 @@
-﻿
+﻿//属性名
 Align=文字对齐方式LeftCenter,Right可选
 AlwaysHScroll=是否一直显示横滚动条
 AlwaysVScroll=是否一直显示纵滚动条
@@ -9,7 +9,7 @@ AnimationImage=动画图源
 Athwart=逆向播放
 AutoScroll=是否自动滚动到最后
 AutoSize=自动调整
-BackColor=Background Color
+BackColor=背景颜色
 BackImage=背景图元
 BlendAlpha=显示透明度
 BlendColor=背景混合颜色
@@ -56,7 +56,7 @@ FanCount=扇面数量
 FitGrid=图片是否拉伸至填满整个Grid的大小
 Fixed=是否固定位置
 FocusImage=鼠标移入的显示图片
-Font=Font
+Font=字体
 ForeColor=字体颜色
 Format=浮点值精度
 FullBarBack=滚动背景的显示范围
@@ -114,7 +114,7 @@ LockColor=格子锁定的颜色
 Loop=是否循环
 Marked=格式化字符串
 MaxDigit=允许输入的最大值
-Maximum=Max Value
+Maximum=最大值
 MaxLength=最大字符数量
 MaxRemember=记录输入的最大条数
 MaxSize=最大数目
@@ -219,6 +219,8 @@ NormalFont=正常状态的字体
 FocusFont=鼠标选中状态的字体
 PushFont=被按下状态的字体
 DisableFont=被禁止操作状态的字体
+
+//属性名描述
 ui_form_design_Vanchor=纵向对齐方式,决定控件相对于父的对齐方式
 ui_form_design_HAnchor=横向对齐方式,决定控件相对于父的对齐方式
 ui_form_design_AutoSize=根据图片大小自动调整控件大小,如果有图片时,这个属性通常设为TRUE
@@ -256,10 +258,10 @@ ui_form_design_TextVisible=是否显示进度文本
 ui_form_design_ButtonSize=增减按钮的大小
 ui_form_design_TrackSize=拖动按钮的大小（为表示不固定大小）
 ui_form_design_Orient=方向（"Vertical"-垂直，"Horizon"-水平）
-ui_form_design_SmallChange=小改变单位（点击增减按钮的变化量）
+ui_form_design_SmallChange= 小改变单位（点击增减按钮的变化量）
 ui_form_design_LargeChange=大改变单位（影响拖动按钮的大小）
 ui_form_design_Minimum=最小值
-ui_form_design_Maximum=Max Value
+ui_form_design_Maximum=最大值
 ui_form_design_Value=当前值
 ui_form_design_ButtonWidth=下拉按钮的宽度
 ui_form_design_DropDownWidth=下拉列表框宽度
@@ -342,21 +344,21 @@ ui_form_design_NodeCloseDraw=节点收起时的显示图片"+"
 ui_form_design_Fixed=是否固定位置
 ui_form_design_Visible=是否显示,在作为分页编辑的时候几个分页可能相互遮挡,用这个属性将某些分页隐藏
 ui_form_design_IsEditMode=是否正在编辑,这个属性很重要,在编辑的时候可以任意改变子控件的位置,编辑完后需设成FALSE子控件纵向坐标将被锁定
-ui_form_design_Image=贴图名
+ui_form_design_Image=贴图名     
 ui_form_design_ZoomWidth=宽度缩放比例0-1.0
 ui_form_design_ZoomHeight=高度缩放比例0-1.0
 ui_form_design_Left=相对于父控件的左边距
 ui_form_design_Top=相对于父控件的上边距
-ui_form_design_Width=控件自身的宽度
+ui_form_design_Width=控件自身的宽度 
 ui_form_design_Height=控件自身的高度
 ui_form_design_IsAutoClip=设置是否进行超出裁剪
 ui_form_design_ForeColor=字体颜色
-ui_form_design_BackColor=Background Color
+ui_form_design_BackColor=背景颜色
 ui_form_design_LineColor=线条颜色
 ui_form_design_BlendColor=背景混合颜色
 ui_form_design_Enabled=是否有效
 ui_form_design_TestTrans=消息是否下发
-ui_form_design_Font=Font
+ui_form_design_Font=字体
 ui_form_design_Cursor=鼠标外观
 ui_form_design_HintText=浮动提示文字
 ui_form_design_HintType=浮动提示类型
@@ -422,4 +424,56 @@ ui_form_design_LeftBar=左侧图标条
 ui_form_design_LeftBarBackColor=左侧图标条颜色
 ui_form_design_LeftBarDraw=被选中文本的背景图
 ui_form_design_Url=网页地址
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 

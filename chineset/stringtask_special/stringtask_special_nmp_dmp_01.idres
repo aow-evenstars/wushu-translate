@@ -185,7 +185,6 @@ hunterinfo_16254=路遇埋伏，擊敗<a href="findnpc_new,city04,npc_dmp_mxm24"
 hunterinfo_16323=前方聽到有人求救，前去擊敗<a href="findnpc_new,school18,dmp_zc_xyjs_gw_001" style="HLStype1">山下惡霸</a>，解救被欺之人。
 hunterinfo_16328=師兄非要讓你和他切磋，只好陪他練練了。擊敗<a href="findnpc_new,school18,dmp_zc_xyjs_05" style="HLStype1">青凌</a>。
 hunterinfo_16335=找師兄迦皮讓他送你進一線天附近，在銅人協助下除掉麒麟獸。（進入後有五大銅人協助你，分別用來對抗野獸的五大傷害技能，當野獸釋放大技能時，可走近銅人附近免疫，離開銅人免疫效果消失。進入前需要接取任務後組隊由隊長開啟，切勿離隊長過遠。）
-hunterinfo_16336=門派特製的用來傳燈祈福的煙花被不明竊賊偷去了，在獲得心燈之助後方可前去獲得佛法之助，獲得佛法之助五層後找那些在菩提樹下鬼鬼祟祟的人，擊敗5個<a href="findnpc_new,school18,dmp_zc_cdqf_gw_001" style="HLStype1">鬼鬼祟祟之人</a>，並拿回被偷的煙花5個。（只有在獲得了答題佛法之助五層後擊殺鬼鬼祟祟之人才能獲得煙花）
 hunterinfo_16337=在與<a href="findnpc_new,school18,newmp_dmp_09" style="HLStype1">善令</a>的切磋之中勝出
 hunterinfo_16338=在與<a href="findnpc_new,school18,newmp_dmp_09" style="HLStype1">善令</a>的切磋之中勝出
 hunterinfo_16339=在與<a href="findnpc_new,school18,newmp_dmp_09" style="HLStype1">善令</a>的切磋之中勝出
@@ -312,7 +311,6 @@ interactinfo_16452=採摘<a href="findnpc_new,school18,gather_dmp_mxm01" style="
 interactinfo_16453=<a href="findnpc_new,school18,npc_dmp_mxm08" style="HLStype1">小昭</a>沒猜出來，只能把佛珠給你了
 interactinfo_16454=在附近找找有沒有<a href="findnpc_new,school18,gather_dmp_mxm02" style="HLStype1">佛珠</a>
 interactinfo_16455=那邊的<a href="findnpc_new,school18,gather_dmp_mxm04" style="HLStype1">鳥</a>似乎在玩著佛珠，過去看看
-interactinfo_16456=前往智上(-519,-252)處，守衛菩提樹，擊殺來犯之人
 interactinfo_16457=與<a href="findnpc_new,school08,WorldNpc00212" style="HLStype1">玄懷大師</a>交談
 interactinfo_16458=身體感覺不適前去詢問<a href="findnpc_new,school18,EventNpc_dmpjq_002" style="HLStype1">禪尊</a>
 okmenu_16250=<font face="Default" color="#ffffff" >好，我這就去。</font>
@@ -380,7 +378,6 @@ okmenu_16365=<font face="Default" color="#ffffff" >弟子已有20枚</font><font
 okmenu_16366=<font face="Default" color="#ffffff" >弟子已有10枚</font><font face="Default" color="#ffffff" >菩提</font><font face="Default" color="#ffffff" >子。</font>
 okmenu_16367=<font face="Default" color="#ffffff" >弟子……</font>
 okmenu_16440=<font face="Default" color="#ffffff" >弟子自當謹記，這</font><font face="Default" color="#ffffff" >便</font><font face="Default" color="#ffffff" >前往峨眉山。</font>
-okmenu_16443=<font face="Default" color="#ffffff" >弟子確實已將那法妄擊殺，只是那法妄雖然出手狠毒，但武功卻遠不似傳聞中那麼高強。</font>
 okmenu_16444=<font face="Default" color="#ffffff" >弟子遵命！</font>
 okmenu_16445=<font face="Default" color="#ffffff" >弟子明白！</font>
 okmenu_16447=<font face="Default" color="#ffffff" >僧人？你哪有半點僧人的樣子？若不老實交代，休怪我手下無情。</font>
@@ -509,4 +506,7 @@ useiteminfo_16270=拿著<a href="TASK_ITEM,item_dmp_rc_wc_06" style="HLStype1">�
 useiteminfo_16271=拿著<a href="TASK_ITEM,item_dmp_rc_wc_06" style="HLStype1">雞毛撣</a>到<a href="findnpc_new,school18,EventNpc_dmp_rc_wc_12" style="HLStype1">佛像經文</a>前打掃灰塵
 useiteminfo_16332=使用<a href="TASK_ITEM,item_dmp_zc_xyjs_06" style="HLStype1">化寒丹</a>為中毒之人解毒。
 useiteminfo_16337=傳燈祈福的最後環節了，拿到傳燈煙花後，在門派菩提台靜心蓮花上面釋放<a href="TASK_ITEM,item_dmp_zc_shqf_01" style="HLStype1">傳燈煙花</a>5個，祈福上蒼，福澤眾生。
+hunterinfo_16336=門派特製的用來傳燈祈福的煙花被不明竊賊偷去了，在獲得心燈之助後方可前去獲得佛法之助，獲得佛法之助五層後找那些在菩提樹下鬼鬼祟祟的人，擊敗5個<a href="findnpc_new,school18,dmp_zc_cdqf_gw_001" style="HLStype1">鬼鬼祟祟之人</a>，並拿回被偷的煙花5個。（只有在獲得了答題佛法之助五層後攻克鬼鬼祟祟之人才能獲得煙花）
+interactinfo_16456=前往智上(-519,-252)處，守衛菩提樹，攻克來犯之人
+okmenu_16443=<font face="Default" color="#ffffff" >弟子確實已將那法妄攻克，只是那法妄雖然出手狠毒，但武功卻遠不似傳聞中那麼高強。</font>
 

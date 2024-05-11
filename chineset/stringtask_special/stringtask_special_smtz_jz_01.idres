@@ -35,15 +35,12 @@ collectinfo_58404=收集竹筍（農夫種植而得，種子暮色村產出，�
 collectinfo_58405=殺死暮色之村（普通難度）的魏不羈拿回君子令
 collectinfo_58406=收集<a href="findnpc_new,school03,Gather0049yl" style="HLStype1">蘭花</a>
 hunterinfo_58401=阻止韓似錦
-hunterinfo_58402=殺死青雲堡（普通難度）鮑夢婕，找出蝴蝶殺人之謎
 hunterinfo_58403=殺死暮色之村（普通難度）的葉樓凱 
 hunterinfo_58404=殺死<a href="findnpc_new,school03,monm031304" style="HLStype1">龍母廟打手</a>
 hunterinfo_58405=驅趕<a href="findnpc_new,school03,monm031301" style="HLStype1">龍母廟神婆</a>
-hunterinfo_58406=擊退<a href="findnpc_new,school03,monrc047628" style="HLStype1">極樂谷殺手</a>
 hunterinfo_58407=擊敗<a href="findnpc_new,school03,monrc047629" style="HLStype1">岳是群</a>
 hunterinfo_58408=擊退四處搗亂的<a href="findnpc_new,school03,monrc047627" style="HLStype1">靈猴</a>
 hunterinfo_58409=擊敗罪魁禍首<a href="findnpc_new,school03,monrc047630" style="HLStype1">五毒教毒使</a>
-hunterinfo_58410=擊退攔路的<a href="findnpc_new,city02,monrc047631" style="HLStype1">蒙面殺手</a>
 hunterinfo_58413=擊敗蘇州酒館吃霸王餐的<a href="findnpc_new,city02,smtzjy003" style="HLStype1">韓頑石</a>
 hunterinfo_58414=書齋二樓似乎有響動，上去看看發生了什麼，並擊退<a href="findnpc_new,city04,monrc047634" style="HLStype1">來襲之人</a>
 interactinfo_58401=將書信交給<a href="findnpc_new,city02,WorldNpc01244" style="HLStype1">況鍾</a>
@@ -70,7 +67,6 @@ story_58404_2=<font face="Default" color="#ffffff" >   韓似錦帶著許多人�
 story_58405_1=<font face="Default" color="#ffffff" >   哎，你來啦……那書齋</font><font face="Default" color="#ffffff" >石夫人願意以珍藏古卷相送，拜託我君子堂查明此事</font><font face="Default" color="#ffffff" >，這次</font><font face="Default" color="#ffffff" >她丈夫</font><font face="Default" color="#ffffff" >死得不明不白，我們不能置之不理……</font>
 story_58405_2=<font face="Default" color="#ffffff" >   聽石夫人所言，此事應與青雲堡難脫干係了，你還是找她談談，詳細瞭解下吧。她就在對面的書齋靈堂。</font>
 story_58406_1=<font face="Default" color="#ffffff" >   嗚嗚嗚……夫君他死的不明不白啊……</font>
-story_58406_2=<font face="Default" color="#ffffff" >   </font><font face="Default" color="#ffffff" >我夫君去世之前原本是要將一疊手札印製成書，上面提到了「青雲堡」「蝴蝶殺人」等等，依我看，那青雲堡怕是難脫干係了……只是那裡一直是江湖禁地，尋常人哪裡敢去……樓上還可能還留有一些手札，不如你前去看看可有幫助？</font>
 story_58407_1=<font face="Default" color="#ffffff" >   什麼！？黑衣人偷襲？難道是兇手去而復返？</font>
 story_58407_2=<font face="Default" color="#ffffff" >   哎……不料我整日戰戰兢兢，有凶人來此我卻不曾發覺……此事只能拜託你了……</font>
 story_menu_58401=況知府，在下奉掌門之命前來蘇州送信。
@@ -139,4 +135,8 @@ specialinfo_589=完成對浣花山莊的勢力挑戰
 story_58402_1=<font face="Default" color="#ffffff" >   你終於來了，</font><font face="Default" color="#ffffff" >哎，</font><font face="Default" color="#ffffff" >這裡情況不妙啊……我君子堂弟子已與浣花山莊</font><font face="Default" color="#ffffff" >產生</font><font face="Default" color="#ffffff" >幾次衝突，還有些受了傷已送到城中救治了……</font>
 story_58402_2=<font face="Default" color="#ffffff" >   浣花山莊</font><font face="Default" color="#ffffff" >一些女弟子不知遇上了哪個君子堂弟子，</font><font face="Default" color="#ffffff" >竟是指責我</font><font face="Default" color="#ffffff" >君子堂</font><font face="Default" color="#ffffff" >門人全是偽君子，言語輕浮，對其多有冒犯，此事悠關我門聲譽，不得不追究</font><font face="Default" color="#ffffff" >啊……</font>
 story_58402_3=<font face="Default" color="#ffffff" >   哎，多半是兩方一言不合才讓衝突升級吧……喏，對面那個浣花山莊的女弟子</font><font face="Default" color="#ffffff" >名叫胡靈，</font><font face="Default" color="#ffffff" >就是留在此處留意我君子堂異動的，她可不好惹，你可小心問詢一番……</font>
+hunterinfo_58402=殺死青雲堡（普通難度）鮑夢婕，找出蝴蝶攻克之謎
+hunterinfo_58406=擊退<a href="findnpc_new,school03,monrc047628" style="HLStype1">極樂谷隱衛</a>
+hunterinfo_58410=擊退攔路的<a href="findnpc_new,city02,monrc047631" style="HLStype1">蒙面隱衛</a>
+story_58406_2=<font face="Default" color="#ffffff" >   </font><font face="Default" color="#ffffff" >我夫君去世之前原本是要將一疊手札印製成書，上面提到了「青雲堡」「蝴蝶攻克」等等，依我看，那青雲堡怕是難脫干係了……只是那裡一直是江湖禁地，尋常人哪裡敢去……樓上還可能還留有一些手札，不如你前去看看可有幫助？</font>
 

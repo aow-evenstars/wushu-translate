@@ -17,7 +17,7 @@ DialogID_82521=<font face="Default" color="#ffffff" >Sắc mặt</font> <font fa
 DialogID_82522=<font face="Default" color="#ffffff" >Yên tâm đi, lão phu sẽ cẩn thận. Luôn tiện còn có thể trị liệu dư độc trong cơ thể ngươi.</font> <font face="Default" color="#ffffff" >Lão phu bắt đầu đây, ngươi đừng động đậy, đừng rên đau.</font>
 DialogID_82524=<font face="Default" color="#ffffff" >Sao ta lại ở đây?</font><font face="Default" color="#ffffff" >Sao ta lại ở đây?</font>
 DialogID_82527=<font face="Default" color="#ffffff" >Ta biết được 1 cứ điểm bí ẩn của Ma Đao Đường, tin rằng ngươi biết nên làm gì.</font>
-DialogID_82530=<font face="Default" color="#ffffff" >                </font>
+DialogID_82530=<font face="Default" color="#ffffff" > </font>
 SubmitNpcEx_57501=Tìm được <a href="findnpc_new,school05,NPC_4nei_tm_smrtmj01" style="HLStype1">người thần bí</a>
 SubmitNpcEx_57502=Trả NV: <a href="findnpc_new,school05,WorldNpc02205" style="HLStype1">Đường Thiểu Ngang</a>
 SubmitNpcEx_57503=Trả nhiệm vụ: <a href="findnpc_new,school05,WorldNpc02201" style="HLStype1">Đường Phụng</a>
@@ -54,7 +54,6 @@ collectinfo_82502=Huyết tích đã biến mất, trong nước hình như có 
 collectinfo_82503=Trên thi thể có mấy cây <a href="findnpc_new,school05,Gather_npc_4nei_tmbylhz" style="HLStype1">châm</a>, mang về bẩm báo chưởng môn
 collectinfo_82504=Dùng Trụy Mộng Tán gây mê một người trong đó, thu thập Trường Hận Thủy.
 collectinfo_82505=Thu thập <a href="findnpc_new,school05,Gather_npc_4nei_tmaerolite" style="HLStype1">Khối Vẫn Thạch</a>
-convoyinfo_82501=Đánh bại sát thủ đang đuổi theo, bảo vệ <a href="findnpc_new,city05,NPC_4nei_tm_xianren02" style="HLStype1">Đường Tị Tùng</a>
 convoyinfo_82502=Giữa đường xuất hiện Hắc Y Nhân và Đường Tứ Công đang giao đấu, ra tay ngăn cản Hắc Y Nhân
 convoyinfo_82503=Đánh lùi người của Ma Đao Đường, bảo vệ xe ngựa<font face="Default" color="#FF0000" > (Đừng rời mục tiêu bảo vệ, nếu không nhiệm vụ sẽ thất bại).</font>
 convoyinfo_82504=Mẩu tử Phụng Phi đến nhờ cậy Diệp Kinh Lâu, dọc đường bảo vệ mẫu tử họ, hoàn thành di nguyện Tứ Đại Khấu.
@@ -62,8 +61,6 @@ hunterinfo_82501=<a href="findnpc_new,city05,NPC_4nei_tm_attack00" style="HLStyp
 hunterinfo_82502=Bắt lấy <a href="findnpc_new,school05,NPC_4nei_tm_spy" style="HLStype1">Đường Điệp Kiếm</a>
 hunterinfo_82503=Ngăn cản <a href="findnpc,school05,1405,178,-33" style="HLStype1">Tần Đông Lại</a>
 hunterinfo_82505=Đánh bại <a href="findnpc_new,,Boss_4nei_xcj_002" style="HLStype1">Ba Y</a>
-hunterinfo_82506=Diệt <a href="findnpc_new,city03,AttackNPCxszhh_4nei_zhuibing" style="HLStype1">Ma Đao Đường Sát Thủ</a> đang đuổi theo
-hunterinfo_82507=Giữa đường xuất hiện người của Ma Đao Đường, tiêu diệt <a href="findnpc_new,city03,AttackNPCxszhh_4nei_kill01" style="HLStype1">Sát Thủ Ma Đao Đường</a>.
 hunterinfo_82508=Đánh bại <a href="findnpc_new,city03,Bossxszhh_4nei_mdtstzh" style="HLStype1">Ma Đao Đường Phó Sứ</a>
 interactinfo_82501=Cùng <a href="findnpc_new,school05,WorldNpc02205" style="HLStype1">Đường Thiểu Ngang</a> bàn bạc
 interactinfo_82502=Tìm được <a href="findnpc_new,school05,NPC_4nei_tm_smrtmj01" style="HLStype1">người thần bí</a> nghênh đón khiêu chiến của Ma Đao Đường
@@ -135,7 +132,6 @@ story_82509_1=<font face="Default" color="#ffffff" >Trong tàn phiến có nói 
 story_82510_1=<font face="Default" color="#ffffff" >Cống hiến cho triều đình? Chỉ là tạm thời liên thủ đánh bại kẻ địch chung thôi, triều đình thừa cơ hội này ngự ban Đan Thư Thiết Khoán cho bát đại môn phái.</font>
 story_82510_2=<font face="Default" color="#ffffff" >Hơn 10 năm trước, Chu Doãn Văn và đương kim thánh thượng tranh đoạt ngôi báu. Lúc đó trong Võ Lâm ma thịnh đạo suy, Ma Giáo đương cực thịnh, Ma Giáo giáo chủ còn công nhiên ủng hộ Chu Văn Doãn.</font> <font face="Default" color="#ffffff" >Nếu như Ma Giáo và Chu Văn Doãn được thể,</font> <font face="Default" color="#ffffff" >triều đình và Võ Lâm sẽ gặp nhiều tai họa.</font>
 story_82510_3=<font face="Default" color="#ffffff" >Đúng vậy, Võ Lâm và đương kim hoàng thượng liên thủ, đánh bại mưu đồ của Ma Giáo và Chu Văn Doãn. Từ đó Ma Giáo thất bại hoàn toàn, Võ Lâm tránh được tai họa.</font> <font face="Default" color="#ffffff" >Triều đình để biểu dương công lao của Bát Đại Môn Phái đã ban Đan Thư Thiết Khoán, muôn đời có hiệu lực, lúc quan trọng có thể trừ họa cho môn phái.</font>
-story_82511_1=<font face="Default" color="#ffffff" >Không phải lo cho ta, giúp ta chăm sóc hai mẫu </font> <font face="Default" color="#ffffff" >tử</font> <font face="Default" color="#ffffff" >trên xe, họ là thân nhân của Đinh gia. Ngươi...nhất định phải...bảo bệ họ, dẫn họ...rời khỏi đây..., còn....có sát thủ...đuổi theo. Đi...</font>
 story_82512_1=<font face="Default" color="#ffffff" >Chưởng môn lấy việc lớn làm trọng, triều đình mà có trách tội, Đường Môn sao có thể đối kháng được.</font>
 story_82512_2=<font face="Default" color="#ffffff" >Ngươi</font> <font face="Default" color="#ffffff" >phải nghĩ cho kỹ,</font> <font face="Default" color="#ffffff" >nếu như triều đình có truy xét, ta sẽ tống cổ ngươi ra khỏi Đường Môn, chứng tỏ việc này và Đường Môn không có liên quan gì đến nhau cả, đều do mình ngươi.</font>
 story_82513_1=<font face="Default" color="#ffffff" >Đa tạ ơn cứu mạng của đại hiệp, tiểu nữ không có gì để báo đáp, xin nhận của tiểu nữ một lạy! </font>
@@ -195,7 +191,7 @@ storymenu_82513_1=<font face="Default" color="#ffffff" >Mau đứng dậy, mau �
 storymenu_82513_2=Tên đầy đủ <font face="Default" color="#ffffff" >của hắn</font> <font face="Default" color="#ffffff" >là Lôi Quán Nhĩ, tiếc là chưa được gặp. Nghe nói hắn ẩn cư rồi, không dễ tìm.</font>
 storymenu_82513_3=<font face="Default" color="#ffffff" >Tại hạ có đồng ý với Cố Anh</font> <font face="Default" color="#ffffff" >phải</font> <font face="Default" color="#ffffff" >chăm sóc mọi người thật tốt, kể cả chân trời góc bể ta cũng sẽ hộ tống mọi người. Ta cũng có cơ hội thưởng ngoạn phong cảnh thập tuyệt chi ngũ, đi thôi.</font>
 storymenu_82514_1=<font face="Default" color="#ffffff" >Tại sao Ma Đao Đường lại gọi Đinh Cửu Trùng và Tứ Đại Khấu là Ma Giáo?</font> <font face="Default" color="#ffffff" >Năm xưa chúng ta liên thủ với triều đình chống lại Ma Giáo, đến nay sao lại giúp đỡ Ma Giáo?</font>
-DialogID_82535=<font face="Default" color="#ffffff" >       </font>
+DialogID_82535=<font face="Default" color="#ffffff" > </font>
 DialogID_82536=<font face="Default" color="#ffffff" >May mà ngươi ra tay tương trợ, nếu không mạng nhỏ này đã không còn.</font>
 DialogID_82541=<font face="Default" color="#ffffff" >Mảnh giấy viết xong rồi, cầm đi đi!</font>
 DialogID_82544=<font face="Default" color="#ffffff" >Âm Khuyết các ngươi cần đưa các ngươi! Trả ca ca của ta lại đây,… Ca ca ta đến đây, chờ ta.</font>
@@ -226,7 +222,6 @@ hunterinfo_82513=Đánh bại <a href="findnpc_new,city05,AttackNPC_tm5nei_lacke
 hunterinfo_82514=Đánh bại <a href="findnpc_new,city05,AttackNPC_tm5nei_follower" style="HLStype1">đệ tử Võ Quán bỉ ổi</a>
 hunterinfo_82515=Yến Song Hành bị người của Hóa Địa Lão Tổ theo dõi, nhất định là bọn chúng cũng đến vì Âm Khuyết, đánh bại <a href="findnpc_new,groupscene008_5nei,AttackNPC_0tm5nei_mountain01" style="HLStype1">nữ đệ tử Trùng Vương Cốc</a>, nhanh tìm Yến Song Hành (Đến Tô Châu trò chuyện cùng <a href="findnpc_new,city02,5nei_gbmdt001" style="HLStype1">Lí Lập</a>, có thể chuyển đến map Hoa Sơn)
 hunterinfo_82516=Thủ hạ của Tô Hồng Hồng cũng đã theo đến đây, đến thật không khéo, đánh bại <a href="findnpc_new,groupscene008_5nei,AttackNPC_0tm5nei_mountain02" style="HLStype1">Đệ tử Thiên Y Giáo</a>, nhanh tìm Yến Song Hành (Đến Tô Châu trò chuyện cùng <a href="findnpc_new,city02,5nei_gbmdt001" style="HLStype1">Lí Lập</a>, có thể chuyển đến map Hoa Sơn)
-hunterinfo_82517=Hóa Địa bị bệnh nhân dọa cho chết khiếp, đánh bại <a href="findnpc_new,school03,AttackNPC_0tm5nei_huadi01" style="HLStype1">nữ đệ tử Trùng Vương Cốc</a>, báo thù cho Mộ Thục Tử
 hunterinfo_82518=Trác Bắc cũng đuổi theo đến đây rồi, tình hình thật tệ. Đánh bại <a href="findnpc_new,groupscene008_5nei,AttackNPC_0tm5nei_mountain03" style="HLStype1">hộ vệ Trác Bắc</a>, nhanh đến đỉnh Hoa Sơn thông báo cho Yến Song Hành (Đến Tô Châu trò chuyện cùng <a href="findnpc_new,city02,5nei_gbmdt001" style="HLStype1">Lí Lập</a>, có thể chuyển đến map Hoa Sơn)
 interactinfo_82535=Về <a href="findnpc_new,school05,NPC_tm5nei_xiansuo" style="HLStype1">Rừng Trúc</a>, điều tra tình hình của Đường Doanh sư tỷ.
 interactinfo_82536=Trò chuyện cùng <a href="findnpc_new,school05,NPC_tm5nei_sucker01" style="HLStype1">Hồ Xán</a>, hỏi thăm vết thương của hắn
@@ -412,4 +407,9 @@ SubmitNpcEx_57538=Trả nhiệm vụ: <a href="findnpc_new,school05,WorldNpc0220
 hunterinfo_82504=Đến Ác Nhân Cốc-<a href="findnpc_new,born02,PlotDoor00035" style="HLStype1">Tuyết Sơn Đỉnh</a>, lấy Bạo Vũ Lê Hoa Châm về.
 story_82501_1=<font face="Default" color="#ffffff" >Tuân theo nguyên tắc giang hồ thì đã không đến cướp Bạo Vũ Lê Hoa Châm, mà người vừa nãy nhìn quen quen. Thôi bỏ đi nhất thời không thể nghĩ ra, vẫn nên đi cứu Mỹ Kiều trước.</font>
 story_menu_82508=<font face="Default" color="#ffffff" >Lão lão, Mỹ Kiều tỉnh rồi,</font> <font face="Default" color="#ffffff" >"Ma Đao Đường" bảo đến Cực Lạc Cốc-Tuyết Sơn lấy Bạo Vũ Lê Hoa Châm về.</font>
+convoyinfo_82501=Đánh bại sát thủ đang đuổi theo, bảo vệ <a href="findnpc_new,city05,NPC_4nei_tm_xianren02" style="HLStype1">Đường Tị Tùng</a>
+hunterinfo_82506=Diệt <a href="findnpc_new,city03,AttackNPCxszhh_4nei_zhuibing" style="HLStype1">Ma Đao Đường Sát Thủ</a> đang đuổi theo
+hunterinfo_82507=Giữa đường xuất hiện người của Ma Đao Đường, tiêu diệt <a href="findnpc_new,city03,AttackNPCxszhh_4nei_kill01" style="HLStype1">Sát Thủ Ma Đao Đường</a>.
+hunterinfo_82517=Hóa Địa bị bệnh nhân dọa cho chết khiếp, đánh bại <a href="findnpc_new,school03,AttackNPC_0tm5nei_huadi01" style="HLStype1">nữ đệ tử Trùng Vương Cốc</a>, báo thù cho Mộ Thục Tử
+story_82511_1=<font face="Default" color="#ffffff" >Không phải lo cho ta, giúp ta chăm sóc hai mẫu </font> <font face="Default" color="#ffffff" >tử</font> <font face="Default" color="#ffffff" >trên xe, họ là thân nhân của Đinh gia. Ngươi...nhất định phải...bảo bệ họ, dẫn họ...rời khỏi đây..., còn....có sát thủ...đuổi theo. Đi...</font>
 

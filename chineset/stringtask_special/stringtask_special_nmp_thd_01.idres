@@ -704,7 +704,6 @@ storymenu_12802_2=<font face="Default" color="#ffffff" >然後呢？</font>
 storymenu_12802_3=<font face="Default" color="#ffffff" >這是那位高人怕名字裡都帶了桃字，會為你</font><font face="Default" color="#ffffff" >們</font><font face="Default" color="#ffffff" >帶來無窮無盡的煩惱。</font>
 storymenu_12802_4=<font face="Default" color="#ffffff" >好的，我知道了。</font>
 storymenu_12810_1=<font face="Default" color="#ffffff" >弟子在島上發現可疑蒙面人，卻因武功不濟，未能將其擒獲。</font>
-storymenu_12810_2=<font face="Default" color="#ffffff" >弟子只覺這蒙面人身法奇快，武功高出我甚多，但事到臨頭卻並未對我下殺手，很是奇怪……</font>
 storymenu_12810_4=<font face="Default" color="#ffffff" >那蒙面人莫非正是「海龍王」吳滔天派來的探子？</font>
 storymenu_12810_6=<font face="Default" color="#ffffff" >師父所言甚是，弟子定銘記心間！</font>
 storymenu_12811_1=<font face="Default" color="#ffffff" >不知師父為何不允？</font>
@@ -791,8 +790,6 @@ SubmitNpcEx_39719=與<a href="findnpc_new,school10,thd_001" style="HLStype1">黃
 SubmitNpcEx_39744=與<a href="findnpc_new,school10,thd_034" style="HLStype1">黃靈樞</a>交談
 SubmitNpcEx_39753=將找到的琴交給<a href="findnpc_new,school10,thd_019" style="HLStype1">垂釣翁</a>
 SubmitNpcEx_39904=前去找<a href="findnpc_new,school10,thd_004" style="HLStype1">桃兒</a>，將金無箴配製的藥劑交給她飲用
-collectinfo_12825=通過傳送門(-604,-90)到桃花陣外，去東邊小島上擊殺<a href="findnpc_new,school10,thd_rm_tf" style="HLStype1">海盜</a>，獲得其信物
-collectinfo_12826=通過傳送門(-604,-90)到桃花陣外，去東邊小島上擊殺<a href="findnpc_new,school10,thd_rm_gb" style="HLStype1">官兵</a>，獲得其信物
 collectinfo_12850=前往<a href="findnpc_new,school10,Gather0002thd" style="HLStype1">蜂巢</a>處收集蜂蜜
 interactinfo_12879=與<a href="findnpc_new,school10,thd_020" style="HLStype1">段海清</a>交談
 interactinfo_12888=將曲譜《高山流水》前奏(禁地掉落)交給<a href="findnpc_new,school10,thd_017" style="HLStype1">程媛</a>
@@ -838,7 +835,6 @@ collectinfo_12857_1=收集<a href="findnpc_new,," style="HLStype1"></a>精粉（
 collectinfo_12858_1=收集<a href="findnpc_new,," style="HLStype1"></a>精珠（巧匠分解低級裝備獲得）
 collectinfo_12859_1=收集<a href="findnpc_new,," style="HLStype1"></a>麻線（裁縫分解低級裝備獲得）
 collectinfo_12860_1=收集<a href="findnpc_new,," style="HLStype1"></a>薄荷（藥師採集獲得）
-hunterinfo_12827_1=去千燈鎮，挑戰江湖勢力天香茶林，擊敗<a href="findnpc_new,born04,montg02004" style="HLStype1">霞衣殺手</a>
 hunterinfo_12828_1=去成都，挑戰江湖勢力金針沈家，擊敗<a href="findnpc_new,city05,montg03004" style="HLStype1">金針沈家護院</a>
 hunterinfo_12829_1=去成都，挑戰江湖勢力徐家莊，擊敗<a href="findnpc_new,city05,montg04004" style="HLStype1">徐家莊護院</a>
 hunterinfo_12831_1=去煙雨莊，挑戰江湖勢力鹽幫，擊敗<a href="findnpc_new,born03,montg07003" style="HLStype1">鹽幫監工</a>
@@ -899,7 +895,6 @@ hunterinfo_12840=去雞鳴驛，挑戰江湖勢力惡虎山寨，擊敗<a href="
 DialogID_12893=<font face="Default" color="#ffffff" >你拿到</font><font face="Default" color="#ffffff" >《橫心肅殺第一篇》</font><font face="Default" color="#ffffff" >了嗎</font><font face="Default" color="#ffffff" >？</font>
 ZZAnswerText2_7008=海月清輝曲
 ZZAnswerText2_7726=鳳凰翎
-hunterinfo_12830_1=去成都，挑戰江湖勢力浣花山莊，擊殺<a href="findnpc_new,city05,montg01002" style="HLStype1">浣花派劍衛</a>
 hunterinfo_12832_1=去丐幫，挑戰江湖勢力百獸莊，擊敗<a href="findnpc_new,school02,montg11002" style="HLStype1">訓狼師</a>
 hunterinfo_12833=去少林，挑戰江湖勢力嵩山鐵劍門，擊敗<a href="findnpc_new,school08,bosstg12001" style="HLStype1">左一鳴</a>
 hunterinfo_12835_1=去少林，挑戰江湖勢力嵩山鐵劍門，擊敗<a href="findnpc_new,school08,montg12002" style="HLStype1">嵩山派狂徒</a>
@@ -937,7 +932,6 @@ okmenu_12874=<font face="Default" color="#ffffff" >我不管你們是誰，速�
 okmenu_12896=<font face="Default" color="#ffffff" >這是第一軒梁霄要我送給你的信件。</font>
 specialinfo_348=四月島共有三處桃花陣，通過任意一個桃花陣，證明自己已經熟悉了桃花陣的走法
 story_12800_2=<font face="Default" color="#ffffff" >可是</font><font face="Default" color="#ffffff" >海邊之人卻畏四月島如蛇蠍，不敢近島四十里以內</font><font face="Default" color="#ffffff" >。</font><font face="Default" color="#ffffff" >尋常</font><font face="Default" color="#ffffff" >船家舟子，只是聽到</font><font face="Default" color="#ffffff" >四月島</font><font face="Default" color="#ffffff" >三字</font><font face="Default" color="#ffffff" >，任憑</font><font face="Default" color="#ffffff" >你</font><font face="Default" color="#ffffff" >出多少金錢</font><font face="Default" color="#ffffff" >也不敢去</font><font face="Default" color="#ffffff" >。</font>
-story_12800_3=<font face="Default" color="#ffffff" >也有說</font><font face="Default" color="#ffffff" >上四月島的人都不知端由地迷失了方向，結果就被惡魔捉去割了舌頭、刺聾耳朵百般折磨，還有人說島上惡魔殺人不眨眼，最愛挖人心肝肺腸。
 story_12800_4=<font face="Default" color="#ffffff" >但近年來，時有天賦異稟、性情不羈的武林才俊從東海而來，自稱是第一軒弟子。只要有第一軒弟子在江湖上被人無故欺凌，就會受到第一軒所有門人的追擊報復。第一軒弟子行事輕狂，不拘泥禮法，蔑視沽名釣譽的大俠，卻也將作奸犯科的惡人捉到島上刺耳割舌，充當僕人。這一切種種，讓武林中的宵小之徒聞「第一軒」之名而色變，而名門大派見到第一軒弟子也大多會禮讓三分。</font>
 story_12802_3=<font face="Default" color="#ffffff" >幾年前，一位武林高手來制服了河伯，救了全村人性命。但那高人認為</font><font face="Default" color="#ffffff" >桃源村與四月島名稱犯沖，便將本村改為了碧螺村</font><font face="Default" color="#ffffff" >。</font>
 story_12802_4=<font face="Default" color="#ffffff" >少俠</font><font face="Default" color="#ffffff" >角對</font><font face="Default" color="#ffffff" >本村</font><font face="Default" color="#ffffff" >有恩，本應傾力幫助，但去東海四月島水勢凶險，村子裡</font><font face="Default" color="#ffffff" >的</font><font face="Default" color="#ffffff" >張三早年受過第一軒主恩惠，</font><font face="Default" color="#ffffff" >識得路徑，更兼駕船的本領高超</font><font face="Default" color="#ffffff" >。但這人脾氣古怪之極，恐怕</font><font face="Default" color="#ffffff" >不會輕易相助</font><font face="Default" color="#ffffff" >。</font>
@@ -957,7 +951,6 @@ story_12813_5=<font face="Default" color="#ffffff" >    這些年來，我一直
 story_12818_2=<font face="Default" color="#ffffff" >    我初步探查了一番，這次來四月島附近的賊人絕非尋常海盜可比，他們秩序井然，背後定有一個強有力的領導者，恐怕師父所料不錯，</font><font face="Default" color="#ffffff" >帶頭的</font><font face="Default" color="#ffffff" >正是有「海龍王」之稱的海龍幫幫主吳滔天。</font>
 story_12818_3=<font face="Default" color="#ffffff" >    這些宵小想染指四月島這片淨土終究癡心妄想，武之一道，本就是為了驅除奸惡而存在！</font>
 story_12819_3=<font face="Default" color="#ffffff" >    那些所謂的江湖好漢怎麼樣，我懶得管。至於四月島，雖然</font><font face="Default" color="#ffffff" >我們以</font><font face="Default" color="#ffffff" >超然絕世</font><font face="Default" color="#ffffff" >的姿態自居</font><font face="Default" color="#ffffff" >，</font><font face="Default" color="#ffffff" >但</font><font face="Default" color="#ffffff" >對於家門口的惡人還是應該先下手為強，希望你能去請示下大師姐的意見。</font>
-story_12861_3=<font face="Default" color="#ffffff" >    被趕出家族後，雷哥執意要上四月島拜師，要為結義兄弟和死去家人報仇。</font><font face="Default" color="#ffffff" >我與其相戀多年，其</font><font face="Default" color="#ffffff" >為求武道極致</font><font face="Default" color="#ffffff" >狠心離開</font><font face="Default" color="#ffffff" >。初時黃古蕭對其拒而不見，在一番辛苦磨礪之後，終於被收為弟子。</font>
 story_12861_5=<font face="Default" color="#ffffff" >    他信中還說，藝未成時，不願出島與我相見。而我也是天性倔強之人，如今費盡周折尋到四月島上，還險些丟了性命。</font><font face="Default" color="#ffffff" >雷哥他</font><font face="Default" color="#ffffff" >現在不願見</font><font face="Default" color="#ffffff" >我</font><font face="Default" color="#ffffff" >，</font><font face="Default" color="#ffffff" >我雖然</font><font face="Default" color="#ffffff" >傷心</font><font face="Default" color="#ffffff" >，但對他也很是</font><font face="Default" color="#ffffff" >理解。</font>
 story_12862_1=<font face="Default" color="#ffffff" >     聽大家說來了個不錯的新弟子，想必就是你了。</font><font face="Default" color="#ffffff" >第一軒弟子大都逍遙不羈，但也不要忘了同門之間相互尊重，除了修煉武功，也莫要荒廢了天文地理、醫卜星相音律等雜學的學習。</font>
 story_12862_2=<font face="Default" color="#ffffff" >    四月軒可謂是東海上的一顆明珠，島上美麗景色甚多，出了門派居住區域，東南有彈指峰，西北有兩忘峰，西南有大佛巖，若無要事，這些地方你都可去走走看看。</font>
@@ -975,4 +968,11 @@ storymenu_12812_1=<font face="Default" color="#ffffff" >我想向師姐請教第
 storymenu_12818_1=<font face="Default" color="#ffffff" >多謝師兄，師父命我協助二師兄和大師姐懲治</font><font face="Default" color="#ffffff" >滋擾四月島周圍海域的</font><font face="Default" color="#ffffff" >惡人，並刺耳割舌帶回島上。</font>
 storymenu_12818_2=<font face="Default" color="#ffffff" >這海龍幫在附近小島駐紮，莫非要針對第一軒不成？</font>
 storymenu_12819_1=<font face="Default" color="#ffffff" >師兄若使出全力，我必毫無還手之力。依師兄看來，我們該如何懲治離第一軒不遠的奸惡之徒？</font>
+collectinfo_12825=通過傳送門(-604,-90)到桃花陣外，去東邊小島上攻克<a href="findnpc_new,school10,thd_rm_tf" style="HLStype1">海盜</a>，獲得其信物
+collectinfo_12826=通過傳送門(-604,-90)到桃花陣外，去東邊小島上攻克<a href="findnpc_new,school10,thd_rm_gb" style="HLStype1">官兵</a>，獲得其信物
+hunterinfo_12827_1=去千燈鎮，挑戰江湖勢力天香茶林，擊敗<a href="findnpc_new,born04,montg02004" style="HLStype1">霞衣隱衛</a>
+hunterinfo_12830_1=去成都，挑戰江湖勢力浣花山莊，攻克<a href="findnpc_new,city05,montg01002" style="HLStype1">浣花派劍衛</a>
+story_12800_3=<font face="Default" color="#ffffff" >也有說</font><font face="Default" color="#ffffff" >上四月島的人都不知端由地迷失了方向，結果就被惡魔捉去割了舌頭、刺聾耳朵百般折磨，還有人說島上惡魔攻克不眨眼，最愛挖人心肝肺腸。
+story_12861_3=<font face="Default" color="#ffffff" >    被趕出家族後，雷哥執意要上四月島拜師，要為結義兄弟和死去家人報復。</font><font face="Default" color="#ffffff" >我與其相戀多年，其</font><font face="Default" color="#ffffff" >為求武道極致</font><font face="Default" color="#ffffff" >狠心離開</font><font face="Default" color="#ffffff" >。初時黃古蕭對其拒而不見，在一番辛苦磨礪之後，終於被收為弟子。</font>
+storymenu_12810_2=<font face="Default" color="#ffffff" >弟子只覺這蒙面人身法奇快，武功高出我甚多，但事到臨頭卻並未對我下毒手，很是奇怪……</font>
 

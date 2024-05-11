@@ -42,7 +42,6 @@ DialogID_71818=<font face="Default" color="#ffffff" >外域武林人士沒有什
 DialogID_71819=<font face="Default" color="#ffffff" >我能收集到的情報都在這了，給你。</font>
 DialogID_71820=<font face="Default" color="#ffffff" >賊人為了伏擊我們多有埋伏，你見機行事！重要的是要取出經書！</font><font face="Default" color="#ffffff" >這些東西你拿著以備不時之需。</font>
 DialogID_71821=<font face="Default" color="#ffffff" >這些東西</font><font face="Default" color="#ffffff" >你且帶著以備不時之需！</font>
-DialogID_71822=<font face="Default" color="#ffffff" >我已通過內應的消息知道了他們部分頭目的方位，你去刺殺他們！</font>
 DialogID_71823=<font face="Default" color="#ffffff" >這些賊人竟十分小心，你的幾位前輩還沒有探出關押峨眉弟子的牢房。你前去查探，若有發現便用此處通知我們！</font><font face="Default" color="#ffffff" >這些東西你拿著，以備不時之需！</font>
 DialogID_71876=<font face="Default" color="#ffffff" >盛滿清水的水缸</font>
 DialogID_71878=<font face="Default" color="#ffffff" >很好，看來我唐門復興有望了。</font>
@@ -147,7 +146,6 @@ hunterinfo_71654=擊敗<a href="findnpc_new,city02,waiyuwulin_88_042" style="HLS
 hunterinfo_71655=擊敗<a href="findnpc_new,city02,waiyuwulin_88_043" style="HLStype1">阿里不丹</a>
 hunterinfo_71656=去被外域佔領的門派中擊敗外域武林衛兵
 hunterinfo_71657=去被外域佔領的門派中擊敗外域武林巡防兵
-hunterinfo_71658=去被外域佔領的門派中擊敗外域武林殺手
 hunterinfo_71659=去被外域佔領的門派中擊敗外域武林刺客
 hunterinfo_71660=去被外域佔領的門派中擊敗外域武林暗哨
 hunterinfo_71661=清繳<a href="findnpc_new,school08,npc_mmzw_wyxg_area" style="HLStype1">外域武林人士</a>
@@ -184,7 +182,6 @@ hunterinfo_71820=擊敗<a href="findnpc_new,city02,npc_mmzw_other_009" style="HL
 hunterinfo_71821=擊敗<a href="findnpc_new,school02_mie,NPC_mm_dy_26" style="HLStype1">盍冠</a>
 hunterinfo_71822=擊敗<a href="findnpc_new,school02_mie,NPC_mm_dy_27" style="HLStype1">夏侯保</a>
 hunterinfo_71823=擊敗<a href="findnpc_new,school02_mie,NPC_mm_dy_28" style="HLStype1">司寇以成</a>
-hunterinfo_71824=好像被<a href="findnpc_new,school05_mie,mie_taskboss_001" style="HLStype1">巡邏侍衛</a>發現，務必火速將其滅口，以防此事敗露
 hunterinfo_71825=擊敗<a href="findnpc_new,,NPC_mm_dy_32" style="HLStype1">NPC_mm_dy_32</a>
 hunterinfo_71826=擊敗<a href="findnpc_new,,NPC_mm_dy_33" style="HLStype1">NPC_mm_dy_33</a>
 hunterinfo_71827=擊敗<a href="findnpc_new,,NPC_mm_dy_34" style="HLStype1">NPC_mm_dy_34</a>
@@ -240,15 +237,8 @@ interactinfo_71876=尋找第一處<a href="findnpc_new,school05_mie,mie_tm_007" 
 interactinfo_71878=已完成投毒，回去向<a href="findnpc_new,school05_mie,mie_tm_005" style="HLStype1">甄夜輝</a>稟報
 interactinfo_71879=尋找第二處<a href="findnpc_new,school05_mie,mie_tm_008" style="HLStype1">水缸</a>，向其中投入毒粉
 interactinfo_71880=尋找第三處<a href="findnpc_new,school05_mie,mie_tm_009" style="HLStype1">水缸</a>，向其中投入毒粉
-interactinfo_71881=擊殺章仁琛(外域高手)
 interactinfo_71882=與<a href="findnpc_new,school03_mie,mie_jz_002" style="HLStype1">何韻施</a>商談字畫真跡被私藏一事
-interactinfo_71883=擊殺夏侯全宏(外域高手)
 interactinfo_71884=龐先宏(外域高手)
-interactinfo_71885=擊殺軒轅策維(外域高手)
-interactinfo_71886=擊殺都剛厚(外域高手)
-interactinfo_71887=擊殺令狐廣義(外域高手)
-interactinfo_71888=擊殺危辰祥(外域高手)
-interactinfo_71889=擊殺鞠學超(外域高手)
 interactinfo_71890=好像有呼救聲傳來，<a href="findnpc_new,school07_mie,NPC_mm_dy_35" style="HLStype1">快去看看</a>
 okmenu_71651=<font face="Default" color="#ffffff" >閣下遠道而來，不知車上所運為何物？</font>
 okmenu_71652=<font face="Default" color="#ffffff" >燕大俠所言極是。</font>
@@ -294,7 +284,6 @@ okmenu_71821=<font face="Default" color="#ffffff" >弟子明白！</font>
 okmenu_71822=<font face="Default" color="#ffffff" >弟子</font><font face="Default" color="#ffffff" >遵命！</font>
 okmenu_71823=<font face="Default" color="#ffffff" >弟子遵命！</font>
 okmenu_71876=<font face="Default" color="#ffffff" >將毒粉投入水中</font>
-okmenu_71878=<font face="Default" color="#ffffff" >事情我已辦妥</font><font face="Default" color="#ffffff" >,雖然半途有人察覺了，但是我已將其滅口，不會有人發現的。</font>
 okmenu_71879=<font face="Default" color="#ffffff" >將毒粉投入水中</font>
 okmenu_71880=<font face="Default" color="#ffffff" >將毒粉投入水中</font>
 okmenu_71882=<font face="Default" color="#ffffff" >好的，我這就去</font>
@@ -357,4 +346,15 @@ SubmitNpcEx_71703=找<a href="findnpc_new,school04_mie,mie_jl_001" style="HLStyp
 SubmitNpcEx_71704=找<a href="findnpc_new,school03_mie,mie_jz_002" style="HLStype1">何韻施</a>提交任務
 collectinfo_71702=通過<a href="findnpc_new,school13,newmp_xuedao_mm_001" style="HLStype1">孟誠</a>的審核，獲得血刀堂信物（可以從惡人谷(541 921)找到薛勁辱進入血刀堂）
 interactinfo_71677=找到<a href="findnpc_new,school13,newmp_xuedao_mm_001" style="HLStype1">孟誠</a>，將血刀堂引薦信交給他（可以從惡人谷(541 921)找到薛勁辱進入血刀堂）
+DialogID_71822=<font face="Default" color="#ffffff" >我已通過內應的消息知道了他們部分頭目的方位，你去突擊他們！</font>
+hunterinfo_71658=去被外域佔領的門派中擊敗外域武林隱衛
+hunterinfo_71824=好像被<a href="findnpc_new,school05_mie,mie_taskboss_001" style="HLStype1">巡邏侍衛</a>發現，務必火速將其解決後患，以防此事敗露
+interactinfo_71881=攻克章仁琛(外域高手)
+interactinfo_71883=攻克夏侯全宏(外域高手)
+interactinfo_71885=攻克軒轅策維(外域高手)
+interactinfo_71886=攻克都剛厚(外域高手)
+interactinfo_71887=攻克令狐廣義(外域高手)
+interactinfo_71888=攻克危辰祥(外域高手)
+interactinfo_71889=攻克鞠學超(外域高手)
+okmenu_71878=<font face="Default" color="#ffffff" >事情我已辦妥</font><font face="Default" color="#ffffff" >,雖然半途有人察覺了，但是我已將其解決後患，不會有人發現的。</font>
 

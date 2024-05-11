@@ -75,7 +75,6 @@ accept_50011_1=<font face="Default" color="#ffffff" >Chuyện Đường Quan Qu�
 accept_50012_1=<font face="Default" color="#ffffff" >　　Ngươi nói Thiên Bảo Trại gần đây có chuyện lạ ư?　</font><font face="Default" color="#8fd6ef" >　(Hoàng Tứ suy nghĩ)　</font><font face="Default" color="#ffffff" >　Hình như là có, cách đây không lâu ta có phát hiện một xác chết, nhưng lúc đó không chú ý. Năm nay người chết đói rất nhiều nên lão tử cũng không chú ý lắm...</font>
 accept_50013_1=<font face="Default" color="#ffffff" > Phụ Cận Thiên Bảo Trại lại xảy ra chuyện, nhanh báo cho trại chủ. Thiếu Hiệp, xem ngươi cũng tốt, ta có vị Hảo Hữu Trịnh Thông Thiên ở Thiên Bảo Trại làm khán hộ, ngươi có thể tìm hắn giúp ngươi gặp Lôi trại chủ. </font>
 accept_50015_1=<s>Thiếu Hiệp xin mời! Tôi dẫn ngài đi gặp Lôi Trại Chủ.
-accept_50017_1=Báo cho môn chủ ngươi, Thiên Bảo Trại nhiều năm nay là lão tử và huynh đệ dùng mồ hôi và máu đổi lấy về. Đường Môn tự cho là giang hồ danh môn, lại có ác đồ dùng độc giết người, cái gọi là danh môn cũng chỉ có thế. Xin Đường Môn các ngươi sau này đừng đến quấy rầy Thiên Bảo Trại của ta!
 accept_50019_1=<font face="Default" color="#ffffff" > </font><font face="Default" color="#ffffff" >Ta có phương thuốc cần dùng đến bách hương hoa làm dược liệu. Bách hương hoa trong trại ta cũng có, chỉ là mấy ngày nữa mới đến lúc ra hoa. Ngươi giúp ta thu một ít đưa cho Trịnh Thông Thiên, hắn sẽ cho ngươi biết những điều mà ngươi muốn biết. </font>
 accept_50020_1=<font face="Default" color="#ffffff" > Việc ngươi nói ta biết rất ít. Hôm nay nhiều người trong Thiên Bảo Trại bất mãn với Lôi Quan Tước, ngược lại rất khâm phục nhị trại chủ, nhị trại chủ luôn coi trọng huynh đệ trong trại. Hừm! Năm đó nếu Lôi Quan Tước không dùng quỉ kế thì ngôi vị trại chủ cũng không thuộc về hắn. </font>
 accept_50022_1=<font face="Default" color="#ffffff" > Ngươi có điều không biết, Lôi Quan Tước và Đường Quan Quần cấu kết nhau, Đường Quan Quần muốn dùng độc dược Đường Môn độc nhất vô nhị làm cho bọn người Đường Môn có cái nhìn khác hơn về hắn, nhưng Lôi Quan Tước muốn lợi dụng Đường Quan Quần chế độc dược Đường Môn làm bại hoại Đường Môn tăng cường Thế Lực Thiên Bảo Trại, họ liên kết, dùng người sống thử thuốc. Do vậy chỉ dựa vào ngươi tuyệt không phải đối thủ của chúng, Thiếu Hiệp đừng manh động. Đúng rồi, Hoàng Tứ có việc tìm ngươi, Thiếu Hiệp đi đi. </font>
@@ -340,9 +339,7 @@ accept_50035_1=<font face="Default" color="#ffffff" >Là...Là ngươi, ma đ�
 complete_50033=<font face="Default" color="#ffffff" >  A…Cứu mạng…</font> <font face="Default" color="#ffffff" >Đừng</font> <font face="Default" color="#ffffff" >ép ta…Ta không…có độc!</font>
 CanAcceptMenu_50471=Khả năng có đệ tử Tinh Túc Phái đã lén vào Đường Môn!
 CompleteMenu_50181=Gia Cát Tịnh chắc chắn vẫn ở trong Cán Hoa Kiếm Phái
-CompleteMenu_50474=Môn chủ, ta đã xử lý Tinh Túc Phái Sát Thủ trong môn
 complete_50445=<s>Xem cách ngươi ăn mặc thì là người của Đường Môn, đến tìm Tinh Túc Phái ta có việc gì?
-complete_50471=<s>Hừ, sát thủ Tinh Túc Phái thật lợi hại.
 complete_50474=<s>Hừ, Tinh Túc Phái, món nợ này sớm muộn cũng phải tính.
 context_50157=Ngươi đến thật đúng lúc, cách đây không lâu, Tây Môn Nhất Kiếm của Cán Hoa Kiếm Phái đã mua toàn bộ Khúc Tơ Tằm. Tiệm nhỏ đến nay vẫn chưa tăng thêm hàng, nếu ngươi cần có thể đi tìm Tây Môn Nhất Kiếm, xem y có thể để lại cho ngươi một ít không!
 context_50179=<s>Nhiều năm rồi vẫn không biết y ở Cán Hoa Kiếm Phái hay không, ngươi có thể giúp ta đi hỏi được không, tên của y là Gia Cát Tịnh.
@@ -351,6 +348,33 @@ context_50469=<s>Ta thấy Chu Ngọc mang đến không ít đệ tử Tinh Tú
 context_50471=<s>Cái gì? Tinh Túc Phái càng ngày càng to gan… <BR><s>Không được! Người đâu, có thích khách!
 context_50478=<s>Chu Ngọc đã về lại Tinh Túc Phái… nhưng, ta dù sao cũng là đồng môn với hắn… thế này đi, Băng Tàm của ta bị một tên dã hòa thượng lừa đi rồi, ngươi giúp ta lấy về lại, ta sẽ báo cho ngươi nơi Chu Ngọc đang ở.
 target_50179=<s>Đến Cán Hoa Kiếm Phái tìm <a href="findnpc_new,city05,WorldNpc09802" style="HLStype1">Tây Môn Nhất Kiếm</a> hỏi việc liên quan Gia Cát Tịnh!
+CompleteMenu_50207=Ta đã giúp ngươi báo thù rồi.
+CompleteMenu_50474=Môn chủ, ta đã xử lý Tinh Túc Phái Sát Thủ trong môn
+UncompleteMenu_50289=Ta chưa kịp làm xong kẻ địch đã đột ngột xuất hiện
+UncompleteMenu_50290=Ta chưa kịp làm xong kẻ địch đã đột ngột xuất hiện
+UncompleteMenu_50291=Ta chưa kịp làm xong kẻ địch đã đột ngột xuất hiện
+UncompleteMenu_50293=Ta chưa kịp làm xong kẻ địch đã đột ngột xuất hiện
+UncompleteMenu_50295=Ta chưa kịp làm xong kẻ địch đã đột ngột xuất hiện
+UncompleteMenu_50296=Ta chưa kịp làm xong kẻ địch đã đột ngột xuất hiện
+UncompleteMenu_50297=Ta chưa kịp làm xong kẻ địch đã đột ngột xuất hiện
+UncompleteMenu_50299=Ta chưa kịp làm xong kẻ địch đã đột ngột xuất hiện
+accept_50017_1=Báo cho môn chủ ngươi, Thiên Bảo Trại nhiều năm nay là lão tử và huynh đệ dùng mồ hôi và máu đổi lấy về. Đường Môn tự cho là giang hồ danh môn, lại có ác đồ dùng độc sát nhân, cái gọi là danh môn cũng chỉ có thế. Xin Đường Môn các ngươi sau này đừng đến quấy rầy Thiên Bảo Trại của ta!
+complete_50471=<s>Hừ, sát thủ Tinh Túc Phái thật lợi hại.
+context_50285=Ta đã trúng ám khí của Sát Thủ Khoái Hoạt Lâm, cơ thể nhiễm kịch độc, phải lập tức tìm thảo dược ở gần đây mới có thể cứu mạng.
+context_50299=<s>Tên xấu xa Tư Đồ Đào trốn trong Bạch Mã Tự hưởng thụ, kẻ địch thì giao cho ta, lão tử không làm nữa. Ngươi muốn báo thù thì đến Bạch Mã Tự tìm hắn, tốt nhất là diệt hắn đi, ta mới giảm bực bội.
+context_50326=<s>Hỏng rồi, Hỗn Giang Long vừa gửi tin nói Sát Thủ Cẩm Y Vệ đang trên đường đến đây! Ba mươi sáu kế chạy là thượng sách, thiếu hiệp phiền ngươi đưa ta ra ngoài thành trốn.
+context_50329=<s>Còn có một cứ điểm ẩn náu, chuyên thực hiện các nhiệm vụ tập kích. Thích khách vừa nãy có lẽ là họ phái đến, trên kiếm có kịch độc, hãy cẩn thận.
+context_50424=Không ngờ lại có một thủ lĩnh Mật Tông trà trộn vào Hoa Triều Hội, nếu không nhanh tìm ra hắn, Hoa Triêu Hội chắc chắn sẽ còn xảy ra tai họa... Nguy! Lúc trước Vương Liệt nhất định từng tiếp xúc với tên thủ lĩnh đó, giờ hắn nhắm vào chúng ta, chắc sẽ có án mạng! Thiếu hiệp mau trở về bên Vương Liệt, ngăn Sát Thủ Mật Tông.
+context_50463=<s><font color="#0033FF">(Nếu Đường Tùng đã làm ra chuyện này, ta cũng không cần phải bán mạng cho hắn... Hay là trói hắn đến cho môn chủ, vạch trần âm mưu của hắn, bù đắp cho sai lầm của ta.)</font>
+target_50317=<s>Sau khi Tiêu diệt <a href="findnpc,city04,1264.35,-24.934,786.477,monrc041400" style="HLStype1">Thái Sấm</a> và <a href="findnpc,city04,1265.43,-24.5,785.11,monrc041500" style="HLStype1">Sát Thủ Bịt Mặt</a>,  đi Tìm <a href="findnpc_new,city04,WorldNpc10020" style="HLStype1">Đường Tần</a>xin giúp đỡ.
+target_50327=<s>Bảo vệ Tư Đồ Đào khỏi tấn công của <a href="findnpc,city04,771.25,-24.1,675.42,Summon00047" style="HLStype1">Thích Khách Cẩm Y Vệ</a>.
+target_50424=<s>Quay về bảo vệ<a href="findnpc_new,school03,WorldNpc03422" style="HLStype1">Vương Liệt</a>, đánh bại<a href="findnpc,school03,742,102,562,monrm030600" style="HLStype1">Sát Thủ Mật Tông</a>.
 target_50454=<s>Đưa phản đồ Tinh Túc Phái <a href="findnpc,born02,43.869,-2.715,250.780,monrv020800" style="HLStype1">Độc Hồ Hồ</a> ra tiêu diệt, sau đó đến chỗ Chu Ngọc hỏi việc tiếp theo.
 target_50474=<s>Giải quyết Tinh Túc Phái Sát Thủ lén vào Đường Môn, sau đó hồi bẩm Đường Thiên Hành.
+target_50479=<s>Đã biết được hành tung của Chu Ngọc, nhanh chóng tiêu diệt hắn, sau đó về Đường Môn phục mệnh.
+target_50502=<s>Nhận ủy thác của Mã Hổ, tiêu diệt U Minh Cung Chủ <a href="findnpc,scene03,864.387,3.226,742.297,monrf031000" style="HLStype1">Cơ Vô Sương </a> lấy thuốc giải để giải độc.
+target_50505=<s>Đến Tây Thôn Mộ Lâm tiêu diệt <a href="findnpc,scene03,956.5,1.65,892,monrf031200" style="HLStype1">Xích Đỉnh Xà</a> thu thập huyết của nó đem về Đường Môn giao cho <a href="findnpc_new,school05,WorldNpc02208" style="HLStype1">Lão Độc Cứu</a>.
+title_50545=Tấn công trút giận
+uncom_50207=<s>Thiếu hiệp, chuyện báo thù nhờ ngài rồi.
+uncom_50474=<s>Mau đi xử lý hết đám Sát Thủ.
 

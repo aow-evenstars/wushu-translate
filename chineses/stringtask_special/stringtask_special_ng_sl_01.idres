@@ -13,7 +13,7 @@ DialogID_80013=<font face="Default" color="#ffffff" >Sư huynh, người đến 
 DialogID_80014=<font face="Default" color="#ffffff" >...</font>
 DialogID_80016=<font face="Default" color="#ffffff" >Xà Sơn này là địa bàn của ta, ngươi xông đến hùng hổ như vậy làm gì chứ?</font>
 DialogID_80020=<font face="Default" color="#660000" >(Một thi thể bị đèn dầu thiêu cháy, khuôn mặt đen kịt không thể nhận rõ dung mạo, chỉ lờ mờ phát hiện yêu bài trên eo là Thanh Bối sư đệ) </font>
-DialogID_80021=<font face="Default" color="#ffffff" >……</font>
+DialogID_80021=<font face="Default" color="#ffffff" >...</font>
 DialogID_80024=<font face="Default" color="#ffffff" >Tổ Chân, sao nhanh vậy đã muốn đi? Nay tình hình Thiếu Lâm ra sao, có ai nghi ngờ ngươi không. Không được thì mau về đi, đừng để ta mất mặt.</font>
 DialogID_80026=<font face="Default" color="#ffffff" >Đã diễn kịch xong chưa? Sớm đã biết là ngươi giả vờ, ngươi tưởng mình thông minh ư? Từ lúc bắt đầu điều tra Tổ Chân ta đã biết ngươi là nhân vật này, có thể vào</font> <font face="Default" color="#ffffff" >Ma Đao Đường chúng ta</font> <font face="Default" color="#ffffff" >cũng xem như có bản lĩnh rồi, không phụ lòng Nha Bộc đại nhân lưu lại tính mệnh này. Hiện rại muốn sống ư? Diệt Tổ Chân!</font>
 DialogID_80027=<font face="Default" color="#ffffff" >Hữu dũng hữu mưu, thật không hổ danh là người được thiếu chủ ta xem trọng, việc này chỉ là thử nghiệm với ngươi mà thôi. Thiếu chủ ta muốn thành đại nghiệp, muốn chọn một số người trẻ tuổi xuất sắc, chí bảo môn phái gì đó chỉ là cái cớ thôi, vốn dĩ chúng ta không quan tâm, nếu ngươi theo ta, chí bảo môn phái nhất định trả lại ngươi.</font>
@@ -89,7 +89,6 @@ interactinfo_80024=Đã lấy được chứng cứ, nơi này không tiện ở
 interactinfo_80025=Lúc này Tổ Chân đã về? Vậy nên làm sao? Tùy cơ hành sự!
 interactinfo_80026=<a href="findnpc_new,city02,npc_4nei_sl_cz" style="HLStype1">Thôn trưởng</a> sao lại cười nhạt? Lẽ nào hắn đã biết được thân phận ta là có âm mưu khác? Mặc kệ, nói rõ mục đích rồi thừa cơ bỏ trốn.
 interactinfo_80027=Thà là ngọc vỡ, còn hơn ngói lành. Xem thử <a href="findnpc_new,city02,npc_4nei_sl_cz_55005" style="HLStype1">tên trưởng thôn</a> giả mạo này còn muốn giở trò gì
-interactinfo_80028=<a href="findnpc_new,city02,npc_4nei_sl_yapu_1" style="HLStype1">Nha Bộc</a>? Lại là <a href="findnpc_new,city02,npc_4nei_sl_yapu_1" style="HLStype1">Nha Bộc</a>? Ở Ma Đao Đường vô cùng nham hiểm, lần trước nhiều lần xong việc liền giết người diệt khẩu? Ta chi bằng nên tương kế tựu kế...
 interactinfo_80029=Không thể chiến đấu, chi bằng ở chỗ gần <a href="findnpc_new,city02,GatherNpc_4nei_sl_55006_1" style="HLStype1">Đống Đá</a> tìm một vài viên đá ném ra để thu hút sự chú ý của Ẩn Vệ
 interactinfo_80030=Từ <a href="findnpc_new,city02,GatherNpc_4nei_sl_55008" style="HLStype1">Nong Tằm Ngự Dao Thôn</a> lấy ít nhộng tằm, xem thử có gì khác thường không
 interactinfo_80031=Tìm được <a href="findnpc_new,city02,GatherNpc_4nei_sl_55011" style="HLStype1">chứng cứ có lợi</a> có thể chứng minh thân phận của Tổ Chân
@@ -102,7 +101,7 @@ okmenu_80004=<font face="Default" color="#ffffff" >Lạc Dương, là ở phía 
 okmenu_80005=<font face="Default" color="#ffffff" >Đây là? Ta cũng tò mò mà thôi, vậy ta về đây (Còn phải chứng thực thật giả nữa)</font>
 okmenu_80006=<font face="Default" color="#ffffff" >Thật không ngờ Tổ Chân đại sư lại được chào đón như vậy.</font>
 okmenu_80007=<font face="Default" color="#ffffff" >(Đây đều là những lời nói thật, Tổ Chân trưởng lão thực sự không có điểm nào hoài nghi)</font>
-okmenu_80008=<font face="Default" color="#ffffff" >……</font>
+okmenu_80008=<font face="Default" color="#ffffff" >...</font>
 okmenu_80010=<font face="Default" color="#ffffff" >Đệ tử vì danh dự và an nguy của Thiếu Lâm mà tận tâm tận lực. Ta có thể ứng phó.</font>
 okmenu_80011=<font face="Default" color="#ffffff" >Phương Trượng cứ yên tâm!</font>
 okmenu_80013=<font face="Default" color="#ffffff" >Sư đệ, </font> <font face="Default" color="#ffffff" >đệ bị trúng độc? Những kẻ đó còn biết hạ độc?</font>
@@ -177,7 +176,6 @@ interactinfo_80052=Haha, một công đôi việc, tiểu tặc nhỏ trong 
 interactinfo_80053=Đã sắp đặt thuốc nổ hoàn tất, nhanh về bẩm báo <a href="findnpc_new,school08,WorldNpc00212" style="HLStype1">Huyền Hoài đại sư</a>
 interactinfo_80054=Phương trượng nói thời cơ đã đến? Vậy đến <a href="findnpc_new,school08,Event_5nei_sl_80054" style="HLStype1">nơi đặt thuốc</a> chờ xem kịch hay! (Trên mặt cầu thang bên trái phải là nơi ẩn náu tốt.)
 interactinfo_80055=Chỉ một chưởng có thể đánh bại toàn bộ kẻ dám đến trong giang hồ. Người này rốt cuộc là tiền bối nào của Thiếu Lâm ta. <a href="findnpc_new,school08,npc_5nei_sl_020" style="HLStype1">Phương trượng</a> đã đi rồi, ta cũng qua đó xem sao.
-interactinfo_80060=Giang hồ truyền tin Hình Quân Khả và Mạc Vô Tình núp ở <a href="findnpc_new,born04,Event_5nei_sl_80060" style="HLStype1">Thiên Đăng Trấn</a>, đã có nhiều sát thủ thâm nhập, đi xem tình hình trước.
 interactinfo_80061=Đây không phải tùy tùng Sở Tiếu đại ca sao? Huynh ấy cũng đến rồi? Là đang đợi ta sao? Lên trước hỏi xem làm sao thâm nhập vào <a href="findnpc,clone032,606,-44,734" style="HLStype1">Thiên Đăng Kiếp</a> (Hỏi Sở Phong quy tắc vào Thiên Đăng Kiếp)
 interactinfo_80062=Bảo vệ Hình Quân Khả, vượt ải Thiên Đăng Kiếp
 interactinfo_80063=Chiêu Thập Ngũ Phong tuyệt lắm! Quả không hổ Thập Tuyệt Sở Tiếu! Sống tốt đẹp chết bi tráng! Hình Quân Khả và Mạc Vô Tình đã nhảy khỏi vòng vây. Đi tìm <a href="findnpc_new,school06,Event_5nei_sl_80063" style="HLStype1">tung tích</a> họ trước
@@ -213,4 +211,6 @@ useiteminfo_80005=Thủ lĩnh Thảng Tử Thủ vì bảo toàn tính mạng, n
 useiteminfo_80006=Những <a href="TASK_ITEM,item_5nei_sl_80006" style="HLStype1">thuốc nổ</a> này uy lực kinh ngạc, chôn chúng ở <a href="findnpc_new,school08,Event_5nei_sl_80006" style="HLStype1">gần đây</a>, chỉ đợi ta dùng nội lực kích hoạt, hừ hừ... Chúng có chạy đằng trời!
 useiteminfo_80007=Một quả <a href="TASK_ITEM,item_5nei_sl_80006" style="HLStype1">thuốc nổ</a> có đủ không? Haha thêm một cái đặt ở <a href="findnpc_new,school08,Event_5nei_sl_80008" style="HLStype1">bên cạnh</a> là được.
 useiteminfo_80008=Một quả <a href="TASK_ITEM,item_5nei_sl_80006" style="HLStype1">thuốc nổ</a> có đủ không? Haha thêm một cái đặt ở <a href="findnpc_new,school08,Event_5nei_sl_80008" style="HLStype1">bên cạnh</a> là được.
+interactinfo_80028=<a href="findnpc_new,city02,npc_4nei_sl_yapu_1" style="HLStype1">Nha Bộc</a>? Lại là <a href="findnpc_new,city02,npc_4nei_sl_yapu_1" style="HLStype1">Nha Bộc</a>? Ở Ma Đao Đường vô cùng nham hiểm, lần trước nhiều lần xong việc liền sát nhân diệt khẩu? Ta chi bằng nên tương kế tựu kế...
+interactinfo_80060=Giang hồ truyền tin Hình Quân Khả và Mạc Vô Tình núp ở <a href="findnpc_new,born04,Event_5nei_sl_80060" style="HLStype1">Thiên Đăng Trấn</a>, đã có nhiều sát thủ thâm nhập, đi xem tình hình trước.
 

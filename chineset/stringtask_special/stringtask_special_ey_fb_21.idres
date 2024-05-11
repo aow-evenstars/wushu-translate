@@ -40,7 +40,6 @@ hunterinfo_51305=帶著散落的手劄，向<a href="findnpc_new,city04,ly366" s
 hunterinfo_51306=找到<a href="findnpc_new,city04,FunnpcClone021004" style="HLStype1">張輝</a>，問問他找到徐先生的下落沒有
 hunterinfo_51307=帶上足夠的銀兩（五兩），去<a href="findnpc_new,city04,FuncNpc513" style="HLStype1">鐵匠老闆</a>那裡買下秘制鎢金
 hunterinfo_51308=進巷子裡找到<a href="findnpc_new,city04,FunnpcClone021009" style="HLStype1">徐先生</a>調查書店老闆被害一事。
-hunterinfo_51309=兇手已經被殺，將此事回復下<a href="findnpc_new,city04,FunnpcClone021003" style="HLStype1">石夫人</a>。
 hunterinfo_51310=找到<a href="findnpc_new,city04,WorldNpc10354" style="HLStype1">造化老人</a>，向他求解疑惑。
 hunterinfo_51311=找到<a href="findnpc_new,city04,FunnpcClone021007" style="HLStype1">肖兵</a>，問問他找到徐先生的下落沒有
 hunterinfo_51313=在洛陽城中尋找<a href="findnpc_new,city04,WorldNpc10036" style="HLStype1">綠衣流氓</a>，要回丟失的包裹
@@ -100,9 +99,7 @@ story_51304_2=<s>少俠有所不知，我也是出於苦悶才出來借酒消愁
 story_51304_3=<s>哎呀，我想起來我們老大讓我辦的正事忘記了。啊，胳膊好疼啊.......
 story_51309_1=<s>少俠你最近可聽說青雲堡被一群不知名的毒蝶給圍困的事？
 story_51309_2=這也是我們老大和別人談論的時候我悄悄聽到的，青雲堡被一群不知名的毒蝶圍困，為了不被毒蝶蟄咬，他們堡主已經把青雲堡用布給圍起來就是為了防止毒蝶傷人
-story_51309_3=<s>青雲堡世代為工匠，據說他們家有一種火器，可以連發，殺人于百步之外。有了整個武器別說稱霸武林，就是你想拿下江山也不成問題。我們老大就是想趁此次青雲堡動亂乘機搶得火器。稱霸武林！
 story_51310_1=<s>小兄弟消息打探的怎麼樣了？
-story_51310_2=<s>盡有此事！那現在青雲堡內有蝴蝶殺人，人心惶惶；外有大量武林人士進入，魚龍混雜豈不是混亂不堪了!好，真是天助我也！
 story_51313_1=<s>每個月青雲堡都會來定做一批稀奇古怪的東西，後來我由於好奇就慢慢的都記下來，憑我幾十年的鐵匠經驗和幾個月的研究我終於從那些定做的東西推算出來，青雲堡正在製作或則研究一件威力極大的武器
 story_51313_2=<s>哎...對於一名鐵匠來說一生能造出一件神兵是最大的心願，然而這次青雲堡的這件神兵對於我來說就是一個可遇而不可求的機會。
 story_51313_3=<s>其實這次還真是天助我也，原本青雲堡基本基本不與外界有什麼聯繫而且堡中守衛森嚴外人難以進入。不想這次青雲堡遭遇蝶變，一夜之間陷入混亂，這樣我們就有機會趁亂偷偷進去獲取神兵圖紙
@@ -132,4 +129,7 @@ storymenu_51313_3=原來如此
 useiteminfo_51301=使用<a href="TASK_ITEM,useitemclone021018" style="HLStype1">清熱解毒藥</a>醫治<a href="findnpc_new,city04,FunnpcClone021017" style="HLStype1">小飛</a>的傷勢
 useiteminfo_51312=使用<a href="TASK_ITEM,useitemclone021020" style="HLStype1">鐵匠錘子</a>把烏金塊製作成10個烏金管
 storyinfo_51304=讓光棍<a href="findnpc_new,city04,FunnpcClone021019" style="HLStype1">丁好圓</a>賠禮道歉
+hunterinfo_51309=兇手已經被襲，將此事回復下<a href="findnpc_new,city04,FunnpcClone021003" style="HLStype1">石夫人</a>。
+story_51309_3=<s>青雲堡世代為工匠，據說他們家有一種火器，可以連發，攻克於百步之外。有了整個武器別說稱霸武林，就是你想拿下江山也不成問題。我們老大就是想趁此次青雲堡動亂乘機搶得火器。稱霸武林！
+story_51310_2=<s>盡有此事！那現在青雲堡內有蝴蝶攻克，人心惶惶；外有大量武林人士進入，魚龍混雜豈不是混亂不堪了!好，真是天助我也！
 

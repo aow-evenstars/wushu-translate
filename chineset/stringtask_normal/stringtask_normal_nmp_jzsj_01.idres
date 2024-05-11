@@ -83,7 +83,6 @@ CanAcceptMenu_41621=<font face="Default" color="#ffffff" >接受任務：</font>
 CanAcceptMenu_41622=<font face="Default" color="#ffffff" >接受任務：</font><font face="Default" color="#ffffff" >溫故知新無止盡</font>
 CanAcceptMenu_41623=<font face="Default" color="#ffffff" >接受任務</font><font face="Default" color="#ffffff" >：擔憂</font>
 CanAcceptMenu_41624=<font face="Default" color="#ffffff" >接受任務：</font><font face="Default" color="#ffffff" >從</font><font face="Default" color="#ffffff" >前的病人</font>
-CanAcceptMenu_41625=<font face="Default" color="#ffffff" >接受任務</font><font face="Default" color="#ffffff" >：過去的仇人</font>
 CanAcceptMenu_41626=<font face="Default" color="#ffffff" >接受任務</font><font face="Default" color="#ffffff" >：提高警惕</font>
 CanAcceptMenu_41627=<font face="Default" color="#ffffff" >接受任務</font><font face="Default" color="#ffffff" >：恍然大悟金不換</font>
 CanAcceptMenu_41628=
@@ -207,7 +206,6 @@ CompleteMenu_41621=<font face="Default" color="#ffffff" >完成任務：</font><
 CompleteMenu_41622=<font face="Default" color="#ffffff" >完成任務：</font><font face="Default" color="#ffffff" >奇妙的心事</font>
 CompleteMenu_41623=<font face="Default" color="#ffffff" >完成任務</font><font face="Default" color="#ffffff" >：擔憂</font>
 CompleteMenu_41624=<font face="Default" color="#ffffff" >完成任務：</font><font face="Default" color="#ffffff" >從</font><font face="Default" color="#ffffff" >前的病人</font>
-CompleteMenu_41625=<font face="Default" color="#ffffff" >完成任務</font><font face="Default" color="#ffffff" >：過去的仇人</font>
 CompleteMenu_41626=<font face="Default" color="#ffffff" >完成任務</font><font face="Default" color="#ffffff" >：提高警惕</font>
 CompleteMenu_41627=<font face="Default" color="#ffffff" >完成任務：</font><font face="Default" color="#ffffff" >恍然大悟金不換</font>
 CompleteMenu_41628=
@@ -339,7 +337,6 @@ accept_41621_1=<font face="Default" color="#ffffff" >沈希玨一直都以哥哥
 accept_41622_1=<font face="Default" color="#ffffff" >你來沈家以有很長一段時間了，想必你也學了不少醫術，那麼今天我再考考你。</font>
 accept_41623_1=<font face="Default" color="#ffffff" >沈念慈最近</font><font face="Default" color="#ffffff" >的行為</font><font face="Default" color="#ffffff" >有點奇怪，</font><font face="Default" color="#ffffff" >他總是偷偷的觀察老園丁。真不知道這孩子心裡是怎麼想的。</font>
 accept_41624_1=<font face="Default" color="#ffffff" >你以前醫好的病人又來沈家了，你去看看有什麼事。</font>
-accept_41625_1=<font face="Default" color="#ffffff" >聽說有一個沈家的仇人要來沈家報仇。</font>
 accept_41626_1=<font face="Default" color="#ffffff" >我們整個山莊都要提高警惕，一致對抗外敵。</font>
 accept_41627_1=<font face="Default" color="#ffffff" >你剛才和幽冥宮長老的一番對話讓我受益匪淺，這麼些年我一直都希望光大沈家，近來更是用難民修煉偏針，以求急功近利，我走進了一個死胡同，我迷失了初衷。你的一番話點醒了我，仇恨沒有讓沈家衰敗，偏針也不能讓沈家強大，努力行醫救人，在醫術上得到江湖上的認可才能讓沈家達到更高的高度。</font><font face="Default" color="#ffffff" >你回去告訴王天懷，讓他不必擔心，我馬上就回沈家。</font>
 accept_41628_1=
@@ -1304,4 +1301,7 @@ context_41540=<s><s>多事之秋，前些日子百獸莊的追蹤獵人回報又
 context_41543=<s><s>剛接到百獸莊的飛鴿傳書，紅爪雄鷹最近頻繁出現的風嘯谷，這是一難得的機會，江湖傳聞，有紅爪雄鷹的地方必然就有銀色妖姬草，這可是一箭雙鵰的好機會，王鷹的羽翼可是鋒利無比之物，銀色妖姬草也是難求的草藥這兩樣東西都是我們沈家銀針製作中不可獲取的一種稀有材料，徒兒你在門下已經修煉多年這次任務就交給你了。
 next_41536=沈家、徐家莊和浣花山莊一定要世代友好才能永保平安。
 target_41538=<s><s>追蹤百獸莊的王蛇完成師父交代的任務
+CanAcceptMenu_41625=<font face="Default" color="#ffffff" >接受任務</font><font face="Default" color="#ffffff" >：過去的敵人</font>
+CompleteMenu_41625=<font face="Default" color="#ffffff" >完成任務</font><font face="Default" color="#ffffff" >：過去的敵人</font>
+accept_41625_1=<font face="Default" color="#ffffff" >聽說有一個沈家的敵人要來沈家報復。</font>
 

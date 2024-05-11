@@ -185,7 +185,6 @@ hunterinfo_16254=Gặp mai phục, đánh bại <a href="findnpc_new,city04,npc_
 hunterinfo_16323=Phía trước nghe thấy có tiếng kêu cứu, đi đánh bại <a href="findnpc_new,school18,dmp_zc_xyjs_gw_001" style="HLStype1">Ác Bá Dưới Núi</a>, giải cứu  người bị ức hiếp.
 hunterinfo_16328=Sư huynh cứ bảo ngươi tỉ thí với hắn, đành luyện với hắn vậy. Đánh bại <a href="findnpc_new,school18,dmp_zc_xyjs_05" style="HLStype1">Thanh Lăng</a>.
 hunterinfo_16335=Tìm sư huynh Già Bì bảo hắn đưa ngươi vào gần Nhất Tuyến Thiên, được Đồng Nhân hỗ trợ diệt trừ Kỳ Lân Thú. (Vào sẽ có 5 Đồng Nhân hỗ trợ ngươi, lần lượt dùng 5 kỹ năng sát thương lớn đấu với dã thú, khi dã thú thi triển kỹ năng, có thể đến gần Đồng Nhân miễn dịch, rời xa Đồng Nhân thì hiệu quả miễn dịch mất. Trước khi vào cần nhận nhiệm vụ rồi tổ đội do đội trưởng mở, nhớ đừng cách đội trưởng quá xa.)
-hunterinfo_16336=Pháo hoa môn phái chế tạo dùng để thả đèn cầu phúc bị kẻ trộm lấy mất, sau khi nhận được Tâm Đăng Trợ mới có thể đến nhận Phật Pháp Trợ, sau khi nhận Phật Pháp Trợ tầng 5 tìm đám người lén lút dưới cây Bồ Đề, đánh bại 5 <a href="findnpc_new,school18,dmp_zc_cdqf_gw_001" style="HLStype1">Kẻ Lén Lút</a> và lấy lại 5 Pháo Hoa bị trộm. (Chỉ sau khi nhận được Phật Pháp Trợ tầng 5 xong mới có thể nhận Pháo Hoa)
 hunterinfo_16337=Thắng khi tỉ thí với <a href="findnpc_new,school18,newmp_dmp_09" style="HLStype1">Thiện Lệnh</a>
 hunterinfo_16338=Thắng khi tỉ thí với <a href="findnpc_new,school18,newmp_dmp_09" style="HLStype1">Thiện Lệnh</a>
 hunterinfo_16339=Thắng khi tỉ thí với <a href="findnpc_new,school18,newmp_dmp_09" style="HLStype1">Thiện Lệnh</a>
@@ -312,7 +311,6 @@ interactinfo_16452=Hái <a href="findnpc_new,school18,gather_dmp_mxm01" style="H
 interactinfo_16453=<a href="findnpc_new,school18,npc_dmp_mxm08" style="HLStype1">Tiểu Chiêu</a> không đoán ra, đành phải giao Phật Châu cho ngươi rồi
 interactinfo_16454=Tìm xem ở gần đó có <a href="findnpc_new,school18,gather_dmp_mxm02" style="HLStype1">Phật Châu</a> không
 interactinfo_16455=<a href="findnpc_new,school18,gather_dmp_mxm04" style="HLStype1">Con chim</a> bên đó hình như đang nghịch Phật Châu, qua đó xem thử
-interactinfo_16456=Đến chỗ Trí Thượng (-519,-252), bảo vệ Cây Bồ Đề, diệt kẻ xâm phạm
 interactinfo_16457=Trò chuyện cùng <a href="findnpc_new,school08,WorldNpc00212" style="HLStype1">Huyền Hoài Đại Sư</a>
 interactinfo_16458=Thân thể cảm thấy không khỏe, đến hỏi thăm <a href="findnpc_new,school18,EventNpc_dmpjq_002" style="HLStype1">Thiền Tôn</a>
 okmenu_16250=<font face="Default" color="#ffffff" >Được, ta sẽ đi.</font>
@@ -380,7 +378,6 @@ okmenu_16365=<font face="Default" color="#ffffff" >Đệ tử đã có 20</font>
 okmenu_16366=<font face="Default" color="#ffffff" >Đệ tử đã có 10</font><font face="Default" color="#ffffff" > Bồ Đề</font><font face="Default" color="#ffffff" > Tử.</font>
 okmenu_16367=<font face="Default" color="#ffffff" >Đệ tử...</font><font face="Default" color="#ffffff" >Đệ tử...</font>
 okmenu_16440=<font face="Default" color="#ffffff" >Đệ tử sẽ ghi nhớ, giờ</font><font face="Default" color="#ffffff" > sẽ</font><font face="Default" color="#ffffff" > đến núi Nga My.</font>
-okmenu_16443=<font face="Default" color="#ffffff" >Đệ tử quả thực đã tiêu diệt tên Pháp Vọng đó, chỉ là tên đó tuy ra tay tàn độc, nhưng võ công lại không cao cường như lời đồn.</font>
 okmenu_16444=<font face="Default" color="#ffffff" >Đệ tử tuân lệnh!</font>
 okmenu_16445=<font face="Default" color="#ffffff" >Đệ tử hiểu!</font>
 okmenu_16447=<font face="Default" color="#ffffff" >Tăng nhân? Ngươi có chút nào giống tăng nhân đâu? Nếu không thành thật, đừng trách ta không nương tay.</font>
@@ -509,4 +506,7 @@ useiteminfo_16271=Cầm <a href="TASK_ITEM,item_dmp_rc_wc_06" style="HLStype1">c
 useiteminfo_16332=Dùng <a href="TASK_ITEM,item_dmp_zc_xyjs_06" style="HLStype1">Hóa Hàn Đan</a> giải độc cho người trúng độc.
 useiteminfo_16337=Khâu cuối cùng của Thả Đèn Cầu Phúc rồi, lấy được Pháo Hoa Thả Đèn xong, ở trên hoa sen tĩnh tâm Bồ Đề Đài thả 5 <a href="TASK_ITEM,item_dmp_zc_shqf_01" style="HLStype1">Pháo Hoa Thả Đèn</a>, cầu nguyện trời xanh ban phúc chúng sanh.
 specialinfo_1125=Điểm tụng kinh phái đạt 1000
+hunterinfo_16336=Pháo hoa môn phái chế tạo dùng để thả đèn cầu phúc bị kẻ trộm lấy mất, sau khi nhận được Tâm Đăng Trợ mới có thể đến nhận Phật Pháp Trợ, sau khi nhận Phật Pháp Trợ tầng 5 tìm đám người lén lút dưới cây Bồ Đề, đánh bại 5 <a href="findnpc_new,school18,dmp_zc_cdqf_gw_001" style="HLStype1">Kẻ Lén Lút</a> và lấy lại 5 Pháo Hoa bị trộm. (Chỉ sau khi nhận được Phật Pháp Trợ tầng 5 xong mới có thể nhận Pháo Hoa)
+interactinfo_16456=Đến chỗ Trí Thượng (-519,-252), bảo vệ Cây Bồ Đề, diệt kẻ xâm phạm
+okmenu_16443=<font face="Default" color="#ffffff" >Đệ tử quả thực đã tiêu diệt tên Pháp Vọng đó, chỉ là tên đó tuy ra tay tàn độc, nhưng võ công lại không cao cường như lời đồn.</font>
 

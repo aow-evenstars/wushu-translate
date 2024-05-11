@@ -15,14 +15,6 @@ hunterinfo_57005=Đánh bại kẻ khả nghi
 hunterinfo_57006=Đánh bại kẻ khả nghi
 hunterinfo_57007=Đánh bại kẻ khả nghi
 hunterinfo_57008=Đánh bại kẻ khả nghi
-specialinfo_701=Hoàn thành 4 lần tuần tra. Sau khi tham gia tuần tra, diệt người chơi dò hỏi được tin tức hoặc kẻ khả nghi có thể nhận được tin. <font color="#FF0000">Tọa độ kẻ khả nghi xuất hiện (549, 125) (565, -97) (216, -345) (211, 156)</font>
-specialinfo_702=Hoàn thành 4 lần tuần tra. Sau khi tham gia tuần tra, diệt người chơi dò hỏi được tin tức hoặc kẻ khả nghi có thể nhận được tin. <font color="#FF0000">Tọa độ kẻ khả nghi xuất hiện (547, 644) (702, 412) (592,126) (402, 300)</font>
-specialinfo_703=Hoàn thành 4 lần tuần tra. Sau khi tham gia tuần tra, diệt người chơi dò hỏi được tin tức hoặc kẻ khả nghi có thể nhận được tin. <font color="#FF0000">Tọa độ kẻ khả nghi xuất hiện (139, 508) (977, 696) (680, 26) (549, 350)</font>
-specialinfo_704=Hoàn thành 4 lần tuần tra. Sau khi tham gia tuần tra, diệt người chơi dò hỏi được tin tức hoặc kẻ khả nghi có thể nhận được tin. <font color="#FF0000">Tọa độ kẻ khả nghi xuất hiện (532, 189) (352, -178) (-46, -109) (244, 219)</font>
-specialinfo_705=Hoàn thành 4 lần tuần tra. Sau khi tham gia tuần tra, diệt người chơi dò hỏi được tin tức hoặc kẻ khả nghi có thể nhận được tin. <font color="#FF0000">Tọa độ kẻ khả nghi xuất hiện (1455, -223) (1112, -8) (768, 15) (954, -291)</font>
-specialinfo_706=Hoàn thành 4 lần tuần tra. Sau khi tham gia tuần tra, diệt người chơi dò hỏi được tin tức hoặc kẻ khả nghi có thể nhận được tin. <font color="#FF0000">Tọa độ kẻ khả nghi xuất hiện (503, 476) (652, 307) (455, -33) (199, 53)</font>
-specialinfo_707=Hoàn thành 4 lần tuần tra. Sau khi tham gia tuần tra, diệt người chơi dò hỏi được tin tức hoặc kẻ khả nghi có thể nhận được tin. <font color="#FF0000">Tọa độ kẻ khả nghi xuất hiện (497, 634) (764, 315) (492, 138) (341, 378)</font>
-specialinfo_708=Hoàn thành 4 lần tuần tra. Sau khi tham gia tuần tra, diệt người chơi dò hỏi được tin tức hoặc kẻ khả nghi có thể nhận được tin. <font color="#FF0000">Tọa độ kẻ khả nghi xuất hiện (754, 540) (948, 594) (891, 162) (656, 205)</font>
 DialogID_57001=<font face="Default" color="#ffffff" >Thật không? Ta không nhìn lầm người.</font>
 DialogID_57002=<font face="Default" color="#ffffff" >如果你确定需要获得“G2”手机特惠购买特权的话, 就把1800个手机碎片交给我吧!</font>
 DialogID_57003=<font face="Default" color="#ffffff" >如果你确定需要获得“W1”手机特惠购买特权的话, 就把3800个手机碎片交给我吧!</font>
@@ -39,12 +31,10 @@ okmenu_57003=<font face="Default" color="#ffffff" >Tiền bối, theo dặn dò 
 okmenu_57004=<font face="Default" color="#ffffff" >Tiền bối, theo dặn dò của ngươi, ta đã thu thập đủ 2800 mảnh di động.</font>
 okmenu_57005=<font face="Default" color="#ffffff" >Tiền bối, theo dặn dò của ngươi, ta đã thu thập đủ 4800 mảnh di động.</font>
 specialinfo_1063=Hoàn thành 2 lần cấm địa liên server ngẫu nhiên
-specialinfo_1070=Bán con tin thành công 2 lần
 specialinfo_1071=Hoàn thành 3 lần thích thám bất kỳ
 specialinfo_1072=Qua ải 1 cấm địa bất kỳ
 specialinfo_1073=Hoàn thành 5 lần thích quán bất kỳ
 specialinfo_1074=Hoàn thành 1 lần thụ nghiệp
-specialinfo_1075=Tiêu diệt giang hồ hào kiệt 5 lần
 specialinfo_1076=Hoàn thành một lần Luyện nhóm
 DialogID_57006=<font face="Default" color="#ffffff" >…</font><font face="Default" color="#ffffff" >…</font><font face="Default" color="#ffffff" >…</font><font face="Default" color="#ffffff" >…</font>
 DialogID_57007=<font face="Default" color="#ffffff" >Quá tốt, đúng là Lục Dục Nham Liên. Đa tạ thiếu hiệp giúp đỡ, không biết lấy gì báo đáp!</font>
@@ -78,7 +68,6 @@ specialinfo_1353=Điều tra Đường Môn
 specialinfo_1354=Điều tra Nga My
 specialinfo_1355=Điều tra Võ Đang
 specialinfo_1357=Điều tra Thiếu Lâm
-specialinfo_1358=Hoàn thành 4 lần tuần tra. Sau khi tham gia tuần tra, diệt người chơi thích thám nhận tình báo hoặc người khả nghi có thể nhận tình báo.<font color="#FF0000"> Tọa độ xuất hiện người khả nghi (7, -304); (62, -89)</font>
 specialinfo_1373=Điều tra Cẩm Y Vệ
 specialinfo_1374=Điều tra Cái Bang
 specialinfo_1376=Điều tra Quân Tử Đường
@@ -87,5 +76,19 @@ specialinfo_1378=Điều tra Đường Môn
 specialinfo_1379=Điều tra Nga My
 specialinfo_1380=Điều tra Võ Đang
 specialinfo_1381=Điều tra Thiếu Lâm
+specialinfo_1388=Do thám Thiên Sơn Phái
+specialinfo_1075=Tiêu diệt giang hồ hào kiệt 5 lần
+specialinfo_1358=Hoàn thành 4 lần tuần tra. Sau khi tham gia tuần tra, diệt người chơi thích thám nhận tình báo hoặc người khả nghi có thể nhận tình báo.<font color="#FF0000"> Tọa độ xuất hiện người khả nghi (7, -304); (62, -89)</font>
 specialinfo_1382=Hoàn thành 4 lần tuần tra. Sau khi tham gia tuần tra, diệt người chơi thích thám nhận tình báo hoặc người khả nghi có thể nhận tình báo. Tọa độ xuất hiện người khả nghi (7, -304); (62, -89)
+specialinfo_701=Hoàn thành 4 lần tuần tra. Sau khi tham gia tuần tra, diệt người chơi dò hỏi được tin tức hoặc kẻ khả nghi có thể nhận được tin. <font color="#FF0000">Tọa độ kẻ khả nghi xuất hiện (549, 125) (565, -97) (216, -345) (211, 156)</font>
+specialinfo_702=Hoàn thành 4 lần tuần tra. Sau khi tham gia tuần tra, diệt người chơi dò hỏi được tin tức hoặc kẻ khả nghi có thể nhận được tin. <font color="#FF0000">Tọa độ kẻ khả nghi xuất hiện (547, 644) (702, 412) (592,126) (402, 300)</font>
+specialinfo_703=Hoàn thành 4 lần tuần tra. Sau khi tham gia tuần tra, diệt người chơi dò hỏi được tin tức hoặc kẻ khả nghi có thể nhận được tin. <font color="#FF0000">Tọa độ kẻ khả nghi xuất hiện (139, 508) (977, 696) (680, 26) (549, 350)</font>
+specialinfo_704=Hoàn thành 4 lần tuần tra. Sau khi tham gia tuần tra, diệt người chơi dò hỏi được tin tức hoặc kẻ khả nghi có thể nhận được tin. <font color="#FF0000">Tọa độ kẻ khả nghi xuất hiện (532, 189) (352, -178) (-46, -109) (244, 219)</font>
+specialinfo_705=Hoàn thành 4 lần tuần tra. Sau khi tham gia tuần tra, diệt người chơi dò hỏi được tin tức hoặc kẻ khả nghi có thể nhận được tin. <font color="#FF0000">Tọa độ kẻ khả nghi xuất hiện (1455, -223) (1112, -8) (768, 15) (954, -291)</font>
+specialinfo_706=Hoàn thành 4 lần tuần tra. Sau khi tham gia tuần tra, diệt người chơi dò hỏi được tin tức hoặc kẻ khả nghi có thể nhận được tin. <font color="#FF0000">Tọa độ kẻ khả nghi xuất hiện (503, 476) (652, 307) (455, -33) (199, 53)</font>
+specialinfo_707=Hoàn thành 4 lần tuần tra. Sau khi tham gia tuần tra, diệt người chơi dò hỏi được tin tức hoặc kẻ khả nghi có thể nhận được tin. <font color="#FF0000">Tọa độ kẻ khả nghi xuất hiện (497, 634) (764, 315) (492, 138) (341, 378)</font>
+specialinfo_708=Hoàn thành 4 lần tuần tra. Sau khi tham gia tuần tra, diệt người chơi dò hỏi được tin tức hoặc kẻ khả nghi có thể nhận được tin. <font color="#FF0000">Tọa độ kẻ khả nghi xuất hiện (754, 540) (948, 594) (891, 162) (656, 205)</font>
+specialinfo_1389=Hoàn thành 4 lần tuần tra. Sau khi tham gia tuần tra, diệt người chơi do thám nhận tình báo hoặc người khả nghi có thể nhận tình báo. <font color="#FF0000">Tọa độ người khả nghi xuất hiện (1350, 1214); (1269, 1483)</font>
+specialinfo_1474=Do thám Côn Luân Phái
+specialinfo_1479=Hoàn thành 4 lần tuần tra. Sau khi tham gia tuần tra, tiêu diệt người chơi do thám có được tình báo hoặc người khả nghi được nhận tình báo. <font color="#FF0000">Tọa độ người khả nghi xuất hiện (-127, -147); (-299, 167)</font>
 

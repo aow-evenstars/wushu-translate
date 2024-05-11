@@ -199,7 +199,6 @@ complete_51260=<font face="Default" color="#ffffff" >Hóa ra là khách của Th
 complete_51266=<font face="Default" color="#ffffff" >Hả? Nói nghe xem?</font>
 complete_51268=<font face="Default" color="#ffffff" >Ta không biết, ừ...đợi chút hình như ta...</font>
 complete_51269=Xảy ra chuyện gì rồi?
-complete_51280=<font face="Default" color="#ffffff" >Thiếu hiệp đừng lưu tâm! Ta với lão Thường tương giao nhiều năm, cũng không muốn nhìn thấy lão ta như vậy, nhưng nếu đúng là lão ta làm như thế, chúng ta bắt buộc phải ra tay, nếu không làm sao đối mặt với Lạc Như và những người đã khuất</font><font face="Default" color="#ffffff" >. Ngươi đến cửa Nha Môn giữ Nhị Hiệp lại, huynh ấy định đánh trống kêu oan, báo thù cho Lạc Như.</font>
 complete_51281=<font face="Default" color="#ffffff" >Ha ha</font><font face="Default" color="#ffffff" >, </font> <font face="Default" color="#ffffff" >thiếu hiệp vấn khỏe chứ! Chiêu thức lão phu dạy thiếu hiệp, thiếu hiệp đã học thuần thục chưa?</font>
 complete_51282=<font face="Default" color="#ffffff" >Thiếu hiệp xin dừng bước, ngươi đi lần này nhất định sẽ gặp nhiều nguy hiểm. Để ta nói cho nghe, có một nơi vắng vẻ ở gần bờ sông Kim Lăng Tây Giao, có thể tạm nghỉ ngơi. Ở đó thường xuyên có thuyền buôn chợ đen qua lại, ngươi có thể thử lên thuyền rời đi.</font>
 complete_51283=<font face="Default" color="#ffffff" >Ngươi đừng có làm phiền ta, lúc đầu chỉ là, ngứa mắt, ngứa ngực ngứa tay, gãi thương cả mắt, giấc mơ mù quáng. Ha ha, chiêu thức này rất tinh diệu, ngươi mang đi mà học, nhất định sẽ xưng bá thiên hạ!</font> <font face="Default" color="#ffffff" >Không được, ta phải dẫn ngươi đến một nơi chỉ điểm cho ngươi vài chiêu, không nhất định ngươi sẽ không học được! Ừ, đến nóc nhà đằng kia đi, đứng bên đó cao hơn, phong cảnh cũng đẹp!</font>
@@ -211,10 +210,8 @@ context_51003=Dưới sự chỉ điểm của bà lão, dễ dàng chống đư
 context_51004=Dưới sự chỉ điểm của bà lão, dễ dàng chống được cái lạnh cắt da, tiếp tục cõng bà lên núi. Trong lúc nghỉ ngơi giữa đường, bà lão kể về chuyện cũ giữa bà và Ma Đao Lão Tổ.
 context_51005=Phía trước có đệ tử của Nga My, không biết Tiết Thần lại làm điều gì xấu với Nga My
 context_51006=Tiết Thần "Tác Ác Đa Đoan", đã đến lúc kết thúc với hắn rồi
-context_51008=Đệ tử Đường Môn khẳng định Tiết Thần đã bị sát hạ, để chứng minh sự trong sạch của mình, liền mời đệ tử của Nga My đi cùng để xem tình hình của Tiết Thần.
 context_51009=Giúp đệ tử Nga My bắt rắn, không ngờ là bị người khác đánh ngất đi, lúc tỉnh dậy phát hiện mình đã bị trói lại rồi. Thế này là thế nào, đệ tử Võ Đang đang ở phía trước, đi hỏi thăm xem
 context_51010=Tiết Thần bị chính tay sai của mình "sát hạ", quyết định nhảy xuống vực, lấy chết tạ tội. May mắn được cao nhân cứu, quyết không thể tha cho bọn cặn bã võ lâm. Những tên khác đã bị lão tiền bối giết, chỉ còn lại đệ tử Nga My
-context_51011=Kẻ thù ở ngay trước mặt, học tập võ công của Hận Thiên Lão Nhân có thể đánh bại ả ta
 context_51012=Toàn bộ sự việc đã kết thúc rồi, hay là trở về điểm dừng chân xem xem.
 context_51013=Dưới đá tảng cạnh đường lên núi có một lão phụ tầm 45 đến 50 tuổi ngồi trên mặt đất, hãy xem là có việc gì?
 context_51014=Tiết Thần "Tác Ác Đa Đoan", đã đến lúc kết thúc với hắn rồi
@@ -282,13 +279,11 @@ context_51261=Ở lại khách sạn Kim Lăng, thưởng thức Nãi Trà Tửu
 context_51262=Cùng với Hình Nhị Hiệp đến Lễ Bộ tham gia hôn lễ của Lạc Như và Thường Sơn Triệu
 context_51263=Tiến vào hôn trường, tham gia hôn lễ của Lạc Như và Thường Sơn Triệu. (Cùng trò chuyện với tỳ nữ tiếp khách gần thái miếu-<a href="findnpc,city03,700,5,1504" style="HLStype1">Tiểu Hồng</a> là có thể vào bữa tiệc, nếu có việc gấp phải rời đi hãy trò chuyện với người chủ trì sự kiện - Tử Hà)
 context_51264=Hôn lễ đã kết thúc rồi, thân bằng cố hữu bắt đầu náo động phòng hoa chúc, hãy cùng tham gia chung vui (Gặp thị nữ <a href="findnpc,city03,700,5,1504" style="HLStype1">Tiểu Hồng</a> ở gần Thái Miêu để vào khu yến tiệc, nếu có việc gấp cần rời khỏi thì nói chuyện với Tử Hà, người chủ trì yến tiệc)
-context_51265=Sau khi cùng Hình Nhị Hiệp bị gia đinh của Thường Sơn Triệu vứt xuống Giếng Khô, tình cờ phát hiện được một bí tịch tàn quyển và một đống xương cốt, lúc này Hận Thiên Lão Nhân đột nhiên đi vào Giếng Khô và một mực đòi báo thù cho đồ đệ.
 context_51266=Trong Giếng Khô nhất định có manh mối chứng minh bản thân vô tội, nhanh chóng tìm để bào chữa cho chính mình.
 context_51267=Hận Thiên Lão Nhân lại khen thưởng đồ đệ đồng môn tương tàn của lão, mà bản thân lão cũng là kẻ phản sát sư phụ. Nếu đã tự minh chứng vô tội thì hãy tiếp cận Hận Thiên Lão Nhân để đề phòng việc lão ta nổi đóa sát hại vô cớ.
 context_51268=Hình Nhị Hiệp sau khi tiếp xúc Hận Thiên Lão Nhân thì hình như sức khỏe bất ổn. Nói chuyện với hắn ta rồi dẫn ra khỏi Giếng Khô trước.
 context_51269=Hình Quân Khả bị tâm ma tấn công! Nhanh chóng lên giúp đỡ hắn.
 context_51280=Việc bị quăng vào Giếng Khô hôm trước vẫn nhức nhối trong lòng, sau khi cùng Hình Nhị Hiệp thương lượng, quyết định quay trở lại Thường gia, tại biệt viện vắng vẻ trong Kim Lăng Thành tìm Thường Sơn Triệu hỏi cho ra lẽ. Hình Nhị Hiệp vội vã đi trước, hình như dự đoán được một số việc sẽ xảy ra...
-context_51281=<s>Hình Nhị Hiệp nóng lòng muốn báo thù cho Lạc Như, tự mình đến trước cửa Nha Môn đánh trống kêu oan. Manh động như vậy chỉ có thể làm hỏng việc, nhanh đuổi theo anh ta. Nhưng giết người đền mạng, nói không chừng quan phủ lại có cách bắt hung thủ.
 context_51282=Thường Sơn Triệu làm việc ác, tội không thể tha, quyết không để y chạy thoát nếu không sẽ gây họa cho nhân gian! Nhị hiệp đang đợi tin tốt từ ngươi, phải diệt kẻ thủ ác để tế vong linh Lạc Như!
 context_51283=<s>Tất Gia Hỏa báo cho người chơi một chỗ có thể ẩn thân, nội thành đâu đâu cũng có bổ khoái truy lùng, hay cứ đến chỗ đó nghỉ ngơi rồi tính tiếp, không chừng có thể xoay chuyển tình thế.
 context_51284=Bị người ta ném vào Giếng Khô, gắng sức mới thoát ra được, thù này không thể quên! Hình Nhị Hiệp cũng rất căm giận, nhanh bàn bạc với y.
@@ -399,7 +394,7 @@ submit_51200=<font face="Default" color="#ffffff" >Ta có thể giúp gì cho ti
 submit_51201=<font face="Default" color="#ffffff" >Hoàn thành nhiệm vụ</font>
 submit_51220=<font face="Default" color="#ffffff" >... Được rồi, nếu không tin thì hãy chờ đi, Thành Đô có người bắt cóc đúng không?</font>
 submit_51221=<font face="Default" color="#ffffff" >Hahaha, ngươi chờ lát sẽ biết.</font>
-submit_51222=<font face="Default" color="#ffffff" >……</font>
+submit_51222=<font face="Default" color="#ffffff" >...</font>
 submit_51223=<font face="Default" color="#ffffff" >Haha</font><font face="Default" color="#ffffff" >Haha</font>
 submit_51224=<font face="Default" color="#ffffff" >Đa tạ Thường tiền bối!</font>
 submit_51226=<font face="Default" color="#ffffff" >Được, vậy ta đi đây.</font>
@@ -415,7 +410,7 @@ submit_51242_1=<font face="Default" color="#ffffff" >Nhị hiệp, cô nương t
 submit_51242_2=<font face="Default" color="#ffffff" >Ta ngươi kết hợp e cũng không phải đối thủ của cô ấy, nhiều kẻ xấu còn thua y.</font>
 submit_51243_1=<font face="Default" color="#ffffff" >Cô nương, người có thể thay trời bắt, mệnh thì không thể thay trời cứu. Vẫn mong cô nương ban thuốc giải.</font>
 submit_51243_2=<font face="Default" color="#ffffff" >Đa tạ cô nương.</font><font face="Default" color="#ffffff" >Đa tạ cô nương.</font>
-submit_51244=<font face="Default" color="#ffffff" >……</font>
+submit_51244=<font face="Default" color="#ffffff" >...</font>
 submit_51245_1=<font face="Default" color="#ffffff" >Hở? Đa tạ thịnh tình, xin hỏi đây là loại võ công gì?</font>
 submit_51245_2=<font face="Default" color="#ffffff" >Tại hạ ghi nhớ trong lòng, hẹn ngày tái ngộ.</font>
 submit_51246_1=<font face="Default" color="#ffffff" >Nhị hiệp, cô nương trong xe ngựa nói người này là nô gia của cô ấy, không phải hung thủ chúng ta truy lùng. Vị cô nương đó đến đưa y về, còn nhờ hai ta đưa cô ấy về nhà, ngươi thấy sao?</font>
@@ -527,7 +522,6 @@ title_51007=Điều tra chân tướng
 title_51008=Lạc vào bẫy
 title_51009=Vu cao hãm hại
 title_51010=Chân tướng rõ ràng
-title_51011=Báo thù rửa hận
 title_51012=Cáo biệt hồi hương
 title_51013=Gian nan hiểm trở
 title_51014=Kế tạm thờiKế tạm thời
@@ -623,10 +617,16 @@ complete_51018=<font face="Default" color="#ffffff" >Đáng lẽ việc đến H
 complete_51137=<font color="#FF0000">Sau khi hoàn thành sự kiện CAC "Lạc Dương Cổ Kiếp",</font> mỗi ngày các ngươi đều có thể đến chỗ muội muội của ta là <font color="#FF0000">Ngọc Giác</font> tham gia thí luyện, mỗi ngày tham gia tối đa 3 lần, mỗi tuần tối đa bảy lần. Sau khi hoàn thành nhiều lần thí luyện thường có thể tham gia thí luyện khó. Phần thưởng Thánh Võ Lệnh của thí luyện có thể đổi "Thô Thiển Công Phu" tầng 13, 14 và trang sách "Cuồng Phong Đao Pháp" "Khôi Tinh Thích Đấu" tầng 10, 11 ở chỗ ta. Ngoài ra những thứ mà trước đây các ngươi cống hiến cho Ác Nhân Cốc sẽ được ghi nhớ, chỉ cần đem Thiện Ác Lệnh hoặc Dương Bì Tàn Phiến về cũng có thể đổi Thánh Võ Lệnh ở chỗ ta.
 complete_51245_2=<font face="Default" color="#ffffff" >Một quyển là nội công tâm pháp Hàn Băng Chân Khí, tương truyền là do Tả Lãnh Thiền phái Tung Sơn sáng tạo ra. Công pháp tu luyện cực kỳ hà khắc, cần lấy đá băng trên núi tuyết, nạp khí chí âm chí hàn của trời đất, hội tụ đan điền, triệt thông kinh lạc, sau vài năm mới sơ thành. Sau khi tu luyện thành công, thân thể nếu đóng băng, hàn khí khu tán, đối thủ chạm vào hàn khí lập tức tấn công kinh mạch, đục khoét cơ thể, phong ấn bách huyệt. Bộ khác là Khôi Tinh Thích Đấu, là một thư sinh thần bí sáng tạo ra, để thể hiện ý trí, giải quyết bất bình, sau được lưu truyền rộng rãi trên giang hồ. Do chiêu thức có tính liên kết cao, tấn công mạnh, xuất chiêu kinh hồn, khiến cho kẻ địch sống không bằng chết. Càng thần kỳ hơn ở chỗ chiêu thức có thể phù không tá thế, chiếm chọn tiên cơ, chiếm thế thượng phong, trấn áp đối thủ. Giang hồ hiểm ác, sau khi ngươi lấy được</font> <font face="Default" color="#ffffff" >phải</font> <font face="Default" color="#ffffff" >nhanh chóng lĩnh ngộ</font><font face="Default" color="#ffffff" >. Ta chỉ có thể giúp ngươi đến đây, hẹn ngày tái ngộ.</font>
 context_51030=Rất nhanh sẽ đến ngày của Hoa Sơn Luận Kiếm rồi, đến lúc đó sẽ có rất nhiều cao thủ trong thiên hạ hội tụ ở đỉnh Hoa Sơn, lần này lại được coi là một lần đại hội lớn trong Võ Lâm, phía trước có một đệ tử của Cực Lạc Cốc, xem hắn ta chau mày, hình như có điều gì đó muốn nói!
-context_51031=Việc tốt nhất định cần nhiều trắc trở, Tiết Thần lấy trộm mất Ỷ Thiên Kiếm, quấy nhiễu Hoa Sơn Luận Kiếm, các cao thủ của Bát Đại Môn Phái đuổi theo Tiết Thần từ khắp các ngả đường, nam nữ trong giang hồ đều có trách nhiệm, bắt được tên Tiết Thần, sẽ không dễ dàng tha cho hắn.
 context_51032=Tinh thần của đệ tử của Võ Đang sao lại kích động như vậy? Lên phía trước hỏi Từ Đạt Dục xem sao, trong số đệ tử Võ Đang hắn có vai vế cao nhất.
 target_51032=Đánh bại đệ tử Võ Đang, hỏi tình hình từ Từ Đạt Dục
-CanAcceptMenu_51137=<font face="Default" color="#ffffff" >Tôn Sứ, gần đây võ lâm xuất hiện rất nhiều cao thủ, võ học ta không cao, giao đấu với Cửu Đại Môn Phái chắc chắn sẽ bất lợi.</font>
-context_51007=Tiết Thần hình dáng đúng như Cửu Đại Môn Phái miêu tả, hơn nữa còn dẫn theo con trai của Triệu đại ca, sao có thể dẫn theo đứa trẻ mà lại làm nhiều việc xấu như vậy? Ở đây có sự hiểu lầm, hay là…
-target_51007=Hỏi Thiên Nhi trước rồi tìm đệ tử Cửu Đại Môn Phái, hỏi rõ xem rốt cuộc là việc gì
+complete_51280=<font face="Default" color="#ffffff" >Thiếu hiệp đừng lưu tâm! Ta với lão Thường tương giao nhiều năm, cũng không muốn nhìn thấy lão ta như vậy, nhưng nếu đúng là lão ta làm như thế, chúng ta bắt buộc phải ra tay, nếu không làm sao đối mặt với Lạc Như và những người đã khuất</font><font face="Default" color="#ffffff" >. Ngươi đến cửa Nha Môn giữ Nhị Hiệp lại, huynh ấy định đánh trống kêu oan, báo thù cho Lạc Như.</font>
+context_51008=Đệ tử Đường Môn khẳng định Tiết Thần đã bị sát hạ, để chứng minh sự trong sạch của mình, liền mời đệ tử của Nga My đi cùng để xem tình hình của Tiết Thần.
+context_51011=Kẻ thù ở ngay trước mặt, học tập võ công của Hận Thiên Lão Nhân có thể đánh bại ả ta
+context_51265=Sau khi cùng Hình Nhị Hiệp bị gia đinh của Thường Sơn Triệu vứt xuống Giếng Khô, tình cờ phát hiện được một bí tịch tàn quyển và một đống xương cốt, lúc này Hận Thiên Lão Nhân đột nhiên đi vào Giếng Khô và một mực đòi báo thù cho đồ đệ.
+context_51281=<s>Hình Nhị Hiệp nóng lòng muốn báo thù cho Lạc Như, tự mình đến trước cửa Nha Môn đánh trống kêu oan. Manh động như vậy chỉ có thể làm hỏng việc, nhanh đuổi theo anh ta. Nhưng sát nhân đền mạng, nói không chừng quan phủ lại có cách bắt hung thủ.
+title_51011=Báo thù rửa hận
+CanAcceptMenu_51137=<font face="Default" color="#ffffff" >Tôn Sứ, gần đây võ lâm xuất hiện rất nhiều cao thủ, võ học ta không cao, giao đấu với Các Đại Môn Phái chắc chắn sẽ bất lợi.</font>
+context_51007=Tiết Thần hình dáng đúng như Các Đại Tông Phái miêu tả, hơn nữa lại còn đem theo con trai của Triệu đại ca, sao có thể dẫn theo đứa trẻ mà còn làm nhiều điều ác như vậy? Ở đây có sự hiểu lầm, hay là......
+context_51031=Việc tốt nhất định cần nhiều trắc trở, Tiết Thần lấy trộm mất Ỷ Thiên Kiếm, quấy nhiễu Hoa Sơn Luận Kiếm, các cao thủ của Các Đại Tông Phái đuổi theo Tiết Thần từ khắp các ngả đường, nam nữ trong giang hồ đều có trách nhiệm, bắt được tên Tiết Thần, sẽ không dễ dàng tha cho hắn.
+target_51007=Hỏi Thiên Nhi trước rồi tìm đệ tử Các Đại Tông Phái, hỏi rõ xem rốt cuộc là việc gì
 

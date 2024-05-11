@@ -67,7 +67,6 @@ DialogID_8817=Ngươi đi bắn Pháo Hiệu, triệu tập đệ tử bổn mô
 DialogID_8818=Bọn người còn lại này giao cho ngươi đấy, để ta xem bản lĩnh ngươi ra sao, đối với bọn rác rưởi này tuyệt đối đừng nhân từ mà nương tay, đi đi!
 DialogID_8819=Biểu hiện ở nhiệm vụ lần này của ngươi ta đã biết rồi, ngươi biết đây mới chỉ là bắt đầu, sau này ngươi sẽ đối mặt với việc tàn khốc hơn, thử thách càng nghiêm khắc hơn, ngươi hãy chuẩn bị sẵn sàng đi!
 DialogID_8820=Nhật xuất giang hoa hồng thắng hỏa, xuân lai giang thủy lục như lam, sao lại không nhớ Giang Nam chứ? Cổ nhân này cũng thật nhã hứng, sao ta lại không nghĩ ra được ý cảnh này chứ? Haizz ~~~~~ vẫn là rượu này hợp khẩu vị ta. {@0:Name} ngươi thật hiểu ta, đến nhanh thật!
-DialogID_8821=Đa tạ huynh đài cứu giúp, bọn cường đạo này diệt người vô số, không phải dễ đối phó! Không xong rồi, chúng đến rồi!
 DialogID_8822={@0:Name}, ta chờ lâu rồi!
 DialogID_8823=Sự việc ta đã biết rồi, biểu hiện lần này của ngươi rất tốt, mỗi đệ tử Vô Căn Môn đều sẽ kinh qua quá trình này, như vậy ngươi mới có thể trưởng thành!
 DialogID_8824=Ngươi dẫn dắt đệ tử Vô Căn Môn đến hủy diệt Từ Gia Trang.
@@ -145,14 +144,12 @@ SubmitNpcEx_49565=Trả NV: <a href="findnpc_new,school11,wgm_042" style="HLStyp
 SubmitNpcEx_49652=Đến Diêm Tôn Điện bái kiến môn chủ <a href="findnpc_new,school11,wgm_001" style="HLStype1">Ngụy Vô Ngôn</a> nói rõ dụng ý của mình.
 SubmitNpcEx_49797=Tiêu diệt Kim Châm Thẩm Gia
 ZZAnswerText1_9051=Cấm đệ tử bổn môn tàn sát lẫn nhau
-ZZAnswerText1_9052=Cấm tham sát hại
 ZZAnswerText1_9053=Cấm đệ tử bổn môn tàn sát lẫn nhau
 ZZAnswerText2_9051=Cấm bất tuân lệnh lệnh
 ZZAnswerText2_9052=Cấm để lộ thân phận của mình
 ZZAnswerText2_9053=Cấm để lộ thân phận của mình
 ZZAnswerText3_9051=Cấm áo quần xộc xệch
 ZZAnswerText3_9052=Cấm bất tuân lệnh lệnh
-ZZAnswerText3_9053=Cấm tham sát hại
 collectinfo_8750=Thu thập <a href="findnpc_new,," style="HLStype1"></a><font color="#FFFF00">Cá Bống Hấp</font><font color="#FF3030"> (hoàn thành trong 25 phút)</font>
 collectinfo_8751=Thu thập <a href="findnpc_new,," style="HLStype1"></a><font color="#FFFF00">Thịt Nướng Đại Mạc</font><font color="#FF3030"> (hoàn thành trong 25 phút)</font>
 collectinfo_8752=Thu thập <a href="findnpc_new,," style="HLStype1"></a><font color="#FFFF00">Phật Khiêu Tường</font><font color="#FF3030"> (hoàn thành trong 25 phút)</font>
@@ -312,12 +309,6 @@ collectinfo_8981=Nâng cấp Danh Vọng, đạt yêu cầu xong đến chỗ <a
 collectinfo_8982=Nâng cấp Danh Vọng, đạt yêu cầu xong đến chỗ <a href="findnpc_new,school11,wgm_075" style="HLStype1">Đường Vũ Trực</a> mua Vô Căn Lệnh 5 (cần Danh Vọng Vô Căn Môn đạt 37 vạn 9 ngàn điểm, nhận được danh phận tương ứng, nhấn phím J mở giao diện Thế lực, trong cách chơi có thể thấy nhiệm vụ mỗi ngày được nhận và phần thưởng tương ứng)
 collectinfo_8998=Nâng cấp Danh Vọng, đạt yêu cầu xong đến chỗ <a href="findnpc_new,school11,wgm_075" style="HLStype1">Đường Vũ Trực</a> mua Vô Căn Lệnh 2 (cần Danh Vọng Vô Căn Môn đạt 7 vạn 6 ngàn điểm, nhận được danh phận tương ứng, nhấn phím J mở giao diện Thế lực, trong cách chơi có thể thấy nhiệm vụ mỗi ngày được nhận và phần thưởng tương ứng)
 collectinfo_8999=Nâng cấp Danh Vọng, đạt yêu cầu xong đến chỗ <a href="findnpc_new,school11,wgm_075" style="HLStype1">Đường Vũ Trực</a> mua Vô Căn Lệnh 1 (cần Danh Vọng Vô Căn Môn đạt 3 vạn 4 ngàn điểm, nhận được danh phận tương ứng, nhấn phím J mở giao diện Thế lực, trong cách chơi có thể thấy nhiệm vụ mỗi ngày được nhận và phần thưởng tương ứng)
-convoyinfo_8750=Bảo vệ <font color="#FF3030">Vương Tuấn Ý</font> không bị sát thủ sát hại
-convoyinfo_8751=Bảo vệ <font color="#FF3030">Tăng Phong</font> không bị sát thủ sát hại
-convoyinfo_8752=Bảo vệ <font color="#FF3030">Diệp Tuấn Nghĩa</font> không bị sát thủ sát hại
-convoyinfo_8753=Bảo vệ <font color="#FF3030">Trương Trân Ý</font> không bị sát thủ sát hại
-convoyinfo_8754=Bảo vệ <font color="#FF3030">Lôi Vũ</font> không bị sát thủ sát hại
-convoyinfo_8756=Bảo vệ <font color="#FF3030">Đổng Thục Minh</font> không bị sát thủ sát hại
 convoyinfo_8761=Bảo vệ Đông Phương Lâm
 hunterinfo_8750=Đánh bại <a href="findnpc_new,city01,wgm_028" style="HLStype1">wgm_028</a>
 hunterinfo_8751=Đánh bại <a href="findnpc_new,city01,wgn_zd_001" style="HLStype1">wgn_zd_001</a>
@@ -331,7 +322,6 @@ hunterinfo_8759=Đánh bại <a href="findnpc_new,city03,wgm_046" style="HLStype
 hunterinfo_8762=Trảm sát Tên Trùm Lôi Minh đang bao vây
 hunterinfo_8763=Trảm sát Hộ Vệ Lôi Minh đang bao vây
 hunterinfo_8764=Đánh bại Cường Đạo đột nhiên xuất hiện gần đây
-hunterinfo_8766=Ám sát <a href="findnpc_new,city02,wgm_zd_010" style="HLStype1">Yên Nam Thăng</a> trong Thành Đông Viện
 hunterinfo_8800=Diễn kịch giả vờ với <a href="findnpc_new,city03,wgm_task_glm_001" style="HLStype1">Phong Trường Hận</a> cải trang Hắc Y Nhân, lừa lấy sự tín nhiệm của hắn
 hunterinfo_8801=Đánh bại <a href="findnpc_new,school01,monm010400" style="HLStype1">Thám Tử Cái Bang</a>, gây ra rắc rối cho Cái Bang, đề phòng mưu kế nhiễu loạn của Cái Bang
 hunterinfo_8802=Đánh bại <a href="findnpc_new,school01,monm010402" style="HLStype1">Trưởng Lão Cái Bang</a>, gây ra rắc rối cho Cái Bang, đề phòng mưu kế nhiễu loạn của Cái Bang
@@ -340,15 +330,11 @@ hunterinfo_8804=Đánh bại <a href="findnpc_new,school01,wgm_task_glm_003" sty
 hunterinfo_8805=Đánh bại <a href="findnpc_new,school01,wgm_task_glm_004" style="HLStype1">Ngu Lực</a>
 hunterinfo_8806=Đánh bại <a href="findnpc_new,school01,wgm_task_glm_005" style="HLStype1">Chu Hổ</a>
 hunterinfo_8807=Đánh bại <a href="findnpc_new,school01,wgm_task_glm_006" style="HLStype1">Binh sĩ</a>
-hunterinfo_8808=Bị <a href="findnpc_new,city03,wgm_task_glm_007" style="HLStype1">Sát Thủ</a> đột nhiên xuất hiện tập kích phá rối, xử hết chúng
 hunterinfo_8809=Xử tử <a href="findnpc_new,school11,wgm_task_glm_008" style="HLStype1">Tiểu Lý Tử</a> tắc trách vi phạm môn quy, làm hỏng việc lớn
 hunterinfo_8811=Đệ tử khác trong môn cũng đã đuổi đến rồi, hợp lực đánh bại nghịch tặc <a href="findnpc_new,city03,npc_wgm_cc_015" style="HLStype1">Phong Trường Hận</a>. (Chỉ có duy trì phối hợp liên tục với các đệ tử khác công kích mới không làm cho nhiệm vụ thất bại)
 hunterinfo_8820=Đánh bại <a href="findnpc_new,school01,monm010401" style="HLStype1">Đệ Tử Cái Bang</a>, gây ra rắc rối cho Cái Bang, đề phòng mưu kế nhiễu loạn của Cái Bang
 hunterinfo_8921=Không thể để cho <a href="findnpc_new,city03,NPC_wgm_dy_wrlx" style="HLStype1">Ngô Nhụy</a> tiết lộ sự việc. Phải diệt sạch (Ngô Nhụy chắc chắn ở trong Đại Lao của Nha Môn)
 hunterinfo_8922=Đánh <a href="findnpc_new,city03,NPC_wgm_dy_dipi" style="HLStype1">Lưu Manh</a> một trận cho biết mặt
-hunterinfo_8923=Đánh bại <a href="findnpc_new,city03,NPC_wgm_dy_hy" style="HLStype1">Huống Tiền Long</a>
-hunterinfo_8924=Làm việc phải sạch sẽ dứt khoát không để lại dấu vết, tiêu diệt <a href="findnpc_new,city03,NPC_wgm_dy_hyjj" style="HLStype1">gia quyến Huống Tiền Long</a>
-hunterinfo_8925=Làm việc phải sạch sẽ dứt khoát không để lại dấu vết, tiêu diệt <a href="findnpc_new,city03,NPC_wgm_dy_hyhw" style="HLStype1">hộ vệ Huống Tiền Long</a>
 hunterinfo_8995=Tuân theo dặn dò của Môn Chủ, trọng thương 1 người chơi có thực lực đạt Đăng Phong Tạo Cực trở lên, để chứng minh sát đạo
 hunterinfo_8997=Hoàn thành thử thách cuối cùng, đánh ngã 3 Đệ Tử Tỉ Võ
 hunterinfo_8999=Tiếp tục đánh ngã 2 Đệ Tử Tỉ Võ trước mặt
@@ -452,7 +438,6 @@ interactinfo_8950=<a href="findnpc_new,school11,wgm_042" style="HLStype1">Triệ
 interactinfo_8951=Thì ra Vô Căn Môn cũng có nội ứng trong cung, quả nhiên lợi hại, đến <a href="findnpc_new,city03,Event_npc_wgm_cc_8951" style="HLStype1">gần Kim Lăng Hoàng Cung</a> tiếp ứng tình báo trong cung truyền đến.
 interactinfo_8952=Làm sao bây giờ, cứ thế này mà về nhất định sẽ bị đánh, vừa nãy hình như nhìn thấy <a href="findnpc_new,city03,Event_npc_wgm_cc_8952" style="HLStype1">Phong Trường Hận</a>. Hay là đi tìm hắn xem có giúp được gì cho ta không
 interactinfo_8953=Không biết nên điều tra từ đâu, hay là đi hỏi <a href="findnpc_new,school11,wgm_007" style="HLStype1">Lý đại nhân</a> xem có giúp được gì cho ta không
-interactinfo_8954=Việc này không thể xem thường, Dây Vải Rách này có thể là do sát thủ để lại khi bị sát hại, lẽ nào có nội gián? Nhanh về bẩm báo tổng quản <a href="findnpc_new,school11,wgm_007" style="HLStype1">Lý đại nhân</a>
 interactinfo_8955=Vừa nãy rõ ràng nhìn thấy Phong đại nhân đứng ở đây, sao mới chớp mắt đã không thấy đâu rồi? Đến <a href="findnpc_new,city03,Event_npc_wgm_cc_8955" style="HLStype1">nơi bị tập kích</a> kiểm tra xem có chứng cớ gì gỡ tội được cho mình không
 interactinfo_8956=Tin đồn chắc sẽ có hiệu quả, dù thật hay giả thì cũng phải truyền tin đi, chi bằng đến gần <a href="findnpc_new,school11,Event_npc_wgm_cc_8956" style="HLStype1">Thiên Tỉnh</a> sẽ dễ dàng hơn.
 interactinfo_8958=Xem ra tên phản đồ này không chịu khai gì, "cá nhỏ" đã bại lộ thì "cá lớn" chắc chắn cũng sẽ có hành động. Chi bằng <a href="findnpc_new,school11,Event_npc_wgm_cc_8958" style="HLStype1">kiểm tra khắp nơi</a> nói không chừng sẽ có phát hiện
@@ -677,7 +662,6 @@ story_8930_1=<font face="Default" color="#ffffff" >Bá nghiệp ngàn năm của
 story_8996_1=<font face="Default" color="#ffffff" >Ta đã biết rồi. Thiên Tuế đại nhân và Cao công công rất khen ngợi ngươi, nhưng ngươi cũng cần chứng minh cho họ thấy thực lực của mình.</font>
 story_8996_2=<font face="Default" color="#ffffff" >Không gấp, có thể trước khi nhập môn, ngươi đã nổi danh giang hồ, nhưng Vô Căn Môn ta xưa nay có không ít kỳ tài võ học gia nhập,</font> <font face="Default" color="#ffffff" >ta và ngươi chỉ là một trong số đó mà thôi.</font>
 story_8997_1=<font face="Default" color="#ffffff" >Thiên Tuế đại nhân dẫn ngươi vào Kiếm Ma Cảnh, đây là may mắn của ngươi</font><font face="Default" color="#ffffff" >! Xem ra Thiên Tuế đại nhân rất xem trọng ngươi, đừng để đại nhân thất vọng.</font>
-story_8997_2=<font face="Default" color="#ffffff" >Thân là đệ tử Vô Căn Môn, nay lấy việc trong môn làm đầu! Vô Căn Môn tuy có nguồn gốc từ trong cung, nhưng không nhiều quy tắc như cung cấm, tất cả đều dùng thực lực chứng minh.</font>
 story_8997_3=<font face="Default" color="#ffffff" >Tuy nói như vậy, nhưng cũng không thể quá phách tướng, nếu không sẽ mất mạng vì việc nhỏ. Làm việc cho tốt, ngươi sẽ được hưởng vinh hoa phú quý cả đời, võ học môn phái bác đại tinh thâm, chỉ cần cố gắng,</font> <font face="Default" color="#ffffff" >sớm muộn</font> <font face="Default" color="#ffffff" >cũng sẽ nổi danh Võ Lâm!</font>
 story_8998_1=<font face="Default" color="#ffffff" >Ha ha ha, ta vừa đưa ngươi vào Kiếm Ma Cảnh, ngươi đã vào Vô Căn Môn thì hãy tự chọn kiếm đạo, tự chọn sát đạo,</font> <font face="Default" color="#ffffff" >ngươi có thể lĩnh ngộ tinh hoa Kiếm Ma Đạo không?</font>
 story_8998_3=<font face="Default" color="#ffffff" >He he he he, nếu đã lĩnh ngộ kiếm đạo rồi, bổn tọa xem ngươi có tâm sát đạo không, đi đi, diệt một cao thủ giang hồ thật sự!</font>
@@ -820,7 +804,6 @@ storymenu_8765_2=Đa tạ sư huynh khuyên bảo, ta nghĩ ta biết nên làm 
 storymenu_8800_1=<font face="Default" color="#ffffff" >Sư huynh có kế sách gì hay không?</font>
 storymenu_8800_2=<font face="Default" color="#ffffff" >Vâng</font><font face="Default" color="#ffffff" >Vâng</font><font face="Default" color="#ffffff" >Vâng.</font><font face="Default" color="#ffffff" >Vâng.</font>
 storymenu_8801_1=<font face="Default" color="#ffffff" >Khụ khụ, tiểu nhân vốn là đà chủ của Hắc Phong Trại. Hoàng Cương do Hắc Phong Trại liên thủ với Cẩm Y Vệ cướp mất, sau này Cẩm Y Vệ muốn độc chiếm Hoàng Cương, nên đã ra tay đối phó với Hắc Phong Trại.</font>
-storymenu_8801_2=<font face="Default" color="#ffffff" >Khụ khụ, Hắc Phong Trại không phòng bị nên bị Cẩm Y Vệ tiêu diệt sạch. May mà tiểu nhân lanh trí chạy trốn,và luôn tìm cách báo thù cho các huynh đệ</font><font face="Default" color="#ffffff" >.</font>
 storymenu_8801_3=<font face="Default" color="#ffffff" >Khụ khụ, tiểu nhân phát hiện Cẩm Y Vệ giấu Hoàng Cương trong Bách Bảo Các,</font> <font face="Default" color="#ffffff" >người của Cẩm Y Vệ đuổi đến...</font>
 storymenu_8802_1=<font face="Default" color="#ffffff" >Vâng</font><font face="Default" color="#ffffff" >!</font>
 storymenu_8804_1=
@@ -849,7 +832,6 @@ storymenu_8924_1=<font face="Default" color="#ffffff" >Vụ án Hoàng Cương c
 storymenu_8924_2=<font face="Default" color="#ffffff" >Đại nhân cao kiến!</font>
 storymenu_8925_1=<font face="Default" color="#ffffff" >Tiểu nhân đã hiểu!</font>
 storymenu_8926_1=<font face="Default" color="#ffffff" >Đại nhân tiếp theo bọn ta phải làm gì?</font>
-storymenu_8927_1=<font face="Default" color="#ffffff" >Tiểu nhân quyết định xâm nhập vào đại lao diệt khẩu Ngô Nhụy!</font>
 storymenu_8930_1=<font face="Default" color="#ffffff" >Môn chủ đừng tự trách mình, dựa vào năng lực của môn chủ sẽ không cho Đông Sơn có cơ hội nổi dậy.</font>
 storymenu_8996_1=<font face="Default" color="#ffffff" >Xin phân phó, ta sẽ cố gắng hết mình!</font>
 storymenu_8996_2=<font face="Default" color="#ffffff" >Đệ tử rõ rồi.</font>
@@ -978,7 +960,6 @@ collectinfo_8890=Thu thập <a href="findnpc_new,," style="HLStype1"></a><font c
 collectinfo_8892=Thu thập <a href="findnpc_new,," style="HLStype1"></a><font color="#FFFF00">Đồng Đĩnh</font>
 collectinfo_8902=Thu thập <a href="findnpc_new,," style="HLStype1"></a><font color="#FFFF00">Dương bì mỏng</font>
 collectinfo_8936=Thu thập <a href="findnpc_new,," style="HLStype1"></a><font color="#FFFF00">Long Trảo Thủ (cổ phổ)-Mảnh Bình Thư</font>, dùng bình thư tương ứng cũng có thể trả nhiệm vụ tại chỗ Trương Kiết Luân (22,224) <font color="#FF3030">(hoàn thành trong 25 phút)</font>
-convoyinfo_8755=<font face="Default" color="#000000" >Bảo vệ</font><font face="Default" color="#f7070f" >Trương Bằng</font><font face="Default" color="#000000" >không bị sát thủ sát hại
 hunterinfo_8767=Tuần tra ở gần Đại Lao.
 hunterinfo_8768=Gặp phải nhân vật khả nghi đánh chết không luận tội
 hunterinfo_8769=<br>Có thể từ phụ cận Vô Căn Môn (-5,189) vào map nhiệm vụ, từ phụ cận Vô Căn Môn (-17,214) rời map nhiệm vụ.
@@ -1042,4 +1023,23 @@ storymenu_8766_1=<font face="Default" color="#ffffff" >Tại hạ tập võ từ
 storymenu_8766_2=<font face="Default" color="#ffffff" >Tại hạ chấp nhận khảo nghiệm của tiền bối</font>
 storymenu_8767_1=<font face="Default" color="#ffffff" >Nếu công công có thể giúp đỡ, tại hạ ắt có tạ ơn.</font>
 storymenu_8767_2=<font face="Default" color="#ffffff" >Cũng được, nay phải nhờ cậy tay nghề của công công rồi, tại hạ sẽ đến ngay.</font>
+DialogID_8821=Đa tạ huynh đài cứu giúp, bọn cường đạo này diệt người vô số, không phải dễ đối phó! Không xong rồi, chúng đến rồi!
+ZZAnswerText1_9052=Cấm tham sát hại
+ZZAnswerText3_9053=Cấm tham sát hại
+convoyinfo_8750=Bảo vệ <font color="#FF3030">Vương Tuấn Ý</font> không bị sát thủ sát hại
+convoyinfo_8751=Bảo vệ <font color="#FF3030">Tăng Phong</font> không bị sát thủ sát hại
+convoyinfo_8752=Bảo vệ <font color="#FF3030">Diệp Tuấn Nghĩa</font> không bị sát thủ sát hại
+convoyinfo_8753=Bảo vệ <font color="#FF3030">Trương Trân Dật</font> không bị sát thủ sát hại
+convoyinfo_8754=Bảo vệ <font color="#FF3030">Lôi Vũ</font> không bị sát thủ sát hại
+convoyinfo_8755=<font face="Default" color="#000000" >Bảo vệ</font><font face="Default" color="#f7070f" >Trương Bằng</font><font face="Default" color="#000000" >không bị sát thủ sát hại
+convoyinfo_8756=Bảo vệ <font color="#FF3030">Đổng Thục Minh</font> không bị sát thủ sát hại
+hunterinfo_8766=Ám sát <a href="findnpc_new,city02,wgm_zd_010" style="HLStype1">Yên Nam Thăng</a> trong Thành Đông Viện
+hunterinfo_8808=Bị <a href="findnpc_new,city03,wgm_task_glm_007" style="HLStype1">Sát Thủ</a> đột nhiên xuất hiện tập kích phá rối, xử hết chúng
+hunterinfo_8923=Đánh bại <a href="findnpc_new,city03,NPC_wgm_dy_hy" style="HLStype1">Huống Tiền Long</a>
+hunterinfo_8924=Làm việc phải sạch sẽ dứt khoát không để lại dấu vết, tiêu diệt <a href="findnpc_new,city03,NPC_wgm_dy_hyjj" style="HLStype1">gia quyến Huống Tiền Long</a>
+hunterinfo_8925=Làm việc phải sạch sẽ dứt khoát không để lại dấu vết, tiêu diệt <a href="findnpc_new,city03,NPC_wgm_dy_hyhw" style="HLStype1">hộ vệ Huống Tiền Long</a>
+interactinfo_8954=Việc này không thể xem thường, Dây Vải Rách này có thể là do sát thủ để lại khi bị sát hại, lẽ nào có nội gián? Nhanh về bẩm báo tổng quản <a href="findnpc_new,school11,wgm_007" style="HLStype1">Lý đại nhân</a>
+story_8997_2=<font face="Default" color="#ffffff" >Thân là đệ tử Vô Căn Môn, nay lấy việc trong môn làm đầu! Vô Căn Môn tuy có nguồn gốc từ trong cung, nhưng không nhiều quy tắc như cung cấm, tất cả đều dùng thực lực chứng minh.</font>
+storymenu_8801_2=<font face="Default" color="#ffffff" >Khụ khụ, Hắc Phong Trại không phòng bị nên bị Cẩm Y Vệ tiêu diệt sạch. May mà tiểu nhân lanh trí chạy trốn,và luôn tìm cách báo thù cho các huynh đệ</font><font face="Default" color="#ffffff" >.</font>
+storymenu_8927_1=<font face="Default" color="#ffffff" >Tiểu nhân quyết định xâm nhập vào đại lao diệt khẩu Ngô Nhụy!</font>
 

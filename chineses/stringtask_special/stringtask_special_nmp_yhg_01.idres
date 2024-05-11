@@ -10,7 +10,6 @@ DialogID_12607=<font face="Default" color="#ffffff" > Hừm, khẩu khí thật 
 DialogID_12609=Nữ hiệp tha mạng! Nữ hiệp tha mạng! Ta sẽ giao người ra, nữ hiệp bớt giận!
 DialogID_12610=<font face="Default" color="#ffffff" >Làm phiền các hạ tương trợ. Không còn sớm nữa, ta phải về cung phục mệnh. Tấm lệnh bài này Mặc Ngọc Mai Hoa là hoa cung dùng để giao cho người có duyên. Nếu sau này thiếu hiệp đến Di Hoa Cung, phải tìm hoa cung cung thuyền ở bến đò ngoài Thành Đô, thuyền gia sẽ dẫn ngươi đến. Sau khi đến đó, dâng vật này cho Châu Thụ Ca</font> <font face="Default" color="#ffffff" >là được.</font>
 DialogID_12611=<font face="Default" color="#ffffff" ></font><font face="Default" color="#ffffff" >Thiếu hiệp, nếu ngươi đã đến đây, thiết nghĩ mang lệnh bài Mặc Ngọc Mai Hoa cho lão xem thử?</font>
-DialogID_12612=<font face="Default" color="#ffffff" >Tên dâm tặc đó nhiều lần quấy rối Vân tỉ tỉ, ngay cả quan sai cũng bị hắn xem thường, nay bị sát hại, thật là đáng đời mà.</font>
 DialogID_12613=<font face="Default" color="#ffffff" >Họa quyển ta cần đã thu thập xong chưa</font>
 DialogID_12614=<font face="Default" color="#ffffff" >Thi thể ác thử ta cần đã thu thập xong chưa</font>
 DialogID_12625=
@@ -275,8 +274,6 @@ ZZAnswerText1_6572=Lục Ngạc Viên
 ZZAnswerText1_6573=Trục xuất sư môn
 ZZAnswerText1_6574=Ngừng truyền thụ nội công
 ZZAnswerText1_6575=Bối Khuyết Châu Cung
-ZZAnswerText1_6576=Tăng điểm PK
-ZZAnswerText1_6577=Hủy hoại Sơn Lâm Hoa Mộc gần Di Hoa Cung, diệt động vật trong rừng
 ZZAnswerText1_6578=Thông qua khảo nghiệm nghiêm khắc mới thành thân được
 ZZAnswerText1_6579=Hoa Mai
 ZZAnswerText1_6580=Võ đức vi tiên
@@ -292,7 +289,6 @@ ZZAnswerText1_6603=Lòng đau đớn, tình đã chết, không thể chữa kh�
 ZZAnswerText1_6604=Tâm tuy đã chết, người vẫn còn, diệt không tha!
 ZZAnswerText1_6605=Nam nhân tuy nhiều, nhưng không lợi hại bằng thanh kiếm ta.
 ZZAnswerText1_6606=Thế như sấm sét, không ra tay thì thôi, đã ra tay sẽ lưu danh muôn thuở
-ZZAnswerText1_6607=Diệt người lưu danh, khinh hãi giang hồ.
 ZZAnswerText1_6608=Người lòng đã chết, quyết tâm vào Di Hoa Cung không hối hận.
 ZZAnswerText1_6609=Muốn vào!
 ZZAnswerText2_6480=Khuỷu tay Đông Pha
@@ -406,8 +402,6 @@ ZZAnswerText2_6602=Tâm Thương Vật
 ZZAnswerText2_6603=Gương vỡ lại lành, đau buồn cũng sẽ hết.
 ZZAnswerText2_6604=Lòng đã chết, không còn ham muốn, không còn mưu cầu.
 ZZAnswerText2_6605=Chỉ diệt những kẻ phụ lòng.
-ZZAnswerText2_6606=Sát người không để lại tên.
-ZZAnswerText2_6607=Sát người để lại tên, giang hồ đồn đại Di Hoa Cung chỉ sát hại người phụ lòng.
 ZZAnswerText2_6608=Để ta suy nghĩ xem.
 ZZAnswerText2_6609=Không cần.
 collectinfo_12600=Thu thập <a href="findnpc_new,born01," style="HLStype1"></a> 10 mảnh Mảnh Bản Đồ Phi Ưng Địa Cung (18:00 đêm đến 6:00 hôm sau, rơi sau khi NPC trong Vụ Hoa Lâm tử vong)
@@ -574,7 +568,6 @@ hunterinfo_12611=Áp giải <a href="findnpc_new,school09,yhg_024" style="HLStyp
 hunterinfo_12612=Áp giải <a href="findnpc_new,school09,yhg_025" style="HLStype1">Đỗ Nhược</a> về Di Hoa Cung
 hunterinfo_12613=Thu thập 3 vị thảo dược tính nhiệt (Mỗi lần thu thập sẽ trừ điểm thể lực)
 hunterinfo_12615=Nghe Nữ Tử Thanh Lâu kể khổ, đến giáo huấn <a href="findnpc_new,city05,WorldNpc09745" style="HLStype1">Thái Thúc Thiểu Cơ</a>
-hunterinfo_12656=Đến Đường Môn tiêu diệt <a href="findnpc_new,school05,monm052400" style="HLStype1">Kim Hoàn Xà</a>, lấy được Xà Cân thì dùng ngay, rất có lợi cho việc bình ổn kinh mạch.
 hunterinfo_12724=So tài đã chiến thắng <a href="findnpc_new,school09,yhg_origin_02_01" style="HLStype1">Hoa Kính Không</a>
 hunterinfo_12725=So tài đã chiến thắng <a href="findnpc_new,school09,yhg_origin_02_02" style="HLStype1">Hoa Kính Không</a>
 hunterinfo_12726=So tài đã chiến thắng <a href="findnpc_new,school09,yhg_origin_02_03" style="HLStype1">Hoa Kính Không</a>
@@ -612,7 +605,6 @@ interactinfo_12610=Đem chuyện Vân Hiện Tiêu ra đi báo cho <a href="find
 interactinfo_12611=Cung Thuyền sẽ dừng tại bến nào của ngoại ô Thành Đô? Sau khi đến phải tìm 1 bậc tiền bối tên là Châu Thụ Ca…
 interactinfo_12612=Dường như đã xảy ra chuyện? Đến chỗ <a href="findnpc_new,city05,cd415" style="HLStype1">dân chúng bao vây</a> thăm dò thử
 interactinfo_12613=Giao 5 Bức Họa Bị Hỏng (làm mới trong và ngoài cung) cho <a href="findnpc_new,school09,yhg_004" style="HLStype1">Hoa Lân Tâm</a>
-interactinfo_12614=Giao 5 Thi Thể Ác Thử (diệt Ác Thử nhận được) cho <a href="findnpc_new,school09,yhg_004" style="HLStype1">Hoa Lân Tâm</a>
 interactinfo_12615=Thu gom <a href="findnpc_new,school09,EventNpc_task_39231" style="HLStype1">y phục dơ</a> của các môn nhân thay ra
 interactinfo_12616=Phơi <a href="findnpc_new,school09,EventNpc_task_39232" style="HLStype1">tập thơ bị ướt</a>
 interactinfo_12617=Phơi <a href="findnpc_new,school09,EventNpc_task_39232" style="HLStype1">y thư bị ướt</a>
@@ -799,7 +791,6 @@ maintext_6560=Đệ tử Di Hoa Cung xưa nay đều rất thông minh, giỏi q
 maintext_6561=Đệ tử Di Hoa Cung xưa nay đều rất thông minh, giỏi quan sát sắc mặt, ngươi có biết quan hệ giữa Tô Mộc Thanh và Ngu Nhạc Song là gì?
 maintext_6562=Đệ tử Di Hoa Cung phải thông thuộc địa hình, ngươi có biết giữa hành lang hình tròn của Di Hoa Cung có kiến trúc gì không?
 maintext_6563=Kiến trúc bổn môn là thiết kế của một người cùng thời, hình trạng kiến trúc giống loại thực vật gì?
-maintext_6564=Là đệ tử Di Hoa Cung ta, ngươi có biết thế lực đối địch với Di Hoa Cung ta là gì?
 maintext_6565=Đệ tử Di Hoa Cung phải thông thuộc địa hình, muốn đến Thủy Nguyệt Động Thiên phải vượt qua những loại kiến trúc gì?
 maintext_6566=Đệ tử Di Hoa Cung phải thông thuộc địa hình, ngươi có biết cây cầu bắc trên hồ Dao Ba có tên là gì?
 maintext_6567=Đệ tử Di Hoa Cung phải thông thuộc địa hình, ngươi có biết diễn võ đài của các đệ tử ở đâu?
@@ -816,7 +807,6 @@ maintext_6577=Di Hoa Cung xưa nay kỷ luật nghiêm minh, những hành vi n�
 maintext_6578=Di Hoa Cung xưa nay kỷ luật nghiêm minh, xin hỏi đệ tử bổn môn có thể thành thân không?
 maintext_6579=Đệ tử Di Hoa Cung xưa nay yêu quý hoa, xin hỏi "ngọc nhân hạ dao thái, khương phong động khinh tố. Họa giác lộng giang thành, minh đang nguyệt trung đọa" là miêu tả về loài hoa cỏ nào?
 maintext_6580=Người học võ sẽ lấy võ đức làm đầu hay võ lực làm đầu?
-maintext_6581=Hành tẩu giang hồ khó tránh khỏi tàn sát, sát nhân là đúng hay sai?
 maintext_6582=Những cao thủ có võ học cao thâm trên giang hồ đại đa số không tương ứng với tâm tính tu luyện tâm pháp, có khả năng dễ dàng ảnh hưởng tới kinh mạnh bẩm sinh, sau nhiều năm tháng tích lũy, sẽ ảnh hưởng tới tâm tích của người tu luyện, chỉ cần tâm tính của người tu luyện đủ kiên định thì có thế khắc phục được ảnh hưởng, bản tâm kiên định, nhà ngươi có làm được không?
 maintext_6583=Ngũ âm còn gọi ngũ thanh, dưới đây cái nào chính xác là ngũ âm?
 maintext_6584=Âm nhạc sử dụng trong đại lễ tế tự, triều bái đế vương cổ đại, gọi là?
@@ -828,7 +818,6 @@ maintext_6603=Vết thương lòng có thể chữa khỏi không?
 maintext_6604=Lòng đã chết rồi thì còn mong mỏi điều gì nữa?
 maintext_6605=Nam nhân trên thế gian này nhiều như vậy, làm thế nào để diệt sạch?
 maintext_6606=Di Hoa Cung mặc dù rất rộng lớn nhưng không bì được với sự bao vây của nam nhân trong thiên hạ, có ý gì?
-maintext_6607=Tại sao lại diệt người lưu danh?
 maintext_6609=Ngươi thực sự muốn gia nhập Di Hoa Cung chứ?
 okmenu_12600=Kẻ ra tay nhất định võ công cao cường. Ta đi hỏi thăm người khác xem sao.
 okmenu_12601=<font face="Default" color="#ffffff" >Mai Hoa Tiêu? Lẽ nào là do Mai Hoa Môn làm? Nhưng cả chặng đường không hề nghe thấy tin tức người của Mai Hoa Môn đến Thành Đô...</font>
@@ -1137,4 +1126,15 @@ okmenu_12708=<font face="Default" color="#ffffff" >Dễ như trở bàn tay, cô
 ZZAnswerText2_6560=Du Quán Quán
 hunterinfo_12733=Thích Quán Cán Hoa Kiếm Phái đánh bại Lương Ảnh Phong
 story_12701_1=<font face="Default" color="#ffffff" > </font><font face="Default" color="#ffffff" >Cẩm Huân muội muội trước đây tuân lệnh xuất cung làm việc, không ngờ bị mất tích trong đêm ở nơi hoang vu. Nàng may mắn gặp được công tử Đỗ Nhược của Đào Hoa Đảo. Đỗ công tử thấy nàng vừa lạnh vừa đói, liền đem nửa con gà rừng vừa nướng được cho nàng ăn, sau khi mưa ngừng liền đưa nàng đến Yên Vũ Trang...</font>
+DialogID_12612=<font face="Default" color="#ffffff" >Tên dâm tặc đó nhiều lần quấy rối Vân tỉ tỉ, ngay cả quan sai cũng bị hắn xem thường, nay bị sát hại, thật là đáng đời mà.</font>
+ZZAnswerText1_6576=Tăng điểm PK
+ZZAnswerText1_6577=Hủy hoại Sơn Lâm Hoa Mộc gần Di Hoa Cung, diệt động vật trong rừng
+ZZAnswerText1_6607=Diệt người lưu danh, khinh hãi giang hồ.
+ZZAnswerText2_6606=Sát người không để lại tên.
+ZZAnswerText2_6607=Sát người để lại tên, giang hồ đồn đại Di Hoa Cung chỉ sát hại người phụ lòng.
+hunterinfo_12656=Đến Đường Môn tiêu diệt <a href="findnpc_new,school05,monm052400" style="HLStype1">Kim Hoàn Xà</a>, lấy được Xà Cân thì dùng ngay, rất có lợi cho việc bình ổn kinh mạch.
+interactinfo_12614=Giao 5 Thi Thể Ác Thử (diệt Ác Thử nhận được) cho <a href="findnpc_new,school09,yhg_004" style="HLStype1">Hoa Lân Tâm</a>
+maintext_6564=Là đệ tử Di Hoa Cung ta, ngươi có biết thế lực đối địch với Di Hoa Cung ta là gì?
+maintext_6581=Hành tẩu giang hồ khó tránh khỏi tàn sát, sát nhân là đúng hay sai?
+maintext_6607=Tại sao lại diệt người lưu danh?
 

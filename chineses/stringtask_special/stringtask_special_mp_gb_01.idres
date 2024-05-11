@@ -27,7 +27,6 @@ submitnpcex_44017=<s>Hỏi <a href="findnpc_new,school02,WorldNpc03120" style="H
 submitnpcex_44018=<s>Hỏi <a href="findnpc_new,school02,WorldNpc03120" style="HLStype1">Liễu Vượng</a> xử lý thế nào tin người chết của Tiểu Hổ Tử.
 submitnpcex_44019=<s>Đem chuyện quan phỉ cấu kết hà hiếp lưu dân báo cho <a href="findnpc_new,school02,WorldNpc03125" style="HLStype1">Triển Hóa Sinh</a>
 submitnpcex_44025=<s>Đi bảo vệ <a href="findnpc_new,school02,WorldNpc03120" style="HLStype1">Liễu Vượng</a> và những nạn dân khác
-submitnpcex_44026=<s>An ủi <a href="findnpc_new,school02,WorldNpc03120" style="HLStype1">Liễu Vượng</a> đừng vì chuyện thổ phỉ giết người mà hoang mang
 submitnpcex_44027=<s>Hãy đem bánh và thùng nước giao cho<a href="findnpc_new,school02,WorldNpc03120" style="HLStype1">Liễu Vượng</a>
 submitnpcex_44028=<s>Đem trái cây hái được cho <a href="findnpc_new,school02,WorldNpc03120" style="HLStype1">Liễu Vượng</a>
 submitnpcex_44029=<s>Nghe <a href="findnpc_new,school02,WorldNpc03127" style="HLStype1">Tiểu Ngũ Tử</a> kể sự tình.
@@ -162,4 +161,32 @@ story_6011_1=<s>Ta nói cho ngươi biết, Liên Hoàn Ổ hiện giờ đã kh
 story_6012_2=<s>Giờ phải nhanh đưa thư đến cho Thập Nhị Liên Hoàn Ổ, nhưng phải dùng cách đưa thư của chúng, tức là dùng Tín Hầu, cũng chính là Miêu Đầu Ưng. Giờ ngươi mang theo Tín Hầu này đến Vạn Thú Sơn Trang, nghĩ cách đánh tráo Tín Hầu mà chúng dùng để thư từ qua lại, rồi gói bức thư vào trong Tín Hầu của chúng phóng ra. Mọi việc phải cần thận, không được xảy ra chút sơ suất nào.
 story_6056_1=<s>Hôm đó, ta vì muốn tăng mạnh uy lực của Đả Cẩu Trận Cái Bang mới đến nhìn trộm Côn Luận Tam Tiên Trận. Ta vốn nghĩ Tam Tiên Trận đó cũng giống với Đả Cẩu Trận là do nhiều người tập trung tạo nên, trận pháp coi trọng từng nhịp bước và sự phối hợp giữa mọi người, nhưng không ngờ nó lại hoàn toàn không phải vậy.
 story_menu_6011=Thả ngươi ra chẳng phải công toi sao! Nhanh nói đi, các ngươi và Vạn Thú Sơn Trang vì sao lại muốn đối phó với Đường Môn?
+DialogID_6111_2=<s>Cái gì? Đệ đệ ta, đệ ấy đã... <s>Cảm ơn ngươi báo cho ta, ta muốn giúp đệ ta xử lý hậu sự trước… Làm ơn hãy giúp ta tìm ra hung thủ, thay đệ ta báo thù!
+DialogID_6115=<s>Ngươi đã thay con ta báo thù rồi... Nhưng, người đã không còn nữa, tất cả đều vô ích...
+DialogID_6210=<s>Ta... ta còn có thể làm được gì. Ngươi đi đi, ta sau này sẽ không muốn báo thù nữa...
+DialogID_6312=<s>Ngươi không cần nói nữa, ta đã biết. Nơi này vốn không phải là nơi Nữ Chân Nhân của chúng ta nên đến, sớm muộn sẽ có những tai họa xảy ra, đã có vài người xảy ra triệu chứng yếu ớt mất sức...
+QiecuoMenu_6109=Ta muốn báo thù cho Tiêu sư huynh, Dương Khang Lý và phu quân của Tiểu Viên!
+QiecuoTitle_6209=<s>Giờ ta chỉ muốn báo thù!
+SubmitNpcEx_44026=<s>An ủi <a href="findnpc_new,school02,WorldNpc03120" style="HLStype1">Liễu Vượng</a> đừng vì chuyện thổ phỉ sát nhân mà hoang mang
+collectinfo_6150=Tiêu diệt <a href="findnpc_new,born02,monrv022600" style="HLStype1">Người Điên</a> lấy lại thuốc trị thương
+collectinfo_6151=Tiêu diệt <a href="findnpc_new,born02,monrv027100" style="HLStype1">Dã Hòa Thượng</a> nhận được Băng Tằm
+convoyinfo_6131=Đuổi theo Sát Thủ
+hunterinfo_6066_1=Đánh bại <a href="findnpc_new,scene09,monrm024300" style="HLStype1">Sát Thủ Nhất Phẩm Đường</a>
+hunterinfo_6068=Đánh bại <a href="findnpc_new,scene09,monrm024500" style="HLStype1">Sát Thủ Nhất Phẩm Đường</a> xông đến
+hunterinfo_6070_2=Đánh bại <a href="findnpc_new,scene09,monrm024600" style="HLStype1">Sát Thủ Nhất Phẩm Đường</a>
+hunterinfo_6135=Đánh lui <a href="findnpc_new,scene02,monrf020300" style="HLStype1">Sát Thủ</a>
+hunterinfo_6154=Đánh bại <a href="findnpc_new,born02,monrv022800" style="HLStype1">Ngao Khuyển</a>
+hunterinfo_6225=Tiêu diệt <a href="findnpc_new,school07,monrm076100" style="HLStype1">Hắc Y Sát Thủ</a> đột nhiên tập kích
+hunterinfo_6227=Đánh bại <a href="findnpc_new,school07,monm076400" style="HLStype1">Sát Thủ Tàn Bạo</a>
+hunterinfo_6233=Đối phó <a href="findnpc_new,school07,monrm076300" style="HLStype1">Hổ Tiếu Sơn Trang Sát Thủ</a> Tần Thần gọi đến
+hunterinfo_6235=Tiêu diệt <a href="findnpc_new,school07,monrm076400" style="HLStype1">Sát Thủ Tinh Anh</a> của Hổ Tiếu Sơn Trang
+interactinfo_6144=Kiểm tra <a href="findnpc_new,scene02,WorldNpc02117" style="HLStype1">Thi Thể Sát Thủ</a>
+okmenu_6111_2=Xin hãy nén đau thương! Ta nhất định sẽ thay đệ đệ ngươi báo thù!
+story_6210_2=Thân thế cô ấy ta cũng không rõ lắm, nhưng cô ấy biết dịch dung, võ công rất lợi hại. Đến đây rồi cô ấy vẫn luôn muốn tìm nam nhân lúc trước đã vứt bỏ mình để báo thù, gần đây cô ấy bỗng biến mất, ta biết đã xảy ra chuyện.
+story_6212_1=Ta muốn thấy đám nam nhân thối các ngươi xuống địa ngục! Năm đó ta bị một đệ tử Cái Bang làm nhục, tuy Phác Vạn Thu phế đi võ công của hắn, trục xuất khỏi Cái Bang nhưng hắn không biết hối cải, tên đó còn làm nhục thêm nữ tử khác. Nên ta quyết tâm báo thù, Phác Vạn Thu này cùng một ruột với tên đệ tử kia, hắn bao che đệ tử làm chuyện xấu, cũng là tội đáng muôn chết!
+story_6213_2=Có một ngày cô ấy thổ lộ tình cảm với ta, ta đã hơn năm mươi lại là sư phụ của cô ấy, đây là điều không thể! Với lại ta cũng đã có người mình thương. Cô ấy chịu đả kích rất lớn, bèn rời khỏi nơi ta ẩn cư. Lúc trước ta có gặp cô ấy một lần, cô ấy ta chê cô ấy, nảy sinh ý định báo thù...
+story_menu_6003=Huynh đệ ngươi không cần lo lắng, theo ta thấy họ vẫn chưa biết chuyện Lưu Bá bị tập kích.
+story_menu_6173=Sao ngươi lại nói ta là kẻ địch của ngươi?
+storymenu_6105_2=Kim Tiền Bang đáng ghét, ta nhất định báo thù cho các ngươi!
+interactinfo_6155=Nói với <a href="findnpc_new,born02,EventNpc44447" style="HLStype1">Địa Linh Sơn Hạ</a>
 

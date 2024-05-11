@@ -83,7 +83,6 @@ complete_51631=<font face="Default" color="#ffffff" >Ta đã nghe nói rồi, ng
 complete_51632=<font face="Default" color="#ffffff" >Được được được!! Thẳng thắn, có phúc cùng hưởng, có nạn cùng gánh là điều tiên quyết của Cái Bang ta, ngươi phải nhớ kĩ điều này, từ nay, ngươi là người của Cái Bang ta</font>
 complete_51633=<font face="Default" color="#ffffff" >Đây là……</font><font face="Default" color="#ffffff" > Ngươi quả nhiên không khiến ta thất vọng</font><font face="Default" color="#ffffff" >, thấy được sự gan dạ của ngươi, ta sẽ nhận ngươi làm đệ tử, hãy nhớ môn quy của Đường Môn, đừng tham gia tranh giành nhau trên giang hồ.</font>
 complete_51634=<font face="Default" color="#ffffff" >Hahaha, đúng vậy, trẻ nhỏ dễ dạy, từ nay trở đi, ngươi chính là đệ tử của ta, ngày sau cùng nhau nghiên cứu âm luật, ngâm thơ.</font>
-complete_51635=<font face="Default" color="#ffffff" >Tốt, từ hôm nay ngươi là người của Cẩm Y Vệ, nhớ lấy thuận ta thì sống nghịch ta thì chết.</font>
 complete_51636=<font face="Default" color="#ffffff" >Hahaha, gan dạ lắm, nói thật với ngươi, thuốc ta vừa cho ngươi uống chỉ là đan dược bình thường mà thôi, không có độc, ta thích sự gan dạ của ngươi, nay ta nhận ngươi làm đệ tử, vào Cực Lạc phải tuân thủ môn quy, không được có quan hệ với người trong triều đình, nếu không sẽ giết bất luận tội gì.</font>
 context_51501=Gần đây giang hồ không quá bình yên, nhân sĩ giang hồ các nơi ra vào, thật hỗn loạn, đi tìm hiểu xem có việc gì.
 context_51502=Lúc còn trẻ đại hòa thượng từng làm bạn với 1 đệ tử Vô Căn Môn, y nhờ ngươi mang thư đến cho lão hữu lâu năm không gặp.
@@ -475,12 +474,49 @@ target_51637=Đến Minh Giáo, khẩn cầu Giáo Chủ nhận làm đồ đệ
 target_51638=Trò chuyện với Giáo Chủ.
 title_51637=Đến Minh Giáo
 title_51638=Gia Nhập Phái
-CanAcceptMenu_51505=<font face="Default" color="#ffffff" >Cửu Đại Môn Phái</font>
-CompleteMenu_51505=<font face="Default" color="#ffffff" >Đa tạ đại hòa thượng đã báo tin của Cửu Đại Môn Phái.</font>
-accept_51505_1=<font face="Default" color="#ffffff" >Hành tẩu giang hồ một thời gian rồi, có phải cảm thấy không môn phái, không có thế lực dựa lưng cũng thật bất tiện? Giờ muốn gia nhập Cửu Đại Môn Phái thì đại hòa thượng ta có thể giúp ngươi</font><font face="Default" color="#ffffff" >, chỉ là mỗi môn phái đều có một vài quy định nhập môn riêng</font><font face="Default" color="#ffffff" >.</font>
-complete_51505=<font face="Default" color="#ffffff" >Hành tẩu giang hồ thì phải tùy tâm, không nên miễn cưỡng, nếu ngươi muốn gia nhập Cửu Đại Môn Phái</font> <font face="Default" color="#ffffff" >, có thể mang Mật Lệnh này đến tìm Người Tiếp Dẫn Cửu Đại Môn Phái, họ sẽ hướng dẫn ngươi cách gia nhập.</font>
-context_51505=Hành tẩu giang hồ đã một thời gian rồi, cảm thấy không môn phái thật đơn độc, muốn tìm một chỗ vững chắc để được dựa dẫm và bảo vệ, nếu muốn gia nhập vào một trong Cửu Đại Môn Phái, chỉ cần đủ điều kiện nhập môn là được.
-context_51506=Thời thế hưng thịnh, thế lực giang hồ ùn ùn trỗi dậy, một số thế lực phát triển nhanh chóng, dần có thể sánh với Cửu Đại Môn Phái, tìm hiểu một vài thế lực trên giang hồ sẽ giúp ích cho việc hành tẩu giang hồ sau này.
-target_51505=Gặp Đại Hòa Thượng tìm hiểu về hạn chế và yêu cầu gia nhập Cửu Đại Môn Phái.
-title_51505=Gia nhập Cửu Đại Môn Phái
+CanAcceptMenu_51639=<font face="Default" color="#ffffff" >Bái sư nhập môn</font><font face="Default" color="#ffffff" >Bái sư môn</font>
+CanAcceptMenu_51640=<font face="Default" color="#ffffff" >Bái nhập sư môn (Nhận)</font>
+CompleteMenu_51639=<font face="Default" color="#ffffff" >Hoàn thành nhiệm vụ</font>
+CompleteMenu_51640=<font face="Default" color="#ffffff" >Bái vào sư mộ (Có thể trả)</font>
+accept_51639_1=<font face="Default" color="#ffffff" >Ngươi đã muốn gia nhập</font> <font face="Default" color="#ffffff" >Thiên Sơn</font> <font face="Default" color="#ffffff" >, vậy hãy đi bái kiến</font> <font face="Default" color="#ffffff" >Chưởng Môn</font> <font face="Default" color="#ffffff" >. Nếu ngươi có thể thông qua khảo nghiệm, sẽ trở thành một thành viên của</font> <font face="Default" color="#ffffff" >phái Thiên Sơn</font> <font face="Default" color="#ffffff" >.</font>
+accept_51640_1=<font face="Default" color="#ffffff" >Ngươi đã gia nhập </font> <font face="Default" color="#ffffff" >bổn phái</font> <font face="Default" color="#ffffff" >, có một số việc ngươi nên biết.</font>
+complete_51639=<font face="Default" color="#ffffff" >…Không biết các hạ vì sao đến đây?</font>
+complete_51640=<font face="Default" color="#ffffff" >Từ giờ ngươi đã là đệ tử của </font> <font face="Default" color="#ffffff" >Thiên Sơn</font> <font face="Default" color="#ffffff" >ta.</font>
+context_51639=Ngươi đã muốn gia nhập Thiên Sơn, vậy hãy đi bái kiến chưởng môn. Nếu ngươi có thể thông qua khảo nghiệm, sẽ trở thành một thành viên của Thiên Sơn.
+context_51640=Nghe Chưởng Môn kể về phái Thiên Sơn.
+menu_51639_1=<font face="Default" color="#ffffff" >Để ta suy nghĩ một chút.</font>
+menu_51640_1=<font face="Default" color="#ffffff" >Đệ tử lắng nghe giáo huấn.</font>
+submit_51639=<font face="Default" color="#ffffff" >Tại hạ nghe danh</font> <font face="Default" color="#ffffff" >Thiên Sơn</font> <font face="Default" color="#ffffff" >đã lâu, nay đến tiếp kiến, xin Chưởng Môn đừng trách tại hạ đường đột.</font>
+submit_51640=<font face="Default" color="#ffffff" >Đa tạ</font> <font face="Default" color="#ffffff" >Chưởng Môn</font> <font face="Default" color="#ffffff" >.</font>
+target_51639=Đến Thiên Sơn Phái khẩn cầu Chưởng Môn nhận làm đồ đệ
+target_51640=Trò chuyện với Chưởng Môn.
+title_51639=Đến Thiên Sơn Phái
+title_51640=Gia Nhập Phái
+complete_51635=<font face="Default" color="#ffffff" >Tốt, từ hôm nay ngươi là người của Cẩm Y Vệ, nhớ lấy thuận ta thì sống nghịch ta thì vong.</font>
+CanAcceptMenu_51641=<font face="Default" color="#ffffff" >Bái sư nhập môn</font><font face="Default" color="#ffffff" >Bái sư môn</font>
+CanAcceptMenu_51642=<font face="Default" color="#ffffff" >Bái nhập sư môn (Nhận)</font>
+CompleteMenu_51641=<font face="Default" color="#ffffff" >Hoàn thành nhiệm vụ</font>
+CompleteMenu_51642=<font face="Default" color="#ffffff" >Bái vào sư mộ (Có thể trả)</font>
+accept_51641_1=<font face="Default" color="#ffffff" >  Ngươi đã muốn gia nhập </font><font face="Default" color="#ffffff" >Côn Luân</font><font face="Default" color="#ffffff" > Phái, vậy hãy đi bái kiến chưởng môn đi. Nếu ngươi có thể thông qua khảo nghiệm, thì có thể trở thành người của </font><font face="Default" color="#ffffff" >Côn Luân</font><font face="Default" color="#ffffff" > Phái ta.</font>
+accept_51642_1=<font face="Default" color="#ffffff" >Ngươi đã vào phái này, có vài chuyện phải biết.</font>
+complete_51641=<font face="Default" color="#ffffff" >…Không biết các hạ vì sao đến đây?</font>
+complete_51642=<font face="Default" color="#ffffff" >Vậy từ giờ trở đi ngươi chính là đệ tử </font><font face="Default" color="#ffffff" >Côn Luân</font><font face="Default" color="#ffffff" > Phái.</font>
+context_51641=Ngươi đã muốn gia nhập Côn Luân Phái, vậy hãy đi bái kiến chưởng môn đi. Nếu ngươi có thể thông qua khảo nghiệm, thì có thể trở thành người của Côn Luân Phái ta.
+context_51642=Nghe chưởng môn kể về Côn Luân Phái.
+menu_51641_1=<font face="Default" color="#ffffff" >Để ta suy nghĩ một chút.</font>
+menu_51642_1=<font face="Default" color="#ffffff" >Đệ tử lắng nghe giáo huấn.</font>
+submit_51641=<font face="Default" color="#ffffff" >Tại hạ nghe danh tiếng </font><font face="Default" color="#ffffff" >Côn Luân</font><font face="Default" color="#ffffff" > đã lâu, nay đến bái kiến, xin chưởng môn đừng trách tại hạ đường đột.</font>
+submit_51642=<font face="Default" color="#ffffff" >Tạ chưởng môn.</font>
+target_51641=Đến Côn Luân Phái, rất mong chưởng môn nhận ngươi làm đồ đệ.
+target_51642=Trò chuyện với Chưởng Môn.
+title_51641=Đến Côn Luân Phái
+title_51642=Gia Nhập Phái
+CanAcceptMenu_51505=<font face="Default" color="#ffffff" >Các Đại Tông Phái</font>
+CompleteMenu_51505=<font face="Default" color="#ffffff" >Đa tạ đại hòa thượng đã báo tin của Các Đại Tông Phái.</font>
+accept_51505_1=<font face="Default" color="#ffffff" >Hành tẩu giang hồ một thời gian rồi, có phải cảm thấy không môn phái, không có thế lực dựa lưng cũng thật bất tiện? Giờ muốn gia nhập Các Đại Tông Phái thì đại hòa thượng ta có thể giúp ngươi</font><font face="Default" color="#ffffff" >, chỉ là mỗi môn phái đều có một vài quy định nhập môn riêng</font><font face="Default" color="#ffffff" >.</font>
+complete_51505=<font face="Default" color="#ffffff" >Hành tẩu giang hồ thì phải tùy tâm, không nên miễn cưỡng, nếu ngươi muốn gia nhập Các Đại Tông Phái</font> <font face="Default" color="#ffffff" >, có thể mang Mật Lệnh này đến tìm Người Tiếp Dẫn Các Đại Tông Phái, họ sẽ hướng dẫn ngươi cách gia nhập.</font>
+context_51505=Hành tẩu giang hồ đã một thời gian rồi, cảm thấy không môn phái thật đơn độc, muốn tìm một chỗ vững chắc để được dựa dẫm và bảo vệ, nếu muốn gia nhập vào một trong Các Đại Tông Phái, chỉ cần đủ điều kiện nhập môn là được.
+context_51506=Thời thế hưng thịnh, thế lực giang hồ ùn ùn trỗi dậy, một số thế lực phát triển nhanh chóng, dần có thể sánh với Các Đại Môn Phái, tìm hiểu một vài thế lực trên giang hồ sẽ giúp ích cho việc hành tẩu giang hồ sau này.
+target_51505=Gặp Đại Hòa Thượng tìm hiểu về hạn chế và yêu cầu gia nhập Các Đại Tông Phái.
+title_51505=Gia nhập Các Đại Tông Phái
 

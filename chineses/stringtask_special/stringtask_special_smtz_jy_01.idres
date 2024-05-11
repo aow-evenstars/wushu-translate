@@ -44,8 +44,6 @@ hunterinfo_58301=Đến Yến Kinh tìm bắt <a href="findnpc_new,city01,monc02
 hunterinfo_58302=Đến Yến Kinh tìm bắt <a href="findnpc_new,city01,monc020705" style="HLStype1">Tội Phạm Truy Nã</a>
 hunterinfo_58303=Đến Yến Kinh tìm bắt <a href="findnpc_new,city01,monc020706" style="HLStype1">Tội Phạm Truy Nã</a>
 hunterinfo_58304=Đánh bại <a href="findnpc_new,school01,jyw038" style="HLStype1">đệ tử Cẩm Y Vệ</a>, thu được thắng lợi
-hunterinfo_58305=Tiêu diệt <a href="findnpc_new,school01,monrm013905" style="HLStype1">Ác Quỷ Môn Tặc Đồ</a> ngoài Thái Bình Thôn
-hunterinfo_58306=Tiêu diệt <a href="findnpc_new,school01,monrm013906" style="HLStype1">Người Cướp Ngục</a> hình phòng
 interactinfo_58301=Nói chuyện với <a href="findnpc_new,city05,cd487" style="HLStype1">đệ tử Cẩm Y Vệ</a> tiếp ứng ở Thành Đô
 interactinfo_58302=Đi Từ Gia Trang tìm <a href="findnpc_new,city05,cd499" style="HLStype1">đệ tử Cẩm Y Vệ</a> tiếp ứng ở đó
 interactinfo_58303=Đi Tô Châu Tùng Hạc Lâu gặp <a href="findnpc_new,city02,sz458" style="HLStype1">đệ tử Cẩm Y Vệ</a> tiếp ứng
@@ -68,7 +66,6 @@ specialinfo_186=Hoàn thành khiêu chiến thế lực Thẩm Gia Bảo (Phải
 specialinfo_191=Đoạt tin của mật thám, hoàn thành nhiệm vụ Tuần Tra Môn Phái
 specialinfo_192=Hoàn thành nhiệm vụ Tuần Tra Môn Phái (Phải hoàn thành 3 lần)
 specialinfo_193=Hoàn thành nhiệm vụ Tuần Tra Môn Phái (Phải hoàn thành 3 lần)
-specialinfo_195=Chờ thời cơ giải cứu thành công người bị bắt cóc
 specialinfo_196=Đến Thiếu Lâm Tự, lấy tin tức, hoàn thành nhiệm vụ Điều Tra Môn Phái
 specialinfo_197=Hoàn thành nhiệm vụ Điều Tra Môn Phái (Phải hoàn thành 3 lần)
 specialinfo_198=Hoàn thành nhiệm vụ Điều Tra Môn Phái (Phải hoàn thành 3 lần)
@@ -93,7 +90,6 @@ story_58303_2=<font face="Default" color="#ffffff" >   </font><font face="Defaul
 story_58304_1=<font face="Default" color="#ffffff" >   Ngươi </font><font face="Default" color="#ffffff" >cuối cùng</font><font face="Default" color="#ffffff" > cũng đến, việc bên này</font><font face="Default" color="#ffffff" > hóc búa lắm...</font>
 story_58304_2=<font face="Default" color="#ffffff" >   Ông chủ Thư Trai chết một cách thật bí ẩn, bà chủ trọng thưởng ủy thác Cẩm Y Vệ tra rõ việc này, thật không thể sơ sài được, tiếp theo ngươi đến Thư Trai Linh Đường phía đối diện </font><font face="Default" color="#ffffff" >ấy</font><font face="Default" color="#ffffff" > gặp Thạch phu nhân tìm hiểu kỹ càng nhé.</font>
 story_58305_1=<font face="Default" color="#ffffff" >   Hu hu hu… phu quân chết không minh không bạch </font><font face="Default" color="#ffffff" >thật</font><font face="Default" color="#ffffff" >...</font>
-story_58305_2=<font face="Default" color="#ffffff" >    Trước khi phu quân ta qua đời muốn lấy thư tay in thành sách, trong đó nhắc đến "Thanh Vân Bảo" "Hồ Điệp Sát Nhân", theo ta thấy, việc này có dính dáng đến Thanh Vân Bảo... Có điều nơi đó vốn là cấm địa giang hồ, người tầm thường nào ai dám đi...Trên lầu có giữ lại một vài </font><font face="Default" color="#ffffff" >thư</font><font face="Default" color="#ffffff" >, hay ngươi đi xem xem có giúp ích được không?</font>
 story_58306_1=<font face="Default" color="#ffffff" >   Cái gì! Hắc Y Nhân đánh lén? Chả lẽ hung thủ quay trở lại?</font>
 story_58306_2=<font face="Default" color="#ffffff" >   Ôi…không ngờ bình thường ta cẩn thận là vậy, nhưng khi có kẻ ác đến</font><font face="Default" color="#ffffff" >,</font><font face="Default" color="#ffffff" > ta lại chẳng hề hay biết… Chuyện này nhờ cả vào ngươi đấy...</font>
 story_menu_58302=<font face="Default" color="#ffffff" >Cán Hoa Lãnh Kiếm</font>
@@ -116,8 +112,6 @@ storymenu_58305_1=<font face="Default" color="#ffffff" >Chia buồn với Thạc
 storymenu_58305_2=<font face="Default" color="#ffffff" >Ta lên xem liền.</font>
 storymenu_58306_1=<font face="Default" color="#ffffff" >Theo ta suy đoán, người tập kích ta hình như muốn lấy thư tay Tôn Phu để lại, hoặc là muốn xóa chứng cứ...</font>
 storymenu_58306_2=<font face="Default" color="#8fd6ef" >(Xem ra ta phải đi Thanh Vân Bảo điều tra rõ việc này...)</font><font face="Default" color="#ffffff" > Phu nhân bảo trọng, sau này gặp lại.</font>
-specialinfo_110=Vượt ải Cấm Địa Mộ Sắc Chi Thôn (Độ khó ngẫu nhiên), tiêu diệt Triệu Tử Các
-specialinfo_188=Vượt ải Cấm Địa Thanh Vân Bảo (Độ khó ngẫu nhiên) điều tra chân tướng Hồ Điệp Sát Nhân
 DialogID_58311=<font face="Default" color="#ffffff" >Ngươi đã thành đệ tử bổn môn, trong bổn môn có có một người tiến cử sư huynh đệ, ngươi hãy đến bái kiến.</font>
 SubmitNpcEx_86827=Đến chỗ <a href="findnpc_new,school02,wd173" style="HLStype1">Quản Lý Huynh Đệ Môn Phái</a>
 collectinfo_58313=Thu thập Bách Dương Mộc
@@ -152,4 +146,9 @@ specialinfo_430=Hoàn thành khiêu chiến thế lực với Tinh Túc Phái (Q
 specialinfo_587=Hoàn thành khiêu chiến thế lực Cán Hoa Kiếm Phái
 story_58302_1=<font face="Default" color="#ffffff" >   Ngươi đến rồi, ta chờ ở đây đã lâu. Ôi, bọn người của Cán Hoa Kiếm Phái tự </font><font face="Default" color="#ffffff" >xưng</font><font face="Default" color="#ffffff" > danh môn chính phái, nhưng lại không nói lý lẽ...</font>
 story_58302_2=<font face="Default" color="#ffffff" >   Nhiều người của Cán Hoa Kiếm Phái vì bị tập kích và nhặt được lệnh bài của Cẩm Y Vệ, nên </font><font face="Default" color="#ffffff" >mấy ngày nay</font><font face="Default" color="#ffffff" > gắt gỏng với Cẩm Y Vệ lắm, theo ta thấy, đây là do người khác vu oan giá họa! Ta ở đây tiếp tục điều tra điểm khả nghi, ngươi đi Cán Hoa Kiếm Phái cẩn thận dò la.</font>
+hunterinfo_58305=Tiêu diệt <a href="findnpc_new,school01,monrm013905" style="HLStype1">Ác Quỷ Môn Tặc Đồ</a> ngoài Thái Bình Thôn
+hunterinfo_58306=Tiêu diệt <a href="findnpc_new,school01,monrm013906" style="HLStype1">Người Cướp Ngục</a> hình phòng
+specialinfo_110=Vượt ải Cấm Địa Mộ Sắc Chi Thôn (Độ khó ngẫu nhiên), tiêu diệt Triệu Tử Các
+specialinfo_188=Vượt ải Cấm Địa Thanh Vân Bảo (Độ khó ngẫu nhiên) điều tra chân tướng Hồ Điệp Sát Nhân
+story_58305_2=<font face="Default" color="#ffffff" >    Trước khi phu quân ta qua đời muốn lấy thư tay in thành sách, trong đó nhắc đến "Thanh Vân Bảo" "Hồ Điệp Sát Nhân", theo ta thấy, việc này có dính dáng đến Thanh Vân Bảo... Có điều nơi đó vốn là cấm địa giang hồ, người tầm thường nào ai dám đi...Trên lầu có giữ lại một vài </font><font face="Default" color="#ffffff" >thư</font><font face="Default" color="#ffffff" >, hay ngươi đi xem xem có giúp ích được không?</font>
 

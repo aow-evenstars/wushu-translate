@@ -36,7 +36,6 @@ collectinfo_58603=Thu thập <a href="findnpc_new,," style="HLStype1"></a>1 than
 hunterinfo_58601=Ngăn chặn Hàn Tự Cẩm của Mộ Sắc Chi Thôn
 hunterinfo_58602=Đến Thanh Vân Bảo-Thường đánh bại Bảo Mộng Tiệp
 hunterinfo_58603=Đánh bại <a href="findnpc_new,school07,monm072100" style="HLStype1">Giả Tam Thanh Quan Đạo Sĩ</a>
-hunterinfo_58604=Đánh bại <a href="findnpc_new,school07,monm076400" style="HLStype1">Sát Thủ Tàn Bạo</a>
 hunterinfo_58605=Tỷ thí với <a href="findnpc_new,school07,WorldNpc04883" style="HLStype1">Lăng Vân Tử</a>
 hunterinfo_58606=Khống chế <a href="findnpc_new,school07,WorldNpc04577" style="HLStype1">Tô Thấm Thư</a>
 interactinfo_58601=Trò chuyện cùng <a href="findnpc_new,school08,WorldNpc00212" style="HLStype1">Huyền Hoài Đại Sư</a>
@@ -54,9 +53,7 @@ okmenu_58606=Lẽ nào thật sự là hiểu lầm?
 specialinfo_111=Xong 1 lần Vận Tiêu
 specialinfo_113=Tuần tra trong môn phái, nhận tình báo, và hoàn thành tuần tra.
 specialinfo_129=Đánh bại người của Thiên Hương Trà Lâm
-specialinfo_130=Giải cứu 1 người bị bắt cóc
 specialinfo_131=Đến Cực Lạc Cốc thu thập tình báo, và hoàn thành điều tra
-specialinfo_132=Tiêu diệt Tội Phạm Truy Nã, hoàn thành Truy Nã Giang Hồ
 specialinfo_133=Khiêu chiến Từ Gia Trang
 specialinfo_134=Tấn công môn phái khác, và giành 1 lần thắng lợi Môn Phái Chiến
 specialinfo_135=Bang Chiến phóng hỏa đốt 1 tòa kiến trúc đối phương
@@ -68,7 +65,6 @@ DialogID_58608=<font face="Default" color="#ffffff" >Mệnh án Thanh Vân Bảo
 SubmitNpcEx_87121=Bẩm báo kết quả với <a href="findnpc_new,school07,WorldNpc04401" style="HLStype1">Tử Dương Chân Nhân</a>
 SubmitNpcEx_87122=Bẩm báo chuyện xảy ra với chưởng môn <a href="findnpc_new,school07,WorldNpc04401" style="HLStype1">Tử Dương Chân Nhân</a>
 SubmitNpcEx_87123=Bẩm báo kết quả điều tra với chưởng môn <a href="findnpc_new,school07,WorldNpc04401" style="HLStype1">Tử Dương Chân Nhân</a>
-hunterinfo_58607=Đánh bại <a href="findnpc_new,city04,wdsmss" style="HLStype1">sát thủ thần bí</a>
 interactinfo_58607=Hỏi <a href="findnpc_new,school07,wd170" style="HLStype1">khách giang hồ thần bí</a>
 interactinfo_58608=Tìm <a href="findnpc_new,city04,FunnpcClone021007" style="HLStype1">Tiêu Binh </a> dò hỏi Thanh Vân Bảo xảy ra chuyện gì
 okmenu_58607=<font face="Default" color="#ffffff" >Nếu vậy, cứ xông vào dò thám.</font>
@@ -78,12 +74,10 @@ specialinfo_351=Vượt ải cấm địa Mộ Sắc Thôn, tra rõ đầu �
 specialinfo_352=Vượt ải cấm địa Thanh Vân Bảo, tra rõ đầu đuôi sự tình
 story_58601_1=<font face="Default" color="#ffffff" >Gần đây đệ tử Võ Đang ta phát hiện Hổ Tiếu Sơn Trang hành sự bí hiểm, như âm mưu việc gì, </font><font face="Default" color="#ffffff" >ta đã phái đệ tử thông báo việc này cho các Môn Phái.</font><font face="Default" color="#ffffff" > Ngươi mau đến Hổ Tiếu Sơn Trang xem có tra rõ được không.</font>
 story_58602_1=<font face="Default" color="#ffffff" >Gần đây trong Tô Châu Thành xuất hiện nhiều nhân sĩ giang hồ, đệ tử Võ Đang bẩm báo họ rất hung ác, sợ liên lụy kẻ vô tội. Hiện lệnh ngươi mau đến Tô Châu Thành, tra rõ sự tình.</font>
-story_58603_1=<font face="Default" color="#ffffff" >Hầy! Nhắc đến chuyện này, khách quan hỏi đúng </font><font face="Default" color="#ffffff" >người</font><font face="Default" color="#ffffff" > rồi. Những nhân sĩ giang hồ đều là người của Tích Sơn Hàn Gia. Họ kết bè kết đảng đến Mộ Sắc Chi Thôn. Bảo là kiếm Triệu Tử Các báo thù.</font>
 story_58603_2=<font face="Default" color="#ffffff" >Ôi! Lũ người này đúng độc địa, họ bắt dân làng ép Triệu Tử Các quy hàng. Những dân làng đó thật đáng thương, tử thương vô số, nghe đâu Hàn Gia đốt cả nhà họ nữa kìa. Ôi...</font>
 story_58604_1=<font face="Default" color="#ffffff" >Họ hẳn đã biết tung tích của Triệu Tử Các mới đến Mộ Sắc Chi Thôn. Ôi! Mối thù xưa, báo đến khi nào mới xong. Ngươi nhanh đến Mộ Sắc Chi Thôn, ngăn cản Hàn Gia lạm sát dân làng, nếu khuyên bảo được thì đừng ra tay, nếu hết cách, đành lấy bạo chế bạo.</font>
 story_58605_1=<font face="Default" color="#ffffff" >Gần đây trong Lạc Dương  Thành liên tiếp xảy ra mệnh án,</font><font face="Default" color="#ffffff" > nạn nhân chết một cách ly kỳ.</font><font face="Default" color="#ffffff" > Giang hồ thấp thỏm không yên, đệ tử Võ Đang ta vẫn chưa điều tra rõ.</font>
 story_58605_2=<font face="Default" color="#ffffff" >Trên người nạn nhân không có vết thương rõ ràng, có vẻ trước khi chết bị cú sốc lớn lắm, mắt trợn tròn như thấy điều gì kinh dị. Nay lệnh ngươi mau xuống núi, xem có tra rõ chân tướng được không.</font>
-story_58606_1=<font face="Default" color="#ffffff" >Ta đã biết Thanh Vân Bảo gần đây xảy ra việc Hồ Điệp Sát Nhân. Chỉ sợ lúc này </font><font face="Default" color="#ffffff" >vẫn chưa kết thúc, việc này phải vào Thanh Vân Bảo xem có thể điều tra chân tướng không. Ngươi mau đến Thanh Vân Bảo, lần này phải điều tra rõ ràng.</font>
 story_menu_58601=<font face="Default" color="#ffffff" >Không biết Chưởng Môn có dặn dò gì?</font>
 story_menu_58602=<font face="Default" color="#ffffff" >Không biết Chưởng Môn lo âu việc gì?</font>
 story_menu_58603=<font face="Default" color="#ffffff" >Tiểu nhị ca, gần đây Tô Châu Thành có vẻ nhiều nhân sĩ giang hồ quá, xảy ra chuyện gì chăng?</font>
@@ -148,7 +142,6 @@ story_58610_2=<font face="Default" color="#ffffff" >Ài! Nói đến chuyện n�
 story_58611_1=<font face="Default" color="#ffffff" >Có lẽ chúng biết tung tích Triệu Tử Các, mới đến Mộ Sắc Chi Thôn này. Ài! Ân oán nhiều năm không dứt
 story_58612_1=<font face="Default" color="#ffffff" >Gần đây thành Lạc Dương phát hiện nhiều án mạng, người mất đều rất kỳ lạ. Khiến người giang hồ đều thấp thỏm không yên. Chỉ là chuyện cụ thể
 story_58612_2=<font face="Default" color="#ffffff" >Những người mất mạng không có vết thương rõ ràng, trước đó dường như bị kinh sợ, đôi mắt còn mở to như thấy điều gì kinh hoàng
-story_58613_1=<font face="Default" color="#ffffff" >Không sao, ta đã biết Thanh Vân Bảo gần đây xảy ra chuyện bướm diệt người. Chỉ sợ là chưa kết thúc, mà kế sách hiện nay chỉ có
 story_menu_58608=<font face="Default" color="#ffffff" >Không biết Chưởng Môn có dặn dò gì?</font>
 story_menu_58609=<font face="Default" color="#ffffff" >Không biết Chưởng Môn lo âu việc gì?</font>
 story_menu_58610=<font face="Default" color="#ffffff" >Tiểu nhị ca, gần đây Tô Châu Thành có vẻ nhiều nhân sĩ giang hồ quá, xảy ra chuyện gì chăng?</font>
@@ -169,4 +162,10 @@ storymenu_58611_1=<font face="Default" color="#ffffff" >Đệ tử nhận lệnh
 storymenu_58612_1=<font face="Default" color="#ffffff" >Không biết những người chết đó có chỗ nào ly kỳ?</font>
 storymenu_58612_2=<font face="Default" color="#ffffff" >Đệ tử nhận lệnh.</font>
 storymenu_58613_1=<font face="Default" color="#ffffff" >Đệ tử nhận lệnh.</font>
+hunterinfo_58604=Đánh bại <a href="findnpc_new,school07,monm076400" style="HLStype1">Sát Thủ Tàn Bạo</a>
+hunterinfo_58607=Đánh bại <a href="findnpc_new,city04,wdsmss" style="HLStype1">Sát Thủ Thần Bí</a>
+specialinfo_132=Tiêu diệt Tội Phạm Truy Nã, hoàn thành Truy Nã Giang Hồ
+story_58603_1=<font face="Default" color="#ffffff" >Hầy! Nhắc đến chuyện này, khách quan hỏi đúng </font><font face="Default" color="#ffffff" >người</font><font face="Default" color="#ffffff" > rồi. Những nhân sĩ giang hồ đều là người của Tích Sơn Hàn Gia. Họ kết bè kết đảng đến Mộ Sắc Chi Thôn. Bảo là kiếm Triệu Tử Các báo thù.</font>
+story_58606_1=<font face="Default" color="#ffffff" >Ta đã biết Thanh Vân Bảo gần đây xảy ra việc Hồ Điệp Sát Nhân. Chỉ sợ lúc này </font><font face="Default" color="#ffffff" >vẫn chưa kết thúc, việc này phải vào Thanh Vân Bảo xem có thể điều tra chân tướng không. Ngươi mau đến Thanh Vân Bảo, lần này phải điều tra rõ ràng.</font>
+story_58613_1=<font face="Default" color="#ffffff" >Không sao, ta đã biết Thanh Vân Bảo gần đây xảy ra chuyện bướm diệt người. Chỉ sợ là chưa kết thúc, mà kế sách hiện nay chỉ có
 

@@ -25,7 +25,6 @@ DialogID_15797=<font face="Default" color="#ffffff" >這......尊主！這是尊
 DialogID_15801=<font face="Default" color="#ffffff" >你就是新來的？尊主命我照應你一下，隨我來。</font>
 DialogID_15802=<font face="Default" color="#ffffff" >下面我帶你去見魅紅令主，她在念蘿壩內最受弟子的尊重。</font>
 DialogID_15803=<font face="Default" color="#ffffff" >下面去胭脂谷，去見胭脂令主。</font>
-DialogID_15804=<font face="Default" color="#ffffff" >胭脂令主宮碧若，同時分管我派暗殺和執行特殊任務，如果你哪天胭脂血修煉超過了她，你就可以成為新的胭脂令主。</font>
 DialogID_15805=<font face="Default" color="#ffffff" >嗯，你來了。此次念蘿壩劫難，唐門幫了我們大忙，現在此劫已過，你幫我帶份禮物和玉羽雀一併交還給我師叔唐鳳吧。記得一定要恭謹。</font>
 DialogID_15807=<font face="Default" color="#ffffff" >嗯，我雖已不是念蘿壩的人，但總歸還是出身於那。這些小忙，我當然不會袖手旁觀，去告訴水寒秋，這些禮物，我就收下了。</font>
 DialogID_15809=<font face="Default" color="#ffffff" >念蘿壩秘藥，是我念蘿壩立派之本。每個念蘿壩弟子都需要獨自製作。</font><font face="Default" color="#ffffff" >你先去胭脂谷採來彼岸花、雙生花。</font>
@@ -149,7 +148,6 @@ SubmitNpcEx_21252=把幫助包打聽喂猴子的事回去稟報<a href="findnpc_
 SubmitNpcEx_21253=把收集到的花草帶回去交給<a href="findnpc_new,school15,npc_nlb_ww01" style="HLStype1">冷步三</a>
 SubmitNpcEx_21254=把幫助大師姐的事回去稟報<a href="findnpc_new,school15,npc_nlb_ww02" style="HLStype1">姬卜肆</a>
 SubmitNpcEx_21255=把和木師姐切磋之事回去稟報<a href="findnpc_new,school15,npc_nlb_ww02" style="HLStype1">姬卜肆</a>
-SubmitNpcEx_21256=把擊殺野獸之事回去稟報<a href="findnpc_new,school15,npc_nlb_ww02" style="HLStype1">姬卜肆</a>
 SubmitNpcEx_21271=找<a href="findnpc_new,school05,npc_nlb_ww05" style="HLStype1">寒若水</a>完成任務
 SubmitNpcEx_21280=找<a href="findnpc_new,city03,npc_nlb_ww03" style="HLStype1">念慕慈</a>完成任務
 SubmitNpcEx_21281=找<a href="findnpc_new,city03,npc_nlb_ww16" style="HLStype1">海桃</a>完成任務
@@ -205,8 +203,6 @@ collectinfo_15754=收集<a href="findnpc_new,," style="HLStype1"></a>5份斷腸�
 collectinfo_15755=收集<a href="findnpc_new,," style="HLStype1"></a>5份苦情花（藥師身份達到識藥學童即可採集獲得）
 collectinfo_15756=收集<a href="findnpc_new,," style="HLStype1"></a>5份白朮
 collectinfo_15758=去找<a href="findnpc_new,city03,npc_nlb_ww03" style="HLStype1">念慕慈</a>獲得入門憑證，加入念蘿壩。需與念慕慈或者即墨殤對話，完成入門條件，方可加入。
-collectinfo_15759=去找<a href="findnpc_new,city03,npc_nlb_ww16" style="HLStype1">海桃</a>獲得入門憑證，加入念蘿壩。加入念蘿壩需要符合以下幾個條件：1、唐門或無門派無勢力2、不為八大派代掌門，長老，執事身份3、不在念蘿壩判師24天之內
-collectinfo_15760=去找<a href="findnpc_new,school05,npc_nlb_ww05" style="HLStype1">寒若水</a>獲得入門憑證，加入念蘿壩。加入念蘿壩需要符合以下幾個條件：1、唐門或無門派無勢力2、不為八大派代掌門，長老，執事身份3、不在念蘿壩判師24天之內
 collectinfo_15780=去找<a href="findnpc_new,city03,npc_nlb_ww03" style="HLStype1">念慕慈</a>獲得入門憑證，加入念蘿壩。需與念慕慈或者即墨殤對話，完成入門條件，方可加入。
 collectinfo_15941=幫妮妮捉五隻<a href="findnpc_new,adv124,flynpc_nlb_butterfly01" style="HLStype1">黑色蝴蝶</a>
 collectinfo_15942=收集<a href="findnpc_new,," style="HLStype1"></a>5份千針石毒散
@@ -230,10 +226,7 @@ hunterinfo_15755=和此人無法溝通，狠狠教訓<a href="findnpc_new,city02
 hunterinfo_15756=前往丐幫教訓造謠叛徒<a href="findnpc_new,school02,npc_nlb_ww43" style="HLStype1">念蘿壩叛徒</a>
 hunterinfo_15757=沒想到這個女人這麼囉嗦，問個事都支吾半天，於是心生不快，就想教訓<a href="findnpc_new,school15,npc_nlb_ww52" style="HLStype1">包打聽</a>一下
 hunterinfo_15758=已一切準備就緒，詢問<a href="findnpc_new,school15,npc_nlb_ww53" style="HLStype1">木慕穆</a>是否可以開始切磋
-hunterinfo_15760=擊殺<a href="findnpc_new,school15,npc_nlb_ww54" style="HLStype1">雲朵</a>
 hunterinfo_15761=不好！話剛說完，這就衝進來幾個<a href="findnpc_new,city03,npc_nlb_mxm27" style="HLStype1">東廠番子</a>！
-hunterinfo_15762=幫助尊主擊殺<a href="findnpc_new,city03,npc_nlb_mxm30" style="HLStype1">東廠番子</a>
-hunterinfo_15763=幫助尊主擊殺<a href="findnpc_new,city03,npc_nlb_mxm31" style="HLStype1">東廠番子</a>
 hunterinfo_15783=為了門派的榮譽，和<a href="findnpc_new,city05,npc_nlb_ww23" style="HLStype1">蠻橫弟子</a>切磋並擊敗他
 hunterinfo_15784=為了門派的榮譽，和<a href="findnpc_new,city03,npc_nlb_ww24" style="HLStype1">蠻橫弟子</a>切磋並擊敗他
 hunterinfo_15785=為了門派的榮譽，和<a href="findnpc_new,city04,npc_nlb_ww25" style="HLStype1">蠻橫弟子</a>切磋並擊敗她
@@ -441,7 +434,6 @@ okmenu_15756=<font face="Default" color="#ffffff" >多謝大叔相告，我這�
 okmenu_15759=<font face="Default" color="#ffffff" >楚仙兒？我馬上過去</font>
 okmenu_15760=<font face="Default" color="#ffffff" >……</font>
 okmenu_15761=<font face="Default" color="#ffffff" >竟然是楚大哥的女兒！多謝你照顧，楚大哥對我有恩，你若有事我定當義不容辭！</font>
-okmenu_15763=<font face="Default" color="#ffffff" >弟子拜見尊主！早聞念蘿壩為隱世宗門，今日有幸！</font>
 okmenu_15766=<font face="Default" color="#ffffff" >好的（</font><font face="Default" color="#ffffff" >神神秘秘的也不知是何物）。</font>
 okmenu_15768=<font face="Default" color="#ffffff" >告辭。</font>
 okmenu_15770=<font face="Default" color="#ffffff" >快把衣服扒下來給我！</font>
@@ -877,4 +869,12 @@ okmenu_15892=<font face="Default" color="#ffffff" >這只是小事一件，我�
 okmenu_15893=<font face="Default" color="#ffffff" >這只是小事一件，我這就向師姐覆命去了！</font>
 okmenu_15894=<font face="Default" color="#ffffff" >這只是小事一件，我這就向師姐覆命去了！</font>
 okmenu_15979=<font face="Default" color="#ffffff" >這只是小事一件，我這就向師姐覆命去了！</font>
+okmenu_15763=<font face="Default" color="#ffffff" >弟子拜見尊主！早聞念蘿壩為隱世門派，今日有幸！</font>
+DialogID_15804=<font face="Default" color="#ffffff" >胭脂令主宮碧若，同時分管我派暗襲和執行特殊任務，如果你哪天胭脂血修煉超過了她，你就可以成為新的胭脂令主。</font>
+SubmitNpcEx_21256=把攻克野獸之事回去稟報<a href="findnpc_new,school15,npc_nlb_ww02" style="HLStype1">姬卜肆</a>
+hunterinfo_15760=攻克<a href="findnpc_new,school15,npc_nlb_ww54" style="HLStype1">雲朵</a>
+hunterinfo_15762=幫助尊主攻克<a href="findnpc_new,city03,npc_nlb_mxm30" style="HLStype1">東廠番子</a>
+hunterinfo_15763=幫助尊主攻克<a href="findnpc_new,city03,npc_nlb_mxm31" style="HLStype1">東廠番子</a>
+collectinfo_15759=去找<a href="findnpc_new,city03,npc_nlb_ww16" style="HLStype1">海桃</a>獲得入門憑證，加入念蘿壩。加入念蘿壩需要符合以下幾個條件：1、唐門或無門派無勢力2、不為各大派代掌門，長老，執事身份3、不在念蘿壩判師24天之內
+collectinfo_15760=去找<a href="findnpc_new,school05,npc_nlb_ww05" style="HLStype1">寒若水</a>獲得入門憑證，加入念蘿壩。加入念蘿壩需要符合以下幾個條件：1、唐門或無門派無勢力2、不為各大派代掌門，長老，執事身份3、不在念蘿壩判師24天之內
 

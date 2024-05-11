@@ -9,13 +9,11 @@ CanAcceptMenu_87010=<font face="Default" color="#ffffff" >門派巡邏</font>
 CanAcceptMenu_87011=<font face="Default" color="#ffffff" >血</font><font face="Default" color="#ffffff" >染</font><font face="Default" color="#ffffff" >少林</font>
 CanAcceptMenu_87012=<font face="Default" color="#ffffff" >虎嘯山莊</font>
 CanAcceptMenu_87013=<font face="Default" color="#ffffff" >門派刺探</font>
-CanAcceptMenu_87014=<font face="Default" color="#ffffff" >綁架販賣</font>
 CanAcceptMenu_87015=<font face="Default" color="#ffffff" >勤修武藝</font>
 CanAcceptMenu_87016=<font face="Default" color="#ffffff" >徐家紛爭</font>
 CanAcceptMenu_87017=<font face="Default" color="#ffffff" >清掃廳院</font>
 CanAcceptMenu_87018=<font face="Default" color="#ffffff" >追擊叛徒</font>
 CanAcceptMenu_87019=<font face="Default" color="#ffffff" >紅粉白珠</font>
-CanAcceptMenu_87020=<font face="Default" color="#ffffff" >逆我者亡</font>
 CanAcceptMenu_87021=<font face="Default" color="#ffffff" >非我族類</font>
 CanAcceptMenu_87022=<font face="Default" color="#ffffff" >前塵往事</font>
 CanAcceptMenu_87023=<font face="Default" color="#ffffff" >幕後黑雲</font>
@@ -62,7 +60,6 @@ accept_87018_1=
 accept_87019_1=
 accept_87021_1=<font face="Default" color="#ffffff" >來的正好！我正有事要你去做！</font>
 accept_87022_1=<font face="Default" color="#ffffff" >來的正好，今有一事要你馬上前去查明。</font>
-accept_87023_1=<font face="Default" color="#ffffff" >近來蝴蝶殺人之事你可曾有所耳聞？</font>
 complete_87000=<font face="Default" color="#ffffff" >   做的很好，極樂谷的明天，因為你的一份力量</font><font face="Default" color="#ffffff" >而</font><font face="Default" color="#ffffff" >更有希望。</font>
 complete_87001=<font face="Default" color="#ffffff" >   </font><font face="Default" color="#ffffff" >做的很好，極樂谷的明天，因為你的一份力量而更有希望。</font>
 complete_87002=<font face="Default" color="#ffffff" >   雖然那黑風老妖還是逃走了，但你做的已經很好，極樂谷的明天，因為你的一份力量</font><font face="Default" color="#ffffff" >而</font><font face="Default" color="#ffffff" >更有希望。</font>
@@ -89,12 +86,9 @@ complete_87022=<font face="Default" color="#ffffff" >唉！想不到竟是如此
 complete_87023=<font face="Default" color="#ffffff" >此行收穫頗多！你做的甚好，理當重賞！</font>
 context_87000=極樂谷門人一向以逍遙不羈自居，但隨著入谷弟子的不斷增加，巨大的生活壓力讓整個極樂穀捉襟見肘，還請閣下捐獻物資，為廣大同門獻上自己的一份力！
 context_87001=極樂谷自成立以來，一直與朝廷勢如水火，極樂谷秘派弟子偵查朝廷對自己不利的消息，並常在西津渡用暗號交接，眼下門派將此與密探接頭的重任交給你，並提防朝廷派大內高手前來攔截阻擊，保護其周全。
-context_87002=南方的黑風山勢力從很久以前就與極樂穀跨河對峙，其以黑風三煞為首，做盡慘絕人寰的惡事，與極樂谷素來摩擦不斷，近日居然有公然挑釁極樂穀，屢次搶奪劫殺運送門派物資的極樂谷弟子，是可忍，孰不可忍？還請你前去協助擊殺那領頭的黑風老妖，其武功奇高，定要小心萬分。
 context_87003=身在成都的極樂谷弟子飛鴿傳書急報，在成都城東郊，前往金陵的路上屢屢有極樂谷弟子遭襲，初步判定是被金針沈家常用的暗器所傷，必須要向沈家堡討個說法，並探明真相！
-context_87004=江南的極樂谷弟子飛鴿傳書來報，當年名震江湖的殺手趙子亟隱居暮色之村，為救酒店掌櫃孟夢而不得已使出武功，昔日的仇家得知後紛紛前來此地尋釁。此人當年曾殘害我極樂谷弟子不止一人，而韓似錦也傳信求援，聲稱事成之後，賞金不是問題。極樂穀正值物資緊缺之際，機不可失，還望你能速去暮色之村協助韓似錦捉拿趙子亟！
 context_87005=極樂谷門人一向以逍遙不羈自居，但隨著入谷弟子的不斷增加，巨大的生活壓力讓整個極樂穀捉襟見肘，還請閣下捐獻物資，為廣大同門獻上自己的一份力！
 context_87006=極樂谷門人一向以逍遙不羈自居，但隨著入谷弟子的不斷增加，巨大的生活壓力讓整個極樂穀捉襟見肘，還請閣下捐獻物資，為廣大同門獻上自己的一份力！
-context_87007=身在洛陽的極樂谷弟子飛鴿傳書來報，洛陽城書齋老闆離奇死亡，現場留下幾頁紅葉手劄，手劄中記載著青雲堡蝴蝶殺人的事情，那書齋老闆的夫人出重金委託我極樂穀協助處理此事。還望你能前往青雲堡徹查此事，並妥善處理，將石夫人給的報酬納為門派所用！
 context_87008=極樂穀近日物資緊缺，需要各大鏢局負責周轉運輸，還望你前往彼處協助護送。
 context_87010=我極樂穀彙集了灑脫不羈之人，在江湖上難免會招惹到別派道貌岸然之徒，還望你能小心謹慎，在門派巡邏一番，觀察是否有刺探者。
 context_87011=據聞，我極樂谷弟子在成都被少林和尚所殺，這次的任務，便是派你前去為死去的兄弟復仇，先行找到接應你的程影，再見機行事。
@@ -182,7 +176,6 @@ target_87010=奪回情報，完成門派巡邏任務。
 target_87011=完成對少林僧人的復仇。
 target_87012=完成對虎嘯山莊的勢力挑戰。
 target_87013=收集情報，完成對武當的刺探。
-target_87014=成功綁架，並成功販賣。
 target_87015=同極樂谷谷主單天冥指定的門下弟子切磋武藝。
 target_87016=完成對徐家莊的勢力挑戰
 target_87017=清掃極樂穀院落。
@@ -204,13 +197,11 @@ title_87010=門派巡邏
 title_87011=血染少林
 title_87012=虎嘯山莊
 title_87013=門派刺探
-title_87014=綁架販賣
 title_87015=勤修武藝
 title_87016=徐家紛爭
 title_87017=清掃廳院
 title_87018=追擊叛徒
 title_87019=紅粉白株
-title_87020=逆我者亡
 title_87021=非我族類
 title_87022=前塵往事
 title_87023=幕後黑雲
@@ -229,4 +220,10 @@ context_87020=近來嵩山鐵劍門與江湖上興起的一股邪惡勢力交往
 target_87009=完成對浣花山莊的勢力挑戰。
 target_87020=完成對嵩山鐵劍門的勢力挑戰。
 title_87009=浣花山莊
+CanAcceptMenu_87020=<font face="Default" color="#ffffff" >毋人負我</font>
+accept_87023_1=<font face="Default" color="#ffffff" >近來蝴蝶攻克之事你可曾有所耳聞？</font>
+context_87002=南方的黑風山勢力從很久以前就與極樂谷跨河對峙，其以黑風三煞為首，做盡慘絕人寰的惡事，與極樂谷素來摩擦不斷，近日居然有公然挑釁極樂谷，屢次搶奪劫殺運送門派物資的極樂谷弟子，是可忍，孰不可忍？還請你前去協助攻克那領頭的黑風老妖，其武功奇高，定要小心萬分。
+context_87004=江南的極樂谷弟子飛鴿傳書來報，當年名震江湖的隱衛趙子亟隱居暮色之村，為救酒店掌櫃孟夢而不得已使出武功，昔日的仇家得知後紛紛前來此地尋釁。此人當年曾殘害我極樂谷弟子不止一人，而韓似錦也傳信求援，聲稱事成之後，賞金不是問題。極樂谷正值物資緊缺之際，機不可失，還望你能速去暮色之村協助韓似錦捉拿趙子亟！
+context_87007=身在洛陽的極樂谷弟子飛鴿傳書來報，洛陽城書齋老闆離奇死亡，現場留下幾頁紅葉手札，手札中記載著青雲堡蝴蝶攻克的事情，那書齋老闆的夫人出重金委託我極樂谷協助處理此事。還望你能前往青雲堡徹查此事，並妥善處理，將石夫人給的報酬納為門派所用！
+title_87020=毋人負我
 

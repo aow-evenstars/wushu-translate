@@ -80,7 +80,6 @@ okmenu_48614=多謝道長，我去告訴他們。
 okmenu_48615=那好吧。
 okmenu_48616=你放心，這件事我給你做主。
 story_48600_1=我與小蓮一見鍾情，怎奈卻遭到她家人的阻攔。只因我一個窮酸秀才配不上小蓮......
-story_48600_2=我和小蓮不肯放棄，前幾日小蓮還偷偷送了我一塊繡著情詩的手帕，不想她家人得知後，竟然派了殺手殺我，就是那些江湖仇家，還搶走了手帕......
 story_48601_1=十多年前，這兒發生了一次幾十年未曾一見的大規模邊境衝突，無數人葬身於此，所以有人說，這裡的土地這麼怪異，是因為無數將士的鮮血......
 story_48601_2=這兒有一瓶酒，你灑在這地上，以祭他們的在天之靈吧。
 story_menu_48600=啊，到底什麼情詩啊......這裡面發生了什麼？
@@ -88,10 +87,12 @@ story_menu_48601=十多年前發生了什麼？
 storyinfo_48600=聽<a href="findnpc_new,scene09,WorldNpc07153" style="HLStype1">松良</a>訴說
 storyinfo_48601=聽<a href="findnpc_new,scene09,WorldNpc07154" style="HLStype1">季辰朗</a>訴說
 storymenu_48600_1=那後來......
-storymenu_48600_2=哎......為什麼會是這個樣子，公子莫急，我去幫你解決掉仇家，幫你報仇
 storymenu_48601_1=原來還有這樣的傳說，那我能為他們做些什麼呢？
 storymenu_48601_2=好。
 useiteminfo_48600=使用<a href="findnpc_new,scene08,0" style="HLStype1">{@0:text}</a><a href="TASK_ITEM,useitem_005cc" style="HLStype1">笨重的鐵錘</a>
 useiteminfo_48601=對<a href="findnpc_new,scene09,WorldNpc07137" style="HLStype1">範暑</a>使用<a href="TASK_ITEM,useitem_006cc" style="HLStype1">鑰匙</a>
 useiteminfo_48602=對<a href="findnpc_new,scene09,WorldNpc07165" style="HLStype1">垃圾堆</a>使用<a href="TASK_ITEM,useitem_007cc" style="HLStype1">火把</a>
 useiteminfo_48603=使用<a href="TASK_ITEM,useitem_008cc" style="HLStype1">一瓶酒</a>祭奠亡靈
+story_48600_2=我和小蓮不肯放棄，前幾日小蓮還偷偷送了我一塊繡著情詩的手帕，不想她家人得知後，竟然派了隱衛殺我，就是那些江湖仇家，還搶走了手帕......
+storymenu_48600_2=哎......為什麼會是這個樣子，公子莫急，我去幫你解決掉仇家，幫你報復
+

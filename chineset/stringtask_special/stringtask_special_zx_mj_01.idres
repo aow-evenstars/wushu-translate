@@ -52,7 +52,6 @@ QiecuoTitle_73187=<font face="Default" color="#ffffff" >好</font>
 QiecuoTitle_73188=<font face="Default" color="#ffffff" >好</font>
 QiecuoTitle_73189=<font face="Default" color="#ffffff" >好</font>
 QiecuoTitle_73190=<font face="Default" color="#ffffff" >嗯，你且使出招式攻來。</font>
-QiecuoTitle_73191=<font face="Default" color="#ffffff" >回答的好，正是一顆俠義的心。捉拿通緝犯需要開江湖模式擊殺兇犯，凶險萬分，讓我來試試你的實力</font>
 SubmitNpcEx_72701=拜見<a href="findnpc_new,school20,newmp_mj_001" style="HLStype1">教主明時月</a>，請求教主收你為明教弟子
 SubmitNpcEx_73163=回復<a href="findnpc_new,school20,newmp_mj_015" style="HLStype1">虎辰</a>，關於淬毒的事
 SubmitNpcEx_73164=<a href="findnpc_new,school20,offline_xunluo_mj" style="HLStype1">瑞文斌</a>
@@ -216,7 +215,6 @@ story_72708_1=<font face="Default" color="#ffffff" >嗯，</font><font face="Def
 story_72708_2=<font face="Default" color="#ffffff" >眼下還有一件事需要爾等打理。本教中人多是開國功臣之後，在朱元璋大肆屠殺功臣之時心灰意冷前來投奔，而極樂谷乃是開國元勳劉伯溫以假死之計瞞天過海歸隱山林後所建，故而本教與極樂谷私下多有來往。眼下極樂谷正派遣使者拜訪本教，你便前往會客廳一趟，協助掌教使者茅震招待來客吧。</font>
 story_72709_1=<font face="Default" color="#ffffff" >眼力不錯</font><font face="Default" color="#ffffff" >，不愧是我明教弟子。這些人是虛是實，你借討教武學之名試探一番便知。</font>
 story_72710_1=<font face="Default" color="#ffffff" >究竟發生了什麼？</font>
-story_72710_2=<font face="Default" color="#ffffff" >竟有此事……朝廷派往江湖中的密探向來心狠手辣，恐怕早已在極樂谷來使身上留下殺人滅口的手段，借之離間我兩派關係。極樂谷來使或許頃刻之間便有性命之憂，你前去尋找毒手觀音宇文蓉，讓其仔細查看來使傷勢。</font>
 story_72711_1=<font face="Default" color="#ffffff" >嗯……此人身中一種東廠秘製的狠辣毒藥，服此藥之人看來與常人無異，只是不能運轉內力使用武功，實則數日之後便會毫無預兆暴斃而亡。</font>
 story_72711_2=<font face="Default" color="#ffffff" >要解此毒，需要化骨草、凝血蟲、懾心蓮這三味毒物做藥引以毒攻毒。百變蛇王游鸞、惡菩薩雷暮與花海游蛇平澤三人或許分別藏有這三味毒藥，你即刻前去</font><font face="Default" color="#ffffff" >詢問便知</font><font face="Default" color="#ffffff" >。</font>
 story_72712_1=<font face="Default" color="#ffffff" >凝血蟲？此蟲近日還在蟄伏期中，若要催動其甦醒</font><font face="Default" color="#ffffff" >，</font><font face="Default" color="#ffffff" >必須用大量人血為引。</font>
@@ -294,4 +292,122 @@ jiaoxue_synthetic_2_73180=你去試試先<font color="#00d8ff">招架</font>防�
 jiaoxue_virtual_3_73179=使用虛招<font color="#00d8ff">「流光破影」</font>破除<a href="findnpc_new,groupscene037,Npc_yd_wg_jx_mj04" style="HLStype1">軒轅勇</a>的架招
 SubmitNpcEx_73155=回去告知<a href="findnpc_new,school21,newmp_sjy_gujhuodong002" style="HLStype1">端木朋</a>演習結果
 hunterinfo_73192=通過<a href="findnpc_new,school21,newmp_sjy_gujhuodong002" style="HLStype1">端木朋</a>進入校場演習活動場景，擊敗<font color="#00FF00">董琛致</font>
+QiecuoTitle_73191=<font face="Default" color="#ffffff" >回答的好，正是一顆俠義的心。捉拿通緝犯需要開江湖模式攻克兇犯，凶險萬分，讓我來試試你的實力</font>
+story_72710_2=<font face="Default" color="#ffffff" >竟有此事……朝廷派往江湖中的密探向來心狠手辣，恐怕早已在極樂谷來使身上留下解決後患的手段，借之離間我兩派關係。極樂谷來使或許頃刻之間便有性命之憂，你前去尋找毒手觀音宇文蓉，讓其仔細查看來使傷勢。</font>
+DialogID_72730=<font face="Default" color="#ffffff" >我門派武學博大精深，下面要教你的，就是入我門派後的基本內功</font><font face="Default" color="#ee7621" >[秋老訣]</font>
+DialogID_72733=<font face="Default" color="#ffffff" >　　很好，現在師兄傳授你招架技巧，你之前學過的</font><font face="Default" color="#8fd6ef" >「獨臨絕頂」</font><font face="Default" color="#ffffff" >就是架招，你使用後再去切磋看看。</font>
+DialogID_72734=<font face="Default" color="#ffffff" >  方纔的切磋很累吧？現在傳授你一個技巧，你使用之前學會的</font><font face="Default" color="#8fd6ef" >「目極千里」</font><font face="Default" color="#ffffff" >這一招，便可輕鬆克敵招架！</font>
+DialogID_72741=<font face="Default" color="#ffffff" >我這裡有兵器和秘籍，你先拿去，自己在下面好好揣摩揣摩</font>
+DialogID_72742=<font face="Default" color="#ffffff" >你先自己琢磨，如有所感悟，去找</font><font face="Default" color="#ffffff" >師兄、師姐</font><font face="Default" color="#ffffff" >切磋一下</font>
+DialogID_72743=<font face="Default" color="#ffffff" >這些典籍，威力不凡，學過之後，如能有所感悟，便可與</font><font face="Default" color="#ffffff" >師兄、師姐</font><font face="Default" color="#ffffff" >一試高低</font>
+DialogID_72744=<font face="Default" color="#ffffff" >這些典籍記載的武學，你要細細研讀</font>
+DialogID_72746=<font face="Default" color="#ffffff" >嗯，「虛懷若谷，海納百川」，這是人生之道，亦為習武之道，這有基本招式秘笈，姑且算作你的初始之點吧！</font>
+DialogID_72747=<font face="Default" color="#ffffff" >待你領悟之後可尋</font><font face="Default" color="#ffffff" >師兄、師姐</font><font face="Default" color="#ffffff" >比試一番</font>
+DialogID_72748=<font face="Default" color="#ffffff" >嗯，再授你幾招，需要勤加練習，方可應用自如，然後去找同門弟子較量一番</font>
+DialogID_72749=<font face="Default" color="#ffffff" >這樣吧，這招秘笈是我派獨門絕技，你可潛心鑽研，方知我所言如是。</font>
+DialogID_72751=<font face="Default" color="#ffffff" >少俠想必很少出遠門吧！行走江湖，難免長途跋涉，待老夫叨擾一番，少俠您就知道如何去洛陽了。</font>
+DialogID_72752=<font face="Default" color="#ffffff" >今大明國泰民安，但飲血的江湖免不了無盡的冤冤相報。你的仇家如是十惡不赦之人，少俠可以去師爺處發佈海捕文書，天網恢恢，本衙門的神捕定將帶眾捕快將其捉拿歸案</font>
+DialogID_72753=<font face="Default" color="#ffffff" >我這裡有一件其他師長從武林禁地中獲得的寶物，且贈給你，希望能在你以後的路上能助你一臂之力。</font>
+DialogID_72755=<font face="Default" color="#ffffff" >看來真的有各大門派的人前來刺探情報，你把情報交給我的弟子吧。</font>
+DialogID_72756=<font face="Default" color="#ffffff" >這就是我在這裡獲得的情報，你拿回去交給門派吧，我還要在這裡繼續潛伏，以後可以來到我這裡拿情報。</font>
+DialogID_72757=<font face="Default" color="#ffffff" >你回來了，把帶回來的情報交給我的弟子就行了。</font>
+DialogID_72758=<font face="Default" color="#ffffff" >刺探是一件辛苦的事！要找到門派裡的情報弟子，或者被安插在這裡的內應，從他們手中拿到情報，交給自己門派的情報負責人。</font>
+DialogID_72759=<font face="Default" color="#ffffff" >你以後把拿到的書交給我，我會告訴你怎麼修煉的。</font>
+DialogID_72760=<font face="Default" color="#ffffff" >好的，這正是我們門派的武學秘籍，以後拿回來的書籍交給我，我會教你怎麼修煉秘籍上的武學。</font>
+QiecuoMenu_72742=<font face="Default" color="#ffffff" >我們來切磋一番</font>
+QiecuoMenu_72743=<font face="Default" color="#ffffff" >我們來切磋一番</font>
+QiecuoMenu_72747=<font face="Default" color="#ffffff" >請賜教！</font>
+QiecuoMenu_72748=<font face="Default" color="#ffffff" >請賜教！</font>
+QiecuoMenu_72751=<font face="Default" color="#ffffff" >請神捕出招吧</font>
+QiecuoTitle_72742=<font face="Default" color="#ffffff" >好</font>
+QiecuoTitle_72743=<font face="Default" color="#ffffff" >好</font>
+QiecuoTitle_72747=<font face="Default" color="#ffffff" >好</font>
+QiecuoTitle_72748=<font face="Default" color="#ffffff" >嗯，你且使出招式攻來。</font>
+QiecuoTitle_72751=<font face="Default" color="#ffffff" >回答的好，正是一顆俠義的心。捉拿通緝犯需要開江湖模式擊殺兇犯，凶險萬分，讓我來試試你的實力</font>
+SubmitNpcEx_72730=向<a href="findnpc_new,groupscene047,Npc_yd_wg_jx_kl01" style="HLStype1">柳毅</a>通報學習完成
+SubmitNpcEx_72731=向<a href="findnpc_new,groupscene047,Npc_yd_wg_jx_kl01" style="HLStype1">柳毅</a>稟明演武學習狀況。
+SubmitNpcEx_72732=向<a href="findnpc_new,groupscene047,Npc_yd_wg_jx_kl01" style="HLStype1">柳毅</a>討教如何靈活運用武學招式
+SubmitNpcEx_72733=向<a href="findnpc_new,groupscene047,Npc_yd_wg_jx_kl01" style="HLStype1">柳毅</a>請教招架招式的奧秘
+SubmitNpcEx_72734=回去找<a href="findnpc_new,groupscene047,Npc_yd_wg_jx_kl01" style="HLStype1">柳毅</a>
+SubmitNpcEx_72735=回去找<a href="findnpc_new,groupscene047,Npc_yd_wg_jx_kl01" style="HLStype1">柳毅</a>
+SubmitNpcEx_72736=回去找<a href="findnpc_new,school24,newmp_kl_006" style="HLStype1">司馬莫邪</a>覆命
+SubmitNpcEx_72737=向修行者<a href="findnpc_new,school24,WorldNpc_guj_kl005" style="HLStype1">邵弘</a>請教,可通過<a href="findnpc_new,school24,GotoDoorklp_guj04" style="HLStype1">傳送門</a>前往<font face="Default" color="#FF0000" >(提示：完成此系列任務後將可接取門派劇情任務)</font>
+SubmitNpcEx_72738=向<a href="findnpc_new,school24,WorldNpc_guj_kl005" style="HLStype1">邵弘</a>提交任務（<font face="Default" color="#FF0000" >注意：</font>若無法直接前往,可通過<a href="findnpc_new,school24,GotoDoorklp_guj04" style="HLStype1">傳送門</a>前往）
+SubmitNpcEx_72739=回復<a href="findnpc_new,school24,newmp_kl_001" style="HLStype1">雲陽子</a>(提示：可通過<a href="findnpc_new,school24,GotoDoorklp_guj05" style="HLStype1">傳送門</a>返回，再前往玉虛殿找掌門)
+SubmitNpcEx_72740=實力達到略有小成之後，找<a href="findnpc_new,school24,newmp_kl_006" style="HLStype1">司馬莫邪</a>學習濯纓劍法
+SubmitNpcEx_72741=向<a href="findnpc_new,school24,newmp_kl_006" style="HLStype1">司馬莫邪</a>請教習武入門之道
+SubmitNpcEx_72742=與<a href="findnpc_new,school24,newmp_kl_006" style="HLStype1">司馬莫邪</a>交談
+SubmitNpcEx_72743=與<a href="findnpc_new,school24,newmp_kl_006" style="HLStype1">司馬莫邪</a>交談
+SubmitNpcEx_72744=與<a href="findnpc_new,school24,newmp_kl_006" style="HLStype1">司馬莫邪</a>交談
+SubmitNpcEx_72745=實力達到駕輕就熟之後，找<a href="findnpc_new,school24,newmp_kl_007" style="HLStype1">花玉瑩</a>學習寒泉洗心譜
+SubmitNpcEx_72746=與<a href="findnpc_new,school24,newmp_kl_007" style="HLStype1">花玉瑩</a>交談
+SubmitNpcEx_72747=與<a href="findnpc_new,school24,newmp_kl_007" style="HLStype1">花玉瑩</a>交談
+SubmitNpcEx_72748=與<a href="findnpc_new,school24,newmp_kl_007" style="HLStype1">花玉瑩</a>交談
+SubmitNpcEx_72749=與<a href="findnpc_new,school24,newmp_kl_007" style="HLStype1">花玉瑩</a>交談
+SubmitNpcEx_72750=與<a href="findnpc_new,school24,newmp_kl_007" style="HLStype1">花玉瑩</a>交談
+SubmitNpcEx_72751=<a href="findnpc_new,city04,hbyd004" style="HLStype1">馬奇松</a>會告訴你有關海捕的信息
+SubmitNpcEx_72752=提示：裝備寶物<a href="TASK_ITEM,treasure_59998" style="HLStype1">玄玉圭</a>後；可以按「C」打開人物屬性界面，點擊人物下方的寶物按鈕查看寶物的裝備情況
+SubmitNpcEx_72753=與<a href="findnpc_new,city02,FuncNpc00106" style="HLStype1">孟光</a>交談
+SubmitNpcEx_72755=<a href="findnpc_new,school24,offline_xunluo_kl" style="HLStype1">賈衡</a>
+SubmitNpcEx_72756=<a href="findnpc_new,school24,offline_xunluo_kl" style="HLStype1">賈衡</a>
+SubmitNpcEx_72757=<a href="findnpc_new,school24,offline_hushu_kl" style="HLStype1">開雲霄</a>
+SubmitNpcEx_72758=<a href="findnpc_new,school24,offline_hushu_kl" style="HLStype1">開雲霄</a>
+SubmitNpcEx_72759=<a href="findnpc_new,school24,Guildfuncnpc001" style="HLStype1">幫會管理員</a>
+SubmitNpcEx_72760=<a href="findnpc_new,school24,Guildfuncnpc001" style="HLStype1">幫會管理員</a>
+collectinfo_72757=和<a href="findnpc_new,school24,WorldNpc_guj_kl006" style="HLStype1">蕭旭</a>對話，請他送你到少林，找到<a href="findnpc_new,school08,booknpcyd_ds" style="HLStype1">書架</a>，取回上面的書籍
+collectinfo_72758=擊敗<a href="findnpc_new,school24,lootnpcyd_hs" style="HLStype1">奪書弟子</a>，把他們身上書篋裡的書籍拿回來
+hunterinfo_72742=向<a href="findnpc_new,school24,WorldNpc_guj_kl001" style="HLStype1">柳宏</a>討教武學（按快捷鍵B打開包裹，裝備武器<a href="TASK_ITEM,ssword_wd_10101" style="HLStype1">太乙雙劍</a>，學習<a href="TASK_ITEM,book_CS_kl_hyjf05" style="HLStype1">白浪掀天（雙劍）</a>、<a href="TASK_ITEM,book_CS_kl_hyjf06" style="HLStype1">濯纓滄浪（雙劍）</a>、<a href="TASK_ITEM,book_CS_kl_hyjf03" style="HLStype1">踏遍煙霞（雙劍）</a>，使用這些招式可以更輕鬆的獲勝）
+hunterinfo_72743=向<a href="findnpc_new,school24,WorldNpc_guj_kl002" style="HLStype1">郝騰</a>討教武學（按快捷鍵B打開包裹，裝備武器<a href="TASK_ITEM,ssword_wd_10101" style="HLStype1">太乙雙劍</a>，學習<a href="TASK_ITEM,book_CS_kl_hyjf01" style="HLStype1">胸藏丘壑（雙劍）</a>，使用這些招式可以更輕鬆的獲勝）
+hunterinfo_72747=向<a href="findnpc_new,school24,WorldNpc_guj_kl003" style="HLStype1">薊梁</a>討教武學（按快捷鍵B打開包裹，裝備武器<a href="TASK_ITEM,zither_10101" style="HLStype1">琴</a>，學習<a href="TASK_ITEM,book_CS_kl_hqxxp05" style="HLStype1">逍遙自恃（琴）</a>、<a href="TASK_ITEM,book_CS_kl_hqxxp08" style="HLStype1">風起雲淡（琴）</a>，使用這些招式可以更輕鬆的獲勝）
+hunterinfo_72748=向<a href="findnpc_new,school24,WorldNpc_guj_kl004" style="HLStype1">庾清</a>討教武學（按快捷鍵B打開包裹，學習<a href="TASK_ITEM,book_CS_kl_hqxxp04" style="HLStype1">寂境無擾（琴）</a>、<a href="TASK_ITEM,book_CS_kl_hqxxp07" style="HLStype1">四望溪山（琴）</a>，使用這些招式可以更輕鬆的獲勝）
+hunterinfo_72751=擊敗<a href="findnpc_new,city04,hbyd004" style="HLStype1">馬奇松</a>
+hunterinfo_72755=擊敗<a href="findnpc_new,school24,spynpcyd_xl" style="HLStype1">刺探弟子</a>,奪回被拿走的情報。
+interactinfo_72730=到<a href="findnpc_new,school24,Npc_yd_wg_cs_kl01" style="HLStype1">演武堂</a>找<a href="findnpc_new,groupscene047,Npc_yd_wg_jx_kl01" style="HLStype1">柳毅</a>獲取<font face="Default" color="#ee7621" >[秋老訣]</font>
+interactinfo_72733=向<a href="findnpc_new,groupscene047,Npc_yd_wg_jx_kl01" style="HLStype1">柳毅</a>請教招架招式的奧秘
+interactinfo_72734=向<a href="findnpc_new,groupscene047,Npc_yd_wg_jx_kl01" style="HLStype1">柳毅</a>請教破防的奧秘
+interactinfo_72741=與<a href="findnpc_new,school24,newmp_kl_006" style="HLStype1">司馬莫邪</a>交談
+interactinfo_72742=向<a href="findnpc_new,school24,newmp_kl_006" style="HLStype1">司馬莫邪</a>請教武學修煉之道
+interactinfo_72743=與<a href="findnpc_new,school24,newmp_kl_006" style="HLStype1">司馬莫邪</a>交談
+interactinfo_72744=與<a href="findnpc_new,school24,newmp_kl_006" style="HLStype1">司馬莫邪</a>交談
+interactinfo_72746=與<a href="findnpc_new,school24,newmp_kl_007" style="HLStype1">花玉瑩</a>交談
+interactinfo_72747=與<a href="findnpc_new,school24,newmp_kl_007" style="HLStype1">花玉瑩</a>交談
+interactinfo_72748=與<a href="findnpc_new,school24,newmp_kl_007" style="HLStype1">花玉瑩</a>交談
+interactinfo_72749=與<a href="findnpc_new,school24,newmp_kl_007" style="HLStype1">花玉瑩</a>交談
+interactinfo_72751=到車伕<a href="findnpc_new,school22,Transschool22guj_A" style="HLStype1">錢巖義</a>處瞭解如何去燕京
+interactinfo_72752=通過<a href="findnpc_new,school24,DoorNpc00104" style="HLStype1">傳送門</a>前往惡人谷，在惡人谷<a href="findnpc_new,born02,Transbron02A" style="HLStype1">屠泳</a>處坐馬車去洛陽，問<a href="findnpc_new,city04,ly735" style="HLStype1">金仁路</a>海捕的事
+interactinfo_72753=與<a href="findnpc_new,school24,newmp_kl_006" style="HLStype1">司馬莫邪</a>交談
+interactinfo_72755=向<a href="findnpc_new,school24,spynpc_kl" style="HLStype1">牧天歌</a>師傅匯報
+interactinfo_72756=向<a href="findnpc_new,school08,lurknpc_sl01" style="HLStype1">關博坤</a>詢問少林的情況（內應喜歡到處遊蕩，你可以在附近找找看）
+interactinfo_72757=請<a href="findnpc_new,school08,WorldNpc00476" style="HLStype1">清德</a>幫忙送你回崑崙派，把得到的情報向<a href="findnpc_new,school24,spynpc_kl" style="HLStype1">牧天歌</a>匯報（正在參與師門活動或者正在戰鬥中的大俠無法獲得幫助）
+interactinfo_72758=和<a href="findnpc_new,school24,WorldNpc_guj_kl006" style="HLStype1">蕭旭</a>對話，請他送你到少林，向<a href="findnpc_new,school08,ctnpc_sl" style="HLStype1">祖義</a>瞭解如何進行刺探
+interactinfo_72759=請<a href="findnpc_new,school08,WorldNpc00312" style="HLStype1">吳三石</a>幫忙送你回崑崙派，把在少林拿到的書籍交給<a href="findnpc_new,school24,booknpc_kl" style="HLStype1">童元鏡</a>（正在參與師門活動或者正在戰鬥中的大俠無法獲得幫助）
+interactinfo_72760=把拿回來的書籍交給<a href="findnpc_new,school24,booknpc_kl" style="HLStype1">童元鏡</a>
+okmenu_72730=<font face="Default" color="#ffffff" >（收下秘籍）</font>
+okmenu_72733=<font face="Default" color="#ffffff" >好的，我去試試。</font>
+okmenu_72734=<font face="Default" color="#ffffff" >原來如此，多謝師兄教誨</font>
+okmenu_72741=<font face="Default" color="#ffffff" >多謝前輩</font>
+okmenu_72742=<font face="Default" color="#ffffff" >是，前輩</font>
+okmenu_72743=<font face="Default" color="#ffffff" >是，前輩</font>
+okmenu_72744=<font face="Default" color="#ffffff" >多謝前輩</font>
+okmenu_72746=<font face="Default" color="#ffffff" >多謝教誨</font>
+okmenu_72747=<font face="Default" color="#ffffff" >是，前輩</font>
+okmenu_72748=<font face="Default" color="#ffffff" >遵命。</font>
+okmenu_72749=<font face="Default" color="#ffffff" >多謝。</font>
+okmenu_72751=<font face="Default" color="#ffffff" >多謝大叔指點，晚輩洗耳恭聽！</font>
+okmenu_72752=<font face="Default" color="#ffffff" >多謝大人，我已知道如何發佈海捕文書。那如何成為一名捕快，待我問問神捕</font>
+okmenu_72753=<font face="Default" color="#ffffff" >真的嗎！</font>
+okmenu_72755=<font face="Default" color="#ffffff" >是，師傅。</font>
+okmenu_72756=<font face="Default" color="#ffffff" >前輩辛苦了，我一定把情報帶回去。</font>
+okmenu_72757=<font face="Default" color="#ffffff" >好的。</font>
+okmenu_72758=<font face="Default" color="#ffffff" >我知道了，我馬上就去。</font>
+okmenu_72759=<font face="Default" color="#ffffff" >謝謝師傅。</font>
+okmenu_72760=<font face="Default" color="#ffffff" >謝謝師傅。</font>
+specialinfo_1475=按「K」打開<font color="#ee7621">武學</font>界面，指定一種內功或套路後點擊<font color="##ee7621">開始修練</font>，選擇<font color="##ee7621">團練</font>進行修練；完成一次團練<font color="#FF0000">(提示：完成此系列任務後將可接取門派劇情任務)</font>
+specialinfo_1476=完成我的戰場引導，進入戰場
+specialinfo_1477=按「K」打開<font color="#ee7621">武學</font>界面，指定一種內功或套路後點擊<font color="##ee7621">開始修練</font>，選擇<font color="##ee7621">演武</font>進行修練；完成一次演武
+specialinfo_1478=加入或創建一個幫會（需要脫離新手保護）
+story_72717_1=<font face="Default" color="#ffffff" >  在我這，你可以將其他生活製造武器轉換成你可以稱心使用的奇門兵器。只需要提供一件未開光的武器，經過我精心的打磨，就可以了。</font>
+story_menu_72717=<font face="Default" color="#ffffff" >我想瞭解下關於奇門置換的事項</font>
+storyinfo_72717=聽<a href="findnpc_new,school24,Jobkl_tj" style="HLStype1">大禹</a>說
+storymenu_72717_1=<font face="Default" color="#ffffff" >多謝指點</font>
 

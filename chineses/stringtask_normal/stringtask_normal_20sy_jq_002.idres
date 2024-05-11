@@ -1,0 +1,121 @@
+﻿
+CanAcceptMenu_75601=<font face="Default" color="#ffffff" >Tĩnh Tâm Tọa Thiền</font>
+CanAcceptMenu_75602=<font face="Default" color="#ffffff" >Loại Bỏ Mối Họa</font>
+CanAcceptMenu_75603=<font face="Default" color="#ffffff" >Thu thập Đất Bùn</font>
+CanAcceptMenu_75604=<font face="Default" color="#ffffff" >Rèn Luyện Võ Kỹ</font>
+CanAcceptMenu_75605=<font face="Default" color="#ffffff" >Hỏi Đáp Cờ Tướng</font>
+CanAcceptMenu_75606=<font face="Default" color="#ffffff" >Thu mua vật tư</font>
+CanAcceptMenu_75607=<font face="Default" color="#ffffff" >Thu mua vật tư</font>
+CanAcceptMenu_75641=<font face="Default" color="#ffffff" >Khiêu chiến Cao Nhân</font>
+CanAcceptMenu_75642=<font face="Default" color="#ffffff" >Trò chơi cờ tướng</font>
+CompleteMenu_75606=<font face="Default" color="#ffffff" >Ngươi </font><font face="Default" color="#ffffff" >quá khách sáo rồi.</font>
+CompleteMenu_75607=<font face="Default" color="#ffffff" >Thu mua vật tư </font><font face="Default" color="#ffffff" >(Có thể trả)</font>
+accept_75601_1=<font face="Default" color="#ffffff" >Trông ngươi hơi cáu kỉnh, hãy đến phòng tọa thiền để trấn tĩnh lại.</font>
+accept_75602_1=<font face="Default" color="#ffffff" >Không biết vì sao dạo này trên núi có rất nhiều sói, người trong thôn không dám lên núi, ngươi có thể xử lý không?</font>
+accept_75603_1=<font face="Default" color="#ffffff" >Bùn đất thôn bọn ta dùng đều là bùn đặc biệt bên sông, ngươi có thể giúp ta thu thập một ít chứ.</font>
+accept_75604_1=<font face="Default" color="#ffffff" >Đừng coi thường thôn bọn ta nhỏ, nhưng ở đây có rất nhiều cao thủ ẩn thế đấy?</font>
+accept_75605_1=<font face="Default" color="#ffffff" >Người trong thôn này đều am hiểu cờ, muốn ở lại đây cần có kiến thức về cờ, ngươi có vậy không?</font>
+accept_75606_1=<font face="Default" color="#ffffff" >Đồ ăn đồ uống đều eo hẹp, </font><font face="Default" color="#ffffff" >một mình ta</font><font face="Default" color="#ffffff" > vẫn không đủ...</font>
+accept_75607_1=<font face="Default" color="#ffffff" >Ngươi xem người trong thôn càng ngày càng nhiều, dùng đồ rất nhanh, một mình ta không thể xử lý được. Giúp ta đi mua ít vật tư về nhé?</font>
+accept_75641_1=<font face="Default" color="#ffffff" >Trong thôn bọn ta có một vị </font><font face="Default" color="#ffffff" >cao thủ tuyệt thế</font><font face="Default" color="#ffffff" > nhé.</font>
+accept_75642_1=<font face="Default" color="#ffffff" >Quân cờ khác nhau đại diện cho những con người khác nhau</font>
+complete_75601=<font face="Default" color="#ffffff" >Ngươi đã bình tĩnh lại chưa?</font>
+complete_75602=<font face="Default" color="#ffffff" >Đa tạ thiếu hiệp tương trợ!</font>
+complete_75603=<font face="Default" color="#ffffff" >Thật quá tốt rồi, chỗ đất này đến thật đúng lúc, quân cờ của </font><font face="Default" color="#ffffff" >ta đã được làm phẳng.</font>
+complete_75604=<font face="Default" color="#ffffff" >Không ngờ công phu của ngươi không tệ</font>
+complete_75605=<font face="Default" color="#ffffff" >Quả nhiên lợi hại, đã trả lời đúng hết</font>
+complete_75606=<font face="Default" color="#ffffff" >Ngươi có thể đến thực sự là sự giúp đỡ lớn....</font>
+complete_75607=<font face="Default" color="#ffffff" >Làm việc này tốt lắm.</font>
+complete_75641=<font face="Default" color="#ffffff" >Nếu đã đánh bại Nguyễn Tinh Uyên, thực lực của ngươi quả nhiên rất mạnh</font>
+complete_75642=<font face="Default" color="#ffffff" >Đây là phần thưởng của bạn</font>
+context_75601=Đến Phòng Tọa Thiền, dùng đệm cói để tọa thiền
+context_75602=Không biết vì sao dạo này trên núi có rất nhiều sói, người trong thôn không dám lên núi.
+context_75603=Người trong thôn bọn ta thích chơi cờ mỗi ngày, tiêu hao lượng quân cờ rất lớn.
+context_75604=Tỉ thí cùng cao thủ trong thôn
+context_75605=Trả lời câu hỏi của A Thi Nguyệt
+context_75606=Nếu A Thi Nguyệt gặp khó khăn, hãy đến giúp cô ấy.
+context_75607=A Thi Nguyệt muốn nhờ ngươi giúp cô ấy thu mua một số đồ, để bù đắp sự thiếu hụt trong thôn.
+context_75641=Khiêu chiến <a href="findnpc_new,groupscene045,NPC_2020jq_dingzw003" style="HLStype1">Nguyễn Tinh Uyên</a>
+context_75642=Đạo chơi cờ nằm ở sự luyện tập mỗi ngày, tỉ thí cùng kỳ thủ khác nhé
+menu_75601_1=<font face="Default" color="#ffffff" >Được, ta sẽ đi.</font>
+menu_75602_1=<font face="Default" color="#ffffff" >Ta sẽ đi</font>
+menu_75603_1=<font face="Default" color="#ffffff" >Được rồi, ta đi ngay đây</font>
+menu_75604_1=<font face="Default" color="#ffffff" >Ta đến tìm bọn họ!</font>
+menu_75605_1=<font face="Default" color="#ffffff" >Dĩ nhiên rồi, </font><font face="Default" color="#ffffff" >xin cô nương </font><font face="Default" color="#ffffff" >cứ hỏi </font><font face="Default" color="#ffffff" >tự nhiên</font>
+menu_75606_1=<font face="Default" color="#ffffff" >A Thi </font><font face="Default" color="#ffffff" >Nguyệt </font><font face="Default" color="#ffffff" >đừng lo lắng, ta sẽ giúp cô</font>
+menu_75607_1=<font face="Default" color="#ffffff" >Ta đi ngay!</font>
+menu_75641_1=<font face="Default" color="#ffffff" >Hắn ở đâu, ta đến thăm hỏi ngay đây</font>
+menu_75642_1=<font face="Default" color="#ffffff" >Thật sao?</font>
+submit_75601=<font face="Default" color="#ffffff" >Ta đã bình tĩnh lại rồi.</font>
+submit_75602=<font face="Default" color="#ffffff" >Khách sáo rồi.</font>
+submit_75603=<font face="Default" color="#ffffff" >Không cần khách sáo!</font>
+submit_75604=<font face="Default" color="#ffffff" >Khách sáo rồi</font>
+submit_75605=<font face="Default" color="#ffffff" >Ha ha</font>
+submit_75606=<font face="Default" color="#ffffff" >Hoàn thành nhiệm vụ</font>
+submit_75607=<font face="Default" color="#ffffff" >Người khen nhầm rồi.</font><font face="Default" color="#ffffff" >Người quá khen.</font>
+submit_75641=<font face="Default" color="#ffffff" >Thật may, thật may</font>
+submit_75642=<font face="Default" color="#ffffff" >Đa tạ!</font>
+target_75601=Đến Phòng Tọa Thiền, dùng đệm cói để tọa thiền
+target_75602=Không biết vì sao dạo này trên núi có rất nhiều sói, người trong thôn không dám lên núi.
+target_75603=Đền gần nước thu thập một ít đất chế quân cờ cần dùng
+target_75604=Tỉ thí cùng cao thủ trong thôn
+target_75605=Trả lời câu hỏi của A Thi Nguyệt
+target_75606=Đi giúp A Thi Nguyệt
+target_75607=Thu thập vật phẩm A Thi Nguyệt dặn ngươi mua.
+target_75641=Khiêu chiến <a href="findnpc_new,groupscene045,NPC_2020jq_dingzw003" style="HLStype1">Nguyễn Tinh Uyên</a>
+target_75642=Đạo chơi cờ nằm ở sự luyện tập mỗi ngày, tỉ thí cùng kỳ thủ khác nhé
+title_75601=Tịnh Tâm Tọa Thiền
+title_75602=Loại Trừ Mối Họa
+title_75603=Thu thập Đất
+title_75604=Rèn Luyện Võ Kỹ
+title_75605=Hỏi Đáp Cờ
+title_75606=Thu mua vật tư
+title_75607=Mua vật tư
+title_75641=Khiêu chiến Cao Nhân
+title_75642=Đấu cờ tướng
+maintext_8139="Xe" là quân cờ mạnh nhất trong cờ tướng, vì
+ZZAnswerText1_8139=Cái tên nghe có vẻ rất uy võ
+ZZAnswerText2_8139=Mỗi bước có thể đi thẳng về phía trước, đi thẳng về phía sau, đi ngang không giới hạn số bước
+maintext_8140=Trong cờ tướng, binh (tốt) có thể tiến lùi sau khi đi quá ranh giới không
+ZZAnswerText1_8140=Chỉ được tiến chứ không thể lùi
+ZZAnswerText2_8140=Không thể tiến, chỉ có thể lùi
+maintext_8141=Cờ tướng có bao nhiêu binh chủng?
+ZZAnswerText1_8141=6
+ZZAnswerText2_8141=7
+maintext_8142=Cờ tướng thời cổ đại gọi là gì?
+ZZAnswerText1_8142=Tượng Hí
+ZZAnswerText2_8142=Trung Kỳ
+maintext_8143=Cờ tướng có nguồn gốc từ đâu?
+ZZAnswerText1_8143=Tô Châu
+ZZAnswerText2_8143=Sơn Tây
+maintext_8144=Tổng cộng có bao nhiêu giao điểm trên bàn cờ tướng?
+ZZAnswerText1_8144=90 giao điểm
+ZZAnswerText2_8144=88 giao điểm
+maintext_8145=Vị trí không có đường thẳng trên bàn cờ gọi là?
+ZZAnswerText1_8145=Ô cửu cung
+ZZAnswerText2_8145=Hà giới
+maintext_8146=Trong trận đấu chính thức, bên đỏ đi trước hay bên đen?
+ZZAnswerText1_8146=Bên đen
+ZZAnswerText2_8146=Bên đỏ
+maintext_8147="Xe" là quân cờ mạnh nhất trong cờ tướng, vì
+ZZAnswerText2_8147=Cái tên nghe có vẻ rất uy võ
+ZZAnswerText1_8147=Mỗi bước có thể đi thẳng về phía trước, đi thẳng về phía sau, đi ngang không giới hạn số bước
+maintext_8148=Trong cờ tướng, binh (tốt) có thể tiến lùi sau khi đi quá ranh giới không
+ZZAnswerText1_8148=Chỉ được tiến chứ không thể lùi
+ZZAnswerText2_8148=Không thể tiến, chỉ có thể lùi
+maintext_8149=Cờ tướng có bao nhiêu binh chủng?
+ZZAnswerText1_8149=6
+ZZAnswerText2_8149=7
+maintext_8150=Cờ tướng thời cổ đại gọi là gì?
+ZZAnswerText2_8150=Tượng Hí
+ZZAnswerText1_8150=Trung Kỳ
+maintext_8151=Cờ tướng có nguồn gốc từ đâu?
+ZZAnswerText2_8151=Tô Châu
+ZZAnswerText1_8151=Sơn Tây
+maintext_8152=Tổng cộng có bao nhiêu giao điểm trên bàn cờ tướng?
+ZZAnswerText1_8152=90 giao điểm
+ZZAnswerText2_8152=88 giao điểm
+maintext_8153=Vị trí không có đường thẳng trên bàn cờ gọi là?
+ZZAnswerText1_8153=Ô cửu cung
+ZZAnswerText2_8153=Hà giới
+

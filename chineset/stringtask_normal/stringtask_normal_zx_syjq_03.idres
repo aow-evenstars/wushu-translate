@@ -81,7 +81,6 @@ target_73903=搜查祖澄的住所
 target_73904=假裝離開少林寺，將密宗之人引出來
 target_73905=從少林寺找到當年祖澄留下的線索
 target_73906=將此事立刻稟告給林天南。
-target_73907=擊敗前來的密宗殺手，然後前往峨眉找到軒轅楚晴
 target_73908=探查軒轅楚晴口風，暗中保護她
 target_73909=與軒轅狂浪交談
 target_73910=回稟林盟主
@@ -99,4 +98,96 @@ context_73904=假裝離開少林寺，出寺沒有幾步便察覺之前暗中觀
 context_73908=軒轅楚晴竟然好像早就知道盟主要來找她，告知自己在峨眉的這些年得到師姐妹們真誠相待，自己絕不會做出不利師門的事情，並告誡說如今已經有很多勢力在關注盟主的動向，而你勢單力薄，若想要保全自己便不要再追查此事。此時才知軒轅楚晴不過是被捲入其中的一枚棋子，如今已下定決心不參與此事，你不願強人所難卻不願放棄，只好詢問軒轅楚晴自己應該往何處調查。然軒轅楚晴口風實在太緊，你只好先行離去。沒想到......
 menu_73905_1=<font face="Default" color="#ffffff" >  </font><font face="Default" color="#ffffff" >這密宗之人在此久久不肯離去，肯定是還沒拿到祖澄留下的東西。</font>
 menu_73908_1=<font face="Default" color="#ffffff" >  </font><font face="Default" color="#ffffff" >你也不必隱瞞自己的身份了，我知道你是密宗安插在峨眉之人，如今我有幾句話想問你。</font>
+CanAcceptMenu_73911=<font face="Default" color="#ffffff" >探索山谷</font>
+CanAcceptMenu_73913=<font face="Default" color="#ffffff" >破解陣法</font>
+CanAcceptMenu_73914=<font face="Default" color="#ffffff" >命懸一線</font>
+CanAcceptMenu_73915=<font face="Default" color="#ffffff" >清淺往事</font>
+CanAcceptMenu_73916=<font face="Default" color="#ffffff" >真相大白</font>
+CanAcceptMenu_73917=<font face="Default" color="#ffffff" >秦王疑雲</font>
+CanAcceptMenu_73918=<font face="Default" color="#ffffff" >情投意合</font>
+CanAcceptMenu_73919=<font face="Default" color="#ffffff" >緣起緣散</font>
+CompleteMenu_73911=<font face="Default" color="#ffffff" >完成任務</font>
+CompleteMenu_73912=<font face="Default" color="#ffffff" >完成任務</font>
+CompleteMenu_73913=<font face="Default" color="#ffffff" >完成任務</font>
+CompleteMenu_73914=<font face="Default" color="#ffffff" >完成任務</font>
+CompleteMenu_73915=<font face="Default" color="#ffffff" >任務完成</font>
+CompleteMenu_73916=<font face="Default" color="#ffffff" >任務完成</font>
+CompleteMenu_73917=<font face="Default" color="#ffffff" >任務完成</font>
+CompleteMenu_73918=<font face="Default" color="#ffffff" >任務完成</font>
+CompleteMenu_73919=<font face="Default" color="#ffffff" >多謝掌門指點！</font>
+accept_73911_1=<font face="Default" color="#ffffff" >蕭公子？蕭公子</font><font face="Default" color="#ffffff" >……</font><font face="Default" color="#ffffff" >你還好麼？</font>
+accept_73913_1=<font face="Default" color="#ffffff" >這件事與朝廷有千絲萬縷的關係，必須趕緊告知江湖群雄。</font>
+accept_73914_1=<font face="Default" color="#ffffff" >我總覺得一路上有人跟著我們……</font>
+accept_73915_1=<font face="Default" color="#ffffff" >過往種種本不願再提及，今日能與師妹再次相逢，便與你們說說吧。</font>
+accept_73916_1=<font face="Default" color="#ffffff" >我接到飛鴿傳書，江湖群雄正在火拚，如今已是殺紅了眼。</font>
+accept_73917_1=<font face="Default" color="#ffffff" >如今紛爭化解，江湖又太平了，為何蕭公子還是愁眉不展，心事重重……</font>
+accept_73918_1=<font face="Default" color="#ffffff" >啟稟門主，</font><font face="Default" color="#ffffff" >弟子</font><font face="Default" color="#ffffff" >有事稟報。</font>
+accept_73919_1=<font face="Default" color="#ffffff" >雖然我在古墓生活多年，卻並不代表我絕情</font><font face="Default" color="#ffffff" >寡慾。</font><font face="Default" color="#ffffff" >別情，你我注定無法相守……</font>
+complete_73911=<font face="Default" color="#ffffff" >看來只能召喚我的</font><font face="Default" color="#ffffff" >白雕送我們出谷</font><font face="Default" color="#ffffff" >了。事不宜遲，我們要盡快趕往煙雨莊。</font>
+complete_73912=<font face="Default" color="#ffffff" >這件事似乎與朝廷有關……</font>
+complete_73913=<font face="Default" color="#ffffff" >可是我還是有些擔心……</font>
+complete_73914=<font face="Default" color="#ffffff" >此事說來話長……</font>
+complete_73915=<font face="Default" color="#ffffff" >這只白雕便送給師姐吧，好歹能做個伴兒。</font>
+complete_73916=<font face="Default" color="#ffffff" >真是萬幸，眾人如今都紛紛醒悟過來不再爭鬥</font><font face="Default" color="#ffffff" >了</font><font face="Default" color="#ffffff" >。</font>
+complete_73917=<font face="Default" color="#ffffff" >蕭門主，後會有期。</font>
+complete_73918=<font face="Default" color="#ffffff" >實不相瞞，武林盟主林天南是我的父親。江湖皆傳林盟主長女不滿髫年即夭折，卻鮮有人知她其實並未死去……我幼年時，劉基曾觀我面相，相屬內媚。長大後必定是姿容傾世。我爹未免日後紅顏禍水為禍武林，便狠心將我送到西山古墓，交於前任掌門撫養。</font>
+complete_73919=<font face="Default" color="#ffffff" >那我們就告辭了，蕭堂主多加珍重。</font>
+context_73911=偶遇碧琉夙，與其一同探索山谷。
+context_73912=調查追蹤《武定籍》來源。
+context_73913=擊敗攔路之人，回聚點告知群雄《武定籍》來源。
+context_73914=回聚點告知群雄《武定籍》來源。
+context_73915=聽冷清淺敘說往事。
+context_73916=前往聚點，阻止群雄爭鬥，告知《武定籍》背後陰謀。
+context_73917=推測《武定籍》來源及陰謀，約定後會之期。
+context_73918=互相表明心跡。
+context_73919=相愛的結局未必是相守。
+context_73920=查探山谷中的兩具不明屍體
+menu_73911_1=<font face="Default" color="#ffffff" >只是一些皮肉傷而已，不妨事的。</font><font face="Default" color="#ffffff" >碧</font><font face="Default" color="#ffffff" >姑娘怎會在此處？</font>
+menu_73913_1=<font face="Default" color="#ffffff" >事不宜遲，我們趕緊出發。</font>
+menu_73914_1=<font face="Default" color="#ffffff" >不速之客，何不光明磊落一點，現個身吧！</font>
+menu_73915_1=<font face="Default" color="#ffffff" >請</font><font face="Default" color="#ffffff" >姑娘</font><font face="Default" color="#ffffff" >慢慢道來</font><font face="Default" color="#ffffff" >。</font>
+menu_73916_1=<font face="Default" color="#ffffff" >事不宜遲，</font><font face="Default" color="#ffffff" >得</font><font face="Default" color="#ffffff" >趕緊前去阻止</font><font face="Default" color="#ffffff" >他們。</font>
+menu_73917_1=<font face="Default" color="#ffffff" >這件事</font><font face="Default" color="#ffffff" >只怕</font><font face="Default" color="#ffffff" >沒有這麼簡單……</font>
+menu_73918_1=<font face="Default" color="#ffffff" >所為何事？</font>
+menu_73919_1=<font face="Default" color="#ffffff" >相愛無法相守，我便獨自一人守著你，便也是此生無憾了。</font>
+next_73911=與<a href="findnpc_new,adv147,npc_2019jq_lzy_001" style="HLStype1">碧琉夙</a>交談
+next_73912=與<a href="findnpc_new,adv147,npc_2019jq_lzy_020" style="HLStype1">碧琉夙</a>交談
+next_73913=與<a href="findnpc_new,adv147,npc_2019jq_lzy_021" style="HLStype1">碧琉夙</a>交談
+next_73914=與<a href="findnpc_new,adv147,npc_2019jq_lzy_021" style="HLStype1">碧琉夙</a>交談
+next_73915=與<a href="findnpc_new,adv147,npc_2019jq_lzy_021" style="HLStype1">碧琉夙</a>交談
+next_73916=與<a href="findnpc_new,adv147,npc_2019jq_lzy_022" style="HLStype1">碧琉夙</a>交談
+next_73917=與<a href="findnpc_new,adv147,npc_2019jq_lzy_007" style="HLStype1">蕭天放</a>交談
+next_73918=與<a href="findnpc_new,adv146,npc_2019jq_lzy_011" style="HLStype1">碧琉夙</a>交談
+next_73919=與<a href="findnpc_new,,npc_2019jq_lzy_010" style="HLStype1">古墓掌門</a>交談
+next_73920=與<a href="findnpc_new,adv147,npc_2019jq_lzy_019" style="HLStype1">碧琉夙</a>交談
+submit_73911=<font face="Default" color="#ffffff" >幸虧碧姑娘養</font><font face="Default" color="#ffffff" >了這只白雕</font><font face="Default" color="#ffffff" >。否則我們就要命喪山谷了。</font>
+submit_73912=<font face="Default" color="#ffffff" >看來冰山一角已經顯露，真相離我們越來越近。</font>
+submit_73913=<font face="Default" color="#ffffff" >眼下若是多耽誤一個時辰，也許便多丟了幾條人命，咱們抓緊趕路吧。</font>
+submit_73914=<font face="Default" color="#ffffff" >在下洗耳恭聽。</font>
+submit_73915=<font face="Default" color="#ffffff" >這只白雕與你感情極深，</font><font face="Default" color="#ffffff" >你師姐定能瞭解你的一番心意。</font>
+submit_73916=<font face="Default" color="#ffffff" >總算是避免了一場武林浩劫。</font>
+submit_73917=<font face="Default" color="#ffffff" >多加保重，蕭幫主……若是有事，往君子堂</font><font face="Default" color="#ffffff" >傳</font><font face="Default" color="#ffffff" >個信便可。</font>
+submit_73918=<font face="Default" color="#ffffff" >琉夙，這一路我與你經歷了生死患難，確是我度過的人生最美好的時光。</font>
+submit_73919=<font face="Default" color="#ffffff" >恭送掌門。</font>
+target_73911=與碧琉夙一同探索山谷。
+target_73912=根據線索調查追蹤《武定籍》來源。
+target_73913=擊敗攔路之人，回聚點告知群雄《武定籍》來源。
+target_73914=回聚點告知群雄《武定籍》來源。
+target_73915=聽冷清淺敘說往事。
+target_73916=前往聚點，阻止群雄爭鬥，告知《武定籍》背後陰謀。
+target_73917=推測《武定籍》來源及陰謀，約定後會之期。
+target_73918=互相表明心跡。
+target_73919=相愛的結局未必是相守。
+target_73920=查探山谷中的兩具不明屍體
+title_73911=探索山谷
+title_73912=調查追蹤
+title_73913=破解陣法
+title_73914=命懸一線
+title_73915=清淺往事
+title_73916=真相大白
+title_73917=秦王疑雲
+title_73918=情投意合
+title_73919=緣起緣散
+title_73920=不明屍體
+target_73907=擊敗前來的密宗隱衛，然後前往峨眉找到軒轅楚晴
 

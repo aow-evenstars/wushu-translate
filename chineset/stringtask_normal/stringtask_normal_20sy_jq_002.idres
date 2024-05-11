@@ -1,0 +1,121 @@
+﻿
+CanAcceptMenu_75601=<font face="Default" color="#ffffff" >靜心打坐</font>
+CanAcceptMenu_75602=<font face="Default" color="#ffffff" >消除隱患</font>
+CanAcceptMenu_75603=<font face="Default" color="#ffffff" >收集泥土</font>
+CanAcceptMenu_75604=<font face="Default" color="#ffffff" >磨礪武技</font>
+CanAcceptMenu_75605=<font face="Default" color="#ffffff" >象棋問答</font>
+CanAcceptMenu_75606=<font face="Default" color="#ffffff" >物資採購</font>
+CanAcceptMenu_75607=<font face="Default" color="#ffffff" >採購物資</font>
+CanAcceptMenu_75641=<font face="Default" color="#ffffff" >挑戰高人</font>
+CanAcceptMenu_75642=<font face="Default" color="#ffffff" >象棋對弈</font>
+CompleteMenu_75606=<font face="Default" color="#ffffff" >你</font><font face="Default" color="#ffffff" >太客氣了。</font>
+CompleteMenu_75607=<font face="Default" color="#ffffff" >採購物資</font><font face="Default" color="#ffffff" >（可提交）</font>
+accept_75601_1=<font face="Default" color="#ffffff" >你看上去有點心浮氣躁 ，先去打坐室平靜一下吧。</font>
+accept_75602_1=<font face="Default" color="#ffffff" >山上最近不知怎麼多了很多狼，寨子裡的人都不敢上山了，你能去處理下麼？</font>
+accept_75603_1=<font face="Default" color="#ffffff" >我們寨子用的泥土都是這裡河邊用的特殊泥土，你能幫我去收集一點麼。</font>
+accept_75604_1=<font face="Default" color="#ffffff" >不要看我們的寨子小，但是我們這可有不少隱世高手的？</font>
+accept_75605_1=<font face="Default" color="#ffffff" >這個寨子人人深諳棋知道，想要留在這裡需要有豐富的棋類知識，你有麼？</font>
+accept_75606_1=<font face="Default" color="#ffffff" >吃的用的都打緊，</font><font face="Default" color="#ffffff" >我一個人</font><font face="Default" color="#ffffff" >還不夠……</font>
+accept_75607_1=<font face="Default" color="#ffffff" >你看寨子裡人是越來越多，東西是越用越快，我一個人可是忙不過來了。你可幫我去購置些物資來？</font>
+accept_75641_1=<font face="Default" color="#ffffff" >我們寨子中有一位</font><font face="Default" color="#ffffff" >絕世高手</font><font face="Default" color="#ffffff" >哦。</font>
+accept_75642_1=<font face="Default" color="#ffffff" >不同的棋子代表著不同的人</font>
+complete_75601=<font face="Default" color="#ffffff" >你的心靜下來了麼？</font>
+complete_75602=<font face="Default" color="#ffffff" >多謝少俠相助！</font>
+complete_75603=<font face="Default" color="#ffffff" >真是太好了，這些泥土來的真及時，我</font><font face="Default" color="#ffffff" >的棋子都磨平了。</font>
+complete_75604=<font face="Default" color="#ffffff" >沒想到你功夫不差嘛</font>
+complete_75605=<font face="Default" color="#ffffff" >果然厲害，竟然都答對了</font>
+complete_75606=<font face="Default" color="#ffffff" >你能來真是幫大忙了....</font>
+complete_75607=<font face="Default" color="#ffffff" >此事辦的甚好。</font>
+complete_75641=<font face="Default" color="#ffffff" >竟然打敗了阮星淵，你們的實力果然很強啊</font>
+complete_75642=<font face="Default" color="#ffffff" >這是你的獎勵</font>
+context_75601=前往打坐室，使用蒲團打坐
+context_75602=山上最近不知怎麼多了很多狼，寨子裡的人都不敢上山了。
+context_75603=我們寨子中人平日裡都酷愛下棋，對棋子的消耗很大
+context_75604=與寨子裡的高手進行切磋
+context_75605=回答阿詩月的問題
+context_75606=阿詩月若有所困，去幫她一下吧。
+context_75607=阿詩月想請你幫她採購一些東西，以補寨子中所缺。
+context_75641=挑戰<a href="findnpc_new,groupscene045,NPC_2020jq_dingzw003" style="HLStype1">阮星淵</a>
+context_75642=象棋之道在於每日磨煉，與其他棋手切磋下吧
+menu_75601_1=<font face="Default" color="#ffffff" >好，我這就去。</font>
+menu_75602_1=<font face="Default" color="#ffffff" >我這就去</font>
+menu_75603_1=<font face="Default" color="#ffffff" >好的，我立即去</font>
+menu_75604_1=<font face="Default" color="#ffffff" >我這就去找他們！</font>
+menu_75605_1=<font face="Default" color="#ffffff" >那是當然，</font><font face="Default" color="#ffffff" >請姑娘</font><font face="Default" color="#ffffff" >隨便</font><font face="Default" color="#ffffff" >提問</font>
+menu_75606_1=<font face="Default" color="#ffffff" >阿詩</font><font face="Default" color="#ffffff" >月</font><font face="Default" color="#ffffff" >別著急，我來幫你</font>
+menu_75607_1=<font face="Default" color="#ffffff" >我這就去！</font>
+menu_75641_1=<font face="Default" color="#ffffff" >他在哪，我這就去拜訪下</font>
+menu_75642_1=<font face="Default" color="#ffffff" >是麼？</font>
+submit_75601=<font face="Default" color="#ffffff" >我的心已經靜下來了。</font>
+submit_75602=<font face="Default" color="#ffffff" >客氣，客氣。</font>
+submit_75603=<font face="Default" color="#ffffff" >不用客氣！</font>
+submit_75604=<font face="Default" color="#ffffff" >客氣，客氣</font>
+submit_75605=<font face="Default" color="#ffffff" >哈哈</font>
+submit_75606=<font face="Default" color="#ffffff" >完成任務</font>
+submit_75607=<font face="Default" color="#ffffff" >您謬讚了。</font>
+submit_75641=<font face="Default" color="#ffffff" >僥倖，僥倖</font>
+submit_75642=<font face="Default" color="#ffffff" >多謝！</font>
+target_75601=前往打坐室，使用蒲團打坐
+target_75602=想辦法山上最近不知怎麼多了很多狼，寨子裡的人都不敢上山了。
+target_75603=去附近水邊收集一些燒製棋子用的泥土
+target_75604=與寨子裡的高手進行切磋
+target_75605=回答阿詩月的問題
+target_75606=去幫助阿詩月
+target_75607=收集阿詩月囑咐你購置的物件。
+target_75641=挑戰<a href="findnpc_new,groupscene045,NPC_2020jq_dingzw003" style="HLStype1">阮星淵</a>
+target_75642=象棋之道在於每日磨煉，與其他棋手切磋下吧
+title_75601=靜心打坐
+title_75602=消除隱患
+title_75603=收集泥土
+title_75604=磨礪武技
+title_75605=象棋問答
+title_75606=採購物資
+title_75607=物資採購
+title_75641=挑戰高人
+title_75642=象棋對弈
+maintext_8139=「車」可謂是中國象棋中最厲害的棋子，因為
+ZZAnswerText1_8139=名字聽起來很威武
+ZZAnswerText2_8139=每一著可以直進，直退，橫走，不限步數
+maintext_8140=在中國象棋中，兵（卒）過了界以後可以前進後退麼
+ZZAnswerText1_8140=只能前進，不能後退
+ZZAnswerText2_8140=不能前進，只能後退
+maintext_8141=象棋有幾個兵種？
+ZZAnswerText1_8141=6個
+ZZAnswerText2_8141=7個
+maintext_8142=中國象棋，在古代叫什麼？
+ZZAnswerText1_8142=象戲
+ZZAnswerText2_8142=中棋
+maintext_8143=中國象棋起源於何處？
+ZZAnswerText1_8143=蘇州
+ZZAnswerText2_8143=山西
+maintext_8144=中國象棋棋盤總共有幾個交叉點？
+ZZAnswerText1_8144=90個交叉點
+ZZAnswerText2_8144=88個交叉點
+maintext_8145=棋盤中沒有劃通直線的地方，叫做什麼？
+ZZAnswerText1_8145=九宮格
+ZZAnswerText2_8145=河界
+maintext_8146=正式比賽中紅方先走，還是黑方先走
+ZZAnswerText1_8146=黑方
+ZZAnswerText2_8146=紅方
+maintext_8147=「車」可謂是中國象棋中最厲害的棋子，因為
+ZZAnswerText2_8147=名字聽起來很威武
+ZZAnswerText1_8147=每一著可以直進，直退，橫走，不限步數
+maintext_8148=在中國象棋中，兵（卒）過了界以後可以前進後退麼
+ZZAnswerText1_8148=只能前進，不能後退
+ZZAnswerText2_8148=不能前進，只能後退
+maintext_8149=象棋有幾個兵種？
+ZZAnswerText1_8149=6個
+ZZAnswerText2_8149=7個
+maintext_8150=中國象棋，在古代叫什麼？
+ZZAnswerText2_8150=象戲
+ZZAnswerText1_8150=中棋
+maintext_8151=中國象棋起源於何處？
+ZZAnswerText2_8151=蘇州
+ZZAnswerText1_8151=山西
+maintext_8152=中國象棋棋盤總共有幾個交叉點？
+ZZAnswerText1_8152=90個交叉點
+ZZAnswerText2_8152=88個交叉點
+maintext_8153=棋盤中沒有劃通直線的地方，叫做什麼？
+ZZAnswerText1_8153=九宮格
+ZZAnswerText2_8153=河界
+

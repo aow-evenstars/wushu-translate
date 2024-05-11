@@ -77,7 +77,6 @@ interactinfo_8259=Hồi bẩm Tinh Khôi sư huynh giữa đường bị quái y
 interactinfo_8260=Đến <a href="findnpc_new,school04,EventNpc48019" style="HLStype1">Đấu Nam Viện</a> gặp gỡ Vương Túy
 interactinfo_8261=Vừa rồi chỉ là gần thắng, ta còn phải thừa cơ vào <a href="findnpc_new,school04,ItemNpc03215" style="HLStype1">phòng</a> tìm thử một lần
 interactinfo_8262=<a href="findnpc_new,school04,EventNpc48021_2" style="HLStype1">Bình phong</a> phía nam của căn nhà có động tĩnh, xem thử đi
-interactinfo_8263=Hiểu Nguyệt Sư Tỷ hôn mê không tỉnh, Vương Túy sư huynh lại bị hạ độc thủ, phải tìm <a href="findnpc_new,school04,EventNpc48022" style="HLStype1">Nhiếp Băng</a> báo thù rửa hận
 okmenu_8002=Đệ tử tuân mệnh.
 okmenu_8228=Đệ tử đã mở rộng tầm mắt, đa tạ Cổ sứ, cáo từ.
 okmenu_8250=Vâng, tuân lệnh
@@ -103,7 +102,6 @@ story_8089_2=<s>"Phục Ma Kiếm Phổ"? Nghe rất quen, hình như đã từn
 story_8090_1=<s>Quả nhiên là thanh kiếm tốt, kiếm này là do Ân Muội tặng ta, để Hiểu Minh không hiểu lầm, ta đem kiếm này để sau cao lầu, không ngờ trải qua 4 năm phong ba bão táp, bảo kiếm này vẫn sáng bóng như xưa.
 story_8090_2=<s>Ta đoán chuyện này có thể liên quan đến bọn nữ tử ngoại môn đó, trước tiên ngươi hãy đến chỗ Man Châu Sa Hoa, nhất định cô ta sẽ nghi ngờ, nghĩ rằng mình đã bị lộ, mà ta lại không hề hiện thần bởi thế cô ta mới bắt Hiểu Nguyệt, sợ là muốn dụ ta xuất hiện.
 story_8091_1=<s>Nhiếp Băng không phải đã đi từ sớm rồi sao? Không đúng, xem ra còn có người khác, hơn nữa còn là người của Cực Lạc Cốc.
-story_8091_2=<s>Ta kỹ lưỡng phân tích, nhận thấy cái chết của nghĩa đệ và tinh thần của Hiểu Nguyện rất kì lạ, Hiểu Nguyệt thất thường là do quá kinh hãi vì thấy được chuyện kinh dị, cô ấy bị ám sát lần này cũng là vì hung thủ muốn giết người diệt khẩu. Ta nghĩ hung thủ cũng là người của Cực Lạc Cốc.
 story_menu_8002=Bái kiến Thi Sứ
 story_menu_8084=Sư huynh, lúc nãy rốt cuộc đã xảy ra chuyện gì? Ta ở Đấu Nam Viện phát hiện Vương Túy sư huynh đã gặp nạn, nhất định là do tên Nhiếp Băng đó hại.
 story_menu_8087=<font face="Default" color="#ffffff" >Bất chấp người yêu đau khổ để đạt được kiếm phổ, thậm chí bán thân, kiếm phổ ấy có gì hay chứ</font><font face="Default" color="#ffffff" >? </font>
@@ -143,4 +141,37 @@ convoyinfo_8022=Theo Tinh Túc Phái Đệ Tử Thang Hiểu đi gặp <a href="
 hunterinfo_8034=Đánh bại <a href="findnpc_new,city05,monrm040023" style="HLStype1">Cán Hoa Kiếm Phái Môn Nhân</a>
 hunterinfo_8069=Đánh bại đám <a href="findnpc_new,born02,monrv022000" style="HLStype1">Tinh Túc Phái Đệ Tử</a> này
 hunterinfo_8072_2=Đánh bại đám <a href="findnpc_new,born02,monrv022300" style="HLStype1">Tinh Túc Phái Đệ Tử</a> này
+DialogID_8064_2=Ta rất yêu huynh ấy, nhưng nếu huynh ấy biết ta là kẻ thù của chàng, sẽ còn yêu ta nữa sao? Ngươi giúp ta đem bức thư và túi thơm ta làm cho huynh ấy, xem huynh ấy có phản ứng gì.
+DialogID_8150_1=Ta đã lâu chưa về nhà, rất nhớ mẫu thân sống một mình ở Hổ Khâu, Tô Châu. Gần đây ta lo lắng kẻ thù của ta sẽ gây bất lợi cho người, muốn nhờ ngươi nhanh đến Tô Châu đón người đến Cực Lạc Cốc!
+DialogID_8161_1=Huyết tẩy Thiếu Lâm? Ngươi đi tìm Tổ Kính Đại Sư, hỏi ngài tình hình của các đệ tử rời chùa gần đây.
+collectinfo_8011=Không có ở đây, chắc hẳn Độc Thù Kim Thoa phải ở trên người <a href="findnpc_new,school04,monrm040012" style="HLStype1">Âm Tuyền Sát Thủ Đầu Mục</a>
+collectinfo_8075=Đoạt lại bảo kiếm từ tay <a href="findnpc_new,school07,monm074400" style="HLStype1">Hắc Đạo Sát Thủ</a>
+convoy_talk_48428_3=Ta không làm chuyện xấu
+hunterinfo_8003=Đi tìm Nhan tiểu thư, vô tình phát hiện một nhóm <a href="findnpc_new,school04,monrm040088" style="HLStype1">Sát Thủ Giang Hồ</a> phục kích Nhan Bích Linh
+hunterinfo_8004=Đánh bại <a href="findnpc_new,school04,monm040304" style="HLStype1">Tùng Lâm Sát Thủ</a>
+hunterinfo_8013=Nghe những lời vô tình của <a href="findnpc_new,school04,monrm040092" style="HLStype1">Tinh Khôi</a>, tức giận quyết định báo thù cho Thi Sứ
+hunterinfo_8016=Giúp tiêu diệt <a href="findnpc_new,school04,monrm040084" style="HLStype1">Sát Thủ Ẩn Náu</a>
+hunterinfo_8017=Diệt <a href="findnpc_new,school04,monrm040009" style="HLStype1">Miêu Cương Nữ Sát Thủ</a>
+hunterinfo_8022=Tiêu diệt <a href="findnpc_new,school04,monrm040011" style="HLStype1">Cực Lạc Cốc Sát Thủ</a> ẩn náu ở trong thôn
+hunterinfo_8023=Đi diệt <a href="findnpc_new,school04,monm040400" style="HLStype1">Âm Tuyền Nữ Sát Thủ</a>, tìm kiếm tung tích Độc Thù Kim Thoa
+hunterinfo_8155=Đánh lui <a href="findnpc_new,city02,monrc011000" style="HLStype1">Diêm Bang Sát Thủ</a>
+interactinfo_8263=Hiểu Nguyệt Sư Tỷ hôn mê không tỉnh, Vương Túy sư huynh lại bị hạ độc thủ, phải tìm <a href="findnpc_new,school04,EventNpc48022" style="HLStype1">Nhiếp Băng</a> báo thù rửa hận
+okmenu_8022_1=Bẩm cốc chủ, Mã Tra Lan dùng Cực Lạc Hoàn khống chế một nhóm Sát Thủ ở ngoài, cây trâm này là tín vật
+okmenu_8065_1=Cốc chủ, Mộ Dung Bạch có thù diệt môn với Cực Lạc Cốc chúng ta, hắn đang đến báo thù, mong cốc chủ cẩn thận
+story_8009_2=Thiếu hiệp ngài phải cứu ta! Ta cũng là người bị hại! Mã Tra Lan biết sự việc bại lộ đã hạ độc ta giải quyết hậu họa! Muốn đổ hết tội lên đầu ta, cầu xin cứu ta!
+story_8019_2=Sao nào? Ta nói trúng rồi chứ gì! Theo ta thấy, đệ tử Thái Sơn Phái là bị người của Cực Lạc Cốc sát hại, trộm đi bảo vật của bọn ta, giờ bị tra ra rồi, các ngươi muốn giải quyết hậu họa đúng không!
+story_8026_2=Ồ, không cần lo lắng, một con súc sinh mà thôi, để ta kể cho ngươi nghe về Huyết Ma Thủ! Huyết Ma Thủ này tính cách âm trầm, không qua lại với người trong cốc, người trong cốc vừa hận vừa sợ, giờ hắn ở đâu ta không biết.
+story_8027_2=Ta có lỗi với thê tử của ta, giờ lại không bảo vệ được nàng, nên ta nhất định sẽ báo thù cho nàng, hắn không phải Huyết Ma Thủ sao, hừ hừ! Ta chính là muốn dùng Huyết Thủ Ấn dụ hắn ra, xử lý hắn!
+story_8028_2=Ta vốn là đệ tử Võ Đang, thiên tư thông minh, hành tẩu giang hồ trừ ma vệ đạo, không ngờ người mình yêu lại là con gái giáo chủ ma giáo Hắc Trân Châu. Hai chúng tôi lưỡng tình tương duyệt, còn có con với nhau, đều nói ma giáo độc ác, nhưng họ không hề làm khó chúng ta, ngược lại là những danh môn chính phái kia, sư huynh đệ của ta, bọn họ truy sát bọn ta Sư phụ đả thương bọn ta, còn cướp đi đứa con duy nhất của bọn ta, ta muốn báo thù, ta muốn Võ Đang phải trả giá!
+story_8032_2=Người nhà của hắn vì tranh đấu giang hồ, bị Cực Lạc Cốc sát hại, cả nhà mấy chục người, chỉ có mình hắn sống sót, hắn chăm chỉ luyện võ, kết giao với nhân sĩ giang hồ, chính là để diệt sạch Cực Lạc Cốc, báo thù cho người thân của hắn.
+story_8034_2=Ta vừa từ chỗ trang chủ đến, "Tam Hợp Chỉ" là do chúng ta giữ, nhưng họ lại tìm thấy ngọc bội của Mộ Dung Bạch ở Tàng Bảo Các, đệ tử bế quan bị đả thương, bảo vật trấn trang Mộ Dung Thần Kiếm cũng không còn, có lẽ do hắn lấy đi, ta nghi ngờ hắn đi tìm cốc chủ báo thù, ngươi mau về báo cho cốc chủ chuyện này, đừng làm Mộ Dung công tử bị thương.
+story_8035_1=<s><font color="#0033FF">(Sau khi lấy được kiếm Mộ Dung Bạch rất đau lòng)</font>Đây là kiếm ta tặng cô ấy, ta hiểu ý của cô ấy rồi, cô ấy muốn ta từ bỏ báo thù, ha... ha! Nhưng mấy chục mạng người nhà ta, ta trơ mắt nhìn họ từng người một ra đi.
+story_8035_2=<s>Ông trời sao lại đối xử với ta như vậy? Nếu ta kiên quyết muốn trả thù, cô ấy sẽ tự vẫn, cô ấy muốn ta từ bỏ, cùng cô ấy cao chạy xa bay, không nhắc lại việc báo thù, càng không trở lại giang hồ…
+story_8051_1=<s>Oan oan tương báo bao giờ mới kết thúc? Người đã mất không thể sống lại, nếu Ẩn Phong diệt được kẻ thù, mẫu thân anh ta có trở về được không? Không thể.
+story_8051_2=Kẻ ác cuối cùng sẽ bị trừng trị, bây giờ Ẩn Phong đi tấn công khắp nơi, nói là để trả thù cho mẹ, thực chất là để thỏa nỗi hận trong lòng. Người sống bằng hận thù sẽ bị nó tiêu diệt. Chi bằng gạt bỏ mối hận, kẻo gây thêm thù.
+story_8074_2=Trước đây ta được bạn giới thiệu, gia nhập một môn phái nhỏ. Sau này mới biết đó là tổ chức ma giáo, bọn chúng ép ta làm Ám Tiêu... Ta cũng đã làm không ít chuyện hổ thẹn, sau khi mẫu thân ta biết, bị ta làm cho tức chết! Sau này phụ thân ta muốn diệt đứa con bất hiếu này, báo thù cho mẹ... Ngươi xem ông ấy cũng đã lớn tuổi, lại còn chạy loạn lên, ta nguyện cải tà quy chính! Chỉ cần cho ta cơ hội...
+story_8091_2=<s>Ta kỹ lưỡng phân tích, nhận thấy cái chết của nghĩa đệ và tinh thần của Hiểu Nguyện rất Kỳ lạ, Hiểu Nguyệt thất thường là do quá kinh hãi vì thấy được chuyện kinh dị, cô ấy bị ám sát lần này cũng là vì hung thủ muốn sát nhân diệt khẩu. Ta nghĩ hung thủ cũng là người của Cực Lạc Cốc.
+story_menu_8009=sát nhân diệt khẩu
+story_menu_8073=sát nhân diệt khẩu
+storymenu_8051_1=Nhưng hung thủ vẫn ung dung ngoài kia!
 

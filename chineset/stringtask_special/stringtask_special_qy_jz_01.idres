@@ -58,7 +58,6 @@ collectinfo_51014=收集二十條弓魚(垂釣可獲得)
 collectinfo_51015=收集十份朝天椒(種植可獲得)
 collectinfo_51016=收集五瓶陳醋(農夫出售)
 collectinfo_51017=幫東方凌少收集五個木炭(鐵匠售賣)
-collectinfo_51018=擊殺<a href="findnpc_new,school03,monm032700" style="HLStype1">君子堂叛門弟子</a>收回十份君子堂信物
 collectinfo_51020=將鋤頭還給<a href="findnpc_new,school03,WorldNpc03308" style="HLStype1">東方凌少</a>
 collectinfo_51021=將鋤頭還給<a href="findnpc_new,school03,WorldNpc03308" style="HLStype1">東方凌少</a>
 collectinfo_51022=收集《勇能無懼》(書生生活道具)
@@ -67,7 +66,6 @@ collectinfo_51024=收集《佩蘭》尾曲(琴師生活道具)
 collectinfo_51025=收集《金明圖》(棋士生活道具)
 collectinfo_51026=收集《吉祥如意》(書生生活道具)
 collectinfo_51027=收集《珊瑚筆架圖》(畫師生活道具)
-collectinfo_51030=擊殺<a href="findnpc_new,school03,monm032700" style="HLStype1">君子堂叛門弟子</a>收回十份君子堂信物
 collectinfo_51031=再用小鋤頭採集些野筍交給<a href="findnpc_new,school03,WorldNpc03308" style="HLStype1">東方凌少</a>
 collectinfo_51032=再用小鋤頭採集些樹根交給<a href="findnpc_new,school03,WorldNpc03308" style="HLStype1">東方凌少</a>
 collectinfo_51033=收集《侃歌》間奏(琴師生活道具)
@@ -121,8 +119,6 @@ hunterinfo_51052=教訓<a href="findnpc_new,school03,monm031300" style="HLStype1
 hunterinfo_51053=擊敗<a href="findnpc_new,school03,monm033501" style="HLStype1">黃龍堡嘍囉</a>
 hunterinfo_51054=擊敗<a href="findnpc_new,school03,monm033502" style="HLStype1">黃龍堡監工</a>
 hunterinfo_51055=擊敗<a href="findnpc_new,school03,qy_0215_jzt_qieshuzei" style="HLStype1">竊書賊</a>
-hunterinfo_51056=擊殺十條<a href="findnpc_new,school03,monm033100" style="HLStype1">發狂瘋狗</a>
-hunterinfo_51057=擊殺十個<a href="findnpc_new,school03,monm030700" style="HLStype1">倭寇海盜</a>
 interactinfo_51001=去<a href="findnpc_new,city02,Event_qy_jzt01" style="HLStype1">松鶴酒樓</a>
 interactinfo_51003=與<a href="findnpc_new,school03,WorldNpc03441" style="HLStype1">陸雲霄</a>交談
 interactinfo_51004=與<a href="findnpc_new,city02,WorldNpc03315" style="HLStype1">燕長空</a>交談
@@ -216,8 +212,6 @@ specialinfo_305=通過青雲堡困難模式
 specialinfo_522=刺探極樂谷
 specialinfo_523=巡邏君子堂
 specialinfo_524=挑戰虎嘯山莊
-specialinfo_526=完成一次綁架
-specialinfo_527=解救一名被綁架的玩家
 specialinfo_528=成功進行一次運鏢
 specialinfo_529=通過地獄難度暮色之村
 specialinfo_530=通過青雲堡普通難度
@@ -260,7 +254,6 @@ SubmitNpcEx_17842=告訴<a href="findnpc_new,school03,WorldNpc03613" style="HLSt
 DialogID_51023=<font face="Default" color="#ffffff" >嗯，你功夫還不錯，雖然我只用了十分之一的功力，不過，我已經感到你帶給我的壓力了。我寫一封回信，你去帶給楊徘風吧。</font>
 hunterinfo_51037=帶著谷心蘿的期許去找<a href="findnpc,school03,625,103,401" style="HLStype1">布顏語</a>
 interactinfo_51018=與<a href="findnpc_new,school03,WorldNpc03320" style="HLStype1">谷心蘿</a>交談
-DialogID_51057=<font face="Default" color="#ffffff" >哎，前日我聽聞一位好友說有一夥人在暮色之村內橫行無忌，有幾個頭目更是殺人如麻。我不知如何是好……我很擔心我的好友的安危。</font>
 hunterinfo_51058=殺死暮色之村的周厲風
 hunterinfo_51059=殺死暮色之村的葉樓凱
 hunterinfo_51060=殺死暮色之村的錢昔之
@@ -268,4 +261,9 @@ DialogID_51061=<font face="Default" color="#ffffff" >混蛋！根據收集來的
 okmenu_51061=<font face="Default" color="#ffffff" >看我的吧，百獸莊有難了！</font>
 specialinfo_525=挑戰浣花山莊
 specialinfo_577=去百獸莊踢館
+DialogID_51057=<font face="Default" color="#ffffff" >哎，前日我聽聞一位好友說有一夥人在暮色之村內橫行無忌，有幾個頭目更是攻無不克。我不知如何是好……我很擔心我的好友的安危。</font>
+collectinfo_51018=攻克<a href="findnpc_new,school03,monm032700" style="HLStype1">君子堂叛門弟子</a>收回十份君子堂信物
+collectinfo_51030=攻克<a href="findnpc_new,school03,monm032700" style="HLStype1">君子堂叛門弟子</a>收回十份君子堂信物
+hunterinfo_51056=攻克十條<a href="findnpc_new,school03,monm033100" style="HLStype1">發狂瘋狗</a>
+hunterinfo_51057=攻克十個<a href="findnpc_new,school03,monm030700" style="HLStype1">倭寇海盜</a>
 

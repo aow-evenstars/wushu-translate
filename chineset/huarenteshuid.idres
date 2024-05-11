@@ -1,4 +1,5 @@
-﻿jianghu_shashou=惡人
+﻿
+jianghu_shashou=惡人
 jianghu_sidi=宿敵
 role_title_851=地痞
 role_title_852=惡棍
@@ -53,7 +54,6 @@ ui_menu_xuechou_prompt=1、成為血仇後，仇恨度不會每日減少<br>2、
 ui_menu_friend_confirm_add={@0:name}將你擊成休克，是否加其為宿敵？
 jdss04_1=<s><s>江湖從來不缺凶險禁地，禁地也從來不缺義士豪傑。但有慷慨任俠的義士，便有求財賣命的刺客。他們聽命行事，但不是什麼任務都做；他們求財，卻不是什麼錢都要。你不必知道他們是誰，要錢做什麼，只要明白，交了錢，那件事便再也不用你擔心。不是沒人懷疑他們的身份和目的，但這些人如今都已變成屍體。沒有名字，沒有代號，人們只稱呼為：江湖刺客。
 jdss04_2=1.玩法限制：<br>必須脫離新手保護才能參加<br>2.主要玩法：<br>在指定時間內保護BOSS不被禁地入侵者擊殺，並盡可能多的擊殺禁地入侵者<br>3.召喚規則：<br>參加其他任何玩法活動都不會被召喚；可以選擇報名，報名後將會被優先召喚<br>4.實力匹配：<br>召喚刺客的等級以禁地入侵者的隊伍平均實力水平做基準，上下浮動若干<br>5.得分規則:<br>擊殺禁地入侵者一次得分若干；保護BOSS的時間越久得分越高；保護BOSS到時間結束即為獲勝，將獲得大量積分
-
 ui_qs_mouse=轉動搗亂工具
 ui_qs_g=轉動
 home_qs_tips_01=搗亂成功
@@ -63,7 +63,6 @@ home_qiaosuo_failed_01=沒有搗亂所需的工具（雜貨商人處購買）或
 tool_home_qs=搗亂工具
 desc_tool_home_qs_0=進行搗亂必備工具。<br>可在雜貨商人購買
 tips_btn_home_17=搗亂進入
-
 talk_wjd_cm01_05=好，接下來我會先教你東瀛語中5個音節的讀音，例如あ(a)，就是說「あ」的讀音是「a」，待你記住後我會向你提問，如果你答對了，就證明你學會了
 talk_wjd_cm01_teach01=聽好了，あ(a)，い(i)，う(u)，え(e)，お(o)，這些讀音你記住了嗎？
 talk_wjd_cm01_teach01q_1=「あ」的讀音是什麼？
@@ -86,7 +85,6 @@ talk_wjd_cm01_teach01a_7=い
 talk_wjd_cm01_teach01a_8=う
 talk_wjd_cm01_teach01a_9=え
 talk_wjd_cm01_teach01a_10=お
-
 talk_wjd_cm01_teach02=聽好了，か(ka)，き(ki)，く(ku)，け(ke)，こ(ko)，這些讀音你記住了嗎？
 talk_wjd_cm01_teach02q_1=「か」的讀音是什麼？
 talk_wjd_cm01_teach02q_2=「き」的讀音是什麼？
@@ -108,7 +106,6 @@ talk_wjd_cm01_teach02a_7=き
 talk_wjd_cm01_teach02a_8=く
 talk_wjd_cm01_teach02a_9=け
 talk_wjd_cm01_teach02a_10=こ
-
 talk_wjd_cm01_teach03=聽好了，さ(sa)，し(si)，す(su)，せ(se)，そ(so)，這些讀音你記住了嗎？
 talk_wjd_cm01_teach03q_1=「さ」的讀音是什麼？
 talk_wjd_cm01_teach03q_2=「し」的讀音是什麼？
@@ -130,7 +127,6 @@ talk_wjd_cm01_teach03a_7=し
 talk_wjd_cm01_teach03a_8=す
 talk_wjd_cm01_teach03a_9=せ
 talk_wjd_cm01_teach03a_10=そ
-
 talk_wjd_cm01_teach04=聽好了，た(ta)，ち(ti)，つ(tu)，て(te)，と(to)，這些讀音你記住了嗎？
 talk_wjd_cm01_teach04q_1=「た」的讀音是什麼？
 talk_wjd_cm01_teach04q_2=「ち」的讀音是什麼？
@@ -152,7 +148,6 @@ talk_wjd_cm01_teach04a_7=ち
 talk_wjd_cm01_teach04a_8=つ
 talk_wjd_cm01_teach04a_9=て
 talk_wjd_cm01_teach04a_10=と
-
 talk_wjd_cm01_teach05=聽好了，な(na)，に(ni)，ぬ(nu)，ね(ne)，の(no)，這些讀音你記住了嗎？
 talk_wjd_cm01_teach05q_1=「な」的讀音是什麼？
 talk_wjd_cm01_teach05q_2=「に」的讀音是什麼？
@@ -174,7 +169,6 @@ talk_wjd_cm01_teach05a_7=に
 talk_wjd_cm01_teach05a_8=ぬ
 talk_wjd_cm01_teach05a_9=ね
 talk_wjd_cm01_teach05a_10=の
-
 talk_wjd_cm01_teach06=聽好了，は(ha)，ひ(hi)，ふ(hu)，へ(he)，ほ(ho)，這些讀音你記住了嗎？
 talk_wjd_cm01_teach06q_1=「は」的讀音是什麼？
 talk_wjd_cm01_teach06q_2=「ひ」的讀音是什麼？
@@ -196,7 +190,6 @@ talk_wjd_cm01_teach06a_7=ひ
 talk_wjd_cm01_teach06a_8=ふ
 talk_wjd_cm01_teach06a_9=へ
 talk_wjd_cm01_teach06a_10=ほ
-
 talk_wjd_cm01_teach07=聽好了，ま(ma)，み(mi)，む(mu)，め(me)，も(mo)，這些讀音你記住了嗎？
 talk_wjd_cm01_teach07q_1=「ま」的讀音是什麼？
 talk_wjd_cm01_teach07q_2=「み」的讀音是什麼？
@@ -218,7 +211,6 @@ talk_wjd_cm01_teach07a_7=み
 talk_wjd_cm01_teach07a_8=む
 talk_wjd_cm01_teach07a_9=め
 talk_wjd_cm01_teach07a_10=も
-
 talk_wjd_cm01_teach08=聽好了，や(ya)，い(i)，ゆ(yu)，え(e)，よ(yo)，這些讀音你記住了嗎？
 talk_wjd_cm01_teach08q_1=「や」的讀音是什麼？
 talk_wjd_cm01_teach08q_2=「い」的讀音是什麼？
@@ -240,7 +232,6 @@ talk_wjd_cm01_teach08a_7=い
 talk_wjd_cm01_teach08a_8=ゆ
 talk_wjd_cm01_teach08a_9=え
 talk_wjd_cm01_teach08a_10=よ
-
 talk_wjd_cm01_teach09=聽好了，ら(ra)，り(ri)，る(ru)，れ(re)，ろ(ro)，這些讀音你記住了嗎？
 talk_wjd_cm01_teach09q_1=「ら」的讀音是什麼？
 talk_wjd_cm01_teach09q_2=「り」的讀音是什麼？
@@ -262,7 +253,6 @@ talk_wjd_cm01_teach09a_7=り
 talk_wjd_cm01_teach09a_8=る
 talk_wjd_cm01_teach09a_9=れ
 talk_wjd_cm01_teach09a_10=ろ
-
 talk_wjd_cm01_teach10=聽好了，わ(wa)，い(i)，う(u)，え(e)，を(wo)，這些讀音你記住了嗎？
 talk_wjd_cm01_teach10q_1=「わ」怎麼讀？
 talk_wjd_cm01_teach10q_2=「い」的讀音是什麼？
@@ -284,17 +274,12 @@ talk_wjd_cm01_teach10a_7=い
 talk_wjd_cm01_teach10a_8=う
 talk_wjd_cm01_teach10a_9=え
 talk_wjd_cm01_teach10a_10=を
-
 talk_wjd_dongyingyu_1=こんにちは 
-
 talk_special_45303=てんのうばんざい……
-
 task_worldnpc01052=大丈夫だ，問題ない……（完全聽不懂她在說什麼，看來此人並非中土人士）
-
 talk_xiake_shit_shenbu_005=バカやろう，ころす。
-
 DialogID_56780=<s>やめて！！！
-
 ui_note_text="親愛的玩家：<br><br><s><s>近日接到玩家反映帳號遭受盜取問題。經過與帳號遭受盜取的玩家溝通以及進一步的調查，最終確認盜取帳號途徑為以下2種：<br><br>1. 登錄過假冒官方網站的非法虛假釣魚網站：<br>不法份子常會透過遊戲中或其他管道散佈虛假網站，假冒官方網站和領取虛寶的詐騙手法誘導玩家登錄，從而盜取玩家帳號。<br>解決方法：九陰真經全球華人服官網網址為 http://9y.bfage.com/ ，請各位玩家請仔細辨別，切勿相信來歷不明的網站。登錄網站時請小心謹慎，不要輕易點擊類似虛假網站，以防電腦遭受木馬程式攻擊，造成帳號遭盜取的情況。<br><br>2. 在其他網站註冊的帳號密碼與遊戲帳號密碼相同：<br>不少玩家為方便記憶，習慣在玩遊戲及登錄其他網站時都設置相同的帳號密碼。當其他網站發生過帳號訊息遭竊取時，該網站的帳號密碼同時已被不法份子獲得。而玩家遊戲的帳號密碼又與該網站以洩漏的帳號密碼相同，繼而導致遊戲帳號遭受盜取。<br>解決方法：請盡量設置不同的遊戲帳號密碼，並建議玩家將遊戲帳號綁定蝴蝶密保卡。<br><br><s><s><a href="http://member.bfage.com/securityToken.do?method=securityIndex" style="HLStype1">蝴蝶密保卡申請及使用</a><br><br><s><s>防範盜號從我做起，不隨意登陸私人給予的未知網站，單獨設立賬號密碼，帳號綁定蝴蝶密保卡，增加賬號的安全性。"
 ui_note_sign="九陰真經團隊<br>2014-7-17"
 desc_jysg_text_011=一個服務器開啟活動
+

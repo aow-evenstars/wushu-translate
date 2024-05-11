@@ -33,7 +33,6 @@ convoy_talk_22569_2=Đến rồi tại hạ xin cáo từ
 convoyinfo_3276=Theo Hồ Thiết Ngưu đến xem thử <a href="findnpc,city04,1210,0,470" style="HLStype1">Đại Hội Võ Lâm</a>
 convoyinfo_3277=Dẫn Tây Môn Tam Tài đi gặp <a href="findnpc,city04,1310.3,17.4,372.1" style="HLStype1">Huyền Thanh Đại Sư</a>
 convoyinfo_3279=Bảo vệ Hồ Thiết Ngưu, tiêu diệt Lâu La tiểu bang gần đây.
-convoyinfo_3280=Bảo vệ Huyền Thanh Đại Sư, tiêu diệt Sát Thủ Đông Xưởng xung quanh
 convoyinfo_3281=Theo Vương Phủ Thị Vệ đi gặp <a href="findnpc,city04,383.4,0,953.6" style="HLStype1">Quản Gia</a>
 hunterinfo_3276=Giáo huấn <a href="findnpc_new,city04,monrc044900" style="HLStype1">Kẻ Trộm Lưu Manh</a> đấu đá bừa bãi
 hunterinfo_3277=Đánh bại <a href="findnpc_new,city04,WorldNpc10070" style="HLStype1">Hồ Thiết Ngưu</a>
@@ -45,7 +44,6 @@ hunterinfo_3282=Đánh bại <a href="findnpc_new,city04,monrc047903" style="HLS
 hunterinfo_3283=Tỉ thí cùng <a href="findnpc_new,city04,WorldNpc10078" style="HLStype1">Ngô Dịch Kiếm</a>
 hunterinfo_3284=Đánh bại <a href="findnpc_new,city04,monrc045500" style="HLStype1">Vương Phủ Dũng Sĩ</a>
 hunterinfo_3285=Bảo hộ Tần Vương tiêu diệt <a href="findnpc_new,city04,monrc045600" style="HLStype1">Vương Phủ Thích Khách</a>
-hunterinfo_3286=Đánh bại <a href="findnpc_new,city04,monrc047907" style="HLStype1">Sát Thủ Thần Bí</a>
 interactinfo_3276=Cùng Người Giang Hồ <a href="findnpc_new,city04,WorldNpc10067" style="HLStype1">Triệu Ngũ Đao</a> bàn luận Đại Hội Võ Lâm
 interactinfo_3277=Cùng Người Giang Hồ <a href="findnpc_new,city04,WorldNpc10068" style="HLStype1">Lý Lập Cương</a> bàn luận Đại Hội Võ Lâm
 interactinfo_3278=Xem người đàn ông <a href="findnpc_new,city04,WorldNpc10070" style="HLStype1">Hồ Thiết Ngưu</a> thở hổn hển này muốn làm gì.
@@ -97,7 +95,7 @@ story_3286_1=<s>Đúng rồi, vừa nãy chờ thiếu hiệp ở trước cửa
 story_3286_2=<s>Mấy tên thị vệ đột nhiên ra tay diệt hết mấy nhân sĩ giang hồ kia, sau đó mang thi thể họ chất lên ngựa đi về phía rừng trúc gần đây, nên ta rất lo cho thiếu hiệp, may là ngài không sao.
 story_menu_3276=Còn có việc gì muốn nói sao?
 story_menu_3277=Rốt cuộc ngài muốn nói gì, không có chuyện gì thì ta đi đây.
-story_menu_3278= (Xem ra tên này nhận nhầm người rồi, mau dò hỏi thử xem chúng muốn làm gì) Xin lỗi, trên đường gặp chút chuyện, để ngài đợi lâu rồi.
+story_menu_3278=(Xem ra tên này nhận nhầm người rồi, mau dò hỏi thử xem chúng muốn làm gì) Xin lỗi, trên đường gặp chút chuyện, để ngài đợi lâu rồi.
 story_menu_3279=Đại sư nghe ta nói đã, tên này là tay sai của Đông Xưởng, chúng định cho nổ tung Đại Hội Võ Lâm diệt hết nhân sĩ võ lâm.
 story_menu_3280=Hồ huynh đệ, vẫn ổn chứ, đã xong chuyện chưa? Ôi! Sao cô ấy lại ở đây.
 story_menu_3281=Có việc gì cần ta giúp cứ nói đi.
@@ -121,8 +119,8 @@ storymenu_3276_1=Tiểu tử, niệm tình ngươi cũng là hảo hán, nói ra
 storymenu_3276_2=Thì ra là vậy!
 storymenu_3277_1=Lẽ nào cô nương biết ta, cô nương biết chuyện quá khứ của ta? Mau nói ta biết đi, ta là ai.
 storymenu_3277_2=Ngươi…
-storymenu_3278_1= (Xem thử rốt cuộc chúng có kế hoạch gì) Thuộc hạ sẽ cố gắng hết sức.
-storymenu_3278_2= (Thì ra là vậy, ngụy kế thật thâm độc.)
+storymenu_3278_1=(Xem thử rốt cuộc chúng có kế hoạch gì) Thuộc hạ sẽ cố gắng hết sức.
+storymenu_3278_2=(Thì ra là vậy, ngụy kế thật thâm độc.)
 storymenu_3279_1=Đại sư thật từ bi, thương xót chúng sinh, thật đáng khâm phục.
 storymenu_3279_2=Đây là việc vãn bối nên làm.
 storymenu_3280_1=Ha ha,  các ngươi đã sớm nhận ra tình cảm.
@@ -137,10 +135,12 @@ storymenu_3284_1=Tại nghe hạ kiếm khách Ngô Dịch Kiếm nói Tần Vư
 storymenu_3284_2=Tại hạ biết rồi, xin dũng sĩ quý phủ chỉ giáo.
 storymenu_3285_1=Tần Vương điện hạ quá lời rồi, tại hạ thật không dám. (Người này thân là Vương gia nhưng lại xin lỗi thảo dân như ta, quả nhiên có lòng.)
 storymenu_3285_2=<font face="Default" color="#000000" >Thân Vương điện hạ quyết lòng lo cho bách tính, tại hạ muôn phần khâm phục.</font><font face="Default" color="#000076" > (Người này lo nghĩ cho bách tính và lòng dạ thẳng thắn mới nói tư nguyện ra như thế, thật đáng kính trọng)</font><br/>
-storymenu_3285_3= (Người này thật khí phách và nhân từ, dù có lật đổ hôn quân hiện tại cũng xứng đáng, thật đáng phò tá) Vương gia…thực không dám giấu, tại hạ trọng thương bị mất trí nhớ, không biết bản thân là ai? Tại hạ muốn tìm hiểu thân thế chính mình, khi nào có kết quả nhất định sẽ đến phò trợ vương gia... Không xong rồi, vương gia cẩn thận, có thích khách...
+storymenu_3285_3=(Người này thật khí phách và nhân từ, dù có lật đổ hôn quân hiện tại cũng xứng đáng, thật đáng phò tá) Vương gia…thực không dám giấu, tại hạ trọng thương bị mất trí nhớ, không biết bản thân là ai? Tại hạ muốn tìm hiểu thân thế chính mình, khi nào có kết quả nhất định sẽ đến phò trợ vương gia... Không xong rồi, vương gia cẩn thận, có thích khách...
 storymenu_3286_1=Đột nhiên sao thế?
 storymenu_3286_2=Lại xảy ra chuyện này sao, thích khách mới nãy cũng rất đáng nghi.
 useiteminfo_3276=Nếm thử <a href="TASK_ITEM,useitem_38y" style="HLStype1">Đậu tằm</a> Hồ Thiết Ngưu mang từ quê lên
 useiteminfo_3277=Đưa cho <a href="findnpc_new,city04,WorldNpc10073" style="HLStype1">Đàm Tiểu Yêu</a> <a href="TASK_ITEM,useitem_36y" style="HLStype1">Quạt</a>
 useiteminfo_3279=Đưa cho <a href="findnpc_new,city04,WorldNpc10077" style="HLStype1">Nhân Sĩ Võ Lâm Bị Thương</a> uống <a href="TASK_ITEM,useitem_37y" style="HLStype1">Đại Hoàn Đan</a> của Thiếu Lâm
+convoyinfo_3280=Bảo vệ Huyền Thanh Đại Sư, tiêu diệt Sát Thủ Đông Xưởng xung quanh
+hunterinfo_3286=Đánh bại <a href="findnpc_new,city04,monrc047907" style="HLStype1">Sát Thủ Thần Bí</a>
 

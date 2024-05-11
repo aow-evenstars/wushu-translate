@@ -9,9 +9,7 @@ DialogID_31839=多謝，不知道文采如何呢，敢不敢陪本姑娘玩玩�
 DialogID_31840=<s>哈哈哈，多謝傻小子幫我們堂主抵擋那幫鏢師，東西已經到手了，拜拜......
 DialogID_31841=太好了，你能再幫我把它們穿成一條項鍊嗎？要做的漂亮威風點哦。
 DialogID_31842=<s>聽老人家說，被動物咬傷，最好用毒物泡制的藥酒擦傷口，就沒事了，你再幫我把它泡製成藥酒吧！
-DialogID_31843=<s>我是，公子我們被仇家追殺，外邊有好多殺手，我都躲了好長時間了，你快救救我吧！
 DialogID_31844=<s>多謝公子，那你幫我告訴師姐，我沒事了，請她不要擔心，我隨後就去找她。
-DialogID_31845=我被殺手追殺，快救救我！
 QiecuoMenu_31837=什麼，你們竟然是一夥的.......
 QiecuoMenu_31840=混蛋，你們在利用我......
 QiecuoTitle_31837=（看來這小子已經知道什麼了，絕不能讓他活著）呵呵，姐姐告訴你，你去閻王爺那問吧！
@@ -29,14 +27,9 @@ collectinfo_31838=獵殺<a href="findnpc_new,born04,monv041400" style="HLStype1"
 convoy_talk_80243_1=
 convoyinfo_31833=跟隨黑衣人前往打敗東方玉環
 hunterinfo_31833=幫江爾寧教訓取笑她的<a href="findnpc_new,born04,monv041200" style="HLStype1">採茶女</a>
-hunterinfo_31834=幫廖九芝擊殺附近的<a href="findnpc_new,born04,monv041300" style="HLStype1">殺手</a>
 hunterinfo_31835=幫採茶女獵殺<a href="findnpc_new,born04,monv041400" style="HLStype1">野豬</a>
 hunterinfo_31836=幫採茶女江爾寧教訓那幫<a href="findnpc_new,born04,monv040703" style="HLStype1">鏢師</a>
-hunterinfo_31837=擊殺要殺自己的<a href="findnpc_new,born04,WorldNpc00013" style="HLStype1">站立女子</a>。
-hunterinfo_31838=擊殺<a href="findnpc_new,born04,monv040703" style="HLStype1">鏢師</a>
-hunterinfo_31839=擊殺<a href="findnpc_new,born04,monv040702" style="HLStype1">鏢頭</a>
 hunterinfo_31840=準備打敗<a href="findnpc_new,born04,WorldNpc00013" style="HLStype1">站立女子</a>
-hunterinfo_31841=幫廖九芝擊退<a href="findnpc_new,born04,monv041300" style="HLStype1">茶林殺手</a>
 hunterinfo_31842=擊敗<a href="findnpc_new,born04,monv041303" style="HLStype1">錦衣衛送信人</a>
 hunterinfo_31843=擊敗<a href="findnpc_new,born04,monv041602" style="HLStype1">茶廠護衛</a>
 hunterinfo_31844=擊敗<a href="findnpc_new,born04,monv041600" style="HLStype1">黃衣侍女</a>
@@ -71,7 +64,6 @@ okmenu_31845=放心，一切有我。
 quest_menu_31833=<s>不知小姐還有何事吩咐？
 questioninfo_31833=和<a href="findnpc_new,born04,WorldNpc00047" style="HLStype1">舒婉儀</a>探討詩詞文賦
 story_31833_1=我本是五仙教的弟子，奉家師之命和師姐來娣一起外出歷練遊玩，不想在這千燈鎮上，有富家公子見我們貌美，便和家奴一起來調戲我們，師姐氣憤，出手教訓了他們一頓，卻不想……
-story_31833_2=那倒沒有，只是我們暴露了身份，晚上在客棧遭到了仇家的追殺，師姐為了救我，選擇了自己引開仇敵，現在下落不明，我逃到這裡，那幫殺手就追來了，幸好我躲了起來，一直到現在都不敢出去……
 story_menu_31833=究竟怎麼會回事，姑娘？
 storyinfo_31833=聽<a href="findnpc_new,born04,WorldNpc00033" style="HLStype1">廖九芝</a>講述
 storymenu_31833_1=怎麼了，難道那公子哥武藝高強，傷了你們？
@@ -79,4 +71,12 @@ storymenu_31833_2=姑娘放心，我這就出去幫你趕走他們。
 useiteminfo_31836=用<a href="TASK_ITEM,useitem_44y" style="HLStype1">皮繩</a>幫來娣把收集來的狼牙和野豬牙穿成項鍊。
 useiteminfo_31837=用<a href="TASK_ITEM,useitem_46y" style="HLStype1">毒蠍</a>泡制藥酒
 useiteminfo_31833=幫助<a href="findnpc_new,born04,WorldNpc00095" style="HLStype1">富商</a>用<a href="TASK_ITEM,useitem_42y" style="HLStype1">墨露再造膏</a>治療斷腿
+DialogID_31843=<s>我是，公子我們被仇家追殺，外邊有好多隱衛，我都躲了好長時間了，你快救救我吧！
+DialogID_31845=　　我被隱衛追殺，快救救我！
+hunterinfo_31834=幫廖九芝攻克附近的<a href="findnpc_new,born04,monv041300" style="HLStype1">隱衛</a>
+hunterinfo_31837=攻克要殺自己的<a href="findnpc_new,born04,WorldNpc00013" style="HLStype1">站立女子</a>。
+hunterinfo_31838=攻克<a href="findnpc_new,born04,monv040703" style="HLStype1">鏢師</a>
+hunterinfo_31839=攻克<a href="findnpc_new,born04,monv040702" style="HLStype1">鏢頭</a>
+hunterinfo_31841=幫廖九芝擊退<a href="findnpc_new,born04,monv041300" style="HLStype1">茶林隱衛</a>
+story_31833_2=　　那倒沒有，只是我們暴露了身份，晚上在客棧遭到了仇家的追殺，師姐為了救我，選擇了自己引開仇敵，現在下落不明，我逃到這裡，那幫隱衛就追來了，幸好我躲了起來，一直到現在都不敢出去……
 

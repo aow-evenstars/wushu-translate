@@ -1,5 +1,4 @@
 ﻿
-DialogID_73901=<font face="Default" color="#ffffff" >  </font><font face="Default" color="#ffffff" >Chuyện giữa ngươi và Tần Vương Phủ ở Lạc Dương ta đã biết rồi, ta cũng có phái người đến cửu đại tông phái để bàn bạc chuyện này với các vị chưởng môn.</font>
 DialogID_73902=<font face="Default" color="#ffffff" >Khoan đã, </font><font face="Default" color="#ffffff" >Huyền Hoài phương trượng vẫn chưa biết được ta đã giao nhiệm vụ mật sứ cho ngươi, e là sẽ hoài nghi thân phận của ngươi. Thư này ta tự tay viết, ngươi đưa nó cho phương trượng, y xem xong tự nhiên sẽ giúp ngươi.</font>
 DialogID_73903=<font face="Default" color="#ffffff" >Đây đúng là thư của Lâm minh chủ, vừa rồi đã mạo phạm, mong thiếu hiệp lượng thứ.</font>
 DialogID_73905=<font face="Default" color="#ffffff" >Vừa rồi phương trượng đã phái người đến nói rồi, thư tịch mà thần tăng để lại năm đó ta đã đặt ở đỉnh lầu Tàng Kinh Các rồi, ngươi tự đi lấy xem đi.</font>
@@ -19,8 +18,6 @@ collectinfo_73902=Tìm thư của Mật Tông trong Tàng Kinh Các <a href="fin
 hunterinfo_73901=Vội vã đến nhà cũ Tổ Trừng, gặp phải người canh gác hậu viện <a href="findnpc_new,school08,mzjq_sl_001" style="HLStype1">Thanh Nghiên</a>, và đã xảy ra xung đột
 hunterinfo_73902=Dưới sự giúp đỡ của Tổ Danh đại sư, đánh bại <a href="findnpc_new,school08,boss_jqmz_001" style="HLStype1">tăng nhân thần bí</a> đột nhiên xuất hiện (Nếu chưa hoàn thành nhiệm vụ mà rời khỏi map cốt truyện, có thể đến <a href="findnpc_new,school08,EventNpc_wyjq_001" style="HLStype1">Sơn Môn Thiếu Lâm Tự</a> kích hoạt lại cốt truyện để hoàn thành nhiệm vụ)
 hunterinfo_73903=Đánh bại thủ vệ Tàng Kinh Các <a href="findnpc_new,school08,mzjq_sl_003" style="HLStype1">Thanh Kha</a> (Ở đỉnh Tàng Kinh Các, có thể đi từ cầu thang)
-hunterinfo_73904=Thế lực Mật Tông không lấy được thư của Tổ Trừng thẹn quá hóa giận, lại đến hành thích võ lâm minh chủ, giúp Lâm Thiên Nam đánh bại <a href="findnpc_new,," style="HLStype1"></a>thủ lĩnh sát thủ Mật Tông khí thế hung dữ (Nếu vô ý rời khỏi map cốt truyện, có thể <a href="findnpc_new,city02,EventNpc_wyjq_002" style="HLStype1"> rời Tô Châu đến Nga My</a> để vào)
-hunterinfo_73905=Sát thủ hắc y Cẩm Y Vệ Triệu Chỉ bỗng phát hiện ra ngươi, thấy sự việc đã bại lộ, phi thân liền chạy, (Không thể để hắn chạy thoát, ngươi cần nhanh chóng đến trên cầu mượn khinh công nhảy lên để đuổi kịp hắn!) sau đó dưới sự trợ giúp của Hiên Viên Cuồng Lãng đã hợp lực tiêu diệt được Triệu Chỉ (Nếu vô ý rời khỏi map cốt truyện, có thể đến <a href="findnpc_new,school06,EventNpc_wyjq_003" style="HLStype1">núi Nga My</a> để kích hoạt cốt truyện)
 interactinfo_73901=Hỏi minh chủ <a href="findnpc_new,city02,WorldNpc01194" style="HLStype1">Lâm Thiên Nam</a> còn có căn dặn gì
 interactinfo_73902=Cầm thư giới thiệu mà <a href="findnpc_new,city02,WorldNpc01194" style="HLStype1">Lâm Thiên Nam</a> đưa đến Thiếu Lâm
 interactinfo_73903=Đưa thư giới thiệu của minh chủ cho <a href="findnpc_new,school08,WorldNpc00212" style="HLStype1">Huyền Hoài đại sư</a> để chứng tỏ thân phận
@@ -50,7 +47,6 @@ story_73904_2=<font face="Default" color="#ffffff" >Kế này rất hay, ta sẽ
 story_73905_1=<font face="Default" color="#ffffff" >Trừ nơi ở của Tổ Trừng ra, còn có 1 nơi Tổ Trừng cũng ở qua. Thì ra năm đó Thần Tăng Huyền Giám đem Tổ Trừng từ Tây Vực trở về, vài ngày đầu Tổ Trừng đã ở thiền phòng Huyền Giám, có lẽ Tổ Trừng có để lại gì đó mà nhất thời không đem đi được.</font>
 story_73905_2=<font face="Default" color="#ffffff" >Đúng vậy, </font><font face="Default" color="#ffffff" >mà Huyền Giám Thần Tăng được liệt vào 1 trong Lục Thánh, dù gan của Mật Tông có lớn thế nào cũng không dám phái người tìm đồ dưới con mắt của Huyền Giám được, khi Huyền Giám Thần Tăng rời tự đi ngao du đều đặt phần lớn sưu tập vào Tàng Kinh Các giao cho Huyền Chân đại sư đích thân trông coi, Mật Tông cũng không có cơ hội dò xét. Chi bằng ngươi đi hỏi Huyền Chân đại sư trông coi Tàng Kinh Các xem xem có manh mối gì không.</font>
 story_73906_1=<font face="Default" color="#ffffff" >Hiên Viên Sở Tinh của phái Nga My, Hiên Viên Cuồng Lãng của Cẩm Y Vệ đều là gian tế Mật Tông. Bây giờ ngươi lập tức đến bẩm báo Lâm minh chủ. </font><font face="Default" color="#ffffff" >Những người này có danh tiếng trên giang hồ đã lâu, thật không ngờ lại là gian tế mà Mật Tông cài vào các đại môn phái!</font>
-story_73907_1=<font face="Default" color="#ffffff" >Trong những người này thì thân phận của Dư Mạnh Thu sớm đã bị bại lộ, còn Cẩm Y Vệ tuy đã rời khỏi triều đình, nhưng hiện tại triều đình đang điều tra chuyện Mật Tông, Cẩm Y Vệ không thể không tham gia, dù ngươi đi thì dưới sự giám sát cũng rất khó điều tra ra gì.</font>
 story_73907_2=<font face="Default" color="#ffffff" >  Tuyệt Trần Sư Thái của Nga My sớm đã phát giác Hiên Viên Sở Tinh lai lịch bất thường, nhưng nữ nhân nay có lòng tốt, chưa từng làm chuyện gì nguy hại cho Nga My và võ lâm, nên Tuyệt Trần Sư Thái chưa nghiên cứu việc này. Trước mắt đến Nga My, xem có manh mối gì giá trị không.</font>
 story_73908_1=<font face="Default" color="#ffffff" >  Mấy năm ta ở Nga My được sư tỷ muội đối đãi chân thành, bản thân không làm việc gì bất lợi cho sư môn. Chí khí khi cùng ca ca bị sư môn phái đi thực hiện nhiệm vụ, đã sớm bị tiêu tan rồi.</font>
 story_73908_2=<font face="Default" color="#ffffff" >  Nay Mật Tông vùng dậy, thế lực đằng sau không phải các ngươi có thể chống lại, nên dừng tay, đừng chuốc họa vào thân.</font>
@@ -94,4 +90,209 @@ storymenu_73908_1=<font face="Default" color="#ffffff" >  </font><font face="Def
 storymenu_73908_2=<font face="Default" color="#ffffff" >  </font><font face="Default" color="#ffffff" >Chúng ta sẽ không ngồi nhìn Mật Tông gây hại võ lâm. Sư thái đã nói là không biết gì, tại hạ xin cáo từ trước.</font>
 storymenu_73909_1=<font face="Default" color="#ffffff" >Hãy đợi mà xem.</font>
 storymenu_73910_1=<font face="Default" color="#ffffff" >Minh Chủ hãy bảo trọng.</font>
+DialogID_73911=
+DialogID_73913=<font face="Default" color="#ffffff" >Xung quanh vách núi dựng đứng, đây có lẽ là điểm cuối. Cũng không biết là quái nhân phương nào, tung tin nhảm ở cốc khẩu, lẽ nào đã có người đi trước một bước, phá giải huyền cơ của sơn cốc này?</font>
+DialogID_73914=<font face="Default" color="#ffffff" >Biệt Tình Công Tử, kế hoạch tiếp theo của công tử là gì?</font>
+DialogID_73915=<font face="Default" color="#ffffff" >Ta nhớ có một thư sinh nói về chuyện "Võ Định Tịch"xuất hiện ở Yên Vũ Trang trong tửu lâu, rất nhiều người giang hồ trong tửu lâu đều nghe thấy.</font>
+DialogID_73916=<font face="Default" color="#ffffff" >Đại hiệp Bao Hiểu Sinh thật là lương thiện, thi thể không ai nhận trên đường, mà hắn lại hy sinh thời gian quý báu của mình để chôn cất, thật khiến người ta kính trọng!</font>
+DialogID_73917=<font face="Default" color="#ffffff" >Đại hiệp tha mạng! Đại hiệp tha mạng! Ta chỉ biết là người mặc đồ trắng nói tiếng Trường An, tay cầm đèn lồng.</font>
+DialogID_73918=<font face="Default" color="#ffffff" >Là Lưu Túc sơ ý, làm liên lụy Biệt Tình Công Tử.</font>
+DialogID_73919=<font face="Default" color="#ffffff" >Biệt Tình Công Tử, nội lực của người tiêu hao hơn phân nửa, chi bằng nghỉ ngơi ở đây một lát, dể Lưu Túc canh gác cho người.</font>
+DialogID_73920=<font face="Default" color="#ffffff" >Xem ra các ngươi</font> <font face="Default" color="#ffffff" >suốt quãng đường</font> <font face="Default" color="#ffffff" >dù yêu đương tình tứ nhưng không hề mất cảnh giác, nhưng tiếc là hôm nay các ngươi chỉ có thể làm một đôi uyên ương mất mạng thôi.</font>
+DialogID_73921=<font face="Default" color="#ffffff" >Con đại bàng trắng này lớn lên cùng Lưu Túc, rất có linh tính, nay tặng lại cho sư tỷ, hy vọng có nó bên cạnh, sư tỷ sẽ không cô đơn khi lăn lộn giang hồ.</font>
+DialogID_73922=<font face="Default" color="#ffffff" >Sư muội, Tiêu Công Tử, mọi người</font> <font face="Default" color="#ffffff" >vẫn khỏe chứ?</font>
+DialogID_73923=<font face="Default" color="#ffffff" >(Không thể không lùi lại hai bước, nhìn Lãnh Thanh Thiển khóc không thành tiếng) Thanh Thiển sư tỷ biết rõ Lưu Túc một lòng điều tra chuyện này là để lại trong sạch cho tỷ. Giờ lại nói bỏ qua hết những oan khuất này, là muốn... là muốn khiến Lưu Túc chôn chặt chân tướng này trong lòng sao?!</font>
+DialogID_73924=<font face="Default" color="#ffffff" >Sư muội, Minh Giáo ngoại vực là thứ tà ma ngoại đạo trong mắt các môn phái Trung Nguyên, nếu vạch trần chuyện này, sư môn chắc chắn sẽ bị cuốn vào phong ba Minh Giáo, chịu sự chỉ trích của võ lâm. Đến lúc đó, Thanh Thiển sẽ rơi vào cảnh vạn kiếp bất phục...</font>
+DialogID_73925=<font face="Default" color="#ffffff" >Rất nhiều chuyện trên thế gian này sở dĩ trở thành bí mật, là bởi vì bản thân nó có nỗi khổ riêng không thể chia sẻ với ai. Sư Tỷ, Lưu Túc sẽ tôn trọng sự lựa chọn của tỷ, thay tỷ giữ kín bí mật này.</font>
+DialogID_73926=<font face="Default" color="#ffffff" >Không hay rồi! Họ đã mất hết lý trí, phải nghĩ cách ngăn họ tàn sát lẫn nhau</font><font face="Default" color="#ffffff" >!</font>
+DialogID_73927=<font face="Default" color="#ffffff" >Lưu Túc suy đi nghĩ lại, cũng thấy e rằng chuyện này vẫn còn kẻ đứng đằng sau...</font>
+DialogID_73928=<font face="Default" color="#ffffff" >Nhất định phải tìm ra kẻ đứng đằng sau, nếu không giang hồ sẽ còn sóng gió.</font>
+DialogID_73929=<font face="Default" color="#ffffff" >Tiêu Đường Chủ, suy đoán của người không phải là không có lý. Theo tại hạ được biết, Bao Hiểu Sinh là người của Yến Vương Phủ, Yến Vương Chu Đệ ngăn Yên Kinh Bắc Bình, hai lần dẫn quân đến Mông Cổ, chiến công hiển hách. Nghe nói ông ta từng sống ở trung bộ vài năm, chuyện trong dân gian không gì là không biết, là "người có tâm".</font>
+DialogID_73930=<font face="Default" color="#ffffff" >Công tử, Lưu Túc phải về Mông Cổ phục mệnh, xin từ biệt công tử tại đây.</font>
+DialogID_73931=<font face="Default" color="#ffffff" >…3 tháng sau, Lưu Túc cần đến thành Tô Châu một chuyến, đến lúc đó sẽ đến Quân Tử Đường gặp công tử.</font>
+DialogID_73932=<font face="Default" color="#ffffff" >Võ lâm</font> <font face="Default" color="#ffffff" >Minh Chủ gửi</font> <font face="Default" color="#ffffff" >thiệp</font> <font face="Default" color="#ffffff" >mời</font> <font face="Default" color="#ffffff" >Môn chủ đến Tô Châu một chuyến.</font>
+DialogID_73933=<font face="Default" color="#ffffff" >Bẩm môn chủ, đệ tử chúng ta phái đi đều không tìm được tung tích của Bích cô nương.</font>
+DialogID_73934=
+DialogID_73935=<font face="Default" color="#ffffff" >Biệt Tình… Sao ngươi lại ở đây?</font>
+DialogID_73936=
+DialogID_73937=
+DialogID_73938=
+DialogID_73939=<font face="Default" color="#ffffff" >Tiêu Đường Chủ, bổn môn có 1 quy định bất thành văn, nếu có người nguyện tiếp nhận thử thách của đệ tử Cổ Mộ, thì sẽ có cơ hội khiến cô ấy phá bỏ lời thề và rời khỏi mộ, dù Võ Lâm Minh Chủ hiện không thể ngăn cản. Nghe Túc Nhi nói, khi ở Yên Vũ Trang, Tiêu Đường Chủ từng nhiều lần ra tay cứu mạng, ắt hẳn thử thách nhỏ này cũng không thể làm khó Tiêu Đường Chủ.</font>
+DialogID_73941=
+DialogID_73943=<font face="Default" color="#ffffff" >Ý của Biệt Tình Công Tử là… triều đình?</font>
+DialogID_73945=<font face="Default" color="#ffffff" >Tiêu Công Tử? Tiêu Công Tử… Công tử vẫn ổn chứ?</font>
+DialogID_73946=<font face="Default" color="#ffffff" >(Cười nhẹ) Không sao. Nếu trong này đã không có gì, vậy thì chúng ta cũng nên rời đi thôi. Lưu Túc có một con đại bàng trắng, lát nữa chúng ta ngồi lên nó để bay ra.</font>
+DialogID_73947=<font face="Default" color="#ffffff" >Biệt Tình Công Tử đã có manh mối rồi ư?</font>
+DialogID_73948=<font face="Default" color="#ffffff" >Chuyện của Thanh Thiển Sư Tỷ đã xong, chúng ta tiếp tục lên đường thôi.</font>
+DialogID_73949=<font face="Default" color="#ffffff" >Thật may mắn, mọi người đều dần tỉnh táo lại rồi, không còn tranh đấu với nhau nữa.</font>
+DialogID_73950=<font face="Default" color="#ffffff" >Tranh chấp đã được hóa giải, giang hồ lại thái bình trở lại, tại sao Tiêu Công Tử vẫn rầu rĩ không vui, dường như có rất nhiều tâm sự...</font>
+DialogID_73951=<font face="Default" color="#ffffff" >(Nhìn bạn với ánh mắt nghiêm túc, chắp tay hành lễ) Tiêu Đường Chủ, sau này gặp lại!</font>
+DialogID_73952=<font face="Default" color="#ffffff" >Bẩm môn chủ, tại hạ có chuyện muốn báo.</font>
+DialogID_73954=<font face="Default" color="#ffffff" >Ngọn nguồn của phong ba "Võ Định Tịch" lần này, ta đã nghe người ta nói qua, may có Tiêu Đường Chủ cố gắng xoay chuyển tình thế, tìm ra chân tướng, mới ngăn cản được thảm kịch võ lâm lần này.</font>
+DialogID_73957=<font face="Default" color="#ffffff" >Bên này có 2 cỗ thi thể...</font>
+QiecuoMenu_73911=<font face="Default" color="#ffffff" >(Bình thản nói) Đắc tội rồi.</font>
+QiecuoTitle_73911=<font face="Default" color="#ffffff" >Phật Gia ta sao phải nói cho ngươi?</font>
+SubmitNpcEx_73911=Trò chuyện với <a href="findnpc_new,adv147,npc_2019jq_lzy_001" style="HLStype1">Bích Lưu Túc</a>
+SubmitNpcEx_73912=Trò chuyện với <a href="findnpc_new,adv147,npc_2019jq_lzy_020" style="HLStype1">Bích Lưu Túc</a>
+SubmitNpcEx_73913=Trò chuyện với <a href="findnpc_new,adv147,npc_2019jq_lzy_021" style="HLStype1">Bích Lưu Túc</a>
+SubmitNpcEx_73914=Trò chuyện với <a href="findnpc_new,adv147,npc_2019jq_lzy_021" style="HLStype1">Bích Lưu Túc</a>
+SubmitNpcEx_73915=Trò chuyện với <a href="findnpc_new,adv147,npc_2019jq_lzy_021" style="HLStype1">Bích Lưu Túc</a>
+SubmitNpcEx_73916=Trò chuyện với <a href="findnpc_new,adv147,npc_2019jq_lzy_022" style="HLStype1">Bích Lưu Túc</a>
+SubmitNpcEx_73917=Trò chuyện với <a href="findnpc_new,adv147,npc_2019jq_lzy_007" style="HLStype1">Tiêu Thiên Phóng</a>
+SubmitNpcEx_73918=Trò chuyện với <a href="findnpc_new,adv146,npc_2019jq_lzy_011" style="HLStype1">Bích Lưu Túc</a>
+SubmitNpcEx_73919=Trò chuyện cùng <a href="findnpc_new,adv146,npc_2019jq_lzy_010" style="HLStype1">Chưởng Môn Cổ Mộ</a>
+SubmitNpcEx_73920=Trò chuyện với <a href="findnpc_new,adv147,npc_2019jq_lzy_019" style="HLStype1">Bích Lưu Túc</a>
+collectinfo_73903=Điều tra <a href="findnpc_new,adv147,GatherNpc_2019jq_lzy_002" style="HLStype1">thi thể bất minh</a>
+collectinfo_73904=Điều tra <a href="findnpc_new,adv147,GatherNpc_2019jq_lzy_003" style="HLStype1">thi thể bất minh</a>
+collectinfo_73911=Đến <a href="findnpc_new,,GatherNpc_2019jq_lzy_001" style="HLStype1">Bồ Đoàn</a> quỳ bái cha mẹ
+hunterinfo_73911=Nghe ngóng tin tức từ <a href="findnpc_new,adv147,npc_2019jq_lzy_004" style="HLStype1">Diêm Cương</a>
+hunterinfo_73912=Đánh bại Hắc Y Nhân
+hunterinfo_73913=Không màng phản phệ, phá 1 Trận Cơ bất kỳ, giải trừ trận pháp
+hunterinfo_73914=Đánh bại <a href="findnpc_new,adv147,attacknpc_2019jq_lzy_004" style="HLStype1">Hắc Y Nhân</a>
+hunterinfo_73915=Đánh bại giang hồ quái đản chặn đường trên <a href="findnpc_new,adv147,EventNpc_2019jq_lzy_018" style="HLStype1">đầu cầu</a>
+hunterinfo_73916=Đến <a href="findnpc_new,adv147,EventNpc_2019jq_lzy_014" style="HLStype1">điểm tụ hội</a> ngăn cản cao thủ võ lâm Lệnh Hồ Nhạc đang chiến đấu
+hunterinfo_73917=Đến <a href="findnpc_new,adv147,EventNpc_2019jq_lzy_014" style="HLStype1">điểm tụ hội</a> ngăn cản cao thủ võ lâm Hiên Viên Kỳ đang chiến đấu
+hunterinfo_73918=Đến <a href="findnpc_new,adv147,EventNpc_2019jq_lzy_014" style="HLStype1">điểm tụ hội</a> ngăn cản cao thủ võ lâm Cảnh Minh Triết đang chiến đấu
+interactinfo_73911=Phá giải <a href="findnpc_new,adv147,EventNpc_2019jq_lzy_001" style="HLStype1">Trận Bàn Cờ</a>
+interactinfo_73912=Đến <a href="findnpc_new,adv147,EventNpc_2019jq_lzy_002" style="HLStype1">sâu trong Sơn cốc</a> để kiểm tra
+interactinfo_73913=Tìm kiếm sơn cốc chưa có thu hoạch, bàn cách ra khỏi sơn cốc với <a href="findnpc_new,adv147,npc_2019jq_lzy_019" style="HLStype1">Bích Lưu Túc</a>
+interactinfo_73914=Trò chuyện với <a href="findnpc_new,adv147,npc_2019jq_lzy_001" style="HLStype1">Bích Lưu Túc</a>
+interactinfo_73915=Nghe ngóng tin tức từ <a href="findnpc_new,adv147,npc_2019jq_lzy_002" style="HLStype1">Lệ Phú Thăng</a>
+interactinfo_73916=Nghe ngóng tin tức từ <a href="findnpc_new,adv147,npc_2019jq_lzy_003" style="HLStype1">Tăng An Bình</a>
+interactinfo_73917=Nghe ngóng tin tức từ <a href="findnpc_new,adv147,npc_2019jq_lzy_004" style="HLStype1">Diêm Cương</a>
+interactinfo_73918=Hỏi thăm thương thế của <a href="findnpc_new,adv147,npc_2019jq_lzy_021" style="HLStype1">Bích Lưu Túc</a>
+interactinfo_73919=Trò chuyện với <a href="findnpc_new,adv147,npc_2019jq_lzy_021" style="HLStype1">Bích Lưu Túc</a>
+interactinfo_73920=Đến <a href="findnpc_new,adv147,EventNpc_2019jq_lzy_008" style="HLStype1">điểm tụ tập</a> nói cho quần hùng biết nguồn gốc của "Võ Định Tịch"
+interactinfo_73921=Trò chuyện với <a href="findnpc_new,adv147,npc_2019jq_lzy_021" style="HLStype1">Bích Lưu Túc</a>
+interactinfo_73922=Trò chuyện cùng <a href="findnpc_new,adv147,npc_2019jq_lzy_006" style="HLStype1">Lãnh Thanh Thiển</a>
+interactinfo_73923=Trò chuyện với <a href="findnpc_new,adv147,npc_2019jq_lzy_021" style="HLStype1">Bích Lưu Túc</a>
+interactinfo_73924=Trò chuyện cùng <a href="findnpc_new,adv147,npc_2019jq_lzy_006" style="HLStype1">Lãnh Thanh Thiển</a>
+interactinfo_73925=Trò chuyện với <a href="findnpc_new,adv147,npc_2019jq_lzy_021" style="HLStype1">Bích Lưu Túc</a>
+interactinfo_73926=Đến <a href="findnpc_new,adv147,EventNpc_2019jq_lzy_011" style="HLStype1">điểm tụ tập</a> ngăn cản trận chiến
+interactinfo_73927=Trò chuyện với <a href="findnpc_new,adv147,npc_2019jq_lzy_022" style="HLStype1">Bích Lưu Túc</a>
+interactinfo_73928=Trò chuyện với <a href="findnpc_new,adv147,npc_2019jq_lzy_022" style="HLStype1">Bích Lưu Túc</a>
+interactinfo_73929=Trò chuyện với <a href="findnpc_new,adv147,npc_2019jq_lzy_007" style="HLStype1">Tiêu Thiên Phóng</a>
+interactinfo_73930=Trò chuyện với <a href="findnpc_new,adv147,npc_2019jq_lzy_022" style="HLStype1">Bích Lưu Túc</a>
+interactinfo_73931=Trò chuyện với <a href="findnpc_new,adv147,npc_2019jq_lzy_022" style="HLStype1">Bích Lưu Túc</a>
+interactinfo_73932=Trò chuyện cùng <a href="findnpc_new,adv147,npc_2019jq_lzy_008" style="HLStype1">đệ tử Quân Tử Đường</a>
+interactinfo_73933=Trò chuyện cùng <a href="findnpc_new,adv147,npc_2019jq_lzy_008" style="HLStype1">đệ tử Quân Tử Đường</a>
+interactinfo_73934=Tìm <a href="findnpc_new,adv147,EventNpc_2019jq_lzy_006" style="HLStype1">thuyền phu</a> để đến Tô Châu
+interactinfo_73935=Trò chuyện với <a href="findnpc_new,adv146,npc_2019jq_lzy_011" style="HLStype1">Bích Lưu Túc</a>
+interactinfo_73936=Đến gần <a href="findnpc_new,adv146,EventNpc_2019jq_lzy_004" style="HLStype1">Bích Loa Thôn</a> bái tế cha mẹ<br> (có thể thông qua <a href="findnpc_new,adv146,EventNpc_2019jq_lzy_013" style="HLStype1">thuyền phu</a> để đến Bích Loa Đảo)
+interactinfo_73937=Bái tế cha mẹ trên <a href="findnpc_new,adv146,GatherNpc_2019jq_lzy_001" style="HLStype1">Bồ Đoàn</a>
+interactinfo_73938=Đến <a href="findnpc_new,adv146,EventNpc_2019jq_lzy_012" style="HLStype1">Vạn Tô Sơn Trang</a> (Có thể thông qua <a href="findnpc_new,adv146,EventNpc_2019jq_lzy_005" style="HLStype1">thuyền phu</a> để đến Vạn Tô Sơn Trang)
+interactinfo_73939=Trò chuyện cùng <a href="findnpc_new,adv146,npc_2019jq_lzy_010" style="HLStype1">Chưởng Môn Cổ Mộ</a>
+interactinfo_73940=Triệu hồi <a href="findnpc_new,adv147,EventNpc_2019jq_lzy_009" style="HLStype1">Bạch Điêu</a> rời sơn cốc
+interactinfo_73941=Trở lại <a href="findnpc_new,adv147,EventNpc_2019jq_lzy_003" style="HLStype1">Quân Tử Đường</a>
+interactinfo_73942=Đến <a href="findnpc_new,adv147,EventNpc_2019jq_lzy_011" style="HLStype1">điểm tụ tập</a> tổ chức tranh đấu
+interactinfo_73943=Thảo luận manh mối nguồn gốc "Võ Định Tịch" cùng <a href="findnpc_new,adv147,npc_2019jq_lzy_020" style="HLStype1">Bích Lưu Túc</a>
+interactinfo_73944=Đến <a href="findnpc_new,adv147,EventNpc_2019jq_lzy_007" style="HLStype1">điểm tụ tập</a> nói cho quần hùng biết nguồn gốc của "Võ Định Tịch"
+interactinfo_73945=Gặp <a href="findnpc_new,adv147,npc_2019jq_lzy_012" style="HLStype1">Bích Lưu Túc</a> trong sơn cốc, tiến lên trò chuyện với cô
+interactinfo_73946=Bàn cách ra khỏi sơn cốc cùng <a href="findnpc_new,adv147,npc_2019jq_lzy_019" style="HLStype1">Bích Lưu Túc</a>
+interactinfo_73947=Thảo luận manh mối nguồn gốc "Võ Định Tịch" cùng <a href="findnpc_new,adv147,npc_2019jq_lzy_020" style="HLStype1">Bích Lưu Túc</a>
+interactinfo_73948=Trò chuyện với <a href="findnpc_new,adv147,npc_2019jq_lzy_021" style="HLStype1">Bích Lưu Túc</a>
+interactinfo_73949=Trò chuyện với <a href="findnpc_new,adv147,npc_2019jq_lzy_022" style="HLStype1">Bích Lưu Túc</a>
+interactinfo_73950=Trò chuyện với <a href="findnpc_new,adv147,npc_2019jq_lzy_022" style="HLStype1">Bích Lưu Túc</a>
+interactinfo_73951=Trò chuyện với <a href="findnpc_new,adv147,npc_2019jq_lzy_007" style="HLStype1">Tiêu Thiên Phóng</a>
+interactinfo_73952=Trò chuyện cùng <a href="findnpc_new,adv147,npc_2019jq_lzy_008" style="HLStype1">đệ tử Quân Tử Đường</a>
+interactinfo_73954=Bàn đầu đuôi chuyện "Võ Định Tịch" cùng <a href="findnpc_new,adv146,npc_2019jq_lzy_024" style="HLStype1">Lâm Thiên Nam</a>
+interactinfo_73955=Cáo từ <a href="findnpc_new,adv146,EventNpc_2019jq_lzy_015" style="HLStype1">Rời đi</a>
+interactinfo_73956=Tìm <a href="findnpc_new,adv147,EventNpc_2019jq_lzy_016" style="HLStype1">sơn dịch</a> ở gần đây để người đi đường nghỉ chân, thăm dò manh mối
+interactinfo_73957=Trò chuyện với <a href="findnpc_new,adv147,npc_2019jq_lzy_019" style="HLStype1">Bích Lưu Túc</a>
+okmenu_73913=<font face="Default" color="#ffffff" >(Cười tạ lỗi) Là tại hạ nghĩ nhiều, khiến cô nương phải đi một chuyến.</font>
+okmenu_73914=<font face="Default" color="#ffffff" >Chỗ này có lẽ sẽ có sơn dịch để người đi đường nghỉ chân, tại hạ chuẩn bị đi nghe ngóng một chút, hy vọng có thể tìm ra người loan tin "Võ Định Tịch".</font>
+okmenu_73915=<font face="Default" color="#ffffff" >Bạch diện thư sinh...</font><font face="Default" color="#ffffff" >Lẽ nào là...</font>
+okmenu_73916=<font face="Default" color="#ffffff" >(… Bạch y lưu hầu Bao Hiểu Sinh?)</font>
+okmenu_73917=<font face="Default" color="#ffffff" >Đa tạ.</font>
+okmenu_73918=<font face="Default" color="#ffffff" >Lưu Túc cô nương vừa rồi không nhẫn tâm sát hại tính mạng Trận Nhãn Hài Đồng, đây cũng là chuyện thường tình. Ta có một cách phá trận khác, không biết cô nương có nguyện mạo hiểm cùng ta?</font>
+okmenu_73919=<font face="Default" color="#ffffff" >Yên tâm, ta không sao, chúng ta tiếp tục lên đường thôi.</font>
+okmenu_73920=<font face="Default" color="#ffffff" >Toàn lời tục tĩu, thật khó nghe.</font> <font face="Default" color="#ffffff" >Xem chiêu!</font>
+okmenu_73921=<font face="Default" color="#ffffff" >(Hiểu rằng đây là quyết định Bích Lưu Túc đưa ra để sau này không bị mất tin tức về Lãnh Thanh Thiển, bất giác đã tăng thêm hảo cảm đối với cô gái này)</font>
+okmenu_73922=<font face="Default" color="#ffffff" >Đa tạ cô nương cứu giúp, xin hỏi cô nương là?</font>
+okmenu_73923=<font face="Default" color="#ffffff" >... (Thì ra, Lưu Túc cô nương cũng đoán ra được ý của Lãnh cô nương)</font>
+okmenu_73924=<font face="Default" color="#ffffff" >Vì vậy Lãnh cô nương mới không muốn nói ra chân tướng, và sớm truyền ra tin tức mình bị đuổi khỏi sư môn… Sự lựa chọn của cô nương thật khiến người ta bội phục.</font>
+okmenu_73925=<font face="Default" color="#ffffff" >Lưu Túc cô nương...</font>
+okmenu_73926=<font face="Default" color="#ffffff" >Mọi người thu tay lại đi,</font> <font face="Default" color="#ffffff" >chư vị</font> <font face="Default" color="#ffffff" >hãy nghe ta nói một lời, lần này "Võ Định Tịch"</font> <font face="Default" color="#ffffff" >lưu lạc đến Yên Vũ Trang, theo như tại hạ điều tra, là do Bạch Diện Thư Sinh Bao Hiểu Sinh cố ý tung tin. Đằng sau là âm mưu của triều đình, mục đích để</font> <font face="Default" color="#ffffff" >khiến</font> <font face="Default" color="#ffffff" >giang hồ</font> <font face="Default" color="#ffffff" >quần hùng tàn sát lẫn nhau</font><font face="Default" color="#ffffff" >, từ đó làm suy yếu thế lực giang hồ, tiện cho triều đình tiến thêm một bước để khống chế các thế lực lớn của võ lâm trung nguyên.</font>
+okmenu_73927=<font face="Default" color="#ffffff" >Người khởi xướng ra chuyện lần này không phải là thánh thượng. Bao Hiểu Sinh hẳn là có ý đồ khác, còn về chuyện hắn làm việc cho ai, hiện vẫn chưa có chứng cứ, không thể kết luận. Hiện nay, ta chưa từng nói thẳng ra, cũng là vì sợ gây ra hoang mang sợ hãi và nghi kỵ.</font>
+okmenu_73928=<font face="Default" color="#ffffff" >Tại hạ sẽ âm thầm điều tra chuyện này.</font>
+okmenu_73929=<font face="Default" color="#ffffff" >Không ngờ ngoại trừ đương kim thánh thượng, vẫn còn có một phiên vương cắt đứt quan hệ với giang hồ...</font>
+okmenu_73930=<font face="Default" color="#ffffff" >… Lần từ biệt này, không biết có duyên gặp lại cô nương lần nữa không?</font>
+okmenu_73931=<font face="Default" color="#ffffff" >Biệt Tình chờ tin tốt.</font>
+okmenu_73932=<font face="Default" color="#ffffff" >Biết rồi. Ngoài ra,</font> <font face="Default" color="#ffffff" >có</font> <font face="Default" color="#ffffff" >nghe ngóng được</font> <font face="Default" color="#ffffff" >tin tức gì</font> <font face="Default" color="#ffffff" >của</font> <font face="Default" color="#ffffff" >Bích cô nương không</font><font face="Default" color="#ffffff" >?</font>
+okmenu_73933=<font face="Default" color="#ffffff" >Lập tức đến phủ Minh Chủ thôi.</font>
+okmenu_73934=
+okmenu_73935=<font face="Default" color="#ffffff" >Đây cũng là điều ta muốn hỏi, Lưu Túc… Sao ngươi lại ở đây?</font>
+okmenu_73936=
+okmenu_73937=
+okmenu_73938=
+okmenu_73939=<font face="Default" color="#ffffff" >(Chắp tay cảm tạ) Ý tốt của Chưởng Môn, tại hạ cảm tạ không thôi. Chỉ là tại hạ hiểu được nỗi khổ tâm của Lưu Túc cô nương, nguyện tôn trọng lựa chọn của nàng ấy. Có câu, khi hai người yêu nhau đã lâu, há phải bên nhau sớm tối, tại hạ sẽ luôn đợi nàng ấy.</font>
+okmenu_73943=<font face="Default" color="#ffffff" >Lưu Túc cô nương có thể nghĩ được như vậy thật không dễ dàng gì, chỉ sợ… Chân tướng còn vượt xa ngoài tưởng tượng của cô. Chuyện không thể chậm trễ, chúng ta phải lập tức đến nơi quần hào đang tụ hội, ngăn cản mối họa này.</font>
+okmenu_73945=<font face="Default" color="#ffffff" >Chỉ là một ít vết thương ngoài da thôi, không sao cả. Bích cô nương sao lại ở đây?</font>
+okmenu_73946=<font face="Default" color="#ffffff" >(Chắp tay) Nhờ cả vào cô nương.</font>
+okmenu_73948=<font face="Default" color="#ffffff" >Túc Tự cô nương không cần quá lo lắng. Điêu Nhi của cô bầu bạn với Lãnh cô nương, cũng tăng thêm vài phần kỷ niệm, sau này chờ khi nút thắt trong lòng cô ấy được cởi bỏ, có lẽ sẽ trở về sư môn.</font>
+okmenu_73949=<font face="Default" color="#ffffff" >Coi như tránh được một trận hào kiếp võ lâm.</font>
+okmenu_73950=<font face="Default" color="#ffffff" >Chuyện này chỉ e không đơn giản như vậy...</font>
+okmenu_73951=<font face="Default" color="#ffffff" >(Chắp tay đáp lễ) Tiêu Bang Chủ, bảo trọng!</font>
+okmenu_73952=<font face="Default" color="#ffffff" >Có chuyện gì?</font>
+okmenu_73954=<font face="Default" color="#ffffff" >Minh Chủ quá khen, tại hạ vẫn chưa làm gì cả.</font>
+okmenu_73957=<font face="Default" color="#ffffff" >Soát người chúng, xem có phát hiện được gì không.</font>
+story_73911_1=<font face="Default" color="#ffffff" >Hôm đó sau khi từ biệt ở tửu lâu, Lưu Túc vì để tìm người quan trọng của sư môn, mà đã có duyên đi qua Yên Vũ Trang, giữa đường vô tình nghe có người nhắc đến tên công tử, bèn âm thầm để ý. Sau đó nghe thấy 2 người đó quả nhiên đang âm mưu hãm hại, bèn quay lại đây tìm công tử.</font>
+story_73911_2=<font face="Default" color="#ffffff" >Nếu công tử không ngại, chi bằng xuất sơn</font>
+story_73911_3=<font face="Default" color="#ffffff" >Công tử định tiến vào trong sơn cốc? Lưu Túc vừa đến kiểm tra, phát hiện phía trước có trận cờ ngăn trở. Đánh cờ không phải là sở trường của Lưu Túc...</font>
+story_73912_1=<font face="Default" color="#ffffff" >(Quay người lại, chậm rãi nói) Cả cha mẹ đều là người trong Minh Giáo, vì Minh Giáo nội chiến nên đã chạy đến trung nguyên để lánh nạn, đến nhờ cậy bằng hữu, tức trang chủ Kim Đào Sơn Trang.</font>
+story_73912_2=<font face="Default" color="#ffffff" >Ngày trước cha mẹ ta đối xử với hắn không tệ, nào ngờ hắn là tên lòng lang dạ sói. Ngoài mặt thì chào đón nhiệt tình, sau lưng lại vì ngấp nghé nhan sắc của mẹ ta mà loan tin ra ngoài, hại cha ta mất mạng, mẹ cũng treo cổ tự sát sau khi bị làm nhục. Ta khi đó đã được sư phụ đưa đến Cổ Mộ để học nghệ, không hay biết gì về chuyện này. Mãi cho đến nửa năm trước, Dật Dao sư muội hiểu lầm rằng Dương Tà sư đệ chung tình với ta, cố ý tiết lộ chuyện này, ta mới biết được chân tướng sư phụ luôn che dấu.</font>
+story_73913_1=<font face="Default" color="#ffffff" >Lưu Túc không thể đến chỗ hẹn đúng giờ, xin tạ lỗi với công tử.</font>
+story_73913_2=<font face="Default" color="#ffffff" >Công tử, thật không dám giấu, Minh Chủ Lâm Thiên Nam chính là cha ruột của Lưu Túc. Vào năm Lưu Túc 6 tuổi, được Thành Ý Bá kết luận là người xinh đẹp, trước năm 40 tuổi, vì sợ dung mạo quá xinh đẹp mà sẽ trở thành yêu họa trong võ lâm. Cha càng sợ sau khi nhân sĩ giang hồ biết sẽ càng làm tổn hại đến ta, nên đã giao ta cho sư phụ, đưa về Cổ Mộ nuôi dưỡng, nói dối người ngoài rằng ái nữ đã chết yểu.</font>
+story_73913_3=<font face="Default" color="#ffffff" >Công tử phong thần tuấn tú, lăng vân từ phú, lẽ ra nên có tuyệt đại giai nhân bầu bạn, chứ không phải là người xui xẻo như Lưu Túc.</font>
+story_73913_4=<font face="Default" color="#ffffff" >3 ngày sau, Chưởng Môn sẽ đón ta về Cổ Mộ. Những ngày này, nếu công tử không chê, hãy để Lưu Túc bầu bạn cạnh bên công tử.</font>
+story_73913_5=<font face="Default" color="#ffffff" >Được, như lời công tử nói, Lưu Túc đến Bích Loa Thôn tế bái song thân cùng công tử, về Vạn Tô Sơn Trang xem nơi công tử lớn lên, lại cùng công tử vẽ tranh, gãy đàn.</font>
+story_73914_1=<font face="Default" color="#ffffff" >Thật không ngờ, Tàng Bảo Đồ này lại có đến hơn mấy chục tấm… Quả đúng như công tử dự đoán. Hiện chân tướng đã rõ, quần hùng lần lượt tỉnh ngộ, không tiếp tục tranh đấu, âm mưu của triều đình xem như triệt để thất bại rồi.</font>
+story_73914_2=<font face="Default" color="#ffffff" >Nay sóng gió đã yên ổn, võ lâm lại yên tĩnh như trước, nhưng Lưu Túc thấy sắc mặt của công tử như không hề có cảm giác thả lỏng...</font>
+story_73914_3=<font face="Default" color="#ffffff" >Công tử đang nghi ngờ thân phận của Bao Hiểu Sinh? Lưu Túc chỉ nghe nói, người này là thường dân, không hề có công danh.</font>
+story_73914_4=<font face="Default" color="#ffffff" >Lưu Túc sống trong Cổ Mộ đã lâu, biết rất ít chuyện trên giang hồ. Nếu nói ai trong giang hồ tin tức linh thông nhất, thì không ai khác ngoài Cái Bang trải khắp thiên hạ. Nếu Tiêu Thiên Phóng Bang Chủ cũng ở đây, chi bằng công tử hãy đến bái phỏng, nghe xem hắn nói như thế nào.</font>
+story_73915_1=<font face="Default" color="#ffffff" >Minh Chủ Lâm Thiên Nam, mời ngài đến Tô Châu một chuyến.</font>
+story_73915_2=<font face="Default" color="#ffffff" >Bẩm báo Đường Chủ, tạm thời không có tin tức của Bích cô nương.</font>
+story_73915_3=<font face="Default" color="#ffffff" >Bẩm môn chủ, đệ tử chúng ta phái đi đều không tìm được tung tích của Bích cô nương.</font>
+story_73916_1=<font face="Default" color="#ffffff" >(Nhìn lệnh bài trong tay bạn) Thần Phong Lệnh… Người này lẽ nào là người trong Thần Phong Bang?</font>
+story_73916_2=<font face="Default" color="#ffffff" >Dường như đã nhìn thấy tấm Tàng Bảo Đồ này ở đâu rồi… Đúng rồi, sau khi từ biệt Tiêu Công Tử, Lưu Túc từng thấy một vài cao thủ đánh nhau vì tranh đoạt vật tương tự như vậy, hơn nữa mỗi chiêu đều là sát chiêu.</font>
+story_73916_3=<font face="Default" color="#ffffff" >Tiêu Công Tử, có lẽ không có manh mối gì nữa, chúng ta có nên rời khỏi đây? Chỗ này khắp nơi đều là vách núi dựng đứng, chi bằng dùng Bạch Điêu của Lưu Túc để bay ra sơn cốc.</font>
+story_menu_73911=<font face="Default" color="#ffffff" >Cùng kể về điều đã trải qua</font>
+story_menu_73912=<font face="Default" color="#ffffff" >(Kinh ngạc) Nhưng mà, trước đó nghe lời Lưu Túc cô nương, Chưởng Môn của quý phái không hề có ý đuổi ngươi, nếu không cũng sẽ không phái đệ tử xuống núi, nghe ngóng tung tích của ngươi.</font>
+story_menu_73913=<font face="Default" color="#ffffff" >Không ngờ lại gặp được cô nương ở đây.</font>
+story_menu_73914=<font face="Default" color="#ffffff" >(Gật đầu) Không sai, may mà chúng ta kịp thời đuổi đến.</font>
+story_menu_73915=<font face="Default" color="#ffffff" >Là ai gửi?</font>
+story_menu_73916=<font face="Default" color="#ffffff" >Bích cô nương có nhận ra lệnh bài này không?</font>
+storyinfo_73911=Hỏi <a href="findnpc_new,adv147,npc_2019jq_lzy_012" style="HLStype1">Bích Lưu Túc</a> sao lại đến đây
+storyinfo_73912=Nghe <a href="findnpc_new,adv147,npc_2019jq_lzy_006" style="HLStype1">Lãnh Thanh Thiển</a> kể chuyện xưa
+storyinfo_73913=Nghe <a href="findnpc_new,adv146,npc_2019jq_lzy_011" style="HLStype1">Bích Lưu Túc</a> tâm sự
+storyinfo_73914=Thảo luận về mối nghi ngờ đằng sau "Võ Định Tịch" cùng <a href="findnpc_new,adv147,npc_2019jq_lzy_022" style="HLStype1">Bích Lưu Túc</a>
+storyinfo_73915=Nghe <a href="findnpc_new,adv147,npc_2019jq_lzy_008" style="HLStype1">đệ tử Quân Tử Đường</a> bẩm báo
+storyinfo_73916=Thảo luận với <a href="findnpc_new,adv147,npc_2019jq_lzy_019" style="HLStype1">Bích Lưu Túc</a>
+storymenu_73911_1=<font face="Default" color="#ffffff" >(Gãi nhẹ cánh mũi, bất lực mỉm cười) Tại hạ hổ thẹn, đã bất cẩn trúng bẫy.</font>
+storymenu_73911_2=<font face="Default" color="#ffffff" >(Đứng dậy, nhìn xung quanh) Sơn cốc này cấu trúc đặc biệt, có lẽ không phải sơn cốc tự nhiên, trong đó có lẽ có điểm kỳ lạ.</font>
+storymenu_73911_3=<font face="Default" color="#ffffff" >(Khóe môi cong lên) Bích cô nương xin hãy nghỉ ngơi một lát, chuyện phá trận cứ để tại hạ lo.</font>
+storymenu_73912_1=<font face="Default" color="#ffffff" >Tại hạ cũng có nghe qua, Minh Giáo năm đó chia năm xẻ bảy, trải qua một cuộc nội chiến...</font>
+storymenu_73912_2=<font face="Default" color="#ffffff" >... (Thấy Bích Lưu Túc ở bên cạnh đã nước mắt đầy mặt, gần như sắp ngã, tiến lên đỡ lấy cánh tay cô, chờ cô đứng vững rồi buông tay)</font>
+storymenu_73912_3=<font face="Default" color="#ffffff" >... (Cô ấy chỉ là một cô gái yếu đuối, phải gánh trên vai huyết hải thâm thù như vậy, thật khiến người ta thương tiếc. Dù là người tài giỏi như bạn, lúc này cũng không biết phải an ủi như thế nào)</font>
+storymenu_73913_1=<font face="Default" color="#ffffff" >Không cần đa lễ, Biệt Tình tin cô nương là người giữ lời, lần này nhất định là vì có nỗi khổ tâm.</font>
+storymenu_73913_2=<font face="Default" color="#ffffff" >Ra là vậy...</font>
+storymenu_73913_3=<font face="Default" color="#ffffff" >Ta và cô nương vài lần vào sinh ra tử ở Yên Vũ Trang, sự kinh tài tuyệt diễm, tinh tế của cô nương đã khắc sâu trong lòng Biệt Tình. Tại hạ đợi được, chỉ cần trái tim cô nương cũng như vậy...</font>
+storymenu_73913_4=<font face="Default" color="#ffffff" >(Nắm chặt tay cô) Ba ngày là đủ rồi.</font>
+storymenu_73913_5=<font face="Default" color="#ffffff" >(Nhẹ nhàng kéo cô vào lòng)</font>
+storymenu_73914_1=<font face="Default" color="#ffffff" >... (Cúi đầu im lặng, chìm vào suy tư)</font>
+storymenu_73914_2=<font face="Default" color="#ffffff" >Cô nương, tại hạ luôn có cảm giác, kẻ khơi ra chuyện này không phải là đương kim thánh thượng. Trong tối dường như có một đôi mắt đang quan sát mọi chuyện.</font>
+storymenu_73914_3=<font face="Default" color="#ffffff" >Tên Bao Hiểu Sinh đó có mưu đồ khác, chỉ là tại hạ không có chứng cứ, đây chỉ là suy đoán mà thôi, hoặc có khi tại hạ nghĩ nhiều rồi.</font>
+storymenu_73914_4=<font face="Default" color="#ffffff" >... (Ca ca...)</font>
+storymenu_73915_1=<font face="Default" color="#ffffff" >Biết rồi. Ngoài ra, có tin tức gì của Bích Lưu Túc cô nương không?</font>
+storymenu_73915_2=<font face="Default" color="#ffffff" >(Cô ấy đã lỡ hẹn...) Ừm, lập tức đến phủ Minh Chủ thôi.</font>
+storymenu_73915_3=<font face="Default" color="#ffffff" >Ừm, lập tức đến phủ Minh Chủ thôi.</font>
+storymenu_73916_1=<font face="Default" color="#ffffff" >Rất có khả năng, người kia nhìn cách ăn mặc thì có lẽ đến từ Nhữ Nam Lôi Vân Quan. Hai người này có lẽ vì muốn đoạt Tàng Bảo Đồ nhưng bất cẩn trúng phải cơ quan, độc tiễn xuyên tâm rồi mất mạng.</font>
+storymenu_73916_2=<font face="Default" color="#ffffff" >...</font>
+storymenu_73916_3=<font face="Default" color="#ffffff" >Vậy thì làm phiền cô nương. Ta và cô nương cũng là bằng hữu cùng hoạn nạn, gọi ta Biệt Tình là được</font>
+story_73907_1=<font face="Default" color="#ffffff" >Trong những người này thì thân phận của Dư Mạnh Thu sớm đã bị bại lộ, còn Cẩm Y Vệ tuy đã rời khỏi triều đình, nhưng hiện tại triều đình đang điều tra chuyện Mật Tông, Cẩm Y Vệ không thể không tham gia, dù ngươi đi thì dưới sự giám sát cũng rất khó điều tra ra gì.</font>
+hunterinfo_73904=Thế lực Mật Tông không lấy được thư của Tổ Trừng thẹn quá hóa giận, lại đến hành thích võ lâm minh chủ, giúp Lâm Thiên Nam đánh bại <a href="findnpc_new,," style="HLStype1"></a>thủ lĩnh sát thủ Mật Tông khí thế hung dữ (Nếu vô ý rời khỏi map cốt truyện, có thể <a href="findnpc_new,city02,EventNpc_wyjq_002" style="HLStype1"> rời Tô Châu đến Nga My</a> để vào)
+hunterinfo_73905=Sát thủ hắc y Cẩm Y Vệ Triệu Chỉ bỗng phát hiện ra ngươi, thấy sự việc đã bại lộ, phi thân liền chạy, (Không thể để hắn chạy thoát, ngươi cần nhanh chóng đến trên cầu mượn khinh công nhảy lên để đuổi kịp hắn!) sau đó dưới sự trợ giúp của Hiên Viên Cuồng Lãng đã hợp lực tiêu diệt được Triệu Chỉ (Nếu vô ý rời khỏi map cốt truyện, có thể đến <a href="findnpc_new,school06,EventNpc_wyjq_003" style="HLStype1">núi Nga My</a> để kích hoạt cốt truyện)
+okmenu_73947=<font face="Default" color="#ffffff" >Trai cò đánh nhau, ngư ông đắc lợi, thật hay cho một chiêu mượn đao sát nhân.</font>
+story_73912_3=<font face="Default" color="#ffffff" >Do đó, ta không từ mà biệt, chịu nhục chịu khổ, cố ý tiếp cận trang chủ Kim Đào Sơn Trang Kim Á Vĩ, mục đích là để báo thù cho song thân. Chuyện xảy ra sau đó, mọi người cũng đã biết rồi...</font>
+DialogID_73901=<font face="Default" color="#ffffff" >  </font><font face="Default" color="#ffffff" >Chuyện giữa ngươi và Tần Vương Phủ ở Lạc Dương ta đã biết rồi, ta cũng có phái người đến Các Đại Tông Phái để bàn bạc chuyện này với các vị chưởng môn.</font>
 

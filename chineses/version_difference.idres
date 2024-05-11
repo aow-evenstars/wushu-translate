@@ -153,7 +153,7 @@ submitnpcex_50=Tìm <a href="findnpc_new,city05,Transcity05D" style="HLStype1">X
 submitnpcex_49=Tìm <a href="findnpc_new,born03,Transbron03A" style="HLStype1">Xa Phu</a> gia nhập môn phái
 submitnpcex_41=Hỏi <a href="findnpc_new,school08,WorldNpc00212" style="HLStype1">Huyền Hoài Đại Sư</a> kết quả kiểm tra
 submitnpcex_40=Tìm <a href="findnpc_new,born04,Transbron04A" style="HLStype1">Xa Phu</a> gia nhập môn phái
-submitnpcex_100=Tìm Sứ Giả Môn Phái Chiến thành thị bất kỳ trả nhiệm vụ<BR>Yến Kinh <a href="findnpc_new,city01,cd459" style="HLStype1">Xương Văn Quýnh</a>Tô Châu <a href="findnpc_new,city02,cd459" style="HLStype1">Xương Văn Quýnh</a><BR>Kim Lăng <a href="findnpc_new,city03,cd459" style="HLStype1">Xương Văn Quýnh</a>Lạc Dương <a href="findnpc_new,city04,cd459" style="HLStype1">Xương Văn Quýnh</a><BR>Thành Đô <a href="findnpc_new,city05,cd459" style="HLStype1">Xương Văn Quýnh</a>
+submitnpcex_100=Tìm Sứ Giả Môn Phái Chiến thành thị bất kỳ trả nhiệm vụ<BR>Yến Kinh <a href="findnpc_new,city01,npc_yangweimai_001" style="HLStype1">Xương Văn Quýnh</a>Tô Châu <a href="findnpc_new,city02,npc_yangweimai_001" style="HLStype1">Xương Văn Quýnh</a><BR>Kim Lăng <a href="findnpc_new,city03,npc_yangweimai_001" style="HLStype1">Xương Văn Quýnh</a>Lạc Dương <a href="findnpc_new,city04,npc_yangweimai_001" style="HLStype1">Xương Văn Quýnh</a><BR>Thành Đô <a href="findnpc_new,city05,npc_yangweimai_001" style="HLStype1">Xương Văn Quýnh</a>
 dialogid_3=<font face="Default" color="#ffffff" >Ớt chuông</font> <font face="Default" color="#ffffff" >đỏ</font> <font face="Default" color="#ffffff" >này là cay nhất, cho vào canh nóng cay không chịu nổi.</font>
 dialogid_1=<font face="Default" color="#ffffff" >Để ta giúp anh hùng trừng phạt thị vệ, một cây Đổ Trù Tử là đủ rồi.</font>
 choosetitle_17=<s>Cầm bình rượu ta khuyên ngươi sớm về đi, gần đây trên trấn không an toàn, thường có hoàng hoa đại khuê nữ mất tích, tiệm thuốc cũng nghe nói có mấy người bị đánh thương, nghe nói là người của Ác Hổ sơn trại làm, bọn chúng võ nghệ cao cường, lại hiện ra một Hướng Vô Cực, xưng thuộc hạ đệ nhất nhân của trại chủ.
@@ -2885,7 +2885,7 @@ desc_haiwai_Christmas_013_0=Sử dụng tăng 20.000 chân khí.
 desc_haiwai_Christmas_014_1=Sử dụng tăng 100% tốc độ chuyển hóa nội tu, duy trì trong 60 phút.
 desc_haiwai_VNChrist16_07=Tôn hiệu "Giáng Sinh An Lành" tuyệt đẹp!
 specialinfo_1176=Hoàn thành một lần Giang Hồ Hào Kiệt
-ui_haiwai_jianbei_beiwen= Kiếm Bia
+ui_haiwai_jianbei_beiwen=Kiếm Bia
 ui_haiwai_jianbei_dxqly=Nhập nội dung (Tối đa 30 ký tự)
 haiwai_VNnianshou16_01=Quà Niên Thú
 haiwai_VNhuahuo_01=Pháo Hoa
@@ -3846,13 +3846,10 @@ role_title_2844=[S10] Đệ Nhị Bang
 role_title_2845=[S10] Đệ Tam Bang
 
 specialinfo_1411=Hoàn thành 1 lần thắng Chiến Trường
-specialinfo_1412=Hoàn thành 1 lần Cấm Địa bất kỳ
-specialinfo_1413=Hoàn thành 1 lần Đoạt Thư Môn Phái
 specialinfo_1414=Hoàn thành 10 lần Hào Kiệt Giang Hồ
 specialinfo_1415=Hoàn thành 1 lần Luyện Nhóm đạt 100%
 specialinfo_1416=Hoàn thành 1 lần Thụ Nghiệp Môn Phái đạt 100%
 specialinfo_1417=Hoàn thành 1 lần tiêu diệt Huyết Cừu
-specialinfo_1418=Hoàn thành 2 lần vượt ải Tâm Ma
 specialinfo_1422=Hoàn thành 3 lần thắng Chiến Trường bất kỳ
 specialinfo_1423=Hoàn thành 3 lần Hào Kiệt Giang Hồ
 context_43959=Hoàn thành nhiệm vụ kỳ ngộ
@@ -3900,50 +3897,32 @@ ui_hw_sys_shot_gqxg=Hiệu quả ống kính khinh công bậc cao
 ui_hw_guild_league_xjlm=Lập Liên Minh
 ui_hw_guild_league_tlm=Rời Liên Minh
 
-SubmitNpcEx_70524=Trò chuyện cùng <a href="findnpc_new,city02,haiwai_Christmasnpc_01" style="HLStype1">Thương Nhân Thần Bí</a>
-SubmitNpcEx_70525=Trò chuyện cùng <a href="findnpc_new,city02,haiwai_Christmasnpc_01" style="HLStype1">Thương Nhân Thần Bí</a>
 SubmitNpcEx_70526=Trò chuyện cùng <a href="findnpc_new,city02,haiwai_Christmasnpc_01" style="HLStype1">Thương Nhân Thần Bí</a>
-SubmitNpcEx_70527=Trò chuyện cùng <a href="findnpc_new,city02,haiwai_Christmasnpc_01" style="HLStype1">Thương Nhân Thần Bí</a>
 SubmitNpcEx_70528=Trò chuyện cùng <a href="findnpc_new,city02,haiwai_Christmasnpc_01" style="HLStype1">Thương Nhân Thần Bí</a>
 SubmitNpcEx_70529=Trò chuyện cùng <a href="findnpc_new,city02,haiwai_Christmasnpc_01" style="HLStype1">Thương Nhân Thần Bí</a>
 SubmitNpcEx_70530=Trò chuyện cùng <a href="findnpc_new,city02,haiwai_Christmasnpc_01" style="HLStype1">Thương Nhân Thần Bí</a>
 SubmitNpcEx_70531=Trò chuyện cùng <a href="findnpc_new,city02,operation_manage" style="HLStype1">Tiền Phú Quý</a>
-title_70524=Làm Bánh Trung Thu
-title_70525=Làm Bánh Trung Thu
 title_70526=Làm Bánh Trung Thu
-title_70527=Làm Bánh Trung Thu
 title_70528=Làm Bánh Trung Thu
 title_70529=Làm Bánh Trung Thu
 title_70530=Làm Bánh Trung Thu
 title_70531=Quà Mừng Sinh Nhật
-CompleteMenu_70524=<font face="Default" color="#ffffff" >Hoàn thành</font>
-CompleteMenu_70525=<font face="Default" color="#ffffff" >Hoàn thành</font>
 CompleteMenu_70526=<font face="Default" color="#ffffff" >Hoàn thành</font>
-CompleteMenu_70527=<font face="Default" color="#ffffff" >Hoàn thành</font>
 CompleteMenu_70528=<font face="Default" color="#ffffff" >Hoàn thành</font>
 CompleteMenu_70529=<font face="Default" color="#ffffff" >Hoàn thành</font>
 CompleteMenu_70530=<font face="Default" color="#ffffff" >Hoàn thành</font>
 CompleteMenu_70531=<font face="Default" color="#ffffff" >Hoàn thành</font>
-CanAcceptMenu_70524=Làm Bánh Trung Thu
-CanAcceptMenu_70525=Làm Bánh Trung Thu
 CanAcceptMenu_70526=Làm Bánh Trung Thu
-CanAcceptMenu_70527=Làm Bánh Trung Thu
 CanAcceptMenu_70528=Làm Bánh Trung Thu
 CanAcceptMenu_70529=Làm Bánh Trung Thu
 CanAcceptMenu_70530=Làm Bánh Trung Thu
 CanAcceptMenu_70531=Quà Mừng Sinh Nhật
-context_70524=Làm Bánh Trung Thu
-context_70525=Làm Bánh Trung Thu
 context_70526=Làm Bánh Trung Thu
-context_70527=Làm Bánh Trung Thu
 context_70528=Làm Bánh Trung Thu
 context_70529=Làm Bánh Trung Thu
 context_70530=Làm Bánh Trung Thu
 context_70531=Quà Mừng Sinh Nhật
-target_70524=Vượt cấm địa bất kỳ 1 lần.
-target_70525=Hoàn thành 1 lần cướp sách môn phái
 target_70526=Hoàn thành chiến trường thắng 3 lần.
-target_70527=Hoàn thành Tâm Ma Thí Luyện 2 lần.
 target_70528=Hoàn thành 1 lần Hộ sách môn phái
 target_70529=Hoàn thành 3 lần Hào Kiệt Giang Hồ
 target_70530=Hoàn thành 1 lần Thụ Nghiệp đạt 100%
@@ -4061,18 +4040,6 @@ SubmitNpcEx_70534=Trò chuyện với Thương Nhân Thần Bí
 okmenu_60942=<font face="Default" color="#ffffff" >Giao 30 Kim Khoáng</font>
 interactinfo_60942=Thu thập 30 Kim Khoáng
 
-CanAcceptMenu_70535=<font face="Default" color="#ffffff" >Hương Sắc Cửu Âm (Đập Trứng)</font>
-CompleteMenu_70535=<font face="Default" color="#ffffff" >Hoàn thành nhiệm vụ</font>
-accept_70535_1=<font face="Default" color="#ffffff" >Hoàn thành 5 lần Đập Trứng</font>
-complete_70535=<font face="Default" color="#ffffff" >Ừ, làm tốt lắm, đây là phần thưởng cho ngươi!</font>
-context_70535=Hương Sắc Cửu Âm
-menu_70535_1=<font face="Default" color="#ffffff" >Được</font>
-submit_70535=<font face="Default" color="#ffffff" >Cám ơn</font>
-target_70535=Hoàn thành 5 lần Đập Trứng
-title_70535=Hương Sắc Cửu Âm (Đập Trứng)
-SubmitNpcEx_70535=Trò chuyện với Thương Nhân Thần Bí
-specialinfo_1431=Hoàn thành 5 lần Đập Trứng
-
 CanAcceptMenu_70536=<font face="Default" color="#ffffff" >Hương Sắc Cửu Âm (Cướp Sách Môn Phái)</font>
 CompleteMenu_70536=<font face="Default" color="#ffffff" >Hoàn thành nhiệm vụ</font>
 accept_70536_1=<font face="Default" color="#ffffff" >Hoàn thành 1 lần Cướp Sách Môn Phái</font>
@@ -4084,18 +4051,6 @@ target_70536=Hoàn thành 1 lần Cướp Sách Môn Phái
 title_70536=Hương Sắc Cửu Âm (Cướp Sách Môn Phái)
 SubmitNpcEx_70536=Trò chuyện với Thương Nhân Thần Bí
 specialinfo_1432=Hoàn thành 1 lần Hộ Sách Môn Phái
-
-CanAcceptMenu_70537=<font face="Default" color="#ffffff" >Hương Sắc Cửu Âm (Hộ Sách Môn Phái)</font>
-CompleteMenu_70537=<font face="Default" color="#ffffff" >Hoàn thành nhiệm vụ</font>
-accept_70537_1=<font face="Default" color="#ffffff" >Hoàn thành 1 lần Hộ Sách Môn Phái</font>
-complete_70537=<font face="Default" color="#ffffff" >Ừ, làm tốt lắm, đây là phần thưởng cho ngươi!</font>
-context_70537=Hương Sắc Cửu Âm
-menu_70537_1=<font face="Default" color="#ffffff" >Được</font>
-submit_70537=<font face="Default" color="#ffffff" >Cám ơn</font>
-target_70537=Hoàn thành 1 lần Hộ Sách Môn Phái
-title_70537=Hương Sắc Cửu Âm (Hộ Sách Môn Phái)
-SubmitNpcEx_70537=Trò chuyện với Thương Nhân Thần Bí
-specialinfo_1433=Hoàn thành 2 lần vượt ải Tâm Ma
 
 CanAcceptMenu_70538=<font face="Default" color="#ffffff" >Hương Sắc Cửu Âm (Khiêu chiến Tâm Ma)</font>
 CompleteMenu_70538=<font face="Default" color="#ffffff" >Hoàn thành nhiệm vụ</font>
@@ -4348,39 +4303,39 @@ desc_haiwai_yzc_200218_2_1=Nhấp phải mở.
 haiwai_yzc_200408_1=Cửu Âm Bảo Hạp
 desc_haiwai_yzc_200408_1=Mở Cửu Âm Bảo Hạp có cơ hội nhận được: Mảnh Phỉ Thúy, Bệ Rèn, Nội Công Tàn Quyển, Cổ Phổ Tàn Quyền, Tọa kỵ Ngọc Tiêu Dao.
 desc_haiwai_yzc_200408_1_1=Nhấp phải mở.
-CanAcceptMenu_70564=<font face="Default" color="#ffffff" >Lao Động Cần Cù (Mộ Sắc Chi Thôn Khó)</font>
+CanAcceptMenu_70564=<font face="Default" color="#ffffff" >Lao Động Cần Cù (Mộ Sắc Chi (Mở đầu))</font>
 CompleteMenu_70564=<font face="Default" color="#ffffff" >Xong</font>
-accept_70564_1=<font face="Default" color="#ffffff" >Vượt ải 1 lần cấm địa Mộ Sắc Chi Thôn Khó</font>
+accept_70564_1=<font face="Default" color="#ffffff" >Vượt ải 1 lần cấm địa Mộ Sắc Chi (Mở đầu)</font>
 complete_70564=<font face="Default" color="#ffffff" >Ừ, làm tốt lắm, đây là phần thưởng cho ngươi!</font>
 context_70564=Lao Động Cần Cù
 menu_70564_1=<font face="Default" color="#ffffff" >Được</font>
 submit_70564=<font face="Default" color="#ffffff" >Cám ơn</font>
-target_70564=Vượt ải 1 lần cấm địa Mộ Sắc Chi Thôn Khó
-title_70564=Lao Động Cần Cù (Mộ Sắc Chi Thôn Khó)
+target_70564=Vượt ải 1 lần cấm địa Mộ Sắc Chi (Mở đầu)
+title_70564=Lao Động Cần Cù (Mộ Sắc Chi (Mở đầu))
 SubmitNpcEx_70564=Trò chuyện với Thúc Cường
-specialinfo_1460=Vượt ải 1 lần cấm địa Mộ Sắc Chi Thôn Khó
-CanAcceptMenu_70565=<font face="Default" color="#ffffff" >Lao Động Cần Cù (Thanh Vân Bảo Khó)</font>
+specialinfo_1460=Vượt ải 1 lần cấm địa Mộ Sắc Chi (Mở đầu)
+CanAcceptMenu_70565=<font face="Default" color="#ffffff" >Lao Động Cần Cù (Thanh Vân Bảo (Mở đầu))</font>
 CompleteMenu_70565=<font face="Default" color="#ffffff" >Xong</font>
-accept_70565_1=<font face="Default" color="#ffffff" >Vượt ải 1 lần cấm địa Thanh Vân Bảo Khó</font>
+accept_70565_1=<font face="Default" color="#ffffff" >Vượt ải 1 lần cấm địa Thanh Vân Bảo (Mở đầu)</font>
 complete_70565=<font face="Default" color="#ffffff" >Ừ, làm tốt lắm, đây là phần thưởng cho ngươi!</font>
 context_70565=Lao Động Cần Cù
 menu_70565_1=<font face="Default" color="#ffffff" >Được</font>
 submit_70565=<font face="Default" color="#ffffff" >Cám ơn</font>
-target_70565=Vượt ải 1 lần cấm địa Thanh Vân Bảo Khó
-title_70565=Lao Động Cần Cù (Thanh Vân Bảo Khó)
+target_70565=Vượt ải 1 lần cấm địa Thanh Vân Bảo (Mở đầu)
+title_70565=Lao Động Cần Cù (Thanh Vân Bảo (Mở đầu))
 SubmitNpcEx_70565=Trò chuyện với Thúc Cường
-specialinfo_1461=Vượt ải 1 lần cấm địa Thanh Vân Bảo Khó
-CanAcceptMenu_70566=<font face="Default" color="#ffffff" >Lao Động Cần Cù (Khổng Tước Sơn Trang Thường)</font>
+specialinfo_1461=Vượt ải 1 lần cấm địa Thanh Vân Bảo (Mở đầu)
+CanAcceptMenu_70566=<font face="Default" color="#ffffff" >Lao Động Cần Cù (Khổng Tước Sơn Trang (Mở đầu))</font>
 CompleteMenu_70566=<font face="Default" color="#ffffff" >Xong</font>
-accept_70566_1=<font face="Default" color="#ffffff" >Vượt ải 1 lần cấm địa Khổng Tước Sơn Trang thường</font>
+accept_70566_1=<font face="Default" color="#ffffff" >Vượt ải 1 lần cấm địa Khổng Tước Sơn Trang (Mở đầu)</font>
 complete_70566=<font face="Default" color="#ffffff" >Ừ, làm tốt lắm, đây là phần thưởng cho ngươi!</font>
 context_70566=Lao Động Cần Cù
 menu_70566_1=<font face="Default" color="#ffffff" >Được</font>
 submit_70566=<font face="Default" color="#ffffff" >Cám ơn</font>
-target_70566=Vượt ải 1 lần cấm địa Khổng Tước Sơn Trang thường
-title_70566=Lao Động Cần Cù (Khổng Tước Sơn Trang Thường)
+target_70566=Vượt ải 1 lần cấm địa Khổng Tước Sơn Trang (Mở đầu)
+title_70566=Lao Động Cần Cù (Khổng Tước Sơn Trang (Mở đầu))
 SubmitNpcEx_70566=Trò chuyện với Thúc Cường
-specialinfo_1462=Vượt ải 1 lần cấm địa Khổng Tước Sơn Trang thường
+specialinfo_1462=Vượt ải 1 lần cấm địa Khổng Tước Sơn Trang (Mở đầu)
 CanAcceptMenu_70567=<font face="Default" color="#ffffff" >Lao Động Cần Cù (Thông Thiên Phong)</font>
 CompleteMenu_70567=<font face="Default" color="#ffffff" >Xong</font>
 accept_70567_1=<font face="Default" color="#ffffff" >Hoàn thành 1 lần vượt ải Thông Thiên Phong</font>
@@ -4763,18 +4718,6 @@ title_70593=Làm Bánh Trung Thu (Chiến Trường Ác Nhân Cốc)
 SubmitNpcEx_70593=Trò chuyện với Thương Nhân Thần Bí
 specialinfo_1487=Hoàn thành 1 lần Chiến Trường Ác Nhân Cốc
 
-CanAcceptMenu_70594=<font face="Default" color="#ffffff" >Làm Bánh Trung Thu (Thông Thiên Phong)</font>
-CompleteMenu_70594=<font face="Default" color="#ffffff" >Hoàn thành</font>
-accept_70594_1=<font face="Default" color="#ffffff" >Hoàn thành 1 lần Thông Thiên Phong</font>
-complete_70594=<font face="Default" color="#ffffff" >Ừm, làm tốt lắm, đây là phần thưởng!</font>
-context_70594=Làm Bánh Trung Thu
-menu_70594_1=<font face="Default" color="#ffffff" >Được</font>
-submit_70594=<font face="Default" color="#ffffff" >Cảm ơn</font>
-target_70594=Hoàn thành 1 lần Thông Thiên Phong
-title_70594=Làm Bánh Trung Thu (Thông Thiên Phong)
-SubmitNpcEx_70594=Trò chuyện với Thương Nhân Thần Bí
-specialinfo_1488=Hoàn thành 1 lần Thông Thiên Phong
-
 CanAcceptMenu_70595=<font face="Default" color="#ffffff" >Làm Bánh Trung Thu (Độ sôi nổi mỗi ngày 100)</font>
 CompleteMenu_70595=<font face="Default" color="#ffffff" >Hoàn thành</font>
 accept_70595_1=<font face="Default" color="#ffffff" >Giao 1 Bánh Trung Thu Mỹ Vị (Nhận được trong quà độ sôi nổi mỗi ngày trong thời gian sự kiện)</font>
@@ -4801,17 +4744,6 @@ title_70596=Làm Bánh Trung Thu (Quần Phong Vấn Võ)
 SubmitNpcEx_70596=Trò chuyện với Thương Nhân Thần Bí
 specialinfo_1490=Hoàn thành 1 lần Quần Phong Vấn Võ
 
-CanAcceptMenu_70597=<font face="Default" color="#ffffff" >Mừng Trung Thu Nhận Khuôn Bánh (Hào Kiệt Giang Hồ)</font>
-CompleteMenu_70597=<font face="Default" color="#ffffff" >Hoàn thành</font>
-accept_70597_1=<font face="Default" color="#ffffff" >Hoàn thành 5 lần Hào Kiệt Giang Hồ</font>
-complete_70597=<font face="Default" color="#ffffff" >Ừm, làm tốt lắm, đây là phần thưởng!</font>
-context_70597=Mừng Trung Thu Nhận Khuôn Bánh
-menu_70597_1=<font face="Default" color="#ffffff" >Được</font>
-submit_70597=<font face="Default" color="#ffffff" >Cảm ơn</font>
-target_70597=Hoàn thành 5 lần Hào Kiệt Giang Hồ
-title_70597=Mừng Trung Thu Nhận Khuôn Bánh (Hào Kiệt Giang Hồ)
-SubmitNpcEx_70597=Trò chuyện với Lâm Lương
-specialinfo_1491=Hoàn thành 5 lần Hào Kiệt Giang Hồ
 box_haiwai_20914_mjlh=Hộp Quà Khuôn Bánh
 desc_box_haiwai_20914_mjlh=Mở ra nhận được quà trung thu
 desc_box_haiwai_20914_mjlh_1=Nhấp phải mở.
@@ -4871,18 +4803,6 @@ target_70601=Hoàn thành 1 lần Đoạt Thư Môn Phái
 title_70601=Tôn Sư Trọng Đạo (Đoạt Thư)
 SubmitNpcEx_70601=Trò chuyện với Thương Nhân Thần Bí Tô Châu (406,598)
 specialinfo_1498=Hoàn thành 1 lần Đoạt Thư Môn Phái
-
-CanAcceptMenu_70604=<font face="Default" color="#ffffff" >Tôn Sư Trọng Đạo (Chiến Trường)</font>
-CompleteMenu_70604=<font face="Default" color="#ffffff" >Hoàn thành nhiệm vụ</font>
-accept_70604_1=<font face="Default" color="#ffffff" >Thắng lợi Chiến Trường Ác Nhân Cốc 1 lần</font>
-complete_70604=<font face="Default" color="#ffffff" >Ừ, làm tốt lắm, đây là phần thưởng cho ngươi!</font>
-context_70604=Tôn Sư Trọng Đạo (Chiến Trường)
-menu_70604_1=<font face="Default" color="#ffffff" >Được</font>
-submit_70604=<font face="Default" color="#ffffff" >Đa tạ</font>
-target_70604=Thắng lợi Chiến Trường Ác Nhân Cốc 1 lần
-title_70604=Tôn Sư Trọng Đạo (Chiến Trường)
-SubmitNpcEx_70604=Trò chuyện với Thương Nhân Thần Bí Tô Châu (406,598)
-specialinfo_1499=Thắng lợi Chiến Trường Ác Nhân Cốc 1 lần
 
 CanAcceptMenu_70605=<font face="Default" color="#ffffff" >Tôn Sư Trọng Đạo (Thông Thiên Phong)</font>
 CompleteMenu_70605=<font face="Default" color="#ffffff" >Hoàn thành nhiệm vụ</font>
@@ -4998,9 +4918,9 @@ menu_70611_1=<font face="Default" color="#ffffff" >Được</font>
 submit_70611=<font face="Default" color="#ffffff" >Cảm ơn</font>
 target_70611=Giao 1 Bánh Ngọt Giáng Sinh (Trong thời gian sự kiện có thể nhận được trong Quà Độ Sôi Nổi Ngày)
 title_70611=Cây Giáng Sinh (Độ sôi nổi ngày 50)
-DialogID_60943=<font face="Default" color="#ffffff" >Nhận 1 Bánh Ngọt Giáng Sinh (Trong thời gian sự kiện có thể nhận được trong Quà Độ Sôi Nổi Ngày)</font>
+DialogID_60949=<font face="Default" color="#ffffff" >Nhận 1 Bánh Ngọt Giáng Sinh (Trong thời gian sự kiện có thể nhận được trong Quà Độ Sôi Nổi Ngày)</font>
 SubmitNpcEx_70611=Trò chuyện với Thương Nhân Thần Bí
-okmenu_60943=<font face="Default" color="#ffffff" >Giao Bánh Ngọt Giáng Sinh</font>
+okmenu_60949=<font face="Default" color="#ffffff" >Giao Bánh Ngọt Giáng Sinh</font>
 interactinfo_60949=Trò chuyện với Thương Nhân Thần Bí
 
 CanAcceptMenu_70612=<font face="Default" color="#ffffff" >Cây Giáng Sinh (Độ sôi nổi ngày 75)</font>
@@ -5012,9 +4932,9 @@ menu_70612_1=<font face="Default" color="#ffffff" >Được</font>
 submit_70612=<font face="Default" color="#ffffff" >Cảm ơn</font>
 target_70612=Giao 1 hũ Kẹo Giáng Sinh (Trong thời gian sự kiện có thể nhận được trong Quà Độ Sôi Nổi Ngày)
 title_70612=Cây Giáng Sinh (Độ sôi nổi ngày 75)
-DialogID_60944=<font face="Default" color="#ffffff" >Nhận 1 hũ Kẹo Giáng Sinh (Trong thời gian sự kiện có thể nhận được trong Quà Độ Sôi Nổi Ngày)</font>
+DialogID_60950=<font face="Default" color="#ffffff" >Nhận 1 hũ Kẹo Giáng Sinh (Trong thời gian sự kiện có thể nhận được trong Quà Độ Sôi Nổi Ngày)</font>
 SubmitNpcEx_70612=Trò chuyện với Thương Nhân Thần Bí
-okmenu_60944=<font face="Default" color="#ffffff" >Giao Kẹo Giáng Sinh</font>
+okmenu_60950=<font face="Default" color="#ffffff" >Giao Kẹo Giáng Sinh</font>
 interactinfo_60950=Trò chuyện với Thương Nhân Thần Bí
 
 
@@ -5051,9 +4971,9 @@ menu_70615_1=<font face="Default" color="#ffffff" >Được</font>
 submit_70615=<font face="Default" color="#ffffff" >Cảm ơn</font>
 target_70615=Giao 1 Tất Giáng Sinh (Trong thời gian sự kiện nhận được trong Quà Độ Sôi Nổi Ngày)
 title_70615=Cây Giáng Sinh (Độ sôi nổi ngày 100)
-DialogID_60945=<font face="Default" color="#ffffff" >Nhận 1 Tất Giáng Sinh</font>
+DialogID_60951=<font face="Default" color="#ffffff" >Nhận 1 Tất Giáng Sinh</font>
 SubmitNpcEx_70615=Trò chuyện với Thương Nhân Thần Bí
-okmenu_60945=<font face="Default" color="#ffffff" >Giao Tất Giáng Sinh</font>
+okmenu_60951=<font face="Default" color="#ffffff" >Giao Tất Giáng Sinh</font>
 interactinfo_60951=Trò chuyện với Thương Nhân Thần Bí
 
 CanAcceptMenu_70616=<font face="Default" color="#ffffff" >Cây Giáng Sinh (Hào Kiệt Giang Hồ)</font>
@@ -5067,15 +4987,12 @@ target_70616=Hoàn thành 5 lần Hào Kiệt Giang Hồ
 title_70616=Cây Giáng Sinh (Hào Kiệt Giang Hồ)
 SubmitNpcEx_70616=Trò chuyện với Thương Nhân Thần Bí
 specialinfo_1508=Hoàn thành 5 lần Hào Kiệt Giang Hồ
-
 haiwai_yzc201211_cl=Rương Giáng Sinh
 desc_haiwai_yzc201211_cl=Bên trong có đạo cụ trang trí Cây Giáng Sinh
 desc_haiwai_yzc201211_cl_1=Nhấp phải để mở
-
 haiwai_yzc201211_xr=Tiểu Tuyết Nhân
 desc_haiwai_yzc201211_xr=Mở ra nhận được phần thưởng Giáng Sinh
 desc_haiwai_yzc201211_xr_1=Nhấp phải để mở
-
 haiwai_yzc201211_s=Cây Giáng Sinh
 desc_haiwai_yzc201211_s=Mở ra nhận được phần thưởng Giáng Sinh
 desc_haiwai_yzc201211_s_1=Nhấp phải để mở
@@ -5194,13 +5111,12 @@ DialogID_60954=<font face="Default" color="#ffffff" >Nhận 1 Lễ Hoa Mừng Xu
 SubmitNpcEx_70625=Trò chuyện với Thương Nhân Thần Bí
 okmenu_60954=<font face="Default" color="#ffffff" >Giao Lễ Hoa Mừng Xuân</font>
 interactinfo_60954=Trò chuyện với Thương Nhân Thần Bí
-
-haiwai_yzc_200909_hyd50=Túi Quà Mừng Xuân
-desc_haiwai_yzc_200909_hyd50_0=Trong thời gian sự kiện độ sôi nổi ngày 50 nhận được, đến Thương Nhân Thần Bí (406,598) giao nhận được thưởng.
-haiwai_yzc_200909_hyd75=Mỹ Tửu Mừng Xuân
-desc_haiwai_yzc_200909_hyd75_0=Trong thời gian sự kiện độ sôi nổi ngày 75 nhận được, đến Thương Nhân Thần Bí (406,598) giao nhận được thưởng.
-haiwai_yzc_200909_hyd100=Lễ Hoa Mừng Xuân
-desc_haiwai_yzc_200909_hyd100_0=Trong thời gian sự kiện độ sôi nổi ngày 100 nhận được, đến Thương Nhân Thần Bí (406,598) giao nhận được thưởng.
+haiwai_yzc_200909_hyd50=Bánh Ngọt Giáng Sinh
+desc_haiwai_yzc_200909_hyd50_0=Trong thời gian sự kiện độ sôi nổi ngày 50 nhận được, đến Thương Nhân Thần Bí (406,598) giao nhận được thưởng
+haiwai_yzc_200909_hyd75=Kẹo Giáng Sinh
+desc_haiwai_yzc_200909_hyd75_0=Trong thời gian sự kiện độ sôi nổi ngày 75 nhận được, đến Thương Nhân Thần Bí (406,598) giao nhận được thưởng
+haiwai_yzc_200909_hyd100=Tất Giáng Sinh
+desc_haiwai_yzc_200909_hyd100_0=Trong thời gian sự kiện độ sôi nổi ngày 100 nhận được, đến Thương Nhân Thần Bí (406,598) giao nhận được thưởng
 haiwai_yzc210113_wgp1=Mâm Ngũ Quả (1)
 desc_haiwai_yzc210113_wgp1=Dành cho máy chủ mới chưa mở nội công 3.<br>Mở ra có tỉ lệ nhận được Bảo Hạp Võ Học, Bệ Rèn, Thẻ Đổi PVC Chí Tôn, Tọa kỵ Ngạo Thiên Thần Hành Mã.
 desc_haiwai_yzc210113_wgp1_1=Nhấp phải mở.
@@ -5311,3 +5227,1515 @@ role_title_4300=Tôn hiệu VIP 10 Cửu Âm Chân Kinh
 item_title_4301=“Tôn hiệu VIP 10 Cửu Âm Chân Kinh”
 desc_item_title_4301=Tôn hiệu độc quyền nhằm vinh danh VIP 10 Cửu Âm Chân Kinh.<br> Thời hạn: Vĩnh viễn
 role_title_4301=Tôn hiệu VIP 10 Cửu Âm Chân Kinh
+desc_box_haiwai_yzc210909_zxlh_1=Nhấp phải mở.
+box_haiwai_yzc210909_zxlh=Hộp Quà Online
+desc_box_haiwai_yzc210909_zxlh=Hộp Quà Online
+ui_rrgngwi_wu=Không
+box_haiwai_210907_ybkp=Bánh nướng
+desc_box_haiwai_210907_ybkp=Mở ra có tỉ lệ nhận được Huyền Ngọc Phấn, Nội Công, Thẻ Đổi PVC Chí Tôn, PVC Tọa kỵ
+desc_box_haiwai_210907_ybkp_1=Nhấp phải mở.
+box_haiwai_210907_ybbp=Bánh dẻo
+desc_box_haiwai_210907_ybbp=Mở ra có tỉ lệ nhận được Mảnh Phỉ Thúy,  Cổ phổ tàn quyển, Thẻ Đổi PVC Chí Tôn, PVC Tọa kỵ
+desc_box_haiwai_210907_ybbp_1=Nhấp phải mở.
+box_haiwai_210907_ybx=Bánh trung thu nhỏ
+desc_box_haiwai_210907_ybx=Bánh Trung Thu - Nhỏ sử dụng sẽ có cơ hội nhận được Bảo Hạp Võ Học, Bệ Rèn hoặc Thẻ Đổi PVC 2 Sao.
+desc_box_haiwai_210907_ybx_1=Nhấp phải mở.
+CanAcceptMenu_70524=<font face="Default" color="#ffffff" >Vui Tết Đoàn Viên (Cấm Địa)</font>
+CompleteMenu_70524=<font face="Default" color="#ffffff" >Hoàn thành</font>
+accept_70524_1=<font face="Default" color="#ffffff" >Hoàn thành 1 lần Cấm Địa</font>
+complete_70524=<font face="Default" color="#ffffff" >Ừm, làm tốt lắm, đây là phần thưởng!</font>
+context_70524=Vui Tết Đoàn Viên
+menu_70524_1=<font face="Default" color="#ffffff" >Được</font>
+submit_70524=<font face="Default" color="#ffffff" >Cảm ơn</font>
+target_70524=Hoàn thành 1 lần Cấm Địa
+title_70524=Vui Tết Đoàn Viên (Cấm Địa)
+SubmitNpcEx_70524=Trò chuyện với Thương Nhân Thần Bí
+specialinfo_1412=Hoàn thành 1 lần Cấm Địa
+CanAcceptMenu_70527=<font face="Default" color="#ffffff" >Vui Tết Đoàn Viên (Tâm Ma)</font>
+CompleteMenu_70527=<font face="Default" color="#ffffff" >Hoàn thành</font>
+accept_70527_1=<font face="Default" color="#ffffff" >Hoàn thành 2 lần Tâm Ma</font>
+complete_70527=<font face="Default" color="#ffffff" >Ừm, làm tốt lắm, đây là phần thưởng!</font>
+context_70527=Vui Tết Đoàn Viên
+menu_70527_1=<font face="Default" color="#ffffff" >Được</font>
+submit_70527=<font face="Default" color="#ffffff" >Cảm ơn</font>
+target_70527=Hoàn thành 2 lần Tâm Ma
+title_70527=Vui Tết Đoàn Viên(Tâm Ma)
+SubmitNpcEx_70527=Trò chuyện với Thương Nhân Thần Bí
+specialinfo_1418=Hoàn thành 2 lần Tâm Ma
+CanAcceptMenu_70525=<font face="Default" color="#ffffff" >Vui Tết Đoàn Viên (Đoạt thư)</font>
+CompleteMenu_70525=<font face="Default" color="#ffffff" >Hoàn thành</font>
+accept_70525_1=<font face="Default" color="#ffffff" >Hoàn thành 1 lần Đoạt Thư</font>
+complete_70525=<font face="Default" color="#ffffff" >Ừm, làm tốt lắm, đây là phần thưởng!</font>
+context_70525=Vui Tết Đoàn Viên
+menu_70525_1=<font face="Default" color="#ffffff" >Được</font>
+submit_70525=<font face="Default" color="#ffffff" >Cảm ơn</font>
+target_70525=Hoàn thành 1 lần Đoạt Thư
+title_70525=Vui Tết Đoàn Viên (Đoạt thư)
+SubmitNpcEx_70525=Trò chuyện với Thương Nhân Thần Bí
+specialinfo_1413=Hoàn thành 1 lần Đoạt Thư
+CanAcceptMenu_70604=<font face="Default" color="#ffffff" >Vui Tết Đoàn Viên(Chiến Trường Ác Nhân Cốc)</font>
+CompleteMenu_70604=<font face="Default" color="#ffffff" >Hoàn thành</font>
+accept_70604_1=<font face="Default" color="#ffffff" >Hoàn thành 1 lần Chiến Trường Ác Nhân Cốc</font>
+complete_70604=<font face="Default" color="#ffffff" >Ừm, làm tốt lắm, đây là phần thưởng!</font>
+context_70604=Vui Tết Đoàn Viên
+menu_70604_1=<font face="Default" color="#ffffff" >Được</font>
+submit_70604=<font face="Default" color="#ffffff" >Cảm ơn</font>
+target_70604=Hoàn thành 1 lần Chiến Trường Ác Nhân Cốc
+title_70604=Vui Tết Đoàn Viên(Chiến Trường Ác Nhân Cốc)
+SubmitNpcEx_70604=Trò chuyện với Thương Nhân Thần Bí
+specialinfo_1499=Hoàn thành 1 lần Chiến Trường Ác Nhân Cốc
+CanAcceptMenu_70594=<font face="Default" color="#ffffff" >Vui Tết Đoàn Viên (Thông Thiên Phong)</font>
+CompleteMenu_70594=<font face="Default" color="#ffffff" >Hoàn thành</font>
+accept_70594_1=<font face="Default" color="#ffffff" >Hoàn thành 1 lần Thông Thiên Phong</font>
+complete_70594=<font face="Default" color="#ffffff" >Ừm, làm tốt lắm, đây là phần thưởng!</font>
+context_70594=Vui Tết Đoàn Viên
+menu_70594_1=<font face="Default" color="#ffffff" >Được</font>
+submit_70594=<font face="Default" color="#ffffff" >Cảm ơn</font>
+target_70594=Hoàn thành 1 lần Thông Thiên Phong
+title_70594=Vui Tết Đoàn Viên (Thông Thiên Phong)
+SubmitNpcEx_70594=Trò chuyện với Thương Nhân Thần Bí
+specialinfo_1488=Hoàn thành 1 lần Thông Thiên Phong
+CanAcceptMenu_70597=<font face="Default" color="#ffffff" >Vui Tết Đoàn Viên (Hào Kiệt Giang Hồ)</font>
+CompleteMenu_70597=<font face="Default" color="#ffffff" >Hoàn thành</font>
+accept_70597_1=<font face="Default" color="#ffffff" >Hoàn thành 5 lần Hào Kiệt Giang Hồ</font>
+complete_70597=<font face="Default" color="#ffffff" >Ừm, làm tốt lắm, đây là phần thưởng!</font>
+context_70597=Vui Tết Đoàn Viên
+menu_70597_1=<font face="Default" color="#ffffff" >Được</font>
+submit_70597=<font face="Default" color="#ffffff" >Cảm ơn</font>
+target_70597=Hoàn thành 5 lần Hào Kiệt Giang Hồ
+title_70597=Vui Tết Đoàn Viên (Hào Kiệt Giang Hồ)
+SubmitNpcEx_70597=Trò chuyện với Lâm Lương
+specialinfo_1491=Hoàn thành 5 lần Hào Kiệt Giang Hồ
+CanAcceptMenu_70535=<font face="Default" color="#ffffff" >Vui Tết Đoàn Viên (Đập Trứng)</font>
+CompleteMenu_70535=<font face="Default" color="#ffffff" >Hoàn thành</font>
+accept_70535_1=<font face="Default" color="#ffffff" >Hoàn thành đập 10 quả Trứng</font>
+complete_70535=<font face="Default" color="#ffffff" >Ừm, làm tốt lắm, đây là phần thưởng!</font>
+context_70535=Vui Tết Đoàn Viên
+menu_70535_1=<font face="Default" color="#ffffff" >Được</font>
+submit_70535=<font face="Default" color="#ffffff" >Cảm ơn</font>
+target_70535=Hoàn thành đập 10 quả Trứng
+title_70535=Vui Tết Đoàn Viên (Đập Trứng)
+SubmitNpcEx_70535=Trò chuyện với Lâm Lương
+specialinfo_1431=Hoàn thành đập 10 quả Trứng
+CanAcceptMenu_70628=<font face="Default" color="#ffffff" >Vui Tết Đoàn Viên (Cướp Tiêu)</font>
+CompleteMenu_70628=<font face="Default" color="#ffffff" >Hoàn thành</font>
+accept_70628_1=<font face="Default" color="#ffffff" >Hoàn thành 5 lần cướp tiêu</font>
+complete_70628=<font face="Default" color="#ffffff" >Ừm, làm tốt lắm, đây là phần thưởng!</font>
+context_70628=Vui Tết Đoàn Viên
+menu_70628_1=<font face="Default" color="#ffffff" >Được</font>
+submit_70628=<font face="Default" color="#ffffff" >Cảm ơn</font>
+target_70628=Hoàn thành 5 lần cướp tiêu
+title_70628=Vui Tết Đoàn Viên (Cướp Tiêu)
+SubmitNpcEx_70628=Trò chuyện với Lâm Lương
+specialinfo_1521=Hoàn thành 5 lần cướp tiêu
+CanAcceptMenu_70537=<font face="Default" color="#ffffff" >Vui Tết Đoàn Viên (Hộ Thư)</font>
+CompleteMenu_70537=<font face="Default" color="#ffffff" >Hoàn thành</font>
+accept_70537_1=<font face="Default" color="#ffffff" >Hoàn thành 1 lần Hộ Thư</font>
+complete_70537=<font face="Default" color="#ffffff" >Ừm, làm tốt lắm, đây là phần thưởng!</font>
+context_70537=Vui Tết Đoàn Viên
+menu_70537_1=<font face="Default" color="#ffffff" >Được</font>
+submit_70537=<font face="Default" color="#ffffff" >Cảm ơn</font>
+target_70537=Hoàn thành 5 lần Hộ Thư
+title_70537=Vui Tết Đoàn Viên (Hộ Thư)
+SubmitNpcEx_70537=Trò chuyện với Lâm Lương
+specialinfo_1432=Hoàn thành 1 lần Hộ Thư
+box_haiwai_210907_ty=Hộp Nguyên Liệu Làm Bánh
+desc_box_haiwai_210907_ty=Mở ra nhận được các nguyên liệu làm bánh Trứng, Bột Mì, Đường.
+desc_box_haiwai_210907_ty_1=Nhấp phải mở.
+desc_box_haiwai_yzc211111_zx_1=Nhấp phải mở.
+box_haiwai_yzc211111_zx=Hộp Quà Online
+desc_box_haiwai_yzc211111_zx=Hộp Quà Online
+buff_hw_shdj1=Tốc độ nội tu tăng 100%
+desc_buff_hw_shdj1_0=Tốc độ nội tu tăng 100%
+buff_hw_shdj2=Tốc độ EXP tăng 250%
+desc_buff_hw_shdj2_0=Tốc độ EXP tăng 250%
+buff_hw_shdj3=Tốc độ di chuyển tăng 10%
+desc_buff_hw_shdj3_0=Tốc độ di chuyển tăng 10%
+buff_hw_shdj4=Toàn bộ thuộc tính tăng 50 điểm
+desc_buff_hw_shdj4_0=Toàn bộ thuộc tính tăng 50 điểm
+buff_hw_shdj5=Tốc độ nội tu tăng 200%
+desc_buff_hw_shdj5_0=Tốc độ nội tu tăng 200%
+hw_shdsqf=Chúc Phúc Giáng Sinh
+hw_shdsqf1=Giáng Sinh Vui Vẻ
+hw_shdsqf2=Giáng Sinh Vui Vẻ
+buff_hw_shdj=BUFF ngẫu nhiên Cây Giáng Sinh
+desc_buff_hw_shdj_0= BUFF ngẫu nhiên Cây Giáng Sinh
+jm_shouyangming=Thủ Dương Minh Đại Trường
+jm_zutaiyang=Túc Thái Dương Bàng Quang
+xw_1201=Mi Xung
+xw_1202=Thông Thiên
+xw_1203=Lạc Khước
+xw_1204=Thiên Trụ
+xw_1205=Phong Môn
+xw_1206=Thận Du
+haiwai_yzc_200909_hyd75=Tân Xuân Mỹ Tửu
+haiwai_yzc_200909_hyd100=Tân Xuân Lễ Hoa
+haiwai_yzc_211229_pr=Thịt mỡ
+desc_haiwai_yzc_211229_pr_0=Dùng để gói bánh ở Thương Nhân Thần Bí Tô Châu (406,598).
+haiwai_yzc_211229_ld=Đậu Xanh
+desc_haiwai_yzc_211229_ld_0=Dùng để gói bánh ở Thương Nhân Thần Bí Tô Châu (406,598).
+haiwai_yzc_211229_xjy=Lá chuối
+desc_haiwai_yzc_211229_xjy_0=Dùng để gói bánh ở Thương Nhân Thần Bí Tô Châu (406,598).
+haiwai_yzc_211229_nm=Gạo nếp
+desc_haiwai_yzc_211229_nm_0=Dùng để gói bánh ở Thương Nhân Thần Bí Tô Châu (406,598).
+haiwai_yzc_211229_fxzz=Bánh chưng
+desc_haiwai_yzc_211229_fxzz=Dành cho máy chủ mới chưa mở nội công 3. Mở ra có tỉ lệ nhận được Bảo Hạp Võ Học, Bệ Rèn, Thẻ Đổi PVC hoặc Tọa kỵ Ngạo Thiên Thần Hành Mã.
+desc_haiwai_yzc_211229_fxzz_1=Nhấp phải mở.
+haiwai_yzc_211229_yxzz=Bánh tét
+desc_haiwai_yzc_211229_yxzz=Dành cho máy chủ cũ đã mở nội công 3. Mở ra có tỉ lệ nhận được Huyền Ngọc Phấn, Gói Nội Công, Quà Cổ Phổ, Thẻ Đổi PVC Chí Tôn, Tọa kỵ Ngạo Thiên Thần Hành Mã.
+desc_haiwai_yzc_211229_yxzz_1=Nhấp phải mở.
+haiwai_yzc_211229_pc=Dưa món
+desc_haiwai_yzc_211229_pc=Sử dụng nhận được Dịch Cân Đan, tối đa chỉ sử dụng 1000 lần.Ngoài ra, dùng để gói bánh ở Thương Nhân Thần Bí Tô Châu (406,598).
+desc_haiwai_yzc_211229_pc_1=Nhấp phải mở.
+haiwai_yzc_211229_clb1=Túi Nguyên Liệu (1)
+desc_haiwai_yzc_211229_clb1=Sử dụng ngẫu nhiên nhận được Thịt mỡ, Đậu xanh hoặc Lá chuối.
+desc_haiwai_yzc_211229_clb1_1=Nhấp phải mở.
+haiwai_yzc_211229_clb2=Túi Nguyên Liệu (2)
+desc_haiwai_yzc_211229_clb2=Thành công nhận được 1 Dưa món.Thất bại nhận lại 2 Thịt mỡ, 2 Đậu xanh hoặc 2 Lá chuối.May mắn hơn sẽ nhận được 1 Gạo nếp.
+desc_haiwai_yzc_211229_clb2_1=Nhấp phải mở.
+CanAcceptMenu_70629=<font face="Default" color="#ffffff" >Làm Bánh Đón Xuân (Cấm Địa)</font>
+CompleteMenu_70629=<font face="Default" color="#ffffff" >Hoàn thành</font>
+accept_70629_1=<font face="Default" color="#ffffff" >Hoàn thành 1 lần Cấm Địa</font>
+complete_70629=<font face="Default" color="#ffffff" >Ừm, làm tốt lắm, đây là phần thưởng!</font>
+context_70629=Làm Bánh Đón Xuân 
+menu_70629_1=<font face="Default" color="#ffffff" >Được</font>
+submit_70629=<font face="Default" color="#ffffff" >Cảm ơn</font>
+target_70629=Hoàn thành 1 lần Cấm Địa
+title_70629=Làm Bánh Đón Xuân (Cấm Địa)
+SubmitNpcEx_70629=Trò chuyện với Thương Nhân Thần Bí
+specialinfo_1530=Hoàn thành 1 lần Cấm Địa
+CanAcceptMenu_70630=<font face="Default" color="#ffffff" >Làm Bánh Đón Xuân (Tâm Ma)</font>
+CompleteMenu_70630=<font face="Default" color="#ffffff" >Hoàn thành</font>
+accept_70630_1=<font face="Default" color="#ffffff" >Hoàn thành 2 lần Tâm Ma</font>
+complete_70630=<font face="Default" color="#ffffff" >Ừm, làm tốt lắm, đây là phần thưởng!</font>
+context_70630=Làm Bánh Đón Xuân 
+menu_70630_1=<font face="Default" color="#ffffff" >Được</font>
+submit_70630=<font face="Default" color="#ffffff" >Cảm ơn</font>
+target_70630=Hoàn thành 2 lần Tâm Ma
+title_70630=Làm Bánh Đón Xuân (Tâm Ma)
+SubmitNpcEx_70630=Trò chuyện với Thương Nhân Thần Bí
+specialinfo_1531=Hoàn thành 2 lần Tâm Ma
+CanAcceptMenu_70631=<font face="Default" color="#ffffff" >Làm Bánh Đón Xuân (Đoạt Thư)</font>
+CompleteMenu_70631=<font face="Default" color="#ffffff" >Hoàn thành</font>
+accept_70631_1=<font face="Default" color="#ffffff" >Hoàn thành 1 lần Đoạt Thư</font>
+complete_70631=<font face="Default" color="#ffffff" >Ừm, làm tốt lắm, đây là phần thưởng!</font>
+context_70631=Làm Bánh Đón Xuân 
+menu_70631_1=<font face="Default" color="#ffffff" >Được</font>
+submit_70631=<font face="Default" color="#ffffff" >Cảm ơn</font>
+target_70631=Hoàn thành 1 lần Đoạt Thư
+title_70631=Làm Bánh Đón Xuân (Đoạt Thư)
+SubmitNpcEx_70631=Trò chuyện với Thương Nhân Thần Bí
+specialinfo_1532=Hoàn thành 1 lần Đoạt Thư
+CanAcceptMenu_70632=<font face="Default" color="#ffffff" >Làm Bánh Đón Xuân (luyện nhóm)</font>
+CompleteMenu_70632=<font face="Default" color="#ffffff" >Hoàn thành</font>
+accept_70632_1=<font face="Default" color="#ffffff" >Hoàn thành 1 lần luyện nhóm</font>
+complete_70632=<font face="Default" color="#ffffff" >Ừm, làm tốt lắm, đây là phần thưởng!</font>
+context_70632=Làm Bánh Đón Xuân 
+menu_70632_1=<font face="Default" color="#ffffff" >Được</font>
+submit_70632=<font face="Default" color="#ffffff" >Cảm ơn</font>
+target_70632=Hoàn thành 1 lần luyện nhóm
+title_70632=Làm Bánh Đón Xuân (luyện nhóm)
+SubmitNpcEx_70632=Trò chuyện với Thương Nhân Thần Bí
+specialinfo_1533=Hoàn thành 1 lần luyện nhóm
+CanAcceptMenu_70633=<font face="Default" color="#ffffff" >Làm Bánh Đón Xuân (Hào Kiệt Giang Hồ)</font>
+CompleteMenu_70633=<font face="Default" color="#ffffff" >Hoàn thành</font>
+accept_70633_1=<font face="Default" color="#ffffff" >Hoàn thành 5 lần Hào Kiệt Giang Hồ</font>
+complete_70633=<font face="Default" color="#ffffff" >Ừm, làm tốt lắm, đây là phần thưởng!</font>
+context_70633=Làm Bánh Đón Xuân 
+menu_70633_1=<font face="Default" color="#ffffff" >Được</font>
+submit_70633=<font face="Default" color="#ffffff" >Cảm ơn</font>
+target_70633=Hoàn thành 5 lần Hào Kiệt Giang Hồ
+title_70633=Làm Bánh Đón Xuân (Hào Kiệt Giang Hồ)
+SubmitNpcEx_70633=Trò chuyện với Thương Nhân Thần Bí
+specialinfo_1534=Hoàn thành 5 lần Hào Kiệt Giang Hồ
+CanAcceptMenu_70634=<font face="Default" color="#ffffff" >Làm Bánh Đón Xuân (Cướp Tiêu)</font>
+CompleteMenu_70634=<font face="Default" color="#ffffff" >Hoàn thành</font>
+accept_70634_1=<font face="Default" color="#ffffff" >Hoàn thành 10 lần Cướp Tiêu</font>
+complete_70634=<font face="Default" color="#ffffff" >Ừm, làm tốt lắm, đây là phần thưởng!</font>
+context_70634=Làm Bánh Đón Xuân 
+menu_70634_1=<font face="Default" color="#ffffff" >Được</font>
+submit_70634=<font face="Default" color="#ffffff" >Cảm ơn</font>
+target_70634=Hoàn thành 10 lần Cướp Tiêu
+title_70634=Làm Bánh Đón Xuân (Cướp Tiêu)
+SubmitNpcEx_70634=Trò chuyện với Thương Nhân Thần Bí
+specialinfo_1535=Hoàn thành 10 lần Cướp Tiêu
+CanAcceptMenu_70635=<font face="Default" color="#ffffff" >Làm Bánh Đón Xuân (Chiến trường Ác Nhân Cốc)</font>
+CompleteMenu_70635=<font face="Default" color="#ffffff" >Hoàn thành</font>
+accept_70635_1=<font face="Default" color="#ffffff" >Hoàn thành 1 lần chiến trường Ác Nhân Cốc</font>
+complete_70635=<font face="Default" color="#ffffff" >Ừm, làm tốt lắm, đây là phần thưởng!</font>
+context_70635=Làm Bánh Đón Xuân 
+menu_70635_1=<font face="Default" color="#ffffff" >Được</font>
+submit_70635=<font face="Default" color="#ffffff" >Cảm ơn</font>
+target_70635=Hoàn thành 1 lần chiến trường Ác Nhân Cốc
+title_70635=Làm Bánh Đón Xuân (Chiến trường Ác Nhân Cốc)
+SubmitNpcEx_70635=Trò chuyện với Thương Nhân Thần Bí
+specialinfo_1536=Hoàn thành 1 lần chiến trường Ác Nhân Cốc
+CanAcceptMenu_70636=<font face="Default" color="#ffffff" >Làm Bánh Đón Xuân (Độ sôi nổi ngày 75)</font>
+CompleteMenu_70636=<font face="Default" color="#ffffff" >Hoàn thành</font>
+accept_70636_1=<font face="Default" color="#ffffff" >Giao 1 Tân Xuân Mỹ Tửu (Trong thời gian sự kiện nhận được trong quà độ sôi nổi ngày)</font>
+complete_70636=<font face="Default" color="#ffffff" >Ừm, làm tốt lắm, đây là phần thưởng!</font>
+context_70636=Làm Bánh Đón Xuân 
+menu_70636_1=<font face="Default" color="#ffffff" >Được</font>
+submit_70636=<font face="Default" color="#ffffff" >Cảm ơn</font>
+target_70636=Giao 1 Tân Xuân Mỹ Tửu (Trong thời gian sự kiện nhận được trong quà độ sôi nổi ngày)
+title_70636=Làm Bánh Đón Xuân (Độ sôi nổi ngày 75)
+DialogID_60955=<font face="Default" color="#ffffff" >Nhận 1 Tân Xuân Mỹ Tửu (Trong thời gian sự kiện nhận được trong quà độ sôi nổi ngày)</font>
+SubmitNpcEx_70636=Trò chuyện với Thương Nhân Thần Bí
+okmenu_60955=<font face="Default" color="#ffffff" >Giao Tân Xuân Mỹ Tửu</font>
+interactinfo_60955=Trò chuyện với Thương Nhân Thần Bí
+CanAcceptMenu_70637=<font face="Default" color="#ffffff" >Làm Bánh Đón Xuân (Độ sôi nổi ngày 100)</font>
+CompleteMenu_70637=<font face="Default" color="#ffffff" >Hoàn thành</font>
+accept_70637_1=<font face="Default" color="#ffffff" >Giao 1 Tân Xuân Lễ Hoa (Trong thời gian sự kiện nhận được trong quà độ sôi nổi ngày)</font>
+complete_70637=<font face="Default" color="#ffffff" >Ừm, làm tốt lắm, đây là phần thưởng!</font>
+context_70637=Làm Bánh Đón Xuân 
+menu_70637_1=<font face="Default" color="#ffffff" >Được</font>
+submit_70637=<font face="Default" color="#ffffff" >Cảm ơn</font>
+target_70637=Giao 1 Tân Xuân Lễ Hoa (Trong thời gian sự kiện nhận được trong quà độ sôi nổi ngày)
+title_70637=Làm Bánh Đón Xuân (Độ sôi nổi ngày 100)
+DialogID_60956=<font face="Default" color="#ffffff" >Nhận 1 Tân Xuân Lễ Hoa (Trong thời gian sự kiện nhận được trong quà độ sôi nổi ngày)</font>
+SubmitNpcEx_70637=Trò chuyện với Thương Nhân Thần Bí
+okmenu_60956=<font face="Default" color="#ffffff" >Giao Tân Xuân Lễ Hoa</font>
+interactinfo_60956=Trò chuyện với Thương Nhân Thần Bí
+haiwai_yzc_220114_yyl=Túi Vân Nhai Lệnh
+desc_haiwai_yzc_220114_yyl=Mở ra nhận được Vân Nhai Lệnh
+desc_haiwai_yzc_220114_yyl_1=Nhấp phải mở.
+haiwai_yzc_220114_zxjl=Hộp Quà Online
+desc_haiwai_yzc_220114_zxjl=Hộp Quà Online
+desc_haiwai_yzc_220114_zxjl_1=Nhấp phải mở.
+haiwai_yzc_220114_kxxxr_001=Quà Tu Hành Nhập Học (Ngày thứ 1)
+haiwai_yzc_220114_kxxxr_002=Quà Tu Hành Nhập Học (Ngày thứ 2)
+haiwai_yzc_220114_kxxxr_003=Quà Tu Hành Nhập Học (Ngày thứ 3)
+haiwai_yzc_220114_kxxxr_004=Quà Tu Hành Nhập Học (Ngày thứ 4)
+haiwai_yzc_220114_kxxxr_005=Quà Tu Hành Nhập Học (Ngày thứ 5)
+haiwai_yzc_220114_kxxxr_006=Quà Tu Hành Nhập Học (Ngày thứ 6)
+haiwai_yzc_220114_kxxxr_007=Quà Tu Hành Nhập Học (Ngày thứ 7)
+haiwai_yzc_220114_kxxxr_008=Quà Tu Hành Nhập Học (Ngày thứ 8)
+haiwai_yzc_220114_kxxxr_009=Quà Tu Hành Nhập Học (Ngày thứ 9)
+haiwai_yzc_220114_kxxxr_010=Quà Tu Hành Nhập Học (Ngày thứ 10)
+haiwai_yzc_220114_kxxxr_011=Quà Tu Hành Nhập Học (Ngày thứ 11)
+haiwai_yzc_220114_kxxxr_012=Quà Tu Hành Nhập Học (Ngày thứ 12)
+haiwai_yzc_220114_kxxxr_013=Quà Tu Hành Nhập Học (Ngày thứ 13)
+haiwai_yzc_220114_kxxxr_014=Quà Tu Hành Nhập Học (Ngày thứ 14)
+haiwai_yzc_220114_kxxxr_015=Quà Tu Hành Nhập Học (Ngày thứ 15)
+haiwai_yzc_220114_kxxxr_016=Quà Tu Hành Nhập Học (Ngày thứ 16)
+haiwai_yzc_220114_kxxxr_017=Quà Tu Hành Nhập Học (Ngày thứ 17)
+haiwai_yzc_220114_kxxxr_018=Quà Tu Hành Nhập Học (Ngày thứ 18)
+haiwai_yzc_220114_kxxxr_019=Quà Tu Hành Nhập Học (Ngày thứ 19)
+haiwai_yzc_220114_kxxxr_020=Quà Tu Hành Nhập Học (Ngày thứ 20)
+haiwai_yzc_220114_kxxxr_021=Quà Tu Hành Nhập Học (Ngày thứ 21)
+haiwai_yzc_220114_kxxxr_022=Quà Tu Hành Nhập Học (Ngày thứ 22)
+haiwai_yzc_220114_kxxxr_023=Quà Tu Hành Nhập Học (Ngày thứ 23)
+haiwai_yzc_220114_kxxxr_024=Quà Tu Hành Nhập Học (Ngày thứ 24)
+haiwai_yzc_220114_kxxxr_025=Quà Tu Hành Nhập Học (Ngày thứ 25)
+haiwai_yzc_220114_kxxxr_026=Quà Tu Hành Nhập Học (Ngày thứ 26)
+haiwai_yzc_220114_kxxxr_027=Quà Tu Hành Nhập Học (Ngày thứ 27)
+haiwai_yzc_220114_kxxxr_028=Quà Tu Hành Nhập Học (Ngày thứ 28)
+haiwai_yzc_220114_kxxxr_029=Quà Tu Hành Nhập Học (Tích lũy 5 ngày)
+haiwai_yzc_220114_kxxxr_030=Quà Tu Hành Nhập Học (Tích lũy 10 ngày)
+haiwai_yzc_220114_kxxxr_031=Quà Tu Hành Nhập Học (Tích lũy 15 ngày)
+haiwai_yzc_220114_kxxxr_032=Quà Tu Hành Nhập Học (Tích lũy 25 ngày)
+desc_haiwai_yzc_220114_kxxxr_001=Nhấp phải mở nhận được <font color="#FFFF00">Hoàng Tiên Lộ x2, Thúy Ngọc Nội Tu Đan x2</font>
+desc_haiwai_yzc_220114_kxxxr_002=Nhấp phải mở nhận được <font color="#FFFF00">Quyển Cán Tẩy x10, Quyển Tẩy Luyện Kỹ Năng Bảo Vật x10</font>
+desc_haiwai_yzc_220114_kxxxr_003=Nhấp phải mở nhận được <font color="#FFFF00">Hiệp Khách Lệnh x10, Thập Hương Phản Sinh Hoàn x5</font>
+desc_haiwai_yzc_220114_kxxxr_004=Nhấp phải mở nhận được <font color="#FFFF00">Tuyết Liên Đan x10, Hỗn Nguyên Dịch Cân Đan x10</font>
+desc_haiwai_yzc_220114_kxxxr_005=Nhấp phải mở nhận được <font color="#FFFF00">Bách Hiểu Binh Lục (Thượng) x2, Hy Thế Trân Bảo x2</font>
+desc_haiwai_yzc_220114_kxxxr_006=Nhấp phải mở nhận được <font color="#FFFF00">Ngũ Uẩn Phục Ma Phẩm x20, Phiếu Điểm Sôi Nổi [50 điểm] x1</font>
+desc_haiwai_yzc_220114_kxxxr_007=Nhấp phải mở nhận được <font color="#FFFF00">Phiếu Vàng Vạn Linh x5, Phiếu Điểm Sôi Nổi [50 điểm] x1</font>
+desc_haiwai_yzc_220114_kxxxr_008=Nhấp phải mở nhận được <font color="#FFFF00">Hoàng Tiên Lộ x2, Thúy Ngọc Nội Tu Đan x2</font>
+desc_haiwai_yzc_220114_kxxxr_009=Nhấp phải mở nhận được <font color="#FFFF00">Quyển Cán Tẩy x10, Quyển Tẩy Luyện Kỹ Năng Bảo Vật x10</font>
+desc_haiwai_yzc_220114_kxxxr_010=Nhấp phải mở nhận được <font color="#FFFF00">Hiệp Khách Lệnh x10, Thập Hương Phản Sinh Hoàn x5</font>
+desc_haiwai_yzc_220114_kxxxr_011=Nhấp phải mở nhận được <font color="#FFFF00">Tuyết Liên Đan x10 , Hỗn Nguyên Dịch Cân Đan x10</font>
+desc_haiwai_yzc_220114_kxxxr_012=Nhấp phải mở nhận được <font color="#FFFF00">Bách Hiểu Binh Lục (Thượng) x2, Hy Thế Trân Bảo x2</font>
+desc_haiwai_yzc_220114_kxxxr_013=Nhấp phải mở nhận được <font color="#FFFF00">Ngũ Uẩn Phục Ma Phẩm x20, Phiếu Điểm Sôi Nổi [50 điểm] x1</font>
+desc_haiwai_yzc_220114_kxxxr_014=Nhấp phải mở nhận được <font color="#FFFF00">Phiếu Vàng Vạn Linh x5, Phiếu Điểm Sôi Nổi [50 điểm] x1</font>
+desc_haiwai_yzc_220114_kxxxr_015=Nhấp phải mở nhận được <font color="#FFFF00">Hoàng Tiên Lộ x2, Thúy Ngọc Nội Tu Đan x2</font>
+desc_haiwai_yzc_220114_kxxxr_016=Nhấp phải mở nhận được <font color="#FFFF00">Quyển Cán Tẩy x10, Quyển Tẩy Luyện Kỹ Năng Bảo Vật x10</font>
+desc_haiwai_yzc_220114_kxxxr_017=Nhấp phải mở nhận được <font color="#FFFF00">Hiệp Khách Lệnh x10, Thập Hương Phản Sinh Hoàn x5</font>
+desc_haiwai_yzc_220114_kxxxr_018=Nhấp phải mở nhận được <font color="#FFFF00">Tuyết Liên Đan x10 , Hỗn Nguyên Dịch Cân Đan x10</font>
+desc_haiwai_yzc_220114_kxxxr_019=Nhấp phải mở nhận được <font color="#FFFF00">Bách Hiểu Binh Lục (Thượng) x2, Hy Thế Trân Bảo x2</font>
+desc_haiwai_yzc_220114_kxxxr_020=Nhấp phải mở nhận được <font color="#FFFF00">Ngũ Uẩn Phục Ma Phẩm x20, Phiếu Điểm Sôi Nổi [50 điểm] x1</font>
+desc_haiwai_yzc_220114_kxxxr_021=Nhấp phải mở nhận được <font color="#FFFF00">Phiếu Vàng Vạn Linh x5, Phiếu Điểm Sôi Nổi [50 điểm] x1</font>
+desc_haiwai_yzc_220114_kxxxr_022=Nhấp phải mở nhận được <font color="#FFFF00">Hoàng Tiên Lộ x2, Thúy Ngọc Nội Tu Đan x2</font>
+desc_haiwai_yzc_220114_kxxxr_023=Nhấp phải mở nhận được <font color="#FFFF00">Quyển Cán Tẩy x10, Quyển Tẩy Luyện Kỹ Năng Bảo Vật x10</font>
+desc_haiwai_yzc_220114_kxxxr_024=Nhấp phải mở nhận được <font color="#FFFF00">Hiệp Khách Lệnh x10, Thập Hương Phản Sinh Hoàn x5</font>
+desc_haiwai_yzc_220114_kxxxr_025=Nhấp phải mở nhận được <font color="#FFFF00">Tuyết Liên Đan x10 , Hỗn Nguyên Dịch Cân Đan x10</font>
+desc_haiwai_yzc_220114_kxxxr_026=Nhấp phải mở nhận được <font color="#FFFF00">Bách Hiểu Binh Lục (Thượng) x2, Hy Thế Trân Bảo x2</font>
+desc_haiwai_yzc_220114_kxxxr_027=Nhấp phải mở nhận được <font color="#FFFF00">Ngũ Uẩn Phục Ma Phẩm x20, Phiếu Điểm Sôi Nổi [50 điểm] x1</font>
+desc_haiwai_yzc_220114_kxxxr_028=Nhấp phải mở nhận được <font color="#FFFF00">Phiếu Vàng Vạn Linh x5, Phiếu Điểm Sôi Nổi [50 điểm] x1</font>
+desc_haiwai_yzc_220114_kxxxr_029=Nhấp phải mở nhận được <font color="#FFFF00">Hy Thế Trân Bảo x2</font>
+desc_haiwai_yzc_220114_kxxxr_030=Nhấp phải mở nhận được <font color="#FFFF00">Huyền Ngọc Phấn (Khóa) x1</font>
+desc_haiwai_yzc_220114_kxxxr_031=Nhấp phải mở nhận được <font color="#FFFF00">Môn Phái Thế Lực Nội Công Tham Ngộ Bản (14 ngày) x1</font>
+desc_haiwai_yzc_220114_kxxxr_032=Nhấp phải mở nhận được <font color="#FFFF00">Bách Niên Tuyết Liên Quả x10, Hỗn Nguyên Dịch Cân Đan (1 ngày) x50</font>
+desc_haiwai_yzc_220114_kxxxr_001_1=Quà điểm danh ngày thứ 1 thành công nhận được
+desc_haiwai_yzc_220114_kxxxr_002_1=Quà điểm danh ngày thứ 2 thành công nhận được
+desc_haiwai_yzc_220114_kxxxr_003_1=Quà điểm danh ngày thứ 3 thành công nhận được
+desc_haiwai_yzc_220114_kxxxr_004_1=Quà điểm danh ngày thứ 4 thành công nhận được
+desc_haiwai_yzc_220114_kxxxr_005_1=Quà điểm danh ngày thứ 5 thành công nhận được
+desc_haiwai_yzc_220114_kxxxr_006_1=Quà điểm danh ngày thứ 6 thành công nhận được
+desc_haiwai_yzc_220114_kxxxr_007_1=Quà điểm danh ngày thứ 7 thành công nhận được
+desc_haiwai_yzc_220114_kxxxr_008_1=Quà điểm danh ngày thứ 8 thành công nhận được
+desc_haiwai_yzc_220114_kxxxr_009_1=Quà điểm danh ngày thứ 9 thành công nhận được
+desc_haiwai_yzc_220114_kxxxr_010_1=Quà điểm danh ngày thứ 10 thành công nhận được
+desc_haiwai_yzc_220114_kxxxr_011_1=Quà điểm danh ngày thứ 11 thành công nhận được
+desc_haiwai_yzc_220114_kxxxr_012_1=Quà điểm danh ngày thứ 12 thành công nhận được
+desc_haiwai_yzc_220114_kxxxr_013_1=Quà điểm danh ngày thứ 13 thành công nhận được
+desc_haiwai_yzc_220114_kxxxr_014_1=Quà điểm danh ngày thứ 14 thành công nhận được
+desc_haiwai_yzc_220114_kxxxr_015_1=Quà điểm danh ngày thứ 15 thành công nhận được
+desc_haiwai_yzc_220114_kxxxr_016_1=Quà điểm danh ngày thứ 16 thành công nhận được
+desc_haiwai_yzc_220114_kxxxr_017_1=Quà điểm danh ngày thứ 17 thành công nhận được
+desc_haiwai_yzc_220114_kxxxr_018_1=Quà điểm danh ngày thứ 18 thành công nhận được
+desc_haiwai_yzc_220114_kxxxr_019_1=Quà điểm danh ngày thứ 19 thành công nhận được
+desc_haiwai_yzc_220114_kxxxr_020_1=Quà điểm danh ngày thứ 20 thành công nhận được
+desc_haiwai_yzc_220114_kxxxr_021_1=Quà điểm danh ngày thứ 21 thành công nhận được
+desc_haiwai_yzc_220114_kxxxr_022_1=Quà điểm danh ngày thứ 22 thành công nhận được
+desc_haiwai_yzc_220114_kxxxr_023_1=Quà điểm danh ngày thứ 23 thành công nhận được
+desc_haiwai_yzc_220114_kxxxr_024_1=Quà điểm danh ngày thứ 24 thành công nhận được
+desc_haiwai_yzc_220114_kxxxr_025_1=Quà điểm danh ngày thứ 25 thành công nhận được
+desc_haiwai_yzc_220114_kxxxr_026_1=Quà điểm danh ngày thứ 26 thành công nhận được
+desc_haiwai_yzc_220114_kxxxr_027_1=Quà điểm danh ngày thứ 27 thành công nhận được
+desc_haiwai_yzc_220114_kxxxr_028_1=Quà điểm danh ngày thứ 28 thành công nhận được
+desc_haiwai_yzc_220114_kxxxr_029_1=Tích lũy điểm danh đạt 5 ngày nhận được
+desc_haiwai_yzc_220114_kxxxr_030_1=Tích lũy điểm danh đạt 10 ngày nhận được
+desc_haiwai_yzc_220114_kxxxr_031_1=Tích lũy điểm danh đạt 15 ngày nhận được
+desc_haiwai_yzc_220114_kxxxr_032_1=Tích lũy điểm danh đạt 25 ngày nhận được
+title_haiwai_220114_kxxxr_001=Thưởng Ngày Nhập Học Tu Hành (Ngày thứ 1)
+title_haiwai_220114_kxxxr_002=Thưởng Ngày Nhập Học Tu Hành (Ngày thứ 2)
+title_haiwai_220114_kxxxr_003=Thưởng Ngày Nhập Học Tu Hành (Ngày thứ 3)
+title_haiwai_220114_kxxxr_004=Thưởng Ngày Nhập Học Tu Hành (Ngày thứ 4)
+title_haiwai_220114_kxxxr_005=Thưởng Ngày Nhập Học Tu Hành (Ngày thứ 5)
+title_haiwai_220114_kxxxr_006=Thưởng Ngày Nhập Học Tu Hành (Ngày thứ 6)
+title_haiwai_220114_kxxxr_007=Thưởng Ngày Nhập Học Tu Hành (Ngày thứ 7)
+title_haiwai_220114_kxxxr_008=Thưởng Ngày Nhập Học Tu Hành (Ngày thứ 8)
+title_haiwai_220114_kxxxr_009=Thưởng Ngày Nhập Học Tu Hành (Ngày thứ 9)
+title_haiwai_220114_kxxxr_010=Thưởng Ngày Nhập Học Tu Hành (Ngày thứ 10)
+title_haiwai_220114_kxxxr_011=Thưởng Ngày Nhập Học Tu Hành (Ngày thứ 11)
+title_haiwai_220114_kxxxr_012=Thưởng Ngày Nhập Học Tu Hành (Ngày thứ 12)
+title_haiwai_220114_kxxxr_013=Thưởng Ngày Nhập Học Tu Hành (Ngày thứ 13)
+title_haiwai_220114_kxxxr_014=Thưởng Ngày Nhập Học Tu Hành (Ngày thứ 14)
+title_haiwai_220114_kxxxr_015=Thưởng Ngày Nhập Học Tu Hành (Ngày thứ 15)
+title_haiwai_220114_kxxxr_016=Thưởng Ngày Nhập Học Tu Hành (Ngày thứ 16)
+title_haiwai_220114_kxxxr_017=Thưởng Ngày Nhập Học Tu Hành (Ngày thứ 17)
+title_haiwai_220114_kxxxr_018=Thưởng Ngày Nhập Học Tu Hành (Ngày thứ 18)
+title_haiwai_220114_kxxxr_019=Thưởng Ngày Nhập Học Tu Hành (Ngày thứ 19)
+title_haiwai_220114_kxxxr_020=Thưởng Ngày Nhập Học Tu Hành (Ngày thứ 20)
+title_haiwai_220114_kxxxr_021=Thưởng Ngày Nhập Học Tu Hành (Ngày thứ 21)
+title_haiwai_220114_kxxxr_022=Thưởng Ngày Nhập Học Tu Hành (Ngày thứ 22)
+title_haiwai_220114_kxxxr_023=Thưởng Ngày Nhập Học Tu Hành (Ngày thứ 23)
+title_haiwai_220114_kxxxr_024=Thưởng Ngày Nhập Học Tu Hành (Ngày thứ 24)
+title_haiwai_220114_kxxxr_025=Thưởng Ngày Nhập Học Tu Hành (Ngày thứ 25)
+title_haiwai_220114_kxxxr_026=Thưởng Ngày Nhập Học Tu Hành (Ngày thứ 26)
+title_haiwai_220114_kxxxr_027=Thưởng Ngày Nhập Học Tu Hành (Ngày thứ 27)
+title_haiwai_220114_kxxxr_028=Thưởng Ngày Nhập Học Tu Hành (Ngày thứ 28)
+title_haiwai_220114_kxxxr_029=Thưởng Ngày Nhập Học Tu Hành (Tích lũy điểm danh 5 ngày)
+title_haiwai_220114_kxxxr_030=Thưởng Ngày Nhập Học Tu Hành (Tích lũy điểm danh 10 ngày)
+title_haiwai_220114_kxxxr_031=Thưởng Ngày Nhập Học Tu Hành (Tích lũy điểm danh 15 ngày)
+title_haiwai_220114_kxxxr_032=Thưởng Ngày Nhập Học Tu Hành (Tích lũy điểm danh 25 ngày)
+content_haiwai_220114_kxxxr_001=Chúc mừng đã hoàn thành điểm danh ngày thứ 1, đây là phần thưởng.
+content_haiwai_220114_kxxxr_002=Chúc mừng đã hoàn thành điểm danh ngày thứ 2, đây là phần thưởng.
+content_haiwai_220114_kxxxr_003=Chúc mừng đã hoàn thành điểm danh ngày thứ 3, đây là phần thưởng.
+content_haiwai_220114_kxxxr_004=Chúc mừng đã hoàn thành điểm danh ngày thứ 4, đây là phần thưởng.
+content_haiwai_220114_kxxxr_005=Chúc mừng đã hoàn thành điểm danh ngày thứ 5, đây là phần thưởng.
+content_haiwai_220114_kxxxr_006=Chúc mừng đã hoàn thành điểm danh ngày thứ 6, đây là phần thưởng.
+content_haiwai_220114_kxxxr_007=Chúc mừng đã hoàn thành điểm danh ngày thứ 7, đây là phần thưởng.
+content_haiwai_220114_kxxxr_008=Chúc mừng đã hoàn thành điểm danh ngày thứ 8, đây là phần thưởng.
+content_haiwai_220114_kxxxr_009=Chúc mừng đã hoàn thành điểm danh ngày thứ 9, đây là phần thưởng.
+content_haiwai_220114_kxxxr_010=Chúc mừng đã hoàn thành điểm danh ngày thứ 10, đây là phần thưởng.
+content_haiwai_220114_kxxxr_011=Chúc mừng đã hoàn thành điểm danh ngày thứ 11, đây là phần thưởng.
+content_haiwai_220114_kxxxr_012=Chúc mừng đã hoàn thành điểm danh ngày thứ 12, đây là phần thưởng.
+content_haiwai_220114_kxxxr_013=Chúc mừng đã hoàn thành điểm danh ngày thứ 13, đây là phần thưởng.
+content_haiwai_220114_kxxxr_014=Chúc mừng đã hoàn thành điểm danh ngày thứ 14, đây là phần thưởng.
+content_haiwai_220114_kxxxr_015=Chúc mừng đã hoàn thành điểm danh ngày thứ 15, đây là phần thưởng.
+content_haiwai_220114_kxxxr_016=Chúc mừng đã hoàn thành điểm danh ngày thứ 16, đây là phần thưởng.
+content_haiwai_220114_kxxxr_017=Chúc mừng đã hoàn thành điểm danh ngày thứ 17, đây là phần thưởng.
+content_haiwai_220114_kxxxr_018=Chúc mừng đã hoàn thành điểm danh ngày thứ 18, đây là phần thưởng.
+content_haiwai_220114_kxxxr_019=Chúc mừng đã hoàn thành điểm danh ngày thứ 19, đây là phần thưởng.
+content_haiwai_220114_kxxxr_020=Chúc mừng đã hoàn thành điểm danh ngày thứ 20, đây là phần thưởng.
+content_haiwai_220114_kxxxr_021=Chúc mừng đã hoàn thành điểm danh ngày thứ 21, đây là phần thưởng.
+content_haiwai_220114_kxxxr_022=Chúc mừng đã hoàn thành điểm danh ngày thứ 22, đây là phần thưởng.
+content_haiwai_220114_kxxxr_023=Chúc mừng đã hoàn thành điểm danh ngày thứ 23, đây là phần thưởng.
+content_haiwai_220114_kxxxr_024=Chúc mừng đã hoàn thành điểm danh ngày thứ 24, đây là phần thưởng.
+content_haiwai_220114_kxxxr_025=Chúc mừng đã hoàn thành điểm danh ngày thứ 25, đây là phần thưởng.
+content_haiwai_220114_kxxxr_026=Chúc mừng đã hoàn thành điểm danh ngày thứ 26, đây là phần thưởng.
+content_haiwai_220114_kxxxr_027=Chúc mừng đã hoàn thành điểm danh ngày thứ 27, đây là phần thưởng.
+content_haiwai_220114_kxxxr_028=Chúc mừng đã hoàn thành điểm danh ngày thứ 28, đây là phần thưởng.
+content_haiwai_220114_kxxxr_029=Chúc mừng đã tích lũy điểm danh đạt 5 ngày, đây là phần thưởng.
+content_haiwai_220114_kxxxr_030=Chúc mừng đã tích lũy điểm danh đạt 10 ngày, đây là phần thưởng.
+content_haiwai_220114_kxxxr_031=Chúc mừng đã tích lũy điểm danh đạt 15 ngày, đây là phần thưởng.
+content_haiwai_220114_kxxxr_032=Chúc mừng đã tích lũy điểm danh đạt 25 ngày, đây là phần thưởng.
+item_title_4320=“Tôn hiệu VIP 10 Cửu Âm Chân Kinh”
+desc_item_title_4320=Tôn hiệu độc quyền nhằm vinh danh VIP 10 Cửu Âm Chân Kinh.<br> Thời hạn: Vĩnh viễn
+role_title_4320=Tôn hiệu VIP 10 Cửu Âm Chân Kinh
+ui_hw_bbb_wdjl=Thưởng Võ Đạo
+ui_hw_bbb_mzmb=Mục tiêu tuần
+ui_hw_bbb_mzss=Thắng lần đầu mỗi tuần: 
+ui_hw_bbb_js=Tiêu diệt chiến trường: 
+ui_hw_bbb_shh=Sát thương chiến trường: 
+ui_hw_bbb_sfnz=Nộ chiêu thi triển: 
+ui_hw_rrgmgwi_bm=Báo danh
+ui_hw_rrgmgwi_jrzc=Vào chiến trường
+ui_hw_rrgmgwi_bbpm=Xếp hạng bổn bang: 
+ui_hw_ttts_tc=Rời khỏi
+ui_hw_rrgmgwi_bhls=Liên Đấu Bang
+haiwai_yzc_220523_kxxxr_001=Quà Tu Hành Nhập Học (Ngày thứ 1)
+haiwai_yzc_220523_kxxxr_002=Quà Tu Hành Nhập Học (Ngày thứ 2)
+haiwai_yzc_220523_kxxxr_003=Quà Tu Hành Nhập Học (Ngày thứ 3)
+haiwai_yzc_220523_kxxxr_004=Quà Tu Hành Nhập Học (Ngày thứ 4)
+haiwai_yzc_220523_kxxxr_005=Quà Tu Hành Nhập Học (Ngày thứ 5)
+haiwai_yzc_220523_kxxxr_006=Quà Tu Hành Nhập Học (Ngày thứ 6)
+haiwai_yzc_220523_kxxxr_007=Quà Tu Hành Nhập Học (Ngày thứ 7)
+haiwai_yzc_220523_kxxxr_008=Quà Tu Hành Nhập Học (Ngày thứ 8)
+haiwai_yzc_220523_kxxxr_009=Quà Tu Hành Nhập Học (Ngày thứ 9)
+haiwai_yzc_220523_kxxxr_010=Quà Tu Hành Nhập Học (Ngày thứ 10)
+haiwai_yzc_220523_kxxxr_011=Quà Tu Hành Nhập Học (Ngày thứ 11)
+haiwai_yzc_220523_kxxxr_012=Quà Tu Hành Nhập Học (Ngày thứ 12)
+haiwai_yzc_220523_kxxxr_013=Quà Tu Hành Nhập Học (Ngày thứ 13)
+haiwai_yzc_220523_kxxxr_014=Quà Tu Hành Nhập Học (Ngày thứ 14)
+haiwai_yzc_220523_kxxxr_015=Quà Tu Hành Nhập Học (Ngày thứ 15)
+haiwai_yzc_220523_kxxxr_016=Quà Tu Hành Nhập Học (Ngày thứ 16)
+haiwai_yzc_220523_kxxxr_017=Quà Tu Hành Nhập Học (Ngày thứ 17)
+haiwai_yzc_220523_kxxxr_018=Quà Tu Hành Nhập Học (Ngày thứ 18)
+haiwai_yzc_220523_kxxxr_019=Quà Tu Hành Nhập Học (Ngày thứ 19)
+haiwai_yzc_220523_kxxxr_020=Quà Tu Hành Nhập Học (Ngày thứ 20)
+haiwai_yzc_220523_kxxxr_021=Quà Tu Hành Nhập Học (Ngày thứ 21)
+haiwai_yzc_220523_kxxxr_022=Quà Tu Hành Nhập Học (Ngày thứ 22)
+haiwai_yzc_220523_kxxxr_023=Quà Tu Hành Nhập Học (Ngày thứ 23)
+haiwai_yzc_220523_kxxxr_024=Quà Tu Hành Nhập Học (Ngày thứ 24)
+haiwai_yzc_220523_kxxxr_025=Quà Tu Hành Nhập Học (Ngày thứ 25)
+haiwai_yzc_220523_kxxxr_026=Quà Tu Hành Nhập Học (Ngày thứ 26)
+haiwai_yzc_220523_kxxxr_027=Quà Tu Hành Nhập Học (Ngày thứ 27)
+haiwai_yzc_220523_kxxxr_028=Quà Tu Hành Nhập Học (Ngày thứ 28)
+haiwai_yzc_220523_kxxxr_029=Quà Tu Hành Nhập Học (Tích lũy 5 ngày)
+haiwai_yzc_220523_kxxxr_030=Quà Tu Hành Nhập Học (Tích lũy 10 ngày)
+haiwai_yzc_220523_kxxxr_031=Quà Tu Hành Nhập Học (Tích lũy 15 ngày)
+haiwai_yzc_220523_kxxxr_032=Quà Tu Hành Nhập Học (Tích lũy 25 ngày)
+desc_haiwai_yzc_220523_kxxxr_001=Nhấp phải mở nhận được <font color="#FFFF00">Hoàng Tiên Lộ x2, Thúy Ngọc Nội Tu Đan x2</font>
+desc_haiwai_yzc_220523_kxxxr_002=Nhấp phải mở nhận được <font color="#FFFF00">Quyển Cán Tẩy x10, Quyển Tẩy Luyện Kỹ Năng Bảo Vật x10</font>
+desc_haiwai_yzc_220523_kxxxr_003=Nhấp phải mở nhận được <font color="#FFFF00">Hiệp Khách Lệnh x10, Thập Hương Phản Sinh Hoàn x5</font>
+desc_haiwai_yzc_220523_kxxxr_004=Nhấp phải mở nhận được <font color="#FFFF00">Tuyết Liên Đan x10, Hỗn Nguyên Dịch Cân Đan x10</font>
+desc_haiwai_yzc_220523_kxxxr_005=Nhấp phải mở nhận được <font color="#FFFF00">Bách Hiểu Binh Lục (Thượng) x2, Hy Thế Trân Bảo x2</font>
+desc_haiwai_yzc_220523_kxxxr_006=Nhấp phải mở nhận được <font color="#FFFF00">Ngũ Uẩn Phục Ma Phẩm x20, Phiếu Điểm Sôi Nổi [50 điểm] x1</font>
+desc_haiwai_yzc_220523_kxxxr_007=Nhấp phải mở nhận được <font color="#FFFF00">Phiếu Vàng Vạn Linh x5, Phiếu Điểm Sôi Nổi [50 điểm] x1</font>
+desc_haiwai_yzc_220523_kxxxr_008=Nhấp phải mở nhận được <font color="#FFFF00">Hoàng Tiên Lộ x2, Thúy Ngọc Nội Tu Đan x2</font>
+desc_haiwai_yzc_220523_kxxxr_009=Nhấp phải mở nhận được <font color="#FFFF00">Quyển Cán Tẩy x10, Quyển Tẩy Luyện Kỹ Năng Bảo Vật x10</font>
+desc_haiwai_yzc_220523_kxxxr_010=Nhấp phải mở nhận được <font color="#FFFF00">Hiệp Khách Lệnh x10, Thập Hương Phản Sinh Hoàn x5</font>
+desc_haiwai_yzc_220523_kxxxr_011=Nhấp phải mở nhận được <font color="#FFFF00">Tuyết Liên Đan x10 , Hỗn Nguyên Dịch Cân Đan x10</font>
+desc_haiwai_yzc_220523_kxxxr_012=Nhấp phải mở nhận được <font color="#FFFF00">Bách Hiểu Binh Lục (Thượng) x2, Hy Thế Trân Bảo x2</font>
+desc_haiwai_yzc_220523_kxxxr_013=Nhấp phải mở nhận được <font color="#FFFF00">Ngũ Uẩn Phục Ma Phẩm x20, Phiếu Điểm Sôi Nổi [50 điểm] x1</font>
+desc_haiwai_yzc_220523_kxxxr_014=Nhấp phải mở nhận được <font color="#FFFF00">Phiếu Vàng Vạn Linh x5, Phiếu Điểm Sôi Nổi [50 điểm] x1</font>
+desc_haiwai_yzc_220523_kxxxr_015=Nhấp phải mở nhận được <font color="#FFFF00">Hoàng Tiên Lộ x2, Thúy Ngọc Nội Tu Đan x2</font>
+desc_haiwai_yzc_220523_kxxxr_016=Nhấp phải mở nhận được <font color="#FFFF00">Quyển Cán Tẩy x10, Quyển Tẩy Luyện Kỹ Năng Bảo Vật x10</font>
+desc_haiwai_yzc_220523_kxxxr_017=Nhấp phải mở nhận được <font color="#FFFF00">Hiệp Khách Lệnh x10, Thập Hương Phản Sinh Hoàn x5</font>
+desc_haiwai_yzc_220523_kxxxr_018=Nhấp phải mở nhận được <font color="#FFFF00">Tuyết Liên Đan x10 , Hỗn Nguyên Dịch Cân Đan x10</font>
+desc_haiwai_yzc_220523_kxxxr_019=Nhấp phải mở nhận được <font color="#FFFF00">Bách Hiểu Binh Lục (Thượng) x2, Hy Thế Trân Bảo x2</font>
+desc_haiwai_yzc_220523_kxxxr_020=Nhấp phải mở nhận được <font color="#FFFF00">Ngũ Uẩn Phục Ma Phẩm x20, Phiếu Điểm Sôi Nổi [50 điểm] x1</font>
+desc_haiwai_yzc_220523_kxxxr_021=Nhấp phải mở nhận được <font color="#FFFF00">Phiếu Vàng Vạn Linh x5, Phiếu Điểm Sôi Nổi [50 điểm] x1</font>
+desc_haiwai_yzc_220523_kxxxr_022=Nhấp phải mở nhận được <font color="#FFFF00">Hoàng Tiên Lộ x2, Thúy Ngọc Nội Tu Đan x2</font>
+desc_haiwai_yzc_220523_kxxxr_023=Nhấp phải mở nhận được <font color="#FFFF00">Quyển Cán Tẩy x10, Quyển Tẩy Luyện Kỹ Năng Bảo Vật x10</font>
+desc_haiwai_yzc_220523_kxxxr_024=Nhấp phải mở nhận được <font color="#FFFF00">Hiệp Khách Lệnh x10, Thập Hương Phản Sinh Hoàn x5</font>
+desc_haiwai_yzc_220523_kxxxr_025=Nhấp phải mở nhận được <font color="#FFFF00">Tuyết Liên Đan x10 , Hỗn Nguyên Dịch Cân Đan x10</font>
+desc_haiwai_yzc_220523_kxxxr_026=Nhấp phải mở nhận được <font color="#FFFF00">Bách Hiểu Binh Lục (Thượng) x2, Hy Thế Trân Bảo x2</font>
+desc_haiwai_yzc_220523_kxxxr_027=Nhấp phải mở nhận được <font color="#FFFF00">Ngũ Uẩn Phục Ma Phẩm x20, Phiếu Điểm Sôi Nổi [50 điểm] x1</font>
+desc_haiwai_yzc_220523_kxxxr_028=Nhấp phải mở nhận được <font color="#FFFF00">Phiếu Vàng Vạn Linh x5, Phiếu Điểm Sôi Nổi [50 điểm] x1</font>
+desc_haiwai_yzc_220523_kxxxr_029=Nhấp phải mở nhận được <font color="#FFFF00">Hy Thế Trân Bảo x5</font>
+desc_haiwai_yzc_220523_kxxxr_030=Nhấp phải mở nhận được <font color="#FFFF00">Huyền Ngọc Phấn (Khóa) x1</font>
+desc_haiwai_yzc_220523_kxxxr_031=Nhấp phải mở nhận được <font color="#FFFF00">Môn Phái Thế Lực Nội Công Tham Ngộ Bản (14 ngày) x1</font>
+desc_haiwai_yzc_220523_kxxxr_032=Nhấp phải mở nhận được <font color="#FFFF00">Bách Niên Tuyết Liên Quả x10, Hỗn Nguyên Dịch Cân Đan (1 ngày) x50</font>
+desc_haiwai_yzc_220523_kxxxr_001_1=Quà điểm danh ngày thứ 1 thành công nhận được
+desc_haiwai_yzc_220523_kxxxr_002_1=Quà điểm danh ngày thứ 2 thành công nhận được
+desc_haiwai_yzc_220523_kxxxr_003_1=Quà điểm danh ngày thứ 3 thành công nhận được
+desc_haiwai_yzc_220523_kxxxr_004_1=Quà điểm danh ngày thứ 4 thành công nhận được
+desc_haiwai_yzc_220523_kxxxr_005_1=Quà điểm danh ngày thứ 5 thành công nhận được
+desc_haiwai_yzc_220523_kxxxr_006_1=Quà điểm danh ngày thứ 6 thành công nhận được
+desc_haiwai_yzc_220523_kxxxr_007_1=Quà điểm danh ngày thứ 7 thành công nhận được
+desc_haiwai_yzc_220523_kxxxr_008_1=Quà điểm danh ngày thứ 8 thành công nhận được
+desc_haiwai_yzc_220523_kxxxr_009_1=Quà điểm danh ngày thứ 9 thành công nhận được
+desc_haiwai_yzc_220523_kxxxr_010_1=Quà điểm danh ngày thứ 10 thành công nhận được
+desc_haiwai_yzc_220523_kxxxr_011_1=Quà điểm danh ngày thứ 11 thành công nhận được
+desc_haiwai_yzc_220523_kxxxr_012_1=Quà điểm danh ngày thứ 12 thành công nhận được
+desc_haiwai_yzc_220523_kxxxr_013_1=Quà điểm danh ngày thứ 13 thành công nhận được
+desc_haiwai_yzc_220523_kxxxr_014_1=Quà điểm danh ngày thứ 14 thành công nhận được
+desc_haiwai_yzc_220523_kxxxr_015_1=Quà điểm danh ngày thứ 15 thành công nhận được
+desc_haiwai_yzc_220523_kxxxr_016_1=Quà điểm danh ngày thứ 16 thành công nhận được
+desc_haiwai_yzc_220523_kxxxr_017_1=Quà điểm danh ngày thứ 17 thành công nhận được
+desc_haiwai_yzc_220523_kxxxr_018_1=Quà điểm danh ngày thứ 18 thành công nhận được
+desc_haiwai_yzc_220523_kxxxr_019_1=Quà điểm danh ngày thứ 19 thành công nhận được
+desc_haiwai_yzc_220523_kxxxr_020_1=Quà điểm danh ngày thứ 20 thành công nhận được
+desc_haiwai_yzc_220523_kxxxr_021_1=Quà điểm danh ngày thứ 21 thành công nhận được
+desc_haiwai_yzc_220523_kxxxr_022_1=Quà điểm danh ngày thứ 22 thành công nhận được
+desc_haiwai_yzc_220523_kxxxr_023_1=Quà điểm danh ngày thứ 23 thành công nhận được
+desc_haiwai_yzc_220523_kxxxr_024_1=Quà điểm danh ngày thứ 24 thành công nhận được
+desc_haiwai_yzc_220523_kxxxr_025_1=Quà điểm danh ngày thứ 25 thành công nhận được
+desc_haiwai_yzc_220523_kxxxr_026_1=Quà điểm danh ngày thứ 26 thành công nhận được
+desc_haiwai_yzc_220523_kxxxr_027_1=Quà điểm danh ngày thứ 27 thành công nhận được
+desc_haiwai_yzc_220523_kxxxr_028_1=Quà điểm danh ngày thứ 28 thành công nhận được
+desc_haiwai_yzc_220523_kxxxr_029_1=Tích lũy điểm danh đạt 5 ngày nhận được
+desc_haiwai_yzc_220523_kxxxr_030_1=Tích lũy điểm danh đạt 10 ngày nhận được
+desc_haiwai_yzc_220523_kxxxr_031_1=Tích lũy điểm danh đạt 15 ngày nhận được
+desc_haiwai_yzc_220523_kxxxr_032_1=Tích lũy điểm danh đạt 25 ngày nhận được
+title_haiwai_220523_kxxxr_001=Thưởng Ngày Nhập Học Tu Hành (Ngày thứ 1)
+title_haiwai_220523_kxxxr_002=Thưởng Ngày Nhập Học Tu Hành (Ngày thứ 2)
+title_haiwai_220523_kxxxr_003=Thưởng Ngày Nhập Học Tu Hành (Ngày thứ 3)
+title_haiwai_220523_kxxxr_004=Thưởng Ngày Nhập Học Tu Hành (Ngày thứ 4)
+title_haiwai_220523_kxxxr_005=Thưởng Ngày Nhập Học Tu Hành (Ngày thứ 5)
+title_haiwai_220523_kxxxr_006=Thưởng Ngày Nhập Học Tu Hành (Ngày thứ 6)
+title_haiwai_220523_kxxxr_007=Thưởng Ngày Nhập Học Tu Hành (Ngày thứ 7)
+title_haiwai_220523_kxxxr_008=Thưởng Ngày Nhập Học Tu Hành (Ngày thứ 8)
+title_haiwai_220523_kxxxr_009=Thưởng Ngày Nhập Học Tu Hành (Ngày thứ 9)
+title_haiwai_220523_kxxxr_010=Thưởng Ngày Nhập Học Tu Hành (Ngày thứ 10)
+title_haiwai_220523_kxxxr_011=Thưởng Ngày Nhập Học Tu Hành (Ngày thứ 11)
+title_haiwai_220523_kxxxr_012=Thưởng Ngày Nhập Học Tu Hành (Ngày thứ 12)
+title_haiwai_220523_kxxxr_013=Thưởng Ngày Nhập Học Tu Hành (Ngày thứ 13)
+title_haiwai_220523_kxxxr_014=Thưởng Ngày Nhập Học Tu Hành (Ngày thứ 14)
+title_haiwai_220523_kxxxr_015=Thưởng Ngày Nhập Học Tu Hành (Ngày thứ 15)
+title_haiwai_220523_kxxxr_016=Thưởng Ngày Nhập Học Tu Hành (Ngày thứ 16)
+title_haiwai_220523_kxxxr_017=Thưởng Ngày Nhập Học Tu Hành (Ngày thứ 17)
+title_haiwai_220523_kxxxr_018=Thưởng Ngày Nhập Học Tu Hành (Ngày thứ 18)
+title_haiwai_220523_kxxxr_019=Thưởng Ngày Nhập Học Tu Hành (Ngày thứ 19)
+title_haiwai_220523_kxxxr_020=Thưởng Ngày Nhập Học Tu Hành (Ngày thứ 20)
+title_haiwai_220523_kxxxr_021=Thưởng Ngày Nhập Học Tu Hành (Ngày thứ 21)
+title_haiwai_220523_kxxxr_022=Thưởng Ngày Nhập Học Tu Hành (Ngày thứ 22)
+title_haiwai_220523_kxxxr_023=Thưởng Ngày Nhập Học Tu Hành (Ngày thứ 23)
+title_haiwai_220523_kxxxr_024=Thưởng Ngày Nhập Học Tu Hành (Ngày thứ 24)
+title_haiwai_220523_kxxxr_025=Thưởng Ngày Nhập Học Tu Hành (Ngày thứ 25)
+title_haiwai_220523_kxxxr_026=Thưởng Ngày Nhập Học Tu Hành (Ngày thứ 26)
+title_haiwai_220523_kxxxr_027=Thưởng Ngày Nhập Học Tu Hành (Ngày thứ 27)
+title_haiwai_220523_kxxxr_028=Thưởng Ngày Nhập Học Tu Hành (Ngày thứ 28)
+title_haiwai_220523_kxxxr_029=Thưởng Ngày Nhập Học Tu Hành (Tích lũy điểm danh 5 ngày)
+title_haiwai_220523_kxxxr_030=Thưởng Ngày Nhập Học Tu Hành (Tích lũy điểm danh 10 ngày)
+title_haiwai_220523_kxxxr_031=Thưởng Ngày Nhập Học Tu Hành (Tích lũy điểm danh 15 ngày)
+title_haiwai_220523_kxxxr_032=Thưởng Ngày Nhập Học Tu Hành (Tích lũy điểm danh 25 ngày)
+item_title_4323=“Tôn hiệu VIP 10 Cửu Âm Chân Kinh”
+desc_item_title_4323=Tôn hiệu độc quyền nhằm vinh danh VIP 10 Cửu Âm Chân Kinh.<br> Thời hạn: Vĩnh viễn
+role_title_4323=Tôn hiệu VIP 10 Cửu Âm Chân Kinh
+desc_haiwai_220520_qzlb_1=Nhấp phải mở
+desc_haiwai_220520_qzlb=Mở quà nhận được đạo cụ tuyệt đẹp
+haiwai_220520_qzlb=Quà Mừng Sinh Nhật
+ui_hw_bbb_sddhjl=Thưởng đổi Tiệm
+scene_school23=Tinh Miễu Các
+scene_school21=Thần Cơ Doanh
+ui_hw_lmlm_smfwz=Phong Vật Chí Thần Bí
+haiwai_yzc_220823_kxxxr_001=Quà Tu Hành Nhập Học (Ngày thứ 1)
+haiwai_yzc_220823_kxxxr_002=Quà Tu Hành Nhập Học (Ngày thứ 2)
+haiwai_yzc_220823_kxxxr_003=Quà Tu Hành Nhập Học (Ngày thứ 3)
+haiwai_yzc_220823_kxxxr_004=Quà Tu Hành Nhập Học (Ngày thứ 4)
+haiwai_yzc_220823_kxxxr_005=Quà Tu Hành Nhập Học (Ngày thứ 5)
+haiwai_yzc_220823_kxxxr_006=Quà Tu Hành Nhập Học (Ngày thứ 6)
+haiwai_yzc_220823_kxxxr_007=Quà Tu Hành Nhập Học (Ngày thứ 7)
+haiwai_yzc_220823_kxxxr_008=Quà Tu Hành Nhập Học (Ngày thứ 8)
+haiwai_yzc_220823_kxxxr_009=Quà Tu Hành Nhập Học (Ngày thứ 9)
+haiwai_yzc_220823_kxxxr_010=Quà Tu Hành Nhập Học (Ngày thứ 10)
+haiwai_yzc_220823_kxxxr_011=Quà Tu Hành Nhập Học (Ngày thứ 11)
+haiwai_yzc_220823_kxxxr_012=Quà Tu Hành Nhập Học (Ngày thứ 12)
+haiwai_yzc_220823_kxxxr_013=Quà Tu Hành Nhập Học (Ngày thứ 13)
+haiwai_yzc_220823_kxxxr_014=Quà Tu Hành Nhập Học (Ngày thứ 14)
+haiwai_yzc_220823_kxxxr_015=Quà Tu Hành Nhập Học (Ngày thứ 15)
+haiwai_yzc_220823_kxxxr_016=Quà Tu Hành Nhập Học (Ngày thứ 16)
+haiwai_yzc_220823_kxxxr_017=Quà Tu Hành Nhập Học (Ngày thứ 17)
+haiwai_yzc_220823_kxxxr_018=Quà Tu Hành Nhập Học (Ngày thứ 18)
+haiwai_yzc_220823_kxxxr_019=Quà Tu Hành Nhập Học (Ngày thứ 19)
+haiwai_yzc_220823_kxxxr_020=Quà Tu Hành Nhập Học (Ngày thứ 20)
+haiwai_yzc_220823_kxxxr_021=Quà Tu Hành Nhập Học (Ngày thứ 21)
+haiwai_yzc_220823_kxxxr_022=Quà Tu Hành Nhập Học (Ngày thứ 22)
+haiwai_yzc_220823_kxxxr_023=Quà Tu Hành Nhập Học (Ngày thứ 23)
+haiwai_yzc_220823_kxxxr_024=Quà Tu Hành Nhập Học (Ngày thứ 24)
+haiwai_yzc_220823_kxxxr_025=Quà Tu Hành Nhập Học (Ngày thứ 25)
+haiwai_yzc_220823_kxxxr_026=Quà Tu Hành Nhập Học (Ngày thứ 26)
+haiwai_yzc_220823_kxxxr_027=Quà Tu Hành Nhập Học (Ngày thứ 27)
+haiwai_yzc_220823_kxxxr_028=Quà Tu Hành Nhập Học (Ngày thứ 28)
+haiwai_yzc_220823_kxxxr_029=Quà Tu Hành Nhập Học (Tích lũy 5 ngày)
+haiwai_yzc_220823_kxxxr_030=Quà Tu Hành Nhập Học (Tích lũy 10 ngày)
+haiwai_yzc_220823_kxxxr_031=Quà Tu Hành Nhập Học (Tích lũy 15 ngày)
+haiwai_yzc_220823_kxxxr_032=Quà Tu Hành Nhập Học (Tích lũy 25 ngày)
+desc_haiwai_yzc_220823_kxxxr_001=Nhấp phải mở nhận được <font color="#FFFF00">Hoàng Tiên Lộ x2, Thúy Ngọc Nội Tu Đan x2</font>
+desc_haiwai_yzc_220823_kxxxr_002=Nhấp phải mở nhận được <font color="#FFFF00">Quyển Cán Tẩy x10, Quyển Tẩy Luyện Kỹ Năng Bảo Vật x10</font>
+desc_haiwai_yzc_220823_kxxxr_003=Nhấp phải mở nhận được <font color="#FFFF00">Hiệp Khách Lệnh x10, Thập Hương Phản Sinh Hoàn x5</font>
+desc_haiwai_yzc_220823_kxxxr_004=Nhấp phải mở nhận được <font color="#FFFF00">Tuyết Liên Đan x10, Hỗn Nguyên Dịch Cân Đan x10</font>
+desc_haiwai_yzc_220823_kxxxr_005=Nhấp phải mở nhận được <font color="#FFFF00">Bách Hiểu Binh Lục (Thượng) x2, Hy Thế Trân Bảo x2</font>
+desc_haiwai_yzc_220823_kxxxr_006=Nhấp phải mở nhận được <font color="#FFFF00">Ngũ Uẩn Phục Ma Phẩm x20, Phiếu Điểm Sôi Nổi [50 điểm] x1</font>
+desc_haiwai_yzc_220823_kxxxr_007=Nhấp phải mở nhận được <font color="#FFFF00">Phiếu Vàng Vạn Linh x5, Phiếu Điểm Sôi Nổi [50 điểm] x1</font>
+desc_haiwai_yzc_220823_kxxxr_008=Nhấp phải mở nhận được <font color="#FFFF00">Hoàng Tiên Lộ x2, Thúy Ngọc Nội Tu Đan x2</font>
+desc_haiwai_yzc_220823_kxxxr_009=Nhấp phải mở nhận được <font color="#FFFF00">Quyển Cán Tẩy x10, Quyển Tẩy Luyện Kỹ Năng Bảo Vật x10</font>
+desc_haiwai_yzc_220823_kxxxr_010=Nhấp phải mở nhận được <font color="#FFFF00">Hiệp Khách Lệnh x10, Thập Hương Phản Sinh Hoàn x5</font>
+desc_haiwai_yzc_220823_kxxxr_011=Nhấp phải mở nhận được <font color="#FFFF00">Tuyết Liên Đan x10 , Hỗn Nguyên Dịch Cân Đan x10</font>
+desc_haiwai_yzc_220823_kxxxr_012=Nhấp phải mở nhận được <font color="#FFFF00">Bách Hiểu Binh Lục (Thượng) x2, Hy Thế Trân Bảo x2</font>
+desc_haiwai_yzc_220823_kxxxr_013=Nhấp phải mở nhận được <font color="#FFFF00">Ngũ Uẩn Phục Ma Phẩm x20, Phiếu Điểm Sôi Nổi [50 điểm] x1</font>
+desc_haiwai_yzc_220823_kxxxr_014=Nhấp phải mở nhận được <font color="#FFFF00">Phiếu Vàng Vạn Linh x5, Phiếu Điểm Sôi Nổi [50 điểm] x1</font>
+desc_haiwai_yzc_220823_kxxxr_015=Nhấp phải mở nhận được <font color="#FFFF00">Hoàng Tiên Lộ x2, Thúy Ngọc Nội Tu Đan x2</font>
+desc_haiwai_yzc_220823_kxxxr_016=Nhấp phải mở nhận được <font color="#FFFF00">Quyển Cán Tẩy x10, Quyển Tẩy Luyện Kỹ Năng Bảo Vật x10</font>
+desc_haiwai_yzc_220823_kxxxr_017=Nhấp phải mở nhận được <font color="#FFFF00">Hiệp Khách Lệnh x10, Thập Hương Phản Sinh Hoàn x5</font>
+desc_haiwai_yzc_220823_kxxxr_018=Nhấp phải mở nhận được <font color="#FFFF00">Tuyết Liên Đan x10 , Hỗn Nguyên Dịch Cân Đan x10</font>
+desc_haiwai_yzc_220823_kxxxr_019=Nhấp phải mở nhận được <font color="#FFFF00">Bách Hiểu Binh Lục (Thượng) x2, Hy Thế Trân Bảo x2</font>
+desc_haiwai_yzc_220823_kxxxr_020=Nhấp phải mở nhận được <font color="#FFFF00">Ngũ Uẩn Phục Ma Phẩm x20, Phiếu Điểm Sôi Nổi [50 điểm] x1</font>
+desc_haiwai_yzc_220823_kxxxr_021=Nhấp phải mở nhận được <font color="#FFFF00">Phiếu Vàng Vạn Linh x5, Phiếu Điểm Sôi Nổi [50 điểm] x1</font>
+desc_haiwai_yzc_220823_kxxxr_022=Nhấp phải mở nhận được <font color="#FFFF00">Hoàng Tiên Lộ x2, Thúy Ngọc Nội Tu Đan x2</font>
+desc_haiwai_yzc_220823_kxxxr_023=Nhấp phải mở nhận được <font color="#FFFF00">Quyển Cán Tẩy x10, Quyển Tẩy Luyện Kỹ Năng Bảo Vật x10</font>
+desc_haiwai_yzc_220823_kxxxr_024=Nhấp phải mở nhận được <font color="#FFFF00">Hiệp Khách Lệnh x10, Thập Hương Phản Sinh Hoàn x5</font>
+desc_haiwai_yzc_220823_kxxxr_025=Nhấp phải mở nhận được <font color="#FFFF00">Tuyết Liên Đan x10 , Hỗn Nguyên Dịch Cân Đan x10</font>
+desc_haiwai_yzc_220823_kxxxr_026=Nhấp phải mở nhận được <font color="#FFFF00">Bách Hiểu Binh Lục (Thượng) x2, Hy Thế Trân Bảo x2</font>
+desc_haiwai_yzc_220823_kxxxr_027=Nhấp phải mở nhận được <font color="#FFFF00">Ngũ Uẩn Phục Ma Phẩm x20, Phiếu Điểm Sôi Nổi [50 điểm] x1</font>
+desc_haiwai_yzc_220823_kxxxr_028=Nhấp phải mở nhận được <font color="#FFFF00">Phiếu Vàng Vạn Linh x5, Phiếu Điểm Sôi Nổi [50 điểm] x1</font>
+desc_haiwai_yzc_220823_kxxxr_029=Nhấp phải mở nhận được <font color="#FFFF00">Hy Thế Trân Bảo x2</font>
+desc_haiwai_yzc_220823_kxxxr_030=Nhấp phải mở nhận được <font color="#FFFF00">Huyền Ngọc Phấn (Khóa) x1</font>
+desc_haiwai_yzc_220823_kxxxr_031=Nhấp phải mở nhận được <font color="#FFFF00">Môn Phái Thế Lực Nội Công Tham Ngộ Bản (14 ngày) x1</font>
+desc_haiwai_yzc_220823_kxxxr_032=Nhấp phải mở nhận được <font color="#FFFF00">Bách Niên Tuyết Liên Quả x10, Hỗn Nguyên Dịch Cân Đan (1 ngày) x50</font>
+desc_haiwai_yzc_220823_kxxxr_001_1=Quà điểm danh ngày thứ 1 thành công nhận được
+desc_haiwai_yzc_220823_kxxxr_002_1=Quà điểm danh ngày thứ 2 thành công nhận được
+desc_haiwai_yzc_220823_kxxxr_003_1=Quà điểm danh ngày thứ 3 thành công nhận được
+desc_haiwai_yzc_220823_kxxxr_004_1=Quà điểm danh ngày thứ 4 thành công nhận được
+desc_haiwai_yzc_220823_kxxxr_005_1=Quà điểm danh ngày thứ 5 thành công nhận được
+desc_haiwai_yzc_220823_kxxxr_006_1=Quà điểm danh ngày thứ 6 thành công nhận được
+desc_haiwai_yzc_220823_kxxxr_007_1=Quà điểm danh ngày thứ 7 thành công nhận được
+desc_haiwai_yzc_220823_kxxxr_008_1=Quà điểm danh ngày thứ 8 thành công nhận được
+desc_haiwai_yzc_220823_kxxxr_009_1=Quà điểm danh ngày thứ 9 thành công nhận được
+desc_haiwai_yzc_220823_kxxxr_010_1=Quà điểm danh ngày thứ 10 thành công nhận được
+desc_haiwai_yzc_220823_kxxxr_011_1=Quà điểm danh ngày thứ 11 thành công nhận được
+desc_haiwai_yzc_220823_kxxxr_012_1=Quà điểm danh ngày thứ 12 thành công nhận được
+desc_haiwai_yzc_220823_kxxxr_013_1=Quà điểm danh ngày thứ 13 thành công nhận được
+desc_haiwai_yzc_220823_kxxxr_014_1=Quà điểm danh ngày thứ 14 thành công nhận được
+desc_haiwai_yzc_220823_kxxxr_015_1=Quà điểm danh ngày thứ 15 thành công nhận được
+desc_haiwai_yzc_220823_kxxxr_016_1=Quà điểm danh ngày thứ 16 thành công nhận được
+desc_haiwai_yzc_220823_kxxxr_017_1=Quà điểm danh ngày thứ 17 thành công nhận được
+desc_haiwai_yzc_220823_kxxxr_018_1=Quà điểm danh ngày thứ 18 thành công nhận được
+desc_haiwai_yzc_220823_kxxxr_019_1=Quà điểm danh ngày thứ 19 thành công nhận được
+desc_haiwai_yzc_220823_kxxxr_020_1=Quà điểm danh ngày thứ 20 thành công nhận được
+desc_haiwai_yzc_220823_kxxxr_021_1=Quà điểm danh ngày thứ 21 thành công nhận được
+desc_haiwai_yzc_220823_kxxxr_022_1=Quà điểm danh ngày thứ 22 thành công nhận được
+desc_haiwai_yzc_220823_kxxxr_023_1=Quà điểm danh ngày thứ 23 thành công nhận được
+desc_haiwai_yzc_220823_kxxxr_024_1=Quà điểm danh ngày thứ 24 thành công nhận được
+desc_haiwai_yzc_220823_kxxxr_025_1=Quà điểm danh ngày thứ 25 thành công nhận được
+desc_haiwai_yzc_220823_kxxxr_026_1=Quà điểm danh ngày thứ 26 thành công nhận được
+desc_haiwai_yzc_220823_kxxxr_027_1=Quà điểm danh ngày thứ 27 thành công nhận được
+desc_haiwai_yzc_220823_kxxxr_028_1=Quà điểm danh ngày thứ 28 thành công nhận được
+desc_haiwai_yzc_220823_kxxxr_029_1=Tích lũy điểm danh đạt 5 ngày nhận được
+desc_haiwai_yzc_220823_kxxxr_030_1=Tích lũy điểm danh đạt 10 ngày nhận được
+desc_haiwai_yzc_220823_kxxxr_031_1=Tích lũy điểm danh đạt 15 ngày nhận được
+desc_haiwai_yzc_220823_kxxxr_032_1=Tích lũy điểm danh đạt 25 ngày nhận được
+item_title_4325=“Tôn hiệu VIP 10 Cửu Âm Chân Kinh”
+desc_item_title_4325=Đạo cụ tôn hiệu kỷ niệm VIP 10 game Cửu Âm Chân Kinh.<br> Thời hạn: Vĩnh viễn
+role_title_4325=Tôn hiệu VIP 10 Cửu Âm Chân Kinh
+haiwai_yzc220815_bl=Vải
+desc_haiwai_yzc220815_bl_0=Đạo cụ đổi quà ở Đại sứ sự kiện Nhan Quân
+haiwai_yzc220815_rl=Thuốc Nhuộm
+desc_haiwai_yzc220815_rl_0=Đạo cụ đổi quà ở Đại sứ sự kiện Nhan Quân
+haiwai_yzc220815_qg=Cán Cờ
+desc_haiwai_yzc220815_qg_0=Đạo cụ đổi quà ở Đại sứ sự kiện Nhan Quân
+haiwai_yzc220815_hx=Sao Vàng
+desc_haiwai_yzc220815_hx_0=Đạo cụ đổi quà ở Đại sứ sự kiện Nhan Quân
+haiwai_yzc220816_dlzy=Độc Lập Tự Do
+desc_haiwai_yzc220816_dlzy=Mở ra có tỉ lệ nhận được Bệ Rèn, Võ Học, Thẻ Đổi PVC 2 Sao.
+desc_haiwai_yzc220816_dlzy_1=Nhấp phải mở.
+haiwai_yzc220816_hxq=Cờ Đỏ Sao Vàng
+desc_haiwai_yzc220816_hxq=Mở ra có tỉ lệ nhận được Mảnh Phỉ Thúy, Huyền Ngọc Phấn, Gói Nội Công, Quà Cổ Phổ, Thẻ Đổi PVC Chí Tôn, Tọa kỵ Ngọc Tiêu Dao.
+desc_haiwai_yzc220816_hxq_1=Nhấp phải mở.
+haiwai_yzc220816_clx=Rương Nguyên Liệu
+desc_haiwai_yzc220816_clx=Mở ra ngẫu nhiên nhận được Vải, thuốc nhuộm, cán cờ
+desc_haiwai_yzc220816_clx_1=Nhấp phải mở.
+haiwai_yzc_200909_hyd100=Mỹ Tửu Chúc Mừng
+haiwai_yzc220812_xyt=Kẹo May Mắn
+desc_haiwai_yzc220812_xyt_0=Dùng nhận được 100000 Tu Vi
+haiwai_yzc220812_klt=Kẹo Vui Vẻ
+desc_haiwai_yzc220812_klt_0=Dùng xong tốc độ di chuyển tăng 100%, có hiệu lực 30 phút
+haiwai_yzc220812_kzlb=Quà Kháng Chiến
+desc_haiwai_yzc220812_kzlb_0=Dùng xong Lực Tay, Nội Tức, Canh Khí, Thân Pháp, Thể Phách tăng 100 điểm, có hiệu lực 60 phút
+haiwai_yzc220819_sjl=Túi Thần Cơ Lệnh
+desc_haiwai_yzc220819_sjl_1=Túi quà tinh xảo, mở ra nhận được Thần Cơ Lệnh x10.
+desc_haiwai_yzc220819_sjl=Nhấp phải mở.
+haiwai_yzc220819_xml=Túi Tinh Miễu Lệnh
+desc_haiwai_yzc220819_xml_1=Túi quà tinh xảo, mở ra nhận được Tinh Miễu Lệnh x10.
+desc_haiwai_yzc220819_xml=Nhấp phải mở.
+CanAcceptMenu_70638=<font face="Default" color="#ffffff" >Mừng Quốc Khánh 2/9 (Cấm địa)</font>
+CompleteMenu_70638=<font face="Default" color="#ffffff" >Hoàn thành</font>
+accept_70638_1=<font face="Default" color="#ffffff" >Hoàn thành 1 lần Cấm Địa</font>
+complete_70638=<font face="Default" color="#ffffff" >Ừ, làm tốt lắm, đây là phần thưởng!</font>
+context_70638=Mừng Quốc Khánh 2/9
+menu_70638_1=<font face="Default" color="#ffffff" >Được</font>
+submit_70638=<font face="Default" color="#ffffff" >Đa tạ</font>
+target_70638=Hoàn thành 1 lần Cấm Địa
+title_70638=Mừng Quốc Khánh 2/9 (Cấm địa)
+SubmitNpcEx_70638=Trò chuyện với Thương Nhân Thần Bí
+specialinfo_1547=Hoàn thành 1 lần Cấm Địa
+CanAcceptMenu_70639=<font face="Default" color="#ffffff" >Mừng Quốc Khánh 2/9 (Tâm Ma)</font>
+CompleteMenu_70639=<font face="Default" color="#ffffff" >Hoàn thành</font>
+accept_70639_1=<font face="Default" color="#ffffff" >Hoàn thành 2 lần Tâm Ma</font>
+complete_70639=<font face="Default" color="#ffffff" >Ừ, làm tốt lắm, đây là phần thưởng!</font>
+context_70639=Mừng Quốc Khánh 2/9
+menu_70639_1=<font face="Default" color="#ffffff" >Được</font>
+submit_70639=<font face="Default" color="#ffffff" >Đa tạ</font>
+target_70639=Hoàn thành 2 lần Tâm Ma
+title_70639=Mừng Quốc Khánh 2/9 (Tâm Ma)
+SubmitNpcEx_70639=Trò chuyện với Thương Nhân Thần Bí
+specialinfo_1548=Hoàn thành 2 lần Tâm Ma
+CanAcceptMenu_70640=<font face="Default" color="#ffffff" >Mừng Quốc Khánh 2/9 (Đoạt Thư)</font>
+CompleteMenu_70640=<font face="Default" color="#ffffff" >Hoàn thành</font>
+accept_70640_1=<font face="Default" color="#ffffff" >Hoàn thành 1 lần Đoạt Thư</font>
+complete_70640=<font face="Default" color="#ffffff" >Ừ, làm tốt lắm, đây là phần thưởng!</font>
+context_70640=Mừng Quốc Khánh 2/9
+menu_70640_1=<font face="Default" color="#ffffff" >Được</font>
+submit_70640=<font face="Default" color="#ffffff" >Đa tạ</font>
+target_70640=Hoàn thành 1 lần Đoạt Thư
+title_70640=Mừng Quốc Khánh 2/9 (Đoạt Thư)
+SubmitNpcEx_70640=Trò chuyện với Thương Nhân Thần Bí
+specialinfo_1549=Hoàn thành 1 lần Đoạt Thư
+CanAcceptMenu_70641=<font face="Default" color="#ffffff" >Mừng Quốc Khánh 2/9 (Vận Tiêu)</font>
+CompleteMenu_70641=<font face="Default" color="#ffffff" >Hoàn thành</font>
+accept_70641_1=<font face="Default" color="#ffffff" >Hoàn thành 1 lần vận tiêu</font>
+complete_70641=<font face="Default" color="#ffffff" >Ừ, làm tốt lắm, đây là phần thưởng!</font>
+context_70641=Mừng Quốc Khánh 2/9
+menu_70641_1=<font face="Default" color="#ffffff" >Được</font>
+submit_70641=<font face="Default" color="#ffffff" >Đa tạ</font>
+target_70641=Hoàn thành 1 lần vận tiêu
+title_70641=Mừng Quốc Khánh 2/9 (Vận Tiêu)
+SubmitNpcEx_70641=Trò chuyện với Thương Nhân Thần Bí
+specialinfo_1550=Hoàn thành 1 lần vận tiêu
+CanAcceptMenu_70642=<font face="Default" color="#ffffff" >Mừng Quốc Khánh 2/9 (Cướp Tiêu)</font>
+CompleteMenu_70642=<font face="Default" color="#ffffff" >Hoàn thành</font>
+accept_70642_1=<font face="Default" color="#ffffff" >Hoàn thành 1 lần Cướp Tiêu</font>
+complete_70642=<font face="Default" color="#ffffff" >Ừ, làm tốt lắm, đây là phần thưởng!</font>
+context_70642=Mừng Quốc Khánh 2/9
+menu_70642_1=<font face="Default" color="#ffffff" >Được</font>
+submit_70642=<font face="Default" color="#ffffff" >Đa tạ</font>
+target_70642=Hoàn thành 1 lần Cướp Tiêu
+title_70642=Mừng Quốc Khánh 2/9 (Cướp Tiêu)
+SubmitNpcEx_70642=Trò chuyện với Thương Nhân Thần Bí
+specialinfo_1551=Hoàn thành 1 lần Cướp Tiêu
+CanAcceptMenu_70643=<font face="Default" color="#ffffff" >Mừng Quốc Khánh 2/9 (Độ sôi nổi mỗi ngày 100)</font>
+CompleteMenu_70643=<font face="Default" color="#ffffff" >Hoàn thành</font>
+accept_70643_1=<font face="Default" color="#ffffff" >Giao Mỹ Tửu Chúc Mừng x1 (Thời gian sự kiện mỗi ngày nhận được trong quà độ sôi nổi mỗi ngày)</font>
+complete_70643=<font face="Default" color="#ffffff" >Ừ, làm tốt lắm, đây là phần thưởng!</font>
+context_70643=Mừng Quốc Khánh 2/9
+menu_70643_1=<font face="Default" color="#ffffff" >Được</font>
+submit_70643=<font face="Default" color="#ffffff" >Đa tạ</font>
+target_70643=Giao Mỹ Tửu Chúc Mừng x1 (Thời gian sự kiện mỗi ngày nhận được trong quà độ sôi nổi mỗi ngày)
+title_70643=Mừng Quốc Khánh 2/9 (Độ sôi nổi mỗi ngày 100)
+DialogID_60957=<font face="Default" color="#ffffff" >Nhận được Mỹ Tửu Chúc Mừng x1</font>
+SubmitNpcEx_70643=Trò chuyện với Thương Nhân Thần Bí
+okmenu_60957=<font face="Default" color="#ffffff" >Giao Mỹ Tửu Chúc Mừng</font>
+interactinfo_60957=Trò chuyện với Thương Nhân Thần Bí
+CanAcceptMenu_70644=<font face="Default" color="#ffffff" >Mừng Quốc Khánh 2/9(Hào Kiệt Giang Hồ)</font>
+CompleteMenu_70644=<font face="Default" color="#ffffff" >Hoàn thành</font>
+accept_70644_1=<font face="Default" color="#ffffff" >Hoàn thành 1 lần Hào Kiệt Giang Hồ</font>
+complete_70644=<font face="Default" color="#ffffff" >Ừ, làm tốt lắm, đây là phần thưởng!</font>
+context_70644=Mừng Quốc Khánh 2/9
+menu_70644_1=<font face="Default" color="#ffffff" >Được</font>
+submit_70644=<font face="Default" color="#ffffff" >Đa tạ</font>
+target_70644=Hoàn thành 1 lần Hào Kiệt Giang Hồ
+title_70644=Mừng Quốc Khánh 2/9(Hào Kiệt Giang Hồ)
+SubmitNpcEx_70644=Trò chuyện với Thương Nhân Thần Bí
+specialinfo_1552=Hoàn thành 1 lần Hào Kiệt Giang Hồ
+haiwai_yzc_221027_kxxxr_001=Quà Tu Hành Nhập Học (Ngày thứ 1)
+haiwai_yzc_221027_kxxxr_002=Quà Tu Hành Nhập Học (Ngày thứ 2)
+haiwai_yzc_221027_kxxxr_003=Quà Tu Hành Nhập Học (Ngày thứ 3)
+haiwai_yzc_221027_kxxxr_004=Quà Tu Hành Nhập Học (Ngày thứ 4)
+haiwai_yzc_221027_kxxxr_005=Quà Tu Hành Nhập Học (Ngày thứ 5)
+haiwai_yzc_221027_kxxxr_006=Quà Tu Hành Nhập Học (Ngày thứ 6)
+haiwai_yzc_221027_kxxxr_007=Quà Tu Hành Nhập Học (Ngày thứ 7)
+haiwai_yzc_221027_kxxxr_008=Quà Tu Hành Nhập Học (Ngày thứ 8)
+haiwai_yzc_221027_kxxxr_009=Quà Tu Hành Nhập Học (Ngày thứ 9)
+haiwai_yzc_221027_kxxxr_010=Quà Tu Hành Nhập Học (Ngày thứ 10)
+haiwai_yzc_221027_kxxxr_011=Quà Tu Hành Nhập Học (Ngày thứ 11)
+haiwai_yzc_221027_kxxxr_012=Quà Tu Hành Nhập Học (Ngày thứ 12)
+haiwai_yzc_221027_kxxxr_013=Quà Tu Hành Nhập Học (Ngày thứ 13)
+haiwai_yzc_221027_kxxxr_014=Quà Tu Hành Nhập Học (Ngày thứ 14)
+haiwai_yzc_221027_kxxxr_015=Quà Tu Hành Nhập Học (Ngày thứ 15)
+haiwai_yzc_221027_kxxxr_029=Quà Tu Hành Nhập Học (Tích lũy 5 ngày)
+haiwai_yzc_221027_kxxxr_030=Quà Tu Hành Nhập Học (Tích lũy 10 ngày)
+haiwai_yzc_221027_kxxxr_031=Quà Tu Hành Nhập Học (Tích lũy 15 ngày)
+desc_haiwai_yzc_221027_kxxxr_001=Nhấp phải mở nhận được <font color="#FFFF00">Hoàng Tiên Lộ x2, Thúy Ngọc Nội Tu Đan x2</font>
+desc_haiwai_yzc_221027_kxxxr_002=Nhấp phải mở nhận được <font color="#FFFF00">Quyển Cán Tẩy x10, Quyển Tẩy Luyện Kỹ Năng Bảo Vật x10</font>
+desc_haiwai_yzc_221027_kxxxr_003=Nhấp phải mở nhận được <font color="#FFFF00">Hiệp Khách Lệnh x10, Thập Hương Phản Sinh Hoàn x5</font>
+desc_haiwai_yzc_221027_kxxxr_004=Nhấp phải mở nhận được <font color="#FFFF00">Tuyết Liên Đan x10, Hỗn Nguyên Dịch Cân Đan x10</font>
+desc_haiwai_yzc_221027_kxxxr_005=Nhấp phải mở nhận được <font color="#FFFF00">Bách Hiểu Binh Lục (Thượng) x2, Hy Thế Trân Bảo x2</font>
+desc_haiwai_yzc_221027_kxxxr_006=Nhấp phải mở nhận được <font color="#FFFF00">Ngũ Uẩn Phục Ma Phẩm x20, Phiếu Điểm Sôi Nổi [50 điểm] x1</font>
+desc_haiwai_yzc_221027_kxxxr_007=Nhấp phải mở nhận được <font color="#FFFF00">Phiếu Vàng Vạn Linh x5, Phiếu Điểm Sôi Nổi [50 điểm] x1</font>
+desc_haiwai_yzc_221027_kxxxr_008=Nhấp phải mở nhận được <font color="#FFFF00">Hoàng Tiên Lộ x2, Thúy Ngọc Nội Tu Đan x2</font>
+desc_haiwai_yzc_221027_kxxxr_009=Nhấp phải mở nhận được <font color="#FFFF00">Quyển Cán Tẩy x10, Quyển Tẩy Luyện Kỹ Năng Bảo Vật x10</font>
+desc_haiwai_yzc_221027_kxxxr_010=Nhấp phải mở nhận được <font color="#FFFF00">Hiệp Khách Lệnh x10, Thập Hương Phản Sinh Hoàn x5</font>
+desc_haiwai_yzc_221027_kxxxr_011=Nhấp phải mở nhận được <font color="#FFFF00">Tuyết Liên Đan x10 , Hỗn Nguyên Dịch Cân Đan x10</font>
+desc_haiwai_yzc_221027_kxxxr_012=Nhấp phải mở nhận được <font color="#FFFF00">Bách Hiểu Binh Lục (Thượng) x2, Hy Thế Trân Bảo x2</font>
+desc_haiwai_yzc_221027_kxxxr_013=Nhấp phải mở nhận được <font color="#FFFF00">Ngũ Uẩn Phục Ma Phẩm x20, Phiếu Điểm Sôi Nổi [50 điểm] x1</font>
+desc_haiwai_yzc_221027_kxxxr_014=Nhấp phải mở nhận được <font color="#FFFF00">Phiếu Vàng Vạn Linh x5, Phiếu Điểm Sôi Nổi [50 điểm] x1</font>
+desc_haiwai_yzc_221027_kxxxr_015=Nhấp phải mở nhận được <font color="#FFFF00">Hoàng Tiên Lộ x2, Thúy Ngọc Nội Tu Đan x2</font>
+desc_haiwai_yzc_221027_kxxxr_029=Nhấp phải mở nhận được <font color="#FFFF00">Hy Thế Trân Bảo x2</font>
+desc_haiwai_yzc_221027_kxxxr_030=Nhấp phải mở nhận được <font color="#FFFF00">Huyền Ngọc Phấn (Khóa) x1</font>
+desc_haiwai_yzc_221027_kxxxr_031=Nhấp phải mở nhận được <font color="#FFFF00">Bách Niên Tuyết Liên Quả x10, Môn Phái Thế Lực Nội Công Tham Ngộ Bản (14 ngày) x1</font>
+desc_haiwai_yzc_221027_kxxxr_001_1=Quà điểm danh ngày thứ 1 thành công nhận được
+desc_haiwai_yzc_221027_kxxxr_002_1=Quà điểm danh ngày thứ 2 thành công nhận được
+desc_haiwai_yzc_221027_kxxxr_003_1=Quà điểm danh ngày thứ 3 thành công nhận được
+desc_haiwai_yzc_221027_kxxxr_004_1=Quà điểm danh ngày thứ 4 thành công nhận được
+desc_haiwai_yzc_221027_kxxxr_005_1=Quà điểm danh ngày thứ 5 thành công nhận được
+desc_haiwai_yzc_221027_kxxxr_006_1=Quà điểm danh ngày thứ 6 thành công nhận được
+desc_haiwai_yzc_221027_kxxxr_007_1=Quà điểm danh ngày thứ 7 thành công nhận được
+desc_haiwai_yzc_221027_kxxxr_008_1=Quà điểm danh ngày thứ 8 thành công nhận được
+desc_haiwai_yzc_221027_kxxxr_009_1=Quà điểm danh ngày thứ 9 thành công nhận được
+desc_haiwai_yzc_221027_kxxxr_010_1=Quà điểm danh ngày thứ 10 thành công nhận được
+desc_haiwai_yzc_221027_kxxxr_011_1=Quà điểm danh ngày thứ 11 thành công nhận được
+desc_haiwai_yzc_221027_kxxxr_012_1=Quà điểm danh ngày thứ 12 thành công nhận được
+desc_haiwai_yzc_221027_kxxxr_013_1=Quà điểm danh ngày thứ 13 thành công nhận được
+desc_haiwai_yzc_221027_kxxxr_014_1=Quà điểm danh ngày thứ 14 thành công nhận được
+desc_haiwai_yzc_221027_kxxxr_015_1=Quà điểm danh ngày thứ 15 thành công nhận được
+desc_haiwai_yzc_221027_kxxxr_029_1=Tích lũy điểm danh đạt 5 ngày nhận được
+desc_haiwai_yzc_221027_kxxxr_030_1=Tích lũy điểm danh đạt 10 ngày nhận được
+desc_haiwai_yzc_221027_kxxxr_031_1=Tích lũy điểm danh đạt 15 ngày nhận được
+ui_aal_dctc=Mỗi lần đăng nhập hiện ra
+ui_rrg_ngwi_fc=Báo thù
+ui_rrg_ngwi_sx=Làm mới
+ui_rrg_ngwi_bh=Bang
+ui_rrg_ngwi_dj=Cấp
+ui_rrg_ngwi_rs=Số người
+ui_rrg_ngwi_sysj=Thời gian báo thù còn
+ui_rrg_ngwi_fcsc=Thời gian báo thù
+ui_rrg_ngwi_bhfc=Báo thù Bang
+ui_sss_ywsd=Tiệm Dạ Vương
+ui_kka_yfzc=Chiến Trường Vân Phong
+ui_kka_gzjs=Quy tắc
+ui_kka_bzwx=Võ học tuần này
+ui_wsbl_syy=Trang trước
+ui_wsbl_xyy=Trang sau
+ui_nffs_wxtg=Ngũ Hành Thiên Cung
+ui_dldl_mjjj=Kết cục Mộng Cảnh
+ui_kkwr_lkzc=Rời chiến trường
+ui_kkw_slsz=Cài đặt thực lực
+ui_haiwai_guild_war_join_wbm=Chưa báo danh
+ui_haiwai_guild_war_join_bbzj=Chiến tích Bang
+ui_haiwai_guild_war_join_grzj=Chiến tích cá nhân
+ui_haiwai_guild_war_join_zwxz=Chức vị thấp nhất của bang chúng: 
+ui_haiwai_guild_war_join_jmbz=Bang chúng
+ui_haiwai_guild_war_join_hydxz=Độ sôi nổi thấp nhất của bang chúng: 
+ui_haiwai_school_convert_mplx=Loại môn phái
+ui_haiwai_school_convert_dqmp=Môn phái hiện tại
+ui_haiwai_1024_gb=Tắt
+ui_haiwai_sk_bc=Lưu
+ui_haiwai_sggb_close=Đóng
+haiwai_221127_sdbx=Rương Giáng Sinh An Lành
+desc_haiwai_221127_sdbx=Mở ra có tỉ lệ nhận được Huyền Ngọc Phấn, Gói Nội Công, Quà Cổ Phổ, Thánh Hỏa Lệnh, Huyết Hải Ma Đao, PVC Bàn Long Đằng Diệm Cung, Tọa kỵ Bạch Long Câu.
+desc_haiwai_221127_sdbx_1=Nhấp phải mở.
+haiwai_221127_sdyc=Nghênh Xuân 2023
+desc_haiwai_221127_sdyc_0=Đạo cụ kỷ niệm, thu thập đủ số lượng đến NPC đại sứ Lâm Lương để đổi quà
+haiwai_221127_jm=Kim Miêu
+desc_haiwai_221127_jm_0=Đạo cụ sử dụng thẻ Nghênh Xuân 2023 để đổi. Dùng để đổi pvc tại tiệm NPC Lâm Lương
+item_title_4327=“Tôn hiệu VIP 10 Cửu Âm Chân Kinh”
+desc_item_title_4327=Đạo cụ tôn hiệu kỷ niệm VIP 10 game Cửu Âm Chân Kinh.<br> Thời hạn: Vĩnh viễn
+role_title_4327=Tôn hiệu VIP 10 Cửu Âm Chân Kinh
+item_title_4328=“Tôn hiệu VIP 10 Cửu Âm Chân Kinh”
+desc_item_title_4328=Đạo cụ tôn hiệu kỷ niệm VIP 10 game Cửu Âm Chân Kinh.<br> Thời hạn: Vĩnh viễn
+role_title_4328=Tôn hiệu VIP 10 Cửu Âm Chân Kinh
+buff_hw_22xr3=Người Tuyết Ban Phước 3
+desc_buff_hw_22xr3_0=Hiệu suất Nội Tu tăng 100%
+buff_hw_22xr4=Người Tuyết Ban Phước 4
+desc_buff_hw_22xr4_0=Hiệu suất Nội Tu tăng 200%
+buff_hw_22xr1=Người Tuyết Ban Phước 1
+desc_buff_hw_22xr1_0=Toàn thuộc tính+50
+buff_hw_22xr2=Người Tuyết Ban Phước 2
+desc_buff_hw_22xr2_0=Toàn thuộc tính tăng 20
+buff_hw_22xr5=Người Tuyết Ban Phước 5
+desc_buff_hw_22xr5_0=Tốc độ di chuyển tăng 5%
+buff_hw_22xr6=Người Tuyết Ban Phước 6
+desc_buff_hw_22xr6_0=Sát Thương Bạo Kích Nội Ngoại Công tăng 10%
+buff_hw_22xr7=Người Tuyết Ban Phước 7
+desc_buff_hw_22xr7_0=Tỉ lệ Bạo Kích+2%
+buff_hw_22xrjs=Cống hiến Người Tuyết
+desc_buff_hw_22xrjs_0=Lượt cống hiến
+
+haiwai_Christmasnpc_xr=Hiệp Sĩ Tuyết
+title_hw_xsxq2=Cống hiến 1 Bóng Tuyết (Mỗi ngày tối đa nhận được 5 lượt hiệu quả, vượt quá 5 lượt vẫn có thể cống hiến nhưng không thể nhận được hiệu quả.)
+title_hw_xsxq=Cống hiến Bóng Tuyết
+title_hw_xsxq1=Vui Noel
+
+CanAcceptMenu_70645=<font face="Default" color="#ffffff" >Đắp Người Tuyết (Cấm địa)</font>
+CompleteMenu_70645=<font face="Default" color="#ffffff" >Hoàn thành</font>
+accept_70645_1=<font face="Default" color="#ffffff" >Hoàn thành 1 lần cấm địa</font>
+complete_70645=<font face="Default" color="#ffffff" >Ừm, làm tốt lắm, đây là phần thưởng!</font>
+context_70645=Đắp Người Tuyết
+menu_70645_1=<font face="Default" color="#ffffff" >Được</font>
+submit_70645=<font face="Default" color="#ffffff" >Cảm ơn</font>
+target_70645=Hoàn thành 1 lần cấm địa
+title_70645=Đắp Người Tuyết (Cấm địa)
+SubmitNpcEx_70645=Trò chuyện với Thương Nhân Thần Bí
+specialinfo_1554=Hoàn thành 1 lần cấm địa
+
+CanAcceptMenu_70646=<font face="Default" color="#ffffff" >Đắp Người Tuyết (Tâm Ma)</font>
+CompleteMenu_70646=<font face="Default" color="#ffffff" >Hoàn thành</font>
+accept_70646_1=<font face="Default" color="#ffffff" >Hoàn thành 2 lần Tâm Ma</font>
+complete_70646=<font face="Default" color="#ffffff" >Ừm, làm tốt lắm, đây là phần thưởng!</font>
+context_70646=Đắp Người Tuyết
+menu_70646_1=<font face="Default" color="#ffffff" >Được</font>
+submit_70646=<font face="Default" color="#ffffff" >Cảm ơn</font>
+target_70646=Hoàn thành 2 lần Tâm Ma
+title_70646=Đắp Người Tuyết (Tâm Ma)
+SubmitNpcEx_70646=Trò chuyện với Thương Nhân Thần Bí
+specialinfo_1555=Hoàn thành 2 lần Tâm Ma
+
+CanAcceptMenu_70647=<font face="Default" color="#ffffff" >Đắp Người Tuyết (Đoạt Thư)</font>
+CompleteMenu_70647=<font face="Default" color="#ffffff" >Hoàn thành</font>
+accept_70647_1=<font face="Default" color="#ffffff" >Hoàn thành 1 lần Đoạt Thư</font>
+complete_70647=<font face="Default" color="#ffffff" >Ừm, làm tốt lắm, đây là phần thưởng!</font>
+context_70647=Đắp Người Tuyết
+menu_70647_1=<font face="Default" color="#ffffff" >Được</font>
+submit_70647=<font face="Default" color="#ffffff" >Cảm ơn</font>
+target_70647=Hoàn thành 1 lần Đoạt Thư
+title_70647=Đắp Người Tuyết (Đoạt Thư)
+SubmitNpcEx_70647=Trò chuyện với Thương Nhân Thần Bí
+specialinfo_1556=Hoàn thành 1 lần Đoạt Thư
+
+CanAcceptMenu_70648=<font face="Default" color="#ffffff" >Đắp Người Tuyết (Cướp Tiêu)</font>
+CompleteMenu_70648=<font face="Default" color="#ffffff" >Hoàn thành</font>
+accept_70648_1=<font face="Default" color="#ffffff" >Hoàn thành 10 lần cướp tiêu</font>
+complete_70648=<font face="Default" color="#ffffff" >Ừm, làm tốt lắm, đây là phần thưởng!</font>
+context_70648=Đắp Người Tuyết
+menu_70648_1=<font face="Default" color="#ffffff" >Được</font>
+submit_70648=<font face="Default" color="#ffffff" >Cảm ơn</font>
+target_70648=Hoàn thành 10 lần cướp tiêu
+title_70648=Đắp Người Tuyết (Cướp Tiêu)
+SubmitNpcEx_70648=Trò chuyện với Thương Nhân Thần Bí
+specialinfo_1557=Hoàn thành 10 lần cướp tiêu
+
+CanAcceptMenu_70649=<font face="Default" color="#ffffff" >Đắp Người Tuyết (Vận tiêu)</font>
+CompleteMenu_70649=<font face="Default" color="#ffffff" >Hoàn thành</font>
+accept_70649_1=<font face="Default" color="#ffffff" >Hoàn thành 10 lần vận tiêu</font>
+complete_70649=<font face="Default" color="#ffffff" >Ừm, làm tốt lắm, đây là phần thưởng!</font>
+context_70649=Đắp Người Tuyết
+menu_70649_1=<font face="Default" color="#ffffff" >Được</font>
+submit_70649=<font face="Default" color="#ffffff" >Cảm ơn</font>
+target_70649=Hoàn thành 10 lần vận tiêu
+title_70649=Đắp Người Tuyết (Vận tiêu)
+SubmitNpcEx_70649=Trò chuyện với Thương Nhân Thần Bí
+specialinfo_1558=Hoàn thành 10 lần vận tiêu
+
+CanAcceptMenu_70650=<font face="Default" color="#ffffff" >Đắp Người Tuyết (Độ sôi nổi mỗi ngày 50)</font>
+CompleteMenu_70650=<font face="Default" color="#ffffff" >Hoàn thành</font>
+accept_70650_1=<font face="Default" color="#ffffff" >Giao 1 Ngôi Sao Giáng Sinh (Trong thời gian sự kiện nhận được trong Quà Độ Sôi Nổi Ngày)</font>
+complete_70650=<font face="Default" color="#ffffff" >Ừm, làm tốt lắm, đây là phần thưởng!</font>
+context_70650=Đắp Người Tuyết
+menu_70650_1=<font face="Default" color="#ffffff" >Được</font>
+submit_70650=<font face="Default" color="#ffffff" >Cảm ơn</font>
+target_70650=Giao 1 Ngôi Sao Giáng Sinh(Trong thời gian sự kiện nhận được trong Quà Độ Sôi Nổi Ngày)
+title_70650=Đắp Người Tuyết (Độ sôi nổi mỗi ngày 50)
+DialogID_60958=<font face="Default" color="#ffffff" >Nhận được 1 Ngôi Sao Giáng Sinh</font>
+SubmitNpcEx_70650=Trò chuyện với Thương Nhân Thần Bí
+okmenu_60958=<font face="Default" color="#ffffff" >Giao Ngôi Sao Giáng Sinh</font>
+interactinfo_60958=Trò chuyện với Thương Nhân Thần Bí
+
+CanAcceptMenu_70651=<font face="Default" color="#ffffff" >Đắp Người Tuyết (Độ sôi nổi mỗi ngày 75)</font>
+CompleteMenu_70651=<font face="Default" color="#ffffff" >Hoàn thành</font>
+accept_70651_1=<font face="Default" color="#ffffff" >Giao 1 Bóng Giáng Sinh (Trong thời gian sự kiện nhận được trong Quà Độ Sôi Nổi Ngày)</font>
+complete_70651=<font face="Default" color="#ffffff" >Ừm, làm tốt lắm, đây là phần thưởng!</font>
+context_70651=Đắp Người Tuyết
+menu_70651_1=<font face="Default" color="#ffffff" >Được</font>
+submit_70651=<font face="Default" color="#ffffff" >Cảm ơn</font>
+target_70651=Giao 1 Bóng Giáng Sinh(Trong thời gian sự kiện nhận được trong Quà Độ Sôi Nổi Ngày)
+title_70651=Đắp Người Tuyết (Độ sôi nổi mỗi ngày 75)
+DialogID_60959=<font face="Default" color="#ffffff" >Nhận 1 Bóng Giáng Sinh</font>
+SubmitNpcEx_70651=Trò chuyện với Thương Nhân Thần Bí
+okmenu_60959=<font face="Default" color="#ffffff" >Giao Bóng Giáng Sinh</font>
+interactinfo_60959=Trò chuyện với Thương Nhân Thần Bí
+
+CanAcceptMenu_70652=<font face="Default" color="#ffffff" >Đắp Người Tuyết (Chiến Trường Ác Nhân Cốc)</font>
+CompleteMenu_70652=<font face="Default" color="#ffffff" >Hoàn thành</font>
+accept_70652_1=<font face="Default" color="#ffffff" >Hoàn thành 1 lần Chiến Trường Ác Nhân Cốc</font>
+complete_70652=<font face="Default" color="#ffffff" >Ừm, làm tốt lắm, đây là phần thưởng!</font>
+context_70652=Đắp Người Tuyết
+menu_70652_1=<font face="Default" color="#ffffff" >Được</font>
+submit_70652=<font face="Default" color="#ffffff" >Cảm ơn</font>
+target_70652=Hoàn thành 1 lần Chiến Trường Ác Nhân Cốc
+title_70652=Đắp Người Tuyết (Chiến Trường Ác Nhân Cốc)
+SubmitNpcEx_70652=Trò chuyện với Thương Nhân Thần Bí
+specialinfo_1559=Hoàn thành 1 lần Chiến Trường Ác Nhân Cốc
+
+CanAcceptMenu_70653=<font face="Default" color="#ffffff" >Đắp Người Tuyết (Thông Thiên Phong)</font>
+CompleteMenu_70653=<font face="Default" color="#ffffff" >Hoàn thành</font>
+accept_70653_1=<font face="Default" color="#ffffff" >Hoàn thành 1 lần Thông Thiên Phong</font>
+complete_70653=<font face="Default" color="#ffffff" >Ừm, làm tốt lắm, đây là phần thưởng!</font>
+context_70653=Đắp Người Tuyết
+menu_70653_1=<font face="Default" color="#ffffff" >Được</font>
+submit_70653=<font face="Default" color="#ffffff" >Cảm ơn</font>
+target_70653=Hoàn thành 1 lần Thông Thiên Phong
+title_70653=Đắp Người Tuyết (Thông Thiên Phong)
+SubmitNpcEx_70653=Trò chuyện với Thương Nhân Thần Bí
+specialinfo_1560=Hoàn thành 1 lần Thông Thiên Phong
+
+CanAcceptMenu_70654=<font face="Default" color="#ffffff" >Đắp Người Tuyết (Độ sôi nổi mỗi ngày 100)</font>
+CompleteMenu_70654=<font face="Default" color="#ffffff" >Hoàn thành</font>
+accept_70654_1=<font face="Default" color="#ffffff" >Giao 1 Chuông Giáng Sinh (Trong thời gian sự kiện nhận được trong Quà Độ Sôi Nổi Ngày)</font>
+complete_70654=<font face="Default" color="#ffffff" >Ừm, làm tốt lắm, đây là phần thưởng!</font>
+context_70654=Đắp Người Tuyết
+menu_70654_1=<font face="Default" color="#ffffff" >Được</font>
+submit_70654=<font face="Default" color="#ffffff" >Cảm ơn</font>
+target_70654=Giao 1 Chuông Giáng Sinh (Trong thời gian sự kiện nhận được trong Quà Độ Sôi Nổi Ngày)
+title_70654=Đắp Người Tuyết (Độ sôi nổi mỗi ngày 100)
+DialogID_60960=<font face="Default" color="#ffffff" >Nhận được 1 Chuông Giáng Sinh</font>
+SubmitNpcEx_70654=Trò chuyện với Thương Nhân Thần Bí
+okmenu_60960=<font face="Default" color="#ffffff" >Giao Chuông Giáng Sinh</font>
+interactinfo_60960=Trò chuyện với Thương Nhân Thần Bí
+
+CanAcceptMenu_70655=<font face="Default" color="#ffffff" >Đắp Người Tuyết (Hào Kiệt Giang Hồ)</font>
+CompleteMenu_70655=<font face="Default" color="#ffffff" >Hoàn thành</font>
+accept_70655_1=<font face="Default" color="#ffffff" >Hoàn thành 5 lần Hào Kiệt Giang Hồ</font>
+complete_70655=<font face="Default" color="#ffffff" >Ừm, làm tốt lắm, đây là phần thưởng!</font>
+context_70655=Đắp Người Tuyết
+menu_70655_1=<font face="Default" color="#ffffff" >Được</font>
+submit_70655=<font face="Default" color="#ffffff" >Cảm ơn</font>
+target_70655=Hoàn thành 5 lần Hào Kiệt Giang Hồ
+title_70655=Đắp Người Tuyết (Hào Kiệt Giang Hồ)
+SubmitNpcEx_70655=Trò chuyện với Thương Nhân Thần Bí
+specialinfo_1561=Hoàn thành 5 lần Hào Kiệt Giang Hồ
+haiwai_221129_sdmz=Mũ Giáng Sinh
+desc_haiwai_221129_sdmz_0=Mũ Giáng Sinh tinh xảo, có thể đến Thương Nhân Thần Bí Tô Châu (406,598) đổi quà
+haiwai_221129_sdwj=Khăn Quàng Cổ
+desc_haiwai_221129_sdwj_0=Khăn Quàng Cổ tinh xảo, có thể đến Thương Nhân Thần Bí Tô Châu (406,598) đổi quà
+haiwai_221129_sdmt=Gỗ
+desc_haiwai_221129_sdmt_0=Gỗ dùng ngày lễ, có thể đến Thương Nhân Thần Bí Tô Châu (406,598) đổi quà
+haiwai_221129_xrsp=Mảnh Người Tuyết
+desc_haiwai_221129_xrsp_0=Có thể đến Thương Nhân Thần Bí Tô Châu (406,598) đổi quà
+haiwai_221129_sdxq=Bóng Tuyết
+desc_haiwai_221129_sdxq_0=Có thể đến Hiệp Sĩ Tuyết Tô Châu (449,805) tiến hành cống hiến
+haiwai_221129_xxr=Tiểu Tuyết Nhân
+desc_haiwai_221129_xxr_1=Nhấp phải mở
+desc_haiwai_221129_xxr=Dùng xong có thể nhận quà giáng sinh
+haiwai_221129_sds=Cây Giáng Sinh
+desc_haiwai_221129_sds_1=Nhấp phải mở
+desc_haiwai_221129_sds=Dùng xong có thể nhận quà giáng sinh tuyệt đẹp
+haiwai_221129_xrzl=Quà Tặng Người Tuyết
+desc_haiwai_221129_xrzl_1=Nhấp phải mở
+desc_haiwai_221129_xrzl=Sở hữu vật này có thể nhận được vật liệu Người Tuyết
+haiwai_221127_sdbx=Rương Giáng Sinh An Lành
+desc_haiwai_221127_sdbx_1=Nhấp phải mở
+desc_haiwai_221127_sdbx=Mở ra có tỉ lệ nhận được Huyền Ngọc Phấn, Gói Nội Công, Quà Cổ Phổ, Thánh Hỏa Lệnh, Huyết Hải Ma Đao, PVC Bàn Long Đằng Diệm Cung, Tọa kỵ Bạch Long Câu.
+haiwai_221127_sdyc=Nghênh Xuân 2023
+desc_haiwai_221127_sdyc_0=Đạo cụ kỷ niệm, thu thập đủ số lượng đến NPC đại sứ Lâm Lương để đổi quà
+haiwai_221127_jm=Kim Miêu
+desc_haiwai_221127_jm_0=Đạo cụ sử dụng thẻ Nghênh Xuân 2023 để đổi. Dùng để đổi pvc tại tiệm NPC Lâm Lương
+haiwai_230221_zzbh=Chí Tôn Bảo Hạp
+desc_haiwai_230221_zzbh_1=Nhấp phải mở
+desc_haiwai_230221_zzbh=Mở ra có tỉ lệ nhận được Huyền Ngọc Phấn, Gói Nội Công, Quà Cổ Phổ, Thánh Hỏa Lệnh, Huyết Hải Ma Đao, PVC Bàn Long Đằng Diệm Cung, Tọa kỵ Bạch Long Câu.
+item_title_4329=“Cửu Âm Là Nhà”
+desc_item_title_4329=Tôn hiệu kỉ niệm sinh nhật 10 năm Cửu Âm Chân Kinh
+role_title_4329=Cửu Âm Là Nhà
+CanAcceptMenu_80522=<font face="Default" color="#ffffff" >Mừng Quốc Khánh (Cấm địa)</font>
+CompleteMenu_80522=<font face="Default" color="#ffffff" >Hoàn thành</font>
+accept_80522_1=<font face="Default" color="#ffffff" >Hoàn thành 1 lần cấm địa</font>
+complete_80522=<font face="Default" color="#ffffff" >Ừm, làm tốt lắm, đây là phần thưởng!</font>
+context_80522=Mừng Quốc Khánh
+menu_80522_1=<font face="Default" color="#ffffff" >Được</font>
+submit_80522=<font face="Default" color="#ffffff" >Cảm ơn</font>
+target_80522=Hoàn thành 1 lần cấm địa
+title_80522=Mừng Quốc Khánh (Cấm địa)
+SubmitNpcEx_80522=Trò chuyện với Thương Nhân Thần Bí
+specialinfo_1566=Hoàn thành 1 lần cấm địa
+
+CanAcceptMenu_80523=<font face="Default" color="#ffffff" >Mừng Quốc Khánh (Đập Trứng)</font>
+CompleteMenu_80523=<font face="Default" color="#ffffff" >Hoàn thành</font>
+accept_80523_1=<font face="Default" color="#ffffff" >Hoàn thành đập vỡ 10 Quả Trứng bất kỳ</font>
+complete_80523=<font face="Default" color="#ffffff" >Ừm, làm tốt lắm, đây là phần thưởng!</font>
+context_80523=Mừng Quốc Khánh
+menu_80523_1=<font face="Default" color="#ffffff" >Được</font>
+submit_80523=<font face="Default" color="#ffffff" >Cảm ơn</font>
+target_80523=Hoàn thành đập vỡ 10 Quả Trứng bất kỳ
+title_80523=Mừng Quốc Khánh (Đập Trứng)
+SubmitNpcEx_80523=Trò chuyện với Thương Nhân Thần Bí
+specialinfo_1567=Hoàn thành đập vỡ 10 Quả Trứng bất kỳ
+
+CanAcceptMenu_80524=<font face="Default" color="#ffffff" >Mừng Quốc Khánh (Hào Kiệt Giang Hồ)</font>
+CompleteMenu_80524=<font face="Default" color="#ffffff" >Hoàn thành</font>
+accept_80524_1=<font face="Default" color="#ffffff" >Hoàn thành 5 lần Hào Kiệt Giang Hồ</font>
+complete_80524=<font face="Default" color="#ffffff" >Ừm, làm tốt lắm, đây là phần thưởng!</font>
+context_80524=Mừng Quốc Khánh
+menu_80524_1=<font face="Default" color="#ffffff" >Được</font>
+submit_80524=<font face="Default" color="#ffffff" >Cảm ơn</font>
+target_80524=Hoàn thành 5 lần Hào Kiệt Giang Hồ
+title_80524=Mừng Quốc Khánh (Hào Kiệt Giang Hồ)
+SubmitNpcEx_80524=Trò chuyện với Thương Nhân Thần Bí
+specialinfo_1568=Hoàn thành 5 lần Hào Kiệt Giang Hồ
+
+CanAcceptMenu_80525=<font face="Default" color="#ffffff" >Mừng Quốc Khánh (Tâm Ma)</font>
+CompleteMenu_80525=<font face="Default" color="#ffffff" >Hoàn thành</font>
+accept_80525_1=<font face="Default" color="#ffffff" >Hoàn thành 2 lần Tâm Ma</font>
+complete_80525=<font face="Default" color="#ffffff" >Ừ, làm tốt lắm, đây là phần thưởng!</font>
+context_80525=Mừng Quốc Khánh
+menu_80525_1=<font face="Default" color="#ffffff" >Được</font>
+submit_80525=<font face="Default" color="#ffffff" >Cảm ơn</font>
+target_80525=Hoàn thành 2 lần Tâm Ma
+title_80525=Mừng Quốc Khánh (Tâm Ma)
+SubmitNpcEx_80525=Trò chuyện với Thương Nhân Thần Bí
+specialinfo_1569=Hoàn thành 2 lần Tâm Ma
+
+CanAcceptMenu_80526=<font face="Default" color="#ffffff" >Mừng Quốc Khánh (Cướp Tiêu)</font>
+CompleteMenu_80526=<font face="Default" color="#ffffff" >Hoàn thành</font>
+accept_80526_1=<font face="Default" color="#ffffff" >Hoàn thành 5 lần cướp tiêu</font>
+complete_80526=<font face="Default" color="#ffffff" >Ừ, làm tốt lắm, đây là phần thưởng!</font>
+context_80526=Mừng Quốc Khánh
+menu_80526_1=<font face="Default" color="#ffffff" >Được</font>
+submit_80526=<font face="Default" color="#ffffff" >Cảm ơn</font>
+target_80526=Hoàn thành 5 lần cướp tiêu
+title_80526=Mừng Quốc Khánh (Cướp Tiêu)
+SubmitNpcEx_80526=Trò chuyện với Thương Nhân Thần Bí
+specialinfo_1570=Hoàn thành 5 lần cướp tiêu
+
+CanAcceptMenu_80527=<font face="Default" color="#ffffff" >Mừng Quốc Khánh (Đoạt Thư)</font>
+CompleteMenu_80527=<font face="Default" color="#ffffff" >Hoàn thành</font>
+accept_80527_1=<font face="Default" color="#ffffff" >Hoàn thành 1 lần đoạt thư</font>
+complete_80527=<font face="Default" color="#ffffff" >Ừ, làm tốt lắm, đây là phần thưởng!</font>
+context_80527=Mừng Quốc Khánh
+menu_80527_1=<font face="Default" color="#ffffff" >Được</font>
+submit_80527=<font face="Default" color="#ffffff" >Cảm ơn</font>
+target_80527=Hoàn thành 1 lần đoạt thư
+title_80527=Mừng Quốc Khánh (Đoạt Thư)
+SubmitNpcEx_80527=Trò chuyện với Thương Nhân Thần Bí
+specialinfo_1571=Hoàn thành 1 lần đoạt thư
+
+CanAcceptMenu_80528=<font face="Default" color="#ffffff" >Mừng Quốc Khánh (Hộ Thư)</font>
+CompleteMenu_80528=<font face="Default" color="#ffffff" >Hoàn thành</font>
+accept_80528_1=<font face="Default" color="#ffffff" >Hoàn thành 1 lần hộ thư</font>
+complete_80528=<font face="Default" color="#ffffff" >Ừ, làm tốt lắm, đây là phần thưởng!</font>
+context_80528=Mừng Quốc Khánh
+menu_80528_1=<font face="Default" color="#ffffff" >Được</font>
+submit_80528=<font face="Default" color="#ffffff" >Cảm ơn</font>
+target_80528=Hoàn thành 1 lần hộ thư
+title_80528=Mừng Quốc Khánh (Hộ Thư)
+SubmitNpcEx_80528=Trò chuyện với Thương Nhân Thần Bí
+specialinfo_1572=Hoàn thành 1 lần hộ thư
+
+
+CanAcceptMenu_80529=<font face="Default" color="#ffffff" >Mừng Quốc Khánh (Chiến Trường Ác Nhân Cốc)</font>
+CompleteMenu_80529=<font face="Default" color="#ffffff" >Hoàn thành</font>
+accept_80529_1=<font face="Default" color="#ffffff" >Hoàn thành 1 lần Chiến Trường Ác Nhân Cốc</font>
+complete_80529=<font face="Default" color="#ffffff" >Ừ, làm tốt lắm, đây là phần thưởng!</font>
+context_80529=Mừng Quốc Khánh
+menu_80529_1=<font face="Default" color="#ffffff" >Được</font>
+submit_80529=<font face="Default" color="#ffffff" >Cảm ơn</font>
+target_80529=Hoàn thành 1 lần Chiến Trường Ác Nhân Cốc
+title_80529=Mừng Quốc Khánh (Chiến Trường Ác Nhân Cốc)
+SubmitNpcEx_80529=Trò chuyện với Thương Nhân Thần Bí
+specialinfo_1573=Hoàn thành 1 lần Chiến Trường Ác Nhân Cốc
+
+CanAcceptMenu_80530=<font face="Default" color="#ffffff" >Mừng Quốc Khánh (Thông Thiên Phong)</font>
+CompleteMenu_80530=<font face="Default" color="#ffffff" >Hoàn thành</font>
+accept_80530_1=<font face="Default" color="#ffffff" >Hoàn thành 1 lần Thông Thiên Phong</font>
+complete_80530=<font face="Default" color="#ffffff" >Ừ, làm tốt lắm, đây là phần thưởng!</font>
+context_80530=Mừng Quốc Khánh
+menu_80530_1=<font face="Default" color="#ffffff" >Được</font>
+submit_80530=<font face="Default" color="#ffffff" >Cảm ơn</font>
+target_80530=Hoàn thành 1 lần Thông Thiên Phong
+title_80530=Mừng Quốc Khánh (Thông Thiên Phong)
+SubmitNpcEx_80530=Trò chuyện với Thương Nhân Thần Bí
+specialinfo_1574=Hoàn thành 1 lần Thông Thiên Phong
+
+CanAcceptMenu_80531=<font face="Default" color="#ffffff" >Mừng Quốc Khánh (Thanh Vân Bảo (Đăng Phong Tạo Cực) )</font>
+CompleteMenu_80531=<font face="Default" color="#ffffff" >Hoàn thành</font>
+accept_80531_1=<font face="Default" color="#ffffff" >Hoàn thành 1 lần Thanh Vân Bảo (Đăng Phong Tạo Cực)</font>
+complete_80531=<font face="Default" color="#ffffff" >Ừ, làm tốt lắm, đây là phần thưởng!</font>
+context_80531=Mừng Quốc Khánh
+menu_80531_1=<font face="Default" color="#ffffff" >Được</font>
+submit_80531=<font face="Default" color="#ffffff" >Cảm ơn</font>
+target_80531=Hoàn thành 1 lần Thanh Vân Bảo (Đăng Phong Tạo Cực)
+title_80531=Mừng Quốc Khánh (Thanh Vân Bảo (Đăng Phong Tạo Cực) )
+SubmitNpcEx_80531=Trò chuyện với Thương Nhân Thần Bí
+specialinfo_1575=Hoàn thành 1 lần Thanh Vân Bảo (Đăng Phong Tạo Cực)
+
+haiwai_yzc230829_q=Mừng
+desc_haiwai_yzc230829_q_0=Đạo cụ đổi quà ở Thương Nhân Thần Bí Tô Châu (406,598)
+haiwai_yzc230829_g=Lễ
+desc_haiwai_yzc230829_g_0=Đạo cụ đổi quà ở Thương Nhân Thần Bí Tô Châu (406,598)
+haiwai_yzc230829_gq=Quốc Khánh
+desc_haiwai_yzc230829_gq_0=Đạo cụ đổi quà ở Thương Nhân Thần Bí Tô Châu (406,598)
+haiwai_yzc230829_x=Trái Tim
+desc_haiwai_yzc230829_x_0=Đạo cụ đổi quà ở Thương Nhân Thần Bí Tô Châu (406,598)
+haiwai_yzc230829_gqb=Túi Thu Thập Quốc Khánh
+desc_haiwai_yzc230829_gqb_1=Nhấp phải mở
+desc_haiwai_yzc230829_gqb=Túi Thu Thập Quốc Khánh, dùng xong nhận được quà quốc khánh
+haiwai_yzc230829_gqlbx=Quà Quốc Khánh (Nhỏ)
+desc_haiwai_yzc230829_gqlbx_1=Nhấp phải mở
+desc_haiwai_yzc230829_gqlbx=Mở ra có tỉ lệ nhận được Mảnh Phỉ Thúy, Huyền Ngọc Phấn, Nội Công, Thẻ Đổi PVC Chí Tôn, PVC Tọa kỵ
+haiwai_yzc230829_gqlbd=Quà Quốc Khánh (Lớn)
+desc_haiwai_yzc230829_gqlbd_0=Nhấp phải mở
+desc_haiwai_yzc230829_gqlbd=Mở ra có tỉ lệ nhận được Bệ Rèn, Võ Học, Thẻ Đổi PVC 2 Sao
+
+ui_haiwai_mm_sypj=Phản Quân còn
+ui_haiwai_mm_xzxs=Tìm manh mối
+ui_haiwai_smi_wxjs=Giới thiệu võ học
+ui_haiwai_she_dqsf=Danh phận hiện tại: 
+ui_haiwai_ccc_ph=Xếp hạng
+ui_haiwai_mmhpw_tzsysj=<s><s><s>Thời gian khiêu chiến còn {@0:value}s
+ui_haiwai_mmhpw_jpsm=Đấu giá Kim Long Kỳ Phổ, nếu thành công nhận được Kim Long Kỳ Phổ có thể tu luyện Thánh Mai Bí Quyết (Cổ phổ)<br>Chọn biên độ tăng giá để ra giá đấu Kim Long Kỳ Phổ<br>Tăng giá trên 1 đĩnh, sẽ dựa vào tỉ lệ nhất định để phát lì xì cho người tham gia sự kiện<br>(Số lượng lì xì có hạn, hãy nhanh tay nhận)
+ui_haiwai_mmhpw_zbjd=Giai đoạn chuẩn bị
+ui_haiwai_tpntl_qw=Đến
+ui_haiwai_gawgawe_wdpm=Xếp hạng Bang của tôi
+ui_haiwai_zzt_lq=Nhận
+ui_haiwai_zzt_dkjm=Mở giao diện
+ui_haiwai_zzt_secxjl=Thưởng 12 Con Giáp
+ui_haiwai_zzt_secxkq=Mở 12 Con Giáp
+ui_haiwai_mbtb_js=Giảm tốc
+ui_haiwai_mbtb_jqg=Cấm khinh công
+ui_haiwai_mbtb_ds=Định thân
+ui_haiwai_mbtb_jx=Chước giới
+ui_haiwai_mbtb_fz=Phong chiêu
+ui_haiwai_mbtb_hm=Hôn mê
+ui_haiwai_mbtb_jwhl=Phím rối loạn
+ui_panghangbang=BXH
+haiwai_yzc240312_kun=Côn
+desc_haiwai_yzc240312_kun_0=Đạo cụ đổi quà ở Thương Nhân Thần Bí Tô Châu (406,598)
+haiwai_yzc240312_lun=Luân
+desc_haiwai_yzc240312_lun_0=Đạo cụ đổi quà ở Thương Nhân Thần Bí Tô Châu (406,598)
+haiwai_yzc240312_da=Đại
+desc_haiwai_yzc240312_da_0=Đạo cụ đổi quà ở Thương Nhân Thần Bí Tô Châu (406,598)
+haiwai_yzc240312_zhan=Chiến
+desc_haiwai_yzc240312_zhan_0=Đạo cụ đổi quà ở Thương Nhân Thần Bí Tô Châu (406,598)
+
+haiwai_yzc240312_klcl=Quà Mừng Phiên Bản Mới
+desc_haiwai_yzc240312_klcl_1=Nhấp phải mở
+desc_haiwai_yzc240312_klcl=Dùng xong nhận được phần thưởng thần bí.
+haiwai_yzc240312_kldzx=Quà Côn Luân Đại Chiến Nhỏ
+desc_haiwai_yzc240312_kldzx_1=Nhấp phải mở
+desc_haiwai_yzc240312_kldzx=Mở ra có tỉ lệ nhận được Bệ Rèn, Võ Học, Thẻ Đổi PVC 2 Sao
+haiwai_yzc240312_kldzd=Quà Côn Luân Đại Chiến Lớn
+desc_haiwai_yzc240312_kldzd=Nhấp phải mở
+desc_haiwai_yzc240312_kldzd_0=Mở ra có tỉ lệ nhận được Mảnh Phỉ Thúy, Huyền Ngọc Phấn, Nội Công, Thẻ Đổi PVC Chí Tôn, PVC Tọa kỵ
+
+haiwai_yzc240312_qxlp=Lệnh Bài Mừng Phiên Bản
+desc_haiwai_yzc240312_qxlp_0=Có thể đến chỗ Thượng Võ Tô Châu (391,769) tiến hành đổi
+haiwai_yzc240313_qxlb01=Quà Phong Vật Chí Mừng PBM 1
+desc_haiwai_yzc240313_qxlb01_1=Nhấp phải mở
+desc_haiwai_yzc240313_qxlb01=Dùng xong nhận được Quà Uyên Ương Song Đao Tiêu (Khóa), Quà Ngự Thiên Cái Thế (Khóa).
+haiwai_yzc240313_qxlb02=Quà Phong Vật Chí Mừng PBM 2
+desc_haiwai_yzc240313_qxlb02_1=Nhấp phải mở
+desc_haiwai_yzc240313_qxlb02=Dùng xong nhận được Quà Tử Phong Thác Kim Kiếm (Khóa), Quà Ngọc Dung (Khóa).
+haiwai_yzc240313_qxlb03=Quà Phong Vật Chí Mừng PBM 3
+desc_haiwai_yzc240313_qxlb03_1=Nhấp phải mở
+desc_haiwai_yzc240313_qxlb03=Dùng xong nhận được Quà Bách Thắng Đao Tiêu (Khóa), Quà Khổng Tước Linh-Doanh (Khóa).
+haiwai_yzc240313_qxlb04=Quà Phong Vật Chí Mừng PBM 4
+desc_haiwai_yzc240313_qxlb04_1=Nhấp phải mở
+desc_haiwai_yzc240313_qxlb04=Dùng xong nhận được Quà Thiên Hạ Đệ Nhất (Khóa), Quà Li Hồn Châu Ảnh - Phản (Khóa).
+haiwai_yzc240313_qxlb05=Quà Phong Vật Chí Mừng PBM 5
+desc_haiwai_yzc240313_qxlb05_1=Nhấp phải mở
+desc_haiwai_yzc240313_qxlb05=Dùng xong nhận được Quà Lưu Vân Đình Lạc Tuyết (Khóa), Quà Bất Tri Phong Nguyệt-Hạo (Khóa).
+haiwai_yzc240313_qxlb06=Quà Phong Vật Chí Mừng PBM 6
+desc_haiwai_yzc240313_qxlb06_1=Nhấp phải mở
+desc_haiwai_yzc240313_qxlb06=Dùng xong nhận được Quà Bộ Bán Nguyệt Kích (khóa), Quà Hồ Diện-Hỏa (Khóa).
+haiwai_yzc240313_qxlb07=Quà Phong Vật Chí Mừng PBM 7
+desc_haiwai_yzc240313_qxlb07_1=Nhấp phải mở
+desc_haiwai_yzc240313_qxlb07=Dùng xong nhận được Quà Như Ý Tử (Khóa), Quà Phù Sinh U Mộng-Vong Xuyên (Khóa).
+
+haiwai_yzc240313_fwz01=Quà Uyên Ương Song Đao Tiêu (Khóa)
+desc_haiwai_yzc240313_fwz01_1=Nhấp phải mở
+desc_haiwai_yzc240313_fwz01=Dùng xong nhận được phong vật chí khóa Uyên Ương Song Đao Tiêu.
+haiwai_yzc240313_fwz02=Quà Ngự Thiên Cái Thế (Khóa)
+desc_haiwai_yzc240313_fwz02_1=Nhấp phải mở
+desc_haiwai_yzc240313_fwz02=Dùng xong nhận được phong vật chí khóa Ngự Thiên Cái Thế.
+haiwai_yzc240313_fwz03=Quà Tử Phong Thác Kim Kiếm (Khóa)
+desc_haiwai_yzc240313_fwz03_1=Nhấp phải mở
+desc_haiwai_yzc240313_fwz03=Dùng xong nhận được phong vật chí khóa Tử Phong Thác Kim Kiếm.
+haiwai_yzc240313_fwz04=Quà Ngọc Dung (Khóa)
+desc_haiwai_yzc240313_fwz04_1=Nhấp phải mở
+desc_haiwai_yzc240313_fwz04=Dùng xong nhận được phong vật chí khóa Ngọc Dung.
+haiwai_yzc240313_fwz05=Quà Bách Thắng Đao Tiêu (Khóa)
+desc_haiwai_yzc240313_fwz05_1=Nhấp phải mở
+desc_haiwai_yzc240313_fwz05=Dùng xong nhận được phong vật chí khóa Bách Thắng Đao Tiêu.
+haiwai_yzc240313_fwz06=Quà Khổng Tước Linh-Doanh (Khóa)
+desc_haiwai_yzc240313_fwz06_1=Nhấp phải mở
+desc_haiwai_yzc240313_fwz06=Dùng xong nhận được phong vật chí khóa Khổng Tước Linh-Doanh.
+haiwai_yzc240313_fwz07=Quà Thiên Hạ Đệ Nhất (Khóa) 
+desc_haiwai_yzc240313_fwz07_1=Nhấp phải mở
+desc_haiwai_yzc240313_fwz07=Dùng xong nhận được phong vật chí khóa Thiên Hạ Đệ Nhất.
+haiwai_yzc240313_fwz08=Quà Li Hồn Châu Ảnh - Phản (Khóa)
+desc_haiwai_yzc240313_fwz08_1=Nhấp phải mở
+desc_haiwai_yzc240313_fwz08=Dùng xong nhận được phong vật chí khóa Li Hồn Châu Ảnh - Phản.
+haiwai_yzc240313_fwz09=Quà Lưu Vân Đình Lạc Tuyết (Khóa)
+desc_haiwai_yzc240313_fwz09_1=Nhấp phải mở
+desc_haiwai_yzc240313_fwz09=Dùng xong nhận được phong vật chí khóa Lưu Vân Đình Lạc Tuyết.
+haiwai_yzc240313_fwz10=Quà Bất Tri Phong Nguyệt-Hạo (Khóa)
+desc_haiwai_yzc240313_fwz10_1=Nhấp phải mở
+desc_haiwai_yzc240313_fwz10=Dùng xong nhận được phong vật chí khóa Bất Tri Phong Nguyệt-Hạo.
+haiwai_yzc240313_fwz11=Quà Bộ Bán Nguyệt Kích (khóa)
+desc_haiwai_yzc240313_fwz11_1=Nhấp phải mở
+desc_haiwai_yzc240313_fwz11=Dùng xong nhận được phong vật chí khóa Bộ Bán Nguyệt Kích.
+haiwai_yzc240313_fwz12=Quà Hồ Diện-Hỏa (Khóa)
+desc_haiwai_yzc240313_fwz12_1=Nhấp phải mở
+desc_haiwai_yzc240313_fwz12=Dùng xong nhận được phong vật chí khóa Hồ Diện-Hỏa.
+haiwai_yzc240313_fwz13=Quà Như Ý Tử (Khóa)
+desc_haiwai_yzc240313_fwz13_1=Nhấp phải mở
+desc_haiwai_yzc240313_fwz13=Dùng xong nhận được phong vật chí khóa Như Ý Tử.
+haiwai_yzc240313_fwz14=Quà Phù Sinh U Mộng-Vong Xuyên (Khóa)
+desc_haiwai_yzc240313_fwz14_1=Nhấp phải mở
+desc_haiwai_yzc240313_fwz14=Dùng xong nhận được phong vật chí khóa Phù Sinh U Mộng-Vong Xuyên.
+
+haiwai_yzc240314_ytp=Túi Vân Thiên Bội
+desc_haiwai_yzc240314_ytp_1=Nhấp phải mở
+desc_haiwai_yzc240314_ytp=Túi quà tinh xảo, mở ra nhận được Vân Thiên Bội x10.
+
+item_title_4338="Côn Luân Đại Chiến"
+desc_item_title_4338=Tôn hiệu kỷ niệm phiên bản Big Update +5
+role_title_4338=Côn Luân Đại Chiến
+
+CanAcceptMenu_70656=<font face="Default" color="#ffffff" >Côn Luân Đại Chiến (Cấm Địa)</font>
+CompleteMenu_70656=<font face="Default" color="#ffffff" >Hoàn thành nhiệm vụ</font>
+accept_70656_1=<font face="Default" color="#ffffff" >Hoàn thành 1 lần cấm địa</font>
+complete_70656=<font face="Default" color="#ffffff" >Ừm, làm tốt lắm, đây là phần thưởng cho ngươi!</font>
+context_70656=Côn Luân Đại Chiến
+menu_70656_1=<font face="Default" color="#ffffff" >Được</font>
+submit_70656=<font face="Default" color="#ffffff" >Cảm ơn</font>
+target_70656=Hoàn thành 1 lần cấm địa
+title_70656=Côn Luân Đại Chiến (Cấm Địa)
+SubmitNpcEx_70656=Trò chuyện với Thương Nhân Thần Bí
+specialinfo_1576=Hoàn thành 1 lần cấm địa
+
+CanAcceptMenu_70657=<font face="Default" color="#ffffff" >Côn Luân Đại Chiến (Đập Trứng)</font>
+CompleteMenu_70657=<font face="Default" color="#ffffff" >Hoàn thành nhiệm vụ</font>
+accept_70657_1=<font face="Default" color="#ffffff" >Hoàn thành 10 lần đập trứng</font>
+complete_70657=<font face="Default" color="#ffffff" >Ừm, làm tốt lắm, đây là phần thưởng cho ngươi!</font>
+context_70657=Côn Luân Đại Chiến
+menu_70657_1=<font face="Default" color="#ffffff" >Được</font>
+submit_70657=<font face="Default" color="#ffffff" >Cảm ơn</font>
+target_70657=Hoàn thành 10 lần đập trứng
+title_70657=Côn Luân Đại Chiến (Đập Trứng)
+SubmitNpcEx_70657=Trò chuyện với Thương Nhân Thần Bí
+specialinfo_1577=Hoàn thành 10 lần đập trứng
+
+CanAcceptMenu_70658=<font face="Default" color="#ffffff" >Côn Luân Đại Chiến (Hào Kiệt Giang Hồ)</font>
+CompleteMenu_70658=<font face="Default" color="#ffffff" >Hoàn thành nhiệm vụ</font>
+accept_70658_1=<font face="Default" color="#ffffff" >Hoàn thành 5 lần Hào Kiệt Giang Hồ</font>
+complete_70658=<font face="Default" color="#ffffff" >Ừm, làm tốt lắm, đây là phần thưởng cho ngươi!</font>
+context_70658=Côn Luân Đại Chiến
+menu_70658_1=<font face="Default" color="#ffffff" >Được</font>
+submit_70658=<font face="Default" color="#ffffff" >Cảm ơn</font>
+target_70658=Hoàn thành 5 lần Hào Kiệt Giang Hồ
+title_70658=Côn Luân Đại Chiến (Hào Kiệt Giang Hồ)
+SubmitNpcEx_70658=Trò chuyện với Thương Nhân Thần Bí
+specialinfo_1578=Hoàn thành 5 lần Hào Kiệt Giang Hồ
+
+CanAcceptMenu_70659=<font face="Default" color="#ffffff" >Côn Luân Đại Chiến (Tâm Ma)</font>
+CompleteMenu_70659=<font face="Default" color="#ffffff" >Hoàn thành nhiệm vụ</font>
+accept_70659_1=<font face="Default" color="#ffffff" >Hoàn thành 2 lần Tâm Ma</font>
+complete_70659=<font face="Default" color="#ffffff" >Ừm, làm tốt lắm, đây là phần thưởng cho ngươi!</font>
+context_70659=Côn Luân Đại Chiến
+menu_70659_1=<font face="Default" color="#ffffff" >Được</font>
+submit_70659=<font face="Default" color="#ffffff" >Cảm ơn</font>
+target_70659=Hoàn thành 2 lần Tâm Ma
+title_70659=Côn Luân Đại Chiến (Tâm Ma)
+SubmitNpcEx_70659=Trò chuyện với Thương Nhân Thần Bí
+specialinfo_1579=Hoàn thành 2 lần Tâm Ma
+
+CanAcceptMenu_70660=<font face="Default" color="#ffffff" >Côn Luân Đại Chiến (Cướp Tiêu)</font>
+CompleteMenu_70660=<font face="Default" color="#ffffff" >Hoàn thành nhiệm vụ</font>
+accept_70660_1=<font face="Default" color="#ffffff" >Hoàn thành 5 lần Cướp Tiêu</font>
+complete_70660=<font face="Default" color="#ffffff" >Ừm, làm tốt lắm, đây là phần thưởng cho ngươi!</font>
+context_70660=Côn Luân Đại Chiến
+menu_70660_1=<font face="Default" color="#ffffff" >Được</font>
+submit_70660=<font face="Default" color="#ffffff" >Cảm ơn</font>
+target_70660=Hoàn thành 5 lần Cướp Tiêu
+title_70660=Côn Luân Đại Chiến (Cướp Tiêu)
+SubmitNpcEx_70660=Trò chuyện với Thương Nhân Thần Bí
+specialinfo_1580=Hoàn thành 5 lần Cướp Tiêu
+
+CanAcceptMenu_70661=<font face="Default" color="#ffffff" >Côn Luân Đại Chiến (Đoạt Thư)</font>
+CompleteMenu_70661=<font face="Default" color="#ffffff" >Hoàn thành nhiệm vụ</font>
+accept_70661_1=<font face="Default" color="#ffffff" >Hoàn thành 1 lần đoạt thư</font>
+complete_70661=<font face="Default" color="#ffffff" >Ừm, làm tốt lắm, đây là phần thưởng cho ngươi!</font>
+context_70661=Côn Luân Đại Chiến
+menu_70661_1=<font face="Default" color="#ffffff" >Được</font>
+submit_70661=<font face="Default" color="#ffffff" >Cảm ơn</font>
+target_70661=Hoàn thành 1 lần đoạt thư
+title_70661=Côn Luân Đại Chiến (Đoạt Thư)
+SubmitNpcEx_70661=Trò chuyện với Thương Nhân Thần Bí
+specialinfo_1581=Hoàn thành 1 lần đoạt thư
+
+CanAcceptMenu_70662=<font face="Default" color="#ffffff" >Côn Luân Đại Chiến (Hộ Thư)</font>
+CompleteMenu_70662=<font face="Default" color="#ffffff" >Hoàn thành nhiệm vụ</font>
+accept_70662_1=<font face="Default" color="#ffffff" >Hoàn thành 1 lần hộ thư</font>
+complete_70662=<font face="Default" color="#ffffff" >Ừm, làm tốt lắm, đây là phần thưởng cho ngươi!</font>
+context_70662=Côn Luân Đại Chiến
+menu_70662_1=<font face="Default" color="#ffffff" >Được</font>
+submit_70662=<font face="Default" color="#ffffff" >Cảm ơn</font>
+target_70662=Hoàn thành 1 lần hộ thư
+title_70662=Côn Luân Đại Chiến (Hộ Thư)
+SubmitNpcEx_70662=Trò chuyện với Thương Nhân Thần Bí
+specialinfo_1582=Hoàn thành 1 lần hộ thư
+
+CanAcceptMenu_70663=<font face="Default" color="#ffffff" >Côn Luân Đại Chiến (Chiến trường Ác Nhân Cốc)</font>
+CompleteMenu_70663=<font face="Default" color="#ffffff" >Hoàn thành nhiệm vụ</font>
+accept_70663_1=<font face="Default" color="#ffffff" >Hoàn thành 1 lần chiến trường Ác Nhân Cốc</font>
+complete_70663=<font face="Default" color="#ffffff" >Ừm, làm tốt lắm, đây là phần thưởng cho ngươi!</font>
+context_70663=Côn Luân Đại Chiến
+menu_70663_1=<font face="Default" color="#ffffff" >Được</font>
+submit_70663=<font face="Default" color="#ffffff" >Cảm ơn</font>
+target_70663=Hoàn thành 1 lần chiến trường Ác Nhân Cốc
+title_70663=Côn Luân Đại Chiến (Chiến trường Ác Nhân Cốc)
+SubmitNpcEx_70663=Trò chuyện với Thương Nhân Thần Bí
+specialinfo_1583=Hoàn thành 1 lần chiến trường Ác Nhân Cốc
+
+CanAcceptMenu_70665=<font face="Default" color="#ffffff" >Côn Luân Đại Chiến (Chiến Trường)</font>
+CompleteMenu_70665=<font face="Default" color="#ffffff" >Hoàn thành nhiệm vụ</font>
+accept_70665_1=<font face="Default" color="#ffffff" >Hoàn thành 5 lần chiến trường</font>
+complete_70665=<font face="Default" color="#ffffff" >Ừm, làm tốt lắm, đây là phần thưởng cho ngươi!</font>
+context_70665=Côn Luân Đại Chiến
+menu_70665_1=<font face="Default" color="#ffffff" >Được</font>
+submit_70665=<font face="Default" color="#ffffff" >Cảm ơn</font>
+target_70665=Hoàn thành 5 lần chiến trường
+title_70665=Côn Luân Đại Chiến (Chiến Trường)
+SubmitNpcEx_70665=Trò chuyện với Thương Nhân Thần Bí
+specialinfo_1585=Hoàn thành 5 lần chiến trường
+
+CanAcceptMenu_70667==<font face="Default" color="#ffffff" >Toàn Dân Mừng Phiên Bản Mới (Có thể nhận)</font>
+CompleteMenu_70667=<font face="Default" color="#ffffff" >Toàn Dân Mừng Phiên Bản Mới (Có thể trả)</font>
+accept_70667_1=<font face="Default" color="#ffffff" >Người chơi Danh Tuấn Giang Hồ có thể đến chỗ ta nhận Lệnh Bài Mừng Phiên Bản.</font>
+complete_70667=<font face="Default" color="#ffffff" >Đây là quà của ngươi</font>
+context_70667=Trong thời gian sự kiện người chơi Danh Tuấn Giang Hồ mỗi ngày có thể đến Đại Sứ Thượng Võ Tô Châu (390,768) nhận: Lệnh Bài Mừng Phiên Bản*1.
+menu_70667_1=<font face="Default" color="#ffffff" >Được.</font>
+submit_70667=<font face="Default" color="#ffffff" >Cảm ơn</font>
+target_70667=Tìm Đại Sứ Thượng Võ nhận quà
+title_70667=Toàn Dân Mừng Phiên Bản Mới
+
+-----------------------分割线应该存在的-------------------------------
+desc_xw_0501=Kinh mạch thuộc kim, thuộc "Dương", kim phát "Thương" âm, nên gọi thương dương, hoặc là tuyệt dương; Nnằm ở đầu ngón tay trỏ, cách gốc móng tay 1 phân.
+desc_xw_0502="Gian", kẽ hở, huyệt ở chỗ lõm trong ngón trỏ, lại là huyệt thứ 2 của kinh Đại Trường, nên gọi là Nhị Gian; Huyệt ở khoảng giữa lóng tay 2 và 3.
+desc_xw_0503=<Tố Vân-Khí Huyệt Luận Thiên>: Huyệt ở ngón cái, chỗ nối với khớp ngón tay thứ 2, phân cách 2 ngón, giống thung lũng sâu, nên gọi Hợp Cốc, hay còn gọi là Hổ Khẩu.
+desc_xw_0504=Hai bên là "Thiên", đi qua là "Lịch", đi qua cánh tay, không đi qua thái âm, nên gọi thiên lịch; Nằm ở chỗ cách phía trên cơ cánh tay 3 tấc ở mặt sau cánh tay trước khi cong khuỷu tay.
+desc_xw_0505=Ở dưới khuỷu tay 3 tất, nên gọi Tam Lí; Nằm ở bên cổ tay phía sau cánh tay trước, dưới bắp khuỷu tay 2 tấc.
+desc_xw_0506=Huyệt nằm ở chỗ lõm khi tay cong lại, nhìn như cái hồ, nên gọi Khúc Trì, hoặc Trạch Dương; Nằm ở giữa đường khớp xương bên ngoài xích trạch và hoằng cốt.
+desc_xw_0507=Kẽ hở của xương gọi là "Liêu", huyệt này ở đầu xương khuỷu tay, nên gọi Trửu Liêu, hoặc là Trửu Tiêm; Nằm ở bên ngoài cánh tay, khi cong khuỷu tay, ở mép xương cánh tay cách khúc trì 1 tấc.
+desc_xw_0508=Chi trên là cánh tay, phía dưới nách, còn gọi là cảnh xung; Nằm ở chỗ giao của khúc trì và tí nhu, trên khúc trì 7 tấc.
+desc_xw_0509=Trên cao là thiên, đỉnh là đồng khí, tam túc, nên gọi Thiên Đỉnh; Nằm ở mặt bên ngoài cổ, sau cơ xương ức, bên trái cổ.
+desc_xw_0510=Chọt vào có thể thông mũi, khôi phục khứu giác, nên gọi nghinh hương, nằm ở điểm giữa mép bên ngoài mũi, ở giữa vành mũi.
+desc_xw_1201="Hội Nguyên": "Mi Xung, khí mạch từ lông mày đi thẳng đến mép tóc, nên gọi Mi Xung"; Nằm ở phần đầu, từ huyệt toàn trúc hướng thẳng lên cách mép tóc nửa tấc.
+desc_xw_1202=Huyệt ở nơi cao nhất, giống như đưa khí mạch thông lên trời, nên có tên Thông Thiên; Nằm ở trên đầu, ở giữa mép tóc hướng thẳng lên 4 tấc.
+desc_xw_1203=Huyệt ở nơi buộc mũ của người xưa, quấn quanh liền mạch không để rơi mũ, nên có tên như vậy; Nằm ở trên đầu, ở giữa mép tóc hướng thẳng lên 5 tấc 5 phân.
+desc_xw_1204=Huyệt ở chỗ cao, giống như ngôi sao chống trời, nên gọi là Thiên Trụ; nằm ở chỗ lõm mép tóc phía sau mép ngoài của cơ gân ở sau cổ (cơ bả vai).
+desc_xw_1205="Phong" là khí, lại là phong tà, nơi "cửa" thông đến, huyệt là cửa ngõ ra vào của khí phổi phong tà, nên có tên vậy; Nằm ở lưng, dưới chỗ nhô lên của đột sống ngực thứ 2.
+desc_xw_1206=Huyệt này nằm ở thận, là nơi vận chuyển khí thận, nên có tên vậy; Nằm ở thắt lưng, dưới gai cột sống của xương sống thắt lưng thứ 2, cách 1 tấc 2 phân.
+desc_xw_1207=Huyệt nằm hai bên xương cụt, nơi hội tụ khí mạch dương, nên gọi Hội Dương; Nằm ở xương cùng, cách đầu xương cụt 5 phân.
+desc_xw_1208=Huyệt nằm giữa huyệt bàn chân, uốn lượn ở giữa đầu gối, nên có tên vậy; Nằm ở điểm giữa cơ ngang khoeo chân, ở giữa gân bắp thịt đùi trên và gân bắp cơ khoeo.
+desc_xw_1209=“Côn Luân, trên có mắt cá chân dưới xương gót chân có xương sụn, cao như núi, nên gọi Côn Luân; Nằm ở phía sau mắt cá bên ngoài chân, ở chỗ lồi lõm giữa gót ngoài và gân gót.
+desc_xw_1210="Chí" là nhất, tận cùng, "Âm" là mạch âm, huyệt là nghĩa dượng tận âm khởi, nên có tên vậy; Nằm ở mặt ngoài cùng ngón chân, cách khóe móng chân 1 phân.
+xw_0501=Thương Dương
+xw_0502=Nhị Giản
+xw_0503=Hợp Cốc
+xw_0504=Thiên Lịch
+xw_0505=Thủ Tam Lí
+xw_0506=Khúc Trì
+xw_0507=Trửu Liêu
+xw_0508=Tí Nhu
+xw_0509=Thiên Đỉnh
+xw_0510=Nghinh Hương
+xw_1207=Hội Dương
+xw_1208=Ủy Trung
+xw_1209=Côn Luân
+xw_1210=Chí Âm
+item_title_4324=“9 Năm Hẹn Ước”
+desc_item_title_4324=Đạo cụ tôn hiệu kỷ niệm 9 năm Cửu Âm Chân Kinh
+role_title_4324=9 Năm Hẹn Ước
+xw_0101=Cực Tuyền
+xw_0102=Thanh Linh
+xw_0103=Thiếu Hải
+xw_0104=Linh Đạo
+xw_0105=Thông Lý
+xw_0106=Thần Môn
+xw_0107=Thiếu Phủ
+xw_0108=Thiếu Xung
+xw_0108=Thiếu Xung
+desc_xw_0101="Cực Tuyền: huyệt nằm ở vị trí cao nhất của kinh mạch tâm, huyết mạch chính của tâm, giống như dòng nước"; Huyệt này nằm ở đỉnh đầu nách, nơi động mạch nách đập
+desc_xw_0102="Nguồn gốc của sinh mệnh, thần linh biến hóa, huyệt nằm ở tâm mạch", còn gọi là Thanh Linh Tuyền; Nằm ở mặt trong cánh tay, trên cơ hoành khuỷu tay 3 tấc, bên trong rãnh của cơ bắp cánh tay.
+desc_xw_0103="Là nơi tập hợp của Thủ Thiếu Âm Mạch, nên có tên Thiếu Hải"; Nằm ở chỗ gấp khuỷu tay, nằm ở giữa đường nối bên trong nếp gấp khuỷu tay và xương cánh tay.
+desc_xw_0104="Huyệt thuộc về tâm kinh, con đường ra vào của tâm linh"; Nằm ở lòng cẳng tay, cách nếp gấp cổ tay 1 tấc rưỡi.
+desc_xw_0105="Là nơi kinh mạch của tim tụ hội, nhánh của nó đi ra, liên kết với thái dương và quyết âm"; Nằm ở mặt lòng cẳng tay, trên nếp gấp cổ tay 1 tấc.
+desc_xw_0106="Nơi cửa ngõ của tâm thần, khí huyết của tim ra vào ở đây, do đó gọi là Thần Môn", còn gọi là Đoái Cốt; Nằm ở cổ tay, chỗ lõm ở bên ngoài gân cơ gan tay
+desc_xw_0107="Nơi kinh mạch của tim ở tay, đi từ nách ra ngón út, giao với huyệt thiếu phủ thông với phủ của tim là ruột non, do đó gọi là thiếu phủ"; Nằm ở lòng bàn tay, giữa xương bàn tay thứ tư và thứ năm, khi nắm tay lại thì nằm ở đầu ngón út.
+desc_xw_0108="Thuộc huyệt tỉnh của kinh tâm, như nguồn nước từ giếng phun ra, khí huyết lưu thông mạnh mẽ, là nơi mạch tim đập ra"; Nằm ở đầu ngón út, bên cạnh mép ngoài, cách góc móng tay một phân.
+jm_shoushaoyin=Thủ Thiếu Âm Tâm

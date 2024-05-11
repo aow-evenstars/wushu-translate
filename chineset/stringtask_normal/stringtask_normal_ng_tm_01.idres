@@ -64,7 +64,6 @@ accept_57511_1=<font face="Default" color="#ffffff" >你看地上的血跡，那
 accept_57513_1=<font face="Default" color="#ffffff" >單憑這點還不能斷定是他所為。你</font><font face="Default" color="#ffffff" >先</font><font face="Default" color="#ffffff" >去聯繫唐汜松，或許他得到些線索。我會讓藥堂留意唐疊劍，暫時不要打草驚蛇，以免那盜針之人聽聞風聲逃走。</font>
 accept_57516_1=<font face="Default" color="#ffffff" >嗯，是的。而且他們，他們帶了好多屍體，是師兄弟的屍體，丟在山前，你快去看看吧。</font>
 accept_57517_1=<font face="Default" color="#ffffff" >我要去忙其他事情，現在姥姥親自處理此事，你去見她老人家吧。</font>
-accept_57517_2=<font face="Default" color="#ffffff" >你其他師兄弟都遇害了，你是唯一活下來的人。多多保重，替你的師兄弟們報仇</font><font face="Default" color="#ffffff" >，別辜負我的期望，去吧</font><font face="Default" color="#ffffff" >。</font>
 accept_57519_1=<font face="Default" color="#ffffff" >嗯，「磨刀堂」正好發來第三個謎題，你去見唐美嬌吧。對了，唐四公已經想出一個解毒的配方，需要你協助配出解藥，見過唐美嬌之後就去找他吧。</font>
 accept_57520_1=<font face="Default" color="#ffffff" >這個方子就是「以毒攻毒」，既然是「情蠱」，那就用「無情」來破。老夫需要斷腸草，絕情花，長恨水……</font><font face="Default" color="#ffffff" >太多了你也記不住，你先去給我找「長恨水」這味藥材吧。</font>
 accept_57520_2=<font face="Default" color="#ffffff" >眼淚！</font>
@@ -98,7 +97,6 @@ complete_57518_2=<font face="Default" color="#ffffff" >老毒究出手，老身�
 complete_57519=<font face="Default" color="#ffffff" >老夫翻閱典籍，苦思冥想，終於想出了一個方子，必定能解除「情蠱」之毒</font><font face="Default" color="#ffffff" >，不過需要的藥材有點麻煩。</font>
 complete_57520=<font face="Default" color="#ffffff" >放心吧，老夫還沒有老糊塗。</font>
 complete_57521=
-complete_57522=<font face="Default" color="#ffffff" >你是不是不能控制自己，抽搐嘔吐，強烈的渴望殺戮，沒有痛覺，麻木無情？</font>
 complete_57523=<font face="Default" color="#ffffff" >別怪老夫，等救了美嬌，讓她好好補償你。</font><font face="Default" color="#ffffff" >我把解藥調配好，你等等。</font>
 complete_57527=<font face="Default" color="#ffffff" >哈哈，沒被人揍吧。咳咳，不錯，有魄力。</font>
 complete_57528=<font face="Default" color="#ffffff" >好，一切小心行事。</font>
@@ -137,7 +135,6 @@ context_57533=馬車上的人是何人？磨刀堂為何要追殺四大寇？詢
 context_57534=四大寇都遭磨刀堂毒手，顧瓔臨終囑托保護丁九重的妻小——鳳菲母子。讓鳳菲母子躲進棲霞寺，自己留下來阻擊磨刀堂的追兵。
 context_57535=鳳菲打算投奔丁九重生前摯友葉驚樓，但是路途艱險，磨刀堂肯定不會善罷甘休。一路保護鳳菲母子，完成四大寇的遺願。
 context_57536=鳳菲母子的馬車被磨刀堂劫走了，鳳菲機靈一路留下了線索。順著線索，追上馬車。
-context_57537=鳳菲母子已遇害。磨刀堂少堂主並未得到想要的消息，留下一副使處理後事，就揚長而去。擊敗磨刀堂副使，也算是替鳳菲母子報仇。
 context_57538=返回唐門，將事情經過告知掌門，詢問掌門當年發生的事情。
 menu_57501_1=<font face="Default" color="#ffffff" >接受任務</font>
 menu_57503_1=<font face="Default" color="#ffffff" >瞭解。</font>
@@ -152,7 +149,6 @@ menu_57510_1=<font face="Default" color="#ffffff" >立馬就去。</font>
 menu_57511_1=<font face="Default" color="#ffffff" >怕啥，沒牙的老虎是病貓，看我不逮到他，哼哼。</font>
 menu_57512_1=<font face="Default" color="#ffffff" >我這就去。</font>
 menu_57513_1=<font face="Default" color="#ffffff" >他下山也該回來了，我這就去找他。</font>
-menu_57515_1=<font face="Default" color="#ffffff" >嗯，我一定會為汜松師弟報仇的。</font>
 menu_57516_1=<font face="Default" color="#ffffff" >難道是唐暉拋遭到「磨刀堂」的毒手了，我得趕緊過去。</font>
 menu_57517_1=<font face="Default" color="#ffffff" >掌門……</font>
 menu_57517_2=<font face="Default" color="#ffffff" >嗯，我一定不會放過「磨刀堂」，讓他們血債血償。</font>
@@ -263,7 +259,6 @@ target_57530=聽<a href="findnpc_new,school05,WorldNpc02203" style="HLStype1">�
 target_57531=私自下山，前往金陵救援四大寇。
 target_57532=救援被圍困在棲霞寺的四大寇。
 target_57533=詢問奄奄一息的<a href="findnpc_new,city03,NPCxszhh_4nei_4dakou_05" style="HLStype1">顧瓔</a>
-target_57534=擊潰追來的<a href="findnpc_new,city03,AttackNPCxszhh_4nei_zhuibing" style="HLStype1">磨刀堂殺手</a>
 target_57535=一路保護鳳菲母子
 target_57536=跟著地上的線索，追上馬車。
 target_57537=擊敗<a href="findnpc_new,city03,Bossxszhh_4nei_mdtstzh" style="HLStype1">磨刀堂副使</a>
@@ -461,11 +456,16 @@ complete_57516=<font face="Default" color="#ffffff" >唉，失策了！</font><f
 complete_57525=<font face="Default" color="#ffffff" >驟雨飛花針確實回到了唐門，不過磨刀堂拿唐門這麼重要的東西，肯定不是玩個遊戲這麼簡單。可別被他的言語蒙蔽了，你繼續去萬毒宮收集線索，看看他們玩的什麼把戲。</font>
 context_57509=<s>神秘勢力「磨刀堂」驚現江湖，唐門驟雨飛花針被搶，「磨刀堂」故擺迷陣威脅唐門。與其受人擺佈，不如主動出擊。與師弟商量計策，分頭行動，摸清「磨刀堂」底細。
 context_57510=兵分兩路，唐暉拋正面去破解「磨刀堂」的謎題，唐汜松和自己摸清對手底細。師弟唐汜松下山打探有關「磨刀堂」的來路，自己去追蹤搶驟雨飛花針的人。詢問和搶針之人交手過的師弟，瞭解他的武功招式。行動之前和掌事師叔見面，瞭解上繳線索的事宜。
-context_57515=師弟唐汜松已經遇害，這不是你的錯。掌門已經讓藥堂留意唐疊劍，是時候擒拿唐疊劍，找回驟雨飛花針，替師弟報仇了。亡羊補牢，未為晚也？
 context_57517=掌門謹慎的態度讓啞巴得以逃走，「磨刀堂」知道了唐門破壞遊戲規則，發出警告，去正面破解「磨刀堂」的師弟唐暉拋等人遭難，驟雨飛花針也受損，形勢嚴峻。姥姥親自出面處理此事。
 context_57525=「磨刀堂」謎題悉數破解，啞僕的信上言明：欲取驟雨飛花針，單刀赴會，惡人谷，雪山頂。
-context_57528=堂主唐少昂獲知了「磨刀堂」的一個秘密藏身之地.雖然驟雨飛花針已經拿回，但血仇未報，唐汜松、唐暉拋死不瞑目。清掃「磨刀堂」的這個據點，讓他們知道「寧遇閻羅王，不惹唐門郎」。
-submit_57517_2=<font face="Default" color="#ffffff" >嗯，</font><font face="Default" color="#ffffff" >我一定拿回驟雨飛花針，為死去的師兄弟報仇。</font>
 target_57515=抓住唐疊劍，找回驟雨飛花針
 target_57525=前往惡人<a href="findnpc_new,born02,PlotDoor00035" style="HLStype1">雪山頂</a>，取回驟雨飛花針。
+accept_57517_2=<font face="Default" color="#ffffff" >你其他師兄弟都遇害了，你是唯一活下來的人。多多保重，替你的師兄弟們報復</font><font face="Default" color="#ffffff" >，別辜負我的期望，去吧</font><font face="Default" color="#ffffff" >。</font>
+complete_57522=<font face="Default" color="#ffffff" >你是不是不能控制自己，抽搐嘔吐，強烈的渴望戕屠，沒有痛覺，麻木無情？</font>
+context_57515=師弟唐汜松已經遇害，這不是你的錯。掌門已經讓藥堂留意唐疊劍，是時候擒拿唐疊劍，找回驟雨飛花針，替師弟報復了。亡羊補牢，未為晚也？
+context_57528=堂主唐少昂獲知了「磨刀堂」的一個秘密藏身之地.雖然驟雨飛花針已經拿回，但一生之敵未報，唐汜松、唐暉拋死不瞑目。清掃「磨刀堂」的這個據點，讓他們知道「寧遇閻羅王，不惹唐門郎」。
+context_57537=鳳菲母子已遇害。磨刀堂少堂主並未得到想要的消息，留下一副使處理後事，就揚長而去。擊敗磨刀堂副使，也算是替鳳菲母子報復。
+menu_57515_1=<font face="Default" color="#ffffff" >嗯，我一定會為汜松師弟報復的。</font>
+submit_57517_2=<font face="Default" color="#ffffff" >嗯，</font><font face="Default" color="#ffffff" >我一定拿回驟雨飛花針，為死去的師兄弟報復。</font>
+target_57534=擊潰追來的<a href="findnpc_new,city03,AttackNPCxszhh_4nei_zhuibing" style="HLStype1">磨刀堂隱衛</a>
 

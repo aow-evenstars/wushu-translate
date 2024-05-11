@@ -472,7 +472,6 @@ CanAcceptMenu_43791=<font face="Default" color="#ffffff" >改頭換面</font>
 CompleteMenu_43790=<font face="Default" color="#ffffff" >九陰俠客行（完成任務）</font>
 CompleteMenu_43791=<font face="Default" color="#ffffff" >改頭換面（可提交）</font>
 accept_43790_1=<font face="Default" color="#ffffff" >如果你善於收集物資，給我送來「九」「陰」「真」「經」「俠」「客」「行」七字，我就會獎勵你。</font>
-accept_43791_1=<font face="Default" color="#ffffff" >不管你愛美，還是想躲避仇人的追殺，亦或追求心上人，肯定會需要這件東西的！</font>
 complete_43790=<font face="Default" color="#ffffff" >做得好，這份薄禮請收下。</font>
 complete_43791=<font face="Default" color="#ffffff" >今天你算走運了，免費大贈送，有了它，你可以改頭換面一番，重新開啟新的人生！</font>
 context_43790=為林梁收集「九」「陰」「真」「經」「俠」「客」「行」這七個字，即可獲得一份大禮。
@@ -488,7 +487,6 @@ title_43790=九陰真經俠客行
 title_43791=改頭換面
 CanAcceptMenu_43792=<font face="Default" color="#ffffff" >天降恩賜</font>
 CompleteMenu_43792=<font face="Default" color="#ffffff" >天降恩賜（可提交）</font>
-accept_43792_1=<font face="Default" color="#ffffff" >不管你愛美，還是想躲避仇人的追殺，亦或追求心上人，肯定會需要這件東西的！</font>
 complete_43792=<font face="Default" color="#ffffff" >過來給我瞧瞧（湊近你的臉看了下），嗯，確實有點不忍直視，這樣吧，算我大發慈悲，我還給你易容一次，噓~，可別告訴別人哦~！</font>
 context_43792=你對自己上次的易容不太滿意，懇求大師又給你一次易容的機會。
 menu_43792_1=<font face="Default" color="#ffffff" >大師，自從上次易容後，我對自己的容貌一直不太滿意，可否還請大師再給我施展一次易容神術！</font>
@@ -515,13 +513,7 @@ title_43794=挑戰禁地
 accept_43793_1=<font face="Default" color="#ffffff" >又是一年開學時，大俠，我看你頗有幾分文氣，我這有份讀書人用的禮物，你可喜歡？</font>
 accept_43794_1=<font face="Default" color="#ffffff" >通關任意一個禁地，說不定就可在我這拿到緊俏的</font><font face="Default" color="#ffffff" >大明居住令</font><font face="Default" color="#ffffff" >一個。</font>
 CanAcceptMenu_43795=<font face="Default" color="#ffffff" >拜訪四藝老人</font>
-CanAcceptMenu_43796=<font face="Default" color="#ffffff" >四藝老人之考校</font>
-CanAcceptMenu_43797=<font face="Default" color="#ffffff" >清冽菊花酒</font>
-CanAcceptMenu_43798=<font face="Default" color="#ffffff" >美味茱萸糕</font>
 CompleteMenu_43795=<font face="Default" color="#ffffff" >拜訪四藝老人</font><font face="Default" color="#ffffff" >（可提交）</font>
-CompleteMenu_43796=<font face="Default" color="#ffffff" >四藝老人之考校（可提交）</font>
-CompleteMenu_43797=<font face="Default" color="#ffffff" >清冽菊花酒（可提交）</font>
-CompleteMenu_43798=<font face="Default" color="#ffffff" >美味茱萸糕（可提交）</font>
 accept_43795_1=<font face="Default" color="#ffffff" >少俠在這重陽之際也記得來看看我這個老頭子，真是彬彬有禮的青年才俊啊！</font>
 accept_43796_1=<font face="Default" color="#ffffff" >少俠你看你青年才俊，我這有些關於琴棋書畫的問題，想要考考你。</font>
 accept_43797_1=<font face="Default" color="#ffffff" >少俠你看這秋高氣爽時，正是賞菊的好時候啊！</font>
@@ -547,9 +539,6 @@ target_43796=回答四藝老人的問題。
 target_43797=幫助四藝老人收穫菊花。
 target_43798=幫助四藝老人得到茱萸。
 title_43795=拜訪四藝老人
-title_43796=四藝老人之考校
-title_43797=清冽菊花酒
-title_43798=美味茱萸糕
 CanAcceptMenu_43799=<font face="Default" color="#ffffff" >雙節喜慶禮包</font>
 CompleteMenu_43799=<font face="Default" color="#ffffff" >領取大禮</font>
 accept_43799_1=<font face="Default" color="#ffffff" >值此雙節喜慶之日，我這有一份大禮要給你。</font>
@@ -839,7 +828,6 @@ complete_43863=<font face="Default" color="#ffffff" >哈哈，來來來，大俠
 context_43863=少俠可在各地活動大使林梁處領取」傳統中國年·殺年豬「任務，然後前往各地農田區的農夫師傅處與旁邊的"<font color="#00cc00">驚慌的農夫</font>"對話，獵殺<font color="#ff0000">野豬王</font>，獲取」<font color="#00cc00">新鮮的豬肉</font>「，交給各地活動大使林梁換取任務獎勵。
 menu_43863_1=<font face="Default" color="#ffffff" >是的</font>
 submit_43863=<font face="Default" color="#ffffff" >謝謝</font>
-target_43863=擊殺<font color="#ff0000">野豬王</font>，獲取<font color="#00cc00">新鮮的豬肉</font>
 title_43863=傳統中國年·殺年豬
 CanAcceptMenu_43864=<font face="Default" color="#ffffff" >傳統中國年·驅年獸</font>
 CompleteMenu_43864=<font face="Default" color="#ffffff" >提交」傳統中國年·</font><font face="Default" color="#ffffff" >驅年獸</font><font face="Default" color="#ffffff" >「</font>
@@ -848,7 +836,6 @@ complete_43864=<font face="Default" color="#ffffff" >我們從你帶回來的異
 context_43864=少俠可在各地活動大使林梁處領取」傳統中國年·驅年獸「任務，使用獲得的任務道具」<font color="#00cc00">奇怪的煙花</font>「（請到任務道具背包中查看，若不慎丟失請放棄任務重新領取）進入活動場景，獵殺<font color="#ff0000">小年獸</font>後，向林梁提交任務獲得任務獎勵。
 menu_43864_1=<font face="Default" color="#ffffff" >是的</font>
 submit_43864=<font face="Default" color="#ffffff" >多謝</font>
-target_43864=擊殺<font color="#ff0000">小年獸</font>
 title_43864=傳統中國年·驅年獸
 CanAcceptMenu_43862=<font face="Default" color="#ffffff" >活動獎勵包</font>
 CompleteMenu_43862=<font face="Default" color="#ffffff" >獲得活動獎勵包</font>
@@ -879,7 +866,6 @@ complete_43877=<font face="Default" color="#ffffff" >少俠可成將異寶找到
 context_43865=新年新氣象，各大山莊莊主檢驗弟子們一年來的修煉成果！
 context_43866=新春之際，尚未準備春聯，去找城中司徒燕求取
 context_43867=瞭解新年習俗請門神的意義
-context_43868=新年之際，成都各地喜氣洋洋，然在成都四周突然出現兇猛野獸，玩家前去擊殺之。
 context_43869=新年之際，前去幫助他種些農產品
 context_43870=新年之際，他想收集些食材，想做一頓豐盛的晚餐，玩家前去幫他將食材取來。
 context_43871=邀請些江湖中的豪俠摯友，到洛陽與他們一起暢飲一番。
@@ -903,7 +889,6 @@ submit_43877=<font face="Default" color="#ffffff" >謝老伯，已找到</font>
 target_43865=幫助各莊主清理掉不努力修行的弟子
 target_43866=新春之際，尚未準備春聯，去找城中司徒燕求取
 target_43867=瞭解新年習俗請門神的意義
-target_43868=玩家前往成都野獸出現處，擊殺野獸。
 target_43869=幫助他種地，並將種地所得交於他
 target_43870=玩家前往各地幫忙將食材取得，並交於他。
 target_43871=邀請豪俠摯友前來
@@ -987,14 +972,6 @@ complete_43886=<font face="Default" color="#ffffff" >這是內功書頁，記得
 complete_43887=<font face="Default" color="#ffffff" >這是內功書頁，記得勤加修煉</font>
 complete_43888=<font face="Default" color="#ffffff" >這是內功書頁，記得勤加修煉</font>
 complete_43889=<font face="Default" color="#ffffff" >這是內功書頁，記得勤加修煉</font>
-context_43882=八大宗派弟子可前往各大掌門處免費領取門派五內1-36層（僅開通上限），為修習六內打好基礎！
-context_43883=八大宗派弟子可前往各大掌門處免費領取門派五內1-36層（僅開通上限），為修習六內打好基礎！
-context_43884=八大宗派弟子可前往各大掌門處免費領取門派五內1-36層（僅開通上限），為修習六內打好基礎！
-context_43885=八大宗派弟子可前往各大掌門處免費領取門派五內1-36層（僅開通上限），為修習六內打好基礎！
-context_43886=八大宗派弟子可前往各大掌門處免費領取門派五內1-36層（僅開通上限），為修習六內打好基礎！
-context_43887=八大宗派弟子可前往各大掌門處免費領取門派五內1-36層（僅開通上限），為修習六內打好基礎！
-context_43888=八大宗派弟子可前往各大掌門處免費領取門派五內1-36層（僅開通上限），為修習六內打好基礎！
-context_43889=八大宗派弟子可前往各大掌門處免費領取門派五內1-36層（僅開通上限），為修習六內打好基礎！
 menu_43882_1=<font face="Default" color="#ffffff" >我要領取</font>
 menu_43883_1=<font face="Default" color="#ffffff" >我要領取</font>
 menu_43884_1=<font face="Default" color="#ffffff" >我要領取</font>
@@ -1165,7 +1142,6 @@ CompleteMenu_43843=<font face="Default" color="#ffffff" >提交勤修苦練（�
 accept_43843_1=<font face="Default" color="#ffffff" >少俠是否要接取勤修苦練（鴆毒王）</font>
 context_43843=大俠可在節日活動大使林梁接取「勤修苦練（鴆毒王）」任務，完成任務所規定的玩法後可以獲得額外獎勵。
 target_43843=完成勤修苦練（鴆毒王）
-
 CanAcceptMenu_70322=<font face="Default" color="#ffffff" >標籤轉換</font>
 CompleteMenu_70322=<font face="Default" color="#ffffff" >請前輩賜予丹藥。</font>
 accept_70322_1=<font face="Default" color="#ffffff" >年輕人此來尋我何事？</font>
@@ -1175,3 +1151,27 @@ menu_70322_1=<font face="Default" color="#ffffff" >前輩見笑，晚輩欲求�
 submit_70322=<font face="Default" color="#ffffff" >多謝前輩賜予</font><font face="Default" color="#ffffff" >。</font>
 target_70322=俠惡標籤值達到200才可使用俠惡狂邪轉換道具
 title_70322=標籤轉換
+accept_43791_1=<font face="Default" color="#ffffff" >不管你愛美，還是想躲避敵人的追殺，亦或追求心上人，肯定會需要這件東西的！</font>
+accept_43792_1=<font face="Default" color="#ffffff" >不管你愛美，還是想躲避敵人的追殺，亦或追求心上人，肯定會需要這件東西的！</font>
+target_43863=攻克<font color="#ff0000">野豬王</font>，獲取<font color="#00cc00">新鮮的豬肉</font>
+target_43864=攻克<font color="#ff0000">小年獸</font>
+context_43868=新年之際，成都各地喜氣洋洋，然在成都四周突然出現兇猛野獸，玩家前去攻克之。
+target_43868=玩家前往成都野獸出現處，攻克野獸。
+context_43882=各大宗派弟子可前往各大掌門處免費領取門派五內1-36層（僅開通上限），為修習六內打好基礎！
+context_43883=各大宗派弟子可前往各大掌門處免費領取門派五內1-36層（僅開通上限），為修習六內打好基礎！
+context_43884=各大宗派弟子可前往各大掌門處免費領取門派五內1-36層（僅開通上限），為修習六內打好基礎！
+context_43885=各大宗派弟子可前往各大掌門處免費領取門派五內1-36層（僅開通上限），為修習六內打好基礎！
+context_43886=各大宗派弟子可前往各大掌門處免費領取門派五內1-36層（僅開通上限），為修習六內打好基礎！
+context_43887=各大宗派弟子可前往各大掌門處免費領取門派五內1-36層（僅開通上限），為修習六內打好基礎！
+context_43888=各大宗派弟子可前往各大掌門處免費領取門派五內1-36層（僅開通上限），為修習六內打好基礎！
+context_43889=各大宗派弟子可前往各大掌門處免費領取門派五內1-36層（僅開通上限），為修習六內打好基礎！
+CanAcceptMenu_43796=<font face="Default" color="#ffffff" >四藝考校</font>
+CanAcceptMenu_43797=<font face="Default" color="#ffffff" >重陽菊花酒</font>
+CanAcceptMenu_43798=<font face="Default" color="#ffffff" >重陽茱萸糕</font>
+CompleteMenu_43796=<font face="Default" color="#ffffff" >四藝考校（可提交）</font>
+CompleteMenu_43797=<font face="Default" color="#ffffff" >重陽菊花酒（可提交）</font>
+CompleteMenu_43798=<font face="Default" color="#ffffff" >重陽茱萸糕（可提交）</font>
+title_43796=四藝考校
+title_43797=重陽菊花酒
+title_43798=重陽茱萸糕
+

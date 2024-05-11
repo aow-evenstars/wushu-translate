@@ -7,7 +7,6 @@ SubmitNpcEx_72003=Đã thành công đuổi những kẻ đến ăn trộm đó,
 SubmitNpcEx_72004=Đã thành công cứu những kẻ chán nản đó, mau tìm Gia Viên Phong Thủy Đại Sư nhận thưởng đi.
 collectinfo_72001=Tặng thức ăn cho những Hành Khất Lang Thang trong Gia Viên đó.
 hunterinfo_72001=Đánh bại đám kẻ trộm xâm nhập Gia Viên, bảo vệ Gia Viên. <font color="#EE0000">(Nếu tìm hảo hữu đến giúp, hảo hữu cũng phải nhận nhiệm vụ, nhớ phải tổ đội cùng, nếu không sẽ không thể hoàn thành nhiệm vụ, mỗi ngày có thể hoàn thành 3 lần.)</font>
-hunterinfo_72004=Trò chuyện cùng những kẻ lén lút trong Gia Viên đó, biết rõ thân phận kẻ trộm và tiêu diệt chúng.
 hunterinfo_72005=Trong Gia Viên hình như có người bị thương, đến cứu họ đi.
 interactinfo_72001=Phân phát thức ăn cho những Hành Khất Lang Thang trong Gia Viên đó, giúp họ vượt qua khó khăn.
 interactinfo_72002=Phân phát thức ăn cho những Hành Khất Lang Thang trong Gia Viên đó, giúp họ vượt qua khó khăn.
@@ -18,4 +17,48 @@ okmenu_72003=<font face="Default" color="#ffffff" >Ta vốn thích làm việc t
 SubmitNpcEx_72002=Đã thành công xua đuổi đám thỏ con chạy loạn khắp nơi đó, mau tìm Gia Viên Phong Thủy Đại Sư nhận thưởng nhé
 hunterinfo_72002=Bắt đám Tiểu Bạch Thố chạy loạn khắp gia viên đó.
 hunterinfo_72003=Bắt đám Tiểu Kim Thố chạy loạn khắp gia viên đó.
+DialogID_72004=<font face="Default" color="#ffffff" >Vũ Yến Thảo</font>
+DialogID_72005=<font face="Default" color="#ffffff" >Mộng Linh Hoa</font>
+DialogID_72006=<font face="Default" color="#ffffff" >Bồ Đề Quả</font>
+DialogID_72007=<font face="Default" color="#ffffff" >Tử Phương Lan</font>
+QiecuoMenu_72006=<font face="Default" color="#ffffff" >Mời!</font><font face="Default" color="#ffffff" >Mời!</font>
+QiecuoTitle_72006=<font face="Default" color="#ffffff" >Mời!</font><font face="Default" color="#ffffff" >Mời!</font>
+SubmitNpcEx_72005=Giao Kỳ Hoa Dị Thảo cho <a href="findnpc,adv155,-1799,23,345" style="HLStype1">Mục Hương</a> tiểu thư
+SubmitNpcEx_72006=Trả lại tín vật của <a href="findnpc,adv155,-1799,23,345" style="HLStype1">Mục Dịch</a>
+SubmitNpcEx_72007=Trò chuyện với <a href="findnpc,adv155,-1799,23,345" style="HLStype1">Mục Võ</a>
+SubmitNpcEx_72008=<a href="findnpc_new,city02,npc_1912_dy_qy01" style="HLStype1">npc_1912_dy_qy01</a>
+collectinfo_72002=Thu thập <a href="findnpc,adv155,-1920,23,190" style="HLStype1">Vũ Yến Thảo</a>
+collectinfo_72003=Thu thập <a href="findnpc,adv155,-1971,36,142" style="HLStype1">Mộng Linh Hoa</a>
+collectinfo_72004=Thu thập <a href="findnpc,adv155,-1860,23,248" style="HLStype1">Bồ Đề Quả</a>
+collectinfo_72005=Thu thập <a href="findnpc,adv155,-1835,23,271" style="HLStype1">Tử Phương Lan</a>
+collectinfo_72006=Chiến thắng <a href="findnpc,adv155,-1840,24,255" style="HLStype1">Mục Dịch</a> và lấy được tín vật
+hunterinfo_72006=Tỉ thí võ nghệ với <a href="findnpc,adv155,-1799,23,345" style="HLStype1">Mục Võ</a>
+interactinfo_72004=Thu thập <a href="findnpc,adv155,-1920,23,190" style="HLStype1">Vũ Yến Thảo</a>
+interactinfo_72005=Thu thập <a href="findnpc,adv155,-1971,36,142" style="HLStype1">Mộng Linh Hoa</a>
+interactinfo_72006=Thu thập <a href="findnpc,adv155,-1860,23,248" style="HLStype1">Bồ Đề Quả</a>
+interactinfo_72007=Thu thập <a href="findnpc,adv155,-1835,23,271" style="HLStype1">Tử Phương Lan</a>
+okmenu_72004=<font face="Default" color="#ffffff" >Thu thập</font>
+okmenu_72005=<font face="Default" color="#ffffff" >Thu thập</font>
+okmenu_72006=<font face="Default" color="#ffffff" >Thu thập</font>
+okmenu_72007=<font face="Default" color="#ffffff" >Thu thập</font>
+hunterinfo_72004=Trò chuyện cùng những kẻ lén lút trong Gia Viên đó, biết rõ thân phận kẻ trộm và tiêu diệt chúng.
+DialogID_72008=<font face="Default" color="#ffffff" >Vũ Yến Thảo</font>
+DialogID_72009=<font face="Default" color="#ffffff" >Mộng Linh Hoa</font>
+DialogID_72010=<font face="Default" color="#ffffff" >Bồ Đề Quả</font>
+DialogID_72011=<font face="Default" color="#ffffff" >Tử Phương Lan</font>
+QiecuoMenu_72007=<font face="Default" color="#ffffff" >Mời!</font><font face="Default" color="#ffffff" >Mời!</font>
+QiecuoTitle_72007=<font face="Default" color="#ffffff" >Mời!</font><font face="Default" color="#ffffff" >Mời!</font>
+SubmitNpcEx_72009=Giao kì hoa dị thảo cho <a href="findnpc,adv168,-21,10,-58" style="HLStype1">Mục Hương</a> tiểu thư
+SubmitNpcEx_72010=Giao lại tín vật cho <a href="findnpc,adv168,-21,10,-58" style="HLStype1">Mộc Dịch</a>
+SubmitNpcEx_72011=Nói chuyện <a href="findnpc,adv168,-21,10,-58" style="HLStype1">Mục Võ</a>
+collectinfo_72007=Chiến thắng <a href="findnpc,adv168,38,11,-14" style="HLStype1">Mục Dịch</a>, lấy tín vật của Mục Dịch
+hunterinfo_72007=Đánh bại <a href="findnpc,adv168,-21,10,-58" style="HLStype1">Mục Võ</a>
+interactinfo_72008=Thu thập <a href="findnpc,adv168,-17,10,-70" style="HLStype1">Vũ Yến Thảo</a>
+interactinfo_72009=Thu thập <a href="findnpc,adv168,-28,10,-92" style="HLStype1">Mộng Linh Hoa</a>
+interactinfo_72010=Thu thập <a href="findnpc,adv168,-32,10,-78" style="HLStype1">Bồ Đề Quả</a>
+interactinfo_72011=Thu thập <a href="findnpc,adv168,-36,10,-91" style="HLStype1">Tử Phương Lan</a>
+okmenu_72008=<font face="Default" color="#ffffff" >Thu thập</font>
+okmenu_72009=<font face="Default" color="#ffffff" >Thu thập</font>
+okmenu_72010=<font face="Default" color="#ffffff" >Thu thập</font>
+okmenu_72011=<font face="Default" color="#ffffff" >Thu thập</font>
 

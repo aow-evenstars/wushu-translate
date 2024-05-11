@@ -22,7 +22,6 @@ story_53001_4=(Liếc một cái) Vậy xem ngươi có bản lĩnh không! Lão
 storymenu_53001_4=Huynh đài xin đợi tí! Ta vẫn chưa nhận lời..., bạc lúc nãy đã đổi thành giản đồ, rõ ràng là muốn ta đuổi theo!
 storyinfo_53002=Đuổi theo <a href="findnpc_new,school05,World_qy_tangmen132_heiyiren2" style="HLStype1">Hắc Y Nữ Tử</a>
 story_menu_53002=Khinh công của Huynh đài...thật là hay.
-story_53002_1=Như thế cũng được rồi. Ngốc như ngươi cũng có giới hạn. Huynh trưởng Lão Tử đã bị đám thổ phỉ hạ thủ rồi, ta ẩn nấp ở đây cũng đã lâu mà vẫn chưa tìm ra cơ hội báo thù, không ngờ lại vô tình phát hiện huyệt động kẻ xấu giấu báu vật, bọn chúng cứ nghĩ rằng thần không biết quỷ không hay, xem ra chúng không thoát được lưới trời, muốn ta trừng trị chúng rửa hận...
 storymenu_53002_1=Cướp là gì?
 story_53002_2=Lão Tử nói nhiều như vậy, ngươi chỉ nghi ngờ mỗi điểm này thôi sao? Trái tim ngươi rốt cuộc có phải bằng xương bằng thịt! Không nói nhiều nữa, kho bấu ấy nhất định nằm trong Hồi Tâm Giản ở sâu trong Mặc Khê, nhưng ta đã tìm đủ mọi cách, lại không tìm được cánh cửa nào cả.....
 storymenu_53002_2=(Phụ Cận không thái bình ta cũng có nghe qua, người này tuy không thật thà nhưng trong lời nói cũng có chút chân tình) Việc này, ta có thể giúp.
@@ -119,7 +118,6 @@ okmenu_53018=... Vừa xảy ra chuyện gì? Ta mới bị đánh hôn mê, kh�
 okmenu_53020=Vâng, đệ tử sẽ đi ngay!
 okmenu_53021=Môn chủ xem trọng đệ tử như vậy, đệ tử xông pha khói lửa cũng không từ.
 okmenu_53022=<font face="Default" color="#ffffff" >Môn chủ</font> <font face="Default" color="#ffffff" >làm sao lại biết?</font> <font face="Default" color="#ffffff" >Là giữa đường diệt Trình Giảo Kim, cứu Giao Liên trong mật thất, cho nên không thể bắt được. Đệ tử, bằng lòng chịu phạt.</font>
-okmenu_53026=<font face="Default" color="#ffffff" >... Môn chủ quả nhiên anh minh thần vũ! Chủ mưu vốn là Đường Vân, cô ta ám sát Tiêu Thiên Phóng là giả, cướp Đả Cẩu Bổng là thật.</font>
 okmenu_53029=<font face="Default" color="#ffffff" >Chuyện này phải làm như thế nào, chúng đã tiết lộ bí mật, chúng ta sợ bị võ lâm chê cười, </font><font face="Default" color="#ffffff" > không cất đầu dậy nổi trên giang hồ. </font>
 okmenu_53030=Đệ tử rõ!
 okmenu_53031=Đường Vân cũng đã mất, đây là "Thập Tam Phong".
@@ -133,13 +131,11 @@ quest_menu_53009=Được, ta nhớ rồi.
 quest_menu_53010=Được rồi, ta nhớ rồi.
 questioninfo_53009=Trả lời câu hỏi của <a href="findnpc_new,school05,WorldNpc02206" style="HLStype1">Đường Giải Ngữ</a>
 questioninfo_53010=Trả lời câu hỏi của <a href="findnpc_new,school05,WorldNpc02206" style="HLStype1">Đường Giải Ngữ</a>
-specialinfo_550=Bắt cóc 1 người chơi ofline
 specialinfo_551=Hoàn thành 1 lần nhiệm vụ Tuần Tra
 specialinfo_553=Hoàn thành nhiệm vụ Điều Tra Nga My 1 lần
 specialinfo_554=Thành công 1 chuyến tiêu
 specialinfo_555=Hoàn thành 1 lần Lệnh Truy Nã
 specialinfo_556=Hoàn thành 1 lần buôn bán
-specialinfo_557=Giải thoát 1 người chơi bị bắt cóc
 specialinfo_558=Vượt ải Mộ Sắc Chi Thôn-Thường
 specialinfo_559=Hoàn thành nhiệm vụ Điều Tra Thiếu Lâm 1 lần
 story_53008_1=Nhiệm vụ Mật Lệnh là hình thức bảo mật Đường Môn tuyên bố nhiệm vụ bí mật, muốn trở thành đệ tử quan trọng của Đường Môn cần hiểu rõ giải pháp Mật Lệnh. Ta sẽ tỉ mỉ nói về giải pháp Mật Lệnh cho ngươi, ngươi phải ghi nhớ cẩn thận, về sau chỉ có thể tự mình giải đọc mật văn.
@@ -246,6 +242,8 @@ DialogID_53030=Không ngờ Tứ Thúc lại ra tay cứu Vân Nhi! Vì danh d�
 collectinfo_53020=Thu thập "Thập Tam Phong" trên người Tây Môn Dục của Khổng Tước Sơn Trang-Thường
 hunterinfo_53034=Vào <a href="findnpc_new,school05,World_qy_tangmen_kqkeeper" style="HLStype1">Khổng Tước Sơn Trang</a>, đánh bại Đường Vân
 interactinfo_53005=<s>Tiến vào Khổng Tước Sơn Trang, truy kích Đường Vân.
-okmenu_53025=Vâng. Đường Vân luôn hợp tác với U Linh Sơn Trang, hai bên câu kết ám sát Tiêu Thiên Phóng, cướp Đả Cẩu Bổng, đổ họa cho Đường Môn. Đường Vân ép người gọi Mạc Vô Tình uy hiếp Hình Quân Khả, để Hình Quân Khả nghe lệnh cô ta.
 specialinfo_552=Đến Thành Đô phát động khiêu chiến thế lực Cán Hoa Kiếm Phái và nhận thắng lợi
+okmenu_53025=Vâng. Đường Vân luôn hợp tác với U Linh Sơn Trang, hai bên câu kết ám sát Tiêu Thiên Phóng, cướp Đả Cẩu Bổng, đổ họa cho Đường Môn. Đường Vân ép người gọi Mạc Vô Tình uy hiếp Hình Quân Khả, để Hình Quân Khả nghe lệnh cô ta.
+okmenu_53026=<font face="Default" color="#ffffff" >... Môn chủ quả nhiên anh minh thần vũ! Chủ mưu vốn là Đường Vân, cô ta ám sát Tiêu Thiên Phóng là giả, cướp Đả Cẩu Bổng là thật.</font>
+story_53002_1=Như thế cũng được rồi. Ngốc như ngươi cũng có giới hạn. Huynh trưởng Lão Tử đã bị đám thổ phỉ hạ thủ rồi, ta ẩn nấp ở đây cũng đã lâu mà vẫn chưa tìm ra cơ hội báo thù, không ngờ lại vô tình phát hiện huyệt động kẻ xấu giấu báu vật, bọn chúng cứ nghĩ rằng thần không biết quỷ không hay, xem ra chúng không thoát được lưới trời, muốn ta trừng trị chúng rửa hận...
 

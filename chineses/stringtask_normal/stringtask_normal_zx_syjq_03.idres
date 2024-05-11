@@ -85,7 +85,6 @@ target_73903=Tìm kiếm nơi ở của Tổ Trừng
 target_73904=Giả vờ rời khỏi Thiếu Lâm Tự để dụ người Mật Tông ra ngoài
 target_73905=Tìm được manh mối mà Tổ Trừng để lại năm đó ở Thiếu Lâm Tự
 target_73906=Lập tức báo cáo chuyện này cho Lâm Thiên Nam.
-target_73907=Đánh bại sát thủ Mật Tông, sau đó đến Nga My tìm Hiên Viên Sở Tinh
 target_73908=Thăm dò ý tứ của Hiên Viên Sở Tinh, bí mật bảo vệ cô
 target_73909=Trò chuyện với Hiên Viên Cuồng Lãng
 target_73910=Hồi bẩm minh chủ
@@ -99,4 +98,96 @@ title_73907=Phong ba lại nổi
 title_73908=Bí mật bảo vệ
 title_73909=Manh mối lại đứt
 title_73910=Tạm dừng lại
+CanAcceptMenu_73911=<font face="Default" color="#ffffff" >Tìm kiếm Sơn cốc </font>
+CanAcceptMenu_73913=<font face="Default" color="#ffffff" >Phá giải trận pháp</font>
+CanAcceptMenu_73914=<font face="Default" color="#ffffff" >Mạng sống mong manh</font>
+CanAcceptMenu_73915=<font face="Default" color="#ffffff" >Hiểu rõ chuyện xưa</font>
+CanAcceptMenu_73916=<font face="Default" color="#ffffff" >Chân tướng rõ ràng</font>
+CanAcceptMenu_73917=<font face="Default" color="#ffffff" >Tần Vương nghi ngờ</font>
+CanAcceptMenu_73918=<font face="Default" color="#ffffff" >Tình đầu ý hợp</font>
+CanAcceptMenu_73919=<font face="Default" color="#ffffff" >Duyên khởi duyên tan</font>
+CompleteMenu_73911=<font face="Default" color="#ffffff" >Hoàn thành nhiệm vụ</font>
+CompleteMenu_73912=<font face="Default" color="#ffffff" >Hoàn thành nhiệm vụ</font>
+CompleteMenu_73913=<font face="Default" color="#ffffff" >Hoàn thành nhiệm vụ</font>
+CompleteMenu_73914=<font face="Default" color="#ffffff" >Hoàn thành nhiệm vụ</font>
+CompleteMenu_73915=<font face="Default" color="#ffffff" >Hoàn thành nhiệm vụ</font>
+CompleteMenu_73916=<font face="Default" color="#ffffff" >Hoàn thành nhiệm vụ</font>
+CompleteMenu_73917=<font face="Default" color="#ffffff" >Hoàn thành nhiệm vụ</font>
+CompleteMenu_73918=<font face="Default" color="#ffffff" >Hoàn thành nhiệm vụ</font>
+CompleteMenu_73919=<font face="Default" color="#ffffff" >Đa tạ Chưởng Môn chỉ điểm!</font>
+accept_73911_1=<font face="Default" color="#ffffff" >Tiêu Công Tử? Tiêu Công Tử</font><font face="Default" color="#ffffff" >...</font><font face="Default" color="#ffffff" >vẫn khỏe chứ?</font>
+accept_73913_1=<font face="Default" color="#ffffff" >Việc này liên quan đến triều đình, nhanh báo cho quần hùng giang hồ.</font>
+accept_73914_1=<font face="Default" color="#ffffff" >Ta luôn cảm thấy trên đường có người đi theo chúng ta ...</font>
+accept_73915_1=<font face="Default" color="#ffffff" >Quá khứ không muốn đề cập nữa, hôm nay cùng sư muội tương phùng, thì nói cho các ngươi.</font>
+accept_73916_1=<font face="Default" color="#ffffff" >Ta nhận được bồ câu đưa thư, quần hùng giang hồ đang tranh đấu, nay đã rất khốc liệt.</font>
+accept_73917_1=<font face="Default" color="#ffffff" >Bây giờ hóa giải phân tranh, giang hồ lại thái bình, tại sao Tiêu Công Tử vẫn âu sầu, tâm sự trùng trùng...</font>
+accept_73918_1=<font face="Default" color="#ffffff" >Bẩm báo môn chủ, </font><font face="Default" color="#ffffff" >đệ tử</font><font face="Default" color="#ffffff" >có việc bẩm báo.</font>
+accept_73919_1=<font face="Default" color="#ffffff" >Dù ta sống ở Cổ Mộ nhiều năm, không có nghĩa là ta tuyệt tình</font> <font face="Default" color="#ffffff" >không ham muốn.</font><font face="Default" color="#ffffff" >Biệt Tình, ngươi ta vốn không thể bên nhau...</font>
+complete_73911=<font face="Default" color="#ffffff" >Xem ra chỉ được triệu hồi </font><font face="Default" color="#ffffff" >Bạch Điêu đưa chúng ta ra khỏi cốc</font><font face="Default" color="#ffffff" >. Không thể chậm trễ, chúng ta mau đến Yên Vũ Trang.</font>
+complete_73912=<font face="Default" color="#ffffff" >Việc này hình như có liên quan đến triều đình...</font>
+complete_73913=<font face="Default" color="#ffffff" >Nhưng ta vẫn lo lắng...</font>
+complete_73914=<font face="Default" color="#ffffff" >Việc này nói ra dài dòng...</font>
+complete_73915=<font face="Default" color="#ffffff" >Con Bạch Điêu tặng cho sư tỷ đi, tốt xấu gì cũng có thể làm bạn.</font>
+complete_73916=<font face="Default" color="#ffffff" >Thật là vinh hạnh, chúng nhân nay đều tỉnh ngộ không tranh đấu nữa</font><font face="Default" color="#ffffff" ></font><font face="Default" color="#ffffff" >.</font>
+complete_73917=<font face="Default" color="#ffffff" >Tiêu Môn Chủ, sau này gặp lại.</font>
+complete_73918=<font face="Default" color="#ffffff" >Không dám dấu, Võ Lâm Minh Chủ Lâm Thiên Nam là phụ thân của ta. Giang hồ đều đồn Lâm Minh Chủ trưởng nữ bất mãn vong mạng lúc nhỏ, lại có người biết cô ấy chưa tử vong... Khi ta hồi nhỏ, Lưu Cơ xem tướng, ta thuộc nội mị. Trưởng thành chắc chắn phong thái khuynh thành. Phụ thân sợ ta hồng nhan họa thủy gây họa võ lâm, liền đưa ta đến Cổ Mộ, giao cho Chưởng Môn chăm sóc.</font>
+complete_73919=<font face="Default" color="#ffffff" >Vậy chúng ta cáo từ, Tiêu Đường Chủ bảo trọng.</font>
+context_73911=Gặp gỡ Bích Lưu Túc, cùng nhau tìm kiếm Sơn cốc.
+context_73912=Điều tra theo dõi nguồn gốc "Võ Định Tịch".
+context_73913=Đánh bại người chặn đường, ở điểm tập họp báo cho quần hùng nguồn gốc "Võ Định Tịch".
+context_73914=Ở điểm tập họp báo cho quần hùng nguồn gốc "Võ Định Tịch".
+context_73915=Nghe Lãnh Thanh Thiển kể chuyện quá khứ.
+context_73916=Đến tụ điểm, ngăn cản quần hùng tranh đấu, báo cho "Võ Định Tịch" âm mưu đằng sau.
+context_73917=Suy đoán nguồn gốc và âm mưu của "Võ Định Tịch", hẹn ngày gặp lại.
+context_73918=Bày tỏ nỗi lòng cho nhau.
+context_73919=Kết cục của yêu nhau chưa chắc là bên nhau.
+context_73920=Điều tra hai thi thể không rõ trong sơn cốc
+menu_73911_1=<font face="Default" color="#ffffff" >Chỉ là vết thương ngoài da, không đáng ngại.</font><font face="Default" color="#ffffff" >Bích</font><font face="Default" color="#ffffff" > cô nương sao lại ở đây?</font>
+menu_73913_1=<font face="Default" color="#ffffff" > Không thể chậm trễ, chúng ta mau xuất phát.</font>
+menu_73914_1=<font face="Default" color="#ffffff" >Khách không mời, sao không quang minh chính đại, xuất hiện đi!</font>
+menu_73915_1=<font face="Default" color="#ffffff" >Mời</font> <font face="Default" color="#ffffff" >cô nương</font><font face="Default" color="#ffffff" >từ từ nói</font><font face="Default" color="#ffffff" >.</font>
+menu_73916_1=<font face="Default" color="#ffffff" > Không thể chậm trễ, </font><font face="Default" color="#ffffff" >phải</font><font face="Default" color="#ffffff" > nhanh đến ngăn cản </font><font face="Default" color="#ffffff" >bọn họ.</font>
+menu_73917_1=<font face="Default" color="#ffffff" >Việc này</font> <font face="Default" color="#ffffff" >chỉ e</font><font face="Default" color="#ffffff" > không đơn giản như vậy...</font>
+menu_73918_1=<font face="Default" color="#ffffff" >Có chuyện gì?</font>
+menu_73919_1=<font face="Default" color="#ffffff" >Yêu nhau không thể bên nhau, ta một mình canh giữ ngươi, cũng không có gì hối tiếc.</font>
+next_73911=Trò chuyện với <a href="findnpc_new,adv147,npc_2019jq_lzy_001" style="HLStype1">Bích Lưu Túc</a>
+next_73912=Trò chuyện với <a href="findnpc_new,adv147,npc_2019jq_lzy_020" style="HLStype1">Bích Lưu Túc</a>
+next_73913=Trò chuyện với <a href="findnpc_new,adv147,npc_2019jq_lzy_021" style="HLStype1">Bích Lưu Túc</a>
+next_73914=Trò chuyện với <a href="findnpc_new,adv147,npc_2019jq_lzy_021" style="HLStype1">Bích Lưu Túc</a>
+next_73915=Trò chuyện với <a href="findnpc_new,adv147,npc_2019jq_lzy_021" style="HLStype1">Bích Lưu Túc</a>
+next_73916=Trò chuyện với <a href="findnpc_new,adv147,npc_2019jq_lzy_022" style="HLStype1">Bích Lưu Túc</a>
+next_73917=Trò chuyện với <a href="findnpc_new,adv147,npc_2019jq_lzy_007" style="HLStype1">Tiêu Thiên Phóng</a>
+next_73918=Trò chuyện với <a href="findnpc_new,adv146,npc_2019jq_lzy_011" style="HLStype1">Bích Lưu Túc</a>
+next_73919=Trò chuyện với <a href="findnpc_new,,npc_2019jq_lzy_010" style="HLStype1">Cổ Mộ Chưởng Môn</a>
+next_73920=Trò chuyện với <a href="findnpc_new,adv147,npc_2019jq_lzy_019" style="HLStype1">Bích Lưu Túc</a>
+submit_73911=<font face="Default" color="#ffffff" >May nhờ Bích cô nương nuôi</font> <font face="Default" color="#ffffff" >con Bạch Điêu này</font><font face="Default" color="#ffffff" >. Nếu không chúng ta chôn thây ở sơn cốc rồi.</font>
+submit_73912=<font face="Default" color="#ffffff" >Xem ra đã lộ manh mối, chúng ta ngày càng gần chân tướng hơn.</font>
+submit_73913=<font face="Default" color="#ffffff" >Trước mắt nếu chậm trễ, có lẽ sẽ mất thêm mấy mạng, chúng ta nhanh lên đường nào.</font>
+submit_73914=<font face="Default" color="#ffffff" >Tại hạ rửa tai lắng nghe.</font>
+submit_73915=<font face="Default" color="#ffffff" >Bạch Điêu cảm tình sâu nặng với ngươi, </font><font face="Default" color="#ffffff" >sư tỷ chắc chắn hiểu được tâm ý của ngươi.</font>
+submit_73916=<font face="Default" color="#ffffff" >Coi như tránh được một trận hào kiếp võ lâm.</font>
+submit_73917=<font face="Default" color="#ffffff" >Bảo trọng, Tiêu Bang Chủ... Nếu có việc, gửi thư về Quân Tử Đường</font><font face="Default" color="#ffffff" ></font><font face="Default" color="#ffffff" >  là được.</font>
+submit_73918=<font face="Default" color="#ffffff" >Lưu Túc, con đường này ta và ngươi đã trải qua hoạn nạn sinh tử, đó là thời gian đẹp nhất trong đời ta.</font>
+submit_73919=<font face="Default" color="#ffffff" >Cung chúc Chưởng Môn.</font>
+target_73911=Cùng Bích Lưu Túc tìm kiếm Sơn cốc.
+target_73912=Dựa theo manh mối điều tra dấu vết nguồn gốc "Võ Định Tịch".
+target_73913=Đánh bại người chặn đường, ở điểm tập họp báo cho quần hùng nguồn gốc "Võ Định Tịch".
+target_73914=Ở điểm tập họp báo cho quần hùng nguồn gốc "Võ Định Tịch".
+target_73915=Nghe Lãnh Thanh Thiển kể chuyện quá khứ.
+target_73916=Đến tụ điểm, ngăn cản quần hùng tranh đấu, báo cho "Võ Định Tịch" âm mưu đằng sau.
+target_73917=Suy đoán nguồn gốc và âm mưu của "Võ Định Tịch", hẹn ngày gặp lại.
+target_73918=Bày tỏ nỗi lòng cho nhau.
+target_73919=Kết cục của yêu nhau chưa chắc là bên nhau.
+target_73920=Điều tra hai thi thể không rõ trong sơn cốc
+title_73911=Tìm kiếm Sơn cốc
+title_73912=Điều tra dấu vết
+title_73913=Phá giải trận pháp
+title_73914=Ngàn cân treo sợi tóc
+title_73915=Hiểu rõ chuyện xưa
+title_73916=Chân tướng rõ ràng
+title_73917=Tần Vương nghi ngờ
+title_73918=Tình đầu ý hợp
+title_73919=Duyên khởi duyên tan
+title_73920=Thi Thể Không Rõ
+target_73907=Đánh bại sát thủ Mật Tông, sau đó đến Nga My tìm Hiên Viên Sở Tinh
 
