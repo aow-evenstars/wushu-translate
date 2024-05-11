@@ -31,8 +31,6 @@ menu_5005_1=<font face="Default" color="#ffffff" >Thank you for reminding me, si
 canacceptmenu_5005=
 complete_5005=<font face="Default" color="#ffffff" >These are Blacksmithing Clothes. Go find the old blacksmith Wang on Xijia Mountain. He might know something about them. </font>
 submit_5005=<font face="Default" color="#ffffff" >OK, here I go.</font>
-title_5006=Revenge
-context_5006=Old Man Wang wants you to kill the Villiage Head and avenge his two sons.
 target_5006=Help Old Man Wang kill the Village Head.
 accept_5006_1=Where are my sons?
 menu_5006_1=Old man, do you recognize these clothes?
@@ -48,7 +46,6 @@ complete_5007=Do you have the poison?
 submit_5007=Everything is ready, don't worry.
 completemenu_5007=
 title_5008=Fight Poison with Poison
-accept_5008_1=Avenge them for me. Please.
 menu_5008_1=Avenge the innocent.
 canacceptmenu_5008=What should I do now?
 accept_5009_1=
@@ -94,4 +91,7 @@ target_5003=Ask You Zhan about Peacock Villa
 target_5005=Go to Heaven Pillar Peak in the Peacock Villa to find the legendary Peacock Plume.
 target_5008=Help the old man poison the Peacock Villa Kitchen.
 target_5009=Enter the Secret Chamber and find the Peacock Plume Treasure Box
+accept_5008_1=Avenge them for me. Please.
+context_5006=Old Man Wang wants you to kill the Village Head and avenge his two sons.
+title_5006=Revenge
 

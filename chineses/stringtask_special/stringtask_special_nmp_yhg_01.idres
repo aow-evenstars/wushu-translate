@@ -10,7 +10,6 @@ DialogID_12607=<font face="Default" color="#ffffff" >Insolent fool! You think yo
 DialogID_12609=Lady, please have mercy! I will get that person for you now…please don't be angry.
 DialogID_12610=<font face="Default" color="#ffffff" >Thank you for your assistance. Now I must report back to the palace. This is the Dark Jade Plum Blossom token given to those worthy to enter the palace grounds. If you would like to go there, go to the Chengdu harbor and find the Flower Palace Boat to take you there. When you arrive, present this item to Zhou Shuge</font><font face="Default" color="#ffffff" >.</font>
 DialogID_12611=<font face="Default" color="#ffffff" > </font><font face="Default" color="#ffffff" >If you are here, you are certainly carrying a Dark Jade Plum Blossom token. Can you please take it out so that I can verify it?</font>
-DialogID_12612=<font face="Default" color="#ffffff" > That villain has harassed Miss Yun many times. He did not even care about the authorities. Now he is dead…good riddance.</font>
 DialogID_12613=<font face="Default" color="#ffffff" >Have you collected all the map fragments that I need?</font>
 DialogID_12614=<font face="Default" color="#ffffff" >Have you collected all the dead mice?</font>
 DialogID_12625=
@@ -275,8 +274,6 @@ ZZAnswerText1_6572=Scholars
 ZZAnswerText1_6573=Beggar's Sect
 ZZAnswerText1_6574=Alimony
 ZZAnswerText1_6575=Concubine
-ZZAnswerText1_6576=The groom
-ZZAnswerText1_6577=The Emei are  nuns who renounce love and sex. We do not.
 ZZAnswerText1_6578=We can have lovers and even husbands, but only if we pass a cruel test.
 ZZAnswerText1_6579=Beheading
 ZZAnswerText1_6580=Martial virtuous is first
@@ -292,7 +289,6 @@ ZZAnswerText1_6603=Revenge.
 ZZAnswerText1_6604=Domination over men.
 ZZAnswerText1_6605=We make peace with our enemies, turning them into allies.
 ZZAnswerText1_6606=Through just retribution. We remind the world who we are with each enemy we slay.
-ZZAnswerText1_6607=Compassion
 ZZAnswerText1_6608=I am ready.
 ZZAnswerText1_6609=Yes!
 ZZAnswerText2_6480=Sweet and Sour
@@ -406,8 +402,6 @@ ZZAnswerText2_6602=Creatures of scorn and contempt.
 ZZAnswerText2_6603=Forgiveness.
 ZZAnswerText2_6604=Love and peace for all humankind.
 ZZAnswerText2_6605=We punish the wicked without mercy.
-ZZAnswerText2_6606=Through guile. We are spies and assassins.
-ZZAnswerText2_6607=Justice
 ZZAnswerText2_6608=Let me think about it.
 ZZAnswerText2_6609=No.
 collectinfo_12600=Collect <a href="findnpc_new,born01," style="HLStype1"></a>10 Flying Eagle Underground Palace map fragments. During evenings from 18:00 to 06:00 of the following morning, these items are dropped by defeated NPCs in the Forest of Flowers and Mist.
@@ -574,7 +568,6 @@ hunterinfo_12611=Escort <a href="findnpc_new,school09,yhg_024" style="HLStype1">
 hunterinfo_12612=Escort <a href="findnpc_new,school09,yhg_025" style="HLStype1">Du Ruo </a>back to Palace of Shifting Flowers.
 hunterinfo_12613=Collect three herbs with warm qualities. Each harvest will consume vitality points.
 hunterinfo_12615=Listen to the sad tale of the prostitute. Then, go to the brothel and teach the madam <a href="findnpc_new,city05,WorldNpc09745" style="HLStype1">Qiao Ji </a>a lesson.
-hunterinfo_12656=Go to Tangmen and kill the <a href="findnpc_new,school05,monm052400" style="HLStype1">krait</a>, take the snake tendon and eat it. This will balance your meridians.
 hunterinfo_12724=Defeat  <a href="findnpc_new,school09,yhg_origin_02_01" style="HLStype1">Hua Jingkong.</a>
 hunterinfo_12725=Defeat  <a href="findnpc_new,school09,yhg_origin_02_02" style="HLStype1">Hua Jingkong.</a>
 hunterinfo_12726=Defeat  <a href="findnpc_new,school09,yhg_origin_02_03" style="HLStype1">Hua Jingkong.</a>
@@ -612,7 +605,6 @@ interactinfo_12610=Yun Xianxiao has departed safely. Inform the <a href="findnpc
 interactinfo_12611=Which pier in Chengdu is the palace boat docked? I'll have to find Zhou Shuge, too.
 interactinfo_12612=Did something happen here? Go in front to <a href="findnpc_new,city05,cd415" style="HLStype1">where the crowd is gathered </a>to see what the commotion is about.
 interactinfo_12613=Take the 5 damaged paintings, which are actually maps, and give them to <a href="findnpc_new,school09,yhg_004" style="HLStype1">Hua Lingxin.</a>
-interactinfo_12614=Kill 5 mice and  present their carcasses to <a href="findnpc_new,school09,yhg_004" style="HLStype1">Hua Lingxin.</a>
 interactinfo_12615=Gather <a href="findnpc_new,school09,EventNpc_task_39231" style="HLStype1">dirty laundry </a>from the palace residents.
 interactinfo_12616=Dry out the <a href="findnpc_new,school09,EventNpc_task_39232" style="HLStype1">damp poetry collection.</a>
 interactinfo_12617=Dry out then <a href="findnpc_new,school09,EventNpc_task_39232" style="HLStype1">damp collection of medical treatises.</a>
@@ -799,7 +791,6 @@ maintext_6560=Wisdom comes often from deeds, not words. What is the best way to 
 maintext_6561=Wisdom comes often from deeds, not words. How do you increase your power?
 maintext_6562=The Palace of Shifting Flowers is beautiful beyond compare, won't you agree? What is the name of an open space surrounded by buildings?
 maintext_6563=In architecture, beauty lies in symmetry. Which of the following shapes typically define a palace?
-maintext_6564=Whom do we fear the most?
 maintext_6565=Where can you test your skills against another disciple?
 maintext_6566=Which major school of martial arts is known for its mastery of hidden ranged weapons, and poison?
 maintext_6567=Which school of martial arts, like us, is a sisterhood of women?
@@ -816,7 +807,6 @@ maintext_6577=We are not the Emei. Name one difference between us.
 maintext_6578=We are not the Emei. Name one difference between us.
 maintext_6579=We show no mercy to our enemies. Death by decapitation is also known as…
 maintext_6580=<s>
-maintext_6581=<s>
 maintext_6582=<s>
 maintext_6583=<s>
 maintext_6584=<s>
@@ -828,7 +818,6 @@ maintext_6603=How do you mend a broken heart?
 maintext_6604=What is your greatest wish?
 maintext_6605=We have so many enemies in the world. How will you deal with them?
 maintext_6606=How do we spread the glory of the Palace of Shifting Flowers?
-maintext_6607=Which is a greater value, compassion or justice?
 maintext_6609=You have passed the test. Do you wish to join the Palace of Shifting Flowers?
 okmenu_12600=The attacker appears to be highly skilled. I will ask the others for more information.
 okmenu_12601=<font face="Default" color="#ffffff" >Plum Blossom Dart? Could it be the Plum Blossom Gate? But there has been no news of their being in Chengdu... </font>
@@ -1137,4 +1126,15 @@ okmenu_12708=<font face="Default" color="#ffffff" >You're welcome. I did notice 
 ZZAnswerText2_6560=With another overt attack.
 hunterinfo_12733=Defeat Liang Yingfeng in the Huanhua Sword Sect Faction Challenge.
 story_12701_1=<font face="Default" color="#ffffff" > </font><font face="Default" color="#ffffff" >It's a familiar story. Younger Sister Jin Xun was out of the palace on an errand, and in the rush to get back at night, she lost her way in the wilderness. Desperately in need of help, she met Du Ruo of Peach Blossom Island. Sir Du saw that she was hungry and thirsty, so he offered her half of the roasted wild fowl he grilled, after the rain stopped, he escorted her to Yanyu Villa... </font>
+DialogID_12612=<font face="Default" color="#ffffff" > That villain has harassed Miss Yun many times. He did not even care about the authorities. Now he is dead…good riddance.</font>
+ZZAnswerText1_6576=Increase Infamy points
+ZZAnswerText1_6577=The Emei are nuns who renounce love and sex. We do not.
+ZZAnswerText1_6607=Compassion
+ZZAnswerText2_6606=Through guile. We are spies and assassins.
+ZZAnswerText2_6607=Justice
+hunterinfo_12656=Go to Tangmen and kill the <a href="findnpc_new,school05,monm052400" style="HLStype1">krait</a>, take the snake tendon and eat it. This will balance your meridians.
+interactinfo_12614=Kill 5 mice and present their carcasses to <a href="findnpc_new,school09,yhg_004" style="HLStype1">Hua Lianxin.</a>
+maintext_6564=Whom do we fear the most?
+maintext_6581=<s>
+maintext_6607=Which is a greater value, compassion or justice?
 

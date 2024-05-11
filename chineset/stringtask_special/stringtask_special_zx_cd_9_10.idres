@@ -63,7 +63,6 @@ ZZAnswerText4_2283=太極拳
 ZZAnswerText4_2285=楊邪
 collectinfo_17211=從<a href="findnpc_new,city01,monrc025067" style="HLStype1">錦衣衛頭目</a>身上得到書信
 collectinfo_17212=去集<a href="findnpc_new,scene03,Gather0001xk" style="HLStype1">野生草藥</a>
-collectinfo_17213=<a href="findnpc_new,city01,monrc025021" style="HLStype1">殺人莊密探</a>身上似乎有什麼東西撿起來看看
 collectinfo_17223=從<a href="findnpc_new,scene03,monf033201" style="HLStype1">糧倉巡邏兵</a>身上搜到賑災物資
 collectinfo_17229=從<a href="findnpc_new,scene03,Gather0002xk" style="HLStype1">冥霜菇堆</a>採集
 convoy_talk_34390_1=少俠後會有期。
@@ -75,8 +74,6 @@ convoyinfo_17207=跟著燕孤鴻<a href="findnpc,city01,609,,168" style="HLStype
 convoyinfo_17215=跟著弟子到<a href="findnpc,scene03,1100,0,616" style="HLStype1">門口</a>
 hunterinfo_17201=擊敗<a href="findnpc_new,school05,WorldNpc02527" style="HLStype1">古隆</a>
 hunterinfo_17202=打敗<a href="findnpc_new,school05,WorldNpc02557" style="HLStype1">五仙教弟子阿妮桑</a>
-hunterinfo_17203=擊敗<a href="findnpc_new,city01,monrc025065" style="HLStype1">錦衣衛殺手</a>
-hunterinfo_17204=擊敗<a href="findnpc_new,city01,monrc025021" style="HLStype1">殺人莊密探</a>
 hunterinfo_17205=殺死<a href="findnpc_new,school05,monrm070002" style="HLStype1">賊梟</a>
 hunterinfo_17206=擊敗<a href="findnpc_new,city01,WorldNpc09085" style="HLStype1">黑衣女子</a>
 hunterinfo_17207=打敗<a href="findnpc_new,city01,monrc025068" style="HLStype1">叛徒教唆者</a>
@@ -194,7 +191,6 @@ story_17203_2=只知道這個人姓百，別的我們也不知道。
 story_17204_2=<s>不料遇到錦衣衛的攔擊，寡不敵眾，遭遇重傷。
 story_17205_1=<s>紫嫣聰明伶俐，我對其十分特愛和器重，不料龍紫嫣生性不勒，在閉關修行六年後，不顧門派法規，毅然走出古墓遊走江湖。
 story_17206_1=<s>天外天位於水鄉煙雨莊東面的小島上，遠遠望去是一座精美的樓閣，然後周圍卻開滿了本不應該出現在江南的曼陀羅花，這片花叢中彌漫著劇毒，旁人如若未曾服食解藥而接近，不但身中劇毒，陷入深層的幻覺不可自拔，更可能因此而發瘋。
-story_17206_2=<s>事實上，這座神秘的天外天正是天下第一隱藏勢力——密宗旗下最上層殺手營所在，這裡收藏著無數的江湖秘密，並精心細布一百八十種機關和三百名武功最為卓越的一流殺手，而其中不少竟然是早年名動江湖的高手。
 story_17207_1=<s>沐雲莊坐落于唐門近郊，莊內不乏一些名動江湖的高人。它能與附近的唐家堡和十二連環塢分庭抗禮，自是實力不小，在江湖上素有名望。
 story_17209_2=且幽冥宮宮主野心頗大。依仗著一身飄忽不定的邪門武功，幽冥公主不僅伺機籠絡江湖邪派擴充勢力，更意圖借助非常手段在武林中占得一席之地。
 story_17210_1=<s>幽冥宮大宮主白瑩瑩是江湖上有名的女魔頭，因練邪功導致其陰狠惡毒，除了自己的妹妹誰都不相信。但心高氣傲，志向遠大，一心想講幽冥宮打造成武林一大幫派。
@@ -205,7 +201,6 @@ story_17212_1=<s>白髮魔女白夙玨被逐出師門後，輾轉來到了南疆
 story_17222_1=<s>黃河泛災，苦了災民。我們丐幫發放了很多救濟物資，試圖盡一些自己力所能及的幫助。
 story_17222_2=<s>但總舵傳來消息附近有不少官軍，聽說是丐幫賑災的物資，便仰仗自己的身份，浮現出原本的醜惡嘴臉，進行搶奪。
 story_17222_3=我們丐幫一定會把物資奪回來。救人如救火，事不宜遲，小兄弟速速前往分舵告知分舵舵主。
-story_17226_1=宮主只喜歡狠毒的武功很音樂，喜歡研究各種殺人方法，以設計江湖各大門派為樂，最近一直在修煉《晦冥心法》，真為她擔心啊。
 story_17226_2=啊！這可怎麼辦，宮主修煉《晦冥心法》走火入魔，心智發生了很大的變化，誰都不願意相信，出了事情也沒人知道。
 story_17239_2=<s>然幽冥宮雖小，但我依仗著一身飄忽不定的武功，不僅伺機籠絡江湖邪派擴充勢力，更會用借助非常手段稱霸武林。
 story_menu_17201=敢問貴莊來頭？
@@ -271,11 +266,16 @@ DialogID_17241=<s>此乃我西山古墓自古之寶，現贈予你。
 ZZAnswerText1_2283=降龍掌法（絕學）
 interactinfo_17222=從<a href="findnpc_new,school05,WorldNpc02527" style="HLStype1">古隆</a>處得到西山古墓地圖
 maintext_2285=<s>西山古墓創始人是誰？
-okmenu_17218=在墓中發現了殺人莊的探子，並有西山古墓叛徒弟子。都被我殺死了。
 okmenu_17223=我這有張西山古墓的地圖，不知張護法認識否？
 quest_menu_17201=西山古墓創始人
 story_17204_1=<s>金剛門門主夏無憂遭遇西域奇毒，身體極熱難耐，經門內神醫診斷後，說需要西山古墓內的玉蜂秘漿，化解此毒，特派我前來索取。
 story_17205_2=　　一次離開古墓之時見到東方羽，產生愛慕，最後背叛西山古墓嫁入東方家。我遂將其逐出師門。
 story_17209_1=　　幽冥宮地處西村墓林，陰森恐怖，與西山古墓一般皆被世人稱為活死人之地。宮中弟子詭異無常，手段殘忍，四處擄劫村民修煉邪功，因此尋常人等皆不敢輕易接近。那些路匪也只能被脅迫做些拐賣村民的勾當。
 story_17239_1=<s>幽冥宮地處西村墓林，陰森恐怖，與西山古墓一般皆被世人稱為活死人之地。
+collectinfo_17213=<a href="findnpc_new,city01,monrc025021" style="HLStype1">異人莊密探</a>身上似乎有什麼東西撿起來看看
+hunterinfo_17203=擊敗<a href="findnpc_new,city01,monrc025065" style="HLStype1">錦衣衛隱衛</a>
+hunterinfo_17204=擊敗<a href="findnpc_new,city01,monrc025021" style="HLStype1">異人莊密探</a>
+okmenu_17218=在墓中發現了異人莊的探子，並有西山古墓叛徒弟子。都被我殺死了。
+story_17206_2=<s>事實上，這座神秘的天外天正是天下第一隱藏勢力——密宗旗下最上層隱衛營所在，這裡收藏著無數的江湖秘密，並精心細布一百八十種機關和三百名武功最為卓越的一流隱衛，而其中不少竟然是早年名動江湖的高手。
+story_17226_1=　　宮主只喜歡狠毒的武功很音樂，喜歡研究各種攻克方法，以設計江湖各大門派為樂，最近一直在修煉《晦冥心法》，真為她擔心啊。
 

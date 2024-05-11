@@ -75,7 +75,6 @@ accept_50011_1=<font face="Default" color="#ffffff" >It is time. Speak to Lu Fen
 accept_50012_1=<font face="Default" color="#ffffff" >Listen. I found a dead man outside the walls yesterday. Everyone thinks he died of natural causes, but the snakes say it's poison. You Tangmen are poison experts, right? Can you take a look?</font>
 accept_50013_1=<font face="Default" color="#ffffff" >You need to tell our leader what we've found, but Zheng Tongtian is at the gate. He won't let you in unless you beat him in a duel. </font>
 accept_50015_1=<s>I'll take you to Stronghold Leader Lei now.
-accept_50017_1=Get out of here, and tell that crone you serve that she doesn't scare me.
 accept_50019_1=<font face="Default" color="#ffffff" >You might have already met Zheng Tongtian. He's a guard at the gate, and a friend of mine. If you bring him some Passionfruit Flowers, and tell him I sent you, he might tell you what you need to know. </font>
 accept_50020_1=<font face="Default" color="#ffffff" >You have to be careful around here, kid. Lei Guanque is into some shady business, and anyone who questions him disappears.</font>
 accept_50022_1=<font face="Default" color="#ffffff" >  Well, I've been hearing some troubling rumors, but asking around will just get you in trouble. Most everyone is loyal to that cockroach Guanque. Huang Si, our friend with the snakes, is not. He might have some advice for you.</font>
@@ -340,9 +339,7 @@ accept_50035_1=<font face="Default" color="#ffffff" >It's you... Stay away from 
 complete_50033=<font face="Default" color="#ffffff" >W-what is this?</font>
 CanAcceptMenu_50471=Maybe Xingxiu Sect has spies in Tangmen.
 CompleteMenu_50181=Zhuge Jing is still in Huanhua Villa.
-CompleteMenu_50474=Headmaster, I have cleared up Xingxiu Sect killers within our school.
 complete_50445=<s>I judge from your outfit and guess you are from Tangmen, right? Why are you here in Xingxiu Sect?
-complete_50471=<s> Xingxiu Sect killers are powerful.
 complete_50474=<s> Xingxiu Sect, we will come back to it.
 context_50157=You are not very lucky. Not long ago Ximen Yijian from Huanhua Villa bought all Winston Satin. We don't have any more. If you need, find Ximen Yijian and see if he can share some.
 context_50179=<s>So many years have passed. I'm not sure whether he is still in Huanhua Villa. Can you help me to ask? His name is Zhuge Jing.
@@ -351,6 +348,33 @@ context_50469=<s>I saw Zhu Yu brought many Xingxiu Sect Disciples. But recently 
 context_50471=<s>What? Xingxiu Sect is getting more daring... <BR><s>Oh no! Come on, people. There are assassins!
 context_50478=<s>Zhu Yu is already back to Xingxiu Sect... But I am his school mate... How about this? My Ice Silkworm was stolen by a monk. If you help me to get it back, I will tell you where Zhu Yu is.
 target_50179=<s>Go to Huanhua Villa. Find <a href="findnpc_new,city05,WorldNpc09802" style="HLStype1">Ximen Yijian</a> and ask him about Zhuge Jing.
+CompleteMenu_50207=I've helped you get your revenge.
+CompleteMenu_50474=Headmaster, I have cleared up Xingxiu Sect killers within our school.
+UncompleteMenu_50289=I am still not done with the enemy emerging.
+UncompleteMenu_50290=I am still not done with the enemy emerging.
+UncompleteMenu_50291=I am still not done with the enemy emerging.
+UncompleteMenu_50293=I am still not done with the enemy emerging.
+UncompleteMenu_50295=I am still not done with the enemy emerging.
+UncompleteMenu_50296=I am still not done with the enemy emerging.
+UncompleteMenu_50297=I am still not done with the enemy emerging.
+UncompleteMenu_50299=I am still not done with the enemy emerging.
+accept_50017_1=Get out of here, and tell that crone you serve that she doesn't scare me.
+complete_50471=<s> Xingxiu Sect killers are powerful.
+context_50285=I was hit by Blissful Forest killer's secret weapon and was suffering from a severe poison, so I had to find a herb nearby to save my life.
+context_50299=<s>Blast it! Situ Tao, that son of a bitch, is hiding in White Horse Temple! The enemies have left me here. I am done. If you want revenge, go to White Horse Temple and find him. Better kill him, so I can get rid of this grievance.
+context_50326=<s>Bad, bad! Hun Jianglong just sent a message that Royal Guards Killers are coming! As Sun Zi said, it is time to get the hell out of here. Please take me to hide outside of the city!
+context_50329=<s>There is also a more secluded stronghold that specializes in covert assassination. That group of assassins just now was probably sent by them. Be careful when you go there. Their swords are soaked with poison.
+context_50424=I didn't expect that there was a leader of Silent Temple who had infiltrated the Flower Festival. If we don't find this person as soon as possible, something bad will happen again... Damn! Wang Lie must have been in contact with their leader before. Now that he's on our side, he's going to get himself killed! Please hurry back to Wang Lie and block Silent Temple killers.
+context_50463=<s><font color="#0033FF">(Since Tang Song has done something to tie up the loose ends, I don't need to work for him anymore... Why don't we tie him up to Clan Leader and expose his conspiracy to offset the mistake I made?) </font>
+target_50317=<s>Defeat <a href="findnpc,city04,1264.35,-24.934,786.477,monrc041400" style="HLStype1">Cai Chuang</a> and <a href="findnpc,city04,1265.43,-24.5,785.11,monrc041500" style="HLStype1">Masked killers</a>. Afterwards ask <a href="findnpc_new,city04,WorldNpc10020" style="HLStype1">Tang Qin</a> for help.
+target_50327=<s>Protect Situ Tao when attacking the <a href="findnpc,city04,771.25,-24.1,675.42,Summon00047" style="HLStype1">Royal Guard Assassins</a>.
+target_50424=<s>Return to protect <a href="findnpc_new,school03,WorldNpc03422" style="HLStype1">Wang Lie</a>, defeat <a href="findnpc,school03,742,102,562,monrm030600" style="HLStype1">Silent Temple killers</a>。
 target_50454=<s>Kill Xingxiu Sect betrayer <a href="findnpc,born02,43.869,-2.715,250.780,monrv020800" style="HLStype1">Dugu Hu</a>. Then ask Zhu Yu about what to do next.
 target_50474=<s>Kill Xingxiu Sect Killers that secretly entered Tangmen. Then report to Tang Tianxing.
+target_50479=<s>Learn of Zhu Yu's whereabouts. Quickly capture him and then return to Tangmen to report.
+target_50502=<s>Take Ma Hu's order and attack Youming Palace leader <a href="findnpc,scene03,864.387,3.226,742.297,monrf031000" style="HLStype1">Ji Wushuang</a> to retrieve the antidote.
+target_50505=<s>Go to West Village Tomb Forest and kill <a href="findnpc,scene03,956.5,1.65,892,monrf031200" style="HLStype1">Red Head Snake</a>, gather it's blood and take it to Tangmen's <a href="findnpc_new,school05,WorldNpc02208" style="HLStype1">Old Poison Master</a>.
+title_50545=Kill to decompress
+uncom_50207=<s>I am counting on you for revenge.
+uncom_50474=<s>Go quickly and finish clearing out the killers.
 

@@ -49,7 +49,6 @@ DialogID_10630=<font face="Default" color="#ffffff" >有我在你不必擔心</f
 DialogID_10633=<font face="Default" color="#ffffff" >你們沈家的沈小溪把我的病治的更加嚴重了，我來找他理論，他居然害怕的躲起來，不知去向了。</font>
 DialogID_10635=<font face="Default" color="#ffffff" >你小小年紀卻能把事情看的如此透徹，很是難得，我若是再為難你那不顯得我不如你了。這裡有兩個丹藥對他倆的傷勢有所幫助，你拿去給他們服下吧。</font>
 DialogID_10636=<font face="Default" color="#ffffff" >哈哈，多謝謝沈而小姐送我禮物，老朽卻之不恭了。我這也有一件事，我希望你能帶</font><font face="Default" color="#ffffff" >我</font><font face="Default" color="#ffffff" >向二少夫人問聲好。</font>
-DialogID_10637=<font face="Default" color="#ffffff" >哈哈，你多心了，哪有會有什麼仇人向沈家復仇，不過是外面的謠傳罷了。</font>
 DialogID_10638=<font face="Default" color="#ffffff" >看來蕭山鳳又回來了，</font><font face="Default" color="#ffffff" >你們</font><font face="Default" color="#ffffff" >留在這裡保護山莊，我要親手了結這段恩怨。</font>
 DialogID_10642=<font face="Default" color="#ffffff" >哼，他還敢回來，難道他不知道偏針在沈家一直是禁學之術嗎？念在他一心悔過，並且及時救好了病人，我就不再追究了，你去告訴他，依沈家家規，我決定罰他一生不能行針。你是沈家的弟子，這件事情你也要引以為戒，切不可抱著什麼僥倖心理，否則我</font><font face="Default" color="#ffffff" >可</font><font face="Default" color="#ffffff" >不饒恕你，你可明白。</font>
 DialogID_10644=<font face="Default" color="#ffffff" >這本就是偏針換血，你考慮清楚了嗎？</font>
@@ -209,7 +208,6 @@ hunterinfo_10606=殺死<a href="findnpc_new,city05,jzsj_003" style="HLStype1">�
 hunterinfo_10622=擊敗<a href="findnpc_new,city05,jzsj_035" style="HLStype1">沈希玨</a>
 hunterinfo_10623=擊敗<a href="findnpc_new,city05,jzsj_036" style="HLStype1">沈裴玨</a>
 hunterinfo_10650=擊敗<a href="findnpc_new,school02,boss_wssz_001" style="HLStype1">王蛇</a>（提示：使用師傅給的<a href="TASK_ITEM,useitem_shenjia_41538" style="HLStype1">御蛇丹</a>可以免疫王蛇的毒圈的效果）
-hunterinfo_10651=找到門口的<a href="findnpc_new,city05,wssz_516" style="HLStype1">萬獸高級弟子</a>帶領你前往<a href="findnpc,born04,255,0.6,990" style="HLStype1">吊晴猛虎的巢穴</a>擊殺猛虎
 hunterinfo_10652=殺死<a href="findnpc_new,,boss_wssz_003" style="HLStype1">毒蠍</a>為民除害
 hunterinfo_10653=找到門口的<a href="findnpc_new,city05,wssz_516" style="HLStype1">萬獸高級弟子</a>帶領你前往<a href="findnpc,born01,101,163,575" style="HLStype1">雪山絕壁</a>追獵通臂猿為民除害
 hunterinfo_10654=找到門口的<a href="findnpc_new,city05,wssz_516" style="HLStype1">萬獸高級弟子</a>帶領你前往<a href="findnpc,school01,736,60,702" style="HLStype1">七步蝮龜的巢穴</a>，殺死七步蝮龜（提示：使用師傅給的<a href="TASK_ITEM,useitem_shenjia_41542" style="HLStype1">御毒丹</a>可以免疫毒圈的影響，如果中途御毒丹丟失可以回沈家堡去<a href="findnpc_new,city05,WorldNpc09968" style="HLStype1">沈三姑</a>那領取）
@@ -351,7 +349,6 @@ okmenu_10630=<font face="Default" color="#ffffff" >多謝少爺</font>
 okmenu_10633=<font face="Default" color="#ffffff" >你先冷靜，你的病沈家一定能為你治好，我也相信沈小溪不是這樣逃避責任的人。</font>
 okmenu_10635=<font face="Default" color="#ffffff" >多謝前輩！</font>
 okmenu_10636=<font face="Default" color="#ffffff" >我這就去想二少夫人問好。</font>
-okmenu_10637=<font face="Default" color="#ffffff" >沈家救人為懷，武功高強，不該有什麼仇人，但是弟子還是覺得小心為妙</font><font face="Default" color="#ffffff" >。</font>
 okmenu_10638=<font face="Default" color="#ffffff" >你一個人去太危險了，堡主。</font>
 okmenu_10642=<font face="Default" color="#ffffff" >弟子謹遵教誨。</font>
 okmenu_10644=<font face="Default" color="#ffffff" >絕不反悔</font>
@@ -757,7 +754,6 @@ interactinfo_10778=回沈家堡回報<a href="findnpc_new,city05,WorldNpc100055"
 okmenu_10540=<font face="Default" color="#ffffff" >（我得想辦法除掉這些蟲子）</font>
 okmenu_10776=<font face="Default" color="#ffffff" >這~~怎麼辦，看來只能見機行事了</font><font face="Default" color="#ffffff" >。這回真是沒有回頭路了</font>
 okmenu_10777=<font face="Default" color="#ffffff" >（被當成傳話的了，只能將計就計了，他說要殺就讓你殺個痛快</font><font face="Default" color="#ffffff" >，不過說不定能從他們身上搜得什麼，恩就這麼辦</font><font face="Default" color="#ffffff" >）門主說這夥人罪大惡極門規處置</font><font face="Default" color="#ffffff" >由我來負責將他們統統殺死</font>
-okmenu_10778=<font face="Default" color="#ffffff" >老人家不用太擔心，你親戚還活著，而且從他們門人身上的犯人記錄上來看，你親戚不會被殺死，屬於要留活口的</font>
 specialinfo_3511=前往煙雨莊，完成一次鹽幫的踢館活動
 specialinfo_3512=前往洛陽，完成一次抱犢寨的踢館活動
 specialinfo_3514=前往唐門，完成一次天寶寨的踢館活動
@@ -790,5 +786,9 @@ okmenu_10782=<font face="Default" color="#ffffff" >多謝前輩誇獎</font><fon
 SubmitNpcEx_41641=<a href="findnpc_new,city05,WorldNpc09778" style="HLStype1">沈希玨</a>有事找你相商，去他那看看吧。
 SubmitNpcEx_41642=<a href="findnpc_new,city05,WorldNpc09905" style="HLStype1">沈珺</a>有事與你相商，趕緊過去吧。
 collectinfo_10770=找到門口的<a href="findnpc_new,city05,wssz_516" style="HLStype1">萬獸高級弟子</a>帶領你前往<a href="findnpc,born04,255,0.6,990" style="HLStype1">吊晴猛虎的巢穴</a>找到並採集傳說中的火焰草（提示：吸引猛虎去攻擊巨石方可擊碎巨石）
-convoy_nmp_41722_3=自從前代莊主沈勁風夫婦出征流寇，雙雙戰死在嘉峪關口之後，沈家莊人丁凋零，但仍憑藉著能與江湖九大宗門中唐門相匹敵的金針，令武林中人不敢輕視。現任的莊主為沈滄海，沈家在其手上盛極一時。
+convoy_nmp_41722_3=自從前代莊主沈勁風夫婦出征流寇，雙雙戰死在嘉峪關口之後，沈家莊人丁凋零，但仍憑藉著能與江湖十大宗門中唐門相匹敵的金針，令武林中人不敢輕視。現任的莊主為沈滄海，沈家在其手上盛極一時。
+DialogID_10637=<font face="Default" color="#ffffff" >哈哈，你多心了，哪有會有什麼敵人向沈家復仇，不過是外面的謠傳罷了。</font>
+hunterinfo_10651=找到門口的<a href="findnpc_new,city05,wssz_516" style="HLStype1">萬獸高級弟子</a>帶領你前往<a href="findnpc,born04,255,0.6,990" style="HLStype1">吊晴猛虎的巢穴</a>攻克猛虎
+okmenu_10637=<font face="Default" color="#ffffff" >沈家救人為懷，武功高強，不該有什麼敵人，但是弟子還是覺得小心為妙</font><font face="Default" color="#ffffff" >。</font>
+okmenu_10778=<font face="Default" color="#ffffff" >老人家不用太擔心，你親戚還活著，而且從他們門人身上的犯人記錄上來看，你親戚不會遭襲而死，屬於要留活口的</font>
 

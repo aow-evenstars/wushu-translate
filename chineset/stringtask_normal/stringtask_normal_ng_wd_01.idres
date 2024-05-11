@@ -496,7 +496,6 @@ target_55584=那些不自量力進犯凌霄城的江湖人物多被囚禁於城�
 target_55585=前往林梁處領取明教贈禮
 title_55584=生死符-符奴
 title_55585=聖火明尊全民贈禮
-menu_55529_1=<font face="Default" color="#ffffff" >丹書鐵券？九大宗門怎麼都會有？弟子從未聽掌門提起丹書鐵券。</font>
 CanAcceptMenu_55592=<font face="Default" color="#ffffff" >不知這幾日為何如此熱鬧？</font>
 CompleteMenu_55592=<font face="Default" color="#ffffff" >孔師的贈禮（可提交）</font>
 accept_55592_1=<font face="Default" color="#ffffff" >恰逢私塾，太學入學之際，若少俠對孔孟之道有興趣，在下有一物相送！</font>
@@ -611,4 +610,30 @@ title_55596=【龍紋異寶】—鳳凰山莊
 title_55597=【龍紋異寶】—雁門關（叛軍線）
 title_55598=【龍紋異寶】—無爭秘境
 title_55599=【龍紋異寶】—大漠鬼城
+menu_55529_1=<font face="Default" color="#ffffff" >丹書鐵券？十大宗門怎麼都會有？弟子從未聽掌門提起丹書鐵券。</font>
+CanAcceptMenu_55602=<font face="Default" color="#ffffff" >國慶福禮（可承接）</font>
+CompleteMenu_55602=<font face="Default" color="#ffffff" >國慶福禮（可提交）</font>
+accept_55602_1=<font face="Default" color="#ffffff" >值此普天同慶之日，少俠只需滿足我的小小考驗便可獲得一份不錯的獎勵！</font>
+complete_55602=<font face="Default" color="#ffffff" >國慶福禮（</font><font face="Default" color="#ffffff" >已完成</font><font face="Default" color="#ffffff" >）</font>
+context_55602=值此普天同慶之日，少俠只需滿足「活動大使」林梁的小小考驗便可獲得一份不錯的獎勵！
+menu_55602_1=<font face="Default" color="#ffffff" >既然如此，在下便試試！</font>
+submit_55602=<font face="Default" color="#ffffff" >國慶福禮（已完成）</font>
+target_55602=完成「活動大使」林梁的考驗
+title_55602=國慶福禮
+CanAcceptMenu_55603=<font face="Default" color="#ffffff" >全民歡慶贈禮到（可承接）</font>
+CompleteMenu_55603=<font face="Default" color="#ffffff" >全民歡慶贈禮到（可</font><font face="Default" color="#ffffff" >提交</font><font face="Default" color="#ffffff" >）</font>
+accept_55603_1=<font face="Default" color="#ffffff" >全民歡慶贈禮到（承接）</font>
+complete_55603=<font face="Default" color="#ffffff" >全民歡慶贈禮到</font><font face="Default" color="#ffffff" >(已完成)</font>
+context_55603=全民歡慶贈禮到,各位俠士可前往林梁處獲得歡慶禮包一份！
+target_55603=前往林梁處獲得歡慶禮包
+title_55603=全民歡慶贈禮到
+CanAcceptMenu_55604=<font face="Default" color="#ffffff" >神兵鑄成驚天下（可承接）</font>
+CompleteMenu_55604=<font face="Default" color="#ffffff" >神兵鑄成驚天下（可</font><font face="Default" color="#ffffff" >提交</font><font face="Default" color="#ffffff" >）</font>
+accept_55604_1=<font face="Default" color="#ffffff" >你的運氣不錯，有幸與我一起見證這名劍出世！</font>
+complete_55604=<font face="Default" color="#ffffff" >你無需重金也無需感恩於我，日後若再有這等上佳的材料需第一時間來見我！</font>
+context_55604=神兵鑄成驚天下，將歐冶子的信物與歐冶子獲取神兵
+menu_55604_1=<font face="Default" color="#ffffff" >這...這...</font>
+submit_55604=<font face="Default" color="#ffffff" >神兵鑄成驚天下（</font><font face="Default" color="#ffffff" >已完成</font><font face="Default" color="#ffffff" >）</font>
+target_55604=神兵鑄成驚天下
+title_55604=神兵鑄成驚天下
 

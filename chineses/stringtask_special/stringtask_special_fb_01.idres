@@ -81,7 +81,6 @@ dialogid_27075_1=<s>Thank you {@0: }. Be careful, there is a mad abbess in Fairy
 dialogid_27076_1=<s>{@0:} all is unfortunate.<br>Your personality is good. Emei has a successor.
 dialogid_27077_1=<s>I have waited for years, finaly there are some new faces.
 dialogid_27080=<s>Tatary troops raided Yanmen Pass a few days ago. Fortunately, General Fang Wuhen lead well and there were no casualties. The spy reports that Tatary has settled their camp at Jueya Mountain near Yanmen Pass. Tatary has more than 10, 000 soldiers and they are well trained. They will attack Yanmen Pass again. Defending Lord has reported to the government, but there was no reply. Maybe they don't care about it.
-dialogid_27082=<s>Lu Zhong is the murderer! Please help me kill him!
 dialogid_27083=<s>You must solve the puzzle to open the cell door.
 dialogid_27087_1=Ah, finally there is someone to rescue me. I thought I would be killed by Tatary.
 dialogid_27088_2=You frightened me. I thought you were going to kill me.
@@ -297,7 +296,6 @@ zzanswertext_3_11=Zhou Zhian
 zzanswertext_3_12=Has escaped to Fanhuang Plain.
 zzanswertext_3_2=Commoner
 zzanswertext_3_3=Jia Chao
-zzanswertext_3_4=They got the order to go to Twilight Village to seek revenge on Zhao Ziji.
 zzanswertext_3_41=Emei
 zzanswertext_3_43=Yongchun Fist
 zzanswertext_3_44=Ape Staff
@@ -412,7 +410,6 @@ ewqe=
 hunter_27381=Beat 5 <a href="findnpc_new,school05,npcclone013053" style="HLStype1">Sentries</a>.
 hunter_27382=Capture a <a href="findnpc,school05,715,-256" style="HLStype1">Spy</a> alive.
 hunter_27383=Beat <a href="findnpc_new,,Bossclone013002" style="HLStype1">Qian Bofei</a>.
-hunterinfo_27001=Kill the Peacock Hall Lord Ma Bian.
 hunterinfo_27003=You have killed Huo Dushan in Longmen Pass.
 hunterinfo_27004=You have killed Lu Changyuan.
 hunterinfo_27005_1=You have killed Ding Xiaoshan.
@@ -437,18 +434,13 @@ hunterinfo_27042_1=Kill Shen Yishan's guard, Dong Qiu.
 hunterinfo_27044=Expel the Brigands' attack, and kill the Brigand Leader He Biao.
 hunterinfo_27045_1=You have killed Jia Chao in the Inn.
 hunterinfo_27046_2=You have killed Lu Xiaojiang in the Inn.
-hunterinfo_27047=Kill the <a href="findnpc_new,school05,npcclone001057" style="HLStype1">Suspicious Bandits</a>.
 hunterinfo_27048=Find Chang Gong's secret room and survive.
-hunterinfo_27051=Kill the 2 leaders of Juehun Cave.
-hunterinfo_27053=Kill the Evil Women Leader.
-hunterinfo_27054=Kill Liu Kuohai.
 hunterinfo_27055=Beat the 6 guard students of Emei.
 hunterinfo_27056=Get the location of the entrance to the secret way from Jin Huaiyu.
 hunterinfo_27057=Kill Ye Er, Commander of Hu troops and save Longmen Pass.
 hunterinfo_27058=Kill the Hu troops who hide around the Wayside Shrine.
 hunterinfo_27060=Kill the criminal of East City
 hunterinfo_27066=Beat Shang Cunfang.
-hunterinfo_27068=Kill the Monkey King.
 hunterinfo_27070=Speak to <a href="findnpc_new,school05,WorldNpc02224" style="HLStype1">Tang Li</a> at the foot of the stairs to Tang Family Castle.
 hunterinfo_27071=Go to the back Mountain and beat the <a href="findnpc_new,school08,NpcClone004012" style="HLStype1">Bad Monk in Shaolin</a>.
 hunterinfo_27072=Go to Yanmen Pass and kill the <a href="findnpc_new,scene03,NpcClone004033" style="HLStype1">Tatary Soldiers</a>.
@@ -460,7 +452,6 @@ hunterinfo_27078=Beat the attacking Tatary Troops.
 hunterinfo_27079=If you want to pass Elder Martial Sister Zhao Yuchun's level, you must beat her.
 hunterinfo_27101_1=Kill the <a href="findnpc,school07,444,807" style="HLStype1">criminal</a>
 hunterinfo_27102_2=Kill the <a href="findnpc,school07,446,805" style="HLStype1">criminal</a>
-hunterinfo_27103=Kill the <font color="#FF0000">Tiger</font>.
 hunterinfo_27104=Stop <a href="findnpc,school07,603,735" style="HLStype1">Teng Lei</a>.
 hunterinfo_27105=Beat the spy leader Lu Hanshan.
 hunterinfo_27106=Kill Spy A
@@ -480,8 +471,6 @@ hunterinfo_27275=Ward off <a href="findnpc_new,school05,npcclone001057" style="H
 hunterinfo_27276=Repel <a href="findnpc_new,school05,monm052200" style="HLStype1">Iron Hand Sect member</a>
 hunterinfo_27320=Beat Zhu Zhendan
 hunterinfo_27381=<s>Beat 5 <a href="findnpc,school05,854,-294" style="HLStype1">Sentries</a>.
-hunterinfo_27444=Kill <a href="findnpc_new,city02,monc012102" style="HLStype1">Kumu Taoist</a>.
-hunterinfo_27560=Kill the challenger <font color="#FF4500">He Canghai</font>.
 hunterinfo_27561=Go to <a href="findnpc_new,school04,WorldNpc03811" style="HLStype1">Wu Hu</a> and fight with him.
 hunterinfo_27562=Go to Xiaohun Cave and beat Buddhist Messager <a href="findnpc_new,clone019,BlockClone019021" style="HLStype1">Wu Hu</a>.
 hunterinfo_27563=Kill the Poison Insect Messager's Mad Pet.
@@ -490,8 +479,6 @@ hunterinfo_27565_2=Go to Xiaoyao Cave and beat Poison Insect Messager Ma Chalan.
 hunterinfo_27566_3=Go to Xiaoyao Cave and beat Poison Messager Yan Chuchu.
 hunterinfo_27567_4=Go to Xiaoyao Cave and beat Body Messager Yao Jian.
 hunterinfo_27568_5=Go to Xiaoyao Cave and beat Buddhist Messager Wu Hu.
-hunterinfo_27569=Kill Li Cheng and get reveng for Shan Chong.
-hunterinfo_27571=Help Shan Chong to get revenge.
 hunterinfo_27572=Finish the Graduation Test
 hunterinfo_27621=Interrogate Mrs. Shen about keeping Butterflies in the secret room.
 hunterinfo_27622=Find out the identity of the Armor Man.
@@ -572,7 +559,6 @@ interactinfo_27043=Investigate the inn and find the suspicious men.
 interactinfo_27044=Reply to Zhou Zhian that the daughter of Mr.Yang has been rescued from the Yamen officers.
 interactinfo_27045=Save He Biao in the prison cell of Brigands Stronghold.
 interactinfo_27046_1=Give the head of Zhou Zhian to Chang Xiaochi at Longmen Pass.
-interactinfo_27047_1=Tell the Captain of the pass that the Hu Commander has been killed.
 interactinfo_27048_1=Save He Biao's subordinate Shen Er in Brigands Stronghold.
 interactinfo_27051_1=Go to the West Village and find the <a href="findnpc_new,school01,FunnpcClone017007" style="HLStype1">Insider</a> and ask him about the whereabouts of Zhang Jiwu.
 interactinfo_27052_2=Give the insider's testimony to Leader <a href="findnpc_new,school01,FunnpcClone017002" style="HLStype1">Huang Fuyao</a>.
@@ -761,7 +747,6 @@ okmenu_27038_2=Gonggong, don't worry. I know what to do.
 okmenu_27039_1=I have to try my best now.
 okmenu_27040_2=Count on me. I am going to look for Shen Yishan.
 okmenu_27041_1=Hmm, you should have told me earlier! Boss Jin nearly couldn't hold on. I will try my best.
-okmenu_27042_2=Boss is very smart, using others to do his dirty work.
 okmenu_27044=General, you overstated. Lord Yang was murdered by bad people.
 okmenu_27046_1=OK, I am going to take the message to Brother He Biao.
 okmenu_27047_1=Thank you for allowing me to enter, Lord.
@@ -942,10 +927,8 @@ story_27012_0=<s>It's a Han family event. The Lord of the Han family was murdere
 story_27012_2=<s>It was a coincidence that our servent saw someone fighting in the fish market. The fisher and his martial arts seemed familiar and he found out that the fisher was the murderer who killed our Lord 8 years ago. Then we sent someone to track him and found his location. He hides in a fishing village near Tai Lake.
 story_27012_4=<s>This time Zhao Ziji will be killed. Both the Han family and the police from Xi Mountain want him dead.
 story_27013_0=<s>After listening to you, I think I know who the female leader is. I didn't expect she would turn so evil.
-story_27013_2=<s>She actually is your Martial Aunt. Her name is Zhang Ruozhi, and she is my younger Martial Sister. But she secretly learned a forbidden martial art style from our school, the Nine Women Catch White Bone. Now you killed her, the punishment is well deserved. Your personality and ability is good. I hope you can keep being kind-hearted, never harm others like Zhang Ruozhi did.
 story_27014_1=From time to time, yes, but my adventuring days are long behind me. The world belongs to your generation now.
 story_27014_2=Ha! So my reputation still preceded me… what little there's left. It means so little to me now.
-story_27014_3=Do I look like a bard to you? If you want stories, go read a book. Better yet, go out there and find your own.
 story_27015_0=<s>My wife was a student guarding the Secret Scroll. One night, my wife found someone trying to steal the Secret Scroll. Then she tooe the Enchanting Incense. She has been in a coma ever since.
 story_27015_2=<s>Lord Tang Tianxing and Tang Li said nothing happened.
 story_27016_0=<s>Liu Fangshuo attacked our students to steal the secret scroll but he won't understand it for at least another twenty years.
@@ -959,16 +942,13 @@ story_27018_6=<s>After the Abbot's teaching, I realized it suddenly. But I can't
 story_27019_0=<s>Fang Wuhen is the grandson of Fang Xiaoru, a honorable man. The Emperor ordered to kill Fang Xiaoru's entire family. I couldn't tolerate it so I saved his grandson and raised him in Shaolin. I gave him the name Wuhen, which means forgetting the hatred.
 story_27019_2=<s>It has been decades; Fang Wuhen has grown up and changed. He is the General of Yanmen Pass.
 story_27020_1=You need to be alert here.
-story_27020_2=Some places are too dangerous for you until you are stronger. I hear butterflies are killing people in Luoyang's Green Cloud Castle.
 story_27101_0=<s>Nine years ago, Wonderer's Valley tried to dispossess the best skills of Wudang and sent many master-hands to attack Wudang. Wudang tried their best to stop them. They were well-matched in strength and had a cruel fight. All the master-hands of that generation would have died if the fight continued.
 story_27101_2=The Wonderer's Valley Elder Xiao Heng came to stop it. Finally, he prisoned himseld in Wudang Sword Grave and ended this fight.
 story_27140_0=<s>A few days ago, there was a Mad Monk asking for wine and meat in the Village. Because he learned martial arts, no one dared to stop him. But he got even more arrogant, and he asked for more things and hurt someone.
 story_27140_2=<s>Then we had to ask the Master Monk for help, your Shifu Master Zu Zhen. Finally he beat him. I don't know the origin of the Mad Monk. Ask your Abbot!
 story_27142_10=<s>We should show mercy, under the suggestion of your master. I have asked the people to imprison Zu Ru in the stone house behind the Mountain. This stone house can't hold Zu Ru, it is in view that he was a disciple of Shaolin. I won't investigate it anymore if he doesn't make any troubles later.
 story_27260_2=<s>Emei is as famous as Shaolin and Wudang. It's your duty to rescue people who are threatened by bad people!
-story_27262_2=She actually is your Martial Aunt. Her name is Zhang Ruozhi, and she is my Younger Martial Sister. But she secretly learned forbidden martial arts of our school, Nine Women Catch White Bone. Now you killed her, the punishment is well deserved. Your personality and ability is good. I hope you can keep being kind-hearted, never harm others like Zhang Ruozhi.
 story_27320_1=<s>{@0:} I can tell you the content of the letter, but I need ask you something.
-story_27320_2=<s>Is this the Headband of the Black Suit Man who tried to assassinate you?
 story_27320_3=<s>After you killing the Black Suit Men, did they say anything?
 story_27321_1=<s>My husband was murdered! He died with grievance.
 story_27321_2=<s>My husband received that letter two days before he died. He said the sect leader wouldn't betray the country or high office.
@@ -1028,7 +1008,6 @@ story_27624_2=<s>I want to drink away my sorrows.
 story_27624_3=<s>Oh, I forgot the task given to me by the  Lord. My arm aches.
 story_27625_1=<s>Have you heard that the Qingyun Stronghold is surrounded by a group of poisonous butterflies?
 story_27625_2=I heard it when the Lord was talking to some other people. Qingyun Stronghold was surrounded by a group of poisonous butterflies. In order to prevent people from being stung, they covered the Stronghold with cloth.
-story_27625_3=<s>There is a firearm in the Qingyun Stronghold that is rumored to be able to kill someone from one hundred paces. The lord wants to steal the firearm and achieve supremacy.
 story_menu_27001=Madam, what's the secret of the Five Element Array?
 story_menu_27002=Boss, give me some good wine.
 story_menu_27003=I can tell that you are not a native by the way your clothes look.
@@ -1213,10 +1192,8 @@ storymenu_27455_1=He is the missing child A Bao.
 storymenu_27560_1=I was defeated by He Canghai. Fortunately, Buddhist Messager saved me. I will return the favor if needed.
 storymenu_27560_2=I may not be a good martial artist, but I know to thank someone for a favor. Please accept it.
 storymenu_27561_1=I will beat you for sure.
-storymenu_27562_1=So it is. Don't worry, Elder Brother, I will take revenge for you…Who is your enemy?
 storymenu_27562_2=Elder Brother, are you OK?
 storymenu_27563_1=Shifu, I drank with Shan Chong in the afternoon. He was drunk and couldn't wake up...
-storymenu_27563_2=Elder Brother told his life story when he was drunk. I felt pity for him. I decided to get revenge for him. Shifu, can you tell me his life experience?
 storymenu_27563_3=Oh, that accounts for it. Younger Brother says his father was killed for a legendary weapon. What weapon is he referring to?
 storymenu_27564_1=Elder Brother, you seem worried. Tell me if you don't mind.
 storymenu_27564_2=You can get revenge as long as Elder Shan helps you.
@@ -1385,7 +1362,6 @@ DialogID_28502=Please save Dongquan Village. We don't know where the Tartar trai
 DialogID_28505=It is full of miasm here. Every step is a poisonous pool. Don't enter!
 DialogID_28509=Did my wife send you here? We are so worried about our child.
 DialogID_28510=You are all smart to surrender to the Tartar. I will take soldiers myself and escort all of you back to your own villages. We will soon break Yanmen Pass.
-DialogID_28513=I have heard about what happened in Dongquan Village. I'm sorry about your suffering, but this is war. Our enemy is a lot more than us in quantity? Their cavalry fight better than our soldiers. We don't have a chance to win if we go out of the city and fight in the wilds. If we send our main forces as reinforcements, they will surely break through the pass when our defenses are weak! I'll watch them die but cannot help. If you have to hate, hate me only. Now the Tartar army is about to attack the city. Don't you wan? to avenge the death of your relatives and friends? If you decide so, go and find the Yanmen Pass Quartermaster. There aren't enough people in the inner city. Now you have the chance to show your talents.
 DialogID_28514=Isn't it the mysterious cannon the people were talking about? What a surprise to see it in Yanmen Pass.
 DialogID_28518=We shall kill as many people as we like today. Let all these Central Plains barbarians who look down upon us pay.
 DialogID_28519=Finally the Court Reinforcements have arrived. Now Yanmen Pass can be saved. Are you the Pioneer coming to report? ...No? ...Reinforcements, only several of you? No more people?
@@ -1416,7 +1392,6 @@ hunterinfo_28517=Defeat the Defending General Xing Zhongtian of General Mountain
 hunterinfo_28518=Occupy the Tartar strongpoint of the Shadow Portal.
 hunterinfo_28519=Occupy the Tartar cavalry camp of Yellow Plains.
 hunterinfo_28521=Repel the Tartar people's attack.
-hunterinfo_28522=Kill the traitorous general Lu Zhong of Snake Valley and inquire the whereabouts of Fang Wuhen.
 hunterinfo_28523=Find the exit of Shadow Portal and leave the Yellow Plains alive.
 hunterinfo_28524=Attack the Tartar Camp suddenly and kill La Huertuo.
 hunterinfo_28525=Repel the Tartar attackers.
@@ -1506,7 +1481,6 @@ collectinfo_27383=Investigate the body of the Spy.
 convoyinfo_27006=Follow the Abbot and find Zhu Jitun. Defuse his heart knot.
 hunterinfo_27061=Kill Ye Loukai who is in the Ancestral Hall of Twilight Village and save the Village Head's daughter Zhang Liaoliao.
 hunterinfo_27260=Have a duel with <a href="findnpc_new,school06,WorldNpc02605" style="HLStype1">Elder Martial Sister Yi Ruoxun</a> and just stop where it should stop.
-hunterinfo_27261=Kill <a href="findnpc_new,school06,NpcClone009034" style="HLStype1">Hu Tuchong</a> who hides in Green Bamboo Sect.
 hunterinfo_27383=Catch <a href="findnpc,school05,1465,-580" style="HLStype1">Qian Bofei</a>.
 hunterinfo_27620=<a href="findnpc_new,city04,FunnpcClone021009" style="HLStype1">Mr Xu</a> ran into the alley(need to fight), talk to <a href="findnpc_new,city04,FunnpcClone021007" style="HLStype1">Xiao Bing</a> and you can decide to give up the investiga
 interactinfo_27068_1=Find the Village Head's daughter Zhang Liaoliao(-72, -36) at the hall of Ancestral Hall.
@@ -1567,8 +1541,6 @@ SubmitNpcEx_4546=Submit task to Fang Wuhen (686, 732).
 SubmitNpcEx_4552=Submit task to Cavalry Leader (200, 663).
 SubmitNpcEx_4553=Continue to talk with Defender and obtain Passport.
 SubmitNpcEx_4554=Continue to talk with Betrayer Army and obtain the way to enter Yanmen Pass.
-hunterinfo_28526=Counterattack Tartar Army and kill Tartar Marshal Lahu Ertuo.
-hunterinfo_28527=Exterminate Rebel Army of Lu Zhong, defeat Huyan Xiao and find Fang Wuhen.
 hunterinfo_28529=Defeat Infantry Leader of Yanmen Pass Cui Rui (455, 235).
 hunterinfo_28532=Kill military vendor in Yanmen Pass and Prince Zhu of Garrison House
 interactinfo_28525=Talk with villagers.
@@ -1584,7 +1556,6 @@ task_TrackInfo_4516=Come and report to Quartermaster when you have collected at 
 task_TrackInfo_4522=Persuade Fang Wuhen to Surrender
 task_TrackInfo_4525=Receive soldier's pay from Lu Zhong.
 task_TrackInfo_4527=Rob 10 pieces of treasures of East Spring Village.
-task_TrackInfo_4528=Kill the runaway villagers and rob the treasure.
 task_TrackInfo_4541=if you have finished the training, you'd gather the parade and report to Cavalry Leader!(200 663)
 task_TrackInfo_4552=Ride a War Horse and attack the Timber Pile with Riding Skill.
 DialogID_28508=<font face="Default" color="#ffffff" >Our Cui'er went to sell Chinese Yam with some people in the village several days ago. But she still hasn't come back. I am so worried about her. So I came out to look for her. Alas! I have found everything but her in Urn City. I have an ominous feeling! Please go back to the village and find my husband. He is the Village Head Shen Haigao. Tell him what happened here. I will go to Xiaguan Village to have a look.</font>
@@ -1595,7 +1566,6 @@ SubmitNpcEx_4505=<s>Tartar Emperor's Teacher disclosed many secrets. Walk out Sh
 SubmitNpcEx_4506=<s>Submit task to Officer Xu Haibing in the City Tower of Yanmen Pass. Then you can go to General Hill to kill Tartar soldiers who stay in the ridge.
 SubmitNpcEx_4507=Submit task to Officer Xu Haibing (259, 101) in the vanguard barrack of Tartar.
 SubmitNpcEx_4511=Submit task to Chief Xiang (650, 759) of Dongquan Village.
-SubmitNpcEx_4512=Kill the Leader Huyan Xiao of Tartar Army and submit task to Chief Shen Haigao (690, 750) of Dongquan Village.
 SubmitNpcEx_4513=Submit task to Chief Shen Haigao (690, 750).
 SubmitNpcEx_4514=Submit task to Village Head (690, 750).
 SubmitNpcEx_4515=Submit task to Yanmen Pass Quartermaster (284, 525).
@@ -1607,7 +1577,6 @@ SubmitNpcEx_4524=<s>Submit task to Liu Fangsu who is in Yanmen Pass.
 SubmitNpcEx_4541=Submit task to Cavalry Leader Hu Yingjie (200, 663)
 SubmitNpcEx_4542=Submit task to the Garrison Officer!
 SubmitNpcEx_4543=Submit task to the Garrison Officer.
-hunterinfo_28501=The crisis of Dongquan Village has been solved. Cross the Snake Valley and go to the Tartar jail in the north to kill the Defender General Ma Jier (483, -130) according to the requirement of Village Head and bring General Fang Wuhen off.
 hunterinfo_28502=Defenders of Yanmen Pass bully others through the strength of their powerful connections. Go to the western part of East Spring Village to help the local villagers to drive Tartar Army away and kill them.
 hunterinfo_28503=We found the Shadow Cave was full of peril after entering Shadow Cave. By investigating, it's Tartar Army who made the troubles. Kill the Emperor's Teacher A Lutai (72, 359) who hides in the deep Shadow Cave.
 hunterinfo_28504=We have no relief troops. We must guard Yanmen Pass and defeat Tartar's attack.
@@ -1671,7 +1640,6 @@ interactinfo_28531=According to Wang Dagui, Yue Zhipeng is resting up Temple of 
 interactinfo_28532=Hall Leader Shen has decreed that Shen Hao is a criminal who has betrayed the imperial court. Pursue the traitor Shen Hao (729,253) and deal with him on the spot.
 interactinfo_28533=<s>Shen Hao and Yue Zhipeng have gone in the direction of the depths of the Purgatory. You must hurry up and go help them.
 interactinfo_28534=There is something fishy about this. We should first meet up with Hall Leader Shen at Xiangyang Village up ahead.
-interactinfo_28535=Yue Zhipeng showed up just as we were about to kill Shen Hao and persuaded us with lofty sentiments. We decided that the right thing to do would be to help Yue Zhipeng defeat Shen Honglie.
 interactinfo_28536=<s>It appears that there is someone from the Royal Guards up ahead. I wonder what he is doing here. Go and ask about it.
 interactinfo_28539=Go to Ten Kings Palace and find the entrance toThe Purgatory. We will sweep away all obstacles along the way. We will surely be able to gain the silk landscape painting.
 interactinfo_28540=<s>So there were agents of East Chamber already inThe Purgatory. They left behind a lot of guards. This is a very dangerous place. We must first kill of these soldiers standing guard.
@@ -1740,9 +1708,6 @@ hunterinfo_27016_1=Kill 10 <a href="findnpc_new,school01,monm010304" style="HLSt
 hunterinfo_27017_2=Kill 10 <a href="findnpc_new,school01,monm010303" style="HLStype1">East Chamber Scouts</a>
 hunterinfo_27018=You have defeated <a href="findnpc,school01,827.550,63.580,542.685" style="HLStype1">Zhang Jixu</a>.
 hunterinfo_27142_1=Go to Shaolin Back Hill (Wooden Monk Lane entrace 429,-62) and finish all tests in Wooden Monk Lane.
-hunterinfo_27441=Kill the Pirates' Subordinate.
-hunterinfo_27442=Kill the Pirate Expert.
-hunterinfo_27443=Kill the Pirate Leader.
 interactinfo_27049=Give the secret letter to the Torture Room Flag Messager of Royal Guards <a href="findnpc_new,school01,FunnpcClone017004" style="HLStype1">Shen Hao</a>.
 interactinfo_27050=Put on the <a href="TASK_ITEM,useitemclone017001" style="HLStype1">Colonel Camp Suit</a>, then infiltrate Colonel Camp to gether information.
 interactinfo_27140=Reply to <a href="findnpc_new,school08,FunnpcClone005001" style="HLStype1">Shifu Zu Ren</a> that you have beaten Elder Brother.
@@ -1773,7 +1738,6 @@ story_27267_3=<font face="Default" color="#ffffff" >Sifei's mother was once my b
 story_27382_3=The place they dated was where Tang Tianzhi trained, their conversation was heard by him, which caused him to lose control of his own skills and eventually got himself killed. The Tang's was well guarded and the guards came soon. Xing Ruoming escaped with flying skills, but the mistress was frozen. This caused the young master's speechless status in the family, sigh!
 story_27562_1=<s><br>My family was killed 12 years ago. My Shifu saved me  but now I have a chance to get  revenge...
 story_27564_1=It is actually {@0:  }。 I'm not feeling happy today, so I come out here for a drink. Sit, keep me company, and let's drink.
-story_27564_2=Since you asked, I guess I won't hide it anymore. Twelve years ago, my family was torn apart. Martial uncle Shan saved me and raised me. In the past twelve years, I always thought about revenge. Now martial uncle Shan has promised me that as soon as I pass the graduation test, he will help me revenge.
 story_menu_27141=Abbot, I want to talk with you.
 story_menu_27142=Abbot, I want to ask you something.
 story_menu_27263=<font face="Default" color="#ffffff" >Please</font><font face="Default" color="#ffffff" >be frank! </font>
@@ -1800,7 +1764,6 @@ submitnpcex_2419=<s>Talk with Abbess Jingxin.
 okmenu_28547=<font face="Default" color="#ffffff" >Mistress Fang's plan is not without risk, but it is the only way now. But...</font>
 interactinfo_28547=Talk to<a href="findnpc_new,city01,FunnpcClone004709" style="HLStype1">Fang Pingting</a>.
 story_28506_1=<font face="Default" color="#ffffff" >Young Hero, you are going to Twilight Village?  It has been overtaken by bullies. It is dangerous for you to go there by yourself.  It is better if you improve your abilities to the Minor Achievements level, and then go with other Jianghu people so you can look out for each other!</font>
-story_28507_1=<font face="Default" color="#ffffff" >Little brother, did the heavens send you to help us?  Our villagers have almost all been killed by this group of bastards. Even Zhao Ziji has been captured by them. This group of bastards kills people in the blink of an eye. How could this be...</font>
 story_menu_28506=<font face="Default" color="#ffffff" >May I ask you, how I can get to Twilight Village?</font>
 story_menu_28507=<font face="Default" color="#ffffff" >Grandma, don't cry. What happened?</font>
 storyinfo_28506=Ask <a href="findnpc_new,city02,Transcity02H1" style="HLStype1">Uncle Hen</a> to take you to Twilight Village (It is recommended that you reach the level of <font face="Default" color="#ee7621" >Minor Achievements</font> before entering)
@@ -1831,7 +1794,6 @@ collectinfo_27003_2=Go to <a href="findnpc,school05,1344,830" style="HLStype1">P
 collectinfo_27004_3=Go to <a href="findnpc,school05,1344,830" style="HLStype1">Peacock Villa</a>, a Forbidden Instance. Check the <a href="findnpc_new,clone001,GatherNpc01002" style="HLStype1">Abnormal Armor</a>. (Difficult Mode and above)
 collectinfo_27005_4=Go to the place within Tangmen <a href="findnpc,school05,1344,830" style="HLStype1">Peacock Villa</a> (a forbidden area) and search for <a href="findnpc_new,clone001,GatherNpc01000" style="HLStype1">Qiandu Jade Tablet</a> (Difficult mode and above).
 collectinfo_27011=The drawing of Peacock Feather
-hunterinfo_27002=Get in the <a href="findnpc,school05,1344,830" style="HLStype1">Peacock Villa</a>(Forbidden Instance) of Tangmen to kill <a href="findnpc_new,clone001,bossclone001003" style="HLStype1">Nan Batian</a> (Common Mode)
 hunterinfo_27062=Talk to Gramdma Liu to start the instance, and save five villagers who are being hunted by the Bandit Leader Zhou Lifeng. Kill him when he appears.
 hunterinfo_27382=Go to <a href="findnpc,school05,1190,0,-552" style="HLStype1">Thousands Poison Palace</a> and stop Xing Tianzheng from stealing the Peacock Plume Blueprint.
 interactinfo_27007_1=Tell Sima Huifeng on the second floor to leave now.
@@ -1853,4 +1815,42 @@ hunterinfo_27063=Kill the arsonist at the village gate and get rid of Wei Buji (
 hunterinfo_27064=Kill Qian Xizhi
 interactinfo_27624=Go to <a href="findnpc_new,city04,CloneDoorNpc00048" style="HLStype1">Green Cloud Castle (Forbidden Area)</a> (<font face="Default" color="#FF0000">-394,57</font>)
 interactinfo_27626=Go to <font face="Default" color="#FF0000">Green Cloud Building (322,164)</font>
+DialogID_27082=<s>Lu Zhong is the murderer! Please help me kill him!
+DialogID_28513=I have heard about what happened in Dongquan Village. I'm sorry about your suffering, but this is war. Our enemy is a lot more than us in quantity? Their cavalry fight better than our soldiers. We don't have a chance to win if we go out of the city and fight in the wilds. If we send our main forces as reinforcements, they will surely break through the pass when our defenses are weak! I'll watch them die but cannot help. If you have to hate, hate me only. Now the Tartar army is about to attack the city. Don't you wan? to avenge the death of your relatives and friends? If you decide so, go and find the Yanmen Pass Quartermaster. There aren't enough people in the inner city. Now you have the chance to show your talents.
+SubmitNpcEx_4512=Kill the Leader Huyan Xiao of Tartar Army and submit task to Chief Shen Haigao (690, 750) of Dongquan Village.
+ZZAnswerText_3_4=They got the order to go to Twilight Village to seek revenge on Zhao Ziji.
+hunterinfo_27001=Kill the Peacock Hall Lord Ma Bian.
+hunterinfo_27002=Get in the <a href="findnpc,school05,1344,830" style="HLStype1">Peacock Villa</a>(Forbidden Instance) of Tangmen to kill <a href="findnpc_new,clone001,bossclone001003" style="HLStype1">Nan Batian</a> (Common Mode)
+hunterinfo_27047=Kill the <a href="findnpc_new,school05,npcclone001057" style="HLStype1">Suspicious Bandits</a>.
+hunterinfo_27051=Kill the 2 leaders of Juehun Cave.
+hunterinfo_27053=Kill the Evil Women Leader.
+hunterinfo_27054=Kill Liu Kuohai.
+hunterinfo_27068=Kill the Monkey King.
+hunterinfo_27103=Kill the <font color="#FF0000">Tiger</font>.
+hunterinfo_27261=Kill <a href="findnpc_new,school06,NpcClone009034" style="HLStype1">Hu Tuchong</a> who hides in Green Bamboo Sect.
+hunterinfo_27441=Kill the Pirate Minion.
+hunterinfo_27442=Kill the Pirate Elite.
+hunterinfo_27443=Kill the Pirate Leader.
+hunterinfo_27444=Kill <a href="findnpc_new,city02,monc012102" style="HLStype1">Kumu Taoist</a>.
+hunterinfo_27560=Kill the challenger <font color="#FF4500">He Canghai</font>.
+hunterinfo_27569=Kill Li Cheng and get revenge for Shan Chong.
+hunterinfo_27571=Help Shan Chong to get revenge.
+hunterinfo_28501=The crisis of Dongquan Village has been solved. Cross the Snake Valley and go to the Tartar jail in the north to kill the Defender General Ma Jier (483, -130) according to the requirement of Village Head and bring General Fang Wuhen off.
+hunterinfo_28522=Kill the traitorous general Lu Zhong of Snake Valley and inquire the whereabouts of Fang Wuhen.
+hunterinfo_28526=Counterattack Tartar Army and kill Tartar Marshal Lahu Ertuo.
+hunterinfo_28527=Exterminate Rebel Army of Lu Zhong, defeat Huyan Xiao and find Fang Wuhen.
+interactinfo_27047_1=Tell the Captain of the pass that the Hu Commander has been killed.
+interactinfo_28535=Yue Zhipeng showed up just as we were about to kill Shen Hao and persuaded us with lofty sentiments. We decided that the right thing to do would be to help Yue Zhipeng defeat Shen Honglie.
+okmenu_27042_2=Boss is very smart, using others to do his dirty work.
+story_27013_2=<s>She actually is your Martial Aunt. Her name is Zhang Ruozhi, and she is my younger Martial Sister. But she secretly learned a forbidden martial art style from our school, the Nine Women Catch White Bone. Now you killed her, the punishment is well deserved. Your personality and ability is good. I hope you can keep being kind-hearted, never harm others like Zhang Ruozhi did.
+story_27014_3=Do I look like a bard to you? If you want stories, go read a book. Better yet, go out there and find your own.
+story_27020_2=Some places are too dangerous for you until you are stronger. I hear butterflies are killing people in Luoyang's Green Cloud Castle.
+story_27262_2=She actually is your Martial Aunt. Her name is Zhang Ruozhi, and she is my Younger Martial Sister. But she secretly learned forbidden martial arts of our school, Nine Women Catch White Bone. Now you killed her, the punishment is well deserved. Your personality and ability is good. I hope you can keep being kind-hearted, never harm others like Zhang Ruozhi.
+story_27320_2=<s>Is this the Headband of the Black Suit Man who tried to assassinate you?
+story_27564_2=Since you asked, I guess I won't hide it anymore. Twelve years ago, my family was torn apart. Martial uncle Shan saved me and raised me. In the past twelve years, I always thought about revenge. Now martial uncle Shan has promised me that as soon as I pass the graduation test, he will help me revenge.
+story_27625_3=<s>There is a firearm in the Qingyun Stronghold that is rumored to be able to kill someone from one hundred paces. The lord wants to steal the firearm and achieve supremacy.
+story_28507_1=<font face="Default" color="#ffffff" >Little brother, did the heavens send you to help us?  Our villagers have almost all been killed by this group of bastards. Even Zhao Ziji has been captured by them. This group of bastards kills people in the blink of an eye. How could this be...</font>
+storymenu_27562_1=So it is. Don't worry, Elder Brother, I will take revenge for you…Who is your enemy?
+storymenu_27563_2=Elder Brother told his life story when he was drunk. I felt pity for him. I decided to get revenge for him. Shifu, can you tell me his life experience?
+task_TrackInfo_4528=Kill the runaway villagers and rob the treasure.
 

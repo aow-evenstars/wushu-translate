@@ -26,7 +26,6 @@ DialogID_15305=<font face="Default" color="#ffffff" >Go. Hurry.</font>
 DialogID_15306=<font face="Default" color="#ffffff" >This is where the master checks his disciplines every day.</font>
 DialogID_15310=<font face="Default" color="#ffffff" >Since you have memorized them, let me quiz you.</font>
 DialogID_15311=<font face="Default" color="#ffffff" >Welcome to join us.</font>
-DialogID_15312=<font face="Default" color="#ffffff" >Don't be scared. I'm not from Killers' Manor. I'm here to save the poor.</font>
 DialogID_15320=<font face="Default" color="#ffffff" >I came all the way from Wudang to see this tomb.</font>
 DialogID_15321=<font face="Default" color="#ffffff" >For that, maybe you should ask the master for his opinion.</font>
 DialogID_15323=<font face="Default" color="#ffffff" >Who are you?</font>
@@ -282,7 +281,6 @@ convoyinfo_15251=Lead the sister to <a href="findnpc_new,school14,newgmp_zyb_003
 convoyinfo_15252=Follow the woman in blue to visit Villa Lady
 convoyinfo_15253=Follow the man in blue to visit Villa Lady
 convoyinfo_15257=Follow Yang Chirui to visit the master of the Ancient Tomb Sect
-convoyinfo_15259=Defeat the Killers' Manor Expert and protect the Schoolmate's Coffin
 convoyinfo_15260=Go visit the lady
 convoyinfo_15261=Follow the weird man and take a look.
 convoyinfo_15456=A suspicious man walked by <font face="Default" color="#ff0000" >Tips: Follow the NPC closely. If failed, you may restart this task from Strolling Citizen.</font>
@@ -315,8 +313,6 @@ hunterinfo_15255=Defeat <a href="findnpc_new,city01,month_gj003" style="HLStype1
 hunterinfo_15256=Spar with <a href="findnpc_new , school07 , newmp_gumu_011_wd" style="HLStype1">Yang Chirui</a>
 hunterinfo_15258=Spar with <a href="findnpc_new,school14,newmp_gumu_004" style="HLStype1">Bi Liusu</a>
 hunterinfo_15259=Spar with <a href="findnpc_new,school14,newmp_gumu_011" style="HLStype1">Yang Chirui</a>
-hunterinfo_15262=Head to Yanjing to kill <a href="findnpc_new,city01,monc022101" style="HLStype1">Philanderer</a>
-hunterinfo_15263=Kill <a href="findnpc_new,city03,lmbj_zyb_001" style="HLStype1">the Bandits came for the treasure</a>
 hunterinfo_15264=Defeat the Bandit Leader
 hunterinfo_15265=Defeat the Bandit
 hunterinfo_15266=Win a sparring match with <a href="findnpc_new,school14,newmp_gumu_011" style="HLStype1">Yang Chirui</a>
@@ -346,18 +342,14 @@ hunterinfo_15290=Win a sparring match with <a href="findnpc_new,school14,newmp_g
 hunterinfo_15291=Win a sparring match with <a href="findnpc_new,school14,newmp_gumu_002" style="HLStype1">Leng Qingqian</a>
 hunterinfo_15292=Win a sparring match with <a href="findnpc_new,school14,newmp_gumu_002" style="HLStype1">Leng Qingqian</a>
 hunterinfo_15293=Defeat Lahu Ertuo in Yanmen Pass Villagers Task
-hunterinfo_15294=Head to Yang Chirui in Yanjing （492,455）to sign up for this activity. Defeat Qiu Qingyuan to ignite a war against Killers' Manor.
-hunterinfo_15295=Head to Yang Chirui in Yanjing （492，455）to sign up for this activity. Defeat Qiu Qingyuan to conquer Killers' Manor.
 hunterinfo_15300=Head to XXX to sign up for this activity and pass Elder's test
 hunterinfo_15301=Head to XXX to sign up for the treasure hunt activity
 hunterinfo_15304=Head to XXX to sign up for the school trial activity
-hunterinfo_15308=Head to Gu Yunjiang in Yanjing （482，455）to sign up for this activity. Fight against Killers' Manor and defeat Qiu Yiyao.
 hunterinfo_15350=Start a conversation with Liu Bingbing and complete a Pair Cultivation
 hunterinfo_15369=Defeat the <a href="findnpc_new,city02,newschool_rumen_qiyu_006" style="HLStype1">Evil Cult member</a>
 hunterinfo_15473=Win a sparring match with <a href="findnpc_new,school14,newmp_gumu_008" style="HLStype1">Gu Yunjiang</a>
 hunterinfo_15480=Defeat <a href="findnpc_new,school07,WorldNpc04406" style="HLStype1">Xiang Jiuchen</a>
 hunterinfo_15482=Defeat <a href="findnpc_new,school14,newmp_gumu_009" style="HLStype1">Jiang Shaoyang</a>
-hunterinfo_15484=Defeat the <a href="findnpc_new,born04,montg02004" style="HLStype1">Rosy Cloth Killer</a>
 hunterinfo_15485=Defeat the <a href="findnpc_new,city05,montg03004" style="HLStype1">Golden Needle Sect Guard</a>
 hunterinfo_15486=Defeat the <a href="findnpc_new,city05,montg04004" style="HLStype1">Xu Family Manor Guard</a>
 hunterinfo_15487=Defeat the <a href="findnpc_new,born03,montg07003" style="HLStype1">Salt Gang Supervisor</a>
@@ -422,22 +414,12 @@ interactinfo_15369=Go back to <a href="findnpc_new,city02,Event_gmp_rmqiyu_002" 
 interactinfo_15370=Talk with <a href="findnpc_new,city02,WorldNpc01194" style="HLStype1">Lin Tiannan</a>.
 interactinfo_15371=Speak with the <a href="findnpc_new,city02,newschool_rumen_qiyu_009" style="HLStype1">Reclusive School Guide</a>
 interactinfo_15407=Go take a look
-interactinfo_15408=Speak with Old Man Bai (If anything abnormal comes up, return to the Killers' Manor entrance to start the task over)
 interactinfo_15409=Search <a href="findnpc_new,city01,newgmp_zyb_029" style="HLStype1">Gu Yunliu</a> at Yanjing
-interactinfo_15410=A Man in Blue shows up (If anything abnormal comes up, return to the Killers' Manor entrance to start the task over)
 interactinfo_15411=Go say goodbye to the <a href="findnpc_new,school14,newgmp_zyb_003" style="HLStype1">sister</a>
-interactinfo_15412=Escape from the secret path (If anything abnormal comes up, return to the Killers' Manor entrance to start the task over)
-interactinfo_15413=Ask Old Man Bai (If anything abnormal comes up, return to the Killers' Manor entrance to start the task over)
 interactinfo_15416=Ask <a href="findnpc_new,,newgmp_zyb_022" style="HLStype1">newgmp_zyb_022</a>
-interactinfo_15417=<a href="findnpc_new,city01,EventNpc_gmpzyb_022" style="HLStype1">Try walking to the end</a> (If anything abnormal comes up, return to the Killers' Manor entrance to start the task over)
-interactinfo_15418=Find a way out (If anything abnormal comes up, return to the Killers' Manor entrance to start the task over)
-interactinfo_15419=Speak with the <a href="findnpc_new,city01,newgmp_zyb_018" style="HLStype1">Strange Man</a> (If anything abnormal comes up, return to the Killers' Manor entrance to start the task over)
 interactinfo_15420=Check the oddity in the well that Lady of the Manor mentioned
-interactinfo_15421=Find if there's a way out in the well (If anything abnormal comes up, return to the Killers' Manor entrance to start the task over)
 interactinfo_15423=Speak with this Man in Blue
 interactinfo_15424=Speak with this Woman in Blue
-interactinfo_15425=A Woman in Blue shows up (If anything abnormal comes up, return to the Killers' Manor entrance to start the task over)
-interactinfo_15426=Defeat the Youngster in Blue (If anything abnormal comes up, return to the Killers' Manor entrance to start the task over)
 interactinfo_15427=Since you can leave now, might as well take a walk in the <a href="findnpc_new,city01,EventNpc_gmpzyb_014" style="HLStype1">yard</a>
 interactinfo_15428=Visit <a href="findnpc_new,city01,newgmp_zyb_014" style="HLStype1">Old Man Bai</a>
 interactinfo_15429=Turn on the mechanism in the secret chamber (If anything abnormal comes up, return to the mourning room to start the task over)
@@ -655,13 +637,7 @@ story_15254_2=<font face="Default" color="#ffffff" ></font><font face="Default" 
 story_15255_1=<font face="Default" color="#ffffff" >Sneak in the Ancient Tomb? </font><font face="Default" color="#ffffff" ></font><font face="Default" color="#ffffff" ></font><font face="Default" color="#ffffff" ></font><font face="Default" color="#ffffff" >I'll let you know.</font>
 story_15256_1=<font face="Default" color="#ffffff" >Who are you?</font>
 story_15256_2=<font face="Default" color="#ffffff" >You don't know where this is, do you?</font>
-story_15256_3=<font face="Default" color="#ffffff" >This </font><font face="Default" color="#ffffff" >is </font><font face="Default" color="#ffffff" ></font><font face="Default" color="#ffffff" >Killers' Manor. </font><font face="Default" color="#ffffff" > It is well known for its </font><font face="Default" color="#ffffff" >madness </font><font face="Default" color="#ffffff" >and killing</font><font face="Default" color="#ffffff" ></font><font face="Default" color="#ffffff" >. </font><font face="Default" color="#ffffff" >Anyone could be killed in here and there will be no one to </font><font face="Default" color="#ffffff" >help you</font><font face="Default" color="#ffffff" >.</font>
-story_15256_4=<font face="Default" color="#ffffff" >You want to get out of here? Forget it. There's no way out.</font>
 story_15256_5=<font face="Default" color="#ffffff" >If you insist, </font><font face="Default" color="#ffffff" >I'll take you to a place.</font>
-story_15257_1=<font face="Default" color="#ffffff" >You were just poisoned by the Leader of the Manor. I have extracted all the poison out of your body. Please follow me now.</font>
-story_15257_2=<font face="Default" color="#ffffff" >It's a world full of falsehood. Trust no one in here.</font>
-story_15258_1=<font face="Default" color="#ffffff" >That guy was</font><font face="Default" color="#ffffff" >the Leader of the Manor. </font><font face="Default" color="#ffffff" >You were </font><font face="Default" color="#ffffff" >just poisoned by him</font><font face="Default" color="#ffffff" ></font><font face="Default" color="#ffffff" >. </font><font face="Default" color="#ffffff" >I have extracted all the poison out of your body. </font><font face="Default" color="#ffffff" ></font><font face="Default" color="#ffffff" >Please follow me now</font><font face="Default" color="#ffffff" >.</font>
-story_15258_2=<font face="Default" color="#ffffff" >Killers' Manor </font><font face="Default" color="#ffffff" >is a place full of falsehood. </font><font face="Default" color="#ffffff" >You can't trust no one in here.</font>
 story_menu_15252=<font face="Default" color="#ffffff" >Why did Palace of Shifting Flowers disciples help us?</font>
 story_menu_15253=<font face="Default" color="#ffffff" >Tell the master what you want.</font>
 story_menu_15254=<font face="Default" color="#ffffff" >I've made up my mind. </font><font face="Default" color="#ffffff" >Please.</font><font face="Default" color="#ffffff" ></font>
@@ -673,9 +649,6 @@ storyinfo_15252=Ask <a href="findnpc_new , city03 , newgmp_zyb_027" style="HLSty
 storyinfo_15253=Tell Master <a href="findnpc_new , school14 , newmp_gumu_001" style="HLStype1">Long Yuyou </a>what you have in mind
 storyinfo_15254=Ask Master <a href="findnpc_new , school14 , newmp_gumu_001" style="HLStype1">Long Yuyou </a>for permission
 storyinfo_15255=Ask <a href="findnpc_new , school14 , newgmp_zyb_003" style="HLStype1">Qiu Yiyao </a>why he sneaked in the Ancient Tomb
-storyinfo_15256=Speak with <a href="findnpc_new , city01 , newgmp_zyb_023" style="HLStype1">Lady of the Manor</a> (If anything abnormal comes up, return to the Killers' Manor entrance to start the task over)
-storyinfo_15257=Go check what's going on with the Woman in Blue (If anything abnormal comes up, return to the Killers' Manor entrance to start the task over)
-storyinfo_15258=Go check what's going on with the Man in Blue (If anything abnormal comes up, return to the Killers' Manor entrance to start the task over)
 storymenu_15251_2=<font face="Default" color="#ffffff" >Can I learn martial arts from Ancient Tomb?</font>
 storymenu_15251_3=<font face="Default" color="#ffffff" >If so</font><font face="Default" color="#ffffff" >, I'd </font><font face="Default" color="#ffffff" >like to </font><font face="Default" color="#ffffff" >visit Ancient Tomb and </font><font face="Default" color="#ffffff" >see it</font><font face="Default" color="#ffffff" >.</font>
 storymenu_15252_1=<font face="Default" color="#ffffff">What?</font>
@@ -688,11 +661,8 @@ storymenu_15253_3=<font face="Default" color="#ffffff" >Please... </font><font f
 storymenu_15254_1=<font face="Default" color="#ffffff" >I've made up my mind.</font>
 storymenu_15254_2=<font face="Default" color="#ffffff" >Thank you so much. </font><font face="Default" color="#ffffff" >If you need anything from me, just name it.</font><font face="Default" color="#ffffff" >.</font>
 storymenu_15255_1=<font face="Default" color="#ffffff" >I'll see what you really want. </font>
-storymenu_15255_2=<font face="Default" color="#ffffff" >Yang Xie will show no mercy to the notorious Killers' Manor people.</font>
-storymenu_15255_3=<font face="Default" color="#ffffff" >Are you the Killers' Manor Lady</font><font face="Default" color="#ffffff" >?</font>
 storymenu_15256_1=<font face="Default" color="#ffffff" >I was just injured and saved by the Ender.</font>
 storymenu_15256_2=<font face="Default" color="#ffffff" >Please do tell.</font>
-storymenu_15256_3=<font face="Default" color="#ffffff" >What? This is Killers' Manor?</font>
 storymenu_15256_4=<font face="Default" color="#ffffff" >Please let me knwo how to get out of here.</font>
 storymenu_15256_5=<font face="Default" color="#ffffff" >Please show me a way out.</font>
 storymenu_15257_1=<font face="Default" color="#ffffff" >Why did you do this to me?</font>
@@ -744,13 +714,9 @@ convoyinfo_15250=Escort Schoolmate's Coffin and Darksteel Greatsword back to the
 convoyinfo_15258=Escort Schoolmate's Coffin and Darksteel Greatsword back to the Ancient Tomb Sect
 convoyinfo_15455=Follow Yang Chirui to learn more about the Ancient Tomb Sect Sect
 hunterinfo_15257=<a href="findnpc_new,school14,newmp_gumu_020" style="HLStype1">Ancient Tomb Disciples start fighting with each other </a>. Defeat them and resolve the misunderstanding.
-hunterinfo_15260=Head to Yanjing to kill <a href="findnpc_new,city01,monc022108" style="HLStype1">Ancient Tomb Traitors</a>
 hunterinfo_15296=Head to Jiang Shaoyang in the Ancient Tomb（-264，-386）to sign up for this activity. Defeat Leng Qingqian to complete the challenge.
-hunterinfo_15302=For Ancient Tomb Disciples, please head to XXX to sign up for Attacking Killers' Manor Event; for Wudang Disciples, please head to XXX to sign up for it.
-hunterinfo_15303=For Ancient Tomb Disciples, please head to XXX to sign up for Defending Killers' Manor Event; for Wudang Disciples, please head to XXX to sign up for it.
 hunterinfo_15305=Head to Qi Shu in the Ancient Tomb（-180，-500）to sign up for this activity. Defeat the sister in the trial.
 hunterinfo_15306=Head to Xia Qingwu in the Ancient Tomb（-331，-499）to sign up for this activity. Explore the maze to win a reward.
-hunterinfo_15307=Head to Gu Yunjiang in Yanjing （482，455）to sign up for this activity. Help Ancient Tomb Sect with fighting against Killers' Manor.
 interactinfo_15250=Head to the Ancient Tomb Sect Master's secret room (-244,-578) for cultivation
 interactinfo_15258=Listen to <a href="findnpc_new , school14 , newmp_gumu_001" style="HLStype1">Long Yuyou </a>talk about the Ancient Tomb Sect Sect
 interactinfo_15265=Go visit the Ancient Tomb Master <a href="findnpc_new , school14 , newmp_gumu_001" style="HLStype1">Long Yuyou</a>
@@ -772,13 +738,47 @@ story_15251_1=<font face="Default" color="#ffffff" >The master of the Ancient To
 story_15251_2=<font face="Default" color="#ffffff" >Nowadays we are still sending disciples to each school for martial arts exchange.</font>
 story_15251_3=<font face="Default" color="#ffffff" >Immortal Zhang encouraged his disciples to visit Ancient Tomb Sect and learn martial arts from them. </font><font face="Default" color="#ffffff" >If I have a chance to join the Ancient Tomb Sect, I'll do whatever I can to teach them.</font>
 story_15252_3=<font face="Default" color="#ffffff" >Since then she felt sick of all men and started her own school that for broken-hearted women only. Also she created Clear Jade Divine Skill and Seven Techniques of the Flower Goddess with her great talent.</font>
-story_15255_2=<font face="Default" color="#ffffff" >Seventeen years ago, Killers' Manor Master's daughter fell in love a talented young boy, </font><font face="Default" color="#ffffff" ></font><font face="Default" color="#ffffff" >who was later found out ot be Yang Xie. In order to meet him, </font><font face="Default" color="#ffffff" >she </font><font face="Default" color="#ffffff" >joined Ancient Tomb Sect, yet she never has a chance to win his heart.</font>
-story_15255_3=<font face="Default" color="#ffffff" >In Ancient Tomb Sect, Yang Xi only fell for a girl named Leng Qingqian, which tortures her and makes her jealous. </font><font face="Default" color="#ffffff" >Eventually she left Ancient Tomb. </font>
 story_menu_15251=<font face="Default" color="#ffffff" >How do you know my name?</font>
 storyinfo_15251=Ask <a href="findnpc_new , school07 , WorldNpc04401" style="HLStype1">Immortal Ziyang </a>about the Ancient Tomb Sect
 storymenu_15251_1=<font face="Default" color="#ffffff" >I see. </font><font face="Default" color="#ffffff" >Why did Ancient Tomb Sect reappear recently?</font>
 useiteminfo_15258=Use <a href="findnpc_new , school14 , newmp_gumu_rc010" style="HLStype1">plasters </a>on <a href="TASK_ITEM , useitem_gmp_gj006" style="HLStype1">Ancient Tomb disciples</a>
 useiteminfo_15259=Use <a href="findnpc_new , school14 , newmp_gumu_rc010" style="HLStype1">plasters </a>on <a href="TASK_ITEM , useitem_gmp_gj007" style="HLStype1">Ancient Tomb disciples</a>
 collectinfo_15374=Refine Yu Nv Pure Heart Pills in Ancient Tomb Sect
-DialogID_15370=<font face="Default" color="#ffffff" >Looks like Evil Cult is involved in </font><font face="Default" color="#ffffff" >the saltpetre case </font><font face="Default" color="#ffffff" ></font><font face="Default" color="#ffffff" >. Now </font><font face="Default" color="#ffffff" >Evil Cult </font><font face="Default" color="#ffffff" >is showing up in public</font><font face="Default" color="#ffffff" >. </font><font face="Default" color="#ffffff" >The Eight Schools are no match for the Evil Cult. </font><font face="Default" color="#ffffff" >To  tackle this, </font><font face="Default" color="#ffffff" >We need </font><font face="Default" color="#ffffff" >the Eight Reclusive Schools </font><font face="Default" color="#ffffff" >to fight with </font><font face="Default" color="#ffffff" >us </font><font face="Default" color="#ffffff" >against Evil Cult</font><font face="Default" color="#ffffff" >. You </font><font face="Default" color="#ffffff" >go visit </font><font face="Default" color="#ffffff" >the Reclusive School disciple, and ask him to lead you to </font><font face="Default" color="#ffffff" >visit </font><font face="Default" color="#ffffff" >the Reclusive School</font><font face="Default" color="#ffffff" >.</font>
+DialogID_15370=<font face="Default" color="#ffffff" >Looks like Evil Cult is involved in </font><font face="Default" color="#ffffff" >the saltpetre case </font><font face="Default" color="#ffffff" ></font><font face="Default" color="#ffffff" >. Now </font><font face="Default" color="#ffffff" >Evil Cult </font><font face="Default" color="#ffffff" >is showing up in public</font><font face="Default" color="#ffffff" >. </font><font face="Default" color="#ffffff" >The Ten Schools are no match for the Evil Cult. </font><font face="Default" color="#ffffff" >To tackle this, </font><font face="Default" color="#ffffff" >We need </font><font face="Default" color="#ffffff" >the Reclusive Schools </font><font face="Default" color="#ffffff" >to fight with </font><font face="Default" color="#ffffff" >us </font><font face="Default" color="#ffffff" >against Evil Cult</font><font face="Default" color="#ffffff" >. You </font><font face="Default" color="#ffffff" >go visit </font><font face="Default" color="#ffffff" >the Reclusive School disciple, and ask him to lead you to </font><font face="Default" color="#ffffff" >visit </font><font face="Default" color="#ffffff" >the Reclusive School</font><font face="Default" color="#ffffff" >. </font>
+DialogID_15312=<font face="Default" color="#ffffff" >Don't be scared. I'm not from Killers' Manor. I'm here to save the poor.</font>
+convoyinfo_15259=Defeat the Killers' Manor Expert and protect the Schoolmate's Coffin
+hunterinfo_15260=Head to Yanjing to kill <a href="findnpc_new,city01,monc022108" style="HLStype1">Ancient Tomb Traitors</a>
+hunterinfo_15262=Head to Yanjing to kill <a href="findnpc_new,city01,monc022101" style="HLStype1">Philanderer</a>
+hunterinfo_15263=Kill <a href="findnpc_new,city03,lmbj_zyb_001" style="HLStype1">the Bandits came for the treasure</a>
+hunterinfo_15294=Head to Yang Chirui in Yanjing （492,455）to sign up for this activity. Defeat Qiu Qingyuan to ignite a war against Killers' Manor.
+hunterinfo_15295=Head to Yang Chirui in Yanjing （492，455）to sign up for this activity. Defeat Qiu Qingyuan to conquer Killers' Manor.
+hunterinfo_15302=For Ancient Tomb Disciples, please head to XXX to sign up for Attacking Killers' Manor Event; for Wudang Disciples, please head to XXX to sign up for it.
+hunterinfo_15303=For Ancient Tomb Disciples, please head to XXX to sign up for Defending Killers' Manor Event; for Wudang Disciples, please head to XXX to sign up for it.
+hunterinfo_15307=Head to Gu Yunjiang in Yanjing （482，455）to sign up for this activity. Help Ancient Tomb Sect fight against Killers' Manor.
+hunterinfo_15308=Head to Gu Yunjiang in Yanjing （482，455）to sign up for this activity. Fight against Killers' Manor and defeat Qiu Yiyao.
+hunterinfo_15484=Defeat the <a href="findnpc_new,born04,montg02004" style="HLStype1">Rosy Cloth Killer</a>
+interactinfo_15408=Speak with Old Man Bai (If anything abnormal comes up, return to the Killers' Manor entrance to start the task over)
+interactinfo_15410=A Man in Blue shows up (If anything abnormal comes up, return to the Killers' Manor entrance to start the task over)
+interactinfo_15412=Escape from the secret path (If anything abnormal comes up, return to the Killers' Manor entrance to start the task over)
+interactinfo_15413=Ask Old Man Bai (If anything abnormal comes up, return to the Killers' Manor entrance to start the task over)
+interactinfo_15417=<a href="findnpc_new,city01,EventNpc_gmpzyb_022" style="HLStype1">Try walking to the end</a> (If anything abnormal comes up, return to the Killers' Manor entrance to start the task over)
+interactinfo_15418=Find a way out (If anything abnormal comes up, return to the Killers' Manor entrance to start the task over)
+interactinfo_15419=Speak with the <a href="findnpc_new,city01,newgmp_zyb_018" style="HLStype1">Strange Man</a> (If anything abnormal comes up, return to the Killers' Manor entrance to start the task over)
+interactinfo_15421=Find if there's a way out in the well (If anything abnormal comes up, return to the Killers' Manor entrance to start the task over)
+interactinfo_15425=A Woman in Blue shows up (If anything abnormal comes up, return to the Killers' Manor entrance to start the task over)
+interactinfo_15426=Defeat the Youngster in Blue (If anything abnormal comes up, return to the Killers' Manor entrance to start the task over)
+story_15255_2=<font face="Default" color="#ffffff" >Seventeen years ago, Killers' Manor Master's daughter fell in love a talented young boy, </font><font face="Default" color="#ffffff" ></font><font face="Default" color="#ffffff" >who was later found out to be Yang Xie. In order to meet him, </font><font face="Default" color="#ffffff" >she </font><font face="Default" color="#ffffff" >joined Ancient Tomb Sect, yet she never has a chance to win his heart.</font>
+story_15255_3=<font face="Default" color="#ffffff" >In Ancient Tomb Sect, Yang Xi only fell for a girl named Leng Qingqian, which tortures her and makes her jealous. </font><font face="Default" color="#ffffff" >Eventually she left Ancient Tomb. </font>
+story_15256_3=<font face="Default" color="#ffffff" >This </font><font face="Default" color="#ffffff" >is </font><font face="Default" color="#ffffff" ></font><font face="Default" color="#ffffff" >Killers' Manor. </font><font face="Default" color="#ffffff" > It is well known for its </font><font face="Default" color="#ffffff" >madness </font><font face="Default" color="#ffffff" >and killing</font><font face="Default" color="#ffffff" ></font><font face="Default" color="#ffffff" >. </font><font face="Default" color="#ffffff" >Anyone could be killed in here and there will be no one to </font><font face="Default" color="#ffffff" >help you</font><font face="Default" color="#ffffff" >.</font>
+story_15256_4=<font face="Default" color="#ffffff" >You want to get out of here? Forget it. There's no way out.</font>
+story_15257_1=<font face="Default" color="#ffffff" >You were just poisoned by the Leader of the Manor. I have extracted all the poison out of your body. Please follow me now.</font>
+story_15257_2=<font face="Default" color="#ffffff" >It's a world full of falsehood. Trust no one in here.</font>
+story_15258_1=<font face="Default" color="#ffffff" >That guy was</font><font face="Default" color="#ffffff" >the Leader of the Manor. </font><font face="Default" color="#ffffff" >You were </font><font face="Default" color="#ffffff" >just poisoned by him</font><font face="Default" color="#ffffff" ></font><font face="Default" color="#ffffff" >. </font><font face="Default" color="#ffffff" >I have extracted all the poison out of your body. </font><font face="Default" color="#ffffff" ></font><font face="Default" color="#ffffff" >Please follow me now</font><font face="Default" color="#ffffff" >.</font>
+story_15258_2=<font face="Default" color="#ffffff" >Killers' Manor </font><font face="Default" color="#ffffff" >is a place full of falsehood. </font><font face="Default" color="#ffffff" >You can't trust no one in here.</font>
+storyinfo_15256=Speak with <a href="findnpc_new , city01 , newgmp_zyb_023" style="HLStype1">Lady of the Manor</a> (If anything abnormal comes up, return to the Killers' Manor entrance to start the task over)
+storyinfo_15257=Go check what's going on with the Woman in Blue (If anything abnormal comes up, return to the Killers' Manor entrance to start the task over)
+storyinfo_15258=Go check what's going on with the Man in Blue (If anything abnormal comes up, return to the Killers' Manor entrance to start the task over)
+storymenu_15255_2=<font face="Default" color="#ffffff" >Yang Xie will show no mercy to the notorious Killers' Manor people.</font>
+storymenu_15255_3=<font face="Default" color="#ffffff" >Are you the Killers' Manor Lady</font><font face="Default" color="#ffffff" >?</font>
+storymenu_15256_3=<font face="Default" color="#ffffff" >What? This is Killers' Manor?</font>
 

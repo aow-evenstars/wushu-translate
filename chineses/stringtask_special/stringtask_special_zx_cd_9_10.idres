@@ -63,7 +63,6 @@ ZZAnswerText4_2283=Taiji
 ZZAnswerText4_2285=Yang Xie
 collectinfo_17211=Get the letter from the <a href="findnpc_new,city01,monrc025067" style="HLStype1">Royal Guard Leader</a>
 collectinfo_17212=Go to collect <a href="findnpc_new,scene03,Gather0001xk" style="HLStype1">Wild Herbal Medicine</a>
-collectinfo_17213=Inspect the <a href="findnpc_new,city01,monrc025021" style="HLStype1">Killers' Manor Spy</a>'s body
 collectinfo_17223=Find Relief Goods from the bodies of <a href="findnpc_new,scene03,monf033201" style="HLStype1"> Granary patrol soldiers </a>
 collectinfo_17229=Collect from <a href="findnpc_new,scene03,Gather0002xk" style="HLStype1"> Mingshuang Mushroom Thicket </a>
 convoy_talk_34390_1=See you later.
@@ -75,8 +74,6 @@ convoyinfo_17207=Follow Yan Guhong to the <a href="findnpc,city01,609,,168" styl
 convoyinfo_17215=Follow the disciple to the <a href="findnpc,scene03,1100,0,616" style="HLStype1">Entrance</a>
 hunterinfo_17201=Defeat <a href="findnpc_new,school05,WorldNpc02527" style="HLStype1">Gu Long</a>
 hunterinfo_17202=Defeat <a href="findnpc_new,school05,WorldNpc02557" style="HLStype1">A Nisang the Five-immortal Sect Disciple</a>
-hunterinfo_17203=Defeat <a href="findnpc_new,city01,monrc025065" style="HLStype1">Royal Guards Killer</a>
-hunterinfo_17204=Defeat <a href="findnpc_new,city01,monrc025021" style="HLStype1">Killers' Manor Spy</a>
 hunterinfo_17205=Kill <a href="findnpc_new,school05,monrm070002" style="HLStype1"> the Bandit Leader </a>
 hunterinfo_17206=Defeat <a href="findnpc_new,city01,WorldNpc09085" style="HLStype1">Mysterious Woman</a>
 hunterinfo_17207=Defeat <a href="findnpc_new,city01,monrc025068" style="HLStype1">Traitor Abetter</a>
@@ -194,7 +191,6 @@ story_17203_2=We only know this man is surnamed Bai. We do not know anything els
 story_17204_2=<s> Unexpectedly, she encountered the intercepting of Royal Guards and was seriously wounded.
 story_17205_1=<s> After six years of practicing kung fu, Ziyan left the Ancient Tomb Sect and started traveling.
 story_17206_1=<s> Around Tianwaitian Sect there are many Datura flowers  filled with rank poison. If you don't take the antidote, when you get close to the flowers you will not only be seriously poisoned but will also go mad.
-story_17206_2=<s> The mysterious Tianwaitian Sect is home to the world's most hidden force - the top-level killer camp of the Silent Temple.
 story_17207_1=<s> Our Muyun Villa is located in the outskirts of Tangmen. It rivals the nearby Tang family castle and Twelve-Linked Fortress.
 story_17209_2=The leader of the Youming Palace leader is ruthlessly ambitious.
 story_17210_1=<s>Bai Yingying of the Youming Palace lusts for power.
@@ -205,7 +201,6 @@ story_17212_1=<s> After White-hair Witch Bai Sujue was driven out of the sect, s
 story_17222_1=<s> The Yellow River flooded, and nearby people suffered disasters. Our Beggar's Sect released a lot of Relief Goods, trying to do our best to help the victims.
 story_17222_2=<s> But Head Helm sent us messages that there are a lot of government troops nearby. When the troops heard that the Relief Goods of the Beggar's Sect were nearby, they began to rob the funds by relying on their power.
 story_17222_3=Our Beggar's Sect will definitely take the robbed Goods back. It's urgent to save the lives. Little brother, haste to go to the Branch to inform Branch Helmsman of this.
-story_17226_1=Palace leader only likes the vicious kung fu music and  studying various ways of killing humans. Recently, she has been cultivating Doomy Hell Mental Skills.
 story_17226_2=Ah! How to do? Palace Leader is possessed with cultivating Doomy hell Mental Skills. His mind has a lot of changes. No one would believe that when an incident happens, no one knows.
 story_17239_2=<s>Do not underestimate us. Our sect is small, but growing in power. Other sects are already pledging their allegiance to us.
 story_menu_17201=Would you like to tell me where you are from?
@@ -271,11 +266,16 @@ DialogID_17241=<s> This is the heirloom of our Ancient Tomb Sect. I now grant it
 ZZAnswerText1_2283=Eighteen Dragon-subduing Palms
 interactinfo_17222=Get the Ancient Tomb Sect's Map from <a href="findnpc_new,school05,WorldNpc02527" style="HLStype1"> Gu Long </a>
 maintext_2285=<s> Who is the founder of Ancient Tomb Sect?
-okmenu_17218=I came across a scout from Killers' Manor and a traitor from the Ancient Tomb Sect so I killed them both.
 okmenu_17223=I have a map of Ancient Tomb Sect. Dharmapala Zhang, do you recognize it?
 quest_menu_17201=Ancient Tomb Sect's founder
 story_17204_1=<s> I have been sent to find Secret Syrup of Jade Bee of the Ancient Tomb Sect to resolve the poison from which Xia Wuyou is suffering.
 story_17205_2=When she went out of the Ancient Tomb one time, she met Dongfang Yu. She quickly fell into love with him and finally betrayed the Ancient Tomb Sect and was married to the Dongfang Family. So I ordered to drive her out of our sect.
 story_17209_1=Youming Palace is located in the West Village Tomb Forest. Its disciples often abduct villagers to practice their sinister skills.
 story_17239_1=<s> Youming Palace is located in the West Village Tomb Forest, a dark and foreboding place.
+collectinfo_17213=Inspect the <a href="findnpc_new,city01,monrc025021" style="HLStype1">Killers' Manor Spy</a>'s body
+hunterinfo_17203=Defeat <a href="findnpc_new,city01,monrc025065" style="HLStype1">Royal Guards Killer</a>
+hunterinfo_17204=Defeat <a href="findnpc_new,city01,monrc025021" style="HLStype1">Killers' Manor Spy</a>
+okmenu_17218=I came across a scout from Killers' Manor and a traitor from the Ancient Tomb Sect so I killed them both.
+story_17206_2=<s> The mysterious Tianwaitian Sect is home to the world's most hidden force - the top-level killer camp of the Silent Temple.
+story_17226_1=Palace leader only likes the vicious kung fu music and studying various ways of killing humans. Recently, she has been cultivating Doomy Hell Mental Skills.
 

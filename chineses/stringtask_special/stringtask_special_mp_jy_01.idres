@@ -59,7 +59,6 @@ collectinfo_5607=Gather the <a href="findnpc_new,school01,Gather0044yl" style="H
 collectinfo_5608=Examine the <a href="findnpc_new,school01,Gather0045yl" style="HLStype1">Journal</a> Wu Zhiyong dropped
 hunterinfo_5001=Apprehend <a href="findnpc_new,school01,WorldNpc04284" style="HLStype1"> Wu Zhiyong </a>
 hunterinfo_5620=Head west and kill some <a href="findnpc_new,school01,monm010103" style="HLStype1">Poisonous Snakes</a>.
-hunterinfo_5622=Put down the <a href="findnpc_new,school01,monm010504" style="HLStype1">Poisoned Cattle</a>.
 interactinfo_5001=Speak with <a href="findnpc_new,school01,WorldNpc04126" style="HLStype1">Zhang Shijun</a> again.
 interactinfo_5004=Head to <a href="findnpc_new,school01,EventNpc42004" style="HLStype1">Xiangyun Village</a>.
 interactinfo_5005=Cure <a href="findnpc_new,school01,WorldNpc04276" style="HLStype1">Chu Feng</a>.
@@ -137,7 +136,6 @@ storymenu_5605_2=<font face="Default" color="#ffffff">(Continue reading...)</fon
 storymenu_5605_3=<font face="Default" color="#ffffff">Another tragic end...</font>
 useiteminfo_5004=Use a <a href="TASK_ITEM,useitem_71y" style="HLStype1">Carrier Pigeon</a> to deliver a letter to Zhang Shijun.
 SubmitNpcEx_42021=<s>Speak with <a href="findnpc_new,school01,WorldNpc04277" style="HLStype1">Jing Huo</a>
-interactinfo_5009=Talk to <a href="findnpc_new,school01,WorldNpc04278" style="HLStype1">Zhang Cunsheng</a>.
 story_5604_1=<font face="Default" color="#8fd6ef" >(There is a page stuck to his clothes)</font>
 storyinfo_5604=A page is missing, see if <a href="findnpc_new,school01,WorldNpc04294" style="HLStype1">Wu Zhiyong</a> has it.
 storymenu_5604_1=<font face="Default" color="#ffffff" >(Read the Journal page)</font>
@@ -188,4 +186,32 @@ storymenu_5201_3=The people of Xingxiu Sect are talented poison users and can't 
 storymenu_5202_1=Do you know where is the Cauldron of the Divine Tree?
 storymenu_5204_1=Jiang Yici is rounding up Xingxiu Sect disciples and plans to kill Su Bailing so he can take over the sect.
 storymenu_5205_1=What? He stole the Cauldron of the Divine Tree?
+DialogID_5048=Just now, a few of the Bad Gambler's men came over and forced me to take the poison of Royal Guards to completely put on the blame on them. The killer also said that the Heaven-Splitting Axe had been obtained. I have no more use for it. He wanted me to die a painful death from poison. Luckily, I have one last Jade Sun Pill to slow down the poisoning. Please find a way to save me.
+DialogID_5063_2=These killers must have been sent by Zhang Shijun to kill me. And just now when fighting with Zhang Shijun, I found that his martial arts skills have greatly improved. I'm afraid it has mastered Sleeping Arhat Fist!
+DialogID_5201_1=Ha ha, my name is Bujie, so I do whatever I like. Eat, drink, play, attack is what I do. I am not used to the rules set by the Shaolin Temple old vultures, so I escaped from Shaolin to this Evil Men's Valley to molest girls.
+DialogID_5255_1=Good, it is the same person who called you to ask for money. Although the Red Flower Killer is a killer organization that I created, I never killed on person. On the other hand, he always molests women in my name everywhere, so now everyone is afraid when they talk about Red Flower.
+collectinfo_5207=Kill <a href="findnpc_new,city04,monc043200" style="HLStype1">Mysterious Killer</a> and find clues
+hunterinfo_5003_1=Kill <a href="findnpc_new,school01,WorldNpc04108" style="HLStype1">Chang Tianxiao</a>
+hunterinfo_5004_2=Kill <a href="findnpc_new,school01,WorldNpc04109" style="HLStype1">Cao Meng</a>
+hunterinfo_5019=Defeat <a href="findnpc_new,school01,monrm011000" style="HLStype1">Evil Sect Killer</a>
+hunterinfo_5020=Defeat <a href="findnpc_new,school01,monrm011001" style="HLStype1">Devil Sect Killer</a>
+hunterinfo_5021=Defeat <a href="findnpc_new,school01,monrm011002" style="HLStype1">Devil Sect Killer</a>
+hunterinfo_5022=Defeat <a href="findnpc_new,school01,monrm011003" style="HLStype1">Devil Sect Killer</a>
+hunterinfo_5027=Defeat <a href="findnpc_new,scene07,monrf071500" style="HLStype1">Mysterious Killer</a>
+hunterinfo_5031=Defeat <a href="findnpc,scene07,239.02,6.79,55.29" style="HLStype1">Killer</a>
+hunterinfo_5307=Defeat <a href="findnpc_new,school07,monrm076100" style="HLStype1">Killer in Black</a>
+hunterinfo_5618=Defeat <a href="findnpc_new,school01,monrv042802" style="HLStype1">Masked Killer</a>
+hunterinfo_5621=Defeat <a href="findnpc_new,school01,monrm013903" style="HLStype1">Killer in Black</a>
+hunterinfo_5622=Put down the <a href="findnpc_new,school01,monm010504" style="HLStype1">Poisoned Cattle</a>.
+interactinfo_5009=Talk to <a href="findnpc_new,school01,WorldNpc04278" style="HLStype1">Zhang Cunsheng</a>.
+story_5002_2=Because only I know the whereabouts of the Heaven-Splitting Axe, so I was not killed. In order to divert attention, Bad Gambler will blame the matter on Royal Guards.
+story_5007_1=In fact, it was Zhang Shijun who sent me to kill you as he was afraid that you would tell the truth about Sleeping Arhat Fist. Once Zhang Shijun got the manual, he deliberately asked you to pick plum blossoms to send you away, fabricated the treasure map and asked me to send someone to guard the location of the treasure map.
+story_5008_1=Hm, that Sleeping Arhat Fist manual given by Chen Qichen is a fake. I previously thought that I had practiced Sleeping Arhat Fist and wanted to kill Chen Qichen as well. This way, no one will know that I have the manual.
+story_5011_1=Xianxia Sect had a traitor, allowing the Five Immortal Sect to take advantage of the opportunity to poison the entire sect with chronic poison. Five Immortal Sect has been studying poisons for many years and has always focused on torturing people. How could they come up with such a colorless, tasteless and invisible poison? In fact, when you join the sect, I have already guessed that you were sent by Royal Guards.
+story_5219_1=I want you to help me to hire a killer to injure both me and Yan Qishuang. Then see whom Huangfu Yao will actually help.
+story_5219_2=You don't have to worry about anything else. Just go and help me get this done. I will reward you generously when the whole thing is done. There is a famous killer Ma Qingfeng in the territory of the Cao Gang. Just go to him.
+story_5221_2=He should have found a suitable person to frame. Huangfu Yao is highly skilled in martial arts, which forms his own style. The wounds on Yan Qishuang were not done by Huangfu Yao at all. Recently, a group of mysterious killers gathered near Yanmen. Help me to see if there are any clues.
+story_5304_1=<s>The identity of those mysterious people monitoring Chang Zuowu is unknown, and the guardian of Thousand Plum Villa attacked suddenly. I guess this must be Ximen Chuixue wanting to solve the problem. Therefore, we must quickly find out what happened. Do not delay, it is a matter of life and death.
+story_5306_1=<s>The reason I wander here is to find the one known as the "Lightning Sword of Jianghu", the one who killed my wife. He has trained a group of deadly men to work for the rich. On the way I met the swordsman that you mentioned.
+story_menu_5209=Oh! So you want to tie up the loose ends of the robbery so fast?
 

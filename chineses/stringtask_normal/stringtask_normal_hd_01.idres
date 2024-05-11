@@ -577,8 +577,6 @@ CompleteMenu_43790=<font face="Default" color="#ffffff" >Age of Wushu: A Warrior
 CompleteMenu_43791=<font face="Default" color="#ffffff">A Makeover (Complete)</font>
 CompleteMenu_43792=<font face="Default" color="#ffffff" >Gift from Heaven (Complete)</font>
 accept_43790_1=<font face="Default" color="#ffffff" >Are you good at finding things? Bring me tokens bearing the Chinese characters 九, 阴, 真, 经, 侠, 客, 行, and I will reward you.</font>
-accept_43791_1=<font face="Default" color="#ffffff" >You may change your appearance to elude your enemies, woo a lover, or simply to satisfy your vanity. A most useful thing indeed!</font>
-accept_43792_1=<font face="Default" color="#ffffff" >You will find this useful! </font>
 complete_43790=<font face="Default" color="#ffffff" >Nice work, please accept this small gift. </font>
 complete_43791=<font face="Default" color="#ffffff" >Today is your lucky day. You will be able to change your appearance and start a new life! </font>
 complete_43792=<font face="Default" color="#ffffff" >Let's take a good look at you…oh dear, I can see why you want to redo your makeover! Fine, I'll help you, but consider it a personal favor from me.</font>
@@ -924,7 +922,6 @@ complete_43863=<font face="Default" color="#ffffff" >Come here. Try the pork fea
 context_43863=You can get the New Year--Kill Boars quest at Lin Liang and then talk to <font color="#00cc00">Scared Farmer</font> at the Farmer Master. Kill <font color="#ff0000">Boar King</font> to get <font color="#00cc00">fresh pork</font>. Give it to Lin Liang to get rewards.
 menu_43863_1=<font face="Default" color="#ffffff" >Yes.</font>
 submit_43863=<font face="Default" color="#ffffff" >Thank you.</font>
-target_43863=Kill <font color="#ff0000">Boar King</font> and get <font color="#00cc00">Fresh Pork</font>
 title_43863=New Year--Kill Boars
 CanAcceptMenu_43864=<font face="Default" color="#ffffff" >New Year--Dispel Nian</font>
 CompleteMenu_43864=<font face="Default" color="#ffffff" >Submit New Year--</font><font face="Default" color="#ffffff" >Dispel Nian</font><font face="Default" color="#ffffff" ></font>
@@ -933,7 +930,6 @@ complete_43864=<font face="Default" color="#ffffff" >We found this in the beast 
 context_43864=You can get the New Year--Dispel Nian quest at Lin Liang. Go to the event scene and use the quest item <font color="#00cc00">strange fireworks</font> (which is in the quest item backpack. If you have lost it, please give up the quest and get it again.) to kill the <font color="#ff0000">Little Nian</font>. Submit the quest to Lin Liang and get the rewards.
 menu_43864_1=<font face="Default" color="#ffffff" >Yes.</font>
 submit_43864=<font face="Default" color="#ffffff" >Thank you.</font>
-target_43864=Kill the <font color="#FF0000">Little Nian</font>.
 title_43864=New Year-- Dispel Nian
 CanAcceptMenu_43862=<font face="Default" color="#ffffff" >Event Reward Pack</font>
 CompleteMenu_43862=<font face="Default" color="#ffffff" >Get Event Reward Pack</font>
@@ -964,7 +960,6 @@ complete_43877=<font face="Default" color="#ffffff" >Have you found the Rare Tre
 context_43865=The Lords of the Manors examine their disciples' cultivation result of the year.
 context_43866=Get the Spring Couplets at Situ Yan
 context_43867=Know the meaning of Inviting Door God
-context_43868=During the Spring Festival, fierce beasts suddenly appear near Chengdu. Please kill them.
 context_43869=Help him plant agricultural products
 context_43870=Help him collect the materials for dinner
 context_43871=Invite some warriors and friends to drink in Luoyang
@@ -988,7 +983,6 @@ submit_43877=<font face="Default" color="#ffffff" >Thank you. I have found it.</
 target_43865=Clear lazy disciples for the Lords of the Manors
 target_43866=Get the Spring Couplets at Situ Yan
 target_43867=Know the meaning of Inviting Door God
-target_43868=Kill the Beast in Chengdu.
 target_43869=Help him to farm and give the gains to him
 target_43870=Collect the materials and give them to him
 target_43871=Invite warriors and friends
@@ -1081,14 +1075,6 @@ complete_43886=<font face="Default" color="#ffffff" >Here you are! Train hard!</
 complete_43887=<font face="Default" color="#ffffff" >Here you are! Train hard!</font>
 complete_43888=<font face="Default" color="#ffffff" >Here you are! Train hard!</font>
 complete_43889=<font face="Default" color="#ffffff" >Here you are! Train hard!</font>
-context_43882=Qualifying disciples from the major schools can go to their headmasters to claim level 1-36 of their school's tier 5 internal skill. This is a limited-time offer!
-context_43883=Qualifying disciples from the major schools can go to their headmasters to claim level 1-36 of their school's tier 5 internal skill. This is a limited-time offer!
-context_43884=Qualifying disciples from the major schools can go to their headmasters to claim level 1-36 of their school's tier 5 internal skill. This is a limited-time offer!
-context_43885=Qualifying disciples from the major schools can go to their headmasters to claim level 1-36 of their school's tier 5 internal skill. This is a limited-time offer!
-context_43886=Qualifying disciples from the major schools can go to their headmasters to claim level 1-36 of their school's tier 5 internal skill. This is a limited-time offer!
-context_43887=Qualifying disciples from the major schools can go to their headmasters to claim level 1-36 of their school's tier 5 internal skill. This is a limited-time offer!
-context_43888=Qualifying disciples from the major schools can go to their headmasters to claim level 1-36 of their school's tier 5 internal skill. This is a limited-time offer!
-context_43889=Qualifying disciples from the major schools can go to their headmasters to claim level 1-36 of their school's tier 5 internal skill. This is a limited-time offer!
 menu_43882_1=<font face="Default" color="#ffffff" >Claim gift</font>
 menu_43883_1=<font face="Default" color="#ffffff" >Claim gift</font>
 menu_43884_1=<font face="Default" color="#ffffff" >Claim gift</font>
@@ -1259,4 +1245,18 @@ menu_70322_1=<font face="Default" color="#ffffff" >I would ask for one more pill
 submit_70322=<font face="Default" color="#ffffff" >I'll do that. Thank you for the tip.</font>
 target_70322=Only Heroes with a Morality Value of 200 can use this item.
 title_70322=Convert label
+context_43882=Qualifying disciples from the major schools can go to their headmasters to claim level 1-36 of their school's tier 5 internal skill. This is a limited-time offer!
+context_43883=Qualifying disciples from the major schools can go to their headmasters to claim level 1-36 of their school's tier 5 internal skill. This is a limited-time offer!
+context_43884=Qualifying disciples from the major schools can go to their headmasters to claim level 1-36 of their school's tier 5 internal skill. This is a limited-time offer!
+context_43885=Qualifying disciples from the major schools can go to their headmasters to claim level 1-36 of their school's tier 5 internal skill. This is a limited-time offer!
+context_43886=Qualifying disciples from the major schools can go to their headmasters to claim level 1-36 of their school's tier 5 internal skill. This is a limited-time offer!
+context_43887=Qualifying disciples from the major schools can go to their headmasters to claim level 1-36 of their school's tier 5 internal skill. This is a limited-time offer!
+context_43888=Qualifying disciples from the major schools can go to their headmasters to claim level 1-36 of their school's tier 5 internal skill. This is a limited-time offer!
+context_43889=Qualifying disciples from the major schools can go to their headmasters to claim level 1-36 of their school's tier 5 internal skill. This is a limited-time offer!
+accept_43791_1=<font face="Default" color="#ffffff" >You may change your appearance to elude your enemies, woo a lover, or simply to satisfy your vanity. A most useful thing indeed!</font>
+accept_43792_1=<font face="Default" color="#ffffff" >You may change your appearance to elude your enemies, woo a lover, or simply to satisfy your vanity. A most useful thing indeed!</font>
+target_43863=Kill <font color="#ff0000">Boar King</font> and get <font color="#00cc00">Fresh Pork</font>
+target_43864=Kill the <font color="#ff0000">Small Nian</font>.
+context_43868=During the Spring Festival, fierce beasts suddenly appear near Chengdu. Please kill them.
+target_43868=Kill the Beast in Chengdu.
 

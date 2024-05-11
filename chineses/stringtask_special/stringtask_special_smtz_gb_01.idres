@@ -39,7 +39,6 @@ SubmitNpcEx_87218=Report to Leader <a href="findnpc_new,school02,WorldNpc03003" 
 SubmitNpcEx_87219=Report to Leader <a href="findnpc_new,school02,WorldNpc03003" style="HLStype1">Xiao Tianfang</a> as soon as possible.
 SubmitNpcEx_87220=The task of School Challenge has been finished. Report back to Leader <a href="findnpc_new,school02,WorldNpc03003" style="HLStype1">Xiao Tianfang</a>.
 hunterinfo_58701=Leave for Twilight Village and beat Han Sijin.
-hunterinfo_58702=Beat <a href="findnpc_new,school02,monm020400" style="HLStype1">Deinagki</a>.
 hunterinfo_58703=Beat <a href="findnpc_new,school02,GB_smtz_001" style="HLStype1">Sword Disciple</a>.
 hunterinfo_58704=Beat <a href="findnpc_new,school02,GB_smtz_002" style="HLStype1">Yan Zhiming</a>.
 hunterinfo_58705=Beat <a href="findnpc_new,school02,gb357" style="HLStype1">Lv Jun</a>.
@@ -92,7 +91,6 @@ SubmitNpcEx_87222=<s>This task is done. Go back and report it to the Sect Leader
 SubmitNpcEx_87223=<s>This task is done. Go back and report it to the Sect Leader<a href="findnpc_new,school02,WorldNpc03003" style="HLStype1">Xiao Tianfang</a>
 hunterinfo_58707=Stop <a href="findnpc_new,city02,smtzjy003" style="HLStype1">Han Wanshi</a>
 hunterinfo_58708=Stop <a href="findnpc_new,city02,funnpcclone003104" style="HLStype1">Lin Xiang</a>
-hunterinfo_58709=Repel the <a href="findnpc_new,city04,monrc047635" style="HLStype1">killer in black</a>who has lurked for a long time
 hunterinfo_58710=Go to Twilight Village and defeat Han Sijin
 interactinfo_58713=Give the meat buns to the <a href="findnpc_new,school07,FunnpcClone007601" style="HLStype1">Greedy Old Taoist</a>in exchange for his intelligence
 interactinfo_58714=It should not be delayed<a href="findnpc_new,city04,EventNpc87223" style="HLStype1">Go to Green Cloud Castle</a>. Be careful of an ambush on the way until you meet Beggar's Sect disciples.
@@ -110,7 +108,6 @@ story_58703_3=<font face="Default" color="#ffffff" > </font><font face="Default"
 story_58704_1=<font face="Default" color="#ffffff" ></font><font face="Default" color="#ffffff" ></font><font face="Default" color="#ffffff" >A few elders of Beggar's Sect have been indebted to the couple for the porridge they’ve provided. They died mysteriously and we can't ignore it.</font>
 story_58704_2=<font face="Default" color="#ffffff" > According to Mrs. Shi, it should have something to do with Green Cloud Castle. You had better talk with her and get the details.</font><font face="Default" color="#ffffff" >She is in the memorial hall of the study, just opposite.</font>
 story_58705_1=<font face="Default" color="#ffffff" >It's nice of you to remember </font><font face="Default" color="#ffffff" >such </font><font face="Default" color="#ffffff" >a debt of gratitude as porridge so clearly.</font>
-story_58705_2=<font face="Default" color="#ffffff" > Before my husband died </font><font face="Default" color="#ffffff" >he had planned to make a book out of a pile of personal letters</font><font face="Default" color="#ffffff" > which mention Green Cloud Castle and the butterfly murder. There are more letters upstairs, go see if they might be helpful.</font>
 story_58706_1=<font face="Default" color="#ffffff" > You're here at last. I</font><font face="Default" color="#ffffff" ></font><font face="Default" color="#ffffff" >have observed what has been going on here for a long time. I have increasingly felt that the disciples of Green Cloud Castle are very suspicious...</font>
 story_58706_2=<font face="Default" color="#ffffff" > What? Even the people who participated in the investigation</font><font face="Default" color="#ffffff" >should </font><font face="Default" color="#ffffff" >become their targets.</font><font face="Default" color="#ffffff" >The schemer behind it must be very sophisticated.</font><font face="Default" color="#ffffff" >...Green Cloud Castle is not far away from here. We should be very careful...</font>
 story_menu_58701=<font face="Default" color="#ffffff" >Elder </font><font face="Default" color="#ffffff" >Lu, the sect leader sent me to help you investigate the mysterious man.</font>
@@ -153,4 +150,7 @@ DialogID_58705=<font face="Default" color="#ffffff">Huanhua Sword Sect has been 
 specialinfo_115=Successfully challenged Beasts Mountain Villa once.
 specialinfo_116=Successfully challenged the Huanhua Sword Sect.
 specialinfo_337=Finish Challenging the Force of Mount Song Sword Sect.
+hunterinfo_58702=Beat <a href="findnpc_new,school02,monm020400" style="HLStype1">Deinagki</a>.
+hunterinfo_58709=Repel the <a href="findnpc_new,city04,monrc047635" style="HLStype1">killer in black</a>who has lurked for a long time
+story_58705_2=<font face="Default" color="#ffffff" > Before my husband died </font><font face="Default" color="#ffffff" >he had planned to make a book out of a pile of personal letters</font><font face="Default" color="#ffffff" > which mention Green Cloud Castle and the butterfly murder. There are more letters upstairs, go see if they might be helpful.</font>
 

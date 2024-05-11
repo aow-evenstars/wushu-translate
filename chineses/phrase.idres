@@ -141,7 +141,6 @@ origin_326=Soul Chasing Hall Leader
 origin_327=Spirit Chasing Leader
 origin_328=Wuying Castle Lord
 origin_330=Wuying Poison King
-origin_331=Stern-Faced Killer
 origin_332=Tang Family Craftsman
 origin_333=Ecstasy Assassin
 origin_334=Shadow Chaing Assassin
@@ -295,11 +294,7 @@ origin_805=Rise In Glory
 origin_806=Irresistible Talent
 origin_807=Well Known
 origin_808=Eminent In Glory
-origin_851=Murderer
-origin_852=Linked Killer
-origin_853=Killers' Manor
 origin_854=Bloodthirster
-origin_855=Bathed in Blood
 origin_856=Heaven Kill Star
 origin_861=Gentleman
 origin_862=Lady's Man
@@ -409,7 +404,6 @@ origin_1293=Five Poison Disciple
 origin_1294=Poisoning Expert
 origin_1295=Poisoning Artisan
 origin_1296=Grand Master Poison Maker
-origin_1297=Master Poison Maker
 origin_1298=Grand Master Poison Maker
 origin_1299=Legendary Poison Maker
 origin_1301=Cooking Novice
@@ -652,7 +646,6 @@ npctype208=Battle NPC with AI Function
 npctype209=Team Partner
 npctype211=Armed Escorter
 npctype217=black market merchant
-npctype222=School War Administrator
 npctype223=Sect Internal War Registration Officer
 npctype224=Secret Inquiries in Jianghu
 npctype225=Darkminded Trafficker
@@ -872,7 +865,6 @@ tool_rank_1_pltm=Tangmen Ranking
 tool_rank_1_pljz=Scholars Ranking
 tool_rank_1_plgb=Beggar's Sect Ranking
 tool_rank_1_bukuai=Top Kidnappers
-tool_rank_1_tongjifan=Jianghu Criminal
 tool_rank_2_jl=Swordsman
 tool_rank_2_el=Criminal
 tool_rank_2_fj=Lunatic
@@ -928,7 +920,6 @@ tool_rank_3_ds_003=Five Poison Disciple
 tool_rank_3_ds_004=Poisoning Expert
 tool_rank_3_ds_005=Poisoning Artisan
 tool_rank_3_ds_006=Grand Master Poison Maker
-tool_rank_3_ds_007=Master Poison Maker
 tool_rank_3_ds_008=Grand Master Poison Maker
 tool_rank_3_ds_009=Legendary Poison Maker
 tool_rank_3_ds_010=Diabolical Poisoner
@@ -1227,7 +1218,6 @@ origin_3635=Force Sword Master
 origin_3636=Moon Sword Master
 origin_3637=Thousand-Sword Master
 origin_2500=Leisure Fisherman
-origin_2501=Wandering Assassin
 origin_2502=Stooge
 origin_2503=Roam in Hero Island
 origin_2504=Jianghu Constable
@@ -1379,8 +1369,6 @@ origin_2654=Gold Spy
 origin_2660=Eastern Seas Newcomer
 origin_2661=The Four Scourges
 origin_2662=Predestined Luck
-desc_events_861=Explore the exotic islands of the Eastern Seas! From Yanyu Villa, set sail for Penglai Village, the Hero Islands, and points beyond. Before you reach your destination, however, you must brave the shark-infested waters! You have killed {@0:当前}/{@1:总数} Sharks.
-desc_events_862=You are injured by the Four Scourges as you attempt to rescue someone from their clutches. When you consume the Blood Ganoderma to heal your wounds, you gain the "Threefold Return" buff to increase your attack power, defeating   {@0:当前}/{@1:总数} Scourges.
 desc_events_863=The herb has a deleterious side effect, damaging your meridians. Collect herbs to create {@0:当前}/{@1:总数} pills that will correctly treat your injury.
 box_event_51=Reforge the broken sword
 box_event_52=Gather Demon Lotuses
@@ -1401,8 +1389,6 @@ box_event_66=Old Sage's test
 box_event_67=Collect drawing
 box_event_68=Special hobby
 box_event_69=Cause trouble
-box_event_70=Kill treasure raiders
-box_event_71=Kill the treasure thieves
 box_event_72=Kill the spy
 box_event_73=Reclaim secret token
 box_event_74=Intermediate trial
@@ -1485,14 +1471,12 @@ box_event_163=Return the secret token
 box_event_164=Sparring in Clarion Cliff
 box_event_165=Stealth mission
 box_event_166=Sneak attack
-box_event_167=Assassination
 box_event_168=Social harmony
 box_event_169=Praise Virtue And Punish Vice
 box_event_170=Catch the spy in Penglai
 box_event_171=Kill the spy in Penglai
 box_event_172=Kill the spy in Penglai
 box_event_173=Kill the spy in Penglai
-box_event_174=Thirst for blood
 box_event_175=Make trouble
 box_event_176=Make trouble
 box_event_177=Make trouble
@@ -1541,8 +1525,6 @@ desc_events_66=Old Sage's test: Answer the question from <a href="findnpc_new,sc
 desc_events_67=Collect drawing: Answer all questions from <a href="findnpc_new,scene16,newworld_pld216" style="HLStype1">Old Sage</a> correctly to receive a drawing from him. You have done this {@0:当前}/{@1:总数} times. <br>
 desc_events_68=Special hobby: <a href="findnpc_new,scene16,newworld_pld216" style="HLStype1">Old Sage</a> on Penglai Island collects white tiger pelts. Get them from <a href="findnpc_new,scene16,pld_attnpc001" style="HLStype1">white tigers</a>. You have done this {@0:当前}/{@1:总数} times. <br>
 desc_events_69=Cause trouble: Destroy various objects on Penglai Island. You have done this {@0:当前}/{@1:总数} times. <br>
-desc_events_70=Kill treasure raiders: Kill the treasure raiders from the four factions on Penglai Island. You have done this {@0:当前}/{@1:总数} times. <br>
-desc_events_71=Kill pirates: Kill the pirates stealing treasure at the beach of Penglai Island. You have done this {@0:当前}/{@1:总数} times. <br>
 desc_events_72=Kill the spy: Speak with Demon Sword Clan's <a href="findnpc_new,scene16,newworld_pld207" style="HLStype1"> Chen Yin</a> and kill the spy. You have done this {@0:当前}/{@1:总数} times. <br>
 desc_events_73=Reclaim secret token: Speak with<a href="findnpc_new,scene16,newworld_pld207" style="HLStype1"> Chen Yin</a> in Demon Sword Clan, and then kill the spy to reclaim the secret token. You have done this {@0:当前}/{@1:总数} times. <br>
 desc_events_74=Intermediate trial: Speak with<a href="findnpc_new,scene16,newworld_pld208" style="HLStype1"> Cold Pride Leng</a> in Demon Sword Clan, and then complete intermediate trial in the proving grounds. You have done this {@0:当前}/{@1:总数} times. <br>
@@ -1575,7 +1557,6 @@ desc_events_224=Visit Sacred Moon Palace on Penglai Island. You have done this {
 desc_events_101=Search for the rabbit: The rabbit of Sacred Moon Palace Elder <a href="findnpc_new,scene16,newworld_pld051" style="HLStype1">Purple Aura</a> has gone missing. Ask <a href="findnpc_new,scene16,newworld_pld052" style="HLStype1">Tian Yin</a> and search for the rabbit near<a href="findnpc_new,scene16,boxnpc_pld_tuzi" style="HLStype1"> the cliff.</a>You have done this {@0:数量}/{@1:数量} times. <br>
 desc_events_102=Search for the rabbit food: Sacred Moon Palace Elder <a href="findnpc_new,scene16,newworld_pld059" style="HLStype1">Red-Sleeve Hong Xiu</a> needs lettuce to feed the rabbit. Collect some in<a href="findnpc_new,scene16,Gather_pld_008" style="HLStype1">the hills</a> nearby. You have done this {@0:数量}/{@1:数量} times. <br>
 desc_events_103=Arriving at the Sacred Moon Palace: Find <a href="findnpc_new,scene16,newworld_pld105" style="HLStype1">Smoky Breeze</a> in Sacred Moon Palace, and complete Mysterious Mirror novice trial. You have done this {@0:数量}/{@1:数量} times. <br>
-desc_events_104=Make brush pen: Attain the pen-making tool from art supplies dealer <a href="findnpc_new,scene16,newworld_pld063" style="HLStype1">Chen Can</a>, collect wolf fur from gray wolves in <a href="findnpc_new,scene16,pld_npc028" style="HLStype1">the forest nearby</a>, and get a piece of bamboo in <a href="findnpc_new,scene16,Gather_pld_009" style="HLStype1">the bamboo forest</a> to make a brush pen. You have done this {@0:数量}/{@1:数量} times. <br>
 desc_events_105=Be recognized: Answer all questions of artist <a href="findnpc_new,scene16,newworld_pld080" style="HLStype1">Fang Qing</a> correctly to receive a token of recognition. Then give it to <a href="findnpc_new,scene16,newworld_pld061" style="HLStype1">Gu Qing. </a>You have done this {@0:数量}/{@1:数量} times. <br>
 desc_events_106=Harbor scenery: Draw a landscape of the harbor under the guidance of artist <a href="findnpc_new,scene16,newworld_pld084" style="HLStype1">Gu Dong</a>. You have done this {@0:数量}/{@1:数量} times. <br>
 desc_events_107=Search for the hermit: Speak with the Weiqi player <a href="findnpc_new,scene16,newworld_pld102" style="HLStype1">Yun Yi the Winged Cloud</a> in Clarion Cliff. You have done this {@0:数量}/{@1:数量} times. <br>
@@ -1617,7 +1598,6 @@ desc_events_154=Promote virtue and punish vice: Help <a href="findnpc_new,scene1
 desc_events_155=Collect broken swords: Collect <a href="findnpc_new,scene16,newworld_pld066" style="HLStype1">broken swords</a> and give them to <a href="findnpc_new,scene16,newworld_pld060" style="HLStype1">Gu Wen (mysterious swordsman)</a> on Penglai Island. You have done this {@0:数量}/{@1:数量} times. <br>
 desc_events_156=Reforge the broken sword: Give five broken swords to <a href="findnpc_new,scene16,newworld_pld060" style="HLStype1">Gu Wen (mysterious swordsman)</a> for reforging. You have done this {@0:数量}/{@1:数量} times. <br>
 desc_events_158=Collect broken swords: Collect broken swords and give them to <a href="findnpc_new,scene16,newworld_pld083" style="HLStype1">Gu Tao (mysterious hunter)</a>. Learn from <a href="findnpc_new,scene16,newworld_pld060" style="HLStype1">Gu Wen (mysterious swordsman)</a> about how to acquire broken swords. You have done this {@0:数量}/{@1:数量} times. <br>
-desc_events_159=Hunt the bear in the mountain: Kill the black bear and give its pelt to <a href="findnpc_new,scene16,newworld_pld083" style="HLStype1">Gu Tao (mysterious hunter)</a>. You have done this {@0:数量}/{@1:数量} times. <br>
 desc_events_160=Rid evil in Penglai: Kill the <a href="findnpc_new,scene16,pld_npc032" style="HLStype1">pirates</a> on Penglai Island. You have done this {@0:数量}/{@1:数量} times. <br>
 desc_events_161=Public safety: Help <a href="findnpc_new,scene16,newworld_pld067" style="HLStype1">the witch</a> defeat the devil in Penglai Village.  {@0:数量}/{@1:数量} times
 desc_events_162=Eliminate infiltrators: Speak with Clarion Cliff Elder <a href="findnpc_new,scene16,newworld_pld233" style="HLStype1">Mo Zichen</a> of the Five Sisters of Qiong Hua, and kill the spies. You have done this {@0:数量}/{@1:数量} times. <br>
@@ -1625,14 +1605,12 @@ desc_events_163=Return the Secret Token: Speak with <a href="findnpc_new,scene16
 desc_events_164=Sparring in Clarion Cliff: Speak with <a href="findnpc_new,scene16,newworldpl_guj_010" style="HLStype1">Yin Xiao (Disciple of Understanding)</a> to participate. You have done this {@0:数量}/{@1:数量} times. <br>
 desc_events_165=Stealth mission: Receive information from <a href="findnpc_new,scene16,newworld_pld068" style="HLStype1">Gu Xin (mysterious assassin)</a>,and obtain tokens from <a href="findnpc_new,scene16,newworld_pld074" style="HLStype1">Taniminoru (reclusive swordsman)</a>, <a href="findnpc_new,scene16,newworld_pld075" style="HLStype1">Xian Jing (the Levant Five)</a>, <a href="findnpc_new,scene16,newworld_pld076" style="HLStype1">Yue Diao the Moon Mink (Silver Hook courtier)</a>, and <a href="findnpc_new,scene16,newworld_pld077" style="HLStype1">Yan Duo (Justice of Fate)</a>. Then find Gu Xin to combine the tokens you collected into a secret area token. You have done this {@0:数量}/{@1:数量} times. <br>
 desc_events_166=Sneak attack: With the secret area token, speak with <a href="findnpc_new,scene16,newworld_pld068" style="HLStype1">Gu Xin (mysterious assassin))</a> to enter the event scene. Learn from Gui Jin (mysterious assassin) at (172, 507) the means to stun the elder. You have done this {@0:数量}/{@1:数量} times. <br>
-desc_events_167=Assassination: With the secret area token, speak with <a href="findnpc_new,scene16,newworld_pld068" style="HLStype1">Gu Xin (mysterious assassin))</a> to enter the event scene. Kill the Disciple of Understanding there (254, 473). You have done this {@0:数量}/{@1:数量} times. <br>
 desc_events_168=Social harmony: Help <a href="findnpc_new,scene16,newworld_pld067" style="HLStype1">Sha Wu</a> defeat the devil in Penglai Village.  {@0:数量}/{@1:数量} times
 desc_events_169=Promote virtue and punish vice: Help <a href="findnpc_new,scene16,newworld_pld062" style="HLStype1">villager Gu Ling</a> defeat the pirate leader. You have done this {@0:数量}/{@1:数量} times. <br>
 desc_events_170=Catch the spy in Penglai: Get information from <a href="findnpc_new,scene16,newworld_pld085" style="HLStype1">Cang Zhen</a> of the Levant Five, and then catch the spy in<a href="findnpc_new,scene16,pld_npc035" style="HLStype1"> Demon Sword Clan</a>. You have done this {@0:数量}/{@1:数量} times. <br>
 desc_events_171=Catch the spy in Penglai: Get information from <a href="findnpc_new,scene16,newworld_pld085" style="HLStype1">Cang Zhen</a> of the Levant Five, and then catch the spy in<a href="findnpc_new,scene16,pld_npc036" style="HLStype1"> Clarion Cliff</a>. You have done this {@0:数量}/{@1:数量} times. <br>
 desc_events_172=Catch the spy in Penglai: Get information from <a href="findnpc_new,scene16,newworld_pld085" style="HLStype1">Cang Zhen</a> of the Levant Five, and then catch the spy in<a href="findnpc_new,scene16,pld_npc037" style="HLStype1"> Sacred Moon Palace</a>. You have done this {@0:数量}/{@1:数量} times. <br>
 desc_events_173=Catch the spy in Penglai: Get information from <a href="findnpc_new,scene16,newworld_pld085" style="HLStype1">Cang Zhen</a> of the Levant Five, and then catch the spy in<a href="findnpc_new,scene16,pld_npc038" style="HLStype1"> Justices of Fate</a>. You have done this {@0:数量}/{@1:数量} times. <br>
-desc_events_174=Thirst for blood: Accept the mysterious assassin <a href="findnpc_new,scene16,newworld_pld086" style="HLStype1">Gu Yiu's </a> request and kill <a href="findnpc_new,scene16,pld_npc039" style="HLStype1">Gu Xiang (villager). </a>You have done this {@0:数量}/{@1:数量} times. <br>
 desc_events_175=Make trouble in Penglai Village. You have done this {@0:数量}/{@1:数量} times. <br>
 desc_events_176=Make trouble: Make trouble in Penglai Village. {@0:数量}/{@1:数量} times
 desc_events_177=Make trouble: Make trouble in Penglai Village. {@0:数量}/{@1:数量} times
@@ -1676,7 +1654,6 @@ desc_events_3=Arriving at Justices of Fate: Spar with <a href="findnpc_new,scene
 desc_events_4=Interrogate junior disciples: Speak with junior disciples at Justices of Fate and see if there is anything suspicious about them. Then report to <a href="findnpc_new,scene16,newworldpl_zyb_014" style="HLStype1">Shen Zhiguo</a>.
 desc_events_5=Justices of Fate Waist Pendant: <a href="findnpc_new,scene16,newworldpl_zyb_010" style="HLStype1">Nan Yan</a> needs a Justices of Fate Waist Pendant. You can trade ten skill scroll fragments for it from <a href="findnpc_new,scene16,newworldpl_zyb_011" style="HLStype1">Snow Steps</a>. Kill <a href="findnpc_new,scene16,newworldpl_zyb_012" style="HLStype1">Jianghu Scums</a> to get skill scroll fragments.
 desc_events_6=Defeat intermediate disciple: Spar with <a href="findnpc_new,scene16,newworldpl_zyb_013" style="HLStype1">Fu Tang</a>.
-desc_events_7=Senior Justices of Fate: Speak with <a href="findnpc_new,scene16,newworldpl_zyb_015" style="HLStype1">Violent Serpent</a> and leader for Justices of Fate. Kill the final leader to get Fate Token. Give the token to <a href="findnpc_new,scene16,newworldpl_zyb_015" style="HLStype1">Violent Serpent</a>.
 desc_events_8=Spar with senior disciple: Spar with <a href="findnpc_new,scene16,newworldpl_zyb_016" style="HLStype1">Huai Xu</a>.
 desc_events_9=Spar with Demon Sword Clan disciple: Spar with <a href="findnpc_new,scene16,newworldpl_zyb_017" style="HLStype1">Tian Qicheng</a>.
 desc_events_10=Spar with Sacred Moon Palace disciple: Spar with <a href="findnpc_new,scene16,newworldpl_zyb_018" style="HLStype1">Zhan Hong</a>.
@@ -1687,29 +1664,21 @@ desc_events_16=
 desc_events_17=
 desc_events_18=
 desc_events_19=Help the old man: Help <a href="findnpc_new,scene16,newworldpl_zyb_020" style="HLStype1">the old man</a> take back his stolen package.
-desc_events_20=Kill the hoodlum: The hoodlum is harassing a girl in Penglai Village. Kill him.
-desc_events_21=Act of charity: Kill the <a href="findnpc_new,scene16,pld_zyb_009" style="HLStype1">bandit</a> on Penglai Island and give the obtained packages to the four beggars in Penglai Village.
 desc_events_22=Seek the Buddhist: Look for a Buddhist in Penglai Village and speak with him. Then find <a href="findnpc_new,scene16,newworldpl_zyb_034" style="HLStype1">Xuan Hai</a>.
 desc_events_23=Search for rosary beads: <a href="findnpc_new,scene16,newworldpl_zyb_035" style="HLStype1">Xuan Zhen's</a> rosary beads were stolen. <a href="findnpc_new,scene16,pld_zyb_010" style="HLStype1">mountain thieves</a> might have them.
 desc_events_24=Beg for alms: Beg for alms in Penglai Village, and give the obtained steamed bun to <a href="findnpc_new,scene16,newworldpl_zyb_036" style="HLStype1">Xuan Qing</a>.
 desc_events_25=Arriving at Penglai: Welcome to Penglai Island.
 desc_events_26=A good deed: Help <a href="findnpc_new,scene16,newworldpl_zyb_042" style="HLStype1">Grandma Wei</a> feed the <a href="findnpc_new,scene16,newworldpl_zyb_041" style="HLStype1">sheep</a>.
 desc_events_27=Hunt pheasants: Hunt 3 <a href="findnpc_new,scene16,boxnpc_zyb_pld001" style="HLStype1">pheasants</a>3 near Penglai Village and give them to <a href="findnpc_new,scene16,newworldpl_zyb_043" style="HLStype1">Elder Uncle Zheng</a>.
-desc_events_28=Kill sharks: Those sharks are vicious! Do what you have to do.
-desc_events_29=Kill the tiger king: Find <a href="findnpc_new,scene16,pld_zyb_012" style="HLStype1">tigers</a> near Penglai Village. There is a chance to spawn tiger king by killing the tigers. Kill the tiger king to get Tiger King Pelt. Then give it to <a href="findnpc_new,scene16,newworldpl_zyb_044" style="HLStype1">Master Ye</a>.
 desc_events_31=Flirt with girls: Flirt with <a href="findnpc_new,scene16,newworldpl_zyb_046" style="HLStype1">Li Yu</a>, <a href="findnpc_new,scene16,newworldpl_zyb_047" style="HLStype1">Shao Shu</a>, and <a href="findnpc_new,scene16,newworldpl_zyb_048" style="HLStype1">Shi Hengjiao</a> in Penglai Village.
 desc_events_33=Break chairs: Break chairs and wine jars in Penglai Village.
 desc_events_32=Challenge experts: Challenge <a href="findnpc_new,scene16,newworldpl_zyb_049" style="HLStype1">Sima Youshao, </a><a href="findnpc_new,scene16,newworldpl_zyb_050" style="HLStype1">Zhuansun Kang,</a> and <a href="findnpc_new,scene16,newworldpl_zyb_051" style="HLStype1">Si Ce</a>. (Please complete this task twice.)
 desc_events_34=Martial arts copied scripts: Get 20 martial arts copied scripts from <a href="findnpc_new,scene16,newworldpl_zyb_002" style="HLStype1">Wulin fighters</a> and give them to <a href="findnpc_new,scene16,newworldpl_zyb_052" style="HLStype1">Zi Chebo</a>. Please complete this task twice.
 desc_events_35=Martial arts script: Collect a <a href="findnpc_new,scene16,pldcj_zyb_001" style="HLStype1">martial arts script</a> and give it to <a href="findnpc_new,scene16,newworldpl_zyb_053" style="HLStype1">Ji Weishan</a>.
 desc_events_36=Defeat the robbers: Help <a href="findnpc_new,scene16,newworldpl_zyb_020" style="HLStype1">the old man</a> defeat the robbers in Penglai Village.
-desc_events_37=Punish the wicked: Kill <a href="findnpc_new,scene16,pld_zyb_009" style="HLStype1">bandits</a> and <a href="findnpc_new,scene16,pld_zyb_010" style="HLStype1">mountain thieves</a> near Penglai Village.
 desc_events_38=Literary expert: Defeat <a href="findnpc_new,scene16,newworldpl_zyb_054" style="HLStype1">Ji Sen, </a><a href="findnpc_new,scene16,newworldpl_zyb_055" style="HLStype1">Gong Jin, </a>and <a href="findnpc_new,scene16,newworldpl_zyb_056" style="HLStype1">Zhuge Gang</a>, and then find <a href="findnpc_new,scene16,newworldpl_zyb_057" style="HLStype1">Yuan Feizhen</a>.
 desc_events_39=Martial arts expert: Spar with <a href="findnpc_new,scene16,newworldpl_zyb_058" style="HLStype1">Mu Baozhong, </a><a href="findnpc_new,scene16,newworldpl_zyb_059" style="HLStype1">Si Kousheng, </a><a href="findnpc_new,scene16,newworldpl_zyb_060" style="HLStype1">Zhang Zhenbo</a>, and <a href="findnpc_new,scene16,newworldpl_zyb_061" style="HLStype1">He Lianjian</a>.
-desc_events_40=Novice Hall of Fate: Speak with <a href="findnpc_new,scene16,newworldpl_zyb_062" style="HLStype1">Chen Xi</a> to start challenge. Kill the final puppet (leader) to complete.
-desc_events_41=Intermediate Hall of Fate: Speak with <a href="findnpc_new,scene16,newworldpl_zyb_063" style="HLStype1">Shu Yuan</a> to start challenge. Kill the final puppet (boss) to complete task.
 desc_events_42=Hall of Fate Trial: Complete the Justices of Fate task for Waist Pendant 5 times. <br>
-desc_events_43=Promote virtue and punish vice: Kill 20 <a href="findnpc_new,scene16,pld_zyb_022" style="HLStype1">bandits</a>.
 desc_events_44=Senior Justices of Fate: complete the task Senior Justices of Fate 3 times. <br>
 box_event_13=Fate Token
 box_event_14=Trial of Fate
@@ -1861,8 +1830,6 @@ tool_rank_1_lt=Wulin Tournament
 tool_rank_4_kq=Peacock Villa
 tool_rank_8_huashanlunjian=Mount Hua Competition
 origin_3201=Blood Blade Disciples
-desc_events_13=[Life And Death Token] Find <a href="findnpc_new,scene16,newworld_shengsipan_001" style="HLStype1">Mo Yu</a> to participate Trial of Fate. Kill the puppets for a chance to get Life And Death Token. Submit 10 tokens to <a href="findnpc_new,scene16,newworld_shengsipan_002" style="HLStype1">Mo Shu</a> each time. You have to submit 7 times.
-desc_events_14=[Trial of Fate] Find <a href="findnpc_new,scene16,newworld_shengsipan_001" style="HLStype1">Mo Yu</a> to participate Trial of Fate. Kill the Puppet (Leader) 7 times.
 desc_events_250=Test your drinking prowess: You have done this {@0:完成}/{@1:总数} times. <br>This task is available at Hero Island and Hidden Dragon Island.
 desc_events_251=Eat cooked meat: You have done this {@0:完成}/{@1:总数} times. <br>Hunt the local fauna of the Hero Islands. Then gather some wood and cook the meat over a fire.
 desc_events_252=Get water: You have done this {@0:完成}/{@1:总数} times. <br>Find the <a href="findnpc_new,scene17,newworld_xkdnpc_001" style="HLStype1">Old Potter</a> and learn how to find drinking water.
@@ -1891,5 +1858,76 @@ school_mingjiao=Ming Cult
 npctype110_1=Ming Cult
 npctype216=Exchanging Note Boss
 npctype348=Tier 5 internal Redeem Administrator
-desc_events_30=Kill the bear king: Find <a href="findnpc_new,scene16,pld_zyb_014" style="HLStype1">the tigers</a> near Penglai Village. There is a chance to spawn bear king by killing the bears. Kill the bear king to get its pelt.  Then give it to <a href="findnpc_new,scene16,newworldpl_zyb_045" style="HLStype1">Master Huo</a>.
+school_tianshan=Tianshan Sect
+origin_10038=Chuanning Disciple
+origin_10039=Yaojie Disciple
+origin_10003=Pity Cold Disciple
+origin_10004=Cold Moon Disciple
+origin_10005=Chilly Night Disciple
+origin_10006=Frost Rush Sage
+origin_10007=Soul Surge Sage
+origin_10008=Bright Stone Sage
+origin_10009=Ice Mirror Swordsman
+origin_10010=Spirit Mirror Swordsman
+origin_10011=Wind Cliff Swordsman
+origin_10012=Plain Pure Jade Envoy
+origin_10013=Ice Epiphyllum Jade Envoy
+origin_10014=Fragrant Snow Jade Envoy
+origin_10015=Snow Land Hero
+origin_10016=Chuanning Disciple
+origin_10017=Yaojie Disciple
+origin_10018=Pity Cold Disciple
+origin_10019=Cold Moon Disciple
+origin_10020=Chilly Night Disciple
+origin_10021=Frost Rush Sage
+origin_10022=Soul Surge Sage
+origin_10023=Bright Stone Sage
+origin_10024=Ice Mirror Swordsman
+origin_10025=Spirit Mirror Swordsman
+origin_10026=Wind Cliff Swordsman
+origin_10027=Plain Pure Jade Envoy
+origin_10028=Ice Epiphyllum Jade Envoy
+origin_10029=Fragrant Snow Jade Envoy
+origin_10030=Immortal Glacier
+origin_10031=Skycourt Deacon
+origin_10032=Chill Crane Deacon
+origin_10033=Icy Ruin Deacon
+origin_10034=Imperial Sword Elder
+origin_10035=Dark Sword Elder
+origin_10036=Spirit Sword Elder
+origin_10037=Tianshan Sword Lord
+npctype222=School War Administrator
+origin_331=Stern-Faced Killer
+origin_851=Killer
+origin_852=Linked Killer
+origin_853=Infamous Killer
+origin_855=Bathed in Blood
+origin_1297=Master Poison Maker
+tool_rank_1_tongjifan=Jianghu Outlaw
+tool_rank_3_ds_007=Master Poison Maker
+origin_2501=Jianghu Killer
+desc_events_861=Explore the exotic islands of the Eastern Seas! From Yanyu Villa, set sail for Penglai Village, the Hero Islands, and points beyond. Before you reach your destination, however, you must brave the shark-infested waters! You have killed {@0:当前}/{@1:总数} Sharks.
+desc_events_862=You are injured by the Four Scourges as you attempt to rescue someone from their clutches. When you consume the Blood Ganoderma to heal your wounds, you gain the "Threefold Return" buff to increase your attack power, defeating {@0:当前}/{@1:总数} Scourges.
+box_event_70=Kill treasure raiders
+box_event_71=Kill the treasure thieves
+box_event_167=Assassination
+box_event_174=Thirst for blood
+desc_events_70=Kill treasure raiders: Kill the treasure raiders from the four factions on Penglai Island. You have done this {@0:当前}/{@1:总数} times.
+desc_events_71=Kill pirates: Kill the pirates stealing treasure at the beach of Penglai Island. You have done this {@0:当前}/{@1:总数} times.
+desc_events_104=Make brush pen: Attain the pen-making tool from art supplies dealer <a href="findnpc_new,scene16,newworld_pld063" style="HLStype1">Chen Can</a>, collect wolf fur from gray wolves in <a href="findnpc_new,scene16,pld_npc028" style="HLStype1">the forest nearby</a>, and get a piece of bamboo in <a href="findnpc_new,scene16,Gather_pld_009" style="HLStype1">the bamboo forest</a> to make a brush pen. You have done this {@0:数量}/{@1:数量} times.
+desc_events_159=Hunt the bear in the mountain: Kill the black bear and give its pelt to <a href="findnpc_new,scene16,newworld_pld083" style="HLStype1">Gu Tao (mysterious hunter)</a>. You have done this {@0:数量}/{@1:数量} times.
+desc_events_167=Assassination: With the secret area token, speak with <a href="findnpc_new,scene16,newworld_pld068" style="HLStype1">Gu Xin (mysterious assassin)</a> to enter the event scene. Kill the Disciple of Understanding there (254, 473). You have done this {@0:数量}/{@1:数量} times.
+desc_events_174=Thirst for blood: Accept the mysterious killer <a href="findnpc_new,scene16,newworld_pld086" style="HLStype1">Gu Yu's </a> request and kill <a href="findnpc_new,scene16,pld_npc039" style="HLStype1">Gu Xiang (villager). </a>You have done this {@0:数量}/{@1:数量} times.
+desc_events_7=Senior Justices of Fate: Speak with <a href="findnpc_new,scene16,newworldpl_zyb_015" style="HLStype1">Violent Serpent</a> and leader for Justices of Fate. Kill the final leader to get Fate Token. Give the token to <a href="findnpc_new,scene16,newworldpl_zyb_015" style="HLStype1">Violent Serpent</a>.
+desc_events_20=Kill the hoodlum: The hoodlum is harassing a girl in Penglai Village. Kill him.
+desc_events_21=Act of charity: Kill the <a href="findnpc_new,scene16,pld_zyb_009" style="HLStype1">bandit</a> on Penglai Island and give the obtained packages to the four beggars in Penglai Village.
+desc_events_28=Kill sharks: Those sharks are vicious! Do what you have to do.
+desc_events_29=Kill the tiger king: Find <a href="findnpc_new,scene16,pld_zyb_012" style="HLStype1">tigers</a> near Penglai Village. There is a chance to spawn tiger king by killing the tigers. Kill the tiger king to get Tiger King Pelt. Then give it to <a href="findnpc_new,scene16,newworldpl_zyb_044" style="HLStype1">Master Ye</a>.
+desc_events_30=Kill the bear king: Find <a href="findnpc_new,scene16,pld_zyb_014" style="HLStype1">the tigers</a> near Penglai Village. There is a chance to spawn bear king by killing the bears. Kill the bear king to get its pelt. Then give it to <a href="findnpc_new,scene16,newworldpl_zyb_045" style="HLStype1">Master Huo</a>.
+desc_events_37=Punish the wicked: Kill <a href="findnpc_new,scene16,pld_zyb_009" style="HLStype1">bandits</a> and <a href="findnpc_new,scene16,pld_zyb_010" style="HLStype1">mountain thieves</a> near Penglai Village.
+desc_events_40=Novice Hall of Fate: Speak with <a href="findnpc_new,scene16,newworldpl_zyb_062" style="HLStype1">Chen Xi</a> to start challenge. Kill the final puppet (leader) to complete.
+desc_events_41=Intermediate Hall of Fate: Speak with <a href="findnpc_new,scene16,newworldpl_zyb_063" style="HLStype1">Shu Yuan</a> to start challenge. Kill the final puppet (boss) to complete task.
+desc_events_43=Promote virtue and punish vice: Kill 20 <a href="findnpc_new,scene16,pld_zyb_022" style="HLStype1">bandits</a>.
+desc_events_13=[Life And Death Token] Find <a href="findnpc_new,scene16,newworld_shengsipan_001" style="HLStype1">Mo Yu</a> to participate Trial of Fate. Kill the puppets for a chance to get Life And Death Token. Submit 10 tokens to <a href="findnpc_new,scene16,newworld_shengsipan_002" style="HLStype1">Mo Shu</a> each time. You have to submit 7 times.
+desc_events_14=[Trial of Fate] Find <a href="findnpc_new,scene16,newworld_shengsipan_001" style="HLStype1">Mo Yu</a> to participate Trial of Fate. Kill the Puppet (Leader) 7 times.
 

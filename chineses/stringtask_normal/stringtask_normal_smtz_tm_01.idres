@@ -22,7 +22,6 @@ CompleteMenu_86519=Great Contribution (Complete)
 CompleteMenu_86520=<font face="Default" color="#ffffff" >Fulfill the task.</font>
 accept_86503_1=<font face="Default" color="#ffffff">Can you pick a heartbroken flower and a Plight Flower for me</font> and <font face="Default" color="#ffffff">exchange some medicine</font> from <a href="findnpc_new,born04,WorldNpc00634" style="HLStype1">Zhou Cang</a>?
 complete_86500=Don't hurt your friends and brothers. You'll regret it.
-complete_86501=<font face="Default" color="#ffffff">You have righteously avenged both Leng Feng's mother and your dead school mate. That is a real gesture of friendship.</font>
 complete_86502=<font face="Default" color="#ffffff">Tangmen is cruel, but we don't hurt little girls. Good job.</font>
 complete_86503=<font face="Default" color="#ffffff">Oh. So that old man is not Jin Shize's real father. He always thinks of his stepfather, which is very precious.</font>
 complete_86504=<font face="Default" color="#ffffff">Your school mates don't care about Jin Shize, but you are a kind soul.</font>
@@ -42,8 +41,6 @@ complete_86517=Anyone who dares to look down upon Tangmen will be defeated.
 complete_86518=The Salt Gang dares to raise the price. I'll make them regret it - I'm a professional.
 complete_86519=<font face="Default" color="#ffffff">What? You come back with nothing. Sigong and grandma will be disppointed. However, it is a hard task</font><font face="Default" color="#ffffff">.</font> <font face="Default" color="#ffffff">You can leave </font><font face="Default" color="#ffffff">now</font><font face="Default" color="#ffffff">.</font>
 complete_86520=<font face="Default" color="#ffffff">What? You come back with nothing. Sigong and grandma will be disppointed. However, it is a hard task. You can leave now.</font>
-context_86500=<s>In those years, Jin Shize was so intolerant he secretly killed his Martial Brother Leng Feng when he was angry and buried the corpse in the wild. Some years later, he was so plagued with remorse that he wanted to build a tomb for Leng Feng. But he had no courage to go the place where he killed him. After he died, he hoped that someone could help him to settle this last wish.
-context_86501=<s>In those years, Jin Shize had ever gone to Leng Feng's hometown and inquired about the recent developments of his family. However, in order to stop his sister to be robbed by bandits, his mother was beaten to dead. Jin Shize was so weak and he was not the opponent of those bandits. Now he was dead, you can go to punish the evils, praise the deeds and revenge for Leng Feng's mother.
 context_86502=<s>In those years, Jin Shize had ever gone to Leng Feng's hometown and inquired about the recent developments of his family. However, his sister was taken by Heaven Treasure Stronghold bandits. Jin Shize was so weak and he was not the opponent of those bandits. Now he was dead, you can go to find those bandits and rescue Leng Feng's sister.
 context_86503=<s>Jin Shize's father injured his legs on the mountain. See how he's doing.
 context_86504=<s>Jin Shize was guilty but he wanted his ashes to be buried beside his mother. Then maybe he'll meet her in the afterlife.
@@ -52,7 +49,6 @@ context_86506=<s>Tang Sigong is developing a unique poison and needs to test it 
 context_86507=<s>Tangmen has fallen on hard times so you must help out. Kidnap a passerby and sell them to the human traffickers in Chengdu, but don't let anyone find out about it.
 context_86508=<s>People always say the disciples of Tangmen are evil. We must change their minds. Save someone who was kidnapped.
 context_86509=<s>The disciples of Tangmen need experience and the escort agency needs people. Help them deliver goods.
-context_86510=<s>People are after the murderer Zhao Ziji for revenge, but he helped out the Tangmen in the past and this is a good chance to return the favor. Go to Twilight Village and defend him.
 context_86511=<s>Tangmen is ruthless and we have many enemies. It's your duty to patrol for spies and catch some.
 context_86512=<s>All the other sects envy Tangmen. We must take the initiative and gain the upper hand. Spy on the Royal Guards.
 context_86513=<s>Patrol the manor. Kill the wanted man if you see him.
@@ -85,7 +81,6 @@ submit_86518=Do you mean our Tangmen, Sect Leader?
 submit_86519=Thanks for forgiving me! I'll obey your command!
 submit_86520=<font face="Default" color="#ffffff"> I'll obey your command!</font>
 target_86500=<s>Look for the corpse buried by Leng Feng in the wild field outside Tangmen. Build a grave and stele for him in order to finish Jin Shize's wish.
-target_86501=<s>Challenge Heaven Treasure Stronghold. Revenge Leng Feng's mother.
 target_86503=<s>Try to cure the leg injury of Jin Shize's father.
 target_86504=<s>Bury Jin Shize's Bone Ash near his mother's grave.
 target_86505=<s>Challenge Golden Needle Sect in Chengdu. Inquire out the location of Bloody Spider Net.
@@ -93,12 +88,10 @@ target_86506=<s>Kidnap a passerby and see Sect Leader Tang Tianxing
 target_86507=<s>Sell the kidnapped person to the human trafficker in Chengdu
 target_86508=<s>Save a kidnapped person
 target_86509=<s>Go to the Escort Agency. Escort good successfully for once.
-target_86510=<s>Go to Twilight Village. Kill Han Sijin.
 target_86511=Patrol in your own school and gain intelligence.
 target_86512=Go to the Royal Guards and collect intelligence.
 target_86513=<s>Patrol in your own school and finish the Wanted Task.
 target_86514=Challenge Tianxiang Tea Forest. Inquire about the location of Romance Script.
-target_86515=Kill the Romantic Taoist Ye Loukai in Twilight Village.
 target_86516=<s>Challenge Xu Family Manor and defeat them.
 target_86517=<s>Teach Tangchuan who makes fun of Tangmen.
 target_86518=<s>Challenge the Salt Gang and defeat them.
@@ -138,7 +131,6 @@ complete_86522=<font face="Default" color="#ffffff" >Well done. I'll give you a 
 complete_86523=<font face="Default" color="#ffffff" >Quite the feat. I'll reward you well.</font>
 context_86521=Affairs in the Tangmen Sect are complicated, I hope you've called me for something important.
 context_86522=I should meet the sect leader and do what he asks.
-context_86523=The sect leader must have called me because of the butterfly killings.
 menu_86521_1=<font face="Default" color="#ffffff" >You call for me, master?</font>
 menu_86522_1=<font face="Default" color="#ffffff" >Whom do you refer to, master?</font>
 menu_86523_1=<font face="Default" color="#ffffff" >What do you refer to, master?</font>
@@ -182,4 +174,12 @@ title_86529=Master and Disciple Weekly Activity
 context_86520=The Tangmen need to decide which sect to ally with.
 target_86502=<s>Save Leng Feng's Younger Sister from Huanhua Sword Sect.
 target_86520=Accomplish the force challenge to Mount Song Sword Sect.
+complete_86501=<font face="Default" color="#ffffff">You have righteously avenged both Leng Feng's mother and your dead school mate. That is a real gesture of friendship.
+context_86500=<s>In those years, Jin Shize was so intolerant he secretly killed his Martial Brother Leng Feng when he was angry and buried the corpse in the wild. Some years later, he was so plagued with remorse that he wanted to build a tomb for Leng Feng. But he had no courage to go the place where he killed him. After he died, he hoped that someone could help him to settle this last wish.
+context_86501=<s>In those years, Jin Shize had ever gone to Leng Feng's hometown and inquired about the recent developments of his family. However, in order to stop his sister to be robbed by bandits, his mother was beaten to dead. Jin Shize was so weak and he was not the opponent of those bandits. Now he was dead, you can go to punish the evils, praise the deeds and revenge for Leng Feng's mother.
+context_86510=<s>People are after the murderer Zhao Ziji for revenge, but he helped out the Tangmen in the past and this is a good chance to return the favor. Go to Twilight Village and defend him.
+context_86523=The sect leader must have called me because of the butterfly killings.
+target_86501=<s>Challenge Heaven Treasure Stronghold. Revenge Leng Feng's mother.
+target_86510=<s>Go to Twilight Village. Kill Han Sijin.
+target_86515=Kill the Romantic Taoist Ye Loukai in Twilight Village.
 

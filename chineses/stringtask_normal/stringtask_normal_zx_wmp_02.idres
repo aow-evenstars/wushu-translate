@@ -83,7 +83,6 @@ complete_51631=<font face="Default" color="#ffffff" >Then I am pleased to accept
 complete_51632=<font face="Default" color="#ffffff" >Good! Welcome to the Beggar's Sect! Share your bliss and misfortune with us, and you will never be lonely.</font>
 complete_51633=<font face="Default" color="#ffffff" >Heh. I could hear Shaoang shrieking like an old woman all the way up here.  Welcome to the Tangmen, child. Obey our laws, and you will always have a place here.</font>
 complete_51634=<font face="Default" color="#ffffff" >Excellent. Welcome to the Scholars. I'm looking forward to work with you. </font>
-complete_51635=<font face="Default" color="#ffffff" >From now on you are a member of the Royal Guards. Remember, those who submit will prosper. Those who resist will perish.</font>
 complete_51636=<font face="Default" color="#ffffff" >Don’t worry, I never poison disciples this early. Welcome to Wanderer’s Valley, we’ll see how long you last.</font>
 context_51501=Recently there seems to be unrest in Jianghu, many members of different sects have been coming and going, there seems to be trouble. Let's go find out if there is anything major happening.
 context_51502=The monk was once acquainted with a member of Rootless Clan. He asks you to take a letter to this long-lost old friend.
@@ -475,12 +474,31 @@ target_51637=Find the Ming Cult, and ask the leader to accept you as a disciple.
 target_51638=Talk to the leader.
 title_51637=Head to Ming Cult
 title_51638=Joining a School
-CanAcceptMenu_51505=<font face="Default" color="#ffffff" >Eight Schools</font>
-CompleteMenu_51505=<font face="Default" color="#ffffff" >Thank you for your advice.</font>
-accept_51505_1=<font face="Default" color="#ffffff" >You have been wandering Jianghu for some time now, don't you feel that it is sometimes inconvenient to not have the backing of a school or faction to rely on? If you would like to join one of the Eight Schools, I can help you, </font><font face="Default" color="#ffffff" >but there are requirements for joining each school</font><font face="Default" color="#ffffff" >.</font>
-complete_51505=<font face="Default" color="#ffffff" >If you would like to join the Eight Schools, </font><font face="Default" color="#ffffff" >you can take this secret order to the guides at the schools. They will instruct you on how to join.</font>
-context_51505=I want to find a powerful and reliable faction. If I want to join one of the Eight Schools, I need to fulfill their requirements.
-context_51506=Some factions have been developing quickly, and even surpassed the eight major schools in their power and prestige. You should learn more about them.
-target_51505=Learn from the monk the requirements and restrictions for joining the Eight Schools.
-title_51505=Joining one of the Eight Schools
+CanAcceptMenu_51639=<font face="Default" color="#ffffff" >Become A Disciple</font>
+CanAcceptMenu_51640=<font face="Default" color="#ffffff" >Become A Disciple (Acceptable)</font>
+CompleteMenu_51639=<font face="Default" color="#ffffff" >Fulfill the task.</font>
+CompleteMenu_51640=<font face="Default" color="#ffffff" >Join the School (Complete)</font>
+accept_51639_1=<font face="Default" color="#ffffff" >Since you want to join Tianshan Sect, go to see the headmaster. Pass the challenge to join Tianshan Sect.</font>
+accept_51640_1=<font face="Default" color="#ffffff" >Since you joined Tianshan Sect, there are a few things you must know.</font>
+complete_51639=<font face="Default" color="#ffffff" >Why are you here? </font>
+complete_51640=<font face="Default" color="#ffffff" >From now on, you are a Tianshan disciple.</font>
+context_51639=Since you want to join Tianshan Sect, go to see the headmaster. Pass the challenge to join Tianshan Sect.
+context_51640=Listen to the headmaster about Tianshan Sect.
+menu_51639_1=<font face="Default" color="#ffffff" >I will return later.</font>
+menu_51640_1=<font face="Default" color="#ffffff" >I will remember the instructions. </font>
+submit_51639=font face="Default" color="#ffffff" >Tianshan Sect is famous. Therefore I come and visit today. Please forgive me for not asking for permission ahead of time.</font>
+submit_51640=font face="Default" color="#ffffff" >Thank you!</font>
+target_51639=Go to Tianshan Sect. Ask the headmaster to take you as a disciple.
+target_51640=Talk to the headmaster.
+title_51639=Go to Tianshan Sect.
+title_51640=Joining a School
+CanAcceptMenu_51505=<font face="Default" color="#ffffff" >Ten Schools</font>
+CompleteMenu_51505=<font face="Default" color="#ffffff" >Thank you for your advice. </font>
+accept_51505_1=<font face="Default" color="#ffffff" >You have been wandering Jianghu for some time now, don't you feel that it is sometimes inconvenient to not have the backing of a school or faction to rely on? If you would like to join one of the Ten Schools, I can help you, </font><font face="Default" color="#ffffff" >but there are requirements for joining each school</font><font face="Default" color="#ffffff" >. </font>
+complete_51505=<font face="Default" color="#ffffff" >If you would like to join the Ten Schools, </font><font face="Default" color="#ffffff" >you can take this secret order to the guides at the schools. They will instruct you on how to join. </font>
+context_51505=I want to find a powerful and reliable faction. If I want to join one of the Ten Schools, I need to fulfill their requirements.
+context_51506=Some factions have been developing quickly, and even surpassed the ten major schools in their power and prestige. You should learn more about them.
+target_51505=Learn from the monk the requirements and restrictions for joining the Ten Schools.
+title_51505=Joining one of the Ten Schools
+complete_51635=<font face="Default" color="#ffffff" >From now on you are a member of the Royal Guards. Remember, those who submit will prosper. Those who resist will perish.</font>
 

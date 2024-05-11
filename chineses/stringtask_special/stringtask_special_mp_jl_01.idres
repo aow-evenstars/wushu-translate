@@ -77,7 +77,6 @@ interactinfo_8259=Talk to the Strange Doctor <a href="findnpc_new,school04,JlgNp
 interactinfo_8260=Fight your way into <a href="findnpc_new,school04,EventNpc48019" style="HLStype1">Dounan Hall</a>.
 interactinfo_8261=Nie Bing is subdued. Search <a href="findnpc_new,school04,ItemNpc03215" style="HLStype1">the room</a> behind her.
 interactinfo_8262=Look behind the <a href="findnpc_new,school04,EventNpc48021_2" style="HLStype1">south screen</a>.
-interactinfo_8263=Avenge Xiaoyue and Wang Zui by killing <a href="findnpc_new,school04,EventNpc48022" style="HLStype1">Nie Bing</a>
 okmenu_8002=I understand.
 okmenu_8228=Thank you Gu Emissary, it looks quite content here.
 okmenu_8250=Yes, Corpse Envoy.
@@ -103,7 +102,6 @@ story_8089_2=<s>It must be the Demon-Subduing Sword Script! My master mentioned 
 story_8090_1=Excellent! When Yin Xiudie gave me the sword I hid it so Xiaoyue wouldn't find out.
 story_8090_2=<s>I am sure that imposter Yin Xiudie is behind this. She must have gotten suspicious and intends to force my hand by capturing Xiaoyue!
 story_8091_1=<s>This is troubling. With Nie Bing dead it means the killer must be from Wanderer's Valley!
-story_8091_2=<s>I bet my next jug of wine Xiaoyue discovered something sinister when she was kidnapped. She knows too much and the killer wants her dead.
 story_menu_8002=A pleasure to meet you too, Corpse Envoy.
 story_menu_8084=What's going on Xing Kui? Why did Yao Jian attack?
 story_menu_8087=<font face="Default" color="#ffffff" >Is the sword manual really that important?</font>
@@ -143,4 +141,37 @@ convoyinfo_8022=Follow Xingxiu Sect Disciple Tang Xiao to meet <a href="findnpc_
 hunterinfo_8034=Defeat <a href="findnpc_new,city05,monrm040023" style="HLStype1">Huanhua Sword Sect Disciples</a>.
 hunterinfo_8069=Defeat the <a href="findnpc_new,born02,monrv022000" style="HLStype1">Xingxiu Sect Disciples</a>.
 hunterinfo_8072_2=Defeat the <a href="findnpc_new,born02,monrv022300" style="HLStype1">Xingxiu Sect Disciples</a>.
+DialogID_8064_2=I love him very much. But would he continue to love me if he knew I was his enemy? You help me give him this letter and the scented bag I made for him. See what his reaction is.
+DialogID_8150_1=I haven't been home for many years. I miss my mother who lives alone in Suzhou Tiger Hill. Recently I am more and more worried that my enemies will be detrimental to her. So I want you to go to Suzhou to get her to the Wanderer's Valley!
+DialogID_8161_1=Bloodbath Shaolin? Homicide? Go to Master Zu Jing first. Ask about the situation of the disciples who have recently left the temple.
+collectinfo_8011=There's nothing here. The Golden Hairpin must be with <a href="findnpc_new,school04,monrm040012" style="HLStype1">Yin Spring Killer leader</a>
+collectinfo_8075=Get treasure sword from <a href="findnpc_new,school07,monm074400" style="HLStype1">Dark Killer</a>
+convoy_talk_48428_3=I did nothing wrong... I did nothing wrong...
+hunterinfo_8003=On the way to miss Yan you found <a href="findnpc_new,school04,monrm040088" style="HLStype1">Jianghu Killers</a> ambushing Yan Biling
+hunterinfo_8004=Defeat <a href="findnpc_new,school04,monm040304" style="HLStype1">Forest Killer</a>
+hunterinfo_8013=After listening to <a href="findnpc_new,school04,monrm040092" style="HLStype1">Xing Kui</a>, you get enraged and decide to seek revenge
+hunterinfo_8016=Help killing <a href="findnpc_new,school04,monrm040084" style="HLStype1">Concealed Killer</a>
+hunterinfo_8017=Kill <a href="findnpc_new,school04,monrm040009" style="HLStype1">Miao Female Killer</a>
+hunterinfo_8022=Kill concealed <a href="findnpc_new,school04,monrm040011" style="HLStype1">Wanderer's Valley Killer</a> at the Village Entrance
+hunterinfo_8023=Kill <a href="findnpc_new,school04,monm040400" style="HLStype1">Yin Spring Killer</a>, find the whereabouts of the Golden Hairpin
+hunterinfo_8155=Repel <a href="findnpc_new,city02,monrc011000" style="HLStype1">Salt Gang Killer</a>
+interactinfo_8263=Avenge Xiaoyue and Wang Zui by killing <a href="findnpc_new,school04,EventNpc48022" style="HLStype1">Nie Bing</a>
+okmenu_8022_1=Master, Ma Chalan has used the Bliss pill to control a group of killers outside. This hairpin is the token.
+okmenu_8065_1=Master, that Murong Bai and Wanderer's Valley got a grudge, so he came to retaliate. Be careful.
+story_8009_2=You have to save me! I'm a victim too! Ma Chalan knew that things were falling apart. She has poisoned me with the Bliss pill. She wanted to kill me blame everything on me. Please help me!
+story_8019_2=What? I was right! In my opinion, the disciples of the Mount Tai Sect were killed by your Wanderer's Valley. You stole our treasures. Now that we've come to track them down, you start to kill the insiders!
+story_8026_2=Oh, you don't have to be nervous. It's just a beast. Let's tell you about the Murderous Bloody Demon! This Murderous Bloody Demon is gloomy. Does not interact with the people of the valley and often attacks indiscriminately. The people in the valley hate and fear him. I got no idea where he is now.
+story_8027_2=I am already unworthy my wife. I even failed to protect her. So I must take revenge for her. He is the Murderous Bloody Demon! I am going to use this Blood Fingerprint to lure him out and kill him!
+story_8028_2=I used to be a disciple of Wudang, gifted and intelligent. In the early years of my life, I walked around Jianghu and did righteous deeds. But all of a sudden I fell in love with the daughter of the master of the evil cult, Black Pearl. When love really comes, who can resist? We two loved each other and had a child. It is said that the evil cult is ruthless, but it's people did not give us a hard time. On the contrary, the so-called Righteous Faction, my master and brothers, they have been hunting us. Moreover the master injured us and snatched our only child. I want revenge. I want Wudang to pay the price!
+story_8032_2=His family was killed by Wanderer's Valley in the early years of Jianghu struggle. His family of dozens of people was all killed except for him. He is dedicated to training martial arts and befriending people in Jianghu in order to destroy Wanderer's Valley and take revenge on his loved ones.
+story_8034_2=I just came from the Villa Leader. We were the ones who took the "Trinity Finger" scripture, but they found Murong Bai's jade plate in the treasure pavilion site. The disciples who closed the door were injured, and the treasure of the villa, Murong treasure sword, is also missing. I suspect that he took it. I suppose that he most likely went to the Valley Leader to revenge. Report to the Valley Leader about this matter, and do not hurt Murong Princeling.
+story_8035_1=<s><font color="#0033FF">(Murong Bai looked very sad when he got the sword.)</font>This is the sword I gave her. I understand what she means. She is asking me to give up my revenge! But my family... I watched them die one by one under the blade.
+story_8035_2=<s>Why would heavens do this to me? But if I insist on revenge, she will use this sword to kill herself. She wants me to give up revenge and go away with her. No more revenge. Don't look back Jianghu...
+story_8051_1=<s>When will the injustice be over? People can't come back from the dead. Even if Yin Feng kills his mother's enemy, can his mother come back? Nope.
+story_8051_2=Evil people will eventually get their retribution. Now Yin Feng is attacking indiscriminately, saying that he is taking revenge for his mother. In fact, it is to satisfy the hatred inside. He who lives by hatred must die with it. It is better to leave this hatred behind to avoid creating more hatred.
+story_8074_2=Previously, I joined a small sect on the recommendation of a bad friend. Only later did I learn that it was an evil organization. They forced me to work for them as a secret agent... and I have done a lot of bad things. My mother died angrily once she found out about it. After that my father said he would kill me, an unworthy son, to take revenge for my mother... That old geezer, still running around... I am willing to change my ways! Just give me the chance...
+story_8091_2=<s>I bet my next jug of wine Xiaoyue discovered something sinister when she was kidnapped. She knows too much and the killer wants her dead.
+story_menu_8009=Tie up the loose ends
+story_menu_8073=Tie up the loose ends
+storymenu_8051_1=But the attacker is still at large!
 

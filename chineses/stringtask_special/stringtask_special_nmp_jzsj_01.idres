@@ -50,7 +50,6 @@ DialogID_10630=<font face="Default" color="#ffffff" >Worry not, I am here.</font
 DialogID_10633=<font face="Default" color="#ffffff" >That Shen Xiaoxi has made my illness worse after he tried to heal me. I don't know where he is but he better hope I don't find him!</font>
 DialogID_10635=<font face="Default" color="#ffffff" >You are so young yet you see things so clearly. This is very rare indeed. Take these two medicinal pills. These will help heal injuries.</font>
 DialogID_10636=<font face="Default" color="#ffffff" >Thank you for the gift, Miss Shen. I also have something to ask you. If you would, please greet the Second Lady for </font><font face="Default" color="#ffffff" >me</font><font face="Default" color="#ffffff" >.</font>
-DialogID_10637=<font face="Default" color="#ffffff" >Haha you are mistaken. Those are mere rumors.</font>
 DialogID_10638=<font face="Default" color="#ffffff" >Xiao Shanfeng is here again.</font><font face="Default" color="#ffffff" >You men</font><font face="Default" color="#ffffff" > stay here and protect the Villa. I will personally attend to this.</font>
 DialogID_10642=<font face="Default" color="#ffffff" >That damn Xiaoxi, how dare he used the Slanted Needle. He knows it is forbidden within the Shen Family.(Heavy sigh) Being that he is remorseful and was able to save the patient, I will spare him. Inform him that according to the Shen Family rules, his punishment is that he be banned from using Needles for the rest of his life. As a disciple of the Shen Family, you are expected to learn from this incident. Make the same mistake and I will not be as forgiving. </font><font face="Default" color="#ffffff" ></font><font face="Default" color="#ffffff" > Understand?</font>
 DialogID_10644=<font face="Default" color="#ffffff" >The Slanted Needle in exchange for blood. Well?</font>
@@ -231,7 +230,6 @@ hunterinfo_10606=Kill the <a href="findnpc_new,city05,jzsj_003" style="HLStype1"
 hunterinfo_10622=Defeat <a href="findnpc_new,city05,jzsj_035" style="HLStype1">Shen Xijue</a>
 hunterinfo_10623=Defeat <a href="findnpc_new,city05,jzsj_036" style="HLStype1">Shen Peijue</a>
 hunterinfo_10650=Defeat the <a href="findnpc_new,school02,boss_wssz_001" style="HLStype1">King Snake</a> (Hint: Use the <a href="TASK_ITEM,useitem_shenjia_41538" style="HLStype1">Snake Taming Medicine</a> given by your master to gain immunity from the King Snake's poison ring.)
-hunterinfo_10651=Speak with the <a href="findnpc_new,city05,wssz_516" style="HLStype1">high level Beast Villa Disciple</a> to be taken to the <a href="findnpc,born04,255,0.6,990" style="HLStype1">Fierce Tiger's lair</a>.
 hunterinfo_10652=Kill the <a href="findnpc_new,,boss_wssz_003" style="HLStype1">Giant Poisonous Scorpion</a>.
 hunterinfo_10653=Speak with <a href="findnpc_new,city05,wssz_516" style="HLStype1">Zhu Wei</a> to be taken to the <a href="findnpc,born01,101,163,575" style="HLStype1">Snow Mountain Precipice</a>.
 hunterinfo_10654=Speak with <a href="findnpc_new,city05,wssz_516" style="HLStype1">Zhu Wei</a>to be taken to the <a href="findnpc,school01,736,60,702" style="HLStype1">Seven Step Tortoise</a>(Hint: Use the <a href="TASK_ITEM,useitem_shenjia_41542" style="HLStype1">Poison Protection Medicine</a> given by your master to gain immunity to the Tortoise's poison circle. More Poison Protection Medicine can be obtained from the Golden Needle Sect's <a href="findnpc_new,city05,WorldNpc09968" style="HLStype1">Shen Sangu</a> for more)
@@ -378,7 +376,6 @@ okmenu_10630=<font face="Default" color="#ffffff" >Thank you.</font>
 okmenu_10633=<font face="Default" color="#ffffff" >Please calm down. I'll see we can make this right.</font>
 okmenu_10635=<font face="Default" color="#ffffff" >My thanks, Elder.</font>
 okmenu_10636=<font face="Default" color="#ffffff" >I shall greet the Second Lady.</font>
-okmenu_10637=<font face="Default" color="#ffffff" >The Shen Family purpose is to treat others and they are more than competent in martial arts as well. One would not expect them to have enemies but you must always remain vigilant</font><font face="Default" color="#ffffff" >.</font>
 okmenu_10638=<font face="Default" color="#ffffff" >It's dangerous for you to go alone, Lord.</font>
 okmenu_10642=<font face="Default" color="#ffffff" >Indeed my lord.</font>
 okmenu_10644=<font face="Default" color="#ffffff" >I will have no regrets.</font>
@@ -404,7 +401,6 @@ okmenu_10774=<font face="Default" color="#ffffff" >Lord, I am here today to bid 
 okmenu_10775=<font face="Default" color="#ffffff" >Yes, Lord.</font>
 okmenu_10776=<font face="Default" color="#ffffff" >I'll have to take my chances</font><font face="Default" color="#ffffff" >. This time there is no turning back</font>
 okmenu_10777=<font face="Default" color="#ffffff" >(I need to </font><font face="Default" color="#ffffff" >play along</font><font face="Default" color="#ffffff" >) That is right. The Leader wants me to punish these people for their crimes.</font><font face="Default" color="#ffffff" ></font>
-okmenu_10778=<font face="Default" color="#ffffff" >Fear not, they are among the few who have avoided execution and will be kept alive.</font>
 quest_menu_10501=Master Shen, I am ready.
 quest_menu_10502=Lord, I have returned.
 quest_menu_10601=<font face="Default" color="#ffffff" >If you are ready, let's start the test.</font>
@@ -790,5 +786,9 @@ okmenu_10782=<font face="Default" color="#ffffff" >Thank you, I shall continue t
 SubmitNpcEx_41641=<a href="findnpc_new,city05,WorldNpc09778" style="HLStype1">Shen Xijue</a> has something to say to you.
 SubmitNpcEx_41642=<a href="findnpc_new,city05,WorldNpc09905" style="HLStype1">Shen Jun</a> wants to see you.
 collectinfo_10770=Speak with <a href="findnpc_new,city05,wssz_516" style="HLStype1">Zhu Wei</a> to take you to  the<a href="findnpc,born04,255,0.6,990" style="HLStype1">Fierce Tiger's Lair</a> to harvest the legendary Flame Grass (Hint: The Tiger Pounce skill can shatter stone)
-convoy_nmp_41722_3=Ever since the death of late Lord Shen Jingfeng and his wife, the Golden Needle Sect’s population has been in decline. However, the castle still has the Golden Needle, allowing our sect to remain prominent and respected. Our current Lord is Shen Canghai, who is attempting to restore the Shen Family to its former glory.
+convoy_nmp_41722_3=Ever since the death of late Lord Shen Jinfeng and his wife, the Golden Needle Sect's population has been declining. However, the castle still has its Golden Needle, a hidden weapon comparable to those of Tangmen, so no one dares to look down on the family. The current Lord of the family is Shen Canghai, who once managed to bring the family back to its previous reputation.
+DialogID_10637=<font face="Default" color="#ffffff" >Haha you are mistaken. Those are mere rumors.</font>
+hunterinfo_10651=Speak with the <a href="findnpc_new,city05,wssz_516" style="HLStype1">high level Beast Villa Disciple</a> to be taken to the <a href="findnpc,born04,255,0.6,990" style="HLStype1">Fierce Tiger's lair</a>.
+okmenu_10637=<font face="Default" color="#ffffff" >The Shen Family purpose is to treat others and they are more than competent in martial arts as well. One would not expect them to have enemies but you must always remain vigilant</font><font face="Default" color="#ffffff" >.</font>
+okmenu_10778=<font face="Default" color="#ffffff" >Fear not, they are among the few who have avoided execution and will be kept alive.</font>
 

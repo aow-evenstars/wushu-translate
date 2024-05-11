@@ -469,8 +469,6 @@ hunterinfo_71028=Defeat <a href="findnpc_new,school08,sl057" style="HLStype1">Br
 hunterinfo_71029=<a href="findnpc_new,school08,WorldNpc00211" style="HLStype1">Master Zu Cheng</a> will surely be kind to us young disciples…won't he?
 hunterinfo_71030=Fight with Zu Yun.
 hunterinfo_71031=As a member of the Beggar's Sect, I simply cannot allow the pirates' foul deeds to go unpunished! <a href="findnpc_new,born03,npc_zp_cc_001" style="HLStype1">I will teach them a lesson!</a>
-hunterinfo_71032=Maintain law and order on the island! Kill the trouble-causing <a href="findnpc_new,scene17,npc_sh_cc_001" style="HLStype1">traveling swordsman.</a>
-hunterinfo_71033=The many samurais on the island have run amok! Find them <a href="findnpc,scene16,-61.724,373.549,-315.042" style="HLStype1">here</a>, <br><a href="findnpc,scene16,322.293,373.254,-381.292" style="HLStype1">here</a>,<br><a href="findnpc,scene16,-86.243,437.334,-81.582" style="HLStype1">here</a>, <br><a href="findnpc,scene16,86.825,582.394,559.802" style="HLStype1">here</a>, <br> and <a href="findnpc,scene16,31.806,584.271,487.952" style="HLStype1">here</a>. Kill them all!<br>
 hunterinfo_71034=The many ronins on the island have run amok! Find them <a href="findnpc,scene16,-61.724,373.549,-315.042" style="HLStype1">here</a>, <br><a href="findnpc,scene16,322.293,373.254,-381.292" style="HLStype1">here</a>, <br><a href="findnpc,scene16,-86.243,437.334,-81.582" style="HLStype1">here</a>, <br><a href="findnpc,scene16,86.825,582.394,559.802" style="HLStype1">here</a>, <br> and <a href="findnpc,scene16,31.806,584.271,487.952" style="HLStype1">here</a>. Kill them all!<br>
 hunterinfo_71035=Defeat <a href="findnpc_new,scene16,npc_pld_xu13" style="HLStype1">Samurai leader</a>.
 hunterinfo_71036=Defeat Old Miracle's disciple <a href="findnpc_new,scene17,npc_xkd_mxm07" style="HLStype1">Qing Tianshuang.</a>
@@ -535,7 +533,6 @@ interactinfo_71056=What we can do now is go with the headmaster and discuss abou
 interactinfo_71057=Follow the headmaster and go back to the School to decide what needs to be done.
 interactinfo_71058=Ask <a href="findnpc_new,school08,WorldNpc00212" style="HLStype1">Abbot Xuanhuai</a> what to do next.
 maintext_7801=<font face="Default" color="#ffffff" >Who is the current leader of the Ming Cult, sometimes known as the "Evil Cult"?</font>
-maintext_7802=<font face="Default" color="#ffffff" >Which of the following is NOT one of the eight reclusive factions?</font>
 maintext_7803=<font face="Default" color="#ffffff" >Which of the following internal skills does NOT belong to our school?</font>
 maintext_7804=<font face="Default" color="#ffffff" >Which of the following skills is a part of Tai Chi Sword?</font>
 maintext_7805=Isn't that Internal Skill one of our school's? </font>
@@ -638,7 +635,6 @@ collectinfo_71008=Pick up Qin Family's <a href="findnpc,born04,673,-35,1038" sty
 collectinfo_71009=Collect <a href="findnpc_new,city02,Gather_qynew_dy_03" style="HLStype1">Sky Fragrant Herb</a>
 collectinfo_71010=Collect <a href="findnpc_new,city02,Gather_qynew_dy_04" style="HLStype1">Shexie Grass</a>
 collectinfo_71011=Collect <a href="findnpc_new,city02,Gather_qynew_dy_05" style="HLStype1">Ding Xianglan</a>
-collectinfo_71012=Enter the <a href="findnpc,city02,1246,9,493" style="HLStype1">Cave</a>, defeat the <a href="findnpc,adv032,209,11,432" style="HLStype1">Mysterious Person</a>, and get the antidote.
 hunterinfo_71039=These <a href="findnpc_new,born04,NPC_qynew_dy_07" style="HLStype1">Bandits</a>, they just attacked the unarmed people!
 hunterinfo_71040=Drive away the <a href="findnpc_new,born04,NPC_qynew_dy_02" style="HLStype1">Bandits</a>.
 hunterinfo_71041=There seems to be <a href="findnpc_new,,NPC_qynew_dy_15" style="HLStype1">Puppet</a> in the front, defeat it (Enter Water Abode).
@@ -726,4 +722,9 @@ storyinfo_61009=Visit the <a href="findnpc,city03,734,14,1070" style="HLStype1">
 storymenu_61001_1=<font face="Default" color="#ffffff" >Ming Shiyue? He hasn't been heard from for a long time now. Is he even still alive?</font>
 storymenu_61019_1=<font face="Default" color="#ffffff" >If Ming Shiyue is not leading them, then who is?</font>
 interactinfo_61043=<font face="Default" color="#EE2C2C" >Attack Qingyao Palace and find Ming Shiyue.</font>(Information can be found at 1360,180)
+SubmitNpcEx_61041=Go to the Hero Island and learn the ultimate skill of your school from <a href="findnpc_new,scene17,NpcCloneshoptianshan_fc" style="HLStype1">Jiang Shan (Skill Transmission Disciple)</a>.
+maintext_7802=<font face="Default" color="#ffffff" >Which of the following is NOT one of the reclusive factions?</font>
+collectinfo_71012=Enter the <a href="findnpc,city02,1246,9,493" style="HLStype1">Cave</a>, defeat the <a href="findnpc,adv032,209,11,432" style="HLStype1">Mysterious Person</a>, and get the antidote.
+hunterinfo_71032=Maintain law and order on the island! Kill the trouble-causing <a href="findnpc_new,scene17,npc_sh_cc_001" style="HLStype1">traveling swordsman.</a>
+hunterinfo_71033=The many samurais on the island have run amok! Find them <a href="findnpc,scene16,-61.724,373.549,-315.042" style="HLStype1">here</a>, <br><a href="findnpc,scene16,322.293,373.254,-381.292" style="HLStype1">here</a>,<br><a href="findnpc,scene16,-86.243,437.334,-81.582" style="HLStype1">here</a>, <br><a href="findnpc,scene16,86.825,582.394,559.802" style="HLStype1">here</a>, <br> and <a href="findnpc,scene16,31.806,584.271,487.952" style="HLStype1">here</a>. Kill them all!<br>
 

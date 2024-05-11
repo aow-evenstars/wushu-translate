@@ -2,7 +2,6 @@
 DialogID_58202=<font face="Default" color="#ffffff">    </font><font face="Default" color="#ffffff">You've arrived! </font><font face="Default" color="#ffffff">Taiping Village has had many troubles recently.</font>
 DialogID_58203=<font face="Default" color="#ffffff">Amitabha, you've come, Younger Brother. The murderer who attacked Shaolin Disciples seemed to get along closely with the people of Evil Tiger Stronghold</font><font face="Default" color="#ffffff">. Now the Martial Arts Brothers and I plan to go to the Apricot Blossom Village to check it. You can go with me.</font>
 DialogID_58204=<font face="Default" color="#ffffff">These murderers are hateful, it's a pity they ran away. </font> <font face="Default" color="#ffffff">Go look for them at Evil Tiger Stronghold.</font>
-DialogID_58205=<font face="Default" color="#ffffff">   </font><font face="Default" color="#ffffff">The mysterious stranger and the murderer Zhao Ziji have both appeared in Twilight Village. I hope this will not affect innocent villagers...</font>
 DialogID_58206=<font face="Default" color="#ffffff">   </font><font face="Default" color="#ffffff">Although Zhao Ziji killed many people, he saved my daughter's life. Keep that in mind while dealing with this matter.</font>
 DialogID_58207=<font face="Default" color="#ffffff">Thank Abbot for providing the timely help to me…</font>
 DialogID_58208=<font face="Default" color="#ffffff">   Abbot… Thank you for</font> <font face="Default" color="#ffffff">giving</font> <font face="Default" color="#ffffff">the Steamed Bread to me…</font>
@@ -46,7 +45,6 @@ collectinfo_58208=Gather <a href="findnpc_new,," style="HLStype1"></a>enough Whi
 convoyinfo_58201=Escort this Shaolin Disciple to <a href="findnpc,born01,223.73,,719.73" style="HLStype1">Apricot Blossom Village</a>.
 hunterinfo_58201=Defeat <a href="findnpc_new,school08,monm081503" style="HLStype1">Furtive Robbers</a>.
 hunterinfo_58202=Defeat <a href="findnpc_new,school08,monm081504" style="HLStype1">the Leader of Furtive Robbers</a>.
-hunterinfo_58203=Defeat <a href="findnpc_new,city02,monrc013908" style="HLStype1">Mysterious Killer</a>.
 hunterinfo_58204=Defeat <a href="findnpc_new,city04,monrc047626" style="HLStype1">the bandits of Baodu Stronghold</a>
 hunterinfo_58205=Defeat the <a href="findnpc_new,school08,monrm089006" style="HLStype1">Masked Man</a> who came to steal the books.
 hunterinfo_58206=Defeat the <a href="findnpc_new,school07,monrm079525" style="HLStype1">First Class hall spy</a>
@@ -102,11 +100,9 @@ story_58201_2=<font face="Default" color="#ffffff">My martial brothers and I thi
 story_58201_3=<font face="Default" color="#ffffff">There are bandits wandering near the Western Corridor. I will stay here and protect the villagers while you find out if they are plotting something.</font>
 story_58202_1=<font face="Default" color="#ffffff">It is not peaceful in Taiping Village. </font><font face="Default" color="#ffffff">The harvests are poor, and the villagers are being robbed by mountain thieves.</font>
 story_58202_2=<font face="Default" color="#ffffff">Young Martial Brother, do you have any food? Please give it to the villagers. Amitabha.</font>
-story_58203_1=<font face="Default" color="#ffffff">Young Martial Brother, you finally come. The boss of Study in Luoyang City died strangely. There are several pages of Maple Leaf Letter at the scene. The event of Butterfly killing people in Green Cloud Castle is recorded in the letter.</font> <font face="Default" color="#ffffff">I hope you can come to find the truth.</font>
 story_58203_2=<font face="Default" color="#ffffff">This event must relate to Green Cloud Castle. The hostess often comes to Shaolin before. And she asks Shaolin to help to deal with this event. I hope you can go to Green Cloud Castle to investigate this event and deal with it properly.</font>
 story_menu_58201=<font face="Default" color="#ffffff">Taiping Village's Disaster</font>
 story_menu_58202=<font face="Default" color="#ffffff">Trouble of Villagers</font>
-story_menu_58203=<font face="Default" color="#ffffff">Butterflies kill people.</font>
 storyinfo_58201=Listen to <a href="findnpc_new,school08,sl173" style="HLStype1">the Shaolin disciples</a> who pick you up to report the situation of Taiping Village.
 storyinfo_58202=Listen to <a href="findnpc_new,school08,sl173" style="HLStype1">the Shaolin disciples</a> in Taiping Village to report the situation of the village.
 storyinfo_58203=Listen to <a href="findnpc_new,city04,ly774" style="HLStype1">Shaolin disciples</a> who pick you up in Luoyang City to tell you the trust of the hostess of study.
@@ -119,10 +115,8 @@ storymenu_58203_1=<font face="Default" color="#ffffff">How is it going now?</fon
 storymenu_58203_2=<font face="Default" color="#ffffff">Don't worry, Elder Brother</font>. <font face="Default" color="#ffffff">I will go right now.</font>
 useiteminfo_58201=Use <a href="TASK_ITEM,useitemyxc_001" style="HLStype1">the Water Bucket</a> to get some water from the pool of Lixue Pavilion.
 DialogID_58216=
-DialogID_58217=<font face="Default" color="#ffffff" >  Here you are, Younger Brother. I found out that Zhao Ziji revealed himself when he saved the tavern boss's daughter. Now he is being chased by his enemies. Even the villagers in Twilight Village have suffered. You go find </font><font face="Default" color="#ffffff" >the Shopkeeper</font><font face="Default" color="#ffffff" >Meng Guang for more information...</font>
 DialogID_58218=<font face="Default" color="#ffffff" >Thank you, master. Han Wanshi returned all the money he owed</font><font face="Default" color="#ffffff" >, </font><font face="Default" color="#ffffff" >but Twilight Village is already in a sorry state...</font>
 DialogID_58219=<font face="Default" color="#ffffff" >   </font><font face="Default" color="#ffffff" ></font><font face="Default" color="#ffffff" >Can</font><font face="Default" color="#ffffff" >you help? </font><font face="Default" color="#ffffff" >I’d appreciate it!</font>
-DialogID_58220=<font face="Default" color="#ffffff" >  Before my husband died he had planned to make a book out of a pile of personal letters which mention Green Cloud Castle and the butterfly murder. Green Cloud Castle must have something to do with his death.</font>
 QiecuoMenu_58209=<font face="Default" color="#ffffff" >Amitabha! You're too stubborn. I have to act. If I win, you must return all the money you owe the Shopkeeper. Otherwise, I'll watch you every day until you realize your sin.</font>
 QiecuoTitle_58209=<font face="Default" color="#ffffff" > You bald donkey! How dare you condemn me and let me pay for the meal? How dare you!</font><font face="Default" color="#ffffff" >I’m going to give you a fist sandwich</font><font face="Default" color="#ffffff" ></font>
 SubmitNpcEx_86721=<s>Mission completed. Report to <a href="findnpc_new,school08,WorldNpc00212" style="HLStype1">Abbot Xuanhuai</a>
@@ -149,7 +143,6 @@ story_58204_2=<font face="Default" color="#ffffff">I was just attacked by a susp
 story_58205_1=<font face="Default" color="#ffffff" ></font><font face="Default" color="#8fd6ef" ></font><font face="Default" color="#ffffff" >I don't care what Zhao Ziji did before. I must save him, but I'm too weak.</font><font face="Default" color="#ffffff" ></font>
 story_58205_2=<font face="Default" color="#ffffff" >  Five groups of people are chasing Zhao Ziji. The leader is Han Sijin from the Han's. The cousin of Han Sijin, Han </font><font face="Default" color="#ffffff" >Wanshi, </font><font face="Default" color="#ffffff" >is the one that is eating and drinking there. He has come several times and never paid. How can I ask him to pay?</font>
 story_58206_1=<font face="Default" color="#ffffff" > Here you are, Younger Brother. I'm worried.</font>
-story_58206_2=<font face="Default" color="#ffffff" > The Shopkeeper of the Study in Luoyang City died in a rather strange way. There were some pages of personal letters on the crime site. </font><font face="Default" color="#ffffff" >In the note</font><font face="Default" color="#ffffff" >it records the murder by the butterflies of Green Cloud Castle. It must have something to do with the Green Cloud Castle. You can go talk with Mrs. Shi.</font>
 story_menu_58204=<font face="Default" color="#ffffff" >Amitabha. I'll do what you ask me to do, Abbot.</font>
 story_menu_58205=<font face="Default" color="#ffffff" >Buddha's Halo in Twilight Village</font>
 story_menu_58206=<font face="Default" color="#ffffff" >Green Cloud Castle Case</font>
@@ -162,7 +155,6 @@ storymenu_58205_1=<font face="Default" color="#ffffff" >I wonder</font><font fac
 storymenu_58205_2=<font face="Default" color="#ffffff" >Amitabha! I'll try to persuade the benefactor.</font>
 storymenu_58206_1=<font face="Default" color="#ffffff" >How is your investigation going?</font>
 storymenu_58206_2=<font face="Default" color="#ffffff" >It cannot be delayed anymore. I will go there at once.</font>
-specialinfo_164=Go to the Forbidden Area of Green Cloud Castle(any difficulty) and investigate the event of Butterfly killing people.
 DialogID_58221=<font face="Default" color="#ffffff" >You have become a disciple of this school. There is one master whom I want to refer you to. You can go and seek him as a master. </font>
 SubmitNpcEx_86727=Go to <a href="findnpc_new,school02,wd173" style="HLStype1">the school's master guide</a> area.
 collectinfo_58210=Collect Wheat.
@@ -195,4 +187,12 @@ specialinfo_411=Complete faction challenge against Mount Song Sword Sect (one su
 specialinfo_414=Complete faction challenge against Huanhua Sword Sect (Pass within 5 minutes)
 specialinfo_415=Pass Peacock Villa (Difficulty Level: random)
 specialinfo_416=Complete faction challenge against Xingxiu Sect (Pass within 5 minutes)
+DialogID_58205=<font face="Default" color="#ffffff">   </font><font face="Default" color="#ffffff">The mysterious stranger and the killer Zhao Ziji have both appeared in Twilight Village. I hope this will not affect innocent villagers...</font>
+DialogID_58217=<font face="Default" color="#ffffff" >  Here you are, Younger Brother. I found out that Zhao Ziji revealed himself when he saved the tavern boss's daughter. Now he is being chased by his enemies. Even the villagers in Twilight Village have suffered. You go find </font><font face="Default" color="#ffffff" >the Shopkeeper</font><font face="Default" color="#ffffff" >Meng Guang for more information...</font>
+DialogID_58220=<font face="Default" color="#ffffff" >  Before my husband died he had planned to make a book out of a pile of personal letters which mention Green Cloud Castle and the butterfly murder. Green Cloud Castle must have something to do with his death.</font>
+hunterinfo_58203=Defeat <a href="findnpc_new,city02,monrc013908" style="HLStype1">Mysterious Killer</a>.
+specialinfo_164=Go to the Forbidden Area of Green Cloud Castle(any difficulty) and investigate the event of Butterfly killing people.
+story_58203_1=<font face="Default" color="#ffffff">Young Martial Brother, you finally come. The boss of Study in Luoyang City died strangely. There are several pages of Maple Leaf Letter at the scene. The event of Butterfly killing people in Green Cloud Castle is recorded in the letter.</font> <font face="Default" color="#ffffff">I hope you can come to find the truth.</font>
+story_58206_2=<font face="Default" color="#ffffff" > The Shopkeeper of the Study in Luoyang City died in a rather strange way. There were some pages of personal letters on the crime site. </font><font face="Default" color="#ffffff" >In the note</font><font face="Default" color="#ffffff" >it records the murder by the butterflies of Green Cloud Castle. It must have something to do with the Green Cloud Castle. You can go talk with Mrs. Shi.</font>
+story_menu_58203=<font face="Default" color="#ffffff">Butterflies kill people.</font>
 

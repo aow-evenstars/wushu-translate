@@ -34,28 +34,14 @@ DialogID_56692=<s>少俠，請您幫我轉告邰淑，讓他保護好難民，�
 DialogID_56694=<s>多謝你找來的草藥，請把這只木棍交給俞夢菲
 DialogID_56696=<s>多謝你為我們做的一切，好人好報，老天一定會保佑你的。
 collectinfo_56661=採集<a href="findnpc_new,scene03,Gather00004sj" style="HLStype1">魚</a>
-collectinfo_56662=擊殺<a href="findnpc_new,scene03,monf033200" style="HLStype1">糧倉守將</a>奪取鑰匙
 collectinfo_56666=收集<a href="findnpc_new,scene03,Gather00005sj" style="HLStype1">馬蹄草</a>
 collectinfo_56668=採集<a href="findnpc_new,scene03,Gather00007sj" style="HLStype1">石塊</a>
 collectinfo_56671=收集<a href="findnpc_new,scene03,Gather00009sj" style="HLStype1">木材</a>
 hunterinfo_56660=教訓<a href="findnpc_new,scene03,monf030100" style="HLStype1">作亂難民</a>
-hunterinfo_56661=擊殺<a href="findnpc_new,scene03,monf031101" style="HLStype1">遊軍巡邏兵</a>
-hunterinfo_56662=擊殺<a href="findnpc_new,scene03,monf031301" style="HLStype1">兵痞隊長</a>
-hunterinfo_56663=擊殺<a href="findnpc_new,scene03,monf032800" style="HLStype1">禦史護衛</a>
 hunterinfo_56664=懲治<a href="findnpc_new,scene03,monf032801" style="HLStype1">軍營哨兵</a>
-hunterinfo_56665=擊殺<a href="findnpc_new,scene03,monf031300" style="HLStype1">兇殘兵痞</a>
-hunterinfo_56666=擊殺<a href="findnpc_new,scene03,monf031301" style="HLStype1">兵痞隊長</a>
-hunterinfo_56667=擊殺<a href="findnpc_new,scene03,monf030200" style="HLStype1">斂財女賊</a>
-hunterinfo_56668=擊殺<a href="findnpc_new,scene03,monf033201" style="HLStype1">糧倉巡邏兵</a>
-hunterinfo_56669=擊殺<a href="findnpc_new,scene03,monf031101" style="HLStype1">遊軍巡邏隊</a>
 hunterinfo_56670=教訓<a href="findnpc_new,scene03,monf030100" style="HLStype1">作亂難民</a>
-hunterinfo_56671=擊殺<a href="findnpc_new,scene03,monf030400" style="HLStype1">疤面監工</a>
-hunterinfo_56672=擊殺<a href="findnpc_new,scene03,monf030400" style="HLStype1">疤面監工</a>
-hunterinfo_56673=擊殺<a href="findnpc_new,scene03,monf030400" style="HLStype1">疤面監工</a>
 hunterinfo_56674=教訓<a href="findnpc_new,scene03,monf030500" style="HLStype1">巡邏刀兵</a>
-hunterinfo_56675=擊殺<a href="findnpc_new,scene03,monf030700" style="HLStype1">風陵渡槍兵</a>
 hunterinfo_56676=打敗<a href="findnpc_new,scene03,monf034100" style="HLStype1">渡口刁民</a>
-hunterinfo_56677=擊殺<a href="findnpc_new,scene03,monf033302" style="HLStype1">東洋忍者</a>
 interactinfo_56660=與<a href="findnpc_new,scene03,WorldNpc06623" style="HLStype1">龐柔</a>對話
 interactinfo_56661=與<a href="findnpc_new,scene03,WorldNpc06608" style="HLStype1">馬大元</a>交談
 interactinfo_56662=與<a href="findnpc_new,scene03,WorldNpc06616" style="HLStype1">馬敏</a>交談
@@ -126,3 +112,18 @@ okmenu_56691=好的，交給我了
 okmenu_56692=好的，我這就去！
 okmenu_56694=好的，我馬上去。
 okmenu_56696=不必客氣，我還有事先走了。
+collectinfo_56662=攻克<a href="findnpc_new,scene03,monf033200" style="HLStype1">糧倉守將</a>奪取鑰匙
+hunterinfo_56661=攻克<a href="findnpc_new,scene03,monf031101" style="HLStype1">遊軍巡邏兵</a>
+hunterinfo_56662=攻克<a href="findnpc_new,scene03,monf031301" style="HLStype1">兵痞隊長</a>
+hunterinfo_56663=攻克<a href="findnpc_new,scene03,monf032800" style="HLStype1">御史護衛</a>
+hunterinfo_56665=攻克<a href="findnpc_new,scene03,monf031300" style="HLStype1">凶殘兵痞</a>
+hunterinfo_56666=攻克<a href="findnpc_new,scene03,monf031301" style="HLStype1">兵痞隊長</a>
+hunterinfo_56667=攻克<a href="findnpc_new,scene03,monf030200" style="HLStype1">斂財女賊</a>
+hunterinfo_56668=攻克<a href="findnpc_new,scene03,monf033201" style="HLStype1">糧倉巡邏兵</a>
+hunterinfo_56669=攻克<a href="findnpc_new,scene03,monf031101" style="HLStype1">遊軍巡邏隊</a>
+hunterinfo_56671=攻克<a href="findnpc_new,scene03,monf030400" style="HLStype1">疤面監工</a>
+hunterinfo_56672=攻克<a href="findnpc_new,scene03,monf030400" style="HLStype1">疤面監工</a>
+hunterinfo_56673=攻克<a href="findnpc_new,scene03,monf030400" style="HLStype1">疤面監工</a>
+hunterinfo_56675=攻克<a href="findnpc_new,scene03,monf030700" style="HLStype1">風陵渡槍兵</a>
+hunterinfo_56677=攻克<a href="findnpc_new,scene03,monf033302" style="HLStype1">東洋忍者</a>
+

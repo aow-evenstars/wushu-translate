@@ -269,7 +269,6 @@ story_5752_5=<font face="Default" color="#ffffff" >    </font><font face="Defaul
 story_5753_1=<font face="Default" color="#ffffff" >Don't kill me</font><font face="Default" color="#ffffff" >. I won't try to escape.</font>
 story_5753_2=<font face="Default" color="#ffffff" >I had no choice. I was </font><font face="Default" color="#ffffff" >poisoned</font><font face="Default" color="#ffffff" > by some</font><font face="Default" color="#ffffff" > nefarious people and was forced to spread rumors.</font><font face="Default" color="#ffffff" > If I didn't comply I would be dead!</font>
 story_5754_1=<font face="Default" color="#ffffff" >I hope you are well. I learned that the Jinling Academy is now under control of some unknown force. All the rumors have generated from there. Unfortunately we are currently unable to enter.</font><font face="Default" color="#ffffff" >. </font>
-story_5754_2=<font face="Default" color="#ffffff" >I have also met others controlled by this evil force. They were all male and knew that upon the eclipse, everyone in the academy would be killed. As such they managed to sacrifice themselves in order to escort others  to safety. The people were touched their action though they themselves were poisoned and were unsure of what to do.
 story_5754_3=<font face="Default" color="#ffffff" >I am familiar with this poison. </font><font face="Default" color="#ffffff" >Take this, it will work as an antidote. Use it remove their poison to gain tokens to access the academy. Come to me if you need more antidote. </font>
 story_5754_4=<font face="Default" color="#ffffff" >You can always get more antidote from me.</font>
 story_5755_1=You have been poisoned. If you don't remove it in 2 hours it will kill you.
@@ -629,16 +628,10 @@ collectinfo_5786=Collect <a href="findnpc_new,," style="HLStype1"></a>Butterfish
 collectinfo_5787=Collect <a href="findnpc_new,," style="HLStype1"></a>Bison Tenderloin (Get from Gathering or purchase at the Trade Center)
 collectinfo_5788=Collect <a href="findnpc_new,," style="HLStype1"></a>Boar Meat (Get from Gathering or purchase at the Trade Center)
 collectinfo_5789=Collect <a href="findnpc_new,," style="HLStype1"></a>Wuchang Bream (Get from Fishing or purchase at the Trade Center)
-hunterinfo_5765=Go to Qiandeng Town and test the ability of <font color="#00CC33">Rosy Cloth Killer</font> (Challenge Jianghu Faction--Tianxiang Tea Forest)
 hunterinfo_5766=Go to Tangmen and test the ability of <font color="#00CC33">Heaven Treasure Stronghold Expert</font> (Challenge Jianghu Faction--Heaven Treasure Stronghold)
 hunterinfo_5767=Go to Luoyang and test the ability of <font color="#00CC33">Baodu Stronghold Knight</font> (Challenge Jianghu Faction--Baodu Stronghold)
 hunterinfo_5770=Go to Yanyu Villa and test the ability of <font color="#00CC33">Salt Gang Supervisor</font> (Challenge Jianghu Faction--Salt Gang)
 hunterinfo_5771=Stop <a href="findnpc_new,city05,hd_bdn_qms" style="HLStype1">scoundrel</a> and ask his purpose
-hunterinfo_5772=Kill the <a href="findnpc_new,city05,bossmpdn001" style="HLStype1">Nian</a>
-hunterinfo_5773=Kill the <a href="findnpc_new,city05,bossmpdn002" style="HLStype1">Nian</a>
-hunterinfo_5774=Kill the <a href="findnpc_new,city05,bossmpdn003" style="HLStype1">Nian</a>
-hunterinfo_5775=Kill the <a href="findnpc_new,city05,bossmpdn004" style="HLStype1">Nian</a>
-hunterinfo_5776=Kill the <a href="findnpc_new,city05,bossmpdn005" style="HLStype1">Nian</a>
 interactinfo_5816=Get Spring Couplets from <a href="findnpc_new,city05,hd_bdn_01" style="HLStype1">Situ Yan</a>
 interactinfo_5817=Get Spring Couplets from <a href="findnpc_new,city05,hd_bdn_cl_01" style="HLStype1">Zhao Xianwen</a>
 interactinfo_5818=Ask <a href="findnpc_new,city05,hd_bdn_01" style="HLStype1">Situ Yan</a> the meaning of inviting Door God during Spring Festival.
@@ -710,7 +703,6 @@ useiteminfo_5763=Go to <a href="findnpc_new,city05,Event_bdngj_004" style="HLSty
 useiteminfo_5764=Go to <a href="findnpc_new,city05,Event_bdngj_003" style="HLStype1">Chengdu </a>and use <a href="TASK_ITEM,useitem_bdnguj_005" style="HLStype1">spade</a> to take out the Treasure.
 QiecuoMenu_5771=<font face="Default" color="#ffffff" >I will never allow you to be nonsense here. </font>
 QiecuoTitle_5771=<font face="Default" color="#ffffff" >Hey you! Give me some money and let me spend a nice Spring Festival. </font>
-hunterinfo_5764=Kill the <font color="#FF0000">Little Nian</font>.
 collectinfo_5790=Collect <font color="#00cc00">Fresh Pork</font>
 QiecuoMenu_5777=<font face="Default" color="#ffffff" >Huh! How dare you! </font>
 QiecuoMenu_5778=<font face="Default" color="#ffffff" >Huh! How dare you! </font>
@@ -761,4 +753,12 @@ hunterinfo_5763=Defeat Bald Eagle King. To complete task, your team must deal th
 hunterinfo_5768=Go to Chengdu and test the ability of <font color="#00CC33">Huanhua Sword Sect Guard</font> (Challenge Jianghu Faction--Huanhua Sword Sect)
 hunterinfo_5769=Go to Beggar's Sect and test the ability of <font color="#00CC33">Wolf Tamer</font> (Challenge Jianghu Faction-- Beast Villa)
 SubmitNpcEx_43827=Find Lin Liang and submit task
+story_5754_2=<font face="Default" color="#ffffff" >I have also met others controlled by this evil force. They were all male and knew that upon the eclipse, everyone in the academy would be killed. As such they managed to sacrifice themselves in order to escort others  to safety. The people were touched their action though they themselves were poisoned and were unsure of what to do.
+hunterinfo_5765=Go to Qiandeng Town and test the ability of <font color="#00CC33">Rosy Cloth Killer</font> (Challenge Jianghu Faction--Tianxiang Tea Forest)
+hunterinfo_5772=Kill the <a href="findnpc_new,city05,bossmpdn001" style="HLStype1">Nian</a>
+hunterinfo_5773=Kill the <a href="findnpc_new,city05,bossmpdn002" style="HLStype1">Nian</a>
+hunterinfo_5774=Kill the <a href="findnpc_new,city05,bossmpdn003" style="HLStype1">Nian</a>
+hunterinfo_5775=Kill the <a href="findnpc_new,city05,bossmpdn004" style="HLStype1">Nian</a>
+hunterinfo_5776=Kill the <a href="findnpc_new,city05,bossmpdn005" style="HLStype1">Nian</a>
+hunterinfo_5764=Kill the <font color="#FF0000">Small Nian</font>.
 

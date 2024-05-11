@@ -1,7 +1,6 @@
 ﻿
 SubmitNpcEx_58001=安樂公透露盜寶之人已被他所傷，想必循著血跡可以找到盜寶之人的藏身之所，先回<a href="findnpc_new,school04,npc_4neidh_jlg" style="HLStype1">掌事師叔</a>處稟報，請他定奪。
 SubmitNpcEx_58002=血跡已被磨刀堂弟子清除，再尋下去也沒有意義，回<a href="findnpc_new,school04,npc_4neidh_jlg" style="HLStype1">掌事師叔</a>處先行稟報再做打算吧。
-SubmitNpcEx_58003=磨刀堂到底是何許人物！竟在極樂谷中悄無聲息的殺人！知情的巡邏弟子都被滅口，趕緊回稟<a href="findnpc_new,school04,npc_4neidh_jlg" style="HLStype1">掌事師叔</a>。
 SubmitNpcEx_58004=這屍體皮膚發青，應該是機關毒所致，估計是磨刀堂設下的陷阱，用來對付追查之人，既然磨刀堂已經有所察覺，繼續追查下去也沒有了意義，回去稟告<a href="findnpc_new,school04,npc_4neidh_jlg" style="HLStype1">掌事師叔</a>
 SubmitNpcEx_58005=現在推測出盜取玉如意的人很有可能就是極樂谷眾，而且已經被安樂公所傷。將此事稟報給<a href="findnpc_new,school04,npc_4neidh_jlg" style="HLStype1">掌事師叔</a>。
 SubmitNpcEx_58012=神秘人屍體不翼而飛！難道他是假死？難道字條上就是要我們調查這個神秘人到底是誰？趕緊回去向<a href="findnpc_new,school04,npc_4neidh_jlg" style="HLStype1">掌事師叔</a>稟告。
@@ -25,9 +24,7 @@ hunterinfo_83041=擊敗身藏煙雨莊附近<a href="findnpc_new,born03,PlotDoor
 interactinfo_83001=盜寶之人被安樂公所傷從房簷逃竄，屋後定有<a href="findnpc_new,school04,npc_4nei_jlg_blood1" style="HLStype1">血跡</a>，過去查探一番。
 interactinfo_83002=所料不假，不遠處似乎還有一灘<a href="findnpc_new,school04,npc_4nei_jlg_blood2" style="HLStype1">血跡</a>，想必盜寶之人必是往此方向逃竄。不過似乎那邊有些情況，上前看看。
 interactinfo_83003=掌事師叔說當時青田殿有幾個巡邏弟子當值，去青田殿找巡邏弟子<a href="findnpc_new,school04,npc_4nei_jlg_st1" style="HLStype1">桑正武</a>，詢問他是否看到了些什麼。
-interactinfo_83004=巡邏弟子桑正武竟然已被滅口！想必磨刀堂有所察覺，想將所有知情人滅口。趕在磨刀堂前面去找另一個巡邏弟子<a href="findnpc_new,school04,npc_4nei_jlg_st2" style="HLStype1">喻劍心</a>
 interactinfo_83005=巡邏弟子{@IDName:npc_4nei_jlg_st2}也不能倖免！這磨刀堂到底是何來歷？！速速找最後一個巡邏弟子<a href="findnpc_new,school04,npc_4nei_jlg_st3" style="HLStype1">{@IDName:npc_4nei_jlg_st3}</a>，否則他也會遭受不測！
-interactinfo_83006=盜寶之人的血跡已被清除，目擊證人也被滅口，磨刀堂的身份越來越詭異了。不過那個傳話的啞僕被谷主所傷，去追尋他的<a href="findnpc_new,school04,npc_4nei_jlg_blood3" style="HLStype1">血跡</a>也許可以找到新的線索
 interactinfo_83007=哈哈，磨刀堂果然百密一疏，這裡的血跡沒有清除，繼續查探<a href="findnpc_new,school04,npc_4nei_jlg_blood4" style="HLStype1">血跡</a>找出那個啞僕
 interactinfo_83008=前方似乎還有一灘<a href="findnpc_new,school04,npc_4nei_jlg_blood5" style="HLStype1">血跡</a>，沒有看到什麼動靜，反而覺得詭異，小心為妙
 interactinfo_83009=前方似乎有具<a href="findnpc_new,school04,npc_4nei_jlg_st4" style="HLStype1">屍體</a>小心上前看看。
@@ -160,4 +157,7 @@ okmenu_83061=<font face="Default" color="#ffffff" >……</font>
 okmenu_83064=<font face="Default" color="#ffffff" >嘿嘿，谷主英明。</font>
 useiteminfo_83001=咦？這賊人身上有封<a href="TASK_ITEM,item_5nei_jlg_83022" style="HLStype1">密信</a>，打開看看。
 useiteminfo_83002=<a href="TASK_ITEM,item_5nei_jlg_83023" style="HLStype1">一封血書</a>？是這名死者臨死之前想告訴我們什麼事情麼？
+SubmitNpcEx_58003=磨刀堂到底是何許人物！竟在極樂谷中悄無聲息的攻克！知情的巡邏弟子都被解決後患，趕緊回稟<a href="findnpc_new,school04,npc_4neidh_jlg" style="HLStype1">掌事師叔</a>。
+interactinfo_83004=巡邏弟子桑正武竟然已被解決後患！想必磨刀堂有所察覺，想將所有知情人解決後患。趕在磨刀堂前面去找另一個巡邏弟子<a href="findnpc_new,school04,npc_4nei_jlg_st2" style="HLStype1">喻劍心</a>
+interactinfo_83006=盜寶之人的血跡已被清除，目擊證人也被解決後患，磨刀堂的身份越來越詭異了。不過那個傳話的啞僕被谷主所傷，去追尋他的<a href="findnpc_new,school04,npc_4nei_jlg_blood3" style="HLStype1">血跡</a>也許可以找到新的線索
 

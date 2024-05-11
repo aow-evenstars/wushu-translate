@@ -21,15 +21,12 @@ dialogid_7254=<s>Convince Dong Yunbo to leave.
 dialogid_7255=<s>The Clan leader Xia Wuyou has been seen in the area. Can you check where he is for me?
 dialogid_7256=<s>Ha! You're Dong Yunbo's secret weapon? Come on, then!
 dialogid_7257=<s>You are in such a hurry. What's going on?
-dialogid_7258=<font face="Default" color="#ffffff" >What is the problem? Xia Wuyou is Wanderer Valley's target, not me.</font>
 dialogid_7259=<s>The Jade Pendant looks very similar to Xia's. Ask Mister Bu to take a look at it.
 dialogid_7262=<s>I was consumed by rage, but now I see: Wanderer's Valley is indeed behind all of this.
-dialogid_7264=<font face="Default" color="#ffffff"> I just heard that they've sent a group of assassins to kill me. Be careful, Young Hero. </font>
 dialogid_7265=<s>Yanhu gave this folding fan to me. Now I shall return it to you.
 dialogid_7266=<s>This gift indicates that Sister Xia and Dong Yunbo have deep feelings for each other. I will keep this fan now, but don't tell her anything yet.
 qiecuomenu_7002=Let's see how well you really fight!
 qiecuomenu_7005=Calm down, Mister Zhang. It is not us, the Scholars, who killed Lord Xia. Listen to me.
-qiecuomenu_7007=<font face="Default" color="#ffffff" >Do you think you can get away after what you've done?</font>
 qiecuomenu_7008=Calm down, Master Dong.
 qiecuotitle_7002=<s>I will teach you Scholars how fierce we can get. Prepare yourself.
 qiecuotitle_7005=<s>You have to pay for what you did to my leader!
@@ -86,7 +83,6 @@ chooseinfo_7=<a href="findnpc_new,school03,WorldNpc03313" style="HLStype1">Xia Y
 choosemenu_15_1_1=I will tell Dong Yunbo immediately.
 choosemenu_15_2_1=Dong Yunbo is badly injured. I think it is better to tell Xia Yunhe first.
 choosemenu_22_1_1=The Wanderer's Valley disciples are probably hunting for Dong Yunbo.
-choosemenu_22_2_1=I think Wanderer's Valley is targeting Xia Wuyou first.
 choosemenu_25_1_1=Master Dong, you are our guest, and under our protection.
 choosemenu_25_2_1=Elder Sister Xia doesn't want to see you. Please leave.
 choosemenu_7_1_1=I see.<font face="Default" color="#8fd6ef" ></font>
@@ -97,13 +93,11 @@ choosetitle_25=They ran this far to get me? I was surprised. Thank you very much
 choosetitle_7=Someone has been stealing our flowers and herbs. Please help me deal with them.
 collectinfo_7001=Gather some <a href="findnpc_new,school03,Gather00002W" style="HLStype1">Insect Palpus Herb</a> from the outside.
 convoyinfo_7000=Giant Tripod Sect Disciples are coming! Help Dong Yunbo defeat them.
-convoyinfo_7001=The assassins are here. Protect Xia Wuyou.
 convoyinfo_7002=Protect Dong Yunbo from Zhang Chi's fury
 hunterinfo_7001=The Tripod Clan guard<a href="findnpc_new,school03,monrm030700" style="HLStype1"> Zhang Chi </a> dashed out at you. Defeat him.
 hunterinfo_7002=Defeat <a href="findnpc_new,school03,WorldNpc03372" style="HLStype1">Xia Wuyou</a>
 hunterinfo_7004=A <a href="findnpc_new,school03,monrm030900" style="HLStype1">Stranger</a> has blocked the road.
 hunterinfo_7005=Stop <a href="findnpc_new,school03,WorldNpc03373" style="HLStype1">Zhang Chi</a> from causing trouble at the gate.
-hunterinfo_7006=Defeat the <a href="findnpc_new,school03,monrm031100" style="HLStype1">Wanderer's Valley Spies</a>
 hunterinfo_7007=Defeat <a href="findnpc_new,school03,WorldNpc03441" style="HLStype1">Lu Yunxiao</a>
 hunterinfo_7008=Subdue mad <a href="findnpc_new,school03,WorldNpc03335" style="HLStype1">Dong Yunbo</a>
 interactinfo_7000=Give <a href="findnpc_new,school03,WorldNpc03313" style="HLStype1">Xia Yanhu</a> the Dance Costume.
@@ -129,7 +123,6 @@ interactinfo_7254=Talk to <a href="findnpc_new,school03,WorldNpc03306" style="HL
 interactinfo_7255=Help <a href="findnpc_new,school03,WorldNpc03335" style="HLStype1">Dong Yunbo </a>
 interactinfo_7256=Check on <a href="findnpc_new,school03,WorldNpc03372" style="HLStype1">Xia Wuyou</a>
 interactinfo_7257=Talk to <a href="findnpc_new,school03,WorldNpc03313" style="HLStype1">Xia Yanhu</a>
-interactinfo_7258=Protect <a href="findnpc_new,school03,WorldNpc03335" style="HLStype1">Dong Yunbo</a>.
 interactinfo_7259=Deliver the Jade Pendant to <a href="findnpc_new,school03,WorldNpc03314" style="HLStype1">Dai Yushu</a>
 interactinfo_7261=<a href="findnpc_new,school03,EventNpc46021" style="HLStype1">Lu Yunxiao</a> of Wanderer's Valley is visiting the Scholars. Ask him now.
 interactinfo_7262=Talk with <a href="findnpc_new,school03,WorldNpc03373" style="HLStype1"> Zhang Chi </a>.
@@ -159,7 +152,6 @@ okmenu_7254=I will go right now.
 okmenu_7255=I'm going now.
 okmenu_7256=Young Master Dong is a friend of the Scholars. You'd better leave before you have to beg for your life.
 okmenu_7257=Sister Xia, I have something bad to tell you.
-okmenu_7258=<font face="Default" color="#ffffff" >Someone is manipulating Thunderbolt Hall...and they will almost certainly kill to conceal their involvement. </font>
 okmenu_7262=Good. We are in agreement with each other now then.
 okmenu_7264=<font face="Default" color="#ffffff" >I knew it!</font>
 okmenu_7265=<font face="Default" color="#ffffff" >Ok.</font>
@@ -171,7 +163,6 @@ story_7001_2=<s>Although Sister Xia doesn't want to see Dong Yunbo now, if anyth
 story_7002_1=<s>We have no choice. Thunderbolt Hall will kill me if I tell you anything.
 story_7002_2=<s>Well... more than two hundred of our disciples were poisoned by Thunderbolt Hall. If we try to fight them, they will not give us the antidote.
 story_7003_1=<s>Thunderbolt Hall will never give the Tripod the antidote to prevent them from revenging. They want them dead.
-story_7003_2=<s>The rumor says that Wanderer's Valley absorbed Thunderbolt Hall and has been trying to get the Tripod in too, but they keep resisting. I think Wanderer's Valley is taking this opportunity to eradicate the Tripod Clan.
 story_7004_1=<s>My mother told me that my sister gone missing when she was a baby. I've tracked, bribed and threatened, but have never seen a trace of her…until now.
 story_7004_2=<s>Xia Yanhu greatly resembles my mother. If she is truly my sister, please tell her of the treasure I left for her in the care of Zhang Chi.
 story_7005_1=<s>It sounds just like an excuse.
@@ -214,7 +205,6 @@ storymenu_7003_2=<font face="Default" color="#ffffff" >That makes sense.</font>
 storymenu_7004_1=Do you have any clue about her now?
 storymenu_7004_2=I will ask our headmaster about Sister Xia for you.
 storymenu_7005_1=Please listen. I think the Wanderer's Valley is behind this.
-storymenu_7005_2=We have little evidence, but from the assassin's move, he must was sent by Wanderer's Valley.
 storymenu_7006_1=Wait, Lei Yuantang? The Leader of Thunderbolt Hall?
 storymenu_7006_2=That is indeed insightful, Master Dong. I will talk to Zhang Chi now.
 storymenu_7007_1=What about the other one?
@@ -228,4 +218,35 @@ useiteminfo_7001=Smash the <a href="TASK_ITEM,useitem_2w" style="HLStype1">unpro
 useiteminfo_7002_2=Use the <a href="TASK_ITEM,useitem_3w" style="HLStype1"> Golden Needle to heal </a> <a href="findnpc_new,school03,WorldNpc03335" style="HLStype1"> Dong Yunbo</a>.
 okmenu_7259=<font face="Default" color="#ffffff" >With this gift, Dong Yunbo swears to offer help to you, always.</font>
 story_7252_1=That's right. Back then when Xu Da obtained Wumu Script he gave it to Zhu Di. Later he had a disagreement with Zhu Yunwen and started a rebellion. I then obtained the Wumu Script during that state of turmoil when I was working for Lord Yan. I live here in seclusion because I do not want this script to fall into the wrong hands.
+DialogID_7062=We have to find a way to kill him anyway to get revenge for my brothers and remove a pest for the court!
+DialogID_7219=The killer? Haha! It is true that I killed a lot of people, but I never deny it.
+DialogID_7221=You came just in time. I was attacked last night and was badly injured... There is no doctor in this village. I have to ask you to go to Emei to get some medicine to heal my wounds. In addition, the ones who attacked me were probably the disciples of Emei. Maybe it was by someone's order. It's very strange. Please go and check it out.
+DialogID_7225=Spare my life. I'm just an agent of Royal Guards. The mastermind of the attack is now in Emei. Her name is Tang Chan, now under the alias of You Junchan.
+DialogID_7228=I was originally a disciple of Tangmen. Because of my love to a senior brother, I poisoned his enemy, but unexpectedly it became known. He even led people to kill me. I was forced to flee Tangmen to join the Royal Guards. Now I am placed in Emei as a spy to provoke the relationship between the factions. Now that the plan has failed and I am useless to Royal Guards, I have taken the poison. No need to kill me. When you see Tang Hanyu, please tell him that I never regret doing anything for him...
+DialogID_7258=<font face="Default" color="#ffffff" >What is the problem? Xia Wuyou is Wanderer Valley's target, not me.</font>
+DialogID_7264=<font face="Default" color="#ffffff"> I just heard that they've sent a group of assassins to kill me. Be careful, Young Hero. </font>
+QiecuoMenu_7007=<font face="Default" color="#ffffff" >Do you think you can get away after what you've done?</font>
+QiecuoMenu_7045=Do you want to tie up the loose ends?
+choosemenu_22_2_1=I think Wanderer's Valley is targeting Xia Wuyou first.
+collectinfo_7013=Kill <a href="findnpc_new,scene02,monf020600" style="HLStype1">Penglai Disciple</a> and see what comes out of it
+convoyinfo_7001=The assassins are here. Protect Xia Wuyou.
+convoyinfo_7033=Defeat Sima Ruoguang with soldiers
+hunterinfo_7006=Defeat the <a href="findnpc_new,school03,monrm031100" style="HLStype1">Wanderer's Valley Spies</a>
+hunterinfo_7223=Defeat <a href="findnpc_new,school05,monrm050003" style="HLStype1">Killers in Black</a>
+hunterinfo_7227=Kill <a href="findnpc_new,school05,monrm050003" style="HLStype1">Killers in Black</a>
+interactinfo_7258=Protect <a href="findnpc_new,school03,WorldNpc03335" style="HLStype1">Dong Yunbo</a>.
+okmenu_7258=<font face="Default" color="#ffffff" >Someone is manipulating Thunderbolt Hall...and they will almost certainly kill to conceal their involvement. </font>
+story_7003_2=<s>The rumor says that Wanderer's Valley absorbed Thunderbolt Hall and has been trying to get the Tripod in too, but they keep resisting. I think Wanderer's Valley is taking this opportunity to eradicate the Tripod Clan.
+story_7022_2=Those Blissful Forest Killers didn't actually come to kill me. I felt that the matter was exposed, and I didn't want to be implicated in Jianghu because of this. They came to kill Tang Jiu. He got to live because he wasn't there.
+story_7039_2=Shi Yanbing is kind by nature. I think he certainly will not strike first. It's just been so many years, so he might have changed.
+story_7211_1=I visited Miss Tang after you left. Unexpectedly I encountered someone attacking Miss Tang. I chased those assassins and lured them away. Fortunately, you came in time. Hurry up and protect Miss Tang. I will be just fine.
+story_7221_1=A Western Lama. I had already planned to spread the rumor that Riverside Scene At Qingming Festival was acquired by Nishang Palace, but I got carried away and wanted to get some money for it. I did not know that many in Jianghu were after it. I'm dying. This incident is a secret plan set up by Bai Suyu, the white haired hag, to eliminate Mei Yingxue, the master of Nishang Palace. I am not acting on my will either!
+story_7227_1=Hmph! How would I be alive till today if I didn't pretend to be deaf and dumb? My uncle secretly learned other martial arts and dealt with troubles later. If I hadn't found out earlier, how could I have escaped his clutches by pretending to be crazy and foolish?
+story_7231_1=I don't want revenge. But Liu Fang still doesn't give up. There must be a reason for not leaving here... Over the years, my uncle has taught us a lot of martial arts from other sects, but I still don't know what is on his mind.
+story_7232_1=I will find a way to get revenge on this matter. My revenge is not just for myself. It is for my teacher's daughter... My younger martial sister Zhou Leer...
+story_7235_1=Although I did not see the master killed with my own eyes like the younger sister, but I know the master too well. My master practiced martial arts only for health. His greatest passion in life is to play the lute, but this decade I have never heard him play a song. Afterwards disciples were attacked. That beast lured disciples from schools which martial arts he hasn't yet learned. After acquiring the disciple's martial arts, he killed them.
+storymenu_7005_2=We have little evidence, but from the assassin's move, he must was sent by Wanderer's Valley.
+storymenu_7032_1=What is the relationship between the attack on the Beggar's Sect Disciples and Yanbing?
+storymenu_7033_1=Yanbing usually treats us so well. Why would he randomly attack anyone?
+storymenu_7039_1=But Yanbing has not been out of the Scholars for more than a month, how can he be behind the attack?
 

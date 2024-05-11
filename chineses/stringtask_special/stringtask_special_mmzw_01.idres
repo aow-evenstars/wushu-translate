@@ -42,7 +42,6 @@ DialogID_71818=DialogID_71818
 DialogID_71819=<font face="Default" color="#ffffff" >Here’s all the intel I managed to collect. </font>
 DialogID_71820=<font face="Default" color="#ffffff" >Thieves prepared many traps in order to strike us from hiding. You must act according to circumstances. It is crucial to retrieve the Scripture! </font><font face="Default" color="#ffffff" >Keep these things against unexpected needs. </font>
 DialogID_71821=<font face="Default" color="#ffffff" >Keep these things</font><font face="Default" color="#ffffff" > against unexpected needs. </font>
-DialogID_71822=<font face="Default" color="#ffffff" >Our infiltrator reported the location of their leaders. Go and eliminate them! </font>
 DialogID_71823=<font face="Default" color="#ffffff" >These thieves are extremely cautious. Examine the imprisoned Emei Disciple’s cell. Inform us if you discover anything! </font><font face="Default" color="#ffffff" >Keep these things against unexpected needs. </font>
 DialogID_71876=<font face="Default" color="#ffffff" >Vats filled with clear water</font>
 DialogID_71878=<font face="Default" color="#ffffff" >Great. Looks like there is hope for Tangmen to revive. </font>
@@ -148,7 +147,6 @@ hunterinfo_71654=Defeat <a href="findnpc_new,city02,waiyuwulin_88_042" style="HL
 hunterinfo_71655=Defeat <a href="findnpc_new,city02,waiyuwulin_88_043" style="HLStype1">Ali Budan</a>
 hunterinfo_71656=hunterinfo_71656
 hunterinfo_71657=hunterinfo_71657
-hunterinfo_71658=hunterinfo_71658
 hunterinfo_71659=hunterinfo_71659
 hunterinfo_71660=hunterinfo_71660
 hunterinfo_71661=hunterinfo_71661
@@ -185,7 +183,6 @@ hunterinfo_71820=hunterinfo_71820
 hunterinfo_71821=Defeat <a href="findnpc_new,school02_mie,NPC_mm_dy_26" style="HLStype1">He Guan</a>
 hunterinfo_71822=Defeat <a href="findnpc_new,school02_mie,NPC_mm_dy_27" style="HLStype1">Xiahou Bao</a>
 hunterinfo_71823=Defeat <a href="findnpc_new,school02_mie,NPC_mm_dy_28" style="HLStype1">Sikou Yicheng</a>
-hunterinfo_71824=The <a href="findnpc_new,school05_mie,mie_taskboss_001" style="HLStype1">Patrol Bodyguard</a> spotted you! Quickly eliminate him to avoid getting exposed!
 hunterinfo_71825=Defeat <a href="findnpc_new,,NPC_mm_dy_32" style="HLStype1">NPC_mm_dy_32</a>
 hunterinfo_71826=Defeat <a href="findnpc_new,,NPC_mm_dy_33" style="HLStype1">NPC_mm_dy_33</a>
 hunterinfo_71827=Defeat <a href="findnpc_new,,NPC_mm_dy_34" style="HLStype1">NPC_mm_dy_34</a>
@@ -242,15 +239,8 @@ interactinfo_71876=Find the First <a href="findnpc_new,school05_mie,mie_tm_007" 
 interactinfo_71878=Vats are now poisoned. Report to <a href="findnpc_new,school05_mie,mie_tm_005" style="HLStype1">Zhen Yehui</a>
 interactinfo_71879=Find the Second <a href="findnpc_new,school05_mie,mie_tm_008" style="HLStype1">Water Vat</a> and poison the water.
 interactinfo_71880=Find the Third <a href="findnpc_new,school05_mie,mie_tm_009" style="HLStype1">Water Vat</a> and poison the water.
-interactinfo_71881=Defeat Zhang Renchen (Foreign Expert)
 interactinfo_71882=Discuss the illegally kept Authentic Calligraphy matter with <a href="findnpc_new,school03_mie,mie_jz_002" style="HLStype1">He Yunshi</a>
-interactinfo_71883=Defeat Xiahou Quanhong (Foreign Expert)
 interactinfo_71884=Pang Xianhong (Foreign Expert)
-interactinfo_71885=Defeat Xuanyuan Cewei (Foreign Expert)
-interactinfo_71886=Defeat Dou Ganghou (Foreign Expert)
-interactinfo_71887=Defeat Linghu Guangyi (Foreign Expert)
-interactinfo_71888=Defeat Wei Chenxiang (Foreign Expert)
-interactinfo_71889=Defeat Ju Xuechao (Foreign Expert)
 interactinfo_71890=Someone is calling for help! <a href="findnpc_new,school07_mie,NPC_mm_dy_35" style="HLStype1">Go and check it out</a>
 okmenu_71651=<font face="Default" color="#ffffff" >You must be from afar. What are you carrying in the carts? </font>
 okmenu_71652=<font face="Default" color="#ffffff" >You are absolutely right. </font>
@@ -296,7 +286,6 @@ okmenu_71821=<font face="Default" color="#ffffff" >I understand.</font>
 okmenu_71822=<font face="Default" color="#ffffff" >It will be done! </font>
 okmenu_71823=<font face="Default" color="#ffffff" >Understood.</font>
 okmenu_71876=<font face="Default" color="#ffffff" >Poison the water</font>
-okmenu_71878=<font face="Default" color="#ffffff" >It is done.</font><font face="Default" color="#ffffff" >Witnesses have been dealt with. No one will find anything out. </font>
 okmenu_71879=<font face="Default" color="#ffffff" >Poison the water</font>
 okmenu_71880=<font face="Default" color="#ffffff" >Poison the water</font>
 okmenu_71882=<font face="Default" color="#ffffff" > I'm on it. </font>
@@ -357,4 +346,15 @@ SubmitNpcEx_71701=Submit the task to <a href="findnpc_new,school01_mie,mie_jyw_0
 SubmitNpcEx_71702=Submit the task to <a href="findnpc_new,school05_mie,mie_tm_005" style="HLStype1">Zhen Yehui</a>
 SubmitNpcEx_71703=Submit the task to <a href="findnpc_new,school04_mie,mie_jl_001" style="HLStype1">Zhuge Hao</a>
 SubmitNpcEx_71704=Submit the task to <a href="findnpc_new,school03_mie,mie_jz_002" style="HLStype1">He Yunshi</a>
+DialogID_71822=<font face="Default" color="#ffffff" >Our infiltrator reported the location of their leaders. Go and eliminate them! </font>
+hunterinfo_71658=Defeat foreign wulin killers in the occupied schools
+hunterinfo_71824=The <a href="findnpc_new,school05_mie,mie_taskboss_001" style="HLStype1">Patrol Bodyguard</a> spotted you! Quickly eliminate him to avoid getting exposed!
+interactinfo_71881=Defeat Zhang Renchen (Foreign Expert)
+interactinfo_71883=Defeat Xiahou Quanhong (Foreign Expert)
+interactinfo_71885=Defeat Xuanyuan Cewei (Foreign Expert)
+interactinfo_71886=Defeat Dou Ganghou (Foreign Expert)
+interactinfo_71887=Defeat Linghu Guangyi (Foreign Expert)
+interactinfo_71888=Defeat Wei Chenxiang (Foreign Expert)
+interactinfo_71889=Defeat Ju Xuechao (Foreign Expert)
+okmenu_71878=<font face="Default" color="#ffffff" >It is done.</font><font face="Default" color="#ffffff" >Witnesses have been dealt with. No one will find anything out. </font>
 

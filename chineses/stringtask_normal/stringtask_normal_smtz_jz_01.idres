@@ -41,7 +41,6 @@ complete_86917=You performed an exceptionally meritorious service. I will give y
 complete_86918=I didn't expect that you could find so many orchids. Well done.
 complete_86919=<font face="Default" color="#ffffff">   </font><font face="Default" color="#ffffff">I don't know whether Suzhou still in peace?</font>
 complete_86920=<font face="Default" color="#ffffff">You did a good job this time. I'm gratified.</font>
-context_86900=Although Zhao Ziji was cruel, he has done his best to atone for his crimes. He does not deserve his enemies' vengeance. Go to Twilight Village and protect Zhao Ziji's family.
 context_86901=Infiltrate the Shenfeng Gang with friends to investigate their ties with the mysterious organization.
 context_86902=Go to each big city and town to acquire books and scrolls, so that we may study and protect them.
 context_86904=Here is a material list. I hope you can collect all the goods our school needs.
@@ -53,7 +52,6 @@ context_86911=Iinvestigate the strange behavior of the Shen family.
 context_86912=Though the Disciples of our Scholars are not very proficient in Painting and Calligraphy, they have at least specialized in some major. As the Disciples of Scholars, you will not deserve the title of "Gentleman" of character if you do not have such a classical and elegant interest. If they have made some progress in their major, you might copy some as well and hand it to Leader to ask for advice.
 context_86913=Go to Mother Dragon Imperial Ancestral Temple and disperse the sorcerers who are taking refuge there.
 context_86914=Go to Twilight Village and reclaim the Scholars token that was presented to Wei Buji. He is a reprehensible criminal.
-context_86916=A Wanderer's Valley killer named Yue Shiqun has commenced a massacre at the foot of the mountain. Quickly kill him and his subordinates.
 context_86917=Chase off the Spirit Monkeys, but do not kill them!
 context_86919=Mr. Yanbing has received the message that someone has intended to stir up the wars among the Schools in Suzhou. If this Plot succeeds, the calamity will fall on the Suzhou Civilians again. As the Scholars Servant, you should not let it happen. You shall hurry to Suzhou and convey this message to the Suzhou Prefecture Magistrate, officer Kuang Zhong. This trip may not be peaceful. You must be cautious.
 next_86900=
@@ -93,13 +91,10 @@ target_86905=Challenge the Martial Arts Club of Tiger Roaring Villa successfully
 target_86906=Collect Bamboo Shoots.
 target_86907=Finish the school patrol for one time.
 target_86908=Complete the task of spying on the Sect.
-target_86909=Kill Bao Mengjie of Green Cloud Castle (Common Mode) and find out the mystery of man-killing butterfly.
 target_86910=Kill Ye Loukai of Twilight Village (Common Mode).
 target_86911=Golden Needle Sect has challenged the Martial Arts Club successfully once.
 target_86912=Collect <a href="findnpc_new,," style="HLStype1"></a> 5 copies of Paintings of "Xiuye Pavilion."
 target_86913=Drive away the sorcerer
-target_86914=Kill Wei Buji and retrieve the Scholars Token.
-target_86916=Repel Yue Shiqun and the Wanderer's Valley Killers.
 target_86917=Chase off the Spirit Monkeys and discover what is driving them.
 target_86918=Collect Orchids.
 target_86919=Convey the message to Suzhou Prefecture Magistrate.
@@ -130,13 +125,10 @@ CanAcceptMenu_86923=<font face="Default" color="#ffffff" >Green Cloud Castle Cas
 CompleteMenu_86921=<font face="Default" color="#ffffff" >Fulfill the task.</font>
 CompleteMenu_86922=<font face="Default" color="#ffffff" >Fulfill the task.</font>
 CompleteMenu_86923=<font face="Default" color="#ffffff" >Fulfill the task.</font>
-accept_86922_1=<font face="Default" color="#ffffff" >   Zhao Ziji gave up his evil ways and was living in Twilight Village when he rescued a shopkeeper. His former enemies have been after him, hurting innocent people. You've got to do something about it.</font><font face="Default" color="#ffffff" ></font><font face="Default" color="#ffffff" ></font>
 accept_86923_1=<font face="Default" color="#ffffff" >  Both Luoyang City and Longmen Grottoes are so appealing that one can barely tear oneself away from them. However, the other day some disciple reported that the master of a study in Luoyang died mysteriously. His wife, Mrs. Shi, presented her treasured ancient books to the Scholar's Academy as a reward and asked me to conduct a thorough investigation into it so as to make </font><font face="Default" color="#ffffff" >her deceased </font><font face="Default" color="#ffffff" >husband rest in peace. I hope you can go and help her.</font>
 complete_86921=<font face="Default" color="#ffffff" >   Well done. Although Scholar's Academy never involves itself in conflict, our reputation cannot be destroyed.</font>
 complete_86922=<font face="Default" color="#ffffff" >   Well done. I wish the Jiangnan could retain the appearance of the heavens.</font>
 complete_86923=<font face="Default" color="#ffffff" >   The ancient books Shi gave us are good. You must be exhausted. Go rest.</font>
-context_86922=Zhao Ziji gave up his evil ways and was living in Twilight Village when he rescued a shopkeeper. His former enemies have been after him, hurting innocent people. You've got to do something about it.
-context_86923=Both Luoyang City and Longmen Grottoes are so appealing that one can barely tear oneself away from them. However, the other day some disciple reported that the master of a study in Luoyang died mysteriously. There was only a letter of several pages about the butterflies of Green Cloud Castle killing people. His wife, Mrs. Shi, presented her treasured ancient books to Scholar's Academy as a reward and asked me to conduct a thorough investigation into it so as to make her deceased husband rest in peace. I hope you can go and help her.
 menu_86921_1=<font face="Default" color="#ffffff" >I'll do exactly what you asked me to do, master.</font>
 menu_86922_1=<font face="Default" color="#ffffff" >I'll do exactly what you asked me to do, master.</font>
 menu_86923_1=<font face="Default" color="#ffffff" >I'll do exactly what you asked me to do, master.</font>
@@ -147,13 +139,11 @@ submit_86921=<font face="Default" color="#ffffff" >Yes, master.</font>
 submit_86922=<font face="Default" color="#ffffff" >You are right, master...</font>
 submit_86923=<font face="Default" color="#ffffff" >Yes, master.</font>
 target_86922=Go to Suzhou to investigate the Twilight Village incident and handle it properly.
-target_86923=Investigate the incident of butterflies killing people and go through the test of Green Cloud Castle Forbidden Area.
 title_86921=Huanhua Washing Sword
 title_86922=Beautiful Song in Twilight Village
 title_86923=Green Cloud Castle Mysterios Case
 context_86903=Many sects are wary of us despite our ambivalence to their conflicts. Go on patrol to prevent spies from gathering intelligence on us.
 context_86906=Collect as many bamboo shoots as possible, and give them to a school. A banquet is being prepared.
-context_86909=Go to Green Cloud Castle with friends, and investigate the butterfly murder. Bao can give you a clue.
 context_86918=While wandering, collect orchids of all kinds. They are valuable, and you will be rewarded greatly for them.
 CanAcceptMenu_86924=<font face="Default" color="#ffffff" >School experience</font>
 CanAcceptMenu_86925=<font face="Default" color="#ffffff" >School experience</font>
@@ -195,10 +185,20 @@ title_86925=School experience
 title_86926=School experience
 title_86927=Brother referral
 accept_86921_1=<font face="Default" color="#ffffff" >   Disciples of the Scholar's academy in Chengdu have come into conflict with Huanhua Sword Sect. Go to Chengdu and investigate. Talk to Dongfang Lingshao once you get there.</font><font face="Default" color="#ffffff" ></font><font face="Default" color="#ffffff" ></font>
-context_86915=The Xingxiu Sect has collaborated with evil sects to attack our disciples. This must stop.
 context_86920=The Mount Song Sword Sect has associated with an evil force. Even though we do not usually involve ourselves in conflict, this is important, and we must investigate.
 context_86921=The Huanhua Sword Sect has been insulting us. Our reputation is very important; we can't let this go.
 target_86915=Finish challenging Martial Arts Club of Xingxiu Sect.
 target_86920=Accomplish the force challenge to Mount Song Sword Sect.
 target_86921=Investigate the conflict between Scholar's Academy and Huanhua Sword Sect and handle it properly.
+accept_86922_1=<font face="Default" color="#ffffff" >   Zhao Ziji gave up his evil ways and was living in Twilight Village when he rescued a shopkeeper. His former enemies have been after him, hurting innocent people. You've got to do something about it.</font><font face="Default" color="#ffffff" ></font><font face="Default" color="#ffffff" ></font>
+context_86900=Although Zhao Ziji was cruel, he has done his best to atone for his crimes. He does not deserve his enemies' vengeance. Go to Twilight Village and protect Zhao Ziji's family.
+context_86909=Go to Green Cloud Castle with friends, and investigate the butterfly murder. Bao can give you a clue.
+context_86915=The Xingxiu Sect has collaborated with evil sects to attack our disciples. This must stop.
+context_86916=A Wanderer's Valley killer named Yue Shiqun has commenced a massacre at the foot of the mountain. Quickly kill him and his subordinates.
+context_86922=Zhao Ziji gave up his evil ways and was living in Twilight Village when he rescued a shopkeeper. His former enemies have been after him, hurting innocent people. You've got to do something about it.
+context_86923=Both Luoyang City and Longmen Grottoes are so appealing that one can barely tear oneself away from them. However, the other day some disciple reported that the master of a study in Luoyang died mysteriously. There was only a letter of several pages about the butterflies of Green Cloud Castle killing people. His wife, Mrs. Shi, presented her treasured ancient books to Scholar's Academy as a reward and asked me to conduct a thorough investigation into it so as to make her deceased husband rest in peace. I hope you can go and help her.
+target_86909=Kill Bao Mengjie of Green Cloud Castle (Common Mode) and find out the mystery of man-killing butterfly.
+target_86914=Kill Wei Buji and retrieve the Scholars Token.
+target_86916=Repel Yue Shiqun and the Wanderer's Valley Killers.
+target_86923=Investigate the incident of butterflies killing people and go through the test of Green Cloud Castle Forbidden Area.
 

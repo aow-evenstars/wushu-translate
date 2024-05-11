@@ -74,7 +74,6 @@ hunterinfo_58502=擊退黑風山罪惡的源頭<a href="findnpc_new,school04,Wor
 hunterinfo_58503=與<a href="findnpc_new,city05,cd500" style="HLStype1">程影</a>切磋，證明自身實力
 hunterinfo_58504=擊敗前來截取情報的<a href="findnpc_new,school04,monrm040109" style="HLStype1">朝廷爪牙</a>
 hunterinfo_58505=擊敗真正的兇手，<a href="findnpc_new,city05,cd507" style="HLStype1">少林達摩院高手</a>，撕下其虛偽的面具
-hunterinfo_58506=擊殺<a href="findnpc_new,city05,monrc055725" style="HLStype1">少林弟子</a>，為死去的極樂谷兄弟報仇
 hunterinfo_58507=與<a href="findnpc_new,school04,WorldNpc03885" style="HLStype1">長壽亭護衛</a>切磋武藝
 hunterinfo_58508=與<a href="findnpc_new,school04,WorldNpc03871" style="HLStype1">極樂劍陣護衛</a>切磋武藝
 hunterinfo_58509=與<a href="findnpc_new,school04,WorldNpc03849" style="HLStype1">屍壇弟子</a>切磋武藝
@@ -123,10 +122,8 @@ okmenu_58519=<font face="Default" color="#ffffff" >還不快滾！</font>
 okmenu_58520=<font face="Default" color="#ffffff" >既如此，那動手便是。</font>
 specialinfo_120=去沈家堡攪得他們雞犬不寧！
 specialinfo_121=通關暮色村（任意難度），阻止趙子亟
-specialinfo_270=通關青雲堡禁地（任意難度），找出蝴蝶殺人的秘密
 specialinfo_271=前去各大城市的鏢局，並成功運鏢，為極樂谷籌集些物資
 specialinfo_273=完成對虎嘯山莊的勢力挑戰，試探其武功和實力如何
-specialinfo_274=擊殺前來刺探的歹人，並收集情報
 specialinfo_275=去武當收集情報回來，切記不要被他們識破了
 specialinfo_276=去購買迷藥迷暈一個打工的人，然後將之綁架
 specialinfo_277=隨後將其賣給黑市商人，收集錢財
@@ -135,23 +132,16 @@ specialinfo_364=挑戰虎嘯山莊
 specialinfo_365=通關暮色村
 specialinfo_366=通關青雲堡
 story_58501_1=<font face="Default" color="#ffffff" >   </font><font face="Default" color="#ffffff" >{@IDName:Player}，我已久候多時，我將這次任務的前因後果說與你聽。</font>
-story_58501_2=<font face="Default" color="#ffffff" >當年名震江湖的殺手趙子亟隱居暮色之村，為救酒店掌櫃孟夢而不得已使出武功，昔日的仇家得知後紛紛前來此地尋釁</font><font face="Default" color="#ffffff" >……</font>
 story_58501_3=<font face="Default" color="#ffffff" >   </font><font face="Default" color="#ffffff" >只是此人當年曾殘害我極樂谷弟子不止一人，而韓似錦也傳信求援，稱事成之後，賞金優厚。機不可失，還望你能速去暮色之村協助韓似錦捉拿趙子亟！</font>
 story_58502_1=<font face="Default" color="#ffffff" >武當傳訊江湖各派，言明虎嘯山莊近來暗中有所異動，似乎是與西夏一品堂有所關聯，此事我極樂谷不可不防。</font>
 story_58502_2=<font face="Default" color="#ffffff" >莫要過早便下定論。而今你先前往虎嘯山莊，務要將此事打探清楚，而後再做決定。</font>
-story_58503_1=<font face="Default" color="#ffffff" >江湖傳言暮色之村發現趙子亟身影，此人數年前曾是令江湖人聞風喪膽的冷血殺手，然而卻與我有過一面之緣，我觀此人並非窮凶極惡之徒，所以曾出手相助於他。</font>
 story_58503_2=<font face="Default" color="#ffffff" >正是此人！我命你速去蘇州查明事情原委，看看這傳言之中的趙子亟是否是當年那人。一有消息，速速回稟。</font>
 story_58504_1=<font face="Default" color="#ffffff" >江湖人？前些日子倒是有一批江湖人士來到我們這裡。這些人一個個凶神惡煞的，似乎還和官府有些來往。</font>
 story_58504_2=<font face="Default" color="#ffffff" >嗨！這也不是什麼事兒！他們那都是來暮色之村找一個叫什麼趙子亟的人的。這夥人好像是什麼錫山什麼韓家的人，說是為了數年前的一樁滅門之案而來的。這些人啊，去暮色之村也有幾天了，官府也不讓我們打聽。</font>
 story_58505_1=<font face="Default" color="#ffffff" >若真如此，只怕這暮色之村的無辜村民凶多吉少啊。這韓似錦已被仇恨蒙蔽雙眼。此番行事，定會不擇手段。</font>
 story_58505_2=<font face="Default" color="#ffffff" >你即可趕往暮色之村，想辦法從韓似錦手中救下趙子亟，而今之事，只能盡人事聽天命了。</font>
-story_58506_1=<font face="Default" color="#ffffff" >這蝴蝶殺人一事疑點甚多，只怕並非我們所見那樣。我擔心此事另有陰謀。</font>
-story_58506_2=<font face="Default" color="#ffffff" >這蝴蝶殺人之事在我極樂谷書籍之中也有記載，不過卻與今次青雲堡之事大為不同，我是怕有人會借此生事。你且前去青雲堡附近，速速打探此事，有何發現立時回稟，莫要擅自做主！</font>
-story_58507_1=<font face="Default" color="#ffffff" >而今青雲堡中蝴蝶殺人之事頻發，閣下還是莫要來此。</font>
 story_58507_2=<font face="Default" color="#ffffff" >在下好言相勸，是為閣下性命著想，如果閣下一意孤行，若是在這青雲堡中丟了性命，那邊是咎由自取了！</font>
-story_58508_1=<font face="Default" color="#ffffff" >哼！欲蓋彌彰，這青雲堡中定是有什麼見不得人的勾當。如若不然有何必大肆宣揚著蝴蝶殺人之事，阻攔江湖人士一探究竟。</font>
 story_58508_2=<font face="Default" color="#ffffff" >強行入堡！今番前往定要將一切查明！既然人人都認為我極樂谷行事狠辣，那我們便讓他們看看，我極樂谷弟子想要進入的地方，又有何人能夠阻攔！</font>
-story_menu_58501=<font face="Default" color="#ffffff" >可惡殺手</font>
 story_menu_58502=<font face="Default" color="#ffffff" >不知谷主有何吩咐？</font>
 story_menu_58503=<font face="Default" color="#ffffff" >不知谷主有何要事？</font>
 story_menu_58504=<font face="Default" color="#ffffff" >小二哥，近來可有什麼江湖人在蘇州出現啊？</font>
@@ -178,7 +168,6 @@ storymenu_58504_1=<font face="Default" color="#ffffff" >哦？小二哥可否給
 storymenu_58504_2=<font face="Default" color="#ffffff" >原來如此，麻煩小二哥了。</font>
 storymenu_58505_1=<font face="Default" color="#ffffff" >不知如今我們應當如何？</font>
 storymenu_58505_2=<font face="Default" color="#ffffff" >弟子明白。</font>
-storymenu_58506_1=<font face="Default" color="#ffffff" >這蝴蝶殺人雖然離奇，可弟子覺得谷主是否多慮了？</font>
 storymenu_58506_2=<font face="Default" color="#ffffff" >弟子領命。</font>
 storymenu_58507_1=<font face="Default" color="#ffffff" >哦？在下正是好奇此事，才特意前來想要一探究竟。</font>
 storymenu_58507_2=<font face="Default" color="#8fd6ef" >（此人口氣不善，只怕另有原因，還是盡快回稟谷主為是。）</font>
@@ -199,4 +188,15 @@ collectinfo_58507=收集足夠的紅粉白株（毒師採集而得，各場景�
 DialogID_58510=<font face="Default" color="#ffffff" >   浣花山莊自恃名門正派，總是對我極樂谷出言不遜，</font><font face="Default" color="#ffffff" >平日裡衝突不斷，</font><font face="Default" color="#ffffff" >是可忍孰不可忍，你去給他們點顏色瞧瞧。</font>
 specialinfo_272=完成對浣花山莊的勢力挑戰，讓他們見識見識極樂谷不是那麼好欺負的
 specialinfo_335=完成對嵩山鐵劍門的勢力挑戰
+hunterinfo_58506=攻克<a href="findnpc_new,city05,monrc055725" style="HLStype1">少林弟子</a>，為死去的極樂谷兄弟報復
+specialinfo_270=通關青雲堡禁地（任意難度），找出蝴蝶攻克的秘密
+specialinfo_274=攻克前來刺探的歹人，並收集情報
+story_58501_2=<font face="Default" color="#ffffff" >當年名震江湖的隱衛趙子亟隱居暮色之村，為救酒店掌櫃孟夢而不得已使出武功，昔日的仇家得知後紛紛前來此地尋釁</font><font face="Default" color="#ffffff" >……</font>
+story_58503_1=<font face="Default" color="#ffffff" >江湖傳言暮色之村發現趙子亟身影，此人數年前曾是令江湖人聞風喪膽的冷血隱衛，然而卻與我有過一面之緣，我觀此人並非窮凶極惡之徒，所以曾出手相助於他。</font>
+story_58506_1=<font face="Default" color="#ffffff" >這蝴蝶攻克一事疑點甚多，只怕並非我們所見那樣。我擔心此事另有陰謀。</font>
+story_58506_2=<font face="Default" color="#ffffff" >這蝴蝶攻克之事在我極樂谷書籍之中也有記載，不過卻與今次青雲堡之事大為不同，我是怕有人會借此生事。你且前去青雲堡附近，速速打探此事，有何發現立時回稟，莫要擅自做主！</font>
+story_58507_1=<font face="Default" color="#ffffff" >而今青雲堡中蝴蝶攻克之事頻發，閣下還是莫要來此。</font>
+story_58508_1=<font face="Default" color="#ffffff" >哼！欲蓋彌彰，這青雲堡中定是有什麼見不得人的勾當。如若不然有何必大肆宣揚著蝴蝶攻克之事，阻攔江湖人士一探究竟。</font>
+story_menu_58501=<font face="Default" color="#ffffff" >可惡隱衛</font>
+storymenu_58506_1=<font face="Default" color="#ffffff" >這蝴蝶攻克雖然離奇，可弟子覺得谷主是否多慮了？</font>
 

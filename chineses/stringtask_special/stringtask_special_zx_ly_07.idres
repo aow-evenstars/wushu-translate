@@ -51,13 +51,11 @@ hunterinfo_13152=Kill <a href="findnpc_new,city02,monrc012100" style="HLStype1">
 hunterinfo_13153=Defeat <a href="findnpc_new,city02,WorldNpc01809" style="HLStype1">Niu Zhao</a>.
 hunterinfo_13154=Defeat <a href="findnpc_new,city02,monrc012200" style="HLStype1">Murong Manor Hatchet Man</a>.
 hunterinfo_13155=Defeat <a href="findnpc_new,city02,WorldNpc01320" style="HLStype1">Leu Guitong</a>.
-hunterinfo_13156=Kill <a href="findnpc_new,city02,monrc012300" style="HLStype1">killer in black</a>.
 hunterinfo_13157=Defeat <a href="findnpc_new,city03,monrc030700" style="HLStype1">Plum Blossom Sect Disciple</a>.
 hunterinfo_13158=Defeat <a href="findnpc_new,city03,WorldNpc11022" style="HLStype1">Chai Zhenwei</a>.
 hunterinfo_13159=Defeat <a href="findnpc_new,city03,WorldNpc11024" style="HLStype1">Huan Rou</a>.
 hunterinfo_13160=Defeat <a href="findnpc_new,city03,WorldNpc11025" style="HLStype1">Fang Qing</a>.
 hunterinfo_13161=Defeat <a href="findnpc_new,city02,WorldNpc01811" style="HLStype1">Ju Ce</a>.
-hunterinfo_13162=Kill <a href="findnpc_new,city02,monrc012400" style="HLStype1">Royal Guard Assassin</a>.
 hunterinfo_13164=Kill <a href="findnpc_new,city02,monrc012500" style="HLStype1">Cai Yi</a>.
 hunterinfo_13165=Kill <a href="findnpc_new,city02,monrc012600" style="HLStype1">Murong Villa Swordman</a>.
 interactinfo_13151=Talk with <a href="findnpc_new,school07,WorldNpc04401" style="HLStype1">Immortal Ziyang.</a>
@@ -120,7 +118,6 @@ story_13154_2=Murong Qianqiu is deceitful hypocrite. Rumor says that Murong Fami
 story_13155_1=I confess. It's all Murong Qianqiu's conspiracy. Murong Family wants to expand its influence by political marriage with the other families. But the ladies in Murong Family refuse to marry like this. So Murong Qianqiu comes up with this idea, so that the ladies can't refuse. And at the same time, it also brings attention to Murong Family's enemies and jianghu people will help him revenge. It kills two birds with one stone.
 story_13155_2=The fifth lady was guarded by the Royal Guard.
 story_13156_1=My name is Cuier.
-story_13156_2=(Crying) My lady was locked up by the Royal Guard. Yesterday after they fell asleep, she and I tried to escape but got caught. Then she was killed in order to save me. Please help my lady revenge.
 story_menu_13151=Monk Borrowing Treasure
 story_menu_13152=Massacre in Murong
 story_menu_13153=Cui Er the Maid
@@ -144,6 +141,9 @@ storymenu_13154_2=Thank you for the reminder.
 storymenu_13155_1=Where is the fifth lady now?
 storymenu_13155_2=Murong Family really colludes with the Royal Guard.
 storymenu_13156_1=Cuier? Are you fifth lady's maid? Where is the lady?
-storymenu_13156_2=She is dead? I will revenge for her.
 useiteminfo_13151=Use <a href="TASK_ITEM,useitem_105m" style="HLStype1">blue jade pill</a>.
+hunterinfo_13156=Kill <a href="findnpc_new,city02,monrc012300" style="HLStype1">killer in black</a>.
+hunterinfo_13162=Kill <a href="findnpc_new,city02,monrc012400" style="HLStype1">Royal Guards Assassin</a>.
+story_13156_2=(Crying) My lady was locked up by the Royal Guard. Yesterday after they fell asleep, she and I tried to escape but got caught. Then she was killed in order to save me. Please help my lady revenge.
+storymenu_13156_2=She is dead? I will revenge for her.
 

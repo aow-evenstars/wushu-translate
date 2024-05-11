@@ -60,7 +60,6 @@ specialinfo_245=Challenge Baodu Stronghold and look for the kidnapped women
 specialinfo_246=Successfully complete one escort task
 specialinfo_248=Join in School patrol, and gather intelligence. It would be better if you can catch the spies of other sects.
 specialinfo_249=Spy on Wanderer's Valley and gather some intelligence
-specialinfo_250=Deal with the notable court criminal. It would be preferable to catch him alive.
 specialinfo_253=Rescue the hostages from the kidnappers
 specialinfo_255=Challenge Tiger Roaring Villa, and defeat them, prevent their farce of casting Soul depriving sward.
 specialinfo_256=Challenge Golden Needle Sect, and defeat them, find out the truth related to Ghost Dance Book.
@@ -68,7 +67,6 @@ useiteminfo_58101=Use <a href="TASK_ITEM,useitem_emtz_001" style="HLStype1">Refr
 useiteminfo_58102=According to Ugly Girl's will, place <a href="TASK_ITEM,useitem_emtz_002" style="HLStype1">Green Heart Jade Bracelet</a>on the wrist of her sister's daughter<a href="findnpc_new,school06,WorldNpc02930" style="HLStype1">Xiao Tao's </a>, leaving it as a memory.
 DialogID_58110=<font face="Default" color="#ffffff" >If you want to enter Tiger Roaring Villa, I'm afraid you have no choice but to break in by force. </font>
 DialogID_58111=<font face="Default" color="#ffffff" >Elder, do you know anything about the recent Luoyang butterfly murder?</font>
-DialogID_58112=<font face="Default" color="#ffffff" >It must not be so simple. You immediately go to Green Cloud Castle and find out the truth of the Butterfly Murder and also the schemer behind it, by all means.</font>
 SubmitNpcEx_86621=Tell Headmaster<a href="findnpc_new,school06,WorldNpc02604" style="HLStype1">Abbess Juechen</a> what you have found out
 SubmitNpcEx_86622=Report to Headmaster<a href="findnpc_new,school06,WorldNpc02604" style="HLStype1">Abbess Juechen</a> what you have known.
 SubmitNpcEx_86623=Tell Headmaster<a href="findnpc_new,school06,WorldNpc02604" style="HLStype1">Abbess Juechen</a> what you have found out
@@ -82,13 +80,10 @@ okmenu_58111=<font face="Default" color="#ffffff" >No. No. No...I know nothing. 
 okmenu_58112=<font face="Default" color="#ffffff" >I see.</font>
 specialinfo_596=Pass Tiger Roaring Villa; find out the scheme
 specialinfo_597=Twilight Village is off limits.
-specialinfo_598=Green Cloud Castle is off limits; find out the truth of Butterfly Murder
 story_58101_1=<font face="Default" color="#ffffff" >Immortal Ziyang told me that a lot of strange occurrences have been going on in Tiger Roaring Villa. Let's go and and investigate.</font>
 story_58102_1=<font face="Default" color="#ffffff" >I'll need you to quickly drive away some thieves along the mountain. We cannot afford for them to ruin the Emei reputation. </font>
 story_58103_1=<font face="Default" color="#ffffff" >Truly evil men should not be let off so easily.</font>
-story_58103_2=<font face="Default" color="#ffffff" >I'll need you to leave for Suzhou and track down the notorious killer Zhao Ziji. We must make sure he does not escape this time.  </font>
 story_58104_1=<font face="Default" color="#ffffff" >Zhao Ziji? Is it the Zhao Ziji that the Han Family asked about? Right now this guy is hiding in Twilight Village. Are you looking for him? I'm afraid you cannot find him. I heard he is an enemy of the Han Family. Han Family has left for Twilight Village to look for him.</font>
-story_58105_1=<font face="Default" color="#ffffff" >The rumors about the recent butterfly murders in Luoyang City appear to indicate the work of some evil sect. I need you to investigate.  </font>
 story_menu_58101=<font face="Default" color="#ffffff" >What do you want me to do, Headmaster?</font>
 story_menu_58102=<font face="Default" color="#ffffff" >What can I do for you, Headmaster?</font>
 story_menu_58103=<font face="Default" color="#ffffff" >Report Headmaster, I have found the letter.</font>
@@ -120,4 +115,9 @@ specialinfo_251=Challenge the Beasts Mountain Villa
 specialinfo_252=Challenge Xingxiu Sect, and defeat them, preventing them from taming bone-chewing termites.
 specialinfo_254=Challenge the Huanhua Sword Sect.
 specialinfo_331=Challenge Mount Song Sword Sect.
+DialogID_58112=<font face="Default" color="#ffffff" >It must not be so simple. You immediately go to Green Cloud Castle and find out the truth of the Butterfly Murder and also the schemer behind it, by all means.</font>
+specialinfo_250=Deal with the notable court criminal. It would be preferable to catch him alive.
+specialinfo_598=Green Cloud Castle is off limits; find out the truth of Butterfly Murder
+story_58103_2=<font face="Default" color="#ffffff" >I'll need you to leave for Suzhou and track down the notorious killer Zhao Ziji. We must make sure he does not escape this time.</font>
+story_58105_1=<font face="Default" color="#ffffff" >The rumors about the recent butterfly murders in Luoyang City appear to indicate the work of some evil sect. I need you to investigate.</font>
 

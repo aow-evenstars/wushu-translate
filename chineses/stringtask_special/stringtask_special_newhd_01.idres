@@ -91,7 +91,6 @@ SubmitNpcEx_70024=Find <a href="findnpc_new,scene16,newworld_shengsipan_001" sty
 SubmitNpcEx_70025=Go to the Temple of the Old Matchmaker. Ask <a href="findnpc_new,city05,hd_2015qx_001" style="HLStype1">Lady Zhi</a> for her blessings.
 SubmitNpcEx_70026=Go to the Temple of the Old Matchmaker. Ask <a href="findnpc_new,city05,hd_2015qx_002" style="HLStype1">Seventh Sister</a> for her blessings.
 interactinfo_60000=Transport as much material to the designated area of your side as you can, while preventing your enemies from doing the same.
-interactinfo_60006=Kill Puppets (Leaders)
 specialinfo_1124=Find <a href="findnpc,born03,802,3,1786" style="HLStype1">You Ruo (Eastern Seas conflict guide)</a> and choose to join either "Seekers of Martial Wisdom" or "Victors of a Hundred Battles". <font face="Default" color="#FF8080" >Note: You need a Fate Token to join.</font>
 DialogID_60001=<font face="Default" color="#ffffff" >You're late, the Wulin Council has ended. Let me brief you on what we've discussed.</font>
 DialogID_60003=<font face="Default" color="#ffffff" >While Xu Miaozhen was describing the four factions of the Eastern Seas, envoys from those factions arrived, riding cranes.</font>
@@ -167,14 +166,12 @@ DialogID_60014=<font face="Default" color="#ffffff" >Yes, I'd say we are very we
 DialogID_60015=<font face="Default" color="#ffffff" >Invite that Yagyu fool for a drink, then sedate him. Make a copy of the letter he's carrying, and give it to me. Go, time is of the essence!</font>
 DialogID_60016=<font face="Default" color="#ffffff" >Hmm, how did I fall asleep…oh no! (Reach into pocket) Oh good, the letter is still there...</font>
 DialogID_60017=<font face="Default" color="#ffffff" >Did you get the letter?</font>
-DialogID_60018=<font face="Default" color="#ffffff" >Liu Wangsheng was a war hero, and highly respected among the Clarion Cliff…so it has come to this. Take the letter from Yagyu Jiro as his token to meet Liu, that'll lower his guard. Do what must be done.</font>
 DialogID_60019=<font face="Default" color="#ffffff" >I am relieved that we've eliminated the spy in Clarion Cliff. We must make sure there are no loose ends.</font>
 DialogID_60021=<font face="Default" color="#ffffff" >How dare you consider me as one of those foreign raiders? If I had not known you better, I'd have killed you right here and now! Get out of my sight!</font>
 DialogID_60022=<font face="Default" color="#ffffff" >The Yagyu clan, you say? What's in it for me?</font>
 DialogID_60023=<font face="Default" color="#ffffff" >So, are your friends willing to join us?</font>
 DialogID_60024=<font face="Default" color="#ffffff" >Did you give the token to the Purple Flag Leader? Were you followed?</font>
 DialogID_60026=
-DialogID_60027=<font face="Default" color="#ffffff" >You know this is a bait, don't you? Yagyu Jiro's party will no doubt attract his enemies. Since it's no secret that you're working for him, they will come after you…and should they kill you, they would be doing Lord Yagyu a favor.</font>
 DialogID_60030=<font face="Default" color="#ffffff" >A banquet, in my honor? Ha ha, I'll be there!</font>
 DialogID_60033=<font face="Default" color="#ffffff" >Find out why the dancer was helping you. We don't know yet if she is really on our side.</font>
 DialogID_60034=<font face="Default" color="#ffffff" >A Nianluo Dam agent? Now that's someone you don't see every day. And to be saved by one, no less…you do live a charmed life, my friend.</font>
@@ -188,7 +185,6 @@ DialogID_60044=<font face="Default" color="#ffffff" >So, those men are here to r
 DialogID_60045=<font face="Default" color="#ffffff" >Did you kill them all?</font>
 DialogID_60046=<font face="Default" color="#ffffff" >The villagers can hardly feed themselves as it is, let alone supporting an invasion force…very well, I will tell our supplier for the Clarion Cliff to divert our next shipment for you. Get it at the docks.</font>
 DialogID_60048=<font face="Default" color="#ffffff" >There are some villagers who refuse to supply us with provisions. They are hiding in the caves up in those hills. Slaughter them to teach the rest of those lowlife a lesson - no one shall defy me!</font>
-DialogID_60049=<font face="Default" color="#ffffff" >The villagers are too weak to put up any resistance against the Yagyus, so there is only a small contingent of Ashigaru there. Kill those foot soldiers, and we can evacuate the villagers. Then we'll come up with an explanation for what happened.</font>
 DialogID_60050=<font face="Default" color="#ffffff" >I'm sorry, but I'll have to rough you up a bit. Hopefully that'll convince Lord Yagyu that you fought a hard battle against your Chinese warriors!</font>
 DialogID_60051=<font face="Default" color="#ffffff" >So you say you were attacked by those Chinese martial artists again. I wonder how this had just happened so soon…ah, at least you survived.</font>
 DialogID_60052=<font face="Default" color="#ffffff" >Now that you have Lord Yagyu's trust, it's time we make our final move.</font>
@@ -202,22 +198,19 @@ collectinfo_60010=Get Zhou Yuntian's head.
 collectinfo_60011=Get Secret Imperial Army Token
 collectinfo_60012=Head to Ninja Shrine and steal the real <a href="findnpc_new,scene19,Gather_wjd_wjd_004" style="HLStype1">Ocean Map</a>.
 hunterinfo_60001=Go kill some <a href="findnpc_new,born03,attack_wjd_wjd_001" style="HLStype1">bandits</a> and bring their decapitated heads as your pledge of loyalty.
-hunterinfo_60002=Trick Liu Wangsheng into going to a <a href="findnpc_new,scene16,EventNpc_wjd_wjd_003" style="HLStype1">secluded place</a>, and kill him. (This quest cannot be triggered by more than 1 player at the same time.)
-hunterinfo_60003=Kill the <a href="findnpc_new,scene19,attack_wjd_wjd_003" style="HLStype1">traitorous Chinese warriors</a>.
 hunterinfo_60004=Head to the <a href="findnpc_new,scene19,EventNpc_wjd_wjd_007" style="HLStype1">hills</a> and kill the ashigarus waiting there. (This quest cannot be triggered by more than 1 player at the same time.)
 hunterinfo_60006=Defeat Zhou Rong.
 interactinfo_60007=Head to Wuji Island and pledge your loyalty to <a href="findnpc_new,scene19,npc_wjd_wjd_003" style="HLStype1">Yagyu Jiro</a>.
 interactinfo_60008=Repair the <a href="findnpc_new,scene19,Gather_wjd_wjd_001" style="HLStype1">cannons</a>.
 interactinfo_60009=Call <a href="findnpc_new,scene19,npc_wjd_wjd_001" style="HLStype1">Zhou Yuntian</a> to plan your next move. (You can use <a href="TASK_ITEM,item_wjd_wjd_003" style="HLStype1">torch</a> to ignite the pyre to summon him.)
 interactinfo_60010=Head to <a href="findnpc_new,scene16,EventNpc_wjd_wjd_001" style="HLStype1">Penglai Island</a> and pretend to investigate the Chinese imperial army and the loyalists there.
-interactinfo_60011=Head to <a href="findnpc_new,scene16,EventNpc_wjd_wjd_001" style="HLStype1">Hero Island</a> and pretend to investigate the Chinese imperial army and the loyalists there.
+interactinfo_60011=Head to <a href="findnpc_new,scene17,EventNpc_wjd_wjd_002" style="HLStype1">Hero Island</a> and pretend to investigate the Chinese imperial army and the loyalists there.
 interactinfo_60012=You discovered nothing of interest. Speak with <a href="findnpc_new,scene17,npc_wjd_wjd_004" style="HLStype1">Yagyu Moya</a> and find out what he knows.
 interactinfo_60014=Get information from <a href="findnpc_new,scene17,npc_wjd_wjd_004" style="HLStype1">Yagyu Clan's informant</a>.
 interactinfo_60015=Receive instructions from <a href="findnpc_new,scene19,npc_wjd_wjd_001" style="HLStype1">Zhou Yuntian</a>.
 interactinfo_60016=Allay any suspicion <a href="findnpc_new,scene17,npc_wjd_wjd_004" style="HLStype1">Yagyu Moya</a> may have.
 interactinfo_60017=Give the <a href="TASK_ITEM,item_wjd_wjd_011" style="HLStype1">secret letter</a> to <a href="findnpc_new,scene19,npc_wjd_wjd_001" style="HLStype1">Zhou Yuntian</a>. He will identify the spy by recognizing the handwriting.
 interactinfo_60018=Plan with <a href="findnpc_new,scene19,npc_wjd_wjd_001" style="HLStype1">Zhou Yuntian</a> to eliminate the spy.
-interactinfo_60019=Plan your next move with <a href="findnpc_new,scene19,npc_wjd_wjd_001" style="HLStype1">Zhou Yuntian </a>.
 interactinfo_60021=Speak casually with <a href="findnpc_new,school01,jyw040" style="HLStype1">Xing Zhaojun</a>.
 interactinfo_60022=Speak casually with <a href="findnpc_new,school01,jyw041" style="HLStype1">Zhang Jiwu</a>.
 interactinfo_60023=Report the results to <a href="findnpc_new,scene19,npc_wjd_wjd_003" style="HLStype1">Yagyu Jiro</a>.
@@ -228,13 +221,10 @@ interactinfo_60027=Speak with <a href="findnpc_new,scene19,npc_wjd_wjd_001" styl
 interactinfo_60028=Protect yourself. You may get attacked. (Please wait for Yagyu Jiro's summoning in about twn minutes.)
 interactinfo_60029=Plan with <a href="findnpc_new,scene19,npc_wjd_wjd_001" style="HLStype1">Zhou Yuntian</a> on how to eliminate the traitor.
 interactinfo_60030=Invite <a href="findnpc_new,scene19,npc_wjd_wjd_006" style="HLStype1">Xue Hai</a> to attend the banquet.
-interactinfo_60031=Go to the <a href="findnpc_new,scene19,EventNpc_wjd_wjd_005" style="HLStype1">banquet</a> and assassinate Xue Hai.
 interactinfo_60033=Speak with <a href="findnpc_new,scene19,npc_wjd_wjd_001" style="HLStype1">Zhou Yuntian</a>.
 interactinfo_60034=Speak with <a href="findnpc_new,scene19,npc_wjd_wjd_001" style="HLStype1">Zhou Yuntian</a> about the dancer's true identity.
 interactinfo_60035=Xue Hai has been killed. Wait for a reaction.
-interactinfo_60036=Yagyu Jiro has sent bounty hunters after the murderer of Xue Hai. Plan with <a href="findnpc_new,scene19,npc_wjd_wjd_001" style="HLStype1">Zhou Yuntian</a> on how to deal with it.
 interactinfo_60037=Ask <a href="findnpc_new,scene19,npc_wjd_wjd_001" style="HLStype1">Zhou Yuntian</a> to return the favor to the Nianluo Dam dancer.
-interactinfo_60038=Explain to <a href="findnpc_new,scene19,npc_wjd_wjd_003" style="HLStype1">Yagyu Jiro</a> about killing Xue Hai.
 interactinfo_60040=Go to <a href="findnpc_new,scene19,npc_wjd_wjd_003" style="HLStype1">Yagyu Jiro</a>, who has summoned you.
 interactinfo_60041=Head to the <a href="findnpc_new,scene19,EventNpc_wjd_wjd_006" style="HLStype1">Shipyard</a> and supervise the Justice of Fate ship builders. (The quest cannot be triggered by several players at the same time)
 interactinfo_60042=Listen to <a href="findnpc_new,scene19,npc_wjd_wjd_001" style="HLStype1">Zhou Yuntian</a>'s plan to eliminate the traitorous Chinese warriors.
@@ -290,7 +280,6 @@ okmenu_60053=<font face="Default" color="#ffffff" >There must be something we ca
 okmenu_60058=<font face="Default" color="#ffffff" >Very well, I'll take my leave.</font>
 story_60002_1=<font face="Default" color="#ffffff" >Yes, I'm recruiting you to carry out a covert mission of the utmost importance. We need to stop the Japanese raiders - led by the Yagyu Clan of Wuji Island - from invading the mainland.</font>
 story_60002_2=<font face="Default" color="#ffffff" >The Yagyus possess an Ocean Map of the Eastern Seas, which gives them a tremendous advantage in raiding the Chinese territories. You are to steal this map - but to do so, you must earn the trust of their leader, Lord Yagyu Jiro. Go talk to my adopted son Zhou Rong, who has dealings with the Yagyus.</font>
-story_60003_1=<font face="Default" color="#ffffff" >I know why you're here. You see, my foster mother and brother were murdered by those Japanese. We'd be glad to help you, so we can have our revenge!</font>
 story_60003_2=<font face="Default" color="#ffffff" >Thank you! Right now, the Yagyus are hiring able fighters to bolster their invasion force. That's your way in.</font>
 story_60004_1=<font face="Default" color="#ffffff" >Everything is going according to plan. Our spies can tell us our enemy's every move, including those imperial loyalists at Clarion Cliff! When the time comes, they won't know what hit them!</font>
 story_60004_2=<font face="Default" color="#ffffff" >That's exactly what I'm saying. If any of them goes as far as to an outhouse, we'll know about it! Ha Ha!</font>
@@ -304,7 +293,6 @@ story_60008_1=<font face="Default" color="#ffffff" >Rumors have it that the Clar
 story_60008_2=<font face="Default" color="#ffffff" >And why would it? Just be more discreet next time…I did not hire you because you're an amateur. Now, I am holding banquet tonight to celebrate our ascendency. You are invited, of course, along with every other martial art experts on Wuji.</font>
 story_60009_2=<font face="Default" color="#ffffff" >Wasn't that how you came to us as well? Have no worries, this man is a notorious serial murderer back in the mainland. He and I now share many enemies! Ha ha!</font>
 story_60010_1=<font face="Default" color="#ffffff" >Please don't mention it, my dear. I mean that.</font>
-story_60010_2=<font face="Default" color="#ffffff" >You have risked much to make your way into the Yagyu Clan, honey. I'd hate to see you die before you accomplish your mission.</font>
 story_60010_3=<font face="Default" color="#ffffff" >How adorable…did I say anything about an Ocean Map? But of course we knew. I am a disciple of Nianluo Dam, here to gather information about the raiders trespassing our homeland.</font>
 story_60011_1=<font face="Default" color="#ffffff" >We'll just have to see. Let's count one day at a time.</font>
 story_60011_2=<font face="Default" color="#ffffff" >She wasn't at home when I went to see her. I assume she left the island.</font>
@@ -348,7 +336,6 @@ storymenu_60006_1=<font face="Default" color="#ffffff" >I am here to tell you th
 storymenu_60006_2=<font face="Default" color="#ffffff" >Very well, I will verify this. Meet me at our usual place. And hurry!</font>
 storymenu_60007_1=<font face="Default" color="#ffffff" >I know people back on the Chinese mainland who'd want to join us.</font>
 storymenu_60007_2=<font face="Default" color="#ffffff" >Of course.</font>
-storymenu_60008_1=<font face="Default" color="#ffffff" >It is true. He threatened to expose my allegiance to you, and thus I silenced him. I hope this has not inconvienced you in any way.</font>
 storymenu_60008_2=<font face="Default" color="#ffffff">I am honored, my lord.</font>
 storymenu_60009_1=<font face="Default" color="#ffffff" >Wonderful news! I wonder, though, if this man can be trusted…he is coming to us all of a sudden, after all.</font>
 storymenu_60009_2=<font face="Default" color="#ffffff" >Of course. Please forgive me for being presumptuous, I was merely concerned with your safety.</font>
@@ -356,7 +343,6 @@ storymenu_60010_1=<font face="Default" color="#ffffff" >Why did you save me?</fo
 storymenu_60010_3=<font face="Default" color="#ffffff" >Your courage and cunning are much admired, my lady.</font>
 storymenu_60011_1=<font face="Default" color="#ffffff" >What about the dancer from Nianluo Dam…is she safe?</font>
 storymenu_60011_2=<font face="Default" color="#ffffff" >I hope she makes it home safely. I'd like to see her again.</font>
-storymenu_60012_1=<font face="Default" color="#ffffff" >Perhaps you're right, and I'm not fit to carry out your mission…I may as well turn myself in to the Yagyus right now!</font>
 storymenu_60012_2=<font face="Default" color="#ffffff" >We will not let Xue Hai die in vain. I will get that Ocean Map, if it's the last thing I'll ever do!</font>
 storymenu_60013_1=<font face="Default" color="#ffffff" >Yes, I was working with Zhou Yuntian all this time, but it was all part of my plan, to expose the spies who are after the Ocean Map.</font>
 storymenu_60013_2=<font face="Default" color="#ffffff" >Zhou Yuntian was a Royal Guard. Here is the head I cut off his neck, along with the token from the Chinese imperial army that authorized his actions.</font>
@@ -365,7 +351,6 @@ DialogID_60060=<font face="Default" color="#ffffff" > Make a wish under the tree
 DialogID_60061=<font face="Default" color="#ffffff" > Make a wish under the tree at the Temple of the Old Matchmaker and be sure to have fortune next year! You’ll get that raise, find a lover, or become a great hero! This is the "Prayer Knot". You take it. </font>
 DialogID_60062=<font face="Default" color="#ffffff" > My grandma said that the Jiugong Elder made a New Year’s wish here. You give it a try. This is the "Prayer Knot". You take it. </font>
 DialogID_60063=<font face="Default" color="#ffffff" >Be careful. Those villains will not give it up. </font>
-DialogID_60064=<font face="Default" color="#ffffff" >Do tell it to the Wulin Leader! </font>
 QiecuoMenu_60007=<font face="Default" color="#ffffff" >It depends on your ability! </font>
 QiecuoMenu_60010=<font face="Default" color="#ffffff" >Die! </font>
 QiecuoMenu_60011=<font face="Default" color="#ffffff" >Die! </font>
@@ -400,7 +385,6 @@ collectinfo_60029=Collect Kuqing Flowers
 collectinfo_60030=Collect Heartbroken Flowers
 collectinfo_60031=Collect linens
 collectinfo_60032=Collect Coarse Cloth
-hunterinfo_60007=Defeat <a href="findnpc_new,city02,waiyuwulin_031" style="HLStype1">the Foreign Killer</a>
 hunterinfo_60010=Defeat <a href="findnpc_new,born02,waiyuwulin_025" style="HLStype1">the Foreign Wulin Fighter</a>
 hunterinfo_60011=Defeat <a href="findnpc_new,born02,waiyuwulin_026" style="HLStype1">the Foreign Wulin Fighter</a>
 hunterinfo_60012=Defeat <a href="findnpc_new,born02,waiyuwulin_027" style="HLStype1">the Foreign Wulin Fighter</a>
@@ -418,14 +402,12 @@ okmenu_60061=<font face="Default" color="#ffffff" >Thank you </font>
 okmenu_60062=<font face="Default" color="#ffffff" >Thank you!</font>
 okmenu_60063=<font face="Default" color="#ffffff" >Don't worry. I'll help you. </font>
 okmenu_60064=<font face="Default" color="#ffffff" >Be careful. Leave here as soon as possible. I should go now. </font>
-story_60014_1=<font face="Default" color="#ffffff" >All right. I've never seen the skills of that killer. I'm afraid he is a foreign killer. I don't know why he wanted to kill me. </font>
 story_60014_2=<font face="Default" color="#ffffff" >What? Zhuo Bei has arrived again? Where is he now? </font>
 story_menu_60014=<font face="Default" color="#ffffff" >Are you okay? </font>
 storyinfo_60014=Talk with <a href="findnpc_new,born03,waiyuwulin_002" style="HLStype1">Lin Tiannan</a>.
 SubmitNpcEx_70034=Find Lin Liang to claim rewards.
 SubmitNpcEx_70035=Find Lin Liang to claim rewards.
 SubmitNpcEx_70039=Find Lin Liang to claim rewards.
-storymenu_60014_1=<font face="Default" color="#ffffff" >Leader, they are the foreign killers. </font>
 storymenu_60014_2=<font face="Default" color="#ffffff" >I met a Ruined Valley Disciple at Suzhou. He said that Zhuo Bei had already besieged the Ruined Valley. Please reinforce them. </font>
 useiteminfo_60009=Use the "Prayer Knot" in the package to make a wish.
 useiteminfo_60010=Use the "Prayer Knot" inside the package to make a wish.
@@ -453,7 +435,6 @@ specialinfo_1142=Find <a href="findnpc_new,born02,wywl_sneakon_001" style="HLSty
 specialinfo_1143=Find <a href="findnpc_new,born02,wywl_sneakon_002" style="HLStype1">Guo Yajian</a> and complete Rescue.
 interactinfo_60065=Talk with <a href="findnpc_new,born03,EventNpc_ruqin_wy_001" style="HLStype1">Lin Tiannan</a>.
 interactinfo_60903=Have a check near the valley (820,300).
-interactinfo_60904=Kill the target
 interactinfo_60905=Search for the pursuers.
 interactinfo_60906=Collect or use the items as required to help the target escape (Please ensure that there are slots available in your Package.)
 interactinfo_60907=Look for a suitable method in the area to help the target clean up the traces or send message to ask for help.
@@ -461,14 +442,11 @@ interactinfo_60908=Defeat the target
 interactinfo_60909=Find the given item in the area or speak with the given person to complete the event.
 interactinfo_60910=Find the given item in the area or speak with the given person to complete the event.
 interactinfo_60911=Find the given item in the area or speak with the given person to complete the event.
-interactinfo_60913=Kill the target
 interactinfo_60914=Find the given item in the area or speak with the given person to complete the event.
 interactinfo_60915=Find the given item in the area or speak with the given person to complete the event.
-interactinfo_60916=Kill all the targets
 interactinfo_60919=Have a check in the Swordsman Mountain (420,360)
 interactinfo_60920=Have a check in the Inner Valley (935,183)
 SubmitNpcEx_70903=Make a choice
-SubmitNpcEx_70904=Kill the target
 SubmitNpcEx_70905=Wait and see
 SubmitNpcEx_70906=Reply
 SubmitNpcEx_70907=Reply
@@ -476,10 +454,8 @@ SubmitNpcEx_70908=Defeat the target
 SubmitNpcEx_70909=Deal with it at your discretion
 SubmitNpcEx_70910=Deal with it properly
 SubmitNpcEx_70911=Get what you want
-SubmitNpcEx_70913=Kill the target
 SubmitNpcEx_70914=Ask someone to report it
 SubmitNpcEx_70915=Complete it as required
-SubmitNpcEx_70916=Kill all the targets
 SubmitNpcEx_70919=Make a choice
 SubmitNpcEx_70920=Make a choice
 SubmitNpcEx_70921=Send message to <a href="findnpc_new,born02,juqingxiang_001" style="HLStype1">Cheng Hong</a>.
@@ -547,13 +523,11 @@ collectinfo_60204=Collect White poplar wood (Use Life Skills)
 collectinfo_60205=Collect Cypress wood (Use Life Skills)
 interactinfo_60210=Practice and Cultivate your Skills once (Obtain rewards from Event Ambassador)
 interactinfo_60211=Finish Guild Team gameplay once (requires multiple Guild members, please see the description at The Four Noble Households interface)
-specialinfo_1200=Defeat enemy Guild players 3 times
 interactinfo_60079=Now proceed with the Escort to the Destination point. You should reach it together with the Escort to complete the task. <a href="findnpc_new,city01,EventNpc_guild_biaoche_002" style="HLStype1">Yanjing Destination Point</a>, <a href="findnpc_new,city02,EventNpc_guild_biaoche_002" style="HLStype1">Suzhou Destination Point</a>, <a href="findnpc_new,city04,EventNpc_guild_biaoche_002" style="HLStype1">Luoyang Destination Point</a>, <a href="findnpc_new,city05,EventNpc_guild_biaoche_002" style="HLStype1">Chengdu Destination Point</a>.
 DialogID_60002=<font face="Default" color="#ffffff" >We’re unsure of the factions in the Eastern Seas, so we cannot come to a unanimous conclusion.</font>
 okmenu_60002=<font face="Default" color="#ffffff" >Go into detail</font>
 DialogID_60029=<font face="Default" color="#ffffff" >What? Blood Blade Clan disciple joined forces with the Yagyus</font><font face="Default" color="#ffffff" >? </font><font face="Default" color="#ffffff" >This disciple </font><font face="Default" color="#ffffff" >must be die! </font><font face="Default" color="#ffffff" >You </font><font face="Default" color="#ffffff" >have to kill this disciple by all means! </font>
 story_60009_1=<font face="Default" color="#ffffff" >Oh yes! A member of the Blood Blade Clan is joining us tonight. With his unique skills, we will be stronger than ever! </font>
-storymenu_60010_2=<font face="Default" color="#ffffff" >So you know about my mission</font>. <font face="Default" color="#ffffff" >To be honest, </font><font face="Default" color="#ffffff" >I am here </font><font face="Default" color="#ffffff" >to retrieve the Ocean Map of the Eastern Seas</font>. <font face="Default" color="#ffffff" >I saw Blood Blade Clan disciple joined forces with the Yagyus. So I tried to kill him</font><font face="Default" color="#ffffff" >.  </font>
 SubmitNpcEx_70401=Talk to <a href="findnpc_new,born02,outlandwar_lpf001" style="HLStype1">Wulin Battlefield Guide</a>.
 useiteminfo_60020=Head to <a href="findnpc_new,born02,npc_lzy_huodong_ergjb" style="HLStype1">Nameless Tomb</a> at Ruined Valley and worship with the <a href="TASK_ITEM,useitem_lzy_huodong_ergjb" style="HLStype1">Incense</a>.
 title_70401=The worship in Evil Men's Valley
@@ -588,7 +562,6 @@ specialinfo_1212=Complete Team Practice 1 time and reach 100% Fatigue.
 specialinfo_1213=Complete Impart Knowledge 1 time and reach 100% Completeness.
 specialinfo_1214=Complete any Jianghu Faction 1 time.
 specialinfo_1215=Complete the Forbidden Instance 1 time.
-specialinfo_1216=Complete Battlefield First Win 1 time (Ancient Tomb or Muyun Villa Battlefield).
 DialogID_60080=<font face="Default" color="#ffffff" >Don't worry, the Ferryman at South City Wharf is looking for the Painted Egg for the Imperial Court, you can give it to him. </font>
 DialogID_60081=<font face="Default" color="#ffffff" >Be careful, there are Western Regions thieves staring at me, please speak quietly.</font>
 DialogID_60082=<font face="Default" color="#ffffff" >Thank you. I will return this to the owner. Send regards to Bouncy Girl. I have a present from her, please accept. </font>
@@ -610,7 +583,6 @@ okmenu_60922=<font face="Default" color="#ffffff" >Of course</font><font face="D
 okmenu_60923=<font face="Default" color="#ffffff" >I have a better understanding now..</font>
 okmenu_60924=<font face="Default" color="#ffffff" >That is right</font>
 okmenu_60925=<font face="Default" color="#ffffff">You want the sword manual to help you take care of Xiaoyue?</font>
-okmenu_60926=<font face="Default" color="#ffffff" >Contains 6 Five-Realm Demon-Slaying Items</font>
 DialogID_60922=<font face="Default" color="#ffffff" >A unsharpened heavy sword. Have the power to crumble the heaven and earth. Sword skill emphasizes on simple and brutal strength. Only a talented person can use this heavy sword.
 DialogID_60923=<font face="Default" color="#ffffff" >A fan. Weapon with multiple uses for the skilled. Not suitable for brutal exchanges.</font>
 DialogID_60924=<font face="Default" color="#ffffff" >Katar, a Qimen weapon. A handheld weapon emphasizing on speed, marksmanship, viciousness and surprise. Suitable for an agile person. The Katar can be used both offensively and defensively, and is capable of dealing with any kind of weapon.
@@ -660,30 +632,10 @@ interactinfo_60922=Go to Dongfang Family and talk to <a href="findnpc_new,city01
 interactinfo_60923=Go to Nangong Family and talk to <a href="findnpc_new,city05,sdsj_lzy_dh_ng001" style="HLStype1">Nangong Shengyuan (Nangong Family Skill Manager) </a>about martial arts.
 interactinfo_60924=Go to Yanmen Family and talk to <a href="findnpc_new,city04,sdsj_lzy_dh_ym001" style="HLStype1">Yan Shiqian (Yanmen Family Skill Manager) </a>about martial arts.
 interactinfo_60925=Go to Murong Family and talk to <a href="findnpc_new,city02,sdsj_lzy_dh_mr001" style="HLStype1">Murong Shaoda (Murong Family Skill Manager) </a>about martial arts.
-interactinfo_60926=Talk to <a href="findnpc_new,city05,act818_mj_001" style="HLStype1">Ming Cult Elder Brother</a>
-hunterinfo_60024=According to the Tavern Owner there is a <a href="findnpc_new,city05,npc_lzy_cbt_drrw001" style="HLStype1">Foreigner in Chengdu </a>and might be carrying a treasure map. Defeat him and get the map.
-hunterinfo_60025=According to the Tavern Owner there is a <a href="findnpc_new,city02,npc_lzy_cbt_drrw002" style="HLStype1">Foreigner in Suzhou </a>and might be carrying a treasure map. Defeat him and get the map.
-hunterinfo_60026=According to the Tavern Owner there is a <a href="findnpc_new,city03,npc_lzy_cbt_drrw003" style="HLStype1">Foreigner in Jinling </a>and might be carrying a treasure map. Defeat him and get the map.
-hunterinfo_60027=According to the Tavern Owner there is a <a href="findnpc_new,city04,npc_lzy_cbt_drrw004" style="HLStype1">Foreigner in Luoyang </a>and might be carrying a treasure map. Defeat him and get the map.
-hunterinfo_60028=According to the Tavern Owner there is a <a href="findnpc_new,city01,npc_lzy_cbt_drrw005" style="HLStype1">Foreigner in Yanjing </a>and might be carrying a treasure map. Defeat him and get the map.
 SubmitNpcEx_70093=Go to Festival Events Ambassador Lin Liang in any of the main city to receive Dragon Boat Festival gifts.
 SubmitNpcEx_70094=Go to Lin Liang in any of the main city to receive a Gift Pack.
 SubmitNpcEx_70095=Go to Festival Events Ambassador Lin Liang in any of the main city to receive Summer Gift Pack.
-SubmitNpcEx_70102=Talk to <a href="findnpc_new,city05,act818_mj_001" style="HLStype1">Ming Cult Elder Brother</a>
-SubmitNpcEx_70103=Go to Chengdu Martial Arts School <a href="findnpc_new,city05,act818_mj_001" style="HLStype1">Gu Dajian (Ming Cult Elder Brother)</a> to submit task.
-SubmitNpcEx_70104=Go to Chengdu Martial Arts School <a href="findnpc_new,city05,act818_mj_001" style="HLStype1">Gu Dajian (Ming Cult Elder Brother)</a> to submit task.
-SubmitNpcEx_70105=Go to Chengdu Martial Arts School <a href="findnpc_new,city05,act818_mj_001" style="HLStype1">Gu Dajian (Ming Cult Elder Brother)</a> to submit task.
-SubmitNpcEx_70106=Go to Chengdu Martial Arts School <a href="findnpc_new,city05,act818_mj_001" style="HLStype1">Gu Dajian (Ming Cult Elder Brother)</a> to submit a partner task and get rewards.
-SubmitNpcEx_70107=Go to Chengdu Martial Arts School <a href="findnpc_new,city05,act818_mj_001" style="HLStype1">Gu Dajian (Ming Cult Elder Brother)</a> to submit a partner task and get rewards.
-SubmitNpcEx_70108=Go to Chengdu Martial Arts School <a href="findnpc_new,city05,act818_mj_001" style="HLStype1">Gu Dajian (Ming Cult Elder Brother)</a> to submit a partner task and get rewards.
-SubmitNpcEx_70109=Go to Chengdu Martial Arts School <a href="findnpc_new,city05,act818_mj_001" style="HLStype1">Gu Dajian (Ming Cult Elder Brother)</a> to submit a partner task and get rewards.
-SubmitNpcEx_70110=Go to Chengdu Martial Arts School <a href="findnpc_new,city05,act818_mj_001" style="HLStype1">Gu Dajian (Ming Cult Elder Brother)</a> to submit a partner task and get rewards.
-SubmitNpcEx_70111=Go to Chengdu Martial Arts School <a href="findnpc_new,city05,act818_mj_001" style="HLStype1">Gu Dajian (Ming Cult Elder Brother)</a> to submit task.
-SubmitNpcEx_70112=Go to Chengdu Martial Arts School <a href="findnpc_new,city05,act818_mj_001" style="HLStype1">Gu Dajian (Ming Cult Elder Brother)</a> to submit task.
-SubmitNpcEx_70113=Go to Chengdu Martial Arts School <a href="findnpc_new,city05,act818_mj_001" style="HLStype1">Gu Dajian (Ming Cult Elder Brother)</a> to submit task.
-SubmitNpcEx_70114=Go to Chengdu Martial Arts School <a href="findnpc_new,city05,act818_mj_001" style="HLStype1">Gu Dajian (Ming Cult Elder Brother)</a> to submit task.
-SubmitNpcEx_70115=Go to Chengdu Martial Arts School <a href="findnpc_new,city05,act818_mj_001" style="HLStype1">Gu Dajian (Ming Cult Elder Brother)</a> to submit task.
-SubmitNpcEx_70116=Go to Chengdu Martial Arts School <a href="findnpc_new,city05,act818_mj_001" style="HLStype1">Gu Dajian (Ming Cult Elder Brother)</a> to submit task.
+SubmitNpcEx_70102=Talk to <a href="findnpc_new,city05,act818_mj_001" style="HLStype1">Lin Jingyu</a>
 specialinfo_1359=Complete the Forbidden Instance - Twilight Village [Normal] one time
 specialinfo_1360=Complete the Forbidden Instance - Green Cloud Castle [Normal] one time
 specialinfo_1361=Complete the Forbidden Instance - Green Cloud Castle [Hard] one time
@@ -697,7 +649,6 @@ okmenu_60927=<font face="Default" color="#ffffff" >All right.</font>
 specialinfo_1383=Challenge the Possessed successfully 2 times
 specialinfo_1368=Defeat any Faction once (any of the factions can only play 6 times a day)
 specialinfo_1369=Challenge the Possessed successfully 2 times.
-specialinfo_1370=Achieve victory 3 times in any battlefield (Ancient Tomb battlefield, Ancient Palace Competition or Group Martial Arts Competition)
 SubmitNpcEx_70123=Find Ning Jiuhui in Suzhou (423.794) and Chengdu (923.551) to submit the task and collect rewards
 SubmitNpcEx_70124=Find Ning Jiuhui in Suzhou (423.794) and Chengdu (923.551) to submit the task and collect rewards
 SubmitNpcEx_70125=Find Ning Jiuhui in Suzhou (423.794) and Chengdu (923.551) to submit the task and collect rewards
@@ -746,41 +697,204 @@ collectinfo_60208=Quest has been reset. Please give up this quest and Press H to
 collectinfo_60209=Quest has been reset. Please give up this quest and Press H to accept the quest again at Guild Main Page -- Lucky Points Quest.
 interactinfo_60201=Finish Guild Team Practice once (at least one participant should be from the same Guild)
 interactinfo_60078=Guild Armed Escort is activated by any Guild officer. <a href="findnpc_new,city01,NPC_guild_pray_001" style="HLStype1">Yanjing Guild Armed Escort</a>, <a href="findnpc_new,city02,NPC_guild_pray_002" style="HLStype1">Suzhou Guild Armed Escort</a>, <a href="findnpc_new,city04,NPC_guild_pray_003" style="HLStype1">Luoyang Guild Armed Escort</a>, <a href="findnpc_new,city05,NPC_guild_pray_004" style="HLStype1">Chengdu Guild Armed Escort</a>. Once Guild Escort is activated, get the cart to the Halt Point. You should reach it together with the Escort to complete the task. <a href="findnpc_new,city01,EventNpc_guild_biaoche_001" style="HLStype1">Yanjing Halt Point</a>, <a href="findnpc_new,city02,EventNpc_guild_biaoche_001" style="HLStype1">Suzhou Halt Point</a>, <a href="findnpc_new,city04,EventNpc_guild_biaoche_001" style="HLStype1">Luoyang Halt Point</a>, <a href="findnpc_new,city05,EventNpc_guild_biaoche_001" style="HLStype1">Chengdu Halt Point</a>.
-useiteminfo_60024=Use the <a href="TASK_ITEM,item_niqiu_001" style="HLStype1">Mud Ball</a> five times on other players (Mud ball can be exchanged from Candied Haws with Five Aggregates And Demon-Subduing Item. The Mud ball can only be used by small body size players)
+useiteminfo_60024=Use <a href="TASK_ITEM,item_niqiu_001" style="HLStype1">mud balls</a> five times on other players. (You can use Five Aggregate Items to exchange for mud balls from Tang Hulu. You can only use mud balls when you are in child form.)
 DialogID_60934=<font face="Default" color="#ffffff" >I'm going to send the invitation note.</font>
 SubmitNpcEx_70145=Report to <a href="findnpc_new,city02,WorldNpc01194" style="HLStype1">Lin Tiannan</a> that you've sent out the invitation note.
 interactinfo_60934=Talk to <a href="findnpc_new,city02,Transcity02A" style="HLStype1">Xiang Jun</a>, request him to send the invitation notes to the grandmasters.
 okmenu_60934=<font face="Default" color="#ffffff" >All right.</font>
-SubmitNpcEx_70147=Find the event ambassador Lin Liang in each major city to submit your task and receive 12th Lunar Month Pack.
-SubmitNpcEx_70148=Find the event ambassador Lin Liang in each major city to submit your task and receive Laba Gift Pack.
-SubmitNpcEx_70149=Find Jing Huijuan (432,812) in Suzhou to receive Spring Festival Large Gift Pack.
-SubmitNpcEx_70150=Find Jing Huijuan (432,812) in Suzhou to receive Spring Festival Visit Pack.
-SubmitNpcEx_70151=Find the event ambassador Lin Liang in each major city to submit your task and receive New Year Martial Art Certificate.
+SubmitNpcEx_70147=Find the Event Ambassador Lin Liang to submit the task and claim the 12th Lunar Month Pack
+SubmitNpcEx_70148=Find the Event Ambassador Lin Liang to submit the task and claim the Laba Gift Pack.
+SubmitNpcEx_70149=Find Jing Huijuan (432,812) in Suzhou to claim the Spring Festival Large Gift Pack.
+SubmitNpcEx_70150=Find Jing Huijuan (432,812) in Suzhou to claim the Spring Festival Visit Pack.
+SubmitNpcEx_70151=Find the event ambassador Lin Liang to submit your task and claim the New Year Martial Art Certificate.
 DialogID_60938=<font face="Default" color="#ffffff" >I'm going to send the invitation note.</font>
 SubmitNpcEx_70157=Report to <a href="findnpc_new,city02,WorldNpc01194" style="HLStype1">Lin Tiannan</a> that you've sent out the invitation note.
 interactinfo_60938=Talk to <a href="findnpc_new,city02,Transcity02A" style="HLStype1">Xiang Jun</a>, request him to send the invitation notes to the grandmasters.
 okmenu_60938=<font face="Default" color="#ffffff" >All right.</font>
-DialogID_60935=<font face="Default" color="#ffffff" >If you give me </font><font face="Default" color="#ffffff" >1</font><font face="Default" color="#ffffff" > bonfire wood, I will give you </font><font face="Default" color="#ffffff" >1</font><font face="Default" color="#ffffff" > Exquisite Item.</font>
-DialogID_60936=<font face="Default" color="#ffffff" >If you give me </font><font face="Default" color="#ffffff" >10</font><font face="Default" color="#ffffff" > bonfire woods, I will give you </font><font face="Default" color="#ffffff" >10</font><font face="Default" color="#ffffff" > Exquisite Items.</font>
-DialogID_60937=<font face="Default" color="#ffffff" >If you give me </font><font face="Default" color="#ffffff" >50</font><font face="Default" color="#ffffff" > bonfire woods, I will give you </font><font face="Default" color="#ffffff" >50</font><font face="Default" color="#ffffff" > Exquisite Items.</font>
-interactinfo_60935=Give <a href="findnpc_new,city03,npc_ghkh_hd_001" style="HLStype1">Hermit</a> 1 bonfire wood to receive Bonfire Certificate*1, Snow Lotus Fruit*1.
-interactinfo_60936=Give <a href="findnpc_new,city03,npc_ghkh_hd_001" style="HLStype1">Hermit </a> 10 bonfire woods to receive Bonfire Certificate*10, Snow Lotus Fruit*10.
-interactinfo_60937=Give <a href="findnpc_new,city03,npc_ghkh_hd_001" style="HLStype1">Hermit </a> 50 bonfire woods to receive Bonfire Certificate*50, Snow Lotus Fruit*50.
-okmenu_60935=<font face="Default" color="#ffffff" >I want to turn in 1 bonfire wood.</font>
-okmenu_60936=<font face="Default" color="#ffffff" >I want to turn in 10 bonfire woods.</font>
-okmenu_60937=<font face="Default" color="#ffffff" >I want to turn in 50 bonfire woods.</font>
+DialogID_60935=<font face="Default" color="#ffffff" >If you give me 1 bonfire wood, I will reward you 1 Exquisite Item.</font>
+DialogID_60936=<font face="Default" color="#ffffff" >If you give me 10 bonfire woods, I will reward you 10 Exquisite Items.</font>
+DialogID_60937=<font face="Default" color="#ffffff" >If you give me 50 bonfire woods, I will reward you 50 Exquisite Items.</font>
+interactinfo_60935=Submit 1 bonfire wood to <a href="findnpc_new,city03,npc_ghkh_hd_001" style="HLStype1">the hermit</a> to claim 1 Bonfire Certificate and 1 Snow Lotus Fruit.
+interactinfo_60936=Submit 10 bonfire woods to <a href="findnpc_new,city03,npc_ghkh_hd_001" style="HLStype1">the hermit</a> to claim 10 Bonfire Certificates and 10 Snow Lotus Fruits.
+interactinfo_60937=Submit 50 bonfire woods to <a href="findnpc_new,city03,npc_ghkh_hd_001" style="HLStype1">the hermit</a> to claim 50 Bonfire Certificates and 50 Snow Lotus Fruits.
+okmenu_60935=<font face="Default" color="#ffffff" >I want to submit 1 bonfire wood.</font>
+okmenu_60936=<font face="Default" color="#ffffff" >I want to submit 10 bonfire woods.</font>
+okmenu_60937=<font face="Default" color="#ffffff" >I want to submit 50 bonfire woods.</font>
 SubmitNpcEx_70158=<a href="findnpc_new,city02,hd_dw_001" style="HLStype1">Lin Liang</a>
 SubmitNpcEx_70159=<a href="findnpc_new,city02,WorldNpc01097" style="HLStype1">Yan Lun</a>
 SubmitNpcEx_70160=<a href="findnpc_new,city02,sz493" style="HLStype1">Tang Hulu</a>
 SubmitNpcEx_70161=<a href="findnpc_new,city02,hd_dw_001" style="HLStype1">Lin Liang</a>
 SubmitNpcEx_70163=<a href="findnpc_new,city02,hd_dw_001" style="HLStype1">Lin Liang</a>
 SubmitNpcEx_70164=<a href="findnpc_new,city02,hd_dw_001" style="HLStype1">Lin Liang</a>
-interactinfo_60214=Deliver the new year goods to the old beggar <a href="findnpc_new,city02,WorldNpc01135" style="HLStype1">Fan Yitang</a>.
-interactinfo_60215=Deliver the new year goods to the old widow <a href="findnpc_new,city02,WorldNpc01551" style="HLStype1"> Xu Yun</a>
-interactinfo_60216=Deliver the new year goods to the Study Master <a href="findnpc_new,city02,WorldNpc01097" style="HLStype1">Yan Lun</a>
-interactinfo_60217=Deliver the new year goods to the drunkard <a href="findnpc_new,city02,WorldNpc01626" style="HLStype1">Xie Guangtian</a>.
-okmenu_60214=<font face="Default" color="#ffffff" >The tavern owner asked me to send some new year goods to you.</font>
-okmenu_60215=<font face="Default" color="#ffffff" >The tavern owner asked me to send some new year goods to you.</font>
-okmenu_60216=<font face="Default" color="#ffffff" >The tavern owner asked me to send some new year goods to you.</font><font face="Default" color="#ffffff" >Greetings </font><font face="Default" color="#ffffff" >sir</font><font face="Default" color="#ffffff" >, please have a seat.</font>
-okmenu_60217=<font face="Default" color="#ffffff" >The tavern owner asked me to send some new year goods to you.</font>
+SubmitNpcEx_70165=Go to Chengdu Martial Arts School <a href="findnpc_new,city05,act818_mj_001" style="HLStype1">Ling Aomei (Tianshan Sect Elder Brother)</a> to submit the partner task and get rewards.
+SubmitNpcEx_70166=Go to Chengdu Martial Arts School <a href="findnpc_new,city05,act818_mj_001" style="HLStype1">Ling Aomei (Tianshan Sect Elder Brother)</a> to submit the partner task and get rewards.
+SubmitNpcEx_70167=Go to Chengdu Martial Arts School <a href="findnpc_new,city05,act818_mj_001" style="HLStype1">Ling Aomei (Tianshan Sect Elder Brother)</a> to submit the partner task and get rewards.
+SubmitNpcEx_70168=Go to Chengdu Martial Arts School <a href="findnpc_new,city05,act818_mj_001" style="HLStype1">Ling Aomei (Tianshan Sect Elder Brother)</a> to submit the partner task and get rewards.
+SubmitNpcEx_70169=Go to Chengdu Martial Arts School <a href="findnpc_new,city05,act818_mj_001" style="HLStype1">Ling Aomei (Tianshan Sect Elder Brother)</a> to submit the partner task and get rewards.
+SubmitNpcEx_70170=Go to Chengdu Martial Arts School <a href="findnpc_new,city05,act818_mj_001" style="HLStype1">Ling Aomei (Tianshan Sect Elder Brother)</a> to submit the partner task and get rewards.
+SubmitNpcEx_70171=Go to Chengdu Martial Arts School <a href="findnpc_new,city05,act818_mj_001" style="HLStype1">Ling Aomei (Tianshan Sect Elder Brother)</a> to submit the partner task and get rewards.
+SubmitNpcEx_70172=Go to Chengdu Martial Arts School <a href="findnpc_new,city05,act818_mj_001" style="HLStype1">Ling Aomei (Tianshan Sect Elder Brother)</a> to submit the partner task and get rewards.
+SubmitNpcEx_70173=Go to Chengdu Martial Arts School <a href="findnpc_new,city05,act818_mj_001" style="HLStype1">Ling Aomei (Tianshan Sect Elder Brother)</a> to submit the task to get rewards.
+SubmitNpcEx_70174=Go to Chengdu Martial Arts School <a href="findnpc_new,city05,act818_mj_001" style="HLStype1">Ling Aomei (Tianshan Sect Elder Brother)</a> to submit the task to get rewards.
+SubmitNpcEx_70175=Go to Chengdu Martial Arts School <a href="findnpc_new,city05,act818_mj_001" style="HLStype1">Ling Aomei (Tianshan Sect Elder Brother)</a> to submit the task to get rewards.
+SubmitNpcEx_70176=Go to Chengdu Martial Arts School <a href="findnpc_new,city05,act818_mj_001" style="HLStype1">Ling Aomei (Tianshan Sect Elder Brother)</a> to submit the task to get rewards.
+SubmitNpcEx_70177=Go to Chengdu Martial Arts School <a href="findnpc_new,city05,act818_mj_001" style="HLStype1">Ling Aomei (Tianshan Sect Elder Brother)</a> to submit the task to get rewards.
+SubmitNpcEx_70178=Go to Chengdu Martial Arts School <a href="findnpc_new,city05,act818_mj_001" style="HLStype1">Ling Aomei (Tianshan Sect Elder Brother)</a> to submit the task to get rewards.
+specialinfo_1390=Complete the Forbidden Instance - Twilight Village [Prologue] one time
+specialinfo_1391=Complete the Forbidden Instance - Green Cloud Castle [Prologue] one time
+specialinfo_1392=Complete the Forbidden Instance - Green Cloud Castle one time
+specialinfo_1393=Complete the Forbidden Instance - Peacock Villa one time
+specialinfo_1394=Complete the Forbidden Instance - Yanmen Pass [Rebel Route] one time
+specialinfo_1395=Complete the Forbidden Instance - Desert Ghost Town one time
+DialogID_60939=<font face="Default" color="#ffffff" >I'm going to send the invitation note.</font>
+SubmitNpcEx_70185=Report to <a href="findnpc_new,city02,WorldNpc01194" style="HLStype1">Lin Tiannan</a> that you've sent out the invitation note.
+interactinfo_60939=Talk to <a href="findnpc_new,city02,Transcity02A" style="HLStype1">Xiang Jun</a>, request him to send the invitation notes to the grandmasters.
+okmenu_60939=<font face="Default" color="#ffffff" >All right.</font>
+SubmitNpcEx_70237=<a href="findnpc_new,city02,hd_dw_001" style="HLStype1">Lin Liang</a>
+SubmitNpcEx_70190=Talk to <a href="findnpc_new,city05,act818_mj_001" style="HLStype1">Tianshan Sect Elder Brother</a>.
+SubmitNpcEx_70238=<a href="findnpc_new,city02,WorldNpc01097" style="HLStype1">Yan Lun</a>
+SubmitNpcEx_70186=Go to Suzhou and find the teacher <a href="findnpc_new,city02,WorldNpc01097" style="HLStype1">Yan Lun</a> to claim the Student Gift Pack.
+SubmitNpcEx_70239=<a href="findnpc_new,city02,hd_dw_001" style="HLStype1">Lin Liang</a>
+specialinfo_1396=Pass any forbidden instance once.
+okmenu_60926=<font face="Default" color="#ffffff" >Contains 5 Five-Realm Demon-Slaying Items</font>
+interactinfo_60926=Talk to <a href="findnpc_new,city05,act818_mj_001" style="HLStype1">Lin Jingyu</a>
+SubmitNpcEx_70103=Go to Chengdu Martial Arts School <a href="findnpc_new,city05,act818_mj_001" style="HLStype1">Ling Aomei (Ming Cult Elder Brother)</a> to submit task.
+SubmitNpcEx_70104=Go to Chengdu Martial Arts School <a href="findnpc_new,city05,act818_mj_001" style="HLStype1">Ling Aomei (Ming Cult Elder Brother)</a> to submit task.
+SubmitNpcEx_70105=Go to Chengdu Martial Arts School <a href="findnpc_new,city05,act818_mj_001" style="HLStype1">Ling Aomei (Ming Cult Elder Brother)</a> to submit task.
+SubmitNpcEx_70106=Go to Chengdu Martial Arts School <a href="findnpc_new,city05,act818_mj_001" style="HLStype1">Ling Aomei (Ming Cult Elder Brother)</a> to submit a partner task and get rewards.
+SubmitNpcEx_70107=Go to Chengdu Martial Arts School <a href="findnpc_new,city05,act818_mj_001" style="HLStype1">Ling Aomei (Ming Cult Elder Brother)</a> to submit a partner task and get rewards.
+SubmitNpcEx_70108=Go to Chengdu Martial Arts School <a href="findnpc_new,city05,act818_mj_001" style="HLStype1">Ling Aomei (Ming Cult Elder Brother)</a> to submit a partner task and get rewards.
+SubmitNpcEx_70109=Go to Chengdu Martial Arts School <a href="findnpc_new,city05,act818_mj_001" style="HLStype1">Ling Aomei (Ming Cult Elder Brother)</a> to submit a partner task and get rewards.
+SubmitNpcEx_70110=Go to Chengdu Martial Arts School <a href="findnpc_new,city05,act818_mj_001" style="HLStype1">Ling Aomei (Ming Cult Elder Brother)</a> to submit a partner task and get rewards.
+SubmitNpcEx_70111=Go to Chengdu Martial Arts School <a href="findnpc_new,city05,act818_mj_001" style="HLStype1">Ling Aomei (Ming Cult Elder Brother)</a> to submit task.
+SubmitNpcEx_70112=Go to Chengdu Martial Arts School <a href="findnpc_new,city05,act818_mj_001" style="HLStype1">Ling Aomei (Ming Cult Elder Brother)</a> to submit task.
+SubmitNpcEx_70113=Go to Chengdu Martial Arts School <a href="findnpc_new,city05,act818_mj_001" style="HLStype1">Ling Aomei (Ming Cult Elder Brother)</a> to submit task.
+SubmitNpcEx_70114=Go to Chengdu Martial Arts School <a href="findnpc_new,city05,act818_mj_001" style="HLStype1">Ling Aomei (Ming Cult Elder Brother)</a> to submit task.
+SubmitNpcEx_70115=Go to Chengdu Martial Arts School <a href="findnpc_new,city05,act818_mj_001" style="HLStype1">Ling Aomei (Ming Cult Elder Brother)</a> to submit task.
+SubmitNpcEx_70116=Go to Chengdu Martial Arts School <a href="findnpc_new,city05,act818_mj_001" style="HLStype1">Ling Aomei (Ming Cult Elder Brother)</a> to submit task.
+SubmitNpcEx_70240=<a href="findnpc_new,city02,hd_dw_001" style="HLStype1">Lin Liang</a>
+DialogID_60940=<font face="Default" color="#ffffff" >I'm going to send the invitation note.</font>
+SubmitNpcEx_70187=Report to <a href="findnpc_new,city02,WorldNpc01194" style="HLStype1">Lin Tiannan</a> that you've sent out the invitation note.
+interactinfo_60940=Talk to <a href="findnpc_new,city02,Transcity02A" style="HLStype1">Xiang Jun</a>, request him to send the invitation notes to the grandmasters.
+okmenu_60940=<font face="Default" color="#ffffff" >All right.</font>
+SubmitNpcEx_70188=Claim New Year Gift Box from <a href="findnpc_new,city02,WorldNpc01650" style="HLStype1">Jing Huijuan</a>.
+SubmitNpcEx_70241=<a href="findnpc_new,city02,hd_dw_001" style="HLStype1">Lin Liang</a>
+SubmitNpcEx_70242=<a href="findnpc_new,city02,hd_dw_001" style="HLStype1">Lin Liang</a>
+SubmitNpcEx_70250=Find the Event Ambassador Lin Liang to submit the task and claim the 12th Lunar Month Pack
+SubmitNpcEx_70251=Find the Event Ambassador Lin Liang to submit the task and claim the Laba Gift Pack.
+SubmitNpcEx_70252=<a href="findnpc_new,city02,WorldNpc01097" style="HLStype1">Yan Lun</a>
+SubmitNpcEx_70520=<a href="findnpc_new,scene08,WorldNpc07833" style="HLStype1">Tan Jiexia</a>
+useiteminfo_60025=Use <a href="TASK_ITEM,useitem_20190318_fc_001" style="HLStype1">Loyal Soul Incense</a> at <a href="findnpc_new,scene08,Gather00155_fc" style="HLStype1">altar table</a>
+SubmitNpcEx_70521=<a href="findnpc_new,city02,hd_dw_001" style="HLStype1">Lin Liang</a>
+SubmitNpcEx_70522=<a href="findnpc_new,city02,WorldNpc01097" style="HLStype1">Yan Lun</a>
+SubmitNpcEx_70523=<a href="findnpc_new,city02,sz493" style="HLStype1">Tang Hulu</a>
+SubmitNpcEx_70096=<a href="findnpc_new,city02,hd_dw_001" style="HLStype1">Lin Liang</a>
+SubmitNpcEx_70097=<a href="findnpc_new,city02,sz460" style="HLStype1">Xiao Zhuqing</a>
+SubmitNpcEx_70098=<a href="findnpc_new,city02,sz460" style="HLStype1">Xiao Zhuqing</a>
+SubmitNpcEx_70099=<a href="findnpc_new,city02,sz460" style="HLStype1">Xiao Zhuqing</a>
+specialinfo_1419=Participate and complete Martial Path Convention 1 time
+specialinfo_1421=Participate and complete City Tournament 1 time
+SubmitNpcEx_70261=<a href="findnpc_new,city02,Transcity02A" style="HLStype1">Xiang Jun</a>
+QiecuoMenu_60300=<font face="Default" color="#ffffff" >Are you Zhu Bapi?!</font>
+QiecuoTitle_60300=<font face="Default" color="#ffffff" >Who are you? </font>
+SubmitNpcEx_70260=<a href="findnpc_new,city05,npc_act_cj_nz01" style="HLStype1">A Panicked Farmer</a>
+hunterinfo_60300=Help the farmer defeat the bully <a href="findnpc_new,city05,npc_hd_zlw_01" style="HLStype1">Zhu Bapi</a>
+story_60016_1=<font face="Default" color="#ffffff" >Spare my life! I will never do that again! </font>
+story_menu_60016=<font face="Default" color="#ffffff" >If you dare to bully this hood again, I will beat you once I see you! </font>
+storyinfo_60016=Help the farmer defeat the bully <a href="findnpc_new,city05,npc_hd_zlw_01" style="HLStype1">Zhu Bapi</a>
+storymenu_60016_1=<font face="Default" color="#ffffff" >What you say better be true! </font>
+useiteminfo_60026=Use <a href="TASK_ITEM,taskitem_xinge_fc_001" style="HLStype1">Pigeon</a> given by Xiang Jun. First send a message to school with Pigeon. Jianghu is in turmoil. Do not forget the teacher's kindness.
+DialogID_60064=<font face="Default" color="#ffffff" >Do tell it to the Wulin Leader! </font>
+specialinfo_1216=Complete Battlefield First Win 1 time (Ancient Tomb 6v6).
+hunterinfo_60024=According to the Tavern Owner there is a <a href="findnpc_new,city05,npc_lzy_cbt_drrw001" style="HLStype1">Foreigner in Chengdu </a>and might be carrying a treasure map. Defeat him and get the map.<font face="Default" color="#FF0000" >(View how to go to Chengdu in the task page)</font>
+hunterinfo_60025=According to the Tavern Owner there is a <a href="findnpc_new,city02,npc_lzy_cbt_drrw002" style="HLStype1">Foreigner in Suzhou </a>and might be carrying a treasure map. Defeat him and get the map.<font face="Default" color="#FF0000" >(View how to go to Suzhou in the task page)</font>
+hunterinfo_60026=According to the Tavern Owner there is a <a href="findnpc_new,city03,npc_lzy_cbt_drrw003" style="HLStype1">Foreigner in Jinling </a>and might be carrying a treasure map. Defeat him and get the map.<font face="Default" color="#FF0000" >(View how to go to Jinling in the task page)</font>
+hunterinfo_60027=According to the Tavern Owner there is a <a href="findnpc_new,city04,npc_lzy_cbt_drrw004" style="HLStype1">Foreigner in Luoyang </a>and might be carrying a treasure map. Defeat him and get the map.<font face="Default" color="#FF0000" >(View how to go to Luoyang in the task page)</font>
+hunterinfo_60028=According to the Tavern Owner there is a <a href="findnpc_new,city01,npc_lzy_cbt_drrw005" style="HLStype1">Foreigner in Yanjing </a>and might be carrying a treasure map. Defeat him and get the map.<font face="Default" color="#FF0000" >(View how to go to Yanjing in the task page)</font>
+specialinfo_1370=Achieve victory 3 times in any battlefield (Ancient Tomb battlefield, Martial Path Convention or Group Martial Arts Competition)
+SubmitNpcEx_70541=<a href="findnpc_new,city02,hd_wyhd_001" style="HLStype1">Shang Wu (Event Ambassador)</a>
+specialinfo_1425=Challenge the Possessed 1 time
+specialinfo_1426=Achieve victory once in battlefield (Participate in either the Ancient Tomb Battlefield or Group Martial Arts Competition and win to complete)
+SubmitNpcEx_70208=<a href="findnpc_new,city02,hd_wyhd_001" style="HLStype1">Shang Wu (Event Ambassador)</a>
+SubmitNpcEx_70209=<a href="findnpc_new,city02,hd_wyhd_001" style="HLStype1">Shang Wu (Event Ambassador)</a>
+SubmitNpcEx_70210=<a href="findnpc_new,city02,hd_dw_001" style="HLStype1">Lin Liang</a>
+SubmitNpcEx_70545=<a href="findnpc_new,city02,hd_wyhd_001" style="HLStype1">Shang Wu (Event Ambassador)</a>
+SubmitNpcEx_70555=<a href="findnpc_new,city02,hd_wyhd_001" style="HLStype1">Shang Wu (Event Ambassador)</a>
+SubmitNpcEx_70556=<a href="findnpc_new,city02,hd_dw_001" style="HLStype1">Lin Liang</a>
+DialogID_60100=<font face="Default" color="#ffffff" > </font>
+DialogID_60101=<font face="Default" color="#ffffff" > </font>
+DialogID_60102=<font face="Default" color="#ffffff" > </font>
+DialogID_60103=<font face="Default" color="#ffffff" > </font>
+DialogID_60104=<font face="Default" color="#ffffff" > </font>
+DialogID_60105=<font face="Default" color="#ffffff" > </font>
+DialogID_60106=<font face="Default" color="#ffffff" > </font>
+DialogID_60107=<font face="Default" color="#ffffff" > </font>
+SubmitNpcEx_70300=Reply to Labor Prison Guard
+SubmitNpcEx_70301=Reply to Labor Prison Guard
+SubmitNpcEx_70302=Reply to Labor Prison Guard
+SubmitNpcEx_70303=Reply to Labor Prison Guard
+SubmitNpcEx_70304=Reply to Labor Prison Guard
+SubmitNpcEx_70305=Reply to Labor Prison Guard
+SubmitNpcEx_70306=Reply to Labor Prison Guard
+SubmitNpcEx_70307=Reply to Labor Prison Guard
+interactinfo_60100=Go to the writing desk to write a Letter of Repentance
+interactinfo_60101=Help to clean up clutter, which is piled up in the corner of the cell
+interactinfo_60102=Help to chop firewood, which is stacked in the corner of the cell
+interactinfo_60103=Tidy the straw mat
+interactinfo_60104=Go to the writing desk to write a Letter of Repentance
+interactinfo_60105=Help to clean up clutter, which is piled up in the corner of the cell
+interactinfo_60106=Help to chop firewood, which is stacked in the corner of the cell
+interactinfo_60107=Tidy the straw mat
+interactinfo_60108=Write a Letter of Repentance, and reply to Labor Prison Guard to receive Manual Labor Tasks to reduce Infamy
+interactinfo_60109=Clean up clutter and reply to Labor Prison Guard to reduce Infamy
+interactinfo_60110=Chop firewood and reply to Labor Prison Guard to can reduce Infamy
+interactinfo_60111=Tidy the straw mat and reply to Labor Prison Guard to reduce Infamy
+interactinfo_60112=Write a Letter of Repentance and reply to Labor Prison Guard to receive Manual Labor Tasks to decrease jail time
+interactinfo_60113=Clean up clutter and reply to Labor Prison Guard to decrease jail time
+interactinfo_60114=Chop firewood and reply to Labor Prison Guard to decrease jail time
+interactinfo_60115=Tidy the straw mat, complete, and reply to Labor Prison Guard to decrease jail time
+okmenu_60100=<font face="Default" color="#ffffff" >Write a Letter of Repentance</font>
+okmenu_60101=<font face="Default" color="#ffffff" >Clean up clutter</font>
+okmenu_60102=<font face="Default" color="#ffffff" >Chop firewood</font>
+okmenu_60103=<font face="Default" color="#ffffff" >Tidy the straw mat</font>
+okmenu_60104=<font face="Default" color="#ffffff" >Write a Letter of Repentance</font>
+okmenu_60105=<font face="Default" color="#ffffff" >Clean up clutter</font>
+okmenu_60106=<font face="Default" color="#ffffff" >Chop firewood</font>
+okmenu_60107=<font face="Default" color="#ffffff" >Tidy the straw mat</font>
+SubmitNpcEx_70562=<a href="findnpc_new,city02,WorldNpc01650" style="HLStype1">Jing Huijuan</a>
+SubmitNpcEx_70563=<a href="findnpc_new,city02,hd_dw_001" style="HLStype1">Lin Liang</a>
+hunterinfo_60007=Defeat <a href="findnpc_new,city02,waiyuwulin_031" style="HLStype1">the Foreign Killer</a>
+interactinfo_60006=Kill the puppet (leader)
+DialogID_60018=<font face="Default" color="#ffffff" >Liu Wangsheng was a war hero, and highly respected among the Clarion Cliff…so it has come to this. Take the letter from Yagyu Jiro as his token to meet Liu, that'll lower his guard. Do what must be done.</font>
+DialogID_60027=<font face="Default" color="#ffffff" >You know this is a bait, don't you? Yagyu Jiro's party will no doubt attract his enemies. Since it's no secret that you're working for him, they will come after you…and should they kill you, they would be doing Lord Yagyu a favor.</font>
+DialogID_60049=<font face="Default" color="#ffffff" >The villagers are too weak to put up any resistance against the Yagyus, so there is only a small contingent of Ashigaru there. Kill those foot soldiers, and we can evacuate the villagers. Then we'll come up with an explanation for what happened.</font>
+hunterinfo_60002=Trick Liu Wangsheng into going to a <a href="findnpc_new,scene16,EventNpc_wjd_wjd_003" style="HLStype1">secluded place</a>, and kill him. (This quest cannot be triggered by more than 1 player at the same time.)
+hunterinfo_60003=Kill the <a href="findnpc_new,scene19,attack_wjd_wjd_003" style="HLStype1">traitorous Chinese warriors</a>.
+interactinfo_60019=Plan your next move with <a href="findnpc_new,scene19,npc_wjd_wjd_001" style="HLStype1">Zhou Yuntian </a>.
+interactinfo_60031=Go to the <a href="findnpc_new,scene19,EventNpc_wjd_wjd_005" style="HLStype1">banquet</a> and assassinate Xue Hai.
+interactinfo_60036=Yagyu Jiro has sent bounty hunters after the murderer of Xue Hai. Plan with <a href="findnpc_new,scene19,npc_wjd_wjd_001" style="HLStype1">Zhou Yuntian</a> on how to deal with it.
+interactinfo_60038=Explain to <a href="findnpc_new,scene19,npc_wjd_wjd_003" style="HLStype1">Yagyu Jiro</a> about killing Xue Hai.
+story_60003_1=<font face="Default" color="#ffffff" >I know why you're here. You see, my foster mother and brother were murdered by those Japanese. We'd be glad to help you, so we can have our revenge!</font>
+story_60010_2=<font face="Default" color="#ffffff" >You have risked much to make your way into the Yagyu Clan, honey. I'd hate to see you die before you accomplish your mission.</font>
+story_60014_1=<font face="Default" color="#ffffff" >All right. I've never seen the skills of that killer. I'm afraid he is a foreign killer. I don't know why he wanted to kill me. </font>
+storymenu_60008_1=<font face="Default" color="#ffffff" >It is true. He threatened to expose my allegiance to you, and thus I silenced him. I hope this has not inconvenienced you in any way.</font>
+storymenu_60010_2=<font face="Default" color="#ffffff" >So you know about my mission</font>. <font face="Default" color="#ffffff" >To be honest, </font><font face="Default" color="#ffffff" >I am here </font><font face="Default" color="#ffffff" >to retrieve the Ocean Map of the Eastern Seas</font>. <font face="Default" color="#ffffff" >I saw Blood Blade Clan disciple joined forces with the Yagyus. So I tried to kill him</font><font face="Default" color="#ffffff" >. </font>
+storymenu_60012_1=<font face="Default" color="#ffffff" >Perhaps you're right, and I'm not fit to carry out your mission…I may as well turn myself in to the Yagyus right now!</font>
+storymenu_60014_1=<font face="Default" color="#ffffff" >Leader, they are the foreign killers. </font>
+interactinfo_60904=Kill the target
+interactinfo_60913=Kill the target
+interactinfo_60916=Kill all the targets
+SubmitNpcEx_70904=Kill the target
+SubmitNpcEx_70913=Kill the target
+SubmitNpcEx_70916=Kill all the targets
+specialinfo_1200=Defeat enemy Guild players 3 times
+interactinfo_60214=Deliver the Mid Autumn Gift Box to the old beggar <a href="findnpc_new,city02,WorldNpc01135" style="HLStype1">Fan Yitang</a>.
+interactinfo_60215=Deliver the Mid Autumn Gift Box to the old widow <a href="findnpc_new,city02,WorldNpc01551" style="HLStype1"> Xu Yun</a>
+interactinfo_60216=Deliver the Mid Autumn Gift Box to the Study Master <a href="findnpc_new,city02,WorldNpc01097" style="HLStype1">Yan Lun</a>
+interactinfo_60217=Deliver the Mid Autumn Gift Box to the drunkard <a href="findnpc_new,city02,WorldNpc01626" style="HLStype1">Xie Guangtian</a>.
+okmenu_60214=<font face="Default" color="#ffffff" >The tavern owner asked me to send some Mid Autumn Gift Boxes to you. </font>
+okmenu_60215=<font face="Default" color="#ffffff" >The tavern owner asked me to send some Mid Autumn Gift Boxed to you. </font>
+okmenu_60216=<font face="Default" color="#ffffff" >The tavern owner asked me to send some Mid Autumn Gift Boxes to you.</font><font face="Default" color="#ffffff" >Greetings </font><font face="Default" color="#ffffff" >sir</font><font face="Default" color="#ffffff" >, please have a seat. </font>
+okmenu_60217=<font face="Default" color="#ffffff" >The tavern owner asked me to send some Mid Autumn Gift Boxes to you.</font>
+specialinfo_1420=Participate and complete Group Martial Arts Competition 1 time
 

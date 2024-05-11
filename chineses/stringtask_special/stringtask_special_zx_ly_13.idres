@@ -10,7 +10,6 @@ DialogID_13307=<s>How do you dare to enter the imperial hunting ground? Catch hi
 DialogID_13310=<s>Here is the army camp. Random people are not allowed to enter. Get out of here now.
 DialogID_13311=<s>It's not going well. The enemies are fighting fiercely. Their leader lead them all the way up here. We can hardly defend ourselves, unless the Manchu Chieftain is killed.
 DialogID_13312=<s>Great. I'm sending the good message to the Guard Official.
-DialogID_13313=<s>I feel much better now. The enemy's leader was killed and they started to withdraw. But we still don't know which tribe they are from. We'll know if we can get some of their flags.
 DialogID_13314=<s>My injury is not a big issue. Please strengthen the defense now, in case they ambush.
 DialogID_13315=<s>I feel much better now. Please guard the city for me. Don't let the Tartars come here.
 DialogID_13317=<s>Okay. The products here are of the best quality and with fair prices. But since you need a large amount of them, I need some time to process the order. Please collect some Fructus Amomi Rotundus and bring it to me. I will return the favor.
@@ -35,10 +34,7 @@ hunterinfo_13302=Defeat <a href="findnpc_new,city01,WorldNpc09081" style="HLStyp
 hunterinfo_13303=Defeat <a href="findnpc_new,city01,monrc025047" style="HLStype1">Camp Guard</a>.
 hunterinfo_13304=Defeat <a href="findnpc_new,scene09,monrf092800" style="HLStype1">Gatekeeping Soldier</a>.
 hunterinfo_13305=Kill <a href="findnpc_new,scene09,monrf092900" style="HLStype1">Manchu Soldier</a>.
-hunterinfo_13306=Kill <a href="findnpc_new,scene09,monrf093000" style="HLStype1">Manchu Chieftain</a>.
 hunterinfo_13307=Defeat <a href="findnpc_new,scene09,monrf095000" style="HLStype1">Manchu Army</a>.
-hunterinfo_13308=Defeat <a href="findnpc_new,scene09,monrf093200" style="HLStype1">Manchu Chiliarch</a>.
-hunterinfo_13309=Defeat <a href="findnpc_new,scene09,monrf093300" style="HLStype1">Manchu Pursuer</a>.
 hunterinfo_13310=Defeat <a href="findnpc_new,scene09,monrf093400" style="HLStype1">Western Giant Boa</a>.
 hunterinfo_13311=Give a lesson to <a href="findnpc_new,scene09,monrf093500" style="HLStype1">robber</a>.
 hunterinfo_13312=Kill <a href="findnpc_new,scene09,monrf093600" style="HLStype1">Army Supervisor Guard</a>.
@@ -86,7 +82,6 @@ story_13301_1=<s>I'm much better now. My chest is not that painful even when thi
 story_13301_2=<s>After I experienced the pain of the love poison. I changed my mind on a few things. One can not force love onto another person. Sometimes the so called love itself hurts others.
 story_13302_1=<s>They mentioned that you are exceptionally good at martial arts. Why don't you join the army and protect the country? Here at the border, I took order from the emperor and guard here. If I don't discipline the army, there will be a lot of troubles.
 story_13302_2=<s>Enough casual chat. A soldier just reported that Tartars are attacking us fiercely. I must go now. Would you like to join me and protect the country?
-story_13303_1=<s>It's really nice of you. You heard the border is in danger and travelled all the way from Yanjing. You arrived here even earlier than us beggar's sect disciples, and started to fight against the Tartars and protect the country. We admire people like you.
 story_13303_2=<s>You are modest and humorous. I really admire you. There is no point to talk about the difference between the righteous and the evil. There are heroes in the latter too.
 story_13304_1=<s>I see. No wonder you are concerned about the citizens and swear to protect the country. You are the descendant of the country's founders. You joined the Wanderers Valley to return earlier favor, despite of what other people say about you. I admire you for that.
 story_13304_2=<s>I admire that you don't get attracted by money and fame. Recently, the Mysterious Clan are making troubles everywhere. It seems the attacking from the Tartars has something to do with them too.
@@ -115,4 +110,9 @@ storymenu_13305_2=King Ming... Beauty... Money...
 useiteminfo_13301=Let <a href="findnpc_new,city01,WorldNpc08627" style="HLStype1">Dongfang Zhi</a> take <a href="TASK_ITEM,useitem_62y" style="HLStype1">Heartless Pill</a>.
 useiteminfo_13302=Use <a href="TASK_ITEM,useitem_63y" style="HLStype1">Gold Sore Medicine</a> to heal <a href="findnpc_new,scene09,WorldNpc07274" style="HLStype1">Liu Bing</a>.
 useiteminfo_13303=Use <a href="TASK_ITEM,useitem_64y" style="HLStype1">Qi Blood Pill</a> to heal <a href="findnpc_new,scene09,WorldNpc07273" style="HLStype1">Wang Kun</a>.
+DialogID_13313=<s>I feel much better now. The enemy's leader was killed and they started to withdraw. But we still don't know which tribe they are from. We'll know if we can get some of their flags.
+hunterinfo_13306=Kill <a href="findnpc_new,scene09,monrf093000" style="HLStype1">Manchu Chieftain</a>.
+hunterinfo_13308=Defeat <a href="findnpc_new,scene09,monrf093200" style="HLStype1">Manchu Chiliarch</a>.
+hunterinfo_13309=Defeat <a href="findnpc_new,scene09,monrf093300" style="HLStype1">Manchu Pursuer</a>.
+story_13303_1=<s>It's really nice of you. You heard the border is in danger and travelled all the way from Yanjing. You arrived here even earlier than us beggar's sect disciples, and started to fight against the Tartars and protect the country. We admire people like you.
 

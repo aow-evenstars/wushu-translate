@@ -106,7 +106,6 @@ collectinfo_51014=Collect 20 Bowfins (You can get them via Fishing).
 collectinfo_51015=Collect 10 Pod Pepper (You can get them via planting).
 collectinfo_51016=Collect 5 bottles of Mature Vinegar (You can buy them from the Farmers).
 collectinfo_51017=Help Dongfang Lingshao to collect five Charcoals (You can buy them from the Blacksmith).
-collectinfo_51018=Defeat <a href="findnpc_new,school03,monm032700" style="HLStype1">Scholars Traitor Disciples</a> and withdraw 10 Scholars Tokens.
 collectinfo_51020=Give the Hoe back to <a href="findnpc_new,school03,WorldNpc03308" style="HLStype1">Dongfang Lingshao</a>.
 collectinfo_51021=Give the Hoe back to <a href="findnpc_new,school03,WorldNpc03308" style="HLStype1">Dongfang Lingshao</a>.
 collectinfo_51022=Collect "Braveness and Fearlessness" (Scholar's Life Tool).
@@ -115,7 +114,6 @@ collectinfo_51024=Collect "Eupatorium" End Song (Musician's Life Tool).
 collectinfo_51025=Collect "Jinming Sketch" (Chess Player's Life Tool).
 collectinfo_51026=Collect "Everything Goes Well" (Scholar's Life Tool).
 collectinfo_51027=Collect "Coral Penholder" (Painter's Life Tool).
-collectinfo_51030=Defeat <a href="findnpc_new,school03,monm032700" style="HLStype1">Scholars Traitor Disciples</a> and withdraw 10 Scholars Tokens.
 collectinfo_51031=Pick up more Wild Bamboo and give them to <a href="findnpc_new,school03,WorldNpc03308" style="HLStype1">Dongfang Lingshao</a>.
 collectinfo_51032=Pick up more Tree Roots and give them to <a href="findnpc_new,school03,WorldNpc03308" style="HLStype1">Dongfang Lingshao</a>.
 collectinfo_51033=Collect "The Song of Kan" Middle Song (Musician's Life Tool).
@@ -131,8 +129,6 @@ hunterinfo_51052=Defeat the <a href="findnpc_new,school03,monm031300" style="HLS
 hunterinfo_51053=Defeat the <a href="findnpc_new,school03,monm033501" style="HLStype1">Yellow Dragon Castle Minion</a>.
 hunterinfo_51054=Defeat the <a href="findnpc_new,school03,monm033502" style="HLStype1">Yellow Dragon Castle Taskmaster</a>.
 hunterinfo_51055=Defeat <a href="findnpc_new,school03,qy_0215_jzt_qieshuzei" style="HLStype1">Book Thief</a>.
-hunterinfo_51056=Kill ten <a href="findnpc_new,school03,monm033100" style="HLStype1">Crazy Dogs</a>.
-hunterinfo_51057=Kill ten <a href="findnpc_new,school03,monm030700" style="HLStype1">Japanese Pirates</a>.
 interactinfo_51024=Go to discuss with <a href="findnpc_new,school03,WorldNpc03305" style="HLStype1">Xiao Bieqing</a>.
 interactinfo_51025=Go to <a href="findnpc_new,school03,Event_qy_jzt01" style="HLStype1">Library</a>.
 interactinfo_51026=Ask <a href="findnpc_new,school03,JZTNPC059" style="HLStype1">Fang Shilu</a>.
@@ -233,7 +229,6 @@ SubmitNpcEx_17842=Tell <a href="findnpc_new,school03,WorldNpc03613" style="HLSty
 DialogID_51023=<font face="Default" color="#ffffff" >Your skills are not bad. Although I only used one-tenth of my strength, I could feel the pressure you were outing on me. I will write a reply, and you can deliver it to Yang Paifeng.  </font>
 hunterinfo_51037=Help Wen Xinluo to find <a href="findnpc,school03,625,103,401" style="HLStype1">Bu Yanyu.</a>
 interactinfo_51018=Talk with <a href="findnpc_new,school03,WorldNpc03320" style="HLStype1">Wen Xinluo</a>.
-DialogID_51057=<font face="Default" color="#ffffff">A sect called Phantoms' Mountain Manor has been terrorizing Peacock Villa. I am quite worried about my friend.</font>
 hunterinfo_51058=Kill Nan Batian of Peacock Villa.
 hunterinfo_51059=Kill Ximen Yu of Peacock Villa.
 hunterinfo_51060=Kill the Wasps in Peacock Villa.
@@ -241,4 +236,9 @@ DialogID_51061=<font face="Default" color="#ffffff" >Bastard! According to our i
 okmenu_51061=<font face="Default" color="#ffffff">Wait for my moves. The Beasts Mountain Villa is in danger!</font>
 specialinfo_525=Challenge the Huanhua Sword Sect.
 specialinfo_577=Challenge Martial Arts Club of Beasts Mountain Villa.
+DialogID_51057=<font face="Default" color="#ffffff">A sect called Phantoms' Mountain Manor has been terrorizing Peacock Villa. I am quite worried about my friend.</font>
+collectinfo_51018=Defeat <a href="findnpc_new,school03,monm032700" style="HLStype1">Scholars Traitor Disciples</a> and withdraw 10 Scholars Tokens.
+collectinfo_51030=Defeat <a href="findnpc_new,school03,monm032700" style="HLStype1">Scholars Traitor Disciples</a> and withdraw 10 Scholars Tokens.
+hunterinfo_51056=Kill ten <a href="findnpc_new,school03,monm033100" style="HLStype1">Crazy Dogs</a>.
+hunterinfo_51057=Kill ten <a href="findnpc_new,school03,monm030700" style="HLStype1">Japanese Pirates</a>.
 

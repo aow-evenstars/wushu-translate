@@ -13,7 +13,6 @@ context_74003=邙山皇陵已經被神秘勢力佔據，連盜墓賊都無法靠
 context_74004=魯大人一番話雖然很有道理，但是畢竟是一家之言，只有去酒館這種消息靈通之地探聽一番，以求驗證一番了
 context_74005=洛陽酒館一行，已經基本可以肯定魯大人所言不虛，是聽從魯大人的建議，去見密探還是繼續過自己的逍遙日子，如今到了該抉擇的時候了
 context_74006=秦王剛決定聯絡眾人一起維持江湖秩序，誰知意外就發生了
-context_74007=解決了刺殺秦王的殺手，獲知了殺手的身份，真是一波未平一波又起
 menu_74001_1=<font face="Default" color="#ffffff" >此話怎講？</font>
 menu_74002_1=<font face="Default" color="#ffffff" >實不相瞞，最近朝廷已經插手江湖之事，如今盟主林天南避嫌不出，還望秦王能出手穩住中原武林</font>
 submit_74001=<font face="Default" color="#ffffff" >多謝誇獎</font>
@@ -32,4 +31,22 @@ title_74004=探聽消息
 title_74005=下定決心
 title_74006=秦王遇刺
 title_74007=兇手身份
+CompleteMenu_74012=<font face="Default" color="#ffffff" >（將慕淑子抱起來）我們走了。</font>
+accept_74008_1=<font face="Default" color="#ffffff" >淑子</font><font face="Default" color="#ffffff" >迷</font><font face="Default" color="#ffffff" >跡</font>
+accept_74009_1=
+complete_74012=<font face="Default" color="#ffffff" >此地不宜久留，我們趕快離開吧。</font>
+context_74008=雲遊歸來的燕長空告知眾人慕淑子遇險，眾人決定前往營救。
+context_74009=途中遇見鏢隊，聽總鏢頭講起有不少南疆人在附近出沒，眾人決定前往探查。
+context_74010=找到南疆人藏匿之地，發現化地老祖，並將其擊敗。
+context_74012=前往洞穴中發現失蹤少女，在洞穴深處找到慕淑子。
+submit_74012=<font face="Default" color="#ffffff" >好。</font>
+target_74008=前往營救慕淑子
+target_74009=打聽化地老祖的消息。
+target_74010=擊敗化地老祖。
+target_74012=解救慕淑子。
+title_74008=淑子迷蹤
+title_74009=鏢隊見聞
+title_74010=尋找化地
+title_74012=深入虎穴
+context_74007=解決了突擊秦王的隱衛，獲知了隱衛的身份，真是一波未平一波又起
 

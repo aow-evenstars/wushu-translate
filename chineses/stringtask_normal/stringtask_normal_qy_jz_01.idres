@@ -59,7 +59,6 @@ complete_17826=<font face="Default" color="#ffffff" >Er…though the handwriting
 complete_17827=<font face="Default" color="#ffffff">It writes:</font><font face="Default" color="#8fd6ef">The cold moonlight above the North Montain shines on the frost,while strong wind in the Feburary breaks heart apart, the good wine in West Lake makes me tired, it is hard to sleep listening to a song from hometown. </font><font face="Default" color="#ffffff">.</font>
 complete_17828=<font face="Default" color="#ffffff" >It's a long story, and allow me to tell it patiently.</font>
 complete_17830_1=<font face="Default" color="#ffffff" >It's my carelessness that makes the evil men succeed and disgraces the sect.</font>
-complete_17830_2=<font face="Default" color="#ffffff">Mo Wuqing, the younger sister of the slain woman, is determined to kill me. She thinks I killed her sister. I have to find the truth before I answer for my crimes before her.</font>
 complete_17830_3=<font face="Default" color="#ffffff">Go and find Mo wuqin First, and you must clarify it to her. She has probably gone to the back hill.</font>
 complete_17855=<font face="Default" color="#ffffff" >Thank you for helping me vent my anger. Please take this gift as a sign of my appreciation.</font>
 context_17801=Abbess Jueqing asked me to deal with the fishermen.
@@ -73,7 +72,6 @@ context_17824=Find the knowledgeable old man who plays weiqi and ask him to iden
 context_17827=Look around Youyuan Cave, it seems there is something on the corpse over there.
 context_17828=On the North mountain, the cold moon shines on the frost; the February wind is so sharp that it can cut people's intestines. The sweet wine of Xi Lake makes people tired, and a song of homesickness makes people hard to sleep. These poem sentences hide the method of opening the secret door. Use the torch to burn the right pyre, and then the stone door of the secret device can be opened, and we thus we can save out Xing Junke in the cave.
 context_17829=Xing Junke has gone back to the Scholars. Go to the Scholars quickly to see what happened.
-context_17830=Xing Junke was attacked by the mysterious woman. Protect her from being killed!
 context_17831=Pick up the vegetables from Old Fu for the village head.
 context_17832=One officer arrived at our village, village head let you help him to receive the officer quickly, by the way detect what the officer's purpose is.
 context_17833=Unexpectedly, that officer errand came to urge us to hand over the taxes. And he threatened that if we can't hand over all taxes, he will start to arrest us.
@@ -330,8 +328,6 @@ context_17873=Dongfang Lingshao suggested us to go and ask Gu Xinluo.
 context_17874=Buy some Sugarcoated Haws and exchange the Intelligence with Little Saintess with them.
 context_17875=I have asked and knew what happened from Little Saintess. I can't imagine that Xing Junke is a man like that. However, his martial arts are strong. I should go and talk about what to do with the brainpower in the Scholars Shi Yanbing.
 context_17877=Mr. Shi Yanbing's Letter of Authorization. He had an appointment with Yan Changkong to drink in the Tavern at the bottom of the Mountain. But now he is too busy to go. Please go and tell this to Yan Changkong.
-context_17878=This is the Trial Practice Task from Shi Yanbing. Defeat the Betrayed Disciples of Scholars and get 10 pieces of Scholar Tokens back.
-context_17879=Kill the infected dogs.
 context_17880=Ask Dongfang Lingshao about forging swords.
 context_17881=Hua Caiyi wants to make a dish. Collect all the needed materials and give her.
 context_17882=Hua Caiyi wants to teach her disciples new Skills of Qin, Chess, Calligraphy and Painting. Now it is lack of Manuals of the new Qin, Chess, Calligraphy and Painting. She hopes that you can collect the needed Manuals and give her.
@@ -569,8 +565,15 @@ title_17801=Teach the bully fisherman a lesson.
 CompleteMenu_17897=<font face="Default" color="#ffffff">I have already killed the evil bandits in Peacock Villa, don't worry. </font> <font face="Default" color="#ffffff">Lingshao's case...</font>
 context_17897=<s>Dai Yushu is worried about the safety of her best friend. Please go to the Peacock Villa and kill the guys who do harmful to others!
 target_17897=<s>Go to the Peacock Villa to eliminate the evils and report it to <a href="findnpc_new,school03,WorldNpc03314" style="HLStype1">Dai Yushu</a>.
-title_17897=Twilight Village
+title_17897=Peacock Villa
 context_17896=<s>Deal with Small Beasts Mountain Villa.
 target_17896=<s>Go to the Beasts Mountain Villa to Challenge Martial Arts Club and report it to Dongfang Lingshao.
 title_17896=Beast Villa
+complete_17830_2=<font face="Default" color="#ffffff">Mo Wuqing, the younger sister of the slain woman, is determined to kill me. She thinks I killed her sister. I have to find the truth before I answer for my crimes before her.</font>
+context_17817=Take Xiao Bieqing's commission to investigate the attack on the Wanderer's Valley Envoy. Confer with Shi Yanbing.
+context_17822=<font face="Default" color="#000000" >Yan Changkong informed that Wanderer's Valley Envoy was attacked in Tiger Hill. Go to Tiger Hill to investigate. </font>
+context_17830=Xing Junke was attacked by the mysterious woman. Protect her from being killed!
+context_17878=This is the Trial Practice Task from Shi Yanbing. Defeat the Betrayed Disciples of Scholars and get 10 pieces of Scholar Tokens back.<br><font face="Default" color="#FF0000">Omniscient Scholar Memorandum:</font><br><s><font face="Default" color="#A020F0">Defeat the Betrayed Disciples of Scholars and get 10 pieces of Scholar Tokens back</font>
+context_17879=Kill the infected dogs.<br><font face="Default" color="#FF0000">Omniscient Scholar Memorandum:</font><br><s><font face="Default" color="#A020F0">Kill 10 infected dogs and talk to Zhao Zixing.</font>
+menu_17818_1=By the order of the master, I have come to ask for your opinion about the attack on Wanderer's Valley Envoy.
 

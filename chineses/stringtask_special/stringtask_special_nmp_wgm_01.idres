@@ -67,7 +67,6 @@ DialogID_8817=Go light up the signal flare to let the disciples know to return.
 DialogID_8818=I leave you to deal with the rest of this scum. Show me what you are made of. Show them no mercy. Go!
 DialogID_8819=I am already aware of your performance on this task. You must understand that this is only the beginning! Challenges in the future will be far more cruel and harsh. I recommend that you prepare yourself accordingly!
 DialogID_8820=The riverside flowers are redder than fire at sunrise. The green of the river's water in spring is almost blue—How can one not remember Suzhou? The ancients are so poetic! Why am I unable to perceive the world as they did? Huzzah! Now this is some good wine!  {@0:Name}, you have arrived so quickly! You really know me!
-DialogID_8821=Thank you for rescuing me! These bandits commit murder without a second thought. I was nearly finished…they are here!
 DialogID_8822={@0:Name}, I have been waiting for you!
 DialogID_8823=I know all about what happened. You really did well this time. Every new disciple goes through this process after joining the Rootless Clan. It is the only way you can grow!
 DialogID_8824=Take the Rootless Clan disciples with you and eradicate Xu Village.
@@ -145,14 +144,12 @@ SubmitNpcEx_49565=Submit task: <a href="findnpc_new,school11,wgm_042" style="HLS
 SubmitNpcEx_49652=Go to Infernal Hall. Meet Headmaster <a href="findnpc_new,school11,wgm_001" style="HLStype1">Wei Wuyan</a> and declare your intentions.
 SubmitNpcEx_49797=Wipe out the Golden Needle Sect
 ZZAnswerText1_9051=Disciples must not kill each other.
-ZZAnswerText1_9052=Disciples must refrain from greed, lust and desire to kill.
 ZZAnswerText1_9053=I don't know.
 ZZAnswerText2_9051=I don't know.
 ZZAnswerText2_9052=I don't know.
 ZZAnswerText2_9053=Disciples must not reveal their identities.
 ZZAnswerText3_9051=Disciples must dress appropriately.
 ZZAnswerText3_9052=Disciples must follow Clan orders.
-ZZAnswerText3_9053=Disciples must refrain from greed, lust and desire to kill.
 collectinfo_8750=Collect <a href="findnpc_new,," style="HLStype1"></a><font color="#FFFF00">White Sauce Scale Fish </font><font color="#FF3030">(Time limit: 25 minutes)</font>
 collectinfo_8751=Collect <a href="findnpc_new,," style="HLStype1"></a><font color="#FFFF00">Mongolian Barbecue </font><font color="#FF3030">(Time limit: 25 minutes)</font>
 collectinfo_8752=Collect <a href="findnpc_new,," style="HLStype1"></a><font color="#FFFF00">Buddha Jumping Over the Wall </font><font color="#FF3030">(Time limit: 25 minutes)</font>
@@ -312,12 +309,6 @@ collectinfo_8981=Increase your reputation. Once you reach the requirement, go to
 collectinfo_8982=Increase your reputation. Once you reach the requirement, go to <a href="findnpc_new,school11,wgm_075" style="HLStype1">Tang Yuzhi </a>to purchase Rootless token 5. Rootless Clan reputation of 379,000 points is required. Once the points have been achieved, press J to open the factions interface to view available daily tasks and achievable rewards.
 collectinfo_8998=Increase your reputation. Once you reach the requirement, go to <a href="findnpc_new,school11,wgm_075" style="HLStype1">Tang Yuzhi </a>to purchase Rootless token 2. Rootless Clan reputation of 76,000 points is required. Once the points have been achieved, press J to open the factions interface to view available daily tasks and achievable rewards.
 collectinfo_8999=Increase your reputation. Once you reach the requirement, go to <a href="findnpc_new,school11,wgm_075" style="HLStype1">Tang Yuzhi </a>to purchase Rootless token 1.Rootless Clan reputation of 34,000 points is required. Once the points have been achieved, press J to open the factions interface to view available daily tasks and achievable rewards.
-convoyinfo_8750=Protect <font color="#FF3030">Wang Junyi </font>from the assassins
-convoyinfo_8751=Protect <font color="#FF3030">Zeng Feng </font>from the assassins
-convoyinfo_8752=Protect <font color="#FF3030">Ye Junyi </font>from the assassins
-convoyinfo_8753=Protect <font color="#FF3030">Zhang Zhenyi </font>from the assassins
-convoyinfo_8754=Protect <font color="#FF3030">Lei Yu </font>from the assassins
-convoyinfo_8756=Protect <font color="#FF3030">Dong Shuming </font>from the assassins
 convoyinfo_8761=Protect Dongfang Lin.
 hunterinfo_8750=Defeat the <a href="findnpc_new,city01,wgm_028" style="HLStype1">guard.</a>
 hunterinfo_8751=Defeat the <a href="findnpc_new,city01,wgn_zd_001" style="HLStype1">thugs.</a>
@@ -331,7 +322,6 @@ hunterinfo_8759=Defeat <a href="findnpc_new,city03,wgm_046" style="HLStype1">Fen
 hunterinfo_8762=Slay the besieged bandit leader Lei Ming.
 hunterinfo_8763=Slay the besieged Lei Ming guards.
 hunterinfo_8764=Defeat all of the bandits who have suddenly appeared nearby.
-hunterinfo_8766=Go to the garden east of the city and assassinate <a href="findnpc_new,city02,wgm_zd_010" style="HLStype1">Yan Nansheng</a>
 hunterinfo_8800=Pretend to fight with the disguised <a href="findnpc_new,city03,wgm_task_glm_001" style="HLStype1">Feng Changhen</a> to gain trust.
 hunterinfo_8801=Defeat <a href="findnpc_new,school01,monm010400" style="HLStype1">Beggars' Sect Spy </a>and spread rumors in Beggars' Sect, and prevent the Beggars' Sect from ruining the plan.
 hunterinfo_8802=Defeat <a href="findnpc_new,school01,monm010402" style="HLStype1">Beggar's Sect Elder </a>and spread rumors in Beggars' Sect, and prevent the Beggars' Sect from ruining the plan.
@@ -340,15 +330,11 @@ hunterinfo_8804=Defeat <a href="findnpc_new,school01,wgm_task_glm_003" style="HL
 hunterinfo_8805=Defeat <a href="findnpc_new,school01,wgm_task_glm_004" style="HLStype1">Yu Li</a>
 hunterinfo_8806=Defeat <a href="findnpc_new,school01,wgm_task_glm_005" style="HLStype1">Zhou Hu</a>
 hunterinfo_8807=Defeat <a href="findnpc_new,school01,wgm_task_glm_006" style="HLStype1">soldier</a>
-hunterinfo_8808=Ambushed by <a href="findnpc_new,city03,wgm_task_glm_007" style="HLStype1">assassins </a>who suddenly appeared! Get rid of them!
 hunterinfo_8809=Violators of the clan's rules must be dealt with swiftly! Death shall come to <a href="findnpc_new,school11,wgm_task_glm_008" style="HLStype1">Xiao Lizi.</a>
 hunterinfo_8811=The other disciples are now here! Go together to capture this traitor<a href="findnpc_new,city03,npc_wgm_cc_015" style="HLStype1">Feng Changhen</a>. You must attack relentlessly with the other disciples, or you will fail the task.
 hunterinfo_8820=Defeat the <a href="findnpc_new,school01,monm010401" style="HLStype1">Beggar's Sect Disciple</a> and spread rumors in the Beggars' Sect to prevent the Beggars' Sect from ruining the plan!
 hunterinfo_8921=Do not let <a href="findnpc_new,city03,NPC_wgm_dy_wrlx" style="HLStype1">Wu Rui</a> leak any information. Silence her. (Wu Rui is at the jail.)
 hunterinfo_8922=Show this <a href="findnpc_new,city03,NPC_wgm_dy_dipi" style="HLStype1">Ruffian</a> a thing or two.
-hunterinfo_8923=Kill <a href="findnpc_new,city03,NPC_wgm_dy_hy" style="HLStype1">Kuang Qianlong</a>
-hunterinfo_8924=Leave no one alive! Slaughter <a href="findnpc_new,city03,NPC_wgm_dy_hyjj" style="HLStype1">Kuang Qianlong's family.</a>
-hunterinfo_8925=Leave no one alive! Kill <a href="findnpc_new,city03,NPC_wgm_dy_hyhw" style="HLStype1">Kuang Qianlong's guards.</a>
 hunterinfo_8995=Follow Lord Wei's orders to prove yourself by gravely wounding a player who is at the level Peak of Power or higher.
 hunterinfo_8997=Complete the last challenge and defeat 3 of the disciples in the martial arts contest.
 hunterinfo_8999=Defeat the other two disciples in front.
@@ -452,7 +438,6 @@ interactinfo_8950=<a href="findnpc_new,school11,wgm_042" style="HLStype1">Lord Z
 interactinfo_8951=So the Rootless Clan also has spies inside the Imperial Palace! They are indeed widespread! Go to <a href="findnpc_new,city03,Event_npc_wgm_cc_8951" style="HLStype1">Jinling Palace surroundings</a> and obtain the information sent from inside the palace.
 interactinfo_8952=I think I saw <a href="findnpc_new,city03,Event_npc_wgm_cc_8952" style="HLStype1">Feng Changhen</a> just now. What should I do now?! If I go back I will be flayed alive! Let me go see if he can help me.
 interactinfo_8953=I have no idea where to start investigating. Let me go see if Foreign Consul <a href="findnpc_new,school11,wgm_007" style="HLStype1">Lord Li </a>can help me.
-interactinfo_8954=This is no small matter. These cloth scraps and silver pieces might have been left behind intentionally by the informer when he was killed! Could a spy be involved? I should return with haste to report this to <a href="findnpc_new,school11,wgm_007" style="HLStype1">Lord Li</a>.
 interactinfo_8955=Ah? I really did see Elder Brother Feng here just now. How could he have disappeared? Never mind, I still need to report back to the clan. Let me go to <a href="findnpc_new,city03,Event_npc_wgm_cc_8955" style="HLStype1">the place where I was ambushed</a> to see if I can find some evidence that will clear my name.
 interactinfo_8956=Spreading a rumor is a way to catch the infiltrator. I will go to the <a href="findnpc_new,school11,Event_npc_wgm_cc_8956" style="HLStype1">courtyard </a>and see if I can catch him.
 interactinfo_8958=It appears that the Traitor has nothing useful to say. Since our "bait" is already on the hook, the "big fish" should be following us in no time. I might as well go <a href="findnpc_new,school11,Event_npc_wgm_cc_8958" style="HLStype1">take a look around</a>. Perhaps I will discover something useful.
@@ -567,7 +552,7 @@ okmenu_8954=<font face="Default" color="#ffffff" >I'll get to the bottom of it.<
 okmenu_8957=<font face="Default" color="#ffffff" >I look forward to it.</font>
 okmenu_8959=<font face="Default" color="#ffffff" >This is a serious matter! I shall report it to Lord Wei at once!</font>
 okmenu_8960=<font face="Default" color="#ffffff" >Feng Changhen was my mentor and, so I thought, my friend.</font>
-okmenu_8962=<font face="Default" color="#ffffff" >…………</font>
+okmenu_8962=<font face="Default" color="#ffffff" >...</font>
 okmenu_8963=<font face="Default" color="#ffffff">Yes, my lord.</font>
 okmenu_8965=<font face="Default" color="#ffffff" >Them? Who are they?</font>
 okmenu_8967=<font face="Default" color="#ffffff" >Ha ha! Believe it or not!</font>
@@ -677,7 +662,6 @@ story_8930_1=<font face="Default" color="#ffffff" >The Rootless Clan's thousand 
 story_8996_1=<font face="Default" color="#ffffff" > I understand. His Highness and Eunuch Gao may have thought you did well, but you still need to prove yourself and show your skills.</font>
 story_8996_2=<font face="Default" color="#ffffff" >There is no rush. You may have already been famous in Jianghu before, but since ancient times only the best and most powerful fighters have been allowed to join the Rootless Clan.</font><font face="Default" color="#ffffff" > You and I are in fact just ordinary fighters in comparison. </font>
 story_8997_1=<font face="Default" color="#ffffff" >His Highness is willing to help you experience the Unholy Swordsmanship! You are most fortunate</font><font face="Default" color="#ffffff" >! It appears that his highness thinks you may be of some use. Do not disappoint us. </font>
-story_8997_2=<font face="Default" color="#ffffff" >From now on, as a disciple of the Rootless Clan, your most important concern is the business of the clan! The Rootless Clan originated from within the Imperial Court, but we do not have as many rules as the Court. In Jianghu, everything comes down to strength. Those who obey me live on and thrive—those who defy me suffer and die! </font>
 story_8997_3=<font face="Default" color="#ffffff" >Even so, you must keep a low profile and watch your step. Don't throw away your life over a petty matter.  If you do your tasks properly, you will enjoy endless riches for the rest of your life. Our clan's martial arts skills are powerful and profound. If you are willing to work hard, you will reach the top </font><font face="Default" color="#ffffff" >sooner or later</font><font face="Default" color="#ffffff" >!</font>
 story_8998_1=<font face="Default" color="#ffffff" >Ha ha! What you experienced just now is the Realm of the Sword Demon! If you have joined the Rootless Clan, then you have chosen the sword, and chosen to kill. </font><font face="Default" color="#ffffff" >Do you understand the Way of Unholy Swordsmanship?</font>
 story_8998_3=<font face="Default" color="#ffffff" >Ha ha ha! I see you understand the way of the sword, but I want to see if you have the nerve to kill. Go now. Find and slay a real Jianghu expert.</font>
@@ -820,7 +804,6 @@ storymenu_8765_2=Thank you, Elder Brother, for your guidance. I know what to do 
 storymenu_8800_1=<font face="Default" color="#ffffff" >Yes…do you have a plan?</font>
 storymenu_8800_2=<font face="Default" color="#ffffff" >Sir…if you say so.</font>
 storymenu_8801_1=<font face="Default" color="#ffffff" >(In a raspy voice) Cough cough...I was the leader of Heifeng camp. Heifeng camp and the Royal Guards worked together to steal the imperial steel, but the Royal Guards wanted to keep the steel for themselves and turned against us.</font>
-storymenu_8801_2=<font face="Default" color="#ffffff" >(In a raspy voice) Cough cough...Heifeng Camp was caught by surprise, and the Royal Guards completely wiped us out. Luckily I was smart enough to get away. I have been waiting for a chance to seek vengeance for my brothers</font><font face="Default" color="#ffffff" >.</font>
 storymenu_8801_3=<font face="Default" color="#ffffff" >(In a raspy voice) Cough…Yes, yes. I have discovered that the Royal Guards hid the imperial steel in the treasure vault</font><font face="Default" color="#ffffff" >...The Royal Guards are here...</font>
 storymenu_8802_1=<font face="Default" color="#ffffff" >Right away!</font><font face="Default" color="#ffffff" >!</font>
 storymenu_8804_1=
@@ -849,7 +832,6 @@ storymenu_8924_1=<font face="Default" color="#ffffff" >So the prime suspect for 
 storymenu_8924_2=<font face="Default" color="#ffffff" >I will do as you say.</font>
 storymenu_8925_1=<font face="Default" color="#ffffff" >Understood.</font>
 storymenu_8926_1=<font face="Default" color="#ffffff" >Sir, what should we do?</font>
-storymenu_8927_1=<font face="Default" color="#ffffff" >To make sure nothing leaks, I will go to the jail and get rid of Wu Rui!</font>
 storymenu_8930_1=<font face="Default" color="#ffffff" >My lord, please do not blame yourself. With your strength and skills, we shall prevail.</font>
 storymenu_8996_1=<font face="Default" color="#ffffff" >Please tell me what to do! I will do my best!</font>
 storymenu_8996_2=<font face="Default" color="#ffffff" >I see.</font>
@@ -978,7 +960,6 @@ collectinfo_8890=Collect <a href="findnpc_new,," style="HLStype1"></a><font colo
 collectinfo_8892=Collect <a href="findnpc_new,," style="HLStype1"></a><font color="#FFFF00">Copper </font><font color="#FF3030">(Time limit: 25 minutes)</font>
 collectinfo_8902=Collect <a href="findnpc_new,," style="HLStype1"></a><font color="#FFFF00">Thin Goat Fur </font><font color="#FF3030">(Time limit: 25 minutes)</font>
 collectinfo_8936=Collect<a href="findnpc_new,," style="HLStype1"></a><font color="#FFFF00"> Dragon Claw (Ancient Manual) Annotation Book Fragments</font>. You can also complete the task by submitting corresponding Annotation Book to Zhang Jielun (22，224). <font color="#FF3030">(You only have 25 minutes to complete it.)</font>
-convoyinfo_8755=Protect <font color="#FF3030">Zhang Peng </font>from the assassins
 hunterinfo_8767=Patrol around the jail.
 hunterinfo_8768=Kill any suspicious person on sight
 hunterinfo_8769=<br>Enter the task scene around Rootless Clan (-5,189). Use special skill to capture the fugitive. You can leave the task scene at (-17,214).
@@ -1042,4 +1023,23 @@ storymenu_8766_1=<font face="Default" color="#ffffff" >I practiced martial arts 
 storymenu_8766_2=<font face="Default" color="#ffffff" >I am willing to take your test.</font>
 storymenu_8767_1=<font face="Default" color="#ffffff" >I promise to repay you if you help me.</font>
 storymenu_8767_2=<font face="Default" color="#ffffff" >Alright. I will be depending on your skills today. Be right back.</font>
+DialogID_8821=Thank you for rescuing me! These bandits commit murder without a second thought. I was nearly finished…they are here!
+ZZAnswerText1_9052=Disciples must refrain from greed, lust and desire to kill.
+ZZAnswerText3_9053=Disciples must refrain from greed, lust and desire to kill.
+convoyinfo_8750=Protect <font color="#FF3030">Wang Junyi </font>from the assassins
+convoyinfo_8751=Protect <font color="#FF3030">Zeng Feng </font>from the assassins
+convoyinfo_8752=Protect <font color="#FF3030">Ye Junyi </font>from the assassins
+convoyinfo_8753=Protect <font color="#FF3030">Zhang Zhenyi </font>from the assassins
+convoyinfo_8754=Protect <font color="#FF3030">Lei Yu </font>from the assassins
+convoyinfo_8755=<font face="Default" color="#000000" >Protect</font> <font face="Default" color="#f7070f" >Zhang Peng</font> <font face="Default" color="#000000" >from the assassins</font>
+convoyinfo_8756=Protect <font color="#FF3030">Dong Shuming </font>from the assassins
+hunterinfo_8766=Go to the garden east of the city and assassinate <a href="findnpc_new,city02,wgm_zd_010" style="HLStype1">Yan Nansheng</a>
+hunterinfo_8808=Ambushed by <a href="findnpc_new,city03,wgm_task_glm_007" style="HLStype1">assassins </a>who suddenly appeared! Get rid of them!
+hunterinfo_8923=Kill <a href="findnpc_new,city03,NPC_wgm_dy_hy" style="HLStype1">Kuang Qianlong</a>
+hunterinfo_8924=Leave no one alive! Slaughter <a href="findnpc_new,city03,NPC_wgm_dy_hyjj" style="HLStype1">Kuang Qianlong's family.</a>
+hunterinfo_8925=Leave no one alive! Kill <a href="findnpc_new,city03,NPC_wgm_dy_hyhw" style="HLStype1">Kuang Qianlong's guards.</a>
+interactinfo_8954=This is no small matter. These cloth scraps and silver pieces might have been left behind intentionally by the informer when he was killed! Could a spy be involved? I should return with haste to report this to <a href="findnpc_new,school11,wgm_007" style="HLStype1">Lord Li</a>.
+story_8997_2=<font face="Default" color="#ffffff" >From now on, as a disciple of the Rootless Clan, your most important concern is the business of the clan! The Rootless Clan originated from within the Imperial Court, but we do not have as many rules as the Court. In Jianghu, everything comes down to strength. Those who obey me live on and thrive—those who defy me suffer and die! </font>
+storymenu_8801_2=<font face="Default" color="#ffffff" >(In a raspy voice) Cough cough...Heifeng Camp was caught by surprise, and the Royal Guards completely wiped us out. Luckily I was smart enough to get away. I have been waiting for a chance to seek vengeance for my brothers</font><font face="Default" color="#ffffff" >.</font>
+storymenu_8927_1=<font face="Default" color="#ffffff" >To make sure nothing leaks, I will go to the jail and get rid of Wu Rui!</font>
 

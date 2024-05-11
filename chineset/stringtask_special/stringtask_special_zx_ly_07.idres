@@ -51,13 +51,11 @@ hunterinfo_13152=殺死<a href="findnpc_new,city02,monrc012100" style="HLStype1"
 hunterinfo_13153=擊敗<a href="findnpc_new,city02,WorldNpc01809" style="HLStype1">牛兆</a>
 hunterinfo_13154=擊敗<a href="findnpc_new,city02,monrc012200" style="HLStype1">慕容山莊打手</a>
 hunterinfo_13155=擊敗<a href="findnpc_new,city02,WorldNpc01320" style="HLStype1">呂貴通</a>
-hunterinfo_13156=殺死<a href="findnpc_new,city02,monrc012300" style="HLStype1">黑衣殺手</a>
 hunterinfo_13157=擊敗<a href="findnpc_new,city03,monrc030700" style="HLStype1">梅花門弟子</a>
 hunterinfo_13158=擊敗<a href="findnpc_new,city03,WorldNpc11022" style="HLStype1">柴震偉</a>
 hunterinfo_13159=擊敗<a href="findnpc_new,city03,WorldNpc11024" style="HLStype1">宦柔</a>
 hunterinfo_13160=擊敗<a href="findnpc_new,city03,WorldNpc11025" style="HLStype1">房情</a>
 hunterinfo_13161=擊敗<a href="findnpc_new,city02,WorldNpc01811" style="HLStype1">居策</a>
-hunterinfo_13162=殺死<a href="findnpc_new,city02,monrc012400" style="HLStype1">錦衣衛暗殺者</a>
 hunterinfo_13164=殺死<a href="findnpc_new,city02,monrc012500" style="HLStype1">蔡宜</a>
 hunterinfo_13165=殺死<a href="findnpc_new,city02,monrc012600" style="HLStype1">慕容府劍客</a>
 interactinfo_13151=與<a href="findnpc_new,school07,WorldNpc04401" style="HLStype1">紫陽真人</a>交談
@@ -120,7 +118,6 @@ story_13154_2=慕容千秋為人虛偽狡詐，而且有傳言說慕容世家已
 story_13155_1=我說，我全說。這一切都是慕容千秋的陰謀，慕容山莊為了擴大勢力，想同各世家聯姻，但幾個小姐都拒絕嫁人，所以慕容千秋想出了這個主意，讓四小姐無法拒絕，同時可以把矛頭指向仇家，讓江湖人士替他尋仇，可謂一箭雙雕。
 story_13155_2=五小姐一直被錦衣衛看守著。
 story_13156_1=我叫翠兒。
-story_13156_2=（痛哭）小姐被錦衣衛關了起來，昨天我跟小姐在錦衣衛熟睡之後逃跑被發現了，小姐為了救我被錦衣衛一劍殺死了，你可一定要為小姐報仇啊。
 story_menu_13151=借寶和尚
 story_menu_13152=慕容慘案
 story_menu_13153=丫鬟翠兒
@@ -144,5 +141,9 @@ storymenu_13154_2=謝謝門主的提醒
 storymenu_13155_1=五小姐現在人在何處
 storymenu_13155_2=原來慕容世家真的跟錦衣衛勾結在了一起
 storymenu_13156_1=翠兒？可是五小姐的丫鬟翠兒？你們小姐人在何處
-storymenu_13156_2=五小姐死了？我一定會為小姐報仇的
 useiteminfo_13151=使用<a href="TASK_ITEM,useitem_105m" style="HLStype1">藍玉丹</a>
+hunterinfo_13156=殺死<a href="findnpc_new,city02,monrc012300" style="HLStype1">黑衣隱衛</a>
+hunterinfo_13162=殺死<a href="findnpc_new,city02,monrc012400" style="HLStype1">錦衣衛暗襲者</a>
+story_13156_2=（痛哭）小姐被錦衣衛關了起來，昨天我跟小姐在錦衣衛熟睡之後逃跑被發現了，小姐為了救我被錦衣衛一劍殺死了，你可一定要為小姐報復啊。
+storymenu_13156_2=五小姐死了？我一定會為小姐報復的
+

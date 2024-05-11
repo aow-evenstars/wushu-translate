@@ -5,7 +5,6 @@ DialogID_48722=唉，那些侍從唯四大惡人馬首是瞻，我們也是敢�
 DialogID_48724=前幾天來的貨物被一夥黑鷹勇士劫去了，我們的弟子很多都被打傷了，少俠可以去幫忙奪回我們的貨物嗎？
 DialogID_48726=中原這些敗類屢次來犯，當我西夏無人麼，哼，你速去幫我殺死這些人，取些他們的衣物回來。
 DialogID_48728=惡賭鬼？哈哈，現在還沒死呢？好好好，今天老夫高興，這個紅雪散拿去給他服下吧。
-DialogID_48733=情報被一夥殺手和刺客搶走了，你可以幫我奪回來交給管大人嗎？
 DialogID_48736=哦？此事必須慎重處理，你去告訴青龍堂堂主審問一下，問清何事潛伏， 有何目的。
 DialogID_48737=此人頑固嘴硬，問不出什麼東西，你先去幫我教訓一下。
 DialogID_48739=前幾日拓大人已經吩咐過，我已經把馬奶酒送到苗盛家裡，請少俠去那裡取便可。
@@ -37,7 +36,6 @@ collectinfo_48765=收集<a href="findnpc_new,scene09,Gather00023p" style="HLStyp
 collectinfo_48766=收集<a href="findnpc_new,scene09,Gather00024p" style="HLStype1">紫石英</a>
 collectinfo_48768=收集<a href="findnpc_new,scene09,Gather00025p" style="HLStype1">月星子</a>
 hunterinfo_48723=擊敗<a href="findnpc_new,scene09,monf093302" style="HLStype1">邪惡侍從</a>
-hunterinfo_48734=殺死<a href="findnpc_new,scene09,monf093501" style="HLStype1">一品堂女殺手</a>
 hunterinfo_48738=審問<a href="findnpc_new,scene09,sbcy538" style="HLStype1">郜晶錦</a>
 hunterinfo_48746=殺死<a href="findnpc_new,scene09,monf093304" style="HLStype1">無惡不作</a>
 hunterinfo_48748=擊敗<a href="findnpc_new,scene09,sbcy516" style="HLStype1">皇甫菱</a>
@@ -100,9 +98,11 @@ storyinfo_48767=聽<a href="findnpc_new,scene09,sbcy527" style="HLStype1">賁鳳
 storyinfo_48769=聽<a href="findnpc_new,scene09,sbcy528" style="HLStype1">穆寧玉</a>訴說
 storymenu_48767_1=哦，有沒有仙草什麼的呀？
 storymenu_48767_2=好的。我這就去。
-storymenu_48769_1=豈有此理。我這就去教訓那窮凶極惡，幫婆婆你報仇。
 useiteminfo_48729=對<a href="findnpc_new,scene09,sbcy530" style="HLStype1">惡賭鬼</a>使用<a href="TASK_ITEM,useitem_021p" style="HLStype1">紅雪散</a>
 useiteminfo_48731=對<a href="findnpc_new,scene09,sbcy506" style="HLStype1">赫連光</a>使用<a href="TASK_ITEM,useitem_034p" style="HLStype1">十香返生丸</a>
 useiteminfo_48762=對<a href="findnpc_new,scene09,sbcy524" style="HLStype1">魯善</a>使用<a href="TASK_ITEM,useitem_035p" style="HLStype1">金創藥</a>
 DialogID_48742=星宿老仙，法力無邊。摘星門必定助西夏侵佔中原武林..
+DialogID_48733=情報被一夥隱衛和刺客搶走了，你可以幫我奪回來交給管大人嗎？
+hunterinfo_48734=殺死<a href="findnpc_new,scene09,monf093501" style="HLStype1">一品堂女隱衛</a>
+storymenu_48769_1=豈有此理。我這就去教訓那窮凶極惡，幫婆婆你報復。
 

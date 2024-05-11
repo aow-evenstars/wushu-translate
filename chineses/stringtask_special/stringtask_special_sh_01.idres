@@ -4,7 +4,6 @@ dialogid_608=If you need further guidance you can come to me.
 dialogid_609=I prepared the materials for you this time but next time you'll have to bring your own. You can buy cooking materials from farmers and fishermen. If you have any problem with cooking in the future, come to me and I'll sort you out.
 dialogid_612=If you want to have a good harvest, you'd better choose a fertile land to plant.
 dialogid_616=Test your skills with a local player. When your skills have progressed, you can read the <font color="#FF0000">weiqi manual</font>. Weiqi Manuals explain all possible strategies in Weiqi, and applying them to actual battle will enhance your team's abilities.
-dialogid_617=<font color="#FF0000">Musical Score</font> can be looted from NPCs or purchased from <font color="#FF0000">Shifu</font>. After learning it, open the Score at Life Skill - Musician's Interface, place the Score within the skill bar, and click on it to use.
 dialogid_618=The secret skills of life are for shrewd people. The begging skill allows you to beg to different people.
 dialogid_619=Click on the <font color="#FF0000">Life Interface</font>, then go to the divinator occupation's <font color="#FF0000">Open a Stall </font>skill. You can then set your price for divining, choose a stall name, etc. From there, wait for customers or send divining requests to others.
 dialogid_620=You have a primary understanding of the distinction and refinement process of Poisonous Herbs. Do you want to become a Poisoning Expert?
@@ -733,9 +732,6 @@ okmenu_963=<font face="Default" color="#ffffff" >I understand now, Elder.</font>
 okmenu_964=<font face="Default" color="#ffffff">I understand now, </font><font face="Default" color="#ffffff">Shifu</font><font face="Default" color="#ffffff">.</font>
 okmenu_965=<font face="Default" color="#ffffff">Thanks village head for telling me.</font>
 okmenu_966=<font face="Default" color="#ffffff">Thanks </font><font face="Default" color="#ffffff">Shopkeeper</font><font face="Default" color="#ffffff"> for telling me.</font>
-DialogID_871=<font color="#ff0000">Musical Score</font> can be looted from NPCs or purchased from your<font color="#ff0000">Shifu</font>.
-DialogID_872=<font color="#ff0000">Musical Score</font> can be looted from NPCs or purchased from your<font color="#ff0000">Shifu</font>.
-DialogID_873=<font color="#ff0000">Musical Score</font> can be looted from NPCs or purchased from your<font color="#ff0000">Shifu</font>.
 DialogID_874=<font face="Default" color="#ffffff">You can find the specific person to compare Chess Skills with them in the scene. When your skills have a progress, you can learn </font><font face="Default" color="#ff0000">Chess Manual</font><font face="Default" color="#ffffff">. Chess Manual might be gat from all the actions of games. It will enhance the fighting capacity of the team after learning Chess Manual.</font>
 DialogID_875=<font face="Default" color="#ffffff">You can find the specific person to compare Chess Skills with them in the scene. When your skills have a progress, you can learn </font><font face="Default" color="#ff0000">Chess Manual</font><font face="Default" color="#ffffff">. Chess Manual might be gat from all the actions of games. It will enhance the fighting capacity of the team after learning Chess Manual.</font>
 DialogID_876=<font face="Default" color="#ffffff">You can find the specific person to compare Chess Skills with them in the scene. When your skills have a progress, you can learn </font><font face="Default" color="#ff0000">Chess Manual</font><font face="Default" color="#ffffff">. Chess Manual might be gat from all the actions of games. It will enhance the fighting capacity of the team after learning Chess Manual.</font>
@@ -829,8 +825,6 @@ collectinfo_602=Mine iron ore
 collectinfo_608=Mine lead ore
 collectinfo_610=Mine lead ore
 collectinfo_614=Mine gold ore
-collectinfo_616=Study the Normal Throwing Knife Book to learn how to make Youming Throwing Knives. You can buy it from your blacksmith Shifu Blacksmith. The required ores need the Miner skill to collect, and the ingots need the Miner skill to smelt.
-collectinfo_618=Learn Normal Throwing Knife Book to make Youming Throwing Knife. You can buy Normal Throwing Knife Book recipe from Blacksmith Trainer, and after learning it you will have a chance to make Youming Throwing Knife. The required ores need Miner to collect, and the ingots need Miner to smelt.
 collectinfo_628=Learn Heaven Net Dart Book to make Zixia Dart. When proceed Random Encounter Task, there is a chance to get Heaven Net Dart Book recipe, and after learning it you will have a chance to make Zixia Dart. The required ores need Miner to collect, and the ingots need Miner to smelt.
 collectinfo_630=Learn Heaven Net Dart Book to make Zixia Dart. When proceed Random Encounter Task, there is a chance to get Heaven Net Dart Book recipe, and after learning it you will have a chance to make Zixia Dart. The required ores need Miner to collect, and the ingots need Miner to smelt.
 collectinfo_632=Catch a Bowfin
@@ -1626,7 +1620,6 @@ hunterinfo_611=Defeat the <a href="findnpc_new,scene25,funnpc_lxxz_xu_015" style
 hunterinfo_612=Please hunt some <a href="findnpc_new,scene25,funnpc_lxxz_xu_008" style="HLStype1">Snowshoe hares</a>.
 hunterinfo_613=Please hunt some <a href="findnpc_new,scene25,funnpc_lxxz_xu_008" style="HLStype1">deer</a>.
 hunterinfo_614=Please hunt some <a href="findnpc_new,scene25,funnpc_lxxz_xu_012" style="HLStype1">snow leopards</a>.
-hunterinfo_615=Please hunt some <a href="findnpc_new,scene25,funnpc_lxxz_xu_012" style="HLStype1">snow ferrets</a> and collect their pelts.
 hunterinfo_616=Defeat the <a href="findnpc_new,scene25,funnpc_lxxz_xu_013" style="HLStype1">marauders</a>.
 hunterinfo_617=Defeat the <a href="findnpc_new,scene25,funnpc_lxxz_xu_014" style="HLStype1">unidentified persons</a>.
 hunterinfo_618=Defeat the <a href="findnpc_new,scene25,funnpc_lxxz_xu_015" style="HLStype1">pirate</a>.
@@ -1721,13 +1714,21 @@ story_614_2=<font face="Default" color="#ffffff" >It is a sigil, or mark, that b
 interactinfo_26100=Tell <a href="findnpc_new,scene25,npc_hwcy_mxm06" style="HLStype1">Chen Qianchi </a>you already chased out the saboteur, and then find <a href="findnpc_new,scene25,npc_hwcy_mxm01" style="HLStype1">Luo Qi</a> to escape.
 okmenu_26100=<font face="Default" color="#ffffff" >You’re welcome. </font>
 SubmitNpcEx_27569=Submit task to <a href="findnpc_new,scene25,funnpc_lxxz_xu_001" style="HLStype1">Gu Yunfeng</a>.
-collectinfo_604=Mine copper ore
-collectinfo_606=Mine copper ore
-collectinfo_612=Mine silver ore
+SubmitNpcEx_27570=Submit task to <a href="findnpc_new,scene25,funnpc_lxxz_xu_001" style="HLStype1">Gu Yunfeng</a>.
+collectinfo_604=Exploit copper ore.
+collectinfo_606=Exploit copper ore.
+collectinfo_612=Exploit silver ore.
 collectinfo_652=Cut Cypress Wood.
 collectinfo_654=Cut Cypress Wood.
 collectinfo_732=Collect plight flowers.
 collectinfo_734=Collect plight flowers.
-collectinfo_748=Collect heartbroken flowers.
-collectinfo_750=Collect heartbroken flowers.
+collectinfo_748=Collect plight flowers.
+collectinfo_750=Collect plight flowers.
+DialogID_617=<font color="#FF0000">Musical Score</font> can be looted from NPCs or purchased from <font color="#FF0000">Shifu</font>. After learning it, open the Score at Life Skill - Musician's Interface, place the Score within the skill bar, and click on it to use.
+DialogID_871=<font color="#ff0000">Musical Score</font> can be looted from NPCs or purchased from your<font color="#ff0000">Shifu</font>.
+DialogID_872=<font color="#ff0000">Musical Score</font> can be looted from NPCs or purchased from your<font color="#ff0000">Shifu</font>.
+DialogID_873=<font color="#ff0000">Musical Score</font> can be looted from NPCs or purchased from your<font color="#ff0000">Shifu</font>.
+collectinfo_616=Study Normal Throwing Knife Book to learn how to make Youming Throwing Knives. You can buy Normal Throwing Knife Book recipe from Blacksmith Trainer, and after learning it you will have a chance to make Youming Throwing Knife. The required ores need Miner to collect, and the ingots need Miner to smelt.
+collectinfo_618=Study Normal Throwing Knife Book to learn how to make Youming Throwing Knives. You can buy Normal Throwing Knife Book recipe from Blacksmith Trainer, and after learning it you will have a chance to make Youming Throwing Knife. The required ores need Miner to collect, and the ingots need Miner to smelt.
+hunterinfo_615=Please hunt some <a href="findnpc_new,scene25,funnpc_lxxz_xu_011" style="HLStype1">snow ferrets</a> and collect their pelts.
 

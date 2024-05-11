@@ -28,8 +28,6 @@ CanAcceptMenu_20903=<font face="Default" color="#ffffff" >Mysterious Person in t
 CanAcceptMenu_20904=<font face="Default" color="#ffffff" >Kill the Rats in the Warehouse</font>
 CanAcceptMenu_20905=<font face="Default" color="#ffffff" >Make Medicine in the Blood Hall</font>
 CanAcceptMenu_20906=<font face="Default" color="#ffffff" >Rob Ruined Valley of the Medicine</font>
-CanAcceptMenu_20907=<font face="Default" color="#ffffff" >Kill the Spy</font>
-CanAcceptMenu_20908=<font face="Default" color="#ffffff" >Assassination in the New Capital</font>
 CanAcceptMenu_20909=<font face="Default" color="#ffffff" >Royal Guards' Secret Journey</font>
 CanAcceptMenu_20910=<font face="Default" color="#ffffff" >Interrogate in the Penalty Hall</font>
 CanAcceptMenu_20911=<font face="Default" color="#ffffff" >Interrogate</font>
@@ -103,8 +101,6 @@ CompleteMenu_20903=<font face="Default" color="#ffffff" >Mysterious Person in th
 CompleteMenu_20904=<font face="Default" color="#ffffff" >Kill the Rats in the Warehouse</font>
 CompleteMenu_20905=<font face="Default" color="#ffffff" >Make Medicine in the Blood Hall</font>
 CompleteMenu_20906=<font face="Default" color="#ffffff" >Rob Ruined Valley of the Medicine</font>
-CompleteMenu_20907=<font face="Default" color="#ffffff" >Kill the Spy</font>
-CompleteMenu_20908=<font face="Default" color="#ffffff" >Assassination in the New Capital</font>
 CompleteMenu_20909=<font face="Default" color="#ffffff" >Royal Guards' Secret Journey</font>
 CompleteMenu_20910=<font face="Default" color="#ffffff" >Interrogate in the Penalty Hall</font>
 CompleteMenu_20912=Hold the Four Directions in Awe
@@ -184,7 +180,6 @@ accept_20840_1=<font face="Default" color="#ffffff" >Give this Jinling Deploymen
 accept_20853_1=
 accept_20891_1=There are too many Blood Aphids in the Blood River. Clear them.
 accept_20892_1=Blood Stone in the Blood River can strengthen the Blood Coffin. Collect some for us please.
-accept_20893_1=Tell the recent situation about the cliff to the Elder Brother guarding at the Blood River. Take this pill, which will protect you not to get hurt when you land in the valley. You can also kill some Carrion Ravens and collect their gem fragments. You can exchange those gem fragments for some rewards with your elder brother.
 accept_20898_1=The blood in the Blood Pool attracts the Blood Leeches. Catch them and give them to the Forge Hall Manger.
 accept_20899_1=Black Stones in the Cave of Lost Souls are the necessary materials to make the Black Stone Coffin. Collect some please.
 accept_20903_1=<font face="Default" color="#ffffff" >What's up?</font>
@@ -241,7 +236,6 @@ complete_20891=Good
 complete_20892=Thank you
 complete_20893=Elder Brother, anything else?
 complete_20894=It will be Blood Blade's show time, the next time rebels rally.
-complete_20896=<font face="Default" color="#ffffff" >Stop killing by killing. You have calmed down.</font>
 complete_20897=Great, we will know more about the government's plan, though the situation is unfavorable now. Thank you.
 complete_20898=Great, I have enough materials now. Give them to me, if you have some later.
 complete_20899=You are fast. Have you been harrassed by those annoying insects?
@@ -303,7 +297,6 @@ complete_20959=Yeah, they are what I need. Take your new Blade Coffin, practice 
 complete_20960=Yeah, they are what I need. Take your new Blade Coffin, practice hard and further develop our school.
 complete_20961=<font face="Default" color="#ffffff" > You didn't let me down. Here's for you. </font>
 complete_20962=<font face="Default" color="#ffffff" > Excellent. </font>
-context_20801=Talk with the mysterious person to get some information.
 context_20803=Talk with the disciples of other schools
 context_20804=You've got some information from Wudang Disciple, Emei Disciple and Shaolin Disciple. Try to get some information from other schools.
 context_20805=Get some information from other people.
@@ -325,7 +318,6 @@ context_20891=There are too many Blood Aphids at the bank of Blood River. Kill t
 context_20892=Blood Stones are needed to strengthen the Blood Coffin.
 context_20893=Share the latest information on the Scythestone with the Elder Brother in the Valley. When you pass the Hanging Coffin Cliff, kill some Carrion Ravens.
 context_20898=The blood in the Blood Pool attracts Blood Leeches. Catch them to give them to the Forge Hall Manger.
-context_20899=Black Stones in the Cave of Lost Souls are the necessary materials to make Black Stone Coffin. However, they are guarded by the poisonous insects. Kill the poisonous insects and collect some Black Stones for me.
 context_20903=A man has been imprisoned in the Penalty Hall for 20 years. No torture, but no visits either. He is totally ignored.
 context_20904=The warehouse has become the home of the rats. It's killing me.
 context_20905=Wound Healing Drugs and Antidote Pills are needed for all Jianghu people.
@@ -583,24 +575,19 @@ target_20851=Find out the reason
 target_20852=Complete the mail-sending task
 target_20853=Tell Liu Yan that Royal Guards have found out about it.
 target_20854=Listen to Lu Laosan
-target_20891=Kill 10 Blood Aphids
 target_20892=Get 15 Blood Stones
 target_20893=Take Light Body Pills and pass the message on to the elder brother by Blood River.
-target_20896=Calm your fighting spirit (Kill 10 phantoms)
 target_20897=Torture the prisoner to obtain the information
 target_20898=Pick up the jar filled with strange fluid <a href="findnpc_new , school13 , Gather_xdm_st_gdj" style="HLStype1">on the Blood Blade Ground</a>, and immerse <a href="TASK_ITEM , xdm_xst_gdj003" style="HLStype1">the jar</a> into Blood River. Then you will catch 10 Blood Leeches.
 target_20899=Collect 10 Black Stones
 target_20901=Go to Blade Hall and meditate on the mat
 target_20903=Go talk to the Mysterious Person
-target_20904=Kill rats in Bloody Killing Hall
 target_20905=Complete the pill-making task
 target_20906=Go to Ruined Valley to plunder herbs
 target_20907=Kill those spies
-target_20908=Assassinate the laborers and the foreman in New Town
 target_20909=Send a secret message to the undercover in Royal Guards
 target_20910=Interrogate the prisoner
 target_20911=Interrogate the prisoner to obtain information
-target_20912=Kill 15 Jianghu hypocrites
 target_20914=Collect Blade Coffin Change Certificate, wood for building the coffin and the Slaughter Blood.
 target_20915=Collect Blade Coffin Change Certificate, wood for building the coffin and the Slaughter Blood.
 target_20916=Collect Blade Coffin Change Certificate, wood for building the coffin and the Slaughter Blood.
@@ -702,8 +689,6 @@ title_20903=Mysterious Person in the torture chamber
 title_20904=Kill rats in Blood Hall
 title_20905=Make medicine in Blood Hall
 title_20906=Plundering herbs in Ruined Valley
-title_20907=Killing the Secret Agent
-title_20908=New Town Assassination
 title_20909=Royal Guards secret action
 title_20910=Interrogation in torture chamber
 title_20911=Torturous Interrogation
@@ -771,10 +756,8 @@ accept_20821_1=The shape and pattern of the Blood Blade Coffin symbolize the own
 accept_20822_1=The shape and pattern of the Blood Blade Coffin symbolize the owner's power and position in the Blood Blade Clan. The most powerful Blood Blade skill requires the best Blade Coffin. I once was a carpenter. When I joined the Blood Blade Clan, I started to help schoolmates strengthen their blade coffins. I'm proud of being a Blood Blade Clan Disciple.
 accept_20823_1=The shape and pattern of the Blood Blade Coffin symbolize the owner's power and position in the Blood Blade Clan. The most powerful Blood Blade skill requires the best Blade Coffin. I once was a carpenter. When I joined the Blood Blade Clan, I started to help schoolmates strengthen their blade coffins. I'm proud of being a Blood Blade Clan Disciple.
 accept_20824_1=The shape and pattern of the Blood Blade Coffin symbolize the owner's power and position in the Blood Blade Clan. The most powerful Blood Blade skill requires the best Blade Coffin. I once was a carpenter. When I joined the Blood Blade Clan, I started to help schoolmates strengthen their blade coffins. I'm proud of being a Blood Blade Clan Disciple.
-accept_20896_1=The Blood Blade Clan disciples practice their skills by killing. However, if their Killing Value is too high, they will be controlled by the Killing Desire and become killing puppets. To avoid it, the Blood Blade Clan disciples go to Killing Relief Sculpture and control their killing desire there every day.
 accept_20897_1=Conflicts between the Blood Blade Clan and the government escalate. Integorate the spies imprisoned in the Penalty Hall and get some useful information.
 accept_20901_1=<font face="Default" color="#ffffff" >Practicing martial arts is like sailing against the current. So daily practice is required for each Blood Blade Clan disciple.</font>
-accept_20912_1=Kill the Jianghu Scoundrels at the foot of the hill as a warning to others.
 accept_20914_1=The shape and pattern of the Blood Blade Coffin symbolize the owner's power and position in the Blood Blade Clan. The most powerful Blood Blade skill requires the best Blade Coffin. I once was a carpenter. When I joined the Blood Blade Clan, I started to help schoolmates strengthen their blade coffins. I'm proud of being a Blood Blade Clan Disciple.
 accept_20915_1=The shape and pattern of the Blood Blade Coffin symbolize the owner's power and position in the Blood Blade Clan. The most powerful Blood Blade skill requires the best Blade Coffin. I once was a carpenter. When I joined the Blood Blade Clan, I started to help schoolmates strengthen their blade coffins. I'm proud of being a Blood Blade Clan Disciple.
 accept_20916_1=The shape and pattern of the Blood Blade Coffin symbolize the owner's power and position in the Blood Blade Clan. The most powerful Blood Blade skill requires the best Blade Coffin. I once was a carpenter. When I joined the Blood Blade Clan, I started to help schoolmates strengthen their blade coffins. I'm proud of being a Blood Blade Clan Disciple.
@@ -802,7 +785,6 @@ complete_20911=<font face="Default" color="#ffffff" >Have you got any informatio
 complete_20969=<font face="Default" color="#ffffff" >You have learned the history of our school. You can learn Royal Guards skills now. It'd help to keep in touch with the Royal Guards disciples and spar with them.</font>
 context_20809=Gong Busui appears in the building site. Something big will happen. Workers find a blade. It is the Hundred Nights Demon Blade of Blood Blade Clan. The Blood Blade Clan becomes the highlight.
 context_20810=Learn about the history of the Demon Blade.
-context_20811=Use some methods to push them to the gate of Blood Blade Clan and kill them all together.
 context_20812=Use some methods to push them to the gate of Blood Blade Clan and kill them all together.
 context_20814=Kill the ally as Gong Busui said to join the Blood Blade Clan.
 context_20815=You completed Gong Busui's task. Ask him how to join the Blood Blade Clan.
@@ -821,13 +803,10 @@ context_20840=The Blood Blade Clan Founding Elder asked you to give the Jinling 
 context_20841=If you give the Jinling Deployment Map to An Ruosu, the Blood Blade Clan will be put on the cusp. Hall Leader Xu is thoughtful and farseeing, I should tell it to him.
 context_20845=You are not familiar with the affairs in the Blood Blade Clan. Talk with elder brothers and sisters to learn more about daily cultivation.
 context_20851=Blade Challenge will be held? Why? Investigate it.
-context_20854=Lu Laosan tells what happened at the Blood Blade Clan that day. The Blood Blade Clan Founding Elder was cruel, while Huangfu Yao was wily.
-context_20896=The Blood Blade Clan disciples practice their skills by killing. However, if their Killing Value is too high, they will be controlled by the Killing Desire and become killing puppets. To avoid it, the Blood Blade Clan disciples go to Killing Relief Sculpture and control their killing desire there every day.
 context_20897=Conflicts between the Blood Blade Clan and the government escalate. Integorate the spies imprisoned in the Penalty Hall and get some useful information.
 context_20901=Practicing martial arts is like sailing against the current. So daily practice is required for each Blood Blade Clan disciple.
 context_20907=Royal Guards Spies spy on us all the time. They want to get something on us and indict us to their master.
 context_20910=We always catch people from different factions to get some important information. Today, we have five new captives. I will use different methods to interrogate them. You also need to learn interrogation skills. Find your Elder Brother first. He'll teach you how to do it.
-context_20912=Kill the Jianghu Scoundrels at the foot of the hill as a warning to others.
 context_20914=Yang Blood Blade with a high profile and Yin Blade Coffin with a low profile are naturally balanced and counteract each other. The shape and pattern of the Blood Blade Coffin symbolize the owner's power and position in the Blood Blade Clan. The most powerful Blood Blade skill requires the best Blade Coffin.
 context_20915=Yang Blood Blade with a high profile and Yin Blade Coffin with a low profile are naturally balanced and counteract each other. The shape and pattern of the Blood Blade Coffin symbolize the owner's power and position in the Blood Blade Clan. The most powerful Blood Blade skill requires the best Blade Coffin.
 context_20916=Yang Blood Blade with a high profile and Yin Blade Coffin with a low profile are naturally balanced and counteract each other. The shape and pattern of the Blood Blade Coffin symbolize the owner's power and position in the Blood Blade Clan. The most powerful Blood Blade skill requires the best Blade Coffin.
@@ -908,10 +887,6 @@ complete_20970=<font face="Default" color="#ffffff" >These are trivial matters. 
 complete_20971=<font face="Default" color="#ffffff" >These are trivial matters. I will give you more important things later.</font>
 complete_20972=<font face="Default" color="#ffffff" >These are trivial matters. I will give you more important things later.</font>
 complete_20995=<font face="Default" color="#ffffff" >You should work for Blood Blade Clan as you've enter here for a long time.</font>
-complete_20996=<font face="Default" color="#ffffff" >Well done!</font>
-complete_20997=<font face="Default" color="#ffffff" >Well done!</font>
-complete_20998=<font face="Default" color="#ffffff" >Well done!</font>
-complete_20999=<font face="Default" color="#ffffff" >Well done!</font>
 completemenu=<font face="Default" color="#ffffff" >Elder Brother, here they are.</font>
 context_20970=Rare Items and Beasts have appeared in Jianghu. Do miss this trial chance.
 context_20971=Rare Items and Beasts have appeared in Jianghu. Do miss this trial chance.
@@ -956,13 +931,10 @@ CompleteMenu_20895=<font face="Default" color="#ffffff" >Penalty Practice</font>
 CompleteMenu_20901=<font face="Default" color="#ffffff" >Cultivate in the Blade Hall</font>
 CompleteMenu_20902=<font face="Default" color="#ffffff" >Pair Cultivation in the Blade Hall</font>
 accept_20817_1=<font face="Default" color="#ffffff" >Collect a Blood Stone in the mine for me first.</font>
-accept_20894_1=Blood can make Blood Blade sharper. Kill the Blood Blade Clan Rebels and use their Blood of Heart to wipe the Blood Blade.
 accept_20895_1=Daily practice results in good Blade Skill. Find a prisoner in the Penalty Room and practice Lingchi Skill.
 accept_20902_1=<font face="Default" color="#ffffff" >Fighting experience is as important as daily practice. Spar with your Elder Brother.</font>
 complete_20817=<font face="Default" color="#ffffff" >Awesome!</font>
-complete_20895=<font face="Default" color="#ffffff" >Well done! </font>
 complete_20902=<font face="Default" color="#ffffff" >You are back. Have you learned something from sparring with your Elder Brother?</font>
-context_20894=Blood Blade needs to be wiped with Blood Of Heart to increase its Vile Chi. Kill the Blood Blade Clan Rebels and wipe the Blood Blade with their hearts.
 context_20895=Practice Lingchi Skill at the wood stake. It's a good way to increase the hits of the blade. Then penalize a prisoner to increase your Vile Chi.
 context_20902=Fighting experience is as important as daily practice. Spar with your Elder Brother.
 menu_20894_1=Then they shall perish.
@@ -972,26 +944,54 @@ submit_20817=<font face="Default" color="#ffffff" >You are welcome. </font>
 submit_20894=I have the same idea.
 submit_20895=<font face="Default" color="#ffffff" >Thank you, Elder Brother!</font>
 submit_20901=<font face="Default" color="#ffffff" >Yes, Hall Leader. </font>
-target_20894=Kill 15 traitors and rip their hearts out. Stain the blade with Blood of Heart.
 target_20895=Practice blade skills on the Training Posts and destroy 15 of them. Kill one prisoner.
 target_20902=Practice martial arts with the brother in Blade Hall
-context_20802=The disciples of the Eight Schools know something about what the mysterious person mentioned. Talk with them to get some information.
-context_20808=The Eight Schools and Jianghu Factions have sent their own disciples to the building site, trying to stop the construction. You need to use some tricks to show your wisdom and ability.
-context_20931=The Eight Schools has kept harassing us since the appearance of the demon blade. Beat them. It is time to show our true colors.
-context_20932=The Eight Schools has kept harassing us since the appearance of the demon blade. Beat them. It is time to show our true colors.
-context_20933=The Eight Schools has kept harassing us since the appearance of the demon blade. Beat them. It is time to show our true colors.
-context_20934=The Eight Schools has kept harassing us since the appearance of the demon blade. Beat them. It is time to show our true colors.
-context_20935=The Eight Schools has kept harassing us since the appearance of the demon blade. Beat them. It is time to show our true colors.
-context_20936=The Eight Schools has kept harassing us since the appearance of the demon blade. Beat them. It is time to show our true colors.
-context_20937=The Eight Schools has kept harassing us since the appearance of the demon blade. Beat them. It is time to show our true colors.
-context_20938=The Eight Schools has kept harassing us since the appearance of the demon blade. Beat them. It is time to show our true colors.
-context_20940=We have kept the demon blade for many days, the Eight Schools are still coveting it. They push us too far. It's time to show our true colors.
-context_20941=We have kept the demon blade for many days, the Eight Schools are still coveting it. They push us too far. It's time to show our true colors.
-context_20942=We have kept the demon blade for many days, the Eight Schools are still coveting it. They push us too far. It's time to show our true colors.
-context_20943=We have kept the demon blade for many days, the Eight Schools are still coveting it. They push us too far. It's time to show our true colors.
-context_20944=We have kept the demon blade for many days, the Eight Schools are still coveting it. They push us too far. It's time to show our true colors.
-context_20945=We have kept the demon blade for many days, the Eight Schools are still coveting it. They push us too far. It's time to show our true colors.
-context_20946=We have kept the demon blade for many days, the Eight Schools are still coveting it. They push us too far. It's time to show our true colors.
-context_20947=We have kept the demon blade for many days, the Eight Schools are still coveting it. They push us too far. It's time to show our true colors.
-target_20812=Kill the Eight Schools leaders and others after the trap is set
+context_20801=Rumor has it that the disappeared reclusive sect is about to come out, and at this time the ten schools are gathering in Jinling. I do not know whether there is a connection.
+context_20802=The disciples of the Ten Schools know something about what the mysterious person mentioned. Talk with them to get some information.
+context_20808=The Ten Schools and Jianghu Factions have sent their own disciples to the building site, trying to stop the construction. You need to use some tricks to show your wisdom and ability.
+context_20931=The Ten Schools has kept harassing us since the appearance of the demon blade. Beat them. It is time to show our true colors.
+context_20932=The Ten Schools has kept harassing us since the appearance of the demon blade. Beat them. It is time to show our true colors.
+context_20933=The Ten Schools has kept harassing us since the appearance of the demon blade. Beat them. It is time to show our true colors.
+context_20934=The Ten Schools has kept harassing us since the appearance of the demon blade. Beat them. It is time to show our true colors.
+context_20935=The Ten Schools has kept harassing us since the appearance of the demon blade. Beat them. It is time to show our true colors.
+context_20936=The Ten Schools has kept harassing us since the appearance of the demon blade. Beat them. It is time to show our true colors.
+context_20937=The Ten Schools has kept harassing us since the appearance of the demon blade. Beat them. It is time to show our true colors.
+context_20938=The Ten Schools has kept harassing us since the appearance of the demon blade. Beat them. It is time to show our true colors.
+context_20940=We have kept the demon blade for many days, the Ten Schools are still coveting it. They push us too far. It's time to show our true colors.
+context_20941=We have kept the demon blade for many days, the Ten Schools are still coveting it. They push us too far. It's time to show our true colors.
+context_20942=We have kept the demon blade for many days, the Ten Schools are still coveting it. They push us too far. It's time to show our true colors.
+context_20943=We have kept the demon blade for many days, the Ten Schools are still coveting it. They push us too far. It's time to show our true colors.
+context_20944=We have kept the demon blade for many days, the Ten Schools are still coveting it. They push us too far. It's time to show our true colors.
+context_20945=We have kept the demon blade for many days, the Ten Schools are still coveting it. They push us too far. It's time to show our true colors.
+context_20946=We have kept the demon blade for many days, the Ten Schools are still coveting it. They push us too far. It's time to show our true colors.
+context_20947=We have kept the demon blade for many days, the Ten Schools are still coveting it. They push us too far. It's time to show our true colors.
+CanAcceptMenu_20907=<font face="Default" color="#ffffff" >Kill the Spy</font>
+CanAcceptMenu_20908=<font face="Default" color="#ffffff" >Assassination in the New Capital</font>
+CompleteMenu_20907=<font face="Default" color="#ffffff" >Kill the Spy</font>
+CompleteMenu_20908=<font face="Default" color="#ffffff" >Assassination in the New Capital</font>
+accept_20893_1=Tell the recent situation about the cliff to the Elder Brother guarding at the Blood River. Take this pill, which will protect you not to get hurt when you land in the valley. You can also kill some Carrion Ravens and collect their gem fragments. You can exchange those gem fragments for some rewards with your elder brother.
+accept_20894_1=<font face="Default" color="#ffffff" >Blood can make Blood Blade sharper. Kill the Blood Blade Clan Rebels and use their Blood of Heart to wipe the Blood Blade.</font>
+accept_20896_1=The Blood Blade Clan disciples practice their skills by killing. However, if their infamy is too high, they will be controlled by the Killing Desire and become killing puppets. To avoid it, the Blood Blade Clan disciples go to Killing Relief Sculpture and control their killing desire there every day.
+accept_20912_1=Kill the Jianghu Scoundrels at the foot of the hill as a warning to others.
+complete_20895=<font face="Default" color="#ffffff" >Well done! </font>
+complete_20896=<font face="Default" color="#ffffff" >Stop killing by killing. You have calmed down.</font>
+complete_20996=<font face="Default" color="#ffffff" >Well done!</font>
+complete_20997=<font face="Default" color="#ffffff" >Well done!</font>
+complete_20998=<font face="Default" color="#ffffff" >Well done!</font>
+complete_20999=<font face="Default" color="#ffffff" >Well done!</font>
+context_20811=Use some methods to push them to the gate of Blood Blade Clan and kill them all together.
+context_20854=Lu Laosan tells what happened at the Blood Blade Clan that day. The Blood Blade Clan Founding Elder was cruel, while Huangfu Yao was wily.
+context_20894=Blood Blade needs to be wiped with Blood Of Heart to increase its Vile Chi. Kill the Blood Blade Clan Rebels and wipe the Blood Blade with their hearts.
+context_20896=The Blood Blade Clan disciples practice their skills by killing. However, if their infamy is too high, they will be controlled by the Killing Desire and become killing puppets. To avoid it, the Blood Blade Clan disciples go to Killing Relief Sculpture and control their killing desire there every day.
+context_20899=Black Stones in the Cave of Lost Souls are the necessary materials to make Black Stone Coffin. However, they are guarded by the poisonous insects. Kill the poisonous insects and collect some Black Stones for me.
+context_20912=Kill the Jianghu Scoundrels at the foot of the hill as a warning to others.
+target_20812=Kill the Ten Schools leaders and others after the trap is set
+target_20891=Kill 10 Blood Aphids
+target_20894=Kill 5 traitors and rip their hearts out. Stain the blade with Blood of Heart.
+target_20896=Calm your fighting spirit (Kill 10 phantoms)
+target_20904=Kill rats in Bloody Killing Hall
+target_20908=Assassinate the laborers and the foreman in New Town
+target_20912=Kill 15 Jianghu hypocrites
+title_20907=Killing the Spy
+title_20908=Assassination in the New Capital
 

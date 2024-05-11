@@ -6,7 +6,6 @@ trigger_debug_hint_4=GM set up the operation target success
 trigger_debug_event_2=2: Npc: Npc destroyed
 trigger_debug_event_3=3: Npc: Npc selected
 trigger_debug_event_4=4: Npc: Npc injured
-trigger_debug_event_5=5: Npc: Npc killed
 trigger_debug_event_6=6: Npc: entering npc trigger range, target unlimited
 trigger_debug_event_7=7: Npc: entering npc trigger range, target is player
 trigger_debug_event_8=8: Npc: entering npc trigger range, target is npc
@@ -102,4 +101,5 @@ trigger_debug_event_1029=1029: delay N seconds trigger 28
 trigger_debug_event_1030=1030: delay N seconds trigger 29
 trigger_debug_event_1031=1031: delay N seconds trigger 30
 trigger_debug_event_1060=1060: countdown trigger per second
+trigger_debug_event_5=5: Npc: Npc killed
 

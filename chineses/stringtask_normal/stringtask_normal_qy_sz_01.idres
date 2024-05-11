@@ -24,7 +24,6 @@ canacceptmenu_11955=A Difficult Choice
 canacceptmenu_11956=Too late
 canacceptmenu_11957=We have fallen, but our spirits will rise, together.
 canacceptmenu_11958=The Mastermind in the Background
-completemenu_11904=(Random Encounter) I have completed the Task "Kill Secret Association Expert"!
 completemenu_11909=(Random Encounter) I have completed the Task "Folded Fan" !
 completemenu_11912=(Random Encounter) I have completed the Task "Sword"!
 completemenu_11913=I have already completed "Lost Accounting Book".
@@ -87,13 +86,11 @@ accept_11928_3=We were Villagers of the northern Village and we then moved in wi
 accept_11928_4=Give me some more steamed buns to take home, and we shall pray for you everyday.
 accept_11929_1=Warrior.
 accept_11929_2=Warrior.
-accept_11929_3=Bandits captured my sister and niece, and killed my brother-in-law. My niece, Xiao Cui, was sold into servitude to a rich family. Please help her escape. She must be so frightened!
 accept_11929_4=Yes, yes, I heard that they lived in some place like Miao Temple.
 accept_11930_1=You can just tell us. I will enforce the laws impartially.
 accept_11930_2=These things happen. Guys, go to Xuanmiao Temple quickly. Take him there and question him.
 accept_11930_3=This is all my fault!
 accept_11931_1=Would you do me another favor?
-accept_11931_2=My request is simple. The Bandit Chief took everyone I love. Help me take his head, and I'll pay..
 accept_11931_3=Thank you very much for your great kindness. I would do anything to return the favor in my next life.
 accept_11932_1=Are you familiar with Suzhou?
 accept_11932_2=Have you heard of Yang Tao? He's the relative who I'm going to seek refuge with.
@@ -189,11 +186,7 @@ context_11933=The Beggar decided to go home with his Niece. Before leaving, he a
 context_11934=There is a mysterious Taihu Underground Palace in Windbell Valley, it is located on the path leading to Wanderer's Valley. The traitorous <a href="findnpc,city02,542,1377" style="HLStype1">Mad Man</a> who killed his Elder and Younger Brothers of the Tangmen is hiding there. Lao Liang, please find and kill this traitor. At the same time, it is a test of your Kung Fu.
 context_11935=You meet a mysterious Taoist Priest by chance and he advised you to find Lin Tiannan.
 context_11936=Lin Tiannan asked you to find Four Experts and help him deliver a message.
-context_11941=Use the tactic of killing people with a borrowed knife to help Murong Sichen realize his wish.
-context_11942=Use the tactic of killing people with a borrowed knife to help Murong Sichen realize his wish.
-context_11943=Use the tactic of killing people with a borrowed knife to help Murong Sichen realize his wish.
 context_11944=A group of criminals are wanted by the officials. If you can get their head leaders here, you'll be greatly awarded.
-context_11945=Use the tactic of killing people with a borrowed knife to help Murong Sichen realize his wish.
 context_11946=You have promised to help Lu Xia find her former lover, Ke Jun.
 context_11947=You met Lu Xia in Yanyu Villa. She is worried about her lover, Ke Jun. You have sent her home.
 context_11948=Xue Meng always liked Lu Xia, he harassed her again and again. He wanted to marry her and became more and more serious. Lu Xia asked you for help in imploring Xue Meng not to harass her any more.
@@ -251,7 +244,6 @@ menu_11930_1=Di Ren is a human trafficker. I've tied him to a tree, and left evi
 menu_11930_2=Please help the beggar get back home.
 menu_11930_3=Thank you, Your Honor.
 menu_11931_1=Why are you kneeling down? Stand up please. What's the matter?
-menu_11931_2=Eh…okay. The Bandit Head has killed numerous people, and if I kill him, I will be removing his evil from the people.
 menu_11931_3=It's my pleasure.
 menu_11932_1=How are you?
 menu_11932_2=Yang Tao? I've never heard that name. What kind of official is he?
@@ -336,7 +328,6 @@ target_11930=Kill the robber and seize the Sapphire back.
 target_11931=Kill the Bandit Leader and cut off his Head.
 target_11932=You agree to help him ask your friends in Suzhou for Yang Tao's info.
 target_11933=Bid farewell to the people who ever helped the beggars.
-target_11934=Kill the <a href="findnpc,city02,542,1377" style="HLStype1">Madman</a>
 target_11935=Go find Lin Tiannan.
 target_11936=Find the four experts and send an oral message to Lin Tian'nan.
 target_11943=Kidnap Huang Lingjiu and send him to Murong Sichen
@@ -361,7 +352,6 @@ task_menu_accept_11913=Accept Task
 title_11901=Heritage (Random Encounter)
 title_11902=Return to the Rightful Owner (Random Encounter)
 title_11903=Sword (Random Encounter)
-title_11904=Kill the Secret Association Expert (Random Encounter)
 title_11905=Give Someone What They Want (Random Encounter)
 title_11906=Tiger Eye Stone (Random Encounter)
 title_11907=Broken Jar (Random Encounter)
@@ -386,11 +376,7 @@ title_11933=Say Goodbye to Suzhou
 title_11934=Test
 title_11935=Direction by a Grand Master
 title_11936=Four Experts
-title_11941=Asking Someone Else to Kill for You (1)
-title_11942=Asking Someone Else to Kill for You (2)
-title_11943=Asking Someone Else to Kill for You (4)
 title_11944=Reward
-title_11945=Asking Someone Else to Kill for You (3)
 title_11946=Missing is a Pain that can Breathe
 title_11947=We're separated and won't see each other forever, I feel deep lovesickness.
 title_11948=Foul the Lead Escort and Don't Be Furious
@@ -416,9 +402,6 @@ CompleteMenu_12004=<font face="Default" color="#ffffff" >I've arrested Insane Po
 CompleteMenu_12005=<font face="Default" color="#ffffff" >I've arrested Bloody Doctor!</font>
 accept_12000_1=<font face="Default" color="#ffffff" >The wife of the head of Twelve Demons plunged herself into the furnace so as to not see the results of the wicked blade he was forging.</font>
 accept_12001_1=<font face="Default" color="#ffffff" >As the number two of Twelve Demons, she kills men and wears their skin as a disguise. </font>
-accept_12002_1=<font face="Default" color="#ffffff" >He carves his victims' skulls into ornaments.</font>
-accept_12003_1=<font face="Default" color="#ffffff" >After the suicide of his parents, he worked in the kitchen of a martial arts school for fifteen years. At the end of that period, he took revenge on his master by preparing him a feast, in which his wife was the main course, and then killed him. Now before he murders a victim, he serves them their loved ones in a meal.</font>
-accept_12005_1=<font face="Default" color="#ffffff" >If he knows one of his patients will die, he kills them. </font>
 complete_12000=<font face="Default" color="#ffffff" >Take these rewards. I hope they serve you well.</font><font face="Default" color="#ffffff" ></font><font face="Default" color="#ffffff" ></font><font face="Default" color="#ffffff" ></font><font face="Default" color="#ffffff" ></font><font face="Default" color="#ffffff" ></font>
 complete_12001=<font face="Default" color="#ffffff" >Take these rewards. I hope they serve you well.</font>
 complete_12002=<font face="Default" color="#ffffff" >Take these rewards. I hope they serve you well.</font>
@@ -427,9 +410,6 @@ complete_12004=<font face="Default" color="#ffffff" >Take these rewards. I hope 
 complete_12005=<font face="Default" color="#ffffff" >Take these rewards. I hope they serve you well.</font>
 context_12000=The wife of the head of Twelve Demons plunged herself into the furnace  so as to not see the results of the wicked blade he was forging.
 context_12001=As the number two of Twelve Demons, she kills men and wears their skin as a disguise.
-context_12002=He carves his victims' skulls into ornaments.
-context_12003=Before he murders a victim, he serves them their loved ones in a meal.
-context_12005=If he knows one of his patients will die, he kills them.
 menu_12000_1=<font face="Default" color="#ffffff" >Recruit candidate to kill him!</font>
 menu_12001_1=<font face="Default" color="#ffffff" >Recruit candidate to kill him!</font>
 menu_12002_1=<font face="Default" color="#ffffff" >Recruit candidate to kill him!</font>
@@ -454,7 +434,6 @@ submit_12004=<font face="Default" color="#ffffff" >Thank you!</font>
 submit_12005=<font face="Default" color="#ffffff" >Thank you!</font>
 CanAcceptMenu_11950=It's in vain.
 CompleteMenu_11950=It's in vain.
-accept_11947_1=Customer, you look familiar. Come in please.
 complete_11946=One Liang of superior red wine and half a kilo of spiced beef. Servant, put them on the table against the door.
 complete_11950=Please spare my life. I dare not to do it again.
 submit_11944=We fight evil no matter what form it takes.
@@ -772,4 +751,25 @@ title_12003=Twelve Demons-Narrow-minded Chef
 next_11942=Go to Tiger Hill Gate to find <a href="findnpc,city02,835,387" style="HLStype1">Young Master Qianhuan</a>,then go to <a href="findnpc,city02,703,106" style="HLStype1">Yongcui Villa</a> to shift the blame to Peachblossom Island.
 target_11941=Go find the tributary people at the Peach Blossom Island and steal the tributes, then report to Murong Sichen.
 target_11942=Go to Tiger Hill Mountain Gate to find <a href="findnpc,city02,835,387" style="HLStype1">Young Master Qianhuan</a>, then go to <a href="findnpc,city02,737,106" style="HLStype1">Yongcui Villa</a> to shift the trouble to Peachblossom Island.
+CompleteMenu_11904=(Random Encounter) I have completed the Task "Kill Silent Temple Killer"!
+accept_11929_3=Bandits captured my sister and niece, and killed my brother-in-law. My niece, Xiao Cui, was sold into servitude to a rich family. Please help her escape. She must be so frightened!
+accept_11931_2=My request is simple. The Bandit Chief took everyone I love. Help me take his head, and I'll pay..
+accept_11947_1=Customer, you look familiar. Come in please.
+accept_12002_1=<font face="Default" color="#ffffff" >He carves his victims' skulls into ornaments.</font>
+accept_12003_1=<font face="Default" color="#ffffff" >After the suicide of his parents, he worked in the kitchen of a martial arts school for fifteen years. At the end of that period, he took revenge on his master by preparing him a feast, in which his wife was the main course, and then killed him. Now before he murders a victim, he serves them their loved ones in a meal.</font>
+accept_12005_1=<font face="Default" color="#ffffff" >If he knows one of his patients will die, he kills them. </font>
+context_11941=Use the tactic of killing people with a borrowed knife to help Murong Sichen realize his wish.
+context_11942=Use the tactic of killing people with a borrowed knife to help Murong Sichen realize his wish.
+context_11943=Use the tactic of killing people with a borrowed knife to help Murong Sichen realize his wish.
+context_11945=Use the tactic of killing people with a borrowed knife to help Murong Sichen realize his wish.
+context_12002=He carves his victims' skulls into ornaments.
+context_12003=Before he murders a victim, he serves them their loved ones in a meal.
+context_12005=If he knows one of his patients will die, he kills them.
+menu_11931_2=Eh…okay. The Bandit Head has killed numerous people, and if I kill him, I will be removing his evil from the people.
+target_11934=Kill the <a href="findnpc,city02,542,1377" style="HLStype1">Madman</a>
+title_11904=Kill the Silent Temple Killer (Random Encounter)
+title_11941=Stab in Back (1)
+title_11942=Stab in Back (2)
+title_11943=Stab in Back (4)
+title_11945=Stab in Back (3)
 

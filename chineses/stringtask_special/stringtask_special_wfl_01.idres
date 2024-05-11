@@ -1,13 +1,9 @@
 ﻿
-dialogid_15=<font face="Default" color="#ffffff" >A kidnapping player carries a bag with a person inside on his shoulder. You will also notice the word "Criminal" over his head. He can be attacked anywhere, and no one will blame you for killing him!</font>
-dialogid_16=<font face="Default" color="#ffffff" >A kidnapping player has the word "Criminal" over their head. They can be attacked anywhere, and killed without repercussions.</font>
 dialogid_17=<font face="Default" color="#ffffff" >哈哈，找我就对了。那些富豪总有一些贵重的东西需要运送，但是江湖险恶，总有一些绿林好汉盯着这些财富，所以那些富豪只能找武功高强人来护送。当然，有运镖也就有劫镖，劫镖可以得到更丰厚的奖品，但是风险可不低了，被官府知道，有可能被通缉。</font>
-dialogid_21=<font face="Default" color="#ffffff" >Tired yet? Let's move on to feint moves, used to break parry moves. Study this book to learn</font> <font face="Default" color="#ffcc00" >"White Cloud Covers The Top"</font> <font face="Default" color="#ffffff" >and then break my parry.</font>
 dialogid_22=
 dialogid_35=<font face="Default" color="#ffffff" >Don't get too confident. I can parry anything you've got.</font>
 dialogid_36=<font face="Default" color="#ffffff" >Let's discuss escorting. The wealthy are always hiring warriors to protect their precious caravans. It's not a rewarding life, being a rich man's guard dog. Now...if you were to rob the escorts, the rewards are great. So are the risks. Thieves can end up on a Wanted Notice if the officials find out.</font>
 dialogid_40=(She coughs and hands you a caged carrier pigeon.)
-dialogid_42=<font face="Default" color="#ffffff" >A kidnapping player has the word "Criminal" over their head. They can be attacked anywhere, and killed without repercussions.</font>
 dialogid_45=<font face="Default" color="#ffffff" >You actually caught one? Are you insane? I thought you'd just run away like everyone else! Do you know how poisonous...Never mind. Go see Grandmother. She's fond of lunatics. I think you'll fit right in here.</font>
 dialogid_46=<font face="Default" color="#ffffff" >Grandmother wants me to test you? That's rare. All right, why don't you help me capture some golden-eye spiders from the outskirts of Tangmen?</font>
 dialogid_47=<font face="Default" color="#ffffff" >Take this poison. Survive, and you will be a disciple. Refuse, and you will be executed. I have no use for disciples who fear death.</font>
@@ -177,7 +173,6 @@ story_61_1=<font face="Default" color="#ffffff" >Have you been cultivating your 
 story_62_2=<font face="Default" color="#ffffff" >And what of your enemies? What if you encountered one?</font>
 story_62_3=<font face="Default" color="#ffffff" >Very well. I will teach you. Go speak with an elder brother inside the practice site.</font>
 story_63_1=<font face="Default" color="#ffffff" >A grand master's body and mind are a single, balanced weapon. You must master internal skills to reach your full potential.</font>
-story_64_2=<font face="Default" color="#ffffff" >Very well. We will teach you to protect yourself from your enemies. Go and speak with He Yongyong to learn some external skills.</font>
 story_65_1=<font face="Default" color="#ffffff" >A grand master's body and mind are a single, balanced weapon. You must master internal skills to reach your full potential.</font>
 story_66_2=<font face="Default" color="#ffffff" >A noble goal! Very well, I will teach you. Go speak with an Elder Brother inside the Practice Site.</font>
 story_67_1=<font face="Default" color="#ffffff" >When you use this skill, your mind will be clearer, and your body stronger.</font>
@@ -594,13 +589,11 @@ interactinfo_94=Accept <a href="findnpc_new,groupscene003,Qiecuo_jiaoxue004" sty
 interactinfo_95=Accept <a href="findnpc_new,groupscene006,Qiecuo_jiaoxue007" style="HLStype1">Chi Huiye</a>'s task
 story_60_2=<font face="Default" color="#ffffff">All in good time. Now, go to the practice room, your brothers are waiting for you.</font>
 story_61_2=<font face="Default" color="#ffffff" >The better your Internal Skill gets, the more Chi you will have to boost your attacks and defenses.</font>
-story_62_1=<font face="Default" color="#ffffff" >I see. Before we continue, answer honestly: why do you want to learn to fight? Revenge? To abuse the weak? If so, you have no place here.</font>
 story_63_2=<font face="Default" color="#ffffff" >Using chi to wield your sword like an expert requires advanced internal skills. Be patient, and you will achieve great things!</font>
 story_64_1=<font face="Default" color="#ffffff" >Before we continue, answer honestly: why do you want to learn to fight? For power alone? If so, you have no place here.</font>
 story_65_2=<font face="Default" color="#ffffff" >Using chi to wield your sword like an expert requires advanced internal skills. Be patient, and you will achieve great things!</font>
 story_66_1=<font face="Default" color="#ffffff" >Certainly. Why do you wish to learn?</font>
 story_menu_62=<font face="Default" color="#ffffff" >I am afraid I cannot tell you much. I have no memory of the time before Jiugong Elder rescued me.</font>
-story_menu_64=<font face="Default" color="#ffffff" >When I was younger, my noble family was slaughtered. Since then, I've wandered, begging for scraps to survive. And now, I am here.</font>
 story_menu_66=<font face="Default" color="#ffffff" >Can you teach me to fight?</font>
 storymenu_63_1=<font face="Default" color="#ffffff" > Yes, Shifu.</font>
 storymenu_63_2=<font face="Default" color="#ffffff" >Yes, Shifu!</font>
@@ -768,7 +761,6 @@ interactinfo_79=Talk with <a href="findnpc_new,school07,WorldNpc04401" style="HL
 okmenu_100=<font face="Default" color="#ffffff" >Thanks, Leader.</font>
 okmenu_57=<font face="Default" color="#ffffff" >I come to receive the reward.</font>
 okmenu_79=<font face="Default" color="#ffffff" >Thanks, Leader.</font>
-specialinfo_615=Kill a member of an Enemy Guild.
 specialinfo_616=Complete one escort for the Guild.
 specialinfo_617=Damage a Caravan of the Enemy Guild.
 specialinfo_618=Complete Martial Arts Club Challenge against a single Jianghu force and succeed 6 times.
@@ -1227,7 +1219,6 @@ hunterinfo_13=Defeat the Korean messenger.
 hunterinfo_14=Defeat the Korean messenger.
 hunterinfo_15=Defeat the Korean messenger.
 hunterinfo_16=Defeat the Korean messenger.
-hunterinfo_17=Assassinate the Korean Princess Li Ju, who is the mastermind behind Fine Wisdom Pavilion.
 hunterinfo_44=You are discovered by the palace <a href="findnpc,city03,999.458,4.590,1488.786" style="HLStype1">guard</a>, so you must quickly get rid of him before he attracts attention.
 hunterinfo_9=Defeat the Korean messenger.
 interactinfo_27=Find <a href="findnpc,city03,527.733,5.332,1200.063" style="HLStype1">Wu Pingwei</a> and redeem the "10 gambling chips" to give to <a href="findnpc,city03,628,4,950" style="HLStype1">Little Huazi</a>.
@@ -1623,7 +1614,6 @@ jiaoxue_virtual_1_1693=Use <font color="#00d8ff">normal attacks</font> continuou
 okmenu_30004=I'm in your debt.
 specialinfo_828=Go to the <font color="#00d8ff">Tiger Roaring Villa</font> to complete the faction challenge
 specialinfo_832=Go to the <font color="#00d8ff">Muyun Villa</font> to complete the faction challenge
-specialinfo_833=Go to the <font color="#00d8ff">Killers' Manor</font> to complete the faction challenge
 specialinfo_834=Go to the <font color="#00d8ff">Nangong Family</font> to complete the faction challenge
 specialinfo_835=Go to the <font color="#00d8ff">Dongfang Family</font> to complete the faction challenge
 specialinfo_836=Clearance for <font color="#00d8ff">Yanmen Pass (Wulin line)</font>
@@ -1737,7 +1727,6 @@ SubmitNpcEx_89=Go to the banks in major cities to find Lin Liang, the Festival A
 collectinfo_55=Collect <font color="#ee7621">Castor (2)</font>
 collectinfo_56=Collect <font color="#ee7621">Shrub (2)</font>
 collectinfo_57=Collect <font color="#ee7621">Flint (2)</font>
-specialinfo_1064=Kill Blood Feuds once.
 specialinfo_1065=Defeat any Faction.
 specialinfo_1066=Fatigue for Team Practice reaches 100% (cannot leave until the Team Practice ends).
 specialinfo_1067=Teach a disciple until progress reaches 100%.
@@ -1834,11 +1823,6 @@ storymenu_93_1=<font face="Default" color="#ffffff" >Grandmaster, what a great p
 storymenu_93_2=<font face="Default" color="#ffffff" >I shall follow the grandmaster's instructions! </font>
 hunterinfo_46=Defeat the Korean messenger.
 storyinfo_93=Listen to <a href="findnpc_new,school20,newmp_mj_001" style="HLStype1">Ming Shiyue</a>
-DialogID_30004=Recently, the eight major schools have been recruiting disciples. If you wish to go seek a teacher for a lesson, maybe our Young Hero is willing to listen to some advice?
-DialogID_41=The eight major schools are now accepting disciples. Do you want some advice?
-DialogID_49=Recently, the eight major schools have been recruiting disciples. If you wish to go seek a teacher for a lesson, maybe our Young Hero is willing to listen to some advice?
-DialogID_50=Recently, the eight major schools have been recruiting disciples. If you wish to go seek a teacher for a lesson, maybe our Young Hero is willing to listen to some advice?
-DialogID_59=Recently, the eight major schools have been recruiting disciples. If you wish to go seek a teacher for a lesson, maybe our Young Hero is willing to listen to some advice?
 jiaoxue_parry_4_1652=After using <font color="#00d8ff">"Embrace the Moon"</font>, use a parry to <font color="#00d8ff">receive</font> <a href="findnpc_new,groupscene011,Npc_yd_wg_jx_wd03" style="HLStype1">Chen Chao's</a> Brute Strength attack
 jiaoxue_parry_4_1662=After using <font color="#00d8ff">"Embrace the Moon"</font>, use a parry to <font color="#00d8ff">receive</font> <a href="findnpc_new,groupscene012,Npc_yd_wg_jx_sl03" style="HLStype1">Qing Jie's</a> Brute Strength attack
 jiaoxue_parry_4_1667=After using <font color="#00d8ff">"Embrace the Moon"</font>, use a parry to <font color="#00d8ff">receive</font> <a href="findnpc_new,groupscene013,Npc_yd_wg_jx_em03" style="HLStype1">Li Fang's</a> Brute Strength attack
@@ -1855,13 +1839,39 @@ jiaoxue_synthetic_2_1679=Try to <font color="#00d8ff">parry</font> <a href="find
 jiaoxue_synthetic_2_1684=Try to <font color="#00d8ff">parry</font> <a href="findnpc_new,groupscene016,Npc_yd_wg_jx_jz05" style="HLStype1">Chen Zhongliang's</a> attack. When rage reaches to a certain level, use the overt move <font color="#00d8ff">Step Backwards Over Seven Stars</font> to initiate an attack. Try it a few more times to check out the effects. <font color="#ff0000">(Press K to turn on Skill Manual and drag Step Backwards Over Seven Stars into the skill bar.) </font>
 jiaoxue_synthetic_2_1689=Try to <font color="#00d8ff">parry</font> <a href="findnpc_new,groupscene017,Npc_yd_wg_jx_jy05" style="HLStype1">Su Santong's</a> attack. When rage reaches to a certain level, use the overt move <font color="#00d8ff">Step Backwards Over Seven Stars</font> to initiate an attack. Try it a few more times to check out the effects. <font color="#ff0000">(Press K to turn on Skill Manual and drag Step Backwards Over Seven Stars into the skill bar.) </font>
 jiaoxue_synthetic_2_1694=Try to <font color="#00d8ff">parry</font> <a href="findnpc_new,groupscene018,Npc_yd_wg_jx_jl05" style="HLStype1">Yang Qing's</a> attack. When rage reaches to a certain level, use the overt move <font color="#00d8ff">Step Backwards Over Seven Stars</font> to initiate an attack. Try it a few more times to check out the effects. <font color="#ff0000">(Press K to turn on Skill Manual and drag Step Backwards Over Seven Stars into the skill bar.) </font>
-jiaoxue_virtual_3_1653=Use the feint move <font color="#00d8ff">"White Cloud Covers The Top"</font> against <a href="findnpc_new,groupscene011,Npc_yd_wg_jx_wd04" style="HLStype1">Wu Chenkai's</a> parry
-jiaoxue_virtual_3_1663=Use the feint move <font color="#00d8ff">"White Cloud Covers The Top"</font> against <a href="findnpc_new,groupscene012,Npc_yd_wg_jx_sl04" style="HLStype1">Qing Du's</a> parry
-jiaoxue_virtual_3_1668=Use the feint move <font color="#00d8ff">"White Cloud Covers The Top"</font> against <a href="findnpc_new,groupscene013,Npc_yd_wg_jx_em04" style="HLStype1">Ge Qianhua's</a> parry
-jiaoxue_virtual_3_1673=Use the feint move <font color="#00d8ff">"White Cloud Covers The Top"</font> against <a href="findnpc_new,groupscene014,Npc_yd_wg_jx_gb04" style="HLStype1">Li Gang's</a> parry
-jiaoxue_virtual_3_1678=Use the feint move <font color="#00d8ff">"White Cloud Covers The Top"</font> against <a href="findnpc_new,groupscene015,Npc_yd_wg_jx_tm04" style="HLStype1">Gu Pinggang's</a> parry
-jiaoxue_virtual_3_1683=Use the feint move <font color="#00d8ff">"White Cloud Covers The Top"</font> against <a href="findnpc_new,groupscene016,Npc_yd_wg_jx_jz04" style="HLStype1">Situ Qianyun's</a> parry
-jiaoxue_virtual_3_1688=Use the feint move <font color="#00d8ff">"White Cloud Covers The Top"</font> against <a href="findnpc_new,groupscene017,Npc_yd_wg_jx_jy04" style="HLStype1">Jia Sa's</a> parry
-jiaoxue_virtual_3_1693=Use the feint move <font color="#00d8ff">"White Cloud Covers The Top"</font> against <a href="findnpc_new,groupscene018,Npc_yd_wg_jx_jl04" style="HLStype1">Yuan Long's</a> parry
+jiaoxue_virtual_3_1653=Use the feint move <font color="#00d8ff">"Blow Away in the Clear Wind"</font> against <a href="findnpc_new,groupscene011,Npc_yd_wg_jx_wd04" style="HLStype1">Wu Chenkai's</a> parry
+jiaoxue_virtual_3_1663=Use the feint move <font color="#00d8ff">"Feint Step Intercepts Elbow"</font> against <a href="findnpc_new,groupscene012,Npc_yd_wg_jx_sl04" style="HLStype1">Qing Du's</a> parry
+jiaoxue_virtual_3_1668=Use the feint move <font color="#00d8ff">"Embracing the Wind"</font> against <a href="findnpc_new,groupscene013,Npc_yd_wg_jx_em04" style="HLStype1">Ge Qianhua's</a> parry
+jiaoxue_virtual_3_1673=Use the feint move <font color="#00d8ff">"Lotus Sharing One Root"</font> against <a href="findnpc_new,groupscene014,Npc_yd_wg_jx_gb04" style="HLStype1">Li Gang's</a> parry
+jiaoxue_virtual_3_1678=Use the feint move <font color="#00d8ff">"Swing the Tail"</font> against <a href="findnpc_new,groupscene015,Npc_yd_wg_jx_tm04" style="HLStype1">Gu Pinggang's</a> parry
+jiaoxue_virtual_3_1683=Use the feint move <font color="#00d8ff">"Reticent Flower"</font> against <a href="findnpc_new,groupscene016,Npc_yd_wg_jx_jz04" style="HLStype1">Situ Qianyun's</a> parry
+jiaoxue_virtual_3_1688=Use the feint move <font color="#00d8ff">"Ghost Shadow Scares Goose"</font> against <a href="findnpc_new,groupscene017,Npc_yd_wg_jx_jy04" style="HLStype1">Jia Sa's</a> parry
+jiaoxue_virtual_3_1693=Use the feint move <font color="#00d8ff">"Cut in Half"</font> against <a href="findnpc_new,groupscene018,Npc_yd_wg_jx_jl04" style="HLStype1">Yuan Long's</a> parry
 specialinfo_1178=Attend the battlefield and win by solo to complete the quest (Both Muyun Villa or Ancient Tomb Battlefield are OK)
+QiecuoMenu_47=<font face="Default" color="#ffffff" >Grandmaster does not agree with the request of the special envoy.</font>
+QiecuoTitle_47=<font face="Default" color="#ffffff" >Grandmaster does not agree with the request of the special envoy.</font>
+SubmitNpcEx_403=Find the Korean messenger and get in good with him.
+story_94_1=<font face="Default" color="#ffffff" >Korea is a greedy little kingdom that coverts our Central Plain. Their prince has used all of the kingdom's resources to build Fine Wisdom Pavilion. They are corrupt and immoral and are surely up to no good. The Korean messengers have recently been distributing Mystic Iron Badges around the Central Plain, Broadly recruiting traitors and heretics. It is said that many losers in Jianghu have already joined them. I will be able to give him anything he wants. The Fine Wisdom Pavilion is the first step in invading the Central Plain. If we wait until they build up their strength, it will not be easy to get rid of them. I have an idea. We should take the opportunity to mix in among them to get information and cause schisms. Then we can destroy them. However, it is very risky. Are you determined enough? </font>
+story_94_2=<font face="Default" color="#ffffff" >There are plenty of unscrupulous people in Jianghu. These Mystic Iron Badges are promises of riches and power, so there will definitely be people who will fight for them. Our mission is to save the people, so we must be even more cautious. But if we see a loser on the road, we must catch him if we can. We'll get an extra badge, and we'll have one less loser. </font>
+story_menu_94=<font face="Default" color="#ffffff" >Grandmaster, regarding the matter of the Korean specials envoy, what is your opinion? </font>
+storymenu_94_1=<font face="Default" color="#ffffff" >Grandmaster, what a great plan! </font>
+storymenu_94_2=<font face="Default" color="#ffffff" >I shall follow the grandmaster's instructions! </font>
+hunterinfo_47=Defeat the Korean messenger.
+storyinfo_94=Listen to <a href="findnpc,school22,1262,199,920" style="HLStype1">Bai Tianjing</a>
+DialogID_30004=Recently, the ten major schools have been recruiting disciples. If you wish to go seek a teacher for a lesson, maybe our Young Hero is willing to listen to some advice?
+DialogID_41=Recently, the ten major schools have been recruiting disciples. If you wish to go seek a teacher for a lesson, maybe our Young Hero is willing to listen to some advice?
+DialogID_49=Recently, the ten major schools have been recruiting disciples. If you wish to go seek a teacher for a lesson, maybe our Young Hero is willing to listen to some advice?
+DialogID_50=Recently, the ten major schools have been recruiting disciples. If you wish to go seek a teacher for a lesson, maybe our Young Hero is willing to listen to some advice?
+DialogID_59=Recently, the ten major schools have been recruiting disciples. If you wish to go seek a teacher for a lesson, maybe our Young Hero is willing to listen to some advice?
+DialogID_15=<font face="Default" color="#ffffff" >A kidnapping player carries a bag with a person inside on his shoulder. You will also notice the word "Criminal" over his head. He can be attacked anywhere, and no one will blame you for killing him!</font>
+DialogID_16=<font face="Default" color="#ffffff" >A kidnapping player carries a bag with a person inside on his shoulder. You will also notice the word "Criminal" over his head. He can be attacked anywhere, and no one will blame you for killing him!</font>
+DialogID_21=<font face="Default" color="#ffffff" >A kidnapping player carries a bag with a person inside on his shoulder. You will also notice the word "Criminal" over his head. He can be attacked anywhere, and no one will blame you for killing him!</font>
+DialogID_42=<font face="Default" color="#ffffff" >A kidnapping player carries a bag with a person inside on his shoulder. You will also notice the word "Criminal" over his head. He can be attacked anywhere, and no one will blame you for killing him!</font>
+hunterinfo_17=Assassinate the Korean Princess Li Ju, who is the mastermind behind Fine Wisdom Pavilion.
+specialinfo_1064=Kill Mortal Enemies once.
+specialinfo_615=Kill a member of an Enemy Guild.
+specialinfo_833=Go to the <font color="#00d8ff">Killers' Manor</font> to complete the faction challenge
+story_62_1=<font face="Default" color="#ffffff" >I see. Before we continue, answer honestly: why do you want to learn to fight? Revenge? To abuse the weak? If so, you have no place here.</font>
+story_64_2=<font face="Default" color="#ffffff" >Very well. We will teach you to protect yourself from your enemies. Go and speak with He Yongyong to learn some external skills.</font>
+story_menu_64=<font face="Default" color="#ffffff" >When I was younger, my noble family was slaughtered. Since then, I've wandered, begging for scraps to survive. And now, I am here.</font>
 

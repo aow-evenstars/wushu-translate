@@ -24,18 +24,15 @@ ZZAnswerText3_3681=互贈禮物
 collectinfo_43600=從<a href="findnpc_new,scene04,monf042100" style="HLStype1">流放的逃犯</a>身上收集鐐銬
 collectinfo_43601=收集被搶走的<a href="findnpc_new,scene04,Gather00103m" style="HLStype1">貨物</a>
 collectinfo_43602=從<a href="findnpc_new,scene04,monf042100" style="HLStype1">流放的逃犯</a>身上獲得腰牌
-collectinfo_43603=從<a href="findnpc_new,scene04,monf040500" style="HLStype1">蒙面殺手</a>身上獲得刺殺密令
 collectinfo_43604=從<a href="findnpc_new,scene04,monf040602" style="HLStype1">獵戶守衛</a>身上獲得飛鏢
 collectinfo_43605=收集<a href="findnpc_new,scene04,Gather00104m" style="HLStype1">獵戶武器</a>
 collectinfo_43606=收集<a href="findnpc_new,scene04,Gather00105m" style="HLStype1">爹爹的衣服</a>
-collectinfo_43607=從<a href="findnpc_new,scene04,monf040500" style="HLStype1">蒙面殺手</a>身上找到面罩
 collectinfo_43608=收集<a href="findnpc_new,scene04,Gather00106m" style="HLStype1">經書</a>
 collectinfo_43609=收集<a href="findnpc_new,scene04,Gather00107m" style="HLStype1">獵戶的長劍</a>
 collectinfo_43610=從<a href="findnpc_new,scene04,monf040601" style="HLStype1">獵戶打探者</a>身上獲得獵殺命令
 hunterinfo_43600=殺死<a href="findnpc_new,scene04,monf042100" style="HLStype1">流放的逃犯</a>
 hunterinfo_43601=擊敗<a href="findnpc_new,scene04,monf040400" style="HLStype1">兇惡的土司打手</a>
 hunterinfo_43602=擊敗<a href="findnpc_new,scene04,bossf040100" style="HLStype1">次丹堆古</a>
-hunterinfo_43603=擊敗<a href="findnpc_new,scene04,monf040500" style="HLStype1">蒙面殺手</a>
 hunterinfo_43604=與<a href="findnpc_new,scene04,WorldNpc06039" style="HLStype1">許策</a>切磋
 hunterinfo_43605=殺死<a href="findnpc_new,scene04,monf040602" style="HLStype1">獵戶守衛</a>
 hunterinfo_43606=殺死<a href="findnpc_new,scene04,monf040603" style="HLStype1">獵戶打手</a>
@@ -43,7 +40,6 @@ hunterinfo_43607=殺死<a href="findnpc_new,scene04,monf040604" style="HLStype1"
 hunterinfo_43608=殺死<a href="findnpc_new,scene04,monf040201" style="HLStype1">兇惡的土司護衛</a>
 hunterinfo_43609=殺死<a href="findnpc_new,scene04,monf041200" style="HLStype1">西域喇嘛</a>
 hunterinfo_43610=殺死<a href="findnpc_new,scene04,monf041100" style="HLStype1">外來番僧</a>
-hunterinfo_43611=擊敗<a href="findnpc_new,scene04,monf040500" style="HLStype1">蒙面殺手</a>
 hunterinfo_43612=殺死<a href="findnpc_new,scene04,monf041400" style="HLStype1">喇嘛護法</a>
 hunterinfo_43613=殺死<a href="findnpc_new,scene04,monf041200" style="HLStype1">西域喇嘛</a>
 hunterinfo_43614=殺死<a href="findnpc_new,scene04,monf040600" style="HLStype1">兇殘獵戶</a>
@@ -100,3 +96,8 @@ storymenu_43600_1=知道了
 storymenu_43601_1=原來是這樣
 storymenu_43602_1=這幫惡徒真是太霸道了
 useiteminfo_43600=對<a href="findnpc_new,scene04,WorldNpc05921" style="HLStype1">莫央金</a>使用<a href="TASK_ITEM,useitem_64m" style="HLStype1">止咳藥</a>
+collectinfo_43603=從<a href="findnpc_new,scene04,monf040500" style="HLStype1">蒙面隱衛</a>身上獲得突擊密令
+collectinfo_43607=從<a href="findnpc_new,scene04,monf040500" style="HLStype1">蒙面隱衛</a>身上找到面罩
+hunterinfo_43603=擊敗<a href="findnpc_new,scene04,monf040500" style="HLStype1">蒙面隱衛</a>
+hunterinfo_43611=擊敗<a href="findnpc_new,scene04,monf040500" style="HLStype1">蒙面隱衛</a>
+

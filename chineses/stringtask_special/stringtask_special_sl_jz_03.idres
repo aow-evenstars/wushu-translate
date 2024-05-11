@@ -1,7 +1,6 @@
 ﻿
 DialogID_51750=Those novice bandits are helping them. Kill them all.
 DialogID_51751=The Mother Dragon Temple Minions always asks people to pay if they wanted to cross the river. Go teach them a lesson.
-DialogID_51752=One of the Wanderer's Valley Killers is an expert. Go kill him.
 DialogID_51753=Thanks for reminding me. Please find Zhang Jiu and tell him to be aware of the water thieves.
 DialogID_51754=Thanks for reminding me. Thank him for me.
 DialogID_51755=Those Youyuan Treasure Guards are guarding the stolen goods. Defeat them and give the money to the people.
@@ -18,7 +17,6 @@ DialogID_51765=The Strong Bandit took the necklace I wanted to give to Cao Jian.
 DialogID_51766=Help me kill the Strong Bandit.
 DialogID_51767=Give Cao Jian some fish to thank him for saving my children.
 DialogID_51768=Thank Zhou Hexiang for me.
-DialogID_51769=Go kill the Youyuan Cave killers to keep the people safe.
 DialogID_51770=The Martial Minions have been robbing passersby. Go teach them a lesson.
 DialogID_51771=Thanks for the message. Thank Murong Yue for me.
 DialogID_51772=You are welcome. Give these medicine to Shi Fei.
@@ -32,12 +30,9 @@ hunterinfo_51750=Defeat <a href="findnpc_new,school03,monm031100" style="HLStype
 hunterinfo_51751=Defeat <a href="findnpc_new,school03,monm031102" style="HLStype1">Novice Bandit</a>
 hunterinfo_51752=Defeat <a href="findnpc_new,school03,monm031400" style="HLStype1">Flower Thief</a>
 hunterinfo_51753=Defeat <a href="findnpc_new,school03,monm031200" style="HLStype1">Mother Dragon Temple Minion</a>
-hunterinfo_51754=Defeat <a href="findnpc_new,school03,monm031600" style="HLStype1">Wanderer's Valley Slayer</a>
-hunterinfo_51755=Defeat <a href="findnpc_new,school03,monm031601" style="HLStype1">Serious Wanderer's Valley Slayer</a>
 hunterinfo_51756=Defeat <a href="findnpc_new,school03,monm031501" style="HLStype1">Pirate Minion</a>
 hunterinfo_51757=Defeat <a href="findnpc_new,school03,monm031802" style="HLStype1">Youluan Treasury Guard</a>
 hunterinfo_51758=Defeat <a href="findnpc_new,school03,monm031800" style="HLStype1">Youluan Cave Guard</a>
-hunterinfo_51759=Defeat <a href="findnpc_new,school03,monm031801" style="HLStype1">Youluan Cave Slayer</a>
 hunterinfo_51760=Defeat <a href="findnpc_new,school03,monm031701" style="HLStype1">Pirate Bedroom Guard</a>
 hunterinfo_51761=Defeat <a href="findnpc_new,school03,monm031501" style="HLStype1">Pirate Minion</a>
 hunterinfo_51762=Defeat <a href="findnpc_new,school03,monm031500" style="HLStype1">Pirate Expert</a>
@@ -47,7 +42,6 @@ hunterinfo_51765=Defeat <a href="findnpc_new,school03,monm031301" style="HLStype
 hunterinfo_51766=Defeat <a href="findnpc_new,school03,monm031300" style="HLStype1">Mother Dragon Temple Priest</a>
 hunterinfo_51768=Defeat <a href="findnpc_new,school03,monm031100" style="HLStype1">Bridge Bandit</a>
 hunterinfo_51769=Defeat <a href="findnpc_new,school03,monm031101" style="HLStype1">Strong Bandit</a>
-hunterinfo_51770=Defeat <a href="findnpc_new,school03,monm031801" style="HLStype1">Youluan Cave Slayer</a>
 hunterinfo_51771=Defeat <a href="findnpc_new,school03,monm031401" style="HLStype1">Bold Pervert</a>.
 hunterinfo_51772=Defeat <a href="findnpc_new,school03,monm031201" style="HLStype1">Martial Minion</a>
 hunterinfo_51773=Defeat <a href="findnpc_new,school03,monm031302" style="HLStype1">Mother Dragon Temple Evil Monk</a>
@@ -101,4 +95,10 @@ okmenu_51771=Okay.
 okmenu_51772=Okay.
 okmenu_51773=Okay...
 okmenu_51774=Okay.
+DialogID_51752=One of the Wanderer's Valley Killers is an expert. Go kill him.
+DialogID_51769=Go kill the Youyuan Cave killers to keep the people safe.
+hunterinfo_51754=Defeat <a href="findnpc_new,school03,monm031600" style="HLStype1">Wanderer's Valley Killer</a>
+hunterinfo_51755=Defeat <a href="findnpc_new,school03,monm031601" style="HLStype1">Serious Wanderer's Valley Killer</a>
+hunterinfo_51759=Defeat <a href="findnpc_new,school03,monm031801" style="HLStype1">Youluan Cave Killer</a>
+hunterinfo_51770=Defeat <a href="findnpc_new,school03,monm031801" style="HLStype1">Youluan Cave Killer</a>
 

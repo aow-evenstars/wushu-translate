@@ -15,7 +15,6 @@ CanAcceptMenu_87016=<font face="Default" color="#ffffff" >Xu Family Manor Disput
 CanAcceptMenu_87017=<font face="Default" color="#ffffff" >Sweep the Yards</font>
 CanAcceptMenu_87018=<font face="Default" color="#ffffff" >Chase After Betrayer</font>
 CanAcceptMenu_87019=<font face="Default" color="#ffffff" >Gaultheria</font>
-CanAcceptMenu_87020=<font face="Default" color="#ffffff" >Those who Resist Shall Perish</font>
 CompleteMenu_87000=<font face="Default" color="#ffffff" >Fulfill the task.</font>
 CompleteMenu_87001=<font face="Default" color="#ffffff" >Fulfill the task.</font>
 CompleteMenu_87002=<font face="Default" color="#ffffff" >Fulfill the task.</font>
@@ -77,12 +76,9 @@ complete_87019=<font face="Default" color="#ffffff">You</font> <font face="Defau
 complete_87020=<font face="Default" color="#ffffff">Well done! What you did will help make a brighter future for Wanderer’s Valley.</font>
 context_87000=Disciples of Wanderer's Valley are always uninhibited. But with the increase of the number of the disciples, the huge living burden makes Wanderer's Valley hard to make ends meet. Please donate materials! Do your bit for the schoolmates.
 context_87001=Ever since its foundation, Wanderer's Valley has been incompatible with the Imperial Court. Wanderer's Valley secretly sent the apprentices to investigate the Imperial Court for the news not good for Wanderer's Valley. The handover was arranged at Xijin Ferry with secret signals. The Sect now entrusts you with the important task to meeting the Spy and being aware of the interception of the Imperial Palace Experts. Protect the Spy.
-context_87002=Blackwind Mountain has been at war with Wanderer's Valley for the longest time. Their members have been brutally robbing and murdering the Wanderer's Valley disciples without any just cause, and this needs to come to an end. I'll need you to help kill the Blackwind Mountain leader once and for all. I must warn you, his kung fu is quite strong...
 context_87003=Disciples of Wanderer's Sect in Chengdu sent a carrier pigeon to deliver a letter saying that in the east suburb of Chengdu City disciples of Wanderer's Sect were attacked on the way to Jinling. It is preliminarily suggested that they should be wounded by the hidden weapons that are often used by Gold-needle Shen Family. Golden Needle Sect must give us an explanation. We want the truth!
-context_87004=You must go to Twilight Village immediately and help catch the infamous assassin Zhao Ziji. He has a history of attacking many Wanderer's Valley disciples.
 context_87005=Disciples of Wanderer's Valley are always uninhibited. But with the increase of the number of the disciples, the huge living burden makes Wanderer's Valley hard to make ends meet. Please donate materials! Do your bit for the schoolmates.
 context_87006=Disciples of Wanderer's Valley are always uninhibited. But with the increase of the number of the disciples, the huge living burden makes Wanderer's Valley hard to make ends meet. Please donate materials! Do your bit for the schoolmates.
-context_87007=Disciples of Wanderer's Valley in Luoyang sent a carrier pigeon to deliver a letter saying that the Study Boss in Luoyang City suffered from a suspicious death. A few pages of the Maple Leaf Letter were left at the scene. The Maple Leaf Letter recorded the matter of butterflies killing people in Green Cloud Castle. The Study Boss' wife offered us a big reward to assist in dealing with it. Please go to Green Cloud Castle to conduct a thorough investigation and properly handle it. The Sect will make a full use of the reward presented by Mrs. Shi.
 context_87008=Wanderer's Valley has been suffering from a great shortage of supplies. I'd like for you to go there and assist the escort agency.
 context_87010=There are a number of individuals in Wanderer's Valley becoming quite a nuisance to some of the more peaceful sects. I need you to be on the lookout.
 context_87011=I have been notified that our disciples were in fact killed in Chengdu by some Shaolin monks. Given this information, your task now is to avenge the death of our brothers. You'll first need to speak with Cheng Ying.
@@ -185,7 +181,6 @@ title_87016=Xu Family Dispute
 title_87017=Clean the Courtyard
 title_87018=Pursue Traitor
 title_87019=Gaultheria
-title_87020=Those who Resist Shall Perish
 CanAcceptMenu_87021=<font face="Default" color="#ffffff" >Not Our Kind</font>
 CanAcceptMenu_87022=<font face="Default" color="#ffffff" >Past Events</font>
 CanAcceptMenu_87023=<font face="Default" color="#ffffff" >Dark Clouds In The Background</font>
@@ -194,7 +189,6 @@ CompleteMenu_87022=<font face="Default" color="#ffffff" >Past Events (Complete)<
 CompleteMenu_87023=<font face="Default" color="#ffffff" >Dark Clouds In The Background (Complete)</font>
 accept_87021_1=<font face="Default" color="#ffffff" >You have come at the right time. I was about to ask you to do something.</font>
 accept_87022_1=<font face="Default" color="#ffffff" >You have come at the right time. I want to ask you to investigate a case.</font>
-accept_87023_1=<font face="Default" color="#ffffff" >Have you ever heard of the butterflies killing people?</font>
 complete_87021=<font face="Default" color="#ffffff" >You have handled it very well.</font>
 complete_87022=<font face="Default" color="#ffffff" >I had no idea that this was the case! I suppose you can go now... </font>
 complete_87023=<font face="Default" color="#ffffff" >You have gained a lot from this experience. Well done. I'll give you a big reward that you deserve.</font>
@@ -229,4 +223,10 @@ context_87020=Songshan Sword Sect has been conspiring with an emerging evil forc
 target_87009=Finish challenging the force of Huanhua Sword Sect.
 target_87020=Accomplish the force challenge to Mount Song Sword Sect.
 title_87009=Huanhua Sword Sect
+CanAcceptMenu_87020=<font face="Default" color="#ffffff" >Those who Resist Shall Perish</font>
+accept_87023_1=<font face="Default" color="#ffffff" >Have you ever heard of the butterflies killing people?</font>
+context_87002=Blackwind Mountain has been at war with Wanderer's Valley for the longest time. Their members have been brutally robbing and murdering the Wanderer's Valley disciples without any just cause, and this needs to come to an end. I'll need you to help kill the Blackwind Mountain leader once and for all. I must warn you, his kung fu is quite strong...
+context_87004=You must go to Twilight Village immediately and help catch the infamous assassin Zhao Ziji. He has a history of attacking many Wanderer's Valley disciples.
+context_87007=Disciples of Wanderer's Valley in Luoyang sent a carrier pigeon to deliver a letter saying that the Study Boss in Luoyang City suffered from a suspicious death. A few pages of the Maple Leaf Letter were left at the scene. The Maple Leaf Letter recorded the matter of butterflies killing people in Green Cloud Castle. The Study Boss' wife offered us a big reward to assist in dealing with it. Please go to Green Cloud Castle to conduct a thorough investigation and properly handle it. The Sect will make a full use of the reward presented by Mrs. Shi.
+title_87020=Those who Resist Shall Perish
 

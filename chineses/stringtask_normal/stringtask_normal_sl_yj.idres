@@ -252,12 +252,8 @@ menu_81070_1=No problem. Come on.
 completemenu_81070=Am I right?
 complete_81070=Oh, you are very astute!
 canacceptmenu_81135=The thug's requirement.
-title_81155=Assassinate Goal
-context_81155=I got a task which is to assassinate Qingfeng Stronghold Leader. You help me put tracing incense on him. It wiil be convenient for me to trace.
 target_81155=Right, Gongsun Wuji used Tracing Incense.
-accept_81155_1=I got a task which is to assassinate Qingfeng Stronghold Leader. You help me put tracing incense on him. It wiil be convenient for me to trace.
 menu_81155_1=Ok, I'm going now.
-canacceptmenu_81155=Assassinate goal.
 completemenu_81155=The Tracing Incense has been placed and he noticed nothing.
 complete_81155=OK. So that my task becomes much easier.
 title_81156=The Stray Child
@@ -424,20 +420,17 @@ CanAcceptMenu_81059=<font face="Default" color="#ffffff" >There is no need to be
 CompleteMenu_81057=<font face="Default" color="#ffffff" >Fulfill the task.</font>
 CompleteMenu_81058=<font face="Default" color="#ffffff" >Fulfill the task.</font>
 CompleteMenu_81059=<font face="Default" color="#ffffff" >Fulfill the task.</font>
-accept_81057_1=<font face="Default" color="#ffffff" >Ji Wujiu of Killers' Manor has brought some people to invade the Dongfang Family. Please fight alongside me.</font>
 accept_81058_1=<font face="Default" color="#ffffff" >Please stop. Could you please do me a favor?</font>
 accept_81059_1=<font face="Default" color="#ffffff" >I knew it must have been Niu Yansheng. The other day she sent a little girl to tear up my shop. How can I do business with her behaving like this? I'm wondering if we were enemies in a past life. Come here and do me a favor. I had someone catch a rat.  Go to the Qunfang Brothel and throw it onto her clothes. There is no need to look for her clothes. The red coat upstairs is hers. She only has one.</font>
 accept_81091_1=<font face="Default" color="#ffffff" >I want a cat's eye, but they're hard to come by. I know the businessman of Mohe Town used to sell them. Can you go buy one for me?</font>
 complete_81057=<font face="Default" color="#ffffff" >Thank you for fighting alongside us.</font>
 complete_81058=<font face="Default" color="#ffffff" >I'm sorry for telling you about these past events. </font><font face="Default" color="#ffffff" >As to the favor you asked, let's talk about it next time.</font>
 complete_81059=<font face="Default" color="#ffffff" >I'm glad I gave it to you.</font>
-context_81057=Killer's Manor Ji Wujiu has brought people to attack our Dongfang Family. Please fight with me.
 context_81058=Hold on! Can you do me a favor?
 context_81059=I know it must be Niu Yan again who caused trouble. The day before yesterday, a little girl was sent to my store and turned everything upside down, then left. How can I do business if she always does this? Were we enemies in a previous life? Come on and do me a favor. This is the rat that I asked people to catch for me. You help me throw the rat on her clothes in Qunfang Garden. You don't need to look for it. It’s the red one, upstairs.
 menu_81057_1=<font face="Default" color="#ffffff" >I'm ready</font><font face="Default" color="#ffffff" >. I'll kill them today.</font>
 menu_81058_1=<font face="Default" color="#ffffff" >Ok. What can I do for you?</font>
 menu_81059_1=<font face="Default" color="#ffffff" >You seem like sisters of a past life.</font><font face="Default" color="#8fd6ef" ></font>
-target_81057=Defeat Ji Wujiu and the sword stealer of Killer's Manor. Protect Dongfang Family.
 target_81058=Listen to Feng Yanquan of Chilly Wind Valley telling his story and then help him.
 target_81059=Go to the brothel and put the rat near Niu Yan's clothes.
 target_81060=Listen to Niu Dazi enlightening himself.
@@ -460,4 +453,40 @@ target_81129=Kill Ancient Tomb Sect Experts and Ancient Tomb Sect Guards.
 target_81148=Kill Ancient Tomb Sect Disciples.
 title_81050=Hua Mountain Competition
 title_81069=Green Lotus Script
+CanAcceptMenu_81086=Revenge for the son
+CanAcceptMenu_81104=Kill List
+CanAcceptMenu_81138=Killer Duel
+CanAcceptMenu_81148=Hidden Arrow
+CanAcceptMenu_81155=Assassinate Target
+CanAcceptMenu_81172=Invulnerable
+CompleteMenu_81123=They were repelled.
+accept_81057_1=<font face="Default" color="#ffffff" >Ji Wujiu of Killers' Manor has brought some people to invade Dongfang Family. Please fight alongside me.</font>
+accept_81104_1=Recently some mysterious black-clad assassins appeared outside the city. They should be trying to kill some important people in the city. We make the first move. You kill them all before they can make a move. Better bring back the list of people they want to kill.
+accept_81108_1=I had just been attacked by a gang of assassins. I barely managed to escape. But they stole one of my secret letters. Go after them and kill them, get the letter back.
+accept_81132_1=Those guys at Killers' Manor are getting cocky. I have to teach them a lesson. You go and kill some of their minions, the Killers' Manor guards and perdues.
+accept_81138_1=You go tell those Central Provinces killers that his target is also our target. We want this person for sure. Tell them to stay out, or they will be killed without mercy.
+accept_81141_1=A group of my soldiers died near Killers' Manor. The hateful thing is that their hearts were ripped out. This must be the work of the Eating Heart Old Man in Killers' Manor. Go and help me kill him. Get revenge for those soldiers.
+accept_81151_1=Tonight I'm going to kill a bandit leader. But that robber lives in a place with a lot of dogs. You know those things are very vigilant. Just in case, go and kill those dogs.
+accept_81155_1=I got a task which is to assassinate Qingfeng Stronghold Leader. You help me put tracing incense on him. It will be convenient for me to trace.
+accept_81172_1=Once you step into Killers' Manor, it's all about killing and being killed. That's the rules of the game we play here, and you have to accept them. No matter where you come from, you will end your life here.
+complete_81123=Hearing the news that they were killed made me feel much better.
+context_81057=Ji Wujiu of Killers' Manor has brought some people to invade Dongfang Family. Please fight alongside me.
+context_81104=Recently some mysterious black-clad assassins appeared outside the city. They should be trying to kill some important people in the city. We make the first move. You kill them all before they can make a move. Better bring back the list of people they want to kill.
+context_81108=I had just been attacked by a gang of assassins. I barely managed to escape. But they stole one of my secret letters. Go after them and kill them, get the letter back.
+context_81132=Those guys at Killers' Manor are getting cocky. I have to teach them a lesson. You go and kill some of their minions, the Killers' Manor guards and perdues.
+context_81138=You go tell those Central Provinces killers that his target is also our target. We want this person for sure. Tell them to stay out, or they will be killed without mercy.
+context_81141=A group of my soldiers died near Killers' Manor. The hateful thing is that their hearts were ripped out. This must be the work of the Eating Heart Old Man in Killers' Manor. Go and help me kill him. Get revenge for those soldiers.
+context_81151=Tonight I'm going to kill a bandit leader. But that robber lives in a place with a lot of dogs. You know those things are very vigilant. Just in case, go and kill those dogs.
+context_81155=I got a task which is to assassinate Qingfeng Stronghold Leader. You help me put tracing incense on him. It will be convenient for me to trace.
+context_81172=Whoever trespasses Killers' Manor gets destroyed.
+target_81057=Defeat Ji Wujiu and the sword stealer of Killer's Manor. Protect Dongfang Family.
+target_81132=Kill Killers' Manor guards and perdues
+target_81138=Pass the message to Central Provinces killers.
+target_81172=Defeat Killers' Manor guards
+title_81086=Revenge for the son
+title_81104=Kill List
+title_81138=Killer Duel
+title_81148=Hidden Arrow
+title_81155=Assassinate Target
+title_81172=Invulnerable
 

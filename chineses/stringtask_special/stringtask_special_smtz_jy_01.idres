@@ -44,8 +44,6 @@ hunterinfo_58301=Go to the secluded place of Yangjing to kill the <a href="findn
 hunterinfo_58302=Go to the secluded place of Yangjing to kill the <a href="findnpc_new,city01,monc020705" style="HLStype1">Wanted Man</a>.
 hunterinfo_58303=Go to the secluded place of Yangjing to kill the <a href="findnpc_new,city01,monc020706" style="HLStype1">Wanted Man</a>.
 hunterinfo_58304=Defeat the <a href="findnpc_new,school01,jyw038" style="HLStype1">Royal Guards disciple</a> to attain victory.
-hunterinfo_58305=Kill the <a href="findnpc_new,school01,monrm013905" style="HLStype1">Devil Sect Rascal</a> outside Taiping Village.
-hunterinfo_58306=Kill the <a href="findnpc_new,school01,monrm013906" style="HLStype1">Villain</a> who tried to break into the jail and rescue the prisoner.
 interactinfo_58301=Speak to the <a href="findnpc_new,city05,cd487" style="HLStype1">Royal Guards Disciple</a> outside Chengdu
 interactinfo_58302=Go to Xu Village to find the <a href="findnpc_new,city05,cd499" style="HLStype1">Royal Guards Disciple</a> who is a liaison man.
 interactinfo_58303=Go to Pine and Crane Restaurant and talk to the <a href="findnpc_new,city02,sz458" style="HLStype1">Royal Guards Disciple</a> who is a liaison.
@@ -93,7 +91,6 @@ story_58303_2=<font face="Default" color="#ffffff" > </font><font face="Default"
 story_58304_1=<font face="Default" color="#ffffff" > Finally</font><font face="Default" color="#ffffff" >you</font><font face="Default" color="#ffffff" >came. It's been</font><font face="Default" color="#ffffff" >rough...</font>
 story_58304_2=<font face="Default" color="#ffffff" >The shopkeeper of the study died mysteriously. Go to the memorial hall and ask Shi for details.</font><font face="Default" color="#ffffff" ></font><font face="Default" color="#ffffff" ></font>
 story_58305_1=<font face="Default" color="#ffffff" >My husband died </font><font face="Default" color="#ffffff" >mysteriously</font><font face="Default" color="#ffffff" >...</font>
-story_58305_2=<font face="Default" color="#ffffff" > Before my husband died </font><font face="Default" color="#ffffff" >he had planned to make a book out of a pile of personal letters</font><font face="Default" color="#ffffff" > which mention Green Cloud Castle and the butterfly murder. There are more letters upstairs, go see if they might be helpful.</font>
 story_58306_1=<font face="Default" color="#ffffff" > What? Attack by a man in black? Did the murderer come back again?</font>
 story_58306_2=<font face="Default" color="#ffffff" > I have been in a panic all day, I need your help.</font><font face="Default" color="#ffffff" ></font><font face="Default" color="#ffffff" ></font>
 story_menu_58302=<font face="Default" color="#ffffff" >Huanhua Cold Sword</font>
@@ -116,8 +113,6 @@ storymenu_58305_1=<font face="Default" color="#ffffff" >Don't be too sad, Mrs. S
 storymenu_58305_2=<font face="Default" color="#ffffff" >I'll go and have a look right now.</font>
 storymenu_58306_1=<font face="Default" color="#ffffff" >My speculation is that the guy attacked me to get the personal letters left by your husband or to get rid of the evidence...</font>
 storymenu_58306_2=<font face="Default" color="#8fd6ef" >I have something to do. </font><font face="Default" color="#ffffff" >Take care,  see you.</font>
-specialinfo_110=Go to Twilight Village Forbidden Instance(any difficulty) to defeat Zhao Ziji.
-specialinfo_188=Pass the Green Cloud Castle Forbidden Instance(Any Difficulty) and find out the secret of butterflies killing people.
 DialogID_58311=<font face="Default" color="#ffffff" >You have become a disciple of this school. There is one master whom I want to refer you to. You can go and seek him as a master. </font>
 SubmitNpcEx_86827=Go to <a href="findnpc_new,school02,wd173" style="HLStype1">the school's master guide</a> area.
 collectinfo_58313=Collect white poplar wood.
@@ -152,4 +147,9 @@ specialinfo_430=Complete faction challenge against Xingxiu Sect (Pass within 5 m
 specialinfo_587=Challenge the Huanhua Sword Sect
 story_58302_1=<font face="Default" color="#ffffff" > You've arrived; excellent! These disciples of the Huanhua Sword Sect </font><font face="Default" color="#ffffff" >claim</font> <font face="Default" color="#ffffff" >to be decent but they are proving very unreasonable...</font>
 story_58302_2=<font face="Default" color="#ffffff" >Huanhua Sword Sect are claiming that we attacked them because they found a Royal Guard token at the scene but I think we have been framed.  </font><font face="Default" color="#ffffff" ></font><font face="Default" color="#ffffff" >Go to the Huanhua Sword Sect and investigate.</font>
+hunterinfo_58305=Kill the <a href="findnpc_new,school01,monrm013905" style="HLStype1">Devil Sect Rascal</a> outside Taiping Village.
+hunterinfo_58306=Kill the <a href="findnpc_new,school01,monrm013906" style="HLStype1">Villain</a> who tried to break into the jail and rescue the prisoner.
+specialinfo_110=Go to Twilight Village Forbidden Instance(any difficulty) to defeat Zhao Ziji.
+specialinfo_188=Pass the Green Cloud Castle Forbidden Instance(Any Difficulty) and find out the secret of butterflies killing people.
+story_58305_2=<font face="Default" color="#ffffff" > Before my husband died </font><font face="Default" color="#ffffff" >he had planned to make a book out of a pile of personal letters</font><font face="Default" color="#ffffff" > which mention Green Cloud Castle and the butterfly murder. There are more letters upstairs, go see if they might be helpful.</font>
 

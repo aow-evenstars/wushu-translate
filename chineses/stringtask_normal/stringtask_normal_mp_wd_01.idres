@@ -50,7 +50,6 @@ accept_36003_1=Yao Bing knows much of these things; once a disciple of Thunderbo
 accept_36005_1=This is important, it seems there may be a plot to disrupt our ceremony! Inform Master Huo Tianxing and ask him to make a decision.
 accept_36019_1=<s>If you do not help me, I will get punished for losing the heirloom.
 accept_36020_1=I think you Wudang are too well-fed - it clouds your perception! How could you not recognize me, Qiu Yidao, of the Delightful Forest?
-accept_36027_1=Speak to Ma Xiao; he stands in penance, over there.
 accept_36031_1=You should ask Immortal Kongkong.
 accept_36042_1=You are very brave; you helped us avoid disaster.
 complete_36002_1=So strange… Why does it have the smell of saltpeter and sulphur?
@@ -88,7 +87,6 @@ context_36019=<s>If you do not help me, I will get punished for losing the heirl
 context_36020=<s>Wudang only has futile disciples. Maybe you don't know that they are my disciples from Merry Land, but you still don't recognize me, so I can't stop laughing. Ha-ha! You are not worth the air you breath, I want your life as a blood sacrifice to my blade!
 context_36021=But what can you do? You're already dead and Wudang is doomed to ill-fame. Now, I have some work to do.
 context_36026=You were only poisoned slightly; I suppressed the toxicity with my chi. Take the medicine and you will soon be well again.
-context_36027=I punished Ma Xiao and made him sit against the wall to think about what he did. How did he get out? Go have a look.
 context_36028=Are you going to deal with the men from Delightful Forest? But these men have already mixed into our Wudang Disciples. According to my conjecture, they are in this yard. It would be well if you use my method to have a try.
 context_36029=<s>I Have never thought the rascals of the Delightful Forest hide themselves so well. If we just let them go, we will never find out the mole. So we cannot let them run away.
 context_36031=<s>You should ask Immortal Kongkong.
@@ -252,7 +250,6 @@ complete_36437=<s>You seem to come from Wudang. What are you doing here? You wan
 context_36164=But Huanhua Villa has quite some reputation in Wulin. Even if you are Wudang disciple, they will not give in. So you'd better be careful. Their head quarter is at Huanhua River in City West.
 context_36183=<s>Huanhua Villa will not tolerate you. If you want to duel the headmaster, it will break the rule. You have to pass my challenge first.
 context_36189=There is no need to hide the truth now. Back then, Gui Xiaotian took away my love. My martial arts were low. I had neither money nor high social status. I could only ambush nearby and wait for an opportunity. Once he and Ziyang had a duel, it was my best chance. But I didn't expect to be chased everywhere after he died... I stayed by Gui Xiaotian's tomb for so many years only to stay alive with his and Huanhua Headmaster's reputation. Otherwise, why would I choose the tomb location to be at Huanhua River?
-context_36397=<s>Please help me avenge. I heard their next goal is Ancient Tomb Sect. Please stop them.
 context_36404=<s>Find Tian Xing. Pass my message. Ask him to select some experts and prepare to head to Ancient Tomb Sect and fight against enemies.
 context_36421=<s>The area around Ancient Tomb Sect is dangerous. Only the ones who are familiar with the area can come up with ways to defeat the enemies. I have a secret friend, Wu Cai. He is very knowledgeable. He lives nearby and must be familiar with the place. Help me to find him and ask him to draw a map for the nearby area.
 context_36544=<s>For real! We must break their plans as soon as possible to prevent from getting harmed more. But let me think about what to do. Let's see if we can save some people first. Then we expose Xingxiu Sect evil deeds to the public. Hopefully we can wipe those evil people. Go and kill Xingxiu Sect disciples nearby, so that it will be easier for us to do things.
@@ -269,4 +266,49 @@ target_36548=<s>It's an opportunity now. Enter Xingxiu Sect now.
 task_TrackInfo_36165=Find <a href="findnpc_new,city05,WorldNpc09801" style="HLStype1">Huanhua Villa Headmaster</a>.
 task_TrackInfo_36177=Hurry and go to <a href="findnpc_new,city05,WorldNpc09812" style="HLStype1">Huanhua Villa</a> to have a look.
 task_TrackInfo_36541=Go to Xingxiu Sect to find <a href="findnpc_new,born02,WorldNpc09302" style="HLStype1">Clues</a><BR>
+CanAcceptMenu_36253=Brother Xiang will also be here soon. If you must retaliate, my brother and I will also support you!
+CanAcceptMenu_36287=In this way we also revenged for Martial Sister Hong!
+CompleteMenu_36252=You can't be so reckless if you want revenge. This is the opposite of letting the villains go free!
+CompleteMenu_36462=Hao Zhan, your hit below the belt is really good.
+CompleteMenu_36524=Even so, these things don't excuse you for killing!
+accept_36027_1=Speak to Ma Xiao; he stands in penance, over there.
+accept_36078_1=<s>Are you trying to bring Ling Yunlong to justice? Just now he called the Killer in Black and then fled to the southwest. There is a cemetery in the southwest which is less crowded. Ling Yunlong must have fled in the direction of the cemetery. This man is insidious and cunning. You should be more careful.
+complete_36066=<s>Hmph, Sword Clan is really bullying people too much! Not only did they injure Chi Clan disciples, but they also threatened to seek revenge on our clan! We have not yet sought revenge on them and we have already backed off. I didn't think they would be aggressive now. What an outrage!
+complete_36077=<font face="Default" color="#ffffff" >I'm saved at last...</font> <font face="Default" color="#8fd6ef" >(Xu Chongzi looks tired)</font> <font face="Default" color="#ffffff" >I accidentally ran into Ling Yunlong.</font> <font face="Default" color="#ffffff" >He messed with my points and captured me. I fortunately broke through and fought him. When he saw that he could not fight,</font> <font face="Default" color="#ffffff" >he called a group of black-clad men to kill me.</font> <font face="Default" color="#ffffff" >Seeing someone coming after him, he fled again! </font>
+complete_36191=<s>I never thought it would be like this. Now I also have no ideas of revenge. The retribution is done...
+complete_36212=<s>Wonderer's Valley disciples have a history of going back on their words. Don't trust them. It's just that we monks should not kill and maim too much.
+complete_36393=<s>The master has been killed. The young hero went to revenge. Go and persuade her not to be so impetuous.
+context_36027=I punished Ma Xiao and made him sit against the wall to think about what he did. How did he get out? Go have a look.
+context_36173=I will become a burden to her even if I go to see her. Please give this sword and the letter to her, so that she can take revenge for her father! Please, Master! Master!
+context_36175=Why should it be this way? I must go and kill that bastard to take revenge for my father! Why are you stopping me? Shouldn't I be doing that?
+context_36212=<s>It turns out that Liu Changchun went to another Wanderer's Valley disciple, Xia Sha, to discuss revenge. Report the matter to Nine Crane Taoist and ask him to make a decision.
+context_36213=<s>Wanderer's Valley wants to take revenge on Mount Song and we can't just sit back and do nothing about it. In my opinion, it is better to destroy it secretly. Go and catch Xia Sha alive, don't let him escape.
+context_36251=<s>If anything happens to Yanxin, I will feel guilty for the rest of my life. Go to Yellow Plains and persuade Hongyan to put the matter of revenge on hold. I'm going to say goodbye to Zi Yang, and I'll be there soon.
+context_36252=<s>You get out of the way quickly. Don't interfere with my revenge for my brother, don't force my hand.
+context_36262=<s>It seems too quiet around here. It's not quite right. The old thief must have deceived me and sent a killers to attack. We should be careful.
+context_36389=<s>Royal Guards are going around crushing the Jianghu factions and growing in strength. Royal Guards will take over the eight factions. Those who have not surrendered will be killed eventually.
+context_36395=<s>Don't stop me! I will find Royal Guards and those evil thieves and kill them to revenge my father.
+context_36397=<s>Please help me avenge. I heard their next goal is Ancient Tomb Sect. Please stop them.
+context_36413=<s>No, I want revenge for my father. Also I have a solution for Beggar's Sect lack of food and weapons. This is my Heirloom Jade Pendant, it's worth a lot of money. If you take it to the wealthy people in Yanjing, they should be willing to trade it for rice. Have them deliver the rice to Beggar's Sect and we are all good.
+context_36417=<s>There are too many Royal Guards. There's a saying that you have to start with the leader. You should find a way to infiltrate the camp of the Royal Guards and find a way to assault the leader to disrupt their army. We can then attack with full force.
+context_36424=<s>The terrain is treacherous. If you want to hit the Royal Guards hard, you have to do the unexpected. I have discussed with Elder Shi about the tremendous lethality of stone throwing attacks, and this is where it comes in handy. But in order to surprise the Royal Guards, you must first eliminate the surrounding Royal Guards. Then you can get rid of them all.
+context_36512=<s>In my opinion, although these disciples are not as good as your martial arts, they are well-trained. It can be said that they are specially trained for covert attacks. Fifth and Sixth Martial Uncle went to scout for information. You'd better go see them. The opponent is not to be underestimated.
+menu_36286=Do not underestimate them. The leader of these people is a Wudang Traitor and the enemy of Sister Hong!
+target_36207=<s>Protect Zuo Yuelin from Wanderer's Valley Elite who came to assassinate
+target_36212=<s>Return to Nine Crane Taoist to report that Wonderer's Valley will retaliate
+target_36217=<s>Kill the rebelled Mount Song Swordsmen
+target_36220=<s>Protect Xia Sha and defeat the Wonderer's Valley killers who came to assassinate
+target_36224=<s>Find Fang Chongtian and take him down
+target_36247=<s>Kill Royal Guards Spy who infiltrated Wudang
+target_36251=<s>Go to Yellow Plains to persuade Hong Yanxin to suspend the revenge
+target_36257=<s>Take down Fierce Soldier Ruffians who are pursuing Ma Banxian
+target_36262=<s>Protect the injured Hong Yanxin and repel the incoming Royal Guards Elite
+target_36286=<s>Kill Li Fenghua and his henchmen
+target_36573=<s>Who? You're from Western Xia Supreme Hall. Do you want to take revenge?
+task_TrackInfo_36207=Protect Zuo Yuelin from Wanderer's Valley Elite who came to assassinate
+task_TrackInfo_36220=Kill the <a href="findnpc,school08,568.136,-54.169,864.889,Summon00049" style="HLStype1">Wanderer's Valley killers</a>
+task_TrackInfo_36262=Repel the incoming Royal Guards Elite
+task_TrackInfo_36286=Kill <a href="findnpc,scene03,467.697,8.225,639.797,Summon00052" style="HLStype1">Li Fenghua</a> and his <a href="findnpc,scene03,468.697,8.225,640.797,Summon00053" style="HLStype1">followers</a> who came to assassinate
+uncom_36252=<s>I would sacrifice everything and anyone for revenge.
+uncom_36416=<s>Go ahead and attack.
 

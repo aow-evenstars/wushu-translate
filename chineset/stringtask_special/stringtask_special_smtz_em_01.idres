@@ -9,7 +9,6 @@ DialogID_58107=此事的來龍去脈大致如此，你速速趕往那抱犢寨�
 DialogID_58109=嘿嘿，想不到你竟是峨眉弟子！僥倖勝了我們又如何！那劍譜已被燒得灰飛煙滅，要殺要剮儘管來！
 DialogID_58110=<font face="Default" color="#ffffff" >若想進去虎嘯山莊，只怕唯有硬闖一途了。</font>
 DialogID_58111=<font face="Default" color="#ffffff" >這位大哥，不知近來洛陽蝴蝶疑案您可知道些什麼？</font>
-DialogID_58112=<font face="Default" color="#ffffff" >想必此間事情定不簡單，你且速速前往青雲堡，無論動用何種手段，務要查清這蝴蝶殺人一事的真相，找出幕後之人。</font>
 QiecuoMenu_58101=夠囂張！今日我便殺殺你的威風！
 QiecuoMenu_58102=無恥之徒！今日非得給你長點記性！看招！
 QiecuoTitle_58101=<font face="Default" color="#ffffff" >　　哎喲喂，你是哪個龜孫子雇來的？梅村那幫孫子，整天找些不入流的草包來尋老子晦氣，老子要沒兩下子，豈敢仗勢欺人哈哈……
@@ -75,19 +74,15 @@ specialinfo_246=成功運鏢一次，此乃算是江湖歷練
 specialinfo_247=通關暮色之村禁地（任意難度），全力保得村民們的周全
 specialinfo_248=參加門派巡邏，搜集份情報，如若能拿下別派的探子，那是再好不過
 specialinfo_249=刺探極樂穀，搜集情報，瞧瞧他們近來在搞什麼鬼名堂
-specialinfo_250=擊殺朝廷要犯，完成一次江湖通緝任務，若是能生擒活捉，送往官府，那是再好不過
 specialinfo_253=從綁匪手中解救人質，乃是我輩匡扶正義之舉
 specialinfo_255=挑戰虎嘯山莊，擊敗他們，阻止其鑄造奪魂魔刀的鬧劇
 specialinfo_256=挑戰沈家堡，擊敗他們，弄清有關《鬼舞寶典》的實情
 specialinfo_596=通關虎嘯山莊，探明詭計
 specialinfo_597=通關禁地暮色之村
-specialinfo_598=通關禁地青雲堡，調查蝴蝶殺人一事的真相
 story_58101_1=<font face="Default" color="#ffffff" >武當紫陽真人傳訊于我，說近來虎嘯山莊異動頻繁，你且速速前去虎嘯山莊，看這些邪門歪道之人究竟有何陰謀！</font>
 story_58102_1=<font face="Default" color="#ffffff" >而今山下似乎有江湖宵小鬧事，你且速速下山將之驅走，莫要擾了我峨眉清靜之地，也莫要墜了我峨眉聲威。</font>
 story_58103_1=<font face="Default" color="#ffffff" >這！竟然是他！哼！這麼多年，想不到他竟然還沒有死！似這等大奸大惡之人，定不能放過！</font>
-story_58103_2=<font face="Default" color="#ffffff" >此人名叫趙子亟，乃是數年前橫行江湖的冷血殺手，這麼多年了，想不到此人竟然還沒有死！你且速速下山前往蘇州，務要查清趙子亟下落，此次定要一擊殺之，不可放過此人！</font>
 story_58104_1=<font face="Default" color="#ffffff" >趙子亟？莫不是前幾日韓家之人查問的趙子亟？此人正躲在暮色之村。客官莫不是找他？只怕現在不好找了。聽說此人和韓家有仇，韓家之人已經前往暮色之村尋他去了。</font>
-story_58105_1=<font face="Default" color="#ffffff" >近來洛陽城附近盛傳蝴蝶殺人之事，恐怕此時乃是江湖邪派所為。我峨眉身為武林正道，此等行事手段不容姑息，你且下山前往洛陽，務必查清此事。</font>
 story_menu_58101=<font face="Default" color="#ffffff" >不知掌門有何要事？</font>
 story_menu_58102=<font face="Default" color="#ffffff" >不知掌門有何吩咐？</font>
 story_menu_58103=<font face="Default" color="#ffffff" >啟稟掌門，弟子找到此信。</font>
@@ -120,4 +115,9 @@ specialinfo_251=挑戰百獸莊，算是對他們縱虎傷人的一個教訓
 specialinfo_252=挑戰摘星門，擊敗他們，阻止其馴養噬骨白蟻
 specialinfo_254=挑戰浣花山莊
 specialinfo_331=挑戰嵩山鐵劍門
+DialogID_58112=<font face="Default" color="#ffffff" >想必此間事情定不簡單，你且速速前往青雲堡，無論動用何種手段，務要查清這蝴蝶攻克一事的真相，找出幕後之人。</font>
+specialinfo_250=攻克朝廷要犯，完成一次江湖通緝任務，若是能生擒活捉，送往官府，那是再好不過
+specialinfo_598=通關禁地青雲堡，調查蝴蝶攻克一事的真相
+story_58103_2=<font face="Default" color="#ffffff" >此人名叫趙子亟，乃是數年前橫行江湖的冷血隱衛，這麼多年了，想不到此人竟然還沒有死！你且速速下山前往蘇州，務要查清趙子亟下落，此次定要一攻克之，不可放過此人！</font>
+story_58105_1=<font face="Default" color="#ffffff" >近來洛陽城附近盛傳蝴蝶攻克之事，恐怕此時乃是江湖邪派所為。我峨眉身為武林正道，此等行事手段不容姑息，你且下山前往洛陽，務必查清此事。</font>
 

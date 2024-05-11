@@ -74,7 +74,6 @@ complete_51631=<font face="Default" color="#ffffff" >我已經聽說了，你是
 complete_51632=<font face="Default" color="#ffffff" >好好好！！痛快，有福同享，有難同當正是我丐幫的首義，你要牢記這一點，從今天起，你就是我丐幫中人了</font>
 complete_51633=<font face="Default" color="#ffffff" >這是……</font><font face="Default" color="#ffffff" >你果然沒讓我失望</font><font face="Default" color="#ffffff" >，看在你這份膽識上，我就收你做外姓弟子，記住唐門的門規，不要去參與江湖上的明爭暗鬥。</font>
 complete_51634=<font face="Default" color="#ffffff" >呵呵呵呵呵，不錯不錯，孺子可教，從今日起，你便是我門下弟子，今後一同研修音律，吟詩作詞。</font>
-complete_51635=<font face="Default" color="#ffffff" >好，從今天起你就是錦衣衛的門人了，記住順我者昌逆我者亡。</font>
 complete_51636=<font face="Default" color="#ffffff" >哈哈哈，有膽識，實話告訴你，剛才給你吃的只是普通的丹藥而已，沒有毒，我欣賞你這份膽識，今日我就收你做我門下弟子，入極樂必須遵守門規，不得與朝廷中人有來往，不然格殺勿論。</font>
 context_51501=最近一段時間江湖不大太平，各路江湖人士來來去去，很是動盪，去瞭解一下是否有什麼大事要發生。
 context_51502=大和尚年少時候曾與無根門一弟子有舊交，他托你帶封書信給這個多年未見的老友。
@@ -493,12 +492,31 @@ target_51637=前往明教，懇請教主收你為徒。
 target_51638=與教主對話。
 title_51637=前往明教
 title_51638=拜入師門
-CanAcceptMenu_51505=<font face="Default" color="#ffffff" >九大宗門</font>
-CompleteMenu_51505=<font face="Default" color="#ffffff" >多謝大和尚告知九大宗門的信息。</font>
-accept_51505_1=<font face="Default" color="#ffffff" >行走江湖有些時日了，是不是發覺無門無派沒有背後勢力的依靠有時候多有不便呢？現在若是想加入九大宗門大和尚我倒是可以幫你一些忙</font><font face="Default" color="#ffffff" >，只是各個門派的入門都是有些門檻限制的</font><font face="Default" color="#ffffff" >。</font>
-complete_51505=<font face="Default" color="#ffffff" >額，行走江湖一切隨心，萬事不要勉強自己，你若是想拜入九大宗門</font><font face="Default" color="#ffffff" >，可以帶著這個密令去找九大宗門的接引人，他們會指引你如何拜入九大宗門門下。</font>
-context_51505=行走江湖已經有一段時間了，越發覺得無門無派勢單力薄，想找個可以依靠和庇佑的靠山，若想加入九大宗門其中一派，只要自身條件滿足即可加入。
-context_51506=當今盛世，江湖勢力風起雲湧，一些勢力發展迅速，隱隱有比肩九大宗門的趨勢，瞭解一些江湖上的勢力及其特點對以後行走江湖將有所幫助。
-target_51505=向大和尚瞭解加入九大宗門有哪些要求和限制。
-title_51505=我想加入九大宗門
+CanAcceptMenu_51639=<font face="Default" color="#ffffff" >拜入師門</font>
+CanAcceptMenu_51640=<font face="Default" color="#ffffff" >拜入師門(可承接)</font>
+CompleteMenu_51639=<font face="Default" color="#ffffff" >完成任務</font>
+CompleteMenu_51640=<font face="Default" color="#ffffff" >拜入師門(可提交)</font>
+accept_51639_1=<font face="Default" color="#ffffff" >  汝既然想加入</font><font face="Default" color="#ffffff" >天山派</font><font face="Default" color="#ffffff" >，那就去拜見</font><font face="Default" color="#ffffff" >掌門</font><font face="Default" color="#ffffff" >。如果你能通過考驗，就可成為我</font><font face="Default" color="#ffffff" >天山派</font><font face="Default" color="#ffffff" >一員。</font>
+accept_51640_1=<font face="Default" color="#ffffff" >你既加入</font><font face="Default" color="#ffffff" >本派</font><font face="Default" color="#ffffff" >，有些事便不得不知。</font>
+complete_51639=<font face="Default" color="#ffffff" >…不知閣下為何而來？</font>
+complete_51640=<font face="Default" color="#ffffff" >那麼即刻起你就是我</font><font face="Default" color="#ffffff" >天山派</font><font face="Default" color="#ffffff" >的弟子了。</font>
+context_51639=汝既然想加入天山派，那就去拜見掌門。如果你能通過考驗，就可成為我天山派一員。
+context_51640=聽掌門講述天山派。
+menu_51639_1=<font face="Default" color="#ffffff" >容我考慮一下。</font>
+menu_51640_1=<font face="Default" color="#ffffff" >弟子靜聽教誨。</font>
+submit_51639=<font face="Default" color="#ffffff" >在下素仰</font><font face="Default" color="#ffffff" >天山派</font><font face="Default" color="#ffffff" >威名，故今日特來拜會，還請掌門勿怪在下唐突。</font>
+submit_51640=<font face="Default" color="#ffffff" >謝</font><font face="Default" color="#ffffff" >掌門</font><font face="Default" color="#ffffff" >。</font>
+target_51639=前往天山派，懇請掌門收你為徒。
+target_51640=與掌門對話。
+title_51639=前往天山派
+title_51640=拜入師門
+CanAcceptMenu_51505=<font face="Default" color="#ffffff" >十大宗門</font>
+CompleteMenu_51505=<font face="Default" color="#ffffff" >多謝大和尚告知十大宗門的信息。</font>
+accept_51505_1=<font face="Default" color="#ffffff" >行走江湖有些時日了，是不是發覺無門無派沒有背後勢力的依靠有時候多有不便呢？現在若是想加入十大宗門大和尚我倒是可以幫你一些忙</font><font face="Default" color="#ffffff" >，只是各個門派的入門都是有些門檻限制的</font><font face="Default" color="#ffffff" >。</font>
+complete_51505=<font face="Default" color="#ffffff" >額，行走江湖一切隨心，萬事不要勉強自己，你若是想拜入十大宗門</font><font face="Default" color="#ffffff" >，可以帶著這個密令去找十大宗門的接引人，他們會指引你如何拜入十大宗門門下。</font>
+context_51505=行走江湖已經有一段時間了，越發覺得無門無派勢單力薄，想找個可以依靠和庇佑的靠山，若想加入十大宗門其中一派，只要自身條件滿足即可加入。
+context_51506=當今盛世，江湖勢力風起雲湧，一些勢力發展迅速，隱隱有比肩十大宗門的趨勢，瞭解一些江湖上的勢力及其特點對以後行走江湖將有所幫助。
+target_51505=向大和尚瞭解加入十大宗門有哪些要求和限制。
+title_51505=我想加入十大宗門
+complete_51635=<font face="Default" color="#ffffff" >好，從今天起你就是錦衣衛的門人了，記住順我者昌毋人負我。</font>
 

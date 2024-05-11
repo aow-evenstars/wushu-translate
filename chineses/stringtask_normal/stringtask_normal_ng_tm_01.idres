@@ -64,7 +64,6 @@ accept_57511_1=<font face="Default" color="#ffffff" >Do you see the traces of bl
 accept_57513_1=<font face="Default" color="#ffffff" >We don't have enough evidence to determine that he was responsible. You should </font><font face="Default" color="#ffffff" >first </font><font face="Default" color="#ffffff" >contact Tang Sisong. I will ask the apothecary to keep an eye out for Tang Leijian. Let's be discreet, we don't want to spook our thief.</font>
 accept_57516_1=<font face="Default" color="#ffffff" >Very well. They brought out a lot of corpses. They threw the corpses of our brothers downhill. Go and have a quick look.</font>
 accept_57517_1=<font face="Default" color="#ffffff" >I have some other business to take care of. Grandmother is going to handle this matter personally. Go visit her now.</font>
-accept_57517_2=<font face="Default" color="#ffffff" >You are the only one who survived. Take care of yourself, and avenge your fallen brothers. </font><font face="Default" color="#ffffff" >Do not let me down. Go now</font><font face="Default" color="#ffffff" >.</font>
 accept_57519_1=<font face="Default" color="#ffffff" >The Blade Sharpening Hall has just sent the third riddle. Go see Tang Meijiao. By the way, Tang Sigong has already come up with a formula for the antidote and needs you to help prepare it.</font>
 accept_57520_1=<font face="Default" color="#ffffff" >This formula uses one poison to neutralize another. Since it is the "Love Poison," we will have to use "Loveless" to fight it. We will need some Heartbroken Herb, Heartless Flower, and Water of Eternal Sorrow...</font><font face="Default" color="#ffffff" >Let's keep it simple, shall we? First, go get me some "Water of Eternal Sorrow."</font>
 accept_57520_2=<font face="Default" color="#ffffff" >Tears!</font>
@@ -98,7 +97,6 @@ complete_57518_2=<font face="Default" color="#ffffff" >It's good that the old po
 complete_57519=<font face="Default" color="#ffffff" >I can find an antidote for the Love Poison. </font><font face="Default" color="#ffffff" >It will be quite the task to collect all the ingredients.</font>
 complete_57520=<font face="Default" color="#ffffff" >Don't worry. I am not senile yet.</font>
 complete_57521=
-complete_57522=<font face="Default" color="#ffffff" >Are you feeling nauseous? Do you have a strong desire to kill? Do you feel no pain?</font>
 complete_57523=<font face="Default" color="#ffffff" >When Meijiao is rescued, she will compensate you properly. </font><font face="Default" color="#ffffff" >I will prepare the antidote now. Give me a minute.</font>
 complete_57527=<font face="Default" color="#ffffff" >Not bad, not bad at all.</font>
 complete_57528=<font face="Default" color="#ffffff" >Very well. Proceed with caution.</font>
@@ -137,7 +135,6 @@ context_57533=Who is the person on the stagecoach? Why does Blade Sharpening Hal
 context_57534=Gu Ying's final request was for us to protect the wife and child of Ding Jiuzhong, Feng Fei and her son. He was fending off the Blade Sharpening Hall assailants, while his wife and son hid in the Qixia Temple.
 context_57535=Fulfill the dying wish of the Four Great Outlaws, by protecting Feng Fei and son on their way to Ye Jinglou.
 context_57536=The stagecoach of Feng Fei and son was waylaid by Blade Sharpening Hall, but Feng Fei cleverly left a clue behind. Catch up with the stagecoach.
-context_57537=Feng Fei and son have met their deaths. Avenge them by defeating the deputy of Blade Sharpening Hall.
 context_57538=Return to Tangmen and ask the Headmaster about what happened long ago.
 menu_57501_1=<font face="Default" color="#ffffff" >Accept Task</font>
 menu_57503_1=<font face="Default" color="#ffffff" >I understand.</font>
@@ -152,7 +149,6 @@ menu_57510_1=<font face="Default" color="#ffffff" >Set off immediately.</font>
 menu_57511_1=<font face="Default" color="#ffffff" >What are you scared of? A toothless tiger is just a cat. Watch me catch him!</font>
 menu_57512_1=<font face="Default" color="#ffffff" >I will go at once.</font>
 menu_57513_1=<font face="Default" color="#ffffff" >He should have returned by now. I'll go and look for him.</font>
-menu_57515_1=<font face="Default" color="#ffffff" >I will avenge the death of Brother Sisong, no matter what.</font>
 menu_57516_1=<font face="Default" color="#ffffff" >Perhaps Tang Huipao was poisoned by the Blade Sharpening Hall. I will check it out right away.</font>
 menu_57517_1=<font face="Default" color="#ffffff" >Headmaster....</font>
 menu_57517_2=<font face="Default" color="#ffffff" >I will never let "Blade Sharpening Hall" off the hook. I will get bloody revenge on them.</font>
@@ -263,7 +259,6 @@ target_57530=Listen to <a href="findnpc_new,school05,WorldNpc02203" style="HLSty
 target_57531=Privately go out into the world and go to Jinling to rescue the Four Great Outlaws.
 target_57532=Rescue the Four Great Outlaws, who is besieged at Qixia Temple.
 target_57533=Question the dying <a href="findnpc_new,city03,NPCxszhh_4nei_4dakou_05" style="HLStype1">Gu Ying.</a>
-target_57534=Rout the pursuing <a href="findnpc_new,city03,AttackNPCxszhh_4nei_zhuibing" style="HLStype1">Blade Sharpening Hall killers.</a>
 target_57535=Protect Feng Fei and son all along the way.
 target_57536=Follow the trail on the ground and catch up with the stagecoach.
 target_57537=Defeat the <a href="findnpc_new,city03,Bossxszhh_4nei_mdtstzh" style="HLStype1">Blade Sharpening Hall deputy.</a>
@@ -461,11 +456,16 @@ complete_57516=<font face="Default" color="#ffffff" >Damn.</font><font face="Def
 complete_57525=<font face="Default" color="#ffffff" >The Flower Storm Needle has indeed been returned to Tangmen, but Blade Sharpening Hall did not steal such an important item just to play a game. Proceed to the Poison Palace and continue with your investigation.</font>
 context_57509=<s>The Tangmen will accept the challenge posed by the Blade Sharpening Hall. Once their secrets are revealed, we shall crush them.
 context_57510=While Tang Huipao confronts the Blade Sharpening Hall directly to solve their puzzles, Tang Sisong and I will investigate in the shadows, and track down the thief who stole the Flower Storm Needle. We will consult the Elder Manager before we proceed.
-context_57515=Tang Sisong's fate made it even more urgent that Tang Leijian must be caught immediately. We will recover the Flower Storm Needle!
 context_57517=Tang Huipao and the others who dared to confront the Blade Sharpening Hall all met a tragic end. The Flower Storm Needle was damaged. Grandmother will now see to this matter personally.
 context_57525=The message from the mute servant reads: If you wish to retrieve the Flower Storm Needle, one person will meet me on the snowy peak of Ruined Valley.
-context_57528=Even though the Flower Storm Needle has been recovered, our brethren must still be avenged. It's time the Blade Sharpening Hall learn the true meaning of Tangmen's ire!
-submit_57517_2=<font face="Default" color="#ffffff" >Yes, </font><font face="Default" color="#ffffff" >I will get back the Flower Storm Needle, no matter what. I will avenge the death of our Brother.</font>
 target_57515=Capture Tang Leijian and get back the Flower Storm Needle.
 target_57525=Go to the <a href="findnpc_new,born02,PlotDoor00035" style="HLStype1">snowy peak </a>of Ruined Valley to get back the Flower Storm Needle.
+accept_57517_2=<font face="Default" color="#ffffff" >You are the only one who survived. Take care of yourself, and avenge your fallen brothers. </font><font face="Default" color="#ffffff" >Do not let me down. Go now</font><font face="Default" color="#ffffff" >.</font>
+complete_57522=<font face="Default" color="#ffffff" >Are you feeling nauseous? Do you have a strong desire to kill? Do you feel no pain?</font>
+context_57515=Tang Sisong's fate made it even more urgent that Tang Leijian must be caught immediately. We will recover the Flower Storm Needle!
+context_57528=Even though the Flower Storm Needle has been recovered, our brethren must still be avenged. It's time the Blade Sharpening Hall learn the true meaning of Tangmen's ire!
+context_57537=Feng Fei and son have met their deaths. Avenge them by defeating the deputy of Blade Sharpening Hall.
+menu_57515_1=<font face="Default" color="#ffffff" >I will avenge the death of Brother Sisong, no matter what.</font>
+submit_57517_2=<font face="Default" color="#ffffff" >Yes, </font><font face="Default" color="#ffffff" >I will get back the Flower Storm Needle, no matter what. I will avenge the death of our Brother.</font>
+target_57534=Rout the pursuing <a href="findnpc_new,city03,AttackNPCxszhh_4nei_zhuibing" style="HLStype1">Blade Sharpening Hall killers.</a>
 

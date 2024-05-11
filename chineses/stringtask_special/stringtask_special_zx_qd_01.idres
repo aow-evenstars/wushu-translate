@@ -1,6 +1,5 @@
 ﻿
 dialogid_4012_1=Don't be a stranger! Just take what you need!
-dialogid_4013_1=I saw what you did to those thugs! Will we be safe now?
 dialogid_4082_1=You dare to poke your nose into my business? If you can defeat two of my followers I will let you leave with your life.
 dialogid_4083_2=All right, you're strong, I get it. Just ask the innkeeper to get me two more pieces of boar and wolf hides, then sell me a gown so I can look like one of you decent town folk. Then I promise I'll leave him alone.
 dialogid_4089_1=<font face="Default" color="#ffffff" >Uncle Tian told me those girls occupied Tianxiang Tea Forest by force. Talk to him first before you even think about heading that way!</font>
@@ -215,7 +214,6 @@ collectinfo_4083=Find the <a href="findnpc_new,school06,Gather00011f" style="HLS
 convoy_talk_24064_2=<s>You can't catch me! So long!
 convoyinfo_4047=This guy escaped while I was not alert!
 convoyinfo_4048=Bring Kou'er to see Abbess Shuijing
-hunterinfo_4013=Defeat the <a href="findnpc_new,born04,monrm050035" style="HLStype1">Daliang Sect Killers</a>.
 hunterinfo_4219=Defeat <a href="findnpc_new,school06,bossm060100" style="HLStype1"> Tong Ju </a>
 hunterinfo_4220=Punish the <a href="findnpc_new,school06,monm060400" style="HLStype1">Green Bamboo Sect Thugs</a>.
 hunterinfo_4221=Beat abhorrent <a href="findnpc_new,school06,monm060200" style="HLStype1"> Green Bamboo Sect Leches </a>
@@ -223,7 +221,6 @@ hunterinfo_4228=Clobber the <a href="findnpc_new,born04,monrv042820" style="HLSt
 hunterinfo_4229=Defeat the <a href="findnpc_new,born04,monrv042821" style="HLStype1">Divine Leg Sect Disciples</a>.
 hunterinfo_4230=Defeat the <a href="findnpc_new,born04,monv040500" style="HLStype1">Daliang Sect Elite</a>.
 hunterinfo_4231=Give a good "reception" to <a href="findnpc_new,born04,qdzai064" style="HLStype1">Dong Boyun</a>.
-hunterinfo_4232=Defeat <a href="findnpc_new,school06,monrm067714" style="HLStype1"> Five-immortal Sect killers </a> who have been chasing after us
 hunterinfo_4233=Find and defeat the <a href="findnpc_new,school06,monrm067715" style="HLStype1">Tianxiang Tea Forest Hatchet Men</a>.
 hunterinfo_4334=Defeat <a href="findnpc_new,school06,em561" style="HLStype1">Jin Zhuni</a>.
 interactinfo_4014=Speak with <a href="findnpc_new,born04,qdzai066" style="HLStype1">Qin Lihai</a>.
@@ -474,7 +471,6 @@ story_4358_3=<font face="Default" color="#ffffff" >I know of him. He is a friend
 story_4358_4=<font face="Default" color="#ffffff" >Thank you! May Buddha bless you!</font>
 story_4534_1=<font face="Default" color="#ffffff" >A few days ago, some outsiders asked for lodging. That night, their guest house was on fire, and the outsiders were all burned to death. That's why everyone is on edge .</font>
 story_4535_1=<font face="Default" color="#ffffff" >That bastard Zidan Tuygu has beaten up my husband, and kidapped our daughter! He is using the deaths of those outsiders as an excuse to demand ransom!</font>
-story_4536_1=<font face="Default" color="#ffffff" >I've been trying to prove that the Divine Leg Sect, the Daliang and even the Five Immortals were all involved in the emergence of sinister forces at the Tianxiang Tea Forest. Those three Divine Leg disciples were my biggest lead yet, but now they are three corpses. </font>
 storymenu_4536_1=<font face="Default" color="#ffffff" >This is quite a conspiracy theory. </font><br/>
 story_4537_1=<font face="Default" color="#ffffff" >He did go to Chonggu Temple recently. He must have seen something horrible there, because he came back very frightened. </font>
 story_4538_1=<font face="Default" color="#ffffff" >I know one person in these parts who can change physical appearances like that. They call him the Skin Painter.</font>
@@ -532,4 +528,36 @@ storyinfo_4527=Ask Divine Leg Sect Leader <a href="findnpc_new,born04,WorldNpc00
 storymenu_4094_3=I'll head to the Huanhua Sword Sect now.
 submitnpcex_24199=Ask <a href="findnpc_new,city05,WorldNpc09804" style="HLStype1">Huanhua Sword Sect Disciple</a> to send the message.
 interactinfo_4340=<a href="findnpc_new,born04,event_qdzzyb_001" style="HLStype1">Rushing home</a>
+DialogID_4013_1=I saw what you did to those thugs! Will we be safe now?
+QiecuoTitle_4052=That witch has enchanted Xiu Hua! You are connected to her! Alright, first I kill you and then the witch to revenge for Xiu Hua!
+QiecuoTitle_4182=Hmph! Not bad! Then I will accompany you and avenge my brothers on the way.
+hunterinfo_4009=Kill <a href="findnpc_new,born04,monv040300" style="HLStype1">Divine Leg Cult Killer</a>
+hunterinfo_4013=Defeat the <a href="findnpc_new,born04,monrm050035" style="HLStype1">Daliang Sect Killers</a>.
+hunterinfo_4025=Kill <a href="findnpc_new,scene04,monf040500" style="HLStype1">Masked Killer</a>
+hunterinfo_4036_1=Kill <a href="findnpc_new,scene04,monf042600" style="HLStype1">Disguised Female Killer</a>
+hunterinfo_4153=Defeat <a href="findnpc_new,school05,monrm070000" style="HLStype1">Mysterious Killer</a>
+hunterinfo_4153_1=Kill these <a href="findnpc_new,school05,monrm059700" style="HLStype1">Mysterious Killers</a>
+hunterinfo_4200=Kill the <a href="findnpc_new,school07,monrm074800" style="HLStype1">Assassins</a>
+hunterinfo_4232=Defeat <a href="findnpc_new,school06,monrm067714" style="HLStype1">Five Immortal Sect Killer</a> who have been chasing after us
+maintext_1713=<s>So it was you who solved problems of Emei when they got into trouble with the Southwest folk? You're the one who tied up with the Five Immortals Sect Leader and slayed the Southwest factions?
+story_4023_2=<s>Oh, that must be the fate. I will be lucky if I survive... Should I refuse to give the seal, all the trouble would have been done already.
+story_4045_1=<s>I only want revenge now. Why are you stopping me? Is it wrong for me to do so? What would you do?
+story_4047_2=<s>She has told me that her father is the second leader of Cloud Villa, and her mother is also a disciple of the Five Immortal Sect. Her parents were killed by the Emei martial masters. The old master of Cloud Villa did not take revenge for her father in order to expand the power of Cloud Villa in the southwest. That's why she holds such a grudge against Emei and Cloud Villa.
+story_4049_3=<s>I think we can kill some of their people. This will make them panic and instill fear.
+story_4052_1=<s>You were kidnapped by people who later raised you and told you that your parents were killed by Cloud Villa and Emei. You are determined to get revenge but you don't realize that everything is a ploy. I followed the lady and entered Five Immortal Sect, but never had the chance to explain it to her. Later, when I learned that the Second Villa Leader had been killed, I realized how cowardly I had been, and that I was the one who killed him... Sobbing...
+story_4065_2=<s>Now the faction leader decided to cooperate with Five Immortal Sect. And some of those who opposed were either driven out of Twelve-Linked Fortress or killed. And I was lucky enough to be dismissed by the leader: he sent me here to repair the ship and reflect. Oh, that is funny!
+story_4083_3=Then I inquired about the place where the wizard was and found out that he was deceiving people with tricks. So I gathered some righteous swordsmen and rushed here. But we saw that a catastrophe happened already when we got here...<br><s>The wealthy businessman Niche Banzi's family was killed. Even the baby was not spared...
+story_4086_3=Shame that you insist!　　　　(Dongfang Yuhuan waved hand. Female Killers from around came in overwhelming numbers.)
+story_4092_1=<s>What? Five Immortal Sect poisoned Linghu Xue? Are we all being used by the traitors? Since Linghu Xue has been poisoned, it is unlikely that they will attack again. The death of the fourth brother is not a simple matter...
+story_4115_1=<s>In fact, Cloud Villa second leader and I are cousins. When we went to Miaojiang, we were forced by the evil Five Immortal Sect to take strange drugs, had intimacy and did unspeakable things. After that we finally escaped back to the Central Plains with the help of Zhang Yu, the righteous brother of the Second Leader, and a kind Five Immortal Sect female disciple, Sha Lei.
+story_4124_3=<s>Ugh, I should have guessed that. Tell me, is it wrong to revenge for parents? Why are you stopping me?
+story_4129_1=<s>Currently, the Five Immortal Sect has taken advantage of Qingqing's desire to revenge for their parents to fight against Cloud Villa and Emei. Five Immortal Sect's fraction in Nianluo Dam has recently been recruiting and preparing to expand its power. So we must strike them timely in order to disrupt their plans. This will buy some time to contact the factions and prepare for defending against them.
+story_4133_5=<s>Oh! That is a Five Immortal Sect scheme. When Five Immortal Sect learned that the woman had given birth to a daughter for Second Leader and was leaving the Western Regions, they killed her and wrote the letter in the woman's handwriting in order to lure Second Leader into their trap and poison him. Second Leader and Abbess Juewen arrived at the Western Regions and found out too late that they had been trapped. They were surrounded and captured by Western Regions cultists and forced to take drugs and do unspeakable things.
+story_4135_2=<s>I have harmed too many innocent people to avenge my parents' death. I can't repay these sins in my entire life. Five Immortal Sect has always acted viciously, and I knew it. But at that time, I was willing to be used by them for revenge. And now that I have learned the truth, my hatred will burn forever. Moreover they used me to do so many evil things... I will not forgive them. I will help you in your struggle against the Five Immortal Sect.
+story_4150_1=<s>Cang Jie Taoist said that you first infiltrated Wudang, killed Cang Mu Taoist and seriously injured Yixian Taoist. Then killed several Wulin Righteous Factions people, and also infiltrated Chengdu government office to raid Lord Yu Changqing.
+story_4536_1=<font face="Default" color="#ffffff" >I've been trying to prove that the Divine Leg Sect, the Daliang and even the Five Immortals were all involved in the emergence of sinister forces at the Tianxiang Tea Forest. Those three Divine Leg disciples were my biggest lead yet, but now they are three corpses. </font>
+story_menu_4047=Even revenge for parents should not be used in such a way.
+storymenu_4008_1=You... you... A backstabber! Dirty rat!
+storymenu_4076_1=That is a clear attempt to tie up the loose ends!
+storymenu_4124_3=It is right to take revenge for your parents! But you use such despicable means! Death of many innocent people cannot be justified!
 

@@ -63,7 +63,6 @@ DialogID_17063=
 DialogID_17064=I'm fine but she's injured. Chase her! It's a good opportunity.
 DialogID_17065=<s>Hah, frankly, I didn't intend to be back before I came over, so I didn't carry the antidote with me at all.
 DialogID_17066=Please, Yang Asha, Dharmapala of Five-immortal Sect, is right in the suburbs of Yanjing. She must have antidote. Please do save my elder martial sister and I would like to kneel down before you.
-DialogID_17067=<s>No, those assassins from Five-immortal Sect came again. Seemingly they'll never abandon it.
 DialogID_17068=Remember to deliver the tea by the afternoon.
 DialogID_17069=Here's some herbal medicine. They're not precious and I won't charge you this time, but I hope you'll visit our shop often in the future
 DialogID_17070=Er, remember to practice more after you're back. Well, it's late now. Take the tea quickly for Mrs. Mo has been waiting for long inside.
@@ -109,7 +108,6 @@ QiecuoMenu_17023=Bastard, I suffered a lot from you. I'll definitely tear you in
 QiecuoMenu_17026=I'm sorry to offend you to protect myself.
 QiecuoMenu_17028=Hah, it depends on your capability. Today I'll enforce justice on behalf of Heaven
 QiecuoMenu_17030=Don't blame me. I'll break into the manor.
-QiecuoMenu_17035=Hah, how could I be a guy from Royal Guards? Actually, I'm looking for them for revenge since they hurt me deeply!
 QiecuoMenu_17038=I gotta go first, Great Hero Zhou.
 QiecuoMenu_17041=I have no choice but to accept your challenge.
 QiecuoMenu_17043=Come on. Today I'll settle with you bastard on behalf of the Escort Agency
@@ -347,12 +345,9 @@ hunterinfo_17018=Defeat <a href="findnpc_new,born03,yyz168" style="HLStype1">Hua
 hunterinfo_17019=Now that we've started, we have to first subdue <a href="findnpc_new,city04,ly758" style="HLStype1">Li Zhong</a>
 hunterinfo_17020=<a href="findnpc_new,city04,ly759" style="HLStype1">Ban Jiujiu </a> is agitated and wants to fight.
 hunterinfo_17021=Defeat <a href="findnpc_new,city04,ly763" style="HLStype1">Jin Zhuni</a>
-hunterinfo_17022=Defeat any <a href="findnpc_new,city04,monrc047623" style="HLStype1">Royal Guards Killer</a>s on the way to Luoyang.
 hunterinfo_17023=Defeat <a href="findnpc_new,city04,ly764" style="HLStype1">Wang Xiao</a>
-hunterinfo_17024=Cross the Yi River Bridge then defeat your <a href="findnpc_new,city04,monrc047624" style="HLStype1">pursuers</a>.
 hunterinfo_17025=Defeat <a href="findnpc_new,born03,monrv030217" style="HLStype1">Beggar's Sect Disciple</a>
 hunterinfo_17026=Defeat <a href="findnpc_new,born03,yyz176" style="HLStype1">Liao Kong</a>
-hunterinfo_17027=Defeat the <a href="findnpc_new,born03,monrv030218" style="HLStype1">Wandering Assassin</a>
 hunterinfo_17028=Defeat <a href="findnpc_new,school01,WorldNpc04233" style="HLStype1">Zhu Gang</a>
 hunterinfo_17029=Defeat <a href="findnpc_new,school01,monrm012200" style="HLStype1">Beggar's Sect Disciple</a>
 hunterinfo_17030=Defeat <a href="findnpc_new,school01,WorldNpc04237" style="HLStype1">Tong Shan</a>
@@ -360,7 +355,6 @@ hunterinfo_17031=Defeat <a href="findnpc_new,scene04,monrf042600" style="HLStype
 hunterinfo_17032=Go and ask for <a href="findnpc_new,scene04,WorldNpc05865" style="HLStype1">Han Xiaodie</a>'s comments
 hunterinfo_17034=Defeat <a href="findnpc_new,scene04,monrf042800" style="HLStype1">Seven-Star Pond Disciple</a>
 hunterinfo_17035=Defeat <a href="findnpc_new,scene04,WorldNpc05870" style="HLStype1">Ma Tian</a>
-hunterinfo_17036=Defeat <a href="findnpc_new,scene04,monrf042900" style="HLStype1">Royal Guards Killer</a>
 hunterinfo_17037=Defeat <a href="findnpc_new,scene04,monrf043100" style="HLStype1">Salt Gang Chaser</a>
 hunterinfo_17038=Defeat <a href="findnpc_new,scene04,WorldNpc05864" style="HLStype1">Zhou Huang</a>
 hunterinfo_17039=Defeat <a href="findnpc_new,city05,bossf070900" style="HLStype1">Dragon Subduing</a>
@@ -376,14 +370,12 @@ hunterinfo_17048=Defeat <a href="findnpc_new,city01,monrc025010" style="HLStype1
 hunterinfo_17049=Say goodbye to <a href="findnpc_new,city01,WorldNpc08759" style="HLStype1">Zhuo Shishi</a>
 hunterinfo_17050=Defeat <a href="findnpc_new,city01,monrc025011" style="HLStype1">Five Immortal Sect Ambush</a>
 hunterinfo_17051=Defeat <a href="findnpc_new,city01,WorldNpc08761" style="HLStype1">Jin Zhuni</a>
-hunterinfo_17052=Defeat <a href="findnpc_new,city01,monrc025012" style="HLStype1">Five Immortal Sect Assassin</a>
 hunterinfo_17053=Defeat <a href="findnpc_new,city05,WorldNpc09835" style="HLStype1">Qin Wuyou</a>
 hunterinfo_17054=Defeat the <a href="findnpc_new,city05,monrc055717" style="HLStype1">Shen Family Hatchetman</a>
 hunterinfo_17055=Defeat the <a href="findnpc_new,city05,monrc054500" style="HLStype1">Royal Guard Spies</a>
 hunterinfo_17056=Defeat the <a href="findnpc_new,city05,monrc055719" style="HLStype1">East Chamber Workers</a>
 hunterinfo_17057=Defeat <a href="findnpc_new,city05,monrc055722" style="HLStype1">Lichun Brothel Gui Gong</a>. If you can not defeat them, you should train with the Martial Arts Club.
 hunterinfo_17058=Defeat <a href="findnpc_new,city05," style="HLStype1"></a><a href="findnpc_new,city05,monrc055723" style="HLStype1">Fan Ba</a>.
-hunterinfo_17060=Defeat the <a href="findnpc_new,city04,monrc047625" style="HLStype1">assassins of the Sky Star Gang</a>
 hunterinfo_17061=Talk to <a href="findnpc_new,city04,ly762" style="HLStype1">Diao Man</a> about her health.
 interactinfo_17001=<s>Talk to your  <a href="findnpc_new,city05,WorldNpc09841" style="HLStype1">Foster Father</a>
 interactinfo_17002=Give the clothing to <a href="findnpc_new,city05,EventNpc34002" style="HLStype1">First master Xue</a>
@@ -578,7 +570,6 @@ story_17003_1=<s>I have been operating this booth in Chengdu for decades, so I k
 story_17003_2=<font face="Default" color="#ffffff" > You must be careful, the Royal Guards have been attacking people. </font>
 story_17004_1=<s>You as well! Well, you are in a hurry. Are you looking for someone?
 story_17004_2=<s>Oh, I saw one of those. He tried to shove past me so I broke his nose. Heh. He ran south, if that helps.
-story_17005_1=<s>I ask you to buy Tuo tea and you go and get yourself into trouble. That Gold Needle of the Shen family can kill people without a trace. You could have died!
 story_17005_2=<s>Please deliver the Tuo tea to the Sichuan Figured satin shop and go see Lu Dafa once you're done.
 story_17006_1=What do you mean? Tell me and I'll help analyze it.
 story_17006_2=<s>Ruined Valley are not all bad people. Do not approach the Royal Guards, though, they are drudges of the Imperial Court.
@@ -645,8 +636,6 @@ story_17037_2=Tea? Unless it was alcoholic tea that means nothing here. But, we 
 story_17037_3=Don't push it, kid.
 story_17038_1=You’re na?ve. You think you can escape your past? The past always finds a way to catch up to you.
 story_17038_2=Nope. Now get spices for our specialty wines. In my time, running errands without at least three killer groups in pursuit was an easy day!
-story_17039_1=<s>Xue Bao, the leader of the Sky Star Gang wants me dead. Since you intervened on my behalf…that makes you dead as well.
-story_17039_2=<s>Sadly, no. Xue Bao is many things, but patient he is not.
 story_17039_3=<s>I…uhm, well he is obviously a vicious thug! He, ahh…clearly just likes terrorizing innocent bystanders! Yes!
 story_17040_1=<s>There is an armed escort agency that is always recruiting. It's dangerous, although you clearly don’t need an invitation for that.
 story_17040_2=<s>Yes all you have to--wait, can it involve your death? Oh. Sorry kid, I'm out of ideas.
@@ -664,7 +653,6 @@ story_17044_2=<s>There is a secret cave in the Yanmen Family area. Go there, my 
 story_17045_1=<s>A caravan from the Nishang Palace was recently robbed. All our escorts assigned to guard it were killed.
 story_17045_2=<font face="Default" color="#ffffff" > We believe a group known as the Rat Gate is involved. Talk to Bian Lingjun, she has been directing the investigation.</font>
 story_17046_1=W-what? How could you tell? Is my skin pale?
-story_17046_2=<s><font face="Default" color="#8fd6ef" >(Sigh)</font>Yes, I was poisoned. On my last trip to Luoyang I was poisoned by the Five Immortal Sect after I saw them robbing a caravan.
 story_17046_3=No! They told me if I implicated Rat Gate in the robbery, they would give me the antidote. But they lied!
 story_17047_1=<s>Don't mind my father, he’s just jealous. Two vicious groups hunting you at your age? It was years before anyone hated him that much.
 story_17047_2=<s>-Oh don't be so modest! You'll like it here. Everyone deserves a second chance, right?
@@ -688,7 +676,6 @@ story_17057_2=<font face="Default" color="#ffffff" > I've noticed increased acti
 story_17058_1=<font face="Default" color="#ffffff" >All right I'll answer some questions. Just make it quick.</font>
 story_17058_2=<font face="Default" color="#ffffff" >I may like jewelry, but I am no thief! I didn't rob that caravan. </font>
 story_17059_1=W-what? How could you tell? Is my skin pale?
-story_17059_2=<s><font face="Default" color="#8fd6ef" >(Sigh)</font>Yes, I was poisoned. On my last trip to Luoyang I was poisoned by the Five Immortal Sect after I saw them robbing a caravan.
 story_17059_3=No! They told me if I implicated Rat Gate in the robbery, they would give me the antidote. But they lied!
 story_17059_4=<s>If I tell you where the goods are can you gather the ingredients for an antidote?
 story_17059_5=Oh thank you so much! I'm saved!
@@ -983,4 +970,17 @@ story_menu_17011=Pond Leader Yu, did Phantoms' Mountain Manor assign anyone to n
 story_menu_17012=To demonstrate the innocence of Seven-star Pond, find out the ambushing Royal Guards and Phantoms' Mountain Manor
 storymenu_17010_2=Every one of Phantoms' Mountain Manor is merciless, I'm afraid...
 interactinfo_17052=<a href="findnpc_new,city05,event_cdzyb_001" style="HLStype1">Rushing home</a>
+DialogID_17067=<s>No, those assassins from Five-immortal Sect came again. Seemingly they'll never abandon it.
+QiecuoMenu_17035=Hah, how could I be a guy from Royal Guards? Actually, I'm looking for them for revenge since they hurt me deeply!
+hunterinfo_17022=Defeat any <a href="findnpc_new,city04,monrc047623" style="HLStype1">Royal Guards Killer</a>s on the way to Luoyang.
+hunterinfo_17024=Defeat <a href="findnpc_new,city04,monrc047624" style="HLStype1">Royal Guards Killer</a>.
+hunterinfo_17027=Defeat the <a href="findnpc_new,born03,monrv030218" style="HLStype1">Jianghu Killer</a>
+hunterinfo_17036=Defeat <a href="findnpc_new,scene04,monrf042900" style="HLStype1">Royal Guards Killer</a>
+hunterinfo_17052=Defeat <a href="findnpc_new,city01,monrc025012" style="HLStype1">Five Immortal Sect Killer</a>
+hunterinfo_17060=Defeat the <a href="findnpc_new,city04,monrc047625" style="HLStype1">Sky Star Gang Killer</a>
+story_17005_1=<s>I ask you to buy Tuo tea and you go and get yourself into trouble. That Gold Needle of the Shen family can kill people without a trace. You could have died!
+story_17039_1=<s>Sorry I was too reckless, but I inadvertently discovered a major secret of the Sky Star Gang. That's why I am hunted by them.
+story_17039_2=<font face="Default" color="#ffffff" >The vice master of the Sky Star Gang, Xue Bao, colluded with the evil forces and with the intention of murdering the gang's master, Lei Hu. And I overheard them plotting this. That's why I am hunted by them.</font>
+story_17046_2=<s>(Sigh) I was poisoned. On my last trip to Luoyang I was poisoned by the Five Immortal Sect after I saw them plotting something with a group of mysterious people.
+story_17059_2=<s><font face="Default" color="#ffffff" ></font><font face="Default" color="#ffffff" >Humph. To be honest. I was poisoned. On my last trip to Luoyang I was poisoned by the Five Immortal Sect after I saw them plotting something with a group of mysterious people.</font>
 

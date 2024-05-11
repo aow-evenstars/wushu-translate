@@ -246,7 +246,6 @@ complete_44=<font face="Default" color="#ffffff" >Good! Welcome to the Beggar's 
 complete_45=<font face="Default" color="#ffffff" >Excellent. Welcome to the Scholars. I'm looking forward to work with you. </font>
 complete_46=<font face="Default" color="#ffffff" >Heh. I could hear Shaoang shrieking like an old woman all the way up here.  Welcome to the Tangmen, child. Obey our laws, and you will always have a place here.</font>
 complete_47=<font face="Default" color="#ffffff" >Don’t worry, I never poison disciples this early. Welcome to Wanderer’s Valley, we’ll see how long you last.</font>
-complete_48=<font face="Default" color="#ffffff" >From now on you are a member of the Royal Guards. Remember, those who submit will prosper. Those who resist will perish.</font>
 complete_49=<s>You are a strange one. I see great potential in you.
 complete_50=<s>You are a strange one. I see great potential in you.
 complete_51=<font face="Default" color="#ffffff">Welcome. May I ask why you have come here?</font>
@@ -525,12 +524,9 @@ target_117=Find the Senior Escorter He Linyan.
 target_118=Find our School's bookshelf.
 target_119=Find the Shaolin bookshelf
 target_120=Buy five sedatives ("Knockout Drops") from the <a href="findnpc_new,born04,FuncNpc00007" style="HLStype1">Grocery Shopkeeper</a>
-target_121=Report back after you defeat the kidnapping player and save the hostage
 target_125=Buy 5 Knockout Drops from the <a href="findnpc_new,born03,FuncNpc00055" style="HLStype1">Grocery Shopkeeper</a>.
-target_129=Report back after you defeat the kidnapping player and save the hostage.
 target_130=Buy 5 Knockout Drops from the <a href="findnpc_new,city05,FuncNpc00606" style="HLStype1">Grocery Shopkeeper</a>.
 target_132=Sell your captive.
-target_133=Report back after you defeat the kidnapping player and save the hostage.
 target_135=Find the Senior Escorter Liao Canghai.
 target_136=<font face="Default" color="#000000" >Find senior escorter Liao Canghai</font>
 target_138=Sell your captive.
@@ -538,7 +534,6 @@ target_139=Find the Emei bookshelf.
 target_140=Find the Tangmen bookshelf and report back.
 target_141=Buy 5 Knockout Drops from the <a href="findnpc_new,born01,FuncNpc404" style="HLStype1">Grocery Shopkeeper</a>.
 target_143=Sell your captive.
-target_144=Report back after you defeat the kidnapping player and save the hostage.
 target_170=Defend yourself against your opponent's attacks.
 target_171=Break the disciple's defense.
 target_172=Use Overt Moves to counter the Disciple's Feint Moves.
@@ -1370,7 +1365,6 @@ complete_496=<font face="Default" color="#ffffff" >I never thought you could ach
 complete_499=<font face="Default" color="#ffffff" >Through hard cultivation every day, you have obtained a great achievement. Keep going and you will have much greater successes in the future.</font>
 complete_500=<font face="Default" color="#ffffff" >I never thought you could achieve this situation within such a short time. Well done. Since you have learnt the fifth internal skill, I will give you another cloudy glossy ganoderma, which can increase your amount of meridian lines to 8.</font>
 complete_274=<font face="Default" color="#ffffff" >Young Hero, this is a gift for you. Take it!</font>
-context_258=You behave normally in the guild, you need to kill a member of enemy guild to prove your ability.
 context_259=The guild authorize the escort agency to deliver goods, I hope you can escort the carter.
 context_260=The enemy guild delivers goods frequently, go to destroy their carters.
 context_261=There are many factions, go challenge them for the guild.
@@ -1413,7 +1407,6 @@ submit_498=<font face="Default" color="#ffffff" >I will remember it.</font>
 submit_499=<font face="Default" color="#ffffff" >Thank you, Headmaster.</font>
 submit_500=<font face="Default" color="#ffffff" >Thanks, Leader.</font>
 submit_274=<font face="Default" color="#ffffff" >Thank you!</font>
-target_258=Kill a member of hostile guild.
 target_259=Finish guild escort for once.
 target_260=Destory one escort cart of hostile guild.
 target_261=Successfully challenge any martial arts club six times
@@ -1594,7 +1587,6 @@ CompleteMenu_425=<font face="Default" color="#ffffff" >The special mission has b
 CompleteMenu_426=<font face="Default" color="#ffffff" >The special mission has been transferred.</font>
 CompleteMenu_427=<font face="Default" color="#ffffff" >The special mission has been transferred.</font>
 CompleteMenu_433=<font face="Default" color="#ffffff" >Digging at the foot of the wall</font>
-CompleteMenu_434=<font face="Default" color="#ffffff" >Killing Li Ju</font>
 CompleteMenu_479=<font face="Default" color="#ffffff" >Fulfill the task.</font>
 CompleteMenu_480=<font face="Default" color="#ffffff" >Fulfill the task.</font>
 accept_123_1=<font face="Default" color="#ffffff" > </font>
@@ -1653,7 +1645,6 @@ complete_430=<font face="Default" color="#ffffff" >Take this badge to an Zaixi o
 complete_431=<font face="Default" color="#ffffff" >Take this badge to an Zaixi of Huanxiu Mountain Villa in Suzhou (12,1108), and then you can join Fine Wisdom Pavilion.</font>
 complete_432=<font face="Default" color="#ffffff" >Take this badge to an Zaixi of Huanxiu Mountain Villa in Suzhou (12,1108), and then you can join Fine Wisdom Pavilion.</font>
 complete_433=<font face="Default" color="#ffffff" >Very good. This is your reward.</font>
-complete_434=<font face="Default" color="#ffffff" >This is your reward for participating in assassination of the Korean Princess.</font>
 context_202=Of the many traditional festivals of China, the most important one is Spring Festival.  Every household prepares to bring in the good fortune of the new year. During this time, many fighters in Jianghu put aside their grievances and enjoy the happy times.
 context_228=Ask Eunuch Shi about related matters.
 context_229=Go ask Eunuch Dong.
@@ -1680,7 +1671,6 @@ context_425=The tiny messenger of the Korean prince must be bold to threaten a g
 context_426=The tiny messenger of the Korean prince must be bold to threaten a grandmaster. But I have to respect the rules of our Central Plain and refrain from striking back. Hurry up and get out of encirclement.
 context_427=The tiny messenger of the Korean prince must be bold to threaten a grandmaster. But I have to respect the rules of our Central Plain and refrain from striking back. Hurry up and get out of encirclement.
 context_433=The Fine Wisdom Pavilion is looking at the Central Plain with greedy eyes. They will make their move soon. The school leaders have wanted to eliminate them for a long time now, but they have too many powerful fighters. They keep their secrets well guarded and their defenses tight.  A Jianghu man, Yan Laosi, discovered that one of the guard points have a weak spot. Start from this weak point and when the time is right, pull them up from the roots.
-context_434=Assassinate the Korean Princess Li Ju, who is the mastermind behind Fine Wisdom Pavilion.
 menu_123_1=
 menu_124_1=
 menu_127_1=
@@ -1769,7 +1759,6 @@ target_425=Resolve the embarrassment of the grandmaster.
 target_426=Resolve the embarrassment of the grandmaster.
 target_427=Resolve the embarrassment of the grandmaster.
 target_433=The Jianghu fighter Yan Laosi found a hole in their defenses and used this hole to weaken them. He is waiting for the right timing to destroy the defenses in one blow.
-target_434=Assassinate the Korean Princess Li Ju, who is the mastermind behind Fine Wisdom Pavilion.
 title_202=Drinking Game
 title_228=Wants to learn divine skills
 title_229=Emasculate
@@ -1796,7 +1785,6 @@ title_425=An arrogant messenger
 title_426=An arrogant messenger
 title_427=An arrogant messenger
 title_433=Digging at the foot of the wall
-title_434=Kill Li Ju
 CanAcceptMenu_200=<font face="Default" color="#ffffff" >The Qingming Festival has arrived. Let's go enjoy the spring air!</font>
 CanAcceptMenu_201=<font face="Default" color="#ffffff" >The Qingming Festival has arrived. Let's go enjoy the spring air!</font>
 CompleteMenu_179=<font face="Default" color="#ffffff" >Fulfill the task.</font>
@@ -2301,7 +2289,6 @@ accept_302_1=<font face="Default" color="#ffffff" >Who are you?  Let me out!  </
 accept_303_1=<font face="Default" color="#ffffff" >When I come out, I won't spare them!  </font>
 accept_304_1=<font face="Default" color="#ffffff" >Thank goodness you are here. I really suffered a lot! </font>
 accept_305_1=<font face="Default" color="#ffffff" >We suffered a lot here. Are you coming to save me?  </font>
-accept_306_1=<font face="Default" color="#ffffff" >I'll revenge one day! Take me back please.  </font>
 accept_307_1=<font face="Default" color="#ffffff" >Thank goodness you are here. I really suffered a lot! </font>
 accept_308_1=<font face="Default" color="#ffffff" >I have been imprisoned by them.  Are you coming to rescue me? </font>
 accept_309_1=<font face="Default" color="#ffffff" >Thank goodness you are here now.  </font>
@@ -2309,14 +2296,12 @@ accept_310_1=<font face="Default" color="#ffffff" >I have been imprisoned here f
 accept_311_1=<font face="Default" color="#ffffff" >I suffered a lot here. How dare they offend our Lingxiao City?! </font>
 accept_312_1=<font face="Default" color="#ffffff" >How lucky I am! Thank you for saving me.  </font>
 accept_313_1=<font face="Default" color="#ffffff" >I suffered a lot here. How dare they offend our Valley of Frozen Souls?! </font>
-accept_314_1=<font face="Default" color="#ffffff" >I'll revenge one day! Take me back please.  </font>
 accept_315_1=<font face="Default" color="#ffffff" >I have been imprisoned by them.  Are you coming to rescue me? </font>
 accept_316_1=<font face="Default" color="#ffffff" >When I come out, I won't spare them!  </font>
 accept_317_1=<font face="Default" color="#ffffff" >Thank goodness you are here. I really suffered a lot! </font>
 accept_318_1=<font face="Default" color="#ffffff" >I have been imprisoned by them.  Are you coming to rescue me? </font>
 accept_319_1=<font face="Default" color="#ffffff" >Are you coming to rescue us?  Thank goodness you are here.  </font>
 accept_320_1=<font face="Default" color="#ffffff" >I have been imprisoned here for several days. Why doesn't any one come to rescue me? </font>
-accept_322_1=<font face="Default" color="#ffffff" >I'll revenge one day! Take me back please.  </font>
 accept_323_1=<font face="Default" color="#ffffff" >Thank goodness you are here. I really suffered a lot! </font>
 accept_324_1=<font face="Default" color="#ffffff" >How dare they imprison me here!  Do they really believe that I can be trapped here easily?!</font>
 accept_325_1=<font face="Default" color="#ffffff" >The people in the Valley of Frozen Souls are all weird. It's hard to live here. I want to return to the Snowy Mountain as soon as possible. Let's go!  </font>
@@ -2391,7 +2376,6 @@ menu_320_1=<font face="Default" color="#ffffff" >I'm coming to rescue you!  </fo
 menu_321_1=<font face="Default" color="#ffffff" >It's dangerous here. Let's leave here first.  </font>
 menu_322_1=<font face="Default" color="#ffffff" >It's a dangerous journey. Do follow me closely.  </font>
 menu_323_1=<font face="Default" color="#ffffff" >You've suffered a lot. Come back with me!  </font>
-menu_324_1=<font face="Default" color="#ffffff" >It's never too late to revenge. Let's leave first, ok?  </font>
 menu_325_1=<font face="Default" color="#ffffff" >Miss Chi, I have found the nearest way back to Snowy Mountain. Come with me please.  </font>
 menu_326_1=<font face="Default" color="#ffffff" >Let's move. I'll escort you back to the Snowy Mountain so that you can be cured there.  </font>
 menu_327_1=<font face="Default" color="#ffffff" >The people in the Snowy Mountain Holy Region are always mysterious. That's so admirable that you can get the news there. I'll follow you.  </font>
@@ -2512,7 +2496,6 @@ CompleteMenu_86=<font face="Default" color="#ffffff" >It's done.</font>
 CompleteMenu_87=<font face="Default" color="#ffffff" >I'm back. </font>
 CompleteMenu_88=<font face="Default" color="#ffffff" >I'm back.</font>
 CompleteMenu_89=<font face="Default" color="#ffffff" >I'm back.</font>
-accept_83_1=<font face="Default" color="#ffffff" >Seek out players with whom you have Blood Feuds, and kill one of them</font><font face="Default" color="#ffffff" >. </font>
 accept_84_1=<font face="Default" color="#ffffff" >Prove your experience in battle. Defeat any faction</font><font face="Default" color="#ffffff" >. </font>
 accept_85_1=<font face="Default" color="#ffffff" >Cultivate yourself. Allow the fatigue level for Team Practice to reach 100% (cannot leave until the Team Practice ends). Also, teach a disciple until the progress reaches 100%.</font>
 accept_86_1=<font face="Default" color="#ffffff" >Complete Forbidden Instance of any difficulty once.</font>
@@ -2556,7 +2539,6 @@ submit_86=<font face="Default" color="#ffffff" >I'm back.</font>
 submit_87=<font face="Default" color="#ffffff" >Thank you. Goodbye.</font><font face="Default" color="#ffffff" > </font>
 submit_88=<font face="Default" color="#ffffff" >Thank you. Goodbye.</font><font face="Default" color="#ffffff" > </font>
 submit_89=<font face="Default" color="#ffffff" >Thank you. Goodbye.</font><font face="Default" color="#ffffff" > </font>
-target_83=Kill a Blood Feud player once.
 target_84=Defeat any Faction once.
 target_85=Allow the fatigue level for Team Practice to reach 100% (cannot leave until the Team Practice ends). Teach a disciple until the progress reaches 100%.
 target_86=Complete Forbidden Instance of any difficulty once.
@@ -2742,15 +2724,6 @@ CanAcceptMenu_83=<font face="Default" color="#ffffff" >Enter the Dragon</font>
 CanAcceptMenu_84=<font face="Default" color="#ffffff" >Jianghu Experience</font>
 CanAcceptMenu_85=<font face="Default" color="#ffffff" >Diligent Cultivator</font>
 CanAcceptMenu_86=<font face="Default" color="#ffffff" >Forbidden Instance Challenge</font>
-accept_40_1=<font face="Default" color="#ffffff" >Though you still have much to learn, you are ready to study at one of the Eight Schools. Huan Yihong, the coachman outside town, will tell you more.</font>
-accept_50_1=<font face="Default" color="#ffffff" >I have heard that the eight Major Schools are recruiting right now. They have unique skills that I cannot teach you. Find the Coachman, and ask him to tell you more about the schools.</font>
-accept_59_1=<font face="Default" color="#ffffff" >I have heard that the eight major schools are recruiting right now. This is a good opportunity for you. Find a coachman, and ask him to tell you more about the schools.</font>
-accept_68_1=<font face="Default" color="#ffffff" >I have heard that the eight major schools are recruiting right now. This is a good opportunity for you. Find a coachman, and ask him to tell you more about the schools.</font>
-context_40=<s>The Eight Schools are recruiting. The coachman can tell you more about each School before taking you there.
-context_49=Why not speak to the Coachman about joining a school. There is a wealth of information to be found in a school, among other things.
-context_50=Speak to the Coachman to learn about joining a school.
-context_59=<s>I have heard that the eight major schools are recruiting right now. This is a good opportunity for you. Find a coachman, and ask him to tell you more about the schools.
-context_68=<s>I have heard that the eight major schools are recruiting right now. This is a good opportunity for you. Find a coachman, and ask him to tell you more about the schools.
 context_83=During the event, you can get the task Enter the Dragon from Ning Jiuhui (Traveler) in Suzhou (423.794) and Chengdu (923.551).
 context_84=During the event, you can get the task Jianghu Experience from Ning Jiuhui (Traveler) in Suzhou (423.794) and Chengdu (923.551).
 context_85=During the event, you can get the task Diligent Cultivator from Ning Jiuhui (Traveler) in Suzhou (423.794) and Chengdu (923.551).
@@ -2760,4 +2733,40 @@ title_83=Enter the Dragon
 title_84=Jianghu Experience
 title_85=Diligent Cultivator
 title_86=Forbidden Instance Challenge
+CanAcceptMenu_403=<font face="Default" color="#ffffff" >Why did the messenger come? </font>
+CompleteMenu_403=<font face="Default" color="#ffffff" >The special mission has been transferred.</font>
+accept_403_1=<font face="Default" color="#ffffff" >Our prince has grand ambitions. He wants to unify Jianghu. I have come here to summon you to surrender.  </font>
+complete_403=<font face="Default" color="#ffffff" >I see that you are very powerful. Why don't you join in with the prince? We are planning great things. If you add your strength to the prince's, we will be that much closer to success.</font>
+context_403=The tiny messenger of the Korean prince must be bold to threaten a grandmaster. But I have to respect the rules of our Central Plain and refrain from striking back. Hurry up and get out of encirclement.
+menu_403_1=<font face="Default" color="#ffffff" >Wait until I report to the grandmaster.</font>
+submit_403=<font face="Default" color="#ffffff" >The grandmaster is fettered by old conventions. I would rather renounce a bad cause and join the camp of justice. I'll leave the grandmaster to join the prince.</font>
+target_403=Resolve the embarrassment of the grandmaster.
+title_403=An arrogant messenger
+accept_40_1=<font face="Default" color="#ffffff" >I have heard that the ten major schools are recruiting right now. This is a good opportunity for you. Find a coachman, and ask him to tell you more about the schools. </font>
+accept_50_1=<font face="Default" color="#ffffff" >I have heard that the ten major schools are recruiting right now. This is a good opportunity for you. Find a coachman, and ask him to tell you more about the schools. </font>
+accept_59_1=<font face="Default" color="#ffffff" >I have heard that the ten major schools are recruiting right now. This is a good opportunity for you. Find a coachman, and ask him to tell you more about the schools. </font>
+accept_68_1=<font face="Default" color="#ffffff" >I have heard that the ten major schools are recruiting right now. This is a good opportunity for you. Find a coachman, and ask him to tell you more about the schools. </font>
+context_40=<s>I have heard that the ten major schools are recruiting right now. This is a good opportunity for you. Find a coachman, and ask him to tell you more about the schools.
+context_49=<s>I have heard that the ten major schools are recruiting right now. This is a good opportunity for you. Find a coachman, and ask him to tell you more about the schools.
+context_50=<s>I have heard that the ten major schools are recruiting right now. This is a good opportunity for you. Find a coachman, and ask him to tell you more about the schools.
+context_59=<s>I have heard that the ten major schools are recruiting right now. This is a good opportunity for you. Find a coachman, and ask him to tell you more about the schools.
+context_68=<s>I have heard that the ten major schools are recruiting right now. This is a good opportunity for you. Find a coachman, and ask him to tell you more about the schools.
+CompleteMenu_434=<font face="Default" color="#ffffff" >Killing Li Ju</font>
+accept_83_1=<font face="Default" color="#ffffff" >Kill Mortal Enemies once.</font><font face="Default" color="#ffffff" >.</font>
+complete_434=<font face="Default" color="#ffffff" >This is your reward for participating in assassination of the Korean Princess.</font>
+complete_48=<font face="Default" color="#ffffff" >From now on you are a member of the Royal Guards. Remember, those who submit will prosper. Those who resist will perish.</font>
+context_258=You behave normally in the guild, you need to kill a member of enemy guild to prove your ability.
+context_434=Assassinate the Korean Princess Li Ju, who is the mastermind behind Fine Wisdom Pavilion.
+target_121=Report back after you defeat the kidnapping player and save the hostage
+target_129=Report back after you defeat the kidnapping player and save the hostage
+target_133=Report back after you defeat the kidnapping player and save the hostage
+target_144=Report back after you defeat the kidnapping player and save the hostage
+target_258=Kill a member of hostile guild.
+target_434=Assassinate the Korean Princess Li Ju, who is the mastermind behind Fine Wisdom Pavilion.
+target_83=Kill Mortal Enemies once.
+title_434=Kill Li Ju
+accept_306_1=<font face="Default" color="#ffffff" >I'll revenge one day! Take me back please.</font>
+accept_314_1=<font face="Default" color="#ffffff" >I'll revenge one day! Take me back please.</font>
+accept_322_1=<font face="Default" color="#ffffff" >I'll revenge one day! Take me back please.</font>
+menu_324_1=<font face="Default" color="#ffffff" >It's never too late to revenge. Let's leave first, ok?</font>
 

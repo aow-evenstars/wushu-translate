@@ -82,12 +82,9 @@ complete_86820=<font face="Default" color="#ffffff">Well done! I hope that you c
 context_86800=Improve the reputation and strength of the Royal Guards by completing a series of tasks. The first task is to gather essential supplies.
 context_86801=Help the escort transport materials for the Royal Guards.
 context_86802=Royal Guards have been framed. Ask the leader of Xu Family Manor in Chengdu for justice.
-context_86803=Go to Twilight Village and help Qian Xizhi and Han Sijin defeat the notorious murderer Zhao Ziji. Use the reward money to help the Royal Guards.
-context_86804=Take this Royal Guards Green Wood Order and arrest or kill all these wanted men, so as to improve our reputation.
 context_86805=The disciples in Royal Guards are on the increase. The sect lacks materials of daily life. We need disciples to contribute articles for daily use to fill the gap. Please make a contribution.
 context_86806=The disciples in Royal Guards are on the increase. The sect lacks materials of daily life. We need disciples to contribute articles for daily use to fill the gap. Please make a contribution.
 context_86807=Royal Guards were framed. Please go to Chengdu and find out the truth, then clarify the matter at the Golden Needle Sect.
-context_86808=According to the Luoyang Royal Guards disciple's message, the Owner of Study in Luoyang oddly died. There were several Red Leaves Letters on the spot. It recorded the matter of butterflies in Green Cloud Castle killing people. The Hostess of Study asked Royal Guards to look into this matter with handsome rewards. Please go to Green Cloud Castle to look into this matter and deal with it properly. Use Mrs. Shi's rewards as the fund of our Sect.
 context_86810=Join the patrolling team to protect our reputation from spies.
 context_86811=The disciples in Royal Guards are on the increase. The sect lacks materials of daily life. We need disciples to contribute articles for daily use to fill the gap. Please make a contribution.
 context_86813=All of the other major sects have been acting quite strange lately. Complete this sect spy task and bring us back some intelligence.
@@ -142,18 +139,14 @@ target_86800=Contribute your materials to the Sect.
 target_86801=Fulfill the Escorting Task twice.
 target_86802=Go to Chengdu to look into the conflict matter with Xu Family Manor.
 target_86803=Go to Twilight Village and assist Han Sijin to defeat Zhao Ziji.
-target_86804=Go to Yanjing to search the Wanted Man's whereabouts and then kill him.
 target_86805=Contribute your materials to the Sect.
 target_86806=Contribute your materials to the Sect.
 target_86807=Accomplish the challenge towards Golden Needle Sect.
-target_86808=Go to Green Cloud Castle Forbidden Area and look into the murder case of butterflies killing people.
 target_86810=Fulfill the Sect Patrolling Task.
 target_86811=Contribute your materials to the Sect.
 target_86812=Rescue the hostage.
 target_86813=Fulfill the Sect Patrolling Task towards Shaolin Temple.
 target_86814=Duel with the Royal Guards disciple and defeat him.
-target_86815=Kill the Devil Sect disciple outside Taiping Village.
-target_86816=Kill the person who broke into the jail and rescued the prisoner.
 target_86817=Gather medicines which Herb Store needed.
 target_86818=Escort the official to the official Stagecoach.
 target_86819=Clean the Branch Hall, Agenda Room and Training Place of the Royal Guards.
@@ -183,12 +176,9 @@ CanAcceptMenu_86823=<font face="Default" color="#ffffff" >Green Cloud Castle's R
 CompleteMenu_86821=<font face="Default" color="#ffffff" >Fulfill the task.</font>
 CompleteMenu_86822=<font face="Default" color="#ffffff" >Fulfill the task.</font>
 CompleteMenu_86823=<font face="Default" color="#ffffff" >Fulfill the task.</font>
-accept_86822_1=<font face="Default" color="#ffffff" >  The notorious killer Zhao Ziji</font><font face="Default" color="#ffffff" >has </font><font face="Default" color="#ffffff" >reappeared. Go to Twilight Village to help Qian Xizhi and Han Sijin </font><font face="Default" color="#ffffff" >to </font><font face="Default" color="#ffffff" >defeat Zhao Ziji. </font><font face="Default" color="#ffffff" >Take</font><font face="Default" color="#ffffff" >the reward money for our school's use. Meet one of your fellow apprentices at Suzhou Tavern.</font>
 accept_86823_1=<font face="Default" color="#ffffff" >   In Luoyang City</font><font face="Default" color="#ffffff" >the owner of a study</font><font face="Default" color="#ffffff" >was killed mysteriouslyy. His wife Mrs. </font><font face="Default" color="#ffffff" >Shi paid Royal Guards a lot of money and asked them to help handle</font><font face="Default" color="#ffffff" >this incident. How would you feel if I sent you there?</font>
 complete_86822=<font face="Default" color="#ffffff" >   You have gained a lot this time. Continue to battle for the honor of our school.</font>
 complete_86823=<font face="Default" color="#ffffff" >   You have gained a lot this time. Well done.</font>
-context_86822=Go to Twilight Village and help Qian Xizhi and Han Sijin defeat the notorious murderer Zhao Ziji. Use the reward money to help the Royal Guards.
-context_86823=The disciples of the Royal Guards in Luoyang have sent an urgent message through a carrier pigeon that the master of a study in Luoyang City died mysteriously. There was only a letter of several pages about the butterflies of Green Cloud Castle killing people on the scene. His wife, Mrs. Shi, paid Royal Guards a lot of money and asked them to help handle this incident.  I hope you can go to  Green Cloud Castle and conduct a thorough investigation into this incident and handle it properly. Take the money Mrs. Shi will give you as a reward that our school can use.
 menu_86821_1=<font face="Default" color="#ffffff" >I'll do exactly what you asked me to do. I'm leaving now.</font><font face="Default" color="#ffffff" >.</font>
 menu_86822_1=<font face="Default" color="#ffffff" >I'll do exactly what you asked me to do, master. I'm leaving now.</font>
 menu_86823_1=<font face="Default" color="#ffffff" >Yes, master</font><font face="Default" color="#ffffff" >. I'm starting out right now.</font>
@@ -197,7 +187,6 @@ submit_86821=<font face="Default" color="#ffffff" >Yes. I will go now.</font>
 submit_86822=<font face="Default" color="#ffffff" >Yes, master.</font>
 submit_86823=<font face="Default" color="#ffffff" >Thanks for your compliment. I certainly must take the lead in serving you, master.</font>
 target_86822=Go to Twilight Village in Suzhou to handle the Zhao Ziji incident properly.
-target_86823=Investigate the incident of butterflies killing people and go through the test of the Green Cloud Castle Forbidden Area.
 title_86821=Huanhua Cold Sword
 title_86822=Accepting Wealth from Fishing Village.
 title_86823=Green Cloud Castle's Reward
@@ -252,4 +241,15 @@ target_86809=Finish challenging the force of Huanhua Sword Sect.
 target_86820=Accomplish the force challenge to Mount Song Sword Sect.
 target_86821=Investigate the conflict with Huanhua Sword Sect and handle it properly.
 title_86809=Huanhua Sword Sect
+accept_86822_1=<font face="Default" color="#ffffff" >  The notorious killer Zhao Ziji</font><font face="Default" color="#ffffff" >has </font><font face="Default" color="#ffffff" >reappeared. Go to Twilight Village to help Qian Xizhi and Han Sijin </font><font face="Default" color="#ffffff" >to </font><font face="Default" color="#ffffff" >defeat Zhao Ziji. </font><font face="Default" color="#ffffff" >Take</font><font face="Default" color="#ffffff" >the reward money for our school's use. Meet one of your fellow apprentices at Suzhou Tavern.</font>
+context_86803=Go to Twilight Village and help Qian Xizhi and Han Sijin defeat the notorious killer Zhao Ziji. Use the reward money to help the Royal Guards.
+context_86804=Take this Royal Guards Green Wood Order and arrest or kill all these wanted men, so as to improve our reputation.
+context_86808=According to the Luoyang Royal Guards disciple's message, the Owner of Study in Luoyang oddly died. There were several Red Leaves Letters on the spot. It recorded the matter of butterflies in Green Cloud Castle killing people. The Hostess of Study asked Royal Guards to look into this matter with handsome rewards. Please go to Green Cloud Castle to look into this matter and deal with it properly. Use Mrs. Shi's rewards as the fund of our Sect.
+context_86822=Go to Twilight Village and help Qian Xizhi and Han Sijin defeat the notorious killer Zhao Ziji. Use the reward money to help the Royal Guards.
+context_86823=The disciples of the Royal Guards in Luoyang have sent an urgent message through a carrier pigeon that the master of a study in Luoyang City died mysteriously. There was only a letter of several pages about the butterflies of Green Cloud Castle killing people on the scene. His wife, Mrs. Shi, paid Royal Guards a lot of money and asked them to help handle this incident. I hope you can go to Green Cloud Castle and conduct a thorough investigation into this incident and handle it properly. Take the money Mrs. Shi will give you as a reward that our school can use.
+target_86804=Go to Yanjing to search the Wanted Man's whereabouts and then kill him.
+target_86808=Go to Green Cloud Castle Forbidden Area and look into the murder case of butterflies killing people.
+target_86815=Kill the Devil Sect disciple outside Taiping Village.
+target_86816=Kill the person who broke into the jail and rescued the prisoner.
+target_86823=Investigate the incident of butterflies killing people and go through the test of the Green Cloud Castle Forbidden Area.
 

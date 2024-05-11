@@ -10,7 +10,6 @@ DialogID_56607=I understand. I will investigate this matter and give everyone an
 DialogID_56608=We must kill the guards before we can execute the next step of our plan.
 DialogID_56609=That is not true. I didn't have time to say goodbye to her because I was too concerned with the well-being of the citizens. I did wrong her… Oh, I have some things here that I need help with.
 DialogID_56610=This is her hairpin. Please return it to her. She will understand.
-DialogID_56611=Can you avenge me and kill those villains?
 DialogID_56612=Ugh… Now is a time of calamity. Nothing left to eat!
 DialogID_56613=They imprisoned me and took my daughter! Hurry!
 DialogID_56614=Thanks for your help. I'm forever in your debt!
@@ -25,29 +24,8 @@ DialogID_56622=Okay, thank you. Can you help me kill the Army Riffraff Captain? 
 collectinfo_56600=Gather some food from <a href="findnpc_new,scene03,monf031500" style="HLStype1">Cave Ghost Pawn</a>
 collectinfo_56601=Gather some Silver from <a href="findnpc_new,scene03,monf030200" style="HLStype1">Treasure Collecting Female Thief</a>
 collectinfo_56602=Gather some Silk Fabric from <a href="findnpc_new,scene03,monf030200" style="HLStype1">Treasure Collecting Female Thief</a>
-collectinfo_56603=Defeat <a href="findnpc_new,scene03,monf033200" style="HLStype1">Barn Guarding General</a> and collect Winter Food
-collectinfo_56604=Defeat <a href="findnpc_new,scene03,monf031600" style="HLStype1">Cave Ghost Dharmapala</a> and collect food
-collectinfo_56605=Defeat <a href="findnpc_new,scene03,monf031400" style="HLStype1">Official House Guard</a> and collect food
-collectinfo_56606=Defeat <a href="findnpc_new,scene03,monf031400" style="HLStype1">Official House Guard</a> and collect Box of Weapons
-collectinfo_56607=Defeat <a href="findnpc_new,scene03,monf030200" style="HLStype1">Treasure Collecting Female Thief</a> and collect Red Garment
-collectinfo_56608=Defeat <a href="findnpc_new,scene03,monf031301" style="HLStype1">Army Riffraff Captain</a> and collect Wanderer's Valley Insignia
 convoyinfo_56600=Take Zu Qiao to the <a href="findnpc_new,scene03,WorldNpc06643" style="HLStype1">villagers</a>
-hunterinfo_56601=Defeat <a href="findnpc_new,scene03,monf031500" style="HLStype1">Cave Ghost Pawn</a>
-hunterinfo_56602=Defeat <a href="findnpc_new,scene03,monf031500" style="HLStype1">Cave Ghost Pawn</a>
-hunterinfo_56603=Defeat <a href="findnpc_new,scene03,monf031200" style="HLStype1">Hungry Mad Dog</a>
-hunterinfo_56604=Defeat <a href="findnpc_new,scene03,monf031300" style="HLStype1">Fierce Soldier Ruffian</a>
-hunterinfo_56605=Defeat <a href="findnpc_new,scene03,monf031300" style="HLStype1">Fierce Soldier Ruffian</a>
-hunterinfo_56606=Defeat <a href="findnpc_new,scene03,monf033201" style="HLStype1">Barn Patrol</a>
-hunterinfo_56607=Defeat <a href="findnpc_new,scene03,monf032100" style="HLStype1">Militia</a>
-hunterinfo_56608=Defeat <a href="findnpc_new,scene03,monf030600" style="HLStype1">Robbing Thug</a>
-hunterinfo_56609=Defeat <a href="findnpc_new,scene03,monf031700" style="HLStype1">Fierce Bandit</a>
-hunterinfo_56611=Defeat <a href="findnpc_new,scene03,monf030300" style="HLStype1">Armed Famine Refugee</a>
-hunterinfo_56612=Defeat <a href="findnpc_new,scene03,monf031700" style="HLStype1">Fierce Bandit</a>
 hunterinfo_56613=Defeat <a href="findnpc_new,scene03,monf031401" style="HLStype1">Fierce House Guard</a>
-hunterinfo_56614=Defeat <a href="findnpc_new,scene03,monf030300" style="HLStype1">Armed Famine Refugee</a>
-hunterinfo_56615=Defeat <a href="findnpc_new,scene03,monf032800" style="HLStype1">Censor Guard</a>
-hunterinfo_56616=Defeat <a href="findnpc_new,scene03,monf032801" style="HLStype1">Barrack Sentinel</a>
-hunterinfo_56617=Defeat <a href="findnpc_new,scene03,monf031500" style="HLStype1">Cave Ghost Pawn</a>
 interactinfo_56600=Talk to <a href="findnpc_new,scene03,WorldNpc06687" style="HLStype1">Zu Qiao</a>
 interactinfo_56601=Talk to <a href="findnpc_new,scene03,WorldNpc06643" style="HLStype1">Villagers</a>
 interactinfo_56602=Talk to <a href="findnpc_new,scene03,WorldNpc06529" style="HLStype1">Ma Hui</a>
@@ -100,4 +78,26 @@ story_menu_56600=Can you be more specific?
 storyinfo_56600=Listen to <a href="findnpc_new,scene03,WorldNpc06444" style="HLStype1">Situ Limin</a>'s story
 storymenu_56600_1=What happened next?
 storymenu_56600_2=Oh yeah? I got it.
+DialogID_56611=Can you avenge me and kill those villains?
+collectinfo_56603=Defeat <a href="findnpc_new,scene03,monf033200" style="HLStype1">Barn Guarding General</a> and collect Winter Food
+collectinfo_56604=Defeat <a href="findnpc_new,scene03,monf031600" style="HLStype1">Cave Ghost Dharmapala</a> and collect food
+collectinfo_56605=Defeat <a href="findnpc_new,scene03,monf031400" style="HLStype1">Official House Guard</a> and collect food
+collectinfo_56606=Defeat <a href="findnpc_new,scene03,monf031400" style="HLStype1">Official House Guard</a> and collect Box of Weapons
+collectinfo_56607=Defeat <a href="findnpc_new,scene03,monf030200" style="HLStype1">Treasure Collecting Female Thief</a> and collect Red Garment
+collectinfo_56608=Defeat <a href="findnpc_new,scene03,monf031301" style="HLStype1">Army Riffraff Captain</a> and collect Wanderer's Valley Insignia
+hunterinfo_56601=Defeat <a href="findnpc_new,scene03,monf031500" style="HLStype1">Cave Ghost Pawn</a>
+hunterinfo_56602=Defeat <a href="findnpc_new,scene03,monf031500" style="HLStype1">Cave Ghost Pawn</a>
+hunterinfo_56603=Defeat <a href="findnpc_new,scene03,monf031200" style="HLStype1">Hungry Mad Dog</a>
+hunterinfo_56604=Defeat <a href="findnpc_new,scene03,monf031300" style="HLStype1">Fierce Soldier Ruffian</a>
+hunterinfo_56605=Defeat <a href="findnpc_new,scene03,monf031300" style="HLStype1">Fierce Soldier Ruffian</a>
+hunterinfo_56606=Defeat <a href="findnpc_new,scene03,monf033201" style="HLStype1">Barn Patrol</a>
+hunterinfo_56607=Defeat <a href="findnpc_new,scene03,monf032100" style="HLStype1">Militia</a>
+hunterinfo_56608=Defeat <a href="findnpc_new,scene03,monf030600" style="HLStype1">Robbing Thug</a>
+hunterinfo_56609=Defeat <a href="findnpc_new,scene03,monf031700" style="HLStype1">Fierce Bandit</a>
+hunterinfo_56611=Defeat <a href="findnpc_new,scene03,monf030300" style="HLStype1">Armed Famine Refugee</a>
+hunterinfo_56612=Defeat <a href="findnpc_new,scene03,monf031700" style="HLStype1">Fierce Bandit</a>
+hunterinfo_56614=Defeat <a href="findnpc_new,scene03,monf030300" style="HLStype1">Armed Famine Refugee</a>
+hunterinfo_56615=Defeat <a href="findnpc_new,scene03,monf032800" style="HLStype1">Censor Guard</a>
+hunterinfo_56616=Defeat <a href="findnpc_new,scene03,monf032801" style="HLStype1">Barrack Sentinel</a>
+hunterinfo_56617=Defeat <a href="findnpc_new,scene03,monf031500" style="HLStype1">Cave Ghost Pawn</a>
 

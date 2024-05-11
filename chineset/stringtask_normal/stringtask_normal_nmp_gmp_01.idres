@@ -325,13 +325,11 @@ accept_20532_1=<font face="Default" color="#ffffff" >古墓弟子冰清玉潔，
 accept_20533_1=<font face="Default" color="#ffffff" >心性考驗和輕功考驗你都通過了，那我再來考驗你的機關</font><font face="Default" color="#ffffff" >之</font><font face="Default" color="#ffffff" >術吧。</font>
 accept_20534_1=<font face="Default" color="#ffffff" >掌門此時定在古墓二層大廳，你可自行前去。</font>
 accept_20536_1=<font face="Default" color="#ffffff" >你已經決定要離開古墓了麼？</font>
-accept_20541_1=<font face="Default" color="#ffffff" >殺人莊欺人太甚，今日當討伐之。</font>
 accept_20542_1=<font face="Default" color="#ffffff" >不知你最近本派功夫修習的如何，我們當師兄師姐的也想試試你的功夫。</font><font face="Default" color="#ffffff" > </font>
 accept_20543_1=<font face="Default" color="#ffffff" >清淺師叔著實令吾等擔憂，望你能夠幫助師叔脫離魔障</font>
 accept_20544_1=<font face="Default" color="#ffffff" >這迷宮甚是凶險吶，你真的要去？</font>
 accept_20550_1=<font face="Default" color="#ffffff" >古墓適逢大事，門下弟子可願前往</font><font face="Default" color="#ffffff" >？</font>
 accept_20552_1=<font face="Default" color="#ffffff" >好了，古墓眾弟子聽令，立即啟程速速趕回古墓！</font>
-accept_20553_1=<font face="Default" color="#ffffff" >果然有殺人莊高手前來</font><font face="Default" color="#ffffff" >奪寶</font><font face="Default" color="#ffffff" >。</font><font face="Default" color="#ffffff" >古墓弟子聽令，速速擊退來敵！</font>
 accept_20555_1=
 accept_20556_1=<font face="Default" color="#ffffff" >哈哈</font>
 accept_20567_1=<font face="Default" color="#ffffff" >你是誰？</font>
@@ -584,11 +582,9 @@ context_20533=試探下弟子的機關術
 context_20534=玩家通過走廊初步瞭解古墓場景
 context_20535=讓新進門的弟子瞭解下門派的一些重地
 context_20536=離開古墓
-context_20541=殺人莊數次擾我門人清修，擄我門人，今日新仇舊恨便與殺人莊一筆算清，古墓弟子當奮勇向前，為逝去的門人報仇。(此任務不可放棄)
 context_20543=冷清淺師叔乃是本門高手，其武學造詣在本派中乃是數一數二，因自己身世艱難，故性格冷淡，一心鑽研武學，自認為天下無敵。掌門希望眾弟子能夠合力將師叔擊敗，以淡化師叔的驕矜之氣。(此任務不可放棄)
 context_20550=古墓之中將有大事發生，速速拜見掌門。
 context_20551=前去金陵尋找掌門並將門派重寶帶回古墓。
-context_20553=擊退前來劫劍的殺人莊高手
 context_20554=如今諸事已了，速速回稟掌門。
 context_20555=返回門派繼續修行。
 context_20556=想不到這女子竟然心懷不軌，不知她來此究竟有何目的！
@@ -610,7 +606,6 @@ context_20571=竟在此地遇到這藍衣女子，想必她對我並無不軌之
 context_20572=盡快逃出密道
 context_20573=這小樓甚是古怪，還是找找看能否逃出此地。
 context_20574=既然已經身在密道之中，不妨走到盡頭尋找出路
-context_20575=歷經坎坷，終於從殺人莊之中逃出。
 context_20577=這藍衣男子竟突然出現，不知這少年又是何人。
 context_20600=完成周常跑環任務
 context_20601=使用給予的技能，捕捉10只麻雀
@@ -1037,13 +1032,9 @@ target_20533=試探下弟子的機關術
 target_20534=玩家初步瞭解古墓場景並去找古墓掌門
 target_20535=瀏覽門派勝地
 target_20536=找掌門<a href="findnpc_new,school14,newmp_gumu_001" style="HLStype1">龍妤幽</a>談談
-target_20540=抵禦殺人莊的進犯。
-target_20541=成功討伐殺人莊
 target_20543=擊敗師叔冷清淺
-target_20546=攻克殺人莊
 target_20550=古墓之中將有大事發生，速速拜見掌門。
 target_20551=將門派重寶帶回古墓。
-target_20553=擊退前來劫劍的殺人莊高手
 target_20554=回稟掌門
 target_20555=返回門派繼續修行。
 target_20556=質問這狂妄女子潛入古墓究竟有何墓地。
@@ -1065,7 +1056,6 @@ target_20571=詢問這藍衣女子緣何在此。
 target_20572=盡快逃出密道
 target_20573=尋找機關逃出小樓
 target_20574=前往密道盡頭尋找出路
-target_20575=逃出殺人莊，趕回古墓
 target_20577=看看這藍衣男子有何事。
 target_20600=完成10個周常任務
 target_20601=捕捉10只麻雀
@@ -1119,22 +1109,11 @@ target_20650=給大師姐送信
 target_20651=給武當掌門送蜂蜜
 target_20652=在切磋中打敗大師兄
 target_20653=在切磋中打敗武當大師兄
-target_20654=擊殺霞衣殺手
-target_20655=擊殺沈家堡護院
-target_20656=擊殺徐家莊護院
-target_20657=擊殺鹽幫監工
-target_20658=擊殺抱犢寨武士
-target_20659=擊殺鹽幫打手
-target_20660=擊殺徐家莊高手
 target_20661=抓住100只麻雀
 target_20662=在輕功上擊敗影奴
 target_20663=跟隨劍僕練習武學招式
 target_20664=質問古墓弟子，找出心懷不軌的弟子
 target_20665=給武當弟子送信
-target_20666=擊殺抱犢寨長老
-target_20667=擊殺抱犢寨死士
-target_20668=擊殺天寶寨高手
-target_20669=擊殺天寶寨哨塔守衛
 target_20670=詢問小廝
 target_20671=詢問真相
 target_20672=引出背後之人
@@ -1168,7 +1147,6 @@ target_20716=去倉庫將玉峰漿交於掌門
 target_20717=去倉庫將酒交於掌門
 target_20718=清理滲入的外派人士，救治受傷弟子。
 target_20719=清理滲入的外派人士，救治受傷弟子。
-target_20720=擊殺採花賊
 target_20721=給師門採集到五個「銀礦」。
 title_20501=初識古墓
 title_20502=古墓來客
@@ -1333,18 +1311,14 @@ title_20719=同門援助
 title_20720=清理門戶
 title_20721=師門物資
 CanAcceptMenu_20540=<font face="Default" color="#ffffff" >寸土必守</font>
-CanAcceptMenu_20541=<font face="Default" color="#ffffff" >兵伐殺人莊</font>
 CanAcceptMenu_20542=<font face="Default" color="#ffffff" >武道七爭</font>
 CanAcceptMenu_20543=<font face="Default" color="#ffffff" >空明之戰</font>
 CanAcceptMenu_20544=<font face="Default" color="#ffffff" >秘境尋珍</font>
 CanAcceptMenu_20545=<font face="Default" color="#ffffff" >寸土必守</font>
-CanAcceptMenu_20546=<font face="Default" color="#ffffff" >兵伐殺人莊</font>
 CompleteMenu_20540=<font face="Default" color="#ffffff" >寸土必守（可提交）</font>
-CompleteMenu_20541=<font face="Default" color="#ffffff" >兵伐殺人莊（可提交）</font>
 CompleteMenu_20542=<font face="Default" color="#ffffff" >武道七爭（可提交）</font>
 CompleteMenu_20543=<font face="Default" color="#ffffff" >空明之戰（可提交）</font>
 CompleteMenu_20545=<font face="Default" color="#ffffff" >寸土必守（可提交）</font>
-CompleteMenu_20546=<font face="Default" color="#ffffff" >兵伐殺人莊（可提交）</font>
 accept_20686_1=<font face="Default" color="#ffffff" >此事事關兩派武學之密，龍掌門有所顧慮也是應當。</font>
 accept_20687_1=<font face="Default" color="#ffffff" >師傅和前代武當真人之事？你且道來。</font>
 accept_20688_1=<font face="Default" color="#ffffff" >如此甚好，那麼龍掌門是否介意在下在古墓傳授武當武學，互相交流學習？</font>
@@ -1364,11 +1338,9 @@ target_20603=在古墓外的小樹林，通過捕獸夾捕獐子和兔子，獲�
 target_20686=拜見武當紫陽真人，瞭解兩派交流之事
 target_20688=回復曲意掌門已贊成兩派交流武學，並表達勞煩之意
 title_20540=寸土必守
-title_20541=兵伐殺人莊
 title_20542=武道七爭
 title_20543=空明之戰
 title_20545=寸土必守
-title_20546=兵伐殺人莊
 complete_20560=<font face="Default" color="#ffffff" >看小友如此狼狽，定是經歷了一番磨難。</font>
 complete_20567=<font face="Default" color="#ffffff" >（這繩子似乎能助我離開這枯井，</font><font face="Default" color="#ffffff" >只是不知出去之後是生是死……</font><font face="Default" color="#ffffff" >）</font>
 submit_20560=<font face="Default" color="#ffffff" >此間風險，難以向前輩言明，還望前輩見諒。</font>
@@ -1376,14 +1348,11 @@ submit_20567=<font face="Default" color="#ffffff" >也罷，是生是死，就�
 CompleteMenu_20544=<font face="Default" color="#ffffff" >秘境尋珍（可提交）</font>
 title_20544=秘境尋珍
 CompleteMenu_20547=<font face="Default" color="#ffffff" >寸土必守（可提交）</font>
-CompleteMenu_20548=<font face="Default" color="#ffffff" >兵伐殺人莊（可提交）</font>
 complete_20547=<font face="Default" color="#ffffff" >干的甚好。</font>
 complete_20548=<font face="Default" color="#ffffff" >甚好，今後仍需更加努力</font>
 submit_20547=<font face="Default" color="#ffffff" >您謬讚了。</font>
 submit_20548=<font face="Default" color="#ffffff" >弟子明白</font>
-target_20548=攻克殺人莊
 title_20547=寸土必守
-title_20548=兵伐殺人莊
 CanAcceptMenu_20645=<font face="Default" color="#ffffff" >十階身份晉級挑戰（</font><font face="Default" color="#ffffff" >困難</font><font face="Default" color="#ffffff" >）</font>
 CanAcceptMenu_20549=<font face="Default" color="#ffffff" >我想要去蓬萊島</font>
 CanAcceptMenu_20576=<font face="Default" color="#ffffff" >我要返回煙雨莊</font>
@@ -1451,9 +1420,6 @@ accept_20501_1=<font face="Default" color="#ffffff" >西山古墓已避世多年
 accept_20525_1=<font face="Default" color="#ffffff" >西山古墓門規森嚴，如今你已是我古墓弟子，當牢記我西山古墓清規戒律，不可犯錯。</font>
 accept_20527_1=<font face="Default" color="#ffffff" >若你能通過</font><font face="Default" color="#ffffff" >門派考驗弟子的考驗</font><font face="Default" color="#ffffff" >，則可入我西山古墓門下</font><font face="Default" color="#ffffff" >。</font>
 accept_20535_1=<font face="Default" color="#ffffff" >西山古墓地勢複雜，易守難攻，當好生熟悉一番才是。</font>
-accept_20540_1=<font face="Default" color="#ffffff" >收到消息，殺人莊即將來犯，我堂堂西山古墓，豈容得這些人來肆意妄為？！</font>
-accept_20545_1=<font face="Default" color="#ffffff" >這殺人莊竟敢來西山古墓放肆，西山古墓與我一脈相承，你速速前去救援。</font>
-accept_20546_1=<font face="Default" color="#ffffff" >本門應西山古墓請求，決定派出精英弟子數名，幫助西山古墓討伐殺人莊</font>
 accept_20551_1=<font face="Default" color="#ffffff" >你與古墓眾弟子一同護送門人遺棺及鑌鐵重劍趕回古墓</font><font face="Default" color="#ffffff" >。</font><font face="Default" color="#ffffff" >我還有要事，先行一步，爾等當小心謹慎，萬不可出差錯。</font>
 accept_20554_1=<font face="Default" color="#ffffff" >此番能有此功，乃我古墓弟子齊心協力之舉。你可攜鑌鐵重劍與門人遺棺速去劍塚安置。</font>
 accept_20608_1=<font face="Default" color="#ffffff" >西山古墓弟子每日可進入密室使用冰火寒晶榻修煉，不過切記萬不可操之過急以免走火入魔</font>
@@ -1461,8 +1427,6 @@ accept_20648_1=<font face="Default" color="#ffffff" >西山古墓弟子每日可
 accept_20701_1=<font face="Default" color="#ffffff" >西山古墓的弟子每天都要進行一番勞作，算是對弟子的考驗。</font>
 accept_20711_1=<font face="Default" color="#ffffff" >最近</font><font face="Default" color="#ffffff" >掌門</font><font face="Default" color="#ffffff" >要邀請一些名門正派來西山古墓做客。</font>
 accept_20712_1=<font face="Default" color="#ffffff" >最近</font><font face="Default" color="#ffffff" >掌門</font><font face="Default" color="#ffffff" >要邀請一些名門正派來西山古墓做客。</font>
-accept_20715_1=<font face="Default" color="#ffffff" >最近不少人判出西山古墓，你前去擊殺他們。</font>
-accept_20720_1=<font face="Default" color="#ffffff" >最近西山古墓</font><font face="Default" color="#ffffff" >外出現很多採花賊</font><font face="Default" color="#ffffff" >，你前去擊殺他們。</font>
 complete_20513=<font face="Default" color="#ffffff" >鑌鐵重劍！！原來……原來如此！多謝少俠告知此事，我這便速回古墓稟報掌門，後會有期！</font>
 complete_20514=<font face="Default" color="#ffffff" >哈哈，老夫可不是古墓之人。少俠若要拜入古墓，前方不遠自行前去便是了。不過去往西山古墓途中怕是有很多野蜂會蟄傷少俠，老夫這有西山古墓所制的玉蜂漿，對蟄傷會有所幫助，就贈予少俠吧。</font>
 complete_20520=<font face="Default" color="#ffffff" >我西山古墓也不屑做那種不近人情的事，你想走我也不攔你，不過你既然在我古墓學了武當武學，為師問你願入武當還他武當一份恩親，假如你不願，我就代武當掌門廢除你所學武當武學。</font>
@@ -1485,10 +1449,7 @@ context_20524=去後堂瞭解西山古墓
 context_20525=掌門向玩家介紹加入西山古墓需要遵守的門規
 context_20528=東邊壁上畫中的人是西山古墓宿敵。
 context_20531=收集點西山古墓特色印記所需的材料
-context_20540=殺人莊來犯我西山古墓，與武當前來救助的弟子，一同抵禦殺人莊的進犯。(此任務不可放棄)
 context_20544=西山古墓深處的迷宮之中，似乎埋藏著寶藏。(此任務不可放棄)
-context_20545=收到消息，殺人莊即將襲擊西山古墓，西山古墓與我一脈相承，豈容得他人前來放肆。(此任務不可放棄)
-context_20546=本門應西山古墓請求，決定派出精英弟子數名，幫助西山古墓討伐殺人莊。(此任務不可放棄)
 context_20552=護送門人遺棺和鑌鐵重劍回門派
 context_20603=西山古墓弟子素來喜食清淡食物，偶爾會去古墓外的樹林裡捕捉一些野味用以烹飪。此舉實是為了鍛煉古墓弟子的輕功。兔子和獐子皆是跑動極快之動物，以輕功追趕實屬不易，為修練輕功另闢蹊徑。
 context_20604=西山古墓的修煉方式眾多，抓麻雀，冰火寒晶榻，雙人修煉等等。而其中最獨特的應該就是雙人同修（內功）修煉方式，和同伴一起完成雙修玩法，過程中同伴會遇到種種心魔困境，身為同伴的你，需要幫助同伴度過難關，你準備好了嗎？
@@ -1498,8 +1459,6 @@ context_20648=獲得掌門許可每天可以使用密室的冰火寒晶榻修煉
 context_20649=拿著隱世門派信物慾加入西山古墓
 context_20681=西山古墓先人為了讓門下弟子有一個磨練自身實力，增加實戰經驗的地方，特意開啟的試煉
 context_20690=和結緣伴侶一起煉製玉女素心丹，將丹藥上交門派可獲得大量門派貢獻值。西山古墓共有10處煉丹的位置，分別是：(-231,284)(-197,25)(103,330)(-165,316)(-348,532)(-374,301)(-213,585)(-89,9)(-270,236)(-106,346)。煉丹之地附近有全真教餘孽出沒，要請好友幫忙護衛方可煉製丹藥。
-context_20715=去古墓外，將西山古墓的叛徒擊殺。
-context_20720=去古墓外，將西山古墓的採花賊擊殺。
 menu_20511_1=<font face="Default" color="#ffffff" >在下想向老伯打聽一下有關西山古墓之事。</font>
 menu_20514_1=<font face="Default" color="#ffffff" >在下仰慕西山古墓很久，一直找尋古墓蹤跡，只求拜入古墓門下。</font>
 menu_20649_1=<font face="Default" color="#ffffff" >在下願加入西山古墓，為保衛黎民百姓出一份力</font>
@@ -1518,16 +1477,57 @@ target_20524=跟著楊池蕊去後堂瞭解下西山古墓的情況
 target_20525=瞭解西山古墓的門規並通過掌門的審核
 target_20528=這是西山古墓的宿敵，我們門中有個規矩，拜了祖師婆婆之後，須得向他唾吐
 target_20544=去西山古墓迷宮探索寶藏。
-target_20545=協助西山古墓抵禦殺人莊來襲。
 target_20552=護送門人遺棺和鑌鐵重劍回門派
 target_20649=拜師西山古墓
-target_20715=擊殺西山古墓叛徒
 title_20508=入西山古墓
 title_20509=入西山古墓
 title_20550=(劇情)鑌鐵重劍
 title_20649=加入西山古墓
 title_20663=練習洛神劍法
-context_20547=收到消息，殺人莊即將襲擊西山古墓，西山古墓與我一脈相承，豈容得他人前來放肆。(此任務不可放棄)
-context_20548=本門應西山古墓請求，決定派出精英弟子數名，幫助西山古墓討伐殺人莊。(此任務不可放棄)
-target_20547=協助西山古墓抵禦殺人莊來襲。
+CanAcceptMenu_20541=<font face="Default" color="#ffffff" >兵伐異人莊</font>
+CanAcceptMenu_20546=<font face="Default" color="#ffffff" >兵伐異人莊</font>
+CompleteMenu_20541=<font face="Default" color="#ffffff" >兵伐異人莊（可提交）</font>
+CompleteMenu_20546=<font face="Default" color="#ffffff" >兵伐異人莊（可提交）</font>
+accept_20540_1=<font face="Default" color="#ffffff" >收到消息，異人莊即將來犯，我堂堂西山古墓，豈容得這些人來肆意妄為？！</font>
+accept_20541_1=<font face="Default" color="#ffffff" >異人莊欺人太甚，今日當討伐之。</font>
+accept_20545_1=<font face="Default" color="#ffffff" >這異人莊竟敢來西山古墓放肆，西山古墓與我一脈相承，你速速前去救援。</font>
+accept_20546_1=<font face="Default" color="#ffffff" >本門應西山古墓請求，決定派出精英弟子數名，幫助西山古墓討伐異人莊</font>
+accept_20553_1=<font face="Default" color="#ffffff" >果然有異人莊高手前來</font><font face="Default" color="#ffffff" >奪寶</font><font face="Default" color="#ffffff" >。</font><font face="Default" color="#ffffff" >古墓弟子聽令，速速擊退來敵！</font>
+accept_20715_1=<font face="Default" color="#ffffff" >最近不少人判出西山古墓，你前去攻克他們。</font>
+accept_20720_1=<font face="Default" color="#ffffff" >最近西山古墓</font><font face="Default" color="#ffffff" >外出現很多採花賊</font><font face="Default" color="#ffffff" >，你前去攻克他們。</font>
+context_20540=異人莊來犯我西山古墓，與武當前來救助的弟子，一同抵禦異人莊的進犯。(此任務不可放棄)
+context_20541=異人莊數次擾我門人清修，擄我門人，今日新仇舊恨便與異人莊一筆算清，古墓弟子當奮勇向前，為逝去的門人報復。(此任務不可放棄)
+context_20545=收到消息，異人莊即將襲擊西山古墓，西山古墓與我一脈相承，豈容得他人前來放肆。(此任務不可放棄)
+context_20546=本門應西山古墓請求，決定派出精英弟子數名，幫助西山古墓討伐異人莊。(此任務不可放棄)
+context_20553=擊退前來劫劍的異人莊高手
+context_20575=歷經坎坷，終於從異人莊之中逃出。
+context_20715=去古墓外，將西山古墓的叛徒攻克。
+context_20720=去古墓外，將西山古墓的採花賊攻克。
+target_20540=抵禦異人莊的進犯。
+target_20541=成功討伐異人莊
+target_20545=協助西山古墓抵禦異人莊來襲。
+target_20546=攻克異人莊
+target_20553=擊退前來劫劍的異人莊高手
+target_20575=逃出異人莊，趕回古墓
+target_20654=攻克霞衣隱衛
+target_20655=攻克沈家堡護院
+target_20656=攻克徐家莊護院
+target_20657=攻克鹽幫監工
+target_20658=攻克抱犢寨武士
+target_20659=攻克鹽幫打手
+target_20660=攻克徐家莊高手
+target_20666=攻克抱犢寨長老
+target_20667=攻克抱犢寨死士
+target_20668=攻克天寶寨高手
+target_20669=攻克天寶寨哨塔守衛
+target_20715=攻克西山古墓叛徒
+target_20720=攻克採花賊
+title_20541=兵伐異人莊
+title_20546=兵伐異人莊
+CompleteMenu_20548=<font face="Default" color="#ffffff" >兵伐異人莊（可提交）</font>
+context_20547=收到消息，異人莊即將襲擊西山古墓，西山古墓與我一脈相承，豈容得他人前來放肆。(此任務不可放棄)
+context_20548=本門應西山古墓請求，決定派出精英弟子數名，幫助西山古墓討伐異人莊。(此任務不可放棄)
+target_20547=協助西山古墓抵禦異人莊來襲。
+target_20548=攻克異人莊
+title_20548=兵伐異人莊
 

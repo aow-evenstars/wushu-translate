@@ -199,7 +199,6 @@ complete_51260=<font face="Default" color="#ffffff" >A guest of Sir Chang, pleas
 complete_51266=<font face="Default" color="#ffffff" >Oh? Tell me about it!</font>
 complete_51268=<font face="Default" color="#ffffff" >I don't know...hmm…hang on...</font>
 complete_51269=What happened?
-complete_51280=<font face="Default" color="#ffffff" >Young Hero, please don't mind me. I have been friends with Old Chang for many years and I do not wish to see him like this. But if he really did this then we must do something, otherwise Le Ru and the others will have died in vain</font><font face="Default" color="#ffffff" >. Go and stop Xing Erxia at the magistrate, he is about to beat on the drums to seek assistance with revenge for Le Ru.</font>
 complete_51281=<font face="Default" color="#ffffff" >Haha</font><font face="Default" color="#ffffff" >, </font><font face="Default" color="#ffffff" >Young Hero, you look well! Are you familiar now with the skills that I taught you?</font>
 complete_51282=<font face="Default" color="#ffffff" >Take care, your road ahead will not be easy. You may seek temporary refuge in a place on the river bank west of Jinling City. There's a thriving black market there, so hire a smuggler's boat nearby to take you there.</font>
 complete_51283=<font face="Default" color="#ffffff" >Don't interrupt me, at the beginning there was merely an itch at the corner of the eye. Then the itch spread to the hand and then the heart, scratch away the corner of the eye and dream on. Haha this skill seem quite powerful, take it and learn well and you will conquer the world! </font><font face="Default" color="#ffffff" >No, I must take you somewhere to teach you a few things, otherwise you will never get it! Very well, let's go to the roof top there, it's high up so the view is good!</font>
@@ -211,10 +210,8 @@ context_51003=After the instructions from the old woman, I found it easy to resi
 context_51004=After the instructions from the old woman, I found it easy to resist the cold, and I carried her up the mountain. When resting on the side of the road, the old woman told me about her past with Demon Blade Elder
 context_51005=An Emei Disciple stands ahead. Is she also a victim of Xue Chen's misdeeds?
 context_51006=Xue Chen has committed many crimes, it is time to put an end to this.
-context_51008=A Tangmen Disciple was certain that Xue Chen had been killed. He even asked an Emei Disciple to come alone as a witness.
 context_51009=While you were helping the Emei disciple to free her of snakes, you were knocked unconscious, and now you find yourself bound in ropes. Ask the Wudang disciple nearby what happened.
 context_51010=The treacherous false disciples forced me off the cliff. An elder saved me from the fall, then slaughtered all but one of the conspirators, sparing the false Emei disciple.
-context_51011=Your enemy is right in front of you, learn martial art skills from Elder Hentian and you will be able to defeat her.
 context_51012=You're done here for now. Go back to the teleport point.
 context_51013=On the side of the mountain path, an old woman is sitting on a pile of rocks, let's see what is going on.
 context_51014=Xue Chen has committed many crimes, it is time to put an end to this
@@ -282,13 +279,11 @@ context_51261=Stay at Jinling Inn and try out the special brew, Milktea Wine.
 context_51262=Attend Le Ru and Chang Shanzhao's wedding banquet.
 context_51263=Enter the wedding venue, and congratulate Le Ru and Chong Shan's marriage.  (Have a conversation with maid <a href="findnpc,city03,700,5,1504" style="HLStype1">Xiao Hong</a>, who is welcoming guests near the Imperial Ancestral Temple, to enter the wedding venue. If there are urgent matters and you must leave, have a conversation with Ziyun who is hosting the events in the banquet)
 context_51264=The wedding feast is now over. Friends and family are about to start playing tricks in the nuptial chamber, so let's go join in the fun! Speak to the servant girl <a href="findnpc,city03,700,5,1504" style="HLStype1">Xiao Hong</a> who can be found near the large temple and you will be able to enter festive area. If you need to leave, speak to the master of ceremonies Zi Xia.
-context_51265=After I was being thrown into a dry well together with Xing Erxia by Chang Shanzhao's servant, I found fragments of a scroll and a pile of bones. Elder Hentian appeared suddenly in the dry well and said he was there to avenge his disciple.
 context_51266=There must be evidence of your innocence in the dry well. Look now and free yourself.
 context_51267=Elder Hentian actually praised his own disciples for going against one another, and he himself is a heartless one, having killed his own master. Consider yourself fortunate that he has not struck you dead in one blow.
 context_51268=After Elder Hentian tapped Xing Erxia, he appears to be suffering from something. Speak to him and take him out of the dry well first before deciding on what to do.
 context_51269=Xing Erxia appears possessed: he is inflicted with "Heart of the Devil." Help him.
 context_51280=Being thrown into a dry well has traumatized Xing Erxia. We decided to go back to Jinling City to reason with Chang Shanzhao. Xing Erxia went off in a hurry: he must have felt that something is about to happen.
-context_51281=<s>Xing Erxia was in a hurry to avenge Le Ru and went to the magistrate to become a constable. Such rashness will only cause trouble. Perhaps the authorities will help us this time.
 context_51282=Chang Shanzhao has committed many crimes and cannot be forgiven. He must not be released otherwise he will do more damage to the people. Xing Erxia is waiting for your good news. Kill the murderer so that Le Ru can rest in peace.
 context_51283=<s>Bi Jiahuo told you about a hiding place. There are constables everywhere in the city, so go there first to take a rest and plan the next move.
 context_51284=We've been thrown into the dry well for no reason. I will have my revenge! Xing Erxia is also enraged, we should discuss this together.
@@ -527,7 +522,6 @@ title_51007=Look for Truth
 title_51008=Fall into the Trap
 title_51009=Frame Up
 title_51010=The Truth Revealed
-title_51011=Cold Revenge
 title_51012=Farewell for Now
 title_51013=Difficulties
 title_51014=Improvisation
@@ -623,10 +617,16 @@ complete_51018=<font face="Default" color="#ffffff" >It would have been good for
 complete_51137=After the "Luoyang Bug Curse" is completed, you can join the trial by speaking with sister Yu Yu. You can participate in the trial up to three times a day and seven times per week. After completing a Normal Trial you may access the Hard Trial. Martial Merit Tokens obtained from trial can be redeemed for "Shallow Kung Fu" pages (Level 13-14), "Winds of Fury" and "Defeated Scholar" pages (Level 10-11).You may also exchange "Reward the Righteous and Punish Evil Order" or Sheepskin fragments for Martial Merit Tokens here as well.
 complete_51245_2=<font face="Default" color="#ffffff" >One is Internal Skill Ice Chi, legend has it that it was created by Gao Mountain zen master Zuo Leng. When dealing with your enemies a mere touch activates the cold and freezes your foes, slowing them down. The other set is Defeated Scholar, it was created by a mysterious scholar who set it down to deal with injustice. The skill relies on continuity of movements, and is very aggressive. Each move is used to its full potential. This skill can even be activated mid-air so you would have the advantage of height and surprise to crush your foe. You</font><font face="Default" color="#ffffff" > must </font><font face="Default" color="#ffffff" >make haste to learn it</font><font face="Default" color="#ffffff" >. I can only assist you until here. Take care.</font>
 context_51030=It is close to the day of the Mount Hua Competition, when the time comes, all the experts of the land will gather on the peak of Huashan. This will be one of the large gatherings of Wulin. There is a Wanderer's Valley Disciple ahead, he looks troubled and appears like he has something to say.
-context_51031=Xue Chen stole the Heaven Sword and ruined the Mount Hua Competition. The Eight Schools sent out experts to go after him, all the heroes of Jianghu have a responsibility to catch Xue Chen.
 context_51032=Ask Xu Dayu why the Wudang disciples are so agitated.
 target_51032=Defeat the Wudang Disciple, and then ask Xu Dayu about the situation.
-CanAcceptMenu_51137=<font face="Default" color="#ffffff" >A lot of skilled fighters how been appearing of late. Regardless, we are not strong enough to confront the Eight Schools.  </font>
-context_51007=Xue Chen is exactly as the Eight Schools have described him, and he even has Zhao Ziji's son with him. Has he kidnapped him?
-target_51007=First ask Tian Er and then find out what is going on from the disciples of the Eight Schools.
+CanAcceptMenu_51137=<font face="Default" color="#ffffff" >A lot of skilled fighters how been appearing of late. Regardless, we are not strong enough to confront the Ten Schools. </font>
+context_51007=Xue Chen is exactly as the Ten Schools have described him, and he even has Zhao Ziji's son with him. Has he kidnapped him?
+context_51031=Xue Chen stole the Heaven Sword and ruined the Mount Hua Competition. The Ten Schools sent out experts to go after him, all the heroes of Jianghu have a responsibility to catch Xue Chen.
+target_51007=First ask Tian Er and then find out what is going on from the disciples of the Ten Schools.
+complete_51280=<font face="Default" color="#ffffff" >Young Hero, please don't mind me. I have been friends with Old Chang for many years and I do not wish to see him like this. But if he really did this then we must do something, otherwise Le Ru and the others will have died in vain</font><font face="Default" color="#ffffff" >. Go and stop Xing Erxia at the magistrate, he is about to beat on the drums to seek assistance with revenge for Le Ru.</font>
+context_51008=A Tangmen Disciple was certain that Xue Chen had been killed. He even asked an Emei Disciple to come alone as a witness.
+context_51011=Your enemy is right in front of you, learn martial art skills from Elder Hentian and you will be able to defeat her.
+context_51265=After I was being thrown into a dry well together with Xing Erxia by Chang Shanzhao's servant, I found fragments of a scroll and a pile of bones. Elder Hentian appeared suddenly in the dry well and said he was there to avenge his disciple.
+context_51281=<s>Xing Erxia was in a hurry to avenge Le Ru and went to the magistrate to become a constable. Such rashness will only cause trouble. Perhaps the authorities will help us this time.
+title_51011=Revenge
 

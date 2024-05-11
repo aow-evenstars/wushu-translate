@@ -77,12 +77,10 @@ context_86700=With the increase of Shaolin Disciples, we are lack of daily consu
 context_86701=Some disciples have been badly injured by unknown assailants using Qimen weapons. Help out Abstinence Hall and the herb store and investigate the murder.
 context_86702=Taiping Village has been plagued by insects, drought, food shortages, and looting. The bandits are not like normal mountain thieves. Help the villagers in Luoyang collect supplies and investigate the murder.
 context_86703=The Shaolin monk delivered a letter by pigeon, saying that he found the Jiming Posthouse murderer and that he had ties to Xiong Tianba.  Investigate and collect evidence.
-context_86704=Zhao Ziji gave up his evil ways and was living in Twilight Village when he rescued a shopkeeper. His former enemies  have been coming after him, hurting innocent people. Save the villagers of Twilight Village and resolve the issue of Zhao Ziji.
 context_86705=With the increase of Shaolin Disciples, we are lack of daily consumed supplies. It needs us to positively contribute our daily materials to fill it. Please make your own contributions in order to expand our School.
 context_86706=With the increase of Shaolin Disciples, we are lack of daily consumed supplies. It needs us to positively contribute our daily materials to fill it. Please make your own contributions in order to expand our School.
 context_86707=Taiping Village has been plagued by insects, drought, food shortages, and looting. The bandits are not like normal mountain thieves. Help the villagers in Luoyang collect supplies and investigate the murder.
 context_86708=The bandits of Baodu Stronghold have been robbing White Horse Temple and Shaolin. They must be stopped.
-context_86709=A letter by pigeon from a Shaolin Disciple in Luoyang reported that the circumstances surrounding the Master of Study in Luoyang were strange indeed. It detailed that several pieces of Red Leaves Letter, saying that the Green Cloud Castle's Butterflies killed people, were left at the scene. The Master and his Wife often visit Shaolin Temple. They now ask Shaolin's help - please go and investigate this matter properly.
 context_86710=Save the hostages who have been hijacked.
 context_86711=Shaolin is always kind, but the bad men of other Sects will come to spy and make troubles. I hope you can take the important responsibility of patrolling, and show us your wish of defending the temple.
 context_86712=The Disciples of Shaolin should not forget to build their bodies and practice Martial Arts. Duel with Elder Brothers and improve personal abilities.
@@ -176,14 +174,11 @@ CompleteMenu_86721=<font face="Default" color="#ffffff" >Fulfill the task.</font
 CompleteMenu_86722=<font face="Default" color="#ffffff" >Fulfill the task.</font>
 CompleteMenu_86723=<font face="Default" color="#ffffff" >Fulfill the task.</font>
 accept_86721_1=<font face="Default" color="#ffffff" >   A mysterious organization has been going around inciting violence in the Central Plains. It may have something to do with Xixia First Class Hall, which disappeared for a long time. Investigate in Tiger Roaring Villa.</font><font face="Default" color="#ffffff" ></font><font face="Default" color="#ffffff" ></font>
-accept_86722_1=<font face="Default" color="#ffffff" >   Zhao Ziji gave up evil and led a secluded life in Twilight Village. </font><font face="Default" color="#ffffff" ></font><font face="Default" color="#ffffff" >Help Qing Li find out why he has reappeared.</font>
 accept_86723_1=<font face="Default" color="#ffffff" >   Amitabha. </font><font face="Default" color="#ffffff" >Some disciple sent a message that the master of a study in Luoyang died mysteriously. The master and his wife had been pilgrims who often visited Shaolin Temple. It happened that Mrs. Shi asked us to help handle this incident. I hope you can go and investigate it.</font>
 complete_86721=<font face="Default" color="#ffffff" >   </font><font face="Default" color="#ffffff" >There's not enough evidence connecting Tiger Roaring Villa with First Class Hall.</font>
 complete_86722=<font face="Default" color="#ffffff" >   Amitabha. Wish Twilight Village could be in peace forever...</font>
 complete_86723=<font face="Default" color="#ffffff" >   If the deceased study master knew it, he could feel relieved and rest in peace. Amitabha...</font>
 context_86721=A mysterious organization has been going around inciting violence in the Central Plains. It may have something to do with Xixia First Class Hall. Investigate in Tiger Roaring Villa.
-context_86722=Zhao Ziji, a well-known assassin, is being harassed by some of his former enemies, led by a descendant of the Han family named Han Sijin. Zhao Ziji is quite well respected by the Shaolin. Go to Twilight Village and help him, along with his fellow villagers.
-context_86723=A letter by pigeon from a Shaolin Disciple in Luoyang reported that the circumstances surrounding the Master of Study in Luoyang were strange indeed. It detailed that several pieces of Red Leaves Letter, saying that the Green Cloud Castle's Butterflies killed people, were left at the scene. The Master and his Wife often visit Shaolin Temple. They now ask Shaolin's help - please go and investigate this matter properly.
 menu_86721_1=<font face="Default" color="#ffffff" >Yes, Abbot.</font>
 menu_86722_1=<font face="Default" color="#ffffff" >I'll do what you ask me </font><font face="Default" color="#ffffff" >to do, Abbot</font><font face="Default" color="#ffffff" >.</font>
 menu_86723_1=<font face="Default" color="#ffffff" >Amitabha. I'll do what you ask me to do, Abbot.</font>
@@ -193,7 +188,6 @@ submit_86722=<font face="Default" color="#ffffff" >Amitabha…</font>
 submit_86723=<font face="Default" color="#ffffff" >Amitabha…</font>
 target_86721=Go to investigate the relationship between Tiger Roaring Villa and First Class Hall.
 target_86722=Handle the incident of Zhao Ziji in Twilight Village properly.
-target_86723=Investigate the incident of butterflies killing people and go through the test of Green Cloud Castle Forbidden Area.
 title_86721=Tiger Roaring in Central Plains
 title_86722=Buddha's Halo in Twilight Village
 title_86723=Green Cloud Castle Mysterios Case
@@ -240,4 +234,10 @@ context_86717=The headmaster of Huanhua Sword Sect has invited Shaolin monks to 
 context_86720=Mount Song Sword Sect have been conspiring with the evil faction. Explain this to all fellow martial artists.
 target_86717=Finish challenging the force of Huanhua Sword Sect.
 target_86720=Accomplish the force challenge to Mount Song Sword Sect.
+accept_86722_1=<font face="Default" color="#ffffff" >   Zhao Ziji gave up evil and led a secluded life in Twilight Village. </font><font face="Default" color="#ffffff" ></font><font face="Default" color="#ffffff" >Help Qing Li find out why he has reappeared.</font>
+context_86704=Zhao Ziji gave up his evil ways and was living in Twilight Village when he rescued a shopkeeper. His former enemies have been coming after him, hurting innocent people. Save the villagers of Twilight Village and resolve the issue of Zhao Ziji.
+context_86709=A letter by pigeon from a Shaolin Disciple in Luoyang reported that the circumstances surrounding the Master of Study in Luoyang were strange indeed. It detailed that several pieces of Red Leaves Letter, saying that the Green Cloud Castle's Butterflies killed people, were left at the scene. The Master and his Wife often visit Shaolin Temple. They now ask Shaolin's help - please go and investigate this matter properly.
+context_86722=Zhao Ziji, a well-known assassin, is being harassed by some of his former enemies, led by a descendant of the Han family named Han Sijin. Zhao Ziji is quite well respected by the Shaolin. Go to Twilight Village and help him, along with his fellow villagers.
+context_86723=A letter by pigeon from a Shaolin Disciple in Luoyang reported that the circumstances surrounding the Master of Study in Luoyang were strange indeed. It detailed that several pieces of Red Leaves Letter, saying that the Green Cloud Castle's Butterflies killed people, were left at the scene. The Master and his Wife often visit Shaolin Temple. They now ask Shaolin's help - please go and investigate this matter properly.
+target_86723=Investigate the incident of butterflies killing people and go through the test of Green Cloud Castle Forbidden Area.
 

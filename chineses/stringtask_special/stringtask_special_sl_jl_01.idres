@@ -109,7 +109,6 @@ okmenu_52618=Divining Taoist let me to ask you that whether you have noticed tha
 okmenu_52619=Divining Taoist let me to ask you that whether you have noticed that the starlike image is not in order.
 okmenu_52620=I see. Then don’t let your guard down.
 okmenu_52621=Careful now, never underestimate your enemy.
-okmenu_52622=Why? You're in no position to challenge him.
 okmenu_52623=Running away won't solve anything. You need to face your fears.
 okmenu_52624=<font face="Default" color="#8fd6ef">Excuse me, you won't be needing this poisoned wine anymore.</font>
 okmenu_52633=<font face="Default" color="#ffffff">Your attempts to control her are pathetic</font><font face="Default" color="#ffffff">. Prepare yourself! </font>
@@ -146,7 +145,6 @@ SubmitNpcEx_84635=Consult <a href="findnpc_new,school04,Qiecuojlg006" style="HLS
 SubmitNpcEx_84636=Tell <a href="findnpc_new,school04,JlgNpc201" style="HLStype1">Lu Qianniang</a> to be careful.
 convoy_talk_84631_1=A girl outside the valley said she came for you.
 convoyinfo_52600=Follow the messenger to find the stranger.
-hunterinfo_52615=There is a disciple of Murong Family whose behavior is creepy. He must be the one who eavesdropped just now. Kill <a href="findnpc_new,city02,monrc013911" style="HLStype1">the disciple of Murong Family.</a>
 interactinfo_52634=Talk to <a href="findnpc_new,school04,JlgNpc202" style="HLStype1">Yin Feng</a>.
 interactinfo_52636=Walk along <a href="findnpc_new,city02,EventNpc84628_2" style="HLStype1">The Way to Suzhou</a> to inquire.
 interactinfo_52641=Talk to <a href="findnpc_new,city02,JlgNpc208" style="HLStype1">Yin Feng</a>.
@@ -269,7 +267,6 @@ storymenu_52607_3=<font face="Default" color="#ffffff" >Are you leaving? </font>
 storymenu_52608_1=<font face="Default" color="#ffffff" >Yin Feng? He lost his right arm because of you! I do not know what happens after that.</font>
 storymenu_52608_2=<font face="Default" color="#ffffff" >So it is</font><font face="Default" color="#ffffff" >......</font>
 storymenu_52609_1=<font face="Default" color="#ffffff" >Did that girl make some mistakes? Can you tell me in details, Dragon Girl?</font>
-DialogID_52639=<font face="Default" color="#ffffff" >That day I wanted to hire a coach back to Suzhou at the Stagecoach and saw Miss Yu attacked by the Murong Family. So I saved her. The move that assassin used was very complex. I’m scared it had something to do with the Murong Family. Miss Yu is resting in her chamber. You can visit her if you’d like. </font>
 DialogID_52653=<font face="Default" color="#ffffff" >Murong Baishi dissipated the Toxic Fog... The Water Valley Leader and Yin Feng... I traded everyone’s safety for the map. Don’t feel sorry. If not for this treasure, our family would not have been broken. It may be better to let it go. Shaoxuan brother... He blocked Murong Baishi’s fatal strike for me...</font>
 hunterinfo_52616=Defeat the <a href="findnpc_new,school04,monrm040107" style="HLStype1">Wanderer's Valley</a> disciples.
 interactinfo_52628=Yu Wanwan does not look good when she leaves. Go to <a href="findnpc_new,school04,EventNpc84628" style="HLStype1">the gate of Wanderer's Valley</a> to persuade her.
@@ -310,4 +307,7 @@ storyinfo_52609=Inquire <a href="findnpc_new,school04,JlgNpc201" style="HLStype1
 useiteminfo_52602=Use <a href="TASK_ITEM,useitem_sl_jl_001" style="HLStype1">Healing Pill</a>, which was obtained from Xue Muren, on <a href="findnpc_new,city02,JlgNpc209" style="HLStype1">Yu Wanwan</a>.
 useiteminfo_52603=Give the <a href="TASK_ITEM,useitem_sl_jl_002" style="HLStype1">Eye Clearing Pill</a> to <a href="findnpc_new,city02,JlgNpc209" style="HLStype1">Yu Wanwan</a>
 useiteminfo_52605=Give the <a href="TASK_ITEM,useitem_sl_jl_002a" style="HLStype1">Eye Clearing Pill</a> to <a href="findnpc_new,city02,JlgNpc209" style="HLStype1">Yu Wanwan</a>
+DialogID_52639=<font face="Default" color="#ffffff" >That day I wanted to hire a coach back to Suzhou at the Stagecoach and saw Miss Yu attacked by the Murong Family. So I saved her. The move that assassin used was very complex. I'm scared it had something to do with the Murong Family. Miss Yu is resting in her chamber. You can visit her if you'd like. </font>
+hunterinfo_52615=There is a disciple of Murong Family whose behavior is creepy. He must be the one who eavesdropped just now. Kill <a href="findnpc_new,city02,monrc013911" style="HLStype1">the disciple of Murong Family.</a>
+okmenu_52622=Why? You're in no position to challenge him.
 

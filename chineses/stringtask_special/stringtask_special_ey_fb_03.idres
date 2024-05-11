@@ -11,7 +11,6 @@ dialogid_33309=I discovered a group of bandits. While tracking them, they notice
 dialogid_33311=I seal some acupoints and apply your herb to my wound. I have staunched the flow of blood.
 dialogid_33312=I heard that those robbers would gather their partnerships to do something bad when I tracked them. I can not allow them to harm people any more. They seemed to go to Coffin House outside of the South Town. Please seek their trace for me.
 dialogid_33313=These evil bandits, don't know how many more families they would kill if it wasn't for you. You are such a righteous person and very powerful. I greatly admire you.
-dialogid_33314=Qian Qinghang said he saw someone murdered and burned in the docks of the East City. Please go have a look.
 dialogid_33315=So Constable Yan asked you to come. It is so good. Are you also a constable?
 dialogid_33316=I don't know. I only saw them kill all the people and burn all the houses that they saw after they got off the boat. I was so scared at that time, so I ferried back at once. When I went afar, I turned round and saw the small fishing village full of flames. It was a terrible scene. I don't know if there's still anyone alive in the village.
 dialogid_33317=Can you go to the fishing village to see whether my relative is still alive?
@@ -23,7 +22,6 @@ dialogid_33322=Thank you for telling me this piece of news. I am glad to know he
 dialogid_33323=Take the key to the box - the treasures inside will be very helpful.
 dialogid_33324=Your skills are good and you are also smart. I think it will be ok if I give it to you.
 dialogid_33325=Seven-Kill resurfacing would worry everyone. I sure hope I don't fall victim.
-dialogid_33326=Seven-Kill was punished for murder, but is now back for revenge.
 dialogid_33328=The battle 8 years ago happened in North-eastern area, if you are interested, you can go and take a look, maybe you'll find some clues. I am also preparing to go and investigate.
 dialogid_33329=I came here just to take a look to see if I can find some evidence of past, but when I arrived I saw this Mysterious Lady. I was just going to ask her if she knows anything, but she started fighting against me without any reason.
 dialogid_33330=I think there must be some reasons. Or you go to ask what happened.
@@ -32,9 +30,7 @@ dialogid_33332=Just kill Shi Shujun for me and I'll tell you the story of the pa
 dialogid_33333=Are you the person my Younger Martial Sister is waiting for?
 dialogid_33334=Good, you have great courage, just don't know if you have the capabilities.
 dialogid_33336=We get news that Zhao Ziji is still alive! He lives in a Fishing Village of Taihu Lake secretly now. In those years he was gone with Seven Kills Order. If you can go to the Fishing Village and take back Seven Kills Order for us, we will let those people off!
-dialogid_33337=Don't worry, killers always keep their promises.
 dialogid_33338=You come back so soon. Have you got Seven-kill Order?
-dialogid_33339=I will be fine, you don't need to worry about me.
 dialogid_33341=Thank you for saving me! I will repay you someday.
 dialogid_33342=They are after us! Run! I'll take them down!
 dialogid_33343=Constable Yan's letter? What's wrong?
@@ -66,14 +62,11 @@ collectinfo_33337=At Twilight Village (Difficult Mode) Zhao Ziji's Home, find th
 collectinfo_33340=Go to Suzhou City's <a href="findnpc,city02,531,354" style="HLStype1">revival herbal hall</a>
 hunterinfo_33302=Help the Fisherman by eliminating those <a href="findnpc,city02,579,526" style="HLStype1">Evil Thugs</a> in the Fish Market.
 hunterinfo_33313=Go to the south of city Coffin House to inquiry <a href="findnpc,city02,362,774" style="HLStype1">Robber</a>'s actual situation.
-hunterinfo_33320=Kill Han Sijin, the leader of the criminals, and revenge for the dead villagers.
 hunterinfo_33328=Go to the great war place <a href="findnpc_new,city02,321,180" style="HLStype1">Shore of Taihu Lake</a> to see whether there is any discovery.
 hunterinfo_33329=There is fighting noise. Go to <a href="findnpc_new,city02,321,180" style="HLStype1">front</a> to see.
 hunterinfo_33331=Compete with Zi Ying
 hunterinfo_33333=In <a href="findnpc,city02,757,856" style="HLStype1">Concealed Place</a> find Evil man Shi Shu and killed him.
-hunterinfo_33334=Defeat the Seven-Kill killer
 hunterinfo_33343=Defeat the Phantom Guards who are chasing after you
-hunterinfo_33349=Defeat the nearby killers of Royal Guards, the Black-clothed Guards
 hunterinfo_33352=Defeat the leader of Black-clothes guard
 hunterinfo_33358=Kill the Royal Guards sword guard
 hunterinfo_33359=Kill the Royal Guards arrow guard
@@ -149,7 +142,6 @@ okmenu_33315=No, I'm only a friend of Captor Yan, this is his letter, you take a
 okmenu_33316=These people are too bad. They even killed villagers unarmed.
 okmenu_33317=Take it easy. I'll handle this.
 okmenu_33318=Thank you for your warning. I will be careful.
-okmenu_33319=I will go and avenge the villagers!
 okmenu_33320=Everything's fine. Let me take care of the villagers' business.
 okmenu_33321=If so. Well. Goodbye!
 okmenu_33322=So sad, go there a bit late.
@@ -188,21 +180,17 @@ story_33316_1=I was afraid something will happen, so I paddled a boat and follo
 story_33316_2=I stopped my boat on the river and watched far away. But in a few moments, Fishing Village was on fire. I knew it had an accident. I was very sacred at that time. So I rocked my boat and left, readied to report a case to the Government.
 story_33316_3=I have to ask you do me a favor, and I'm so grateful.
 story_33326_1=The Seven Killing Sect disappeared eight years ago, and since, peace has been restored. Now, the sect is making a return.
-story_33326_2=I heard the vanishing of the Seven Killing Sect was related to one of their core members.
 story_33326_3=The Seven Killing Sect disappeared after losing a three-day battle by the Tai Lake.
 story_33327_1=Zhao Ziji of the Seven Killing Sect killed many martial arts experts. He is quite skilled.
 story_33327_2=It's more than powerful. His Seven Moves Animitta Sword is shapeless and as fast as lightning. It can kill you with one stroke of sword suddenly.
 story_33327_3=Many died by his hands. People have gone back to the location to find clues, but to no avail.
 story_33327_4=Although the traces of the war have been washed away by the sands of time, we can feel the chi and blood.
-story_33335_1=Zhao Ziji was the most feared killer, and likely the next leader of Seven Killing Sect.
 story_33335_2=A mysterious man put a bounty of all the members of Xi Mountain and we accepted it. The task turned out to be not as easy as it seemed.
-story_33335_3=The aim of our killers is to finish the task at all costs since we accepted it. At that time, Leader ordered that he would grant Seven Kills Order to people who can finish this task. Don't look down upon the . It represents Leader. You will master the power of life and death if you have Seven Kills Order.
 story_33335_4=Zhao Ziji accepted the dangerous task for Seven-kill Order. He completed the task unexpectedly: nearly all people in Han family of Xi Mountain were killed by him? He will be the next leader of the order if the old leader dies.
 story_33335_5=Zhao Ziji forgot about one person in killing the Han family of Xi Mountain - Han Sijin. Sijin aroused many factions to join together in an attack against Zhao Ziji. His death ended the Seven Killing Sect.
 story_33335_6=Not just anyone can offend the Seven Killing Sect. Those in the battle were survivors.
 story_33335_7=Anyone who stands in our way will be killed.
 story_33339_1=This place is dangerous - you should leave.
-story_33339_2=I will be fine, you don't need to worry about me.
 story_33339_3=It is just a small wound. I will be fine.
 story_33345_1=I came here yesterday midnight and got sound ahead. I was curious and went to have a look. I moved to the sound carefully...
 story_33345_2=When I went close, I found many Mysterious People moving toward the west. I didn't think too much then and followed them distantly. They led me to the depth of a forest. Finally, I found their true identities.
@@ -274,4 +262,16 @@ storymenu_33363_1=So I'll capture him and interrogate him?
 storymenu_33363_2=A, even Famous Bandits are writing letters. If they didn't, wouldn't we be notifying them even more.
 useiteminfo_33304=Find <a href="findnpc_new,city02,GatherClone003002" style="HLStype1">Fish Group In the south of the lake </a> and use <a href="TASK_ITEM,useitemclone003005" style="HLStype1">Fishing Net</a> to catch fish.
 SubmitNpcEx_5235=<s>Go back to Suzhou and talk to Chi Hanhui.
+DialogID_33314=Qian Qinghang said he saw someone murdered and burned in the docks of the East City. Please go have a look.
+DialogID_33326=Seven-Kill was punished for murder, but is now back for revenge.
+DialogID_33337=Don't worry, killers always keep their promises.
+DialogID_33339=I will be fine, you don't need to worry about me.
+hunterinfo_33320=Kill Han Sijin, the leader of the criminals, and revenge for the dead villagers.
+hunterinfo_33334=Defeat the Seven-Kill killer
+hunterinfo_33349=Defeat the nearby killers of Royal Guards, the Black-clothed Guards
+okmenu_33319=I will go and avenge the villagers!
+story_33326_2=I heard the vanishing of the Seven Killing Sect was related to one of their core members.
+story_33335_1=Zhao Ziji was the most feared killer, and likely the next leader of Seven Killing Sect.
+story_33335_3=The aim of our killers is to finish the task at all costs since we accepted it. At that time, Leader ordered that he would grant Seven Kills Order to people who can finish this task. Don't look down upon the . It represents Leader. You will master the power of life and death if you have Seven Kills Order.
+story_33339_2=I will be fine, you don't need to worry about me.
 

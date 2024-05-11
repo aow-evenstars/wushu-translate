@@ -11,7 +11,6 @@ submitnpcex_5006=Help the old man to kill Village Head.
 story_menu_31306=My son! Oh no!
 story_31306_1=Ah, where did you get this clothes?
 storymenu_31306_1=Old man, do you know this clothes?
-storymenu_31306_2=What a bunch of beasts! Old man, don't worry, I will revenge you.
 submitnpcex_5007=
 submitnpcex_5009=
 dialogid_31352=
@@ -19,7 +18,6 @@ okmenu_31352=
 collectinfo_31353=Go to as Sect Gang Leader Sha Tianhai for money in Gambing House.
 hunterinfo_31361=Defeat Ye Xiaosheng.
 qiecuotitle_31361=Let me try your martial arts!
-storyinfo_31306=Two sons of Old Man Wang were killed by Village Head, so he begged you to revenge him.
 collectinfo_31364=Go to see what he lost.
 qiecuotitle_31363=Are you coming to make trouble?
 qiecuomenu_31363=Snort, give me your money quickly!
@@ -29,7 +27,6 @@ hunterinfo_31363=Defeat Sha Tianhai.
 hunterinfo_31371=Defeat <a href="findnpc_new,school05,funnpcclone001032" style="HLStype1">Ye Xiaosheng</a>
 qiecuotitle_31371=<font face="Default" color="#ffffff">Let me see what you've got!</font>
 qiecuomenu_31371=<font face="Default" color="#ffffff">Snort, come on!</font>
-hunterinfo_31307=Kill <a href="findnpc_new,school05,enchou_clone01_01" style="HLStype1">Village Head</a> to revenge.
 hunterinfo_31382=Kill <a href="findnpc_new,school05,enchou_clone01_02" style="HLStype1">Poison Snake</a>.
 collectinfo_31383=Kill <a href="findnpc,school05,504,253" style="HLStype1">viper</a> to collect venom of viper.
 hunterinfo_31384=Kill <a href="findnpc_new,school05,enchou_clone01_03" style="HLStype1">Poison Spider</a>.
@@ -47,7 +44,6 @@ collectinfo_31384=Kill <a href="findnpc_new,school05,enchou_clone01_03" style="H
 hunterinfo_31301=Defeat <a href="findnpc_new,city05,funnpcclone001031" style="HLStype1">Sha Tianhai</a>
 interactinfo_31363=Find Secret Device, and pull <a href="findnpc_new,clone001,GatherClone001014" style="HLStype1">Secret Device</a>.
 interactinfo_31306=Talk to <a href="findnpc_new,school05,funnpcclone001033" style="HLStype1">Old Man Wang</a>.
-okmenu_31306=Old man, don't worry, I will revenge you.
 okmenu_31342=OK. I will go ahead right away.
 okmenu_31343=OK.
 interactinfo_31342=Talk to <a href="findnpc_new,school05,funnpcclone001032" style="HLStype1">Ye Xiaosheng</a>.
@@ -82,4 +78,8 @@ story_31306_2=My sons were killed in Peacock Villa and I barely managed to escap
 story_menu_31301=How do you know the matter of Peacock Villa got attacked?
 storyinfo_31301=It is very dangerous in Peacock Villa, so I need to test you first.
 storymenu_31301_1=You don't need to ask anymore, sir. I've already known, so you don't need to hide. I want to enter Peacock Villa.
+hunterinfo_31307=Kill <a href="findnpc_new,school05,enchou_clone01_01" style="HLStype1">Village Head</a> to revenge.
+okmenu_31306=Old man, don't worry, I will revenge you.
+storyinfo_31306=Two sons of Old Man Wang were killed by Village Head, so he begged you to revenge him.
+storymenu_31306_2=What a bunch of beasts! Old man, don't worry, I will revenge you.
 

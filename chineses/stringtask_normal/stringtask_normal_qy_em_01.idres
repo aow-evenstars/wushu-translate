@@ -132,9 +132,7 @@ CompleteMenu_18446=
 CompleteMenu_18447=<font face="Default" color="#ffffff">Headmaster, I have completed my task.</font>
 CompleteMenu_18448=<font face="Default" color="#ffffff">Headmaster, I have completed my task.</font>
 CompleteMenu_18449=
-CompleteMenu_18460=<font face="Default" color="#ffffff">If you're a qualified coroner, could you look over the report from the murder at the foot of Mount Emei? It may be related to the insect poison in Chengdu.</font>
 CompleteMenu_18461=<font face="Default" color="#ffffff">I am back and the investigation's over. </font><font face="Default" color="#ffffff">A preliminary judgment is that the dead man may die of Poison. It's may related to eating rabbit. Some peope who are raleted to the dead man also ate the rabbit last night.</font>
-CompleteMenu_18462=<font face="Default" color="#ffffff">People who ate rabbit with the dead man are all affected by Insect Poison</font><font face="Default" color="#ffffff">.  I have no choice but to kill them.</font>
 CompleteMenu_18463=<font face="Default" color="#ffffff">Eldest Martial Sister, I am back.</font>
 CompleteMenu_18466=<font face="Default" color="#ffffff" >Task Finished!</font>
 CompleteMenu_18467=<font face="Default" color="#ffffff" >Task Finished!</font>
@@ -234,7 +232,6 @@ context_18449=I have heard that Scholar wants to do something harmful to Emei. N
 context_18460=Go to the Chengdu police station and give the autopsy results to that coroner.
 context_18461=A strange Corpse was found in Chengdu City last night. It may be related to the Poison Corpse at the foot of Emei. Go to investigate.
 context_18462=That Unknown Corpse looks terrible and strange. Go to find the three men related to this event and get more information from them.
-context_18463=This event should be investigated as soon as possible.
 context_18466=You have not seen the youngest martial sister for a long time. Go to Erxian Nunnery in Chengdu and see how the the youngest martial sister is.
 context_18467=Youngest martial sister says that many people of Yamen suffer a strange disease. And the Yamen runner comes to Erxian Nunnery to ask for help. However, they only know a little about Medicine. Go to help them.
 context_18468=It is reported from Yamen runner Lv Wen that the fierce man goes toward Golden Needle Sect.
@@ -244,15 +241,11 @@ context_18472=<s>Officer Lv Wen is worried the chief may be missing and hurt. Fi
 context_18481=You have been in Emei for a long time. Eldest Martial Sister Hua Zhenxu wants to test your power. Try to pass her test and let her know you are wonderful.
 context_18482=Go to know more about Flying Crescent Feather Manual from Eldest Martial Sister.
 context_18490=Liu Xiaoman leaves without saying good-bye. The Headmaster feels worried. The Headmaster let all disciples who left the mountain find Liu Xiaoman. Xiaoman asked you to raise a smart bird for her. Maybe it can help to find her.
-context_18491=Although Liu Xiaoman has been found, she refuses to return unless you help her.
 context_18492=You have completed Xiaoman's request. Continue to find Xiaoman and persuade her to go back.
-context_18493=Although Liu Xiaoman has been found, she refuses to return unless you help her.
 context_18494=You have completed Xiaoman's request. Take her back to Emei with all your efforts.
-context_18495=Although Liu Xiaoman has been found, she refuses to return unless you help her.
 context_18496=Take Liu Xiaoman back to Emei with all your efforts. Find her and tie her up if it is necessary.
 context_18500=You have not seen the youngest martial sister for a long time since the last conversation with her. How is she? Go to see what you can do for her.
 context_18501=<s>Abbess Shuijing has got the medicine ready. Take it to Youngest Martial Sister Xiaoman. By the way, ask her what else you can do for her!
-context_18502=<s>Youngest Martial Sister Xiaoman asks you to see how Elder Martial Sister Shi Hua is. And see what you can do for her.
 context_18503=<s>Report the corpse in the gully to the headmaster.
 context_18504=Elder Sister Yu Zhu wants you to find the two missing disciples in the cave of the Back Hill.
 menu_18423_1=<font face="Default" color="#ffffff">Well. I trust you this time and go to ask that man.</font>
@@ -367,7 +360,6 @@ target_18440=Kill the Beasts.
 target_18442=Help Youngest Martial Sister get the Sachet.
 target_18443=Go to find the spy in Tangmen and get more information.
 target_18444=Find Youngest Sister.
-target_18445=Kill the Pheasant and reply to Chen Ba.
 target_18446=Collect the raw materials and make the gunpowder.
 target_18447=Beat <a href="findnpc_new,school06,monm060504" style="HLStype1">the Dull Attendant</a>.
 target_18448=Defeat the <a href="findnpc_new,city05,monc050603" style="HLStype1">Muming Blademan</a>.
@@ -420,7 +412,6 @@ title_18447=Teach the Local Ruffian a Lesson
 title_18448=The League of Extraordinary Gentlemen
 title_18449=The Danger of the Sect
 title_18460=Investigate Insect Poison
-title_18461=Investigate the Homicide Case
 title_18462=Investigate Criminal Suspect
 title_18463=Track the Truth
 title_18466=Visit Youngest Martial Sister
@@ -465,4 +456,13 @@ CompleteMenu_18441=<font face="Default" color="#ffffff">Headmaster, I </font><fo
 context_18441=Huanhua Sword Sect advanced disciples want have a competition with Emei disciples. Go to the competition with the order.
 target_18441=Defeat <a href="findnpc_new,city05,monc051400" style="HLStype1">Huanhua Sword Sect guard</a>.
 title_18441=The Challenge of Huanhua Sword Sect
+CompleteMenu_18460=<font face="Default" color="#ffffff">If you're a qualified coroner, could you look over the report from the murder at the foot of Mount Emei? It may be related to the insect poison in Chengdu.</font>
+CompleteMenu_18462=<font face="Default" color="#ffffff">People who ate rabbit with the dead man are all affected by Insect Poison</font><font face="Default" color="#ffffff">. I have no choice but to kill them.</font>
+context_18463=This event should be investigated as soon as possible.<br><font face="Default" color="#FF0000">Omniscient Scholar Memorandum:</font><br><s><font face="Default" color="#A020F0">After the investigation is completed, you encountered Xiaoman at the gate of Yamen. Xiaoman ran away quickly. Follow her and you see Xiaoman talking to a stranger. You eavesdrop behind a tree. Go up to defeat the Poison Specialist and get the Poisonous Insect Altar. Return to Emei and give it to the big sister to complete the task./font>
+context_18491=Although Liu Xiaoman has been found, she refuses to return unless you help her.<br><font face="Default" color="#FF0000">Omniscient Scholar Memorandum:</font><br><s><font face="Default" color="#A020F0">Defeat one of the following: West City Ruffian, Arrogant Bandit, Rebel Scout and Lord Qin's Residence Killer to fulfill Youngest Martial Sister's wish</font>
+context_18493=Although Liu Xiaoman has been found, she refuses to return unless you help her.<br><font face="Default" color="#FF0000">Omniscient Scholar Memorandum:</font><br><s><font face="Default" color="#A020F0">Defeat one of the following: West City Ruffian, Arrogant Bandit, Rebel Scout and Lord Qin's Residence Killer to fulfill Youngest Martial Sister's wish</font>
+context_18495=Although Liu Xiaoman has been found, she refuses to return unless you help her.<br><font face="Default" color="#FF0000">Omniscient Scholar Memorandum:</font><br><s><font face="Default" color="#A020F0">Defeat one of the following: West City Ruffian, Arrogant Bandit, Rebel Scout and Lord Qin's Residence Killer to fulfill Youngest Martial Sister's wish</font>
+context_18502=Youngest Martial Sister Xiaoman asks you to see how Elder Martial Sister Shi Hua is. And see what you can do for her.<br><font face="Default" color="#FF0000">Omniscient Scholar Memorandum:</font><br><s><font face="Default" color="#A020F0">Xiaoman asked you to check if Shihua is ok. Follow Li Shihua to the ravine next to One-Line-Sky. Jump down (Emei 395 489) to find the mysterious people in the battle. Then walk forward, after attacking three wild wolves (Emei 359 507) will appear a strange mound of earth. Dig the mound you will find something.</font>
+target_18445=Kill the Pheasant and reply to Chen Ba.
+title_18461=Investigate the Homicide Case
 

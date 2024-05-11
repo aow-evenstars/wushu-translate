@@ -49,8 +49,6 @@ hunterinfo_58301=前去燕京僻靜之處尋找擒殺<a href="findnpc_new,city01
 hunterinfo_58302=前去燕京僻靜之處尋找擒殺<a href="findnpc_new,city01,monc020705" style="HLStype1">通緝要犯</a>
 hunterinfo_58303=前去燕京僻靜之處尋找擒殺<a href="findnpc_new,city01,monc020706" style="HLStype1">通緝要犯</a>
 hunterinfo_58304=擊敗<a href="findnpc_new,school01,jyw038" style="HLStype1">錦衣衛弟子</a>，取得切磋勝利
-hunterinfo_58305=擊殺太平村外的<a href="findnpc_new,school01,monrm013905" style="HLStype1">惡鬼門賊徒</a>
-hunterinfo_58306=擊殺前來刑房劫獄的<a href="findnpc_new,school01,monrm013906" style="HLStype1">劫獄者</a>
 hunterinfo_58308=擊敗<a href="findnpc_new,city02,monrm013908" style="HLStype1">韓家打手</a>
 hunterinfo_58309=前往暮色之村禁地，擊敗趙子亟
 hunterinfo_58310=前往<a href="findnpc_new,city04,monrm013909" style="HLStype1">書齋二樓</a>探查一番，兇手可能去而復返，須小心才是
@@ -73,11 +71,9 @@ okmenu_58310=<font face="Default" color="#ffffff" >告辭。</font>
 specialinfo_107=前往各大鏢局，護送兩趟鏢車運轉物資
 specialinfo_108=運一次鏢看來還不夠，再去運鏢一次
 specialinfo_109=完成對徐家莊的勢力挑戰
-specialinfo_110=通關暮色之村禁地（任意難度），擊殺趙子亟
 specialinfo_184=完成對沈家堡的勢力挑戰
 specialinfo_185=完成對沈家堡的勢力挑戰（需完成三次）
 specialinfo_186=完成對沈家堡的勢力挑戰（需完成三次）
-specialinfo_188=通關青雲堡禁地（任意難度）探查蝴蝶殺人的真相
 specialinfo_191=奪回密探的情報，完成門派巡邏任務
 specialinfo_192=完成門派巡邏任務（需完成3次）
 specialinfo_193=完成門派巡邏任務（需完成3次）
@@ -91,7 +87,6 @@ story_58303_2=<font face="Default" color="#ffffff" >   </font><font face="Defaul
 story_58304_1=<font face="Default" color="#ffffff" >   你</font><font face="Default" color="#ffffff" >終於</font><font face="Default" color="#ffffff" >來了，這邊的事情</font><font face="Default" color="#ffffff" >當真棘手的很啊……</font>
 story_58304_2=<font face="Default" color="#ffffff" >   那書齋老闆之死當真神秘，那老闆娘以重金委託我錦衣衛查清此事，可真是馬虎不得啊，接下來你去向對面書齋靈堂那</font><font face="Default" color="#ffffff" >兒</font><font face="Default" color="#ffffff" >守靈的石夫人瞭解下詳情吧。</font>
 story_58305_1=<font face="Default" color="#ffffff" >   嗚嗚嗚……夫君他死的不明不白</font><font face="Default" color="#ffffff" >啊</font><font face="Default" color="#ffffff" >……</font>
-story_58305_2=<font face="Default" color="#ffffff" >   我夫君去世之前原本是要將一疊手札印製成書，上面提到了「青雲堡」「蝴蝶殺人」等等，依我看，那青雲堡怕是難脫干係了……只是那裡一直是江湖禁地，尋常人哪裡敢去……樓上還可能還留有一些</font><font face="Default" color="#ffffff" >手札</font><font face="Default" color="#ffffff" >，不如你前去看看可有幫助？</font>
 story_58306_1=<font face="Default" color="#ffffff" >   什麼！？黑衣人偷襲？難道是兇手去而復返？</font>
 story_58306_2=<font face="Default" color="#ffffff" >   哎……不料我整日戰戰兢兢，有凶人來此</font><font face="Default" color="#ffffff" >，</font><font face="Default" color="#ffffff" >我卻不曾發覺……此事只能拜託你了……</font>
 story_menu_58302=<font face="Default" color="#ffffff" >浣花冷劍</font>
@@ -151,4 +146,9 @@ specialinfo_430=完成對摘星門的勢力挑戰（在五分鐘內通關）
 specialinfo_587=完成浣花山莊的勢力挑戰
 story_58302_1=<font face="Default" color="#ffffff" >   你來了，我可在此久候多時了啊。哎，這些浣花山莊的人自</font><font face="Default" color="#ffffff" >稱</font><font face="Default" color="#ffffff" >名門正派，卻憑地蠻不講理……</font>
 story_58302_2=<font face="Default" color="#ffffff" >   浣花山莊數人因為被不明人物襲擊，並撿到了其掉落的錦衣衛令牌，從而</font><font face="Default" color="#ffffff" >這些天</font><font face="Default" color="#ffffff" >對我錦衣衛弟子頗不客氣，依我看，這是別人在栽贓陷害！我在此繼續調查可疑之處，你且去浣花山莊週遭小心探索一番吧。</font>
+hunterinfo_58305=攻克太平村外的<a href="findnpc_new,school01,monrm013905" style="HLStype1">惡鬼門賊徒</a>
+hunterinfo_58306=攻克前來刑房劫獄的<a href="findnpc_new,school01,monrm013906" style="HLStype1">劫獄者</a>
+specialinfo_110=通關暮色之村禁地（任意難度），攻克趙子亟
+specialinfo_188=通關青雲堡禁地（任意難度）探查蝴蝶攻克的真相
+story_58305_2=<font face="Default" color="#ffffff" >   我夫君去世之前原本是要將一疊手札印製成書，上面提到了「青雲堡」「蝴蝶攻克」等等，依我看，那青雲堡怕是難脫干係了……只是那裡一直是江湖禁地，尋常人哪裡敢去……樓上還可能還留有一些</font><font face="Default" color="#ffffff" >手札</font><font face="Default" color="#ffffff" >，不如你前去看看可有幫助？</font>
 

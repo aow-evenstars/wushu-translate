@@ -10,7 +10,7 @@ DialogID_80008=<font face="Default" color="#ffffff" >This is your second visit, 
 DialogID_80010=<font face="Default" color="#ffffff" >I can show you how to mimic Zu Zhen's every move. You can then pretend to be him, and go back to Yuyao Village. </font><font face="Default" color="#ffffff" >But it's risky...</font>
 DialogID_80011=<font face="Default" color="#ffffff" >The Shaolin </font><font face="Default" color="#ffffff" >will not</font><font face="Default" color="#ffffff" ></font><font face="Default" color="#ffffff" > take this affront lightly.</font><font face="Default" color="#ffffff" >. </font><font face="Default" color="#ffffff" >I'll send some Disciples to Wooden Monk Lane. </font><font face="Default" color="#ffffff" >Good luck and take care.</font>
 DialogID_80013=<font face="Default" color="#ffffff" >I was not match against the assailant. I've been poisoned!</font>
-DialogID_80014=<font face="Default" color="#ffffff" >…………</font>
+DialogID_80014=<font face="Default" color="#ffffff" >...</font>
 DialogID_80016=<font face="Default" color="#ffffff" >How dare you come to my turf like this? Leave Snake Mountain now, or die.</font>
 DialogID_80020=<font face="Default" color="#660000" >(A corpse was burned beyond recognition. Only the tag on his waist enable us to identify him as a younger disciple.)</font>
 DialogID_80021=<font face="Default" color="#ffffff" >zzzZZz…zzZZZzzzz...</font>
@@ -89,7 +89,6 @@ interactinfo_80024=We have gotten the evidence; let's leave this place right awa
 interactinfo_80025=Zu Zhen has showed up now? What should we do? Play it by ear.
 interactinfo_80026=<a href="findnpc_new,city02,npc_4nei_sl_cz" style="HLStype1">Why was the Village Leader</a>'s smile so chilly? Could he have already found out my disguise and has a plan in store for me? Forget about it. Explain why I am here and look for chance to escape.
 interactinfo_80027=It's all or nothing. See what kind of tricks this <a href="findnpc_new,city02,npc_4nei_sl_cz_55005" style="HLStype1">phony Village Leader </a>has.
-interactinfo_80028=<a href="findnpc_new,city02,npc_4nei_sl_yapu_1" style="HLStype1">The mute servant</a>? It's the <a href="findnpc_new,city02,npc_4nei_sl_yapu_1" style="HLStype1">mute servant </a>again? The way the Blade Sharpening Hall deals with things is so cold-blooded. They use people to their fullest and kill them without hesitation afterward. I should play along....
 interactinfo_80029=Since I can't afford a confrontation, I might as well find some rocks in the <a href="findnpc_new,city02,GatherNpc_4nei_sl_55006_1" style="HLStype1">rock pile</a>, and throw them to distract the hidden guards.
 interactinfo_80030=Pick some silkworm cocoons from the <a href="findnpc_new,city02,GatherNpc_4nei_sl_55008" style="HLStype1">silkworm rack in Yuyao Village </a>and see if there's anything unusual about them.
 interactinfo_80031=Find <a href="findnpc_new,city02,GatherNpc_4nei_sl_55011" style="HLStype1">evidence that can confirm Zuzhen's identity.</a>
@@ -177,7 +176,6 @@ interactinfo_80052=I don't think these bandits are capable of pulling off a thef
 interactinfo_80053=The  charges are set. Report to <a href="findnpc_new,school08,WorldNpc00212" style="HLStype1">Abbot Xuanhuai</a>.
 interactinfo_80054=Abbot says it's time? I'll head to the <a href="findnpc_new,school08,Event_5nei_sl_80054" style="HLStype1">agreed upon location </a> to watch the show! (To the left of the stairs is a good spot to hide.)
 interactinfo_80055=I don't think there is anyone who is can take that palm. Just who is this Shaolin Elder? <a href="findnpc_new,school08,npc_5nei_sl_020" style="HLStype1">Abbot</a> is on his way…I'll follow.
-interactinfo_80060=It's rumored Xing Junke and Mo Wuqing are hiding in <a href="findnpc_new,born04,Event_5nei_sl_80060" style="HLStype1">Qiandeng Town</a>. Many assassins are heading that way. Head over and investigate.
 interactinfo_80061=Ask about how to get into the <a href="findnpc,clone032,606,-44,734" style="HLStype1">Qiandeng Incident</a>(Ask Chu Feng about the rules for the Qiandeng Incident)
 interactinfo_80062=Protect Xing Junke and clear the Qiandeng Incident.
 interactinfo_80063=Excellent Chu Xiao. That's why you're one of the Ten Ultimates! Xing Junke and Mo Wuqing must have escaped. Find them<a href="findnpc_new,school06,Event_5nei_sl_80063" style="HLStype1"> immediately</a>.
@@ -213,4 +211,6 @@ useiteminfo_80005=To save his own life, the henchman's leader revealed that  ban
 useiteminfo_80006=These <a href="TASK_ITEM,item_5nei_sl_80006" style="HLStype1">Explosives</a> are very powerful. Bury them somewhere around<a href="findnpc_new,school08,Event_5nei_sl_80006" style="HLStype1">Here</a>. Once they arrive I'll detonate the explosives.
 useiteminfo_80007=Is one bundle of <a href="TASK_ITEM,item_5nei_sl_80006" style="HLStype1">explosives</a> not enough? There's another one <a href="findnpc_new,school08,Event_5nei_sl_80008" style="HLStype1">nearby</a>.
 useiteminfo_80008=Is one unit of <a href="TASK_ITEM,item_5nei_sl_80006" style="HLStype1">Explosives</a> not enough? Just another one <a href="findnpc_new,school08,Event_5nei_sl_80008" style="HLStype1">nearby</a>.
+interactinfo_80028=<a href="findnpc_new,city02,npc_4nei_sl_yapu_1" style="HLStype1">The mute servant</a>? It's the <a href="findnpc_new,city02,npc_4nei_sl_yapu_1" style="HLStype1">mute servant </a>again? The way the Blade Sharpening Hall deals with things is so cold-blooded. They use people to their fullest and kill them without hesitation afterward. I should play along....
+interactinfo_80060=It's rumored Xing Junke and Mo Wuqing are hiding in <a href="findnpc_new,born04,Event_5nei_sl_80060" style="HLStype1">Qiandeng Town</a>. Many assassins are heading that way. Head over and investigate.
 

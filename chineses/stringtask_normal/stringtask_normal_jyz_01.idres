@@ -49,7 +49,6 @@ complete_47019=<font face="Default" color="#ffffff" >Brother Ding has been succe
 complete_47020=<font face="Default" color="#ffffff" >I personally saw your effort. This is your reward.</font>
 complete_47021=<font face="Default" color="#ffffff" >Very good, this is your Reward</font>
 complete_47023=<font face="Default" color="#ffffff" >We must rescue Ding Jiuzhong at all costs</font>
-context_47001=You defeated Leng Qianjue, and found Ding Jiuzhong.
 context_47009=When words got out  that the Imperial Court was to behead Ding Jiuzhong, all the Jianghu factions sprang into action. All Heroes may present their invitation cards to join one of the factions.
 context_47011=Contact the local gang leader, present your invitation card to the Four Great Outlaws, and join the Silent Temple to rescue Ding Jiuzhong.
 context_47012=Contact the local gang leader, present your invitation card to Da Rizong, and join Da Rizong to rescue Ding Jiuzhong.
@@ -72,7 +71,6 @@ menu_47015_1=<font face="Default" color="#ffffff" >Yes, I am ready.</font>
 menu_47016_1=<font face="Default" color="#ffffff" >Yes, I am ready.</font>
 menu_47017_1=<font face="Default" color="#ffffff" >Yes, I am ready.</font>
 menu_47023_1=<font face="Default" color="#ffffff" >I'm sure about this.</font>
-next_47001=You defeated Leng Qianjue, and found the captured Ding Jiuzhong
 next_47009=
 next_47010=
 next_47011=Invitation
@@ -98,7 +96,6 @@ submit_47019=<font face="Default" color="#ffffff" >Fulfill the task.</font>
 submit_47020=<font face="Default" color="#ffffff" >Fulfill the task.</font>
 submit_47021=<font face="Default" color="#ffffff" >Fulfill the task.</font>
 submit_47023=<font face="Default" color="#ffffff" >Fulfill the task.</font>
-target_47001=You defeated Leng Qianjue, and found the captured Ding Jiuzhong
 target_47009=Give your invitation card to gang leader Second Yan, and join the faction.
 target_47011=Find gang leader Second Yan, and join the Silent Temple.
 target_47012=Find gang leader Second Yan, and join Da Rizong.
@@ -129,7 +126,6 @@ CanAcceptMenu_47024=<font face="Default" color="#ffffff" >Famous in Suzhou (The 
 CanAcceptMenu_47025=<font face="Default" color="#ffffff" >CanAcceptMenu_470251</font>
 CompleteMenu_47022=<font face="Default" color="#ffffff" >First News of Duel</font>
 CompleteMenu_47024=<font face="Default" color="#ffffff" >Uh, Councilor Yan, your name precedes you.</font>
-CompleteMenu_47025=<font face="Default" color="#ffffff" >Kill assassin leader</font>
 CompleteMenu_47026=<font face="Default" color="#ffffff" >Ximen Wudi</font>
 accept_47022_1=<font face="Default" color="#ffffff" >You must have heard about the upcoming duel between Xie Junke and Wo Weihuang in the royal Luoyang that has attracted everyone's attention. I am but a servant of the Imperial Court and have been honored with respect in Jianghu and the task of maintaining order in Luoyang. However, there is no silence before the storm. I will not go into details in the book. I would like to invite Jianghu heroes to set aside their differences and disputes between schools and join forces to save Luoyang. </font><font face="Default" color="#ffffff" >I extend my utmost welcome. </font>
 accept_47024_1=<font face="Default" color="#ffffff" >Oh, master, don't be so loud. You tell me if he doesn't just have too much money to burn. He wants to get to know some kid kings and some ruffians. It's actually alright if he get to know them, but then he wants to give them money. Giving them money is still alright, but then he wants me to take care of it for him. I am an honorable butler, don't you think it is despicable for me to do such things? That being said, however, I still have to do my job. If you can do what I said, I will tell the head of our household for you.</font>
@@ -153,10 +149,8 @@ submit_47025=<font face="Default" color="#ffffff" >Complete task</font>
 submit_47026=<font face="Default" color="#ffffff" >Fulfill the task.</font>
 target_47022=Find Lord Qin to get secrets behind the duel.
 target_47024=After accepting the mission, you will be able to meet Wuque Yan as <font color="#993300">a Suzhou child king</font><s><font color="#993300">Suzhou stand owner</font><s><font color="#993300">Suzhou quality worker</font><s><font color="#993300">Suzhou trader</font><s><font color="#993300">Suzhou ruffian</font><s><font color="#993300">Suzhou deputy police officer</font><s><font color="#993300">Suzhou councilman</font><s><font color="#993300">Suzhou elite</font>. <font color="#FF3030">(Tip: Click "Jianghu Stories" under "My Jianghu" on the bottom left. In the opened interface, click "Jianghu Status" and select "Prestigious" to view the requirements of each of the statuses. Only the status obtained after the mission is accepted can satisfy the requirements of the task.)</font>
-target_47026=Kill the man behind the scenes, Ximen Wudi.
 title_47022=First News of Duel
 title_47024=Renowned Suzhou
-title_47025=Kill Assassin Leader
 title_47026=Ximen Wudi
 CanAcceptMenu_47027=<font face="Default" color="#ffffff" >CanAcceptMenu_470271</font>
 CanAcceptMenu_47032=<font face="Default" color="#ffffff" >Where shall we go? (Must form a team with your partner)</font>
@@ -218,19 +212,16 @@ CompleteMenu_47043=<font face="Default" color="#ffffff" >Just some trouble-maker
 accept_47043_1=Strange marks were found on the walls and palaces in Yanjing. The cultists might be responsible for it. Lord Yan asked me to recruit some people to remove all of them. Remove them please. Be careful, because the marks are protected secretly.
 complete_47043=Awesome! Where is the strange note? Could you give the note to me? I'll take it to the Lord Yan.
 context_47043=Strange marks were found on the walls and palaces in Yanjing. The cultists might be responsible for it. Lord Yan is recruiting heroes to remove them and find out their purpose.
-context_47044=The Eight Unconstrained People appear in Jianghu again. Kill Bu Shanzhai and Xiao Mochou.
 menu_47043_1=<font face="Default" color="#ffffff" >I see. It's a piece of cake. I'll challenge them.</font>
 next_47043=Submit Task: Zhao Jian
 submit_47043=<font face="Default" color="#ffffff" >All right. </font>
 target_47043=Find and remove the marks, defeat the protectors and collect the strange notes from them.
-target_47044=Kill Bu Shanzhai and Xiao Mochou
 title_47043=Remove the marks
 title_47044=The Eight Unconstrained People
 context_47010=Hand over your invitation card, receive a Four Great Outlaws Identification Card, and find the Four Great Outlaws' contact, <a href="findnpc,city03,2126.71,7.17,885.31" style="HLStype1">Sixth Yan</a>
 target_47010=Hand over your visiting card, receive a Four Great Outlaws identity badge, and see the Four Great Outlaws' contact, <a href="findnpc_new,city03,world_jyz_sinei_04" style="HLStype1">Sixth Yan.</a>
 CanAcceptMenu_47045=<font face="Default" color="#ffffff" >Ming Shiyue (accept task) </font>
 CompleteMenu_47046=<font face="Default" color="#ffffff" >Hard to trace (task complete)</font>
-CompleteMenu_47048=<font face="Default" color="#ffffff" >Cultist Hirasawa (task complete)</font>
 accept_47045_1=<font face="Default" color="#ffffff" >Trouble is upon us. We need all the help we can get!</font>
 complete_47046=<font face="Default" color="#ffffff" >With these leads, we should be able to locate Ming Shiyue in no time! Good work!</font>
 complete_47048=<font face="Default" color="#ffffff" >You have defeated a most worthy opponent. Here are some items we have recovered from his minions, I hope they can be of use to you.</font>
@@ -246,7 +237,6 @@ target_47048=Defeat the cultist Hirasawa.
 title_47045=Ming Shiyue
 title_47046=Hard to trace
 title_47047=Supply shortage
-title_47048=Eight scattered people of Pyeongtaek
 context_47023=Submit your invitation to receive your Iron Riders Identification Card. Find the Iron Riders representivve <a href="findnpc,city01,1755,-19.5,1231" style="HLStype1">Ninth Yan.</a>
 context_47040=Go to Luoyang (1044,943) and defeat Ye Jinglou. Upon completing the mission, if you did automatically receive your reward, you can go to <a href="findnpc_new,city04,world_jyz_wunei_05" style="HLStype1">Mysterious Yan</a> to claim it.
 next_47040=Defeat Elder Huadi and the others. Then speak with <a href="findnpc_new,city04,world_jyz_wunei_05" style="HLStype1">Mysterious Yan</a> to receive your reward.
@@ -254,10 +244,20 @@ target_47023=Hand over your visiting card, receive an Iron Riders identity badge
 target_47025=Help Lord Qin eliminate the assassins in Luoyang.
 target_47040=Go to Luoyang (1044,943) and defeat Ye Jinglou.
 title_47040=Plague of Luoyang
-CompleteMenu_47018=<font face="Default" color="#ffffff" >Jiang Shangtong is killed.</font>
 complete_47018=<font face="Default" color="#ffffff" >You put tremendous effort into cornering Jiang Shangtong. This is your reward.</font>
-context_47018=Jiang Shangtong is a ferocious fighter. After falling out of favor with the major factions, he joined the imperial army. He is a great threat that must be eliminated by the gathering of outlaws.
-context_47025=The son of Jiang Shangtong has sent assassins to Luoyang. Clear them.
-target_47018=You killed Jiang Shangtong
-title_47018=You killed Jiang Shangtong
+CompleteMenu_47048=<font face="Default" color="#ffffff" >Cultist Huoyun (</font><font face="Default" color="#ffffff" >task complete</font><font face="Default" color="#ffffff" >)</font>
+title_47048=One of the Eight Cultists - Huoyun
+CompleteMenu_47018=<font face="Default" color="#ffffff" >Kill Jiang Ruosheng</font>
+CompleteMenu_47025=<font face="Default" color="#ffffff" >Kill assassin leader</font>
+context_47001=Defeat Leng Qianjue, and find the captured Ding Jiuzhong
+context_47018=Jiang Ruosheng is a ferocious fighter. After falling out of favor with the major factions, he joined the imperial army. He is a great threat that must be eliminated by the gathering of outlaws.
+context_47025=The son of Jiang Ruosheng has sent assassins to Luoyang. Clear them.
+context_47044=The Eight Unconstrained People appear in Jianghu again. Kill Bu Shanzhai and Xiao Mochou.
+next_47001=Defeat Leng Qianjue, and find the captured Ding Jiuzhong
+target_47001=Defeat Leng Qianjue, and find the captured Ding Jiuzhong
+target_47018=Kill Jiang Ruosheng
+target_47026=Kill the man behind the scenes, Ximen Wudi.
+target_47044=Kill Bu Shanzhai and Xiao Mochou
+title_47018=Kill Jiang Ruosheng
+title_47025=Kill Assassin Leader
 

@@ -11,7 +11,6 @@ dialogid_36013=<s>Thank you.
 dialogid_36020=Who is this person?
 dialogid_36021=You should follow the private advisor with me. You won't have to do hard work and will get a basic meal each day.
 dialogid_36022=Okay, you can leave and go to see if Private Advisor needs you.
-dialogid_36024=This way, please. How many guests will come to here?
 dialogid_36025=It turned out that you are sent by Prefecture Magistrate. Come here. I've prepared the dished. They are still hot. Here you are. Remember to give the plates back to us.
 dialogid_36026=I would never charge you for the meal, Lord Prefecture Magistrate. It's an honor to serve you at my restaurant.
 dialogid_36028=It's late. I'm afraid that Lord is hungry. You'd better go back right away.
@@ -33,7 +32,6 @@ qiecuotitle_36001=<s>Why do you have my fan on hand? It turns out that you stole
 qiecuotitle_36002=Why do you hold my woodblock?
 qiecuotitle_36039=How dare you!
 qiecuotitle_36071=Hey, bastard! Taste it!
-qiecuotitle_36072=How could you fight for a wench's favor? If I don't teach you a lesson today, others will look down upon our escort agency.
 submitnpcex_11927=Give the Steamed Stuffed Buns to <a href="findnpc_new,city02,WorldNpc01503" style="HLStype1">Lao Liang</a>
 submitnpcex_11928=Deliver the Steamed Bread to <a href="findnpc_new,city02,WorldNpc01503" style="HLStype1">Lao Liang</a>
 submitnpcex_11929=Cite Di Ren's crimes before <a href="findnpc_new,city02,WorldNpc01244" style="HLStype1">Kuang Zhong</a>
@@ -69,7 +67,6 @@ hunterinfo_36000=Defeat the <a href="findnpc,city02,580,435" style="HLStype1">Se
 hunterinfo_36001=Defeat <a href="findnpc_new,city02,WorldNpc01052" style="HLStype1">Boli Lingmeng</a>
 hunterinfo_36002=Defeat <a href="findnpc_new,city02,WorldNpc01338" style="HLStype1">Wan Miao</a>
 hunterinfo_36039=Fight <a href="findnpc_new,city02,sz398" style="HLStype1">Di Ren</a>
-hunterinfo_36051=Kill the Tangmen Traitor <a href="findnpc,city02,542,1377" style="HLStype1">Madman</a>.
 hunterinfo_36057=Use Western Enchanting Incense to <a href="findnpc_new,city02,WorldNpc01223" style="HLStype1">Huang Lingshu</a> and then tie her and send her to <a href="findnpc_new,city02,WorldNpc01327" style="HLStype1">Murong Sichen</a>.
 hunterinfo_36060=I have finished fabricated a charge against others. I have to hurry to escape from Royal Guards members' pursuing and report it to <a href="findnpc_new,city02,WorldNpc01327" style="HLStype1">Murong Sichen</a>.
 hunterinfo_36071=Defeat <a href="findnpc_new,city02,WorldNpc01042" style="HLStype1">Xue Meng</a>
@@ -164,10 +161,8 @@ story_36064_2=I'm fine. Please help me to find Ke Jun. I will wait for you in th
 story_36067_1=Xue Meng keeps sending me presents even though I've refused him several times. Please take his gift back to him.
 story_36068_1=Are you Lu Xia's lover at present?
 story_36068_2=You! Are you Ke Jun?
-story_36068_3=Who are you to tell me what I can and cannot do? Watch your back, stranger.
 story_36073_1=To kill you would disgrace our agency, so I'll let you off today.
 story_36073_2=Xiaomeng can stand up to Ke Jun in terms of personality and martial arts.
-story_36073_3=A man of honor does not resort to force. If you complete the escort mission, we won't push around Lu Xia any more.
 story_36073_4=A mysterious guest asked me to take this brocade box to the ruins of Xiangyun Mountain outside Yanyu Villa. I accepted the task due to the handsome reward. But this information has been leaked out somehow. Some people cast their greedy eyes on this box. I don't know what in the box is. We can't open it according to the rules. Would you like to escort this box? You will get handsome reward after you succeed in escorting the box.
 story_36076_1=I escaped with the box just to attract those robbers' attention, but it's empty. I hid its contents in the carriage. It was taken away during the chaos just now.
 story_36076_2=There are treasures beyond your imagination in this grave. It must not fall into the wrong hands.
@@ -352,16 +347,6 @@ storymenu_36098_1=Miss Lu, you just restore to heath. You'd better take a good r
 storymenu_36098_2=Who is in charge of Miss Lu's daily life?
 storymenu_36098_3=Oh, never mind. I was just asking.
 useiteminfo_36000=Use <a href="TASK_ITEM,key_book_wx_jh_jwdf05_1" style="HLStype1">the Empty Drawing</a> at the waterside.
-SubmitNpcEx_12000=Report to <a href="findnpc_new,city02,WorldNpc01244" style="HLStype1">Kuang Zhong</a> in Suzhou
-SubmitNpcEx_12001=Report to <a href="findnpc_new,city02,WorldNpc01244" style="HLStype1">Kuang Zhong</a> in Suzhou
-SubmitNpcEx_12002=Report to <a href="findnpc_new,city02,WorldNpc01244" style="HLStype1">Kuang Zhong</a> in Suzhou
-SubmitNpcEx_12004=Report to <a href="findnpc_new,city02,WorldNpc01244" style="HLStype1">Kuang Zhong</a> in Suzhou
-SubmitNpcEx_12005=Report to <a href="findnpc_new,city02,WorldNpc01244" style="HLStype1">Kuang Zhong</a> in Suzhou
-hunterinfo_36087=Arrest the Melting Ghost (Gongye Duan) <font face="Default" color="#FF0000" ></font>
-hunterinfo_36088=Arrest Qin Changying<font face="Default" color="#FF0000" ></font>
-hunterinfo_36089=Arrest Cai Xiaoqing<font face="Default" color="#FF0000" ></font>
-hunterinfo_36091=Arrest Qiu Butong<font face="Default" color="#FF0000" ></font>
-hunterinfo_36092=Arrest Huo Bei<font face="Default" color="#FF0000" ></font>
 QiecuoMenu_36074=I hate others' threatening me most. You've made a serious mistake now. If I have not made you disabled today, I'll follow your name.
 QiecuoTitle_36074=As you don't accept this escort, we should play according to the rules. Lu Xia will sooner or later marry to my follower Xue Meng. AHAAAAAA.
 convoyinfo_36065=You decided to send Lu Xia <a href="findnpc,born03,479,9,911" style="HLStype1">back</a>, and then go and look for Ke Jun.
@@ -533,7 +518,6 @@ storymenu_36005_2=<font face="Default" color="#ffffff" >I'll help you drive him 
 storymenu_36006_1=<font face="Default" color="#ffffff" >That's suspicious! </font><font face="Default" color="#ffffff" >(I'll investigate on it.)</font>
 SubmitNpcEx_11948=Go to the Yanxing Escort Agency and find <a href="findnpc_new,city02,FuncNpc00110" style="HLStype1">Ouyang Cheng</a>
 interactinfo_36115=Judging from Sheriff Ji Songnian's words, Changfeng Escort Agency must have some secrets. Talk with <a href="findnpc_new,city02,npc_qy_luxia_xiaomin_1" style="HLStype1">Xiao Min</a> and spy on <a href="findnpc,city02,379.271,1.779,631.947" style="HLStype1">Changfeng Escort Agency</a>.  (Keep away from the guards in the escort agency.)
-story_36006_1=<font face="Default" color="#ffffff" >Changfeng Escort Agency is famous in Suzhou. Xue Meng has never committed any crime. So we can't stop him.  However, Lu Xia once was a prostitute before. I don't know why he has so much </font><font face="Default" color="#ffffff" >crash</font><font face="Default" color="#ffffff" > on her. </font>
 story_36070_1=You humiliated me in public! You're not leaving without getting a beating first.
 story_menu_36006=<font face="Default" color="#ffffff" >Sheriff!  </font><font face="Default" color="#ffffff" >Why don't you catch Xue Gang? </font>
 storyinfo_36067=<a href="findnpc_new,city02,WorldNpc01999" style="HLStype1">Lu Xia</a> complains to you that Xue Meng from Changfeng Escort Agency usually came to harass her.
@@ -541,10 +525,8 @@ storyinfo_36070=<a href="findnpc_new,city02,WorldNpc01042" style="HLStype1">Xue 
 storymenu_36070_1=If you cannot defeat me, I will destroy your escort agency!
 DialogID_36087=<font face="Default" color="#ffffff" >M, m... monkey! No. I haven't seen anyone with a monkey. But I did see one monkey at Huanhua Sword Sect outside of the city. Maybe the lord wants me for something. </font><font face="Default" color="#ffffff" >Everything I say is true, my lord. Trust me. </font>
 DialogID_36088=<font face="Default" color="#ffffff" >Please show kindness to me, my lord.  In my experience, trained monkeys are always very smart. It would be better use a lure to catch it. This monkey's favorite food is a nut called "Huangdan fruit". Soak the nut in sedatives and then place it where the monkey goes by. Wait for the monkey to eat it and faint. Then you can catch it.  However, the "Huangdan fruit" is pretty rare and not easy to collect. It usually grows on the cliff behind the waterfall. I heard there are some at the waterfall at the rear courtyard of the Nangong Family House. I just wonder why you want to catch the monkey. Did it steal some food from you? </font><font face="Default" color="#ffffff" >(an expression of sadness mixed with anger)</font>
-SubmitNpcEx_12003=Report to <a href="findnpc_new,city02,WorldNpc01244" style="HLStype1">Kuang Zhong</a> in Suzhou
 collectinfo_36081=Collect <a href="findnpc_new,city05,Gather_cwqy_monkeyfood" style="HLStype1">Huangdan fruit</a>. Zhou Xing said that there are some on the waterfall's cliff at the rear courtyard of the Nangong Family House.
 collectinfo_36082=Catch the <a href="findnpc_new,city05,Npc_cwqy_monkey01" style="HLStype1">thieving monkey</a> near the Huanhua Sword Sect.
-hunterinfo_36090=Arrest Zhu Dashou<font face="Default" color="#FF0000" ></font>
 okmenu_36101=<font face="Default" color="#ffffff" >Mistress, I ran into an old man who guided me to come and ask about the whereabouts of the Dugu Nine Swords sword manual.</font>
 story_36200_1=<font face="Default" color="#ffffff" >This story needs to be told from the very beginning.  On the top of Mount Huashan, Dugu Qiubai mediated in solitude for three years, contemplating the mysteries of martial arts. He finally invented a method of defeating the fast with the fast: the Dugu Nine Swords that can defeat all the martial arts skills of all the schools! </font>
 story_36200_2=<font face="Default" color="#ffffff" >Not bad. Dugu Nine Swords has unlimited power. Those who were fortunate to be able to learn this method could dominate Jianghu using this awesome swordfighting skill.  </font>
@@ -553,4 +535,22 @@ collectinfo_36092=What is that thing? It looks like it’s at the Peach Blossom 
 collectinfo_36093=Hurry and look in the big tree in front of Diaohua Building.
 hunterinfo_36055=Go to the Peachblossom Island and look for <a href="findnpc_new,city02,sz325" style="HLStype1">the man who paid the tribute</a>. And then rob the Tributes and report to <a href="findnpc_new,city02,WorldNpc01327" style="HLStype1">Murong Sichen</a>.
 hunterinfo_36056=Go to Tiger Hill Mountain Gate to find <a href="findnpc,city02,835,387" style="HLStype1">Young Master Qianhuan</a>, then go to <a href="findnpc,city02,737,106" style="HLStype1">Yongcui Villa</a> to shift the trouble to Peachblossom Island.
+DialogID_36024=This way, please. How many guests will come here?
+QiecuoTitle_36072=How could you fight for a woman's favor? If I don't teach you a lesson today, others will look down upon our escort agency.
+SubmitNpcEx_12000=Report to <a href="findnpc_new,city02,WorldNpc01244" style="HLStype1">Kuang Zhong</a> in Suzhou
+SubmitNpcEx_12001=Report to <a href="findnpc_new,city02,WorldNpc01244" style="HLStype1">Kuang Zhong</a> in Suzhou
+SubmitNpcEx_12002=Report to <a href="findnpc_new,city02,WorldNpc01244" style="HLStype1">Kuang Zhong</a> in Suzhou
+SubmitNpcEx_12003=Report to <a href="findnpc_new,city02,WorldNpc01244" style="HLStype1">Kuang Zhong</a> in Suzhou
+SubmitNpcEx_12004=Report to <a href="findnpc_new,city02,WorldNpc01244" style="HLStype1">Kuang Zhong</a> in Suzhou
+SubmitNpcEx_12005=Report to <a href="findnpc_new,city02,WorldNpc01244" style="HLStype1">Kuang Zhong</a> in Suzhou
+hunterinfo_36051=Kill the Tangmen Traitor <a href="findnpc,city02,542,1377" style="HLStype1">Madman</a>.
+hunterinfo_36087=Arrest the Melting Ghost (Gongye Duan) <font face="Default" color="#FF0000" ></font>
+hunterinfo_36088=Arrest Qin Changying<font face="Default" color="#FF0000" ></font>
+hunterinfo_36089=Arrest Cai Xiaoqing<font face="Default" color="#FF0000" ></font>
+hunterinfo_36090=Arrest Zhu Dashou<font face="Default" color="#FF0000" ></font>
+hunterinfo_36091=Arrest Qiu Butong<font face="Default" color="#FF0000" ></font>
+hunterinfo_36092=Arrest Huo Bei<font face="Default" color="#FF0000" ></font>
+story_36006_1=<font face="Default" color="#ffffff" >Changfeng Escort Agency is famous in Suzhou. Xue Meng has never committed any crime. So we can't stop him. However, Lu Xia once was a prostitute before. I don't know why he has so much </font><font face="Default" color="#ffffff" >crash</font><font face="Default" color="#ffffff" > on her. </font>
+story_36068_3=Who are you to tell me what I can and cannot do? Watch your back, stranger.
+story_36073_3=A man of honor does not resort to force. If you complete the escort mission, we won't push around Lu Xia any more.
 

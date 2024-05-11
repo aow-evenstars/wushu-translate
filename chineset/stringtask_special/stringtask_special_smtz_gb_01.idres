@@ -49,14 +49,12 @@ SubmitNpcEx_87222=<s>此項任務已完成，回去稟明幫主<a href="findnpc_
 SubmitNpcEx_87223=<s>此項任務已完成，回去稟明幫主<a href="findnpc_new,school02,WorldNpc03003" style="HLStype1">蕭天放</a>
 collectinfo_58701=收集十個精煉護心藥粉（藥師製作而得，也可向其他玩家收購）
 hunterinfo_58701=前往暮色之村，擊敗韓似錦
-hunterinfo_58702=擊殺<a href="findnpc_new,school02,monm020400" style="HLStype1">百花蛇</a>
 hunterinfo_58703=擊敗<a href="findnpc_new,school02,GB_smtz_001" style="HLStype1">佩劍弟子</a>
 hunterinfo_58704=擊敗<a href="findnpc_new,school02,GB_smtz_002" style="HLStype1">嚴志明</a>
 hunterinfo_58705=擊敗<a href="findnpc_new,school02,gb357" style="HLStype1">呂軍</a>
 hunterinfo_58706=擊敗<a href="findnpc_new,school02,gb291" style="HLStype1">喻哲瀚</a>
 hunterinfo_58707=擊敗在此作威作福的<a href="findnpc_new,city02,smtzjy003" style="HLStype1">韓頑石</a>
 hunterinfo_58708=擊敗在此作威作福的<a href="findnpc_new,city02,funnpcclone003104" style="HLStype1">林祥</a>
-hunterinfo_58709=擊退埋伏已久的<a href="findnpc_new,city04,monrc047635" style="HLStype1">黑衣殺手</a>
 hunterinfo_58710=前往暮色之村，將韓似錦擊敗
 interactinfo_58701=與<a href="findnpc_new,school02,WorldNpc03003" style="HLStype1">蕭天放</a>交談
 interactinfo_58702=與<a href="findnpc_new,school02,WorldNpc03012" style="HLStype1">石淨之</a>交談
@@ -112,7 +110,6 @@ story_58703_3=<font face="Default" color="#ffffff" >   </font><font face="Defaul
 story_58704_1=<font face="Default" color="#ffffff" >   哎，</font><font face="Default" color="#ffffff" >你</font><font face="Default" color="#ffffff" >來啦……那書齋老闆夫婦對我丐幫幾位前輩有過粥飯之恩，這次死得不明不白，我們不能置之不理……</font>
 story_58704_2=<font face="Default" color="#ffffff" >   聽石夫人所言，此事應與青雲堡難脫干係了，你還是找她談談，詳細瞭解下吧。</font><font face="Default" color="#ffffff" >她就在對面的書齋靈堂。</font>
 story_58705_1=<font face="Default" color="#ffffff" >   你是……丐幫弟子？難得你們</font><font face="Default" color="#ffffff" >對</font><font face="Default" color="#ffffff" >一粥一飯之恩，都記得那般清楚……只是此事……哎，嗚嗚……</font>
-story_58705_2=<font face="Default" color="#ffffff" >   我夫君去世之前</font><font face="Default" color="#ffffff" >原本是要將一疊手札印製成書</font><font face="Default" color="#ffffff" >，上面提到了「青雲堡」「蝴蝶殺人」等等，依我看，那青雲堡怕是難脫干係了……只是那裡一直是江湖禁地，尋常人哪裡敢去……對了，還有一位丐幫弟子名叫王樂，說是在去青雲堡路上接應你……</font>
 story_58706_1=<font face="Default" color="#ffffff" >   你終於來啦？我</font><font face="Default" color="#ffffff" >在</font><font face="Default" color="#ffffff" >這裡查探已久，越發覺得青雲堡的人神神秘秘，嫌疑怕是越來越大了……</font>
 story_58706_2=<font face="Default" color="#ffffff" >   什麼？想不到參與調查</font><font face="Default" color="#ffffff" >此事</font><font face="Default" color="#ffffff" >的人都會被他們盯上</font><font face="Default" color="#ffffff" >，幕後主使定不簡單</font><font face="Default" color="#ffffff" >……青雲堡離此不遠了，我們要更加小心才是啊……</font>
 story_menu_58701=<font face="Default" color="#ffffff" >見過魯</font><font face="Default" color="#ffffff" >長老，幫主派我來協助調查神秘江湖人一事。</font>
@@ -153,4 +150,7 @@ DialogID_58705=<font face="Default" color="#ffffff" >浣花山莊最近行事詭
 specialinfo_115=成功挑戰百獸莊一次
 specialinfo_116=成功挑戰浣花山莊
 specialinfo_337=完成對嵩山鐵劍門的勢力挑戰
+hunterinfo_58702=攻克<a href="findnpc_new,school02,monm020400" style="HLStype1">百花蛇</a>
+hunterinfo_58709=擊退埋伏已久的<a href="findnpc_new,city04,monrc047635" style="HLStype1">黑衣隱衛</a>
+story_58705_2=<font face="Default" color="#ffffff" >   我夫君去世之前</font><font face="Default" color="#ffffff" >原本是要將一疊手札印製成書</font><font face="Default" color="#ffffff" >，上面提到了「青雲堡」「蝴蝶攻克」等等，依我看，那青雲堡怕是難脫干係了……只是那裡一直是江湖禁地，尋常人哪裡敢去……對了，還有一位丐幫弟子名叫王樂，說是在去青雲堡路上接應你……</font>
 

@@ -302,12 +302,9 @@ SubmitNpcEx_56071=Find Sun Er and earn rewards
 SubmitNpcEx_56072=Find Sun Er and earn rewards
 SubmitNpcEx_56073=Find Tier 5 Internal Skill Guide and earn rewards
 SubmitNpcEx_56074=Find Tier 5 Internal Skill Guide and earn rewards
-hunterinfo_81049=Uncover the secrets of the prison and kill Ao Xinxiong.
-hunterinfo_81060=Defeat <a href="findnpc_new,school06,monm060300" style="HLStype1">Emei Bandits</a>.
 hunterinfo_81061=A <a href="findnpc_new,school06,npc_5n_em_02" style="HLStype1">Poisonous Bug</a> crawled out of the corpse. Kill it.
 hunterinfo_81062=Check for similar <a href="findnpc_new,school06,npc_5n_em_10" style="HLStype1">Poisonous Bugs</a> in the Emei territory.
 hunterinfo_81063=Kill some of the <a href="findnpc_new,school06,monm062504" style="HLStype1">Colorful Spiders</a>.
-hunterinfo_81064=Kill <a href="findnpc_new,school06,npc_5n_em_08" style="HLStype1">Elder Huadi</a>.
 hunterinfo_81065=Defeat the <a href="findnpc_new,city05,monc052700" style="HLStype1">spies</a>.
 hunterinfo_81066=<a href="findnpc_new,city05,monc051600" style="HLStype1">Taoist Huiyan</a> is guarding the entrance. Remove him.
 hunterinfo_81067=The <a href="findnpc_new,city05,npc_5n_zx_13" style="HLStype1">Inner Demon</a> has struck! Fight to restrain the inner demon.
@@ -316,7 +313,6 @@ hunterinfo_81069=Defeat the <a href="findnpc_new,city05,npc_5n_zx_15" style="HLS
 hunterinfo_81070=Defeat the <a href="findnpc_new,city05,npc_5n_zx_16" style="HLStype1">men in black</a>.
 hunterinfo_81071=Defeat the <a href="findnpc_new,city05,monc050102" style="HLStype1">Insect Poison Maniac</a>.
 hunterinfo_81072=Kill some <a href="findnpc_new,city05,monc050101" style="HLStype1">Thin-legged Poisonous Spiders</a>.
-hunterinfo_81500=Uncover the secret of the Prison and kill Gu Yu.
 interactinfo_81060=An <a href="findnpc_new,school06,npc_5n_em_01" style="HLStype1">Emei disciple</a> has collapsed. Check to see if she is ok.
 interactinfo_81061=<a href="findnpc_new,school06,npc_5n_em_11" style="HLStype1">A Li</a> couldn’t have gone far. Hurry up.
 interactinfo_81062=Find <a href="findnpc_new,school06,npc_5n_em_12" style="HLStype1">Lady Huadi</a>.
@@ -339,7 +335,6 @@ interactinfo_81079=See what <a href="findnpc_new,city05,WorldNpc09624" style="HL
 interactinfo_81080=Ask <a href="findnpc_new,city05,cd469" style="HLStype1">Xiao Shanfeng</a> for information.
 interactinfo_81081=<a href="findnpc_new,city05,WorldNpc09836" style="HLStype1">Ni Huan</a> should know something.
 interactinfo_81082=<a href="findnpc_new,city05,WorldNpc09828" style="HLStype1">Pu Ye</a> might be able to tell you something.
-interactinfo_81083=Explore the secret of the Death Prison and kill the mad Gu Yu
 interactinfo_81084=Push the box to the circle of the NPC in front.
 interactinfo_81085=Push the box to the circle of the NPC facing you.
 okmenu_81061=<font face="Default" color="#ffffff" >What you did resulted in Guoguo's death. Now I want you dead. </font>
@@ -375,7 +370,6 @@ story_81426_2=<font face="Default" color="#ffffff" >Some diseases are caused by 
 story_81426_3=<font face="Default" color="#ffffff">Are you buying it or not? It might even make you stronger! </font>
 story_81427_1=<font face="Default" color="#ffffff" >I don't know. Guoguo suddenly fell to the ground and said her stomach was in pain. That it felt like an insect </font><font face="Default" color="#ffffff" > was</font><font face="Default" color="#ffffff" > crawling around inside her. </font>
 story_81428_1=<font face="Default" color="#ffffff" >I</font><font face="Default" color="#ffffff" > feel horrible. Am I dying? </font>
-story_81428_2=<font face="Default" color="#ffffff" >I don't think I can make it. You must avenge me. </font>
 story_81429_1=<font face="Default" color="#ffffff" >Ha ha ha</font><font face="Default" color="#ffffff" >. I am but a walking corpse. Being alive or dead makes no difference to me now.</font>
 story_81429_2=<font face="Default" color="#ffffff" >Longing Becomes Blood</font><font face="Default" color="#ffffff" > is a kind of Insect Poison that controls the human mind. Once consumed, an infected person can be controlled until they die. </font>
 story_81429_3=<font face="Default" color="#ffffff" >Right, the infected person must take temporary cure methods to restrain the insect poison or they will bleed to death. </font>
@@ -519,4 +513,10 @@ storymenu_81449_2=<font face="Default" color="#ffffff" >I agree with Xing. I wil
 storymenu_81450_1=<font face="Default" color="#ffffff" >(Sigh)</font><font face="Default" color="#ffffff" ></font><font face="Default" color="#ffffff" >More work to do. </font>
 storymenu_81045_1=<font face="Default" color="#ffffff" >What? How could it be? </font><font face="Default" color="#ffffff" >It is my fault. </font>
 storymenu_81053_2=<font face="Default" color="#ffffff" >I understand, and I will be responsible for my duty</font>
+hunterinfo_81049=Uncover the secrets of the prison and kill Ao Xinxiong.
+hunterinfo_81060=Defeat <a href="findnpc_new,school06,monm060300" style="HLStype1">Emei Bandits</a>.
+hunterinfo_81064=Kill <a href="findnpc_new,school06,npc_5n_em_08" style="HLStype1">Elder Huadi</a>.
+hunterinfo_81500=Explore the secret of the Death Prison and kill the mad Gu Yu
+interactinfo_81083=Explore the secret of the Death Prison and kill the mad Gu Yu
+story_81428_2=<font face="Default" color="#ffffff" >I don't think I can make it. You must avenge me. </font>
 

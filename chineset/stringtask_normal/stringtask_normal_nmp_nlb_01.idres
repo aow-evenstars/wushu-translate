@@ -129,7 +129,6 @@ accept_21252_1=<font face="Default" color="#ffffff" >我派弟子當互幫互助
 accept_21253_1=<font face="Default" color="#ffffff" >本派弟子基本都</font><font face="Default" color="#ffffff" >擅於</font><font face="Default" color="#ffffff" >研製各類花粉之術，每種花粉都有不同的作用，研製過程需要一些花草的加入研磨才可，現在本派正缺這些花草。你可願幫助本派收集些來？</font>
 accept_21254_1=<font face="Default" color="#ffffff" >大師姐得了一種奇怪的皮膚病，渾身疼痛，皮膚如灼燒一般，需每日塗抹小師妹精心研製的花粉才可消除疼痛感，但此花粉每天只能研製出一點點，因為所需研磨的奇花一天只開一朵。</font><font face="Default" color="#ffffff" >你可願</font><font face="Default" color="#ffffff" >幫大師姐把她採得的奇花送給酷愛煉製花粉的小師妹，並從小師妹處把研磨好的花粉帶回來交給大師姐</font><font face="Default" color="#ffffff" >？</font>
 accept_21255_1=<font face="Default" color="#ffffff" >習武，不僅可以強身，也可以護身，本派弟子需每日去找武藝高強的念蘿壩弟子木慕穆切磋，來提升自己的武藝。木慕穆是念蘿壩比較擅長精研武學之道的弟子，每日和她切磋，都會獲得不一樣的長進！你可以去找她切磋切磋！</font>
-accept_21256_1=<font face="Default" color="#ffffff" >本派</font><font face="Default" color="#ffffff" >周圍</font><font face="Default" color="#ffffff" >山林</font><font face="Default" color="#ffffff" >環繞</font><font face="Default" color="#ffffff" >，常有野獸來襲，傷及不少外出遊行弟子，為了減少這樣的事件發生，需要派你去擊殺這些野獸，你可願意？</font>
 accept_21261_1=<font face="Default" color="#ffffff" >你想打聽什麼？我們說的事情可</font><font face="Default" color="#ffffff" >不</font><font face="Default" color="#ffffff" >是你想知道就知道的</font><font face="Default" color="#ffffff" >。</font>
 accept_21268_1=<font face="Default" color="#ffffff" >你是唐門弟子！你來的正好！</font>
 accept_21273_1=<font face="Default" color="#ffffff" >如果你遇到什麼解決不了的問題，可以拿著令牌來找我，我可以幫你一次。</font>
@@ -267,7 +266,6 @@ context_21252=念蘿壩弟子包打聽為人善良，特別喜愛小動物，某
 context_21253=念蘿壩弟子基本都擅於研製各類花粉之術，每種花粉都有不同的作用，研製過程需要一些花草的加入研磨才可，現在門派正缺這些花草。念蘿壩弟子需每日幫助門派收集來提高自己的門派貢獻。
 context_21254=大師姐得了一種奇怪的皮膚病，渾身疼痛，皮膚如灼燒一般，需每日塗抹小師妹精心研製的花粉才可消除疼痛感，但此花粉每天只能研製出一點點，因為所需研磨的奇花一天只開一朵。可每日幫大師姐把她採得的奇花送給酷愛煉製花粉的小師妹，並從小師妹處把研磨好的花粉帶回來交給大師姐。
 context_21255=習武，不僅可以強身，也可以護身，念蘿壩弟子需每日去找武藝高強的念蘿壩弟子木慕穆切磋，來提升自己的武藝。木慕穆是念蘿壩比較擅長精研武學之道的弟子，每日和她切磋，都會獲得不一樣的長進！
-context_21256=念蘿壩周圍山林環繞，常有野獸來襲，傷及不少外出遊行弟子，為了減少這樣的事件發生，念蘿壩弟子需每日前去擊殺四隻野獸。
 context_21261=在金陵的大街上閒逛，卻偶然聽到幾個官兵在竊竊私語，隱隱聽得「後宮」「婢女」幾字，前去打聽打聽他們在說什麼
 context_21262=居然也有人在打探這件事的消息，卻不知是什麼人，繼續跟蹤下去打探清楚
 context_21263=一路跟隨漂亮女子來到成都，卻看到另外一個其醜無比的人與她吵了起來，前去一看究竟
@@ -481,7 +479,6 @@ target_21252=幫助本派的包打聽把她做的甜點送去林子裡餵給小�
 target_21253=收集5朵斷腸花和5朵苦情花。
 target_21254=幫助大師姐給小師妹送花，並給大師姐拿回花粉。
 target_21255=為了提升自我的武藝，去找武藝高強的<a href="findnpc_new,school15,npc_nlb_ww53" style="HLStype1">木慕穆</a>切磋。
-target_21256=前往念蘿壩（1550，1165）附近擊殺4頭野獸。
 target_21261=看看那幾個官兵在聊什麼
 target_21262=解開謎團
 target_21263=幫助漂亮女子打敗羅星星
@@ -498,7 +495,6 @@ target_21275=協助春麗娘逃出所在地。
 target_21276=好不容易逃了出來，詢問春麗娘是否受傷。
 target_21277=合成藥材
 target_21278=尋找線索
-target_21279=擊殺東廠番子。
 target_21280=加入念蘿壩
 target_21281=加入念蘿壩
 target_21282=加入念蘿壩
@@ -524,15 +520,8 @@ target_21310=將尊主給的邀請函送給其他門派的離開之人。
 target_21311=將尊主給的邀請函送給其他門派的離開之人。
 target_21312=將尊主給的邀請函送給其他門派的離開之人。
 target_21313=教訓造謠中傷本門之<a href="findnpc_new,school02,npc_nlb_ww43" style="HLStype1">念蘿壩叛徒</a>。
-target_21314=擊殺造謠中傷本門之人。
-target_21315=擊殺造謠中傷本門之人。
-target_21316=擊殺造謠中傷本門之人。
-target_21317=擊殺造謠中傷本門之人。
-target_21318=擊殺造謠中傷本門之人。
-target_21319=擊殺造謠中傷本門之人。
 target_21320=收集齊各種藥物。
 target_21321=挑戰男奴並取得成功！
-target_21322=完成門派巡邏，擊殺可疑不明之人。
 target_21323=收集精血。
 target_21324=幫助師門完成任務
 target_21333=幫助可愛的妮妮抓住蝴蝶
@@ -912,4 +901,15 @@ title_21368=採集奇草
 title_21369=採集奇草
 title_21371=找猴子
 title_21372=念蘿壩周常
+accept_21256_1=<font face="Default" color="#ffffff" >本派</font><font face="Default" color="#ffffff" >周圍</font><font face="Default" color="#ffffff" >山林</font><font face="Default" color="#ffffff" >環繞</font><font face="Default" color="#ffffff" >，常有野獸來襲，傷及不少外出遊行弟子，為了減少這樣的事件發生，需要派你去攻克這些野獸，你可願意？</font>
+context_21256=念蘿壩周圍山林環繞，常有野獸來襲，傷及不少外出遊行弟子，為了減少這樣的事件發生，念蘿壩弟子需每日前去攻克四隻野獸。
+target_21256=前往念蘿壩（1550，1165）附近攻克4頭野獸。
+target_21279=攻克東廠番子。
+target_21314=攻克造謠中傷本門之人。
+target_21315=攻克造謠中傷本門之人。
+target_21316=攻克造謠中傷本門之人。
+target_21317=攻克造謠中傷本門之人。
+target_21318=攻克造謠中傷本門之人。
+target_21319=攻克造謠中傷本門之人。
+target_21322=完成門派巡邏，攻克可疑不明之人。
 

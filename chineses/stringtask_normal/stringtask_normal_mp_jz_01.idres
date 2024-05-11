@@ -100,7 +100,6 @@ accept_46018_1=<s>One of our disciples offended Xue Honglie a few days ago. I've
 accept_46021_1=<s>How dare you make such accusations! You have no proof! We Thunderbolt Hall get along with Wanderer's Valley, but we are not part of them in any sort. Ask Lu Yunxiao, he will say the same thing to you.
 accept_46022_1=<s>We Wanderer's Valley have nothing to do with Thunderbolt Hall whatsoever.
 accept_46023_1=<font face="Default" color="#ffffff" >I don’t think it is good. They will try to get rid of anyone who knows the truth.</font>
-accept_46024_1=<s>Assassins are coming for me. Be careful.
 accept_46025_1=<font face="Default" color="#ffffff" >I had been wondering why Thunderbolt Hall turned against us. I never thought it was actually the Wanderer's Valley who is behind all of these. I don't think I have much time left. The only thing that really is on my mind is my long missing sister.</font>
 accept_46026_1=<s>Please...
 accept_46027_1=<s>Xia Wuyou's death is a tragedy. Notify the Tripod Clan about this, using this pigeon.
@@ -110,7 +109,6 @@ accept_46030_1=<s>You Scholars are nothing but stories, excuses, and lies. I wil
 accept_46031_1=<s>Young Hero, Zhang Chi is coming. Be careful!
 accept_46032_1=<s>I've noticed something strange.
 accept_46033_1=<font face="Default" color="#ffffff" >Lu Yunxiao seems like a suspect for this. Several disciples noticed that he visited Xue Honglie frequently. I think he is the hand behind this plot.</font>
-accept_46034_1=<s>You were lucky didn’t get killed. But now you'll end up just like Xia Wuyou.
 accept_46036_1=<s>And keep talking to me. I don't mind the time, but I am sure some other people don't have much time left.
 accept_46037_1=<s>Help Dong Yunbo. I will ask other Brothers and Sisters to help.
 accept_46038_1=<s>I know how the poison works. What Dong Yunbo has in him seems to be some kind of poison from insects. We need to repress the poison as soon as possible. Collect some Insect Palpus Herb the garden outside and we can make the medicine.
@@ -185,7 +183,6 @@ context_46020=<s>Go to protect Dong Yunbo.
 context_46021=<s>Speak to Lu Yunxiao of Wanderer's Valley.
 context_46022=<s>The issues of the Thunderbolt Hall have nothing to do with us Wanderer's Valley.
 context_46023=<s>I'm afraid the Wanderer's Valley has decided to kill those who know the truth. Go to help these people soon.
-context_46024=<s>Xia Wuyou told me that he just got the news that Wanderer's Valley had dispatched some killer to assassinate him. I helped to repel the invading enemies.
 context_46025=<s>Please help Xia Wuyou check if she is his elder sister or not.
 context_46026=<s>Xia Wuyou stopped his breathing. You go to consult the Leader about Xia Yanhu and Xia Wuyou's relationship.
 context_46027=<s>Xia Wuyou is dead, this is a big event. The Leader asked me to use the carrier pigeon to deliver this message to Giant Tripod Sect.
@@ -195,8 +192,6 @@ context_46030=Zhang Chi refused to listen and threatened that he will not give u
 context_46031=<s>Zhang Chi rushed with anger filled up his bosom. Don't let him hurt Dong Yunbo!
 context_46032=<s>Dong Yunbo thinks this matter is very strange and wants to know the explanation.
 context_46033=<s>There is no doubt that the backstage envoy sent by Wanderer's Valley is Xue Honglie. And Mr. Shi Yanbing asks me go ahead to capture Lu Yunxiao.
-context_46034=<s>Lu Yunxiao asks his follower to morganize me. Go to defeat him. Lu Yunxiao wants to kill me by himself. Go to defeat him as well.
-context_46036=<s>I was tricked by Wanderer's Valley's distraction display. Now Wanderer's Valley's killers must have gone to look for Dong Yunbo. I decided to protect him. I passed by the Headmaster's study on my way. So I went inside to report this to the Headmaster.
 context_46037=<s>The Headmaster Xiao Bieqing asked me to protect Dong Yunbo and then gathered other martial brothers and sisters to help me.
 context_46038=<s>Elder Martial Sister Dai concludes that Dong Yunbo should be poisoned by Hundred Insects poison, which is refined by the venom of a hundred poisonous insects. And its poisonousness is extremely severe. The poisonousness must be restricted as soon as possible. The insect palpus herb of Scholar is a must to make antidote. Go to collect some.
 context_46039=<s>Grind these herbs and take them to Dong Yunbo soon.
@@ -232,12 +227,10 @@ menu_46025_1=<font face="Default" color="#ffffff">Please go on.</font>
 menu_46026_1=<font face="Default" color="#ffffff">Lord Xia! Lord Xia! You can't die!</font><font face="Default" color="#8fd6ef">（He died）</font>
 menu_46027_1=<font face="Default" color="#ffffff" >Yes, Headmaster.</font>
 menu_46028_1=<font face="Default" color="#ffffff" >I'm going now.</font>
-menu_46029_1=Lord Xia was attacked and killed by an assassin.
 menu_46030_1=I will find out the truth.
 menu_46031_1=I am here to protect you, Master Dong.
 menu_46032_1=What's wrong?
 menu_46033_1=<font face="Default" color="#ffffff" >I will capture him then.</font>
-menu_46034_1=So it is you who sent the assassin!
 menu_46036_1=You've been distracting me? Damn!
 menu_46037_1=Yes, Headmaster.
 menu_46038_1=<font face="Default" color="#ffffff" >I'm going now.</font>
@@ -392,4 +385,64 @@ context_46040=After seeing the jade plate, Bu Yanyu told out the hidden thing. D
 next_46040=Go to find <a href="findnpc_new,school03,WorldNpc03421" style="HLStype1">Dai Yushu</a>.
 target_46040=Send the jade plate to Dai Yushu.
 context_46015=The whole of Juding Sect was poisoned by Xue Honglie1, report to Shi Yanbing and see what he thinks.
+CanAcceptMenu_46195=That is true, but Yanbing has not been out of Scholars for more than a month, how can he be behind the Penglai attack?
+CanAcceptMenu_46336=Good. Tang He, the protector of your faction, was attacked and killed long ago.
+CanAcceptMenu_46516=Miss Le'er, don't be sad. I know this matter and I am bound to take revenge for Elder Zhou.
+CompleteMenu_46118=Ha ha, things are revealed so you come to tie up the loose ends. It seems that your days are done.
+CompleteMenu_46145=Are you the one who ordered the Bamboo Mist Mountain Villa killers to assassinate?
+CompleteMenu_46186=Mr. Yanbing, the Beggar's Sect Disciples said they don't know about the revenge. They also do not know what happened.
+CompleteMenu_46189=There must be some misunderstanding. Yanbing has not been out of Scholars for more than a month, how can he be behind the attack?
+CompleteMenu_46217=Tie up the loose ends? I am not as useless as the Beggar's Sect Disciples!
+CompleteMenu_46335=Did you know that Tang He was a disguised Silent Temple killer?
+CompleteMenu_46404=Brother, the villa housekeeper wants to kill Mr. Qiandu to take revenge for the Monk!
+CompleteMenu_46520=Do you know that the current Zhou Chong is not Le'er's father? Instead, he is the one who killed her father.
+CompleteMenu_46527=Miss Le'er, the murderer of your father has gone mad. Revenge is up to you.
+CompleteMenu_46547=Do you really see my brother killing?
+accept_46024_1=<s>Assassins are coming for me. Be careful.
+accept_46034_1=<s>You were lucky didn't get killed. But now you'll end up just like Xia Wuyou.
+accept_46121_1=I placed them in my home in the town,. They took the slow poison prepared by Li Chongyang and went unconscious. Let's not talk about that now. I just got a message that the killers of Blissful Forest are heading to Dai Yushu. Go and save your Martial Sister.
+accept_46133_1=<s>Just before being attacked by Tang Jiu, I received information that there is a small camp of Blissful Forest not far away. I was on my way there when Tang Jiu showed up. Now you go kill them to get revenge for Mr. Li!
+accept_46194_1=<s>I sent someone to the place where Beggar's Sect Disciples were attacked to guard the bodies. Please go to check it out.
+accept_46259_1=<s>Those Wanderer's Valley villains stole the food and forced us to surrender to them and join them. We were not willing to comply. They wanted to kill us, but fortunately you saved us, we are really grateful.
+accept_46268_1=<s>If the corrupt officials are not removed, there will be no peace for the people here. You go find those soldiers, lure them out and get rid of them. Take revenge for the betrayed soldiers and the people here! Then come back to Scholars and reply to Xia Yanhu.
+accept_46335_1=The real Tang He is long dead. I am just a Silent Temple killer.
+accept_46336_1=<s>Not long ago I had begun to suspect the true identity of Tang He as well. If you hadn't told us, we would have been kept in the dark by the Secret Association killers. What a shame.
+accept_46338_1=<s>I am now suspected of being the attacker.
+accept_46421_1=Zhuang Qianqi, that old piece of work, betrayed me to save himself. Was he not afraid that Imperial Court would blame him for his crime? I am the General of Imperial Court. You dare to poison me?
+accept_46538_1=<s>What else is there to say? Pay with life for life.
+accept_46545_1=<s>Of course there is a reason for the attack. But you will have to beat me if you want to know.
+complete_46125=It is the Blissful Forest's way of solving problems when things go bad. They are a ruthless bunch. Surely they will come to kill me too! You must save me. I don't want to be killed by them.
+complete_46360=<s>Huh? But is it because of the Emei serial killing?
+complete_46515=<s>Hehe, as a child, you cannot take revenge for your father...
+context_46024=<s>Xia Wuyou told me that he just got the news that Wanderer's Valley had dispatched some killer to assassinate him. I helped to repel the invading enemies.
+context_46034=<s>Lu Yunxiao asks his follower to morganize me. Go to defeat him. Lu Yunxiao wants to kill me by himself. Go to defeat him as well.
+context_46035=<s>Hmph... Jingang Sect and giant cauldron has nothing to do with you. This is none of your business. Don't blame me for killing you. Watch this!
+context_46036=<s>I was tricked by Wanderer's Valley's distraction display. Now Wanderer's Valley's killers must have gone to look for Dong Yunbo. I decided to protect him. I passed by the Headmaster's study on my way. So I went inside to report this to the Headmaster.
+context_46121=I placed them in my home in the town,. They took the slow poison prepared by Li Chongyang and went unconscious. Let's not talk about that now. I just got a message that the killers of Blissful Forest are heading to Dai Yushu. Go and save your Martial Sister.
+context_46133=<s>Just before being attacked by Tang Jiu, I received information that there is a small camp of Blissful Forest not far away. I was on my way there when Tang Jiu showed up. Now you go kill them to get revenge for Mr. Li!
+context_46194=<s>I sent someone to the place where Beggar's Sect Disciples were attacked to guard the bodies. Please go to check it out.
+context_46259=<s>Those Wanderer's Valley villains stole the food and forced us to surrender to them and join them. We were not willing to comply. They wanted to kill us, but fortunately you saved us, we are really grateful.
+context_46268=<s>If the corrupt officials are not removed, there will be no peace for the people here. You go find those soldiers, lure them out and get rid of them. Take revenge for the betrayed soldiers and the people here! Then come back to Scholars and reply to Xia Yanhu.
+context_46335=<s>The real Tang He is long dead. I am just a Silent Temple killer.
+context_46336=<s>Not long ago I had begun to suspect the true identity of Tang He as well. If you hadn't told us, we would have been kept in the dark by the Secret Association killers. What a shame.
+context_46338=<s>I am now suspected of being the attacker.
+context_46421=Zhuang Qianqi, that old piece of work, betrayed me to save himself. Was he not afraid that Imperial Court would blame him for his crime? I am the General of Imperial Court. You dare to poison me?
+context_46538=<s>What else is there to say? Pay with life for life.
+context_46545=<s>Of course there is a reason for the attack. But you will have to beat me if you want to know.
+menu_46029_1=Lord Xia was attacked and killed by an assassin.
+menu_46034_1=So it is you who sent the assassin!
+menu_46118=It's Blissful Forest killer.
+menu_46118_1=It's Blissful Forest killer.
+menu_46191=I also don't believe that Mr. Yanbing was behind the attack.
+menu_46191_1=I also don't believe that Mr. Yanbing was behind the attack.
+menu_46195=Mr. Yanbing is a man of great openness and free will. He would never attack for no reason.
+menu_46195_1=Mr. Yanbing is a man of great openness and free will. He would never attack for no reason.
+target_46107=<s>Kill the Thunder Hall Disciples and get the antidote.
+target_46121=<s>Defeat the Blissful Forest killers.
+target_46202=<s>Defeat the Evil Woman In Green.
+target_46204=<s>Defeat the Wushuang Swordsman and retrieve the manual.
+target_46252=<s>Defeat the official minions and go to Yun Xiangyi.
+title_46135=Retaliate revenge
+title_46136=Retaliate revenge
+title_46137=Retaliate revenge
 

@@ -45,11 +45,9 @@ complete_87217=Have the injured disciples recovered yet?
 complete_87218=If Beggar's Sect disciples duel with Scholar apprentices, their martial arts will be improved.
 complete_87219=<font face="Default" color="#ffffff">Did Miss Huo decide to retire voluntarily? We need to find that out. You can go now.</font>
 context_87200=The Beggar's Sect has tens of thousands of disciples, however due to our growing numbers, we are beginning to run short on supplies. If you can bring some more supplies back to our sect, you will surely earn the respect of our members.
-context_87201=According to our disciples, Zhao Ziji, a well-known assassin, is being harassed by some of his former enemies, led by a descendant of the Han family named Han Sijin. Zhao Ziji is quite well respected by our sect, so we must head down to Twilight Village and help him, along with his fellow villagers.
 context_87202=Various gangs have been joining forces to rob escort carts. As this situation is becoming quite urgent, we'll need to to go to each of the escort agencies and investigate, while providing as much help as possible.
 context_87205=Tianxiang Tea Forest has colluded with bandits. The people in Qiandeng Town have suffered a lot. Here is the order of Beggar's Sect. Don't let Tianxiang Tea Forest have their own way. All Beggar's Sect disciples, go with your fellows and arrest all the members of Tianxiang Tea Forest to avoid more troubles.
 context_87206=Beggar's Sect disciples reported that Wang Xiao of the Royal Guards and Golden Needle Sect Second Young Master Shen Xiyu seem to be very close. Shen Canghai, Xiyu's father, may not  be aware of this. We can't allow the Royal Guards to form this alliance. Go to the Golden Needle Sect, and find out what is really going on.
-context_87207=Our leader has ordered us to help investigate all of the recent deaths in Green Cloud Castle. It appears that most other factions are too afraid to investigate themselves.
 context_87208=To our dismay, some of our disciples have been involved in many recent kidnappings. If we allow this to continue, the problem will only get worse. All of us need to take action, rescue the captives and restore peace to this great land.
 context_87209=Recently, many members of other sects have been trying to steal our intelligence. We can't allow these people to tarnish our reputation! I'll need everyone to patrol and guard the Mountain Gate!
 context_87210=In order to remain prepared for any possible conflict, we try to gather as much intelligence as possible about the other sects. For this reason, I'll need you to head over and investigate the Emei, since we have been noticing some of their older members trying to sneak into our sect. If you can gather anything notable, you will be richly rewarded!
@@ -58,7 +56,6 @@ context_87212=We should gather as much intelligence as we can while keeping our 
 context_87213=The leader has decided to test our martial arts skills at regular intervals. Only those that have passed his test can study more advanced martial arts.
 context_87214=Many unknown men have been seen wandering around within our sect, which has me quite worried. We must uncover their true intentions.
 context_87215=Now it appears that the Salt Gang of Yanyu Villa may be planning something. Please go and investigate.
-context_87216=I've been notified that Tiger Roaring Villa have kidnapped some of our disciples and killed many of the nearby villagers. We definitely cannot stand for such flagrant provocation! We ride for Tiger Roaring Villa immediately.
 context_87218=We have recently reached an agreement with the Scholars to allow us to engage in friendly duels with one another. All of our disciples can participate, though only the winners will be allowed to study one of our unique skills.
 context_87219=Huo Xinran, the daughter of one of our late elders, mysteriously disappeared ten years ago without a single trace. Now one of the visitors today is telling me that he spotted her with the Tangmen.
 submit_87200=It's my pleasure to do work for our sect.
@@ -82,7 +79,6 @@ submit_87218=Leader, you are so right.
 submit_87219=You are wise, my elder.
 submit_87220=<font face="Default" color="#ffffff">Affirmatively obey Leader’s order! </font>
 target_87200=Acquire the required goods.
-target_87201=Attack and kill Han Sijin
 target_87202=Escort once.
 target_87205=Successfully challenged Tianxiang Tea Forest.
 target_87206=Successfully challenged Golden Needle Sect.
@@ -96,7 +92,6 @@ target_87213=Defeat Lv Jun and pass the martial arts test.
 target_87214=Find out the reason why Yu Zhehan came to Beggar's Sect.
 target_87215=Challenge Salt Gang.
 target_87216=Successfully challenge Tiger Roaring Villa.
-target_87217=Kill five Deinagki.
 target_87218=Win from the duel with the apprentices of Scholars.
 target_87219=Ask Yan Zhiming about Huo Xinran's news.
 title_87200=Beggar's Sect Supplies.
@@ -127,14 +122,11 @@ CompleteMenu_87221=<font face="Default" color="#ffffff" >Fulfill the task.</font
 CompleteMenu_87222=<font face="Default" color="#ffffff" >Fulfill the task.</font>
 CompleteMenu_87223=<font face="Default" color="#ffffff" >Fulfill the task.</font>
 accept_87221_1=<font face="Default" color="#ffffff" >   Rumor has it that some mystical organization has been inciting the martial artists in the Central Plains to turn on each other. Just the other day our disciples were attacked by some unknown men whose martial arts style resembled that of the </font><font face="Default" color="#ffffff" >Xixia First Class Hall</font><font face="Default" color="#ffffff" >. Can you investigate this for us?</font>
-accept_87222_1=<font face="Default" color="#ffffff" >   According to our disciples,  Zhao Ziji, a well-known assassin, is being harassed by some of his former enemies, led by a descendant of the Han family named Han Sijin. Zhao Ziji is quite well respected by our sect, so we must head down to Twilight Village and help him, along with his fellow villagers.</font>
 accept_87223_1=<font face="Default" color="#ffffff" >    Beggar's Sect disciples in Luoyang branch reported that the master of a study in Luoyang City died mysteriously. Several elder disciples of our Beggar's Sect had been indebted to the master and his wife for their porridge. Now that he has been killed, we Beggar's Sect cannot let it go and do nothing. I hope you can go and conduct a thorough investigation into this incident and handle it properly.</font>
 complete_87221=<font face="Default" color="#ffffff" >   </font><font face="Default" color="#ffffff" > </font><font face="Default" color="#ffffff" >The history of Tiger Roaring Villa is not quite that simple.</font>
 complete_87222=<font face="Default" color="#ffffff" >   </font><font face="Default" color="#ffffff" > </font><font face="Default" color="#ffffff" >Well done. Our Beggar's Sect disciples must regard righteousness as the most important thing.</font>
 complete_87223=<font face="Default" color="#ffffff" >   May he rest in peace...</font><font face="Default" color="#ffffff" > You did the right thing. You should have some rest.</font>
 context_87221=Rumor has it that some mystical organization has been inciting the martial artists in the Central Plains to turn on each other. Just the other day our disciples were attacked by some unknown men whose martial arts style resembled that of the Xixia First Class Hall. Can you investigate this for us?
-context_87222=According to our disciples, Zhao Ziji, a well-known assassin, is being harassed by some of his former enemies, led by a descendant of the Han family named Han Sijin. Zhao Ziji is quite well respected by our sect, so we must head down to Twilight Village and help him, along with his fellow villagers.
-context_87223=Beggar's Sect disciples in Luoyang branch reported that the master of a study in Luoyang City died mysteriously. There was only a letter composed of several pages about the butterflies of Green Cloud Castle killing people on the scene. Several elder disciples of our Beggar's Sect had been indebted to the master and his wife for their porridge. Now that he has been killed we Beggar's Sect cannot let it go and do nothing. I hope you can go to  Green Cloud Castle and conduct a thorough investigation into this incident and handle it properly.
 menu_87221_1=<font face="Default" color="#ffffff" >I'll do exactly what </font><font face="Default" color="#ffffff" >you </font><font face="Default" color="#ffffff" >asked me to do </font><font face="Default" color="#ffffff" >and start out right now, leader.</font>
 menu_87222_1=<font face="Default" color="#ffffff" >I'll do exactly what you asked me to do, leader.</font>
 menu_87223_1=<font face="Default" color="#ffffff" >I'll do exactly what you asked me to do, leader. </font><font face="Default" color="#ffffff" >I'll go now.</font>
@@ -146,7 +138,6 @@ submit_87222=<font face="Default" color="#ffffff" >You're right.</font>
 submit_87223=<font face="Default" color="#ffffff" >Yes, leader.</font>
 target_87221=Investigate the relationship between Tiger Roaring Villa and First Class Hall
 target_87222=Investigate the case of Suzhou Twilight Village.
-target_87223=Investigate the case of the butterflies of Green Cloud Castle killing people.
 title_87221=Capture Dragon and Tiger
 title_87222=Righteous Act in Twilight Village
 title_87223=Green Cloud Castle Mysterios Case
@@ -164,9 +155,18 @@ complete_87203=So, Beasts Mountain Villa will probably make a concession.
 complete_87220=<font face="Default" color="#ffffff">After this battle, Mount Song Sword Sect would keep quiet for a while. If they dare misbehave themselves again, we won't forgive them!</font>
 context_87203=Many of our disciples are being harassed by members of Beasts Mountain Villa. I'll need you to head over to the villa and issue them a formal warning.
 context_87204=The Huanhua Sword Sect have been aligning themselves with many evil factions, which leaves me to believe that they must be hiding something. Take the order of the Beggar's Sect, and head over to Huanhua Sword Sect to investigate the recent actions of Jiang Zuntang.
-context_87220=Mount Song Sword Sect recently aligned itself with a new evil faction, and have since been attacking our disciples! Do they really think that we are incapable of fighting back?
 submit_87203=I thought the Beasts Mountain Villa must have learnt the lesson.
 target_87203=Successfully challenged Beasts Mountain Villa once.
 target_87204=Successfully challenged the Huanhua Sword Sect.
 target_87220=Accomplish the force challenge to Mount Song Sword Sect.
+accept_87222_1=<font face="Default" color="#ffffff" >   According to our disciples,  Zhao Ziji, a well-known assassin, is being harassed by some of his former enemies, led by a descendant of the Han family named Han Sijin. Zhao Ziji is quite well respected by our sect, so we must head down to Twilight Village and help him, along with his fellow villagers.</font>
+context_87201=According to our disciples, Zhao Ziji, a well-known assassin, is being harassed by some of his former enemies, led by a descendant of the Han family named Han Sijin. Zhao Ziji is quite well respected by our sect, so we must head down to Twilight Village and help him, along with his fellow villagers.
+context_87207=Our leader has ordered us to help investigate all of the recent deaths in Green Cloud Castle. It appears that most other factions are too afraid to investigate themselves.
+context_87216=I've been notified that Tiger Roaring Villa have kidnapped some of our disciples and killed many of the nearby villagers. We definitely cannot stand for such flagrant provocation! We ride for Tiger Roaring Villa immediately.
+context_87220=Mount Song Sword Sect recently aligned itself with a new evil faction, and have since been attacking our disciples! Do they really think that we are incapable of fighting back?
+context_87222=According to our disciples, Zhao Ziji, a well-known assassin, is being harassed by some of his former enemies, led by a descendant of the Han family named Han Sijin. Zhao Ziji is quite well respected by our sect, so we must head down to Twilight Village and help him, along with his fellow villagers.
+context_87223=Beggar's Sect disciples in Luoyang branch reported that the master of a study in Luoyang City died mysteriously. There was only a letter composed of several pages about the butterflies of Green Cloud Castle killing people on the scene. Several elder disciples of our Beggar's Sect had been indebted to the master and his wife for their porridge. Now that he has been killed we Beggar's Sect cannot let it go and do nothing. I hope you can go to Green Cloud Castle and conduct a thorough investigation into this incident and handle it properly.
+target_87201=Kill Han Sijin
+target_87217=Kill five Deinagki.
+target_87223=Investigate the case of the butterflies of Green Cloud Castle killing people.
 

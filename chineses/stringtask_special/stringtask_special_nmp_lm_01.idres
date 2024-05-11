@@ -56,7 +56,6 @@ DialogID_15112=<font face="Default" color="#ffffff" > Thank you for your hard wo
 DialogID_15113=<font face="Default" color="#ffffff" > I'll send Tian Xi to Escort Agency first, you save our injured guy and bring them back.</font><font face="Default" color="#ffffff" > Don't forget</font><font face="Default" color="#ffffff" > checking</font><font face="Default" color="#ffffff" > the</font><font face="Default" color="#ffffff" > identity of</font><font face="Default" color="#ffffff" > those men in black</font><font face="Default" color="#ffffff" >. </font>
 DialogID_15114=<font face="Default" color="#ffffff" > I didn't notice anything suspicious. </font>
 DialogID_15115=<font face="Default" color="#ffffff" > I was knocked down by a man in black and I didn't see anything else. </font>
-DialogID_15116=<font face="Default" color="#ffffff" > I was too busy killing enemies. </font>
 DialogID_15118=<font face="Default" color="#ffffff" > What do you want? </font>
 DialogID_15119=<font face="Default" color="#ffffff" > It's not easy to join the Number One Escort Agency. Let me see. I got it. Someone is targeting one of our escort jobs lately. You might as well warn</font><font face="Default" color="#ffffff" > Leader Zhao</font><font face="Default" color="#ffffff" > about this. You'll definitely get a chance to join Changfeng with his recommendation. </font>
 DialogID_15120=<font face="Default" color="#ffffff" > I've</font><font face="Default" color="#ffffff" > heard</font><font face="Default" color="#ffffff" > something about you. Now</font><font face="Default" color="#ffffff" > I</font><font face="Default" color="#ffffff" > want to check your </font><font face="Default" color="#ffffff" > martial arts</font><font face="Default" color="#ffffff" >.</font><font face="Default" color="#ffffff" > Are you ready? </font>
@@ -370,7 +369,6 @@ interactinfo_15005=Speak with<a href="findnpc_new,city03,newmp_changfeng_007" st
 interactinfo_15006=Help<a href="findnpc_new,city03,lmrc_05" style="HLStype1"> Mr. Wen</a> cook a meal. He'll teach you how to do it.
 interactinfo_15008=Go speak and spar with Di Ling.
 interactinfo_15016=Go meet<a href="findnpc_new,city03,EscortAcceptNpc005" style="HLStype1"> Lei Wanshan</a>
-interactinfo_15017=Protect consignments and defeat those bandits.
 interactinfo_15018=Get the trap devices from<a href="findnpc_new,city01,lmbj_biaoshi_001" style="HLStype1"> Zhang Zhong</a>
 interactinfo_15020=Ask<a href="findnpc_new,city01,WorldNpc04636" style="HLStype1"> those kids</a> if they saw anyone suspicious
 interactinfo_15021=Get silver needles from<a href="findnpc_new,city01,lmbj_biaoshi_001" style="HLStype1"> Zhang Zhong</a>
@@ -389,7 +387,6 @@ interactinfo_15034=Please keep yourself in the blue circle and guard at the gate
 interactinfo_15035=Changfeng Escort Agency sent Escorts to guard<a href="findnpc_new,city02,EventNpc_lmzc_04" style="HLStype1"> The Yan's Garden</a>
 interactinfo_15036=Speak with the Chamberlain Xie Yin (Complete all events regarding<a href="findnpc_new,city02,EventNpc_lmzc_04" style="HLStype1"> The Yan's Garden</a>)
 interactinfo_15037=Head to the warehouse keeper in the lobby and complete guarding task.
-interactinfo_15038=Escort the cavern to Killers' Manor Inn with your teammates<br>(Three classes are required. Play when your team is full so that you can complete the quest smoothly.)
 interactinfo_15039=Go save<a href="findnpc_new,city03,EventNpc_changfeng_zyb_001" style="HLStype1"> Tian Xi</a>
 interactinfo_15040=<a href="findnpc_new,city03,EventNpc_changfeng_zyb_003" style="HLStype1"> stormed out</a>
 interactinfo_15041=Speak with<a href="findnpc_new,city03,newmp_changfeng_007" style="HLStype1"> Di Ling</a>
@@ -494,7 +491,6 @@ interactinfo_15166=Know more news about Suzhou City from<a href="findnpc_new,cit
 interactinfo_15167=Know more news about Suzhou City from Master<a href="findnpc_new,city03,jl006" style="HLStype1"></a>
 interactinfo_15168=Speak with<a href="findnpc_new,," style="HLStype1"></a> the female disciple
 interactinfo_15169=Speak with<a href="findnpc_new,city03,newmp_changfeng_006" style="HLStype1"> Si Nan</a>
-interactinfo_15170=Slay the Cat Burglar
 interactinfo_15171=Tell<a href="findnpc_new,city03,changfeng_zyb_011" style="HLStype1"> Si Nan</a> the whole story
 interactinfo_15172=<a href="findnpc_new,city03,EventNpc_changfeng_zyb_006" style="HLStype1"> Inform Wen Yicheng of it</a>
 interactinfo_15200=Say goodbye to<a href="findnpc_new,city01,newmp_cfrc_guj_010" style="HLStype1"> Jin Yuming (Hermit)</a>
@@ -508,7 +504,6 @@ interactinfo_15227=Speak with<a href="findnpc_new,city03,newmp_changfeng_004" st
 interactinfo_15228=Kill the pirate leader and protect those goods on the ship.
 interactinfo_15229=Find out ten fire spots and put out the fire. Stop Pirates setting on fire. And sink 30 pirate ships.
 interactinfo_15231=Cut off the chain and defeat the pirate leader Xue Kun.
-interactinfo_15232=Kill the Pirates to save the goods.
 interactinfo_15233=Check if you can find<a href="findnpc_new,city01,Event_cfgj_001" style="HLStype1"> the disciples escorting bank notes</a>
 interactinfo_15234=Learn more about<a href="findnpc_new,city01,newmp_cfrc_guj_009" style="HLStype1"> the injured Changfeng disciple</a>
 interactinfo_15235=Help<a href="findnpc_new,city01,newmp_cfrc_guj_009" style="HLStype1"> the injured Changfeng disciple</a> with his escort for Bank Notes
@@ -697,4 +692,9 @@ useiteminfo_15021=Make<a href="TASK_ITEM,item_cfglrm_01" style="HLStype1"> Spiri
 useiteminfo_15100=Clean up<a href="findnpc_new,city04,Event_cfbjgj_001" style="HLStype1"> the courtyard</a> of the branch office in Luoyang with<a href="TASK_ITEM,useitem_cfbj_gj01" style="HLStype1"> the broom</a>
 useiteminfo_15101=Clean up<a href="findnpc_new,city04,Event_cfbjgj_001" style="HLStype1"> the courtyard</a> of the branch office in Jinling with<a href="TASK_ITEM,useitem_cfbj_gj02" style="HLStype1"> the broom</a>
 useiteminfo_15102=Use<a href="TASK_ITEM,use_item_cfbj_rm_03" style="HLStype1"> the mat</a> to worship<a href="findnpc_new,city03,EventNpc_cfbj_09" style="HLStype1"> the flag (Right) on your knees</a>
+DialogID_15116=<font face="Default" color="#ffffff" > I was too busy killing enemies. </font>
+interactinfo_15017=Protect consignments and defeat those bandits.
+interactinfo_15038=Escort the cavern to Killers' Manor Inn with your teammates<br>(Three classes are required. Play when your team is full so that you can complete the quest smoothly.)
+interactinfo_15170=Slay the Cat Burglar
+interactinfo_15232=Kill the Pirates to save the goods.
 

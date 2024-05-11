@@ -145,7 +145,6 @@ origin_326=追魂堂主
 origin_327=奪魄堂主
 origin_328=無影堡主
 origin_330=無影毒王
-origin_331=冷面殺手
 origin_332=唐家巧手
 origin_333=迷魂刺客
 origin_334=捉影刺客
@@ -299,11 +298,7 @@ origin_805=聲名鵲起
 origin_806=鋒芒畢露
 origin_807=揚名立萬
 origin_808=聲名顯赫
-origin_851=兇手
-origin_852=連環殺手
-origin_853=殺人狂
 origin_854=嗜血狂魔
-origin_855=殺人魔王
 origin_856=天殺星
 origin_861=逍遙公子
 origin_862=花叢聖手
@@ -413,7 +408,6 @@ origin_1293=五毒童子
 origin_1294=八臂毒手
 origin_1295=催命毒手
 origin_1296=武林毒王
-origin_1297=殺人毒聖
 origin_1298=毒手閻王
 origin_1299=奪命毒仙
 origin_1301=廚房夥計
@@ -670,7 +664,6 @@ npctype209=隊伍夥伴
 npctype211=鏢師
 npctype217=黑市商人
 npctype220=門派武學師傅
-npctype222=門派戰管理員
 npctype223=師門大會報名官
 npctype224=江湖刺探
 npctype225=黑心人販
@@ -929,7 +922,6 @@ tool_rank_1_pltm=唐門百大內功
 tool_rank_1_pljz=君子百大內功
 tool_rank_1_plgb=丐幫百大內功
 tool_rank_1_bukuai=江湖神捕
-tool_rank_1_tongjifan=江湖兇犯
 tool_rank_2_jl=俠士
 tool_rank_2_el=惡人
 tool_rank_2_fj=狂人
@@ -985,7 +977,6 @@ tool_rank_3_ds_003=五毒童子
 tool_rank_3_ds_004=八臂毒手
 tool_rank_3_ds_005=催命毒手
 tool_rank_3_ds_006=武林毒王
-tool_rank_3_ds_007=殺人毒聖
 tool_rank_3_ds_008=毒手閻王
 tool_rank_3_ds_009=奪命毒仙
 tool_rank_3_ds_010=毒魔亟心
@@ -1284,7 +1275,6 @@ origin_3636=天辰劍尊
 origin_3637=萬劍天尊
 npctype356=門派六內兌換員
 origin_2500=逍遙漁夫
-origin_2501=江湖殺手
 origin_2502=活寶
 origin_2503=俠島遊歷
 origin_2504=江湖捕快
@@ -1435,8 +1425,6 @@ origin_2654=金牌臥底
 origin_2660=初入東海
 origin_2661=四大惡人
 origin_2662=福緣天定
-desc_events_861=東海出世，武林人士紛紛欲前往一探究竟。據說煙雨莊新碼頭有七色寶船往返東海中土之間。然而路途危險，東海附近常有惡鯊出沒，如若遇之，擊殺{@0:當前}/{@1:總數}只鯊魚。
-desc_events_862=巧遇四大惡人圍攻俠者，上前相助俠者攻擊惡人卻被震傷，碰巧吃掉他們正在爭奪的「血靈芝」，功力瞬間大增，使用領悟的「三分歸元」擊殺{@0:當前}/{@1:總數}個惡人。
 desc_events_863=誤食靈草，經脈受損。聽從俠者指引，採集草藥並且製成{@0:當前}/{@1:總數}枚療傷丹藥。
 box_event_51=斷劍重鑄
 box_event_52=魔蓮收集
@@ -1457,8 +1445,6 @@ box_event_66=智者考驗
 box_event_67=書畫收集
 box_event_68=特別嗜好
 box_event_69=玩耍打雜
-box_event_70=擊殺盜寶賊
-box_event_71=擊殺盜寶倭寇
 box_event_72=剿滅內應
 box_event_73=奪回密令
 box_event_74=中級試煉
@@ -1535,14 +1521,12 @@ box_event_163=交還密令
 box_event_164=清音會武
 box_event_165=潛行偷竊
 box_event_166=乘亂偷襲
-box_event_167=暗中刺殺
 box_event_168=安定民生
 box_event_169=懲惡揚善
 box_event_170=蓬萊除奸
 box_event_171=蓬萊除奸
 box_event_172=蓬萊除奸
 box_event_173=蓬萊除奸
-box_event_174=嗜血擊殺
 box_event_175=搗亂次序
 box_event_176=搗亂次序
 box_event_177=搗亂次序
@@ -1588,8 +1572,6 @@ desc_events_66=【智者考驗】在蓬萊島<a href="findnpc_new,scene16,newwor
 desc_events_67=【書畫收集】在蓬萊島<a href="findnpc_new,scene16,newworld_pld216" style="HLStype1">智者老人</a>處回答正確所有問題，獲得一幅字畫上交{@0:當前}/{@1:總數}次
 desc_events_68=【特別嗜好】蓬萊島<a href="findnpc_new,scene16,newworld_pld216" style="HLStype1">智者老人</a>對白虎皮有著特別強烈的收集欲，<a href="findnpc_new,scene16,pld_attnpc001" style="HLStype1">白虎</a>有幾率產出{@0:當前}/{@1:總數}次
 desc_events_69=【玩耍打雜】在蓬萊島上各處搗亂，擊碎物件{@0:當前}/{@1:總數}次
-desc_events_70=【擊殺盜寶賊】在蓬萊島上擊殺闖入四大勢力的盜寶賊{@0:當前}/{@1:總數}次
-desc_events_71=【擊殺盜寶倭寇】在蓬萊島岸邊擊殺闖入的盜寶倭寇{@0:當前}/{@1:總數}次
 desc_events_72=【剿滅內應】與魔劍門<a href="findnpc_new,scene16,newworld_pld207" style="HLStype1">宸印</a>對話，剿滅內應{@0:當前}/{@1:總數}次
 desc_events_73=【奪回密令】與魔劍門<a href="findnpc_new,scene16,newworld_pld207" style="HLStype1">宸印</a>對話，剿滅內應，奪回魔劍門內應弟子身上的密令並且上交{@0:當前}/{@1:總數}次
 desc_events_74=【中級試煉】前去魔劍門與<a href="findnpc_new,scene16,newworld_pld208" style="HLStype1">冷傲</a>對話，進入試煉場地完成魔劍門中級試煉{@0:當前}/{@1:總數}次
@@ -1619,7 +1601,6 @@ desc_events_224=【初訪神月宮】遊歷蓬萊島神月宮區域{@0:當前}/{
 desc_events_101=【尋回頑兔】神月宮長老<a href="findnpc_new,scene16,newworld_pld051" style="HLStype1">紫光</a>兔子走丟，詢問月闕小仙<a href="findnpc_new,scene16,newworld_pld052" style="HLStype1">田穎</a>後尋找，兔子應該去<a href="findnpc_new,scene16,boxnpc_pld_tuzi" style="HLStype1">山崖附近</a>覓食了{@0:數量}/{@1:數量}次
 desc_events_102=【找尋兔食】神月宮長老<a href="findnpc_new,scene16,newworld_pld059" style="HLStype1">紅袖</a>需要萵苣餵食兔子，神月宮<a href="findnpc_new,scene16,Gather_pld_008" style="HLStype1">附近山上</a>也許有。{@0:數量}/{@1:數量}次
 desc_events_103=【初入神月】前去神月宮<a href="findnpc_new,scene16,newworld_pld105" style="HLStype1">煙風</a>處，完成玄鏡初級試煉{@0:數量}/{@1:數量}次
-desc_events_104=【製作畫筆】在字畫商<a href="findnpc_new,scene16,newworld_pld063" style="HLStype1">陳燦</a>處領取制筆工具，前往<a href="findnpc_new,scene16,pld_npc028" style="HLStype1">附近山林</a>處擊殺灰狼獲取狼毛並前往<a href="findnpc_new,scene16,Gather_pld_009" style="HLStype1">竹林</a>處獲取青竹製成毛筆{@0:數量}/{@1:數量}次
 desc_events_105=【獲取認可】前去畫師<a href="findnpc_new,scene16,newworld_pld080" style="HLStype1">方卿</a>處回答問題，全對後獲得其認可交給<a href="findnpc_new,scene16,newworld_pld061" style="HLStype1">顧慶</a>{@0:數量}/{@1:數量}次
 desc_events_106=【港口風景】在畫師<a href="findnpc_new,scene16,newworld_pld084" style="HLStype1">顧東</a>的指導下畫出港口風景{@0:數量}/{@1:數量}次
 desc_events_107=【尋訪隱士】尋找清音壁中的對弈老者<a href="findnpc_new,scene16,newworld_pld102" style="HLStype1">雲翼</a>並與之交談{@0:數量}/{@1:數量}次
@@ -1658,7 +1639,6 @@ desc_events_154=【懲惡揚善】幫助<a href="findnpc_new,scene16,newworld_pl
 desc_events_155=【收集斷劍】收集<a href="findnpc_new,scene16,newworld_pld066" style="HLStype1">斷劍</a>，<a href="findnpc_new,scene16,newworld_pld060" style="HLStype1">顧文（神秘劍客）</a>正在收集蓬萊島上的斷劍{@0:數量}/{@1:數量}次
 desc_events_156=【斷劍重鑄】將五把斷劍交於<a href="findnpc_new,scene16,newworld_pld060" style="HLStype1">顧文（神秘劍客）</a>，讓其重鑄{@0:數量}/{@1:數量}次
 desc_events_158=【徵集斷劍】將收集到的斷劍交於<a href="findnpc_new,scene16,newworld_pld083" style="HLStype1">顧韜（神秘獵戶）</a>,可前往<a href="findnpc_new,scene16,newworld_pld060" style="HLStype1">顧文（神秘劍客）</a>處知曉獲取斷劍方法{@0:數量}/{@1:數量}次
-desc_events_159=【山中除惡】擊殺山中作亂黑熊，將熊皮交於<a href="findnpc_new,scene16,newworld_pld083" style="HLStype1">顧韜（神秘獵戶）</a>{@0:數量}/{@1:數量}次
 desc_events_160=【蓬萊除惡】將在蓬萊島場景內作亂的<a href="findnpc_new,scene16,pld_npc032" style="HLStype1">倭寇</a>擊退{@0:數量}/{@1:數量}次
 desc_events_161=【安定民生】幫助<a href="findnpc_new,scene16,newworld_pld067" style="HLStype1">煞巫</a>將擾亂蓬萊村村民生活的魔頭擊退 {@0:數量}/{@1:數量}次
 desc_events_162=【消除內患】與清音壁長老：<a href="findnpc_new,scene16,newworld_pld233" style="HLStype1">墨子塵（瓊華五娥）</a>對話，剿滅內應{@0:數量}/{@1:數量}次
@@ -1671,7 +1651,6 @@ desc_events_170=【蓬萊除奸】在<a href="findnpc_new,scene16,newworld_pld08
 desc_events_171=【蓬萊除奸】在<a href="findnpc_new,scene16,newworld_pld085" style="HLStype1">藏甄（閬風五子）</a>獲得情報，再前往<a href="findnpc_new,scene16,pld_npc036" style="HLStype1">清音壁</a>處抓捕奸細{@0:數量}/{@1:數量}次
 desc_events_172=【蓬萊除奸】在<a href="findnpc_new,scene16,newworld_pld085" style="HLStype1">藏甄（閬風五子）</a>獲得情報，再前往<a href="findnpc_new,scene16,pld_npc037" style="HLStype1">神月宮</a>處抓捕奸細{@0:數量}/{@1:數量}次
 desc_events_173=【蓬萊除奸】在<a href="findnpc_new,scene16,newworld_pld085" style="HLStype1">藏甄（閬風五子）</a>獲得情報，再前往<a href="findnpc_new,scene16,pld_npc038" style="HLStype1">生死判</a>處抓捕奸細{@0:數量}/{@1:數量}次
-desc_events_174=【嗜血擊殺】完成<a href="findnpc_new,scene16,newworld_pld086" style="HLStype1">顧瑀（神秘殺手）</a> 的囑托逮捕<a href="findnpc_new,scene16,pld_npc039" style="HLStype1">顧翔（村民）</a>{@0:數量}/{@1:數量}次
 desc_events_175=【搗亂次序】在蓬萊村中肆意破壞{@0:數量}/{@1:數量}次
 desc_events_176=【搗亂次序】在蓬萊村中肆意破壞{@0:數量}/{@1:數量}次
 desc_events_177=【搗亂次序】在蓬萊村中肆意破壞{@0:數量}/{@1:數量}次
@@ -1721,28 +1700,20 @@ desc_events_16=
 desc_events_17=
 desc_events_18=
 desc_events_19=【幫助老人】前往蓬萊村幫助<a href="findnpc_new,scene16,newworldpl_zyb_020" style="HLStype1">老人</a>奪回被搶包裹。
-desc_events_20=【擊殺流氓】蓬萊村有流氓在調戲名女，你前去把他尋找出來擊殺。
-desc_events_21=【樂善好施】擊殺蓬萊島上的<a href="findnpc_new,scene16,pld_zyb_009" style="HLStype1">土匪</a>，獲取他們身上的包裹捐給蓬萊村裡的4個乞丐。
 desc_events_22=【尋信佛者】到蓬萊村尋找信佛者，交談完找<a href="findnpc_new,scene16,newworldpl_zyb_034" style="HLStype1">玄海</a>。
 desc_events_24=【化緣】到蓬萊村化緣得到饅頭給<a href="findnpc_new,scene16,newworldpl_zyb_036" style="HLStype1">玄清</a>。
 desc_events_25=【初入蓬萊】進入蓬萊島。
 desc_events_26=【行善】幫助<a href="findnpc_new,scene16,newworldpl_zyb_042" style="HLStype1">魏婆婆</a>喂<a href="findnpc_new,scene16,newworldpl_zyb_041" style="HLStype1">羊</a>。
 desc_events_27=【捕捉野雞】去蓬萊村周圍捕捉<a href="findnpc_new,scene16,boxnpc_zyb_pld001" style="HLStype1">野雞</a>3只交給<a href="findnpc_new,scene16,newworldpl_zyb_043" style="HLStype1">鄭大叔</a>。
-desc_events_28=【擊殺鮫鯊】擊殺鮫鯊。
-desc_events_29=【擊殺虎王】前去蓬萊村附近尋找<a href="findnpc_new,scene16,pld_zyb_012" style="HLStype1">老虎</a>，殺老虎有概率出現虎王，擊殺虎王獲得虎王皮。上繳給<a href="findnpc_new,scene16,newworldpl_zyb_044" style="HLStype1">葉師傅</a>。
 desc_events_31=【調戲民女】調戲蓬萊村的姑娘<a href="findnpc_new,scene16,newworldpl_zyb_046" style="HLStype1">李玉</a>，<a href="findnpc_new,scene16,newworldpl_zyb_047" style="HLStype1">邵淑</a>，<a href="findnpc_new,scene16,newworldpl_zyb_048" style="HLStype1">施恆姣</a>。
 desc_events_33=【破壞座椅】在蓬萊村裡砸座椅和酒缸。
 desc_events_32=【挑戰高手】去挑戰司<a href="findnpc_new,scene16,newworldpl_zyb_049" style="HLStype1">司馬有紹</a><a href="findnpc_new,scene16,newworldpl_zyb_050" style="HLStype1">顓孫康</a><a href="findnpc_new,scene16,newworldpl_zyb_051" style="HLStype1">司策</a>。(需要完成兩次)
 desc_events_34=【武學拓印】獵殺<a href="findnpc_new,scene16,newworldpl_zyb_002" style="HLStype1">武林人士</a>獲得20本武學拓印上繳給<a href="findnpc_new,scene16,newworldpl_zyb_052" style="HLStype1">子車博</a>。(需要完成兩次)
 desc_events_35=【武林秘籍】收集一本<a href="findnpc_new,scene16,pldcj_zyb_001" style="HLStype1">武學秘籍</a>上繳給<a href="findnpc_new,scene16,newworldpl_zyb_053" style="HLStype1">季偉善</a>。
 desc_events_36=【擊退強盜】前往蓬萊村幫助<a href="findnpc_new,scene16,newworldpl_zyb_020" style="HLStype1">老人</a>擊退來搶東西的強盜。
-desc_events_37=【懲奸除惡】擊殺蓬萊村附近的<a href="findnpc_new,scene16,pld_zyb_009" style="HLStype1">土匪</a>和<a href="findnpc_new,scene16,pld_zyb_010" style="HLStype1">山賊</a>。
 desc_events_38=【文學高手】依次挑戰<a href="findnpc_new,scene16,newworldpl_zyb_054" style="HLStype1">季森</a><a href="findnpc_new,scene16,newworldpl_zyb_055" style="HLStype1">宮進</a><a href="findnpc_new,scene16,newworldpl_zyb_056" style="HLStype1">諸葛剛</a>，挑戰成功以後前去找<a href="findnpc_new,scene16,newworldpl_zyb_057" style="HLStype1">袁飛振</a>。
 desc_events_39=【武林高手】找<a href="findnpc_new,scene16,newworldpl_zyb_058" style="HLStype1">慕保中</a><a href="findnpc_new,scene16,newworldpl_zyb_059" style="HLStype1">司寇盛</a><a href="findnpc_new,scene16,newworldpl_zyb_060" style="HLStype1">張震伯</a><a href="findnpc_new,scene16,newworldpl_zyb_061" style="HLStype1">赫連建</a>切磋。
-desc_events_40=【初級生死閣】找<a href="findnpc_new,scene16,newworldpl_zyb_062" style="HLStype1">沉羲</a>開啟挑戰，擊殺最後機關人（頭目）才算完成事件。
-desc_events_41=【中級生死閣】找<a href="findnpc_new,scene16,newworldpl_zyb_063" style="HLStype1">術淵</a>開啟挑戰，擊殺最後機關人（頭目）才算完成事件。
 desc_events_42=【生死判考驗】完成5次【生死腰牌】事件。
-desc_events_43=【懲惡揚善】擊殺20個<a href="findnpc_new,scene16,pld_zyb_022" style="HLStype1">土匪</a>。
 desc_events_44=【生死閣】完成3次【高級生死閣】事件。
 origin_desc_2543=血池問劍鋒芒露<br><br><br><br><br><br>該身份對應行為的冷卻時間為15分鐘
 origin_desc_2544=清壁留聲餘音杳<br><br><br><br><br><br>該身份對應行為的冷卻時間為15分鐘
@@ -1873,12 +1844,10 @@ desc_events_93=【擊退困獸】參與魔劍門-困獸之鬥活動，並且最�
 desc_events_94=【魔門劍令】在魔劍門與<a href="findnpc_new,scene16,newworld_mojianmen_001" style="HLStype1">祈帝（劍主）</a>對話並且上交魔門劍令{@0:當前}/{@1:總數}次
 desc_events_95=【曉勇劍令】在魔劍門與<a href="findnpc_new,scene16,newworld_mojianmen_001" style="HLStype1">祈帝（劍主）</a>對話並且上交驍勇劍令{@0:當前}/{@1:總數}次
 desc_events_166=【乘亂偷襲】擁有秘境令牌後，通過<a href="findnpc_new,scene16,newworld_pld068" style="HLStype1">顧鑫(神秘刺客)</a>進入清音壁活動場景，在顧金（神秘刺客）（172 507）習得方法將長老擊暈{@0:數量}/{@1:數量}次
-desc_events_167=【暗中刺殺】擁有秘境令牌後，通過<a href="findnpc_new,scene16,newworld_pld068" style="HLStype1">顧鑫(神秘刺客)</a>進入清音壁活動場景，搗亂練功弟子（254 473）思緒，阻止其參悟武學{@0:數量}/{@1:數量}次
 desc_events_193=【仙樹奪草】通過<a href="findnpc_new,scene16,newworldpl_guj_009" style="HLStype1">溪風（閬風五子）</a>參加仙樹奪草活動，將被搶奪的藥草交還給尹殷（修真弟子）（154,521），尹殷在活動場景內，只有在活動場景內才能將草藥兌換成桃子{@0:數量}/{@1:數量}次
 desc_events_196=【清音入室】在清音壁掌門<a href="findnpc_new,scene16,newworld_qingyinbi_001" style="HLStype1">神機老人</a>處領取任務，將清音壁-五行試煉任務所得令牌交給<a href="findnpc_new,scene16,newworldpl_guj_022" style="HLStype1">薛仙（修真弟子）</a>{@0:數量}/{@1:數量}次
 desc_events_197=【五行試煉】通過清音壁掌門<a href="findnpc_new,scene16,newworld_qingyinbi_001" style="HLStype1">神機老人</a>進入五行試煉，參加清音壁-五行試煉活動，將守陣長老藏甄(閬風五子)擊敗{@0:數量}/{@1:數量}次
 desc_events_198=【五行破陣】通過清音壁掌門<a href="findnpc_new,scene16,newworld_qingyinbi_001" style="HLStype1">神機老人</a>進入五行試煉，將清音壁-五行試煉活動中所獲得令牌交給<a href="findnpc_new,scene16,newworldpl_guj_022" style="HLStype1">薛仙（修真弟子）</a>{@0:數量}/{@1:數量}次
-desc_events_7=【高級生死閣】找<a href="findnpc_new,scene16,newworldpl_zyb_015" style="HLStype1">紫姣</a>前往生死閣，擊殺最後頭目掉落生死閣令牌，把獲得的生死閣令牌交給<a href="findnpc_new,scene16,newworldpl_zyb_015" style="HLStype1">紫姣</a>。
 origin_desc_2598=凌意破霄滌雲羽<br><br>魔劍門-日常活動困獸之鬥<br>活動時間:15:00-16:00和20:00-21:00<br>活動參與條件：必須獲得劍客身份且每日只可參與一場
 origin_desc_2599=清音碎玉入九天
 origin_desc_2600=冷月棲寒寂空影<br><br>神月宮-日常活動神月大會<br>活動時間:15:00-16:00和20:00-21:00<br>活動參與條件：必須獲得畫匠身份且每日只可參與一場
@@ -1912,8 +1881,6 @@ origin_3734=殤魂蠱主
 origin_3735=腐魄蠱主
 origin_3736=枯神蠱主
 origin_3737=五仙聖主
-desc_events_13=【生死令牌】找<a href="findnpc_new,scene16,newworld_shengsipan_001" style="HLStype1">墨宇</a>參加生死歷練活動，擊殺機關人有概率掉落生死令牌。每次交10枚令牌給<a href="findnpc_new,scene16,newworld_shengsipan_002" style="HLStype1">墨姝</a>，需要上交7次。
-desc_events_14=【生死歷練】找<a href="findnpc_new,scene16,newworld_shengsipan_001" style="HLStype1">墨宇</a>參加生死歷練活動，擊殺7次機關人（頭目）。
 npctype119=百獸莊
 tool_rank_1_lt=封武大會
 tool_rank_4_kq=鳳凰山莊
@@ -1932,5 +1899,76 @@ school_mingjiao=明教
 npctype110_1=明教
 npctype216=幫派物資管理員
 npctype348=門派五內試煉員
-desc_events_30=【擊殺熊王】前去蓬萊村附近尋找<a href="findnpc_new,scene16,pld_zyb_014" style="HLStype1">熊</a>，殺熊有概率出現熊王，擊殺熊王獲得熊王膽。上繳給<a href="findnpc_new,scene16,newworldpl_zyb_045" style="HLStype1">霍師傅</a>。
+school_tianshan=天山派
+origin_10038=川凝弟子
+origin_10039=瑤階弟子
+origin_10003=惜寒弟子
+origin_10004=冷月弟子
+origin_10005=寒霄弟子
+origin_10006=沖霜隱賢
+origin_10007=素濤隱賢
+origin_10008=明磐隱賢
+origin_10009=冰鑒劍客
+origin_10010=天鏡劍客
+origin_10011=風崖劍客
+origin_10012=素清玉使
+origin_10013=冰曇玉使
+origin_10014=蘅雪玉使
+origin_10015=雪域狂俠
+origin_10016=川凝弟子
+origin_10017=瑤階弟子
+origin_10018=惜寒弟子
+origin_10019=冷月弟子
+origin_10020=寒霄弟子
+origin_10021=沖霜隱賢
+origin_10022=素濤隱賢
+origin_10023=明磐隱賢
+origin_10024=冰鑒劍客
+origin_10025=天鏡劍客
+origin_10026=風崖劍客
+origin_10027=素清玉使
+origin_10028=冰曇玉使
+origin_10029=蘅雪玉使
+origin_10030=冰川仙子
+origin_10031=天閣執事
+origin_10032=寒鶩執事
+origin_10033=冰墟執事
+origin_10034=御劍長老
+origin_10035=玄劍長老
+origin_10036=靈劍長老
+origin_10037=天山劍尊
+npctype222=宗派戰管理員
+origin_331=冷面隱衛
+origin_851=隱衛
+origin_852=連環隱衛
+origin_853=攻克狂
+origin_855=攻克魔王
+origin_1297=攻克毒聖
+tool_rank_1_tongjifan=江湖無情之人
+tool_rank_3_ds_007=攻克毒聖
+origin_2501=江湖隱衛
+desc_events_861=東海出世，武林人士紛紛欲前往一探究竟。據說煙雨莊新碼頭有七色寶船往返東海中土之間。然而路途危險，東海附近常有惡鯊出沒，如若遇之，攻克{@0:當前}/{@1:總數}只鯊魚。
+desc_events_862=巧遇四大惡人圍攻俠者，上前相助俠者攻擊惡人卻被震傷，碰巧吃掉他們正在爭奪的「血靈芝」，功力瞬間大增，使用領悟的「三分歸元」攻克{@0:當前}/{@1:總數}個惡人。
+box_event_70=攻克盜寶賊
+box_event_71=攻克盜寶倭寇
+box_event_167=暗中突擊
+box_event_174=嗜血攻克
+desc_events_70=【攻克盜寶賊】在蓬萊島上攻克闖入四大勢力的盜寶賊{@0:當前}/{@1:總數}次
+desc_events_71=【攻克盜寶倭寇】在蓬萊島岸邊攻克闖入的盜寶倭寇{@0:當前}/{@1:總數}次
+desc_events_104=【製作畫筆】在字畫商<a href="findnpc_new,scene16,newworld_pld063" style="HLStype1">陳燦</a>處領取制筆工具，前往<a href="findnpc_new,scene16,pld_npc028" style="HLStype1">附近山林</a>處攻克灰狼獲取狼毛並前往<a href="findnpc_new,scene16,Gather_pld_009" style="HLStype1">竹林</a>處獲取青竹製成毛筆{@0:數量}/{@1:數量}次
+desc_events_159=【山中除惡】攻克山中作亂黑熊，將熊皮交於<a href="findnpc_new,scene16,newworld_pld083" style="HLStype1">顧韜（神秘獵戶）</a>{@0:數量}/{@1:數量}次
+desc_events_167=【暗中突擊】擁有秘境令牌後，通過<a href="findnpc_new,scene16,newworld_pld068" style="HLStype1">顧鑫(神秘刺客)</a>進入清音壁活動場景，搗亂練功弟子（254 473）思緒，阻止其參悟武學{@0:數量}/{@1:數量}次
+desc_events_174=【嗜血攻克】完成<a href="findnpc_new,scene16,newworld_pld086" style="HLStype1">顧瑀（神秘隱衛）</a> 的囑托逮捕<a href="findnpc_new,scene16,pld_npc039" style="HLStype1">顧翔（村民）</a>{@0:數量}/{@1:數量}次
+desc_events_7=【高級生死閣】找<a href="findnpc_new,scene16,newworldpl_zyb_015" style="HLStype1">紫姣</a>前往生死閣，攻克最後頭目掉落生死閣令牌，把獲得的生死閣令牌交給<a href="findnpc_new,scene16,newworldpl_zyb_015" style="HLStype1">紫姣</a>。
+desc_events_20=【攻克流氓】蓬萊村有流氓在調戲名女，你前去把他尋找出來攻克。
+desc_events_21=【樂善好施】攻克蓬萊島上的<a href="findnpc_new,scene16,pld_zyb_009" style="HLStype1">土匪</a>，獲取他們身上的包裹捐給蓬萊村裡的4個乞丐。
+desc_events_28=【攻克鮫鯊】攻克鮫鯊。
+desc_events_29=【攻克虎王】前去蓬萊村附近尋找<a href="findnpc_new,scene16,pld_zyb_012" style="HLStype1">老虎</a>，殺老虎有概率出現虎王，攻克虎王獲得虎王皮。上繳給<a href="findnpc_new,scene16,newworldpl_zyb_044" style="HLStype1">葉師傅</a>。
+desc_events_30=【攻克熊王】前去蓬萊村附近尋找<a href="findnpc_new,scene16,pld_zyb_014" style="HLStype1">熊</a>，殺熊有概率出現熊王，攻克熊王獲得熊王膽。上繳給<a href="findnpc_new,scene16,newworldpl_zyb_045" style="HLStype1">霍師傅</a>。
+desc_events_37=【懲奸除惡】攻克蓬萊村附近的<a href="findnpc_new,scene16,pld_zyb_009" style="HLStype1">土匪</a>和<a href="findnpc_new,scene16,pld_zyb_010" style="HLStype1">山賊</a>。
+desc_events_40=【初級生死閣】找<a href="findnpc_new,scene16,newworldpl_zyb_062" style="HLStype1">沉羲</a>開啟挑戰，攻克最後機關人（頭目）才算完成事件。
+desc_events_41=【中級生死閣】找<a href="findnpc_new,scene16,newworldpl_zyb_063" style="HLStype1">術淵</a>開啟挑戰，攻克最後機關人（頭目）才算完成事件。
+desc_events_43=【懲惡揚善】攻克20個<a href="findnpc_new,scene16,pld_zyb_022" style="HLStype1">土匪</a>。
+desc_events_13=【生死令牌】找<a href="findnpc_new,scene16,newworld_shengsipan_001" style="HLStype1">墨宇</a>參加生死歷練活動，攻克機關人有概率掉落生死令牌。每次交10枚令牌給<a href="findnpc_new,scene16,newworld_shengsipan_002" style="HLStype1">墨姝</a>，需要上交7次。
+desc_events_14=【生死歷練】找<a href="findnpc_new,scene16,newworld_shengsipan_001" style="HLStype1">墨宇</a>參加生死歷練活動，攻克7次機關人（頭目）。
 

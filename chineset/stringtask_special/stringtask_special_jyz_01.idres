@@ -95,8 +95,6 @@ hunterinfo_7508=擊敗楚笑和葉驚樓，與<a href="findnpc_new,city04,world_
 SubmitNpcEx_47043=提交任務：趙際安
 SubmitNpcEx_47044=
 collectinfo_7502=找到燕京城牆、宮殿上的印記，清除（點擊）它們，擊敗保護印記的人，收集他們身上的奇怪紙條
-interactinfo_7509=先去（燕京472 954）處擊殺步閃翟、蕭莫愁，再去（燕京432 650）城門處尋找守衛武為熊領取獎勵
-interactinfo_7510=擊殺蕭莫愁，後去燕京（416 348）捕快趙際安處領取獎勵
 DialogID_7512=<font face="Default" color="#ffffff" >我在這些魔教弟子的身上發現一封密信！</font>
 SubmitNpcEx_47046=將收集的線索帶給<a href="findnpc_new,city03,world_jyz_6n_01" style="HLStype1">公羊勝</a>
 SubmitNpcEx_47047=<a href="findnpc_new,,world_jyz_6n_03" style="HLStype1">world_jyz_6n_03</a>
@@ -121,7 +119,9 @@ storymenu_7503_1=<font face="Default" color="#ffffff" >告辭！</font>
 useiteminfo_7501=查看<a href="TASK_ITEM,useitem_jyz_6n_01" style="HLStype1">密信</a>的內容
 SubmitNpcEx_47015=回見<a href="findnpc,city01,1757.00,-19.2,1230.00" style="HLStype1">嚴十九</a>
 SubmitNpcEx_47017=回見<a href="findnpc,city05,1042.00,33.9,448.00" style="HLStype1">嚴十七</a>
-hunterinfo_7505=擊殺刺客首領
 hunterinfo_7506=擊敗葉驚樓，與<a href="findnpc_new,city04,world_jyz_wunei_05" style="HLStype1">神秘嚴</a>對話領取獎勵
-hunterinfo_7504=擊殺江若生
+hunterinfo_7504=攻克江若生
+hunterinfo_7505=攻克刺客首領
+interactinfo_7509=先去（燕京472 954）處攻克步閃翟、蕭莫愁，再去（燕京432 650）城門處尋找守衛武為熊領取獎勵
+interactinfo_7510=攻克蕭莫愁，後去燕京（416 348）捕快趙際安處領取獎勵
 

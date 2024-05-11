@@ -131,7 +131,6 @@ accept_21252_1=<font face="Default" color="#ffffff" > Disciples in our school lo
 accept_21253_1=<font face="Default" color="#ffffff" > Our disciples are generally quite</font><font face="Default" color="#ffffff" > good at</font><font face="Default" color="#ffffff" > various Pollen Distillation skills. Now we are in short of some herbs that will be used in the grinding process. Could you help up pick up some? </font>
 accept_21254_1=<font face="Default" color="#ffffff" > The elder sister got a weird dermatosis and it could alleviate the pain by smearing the well-refined pollen made by a Young Martial Sister. Unfortunately, only one bud on a scape will bloom per day. </font><font face="Default" color="#ffffff" > Could you</font><font face="Default" color="#ffffff" > send the flower to the Young Martial Sister who will later make the pollen? Also after it's done, bring the refined pollen to the Elder Sister</font><font face="Default" color="#ffffff" >. </font>
 accept_21255_1=<font face="Default" color="#ffffff" > Disciples in our school need to spar with Mu Mumu everyday to improve their martial arts skills. Mu Mumu is an expert of Nianluo Dam. You'll definitely learn a lot by sparring with her. You may challenge her now. </font>
-accept_21256_1=<font face="Default" color="#ffffff" > Surrounded by</font><font face="Default" color="#ffffff" >  mountains and forest</font><font face="Default" color="#ffffff" >,</font><font face="Default" color="#ffffff" > we were occasionally attacked</font><font face="Default" color="#ffffff" > by Beasts. To prevent such accidents, we need you to kill some of those beasts. Will you? </font>
 accept_21261_1=<font face="Default" color="#ffffff" > What do you want to know? </font><font face="Default" color="#ffffff" > There's no way</font><font face="Default" color="#ffffff" > we will tell you</font><font face="Default" color="#ffffff" >. </font>
 accept_21268_1=<font face="Default" color="#ffffff" > You are from Tangmen. You've come at the right time! </font>
 accept_21273_1=<font face="Default" color="#ffffff" > If you have any unsolved problems, you may ask me for a favor with the token. </font>
@@ -270,7 +269,6 @@ context_21252=Nianluo Dam disciple Bao Dating is kind-hearted and she's always t
 context_21253=Our disciples are generally quite good at various Pollen Distillation skills. Now we are in short of some herbs that will be used in the grinding process. Nianluo Dam disciples need to increase school contributions with their daily collections.
 context_21254=The elder sister got a weird dermatosis and it could alleviate the pain by smearing the well-refined pollen made by a Young Martial Sister. Unfortunately, only one bud on a scape will bloom per day. Could you send the flower to the Young Martial Sister who will later make the pollen? Also after it's done, bring the refined pollen to the Elder Sister.
 context_21255=Disciples in our school need to spar with Mu Mumu everyday to improve their martial arts skills. Mu Mumu is an expert of Nianluo Dam. You'll definitely learn a lot by sparring with her.
-context_21256=Surrounded by mountains and forest, we were occasionally attacked by Beasts. To prevent such accidents, we need you to kill four beasts per day.
 context_21261=I overheard some soldiers whispering something about Concubine and Maidservant. Go check what they are talking about.
 context_21262=Someone else is spying on this. Keep at it and dig it out.
 context_21263=Followed the pretty lady to Chengdu and saw her quarreling with a ugly guy. Go check it out.
@@ -486,7 +484,6 @@ target_21252=Feed the monkey with the desserts made by Bao Dating.
 target_21253=Collect five Heartbroken Flowers and five Kuqing Flowers.
 target_21254=Send the flower to the Young Martial Sister who will later make the pollen and bring the refined pollen to the Elder Sister after it's done.
 target_21255=Spar with<a href="findnpc_new,school15,npc_nlb_ww53" style="HLStype1"> Mu Mumu</a> to improve your martial arts skills.
-target_21256=Head to Nianluo Dam (1550, 1165) and kill four beasts.
 target_21261=Check what those soldiers are talking about.
 target_21262=Solve mysteries
 target_21263=Help the pretty lady defeat Luo Xingxing
@@ -503,7 +500,6 @@ target_21275=Help Chun Liniang with her escape
 target_21276=Check if Chun Liniang is injured
 target_21277=Synthesize Medicine
 target_21278=Look for Clues
-target_21279=Kill Eastern Chamber Officer
 target_21280=Go into Flower Fanatic’s Dam
 target_21281=Go into Flower Fanatic’s Dam
 target_21282=Go into Flower Fanatic’s Dam
@@ -529,15 +525,8 @@ target_21310=Send invitation letters to disciples evicted from other schools
 target_21311=Send invitation letters to disciples evicted from other schools
 target_21312=Send invitation letters to disciples evicted from other schools
 target_21313=Punish traitors who slandered<a href="findnpc_new,school02,npc_nlb_ww43" style="HLStype1"> Nianluo Dam</a>
-target_21314=Kill traitors who slandered our school
-target_21315=Kill traitors who slandered our school
-target_21316=Kill traitors who slandered our school
-target_21317=Kill traitors who slandered our school
-target_21318=Kill traitors who slandered our school
-target_21319=Kill traitors who slandered our school
 target_21320=Collect all types of medicines
 target_21321=Challenge and defeat Male Slave
-target_21322=Complete school patrol and kill the unknown person
 target_21323=Collect Vigor Blood
 target_21324=Help the school mate to complete his task
 target_21333=Help the girl catch a butterfly
@@ -912,4 +901,15 @@ title_21368=Collect Rare Herb
 title_21369=Collect Rare Herb
 title_21371=Find the Monkey
 title_21372=Nianluo Dam Weekly
+accept_21256_1=<font face="Default" color="#ffffff" > Surrounded by</font><font face="Default" color="#ffffff" > mountains and forest</font><font face="Default" color="#ffffff" >,</font><font face="Default" color="#ffffff" > we were occasionally attacked</font><font face="Default" color="#ffffff" > by Beasts. To prevent such accidents, we need you to kill some of those beasts. Will you? </font>
+context_21256=Surrounded by mountains and forest, we were occasionally attacked by Beasts. To prevent such accidents, we need you to kill four beasts per day.
+target_21256=Head to Nianluo Dam (1550, 1165) and kill four beasts.
+target_21279=Kill Eastern Chamber Officer
+target_21314=Kill traitors who slandered our school
+target_21315=Kill traitors who slandered our school
+target_21316=Kill traitors who slandered our school
+target_21317=Kill traitors who slandered our school
+target_21318=Kill traitors who slandered our school
+target_21319=Kill traitors who slandered our school
+target_21322=Complete school patrol and kill the unknown person
 

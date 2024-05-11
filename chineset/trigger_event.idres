@@ -6,7 +6,6 @@ trigger_debug_hint_4=設置GM操作對像成功
 trigger_debug_event_2=2:Npc:Npc被銷毀
 trigger_debug_event_3=3:Npc:Npc被選擇
 trigger_debug_event_4=4:Npc:Npc受到傷害
-trigger_debug_event_5=5:Npc:Npc被殺死
 trigger_debug_event_6=6:Npc:進入Npc觸發範圍，觸發對像無限制
 trigger_debug_event_7=7:Npc:進入Npc觸發範圍，觸發對象是玩家
 trigger_debug_event_8=8:Npc:進入Npc觸發範圍，觸發對象是Npc
@@ -102,4 +101,5 @@ trigger_debug_event_1029=1029:延遲N秒觸發28
 trigger_debug_event_1030=1030:延遲N秒觸發29
 trigger_debug_event_1031=1031:延遲N秒觸發30
 trigger_debug_event_1060=1060:倒計時每秒觸發
+trigger_debug_event_5=5:Npc:Npc遭襲而死
 

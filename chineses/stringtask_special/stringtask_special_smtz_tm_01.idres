@@ -29,7 +29,6 @@ SubmitNpcEx_86518=<s>Go back and meet Leader <a href="findnpc_new,school05,World
 SubmitNpcEx_86519=<s>Go back and meet Leader <a href="findnpc_new,school05,WorldNpc02203" style="HLStype1">Tang Tianxing</a>.
 SubmitNpcEx_86520=<s>This School Challenge Task has been finished. Go back and report to the Headmaster <a href="findnpc_new,school05,WorldNpc02203" style="HLStype1">Tang Tianxing</a>.
 hunterinfo_58001=Go to Twilight Village to stop Han Sijin from killing Zhao Ziji because he helped Tangmen before.
-hunterinfo_58002=Go to Twilight Village to kill Ye Loukai. Let he know that his words causes a disaster.
 hunterinfo_58003=I have heard that <a href="findnpc_new,school05,WorldNpc02265" style="HLStype1">Tang Chuan</a> called Tangmen a coward. How could he do this? Go to give him a lesson.
 interactinfo_58001=Go find <a href="findnpc_new,school05,EventNpc86500" style="HLStype1">the place where Leng Feng is buried</a> in the wilds of Tangmen.
 interactinfo_58002=Find a good <a href="findnpc_new,school05,tangmen_tz_001" style="HLStype1">building stone</a> and make it Leng Feng's tombstone.
@@ -48,7 +47,6 @@ okmenu_58006=Damn it! You are so merciless to that girl. Are you afraid that you
 okmenu_58007=Don't worry! Maybe I have some ways to get it.
 okmenu_58008=You are an outspoken man. Thanks!
 okmenu_58009=Thank you. I thank you for Jin Shize.
-specialinfo_101=You are filled with indignation after hearing this person's description. Go challenge Heaven Treasure Stronghold and and avenge the death of Leng Feng's mother.
 specialinfo_231=Bloody Spider Net has appeared in Golden Needle Sect. Challenge them.
 specialinfo_232=Help Sigong test the poison by kidnapping a passerby.
 specialinfo_233=Sell the kidnapped people to Chengdu human traffickers, and be discreet.
@@ -76,24 +74,18 @@ interactinfo_58013=Show the Butterfly Corpse to <a href="findnpc_new,school05,Wo
 okmenu_58011=<font face="Default" color="#ffffff" >If so, I will have a try.</font>
 okmenu_58013=<font face="Default" color="#ffffff" >I'm going to report to Sect Leader now.</font>
 specialinfo_360=Pass-clearance Tiger Roaring Villa
-specialinfo_361=Pass-clearance Twilight Village
-specialinfo_363=Enter Green Cloud Castle and investigate the secrecy of Butterfly Secret Drug (Pass-clearance Green Cloud Castle)
 story_58001_1=<font face="Default" color="#ffffff" >We received information from Wudang a few days ago, saying that there were frequent abnormal activities in Tiger Roaring Villa, and we hope each School is keeping an eye on this.</font>
 story_58001_2=<font face="Default" color="#ffffff" >We shouldn't neglect this matter. Wudang Immortal Ziyang sent us a message saying that some people from Xixia First Class Hall were at Tiger Roaring Villa. They don't belong to our group and must have a different mind. You go to the Tiger Roaring Villa now. </font><font face="Default" color="#ffffff" >You must</font><font face="Default" color="#ffffff" >find out everything.</font>
-story_58002_1=<font face="Default" color="#ffffff" >The murderer's name </font><font face="Default" color="#ffffff" >is Zhao Ziji. He is </font><font face="Default" color="#ffffff" >very good</font><font face="Default" color="#ffffff" >at kung fu</font><font face="Default" color="#ffffff" > and despite our attempts to kill him, he escaped.</font>
 story_58002_2=<font face="Default" color="#ffffff" >He was seriously poisoned so we thought he would die. </font><font face="Default" color="#ffffff" >He was then gravely injured by the Taihu Lake and </font><font face="Default" color="#ffffff" >after many years, we heard that he reappeared in Suzhou. Go investigate.</font>
 story_58003_1=<font face="Default" color="#ffffff" >Zhao Ziji? What a coincidence. A couple of days ago, many men came here looking for Zhao Ziji. Is he the one you're talking about? </font>
 story_58003_2=<font face="Default" color="#ffffff" >Zhao Ziji has been living in Twilight Village. If all those who want revenge on him go there, there will be great unrest.</font>
 story_58004_1=<font face="Default" color="#ffffff" >We will have to redouble our efforts if we are to be the ones to kill Zhao Ziji. </font>
 story_58004_2=<font face="Default" color="#ffffff" >Hurry to Twilight Village, because the enemy of Tangmen can not be killed by others. Kill those who stop you. As long as you kill Zhao Ziji personally, you will be greatly rewarded!</font>
-story_58005_1=<font face="Default" color="#ffffff" >The butterfly murders near Luoyang are spreading, and each school is </font><font face="Default" color="#ffffff" >investigating. I am afraid they aren't finding anything.</font>
-story_58005_2=<font face="Default" color="#ffffff" > We Tangmen Sect are second to none in medicine. The magic of Butterfly Murder is a method to control the butterflies with a secrete medicine and to let the butterflies attack people in order to transmit the unknown poison. Now I want you togo to Green Cloud Castle nearby to find some clues. We still have no idea about the butterfly poison. It's a dangerous mission. Do be careful!</font>
 story_58006_1=<font face="Default" color="#ffffff" >Since Sigong gives this order, the secret drug must be very important. But maybe it is not easy for Tangmen to keep it. </font>
 story_58006_2=<font face="Default" color="#ffffff" >Hurry to Green Cloud Castle and find out who holds the secret drug. Bring the secret drug back to me by any means possible.</font>
 story_menu_58001=<font face="Default" color="#ffffff" >What do you want me to do?</font>
 story_menu_58002=<font face="Default" color="#ffffff" >I don't know who are you talking about, Sect Leader.</font>
 story_menu_58003=<font face="Default" color="#ffffff" >Waiter, did you hear about a man called Zhao Ziji?</font>
-story_menu_58004=<font face="Default" color="#ffffff" >Master, Han Family from Xi Mountain has went to Twilight Village with a group of people to take revenge on Zhao Ziji. </font>
 story_menu_58005=<font face="Default" color="#ffffff" >I don't know what you are talking about, Sect Leader.</font>
 story_menu_58006=<font face="Default" color="#ffffff" >Sigong said the secret medicine is very important and Tangmen must have it.</font>
 storyinfo_58001=Listen to <a href="findnpc_new,school05,WorldNpc02201" style="HLStype1">Grandmother Tang</a>'s description
@@ -104,7 +96,6 @@ storyinfo_58005=See if <a href="findnpc_new,school05,WorldNpc02201" style="HLSty
 storyinfo_58006=Tell what Sigong discovered to <a href="findnpc_new,school05,WorldNpc02201" style="HLStype1">Grandmother Tang</a>
 storymenu_58001_1=<font face="Default" color="#ffffff" >Tiger Roaring Villa? What can such a minor role do?</font>
 storymenu_58001_2=<font face="Default" color="#ffffff" >Please rest assured, Master, I will never let you down.</font>
-storymenu_58002_1=<font face="Default" color="#ffffff" >Didn't you kill him, experts?</font>
 storymenu_58002_2=<font face="Default" color="#ffffff"> Yes! </font>
 storymenu_58003_1=<font face="Default" color="#ffffff" >Why are they looking for Zhao Ziji? </font>
 storymenu_58003_2=<font face="Default" color="#ffffff" >Thank you for telling us, Waiter.</font>
@@ -161,7 +152,6 @@ storymenu_58007_2=<font face="Default" color="#ffffff" >Yes, I know.</font>
 DialogID_58007=<font face="Default" color="#ffffff" >What? Xiaoze asked you to come to see me? He is so obedient. I am only his stepfather. There is a way of curing my leg. But the Manager of Herb Store is not willing to sell the medicine to me. He wants me to exchange the medicine with heartbroken flowers. But they are difficult to obtain.</font>
 DialogID_58008=<font face="Default" color="#ffffff">It is only my test for you. I do not need them. Keep them, you may need them in future. Here is the bone-connecting shengji powder.</font>
 SubmitNpcEx_86529=Continue the talk with the mysterious envoy and join the activity.
-collectinfo_58011=Head to Suzhou and find the <a href="findnpc_new,city02,sz517" style="HLStype1">Mysterious Messenger</a>. After, kill the <a href="findnpc_new,city02,shitu_003" style="HLStype1">Treasure Box Guard</a> and loot the key to open the<a href="findnpc_new,city02,Box_shitu_001" style="HLStype1">Treasure Box</a> and collect<a href="findnpc_new,city02," style="HLStype1"></a>the stones.
 hunterinfo_58005=Head to Luoyang and find the<a href="findnpc_new,city04,ly794" style="HLStype1">Mysterious Messenger</a>, then defeat<a href="findnpc_new,city04,shitu_002" style="HLStype1">the evil one</a>.
 interactinfo_58019=Talk to <a href="findnpc_new,city05,WorldNpc09759" style="HLStype1">the mysterious envoy</a>
 interactinfo_58020=Talk to <a href="findnpc_new,city04,ly794" style="HLStype1">the mysterious envoy</a>
@@ -176,4 +166,14 @@ specialinfo_383=Complete faction challenge against Mount Song Sword Sect (one su
 specialinfo_386=Complete faction challenge against Huanhua Sword Sect (Pass within 5 minutes)
 specialinfo_387=Pass Peacock Villa (Difficulty Level: random)
 specialinfo_388=Complete faction challenge against Xingxiu Sect (Pass within 5 minutes)
+specialinfo_361=Complete Twilight Village [Prologue]
+specialinfo_363=Complete Green Cloud Castle [Prologue]
+collectinfo_58011=Head to Suzhou and find the <a href="findnpc_new,city02,sz517" style="HLStype1">Mysterious Messenger</a>. After, kill the <a href="findnpc_new,city02,shitu_003" style="HLStype1">Treasure Box Guard</a> and loot the key to open the<a href="findnpc_new,city02,Box_shitu_001" style="HLStype1">Treasure Box</a> and collect<a href="findnpc_new,city02," style="HLStype1"></a>the stones.
+hunterinfo_58002=Go to Twilight Village to kill Ye Loukai. Let he know that his words causes a disaster.
+specialinfo_101=You are filled with indignation after hearing this person's description. Go challenge Heaven Treasure Stronghold and avenge the death of Leng Feng's mother.
+story_58002_1=<font face="Default" color="#ffffff" >The killer's name </font><font face="Default" color="#ffffff" >is Zhao Ziji. He is </font><font face="Default" color="#ffffff" >very good</font><font face="Default" color="#ffffff" >at kung fu</font><font face="Default" color="#ffffff" > and despite our attempts to kill him, he escaped.</font>
+story_58005_1=<font face="Default" color="#ffffff" >The butterfly murders near Luoyang are spreading, and each school is </font><font face="Default" color="#ffffff" >investigating. I am afraid they aren't finding anything.</font>
+story_58005_2=<font face="Default" color="#ffffff" > We Tangmen Sect are second to none in medicine. The magic of Butterfly Murder is a method to control the butterflies with a secrete medicine and to let the butterflies attack people in order to transmit the unknown poison. Now I want you to go to Green Cloud Castle nearby to find some clues. We still have no idea about the butterfly poison. It's a dangerous mission. Do be careful!</font>
+story_menu_58004=<font face="Default" color="#ffffff" >Master, Han Family from Xi Mountain has went to Twilight Village with a group of people to take revenge on Zhao Ziji. </font>
+storymenu_58002_1=<font face="Default" color="#ffffff" >Didn't you kill him, experts?</font>
 

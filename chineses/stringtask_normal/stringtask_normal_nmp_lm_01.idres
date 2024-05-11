@@ -361,12 +361,10 @@ accept_20012_1=<font face="Default" color="#ffffff" > Do not escort at night. </
 accept_20016_1=<font face="Default" color="#ffffff" > Watch out for the bandits along the way. Please be more careful</font><font face="Default" color="#ffffff" >. </font>
 accept_20017_1=<font face="Default" color="#ffffff" > We are escorting a batch of valuable items. We got a news that Pirates are robbing our ship. Please go defeat them. It's extremely urgent. </font>
 accept_20018_1=<font face="Default" color="#ffffff" > Escort Raiding Tournament is a great opportunity for us.</font><font face="Default" color="#ffffff" > Disciples of our school may join it or cheer for their school. </font>
-accept_20019_1=<font face="Default" color="#ffffff" > Pirates are setting fire to the ship. Put out the fire on the deck. Use those eight Cannons to sink the Pirate Ship. </font>
 accept_20020_1=<font face="Default" color="#ffffff" > What do you want? </font>
 accept_20021_1=<font face="Default" color="#ffffff" > Go meet the host. </font>
 accept_20022_1=<font face="Default" color="#ffffff" > Now the cultists are expanding, we cannot live with that.</font>
 accept_20030_1=<font face="Default" color="#ffffff" > Pirates threw a chain on our ship and climbed up it. Go defeat them now. </font>
-accept_20031_1=<font face="Default" color="#ffffff" > Pirates are getting furious. Stop them robbing the goods. </font>
 accept_20032_1=<font face="Default" color="#ffffff" > Go to Jiming Posthouse and teach those Fierce Tiger Villagers a lesson. </font>
 accept_20050_1=<font face="Default" color="#ffffff" > We've been robbed a lot lately. Go teach those bandits a lesson. </font>
 accept_20079_1=<font face="Default" color="#ffffff" > Excuse me. I'll get the Incense. </font>
@@ -704,12 +702,10 @@ context_20015=Check if the food in the Inn is safe. Might as well ask<a href="fi
 context_20016=Players may choose the character they want (Escort Leader, Sidekick or Maintenance Worker) for the escort job. Players will experience robbery, drinking game and argot speaking before reaching their destinations.
 context_20017=We are escorting a batch of valuable items. We got a news that Pirates are robbing our ship. Please go defeat them. It's extremely urgent.
 context_20018=We will do whatever we can to win the title of being the number one escort in the world.
-context_20019=Pirates are setting fire to the ship. Put out the fire on the deck. Use those eight Cannons to sink the Pirate Ship.
 context_20020=Take the Hideout School Token with you and join Changfeng Escort Agency to fight against the Cultists.
 context_20021=You've passed the Entrance Evaluation. Go meet the host and join us.
 context_20022=Give the Hideout School Token to Tang Feng and tell her why you're here.
 context_20030=Pirates threw a chain on our ship and climbed up it. Go defeat them now.
-context_20031=Pirates are getting furious. Stop them robbing the goods.
 context_20032=The top seven players in school contribution will be qualified to fight against the Fierce Tiger Village.
 context_20050=We've been robbed a lot lately. Go teach those bandits a lesson.
 context_20079=Join the Incense Bathing now.
@@ -757,7 +753,6 @@ context_20317=Wen Yicheng is asking you for advice on the price's seeking marria
 context_20318=Ask Di Guan and Tian Xi for advice.
 context_20319=Figure out a way to get Tian Xi out of here.
 context_20320=Talk to Di Guan once again.
-context_20330=Theft constantly occurred in the branch office of Changfeng Escort Agency in Yanjing. Please go arrest them right away.
 context_20351=A batch of Tributes were plundered by bandits in Beggar's Sect Territory. All of the Changfeng Disciples were dead. Xiao Tianfang sent someone to investigate the crime scene.
 context_20352=A surviver has been found. Send him back to Beggar's Sect.
 context_20353=Make arrangements for the escort
@@ -1149,7 +1144,6 @@ submit_20330=<font face="Default" color="#ffffff" > That's what I do.</font>
 submit_20351=<font face="Default" color="#ffffff" > (There's one surviver.)</font>
 submit_20352=<font face="Default" color="#ffffff" > I have no idea, either.</font><font face="Default" color="#ffffff" > I found an</font><font face="Default" color="#ffffff" > escort alive</font><font face="Default" color="#ffffff" > dressed in a Changfeng uniform</font><font face="Default" color="#ffffff" >,</font><font face="Default" color="#ffffff" > and took</font><font face="Default" color="#ffffff" > him</font><font face="Default" color="#ffffff" > to Beggar's Sect</font><font face="Default" color="#ffffff" >. I didn't know who he really is</font><font face="Default" color="#ffffff" >. </font>
 submit_20353=<font face="Default" color="#ffffff" > The master of Beggar's Sect sent me</font><font face="Default" color="#ffffff" > here</font><font face="Default" color="#ffffff" > to help treat</font><font face="Default" color="#ffffff" > the injured escort. </font><font face="Default" color="#ffffff" >Every minute counts. Please hurry up. </font>
-submit_20354=<font face="Default" color="#ffffff" > Right before the injured guy came to life and was ready to say something</font><font face="Default" color="#ffffff" >, someone who disguised as one of our disciples murdered him</font><font face="Default" color="#ffffff" >. </font>
 submit_20355=<font face="Default" color="#ffffff">I obey the order.</font>
 submit_20356=<font face="Default" color="#ffffff" > Our leader asked me to inform you of what happened in Beggar's Sect,</font><font face="Default" color="#ffffff" > here's a letter from him. </font>
 submit_20357=<font face="Default" color="#ffffff" > Changfeng</font><font face="Default" color="#ffffff" > Escort Agency</font><font face="Default" color="#ffffff" > is now approaching a crisis</font><font face="Default" color="#ffffff" >.</font><font face="Default" color="#ffffff" > I'm afraid that I'm not as capable as you think I am. </font>
@@ -1268,9 +1262,7 @@ target_20006=Stop the robbers plundering the goods.
 target_20011=Find a inn to stay on your way to Yanjing. Do not escort at night.
 target_20012=Take good care of the consignment.
 target_20013=Set up traps at each gate.
-target_20014=Check the inn and pay attention to anyone suspicious. Kill them if necessary.
 target_20015=Check if the food is safe.
-target_20016=Escort the caravan to Killers' Manor with your teammate.
 target_20017=Kill the pirate leader and protect those goods on the ship.
 target_20018=Help the school to win in Escort Raiding Tournament.
 target_20019=Find out ten fire spots and put out the fire. Stop Pirates setting on fire. And sink 30 pirate ships.
@@ -1278,7 +1270,6 @@ target_20020=Find<a href="findnpc_new,city03,newmp_changfeng_rumen_002" style="H
 target_20021=Head to Changfeng Escort Agency and meet the host.
 target_20022=Inquire on how to join Nianluo Dam.
 target_20030=Cut off the chain and defeat the pirate leader Xue Kun.
-target_20031=Kill the Pirates to save the goods.
 target_20032=Head to Jiming Posthouse and find<a href="findnpc_new,born01,changfeng_smdh_bm" style="HLStype1"> Xiong Batian's body guard</a> to fight against Fierce Tiger Village.
 target_20050=Go kill the bandits and robbers along the escort path and disable the traps. Escort the villagers safely pass the escort path.
 target_20079=Join the Incense Bathing now.
@@ -1326,7 +1317,6 @@ target_20317=Tell Wen Yicheng your idea.
 target_20318=Ask Di Guan and Tian Xi for advice.
 target_20319=Help Tian Xi with her escape.
 target_20320=Talk to Di Guan once again.
-target_20330=Speak with Xia Yunxue. Enter the branch office in Yanjing and kill the Flying Bandit.
 target_20351=Head to the crime scene in Luoyang.
 target_20352=Send the escort to Beggar's Sect.
 target_20353=Look for a doctor.
@@ -1622,5 +1612,15 @@ title_20472=Escort Trivia (Luoyang)
 title_20473=Escort Trivia (Jinling)
 title_20474=Escort Trivia (Yanjing)
 title_20475=World Celebration
-accept_20455_1=<font face="Default" color="#ffffff" > Schools occasionally ask the Escort Agency to send goods to other schools to maintain their relationship. </font><font face="Default" color="#ffffff" > Go complete an escort task. </font>
+accept_20455_1=<font face="Default" color="#ffffff" >Schools occasionally ask the Escort Agency to send goods to other schools to maintain their relationship. </font><font face="Default" color="#ffffff" >Go complete an escort task. </font>
+accept_20019_1=<font face="Default" color="#ffffff" > Pirates are setting fire to the ship. Put out the fire on the deck. Use those eight Cannons to sink the Pirate Ship. </font>
+accept_20031_1=<font face="Default" color="#ffffff" > Pirates are getting furious. Stop them robbing the goods. </font>
+context_20019=Pirates are setting fire to the ship. Put out the fire on the deck. Use those eight Cannons to sink the Pirate Ship.
+context_20031=Pirates are getting furious. Stop them robbing the goods.
+context_20330=Theft constantly occurred in the branch office of Changfeng Escort Agency in Yanjing. Please go arrest them right away.
+submit_20354=<font face="Default" color="#ffffff" > Right before the injured guy came to life and was ready to say something</font><font face="Default" color="#ffffff" >, someone who disguised as one of our disciples murdered him</font><font face="Default" color="#ffffff" >. </font>
+target_20014=Check the inn and pay attention to anyone suspicious. Kill them if necessary.
+target_20016=Escort the caravan to Killers' Manor with your teammate. (Three classes are required. Play when your team is full so that you can complete the quest smoothly.)
+target_20031=Kill the Pirates to save the goods.
+target_20330=Speak with Xia Yunxue. Enter the branch office in Yanjing and kill the Flying Bandit.
 

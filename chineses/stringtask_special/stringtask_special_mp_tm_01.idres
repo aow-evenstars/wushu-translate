@@ -168,7 +168,6 @@ okmenu_9445=<font face="Default" color="#ffffff" >I will do what I can..</font>
 story_9001_1=<s>Delay the dealing of Tang Feng. What we need to do right now is to arrest Tang Guanqing and question him. Or, we can't imagine the mess that being caused.
 story_9001_2=<s>Just remember it clearly! Our school persists our own ways. But our School Rules are not allowed to be trampled on. If anyone dare breach the rules, I must punish him severely.
 story_9002_1=<s>Should I? This is a dangerous land. Should I weep over every corpse?
-story_9002_2=<s>Don't you tell me how to lead my stronghold. Besides, isn't poison a Tangmen weapon? Why are you bothering me with this?
 story_9003_1=<s>What has happened to me? How have I fallen so far? Defeated by a Tangmen disciple?
 story_9003_3=<font face="Default" color="#ffffff" >Fine. Follow me. I'll take you to your renegade. </font>
 story_9004_1=<font face="Default" color="#ffffff" >Tell me that he'll pay for what he's done.</font>
@@ -213,9 +212,33 @@ SubmitNpcEx_50045=<s>Talk to h<a href="findnpc_new,school05,WorldNpc02252" style
 okmenu_9122_1=<font face="Default" color="#ffffff" >I have the medicine.</font>
 SubmitNpcEx_50048=Tell what Huang Si has said to <a href="findnpc_new,school05,WorldNpc02201" style="HLStype1">Grandmother</a>
 DialogID_9175_1=How do you like Huanhua Sword Sect's sceneries?
-hunterinfo_9127=Defeat the incoming <a href="findnpc_new,school05,monrm069500" style="HLStype1">Xingxiu Sect Killers</a>.
 story_9034_0=<s>A lot of people from Tangmen have been marching toward Peacock Villa and they look like they are ready for war. Something big is about to happen. Also a few days ago we saw a pretty woman traveling with an old man also moving toward Peacock Villa. They might be the people you are looking for. Tangmen ordered us to stay here only as decoys.
 story_9035_0=<s>The old headmaster knew there was not much time left for him because of his old age so he invited the Peacock Villa Leader here to explain it to him himself. The old headmaster passed away in his room, but with a smile on his face. Until this day I can still sometimes hear the old headmaster's laughter in my ears from when he passed.
 story_9035_2=<s>That day when the Peacock Villa Leader came outside he said nothing of the hidden weapon and only mourned for headmaster's death. I knew something was off but because of his relationship with the old headmaster I did not question him. Who knows years later the Peacock Villa suddenly introduced the Peacock Feather and shocked all of Jianghu. It also surprised me and added to my suspicions...
-story_9003_2=<font face="Default" color="#ffffff" >I've lived under the thumb of the Tangmen for decades! I wanted to be free. Don't you understand?</font>
+story_9003_2=<font face="Default" color="#ffffff" >I've thought nothing of Tangmen for decades! I never expected to be defeated now. 　　I thought with Tang Guanqun's poison plus the union of many sects, we can replace Tangmen and become one of the ten schools in Jianghu. It's a pity that I looked down upon on Tangmen. </font>
+DialogID_9228_1=<s>Afterwards I found out that the person with the scorpion birthmark was Situ Tao, nicknamed the Scorpion King. He is a notorious Jianghu Killer. <BR><s>Over the years, I have been secretly tracking Situ Tao's whereabouts. But he seems to have evaporated. There are no news about him. However, recently he was rumored to have appeared in Luoyang. The other day I have sent my close friends to investigate. Go to Luoyang immediately to see if there is any progress.
+DialogID_9234_2=Cough, cough... You and I have no enmity. Why do you want to take my life? This is not going to end today. Let's go and talk to the abbot.
+DialogID_9275_1=<s>Thank you for showing up in time to defeat the killers sent by the Silent Temple. I will be more careful from now on! <BR><s>Now that I think about it, the Silent Temple leader I met with before was masked, but he had a very peculiar figure. I remember very well... Yes! It was very much like the Royal Guards disciple Du Jinglei who came to the Flower Show! Yes, it's probably him!
+QiecuoTitle_9018=I will take revenge! Watch this!
+collectinfo_9082=Kill <a href="findnpc_new,scene03,monrf031000" style="HLStype1">Ji Wushuang</a> and get the antidote
+hunterinfo_9026=Kill <a href="findnpc_new,school05,monrm053100" style="HLStype1">Troublemaking Iron Hand Sect Members</a>
+hunterinfo_9049=Kill <a href="findnpc_new,born04,bossv040300" style="HLStype1">Zheng Shuying</a>
+hunterinfo_9067_1=Kill <a href="findnpc_new,city04,WorldNpc10030" style="HLStype1">Cai Chuang</a>
+hunterinfo_9069_1=Kill <a href="findnpc_new,city04,WorldNpc10031" style="HLStype1">Guo Ya</a>
+hunterinfo_9071_1=Kill Royal Guard Leader <a href="findnpc_new,city04,monrc041900" style="HLStype1">Jin Shi</a>
+hunterinfo_9072_2=Kill <a href="findnpc_new,city04,monrc042300" style="HLStype1">Royal Guards Disciple</a>
+hunterinfo_9073_1=Kill Royal Guard Leader <a href="findnpc_new,city04,monrc042000" style="HLStype1">Jin Ming</a>
+hunterinfo_9074_2=Kill <a href="findnpc_new,city04,monrc042300" style="HLStype1">Royal Guards Disciple</a>
+hunterinfo_9075_1=Kill Royal Guard Leader <a href="findnpc_new,city04,monrc042100" style="HLStype1">Jin Chong</a>
+hunterinfo_9076_2=Kill <a href="findnpc_new,city04,monrc042300" style="HLStype1">Royal Guards Disciple</a>
+hunterinfo_9088=Defeat <a href="findnpc_new,school03,monrm030600" style="HLStype1">Silent Temple Killer</a>
+hunterinfo_9095=Kill the traitor <a href="findnpc_new,born02,monrv020800" style="HLStype1">Du Guhu</a>
+hunterinfo_9098_1=Kill <a href="findnpc_new,school05,monrm056200" style="HLStype1">Hai Chishan</a>
+hunterinfo_9099_2=Kill <a href="findnpc_new,school05,monrm057900" style="HLStype1">Mu Jianchun</a>
+hunterinfo_9100_3=Kill <a href="findnpc_new,school05,monrm056400" style="HLStype1">Lan Shuihan</a>
+hunterinfo_9101=Kill <a href="findnpc_new,born02,monrv020900" style="HLStype1">Zhu Yu</a>
+hunterinfo_9127=Defeat the incoming <a href="findnpc_new,school05,monrm069500" style="HLStype1">Xingxiu Sect Killers</a>.
+story_9002_2=<s>Don't you tell me how to lead my stronghold. Besides, isn't poison a Tangmen weapon? Why are you bothering me with this?
+story_9021_4=When returned to Tangmen, the old friend didn't expect that the arrow was poisoned, and died because of the poison. Since then, I have sworn to revenge for my old friend.
+story_9024_1=<s>At that time, I had a quarrel with Tang Yufeng, Master of Torture Room of Tang family castle, so I bribed King Scorpion to sneak into the Tang family castle to look for an opportunity to attack. Everything was under my control.
 

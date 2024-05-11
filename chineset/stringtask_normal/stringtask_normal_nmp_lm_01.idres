@@ -361,12 +361,10 @@ accept_20012_1=<font face="Default" color="#ffffff" >夜深不宜行鏢，找家
 accept_20016_1=<font face="Default" color="#ffffff" >此去路途雖近，但此去一路地勢險惡，民風彪悍，黑店山賊甚多。望你們小心行事，切忌粗心大意，定揚我長風之威</font><font face="Default" color="#ffffff" >！</font>
 accept_20017_1=<font face="Default" color="#ffffff" >  我們長風鏢局正在押一批非常重要的貨物，但是現在接到線報。鏢局的大船在海上遇到了倭寇襲擊，目前非常危急，你得趕去擊退這些倭寇，保護貨物。</font>
 accept_20018_1=<font face="Default" color="#ffffff" >奪鏢大會乃是展示我鏢局弟子實力好機會，</font><font face="Default" color="#ffffff" >門下弟子可通過參賽或助威的方式幫助本門取得奪鏢大會的最終勝利。</font>
-accept_20019_1=<font face="Default" color="#ffffff" >倭寇派出了大量的殺手登船，他們一不做二不休，四處放火燒船。你們將甲板上的火澆滅，並且不要讓他們再放火，否則船就會沉了，你們也會死去。甲板上有八門火炮，你們可以用這些火炮將倭寇的船擊毀。</font>
 accept_20020_1=<font face="Default" color="#ffffff" >你有何事？</font>
 accept_20021_1=<font face="Default" color="#ffffff" >老局主就在正廳，前去拜見吧。</font>
 accept_20022_1=<font face="Default" color="#ffffff" >如今魔教勢力蠢蠢欲動，隱世門派不能坐視不理</font>
 accept_20030_1=<font face="Default" color="#ffffff" >倭寇用鐵鏈將他們的小船與我們的大船連在了一起，他們通過鐵鏈爬上了我們的大船，趕緊消滅他們。</font>
-accept_20031_1=<font face="Default" color="#ffffff" >那些倭寇惱羞成怒，他們派出殺手前來搶奪貨物，你要阻止他們，並且把被搶走貨物原封不動的放回去。</font>
 accept_20032_1=<font face="Default" color="#ffffff" >作為我長風鏢局的傑出弟子，希望你能去雞鳴驛給惡虎寨些教訓，叫他們知道我長風鏢局的威名！</font>
 accept_20050_1=<font face="Default" color="#ffffff" >最近鏢局走鏢經常會被埋伏在鏢道附近的山賊匪類劫鏢，你速去看看，教訓教訓這些毛賊！</font>
 accept_20079_1=<font face="Default" color="#ffffff" >閣下請在此稍後，帶我取來熏香一用。</font>
@@ -689,12 +687,10 @@ context_20014=巡視客棧，仔細留意可疑人物。
 context_20015=到客棧裡檢查食物是否安全，不妨去找<a href="findnpc_new,city01,lmbj_biaoshi_001" style="HLStype1">張中</a>要根銀針來試試。
 context_20017=我們長風鏢局正在押一批非常重要的貨物，但是現在接到線報。鏢局的大船在海上遇到了倭寇襲擊，目前非常危急，你得趕去擊退這些倭寇，保護貨物。
 context_20018="天下第一鏢"乃鏢局界的至高榮耀，是天下最強鏢局的象徵，我長風鏢局弟子當拼盡全力，助本門奪得"天下第一鏢的名號"
-context_20019=倭寇派出了大量的殺手登船，他們一不做二不休，四處放火燒船。你們將甲板上的火澆滅，並且不要讓他們再放火，否則船就會沉了，你們也會死去。甲板上有八門火炮，你們可以用這些火炮將倭寇的船擊毀。
 context_20020=拿著隱世門派信物，就可以加入長風鏢局一同對抗魔教。
 context_20021=你已經通過的入門審核，快去拜見老局主，加入長風鏢局吧。
 context_20022=將隱世門派信物交給唐鳳，說明來意。
 context_20030=倭寇用鐵鏈將他們的小船與我們的大船連在了一起，他們通過鐵鏈爬上了我們的大船，趕緊消滅他們。
-context_20031=那些倭寇惱羞成怒，他們派出殺手前來搶奪貨物，你要阻止他們，並且把被搶走貨物原封不動的放回去。
 context_20032=每週師門貢獻排名前七的鏢隊有資格參與惡虎寨討伐，前往雞鳴驛惡虎寨懲惡揚善，維護長風鏢局俠義名聲的同時，為鏢局北方的運鏢生意掃清障礙。
 context_20050=聽聞最近鏢局走鏢經常會被埋伏在鏢道附近的山賊匪類劫鏢，鏢局的利益和名聲受到影響，前去鏢道教訓教訓這幫毛賊。
 context_20079=使用侍從給的熏香，去穢辟邪
@@ -740,7 +736,6 @@ context_20317=聞毅成詢問對待親王府求親之事有何看法！
 context_20318=詢問狄關和天兮的意見！
 context_20319=想辦法幫助天兮逃走！
 context_20320=再次找狄關說說！
-context_20330=聽聞長風鏢局燕京分舵時常有飛賊光顧，甚是猖獗，鏢局弟子立即前往，擒拿擊殺。
 context_20351=丐幫總舵接到長風鏢局飛鴿傳書，有一批長風鏢局押運的皇崗在洛陽丐幫堂口的地盤被人劫走，負責押運皇崗的長風弟子全軍覆沒無一倖免。蕭天放派人前往案發現場查看此事。
 context_20352=發現一名倖存鏢師，先將鏢師帶離此地，然後送回丐幫。
 context_20353=安置鏢師
@@ -1116,7 +1111,6 @@ submit_20330=<font face="Default" color="#ffffff" >屬下應盡職責</font>
 submit_20351=<font face="Default" color="#ffffff" >（咦，竟然還有一人倖存）</font>
 submit_20352=<font face="Default" color="#ffffff" >弟子也不知道。</font><font face="Default" color="#ffffff" >弟子趕到現場，僅發現一名</font><font face="Default" color="#ffffff" >身著長風鏢局</font><font face="Default" color="#ffffff" >鏢師</font><font face="Default" color="#ffffff" >服飾之人倖免於難</font><font face="Default" color="#ffffff" >，便急忙</font><font face="Default" color="#ffffff" >將他</font><font face="Default" color="#ffffff" >帶回丐幫</font><font face="Default" color="#ffffff" >救治，只是此人是何身份弟子不知</font><font face="Default" color="#ffffff" >。</font>
 submit_20353=<font face="Default" color="#ffffff" >在下</font><font face="Default" color="#ffffff" >奉</font><font face="Default" color="#ffffff" >丐幫</font><font face="Default" color="#ffffff" >掌門之命，前來請您為一名重傷鏢師治療傷勢。</font><font face="Default" color="#ffffff" >人命關天，還請郎中速行。</font>
-submit_20354=<font face="Default" color="#ffffff" >回稟幫主，傷者服藥後漸漸甦醒，剛要說出兇手線索，卻被人</font><font face="Default" color="#ffffff" >捨命</font><font face="Default" color="#ffffff" >殺害，殺人者竟冒充我丐幫弟子。</font>
 submit_20355=<font face="Default" color="#ffffff" >弟子遵命</font>
 submit_20356=<font face="Default" color="#ffffff" >在下奉幫主之命，特來將丐幫所發生之事告知狄老英雄，</font><font face="Default" color="#ffffff" >幫主尚有書信一封，請狄老英雄一觀。</font>
 submit_20357=<font face="Default" color="#ffffff" >長風</font><font face="Default" color="#ffffff" >鏢局</font><font face="Default" color="#ffffff" >而今情勢堪憂</font><font face="Default" color="#ffffff" >，正是用人之際，</font><font face="Default" color="#ffffff" >我丐幫弟子人才濟濟，狄老英雄此舉也是頗為無奈，只是弟子才疏學淺，怕墜了我丐幫名聲。</font>
@@ -1235,7 +1229,6 @@ target_20006=阻止盜匪偷走貨物
 target_20011=押送貨物，夜晚途徑燕京時候找家客棧打尖，切勿夜間行鏢。
 target_20012=保護押送的貨物。
 target_20013=在各門口附近放下陷阱。
-target_20014=巡視客棧，留意可疑人物，如有必要可以擊殺。
 target_20015=檢查食物是否安全。
 target_20017=殺死倭寇大頭目，並且保護船上的貨物
 target_20018=助本門在奪鏢大會中獲勝
@@ -1244,7 +1237,6 @@ target_20020=尋找<a href="findnpc_new,city03,newmp_changfeng_rumen_002" style=
 target_20021=前往長風鏢局正廳拜見老局主
 target_20022=詢問如何加入念蘿壩
 target_20030=砍斷鐵鏈，消滅倭寇小頭目「薛坤」
-target_20031=擊殺倭寇，保護貨物
 target_20032=前往雞鳴驛找到<a href="findnpc_new,born01,changfeng_smdh_bm" style="HLStype1">熊霸天貼身護衛</a>討伐惡虎寨。
 target_20050=前往鏢道剿滅山賊匪類，清理他們埋下的陷阱，護送過路的村民安全通過鏢道。
 target_20079=使用熏香，去穢辟邪
@@ -1290,7 +1282,6 @@ target_20317=對聞毅成說出自己的看法！
 target_20318=詢問狄關和天兮的意見！
 target_20319=協助天兮逃跑！
 target_20320=再次找狄關說說！
-target_20330=繼續與夏雲雪交談後，進入燕京分舵，擊殺飛天大盜。
 target_20351=前往洛陽案發現場
 target_20352=將鏢師送回丐幫
 target_20353=尋找郎中
@@ -1621,6 +1612,15 @@ submit_20319=<font face="Default" color="#ffffff" >弟子</font><font face="Defa
 target_20300=拜見狄關。。
 target_20304=將詢問的結果告訴狄關
 context_20016=玩家選擇自己扮演的鏢隊角色（鏢頭、趟子手、修理工）進行運鏢（3種職業缺一不可，請組隊玩家自行分配）。路遇山賊劫鏢、與女掌櫃划拳（參與人數越多勝面越大）、與地頭蛇對山頭（需要趟子手，維修工技能配合：BOSS在中了修理工的正氣歌後，趟子手的排山倒海會對其造成百分比傷害）等事件，各顯神通最終達到目的地
-target_20016=與隊友鏢車護送至殺人莊客棧（3種職業缺一不可，建議滿隊進入，以便順利通關）
-accept_20455_1=<font face="Default" color="#ffffff" >包括九大宗門在內的江湖勢力在行動不便時，常將一些要物托付給鏢局，暗暗護送到友好勢力手中，以增進彼此勢力間的關係。</font><font face="Default" color="#ffffff" >去完成一次運鏢，將物資護送到友好勢力。</font>
+accept_20455_1=<font face="Default" color="#ffffff" >包括十大宗門在內的江湖勢力在行動不便時，常將一些要物托付給鏢局，暗暗護送到友好勢力手中，以增進彼此勢力間的關係。</font><font face="Default" color="#ffffff" >去完成一次運鏢，將物資護送到友好勢力。</font>
+accept_20019_1=<font face="Default" color="#ffffff" >倭寇派出了大量的隱衛登船，他們一不做二不休，四處放火燒船。你們將甲板上的火澆滅，並且不要讓他們再放火，否則船就會沉了，你們也會死去。甲板上有八門火炮，你們可以用這些火炮將倭寇的船擊毀。</font>
+accept_20031_1=<font face="Default" color="#ffffff" >那些倭寇惱羞成怒，他們派出隱衛前來搶奪貨物，你要阻止他們，並且把被搶走貨物原封不動的放回去。</font>
+context_20019=倭寇派出了大量的隱衛登船，他們一不做二不休，四處放火燒船。你們將甲板上的火澆滅，並且不要讓他們再放火，否則船就會沉了，你們也會死去。甲板上有八門火炮，你們可以用這些火炮將倭寇的船擊毀。
+context_20031=那些倭寇惱羞成怒，他們派出隱衛前來搶奪貨物，你要阻止他們，並且把被搶走貨物原封不動的放回去。
+context_20330=聽聞長風鏢局燕京分舵時常有飛賊光顧，甚是猖獗，鏢局弟子立即前往，擒拿攻克。
+submit_20354=<font face="Default" color="#ffffff" >回稟幫主，傷者服藥後漸漸甦醒，剛要說出兇手線索，卻被人</font><font face="Default" color="#ffffff" >捨命</font><font face="Default" color="#ffffff" >殺害，攻克者竟冒充我丐幫弟子。</font>
+target_20014=巡視客棧，留意可疑人物，如有必要可以攻克。
+target_20016=與隊友鏢車護送至異人莊客棧（3種職業缺一不可，建議滿隊進入，以便順利通關）
+target_20031=攻克倭寇，保護貨物
+target_20330=繼續與夏雲雪交談後，進入燕京分舵，攻克飛天大盜。
 

@@ -262,7 +262,6 @@ context_30308=Ask a disciple to introduce you to the various hall leaders of Mou
 context_30309=Meet Cai Huachao, leader of the Hall of Fallen Immortals.
 context_30310=Meet Yue Qian, leader of the Hall of Proper Qi.
 context_30311=You've met the hall leaders. It's time to report to the headmaster.
-context_30312=Something terrible has happened at the House of Swords. Mad Emperor's Sword is missing, and the disciple guarding it has been murdered.
 context_30313=Mad Emperor's Sword is missing! You must now find its owner.
 context_30314=Ever since Mad Emperor challenged Abbess Juechen in Emei, many now recognize him and his famous sword. He is last seen in Chengdu.
 context_30315=The people Mad Emperor just killed - were they Emei disciples or evil cultists? Examine their corpses to find out.
@@ -271,7 +270,6 @@ context_30317=You've cleared the minions. Find somewhere to hide while Mad Emper
 context_30318=Listen to the Mad Emperor's story.
 context_30325=An Emei disciple tells you there's a good looking man nearby. See who he is.
 context_30326=Bai the Sage has revealed the truth regarding Li Yunhe's relationship with the headmaster, and it has troubled Li Yunhe greatly. Go to him and learn more.
-context_30330=The major schools and factions are coordinating their efforts to wage war against the evil cult. Ask Zhuge Yun how you and your fellow disciples can do your part on behalf of Mount Hua.
 context_30331=The place where the cultists have supposedly gathered look abandoned, and yet a sinister aura lingers. It must be a trap!
 context_30333=Find out what's bothering the headmaster, and offer him your assistance.
 context_30334=Know-It-All was right, the three foreigners are here. Ask the inn worker about them, then hide as they approach.
@@ -538,7 +536,6 @@ target_30318=Listen to the Mad Emperor's story.
 target_30325=See who this dashing young man is.
 target_30326=Catch up with Li Yunhe.
 target_30330=Do your part in destroying the evil cult.
-target_30331=Look for any cultists that lie in ambush.
 target_30333=Solve the headmaster's problem.
 target_30334=Learn what the foreigners are up to.
 target_30341=Find <a href="findnpc,school17,1877,113,804" style="HLStype1">Han Youtian</a> to participate in training at the Sword of Transformation Platform.
@@ -698,4 +695,7 @@ CanAcceptMenu_30403=<font face="Default" color="#ffffff" >Visit Mount Hua</font>
 accept_30403_1=<font face="Default" color="#ffffff" >Mount Hua's important place. No admission. </font>
 menu_30403_1=<font face="Default" color="#ffffff" >I have something important to report. </font>
 context_30349=A true swordsman knows the importance of how his weapon is wrought. <br>Use hammers that represent the five elements. Know that metal overcomes wood, wood overcomes earth, earth overcomes water, and water overcomes metal. Do not allow any one element to be overcome more than twice, or you will fail.
+context_30330=The major schools and factions are coordinating their efforts to wage war against the evil cult. Ask Zhuge Yun how you and your fellow disciples can do your part on behalf of Mount Hua.
+context_30312=Something terrible has happened at the House of Swords. Mad Emperor's Sword is missing, and the disciple guarding it has been murdered.
+target_30331=Look for any cultists that lie in ambush.
 

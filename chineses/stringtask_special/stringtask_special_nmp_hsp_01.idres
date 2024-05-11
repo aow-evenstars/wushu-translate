@@ -70,7 +70,6 @@ DialogID_16945=<font face="Default" color="#ffffff" >The cultists are after us! 
 DialogID_16946=<font face="Default" color="#ffffff" >Know-It-All…what a curious nickname. There is a Mister Zhou in the city market there that fits this description. Start with him. </font>
 DialogID_16948=<font face="Default" color="#ffffff" >Elder Dan is forging the sword now. He needs more charcoals. Please collect some for him. </font>
 DialogID_16949=<font face="Default" color="#ffffff" >A sword has a soul of its own. With good care, it becomes your most trusted companion.</font>
-DialogID_16950=<font face="Default" color="#ffffff" >Some mysterious people were attacking a young swordsman. I fear the worst.</font>
 DialogID_16952=<font face="Default" color="#ffffff" >It's the Chi…it's the Chi Clan! They've returned…and the cultists are with them!</font>
 DialogID_16954=<font face="Default" color="#ffffff" >This is a restricted area. You cannot enter without proper identification, such as a token.</font>
 DialogID_16955=<font face="Default" color="#ffffff" >If you are here to see the headmaster, you must pass the Trial of the Seven Swords.</font>
@@ -229,7 +228,6 @@ hunterinfo_16803=Kill the <a href="findnpc_new,city04,npc_hsp_mxm26" style="HLSt
 hunterinfo_16804=Kill the <a href="findnpc_new,city04,npc_hsp_mxm27" style="HLStype1">cultists</a>.
 hunterinfo_16805=Kill the <a href="findnpc_new,city04,npc_hsp_mxm28" style="HLStype1">cultists</a>.
 hunterinfo_16806=Defeat <a href="findnpc_new,city04,npc_hsp_mxm29" style="HLStype1">Delta</a>.
-hunterinfo_16807=Kill the <a href="findnpc_new,city04,npc_hsp_cc_001" style="HLStype1">mysterious people</a> attacking the Mount Hua disciples.
 hunterinfo_16808=Pass <a href="findnpc_new,school17,npc_hsp_cc_028" style="HLStype1">Cai Feng</a>'s test.
 hunterinfo_16809=Pass <a href="findnpc_new,school17,npc_hsp_cc_027" style="HLStype1">Lin Yiquan</a>'s test.
 hunterinfo_16810=Pass <a href="findnpc_new,school17,npc_hsp_cc_018" style="HLStype1">Xie Lechao</a>'s test.
@@ -238,8 +236,6 @@ hunterinfo_16812=Pass <a href="findnpc_new,school17,npc_hsp_cc_016" style="HLSty
 hunterinfo_16813=Pass <a href="findnpc_new,school17,npc_hsp_cc_015" style="HLStype1">Dan Huali</a>'s test.
 hunterinfo_16814=Isn't that the first disciple of Hall of Fallen Immortals <a href="findnpc_new,school17,npc_hsp_014" style="HLStype1">Zheng Yunying</a>? He will be a formidable challenge.
 hunterinfo_16815=Why are there cultists in Mount Hua? Defeat <a href="findnpc_new,school17,npc_hsp_attack_yxy002" style="HLStype1">the cultists</a>.
-hunterinfo_16816=Kill the <a href="findnpc_new,school03,npc_hsp_cc_015" style="HLStype1">mysterious person</a> who has infiltrated the Scholars.
-hunterinfo_16817=Kill the <a href="findnpc_new,school03,npc_hsp_cc_016" style="HLStype1">masked person</a> who tries to assassinate Mount Hua disciples at the Scholars.
 hunterinfo_16818=Kill the <a href="findnpc_new,city04,npc_hsp_mxm28" style="HLStype1">cultists.</a>
 hunterinfo_16820=Eliminate <a href="findnpc,school17,1836.827,115.525,768.966" style="HLStype1">Joy.</a>
 hunterinfo_16821=Eliminate <a href="findnpc,school17,1828.491,115.556,767.630" style="HLStype1">Rage.</a>
@@ -412,7 +408,6 @@ interactinfo_16973=Celestial Spearhead is the heirloom of the headmaster's famil
 interactinfo_16974=Speak with Sword of Transformation Platform guardian <a href="findnpc_new,school17,npc_hsp_cc_024" style="HLStype1">Tian Yuanxi</a>.
 interactinfo_16975=Follow <a href="findnpc_new,city03,event_hsp_mxm21" style="HLStype1">Zhuge Yun.</a>
 interactinfo_16976=Find <a href="findnpc_new,school17,NPC_hs_dy_09" style="HLStype1">Lu Yingyang</a><br>. 15 seconds after entering the inner realm, Heart of the Devil activates the sword array and attack. Break the sword array within the time limit. When breaking three sword arrays, all remaining sword arrays will be activated. Break all of them within the time limit to complete the challenge.
-interactinfo_16977=Interact with Empty Soul Sword. When the trial starts, four sword platform disciples will launch 10 waves of Sword Chi. Defeat at least eight waves before they approach Empty Soul Sword. <font face="Default" color="#ff0000" >When completing the trial, click on </font><a href="findnpc_new,school17,npc_hsp_mxm019" style="HLStype1">Empty Soul Sword</a><font face="Default" color="#ff0000" > to submit task.</font>
 interactinfo_16978=Find<a href="findnpc_new,school17,NPC_hs_dy_11" style="HLStype1">Yi Tianzhan.</a>
 interactinfo_16980=Find <a href="findnpc_new,school17,npc_hsp_017" style="HLStype1">Wen Cuiming</a>.
 interactinfo_16981=Learn how to forge sword, and then Speak with Ji Changchuan to enter Sword Forging Hall.
@@ -508,7 +503,6 @@ okmenu_16978=<font face="Default" color="#ffffff" >Clever villains! I'll get you
 okmenu_16980=<font face="Default" color="#ffffff">I go now!</font>
 quest_menu_16750=<font face="Default" color="#ffffff" >Why are you testing me? I know nothing about Mount Hua swordsmanship!</font>
 questioninfo_16750=Visit <a href="findnpc_new,school17,npc_hsp_cc_023" style="HLStype1">Dan Huali</a> at the Spirit Sword Platform and pass his test.
-story_16800_1=<font face="Default" color="#ffffff" >Fret not, I will lend you my service. I have my own issues with Zhou Liwei in particular.</font>
 story_16800_2=<font face="Default" color="#ffffff" >Due to Qian Shenqian we know Zhou Liwei loves opera and is currently attending one in South City. Although he is still in search of us we intend to continue the investigation at the opera stage.</font>
 story_16801_1=<font face="Default" color="#ffffff" >...</font>
 story_16801_2=<font face="Default" color="#ffffff" >What do you want to know?... </font>
@@ -620,4 +614,10 @@ useiteminfo_16751=Go to <a href="findnpc_new,school17,EventNpc_yxy_hs_001" style
 useiteminfo_16752=Treat your injury with <a href="TASK_ITEM,item_hsp_cc_16752" style="HLStype1">Gold Sore Medicine</a>.
 useiteminfo_16753=Place <a href="TASK_ITEM,item_hsp_yxy009" style="HLStype1">Tian Yuanxi's Old Sword</a> into the <a href="findnpc_new,school17,EventNpc_yxy_hs_004" style="HLStype1">House of Swords</a>.
 useiteminfo_16800=Give the <a href="findnpc_new,city04,npc_hsp_mxm30" style="HLStype1">Mad Emperor</a> the <a href="TASK_ITEM,item_hsp_mxm01" style="HLStype1">antidote.</a>
+DialogID_16950=<font face="Default" color="#ffffff" >Some mysterious people were attacking a young swordsman. I fear the worst.</font>
+hunterinfo_16807=Kill the <a href="findnpc_new,city04,npc_hsp_cc_001" style="HLStype1">mysterious people</a> attacking the Mount Hua disciples.
+hunterinfo_16816=Kill the <a href="findnpc_new,school03,npc_hsp_cc_015" style="HLStype1">mysterious person</a> who has infiltrated the Scholars.
+hunterinfo_16817=Kill the <a href="findnpc_new,school03,npc_hsp_cc_016" style="HLStype1">masked person</a> who tries to assassinate Mount Hua disciples at the Scholars.
+interactinfo_16977=Interact with Empty Soul Sword. When the trial starts, four sword platform disciples will launch 10 waves of Sword Chi. Defeat at least eight waves before they approach Empty Soul Sword. <font face="Default" color="#ff0000" >When completing the trial, click on </font><a href="findnpc_new,school17,npc_hsp_mxm019" style="HLStype1">Empty Soul Sword</a><font face="Default" color="#ff0000" > to submit task.</font>
+story_16800_1=<font face="Default" color="#ffffff" >Fret not, I will lend you my service. I have my own issues with Zhou Liwei in particular.</font>
 

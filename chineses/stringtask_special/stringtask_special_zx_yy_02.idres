@@ -82,9 +82,6 @@ collectinfo_3126=Check if there are any <a href="findnpc_new,city05,tianshannpc_
 hunterinfo_3126=Spar with <a href="findnpc_new,city05,tianshan_zyb_001" style="HLStype1"> Dragon Monk</a>.
 hunterinfo_3127=Spar with <a href="findnpc_new,city05,tianshan_zyb_002" style="HLStype1">Tiger Monk</a>.
 hunterinfo_3128=Defeat the hostile monk (Xiangyang Hill 200, 383).
-hunterinfo_3129=Defeat <a href="findnpc_new,scene04_2,tianshan_gw_002" style="HLStype1">hostile monk.</a>
-hunterinfo_3130=Defeat <a href="findnpc_new,scene04_2,tianshan_gw_003" style="HLStype1">hostile monk.</a>
-hunterinfo_3131=Defeat <a href="findnpc_new,scene04_2,tianshan_gw_004" style="HLStype1">hostile monk.</a>
 hunterinfo_3132=Repel and pursue the <a href="findnpc_new,scene04_2,tianshan_gw_006" style="HLStype1">hostile monk.</a>
 hunterinfo_3133=Defeat <a href="findnpc_new,scene04_2,tianshan_gw_007" style="HLStype1">hostile monk.</a>
 hunterinfo_3134=Defeat <a href="findnpc_new,scene04_2,tianshan_gw_008" style="HLStype1">Pyromaniacal Monk.</a>
@@ -98,7 +95,6 @@ interactinfo_3134=Go to <a href="findnpc_new,scene04_2,EventNpc_tianshang002" st
 interactinfo_3135=Talk to <a href="findnpc_new,scene04_2,tianshan_zyb_006" style="HLStype1">monk in Chonggu Temple.</a>
 interactinfo_3136=Talk to <a href="findnpc_new,scene04_2,tianshan_zyb_007" style="HLStype1">monk in Chonggu Temple</a>
 interactinfo_3137=Defeat the hostile monks (Xiangyang Hill 45, 497).
-interactinfo_3138=Defeat hostile monk Leader (Xiangyang Hill 45, 497).
 interactinfo_3139=Leave <a href="findnpc_new,scene04_2,EventNpc_tianshang003" style="HLStype1">Chonggu Temple.</a>
 interactinfo_3140=Defeat the Expert (Xiangyang Hill 161, 437).
 interactinfo_3141=<a href="findnpc_new,scene04_2,EventNpc_tianshang004" style="HLStype1">Escape!</a>
@@ -129,4 +125,8 @@ useiteminfo_3126=Use <a href="TASK_ITEM,useitem_tianshan_001" style="HLStype1">C
 useiteminfo_3127=Put on <a href="TASK_ITEM,useitem_tianshan_002" style="HLStype1">infiltrator's outfit</a>
 useiteminfo_3128=Use <a href="TASK_ITEM,useitem_tianshan_003" style="HLStype1">Howling Arrow</a> at the gate of <a href="findnpc_new,scene04_2,EventNpc_tianshang012" style="HLStype1">Chonggu Temple.</a>
 useiteminfo_3129=Use <a href="TASK_ITEM,useitem_tianshan_004" style="HLStype1">Toxic Fumes</a> in <a href="findnpc_new,scene04_2,EventNpc_tianshang013" style="HLStype1">Chonggu Temple.</a>
+hunterinfo_3129=Defeat <a href="findnpc_new,scene04_2,tianshan_gw_002" style="HLStype1">hostile monk.</a>
+hunterinfo_3130=Defeat <a href="findnpc_new,scene04_2,tianshan_gw_003" style="HLStype1">hostile monk.</a>
+hunterinfo_3131=Defeat <a href="findnpc_new,scene04_2,tianshan_gw_004" style="HLStype1">hostile monk.</a>
+interactinfo_3138=Defeat hostile monk Leader (Xiangyang Hill 45, 497).
 
