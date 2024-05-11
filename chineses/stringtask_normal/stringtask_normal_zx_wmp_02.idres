@@ -2,7 +2,6 @@
 CanAcceptMenu_51501=<font face="Default" color="#ffffff" >Great Changes</font>
 CanAcceptMenu_51502=<font face="Default" color="#ffffff" >Please tell me about the Rootless Clan.</font>
 CanAcceptMenu_51503=<font face="Default" color="#ffffff" >Please tell me about </font><font face="Default" color="#ffffff" >the Palace of Shifting Flowers.</font>
-CanAcceptMenu_51505=<font face="Default" color="#ffffff" >Eight Schools</font>
 CanAcceptMenu_51506=<font face="Default" color="#ffffff" >Please tell me about the emerging factions in Jianghu.</font>
 CanAcceptMenu_51511=<font face="Default" color="#ffffff" >Great Changes</font>
 CanAcceptMenu_51512=<font face="Default" color="#ffffff" >Cultivate Often</font>
@@ -25,7 +24,6 @@ CanAcceptMenu_51636=<font face="Default" color="#ffffff" >I am stronger than you
 CompleteMenu_51501=<font face="Default" color="#ffffff" >Great Changes (complete)</font>
 CompleteMenu_51502=<font face="Default" color="#ffffff" >I have a letter for you.</font>
 CompleteMenu_51503=<font face="Default" color="#ffffff" >Tell me more about the Palace of Shifting Flowers.</font>
-CompleteMenu_51505=<font face="Default" color="#ffffff" >Thank you for your advice.</font>
 CompleteMenu_51506=<font face="Default" color="#ffffff" >Listen to the monk's explanation of Jianghu factions.</font>
 CompleteMenu_51511=<font face="Default" color="#ffffff" >Great Changes (complete)</font>
 CompleteMenu_51512=<font face="Default" color="#ffffff" >Cultivate Often (Complete)</font>
@@ -57,7 +55,6 @@ accept_51501_1=<font face="Default" color="#ffffff" >Young Hero, old man, what i
 accept_51502_1=<font face="Default" color="#ffffff" >Recently my teacher </font><font face="Default" color="#ffffff" >has been thinking about a friend from the past. Please take this letter for me to a friend at the Rootless Clan and </font><font face="Default" color="#ffffff" >send my </font><font face="Default" color="#ffffff" >greetings </font><font face="Default" color="#ffffff" >to him. </font>
 accept_51503_1=<font face="Default" color="#ffffff" >When roaming Jianghu, if you are not a part of a faction, it may appear that you are leading a life of freedom. But at times you will find that you lack strength while being alone. If you were to have a backing of a greater faction, it would be easier to get things done. </font><font face="Default" color="#ffffff" >So a deeper understanding of the factions will be beneficial for you.</font>
 accept_51504_1=<font face="Default" color="#ffffff" >When roaming Jianghu, if you are not a part of a faction, it may appear that you are leading a life of freedom. But at times you will find that you lack strength while being alone. If you were to have a backing of a greater faction, it would be easier to get things done. </font><font face="Default" color="#ffffff" >So a deeper understanding of the factions will be beneficial for you.</font>
-accept_51505_1=<font face="Default" color="#ffffff" >You have been wandering Jianghu for some time now, don't you feel that it is sometimes inconvenient to not have the backing of a school or faction to rely on? If you would like to join one of the Eight Schools, I can help you, </font><font face="Default" color="#ffffff" >but there are requirements for joining each school</font><font face="Default" color="#ffffff" >.</font>
 accept_51506_1=<font face="Default" color="#ffffff" >Indeed. These are turbulent times, and where the combined might of the imperial army and the eight schools once maintained order, old factions now emerge from the shadows.</font>
 accept_51511_1=<font face="Default" color="#ffffff" >Young Hero, old man, what is happening?</font>
 accept_51512_1=<font face="Default" color="#ffffff" >Young Hero, during your time at Ruined Valley you have done many good deeds. We have been keeping an eye on you. </font>
@@ -69,7 +66,6 @@ accept_51636_1=<font face="Default" color="#ffffff" >Wanderer's Valley has no pl
 complete_51501=<font face="Default" color="#ffffff" >Young Hero, this old man only know so much. I wish I could be of more help.</font>
 complete_51502=<font face="Default" color="#ffffff" >Thank you for being my messenger. As you already understand the requirements for joining the Rootless Clan, </font><font face="Default" color="#ffffff" >once </font><font face="Default" color="#ffffff" >you change your mind</font><font face="Default" color="#ffffff" > you can come back</font><font face="Default" color="#ffffff" > and find me any time.</font>
 complete_51503=<font face="Default" color="#ffffff" >Palace of Shifting Flowers does not take mediocre students. They have very strict</font><font face="Default" color="#ffffff" > requirements.</font><font face="Default" color="#ffffff" > If you would like to join them you need to reach</font><font face="Default" color="#ffffff" > their</font><font face="Default" color="#ffffff" > standards.</font>
-complete_51505=<font face="Default" color="#ffffff" >If you would like to join the Eight Schools, </font><font face="Default" color="#ffffff" >you can take this secret order to the guides at the schools. They will instruct you on how to join.</font>
 complete_51506=<font face="Default" color="#ffffff" >Listen carefully to what I have to tell you, it will help you in the future when roaming Jianghu.</font>
 complete_51511=<font face="Default" color="#ffffff" >I only know so much. I wish I could be of more help.</font>
 complete_51512=<font face="Default" color="#ffffff" >Kind deeds are rewarded and evil deeds punished. Kind person, for your good deeds I give this to you, it will help you with your future training. </font>
@@ -93,8 +89,6 @@ context_51501=Recently there seems to be unrest in Jianghu, many members of diff
 context_51502=The monk was once acquainted with a member of Rootless Clan. He asks you to take a letter to this long-lost old friend.
 context_51503=There are now many powerful factions in Jianghu. If you were to have a reliable force backing you, it would make it a lot easier for you to get things done. Learning more about the factions will be very beneficial for your future.
 context_51504=There are now several powerful factions in Jianghu. Learning more about them will be very beneficial for your future.
-context_51505=I want to find a powerful and reliable faction. If I want to join one of the Eight Schools, I need to fulfill their requirements.
-context_51506=Some factions have been developing quickly, and even surpassed the eight major schools in their power and prestige. You should learn more about them.
 context_51511=There has been much unrest of late. Find out what's been happening.
 context_51512=I have been in Jianghu for some time now, all my charitable deeds along the way have been noted by the Messengers of Good and Evil. The Messengers reward those who do good and punish those who do evil.
 context_51621=<s>Find Immortal Ziyang, and pass his test to join the Wudang.
@@ -165,7 +159,6 @@ submit_51635=<font face="Default" color="#ffffff" >I will not forget.</font>
 submit_51636=<font face="Default" color="#ffffff" >Thank you my Lord, I am relieved.</font>
 target_51501=Recently there has been a lot of unrest in Jianghu and many changes. Hear Tu Yong tell you about his experience.
 target_51503=Learn about the Palace of Shifting Flowers
-target_51505=Learn from the monk the requirements and restrictions for joining the Eight Schools.
 target_51506=Listen to the monk's explanation of the emerging factions in Jianghu.
 target_51511=There has been much unrest of late. Hear what Tu Yong has to say about it.
 target_51512=Go to Ruined Valley to meet the Messengers of Good and Evil.
@@ -212,7 +205,6 @@ task_menu_complete_51628=Please, I would be honored to learn the ways of Wandere
 title_51501=Great Changes
 title_51502=Jianghu Faction: Rootless Clan
 title_51503=Jianghu Faction: Palace of Shifting Flowers
-title_51505=Joining one of the Eight Schools
 title_51506=Jianghu Factions (2)
 title_51511=Great Changes
 title_51512=Practice and Cultivate your Skills
@@ -463,4 +455,32 @@ CompleteMenu_51504=<font face="Default" color="#ffffff" >I understand.</font>
 complete_51504=<font face="Default" color="#ffffff" >Surely you are now familiar with the requirements for joining Peach Blossom Island?</font>
 target_51504=Learn about Peach Blossom Island
 title_51504=Jianghu Faction: Peach Blossom Island
+CanAcceptMenu_51637=<font face="Default" color="#ffffff" >Become A Disciple</font>
+CanAcceptMenu_51638=<font face="Default" color="#ffffff" >Become A Disciple (Acceptable)</font>
+CompleteMenu_51637=<font face="Default" color="#ffffff" >Fulfill the task.</font>
+CompleteMenu_51638=<font face="Default" color="#ffffff" >Join the School (Complete)</font>
+accept_51637_1=<font face="Default" color="#ffffff" >Since you want to join Ming Cult, go to see the leader. Pass the test to join the Ming Cult. </font>
+accept_51638_1=<font face="Default" color="#ffffff" >If you want to enter the cult, there are things you must know. </font>
+complete_51637=<font face="Default" color="#ffffff" >Why are you here? </font>
+complete_51638=<font face="Default" color="#ffffff" >Hereby I proclaim you a Ming Cult disciple. </font>
+context_51637=Since you want to join Ming Cult, go to see the leader. Pass the test to join the Ming Cult.
+context_51638=Listen to Ming Shiyue about Ming Cult teachings and mission.
+menu_51637_1=<font face="Default" color="#ffffff" >I will return later.</font>
+menu_51638_1=<font face="Default" color="#ffffff" >I will remember the instructions. </font>
+next_51637=
+next_51638=
+submit_51637=<font face="Default" color="#ffffff" >I wish to join the Ming Cult. </font>
+submit_51638=<font face="Default" color="#ffffff" >Cult Leader, thank you. </font>
+target_51637=Find the Ming Cult, and ask the leader to accept you as a disciple.
+target_51638=Talk to the leader.
+title_51637=Head to Ming Cult
+title_51638=Joining a School
+CanAcceptMenu_51505=<font face="Default" color="#ffffff" >Eight Schools</font>
+CompleteMenu_51505=<font face="Default" color="#ffffff" >Thank you for your advice.</font>
+accept_51505_1=<font face="Default" color="#ffffff" >You have been wandering Jianghu for some time now, don't you feel that it is sometimes inconvenient to not have the backing of a school or faction to rely on? If you would like to join one of the Eight Schools, I can help you, </font><font face="Default" color="#ffffff" >but there are requirements for joining each school</font><font face="Default" color="#ffffff" >.</font>
+complete_51505=<font face="Default" color="#ffffff" >If you would like to join the Eight Schools, </font><font face="Default" color="#ffffff" >you can take this secret order to the guides at the schools. They will instruct you on how to join.</font>
+context_51505=I want to find a powerful and reliable faction. If I want to join one of the Eight Schools, I need to fulfill their requirements.
+context_51506=Some factions have been developing quickly, and even surpassed the eight major schools in their power and prestige. You should learn more about them.
+target_51505=Learn from the monk the requirements and restrictions for joining the Eight Schools.
+title_51505=Joining one of the Eight Schools
 

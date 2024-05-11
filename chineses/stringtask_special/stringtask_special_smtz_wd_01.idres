@@ -132,4 +132,41 @@ specialinfo_467=Complete faction challenge against Mount Song Sword Sect (one su
 specialinfo_470=Complete faction challenge against Huanhua Sword Sect (Pass within 5 minutes)
 specialinfo_471=Pass Peacock Villa (Difficulty Level: random)
 specialinfo_472=Complete faction challenge against Xingxiu Sect (Pass within 5 minutes)
+DialogID_58610=<font face="Default" color="#ffffff" >Recently, Tiger Roaring Villa has been heavily guarded. I am afraid it is not easy for us to spy this secretly. </font>
+DialogID_58611=<font face="Default" color="#ffffff" >Murder case in Green Cloud Castle? Please do not keeping asking. This matter is very weird. If you do not have any other thing, you'd better make haste and leave here!</font>
+interactinfo_58610=Inquire <a href="findnpc_new,school07,wd170" style="HLStype1">Mysterious Jianghu Guest</a>
+interactinfo_58611=Find<a href="findnpc_new,city04,FunnpcClone021007" style="HLStype1">Xiao Bing</a> and inquire about what happened in Green Cloud Castle
+okmenu_58610=<font face="Default" color="#ffffff" >In this case, we will break in and find out what actually happened.</font>
+okmenu_58611=<font face="Default" color="#ffffff" >(Maybe he only knows a part of it, but he is unwilling to tell, which is really irritating)</font>
+specialinfo_1365=Pass-clearance Tiger Roaring Villa
+specialinfo_1366=Twilight Village is off limits.
+specialinfo_1367=Pass-clearance Forbidden Instance Green Cloud Castle, find out what was actually going on
+story_58608_1=<font face="Default" color="#ffffff" >The Tiger Roaring Villa seems to be plotting something. I have dispatched disciples to notify
+story_58609_1=<font face="Default" color="#ffffff" >A lot of Jianghu Men appear in Suzhou City recently and I do not know why. Ming Cult Disciples reported that those Jianghu men are quite ferocious
+story_58610_1=<font face="Default" color="#ffffff" >Hi! You are asking the right person. These men are from the Han family of Xi Mountain. They were going to
+story_58610_2=<font face="Default" color="#ffffff" >Alas! Such people are really cruel and heartless. They caught a group of villagers and force Zhao Ziji to admit and surrender. Those villagers
+story_58611_1=<font face="Default" color="#ffffff" >They must have known where Zhao Ziji is, so they went to Twilight Village. Alas! The revenge will be endless for past
+story_58612_1=<font face="Default" color="#ffffff" >Many died in Luoyang City although the Wudang disciples have not identified what actually happened. It caused panic in Jianghu. Only the specific matter
+story_58612_2=<font face="Default" color="#ffffff" >There is no obvious wound on the bodies of the dead people. It seems that they were greatly frightened and saw extremely frightening things with their eyes
+story_58613_1=<font face="Default" color="#ffffff" >No problem. I have heard of the matter of Butterfly Murder in Green Cloud Castle. I am afraid this is not the end. The only way now is
+story_menu_58608=<font face="Default" color="#ffffff" >What can I do for you, Headmaster?</font>
+story_menu_58609=<font face="Default" color="#ffffff" >What are you worried about, Headmaster?</font>
+story_menu_58610=<font face="Default" color="#ffffff" >Waiter, there are a lot of Jianghu men coming here recently. What happened?</font>
+story_menu_58611=<font face="Default" color="#ffffff" >Headmaster, people from Han Family mustered other people, slaughtered the innocent people and acted recklessly in Twilight Village in Suzhou City! </font>
+story_menu_58612=<font face="Default" color="#ffffff" >I have no idea. Please give me instructions, Headmaster.</font>
+story_menu_58613=<font face="Default" color="#ffffff" >Headmaster, I am sorry and I have not identified the truth.</font>
+storyinfo_58608=Visit the Headmaster <a href="findnpc_new,school20,newmp_mj_001" style="HLStype1">Ming Shiyue</a> and see if he has any orders.
+storyinfo_58609=Visit the Headmaster <a href="findnpc_new,school20,newmp_mj_001" style="HLStype1">Ming Shiyue</a> and see if he has any orders.
+storyinfo_58610=Inquire the Waiter<a href="findnpc_new,city02,WorldNpc01054" style="HLStype1">Yu Liang</a>
+storyinfo_58611=Report to <a href="findnpc_new,school20,newmp_mj_001" style="HLStype1">Ming Shiyue</a>
+storyinfo_58612=See Headmaster, <a href="findnpc_new,school20,newmp_mj_001" style="HLStype1">Ming Shiyue</a>, to know if the Headmaster has any orders
+storyinfo_58613=Tell the Headmaster <a href="findnpc_new,school20,newmp_mj_001" style="HLStype1">Ming Shiyue</a>what happened
+storymenu_58608_1=<font face="Default" color="#ffffff" >I understand.</font>
+storymenu_58609_1=<font face="Default" color="#ffffff" >I understand.</font>
+storymenu_58610_1=<font face="Default" color="#ffffff" >Really? Where are the villagers of Twilight Village? You'd better not hurt the innocent people in such a scaled fight.</font>
+storymenu_58610_2=<font face="Default" color="#ffffff" >Thank you for informing me, waiter.</font>
+storymenu_58611_1=<font face="Default" color="#ffffff" >I understand.</font>
+storymenu_58612_1=<font face="Default" color="#ffffff" >Are there any weird things on those dead people?</font>
+storymenu_58612_2=<font face="Default" color="#ffffff" >I understand.</font>
+storymenu_58613_1=<font face="Default" color="#ffffff" >I understand.</font>
 

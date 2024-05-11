@@ -363,7 +363,6 @@ context_70800=Under the leadership of Zhuo Bei, the Foreign Wulin Camp has occup
 context_70802=Head to the Ruined Valley with Jiugong Elder.
 context_70804=The Central Plains Camp is lack of supplies. Could you collect some supplies for the battle against the Foreign Wulin?
 context_70807=Some Foreign Killers have disguised themselves as the bodyguards of Wulin Leader. Go tell it to him as soon as possible.
-context_70808=The internal strife and the Japanese invasion made the foreign camp believe that it was the right time for them to conquest the Central Plains Camp. So they occupied Ruined Valley and have been waiting for an opportunity to defeat all other schools. Lin Tiannan opened a path to the Ruined Valley and invited all Wulin heroes of the Central Plains to rally at the Ruined Valley. The battle is about to take place.
 menu_70036_1=<font face="Default" color="#ffffff" >Happy new year</font>
 menu_70037_1=<font face="Default" color="#ffffff" >Happy new year. </font>
 menu_70038_1=<font face="Default" color="#ffffff" >Happy new year</font>
@@ -579,17 +578,14 @@ context_70054=No pain, No gain. Receive the task at the Competition Area in Suzh
 context_70055=No pain, No gain. Receive the task at the Competition Area in Suzhou and defeat any faction once to receive rich rewards.
 context_70056=No pain, No gain. Receive the task at the Competition Area in Suzhou and complete any Forbidden Instance once to receive rich rewards.
 context_70057=No pain, No gain. Receive the task at the Competition Area in Suzhou and win the Battlefield once to receive rich rewards.
-context_70058=No pain, No gain. Receive the task at the Competition Area in Suzhou and win the Ruined Valley Battle twice to receive rich rewards.
 target_70054=Complete Heart of the Devil trial once.
 target_70055=Defeat any Faction once.
 target_70056=Complete the Forbidden Instance once.
 target_70057=Win the Battlefield once.
-target_70058=Win the Ruined Valley Battle twice.
 title_70054=Model of Marital Practice - Heart of the Devil
 title_70055=Model of Marital Practice - Martial Arts Club Challenge
 title_70056=Model of Marital Practice - Forbidden Instance
 title_70057=Model of Marital Practice - Battlefield
-title_70058=Model of Marital Practice - Ruined Valley Battle
 CanAcceptMenu_70059=<font face="Default" color="#ffffff" >Complete the Heaven Reaching Peak to get rewards</font>
 CompleteMenu_70059=<font face="Default" color="#ffffff" >Complete the Heaven Reaching Peak to get rewards (can submit)</font>
 accept_70059_1=<font face="Default" color="#ffffff" >Heaven Reaching Peak is open. Are you ready for the challenge? You will get rewards if you complete it! </font>
@@ -627,24 +623,12 @@ target_70063=Go to Event Ambassador Shang Wu to claim rewards
 target_70064=Go to Event Ambassador Shang Wu to claim rewards
 context_70063=During the event period, all players, who registered on the new server, can receive New Server Registration Reward from Event Ambassador Shang Wu.
 context_70064=During the event period, all players, who registered on the new server, can receive New Server Competition Pack from Event Ambassador Shang Wu.
-context_70201=The Guild has been slacking off recently. Regardless of your power, you have to train regularly. (Complete this task to get 125 Lucky points for your Guild)
-context_70202=Guild’s Luck growth is inseparable from increasing its’ resources supply. Donate some resources to your Guild. (Complete this task to get 75 Lucky points for your Guild)
-context_70203=Know your enemy, and you will win battle after battle. Defeat enemy Guild players 3 times to suppress their development. (Complete this task to get 175 Lucky points for your Guild)
-context_70204=Guild’s power lies in power of each member. Train hard, and watch your Guild getting stronger with you. (Complete this task to get 75 Lucky points for your Guild)
-context_70205=The Four Noble Households are recently holding numerous activities. Guilds should be in touch with the Households. (Complete this task to get 125 Lucky points for your Guild)
-context_70206=It is said that Jianghu’s Tertiary and Secondary Territories have excellent Feng Shui. Examine these territories. (Complete this task to get 75 Lucky points for your Guild)
-context_70207=Jianghu is recently in disorder, thus escort business is booming. Let’s use it to our advantage. (Complete this task to get 15 Lucky points for your Guild)
-next_70201=<a href="findnpc_new,city01,Guild_tasknpc_001" style="HLStype1">Guild Task Master (Yanjing)</a><br><a href="findnpc_new,city02,Guild_tasknpc_001" style="HLStype1">Guild Task Master (Suzhou)</a><br><a href="findnpc_new,city04,Guild_tasknpc_001" style="HLStype1">Guild Task Master (Luoyang)</a><br><a href="findnpc_new,city05,Guild_tasknpc_001" style="HLStype1">Guild Task Master (Chengdu)</a><br>
 next_70202=<a href="findnpc_new,city01,Guild_tasknpc_001" style="HLStype1">Guild Task Master (Yanjing)</a><br><a href="findnpc_new,city02,Guild_tasknpc_001" style="HLStype1">Guild Task Master (Suzhou)</a><br><a href="findnpc_new,city04,Guild_tasknpc_001" style="HLStype1">Guild Task Master (Luoyang)</a><br><a href="findnpc_new,city05,Guild_tasknpc_001" style="HLStype1">Guild Task Master (Chengdu)</a><br>
 next_70203=<a href="findnpc_new,city01,Guild_tasknpc_001" style="HLStype1">Guild Task Master (Yanjing)</a><br><a href="findnpc_new,city02,Guild_tasknpc_001" style="HLStype1">Guild Task Master (Suzhou)</a><br><a href="findnpc_new,city04,Guild_tasknpc_001" style="HLStype1">Guild Task Master (Luoyang)</a><br><a href="findnpc_new,city05,Guild_tasknpc_001" style="HLStype1">Guild Task Master (Chengdu)</a><br>
-next_70204=<a href="findnpc_new,city01,Guild_tasknpc_001" style="HLStype1">Guild Task Master (Yanjing)</a><br><a href="findnpc_new,city02,Guild_tasknpc_001" style="HLStype1">Guild Task Master (Suzhou)</a><br><a href="findnpc_new,city04,Guild_tasknpc_001" style="HLStype1">Guild Task Master (Luoyang)</a><br><a href="findnpc_new,city05,Guild_tasknpc_001" style="HLStype1">Guild Task Master (Chengdu)</a><br>
 next_70205=<a href="findnpc_new,city01,Guild_tasknpc_001" style="HLStype1">Guild Task Master (Yanjing)</a><br><a href="findnpc_new,city02,Guild_tasknpc_001" style="HLStype1">Guild Task Master (Suzhou)</a><br><a href="findnpc_new,city04,Guild_tasknpc_001" style="HLStype1">Guild Task Master (Luoyang)</a><br><a href="findnpc_new,city05,Guild_tasknpc_001" style="HLStype1">Guild Task Master (Chengdu)</a><br>
 next_70206=<a href="findnpc_new,city01,Guild_tasknpc_001" style="HLStype1">Guild Task Master (Yanjing)</a><br><a href="findnpc_new,city02,Guild_tasknpc_001" style="HLStype1">Guild Task Master (Suzhou)</a><br><a href="findnpc_new,city04,Guild_tasknpc_001" style="HLStype1">Guild Task Master (Luoyang)</a><br><a href="findnpc_new,city05,Guild_tasknpc_001" style="HLStype1">Guild Task Master (Chengdu)</a><br>
-next_70207=<a href="findnpc_new,city01,Guild_tasknpc_001" style="HLStype1">Guild Task Master (Yanjing)</a><br><a href="findnpc_new,city02,Guild_tasknpc_001" style="HLStype1">Guild Task Master (Suzhou)</a><br><a href="findnpc_new,city04,Guild_tasknpc_001" style="HLStype1">Guild Task Master (Luoyang)</a><br><a href="findnpc_new,city05,Guild_tasknpc_001" style="HLStype1">Guild Task Master (Chengdu)</a><br>
-target_70201=Finish Guild Team Practice once (all the participants should be from the same Guild)
 target_70202=Donate Basic resources to your Guild (Use Life Skills)
 target_70203=Defeat enemy Guild players 3 times
-target_70204=Practice and Cultivate your Skills once
 target_70205=Finish Guild Team gameplay once (players of the same Guild should form a team)
 target_70206=Find a Feng Shui specialist, examine the Feng Shui of these territories and get a Feng Shui map.
 target_70207=Complete Guild’s escort mission
@@ -687,7 +671,7 @@ CanAcceptMenu_70082=<font face="Default" color="#ffffff" >Spring Wind Brings War
 CompleteMenu_70082=<font face="Default" color="#ffffff" >Complete Request</font>
 CompleteMenu_70065=<font face="Default" color="#ffffff" >Fulfill the task.</font>
 accept_70065_1=<font face="Default" color="#ffffff" >Master and disciple take a trip in Jianghu together. This remind me of the time following Jiugong Elder. What a good time, but it had gone away. If you can overcome the difficulties, I will give you the rewards.</font>
-accept_70082_1=<font face="Default" color="#ffffff" >  古人云“胜日寻芳泗水滨，无边光景一时新”，诚不我欺也。嗯？这位少侠也是前来踏青赏春的吗？</font>
+accept_70082_1=<font face="Default" color="#ffffff" >Are you here to enjoy a beautiful spring walk?</font>
 complete_70065=<font face="Default" color="#ffffff" >Well done. It seems that you have a good master/disciple.</font>
 complete_70082=<font face="Default" color="#ffffff" >It seems that our meeting is fate. Here is a some gift, please receive.</font>
 context_70065=Master and disciple take a trip in Jianghu together. This remind me of the time following Jiugong Elder. What a good time, but it had gone away. If you can overcome the difficulties, I will give you the rewards.
@@ -734,26 +718,14 @@ target_70069=Wish you to have a good luck and be healthy and wealthy!
 target_70070=Complete School Invitation Note once.
 title_70069=New Year Blessing
 title_70070=School Invitation Note
-context_70071=[Meng Guang the Suzhou Tavern Owner] prepared many new year goods for those lonely elders, but he is busying with the tavern matters, so please help him to deliver the goods.
-context_70072=[Meng Guang the Suzhou Tavern Owner] prepared many new year goods for those lonely elders, but he is busying with the tavern matters, so please help him to deliver the goods.
-context_70073=[Meng Guang the Suzhou Tavern Owner] prepared many new year goods for those lonely elders, but he is busying with the tavern matters, so please help him to deliver the goods.
-context_70074=[Meng Guang the Suzhou Tavern Owner] prepared many new year goods for those lonely elders, but he is busying with the tavern matters, so please help him to deliver the goods.
-target_70071=Send the new year goods prepared by Meng Guang to the old beggar Fan Yitang (583, 450).
-target_70072=Send the new year goods prepared by Meng Guang to the old widow Xu Yun (540, 429).
-target_70073=Send the new year goods prepared by Meng Guang to the Study Master Yan Lun (471, 433).
-target_70074=Send the new year goods prepared by Meng Guang to the drunkard Xie Guangtian (621, 420).
 title_70071=Help the Old and the Poor (1)
 title_70072=Help the Old and the Poor (2)
 title_70073=Help the Old and the Poor (3)
 title_70074=Help the Old and the Poor (4)
 context_70075=New year presents fine gifts. During the event, you can claim a Spring Festival Large Gift Pack at Lin Liang the Event Ambassador.
 context_70076=New year brings new look. During the event, you can claim a New Year at Lin Liang the Event Ambassador everyday if you've reach Realized Potential.
-context_70077=During the event, you can claim Colorful Holiday Quest (1) at Lin Liang the Event Ambassador everyday. After completing you will get 1 Spring Festival Celebrating Token.
-context_70078=During the event, you can claim Colorful Holiday Quest (2) at Lin Liang the Event Ambassador everyday. After completing you will get 1 Spring Festival Return Token.
 target_70075=Claim Spring Festival Large Gift Pack at Lin Liang the Event Ambassador.
 target_70076=During the event, you can claim a New Year at Lin Liang the Event Ambassador everyday if you've reach Realized Potential.
-target_70077=Claim Colorful Holiday Quest at Lin Liang the Event Ambassador. After completing you will get Spring Festival Celebrating Token (Only VIP players can accept).
-target_70078=Claim Colorful Holiday Quest (2) at Lin Liang the Event Ambassador. After completing you will get Spring Festival Return Token (Only VIP players can accept).
 title_70075=Chicken Year presents surprise gifts.
 title_70076=New Years Red Pack presents big gifts.
 title_70077=Colorful Holiday Quest (1)
@@ -773,7 +745,6 @@ menu_70081_1=<font face="Default" color="#ffffff" >I like it.</font>
 submit_70081=<font face="Default" color="#ffffff" >Thank you, have a happy holiday.</font>
 target_70081=Timeless Beauty
 title_70081=Miss No.1
-context_70083=Trouble Rising Again quest are added to increase your might. After completing the corresponding quest you will get Trouble Rising Again Certificate. You can exchange for rewards such as school reversal meridian items (level 1-180), 3000000 Cultivation Perfusion Pack, 1500000 Cultivation Pack and so on with the certificate at Suzhou (472, 314) Fan Hongju.
 target_70083=Complete Trouble Rising Again series quest.
 title_70083=Trouble Rising Again
 CanAcceptMenu_70084=<font face="Default" color="#ffffff" >Don’t worry. I’ll help you to find the kite. </font>
@@ -786,4 +757,400 @@ submit_70084=<font face="Default" color="#ffffff" >Okay, thank you, little boy.<
 target_70084=Help the shepherd boy to find back his kite.
 title_70084=Where to Find Apricot Blossom Alcohol
 title_70401=Ruined Valley Worship
+CanAcceptMenu_70085=<font face="Default" color="#ffffff" >Many swordsmen gather together</font>
+CanAcceptMenu_70086=<font face="Default" color="#ffffff" >Duel with martial arts</font>
+CanAcceptMenu_70093=<font face="Default" color="#ffffff" >It's Dragon Boat Festival again. Here's gift pack for everyone.</font>
+CanAcceptMenu_70102=<font face="Default" color="#ffffff" >Support Ming Cult (Acceptable)</font>
+CanAcceptMenu_70126=<font face="Default" color="#ffffff" >School Invitation Note (Acceptable)</font>
+CanAcceptMenu_70142=<font face="Default" color="#ffffff" >New Year Painted Egg
+CanAcceptMenu_70143=<font face="Default" color="#ffffff" >Mysterious Colored Egg</font>
+CompleteMenu_70142=<font face="Default" color="#ffffff" >Fulfill the task.</font>
+CompleteMenu_70143=<font face="Default" color="#ffffff" >Fulfill the task.</font>
+CompleteMenu_70085=<font face="Default" color="#ffffff" >Fulfill the task.</font>
+CompleteMenu_70086=<font face="Default" color="#ffffff" >Fulfill the task.</font>
+CompleteMenu_70126=<font face="Default" color="#ffffff" >School Invitation Note (Complete)</font>
+accept_70126_1=<font face="Default" color="#ffffff" >Every Wulin faction received fresh blood. The Alliance Leader must attend the newcomer ceremony of each school, but he has many matters to attend to. Hereby the hero is required to deliver School Invitation Notes. Hopefully the schools' Headmasters will be forgiving to this shortcoming. </font>
+complete_70126=<font face="Default" color="#ffffff" >Here is your reward. Please take it.</font>
+context_70126=Every Wulin faction received fresh blood. The Alliance Leader must attend the newcomer ceremony of each school, but he has many matters to attend to. Hereby the hero is required to deliver School Invitation Notes. Hopefully the schools' Headmasters will be forgiving to this shortcoming.
+menu_70126_1=<font face="Default" color="#ffffff" >All right.</font>
+submit_70126=<font face="Default" color="#ffffff" >Thank you.</font>
+target_70126=Complete School Invitation Note once.
+title_70126=School Invitation Note
+CompleteMenu_70093=<font face="Default" color="#ffffff" >Fulfill the task.</font>
+CompleteMenu_70102=<font face="Default" color="#ffffff" >Support Ming Cult</font><font face="Default" color="#ffffff" > (Completed) </font>
+accept_70085_1=<font face="Default" color="#ffffff" >Days have passed since the Foreign Wulin attacked the Central Wulin. Foreign Wulin force slowly decreases. But the Foreign Wulin force in Evil Men's Valley remains strong. Jiugong Elder and I had a discussion. We think it is a good time to clear up the remaining evil force. Thus I send out invitations to many heroes to defeat Foreign Wulin evil force together. Here is a gift for answering my invitation.</font>
+accept_70086_1=<font face="Default" color="#ffffff" >Now many swordsmen in Jianghu come together. Many famous heroes also come. Many want to duel each other and improve skills. Thus duelling slowly becomes a trend in Central Wulin.</font> <font face="Default" color="#ffffff" >You look skilled in martial arts. Do you want to duel me?</font>
+accept_70093_1=<font face="Default" color="#ffffff" >It's the time for</font> <font face="Default" color="#ffffff" >Dragon Boat Festival</font> <font face="Default" color="#ffffff" >again. If you log in during</font> <font face="Default" color="#ffffff" >Dragon Boat Festival</font><font face="Default" color="#ffffff" >, then you can obtain a reward from me.</font>
+accept_70102_1=<font face="Default" color="#ffffff" >Ming Cult has entered the world, they delve deep into Internal skills teachings. Many Five Aggregates Books are required to hold the inner demon, and the disciples were ordered to collect them. Anyone to donate will have Ming Cult gratitude. </font>
+accept_70142_1=<font face="Default" color="#ffffff" >New year brings new tidings! If you can successfully Challenge the Possessed twice, I will give you this New Year Painted Egg Brocade Box. </font>
+accept_70143_1=<font face="Default" color="#ffffff" >Where did you get this Mysterious Colored Egg? Where did you get this? </font><font face="Default" color="#ffffff" >This is a gift to Western Regions. This precious item was taken at the halfway by bandits. </font>
+complete_70085=<font face="Default" color="#ffffff" >You have so much potential. On the trip to Evil Men's Valley this time, there are many of dangers. Stay alert.</font>
+complete_70086=<font face="Default" color="#ffffff" >Haha. Good! Central Wulin has new stars like you. How fortunate!</font>
+complete_70093=<font face="Default" color="#ffffff" >Wish you a good trip.</font>
+complete_70102=<font face="Default" color="#ffffff" >Well done. Here's the reward for you. </font>
+complete_70142=<font face="Default" color="#ffffff" >Not bad! Not bad at all! Your martial arts become refined and your Jianghu fame is just round the corner. </font>
+complete_70143=<font face="Default" color="#ffffff" >  </font><font face="Default" color="#ffffff" >Thank you. Please accept this humble gift.</font>
+context_70085=Days have passed since the Foreign Wulin attacked the Central Wulin. Foreign Wulin force slowly decreases. But the Foreign Wulin force in Evil Men's Valley remains strong. Jiugong Elder and I had a discussion. We think it is a good time to clear up the remaining evil forces. Thus I sent out invitations to many heroes to defeat Foreign Wulin evil force together. Here is a gift for you for answering my invitation.
+context_70086=Now many swordsmen in Jianghu come together. Many famous heroes also come. Many want to duel each other and improve skills. Thus duelling slowly becomes a trend in Central Wulin. Duel with Wudang Celebrity Yu Xuanzi.
+context_70093=During the event period, log in and head to Event Ambassador Lin Liang to get Dragon Boat Festival Gift Pack. (Each character can get it only once.)
+context_70102=Ming Cult has entered the world, they delve deep into Internal skills teachings. Many Five Aggregates Books are required to hold the inner demon, and the disciples were ordered to collect them. Anyone to donate will have Ming Cult gratitude.
+context_70142=New year brings new tidings! If you can successfully Challenge the Possessed twice, I will give you this New Year Painted Egg Brocade Box.
+context_70143=Where did you get this Mysterious Colored Egg? Where did you get this?
+context_70232=Guild chi growth is closely connected to its resources storage. Donate resources to your own guild.
+context_70233=Knowing both your enemies and yourself well will lead you to success. Complete escort once and raid escort once.
+context_70234=The guild needs all members to improve themselves and cultivate hard. Only then will the power of the guild be improved.
+context_70235=Recently the Four Families are very active. Now there is a need to connect all families.
+context_70236=Recently there is a rumor in Jianghu that Heaven and Earth Guild territories have a great landscape. Go to there and investigate.
+menu_70085_1=<font face="Default" color="#ffffff" >I will live and die for Central Wulin.</font>
+menu_70086_1=<font face="Default" color="#ffffff" >No, I wouldn't dare to. You are an expert in martial arts. I wouldn't dare to be rude. </font>
+menu_70093_1=<font face="Default" color="#ffffff" >Thank you.</font>
+menu_70102_1=<font face="Default" color="#ffffff" >Okay, let me think about it! </font>
+menu_70142_1=<font face="Default" color="#ffffff" >Wait a bit. I'm on my way.</font>
+menu_70143_1=<font face="Default" color="#ffffff" >What should we do now? Do not return it, this might be my undoing. </font>
+next_70232=Press H to open guild interface. Submit quest at "Guild Lucky Points" - "Obtain Luck Points".
+next_70233=Press H to open guild interface. Submit quest at "Guild Lucky Points" - "Obtain Luck Points".
+next_70234=Press H to open guild interface. Submit quest at "Guild Lucky Points" - "Obtain Luck Points".
+next_70235=Press H to open guild interface. Submit quest at "Guild Lucky Points" - "Obtain Luck Points".
+next_70236=Press H to open guild interface. Submit quest at "Guild Lucky Points" - "Obtain Luck Points".
+next_70093=
+next_70142=
+next_70143=
+submit_70085=<font face="Default" color="#ffffff" >Thank you, Alliance Leader.</font>
+submit_70086=<font face="Default" color="#ffffff" >Thank you, Elder.</font>
+submit_70093=<font face="Default" color="#ffffff" >I'm leaving now.</font>
+submit_70102=<font face="Default" color="#ffffff" >Okay. Thank you.</font>
+submit_70142=<font face="Default" color="#ffffff" >Thank you.</font>
+submit_70143=<font face="Default" color="#ffffff" >I've returned the Mysterious Colored Egg. </font>
+target_70085=Talk to the Alliance Leader Lin.
+target_70086=Duel with Yu Xuanzi.
+target_70093=Find Lin Liang. Get the Dragon Boat Festival Gift Pack.
+target_70102=Contains 6 Five-Realm Demon-Slaying Items (Can complete up to 10 every day)
+target_70232=Donate some basic materials to increase Guild Luck Points.
+target_70233=Complete Escort once and Raid Escort once.
+target_70234=Cultivate Often Daily Activity Points reach 75.
+target_70235=Go to corresponding family. Communicate the lessons in martial arts.
+target_70236=Find a Feng Shui specialist, examine the Feng Shui of these territories and get a Feng Shui map.
+title_70085=Many swordsmen gather together
+title_70086=Duel with martial arts
+title_70093=It's Dragon Boat Festival again. Here's gift pack for everyone.
+title_70102=Support Ming Cult
+title_70232=Material Donation [Guild]
+title_70233=Suppress enemy Guild [Guild]
+title_70234=Cultivate your Skills [Guild]
+title_70235=Visit the Households [Guild]
+title_70236=Examine Feng Shui [Guild]
+CanAcceptMenu_70405=<font face="Default" color="#ffffff" >School Invitation Note (can accept)</font>
+CompleteMenu_70405=<font face="Default" color="#ffffff" >School Invitation Note (Completed) </font>
+accept_70405_1=<font face="Default" color="#ffffff" >The great battle is happening soon. I have important matters to discuss with the leaders of various schools and factions in Central Wulin. But I am busy and can't go to each school and faction myself. I need your help. Send the letters with matters of discussion to the leaders and headmasters.</font>
+complete_70405=<font face="Default" color="#ffffff" >Here is your reward. Please take it.</font>
+context_70405=The great battle is happening soon. I have important matters to discuss with the leaders of various schools and factions in Central Wulin. But I am busy and can't go to each school and faction myself. I need your help. Send the letters with matters of discussion to the leaders and headmasters.
+menu_70405_1=<font face="Default" color="#ffffff" >All right.</font>
+submit_70405=<font face="Default" color="#ffffff" >Thank you.</font>
+target_70405=Complete School Invitation Note once.
+title_70405=School Invitation Note
+context_70087=Jiugong Elder lives near here. But he always cared about Central Wulin. After knowing that Foreign Wulin is causing trouble, he accepted the alliance leader's invitation and immediately offered support. Central Wulin has many capable people. Foreign Wulin tried to fight against Central Wulin, but their advantage is already gone. Jiugong Elder knew that Foreign Wulin plans to seek for support and merge with the forces near Evil Men's Valley. However Central Wulin will not give Foreign Wulin the opportunity to do so. Collaborate with Lin Tiannan and announce Central Wulin Alliance Order. Tell the forces around Evil Men's Valley about Central Wulin's plans.
+target_70087=Take the Central Special Ambassador Quest from Jiugong Elder in Luoyang. Obtain Central Wulin Alliance Order. Go to Xingiu Headmaster Sect Su Bailing, Suyun Palace Leader Yun Man, and Kunlun Leader Yun Yangzi. Tell them about your purpose and deliver the Central Wulin Alliance Order. Then come back and report to Jiugong Elder.
+title_70087=Central Plain Envoy
+CanAcceptMenu_70402=<font face="Default" color="#ffffff" >Encounter a matching rival (Can accept)</font>
+CanAcceptMenu_70403=<font face="Default" color="#ffffff" >Investigate the information (Can accept)</font>
+CanAcceptMenu_70404=<font face="Default" color="#ffffff" >Destroy the mechanism (Can accept)</font>
+CompleteMenu_70402=<font face="Default" color="#ffffff" >Encounter a matching rival (</font><font face="Default" color="#ffffff" >Completed</font><font face="Default" color="#ffffff" >)</font>
+CompleteMenu_70403=<font face="Default" color="#ffffff" >Investigate the information (</font><font face="Default" color="#ffffff" >Completed</font><font face="Default" color="#ffffff" >)</font>
+CompleteMenu_70404=<font face="Default" color="#ffffff" >Destroy the mechanism (Completed)</font>
+accept_70402_1=<font face="Default" color="#ffffff" >I heard that you love chess. Let's have a chess duel.</font>
+accept_70403_1=<font face="Default" color="#ffffff" >We heard that Korean spies are at Evil Tiger Mountain Stronghold and they plan to head to Evil Men's Valley soon. Go to Evil Tiger Mountain Stronghold to verify the information.</font>
+accept_70404_1=<font face="Default" color="#ffffff" >Go to Jiming Posthouse first. Contact the spies for the location of the mechanism. Find an opportunity to destroy them.</font>
+complete_70402=<font face="Default" color="#ffffff" >You are good at chess. Here is your reward.</font>
+complete_70403=<font face="Default" color="#ffffff" >Your information is very important to us. Here is your reward</font><font face="Default" color="#ffffff" >.</font>
+complete_70404=<font face="Default" color="#ffffff" >Thanks to you, the mission is accomplished. Please take the reward.</font>
+context_70402=I heard that Shi Yanbing from Scholars also joined Central Wulin. Many chess-loving swordsmen also would like to have a chess duel with him.
+context_70403=We heard that Korean spies are at Evil Tiger Mountain Stronghold and they plan to head to Evil Men's Valley soon. Go to Evil Tiger Mountain Stronghold to verify the information.
+context_70404=The Alliance Leader got the information. After analyzing it, the leader thinks the mechanism are still in the central area. We must stop them from reaching Evil Men's Valley. Go to Jiming Posthouse first. Contact the spies for the location of the mechanism. Find an opportunity to destroy them.
+menu_70402_1=<font face="Default" color="#ffffff">I will ask.</font>
+menu_70403_1=<font face="Default" color="#ffffff" >All right.</font>
+menu_70404_1=<font face="Default" color="#ffffff" >All right.</font>
+submit_70402=<font face="Default" color="#ffffff" >Thank you!</font>
+submit_70403=<font face="Default" color="#ffffff" >Thank the alliance leader</font>
+submit_70404=<font face="Default" color="#ffffff" >Thank you.</font>
+target_70402=Duel in chess
+target_70403=Complete Evil Tiger Mountain Stronghold faction challenge once.
+target_70404=Destroy the mechanism
+title_70402=Encounter a matching rival
+title_70403=Investigate the information
+title_70404=Destroy the mechanism
+CanAcceptMenu_70088=<font face="Default" color="#ffffff" >Nine-colored Insect (Can accept)</font>
+CompleteMenu_70088=<font face="Default" color="#ffffff" >Nine-colored Insect (Can submit)</font>
+accept_70088_1=<font face="Default" color="#ffffff" >The Divine Doctor knows how to counter the poison. The antidote not only can counter the poison, but also clear up one's mind and boost cultivation speed.</font> <font face="Default" color="#ffffff" >But it needs to be used together with Five-Realm Demon-Slaying Items.</font>
+complete_70088=<font face="Default" color="#ffffff" >Great. This is Nine Color Antidote. Hope you will make good use of it.</font>
+context_70088=The poison from the poisonous bug comes from an evil chi entering the body. Thus, one can use Five-Realm Demon-Slaying Items to cure it.
+menu_70088_1=<font face="Default" color="#ffffff" >I'm looking for antidote for Nine-colored Insect.</font>
+submit_70088=<font face="Default" color="#ffffff" >I have already collected the Five Aggregate Items.</font>
+target_70088=Collect Five Aggregate Items to exchange antidote.
+title_70088=Nine-colored Insect
+CanAcceptMenu_70089=<font face="Default" color="#ffffff" >Repairs in the racecourse</font>
+CanAcceptMenu_70090=<font face="Default" color="#ffffff" >Removing grass in the racecourse</font>
+CanAcceptMenu_70091=<font face="Default" color="#ffffff" >Delivery in the racecourse</font>
+CanAcceptMenu_70092=<font face="Default" color="#ffffff" >Manufacture in the racecourse</font>
+CompleteMenu_70089=<font face="Default" color="#ffffff" >Laundry's done.</font>
+CompleteMenu_70090=<font face="Default" color="#ffffff" >Laundry's done.</font>
+CompleteMenu_70091=<font face="Default" color="#ffffff" >Laundry's done.</font>
+CompleteMenu_70092=<font face="Default" color="#ffffff" >Laundry's done.</font>
+accept_70089_1=<font face="Default" color="#ffffff" >Yanjing racecourse hasn't been repaired for many years. Please help repair it.</font>
+accept_70090_1=<font face="Default" color="#ffffff" >Yanjing racecourse hasn't been repaired for many years. Could you remove the grass?</font>
+accept_70091_1=<font face="Default" color="#ffffff" >Yanjing racecourse hasn't been repaired for many years. I have bought the materials. Could you deliver them?</font>
+accept_70092_1=<font face="Default" color="#ffffff" >Yanjing racecourse hasn't been repaired for many years. Can you manufacture the repair materials?</font>
+complete_70089=<font face="Default" color="#ffffff" >You finished it quickly. Good job.</font>
+complete_70090=<font face="Default" color="#ffffff" >You finished it quickly. Good job.</font>
+complete_70091=<font face="Default" color="#ffffff" >You finished it quickly. Good job.</font>
+complete_70092=<font face="Default" color="#ffffff" >You finished it quickly. Good job.</font>
+context_70089=Yanjing racecourse hasn't been repaired for many years. Racecourse manager hopes that you could repair the horse stable.
+context_70090=Yanjing racecourse hasn't been repaired for many years. Racecourse manager hopes that you could remove the grass.
+context_70091=Yanjing racecourse hasn't been repaired for many years. Racecourse manager hopes that you could deliver the repair materials.
+context_70092=Yanjing racecourse hasn't been repaired for many years. Racecourse manager hopes that you could manufacture the repair materials.
+menu_70089_1=<font face="Default" color="#ffffff" >I will go at once.</font>
+menu_70090_1=<font face="Default" color="#ffffff" >I will go at once.</font>
+menu_70091_1=<font face="Default" color="#ffffff" >I will go at once.</font>
+menu_70092_1=<font face="Default" color="#ffffff" >I will go at once.</font>
+submit_70089=<font face="Default" color="#ffffff" >You are welcome.</font>
+submit_70090=<font face="Default" color="#ffffff" >You are welcome.</font>
+submit_70091=<font face="Default" color="#ffffff" >You are welcome.</font>
+submit_70092=<font face="Default" color="#ffffff" >You are welcome.</font>
+target_70089=Help the racecourse manager to repair the horse stable.
+target_70090=Help the racecourse manager to remove the grass.
+target_70091=Help the racecourse manager to deliver the wood materials.
+target_70092=Help the racecourse manager to manufacture repair materials.
+title_70089=Repairs in the racecourse
+title_70090=Removing grass in the racecourse
+title_70091=Delivery in the racecourse
+title_70092=Manufacture in the racecourse
+context_70410=Restaurant manager says there is a Foreign Wulin person outside Chengdu. He carries a treasure map. Defeat him to loot the treasure map.
+context_70411=Restaurant manager says there is a Foreign Wulin person outside Suzhou. He carries a treasure map. Defeat him to loot the treasure map.
+context_70412=Restaurant manager says there is a Foreign Wulin person outside Jinling. He carries a treasure map. Defeat him to loot the treasure map.
+context_70413=Restaurant manager says there is a Foreign Wulin person outside Luoyang. He carries a treasure map. Defeat him to loot the treasure map.
+context_70414=Restaurant manager says there is a Foreign Wulin person outside Yanjing. He carries a treasure map. Defeat him to loot the treasure map.
+target_70410=Find the Foreign Wulin person wandering in Chengdu, and get the treasure map from him.
+target_70411=Find the Foreign Wulin person wandering in Suzhou, and get the treasure map from him.
+target_70412=Find the Foreign Wulin person wandering in Jinling, and get the treasure map from him.
+target_70413=Find the Foreign Wulin person wandering in Luoyang, and get the treasure map from him.
+target_70414=Find the Foreign Wulin person wandering in Yanjing, and get the treasure map from him.
+title_70410=Treasure map clue
+title_70411=Treasure map clue
+title_70412=Treasure map clue
+title_70413=Treasure map clue
+title_70414=Treasure map clue
+context_70094=During the event period all players can go to Lin Liang to obtain a gift. The gift will disappear after 24 hours. Please open it as soon as possible.
+target_70094=Obtain the Gift for the New Patch.
+title_70094=Gift for the New Patch
+context_70095=During the event period, everyone can go to the event ambassador Lin Liang in major cities to obtain a Summer Gift Pack. Open it to get 5 Plum Syrup, 5 Green Bean Porridge, 5 Green Teas, 1 Package Box, 1 Rushing Cloud Horse (Seven days), 30 Hero Tokens, 20 Five-Aggregate Items, 3 Large Ruyi Pills.
+target_70095=Go to Event Ambassador Lin Liang in major cities to get Summer Gift Pack.
+title_70095=Cool Summer Server Gift Pack
+context_70103=During the event period, when the strength of Ming Cult disciple and another disciple reaches a certain stage, they can get a partner to complete one task together. After that both partners can get a Companion Reward (Ming) and a Companion Reward (Partner). Partner steps: 1. 	Ming Cult Disciple and another disciple team up; the Ming Cult Disciple leads. Only two players can team up.
+context_70104=During the event period, when the strength of Ming Cult disciple and another disciple reaches a certain stage, they can get a partner to complete one task together. After that both partners can get a Companion Reward (Ming) and a Companion Reward (Partner). Partner steps:
+context_70105=During the event period, when the strength of Ming Cult disciple and another disciple reaches a certain stage, they can get a partner to complete one task together. After that both partners can get a Companion Reward (Ming) and a Companion Reward (Partner). Partner steps:
+context_70106=During the event period, when the strength of Ming Cult disciple and another disciple reaches a certain stage, they can get a partner to complete one task together. After that both partners can get a Companion Reward (Ming) and a Companion Reward (Partner). Partner steps:
+context_70107=During the event period, when the strength of Ming Cult disciple and another disciple reaches a certain stage, they can get a partner to complete one task together. After that both partners can get a Companion Reward (Ming) and a Companion Reward (Partner). Partner steps:
+context_70108=During the event period, when the strength of Ming Cult disciple and another disciple reaches a certain stage, they can get a partner to complete one task together. After that both partners can get a Companion Reward (Ming) and a Companion Reward (Partner). Partner steps:
+context_70109=During the event period, when the strength of Ming Cult disciple and another disciple reaches a certain stage, they can get a partner to complete one task together. After that both partners can get a Companion Reward (Ming) and a Companion Reward (Partner). Partner steps:
+context_70110=During the event period, when the strength of Ming Cult disciple and another disciple reaches a certain stage, they can get a partner to complete one task together. After that both partners can get a Companion Reward (Ming) and a Companion Reward (Partner). Partner steps:
+context_70111=As Jianghu VIP players enter Ming Cult, to achieve basic power and progress swiftly, they may go to Ming Cult Elder Brother. Upon fulfilling certain conditions, you can go to Ming Cult Elder Brother to receive Growth Tasks. Completing them will get you: Flame Growth Pack (inside you will find Ming Cult Internal Skills and Skill Pages, as well as Skill Infusion Pills).
+context_70112=As Jianghu VIP players enter Ming Cult, to achieve basic power and progress swiftly, they may go to Ming Cult Elder Brother. Upon fulfilling certain conditions, you can go to Ming Cult Elder Brother to receive Growth Tasks. Completing them and using Internal Skills will get you: Flame Growth Pack (inside you will find Ming Cult Internal Skills and Skill Pages, as well as Skill Infusion Pills).
+context_70113=As Jianghu VIP players enter Ming Cult, to achieve basic power and progress swiftly, they may go to Ming Cult Elder Brother. Upon fulfilling certain conditions, you can go to Ming Cult Elder Brother to receive Growth Tasks. Completing them and using Internal Skills will get you: Flame Growth Pack (inside you will find Ming Cult Internal Skills and Skill Pages, as well as Skill Infusion Pills).
+context_70114=As Jianghu VIP players enter Ming Cult, to achieve basic power and progress swiftly, they may go to Ming Cult Elder Brother. Upon fulfilling certain conditions, you can go to Ming Cult Elder Brother to receive Growth Tasks. Completing them and using Internal Skills will get you: Flame Growth Pack (inside you will find Ming Cult Internal Skills and Skill Pages, as well as Skill Infusion Pills).
+context_70115=As Jianghu VIP players enter Ming Cult, to achieve basic power and progress swiftly, they may go to Ming Cult Elder Brother. Upon fulfilling certain conditions, you can go to Ming Cult Elder Brother to receive Growth Tasks. Completing them and using Internal Skills will get you: Flame Growth Pack (inside you will find Ming Cult Internal Skills and Skill Pages, as well as Skill Infusion Pills).
+context_70116=As Jianghu VIP players enter Ming Cult, to achieve basic power and progress swiftly, they may go to Ming Cult Elder Brother. Upon fulfilling certain conditions, you can go to Ming Cult Elder Brother to receive Growth Tasks. Completing them and using Internal Skills will get you: Flame Growth Pack (inside you will find Ming Cult Internal Skills and Skill Pages, as well as Skill Infusion Pills).
+context_70117=Receive the task from Ming Cult Elder Brother and challenge the Forbidden Place. Based on Age of Wushu Record difference, the task requirements are different. The advanced Age of Wushu Record players may accept low Age of Wushu Record tasks. Each task has a limited number of times.
+context_70118=During the event, as a Ming Cult Disciple, fulfill certain requirements and receive the task from Ming Cult Elder Brother and challenge the Forbidden Place. Based on Age of Wushu Record difference, the task requirements are different. The advanced Age of Wushu Record players may accept low Age of Wushu Record tasks. Each task has a limited number of times.
+context_70119=During the event, as a Ming Cult Disciple, fulfill certain requirements and receive the task from Ming Cult Elder Brother and challenge the Forbidden Place. Based on Age of Wushu Record difference, the task requirements are different. The advanced Age of Wushu Record players may accept low Age of Wushu Record tasks. Each task has a limited number of times.
+context_70120=During the event, VIP players that fulfill certain requirements and receive the task from Chengdu Martial Arts School and Ming Cult Elder Brother and challenge the Forbidden Place. Based on Age of Wushu Record difference, the task requirements are different. The advanced Age of Wushu Record players may accept low Age of Wushu Record tasks. Each task has a limited number of times.
+context_70121=During the event, as a Ming Cult Disciple, fulfill certain requirements and receive the task from Ming Cult Elder Brother and challenge the Forbidden Place. Based on Age of Wushu Record difference, the task requirements are different. The advanced Age of Wushu Record players may accept low Age of Wushu Record tasks. Each task has a limited number of times.
+context_70122=During the event, as a Ming Cult Disciple, fulfill certain requirements and receive the task from Ming Cult Elder Brother and challenge the Forbidden Place. Based on Age of Wushu Record difference, the task requirements are different. The advanced Age of Wushu Record players may accept low Age of Wushu Record tasks. Each task has a limited number of times.
+target_70103=Go to Chengdu Martial Arts School <a href="findnpc_new,city05,act818_mj_001" style="HLStype1">Gu Dajian (Ming Cult Elder Brother)</a> to get a partner task and collect a great reward upon completion.
+target_70104=Go to Chengdu Martial Arts School <a href="findnpc_new,city05,act818_mj_001" style="HLStype1">Gu Dajian (Ming Cult Elder Brother)</a> to get a partner task and collect a great reward upon completion.
+target_70105=Go to Chengdu Martial Arts School <a href="findnpc_new,city05,act818_mj_001" style="HLStype1">Gu Dajian (Ming Cult Elder Brother)</a> to complete a partner task.
+target_70106=Go to Chengdu Martial Arts School <a href="findnpc_new,city05,act818_mj_001" style="HLStype1">Gu Dajian (Ming Cult Elder Brother)</a> to complete a partner task and get rewards.
+target_70107=Go to Chengdu Martial Arts School <a href="findnpc_new,city05,act818_mj_001" style="HLStype1">Gu Dajian (Ming Cult Elder Brother)</a> to complete a partner task and get rewards.
+target_70108=Go to Chengdu Martial Arts School <a href="findnpc_new,city05,act818_mj_001" style="HLStype1">Gu Dajian (Ming Cult Elder Brother)</a> to complete a partner task and get rewards.
+target_70109=Go to Chengdu Martial Arts School <a href="findnpc_new,city05,act818_mj_001" style="HLStype1">Gu Dajian (Ming Cult Elder Brother)</a> to complete a partner task and get rewards.
+target_70110=Go to Chengdu Martial Arts School <a href="findnpc_new,city05,act818_mj_001" style="HLStype1">Gu Dajian (Ming Cult Elder Brother)</a> to complete a partner task and get rewards.
+target_70111=Meet certain conditions and go to Chengdu Martial Arts School <a href="findnpc_new,city05,act818_mj_001" style="HLStype1">Gu Dajian (Ming Cult Elder Brother)</a> to complete a Growth Task and get rewards.
+target_70112=Meet certain conditions and go to Chengdu Martial Arts School <a href="findnpc_new,city05,act818_mj_001" style="HLStype1">Gu Dajian (Ming Cult Elder Brother)</a> to complete a Growth Task and get rewards.
+target_70113=Meet certain conditions and go to Chengdu Martial Arts School <a href="findnpc_new,city05,act818_mj_001" style="HLStype1">Gu Dajian (Ming Cult Elder Brother)</a> to complete a Growth Task and get rewards.
+target_70114=Meet certain conditions and go to Chengdu Martial Arts School <a href="findnpc_new,city05,act818_mj_001" style="HLStype1">Gu Dajian (Ming Cult Elder Brother)</a> to complete a Growth Task and get rewards.
+target_70115=Meet certain conditions and go to Chengdu Martial Arts School <a href="findnpc_new,city05,act818_mj_001" style="HLStype1">Gu Dajian (Ming Cult Elder Brother)</a> to complete a Growth Task and get rewards.
+target_70116=Meet certain conditions and go to Chengdu Martial Arts School <a href="findnpc_new,city05,act818_mj_001" style="HLStype1">Gu Dajian (Ming Cult Elder Brother)</a> to complete a Growth Task and get rewards.
+target_70117=Complete the Forbidden Instance - Twilight Village [Normal] one time
+target_70118=Complete the Forbidden Instance - Green Cloud Castle [Normal] one time
+target_70119=Complete the Forbidden Instance - Green Cloud Castle [Hard] one time
+target_70120=Complete the Forbidden Instance - Peacock Villa [Normal] one time
+target_70121=Complete the Forbidden Instance - Longmen Inn [Normal] one time
+target_70122=Complete the Forbidden Instance - Yanmen Pass [Normal] one time
+target_70142=Challenge the Possessed 2 times
+target_70143=Talk to Bouncy Girl and return Mysterious Colored Egg to its owner
+title_70103=Companion Reward (Ming) (Tier 3 Internal Skill)
+title_70104=Companion Reward (Companion) (Tier 3 Internal Skill)
+title_70105=Companion Reward (Ming) (Tier 4 Internal Skill)
+title_70106=Companion Reward (Companion) (Tier 4 Internal Skill)
+title_70107=Companion Reward (Ming) (Tier 5 Internal Skill)
+title_70108=Companion Reward (Companion) (Tier 5 Internal Skill)
+title_70109=Companion Reward (Ming) (Tier 6 Internal Skill)
+title_70110=Companion Reward (Companion) (Tier 6 Internal Skill)
+title_70111=Ming Cult Growth Task I
+title_70112=Ming Cult Growth Task II
+title_70113=Ming Cult Growth Task III
+title_70114=Ming Cult Growth Task IV
+title_70115=Ming Cult Growth Task V
+title_70116=Ming Cult Growth Task VI
+title_70117=Forbidden Instance I
+title_70118=Forbidden Instance II
+title_70119=Forbidden Instance III
+title_70120=Forbidden Instance IV
+title_70121=Forbidden Instance V
+title_70122=Forbidden Instance VI
+context_70123=During the event, Jianghu VIP can every day go to Suzhou (423.794) or Chengdu (923.551) Ning Jiuhui (Dining Man) to receive Diligent Practice activity tasks (Faction, Possessed etc.) and get rewards.
+context_70124=During the event, Jianghu VIP can every day go to Suzhou (423.794) or Chengdu (923.551) Ning Jiuhui (Dining Man) to receive Diligent Practice activity tasks (Enter the Dragon) and get rewards. <font color="#FF3030">(Can select only one task out of the three)</font>
+context_70125=During the event, Jianghu VIP can every day go to Suzhou (423.794) or Chengdu (923.551) Ning Jiuhui (Dining Man) to receive Diligent Practice activity tasks (Enter the Dragon) and get rewards. <font color="#FF3030">(Can select only one task out of the three)</font>
+target_70123=During the event, Jianghu VIP can every day go to Suzhou (423.794) or Chengdu (923.551) Ning Jiuhui (Dining Man) to receive Diligent Practice activity tasks and get rewards.
+target_70124=During the event, Jianghu VIP can every day go to Suzhou (423.794) or Chengdu (923.551) Ning Jiuhui (Dining Man) to receive Diligent Practice activity tasks and get rewards.
+target_70125=During the event, Jianghu VIP can every day go to Suzhou (423.794) or Chengdu (923.551) Ning Jiuhui (Dining Man) to receive Diligent Practice activity tasks and get rewards.
+title_70123=Diligent Practice
+title_70124=Diligent Practice: Tiger Fight
+title_70125=Diligent Practice: Dragon Battle
+context_70127=During the event, VIP players who have reached Untapped Potential can claim a Student Gift Pack at Yan Lun the Suzhou Study Master (471, 434)
+target_70127=Claim a Student Gift Pack at Yan Lun (471 434) the Suzhou Study Master.
+title_70127=Enter school and claim rewards.
+context_70128=During the event, VIP players who have reached Untapped Potential can claim one Double Festival Pack at Lin Liang. It contains: Steamed Bread x50, Horse Whistle (Red Lightning) (7 days) x1, Omnipotent Voucher x5, Costumes Embroidered Box (7 days) x1, Reset Ticket x10, Inventory Embroidered Box (7 Days) x2, 500 liang of silver coins, Hidden Head Exposed Tails x3, Martial Arts Celebration Gift Card x3, Nine Turnings Hell Contacting Pill x5, Double Festival Token x1 (can be traded at Lin Liang for exquisite gifts).
+context_70129=During the event, Jianghu VIP players can claim Colorful Holiday Quest at Lin Liang the Event Ambassador. Complete it to get Double Festival Return Token x1, which can be exchanged for exquisite gifts.
+target_70128=Go to Festival Events Ambassador Lin Liang in any of the main city to receive Double Festival gifts.
+target_70129=Submit completed holiday tasks and get rewards by visiting the Holiday Event Ambassador Lin Liang.
+title_70128=Sign-in at Double Festival and claim the rewards.
+title_70129=Colorful Holiday gifts
+context_70130=During the event, just log in and find Lin Liang the Event Ambassador to get National Carnival Gift tasks. Submit them to get one "Snowland Escape" present. Use them on time, as they expire within 24 hours in your backpack.
+context_70131=I shine over myriads of splendid peaks, reclusive masters are countless. Get directions of a grand master and you will benefit a lot. I know all the secrets in Jianghu. You want the reclusive expert's trace? I'm not drunk. Wine, I need wine. Zhou Yangjun is no better, just a drunkard. If you can find wine, you will find out everything. I got fine wine for Zhou Yangjun here, but you will need to do something first.
+context_70132=I know all the secrets in Jianghu. You want a reclusive expert's trace? I'm not drunk. Wine, I need wine.
+target_70130=Find Lin Liang the Event Ambassador and claim Snowland Escape All Players Reward Pack.
+target_70131=Only Zhou Yangjun knows the locations of the reclusive experts. But you need to complete my task to prove that you have enough strength. Then I'll give you the fine wine to visit Zhou Yangjun.
+target_70132=According to Zhou Yanjun's guide, go find Bian Leiyuan (the reclusive expert).
+title_70130=Presents gifted to all the players.
+title_70131=Hidden Talent
+title_70132=Hidden Talent
+CompleteMenu_70132=<font face="Default" color="#ffffff" >Got the reclusive expert's advice.</font>
+complete_70131=<font face="Default" color="#ffffff" >It is really good wine. Would you like to have a taste? </font>
+complete_70132=<font face="Default" color="#ffffff" >Congratulations on getting the reclusive expert's advice. Here is the reward for you. </font>
+submit_70131=<font face="Default" color="#ffffff" >Thank you! See you. </font>
+submit_70132=<font face="Default" color="#ffffff" >Thank you. </font>
+CanAcceptMenu_70133=<font face="Default" color="#ffffff" >Gratitude gift box (First Understanding)</font>
+CanAcceptMenu_70134=<font face="Default" color="#ffffff" >Gratitude gift box (Spiritually Balanced)</font>
+CanAcceptMenu_70135=<font face="Default" color="#ffffff" >Gratitude gift box (Peak of Power)</font>
+CanAcceptMenu_70136=<font face="Default" color="#ffffff" >Gratitude gift box (Infallible Wushu Master)</font>
+CanAcceptMenu_70137=<font face="Default" color="#ffffff" >Gratitude gift box (Astound the World)</font>
+CanAcceptMenu_70138=<font face="Default" color="#ffffff" >Gratitude gift box (Eternally Unequaled)</font>
+CanAcceptMenu_70139=<font face="Default" color="#ffffff" >Gratitude gift box (Modest Power)</font>
+CompleteMenu_70133=<font face="Default" color="#ffffff" >Fulfill the task.</font>
+CompleteMenu_70134=<font face="Default" color="#ffffff" >Fulfill the task.</font>
+CompleteMenu_70135=<font face="Default" color="#ffffff" >Fulfill the task.</font>
+CompleteMenu_70136=<font face="Default" color="#ffffff" >Fulfill the task.</font>
+CompleteMenu_70137=<font face="Default" color="#ffffff" >Fulfill the task.</font>
+CompleteMenu_70138=<font face="Default" color="#ffffff" >Fulfill the task.</font>
+CompleteMenu_70139=<font face="Default" color="#ffffff" >Fulfill the task.</font>
+accept_70133_1=<font face="Default" color="#ffffff" >Gratitude gift box! I have gifts for everyone! </font>
+accept_70134_1=<font face="Default" color="#ffffff" >Gratitude gift box! I have gifts for everyone! </font>
+accept_70135_1=<font face="Default" color="#ffffff" >Gratitude gift box! I have gifts for everyone! </font>
+accept_70136_1=<font face="Default" color="#ffffff" >Gratitude gift box! I have gifts for everyone! </font>
+accept_70137_1=<font face="Default" color="#ffffff" >Gratitude gift box! I have gifts for everyone! </font>
+accept_70138_1=<font face="Default" color="#ffffff" >Gratitude gift box! I have gifts for everyone! </font>
+accept_70139_1=<font face="Default" color="#ffffff" >Gratitude gift box! I have gifts for everyone! </font>
+complete_70133=<font face="Default" color="#ffffff" >You won't be disappointed! </font>
+complete_70134=<font face="Default" color="#ffffff" >You won't be disappointed! </font>
+complete_70135=<font face="Default" color="#ffffff" >You won't be disappointed! </font>
+complete_70136=<font face="Default" color="#ffffff" >You won't be disappointed! </font>
+complete_70137=<font face="Default" color="#ffffff" >You won't be disappointed! </font>
+complete_70138=<font face="Default" color="#ffffff" >You won't be disappointed! </font>
+complete_70139=<font face="Default" color="#ffffff" >You won't be disappointed! </font>
+context_70133=Gratitude gift box
+context_70134=Gratitude gift box
+context_70135=Gratitude gift box
+context_70136=Gratitude gift box
+context_70137=Gratitude gift box
+context_70138=Gratitude gift box
+context_70139=Gratitude gift box
+menu_70133_1=<font face="Default" color="#ffffff" >What is the gift? </font>
+menu_70134_1=<font face="Default" color="#ffffff" >What is the gift? </font>
+menu_70135_1=<font face="Default" color="#ffffff" >What is the gift? </font>
+menu_70136_1=<font face="Default" color="#ffffff" >What is the gift? </font>
+menu_70137_1=<font face="Default" color="#ffffff" >What is the gift? </font>
+menu_70138_1=<font face="Default" color="#ffffff" >What is the gift? </font>
+menu_70139_1=<font face="Default" color="#ffffff" >What is the gift? </font>
+submit_70133=<font face="Default" color="#ffffff" >Thank you!</font>
+submit_70134=<font face="Default" color="#ffffff" >Thank you!</font>
+submit_70135=<font face="Default" color="#ffffff" >Thank you!</font>
+submit_70136=<font face="Default" color="#ffffff" >Thank you!</font>
+submit_70137=<font face="Default" color="#ffffff" >Thank you!</font>
+submit_70138=<font face="Default" color="#ffffff" >Thank you!</font>
+submit_70139=<font face="Default" color="#ffffff" >Thank you!</font>
+target_70133=Find Lin Liang to get the Gratitude gift box.
+target_70134=Find Lin Liang to get the Gratitude gift box.
+target_70135=Find Lin Liang to get the Gratitude gift box.
+target_70136=Find Lin Liang to get the Gratitude gift box.
+target_70137=Find Lin Liang to get the Gratitude gift box.
+target_70138=Find Lin Liang to get the Gratitude gift box.
+target_70139=Find Lin Liang to get the Gratitude gift box.
+title_70133=Gratitude gift box (First Understanding)
+title_70134=Gratitude gift box (Spiritually Balanced)
+title_70135=Gratitude gift box (Peak of Power)
+title_70136=Gratitude gift box (Infallible Wushu Master)
+title_70137=Gratitude gift box (Astound the World)
+title_70138=Gratitude gift box (Eternally Unequaled)
+title_70139=Gratitude gift box (Modest Power)
+context_70140=During the event, all the players can claim a "Spear Ghost" All Players Reward Gift Pack at Lin Liang the Festival Ambassador according to the Age of Wushu Record. The pack contains different rewards.
+target_70140=Find Lin Liang the Event Ambassador and claim All Players Reward Gift Pack.
+title_70140="Spear Ghost" All Players Reward Gift Pack
+CanAcceptMenu_70141=<font face="Default" color="#ffffff" >Divine Engine Camp discovered Town Ghost (Acceptable)</font>
+CompleteMenu_70141=<font face="Default" color="#ffffff" >Divine Engine Camp discovered Town Ghost (completed)</font>
+accept_70141_1=<font face="Default" color="#ffffff" >During the event, players who obtained "Bandit Destroyer Vanguard" Divine Engine Camp status, can receive "Town Spear Ghost" All Players Reward Gift Pack according to the Age of Wushu Record. The pack contains different rewards. </font>
+complete_70141=<font face="Default" color="#ffffff" >Well done. Here is your reward. Show the enemy no mercy.</font>
+context_70141=During the event, players who obtained "Bandit Destroyer Vanguard" Divine Engine Camp status, can receive "Town Spear Ghost" Reward Gift Pack according to the Age of Wushu Record from Geng Boxuan. The pack contains different rewards.
+menu_70141_1=<font face="Default" color="#ffffff" >Obtained "Bandit Destroyer Vanguard" status</font>
+submit_70141=<font face="Default" color="#ffffff" >Thank you</font>
+target_70141=During the event, players who obtained "Bandit Destroyer Vanguard" Divine Engine Camp status, can receive "Town Spear Ghost" Reward Gift Pack according to the Age of Wushu Record from Geng Boxuan. The pack contains different rewards.
+title_70141=Divine Engine Camp discovered Town Ghost (completed)
+title_70142=New Year Painted Egg
+title_70143=Mysterious Colored Egg
+CanAcceptMenu_70144=<font face="Default" color="#ffffff" >New Year Blessing (can accept)</font>
+CompleteMenu_70144=<font face="Default" color="#ffffff" >New Year Blessing (Completed)</font>
+accept_70144_1=<font face="Default" color="#ffffff" >At the time of new year, wish you to have a good luck and be healthy and wealthy!</font>
+complete_70144=<font face="Default" color="#ffffff" >Here're your rewards. Please receive! </font>
+context_70144=At the time of new year, wish you to have a good luck and be healthy and wealthy!
+menu_70144_1=<font face="Default" color="#ffffff" >Thank you.</font>
+submit_70144=<font face="Default" color="#ffffff" >Thank you.</font>
+target_70144=Wish you to have a good luck and be healthy and wealthy!
+title_70144=New Year Blessing
+context_70808=The internal strife and the Japanese invasion made the foreign camp believe that it was the right time for them to conquest the Central Plains Camp. So they occupied Ruined Valley and have been waiting for an opportunity to defeat all other schools. Lin Tiannan opened a path to the Ruined Valley and invited all Wulin heroes of the Central Plains to rally at the Ruined Valley. The battle is about to take place.
+context_70058=No pain, No gain. Receive the task at the Competition Area in Suzhou and complete the Sky Ladder once to receive rich rewards.
+target_70058=Complete the Sky Ladder once
+title_70058=Model of Marital Practice - Sky Ladder
+context_70201=The Guild has been slacking off recently. Regardless of your power, you have to train regularly.
+context_70202=Guild’s Luck growth is inseparable from increasing its’ resources supply. Donate some resources to your Guild.
+context_70203=Know your enemy, and you will win battle after battle. Defeat enemy Guild players 3 times to suppress their development.
+context_70204=Guild’s power lies in power of each member. Train hard, and watch your Guild getting stronger with you.
+context_70205=The Four Noble Households are recently holding numerous activities. Guilds should be in touch with the Households.
+context_70206=It is said that Jianghu’s Tertiary and Secondary Territories have excellent Feng Shui. Examine these territories.
+context_70207=Jianghu is recently in disorder, thus escort business is booming. Let’s use it to our advantage.
+next_70201=Press H to open Guild Main Page. Submit the task at Guild Lucky Points -- Get Lucky Points.
+next_70204=Press H to open Guild Main Page. Submit the task at Guild Lucky Points -- Get Lucky Points.
+next_70207=Press H to open Guild Main Page. Submit the task at Guild Lucky Points -- Get Lucky Points.
+target_70201=Finish Guild Team Practice once (at least one participant should be from the same Guild)
+target_70204=Cultivate Often Daily Activity reaches 75.
+context_70071=[Meng Guang the Suzhou Tavern Owner] prepared many new year goods for those lonely elders, but he is busying with the tavern matters, so please help him to deliver the goods.
+context_70072=[Meng Guang the Suzhou Tavern Owner] prepared many new year goods for those lonely elders, but he is busying with the tavern matters, so please help him to deliver the goods.
+context_70073=[Meng Guang the Suzhou Tavern Owner] prepared many new year goods for those lonely elders, but he is busying with the tavern matters, so please help him to deliver the goods.
+context_70074=[Meng Guang the Suzhou Tavern Owner] prepared many new year goods for those lonely elders, but he is busying with the tavern matters, so please help him to deliver the goods.
+target_70071=Send the new year goods prepared by Meng Guang to the old beggar Fan Yitang (583, 450).
+target_70072=Send the new year goods prepared by Meng Guang to the old widow Xu Yun (540, 429).
+target_70073=Send the new year goods prepared by Meng Guang to the Study Master Yan Lun (471, 433).
+target_70074=Send the new year goods prepared by Meng Guang to the drunkard Xie Guangtian (621, 420).
+context_70077=During the event, you can claim Colorful Holiday Quest (1) at Lin Liang the Event Ambassador everyday. After completing you will get one May Day Token.
+context_70078=During the event, you can claim Colorful Holiday Quest (2) at Lin Liang the Event Ambassador everyday. After completing you will get one May Day Return Token.
+target_70077=Claim Colorful Holiday Quest at Lin Liang the Event Ambassador. After completing you will get May Day Token. (Only VIP players can accept)
+target_70078=Claim Colorful Holiday Quest (2) at Lin Liang the Event Ambassador. After completing you will get May Day Return Token. (Only VIP players can accept)
+context_70083=Trouble Rising Again quest are added to increase your might. After completing the corresponding quest you will get Trouble Rising Again Certificate. You can exchange for rewards such as school reversal meridian items (level 1-180), 3000000 Cultivation Perfusion Pack, 1500000 Cultivation Pack and so on with the certificate at Suzhou (472, 314) Fan Hongju.
 

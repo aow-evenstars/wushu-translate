@@ -1018,23 +1018,6 @@ title_45951=Returning from sharpening skills
 title_45952=Returning from sharpening skills
 title_45953=Returning from sharpening skills
 title_45954=Returning from sharpening skills
-accept_45924_1=<font face="Default" color="#ffffff" >You are hereby given a twelve-hour period, during which your performance in our school's tasks and events will be evaluated. The abbot will then determine your right to leave the school for further training.</font>
-accept_45927_1=<font face="Default" color="#ffffff" >You are hereby given a twelve-hour period, during which your performance in our school's tasks and events will be evaluated. The headmaster will then determine your right to leave the school for further training.</font>
-accept_45930_1=<font face="Default" color="#ffffff" >Although you have minor achievements in kung fu, they are not enough to earn you the right to sharpen your skills outside the mountain. The school will conduct a one-day assessment of you. The content will include your conduct since you joined the school, your kung fu cultivation and your contribution to the school. I will give the results to the Abbot after a day. The Grandmaster will decide whether you can go down to sharpen your skills or not. </font>
-accept_45933_1=<font face="Default" color="#ffffff" >You are hereby given a twelve-hour period, during which your performance in our school's tasks and events will be evaluated. The sect leader will then determine your right to leave the school for further training.</font>
-accept_45936_1=<font face="Default" color="#ffffff" >You are hereby given a twelve-hour period, during which your performance in our school's tasks and events will be evaluated. Grandmother will then determine your right to leave the school for further training.</font>
-accept_45939_1=<font face="Default" color="#ffffff" >You are hereby given a twelve-hour period, during which your performance in our school's tasks and events will be evaluated. Valley leader will then determine your right to leave the school for further training.</font>
-accept_45942_1=<font face="Default" color="#ffffff" >You are hereby given a twelve-hour period, during which your performance in our school's tasks and events will be evaluated. The headmaster will then determine your right to leave the school for further training.</font>
-accept_45945_1=<font face="Default" color="#ffffff" >Although you have minor achievements in kung fu, they are not enough to earn you the right to sharpen your skills outside the mountain. The school will conduct a one-day assessment of you. The content will include your conduct since you joined the school, your kung fu cultivation and your contribution to the school. I will give the results to the Abbot after a day. The Grandmaster will decide whether you can go down to sharpen your skills or not. </font>
-context_45924=Each school has a 12-hour evaluation period, during which the activities you participate for joining and contributing to your school will be assessed. This will determine your right to leave the school for further training.
-context_45927=The school will conduct a one-day assessment of you. The content will include your conduct since you joined the school, your kung fu cultivation and your contribution to the school. The results will be announced after one day, and we'll make a decision whether you can go down the mountain.
-context_45930=The school will conduct a one-day assessment of you. The content will include your conduct since you joined the school, your kung fu cultivation and your contribution to the school. The results will be announced after one day, and we'll make a decision whether you can go down the mountain.
-context_45933=The school will conduct a one-day assessment of you. The content will include your conduct since you joined the school, your kung fu cultivation and your contribution to the school. The results will be announced after one day, and we'll make a decision whether you can go down the mountain.
-context_45936=The school will conduct a one-day assessment of you. The content will include your conduct since you joined the school, your kung fu cultivation and your contribution to the school. The results will be announced after one day, and we'll make a decision whether you can go down the mountain.
-context_45939=The school will conduct a one-day assessment of you. The content will include your conduct since you joined the school, your kung fu cultivation and your contribution to the school. The results will be announced after one day, and we'll make a decision whether you can go down the mountain.
-context_45942=The school will conduct a one-day assessment of you. The content will include your conduct since you joined the school, your kung fu cultivation and your contribution to the school. The results will be announced after one day, and we'll make a decision whether you can go down the mountain.
-context_45945=The school will conduct a one-day assessment of you. The content will include your conduct since you joined the school, your kung fu cultivation and your contribution to the school. The results will be announced after one day, and we'll make a decision whether you can go down the mountain.
-target_45526=Open your portable medicine stove every six hours for a Bone Melding Pill and Muscle Growing Pill. To get this item, retrieve a chalcedony from a Luolan descendent or Luolan disciple in the Northern Desert, and trade it with the mysterious physician. Alternatively, you can go to Ruined Valley to trade with the mysterious merchant.
 CanAcceptMenu_45551=<font face="Default" color="#ffffff" >Renounce your school</font>
 CanAcceptMenu_45552=<font face="Default" color="#ffffff" >Renounce your school</font>
 CanAcceptMenu_45553=<font face="Default" color="#ffffff" >Renounce your school</font>
@@ -1221,4 +1204,134 @@ title_45604=Peach Blossom Island identity promotion guide (Level 1)
 title_45605=Peach Blossom Island identity promotion guide (Level 2)
 title_45606=Peach Blossom Island identity promotion guide (Level 3)
 title_45607=Peach Blossom Island identity promotion guide (Level 4)
+CanAcceptMenu_45575=<font face="Default" color="#ffffff" >Renouncing your school </font><font face="Default" color="#ff0000" >(All the internal skills and kung fu skills you learned in Wanderer's Valley will be removed after the school renunciation task has been completed. Young Hero, please think carefully before you act.) </font>
+CanAcceptMenu_45576=<font face="Default" color="#ffffff" >Rumor Mill</font>
+CanAcceptMenu_45577=<font face="Default" color="#ffffff" >Renounce your school</font>
+CanAcceptMenu_45578=<font face="Default" color="#ffffff" >Join the Ming Cult</font>
+CanAcceptMenu_45579=<font face="Default" color="#ffffff" >Going down the mountain without permission </font><font face="Default" color="#ff0000" >(Your Advanced School Skills will
+CanAcceptMenu_45580=<font face="Default" color="#ffffff" >Entering Jianghu</font>
+CanAcceptMenu_45581=<font face="Default" color="#ffffff" >Trial of Power</font>
+CanAcceptMenu_45582=<font face="Default" color="#ffffff" >School assessment</font>
+CanAcceptMenu_45583=<font face="Default" color="#ffffff" >Permission to go down the mountain</font>
+CanAcceptMenu_45584=<font face="Default" color="#ffffff" >Returning from sharpening skills</font>
+CanAcceptMenu_45585=<font face="Default" color="#ffffff" >Return to </font><font face="Default" color="#ffffff" >Ming Cult</font>
+CompleteMenu_45575=<font face="Default" color="#ffffff" >Fulfill the task.</font>
+CompleteMenu_45576=<font face="Default" color="#ffffff" >Fulfill the task.</font>
+CompleteMenu_45577=<font face="Default" color="#ffffff" >Fulfill the task.</font>
+CompleteMenu_45578=<font face="Default" color="#ffffff" >Fulfill the task.</font>
+CompleteMenu_45579=<font face="Default" color="#ffffff" >Fulfill the task.</font>
+CompleteMenu_45580=<font face="Default" color="#ffffff" >Fulfill the task.</font>
+CompleteMenu_45581=<font face="Default" color="#ffffff" >Fulfill the task.</font>
+CompleteMenu_45582=<font face="Default" color="#ffffff" >Fulfill the task.</font>
+CompleteMenu_45583=<font face="Default" color="#ffffff" >Fulfill the task.</font>
+CompleteMenu_45584=<font face="Default" color="#ffffff" >Fulfill the task.</font>
+CompleteMenu_45585=<font face="Default" color="#ffffff" >Fulfill the task.</font>
+accept_45575_1=<font face="Default" color="#ffffff" >Why are you still here? Master Wei has been sending out people to look for you. I am afraid that something has happened. You hurry and go check what's going on. </font>
+accept_45576_1=<font face="Default" color="#ffffff" >I do not wish to waste my words on you. You knew the Ming Cult rules but still violated them. Go to the Sect leader and see how is he going to deal with you. </font>
+accept_45577_1=<font face="Default" color="#ffffff" >  </font><font face="Default" color="#ffffff" >Leave Ming Cult? Do you wish to renounce the school? I would grant your wish since you have made up your mind. But you must know </font><font face="Default" color="#ff0000" >that all internal skills and martial arts you learned in Ming Cult must be cast aside once you renounce the school. Do you agree? </font><font face="Default" color="#ffffff" >Betrayer of mine is an enemy of Ming Cult. You're on your own now.</font>
+accept_45578_1=<font face="Default" color="#ffffff" >Who are you? This is Ming Cult! No trespassing! </font>
+accept_45579_1=<font face="Default" color="#ffffff" >What business brings you here? </font>
+accept_45580_1=<font face="Default" color="#ffffff" >Going down the mountain without permission? Excellent. I have the same idea too. Why don't we go together? </font>
+accept_45581_1=<font face="Default" color="#ffffff" >I'm not going to say more since you have made up your mind. I will permit you to go down the mountain to sharpen your skills if you can prove that you have enough strength. There are several ways to prove
+accept_45582_1=<font face="Default" color="#ffffff" >You are hereby given one day period, during which your performance in our school's tasks and events will be evaluated. The Sect leader will then determine your right to leave the school for further training. </font>
+accept_45583_1=<font face="Default" color="#ffffff" >Today, I permit you to go down to hone your skills. The Ming Cult disciples have always very refined. You must not to do something that will harm their reputation when you are out and about in Jianghu. </font><font face="Default" color="#ff0000" >The internal skills and kung fu skills of all disciples who go down to sharpen their skills will be downgraded (including Advanced School Skills). </font>
+accept_45584_1=<font face="Default" color="#ffffff" >You are one of our Ming Cult disciples who went out to sharpen his skills. What business brings you here today? </font>
+accept_45585_1=<font face="Default" color="#ffffff" >You nuisance! Why are you here again to disturb my master and me?  What do you need me to help with this time? </font>
+complete_45575=<font face="Default" color="#ffffff" >I heard the disciples talking. Have you got close to the Imperial Court? Is this true? </font>
+complete_45576=<font face="Default" color="#ffffff" >Why are you in hurry? </font>
+complete_45577=<font face="Default" color="#ffffff" >Since you are so determined, I am not going to say any more. Remember, when you make the choice, you have to accept the consequences. From now on, </font><font face="Default" color="#ffffff" >Ming Cult</font><font face="Default" color="#ffffff" > is neutral with you. </font>
+complete_45578=<font face="Default" color="#ffffff" >(Taking the recommendation letter and looking over it) I understand now what had happened. You may stay in Ming Cult. You can go now. </font>
+complete_45579=<font face="Default" color="#ffffff" >Why didn't you stay inside the room and think over what the Grandmaster had told you? Why are you here? </font>
+complete_45580=<font face="Default" color="#ffffff" >You must prove your strength before you can go down to sharpen your skills. Jianghu is a treacherous place and you'll run into unexpected things. You must have enough strength to protect yourself first. </font>
+complete_45581=<font face="Default" color="#ffffff" >You have proven the strength of your kung fu skills by obtaining this item. </font>
+complete_45582=<font face="Default" color="#ffffff" >The assessment period is up. Mao Zhen has already told me the things that took place since you joined our school. </font>
+complete_45583=<font face="Default" color="#ffffff" >That being the case, you may go down the mountain. With the music from the jade flute, I wish you a great success in Jianghu. </font>
+complete_45584=<font face="Default" color="#ffffff" >I already know everything that happened while you were outside. Although you did not bring shame to our reputation for culture, neither did you have any great achievements. Never mind. Today I again permit you to enter the gates of Scholar's Academy. From today forth, you must cultivate yourself, study and practice hard, and be worthy of the pains I have taken for you. </font>
+complete_45585=<font face="Default" color="#ffffff" >Ha-ha-ha. Take your time. Touch your face and see if it has changed back.  You can go back now. The people at your school will certainly recognize you. </font>
+context_45575=Why are you still here? Master Wei has been sending out people to look for you. I am afraid that something has happened. You hurry and go check what's going on.
+context_45576=Rumors about me already got the attention of the leader. Why not use this chance to leave Ming Cult?
+context_45577=Leave Ming Cult? Do you wish to renounce the school? I would grant your wish since you have made up your mind. But you must know that all internal skills and martial arts you learned in Ming Cult must be cast aside once you renounce the school. Do you agree? Betrayer of mine is an enemy of Ming Cult. You're on your own.
+context_45578=You accidentally entered Ming Cult domain with hopes to join
+context_45579=Ask the Cult Leader about going out to sharpen your skills.
+context_45580=Leave the school without permission and enter the quarrels of Jianghu.
+context_45581=Pass Forbidden Instance and Factions Challenge, and receive a strength certificate that proves your strength. The Jianghu Forbidden Instances Green Cloud Castle and Yanmen Pass will drop a strength certificate, and participation in a
+context_45582=Each school has one hour evaluation period, during which the activities you participate for joining and contributing to your school will be assessed. This will determine your right to leave the school for further training.
+context_45583=Bid farewell to the Leader. Leave the Ming Cult and enter Jianghu.
+context_45584=Speak to <a href="findnpc_new,school20,newmp_mj_003" style="HLStype1">Mao Zhen</a> and ask about returning to Ming Cult
+context_45585=I found the Mysterious Doctor's disciple and sought to get rid of the disguise and restore my original face. I returned to Ming Cult.
+menu_45575_1=<font face="Default" color="#ffffff" >I will go at once.</font>
+menu_45576_1=<font face="Default" color="#ffffff" >I will go at once.</font>
+menu_45577_1=<font face="Default" color="#ffffff" >Leader, I would like to renounce Ming Cult</font>
+menu_45578_1=<font face="Default" color="#ffffff" >Huh? I have already arrived Ming Cult? </font>
+menu_45579_1=<font face="Default" color="#ffffff" >There is something on my mind. I hope the Grandmaster can grant my wish. </font>
+menu_45580_1=<font face="Default" color="#ffffff" >That will be brilliant. </font><font face="Default" color="#8fd6ef" >(Uh, I think it's better for me to sneak out.) </font>
+menu_45581_1=<font face="Default" color="#ffffff" >Thank you, Grandmaster. I'm heading out now. </font>
+menu_45582_1=<font face="Default" color="#ffffff" >Thank you.</font>
+menu_45583_1=<font face="Default" color="#ffffff" >Thank you, Grandmaster. I have learned a lot from the Grandmaster. I will pass Grandmaster's teachings on to the people, in hope to end bloody fighting in Jianghu. </font>
+menu_45584_1=<font face="Default" color="#ffffff" >I have been away from this place for a long time. I would now like to return to the Ming Cult. </font>
+menu_45585_1=<font face="Default" color="#ffffff" >Great Physician, I want to return to my former school. But how will everyone recognize me with my face disguised like this? </font>
+next_45575=
+next_45576=
+next_45578=
+next_45579=
+next_45580=
+next_45581=
+next_45582=
+next_45583=
+next_45584=
+next_45585=
+next_45936=
+next_45939=
+next_45942=
+next_45945=
+submit_45575=<font face="Default" color="#ffffff" >You were looking for me? </font>
+submit_45576=<font face="Default" color="#ffffff" >Leader, may I tell you something?</font>
+submit_45577=<font face="Default" color="#ffffff" >From now on there will be one less </font><font face="Default" color="#ffffff" >Ming Cult</font> <font face="Default" color="#ffffff" >disciple</font> in Jianghu.
+submit_45578=<font face="Default" color="#ffffff" >Cult Leader, thank you. </font>
+submit_45579=<font face="Default" color="#ffffff" >Elder Brother, please listen to what I have to say. I want to go down to look around in Jianghu. </font>
+submit_45580=<font face="Default" color="#ffffff" >Grandmaster, please don't worry. With my kung fu skills, I can protect myself in Jianghu. </font>
+submit_45581=<font face="Default" color="#ffffff" >Thank you for your praise.</font>
+submit_45582=<font face="Default" color="#ffffff" >I wonder if I can go down to sharpen my skills? </font>
+submit_45583=<font face="Default" color="#ffffff" >Thank you. </font>
+submit_45584=<font face="Default" color="#ffffff" >Thank you Leader for granting my wish. Please accept my gratitude. </font>
+submit_45585=<font face="Default" color="#ffffff" >Master, you are teasing me again. </font>
+target_45575=Yinyang Palm Messenger Wei Yan, go to see what happened.
+target_45576=Tell the leader that you are willing to renounce your school
+target_45577=Talk to the leader to renounce Ming Cult
+target_45578=Find <a href="findnpc_new,school20,npc_mjwy_005" style="HLStype1">Lei Ri</a>. Have him join Ming Cult (Can go to Evil Men's Valley to search for <a href="findnpc_new,school20,Transbron02I" style="HLStype1">Jiang Dachen</a> to go to Ming Cult)
+target_45579=Ask the Cult Leader about going out to sharpen your skills.
+target_45580=Leave the school without permission and enter the quarrels of Jianghu.
+target_45581=The Jianghu Forbidden Instances Green Cloud Castle and Yanmen Pass will drop a strength certificate, and participation in a faction challenge (a level one faction will not drop) and obtaining a grade of A will drop a strength certificate proving
+target_45582=Obtain a certificate to go down the mountain to sharpen skills
+target_45583=Bid farewell to the Leader. Leave the Ming Cult and enter Jianghu.
+target_45584=Speak to <a href="findnpc_new,school20,newmp_mj_003" style="HLStype1">Mao Zhen</a> and ask about returning to Ming Cult
+target_45585=Find the Mysterious Doctor's disciples and explain your reason for coming.
+title_45575=Renounce your school
+title_45576=Rumor Mill
+title_45577=Renounce your school
+title_45578=Enter Ming Cult
+title_45579=Hidden ambition
+title_45580=Entering Jianghu
+title_45581=Strength test
+title_45582=School assessment
+title_45583=Permission to go down the mountain
+title_45584=Returning from sharpening skills
+title_45585=Return to Ming Cult
+accept_45924_1=<font face="Default" color="#ffffff" >You are hereby given one hour period, during which your performance in our school's tasks and events will be evaluated. The abbot will then determine your right to leave the school for further training. </font>
+accept_45927_1=<font face="Default" color="#ffffff" >You are hereby given one hour period, during which your performance in our school's tasks and events will be evaluated. The headmaster will then determine your right to leave the school for further training. </font>
+accept_45930_1=<font face="Default" color="#ffffff" >You are hereby given one hour period, during which your performance in our school's tasks and events will be evaluated. The headmaster will then determine your right to leave the school for further training. </font>
+accept_45933_1=<font face="Default" color="#ffffff" >You are hereby given one hour period, during which your performance in our school's tasks and events will be evaluated. The sect leader will then determine your right to leave the school for further training. </font>
+accept_45936_1=<font face="Default" color="#ffffff" >You are hereby given one hour period, during which your performance in our school's tasks and events will be evaluated. The Grandmother will then determine your right to leave the school for further training. </font>
+accept_45939_1=<font face="Default" color="#ffffff" >You are hereby given one hour period, during which your performance in our school's tasks and events will be evaluated. The valley leader will then determine your right to leave the school for further training. </font>
+accept_45942_1=<font face="Default" color="#ffffff" >You are hereby given one hour period, during which your performance in our school's tasks and events will be evaluated. The officer will then determine your right to leave the school for further training. </font>
+accept_45945_1=<font face="Default" color="#ffffff" >You are hereby given one hour period, during which your performance in our school's tasks and events will be evaluated. The headmaster will then determine your right to leave the school for further training. </font>
+context_45924=Each school has one hour evaluation period, during which the activities you participate for joining and contributing to your school will be assessed. This will determine your right to leave the school for further training.
+context_45927=Each school has one hour evaluation period, during which the activities you participate for joining and contributing to your school will be assessed. This will determine your right to leave the school for further training.
+context_45930=Each school has one hour evaluation period, during which the activities you participate for joining and contributing to your school will be assessed. This will determine your right to leave the school for further training.
+context_45933=Each school has one hour evaluation period, during which the activities you participate for joining and contributing to your school will be assessed. This will determine your right to leave the school for further training.
+context_45936=Each school has one hour evaluation period, during which the activities you participate for joining and contributing to your school will be assessed. This will determine your right to leave the school for further training.
+context_45939=Each school has one hour evaluation period, during which the activities you participate for joining and contributing to your school will be assessed. This will determine your right to leave the school for further training.
+context_45942=Each school has one hour evaluation period, during which the activities you participate for joining and contributing to your school will be assessed. This will determine your right to leave the school for further training.
+context_45945=Each school has one hour evaluation period, during which the activities you participate for joining and contributing to your school will be assessed. This will determine your right to leave the school for further training.
+target_45526=Open your portable medicine stove every hour for a Bone Melding Pill and Muscle Growing Pill. To get this item, retrieve a chalcedony from a Loulan descendant or Loulan disciple in the Northern Desert, and trade it with the mysterious physician. Alternatively, you can go to Ruined Valley to trade with the mysterious merchant.
 

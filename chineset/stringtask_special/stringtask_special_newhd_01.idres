@@ -529,7 +529,6 @@ specialinfo_1147=完成心魔試煉1次。
 specialinfo_1148=挫敗任意勢力1個。
 specialinfo_1149=通關任意禁地1次。
 specialinfo_1150=完成戰場勝利1次。
-specialinfo_1151=完成惡人谷之戰勝利2次。
 DialogID_60029=<font face="Default" color="#ffffff" >什麼，你說有血刀堂弟子投靠柳生家</font><font face="Default" color="#ffffff" >？</font><font face="Default" color="#ffffff" >此人</font><font face="Default" color="#ffffff" >斷然留不得！</font><font face="Default" color="#ffffff" >你</font><font face="Default" color="#ffffff" >要想方設法將此人除掉！</font>
 story_60009_1=<font face="Default" color="#ffffff" >哈哈</font><font face="Default" color="#ffffff" >哈</font><font face="Default" color="#ffffff" >，</font><font face="Default" color="#ffffff" >想不到竟會有</font><font face="Default" color="#ffffff" >血刀堂弟子前來投靠，我柳生家族又添一員虎將</font><font face="Default" color="#ffffff" >！</font>
 storymenu_60010_2=<font face="Default" color="#ffffff" >看來姑娘也是</font><font face="Default" color="#ffffff" >大義之人！</font><font face="Default" color="#ffffff" >不瞞姑娘，</font><font face="Default" color="#ffffff" >在下乃是為了</font><font face="Default" color="#ffffff" >柳生家的海圖而來</font><font face="Default" color="#ffffff" >。</font><font face="Default" color="#ffffff" >此次看到血刀堂弟子投靠，是以冒險將其擊殺</font><font face="Default" color="#ffffff" >。</font>
@@ -543,26 +542,26 @@ okmenu_60076=<font face="Default" color="#ffffff" >多謝相贈，我這便前�
 collectinfo_60037=領取奇異狀態後前去惡人谷內找那些外域嘍囉，讓其送你去見外域小頭目與之划拳灌醉對方後獲取外域情報。<font color="#FF3030">（這些嘍囉分別分佈在惡人谷（437 424），（776 423），（818 348）三個地方，注意看你身上的狀態，只有對應的狀態才能矇混過關，騙過嘍囉，讓其幫你見他們的小頭目。）</font>
 SubmitNpcEx_70064=去活動大使尚武處領取獎勵
 SubmitNpcEx_70063=去活動大使尚武處領取獎勵
-SubmitNpcEx_70201=<a href="findnpc_new,city01,Guild_tasknpc_001" style="HLStype1">幫會任務大使（燕京）</a><br><a href="findnpc_new,city02,Guild_tasknpc_001" style="HLStype1">幫會任務大使（蘇州）</a><br><a href="findnpc_new,city04,Guild_tasknpc_001" style="HLStype1">幫會任務大使（洛陽）</a><br><a href="findnpc_new,city05,Guild_tasknpc_001" style="HLStype1">幫會任務大使（成都）</a><br>
+SubmitNpcEx_70201=按H鍵打開幫會主界面在【幫會氣運】-【獲取氣運】分頁提交任務
 SubmitNpcEx_70202=<a href="findnpc_new,city01,Guild_tasknpc_001" style="HLStype1">幫會任務大使（燕京）</a><br><a href="findnpc_new,city02,Guild_tasknpc_001" style="HLStype1">幫會任務大使（蘇州）</a><br><a href="findnpc_new,city04,Guild_tasknpc_001" style="HLStype1">幫會任務大使（洛陽）</a><br><a href="findnpc_new,city05,Guild_tasknpc_001" style="HLStype1">幫會任務大使（成都）</a><br>
 SubmitNpcEx_70203=<a href="findnpc_new,city01,Guild_tasknpc_001" style="HLStype1">幫會任務大使（燕京）</a><br><a href="findnpc_new,city02,Guild_tasknpc_001" style="HLStype1">幫會任務大使（蘇州）</a><br><a href="findnpc_new,city04,Guild_tasknpc_001" style="HLStype1">幫會任務大使（洛陽）</a><br><a href="findnpc_new,city05,Guild_tasknpc_001" style="HLStype1">幫會任務大使（成都）</a><br>
-SubmitNpcEx_70204=<a href="findnpc_new,city01,Guild_tasknpc_001" style="HLStype1">幫會任務大使（燕京）</a><br><a href="findnpc_new,city02,Guild_tasknpc_001" style="HLStype1">幫會任務大使（蘇州）</a><br><a href="findnpc_new,city04,Guild_tasknpc_001" style="HLStype1">幫會任務大使（洛陽）</a><br><a href="findnpc_new,city05,Guild_tasknpc_001" style="HLStype1">幫會任務大使（成都）</a><br>
+SubmitNpcEx_70204=按H鍵打開幫會主界面在【幫會氣運】-【獲取氣運】分頁提交任務
 SubmitNpcEx_70205=<a href="findnpc_new,city01,Guild_tasknpc_001" style="HLStype1">幫會任務大使（燕京）</a><br><a href="findnpc_new,city02,Guild_tasknpc_001" style="HLStype1">幫會任務大使（蘇州）</a><br><a href="findnpc_new,city04,Guild_tasknpc_001" style="HLStype1">幫會任務大使（洛陽）</a><br><a href="findnpc_new,city05,Guild_tasknpc_001" style="HLStype1">幫會任務大使（成都）</a><br>
 SubmitNpcEx_70206=<a href="findnpc_new,city01,Guild_tasknpc_001" style="HLStype1">幫會任務大使（燕京）</a><br><a href="findnpc_new,city02,Guild_tasknpc_001" style="HLStype1">幫會任務大使（蘇州）</a><br><a href="findnpc_new,city04,Guild_tasknpc_001" style="HLStype1">幫會任務大使（洛陽）</a><br><a href="findnpc_new,city05,Guild_tasknpc_001" style="HLStype1">幫會任務大使（成都）</a><br>
-SubmitNpcEx_70207=<a href="findnpc_new,city01,Guild_tasknpc_001" style="HLStype1">幫會任務大使（燕京）</a><br><a href="findnpc_new,city02,Guild_tasknpc_001" style="HLStype1">幫會任務大使（蘇州）</a><br><a href="findnpc_new,city04,Guild_tasknpc_001" style="HLStype1">幫會任務大使（洛陽）</a><br><a href="findnpc_new,city05,Guild_tasknpc_001" style="HLStype1">幫會任務大使（成都）</a><br>
+SubmitNpcEx_70207=按H鍵打開幫會主界面在【幫會氣運】-【獲取氣運】分頁提交任務
 collectinfo_60202=收集鐵錠（材料可由生活職業產出）
 collectinfo_60203=收集銅錠（材料可由生活職業產出）
 collectinfo_60204=收集白楊木（材料可由生活職業產出）
 collectinfo_60205=收集柏木（材料可由生活職業產出）
-collectinfo_60206=去找<a href="findnpc_new,city01,bhzc_xhq_001" style="HLStype1">燕京無暇山風水先生</a>，獲取燕京駐地風水圖。
-collectinfo_60207=去找<a href="findnpc_new,city04,bhzc_xhq_001" style="HLStype1">洛陽冰蝕崖風水先生</a>，獲取洛陽駐地風水圖。
-collectinfo_60208=去找<a href="findnpc_new,city02,bhzc_xhq_001" style="HLStype1">蘇州棲仙峰風水先生</a>，獲取蘇州駐地風水圖。
-collectinfo_60209=去找<a href="findnpc_new,city05,bhzc_xhq_001" style="HLStype1">成都清風谷風水先生</a>，獲取成都駐地風水圖。
-interactinfo_60201=完成一次幫會團練（需要團練的所有參與者均為同幫成員)
+collectinfo_60206=任務已優化，請放棄該任務後按H鍵在【幫派界面】-【氣運任務】重新接取任務
+collectinfo_60207=任務已優化，請放棄該任務後按H鍵在【幫派界面】-【氣運任務】重新接取任務
+collectinfo_60208=任務已優化，請放棄該任務後按H鍵在【幫派界面】-【氣運任務】重新接取任務
+collectinfo_60209=任務已優化，請放棄該任務後按H鍵在【幫派界面】-【氣運任務】重新接取任務
+interactinfo_60201=完成一次幫會團練（團練時，團隊內至少有一個與自己同幫的俠士）
 interactinfo_60210=完成一次勤修苦練（請去各大城鎮活動大使處領取勤修苦練任務）
 interactinfo_60211=完成一次世家團隊玩法（需要多名幫會成員組隊參與，玩法介紹參見四大世家界面）
 specialinfo_1200=擊殺敵對幫會玩家三次
-interactinfo_60078=幫會鏢需幫主、副幫主去幫會鏢師處開啟。<a href="findnpc_new,city01,NPC_guild_pray_001" style="HLStype1">燕京幫會鏢師</a>，<a href="findnpc_new,city02,NPC_guild_pray_002" style="HLStype1">蘇州幫會鏢師</a>，<a href="findnpc_new,city04,NPC_guild_pray_003" style="HLStype1">洛陽幫會鏢師</a>，<a href="findnpc_new,city05,NPC_guild_pray_004" style="HLStype1">成都幫會鏢師</a>。開啟幫會後鏢車將幫會鏢護送至中途休息處，玩家必須和鏢車同時抵達休息處才能完成任務。<a href="findnpc_new,city01,EventNpc_guild_biaoche_001" style="HLStype1">燕京休息處</a>，<a href="findnpc_new,city02,EventNpc_guild_biaoche_001" style="HLStype1">蘇州休息處</a>，<a href="findnpc_new,city04,EventNpc_guild_biaoche_001" style="HLStype1">洛陽休息處</a>，<a href="findnpc_new,city05,EventNpc_guild_biaoche_001" style="HLStype1">成都休息處</a>。
+interactinfo_60078=幫會鏢需幫會任意官員前去幫會鏢師處開啟。<a href="findnpc_new,city01,NPC_guild_pray_001" style="HLStype1">燕京幫會鏢師</a>，<a href="findnpc_new,city02,NPC_guild_pray_002" style="HLStype1">蘇州幫會鏢師</a>，<a href="findnpc_new,city04,NPC_guild_pray_003" style="HLStype1">洛陽幫會鏢師</a>，<a href="findnpc_new,city05,NPC_guild_pray_004" style="HLStype1">成都幫會鏢師</a>。開啟幫會運鏢後將幫會鏢車護送至中途休息處，玩家必須和鏢車同時抵達休息處才能完成任務。<a href="findnpc_new,city01,EventNpc_guild_biaoche_001" style="HLStype1">燕京休息處</a>，<a href="findnpc_new,city02,EventNpc_guild_biaoche_001" style="HLStype1">蘇州休息處</a>，<a href="findnpc_new,city04,EventNpc_guild_biaoche_001" style="HLStype1">洛陽休息處</a>，<a href="findnpc_new,city05,EventNpc_guild_biaoche_001" style="HLStype1">成都休息處</a>。
 interactinfo_60079=將幫會鏢護送至終點,玩家必須和鏢車同時抵達終點才能完成任務。<a href="findnpc_new,city01,EventNpc_guild_biaoche_002" style="HLStype1">燕京終點</a>，<a href="findnpc_new,city02,EventNpc_guild_biaoche_002" style="HLStype1">蘇州終點</a>，<a href="findnpc_new,city04,EventNpc_guild_biaoche_002" style="HLStype1">洛陽終點</a>，<a href="findnpc_new,city05,EventNpc_guild_biaoche_002" style="HLStype1">成都終點</a>。
 specialinfo_1173=師徒組隊一起踢館，完成六次
 specialinfo_1174=師徒組隊挑戰心魔,完成三次
@@ -581,14 +580,14 @@ DialogID_60214=<font face="Default" color="#ffffff" >少俠行行好，我已經
 DialogID_60215=<font face="Default" color="#ffffff" >節日雖然到了，我還是這麼孤獨，只得在此來求籤算一卦了，哎，時也命也。</font>
 DialogID_60216=<font face="Default" color="#ffffff" >書中自有顏如玉，書中自有黃金屋，少俠你可是來看書的？</font>
 DialogID_60217=<font face="Default" color="#ffffff" >今朝有酒今朝醉，哇好酒，好酒，少俠你可是來給我送好酒的？</font>
-interactinfo_60214=將年貨送給在蘇州酒樓門外乞討的老叫花子<a href="findnpc_new,city02,WorldNpc01135" style="HLStype1">范一湯</a>，給他送去溫暖。
-interactinfo_60215=將年貨送給在蘇州酒樓門外的孤寡老人<a href="findnpc_new,city02,WorldNpc01551" style="HLStype1">徐雲</a>，給她送去溫暖。
-interactinfo_60216=將年貨送給在蘇州城內的書齋先生<a href="findnpc_new,city02,WorldNpc01097" style="HLStype1">嚴倫</a>，給他送去溫暖。
-interactinfo_60217=將年貨送給在蘇州酒樓門外醉酒的醉漢<a href="findnpc_new,city02,WorldNpc01626" style="HLStype1">解廣天</a>，給他送去溫暖。
-okmenu_60214=<font face="Default" color="#ffffff" >這位大哥，您運氣不錯，我正好是幫酒樓掌櫃給您送些年貨的。</font>
-okmenu_60215=<font face="Default" color="#ffffff" >婆婆切勿悲傷，我是替酒樓掌櫃給</font><font face="Default" color="#ffffff" >您</font><font face="Default" color="#ffffff" >送些年貨，以便</font><font face="Default" color="#ffffff" >您</font><font face="Default" color="#ffffff" >度過佳節。</font>
-okmenu_60216=<font face="Default" color="#ffffff" >我是幫酒樓掌櫃給</font><font face="Default" color="#ffffff" >您</font><font face="Default" color="#ffffff" >送些過節年貨的，請您收下。</font>
-okmenu_60217=<font face="Default" color="#ffffff" >我是幫酒樓掌櫃給您送些過節年貨的，請您收下。</font>
+interactinfo_60214=將中秋禮盒送給在蘇州酒樓門外乞討的老叫花子<a href="findnpc_new,city02,WorldNpc01135" style="HLStype1">范一湯</a>，給他送去溫暖。
+interactinfo_60215=將中秋禮盒送給在蘇州酒樓門外的孤寡老人<a href="findnpc_new,city02,WorldNpc01551" style="HLStype1">徐雲</a>，給她送去溫暖。
+interactinfo_60216=將中秋禮盒送給在蘇州城內的書齋先生<a href="findnpc_new,city02,WorldNpc01097" style="HLStype1">嚴倫</a>，給他送去溫暖。
+interactinfo_60217=將中秋禮盒送給在蘇州酒樓門外醉酒的醉漢<a href="findnpc_new,city02,WorldNpc01626" style="HLStype1">解廣天</a>，給他送去溫暖。
+okmenu_60214=<font face="Default" color="#ffffff" >這位大哥，您運氣不錯，我正好是幫酒樓掌櫃給您送些中秋禮盒的。</font>
+okmenu_60215=<font face="Default" color="#ffffff" >婆婆切勿悲傷，我是替酒樓掌櫃給</font><font face="Default" color="#ffffff" >您</font><font face="Default" color="#ffffff" >送些中秋禮盒，以便</font><font face="Default" color="#ffffff" >您</font><font face="Default" color="#ffffff" >度過佳節。</font>
+okmenu_60216=<font face="Default" color="#ffffff" >我是幫酒樓掌櫃給</font><font face="Default" color="#ffffff" >您</font><font face="Default" color="#ffffff" >送些中秋禮盒的，請您收下。</font>
+okmenu_60217=<font face="Default" color="#ffffff" >我是幫酒樓掌櫃給您送些中秋禮盒的，請您收下。</font>
 SubmitNpcEx_70075=前往各大主城活動大使林梁處領取新春大禮包。
 SubmitNpcEx_70076=前往各大主城活動大使林梁處領取新年紅包。
 SubmitNpcEx_70077=前往各大主城活動林梁處領取任務獎勵。
@@ -604,5 +603,153 @@ specialinfo_1215=完成1次通關任意禁地。
 specialinfo_1216=完成1次戰場首勝（古墓或者沐雲莊戰場）。
 SubmitNpcEx_70401=與<a href="findnpc_new,born02,outlandwar_lpf001" style="HLStype1">武林戰場接引人</a>交談
 useiteminfo_60020=前往惡人谷<a href="findnpc_new,born02,npc_lzy_huodong_ergjb" style="HLStype1">無名塚</a>前上<a href="TASK_ITEM,useitem_lzy_huodong_ergjb" style="HLStype1">香</a>進行祭拜
-collectinfo_60038=幫助牧童尋回在蘇州飛丟的風箏（風箏刷出時會有大致位置的系統提示）
+QiecuoMenu_60021=<font face="Default" color="#ffffff" >那前輩請指教。</font>
+QiecuoTitle_60021=<font face="Default" color="#ffffff" >  此次惡人谷之行險惡重重，老夫想看看少俠的身手，請不要謙虛了。</font>
+hunterinfo_60021=與<a href="findnpc_new,city04,npc_ftask_004" style="HLStype1">玉旋子</a>進行切磋
+specialinfo_1217=勤修苦練活躍度達到75（接取任務後必須要參加一次增加活躍度的活動）
+DialogID_60223=<font face="Default" color="#ffffff" >我這就將拜帖送至各大掌門處！</font>
+SubmitNpcEx_70405=回復<a href="findnpc_new,city02,WorldNpc01194" style="HLStype1">林天南</a>，拜帖送出之事
+interactinfo_60223=前去與<a href="findnpc_new,city02,Transcity02A" style="HLStype1">相軍</a>相談，吩咐其將拜帖送至各大掌門處
+okmenu_60223=<font face="Default" color="#ffffff" >恩</font>
+DialogID_60220=<font face="Default" color="#ffffff" >少俠前來所謂何事？</font>
+DialogID_60221=<font face="Default" color="#ffffff" >少俠前來所謂何事？</font>
+DialogID_60222=<font face="Default" color="#ffffff" >少俠前來所謂何事？</font>
+interactinfo_60220=前往惡人谷摘星門拜訪摘星門掌門<a href="findnpc_new,born02,WorldNpc09303" style="HLStype1">蘇百靈</a>，送出中原武盟令。
+interactinfo_60221=前往惡人谷素雲宮拜訪素雲宮宮主<a href="findnpc_new,born02,erg14" style="HLStype1">雲曼</a>，送出中原武盟令。
+interactinfo_60222=前往惡人谷崑崙派拜訪崑崙派掌門<a href="findnpc_new,born02,WorldNpc09401" style="HLStype1">雲陽子</a>，送出中原武盟令。
+okmenu_60220=<font face="Default" color="#ffffff" >我是奉九宮老人之命前來給前輩送中原武盟令的。</font>
+okmenu_60221=<font face="Default" color="#ffffff" >我是奉九宮老人之命前來給前輩送中原武盟令的。</font>
+okmenu_60222=<font face="Default" color="#ffffff" >我是奉九宮老人之命前來給前輩送中原武盟令的。</font>
+DialogID_60218=<font face="Default" color="#ffffff" >少俠可前去探查一次惡虎山寨，那邊貌似有些動靜。</font>
+DialogID_60219=<font face="Default" color="#ffffff" >少俠那批機關存放在惡虎山寨內，少俠前往找尋機會將其摧毀。</font>
+SubmitNpcEx_70402=回去告訴<a href="findnpc_new,city04,npc_ftask_007" style="HLStype1">石硯冰</a>情況
+SubmitNpcEx_70403=回去告訴<a href="findnpc_new,city02,WorldNpc01194" style="HLStype1">林天南</a>情況
+SubmitNpcEx_70404=回去告訴<a href="findnpc_new,born01,WorldNpc10992" style="HLStype1">孔德福</a>情況（提示：可通過<a href="findnpc_new,born01,WorldNpc_guj04yue_001" style="HLStype1">孔福</a>離開活動場景）
+hunterinfo_60022=前往<a href="findnpc_new,born01,EventNpc_guj_04yue_003" style="HLStype1">惡虎山脈</a>處進入活動場景，擊敗惡虎山寨護衛（可以通過<a href="findnpc_new,born01,WorldNpc_guj04yue_001" style="HLStype1">孔福</a>離開場景）
+interactinfo_60218=與<a href="findnpc_new,born01,WorldNpc10992" style="HLStype1">孔德福</a>對話獲取消息（提示：可通過<a href="findnpc_new,city02,WorldNpc01194" style="HLStype1">林天南</a>直接傳送至雞鳴驛）
+interactinfo_60219=與<a href="findnpc_new,born01,WorldNpc10992" style="HLStype1">孔德福</a>對話獲取消息（提示：可通過<a href="findnpc_new,city02,WorldNpc01194" style="HLStype1">林天南</a>直接傳送至雞鳴驛）
+okmenu_60218=<font face="Default" color="#ffffff" >好的</font>
+okmenu_60219=<font face="Default" color="#ffffff" >好的</font>
+specialinfo_1218=完成一次惡虎山寨踢館。
+useiteminfo_60021=前往<a href="findnpc_new,born01,EventNpc_guj_04yue_002" style="HLStype1">惡虎山脈</a>處，使用<a href="TASK_ITEM,useitem_guj_04yueguj001" style="HLStype1">炸藥</a>將機關炸毀
+hunterinfo_60023=與<a href="findnpc_new,city04,npc_ftask_007" style="HLStype1">石硯冰</a>進行一次棋藝切磋
+collectinfo_60907=收集<a href="findnpc_new,," style="HLStype1"></a>五蘊伏魔品
+SubmitNpcEx_70087=回稟身在洛陽的<a href="findnpc_new,city04,npc_ftask_002" style="HLStype1">九宮老人</a>。
+collectinfo_60039=除去馬場上的<a href="findnpc_new,city01,gather_hd_201751_001" style="HLStype1">雜草</a>
+collectinfo_60040=幫助馬場總管搬取<a href="findnpc_new,city01,gather_hd_201751_002" style="HLStype1">木料</a>
+useiteminfo_60022=使用<a href="TASK_ITEM,useitem_hd_201751_001" style="HLStype1">修理工具</a>修繕<a href="findnpc_new,city01,EventNpc_hd_201751_001" style="HLStype1">馬棚</a>
+useiteminfo_60023=使用<a href="TASK_ITEM,useitem_hd_201751_002" style="HLStype1">加工工具</a>加工<a href="findnpc_new,city01,gather_hd_201751_003" style="HLStype1">搬運來的木料</a>
+specialinfo_1151=完成天梯1次。
+SubmitNpcEx_70093=前往各大主城活動大使林梁處領取端午佳節禮品。
+SubmitNpcEx_70232=按H鍵打開幫會主界面在【幫會氣運】-【獲取氣運】分頁提交任務
+SubmitNpcEx_70233=按H鍵打開幫會主界面在【幫會氣運】-【獲取氣運】分頁提交任務
+SubmitNpcEx_70235=按H鍵打開幫會主界面在【幫會氣運】-【獲取氣運】分頁提交任務
+SubmitNpcEx_70236=按H鍵打開幫會主界面在【幫會氣運】-【獲取氣運】分頁提交任務
+okmenu_60922=<font face="Default" color="#ffffff" >原來如此</font><font face="Default" color="#ffffff" >!</font>
+okmenu_60923=<font face="Default" color="#ffffff" >受教了</font>
+okmenu_60924=<font face="Default" color="#ffffff" >確實如此</font>
+okmenu_60925=<font face="Default" color="#ffffff" >原來如此</font>
+DialogID_60922=<font face="Default" color="#ffffff" >重劍，重劍無鋒，大巧不工，指天天崩，劃地地裂。劍法講究化繁為簡，以重克輕。能夠使用重劍之人必是修為上有過人之處。
+DialogID_60923=<font face="Default" color="#ffffff" >扇子，折合是可以刺、砍、挑、壓、拌、點穴，打開時可以抵擋暗器，技巧型武器，不適合正面對碰。</font>
+DialogID_60924=<font face="Default" color="#ffffff" >拳刃，奇門兵器，固定於手腕或者手持，擁有快、準、狠、奇等特點，適合體術強大之人。拳刃攻守兼備，單挑下不懼任何冷兵器
+DialogID_60925=<font face="Default" color="#ffffff" >筆，靈巧型兵器，於書房中隨處可見，形狀類似於峨眉刺。主要用於取穴打位。俗語有云：「一寸小，一寸巧；一寸短，一寸險。」
+collectinfo_160208=去找<a href="findnpc_new,city02,bhzc_xhq_001" style="HLStype1">蘇州棲仙峰風水先生</a>，獲取蘇州駐地風水圖。
+specialinfo_1221=完成1次運鏢(在四大主城的鏢局鏢師處可以開啟運鏢）
+specialinfo_1222=完成1次劫鏢(點擊其他人正在進行運鏢的鏢車可以開啟劫鏢)
+collectinfo_60220=收集30個寒鴉草
+collectinfo_60221=收集50個寒鴉草
+collectinfo_60222=收集20個寒鴉草
+collectinfo_60223=收集40個寒鴉草
+interactinfo_60922=前往東方世家，與<a href="findnpc_new,city01,sdsj_lzy_dh_df001" style="HLStype1">東方學哲（東方世家武學兌換）</a>交流武學心得
+interactinfo_60923=前往南宮世家，與<a href="findnpc_new,city05,sdsj_lzy_dh_ng001" style="HLStype1">南宮盛元（南宮世家武學兌換）</a>交流武學心得
+interactinfo_60924=前往燕門世家，與<a href="findnpc_new,city04,sdsj_lzy_dh_ym001" style="HLStype1">燕世謙（燕門世家武學兌換）</a>交流武學心得
+interactinfo_60925=前往慕容世家，與<a href="findnpc_new,city02,sdsj_lzy_dh_mr001" style="HLStype1">慕容紹達（慕容世家武學兌換）</a>交流武學心得
+hunterinfo_60024=由酒館老闆告知成都有<a href="findnpc_new,city05,npc_lzy_cbt_drrw001" style="HLStype1">外域人士</a>出沒，其身上應該攜有藏寶圖，擊敗他獲得藏寶圖
+hunterinfo_60025=由酒館老闆告知蘇州有<a href="findnpc_new,city02,npc_lzy_cbt_drrw002" style="HLStype1">外域人士</a>出沒，其身上應該攜有藏寶圖，擊敗他獲得藏寶圖
+hunterinfo_60026=由酒館老闆告知金陵有<a href="findnpc_new,city03,npc_lzy_cbt_drrw003" style="HLStype1">外域人士</a>出沒，其身上應該攜有藏寶圖，擊敗他獲得藏寶圖
+hunterinfo_60027=由酒館老闆告知洛陽有<a href="findnpc_new,city04,npc_lzy_cbt_drrw004" style="HLStype1">外域人士</a>出沒，其身上應該攜有藏寶圖，擊敗他獲得藏寶圖
+hunterinfo_60028=由酒館老闆告知燕京有<a href="findnpc_new,city01,npc_lzy_cbt_drrw005" style="HLStype1">外域人士</a>出沒，其身上應該攜有藏寶圖，擊敗他獲得藏寶圖
+SubmitNpcEx_70094=前往各大主城林梁處領取禮包
+SubmitNpcEx_70095=前往各大主城活動大使林梁處領取夏日禮包。
+okmenu_60926=<font face="Default" color="#ffffff" >上交6個五蘊伏魔品</font>
+DialogID_60926=<font face="Default" color="#ffffff" >怎麼樣，少俠，想好了嗎？</font>
+interactinfo_60926=與<a href="findnpc_new,city05,act818_mj_001" style="HLStype1">明教師兄</a>交談
+SubmitNpcEx_70102=與<a href="findnpc_new,city05,act818_mj_001" style="HLStype1">明教師兄</a>交談
+SubmitNpcEx_70103=找成都武館<a href="findnpc_new,city05,act818_mj_001" style="HLStype1">顧大健（明教師兄）</a>提交任務獲得獎勵。
+SubmitNpcEx_70104=找成都武館<a href="findnpc_new,city05,act818_mj_001" style="HLStype1">顧大健（明教師兄）</a>提交任務獲得獎勵。
+SubmitNpcEx_70105=找成都武館<a href="findnpc_new,city05,act818_mj_001" style="HLStype1">顧大健（明教師兄）</a>提交任務獲得獎勵。
+SubmitNpcEx_70106=找成都武館<a href="findnpc_new,city05,act818_mj_001" style="HLStype1">顧大健（明教師兄）</a>提交結伴嘉獎任務獲得獎勵。
+SubmitNpcEx_70107=找成都武館找<a href="findnpc_new,city05,act818_mj_001" style="HLStype1">顧大健（明教師兄）</a>提交結伴嘉獎任務獲得獎勵。
+SubmitNpcEx_70108=找成都武館<a href="findnpc_new,city05,act818_mj_001" style="HLStype1">顧大健（明教師兄）</a>提交結伴嘉獎任務獲得獎勵。
+SubmitNpcEx_70109=找成都武館<a href="findnpc_new,city05,act818_mj_001" style="HLStype1">顧大健（明教師兄）</a>提交結伴嘉獎任務獲得獎勵。
+SubmitNpcEx_70110=找成都武館找<a href="findnpc_new,city05,act818_mj_001" style="HLStype1">顧大健（明教師兄）</a>提交結伴嘉獎任務獲得獎勵。
+SubmitNpcEx_70111=找成都武館<a href="findnpc_new,city05,act818_mj_001" style="HLStype1">顧大健（明教師兄）</a>提交任務獲得獎勵。
+SubmitNpcEx_70112=找成都武館<a href="findnpc_new,city05,act818_mj_001" style="HLStype1">顧大健（明教師兄）</a>提交任務獲得獎勵。
+SubmitNpcEx_70113=找成都武館<a href="findnpc_new,city05,act818_mj_001" style="HLStype1">顧大健（明教師兄）</a>提交任務獲得獎勵。
+SubmitNpcEx_70114=找成都武館<a href="findnpc_new,city05,act818_mj_001" style="HLStype1">顧大健（明教師兄）</a>提交任務獲得獎勵。
+SubmitNpcEx_70115=找成都武館<a href="findnpc_new,city05,act818_mj_001" style="HLStype1">顧大健（明教師兄）</a>提交任務獲得獎勵。
+SubmitNpcEx_70116=找成都武館<a href="findnpc_new,city05,act818_mj_001" style="HLStype1">顧大健（明教師兄）</a>提交任務獲得獎勵。
+specialinfo_1359=通關禁地普通暮色之村一次。
+specialinfo_1360=通關禁地普通青雲堡一次。
+specialinfo_1361=通關禁地困難青雲堡一次。
+specialinfo_1362=通關禁地普通鳳凰山莊一次。
+specialinfo_1363=通關禁地普通龍門客棧一次。
+specialinfo_1364=通關禁地地獄雁門關守軍一次。
+specialinfo_1368=挫敗任意勢力1次。（即任意一個勢力當日踢館6次方可）
+specialinfo_1369=成功挑戰心魔2次。
+SubmitNpcEx_70123=找蘇州（423.794）或成都（923.551）寧九徽（江湖客）提交任務領取獎勵。
+SubmitNpcEx_70124=找蘇州（423.794）或成都（923.551）寧九徽（江湖客）提交任務領取獎勵。
+SubmitNpcEx_70125=找蘇州（423.794）或成都（923.551）寧九徽（江湖客）提交任務領取獎勵。
+DialogID_60927=<font face="Default" color="#ffffff" >我這就將拜帖送至各大掌門處！</font>
+SubmitNpcEx_70126=回復<a href="findnpc_new,city02,WorldNpc01194" style="HLStype1">林天南</a>，拜帖送出之事
+interactinfo_60927=前去與<a href="findnpc_new,city02,Transcity02A" style="HLStype1">相軍</a>相談，吩咐其將拜帖送至各大掌門處
+okmenu_60927=<font face="Default" color="#ffffff" >恩</font>
+SubmitNpcEx_70127=找蘇州書齋先生<a href="findnpc_new,city02,WorldNpc01097" style="HLStype1">嚴倫</a>領取入學獎勵。
+SubmitNpcEx_70128=找各大主城節日活動大使林梁提交任務領取獎勵。
+SubmitNpcEx_70129=找各大主城節日活動大使林梁提交任務獲得獎勵。
+SubmitNpcEx_70130=找各大主城活動大使林梁提交任務獲得獎勵。
+SubmitNpcEx_70131=與<a href="findnpc_new,city02,hd_shcx_001" style="HLStype1">周揚軍(百曉生傳人)</a>交談。
+SubmitNpcEx_70132=經過高人一番指點必定有所收穫，回去找林梁吧。
+interactinfo_60928=與林梁交談，他有物品相贈與你。
+interactinfo_60929=與<a href="findnpc_new,city02,hd_shcx_001" style="HLStype1">周揚軍(百曉生傳人)</a>交談，他愛喝酒，此刻應該在蘇州酒樓二樓，帶上佳釀前去找他吧。
+interactinfo_60930=少俠你這佳釀著實不錯，實乃佳品，為了答謝你相贈美酒，我這裡有一個錦囊，且贈與你，你可帶此錦囊前往蘇州磨坊村附近(1308 291)尋找卜磊遠(隱世高人)行蹤。（且勿丟失此錦囊）
+interactinfo_60931=少俠你這佳釀著實不錯，實乃佳品，為了答謝你相贈美酒，我這裡有一個錦囊，且贈與你，你可帶此錦囊前往蘇州太湖漁村附近(1596 416)尋找卜磊遠(隱世高人)行蹤。（且勿丟失此錦囊）
+interactinfo_60932=少俠你這佳釀著實不錯，實乃佳品，為了答謝你相贈美酒，我這裡有一個錦囊，且贈與你，你可帶此錦囊前往蘇州碧螺村附近(1085 945)尋找卜磊遠(隱世高人)行蹤。（且勿丟失此錦囊）
+interactinfo_60933=少俠你這佳釀著實不錯，實乃佳品，為了答謝你相贈美酒，我這裡有一個錦囊，且贈與你，你可帶此錦囊前往蘇州金蠶村附近(112 1340)尋找卜磊遠(隱世高人)行蹤。（且勿丟失此錦囊）
+specialinfo_1371=通關任意禁地一次。
+DialogID_60928=<font face="Default" color="#ffffff" >少俠好本領，這壺珍品瓊漿佳釀就贈與你了。</font>
+DialogID_60929=<font face="Default" color="#ffffff" >舉杯邀明月，對影成三人。好酒，好酒。。。</font>
+DialogID_60930=<font face="Default" color="#ffffff" >世間多紛擾，生死困頓寂寥。只有這裡才有片刻安寧。既然少俠你是周揚軍介紹來此，還帶有信物，那我便指點你一番吧。</font>
+DialogID_60931=<font face="Default" color="#ffffff" >世間多紛擾，生死困頓寂寥。只有這裡才有片刻安寧。既然少俠你是周揚軍介紹來此，還帶有信物，那我便指點你一番吧。</font>
+DialogID_60932=<font face="Default" color="#ffffff" >世間多紛擾，生死困頓寂寥。只有這裡才有片刻安寧。既然少俠你是周揚軍介紹來此，還帶有信物，那我便指點你一番吧。</font>
+DialogID_60933=<font face="Default" color="#ffffff" >世間多紛擾，生死困頓寂寥。只有這裡才有片刻安寧。既然少俠你是周揚軍介紹來此，還帶有信物，那我便指點你一番吧。</font>
+okmenu_60928=<font face="Default" color="#ffffff" >如此便謝過了。</font>
+okmenu_60929=<font face="Default" color="#ffffff" >前輩好雅興。</font>
+okmenu_60930=<font face="Default" color="#ffffff" >如此便謝過前輩了，晚輩自當謹記於心。</font>
+okmenu_60931=<font face="Default" color="#ffffff" >如此便謝過前輩了，晚輩自當謹記於心。</font>
+okmenu_60932=<font face="Default" color="#ffffff" >如此便謝過前輩了，晚輩自當謹記於心。</font>
+okmenu_60933=<font face="Default" color="#ffffff" >如此便謝過前輩了，晚輩自當謹記於心。</font>
+specialinfo_1370=完成戰場獲勝3次。（參加古墓戰場；古殿論武，群鋒問武任意一種勝利均可完成）
+SubmitNpcEx_70133=找林梁提交任務
+SubmitNpcEx_70134=找林梁提交任務
+SubmitNpcEx_70135=找林梁提交任務
+SubmitNpcEx_70136=找林梁提交任務
+SubmitNpcEx_70137=找林梁提交任務
+SubmitNpcEx_70138=找林梁提交任務
+SubmitNpcEx_70139=找林梁提交任務
 
+SubmitNpcEx_70144=去<a href="findnpc_new,city02,WorldNpc01650" style="HLStype1">荊惠娟</a>處獲取新年禮盒
+
+DialogID_60080=<font face="Default" color="#ffffff" >你也不用著急，城南碼頭的船夫，正在為朝廷尋找該彩蛋，你可以將此彩蛋</font><font face="Default" color="#ffffff" >交給</font><font face="Default" color="#ffffff" >他。</font>
+DialogID_60081=<font face="Default" color="#ffffff" > 少俠小心，周圍有西域賊人正盯著我，還請低聲說話。</font>
+DialogID_60082=<font face="Default" color="#ffffff" >  </font><font face="Default" color="#ffffff" >多謝少俠，我這就將此物歸還主人。還帶我向阿仙兒問好，我在她那存了一份薄禮，還請少俠笑納。</font>
+hunterinfo_60029=與<a href="findnpc_new,city02,Transcity02H" style="HLStype1">裘謙哲</a>交談，突然<a href="findnpc_new,city02,hd_2017_12_30" style="HLStype1">外域匪賊</a>從旁殺出，將其擊敗
+interactinfo_60080=詢問<a href="findnpc_new,city02,hd_npc_zdyl_001" style="HLStype1">阿仙兒</a>，此彩蛋的來歷
+interactinfo_60081=找到<a href="findnpc_new,city02,Transcity02H" style="HLStype1">裘謙哲</a>，求他幫助
+interactinfo_60082=將神秘彩蛋交給<a href="findnpc_new,city02,Transcity02H" style="HLStype1">裘謙哲</a>，讓他幫忙物歸原主
+okmenu_60080=<font face="Default" color="#ffffff" >多謝指點</font>
+okmenu_60081=<font face="Default" color="#ffffff" >船家，今天我偶然得到一枚神秘彩蛋，聽城中仙兒說你正在尋找此蛋。</font>
+okmenu_60082=<font face="Default" color="#ffffff" >現在安全了，還請船家收下這彩蛋。</font>
+specialinfo_1383=成功挑戰心魔兩次
+SubmitNpcEx_70140=找各大主城節日活動大使林梁提交任務獲得「鎮國槍魂」全民贈禮禮包。
+SubmitNpcEx_70141=與<a href="findnpc_new,school21,newmp_sjy_002" style="HLStype1">耿伯宣</a>交談

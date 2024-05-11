@@ -7308,7 +7308,7 @@ ui_shortcut_shift=Shift
 ui_shortcut_ctrl=Ctrl
 ui_shortcut_alt=Alt
 ui_shortcut_tab=Tab
-ui_shortcut_blh=~
+ui_shortcut_blh=-
 ui_shortcut_1=1
 ui_shortcut_2=2
 ui_shortcut_3=3
@@ -7827,7 +7827,7 @@ ui_system_adturn=AD rotation
 ui_system_exchange=Switching
 ui_system_info_rightdown=The lower right corner of the screen
 ui_system_info_title=Title
-ui_system_fight_smts=生命/内力过低提示
+ui_system_fight_smts=Warning Low HP/Energy
 ui_system_sociality_foeon=Enemies on-line
 ui_system_sociality_foeoff=Enemy offline
 ui_system_sociality_wxsurmount=Friends martial breakthrough
@@ -15363,125 +15363,164 @@ guild_biaoche_boss_019=Caravan Robber
 guild_biaoche_boss_020=Caravan Robber
 talk_special_244052=You will be damaged by this skill if you're on the ground. Avoid it in air.
 talk_special_244053=You will be stunned if you failed to parry this skill.
+ui_match_taolu_ttbw=Sky Ladder Tournament
+ui_match_taolu_sysj=Remaining Time:
+ui_match_taolu_miao=Second
+ui_agreewar_eye_xyg=Next
+ui_agreewar_eye_tcgz=Quit
+ui_agreewar_req_liang=Liang
+ui_agreewar_req_jinri=Today
+ui_agreewar_req_shi=Hour
+ui_agreewar_req_fen=Minute
+ui_agreewar_req_yzxz=Appointed Battle Limit
+ui_agreewar_req_yzsj=Appointed Battle Time
+ui_battlefield_balance_bcfa=Save
+ui_agreewar_main_yzsj=Appointed Battle Incident
 
-ui_haiwai_sm_close=Close
 ui_hw_teacher_shop=Shop
-ui_hw_guild_league_tclm=Kick out Alliance
-ui_hw_guild_league_jslm=Disband Alliance
-ui_hw_guild_league_jcdd=Cancel Enemy Relationship
-ui_hw_sys_shot_gqxg=High Level Flying Skill Camera Effect
+ui_hw_tdp_yqmy=Invite Ally
+ui_hw_ws_scuffle_qczjz=Best of All
+ui_hw_ws_scuffle_qczj=Best of All
+ui_hw_ws_scuffle_wdzj=My Best
+ui_hw_ws_scuffle_brcs=Today's Participation:
+ui_hw_auc_am_pz=Quality
+CanAcceptMenu_70608=<font face="Default" color="#ffffff" >Christmas Tree(Forbidden Instance)</font>
+CompleteMenu_70608=<font face="Default" color="#ffffff" >Complete the task</font>
+accept_70608_1=<font face="Default" color="#ffffff" >Complete Forbidden Instance 1 time</font>
+complete_70608=<font face="Default" color="#ffffff" >Well done. Here's the reward for you!</font>
+context_70608=Christmas Tree
+menu_70608_1=<font face="Default" color="#ffffff" >OK.</font>
+submit_70608=<font face="Default" color="#ffffff" >Thank you.</font>
+target_70608=Complete Forbidden Instance 1 time
+title_70608=Christmas Tree(Forbidden Instance)
+SubmitNpcEx_70608=Talk with the Mysterious Merchant
+specialinfo_1503=Complete Forbidden Instance 1 time
 
-sys_itemcardsend_failed=Failed to send request. Please try again
-ItemcardReturnInfo_1=Exchanged. Please check (Mail may delay sometimes. Please be patient.)
-ItemcardReturnInfo_0=Failed to exchange. Please verify the exchange code.
-ItemcardReturnInfo_50001=Game server ID is unrecognizable or forbidden
-ItemcardReturnInfo_52009=Game section doesn't exist or is forbidden
-ItemcardReturnInfo_52061=Item card number is invalid
-ItemcardReturnInfo_52001=Item card number doesn't exist
-ItemcardReturnInfo_52003=This item card is not activated
-ItemcardReturnInfo_52004=This item card has been used
-ItemcardReturnInfo_52005=This item card status is abnormal. Please contact the customer service.
-ItemcardReturnInfo_52063=This item card info query is abnormal
-ItemcardReturnInfo_52008=This item card expires
-ItemcardReturnInfo_52007=This item card batch info is incorrect
-ItemcardReturnInfo_52006=This item card type doesn't exist or is not enabled
-ItemcardReturnInfo_52002=Card password is incorrect
-ItemcardReturnInfo_52074=This item card can only be topped up within 7 days after the new section is opened 
-ItemcardReturnInfo_52028=This item card top up record insertion is abnormal
-ItemcardReturnInfo_52027=This item card top up info record is abnormal
-ItemcardReturnInfo_52069=Failed to update the number of activated card of this item card batch 
-ItemcardReturnInfo_14112=The entered card number doesn't exist
-ItemcardReturnInfo_10002=Port processing abnormal
-ItemcardReturnInfo_14131=The entered card number doesn't match with activation type
-ItemcardReturnInfo_14132=Item card is not activated
-ItemcardReturnInfo_3005=Game substation ID doesn't exist
-ItemcardReturnInfo_5001=Player's account doesn't exist
-ItemcardReturnInfo_5002=Player's password is incorrect
-ItemcardReturnInfo_5003=Account is frozen
-ItemcardReturnInfo_5004=Account is abolished
-ItemcardReturnInfo_5011=The registered account already exists
-ItemcardReturnInfo_5021=Player's remaining point is insufficient
-ItemcardReturnInfo_5022=Player's game time used up
-ItemcardReturnInfo_5031=The game section player logged in is not activated
-ItemcardReturnInfo_7001=Trade number already exists
-ItemcardReturnInfo_7002=Trade number doesn't exist
-ItemcardReturnInfo_7003=Trade order is topped up already
-ItemcardReturnInfo_7004=Payment amount doesn't match with the trade order amount
-ItemcardReturnInfo_7011=Game point card ID doesn't exist
-ItemcardReturnInfo_52010=Game ID in the subsection doesn't match with incoming game ID
-ItemcardReturnInfo_52073=This item card cannot be topped up in this subsection
-ItemcardReturnInfo_52076=You are not the subscriber of this platform. Cannot use this card
-ItemcardReturnInfo_52077=Your character is not created in the appointed time. Cannot use this card
-ItemcardReturnInfo_52016=Failed to top up this item card. Max amount reached
-ItemcardReturnInfo_52020=This item card top up info insertion is abnormal
-ItemcardReturnInfo_52075=Only one item card can be topped up in this server
-ItemcardReturnInfo_14133=Item card is already used
-ItemcardReturnInfo_14134=Item card is already used
-ItemcardReturnInfo_20108=Parameter verification error. The passed parameter does not match with the encrypted string
-ItemcardReturnInfo_000=Missing Parameter
-ItemcardReturnInfo_1001=Parameter value is illegal
-ItemcardReturnInfo_1002=Network abnormal
-ItemcardReturnInfo_1003=Illegal access
-ItemcardReturnInfo_1004=Failed to verify verification string
-ItemcardReturnInfo_1005=URL string expires
-ItemcardReturnInfo_1006=System ID doesn't exist
-ItemcardReturnInfo_1007=Operator's ID doesn't exist
-ItemcardReturnInfo_1008=Snail database abnormal error
-ItemcardReturnInfo_3001=Game ID doesn't exist
-ItemcardReturnInfo_3002=Game server group ID doesn't exist
-ItemcardReturnInfo_3003=Game server ID doesn't exist
-ItemcardReturnInfo_3004=Game item doesn't exist
-ItemcardReturnInfo_7012=Game point card doesn't exist
-ItemcardReturnInfo_7013=Game point card is already used
-ItemcardReturnInfo_7014=Game point card is invalid
-ItemcardReturnInfo_7031=Item card ID doesn't exist
-ItemcardReturnInfo_7032=Item card doesn't exist
-ItemcardReturnInfo_7033=Item card is already used
-ItemcardReturnInfo_7034=Item card is invalid
-ItemcardReturnInfo_7051=Game time card ID doesn't exist
-ItemcardReturnInfo_7052=Game time card doesn't exist
-ItemcardReturnInfo_7053=Game time card is already used
-ItemcardReturnInfo_7054=Game time card is invalid
-ItemcardReturnInfo_7071=Activation code doesn't exist
-ItemcardReturnInfo_7072=Activation code is already used
-ItemcardReturnInfo_7073=Activation code is invalid
-ItemcardReturnInfo_7074=The required subsection is already activated
-ItemcardReturnInfo_7075=Failed to top up this item card. Max amount reached
-ItemcardReturnInfo_11101=Gift box inquiry is empty
-ItemcardReturnInfo_11102=Gift box inquiry failed
-ItemcardReturnInfo_11103=Event type is incorrect
-ItemcardReturnInfo_11104=Game ID is incorrect
-ItemcardReturnInfo_11105=Data account is incorrect
-ItemcardReturnInfo_11106=Gift inquiry failed
-ItemcardReturnInfo_11107=Gift is already claimed or gift status is empty
-ItemcardReturnInfo_11108=Gift is already given
-ItemcardReturnInfo_11109=Failed to set gift list status
-ItemcardReturnInfo_11110=Failed to give gift
-ItemcardReturnInfo_11111=Failed to modify gift list status
-ItemcardReturnInfo_11112=Gift type is incorrect
-ItemcardReturnInfo_11113=Game subsection is incorrect
-ItemcardReturnInfo_11114=Item number is empty
-ItemcardReturnInfo_11115=Gift box owner and claimer are different
-ItemcardReturnInfo_11116=Top up roulette event configuration error 
-ItemcardReturnInfo_11117=Character level doesn't meet the requirement
-ItemcardReturnInfo_11118=Character doesn't meet the event rules. Failed to give
-ItemcardReturnInfo_11119=No item to give
-ItemcardReturnInfo_11120=The passed parameter from the frontdesk doesn't match with the one from the system
-ItemcardReturnInfo_11121=Event configuration error
-ItemcardReturnInfo_11122=Event set batch number
-ItemcardReturnInfo_11123=Event set batch number. But it doesn't match with the user's.
-ItemcardReturnInfo_11124=Event set restrictive games
-ItemcardReturnInfo_11125=The game set in the event doesn't match with the one passed from the frontdesk
-ItemcardReturnInfo_11126=Event set restrictive subsection
-ItemcardReturnInfo_11127=The game subsection limited by the event doesn't match with the one passed from the users
-ItemcardReturnInfo_11128=Event set limitation to attend events.
-ItemcardReturnInfo_11129=The user has exceeded the participation times.
-ItemcardReturnInfo_11130=Event set total amount limitation to attend events.
-ItemcardReturnInfo_11131=The user's amount is lower than the event requirement
-ItemcardReturnInfo_11132=Event set total amount level to attend events.
-ItemcardReturnInfo_11133=System doesn't set related event
-ItemcardReturnInfo_11134=Event set account limitation to attend events.
-ItemcardReturnInfo_11135=Event set account limitation to attend events. This account is not in the limitation
-ItemcardReturnInfo_11136=Source subsection and target subsection cannot be the same
-ItemcardReturnInfo_11137=Roll in account and roll out account must be the same
-ItemcardReturnInfo_11138=Event expires or not in the limited game list
+CanAcceptMenu_70609=<font face="Default" color="#ffffff" >Christmas Tree(Possessed)</font>
+CompleteMenu_70609=<font face="Default" color="#ffffff" >Complete the task</font>
+accept_70609_1=<font face="Default" color="#ffffff" >Complete Possessed 2 times</font>
+complete_70609=<font face="Default" color="#ffffff" >Well done. Here's the reward for you!</font>
+context_70609=Christmas Tree
+menu_70609_1=<font face="Default" color="#ffffff" >OK.</font>
+submit_70609=<font face="Default" color="#ffffff" >Thank you.</font>
+target_70609=Complete Possessed 2 times
+title_70609=Christmas Tree(Possessed)
+SubmitNpcEx_70609=Talk with the Mysterious Merchant
+specialinfo_1504=Complete Possessed 2 times
+
+CanAcceptMenu_70610=<font face="Default" color="#ffffff" >Christmas Tree(Steal School Scripts)</font>
+CompleteMenu_70610=<font face="Default" color="#ffffff" >Complete the task</font>
+accept_70610_1=<font face="Default" color="#ffffff" >Complete Steal School Scripts 1 time</font>
+complete_70610=<font face="Default" color="#ffffff" >Well done. Here's the reward for you!</font>
+context_70610=Christmas Tree
+menu_70610_1=<font face="Default" color="#ffffff" >OK.</font>
+submit_70610=<font face="Default" color="#ffffff" >Thank you.</font>
+target_70610=Complete Steal School Scripts 1 time
+title_70610=Christmas Tree(Steal School Scripts)
+SubmitNpcEx_70610=Talk with the Mysterious Merchant
+specialinfo_1505=Complete Steal School Scripts 1 time
+
+CanAcceptMenu_70611=<font face="Default" color="#ffffff" >Christmas Tree(50 Activity Value)</font>
+CompleteMenu_70611=<font face="Default" color="#ffffff" >Complete the task</font>
+accept_70611_1=<font face="Default" color="#ffffff" >Submit a Christmas Snack (Obtained from the Activity Value reward during the event time)</font>
+complete_70611=<font face="Default" color="#ffffff" >Well done. Here's the reward for you!</font>
+context_70611=Christmas Tree
+menu_70611_1=<font face="Default" color="#ffffff" >OK.</font>
+submit_70611=<font face="Default" color="#ffffff" >Thank you.</font>
+target_70611=Submit a Christmas Snack (Obtained from the Activity Value reward during the event time)
+title_70611=Christmas Tree(50 Activity Value)
+DialogID_60949=<font face="Default" color="#ffffff" >Obtain a Christmas Snack (Obtained from the Activity Value reward during the event time)</font>
+SubmitNpcEx_70611=Talk with the Mysterious Merchant
+okmenu_60949=<font face="Default" color="#ffffff" >Submit a Christmas Snack</font>
+interactinfo_60949=Talk with the Mysterious Merchant
+
+CanAcceptMenu_70612=<font face="Default" color="#ffffff" >Christmas Tree(75 Activity Value)</font>
+CompleteMenu_70612=<font face="Default" color="#ffffff" >Complete the task</font>
+accept_70612_1=<font face="Default" color="#ffffff" >Submit a Christmas Candy (Obtained from the Activity Value reward during the event time)</font>
+complete_70612=<font face="Default" color="#ffffff" >Well done. Here's the reward for you!</font>
+context_70612=Christmas Tree
+menu_70612_1=<font face="Default" color="#ffffff" >OK.</font>
+submit_70612=<font face="Default" color="#ffffff" >Thank you.</font>
+target_70612=Submit a Christmas Candy (Obtained from the Activity Value reward during the event time)
+title_70612=Christmas Tree(75 Activity Value)
+DialogID_60950=<font face="Default" color="#ffffff" >Obtain a Christmas Candy (Obtained from the Activity Value reward during the event time)</font>
+SubmitNpcEx_70612=Talk with the Mysterious Merchant
+okmenu_60950=<font face="Default" color="#ffffff" >Submit a Christmas Candy</font>
+interactinfo_60950=Talk with the Mysterious Merchant
+
+
+CanAcceptMenu_70613=<font face="Default" color="#ffffff" >Christmas Tree(Ruined Valley Battlefield)</font>
+CompleteMenu_70613=<font face="Default" color="#ffffff" >Complete the task</font>
+accept_70613_1=<font face="Default" color="#ffffff" >Complete Ruined Valley Battlefield 1 time</font>
+complete_70613=<font face="Default" color="#ffffff" >Well done. Here's the reward for you!</font>
+context_70613=Christmas Tree
+menu_70613_1=<font face="Default" color="#ffffff" >OK.</font>
+submit_70613=<font face="Default" color="#ffffff" >Thank you.</font>
+target_70613=Complete Ruined Valley Battlefield 1 time
+title_70613=Christmas Tree(Ruined Valley Battlefield)
+SubmitNpcEx_70613=Talk with the Mysterious Merchant
+specialinfo_1506=Complete Ruined Valley Battlefield 1 time
+
+CanAcceptMenu_70614=<font face="Default" color="#ffffff" >Christmas Tree(Heaven Reaching Peak)</font>
+CompleteMenu_70614=<font face="Default" color="#ffffff" >Complete the task</font>
+accept_70614_1=<font face="Default" color="#ffffff" >Complete Heaven Reaching Peak 1 time</font>
+complete_70614=<font face="Default" color="#ffffff" >Well done. Here's the reward for you!</font>
+context_70614=Christmas Tree
+menu_70614_1=<font face="Default" color="#ffffff" >OK.</font>
+submit_70614=<font face="Default" color="#ffffff" >Thank you.</font>
+target_70614=Complete Heaven Reaching Peak 1 time
+title_70614=Christmas Tree(Heaven Reaching Peak)
+SubmitNpcEx_70614=Talk with the Mysterious Merchant
+specialinfo_1507=Complete Heaven Reaching Peak 1 time
+
+CanAcceptMenu_70615=<font face="Default" color="#ffffff" >Christmas Tree(100 Activity Value)</font>
+CompleteMenu_70615=<font face="Default" color="#ffffff" >Complete the task</font>
+accept_70615_1=<font face="Default" color="#ffffff" >Submit a Christmas Sock (Obtained from the Activity Value reward during the event time)</font>
+complete_70615=<font face="Default" color="#ffffff" >Well done. Here's the reward for you!</font>
+context_70615=Christmas Tree
+menu_70615_1=<font face="Default" color="#ffffff" >OK.</font>
+submit_70615=<font face="Default" color="#ffffff" >Thank you.</font>
+target_70615=Submit a Christmas Sock (Obtained from the Activity Value reward during the event time)
+title_70615=Christmas Tree(100 Activity Value)
+DialogID_60951=<font face="Default" color="#ffffff" >Obtain a Christmas Sock (Obtained from the Activity Value reward during the event time)</font>
+SubmitNpcEx_70615=Talk with the Mysterious Merchant
+okmenu_60951=<font face="Default" color="#ffffff" >Submit a Christmas Sock</font>
+interactinfo_60951=Talk with the Mysterious Merchant
+
+CanAcceptMenu_70616=<font face="Default" color="#ffffff" >Christmas Tree(Jianghu Legends)</font>
+CompleteMenu_70616=<font face="Default" color="#ffffff" >Complete the task</font>
+accept_70616_1=<font face="Default" color="#ffffff" >Complete Jianghu Legends 5 times</font>
+complete_70616=<font face="Default" color="#ffffff" >Well done. Here's the reward for you!</font>
+context_70616=Christmas Tree
+menu_70616_1=<font face="Default" color="#ffffff" >OK.</font>
+submit_70616=<font face="Default" color="#ffffff" >Thank you.</font>
+target_70616=Complete Jianghu Legends 5 times
+title_70616=Christmas Tree(Jianghu Legends)
+SubmitNpcEx_70616=Talk with the Mysterious Merchant
+specialinfo_1508=Complete Jianghu Legends 5 times
+
+haiwai_yzc_200909_hyd50=Christmas Snack
+desc_haiwai_yzc_200909_hyd50_0=Obtained from the 50 Activity Value reward during the event time. Please go to Mysterious Merchant（406,598）for rewards.
+
+haiwai_yzc_200909_hyd75=Christmas Sock
+desc_haiwai_yzc_200909_hyd75_0=Obtained from the 75 Activity Value reward during the event time. Please go to Mysterious Merchant（406,598）for rewards.
+
+haiwai_yzc_200909_hyd100=Christmas Sock
+desc_haiwai_yzc_200909_hyd100_0=Obtained from the 100 Activity Value reward during the event time. Please go to Mysterious Merchant（406,598）for rewards.
+
+haiwai_yzc201211_cl=Christmas Box
+desc_haiwai_yzc201211_cl=Contains Christmas tree decoration.
+desc_haiwai_yzc201211_cl_1=Right click to open it.
+
+haiwai_yzc201211_xr=Little Snowman
+desc_haiwai_yzc201211_xr=Open it to get Christmas gifts.
+desc_haiwai_yzc201211_xr_1=Right click to open it.
+
+haiwai_yzc201211_s=Christmas Tree
+desc_haiwai_yzc201211_s=Open it to get Christmas gifts.
+desc_haiwai_yzc201211_s_1=Right click to open it.
+haiwai_box_card_324="Crimson Cloud Golden Outfit" Firework
+desc_haiwai_box_card_324_1=Crimson Cloud Golden Outfit Firework
+desc_haiwai_box_card_324=Right click to get 1 outfit lore card <font color="#FFB428">Crimson Cloud Golden Outfit</font> and 1 outfit design of your gender.
+ui_hw_title_zbyc=Equipment Error
+ui_hw_content_zbyc=Return Error Equipment

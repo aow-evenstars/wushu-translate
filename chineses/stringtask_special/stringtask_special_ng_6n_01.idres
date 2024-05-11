@@ -28,9 +28,6 @@ DialogID_61034=Clearly you're not from around here. This is Qingyao Palace.
 DialogID_61035=It's quite beautiful here and they seem very welcoming toward guests.
 DialogID_61036=So much commotion. I can't sleep a wink!
 DialogID_61037=<font face="Default" color="#ffffff" >I don't know if Ming Shiyue is really behind the reappearance of the cultists, but he remains their leader and Qingyao Palace remains his base. We must secure it immediately!</font>
-DialogID_61038=<font face="Default" color="#ffffff" >Annihilate the cultists? Count us in!</font>
-DialogID_61039=<font face="Default" color="#ffffff" >Eliminate the cultists? You needn't have asked. </font>
-DialogID_61040=<font face="Default" color="#ffffff" >Rid Jianghu of the cultists? Gladly.</font>
 DialogID_61042=<font face="Default" color="#ffffff" >I've come to believe Leng Qianjue is somewhere within Qingyao Palace. Let me go with you.</font>
 DialogID_61044=Ming Shiyu…so it's you who truly understands me...
 DialogID_61045=<font face="Default" color="#ffffff" >There have been many strangers around of late. I wonder what brings them here? </font>
@@ -52,7 +49,6 @@ SubmitNpcEx_61051=Follow Mo Wuqing
 collectinfo_61001=Defeat the <a href="findnpc,city04,1059,-15,583" style="HLStype1">lackey</a> and see if they are concealing anything.
 convoyinfo_61001=That's one of Lady Moon's followers. She may know what Ming Shiyue is up to.
 convoyinfo_61002=Follow Mo Wuqing.
-convoyinfo_61003=Follow the cultist.
 convoyinfo_61004=Follow Mo Wuqing.
 hunterinfo_61001=<a href="findnpc_new,city03,npc_6n_mxm02" style="HLStype1">Zhang Mozhang</a> is said to be well informed. Ask him if he has recently encountered any suspicious people.
 hunterinfo_61002=Defeat the <a href="findnpc_new,,attacknpc_yxy_6n_001" style="HLStype1">lackey</a>.
@@ -90,7 +86,6 @@ interactinfo_61029=Speak with the <a href="findnpc_new,school07,WorldNpc04401" s
 interactinfo_61030=Speak with <a href="findnpc_new,city04,npc_6n_mxm08" style="HLStype1">Mo Wuqing</a>.
 interactinfo_61031=Have the <a href="findnpc,city04,1065,-16,765" style="HLStype1"> Coachman</a> take you to the imperial palace and speak with <a href="findnpc_new,city03,WorldNpc11046" style="HLStype1">Zhu Di</a>.
 interactinfo_61032=Have the <a href="findnpc,city03,705,4,1331" style="HLStype1"> Coachman</a> bring you to Luoyang, then look for clues near <a href="findnpc_new,city04,eventnpc_6n_yxy_002" style="HLStype1">Qingyao Palace Annex</a>.
-interactinfo_61033=Speak with the <a href="findnpc_new,city04,npc_6n_yxy_006" style="HLStype1">cultist</a>.
 interactinfo_61034=Ask <a href="findnpc_new,born03,npc_6n_yxy_001" style="HLStype1">Wang Erhu</a> about this location.
 interactinfo_61035=Speak with <a href="findnpc_new,born03,npc_6n_yxy_008" style="HLStype1">Li San</a>.
 interactinfo_61036=Speak with <a href="findnpc_new,born03,npc_6n_yxy_009" style="HLStype1">Zhao Fugui</a>.
@@ -150,8 +145,6 @@ okmenu_61045=<font face="Default" color="#ffffff" >I see. </font>
 okmenu_61047=<font face="Default" color="#ffffff" >No you misunderstand, it's nothing of that sort.</font>
 okmenu_61065=<font face="Default" color="#ffffff" >I happen to be here on behalf of Ji Benfa. Come, I'll take you back.</font>
 specialinfo_1123=Match the face cards seven times.
-story_61001_1=<font face="Default" color="#ffffff" >The Emperor wishes that Ming Shiyue be sought out. We are in the process of discussing it. </font>
-story_61001_2=<font face="Default" color="#ffffff" >If Ming Shiyue had died his body would have been sent to the emperor. Even if he is crippled or injured in some way, he must be kept out of the hands of the cultists.</font>
 story_61001_3=<font face="Default" color="#ffffff" >There is no easy answer to that.</font>
 story_61002_1=<font face="Default" color="#ffffff" >The Emperor is determined to find the cultists and learn what Ming Shiyue has been up to.</font>
 story_61002_2=As I understand it, if Ming Shiyue had died his body would have been delivered to the Emperor. We must ascertain Ming Shiyu's connection, whatever it may be. </font>
@@ -201,9 +194,7 @@ story_61017_2=<font face="Default" color="#ffffff" >I see. Ming Shiyue has becom
 story_61017_3=<font face="Default" color="#ffffff" >I guess Lady Moon will send her follower to enter Qingyao Palace Annex again. So wait there and follow her follower to find Lady Moon. Then follow Lady Moon to find Ming Shiyue. </font>
 story_61017_4=<font face="Default" color="#ffffff" >Wait, Ming Shiyue is wanted by the emperor. We need his permission to do it. </font>
 story_61018_1=<font face="Default" color="#ffffff" > Oh? Of course, go ahead.</font>
-story_61018_2=<font face="Default" color="#ffffff" >I can see no fault in that action. You have my permission to carry it out.</font>
 story_61019_1=<font face="Default" color="#ffffff" >I am beginning to doubt that he is personally behind the cultist's uprising. We should turn our attention now on defeating them.</font>
-story_61019_2=<font face="Default" color="#ffffff" >The cult leader has no lack of lieutenants, who are all too eager to finish what he has started even if he no longer wishes to take part. Once again, they are making Qingyao Palace their base of operations.</font>
 story_menu_61001=<font face="Default" color="#ffffff" >What happened? </font>
 story_menu_61002=<font face="Default" color="#ffffff">What happened? </font>
 story_menu_61003=<font face="Default" color="#ffffff">What has happened? </font>
@@ -231,7 +222,6 @@ storyinfo_61005=Speak with <a href="findnpc_new,school08,npc_6n_sl01" style="HLS
 storyinfo_61006=Speak with <a href="findnpc_new,school01,npc_6n_jyw01" style="HLStype1">Ji Maoyi</a>.
 storyinfo_61007=Speak with <a href="findnpc_new,school05,npc_6n_tm01" style="HLStype1"> Fu Binyan</a>.
 storyinfo_61008=Speak with <a href="findnpc_new,school07,npc_6n_wd01" style="HLStype1">Gong Shao</a>.
-storyinfo_61009=Visit the <a href="findnpc,city03,734,14,1070" style="HLStype1">Emperor</a>.
 storyinfo_61010=Speak with <a href="findnpc_new,city04,npc_6n_yxy_011" style="HLStype1">Xing Junke</a>.
 storyinfo_61011=Speak with <a href="findnpc_new,,WorldNpc03816" style="HLStype1">Shan Tianming</a>.
 storyinfo_61012=Speak with <a href="findnpc_new,,WorldNpc03003" style="HLStype1">Xiao Tianfang</a>.
@@ -242,7 +232,6 @@ storyinfo_61016=Ask <a href="findnpc_new,,WorldNpc02201" style="HLStype1">Tang F
 storyinfo_61017=Speak with <a href="findnpc_new,,WorldNpc04401" style="HLStype1">Immortal Ziyang</a>.
 storyinfo_61018=Speak with the <a href="findnpc_new,city03,WorldNpc11046" style="HLStype1">Emperor</a>.
 storyinfo_61019=Speak with the <a href="findnpc_new,," style="HLStype1"></a><a href="findnpc_new,city03,WorldNpc11046" style="HLStype1">Emperor</a>.
-storymenu_61001_1=<font face="Default" color="#ffffff" >Ming Shiyue? He hasn't been heard from for a long time now. Is he even still alive?</font>
 storymenu_61001_2=<font face="Default" color="#ffffff" >Considering how little we know, what course of action should be taken? </font>
 storymenu_61001_3=<font face="Default" color="#ffffff" >That will be for everyone's benefit.</font>
 storymenu_61002_1=<font face="Default" color="#ffffff" >Ming Shiyue hasn't been heard from in a great while. He may even be dead.</font>
@@ -294,7 +283,6 @@ storymenu_61017_3=<font face="Default" color="#ffffff">Good idea. I will go righ
 storymenu_61017_4=<font face="Default" color="#ffffff" >Great, I will go right away. </font>
 storymenu_61018_1=<font face="Default" color="#ffffff" >(Explains Xing Junke's plan)</font>
 storymenu_61018_2=<font face="Default" color="#ffffff" >My thanks, Emperor.</font>
-storymenu_61019_1=<font face="Default" color="#ffffff" >If Ming Shiyue is not leading them, then who is?</font>
 storymenu_61019_2=<font face="Default" color="#ffffff" >Then it's obvious what our next step should be. We must take Qingyao Palace.</font>
 talk_qyby02_1=It's too quiet here. We should look somewhere else.
 talk_qyby02_2=No one is here…what is going on?
@@ -725,4 +713,17 @@ storymenu_61030_2=<font face="Default" color="#ffffff" >I fought against that pe
 useiteminfo_61002=View the <a href="TASK_ITEM,useitem_qynew_dy_02" style="HLStype1">Clue</a>.
 useiteminfo_61003=The tablet seems to be empty inside, <a href="TASK_ITEM,useitem_qynew_dy_04" style="HLStype1">Open</a> and have a look.
 useiteminfo_61004=Use the <a href="TASK_ITEM,useitem_qynew_dy_05" style="HLStype1">Antidote</a> and enter the cave.
+SubmitNpcEx_71022=Learn the ultimate skill of your school from <a href="findnpc,scene17,1739,63,-849" style="HLStype1">Zheng Mingyue (Skill Instructor)</a> on Hero Island.
+DialogID_61038=<font face="Default" color="#ffffff" >Annihilate the cultists? Count us in!</font>
+DialogID_61039=<font face="Default" color="#ffffff" >Eliminate the cultists? You needn't have asked. </font>
+DialogID_61040=<font face="Default" color="#ffffff" >Rid Jianghu of the cultists? Gladly.</font>
+convoyinfo_61003=Follow the cultist.
+interactinfo_61033=Speak with the <a href="findnpc_new,city04,npc_6n_yxy_006" style="HLStype1">cultist</a>.
+story_61001_1=<font face="Default" color="#ffffff" >The Emperor wishes that Ming Shiyue be sought out. We are in the process of discussing it. </font>
+story_61001_2=<font face="Default" color="#ffffff" >If Ming Shiyue had died his body would have been sent to the emperor. Even if he is crippled or injured in some way, he must be kept out of the hands of the cultists.</font>
+story_61018_2=<font face="Default" color="#ffffff" >I can see no fault in that action. You have my permission to carry it out.</font>
+story_61019_2=<font face="Default" color="#ffffff" >The cult leader has no lack of lieutenants, who are all too eager to finish what he has started even if he no longer wishes to take part. Once again, they are making Qingyao Palace their base of operations.</font>
+storyinfo_61009=Visit the <a href="findnpc,city03,734,14,1070" style="HLStype1">Emperor</a>.
+storymenu_61001_1=<font face="Default" color="#ffffff" >Ming Shiyue? He hasn't been heard from for a long time now. Is he even still alive?</font>
+storymenu_61019_1=<font face="Default" color="#ffffff" >If Ming Shiyue is not leading them, then who is?</font>
 

@@ -1016,4 +1016,30 @@ useiteminfo_8777=對<a href="findnpc_new,school11,wgm_036" style="HLStype1">魯�
 useiteminfo_8778=在<a href="findnpc_new,city03,Trigger_wgm_004" style="HLStype1">金陵（618,561）</a>附近使用信號彈（在無根門<a href="findnpc,school11,-12,-3.2,184" style="HLStype1">段海</a>處購買）
 useiteminfo_8779=在<a href="findnpc_new,city03,Trigger_wgm_005" style="HLStype1">金陵（326,773）</a>附近使用信號彈（在無根門<a href="findnpc,school11,-12,-3.2,184" style="HLStype1">段海</a>處購買）
 useiteminfo_8780=在<a href="findnpc_new,city03,Trigger_wgm_006" style="HLStype1">金陵（521,724）</a>附近使用信號彈（在無根門<a href="findnpc,school11,-12,-3.2,184" style="HLStype1">段海</a>處購買）
+DialogID_8833=<font face="Default" color="#ffffff" >你可要做好準備了，這一刀下去，可能會要了你的命。</font>
+DialogID_8890=<font face="Default" color="#ffffff" >  那好，邊上這位就是我無根門弟子張朋，你前去和他討教討教，讓我看看你的實力夠不夠格。</font>
+DialogID_8981=<font face="Default" color="#ffffff" >  哦，又是刁公公引薦來的麼？呵呵，我無根門弟子也越來越壯大了，看來我已經可以......</font><font face="Default" color="#ffffff" >既然如此，你把你的去勢之物給我保管吧。</font>
+QiecuoMenu_8770=<font face="Default" color="#ffffff" >刁公公叫我前來領教閣下武學，還請手下留情。</font>
+QiecuoTitle_8770=<font face="Default" color="#ffffff" >  又來一個，你是今天第兩百三十五個，前面兩百三十五個都被我打跑了，看看你有沒有能耐了。</font>
+collectinfo_8962=收集<a href="findnpc_new,," style="HLStype1"></a>二十艾草（可以通過生活職業採集，或者直接從其他玩家處交易獲得）
+collectinfo_8963=收集<a href="findnpc_new,," style="HLStype1"></a>二十苦情花（可以通過生活職業採集，或者直接從其他玩家處交易獲得）
+hunterinfo_8770=擊敗無根門弟子<a href="findnpc_new,city03,wgm_015" style="HLStype1">張朋</a>
+interactinfo_8833=去宮中<a href="findnpc_new,city03,funnpcskill001007" style="HLStype1">吳平威</a>那買23個賭籌給<a href="findnpc_new,city03,funnpcskill001002" style="HLStype1">關公公</a>
+interactinfo_8890=與<a href="findnpc_new,city03,wgm_008" style="HLStype1">刁公公</a>交談
+interactinfo_8981=找到刁公公身邊的<a href="findnpc_new,city03,wgm_xtj" style="HLStype1">小太監</a>，與他對話，前往無根門，然後拜見掌門<a href="findnpc_new,shcool11,wgm_001" style="HLStype1">魏無言</a>，並上繳你的去勢之物（寶貝）
+okmenu_8833=<font face="Default" color="#ffffff" >這是賭籌</font>
+okmenu_8890=<font face="Default" color="#ffffff" >我這就去將他拿下。</font>
+okmenu_8981=<font face="Default" color="#ffffff" >弟子拜見掌門</font>
+story_8766_1=<font face="Default" color="#ffffff" >我無根門不收羸弱之人，</font><font face="Default" color="#ffffff" >你還是速速離去吧。</font>
+story_8766_2=<font face="Default" color="#ffffff" >你殺過人麼？你飲過血麼？想入我無根門，必須心狠手辣，並且將男根去勢。</font><font face="Default" color="#ffffff" >你能接受我的考驗，那我就考慮收你入門。</font>
+story_8767_1=<font face="Default" color="#ffffff" >你找我可是找對人了，老夫妙手神刀，保證你會很快可以加入無根門的。</font>
+story_8767_2=<font face="Default" color="#ffffff" >好說，主刀者二百兩，打下手十兩，磨刀十兩，配藥十兩，共計整銀二百三十兩。在宮裡咱不好現銀交易，還是去宮裡吳平威那，換二十三根十兩賭籌來，免得落人話柄。</font>
+story_menu_8766=<font face="Default" color="#ffffff" >無根之人</font>
+story_menu_8767=<font face="Default" color="#ffffff" >如今我欲去勢加入無根門，還請公公相助。</font>
+storyinfo_8766=懇請<a href="findnpc_new,city03,wgm_008" style="HLStype1">刁公公</a>引薦前往無根門
+storyinfo_8767=向<a href="findnpc_new,city03,funnpcskill001002" style="HLStype1">關公公</a>說明來意
+storymenu_8766_1=<font face="Default" color="#ffffff" >在下從小習武，在江湖中也小有名氣，難道還不夠資格麼？</font>
+storymenu_8766_2=<font face="Default" color="#ffffff" >在下願意接受前輩的考驗</font>
+storymenu_8767_1=<font face="Default" color="#ffffff" >公公若能援手，在下必有酬謝。</font>
+storymenu_8767_2=<font face="Default" color="#ffffff" >也罷，如今必須倚仗公公的手藝了，在下去去就來。</font>
 

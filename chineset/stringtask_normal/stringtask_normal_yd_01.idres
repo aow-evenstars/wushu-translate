@@ -4328,7 +4328,6 @@ context_1340=趙子亟，一個木訥寡言的普通漁民，竟然是武林高�
 context_1341=這群惡人要把村民全部抓住集中殺掉，他們是打算以此逼迫趙大哥現身，明知是敵人的計策，趙大哥還是奮不顧身地去營救村民們了。我也不能落後趙大哥！我要運用我初學的武功，打敗敵人，營救這些無辜的人們！
 context_1342=面對殘暴的敵人，趙大哥沒有一走了之，他選擇了堅強的對抗。多年之後，我會一直回想他在漁村門口說的話：人一旦進入江湖，就很難再退出江湖，因為人的心中有俠義的責任。
 context_1344=對付窮凶極惡的敵人，就要有強大的武力，否則行俠仗義永遠只是一紙空談！如果我能有趙大哥那麼高強的武功，我就能幫助這個漁村更多了。
-context_1345=敵人似乎在退卻，只有零星的敵人還在搶奪村民的財物，這些貪婪的強盜真應該滾下地獄。
 context_1346=有誰又能想到呢？我原本只是一個普通人，但現在已經學會了武功，並且已經打敗了許多對手。我來去如風，我充滿力量，我肩負著行俠仗義的責任，我甚至覺得我已經有信心維護世界和平。
 context_1347=武學一道，發自身體，或是拳腳，或是兵器，內功養氣補力，外功鍛筋煉骨，輕功縱躍騰飛。雖然千變萬化，但永遠脫離不了相生相剋的自然道理。天下沒有最強的武功，只有最強的武者。
 context_1348=武林高手在身體內部是區別於普通人的，他們內息流轉，氣貫經脈，修煉至深甚至能達到洗髓易筋，脫胎換骨的境界。
@@ -4482,7 +4481,6 @@ target_1339=向趙子亟求教江湖名俊。
 target_1341=保護逃出的村民。
 target_1342=和趙子亟會合，請教更多的江湖道理
 target_1344=向趙子亟請教強者之路。
-target_1345=保護村民取回財物。
 target_1346=前往村長家與敵人決戰！
 target_1347=向趙子亟求教武學。
 target_1348=向趙子亟請教能夠改造身體的經脈武學。
@@ -4537,7 +4535,6 @@ title_1341=營救村民
 title_1342=俠義之心
 title_1343=殺敵救火
 title_1344=強者之路
-title_1345=奪回財物
 title_1346=臥虎藏龍
 title_1347=武學之道
 title_1348=經脈激活
@@ -4863,42 +4860,34 @@ accept_1495_1=<font face="Default" color="#ffffff" >最近江湖風波又起，�
 accept_1651_1=<font face="Default" color="#ffffff" >  你已掌握了本門內功的要領，你且先休息會，我稍後再教你如何熟練運用武學招式。</font>
 accept_1652_1=<font face="Default" color="#ffffff" >　　聽好了，恩師曾教導：武學之根基，防守為上，護體為先，出招為後，戰時方可游刃有餘，發揮身體極致。嗯！你且與師兄們切磋一下武功，學習如何防禦。</font>
 accept_1653_1=<font face="Default" color="#ffffff" >　　雖防守為上，但攻而至極，防皆可破，對敵時需謹記！你且再去與師兄</font><font face="Default" color="#ffffff" >、師姐</font><font face="Default" color="#ffffff" >們切磋一下武功，學習如何破除防禦。</font>
-accept_1654_1=<font face="Default" color="#ffffff" >  正所謂怒發而衝冠，通過防禦積攢自己的怒氣，來釋放技能也很重要，使用你之前所習得的</font><font color="#ee7621">「倒步七星」</font><font face="Default" color="#ffffff" >這招跟師兄們切磋下，仔細體會怒氣大招的威力。</font>
 accept_1655_1=<font face="Default" color="#ffffff" >  很好很好，看來你天賦聰悟，這麼快就領悟了這些招式的要領，想當年我都花了很久才到你這一步，看來是塊練武的料，以後記得要多多練習，現在去向玉璇子師叔稟告學習情況吧！</font>
 accept_1661_1=<font face="Default" color="#ffffff" >  你已掌握了本門內功的要領，你且先休息會，我稍後再教你如何熟練運用武學招式。</font>
 accept_1662_1=<font face="Default" color="#ffffff" >　　聽好了，恩師曾教導：武學之根基，防守為上，護體為先，出招為後，戰時方可游刃有餘，發揮身體極致。嗯！你且與師兄們切磋一下武功，學習如何防禦。</font>
 accept_1663_1=<font face="Default" color="#ffffff" >　　雖防守為上，但攻而至極，防皆可破，對敵時需謹記！你且再去與師兄們切磋一下武功，學習如何破除防禦。</font>
-accept_1664_1=<font face="Default" color="#ffffff" >  正所謂怒發而衝冠，通過防禦積攢自己的怒氣，來釋放技能也很重要，使用你之前所習得的</font><font color="#ee7621">「倒步七星」</font><font face="Default" color="#ffffff" >這招跟師兄們切磋下，仔細體會怒氣大招的威力。</font>
 accept_1665_1=<font face="Default" color="#ffffff" >  很好很好，看來你天賦聰悟，這麼快就領悟了這些招式的要領，想當年我都花了很久才到你這一步，看來是塊練武的料，以後記得要多多練習，現在去向祖鏡師叔稟告學習情況吧！</font>
 accept_1666_1=<font face="Default" color="#ffffff" >  你已掌握了本門內功的要領，你且先休息會，我稍後再教你如何熟練運用武學招式。</font>
 accept_1667_1=<font face="Default" color="#ffffff" >　　聽好了，恩師曾教導：武學之根基，防守為上，護體為先，出招為後，戰時方可游刃有餘，發揮身體極致。嗯！你且與師姐們切磋一下武功，學習如何防禦。</font>
 accept_1668_1=<font face="Default" color="#ffffff" >　　雖防守為上，但攻而至極，防皆可破，對敵時需謹記！你且再去與師姐們切磋一下武功，學習如何破除防禦。</font>
-accept_1669_1=<font face="Default" color="#ffffff" >  正所謂怒發而衝冠，通過防禦積攢自己的怒氣，來釋放技能也很重要，使用你之前所習得的</font><font color="#ee7621">「倒步七星」</font><font face="Default" color="#ffffff" >這招跟師姐們切磋下，仔細體會怒氣大招的威力。</font>
 accept_1670_1=<font face="Default" color="#ffffff" >  很好很好，看來你天賦聰悟，這麼快就領悟了這些招式的要領，想當年我都花了很久才到你這一步，看來是塊練武的料，以後記得要多多練習，現在去向衣師姐稟告學習情況吧！</font>
 accept_1671_1=<font face="Default" color="#ffffff" >  你已掌握了本門內功的要領，你且先休息會，我稍後再教你如何熟練運用武學招式。</font>
 accept_1672_1=<font face="Default" color="#ffffff" >　　聽好了，恩師曾教導：武學之根基，防守為上，護體為先，出招為後，戰時方可游刃有餘，發揮身體極致。嗯！你且與師兄們切磋一下武功，學習如何防禦。</font>
 accept_1673_1=<font face="Default" color="#ffffff" >　　雖防守為上，但攻而至極，防皆可破，對敵時需謹記！你且再去與師兄</font><font face="Default" color="#ffffff" >、師姐</font><font face="Default" color="#ffffff" >們切磋一下武功，學習如何破除防禦。</font>
-accept_1674_1=<font face="Default" color="#ffffff" >  正所謂怒發而衝冠，通過防禦積攢自己的怒氣，來釋放技能也很重要，使用你之前所習得的</font><font color="#ee7621">「倒步七星」</font><font face="Default" color="#ffffff" >這招跟師兄們切磋下，仔細體會怒氣大招的威力。</font>
 accept_1675_1=<font face="Default" color="#ffffff" >  很好很好，看來你天賦聰悟，這麼快就領悟了這些招式的要領，想當年我都花了很久才到你這一步，看來是塊練武的料，以後記得要多多練習，現在去向石師叔稟告學習情況吧！</font>
 accept_1676_1=<font face="Default" color="#ffffff" >  你已掌握了本門內功的要領，你且先休息會，我稍後再教你如何熟練運用武學招式。</font>
 accept_1677_1=<font face="Default" color="#ffffff" >　　聽好了，恩師曾教導：武學之根基，防守為上，護體為先，出招為後，戰時方可游刃有餘，發揮身體極致。嗯！你且與師兄們切磋一下武功，學習如何防禦。</font>
 accept_1678_1=<font face="Default" color="#ffffff" >　　雖防守為上，但攻而至極，防皆可破，對敵時需謹記！你且再去與師兄</font><font face="Default" color="#ffffff" >、師姐</font><font face="Default" color="#ffffff" >們切磋一下武功，學習如何破除防禦。</font>
-accept_1679_1=<font face="Default" color="#ffffff" >  正所謂怒發而衝冠，通過防禦積攢自己的怒氣，來釋放技能也很重要，使用你之前所習得的</font><font color="#ee7621">「倒步七星」</font><font face="Default" color="#ffffff" >這招跟師兄們切磋下，仔細體會怒氣大招的威力。</font>
 accept_1680_1=<font face="Default" color="#ffffff" >  很好很好，看來你天賦聰悟，這麼快就領悟了這些招式的要領，想當年我都花了很久才到你這一步，看來是塊練武的料，以後記得要多多練習，現在去向唐解語師姐稟告學習情況吧！</font>
 accept_1681_1=<font face="Default" color="#ffffff" >  你已掌握了本門內功的要領，你且先休息會，我稍後再教你如何熟練運用武學招式。</font>
 accept_1682_1=<font face="Default" color="#ffffff" >　　聽好了，恩師曾教導：武學之根基，防守為上，護體為先，出招為後，戰時方可游刃有餘，發揮身體極致。嗯！你且與師兄們切磋一下武功，學習如何防禦。</font>
 accept_1683_1=<font face="Default" color="#ffffff" >　　雖防守為上，但攻而至極，防皆可破，對敵時需謹記！你且再去與師兄</font><font face="Default" color="#ffffff" >、師姐</font><font face="Default" color="#ffffff" >們切磋一下武功，學習如何破除防禦。</font>
-accept_1684_1=<font face="Default" color="#ffffff" >  正所謂怒發而衝冠，通過防禦積攢自己的怒氣，來釋放技能也很重要，使用你之前所習得的</font><font color="#ee7621">「倒步七星」</font><font face="Default" color="#ffffff" >這招跟師兄們切磋下，仔細體會怒氣大招的威力。</font>
 accept_1685_1=<font face="Default" color="#ffffff" >  很好很好，看來你天賦聰悟，這麼快就領悟了這些招式的要領，想當年我都花了很久才到你這一步，看來是塊練武的料，以後記得要多多練習，現在去向程師姐稟告學習情況吧！</font>
 accept_1686_1=<font face="Default" color="#ffffff" >  你已掌握了本門內功的要領，你且先休息會，我稍後再教你如何熟練運用武學招式。</font>
 accept_1687_1=<font face="Default" color="#ffffff" >　　聽好了，恩師曾教導：武學之根基，防守為上，護體為先，出招為後，戰時方可游刃有餘，發揮身體極致。嗯！你且與師兄們切磋一下武功，學習如何防禦。</font>
 accept_1688_1=<font face="Default" color="#ffffff" >　　雖防守為上，但攻而至極，防皆可破，對敵時需謹記！你且再去與師兄</font><font face="Default" color="#ffffff" >、師姐</font><font face="Default" color="#ffffff" >們切磋一下武功，學習如何破除防禦。</font>
-accept_1689_1=<font face="Default" color="#ffffff" >  正所謂怒發而衝冠，通過防禦積攢自己的怒氣，來釋放技能也很重要，使用你之前所習得的</font><font color="#ee7621">「倒步七星」</font><font face="Default" color="#ffffff" >這招跟師兄們切磋下，仔細體會怒氣大招的威力。</font>
 accept_1690_1=<font face="Default" color="#ffffff" >  很好很好，看來你天賦聰悟，這麼快就領悟了這些招式的要領，想當年我都花了很久才到你這一步，看來是塊練武的料，以後記得要多多練習，現在去向繆師姐稟告學習情況吧！</font>
 accept_1691_1=<font face="Default" color="#ffffff" >  你已掌握了本門內功的要領，你且先休息會，我稍後再教你如何熟練運用武學招式。</font>
 accept_1692_1=<font face="Default" color="#ffffff" >　　聽好了，恩師曾教導：武學之根基，防守為上，護體為先，出招為後，戰時方可游刃有餘，發揮身體極致。嗯！你且與師兄們切磋一下武功，學習如何防禦。</font>
 accept_1693_1=<font face="Default" color="#ffffff" >　　雖防守為上，但攻而至極，防皆可破，對敵時需謹記！你且再去與師兄</font><font face="Default" color="#ffffff" >、師姐</font><font face="Default" color="#ffffff" >們切磋一下武功，學習如何破除防禦。</font>
-accept_1694_1=<font face="Default" color="#ffffff" >  正所謂怒發而衝冠，通過防禦積攢自己的怒氣，來釋放技能也很重要，使用你之前所習得的</font><font color="#ee7621">「倒步七星」</font><font face="Default" color="#ffffff" >這招跟師兄們切磋下，仔細體會怒氣大招的威力。</font>
 accept_1695_1=<font face="Default" color="#ffffff" >  很好很好，看來你天賦聰悟，這麼快就領悟了這些招式的要領，想當年我都花了很久才到你這一步，看來是塊練武的料，以後記得要多多練習，現在去向霧狐師兄稟告學習情況吧！</font>
 accept_1731_1=<font face="Default" color="#ffffff" >最近各大門派都派出眾多弟子出來刺探，你到周圍看看是否有其他門派的人。（通過</font><font face="Default" color="#ff0000" >「闖蕩江湖」</font><font face="Default" color="#ffffff" >界面可以直接參加巡邏，也可以在</font><font face="Default" color="#ff0000" >「情報負責人」</font><font face="Default" color="#ffffff" >那裡參加巡邏）</font>
 accept_1732_1=<font face="Default" color="#ffffff" >最近各大門派都派出眾多弟子出來刺探，你到周圍看看是否有其他門派的人。（通過</font><font face="Default" color="#ff0000" >「闖蕩江湖」</font><font face="Default" color="#ffffff" >界面可以直接參加巡邏，也可以在</font><font face="Default" color="#ff0000" >「情報負責人」</font><font face="Default" color="#ffffff" >那裡參加巡邏）</font>
@@ -4972,43 +4961,27 @@ complete_1646=<font face="Default" color="#ffffff" >少俠所慮甚是，少俠�
 complete_1647=<font face="Default" color="#ffffff" >少俠所慮甚是，少俠若還有其他疑問皆可向我詢問，我只要知道的必然會為你解答。</font>
 complete_1648=<font face="Default" color="#ffffff" >少俠所慮甚是，少俠若還有其他疑問皆可向我詢問，我只要知道的必然會為你解答。</font>
 complete_1651=<font face="Default" color="#ffffff" >　　我現在教你如何熟練運用招式，但想要有所成就並非一朝一夕之事，在此之後你還需多加練習。在這練功場之內，你大可放開手腳，安心習武，日後方能成大事。</font>
-complete_1652=<font face="Default" color="#ffffff" >  不錯不錯！看來你天資聰慧，是塊練武的料，我先傳你幾招本門武學的招式秘籍，其中有一式也是架招，你且拿去，日後慢慢研習。</font>
-complete_1653=<font face="Default" color="#ffffff" >  恩，很好很好，我越來越欣賞你了。我再傳你幾招，其中有一式也是虛招，你可要仔細研習。</font>
 complete_1654=<font face="Default" color="#ffffff" >這怒氣一旦爆發出來，威力無窮，以後切記不到逼不得已，不要隨意亂用。剛才我給你的幾本秘籍本是一套武學，我現將餘下的招式也授與你。</font>
 complete_1655=<font face="Default" color="#ffffff" >  和師兄</font><font face="Default" color="#ffffff" >、</font><font face="Default" color="#ffffff" >師姐們學的怎麼樣了？</font>
 complete_1661=<font face="Default" color="#ffffff" >　　我現在教你如何熟練運用招式，但想要有所成就並非一朝一夕之事，在此之後你還需多加練習。在這練功場之內，你大可放開手腳，安心習武，日後方能成大事。</font>
-complete_1662=<font face="Default" color="#ffffff" >  不錯不錯！看來你天資聰慧，是塊練武的料，我先傳你幾招本門武學的招式秘籍，其中有一式也是架招，你且拿去，日後慢慢研習。</font>
-complete_1663=<font face="Default" color="#ffffff" >  恩，很好很好，我越來越欣賞你了。我再傳你幾招，其中有一式也是虛招，你可要仔細研習。</font>
 complete_1664=<font face="Default" color="#ffffff" >這怒氣一旦爆發出來，威力無窮，以後切記不到逼不得已，不要隨意亂用。剛才我給你的幾本秘籍本是一套武學，我現將餘下的招式也授與你。</font>
 complete_1665=<font face="Default" color="#ffffff" >  和師兄們學的怎麼樣了？</font>
 complete_1666=<font face="Default" color="#ffffff" >　　我現在教你如何熟練運用招式，但想要有所成就並非一朝一夕之事，在此之後你還需多加練習。在這練功場之內，你大可放開手腳，安心習武，日後方能成大事。</font>
-complete_1667=<font face="Default" color="#ffffff" >  不錯不錯！看來你天資聰慧，是塊練武的料，我先傳你幾招本門武學的招式秘籍，其中有一式也是架招，你且拿去，日後慢慢研習。</font>
-complete_1668=<font face="Default" color="#ffffff" >  恩，很好很好，我越來越欣賞你了。我再傳你幾招，其中有一式也是虛招，你可要仔細研習。</font>
 complete_1669=<font face="Default" color="#ffffff" >這怒氣一旦爆發出來，威力無窮，以後切記不到逼不得已，不要隨意亂用。剛才我給你的幾本秘籍本是一套武學，我現將餘下的招式也授與你。</font>
 complete_1670=<font face="Default" color="#ffffff" >  和師姐們學的怎麼樣了？</font>
 complete_1671=<font face="Default" color="#ffffff" >　　我現在教你如何熟練運用招式，但想要有所成就並非一朝一夕之事，在此之後你還需多加練習。在這練功場之內，你大可放開手腳，安心習武，日後方能成大事。</font>
-complete_1672=<font face="Default" color="#ffffff" >  不錯不錯！看來你天資聰慧，是塊練武的料，我先傳你幾招本門武學的招式秘籍，其中有一式也是架招，你且拿去，日後慢慢研習。</font>
-complete_1673=<font face="Default" color="#ffffff" >  恩，很好很好，我越來越欣賞你了。我再傳你幾招，其中有一式也是虛招，你可要仔細研習。</font>
 complete_1674=<font face="Default" color="#ffffff" >這怒氣一旦爆發出來，威力無窮，以後切記不到逼不得已，不要隨意亂用。剛才我給你的幾本秘籍本是一套武學，我現將餘下的招式也授與你。</font>
 complete_1675=<font face="Default" color="#ffffff" >  和師兄</font><font face="Default" color="#ffffff" >、</font><font face="Default" color="#ffffff" >師姐們學的怎麼樣了？</font>
 complete_1676=<font face="Default" color="#ffffff" >　　我現在教你如何熟練運用招式，但想要有所成就並非一朝一夕之事，在此之後你還需多加練習。在這練功場之內，你大可放開手腳，安心習武，日後方能成大事。</font>
-complete_1677=<font face="Default" color="#ffffff" >  不錯不錯！看來你天資聰慧，是塊練武的料，我先傳你幾招本門武學的招式秘籍，其中有一式也是架招，你且拿去，日後慢慢研習。</font>
-complete_1678=<font face="Default" color="#ffffff" >  恩，很好很好，我越來越欣賞你了。我再傳你幾招，其中有一式也是虛招，你可要仔細研習。</font>
 complete_1679=<font face="Default" color="#ffffff" >這怒氣一旦爆發出來，威力無窮，以後切記不到逼不得已，不要隨意亂用。剛才我給你的幾本秘籍本是一套武學，我現將餘下的招式也授與你。</font>
 complete_1680=<font face="Default" color="#ffffff" >  和師兄</font><font face="Default" color="#ffffff" >、</font><font face="Default" color="#ffffff" >師姐們學的怎麼樣了？</font>
 complete_1681=<font face="Default" color="#ffffff" >　　我現在教你如何熟練運用招式，但想要有所成就並非一朝一夕之事，在此之後你還需多加練習。在這練功場之內，你大可放開手腳，安心習武，日後方能成大事。</font>
-complete_1682=<font face="Default" color="#ffffff" >  不錯不錯！看來你天資聰慧，是塊練武的料，我先傳你幾招本門武學的招式秘籍，其中有一式也是架招，你且拿去，日後慢慢研習。</font>
-complete_1683=<font face="Default" color="#ffffff" >  恩，很好很好，我越來越欣賞你了。我再傳你幾招，其中有一式也是虛招，你可要仔細研習。</font>
 complete_1684=<font face="Default" color="#ffffff" >這怒氣一旦爆發出來，威力無窮，以後切記不到逼不得已，不要隨意亂用。剛才我給你的幾本秘籍本是一套武學，我現將餘下的招式也授與你。</font>
 complete_1685=<font face="Default" color="#ffffff" >  和師兄</font><font face="Default" color="#ffffff" >、</font><font face="Default" color="#ffffff" >師姐們學的怎麼樣了？</font>
 complete_1686=<font face="Default" color="#ffffff" >　　我現在教你如何熟練運用招式，但想要有所成就並非一朝一夕之事，在此之後你還需多加練習。在這練功場之內，你大可放開手腳，安心習武，日後方能成大事。</font>
-complete_1687=<font face="Default" color="#ffffff" >  不錯不錯！看來你天資聰慧，是塊練武的料，我先傳你幾招本門武學的招式秘籍，其中有一式也是架招，你且拿去，日後慢慢研習。</font>
-complete_1688=<font face="Default" color="#ffffff" >  恩，很好很好，我越來越欣賞你了。我再傳你幾招，其中有一式也是虛招，你可要仔細研習。</font>
 complete_1689=<font face="Default" color="#ffffff" >這怒氣一旦爆發出來，威力無窮，以後切記不到逼不得已，不要隨意亂用。剛才我給你的幾本秘籍本是一套武學，我現將餘下的招式也授與你。</font>
 complete_1690=<font face="Default" color="#ffffff" >  和師兄</font><font face="Default" color="#ffffff" >、</font><font face="Default" color="#ffffff" >師姐們學的怎麼樣了？</font>
 complete_1691=<font face="Default" color="#ffffff" >　　我現在教你如何熟練運用招式，但想要有所成就並非一朝一夕之事，在此之後你還需多加練習。在這練功場之內，你大可放開手腳，安心習武，日後方能成大事。</font>
-complete_1692=<font face="Default" color="#ffffff" >  不錯不錯！看來你天資聰慧，是塊練武的料，我先傳你幾招本門武學的招式秘籍，其中有一式也是架招，你且拿去，日後慢慢研習。</font>
-complete_1693=<font face="Default" color="#ffffff" >  恩，很好很好，我越來越欣賞你了。我再傳你幾招，其中有一式也是虛招，你可要仔細研習。</font>
 complete_1694=<font face="Default" color="#ffffff" >這怒氣一旦爆發出來，威力無窮，以後切記不到逼不得已，不要隨意亂用。剛才我給你的幾本秘籍本是一套武學，我現將餘下的招式也授與你。</font>
 complete_1695=<font face="Default" color="#ffffff" >  和師兄</font><font face="Default" color="#ffffff" >、</font><font face="Default" color="#ffffff" >師姐們學的怎麼樣了？</font>
 complete_1731=<font face="Default" color="#ffffff" >嗯！幹的不錯，以後還要多多為門派進行巡邏。</font>
@@ -6033,7 +6006,6 @@ accept_1333_1=<font face="Default" color="#ffffff" >昔日有位老友，而今�
 complete_1331=<font face="Default" color="#ffffff" >江湖險惡，在江湖上行走切記萬事謹記小心為上。</font>
 complete_1332=<font face="Default" color="#ffffff" >這麼多年過去了沒想到勞兄弟還記得昔日點滴，多謝了少俠帶來的這封信。以後在徐家莊內遇到的事情儘管來問我，勞兄弟的朋友就是我的朋友不用太客氣。</font>
 complete_1333=<font face="Default" color="#ffffff" >回想當年勞兄弟真是個重情義的人，多謝你帶來的書信。以後你在這金針沈家範圍內有事情儘管來找我，勞兄弟的朋友就是我的朋友不用太客氣。</font>
-context_1331=當今盛世，江湖勢力風起雲湧，一些勢力發展迅速，隱隱有比肩八大門派的趨勢，瞭解一些江湖上的勢力及其特點對以後行走江湖將有所幫助。
 context_1332=勞大哥托你帶封書信給多年未見的老友
 context_1333=勞大哥托你帶封書信給多年未見的老友
 menu_1331_1=<font face="Default" color="#ffffff" >還請勞大哥細細說來。</font>
@@ -6145,8 +6117,6 @@ title_1195=關注帳號安全 成就遊戲夢想
 complete_1696=<font face="Default" color="#ffffff" >沒想到你已經這麼強大了，這些獎勵是你應得的！</font>
 CanAcceptMenu_1696=<font face="Default" color="#ffffff" >接受任務</font>
 CompleteMenu_1696=<font face="Default" color="#ffffff" >完成任務</font>
-accept_1696_1=<font face="Default" color="#ffffff" >真正的勇者是不</font><font face="Default" color="#ffffff" >會滿足於一場戰場的勝利，你可敢接受這勇者戰場的考驗。</font>
-context_1696=真正的勇者不會滿足於僅僅獲得一場戰場勝利，完成勇者戰場的考驗，順利拿下兩場勝利將獲得額外的獎勵。<font face="Default" color="#ff0000" >（放棄任務會導致當日無法再接取）</font><br/>
 menu_1696_1=<font face="Default" color="#ffffff" >當然！</font>
 submit_1696=<font face="Default" color="#ffffff" >多謝了！</font>
 title_1696=勇者戰場
@@ -6352,7 +6322,6 @@ target_1154=瞭解<font color="#ee7621">[逍遙游]</font>以及內功切換
 target_1321=實力達到略有小成之後，找<a href="findnpc_new,school04,WorldNpc03811" style="HLStype1">霧狐</a>學習蝕骨摧心掌
 target_1334=將大和尚的新帶到百獸莊，並瞭解百獸莊的狀況。
 title_1334=江湖勢力百獸莊
-target_1696=單人排隊，選擇勢力對抗模式，分別在」西山古墓「戰場和」沐雲莊「戰場中獲得勝利。
 accept_1836_1=<font face="Default" color="#ffffff" >這位少俠找我有何事，莫非需要幫你淬煉翡翠娃娃？</font>
 complete_1836=<font face="Default" color="#ffffff" >還想要瞭解關於翡翠娃娃的其他事情，我會幫你指引。</font>
 context_1836=前往蘇州找許泊瞭解有關翡翠娃娃的相關事宜。
@@ -6385,4 +6354,35 @@ submit_1826=<font face="Default" color="#ffffff" >啊？</font><font face="Defau
 submit_1827=<font face="Default" color="#ffffff" >啊？</font><font face="Default" color="#ffffff" >有勞大人</font><font face="Default" color="#ffffff" >了！</font>
 submit_1828=<font face="Default" color="#ffffff" >啊？</font><font face="Default" color="#ffffff" >有勞大人</font><font face="Default" color="#ffffff" >了！</font>
 submit_1834=<font face="Default" color="#ffffff" >啊？</font><font face="Default" color="#ffffff" >有勞</font><font face="Default" color="#ffffff" >大人</font><font face="Default" color="#ffffff" >了</font><font face="Default" color="#ffffff" >！</font>
+context_1331=當今盛世，江湖勢力風起雲湧，一些勢力發展迅速，隱隱有比肩九大宗門的趨勢，瞭解一些江湖上的勢力及其特點對以後行走江湖將有所幫助。
+accept_1654_1=<font face="Default" color="#ffffff" >  正所謂怒發而衝冠，通過防禦積攢自己的怒氣，來釋放技能也很重要，使用你之前所習得的</font><font face="Default" color="#8fd6ef" >「激濁揚清」</font><font face="Default" color="#ffffff" >這招跟師兄們切磋下，仔細體會怒氣大招的威力。</font>
+accept_1664_1=<font face="Default" color="#ffffff" >  正所謂怒發而衝冠，通過防禦積攢自己的怒氣，來釋放技能也很重要，使用你之前所習得的</font><font face="Default" color="#8fd6ef" >「落步盤花」</font><font face="Default" color="#ffffff" >這招跟師兄們切磋下，仔細體會怒氣大招的威力。</font>
+accept_1669_1=<font face="Default" color="#ffffff" >  正所謂怒發而衝冠，通過防禦積攢自己的怒氣，來釋放技能也很重要，使用你之前所習得的</font><font face="Default" color="#8fd6ef" >「懸絲斷脈」</font><font face="Default" color="#ffffff" >這招跟師姐們切磋下，仔細體會怒氣大招的威力。</font>
+accept_1674_1=<font face="Default" color="#ffffff" >  正所謂怒發而衝冠，通過防禦積攢自己的怒氣，來釋放技能也很重要，使用你之前所習得的</font><font face="Default" color="#8fd6ef" >「落花流水」</font><font face="Default" color="#ffffff" >這招跟師兄們切磋下，仔細體會怒氣大招的威力。</font>
+accept_1679_1=<font face="Default" color="#ffffff" >  正所謂怒發而衝冠，通過防禦積攢自己的怒氣，來釋放技能也很重要，使用你之前所習得的</font><font face="Default" color="#8fd6ef" >「吞鯨」</font><font face="Default" color="#ffffff" >這招跟師兄們切磋下，仔細體會怒氣大招的威力。</font>
+accept_1684_1=<font face="Default" color="#ffffff" >  正所謂怒發而衝冠，通過防禦積攢自己的怒氣，來釋放技能也很重要，使用你之前所習得的</font><font face="Default" color="#8fd6ef" >「鏡花水月」</font><font face="Default" color="#ffffff" >這招跟師兄們切磋下，仔細體會怒氣大招的威力。</font>
+accept_1689_1=<font face="Default" color="#ffffff" >  正所謂怒發而衝冠，通過防禦積攢自己的怒氣，來釋放技能也很重要，使用你之前所習得的</font><font face="Default" color="#8fd6ef" >「大漠孤魂」</font><font face="Default" color="#ffffff" >這招跟師兄們切磋下，仔細體會怒氣大招的威力。</font>
+accept_1694_1=<font face="Default" color="#ffffff" >  正所謂怒發而衝冠，通過防禦積攢自己的怒氣，來釋放技能也很重要，使用你之前所習得的</font><font face="Default" color="#8fd6ef" >「八方風雨」</font><font face="Default" color="#ffffff" >這招跟師兄們切磋下，仔細體會怒氣大招的威力。</font>
+complete_1652=<font face="Default" color="#ffffff" >  不錯不錯！看來你天資聰慧，是塊練武的料，我先傳你幾招本門武學的招式秘籍，你且拿去，日後慢慢研習。</font>
+complete_1653=<font face="Default" color="#ffffff" >  恩，很好很好，我越來越欣賞你了。我再傳你幾招，你可要仔細研習。</font>
+complete_1662=<font face="Default" color="#ffffff" >  不錯不錯！看來你天資聰慧，是塊練武的料，我先傳你幾招本門武學的招式秘籍，你且拿去，日後慢慢研習。</font>
+complete_1663=<font face="Default" color="#ffffff" >  恩，很好很好，我越來越欣賞你了。我再傳你幾招，你可要仔細研習。</font>
+complete_1667=<font face="Default" color="#ffffff" >  不錯不錯！看來你天資聰慧，是塊練武的料，我先傳你幾招本門武學的招式秘籍，你且拿去，日後慢慢研習。</font>
+complete_1668=<font face="Default" color="#ffffff" >  恩，很好很好，我越來越欣賞你了。我再傳你幾招，你可要仔細研習。</font>
+complete_1672=<font face="Default" color="#ffffff" >  不錯不錯！看來你天資聰慧，是塊練武的料，我先傳你幾招本門武學的招式秘籍，你且拿去，日後慢慢研習。</font>
+complete_1673=<font face="Default" color="#ffffff" >  恩，很好很好，我越來越欣賞你了。我再傳你幾招，你可要仔細研習。</font>
+complete_1677=<font face="Default" color="#ffffff" >  不錯不錯！看來你天資聰慧，是塊練武的料，我先傳你幾招本門武學的招式秘籍，你且拿去，日後慢慢研習。</font>
+complete_1678=<font face="Default" color="#ffffff" >  恩，很好很好，我越來越欣賞你了。我再傳你幾招，你可要仔細研習。</font>
+complete_1682=<font face="Default" color="#ffffff" >  不錯不錯！看來你天資聰慧，是塊練武的料，我先傳你幾招本門武學的招式秘籍，你且拿去，日後慢慢研習。</font>
+complete_1683=<font face="Default" color="#ffffff" >  恩，很好很好，我越來越欣賞你了。我再傳你幾招，你可要仔細研習。</font>
+complete_1687=<font face="Default" color="#ffffff" >  不錯不錯！看來你天資聰慧，是塊練武的料，我先傳你幾招本門武學的招式秘籍，你且拿去，日後慢慢研習。</font>
+complete_1688=<font face="Default" color="#ffffff" >  恩，很好很好，我越來越欣賞你了。我再傳你幾招，你可要仔細研習。</font>
+complete_1692=<font face="Default" color="#ffffff" >  不錯不錯！看來你天資聰慧，是塊練武的料，我先傳你幾招本門武學的招式秘籍，你且拿去，日後慢慢研習。</font>
+complete_1693=<font face="Default" color="#ffffff" >  恩，很好很好，我越來越欣賞你了。我再傳你幾招，你可要仔細研習。</font>
+context_1345=村民大多已經逃到村外，卻一直沒有見到張村長，得去村長家裡查看一番才是。
+target_1345=去村長家。
+title_1345=準備就緒
+accept_1696_1=<font face="Default" color="#ffffff" >你可敢接受這勇者戰場的考驗。</font>
+context_1696=完成勇者戰場的考驗，順利拿下戰場勝利將獲得額外的獎勵。（放棄任務會導致當日無法再接取）
+target_1696=單人排隊，選擇勢力對抗模式，在」西山古墓「戰場中獲得勝利。
 

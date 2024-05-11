@@ -508,27 +508,28 @@ storymenu_4538_2=<font face="Default" color="#ffffff" >If your suspicions about 
 storymenu_4540_1=<font face="Default" color="#ffffff" >Very well...</font>
 useiteminfo_4085=Use a <a href="TASK_ITEM,item_zx_fhs_001" style="HLStype1">tool</a> to remove <a href="findnpc_new,scene04_2,zx_fhs_015_a" style="HLStype1">the corpse's </a>mask.
 DialogID_4124_1=(Doje growls.) Outsiders have attacked our village, killed our people! Arrest these outsiders!
-DialogID_4158_1=<s>哼！少来这套，休想就这样支开我们！霓裳宫宫主令狐雪害我浣花山庄四侠裴修华惨死之事铁证如山，我们就算一死也要讨回公道！<br><s>（西门飞燕大叫一声）<br><s>走！我们冲进霓裳宫！
-DialogID_4174_1=<s>想不到那贼人轻功如此之好，眼睁睁看他跑了，真气死我了！<br><s>我这就去将布政使司救出，但这软骨散…看来还得去浣花山庄寻求解药。
-hunterinfo_4162=原来是<a href="findnpc_new,city01,monrc025059" style="HLStype1">西山古墓弟子</a>，教训她们
-interactinfo_4158_1=去向<a href="findnpc_new,scene05,WorldNpc06125" style="HLStype1">浣花山庄弟子</a>解释
-interactinfo_4161_1=前往<a href="findnpc_new,city05,EventNpc24199" style="HLStype1">浣花山庄</a>
-interactinfo_4175_2=去浣花山庄找<a href="findnpc_new,city05,WorldNpc09801" style="HLStype1">江掌门</a>求助
-interactinfo_4293=从<a href="findnpc_new,school06,Gather00039b" style="HLStype1">药盒</a>中取出墨露再造膏
-okmenu_4173_1=还有劳守卫大哥将此雪花扇交还浣花山庄了
-okmenu_4174_1=捕头放心，在下立即动身前去浣花山庄
-story_4012_1=　　这是我浣花山庄的私事，外人还是不要插手。不怕你笑话，这是我们浣花山庄的耻辱……
-story_4012_2=　　唉，我浣花四侠裴修华与成都布政使司乃结义兄弟。四侠新娶娇妻，便同行前去拜访布政使司。不料布政使司遇刺，四侠为救布政使司命丧歹人之手，四嫂也突然不见了踪影。　　经我们追查，背后的黑手正是霓裳宫。所以此次浣花山庄就算粉身碎骨，也要为四侠报此血海深仇！
-story_4012_3=　　我说过了，这是我们浣花山庄的事，你还是少管闲事。想要逞英雄也要分清楚时候，我们浣花山庄可不是好惹的！
-story_4020_1=<s>什……什么……雪花扇？你是来取雪花扇的？<BR><s>少侠，实不相瞒，其实我刚来浣花山庄不久……
-story_4091_2=<s>本宫十分愿意为少侠打听令妹的消息，只是刚收到门下弟子来报，说浣花山庄连同五仙教已在霓裳宫门外守候。如今我伤势未愈，霓裳宫又危在旦夕，还请少侠相助！
-story_4093_1=<s>你是何人？胆敢擅闯我浣花山庄，有何目的？
-story_4094_3=<s>实不相瞒，我总感觉于大人近来变得怪怪的。自从上次遇袭之后他便闭门不见，除了不久前发过一封公函以外，再无理过政务。<br><s>以我敏锐的直觉判断，恐怕这布政使司已非本人。少侠，你不如去浣花山庄取来裴四侠的生前遗物试一试于布政使司，到时真假便知。
-story_4124_4=<s>哼！只要能报此仇，受多大的苦，付再大的代价我也值得。虽然我这一次又失败了，但下一次很快就会来的，我看你能救他们几次！<BR><s><font color="#0033FF">（庄青青突然丢出一颗霹雳雷霆弹，一阵烟雾过后，庄青青已不翼而飞）</font>
-story_menu_4012=这位侠士，不知浣花山庄为何要抓当地无辜百姓？
-story_menu_4022=若我猜的不错，你便是那偷袭霓裳宫主，离间浣花山庄的贼道长
-storyinfo_4012=找到<a href="findnpc_new,scene05,WorldNpc06103" style="HLStype1">浣花山庄门人</a>
+DialogID_4158_1=<s>Don't fool around. We won't leave. It's confirmed that Nishang Palace Leader Linghu Xue killed Huanhua Sect's Pei Xiuhua. We look for justice even if we have to die.<br><s>(Ximen Feiyan shouts)<br><s>Let's enter Nishang Palace!
+DialogID_4174_1=<s>I didn't expect that the criminal's flying skills are this good. I couldn't do anything but let him escape. So annoying. <br><s>I'm heading to rescue the Provincial Treasurer. But you will have to go to the Huanhua Sword Sect to find the antidote for the Bone Softening Powder.
+hunterinfo_4162=It's <a href="findnpc_new,city01,monrc025059" style="HLStype1">Ancient Tomb Sect Disciples</a>. Let me give them a lesson.
+interactinfo_4158_1=Explain to <a href="findnpc_new,scene05,WorldNpc06125" style="HLStype1">Huanhua Sword Sect Disciple</a>.
+interactinfo_4161_1=Head to <a href="findnpc_new,city05,EventNpc24199" style="HLStype1">Huanhua Sword Sect</a>.
+interactinfo_4175_2=Head to Huanhua Sword Sect and find <a href="findnpc_new,city05,WorldNpc09801" style="HLStype1">the head master Jiang</a> for help.
+interactinfo_4293=Take the Bone-Healing Cream out from <a href="findnpc_new,school06,Gather00039b" style="HLStype1">the box</a>.
+okmenu_4173_1=Please pass the snow fan back to the Huanhua Sword Sect.
+okmenu_4174_1=Don't worry. I'm heading to Huanhua Sword Sect now.
+story_4012_1=It's Huanhua Sword Sect's business. Outsiders should not intervene. It's a shame of Huanhua Sect.
+story_4012_2=Huanhua Sect Fourth Swordman Pei Xiuhua and Chengdu Provincial Treasurer are oath brothers. Soon after Pei Xiuhua just got married, the couple visit the Treasurer. Unfortunately, the Treasurer was being assassinated at that time. While trying to save the Treasurer, Pei Xiuhua died and his wife got missing. After we investigated it, the one behind all this is Nishang Palace. We Huanhua Sword Sect will revenge for Pei Xiuhua regardless of the cost.
+story_4012_3=I said it already. It's Huanhua Sword Sect's business. You should not intervene. Don't mess with us.
+story_4020_1=<s>What? Snow Fan? You are here for it? <BR><s>To be honest, I just arrived here.
+story_4091_2=<s>I'm glad to help you with finding your younger sister. However, my disciples just reported to me that Huanhua Sword Sect and Wanderers Valley are waiting outside already. I haven't fully recovered yet Nishang Palace is in danger. Please help us.
+story_4093_1=<s>Who are you? Why are you here?
+story_4094_3=<s>To be frank, the Treasurer is weird recently. Since the assassination, he has stayed in home and refused to work, except sending an official letter not long ago. <br><s>In my opinion, the Treasurer is probably fake. You should get some of Swordman Pei's belongings from Huanhua Sword Sect and test to see whether the Treasurer is real or fake.
+story_4124_4=<s>All the efforts are worth it as long as I can revenge. Even though I failed this time, I will come back in the future. You can't save them every time. <BR><s><font color="#0033FF">(Zhuang Qingqing tossed a Thunder Pellet and disappeared in the fog.)</font>
+story_menu_4012=Do you know why Huanhua Sword Sect catch the local citizens?
+story_menu_4022=I guess you are the criminal taoist that ambushed the Nishang Palace Leader and created conflict in the Huanhua Sword Sect.
+storyinfo_4012=Find <a href="findnpc_new,scene05,WorldNpc06103" style="HLStype1">Huanhua Sword Sect Disciple</a>.
 storyinfo_4527=Ask Divine Leg Sect Leader <a href="findnpc_new,born04,WorldNpc00016" style="HLStype1">Chu Tianbiao</a> about Yuying.
-storymenu_4094_3=哦？那我这就再去趟浣花山庄。
-submitnpcex_24199=让这位<a href="findnpc_new,city05,WorldNpc09804" style="HLStype1">浣花山庄弟子</a>通传一声
+storymenu_4094_3=I'll head to the Huanhua Sword Sect now.
+submitnpcex_24199=Ask <a href="findnpc_new,city05,WorldNpc09804" style="HLStype1">Huanhua Sword Sect Disciple</a> to send the message.
+interactinfo_4340=<a href="findnpc_new,born04,event_qdzzyb_001" style="HLStype1">Rushing home</a>
 

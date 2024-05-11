@@ -201,7 +201,6 @@ collectinfo_16001=Catch Xianyin Fish in the waters near Sky Pavilion. Use your <
 collectinfo_16002=Answer the nun's question.
 collectinfo_16003=Pass the test to get the admission token.
 collectinfo_16004=Find Water Spirit and leave Bottomless Sea Abyss for Dark Crystal Canyon. Collect 3 <a href="findnpc_new,school19,boxnpc_ssg_rm_001" style="HLStype1">lotuses</a>. There is a chance you may fail to pick up a lotus.
-collectinfo_16005=Mediate for two hours with <a href="findnpc_new,school19,EventNpc_ssg_rm_02" style="HLStype1">Snowy Sky</a> at the Snowy Mountain Summit.
 collectinfo_16006=Gather <a href="findnpc_new,scene13_1,Gather_ssg_zyb_001" style="HLStype1">Millennium Ganoderma</a>. If you die, you can return to <a href="findnpc_new,school19,ssg_zyb_001" style="HLStype1">Xu Miaozhen</a> and ask her to send you back.
 collectinfo_16007=Gain approval and get the admission token.
 collectinfo_16008=Put <a href="TASK_ITEM,item_ssgrc_002" style="HLStype1">Fire Blaze Grass</a> onto the <a href="findnpc_new,school19,ysmp_ssg_rc_004" style="HLStype1">stone platform</a> under the tree. Return the <a href="TASK_ITEM,taskitem_ssgrc_003" style="HLStype1">box of Fire Blaze Grass</a> to Hua Feibai.
@@ -456,6 +455,7 @@ useiteminfo_16008=Use Fire Blaze Grass at the <a href="findnpc_new,school19,ysmp
 DialogID_16025=<font face="Default" color="#ffffff" >A thief once came to steal the Divine Water. We apprehended the thief, recovered the Divine Water, and became good friends with your school ever since.</font>
 DialogID_16069=<font face="Default" color="#ffffff" >We have been close allies and friends with the Emei ever since they helped us recover our Divine Water. Before I grant you  permission to learn Emei skills, you should go see Abbess Juechen in Emei to show your respect.</font>
 story_16000_1=<font face="Default" color="#ffffff" >Many years ago, a thief came to steal our Divine Water. Xu Miaozhen and Du Mingxue were visiting us at the time, and the two Emei sisters helped us recover the Divine Water. </font>
-" style="HLStype1">徐妙真</a>
-</font><font face="Default" color="#ffffff" >。</font>
+" style="HLStype1">Xu Miaozhen</a>
+</font><font face="Default" color="#ffffff" >. </font>
+collectinfo_16005=Mediate for 3 minutes with <a href="findnpc_new,school19,EventNpc_ssg_rm_02" style="HLStype1">Snowy Sky</a> at the Snowy Mountain Summit.
 

@@ -4490,10 +4490,10 @@ target_2104=<s>Ask Great Mother Liu about Zhao Ziji
 target_2308=<s><a href="findnpc_new,school07,FunnpcClone007023" style="HLStype1">Sang Shuyun</a> wants you to go to the Pill Refining Room and get Wound Healing Drug from <a href="findnpc_new,school07,GatherClone007001" style="HLStype1">medicine jar</a> and find the Jinchuang medicine in it. Then <a href="findnpc_new,school07,GatherClone007002" style="HLStype1">check the wooden box</a> and find some bandages. Then give them to him.
 task_TrackInfo_2237=Escort Dong Qiu and Shen Yishan out of Longmen Pass.
 title_2104=Hurry to the Fishing Village
-CanAcceptMenu_2016=我刚从百晓生前辈那得知这图纸上画的是凤凰翎，不知这和你夫君失踪一事有何关联？
-CompleteMenu_2003=<font face="Default" color="#ffffff" >彭兄，此次凤凰山庄之行我只找到了这块破损的玉佩。</font>
-CompleteMenu_2015=<font face="Default" color="#ffffff" >冯大婶，再次打扰了！请问这图纸可和凤凰山庄有关？</font>
-CompleteMenu_2045=我已从凤凰山庄夺回了这凤凰翎图纸。
+CanAcceptMenu_2016=I heard from Bai Xiaosheng that the drawing depicts Peacock Plume. I don't know whether it has anything to do with your husband being missing.
+CompleteMenu_2003=<font face="Default" color="#ffffff" >Brother Peng, I only found the broken jade pendant in the trip to Peacock Villa this time.</font>
+CompleteMenu_2015=<font face="Default" color="#ffffff" >Aunt Feng, sorry to trouble you again. Does this drawing have anything to do with the Peacock Villa?</font>
+CompleteMenu_2045=I took back the Peacock Plume Drawing from the Peacock Villa.
 accept_2003_1=<font face="Default" color="#ffffff">My wife, Xue Muchai, has been missing for several months now. She had left me a letter saying that she was traveling to Peacock Villa to find Peacock Plume. Can you please go to Peacock Villa and inquire about her for me? </font>
 accept_2015_1=<font face="Default" color="#ffffff">Is this a delicate Hidden Weapon on this picture? Is this the treasure Peacock Plume of Peacock Villa? I heard that Peacock Villa has recruited skilled craftsmen to make Peacock Plume. But I don't know what happened next.</font>
 accept_2016_1=<font face="Default" color="#ffffff" >Alright. I'll tell you the truth. My husband was murdered by a criminal named Nan Batian for refusing to forge a a fake copy of the Peacock Plume. Please don't mention any of this to my son, as I feel he will get himself killed trying to avenge his father. Just go to Peacock Villa yourself and try to learn more about this criminal.</font>
@@ -4530,13 +4530,13 @@ target_2031=Give "Dark Phoenix" torn pages to Bai Xiaosheng at Peacock Villa (Ra
 target_2045=<s>Go to Peacock Villa, and find Qiu Fengwu. The Blueprint ought to be with him.
 target_2606=<s>Talk with Qian Bofei about the Peacock Feather.
 target_2612=Go to Great Poison Palace to stop Xing Tianzheng from stealing the Peacock Plume Blueprint.
-task_TrackInfo_2003=<s>去凤凰山庄（禁地，简单）里面打听一下薛幕紫和玉佩的消息吧。
-task_TrackInfo_2010=<s>去唐门南边的凤凰山庄（禁地，简单）找<a href="findnpc_new,clone001,bossclone001013" style="HLStype1">马鞭</a>，帮少林寺清理门户。
-task_TrackInfo_2016=<s>去唐门南边，进凤凰山庄（禁地，简单）击杀<a href="findnpc_new,clone001,bossclone001003" style="HLStype1">幽灵右使</a>，并替这对孤儿寡母报仇。
-task_TrackInfo_2018=<s>去凤凰山庄（禁地，简单）寻找失踪人物的下落。
-task_TrackInfo_2025=<s>前往凤凰山庄,击败<a href="findnpc_new,clone001,bossclone001018" style="HLStype1">柳箐箐</a>，寻得父亲的金钗。
-task_TrackInfo_2028=<s>穆道人本就武功高强，如若让他得到凤凰翎，必将为祸武林，小女子在此请诸位答应前往山庄地宫出手救得我夫君秋风梧，阻止穆道人获得凤凰翎。
-task_TrackInfo_2030=<s>在凤凰山庄内仔细找找，那手帕应该就丢在山庄里了。那是一块白色的丝帕。
+task_TrackInfo_2003=<s>Go to Peacock Villa (Instance, Easy Mode) and collect information about Xue Muzi and jade pendant.
+task_TrackInfo_2010=<s>Go to Peacock Villa (Instance, Easy mode) in the south of Tangmen. Find <a href="findnpc_new,clone001,bossclone001013" style="HLStype1">Ma Bian</a> and defeat him for Shaolin.
+task_TrackInfo_2016=<s>Go to Peacock Villa (Instance, Easy mode) in the south of Tangmen. Kill <a href="findnpc_new,clone001,bossclone001003" style="HLStype1">Ghostly Messenger</a> and avenge the mom and child.
+task_TrackInfo_2018=<s>Go to Peacock Villa (Instance, Easy mode). Find out the whereabouts of the missing person.
+task_TrackInfo_2025=<s>Go to Peacock Villa. Defeat <a href="findnpc_new,clone001,bossclone001018" style="HLStype1">Liu Qingqing</a> and find father's gold hairpin.
+task_TrackInfo_2028=<s>Taoist Mu is powerful in martial arts. If he finds Peacock Plume, it will surely be a disaster for Wulin. I beg you all to head to the Underground Palace to rescue my husband, Qiu Fengwu, and stop Taoist Mu from getting Peacock Plume.
+task_TrackInfo_2030=<s>Look around carefully in Peacock Villa. The handkerchief should have been lost in the villa. It is white.
 task_TrackInfo_2045=<s>Go to Peacock Villa, and find Qiu Fengwu. The Blueprint ought to be with him.
 title_2004=Peacock Villa - Part 1: Nightwing 4
 title_2005=Peacock Villa - Part 1: Nightwing 5

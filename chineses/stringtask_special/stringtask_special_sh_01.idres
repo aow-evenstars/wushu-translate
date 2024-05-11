@@ -826,11 +826,8 @@ DialogID_741=You can press the "I" button on the keyboard to open up the life in
 DialogID_743=Press the "I" key to open the Life Skill Interface. Double-click on the collection profession you want, found on the top shelf. Then set your current location in the upper-left corner to cover your entire area. This shows the location of the required goods or creatures in any given scene. <font face="Default" color="#ffffff" >You can try hunting Boars and then move on to larger, more ferocious animals.</font>
 collectinfo_600=Mine iron ore
 collectinfo_602=Mine iron ore
-collectinfo_604=Mine copper ore
-collectinfo_606=Mine copper ore
 collectinfo_608=Mine lead ore
 collectinfo_610=Mine lead ore
-collectinfo_612=Mine silver ore
 collectinfo_614=Mine gold ore
 collectinfo_616=Study the Normal Throwing Knife Book to learn how to make Youming Throwing Knives. You can buy it from your blacksmith Shifu Blacksmith. The required ores need the Miner skill to collect, and the ingots need the Miner skill to smelt.
 collectinfo_618=Learn Normal Throwing Knife Book to make Youming Throwing Knife. You can buy Normal Throwing Knife Book recipe from Blacksmith Trainer, and after learning it you will have a chance to make Youming Throwing Knife. The required ores need Miner to collect, and the ingots need Miner to smelt.
@@ -854,8 +851,6 @@ collectinfo_646=Catch Stone Loaches, can be found in Northern Plains and Xiangya
 collectinfo_647=Catch Snow Fish, can be found in Jinling and Northern Plains
 collectinfo_648=Cut white poplar wood.
 collectinfo_650=Collect white poplar wood. This common wood can be found near Luoyang, Jiming Posthouse, Yanyu Villa, Qiandeng Town, Chengdu, and Ruined Valley.
-collectinfo_652=Cut Cypress Wood.
-collectinfo_654=Cut Cypress Wood.
 collectinfo_656=Cut sweet osmanthus trees, can be found in Yanjing and Suzhou
 collectinfo_658=Cut sweet osmanthus trees, can be found in Yanjing and Suzhou
 collectinfo_660=Cut Pine Wood, can be found in Jinling
@@ -894,16 +889,12 @@ collectinfo_720=Forge Yinxu Lace. When in Twilight Village or Green Cloud Castle
 collectinfo_722=Forge Yinxu Lace. When in Twilight Village or Green Cloud Castle or proceed Random Encounter Task, there is a chance to get Yinxu Lace recipe, and after learning it you can make Yinxu Lace. The required material to make it Nine Clouds Damask can only be composited by Tailor.
 collectinfo_728=Collect mint. This common herb can be found near Luoyang, Jiming Posthouse, Yanyu Villa, Qiandeng Town, Chengdu, and Ruined Valley.
 collectinfo_730=Collect mint. This common herb can be found near Luoyang, Jiming Posthouse, Yanyu Villa, Qiandeng Town, Chengdu, and Ruined Valley.
-collectinfo_732=Collect plight flowers.
-collectinfo_734=Collect plight flowers.
 collectinfo_736=Collect Wormwood, can be found in Plum Blossom Mountain, Nianluo Dam, Yanjing, Suzhou
 collectinfo_738=Collect Wormwood, can be found in Plum Blossom Mountain, Nianluo Dam, Yanjing, Suzhou
 collectinfo_740=Collect White Atractylodes Rhizome, can be found in Jinling
 collectinfo_742=Collect puffballs.
 collectinfo_744=Collect Gaultheria.
 collectinfo_746=Collect Gaultheria.
-collectinfo_748=Collect heartbroken flowers.
-collectinfo_750=Collect heartbroken flowers.
 collectinfo_752=Collect Du Yiwei, can be found in Yanjing and Suzhou
 collectinfo_754=Collect Du Yiwei, can be found in Yanjing and Suzhou
 collectinfo_756=Collect nux vomica, can be found in Jinling
@@ -1729,4 +1720,14 @@ story_613_3=<font face="Default" color="#ffffff" >Since you are about to meet Tw
 story_614_2=<font face="Default" color="#ffffff" >It is a sigil, or mark, that binds you to this city. It is physically painful to be marked, but you also get a chance to open your meridians to channel more Chi into your skills. </font>
 interactinfo_26100=Tell <a href="findnpc_new,scene25,npc_hwcy_mxm06" style="HLStype1">Chen Qianchi </a>you already chased out the saboteur, and then find <a href="findnpc_new,scene25,npc_hwcy_mxm01" style="HLStype1">Luo Qi</a> to escape.
 okmenu_26100=<font face="Default" color="#ffffff" >You’re welcome. </font>
+SubmitNpcEx_27569=Submit task to <a href="findnpc_new,scene25,funnpc_lxxz_xu_001" style="HLStype1">Gu Yunfeng</a>.
+collectinfo_604=Mine copper ore
+collectinfo_606=Mine copper ore
+collectinfo_612=Mine silver ore
+collectinfo_652=Cut Cypress Wood.
+collectinfo_654=Cut Cypress Wood.
+collectinfo_732=Collect plight flowers.
+collectinfo_734=Collect plight flowers.
+collectinfo_748=Collect heartbroken flowers.
+collectinfo_750=Collect heartbroken flowers.
 

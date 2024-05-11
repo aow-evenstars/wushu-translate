@@ -1,84 +1,84 @@
 ﻿
 DialogID_13351=(The horse casually glances at you)
-DialogID_13353=那你先去跟4个剑宗弟子去比试下。
-DialogID_13354=<s>那你先去跟四个剑宗弟子切磋下！
-DialogID_13355=<s>我看你功夫弟子不错，要不让我教你气宗心法去打败天玑子吧！
-DialogID_13356=<s>那好吧，我就不强求了，你去问问附近的武当弟子，他好像有事情要说。
-DialogID_13357=<s>武当武功那么好，你怎么不想学呢？！
-DialogID_13358=正是本人。
-QiecuoMenu_13354=好的，小心了。
-QiecuoMenu_13355=这女人
-QiecuoMenu_13359=请
-QiecuoMenu_13360=哼，你太小看我了
-QiecuoTitle_13354=<s>如果你赢了，你可以去找我师父天玑子，说不定他能给你七星阵法！
-QiecuoTitle_13355=<s>盗剑者，看我来如何收拾你！！
-QiecuoTitle_13359=<s>少侠，请赐教！
-QiecuoTitle_13360=<s>你就是他们找来的帮手，可笑！
-collectinfo_13351=从<a href="findnpc_new,school07,monrm079507" style="HLStype1">盗剑者 </a>身上取回剑
-collectinfo_13352=收集<a href="findnpc_new,school07,Gather0012kh" style="HLStype1">子夜花</a>
-collectinfo_13353=收集<a href="findnpc_new,school07,Gather0013kh" style="HLStype1">夜夏草</a>
-collectinfo_13354=收集<a href="findnpc_new,school07,Gather0014kh" style="HLStype1">夏子花</a>
-collectinfo_13355=收集<a href="findnpc_new,school07,Gather0015kh" style="HLStype1">万灵草</a>
-collectinfo_13356=收集<a href="findnpc_new,school07,Gather0016kh" style="HLStype1">疗伤药草</a>
-hunterinfo_13351=击败<a href="findnpc_new,school07,monrm079501" style="HLStype1">剑宗弟子</a>
-hunterinfo_13352=击败<a href="findnpc_new,school07,monrm079502" style="HLStype1">气宗弟子</a>
-hunterinfo_13353=击败<a href="findnpc_new,school07,monrm079503" style="HLStype1">玉璇子得意弟子 </a>
-hunterinfo_13354=击败<a href="findnpc_new,school07,WorldNpc04508" style="HLStype1">查博坤</a>
-hunterinfo_13355=击败<a href="findnpc_new,school07,WorldNpc04709" style="HLStype1">曲意</a>
-hunterinfo_13356=击败<a href="findnpc_new,school07,monrm079508" style="HLStype1">盗剑者高手</a>
-hunterinfo_13357=击败<a href="findnpc_new,school07,monrm079504" style="HLStype1">黑衣人同党 </a>
-hunterinfo_13358=击败<a href="findnpc_new,school07,monrm079505" style="HLStype1">黑衣人探子</a>
-hunterinfo_13359=击败<a href="findnpc_new,school07,WorldNpc04405" style="HLStype1">天玑子</a>
-hunterinfo_13360=击败<a href="findnpc_new,school07,WorldNpc04511" style="HLStype1">黑衣头目</a>
-hunterinfo_13361=击败<a href="findnpc_new,school07,monrm079506" style="HLStype1">混混</a>
-interactinfo_13351=在武当<a href="findnpc_new,school07,WorldNpc04510" style="HLStype1">四处</a>查探一番
-interactinfo_13352=与<a href="findnpc_new,school07,EventNpc26707" style="HLStype1">玉璇子</a>交谈
+DialogID_13353=You should first go duel with the 4 Sword Clan Disciples.
+DialogID_13354=<s>You should first go duel with the 4 Sword Clan Disciples.
+DialogID_13355=<s>You have a good foundation for the martial arts. How about I teach you the Chi Clan Method to beat Sage Tianji?
+DialogID_13356=<s>Okay, I won't force you. You can ask the Wudang Disciple nearby. He has something to tell you.
+DialogID_13357=<s>Wudang is known for its profound martial arts. Why don't you want to learn?
+DialogID_13358=It's me.
+QiecuoMenu_13354=Take care.
+QiecuoMenu_13355=This woman.
+QiecuoMenu_13359=Please.
+QiecuoMenu_13360=You underestimated me.
+QiecuoTitle_13354=<s>If you win, you can go find my master Sage Tianji. Maybe he will have the Seven Star Array for you.
+QiecuoTitle_13355=<s>You sword thief, I'll beat you.
+QiecuoTitle_13359=<s>Let's duel.
+QiecuoTitle_13360=<s>They ask you to help them? What a joke.
+collectinfo_13351=Take back the sword from <a href="findnpc_new,school07,monrm079507" style="HLStype1">Sword Thief</a>.
+collectinfo_13352=Collect <a href="findnpc_new,school07,Gather0012kh" style="HLStype1">Midnight Flower</a>.
+collectinfo_13353=Collect <a href="findnpc_new,school07,Gather0013kh" style="HLStype1">Summer Night Grass</a>.
+collectinfo_13354=Collect <a href="findnpc_new,school07,Gather0014kh" style="HLStype1">Xiazi Flower</a>.
+collectinfo_13355=Collect <a href="findnpc_new,school07,Gather0015kh" style="HLStype1">Wanling Herb</a>.
+collectinfo_13356=Collect <a href="findnpc_new,school07,Gather0016kh" style="HLStype1">Healing Herb</a>.
+hunterinfo_13351=Defeat <a href="findnpc_new,school07,monrm079501" style="HLStype1">Sword Clan Disciple</a>.
+hunterinfo_13352=Defeat <a href="findnpc_new,school07,monrm079502" style="HLStype1">Chi Clan Disciple</a>.
+hunterinfo_13353=Defeat <a href="findnpc_new,school07,monrm079503" style="HLStype1">Yu Xuanzi's Excellent Disciple </a>.
+hunterinfo_13354=Defeat <a href="findnpc_new,school07,WorldNpc04508" style="HLStype1">Cha Bokun</a>.
+hunterinfo_13355=Defeat <a href="findnpc_new,school07,WorldNpc04709" style="HLStype1">Qu Yi</a>.
+hunterinfo_13356=Defeat <a href="findnpc_new,school07,monrm079508" style="HLStype1">Sword Robber Leader</a>.
+hunterinfo_13357=Defeat <a href="findnpc_new,school07,monrm079504" style="HLStype1">Mysterious Stranger's Ally </a>.
+hunterinfo_13358=Defeat <a href="findnpc_new,school07,monrm079505" style="HLStype1">Mysterious Stranger's Spy</a>.
+hunterinfo_13359=Defeat <a href="findnpc_new,school07,WorldNpc04405" style="HLStype1">Sage Tianji</a>.
+hunterinfo_13360=Defeat <a href="findnpc_new,school07,WorldNpc04511" style="HLStype1">Black Dressing Chieftain</a>.
+hunterinfo_13361=Defeat <a href="findnpc_new,school07,monrm079506" style="HLStype1">Bludger</a>.
+interactinfo_13351=Look <a href="findnpc_new,school07,WorldNpc04510" style="HLStype1">around</a> in Wudang.
+interactinfo_13352=Talk to <a href="findnpc_new,school07,EventNpc26707" style="HLStype1">Yu Xuanzi</a>.
 interactinfo_13354=Speak with <a href="findnpc_new,school07,WorldNpc04404" style="HLStype1">Yu Xuanzi</a>.
 interactinfo_13355=Speak with <a href="findnpc_new,school07,WorldNpc04404" style="HLStype1">Yu Xuanzi</a>.
 interactinfo_13356=Talk with <a href="findnpc_new,school07,WorldNpc04405" style="HLStype1">Tian Jizi</a>
-interactinfo_13358=与<a href="findnpc_new,school07,WorldNpc04506" style="HLStype1">左鹏煊</a>交谈
+interactinfo_13358=Talk to <a href="findnpc_new,school07,WorldNpc04506" style="HLStype1">Zuo Pengxuan</a>.
 okmenu_13351=(The horse casually glances at you)
-okmenu_13353=不知道!
+okmenu_13353=I don't know.
 okmenu_13354=I don't know!
-okmenu_13355=我只要你给我七星阵法就行了。
-okmenu_13356=我还是对武当心法没兴趣，或许无缘吧！
-okmenu_13357=不好意思，我不想学你们武当的武功啊！
-okmenu_13358=你可是左鹏煊？
-story_13351_1=<s>每天我很早就起来教我的弟子们练功，弟子们都很认真的听我的教导。
-story_13351_2=<s> 除此之外，我的弟子每日都在勤练，理论上应该比剑宗强啊。
-story_13352_1=<s>我跟天玑子由师傅分别传授了气宗和剑宗之法，师傅从来没让我们比试过，怕我们伤了和气。
-story_13352_2=<s>我是个好胜的人，我一直想跟天玑子比试，可是不敢亲自动手，所以只好找你了！
-story_13353_1=<s>这把剑是我们剑冢铸剑师花费了3年心血所铸，想必你也听说过吧？！
-story_13353_2=<s>此剑威力巨大，很多人想盗取它卖钱，好不容易将剑藏好了，今天却被盗剑者给盗了...
-story_13354_1=<s>话说自从江湖人听说宝剑被铸出来之后纷纷派盗剑者来盗取宝剑，每个盗剑者身后都有一个盗剑者高手以助他们一臂之力。
-story_13354_2=<s>只有将盗剑者高手击败，盗剑者才能知难而退！
-story_13355_1=<s>黑衣人来武当山久已，很早之前他们就在武当山胡作非为，经常抢夺村民财物！
-story_13355_2=<s>最近他们老在武当山上鬼鬼祟祟的，具体他们想干什么我也不太清楚......
-story_13356_1=<s>七星阵法只不过是依据五行八卦结合星象走位而创，如果能洞悉五行之奥秘，一切阵法都是比不过此阵法！
-story_13356_2=<s>黑衣头目正是想盗取此阵法，以便称霸武林！
-story_menu_13351=谁高谁低
-story_menu_13352=争强好胜
+okmenu_13355=I only need the Seven Star Array.
+okmenu_13356=I still don't have an interest in Wudang's martial arts. Maybe it's meant to be so.
+okmenu_13357=Sorry, but I don't want to learn Wudang's martial arts.
+okmenu_13358=Are you Zuo Pengxuan?
+story_13351_1=<s>Everyday I get up early to teach my students. They will listen to me carefully.
+story_13351_2=<s>Besides, my students work hard to cultivate everyday. In theory, they should be better than the students from Sword Clan.
+story_13352_1=<s>My master taught me Chi Clan Method and taught Sage Tianji Sword Clan Method. He never let us have a single duel. He was afraid such will harm out relationship.
+story_13352_2=<s>I always strive for the best. I always wanted to have a duel with Sage Tianji. But I don't dare do it myself. So I will have to ask you for help.
+story_13353_1=<s>You probably have heard about it. Our sword craftsman spent 3 years in crafting this sword.
+story_13353_2=<s>This sword is really powerful. Many want to steal it. It was hard to keep it safe. Yet today it eventually got stolen.
+story_13354_1=<s>Ever since this sword was made, many people tried to steal it. Behind each of the sword thief, there is an expert to help him.
+story_13354_2=<s>The thief will only go away if the expert behind him is defeated.
+story_13355_1=<s>Black suit man have been in wudang for long. They have been making trouble since long ago. They often rob villagers' belongings.
+story_13355_2=<s>Recently, they sneak in the Wudang Mountain. We have no idea what they want to do.
+story_13356_1=<s>Seven Star Array was created based on the Five Elements Eight Diagram and the trace of the stars. If one knows well about the Five Elements, this array will beat any other arrays.
+story_13356_2=<s>The Leader of Black Suit Men want to steal the array for himself and dominate the wulin.
+story_menu_13351=Who is Better
+story_menu_13352=Prevail Others
 story_menu_13353=Sword Robber
-story_menu_13354=盗剑高手
-story_menu_13355=黑衣之人
-story_menu_13356=七星阵法
-storyinfo_13351=听<a href="findnpc_new,school07,WorldNpc04404" style="HLStype1">玉璇子</a>诉说
-storyinfo_13352=听<a href="findnpc_new,school07,WorldNpc04404" style="HLStype1">玉璇子</a>诉说
-storyinfo_13353=听<a href="findnpc_new,school07,WorldNpc04709" style="HLStype1">曲意</a>诉说
-storyinfo_13354=听<a href="findnpc_new,school07,WorldNpc04709" style="HLStype1">曲意</a>诉说
+story_menu_13354=Expert of Stealing Sword
+story_menu_13355=Person in Black
+story_menu_13356=Seven Stars Array
+storyinfo_13351=Listen to <a href="findnpc_new,school07,WorldNpc04404" style="HLStype1">Yu Xuanzi</a>.
+storyinfo_13352=Listen to <a href="findnpc_new,school07,WorldNpc04404" style="HLStype1">Yu Xuanzi</a>.
+storyinfo_13353=Listen to <a href="findnpc_new,school07,WorldNpc04709" style="HLStype1">Qu Yi</a>.
+storyinfo_13354=Listen to <a href="findnpc_new,school07,WorldNpc04709" style="HLStype1">Qu Yi</a>.
 storyinfo_13355=Listen to <a href="findnpc_new,school07,WorldNpc04401" style="HLStype1">Immortal Ziyang</a>
-storyinfo_13356=听<a href="findnpc_new,school07,WorldNpc04489" style="HLStype1">张三丰</a>诉说
+storyinfo_13356=Listen to <a href="findnpc_new,school07,WorldNpc04489" style="HLStype1">Zhang Sanfeng</a>.
 storymenu_13351_1=Mhm!
-storymenu_13351_2=这个......弟子的武功有高有低，难分啊！
-storymenu_13352_1=师傅前辈做的蛮对的啊！
-storymenu_13352_2=不过现在我已经战胜了他弟子你可以把七星阵法交给我了吧。
-storymenu_13353_1=没听说过！
-storymenu_13353_2=真是太不幸了。
-storymenu_13354_1=原来是这样！
-storymenu_13354_2=这个好办。
-storymenu_13355_1=无耻之徒！
-storymenu_13355_2=为什么你也不知道呢？
+storymenu_13351_2=There are good and bad in terms of martial arts among the disciples. It's hard to tell.
+storymenu_13352_1=I agree with what you did.
+storymenu_13352_2=I have defeated his disciple. Now you should hand the Seven Star Array to me.
+storymenu_13353_1=I've never heard of it.
+storymenu_13353_2=That's unfortunate.
+storymenu_13354_1=I see.
+storymenu_13354_2=That's easy.
+storymenu_13355_1=How despicable.
+storymenu_13355_2=You don't seem to know about it either. Why is that?
 storymenu_13356_1=I see.
-storymenu_13356_2=真年头小人真多！
-useiteminfo_13351=使用<a href="TASK_ITEM,useitem_003kh" style="HLStype1">子夜夏药丸</a>
+storymenu_13356_2=There are so many despicable people out there nowadays.
+useiteminfo_13351=Use <a href="TASK_ITEM,useitem_003kh" style="HLStype1">Summer Midnight Pill</a>.
 

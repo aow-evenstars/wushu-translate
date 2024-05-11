@@ -229,7 +229,7 @@ hunterinfo_71153=Defeat <a href="findnpc_new,city04,ym_zybgw_003" style="HLStype
 hunterinfo_71154=Defeat <a href="findnpc_new,born02,ym_zybnpc_018" style="HLStype1">the Mongolian Khan</a>.
 hunterinfo_71155=Defeat <a href="findnpc_new,city04,ym_zybnpc_022" style="HLStype1">the Foreign Spies</a>.
 hunterinfo_71156=Defeat <a href="findnpc_new,city04,ym_zybnpc_029" style="HLStype1">Lan Ji</a>
-hunterinfo_71157=击败<a href="findnpc_new,city04,ym_zybnpc_023" style="HLStype1">外域武林人士</a>
+hunterinfo_71157=Defeat <a href="findnpc_new,city04,ym_zybnpc_023" style="HLStype1">Foreign Wulin Fighters</a>
 hunterinfo_71158=Defeat <a href="findnpc_new,city04,ymsj_gujrenwu001" style="HLStype1">ymsj_gujrenwu001</a>
 hunterinfo_71159=Enter the event area from <a href="findnpc_new,city04,ymsj_fenwei_004" style="HLStype1">Yan Yicai</a> to complete the challenge. <font color="#FF0000">(Only available in daytime.)</font>
 hunterinfo_71160=Defeat <a href="findnpc_new,city04,ymsj_gujrenwu003" style="HLStype1">ymsj_gujrenwu003</a>
@@ -447,7 +447,6 @@ okmenu_71176=<font face="Default" color="#ffffff" >Hope they may help. </font>
 okmenu_71177=<font face="Default" color="#ffffff" >All Jianghu people should help the people in distress. </font>
 okmenu_71178=<font face="Default" color="#ffffff" >Chivalry is required for each Yanmen Disciple. </font>
 okmenu_71179=<font face="Default" color="#ffffff" >Thank goodness, you are all right. </font>
-okmenu_71181=<font face="Default" color="#ffffff" >Wait a moment please. I'll report it for you. </font>
 okmenu_71182=<font face="Default" color="#ffffff" >What a rude guy! I'll give him a lesson. </font>
 okmenu_71183=<font face="Default" color="#ffffff" >Stop nonsense. I will not have you speak ill of the old leader. If you don't stop, the old leader will report you to the emperor. Then you will be punished. </font>
 okmenu_71185=<font face="Default" color="#ffffff" >Why are you so sneaky? What do you want to do? </font>
@@ -564,9 +563,7 @@ story_71154_1=<font face="Default" color="#ffffff">Who are you? Where is Yan Shu
 story_71154_2=<font face="Default" color="#ffffff" >I've heard Elder Huadi talking about that effective medicine. Ask him for details. </font>
 story_71155_1=<font face="Default" color="#ffffff" >In fact, Yan Xixi is the descendant of the last emperor of Yuan Dynasty. We can support her son as the king of Mongolia and restore Yuan Dynasty.   </font>
 story_71156_1=<font face="Default" color="#ffffff" >Do you think you can stop everything by getting me? I have a bad news for Yan Shuangxing.  </font>
-story_71156_2=<font face="Default" color="#ffffff" >The herb Yan Xixi took is the extremely poisonous Ecstasy Herb. Only Mr. Zhuo has the antidote. Tell him that he can only save her by joining Mr. Zhuo.  </font>
 story_71157_1=<font face="Default" color="#ffffff" >The emperor has learned about her background and asked me to kill her.  </font>
-story_71157_2=<font face="Default" color="#ffffff" >I've been treating her as my own daughter. This survival pill can only keep her alive for more days. I'll tell everyone that Yan Shuangxing has betrayed Yamen. So he can take Xixi away and stay with her.</font>
 story_71158_1=<font face="Default" color="#ffffff" >Refused me?! Don't you care about Xixi's life?  </font>
 story_71159_1=<font face="Default" color="#ffffff" >Who are you? What are you doing here?  </font>
 story_71159_2=<font face="Default" color="#ffffff" >Yan Shuangxing? Who is he? Why is he willing to help us? </font>
@@ -767,7 +764,6 @@ story_menu_71248=<font face="Default" color="#ffffff" >Remove doubts</font>
 storyinfo_71151=Talk to<a href="findnpc_new,city04,ly735" style="HLStype1"> Jin Renlu</a>.
 storyinfo_71152=Talk to<a href="findnpc_new,clone037,ym_zybnpc_012" style="HLStype1"> Trapped Commoner</a>.
 storyinfo_71153=Talk to<a href="findnpc_new,city04,ym_zybnpc_026" style="HLStype1"> Yan Shuangxing</a>.
-storyinfo_71154=Talk to<a href="findnpc_new,born02,bossclone033010" style="HLStype1"> Zhuo Bei</a>.
 storyinfo_71155=Talk to<a href="findnpc_new,born02,ym_zybnpc_020" style="HLStype1"> Zhuo Bei</a>.
 storyinfo_71156=Talk to<a href="findnpc_new,city04,ym_zybnpc_029" style="HLStype1"> Lan Ji</a>.
 storyinfo_71157=Listen to <a href="findnpc_new,city04,WorldNpc10027" style="HLStype1">Yan Baiku</a>
@@ -1009,4 +1005,8 @@ useiteminfo_71520=Put <a href="TASK_ITEM,item_mrzyb_003" style="HLStype1">the po
 "storymenu_71171_1=<font face=""Default"" color=""#ffffff"" >Nangong Yuzhen was missing after the weapons got stolen.
 "storymenu_71220_1=<font face=""Default"" color=""#ffffff"" >(What is going on here? Do the manor lord and Zuoteng Qianxin have another plan?) Tengyuan Zhengzhong's master?
 It is my pleasure. </font>"=
+okmenu_71181=<font face="Default" color="#ffffff" >Wait a moment please. I'll report it for you</font><font face="Default" color="#ffffff" >. </font>
+story_71156_2=<font face="Default" color="#ffffff" >The herb Yan Xixi took is the extremely poisonous Ecstasy Herb. Only Mr. Zhuo has the antidote. Tell him that he can only save her by joining Mr. Zhuo.</font>
+story_71157_2=<font face="Default" color="#ffffff" >I've been treating her as my own daughter. This survival pill can only keep her alive for more days. I'll tell everyone that Yan Shuangxing has betrayed Yamen. So he can take Xixi away and stay with her.</font>
+storyinfo_71154=Talk to <a href="findnpc_new,born02,bosszyb003" style="HLStype1">Zhuo Bei</a>.
 

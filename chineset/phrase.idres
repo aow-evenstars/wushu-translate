@@ -668,7 +668,6 @@ npctype203=跑商運輸的驢子
 npctype208=帶AI功能對戰NPC
 npctype209=隊伍夥伴
 npctype211=鏢師
-npctype216=銀票兌換掌櫃
 npctype217=黑市商人
 npctype220=門派武學師傅
 npctype222=門派戰管理員
@@ -1162,7 +1161,6 @@ origin_2310=無缺公子
 tool_rank_1_RevengeIntegral=天梯積分
 tool_rank_17_match_win_net=龍虎淨勝總榜
 tool_rank_17_match_school_win_net=八派淨勝總榜
-npctype348=門派五內兌換員
 origin_3101=古墓門人
 origin_3102=逸群才子
 origin_3103=朗星才子
@@ -1732,7 +1730,6 @@ desc_events_26=【行善】幫助<a href="findnpc_new,scene16,newworldpl_zyb_042
 desc_events_27=【捕捉野雞】去蓬萊村周圍捕捉<a href="findnpc_new,scene16,boxnpc_zyb_pld001" style="HLStype1">野雞</a>3只交給<a href="findnpc_new,scene16,newworldpl_zyb_043" style="HLStype1">鄭大叔</a>。
 desc_events_28=【擊殺鮫鯊】擊殺鮫鯊。
 desc_events_29=【擊殺虎王】前去蓬萊村附近尋找<a href="findnpc_new,scene16,pld_zyb_012" style="HLStype1">老虎</a>，殺老虎有概率出現虎王，擊殺虎王獲得虎王皮。上繳給<a href="findnpc_new,scene16,newworldpl_zyb_044" style="HLStype1">葉師傅</a>。
-desc_events_30=【擊殺熊王】前去蓬萊村附近尋找<a href="findnpc_new,scene16,pld_zyb_014" style="HLStype1">熊</a>，殺熊有概率出現熊王，擊殺熊王獲得熊王皮。上繳給<a href="findnpc_new,scene16,newworldpl_zyb_045" style="HLStype1">霍師傅</a>。
 desc_events_31=【調戲民女】調戲蓬萊村的姑娘<a href="findnpc_new,scene16,newworldpl_zyb_046" style="HLStype1">李玉</a>，<a href="findnpc_new,scene16,newworldpl_zyb_047" style="HLStype1">邵淑</a>，<a href="findnpc_new,scene16,newworldpl_zyb_048" style="HLStype1">施恆姣</a>。
 desc_events_33=【破壞座椅】在蓬萊村裡砸座椅和酒缸。
 desc_events_32=【挑戰高手】去挑戰司<a href="findnpc_new,scene16,newworldpl_zyb_049" style="HLStype1">司馬有紹</a><a href="findnpc_new,scene16,newworldpl_zyb_050" style="HLStype1">顓孫康</a><a href="findnpc_new,scene16,newworldpl_zyb_051" style="HLStype1">司策</a>。(需要完成兩次)
@@ -1931,4 +1928,9 @@ shijia_nangong=南宮世家
 npctype117=第一軒
 npctype337=第一軒
 npctype339=第一軒
+school_mingjiao=明教
+npctype110_1=明教
+npctype216=幫派物資管理員
+npctype348=門派五內試煉員
+desc_events_30=【擊殺熊王】前去蓬萊村附近尋找<a href="findnpc_new,scene16,pld_zyb_014" style="HLStype1">熊</a>，殺熊有概率出現熊王，擊殺熊王獲得熊王膽。上繳給<a href="findnpc_new,scene16,newworldpl_zyb_045" style="HLStype1">霍師傅</a>。
 

@@ -563,7 +563,6 @@ context_22085=The necessary items have been acquired. Head back into the Undergr
 context_22086=Your plan was a success and Heibai Zi will soon realize his mistake. Your work in the Underground Palace is finished.
 context_22094=Xiang Wangqing's father was not in the Underground Palace. Maybe you will find him someday.
 context_22095=After an exhausting experience, you return to speak with Lin Tiannan.
-context_22096=Firer Monk is near Xiangyang Hill right now. Go there now, but Black and White might come for you.
 menu_22001_1=<font face="Default" color="#ffffff" >I am afraid not.</font>
 menu_22051_1=<font face="Default" color="#8fd6ef" ></font><font face="Default" color="#ffffff" >Elder Lin, I know you only care about your daughter's safety. I can go there alone.</font>
 menu_22056=<font face="Default" color="#ffffff" >I don't understand this man. He doesn't want to go outside?</font>
@@ -592,7 +591,6 @@ target_22085=Further explore the depths of the Underground Palace.
 target_22086=Speak with Shi Wuxin one final time.
 target_22094=Report back to Lin Tiannan.
 target_22095=Speak with Lin Tiannan.
-target_22096=Go and look for the Black and White around the Xiangyang Hill.
 title_22050=Rumors
 title_22053=Long Lost Father
 title_22058=A Simple Misunderstanding
@@ -615,16 +613,19 @@ title_22095=An Interesting Find
 context_22044=<s>Zhang Danfeng has joined you. Deal with Salt Gang Boss Hong Zhaoyang together.
 target_22044=Deal with Salt Gang Boss Hong Zhaoyang with Zhang Danfeng.
 context_22049=At Yanyu Villa, you met Jiugong Elder, who is an old friend of alliance leader Lin Tiannan. Seek Master Lin in Suzhou as he pursues the ever elusive Nine Yin Manual in Windbell Valley.  <br><font face="Default" color="#ff0000" >(Have to complete Tier 2 Internal Skill first)</font>
-CompleteMenu_22182=荀捕头，浣花山庄四侠裴修华被杀，请你帮忙追查凶手。
-CompleteMenu_22208=徐庄主，一切的误会我已经向浣花山庄江掌门解释过了。
-accept_22181_1=　　三叔他已经回去了，你先帮我找下那斗蛐蛐的高手，听人说他朝浣花山庄方向去了。
-complete_22148=不好了，我阿哥去找浣花山庄弟子复仇，却被抓了。
-context_22181=　　三叔他已经回去了，你先帮我找下那斗蛐蛐的高手，听人说他朝浣花山庄方向去了。
-menu_22202_1=也好，三公子尽快回庄吧！我去浣花山庄将事情解释清楚。
-target_22181=三公子徐子朔迷恋斗蛐蛐，前往浣花山庄帮他打听斗蛐蛐高手的去向。
-target_22182=有江湖人在浣花山庄附近捣乱，帮二侠梁影风赶走他们。
-target_22202=知道了这一切都是东厂的诡计，前往浣花山庄，将事情解释清楚。
-target_22208=向浣花山庄解释清楚之后，返回徐家庄，告诉庄主徐云铮。
-target_22209=徐家和浣花山庄的误会已经解除，去找阴平商议。
-uncom_22148=这事，都怪我约束门下弟子不严。我浣花山庄上霓裳宫其实另有要事，绝非为了贪图九阴真经
+CompleteMenu_22182=Constable Xun, Pei Xiuhua of Huanhua Sword Sect was murdered. Please help to find out the murderer.
+CompleteMenu_22208=I've explained all the misunderstandings to Leader Jiang of Huanhua Sword Sect, Manor Leader Xu.
+accept_22181_1=The Third Uncle has gone back. Please help me find the master of cricket fighting. Someone said that he has gone to Huanhua Sword Sect.
+complete_22148=My brother went to revenge on the disciples of Huanhua Sword Sect, but he has been captured.
+context_22181=The Third Uncle has gone back. Please help me find the master of cricket fighting. Someone said that he has gone to Huanhua Sword Sect.
+menu_22202_1=Please return to the manor, I'll explain the things to Huanhua Sword Sect.
+target_22181=Xu Zishuo the third son is addicted to playing cricket fighting. Head to Huanhua Sword Sect to ask about the master of cricket fighting.
+target_22182=Some Jianghu people are making troubles near Huanhua Sword Sect. Help Liang Yingfeng drive them away.
+target_22202=Explain to Huanhua Sword Sect that all the incidents are conspiracies of the East Chamber.
+target_22208=Back to Xu Family Manor and tell Xu Yunzheng that you've explained everything.
+target_22209=The misunderstanding between Xu Family Manor and Huanhua Sword Sect has been relieved. Go to discuss with Yin Ping.
+uncom_22148=It's all my fault that I didn't manage my disicples well. As a matter of fact, I have something else to do so I went to Nishang Palace, but not for the Nine Yin Manual.
+context_22096=Firer Monk is near Xiangyang Hill right now. Go there now, but Black and White might come for you.
+target_22096=Go and look for the Black and White around the Xiangyang Hill.
+title_22096=Between life and death
 

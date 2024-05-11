@@ -1,95 +1,95 @@
 ﻿
 story_1328_1=<s>你可知我最厉害的武功是什么？不是武当剑法，也不是真武七截阵，而是太极。
 DialogID_1325=<s>DialogID_1325
-DialogID_1326=<s>什么人？没有通关令牌不得入内！
-DialogID_1327=<s>我基本上不给外人刻章。这次给百晓生一个面子，不过我也没那么容易答应你，你去除掉一些亚丁村土匪，并帮我采集一些青竹回来再说。
-DialogID_1328=不好意思，因为你是外地人，所有外地人进入茶馆需要得到国王的批文，你还是先去找国王拿一下批文吧。
-DialogID_1329=果然是好生了得的功夫！
-DialogID_1330=<s>大侠饶命，我再也不敢了。我是密宗弟子，我只是我们头派出来打探消息的，他现在还在茶馆里。
-DialogID_1331=<s>大侠，饶……饶命啊！我也是奉命宗主的命令来追杀你，上命难为，不是我有意这样做的啊。
+DialogID_1326=<s>Who is it? You cannot enter without the permission token!
+DialogID_1327=<s>I basically don't give in to outsiders. This time it's for the sake of Bai Xiaosheng, but I will not promise you so easily. Go exterminate some Yading village bandits, and also help me to pick some green bamboo.
+DialogID_1328=Excuse me, as you are an outsider, all outsiders wanting to enter the teahouse must first obtain a permit from the king. You better go find the king to obtain the permit.
+DialogID_1329=What natural ability!
+DialogID_1330=<s>Have mercy great hero, I don't dare anymore. I am a Secret Association disciple sent by our head to conduct reconnaissance. Our head is still inside the teahouse.
+DialogID_1331=<s>Great hero, have… have mercy! I am following the orders of the leader in pursuing you. It is difficult for me, and it was not my intention to do this.
 DialogID_1332=<s>DialogID_1332
-DialogID_1333=<s>想不到你穿成这个样子还蛮秀气的，真是比我女儿国的姑娘还好看啊。
-DialogID_1334=<s>哟，小美女，要不要大爷好好疼你啊，哈哈哈！
+DialogID_1333=<s>You even look elegant in this outfit, really more good-looking than the ladies of Nation of Girls.
+DialogID_1334=<s>Yo, pretty little lady, want to let me spoil you? Hahaha!
 DialogID_1335=<s>DialogID_1335
-DialogID_1336=<s>我看你到处在问人是否刚才看到你在这里和恶人打斗。我可以给你证明，我看到的。
-DialogID_1339=<s>大侠我什么都没干啊，那个大成的确是被抓了，他们把他抓到村子附近的山沟里去了。
+DialogID_1336=<s>I see you are asking others if they have seen you fighting the evildoers just now. I can guarantee it for you, I saw it.
+DialogID_1339=<s>I didn't do anything. Da Cheng has indeed been captured. They brought him into the nearby gully.
 DialogID_1340=<s> Thanks for saving my life, {@IDName:Player}.
-DialogID_1341=　　你又做了一件好事啊。快去告诉将军刺客抓到了吧！
-QiecuoMenu_1326=某身经百战，从未避战，来吧！
-QiecuoMenu_1327=找的就是你，敢在这里闹事！
-QiecuoMenu_1328=少说废话，还不束手就擒。
-QiecuoMenu_1329=哈哈哈哈，雕虫小技，也敢班门弄斧！
-QiecuoMenu_1330=原来是你这个混蛋陷我于不义，看我怎么收拾你！
-QiecuoMenu_1331=在下冒犯了！
-QiecuoTitle_1326=<s>阁下小心了！
-QiecuoTitle_1327=<s>别人看我都跑，你个不长眼的，找死。
-QiecuoTitle_1328=<s>哼，竟然被你找到这里来了。
-QiecuoTitle_1329=<s>你竟然是假扮的！我要你的命！
-QiecuoTitle_1330=<s>你怎么老是坏我们的事！上次扮成你的样子刺杀女王难道没害死你么！
-QiecuoTitle_1331=<s>不要怕伤了我，来吧。
-collectinfo_1325=收集<a href="findnpc_new,scene04,Gather0034cc" style="HLStype1">青竹</a>
-collectinfo_1326=收集<a href="findnpc_new,scene04,Gather0035cc" style="HLStype1">腰牌</a>
-convoyinfo_1325=护送大成
-hunterinfo_1325=击败<a href="findnpc_new,scene04,monf043600" style="HLStype1">亚丁村土匪</a>
-hunterinfo_1326=击败<a href="findnpc_new,scene04,WorldNpc05949" style="HLStype1">米柔</a>
-hunterinfo_1327=击败<a href="findnpc_new,scene04,WorldNpc05950" style="HLStype1">密宗弟子</a>
-hunterinfo_1328=击败<a href="findnpc_new,scene04,WorldNpc05951" style="HLStype1">恶人头目</a>
-hunterinfo_1329=击败<a href="findnpc_new,scene04,WorldNpc05952" style="HLStype1">密宗门人</a>
-hunterinfo_1330=击败<a href="findnpc_new,scene04,WorldNpc05955" style="HLStype1">密宗门人</a>
-hunterinfo_1331=击败<a href="findnpc_new,scene04,WorldNpc05958" style="HLStype1">张三丰</a>
-hunterinfo_1332=击败<a href="findnpc_new,scene04,monf045301" style="HLStype1">六扇门斥候</a>
-interactinfo_1325=巫师叫你去<a href="findnpc_new,scene04,EventNpc28625" style="HLStype1">女儿国</a>看看
-interactinfo_1326=与<a href="findnpc_new,scene04,WorldNpc05947" style="HLStype1">女儿国守卫</a>交谈
-interactinfo_1327=去找<a href="findnpc_new,scene04,WorldNpc05959" style="HLStype1">姜子奇</a>帮忙
-interactinfo_1328=与<a href="findnpc_new,scene04,WorldNpc05838" style="HLStype1">陆辉</a>交谈
-interactinfo_1329=与<a href="findnpc_new,scene04,WorldNpc05948" style="HLStype1">崔馨梦</a>交谈
-interactinfo_1330=与<a href="findnpc_new,scene04,WorldNpc05950" style="HLStype1">密宗弟子</a>交谈
-interactinfo_1331=与<a href="findnpc_new,scene04,WorldNpc05951" style="HLStype1">恶人头目</a>交谈
-interactinfo_1332=女王叫你去<a href="findnpc_new,scene04,EventNpc28637" style="HLStype1">村中</a>探查一下
-interactinfo_1333=与<a href="findnpc_new,scene04,WorldNpc05948" style="HLStype1">崔馨梦</a>交谈
-interactinfo_1334=与<a href="findnpc_new,scene04,WorldNpc05952" style="HLStype1">密宗门人</a>交谈
-interactinfo_1335=去<a href="findnpc_new,scene04,EventNpc28641" style="HLStype1">村子里</a>寻找证据
-interactinfo_1336=与<a href="findnpc_new,scene04,WorldNpc05953" style="HLStype1">萧谦</a>交谈
-interactinfo_1337=去<a href="findnpc_new,scene04,EventNpc28649" style="HLStype1">城外</a>追踪密宗细作
-interactinfo_1338=去<a href="findnpc_new,scene04,EventNpc28651" style="HLStype1">河边</a>寻找线索
-interactinfo_1339=与<a href="findnpc_new,scene04,WorldNpc05952" style="HLStype1">密宗门人</a>交谈
-interactinfo_1340=与<a href="findnpc_new,scene04,WorldNpc05956" style="HLStype1">大成</a>交谈
-interactinfo_1341=与<a href="findnpc_new,scene04,WorldNpc05953" style="HLStype1">萧谦</a>交谈
-okmenu_1326=看样子，还是先去找百晓生想想办法吧。
-okmenu_1327=这个自然没有问题，只要先生遵守承诺就好。
-okmenu_1328=好，我先去拜见国王。
-okmenu_1329=承蒙女王夸赞，但在下看女王似有烦心之事？
-okmenu_1330=如果你说的是假的话，我饶不了你。这么重要的事，我得赶紧向将军汇报才行。
-okmenu_1331=现在说这些有什么用，你还是一会跟女儿国国王说吧。
-okmenu_1333=女王就莫要取笑我了，我去办事了。
-okmenu_1334=哼，睁开你们的狗眼看清楚。不过现在，你们就是后悔也来不及了。
-okmenu_1336=那太好了，终于能证明我清白的证据了。
-okmenu_1339=不错，还挺老实的。
-okmenu_1340=客气话就不要说了，你女人等你很久了，我护送你回去吧。
+DialogID_1341=You have done another good deed. Quickly go tell the general that the assassin has been captured!
+QiecuoMenu_1326=I have yet to flee from a hundred battles, come on!
+QiecuoMenu_1327=I am looking for you. How dare you make trouble here?
+QiecuoMenu_1328=Less idle talk, wait to be captured!
+QiecuoMenu_1329=Hahahaha, you dare to show your little tricks in front of the great master?
+QiecuoMenu_1330=So it was you who sabotaged me to no end, I must teach you a lesson!
+QiecuoMenu_1331=No offense.
+QiecuoTitle_1326=<s>You must be careful!
+QiecuoTitle_1327=<s>Everyone flees when they see me, but you don't. Are you looking for your own death?
+QiecuoTitle_1328=<s>Hmph, you managed to find me.
+QiecuoTitle_1329=<s>You are actually in disguise! I want your life!
+QiecuoTitle_1330=<s>Why do you always spoil my plans? Last time I impersonated you and killed the queen, why are you not dead yet?
+QiecuoTitle_1331=<s>Don't be afraid of hurting me, come on.
+collectinfo_1325=Collect <a href="findnpc_new,scene04,Gather0034cc" style="HLStype1">green bamboo</a>
+collectinfo_1326=Collect <a href="findnpc_new,scene04,Gather0035cc" style="HLStype1">waist token</a>
+convoyinfo_1325=Escort Da Cheng
+hunterinfo_1325=Defeat <a href="findnpc_new,scene04,monf043600" style="HLStype1">Yading Village Bandits</a>
+hunterinfo_1326=Defeat <a href="findnpc_new,scene04,WorldNpc05949" style="HLStype1">Mi Rou</a>
+hunterinfo_1327=Defeat <a href="findnpc_new,scene04,WorldNpc05950" style="HLStype1">Secret Association disciple</a>
+hunterinfo_1328=Defeat <a href="findnpc_new,scene04,WorldNpc05951" style="HLStype1">Thug Leader</a>
+hunterinfo_1329=Defeat <a href="findnpc_new,scene04,WorldNpc05952" style="HLStype1">Secret Association Follower</a>
+hunterinfo_1330=Defeat <a href="findnpc_new,scene04,WorldNpc05955" style="HLStype1">Secret Association Follower</a>
+hunterinfo_1331=Defeat <a href="findnpc_new,scene04,WorldNpc05958" style="HLStype1">Zhang Sanfeng</a>
+hunterinfo_1332=Defeat <a href="findnpc_new,scene04,monf045301" style="HLStype1">Six Gates scouts</a>
+interactinfo_1325=The wizard tells you to go to <a href="findnpc_new,scene04,EventNpc28625" style="HLStype1">Nation of Girls</a>.
+interactinfo_1326=Talk with <a href="findnpc_new,scene04,WorldNpc05947" style="HLStype1">Nation of Girls Guard</a>
+interactinfo_1327=Go find <a href="findnpc_new,scene04,WorldNpc05959" style="HLStype1">Jiang Ziqi</a>
+interactinfo_1328=Talk with <a href="findnpc_new,scene04,WorldNpc05838" style="HLStype1">Lu Hui</a>
+interactinfo_1329=Talk with <a href="findnpc_new,scene04,WorldNpc05948" style="HLStype1">Cui Xinmeng</a>
+interactinfo_1330=Talk with <a href="findnpc_new,scene04,WorldNpc05950" style="HLStype1">Secret Association disciple</a>
+interactinfo_1331=Talk with <a href="findnpc_new,scene04,WorldNpc05951" style="HLStype1">Thug Leader</a>
+interactinfo_1332=The queen tells you to go to <a href="findnpc_new,scene04,EventNpc28637" style="HLStype1">the village center</a> to investigate.
+interactinfo_1333=Talk with <a href="findnpc_new,scene04,WorldNpc05948" style="HLStype1">Cui Xinmeng</a>
+interactinfo_1334=Talk with <a href="findnpc_new,scene04,WorldNpc05952" style="HLStype1">Secret Association Follower</a>
+interactinfo_1335=Go to <a href="findnpc_new,scene04,EventNpc28641" style="HLStype1">inside the village</a> to look for evidence.
+interactinfo_1336=Talk with <a href="findnpc_new,scene04,WorldNpc05953" style="HLStype1">Xiao Qian</a>
+interactinfo_1337=Go to <a href="findnpc_new,scene04,EventNpc28649" style="HLStype1">outside the city</a> in pursuit of Secret Association agent.
+interactinfo_1338=Go to <a href="findnpc_new,scene04,EventNpc28651" style="HLStype1">riverside</a> to look for leads.
+interactinfo_1339=Talk with <a href="findnpc_new,scene04,WorldNpc05952" style="HLStype1">Secret Association Follower</a>
+interactinfo_1340=Talk with <a href="findnpc_new,scene04,WorldNpc05956" style="HLStype1">Da Cheng</a>
+interactinfo_1341=Talk with <a href="findnpc_new,scene04,WorldNpc05953" style="HLStype1">Xiao Qian</a>
+okmenu_1326=Looks like we better go find Bai Xiaosheng to think of solutions.
+okmenu_1327=There is no problem if you keep your promises.
+okmenu_1328=Ok, I shall go greet the King.
+okmenu_1329=Thank you! Is there anything bothering you?
+okmenu_1330=If you are telling lies, I will not have mercy on you. I must bring such an important matter to the attention of the general.
+okmenu_1331=What's the use of saying all this now? You better speak with the Nation of Girls queen.
+okmenu_1333=Please don't make fun of me. I have to go now.
+okmenu_1334=Hmph, open your eyes to see clearly. But now, it is too late for you to have regrets.
+okmenu_1336=That is too good to be true, I finally have evidence to prove my innocence.
+okmenu_1339=Not bad, you are honest.
+okmenu_1340=No need to be polite. Your wife has been waiting a long time for you, let me escort you back.
 okmenu_1341=Ok.
-story_1325_1=哎，前些日子，街上来了一个武功高强的恶人，整日寻衅滋事。我派将军屡次拿他都被他逃脱？
-story_1325_2=详细的情况你去问女将军吧，她知道的比较清楚。
-story_1326_1=<s>你走之后，来了一个身手很厉害的刺客刺杀女王，幸亏我救驾及时，他才没有得逞。
-story_1326_2=<s>那人在逃跑的时候被我一剑挑掉了面巾，竟然是你的脸，你说不是你是谁。
-story_1327_1=<s>你屡次破坏我们的计划，宗主早就想将你除之而后快
-story_1327_2=<s>宗主说你身手不凡，不容易对付，就叫我们玩阴的，最好嫁祸于你，借刀杀人。
-story_1328_2=<s>太极之道，在于太极生两仪，两仪生四象，四象生八卦，八卦生无穷，以静制动，以柔克刚，一招一式，均是无穷无尽的变化，四两拨千斤之效。你日后习武，需勤思考，悟出属于你自己的招式。
-story_menu_1325=若在在下力所能及的范围内，在下定当为女王效劳。
-story_menu_1326=<s>到底出了什么事，请将军给我说清楚，若是怀疑我，我也不会逃跑。
-story_menu_1327=<s>你们到底有何目的？
-story_menu_1328=若能得到您的半点教诲，在下定当受用不尽！
-storyinfo_1325=听<a href="findnpc_new,scene04,WorldNpc05948" style="HLStype1">崔馨梦</a>诉说
-storyinfo_1326=听<a href="findnpc_new,scene04,WorldNpc05949" style="HLStype1">米柔</a>诉说
-storyinfo_1327=听<a href="findnpc_new,scene04,WorldNpc05957" style="HLStype1">密宗门人</a>诉说
-storyinfo_1328=听<a href="findnpc_new,scene04,WorldNpc05958" style="HLStype1">张三丰</a>诉说
-storymenu_1325_1=此人究竟是何来历？为何要来此闹事？
-storymenu_1325_2=好的，女王。
-storymenu_1326_1=那为什么说是我刺杀的女王？
-storymenu_1326_2=我现在要去见女王，把一切都解释清楚。
-storymenu_1327_1=所以就派你们一直追杀我到女儿国？那为什么不直接杀我而是扮成我的样子去刺杀女王？
-storymenu_1327_2=呵呵，原来你们是如此地阴险啊。
-storymenu_1328_1=在下听闻太极的博大精精深。
-storymenu_1328_2=在下明白了。
-useiteminfo_1325=使用<a href="TASK_ITEM,useitem_019cc" style="HLStype1">女儿国服饰</a>
-useiteminfo_1326=对<a href="findnpc_new,scene04,WorldNpc05957" style="HLStype1">密宗门人</a>使用<a href="TASK_ITEM,useitem_020cc" style="HLStype1">迷魂散</a>
+story_1325_1=(Sigh), a few days ago there was a highly-skilled evildoer causing chaos on the street. The general of my sect has tried to capture him many times but failed?
+story_1325_2=Ask the female general for the details, she knows more clearly than I do.
+story_1326_1=<s>After you left, a highly-skilled assassin came to assassinate the queen. Fortunately, I managed to save her on time.
+story_1326_2=<s>I unveiled that person whilst he was in the midst of escaping, and he had your face! Tell me who you are.
+story_1327_1=<s>You have spoiled our plans many times. The head cultist wants to kill you so as to make our lives easier.
+story_1327_2=<s>The head cultist said you have extraordinary skills and are difficult to deal with. So he told us to be insidious and borrow your knife to kill others,
+story_1328_2=<s>The way of Taiji lies in the birth of two notions, which give rise to four faces, which give rise to the eight trigrams, which give rise to what has no boundaries. From calmness to control movement, using softness to conquer hardness. Every move is boundless and limitless change. When you practice your martial arts, you need to be thinking and considering diligently, so as to come up with your own moveset.
+story_menu_1325=If it is within my means, I will definitely do it for you.
+story_menu_1326=<s>What really happened? Please tell me clearly, general. If you suspect me, I will not escape also.
+story_menu_1327=<s>What motive do you have?
+story_menu_1328=If you give me half a tip, I will definitely use it endlessly!
+storyinfo_1325=Listen to <a href="findnpc_new,scene04,WorldNpc05948" style="HLStype1">Cui Xinmeng</a>.
+storyinfo_1326=Listen to <a href="findnpc_new,scene04,WorldNpc05949" style="HLStype1">Mi Rou</a>.
+storyinfo_1327=Listen to <a href="findnpc_new,scene04,WorldNpc05957" style="HLStype1">Secret Association Follower</a>.
+storyinfo_1328=Listen to <a href="findnpc_new,scene04,WorldNpc05958" style="HLStype1">Zhang Sanfeng</a>.
+storymenu_1325_1=Where is this person from? Why make trouble here?
+storymenu_1325_2=Alright, Your Highness.
+storymenu_1326_1=So why did you say it was me who assassinated the queen?
+storymenu_1326_2=I want to see the queen now, to explain everything clearly.
+storymenu_1327_1=So he sent you to pursue me to Nation of Girls? Then why not kill me directly but instead impersonate me to assassinate the queen?
+storymenu_1327_2=Hehe, so you are this devious.
+storymenu_1328_1=I have heard of Taiji's vastness and profoundness.
+storymenu_1328_2=I understand now.
+useiteminfo_1325=Use <a href="TASK_ITEM,useitem_019cc" style="HLStype1">Nation of Girls outfit</a>
+useiteminfo_1326=Use <a href="TASK_ITEM,useitem_020cc" style="HLStype1">Enchantment Powder</a> on <a href="findnpc_new,scene04,WorldNpc05957" style="HLStype1">Secret Association Follower</a>
 

@@ -1841,7 +1841,6 @@ context_24090=霓裳宮弟子前來峨眉確是有要是相商，沒想到竟然
 context_24091=遠處似乎有打鬥聲，不知何人在峨眉動武...
 context_24092=蕭靈希望能夠除去這些天香茶林中人，義不容辭只身前往。
 context_24093=峨眉弟子說金珠尼似乎有問題。如今只能找到金珠尼，看她來此究竟有何陰謀。
-context_24105=<s>土司……土司他們來報復了……他們搶走了我們辛辛苦苦收集的藥材，還打傷了我的女婿貢布，連我的女兒卓瑪也被他們搶走了！
 context_24106=　　謝謝恩人，可是，阿爸辛苦採集的藥材……
 context_24107=　　嗯，這才證明我沒有看錯人。我正好研究出一種能緩解傷勢的冷凝紫香丸，藥材我也已找齊，就麻煩少俠去幫忙取來搗碎，製成藥丸吧！
 context_24108=　　那就多謝恩人了。咦，門外好像是帕卓的聲音，他怎麼來了？
@@ -2910,7 +2909,6 @@ next_24100=<s>詢問<a href="findnpc_new,scene04,WorldNpc05928" style="HLStype1"
 next_24102=<s>告訴<a href="findnpc_new,scene04,WorldNpc05928" style="HLStype1">藏民頓珠</a>檢驗屍體一事我來負責……
 next_24103=<s>詢問<a href="findnpc_new,scene04,WorldNpc05923" style="HLStype1">巫醫格桑德吉</a>我應該怎麼做？
 next_24104=<s>詢問<a href="findnpc_new,scene04,WorldNpc05922" style="HLStype1">老漢波扎西</a>因何事哭泣？
-next_24105=<s>安慰哭泣的<a href="findnpc_new,scene04,WorldNpc05851" style="HLStype1">卓瑪</a>……
 next_24106=<s>詢問<a href="findnpc_new,scene04,WorldNpc05926" style="HLStype1">阿媽拉珍</a>貢布傷勢如何？
 next_24107=<s>詢問<a href="findnpc_new,scene04,WorldNpc05925" style="HLStype1">帕卓</a>有什麼事情？
 next_24108=<s>詢問<a href="findnpc_new,scene04,WorldNpc05923" style="HLStype1">巫醫格桑德吉</a>什麼疑點？
@@ -3523,7 +3521,6 @@ target_24090=擊退五仙教殺手
 target_24091=聽聞打鬥聲，前去查看究竟
 target_24092=擊敗天香茶林打手
 target_24093=找到金珠尼詢問她此番前來峨眉究竟有何陰謀
-target_24105=<s>教訓土司和打手，並奪回藥簍，找到被搶走的藏族姑娘卓瑪
 target_24106=<s>保護卓瑪離開此地
 target_24107=<s>收集一份貝母、一份山藥。然後利用藥罐搗碎後製作冷凝紫香丸
 target_24108=<s>去門口看看帕卓為何事而來
@@ -4278,7 +4275,6 @@ title_24090=殺手突襲
 title_24091=中途遇襲
 title_24092=茶林兇徒
 title_24093=五仙毒計
-title_24105=外來死屍
 title_24106=外來死屍
 title_24107=外來死屍
 title_24108=外來死屍
@@ -4852,4 +4848,8 @@ task_TrackInfo_24208=匯報給<a href="findnpc_new,city05,WorldNpc09801" style="
 task_TrackInfo_25212=與<a href="findnpc_new,city05,WorldNpc09804" style="HLStype1">浣花山莊初級弟子</a>交談
 task_TrackInfo_25213=與<a href="findnpc_new,city05,WorldNpc09803" style="HLStype1">浣花山莊大弟子</a>交談
 task_TrackInfo_25215=與<a href="findnpc_new,city05,WorldNpc09801" style="HLStype1">浣花山莊掌門</a>交談
+context_24105=離家多日，還是盡早回家看看
+next_24105=
+target_24105=回到家中看望親人。
+title_24105=近鄉情怯
 

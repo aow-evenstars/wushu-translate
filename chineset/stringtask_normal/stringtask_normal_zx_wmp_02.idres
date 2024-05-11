@@ -2,7 +2,6 @@
 CanAcceptMenu_51501=<font face="Default" color="#ffffff" >天下變</font>
 CanAcceptMenu_51502=<font face="Default" color="#ffffff" >江湖勢力無根門</font>
 CanAcceptMenu_51503=<font face="Default" color="#ffffff" >江湖勢力</font><font face="Default" color="#ffffff" >移花宮</font>
-CanAcceptMenu_51505=<font face="Default" color="#ffffff" >八大門派</font>
 CanAcceptMenu_51506=<font face="Default" color="#ffffff" >江湖勢力介紹</font>
 CanAcceptMenu_51621=<font face="Default" color="#ffffff" >拜入師門</font>
 CanAcceptMenu_51622=<font face="Default" color="#ffffff" >拜入師門</font>
@@ -23,7 +22,6 @@ CanAcceptMenu_51636=<font face="Default" color="#ffffff" >晚輩希望能拜入�
 CompleteMenu_51501=<font face="Default" color="#ffffff" >天下變(完成)</font>
 CompleteMenu_51502=<font face="Default" color="#ffffff" >這是大和尚托我送來的書信，請收下。</font>
 CompleteMenu_51503=<font face="Default" color="#ffffff" >江湖勢力移花宮</font>
-CompleteMenu_51505=<font face="Default" color="#ffffff" >多謝大和尚告知八大門派的信息。</font>
 CompleteMenu_51506=<font face="Default" color="#ffffff" >聽大和尚介紹江湖勢力</font>
 CompleteMenu_51621=<font face="Default" color="#ffffff" >在下素仰武當威名，故今日特來拜會，還請掌門勿怪在下唐突。</font>
 CompleteMenu_51622=<font face="Default" color="#ffffff" >在下素仰少林威名，故今日特來拜會，還請方丈勿怪在下唐突</font>
@@ -53,7 +51,6 @@ accept_51501_1=<font face="Default" color="#ffffff" >少俠老朽所為何事？
 accept_51502_1=<font face="Default" color="#ffffff" >近來老師</font><font face="Default" color="#ffffff" >回憶年少時的事情，想起以前的朋友，你幫我帶一封書信給無根門的一個朋友，並代我</font><font face="Default" color="#ffffff" >向他</font><font face="Default" color="#ffffff" >問候</font><font face="Default" color="#ffffff" >一下。</font>
 accept_51503_1=<font face="Default" color="#ffffff" >行走江湖雖說無門無派沒有約束和牽絆，但是有些時候會略顯勢單力薄，若是背後大勢力可依靠行走江湖多少說話也有些底氣</font><font face="Default" color="#ffffff" >，瞭解一些江湖勢力對你有所幫助。</font>
 accept_51504_1=<font face="Default" color="#ffffff" >行走江湖雖說無門無派沒有約束和牽絆，但是有些時候會略顯勢單力薄，若是背後大勢力可依靠行走江湖多少說話也有些底氣</font><font face="Default" color="#ffffff" >，</font><font face="Default" color="#ffffff" >瞭解一些江湖各勢力對你有所幫助。</font>
-accept_51505_1=<font face="Default" color="#ffffff" >行走江湖有些時日了，是不是發覺無門無派沒有背後勢力的依靠有時候多有不便呢？現在若是想加入八大門派大和尚我倒是可以幫你一些忙</font><font face="Default" color="#ffffff" >，只是各個門派的入門都是有些門檻限制的</font><font face="Default" color="#ffffff" >。</font>
 accept_51506_1=<font face="Default" color="#ffffff" >江湖險惡而今勢力紛起，多瞭解一些江湖勢力對你以後行走江湖有些幫助。</font>
 accept_51632_1=<font face="Default" color="#ffffff" >我們丐幫雖然號稱天下第一大幫，可都是一群吃了上頓沒下頓的叫花子，你年紀輕輕，應該有很多事情可以去做，加入我丐幫豈不是埋沒了大好前程？</font>
 accept_51633_1=<font face="Default" color="#ffffff" >我唐門是蜀中名門，暗器、毒藥冠絕天下，如果所有來入門的外姓弟子都要收，那這裡豈不成了客棧？</font>
@@ -63,7 +60,6 @@ accept_51636_1=<font face="Default" color="#ffffff" >極樂谷自創派以來，
 complete_51501=<font face="Default" color="#ffffff" >少俠老朽知道的也就這麼多了，但願能幫上你。</font>
 complete_51502=<font face="Default" color="#ffffff" >呵呵，送信的也無妨，想必你都瞭解我們無根門的入門要求了，若是</font><font face="Default" color="#ffffff" >以後</font><font face="Default" color="#ffffff" >想通了</font><font face="Default" color="#ffffff" >想拜入我們無根門</font><font face="Default" color="#ffffff" >隨時都可以來找我。</font>
 complete_51503=<font face="Default" color="#ffffff" >移花宮不收庸才，條件</font><font face="Default" color="#ffffff" >要求</font><font face="Default" color="#ffffff" >嚴格，若想加入必須達到</font><font face="Default" color="#ffffff" >他們</font><font face="Default" color="#ffffff" >的標準。</font>
-complete_51505=<font face="Default" color="#ffffff" >額，行走江湖一切隨心，萬事不要勉強自己，你若是想拜入八大門派</font><font face="Default" color="#ffffff" >，可以帶著這個密令去找八大門派的接引人，他們會指引你如何拜入八大門派門下。</font>
 complete_51621=<s>無量壽佛…不知閣下為何而來？
 complete_51622=<font face="Default" color="#ffffff" >阿彌陀佛…貴客遠道而來，老衲豈能怠慢。但不知</font><font face="Default" color="#ffffff" >施主</font><font face="Default" color="#ffffff" >此來所為何事？</font>
 complete_51623=<s>阿彌陀佛…不知閣下有何見教？
@@ -84,8 +80,6 @@ context_51501=最近一段時間江湖不大太平，各路江湖人士來來去
 context_51502=大和尚年少時候曾與無根門一弟子有舊交，他托你帶封書信給這個多年未見的老友。
 context_51503=當今大世江湖勢力風起雲湧，行走江湖背後有個可以依賴的勢力，做起事來有時候可以事半功倍，去瞭解江湖上的各大勢力對你以後行走江湖有很多幫助。
 context_51504=當今大世江湖勢力風起雲湧，行走江湖背後有個可以依賴的勢力，做起事來有時候可以事半功倍，去瞭解江湖上的各大勢力對你以後行走江湖有很多幫助。
-context_51505=行走江湖已經有一段時間了，越發覺得無門無派勢單力薄，想找個可以依靠和庇佑的靠山，若想加入八大門派其中一派，只要自身條件滿足即可加入。
-context_51506=當今盛世，江湖勢力風起雲湧，一些勢力發展迅速，隱隱有比肩八大門派的趨勢，瞭解一些江湖上的勢力及其特點對以後行走江湖將有所幫助。
 context_51621=<s>汝既然想加入我武當，那就去拜見紫陽真人。如果你能通過考驗，就可成為我武當一員。
 context_51622=<s>快去拜見玄懷大師，懇請他收你為少林弟子。
 context_51623=<s>既然已經想拜入峨眉，就去峨眉看看吧。
@@ -145,7 +139,6 @@ submit_51635=<font face="Default" color="#ffffff" >在下一定牢記在心</fon
 submit_51636=<font face="Default" color="#ffffff" >弟子謹記</font>
 target_51501=最近江湖頗不太平暗潮湧動，聽屠泳訴說他所看到的變化。
 target_51503=瞭解移花宮的狀況
-target_51505=向大和尚瞭解加入八大門派有哪些要求和限制。
 target_51506=聽聽落魄的大和尚講述當今江湖上新崛起的勢力狀況
 target_51621=<s>前往武當，懇請掌門收你為徒。
 target_51622=<s>前往少林，懇請方丈收你為少林弟子。
@@ -190,7 +183,6 @@ task_menu_complete_51628=實不相瞞，在下想加入貴谷，潛修貴谷武�
 title_51501=天下變
 title_51502=江湖勢力無根門
 title_51503=江湖勢力移花宮
-title_51505=我想加入八大門派
 title_51506=江湖勢力(二)
 title_51601=結識邢君可
 title_51602=探查瑤光的下落
@@ -481,4 +473,32 @@ CompleteMenu_51504=<font face="Default" color="#ffffff" >我已經大致瞭解�
 complete_51504=<font face="Default" color="#ffffff" >想必你對第一軒的入門條件已經有所瞭解了吧</font>
 target_51504=瞭解第一軒的狀況。
 title_51504=江湖勢力第一軒
+CanAcceptMenu_51637=<font face="Default" color="#ffffff" >拜入師門</font>
+CanAcceptMenu_51638=<font face="Default" color="#ffffff" >拜入師門(可承接)</font>
+CompleteMenu_51637=<font face="Default" color="#ffffff" >完成任務</font>
+CompleteMenu_51638=<font face="Default" color="#ffffff" >拜入師門(可提交)</font>
+accept_51637_1=<font face="Default" color="#ffffff" >  汝既然想加入明教，那就去拜見教主大人。如果你能通過考驗，就可成為我明教一員。</font>
+accept_51638_1=<font face="Default" color="#ffffff" >你既加入本教，有些事便不得不知。</font>
+complete_51637=<font face="Default" color="#ffffff" >…不知閣下為何而來？</font>
+complete_51638=<font face="Default" color="#ffffff" >那麼即刻起你就是我明教的弟子了。</font>
+context_51637=汝既然想加入明教，那就去拜見教主大人。如果你能通過考驗，就可成為我明教一員。
+context_51638=聽明時月講述明教教義與教眾使命。
+menu_51637_1=<font face="Default" color="#ffffff" >容我考慮一下。</font>
+menu_51638_1=<font face="Default" color="#ffffff" >弟子靜聽教誨。</font>
+next_51637=
+next_51638=
+submit_51637=<font face="Default" color="#ffffff" >在下素仰明教威名，故今日特來拜會，還請掌門勿怪在下唐突。</font>
+submit_51638=<font face="Default" color="#ffffff" >謝教主。</font>
+target_51637=前往明教，懇請教主收你為徒。
+target_51638=與教主對話。
+title_51637=前往明教
+title_51638=拜入師門
+CanAcceptMenu_51505=<font face="Default" color="#ffffff" >九大宗門</font>
+CompleteMenu_51505=<font face="Default" color="#ffffff" >多謝大和尚告知九大宗門的信息。</font>
+accept_51505_1=<font face="Default" color="#ffffff" >行走江湖有些時日了，是不是發覺無門無派沒有背後勢力的依靠有時候多有不便呢？現在若是想加入九大宗門大和尚我倒是可以幫你一些忙</font><font face="Default" color="#ffffff" >，只是各個門派的入門都是有些門檻限制的</font><font face="Default" color="#ffffff" >。</font>
+complete_51505=<font face="Default" color="#ffffff" >額，行走江湖一切隨心，萬事不要勉強自己，你若是想拜入九大宗門</font><font face="Default" color="#ffffff" >，可以帶著這個密令去找九大宗門的接引人，他們會指引你如何拜入九大宗門門下。</font>
+context_51505=行走江湖已經有一段時間了，越發覺得無門無派勢單力薄，想找個可以依靠和庇佑的靠山，若想加入九大宗門其中一派，只要自身條件滿足即可加入。
+context_51506=當今盛世，江湖勢力風起雲湧，一些勢力發展迅速，隱隱有比肩九大宗門的趨勢，瞭解一些江湖上的勢力及其特點對以後行走江湖將有所幫助。
+target_51505=向大和尚瞭解加入九大宗門有哪些要求和限制。
+title_51505=我想加入九大宗門
 

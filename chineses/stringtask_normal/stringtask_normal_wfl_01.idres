@@ -1023,9 +1023,6 @@ accept_176_1=<font face="Default" color="#ffffff" >Now, even a strong defense ca
 accept_181_1=<font face="Default" color="#ffffff" >Now, even a strong defense can be broken with a single, skillful blow. Let us show you.</font>
 accept_186_1=<font face="Default" color="#ffffff" >Now, even a strong defense can be broken with a single, skillful blow. Let us show you.</font>
 accept_191_1=<font face="Default" color="#ffffff" >We will teach you to shatter the strongest defenses with a flurry of attacks or a single, skillful blow.</font>
-accept_40_1=<font face="Default" color="#ffffff" >Though you still have much to learn, you are ready to study at one of the Eight Schools. Huan Yihong, the coachman outside town, will tell you more.</font>
-accept_50_1=<font face="Default" color="#ffffff" >I have heard that the eight Major Schools are recruiting right now. They have unique skills that I cannot teach you. Find the Coachman, and ask him to tell you more about the schools.</font>
-accept_59_1=<font face="Default" color="#ffffff" >I have heard that the eight major schools are recruiting right now. This is a good opportunity for you. Find a coachman, and ask him to tell you more about the schools.</font>
 accept_60_1=<font face="Default" color="#ffffff" >Well done! Tell the Shifu of your progress.</font>
 accept_62_1=<font face="Default" color="#ffffff" >Well done! Tell the Shifu of your progress.</font>
 accept_63_1=
@@ -1058,10 +1055,6 @@ context_176=<font face="Default" color="#ffffff" >Now, even a strong defense can
 context_181=<font face="Default" color="#ffffff" >Now, even a strong defense can be broken with a single, skillful blow. Let us show you.</font>
 context_186=<font face="Default" color="#ffffff" >Now, even a strong defense can be broken with a single, skillful blow. Let us show you.</font>
 context_191=<font face="Default" color="#ffffff" >A  strong defense can be broken with a single, skillful blow. Speak with your Elder Brothers to learn how.</font>
-context_40=<s>The Eight Schools are recruiting. The coachman can tell you more about each School before taking you there.
-context_49=Why not speak to the Coachman about joining a school. There is a wealth of information to be found in a school, among other things.
-context_50=Speak to the Coachman to learn about joining a school.
-context_59=<s>I have heard that the eight major schools are recruiting right now. This is a good opportunity for you. Find a coachman, and ask him to tell you more about the schools.
 context_60=You've mastered the basics in such a short amount of time! Report your progress to the Shifu now.
 context_62=Well done! Tell the Shifu of your progress.
 context_63=A master balances External and Internal skills, or strength and chi. You must become comfortable using both. Study this "Sit and Breathe" script, and report back to me.
@@ -1604,7 +1597,7 @@ CompleteMenu_433=<font face="Default" color="#ffffff" >Digging at the foot of th
 CompleteMenu_434=<font face="Default" color="#ffffff" >Killing Li Ju</font>
 CompleteMenu_479=<font face="Default" color="#ffffff" >Fulfill the task.</font>
 CompleteMenu_480=<font face="Default" color="#ffffff" >Fulfill the task.</font>
-accept_123_1=<font face="Default" color="#ffffff" >  </font>
+accept_123_1=<font face="Default" color="#ffffff" > </font>
 accept_202_1=<font face="Default" color="#ffffff" >In this </font><font face="Default" color="#ffffff" >early Spring</font><font face="Default" color="#ffffff" >, I feel myself in a poetic mood. Would you like to join me in drinking wine and writing poetry? </font>
 accept_228_1=<font face="Default" color="#ffffff" >Not bad, youngster. What do you want with me?</font>
 accept_229_1=<font face="Default" color="#ffffff" >I have not done this for many years. Ask Eunuch Dong about it.</font>
@@ -2060,7 +2053,6 @@ accept_394_1=<font face="Default" color="#ffffff" >People of Jianghu have always
 accept_395_1=<font face="Default" color="#ffffff" >People of Jianghu have always lived by means of martial arts. Great Hero, you should travel to the major forbidden instances with some friends, make new friends through martial arts, and celebrate the holidays together!</font>
 accept_396_1=<font face="Default" color="#ffffff" >People of Jianghu have always lived by means of martial arts. Great Hero, you should travel to the major forbidden instances with some friends, make new friends through martial arts, and celebrate the holidays together!</font>
 accept_397_1=<font face="Default" color="#ffffff" >People of Jianghu have always lived by means of martial arts. Great Hero, you should travel to the major forbidden instances with some friends, make new friends through martial arts, and celebrate the holidays together!</font>
-accept_68_1=<font face="Default" color="#ffffff" >I have heard that the eight major schools are recruiting right now. This is a good opportunity for you. Find a coachman, and ask him to tell you more about the schools.</font>
 accept_79_1=<font face="Default" color="#ffffff" >It's that time of year again when the students of the kingdom take their entrance examinations. The emperor has given us orders to prepare a gift pack for all of the </font><font face="Default" color="#ffffff" >students in the kingdom </font><font face="Default" color="#ffffff" >for motivation and encouragement.</font>
 accept_80_1=<font face="Default" color="#ffffff" >As a token of our appreciation of the many players of Age of Wushu and their ongoing support, we have prepared a National Day Gift for our players. </font>
 complete_298=<font face="Default" color="#ffffff" >Are you sure you want to redeem the Summer Fiesta Gift Pack (Work with Ease)</font><font face="Default" color="#ffffff" >?</font>
@@ -2120,7 +2112,6 @@ context_395=Your power has reached Peak of Power, which of course ensures it is 
 context_396=Your power has reached Peak of Power, which of course ensures it is now safe for you to experiment with you power by taking a bold adventure into the so-called free and restricted Jianghu. You might consider go through Martial Arts Celebration Challenge quest to be rewarded with abundant awards.
 context_397=Your power has reached Peak of Power, which of course ensures it is now safe for you to experiment with you power by taking a bold adventure into the so-called free and restricted Jianghu. You might consider go through Martial Arts Celebration Challenge quest to be rewarded with abundant awards.
 context_398=Help Traveling Old Man Zhou Yixian gather Jackdaw Herb to solve his problem.
-context_68=<s>I have heard that the eight major schools are recruiting right now. This is a good opportunity for you. Find a coachman, and ask him to tell you more about the schools.
 context_79=It's that time of year again when the students of the kingdom take their entrance examinations. The emperor has given us orders to prepare a "Student Gift Pack" to give to all of the students in the kingdom. We wish you academic success!
 context_80=As a token of our appreciation of the many players of Age of Wushu and their ongoing support, we have prepared a National Day Gift for our players. Happy holiday gaming, Heroes!
 menu_298_1=<font face="Default" color="#ffffff" >I want to collect a </font><font face="Default" color="#ffffff" >gift</font>.
@@ -2736,19 +2727,37 @@ complete_98=<font face="Default" color="#ffffff" >This is the reward.</font>
 context_98=During the event, you can get the task Cultivate Often - Show Your Power in Battlefield from Ning Jiuhui (Traveler) in Suzhou (423.794) and Chengdu (923.551).
 next_98=Find Ning Jiuhui in Suzhou (423.794) and Chengdu (923.551)
 submit_98=<font face="Default" color="#ffffff" >I'm back.</font>
-target_98=Attend the battlefield and win by solo to complete the quest (Both Muyun Villa or Ancient Tomb Battlefield are OK)
 menu_98_1=<font face="Default" color="#ffffff">I'll do it!</font>
 title_98=Cultivate Often - Show Your Power in Battlefield
-CanAcceptMenu_83=<font face="Default" color="#ffffff" >Jianghu in Summer: Conflict</font>
-CanAcceptMenu_84=<font face="Default" color="#ffffff" >Jianghu in Summer: Experience</font>
-CanAcceptMenu_85=<font face="Default" color="#ffffff" >Jianghu in Summer: Cultivation</font>
-CanAcceptMenu_86=<font face="Default" color="#ffffff" >Jianghu in Summer: Challenge.</font>
-context_83=During the event, you can get the task Jianghu in Summer: Conflict from Ning Jiuhui (Traveler) in Suzhou (423.794) and Chengdu (923.551).
-context_84=During the event, you can get the task Jianghu in Summer: Experience from Ning Jiuhui (Traveler) in Suzhou (423.794) and Chengdu (923.551).
-context_85=During the event, you can get the task Jianghu in Summer: Cultivation from Ning Jiuhui (Traveler) in Suzhou (423.794) and Chengdu (923.551).
-context_86=During the event, you can get the task Jianghu in Summer: Challenge from Ning Jiuhui (Traveler) in Suzhou (423.794) and Chengdu (923.551).
-title_83=Jianghu in Summer: Conflict
-title_84=Jianghu in Summer: Experience
-title_85=Jianghu in Summer: Cultivation
-title_86=Jianghu in Summer: Challenge
+CanAcceptMenu_402=<font face="Default" color="#ffffff" >Why did the messenger come? </font>
+CompleteMenu_402=<font face="Default" color="#ffffff" >The special mission has been transferred.</font>
+accept_402_1=<font face="Default" color="#ffffff" >Our prince has grand ambitions. He wants to unify Jianghu. I have come here to summon you to surrender.  </font>
+complete_402=<font face="Default" color="#ffffff" >I see that you are very powerful. Why don't you join in with the prince? We are planning great things. If you add your strength to the prince's, we will be that much closer to success.</font>
+context_402=The tiny messenger of the Korean prince must be bold to threaten a grandmaster. But I have to respect the rules of our Central Plain and refrain from striking back. Hurry up and get out of encirclement.
+menu_402_1=<font face="Default" color="#ffffff" >Wait until I report to the grandmaster.</font>
+submit_402=<font face="Default" color="#ffffff" >The grandmaster is fettered by old conventions. I would rather renounce a bad cause and join the camp of justice. I'll leave the grandmaster to join the prince.</font>
+target_402=Resolve the embarrassment of the grandmaster.
+title_402=An arrogant messenger
+CanAcceptMenu_83=<font face="Default" color="#ffffff" >Enter the Dragon</font>
+CanAcceptMenu_84=<font face="Default" color="#ffffff" >Jianghu Experience</font>
+CanAcceptMenu_85=<font face="Default" color="#ffffff" >Diligent Cultivator</font>
+CanAcceptMenu_86=<font face="Default" color="#ffffff" >Forbidden Instance Challenge</font>
+accept_40_1=<font face="Default" color="#ffffff" >Though you still have much to learn, you are ready to study at one of the Eight Schools. Huan Yihong, the coachman outside town, will tell you more.</font>
+accept_50_1=<font face="Default" color="#ffffff" >I have heard that the eight Major Schools are recruiting right now. They have unique skills that I cannot teach you. Find the Coachman, and ask him to tell you more about the schools.</font>
+accept_59_1=<font face="Default" color="#ffffff" >I have heard that the eight major schools are recruiting right now. This is a good opportunity for you. Find a coachman, and ask him to tell you more about the schools.</font>
+accept_68_1=<font face="Default" color="#ffffff" >I have heard that the eight major schools are recruiting right now. This is a good opportunity for you. Find a coachman, and ask him to tell you more about the schools.</font>
+context_40=<s>The Eight Schools are recruiting. The coachman can tell you more about each School before taking you there.
+context_49=Why not speak to the Coachman about joining a school. There is a wealth of information to be found in a school, among other things.
+context_50=Speak to the Coachman to learn about joining a school.
+context_59=<s>I have heard that the eight major schools are recruiting right now. This is a good opportunity for you. Find a coachman, and ask him to tell you more about the schools.
+context_68=<s>I have heard that the eight major schools are recruiting right now. This is a good opportunity for you. Find a coachman, and ask him to tell you more about the schools.
+context_83=During the event, you can get the task Enter the Dragon from Ning Jiuhui (Traveler) in Suzhou (423.794) and Chengdu (923.551).
+context_84=During the event, you can get the task Jianghu Experience from Ning Jiuhui (Traveler) in Suzhou (423.794) and Chengdu (923.551).
+context_85=During the event, you can get the task Diligent Cultivator from Ning Jiuhui (Traveler) in Suzhou (423.794) and Chengdu (923.551).
+context_86=During the event, you can get the task Forbidden Instance Challenge from Ning Jiuhui (Traveler) in Suzhou (423.794) and Chengdu (923.551).
+target_98=Attend the battlefield and win by solo to complete the quest (Both Muyun Villa or Ancient Tomb Battlefield are OK)
+title_83=Enter the Dragon
+title_84=Jianghu Experience
+title_85=Diligent Cultivator
+title_86=Forbidden Instance Challenge
 

@@ -1,105 +1,105 @@
 ﻿
-DialogID_45675=你想听听我的故事么，可比牧之的好玩多了。
-DialogID_45676=好像做衣服的材料也不太够了，能帮我去收集点狐狸皮么？
-DialogID_45677=来得正好，西边索桥有一群索桥看守者，我有要事在身不能前去，你帮我去教训他们吧。
-DialogID_45678=我那天好像迷迷糊糊的听到他们在谈论挖什么宝贝，你能帮我去打探一下他们在挖什么东西么？
-DialogID_45679=你打死了狼，不过别浪费那些尸体啊，把狼肉一起搬回来啊。
-DialogID_45680=原来雪莲都被莲姬游荡者看管着，帮我去抢一些回来。
-DialogID_45681=天啊，我的珠链不见了，肯定是那天被打的时候掉在哪里了，帮我去找回来
-DialogID_45682=什么，皮袄做好了？可是我现在没时间去拿啊，你帮我跑一趟拿过来吧。
-DialogID_45683=那我就给你吧，你帮我带给他。
-DialogID_45684=莲姬还有很多外围势力，一并去教训他们吧。
-DialogID_45685=原来是被拦路恶贼抢去了，帮我去把皮货抢回来吧。
-DialogID_45686=哎呀，阿达的鱼终于送来了，我等不及要尝尝味道了，多谢啊。
-DialogID_45687=应该还有一批梵文经书，你再去打探一下梵文经书的下落吧。
-DialogID_45688=什么，菁儿被莲姬精英打伤了，岂有此理，你现在帮我去教训那些莲姬精英。
-DialogID_45689=我想探明那群莲姬的身份，你能帮我去收集他们的信物么？
-DialogID_45690=太好了，你现在就帮我把天山雪莲送给张菁吧。
-DialogID_45691=原来真是他们偷走了，太可恶了，帮我把鱼抢回来。
-DialogID_45692=你能帮我从彩雪蜘蛛那里收集些毒囊么？
-QiecuoMenu_45685=到底出了什么事
-QiecuoTitle_45685=原来你不是他们派来的。
+DialogID_45675=Do you want to hear my story? It's way better than Muzhi's.
+DialogID_45676=There isn't enough material to make clothes. Can you help me collect some Fox Leather?
+DialogID_45677=I'm glad you are here. There are a group of Rope Bridge Guards near that bridge west of here. I got my hands full and can't leave. Help me go teach them a lesson.
+DialogID_45678=I was dizzy that day and heard them talking about digging some kind of treasure. Can you help me find out what they are digging for?
+DialogID_45679=Don't waste those corpses after you kill those wolves. Bring back the Wolf Meat.
+DialogID_45680=The Wandering Lotus Beauty is hoarding all the Snow Lotus. Help me take some.
+DialogID_45681=Oh no, my necklace is gone. I must have dropped it somewhere when I was assaulted that day. Help me find it.
+DialogID_45682=The fur jacket is ready? But I'm busy and can't go pick it up. Help me get it.
+DialogID_45683=Help me give it to him then.
+DialogID_45684=The Lotus Beauty has many associates. Take care of them too.
+DialogID_45685=The Footpads robbed the fur products. Help me get them back.
+DialogID_45686=A-Da's fish is finally here. I can't wait to have a taste. Thank you.
+DialogID_45687=There should be another batch of Sanskrit Books. Go find where they are.
+DialogID_45688=What? Those Elite Lotus Beauties injured Jing Er? Unbelievable. Help me teach them a lesson.
+DialogID_45689=I want to find out those Lotus Beauties' identity. Can you help me collect their tokens?
+DialogID_45690=Great. Help me give this Snow Lotus to Zhang Jing.
+DialogID_45691=So they really stole them. How awful. Help me take the fish back.
+DialogID_45692=Can you help me collect some Poison Sacks from Colored Snow Spiders?
+QiecuoMenu_45685=What happened?
+QiecuoTitle_45685=So they didn't send you.
 ZZAnswerText1_3749=Snow Wolf
-ZZAnswerText2_3749=彩雪蜘蛛
+ZZAnswerText2_3749=Colored Snow Spider.
 ZZAnswerText3_3749=Snow Field Fox
-collectinfo_45675=从<a href="findnpc_new,scene06,monf061200" style="HLStype1">野牦牛</a>那里收集牦牛肉
-collectinfo_45676=从<a href="findnpc_new,scene06,monf060300" style="HLStype1">雪域妖狐</a>身上收集物品
-collectinfo_45677=收集<a href="findnpc_new,scene06,monf061606" style="HLStype1">庙宇寻宝者</a>
-collectinfo_45678=从<a href="findnpc_new,scene06,monf060100" style="HLStype1">血狼</a>身上收集狼肉
-collectinfo_45679=从<a href="findnpc_new,scene06,monf061402" style="HLStype1">莲姬游荡者</a>身上收集雪莲
-collectinfo_45680=从<a href="findnpc_new,scene06,monf061701" style="HLStype1">失心信徒</a>身上收集珠链
-collectinfo_45681=从<a href="findnpc_new,scene06,monf061801" style="HLStype1">拦路恶贼</a>上收集物品
-collectinfo_45682=从<a href="findnpc_new,scene06,monf061602" style="HLStype1">晒经台看护者</a>那里夺回密宗经书
-collectinfo_45683=从<a href="findnpc_new,scene06,monf061603" style="HLStype1">晒经台隐匿者</a>那里夺回梵文经书
-collectinfo_45684=从<a href="findnpc_new,scene06,monf061403" style="HLStype1">莲姬精英</a>身上收集信物玉佩
-collectinfo_45685=从<a href="findnpc_new,scene06,monf061403" style="HLStype1">莲姬精英</a>那里夺来天山雪莲
-collectinfo_45686=从<a href="findnpc_new,scene06,monf061802" style="HLStype1">湖岸偷鱼者</a>那里夺回被偷的鱼
-collectinfo_45687=从双刀土匪那里夺回<a href="findnpc_new,scene06,monf061502" style="HLStype1">被抢的刀</a>
-collectinfo_45688=从<a href="findnpc_new,scene06,monf061300" style="HLStype1">彩雪毒蛛</a>那收集蜘蛛毒囊
-convoyinfo_45675=带阿达去<a href="findnpc,scene06,257,0,718" style="HLStype1">托木</a>处
-convoyinfo_45678=带张菁到<a href="findnpc,scene06,257,0,718" style="HLStype1">托木</a>处
-hunterinfo_45675=击败<a href="findnpc_new,scene06,monf061804" style="HLStype1">索桥看守者</a>
-hunterinfo_45676=击败<a href="findnpc_new,scene06,monf061605" style="HLStype1">迷失的喇嘛</a>
-hunterinfo_45677=击败<a href="findnpc_new,scene06,monf060100" style="HLStype1">血狼</a>
-hunterinfo_45678=击败<a href="findnpc_new,scene06,monf061400" style="HLStype1">莲姬</a>，探听雪莲的下落
-hunterinfo_45679=击败<a href="findnpc_new,scene06,monf061700" style="HLStype1">经幡恶徒</a>
-hunterinfo_45680=击败<a href="findnpc_new,scene06,monf061400" style="HLStype1">莲姬</a>
-hunterinfo_45681=击败<a href="findnpc_new,scene06,monf061400" style="HLStype1">莲姬</a>
-hunterinfo_45682=击败<a href="findnpc_new,scene06,monf061800" style="HLStype1">岔口强盗</a>
-hunterinfo_45683=击败<a href="findnpc_new,scene06,monf061403" style="HLStype1">莲姬精英</a>
-hunterinfo_45684=击败<a href="findnpc_new,scene06,monf061802" style="HLStype1">湖岸偷鱼者</a>
-hunterinfo_45685=击败<a href="findnpc_new,scene06,WorldNpc07405" style="HLStype1">杜平</a>
-interactinfo_45675=与<a href="findnpc_new,scene06,WorldNpc07403" style="HLStype1">阿达</a>交谈
-interactinfo_45676=与<a href="findnpc_new,scene06,WorldNpc07402" style="HLStype1">张牧之</a>交谈
-interactinfo_45677=与<a href="findnpc_new,scene06,WorldNpc07401" style="HLStype1">托木</a>交谈
-interactinfo_45678=与<a href="findnpc_new,scene06,WorldNpc07403" style="HLStype1">阿达</a>交谈
-interactinfo_45679=与<a href="findnpc_new,scene06,WorldNpc07402" style="HLStype1">张牧之</a>交谈
-interactinfo_45680=与<a href="findnpc_new,scene06,WorldNpc07402" style="HLStype1">张牧之</a>交谈
-interactinfo_45681=与<a href="findnpc_new,scene06,WorldNpc07403" style="HLStype1">阿达</a>交谈
-interactinfo_45682=与<a href="findnpc_new,scene06,WorldNpc07401" style="HLStype1">托木</a>交谈
-interactinfo_45683=与<a href="findnpc_new,scene06,WorldNpc07402" style="HLStype1">张牧之</a>交谈
-interactinfo_45684=与<a href="findnpc_new,scene06,WorldNpc07401" style="HLStype1">托木</a>交谈
-interactinfo_45685=与<a href="findnpc_new,scene06,WorldNpc07402" style="HLStype1">张牧之</a>交谈
-interactinfo_45686=与<a href="findnpc_new,scene06,WorldNpc07401" style="HLStype1">托木</a>交谈
-interactinfo_45687=与<a href="findnpc_new,scene06,WorldNpc07401" style="HLStype1">托木</a>交谈
-interactinfo_45688=与<a href="findnpc_new,scene06,WorldNpc07401" style="HLStype1">托木</a>交谈
-interactinfo_45689=与<a href="findnpc_new,scene06,WorldNpc07404" style="HLStype1">张菁</a>交谈
-interactinfo_45690=与<a href="findnpc_new,scene06,WorldNpc07401" style="HLStype1">托木</a>交谈
-interactinfo_45691=与<a href="findnpc_new,scene06,WorldNpc07402" style="HLStype1">张牧之</a>交谈
-interactinfo_45692=与<a href="findnpc_new,scene06,WorldNpc07403" style="HLStype1">阿达</a>交谈
-maintext_3749=你知道这里什么东西最毒么？
-okmenu_45675=真的么？
-okmenu_45676=好的我这就去
+collectinfo_45675=Defeat <a href="findnpc_new,scene06,monf061200" style="HLStype1">Wild Yak</a> and collect Yak Meat
+collectinfo_45676=Defeat <a href="findnpc_new,scene06,monf060300" style="HLStype1">Snow Field Fox</a> and collect Items
+collectinfo_45677=Collect <a href="findnpc_new,scene06,monf061606" style="HLStype1">Temple Treasure Hunters</a>
+collectinfo_45678=Defeat <a href="findnpc_new,scene06,monf060100" style="HLStype1">Blood Wolf</a> and collect Wolf Meat
+collectinfo_45679=Defeat <a href="findnpc_new,scene06,monf061402" style="HLStype1">Wandering Lotus Beauties</a> and collect Snow Lotus
+collectinfo_45680=Defeat <a href="findnpc_new,scene06,monf061701" style="HLStype1">Reckless Believer</a> and collect Bead Necklace
+collectinfo_45681=Defeat <a href="findnpc_new,scene06,monf061801" style="HLStype1">Footpads</a> and collect Items
+collectinfo_45682=Defeat <a href="findnpc_new,scene06,monf061602" style="HLStype1">Scripture Barking Platform Defenders</a> and retrieve the Secret Society Scripture
+collectinfo_45683=Defeat <a href="findnpc_new,scene06,monf061603" style="HLStype1">Scripture Barking Platform Stealthy Men</a> and retrieve the Sanskrit Book
+collectinfo_45684=Defeat <a href="findnpc_new,scene06,monf061403" style="HLStype1">Elite Lotus Beauties</a> and collect Tokens
+collectinfo_45685=Defeat <a href="findnpc_new,scene06,monf061403" style="HLStype1">Elite Lotus Beauties</a> and retrieve Snow Lotus
+collectinfo_45686=Defeat <a href="findnpc_new,scene06,monf061802" style="HLStype1">Fish Thief</a> and retrieve the Stolen Fish
+collectinfo_45687=Defeat Twin Blades Bandit and retrieve <a href="findnpc_new,scene06,monf061502" style="HLStype1">Gutting Blade</a>
+collectinfo_45688=Defeat <a href="findnpc_new,scene06,monf061300" style="HLStype1">Colored Snow Spiders</a> and collect Spider Poison Sacks
+convoyinfo_45675=Take A-Da to meet <a href="findnpc,scene06,257,0,718" style="HLStype1">Bolster</a>
+convoyinfo_45678=Take Zhang Jing to meet <a href="findnpc,scene06,257,0,718" style="HLStype1">Bolster</a>
+hunterinfo_45675=Defeat <a href="findnpc_new,scene06,monf061804" style="HLStype1">Rope Bridge Guards</a>
+hunterinfo_45676=Defeat <a href="findnpc_new,scene06,monf061605" style="HLStype1">Lost Lamas</a>
+hunterinfo_45677=Defeat <a href="findnpc_new,scene06,monf060100" style="HLStype1">Blood Wolf</a>
+hunterinfo_45678=Defeat <a href="findnpc_new,scene06,monf061400" style="HLStype1">Lotus Beauties</a> and locate the Snow Lotus
+hunterinfo_45679=Defeat <a href="findnpc_new,scene06,monf061700" style="HLStype1">Evil Jingfan Thugs</a>
+hunterinfo_45680=Defeat <a href="findnpc_new,scene06,monf061400" style="HLStype1">Lotus Beauties</a>
+hunterinfo_45681=Defeat <a href="findnpc_new,scene06,monf061400" style="HLStype1">Lotus Beauties</a>
+hunterinfo_45682=Defeat <a href="findnpc_new,scene06,monf061800" style="HLStype1">Fork Robbers</a>
+hunterinfo_45683=Defeat <a href="findnpc_new,scene06,monf061403" style="HLStype1">Elite Lotus Beauties</a>
+hunterinfo_45684=Defeat <a href="findnpc_new,scene06,monf061802" style="HLStype1">Fish Thieves</a>
+hunterinfo_45685=Defeat <a href="findnpc_new,scene06,WorldNpc07405" style="HLStype1">Du Ping</a>
+interactinfo_45675=Talk to <a href="findnpc_new,scene06,WorldNpc07403" style="HLStype1">A-Da</a>
+interactinfo_45676=Talk to <a href="findnpc_new,scene06,WorldNpc07402" style="HLStype1">Zhang Muzhi</a>
+interactinfo_45677=Talk to <a href="findnpc_new,scene06,WorldNpc07401" style="HLStype1">Bolster</a>
+interactinfo_45678=Talk to <a href="findnpc_new,scene06,WorldNpc07403" style="HLStype1">A-Da</a>
+interactinfo_45679=Talk to <a href="findnpc_new,scene06,WorldNpc07402" style="HLStype1">Zhang Muzhi</a>
+interactinfo_45680=Talk to <a href="findnpc_new,scene06,WorldNpc07402" style="HLStype1">Zhang Muzhi</a>
+interactinfo_45681=Talk to <a href="findnpc_new,scene06,WorldNpc07403" style="HLStype1">A-Da</a>
+interactinfo_45682=Talk to <a href="findnpc_new,scene06,WorldNpc07401" style="HLStype1">Bolster</a>
+interactinfo_45683=Talk to <a href="findnpc_new,scene06,WorldNpc07402" style="HLStype1">Zhang Muzhi</a>
+interactinfo_45684=Talk to <a href="findnpc_new,scene06,WorldNpc07401" style="HLStype1">Bolster</a>
+interactinfo_45685=Talk to <a href="findnpc_new,scene06,WorldNpc07402" style="HLStype1">Zhang Muzhi</a>
+interactinfo_45686=Talk to <a href="findnpc_new,scene06,WorldNpc07401" style="HLStype1">Bolster</a>
+interactinfo_45687=Talk to <a href="findnpc_new,scene06,WorldNpc07401" style="HLStype1">Bolster</a>
+interactinfo_45688=Talk to <a href="findnpc_new,scene06,WorldNpc07401" style="HLStype1">Bolster</a>
+interactinfo_45689=Talk to <a href="findnpc_new,scene06,WorldNpc07404" style="HLStype1">Zhang Jing</a>
+interactinfo_45690=Talk to <a href="findnpc_new,scene06,WorldNpc07401" style="HLStype1">Bolster</a>
+interactinfo_45691=Talk to <a href="findnpc_new,scene06,WorldNpc07402" style="HLStype1">Zhang Muzhi</a>
+interactinfo_45692=Talk to <a href="findnpc_new,scene06,WorldNpc07403" style="HLStype1">A-Da</a>
+maintext_3749=Do you know what is the most poisonous here?
+okmenu_45675=Really?
+okmenu_45676=Okay. I am going now.
 okmenu_45677=I'll leave immediately.
 okmenu_45678=I'll leave immediately.
-okmenu_45679=好吧，我这就去
-okmenu_45680=好的我这就去
-okmenu_45681=好的我这就去
-okmenu_45682=好吧，我这就去
+okmenu_45679=Alright, I will get going.
+okmenu_45680=Okay. I am going now.
+okmenu_45681=Okay. I am going now.
+okmenu_45682=Alright, I will get going.
 okmenu_45683=Consider it done.
 okmenu_45684=I'll leave immediately.
 okmenu_45685=I'll leave immediately.
 okmenu_45686=That pill should be taking effect right about…now. How do you feel?
-okmenu_45687=好的我这就去
+okmenu_45687=Okay. I am going now.
 okmenu_45688=I'll leave immediately.
 okmenu_45689=I'll leave immediately.
 okmenu_45690=I'll leave immediately.
-okmenu_45691=好的我这就去
+okmenu_45691=Okay. I am going now.
 okmenu_45692=I'll leave immediately.
-quest_menu_45675=你问吧
-questioninfo_45675=回答<a href="findnpc_new,scene06,WorldNpc07403" style="HLStype1">阿达</a>的问题
-story_45675_1=冰湖有很多动物，还有传说中的天山雪莲，不过因为最近有一群莲姬一直在山里挖呀挖的，所以现在都找不到了，听听旁边阿达的故事，更有意思。
-story_45676_1=冰湖这边势力众多，我几次出门谁都没招惹就被一顿毒打，就因为我不小心走进了他们的势力范围。
-story_45677_1=我来凌霄城是来寻找被绑的妹妹，绑匪提出了在冰湖边见面的，但是我来到这里并没有发现绑匪。
-story_menu_45675=大叔请讲
-story_menu_45676=大叔请讲
+quest_menu_45675=Go ahead.
+questioninfo_45675=Answer <a href="findnpc_new,scene06,WorldNpc07403" style="HLStype1">A-Da</a>'s questions
+story_45675_1=The Ice Lake not only has many animals, but it also has the legendary Saussurea Involucrate. However a group of Lotus Beauties came and dug them out, so now you can't find any. Listen to A-Da's story. It will be more entertaining.
+story_45676_1=There are many factions near the Ice Lake. I got beat up couple of times for no reason when I went outside, all because I walked into their territory.
+story_45677_1=I'm here in Lingxiao City in search of my kidnapped sister. The kidnappers wanted to meet near the Ice Lake but I haven't seen them.
+story_menu_45675=Elder, please do tell.
+story_menu_45676=Elder, please do tell.
 story_menu_45677=Yes?
-storyinfo_45675=听<a href="findnpc_new,scene06,WorldNpc07402" style="HLStype1">张牧之</a>诉说
-storyinfo_45676=听<a href="findnpc_new,scene06,WorldNpc07403" style="HLStype1">阿达</a>诉说
-storyinfo_45677=听<a href="findnpc_new,scene06,WorldNpc07405" style="HLStype1">杜平</a>诉说
-storymenu_45675_1=好的我这就去
+storyinfo_45675=Listen to <a href="findnpc_new,scene06,WorldNpc07402" style="HLStype1">Zhang Muzhi</a>
+storyinfo_45676=Listen to <a href="findnpc_new,scene06,WorldNpc07403" style="HLStype1">A-Da</a>
+storyinfo_45677=Listen to <a href="findnpc_new,scene06,WorldNpc07405" style="HLStype1">Du Ping</a>
+storymenu_45675_1=Okay. I am going now.
 storymenu_45676_1=So it is.
 storymenu_45677_1=So it is.
-useiteminfo_45675=对<a href="findnpc_new,scene06,WorldNpc07404" style="HLStype1">张菁</a>使用<a href="TASK_ITEM,useitem_76m" style="HLStype1">疗伤药</a>
-useiteminfo_45676=对<a href="findnpc_new,scene06,WorldNpc07404" style="HLStype1">张菁</a>使用<a href="TASK_ITEM,useitem_77m" style="HLStype1">金疮药</a>
+useiteminfo_45675=Use the <a href="TASK_ITEM,useitem_76m" style="HLStype1">Healing Medicine</a> on <a href="findnpc_new,scene06,WorldNpc07404" style="HLStype1">Zhang Jing</a>
+useiteminfo_45676=Use the <a href="TASK_ITEM,useitem_77m" style="HLStype1">Wound Healing Drug</a> on <a href="findnpc_new,scene06,WorldNpc07404" style="HLStype1">Zhang Jing</a>
 

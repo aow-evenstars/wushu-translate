@@ -28,9 +28,6 @@ DialogID_61034=<font face="Default" color="#ffffff" >此處</font><font face="De
 DialogID_61035=<font face="Default" color="#ffffff" >據說此處內有水榭樓台，小橋流水。環境優美，同時其間又有廣廈數間，主人用以招待貴客。</font>
 DialogID_61036=<font face="Default" color="#ffffff" >這地方很久沒人來了，不知為何最近突然來了很多人，進進出出，晚上睡覺都睡不安穩！</font>
 DialogID_61037=<font face="Default" color="#ffffff" >晴瑤宮...晴瑤宮...好一個晴瑤宮啊！朕已讓幾大派</font><font face="Default" color="#ffffff" >高手</font><font face="Default" color="#ffffff" >在金陵候命，你</font><font face="Default" color="#ffffff" >去與</font><font face="Default" color="#ffffff" >他們</font><font face="Default" color="#ffffff" >會和</font><font face="Default" color="#ffffff" >，</font><font face="Default" color="#ffffff" >一同</font><font face="Default" color="#ffffff" >打上晴瑤宮！</font>
-DialogID_61038=<font face="Default" color="#ffffff" >少俠放心，剿滅魔教，我峨眉自當盡力！</font>
-DialogID_61039=<font face="Default" color="#ffffff" >阿彌陀佛，出家人不願開殺戒，然魔教實為武林毒瘤，我少林自當與各門派共患難！</font>
-DialogID_61040=<font face="Default" color="#ffffff" >武當已等候多時，隨時可以出發</font><font face="Default" color="#ffffff" >!</font>
 DialogID_61042=<font face="Default" color="#ffffff" >上次晴瑤別院一役後，我又多方調查，得知冷千絕極有可能藏身於晴瑤宮，還請少俠准許我一同前往！</font>
 DialogID_61044=<font face="Default" color="#ffffff" >......明時月啊明時月，沒想到，最後明白朕的</font><font face="Default" color="#ffffff" >，竟然是你</font><font face="Default" color="#ffffff" >。</font>
 DialogID_61045=<font face="Default" color="#ffffff" >這幾天，經常有陌生人在這周圍出現，不知道意欲何為。</font>
@@ -51,7 +48,6 @@ SubmitNpcEx_61051=跟著莫無情
 collectinfo_61001=這是先頭嘍囉吧，不如...幹掉<a href="findnpc,city04,1059,-15,583" style="HLStype1">小嘍囉</a>，看看能不能從他身上找到什麼。
 convoyinfo_61001=咦？那不是明月夫人身邊的人嗎？明月夫人一定知道明時月現在究竟身在何處，畢竟他們倆是夫妻。不如跟上去看看！
 convoyinfo_61002=跟著莫無情去找明月夫人
-convoyinfo_61003=跟著魔教中人。
 convoyinfo_61004=跟著莫無情。
 hunterinfo_61001=聽聞<a href="findnpc_new,city03,npc_6n_mxm02" style="HLStype1">張默章</a>是出了名的小霸王，去問問他最近有沒有見過可疑的人
 hunterinfo_61002=這是先頭嘍囉吧，不如...幹掉<a href="findnpc_new,,attacknpc_yxy_6n_001" style="HLStype1">小嘍囉</a>！
@@ -89,7 +85,6 @@ interactinfo_61029=物是人非，也沒個可商量的人，先回門派問問<
 interactinfo_61030=<a href="findnpc_new,city04,npc_6n_mxm08" style="HLStype1">莫無情</a>好像有事找你，去問問。
 interactinfo_61031=找<a href="findnpc,city04,1065,-16,765" style="HLStype1">車伕</a>幫忙，進入皇宮面見皇帝<a href="findnpc_new,city03,WorldNpc11046" style="HLStype1">朱棣</a>。
 interactinfo_61032=既然已得朱棣首肯，那便回去找<a href="findnpc,city03,705,4,1331" style="HLStype1">車伕</a>回洛陽，去<a href="findnpc_new,city04,eventnpc_6n_yxy_002" style="HLStype1">晴瑤別院附近</a>看看，不知道會不會有收穫。
-interactinfo_61033=與<a href="findnpc_new,city04,npc_6n_yxy_006" style="HLStype1">魔教中人</a>交談。
 interactinfo_61034=這是什麼地方？先去問問附近村民吧！詢問<a href="findnpc_new,born03,npc_6n_yxy_001" style="HLStype1">王二虎</a>。
 interactinfo_61035=詢問<a href="findnpc_new,born03,npc_6n_yxy_008" style="HLStype1">李三</a>。
 interactinfo_61036=詢問<a href="findnpc_new,born03,npc_6n_yxy_009" style="HLStype1">趙富貴</a>。
@@ -148,8 +143,6 @@ okmenu_61045=<font face="Default" color="#ffffff" >多謝告知！</font>
 okmenu_61047=<font face="Default" color="#ffffff" >閣下莫要誤會，在下毫無此意！</font>
 okmenu_61065=<font face="Default" color="#ffffff" >嘿，我受吉賁發所托，正是為此而來，別激動，咱們一同回去吧</font>
 specialinfo_1123=將花牌成功配對7次
-story_61001_1=<font face="Default" color="#ffffff" >當今聖上下旨，邀武林人士共同查探魔教下落。同時還下旨要求查找明時月的下落。我和</font><font face="Default" color="#ffffff" >其他弟子</font><font face="Default" color="#ffffff" >正在商討此事。</font>
-story_61001_2=<font face="Default" color="#ffffff" >這我也不清楚，</font><font face="Default" color="#ffffff" >不過聖上旨意中提及</font><font face="Default" color="#ffffff" >：若是明時月身亡，定是死要見屍。若明時月受傷未癒，定要及時施救，不能讓明時月輕易死去，也不可讓明時月被魔教中人帶走。</font>
 story_61001_3=<font face="Default" color="#ffffff" >我</font><font face="Default" color="#ffffff" >等幾人不過是想著</font><font face="Default" color="#ffffff" >大家聚在一起，說不定能找出什麼蛛絲馬跡。</font>
 story_61002_1=<font face="Default" color="#ffffff" >嗨！皇上號召所有武林人士共同查探魔教下落。同時命令江湖人士一同查找明時月的下落。</font>
 story_61002_2=<font face="Default" color="#ffffff" >可不是嗎，皇上說了：若是明時月身亡，定是死要見屍。若明時月受傷未癒，定要及時施救，不能讓明時月輕易死去，也不可讓明時月被魔教中人帶走。</font>
@@ -199,9 +192,7 @@ story_61017_2=<font face="Default" color="#ffffff" >竟然是這樣，依我看�
 story_61017_3=<font face="Default" color="#ffffff" >這樣，你速速趕往晴瑤別院，不出我所料的話，明月夫人一定會再派手下進入，只要跟隨明月夫人手下，定能找到明月夫人下落，而後跟隨明月夫人，便可以知道明時月的下落！</font>
 story_61017_4=<font face="Default" color="#ffffff" >且慢，明時月此人乃是皇帝欽點之人，若如此行事，你還得去見一見皇帝，獲得皇帝首肯方可。</font>
 story_61018_1=<font face="Default" color="#ffffff" >哦？明時月人現在何處？為何不來見朕？</font>
-story_61018_2=<font face="Default" color="#ffffff" >這樣啊，依朕看來，明月夫人一定會再派手下進入，只要跟隨明月夫人手下，定能找到明月夫人下落，而後跟隨明月夫人，便可以知道明時月的下落！</font><font face="Default" color="#ffffff" >活要見人，死要見屍！</font>
 story_61019_1=<font face="Default" color="#ffffff" >罷了，這段時間辛苦你們了，</font><font face="Default" color="#ffffff" >明時月一</font><font face="Default" color="#ffffff" >事就此作罷，</font><font face="Default" color="#ffffff" >無需找他了</font><font face="Default" color="#ffffff" >。</font>
-story_61019_2=<font face="Default" color="#ffffff" >晴瑤宮乃是魔教據點，只怕魔教之人還會回到晴瑤宮中，爾等見機行事，若是能借晴瑤宮之地剪除魔教羽翼也是大功一件。</font>
 story_menu_61001=<font face="Default" color="#ffffff" >不知究竟發生何事？</font>
 story_menu_61002=<font face="Default" color="#ffffff" >究竟是什麼事情啊？</font>
 story_menu_61003=<font face="Default" color="#ffffff" >究竟是什麼事情啊？</font>
@@ -229,7 +220,6 @@ storyinfo_61005=詢問<a href="findnpc_new,school08,npc_6n_sl01" style="HLStype1
 storyinfo_61006=詢問<a href="findnpc_new,school01,npc_6n_jyw01" style="HLStype1">暨茂義</a>聖旨內容
 storyinfo_61007=詢問<a href="findnpc_new,school05,npc_6n_tm01" style="HLStype1">傅斌言</a>聖旨內容
 storyinfo_61008=詢問<a href="findnpc_new,school07,npc_6n_wd01" style="HLStype1">宮紹</a>聖旨內容
-storyinfo_61009=想不到八大門派內還有如此惡劣的弟子，死有餘辜！前去面見<a href="findnpc,city03,734,14,1070" style="HLStype1">皇上</a>
 storyinfo_61010=去問問<a href="findnpc_new,city04,npc_6n_yxy_011" style="HLStype1">邢君可</a>，聽聽他的意見。
 storyinfo_61011=去問問<a href="findnpc_new,,WorldNpc03816" style="HLStype1">單天冥</a>，聽聽他的意見。
 storyinfo_61012=去問問<a href="findnpc_new,,WorldNpc03003" style="HLStype1">蕭天放</a>，聽聽他的意見。
@@ -240,7 +230,6 @@ storyinfo_61016=去問問<a href="findnpc_new,,WorldNpc02201" style="HLStype1">�
 storyinfo_61017=去問問<a href="findnpc_new,,WorldNpc04401" style="HLStype1">紫陽真人</a>，聽聽他的意見。
 storyinfo_61018=和<a href="findnpc_new,city03,WorldNpc11046" style="HLStype1">聖上</a>說說發生的事。
 storyinfo_61019=<a href="findnpc_new,," style="HLStype1"></a><a href="findnpc_new,city03,WorldNpc11046" style="HLStype1">聖上</a>似乎有事吩咐
-storymenu_61001_1=<font face="Default" color="#ffffff" >明時月？他不是失蹤了嗎？說不定都死</font><font face="Default" color="#ffffff" >了……</font>
 storymenu_61001_2=<font face="Default" color="#ffffff" >這……江湖</font><font face="Default" color="#ffffff" >如此之</font><font face="Default" color="#ffffff" >大，</font><font face="Default" color="#ffffff" >又毫無頭緒，諸位打算從何處入手？</font>
 storymenu_61001_3=<font face="Default" color="#ffffff" >原來如此。</font>
 storymenu_61002_1=<font face="Default" color="#ffffff" >明時月？他不是失蹤了嗎？說不定都死了……</font>
@@ -292,7 +281,6 @@ storymenu_61017_3=<font face="Default" color="#ffffff" >掌門妙計，我這就
 storymenu_61017_4=<font face="Default" color="#ffffff" >還是掌門顧慮周全，弟子這就去！</font>
 storymenu_61018_1=<font face="Default" color="#ffffff" >啟稟皇上，這些日子以來，草民等人......(向皇帝說明了這些日子以來的事情，但是沒有說出邢君可的意思，且看這皇帝怎麼說)</font>
 storymenu_61018_2=<font face="Default" color="#ffffff" >皇上明鑒！那草民立刻動身！告辭！（居然和</font><font face="Default" color="#ffffff" >邢君可所說異曲同工！）</font>
-storymenu_61019_1=<font face="Default" color="#ffffff" >那魔教？</font>
 storymenu_61019_2=<font face="Default" color="#ffffff" >草民明白！</font>
 talk_qyby02_1=裡面好像沒什麼動靜，我們去別的地方看看。
 talk_qyby02_2=這裡是內院，還是沒人，到底是怎麼回事？
@@ -726,4 +714,17 @@ storymenu_61030_2=<font face="Default" color="#ffffff" >稟前輩，此人在與
 useiteminfo_61002=查看<a href="TASK_ITEM,useitem_qynew_dy_02" style="HLStype1">線索</a>
 useiteminfo_61003=秦家牌位似乎是中空的，雖有不敬不過還是<a href="TASK_ITEM,useitem_qynew_dy_04" style="HLStype1">打開</a>瞧瞧
 useiteminfo_61004=使用<a href="TASK_ITEM,useitem_qynew_dy_05" style="HLStype1">解藥</a>後進入山洞
+DialogID_61038=<font face="Default" color="#ffffff" >少俠放心，</font><font face="Default" color="#ffffff" >救出明時月，防止武林大亂</font><font face="Default" color="#ffffff" >，我峨眉自當盡力！</font>
+DialogID_61039=<font face="Default" color="#ffffff" >阿彌陀佛，出家人不願開殺戒，然</font><font face="Default" color="#ffffff" >明教內亂實為江湖一大隱患</font><font face="Default" color="#ffffff" >，我少林自當與各門派共患難！</font>
+DialogID_61040=<font face="Default" color="#ffffff" >武當</font><font face="Default" color="#ffffff" >門人</font><font face="Default" color="#ffffff" >已等候多時，隨時可以出發!</font>
+convoyinfo_61003=跟著明月夫人的手下。
+interactinfo_61033=與<a href="findnpc_new,city04,npc_6n_yxy_006" style="HLStype1">明月夫人手下</a>交談。
+story_61001_1=<font face="Default" color="#ffffff" >當今聖上下旨，邀武林人士共同尋找明時月的下落。我和其他弟子正在商討此事。</font>
+story_61001_2=<font face="Default" color="#ffffff" >這我也不清楚，不過聖上旨意中提及：若是明時月身亡，定是死要見屍。若明時月受傷未癒，定要及時施救，</font><font face="Default" color="#ffffff" >保住明時月性命</font><font face="Default" color="#ffffff" >，</font><font face="Default" color="#ffffff" >同時</font><font face="Default" color="#ffffff" >也不可讓明時月被</font><font face="Default" color="#ffffff" >明教</font><font face="Default" color="#ffffff" >中人帶走。</font>
+story_61018_2=<font face="Default" color="#ffffff" >這樣啊，依朕看來，明月夫人一定會再派手下重返晴瑤別</font><font face="Default" color="#ffffff" >院</font><font face="Default" color="#ffffff" >，只要跟隨明月夫人手下，定能找到明月夫人下落，而後跟隨明月夫人，便可以知道明時月的下落！活要見人，死要見屍！</font>
+story_61019_2=<font face="Default" color="#ffffff" >晴瑤宮乃是</font><font face="Default" color="#ffffff" >明教</font><font face="Default" color="#ffffff" >據點，只怕</font><font face="Default" color="#ffffff" >明月夫人的手下</font><font face="Default" color="#ffffff" >還會回到晴瑤宮中，爾等見機行事，若是能借晴瑤宮之地</font><font face="Default" color="#ffffff" >整治明教亂局，</font><font face="Default" color="#ffffff" >也是大功一件。</font>
+storyinfo_61009=想不到諸派內還有如此惡劣的弟子，死有餘辜！前去面見<a href="findnpc,city03,734,14,1070" style="HLStype1">皇上</a>
+storymenu_61001_1=<font face="Default" color="#ffffff" >明時月？他不是失蹤了嗎？</font>
+storymenu_61019_1=<font face="Default" color="#ffffff" >那</font><font face="Default" color="#ffffff" >明教</font><font face="Default" color="#ffffff" >？</font>
+SubmitNpcEx_71022=前往俠客島找到<a href="findnpc,scene17,1739,63,-849" style="HLStype1">鄭明月(傳功弟子)</a>學習門派絕學
 

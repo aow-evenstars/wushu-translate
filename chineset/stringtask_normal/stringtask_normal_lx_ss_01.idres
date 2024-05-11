@@ -576,7 +576,6 @@ CanAcceptMenu_52074=這裡有人刺探情報？
 CompleteMenu_52054=<font face="Default" color="#ffffff" >教主，這些門派我都刺探過了。</font>
 CompleteMenu_52064=<font face="Default" color="#ffffff" >前輩，我抓住了好些探子。</font>
 CompleteMenu_52074=我把情報都搶回來了。
-accept_52054_1=<font face="Default" color="#ffffff" >五仙教向來不問中原之事，此番重出江湖，必須充分瞭解中原八大門派的情況。你幫我去各大門派刺探一番，有任何消息都可以報告身在極樂谷的何翩翩。</font>
 accept_52064_1=<font face="Default" color="#ffffff" >最近極樂谷不太平，各路暗探猖獗，我想請你去幫忙巡邏，不知你是否願意？</font>
 accept_52074_1=這裡有可疑之人出沒，好像已經獲得了不少我門派的情報，你在這四周看看一定要把他們找出來。
 complete_52054=<font face="Default" color="#ffffff" >嗯，做得很好，重重有賞！</font>
@@ -641,4 +640,42 @@ CanAcceptMenu_52034=第一軒刺探周常任務（此任務不能放棄）
 context_52034=武林風起雲湧，各大門派和勢力之間的明爭暗鬥愈演愈烈，平日裡行事低調的各大江湖勢力也難免捲入其中，為及時瞭解各大門派的動向，鼓勵弟子們多收集有價值的情報，第一軒島主黃古簫決定對於能夠按照他的要求完成情報刺探的弟子給予額外的獎勵<font color="#FF0000">（此任務每週只能完成一次，並且只有完成之後的下一周才能重新領取。在提交周常任務時會收回所有多餘的刺探掌門令，請合理安排刺探活動）。</font>
 target_52034=按照第一軒島主黃古簫的要求，完成對指定門派的刺探。
 title_52034=情報之爭（第一軒)
+CanAcceptMenu_52080=<font face="Default" color="#ffffff" >前輩找我有什麼事？</font>
+CanAcceptMenu_52081=<font face="Default" color="#ffffff" >這裡有人來刺探情報？</font>
+CanAcceptMenu_52082=<font face="Default" color="#ffffff" >明教刺探周常任務（此任務不能放棄）</font>
+CanAcceptMenu_52709=<font face="Default" color="#ffffff" >明教刺探周常任務（此任務不能放棄）</font>
+CompleteMenu_52080=<font face="Default" color="#ffffff" >我已經巡查過了。</font>
+CompleteMenu_52081=<font face="Default" color="#ffffff" >完成任務</font>
+CompleteMenu_52082=<font face="Default" color="#ffffff" >我已經刺探過那些門派了。</font>
+CompleteMenu_52709=<font face="Default" color="#ffffff" >我已經刺探過那些門派了。</font>
+accept_52080_1=<font face="Default" color="#ffffff" >最近鬼鬼祟祟的人越來越多，你去周圍看看情況。</font>
+accept_52081_1=<font face="Default" color="#ffffff" >這裡有可疑之人出沒，好像已經獲得了不少我門派的情報，你在這四周看看一定要把他們找出來。</font>
+accept_52082_1=<font face="Default" color="#ffffff" >近來有些門派動作頻繁，也許是發生什麼大事了，你去刺探一番，回來向我報告。</font>
+accept_52709_1=<font face="Default" color="#ffffff" >近來有些門派動作頻繁，也許是發生什麼大事了，你去刺探一番，回來向我報告。</font>
+complete_52080=<font face="Default" color="#ffffff" >太好了。</font>
+complete_52081=<font face="Default" color="#ffffff" >做的不錯。</font>
+complete_52082=<font face="Default" color="#ffffff" >做的不錯，我沒看錯你，你將來前途無量！</font>
+complete_52709=<font face="Default" color="#ffffff" >做的不錯，我沒看錯你，你將來前途無量！</font>
+context_52080=最近有很多可疑人物在明教周圍活動，他們很可能是來這裡刺探的，找到他們並把他們手裡的情報搶回來。可疑人可能出現的位置坐標<font color="#FF0000">（7，-304）；（62，-89）；擊殺前來刺探的人或者擊敗可疑之人後可獲得情報）</font>
+context_52081=在這裡鬼鬼祟祟的，一定是其他門派前來刺探的，打敗他們拿回被盜走的情報。<font color="#FF0000">（承接巡邏日常任務的巡邏弟子可以完成，完成後可獲得一份情報）</font>
+context_52709=門派之間的情報鬥爭愈演愈烈，參與情報收集的弟子越來越多，收集的情報質量參差不齊，為鼓勵弟子們多收集有價值的情報，明教教主決定對於能夠按照他的要求完成情報刺探的弟子，獎勵門派榮譽憑證70個<font color="#FF0000">（此任務每週只能完成一次，並且只有完成之後的下一周才能重新領取。在提交周常任務時會收回所有多餘的刺探掌門令，請合理安排刺探活動）</font>
+context_52082=門派之間的情報鬥爭愈演愈烈，參與情報收集的弟子越來越多，收集的情報質量參差不
+menu_52080_1=<font face="Default" color="#ffffff" >好的，我馬上就去。</font>
+menu_52081_1=<font face="Default" color="#ffffff" >我一定會把他們找出來的。</font>
+menu_52082_1=<font face="Default" color="#ffffff" >是，弟子遵命！</font>
+menu_52709_1=<font face="Default" color="#ffffff" >是，弟子遵命！</font>
+next_52082=
+submit_52080=<font face="Default" color="#ffffff" >我已經把被盜的情報都拿回來了。</font>
+submit_52081=<font face="Default" color="#ffffff" >我已經打敗可疑的人了。</font>
+submit_52082=<font face="Default" color="#ffffff" >多謝大人！</font>
+submit_52709=<font face="Default" color="#ffffff" >多謝大人！</font>
+target_52080=完成四次巡邏
+target_52081=打敗可疑的人
+target_52082=按照明教教主的要求，完成對指定門派的刺探。
+target_52709=按照明教教主的要求，完成對指定門派的刺探。
+title_52080=門派日常巡邏
+title_52081=可疑之人
+title_52082=情報之爭（明教）
+title_52709=情報之爭（明教）
+accept_52054_1=<font face="Default" color="#ffffff" >五仙教向來不問中原之事，此番重出江湖，必須充分瞭解中原九大宗門的情況。你幫我去各大門派刺探一番，有任何消息都可以報告身在極樂谷的何翩翩。</font>
 

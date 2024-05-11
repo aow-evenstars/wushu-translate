@@ -132,4 +132,41 @@ specialinfo_467=完成對嵩山鐵劍門的勢力挑戰（成功踢館一次）
 specialinfo_470=完成對浣花山莊的挑戰（在五分鐘內通關）
 specialinfo_471=通關鳳凰山莊（任意難度）
 specialinfo_472=完成對摘星門的勢力挑戰（在五分鐘內通關）
+DialogID_58610=<font face="Default" color="#ffffff" >近日來虎嘯山莊守衛森嚴，若想暗中探查，恐非易事。</font>
+DialogID_58611=<font face="Default" color="#ffffff" >青雲堡命案？閣下莫要多問，此事蹊蹺異常，若是無事，閣下還是速速離去的好！</font>
+interactinfo_58610=詢問<a href="findnpc_new,school07,wd170" style="HLStype1">神秘江湖客</a>
+interactinfo_58611=找到<a href="findnpc_new,city04,FunnpcClone021007" style="HLStype1">肖兵</a>，探問青雲堡發生何事
+okmenu_58610=<font face="Default" color="#ffffff" >既如此，那邊強行闖入，一探究竟。</font>
+okmenu_58611=<font face="Default" color="#ffffff" >（恐怕他所知有限，卻又不肯相告，當真惱人）</font>
+specialinfo_1365=通關虎嘯山莊
+specialinfo_1366=通關禁地暮色之村
+specialinfo_1367=通關禁地青雲堡，查清事情原委
+story_58608_1=<font face="Default" color="#ffffff" >近來我明教弟子發現虎嘯山莊中人行事詭秘，似乎正在密謀何事，我已派弟子將此事通
+story_58609_1=<font face="Default" color="#ffffff" >近日來蘇州城中湧現大批江湖人士，不知所為何事，明教弟子回稟這些江湖人士皆是凶
+story_58610_1=<font face="Default" color="#ffffff" >嗨！說起此事，客官你算是問對人了。這些江湖人士啊，都是錫山韓家之人。他們糾眾
+story_58610_2=<font face="Default" color="#ffffff" >唉！說起這些人啊，可真是心狠手辣，他們抓了一眾村民，逼那個趙子亟就範。那些村
+story_58611_1=<font face="Default" color="#ffffff" >想必他們也是知道了這趙子亟的下落，才前往這暮色之村。唉！多年舊仇，如此冤冤相
+story_58612_1=<font face="Default" color="#ffffff" >近日洛陽城中發生連番命案，死者都離奇死亡。惹得江湖之中人心惶惶。只是具體之事
+story_58612_2=<font face="Default" color="#ffffff" >那些死者身上並無明顯傷害，死前似乎受到極大驚嚇，雙目圓睜似是見到什麼令人極端
+story_58613_1=<font face="Default" color="#ffffff" >不妨事，我已得知這青雲堡近來發生蝴蝶殺人一事。只怕此時尚未完結，而今之計只有
+story_menu_58608=<font face="Default" color="#ffffff" >不知掌門有何吩咐？</font>
+story_menu_58609=<font face="Default" color="#ffffff" >不知掌門憂心何事？</font>
+story_menu_58610=<font face="Default" color="#ffffff" >小二哥，近來蘇州城中似乎多了很多江湖人士，不知發生何事？</font>
+story_menu_58611=<font face="Default" color="#ffffff" >回稟掌門，蘇州城中韓家之人糾集眾人在暮色之村中濫殺無辜，肆意妄為！</font>
+story_menu_58612=<font face="Default" color="#ffffff" >弟子不知，還請掌門示下。</font>
+story_menu_58613=<font face="Default" color="#ffffff" >掌門，弟子慚愧，竟未查明事情真相。</font>
+storyinfo_58608=拜見掌門<a href="findnpc_new,school20,newmp_mj_001" style="HLStype1">明時月</a>，看看有什麼吩咐
+storyinfo_58609=拜見掌門<a href="findnpc_new,school20,newmp_mj_001" style="HLStype1">明時月</a>，看看有什麼吩咐
+storyinfo_58610=向小二哥<a href="findnpc_new,city02,WorldNpc01054" style="HLStype1">俞良</a>打聽一番
+storyinfo_58611=回稟<a href="findnpc_new,school20,newmp_mj_001" style="HLStype1">明時月</a>
+storyinfo_58612=拜見掌門<a href="findnpc_new,school20,newmp_mj_001" style="HLStype1">明時月</a>，看有何吩咐
+storyinfo_58613=將發生之事稟告掌門<a href="findnpc_new,school20,newmp_mj_001" style="HLStype1">明時月</a>
+storymenu_58608_1=<font face="Default" color="#ffffff" >弟子領命。</font>
+storymenu_58609_1=<font face="Default" color="#ffffff" >弟子領命。</font>
+storymenu_58610_1=<font face="Default" color="#ffffff" >哦？那暮色之村的村民現在何處？如此興師動眾，莫要傷了無辜才好。</font>
+storymenu_58610_2=<font face="Default" color="#ffffff" >竟有此事！多謝小二哥相告！</font>
+storymenu_58611_1=<font face="Default" color="#ffffff" >弟子領命。</font>
+storymenu_58612_1=<font face="Default" color="#ffffff" >不知那些死者有何離奇之處？</font>
+storymenu_58612_2=<font face="Default" color="#ffffff" >弟子領命。</font>
+storymenu_58613_1=<font face="Default" color="#ffffff" >弟子領命。</font>
 

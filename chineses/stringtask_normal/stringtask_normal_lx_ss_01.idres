@@ -576,7 +576,6 @@ CanAcceptMenu_52074=Has someone been spying around here?
 CompleteMenu_52054=<font face="Default" color="#ffffff" >I have spied on the other schools.</font>
 CompleteMenu_52064=<font face="Default" color="#ffffff" > I caught a number of spies. </font>
 CompleteMenu_52074=I have the intelligence report they took.
-accept_52054_1=<font face="Default" color="#ffffff" >Help me gether some information from the other schools. Any intelligence report you collect can be submitted to He Pianpian at Wanderer's Valley.</font>
 accept_52064_1=<font face="Default" color="#ffffff" >Our allies in Wanderer's Valley need our help finding spies in their territory. Please go on a patrol mission there.</font>
 accept_52074_1=Yes, several suspicious-looking people were spotted around here. Find them and see if they've stolen any information.
 complete_52054=<font face="Default" color="#ffffff" > Well done. I have a reward for you. </font>
@@ -641,4 +640,42 @@ CanAcceptMenu_52034=Peach Blossom Island Weekly Spy Task (This quest cannot be d
 context_52034=Peach Blossom Island Leader Huang Guxiao is offering an additional reward to disciples who complete a Spy Mission according to his requirements. <font color="#FF0000">(Players can only complete this task once per week. When players submit the task, all additional Spy Headmaster Tokens will be removed.) </font>
 target_52034=Spy on the specified school and complete Peach Blossom Island Leader Huang Guxiao's requirements.
 title_52034=Seeking Information (Peach Blossom Island)
+CanAcceptMenu_52080=<font face="Default" color="#ffffff" >Elder why are you looking for me? </font>
+CanAcceptMenu_52081=<font face="Default" color="#ffffff" >Has someone been spying around here? </font>
+CanAcceptMenu_52082=<font face="Default" color="#ffffff" >Ming Cult weekly spy mission (cannot be abandoned) </font>
+CanAcceptMenu_52709=<font face="Default" color="#ffffff" >Ming Cult weekly spy mission (cannot be abandoned) </font>
+CompleteMenu_52080=<font face="Default" color="#ffffff" >I have investigated this already. </font>
+CompleteMenu_52081=<font face="Default" color="#ffffff" >Fulfill the task.</font>
+CompleteMenu_52082=<font face="Default" color="#ffffff" >I have spied on those schools. </font>
+CompleteMenu_52709=<font face="Default" color="#ffffff" >I have spied on those schools. </font>
+accept_52080_1=<font face="Default" color="#ffffff" >There has been an increase in suspicious people around here. I need you to inspect the perimeter. </font>
+accept_52081_1=<font face="Default" color="#ffffff" >A suspicious person was spotted around here. Find them and see if they've stolen any Intelligence. </font>
+accept_52082_1=<font face="Default" color="#ffffff" >Something big might have happened. Go and find out. </font>
+accept_52709_1=<font face="Default" color="#ffffff" >Something big might have happened. Go and find out. </font>
+complete_52080=<font face="Default" color="#ffffff" >Excellent. </font>
+complete_52081=<font face="Default" color="#ffffff">Good luck. You have done well.</font>
+complete_52082=<font face="Default" color="#ffffff" >Well done. You didn't let me down. You have a very bright future! </font>
+complete_52709=<font face="Default" color="#ffffff" >Well done. You didn't let me down. You have a very bright future! </font>
+context_52080=There have been lots of suspicious people snooping around Ming Cult lately. They may be here to spy on us. Catch them and find out what they know. Coordinates where suspicious people may appear <font color="#FF0000">(7,-304); (62,-89); (Kill spies or defeat suspicious people and obtain their Intelligence.)</font>
+context_52081=In this sneaky, must be other martial art came to spy, beat them back to the stolen intelligence. <font color="#FF0000">(Patrol the patrol day patrol mission can be completed, after the completion of access to a message)</font>
+context_52709=The intelligence fight between schools is getting increasingly fierce. More and more disciples participate in intelligence collection, yet the intelligence quality is uneven. In order to encourage disciples to collect more valuable intelligence, the Ming Cult Leader decides to reward disciples who can finish the spy task according to his requirements with 70 School Honor Certificates <font color="#FF0000">(Only once a week. Can be taken again only the next week after completing the previous task. Upon submitting the Weekly Quest all the extra Headmaster's Spy Mission Tokens will be revoked. Please plan your Spy Missions carefully!)</font>
+context_52082=The intelligence fight between schools is getting increasingly fierce. More and more disciples participate in intelligence collection, yet the intelligence quality is
+menu_52080_1=<font face="Default" color="#ffffff" >Goodbye.</font>
+menu_52081_1=<font face="Default" color="#ffffff" >You can count on me. </font>
+menu_52082_1=<font face="Default" color="#ffffff" >Yes. </font>
+menu_52709_1=<font face="Default" color="#ffffff" >Yes. </font>
+next_52082=
+submit_52080=<font face="Default" color="#ffffff" >I have returned the stolen Intelligence. </font>
+submit_52081=<font face="Default" color="#ffffff" >I took care of the spy. </font>
+submit_52082=<font face="Default" color="#ffffff" >Thank you, you too! </font>
+submit_52709=<font face="Default" color="#ffffff" >Thank you, you too! </font>
+target_52080=Complete four patrols.
+target_52081=Defeat suspicious persons.
+target_52082=Do as the Leader of Ming Cult commanded. Finish spying on the named school.
+target_52709=Do as the Leader of Ming Cult commanded. Finish spying on the named school.
+title_52080=Everyday school patrol.
+title_52081=Suspicious Man
+title_52082=Fight of Intelligence (Ming Cult)
+title_52709=Fight of Intelligence (Ming Cult)
+accept_52054_1=<font face="Default" color="#ffffff" >Help me gether some information from the other schools. Any intelligence report you collect can be submitted to He Pianpian at Wanderer's Valley.</font>
 

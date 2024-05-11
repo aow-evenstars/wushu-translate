@@ -814,7 +814,6 @@ title_49557=翻雲覆雨無根令肆
 title_49565=翻雲覆雨無根令伍
 CanAcceptMenu_49796=剿滅百獸莊
 CompleteMenu_49796=剿滅百獸莊
-complete_49524=嗯，謹慎就對了。我無根門雖然不如那八大門派強盛，但也是不容小視的，本派的內功太陰玄鑒，和太陰劍訣，也是能讓江湖人不容小視的絕世武學，膽敢犯我無根之威者，雖遠必誅！
 complete_49530=<font face="Default" color="#ffffff" >按照規矩你已有修習這太陰玄鑒的資格，等下你便可找到門內的總管借閱這內功心法學習。本門武學，為太陰劍訣，唯快不破，便是這劍法的奧義，多餘的我就不多說了，等你修習之時自然知曉。</font>
 complete_49796=剿滅百獸莊
 context_49523=學會太陰玄鑒，已是無根門正式弟子，前往聽候趙無極執事吩咐吧。
@@ -827,4 +826,52 @@ context_49795=無根門基地雖然隱蔽，但天下無不漏風的牆，小心
 context_49802=多一個朋友就會多一條路，多一個盟友就會少一個敵人。江湖風雲又起，掌門魏無言讓你前往武林各大勢力，進行切磋結交他們。
 context_49803=多一個朋友就會多一條路，多一個盟友就會少一個敵人。江湖風雲又起，掌門魏無言讓你前往江湖各大勢力，切磋結交他們。
 context_49804=多一個朋友就會多一條路，多一個盟友就會少一個敵人。江湖風雲又起，掌門魏無言讓你前往武林各大勢力，進行切磋結交他們。
+CanAcceptMenu_49824=<font face="Default" color="#ffffff" >結識無根（無根門入門）</font>
+CanAcceptMenu_49825=<font face="Default" color="#ffffff" >去勢之備</font>
+CanAcceptMenu_49826=<font face="Default" color="#ffffff" >了斷塵緣</font>
+CanAcceptMenu_49827=<font face="Default" color="#ffffff" >加入無根</font>
+CanAcceptMenu_49828=<font face="Default" color="#ffffff" >拜見掌門</font>
+CompleteMenu_49824=<font face="Default" color="#ffffff" >完成任務</font>
+CompleteMenu_49825=<font face="Default" color="#ffffff" >完成任務</font>
+CompleteMenu_49827=<font face="Default" color="#ffffff" >完成任務</font>
+CompleteMenu_49828=<font face="Default" color="#ffffff" >完成任務</font>
+accept_49824_1=<font face="Default" color="#ffffff" > 來者何人，這是皇宮禁地，沒什麼事的話趕緊離開吧。</font>
+accept_49825_1=<font face="Default" color="#ffffff" >  想要入我無根門，修煉至高武學，就必須去勢，這是一般男人所無法忍耐的。你如果下定決心的話，先去收集這些藥材，省的待會去勢之後失血過多而死。收集完這些藥材，就去找宮內的關公公動刀吧。</font>
+accept_49826_1=<font face="Default" color="#ffffff" >  </font><font face="Default" color="#ffffff" >你可想好了，去勢之後，你可就不是一個男人了。</font>
+accept_49827_1=<font face="Default" color="#ffffff" >  好了，你自己的寶貝拿好，去找刁公公吧，他會把你帶進無根門的。</font>
+accept_49828_1=<font face="Default" color="#ffffff" >  既然你已加入我無根門，我就引薦你前往我無根門拜見掌門。</font>
+complete_49824=<font face="Default" color="#ffffff" >  你居然能看穿張朋的劍法，不錯不錯，接下來的考驗就更加難了，你能堅持麼。</font>
+complete_49825=<font face="Default" color="#ffffff" >  </font><font face="Default" color="#ffffff" >這是皇城禁地，沒什麼事的話趕緊走開。</font>
+complete_49827=<font face="Default" color="#ffffff" >  不錯不錯，你如今已經了卻塵緣，也罷，我就帶你去無根門吧。</font>
+complete_49828=<font face="Default" color="#ffffff" >  既然你也加入我無根門，就得聽從我無根門的門規。</font>
+context_49824=前往金陵找到神秘的刁公公，聽說他經常在皇宮附近神出鬼沒，尋找合適的對象，引進無根門。
+context_49825=想要入我無根門，修煉至高武學，就必須去勢，這是一般男人所無法忍耐的。你如果下定決心的話，先去收集這些藥材，省的待會去勢之後失血過多而死。收集完這些藥材，就是找宮內的關公公動刀吧。
+context_49826=讓關公公幫忙去勢。（需要購買23個賭籌賄賂關公公才行）
+context_49827=成功去勢，找到刁公公，加入無根門
+context_49828=既然你已加入我無根門，我就引薦你前往我無根門拜見掌門。
+menu_49824_1=<font face="Default" color="#ffffff" >聽聞刁公公在此為無根門收徒，在下願意前往無根門。</font>
+menu_49825_1=<font face="Default" color="#ffffff" >在下這就前往</font>
+menu_49826_1=<font face="Default" color="#ffffff" >在下想懇請關公公幫忙去勢，助我加入無根門</font>
+menu_49827_1=<font face="Default" color="#ffffff" >多謝關公公</font>
+menu_49828_1=<font face="Default" color="#ffffff" >多謝刁公公引薦</font>
+next_49824=
+next_49825=
+next_49826=
+next_49827=
+next_49828=
+submit_49824=<font face="Default" color="#ffffff" >在下不會放棄的。</font>
+submit_49825=<font face="Default" color="#ffffff" >關公公，刁公公引薦我來此去勢。</font>
+submit_49827=<font face="Default" color="#ffffff" >多謝刁公公</font>
+submit_49828=<font face="Default" color="#ffffff" >心裡嘀咕（雖然不知道掌門話中什麼意思，但是肯定有什麼陰謀）</font>
+target_49824=找到的刁公公，說明來意。
+target_49825=收集去勢止血的藥材
+target_49826=找到關公公，幫忙去勢
+target_49827=找到刁公公加入無根門
+target_49828=通過刁公公身邊的小太監，前往無根門
+title_49824=結識無根（無根門入門)
+title_49825=去勢之備（無根門入門）
+title_49826=了斷塵緣
+title_49827=加入無根
+title_49828=拜見掌門
+complete_49524=嗯，謹慎就對了。我無根門雖然不如那九大宗門強盛，但也是不容小視的，本派的內功太陰玄鑒，和太陰劍訣，也是能讓江湖人不容小視的絕世武學，膽敢犯我無根之威者，雖遠必誅！
 

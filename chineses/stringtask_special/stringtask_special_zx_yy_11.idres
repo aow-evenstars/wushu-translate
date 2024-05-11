@@ -1,92 +1,92 @@
 ﻿
 DialogID_3351=
-DialogID_3352=年轻人，别费劲了，我们刚刚已经对这可怜的孩子用过解毒药了，看来这毒中的不轻啊。附近倒是有出了名的神医曲中求，外号无中生有曲中求，能逆天改命无中生有，可脾气也古怪的很啊……
+DialogID_3352=Young man, don't bother. We already used antidote on this poor child, and didn't seem to help at all. You need to find a famous doctor named Qu Zhongqiu. He usually wander around nearby and he has a strange temper...
 DialogID_3353=
-DialogID_3354=这毒已经好久没在江湖出现过了啊！难道附近有大内的人……喏，这瓶药你拿去，该能解此毒！
-DialogID_3356=（你个笨蛋，秦王有无中生有曲中求，用毒不是找死嘛！）额，少侠，我们那位高人毒力高深，可没想到叛军中看来早有针对，上次前去下毒，被对方营中大夫一根金针就痊愈了，也不知是请的何方神医。
-DialogID_3357=好！好猖狂的小子！一炷香时间！毒不到你！我亲自炖了这些蛇给新秀接风！
-DialogID_3358=别打了，别打了，我什么都说！大侠别打了……我们一共来蓬莱有2，3十号人，除了我水平都跟定远叔差不多，呜呜呜，你可千万不能跟别人说啊，队长知道了会杀了我的……
-DialogID_3359=避毒药啊？这有颗避毒丸，你且拿去吧！
-DialogID_3360=救人？行，我这还有点疗伤药，你拿去用吧！
-DialogID_3361=好小子！我奈何不了你！定是那傅洛宜嫌我不中用了派你来羞辱于我的吧！士可杀不可辱！我会和我的毒物在地下等着你们的，哈哈哈哈！！！
-QiecuoMenu_3351=嘿!
-QiecuoMenu_3352=是你自己找罪受的。
-QiecuoMenu_3356=既然王爷如此好心，我怎可不顺便指点下王爷。
-QiecuoMenu_3357=哼哼...你懂的！
-QiecuoTitle_3351=你是谁？这地方是你进来的吗！咦...头有点晕....
-QiecuoTitle_3352=呜呜呜，说了队长会杀了我的……大侠饶命啊！
-QiecuoTitle_3356=呵呵，雕虫小计罢了，怎入少侠眼内。
-QiecuoTitle_3357=你想干什么？！
-collectinfo_3352=收集<a href="findnpc_new,scene02,Gather00012hy" style="HLStype1">血灵芝</a>
-collectinfo_3353=去拿个<a href="findnpc_new,scene02,Gather00015hy" style="HLStype1">水壶</a>
-collectinfo_3354=收集<a href="findnpc_new,scene02,Gather00013hy" style="HLStype1">魔莲花</a>
-collectinfo_3355=收集<a href="findnpc_new,scene02,Gather00014hy" style="HLStype1">奇草一支篙</a>
-convoyinfo_3351=保护傅洛宜
-convoyinfo_3352=带<a href="findnpc,scene02,,0," style="HLStype1">某地</a>
-convoyinfo_3353=接受王若斌放出毒物的挑战
-convoyinfo_3354=带<a href="findnpc,scene02,,0," style="HLStype1">某地</a>
-hunterinfo_3351=击败<a href="findnpc_new,scene02,WorldNpc02147" style="HLStype1">守卫</a>
-hunterinfo_3352=给<a href="findnpc_new,scene02,WorldNpc02148" style="HLStype1">守卫</a>点颜色瞧瞧
-hunterinfo_3353=击败<a href="findnpc_new,scene02,monrf020612" style="HLStype1">刺客</a>
-hunterinfo_3354=击败<a href="findnpc_new,scene02,monrf020613" style="HLStype1">秦王打手</a>
-hunterinfo_3355=击败<a href="findnpc_new,scene02,monrf020626" style="HLStype1">秦王手下</a>
-hunterinfo_3356=击败<a href="findnpc_new,scene02,WorldNpc02144" style="HLStype1">朱靖</a>
-hunterinfo_3357=击败<a href="findnpc_new,scene02,WorldNpc02146" style="HLStype1">傅洛宜</a>
-hunterinfo_3358=抵挡住王若斌放出的<a href="findnpc_new,scene02,monrf020629" style="HLStype1">毒蛇</a>
-interactinfo_3351=回去找<a href="findnpc_new,scene02,WorldNpc02146" style="HLStype1">傅洛宜</a>
-interactinfo_3352=问问<a href="findnpc_new,scene02,WorldNpc02150" style="HLStype1">周围人</a>
-interactinfo_3353=去见<a href="findnpc_new,scene02,EventNpc22689" style="HLStype1">秦王</a>
-interactinfo_3354=与<a href="findnpc_new,scene02,WorldNpc02030" style="HLStype1">曲中求</a>交谈
-interactinfo_3356=与<a href="findnpc_new,scene02,WorldNpc02146" style="HLStype1">傅洛宜</a>交谈
-interactinfo_3357=与<a href="findnpc_new,scene02,WorldNpc02154" style="HLStype1">王若斌</a>交谈
-interactinfo_3358=听<a href="findnpc_new,scene02,WorldNpc02148" style="HLStype1">守卫</a>说
-interactinfo_3359=与<a href="findnpc_new,scene02,WorldNpc02030" style="HLStype1">曲中求</a>交谈
-interactinfo_3360=找<a href="findnpc_new,scene02,WorldNpc02150" style="HLStype1">令狐江尤</a>拿点疗伤药
-interactinfo_3361=与<a href="findnpc_new,scene02,WorldNpc02154" style="HLStype1">王若斌</a>交谈
-interactinfo_3363=找一把<a href="findnpc_new,scene02,Gather00015hy" style="HLStype1">水壶</a>
+DialogID_3354=It's been a long time since this poison appeared in Jianghu! This looks like a imperial palace job... Well, take this bottle of medicine and you should be able to detoxify the poison!
+DialogID_3356=(You idiot, King Qin has the famous doctor Qu Zhongqiu. If he dares to use poison that will only bring death upon himself!) Uh, we have an expert of poison skill, but we didn't expect that the rebels was prepared. Last time I went to use the poison, it was healed by the enemy doctor with a golden needles.
+DialogID_3357=OK! You are crazy! I will poison you before the incense burns out. If I fail to do so, I will personally stewed these snakes for the rookie.
+DialogID_3358=No more beating ,please stop, I tell you everything! Please stop...we have a total of 20, 30 people come to Penglai. Besides me, their strength is about same as Uncle Ding Yuan. Shhh...please don't tell anyone else. My leader will kill me...
+DialogID_3359=Poison-Avoiding Pill? There is a Poison-Avoiding Pill. You can take it!
+DialogID_3360=Saving lives? OK, I still have some medicine left and you can have it!
+DialogID_3361=What! I'm defeated! Fu Luoyi thought I'm no longer useful and sent you over to humiliate me, right? Kill me now and I won't be disgraced! I'll wait for you in hell with my venomous pets, Hahaha!
+QiecuoMenu_3351=Hey!
+QiecuoMenu_3352=You are looking for this.
+QiecuoMenu_3356=How can I not give advice to the you since you are so kind?
+QiecuoMenu_3357=Hey....You know!
+QiecuoTitle_3351=Who are you? This isn't a place for you to come in! Oh..no..my head is getting dizzy...
+QiecuoTitle_3352=(Weeping) Leader will kill me if I tell you... Please spare my life!
+QiecuoTitle_3356=Ha, little trick. You can't fool me.
+QiecuoTitle_3357=Hey! What are you doing?
+collectinfo_3352=Collect <a href="findnpc_new,scene02,Gather00012hy" style="HLStype1">Blood Ganoderma</a>
+collectinfo_3353=Grab a <a href="findnpc_new,scene02,Gather00015hy" style="HLStype1">watering can</a>
+collectinfo_3354=Collect <a href="findnpc_new,scene02,Gather00013hy" style="HLStype1">Demon Lotus Flower</a>
+collectinfo_3355=Collect <a href="findnpc_new,scene02,Gather00014hy" style="HLStype1">Strange Grass Yizhigao</a>
+convoyinfo_3351=Protect Fu Luoyi
+convoyinfo_3352=Take <a href="findnpc,scene02,,0," style="HLStype1"> somewhere</a>
+convoyinfo_3353=Accept Wang Ruobin's Challenge
+convoyinfo_3354=Take <a href="findnpc,scene02,,0," style="HLStype1"> somewhere</a>
+hunterinfo_3351=Defeat <a href="findnpc_new,scene02,WorldNpc02147" style="HLStype1">Guard</a>
+hunterinfo_3352=Teach <a href="findnpc_new,scene02,WorldNpc02148" style="HLStype1">Guard</a> a lesson
+hunterinfo_3353=Defeat <a href="findnpc_new,scene02,monrf020612" style="HLStype1">Assassin</a>
+hunterinfo_3354=Defeat <a href="findnpc_new,scene02,monrf020613" style="HLStype1">Lord Qin's Hatchet Man</a>
+hunterinfo_3355=Defeat <a href="findnpc_new,scene02,monrf020626" style="HLStype1">Lord Qin's Pawn</a>
+hunterinfo_3356=Defeat <a href="findnpc_new,scene02,WorldNpc02144" style="HLStype1">Zhu Jing</a>
+hunterinfo_3357=Defeat <a href="findnpc_new,scene02,WorldNpc02146" style="HLStype1">Fu Luoyi</a>
+hunterinfo_3358=Stop Wang Ruobing's <a href="findnpc_new,scene02,monrf020629" style="HLStype1">Poisonous snake</a>
+interactinfo_3351=Find <a href="findnpc_new,scene02,WorldNpc02146" style="HLStype1">Fu Luoyi</a>
+interactinfo_3352=Ask <a href="findnpc_new,scene02,WorldNpc02150" style="HLStype1">people around</a>
+interactinfo_3353=Go see <a href="findnpc_new,scene02,EventNpc22689" style="HLStype1">Lord Qin</a>
+interactinfo_3354=Talk to <a href="findnpc_new,scene02,WorldNpc02030" style="HLStype1">Qu Zhongqiu</a>.
+interactinfo_3356=Talk to <a href="findnpc_new,scene02,WorldNpc02146" style="HLStype1">Fu Luoyi</a>.
+interactinfo_3357=Talk to <a href="findnpc_new,scene02,WorldNpc02154" style="HLStype1">Wang Ruobin</a>.
+interactinfo_3358=Listen to <a href="findnpc_new,scene02,WorldNpc02148" style="HLStype1">Guard</a>
+interactinfo_3359=Talk to <a href="findnpc_new,scene02,WorldNpc02030" style="HLStype1">Qu Zhongqiu</a>.
+interactinfo_3360=Find <a href="findnpc_new,scene02,WorldNpc02150" style="HLStype1">Linghu Jiangyou</a> to get some healing medicine
+interactinfo_3361=Talk to <a href="findnpc_new,scene02,WorldNpc02154" style="HLStype1">Wang Ruobin</a>.
+interactinfo_3363=Find a <a href="findnpc_new,scene02,Gather00015hy" style="HLStype1">watering can</a>
 okmenu_3351=Ok.
-okmenu_3352=……在哪？那边吗？我赶去求求看吧，这小女孩这么可怜……
+okmenu_3352=......Where? Is it over there? I have to go take a look, poor little girl.....
 okmenu_3353=
-okmenu_3354=多谢神医！我先赶紧把药送过去了
-okmenu_3356=我这有一粒家传金元丹散，作用是解基本小毒的，不过对付这满林毒物那是绰绰有余了。不信看我进去走上一遭。
-okmenu_3357=哦？那阁下尽管来试试
-okmenu_3358=（竟有二三十号人？我赶紧回去跟傅大哥说说）
-okmenu_3359=多谢神医！
+okmenu_3354=Thank you Doctor! I'll deliver the medicine first.
+okmenu_3356=I have Jinyuan Powder that can neutralize basic poisons, but its more than enough to deal with poison in the forest. Let me show you this.
+okmenu_3357=Oh? Then come and try.
+okmenu_3358=(There are about 20 to 30 people here... I'd better hurry back and tell Brother Fu.)
+okmenu_3359=Thank you Doctor!
 okmenu_3360=Thank you, brother.
-okmenu_3361=你想干什么？！
-story_3351_1=您连闯七关智勇披靡，当今武林谁人不知谁人不晓，靖爷的眼光果然没看错。
-story_3351_2=上次您与靖爷畅谈后，靖爷甚是喜欢，这次他在蓬莱仙境游玩，听说刚您武林大会连闯七关之事，在蓬莱大摆宴席，恭候您去相会。
-story_3352_1=在下傅洛宜，使者回报后，王爷就派鄙人来此恭候您了……咳咳咳……
-story_3352_2=我来此路上无意中发现有伙反贼假冒秦王的侍卫意图刺杀秦王，却也被对方发现追杀至此。
-story_3353_1=呜呜呜，小朝以后再也不敢了……山下林子里有好多好多蛇啊……呜呜呜……
-story_3353_2=小朝刚刚跟威威他们玩捉迷藏，就躲到山下林子里去，可刚进林子就发现有好多好多蛇，还有好多其他的虫子！小朝被吓坏了，拼命跑，后面突然好像听见有人说话，我想叫他们一起跑，可发现那些蛇竟然不咬他们，然后我就拼命跑出来了，可跑到这边的时候脑子昏昏沉沉的，然后接下来的我就不知道了。
+okmenu_3361=Hey! What are you doing?
+story_3351_1=You have made it through the seven stages and you're going to be famous in martial world. Mr. Jing was right about you.
+story_3351_2=Mr. Jing really like you on the last conference meeting with you. He heard about you made it through the seven stages at wulin tournament and was happy to invite you to banquet at Penglai.
+story_3352_1=I'm Fu Luoyi. After the messenger have returned, the lord have sent me to wait for you over here...(coughing*).
+story_3352_2=I accidentally found a group of traitor posing as Lord Qin's guards on the way, and I got hunted down by them.
+story_3353_1=I will never dare to come to that place again...There were so many snakes in the forest under the mountain...
+story_3353_2=I was playing hide-and-seek with Weiwei. They hid in the forest under the mountain, but as soon as they entered the forest, there were many snakes and bugs! I was frightened and ran away. I suddenly heard someone talking at the back. I wanted to tell them to run with me, but I found that the snakes didn't bite them. So when I got here, I got Dizzy and then everything went blank.
 story_3354_1=Please, I need to know what happened.
-story_3354_2=看来你中计了啊！幸好这次巧合不然真是……
-story_3354_3=没错！那所谓三十多人的反贼营地其实才是我真正的护卫部队啊！怪不得刚刚手下报告神秘高手孤身闯入营地擒住两个护卫后又莫名走了……原来是少侠你啊……
-story_menu_3351=不知王爷派兄台找我是为何事？
-story_menu_3352=到底出了什么事？
-story_menu_3353=到底怎么了？你是被蛇咬伤的？
-story_menu_3354=他说他发现有人组建杀手组织在附近可能对王爷您不利。
-storyinfo_3351=听<a href="findnpc_new,city01,WorldNpc02145" style="HLStype1">唐子夜</a>说是何事
-storyinfo_3352=听<a href="findnpc_new,scene02,WorldNpc02146" style="HLStype1">傅洛宜</a>说说
-storyinfo_3353=听<a href="findnpc_new,scene02,WorldNpc02149" style="HLStype1">花小朝</a>诉说
-storyinfo_3354=听<a href="findnpc_new,school04,WorldNpc02144" style="HLStype1">朱靖</a>诉说
-storymenu_3351_1=不敢当，不敢当。
-storymenu_3351_2=……嗯……秦王如此看得起，我怎好意思拒绝，正好手头没事，我这就赶去。
-storymenu_3352_1=你慢点说，别动着伤口。
-storymenu_3352_2=原来如此……真是对不住了。
-storymenu_3353_1=山下林子有很多蛇？你叫小朝吗？慢慢说，别急。事情到底怎么回事？
-storymenu_3353_2=（傅洛宜不是就在林子外面吗……难道里面还藏着奸人……看来我得赶紧去跟王爷说！）
-storymenu_3354_1=他还带我去了反贼营地，我进去询问了有三十多人！
-storymenu_3354_2=王爷意思是说他才是反贼？
-storymenu_3354_3=……王爷……在下鲁莽……实在是不好意思了……
-useiteminfo_3351=对<a href="findnpc_new,scene02,WorldNpc02146" style="HLStype1">傅洛宜</a>使用<a href="TASK_ITEM,useitem_017hy" style="HLStype1">疗伤药</a>
-useiteminfo_3352=对<a href="findnpc_new,scene02,Summon00225" style="HLStype1">反贼</a>使用<a href="TASK_ITEM,useitem_018hy" style="HLStype1">化尸粉</a>
-useiteminfo_3353=对<a href="findnpc_new,scene02,WorldNpc02147" style="HLStype1">守卫</a>使用<a href="TASK_ITEM,useitem_019hy" style="HLStype1">迷药</a>
-useiteminfo_3354=看看随身带着的<a href="TASK_ITEM,useitem_020hy" style="HLStype1">解毒药</a>对<a href="findnpc_new,scene02,WorldNpc02149" style="HLStype1">小女孩</a>有用不
-useiteminfo_3355=给<a href="findnpc_new,scene02,WorldNpc02149" style="HLStype1">花小朝</a>服下<a href="TASK_ITEM,useitem_021hy" style="HLStype1">归心丸</a>
-useiteminfo_3356=使用<a href="TASK_ITEM,useitem_022hy" style="HLStype1">金元散</a>
-useiteminfo_3357=使用<a href="TASK_ITEM,useitem_023hy" style="HLStype1">散晦丹</a>
-useiteminfo_3358=把<a href="TASK_ITEM,useitem_024hy" style="HLStype1">一壶热水</a>放到<a href="findnpc_new,scene02,ItemNpc03601" style="HLStype1">罐子</a>上
-useiteminfo_3359=用<a href="findnpc_new,scene02,ItemNpc03601" style="HLStype1">炉子</a>煎<a href="TASK_ITEM,useitem_025hy" style="HLStype1">处理好的铁棒锤</a>
+story_3354_2=Looks like you fell into the trap! But fortunately it is coincidence this time, otherwise...
+story_3354_3=That's right! The so-called thirty people at enemy camp is actually my real guard! No wonder just now my subordinates reported that a mysterious martial master broke into the camp alone to capture the two guards and went away inexplicably...It turned out to be you...
+story_menu_3351=why did the lord sent you here to find me?
+story_menu_3352=What happened?
+story_menu_3353=What's wrong? Were you bitten by a snake?
+story_menu_3354=He said there was a killer organization nearby that can be a threat to you, my lord.
+storyinfo_3351=Listen to what <a href="findnpc_new,city01,WorldNpc02145" style="HLStype1">Tang Ziye</a> have to say
+storyinfo_3352=Listen to <a href="findnpc_new,scene02,WorldNpc02146" style="HLStype1">Fu Luoyi</a>.
+storyinfo_3353=Listen to what <a href="findnpc_new,scene02,WorldNpc02149" style="HLStype1">Hua Xiaochao</a> have to say
+storyinfo_3354=Listen to what <a href="findnpc_new,school04,WorldNpc02144" style="HLStype1">Zhu Jing</a> have to say
+storymenu_3351_1=You are flattering me.
+storymenu_3351_2=Well, you think highly of me. How can I refuse...I'll go now.
+storymenu_3352_1=Slow down, hold on your wound.
+storymenu_3352_2=Oh, I see... I'm sorry.
+storymenu_3353_1=There are many snakes in the forest under the mountain? Are you Xiaochao? Speak slowly. Don't worry. Just tell me what happened.
+storymenu_3353_2=(Isn't Fu Luoyi just outside the forest...Are there enemies hiding in the forest...I must report to the lord now!)
+storymenu_3354_1=He also took me to the enemy camp. I went in and inquired more than thirty people!
+storymenu_3354_2=You mean he is the traitor?
+storymenu_3354_3=...My lord...I'm being reckless...I'm so sorry...
+useiteminfo_3351=Use <a href="TASK_ITEM,useitem_017hy" style="HLStype1">Healing medicine</a> on <a href="findnpc_new,scene02,WorldNpc02146" style="HLStype1">Fu Luoyi</a>
+useiteminfo_3352=Use <a href="TASK_ITEM,useitem_018hy" style="HLStype1">Corpse Melting Powder</a> on <a href="findnpc_new,scene02,Summon00225" style="HLStype1">Traitor</a>
+useiteminfo_3353=Use <a href="TASK_ITEM,useitem_019hy" style="HLStype1">Sedative</a> on <a href="findnpc_new,scene02,WorldNpc02147" style="HLStype1">Guard</a>
+useiteminfo_3354=Check if the <a href="TASK_ITEM,useitem_020hy" style="HLStype1">Antidote</a> works on<a href="findnpc_new,scene02,WorldNpc02149" style="HLStype1">Little Girl</a>
+useiteminfo_3355=Make <a href="findnpc_new,scene02,WorldNpc02149" style="HLStype1">Hua Xiaochao</a> take <a href="TASK_ITEM,useitem_021hy" style="HLStype1">Returning Heart Pill</a>
+useiteminfo_3356=Use <a href="TASK_ITEM,useitem_022hy" style="HLStype1">Jinyuan Powder</a>
+useiteminfo_3357=use <a href="TASK_ITEM,useitem_023hy" style="HLStype1">Sanhui Pill</a>
+useiteminfo_3358=Put <a href="TASK_ITEM,useitem_024hy" style="HLStype1">a pot of hot water</a> on top of the <a href="findnpc_new,scene02,ItemNpc03601" style="HLStype1">Jar</a>
+useiteminfo_3359=Use <a href="findnpc_new,scene02,ItemNpc03601" style="HLStype1">Stove</a> to boil the <a href="TASK_ITEM,useitem_025hy" style="HLStype1">Iron Rod Hammer</a>
 

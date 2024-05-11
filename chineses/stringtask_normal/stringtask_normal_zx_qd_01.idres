@@ -786,38 +786,42 @@ title_24100=Death of the hunter
 title_24102=Death of the shaman
 title_24103=Skin Painter
 title_24104=Eerie calm
-CanAcceptMenu_24190=在下还要去和浣花山庄解释，姑娘多保重
-CompleteMenu_24191=在下受浣花山庄梁二侠之托，请大人暂时不要发出请命文书
-CompleteMenu_24296=军爷，在下查到那些人乃西山古墓弟子。
-CompleteMenu_25214=浣花山庄就是这样以礼待人的吗？
-complete_24296=<s>真是西山古墓？这门派有点邪，不好惹啊,不过此仇不报非君子！
-complete_25212=<s>哼，你这人，三番五次坏我浣花山庄之事，现在居然还想要开棺验尸！你实在是太过分了！
-context_24149=　　唉，刚才有一群浣花山庄的人，他们抓了一个妇女朝梨花寨去了，不知道他们究竟想做些什么。
-context_24201=　　唉，好吧，我同意开棺验尸。不久前我们把修华的棺木安置到二仙庵由静慧师太看管了。若是你验不出个所以然来，那就任凭我浣花山庄处置，你可愿意？
-context_24220=<s>那，那女子…啊！她，她就是那个盗扇子的人，我记起来了，她也是浣花山庄的弟子，就是她！
-context_24236=<s>少侠可否代我前去通知捕头荀业，让他去浣花山庄将此事前因后果转告峨眉！本官希望他们可以早些防范，哎，我已无颜去见他们……
-context_25212=<s>浣花山庄初级弟子好像对我很不满。
-context_25213=<s>浣花山庄大弟子似乎对我很是不满。
-context_25215=<s>浣花山庄掌门似乎有了松口的迹象。
-menu_24199=在下愿去浣花山庄一试
-next_24199=<s><a href="findnpc_new,city05,WorldNpc09804" style="HLStype1">浣花山庄初级弟子</a>好像对我很不满……
-next_24200=<s><a href="findnpc_new,city05,WorldNpc09803" style="HLStype1">浣花山庄大弟子</a>好像也想和我比试……
-next_24208=<s>问问<a href="findnpc_new,city05,WorldNpc09801" style="HLStype1">浣花山庄掌门</a>是否认识这荷包……
-next_24209=<s>继续追问<a href="findnpc_new,city05,WorldNpc09803" style="HLStype1">浣花山庄大弟子</a>荷包一事……
-next_24210=<s>继续追问<a href="findnpc_new,city05,WorldNpc09803" style="HLStype1">浣花山庄大弟子</a>……
-next_24217=<s>询问<a href="findnpc_new,city05,WorldNpc09805" style="HLStype1">浣花山庄兵器库看守弟子</a>为何吞吞吐吐……
-target_24149=　　去找抓走妇女的浣花山庄之人。
-target_24190=<s>去找正赶往霓裳宫的浣花山庄弟子解释
-target_24191=<s>去找浣花山庄二侠代霓裳宫解释
-target_24199=<s>去浣花山庄，请求浣花山庄掌门开棺验尸
-target_24208=<s>将调查结果汇报给浣花山庄掌门
-target_25212=<s>询问浣花山庄初级弟子……
-target_25213=<s>向浣花山庄大弟子解释自己并无恶意……
-target_25215=<s>询问浣花山庄掌门……
-task_TrackInfo_24149=询问<a href="findnpc_new,scene05,WorldNpc06103" style="HLStype1">浣花山庄门人</a>
-task_TrackInfo_24199=请求<a href="findnpc_new,city05,WorldNpc09801" style="HLStype1">浣花山庄掌门</a>开棺验尸
-task_TrackInfo_24208=汇报给<a href="findnpc_new,city05,WorldNpc09801" style="HLStype1">浣花山庄掌门</a>
-task_TrackInfo_25212=与<a href="findnpc_new,city05,WorldNpc09804" style="HLStype1">浣花山庄初级弟子</a>交谈
-task_TrackInfo_25213=与<a href="findnpc_new,city05,WorldNpc09803" style="HLStype1">浣花山庄大弟子</a>交谈
-task_TrackInfo_25215=与<a href="findnpc_new,city05,WorldNpc09801" style="HLStype1">浣花山庄掌门</a>交谈
+CanAcceptMenu_24190=I need to explain to Huanhua Sword Sect, see you.
+CompleteMenu_24191=I'm requested by Liang Yingfeng of Huanhua Sword Sect, please don't send out the petition for the time being.
+CompleteMenu_24296=I found that those people are disciples of Ancient Tomb Sect.
+CompleteMenu_25214=So you just treat people like this, Huanhua Sword Sect?
+complete_24296=<s>Is it really Ancient Tomb Sect? This school is a little evil, not easy to be dealt with, but I must revenge.
+complete_25212=<s>You have ruined our plan for many times and now you dare to open the coffin the examine the corpse. You have gone too far.
+context_24149=Some people of Huanhua Sword Sect just captured a woman and headed to Pear Flower Stronghold. I don't know what they are doing.
+context_24201=Okay, I agree you to open the coffin and examine the corpse, but if you can't give me a satisfactory answer, I'll punish you.
+context_24220=<s>That woman...ah, she is the one who stole the fan. I remember, she is also a disciple of Huanhua Sword Sect.
+context_24236=<s>Can you help me inform the Constable Xun Ye, let him report the incidents to Emei. Sigh, I am shameless to see them.
+context_25212=<s>The junior disciples of Huanhua Sword Sect seem to be unsatisfied with me.
+context_25213=<s>The elder disciples of Huanhua Sword Sect seem to be unsatisfied with me.
+context_25215=<s>The leader of Huanhua Sword Sect seems to be loosening his mouth.
+menu_24199=I'd like to have a try at Huanhua Sword Sect.
+next_24199=<s><a href="findnpc_new,city05,WorldNpc09804" style="HLStype1">The junior disciples of Huanhua Sword Sect</a> seem to be unsatisfied with me...
+next_24200=<s><a href="findnpc_new,city05,WorldNpc09803" style="HLStype1">The elder disciples of Huanhua Sword Sect</a> seem to want to compete with me...
+next_24208=<s>Ask the <a href="findnpc_new,city05,WorldNpc09801" style="HLStype1">Leader of Huanhua Sword Sect</a> if he knows this pouch...
+next_24209=<s>Keep asking <a href="findnpc_new,city05,WorldNpc09803" style="HLStype1">the elder disciples of Huanhua Sword Sect</a> about the pouch...
+next_24210=<s>Keep asking <a href="findnpc_new,city05,WorldNpc09803" style="HLStype1">the elder disciples of Huanhua Sword Sect</a>...
+next_24217=<s>Ask <a href="findnpc_new,city05,WorldNpc09805" style="HLStype1">the Huanhua Sword Sect Weapons Depot Guard Disciple</a> that why he is hesitating...
+target_24149=Go to find the people who captured the woman.
+target_24190=<s>Go to find and explain to the disciple of Huanhua Sword Sect, who is on the way to Nishang Palace.
+target_24191=<s>Go to find and explain to the Second Hero of Huanhua Sword Sect for Nishang Palace.
+target_24199=<s>Go to Huanhua Sword Sect and ask the leader to open the coffin and examine the corpse.
+target_24208=<s>Report the results of investigation to the leader of Huanhua Sword Sect.
+target_25212=<s>Inquire the junior disciples of Huanhua Sword Sect...
+target_25213=<s>Explain to the elder disciples of Huanhua Sword Sect that you mean no harm...
+target_25215=<s>Inquire the leader of Huanhua Sword Sect...
+task_TrackInfo_24149=Inquire the <a href="findnpc_new,scene05,WorldNpc06103" style="HLStype1">Huanhua Sword Sect Disciple</a>.
+task_TrackInfo_24199=Ask the <a href="findnpc_new,city05,WorldNpc09801" style="HLStype1">Leader of Huanhua Sword Sect</a> to open the coffin and examine the corpse.
+task_TrackInfo_24208=Report to the <a href="findnpc_new,city05,WorldNpc09801" style="HLStype1">Leader of Huanhua Sword Sect</a>.
+task_TrackInfo_25212=Talk with <a href="findnpc_new,city05,WorldNpc09804" style="HLStype1">the junior disciples of Huanhua Sword Sect</a>.
+task_TrackInfo_25213=Talk with <a href="findnpc_new,city05,WorldNpc09803" style="HLStype1">the elder disciples of Huanhua Sword Sect</a>.
+task_TrackInfo_25215=Talk with <a href="findnpc_new,city05,WorldNpc09801" style="HLStype1">the leader of Huanhua Sword Sect</a>.
+context_24105=You've been away for too long, quickly come back home
+next_24105=
+target_24105=Return home to visit relatives.
+title_24105=Homesick
 

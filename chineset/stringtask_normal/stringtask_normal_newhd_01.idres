@@ -416,7 +416,6 @@ context_70800=卓北率領眾多外域武林人士，已經侵佔了惡人谷；
 context_70802=九宮老人率一部分中原武林人士先行趕往惡人谷，林大俠隨後就到，跟隨九宮老人前往惡人谷。
 context_70804=此次卓北帶領著大量外域武林人士入侵中原，來勢洶洶，中原武林懈怠已久，物資匱乏，少俠可否幫忙收集點物資，以備讓我們招兵買馬，抵抗外域武林的入侵。
 context_70807=看來外域武林的殺手已經滲透到了盟主身邊，得趕緊告訴盟主詳情才是。
-context_70808=靖難之役後，中原武林紛爭不斷；又恰逢東瀛賊人暗中入侵大明王朝，東海之役後，中原武林人士多有損傷，無力他顧。外域武林認為時機成熟，及率領弟子佔據惡人谷；林天南得知此事之後，親率眾人至惡人谷俠客峰，並要求第一時間打通俠客谷道的通路奪取俠客洞重要地理位置，並同時將此事昭告中原大地，邀各方人士齊聚惡人谷；待八大門派、六大勢力以及隱世八派的人員到齊；而外域武林一方也正在接受來自部分中原武林人士的紛紛投靠，兩方都在整頓人馬，養精蓄銳；惡人谷之戰必將一觸即發...
 menu_70800_1=<font face="Default" color="#ffffff" >竟有此事？</font>
 menu_70802_1=<font face="Default" color="#ffffff" >晚輩領命。</font>
 menu_70804_1=<font face="Default" color="#ffffff" >我這就去</font>
@@ -577,17 +576,14 @@ context_70054=練武強身，一番耕耘，一番收穫。在蘇州比武區接
 context_70055=練武強身，一番耕耘，一番收穫。在蘇州比武區接取任務挫敗任意勢力一次即可獲得豐厚獎勵。
 context_70056=練武強身，一番耕耘，一番收穫。在蘇州比武區接取任務通關任意禁地一次即可獲得豐厚獎勵。
 context_70057=練武強身，一番耕耘，一番收穫。在蘇州比武區接取任務完成戰場勝利一次即可獲得豐厚獎勵。
-context_70058=練武強身，一番耕耘，一番收穫。在蘇州比武區接取任務完成惡人谷之戰勝利二次即可獲得豐厚獎勵。
 target_70054=完成心魔試煉1次。
 target_70055=挫敗任意勢力1個。
 target_70056=通關任意禁地1次。
 target_70057=完成戰場勝利1次。
-target_70058=完成惡人谷之戰勝利2次。
 title_70054=練武勞模-心魔
 title_70055=練武勞模-踢館
 title_70056=練武勞模-禁地
 title_70057=練武勞模-戰場
-title_70058=練武勞模-惡人谷之戰
 complete_70508=<font face="Default" color="#ffffff" >既然血刀堂弟子已經擊殺，你也要小心了，防止柳生次郎懷疑</font><font face="Default" color="#ffffff" >。</font>
 context_70508=最近有血刀堂弟子投靠柳生次郎，一定要想辦法將其剷除
 context_70510=如今血刀堂弟子身死一事已經被柳生次郎懷疑，還需盡快想辦法避免
@@ -631,31 +627,18 @@ target_70063=去活動大使尚武處領取獎勵
 target_70064=去活動大使尚武處領取獎勵
 context_70063=活動期間，所有入駐新服的大俠均可在活動大使尚武處領取新服入駐贈禮一份
 context_70064=活動期間，所有入駐新服的大俠均可在活動大使尚武處領取新服競速好禮一份
-context_70201=幫會近期操練懈怠，不論實力如何，都要時常操練。（完成此任務可為幫會增加125點氣運值）
-context_70202=幫會氣運的增長離不開豐富的資源儲備，請為自己的幫會貢獻資源。（完成此任務可為幫會增加75點氣運值）
-context_70203=知己知彼百戰不殆，擊殺敵對幫會玩家三次，遏制其發展。（完成此任務可為幫會增加175點氣運值）
-context_70204=幫會需要所有成員提升自身實力，勤修苦練，幫會整體實力才能水漲船高。（完成此任務可為幫會增加75點氣運值）
-context_70205=近來四大世家活動頻繁，現在需要所有幫會聯絡各個世家。（完成此任務可為幫會增加125點氣運值）
-context_70206=江湖上經常流傳稱天閶和地淵幫會駐地風水極佳，請去指定駐地探查究竟。（完成此任務可為幫會增加75點氣運值）
-context_70207=最近江湖紛亂，押鏢生意又好了起來，各大幫會也積極參與，想要分一杯羹。（完成此任務可為幫會增加15點氣運值）
-next_70201=<a href="findnpc_new,city01,Guild_tasknpc_001" style="HLStype1">幫會任務大使（燕京）</a><br><a href="findnpc_new,city02,Guild_tasknpc_001" style="HLStype1">幫會任務大使（蘇州）</a><br><a href="findnpc_new,city04,Guild_tasknpc_001" style="HLStype1">幫會任務大使（洛陽）</a><br><a href="findnpc_new,city05,Guild_tasknpc_001" style="HLStype1">幫會任務大使（成都）</a><br>
 next_70202=<a href="findnpc_new,city01,Guild_tasknpc_001" style="HLStype1">幫會任務大使（燕京）</a><br><a href="findnpc_new,city02,Guild_tasknpc_001" style="HLStype1">幫會任務大使（蘇州）</a><br><a href="findnpc_new,city04,Guild_tasknpc_001" style="HLStype1">幫會任務大使（洛陽）</a><br><a href="findnpc_new,city05,Guild_tasknpc_001" style="HLStype1">幫會任務大使（成都）</a><br>
 next_70203=<a href="findnpc_new,city01,Guild_tasknpc_001" style="HLStype1">幫會任務大使（燕京）</a><br><a href="findnpc_new,city02,Guild_tasknpc_001" style="HLStype1">幫會任務大使（蘇州）</a><br><a href="findnpc_new,city04,Guild_tasknpc_001" style="HLStype1">幫會任務大使（洛陽）</a><br><a href="findnpc_new,city05,Guild_tasknpc_001" style="HLStype1">幫會任務大使（成都）</a><br>
-next_70204=<a href="findnpc_new,city01,Guild_tasknpc_001" style="HLStype1">幫會任務大使（燕京）</a><br><a href="findnpc_new,city02,Guild_tasknpc_001" style="HLStype1">幫會任務大使（蘇州）</a><br><a href="findnpc_new,city04,Guild_tasknpc_001" style="HLStype1">幫會任務大使（洛陽）</a><br><a href="findnpc_new,city05,Guild_tasknpc_001" style="HLStype1">幫會任務大使（成都）</a><br>
 next_70205=<a href="findnpc_new,city01,Guild_tasknpc_001" style="HLStype1">幫會任務大使（燕京）</a><br><a href="findnpc_new,city02,Guild_tasknpc_001" style="HLStype1">幫會任務大使（蘇州）</a><br><a href="findnpc_new,city04,Guild_tasknpc_001" style="HLStype1">幫會任務大使（洛陽）</a><br><a href="findnpc_new,city05,Guild_tasknpc_001" style="HLStype1">幫會任務大使（成都）</a><br>
 next_70206=<a href="findnpc_new,city01,Guild_tasknpc_001" style="HLStype1">幫會任務大使（燕京）</a><br><a href="findnpc_new,city02,Guild_tasknpc_001" style="HLStype1">幫會任務大使（蘇州）</a><br><a href="findnpc_new,city04,Guild_tasknpc_001" style="HLStype1">幫會任務大使（洛陽）</a><br><a href="findnpc_new,city05,Guild_tasknpc_001" style="HLStype1">幫會任務大使（成都）</a><br>
-next_70207=<a href="findnpc_new,city01,Guild_tasknpc_001" style="HLStype1">幫會任務大使（燕京）</a><br><a href="findnpc_new,city02,Guild_tasknpc_001" style="HLStype1">幫會任務大使（蘇州）</a><br><a href="findnpc_new,city04,Guild_tasknpc_001" style="HLStype1">幫會任務大使（洛陽）</a><br><a href="findnpc_new,city05,Guild_tasknpc_001" style="HLStype1">幫會任務大使（成都）</a><br>
-target_70201=完成一次幫會團練（需要多人參與，且團練的所有參與者均本幫成員）
 target_70202=為幫會氣運增長貢獻基礎材料(材料由生活職業產出)
 target_70203=擊殺敵對幫會玩家三次
-target_70204=完成一次勤修苦練
 target_70205=完成一次世家團隊玩法（需要多人組隊參與，且玩法的所有參與者均本幫成員）
 target_70206=去找駐地風水先生，探查駐地風水，獲取駐地風水圖。
 target_70207=將幫會鏢護送至終點
 title_70201=幫會團練[幫會]
 title_70202=捐獻材料[幫會]
 title_70203=遏制敵幫[幫會]
-title_70204=勤修苦練[幫會]
 title_70205=拜訪世家[幫會]
 title_70206=駐地風水[幫會]
 title_70207=幫會運鏢[幫會]
@@ -708,26 +691,22 @@ target_70069=祝各位大俠吉祥如意，闔家團圓，福壽康寧，財源�
 target_70070=完成一次門派拜帖任務。
 title_70069=新年祝福
 title_70070=門派拜帖
-context_70071=古語有云：「老吾老以及人之老，幼吾幼以及人之幼。」天冷冬寒，那些無依無靠的老人家們平日就度日艱難，元旦佳節，【蘇州酒樓掌櫃孟光】準備了大量的年貨，但是店中繁忙，無暇抽身，需要大家幫忙送給各位老人。
-context_70072=古語有云：「老吾老以及人之老，幼吾幼以及人之幼。」天冷冬寒，那些無依無靠的老人家們平日就度日艱難，元旦佳節，【蘇州酒樓掌櫃孟光】準備了大量的年貨，但是店中繁忙，無暇抽身，需要大家幫忙送給各位老人。
-context_70073=古語有云：「老吾老以及人之老，幼吾幼以及人之幼。」天冷冬寒，那些無依無靠的老人家們平日就度日艱難，元旦佳節，【蘇州酒樓掌櫃孟光】準備了大量的年貨，但是店中繁忙，無暇抽身，需要大家幫忙送給各位老人。
-context_70074=古語有云：「老吾老以及人之老，幼吾幼以及人之幼。」天冷冬寒，那些無依無靠的老人家們平日就度日艱難，元旦佳節，【蘇州酒樓掌櫃孟光】準備了大量的年貨，但是店中繁忙，無暇抽身，需要大家幫忙送給各位老人。
-target_70071=將酒樓掌櫃孟光準備的年貨送給在酒樓門外乞討的老叫花子范一湯（583 450）。
-target_70072=將酒樓掌櫃孟光準備的年貨送給在酒樓門外的孤寡老太徐雲（540 429）。
-target_70073=將酒樓掌櫃孟光準備的年貨送給在蘇州城內的書齋先生嚴倫（471 433）。
-target_70074=將酒樓掌櫃孟光準備的年貨送給在酒樓門外醉酒的醉漢解廣天（621 420）。
+context_70071=古語有云：「老吾老以及人之老，幼吾幼以及人之幼。」蘇州城中那些無依無靠的老人家們平日就度日艱難，中秋佳節，【蘇州酒樓掌櫃孟光】準備了大量的中秋禮盒，但是店中繁忙，無暇抽身，需要大家幫忙送給各位老人。
+context_70072=古語有云：「老吾老以及人之老，幼吾幼以及人之幼。」蘇州城中那些無依無靠的老人家們平日就度日艱難，中秋佳節，【蘇州酒樓掌櫃孟光】準備了大量的中秋禮盒，但是店中繁忙，無暇抽身，需要大家幫忙送給各位老人。
+context_70073=古語有云：「老吾老以及人之老，幼吾幼以及人之幼。」蘇州城中那些無依無靠的老人家們平日就度日艱難，中秋佳節，【蘇州酒樓掌櫃孟光】準備了大量的中秋禮盒，但是店中繁忙，無暇抽身，需要大家幫忙送給各位老人。
+context_70074=古語有云：「老吾老以及人之老，幼吾幼以及人之幼。」蘇州城中那些無依無靠的老人家們平日就度日艱難，中秋佳節，【蘇州酒樓掌櫃孟光】準備了大量的中秋禮盒，但是店中繁忙，無暇抽身，需要大家幫忙送給各位老人。
+target_70071=將酒樓掌櫃孟光準備的中秋禮盒送給在酒樓門外乞討的老叫花子范一湯（583 450）。
+target_70072=將酒樓掌櫃孟光準備的中秋禮盒送給在酒樓門外的孤寡老太徐雲（540 429）。
+target_70073=將酒樓掌櫃孟光準備的中秋禮盒送給在蘇州城內的書齋先生嚴倫（471 433）。
+target_70074=將酒樓掌櫃孟光準備的中秋禮盒送給在酒樓門外醉酒的醉漢解廣天（621 420）。
 title_70071=敬老恤貧（一）
 title_70072=敬老恤貧（二）
 title_70073=敬老恤貧（三）
 title_70074=敬老恤貧（四）
 context_70075=新年送好禮，活動期間，俠士們可在各大主城活動大使林梁處領取一份新春大禮包。
 context_70076=新年新氣象，活動期間，凡是實力達到駕輕就熟的俠士，每日均可前往各大主城活動大使林梁處領取一份新年紅包。
-context_70077=活動期間，俠士每天可在各大主城活動大使林梁處領取繽紛度假任務（一），完成後即可獲得春節迎新令牌*1。
-context_70078=活動期間，俠士每天可在各大主城活動大使林梁處領取繽紛度假任務（二），完成後即可獲得春節回歸令牌*1。
 target_70075=去各大主城活動大使林梁處領取新春大禮包。
 target_70076=實力達到駕輕就熟的俠士，活動期間，每日可前往各大主城活動大使林梁處領取新年紅包。
-target_70077=找各大主城活動大使林梁接取繽紛度假任務，完成後獲得春節迎新令牌。（江湖名俊的俠士方可接取）
-target_70078=找各大主城活動大使林梁領取繽紛度假任務（二），完成後獲得春節回歸令牌。（江湖名俊的俠士方可接取）
 title_70075=雞年送禮有驚喜
 title_70076=新年紅包送大禮
 title_70077=繽紛度假任務（一）
@@ -756,7 +735,6 @@ menu_70082_1=<font face="Default" color="#ffffff" >正是。晚輩見過前輩�
 submit_70082=<font face="Default" color="#ffffff" >謝過前輩。</font>
 target_70082=找到正在踏青的隱士老者。
 title_70082=春風送暖
-context_70083=為了提升俠士實力，特此增加風雲再起任務，完成相應任務後可獲得風雲再起憑證，使用該憑證可在蘇州通判范宏舉（472 314）處兌換八大門派逆修包（1-180），300W修為灌注包，150W修為包等獎勵。
 target_70083=完成風雲再起系列任務。
 title_70083=風雲再起
 CanAcceptMenu_70084=<font face="Default" color="#ffffff" >小朋友別著急，我去幫你找風箏呀。</font>
@@ -778,4 +756,394 @@ next_70401=與<a href="findnpc_new,born02,outlandwar_lpf001" style="HLStype1">�
 submit_70401=<font face="Default" color="#ffffff" >望那些已故戰友安息!</font>
 target_70401=前往惡人谷無名塚（701，477）進行祭拜,祭奠亡故戰友。
 title_70401=惡人谷祭拜
+CanAcceptMenu_70085=<font face="Default" color="#ffffff" >群俠聚首</font>
+CanAcceptMenu_70086=<font face="Default" color="#ffffff" >切磋比武</font>
+CompleteMenu_70085=<font face="Default" color="#ffffff" >完成任務</font>
+CompleteMenu_70086=<font face="Default" color="#ffffff" >完成任務</font>
+accept_70085_1=<font face="Default" color="#ffffff" >  自外域入侵中原已有多日，外域武林力量日益削弱，但是盤踞在惡人谷的外域武林勢力卻頑固不化。我與九宮老人商議，此時正是清理外域餘孽最好的時機。所以我廣發英雄帖，邀請武林豪傑共聚首，一起剷除外域妖孽，作為少俠響應我的號召，這是我的一份謝禮。</font>
+accept_70086_1=<font face="Default" color="#ffffff" >如今江湖群俠匯聚一堂，許多江湖成名的大俠也紛至沓來，不少俠士有切磋之意，由此互相提升，遂中原武林聚集點比武之風驟起，好不熱鬧</font><font face="Default" color="#ffffff" >。少俠看來身手不凡，是否有意與老夫切磋切磋。</font>
+complete_70085=<font face="Default" color="#ffffff" >  少俠年輕有為，此次前往惡人谷，重重險惡，定當小心。</font>
+complete_70086=<font face="Default" color="#ffffff" >  哈哈哈，不錯不錯，我中原武林有如此後輩，有幸有幸。</font>
+context_70085=自外域入侵中原已有多日，外域武林力量日益削弱，但是盤踞在惡人谷的外域武林勢力卻頑固不化。我與九宮老人商議，此時正是清理外域餘孽最好的時機。所以我廣發英雄帖，邀請武林豪傑共聚首，一起剷除外域妖孽，作為少俠響應我的號召，這是我的一份謝禮。
+context_70086=江湖群俠匯聚一堂，許多江湖成名的大俠也紛至沓來，不少俠士有切磋之意，由此互相提升，遂中原武林聚集點比武之風驟起，好不熱鬧。與武當名宿玉旋子切磋武藝。
+menu_70085_1=<font face="Default" color="#ffffff" >在下定為中原武林赴湯蹈火。</font>
+menu_70086_1=<font face="Default" color="#ffffff" >不敢不敢，前輩乃一代宗師，晚輩不敢無禮。</font>
+submit_70085=<font face="Default" color="#ffffff" >多謝盟主關照。</font>
+submit_70086=<font face="Default" color="#ffffff" >多謝前輩誇獎</font>
+target_70085=與林盟主對話
+target_70086=與玉旋子切磋武藝。
+title_70085=群俠聚首
+title_70086=切磋比武
+CanAcceptMenu_70405=<font face="Default" color="#ffffff" >門派拜帖（可接取）</font>
+CompleteMenu_70405=<font face="Default" color="#ffffff" >門派拜帖（已完成）</font>
+accept_70405_1=<font face="Default" color="#ffffff" >大戰將近，本盟主有要事需要與中原各大門派，勢力掌門商議，然要事纏身，不便前往，特此需要俠士援助，將需議之事通過書信送與各大掌門。</font>
+complete_70405=<font face="Default" color="#ffffff" >這是給予大俠的獎勵，請您笑納！</font>
+context_70405=大戰將近，本盟主有要事需要與中原各大門派，勢力掌門商議，然要事纏身，不便前往，特此需要俠士援助，將需議之事通過書信送與各大掌門。
+menu_70405_1=<font face="Default" color="#ffffff" >好的</font>
+submit_70405=<font face="Default" color="#ffffff" >謝謝</font>
+target_70405=完成一次門派拜帖任務。
+title_70405=門派拜帖
+context_70087=九宮老人雖已隱居，但一直心繫中原武林，得知外域作亂，第一時間便受盟主之邀，出山相助。觀當今中原，人才濟濟，外域宵小現在雖負隅頑抗，然頹勢已現，九宮老人瞭解目前外域有謀劃拉攏外援之意，妄圖合併惡人谷周邊勢力，決定不給外域武林可乘之機，與林天南合力發佈中原武盟令，告知惡人谷周邊勢力中原武林之意。
+target_70087=在洛陽九宮老人處接取中原特使任務，獲得中原武盟令後前往摘星門掌門蘇百靈，素雲宮宮主雲曼，崑崙掌門雲陽子處表明來意，送出中原武盟令，然後回稟九宮老人。
+title_70087=中原特使
+CanAcceptMenu_70402=<font face="Default" color="#ffffff" >棋逢對手（可接取）</font>
+CanAcceptMenu_70403=<font face="Default" color="#ffffff" >探查消息（可接取）</font>
+CanAcceptMenu_70404=<font face="Default" color="#ffffff" >燒燬機關（可接取）</font>
+CompleteMenu_70402=<font face="Default" color="#ffffff" >棋逢對手（</font><font face="Default" color="#ffffff" >已完成</font><font face="Default" color="#ffffff" >）</font>
+CompleteMenu_70403=<font face="Default" color="#ffffff" >探查消息（</font><font face="Default" color="#ffffff" >已完成</font><font face="Default" color="#ffffff" >）</font>
+CompleteMenu_70404=<font face="Default" color="#ffffff" >燒燬機關（已完成）</font>
+accept_70402_1=<font face="Default" color="#ffffff" >聽聞俠士喜愛下棋，不如我們對弈一盤？</font>
+accept_70403_1=<font face="Default" color="#ffffff" >目前，瞭解到朝鮮探子正在惡虎山寨落腳，準備近日啟程前往惡人谷，少俠前往惡虎山寨確定消息的準確性。</font>
+accept_70404_1=<font face="Default" color="#ffffff" >少俠先行前往雞鳴驛與探子確定機關存放之處，找尋機會將其摧毀。</font>
+complete_70402=<font face="Default" color="#ffffff" >俠士果然棋藝精湛，這是給予你的獎勵！</font>
+complete_70403=<font face="Default" color="#ffffff" >你的這份情報對於我們很是重要，這是給予你的獎勵</font><font face="Default" color="#ffffff" >。</font>
+complete_70404=<font face="Default" color="#ffffff" >這次行動能夠順利完成，多虧少俠，這是獎勵，請少俠收下。</font>
+context_70402=聽聞君子堂：石硯冰也加入中原陣營，不少喜好對弈的當世俠客也希望能夠進行切磋棋藝。
+context_70403=瞭解到目前朝鮮探子目前正在惡虎山寨落腳，準備近日啟程前往惡人谷，少俠前往惡虎山寨確定消息的準確性。
+context_70404=盟主得知消息後，稍作分析，認為目前這批機關還在中原境內，務必不能讓其順利到達惡人谷，請少俠先行前往雞鳴驛與探子確定機關存放之處，找尋機會將其摧毀。
+menu_70402_1=<font face="Default" color="#ffffff" >好的</font><font face="Default" color="#ffffff" >。</font>
+menu_70403_1=<font face="Default" color="#ffffff" >好的</font>
+menu_70404_1=<font face="Default" color="#ffffff" >好的</font>
+submit_70402=<font face="Default" color="#ffffff" >謝謝</font><font face="Default" color="#ffffff" >！</font>
+submit_70403=<font face="Default" color="#ffffff" >謝盟主</font>
+submit_70404=<font face="Default" color="#ffffff" >謝謝</font>
+target_70402=進行切磋棋藝
+target_70403=完成一次惡虎山寨踢館。
+target_70404=炸毀機關
+title_70402=棋逢對手
+title_70403=探查消息
+title_70404=燒燬機關
+CanAcceptMenu_70088=<font face="Default" color="#ffffff" >九色毒蟲（可承接）</font>
+CompleteMenu_70088=<font face="Default" color="#ffffff" >九色毒蟲（可提交）</font>
+accept_70088_1=<font face="Default" color="#ffffff" >神醫目前有解毒之法，煉製出的解藥不僅可以解毒，更可使人明心見性，加快修煉速度</font><font face="Default" color="#ffffff" >，但需要五蘊配合使用。</font>
+complete_70088=<font face="Default" color="#ffffff" >如此甚好，此乃九色解藥，望你好好使用。</font>
+context_70088=毒蟲之毒為一縷邪氣入體所致，因此可以用驅邪之物：五蘊伏魔品解之。
+menu_70088_1=<font face="Default" color="#ffffff" >我來尋求九色毒蟲之毒的解毒之法。</font>
+submit_70088=<font face="Default" color="#ffffff" >我已收集到了五蘊。</font>
+target_70088=收集五蘊換取解藥
+title_70088=九色毒蟲
+CanAcceptMenu_70089=<font face="Default" color="#ffffff" >馬場修葺</font>
+CanAcceptMenu_70090=<font face="Default" color="#ffffff" >馬場除草</font>
+CanAcceptMenu_70091=<font face="Default" color="#ffffff" >馬場運送</font>
+CanAcceptMenu_70092=<font face="Default" color="#ffffff" >馬場製造</font>
+CompleteMenu_70089=<font face="Default" color="#ffffff" >提交任務</font>
+CompleteMenu_70090=<font face="Default" color="#ffffff" >提交任務</font>
+CompleteMenu_70091=<font face="Default" color="#ffffff" >提交任務</font>
+CompleteMenu_70092=<font face="Default" color="#ffffff" >提交任務</font>
+accept_70089_1=<font face="Default" color="#ffffff" >這燕京馬場多年失修，望俠士助我修繕馬棚。</font>
+accept_70090_1=<font face="Default" color="#ffffff" >這燕京馬場多年失修，少俠可否幫我前去馬場除草？</font>
+accept_70091_1=<font face="Default" color="#ffffff" >這燕京馬場多年失修，</font><font face="Default" color="#ffffff" >我已經找人買來維修用的木材，</font><font face="Default" color="#ffffff" >少俠可否幫我前去</font><font face="Default" color="#ffffff" >搬運這些木材</font><font face="Default" color="#ffffff" >？</font>
+accept_70092_1=<font face="Default" color="#ffffff" >這燕京馬場多年失修，少俠可否幫我</font><font face="Default" color="#ffffff" >加工下維修馬場用的材料？</font>
+complete_70089=<font face="Default" color="#ffffff" >少俠這麼快</font><font face="Default" color="#ffffff" >就完成了，真是好身手。</font>
+complete_70090=<font face="Default" color="#ffffff" >想不到少俠這麼快就完成了，真是好身手啊！</font>
+complete_70091=<font face="Default" color="#ffffff" >想不到少俠這麼快就完成了，真是好身手啊！</font>
+complete_70092=<font face="Default" color="#ffffff" >想不到少俠這麼快就完成了，真是好身手啊！</font>
+context_70089=燕京馬場多年失修，馬場總管希望你幫他修葺馬棚。
+context_70090=燕京馬場多年失修，馬場總管希望你幫他去完成馬場的除草工作。
+context_70091=燕京馬場多年失修，馬場總管希望你幫他搬運維修馬場的木料。
+context_70092=燕京馬場多年失修，馬場總管希望你幫他製造馬場的維修材料。
+menu_70089_1=<font face="Default" color="#ffffff" >我這就去。</font>
+menu_70090_1=<font face="Default" color="#ffffff" >我這就去。</font>
+menu_70091_1=<font face="Default" color="#ffffff" >我這就去。</font>
+menu_70092_1=<font face="Default" color="#ffffff" >我這就去。</font>
+submit_70089=<font face="Default" color="#ffffff" >大人您過譽了。</font>
+submit_70090=<font face="Default" color="#ffffff" >大人您過譽了。</font>
+submit_70091=<font face="Default" color="#ffffff" >大人您過譽了。</font>
+submit_70092=<font face="Default" color="#ffffff" >大人您過譽了。</font>
+target_70089=幫助馬場總管修葺馬棚
+target_70090=幫助馬場主管完成馬場的除草工作。
+target_70091=幫助馬場總管搬運木料
+target_70092=幫助馬場總管製造維修材料
+title_70089=馬場修葺
+title_70090=馬場除草
+title_70091=馬場運送
+title_70092=馬場製造
+context_70058=練武強身，一番耕耘，一番收穫。在蘇州比武區接取任務完成天梯一次可獲得豐厚獎勵。
+target_70058=完成天梯1次。
+title_70058=練武勞模-天梯
+target_70204=勤修苦練日常活躍達到75。
+context_70077=活動期間，俠士每天可在各大主城活動大使林梁處領取繽紛度假任務（一），完成後即可獲得五一迎新令牌*1。
+context_70078=活動期間，俠士每天可在各大主城活動大使林梁處領取繽紛度假任務（二），完成後即可獲得五一回歸令牌*1。
+target_70077=找各大主城活動大使林梁接取繽紛度假任務，完成後獲得五一迎新令牌。（江湖名俊的俠士方可接取）
+target_70078=找各大主城活動大使林梁領取繽紛度假任務（二），完成後獲得五一回歸令牌。（江湖名俊的俠士方可接取）
+CanAcceptMenu_70093=<font face="Default" color="#ffffff" >又是一年端午到，佳節禮盒任意領</font>
+CompleteMenu_70093=<font face="Default" color="#ffffff" >完成任務</font>
+accept_70093_1=<font face="Default" color="#ffffff" >  又是一年</font><font face="Default" color="#ffffff" >端午佳節</font><font face="Default" color="#ffffff" >至。只要在</font><font face="Default" color="#ffffff" >端午節</font><font face="Default" color="#ffffff" >活動期間登陸，都可以在我這邊領取一份獎品。</font>
+complete_70093=<font face="Default" color="#ffffff" >  </font><font face="Default" color="#ffffff" >祝少俠一路順風。</font>
+context_70093=活動期間，登錄遊戲即可前往 活動大使林梁 處領取端午佳節禮盒（每個角色僅限領取1次）
+menu_70093_1=<font face="Default" color="#ffffff" >多謝</font>
+next_70093=
+submit_70093=<font face="Default" color="#ffffff" >在下告辭</font>
+target_70093=找到林梁，領取端午佳節禮盒
+title_70093=又是一年端午到，佳節禮盒任意領
+context_70232=幫會氣運的增長離不開豐富的資源儲備，請為自己的幫會貢獻資源。
+context_70233=知己知彼百戰不殆，完成1次運鏢和1次劫鏢。
+context_70234=幫會需要所有成員提升自身實力，勤修苦練，幫會整體實力才能水漲船高。
+context_70235=進來四大世家活動頻繁，現在需要所有幫會聯絡各個世家。
+context_70236=江湖上經常流傳稱天閭和地淵幫會駐地風水極佳，請去指定駐地探查究竟。
+next_70232=按H鍵打開幫會主界面在【幫會氣運】-【獲取氣運】分頁提交任務
+next_70233=按H鍵打開幫會主界面在【幫會氣運】-【獲取氣運】分頁提交任務
+next_70234=按H鍵打開幫會主界面在【幫會氣運】-【獲取氣運】分頁提交任務
+next_70235=按H鍵打開幫會主界面在【幫會氣運】-【獲取氣運】分頁提交任務
+next_70236=按H鍵打開幫會主界面在【幫會氣運】-【獲取氣運】分頁提交任務
+target_70232=為幫會氣運增長貢獻基礎材料
+target_70233=完成1次運鏢和1次劫鏢
+target_70234=勤修苦練日常活躍達到75。
+target_70235=前往對應世家，交流武學心得
+target_70236=去找駐地風水先生，探查駐地風水，獲取駐地風水圖。
+title_70232=捐獻材料[幫會]
+title_70233=遏制敵幫[幫會]
+title_70234=勤修苦練[幫會]
+title_70235=拜訪世家[幫會]
+title_70236=駐地風水[幫會]
+context_70410=由酒館老闆告知成都有外域人士出沒，其身上應該攜有藏寶圖，可前往擊敗他獲得藏寶圖
+context_70411=由酒館老闆告知蘇州有外域人士出沒，其身上應該攜有藏寶圖，可前往擊敗他獲得藏寶圖
+context_70412=由酒館老闆告知金陵有外域人士出沒，其身上應該攜有藏寶圖，可前往擊敗他獲得藏寶圖
+context_70413=由酒館老闆告知洛陽有外域人士出沒，其身上應該攜有藏寶圖，可前往擊敗他獲得藏寶圖
+context_70414=由酒館老闆告知燕京有外域人士出沒，其身上應該攜有藏寶圖，可前往擊敗他獲得藏寶圖
+target_70410=前往尋找流竄於成都的外域人士，並從其手中獲得藏寶圖
+target_70411=前往尋找流竄於蘇州的外域人士，並從其手中獲得藏寶圖
+target_70412=前往尋找流竄於金陵的外域人士，並從其手中獲得藏寶圖
+target_70413=前往尋找流竄於洛陽的外域人士，並從其手中獲得藏寶圖
+target_70414=前往尋找流竄於燕京的外域人士，並從其手中獲得藏寶圖
+title_70410=寶圖線索
+title_70411=寶圖線索
+title_70412=寶圖線索
+title_70413=寶圖線索
+title_70414=寶圖線索
+context_70094=活動期間，所有人都可以在林梁處領取一份贈禮，贈禮將在24小時後消失，領取後請盡快打開
+target_70094=領取新版狂歡全民贈禮
+title_70094=新版狂歡全民贈禮
+context_70201=幫會近期操練懈怠，不論實力如何，都要時常操練。
+context_70202=幫會氣運的增長離不開豐富的資源儲備，請為自己的幫會貢獻資源。
+context_70203=知己知彼百戰不殆，擊殺敵對幫會玩家三次，遏制其發展。
+context_70204=幫會需要所有成員提升自身實力，勤修苦練，幫會整體實力才能水漲船高。
+context_70205=近來四大世家活動頻繁，現在需要所有幫會聯絡各個世家。
+context_70206=江湖上經常流傳稱天閶和地淵幫會駐地風水極佳，請去指定駐地探查究竟。
+context_70207=最近江湖紛亂，押鏢生意又好了起來，各大幫會也積極參與，想要分一杯羹。
+next_70201=按H鍵打開幫會主界面在【幫會氣運】-【獲取氣運】分頁提交任務
+next_70204=按H鍵打開幫會主界面在【幫會氣運】-【獲取氣運】分頁提交任務
+next_70207=按H鍵打開幫會主界面在【幫會氣運】-【獲取氣運】分頁提交任務
+target_70201=完成一次幫會團練（團練時，團隊內至少有一個與自己同幫的俠士）
+title_70204=勤修苦練[幫會]
+context_70095=活動期間，俠士可前往各大主城活動大使林梁處領取夏日禮包一份，打開可以獲得酸梅湯*5，綠豆粥*5，綠茶*5，包裹箱*1，奔霄（7天）*1，俠客令*30，五蘊伏魔品*20，大如意丸*3。
+target_70095=前往各大主城活動大使林梁處領取夏日禮包一份。
+title_70095=清涼一夏全民禮包
+CanAcceptMenu_70102=<font face="Default" color="#ffffff" >助力明教（可接受）</font>
+CompleteMenu_70102=<font face="Default" color="#ffffff" >助力明教</font><font face="Default" color="#ffffff" >（已完成）</font>
+accept_70102_1=<font face="Default" color="#ffffff" >明教入世，掌教大人為鑽研內功，需要大量五蘊奇書用於克制心魔，遂命明教弟子進行收集，凡有上供者，均可得到明教答謝。</font>
+complete_70102=<font face="Default" color="#ffffff" >恩，你做的不錯，這是給予你的獎勵！</font>
+context_70102=明教入世，掌教大人為鑽研內功，需要大量五蘊奇書用於克制心魔，遂命明教弟子進行收集，凡有上供者，均可得到明教答謝。
+menu_70102_1=<font face="Default" color="#ffffff" >好的，讓我好好想想！</font>
+submit_70102=<font face="Default" color="#ffffff" >好的，謝謝</font>
+target_70102=上交6個五蘊伏魔品（每天最多完成10次）
+title_70102=助力明教
+context_70103=獲得期間，明教弟子和其他門派弟子實力達到一定階段後，可結伴獲取攜手江湖任務一次，完成任務後結伴雙方可分別獲得結伴嘉獎（明）、結伴嘉獎（伴）。結伴步驟：1.	明教弟子和非明教弟子組隊，明教弟子為隊長，且隊伍只有兩人；
+context_70104=活動期間，明教弟子和其他門派弟子實力達到一定階段後，可結伴獲取攜手江湖任務一次，完成任務後結伴雙方可分別獲得結伴嘉獎（明）、結伴嘉獎（伴）。結伴步驟：
+context_70105=活動期間，明教弟子和其他門派弟子實力達到一定階段後，可結伴獲取攜手江湖任務一次，完成任務後結伴雙方可分別獲得結伴嘉獎（明）、結伴嘉獎（伴）。結伴步驟：
+context_70106=活動期間，明教弟子和其他門派弟子實力達到一定階段後，可結伴獲取攜手江湖任務一次，完成任務後結伴雙方可分別獲得結伴嘉獎（明）、結伴嘉獎（伴）。結伴步驟：
+context_70107=活動期間，明教弟子和其他門派弟子實力達到一定階段後，可結伴獲取攜手江湖任務一次，完成任務後結伴雙方可分別獲得結伴嘉獎（明）、結伴嘉獎（伴）。結伴步驟：
+context_70108=活動期間，明教弟子和其他門派弟子實力達到一定階段後，可結伴獲取攜手江湖任務一次，完成任務後結伴雙方可分別獲得結伴嘉獎（明）、結伴嘉獎（伴）。結伴步驟：
+context_70109=活動期間，明教弟子和其他門派弟子實力達到一定階段後，可結伴獲取攜手江湖任務一次，完成任務後結伴雙方可分別獲得結伴嘉獎（明）、結伴嘉獎（伴）。結伴步驟：
+context_70110=活動期間，明教弟子和其他門派弟子實力達到一定階段後，可結伴獲取攜手江湖任務一次，完成任務後結伴雙方可分別獲得結伴嘉獎（明）、結伴嘉獎（伴）。結伴步驟：
+context_70111=江湖名俊玩家加入明教，達到基礎實力可以前往明教大師兄處進行認證晉陞，飛速成長。達到對應條件可以前往明教大師兄處接取，晉陞任務，完成任務後，可以獲得：聖火晉陞包,禮包打開可以獲得明教對應內功和招式書頁以及招式灌注丹。
+context_70112=江湖名俊玩家加入明教，達到基礎實力可以前往明教大師兄處進行認證晉陞，飛速成長。玩家達到對應條件可以前往明教大師兄處接取，晉陞任務，運行內功完成任務後，可以獲得：聖火晉陞包,禮包打開可以獲得明教對應內功和招式書頁以及招式灌注丹。
+context_70113=江湖名俊玩家加入明教，達到基礎實力可以前往明教大師兄處進行認證晉陞，飛速成長；玩家達到對應條件可以前往明教大師兄處接取，晉陞任務，運行內功完成任務後，可以獲得：聖火晉陞包,禮包打開可以獲得明教對應內功和招式書頁以及招式灌注丹。
+context_70114=江湖名俊玩家加入明教，達到基礎實力可以前往明教大師兄處進行認證晉陞，飛速成長。玩家達到對應條件可以前往明教大師兄處接取，晉陞任務，運行內功完成任務後，可以獲得：聖火晉陞包,禮包打開可以獲得明教對應內功和招式書頁以及招式灌注丹。
+context_70115=江湖名俊玩家加入明教，達到基礎實力可以前往明教大師兄處進行認證晉陞，飛速成長。玩家達到對應條件可以前往明教大師兄處接取，晉陞任務，運行內功完成任務後，可以獲得：聖火晉陞包,禮包打開可以獲得明教對應內功和招式書頁以及招式灌注丹。
+context_70116=江湖名俊玩家加入明教，達到基礎實力可以前往明教大師兄處進行認證晉陞，飛速成長。玩家達到對應條件可以前往明教大師兄處接取，晉陞任務，運行內功完成任務後，可以獲得：聖火晉陞包,禮包打開可以獲得明教對應內功和招式書頁以及招式灌注丹。
+context_70117=前往明教大師兄處接取任務，挑戰禁地，根據九陰志差異，任務要求不同，高階九陰志可以接取低階九陰志的任務，每種任務接取有一定的限定次數。
+context_70118=活動期間滿足條件的明教弟子可前往明教大師兄處接取任務，挑戰禁地，根據九陰志差異，任務要求不同，高階九陰志可以接取低階九陰志的任務，每種任務接取有一定的限定次數。
+context_70119=活動期間滿足條件的明教弟子可前往明教大師兄處接取任務，挑戰禁地，根據九陰志差異，任務要求不同，高階九陰志可以接取低階九陰志的任務，每種任務接取有一定的限定次數。
+context_70120=活動期間達到條件的名俊弟子可前往成都武館明教大師兄處接取任務，挑戰禁地，根據九陰志差異，任務要求不同，高階九陰志可以接取低階九陰志的任務，每種任務接取有一定的限定次數。
+context_70121=活動期間，達到條件的明教弟子可前往明教大師兄處接取任務，挑戰禁地，根據九陰志差異，任務要求不同，高階九陰志可以接取低階九陰志的任務，每種任務接取有一定的限定次數。
+context_70122=活動期間，達到條件的明教弟子可前往明教大師兄處接取任務，挑戰禁地，根據九陰志差異，任務要求不同，高階九陰志可以接取低階九陰志的任務，每種任務接取有一定的限定次數。
+target_70103=前往成都武館<a href="findnpc_new,city05,act818_mj_001" style="HLStype1">顧大健（明教師兄）</a>處接取結伴嘉獎任務後成功提交獲得豐厚獎勵。
+target_70104=前往成都武館<a href="findnpc_new,city05,act818_mj_001" style="HLStype1">顧大健（明教師兄）</a>接取結伴嘉獎任務完成後可獲得豐厚獎勵。
+target_70105=前往成都武館找<a href="findnpc_new,city05,act818_mj_001" style="HLStype1">顧大健（明教師兄）</a>完成結伴嘉獎任務。
+target_70106=找成都武館<a href="findnpc_new,city05,act818_mj_001" style="HLStype1">顧大健（明教師兄）</a>完成結伴嘉獎任務獲得獎勵。
+target_70107=前往成都武館找<a href="findnpc_new,city05,act818_mj_001" style="HLStype1">顧大健（明教師兄）</a>完成結伴嘉獎任務獲得獎勵。
+target_70108=前往成都武館<a href="findnpc_new,city05,act818_mj_001" style="HLStype1">顧大健（明教師兄）</a>完成結伴嘉獎任務獲得獎勵。
+target_70109=前往成都武館<a href="findnpc_new,city05,act818_mj_001" style="HLStype1">顧大健（明教師兄）</a>完成結伴嘉獎任務獲得獎勵。
+target_70110=前往成都武館找<a href="findnpc_new,city05,act818_mj_001" style="HLStype1">顧大健（明教師兄）</a>完成結伴嘉獎任務獲得獎勵。
+target_70111=達到條件後可前往成都武館<a href="findnpc_new,city05,act818_mj_001" style="HLStype1">顧大健（明教師兄）</a>完成晉陞任務獲得獎勵。
+target_70112=達到條件的玩家可前往成都武館<a href="findnpc_new,city05,act818_mj_001" style="HLStype1">顧大健（明教師兄）</a>完成晉陞任務獲得獎勵。
+target_70113=達到條件的玩家可前往成都武館<a href="findnpc_new,city05,act818_mj_001" style="HLStype1">顧大健（明教師兄）</a>完成晉陞任務獲得獎勵。
+target_70114=達到條件的玩家可前往成都武館<a href="findnpc_new,city05,act818_mj_001" style="HLStype1">顧大健（明教師兄）</a>完成晉陞任務獲得獎勵。
+target_70115=達到條件的玩家可前往成都武館<a href="findnpc_new,city05,act818_mj_001" style="HLStype1">顧大健（明教師兄）</a>完成晉陞任務獲得獎勵。
+target_70116=達到條件的玩家可前往成都武館<a href="findnpc_new,city05,act818_mj_001" style="HLStype1">顧大健（明教師兄）</a>完成晉陞任務獲得獎勵。
+target_70117=通關禁地普通暮色之村一次。
+target_70118=通關禁地普通青雲堡一次。
+target_70119=通關禁地困難青雲堡一次。
+target_70120=通關禁地普通鳳凰山莊一次。
+target_70121=通關禁地普通龍門客棧一次。
+target_70122=通關禁地地獄雁門關守軍一次。
+title_70103=結伴嘉獎（明）（三內）
+title_70104=結伴嘉獎（伴）（三內）
+title_70105=結伴嘉獎（明）（四內）
+title_70106=結伴嘉獎（伴）（四內）
+title_70107=結伴嘉獎（明）（五內）
+title_70108=結伴嘉獎（伴）（五內）
+title_70109=結伴嘉獎（明）（六內）
+title_70110=結伴嘉獎（伴）（六內）
+title_70111=明教晉陞（一）
+title_70112=明教晉陞（二）
+title_70113=明教晉陞（三）
+title_70114=明教晉陞（四）
+title_70115=明教晉陞（五）
+title_70116=明教晉陞（六）
+title_70117=挑戰禁地（一）
+title_70118=挑戰禁地（二）
+title_70119=挑戰禁地（三）
+title_70120=挑戰禁地（四）
+title_70121=挑戰禁地（五）
+title_70122=挑戰禁地（六）
+context_70808=靖難之役後，中原武林紛爭不斷；又恰逢東瀛賊人暗中入侵大明王朝，東海之役後，中原武林人士多有損傷，無力他顧。外域武林認為時機成熟，及率領弟子佔據惡人谷；林天南得知此事之後，親率眾人至惡人谷俠客峰，並要求第一時間打通俠客谷道的通路奪取俠客洞重要地理位置，並同時將此事昭告中原大地，邀各方人士齊聚惡人谷；待九大宗門、六大勢力以及隱世八派的人員到齊；而外域武林一方也正在接受來自部分中原武林人士的紛紛投靠，兩方都在整頓人馬，養精蓄銳；惡人谷之戰必將一觸即發...
+context_70083=為了提升俠士實力，特此增加風雲再起任務，完成相應任務後可獲得風雲再起憑證，使用該憑證可在蘇州通判范宏舉（472 314）處兌換九大宗門逆修包（1-180），300W修為灌注包，150W修為包等獎勵。
+context_70123=活動期間，江湖名俊俠士每日可前往蘇州（423.794）或成都（923.551）寧九徽（江湖客）處承接活動任務，俠士可隨機接取勤學練業不同形式（挫敗勢力，心魔戰場等）， 完成後獲得對應任務獎勵。
+context_70124=活動期間，江湖名俊俠士每日可前往蘇州（423.794）或成都（923.551）寧九徽（江湖客）處承接活動任務，俠士可自由選擇接取勤學練業之歷練，虎鬥，龍爭中任意一個， 完成後獲得對應任務獎勵。<font color="#FF3030">（三種任務只能選擇其中一種接取）</font>
+context_70125=活動期間，江湖名俊俠士每日可前往蘇州（423.794）或成都（923.551）寧九徽（江湖客）處承接活動任務，俠士可自由選擇接取勤學練業之歷練，虎鬥，龍爭中任意一個， 完成後獲得對應任務獎勵。<font color="#FF3030">（三種任務只能選擇其中一種接取）</font>
+target_70123=江湖名俊俠士每日可前往蘇州（423.794）或成都（923.551）寧九徽（江湖客）處完成勤學練業任務獲得豐厚獎勵。
+target_70124=江湖名俊俠士每日可前往蘇州（423.794）或成都（923.551）寧九徽（江湖客）處完成勤學練業任務獲得豐厚獎勵。
+target_70125=江湖名俊俠士每日可前往蘇州（423.794）或成都（923.551）寧九徽（江湖客）處完成勤學練業任務獲得豐厚獎勵。
+title_70123=勤學練業
+title_70124=勤學練業之虎鬥
+title_70125=勤學練業之龍爭
+context_70127=活動期間，實力達到略有小成且是江湖名俊的俠士，可在蘇州書齋先生嚴倫（471 434）處領取一份莘莘學子禮包。
+target_70127=前往蘇州書齋先生嚴倫（471 434）處領取莘莘學子禮包。
+title_70127=學子入學領好禮
+CanAcceptMenu_70126=<font face="Default" color="#ffffff" >門派開學拜帖（可接取）</font>
+CompleteMenu_70126=<font face="Default" color="#ffffff" >門派開學拜帖（可提交）</font>
+accept_70126_1=<font face="Default" color="#ffffff" >武林各派勢力皆有「新鮮血液」注入，本盟主本應到場觀禮各派新生大典，奈何瑣事繁多身不由己，特此需要俠士遞送拜帖，還望各大掌門海涵。</font>
+complete_70126=<font face="Default" color="#ffffff" >這是給予大俠的獎勵，請您笑納！</font>
+context_70126=武林各派勢力皆有「新鮮血液」注入，本盟主本應到場觀禮各派新生大典，奈何瑣事繁多身不由己，特此需要俠士遞送拜帖，還望各大掌門海涵。
+menu_70126_1=<font face="Default" color="#ffffff" >好的</font>
+submit_70126=<font face="Default" color="#ffffff" >謝謝</font>
+target_70126=完成一次門派開學拜帖任務。
+title_70126=門派開學拜帖
+context_70128=活動期間，所有實力達到「略有小成」的名俊俠士，可在 林梁 處領取「雙節歡慶禮包」一份，內含：饅頭*50、馬哨（赤電）7天*1、萬靈金券*5、時裝錦盒（7天）*1、浣洗券*10、包裹錦盒（7天）*2、碎銀500兩、藏頭露尾*3、武慶禮卡*3、九轉通冥丸*5, 雙節狂歡令牌*1（雙節狂歡令牌可在林梁處兌換精美禮品）。
+context_70129=獲得期間內，擁有江湖名俊的俠士可前往各大主城活動大使林梁處領取繽紛度假任務，完成後可獲得雙節回歸令牌*1，該令牌可在林梁處兌換精美禮品。
+target_70128=前往各大主城活動大使林梁處領取雙節好禮。
+target_70129=前往各大主城節日活動大使林梁處領取繽紛度假任務，完成後可獲得精美禮品。
+title_70128=雙節簽到領好禮
+title_70129=繽紛度假領好禮
+context_70130=活動期間內，俠士只要登錄遊戲，就可以找到各大主城活動大使林梁接去全民狂歡贈好禮任務，提交任務後可以獲得「雪域逃殺」全民贈禮一份，禮包將在進入背包24小時後過期刪除，請及時使用。
+context_70131=我大明江山千峰競秀，隱世高人更是不計其數，得一高人指點，自當受益匪淺。然遍知江湖隱秘者，唯武林第一智者百曉生傳人周揚軍一人。值此關外雪域危機四伏，武林盟主特邀周揚軍出山相助。周揚軍別無他好，只是嗜酒如命。大俠若是能尋來好酒，他自會知無不言言無不盡。我這裡有好酒可以助少俠前去討好周楊軍，但是需要你略盡綿力才行。
+context_70132=然遍知江湖隱秘者，唯我武林第一智者百曉生傳人周揚軍一人。值此中原武林岌岌可危之際，武林盟主特邀我出山相助。少俠你可是來詢問隱世高人的行蹤？我沒醉，，，酒，酒，酒。
+target_70130=前往各大主城活動大使林梁領取雪域逃殺全民贈禮。
+target_70131=隱世高人行蹤不定，要想尋得高人行蹤須得先去拜見江湖百曉生傳人周揚軍。並且要先證明你的實力方可。你若完成我交給你的任務，我便贈與你瓊漿佳釀助你前去拜見周揚軍。
+target_70132=在周揚軍的指引下前去尋找卜磊遠(隱世高人)的行蹤。
+title_70130=全民狂歡贈好禮
+title_70131=山河藏秀
+title_70132=山河藏秀
+CompleteMenu_70132=<font face="Default" color="#ffffff" >終於不虛此行，完成高人指點了。</font>
+complete_70131=<font face="Default" color="#ffffff" >果然是好酒，少俠你可要品嚐一番？</font>
+complete_70132=<font face="Default" color="#ffffff" >恭喜少俠一番歷練終於得到高人指點，這是給你的獎勵。</font>
+submit_70131=<font face="Default" color="#ffffff" >多謝前輩，晚輩告辭了。</font>
+submit_70132=<font face="Default" color="#ffffff" >非常感謝。</font>
+CanAcceptMenu_70133=<font face="Default" color="#ffffff" >感恩禮盒（初窺門徑）</font>
+CanAcceptMenu_70134=<font face="Default" color="#ffffff" >感恩禮盒（神乎其技）</font>
+CanAcceptMenu_70135=<font face="Default" color="#ffffff" >感恩禮盒（</font><font face="Default" color="#ffffff" >登峰造極</font><font face="Default" color="#ffffff" >）</font>
+CanAcceptMenu_70136=<font face="Default" color="#ffffff" >感恩禮盒（所向披靡）</font>
+CanAcceptMenu_70137=<font face="Default" color="#ffffff" >感恩禮盒（</font><font face="Default" color="#ffffff" >驚世駭俗</font><font face="Default" color="#ffffff" >）</font>
+CanAcceptMenu_70138=<font face="Default" color="#ffffff" >感恩禮盒（空前絕後）</font>
+CanAcceptMenu_70139=<font face="Default" color="#ffffff" >感恩禮盒（深藏不露）</font>
+CompleteMenu_70133=<font face="Default" color="#ffffff" >完成任務</font>
+CompleteMenu_70134=<font face="Default" color="#ffffff" >完成任務</font>
+CompleteMenu_70135=<font face="Default" color="#ffffff" >完成任務</font>
+CompleteMenu_70136=<font face="Default" color="#ffffff" >完成任務</font>
+CompleteMenu_70137=<font face="Default" color="#ffffff" >完成任務</font>
+CompleteMenu_70138=<font face="Default" color="#ffffff" >完成任務</font>
+CompleteMenu_70139=<font face="Default" color="#ffffff" >完成任務</font>
+accept_70133_1=<font face="Default" color="#ffffff" >感恩大回饋，我來給你們送禮了。</font>
+accept_70134_1=<font face="Default" color="#ffffff" >感恩大回饋，我來給你們送禮了。</font>
+accept_70135_1=<font face="Default" color="#ffffff" >感恩大回饋，我來給你們送禮了。</font>
+accept_70136_1=<font face="Default" color="#ffffff" >感恩大回饋，我來給你們送禮了。</font>
+accept_70137_1=<font face="Default" color="#ffffff" >感恩大回饋，我來給你們送禮了。</font>
+accept_70138_1=<font face="Default" color="#ffffff" >感恩大回饋，我來給你們送禮了。</font>
+accept_70139_1=<font face="Default" color="#ffffff" >感恩大回饋，我來給你們送禮了。</font>
+complete_70133=<font face="Default" color="#ffffff" >絕對不會讓你失望的。</font>
+complete_70134=<font face="Default" color="#ffffff" >絕對不會讓你失望的。</font>
+complete_70135=<font face="Default" color="#ffffff" >絕對不會讓你失望的。</font>
+complete_70136=<font face="Default" color="#ffffff" >絕對不會讓你失望的。</font>
+complete_70137=<font face="Default" color="#ffffff" >絕對不會讓你失望的。</font>
+complete_70138=<font face="Default" color="#ffffff" >絕對不會讓你失望的。</font>
+complete_70139=<font face="Default" color="#ffffff" >絕對不會讓你失望的。</font>
+context_70133=感恩大回饋
+context_70134=感恩大回饋
+context_70135=感恩大回饋
+context_70136=感恩大回饋
+context_70137=感恩大回饋
+context_70138=感恩大回饋
+context_70139=感恩大回饋
+menu_70133_1=<font face="Default" color="#ffffff" >有什麼禮物。</font>
+menu_70134_1=<font face="Default" color="#ffffff" >有什麼禮物。</font>
+menu_70135_1=<font face="Default" color="#ffffff" >有什麼禮物。</font>
+menu_70136_1=<font face="Default" color="#ffffff" >有什麼禮物。</font>
+menu_70137_1=<font face="Default" color="#ffffff" >有什麼禮物。</font>
+menu_70138_1=<font face="Default" color="#ffffff" >有什麼禮物。</font>
+menu_70139_1=<font face="Default" color="#ffffff" >有什麼禮物。</font>
+submit_70133=<font face="Default" color="#ffffff" >多謝！</font>
+submit_70134=<font face="Default" color="#ffffff" >多謝！</font>
+submit_70135=<font face="Default" color="#ffffff" >多謝！</font>
+submit_70136=<font face="Default" color="#ffffff" >多謝！</font>
+submit_70137=<font face="Default" color="#ffffff" >多謝！</font>
+submit_70138=<font face="Default" color="#ffffff" >多謝！</font>
+submit_70139=<font face="Default" color="#ffffff" >謝謝！</font>
+target_70133=找到林梁領取感恩禮盒
+target_70134=找到林梁領取感恩禮盒
+target_70135=找到林梁領取感恩禮盒
+target_70136=找到林梁領取感恩禮盒
+target_70137=找到林梁領取感恩禮盒
+target_70138=找到林梁領取感恩禮盒
+target_70139=找到林梁領取感恩禮盒
+title_70133=感恩禮盒（初窺門徑）
+title_70134=感恩禮盒（神乎其技）
+title_70135=感恩禮盒（登峰造極）
+title_70136=感恩禮盒（所向披靡）
+title_70137=感恩禮盒（驚世駭俗）
+title_70138=感恩禮盒（空前絕後）
+title_70139=感恩禮盒（深藏不露）
 
+CanAcceptMenu_70144=<font face="Default" color="#ffffff" >新年祝福（可接取）</font>
+CompleteMenu_70144=<font face="Default" color="#ffffff" >新年祝福（已完成）</font>
+accept_70144_1=<font face="Default" color="#ffffff" >新年之際，祝各位大俠吉祥如意，闔家團圓，福壽康寧，財源廣進，步步高陞！</font>
+complete_70144=<font face="Default" color="#ffffff" >這是給予大俠的一份心意！請您笑納！</font>
+context_70144=新年之際，祝各位大俠吉祥如意，闔家團圓，福壽康寧，財源廣進，步步高陞！
+menu_70144_1=<font face="Default" color="#ffffff" >謝謝</font>
+submit_70144=<font face="Default" color="#ffffff" >謝謝</font>
+target_70144=祝各位大俠吉祥如意，闔家團圓，福壽康寧，財源廣進，步步高陞！
+title_70144=新年祝福
+
+CanAcceptMenu_70142=<font face="Default" color="#ffffff" >彩蛋迎新
+CanAcceptMenu_70143=<font face="Default" color="#ffffff" >神秘彩蛋</font>
+CompleteMenu_70142=<font face="Default" color="#ffffff" >完成任務</font>
+CompleteMenu_70143=<font face="Default" color="#ffffff" >完成任務</font>
+accept_70142_1=<font face="Default" color="#ffffff" >新年新氣象，少俠，如果你能成功挑戰兩次心魔，我就將此【新年彩蛋錦盒】贈予你。</font>
+accept_70143_1=<font face="Default" color="#ffffff" >  你怎麼有這個神秘彩蛋？你從哪裡得到的？</font><font face="Default" color="#ffffff" >此物為西域年貢之物，在上貢途中被匪人截走，甚為珍惜。</font>
+complete_70142=<font face="Default" color="#ffffff" >不錯不錯，少俠武藝越來越精湛了，揚名江湖指日可待。</font>
+complete_70143=<font face="Default" color="#ffffff" >  </font><font face="Default" color="#ffffff" >多謝少俠，這份薄禮，還請收下。</font>
+context_70142=新年新氣象，少俠，如果你能成功挑戰兩次心魔，我就將此【新年彩蛋錦盒】贈予你。
+context_70143=你怎麼有這個神秘彩蛋？你從哪裡得到的？
+menu_70142_1=<font face="Default" color="#ffffff" >稍等，我這就前去挑戰</font>
+menu_70143_1=<font face="Default" color="#ffffff" >那現在該怎麼辦？不物歸原主，我可能會遭到滅頂之災。</font>
+next_70142=
+next_70143=
+submit_70142=<font face="Default" color="#ffffff" >多謝誇獎</font>
+submit_70143=<font face="Default" color="#ffffff" >我已經將神秘彩蛋歸還。</font>
+target_70142=挑戰心魔2次
+target_70143=與阿仙兒對話，然後將神秘彩蛋物歸原主
+context_70140=活動期間各位俠士可以前往各大主城節日活動大使林梁處領取「鎮國槍魂」全民贈禮一份，根據九陰志進度，禮包打開可以獲得不同的獎勵。
+target_70140=前往各大主城節日活動大使林梁處領取全民贈禮禮包。
+title_70140=「鎮國槍魂」全民贈禮
+CanAcceptMenu_70141=<font face="Default" color="#ffffff" >神機營現鎮國魂(可接取)</font>
+CompleteMenu_70141=<font face="Default" color="#ffffff" >神機營現鎮國魂(已完成)</font>
+accept_70141_1=<font face="Default" color="#ffffff" >活動期間內獲得「討賊先鋒」身份的神機營將士可領取「鎮國軍魂」禮包一份，根據九陰志進度，禮包打開可以獲得不同的獎勵。</font>
+complete_70141=<font face="Default" color="#ffffff" >不錯，這便是這次的獎賞，望你日後奮勇殺敵</font>
+context_70141=活動期間獲得「討賊先鋒」身份的神機營將士可前往耿伯宣領取「鎮國軍魂」禮包一份，根據九陰志進度，禮包打開可以獲得不同的獎勵。
+menu_70141_1=<font face="Default" color="#ffffff" >屬下已獲得「討賊先鋒」身份</font>
+submit_70141=<font face="Default" color="#ffffff" >屬下告退</font>
+target_70141=活動期間獲得「討賊先鋒」身份的神機營將士可前往耿伯宣領取「鎮國軍魂」禮包一份，根據九陰志進度，禮包打開可以獲得不同的獎勵。
+title_70141=神機營現鎮國魂
+title_70142=彩蛋迎新
+title_70143=神秘彩蛋

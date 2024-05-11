@@ -814,7 +814,6 @@ title_49557=Stir the Rainy Clouds - Rootless Clan Order 4
 title_49565=Stir the Rainy Clouds - Rootless Clan Order 5
 CanAcceptMenu_49796=I will destroy the Beast Villa.
 CompleteMenu_49796=I have destroyed the Beast Villa.
-complete_49524=Hmm. It's right to be careful. Although we of the Rootless Clan are not as powerful as the eight schools, we are nothing to look down upon. Our internal skills such as the Deviant Vampire and Unholy Swordsmanship are unmatched. Whoever dares to go against the Rootless Clan will be killed, no matter how far the distance.
 complete_49530=<font face="Default" color="#ffffff" >Based on the rules, you have earned the right to study the Deviant Vampire. You may go to your instructor. The Unholy Swordsmanship is our faction's signature technique. The secret of this skill is that he who is fast will not be broken. I am not going to say more. You will understand after you study it. </font>
 complete_49796=So you say. You have won a battle, but not the war. We must continue our efforts.
 context_49523=Since you have already learned the Deviant Vampire, you are officially a Rootless Clan disciple. Go to Deacon Zhao Wuji for instructions.
@@ -827,4 +826,52 @@ context_49795=Patrol around the jail. <br>Enter the task scene around Rootless C
 context_49802=You'll have one less enemy if you have one more ally. Complete the task given to you by Wei Wuyan.
 context_49803=Your road will be wider with one more friend, and you'll have one less enemy if you have one more ally. Complete the task Wei Wuyan has given you.
 context_49804=Your road will be wider with one more friend, and you'll have one less enemy if you have one more ally. Complete the task Wei Wuyan has given you.
+CanAcceptMenu_49824=<font face="Default" color="#ffffff" >Get to know Rootless Clan (Rootless Clan Entry Quest)</font>
+CanAcceptMenu_49825=<font face="Default" color="#ffffff" >Castration preparation</font>
+CanAcceptMenu_49826=<font face="Default" color="#ffffff" >End the bond with mortal world</font>
+CanAcceptMenu_49827=<font face="Default" color="#ffffff" >Join Rootless Clan</font>
+CanAcceptMenu_49828=<font face="Default" color="#ffffff" >Visit the Headmaster</font>
+CompleteMenu_49824=<font face="Default" color="#ffffff" >Fulfill the task.</font>
+CompleteMenu_49825=<font face="Default" color="#ffffff" >Fulfill the task.</font>
+CompleteMenu_49827=<font face="Default" color="#ffffff" >Fulfill the task.</font>
+CompleteMenu_49828=<font face="Default" color="#ffffff" >Fulfill the task.</font>
+accept_49824_1=<font face="Default" color="#ffffff" >Who are you? Here is the Royal Forbidden Area. Leave now if you don't have anything to do here.</font>
+accept_49825_1=<font face="Default" color="#ffffff" >To join Rootless Clan and cultivate the advanced martial arts, one must be castrated first. Normal males can not stand that. If you are determined, collect these materials first, so that you will not bleed to death later on. After you finish collecting the materials, find Eunuch Guan for the castration operation.</font>
+accept_49826_1=<font face="Default" color="#ffffff" >Give it a second thought. After castration, you will no longer be a man.</font>
+accept_49827_1=<font face="Default" color="#ffffff" >Okay. Here is your treasure. Go and find Master Diao. He will guide you to join Rootless Clan.</font>
+accept_49828_1=<font face="Default" color="#ffffff" >Now that you already joined Rootless Clan, let me introduce you to the Headmaster.</font>
+complete_49824=<font face="Default" color="#ffffff" >You understand Zhang Peng's sword arts. Good! The next challenge will be more difficult. Are you ready?</font>
+complete_49825=<font face="Default" color="#ffffff" >It's Royal Forbidden Area here. Leave right away if you don't have anything to do here.</font>
+complete_49827=<font face="Default" color="#ffffff" >Good! Now your bond with mortal world ends. I will guide you to Rootless Clan.</font>
+complete_49828=<font face="Default" color="#ffffff" >Since you joined Rootless Clan, you should follow the rules here.</font>
+context_49824=Head to Jinling and find Master Diao. It's said that he often appears near the royal palace and looks for proper candidates to join Rootless Clan.
+context_49825=To join Rootless Clan and cultivate the advanced martial arts, one must be castrated first. Normal males can not stand that. If you are determined, collect these materials first, so that you will not bleed to death later on. After you finish collecting the materials, find Eunuch Guan for the castration operation.
+context_49826=Let Eunuch Guan to help with the castration. (Need to buy 23 bets to bribe Eunuch Guan.)
+context_49827=Castration is successful. Find Master Diao to join the Rootless Clan.
+context_49828=Now that you joined the Rootless Clan, I will send you to meet the clan leader.
+menu_49824_1=<font face="Default" color="#ffffff" >I heard Master Diao is accepting applicants to join the Rootless Clan. I want to join.</font>
+menu_49825_1=<font face="Default" color="#ffffff" >I will go now.</font>
+menu_49826_1=<font face="Default" color="#ffffff" >Eunuch Guan, I sincerely asks you to help me with the castration.</font>
+menu_49827_1=<font face="Default" color="#ffffff" >Thank you, Eunuch Guan.</font>
+menu_49828_1=<font face="Default" color="#ffffff" >Thank you, Master Diao.</font>
+next_49824=
+next_49825=
+next_49826=
+next_49827=
+next_49828=
+submit_49824=<font face="Default" color="#ffffff" >I won't give up.</font>
+submit_49825=<font face="Default" color="#ffffff" >Eunuch Guan, I'm sent here by Master Diao to finish the castration.</font>
+submit_49827=<font face="Default" color="#ffffff" >Thank you, Master Diao.</font>
+submit_49828=<font face="Default" color="#ffffff" >Hmm. (Even though I don't quite understand what the clan leader said, there must be some secret evil plan.)</font>
+target_49824=Find Master Diao and explain why you are here.
+target_49825=Collect would healing herbs for castration.
+target_49826=Find Eunuch Guan and he will help with castration.
+target_49827=Find Master Diao to join the Rootless Clan.
+target_49828=With the help of the Little Eunuch next to Master Diao, go to the Rootless Clan.
+title_49824=Get to know the Rootless Clan (Rootless Clan entry quest)
+title_49825=Prepare for castration (Rootless Clan entry quest)
+title_49826=Break the bond with the mortal world
+title_49827=Join the Rootless Clan
+title_49828=Visit the Headmaster
+complete_49524=Hmm. It's right to be careful. Although we of the Rootless Clan are not as powerful as the eight schools, we are nothing to look down upon. Our internal skills such as the Deviant Vampire and Unholy Swordsmanship are unmatched. Whoever dares to go against the Rootless Clan will be killed, no matter how far the distance.
 

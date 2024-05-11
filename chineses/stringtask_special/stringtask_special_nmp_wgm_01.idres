@@ -1016,4 +1016,30 @@ useiteminfo_8777=Use the branding iron on <a href="findnpc_new,school11,wgm_036"
 useiteminfo_8778=Use the signal flare <a href="findnpc_new,city03,Trigger_wgm_004" style="HLStype1">near Jinling (618,561)</a>. Purchase this item from Duan Hai (-12,184).
 useiteminfo_8779=Use the signal flare <a href="findnpc_new,city03,Trigger_wgm_005" style="HLStype1">near Jinling (326,773)</a>. Purchase this item from Duan Hai (-12,184).
 useiteminfo_8780=Use the signal flare <a href="findnpc_new,city03,Trigger_wgm_006" style="HLStype1">near Jinling (521, 724)</a>. Purchase this item from Duan Hai (-12,184).
+DialogID_8833=<font face="Default" color="#ffffff" >You better be prepared. One swipe of this blade and your life might be over.</font>
+DialogID_8890=<font face="Default" color="#ffffff" >Alright. That is our Rootless Clan disciple Zhang Peng over there. Go spar with him so I can see if you are qualified.</font>
+DialogID_8981=<font face="Default" color="#ffffff" >Oh? Another one recruited by Master Diao? Our Rootless Clan disciples are gaining in number. Looks like I already can...</font><font face="Default" color="#ffffff" >If that is the case, then let me safekeep your treasure.</font>
+QiecuoMenu_8770=<font face="Default" color="#ffffff" >Master Diao told me to come spar with you. Please go easy on me.</font>
+QiecuoTitle_8770=<font face="Default" color="#ffffff" >Here comes another one. You are the two hundred thirty fifth today. I defeated everyone before you. Let's see what you got.</font>
+collectinfo_8962=Collect <a href="findnpc_new,," style="HLStype1"></a>20 Wormwoods (Can be collected through Life Skills or be bought from other players).
+collectinfo_8963=Collect <a href="findnpc_new,," style="HLStype1"></a>20 Plight Flowers (Can be collected through Life Skills or be bought from other players).
+hunterinfo_8770=Defeat the Rootless Clan Disciple <a href="findnpc_new,city03,wgm_015" style="HLStype1">Zhang Peng</a>.
+interactinfo_8833=Go to <a href="findnpc_new,city03,funnpcskill001007" style="HLStype1">Wu Pingwei </a>and buy 23 Gambling Tokens for <a href="findnpc_new,city03,funnpcskill001002" style="HLStype1">Eunuch Guan</a>.
+interactinfo_8890=Talk to <a href="findnpc_new,city03,wgm_008" style="HLStype1">Master Diao</a>.
+interactinfo_8981=Find Master Diao's <a href="findnpc_new,city03,wgm_xtj" style="HLStype1">Little Eunuch and </a>talk to him. Go to Rootless Clan and find headmaster <a href="findnpc_new,shcool11,wgm_001" style="HLStype1">Wei Wuyan </a>to turn in your item from castration (treasure).
+okmenu_8833=<font face="Default" color="#ffffff" >Here are the Gambling Tokens</font>
+okmenu_8890=<font face="Default" color="#ffffff" >I will go take care of him.</font>
+okmenu_8981=<font face="Default" color="#ffffff" >Greetings</font>
+story_8766_1=<font face="Default" color="#ffffff" >The Rootless Clan is not a place for the weak. </font><font face="Default" color="#ffffff" >You should leave.</font>
+story_8766_2=<font face="Default" color="#ffffff" >Have you killed people? Have you drank blood? If you want to join the Rootless Clan you must be ruthless and castrated. </font><font face="Default" color="#ffffff" >If you agree to take my test then I will think about taking you in.</font>
+story_8767_1=<font face="Default" color="#ffffff" >You are wise to come to me. I am very skilled with this knife, and I promise that you will be in Rootless Clan in no time.</font>
+story_8767_2=<font face="Default" color="#ffffff" >200 Silver for Knife holder, 10 for assistance, 10 for storage and 10 for medicine. So... 230 in total. We don't accept cash here in the palace. Let's go to Wu Pingwei and get twenty three 10-silver Gambling tokens instead. </font>
+story_menu_8766=<font face="Default" color="#ffffff" >A Rootless person</font>
+story_menu_8767=<font face="Default" color="#ffffff" >I wish to be castrated to join the Rootless Clan. Please help me.</font>
+storyinfo_8766=Ask <a href="findnpc_new,city03,wgm_008" style="HLStype1">Master Diao </a>for recommendations to go to Rootless Clan.
+storyinfo_8767=Tell <a href="findnpc_new,city03,funnpcskill001002" style="HLStype1">Eunuch Guan </a>why you are here.
+storymenu_8766_1=<font face="Default" color="#ffffff" >I practiced martial arts since I was young and have a name in Jianghu. Is that not enough?</font>
+storymenu_8766_2=<font face="Default" color="#ffffff" >I am willing to take your test.</font>
+storymenu_8767_1=<font face="Default" color="#ffffff" >I promise to repay you if you help me.</font>
+storymenu_8767_2=<font face="Default" color="#ffffff" >Alright. I will be depending on your skills today. Be right back.</font>
 

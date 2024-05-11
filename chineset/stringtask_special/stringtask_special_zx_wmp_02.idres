@@ -60,7 +60,6 @@ story_9814_2=<font face="Default" color="#ffffff" >大膽，你可知頂撞本�
 story_9815_1=<font face="Default" color="#ffffff" >看不出，你心狠手辣，萬一今後你把這些手段用在我身上，我豈不是養虎為患？</font>
 story_9815_2=<font face="Default" color="#ffffff" >看在你還算聽話的份上，簽下投名狀，宣誓效忠本統領，這樣你就是我錦衣衛的人了。</font>
 story_9850_2=<font face="Default" color="#ffffff" >聽說有個極樂谷弟子還在惡人谷中，他是之前和其它門派的那些弟子一起來的，經我觀察此人大大咧咧，你應該能從他那裡打探到些許消息。</font>
-story_9851_1=<font face="Default" color="#ffffff" >想加入八大門派各個門派有不同的門檻，你且聽我細細說來。</font>
 story_9851_2=<font face="Default" color="#ffffff" >比如，想要加入少林派必須為男子，而若要拜入峨眉門下則必須為女子。</font>
 story_9851_3=<font face="Default" color="#ffffff" >還有欲拜入丐幫必須學會乞討，想加入君子堂必須要學會琴棋書畫中的一種。其它像武當、錦衣衛、極樂谷、唐門這些門派都比較寬鬆沒有多少要求。</font>
 story_9854_1=<font face="Default" color="#ffffff" >移花宮位於氣候宜人的繡玉谷，是習武之人難得的靜修佳地。宮中弟子皆清冷孤傲，她們對欺凌弱女之人懲罰手段極端殘酷。</font><font color="#ee7621">(未婚女子有機會在九陰志二內完成後通過奇遇加入)</font>
@@ -80,7 +79,6 @@ story_menu_9813=<font face="Default" color="#ffffff" >姥姥，我可是誠心�
 story_menu_9814=<font face="Default" color="#ffffff" >懇請掌門收在下為徒。</font>
 story_menu_9815=<font face="Default" color="#ffffff" >統領，看我的手段如何？</font>
 story_menu_9850=<font face="Default" color="#ffffff" >天下變</font>
-story_menu_9851=<font face="Default" color="#ffffff" >拜入八大門派的條件</font>
 story_menu_9852=<font face="Default" color="#ffffff" >江湖勢力介紹</font>
 story_menu_9853=
 story_menu_9854=<font face="Default" color="#ffffff" >江湖勢力移花宮</font>
@@ -98,7 +96,6 @@ storyinfo_9813=說服<a href="findnpc_new,school05,WorldNpc02201" style="HLStype
 storyinfo_9814=與<a href="findnpc_new,school04,WorldNpc03816" style="HLStype1">單天冥</a>交談
 storyinfo_9815=與<a href="findnpc_new,school01,worldnpc04101" style="HLStype1">皇甫遙</a>交談
 storyinfo_9850=聽<a href="findnpc_new,born02,Transbron02A" style="HLStype1">屠泳</a>說說最近江湖上的大變化
-storyinfo_9851=聽<a href="findnpc_new,city03,npc_wmp_2nzy_lphs" style="HLStype1">落魄的和尚</a>說說八大門派大入門條件。
 storyinfo_9852=聽<a href="findnpc_new,city03,npc_wmp_2nzy_lphs" style="HLStype1">落魄的和尚</a>訴說江湖上新興起的勢力
 storyinfo_9854=聽<a href="findnpc_new,city03,npc_wmp_2nzy_lphs" style="HLStype1">落魄的和尚</a>訴說移花宮入門條件
 storymenu_9801_1=<font face="Default" color="#ffffff" >門主有何憂慮，說出來晚輩替你分憂解難。</font>
@@ -192,8 +189,6 @@ specialinfo_929=完成<a href="findnpc_new,school05,TGnpc091" style="HLStype1">�
 specialinfo_931=完成<a href="findnpc_new,school07,TGnpc094" style="HLStype1">虎嘯山莊</a>踢館
 specialinfo_932=通關<a href="findnpc_new,city02,Transcity02H1" style="HLStype1">暮色之村</a>禁地
 specialinfo_933=通關<a href="findnpc_new,city04,CloneDoorNpc00048" style="HLStype1">青雲堡</a>禁地
-story_9850_1=<font face="Default" color="#ffffff" >最近一段時間來往惡人谷的大多都是八大門派弟子，而今都趕往了華山。老朽只是負責接送人，其它的事情不該問的自然也不敢多過問，雖然不知他們為何事去華山，但感覺江湖上應該是有大事將要發生了。</font>
-story_9856_1=<font face="Default" color="#ffffff" >最近一段時間來往惡人谷的大多都是八大門派弟子，而今都趕往了華山。老朽只是負責接送人，其它的事情不該問的自然也不敢多過問，雖然不知他們為何事去華山，但感覺江湖上應該是有大事將要發生了。</font>
 specialinfo_930=完成<a href="findnpc_new,city05,TGnpc001" style="HLStype1">浣花山莊</a>踢館
 story_9852_1=<font face="Default" color="#ffffff" >當今大世，江湖勢力眾多一些江湖勢力不可小覷，其中最值得一提的當屬百獸莊、無根門、移花宮、第一軒這四個勢力。</font><font color="#ee7621">(欲入此四個勢力者，須為江湖名俊)。</font>
 story_9855_1=<font face="Default" color="#ffffff" >四月島位於東海之上景色美不勝收。島上弟子行事輕狂、不拘禮法，島上弟子都精研奇門遁甲之術。</font><font color="#ee7621">(拜入第一軒須為愛好琴棋書畫的文雅之士，在九陰志二內完成後可通過奇遇拜入)</font>
@@ -201,4 +196,14 @@ story_menu_9855=<font face="Default" color="#ffffff" >江湖勢力第一軒</fon
 storyinfo_9855=聽<a href="findnpc_new,city03,npc_wmp_2nzy_lphs" style="HLStype1">落魄的和尚</a>訴說第一軒入門條件
 storymenu_9852_5=<font face="Default" color="#ffffff" >第一軒招收弟子的條件真是苛刻。。。</font>
 storymenu_9855_1=<font face="Default" color="#ffffff" >第一軒招收弟子的條件真是苛刻。。。</font>
+SubmitNpcEx_51637=速去拜見<a href="findnpc_new,school20,newmp_mj_001" style="HLStype1">明教教主</a>，懇請他收你為徒
+story_9816_1=<font face="Default" color="#ffffff" >本教教義乃是「清淨、光明、大力、智慧」八字，教眾平日行事不必拘泥於世俗禮教，但大節切不可失。你還要謹記，朱家子孫皆是無情反覆之徒，本教教眾絕不可以與朝廷中人來往。</font>
+story_menu_9816=<font face="Default" color="#ffffff" >明教教義明確，教規嚴格，教眾須要以拯救世人為己任。</font>
+storyinfo_9816=聽<a href="findnpc_new,school20,newmp_mj_001" style="HLStype1">明時月</a>講述明教教義與教眾使命
+storymenu_9816_1=<font face="Default" color="#ffffff" >弟子謹記。</font>
+story_9850_1=<font face="Default" color="#ffffff" >最近一段時間來往惡人谷的大多都是九大宗門弟子，而今都趕往了華山。老朽只是負責接送人，其它的事情不該問的自然也不敢多過問，雖然不知他們為何事去華山，但感覺江湖上應該是有大事將要發生了。</font>
+story_9851_1=<font face="Default" color="#ffffff" >想加入九大宗門各個門派有不同的門檻，你且聽我細細說來。</font>
+story_9856_1=<font face="Default" color="#ffffff" >最近一段時間來往惡人谷的大多都是九大宗門弟子，而今都趕往了華山。老朽只是負責接送人，其它的事情不該問的自然也不敢多過問，雖然不知他們為何事去華山，但感覺江湖上應該是有大事將要發生了。</font>
+story_menu_9851=<font face="Default" color="#ffffff" >拜入九大宗門的條件</font>
+storyinfo_9851=聽<a href="findnpc_new,city03,npc_wmp_2nzy_lphs" style="HLStype1">落魄的和尚</a>說說九大宗門大入門條件。
 

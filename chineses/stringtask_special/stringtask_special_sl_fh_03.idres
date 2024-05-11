@@ -1,77 +1,77 @@
 ﻿
-DialogID_56720=<s>哎！犬子的病并非无药可治，可是我们……去问问大夫吧！
-DialogID_56721=<s>你说那位公子的病么？嗯，其实难道是不难，关键在于药！有一味药叫做麒麟果，除非有这个，要不然恐怕很难的……听说官兵刚从西域回来，抢劫了不少……少侠看你的了！
-DialogID_56722=<s>少侠，在下有一不情之请，能否将在下玉佩交给在下的朋友粱炎彬？请他不要担心！告诉他，过了这阵子，一起劫富济贫！
-DialogID_56723=<s>嗯，关于此事，是西域一些恶人所为，去找苗博文看看，他会告诉你该怎么做！顺便去杀几个西域邪士吧！
-DialogID_56724=<s>我们需要打击他们嚣张气焰，要不然，指不定他们在中原出什么乱子！
-DialogID_56725=<s>嗯？这位少侠是来找我的么？咳……我已经查清他们的藏匿点了，地图已经描绘好了，但被他们的人追杀，地图也被抢去了！
-DialogID_56726=<s>我们幽冥宫是靠附近的乱坟岗来进行掩护的，可是出了一伙盗墓贼，我们必须阻止他们，要不然，幽冥宫迟早会暴露的！
-DialogID_56727=<s>去把这消息告诉时涉力吧，感谢他的帮助！
-DialogID_56728=<s>啊！原来你不是来杀我的……幽冥宫太可怕了，我呆不下去了，但是我还被幽冥宫的人追杀，少侠可以帮我么？
-DialogID_56729=<s>我这里有封信，交给庄继林吧，里面有幽冥宫的相关资料，一定不能遗失！切记！
-DialogID_56730=<s>嗯？小孩子吗？倒是有看到一位，就在西北方向！
-DialogID_56731=<s>大哥哥！你在干嘛？
-collectinfo_56720=击杀<a href="findnpc_new,scene03,monf032400" style="HLStype1">截粮山贼</a>,并从其身上找来粮食
-collectinfo_56721=击杀<a href="findnpc_new,scene03,monf032601" style="HLStype1">贪官狗腿子</a>，并找来周吼描述的药材麒麟果
-collectinfo_56722=击杀<a href="findnpc_new,scene03,monf032400" style="HLStype1">截粮山贼</a>，从其身上找来救济粮食
-collectinfo_56723=收集<a href="findnpc_new,scene03,Gather0004pc" style="HLStype1">金银草</a>
-collectinfo_56724=击杀<a href="findnpc_new,scene03,monf032301" style="HLStype1">西村盗墓贼探子</a>找来地图
-collectinfo_56725=击杀<a href="findnpc_new,scene03,monf032700" style="HLStype1">幽冥宫弟子</a>，并从其身上找来仙人草
-collectinfo_56726=击杀<a href="findnpc_new,scene03,monf032700" style="HLStype1">幽冥宫弟子</a>，并夺回黄金
-collectinfo_56727=收集<a href="findnpc_new,scene03,Gather0005pc" style="HLStype1">蝎毒草</a>
-collectinfo_56728=打败<a href="findnpc_new,scene03,monf032302" style="HLStype1">幽冥宫巡山弟子</a>拿回地图
-hunterinfo_56720=击杀<a href="findnpc_new,scene03,monf032700" style="HLStype1">幽冥宫弟子</a>
-hunterinfo_56721=击杀<a href="findnpc_new,scene03,monf032601" style="HLStype1">贪官狗腿子</a>
-hunterinfo_56722=击杀<a href="findnpc_new,scene03,monf032502" style="HLStype1">西域邪士</a>
-hunterinfo_56723=击杀<a href="findnpc_new,scene03,monf032503" style="HLStype1">西域邪士护卫</a>
-hunterinfo_56724=击杀<a href="findnpc_new,scene03,monf031100" style="HLStype1">游军枪兵</a>
-hunterinfo_56725=击杀<a href="findnpc_new,scene03,monf031100" style="HLStype1">游军枪兵</a>
-hunterinfo_56726=击杀<a href="findnpc_new,scene03,monf032501" style="HLStype1">幽冥宫私通弟子</a>
-hunterinfo_56727=击杀<a href="findnpc_new,scene03,monf032701" style="HLStype1">江湖正派探子</a>
-hunterinfo_56728=击杀<a href="findnpc_new,scene03,monf032302" style="HLStype1">幽冥宫巡山弟子</a>
-hunterinfo_56729=击杀<a href="findnpc_new,scene03,monf032600" style="HLStype1">幽冥宫高手</a>
-hunterinfo_56730=击杀<a href="findnpc_new,scene03,monf032601" style="HLStype1">贪官狗腿子</a>
-hunterinfo_56731=击杀<a href="findnpc_new,scene03,monf032601" style="HLStype1">贪官狗腿子</a>
-hunterinfo_56732=击杀<a href="findnpc_new,scene03,monf032600" style="HLStype1">幽冥宫高手</a>
-hunterinfo_56733=猎杀<a href="findnpc_new,scene03,monf032600" style="HLStype1">幽冥宫高手</a>
-hunterinfo_56734=击杀<a href="findnpc_new,scene03,monf032400" style="HLStype1">截粮山贼</a>
-hunterinfo_56735=击杀<a href="findnpc_new,scene03,monf032502" style="HLStype1">西域邪士</a>
-hunterinfo_56736=击杀<a href="findnpc_new,scene03,monf032503" style="HLStype1">西域邪士护卫</a>
-hunterinfo_56737=击杀<a href="findnpc_new,scene03,monf032300" style="HLStype1">西村盗墓贼</a>
-hunterinfo_56738=击杀<a href="findnpc_new,scene03,monf032301" style="HLStype1">西村盗墓贼探子</a>
-hunterinfo_56739=击杀<a href="findnpc_new,scene03,monf032500" style="HLStype1">幽冥宫探子</a>
-hunterinfo_56740=击杀<a href="findnpc_new,scene03,monf032502" style="HLStype1">西域邪士</a>
-hunterinfo_56741=击杀<a href="findnpc_new,scene03,monf032503" style="HLStype1">西域邪士护卫</a>
-hunterinfo_56742=猎杀<a href="findnpc_new,scene03,monf032700" style="HLStype1">幽冥宫弟子</a>
-hunterinfo_56743=教训<a href="findnpc_new,scene03,monf031100" style="HLStype1">游军枪兵</a>
-hunterinfo_56744=教训<a href="findnpc_new,scene03,monf032400" style="HLStype1">截粮山贼</a>
-hunterinfo_56745=击杀<a href="findnpc_new,scene03,monf032701" style="HLStype1">江湖正派探子</a>
-hunterinfo_56746=击杀<a href="findnpc_new,scene03,monf032205" style="HLStype1">幽冥宫绿衣门人</a>
-hunterinfo_56747=击杀<a href="findnpc_new,scene03,monf032201" style="HLStype1">幽冥宫玄衣门人</a>
-hunterinfo_56748=击杀<a href="findnpc_new,scene03,monf032203" style="HLStype1">幽冥宫紫衣门人</a>
-hunterinfo_56749=击杀<a href="findnpc_new,scene03,monf032204" style="HLStype1">幽冥宫青衣门人</a>
-interactinfo_56720=与<a href="findnpc_new,scene03,WorldNpc06743" style="HLStype1">商冀</a>交谈
-interactinfo_56721=与<a href="findnpc_new,scene03,WorldNpc06747" style="HLStype1">周吼</a>交谈
-interactinfo_56722=与<a href="findnpc_new,scene03,WorldNpc06749" style="HLStype1">南宫凌</a>交谈
-interactinfo_56723=与<a href="findnpc_new,scene03,WorldNpc06433" style="HLStype1">八袋长老</a>交谈
-interactinfo_56724=和<a href="findnpc_new,scene03,WorldNpc06739" style="HLStype1">苗博文</a>交谈
-interactinfo_56725=与<a href="findnpc_new,scene03,WorldNpc06741" style="HLStype1">幸才</a>交谈
-interactinfo_56726=与<a href="findnpc_new,scene03,WorldNpc06783" style="HLStype1">萧罂</a>交谈
-interactinfo_56727=与<a href="findnpc_new,scene03,WorldNpc06783" style="HLStype1">萧罂</a>交谈
-interactinfo_56728=与<a href="findnpc_new,scene03,WorldNpc06789" style="HLStype1">犹达</a>交谈
-interactinfo_56729=与<a href="findnpc_new,scene03,WorldNpc06789" style="HLStype1">犹达</a>交谈
-interactinfo_56730=与<a href="findnpc_new,scene03,WorldNpc06734" style="HLStype1">詹砾</a>交谈
-interactinfo_56731=与<a href="findnpc_new,scene03,WorldNpc06736" style="HLStype1">汤祁</a>交谈
+DialogID_56720=<s>There is cure for my son, but we… Go ask the doctor.
+DialogID_56721=<s>You mean that young man's illness? It can be easily treated with the right medicine. But we must obtain the Kylin Fruit, or it would be rather difficult... I heard the soldiers just got back from the Western Region and brought back a lot of those fruits... Everything is up to you now.
+DialogID_56722=<s>Can you do me a favor? Can you give this Jade Pendant to my friend Liang Yanbin? Tell him to not worry and that I will reunite with him soon.
+DialogID_56723=<s>You are right. The criminals from the Western Regions did this. Go find Miao Bowen and he will tell you what to do. Kill a couple of Western Region Evil Men while you are at it.
+DialogID_56724=<s>We must knock down their arrogance. Else who knows what trouble they would cause in the Central Plains.
+DialogID_56725=<s>Hmm? Are you here for me? Cough… I have already found their hideout and drew up a map, but they took it from me after I was exposed.
+DialogID_56726=<s>Our Netherworld Palace is located near the grave sites for cover. But recently a group of Grave Robbers emerged. We must stop them or the palace will be exposed!
+DialogID_56727=<s>Go tell Shi Sheli the news. Thank him for me.
+DialogID_56728=<s>Ah! So you are not here to kill me… The Netherworld Palace is so scary. I can't stay here anymore. The people from the palace are still hunting me. Can you help me?
+DialogID_56729=<s>Give this letter to Zhuang Jilin. It has information of great importance relating the Netherworld Palace. Keep it safe!
+DialogID_56730=<s>Hmm? A kid? I seen a kid north west of here.
+DialogID_56731=<s>What are you doing?
+collectinfo_56720=Defeat <a href="findnpc_new,scene03,monf032400" style="HLStype1">Grain Robbing Bandit</a> and collect food
+collectinfo_56721=Defeat <a href="findnpc_new,scene03,monf032601" style="HLStype1">Corrupt Official Henchman</a> and collect Kylin Fruit
+collectinfo_56722=Defeat <a href="findnpc_new,scene03,monf032400" style="HLStype1">Grain Robbing Bandit</a> and collect food
+collectinfo_56723=Collect <a href="findnpc_new,scene03,Gather0004pc" style="HLStype1">Honeysuckle Grass</a>
+collectinfo_56724=Defeat <a href="findnpc_new,scene03,monf032301" style="HLStype1">West Village Tomb Thief Scout</a> and retrieve the map
+collectinfo_56725=Defeat <a href="findnpc_new,scene03,monf032700" style="HLStype1">Netherworld Palace Disciple</a> and retrieve the Immortal Grass
+collectinfo_56726=Defeat <a href="findnpc_new,scene03,monf032700" style="HLStype1">Netherworld Palace Disciple</a> and retrieve the Gold
+collectinfo_56727=Collect <a href="findnpc_new,scene03,Gather0005pc" style="HLStype1">Scorpion Poison Herb</a>
+collectinfo_56728=Defeat <a href="findnpc_new,scene03,monf032302" style="HLStype1">Netherworld Palace Mountain Patrolling Disciple</a> and retrieve the map
+hunterinfo_56720=Defeat <a href="findnpc_new,scene03,monf032700" style="HLStype1">Netherworld Palace Disciple</a>
+hunterinfo_56721=Defeat <a href="findnpc_new,scene03,monf032601" style="HLStype1">Corrupt Official Henchman</a>
+hunterinfo_56722=Defeat <a href="findnpc_new,scene03,monf032502" style="HLStype1">Western Region Evil Man</a>
+hunterinfo_56723=Defeat <a href="findnpc_new,scene03,monf032503" style="HLStype1">Western Region Evil Man Guard</a>
+hunterinfo_56724=Defeat <a href="findnpc_new,scene03,monf031100" style="HLStype1">Wandering Army Spearman</a>
+hunterinfo_56725=Defeat <a href="findnpc_new,scene03,monf031100" style="HLStype1">Wandering Army Spearman</a>
+hunterinfo_56726=Defeat <a href="findnpc_new,scene03,monf032501" style="HLStype1">Netherworld Palace Intriguing Disciple</a>
+hunterinfo_56727=Defeat <a href="findnpc_new,scene03,monf032701" style="HLStype1">Scout</a>
+hunterinfo_56728=Defeat <a href="findnpc_new,scene03,monf032302" style="HLStype1">Netherworld Palace Mountain Patrolling Disciple</a>
+hunterinfo_56729=Defeat <a href="findnpc_new,scene03,monf032600" style="HLStype1">Netherworld Palace Expert</a>
+hunterinfo_56730=Defeat <a href="findnpc_new,scene03,monf032601" style="HLStype1">Corrupt Official Henchman</a>
+hunterinfo_56731=Defeat <a href="findnpc_new,scene03,monf032601" style="HLStype1">Corrupt Official Henchman</a>
+hunterinfo_56732=Defeat <a href="findnpc_new,scene03,monf032600" style="HLStype1">Netherworld Palace Expert</a>
+hunterinfo_56733=Defeat <a href="findnpc_new,scene03,monf032600" style="HLStype1">Netherworld Palace Expert</a>
+hunterinfo_56734=Defeat <a href="findnpc_new,scene03,monf032400" style="HLStype1">Grain Robbing Bandit</a>
+hunterinfo_56735=Defeat <a href="findnpc_new,scene03,monf032502" style="HLStype1">Western Region Evil Man</a>
+hunterinfo_56736=Defeat <a href="findnpc_new,scene03,monf032503" style="HLStype1">Western Region Evil Man Guard</a>
+hunterinfo_56737=Defeat <a href="findnpc_new,scene03,monf032300" style="HLStype1">West Village Tomb Thief</a>
+hunterinfo_56738=Defeat <a href="findnpc_new,scene03,monf032301" style="HLStype1">West Village Tomb Thief Scout</a>
+hunterinfo_56739=Defeat <a href="findnpc_new,scene03,monf032500" style="HLStype1">Netherworld Palace Spy</a>
+hunterinfo_56740=Defeat <a href="findnpc_new,scene03,monf032502" style="HLStype1">Western Region Evil Man</a>
+hunterinfo_56741=Defeat <a href="findnpc_new,scene03,monf032503" style="HLStype1">Western Region Evil Man Guard</a>
+hunterinfo_56742=Defeat <a href="findnpc_new,scene03,monf032700" style="HLStype1">Netherworld Palace Disciple</a>
+hunterinfo_56743=Defeat <a href="findnpc_new,scene03,monf031100" style="HLStype1">Wandering Army Spearman</a>
+hunterinfo_56744=Defeat <a href="findnpc_new,scene03,monf032400" style="HLStype1">Grain Robbing Bandit</a>
+hunterinfo_56745=Defeat <a href="findnpc_new,scene03,monf032701" style="HLStype1">Scout</a>
+hunterinfo_56746=Defeat <a href="findnpc_new,scene03,monf032205" style="HLStype1">Netherworld Palace Green Clothes Disciple</a>
+hunterinfo_56747=Defeat <a href="findnpc_new,scene03,monf032201" style="HLStype1">Netherworld Palace Black Clothes Disciple</a>
+hunterinfo_56748=Defeat <a href="findnpc_new,scene03,monf032203" style="HLStype1">Netherworld Palace Purple Clothes Disciple</a>
+hunterinfo_56749=Defeat <a href="findnpc_new,scene03,monf032204" style="HLStype1">Netherworld Palace Blue Clothes Disciple</a>
+interactinfo_56720=Talk to <a href="findnpc_new,scene03,WorldNpc06743" style="HLStype1">Shang Ji</a>
+interactinfo_56721=Talk to <a href="findnpc_new,scene03,WorldNpc06747" style="HLStype1">Zhou Hou</a>
+interactinfo_56722=Talk to <a href="findnpc_new,scene03,WorldNpc06749" style="HLStype1">Nangong Ling</a>
+interactinfo_56723=Talk to <a href="findnpc_new,scene03,WorldNpc06433" style="HLStype1">Eight Pockets Elder</a>
+interactinfo_56724=Talk to <a href="findnpc_new,scene03,WorldNpc06739" style="HLStype1">Miao Bowen</a>
+interactinfo_56725=Talk to <a href="findnpc_new,scene03,WorldNpc06741" style="HLStype1">Xing Cai</a>
+interactinfo_56726=Talk to <a href="findnpc_new,scene03,WorldNpc06783" style="HLStype1">Xiao Yin</a>
+interactinfo_56727=Talk to <a href="findnpc_new,scene03,WorldNpc06783" style="HLStype1">Xiao Yin</a>
+interactinfo_56728=Talk to <a href="findnpc_new,scene03,WorldNpc06789" style="HLStype1">You Da</a>
+interactinfo_56729=Talk to <a href="findnpc_new,scene03,WorldNpc06789" style="HLStype1">You Da</a>
+interactinfo_56730=Talk to <a href="findnpc_new,scene03,WorldNpc06734" style="HLStype1">Zhan Li</a>
+interactinfo_56731=Talk to <a href="findnpc_new,scene03,WorldNpc06736" style="HLStype1">Tang Qi</a>
 okmenu_56720=Very well, I will do it.
-okmenu_56721=嗯，交给我吧！
+okmenu_56721=Let me take care of it.
 okmenu_56722=Alright, take me back there.
-okmenu_56723=好的，我这就动身！
-okmenu_56724=说的甚是！
-okmenu_56725=不要慌，我来帮你！
+okmenu_56723=I'm on my way.
+okmenu_56724=What you said is right.
+okmenu_56725=Don't worry. I'll help you.
 okmenu_56726=Okay.
-okmenu_56727=嗯，好！
-okmenu_56728=好的！别慌！
-okmenu_56729=好的，尽我所能！
+okmenu_56727=Okay.
+okmenu_56728=Okay. Don't worry.
+okmenu_56729=I will try my best.
 okmenu_56730=Thank you.
-okmenu_56731=在这里不要动，我让你妈妈来接你！
+okmenu_56731=Stay here. I will go get your mom.
 

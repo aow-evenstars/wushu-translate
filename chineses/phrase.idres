@@ -651,7 +651,6 @@ npctype203=Donkey for Trade and Transportation
 npctype208=Battle NPC with AI Function
 npctype209=Team Partner
 npctype211=Armed Escorter
-npctype216=Exchanging Note Boss
 npctype217=black market merchant
 npctype222=School War Administrator
 npctype223=Sect Internal War Registration Officer
@@ -1100,7 +1099,6 @@ origin_1150=Jade Flowers in the Fairyland
 tool_rank_1_RevengeIntegral=Sky ladder Score
 tool_rank_17_match_win_net=Dragon and Tiger Tournament Victory Rank List
 tool_rank_17_match_school_win_net=Eight Schools Tournament Victory Rank List
-npctype348=Tier 5 internal Redeem Administrator
 npctype53=Scene Teleport Poin
 npctype116=The Palace of Shifting Flowers
 npctype118=Gold Needle Shen Family
@@ -1699,7 +1697,6 @@ desc_events_26=A good deed: Help <a href="findnpc_new,scene16,newworldpl_zyb_042
 desc_events_27=Hunt pheasants: Hunt 3 <a href="findnpc_new,scene16,boxnpc_zyb_pld001" style="HLStype1">pheasants</a>3 near Penglai Village and give them to <a href="findnpc_new,scene16,newworldpl_zyb_043" style="HLStype1">Elder Uncle Zheng</a>.
 desc_events_28=Kill sharks: Those sharks are vicious! Do what you have to do.
 desc_events_29=Kill the tiger king: Find <a href="findnpc_new,scene16,pld_zyb_012" style="HLStype1">tigers</a> near Penglai Village. There is a chance to spawn tiger king by killing the tigers. Kill the tiger king to get Tiger King Pelt. Then give it to <a href="findnpc_new,scene16,newworldpl_zyb_044" style="HLStype1">Master Ye</a>.
-desc_events_30=Kill the bear king: Find <a href="findnpc_new,scene16,pld_zyb_014" style="HLStype1">the tigers</a> near Penglai Village. There is a chance to spawn bear king by killing the bears. Kill the bear king to get its pelt.  Then give it to <a href="findnpc_new,scene16,newworldpl_zyb_045" style="HLStype1">Master Huo</a>.
 desc_events_31=Flirt with girls: Flirt with <a href="findnpc_new,scene16,newworldpl_zyb_046" style="HLStype1">Li Yu</a>, <a href="findnpc_new,scene16,newworldpl_zyb_047" style="HLStype1">Shao Shu</a>, and <a href="findnpc_new,scene16,newworldpl_zyb_048" style="HLStype1">Shi Hengjiao</a> in Penglai Village.
 desc_events_33=Break chairs: Break chairs and wine jars in Penglai Village.
 desc_events_32=Challenge experts: Challenge <a href="findnpc_new,scene16,newworldpl_zyb_049" style="HLStype1">Sima Youshao, </a><a href="findnpc_new,scene16,newworldpl_zyb_050" style="HLStype1">Zhuansun Kang,</a> and <a href="findnpc_new,scene16,newworldpl_zyb_051" style="HLStype1">Si Ce</a>. (Please complete this task twice.)
@@ -1864,8 +1861,8 @@ tool_rank_1_lt=Wulin Tournament
 tool_rank_4_kq=Peacock Villa
 tool_rank_8_huashanlunjian=Mount Hua Competition
 origin_3201=Blood Blade Disciples
-desc_events_13=【生死令牌】找<a href="findnpc_new,scene16,newworld_shengsipan_001" style="HLStype1">墨宇</a>参加生死历练活动，击杀机关人有概率掉落生死令牌。每次交10枚令牌给<a href="findnpc_new,scene16,newworld_shengsipan_002" style="HLStype1">墨姝</a>，需要上交7次。
-desc_events_14=【生死历练】找<a href="findnpc_new,scene16,newworld_shengsipan_001" style="HLStype1">墨宇</a>参加生死历练活动，击杀7次机关人（头目）。
+desc_events_13=[Life And Death Token] Find <a href="findnpc_new,scene16,newworld_shengsipan_001" style="HLStype1">Mo Yu</a> to participate Trial of Fate. Kill the puppets for a chance to get Life And Death Token. Submit 10 tokens to <a href="findnpc_new,scene16,newworld_shengsipan_002" style="HLStype1">Mo Shu</a> each time. You have to submit 7 times.
+desc_events_14=[Trial of Fate] Find <a href="findnpc_new,scene16,newworld_shengsipan_001" style="HLStype1">Mo Yu</a> to participate Trial of Fate. Kill the Puppet (Leader) 7 times.
 desc_events_250=Test your drinking prowess: You have done this {@0:完成}/{@1:总数} times. <br>This task is available at Hero Island and Hidden Dragon Island.
 desc_events_251=Eat cooked meat: You have done this {@0:完成}/{@1:总数} times. <br>Hunt the local fauna of the Hero Islands. Then gather some wood and cook the meat over a fire.
 desc_events_252=Get water: You have done this {@0:完成}/{@1:总数} times. <br>Find the <a href="findnpc_new,scene17,newworld_xkdnpc_001" style="HLStype1">Old Potter</a> and learn how to find drinking water.
@@ -1890,4 +1887,9 @@ shijia_nangong=Nangong Family
 npctype117=Horse
 npctype337=Plum Blossom Island
 npctype339=Plum Blossom Island
+school_mingjiao=Ming Cult
+npctype110_1=Ming Cult
+npctype216=Exchanging Note Boss
+npctype348=Tier 5 internal Redeem Administrator
+desc_events_30=Kill the bear king: Find <a href="findnpc_new,scene16,pld_zyb_014" style="HLStype1">the tigers</a> near Penglai Village. There is a chance to spawn bear king by killing the bears. Kill the bear king to get its pelt.  Then give it to <a href="findnpc_new,scene16,newworldpl_zyb_045" style="HLStype1">Master Huo</a>.
 
