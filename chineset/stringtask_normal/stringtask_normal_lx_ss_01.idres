@@ -706,7 +706,6 @@ accept_52088_1=<font face="Default" color="#ffffff" >近來有些門派動作頻
 complete_52088=<font face="Default" color="#ffffff" >做的不錯，我沒看錯你，你將來前途無量！</font>
 context_52088=門派之間的情報鬥爭愈演愈烈，參與情報收集的弟子越來越多，收集的情報質量參差不齊，為鼓勵弟子們多收集有價值的情報，天山派掌門決定對於能夠按照他的要求完成情報刺探的弟子，獎勵門派榮譽憑證70個（此任務每週只能完成一次，並且只有完成之後的下一周才能重新領取。在提交周常任務時會收回所有多餘的刺探掌門令，請合理安排刺探活動）
 menu_52088_1=<font face="Default" color="#ffffff" >是，弟子遵命！</font>
-submit_52088=<font face="Default" color="#ffffff" >多謝大人！</font>
 target_52088=按照天山派掌門的要求，完成對指定門派的刺探。
 title_52088=情報之爭（天山派）
 CanAcceptMenu_52089=<font face="Default" color="#ffffff" >前輩找我有什麼事？</font>
@@ -726,7 +725,6 @@ target_52089=完成四次巡邏
 target_52090=打敗可疑的人
 title_52089=門派日常巡邏
 title_52090=可疑之人
-accept_52054_1=<font face="Default" color="#ffffff" >五仙教向來不問中原之事，此番重出江湖，必須充分瞭解中原十大宗門的情況。你幫我去各大門派刺探一番，有任何消息都可以報告身在極樂谷的何翩翩。</font>
 CanAcceptMenu_52091=<font face="Default" color="#ffffff" >星渺閣刺探周常任務（此任務不能放棄）</font>
 CompleteMenu_52091=<font face="Default" color="#ffffff" >我已經刺探過那些門派了。</font>
 accept_52091_1=<font face="Default" color="#ffffff" >近來有些門派動作頻繁，也許是發生什麼大事了，你去刺探一番，回來向我報告。</font>
@@ -773,4 +771,60 @@ context_52080=最近有很多可疑人物在明教周圍活動，他們很可能
 context_52085=明教跟我們神機營同氣連枝，對我們多番照顧，日常巡邏的事情我們也得出把力，回報他們。最近有很多可疑人物在明教周圍活動，他們很可能是來這裡刺探的，找到他們並把他們手裡的情報搶回來。可疑人可能出現的位置坐標（7，-304）；（62，-89）（攻克前來刺探的人或者擊敗可疑之人後可獲得情報）
 context_52089=最近有很多可疑人物在天山派周圍活動，他們很可能是來這裡刺探的，找到他們並把他們手裡的情報搶回來。可疑人可能出現的位置坐標（1350，1214）；（1269，1483）；攻克前來刺探的人或者擊敗可疑之人後可獲得情報）
 context_52092=天山派和我星渺閣同氣連枝，最近有很多可疑人物在天山派周圍活動，他們很可能是來這裡刺探的，找到他們並把他們手裡的情報搶回來。可疑人可能出現的位置坐標（1350，1214）；（1269，1483）；攻克前來刺探的人或者擊敗可疑之人後可獲得情報）
+CanAcceptMenu_52094=<font face="Default" color="#ffffff" >崑崙派刺探周常任務（此任務不能放棄）</font>
+CompleteMenu_52094=<font face="Default" color="#ffffff" >我已經刺探過那些門派了。</font>
+accept_52094_1=<font face="Default" color="#ffffff" >近來有些門派動作頻繁，也許是發生什麼大事了，你去刺探一番，回來向我報告。</font>
+complete_52094=<font face="Default" color="#ffffff" >做的不錯，我沒看錯你，你將來前途無量！</font>
+context_52094=門派之間的情報鬥爭愈演愈烈，參與情報收集的弟子越來越多，收集的情報質量參差不齊，為鼓勵弟子們多收集有價值的情報，崑崙派掌門決定對於能夠按照他的要求完成情報刺探的弟子，獎勵門派榮譽憑證70個（此任務每週只能完成一次，並且只有完成之後的下一周才能重新領取。在提交周常任務時會收回所有多餘的刺探掌門令，請合理安排刺探活動）
+menu_52094_1=<font face="Default" color="#ffffff" >是，弟子遵命！</font>
+target_52094=按照崑崙派掌門的要求，完成對指定門派的刺探。
+title_52094=情報之爭（崑崙派）
+CanAcceptMenu_52095=<font face="Default" color="#ffffff" >前輩找我有什麼事？</font>
+CanAcceptMenu_52096=<font face="Default" color="#ffffff" >這裡有人來刺探情報？</font>
+CompleteMenu_52095=<font face="Default" color="#ffffff" >我已經巡查過了。</font>
+CompleteMenu_52096=<font face="Default" color="#ffffff" >完成任務</font>
+accept_52095_1=<font face="Default" color="#ffffff" >最近鬼鬼祟祟的人越來越多，你去周圍看看情況。</font>
+accept_52096_1=<font face="Default" color="#ffffff" >這裡有可疑之人出沒，好像已經獲得了不少我門派的情報，你在這四周看看一定要把他們找出來。</font>
+complete_52095=<font face="Default" color="#ffffff" >太好了。</font>
+complete_52096=<font face="Default" color="#ffffff" >做的不錯。</font>
+context_52095=最近有很多可疑人物在崑崙派周圍活動，他們很可能是來這裡刺探的，找到他們並把他們手裡的情報搶回來。可疑人可能出現的位置坐標（-127，-147）；（-299，167）；攻克前來刺探的人或者擊敗可疑之人後可獲得情報）
+context_52096=在這裡鬼鬼祟祟的，一定是其他門派前來刺探的，打敗他們拿回被盜走的情報。（承接巡邏日常任務的巡邏弟子可以完成，完成後可獲得一份情報）
+menu_52095_1=<font face="Default" color="#ffffff" >好的，我馬上就去。</font>
+menu_52096_1=<font face="Default" color="#ffffff" >我一定會把他們找出來的。</font>
+submit_52095=<font face="Default" color="#ffffff" >我已經把被盜的情報都拿回來了。</font>
+submit_52096=<font face="Default" color="#ffffff" >我已經打敗可疑的人了。</font>
+target_52095=完成四次巡邏
+target_52096=打敗可疑的人
+title_52095=門派日常巡邏
+title_52096=可疑之人
+accept_52054_1=<font face="Default" color="#ffffff" >五仙教向來不問中原之事，此番重出江湖，必須充分瞭解中原各大宗派的情況。你幫我去各大門派刺探一番，有任何消息都可以報告身在極樂谷的何翩翩。</font>
+submit_52088=<font face="Default" color="#ffffff" >多謝掌門！</font>
+submit_52094=<font face="Default" color="#ffffff" >多謝掌門！</font>
+CanAcceptMenu_52097=<font face="Default" color="#ffffff" >天涯海閣刺探周常任務（此任務不能放棄）</font>
+CompleteMenu_52097=<font face="Default" color="#ffffff" >我已經刺探過那些門派了。</font>
+accept_52097_1=<font face="Default" color="#ffffff" >近來有些門派動作頻繁，也許是發生什麼大事了，你去刺探一番，回來向我報告。</font>
+complete_52097=<font face="Default" color="#ffffff" >做的不錯，我沒看錯你，你將來前途無量！</font>
+context_52097=門派之間的情報鬥爭愈演愈烈，參與情報收集的弟子越來越多，收集的情報質量參差不齊，為鼓勵弟子們多收集有價值的情報，天涯海閣閣主決定對於能夠按照他的要求完成情報刺探的弟子，獎勵雲天佩14個（此任務每週只能完成一次，並且只有完成之後的下一周才能重新領取。在提交周常任務時會收回所有多餘的刺探掌門令，請合理安排刺探活動）
+menu_52097_1=<font face="Default" color="#ffffff" >是，弟子遵命！</font>
+submit_52097=<font face="Default" color="#ffffff" >多謝大人！</font>
+target_52097=按照天涯海閣閣主的要求，完成對指定門派的刺探。
+title_52097=情報之爭（天涯海閣）
+CanAcceptMenu_52098=<font face="Default" color="#ffffff" >前輩找我有什麼事？</font>
+CanAcceptMenu_52099=<font face="Default" color="#ffffff" >這裡有人來刺探情報？</font>
+CompleteMenu_52098=<font face="Default" color="#ffffff" >我已經巡查過了。</font>
+CompleteMenu_52099=<font face="Default" color="#ffffff" >完成任務</font>
+accept_52098_1=<font face="Default" color="#ffffff" >最近鬼鬼祟祟的人越來越多，你去周圍看看情況。</font>
+accept_52099_1=<font face="Default" color="#ffffff" >這裡有可疑之人出沒，好像已經獲得了不少我門派的情報，你在這四周看看一定要把他們找出來。</font>
+complete_52098=<font face="Default" color="#ffffff" >太好了。</font>
+complete_52099=<font face="Default" color="#ffffff" >做的不錯。</font>
+context_52098=崑崙派和我天涯海閣同氣連枝，最近有很多可疑人物在崑崙派周圍活動，他們很可能是來這裡刺探的，找到他們並把他們手裡的情報搶回來。可疑人可能出現的位置坐標（-127，-147）；（-299，167）；攻克前來刺探的人或者擊敗可疑之人後可獲得情報）
+context_52099=在這裡鬼鬼祟祟的，一定是其他門派前來刺探的，打敗他們拿回被盜走的情報。（承接巡邏日常任務的巡邏弟子可以完成，完成後可獲得一份情報）
+menu_52098_1=<font face="Default" color="#ffffff" >好的，我馬上就去。</font>
+menu_52099_1=<font face="Default" color="#ffffff" >我一定會把他們找出來的。</font>
+submit_52098=<font face="Default" color="#ffffff" >我已經把被盜的情報都拿回來了。</font>
+submit_52099=<font face="Default" color="#ffffff" >我已經打敗可疑的人了。</font>
+target_52098=完成四次巡邏
+target_52099=打敗可疑的人
+title_52098=門派日常巡邏
+title_52099=可疑之人
 

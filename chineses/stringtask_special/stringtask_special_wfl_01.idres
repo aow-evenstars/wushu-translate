@@ -38,10 +38,6 @@ zzanswertext_2_5003=Intuition.
 zzanswertext_2_5004=An oven.
 zzanswertext_2_5005=Lofty Mountains And Flowing Water
 zzanswertext_3_5005="The Autumn Moon over the Tranquil Lake"
-collectinfo_20=Buy 5 Knockout Drops from the <a href="findnpc_new,born04,FuncNpc00007" style="HLStype1">Grocery Shopkeeper</a>
-collectinfo_21=Collect <a href="findnpc_new,born03," style="HLStype1"></a> 5 knockout drops (sedatives)
-collectinfo_22=Buy 5 Knockout Drops from the <a href="findnpc_new,city05,FuncNpc00606" style="HLStype1">Grocery Shopkeeper</a>.
-collectinfo_23=Buy 5 Knockout Drops from the <a href="findnpc_new,born01,FuncNpc404" style="HLStype1">Grocery Shopkeeper</a>.
 collectinfo_40=Use the <a href="TASK_ITEM,useitem_20f" style="HLStype1">Golden Net</a> to capture the <a href="findnpc_new,school05,monrm062800" style="HLStype1">Golden-Eye Spider</a>.
 hunterinfo_40=Kill the <a href="findnpc_new,school02,monrm024718" style="HLStype1">Fierce Robber</a>
 hunterinfo_41=Execute the <a href="findnpc_new,school01,monrm013901" style="HLStype1">Condemned Prisoners</a>
@@ -54,14 +50,6 @@ interact_55=Talk with the <a href="findnpc_new,school03,FuncNpc01307" style="HLS
 interact_56=Talk with the <a href="findnpc_new,school05,FuncNpc01020" style="HLStype1">Tangmen Guide</a>
 interact_57=Talk to the <a href="findnpc_new,school04,FuncNpc01404" style="HLStype1">Wanderer's Valley Guide</a>
 interact_58=Speak with the <a href="findnpc_new,school01,FuncNpc01505" style="HLStype1">Royal Guards Guide</a>
-interact_offline_abduct=Use Knockout Drops to render an offline player unconscious. Put the player into a sack, and complete the task.
-interact_offline_sale=Sell the player you kidnapped to <a href="findnpc_new,born04,WorldNpc00137" style="HLStype1">Fat Li</a> or <a href="findnpc_new,born04,FuncNpc00002" style="HLStype1">Zhou Cang</a>
-interact_offline_sale_chengdu=There are many Human Traffickers in disguise. You can sell captive players to <a href="findnpc_new,city05,WorldNpc00615" style="HLStype1">Innkeeper Fat Li</a> or Jewelry Store Owner <a href="findnpc_new,city05,FuncNpc00604" style="HLStype1">Zhou Shengsheng</a>. Do not try to sell someone to the Shop that employed them. You will be attacked!
-interact_offline_sale_jmy=There are many Human Traffickers in disguise. You can sell captive players to  <a href="findnpc_new,born01,WorldNpc10941" style="HLStype1">Inn Keeper, Shou Jia,</a> the Coal Mine Supervisor <a href="findnpc_new,born01,WorldNpc10690" style="HLStype1">or Qian Yun</a>. Do not try to sell someone to the Shop that employed them. You will be attacked!
-interact_offline_sale_yanyu=There are many Human Traffickers in disguise. You can sell captive players to <a href="findnpc_new,born03,WorldNpc00535" style="HLStype1">Gambling Hall Hatchet Man, Yang Xiaohei</a> the Tea Shop Manager <a href="findnpc_new,born03,WorldNpc00512" style="HLStype1">or Chang Sihai</a>. Do not try to sell someone to the Shop that employed them. You will be attacked!
-interact_offline_save=Defeat a kidnapper. Return here after saving a hostage for your reward.
-interactinfo_15=Ask <a href="findnpc_new,city05,WorldNpc09862" style="HLStype1">Wan Jun</a> how to find the kidnappers
-interactinfo_16=Ask <a href="findnpc_new,born01,WorldNpc10751" style="HLStype1">Yu Cheng</a> how to find the kidnapper
 interactinfo_17=Take the Abbot's message to <a href="findnpc_new,city02,EscortAcceptNpc002" style="HLStype1">He Linyan</a>
 interactinfo_21=Ask the <a href="findnpc_new,born04,WorldNpc00176" style="HLStype1">Constable</a> what you should do.
 interactinfo_22=Go to <a href="findnpc_new,city05,EventNpc122" style="HLStype1">Chengdu Arena</a> to find Brother Bao Wang.
@@ -555,14 +543,6 @@ specialinfo_206=Press "T" to open the teleport point interface, and click "retur
 specialinfo_207=Press "T" to open the teleport point interface, and click "return" to go back to the school's teleport point.
 specialinfo_208=Press "T" to open the teleport point interface, and click "return" to go back to the school's teleport point.
 specialinfo_209=Press "T" to open the teleport point interface, and click "return" to go back to the school's teleport point.
-specialinfo_284=Use Knockout Drops to render an offline player unconscious, then stuff him in a sack.
-specialinfo_285=Use knockout drops to render an offline player unconscious. Then, sell him/her to the wharf supervisor, <a href="findnpc_new,born04,WorldNpc00137" style="HLStype1">Fat Li</a>, or the manager of the herb store <a href="findnpc_new,born04,FuncNpc00002" style="HLStype1">Zhou Cang</a>. But be careful: you cannot sell them players who work in their stores.
-specialinfo_286=Use Knockout Drops to render an offline player unconscious, then stuff him in a sack.
-specialinfo_287=Use Knockout Drops to render an offline player unconscious. Put the player into a sack, and sell him/her to <a href="findnpc_new,born03,WorldNpc00535" style="HLStype1">Gambling House Hatchet Man Yang Xiaohei</a>, Teahouse Owner <a href="findnpc_new,born03,WorldNpc00512" style="HLStype1">Chang Sihai</a>. But be careful: you cannot sell them players who work in their stores.
-specialinfo_288=Use Knockout Drops to render an offline player unconscious, then stuff him in a sack.
-specialinfo_289=Use Knockout Drops to render an offline player unconscious. Put the player into a sack, and sell him/her to Innkeeper <a href="findnpc_new,city05,FuncNpc00615" style="HLStype1">Sun Ada</a>, Jewelry Store Owner <a href="findnpc_new,city05,FuncNpc00604" style="HLStype1">Zhou Shengsheng</a>. But be careful: you cannot sell them players who work in their stores.
-specialinfo_290=Use Knockout Drops to render an offline player unconscious, then stuff him in a sack.
-specialinfo_291=Use Knockout Drops to render an offline player unconscious. Put the player into a sack, and sell him/her to <a href="findnpc_new,born01,WorldNpc10941" style="HLStype1">Inn Keeper Shou Jia</a>, Coal Mine Supervisor <a href="findnpc_new,born01,WorldNpc10690" style="HLStype1">Qian Yun</a>. But be careful: you cannot sell them players who work in their stores.
 useiteminfo_10=Use <a href="TASK_ITEM,useitem_133m" style="HLStype1">Yellow Paper</a> at the <a href="findnpc_new,city03,Gather00155m" style="HLStype1">Altar</a>.
 useiteminfo_6=Use the <a href="TASK_ITEM,useitem_132m" style="HLStype1">Hoe</a> to remove the <a href="findnpc_new,city03,Gather00156m" style="HLStype1">Weeds</a>
 useiteminfo_7=Use the <a href="TASK_ITEM,useitem_134m" style="HLStype1">Oblation</a> at the <a href="findnpc_new,city03,Gather00155m" style="HLStype1">Altar</a>.
@@ -1708,7 +1688,6 @@ SubmitNpcEx_59=Find <a href="findnpc_new,born01,Transbron01A" style="HLStype1">C
 okmenu_41=I'm truly in your debt.
 specialinfo_725=Complete<font color="#00d8ff"> Twilight Village</font> once
 specialinfo_726=Complete<font color="#00d8ff"> Green Cloud Castle</font> once
-specialinfo_728=Complete<font color="#00d8ff"> Wooden Monk Lane</font> once
 specialinfo_729=Complete<font color="#00d8ff"> Zixiao Underground Palace</font> once
 specialinfo_730=Complete<font color="#00d8ff"> Sacrifice Cliff</font> once
 specialinfo_731=Complete<font color="#00d8ff"> Apricot  Forest</font> once
@@ -1858,15 +1837,6 @@ storymenu_94_1=<font face="Default" color="#ffffff" >Grandmaster, what a great p
 storymenu_94_2=<font face="Default" color="#ffffff" >I shall follow the grandmaster's instructions! </font>
 hunterinfo_47=Defeat the Korean messenger.
 storyinfo_94=Listen to <a href="findnpc,school22,1262,199,920" style="HLStype1">Bai Tianjing</a>
-DialogID_30004=Recently, the ten major schools have been recruiting disciples. If you wish to go seek a teacher for a lesson, maybe our Young Hero is willing to listen to some advice?
-DialogID_41=Recently, the ten major schools have been recruiting disciples. If you wish to go seek a teacher for a lesson, maybe our Young Hero is willing to listen to some advice?
-DialogID_49=Recently, the ten major schools have been recruiting disciples. If you wish to go seek a teacher for a lesson, maybe our Young Hero is willing to listen to some advice?
-DialogID_50=Recently, the ten major schools have been recruiting disciples. If you wish to go seek a teacher for a lesson, maybe our Young Hero is willing to listen to some advice?
-DialogID_59=Recently, the ten major schools have been recruiting disciples. If you wish to go seek a teacher for a lesson, maybe our Young Hero is willing to listen to some advice?
-DialogID_15=<font face="Default" color="#ffffff" >A kidnapping player carries a bag with a person inside on his shoulder. You will also notice the word "Criminal" over his head. He can be attacked anywhere, and no one will blame you for killing him!</font>
-DialogID_16=<font face="Default" color="#ffffff" >A kidnapping player carries a bag with a person inside on his shoulder. You will also notice the word "Criminal" over his head. He can be attacked anywhere, and no one will blame you for killing him!</font>
-DialogID_21=<font face="Default" color="#ffffff" >A kidnapping player carries a bag with a person inside on his shoulder. You will also notice the word "Criminal" over his head. He can be attacked anywhere, and no one will blame you for killing him!</font>
-DialogID_42=<font face="Default" color="#ffffff" >A kidnapping player carries a bag with a person inside on his shoulder. You will also notice the word "Criminal" over his head. He can be attacked anywhere, and no one will blame you for killing him!</font>
 hunterinfo_17=Assassinate the Korean Princess Li Ju, who is the mastermind behind Fine Wisdom Pavilion.
 specialinfo_1064=Kill Mortal Enemies once.
 specialinfo_615=Kill a member of an Enemy Guild.
@@ -1874,4 +1844,20 @@ specialinfo_833=Go to the <font color="#00d8ff">Killers' Manor</font> to complet
 story_62_1=<font face="Default" color="#ffffff" >I see. Before we continue, answer honestly: why do you want to learn to fight? Revenge? To abuse the weak? If so, you have no place here.</font>
 story_64_2=<font face="Default" color="#ffffff" >Very well. We will teach you to protect yourself from your enemies. Go and speak with He Yongyong to learn some external skills.</font>
 story_menu_64=<font face="Default" color="#ffffff" >When I was younger, my noble family was slaughtered. Since then, I've wandered, begging for scraps to survive. And now, I am here.</font>
+QiecuoMenu_48=<font face="Default" color="#ffffff" >Grandmaster does not agree with the request of the special envoy.</font>
+QiecuoTitle_48=<font face="Default" color="#ffffff" >Grandmaster does not agree with the request of the special envoy.</font>
+SubmitNpcEx_404=Find the Korean messenger and get in good with him.
+story_95_1=<font face="Default" color="#ffffff" >Korea is a greedy little kingdom that coverts our Central Plain. Their prince has used all of the kingdom's resources to build Fine Wisdom Pavilion. They are corrupt and immoral and are surely up to no good. The Korean messengers have recently been distributing Mystic Iron Badges around the Central Plain, Broadly recruiting traitors and heretics. It is said that many losers in Jianghu have already joined them. I will be able to give him anything he wants. The Fine Wisdom Pavilion is the first step in invading the Central Plain. If we wait until they build up their strength, it will not be easy to get rid of them. I have an idea. We should take the opportunity to mix in among them to get information and cause schisms. Then we can destroy them. However, it is very risky. Are you determined enough? </font>
+story_95_2=<font face="Default" color="#ffffff" >There are plenty of unscrupulous people in Jianghu. These Mystic Iron Badges are promises of riches and power, so there will definitely be people who will fight for them. Our mission is to save the people, so we must be even more cautious. But if we see a loser on the road, we must catch him if we can. We'll get an extra badge, and we'll have one less loser. </font>
+story_menu_95=<font face="Default" color="#ffffff" >Grandmaster, regarding the matter of the Korean specials envoy, what is your opinion? </font>
+storymenu_95_1=<font face="Default" color="#ffffff" >Grandmaster, what a great plan! </font>
+storymenu_95_2=<font face="Default" color="#ffffff" >I shall follow the grandmaster's instructions! </font>
+hunterinfo_48=Defeat the Korean messenger.
+storyinfo_95=Listen to <a href="findnpc,school24,-126,209,-545" style="HLStype1">Master Yunyang</a> speak.
+DialogID_30004=Recently, the ten major schools have been recruiting disciples. If you wish to go seek a teacher for a lesson, maybe our Young Hero is willing to listen to some advice?
+DialogID_41=Recently, the ten major schools have been recruiting disciples. If you wish to go seek a teacher for a lesson, maybe our Young Hero is willing to listen to some advice?
+DialogID_49=Recently, the ten major schools have been recruiting disciples. If you wish to go seek a teacher for a lesson, maybe our Young Hero is willing to listen to some advice?
+DialogID_50=Recently, the ten major schools have been recruiting disciples. If you wish to go seek a teacher for a lesson, maybe our Young Hero is willing to listen to some advice?
+DialogID_59=Recently, the ten major schools have been recruiting disciples. If you wish to go seek a teacher for a lesson, maybe our Young Hero is willing to listen to some advice?
+specialinfo_728=Complete<font color="#00d8ff"> Wooden Monk Lane</font> once
 

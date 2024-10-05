@@ -492,6 +492,25 @@ target_51639=Go to Tianshan Sect. Ask the headmaster to take you as a disciple.
 target_51640=Talk to the headmaster.
 title_51639=Go to Tianshan Sect.
 title_51640=Joining a School
+complete_51635=<font face="Default" color="#ffffff" >From now on you are a member of the Royal Guards. Remember, those who submit will prosper. Those who resist will perish.</font>
+CanAcceptMenu_51641=<font face="Default" color="#ffffff" >Become A Disciple</font>
+CanAcceptMenu_51642=<font face="Default" color="#ffffff" >Become A Disciple (Acceptable)</font>
+CompleteMenu_51641=<font face="Default" color="#ffffff" >Fulfill the task.</font>
+CompleteMenu_51642=<font face="Default" color="#ffffff" >Join the School (Complete)</font>
+accept_51641_1=If you wish to join the Kunlun sect, go and meet the sect leader. If you can pass the test, you can become a member of Kunlun sect.
+accept_51642_1=Once you join our sect, there are some things you must know.
+complete_51641=<font face="Default" color="#ffffff" >Why are you here? </font>
+complete_51642=From now on, you are a disciple of Kunlun sect.
+context_51641=If you wish to join the Kunlun sect, go and meet the sect leader. If you can pass the test, you can become a member of Kunlun sect.
+context_51642=Listen to the sect leader talk about the Kunlun sect.
+menu_51641_1=<font face="Default" color="#ffffff" >I will return later.</font>
+menu_51642_1=<font face="Default" color="#ffffff" >I will remember the instructions. </font>
+submit_51641=I have long admired the reputation of the Kunlun sect, so I have come to pay my respects today. Please do not be offended by my sudden visit.
+submit_51642=<font face="Default" color="#ffffff" >Thank you, Headmaster.</font>
+target_51641=Go to the Kunlun sect and ask the sect leader to accept you as a disciple.
+target_51642=Talk to the headmaster.
+title_51641=Go to Kunlun Sect
+title_51642=Joining a School
 CanAcceptMenu_51505=<font face="Default" color="#ffffff" >Ten Schools</font>
 CompleteMenu_51505=<font face="Default" color="#ffffff" >Thank you for your advice. </font>
 accept_51505_1=<font face="Default" color="#ffffff" >You have been wandering Jianghu for some time now, don't you feel that it is sometimes inconvenient to not have the backing of a school or faction to rely on? If you would like to join one of the Ten Schools, I can help you, </font><font face="Default" color="#ffffff" >but there are requirements for joining each school</font><font face="Default" color="#ffffff" >. </font>
@@ -500,5 +519,4 @@ context_51505=I want to find a powerful and reliable faction. If I want to join 
 context_51506=Some factions have been developing quickly, and even surpassed the ten major schools in their power and prestige. You should learn more about them.
 target_51505=Learn from the monk the requirements and restrictions for joining the Ten Schools.
 title_51505=Joining one of the Ten Schools
-complete_51635=<font face="Default" color="#ffffff" >From now on you are a member of the Royal Guards. Remember, those who submit will prosper. Those who resist will perish.</font>
 

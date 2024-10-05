@@ -842,4 +842,63 @@ storymenu_6514_2=<font face="Default" color="#ffffff" >I have had enough of this
 storymenu_6521_2=<font face="Default" color="#ffffff" > I have killed many in my life without thought, if the family of those I killed come seek vengeance, I could die a thousand times and it would not be enough.
 storymenu_6524_1=<font face="Default" color="#ffffff" >Ever since I had been forced to leave the school and my Kung Fu destroyed, my life has been endless wanderings, and I still have to avoid assassins. I am sick of it all. </font>
 collectinfo_6563=Obtain Jianghu Experience skill certificate to prove the result of going down the mountain (there is also a chance of obtaining Jianghu Experience skill certificate from faction challenge reward packs or from participation in Forbidden Instance Jianghu Killer Harassment).
+DialogID_6575=<font face="Default" color="#ffffff" > Not bad, not bad. The headmaster will definitely like you. This is a letter of introduction, take it to the headmaster.</font>
+DialogID_6576=<font face="Default" color="#ffffff" >Ha ha ha! Do you think I'd really go with you? I have already secretly sent someone to tell the leader. </font>
+DialogID_6577=<font face="Default" color="#ffffff" >To return back to the school, you'll be taking an assessment for a duration of one day. </font>
+DialogID_6578=<font face="Default" color="#ffffff" > Ha-ha! I knew this day would come. Don't worry, I have a guard here who has a rare Jianghu skill that can transform your face back to its original appearance. </font>
+QiecuoMenu_6544=<font face="Default" color="#ffffff" >Elder, my apologies!</font>
+QiecuoMenu_6545=<font face="Default" color="#ffffff" >Let's fight!</font>
+QiecuoMenu_6546=<font face="Default" color="#ffffff" >What! Why the sudden attack?</font>
+QiecuoTitle_6544=<font face="Default" color="#ffffff" > Before meeting the headmaster, I also want to test your skills. Attack me and let me see.</font>
+QiecuoTitle_6545=<font face="Default" color="#ffffff" >Just because you want to fight me? </font>
+QiecuoTitle_6546=<font face="Default" color="#ffffff" > Here is another one. I feel restless! You are just in time for a taste of my "Floating Fist".</font>
+SubmitNpcEx_45625=<a href="findnpc_new,school24,newmp_kl_004" style="HLStype1">Cao Yi'an</a>
+SubmitNpcEx_45627=Talk to <a href="findnpc_new,school24,newmp_kl_001" style="HLStype1">Yunyangzi</a> and tell him your thoughts
+SubmitNpcEx_45628=Beg <a href="findnpc_new,school24,newmp_kl_001" style="HLStype1">Yunyangzi</a> to allow you to join the Kunlun sect
+SubmitNpcEx_45633=Bid farewell to <a href="findnpc_new,school24,newmp_kl_001" style="HLStype1">Yunyangzi</a> and start your journey in the martial world
+SubmitNpcEx_45634=Hand over the entry certificate to <a href="findnpc_new,school24,newmp_kl_001" style="HLStype1">Yunyangzi</a> upon returning to the Kunlun sect
+collectinfo_6564=Skill certificates can be found at Jianghu Forbidden Instances Green Cloud Castle and Yanmen Pass. You can participate in a faction challenge (except for Level 1 challenges) and receive a skill certificate corresponding with own skill if a grade of "A" is received. Challenge treasure chests from Level 2 and upwards will also have skill certificates. You can also go to the Experience Guide and accept daily tasks to receive a skill certificate.
+collectinfo_6565=After the one-day verification period ends, use School verification token and check if you can return to your school
+collectinfo_6566=Obtain Jianghu Experience skill certificate to prove the result of going down the mountain (there is also a chance of obtaining Jianghu Experience skill certificate from faction challenge reward packs or from participation in Forbidden Instance Jianghu Killer Harassment).
+hunterinfo_6544=Accept the challenge from <a href="findnpc_new,school24,npc_klguj_005" style="HLStype1">Xuanyuan Qing</a>
+hunterinfo_6545=Unexpectedly, <a href="findnpc_new,school24,npc_klguj_003" style="HLStype1">Murong Yan</a> betrayed you, defeat him
+hunterinfo_6546=Accept <a href="findnpc_new,born02,erg36" style="HLStype1">Dansheng Guard's</a>Fist Healing
+interactinfo_6575=Receive the letter of recommendation from <a href="findnpc_new,school24,npc_klguj_005" style="HLStype1">Xuanyuan Qing</a>
+interactinfo_6576=Tell <a href="findnpc_new,school24,npc_klguj_003" style="HLStype1">Murong Yan</a> about your plan to leave the mountain without permission
+interactinfo_6577=Talk to <a href="findnpc_new,school24,newmp_kl_003" style="HLStype1">Wuwei Daozhang</a> and ask about returning to the sect (Note: You can go to Kunlun Sect through the <a href="findnpc_new,born02,DoorNpc00103" style="HLStype1">teleportation gate</a> in Ruined Valley).
+interactinfo_6578=Ask <a href="findnpc_new,born02,erg38" style="HLStype1">the Dansheng Disciple </a>about the methods for changing one's appearance
+okmenu_6575=<font face="Default" color="#ffffff" >Goodbye, Heibai Zi.</font>
+okmenu_6576=<font face="Default" color="#ffffff" >You… You actually do this kind of stuff! </font>
+okmenu_6577=<font face="Default" color="#ffffff" >Thanks a lot, Leader.</font>
+okmenu_6578=<font face="Default" color="#ffffff" >Thank you, Great Physician.</font>
+story_6580_1=<font face="Default" color="#ffffff" > You have always been running around for me in Kunlun sect, working hard and diligently, and I have seen it all. However, the rules of Kunlun sect are strict, and no one is allowed to break them, not even me. Although I know you mean no harm, I cannot let you stay in Kunlun sect, otherwise the many disciples inside will surely follow your example in the future.
+story_6580_2=<font face="Default" color="#ffffff" > Haha, I won't argue with you. You can leave Kunlun sect today, I won't make things difficult for you. But if we meet again, I won't let you go so easily.
+story_6581_1=<font face="Default" color="#ffffff" > Oh? What happened? Why did you come to Kunlun sect?
+story_6581_2=<font face="Default" color="#ffffff" >Ha-ha, what makes you say that? </font>
+story_6581_3=<font face="Default" color="#ffffff" > Hahaha, you want to join Kunlun sect, don't you? With this letter in my hand, isn't that enough?
+story_6582_1=<font face="Default" color="#ffffff" >Many things happened in jianghu recently. Your current strength is not that great, so you may not have an opportunity to participate in the challenge.</font>
+story_6582_2=The Kunlun sect has always been detached from the world and uninterested in competing with others. If it is for the sake of pursuing empty fame, the disciples of the Kunlun sect have long surpassed other sects. If you have such intentions, then either adopt the detached mindset of the Kunlun sect or stay within the sect and reflect on your actions. If you can understand this, then it is the moment you step into the world.
+story_6583_1=<font face="Default" color="#ffffff" >Although you were captured by the masters of my Kunlun sect, your martial arts skills are still among the top of our disciples. However, after this battle, you have suffered internal injuries and even if you recover, it will be difficult to regain your former strength. It's fine, I will let you leave the mountain. If it weren't for some miraculous encounter, it would be hard for your martial arts to recover. But from now on, you are no longer a disciple of </font><font face="Default" color="#ffffff" >Kunlun</font><font face="Default" color="#ffffff" > sect.</font>
+story_6584_1=<font face="Default" color="#ffffff" >Is this so? Have you learned much from your experiences outside? </font>
+story_6584_2=<font face="Default" color="#ffffff" >In the beginning, the sect leader advised you all not to go out, but you insisted. Now you can taste the bitter fruit. But if you can retrieve the corresponding proof and prove that you have not neglected your martial arts during this experience, then you will have the qualification to return to the sect.</font>
+story_menu_6580=<font face="Default" color="#ffffff" >I have heard the school rumors about you.</font>
+story_menu_6581=<font face="Default" color="#ffffff" >Join</font><font face="Default" color="#ffffff" >the Kunlun</font><font face="Default" color="#ffffff" >Sect</font>
+story_menu_6582=<font face="Default" color="#ffffff" >Grandmaster, I ask permission to go outside, please grant me permission. </font>
+story_menu_6583=<font face="Default" color="#ffffff" >Since things have come to this point, I will listen to the sect leader's decision.</font>
+story_menu_6584=<font face="Default" color="#ffffff" >I wish to return to the </font><font face="Default" color="#ffffff" >Kunlun</font><font face="Default" color="#ffffff" > sect, I hope you can fulfill this wish.</font>
+storyinfo_6580=Listen to <a href="findnpc_new,school24,newmp_kl_001" style="HLStype1">Yunyangzi</a>'s account.
+storyinfo_6581=Encounter <a href="findnpc_new,school24,npc_klguj_005" style="HLStype1">Xuanyuan Qing</a> and talk to him. (Note: You can go to Kunlun Sect through the <a href="findnpc_new,born02,DoorNpc00103" style="HLStype1">teleportation gate</a> in the Ruined Valley)
+storyinfo_6582=Ask the headmaster <a href="findnpc_new,school24,newmp_kl_001" style="HLStype1">Yunyangzi</a> about going out to experience the world
+storyinfo_6583=Follow the instructions of the headmaster <a href="findnpc_new,school24,newmp_kl_001" style="HLStype1">Yunyangzi</a>
+storyinfo_6584=Talk to <a href="findnpc_new,school24,newmp_kl_003" style="HLStype1">Wuwei Daozhang</a> and inquire about returning to the Kunlun sect.
+storymenu_6580_1=<font face="Default" color="#ffffff" >Headmaster, I didn't mean to get involved with the court. It's just that, in the martial world, I have no other choice.</font>
+storymenu_6580_2=<font face="Default" color="#ffffff" >Well, since this is the case, don't blame me mercilessly afterwards. </font>
+storymenu_6581_1=<font face="Default" color="#ffffff" >I have nowhere else to turn, so I ask for your help, </font><font face="Default" color="#ffffff" >Kunlun</font><font face="Default" color="#ffffff" > Sect.</font>
+storymenu_6581_2=<font face="Default" color="#ffffff" >To be honest, I have seen through those so-called sects a long time ago. I want to join the </font><font face="Default" color="#ffffff" >Kunlun</font><font face="Default" color="#ffffff" > sect.</font>
+storymenu_6581_3=<font face="Default" color="#ffffff" >Well, senior, please give me that letter of recommendation.</font>
+storymenu_6582_1=<font face="Default" color="#ffffff" >Master, I just want to travel in the martial world and spread the reputation of my Kunlun sect.</font>
+storymenu_6582_2=<font face="Default" color="#ffffff" >I... I will follow the Grandmaster's teachings and go back and think on it. </font>
+storymenu_6583_1=<font face="Default" color="#ffffff" >I have made such a mistake, yet the master still cares for me so much. I am deeply ashamed.</font>
+storymenu_6584_1=<font face="Default" color="#ffffff" >During this journey through the rivers and lakes, I have seen many things that are common in the world, and have also seen the faces of many small people. Now, feeling disheartened, I only hope to return to the Kunlun Sect, to practice martial arts and drink wine every day, in order to find peace of mind.</font>
+storymenu_6584_2=<font face="Default" color="#ffffff" >I disagree with this course of action.</font>
 

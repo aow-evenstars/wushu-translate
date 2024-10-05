@@ -136,16 +136,12 @@ menu_74420_1=<font face="Default" color="#ffffff" >All right.</font>
 submit_74420=<font face="Default" color="#ffffff" >Thank you.</font>
 target_74420=Jianghu VIP players toss Mud Ball 5 times at other players when they are in small
 title_74420=Playing Jianghu
-CanAcceptMenu_74422=<font face="Default" color="#ffffff" >Myriad of Lights Welcoming The Newcomers</font><font face="Default" color="#ffffff" > (Can accept)</font>
-CompleteMenu_74422=<font face="Default" color="#ffffff" >Myriad of Lights Welcoming The Newcomers (Can submit)</font>
 accept_74422_1=<font face="Default" color="#ffffff" >Help your friend clean his Home once. </font>
 complete_74422=<font face="Default" color="#ffffff" >Help your friend clean his Home once. </font>
 context_74422=Help your friend clean his Home once.
 menu_74422_1=<font face="Default" color="#ffffff" >All right.</font>
-next_74422=Myriad of Lights Welcoming The Newcomers
 submit_74422=<font face="Default" color="#ffffff" >I cleaned up already. </font>
 target_74422=Help your friend clean his Home once.
-title_74422=Myriad of Lights Welcoming The Newcomers
 CanAcceptMenu_74423=<font face="Default" color="#ffffff" >Martial Saint Worship (Can accept)</font>
 CompleteMenu_74423=<font face="Default" color="#ffffff" >Martial Saint Worship </font><font face="Default" color="#ffffff" >(Completed)</font><font face="Default" color="#ffffff" ></font>
 accept_74423_1=<font face="Default" color="#ffffff" >Sworn brothers reaching up to the clouds, crescent moon halberd blade is cold. Surpassing everyone high above, sensory bereavement shakes Qiankun. You've come to worship the Martial Saint? </font>
@@ -188,4 +184,244 @@ target_74412=Claim Back-to-School Quest (1) at Lin Liang the Event Ambassador. A
 target_74413=Claim Back-to-School Quest (2) at Lin Liang the Event Ambassador. After completing you will get Term Beginning Token. (Only VIP players can accept)
 title_74412=Back-to-School Quest (1)
 title_74413=Back-to-School Quest (2)
+CanAcceptMenu_74427=<font face="Default" color="#ffffff" >Celebrating the Martial Arts World with the Leader's Invitation (acceptable)</font>
+CanAcceptMenu_74428=<font face="Default" color="#ffffff" >Ambassador Shang Wu Gives Presents (Can accept)</font>
+CanAcceptMenu_74429=<font face="Default" color="#ffffff" >Hidden World Martial Arts Ascension (acceptable)</font>
+CanAcceptMenu_74440=<font face="Default" color="#ffffff" >Noble Family's Teachings (acceptable)</font>
+CanAcceptMenu_74446=<font face="Default" color="#ffffff" >Singing While Drunk (acceptable)</font>
+CanAcceptMenu_74448=<font face="Default" color="#ffffff" >Hidden World Meridian Assistance (acceptable)</font>
+CanAcceptMenu_74449=<font face="Default" color="#ffffff" >Challenge of the Inner Demons (acceptable)</font>
+CompleteMenu_74427=<font face="Default" color="#ffffff" >Celebrating the Martial Arts World with the Leader's Invitation (can be submitted)</font>
+CompleteMenu_74428=<font face="Default" color="#ffffff" >Ambassador Shang Wu Gives Presents (Can submit)</font>
+CompleteMenu_74429=<font face="Default" color="#ffffff" >Hidden World Martial Arts Ascension (can be submitted)</font>
+CompleteMenu_74440=<font face="Default" color="#ffffff" >Exclusive teachings (can be submitted)</font>
+CompleteMenu_74446=<font face="Default" color="#ffffff" >Fulfill the task.</font>
+CompleteMenu_74448=<font face="Default" color="#ffffff" >Hidden meridians for added assistance (can be submitted)</font>
+CompleteMenu_74449=<font face="Default" color="#ffffff" >Heart demon challenge (can be submitted)</font>
+accept_74427_1=<font face="Default" color="#ffffff" >Want to present a greeting to the leaders of various sects, navigate the chessboard and welcome the new version, and celebrate the martial world together</font>
+accept_74428_1=<font face="Default" color="#ffffff" >As long as you log in during the event period, you can receive a prize from me every day!</font>
+accept_74429_1=<font face="Default" color="#ffffff" >Young hero, your strength is extraordinary, and I have a good gift to give!</font>
+accept_74440_1=<font face="Default" color="#ffffff" >Swear brotherhood in the Peach Garden, the moon rests on the cold blade of the Green Dragon Sword.</font>
+accept_74446_1=<font face="Default" color="#ffffff" >Throughout history, the wise and virtuous have all been lonely, only those who drink leave their names behind. Fine wine not only gives people courage and strength, but also uplifts the spirit and inspires bravery in battle! The Drunken Song and Dance event is about to begin, so come and show off your skills, young hero!</font>
+accept_74448_1=<font face="Default" color="#ffffff" >During the event, qualified martial artists can receive a certificate of assistance here.</font>
+accept_74449_1=<font face="Default" color="#ffffff" >During the event, Jianghu VIPs of the martial world can come to me every day to receive the "Heart Demon Challenge" mission. Upon completion, they can receive a reward from the ambassador.</font>
+complete_74427=<font face="Default" color="#ffffff" >Here is your reward. Please take it.</font>
+complete_74428=<font face="Default" color="#ffffff" >Wishing the hero a smooth journey!</font>
+complete_74429=<font face="Default" color="#ffffff" >Wishing the hero a smooth journey!</font>
+complete_74440=<font face="Default" color="#ffffff" >With grand ambitions and heroic spirit, you will be admired by all. Your noble appearance is admired by the people, and your loyalty and bravery are unmatched by anyone else.</font>
+complete_74446=<font face="Default" color="#ffffff" >Drinking brings joy and dispels worries! Not only do you know how to appreciate wine, but you also possess extraordinary skills and exceptional strength! Admiration, admiration!</font>
+complete_74448=<font face="Default" color="#ffffff" >Hidden Meridians Add Power (Completed)</font>
+complete_74449=<font face="Default" color="#ffffff" >This is your reward, please take it.</font>
+context_74427=Lin Tiannan, the leader of the martial arts alliance, presents a greeting card, welcoming the new version and celebrating the martial arts world. By completing the task, you can receive generous rewards from Lin Tiannan.
+context_74428=During the event, all Jianghu VIPs in the martial arts world can receive a "Martial Arts Gift Pack" from the martial arts ambassador in Suzhou (390,768) every day.
+context_74429=During the event, Jianghu VIPs will go to the mysterious old man in Suzhou (who does good deeds) (390,735) to complete the task of verifying their strength by talking to him and receive a Hidden World Promotion Token *1.
+context_74440=After paying respects to the Martial Saint at the Jinling <a href="findnpc_new,city03,npc_sworn002" style="HLStype1">Guanzhi (Imperial Temple Sworn Brother Guide)</a>, players can challenge the Martial Saint's attendants.
+context_74446=Successfully complete 1 Heart Demon challenge.
+context_74447=During the event, Jianghu VIPs can receive a task from the NPC in Suzhou who changes names (Name Change Ambassador) (395,740): Help the Alliance Leader enter the Hidden World. Upon completion of the task, players can obtain a letter from Lin Tiannan *1.
+context_74448=During the event, Jianghu VIPs who have opened the Six Inner Age of Wushu Record (Demon's Trace Appears) plan can go to the NPC in Suzhou, renamed (Renaming Ambassador) (395,740) to talk and accept the "Hidden Meridians Assistance" task. Upon completion, they will receive a certificate of assistance for reversing the meridians.
+context_74449=During the event, Jianghu VIPs can go to the Shangwu Ambassador (390,768) in Suzhou every day to accept the "Heart Demon Challenge" task. Upon completion, they can receive a reward from the ambassador.
+menu_74427_1=<font face="Default" color="#ffffff" >All right.</font>
+menu_74428_1=<font face="Default" color="#ffffff" >Thank you!</font>
+menu_74429_1=<font face="Default" color="#ffffff" >Thank you!</font>
+menu_74440_1=<font face="Default" color="#ffffff" >I want to worship the Martial Saint.</font>
+menu_74446_1=<font face="Default" color="#ffffff" >Then I will drink and fight with all my might!</font>
+menu_74448_1=<font face="Default" color="#ffffff" >Thank you!</font>
+menu_74449_1=<font face="Default" color="#ffffff" >All right.</font>
+next_74449=After completing the Heart Demon Challenge once, players can receive a reward from the ambassador.
+submit_74427=<font face="Default" color="#ffffff" >Thank you.</font>
+submit_74428=<font face="Default" color="#ffffff" >Goodbye! </font>
+submit_74429=<font face="Default" color="#ffffff" >Goodbye! </font>
+submit_74440=<font face="Default" color="#ffffff" >Truly admirable.</font>
+submit_74446=<font face="Default" color="#ffffff" >Today we have wine, let's get drunk today. Tomorrow we'll worry about tomorrow's worries. With the wine in my throat, the fierce battle will be even more exhilarating with the help of the gods! How refreshing!</font>
+submit_74448=<font face="Default" color="#ffffff" >Thank you!</font>
+submit_74449=<font face="Default" color="#ffffff" >Thank you.</font>
+target_74427=Lin Tiannan, the leader of the martial arts alliance, presents a greeting card, welcoming the new version and celebrating the martial arts world. By completing the task, you can receive generous rewards from Lin Tiannan.
+target_74428=Find the Shangwu Ambassador to receive a gift package.
+target_74429=Go to Suzhou and find the mysterious old man.
+target_74440=Lessons from a prestigious family.
+target_74446=Complete one Heart Demon challenge.
+target_74447=Find the renamed (Renaming Ambassador).
+target_74448=Find the renamed (Renaming Ambassador).
+target_74449=After completing the Heart Demon Challenge once, players can receive a reward from the ambassador.
+title_74427=Present a letter of respect to the alliance leader to celebrate the martial arts world.
+title_74449=Challenge the Possessed
+title_74428=Ambassador Shang Wu Gives Presents
+title_74429=Hidden World Martial Arts Ascension
+CanAcceptMenu_74430=<font face="Default" color="#ffffff" >Excellence in work (</font><font face="Default" color="#ffffff" >accetpable</font><font face="Default" color="#ffffff" >)</font>
+CompleteMenu_74430=<font face="Default" color="#ffffff" >Excellence in work (</font><font face="Default" color="#ffffff" >can be submitted</font><font face="Default" color="#ffffff" >)</font>
+accept_74430_1=<font face="Default" color="#ffffff" >Excellence in work is wasted on play, complete one lesson and then come find me again.</font>
+complete_74430=<font face="Default" color="#ffffff" >Perseverance is the key to success.</font>
+context_74430=Complete Sima Haohong's request, complete one lesson.
+menu_74430_1=<font face="Default" color="#ffffff" >The truth shall save us from you.</font>
+next_74430=Excellence in work
+submit_74430=<font face="Default" color="#ffffff" >Diligence can make up for lack of talent.</font>
+target_74430=Complete one lesson.
+title_74430=Excellence in work
+CanAcceptMenu_74431=<font face="Default" color="#ffffff" >The whole nation celebrates the new version (accetpable)</font>
+CanAcceptMenu_74432=<font face="Default" color="#ffffff" >Generous gifts for the martial world</font><font face="Default" color="#ffffff" >(accetpable)</font>
+CompleteMenu_74431=<font face="Default" color="#ffffff" >The whole nation celebrates the new version (can be submitted)</font>
+CompleteMenu_74432=<font face="Default" color="#ffffff" >Generous gifts for the martial world</font><font face="Default" color="#ffffff" >(can be submitted)</font>
+accept_74431_1=<font face="Default" color="#ffffff" >During the event, you can receive a gift package from me here.</font>
+accept_74432_1=<font face="Default" color="#ffffff" >During the event, you can receive a gift package from me here.</font>
+complete_74431=<font face="Default" color="#ffffff" >Please keep it safe!</font>
+complete_74432=<font face="Default" color="#ffffff" >Please keep it safe!</font>
+context_74431=During the event, as long as the Jianghu VIPs of the Jianghu log into the game, they can find the Qianzhuang NPC: Lin Liang in the major cities to sign in. After completing the task, they can receive a gift package of "Biancheng Xia Ge" for all players.
+context_74432=During the event, Jianghu VIPs of the Jianghu can receive a "Jianghu Shangwu Gift Package" from the NPC Shangwu Ambassador (390,768) in Suzhou every day.
+menu_74431_1=<font face="Default" color="#ffffff" >Thank you!</font>
+menu_74432_1=<font face="Default" color="#ffffff" >Thank you!</font>
+submit_74431=<font face="Default" color="#ffffff" >Celebrate the new version with everyone (completed)</font>
+submit_74432=<font face="Default" color="#ffffff" >Gifts of Jianghu Shangwu (completed)</font>
+target_74431=Find Ambassador Lin Liang to receive the gift package.
+target_74432=Find the Shangwu Ambassador to receive the gift package.
+title_74431=Celebrate the new version with everyone.
+title_74432=Gifts of Jianghu Shangwu.
+CanAcceptMenu_74433=<font face="Default" color="#ffffff" >Zong leaves are fragrant and enjoyed by all (acceptable)</font>
+CompleteMenu_74433=<font face="Default" color="#ffffff" >Zong leaves are fragrant and enjoyed by all (can be submitted)</font>
+accept_74433_1=<font face="Default" color="#ffffff" >As long as the Jianghu VIPs log in during the event, they can receive a prize from me every day.</font>
+complete_74433=<font face="Default" color="#ffffff" >Good luck.</font>
+context_74433=During the event, Jianghu VIPs can go to the event ambassador Lin Liang to receive a Zong leaves fragrant gift box every day.
+menu_74433_1=<font face="Default" color="#ffffff" >Thank you.</font>
+submit_74433=<font face="Default" color="#ffffff" >I'm leaving now.</font>
+target_74433=Find Lin Liang and receive the Zong leaves fragrant gift box.
+title_74433=Zong leaves are fragrant and enjoyed by all.
+CanAcceptMenu_74434=<font face="Default" color="#ffffff" >Teacher's Kindness (can accept)</font>
+CompleteMenu_74434=<font face="Default" color="#ffffff" >The kindness of the master is as deep as the sea (can be submitted)</font>
+accept_74434_1=<font face="Default" color="#ffffff" >During the event, Jianghu VIPs in the martial arts world can send carrier pigeons here every day to deliver messages to their sect. Upon completion, they will receive an unforgettable gift from their master.</font>
+complete_74434=<font face="Default" color="#ffffff" >Good luck.</font>
+context_74434=During the event, Jianghu VIPs in the martial arts world can go to the Suzhou Xiangjun (cart driver) (645, 433) to receive the "Unforgettable Master's Favor" task. They can send a message to their sect expressing their longing for their master: "Through the ups and downs of the martial arts world, do not forget the favor of your master!" Upon completion of the task, they will receive an unforgettable gift from their master. Find Xiangjun to receive the unforgettable gift from your master.
+menu_74434_1=<font face="Default" color="#ffffff" >Thank you.</font>
+submit_74434=<font face="Default" color="#ffffff" >I'm leaving now.</font>
+target_74434=Find your fellow soldiers and receive a memorable gift from your teacher.
+title_74434=Teacher's Kindness
+CanAcceptMenu_74435=<font face="Default" color="#ffffff" >Helping the melon farmer in a righteous and brave manner (accetpable)</font>
+CompleteMenu_74435=<font face="Default" color="#ffffff" >Helping the melon farmer in a righteous and brave manner (can be submitted)</font>
+accept_74435_1=<font face="Default" color="#ffffff" >Oh, that Zhu Bapi causes trouble here every day. How can we live like this?</font>
+complete_74435=<font face="Default" color="#ffffff" >Thank you for your help, young hero. I hope you were not harmed on your journey!</font>
+context_74435=The watermelon harvest has been good this summer, but the old farmer is worried and has a troubled expression. The local bully, Zhu Bapi, comes to the melon fields every day to cause trouble and take what he wants. When we see injustice, we must stand up and fight for what is right. I ask all the heroes to help the farmer get justice.
+menu_74435_1=<font face="Default" color="#ffffff" >Don't worry, sir. I will go and teach him a lesson.</font>
+next_74435=Helping the farmer and standing up for what is right
+submit_74435=<font face="Default" color="#ffffff" >It's just a small matter</font><font face="Default" color="#ffffff" >, nothing to worry about. I'll beat him up in just a few hits.</font>
+target_74435=Drive away <a href="findnpc_new,city05,npc_hd_zlw_01" style="HLStype1">Zhu Bapi</a>, who is causing trouble in the fields.
+title_74435=Helping the farmer and standing up for what is right
+CanAcceptMenu_74436=<font face="Default" color="#ffffff" >Meeting the Weaver Girl (accetpable)</font>
+CanAcceptMenu_74437=<font face="Default" color="#ffffff" >The Seventh Sister's Birthday (accetpable)</font>
+CompleteMenu_74436=<font face="Default" color="#ffffff" >Qiao Bai and Zhinü (can be submitted)</font>
+CompleteMenu_74437=<font face="Default" color="#ffffff" >The Birth of the Seventh Sister (can be submitted)</font>
+accept_74436_1=<font face="Default" color="#ffffff" >The holiday of lovers is upon us once again. Lady Zhi is here in person to bless us all! Go now to the Temple of the Old Matchmaker to pay your respects.</font>
+accept_74437_1=<font face="Default" color="#ffffff" >The holiday of lovers is upon us once again. Seventh Sister is here on her birthday to bless us all! Go now to the Temple of the Old Matchmaker to pay your respects.</font>
+complete_74436=<font face="Default" color="#ffffff" >You are truly clever. I can see that you are married. Are you here to pray for blessings for your beloved one? Please accept this small gift and enjoy the many flavors of life with your beloved. Your beloved will surely achieve great success in the future.</font>
+complete_74437=<font face="Default" color="#ffffff" >You are still young and inexperienced. Here is a gift for you. You still need to experience the many flavors of life and live earnestly. Your beloved will naturally come into your life.
+context_74436=Qixi is a traditional Chinese holiday, on which couples eat Qiao Guo. Women worship Zhinü together, praying for their loved ones to achieve success and also for their own intelligence. Young girls unite to worship the Seven Sisters, hoping to find their ideal husband. Therefore, it is also known as the "Qiqiao Festival".
+context_74437=Qixi is a traditional Chinese holiday, on which couples eat Qiao Guo. Women worship Zhinü together, praying for their loved ones to achieve success and also for their own intelligence. Young girls unite to worship the Seven Sisters, hoping to find their ideal husband. Therefore, it is also known as the "Qiqiao Festival".
+context_74438=During the event, Jianghu VIPs can obtain a name-changing document from the Suzhou Renaming Ambassador by meeting the corresponding internal strength points under the current server's Age of Wushu Record conditions.
+menu_74436_1=<font face="Default" color="#ffffff" >Thank you. </font> </font>
+menu_74437_1=<font face="Default" color="#ffffff" >Thank you. </font> </font>
+submit_74436=<font face="Default" color="#ffffff" >Thank you for your blessing, my lady. </font>
+submit_74437=<font face="Default" color="#ffffff" >Thank you for your blessing, my lady. </font>
+target_74436=Venerate Lady Zhi to receive her blessings.
+target_74437=Go to Seventh Sister for her blessings.
+target_74438=Complete the task by finding Yi Ming the Renaming Ambassador.
+title_74436=Venerate Lady Zhi
+title_74437=Seventh Sister's Birthday
+title_74438=Name in the martial arts world: Ren Woxing
+title_74440=Lessons from a prestigious family.
+CanAcceptMenu_74439=<font face="Default" color="#ffffff" >A gift will be given for reading books (accetpable)</font>
+CompleteMenu_74439=<font face="Default" color="#ffffff" >A gift will be given for reading books (can be submitted)</font>
+accept_74439_1=<font face="Default" color="#ffffff" >During the event, Jianghu VIPs can receive a task here every day, reading books is beneficial, and reading ten thousand books is beneficial. Obtain a "Mysterious Book" as a reward.</font>
+complete_74439=<font face="Default" color="#ffffff" >Good luck.</font>
+context_74439=During the event, Jianghu VIPs can go to Yan Lun (472,433) in Suzhou to receive the task: "Reading is Beneficial, Reading Ten Thousand Books". Upon completion of the task, you can obtain a "Mysterious Book Collection".
+menu_74439_1=<font face="Default" color="#ffffff" >Thank you.</font>
+submit_74439=<font face="Default" color="#ffffff" >I'm leaving now.</font>
+target_74439=Find Yan Lun and receive the Mysterious Book Collection.
+title_74439=Reading is Beneficial, Reading Ten Thousand Books
+context_74441=Complete Sima Haohong's request, complete a team training and reach 100% fatigue.
+target_74441=Complete a team training and reach 100% fatigue.
+title_74441=Excellence in work
+CanAcceptMenu_74441=<font face="Default" color="#ffffff" >Diligence is the key to success</font><font face="Default" color="#ffffff" >(acceptable)</font>
+CompleteMenu_74441=<font face="Default" color="#ffffff" >Diligence is the key to success</font><font face="Default" color="#ffffff" >(can be submitted)</font>
+accept_74441_1=<font face="Default" color="#ffffff" >Diligence leads to success, complete a</font><font face="Default" color="#ffffff" >team training</font><font face="Default" color="#ffffff" >and come back to me.</font>
+complete_74441=<font face="Default" color="#ffffff" >Perseverance is the key to success.</font>
+menu_74441_1=<font face="Default" color="#ffffff" >All right.</font>
+submit_74441=<font face="Default" color="#ffffff" >A long journey tests a horse's strength</font>
+CanAcceptMenu_74442=<font face="Default" color="#ffffff" >Celebration of the Martial World (acceptable)</font>
+CanAcceptMenu_74443=<font face="Default" color="#ffffff" >Challenge of the Inner Demons (acceptable)</font>
+CanAcceptMenu_74444=<font face="Default" color="#ffffff" >Promoting Martial Arts and Prosperity (acceptable)</font>
+CompleteMenu_74442=<font face="Default" color="#ffffff" >Celebration of the Martial World (can be submitted)</font>
+CompleteMenu_74443=<font face="Default" color="#ffffff" >Heart demon challenge (can be submitted)</font>
+CompleteMenu_74444=<font face="Default" color="#ffffff" >Jingwu Xingbang (can be submitted)</font>
+accept_74442_1=<font face="Default" color="#ffffff" >During the event, Jianghu VIPs can come to me every day to receive the "Wulin Celebration" mission. Upon completion, they can receive the ambassador's reward.</font>
+accept_74443_1=<font face="Default" color="#ffffff" >During the event, Jianghu VIPs of the martial world can come to me every day to receive the "Heart Demon Challenge" mission. Upon completion, they can receive a reward from the ambassador.</font>
+accept_74444_1=<font face="Default" color="#ffffff" >During the event, Jianghu VIPs can come to me every day to receive the "Jingwu Xingbang" mission. Upon completion, they can receive the ambassador's reward.</font>
+complete_74442=<font face="Default" color="#ffffff" >This is your reward, please take it.</font>
+complete_74443=<font face="Default" color="#ffffff" >This is your reward, please take it.</font>
+complete_74444=<font face="Default" color="#ffffff" >This is your reward, please take it.</font>
+context_74442=During the event, Jianghu VIPs can go to the Shangwu Ambassador (390,768) in Suzhou to receive the "Wulin Celebration" mission every day. Upon completion, they can receive the ambassador's reward.
+context_74443=During the event, Jianghu VIPs can go to the Shangwu Ambassador (390,768) in Suzhou every day to accept the "Heart Demon Challenge" task. Upon completion, they can receive a reward from the ambassador.
+context_74444=During the event, Jianghu VIPs can go to the Shangwu Ambassador (390,768) in Suzhou to receive the "Jingwu Xingbang" mission every day. After completing it, they can receive the Ambassador's reward.
+menu_74442_1=<font face="Default" color="#ffffff" >All right.</font>
+menu_74443_1=<font face="Default" color="#ffffff" >All right.</font>
+menu_74444_1=<font face="Default" color="#ffffff" >All right.</font>
+submit_74442=<font face="Default" color="#ffffff" >Thank you.</font>
+submit_74443=<font face="Default" color="#ffffff" >Thank you.</font>
+submit_74444=<font face="Default" color="#ffffff" >Thank you.</font>
+target_74442=Talk to the Shangwu Ambassador and receive the Ambassador's reward.
+target_74443=After completing the Heart Demon Challenge once, players can receive a reward from the ambassador.
+target_74444=After winning 1 Jianghu Sandlei, receive the Ambassador's reward.
+title_74442=Wulin Celebration
+title_74443=Challenge the Possessed
+title_74444=Jingwu Xingbang
+title_74446=Singing while drunk
+CanAcceptMenu_74445=<font face="Default" color="#ffffff" >Celebrate the Double Ninth Festival with joy</font>
+CompleteMenu_74445=<font face="Default" color="#ffffff" >Celebrate the Double Ninth Festival with joy (can be submitted)</font>
+accept_74445_1=<font face="Default" color="#ffffff" >During the event, Jianghu VIPs can go to the Four Arts Elder (955,791) in Chengdu, talk to the Four Arts Elder and complete the "Celebrate the Double Ninth Festival with joy" to receive a gift package for the autumn celebration.</font>
+complete_74445=<font face="Default" color="#ffffff" >Good luck.</font>
+context_74445=During the event, Jianghu VIPs can go to the Four Arts Elder (Chengdu 955, 791) to receive the task: "Double Ninth Festival Autumn Fun". After completing the task, you can obtain a "Autumn Fun Gift Pack".
+menu_74445_1=<font face="Default" color="#ffffff" >Thank you.</font>
+submit_74445=<font face="Default" color="#ffffff" >I'm leaving now.</font>
+target_74445=Find the Four Arts Elder and receive the Autumn Fun Gift Pack.
+title_74445=Double Ninth Festival Autumn Fun
+title_74447=Assist the leader to enter the hidden world
+title_74448=Hidden meridians add strength
+CanAcceptMenu_74450=<font face="Default" color="#ffffff" >Challenge of the Inner Demons (acceptable)</font>
+CanAcceptMenu_74451=<font face="Default" color="#ffffff" >Promoting Martial Arts and Prosperity (acceptable)</font>
+CompleteMenu_74450=<font face="Default" color="#ffffff" >Heart demon challenge (can be submitted)</font>
+CompleteMenu_74451=<font face="Default" color="#ffffff" >Jingwu Xingbang (can be submitted)</font>
+accept_74450_1=<font face="Default" color="#ffffff" >During the event, Jianghu VIPs of the martial world can come to me every day to receive the "Heart Demon Challenge" mission. Upon completion, they can receive a reward from the ambassador.</font>
+accept_74451_1=<font face="Default" color="#ffffff" >During the event, Jianghu VIPs can come to me every day to receive the "Jingwu Xingbang" mission. Upon completion, they can receive the ambassador's reward.</font>
+complete_74450=<font face="Default" color="#ffffff" >This is your reward, please take it.</font>
+complete_74451=<font face="Default" color="#ffffff" >This is your reward, please take it.</font>
+context_74450=During the event, Jianghu VIPs can go to the Shangwu Ambassador (390,768) in Suzhou every day to accept the "Heart Demon Challenge" task. Upon completion, they can receive a reward from the ambassador.
+context_74451=During the event, Jianghu VIPs can go to the Shangwu Ambassador (390,768) in Suzhou to receive the "Jingwu Xingbang" mission every day. After completing it, they can receive the Ambassador's reward.
+menu_74450_1=<font face="Default" color="#ffffff" >All right.</font>
+menu_74451_1=<font face="Default" color="#ffffff" >All right.</font>
+next_74450=<a href="findnpc_new,city02,hd_wyhd_001" style="HLStype1">Shang Wu (Event Ambassador)</a>
+next_74451=<a href="findnpc_new,city02,hd_wyhd_001" style="HLStype1">Shang Wu (Event Ambassador)</a>
+submit_74450=<font face="Default" color="#ffffff" >Thank you.</font>
+submit_74451=<font face="Default" color="#ffffff" >Thank you.</font>
+target_74450=After completing the Heart Demon Challenge once, players can receive a reward from the ambassador.
+target_74451=After winning 1 Jianghu Sandlei, receive the Ambassador's reward.
+title_74450=Challenge the Possessed
+title_74451=Jingwu Xingbang
+CanAcceptMenu_74452=<font face="Default" color="#ffffff" >Power Challenge</font><font face="Default" color="#ffffff" > (acceptable)</font>
+CanAcceptMenu_74453=<font face="Default" color="#ffffff" >Jianghu Power invites fellow martial artists (acceptable)</font>
+CompleteMenu_74452=<font face="Default" color="#ffffff" >Power Challenge (</font><font face="Default" color="#ffffff" >can be submitted</font><font face="Default" color="#ffffff" >)</font>
+CompleteMenu_74453=<font face="Default" color="#ffffff" >Jianghu Power invites fellow martial artists</font><font face="Default" color="#ffffff" > (can be submitted)</font>
+accept_74452_1=<font face="Default" color="#ffffff" >During the event, Jianghu VIPs can come to me every day to receive the "Faction Challenge" mission, and upon completion, can receive the Ambassador's reward.</font>
+accept_74453_1=<font face="Default" color="#ffffff" >Invite heroes from all over the world and use the Adventure Card on other players.</font>
+complete_74452=<font face="Default" color="#ffffff" >This is your reward, please take it.</font>
+complete_74453=<font face="Default" color="#ffffff" >Make friends with people from all over the world.</font>
+context_74452=Every day, Jianghu VIPs can go to Chengdu to receive the "Faction Challenge" mission from <a href="findnpc_new,city05,npc_lotto_guj_01" style="HLStype1">Sima Haohong (Active Ambassador)</a>.
+context_74453=Exchange 10 Experience Scrolls for Adventure Cards at the Martial Arts Hall and throw 5 Adventure Cards at other players.
+menu_74452_1=<font face="Default" color="#ffffff" >All right.</font>
+menu_74453_1=<font face="Default" color="#ffffff" >All right.</font>
+submit_74452=<font face="Default" color="#ffffff" >Thank you.</font>
+submit_74453=<font face="Default" color="#ffffff" >Friends come from afar.</font>
+target_74452=Complete any Faction Challenge.
+target_74453=Throw 5 Adventure Cards at other players.
+title_74452=Influence Challenge
+title_74453=Invite heroes from all over the world to join the faction.
+CanAcceptMenu_74422=<font face="Default" color="#ffffff" >Myriad of Lights Welcoming The Newcomers</font><font face="Default" color="#ffffff" > (Can accept)</font>
+CompleteMenu_74422=<font face="Default" color="#ffffff" >Myriad of Lights Welcoming The Newcomers (Can submit)</font>
+next_74422=Myriad of Lights Welcoming The Newcomers
+title_74422=Myriad of Lights Welcoming The Newcomers
 

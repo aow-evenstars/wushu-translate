@@ -58,8 +58,6 @@ target_60009=Honor Qu Yuan during the Dragon Boat Festival.
 target_60010=Honor Qu Yuan during the Dragon Boat Festival.
 target_60011=Honor Qu Yuan during the Dragon Boat Festival.
 target_60012=Honor Qu Yuan during the Dragon Boat Festival.
-title_60001=Dragon Boat Festival (Martial Intuition)
-title_60002=Dragon Boat Festival (Martial Intuition)
 title_60003=Dragon Boat Festival (Expert of Self)
 title_60004=Dragon Boat Festival (Expert of Self)
 title_60005=Dragon Boat Festival (Enlightened Virtuoso)
@@ -70,7 +68,6 @@ title_60009=Dragon Boat Festival (Eternally Unequalled)
 title_60010=Dragon Boat Festival (Eternally Unequalled)
 title_60011=Dragon Boat Festival (Harmony of Heaven and Earth)
 title_60012=Dragon Boat Festival (Harmony of Heaven and Earth)
-CanAcceptMenu_60001=<font face="Default" color="#ffffff" >Dragon Boat Festival (Martial Intuition) </font>
 CanAcceptMenu_70013=<font face="Default" color="#ffffff" >I'd like to join the raid for materials.</font>
 CanAcceptMenu_70024=<font face="Default" color="#ffffff" >I'm here for the Trial of Fate.</font>
 CanAcceptMenu_70025=<font face="Default" color="#ffffff" >I wish to venerate Lady Zhi.</font>
@@ -968,7 +965,6 @@ title_70125=Diligent Practice: Dragon Battle
 context_70127=During the event, VIP players who have reached Untapped Potential can claim a Student Gift Pack at Yan Lun the Suzhou Study Master (471, 434)
 target_70127=Claim a Student Gift Pack at Yan Lun (471 434) the Suzhou Study Master.
 title_70127=Enter school and claim rewards.
-context_70128=During the event, VIP players who have reached Untapped Potential can claim one Double Festival Pack at Lin Liang. It contains: Steamed Bread x50, Horse Whistle (Red Lightning) (7 days) x1, Omnipotent Voucher x5, Costumes Embroidered Box (7 days) x1, Reset Ticket x10, Inventory Embroidered Box (7 Days) x2, 500 liang of silver coins, Hidden Head Exposed Tails x3, Martial Arts Celebration Gift Card x3, Nine Turnings Hell Contacting Pill x5, Double Festival Token x1 (can be traded at Lin Liang for exquisite gifts).
 context_70129=During the event, Jianghu VIP players can claim Colorful Holiday Quest at Lin Liang the Event Ambassador. Complete it to get Double Festival Return Token x1, which can be exchanged for exquisite gifts.
 target_70128=Go to Festival Events Ambassador Lin Liang in any of the main city to receive Double Festival gifts.
 target_70129=Submit completed holiday tasks and get rewards by visiting the Holiday Event Ambassador Lin Liang.
@@ -1443,10 +1439,6 @@ menu_70260_1=<font face="Default" color="#ffffff" >Say no more, I will deal with
 submit_70260=<font face="Default" color="#ffffff" >Punishing watermelon thieves and helping the elderly (Completed)</font>
 target_70260=Go to Chengdu and help Panicked Farmer to punish the watermelon thieves
 title_70260=Punishing watermelon thieves and helping the elderly
-context_70808=The internal strife and the Japanese invasion made the foreign camp believe that it was the right time for them to conquest the Central Plains Camp. So they occupied Ruined Valley and have been waiting for an opportunity to defeat all other schools. Lin Tiannan opened a path to the Ruined Valley and invited all Wulin heroes of the Central Plains to rally at the Ruined Valley. The battle is about to take place.
-complete_70060=<font face="Default" color="#ffffff" > I got something that increases Reputation. It will help spread your fame and power in Jianghu</font>. <br><font face="Default" color="#FF9900" >The force disciples and Hermits will receive Reputation of their school. Ten Schools disciples and Vagrants will get Jianghu Reputation. </font>
-context_70060=The force disciples and Hermits can receive Reputation of their school here. Ten Schools disciples and Vagrants can get Jianghu Reputation here.
-target_70060=The force disciples and Hermits can receive Reputation of their school here. Ten Schools disciples and Vagrants can get Jianghu Reputation here.
 context_70410=Restaurant manager says there is a Foreign Wulin person outside Chengdu. He carries a treasure map. Defeat him to loot the treasure map.<font face="Default" color="#FF0000" >（Teleport to Chengdu at Teleport Points, Official Posthouses, Faction teleports, or The Four Families）</font>
 context_70411=Restaurant manager says there is a Foreign Wulin person outside Suzhou. He carries a treasure map. Defeat him to loot the treasure map.<font face="Default" color="#FF0000" >（Teleport to Suzhou at Teleport Points, Official Posthouses, Faction teleports, The Four Families or Jianghu Forbidden Instances）</font>
 context_70412=Restaurant manager says there is a Foreign Wulin person outside Jinling. He carries a treasure map. Defeat him to loot the treasure map.<font face="Default" color="#FF0000" >（Teleport to Jinling at Teleport Points, or Official Posthouses）</font>
@@ -1629,7 +1621,6 @@ next_70904=Kill the target
 next_70916=Kill all the targets at the given place. (Acquire more information from the Informant if necessary)
 context_70203=Know your enemy, and you will win battle after battle. Defeat enemy Guild players 3 times to suppress their development.
 target_70203=Defeat enemy Guild players 3 times
-context_70083=Trouble Rising Again quest are added to increase your might. After completing the corresponding quest you will get Trouble Rising Again Certificate. You can exchange for rewards such as school Meridian Gift Pack (Level 1-180), Reversal Meridian Gift Pack (level 1-180), Item Support Pack, 10000000 Cultivation Perfusion Pack and so on with the certificate at Suzhou (472, 314) Fan Hongju.
 context_70123=During the event, Jianghu VIP can every day go to Suzhou (423.794) or Chengdu (923.551) Ning Jiuhui (Dining Man) to receive Diligent Practice activity tasks (Faction, Possessed etc.) and get rewards.
 context_70124=During the event, Jianghu VIP can every day go to Suzhou (423.794) or Chengdu (923.551) Ning Jiuhui (Dining Man) to receive Diligent Practice activity tasks (Enter the Dragon) and get rewards. (Can select only one task out of the three)
 context_70125=During the event, Jianghu VIP can every day go to Suzhou (423.794) or Chengdu (923.551) Ning Jiuhui (Dining Man) to receive Diligent Practice activity tasks (Enter the Dragon) and get rewards. (Can select only one task out of the three)
@@ -1642,4 +1633,22 @@ context_70098=During the event period, Jianghu VIP players can take Group Martia
 target_70098=Participate and complete Group Martial Arts Competition 1 time
 title_70098=Group Martial Arts Competition
 CanAcceptMenu_70098=<font face="Default" color="#ffffff" >Group Martial Arts Competition (Can accept)</font>
+title_70598=Martial Arts Tournament
+context_70598=During the event, Jianghu VIPs can go to the Suzhou NPC Shangwu Ambassador (390,768) and exchange 5 Five Elements Demon-Suppressing Items for "Wulin Tie" *1.
+target_70598=Use 5 Wulin Ties.
+CanAcceptMenu_70598=<font face="Default" color="#ffffff" >Martial Arts Tournament (acceptable)</font>
+CompleteMenu_70598=<font face="Default" color="#ffffff" >Martial Arts Tournament (can be submitted)</font>
+accept_70598_1=<font face="Default" color="#ffffff" >During the event, Jianghu VIPs can use 5 Five Elements Demon-Suppressing Items to exchange for Martial Arts Posters with me. These posters can be used on other players.</font>
+complete_70598=<font face="Default" color="#ffffff" >This is your reward</font>
+menu_70598_1=<font face="Default" color="#ffffff" >What do I need to do?</font>
+submit_70598=<font face="Default" color="#ffffff" >Thank you.</font>
+title_60001=Dragon Boat Festival (Martial Intuition)
+title_60002=Dragon Boat Festival (Martial Intuition)
+CanAcceptMenu_60001=<font face="Default" color="#ffffff" >Dragon Boat Festival (Martial Intuition) </font>
+context_70808=The internal strife and the Japanese invasion made the foreign camp believe that it was the right time for them to conquest the Central Plains Camp. So they occupied Ruined Valley and have been waiting for an opportunity to defeat all other schools. Lin Tiannan opened a path to the Ruined Valley and invited all Wulin heroes of the Central Plains to rally at the Ruined Valley. The battle is about to take place.
+complete_70060=<font face="Default" color="#ffffff" > I got something that increases Reputation. It will help spread your fame and power in Jianghu</font>. <br><font face="Default" color="#FF9900" >The force disciples and Hermits will receive Reputation of their school. Ten Schools disciples and Vagrants will get Jianghu Reputation. </font>
+context_70060=The force disciples and Hermits can receive Reputation of their school here. Ten Schools disciples and Vagrants can get Jianghu Reputation here.
+target_70060=The force disciples and Hermits can receive Reputation of their school here. Ten Schools disciples and Vagrants can get Jianghu Reputation here.
+context_70083=Trouble Rising Again quest are added to increase your might. After completing the corresponding quest you will get Trouble Rising Again Certificate. You can exchange for rewards such as school Meridian Gift Pack (Level 1-180), Reversal Meridian Gift Pack (level 1-180), Item Support Pack, 10000000 Cultivation Perfusion Pack and so on with the certificate at Suzhou (472, 314) Fan Hongju.
+context_70128=During the event, VIP players who have reached Untapped Potential can claim one Double Festival Pack at Lin Liang. It contains: Steamed Bread x50, Horse Whistle (Red Lightning) (7 days) x1, Omnipotent Voucher x5, Costumes Embroidered Box (7 days) x1, Reset Ticket x10, Inventory Embroidered Box (7 Days) x2, 500 liang of silver coins, Hidden Head Exposed Tails x3, Martial Arts Celebration Gift Card x3, Nine Turnings Hell Contacting Pill x5, Double Festival Token x1 (can be traded at Lin Liang for exquisite gifts).
 

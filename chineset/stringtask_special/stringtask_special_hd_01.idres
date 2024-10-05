@@ -345,12 +345,8 @@ SubmitNpcEx_43794=前往活動大使林梁處提交任務
 SubmitNpcEx_43791=找神秘裁縫處易容大師的大徒弟提交任務
 SubmitNpcEx_43792=找神秘裁縫處易容大師的大徒弟提交任務
 SubmitNpcEx_43799=任務可在各大城市的節日活動大使處提交
-SubmitNpcEx_43797=找四藝老人提交任務
-SubmitNpcEx_43798=找四藝老人提交任務
-interactinfo_5799=找到附近的藥草商人，討要茱萸
 DialogID_5797=<font face="Default" color="#ffffff" >少俠您謙虛了，這拜帖我就收下了，以後年年在這秋高氣爽時，來我這喝杯菊花酒吧。</font>
 SubmitNpcEx_43795=找四藝老人提交任務
-SubmitNpcEx_43796=找四藝老人提交任務
 DialogID_5799=<font face="Default" color="#ffffff" >小伙子看你這麼熱心，這些茱萸就送你吧。</font>
 interactinfo_5797=拜訪四藝老人，把重陽拜帖交給四藝老人
 interactinfo_5798=與<a href="findnpc_new,,hd_gq2014_001" style="HLStype1">四藝老人</a>交談NpcId=四藝老人GetItems=item_gq2014_003-1
@@ -364,15 +360,6 @@ quest_menu_5793=<font face="Default" color="#ffffff" >您儘管問吧</font>
 quest_menu_5794=<font face="Default" color="#ffffff" >您儘管問吧</font>
 quest_menu_5795=<font face="Default" color="#ffffff" >您儘管問吧</font>
 quest_menu_5796=<font face="Default" color="#ffffff" >您儘管問吧</font>
-questioninfo_5788=回答四藝老人的問題
-questioninfo_5789=回答四藝老人的問題
-questioninfo_5790=回答四藝老人的問題
-questioninfo_5792=回答四藝老人的問題
-questioninfo_5793=回答四藝老人的問題
-questioninfo_5794=回答四藝老人的問題
-questioninfo_5795=回答四藝老人的問題
-questioninfo_5796=回答四藝老人的問題
-collectinfo_5775=採集菊花
 maintext_6800=晉代的王羲之被稱為什麼？
 maintext_6801=有草聖只稱的唐代書法家是誰？
 maintext_6802=歐陽詢是唐代人，受晉代王羲之的影響，他吸收了北朝碑刻和其他唐代書法家的長處，形成了"險勁"而怎樣的書法風格？
@@ -737,4 +724,17 @@ hunterinfo_5774=前去將鬧事的野獸<a href="findnpc_new,city05,bossmpdn003"
 hunterinfo_5775=前去將鬧事的野獸<a href="findnpc_new,city05,bossmpdn004" style="HLStype1">年獸</a>攻克
 hunterinfo_5776=前去將鬧事的野獸<a href="findnpc_new,city05,bossmpdn005" style="HLStype1">年獸</a>攻克
 hunterinfo_5764=攻克<font color="#ff0000">小年獸</font>
+SubmitNpcEx_43796=找<a href="findnpc_new,city05,hd_gq2014_001" style="HLStype1">四藝老人</a>提交任務
+SubmitNpcEx_43797=找<a href="findnpc_new,city05,hd_gq2014_001" style="HLStype1">四藝老人</a>提交任務
+SubmitNpcEx_43798=找<a href="findnpc_new,city05,hd_gq2014_001" style="HLStype1">四藝老人</a>提交任務
+collectinfo_5775=採集<a href="findnpc_new,city05,gather_gq2014_001" style="HLStype1">菊花</a>
+interactinfo_5799=找到附近的<a href="findnpc_new,city05,hd_gq2014_003" style="HLStype1">藥草商人</a>，討要茱萸
+questioninfo_5788=回答<a href="findnpc_new,city05,hd_gq2014_001" style="HLStype1">四藝老人</a>的問題
+questioninfo_5789=回答<a href="findnpc_new,city05,hd_gq2014_001" style="HLStype1">四藝老人</a>的問題
+questioninfo_5790=回答<a href="findnpc_new,city05,hd_gq2014_001" style="HLStype1">四藝老人</a>的問題
+questioninfo_5792=回答<a href="findnpc_new,city05,hd_gq2014_001" style="HLStype1">四藝老人</a>的問題
+questioninfo_5793=回答<a href="findnpc_new,city05,hd_gq2014_001" style="HLStype1">四藝老人</a>的問題
+questioninfo_5794=回答<a href="findnpc_new,city05,hd_gq2014_001" style="HLStype1">四藝老人</a>的問題
+questioninfo_5795=回答<a href="findnpc_new,city05,hd_gq2014_001" style="HLStype1">四藝老人</a>的問題
+questioninfo_5796=回答<a href="findnpc_new,city05,hd_gq2014_001" style="HLStype1">四藝老人</a>的問題
 

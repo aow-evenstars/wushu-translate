@@ -909,10 +909,6 @@ DialogID_439=<font face="Default" color="#ffffff" >Excellent. Let us see what el
 DialogID_440=<font face="Default" color="#ffffff" >Not bad. Let us see what else you can do.</font>
 DialogID_441=<font face="Default" color="#ffffff" >Not bad. Let us see what else you can do.</font>
 DialogID_442=<font face="Default" color="#ffffff" >Not bad. Let us see what else you can do.</font>
-DialogID_447=<font face="Default" color="#ffffff" >Have you found any evidence on the kidnappers?</font>
-DialogID_448=<font face="Default" color="#ffffff" >Have you found any evidence on the kidnappers?</font>
-DialogID_449=<font face="Default" color="#ffffff" >Have you found any evidence on the kidnappers?</font>
-DialogID_450=<font face="Default" color="#ffffff" >Have you found any evidence on the kidnappers?</font>
 DialogID_546=<font face="Default" color="#ffffff" >If you encounter a notorious criminal, see a Constable to issue a Bounty. That will put everyone on the look-out for them. If you feel the need to get involved, speak with Xu Ke about becoming a Constable. Expect to be tested though.</font>
 DialogID_547=<font face="Default" color="#ffffff" >Pay me 5 liang and I will register you as a local constable. When you catch criminals, the station will pay you by carrier pigeon.</font>
 DialogID_548=<font face="Default" color="#ffffff" >If you encounter a notorious criminal (player), go to a Private Adviser and issue a Wanted Order. They'll then be hunted down and arrested.</font>
@@ -927,10 +923,6 @@ QiecuoMenu_158=<font face="Default" color="#ffffff" >Show me what you know.</fon
 QiecuoMenu_159=<font face="Default" color="#ffffff" >Show me what you know.</font>
 QiecuoMenu_160=<font face="Default" color="#ffffff" >I am ready to be tested.</font>
 QiecuoMenu_161=<font face="Default" color="#ffffff" >I am ready to be tested.</font>
-QiecuoMenu_162=<font face="Default" color="#ffffff" >Put your captive down and surrender!</font>
-QiecuoMenu_163=<font face="Default" color="#ffffff" >Put your captive down and surrender!</font>
-QiecuoMenu_164=<font face="Default" color="#ffffff" >Put your captive down and surrender!</font>
-QiecuoMenu_301=<font face="Default" color="#ffffff" >Put your captive down and surrender! Now!</font>
 QiecuoMenu_517=<font face="Default" color="#ffffff" >I will give you my best!</font>
 QiecuoTitle_162=<font face="Default" color="#ffffff" >You've made a big mistake kid. Any last words?</font>
 QiecuoTitle_163=<font face="Default" color="#ffffff" >You've made a big mistake kid. Any last words?</font>
@@ -945,7 +937,6 @@ SubmitNpcEx_1190=Exterminate the pirates threatening the Evil Tiger Mountain
 SubmitNpcEx_1191=The Pirate Chief is making a beach landing. Kill him!
 SubmitNpcEx_1193=Collect 5 bottles of yellow wine, 5 sheets of linen, 5 pieces of white poplar wood, 5 mint and 5 gaultheria for the Doctor.
 SubmitNpcEx_1435=Complete Task
-SubmitNpcEx_1480=Talk to   <a href="findnpc_new,city01,WorldNpc08410" style="HLStype1">Er Qiang</a>
 SubmitNpcEx_1570=<a href="findnpc_new,city01,hbyd001" style="HLStype1">Xu Ke</a> can tell you about Wanted Orders
 SubmitNpcEx_1571=<a href="findnpc_new,city02,hbyd002" style="HLStype1">Li Long</a> can tell you about bounty notices.
 SubmitNpcEx_1572=<a href="findnpc_new,city03,hbyd003" style="HLStype1">Shen Yabin</a> can tell you about Wanted Orders
@@ -959,10 +950,6 @@ ZZAnswerText3_5400=<font face="Default" color="#ffffff" >A Devotion to Justice</
 ZZAnswerText3_5401=<font face="Default" color="#ffffff" >A devotion to justice.</font>
 ZZAnswerText4_5400=<font face="Default" color="#ffffff" >Flattering the Magistrate</font>
 ZZAnswerText4_5401=<font face="Default" color="#ffffff" >Give the gift to the Magistrate</font>
-collectinfo_221=Get the kidnapper list from the <a href="findnpc_new,city01,bjyd013" style="HLStype1">secret treasure box</a>
-collectinfo_222=Go to the Kidnapper's Den and get the Kidnapper List from the <a href="findnpc_new,city02,bjyd013" style="HLStype1">Secret Treasure Box</a>
-collectinfo_223=Go to the Kidnapper's Den and get the Kidnapper List from the <a href="findnpc_new,city04,bjyd013" style="HLStype1">Secret Treasure Box</a>
-collectinfo_224=Get the kidnapper list from the <a href="findnpc_new,city05,bjyd013" style="HLStype1">secret treasure box</a>
 falsetalk_5400=That's not correct. Try again.
 falsetalk_5401=<font face="Default" color="#ffffff" >That answer is not correct. Try again!</font>
 hunterinfo_142=Kill the defiant Pirates who provoked the Salt Gang.
@@ -974,10 +961,6 @@ hunterinfo_158=Defeat <a href="findnpc_new,city02,hbyd002" style="HLStype1">Li L
 hunterinfo_159=Defeat <a href="findnpc_new,city03,hbyd003" style="HLStype1">Shen Yabin</a>
 hunterinfo_160=Defeat <a href="findnpc_new,city04,hbyd004" style="HLStype1">Ma Qisong</a>
 hunterinfo_161=Defeat <a href="findnpc_new,city05,hbyd005" style="HLStype1">Shan Yue</a>
-hunterinfo_162=Find and defeat the <a href="findnpc_new,city02,bjyd001" style="HLStype1">Kidnapper</a> to rescue the hostage
-hunterinfo_163=Find and defeat the <a href="findnpc_new,city04,bjyd001" style="HLStype1">Kidnapper</a> to rescue the hostage
-hunterinfo_164=Find and defeat the <a href="findnpc_new,city05,bjyd001" style="HLStype1">Kidnapper</a> to rescue the hostage
-hunterinfo_301=Find and defeat the<a href="findnpc_new,city01,bjyd001" style="HLStype1">Kidnapper</a> to rescue the hostage
 hunterinfo_303=<a href="findnpc_new,school08,Qiecuo008" style="HLStype1">Qing Xu</a> is acting strange. Find out why.
 hunterinfo_306=A <a href="findnpc_new,school07,WorldNpc04687" style="HLStype1">Yuzhen disciple</a> is acting strange. Find out why.
 hunterinfo_309=A <a href="findnpc_new,school06,em536" style="HLStype1">Flower Fist Apprentice</a> is acting strange. Find out why.
@@ -996,21 +979,6 @@ interact1594=Go to a <a href="findnpc_new,school04,YdNpc_school6" style="HLStype
 interact1595=Go to a <a href="findnpc_new,school03,YdNpc_school7" style="HLStype1">sacred place</a> and cultivate your skills.
 interact1596=Go to a <a href="findnpc_new,school05,YdNpc_school8" style="HLStype1">sacred place</a> and cultivate your skills.
 specialinfo_2050=Press "B" to open your backpack and right-click on <a href="TASK_ITEM,book_qinggong_4" style="HLStype1">Skyward Feint Step</a>. Once you learn this skill, you can double jump by pressing the jump button twice.
-interactinfo_421=Rescue the Missing Girl from the <a href="findnpc_new,city01,bjyd011" style="HLStype1">Kidnapper's Sack</a>
-interactinfo_422=Rescue the missing girl from the <a href="findnpc_new,city02,bjyd011" style="HLStype1">kidnapper's sack</a>
-interactinfo_423=Rescue the missing girl from the <a href="findnpc_new,city04,bjyd011" style="HLStype1">kidnapper's sack</a>
-interactinfo_424=Rescue the Missing Girl from the <a href="findnpc_new,city05,bjyd011" style="HLStype1">Kidnapper's Sack</a>
-interactinfo_435=Pick up the <a href="findnpc_new,city01,bjyd012" style="HLStype1">sack.</a>
-interactinfo_436=Pick up the <a href="findnpc_new,city02,bjyd012" style="HLStype1">sack.</a>
-interactinfo_437=Pick up the <a href="findnpc_new,city04,bjyd012" style="HLStype1">sack.</a>
-interactinfo_438=Pick up the <a href="findnpc_new,city05,bjyd012" style="HLStype1">sack.</a>
-interactinfo_439=Sell your <a href="findnpc_new,city01,FuncNpc00104" style="HLStype1">Captive</a>, and join the Kidnapping Gang
-interactinfo_440=Sell <a href="findnpc_new,city02,WorldNpc10316" style="HLStype1">senior housekeeper</a> and join the kidnapping gang
-interactinfo_441=Sell <a href="findnpc_new,city04,FuncNpc00604" style="HLStype1">Zhou Shengsheng</a> and join the kidnapping gang
-interactinfo_442=Sell your captive, <a href="findnpc_new,city05,WorldNpc08410" style="HLStype1">Er Qiang</a>, and join the Kidnapping Organization
-interactinfo_447=Give the evidence to <a href="findnpc_new,city01,WorldNpc08965" style="HLStype1">Zhan Gangxiong</a>
-interactinfo_448=Give the evidence to <a href="findnpc_new,city02,WorldNpc01246" style="HLStype1">Fan Hongju</a>
-interactinfo_449=Give the evidence to <a href="findnpc_new,city04,ly735" style="HLStype1">Jin Renlu</a>
 interactinfo_547=Speak with the Country Magistrate <a href="findnpc_new,city01,WorldNpc08326" style="HLStype1">Xu Qingdong</a>
 interactinfo_550=Speak with <a href="findnpc_new,city03,jl607" style="HLStype1">Xu Dong</a>
 interactinfo_555=Collect 5 bottles of yellow wine, 5 sheets of linen, 5 pieces of white poplar wood, 5 mint and 5 gaultheria for the Doctor.
@@ -1024,14 +992,6 @@ okmenu_314=<font face="Default" color="#ffffff" >I will look into it.</font>
 okmenu_317=<font face="Default" color="#ffffff" >I'll look into it.</font>
 okmenu_320=<font face="Default" color="#ffffff" >Ok, I am on it.</font>
 okmenu_323=<font face="Default" color="#ffffff" >I'll look into it.</font>
-okmenu_439=<font face="Default" color="#ffffff" >I want to join the kidnapping gang.</font>
-okmenu_440=<font face="Default" color="#ffffff" >I want to join the kidnapping gang.</font>
-okmenu_441=<font face="Default" color="#ffffff" >I want to join the kidnapping gang.</font>
-okmenu_442=<font face="Default" color="#ffffff" >I want to join the kidnapping gang.</font>
-okmenu_447=<font face="Default" color="#ffffff" >We have our evidence. The kidnappers will die today.</font>
-okmenu_448=<font face="Default" color="#ffffff" >We have our evidence. The kidnappers will die today.</font>
-okmenu_449=<font face="Default" color="#ffffff" >We have our evidence. The kidnappers will die today.</font>
-okmenu_450=<font face="Default" color="#ffffff" >We have our evidence. The kidnappers will die today.</font>
 okmenu_546=<font face="Default" color="#ffffff" >Thank you. I'll speak with Xu Ke.</font>
 okmenu_547=<font face="Default" color="#ffffff" >Thank you.</font>
 okmenu_548=<font face="Default" color="#ffffff" >Thank you. Now, I'll talk to a Senior Constable about hunting fugitives.</font>
@@ -1061,29 +1021,21 @@ specialinfo_2039=Press "K" to open the <font color="#ee7621">Martial Art Skill B
 specialinfo_2040=Press "K" to open the <font color="#ee7621">Martial Art Skill Book</font>. Select an internal skill or movement, then <font color="##ee7621">start cultivating</font> and select <font color="##ee7621">team practice</font>. Complete the team practice.
 specialinfo_2041=Press "K" to open the <font color="#ee7621">Martial Art Skill Book</font>. Select an internal skill or movement, then <font color="##ee7621">start cultivating</font> and select <font color="##ee7621">team practice</font>. Complete the team practice.
 story_151_1=<font face="Default" color="#ffffff" >Did you find anything?</font>
-story_151_2=<font face="Default" color="#ffffff" >We must stop this kidnapping gang!</font>
 story_152_1=<font face="Default" color="#ffffff" >Did you find anything?</font>
-story_152_2=<font face="Default" color="#ffffff" >We must stop this kidnapping gang!</font>
 story_153_1=<font face="Default" color="#ffffff" >Did you find anything?</font>
-story_153_2=<font face="Default" color="#ffffff" >We must stop this kidnapping gang!</font>
 story_154_1=<font face="Default" color="#ffffff" >Did you find anything?</font>
-story_154_2=<font face="Default" color="#ffffff" >We must stop this kidnapping gang!</font>
 story_155_1=<font face="Default" color="#ffffff" >Not much yet. My informants are still gathering information. Can you check in with them?</font>
 story_156_1=<font face="Default" color="#ffffff" >Not much yet. My informants are still gathering information. Can you check in with them?</font>
 story_157_1=<font face="Default" color="#ffffff" >Not much yet. My informants are still gathering information. Can you check in with them?</font>
 story_158_1=<font face="Default" color="#ffffff" >Not much yet. My informants are still gathering information. Can you check in with them?</font>
 story_159_1=<font face="Default" color="#ffffff" >Why are you here?</font>
 story_159_2=<font face="Default" color="#ffffff" >Listen carefully: this gang is not stupid. You'll have to work hard to get the evidence you're after.</font>
-story_159_3=<font face="Default" color="#ffffff" >Once you actually kidnap someone, I'll introduce you to the gang. Then, you can find the evidence you need.</font>
 story_160_1=<font face="Default" color="#ffffff" >Why are you here?</font>
 story_160_2=<font face="Default" color="#ffffff" >Listen carefully: this gang is not stupid. You'll have to work hard to get the evidence you're after.</font>
-story_160_3=<font face="Default" color="#ffffff" >Once you kidnap someone, I'll introduce you to the gang. Then, you can find the evidence.</font>
 story_161_1=<font face="Default" color="#ffffff" >Why are you here?</font>
 story_161_2=<font face="Default" color="#ffffff" >Listen carefully: this gang is not stupid. You'll have to work hard to get the evidence you're after.</font>
-story_161_3=<font face="Default" color="#ffffff" >Once you kidnap someone, I'll introduce you to the gang. Then, you can find the evidence.</font>
 story_162_1=<font face="Default" color="#ffffff" >Why are you here?</font>
 story_162_2=<font face="Default" color="#ffffff" >Listen carefully: this gang is not stupid. You'll have to work hard to get the evidence you're after.</font>
-story_162_3=<font face="Default" color="#ffffff" >Once you kidnap someone, I'll introduce you to the gang. Then, you can find the evidence.</font>
 story_164_1=<font face="Default" color="#ffffff" >What did he say?</font>
 story_164_2=<font face="Default" color="#ffffff" >Do you need any help?</font>
 story_228_1=<font face="Default" color="#ffffff" >Use your unique skills to steal information from Intelligence Disciples. If you get caught spying, you will be killed.</font>
@@ -1218,10 +1170,6 @@ story_menu_151=<font face="Default" color="#ffffff" >I have returned.</font>
 story_menu_152=<font face="Default" color="#ffffff" >I have returned.</font>
 story_menu_153=<font face="Default" color="#ffffff" >I have returned.</font>
 story_menu_154=<font face="Default" color="#ffffff" >I have returned.</font>
-story_menu_155=<font face="Default" color="#ffffff" >Officer, what do you know about the kidnapping gang?</font>
-story_menu_156=<font face="Default" color="#ffffff" >Officer, what do you know about the kidnapping gang?</font>
-story_menu_157=<font face="Default" color="#ffffff" >Officer, what do you know about the kidnapping gang?</font>
-story_menu_158=<font face="Default" color="#ffffff" >Officer, what do you know about the kidnapping gang?</font>
 story_menu_159=<font face="Default" color="#ffffff" >The constable sent me to find you.</font>
 story_menu_160=<font face="Default" color="#ffffff" >The constable sent me to find you.</font>
 story_menu_161=<font face="Default" color="#ffffff" >The constable sent me to find you.</font>
@@ -1282,18 +1230,10 @@ story_menu_456=<font face="Default" color="#ffffff" >I want to learn how to stea
 story_menu_457=<font face="Default" color="#ffffff" >I want to learn more about Scripts stealing.</font>
 story_menu_458=<font face="Default" color="#ffffff" >I want to learn how to steal scripts.</font>
 story_menu_481=<font face="Default" color="#ffffff" >Do you want to learn how to steal Scripts?</font>
-storyinfo_151=Report to <a href="findnpc_new,city01,hbyd001" style="HLStype1">Xu Ke</a>
-storyinfo_152=Report to <a href="findnpc_new,city02,hbyd002" style="HLStype1">Li Long</a>
-storyinfo_153=Report to <a href="findnpc_new,city04,hbyd004" style="HLStype1">Ma Qisong</a>
-storyinfo_154=Report to <a href="findnpc_new,city05,hbyd005" style="HLStype1">Shan Yue</a>
 storyinfo_155=Report to <a href="findnpc_new,city01,hbyd001" style="HLStype1">Xu Ke</a>
 storyinfo_156=Report to <a href="findnpc_new,city02,hbyd002" style="HLStype1">Li Long</a>
 storyinfo_157=Report to <a href="findnpc_new,city04,hbyd004" style="HLStype1">Ma Qisong</a>
 storyinfo_158=Report to <a href="findnpc_new,city05,hbyd005" style="HLStype1">Shan Yue</a>
-storyinfo_159=Talk to <a href="findnpc_new,city01,WorldNpc08410" style="HLStype1">Er Qiang</a> about the kidnapping gang
-storyinfo_160=Talk to <a href="findnpc_new,city02,FuncNpc00104" style="HLStype1">Du Boniang</a> about the kidnapping gang
-storyinfo_161=Talk to the <a href="findnpc_new,city04,WorldNpc10316" style="HLStype1">Senior Housekeeper</a> about the kidnapping gang.
-storyinfo_162=Ask <a href="findnpc_new,city05,FuncNpc00604" style="HLStype1">Zhou Shengsheng</a> about the kidnapping gang
 storyinfo_229=Talk to <a href="findnpc_new,school07,WorldNpc04404" style="HLStype1">Yu Xuanzi</a>.
 storyinfo_230=Talk with <a href="findnpc_new,school07,WorldNpc04403" style="HLStype1">Taoist Chongxu</a>
 storyinfo_301=Find <a href="findnpc_new,school08,WorldNpc00207" style="HLStype1">Qingwen</a> for news about your school.
@@ -1347,28 +1287,20 @@ storyinfo_455=Report to <a href="findnpc_new,school01,WorldNpc04220" style="HLSt
 storyinfo_456=Report to <a href="findnpc_new,school04,WorldNpc03900" style="HLStype1">Xu Chengda</a>
 storyinfo_457=Find the <a href="findnpc_new,school03,WorldNpc03341" style="HLStype1">Teacher</a>
 storyinfo_458=Report to <a href="findnpc_new,school05,WorldNpc02332" style="HLStype1">Jian Jiao</a>
-storymenu_151_1=<font face="Default" color="#ffffff" >The kidnapping gangs in Chengdu make their living selling captives to human traffickers.</font>
 storymenu_151_2=<font face="Default" color="#ffffff" >All right.</font>
-storymenu_152_1=<font face="Default" color="#ffffff" >The kidnapping gangs in Chengdu make their living selling captives to human traffickers.</font>
 storymenu_152_2=<font face="Default" color="#ffffff" >All right.</font>
-storymenu_153_1=<font face="Default" color="#ffffff" >The kidnapping gangs in Chengdu make their living selling captives to human traffickers.</font>
 storymenu_153_2=<font face="Default" color="#ffffff" >All right.</font>
-storymenu_154_1=<font face="Default" color="#ffffff" >Yes. There is a kidnapping cartel in the Chengdu area who make their living by abducting people and selling them to human traffickers.</font>
 storymenu_154_2=<font face="Default" color="#ffffff" >All right.</font>
 storymenu_155_1=<font face="Default" color="#ffffff" >Goodbye.</font>
 storymenu_156_1=<font face="Default" color="#ffffff" >Goodbye.</font>
 storymenu_157_1=<font face="Default" color="#ffffff" >I will see to it.</font>
 storymenu_158_1=<font face="Default" color="#ffffff" >Goodbye.</font>
-storymenu_159_1=<font face="Default" color="#ffffff" >I need information on the kidnapping gangs.</font>
 storymenu_159_2=<font face="Default" color="#ffffff" >How can I find the evidence you need?</font>
 storymenu_159_3=<font face="Default" color="#ffffff" >I want to join the kidnapping gang.</font>
-storymenu_160_1=<font face="Default" color="#ffffff" >I need information on the kidnapping gang.</font>
 storymenu_160_2=<font face="Default" color="#ffffff" >How can I obtain this evidence?</font>
 storymenu_160_3=<font face="Default" color="#ffffff" >I want to join the kidnapping gang.</font>
-storymenu_161_1=<font face="Default" color="#ffffff" >I need information on the kidnapping gang.</font>
 storymenu_161_2=<font face="Default" color="#ffffff" >How can I obtain this evidence?</font>
 storymenu_161_3=<font face="Default" color="#ffffff" >I want to join the kidnapping gang.</font>
-storymenu_162_1=<font face="Default" color="#ffffff" >I need information on the kidnapping gang.</font>
 storymenu_162_2=<font face="Default" color="#ffffff" >How can I obtain this evidence?</font>
 storymenu_162_3=<font face="Default" color="#ffffff" >I want to join the kidnapping gang.</font>
 storymenu_228_1=<font face="Default" color="#ffffff" >Should I watch out for anything else?</font>
@@ -2501,7 +2433,6 @@ specialinfo_2132=Open the <font color="#ee7621">Martial Art Skill Book</font> ("
 specialinfo_2133=Press "K" to open the <font color="#ee7621">Martial Art Skill Book</font>. Select an internal skill or movement, then <font color="##ee7621">start cultivating</font> and select <font color="##ee7621">team practice</font>. Complete the team practice.
 task_TrackInfo_1194=Find Qian Fugui to perform a manual skill test. It requires about one minute to submit the test, please wait patiently.
 specialinfo_2134=<s>Take part in two Death Mode Battles and fight to the end.
-interactinfo_450=Give the evidence to <a href="findnpc_new,city05,cd483" style="HLStype1">Xu Qing</a>
 specialinfo_2022=Join or create a Guild. (Your experience level must be Weak Body and Mind or higher).
 specialinfo_2023=Join or establish a guild (Need to break away from Beginner's Protection)
 specialinfo_2024=Join or create a Guild. (Your experience level must be Weak Body and Mind or higher).
@@ -3270,8 +3201,6 @@ interactinfo_350=Go to <a href="findnpc_new,city03,Event_wmp_2ndy_51262" style="
 interactinfo_412=Go to <a href="findnpc_new,city03,Event_wmp_2ndy_51262" style="HLStype1">Ministry of Rites</a> to watch the rites.
 interactinfo_416=Go to <a href="findnpc_new,city03,Event_wmp_2ndy_51262" style="HLStype1">Ministry of Rites</a> to watch the rites.
 interactinfo_420=Go to <a href="findnpc_new,city03,Event_wmp_2ndy_51262" style="HLStype1">Ministry of Rites</a> to watch the rites.
-story_510_2=<font face="Default" color="#ffffff" >These new factions now rival the ten schools in power and prestige. They can stand up to the Ming Empire itself. </font>
-storymenu_510_2=<font face="Default" color="#ffffff" >Which factions can be strong enough to stand shoulder to shoulder with the Ten Schools?  </font>
 task_TrackInfo_1783=Open the "nine" icon for mobile number monthly sign-in
 SubmitNpcEx_1783=Talk to <a href="findnpc_new,city02,operation_manage" style="HLStype1">Qian Fugui</a>
 SubmitNpcEx_1629=Submit task to the battlefield arms officer <a href="findnpc_new,city02,Funnpcbattaleshop01" style="HLStype1">Gumu</a> in Suzhou.
@@ -3298,4 +3227,6 @@ hunterinfo_140=Shoot and kill two <a href="findnpc_new,born01,lifeanimalv04001" 
 hunterinfo_141=Kill the cultist Tong Shanzai and find a torch to burn the Demon Cult Strongpoint
 story_483_2=<font face="Default" color="#ffffff" >Grand Masters transcend time. The warrior you will become reached back through the decades to protect you. </font>
 story_483_4=<font face="Default" color="#ffffff" >The Han Family came looking for the assassin I once was, and many people died. Do you still say I am not to blame?</font>
+story_510_2=<font face="Default" color="#ffffff" >These new factions now rival the ten schools in power and prestige. They can stand up to the Ming Empire itself. </font>
+storymenu_510_2=<font face="Default" color="#ffffff" >Which factions can be strong enough to stand shoulder to shoulder with the Ten Schools?  </font>
 

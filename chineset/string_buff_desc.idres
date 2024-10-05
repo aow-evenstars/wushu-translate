@@ -2242,9 +2242,7 @@ desc_buff_yaoshinlsx0003_13=內力上限增加84
 buff_clone009_jhlrf=落日驚虹
 desc_buff_clone009_jhlrf_0=降低移動速度
 buf_SaleGirl=buf_SaleGirl
-desc_buf_SaleGirl_0=綁架
 buf_SaleBoy=buf_SaleBoy
-desc_buf_SaleBoy_0=綁架
 buf_BuyGirl=buf_BuyGirl
 desc_buf_BuyGirl_0=贖身
 buf_BuyBoy=buf_BuyBoy
@@ -9062,12 +9060,8 @@ desc_buf_wx_jh_qsq05_01_2=氣血和內力停止回復
 desc_buf_wx_jh_qsq05_01_3=氣血和內力停止回復
 desc_buf_wx_jh_qsq05_01_4=氣血和內力停止回復
 desc_buf_wx_jh_qsq05_01_5=氣血和內力停止回復
-buf_offline_abduct_fail=點穴定身
-desc_buf_offline_abduct_fail_0=被點中穴道，不得動彈,定身60秒。
 zf_fangyuli=zf_fangyuli
 desc_zf_fangyuli_0=desc_zf_fangyuli_0
-buf_offline_abduct_cd=官府警覺
-desc_buf_offline_abduct_cd_0=販賣人口被官府盯上，一般沒人敢收你綁架的人了。
 buff_tg03_035=清除
 desc_buff_tg03_035_0=desc_buff_tg03_035_0
 desc_buff_tg03_035_1=清除增益效果
@@ -10054,7 +10048,6 @@ desc_buf_clone015_cqzr_0=desc_buf_clone015_cqzr_0
 buff_tg27_013=眩暈
 desc_buff_tg27_013_0=<font color="#f9fc00">眩暈</font><br/>無法動彈
 desc_buff_tg27_013_1=眩暈
-desc_buf_abductor_0=妄想逃跑,但做賊心虛，移動速度減慢，可被任何人攻擊。
 buff_tg28_054=外功傷害
 desc_buff_tg28_054_0=外功傷害和移動速度降低
 desc_buff_tg28_054_1=速度降低，外功傷害降低
@@ -10244,7 +10237,6 @@ buff_zhenfaclone019020a=buff_zhenfaclone019020a
 desc_buff_zhenfaclone019020a_0=力量提高30%
 buff_zhenfaclone019020b=buff_zhenfaclone019020b
 desc_buff_zhenfaclone019020b_0=體力提高30%
-buf_abducted=奴隸狀態
 buff_tg11_023=力劈華山
 desc_buff_tg11_023_0=desc_buff_tg11_023_0
 desc_buff_tg11_023_1=受到傷害提高30%持續10秒
@@ -18833,13 +18825,6 @@ buff_WorldNpc04284_001=喘氣
 desc_buff_WorldNpc04284_001_0=desc_buff_WorldNpc04284_001_0
 buf_CS_jh_dldm04_1=厲鬼欺身
 desc_buf_CS_jh_dldm04_1_0=desc_buf_CS_jh_dldm05_1_0
-desc_buf_CS_jh_dldm04_1_1=<font color="#f9fc00">厲鬼欺身</font><br/>若此效果疊加到5層，則會被「鐵勁剛拳」擊退
-desc_buf_CS_jh_dldm04_1_2=<font color="#f9fc00">厲鬼欺身</font><br/>若此效果疊加到5層，則會被「鐵勁剛拳」擊退
-desc_buf_CS_jh_dldm04_1_3=<font color="#f9fc00">厲鬼欺身</font><br/>若此效果疊加到5層，則會被「鐵勁剛拳」擊退
-desc_buf_CS_jh_dldm04_1_4=<font color="#f9fc00">厲鬼欺身</font><br/>若此效果疊加到5層，則會被「鐵勁剛拳」擊退
-desc_buf_CS_jh_dldm04_1_5=<font color="#f9fc00">厲鬼欺身</font><br/>若此效果疊加到5層，則會被「鐵勁剛拳」擊退
-desc_buf_CS_jh_dldm04_1_6=<font color="#f9fc00">厲鬼欺身</font><br/>若此效果疊加到5層，則會被「鐵勁剛拳」擊退
-desc_buf_CS_jh_dldm04_1_7=<font color="#f9fc00">厲鬼欺身</font><br/>若此效果疊加到5層，則會被「鐵勁剛拳」擊退
 buff_monm010103_01=流血
 desc_buff_monm010103_01_0=受到重創持續流血
 buff_monm010504_01=中毒
@@ -22820,11 +22805,8 @@ buf_task_suzhou29=刺傷
 desc_buf_task_suzhou29_0=轉刺，靠近會被刺傷
 buf_task_suzhou29_range=轉刺傷害
 desc_buf_task_suzhou29_range_0=被轉刺機關刺傷
-desc_bhf_abduct_yd_0=妄想逃跑,但做賊心虛，移動速度減慢，可被任何人攻擊。
 buf_abduct_yd=buf_abduct_yd
 desc_buf_abduct_yd_0=desc_buf_abduct_yd_0
-buf_abduct_yd_1=綁匪
-desc_buf_abduct_yd_1_0=在時間限制內完成綁架
 buff_clone_terminate_01=狂怒
 desc_buff_clone_terminate_01_0=移動速度大幅提高
 buf_fixed_red=強霸體（紅）
@@ -22963,7 +22945,6 @@ desc_itmbuf_citan_0=desc_itmbuf_citan_0
 desc_itmbuf_citan_1=刺探時無論是否成功，都能額外獲得一份情報
 itmbuf_bangjia=信手拈來
 desc_itmbuf_bangjia_0=desc_itmbuf_bangjia_0
-desc_itmbuf_bangjia_1=綁架獲得的銀子提高30%
 buff_clone_damage03=造化丸副作用
 desc_buff_clone_damage03_0=使用藥物後產生的副作用，使用輕功時有幾率摔倒，打坐可以清除
 buf_boss_tyw04=幽冥毒爆
@@ -23030,7 +23011,6 @@ buf_boss_tyw03a_range=buf_boss_tyw03
 desc_buf_boss_tyw03a_range_0=desc_buf_boss_tyw03_0
 buf_boss_wnhg02a=buf_boss_wnhg02a
 desc_buf_boss_wnhg02a_0=desc_buf_boss_wnhg02a_0
-itmbuf_vipbuf_01=江湖明俊
 desc_itmbuf_vipbuf_01_0=desc_itmbuf_vipbuf_01_0
 desc_itmbuf_vipbuf_01_1=內修效率提高5%
 buf_CS_jh_yqq04=野球拳·肆
@@ -29314,7 +29294,6 @@ buf_jhzb_zd_del=buf_jhzb_zd_del
 buf_match_yanwudan=承武丹
 buf_match_yanwudan02=精武丹
 buf_ng_npc_jh_001=坐忘功
-buf_offline_abduct_cd01=官府警覺
 buf_tg_shibai_02=重整士氣
 buff_bossxl_xinmo_hunluan=神魂錯亂
 buff_bossxl_xinmo_qinggong=鎮魂攝形
@@ -30375,7 +30354,6 @@ desc_buf_jhzb_zd_del_0=desc_buf_jhzb_zd_del_0
 desc_buf_match_yanwudan02_0=增加碎銀演武效果20%
 desc_buf_match_yanwudan_0=增加碎銀演武效果5%
 desc_buf_ng_npc_jh_001_0=<font color="#f9fc00">坐忘功</font><br/>有一定幾率忽略40點和額外的30%傷害
-desc_buf_offline_abduct_cd01_0=販賣人口被官府盯上，一般沒人敢收你綁架的人了
 desc_buf_tg_shibai_02_0=desc_buf_tg_shibai_02_0
 desc_buf_tg_shibai_02_1=意志消沉，需要一段時間重拾信心。
 desc_buff_bossxl_xinmo_hunluan_0=神志癲狂，鍵位錯亂
@@ -30805,10 +30783,6 @@ buf_ng_tm_004_03=禁輕功
 buf_npc_hushu02=減速
 buf_npc_hushu03=定身
 buf_npc_hushu04=隱藏實力
-buf_offline_abduct_cd02=官府警覺
-buf_offline_abduct_cd03=官府警覺
-buf_offline_abduct_cd04=官府警覺
-buf_offline_abduct_cd05=官府警覺
 buf_qy_pre_jlg_flag_01=buf_qy_pre_jlg_flag_01
 buf_qy_wr_fire=火光
 buf_qy_wr_powderhose=buf_qy_wr_powderhose
@@ -31127,7 +31101,6 @@ desc_buf_CS_jh_zq08_5=彈腰獻酒醉蕩步：提升本套路招式威力X%，�
 desc_buf_CS_jh_zq08_6=彈腰獻酒醉蕩步：提升本套路招式威力X%，大幅提高閃避，移動速度變慢（再次使用可取消狀態，本身有3層醉意才可獲得爛醉如泥狀態，X與自身酒量掛鉤）再次使用可將該狀態轉化為3層「采和攔腰」狀態
 desc_buf_CS_jh_zq08_7=彈腰獻酒醉蕩步：提升本套路招式威力X%，大幅提高閃避，移動速度變慢（再次使用可取消狀態，本身有3層醉意才可獲得爛醉如泥狀態，X與自身酒量掛鉤）再次使用可將該狀態轉化為3層「采和攔腰」狀態
 desc_buf_CS_jh_zq08_8=彈腰獻酒醉蕩步：提升本套路招式威力X%，大幅提高閃避，移動速度變慢（再次使用可取消狀態，本身有3層醉意才可獲得爛醉如泥狀態，X與自身酒量掛鉤）再次使用可將該狀態轉化為3層「采和攔腰」狀態
-desc_buf_abduct_rescue_cd01_0=剛剛救助過別人，身體比較虛弱，暫時無法救助更多的的人
 desc_buf_abduct_rescuer_0=正義俠士，正在救助別人。
 desc_buf_egwar_cantuseitem_0=不能使用道具
 desc_buf_huigui_qiandao_new_1_0=您擁有回歸玩家的身份，可以進入簽到界面進行簽到領取豐厚獎勵
@@ -31247,10 +31220,6 @@ desc_buf_npc_hushu03_4=定身
 desc_buf_npc_hushu03_5=定身
 desc_buf_npc_hushu04_0=防禦力提高，受到傷害減少。
 desc_buf_npc_hushu04_1=防禦力提高，受到傷害減少。
-desc_buf_offline_abduct_cd02_0=販賣人口被官府盯上，一般沒人敢收你綁架的人了
-desc_buf_offline_abduct_cd03_0=販賣人口被官府盯上，一般沒人敢收你綁架的人了
-desc_buf_offline_abduct_cd04_0=販賣人口被官府盯上，一般沒人敢收你綁架的人了
-desc_buf_offline_abduct_cd05_0=販賣人口被官府盯上，一般沒人敢收你綁架的人了
 desc_buf_qy_pre_jlg_flag_01_0=desc_buf_qy_pre_jlg_flag_01_0
 desc_buf_qy_wr_powderhose_0=desc_buf_qy_wr_powderhose_0
 desc_buf_qygp_x01_0=等一會
@@ -37468,7 +37437,6 @@ desc_buf_Npc_jh_dpgx05_3=<font color="#f9fc00">邪滅四方</font><br/>格擋成
 desc_buf_Npc_jh_dpgx05_4=<font color="#f9fc00">邪滅四方</font><br/>格擋成功，降低目標20點封勁，使之更容易被暴擊
 desc_buf_Npc_jh_dpgx05_5=<font color="#f9fc00">邪滅四方</font><br/>格擋成功，降低目標20點封勁，使之更容易被暴擊
 desc_buf_Npc_jh_dpgx05_6=<font color="#f9fc00">邪滅四方</font><br/>格擋成功，降低目標20點封勁，使之更容易被暴擊
-desc_buf_abducted_0=離線時被綁匪綁票販賣，失去六個小時的自由,此狀態下離線打工時不能自由轉換身份。可以通過在退出遊戲時的離線界面點擊「贖身」按鈕，花費一定的碎銀子來恢復自由之身。
 desc_buf_ai_end_fight_0=
 desc_buf_boss_tyw01_1_0=<font color="#ffff00">地陷</font><br/>你被陷入土中，脫身不得
 desc_buf_buff_0=
@@ -45311,7 +45279,6 @@ buff_newworld_llmk_008=標誌BUFF-武當弟子
 buff_newworld_llmk_009=標誌BUFF-王逍
 buff_newworld_llmk_010=標誌BUFF-錦衣衛弟子
 buff_newworld_llmk_011=標誌BUFF-雷行空
-buff_newworld_llmk_012=標誌BUFF-大魔鬼城弟子
 buff_newworld_llmk_013=標誌BUFF-樓蘭後人組合
 buff_newworld_llmk_014=標誌BUFF-火麒麟
 buff_newworld_llmk_015=標誌BUFF-赫連璧
@@ -56975,17 +56942,6 @@ desc_buf_CS_sl_chpdg03_6=<font color="#f9fc00">極樂佛音</font><br>招架成�
 desc_buf_CS_sl_chpdg03_7=<font color="#f9fc00">極樂佛音</font><br>招架成功可以使招式【五蘊皆空】回氣時間減少1秒；並給自身添加<font color="#f9fc00">「普渡印」</font>
 desc_buf_CS_sl_chpdg03_8=<font color="#f9fc00">極樂佛音</font><br>招架成功可以使招式【五蘊皆空】回氣時間減少1秒；並給自身添加<font color="#f9fc00">「普渡印」</font>
 desc_buf_CS_sl_chpdg03_9=<font color="#f9fc00">極樂佛音</font><br>招架成功可以使招式【五蘊皆空】回氣時間減少1秒；並給自身添加<font color="#f9fc00">「普渡印」</font>
-desc_buf_CS_sl_chpdg07_0=<font color="#f9fc00">五蘊皆空</font><br>減少氣場內敵人10%外功防禦。
-desc_buf_CS_sl_chpdg07_1=<font color="#f9fc00">五蘊皆空</font><br>減少氣場內敵人12%外功防禦。
-desc_buf_CS_sl_chpdg07_10=<font color="#f9fc00">五蘊皆空</font><br>減少氣場內敵人30%外功防禦。
-desc_buf_CS_sl_chpdg07_2=<font color="#f9fc00">五蘊皆空</font><br>減少氣場內敵人14%外功防禦。
-desc_buf_CS_sl_chpdg07_3=<font color="#f9fc00">五蘊皆空</font><br>減少氣場內敵人16%外功防禦。
-desc_buf_CS_sl_chpdg07_4=<font color="#f9fc00">五蘊皆空</font><br>減少氣場內敵人18%外功防禦。
-desc_buf_CS_sl_chpdg07_5=<font color="#f9fc00">五蘊皆空</font><br>減少氣場內敵人20%外功防禦。
-desc_buf_CS_sl_chpdg07_6=<font color="#f9fc00">五蘊皆空</font><br>減少氣場內敵人22%外功防禦。
-desc_buf_CS_sl_chpdg07_7=<font color="#f9fc00">五蘊皆空</font><br>減少氣場內敵人24%外功防禦。
-desc_buf_CS_sl_chpdg07_8=<font color="#f9fc00">五蘊皆空</font><br>減少氣場內敵人26%外功防禦。
-desc_buf_CS_sl_chpdg07_9=<font color="#f9fc00">五蘊皆空</font><br>減少氣場內敵人28%外功防禦。
 desc_buf_CS_sl_chpdg07_range_0=<font color="#f9fc00">五蘊皆空</font><br>減少10%外功防禦
 desc_buf_CS_sl_chpdg07_range_1=<font color="#f9fc00">五蘊皆空</font><br>減少12%外功防禦
 desc_buf_CS_sl_chpdg07_range_10=<font color="#f9fc00">五蘊皆空</font><br>減少30%外功防禦
@@ -64923,7 +64879,6 @@ desc_buff_gq2014_jhj01_0=醇香美酒，回味無窮。增益效果：全屬性�
 desc_buff_gq2014_zyg01_0=美味蒸糕，尺頰生香。增益效果：移動速度和跳躍高度提高10%，持續一小時（該效果不可帶入天梯賽、泰山封武等活動）
 desc_buff_hs_smdh05_0=益氣:華山劍法和風行劍訣傷害提升2成
 desc_buff_itm_add1_1=提升自身4點臂力和百分之一的外功命中，效果持續3天，不可與其他效果同時使用（參加泰山封武武心丹效果會被清除）
-desc_buff_itm_add1_10=提升自身37點臂力和百分之五的外功命中及26點外功命中，效果持續3天，不可與其他效果同時使用（參加泰山封武武心丹效果會被清除）
 desc_buff_itm_add1_11=提升自身42點臂力和百分之五的外功命中及39點外功命中，效果持續3天，不可與其他效果同時使用（參加泰山封武武心丹效果會被清除）
 desc_buff_itm_add1_12=提升自身45點臂力和百分之五的外功命中及52點外功命中，效果持續3天，不可與其他效果同時使用（參加泰山封武武心丹效果會被清除）
 desc_buff_itm_add1_2=提升自身7點臂力和百分之一的外功外功命中，效果持續3天，不可與其他效果同時使用（參加泰山封武武心丹效果會被清除）
@@ -64935,7 +64890,6 @@ desc_buff_itm_add1_7=提升自身27點臂力和百分之四的外功命中，效
 desc_buff_itm_add1_8=提升自身30點臂力和百分之五的外功命中，效果持續3天，不可與其他效果同時使用（參加泰山封武武心丹效果會被清除）
 desc_buff_itm_add1_9=提升自身34點臂力和百分之五的外功命中及13點外功命中，效果持續3天，不可與其他效果同時使用（參加泰山封武武心丹效果會被清除）
 desc_buff_itm_add2_1=提升自身4點身法和15氣血上限，效果持續3天，不可與其他效果同時使用（參加泰山封武武心丹效果會被清除）
-desc_buff_itm_add2_10=提升自身37點身法和200氣血上限，效果持續3天，不可與其他效果同時使用（參加泰山封武武心丹效果會被清除）
 desc_buff_itm_add2_11=提升自身42點身法和250氣血上限，效果持續3天，不可與其他效果同時使用（參加泰山封武武心丹效果會被清除）
 desc_buff_itm_add2_12=提升自身45點身法和300氣血上限，效果持續3天，不可與其他效果同時使用（參加泰山封武武心丹效果會被清除）
 desc_buff_itm_add2_2=提升自身7點身法和20氣血上限，效果持續3天，不可與其他效果同時使用（參加泰山封武武心丹效果會被清除）
@@ -64947,7 +64901,6 @@ desc_buff_itm_add2_7=提升自身27點身法和90氣血上限，效果持續3天
 desc_buff_itm_add2_8=提升自身30點身法和100氣血上限，效果持續3天，不可與其他效果同時使用（參加泰山封武武心丹效果會被清除）
 desc_buff_itm_add2_9=提升自身34點身法和150氣血上限，效果持續3天，不可與其他效果同時使用（參加泰山封武武心丹效果會被清除）
 desc_buff_itm_add3_1=提升自身4點內息和百分之一的內功化解，效果持續3天，不可與其他效果同時使用（參加泰山封武武心丹效果會被清除）
-desc_buff_itm_add3_10=提升自身體37點內息和百分之五的內功化解及32點內功防禦，效果持續3天，不可與其他效果同時使用（參加泰山封武武心丹效果會被清除）
 desc_buff_itm_add3_11=提升自身體42點內息和百分之五的內功化解及48點內功防禦，效果持續3天，不可與其他效果同時使用（參加泰山封武武心丹效果會被清除）
 desc_buff_itm_add3_12=提升自身體45點內息和百分之五的內功化解及64點內功防禦，效果持續3天，不可與其他效果同時使用（參加泰山封武武心丹效果會被清除）
 desc_buff_itm_add3_2=提升自身7點內息和百分之一的內功化解，效果持續3天，不可與其他效果同時使用（參加泰山封武武心丹效果會被清除）
@@ -64959,7 +64912,6 @@ desc_buff_itm_add3_7=提升自身27點內息和百分之四的內功化解，效
 desc_buff_itm_add3_8=提升自身體30點內息和百分之五的內功化解，效果持續3天，不可與其他效果同時使用（參加泰山封武武心丹效果會被清除）
 desc_buff_itm_add3_9=提升自身體34點內息和百分之五的內功化解及16點內功防禦，效果持續3天，不可與其他效果同時使用（參加泰山封武武心丹效果會被清除）
 desc_buff_itm_add4_1=提升自身4點罡氣和3點內功威力，效果持續3天，不可與其他效果同時使用（參加泰山封武武心丹效果會被清除）
-desc_buff_itm_add4_10=提升自身37點罡氣和26點內功威力，效果持續3天，不可與其他效果同時使用（參加泰山封武武心丹效果會被清除）
 desc_buff_itm_add4_11=提升自身42點罡氣和30點內功威力，效果持續3天，不可與其他效果同時使用（參加泰山封武武心丹效果會被清除）
 desc_buff_itm_add4_12=提升自身45點罡氣和33點內功威力，效果持續3天，不可與其他效果同時使用（參加泰山封武武心丹效果會被清除）
 desc_buff_itm_add4_2=提升自身7點罡氣和5點內功威力，效果持續3天，不可與其他效果同時使用（參加泰山封武武心丹效果會被清除）
@@ -64971,7 +64923,6 @@ desc_buff_itm_add4_7=提升自身27點罡氣和18點內功威力，效果持續3
 desc_buff_itm_add4_8=提升自身30點罡氣和20點內功威力，效果持續3天，不可與其他效果同時使用（參加泰山封武武心丹效果會被清除）
 desc_buff_itm_add4_9=提升自身34點罡氣和23點內功威力，效果持續3天，不可與其他效果同時使用（參加泰山封武武心丹效果會被清除）
 desc_buff_itm_add5_1=提升自身4點體魄和65點招架值上限，效果持續3天，不可與其他效果同時使用（參加泰山封武武心丹效果會被清除）
-desc_buff_itm_add5_10=提升自身37點體魄和600點招架值上限，效果持續3天，不可與其他效果同時使用（參加泰山封武武心丹效果會被清除）
 desc_buff_itm_add5_11=提升自身42點體魄和650點招架值上限，效果持續3天，不可與其他效果同時使用（參加泰山封武武心丹效果會被清除）
 desc_buff_itm_add5_12=提升自身45點體魄和700點招架值上限，效果持續3天，不可與其他效果同時使用（參加泰山封武武心丹效果會被清除）
 desc_buff_itm_add5_2=提升自身7點體魄和115點招架值上限，效果持續3天，不可與其他效果同時使用（參加泰山封武武心丹效果會被清除）
@@ -65350,7 +65301,6 @@ desc_buf_CS_jz_lyfh04_wj_5=<font color="#f9fc00">落塵嘯</font><br/>招架成�
 desc_buf_CS_jz_lyfh04_wj_6=<font color="#f9fc00">落塵嘯</font><br/>招架成功，有幾率使目標不能移動以及下盤不穩
 desc_buf_CS_jz_lyfh04_wj_7=<font color="#f9fc00">落塵嘯</font><br/>招架成功，有幾率使目標不能移動以及下盤不穩
 desc_buf_CS_jz_lyfh07_01_wj_0=<font color="#f9fc00">風花雪月</font><br/>無法被擊退，擊飛，擊倒，免疫控制效果，不能被技能鎖定
-desc_buf_CS_jz_lyfh07_01_wj_1=<font color="#f9fc00">風花雪月</font><br/>無法被擊退，擊飛，擊倒，免疫控制效果，不能被技能鎖定
 desc_buf_CS_jz_lyfh07_wj_0=<font color="#f9fc00">禁輕功</font>
 desc_buf_CS_jz_lyfh07_wj_1=<font color="#f9fc00">禁輕功</font>
 desc_buf_clonetower001_cyy_01_0=5秒後陷阱攻擊
@@ -70904,7 +70854,6 @@ buf_erg_cg_2_001=光環
 buf_erg_cg_2_001_1=buf_erg_cg_2_001_1
 buf_erg_cg_2_002=寸步難行
 buf_erg_cg_2_003=箭頭特效
-buf_erg_cg_3_001=火圈
 buf_erg_cg_npc_01=金剛護體神功
 buf_erg_cg_npc_01_1=氣血再生
 buf_erg_cg_npc_03=龍神功
@@ -74004,7 +73953,6 @@ desc_buf_CS_sjy_klbx05_01_NPC_1=<font color="#f9fc00">蒼龍得水</font><br>反
 desc_buf_CS_sjy_klbx06_01_0=desc_buf_CS_sjy_klbx06_01_0
 desc_buf_CS_sjy_klbx06_01_1=<font color="#f9fc00">歸澗</font><br>3秒內無法使用輕功
 desc_buf_CS_sjy_klbx07_01_0=<font color="#f9fc00">驚龍長嘯</font><br>招式傷害提升25%
-desc_buf_CS_sjy_klbx07_01_1=<font color="#f9fc00">驚龍長嘯</font><br>招式傷害提升25%
 desc_buf_CS_sjy_klbx07_02_0=<font color="#f9fc00">驚龍回光</font><br>
 desc_buf_CS_sjy_klbx07_02_1=<font color="#f9fc00">驚龍回光</font><br>受到的傷害提升100%，該狀態結束時，氣血和內力恢復到狀態開始之前的狀態
 desc_buf_CS_sjy_klbx07_02_2=<font color="#f9fc00">驚龍回光</font><br>受到的傷害提升100%，該狀態結束時，氣血和內力恢復到狀態開始之前的狀態
@@ -77054,17 +77002,6 @@ desc_buf_fuli_CS_em_blc02_0=離別刺的離愁別緒威力增加1成
 desc_buf_fuli_CS_em_blc03_0=離別刺的雨恨雲愁威力增加1成
 desc_buf_fuli_CS_em_blc04_0=離別刺的離魂去影威力增加1成
 desc_buf_fuli_CS_em_blc05_0=離別刺的伯勞飛燕威力增加1成
-desc_buff_mmzw_boss1_002_0=外域弟子魔功護體，為了攻破十大宗門不惜運功自爆！
-desc_buff_mmzw_boss1_005_0=外域弟子魔功護體，為了攻破十大宗門不惜運功自爆！
-desc_buff_mmzw_boss1_008_0=外域弟子魔功護體，為了攻破十大宗門不惜運功自爆！
-desc_buff_mmzw_wyxg_002_0=外域弟子魔功護體，為了攻破十大宗門不惜運功自爆！
-desc_buff_mmzw_wyxg_005_0=外域弟子魔功護體，為了攻破十大宗門不惜運功自爆！
-desc_buff_mmzw_wyxg_008_0=外域弟子魔功護體，為了攻破十大宗門不惜運功自爆！
-desc_buff_mmzw_wyzb_002_0=外域弟子魔功護體，為了攻破十大宗門不惜運功自爆！
-desc_buff_mmzw_wyzb_005_0=外域弟子魔功護體，為了攻破十大宗門不惜運功自爆！
-desc_buff_mmzw_wyzb_008_0=外域弟子魔功護體，為了攻破十大宗門不惜運功自爆！
-desc_buff_pve_bad_1_0=西域高手沒有十大宗門的子弟多，被圍攻無法使出全力！
-desc_buff_pve_bad_1_1=西域高手沒有十大宗門的子弟多，被圍攻無法使出全力！
 desc_buff_qxhd_001_0=傳情每向馨香得，不語還應彼此知。只欲欄邊安枕席，夜深閒共說相思。有人在成都放飛天燈，寄情與你。（歷練轉化速度提高300%）
 desc_buff_qxhd_002_0=傳情每向馨香得，不語還應彼此知。只欲欄邊安枕席，夜深閒共說相思。成功放飛了天燈，獲得內修速度提高300%的效果。
 desc_buff_xmphd_mjngjs_001_0=擁有此狀態期間暫時無法進行天山內功，武學晉陞。
@@ -79302,10 +79239,6 @@ buff_1908_dy_024=陷阱
 buff_1908_dy_025=灼燒
 buff_1908_dy_026=糧草著火
 buff_1908_dy_027=眩暈
-buff_1908_dy_028=警戒值過高
-buff_1908_dy_029=警戒值過高
-buff_1908_dy_030=警戒值過高
-buff_1908_dy_031=警戒值過高
 buff_1908_dy_032=爆發
 buff_1908_dy_033=換裝臥底
 buff_1908_dy_034=替換屬性
@@ -79624,13 +79557,9 @@ desc_buff_1908_dy_026_0=糧草著火
 desc_buff_1908_dy_026_1=
 desc_buff_1908_dy_027_0=眩暈
 desc_buff_1908_dy_027_1=
-desc_buff_1908_dy_028_0=警戒值已超過30%，將引來守衛襲擊，應謹慎行事。
 desc_buff_1908_dy_028_1=
-desc_buff_1908_dy_029_0=警戒值已超過70%，將引來守衛襲擊，應謹慎行事。
 desc_buff_1908_dy_029_1=
-desc_buff_1908_dy_030_0=警戒值過高，容易引起守衛的注意。應謹慎行事
 desc_buff_1908_dy_030_1=
-desc_buff_1908_dy_031_0=警戒值過高，容易引起守衛的注意。應謹慎行事
 desc_buff_1908_dy_031_1=
 desc_buff_1908_dy_032_0=體內有股莫名的力量源源不斷的往外湧
 desc_buff_1908_dy_032_1=
@@ -80580,14 +80509,10 @@ desc_eqp_shoes_02_cd_1=desc_eqp_shoes_02_cd_1
 desc_eqp_shoes_02_cd_2=desc_eqp_shoes_02_cd_2
 desc_eqp_shoes_02_cd_3=desc_eqp_shoes_02_cd_3
 desc_eqp_shoes_02a_0=desc_eqp_shoes_02a_0
-desc_eqp_shoes_02a_1=免疫部分陷阱的限制效果
 eqp_shoes_02=eqp_shoes_02
 eqp_shoes_02_cd=eqp_shoes_02_cd
-eqp_shoes_02a=eqp_shoes_02a
-bhf_abduct_yd=牙儈狀態
 buf_CS_jy_xsd06=暗箭傷人
 buf_Npc_jy_xsd06=暗箭傷人
-buf_abductor=牙儈狀態
 buf_abductor_gb=幫戰牙儈狀態
 buf_boss_dhjs_new01=水中隱衛
 buf_bosswar_shashou=隱衛身份
@@ -80797,8 +80722,6 @@ desc_buf_item_thd2_003_0=隱藏姓名，攻克不加戕屠值並且佩戴瞬間�
 desc_buf_item_thd2_003_g_0=隱藏姓名，攻克不加戕屠值並且佩戴瞬間怒氣值加滿
 desc_buf_jhhj_001_0=攻克目標為自己恢復血氣！
 desc_buf_jhzb_killer_1=江湖至寶隱衛,實力大增<br>規定時間內攻克至寶持有者會獲得獎勵
-desc_buf_jhzb_zd_khbd_0=<font color="#EE7600">幽曇秘典</font><br>通過向公公討教，領悟了一些修煉幽曇秘典的法門，零點之前攻克怪物或登峰造極以上實力的玩家有幾率獲得江湖至寶修煉值，亦可使用江湖至寶修煉幽曇秘典（奇遇等分組場景無效）<br>殺氣騰騰，此時可被玩家隨意攻擊<br>20點-21點之間，在金陵（2154,2000）、蘇州（1044,1044）、燕京（1696,1308）三處風水寶地（水）修煉，每成功修煉一次，將額外提升2倍修煉速度，同時會使周圍的江湖名俊玩家獲得大量真氣（不佔用每日真氣上限）
-desc_buf_jhzb_zd_xxdf_0=<font color="#EE7600">玄冥真罡</font><br>通過向地宮五凶討教，領悟了一些修煉玄冥真罡的法門，零點之前攻克怪物或將登峰造極以上實力的玩家擊成重傷有幾率獲得江湖至寶修煉值，亦可使用江湖至寶修煉玄冥真罡（奇遇等分組場景無效）<br>殺氣騰騰，此時可被玩家隨意攻擊<br>20點-21點之間，在金陵（400,948）、蘇州（1241,684）、燕京（1371,1232）三處風水寶地（山）修煉，每成功修煉一次，將額外提升2倍修煉速度，同時會使周圍的江湖名俊玩家獲得大量真氣（不佔用每日真氣上限）
 desc_buf_jyz_dy_01_0=被攻克傳遞
 desc_buf_jyz_dy_02_0=被攻克傳遞
 desc_buf_jyz_dy_03_0=被攻克傳遞
@@ -80990,4 +80913,2349 @@ desc_buff_spa_102_0=<font color="#FF00FF">溫泉滋養狀態(二級)</font><br/>
 desc_buff_spa_102_1=<font color="#FF00FF">溫泉滋養狀態(二級)</font><br/>當前修煉武學每分鐘獲得<font color="#f9fc00">367</font>修為轉化<br/><font color="#ff0000">【精進】</font>：內功實力低於指定點數時，修煉<font color="#f9fc00">內功</font>可獲得三倍轉化效果。<br/>各九陰志階段指定內功點數對應如下：<br/><font color="#3ed53a">九陰志2內—內功點數36（出類拔萃）</font><br/><font color="#3ed53a">九陰志3內—內功點數51（傲視群雄）</font><br/><font color="#3ed53a">九陰志4內—內功點數61（無與倫比）</font>
 desc_buff_spa_103_0=<font color="#FF00FF">溫泉滋養狀態(三級)</font><br/>當前修煉武學每分鐘獲得<font color="#f9fc00">417</font>修為轉化<br/><font color="#ff0000">【精進】</font>：內功實力低於指定點數時，修煉<font color="#f9fc00">內功</font>可獲得三倍轉化效果。<br/>各九陰志階段指定內功點數對應如下：<br/><font color="#3ed53a">九陰志2內—內功點數36（出類拔萃）</font><br/><font color="#3ed53a">九陰志3內—內功點數51（傲視群雄）</font><br/><font color="#3ed53a">九陰志4內—內功點數61（無與倫比）</font>
 desc_buff_spa_103_1=<font color="#FF00FF">溫泉滋養狀態(三級)</font><br/>當前修煉武學每分鐘獲得<font color="#f9fc00">417</font>修為轉化<br/><font color="#ff0000">【精進】</font>：內功實力低於指定點數時，修煉<font color="#f9fc00">內功</font>可獲得三倍轉化效果。<br/>各九陰志階段指定內功點數對應如下：<br/><font color="#3ed53a">九陰志2內—內功點數36（出類拔萃）</font><br/><font color="#3ed53a">九陰志3內—內功點數51（傲視群雄）</font><br/><font color="#3ed53a">九陰志4內—內功點數61（無與倫比）</font>
+buf_0401_hd01=青糰子
+buf_CS_jh_sf04=移山填海
+buf_CS_jh_sf05=獨善其身
+buf_CS_jh_sf05_01=獨善其身
+buf_CS_jh_sf06_01=翻手為雲
+buf_CS_jh_sf06_02=覆手為雨
+buf_CS_jh_sf06_03=翻手為雲
+buf_CS_jh_sf06_04=翻手為雲
+buf_CS_jh_sf07=兼濟天下
+buf_CS_jh_sf07_01=兼濟天下·防禦
+buf_CS_jh_sf08=龍游大海
+buf_adv_dzw_01=弒殺
+buf_adv_dzw_02=覆滅
+buf_adv_dzw_03=奔襲
+buf_adv_dzw_04=奔襲
+buf_adv_dzw_05=隱匿·破綻
+buf_adv_dzw_06=隱匿·魅影
+buf_adv_dzw_ng_01=心武殘篇
+buf_adv_dzw_ng_02=守心
+buf_adv_dzw_ng_03=失守
+buf_adv_dzw_zj_01=影遁
+buf_clone047_ltn_ng_01=林家十六劍典
+buf_clone047_ltn_ng_02=劍氣
+buf_clone047_ltn_ng_03=劍氣爆發
+buf_clone047_wh_ng_01=修羅鬼王訣
+buf_clone047_wh_ng_02=鬼王勁
+buf_clone047_wh_zj_01=萬鬼寧
+buf_clone047ltn_01=劍罡
+buf_clone047ltn_02=氣盛
+buf_clone047ltn_03=氣絕
+buf_clone047ltn_04=氣滅
+buf_clone047ltn_05=氣溟
+buf_clone047ltn_06=氣歸
+buf_clone047wh_01=鬼影遁形
+buf_clone047wh_02=魍
+buf_clone047wh_03=拉近
+buf_clone047wh_04=百鬼來潮
+buf_clone047wh_04_01=百鬼來潮
+buf_clone047wh_05=百鬼來潮
+buf_clone047wh_06=眾神浮屠·定
+buf_clone047wh_07=墮魂
+buf_clone047wh_08=炙血焚獄
+buf_clone047wh_09=炙血焚獄
+buf_clone047wh_09_range=炙血焚獄
+buf_jy_dy_001=禁言懲罰
+buf_jy_dy_002=禁言懲罰
+buf_jy_dy_003=禁言懲罰
+buf_xiangqi_sit=坐下
+buff_zyb_zdl2020=張丹靈
+desc_buf_0401_hd01_0=內修速度提升100%，歷練速度提升100%
+desc_buf_0401_hd01_1=
+desc_buf_CS_jh_sf04_0=desc_buf_CS_jh_sf04_0
+desc_buf_CS_jh_sf04_1=<font color="#FFAE00">移山填海</font><br>受到本套路<font color="#f9fc00">【異軍突起】</font>攻擊時將濺射10%傷害給周圍目標，最多可疊加4層，持續15秒。
+desc_buf_CS_jh_sf05_0=desc_buf_CS_jh_sf05_0
+desc_buf_CS_jh_sf05_01_0=desc_buf_CS_jh_sf05_01_0
+desc_buf_CS_jh_sf05_01_1=<font color="#FFAE00">獨善其身</font><br>本套路<font color="#f9fc00">【異軍突起】【移山填海】【龍游大海】</font>招式傷害提高10%，持續8秒。
+desc_buf_CS_jh_sf05_01_10=<font color="#FFAE00">獨善其身</font><br>本套路<font color="#f9fc00">【異軍突起】【移山填海】【龍游大海】</font>招式傷害提高25%，持續12秒
+desc_buf_CS_jh_sf05_01_11=<font color="#FFAE00">獨善其身</font><br>本套路<font color="#f9fc00">【異軍突起】【移山填海】【龍游大海】</font>招式傷害提高25%，持續12秒
+desc_buf_CS_jh_sf05_01_12=<font color="#FFAE00">獨善其身</font><br>本套路<font color="#f9fc00">【異軍突起】【移山填海】【龍游大海】</font>招式傷害提高25%，持續15秒
+desc_buf_CS_jh_sf05_01_2=<font color="#FFAE00">獨善其身</font><br>本套路<font color="#f9fc00">【異軍突起】【移山填海】【龍游大海】</font>招式傷害提高10%，持續10秒
+desc_buf_CS_jh_sf05_01_3=<font color="#FFAE00">獨善其身</font><br>本套路<font color="#f9fc00">【異軍突起】【移山填海】【龍游大海】</font>招式傷害提高15%，持續10秒
+desc_buf_CS_jh_sf05_01_4=<font color="#FFAE00">獨善其身</font><br>本套路<font color="#f9fc00">【異軍突起】【移山填海】【龍游大海】</font>招式傷害提高15%，持續10秒
+desc_buf_CS_jh_sf05_01_5=<font color="#FFAE00">獨善其身</font><br>本套路<font color="#f9fc00">【異軍突起】【移山填海】【龍游大海】</font>招式傷害提高15%，持續11秒
+desc_buf_CS_jh_sf05_01_6=<font color="#FFAE00">獨善其身</font><br>本套路<font color="#f9fc00">【異軍突起】【移山填海】【龍游大海】</font>招式傷害提高15%，持續12秒
+desc_buf_CS_jh_sf05_01_7=<font color="#FFAE00">獨善其身</font><br>本套路<font color="#f9fc00">【異軍突起】【移山填海】【龍游大海】</font>招式傷害提高15%，持續12秒
+desc_buf_CS_jh_sf05_01_8=<font color="#FFAE00">獨善其身</font><br>本套路<font color="#f9fc00">【異軍突起】【移山填海】【龍游大海】</font>招式傷害提高20%，持續12秒
+desc_buf_CS_jh_sf05_01_9=<font color="#FFAE00">獨善其身</font><br>本套路<font color="#f9fc00">【異軍突起】【移山填海】【龍游大海】</font>招式傷害提高20%，持續12秒
+desc_buf_CS_jh_sf05_1=招架成功時有30%概率給自己添加一層<font color="#FFAE00">獨善其身</font>狀態：本套路<font color="#f9fc00">【異軍突起】【移山填海】【龍游大海】</font>招式傷害提高10%，持續8秒。
+desc_buf_CS_jh_sf05_10=招架成功時有50%概率給自己添加一層<font color="#FFAE00">獨善其身</font>狀態：本套路<font color="#f9fc00">【異軍突起】【移山填海】【龍游大海】</font>招式傷害提高25%，持續12秒
+desc_buf_CS_jh_sf05_11=招架成功時有55%概率給自己添加一層<font color="#FFAE00">獨善其身</font>狀態：本套路<font color="#f9fc00">【異軍突起】【移山填海】【龍游大海】</font>招式傷害提高25%，持續12秒
+desc_buf_CS_jh_sf05_12=招架成功時有60%概率給自己添加一層<font color="#FFAE00">獨善其身</font>狀態：本套路<font color="#f9fc00">【異軍突起】【移山填海】【龍游大海】</font>招式傷害提高25%，持續15秒
+desc_buf_CS_jh_sf05_2=招架成功時有35%概率給自己添加一層<font color="#FFAE00">獨善其身</font>狀態：本套路<font color="#f9fc00">【異軍突起】【移山填海】【龍游大海】</font>招式傷害提高10%，持續10秒
+desc_buf_CS_jh_sf05_3=招架成功時有35%概率給自己添加一層<font color="#FFAE00">獨善其身</font>狀態：本套路<font color="#f9fc00">【異軍突起】【移山填海】【龍游大海】</font>招式傷害提高15%，持續10秒
+desc_buf_CS_jh_sf05_4=招架成功時有40%概率給自己添加一層<font color="#FFAE00">獨善其身</font>狀態：本套路<font color="#f9fc00">【異軍突起】【移山填海】【龍游大海】</font>招式傷害提高15%，持續10秒
+desc_buf_CS_jh_sf05_5=招架成功時有40%概率給自己添加一層<font color="#FFAE00">獨善其身</font>狀態：本套路<font color="#f9fc00">【異軍突起】【移山填海】【龍游大海】</font>招式傷害提高15%，持續11秒
+desc_buf_CS_jh_sf05_6=招架成功時有40%概率給自己添加一層<font color="#FFAE00">獨善其身</font>狀態：本套路<font color="#f9fc00">【異軍突起】【移山填海】【龍游大海】</font>招式傷害提高15%，持續12秒
+desc_buf_CS_jh_sf05_7=招架成功時有45%概率給自己添加一層<font color="#FFAE00">獨善其身</font>狀態：本套路<font color="#f9fc00">【異軍突起】【移山填海】【龍游大海】</font>招式傷害提高15%，持續12秒
+desc_buf_CS_jh_sf05_8=招架成功時有45%概率給自己添加一層<font color="#FFAE00">獨善其身</font>狀態：本套路<font color="#f9fc00">【異軍突起】【移山填海】【龍游大海】</font>招式傷害提高20%，持續12秒
+desc_buf_CS_jh_sf05_9=招架成功時有50%概率給自己添加一層<font color="#FFAE00">獨善其身</font>狀態：本套路<font color="#f9fc00">【異軍突起】【移山填海】【龍游大海】</font>招式傷害提高20%，持續12秒
+desc_buf_CS_jh_sf06_01_0=desc_buf_CS_jh_sf06_01_0
+desc_buf_CS_jh_sf06_01_1=棋盤效果
+desc_buf_CS_jh_sf06_02_0=desc_buf_CS_jh_sf06_02_0
+desc_buf_CS_jh_sf06_02_1=desc_buf_CS_jh_sf06_02_1
+desc_buf_CS_jh_sf06_03_0=desc_buf_CS_jh_sf06_03_0
+desc_buf_CS_jh_sf06_03_1=可以使用【覆手為雨】
+desc_buf_CS_jh_sf06_04_0=desc_buf_CS_jh_sf06_04_0
+desc_buf_CS_jh_sf06_04_1=眩暈
+desc_buf_CS_jh_sf07_0=desc_buf_CS_jh_sf07_0
+desc_buf_CS_jh_sf07_01_0=desc_buf_CS_jh_sf07_01_0
+desc_buf_CS_jh_sf07_01_1=<font color="#FFAE00">兼濟天下</font>狀態：下次被攻擊時額外減免5%傷害（最多疊加5層，持續10秒）
+desc_buf_CS_jh_sf07_01_10=<font color="#FFAE00">兼濟天下</font>狀態：下次被攻擊時額外減免9%傷害（最多疊加5層，持續20秒）
+desc_buf_CS_jh_sf07_01_11=<font color="#FFAE00">兼濟天下</font>狀態：下次被攻擊時額外減免9%傷害（最多疊加5層，持續25秒）
+desc_buf_CS_jh_sf07_01_12=<font color="#FFAE00">兼濟天下</font>狀態：下次被攻擊時額外減免10%傷害（最多疊加5層，持續30秒）
+desc_buf_CS_jh_sf07_01_2=<font color="#FFAE00">兼濟天下</font>狀態：下次被攻擊時額外減免5%傷害（最多疊加5層，持續12秒）
+desc_buf_CS_jh_sf07_01_3=<font color="#FFAE00">兼濟天下</font>狀態：下次被攻擊時額外減免6%傷害（最多疊加5層，持續12秒）
+desc_buf_CS_jh_sf07_01_4=<font color="#FFAE00">兼濟天下</font>狀態：下次被攻擊時額外減免7%傷害（最多疊加5層，持續14秒）
+desc_buf_CS_jh_sf07_01_5=<font color="#FFAE00">兼濟天下</font>狀態：下次被攻擊時額外減免7%傷害（最多疊加5層，持續15秒）
+desc_buf_CS_jh_sf07_01_6=<font color="#FFAE00">兼濟天下</font>狀態：下次被攻擊時額外減免7%傷害（最多疊加5層，持續16秒）
+desc_buf_CS_jh_sf07_01_7=<font color="#FFAE00">兼濟天下</font>狀態：下次被攻擊時額外減免7%傷害（最多疊加5層，持續18秒）
+desc_buf_CS_jh_sf07_01_8=<font color="#FFAE00">兼濟天下</font>狀態：下次被攻擊時額外減免8%傷害（最多疊加5層，持續18秒）
+desc_buf_CS_jh_sf07_01_9=<font color="#FFAE00">兼濟天下</font>狀態：下次被攻擊時額外減免8%傷害（最多疊加5層，持續20秒）
+desc_buf_CS_jh_sf07_1=自己及周圍隊友持續獲得1層<font color="#FFAE00">兼濟天下</font>狀態：下次被攻擊時額外減免5%傷害（最多疊加5層，持續10秒）
+desc_buf_CS_jh_sf07_10=自己及周圍隊友持續獲得1層<font color="#FFAE00">兼濟天下</font>狀態：下次被攻擊時額外減免9%傷害（最多疊加5層，持續20秒）
+desc_buf_CS_jh_sf07_11=自己及周圍隊友持續獲得1層<font color="#FFAE00">兼濟天下</font>狀態：下次被攻擊時額外減免9%傷害（最多疊加5層，持續25秒）
+desc_buf_CS_jh_sf07_12=自己及周圍隊友持續獲得1層<font color="#FFAE00">兼濟天下</font>狀態：下次被攻擊時額外減免10%傷害（最多疊加5層，持續30秒）
+desc_buf_CS_jh_sf07_2=自己及周圍隊友持續獲得1層<font color="#FFAE00">兼濟天下</font>狀態：下次被攻擊時額外減免5%傷害（最多疊加5層，持續12秒）
+desc_buf_CS_jh_sf07_3=自己及周圍隊友持續獲得1層<font color="#FFAE00">兼濟天下</font>狀態：下次被攻擊時額外減免6%傷害（最多疊加5層，持續12秒）
+desc_buf_CS_jh_sf07_4=自己及周圍隊友持續獲得1層<font color="#FFAE00">兼濟天下</font>狀態：下次被攻擊時額外減免7%傷害（最多疊加5層，持續14秒）
+desc_buf_CS_jh_sf07_5=自己及周圍隊友持續獲得1層<font color="#FFAE00">兼濟天下</font>狀態：下次被攻擊時額外減免7%傷害（最多疊加5層，持續15秒）
+desc_buf_CS_jh_sf07_6=自己及周圍隊友持續獲得1層<font color="#FFAE00">兼濟天下</font>狀態：下次被攻擊時額外減免7%傷害（最多疊加5層，持續16秒）
+desc_buf_CS_jh_sf07_7=自己及周圍隊友持續獲得1層<font color="#FFAE00">兼濟天下</font>狀態：下次被攻擊時額外減免7%傷害（最多疊加5層，持續18秒）
+desc_buf_CS_jh_sf07_8=自己及周圍隊友持續獲得1層<font color="#FFAE00">兼濟天下</font>狀態：下次被攻擊時額外減免8%傷害（最多疊加5層，持續18秒）
+desc_buf_CS_jh_sf07_9=自己及周圍隊友持續獲得1層<font color="#FFAE00">兼濟天下</font>狀態：下次被攻擊時額外減免8%傷害（最多疊加5層，持續20秒）
+desc_buf_CS_jh_sf08_0=desc_buf_CS_jh_sf08_0
+desc_buf_CS_jh_sf08_1=眩暈
+desc_buf_CS_jh_sfgp06_01_0=desc_buf_CS_jh_sfgp06_01_0
+desc_buf_CS_jh_sfgp06_02_0=desc_buf_CS_jh_sfgp06_02_0
+desc_buf_adv_dzw_01_0=弒殺
+desc_buf_adv_dzw_01_1=
+desc_buf_adv_dzw_02_0=覆滅<br>禁輕功
+desc_buf_adv_dzw_02_1=
+desc_buf_adv_dzw_03_0=奔襲命中
+desc_buf_adv_dzw_03_1=
+desc_buf_adv_dzw_04_0=奔襲<br>閃避提升50%
+desc_buf_adv_dzw_04_1=
+desc_buf_adv_dzw_05_0=隱匿·破綻<br>自身攻擊時一定概率額外造成傷害
+desc_buf_adv_dzw_05_1=
+desc_buf_adv_dzw_06_0=隱匿·魅影<br>將奔襲狀態替換為「隱匿·魅影」，閃避提升100%。
+desc_buf_adv_dzw_06_1=
+desc_buf_adv_dzw_ng_01_0=心武殘篇<br>每次攻擊時，一定概率給自身疊加「守心」狀態，狀態疊加10層後，將消耗所有守心，對周圍敵方造成大量傷害，並添加「失守」狀態，移動速度降低50%，持續5秒。
+desc_buf_adv_dzw_ng_01_1=
+desc_buf_adv_dzw_ng_02_0=守心<br>狀態疊加10層後，將消耗所有守心，對周圍敵方造成大量傷害，並添加「失守」狀態
+desc_buf_adv_dzw_ng_02_1=
+desc_buf_adv_dzw_ng_03_0=失守<br>移動速度降低50%。
+desc_buf_adv_dzw_ng_03_1=
+desc_buf_adv_dzw_zj_01_0=格擋成功時，抵消本次所有傷害。
+desc_buf_adv_dzw_zj_01_1=
+desc_buf_clone047_ltn_ng_01_0=林家十六劍典<br>每次使用技能時，都將給自身添加一層劍氣，劍氣凝聚20層後，對當前目標造成50%氣血損失。
+desc_buf_clone047_ltn_ng_01_1=
+desc_buf_clone047_ltn_ng_02_0=劍氣
+desc_buf_clone047_ltn_ng_02_1=
+desc_buf_clone047_ltn_ng_03_0=劍氣爆發
+desc_buf_clone047_ltn_ng_03_1=
+desc_buf_clone047_wh_ng_01_0=修羅鬼王訣<br>每次攻擊一定概率給自身添加一層鬼王狀態，每次狀態傷害增加5%，最大可疊加10層。
+desc_buf_clone047_wh_ng_01_1=
+desc_buf_clone047_wh_ng_02_0=鬼王勁<br>傷害提升5%，可疊加10層。
+desc_buf_clone047_wh_ng_02_1=
+desc_buf_clone047_wh_zj_01_0=萬鬼寧<br>招架成功時，一定概率回復自身氣血。
+desc_buf_clone047_wh_zj_01_1=
+desc_buf_clone047ltn_01_0=每秒對周圍5米範圍內所有目標造成2%氣血損失。
+desc_buf_clone047ltn_01_1=
+desc_buf_clone047ltn_02_0=氣盛<br>移動速度降低50%
+desc_buf_clone047ltn_02_1=
+desc_buf_clone047ltn_03_0=氣絕
+desc_buf_clone047ltn_03_1=
+desc_buf_clone047ltn_04_0=氣滅<br>秒殺
+desc_buf_clone047ltn_04_1=
+desc_buf_clone047ltn_05_0=氣溟<br>所有目標造成20%氣血損失。
+desc_buf_clone047ltn_05_1=
+desc_buf_clone047ltn_06_0=氣歸<br>吸收5%氣血上限的護盾，護盾被打破時，可打斷該技能。
+desc_buf_clone047ltn_06_1=
+desc_buf_clone047wh_01_0=鬼影遁形<br>提升自身閃避了，攻擊時一定概率造成雙倍傷害，同時吸收傷害的50%轉化為自身血量
+desc_buf_clone047wh_01_1=
+desc_buf_clone047wh_02_0=魍<br>受到霧狐攻擊時，額外受到其他效果。
+desc_buf_clone047wh_02_1=
+desc_buf_clone047wh_03_0=拉近
+desc_buf_clone047wh_03_1=
+desc_buf_clone047wh_04_0=百鬼來潮<br>被命中
+desc_buf_clone047wh_04_01_0=百鬼來潮
+desc_buf_clone047wh_04_01_1=
+desc_buf_clone047wh_04_1=
+desc_buf_clone047wh_05_0=百鬼來潮<br>全場所有目標血量至1，若目標擁有「魍」狀態，則直接致死。
+desc_buf_clone047wh_05_1=
+desc_buf_clone047wh_06_0=眾神浮屠·定<br>定身昏迷，無法移動
+desc_buf_clone047wh_06_1=
+desc_buf_clone047wh_07_0=墮魂<br>移動速度降低70%，禁輕功
+desc_buf_clone047wh_07_1=
+desc_buf_clone047wh_08_0=炙血焚獄<br>即將燃燒
+desc_buf_clone047wh_08_1=炙血焚獄<br>即將燃燒
+desc_buf_clone047wh_09_0=炙血焚獄<br>即將燃燒
+desc_buf_clone047wh_09_1=炙血焚獄<br>即將燃燒
+desc_buf_clone047wh_09_range_0=炙血焚獄<br>外功防禦降低100%。
+desc_buf_clone047wh_09_range_1=炙血焚獄<br>外功防禦降低100%。
+desc_buf_jy_dy_001_0=禁言3天懲罰。50%攻擊力減少
+desc_buf_jy_dy_001_1=
+desc_buf_jy_dy_002_1=
+desc_buf_jy_dy_003_0=禁言20天懲罰。90%攻擊力減少
+desc_buf_jy_dy_003_1=
+desc_buf_xiangqi_sit_0=棋藝比拚
+desc_buf_xiangqi_sit_1=
+desc_buff_zyb_zdl2020_0=變身張丹靈
+desc_buff_zyb_zdl2020_1=
+buff_1908_dy_028=30%
+buff_1908_dy_029=70%
+buff_1908_dy_030=30%+
+buff_1908_dy_031=70%+
+desc_buff_1908_dy_028_0=30%
+desc_buff_1908_dy_029_0=70%
+desc_buff_1908_dy_030_0=30%
+desc_buff_1908_dy_031_0=30%
+buf_CS_jh_sfgp01=縱橫捭闔
+buf_CS_jh_sfgp02=異軍突起
+buf_CS_jh_sfgp02_01=異軍突起
+buf_CS_jh_sfgp04=移山填海
+buf_CS_jh_sfgp04_01=縱橫
+buf_CS_jh_sfgp05=獨善其身
+buf_CS_jh_sfgp05_01=獨善其身
+buf_CS_jh_sfgp06_03=翻手為雲(古譜)
+buf_CS_jh_sfgp06_04=翻手為雲
+buf_CS_jh_sfgp06_05=聖梅棋子
+buf_CS_jh_sfgp07=兼濟天下
+buf_CS_jh_sfgp07_01=兼濟天下·防禦
+buf_CS_jh_sfgp07_02=兼濟天下
+buf_CS_jh_sfgp08=龍游大海
+buf_CS_jh_sfgp08_npc=龍游大海-棋盤
+buf_CS_jh_sfgp08_npc_range=龍游大海-棋盤
+buf_Relive_Safe_guj_bhhd=療傷保護
+buf_mobile_cd1=驗證碼冷卻
+buf_sc_month_01=公輸玄的秘典
+buf_sc_month_01_01=公輸玄的秘典·禁足
+buf_sc_month_01_CD=公輸玄的秘典冷卻
+buf_sc_player_01=氣虛
+buf_sc_player_01_01=氣虛
+buf_sc_player_02=震地雷
+buf_sc_player_02_01=震地雷
+buff_fastgrow_sign_03_yinshi=buff_fastgrow_sign_03_yinshi
+buff_guj_bhhd_001=傷害免疫
+buff_guj_bhhd_002=傷害免疫
+buff_guj_bhhd_003=據點丟失
+buff_guj_bhhd_004=據點丟失
+buff_guj_bhhd_005=城門丟失
+buff_guj_bhhd_006=劍氣縱橫
+buff_guj_bhhd_007=活動狀態
+buff_guj_bhhd_008=傷害免疫
+buff_guj_bhhd_009=進攻方
+buff_guj_bhhd_010=防守方
+buff_guj_bhhd_011=銅牆鐵壁
+buff_guj_bhhd_012=銅牆鐵壁
+buff_guj_bhhd_013=免傷
+buff_guj_bhhd_014=結算
+buff_guj_bhhd_015=疲憊
+buff_guj_bhhd_016=封心
+buff_guj_bhhd_017=範圍
+buff_gujghhd_cd=殺意凝滯
+buff_lzy_duanwu_001=吉祥蛋
+buff_lzy_ylqj_bing001=隱鱗棋局：兵
+buff_lzy_ylqj_bing002=隱鱗棋局：卒
+buff_lzy_ylqj_bing002_cj=散落的棋子
+buff_lzy_ylqj_ju001=隱鱗棋局：車
+buff_lzy_ylqj_ju002=隱鱗棋局：車
+buff_lzy_ylqj_ma001=隱鱗棋局：傌
+buff_lzy_ylqj_ma002=隱鱗棋局：馬
+buff_lzy_ylqj_pao001=隱鱗棋局：炮
+buff_lzy_ylqj_pao002=隱鱗棋局：砲
+buff_lzy_ylqj_shi001=隱鱗棋局：仕
+buff_lzy_ylqj_shi002=隱鱗棋局：士
+buff_lzy_ylqj_shuai001=隱鱗棋局：帥
+buff_lzy_ylqj_shuai002=隱鱗棋局：將
+buff_lzy_ylqj_tzcd=挑戰失敗
+buff_lzy_ylqj_xiang001=隱鱗棋局：相
+buff_lzy_ylqj_xiang002=隱鱗棋局：象
+buff_sc_boss_01=屠殺
+buff_sc_boss_01_hp=屠殺
+buff_sc_boss_02=反噬
+buff_sc_boss_03=卸力
+buff_sc_boss_04=鴆毒
+buff_sc_boss_04_01=鴆毒
+buff_sc_monster_01=詭毒
+buff_sc_monster_01_01=詭毒
+buff_sc_monster_02=傳功
+buff_sc_monster_02_01=傳功·怒
+buff_sc_monster_02_02=傳功·回
+buff_sc_monster_03=烈焰
+buff_sc_monster_03_01=烈焰
+buff_sc_monster_04=屍毒
+buff_sc_monster_04_01=屍毒
+buff_ylqp_xl_001=buff_ylqp_xl_001
+buff_ylqp_xl_002=帥
+buff_ylqp_xl_003=士
+buff_ylqp_xl_004=相
+buff_ylqp_xl_005=車
+buff_ylqp_xl_006=馬
+buff_ylqp_xl_007=炮
+buff_ylqp_xl_008=兵
+buff_zhdmj_001=聚精會神
+desc_buf_CS_jh_sfgp01_0=desc_buf_CS_jh_sfgp01_0
+desc_buf_CS_jh_sfgp01_1=無法被擊飛擊倒擊退
+desc_buf_CS_jh_sfgp02_0=desc_buf_CS_jh_sfgp02_0
+desc_buf_CS_jh_sfgp02_01_0=desc_buf_CS_jh_sfgp02_01_0
+desc_buf_CS_jh_sfgp02_01_1=封招
+desc_buf_CS_jh_sfgp04_0=desc_buf_CS_jh_sfgp04_0
+desc_buf_CS_jh_sfgp04_01_0=desc_buf_CS_jh_sfgp04_01_0
+desc_buf_CS_jh_sfgp04_01_1=降低目標5%外功防禦，持續10秒，可疊加5層
+desc_buf_CS_jh_sfgp04_01_2=降低目標10%外功防禦，持續10秒，可疊加5層
+desc_buf_CS_jh_sfgp05_0=desc_buf_CS_jh_sfgp05_0
+desc_buf_CS_jh_sfgp05_01_0=desc_buf_CS_jh_sfgp05_01_0
+desc_buf_CS_jh_sfgp05_01_1=<font color="#FFAE00">獨善其身</font><br>本套路<font color="#f9fc00">【異軍突起（古譜）】【移山填海（古譜）】【龍游大海（古譜）】</font>招式傷害提高15%，持續10秒
+desc_buf_CS_jh_sfgp05_01_2=<font color="#FFAE00">獨善其身</font><br>本套路<font color="#f9fc00">【異軍突起（古譜）】【移山填海（古譜）】【龍游大海（古譜）】</font>招式傷害提高15%，持續10秒
+desc_buf_CS_jh_sfgp05_01_3=<font color="#FFAE00">獨善其身</font><br>本套路<font color="#f9fc00">【異軍突起（古譜）】【移山填海（古譜）】【龍游大海（古譜）】</font>招式傷害提高15%，持續11秒
+desc_buf_CS_jh_sfgp05_01_4=<font color="#FFAE00">獨善其身</font><br>本套路<font color="#f9fc00">【異軍突起（古譜）】【移山填海（古譜）】【龍游大海（古譜）】</font>招式傷害提高15%，持續12秒
+desc_buf_CS_jh_sfgp05_01_5=<font color="#FFAE00">獨善其身</font><br>本套路<font color="#f9fc00">【異軍突起（古譜）】【移山填海（古譜）】【龍游大海（古譜）】</font>招式傷害提高15%，持續12秒
+desc_buf_CS_jh_sfgp05_01_6=<font color="#FFAE00">獨善其身</font><br>本套路<font color="#f9fc00">【異軍突起（古譜）】【移山填海（古譜）】【龍游大海（古譜）】</font>招式傷害提高20%，持續12秒
+desc_buf_CS_jh_sfgp05_01_7=<font color="#FFAE00">獨善其身</font><br>本套路<font color="#f9fc00">【異軍突起（古譜）】【移山填海（古譜）】【龍游大海（古譜）】</font>招式傷害提高20%，持續12秒
+desc_buf_CS_jh_sfgp05_01_8=<font color="#FFAE00">獨善其身</font><br>本套路<font color="#f9fc00">【異軍突起（古譜）】【移山填海（古譜）】【龍游大海（古譜）】</font>招式傷害提高25%，持續12秒
+desc_buf_CS_jh_sfgp05_01_9=<font color="#FFAE00">獨善其身</font><br>本套路<font color="#f9fc00">【異軍突起（古譜）】【移山填海（古譜）】【龍游大海（古譜）】</font>招式傷害提高25%，持續12秒
+desc_buf_CS_jh_sfgp05_1=招架成功時有35%概率給自己添加一層<font color="#FFAE00">獨善其身</font>狀態：本套路<font color="#f9fc00">【異軍突起（古譜）】【移山填海（古譜）】【龍游大海（古譜）】</font>招式傷害提高15%，持續10秒
+desc_buf_CS_jh_sfgp05_2=招架成功時有40%概率給自己添加一層<font color="#FFAE00">獨善其身</font>狀態：本套路<font color="#f9fc00">【異軍突起（古譜）】【移山填海（古譜）】【龍游大海（古譜）】</font>招式傷害提高15%，持續10秒
+desc_buf_CS_jh_sfgp05_3=招架成功時有40%概率給自己添加一層<font color="#FFAE00">獨善其身</font>狀態：本套路<font color="#f9fc00">【異軍突起（古譜）】【移山填海（古譜）】【龍游大海（古譜）】</font>招式傷害提高15%，持續11秒
+desc_buf_CS_jh_sfgp05_4=招架成功時有40%概率給自己添加一層<font color="#FFAE00">獨善其身</font>狀態：本套路<font color="#f9fc00">【異軍突起（古譜）】【移山填海（古譜）】【龍游大海（古譜）】</font>招式傷害提高15%，持續12秒
+desc_buf_CS_jh_sfgp05_5=招架成功時有45%概率給自己添加一層<font color="#FFAE00">獨善其身</font>狀態：本套路<font color="#f9fc00">【異軍突起（古譜）】【移山填海（古譜）】【龍游大海（古譜）】</font>招式傷害提高15%，持續12秒
+desc_buf_CS_jh_sfgp05_6=招架成功時有45%概率給自己添加一層<font color="#FFAE00">獨善其身</font>狀態：本套路<font color="#f9fc00">【異軍突起（古譜）】【移山填海（古譜）】【龍游大海（古譜）】</font>招式傷害提高20%，持續12秒
+desc_buf_CS_jh_sfgp05_7=招架成功時有50%概率給自己添加一層<font color="#FFAE00">獨善其身</font>狀態：本套路<font color="#f9fc00">【異軍突起（古譜）】【移山填海（古譜）】【龍游大海（古譜）】</font>招式傷害提高20%，持續12秒
+desc_buf_CS_jh_sfgp05_8=招架成功時有50%概率給自己添加一層<font color="#FFAE00">獨善其身</font>狀態：本套路<font color="#f9fc00">【異軍突起（古譜）】【移山填海（古譜）】【龍游大海（古譜）】</font>招式傷害提高25%，持續12秒
+desc_buf_CS_jh_sfgp05_9=招架成功時有55%概率給自己添加一層<font color="#FFAE00">獨善其身</font>狀態：本套路<font color="#f9fc00">【異軍突起（古譜）】【移山填海（古譜）】【龍游大海（古譜）】</font>招式傷害提高25%，持續12秒
+desc_buf_CS_jh_sfgp06_03_0=desc_buf_CS_jh_sfgp06_03_0
+desc_buf_CS_jh_sfgp06_03_1=可以使用覆手為雨(古譜)
+desc_buf_CS_jh_sfgp06_04_0=desc_buf_CS_jh_sfgp06_04_0
+desc_buf_CS_jh_sfgp06_04_1=昏迷
+desc_buf_CS_jh_sfgp06_05_0=desc_buf_CS_jh_sfgp06_05_0
+desc_buf_CS_jh_sfgp06_05_1=棋子範圍擊落
+desc_buf_CS_jh_sfgp06_05_2=棋子範圍擊落
+desc_buf_CS_jh_sfgp07_0=desc_buf_CS_jh_sfgp07_0
+desc_buf_CS_jh_sfgp07_01_0=desc_buf_CS_jh_sfgp07_01_0
+desc_buf_CS_jh_sfgp07_01_1=<font color="#FFAE00">兼濟天下</font>狀態：下次被攻擊時額外減免6%傷害（最多疊加5層，持續12秒）
+desc_buf_CS_jh_sfgp07_01_10=<font color="#FFAE00">兼濟天下</font>狀態：下次被攻擊時額外減免10%傷害（最多疊加5層，持續30秒）
+desc_buf_CS_jh_sfgp07_01_11=desc_buf_CS_jh_sfgp07_01_11
+desc_buf_CS_jh_sfgp07_01_12=desc_buf_CS_jh_sfgp07_01_12
+desc_buf_CS_jh_sfgp07_01_2=<font color="#FFAE00">兼濟天下</font>狀態：下次被攻擊時額外減免7%傷害（最多疊加5層，持續14秒）
+desc_buf_CS_jh_sfgp07_01_3=<font color="#FFAE00">兼濟天下</font>狀態：下次被攻擊時額外減免7%傷害（最多疊加5層，持續15秒）
+desc_buf_CS_jh_sfgp07_01_4=<font color="#FFAE00">兼濟天下</font>狀態：下次被攻擊時額外減免7%傷害（最多疊加5層，持續16秒）
+desc_buf_CS_jh_sfgp07_01_5=<font color="#FFAE00">兼濟天下</font>狀態：下次被攻擊時額外減免7%傷害（最多疊加5層，持續18秒）
+desc_buf_CS_jh_sfgp07_01_6=<font color="#FFAE00">兼濟天下</font>狀態：下次被攻擊時額外減免8%傷害（最多疊加5層，持續18秒）
+desc_buf_CS_jh_sfgp07_01_7=<font color="#FFAE00">兼濟天下</font>狀態：下次被攻擊時額外減免8%傷害（最多疊加5層，持續20秒）
+desc_buf_CS_jh_sfgp07_01_8=<font color="#FFAE00">兼濟天下</font>狀態：下次被攻擊時額外減免9%傷害（最多疊加5層，持續20秒）
+desc_buf_CS_jh_sfgp07_01_9=<font color="#FFAE00">兼濟天下</font>狀態：下次被攻擊時額外減免9%傷害（最多疊加5層，持續25秒）
+desc_buf_CS_jh_sfgp07_02_0=desc_buf_CS_jh_sfgp07_02_0
+desc_buf_CS_jh_sfgp07_1=自己及周圍隊友持續獲得1層<font color="#FFAE00">兼濟天下</font>狀態：下次被攻擊時額外減免6%傷害（最多疊加5層，持續12秒）
+desc_buf_CS_jh_sfgp07_11=desc_buf_CS_jh_sfgp07_11
+desc_buf_CS_jh_sfgp07_12=desc_buf_CS_jh_sfgp07_12
+desc_buf_CS_jh_sfgp07_2=自己及周圍隊友持續獲得1層<font color="#FFAE00">兼濟天下</font>狀態：下次被攻擊時額外減免7%傷害（最多疊加5層，持續14秒）
+desc_buf_CS_jh_sfgp07_3=自己及周圍隊友持續獲得1層<font color="#FFAE00">兼濟天下</font>狀態：下次被攻擊時額外減免7%傷害（最多疊加5層，持續15秒）
+desc_buf_CS_jh_sfgp07_4=自己及周圍隊友持續獲得1層<font color="#FFAE00">兼濟天下</font>狀態：下次被攻擊時額外減免7%傷害（最多疊加5層，持續16秒）
+desc_buf_CS_jh_sfgp07_5=自己及周圍隊友持續獲得1層<font color="#FFAE00">兼濟天下</font>狀態：下次被攻擊時額外減免7%傷害（最多疊加5層，持續18秒）
+desc_buf_CS_jh_sfgp08_0=desc_buf_CS_jh_sfgp08_0
+desc_buf_CS_jh_sfgp08_1=眩暈
+desc_buf_CS_jh_sfgp08_npc_0=desc_buf_CS_jh_sfgp08_npc_0
+desc_buf_CS_jh_sfgp08_npc_1=desc_buf_CS_jh_sfgp08_npc_1
+desc_buf_CS_jh_sfgp08_npc_range_0=desc_buf_CS_jh_sfgp08_npc_range_0
+desc_buf_CS_jh_sfgp08_npc_range_1=受限於龍游大海（古譜）離開將被擊飛
+desc_buf_Relive_Safe_guj_bhhd_0=療傷保護，移動後不消失
+desc_buf_Relive_Safe_guj_bhhd_1=
+desc_buf_mobile_cd1_0=手機號短信驗證碼冷卻
+desc_buf_mobile_cd1_1=
+desc_buf_sc_month_01_0=公輸玄的秘典<br>受到攻擊時，一定概率給自身添加8秒的禁足狀態，該狀態下移動速度降低80%，輕功消耗加倍。
+desc_buf_sc_month_01_01_0=公輸玄的秘典·禁足<br>移動速度降低80%，輕功消耗加倍。
+desc_buf_sc_month_01_01_1=
+desc_buf_sc_month_01_1=
+desc_buf_sc_month_01_CD_0=公輸玄的秘典冷卻
+desc_buf_sc_month_01_CD_1=
+desc_buf_sc_player_01_0=氣虛<br>每隔20秒會導致內力氣虛不穩定，並在5秒後對周圍3米內的所有玩家造成30%氣血損失。
+desc_buf_sc_player_01_01_0=氣虛<br>對周圍3米內的所有玩家造成30%氣血損失。
+desc_buf_sc_player_01_01_1=
+desc_buf_sc_player_01_1=
+desc_buf_sc_player_02_0=震地雷<br>每隔20秒會在腳底出現一枚暗器震地雷，對周圍4米內的所有目標造成傷害，並昏迷5秒，點擊暗器可以擊飛暗器。
+desc_buf_sc_player_02_01_0=震地雷<br>對周圍2米內的所有目標造成傷害，並昏迷5秒，點擊暗器可以擊飛暗器。
+desc_buf_sc_player_02_01_1=
+desc_buf_sc_player_02_1=
+desc_buff_fastgrow_sign_03_yinshi_0=desc_buff_fastgrow_sign_03_yinshi_0
+desc_buff_fastgrow_sign_03_yinshi_1=
+desc_buff_guj_bhhd_001_0=傷害免疫：免疫所有傷害.
+desc_buff_guj_bhhd_001_1=
+desc_buff_guj_bhhd_002_0=傷害免疫：免疫所有傷害.
+desc_buff_guj_bhhd_002_1=
+desc_buff_guj_bhhd_003_0=據點丟失，扣除龍印一定血量.
+desc_buff_guj_bhhd_003_1=
+desc_buff_guj_bhhd_004_0=據點丟失，扣除龍印一定血量.
+desc_buff_guj_bhhd_004_1=
+desc_buff_guj_bhhd_005_0=城門丟失，扣除龍印一定血量.
+desc_buff_guj_bhhd_005_1=
+desc_buff_guj_bhhd_006_0=<font color="#f9fc00">劍氣縱橫</font><br/>誤入敵方陣營區域，被一股猛烈氣息所傷
+desc_buff_guj_bhhd_006_1=
+desc_buff_guj_bhhd_007_0=活動狀態
+desc_buff_guj_bhhd_007_1=
+desc_buff_guj_bhhd_008_0=傷害免疫：免疫所有傷害.
+desc_buff_guj_bhhd_008_1=
+desc_buff_guj_bhhd_009_0=進攻方
+desc_buff_guj_bhhd_009_1=
+desc_buff_guj_bhhd_010_0=防守方
+desc_buff_guj_bhhd_010_1=
+desc_buff_guj_bhhd_011_0=對攻擊者造成20%反彈傷害
+desc_buff_guj_bhhd_011_1=
+desc_buff_guj_bhhd_012_0=對攻擊者造成50%反彈傷害
+desc_buff_guj_bhhd_012_1=
+desc_buff_guj_bhhd_013_0=傷害免疫，與攻擊者距離越遠傷害減免越高.
+desc_buff_guj_bhhd_013_1=
+desc_buff_guj_bhhd_014_0=結算階段，俠士們將無法移動.
+desc_buff_guj_bhhd_014_1=
+desc_buff_guj_bhhd_015_0=<font color="#f9fc00">疲憊</font><br/>主動從戰場內退出，需休息5分鐘。
+desc_buff_guj_bhhd_015_1=
+desc_buff_guj_bhhd_016_0=<font color="#f9fc00">封心</font><br/>戰場內，恢復效果降低20%.
+desc_buff_guj_bhhd_016_1=
+desc_buff_guj_bhhd_017_0=區域範圍
+desc_buff_guj_bhhd_017_1=
+desc_buff_gujghhd_cd_0=<font color="#f9fc00">殺意凝滯</font><br/>在規定時間再次被擊殺，任何擊殺方都無法再獲得積分
+desc_buff_gujghhd_cd_1=
+desc_buff_lzy_duanwu_001_0=內修速度提高100%,歷練轉換速度提升100%
+desc_buff_lzy_duanwu_001_1=
+desc_buff_lzy_ylqj_bing001_0=隱鱗棋局：兵
+desc_buff_lzy_ylqj_bing001_1=
+desc_buff_lzy_ylqj_bing002_0=隱鱗棋局：卒
+desc_buff_lzy_ylqj_bing002_1=
+desc_buff_lzy_ylqj_bing002_cj_0=擁有散落的棋子
+desc_buff_lzy_ylqj_bing002_cj_1=
+desc_buff_lzy_ylqj_ju001_0=隱鱗棋局：車
+desc_buff_lzy_ylqj_ju001_1=
+desc_buff_lzy_ylqj_ju002_0=隱鱗棋局：車
+desc_buff_lzy_ylqj_ju002_1=
+desc_buff_lzy_ylqj_ma001_0=隱鱗棋局：傌
+desc_buff_lzy_ylqj_ma001_1=
+desc_buff_lzy_ylqj_ma002_0=隱鱗棋局：馬
+desc_buff_lzy_ylqj_ma002_1=
+desc_buff_lzy_ylqj_pao001_0=隱鱗棋局：炮
+desc_buff_lzy_ylqj_pao001_1=
+desc_buff_lzy_ylqj_pao002_0=隱鱗棋局：砲
+desc_buff_lzy_ylqj_pao002_1=
+desc_buff_lzy_ylqj_shi001_0=隱鱗棋局：仕
+desc_buff_lzy_ylqj_shi001_1=
+desc_buff_lzy_ylqj_shi002_0=隱鱗棋局：士
+desc_buff_lzy_ylqj_shi002_1=
+desc_buff_lzy_ylqj_shuai001_0=隱鱗棋局：帥
+desc_buff_lzy_ylqj_shuai001_1=
+desc_buff_lzy_ylqj_shuai002_0=隱鱗棋局：將
+desc_buff_lzy_ylqj_shuai002_1=
+desc_buff_lzy_ylqj_tzcd_0=挑戰失敗，休整一下才可繼續挑戰
+desc_buff_lzy_ylqj_tzcd_1=
+desc_buff_lzy_ylqj_xiang001_0=隱鱗棋局：相
+desc_buff_lzy_ylqj_xiang001_1=
+desc_buff_lzy_ylqj_xiang002_0=隱鱗棋局：象
+desc_buff_lzy_ylqj_xiang002_1=
+desc_buff_sc_boss_01_0=屠殺<br>首領攻擊目標時，額外造成50%傷害，自身最大氣血提升。
+desc_buff_sc_boss_01_1=
+desc_buff_sc_boss_01_hp_0=屠殺<br>出生後回血
+desc_buff_sc_boss_01_hp_1=
+desc_buff_sc_boss_02_0=反噬<br>首領受到攻擊時，一定概率反彈100%的傷害
+desc_buff_sc_boss_02_1=
+desc_buff_sc_boss_03_0=卸力<br>首領受到傷害時，免疫50%所有傷害，並一定概率將受到的傷害的50%轉移至周圍5米內的敵方目標。
+desc_buff_sc_boss_03_1=
+desc_buff_sc_boss_04_0=鴆毒<br>每次攻擊目標時，降低當前目標10%氣血回復速率，可疊加8層。
+desc_buff_sc_boss_04_01_0=鴆毒<br>氣血回復速率降低10%，可疊加8層
+desc_buff_sc_boss_04_01_1=
+desc_buff_sc_boss_04_1=
+desc_buff_sc_monster_01_0=詭毒<br>非首領的怪物死亡後會在原地留下一灘毒水，毒水內敵方每秒回復5%氣血，地方玩家目標每秒損失10%氣血
+desc_buff_sc_monster_01_01_0=詭毒
+desc_buff_sc_monster_01_01_1=
+desc_buff_sc_monster_01_1=
+desc_buff_sc_monster_02_0=傳功<br>非首領的怪物死亡後，會對周圍10米內的其他戰鬥中隊友添加傳功狀態，回復30%氣血，傷害提升100%。
+desc_buff_sc_monster_02_01_0=傳功·怒<br>回復30%氣血，傷害提升100%，可疊加30層。
+desc_buff_sc_monster_02_01_1=
+desc_buff_sc_monster_02_02_0=傳功·回<br>回血30%。
+desc_buff_sc_monster_02_02_1=
+desc_buff_sc_monster_02_1=
+desc_buff_sc_monster_03_0=烈焰<br>非首領的怪物每過一段時間，會在一定概率在自身身邊丟放一個枚炸彈，炸彈會在3秒後對周圍2米所有目標造成50%氣血損失。並打斷當前技能，並封招10秒。
+desc_buff_sc_monster_03_01_0=烈焰<br>對周圍3米所有目標造成50%氣血損失。並打斷當前技能，並封招10秒
+desc_buff_sc_monster_03_01_1=
+desc_buff_sc_monster_03_1=
+desc_buff_sc_monster_04_0=屍毒<br>非首領的怪物死亡時給周圍所有目標添加屍毒，屍毒每秒造成3%氣血損失，屍毒可疊加，最大疊加10層
+desc_buff_sc_monster_04_01_0=屍毒<br>每秒造成3%氣血損失，屍毒可疊加，最大疊加10層
+desc_buff_sc_monster_04_01_1=
+desc_buff_sc_monster_04_1=
+desc_buff_ylqp_xl_001_0=參悟武學
+desc_buff_ylqp_xl_001_1=參悟武學
+desc_buff_ylqp_xl_002_0=兵
+desc_buff_ylqp_xl_002_1=兵
+desc_buff_ylqp_xl_003_0=炮
+desc_buff_ylqp_xl_003_1=炮
+desc_buff_ylqp_xl_004_0=馬
+desc_buff_ylqp_xl_004_1=馬
+desc_buff_ylqp_xl_005_0=車
+desc_buff_ylqp_xl_005_1=車
+desc_buff_ylqp_xl_006_0=相
+desc_buff_ylqp_xl_006_1=相
+desc_buff_ylqp_xl_007_0=士
+desc_buff_ylqp_xl_007_1=士
+desc_buff_ylqp_xl_008_0=帥
+desc_buff_ylqp_xl_008_1=帥
+desc_buff_zhdmj_001_0=聚精會神，內修速度提高100%
+desc_buff_zhdmj_001_1=聚精會神，內修速度提高100%
+buf_CS_jh_sfgp06_01=聖梅棋局
+buf_CS_jh_sfgp06_02=聖梅棋局
+buf_erg_cg_3_001=火焰
+buff_newworld_llmk_012=標誌BUFF-大漠鬼城弟子
+desc_buf_CS_jh_sfgp06_01_1=聖梅棋局
+desc_buf_CS_jh_sfgp06_02_1=聖梅棋局
+buf_CS_jh_yqq_biaoji=野球拳標記
+buf_CS_kl_hqxxp01=自慎
+buf_CS_kl_hqxxp03=遠近相安
+buf_CS_kl_hqxxp03_1=遠近相安
+buf_CS_kl_hqxxp05=逍遙自恃
+buf_CS_kl_hqxxp05_1=逍遙自恃
+buf_CS_kl_hqxxp05_2=逍遙
+buf_CS_kl_hqxxp05_hide=逍遙自恃
+buf_CS_kl_hqxxp06=知音難覓
+buf_CS_kl_hqxxp06_1=肝腸斷
+buf_CS_kl_hqxxp06_2=肝腸斷
+buf_CS_kl_hqxxp06_hide=知音難覓（友）
+buf_CS_kl_hqxxp06_hide_1=琴瑟和鳴
+buf_CS_kl_hqxxp06_hide_2=琴瑟和鳴
+buf_CS_kl_hqxxp06_hide_3=琴瑟和鳴
+buf_CS_kl_hqxxp06_hide_cd=知音難覓冷卻
+buf_CS_kl_hqxxp07=四望溪山
+buf_CS_kl_hqxxp07_hanquan=寒泉
+buf_CS_kl_hqxxp07_hanquan_range=寒泉
+buf_CS_kl_hyjf01=濯纓
+buf_CS_kl_hyjf02=致盲
+buf_CS_kl_hyjf04=意溢於海
+buf_CS_kl_hyjf04_hide=意溢於海
+buf_CS_kl_hyjf05=白浪掀天
+buf_CS_kl_hyjf06_1=濯纓滄浪
+buf_CS_kl_hyjf06_2=濯纓滄浪
+buf_CS_kl_hyjf06_dingshen=濯纓滄浪·封招
+buf_CS_kl_hyjf06_xuanyun=濯纓滄浪·眩暈
+buf_CS_kl_syl02=朝雲暮雨
+buf_CS_kl_syl03=朝雲暮雨
+buf_CS_kl_syl05=邀月言愁
+buf_CS_kl_syl05_01=言愁
+buf_CS_kl_syl06=亂紅飄砌
+buf_CS_kl_syl06_01=亂紅飄砌
+buf_CS_kl_syl07=竹裡登樓
+buf_CS_kl_syl07_01=登樓
+buf_CS_kl_syl08=濃墨煥彩
+buf_CS_kl_syl08_01=點睛之筆
+buf_CS_kl_syl08_canglong=蒼龍印記
+buf_CS_kl_wltf05=獨臨絕頂
+buf_CS_kl_wltf05_1=威靈之力
+buf_CS_kl_wltf05_1_cd=威靈之力調息
+buf_CS_kl_wltf05_2=威靈之力爆發
+buf_CS_kl_wltf05_2_cd=天風海濤調息
+buf_CS_kl_wltf05_3=buf_CS_kl_wltf05_3
+buf_CS_kl_wltf05_4=威靈腿法附傷
+buf_CS_kl_ymchj01=月溯
+buf_CS_kl_ymchj02=凜秋
+buf_CS_kl_ymchj04=遠波空翠
+buf_CS_kl_ymchj04_dance=平心靜氣
+buf_CS_kl_ymchj05=鑿池浸月
+buf_CS_kl_ymchj05_1=浸月
+buf_CS_kl_ymchj05_2=鑿池浸月·護盾
+buf_CS_kl_ymchj05_cd=buf_CS_kl_ymchj05_cd
+buf_CS_kl_ymchj07=琴聲幽韻
+buf_CS_kl_ymchj07_1=花月美人
+buf_CS_kl_ymchj07_dance=花月美人
+buf_CS_kl_ymchj08=一醉千日
+buf_CS_kl_ymchj08_01=一醉千日
+buf_CS_kl_ymchj08_dance=一醉千日
+buf_Npc_kl_hyjf04=意溢於海
+buf_clone047_dbsl_01=丘壑
+buf_clone047_dbsl_02=禁封
+buf_clone047_dbsl_03=致盲
+buf_clone047_dbsl_ng_01=崑崙引
+buf_clone047_dbsl_ng_02=崑崙引·引
+buf_jhzb_001=聚力
+buf_jhzb_002=虹吸
+buf_jhzb_003=麥芒
+buf_jhzb_006=回源
+buf_jhzb_007=堅守
+buf_jhzb_008=狂怒
+buf_jhzb_boss_001=回溯
+buf_jhzb_boss_002=噬體
+buf_jhzb_boss_003=雁落
+buf_jhzb_boss_ng=隱
+buf_jhzb_boss_ng_01=隱·冷卻
+buf_jhzb_mon_ng=回血
+buf_kl_xm_wq=崑崙派
+buf_ng_kl_001=秋老訣
+buf_ng_kl_001_1=鶴髮童顏
+buf_ng_kl_001_2=衰老
+buf_ng_kl_001_cd=秋老訣內置CD
+buf_ng_kl_002=驕陽訣
+buf_ng_kl_002_1=驕陽真氣
+buf_ng_kl_002_2=驕陽傳染
+buf_ng_kl_003=清談訣
+buf_ng_kl_003_1=步履蹣跚
+buf_ng_kl_003_2=震傷
+buf_ng_kl_003_jiansu=減速
+buf_ng_kl_004=淇奧訣
+buf_ng_kl_004_1=失調音律
+buf_ng_kl_004_1a=琴瑟調和·御
+buf_ng_kl_004_1ax=琴瑟調和防禦提高
+buf_ng_kl_004_2=悅耳音律
+buf_ng_kl_004_2a=琴瑟調和·力
+buf_ng_kl_004_2ax=琴瑟調和傷害提高
+buf_ng_kl_004_cd=琴瑟調和冷卻
+buf_ng_kl_005=風起訣
+buf_ng_kl_005_2=意氣風發
+buf_ng_kl_005_biaoji=清風佛面標記
+buf_ng_kl_005_biaoji2=意氣風發標記
+buf_ng_kl_005_cd=清風佛面冷卻
+buf_ng_kl_005_cd2=仙風道骨減冷卻
+buf_ng_kl_006=崑崙引
+buf_ng_kl_006_1=崑崙勁
+buf_ng_kl_006_2=定身
+buf_ng_kl_006_cd=崑崙引內置CD
+buf_ng_npc_kl_001=秋老訣
+buf_ng_npc_kl_002=驕陽訣
+buf_ng_npc_kl_003=清淡訣
+buf_sc_month_02=四季輪轉·夏
+buf_sc_month_02_01=炎夏
+buf_sc_month_02_02=暴怒
+buf_sc_month_02_CD=四季輪轉·夏冷卻
+buff_20200701_putuan_001=武道空靈
+buff_mpz_gujboss_bipin_012=比拚中
+buff_mpz_gujian_kunlun=崑崙
+buff_task_klp_hmp=入門審核
+buff_xmphd_klngjs_001=崑崙內功晉陞
+desc_buf_CS_jh_yqq_biaoji_0=desc_CS_jh_yqq_biaoji_0
+desc_buf_CS_jh_yqq_biaoji_1=野球拳標記
+desc_buf_CS_kl_hqxxp01_0=desc_buf_CS_kl_hqxxp01_0
+desc_buf_CS_kl_hqxxp01_1=<font color="#FFAE00">自慎</font><br>減速15%，持續10秒，可疊加3層
+desc_buf_CS_kl_hqxxp03_0=desc_buf_CS_kl_hqxxp03_0
+desc_buf_CS_kl_hqxxp03_1=<font color="#FFAE00">遠近相安</font><br>5秒內靠近自身10米範圍內則<font color="#f9fc00">定身</font>3秒
+desc_buf_CS_kl_hqxxp03_1_0=desc_buf_CS_kl_hqxxp03_1_0
+desc_buf_CS_kl_hqxxp03_1_1=定身
+desc_buf_CS_kl_hqxxp05_0=desc_buf_CS_kl_hqxxp05_0
+desc_buf_CS_kl_hqxxp05_1=招架成功自身獲得一層<font color="#f9fc00">逍遙自恃</font>持續30秒可疊加5層
+desc_buf_CS_kl_hqxxp05_1_0=desc_buf_CS_kl_hqxxp05_1_0
+desc_buf_CS_kl_hqxxp05_1_1=逍遙自恃
+desc_buf_CS_kl_hqxxp05_2=
+desc_buf_CS_kl_hqxxp05_2_0=desc_buf_CS_kl_hqxxp05_2_0
+desc_buf_CS_kl_hqxxp05_2_1=免疫移動限制
+desc_buf_CS_kl_hqxxp05_hide_0=desc_CS_kl_hqxxp05_hide_0
+desc_buf_CS_kl_hqxxp05_hide_1=變招標誌
+desc_buf_CS_kl_hqxxp06_0=desc_buf_CS_kl_hqxxp06_0
+desc_buf_CS_kl_hqxxp06_1=<font color="#FFAE00">知音難覓</font>狀態<br>知音難覓：目標招式<font color="#FFAE00">內力消耗</font>提高100%，目標出招時，所用招式非崑崙派琴類武學時將會獲得一層<font color="#FFAE00">肝腸斷</font>狀態，<font color="#f9fc00">命中率</font>降低10%，最多疊加3層，持續10秒。<font color="#FFAE00">肝腸斷</font>狀態疊加至3層時會額外使其<font color="#f9fc00">命中率</font>降低100%，持續至10秒內下一次出招。<br>肝腸斷狀態疊加至3層或雙方距離超過15米，移除雙方的知音難覓狀態。
+desc_buf_CS_kl_hqxxp06_1_0=desc_buf_CS_kl_hqxxp06_1_0
+desc_buf_CS_kl_hqxxp06_1_1=命中率降低10%
+desc_buf_CS_kl_hqxxp06_2_0=desc_buf_CS_kl_hqxxp06_2_0
+desc_buf_CS_kl_hqxxp06_2_1=命中率降低100%
+desc_buf_CS_kl_hqxxp06_hide_0=desc_buf_CS_kl_hqxxp06_hide_0
+desc_buf_CS_kl_hqxxp06_hide_1=知音難覓（友）：招式內力消耗降低50%，目標出招時，所用招式為崑崙派琴類武學時，則目標與自身獲得一層<font color="#FFAE00">琴瑟和鳴</font>狀態,所有崑崙琴類武學<font color="#f9fc00">傷害提高</font>10% 最多疊加3層，持續10秒。<font color="#FFAE00">琴瑟和鳴</font>狀態疊加至3層時，額外使雙方10秒內下一次釋放崑崙琴類武學怒氣招式<font color="#f9fc00">免受負面狀態</font>影響。琴瑟和鳴狀態疊加至3層時或雙方距離超過15米，移除雙方的知音難覓（友）狀態。
+desc_buf_CS_kl_hqxxp06_hide_1_0=desc_buf_CS_kl_hqxxp06_hide_1_0
+desc_buf_CS_kl_hqxxp06_hide_1_1=<font color="#FFAE00">琴瑟和鳴</font><br>所有崑崙琴類武學<font color="#f9fc00">傷害提高</font>10% 最多疊加3層，持續10秒。
+desc_buf_CS_kl_hqxxp06_hide_2_0=desc_buf_CS_kl_hqxxp06_hide_2_0
+desc_buf_CS_kl_hqxxp06_hide_2_1=下一次釋放崑崙琴類武學怒氣招式<font color="#f9fc00">免受負面狀態</font>影響
+desc_buf_CS_kl_hqxxp06_hide_3_0=desc_buf_CS_kl_hqxxp06_hide_3_0
+desc_buf_CS_kl_hqxxp06_hide_3_1=免疫負面狀態
+desc_buf_CS_kl_hqxxp06_hide_cd_0=desc_buf_CS_kl_hqxxp06_hide_cd_0
+desc_buf_CS_kl_hqxxp06_hide_cd_1=知音難覓冷卻
+desc_buf_CS_kl_hqxxp07_0=desc_buf_CS_kl_hqxxp07_0
+desc_buf_CS_kl_hqxxp07_1=定身
+desc_buf_CS_kl_hqxxp07_hanquan_0=desc_buf_CS_kl_hqxxp07_hanquan_0
+desc_buf_CS_kl_hqxxp07_hanquan_1=寒泉
+desc_buf_CS_kl_hqxxp07_hanquan_range_0=desc_buf_CS_kl_hqxxp07_hanquan_range_0
+desc_buf_CS_kl_hqxxp07_hanquan_range_1=閃避暗器攻擊
+desc_buf_CS_kl_hyjf01_0=desc_buf_CS_kl_hyjf01_0
+desc_buf_CS_kl_hyjf01_1=濯纓<br>減速10%
+desc_buf_CS_kl_hyjf02_0=desc_buf_CS_kl_hyjf02_0
+desc_buf_CS_kl_hyjf02_1=<font color="#f9fc00">致盲</font><br>視野降低，丟失目標
+desc_buf_CS_kl_hyjf04_0=desc_buf_CS_kl_hyjf04_0
+desc_buf_CS_kl_hyjf04_1=<font color="#f9fc00">意溢於海</font><br/>反守為攻
+desc_buf_CS_kl_hyjf04_hide_0=desc_buf_CS_kl_hyjf04_hide_0
+desc_buf_CS_kl_hyjf04_hide_1=釋放【白浪掀天】時可使招式傷害越來越高
+desc_buf_CS_kl_hyjf05_0=desc_buf_CS_kl_hyjf05_0
+desc_buf_CS_kl_hyjf05_1=desc_buf_CS_kl_hyjf05_0
+desc_buf_CS_kl_hyjf06_1_0=desc_buf_CS_kl_hyjf06_1_0
+desc_buf_CS_kl_hyjf06_1_1=不能攻擊
+desc_buf_CS_kl_hyjf06_2_0=desc_buf_CS_kl_hyjf06_2_0
+desc_buf_CS_kl_hyjf06_2_1=desc_buf_CS_kl_hyjf06_2_1
+desc_buf_CS_kl_hyjf06_dingshen_0=desc_buf_CS_kl_hyjf06_dingshen_0
+desc_buf_CS_kl_hyjf06_dingshen_1=濯纓滄浪·封招
+desc_buf_CS_kl_hyjf06_xuanyun_0=desc_buf_CS_kl_hyjf06_xuanyun_0
+desc_buf_CS_kl_hyjf06_xuanyun_1=濯纓滄浪·眩暈
+desc_buf_CS_kl_syl02_0=desc_buf_CS_kl_syl02_0
+desc_buf_CS_kl_syl02_1=<font color="#f9fc00">朝雲暮雨</font><br/>無法使用輕功且減速50%
+desc_buf_CS_kl_syl03_0=desc_buf_CS_kl_syl03_0
+desc_buf_CS_kl_syl03_1=<font color="#f9fc00">朝雲暮雨</font><br/>無法使用輕功且減速50%
+desc_buf_CS_kl_syl05_0=desc_buf_CS_kl_syl05_0
+desc_buf_CS_kl_syl05_01_0=desc_buf_CS_kl_syl05_01_0
+desc_buf_CS_kl_syl05_01_1=未招架時受到傷害會消耗一層<font color="#FFAE00">言愁</font>恢復自身一定量的氣血
+desc_buf_CS_kl_syl05_01_10=未招架時受到傷害會消耗一層<font color="#FFAE00">言愁</font>恢復自身一定量的氣血
+desc_buf_CS_kl_syl05_01_2=未招架時受到傷害會消耗一層<font color="#FFAE00">言愁</font>恢復自身一定量的氣血
+desc_buf_CS_kl_syl05_01_3=未招架時受到傷害會消耗一層<font color="#FFAE00">言愁</font>恢復自身一定量的氣血
+desc_buf_CS_kl_syl05_01_4=未招架時受到傷害會消耗一層<font color="#FFAE00">言愁</font>恢復自身一定量的氣血
+desc_buf_CS_kl_syl05_01_5=未招架時受到傷害會消耗一層<font color="#FFAE00">言愁</font>恢復自身一定量的氣血
+desc_buf_CS_kl_syl05_01_6=未招架時受到傷害會消耗一層<font color="#FFAE00">言愁</font>恢復自身一定量的氣血
+desc_buf_CS_kl_syl05_01_7=未招架時受到傷害會消耗一層<font color="#FFAE00">言愁</font>恢復自身一定量的氣血
+desc_buf_CS_kl_syl05_01_8=未招架時受到傷害會消耗一層<font color="#FFAE00">言愁</font>恢復自身一定量的氣血
+desc_buf_CS_kl_syl05_01_9=未招架時受到傷害會消耗一層<font color="#FFAE00">言愁</font>恢復自身一定量的氣血
+desc_buf_CS_kl_syl05_1=招架成功為自己添加一層<font color="#FFAE00">言愁</font>。未招架時受到傷害會消耗一層<font color="#FFAE00">言愁</font>恢復自身一定量的氣血
+desc_buf_CS_kl_syl05_10=招架成功為自己添加一層<font color="#FFAE00">言愁</font>。未招架時受到傷害會消耗一層<font color="#FFAE00">言愁</font>恢復自身一定量的氣血
+desc_buf_CS_kl_syl05_2=招架成功為自己添加一層<font color="#FFAE00">言愁</font>。未招架時受到傷害會消耗一層<font color="#FFAE00">言愁</font>恢復自身一定量的氣血
+desc_buf_CS_kl_syl05_3=招架成功為自己添加一層<font color="#FFAE00">言愁</font>。未招架時受到傷害會消耗一層<font color="#FFAE00">言愁</font>恢復自身一定量的氣血
+desc_buf_CS_kl_syl05_4=招架成功為自己添加一層<font color="#FFAE00">言愁</font>。未招架時受到傷害會消耗一層<font color="#FFAE00">言愁</font>恢復自身一定量的氣血
+desc_buf_CS_kl_syl05_5=招架成功為自己添加一層<font color="#FFAE00">言愁</font>。未招架時受到傷害會消耗一層<font color="#FFAE00">言愁</font>恢復自身一定量的氣血
+desc_buf_CS_kl_syl05_6=招架成功為自己添加一層<font color="#FFAE00">言愁</font>。未招架時受到傷害會消耗一層<font color="#FFAE00">言愁</font>恢復自身一定量的氣血
+desc_buf_CS_kl_syl05_7=招架成功為自己添加一層<font color="#FFAE00">言愁</font>。未招架時受到傷害會消耗一層<font color="#FFAE00">言愁</font>恢復自身一定量的氣血
+desc_buf_CS_kl_syl05_8=招架成功為自己添加一層<font color="#FFAE00">言愁</font>。未招架時受到傷害會消耗一層<font color="#FFAE00">言愁</font>恢復自身一定量的氣血
+desc_buf_CS_kl_syl05_9=招架成功為自己添加一層<font color="#FFAE00">言愁</font>。未招架時受到傷害會消耗一層<font color="#FFAE00">言愁</font>恢復自身一定量的氣血
+desc_buf_CS_kl_syl06_0=desc_buf_CS_kl_syl06_0
+desc_buf_CS_kl_syl06_01_0=desc_buf_CS_kl_syl06_01_0
+desc_buf_CS_kl_syl06_01_1=定身
+desc_buf_CS_kl_syl06_1=禁輕功
+desc_buf_CS_kl_syl07_0=desc_buf_CS_kl_syl07_0
+desc_buf_CS_kl_syl07_01_0=desc_buf_CS_kl_syl07_01_0
+desc_buf_CS_kl_syl07_01_1=每層登樓降低招式<font color="#FFAE00">內力消耗</font>30%，每3秒衰減一層，每次衰減額外獲得一層<font color="#FFAE00">點睛之筆</font>
+desc_buf_CS_kl_syl07_1=提高50%<font color="#FFAE00">命中率</font>
+desc_buf_CS_kl_syl08_0=desc_buf_CS_kl_syl08_0
+desc_buf_CS_kl_syl08_01_0=desc_buf_CS_kl_syl08_01_0
+desc_buf_CS_kl_syl08_01_1=點睛之筆
+desc_buf_CS_kl_syl08_1=濃墨煥彩
+desc_buf_CS_kl_syl08_canglong_0=desc_buf_CS_kl_syl08_canglong_0
+desc_buf_CS_kl_syl08_canglong_1=蒼龍印記
+desc_buf_CS_kl_wltf05_0=格擋成功時積蓄一縷<font color="#FFAE00">威靈之力</font>持續15秒可疊加5層。使用本套路<font color="#f9fc00">【目極千里】</font>成功破防後或本套路<font color="#f9fc00">【飄搖八極】</font>命中未招架目標後，<font color="#FFAE00">威靈之力</font>將爆發，每層<font color="#FFAE00">威靈之力</font>使本套路招式威力提高10%。<br><font color="#FFAE00">威靈之力</font>爆發後持續5秒消散<br><font color="#FFAE00">威靈之力</font>爆發後5秒內無法再次獲得<font color="#FFAE00">威靈之力</font>
+desc_buf_CS_kl_wltf05_1=願乘冷風，舉手近月。格擋成功時積蓄一縷<font color="#FFAE00">威靈之力</font>持續15秒可疊加5層。使用本套路<font color="#f9fc00">【目極千里】</font>成功破防後或本套路<font color="#f9fc00">【飄搖八極】</font>命中未招架目標後，<font color="#FFAE00">威靈之力</font>將爆發，每層<font color="#FFAE00">威靈之力</font>使本套路招式威力提高10%，並每擊附加傷害。<br><font color="#FFAE00">威靈之力</font>爆發後持續10秒消散<br><font color="#FFAE00">威靈之力</font>爆發後15秒內無法再次獲得<font color="#FFAE00">威靈之力</font><br>升級招式將提高附傷傷害
+desc_buf_CS_kl_wltf05_1_0=desc_buf_CS_kl_wltf05_1_0
+desc_buf_CS_kl_wltf05_1_1=<font color="#FFAE00">威靈之力</font>持續15秒可疊加5層。
+desc_buf_CS_kl_wltf05_1_cd_0=desc_buf_CS_kl_wltf05_1_cd_0
+desc_buf_CS_kl_wltf05_1_cd_1=無法獲得威靈之力
+desc_buf_CS_kl_wltf05_2_0=desc_buf_CS_kl_wltf05_2_0
+desc_buf_CS_kl_wltf05_2_1=套路招式威力提高10%，並每擊附加傷害
+desc_buf_CS_kl_wltf05_2_cd_0=desc_buf_CS_kl_wltf05_2_cd_0
+desc_buf_CS_kl_wltf05_2_cd_1=天風海濤調息
+desc_buf_CS_kl_wltf05_3_0=desc_buf_CS_kl_wltf05_3_0
+desc_buf_CS_kl_wltf05_3_1=desc_buf_CS_kl_wltf05_3_1
+desc_buf_CS_kl_wltf05_4_0=desc_buf_CS_kl_wltf05_4_0
+desc_buf_CS_kl_wltf05_4_1=威靈腿法附傷
+desc_buf_CS_kl_wltf05_4_10=威靈腿法附傷
+desc_buf_CS_kl_wltf05_4_11=威靈腿法附傷
+desc_buf_CS_kl_wltf05_4_12=威靈腿法附傷
+desc_buf_CS_kl_wltf05_4_13=威靈腿法附傷
+desc_buf_CS_kl_wltf05_4_2=威靈腿法附傷
+desc_buf_CS_kl_wltf05_4_3=威靈腿法附傷
+desc_buf_CS_kl_wltf05_4_4=威靈腿法附傷
+desc_buf_CS_kl_wltf05_4_5=威靈腿法附傷
+desc_buf_CS_kl_wltf05_4_6=威靈腿法附傷
+desc_buf_CS_kl_wltf05_4_7=威靈腿法附傷
+desc_buf_CS_kl_wltf05_4_8=威靈腿法附傷
+desc_buf_CS_kl_wltf05_4_9=威靈腿法附傷
+desc_buf_CS_kl_ymchj01_0=desc_buf_CS_kl_ymchj01_0
+desc_buf_CS_kl_ymchj01_1=<font color="#FFAE00">月溯</font><br>降低15%<font color="#FFAE00">移速</font>及3%<font color="#FFAE00">內功防禦</font>，持續10秒，最多可疊加5層。
+desc_buf_CS_kl_ymchj02_0=desc_buf_CS_kl_ymchj02_0
+desc_buf_CS_kl_ymchj02_1=<font color="#f9fc00">封招</font>
+desc_buf_CS_kl_ymchj04_0=desc_buf_CS_kl_ymchj04_0
+desc_buf_CS_kl_ymchj04_1=禁輕功
+desc_buf_CS_kl_ymchj04_dance_0=desc_buf_CS_kl_ymchj04_dance_0
+desc_buf_CS_kl_ymchj04_dance_1=平心靜氣，翩躚起舞
+desc_buf_CS_kl_ymchj05_0=desc_CS_kl_ymchj05_0
+desc_buf_CS_kl_ymchj05_1=格擋成功為自己添加一層<font color="#FFAE00">浸月</font>：被暴擊時，為自己撐起一道<font color="#f9fc00">護盾</font>，目標攻擊<font color="#f9fc00">護盾</font>將給目標添加一層<font color="#FFAE00">月溯</font>狀態，浸月存在15秒最多可疊加5層<br><font color="#f9fc00">護盾</font>吸收量隨招式等級及<font color="#FFAE00">浸月</font>層數提高而提高，<font color="#f9fc00">護盾</font>消散時清除所有<font color="#FFAE00">浸月</font>狀態且5秒內無法再次獲得<br>切換套路清除<font color="#FFAE00">浸月</font>及<font color="#f9fc00">護盾</font>效果
+desc_buf_CS_kl_ymchj05_10=格擋成功為自己添加一層<font color="#FFAE00">浸月</font>：被暴擊時，為自己撐起一道<font color="#f9fc00">護盾</font>，目標攻擊<font color="#f9fc00">護盾</font>將給目標添加一層<font color="#FFAE00">月溯</font>狀態，浸月存在15秒最多可疊加5層<br><font color="#f9fc00">護盾</font>吸收量隨招式等級及<font color="#FFAE00">浸月</font>層數提高而提高，<font color="#f9fc00">護盾</font>消散時清除所有<font color="#FFAE00">浸月</font>狀態且5秒內無法再次獲得<br>切換套路清除<font color="#FFAE00">浸月</font>及<font color="#f9fc00">護盾</font>效果
+desc_buf_CS_kl_ymchj05_1_0=desc_buf_CS_kl_ymchj05_1_0
+desc_buf_CS_kl_ymchj05_1_1=被暴擊時，為自己撐起一道<font color="#f9fc00">護盾</font>，目標攻擊<font color="#f9fc00">護盾</font>將給目標添加一層<font color="#FFAE00">月溯</font>狀態，浸月存在15秒最多可疊加5層
+desc_buf_CS_kl_ymchj05_1_10=被暴擊時，為自己撐起一道<font color="#f9fc00">護盾</font>，目標攻擊<font color="#f9fc00">護盾</font>將給目標添加一層<font color="#FFAE00">月溯</font>狀態，浸月存在15秒最多可疊加5層
+desc_buf_CS_kl_ymchj05_1_2=被暴擊時，為自己撐起一道<font color="#f9fc00">護盾</font>，目標攻擊<font color="#f9fc00">護盾</font>將給目標添加一層<font color="#FFAE00">月溯</font>狀態，浸月存在15秒最多可疊加5層
+desc_buf_CS_kl_ymchj05_1_3=被暴擊時，為自己撐起一道<font color="#f9fc00">護盾</font>，目標攻擊<font color="#f9fc00">護盾</font>將給目標添加一層<font color="#FFAE00">月溯</font>狀態，浸月存在15秒最多可疊加5層
+desc_buf_CS_kl_ymchj05_1_4=被暴擊時，為自己撐起一道<font color="#f9fc00">護盾</font>，目標攻擊<font color="#f9fc00">護盾</font>將給目標添加一層<font color="#FFAE00">月溯</font>狀態，浸月存在15秒最多可疊加5層
+desc_buf_CS_kl_ymchj05_1_5=被暴擊時，為自己撐起一道<font color="#f9fc00">護盾</font>，目標攻擊<font color="#f9fc00">護盾</font>將給目標添加一層<font color="#FFAE00">月溯</font>狀態，浸月存在15秒最多可疊加5層
+desc_buf_CS_kl_ymchj05_1_6=被暴擊時，為自己撐起一道<font color="#f9fc00">護盾</font>，目標攻擊<font color="#f9fc00">護盾</font>將給目標添加一層<font color="#FFAE00">月溯</font>狀態，浸月存在15秒最多可疊加5層
+desc_buf_CS_kl_ymchj05_1_7=被暴擊時，為自己撐起一道<font color="#f9fc00">護盾</font>，目標攻擊<font color="#f9fc00">護盾</font>將給目標添加一層<font color="#FFAE00">月溯</font>狀態，浸月存在15秒最多可疊加5層
+desc_buf_CS_kl_ymchj05_1_8=被暴擊時，為自己撐起一道<font color="#f9fc00">護盾</font>，目標攻擊<font color="#f9fc00">護盾</font>將給目標添加一層<font color="#FFAE00">月溯</font>狀態，浸月存在15秒最多可疊加5層
+desc_buf_CS_kl_ymchj05_1_9=被暴擊時，為自己撐起一道<font color="#f9fc00">護盾</font>，目標攻擊<font color="#f9fc00">護盾</font>將給目標添加一層<font color="#FFAE00">月溯</font>狀態，浸月存在15秒最多可疊加5層
+desc_buf_CS_kl_ymchj05_2=格擋成功為自己添加一層<font color="#FFAE00">浸月</font>：被暴擊時，為自己撐起一道<font color="#f9fc00">護盾</font>，目標攻擊<font color="#f9fc00">護盾</font>將給目標添加一層<font color="#FFAE00">月溯</font>狀態，浸月存在15秒最多可疊加5層<br><font color="#f9fc00">護盾</font>吸收量隨招式等級及<font color="#FFAE00">浸月</font>層數提高而提高，<font color="#f9fc00">護盾</font>消散時清除所有<font color="#FFAE00">浸月</font>狀態且5秒內無法再次獲得<br>切換套路清除<font color="#FFAE00">浸月</font>及<font color="#f9fc00">護盾</font>效果
+desc_buf_CS_kl_ymchj05_2_0=desc_buf_CS_kl_ymchj05_2_0
+desc_buf_CS_kl_ymchj05_2_1=為自己撐起一道<font color="#f9fc00">護盾</font>，目標攻擊<font color="#f9fc00">護盾</font>將給目標添加一層<font color="#FFAE00">月溯</font>狀態
+desc_buf_CS_kl_ymchj05_2_10=為自己撐起一道<font color="#f9fc00">護盾</font>，目標攻擊<font color="#f9fc00">護盾</font>將給目標添加一層<font color="#FFAE00">月溯</font>狀態
+desc_buf_CS_kl_ymchj05_2_2=為自己撐起一道<font color="#f9fc00">護盾</font>，目標攻擊<font color="#f9fc00">護盾</font>將給目標添加一層<font color="#FFAE00">月溯</font>狀態
+desc_buf_CS_kl_ymchj05_2_3=為自己撐起一道<font color="#f9fc00">護盾</font>，目標攻擊<font color="#f9fc00">護盾</font>將給目標添加一層<font color="#FFAE00">月溯</font>狀態
+desc_buf_CS_kl_ymchj05_2_4=為自己撐起一道<font color="#f9fc00">護盾</font>，目標攻擊<font color="#f9fc00">護盾</font>將給目標添加一層<font color="#FFAE00">月溯</font>狀態
+desc_buf_CS_kl_ymchj05_2_5=為自己撐起一道<font color="#f9fc00">護盾</font>，目標攻擊<font color="#f9fc00">護盾</font>將給目標添加一層<font color="#FFAE00">月溯</font>狀態
+desc_buf_CS_kl_ymchj05_2_6=為自己撐起一道<font color="#f9fc00">護盾</font>，目標攻擊<font color="#f9fc00">護盾</font>將給目標添加一層<font color="#FFAE00">月溯</font>狀態
+desc_buf_CS_kl_ymchj05_2_7=為自己撐起一道<font color="#f9fc00">護盾</font>，目標攻擊<font color="#f9fc00">護盾</font>將給目標添加一層<font color="#FFAE00">月溯</font>狀態
+desc_buf_CS_kl_ymchj05_2_8=為自己撐起一道<font color="#f9fc00">護盾</font>，目標攻擊<font color="#f9fc00">護盾</font>將給目標添加一層<font color="#FFAE00">月溯</font>狀態
+desc_buf_CS_kl_ymchj05_2_9=為自己撐起一道<font color="#f9fc00">護盾</font>，目標攻擊<font color="#f9fc00">護盾</font>將給目標添加一層<font color="#FFAE00">月溯</font>狀態
+desc_buf_CS_kl_ymchj05_3=格擋成功為自己添加一層<font color="#FFAE00">浸月</font>：被暴擊時，為自己撐起一道<font color="#f9fc00">護盾</font>，目標攻擊<font color="#f9fc00">護盾</font>將給目標添加一層<font color="#FFAE00">月溯</font>狀態，浸月存在15秒最多可疊加5層<br><font color="#f9fc00">護盾</font>吸收量隨招式等級及<font color="#FFAE00">浸月</font>層數提高而提高，<font color="#f9fc00">護盾</font>消散時清除所有<font color="#FFAE00">浸月</font>狀態且5秒內無法再次獲得<br>切換套路清除<font color="#FFAE00">浸月</font>及<font color="#f9fc00">護盾</font>效果
+desc_buf_CS_kl_ymchj05_4=格擋成功為自己添加一層<font color="#FFAE00">浸月</font>：被暴擊時，為自己撐起一道<font color="#f9fc00">護盾</font>，目標攻擊<font color="#f9fc00">護盾</font>將給目標添加一層<font color="#FFAE00">月溯</font>狀態，浸月存在15秒最多可疊加5層<br><font color="#f9fc00">護盾</font>吸收量隨招式等級及<font color="#FFAE00">浸月</font>層數提高而提高，<font color="#f9fc00">護盾</font>消散時清除所有<font color="#FFAE00">浸月</font>狀態且5秒內無法再次獲得<br>切換套路清除<font color="#FFAE00">浸月</font>及<font color="#f9fc00">護盾</font>效果
+desc_buf_CS_kl_ymchj05_5=格擋成功為自己添加一層<font color="#FFAE00">浸月</font>：被暴擊時，為自己撐起一道<font color="#f9fc00">護盾</font>，目標攻擊<font color="#f9fc00">護盾</font>將給目標添加一層<font color="#FFAE00">月溯</font>狀態，浸月存在15秒最多可疊加5層<br><font color="#f9fc00">護盾</font>吸收量隨招式等級及<font color="#FFAE00">浸月</font>層數提高而提高，<font color="#f9fc00">護盾</font>消散時清除所有<font color="#FFAE00">浸月</font>狀態且5秒內無法再次獲得<br>切換套路清除<font color="#FFAE00">浸月</font>及<font color="#f9fc00">護盾</font>效果
+desc_buf_CS_kl_ymchj05_6=格擋成功為自己添加一層<font color="#FFAE00">浸月</font>：被暴擊時，為自己撐起一道<font color="#f9fc00">護盾</font>，目標攻擊<font color="#f9fc00">護盾</font>將給目標添加一層<font color="#FFAE00">月溯</font>狀態，浸月存在15秒最多可疊加5層<br><font color="#f9fc00">護盾</font>吸收量隨招式等級及<font color="#FFAE00">浸月</font>層數提高而提高，<font color="#f9fc00">護盾</font>消散時清除所有<font color="#FFAE00">浸月</font>狀態且5秒內無法再次獲得<br>切換套路清除<font color="#FFAE00">浸月</font>及<font color="#f9fc00">護盾</font>效果
+desc_buf_CS_kl_ymchj05_7=格擋成功為自己添加一層<font color="#FFAE00">浸月</font>：被暴擊時，為自己撐起一道<font color="#f9fc00">護盾</font>，目標攻擊<font color="#f9fc00">護盾</font>將給目標添加一層<font color="#FFAE00">月溯</font>狀態，浸月存在15秒最多可疊加5層<br><font color="#f9fc00">護盾</font>吸收量隨招式等級及<font color="#FFAE00">浸月</font>層數提高而提高，<font color="#f9fc00">護盾</font>消散時清除所有<font color="#FFAE00">浸月</font>狀態且5秒內無法再次獲得<br>切換套路清除<font color="#FFAE00">浸月</font>及<font color="#f9fc00">護盾</font>效果
+desc_buf_CS_kl_ymchj05_8=格擋成功為自己添加一層<font color="#FFAE00">浸月</font>：被暴擊時，為自己撐起一道<font color="#f9fc00">護盾</font>，目標攻擊<font color="#f9fc00">護盾</font>將給目標添加一層<font color="#FFAE00">月溯</font>狀態，浸月存在15秒最多可疊加5層<br><font color="#f9fc00">護盾</font>吸收量隨招式等級及<font color="#FFAE00">浸月</font>層數提高而提高，<font color="#f9fc00">護盾</font>消散時清除所有<font color="#FFAE00">浸月</font>狀態且5秒內無法再次獲得<br>切換套路清除<font color="#FFAE00">浸月</font>及<font color="#f9fc00">護盾</font>效果
+desc_buf_CS_kl_ymchj05_9=格擋成功為自己添加一層<font color="#FFAE00">浸月</font>：被暴擊時，為自己撐起一道<font color="#f9fc00">護盾</font>，目標攻擊<font color="#f9fc00">護盾</font>將給目標添加一層<font color="#FFAE00">月溯</font>狀態，浸月存在15秒最多可疊加5層<br><font color="#f9fc00">護盾</font>吸收量隨招式等級及<font color="#FFAE00">浸月</font>層數提高而提高，<font color="#f9fc00">護盾</font>消散時清除所有<font color="#FFAE00">浸月</font>狀態且5秒內無法再次獲得<br>切換套路清除<font color="#FFAE00">浸月</font>及<font color="#f9fc00">護盾</font>效果
+desc_buf_CS_kl_ymchj05_cd_0=desc_buf_CS_kl_ymchj05_cd_0
+desc_buf_CS_kl_ymchj05_cd_1=desc_buf_CS_kl_ymchj05_cd_1
+desc_buf_CS_kl_ymchj07_0=desc_buf_CS_kl_ymchj07_0
+desc_buf_CS_kl_ymchj07_1=琴聲幽韻：<font color="#FFAE00">無法被鎖定招式衝鋒</font>
+desc_buf_CS_kl_ymchj07_1_0=desc_buf_CS_kl_ymchj07_1_0
+desc_buf_CS_kl_ymchj07_1_1=妄圖攻擊自身之敵將消耗一層<font color="#FFAE00">花月美人</font>使其<font color="#f9fc00">翩躚起舞</font>3秒（亂花迷眼，即使受到傷害也不會清醒）並為其添加一層<font color="#FFAE00">月溯</font>。<font color="#FFAE00">花月美人</font>狀態持續5秒最多疊加3層
+desc_buf_CS_kl_ymchj07_dance_0=desc_buf_CS_kl_ymchj07_dance_0
+desc_buf_CS_kl_ymchj07_dance_1=亂花迷眼，翩躚起舞
+desc_buf_CS_kl_ymchj08_0=desc_buf_CS_kl_ymchj08_0
+desc_buf_CS_kl_ymchj08_01_0=desc_buf_CS_kl_ymchj08_01_0
+desc_buf_CS_kl_ymchj08_01_1=一醉千日
+desc_buf_CS_kl_ymchj08_1=減免10%傷害
+desc_buf_CS_kl_ymchj08_2=減免20%傷害
+desc_buf_CS_kl_ymchj08_3=減免30%傷害
+desc_buf_CS_kl_ymchj08_4=減免40%傷害
+desc_buf_CS_kl_ymchj08_5=減免50%傷害
+desc_buf_CS_kl_ymchj08_dance_0=desc_buf_CS_kl_ymchj08_dance_0
+desc_buf_CS_kl_ymchj08_dance_1=心醉神迷，翩躚起舞
+desc_buf_Npc_kl_hyjf04_0=desc_buf_Npc_kl_hyjf04_0
+desc_buf_Npc_kl_hyjf04_1=<font color="#f9fc00">意溢於海</font><br/>反守為攻
+desc_buf_clone047_dbsl_01_0=丘壑<br>受到大別散人其他招式傷害時，將發生額外效果
+desc_buf_clone047_dbsl_01_1=
+desc_buf_clone047_dbsl_02_0=禁封<br>傷害降低30%，氣血回復降低100%
+desc_buf_clone047_dbsl_02_1=
+desc_buf_clone047_dbsl_03_0=致盲
+desc_buf_clone047_dbsl_03_1=
+desc_buf_clone047_dbsl_ng_01_0=崑崙引<br>每次攻擊目標有幾率對目標種下「崑崙引」，於其形成連線，使其無法逃離自己的掌控。<br>
+desc_buf_clone047_dbsl_ng_01_1=
+desc_buf_clone047_dbsl_ng_02_0=崑崙引·引<br>引：每秒造成傷害，並且減速30%；<br>距離大於15米的時候，將移除崑崙引。將連接斷裂，但是會造成短暫的僵直。
+desc_buf_clone047_dbsl_ng_02_1=
+desc_buf_jhzb_001_0=聚力<br>增加血量內力上限
+desc_buf_jhzb_001_1=
+desc_buf_jhzb_002_0=虹吸<br>攻擊時吸收100%氣血和內力
+desc_buf_jhzb_002_1=
+desc_buf_jhzb_003_0=麥芒<br>每10秒對周圍造成5%氣血損失。
+desc_buf_jhzb_003_1=
+desc_buf_jhzb_006_0=回源<br>每三秒回復5%氣血和內力。
+desc_buf_jhzb_006_1=
+desc_buf_jhzb_007_0=堅守<br>受到傷害時，傷害減免80%。
+desc_buf_jhzb_007_1=
+desc_buf_jhzb_008_0=狂怒<br>造成傷害時，傷害翻倍。
+desc_buf_jhzb_008_1=
+desc_buf_jhzb_boss_001_0=回溯<br>回溯期間內清除大部分增益，並暫時免疫大部分增益。
+desc_buf_jhzb_boss_001_1=
+desc_buf_jhzb_boss_002_0=噬體<br>每秒損失1%氣血，使用輕功時一定概率摔倒
+desc_buf_jhzb_boss_002_1=
+desc_buf_jhzb_boss_003_0=禁輕功
+desc_buf_jhzb_boss_003_1=
+desc_buf_jhzb_boss_ng_0=隱<br>受到傷害時一定概率觸發紅霸體狀態。
+desc_buf_jhzb_boss_ng_01_0=隱·冷卻
+desc_buf_jhzb_boss_ng_01_1=
+desc_buf_jhzb_boss_ng_1=
+desc_buf_jhzb_mon_ng_0=回血
+desc_buf_jhzb_mon_ng_1=
+desc_buf_kl_xm_wq_0=崑崙派
+desc_buf_kl_xm_wq_1=
+desc_buf_ng_kl_001_0=秋老訣
+desc_buf_ng_kl_001_1=<font color="#f9fc00">秋老訣</font><br>被攻擊時有一定幾率在自身周圍創造一個精氣護盾（可吸收一定量傷害）。
+desc_buf_ng_kl_001_1_0=鶴髮童顏
+desc_buf_ng_kl_001_1_1=<font color="#f9fc00">鶴髮童顏</font><br>吸收傷害
+desc_buf_ng_kl_001_1_2=<font color="#f9fc00">鶴髮童顏</font><br>吸收傷害
+desc_buf_ng_kl_001_1_3=<font color="#f9fc00">鶴髮童顏</font><br>吸收傷害
+desc_buf_ng_kl_001_1_4=<font color="#f9fc00">鶴髮童顏</font><br>吸收傷害
+desc_buf_ng_kl_001_2=<font color="#f9fc00">秋老訣</font><br>被攻擊時有一定幾率在自身周圍創造一個精氣護盾（可吸收一定量傷害）。
+desc_buf_ng_kl_001_2_0=衰老
+desc_buf_ng_kl_001_2_1=<font color="#f9fc00">衰老</font><br>每層降低5%招式傷害
+desc_buf_ng_kl_001_3=<font color="#f9fc00">秋老訣</font><br>被攻擊時有一定幾率在自身周圍創造一個精氣護盾（可吸收一定量傷害）。
+desc_buf_ng_kl_001_4=<font color="#f9fc00">秋老訣</font><br>被攻擊時有一定幾率在自身周圍創造一個精氣護盾（可吸收一定量傷害），若在精氣護盾護體期間被攻擊，則攻擊自身的敵人將受到不良效果：「衰老」。<br><font color="#FF3030">衰老</font>：降低所有招式傷害50%，每秒衰減5%，持續10秒。
+desc_buf_ng_kl_001_cd_0=秋老訣內置CD
+desc_buf_ng_kl_001_cd_1=秋老訣內置CD
+desc_buf_ng_kl_002_0=驕陽訣
+desc_buf_ng_kl_002_1=<font color="#f9fc00">驕陽訣</font><br>每次攻擊目標有一定幾率為其注入一股「驕陽真氣」。<br><font color="#FF3030">驕陽真氣</font>：持續損失氣血。（真氣發作期間如若被再次注入則會刷新計時）
+desc_buf_ng_kl_002_1_0=驕陽
+desc_buf_ng_kl_002_1_1=<font color="#f9fc00">驕陽真氣</font><br>持續損失氣血
+desc_buf_ng_kl_002_1_2=<font color="#f9fc00">驕陽真氣</font><br>持續損失氣血
+desc_buf_ng_kl_002_1_3=<font color="#f9fc00">驕陽真氣</font><br>持續損失氣血
+desc_buf_ng_kl_002_1_4=<font color="#f9fc00">驕陽真氣</font><br>持續損失氣血，並且會潰散至四周
+desc_buf_ng_kl_002_2=<font color="#f9fc00">驕陽訣</font><br>每次攻擊目標有一定幾率為其注入一股「驕陽真氣」。<br><font color="#FF3030">驕陽真氣</font>：持續損失氣血。（真氣發作期間如若被再次注入則會刷新計時）
+desc_buf_ng_kl_002_2_0=驕陽傳染
+desc_buf_ng_kl_002_2_1=驕陽傳染
+desc_buf_ng_kl_002_3=<font color="#f9fc00">驕陽訣</font><br>每次攻擊目標有一定幾率為其注入一股「驕陽真氣」。<br><font color="#FF3030">驕陽真氣</font>：持續損失氣血。（真氣發作期間如若被再次注入則會刷新計時）
+desc_buf_ng_kl_002_4=<font color="#f9fc00">驕陽訣</font><br>每次攻擊目標有一定幾率為其注入一股「驕陽真氣」。<br><font color="#FF3030">驕陽真氣</font>：持續損失氣血。（真氣發作期間如若被再次注入則會刷新計時）<br>若目標周圍4米範圍內有敵對目標，則真氣會潰散至四周，對受到影響的目標也注入一股「驕陽真氣」。（被潰散之氣影響的目標在效果結束之前無法被重複影響）
+desc_buf_ng_kl_003_0=清淡訣
+desc_buf_ng_kl_003_1=<font color="#f9fc00">清談訣</font><br>用內力抵禦自身，有幾率震傷攻擊自己的敵人，使對方下盤經脈穴位錯亂，受到不良效果「步履蹣跚」。<br><font color="#FF3030">步履蹣跚</font>：受影響的目標每次出招都會震傷自己造成一定量的陰傷害；並且每次移動都會讓自己的行動變得愈發遲緩，停止移動可慢慢緩解症狀。<br><font color="#FF3030">矯健身姿</font>：自身使用輕功時30%概率返還10點輕功值。
+desc_buf_ng_kl_003_1_0=步履蹣跚
+desc_buf_ng_kl_003_1_1=<font color="#f9fc00">步履蹣跚</font><br>行動遲緩，使用招式震傷自己
+desc_buf_ng_kl_003_1_2=<font color="#f9fc00">步履蹣跚</font><br>行動遲緩，使用招式震傷自己
+desc_buf_ng_kl_003_1_3=<font color="#f9fc00">步履蹣跚</font><br>行動遲緩，使用招式震傷自己
+desc_buf_ng_kl_003_1_4=<font color="#f9fc00">步履蹣跚</font><br>行動遲緩，使用招式震傷自己
+desc_buf_ng_kl_003_2=<font color="#f9fc00">清談訣</font><br>用內力抵禦自身，有幾率震傷攻擊自己的敵人，使對方下盤經脈穴位錯亂，受到不良效果「步履蹣跚」。<br><font color="#FF3030">步履蹣跚</font>：受影響的目標每次出招都會震傷自己造成一定量的陰傷害；並且每次移動都會讓自己的行動變得愈發遲緩，停止移動可慢慢緩解症狀。<br><font color="#FF3030">矯健身姿</font>：自身使用輕功時30%概率返還12點輕功值。
+desc_buf_ng_kl_003_2_0=震傷
+desc_buf_ng_kl_003_2_1=震傷
+desc_buf_ng_kl_003_2_2=震傷
+desc_buf_ng_kl_003_2_3=震傷
+desc_buf_ng_kl_003_2_4=震傷
+desc_buf_ng_kl_003_3=<font color="#f9fc00">清談訣</font><br>用內力抵禦自身，有幾率震傷攻擊自己的敵人，使對方下盤經脈穴位錯亂，受到不良效果「步履蹣跚」。<br><font color="#FF3030">步履蹣跚</font>：受影響的目標每次出招都會震傷自己造成一定量的陰傷害；並且每次移動都會讓自己的行動變得愈發遲緩，停止移動可慢慢緩解症狀。<br><font color="#FF3030">矯健身姿</font>：自身使用輕功時30%概率返還15點輕功值。
+desc_buf_ng_kl_003_4=<font color="#f9fc00">清談訣</font><br>用內力抵禦自身，有幾率震傷攻擊自己的敵人，使對方下盤經脈穴位錯亂，受到不良效果「步履蹣跚」。<br><font color="#FF3030">步履蹣跚</font>：受影響的目標每次出招都會震傷自己造成一定量的陰傷害；並且每次移動都會讓自己的行動變得愈發遲緩，停止移動可慢慢緩解症狀。<br><font color="#FF3030">矯健身姿</font>：自身使用輕功時30%概率返還18點輕功值。
+desc_buf_ng_kl_003_jiansu_0=減速
+desc_buf_ng_kl_003_jiansu_1=減速
+desc_buf_ng_kl_003_jiansu_2=減速
+desc_buf_ng_kl_003_jiansu_3=減速
+desc_buf_ng_kl_003_jiansu_4=減速
+desc_buf_ng_kl_004_0=淇奧訣
+desc_buf_ng_kl_004_1_0=失調音律
+desc_buf_ng_kl_004_1_1=失調音律
+desc_buf_ng_kl_004_1_2=失調音律
+desc_buf_ng_kl_004_1_3=失調音律
+desc_buf_ng_kl_004_1_4=失調音律
+desc_buf_ng_kl_004_1_5=失調音律
+desc_buf_ng_kl_004_1a_0=琴瑟調和
+desc_buf_ng_kl_004_1a_1=<font color="#f9fc00">琴瑟調和·御</font><br>防禦提高10%，「悅耳音律」的恢復效果提高100%
+desc_buf_ng_kl_004_1ax_0=琴瑟調和防禦提高
+desc_buf_ng_kl_004_1ax_1=琴瑟調和防禦提高
+desc_buf_ng_kl_004_2_0=悅耳音律
+desc_buf_ng_kl_004_2_1=悅耳音律
+desc_buf_ng_kl_004_2_2=悅耳音律
+desc_buf_ng_kl_004_2_3=悅耳音律
+desc_buf_ng_kl_004_2_4=悅耳音律
+desc_buf_ng_kl_004_2_5=悅耳音律
+desc_buf_ng_kl_004_2a_0=琴瑟調和
+desc_buf_ng_kl_004_2a_1=<font color="#f9fc00">琴瑟調和·力</font><br>招式傷害提高10%，「失調音律」的傷害提高100%
+desc_buf_ng_kl_004_2ax_0=琴瑟調和傷害提高
+desc_buf_ng_kl_004_2ax_1=琴瑟調和傷害提高
+desc_buf_ng_kl_004_cd_0=琴瑟調和冷卻
+desc_buf_ng_kl_004_cd_1=琴瑟調和冷卻
+desc_buf_ng_kl_005_0=風起訣
+desc_buf_ng_kl_005_1_1=<font color="#f9fc00">清風拂面</font><br>每層使自己受到的暴擊傷害減免5%
+desc_buf_ng_kl_005_1_2=<font color="#f9fc00">清風拂面</font><br>每層使自己受到的暴擊傷害減免6%
+desc_buf_ng_kl_005_1_3=<font color="#f9fc00">清風拂面</font><br>每層使自己受到的暴擊傷害減免7%
+desc_buf_ng_kl_005_1_4=<font color="#f9fc00">清風拂面</font><br>每層使自己受到的暴擊傷害減免8%
+desc_buf_ng_kl_005_1_5=<font color="#f9fc00">清風拂面</font><br>每層使自己受到的暴擊傷害減免10%
+desc_buf_ng_kl_005_2_0=意氣風發
+desc_buf_ng_kl_005_2_1=<font color="#f9fc00">清風拂面</font><br>每層提高招式傷害和暴擊傷害5%
+desc_buf_ng_kl_005_2_2=<font color="#f9fc00">清風拂面</font><br>每層提高招式傷害和暴擊傷害6%
+desc_buf_ng_kl_005_2_3=<font color="#f9fc00">清風拂面</font><br>每層提高招式傷害和暴擊傷害7%
+desc_buf_ng_kl_005_2_4=<font color="#f9fc00">清風拂面</font><br>每層提高招式傷害和暴擊傷害8%
+desc_buf_ng_kl_005_2_5=<font color="#f9fc00">清風拂面</font><br>每層提高招式傷害和暴擊傷害10%
+desc_buf_ng_kl_005_biaoji2_0=意氣風發標記
+desc_buf_ng_kl_005_biaoji2_1=意氣風發標記
+desc_buf_ng_kl_005_biaoji_0=清風佛面標記
+desc_buf_ng_kl_005_biaoji_1=清風佛面標記
+desc_buf_ng_kl_005_cd2_0=仙風道骨減冷卻
+desc_buf_ng_kl_005_cd2_1=仙風道骨減冷卻
+desc_buf_ng_kl_005_cd2_2=仙風道骨減冷卻
+desc_buf_ng_kl_005_cd2_3=仙風道骨減冷卻
+desc_buf_ng_kl_005_cd2_4=仙風道骨減冷卻
+desc_buf_ng_kl_005_cd2_5=仙風道骨減冷卻
+desc_buf_ng_kl_005_cd_0=清風佛面冷卻
+desc_buf_ng_kl_005_cd_1=清風佛面冷卻
+desc_buf_ng_kl_006_0=崑崙引
+desc_buf_ng_kl_006_1_0=崑崙勁
+desc_buf_ng_kl_006_1_1=<font color="#f9fc00">崑崙勁</font><br>持續造成陰傷害並且減速30%，造成傷害有幾率延長1秒
+desc_buf_ng_kl_006_1_2=<font color="#f9fc00">崑崙勁</font><br>持續造成陰傷害並且減速35%，造成傷害有幾率延長1秒
+desc_buf_ng_kl_006_1_3=<font color="#f9fc00">崑崙勁</font><br>持續造成陰傷害並且減速40%，造成傷害有幾率延長1秒
+desc_buf_ng_kl_006_1_4=<font color="#f9fc00">崑崙勁</font><br>持續造成陰傷害並且減速45%，造成傷害有幾率延長2秒
+desc_buf_ng_kl_006_1_5=<font color="#f9fc00">崑崙勁</font><br>持續造成陰傷害並且減速50%，造成傷害有幾率延長2秒
+desc_buf_ng_kl_006_2_0=定身
+desc_buf_ng_kl_006_2_1=<font color="#f9fc00">定身</font>
+desc_buf_ng_kl_006_cd_0=崑崙引內置CD
+desc_buf_ng_kl_006_cd_1=崑崙引內置CD
+desc_buf_ng_npc_kl_001_0=秋老訣
+desc_buf_ng_npc_kl_001_1=<font color="#f9fc00">秋老訣</font><br>被攻擊時有一定幾率在自己週身創造一個精氣護盾（可吸收一定量傷害）
+desc_buf_ng_npc_kl_001_2=<font color="#f9fc00">秋老訣</font><br>被攻擊時有一定幾率在自己週身創造一個精氣護盾（可吸收一定量傷害）
+desc_buf_ng_npc_kl_001_3=<font color="#f9fc00">秋老訣</font><br>被攻擊時有一定幾率在自己週身創造一個精氣護盾（可吸收一定量傷害）若在精氣護盾縈繞自身時被攻擊，則攻擊自身的玩家會獲得不良效果：<font color="#f9fc00">衰老</font><br><font color="#f9fc00">衰老</font>：降低所有招式傷害50%，每秒衰減5%。
+desc_buf_ng_npc_kl_001_4=<font color="#f9fc00">秋老訣</font><br>被攻擊時有一定幾率在自己週身創造一個精氣護盾（可吸收一定量傷害）若在精氣護盾縈繞自身時被攻擊，則攻擊自身的玩家會獲得不良效果：<font color="#f9fc00">衰老</font><br><font color="#f9fc00">衰老</font>：降低所有招式傷害50%，每秒衰減5%。
+desc_buf_ng_npc_kl_002_0=驕陽訣
+desc_buf_ng_npc_kl_002_1=驕陽：每次使用招式，20%幾率給目標注入一發驕陽真氣，使其持續受到傷害（內息越高注入的效果越強），持續12s。（驕陽真氣發作期間如若被再次注入則會刷新計時）
+desc_buf_ng_npc_kl_002_2=驕陽：每次使用招式，20%幾率給目標注入一發驕陽真氣，使其持續受到傷害（內息越高注入的效果越強），持續12s。（驕陽真氣發作期間如若被再次注入則會刷新計時）
+desc_buf_ng_npc_kl_002_3=驕陽：每次使用招式，20%幾率給目標注入一發驕陽真氣，使其持續受到傷害（內息越高注入的效果越強），持續12s。（驕陽真氣發作期間如若被再次注入則會刷新計時）
+desc_buf_ng_npc_kl_002_4=驕陽：每次使用招式，20%幾率給目標注入一發驕陽真氣，使其持續受到傷害（內息越高注入的效果越強），持續12s。（驕陽真氣發作期間如若被再次注入則會刷新計時）。如果目標8米周圍內有敵對目標，則真氣會潰散至四周，對受到影響的目標也注入一發驕陽真氣。（被驕陽真氣影響的目標在效果結束之前無法被繼續影響。）
+desc_buf_ng_npc_kl_003_0=清淡訣
+desc_buf_ng_npc_kl_003_1=步履蹣跚：每次攻擊有幾率使目標下盤經脈穴位錯亂，受影響的目標每次出招都會震傷自己損失氣血並且每移動一次，就減速2%，如果停止移動1秒，移動速度恢復2%。<br>矯健身姿：自身使用輕功時30%概率返還15點輕功值
+desc_buf_ng_npc_kl_003_2=步履蹣跚：每次攻擊有幾率使目標下盤經脈穴位錯亂，受影響的目標每次出招都會震傷自己損失氣血並且每移動一次，就減速2%，如果停止移動1秒，移動速度恢復2%。<br>矯健身姿：自身使用輕功時30%概率返還15點輕功值
+desc_buf_ng_npc_kl_003_3=步履蹣跚：每次攻擊有幾率使目標下盤經脈穴位錯亂，受影響的目標每次出招都會震傷自己損失氣血並且每移動一次，就減速2%，如果停止移動1秒，移動速度恢復2%。<br>矯健身姿：自身使用輕功時30%概率返還15點輕功值
+desc_buf_ng_npc_kl_003_4=步履蹣跚：每次攻擊有幾率使目標下盤經脈穴位錯亂，受影響的目標每次出招都會震傷自己損失氣血並且每移動一次，就減速2%，如果停止移動1秒，移動速度恢復2%。<br>矯健身姿：自身使用輕功時30%概率返還15點輕功值
+desc_buf_sc_month_02_0=四季輪轉·夏<br>每次移動給自身添加「炎夏」狀態，可疊加30層，靜止不動時每秒移除層數。
+desc_buf_sc_month_02_01_0=炎夏<br>疊加30層時，觸發「暴怒」；<br>靜止不動時，將逐漸移除層數。
+desc_buf_sc_month_02_01_1=
+desc_buf_sc_month_02_02_0=暴怒<br>定身15秒；<br>若在戰鬥中則額外造成85%氣血和內力損失，並每秒增加100%怒氣；<br>狀態觸發後，20秒內不會再次觸發炎夏疊層。
+desc_buf_sc_month_02_02_1=
+desc_buf_sc_month_02_1=
+desc_buf_sc_month_02_CD_0=四季輪轉·夏冷卻
+desc_buf_sc_month_02_CD_1=
+desc_buff_20200701_putuan_001_0=desc_buff_20200701_putuan_001_0
+desc_buff_20200701_putuan_001_1=自身全屬性增加50點，持續1小時。
+desc_buff_mpz_gujboss_bipin_012_0=比拚武學
+desc_buff_mpz_gujboss_bipin_012_1=
+desc_buff_mpz_gujian_kunlun_0=代表「崑崙」參加此次宗派戰
+desc_buff_mpz_gujian_kunlun_1=
+desc_buff_task_klp_hmp_0=接受門派為期一小時的入門審核
+desc_buff_task_klp_hmp_1=
+desc_buff_xmphd_klngjs_001_0=擁有此狀態期間暫時無法進行崑崙內功，武學晉陞。
+desc_buff_xmphd_klngjs_001_1=
+desc_jianghuzhibao_xiulian_shashou_0=江湖至寶殺手
+desc_jianghuzhibao_xiulian_shashou_1=
+desc_jianghuzhibao_xiulian_skill_0=蘊養江湖至寶
+desc_jianghuzhibao_xiulian_skill_1=
+jianghuzhibao_xiulian_shashou=江湖至寶殺手
+jianghuzhibao_xiulian_skill=蘊養江湖至寶
+desc_buf_jhzb_zd_khbd_0=<font color="#EE7600">幽曇秘典</font><br>通過向公公討教，領悟了一些修煉幽曇秘典的法門，零點之前攻克怪物或登峰造極以上實力的玩家有幾率獲得江湖至寶修煉值,<font color="#FFFF00">或前往鬼市（1288 1058）找孟婆婆進入煞魔幻境獲取江湖至寶修煉值</font>，亦可使用江湖至寶修煉幽曇秘典（奇遇等分組場景無效）<br>殺氣騰騰，此時可被玩家隨意攻擊<br>20點-21點之間，在金陵（2154,2000）、蘇州（1044,1044）、燕京（1696,1308）三處風水寶地（水）修煉，每成功修煉一次，將額外提升2倍修煉速度，同時會使周圍的江湖名俊玩家獲得大量真氣（不佔用每日真氣上限）
+desc_buf_jhzb_zd_xxdf_0=<font color="#EE7600">玄冥真罡</font><br>通過向地宮五凶討教，領悟了一些修煉玄冥真罡的法門，零點之前攻克怪物或將登峰造極以上實力的玩家擊成重傷有幾率獲得江湖至寶修煉值，<font color="#FFFF00">或前往鬼市（1288 1058）找孟婆婆進入煞魔幻境獲取江湖至寶修煉值</font>，亦可使用江湖至寶修煉玄冥真罡（奇遇等分組場景無效）<br>殺氣騰騰，此時可被玩家隨意攻擊<br>20點-21點之間，在金陵（400,948）、蘇州（1241,684）、燕京（1371,1232）三處風水寶地（山）修煉，每成功修煉一次，將額外提升2倍修煉速度，同時會使周圍的江湖名俊玩家獲得大量真氣（不佔用每日真氣上限）
+desc_buf_jy_dy_002_0=禁言7天懲罰。75%攻擊力減少
+desc_buff_mmzw_boss1_002_0=外域弟子魔功護體，為了攻破各大宗派不惜運功自爆！
+desc_buff_mmzw_boss1_005_0=外域弟子魔功護體，為了攻破各大宗派不惜運功自爆！
+desc_buff_mmzw_boss1_008_0=外域弟子魔功護體，為了攻破各大宗派不惜運功自爆！
+desc_buff_mmzw_wyxg_002_0=外域弟子魔功護體，為了攻破各大宗派不惜運功自爆！
+desc_buff_mmzw_wyxg_005_0=外域弟子魔功護體，為了攻破各大宗派不惜運功自爆！
+desc_buff_mmzw_wyxg_008_0=外域弟子魔功護體，為了攻破各大宗派不惜運功自爆！
+desc_buff_mmzw_wyzb_002_0=外域弟子魔功護體，為了攻破各大宗派不惜運功自爆！
+desc_buff_mmzw_wyzb_005_0=外域弟子魔功護體，為了攻破各大宗派不惜運功自爆！
+desc_buff_mmzw_wyzb_008_0=外域弟子魔功護體，為了攻破各大宗派不惜運功自爆！
+desc_buff_pve_bad_1_0=西域高手沒有各大宗派的子弟多，被圍攻無法使出全力！
+desc_buff_pve_bad_1_1=西域高手沒有各大宗派的子弟多，被圍攻無法使出全力！
+buf_clone_hbt=弱霸體（黃）
+buf_fixed_red_clone=強霸體（紅）
+buf_newguild_shp_2020821_001=進攻等級1
+buf_newguild_shp_2020821_002=進攻等級2
+buf_newguild_shp_2020821_003=進攻等級3
+buf_newguild_shp_2020821_004=進攻等級4
+buf_newguild_shp_2020821_005=進攻等級5
+buf_newguild_shp_2020821_006=進攻等級6
+buf_newguild_shp_2020821_007=進攻等級7
+buf_newguild_shp_2020821_008=進攻等級8
+buf_newguild_shp_2020821_009=進攻等級9
+buf_newguild_shp_2020821_010=進攻等級10
+buff_lzy_20200820hd_wwqg001=五味巧果
+desc_buf_clone_hbt_0=<font color="#f9fc00">弱霸體（黃）</font><br/>不能被鎖定，不能被擊飛，擊退，擊倒
+desc_buf_clone_hbt_1=<font color="#f9fc00">弱霸體（黃）</font><br/>不能被鎖定，不能被擊飛，擊退，擊倒
+desc_buf_fixed_red_clone_0=<font color="#f9fc00">強霸體（紅）</font><br/>不能被鎖定，不能被擊飛，擊退，擊倒
+desc_buf_fixed_red_clone_1=<font color="#f9fc00">強霸體（紅）</font><br/>不能被鎖定，不能被擊飛，擊退，擊倒
+desc_buf_newguild_shp_2020821_001_0=龍柱範圍內，防守人數越少，龍柱受到傷害越高。
+desc_buf_newguild_shp_2020821_001_1=
+desc_buf_newguild_shp_2020821_002_0=龍柱範圍內，防守人數越少，龍柱受到傷害越高。
+desc_buf_newguild_shp_2020821_002_1=
+desc_buf_newguild_shp_2020821_003_0=龍柱範圍內，防守人數越少，龍柱受到傷害越高。
+desc_buf_newguild_shp_2020821_003_1=
+desc_buf_newguild_shp_2020821_004_0=龍柱範圍內，防守人數越少，龍柱受到傷害越高。
+desc_buf_newguild_shp_2020821_004_1=
+desc_buf_newguild_shp_2020821_005_0=龍柱範圍內，防守人數越少，龍柱受到傷害越高。
+desc_buf_newguild_shp_2020821_005_1=
+desc_buf_newguild_shp_2020821_006_0=龍柱範圍內，防守人數越少，龍柱受到傷害越高。
+desc_buf_newguild_shp_2020821_006_1=
+desc_buf_newguild_shp_2020821_007_0=龍柱範圍內，防守人數越少，龍柱受到傷害越高。
+desc_buf_newguild_shp_2020821_007_1=
+desc_buf_newguild_shp_2020821_008_0=龍柱範圍內，防守人數越少，龍柱受到傷害越高。
+desc_buf_newguild_shp_2020821_008_1=
+desc_buf_newguild_shp_2020821_009_0=龍柱範圍內，防守人數越少，龍柱受到傷害越高。
+desc_buf_newguild_shp_2020821_009_1=
+desc_buf_newguild_shp_2020821_010_0=龍柱範圍內，防守人數越少，龍柱受到傷害越高。
+desc_buf_newguild_shp_2020821_010_1=
+desc_buff_lzy_20200820hd_wwqg001_0=desc_buff_lzy_20200820hd_wwqg001_0
+desc_buff_lzy_20200820hd_wwqg001_1=提升自身全屬性50點，持續1小時。
+buf_20200902bjtl_fc_001=百家韜略
+buf_20200902qmfj_fc_001=奇門方技
+buf_20200902sxjd_fc_001=聖賢經典
+buf_CS_jh_sfgp04_02=噬陽
+buf_CS_jh_sfgp07_02_cd=兼濟天下調息
+buf_CS_jh_sfgp08_01=龍游大海
+buf_CS_jh_sfgp08_02=龍游
+buf_CS_jh_sfgp08_02_range=龍游
+buf_jy_dy_004=buf_jy_dy_004
+buf_ng_kl_006_3=硬直
+desc_buf_20200902bjtl_fc_001_0=desc_buf_20200902bjtl_fc_001_0
+desc_buf_20200902bjtl_fc_001_1=諳熟文韜武略，提升自身全屬性50點，持續1小時。
+desc_buf_20200902qmfj_fc_001_0=desc_buf_20200902qmfj_fc_001_0
+desc_buf_20200902qmfj_fc_001_1=洞悉萬物造化，提高採集，製造，文化類生活心得獲得200%，持續1小時
+desc_buf_20200902sxjd_fc_001_0=desc_buf_20200902sxjd_fc_001_0
+desc_buf_20200902sxjd_fc_001_1=領悟聖人教誨，真氣獲取速度提高100%，歷練轉換速度提高100%，內修速度提高100%，持續1小時
+desc_buf_CS_jh_sfgp02_2=<font color="#f9fc00">異軍突起</font><br/>提升8%外功傷害減免忽視、8%內功傷害減免忽視
+desc_buf_CS_jh_sfgp02_3=<font color="#f9fc00">異軍突起</font><br/>提升12%外功傷害減免忽視、12%內功傷害減免忽視
+desc_buf_CS_jh_sfgp02_4=<font color="#f9fc00">異軍突起</font><br/>提升16%外功傷害減免忽視、16%內功傷害減免忽視
+desc_buf_CS_jh_sfgp04_02_0=desc_buf_CS_jh_sfgp04_02_0
+desc_buf_CS_jh_sfgp04_02_1=【九陽·絕學】套路的擊飛擊倒擊退效果失效
+desc_buf_CS_jh_sfgp06_04_2=昏迷
+desc_buf_CS_jh_sfgp07_02_2=減傷25%並反彈傷害
+desc_buf_CS_jh_sfgp07_02_3=減傷15%並反彈傷害
+desc_buf_CS_jh_sfgp07_02_4=減傷35%並反彈傷害
+desc_buf_CS_jh_sfgp07_02_cd_0=desc_buf_CS_jh_sfgp07_02_cd_0
+desc_buf_CS_jh_sfgp07_02_cd_1=兼濟天下調息
+desc_buf_CS_jh_sfgp07_02_cd_2=兼濟天下調息
+desc_buf_CS_jh_sfgp07_02_cd_3=兼濟天下調息
+desc_buf_CS_jh_sfgp08_01_0=desc_buf_CS_jh_sfgp08_01_0
+desc_buf_CS_jh_sfgp08_01_1=閃避率提高40%
+desc_buf_CS_jh_sfgp08_02_0=desc_buf_CS_jh_sfgp08_02_0
+desc_buf_CS_jh_sfgp08_02_1=龍游狀態
+desc_buf_CS_jh_sfgp08_02_range_0=desc_buf_CS_jh_sfgp08_02_range_0
+desc_buf_CS_jh_sfgp08_02_range_1=處於龍游狀態下，內勁絮亂，無法切換內功
+desc_buf_CS_jh_sfgp08_2=眩暈,無法切換內功
+desc_buf_jy_dy_004_0=禁言懲罰。50%攻擊力減少
+desc_buf_jy_dy_004_1=
+desc_buf_CS_jh_sfgp02_1=<font color="#f9fc00">異軍突起</font><br/>提升4%外功傷害減免忽視、4%內功傷害減免忽視
+desc_buf_CS_jh_sfgp04_1=<font color="#FFAE00">移山填海</font><br>受到本套路<font color="#f9fc00">【異軍突起（古譜）】</font>攻擊時將觸發額外效果，最多可疊加4層，持續15秒。
+desc_buf_CS_jh_sfgp04_2=<font color="#FFAE00">移山填海</font><br>受到本套路<font color="#f9fc00">【異軍突起（古譜）】</font>攻擊時將觸發額外效果，最多可疊加4層，持續15秒。
+desc_buf_CS_jh_sfgp05_01_10=<font color="#FFAE00">獨善其身</font><br>本套路<font color="#f9fc00">【異軍突起（古譜）】【移山填海（古譜）】【龍游大海（古譜）】</font>招式傷害提高25%，持續60秒
+desc_buf_CS_jh_sfgp05_01_11=<font color="#FFAE00">獨善其身</font><br>本套路<font color="#f9fc00">【異軍突起（古譜）】【移山填海（古譜）】【龍游大海（古譜）】</font>招式傷害提高27%，持續60秒
+desc_buf_CS_jh_sfgp05_01_12=<font color="#FFAE00">獨善其身</font><br>本套路<font color="#f9fc00">【異軍突起（古譜）】【移山填海（古譜）】【龍游大海（古譜）】</font>招式傷害提高30%，持續60秒
+desc_buf_CS_jh_sfgp05_10=招架成功時有60%概率給自己添加一層<font color="#FFAE00">獨善其身</font>狀態：本套路<font color="#f9fc00">【異軍突起（古譜）】【移山填海（古譜）】【龍游大海（古譜）】</font>招式傷害提高25%，持續60秒
+desc_buf_CS_jh_sfgp05_11=招架成功時給自己添加一層<font color="#FFAE00">獨善其身</font>狀態：本套路<font color="#f9fc00">【異軍突起（古譜）】【移山填海（古譜）】【龍游大海（古譜）】</font>招式傷害提高27%，持續60秒
+desc_buf_CS_jh_sfgp05_12=招架成功時給自己添加一層<font color="#FFAE00">獨善其身</font>狀態：本套路<font color="#f9fc00">【異軍突起（古譜）】【移山填海（古譜）】【龍游大海（古譜）】</font>招式傷害提高30%，持續60秒
+desc_buf_CS_jh_sfgp07_02_1=減傷35%並反彈傷害
+desc_buf_CS_jh_sfgp07_10=自己及周圍隊友持續獲得1層<font color="#FFAE00">兼濟天下</font>狀態：下次被攻擊時額外減免10%傷害（最多疊加5層，持續30秒）<br>存在<font color="#FFAE00">獨善其身狀態</font>時可在添加兼濟天下的同時添加持續20秒的噬陽旗狀態：在噬陽旗狀態下被大哉乾元攻擊，將為其添加噬陽旗·禁斷：禁止使用大哉乾元
+desc_buf_CS_jh_sfgp07_6=自己及周圍隊友持續獲得1層<font color="#FFAE00">兼濟天下</font>狀態：下次被攻擊時額外減免8%傷害（最多疊加5層，持續18秒）<br>存在<font color="#FFAE00">獨善其身狀態</font>時可在添加兼濟天下的同時添加持續20秒的噬陽旗狀態：在噬陽旗狀態下被大哉乾元攻擊，將為其添加噬陽旗·禁斷：禁止使用大哉乾元
+desc_buf_CS_jh_sfgp07_7=自己及周圍隊友持續獲得1層<font color="#FFAE00">兼濟天下</font>狀態：下次被攻擊時額外減免8%傷害（最多疊加5層，持續20秒）<br>存在<font color="#FFAE00">獨善其身狀態</font>時可在添加兼濟天下的同時添加持續20秒的噬陽旗狀態：在噬陽旗狀態下被大哉乾元攻擊，將為其添加噬陽旗·禁斷：禁止使用大哉乾元
+desc_buf_CS_jh_sfgp07_8=自己及周圍隊友持續獲得1層<font color="#FFAE00">兼濟天下</font>狀態：下次被攻擊時額外減免9%傷害（最多疊加5層，持續20秒）<br>存在<font color="#FFAE00">獨善其身狀態</font>時可在添加兼濟天下的同時添加持續20秒的噬陽旗狀態：在噬陽旗狀態下被大哉乾元攻擊，將為其添加噬陽旗·禁斷：禁止使用大哉乾元
+desc_buf_CS_jh_sfgp07_9=自己及周圍隊友持續獲得1層<font color="#FFAE00">兼濟天下</font>狀態：下次被攻擊時額外減免9%傷害（最多疊加5層，持續25秒）<br>存在<font color="#FFAE00">獨善其身狀態</font>時可在添加兼濟天下的同時添加持續20秒的噬陽旗狀態：在噬陽旗狀態下被大哉乾元攻擊，將為其添加噬陽旗·禁斷：禁止使用大哉乾元
+desc_buff_itm_add1_10=提升自身38點臂力和百分之五的外功命中及26點外功命中，效果持續3天，不可與其他效果同時使用（參加泰山封武武心丹效果會被清除）
+desc_buff_itm_add2_10=提升自身38點身法和200氣血上限，效果持續3天，不可與其他效果同時使用（參加泰山封武武心丹效果會被清除）
+desc_buff_itm_add3_10=提升自身體38點內息和百分之五的內功化解及32點內功防禦，效果持續3天，不可與其他效果同時使用（參加泰山封武武心丹效果會被清除）
+desc_buff_itm_add4_10=提升自身38點罡氣和26點內功威力，效果持續3天，不可與其他效果同時使用（參加泰山封武武心丹效果會被清除）
+desc_buff_itm_add5_10=提升自身38點體魄和600點招架值上限，效果持續3天，不可與其他效果同時使用（參加泰山封武武心丹效果會被清除）
+itmbuf_vipbuf_01=江湖名俊
+buff_lzy_20200930hd_jzqj=金樽清酒
+buff_lzy_20200930hd_ybsh=月餅食盒
+desc_buff_lzy_20200930hd_jzqj_0=desc_buff_lzy_20200930hd_jzqj_0
+desc_buff_lzy_20200930hd_jzqj_1=提升自身全屬性50點，持續1小時。
+desc_buff_lzy_20200930hd_ybsh_0=真氣獲取速度提高100%，歷練轉換速度提高100%，內修速度提高100%
+desc_buff_lzy_20200930hd_ybsh_1=
+buf_20201001_fire=火焰
+buf_20201001_fire_1=灼燒
+buf_20201001_fire_2=buf_20201001_fire_2
+buf_20201001_fire_3=灼燒
+buf_20201001_fire_4=buf_20201001_fire_4
+buf_20201001_fire_5=buf_20201001_fire_5
+buf_20201001_fire_6=灼燒
+buf_20201001_fire_7=buf_20201001_fire_7
+buf_20201001_fire_8=buf_20201001_fire_8
+buf_20201001_fire_9=火焰
+buf_20201022dkj_fc_001=杜康酒（活動）
+buf_CS_jh_sjjc08=陳音談箭-心眼
+buf_CS_jh_sjjc08_cd=陳音談箭-心眼
+buf_CS_kl_hqxxp07_hanquan_wudi=寒泉
+buf_CS_kl_syl01=白日昭昭
+buf_jiankong_dingshen1=定身
+buf_jiankong_dingshen2=定身
+buf_jiankong_fengzhao=封招
+buf_jiankong_hunmi=昏迷
+buf_jiankong_jiansu=減速
+buf_jiankong_jianwei=鍵位錯亂
+buf_jiankong_jiaoxie=繳械
+buf_jiankong_jinqinggong=禁輕功
+buf_ng_gb_101=一氣海納功(會意)
+buf_ng_gb_101_01=天元破武
+buf_ng_gb_101_02=勁氣圓融
+buf_ng_mj_101=移天焚海訣(會意)
+buf_ng_mj_101_01=覆手焚海
+buf_ng_mj_101_01_mark=覆手焚海計時
+buf_ng_mj_101_01_zq=移天焚海·焚海
+buf_ng_mj_101_02=翻手移天
+buf_ng_mj_101_02_mark=翻手移天計時
+buf_ng_mj_101_02_zq=移天焚海·移天
+buf_ng_wd_101=太極神功(會意)
+buf_ng_wd_101_01=太極神功
+buf_ng_wd_101_01_1=太極為道（會意）
+buf_ng_wd_101_02=太極神功
+buf_offline_lock=手機助手登錄
+buf_sc_month_03=四季輪轉·秋
+buf_sc_month_03_01=涼秋
+buf_sc_month_03_CD=四季輪轉·秋
+buf_sec_huifu_HP=氣血回復
+buf_sec_jump_npc=夜探輕功
+buf_sec_jump_player=buf_sec_jump_player
+buf_yfhc_ls_001=哭
+buf_yfhc_ls_002=羅星星
+buf_yfhc_ls_003=詭毒
+buf_yfhc_ls_004=開場回血
+buf_ythc_boss_01=天風海雨
+buf_ythc_boss_02=山鬼暗啼
+buf_ythc_boss_03=星橋鐵鎖
+buf_ythc_bw_001=人劍合一
+buf_ythc_bw_002=雙劍合璧
+buf_ythc_bw_003=打草驚蛇
+buf_ythc_bw_004=釜底抽薪
+buf_ythc_bw_005=笑裡藏刀
+buf_ythc_bw_006=借刀殺人
+buf_ythc_bw_007=瞞天過海
+buf_ythc_bw_008=圖窮匕見
+buf_ythc_bw_009=出奇制勝
+buf_ythc_bw_010=趁虛而入
+buf_ythc_bw_011=審時度勢
+buf_ythc_bw_012=無堅不摧
+buf_ythc_bw_013=勢如破竹
+buf_ythc_bw_014=欲擒故縱
+buf_ythc_bw_014_01=欲擒故縱·增傷
+buf_ythc_bw_015=破釜沉舟
+buf_ythc_bw_016=百折不撓
+buf_ythc_bw_017=兩敗俱傷
+buf_ythc_bw_018=背水一戰
+buf_ythc_bw_018_01=背水一戰·增傷
+buf_ythc_bw_019=轉危為安
+buf_ythc_bw_019_01=轉危為安·閃
+buf_ythc_bw_020=將計就計
+buf_ythc_bw_021=迎頭痛擊
+buf_ythc_bw_021_01=迎頭痛擊·暴
+buf_ythc_bw_022=運籌帷幄
+buf_ythc_bw_023=速戰速決
+buf_ythc_bw_023_01=速戰速決
+buf_ythc_bw_024=臨危不懼
+buf_ythc_bw_024_01=臨危不懼·鎖
+buf_ythc_bw_024_cd=臨危不懼·冷卻
+buf_ythc_bw_025=無中生有
+buf_ythc_bw_025_01=無中生有·護盾
+buf_ythc_bw_026=暗度陳倉
+buf_ythc_bw_026_01=暗度陳倉·護盾
+buf_ythc_bw_026_cd=暗度陳倉·冷卻
+buf_ythc_bw_027=順手牽羊
+buf_ythc_bw_027_01=順手牽羊·看破
+buf_ythc_bw_028=趁火打劫
+buf_ythc_bw_029=過河拆橋
+buf_ythc_bw_029_01=過河拆橋·傷害
+buf_ythc_bw_030=以毒攻毒
+buf_ythc_bw_030_01=以毒攻毒·毒傷
+buf_ythc_bw_031=隔岸觀火
+buf_ythc_bw_031_01=隔岸觀火·引爆
+buf_ythc_bw_032=決一死戰
+buf_ythc_mon_001=【夜訪皇城】血量提升
+buf_ythc_mon_002=【夜訪皇城】傷害提升
+buf_ythc_mon_003=【夜探皇城】閃避提升
+buf_ythc_mon_004=【夜探皇城】暴擊提升
+buf_ythc_mon_005=【夜探皇城】爆傷提升
+buf_ythc_mon_007=鬆懈
+buf_ythc_mon_007_01=鬆懈
+buf_ythc_mon_007_02=鬆懈
+buf_ythc_tf_001=扶搖直上
+buf_ythc_tf_002=扶搖直上
+buf_ythc_tf_003=速戰速決
+buf_ythc_tf_004=起死回生
+buf_ythc_tf_005=大張撻伐
+buf_ythc_tf_006=霸氣十足
+buf_ythc_tf_006_01=霸氣
+buf_ythc_tf_006_cd=霸氣十足
+buf_ythc_tf_007=如日方升
+buf_ythc_tf_008=如日方升
+buf_ythc_tf_008_1=馭風
+buf_ythc_tf_009=解鎖
+buf_ythc_tj_001=忍法隱遁術
+buf_ythc_tj_002=氣爆迷濛
+buf_ythc_tj_003=吸魂魔丸
+buf_ythc_tj_004=迷心噬神
+buf_ythc_tj_005=方圓寂滅
+buff_SEC_RandomBuffFlags=夜探寶物
+buff_SEC_TalentBuffFlags=夜探天賦
+buff_leitai_area_sub_limit=子BUFF 判斷超出範圍
+buff_leitai_cd=擂台休息
+buff_leitai_challanger=挑戰者身份
+buff_leitai_challanger_ready=挑戰者準備儀式
+buff_leitai_challanger_ready2=準備開始擂台爭鋒
+buff_leitai_challanger_ready3=互通姓名
+buff_leitai_challanger_save=超出擂台區域
+buff_leitai_failer=擂台失敗
+buff_leitai_master=擂主身份
+buff_leitai_master_ready=擂主準備儀式
+buff_leitai_master_ready2=準備開始擂台爭鋒
+buff_leitai_master_ready3=互通姓名
+buff_leitai_winner=擂台勝利
+buff_mmhw_001=會武
+desc_buf_20201001_fire_0=燃燒
+desc_buf_20201001_fire_1=
+desc_buf_20201001_fire_1_0=受到火焰傷害
+desc_buf_20201001_fire_1_1=
+desc_buf_20201001_fire_2_0=desc_buf_20201001_fire_2_0
+desc_buf_20201001_fire_2_1=
+desc_buf_20201001_fire_3_0=受到火焰傷害
+desc_buf_20201001_fire_3_1=
+desc_buf_20201001_fire_4_0=desc_buf_20201001_fire_4_0
+desc_buf_20201001_fire_4_1=
+desc_buf_20201001_fire_5_0=desc_buf_20201001_fire_5_0
+desc_buf_20201001_fire_5_1=
+desc_buf_20201001_fire_6_0=受到火焰傷害
+desc_buf_20201001_fire_6_1=
+desc_buf_20201001_fire_7_0=desc_buf_20201001_fire_7_0
+desc_buf_20201001_fire_7_1=
+desc_buf_20201001_fire_8_0=desc_buf_20201001_fire_8_0
+desc_buf_20201001_fire_8_1=
+desc_buf_20201001_fire_9_0=光圈範圍內守衛，保持燃燒
+desc_buf_20201001_fire_9_1=
+desc_buf_20201022dkj_fc_001_0=desc_buf_20201022dkj_fc_001_0
+desc_buf_20201022dkj_fc_001_1=杜康酒：飲用後提升全屬性50點，持續1小時。
+desc_buf_CS_jh_sjjc08_0=desc_buf_CS_jh_sjjc08_0
+desc_buf_CS_jh_sjjc08_1=<font color="#FF00FF">陳音談箭-心眼</font><br>每層使<font color="#FFAE00">神箭九策技能傷害提高5%</font>，同時每秒獲得一層<font color="#FFAE00">「流星飛火」</font>。在空中時傷害加成每秒衰減5%且無法獲得 <font color="#FFAE00">「流星飛火」</font>
+desc_buf_CS_jh_sjjc08_10=<font color="#FF00FF">陳音談箭-心眼</font><br>每層使<font color="#FFAE00">神箭九策技能傷害提高5%</font>，同時每秒獲得一層<font color="#FFAE00">「流星飛火」</font>。在空中時傷害加成每秒衰減5%且無法獲得 <font color="#FFAE00">「流星飛火」</font>
+desc_buf_CS_jh_sjjc08_2=<font color="#FF00FF">陳音談箭-心眼</font><br>每層使<font color="#FFAE00">神箭九策技能傷害提高5%</font>，同時每秒獲得一層<font color="#FFAE00">「流星飛火」</font>。在空中時傷害加成每秒衰減5%且無法獲得 <font color="#FFAE00">「流星飛火」</font>
+desc_buf_CS_jh_sjjc08_3=<font color="#FF00FF">陳音談箭-心眼</font><br>每層使<font color="#FFAE00">神箭九策技能傷害提高5%</font>，同時每秒獲得一層<font color="#FFAE00">「流星飛火」</font>。在空中時傷害加成每秒衰減5%且無法獲得 <font color="#FFAE00">「流星飛火」</font>
+desc_buf_CS_jh_sjjc08_4=<font color="#FF00FF">陳音談箭-心眼</font><br>每層使<font color="#FFAE00">神箭九策技能傷害提高5%</font>，同時每秒獲得一層<font color="#FFAE00">「流星飛火」</font>。在空中時傷害加成每秒衰減5%且無法獲得 <font color="#FFAE00">「流星飛火」</font>
+desc_buf_CS_jh_sjjc08_5=<font color="#FF00FF">陳音談箭-心眼</font><br>每層使<font color="#FFAE00">神箭九策技能傷害提高5%</font>，同時每秒獲得一層<font color="#FFAE00">「流星飛火」</font>。在空中時傷害加成每秒衰減5%且無法獲得 <font color="#FFAE00">「流星飛火」</font>
+desc_buf_CS_jh_sjjc08_6=<font color="#FF00FF">陳音談箭-心眼</font><br>每層使<font color="#FFAE00">神箭九策技能傷害提高5%</font>，同時每秒獲得一層<font color="#FFAE00">「流星飛火」</font>。在空中時傷害加成每秒衰減5%且無法獲得 <font color="#FFAE00">「流星飛火」</font>
+desc_buf_CS_jh_sjjc08_7=<font color="#FF00FF">陳音談箭-心眼</font><br>每層使<font color="#FFAE00">神箭九策技能傷害提高5%</font>，同時每秒獲得一層<font color="#FFAE00">「流星飛火」</font>。在空中時傷害加成每秒衰減5%且無法獲得 <font color="#FFAE00">「流星飛火」</font>
+desc_buf_CS_jh_sjjc08_8=<font color="#FF00FF">陳音談箭-心眼</font><br>每層使<font color="#FFAE00">神箭九策技能傷害提高5%</font>，同時每秒獲得一層<font color="#FFAE00">「流星飛火」</font>。在空中時傷害加成每秒衰減5%且無法獲得 <font color="#FFAE00">「流星飛火」</font>
+desc_buf_CS_jh_sjjc08_9=<font color="#FF00FF">陳音談箭-心眼</font><br>每層使<font color="#FFAE00">神箭九策技能傷害提高5%</font>，同時每秒獲得一層<font color="#FFAE00">「流星飛火」</font>。在空中時傷害加成每秒衰減5%且無法獲得 <font color="#FFAE00">「流星飛火」</font>
+desc_buf_CS_jh_sjjc08_cd_0=desc_buf_CS_jh_sjjc08_cd_0
+desc_buf_CS_jh_sjjc08_cd_1=陳音談箭-心眼冷卻
+desc_buf_CS_kl_hqxxp07_hanquan_wudi_0=desc_buf_CS_kl_hqxxp07_hanquan_wudi_0
+desc_buf_CS_kl_hqxxp07_hanquan_wudi_1=無法被攻擊
+desc_buf_CS_kl_syl01_0=desc_buf_CS_kl_syl01_0
+desc_buf_CS_kl_syl01_1=加速15%
+desc_buf_jiankong_dingshen1_0=desc_buf_jiankong_dingshen1_0
+desc_buf_jiankong_dingshen1_1=定身
+desc_buf_jiankong_dingshen2_0=desc_buf_jiankong_dingshen2_0
+desc_buf_jiankong_dingshen2_1=定身
+desc_buf_jiankong_fengzhao_0=desc_buf_jiankong_fengzhao_0
+desc_buf_jiankong_fengzhao_1=封招
+desc_buf_jiankong_hunmi_0=desc_buf_jiankong_hunmi_0
+desc_buf_jiankong_hunmi_1=昏迷
+desc_buf_jiankong_jiansu_0=desc_buf_jiankong_jiansu_0
+desc_buf_jiankong_jiansu_1=減速
+desc_buf_jiankong_jianwei_0=desc_buf_jiankong_jianwei_0
+desc_buf_jiankong_jianwei_1=鍵位錯亂
+desc_buf_jiankong_jiaoxie_0=desc_buf_jiankong_jiaoxie_0
+desc_buf_jiankong_jiaoxie_1=繳械
+desc_buf_jiankong_jinqinggong_0=desc_buf_jiankong_jinqinggong_0
+desc_buf_jiankong_jinqinggong_1=禁輕功
+desc_buf_ng_gb_101_0=desc_buf_ng_gb_101_0
+desc_buf_ng_gb_101_01_0=desc_buf_ng_gb_101_01_0
+desc_buf_ng_gb_101_01_1=傷害降低30%
+desc_buf_ng_gb_101_02_0=desc_buf_ng_gb_101_02_0
+desc_buf_ng_gb_101_02_1=所有防禦減免忽視提高30%,所有招式傷害提高10%
+desc_buf_ng_gb_101_1=<font color="#f9fc00">一氣海納功（會意）</font><br><font color="#FF3030">石破天驚</font>：攻擊時有一定幾率使自身15秒內所有防禦減免忽視提高30%，所有招式傷害提高10%。<br><font color="#9932CD">焚月歸元</font>：攻擊時有一定幾率對目標造成額外陽傷害並減少石破天驚調息時間4秒。<br><font color="#CFB53B">天元破武</font>：被攻擊時有一定幾率移除對方身上部分攻擊類效果如附加傷害，防禦減免忽視等能直接或間接增強傷害的狀態，並使其在10秒內傷害降低30%。
+desc_buf_ng_kl_006_3_0=硬直
+desc_buf_ng_kl_006_3_1=
+desc_buf_ng_mj_101_0=desc_buf_ng_mj_101_0
+desc_buf_ng_mj_101_01_0=desc_buf_ng_mj_101_01_0
+desc_buf_ng_mj_101_01_1=<font color="#f9fc00">覆手焚海</font><br>9秒內每擊附加299點陽傷害（處於地面時，額外造成30%附加傷害）
+desc_buf_ng_mj_101_01_mark_0=desc_buf_ng_mj_101_01_mark_0
+desc_buf_ng_mj_101_01_mark_1=覆手焚海計時
+desc_buf_ng_mj_101_01_zq_0=desc_buf_ng_mj_101_01_zq_0
+desc_buf_ng_mj_101_01_zq_1=<font color="#CFB53B">移天焚海·焚海</font><br>招式傷害提高15%，所有防禦減免忽視提高15%
+desc_buf_ng_mj_101_02_0=desc_buf_ng_mj_101_02_0
+desc_buf_ng_mj_101_02_1=<font color="#f9fc00">翻手移天</font><br>5秒內吸收自身最大血量15%的傷害
+desc_buf_ng_mj_101_02_mark_0=desc_buf_ng_mj_101_02_mark_0
+desc_buf_ng_mj_101_02_mark_1=翻手移天計時
+desc_buf_ng_mj_101_02_zq_0=desc_buf_ng_mj_101_02_zq_0
+desc_buf_ng_mj_101_02_zq_1=<font color="#CFB53B">移天焚海·移天</font><br>每層使自身所有防禦提高10%（每2秒衰減一層，自身在地面時不衰減）
+desc_buf_ng_mj_101_1=<font color="#f9fc00">移天焚海訣（會意）</font><br><font color="#FF3030">覆手焚海</font>：攻擊時有一定幾率在9秒內每擊附加299點（自身處於地面時，額外造成30%附加傷害）陽傷害（回氣時間20秒，最多附加8次傷害）；<br><font color="#9932CD">翻手移天</font>：受擊時有一定幾率在5秒內吸收自身最大血量15%的傷害（回氣時間25秒）；<br><font color="#CFB53B">移天焚海</font>："覆手焚海"觸發時自身25秒內觸發過"翻手移天"，則使自身9秒內招式傷害提高15%，所有防禦減免忽視提高15%。"翻手移天"觸發時自身20秒內觸發過"覆手焚海"，則使自身10秒內所有防禦提高50%（每2秒衰減10%，自身在地面時不衰減）
+desc_buf_ng_wd_101_0=desc_buf_ng_wd_101_0
+desc_buf_ng_wd_101_01_0=desc_buf_ng_wd_101_01_0
+desc_buf_ng_wd_101_01_1=desc_buf_ng_wd_101_01_1
+desc_buf_ng_wd_101_01_1_0=desc_buf_ng_wd_101_01_1_0
+desc_buf_ng_wd_101_01_1_1=所有招式傷害提高10%，最多可疊加5層，攻擊後移除
+desc_buf_ng_wd_101_02_0=desc_buf_ng_wd_101_02_0
+desc_buf_ng_wd_101_02_1=desc_buf_ng_wd_101_02_1
+desc_buf_ng_wd_101_1=<font color="#f9fc00">太極神功(會意)</font><br><font color="#FF3030">化氣</font>：被攻擊時有一定幾率化勁吸收30%的傷害，並回復自身一定氣血。<br><font color="#9932CD">引勁</font>：被攻擊時有一定幾率牽引卸去30%的傷害，並給對方造成一定柔傷害。<br><font color="#CFB53B">太極為道</font>：「化氣」和「引勁」觸發時使自身所有招式傷害提高10%，最多可疊加5層，攻擊後移除，持續10秒。
+desc_buf_offline_lock_0=desc_buf_offline_lock_0
+desc_buf_offline_lock_1=通過手機助手登錄
+desc_buf_offline_lock_2=通過手機助手登錄
+desc_buf_offline_lock_3=
+desc_buf_sc_month_03_0=四季輪轉·秋<br>每次攻擊時，一定概率給自身添加「涼秋」狀態。<br>狀態觸發時，每次攻擊將對周圍8米內的所有友方目標造成20%氣血損失（無視防禦減傷效果），且友方目標血量若低於30%，則將昏迷目標5秒。
+desc_buf_sc_month_03_01_0=涼秋<br>每次攻擊將對周圍8米內的所有友方目標造成20%氣血損失（無視防禦減傷效果），且友方目標血量若低於30%，則將昏迷目標5秒。
+desc_buf_sc_month_03_01_1=
+desc_buf_sc_month_03_1=
+desc_buf_sc_month_03_CD_0=四季輪轉·秋<br>冷卻中，無法再次觸發
+desc_buf_sc_month_03_CD_1=
+desc_buf_sec_huifu_HP_0=氣血回復
+desc_buf_sec_huifu_HP_1=
+desc_buf_sec_jump_npc_0=desc_buf_sec_jump_npc_0
+desc_buf_sec_jump_npc_1=
+desc_buf_sec_jump_player_0=desc_buf_sec_jump_player_0
+desc_buf_sec_jump_player_1=
+desc_buf_yfhc_ls_001_0=哭
+desc_buf_yfhc_ls_001_1=
+desc_buf_yfhc_ls_002_0=羅星星的憤怒<br>每秒對周圍造成傷害
+desc_buf_yfhc_ls_002_1=
+desc_buf_yfhc_ls_003_0=詭毒<br>每秒對周圍造成傷害
+desc_buf_yfhc_ls_003_1=
+desc_buf_yfhc_ls_004_0=開場回血
+desc_buf_yfhc_ls_004_1=
+desc_buf_ythc_boss_01_0=desc_buf_ythc_boss_01_0
+desc_buf_ythc_boss_01_1=天風海雨<br>視野丟失，無法選中目標
+desc_buf_ythc_boss_02_0=山鬼暗啼<br>受到繳械，無法使用武器
+desc_buf_ythc_boss_02_1=
+desc_buf_ythc_boss_03_0=星橋鐵鎖
+desc_buf_ythc_boss_03_1=
+desc_buf_ythc_bw_001_0=人劍合一<br>裝備單劍時，單劍攻擊力提升10%
+desc_buf_ythc_bw_001_1=人劍合一<br>裝備單劍時，單劍攻擊力提升10%
+desc_buf_ythc_bw_001_2=人劍合一<br>裝備單劍時，單劍攻擊力提升20%
+desc_buf_ythc_bw_001_3=人劍合一<br>裝備單劍時，單劍攻擊力提升30%
+desc_buf_ythc_bw_001_4=人劍合一<br>裝備單劍時，單劍攻擊力提升40%
+desc_buf_ythc_bw_001_5=人劍合一<br>裝備單劍時，單劍攻擊力提升50%
+desc_buf_ythc_bw_001_6=人劍合一<br>裝備單劍時，單劍攻擊力提升60%
+desc_buf_ythc_bw_002_0=裝備雙劍時，傷害提升10%。
+desc_buf_ythc_bw_002_1=裝備雙劍時，傷害提升10%。
+desc_buf_ythc_bw_002_2=裝備雙劍時，傷害提升20%。
+desc_buf_ythc_bw_002_3=裝備雙劍時，傷害提升30%。
+desc_buf_ythc_bw_002_4=裝備雙劍時，傷害提升40%。
+desc_buf_ythc_bw_002_5=裝備雙劍時，傷害提升50%。
+desc_buf_ythc_bw_002_6=裝備雙劍時，傷害提升60%。
+desc_buf_ythc_bw_003_0=打草驚蛇<br>使用長棍類套路時，傷害提升10%。
+desc_buf_ythc_bw_003_1=打草驚蛇<br>使用長棍類套路時，傷害提升10%。
+desc_buf_ythc_bw_003_2=打草驚蛇<br>使用長棍類套路時，傷害提升20%。
+desc_buf_ythc_bw_003_3=打草驚蛇<br>使用長棍類套路時，傷害提升30%。
+desc_buf_ythc_bw_003_4=打草驚蛇<br>使用長棍類套路時，傷害提升40%。
+desc_buf_ythc_bw_003_5=打草驚蛇<br>使用長棍類套路時，傷害提升50%。
+desc_buf_ythc_bw_003_6=打草驚蛇<br>使用長棍類套路時，傷害提升60%。
+desc_buf_ythc_bw_004_0=釜底抽薪<br>使用短棍類套路時，傷害提升10%。
+desc_buf_ythc_bw_004_1=釜底抽薪<br>使用短棍類套路時，傷害提升10%。
+desc_buf_ythc_bw_004_2=釜底抽薪<br>使用短棍類套路時，傷害提升20%。
+desc_buf_ythc_bw_004_3=釜底抽薪<br>使用短棍類套路時，傷害提升30%。
+desc_buf_ythc_bw_004_4=釜底抽薪<br>使用短棍類套路時，傷害提升40%。
+desc_buf_ythc_bw_004_5=釜底抽薪<br>使用短棍類套路時，傷害提升50%。
+desc_buf_ythc_bw_004_6=釜底抽薪<br>使用短棍類套路時，傷害提升60%。
+desc_buf_ythc_bw_005_0=笑裡藏刀<br>使用單刀類套路時，傷害提升10%。
+desc_buf_ythc_bw_005_1=笑裡藏刀<br>使用單刀類套路時，傷害提升10%。
+desc_buf_ythc_bw_005_2=笑裡藏刀<br>使用單刀類套路時，傷害提升20%。
+desc_buf_ythc_bw_005_3=笑裡藏刀<br>使用單刀類套路時，傷害提升30%。
+desc_buf_ythc_bw_005_4=笑裡藏刀<br>使用單刀類套路時，傷害提升40%。
+desc_buf_ythc_bw_005_5=笑裡藏刀<br>使用單刀類套路時，傷害提升50%。
+desc_buf_ythc_bw_005_6=笑裡藏刀<br>使用單刀類套路時，傷害提升60%。
+desc_buf_ythc_bw_006_0=借刀殺人<br>使用雙刀類套路時，傷害提升10%。
+desc_buf_ythc_bw_006_1=借刀殺人<br>使用雙刀類套路時，傷害提升10%。
+desc_buf_ythc_bw_006_2=借刀殺人<br>使用雙刀類套路時，傷害提升20%。
+desc_buf_ythc_bw_006_3=借刀殺人<br>使用雙刀類套路時，傷害提升30%。
+desc_buf_ythc_bw_006_4=借刀殺人<br>使用雙刀類套路時，傷害提升40%。
+desc_buf_ythc_bw_006_5=借刀殺人<br>使用雙刀類套路時，傷害提升50%。
+desc_buf_ythc_bw_006_6=借刀殺人<br>使用雙刀類套路時，傷害提升60%。
+desc_buf_ythc_bw_007_0=瞞天過海<br>使用雙刺類套路時，傷害提升10%。
+desc_buf_ythc_bw_007_1=瞞天過海<br>使用雙刺類套路時，傷害提升10%。
+desc_buf_ythc_bw_007_2=瞞天過海<br>使用雙刺類套路時，傷害提升20%。
+desc_buf_ythc_bw_007_3=瞞天過海<br>使用雙刺類套路時，傷害提升30%。
+desc_buf_ythc_bw_007_4=瞞天過海<br>使用雙刺類套路時，傷害提升40%。
+desc_buf_ythc_bw_007_5=瞞天過海<br>使用雙刺類套路時，傷害提升50%。
+desc_buf_ythc_bw_007_6=瞞天過海<br>使用雙刺類套路時，傷害提升10%。
+desc_buf_ythc_bw_008_0=圖窮匕見<br>使用匕首類套路時，傷害提升10%。
+desc_buf_ythc_bw_008_1=圖窮匕見<br>使用匕首類套路時，傷害提升10%。
+desc_buf_ythc_bw_008_2=圖窮匕見<br>使用匕首類套路時，傷害提升20%。
+desc_buf_ythc_bw_008_3=圖窮匕見<br>使用匕首類套路時，傷害提升30%。
+desc_buf_ythc_bw_008_4=圖窮匕見<br>使用匕首類套路時，傷害提升40%。
+desc_buf_ythc_bw_008_5=圖窮匕見<br>使用匕首類套路時，傷害提升50%。
+desc_buf_ythc_bw_008_6=圖窮匕見<br>使用匕首類套路時，傷害提升60%。
+desc_buf_ythc_bw_009_0=出奇制勝<br>使用奇門類套路時，攻擊力提升10%。
+desc_buf_ythc_bw_009_1=出奇制勝<br>使用奇門類套路時，攻擊力提升10%。
+desc_buf_ythc_bw_009_2=出奇制勝<br>使用奇門類套路時，攻擊力提升20%。
+desc_buf_ythc_bw_009_3=出奇制勝<br>使用奇門類套路時，攻擊力提升30%。
+desc_buf_ythc_bw_009_4=出奇制勝<br>使用奇門類套路時，攻擊力提升40%。
+desc_buf_ythc_bw_009_5=出奇制勝<br>使用奇門類套路時，攻擊力提升50%。
+desc_buf_ythc_bw_009_6=出奇制勝<br>使用奇門類套路時，攻擊力提升60%。
+desc_buf_ythc_bw_010_0=趁虛而入<br>外功暴擊率提升5%
+desc_buf_ythc_bw_010_1=趁虛而入<br>外功暴擊率提升5%
+desc_buf_ythc_bw_010_2=趁虛而入<br>外功暴擊率提升10%
+desc_buf_ythc_bw_010_3=趁虛而入<br>外功暴擊率提升15%
+desc_buf_ythc_bw_010_4=趁虛而入<br>外功暴擊率提升20%
+desc_buf_ythc_bw_010_5=趁虛而入<br>外功暴擊率提升25%
+desc_buf_ythc_bw_010_6=趁虛而入<br>外功暴擊率提升30%
+desc_buf_ythc_bw_011_0=審時度勢<br>內功暴擊率提升5%。
+desc_buf_ythc_bw_011_1=審時度勢<br>內功暴擊率提升5%。
+desc_buf_ythc_bw_011_2=審時度勢<br>內功暴擊率提升10%。
+desc_buf_ythc_bw_011_3=審時度勢<br>內功暴擊率提升15%。
+desc_buf_ythc_bw_011_4=審時度勢<br>內功暴擊率提升20%。
+desc_buf_ythc_bw_011_5=審時度勢<br>內功暴擊率提升25%。
+desc_buf_ythc_bw_011_6=審時度勢<br>內功暴擊率提升30%。
+desc_buf_ythc_bw_012_0=無堅不摧<br>外功暴擊傷害提升5%
+desc_buf_ythc_bw_012_1=無堅不摧<br>外功暴擊傷害提升5%
+desc_buf_ythc_bw_012_2=無堅不摧<br>外功暴擊傷害提升10%
+desc_buf_ythc_bw_012_3=無堅不摧<br>外功暴擊傷害提升15%
+desc_buf_ythc_bw_012_4=無堅不摧<br>外功暴擊傷害提升20%
+desc_buf_ythc_bw_012_5=無堅不摧<br>外功暴擊傷害提升25%
+desc_buf_ythc_bw_012_6=無堅不摧<br>外功暴擊傷害提升30%
+desc_buf_ythc_bw_013_0=勢如破竹<br>內功暴擊傷害提升5%。
+desc_buf_ythc_bw_013_1=勢如破竹<br>內功暴擊傷害提升5%。
+desc_buf_ythc_bw_013_2=勢如破竹<br>內功暴擊傷害提升10%。
+desc_buf_ythc_bw_013_3=勢如破竹<br>內功暴擊傷害提升15%。
+desc_buf_ythc_bw_013_4=勢如破竹<br>內功暴擊傷害提升20%。
+desc_buf_ythc_bw_013_5=勢如破竹<br>內功暴擊傷害提升25%。
+desc_buf_ythc_bw_013_6=勢如破竹<br>內功暴擊傷害提升30%。
+desc_buf_ythc_bw_014_0=欲擒故縱<br>每次使用造成傷害時，一定概率損失5%氣血，給自身添加10秒傷害提升5%
+desc_buf_ythc_bw_014_01_0=欲擒故縱·增傷<br>傷害提升5%
+desc_buf_ythc_bw_014_01_1=欲擒故縱·增傷<br>傷害提升5%
+desc_buf_ythc_bw_014_01_2=欲擒故縱·增傷<br>傷害提升10%
+desc_buf_ythc_bw_014_01_3=欲擒故縱·增傷<br>傷害提升15%
+desc_buf_ythc_bw_014_01_4=欲擒故縱·增傷<br>傷害提升20%
+desc_buf_ythc_bw_014_01_5=欲擒故縱·增傷<br>傷害提升25%
+desc_buf_ythc_bw_014_01_6=欲擒故縱·增傷<br>傷害提升30%
+desc_buf_ythc_bw_014_1=欲擒故縱<br>每次造成傷害時，一定概率損失5%氣血，給自身添加10秒傷害提升5%
+desc_buf_ythc_bw_014_2=欲擒故縱<br>每次造成傷害時，一定概率損失5%氣血，給自身添加10秒傷害提升10%
+desc_buf_ythc_bw_014_3=欲擒故縱<br>每次造成傷害時，一定概率損失5%氣血，給自身添加10秒傷害提升15%
+desc_buf_ythc_bw_014_4=欲擒故縱<br>每次造成傷害時，一定概率損失5%氣血，給自身添加10秒傷害提升20%
+desc_buf_ythc_bw_014_5=欲擒故縱<br>每次造成傷害時，一定概率損失5%氣血，給自身添加10秒傷害提升25%
+desc_buf_ythc_bw_014_6=欲擒故縱<br>每次造成傷害時，一定概率損失5%氣血，給自身添加10秒傷害提升30%
+desc_buf_ythc_bw_015_0=破釜沉舟<br>最大氣血降低50%，傷害提升50%。
+desc_buf_ythc_bw_015_1=破釜沉舟<br>最大體魄降低50%，傷害提升5%。
+desc_buf_ythc_bw_015_2=破釜沉舟<br>最大體魄降低50%，傷害提升10%。
+desc_buf_ythc_bw_015_3=破釜沉舟<br>最大體魄降低50%，傷害提升20%。
+desc_buf_ythc_bw_015_4=破釜沉舟<br>最大體魄降低50%，傷害提升30%。
+desc_buf_ythc_bw_015_5=破釜沉舟<br>最大體魄降低50%，傷害提升40%。
+desc_buf_ythc_bw_015_6=破釜沉舟<br>最大體魄降低50%，傷害提升50%。
+desc_buf_ythc_bw_016_0=desc_buf_ythc_bw_016_0
+desc_buf_ythc_bw_016_1=百折不撓<br>受到傷害時，若怒氣超過50點，則一定概率回復5%氣血。
+desc_buf_ythc_bw_016_2=百折不撓<br>受到傷害時，若怒氣超過50點，則一定概率回復10%氣血。
+desc_buf_ythc_bw_016_3=百折不撓<br>受到傷害時，若怒氣超過50點，則一定概率回復15%氣血。
+desc_buf_ythc_bw_016_4=百折不撓<br>受到傷害時，若怒氣超過50點，則一定概率回復20%氣血。
+desc_buf_ythc_bw_016_5=百折不撓<br>受到傷害時，若怒氣超過50點，則一定概率回復25%氣血。
+desc_buf_ythc_bw_016_6=百折不撓<br>受到傷害時，若怒氣超過50點，則一定概率回復30%氣血。
+desc_buf_ythc_bw_017_0=desc_buf_ythc_bw_017_0
+desc_buf_ythc_bw_017_1=兩敗俱傷<br>每秒損失1%氣血，每秒對周圍造成1%氣血損失（自身血量超過10%時，僅在戰鬥中對普通敵人生效)
+desc_buf_ythc_bw_017_2=兩敗俱傷<br>每秒損失2%氣血，每秒對周圍造成2%氣血損失（自身血量超過10%時，僅在戰鬥中對普通敵人生效)
+desc_buf_ythc_bw_017_3=兩敗俱傷<br>每秒損失3%氣血，每秒對周圍造成3%氣血損失（自身血量超過10%時，僅在戰鬥中對普通敵人生效)
+desc_buf_ythc_bw_017_4=兩敗俱傷<br>每秒損失4%氣血，每秒對周圍造成4%氣血損失（自身血量超過10%時，僅在戰鬥中對普通敵人生效)
+desc_buf_ythc_bw_017_5=兩敗俱傷<br>每秒損失5%氣血，每秒對周圍造成5%氣血損失（自身血量超過10%時，僅在戰鬥中對普通敵人生效)
+desc_buf_ythc_bw_017_6=兩敗俱傷<br>每秒損失4%氣血，每秒對周圍造成5%氣血損失（自身血量超過10%時，僅在戰鬥中對普通敵人生效)
+desc_buf_ythc_bw_018_0=desc_buf_ythc_bw_018_0
+desc_buf_ythc_bw_018_01_0=desc_buf_ythc_bw_018_01_0
+desc_buf_ythc_bw_018_01_1=背水一戰·增傷<br>傷害提升10%。
+desc_buf_ythc_bw_018_01_2=背水一戰·增傷<br>傷害提升15%。
+desc_buf_ythc_bw_018_01_3=背水一戰·增傷<br>傷害提升20%。
+desc_buf_ythc_bw_018_01_4=背水一戰·增傷<br>傷害提升30%。
+desc_buf_ythc_bw_018_01_5=背水一戰·增傷<br>傷害提升40%。
+desc_buf_ythc_bw_018_01_6=背水一戰·增傷<br>傷害提升50%。
+desc_buf_ythc_bw_018_1=背水一戰<br>血量低於30%時，造成的傷害提升10%
+desc_buf_ythc_bw_018_2=背水一戰<br>血量低於30%時，造成的傷害提升15%
+desc_buf_ythc_bw_018_3=背水一戰<br>血量低於30%時，造成的傷害提升20%
+desc_buf_ythc_bw_018_4=背水一戰<br>血量低於30%時，造成的傷害提升30%
+desc_buf_ythc_bw_018_5=背水一戰<br>血量低於30%時，造成的傷害提升40%
+desc_buf_ythc_bw_018_6=背水一戰<br>血量低於30%時，造成的傷害提升50%
+desc_buf_ythc_bw_019_0=轉危為安<br>血量低於30%時，受到傷害後10%概率10秒內完全閃避所有傷害
+desc_buf_ythc_bw_019_01_0=desc_buf_ythc_bw_019_01_0
+desc_buf_ythc_bw_019_01_1=轉危為安·閃<br>10秒內閃避所有傷害
+desc_buf_ythc_bw_019_01_2=轉危為安·閃<br>10秒內閃避所有傷害
+desc_buf_ythc_bw_019_01_3=轉危為安·閃<br>10秒內閃避所有傷害
+desc_buf_ythc_bw_019_01_4=轉危為安·閃<br>10秒內閃避所有傷害
+desc_buf_ythc_bw_019_01_5=轉危為安·閃<br>15秒內閃避所有傷害
+desc_buf_ythc_bw_019_01_6=轉危為安·閃<br>20秒內閃避所有傷害
+desc_buf_ythc_bw_019_1=轉危為安<br>血量低於30%時，受到傷害後5%概率10秒內完全閃避所有傷害
+desc_buf_ythc_bw_019_2=轉危為安<br>血量低於30%時，受到傷害後10%概率10秒內完全閃避所有傷害
+desc_buf_ythc_bw_019_3=轉危為安<br>血量低於30%時，受到傷害後15%概率10秒內完全閃避所有傷害
+desc_buf_ythc_bw_019_4=轉危為安<br>血量低於30%時，受到傷害後20%概率10秒內完全閃避所有傷害
+desc_buf_ythc_bw_019_5=轉危為安<br>血量低於30%時，受到傷害後20%概率15秒內完全閃避所有傷害
+desc_buf_ythc_bw_019_6=轉危為安<br>血量低於30%時，受到傷害後20%概率20秒內完全閃避所有傷害
+desc_buf_ythc_bw_020_0=desc_buf_ythc_bw_020_0
+desc_buf_ythc_bw_020_1=將計就計<br>血量低於30%時，造成傷害時額外附加5%外功傷害
+desc_buf_ythc_bw_020_2=將計就計<br>血量低於30%時，造成傷害時額外附加10%外功傷害
+desc_buf_ythc_bw_020_3=將計就計<br>血量低於30%時，造成傷害時額外附加15%外功傷害
+desc_buf_ythc_bw_020_4=將計就計<br>血量低於30%時，造成傷害時額外附加20%外功傷害
+desc_buf_ythc_bw_020_5=將計就計<br>血量低於30%時，造成傷害時額外附加25%外功傷害
+desc_buf_ythc_bw_020_6=將計就計<br>血量低於30%時，造成傷害時額外附加30%外功傷害
+desc_buf_ythc_bw_021_0=desc_buf_ythc_bw_021_0
+desc_buf_ythc_bw_021_01_0=迎頭痛擊·暴<br>
+desc_buf_ythc_bw_021_01_1=迎頭痛擊·暴<br>暴擊概率提升5%，爆傷提升5%。
+desc_buf_ythc_bw_021_01_2=迎頭痛擊·暴<br>暴擊概率提升10%，爆傷提升10%。
+desc_buf_ythc_bw_021_01_3=迎頭痛擊·暴<br>暴擊概率提升15%，爆傷提升15%。
+desc_buf_ythc_bw_021_01_4=迎頭痛擊·暴<br>暴擊概率提升20%，爆傷提升20%。
+desc_buf_ythc_bw_021_01_5=迎頭痛擊·暴<br>暴擊概率提升25%，爆傷提升25%。
+desc_buf_ythc_bw_021_01_6=迎頭痛擊·暴<br>暴擊概率提升30%，爆傷提升30%。
+desc_buf_ythc_bw_021_1=迎頭痛擊<br>血量低於30%時，暴擊概率提升5%，爆傷提升5%。
+desc_buf_ythc_bw_021_2=迎頭痛擊<br>血量低於30%時，暴擊概率提升10%，爆傷提升10%。
+desc_buf_ythc_bw_021_3=迎頭痛擊<br>血量低於30%時，暴擊概率提升15%，爆傷提升15%。
+desc_buf_ythc_bw_021_4=迎頭痛擊<br>血量低於30%時，暴擊概率提升20%，爆傷提升20%。
+desc_buf_ythc_bw_021_5=迎頭痛擊<br>血量低於30%時，暴擊概率提升25%，爆傷提升25%。
+desc_buf_ythc_bw_021_6=迎頭痛擊<br>血量低於30%時，暴擊概率提升30%，爆傷提升30%。
+desc_buf_ythc_bw_022_0=desc_buf_ythc_bw_022_0
+desc_buf_ythc_bw_022_1=運籌帷幄<br>血量低於30%時，每次暴擊都將恢復5點怒氣，5點輕功值。
+desc_buf_ythc_bw_022_2=運籌帷幄<br>血量低於30%時，每次暴擊都將恢復10點怒氣，10點輕功值。
+desc_buf_ythc_bw_022_3=運籌帷幄<br>血量低於30%時，每次暴擊都將恢復15點怒氣，15點輕功值。
+desc_buf_ythc_bw_022_4=運籌帷幄<br>血量低於30%時，每次暴擊都將恢復20點怒氣，20點輕功值。
+desc_buf_ythc_bw_022_5=運籌帷幄<br>血量低於30%時，每次暴擊都將恢復25點怒氣，25點輕功值。
+desc_buf_ythc_bw_022_6=運籌帷幄<br>血量低於30%時，每次暴擊都將恢復30點怒氣，30點輕功值。
+desc_buf_ythc_bw_023_0=速戰速決<br>血量低於30%時，移動速度提升30%，閃避提升30%
+desc_buf_ythc_bw_023_01_0=速戰速決<br>
+desc_buf_ythc_bw_023_01_1=速戰速決<br>移動速度提升5%，閃避提升5%
+desc_buf_ythc_bw_023_01_2=速戰速決<br>移動速度提升10%，閃避提升10%
+desc_buf_ythc_bw_023_01_3=速戰速決<br>移動速度提升15%，閃避提升15%
+desc_buf_ythc_bw_023_01_4=速戰速決<br>移動速度提升20%，閃避提升20%
+desc_buf_ythc_bw_023_01_5=速戰速決<br>移動速度提升25%，閃避提升25%
+desc_buf_ythc_bw_023_01_6=速戰速決<br>移動速度提升30%，閃避提升30%
+desc_buf_ythc_bw_023_1=速戰速決<br>血量低於30%時，移動速度提升5%，閃避提升5%
+desc_buf_ythc_bw_023_2=速戰速決<br>血量低於30%時，移動速度提升10%，閃避提升10%
+desc_buf_ythc_bw_023_3=速戰速決<br>血量低於30%時，移動速度提升15%，閃避提升15%
+desc_buf_ythc_bw_023_4=速戰速決<br>血量低於30%時，移動速度提升20%，閃避提升20%
+desc_buf_ythc_bw_023_5=速戰速決<br>血量低於30%時，移動速度提升25%，閃避提升25%
+desc_buf_ythc_bw_023_6=速戰速決<br>血量低於30%時，移動速度提升30%，閃避提升30%
+desc_buf_ythc_bw_024_0=desc_buf_ythc_bw_024_0
+desc_buf_ythc_bw_024_01_0=臨危不懼·鎖<br>無法回復氣血
+desc_buf_ythc_bw_024_01_1=臨危不懼·鎖<br>無法回復氣血
+desc_buf_ythc_bw_024_1=臨危不懼<br>血量低於30%時，受擊40%概率觸發禁療，禁療後無法恢復氣血。
+desc_buf_ythc_bw_024_2=臨危不懼<br>血量低於30%時，受擊50%概率觸發禁療，禁療後無法恢復氣血。
+desc_buf_ythc_bw_024_3=臨危不懼<br>血量低於30%時，受擊60%概率觸發禁療，禁療後無法恢復氣血。
+desc_buf_ythc_bw_024_4=臨危不懼<br>血量低於30%時，受擊70%概率觸發禁療，禁療後無法恢復氣血。
+desc_buf_ythc_bw_024_5=臨危不懼<br>血量低於30%時，受擊80%概率觸發禁療，禁療後無法恢復氣血。
+desc_buf_ythc_bw_024_6=臨危不懼<br>血量低於30%時，受擊觸發禁療，禁療後無法恢復氣血。
+desc_buf_ythc_bw_024_cd_0=臨危不懼·冷卻
+desc_buf_ythc_bw_024_cd_1=
+desc_buf_ythc_bw_025_0=desc_buf_ythc_bw_025_0
+desc_buf_ythc_bw_025_01_0=desc_buf_ythc_bw_025_01_0
+desc_buf_ythc_bw_025_01_1=無中生有·護盾<br>受到傷害時，傷害減免30%。
+desc_buf_ythc_bw_025_01_2=無中生有·護盾<br>受到傷害時，傷害減免40%。
+desc_buf_ythc_bw_025_01_3=無中生有·護盾<br>受到傷害時，傷害減免50%。
+desc_buf_ythc_bw_025_01_4=無中生有·護盾<br>受到傷害時，傷害減免60%。
+desc_buf_ythc_bw_025_01_5=無中生有·護盾<br>受到傷害時，傷害減免70%。
+desc_buf_ythc_bw_025_01_6=無中生有·護盾<br>受到傷害時，傷害減免60%。
+desc_buf_ythc_bw_025_1=無中生有<br>每過60秒形成一個15秒護盾，護盾吸收30%傷害。
+desc_buf_ythc_bw_025_2=無中生有<br>每過60秒形成一個15秒護盾，護盾吸收40%傷害。
+desc_buf_ythc_bw_025_3=無中生有<br>每過60秒形成一個15秒護盾，護盾吸收50%傷害。
+desc_buf_ythc_bw_025_4=無中生有<br>每過60秒形成一個15秒護盾，護盾吸收60%傷害。
+desc_buf_ythc_bw_025_5=無中生有<br>每過60秒形成一個15秒護盾，護盾吸收70%傷害。
+desc_buf_ythc_bw_025_6=無中生有<br>每過60秒形成一個15秒護盾，護盾吸收80%傷害。
+desc_buf_ythc_bw_026_0=desc_buf_ythc_bw_026_0
+desc_buf_ythc_bw_026_01_0=desc_buf_ythc_bw_026_01_0
+desc_buf_ythc_bw_026_01_1=暗度陳倉·護盾<br>完全免疫傷害。
+desc_buf_ythc_bw_026_01_2=desc_buf_ythc_bw_026_01_2
+desc_buf_ythc_bw_026_01_3=desc_buf_ythc_bw_026_01_3
+desc_buf_ythc_bw_026_01_4=desc_buf_ythc_bw_026_01_4
+desc_buf_ythc_bw_026_01_5=desc_buf_ythc_bw_026_01_5
+desc_buf_ythc_bw_026_01_6=desc_buf_ythc_bw_026_01_6
+desc_buf_ythc_bw_026_01_7=
+desc_buf_ythc_bw_026_1=暗度陳倉<br>受擊時5%概率形成5秒免傷盾。
+desc_buf_ythc_bw_026_2=暗度陳倉<br>受擊時10%概率形成5秒免傷盾。
+desc_buf_ythc_bw_026_3=暗度陳倉<br>受擊時15%概率形成5秒免傷盾。
+desc_buf_ythc_bw_026_4=暗度陳倉<br>受擊時20%概率形成5秒免傷盾。
+desc_buf_ythc_bw_026_5=暗度陳倉<br>受擊時25%概率形成5秒免傷盾。
+desc_buf_ythc_bw_026_6=暗度陳倉<br>受擊時30%概率形成5秒免傷盾。
+desc_buf_ythc_bw_026_7=
+desc_buf_ythc_bw_026_cd_0=desc_buf_ythc_bw_026_cd_0
+desc_buf_ythc_bw_026_cd_1=暗度陳倉·冷卻
+desc_buf_ythc_bw_027_0=順手牽羊<br>每次攻擊目標時，10%概率附加看破狀態，每層看破閃避率降低5%，可疊加3層。（對首領類怪物附加概率減半）
+desc_buf_ythc_bw_027_01_0=順手牽羊·看破<br>閃避率降低5%
+desc_buf_ythc_bw_027_01_1=順手牽羊·看破<br>閃避率降低5%
+desc_buf_ythc_bw_027_01_2=順手牽羊·看破<br>閃避率降低5%
+desc_buf_ythc_bw_027_01_3=順手牽羊·看破<br>閃避率降低5%
+desc_buf_ythc_bw_027_1=順手牽羊<br>每次攻擊目標時，10%概率附加看破狀態，每層看破閃避率降低5%，可疊加3層。（對首領類怪物附加概率減半）
+desc_buf_ythc_bw_027_2=順手牽羊<br>每次攻擊目標時，20%概率附加看破狀態，每層看破閃避率降低5%，可疊加5層。（對首領類怪物附加概率減半）
+desc_buf_ythc_bw_027_3=順手牽羊<br>每次攻擊目標時，30%概率附加看破狀態，每層看破閃避率降低5%，可疊加10層。（對首領類怪物附加概率減半）
+desc_buf_ythc_bw_027_4=順手牽羊<br>每次攻擊目標時，40%概率附加看破狀態，每層看破閃避率降低5%，可疊加10層。（對首領類怪物附加概率減半）
+desc_buf_ythc_bw_027_5=順手牽羊<br>每次攻擊目標時，50%概率附加看破狀態，每層看破閃避率降低5%，可疊加10層。（對首領類怪物附加概率減半）
+desc_buf_ythc_bw_027_6=順手牽羊<br>每次攻擊目標時，60%概率附加看破狀態，每層看破閃避率降低5%，可疊加10層。（對首領類怪物附加概率減半）
+desc_buf_ythc_bw_027_7=
+desc_buf_ythc_bw_028_0=desc_buf_ythc_bw_028_0
+desc_buf_ythc_bw_028_1=趁火打劫<br>對擁有看破狀態的目標攻擊時，攻擊時額外造成30%傷害
+desc_buf_ythc_bw_028_2=趁火打劫<br>對擁有看破狀態的目標攻擊時，攻擊時額外造成40%傷害
+desc_buf_ythc_bw_028_3=趁火打劫<br>對擁有看破狀態的目標攻擊時，攻擊時額外造成50%傷害
+desc_buf_ythc_bw_028_4=
+desc_buf_ythc_bw_029_0=過河拆橋<br>每次攻擊時確認目標看破狀態，若狀態超過1層，則30%概率清除1層看破狀態，造成10%氣血損失（對首領類怪物傷害減半）
+desc_buf_ythc_bw_029_01_0=desc_buf_ythc_bw_029_01_0
+desc_buf_ythc_bw_029_01_1=過河拆橋·傷害
+desc_buf_ythc_bw_029_01_2=過河拆橋·傷害
+desc_buf_ythc_bw_029_01_3=過河拆橋·傷害
+desc_buf_ythc_bw_029_01_4=
+desc_buf_ythc_bw_029_01_5=
+desc_buf_ythc_bw_029_1=過河拆橋<br>每次攻擊時確認目標看破狀態，若狀態超過1層，則直接清除1層看破狀態，造成10%氣血損失（對首領類怪物傷害減半）
+desc_buf_ythc_bw_029_2=過河拆橋<br>每次攻擊時確認目標看破狀態，若狀態超過1層，則30%概率清除1層看破狀態，造成20%氣血損失（對首領類怪物傷害減半）
+desc_buf_ythc_bw_029_3=過河拆橋<br>每次攻擊時確認目標看破狀態，若狀態超過1層，則30%概率清除1層看破狀態，造成30%氣血損失（對首領類怪物傷害減半）
+desc_buf_ythc_bw_029_4=
+desc_buf_ythc_bw_029_5=
+desc_buf_ythc_bw_030_0=以毒攻毒<br>目標存在看破狀態時，每次攻擊附加一層毒狀態，毒狀態每秒對周圍造成少量傷害
+desc_buf_ythc_bw_030_01_0=desc_buf_ythc_bw_030_01_0
+desc_buf_ythc_bw_030_01_1=以毒攻毒·毒傷<br><br>對周圍每5秒造成5%氣血損失。
+desc_buf_ythc_bw_030_01_2=desc_buf_ythc_bw_030_01_2
+desc_buf_ythc_bw_030_01_3=desc_buf_ythc_bw_030_01_3
+desc_buf_ythc_bw_030_01_4=
+desc_buf_ythc_bw_030_01_5=
+desc_buf_ythc_bw_030_1=以毒攻毒<br>目標存在看破狀態時，每次攻擊時10%附加一層毒狀態，毒狀態每5秒對周圍造成5%氣血損失。<br>以毒攻毒·毒傷狀態可疊加10層。
+desc_buf_ythc_bw_030_2=以毒攻毒<br>目標存在看破狀態時，每次攻擊時20%附加一層毒狀態，毒狀態每5秒對周圍造成5%氣血損失。<br>以毒攻毒·毒傷狀態可疊加10層。
+desc_buf_ythc_bw_030_3=以毒攻毒<br>目標存在看破狀態時，每次攻擊時30%附加一層毒狀態，毒狀態每5秒對周圍造成5%氣血損失。<br>以毒攻毒·毒傷狀態可疊加10層。
+desc_buf_ythc_bw_030_4=
+desc_buf_ythc_bw_030_5=
+desc_buf_ythc_bw_031_0=desc_buf_ythc_bw_031_0
+desc_buf_ythc_bw_031_01_0=desc_buf_ythc_bw_031_01_0
+desc_buf_ythc_bw_031_01_1=隔岸觀火·引爆
+desc_buf_ythc_bw_031_01_2=隔岸觀火·引爆
+desc_buf_ythc_bw_031_01_3=隔岸觀火·引爆
+desc_buf_ythc_bw_031_01_4=
+desc_buf_ythc_bw_031_01_5=
+desc_buf_ythc_bw_031_1=隔岸觀火<br>攻擊目標時，若目標身上「以毒攻毒·毒傷」狀態超過10層，則引爆目標身上「以毒攻毒·毒傷」狀態，對目標及其周圍目標造成10%氣血損失。<br>（對首領類怪物傷害減半）
+desc_buf_ythc_bw_031_2=隔岸觀火<br>攻擊目標時，若目標身上「以毒攻毒·毒傷」狀態超過10層，則引爆目標身上「以毒攻毒·毒傷」狀態，對目標及其周圍目標造成20%氣血損失。<br>（對首領類怪物傷害減半）
+desc_buf_ythc_bw_031_3=隔岸觀火<br>攻擊目標時，若目標身上「以毒攻毒·毒傷」狀態超過10層，則引爆目標身上「以毒攻毒·毒傷」狀態，對目標及其周圍目標造成30%氣血損失。<br>（對首領類怪物傷害減半）
+desc_buf_ythc_bw_031_4=
+desc_buf_ythc_bw_031_5=
+desc_buf_ythc_bw_032_0=desc_buf_ythc_bw_032_0
+desc_buf_ythc_bw_032_1=決一死戰<br>自身傷害降低30%，所有傷害變為濺射傷害。
+desc_buf_ythc_bw_032_2=決一死戰<br>自身傷害降低20%，所有傷害變為濺射傷害。
+desc_buf_ythc_bw_032_3=決一死戰<br>自身傷害降低10%，所有傷害變為濺射傷害。
+desc_buf_ythc_bw_032_4=
+desc_buf_ythc_bw_032_5=
+desc_buf_ythc_mon_001_0=【夜訪皇城】血量提升
+desc_buf_ythc_mon_001_1=【夜訪皇城】血量提升
+desc_buf_ythc_mon_002_0=【夜訪皇城】傷害提升
+desc_buf_ythc_mon_002_1=【夜訪皇城】傷害提升
+desc_buf_ythc_mon_003_0=【夜探皇城】閃避提升
+desc_buf_ythc_mon_003_1=【夜探皇城】閃避提升
+desc_buf_ythc_mon_004_0=【夜探皇城】暴擊提升
+desc_buf_ythc_mon_004_1=【夜探皇城】暴擊提升
+desc_buf_ythc_mon_005_0=【夜探皇城】爆傷提升
+desc_buf_ythc_mon_005_1=【夜探皇城】爆傷提升
+desc_buf_ythc_mon_007_0=鬆懈<br>傷害降低80%。
+desc_buf_ythc_mon_007_01_0=鬆懈<br>傷害降低50%
+desc_buf_ythc_mon_007_01_1=
+desc_buf_ythc_mon_007_02_0=鬆懈<br>傷害降低50%
+desc_buf_ythc_mon_007_02_1=
+desc_buf_ythc_mon_007_1=
+desc_buf_ythc_tf_001_0=扶搖直上<br>臂力，內息，身法，體魄，罡氣提升
+desc_buf_ythc_tf_001_1=扶搖直上<br>臂力，內息，身法，體魄，罡氣提升10%。
+desc_buf_ythc_tf_001_10=扶搖直上<br>臂力，內息，身法，體魄，罡氣提升50%。<br>外功防禦，內功防禦提升50%。
+desc_buf_ythc_tf_001_11=扶搖直上<br>臂力，內息，身法，體魄，罡氣提升50%。<br>外功防禦，內功防禦提升50%。<br>移動速度提升10%
+desc_buf_ythc_tf_001_12=扶搖直上<br>臂力，內息，身法，體魄，罡氣提升50%。<br>外功防禦，內功防禦提升50%。<br>移動速度提升15%
+desc_buf_ythc_tf_001_13=扶搖直上<br>臂力，內息，身法，體魄，罡氣提升50%。<br>外功防禦，內功防禦提升50%。<br>移動速度提升20%
+desc_buf_ythc_tf_001_14=扶搖直上<br>臂力，內息，身法，體魄，罡氣提升50%。<br>外功防禦，內功防禦提升50%。<br>移動速度提升25%
+desc_buf_ythc_tf_001_15=扶搖直上<br>臂力，內息，身法，體魄，罡氣提升50%。<br>外功防禦，內功防禦提升50%。<br>移動速度提升30%
+desc_buf_ythc_tf_001_16=扶搖直上<br>臂力，內息，身法，體魄，罡氣提升50%。<br>外功防禦，內功防禦提升50%。<br>移動速度提升30%<br>受到致命傷害時，回復30%氣血。（生效後移除該效果）
+desc_buf_ythc_tf_001_17=扶搖直上<br>臂力，內息，身法，體魄，罡氣提升50%。<br>外功防禦，內功防禦提升50%。<br>移動速度提升30%<br>受到致命傷害時，回復40%氣血。（生效後移除該效果）
+desc_buf_ythc_tf_001_18=扶搖直上<br>臂力，內息，身法，體魄，罡氣提升50%。<br>外功防禦，內功防禦提升50%。<br>移動速度提升30%<br>受到致命傷害時，回復50%氣血。（生效後移除該效果）
+desc_buf_ythc_tf_001_19=扶搖直上<br>臂力，內息，身法，體魄，罡氣提升50%。<br>外功防禦，內功防禦提升50%。<br>移動速度提升30%<br>受到致命傷害時，回復80%氣血。（生效後移除該效果）
+desc_buf_ythc_tf_001_2=扶搖直上<br>臂力，內息，身法，體魄，罡氣提升20%。
+desc_buf_ythc_tf_001_20=扶搖直上<br>臂力，內息，身法，體魄，罡氣提升50%。<br>外功防禦，內功防禦提升50%。<br>移動速度提升30%<br>受到致命傷害時，回復所有氣血。（生效後移除該效果）
+desc_buf_ythc_tf_001_3=扶搖直上<br>臂力，內息，身法，體魄，罡氣提升30%。
+desc_buf_ythc_tf_001_4=扶搖直上<br>臂力，內息，身法，體魄，罡氣提升40%。
+desc_buf_ythc_tf_001_5=扶搖直上<br>臂力，內息，身法，體魄，罡氣提升50%。
+desc_buf_ythc_tf_001_6=扶搖直上<br>臂力，內息，身法，體魄，罡氣提升50%。<br>外功防禦，內功防禦提升10%。
+desc_buf_ythc_tf_001_7=扶搖直上<br>臂力，內息，身法，體魄，罡氣提升50%。<br>外功防禦，內功防禦提升20%。
+desc_buf_ythc_tf_001_8=扶搖直上<br>臂力，內息，身法，體魄，罡氣提升50%。<br>外功防禦，內功防禦提升30%。
+desc_buf_ythc_tf_001_9=扶搖直上<br>臂力，內息，身法，體魄，罡氣提升50%。<br>外功防禦，內功防禦提升40%。
+desc_buf_ythc_tf_002_0=扶搖直上<br>臂力，內息，身法，體魄，罡氣提升50%。<br>外功防禦，內功防禦提升50%。<br>移動速度提升30%<br>受到致命傷害時，回復所有氣血。（生效後移除該效果）<br>傷害提升10%。
+desc_buf_ythc_tf_002_1=扶搖直上<br>臂力，內息，身法，體魄，罡氣提升50%。<br>外功防禦，內功防禦提升50%。<br>移動速度提升30%<br>受到致命傷害時，回復所有氣血。（生效後移除該效果）<br>傷害提升10%。
+desc_buf_ythc_tf_002_10=扶搖直上<br>臂力，內息，身法，體魄，罡氣提升50%。<br>外功防禦，內功防禦提升50%。<br>移動速度提升30%<br>受到致命傷害時，回復所有氣血。（生效後移除該效果）<br>傷害提升30%。<br>受到傷害時，80%觸發「霸氣」狀態，該狀態下附帶霸體，並無視所有傷害。（冷卻時間1分鐘）
+desc_buf_ythc_tf_002_2=扶搖直上<br>臂力，內息，身法，體魄，罡氣提升50%。<br>外功防禦，內功防禦提升50%。<br>移動速度提升30%<br>受到致命傷害時，回復所有氣血。（生效後移除該效果）<br>傷害提升15%。
+desc_buf_ythc_tf_002_3=扶搖直上<br>臂力，內息，身法，體魄，罡氣提升50%。<br>外功防禦，內功防禦提升50%。<br>移動速度提升30%<br>受到致命傷害時，回復所有氣血。（生效後移除該效果）<br>傷害提升20%。
+desc_buf_ythc_tf_002_4=扶搖直上<br>臂力，內息，身法，體魄，罡氣提升50%。<br>外功防禦，內功防禦提升50%。<br>移動速度提升30%<br>受到致命傷害時，回復所有氣血。（生效後移除該效果）<br>傷害提升25%。
+desc_buf_ythc_tf_002_5=扶搖直上<br>臂力，內息，身法，體魄，罡氣提升50%。<br>外功防禦，內功防禦提升50%。<br>移動速度提升30%<br>受到致命傷害時，回復所有氣血。（生效後移除該效果）<br>傷害提升30%。
+desc_buf_ythc_tf_002_6=扶搖直上<br>臂力，內息，身法，體魄，罡氣提升50%。<br>外功防禦，內功防禦提升50%。<br>移動速度提升30%<br>受到致命傷害時，回復所有氣血。（生效後移除該效果）<br>傷害提升30%。<br>受到傷害時，30%觸發「霸氣」狀態，該狀態下附帶霸體，並無視所有傷害。（冷卻時間1分鐘）
+desc_buf_ythc_tf_002_7=扶搖直上<br>臂力，內息，身法，體魄，罡氣提升50%。<br>外功防禦，內功防禦提升50%。<br>移動速度提升30%<br>受到致命傷害時，回復所有氣血。（生效後移除該效果）<br>傷害提升30%。<br>受到傷害時，40%觸發「霸氣」狀態，該狀態下附帶霸體，並無視所有傷害。（冷卻時間1分鐘）
+desc_buf_ythc_tf_002_8=扶搖直上<br>臂力，內息，身法，體魄，罡氣提升50%。<br>外功防禦，內功防禦提升50%。<br>移動速度提升30%<br>受到致命傷害時，回復所有氣血。（生效後移除該效果）<br>傷害提升30%。<br>受到傷害時，50%觸發「霸氣」狀態，該狀態下附帶霸體，並無視所有傷害。（冷卻時間1分鐘）
+desc_buf_ythc_tf_002_9=扶搖直上<br>臂力，內息，身法，體魄，罡氣提升50%。<br>外功防禦，內功防禦提升50%。<br>移動速度提升30%<br>受到致命傷害時，回復所有氣血。（生效後移除該效果）<br>傷害提升30%。<br>受到傷害時，60%觸發「霸氣」狀態，該狀態下附帶霸體，並無視所有傷害。（冷卻時間1分鐘）
+desc_buf_ythc_tf_003_0=速戰速決<br>移動速度30%
+desc_buf_ythc_tf_003_1=速戰速決<br>移動速度提升10%
+desc_buf_ythc_tf_003_2=速戰速決<br>移動速度提升15%
+desc_buf_ythc_tf_003_3=速戰速決<br>移動速度提升20%
+desc_buf_ythc_tf_003_4=速戰速決<br>移動速度提升25%
+desc_buf_ythc_tf_003_5=速戰速決<br>移動速度提升30%
+desc_buf_ythc_tf_004_0=desc_buf_ythc_tf_004_0
+desc_buf_ythc_tf_004_1=起死回生<br>受到致命傷害時，回復30%氣血。（生效後移除該狀態）
+desc_buf_ythc_tf_004_2=起死回生<br>受到致命傷害時，回復40%氣血。（生效後移除該狀態）
+desc_buf_ythc_tf_004_3=起死回生<br>受到致命傷害時，回復50%氣血。（生效後移除該狀態）
+desc_buf_ythc_tf_004_4=起死回生<br>受到致命傷害時，回復80%氣血。（生效後移除該狀態）
+desc_buf_ythc_tf_004_5=起死回生<br>受到致命傷害時，回復所有氣血。（生效後移除該狀態）
+desc_buf_ythc_tf_005_0=desc_buf_ythc_tf_005_0
+desc_buf_ythc_tf_005_1=大張撻伐<br>傷害提升10%。
+desc_buf_ythc_tf_005_2=大張撻伐<br>傷害提升15%。
+desc_buf_ythc_tf_005_3=大張撻伐<br>傷害提升20%。
+desc_buf_ythc_tf_005_4=大張撻伐<br>傷害提升25%。
+desc_buf_ythc_tf_005_5=大張撻伐<br>傷害提升30%。
+desc_buf_ythc_tf_006_0=desc_buf_ythc_tf_006_0
+desc_buf_ythc_tf_006_01_0=霸氣<br>自身紅霸體，並無視所有傷害。
+desc_buf_ythc_tf_006_01_1=霸氣<br>自身紅霸體，並無視所有傷害。
+desc_buf_ythc_tf_006_1=霸氣十足<br>受到傷害時，30%觸發「霸氣」狀態，該狀態下附帶霸體，並無視所有傷害。（冷卻時間1分鐘）
+desc_buf_ythc_tf_006_2=霸氣十足<br>受到傷害時，40%觸發「霸氣」狀態，該狀態下附帶霸體，並無視所有傷害。（冷卻時間1分鐘）
+desc_buf_ythc_tf_006_3=霸氣十足<br>受到傷害時，50%觸發「霸氣」狀態，該狀態下附帶霸體，並無視所有傷害。（冷卻時間1分鐘）
+desc_buf_ythc_tf_006_4=霸氣十足<br>受到傷害時，60%觸發「霸氣」狀態，該狀態下附帶霸體，並無視所有傷害。（冷卻時間1分鐘）
+desc_buf_ythc_tf_006_5=霸氣十足<br>受到傷害時，80%觸發「霸氣」狀態，該狀態下附帶霸體，並無視所有傷害。（冷卻時間1分鐘）
+desc_buf_ythc_tf_006_cd_0=霸氣十足<br>暫時無法觸發霸氣狀態
+desc_buf_ythc_tf_006_cd_1=
+desc_buf_ythc_tf_007_0=desc_buf_ythc_tf_007_0
+desc_buf_ythc_tf_007_1=天賦點獲取量提升10%
+desc_buf_ythc_tf_007_10=天賦點獲取量提升50%<br>夜探皇城中拾取藥物的回血效果回復量提升100%
+desc_buf_ythc_tf_007_11=天賦點獲取量提升50%<br>夜探皇城中拾取藥物的回血效果回復量提升100%<br>採集物品時耗時縮短2秒
+desc_buf_ythc_tf_007_12=天賦點獲取量提升50%<br>夜探皇城中拾取藥物的回血效果回復量提升100%<br>採集物品時耗時縮短4秒
+desc_buf_ythc_tf_007_13=天賦點獲取量提升50%<br>夜探皇城中拾取藥物的回血效果回復量提升100%<br>採集物品時耗時縮短6秒
+desc_buf_ythc_tf_007_14=天賦點獲取量提升50%<br>夜探皇城中拾取藥物的回血效果回復量提升100%<br>採集物品時耗時縮短8秒
+desc_buf_ythc_tf_007_15=天賦點獲取量提升50%<br>夜探皇城中拾取藥物的回血效果回復量提升100%<br>採集物品時耗時縮短10秒
+desc_buf_ythc_tf_007_16=天賦點獲取量提升50%<br>夜探皇城中拾取藥物的回血效果回復量提升100%<br>採集物品時耗時縮短10秒<br>降低敵方目標偵測範圍10%
+desc_buf_ythc_tf_007_17=天賦點獲取量提升50%<br>夜探皇城中拾取藥物的回血效果回復量提升100%<br>採集物品時耗時縮短10秒<br>降低敵方目標偵測範圍15%
+desc_buf_ythc_tf_007_18=天賦點獲取量提升50%<br>夜探皇城中拾取藥物的回血效果回復量提升100%<br>採集物品時耗時縮短10秒<br>降低敵方目標偵測範圍20%
+desc_buf_ythc_tf_007_19=天賦點獲取量提升50%<br>夜探皇城中拾取藥物的回血效果回復量提升100%<br>採集物品時耗時縮短10秒<br>降低敵方目標偵測範圍25%
+desc_buf_ythc_tf_007_2=天賦點獲取量提升20%
+desc_buf_ythc_tf_007_20=天賦點獲取量提升50%<br>夜探皇城中拾取藥物的回血效果回復量提升100%<br>採集物品時耗時縮短10秒<br>降低敵方目標偵測範圍30%
+desc_buf_ythc_tf_007_3=天賦點獲取量提升30%
+desc_buf_ythc_tf_007_4=天賦點獲取量提升40%
+desc_buf_ythc_tf_007_5=天賦點獲取量提升50%
+desc_buf_ythc_tf_007_6=天賦點獲取量提升50%<br>夜探皇城中拾取藥物的回血效果回復量提升20%
+desc_buf_ythc_tf_007_7=天賦點獲取量提升50%<br>夜探皇城中拾取藥物的回血效果回復量提升40%
+desc_buf_ythc_tf_007_8=天賦點獲取量提升50%<br>夜探皇城中拾取藥物的回血效果回復量提升60%
+desc_buf_ythc_tf_007_9=天賦點獲取量提升50%<br>夜探皇城中拾取藥物的回血效果回復量提升80%
+desc_buf_ythc_tf_008_0=desc_buf_ythc_tf_008_0
+desc_buf_ythc_tf_008_1=天賦點獲取量提升50%<br>夜探皇城中拾取藥物的回血效果回復量提升100%<br>採集物品時耗時縮短10秒<br>降低敵方目標偵測範圍30%<br>首領戰勝利時，有20%概率額外掉落一個寶物
+desc_buf_ythc_tf_008_10=天賦點獲取量提升50%<br>夜探皇城中拾取藥物的回血效果回復量提升100%<br>採集物品時耗時縮短10秒<br>降低敵方目標偵測範圍30%<br>首領戰勝利時，有100%概率額外掉落一個寶物<br>非戰鬥狀態下，自動進入馭風狀態，移動速度提升，輕功強化，輕功回復速率額外提升20點
+desc_buf_ythc_tf_008_1_0=馭風
+desc_buf_ythc_tf_008_1_1=<font color="#f9fc00">馭風狀態</font><br/>此狀態移動速度提升，輕功強化。一旦進入戰鬥狀態立刻移除馭風狀態。
+desc_buf_ythc_tf_008_1_2=<font color="#f9fc00">馭風狀態</font><br/>此狀態移動速度提升，輕功強化。一旦進入戰鬥狀態立刻移除馭風狀態。
+desc_buf_ythc_tf_008_1_3=<font color="#f9fc00">馭風狀態</font><br/>此狀態移動速度提升，輕功強化。一旦進入戰鬥狀態立刻移除馭風狀態。
+desc_buf_ythc_tf_008_1_4=<font color="#f9fc00">馭風狀態</font><br/>此狀態移動速度提升，輕功強化。一旦進入戰鬥狀態立刻移除馭風狀態。
+desc_buf_ythc_tf_008_1_5=<font color="#f9fc00">馭風狀態</font><br/>此狀態移動速度提升，輕功強化。一旦進入戰鬥狀態立刻移除馭風狀態。
+desc_buf_ythc_tf_008_2=天賦點獲取量提升50%<br>夜探皇城中拾取藥物的回血效果回復量提升100%<br>採集物品時耗時縮短10秒<br>降低敵方目標偵測範圍30%<br>首領戰勝利時，有40%概率額外掉落一個寶物
+desc_buf_ythc_tf_008_3=天賦點獲取量提升50%<br>夜探皇城中拾取藥物的回血效果回復量提升100%<br>採集物品時耗時縮短10秒<br>降低敵方目標偵測範圍30%<br>首領戰勝利時，有60%概率額外掉落一個寶物
+desc_buf_ythc_tf_008_4=天賦點獲取量提升50%<br>夜探皇城中拾取藥物的回血效果回復量提升100%<br>採集物品時耗時縮短10秒<br>降低敵方目標偵測範圍30%<br>首領戰勝利時，有80%概率額外掉落一個寶物
+desc_buf_ythc_tf_008_5=天賦點獲取量提升50%<br>夜探皇城中拾取藥物的回血效果回復量提升100%<br>採集物品時耗時縮短10秒<br>降低敵方目標偵測範圍30%<br>首領戰勝利時，有100%概率額外掉落一個寶物
+desc_buf_ythc_tf_008_6=天賦點獲取量提升50%<br>夜探皇城中拾取藥物的回血效果回復量提升100%<br>採集物品時耗時縮短10秒<br>降低敵方目標偵測範圍30%<br>首領戰勝利時，有100%概率額外掉落一個寶物<br>非戰鬥狀態下，自動進入馭風狀態，移動速度提升，輕功強化，輕功回復額外提升10點
+desc_buf_ythc_tf_008_7=天賦點獲取量提升50%<br>夜探皇城中拾取藥物的回血效果回復量提升100%<br>採集物品時耗時縮短10秒<br>降低敵方目標偵測範圍30%<br>首領戰勝利時，有100%概率額外掉落一個寶物<br>非戰鬥狀態下，自動進入馭風狀態，移動速度提升，輕功強化，輕功回復速率額外提升12點
+desc_buf_ythc_tf_008_8=天賦點獲取量提升50%<br>夜探皇城中拾取藥物的回血效果回復量提升100%<br>採集物品時耗時縮短10秒<br>降低敵方目標偵測範圍30%<br>首領戰勝利時，有100%概率額外掉落一個寶物<br>非戰鬥狀態下，自動進入馭風狀態，移動速度提升，輕功強化，輕功回復速率額外提升15點
+desc_buf_ythc_tf_008_9=天賦點獲取量提升50%<br>夜探皇城中拾取藥物的回血效果回復量提升100%<br>採集物品時耗時縮短10秒<br>降低敵方目標偵測範圍30%<br>首領戰勝利時，有100%概率額外掉落一個寶物<br>非戰鬥狀態下，自動進入馭風狀態，移動速度提升，輕功強化，輕功回復速率額外提升17點
+desc_buf_ythc_tf_009_0=解鎖<br>將隨著玩家技巧天賦等級提高，縮短讀條時間。
+desc_buf_ythc_tf_009_1=
+desc_buf_ythc_tj_001_0=desc_buf_ythc_tj_001_0
+desc_buf_ythc_tj_001_1=忍法隱遁術
+desc_buf_ythc_tj_001_2=desc_buf_ythc_tj_001_2
+desc_buf_ythc_tj_001_3=desc_buf_ythc_tj_001_3
+desc_buf_ythc_tj_002_0=氣爆迷濛<br>閃避率提升100%。
+desc_buf_ythc_tj_002_1=
+desc_buf_ythc_tj_003_0=吸魂魔丸
+desc_buf_ythc_tj_003_1=吸魂魔丸
+desc_buf_ythc_tj_004_0=迷心噬神
+desc_buf_ythc_tj_004_1=
+desc_buf_ythc_tj_005_0=方圓寂滅
+desc_buf_ythc_tj_005_1=
+desc_buff_SEC_RandomBuffFlags_0=夜探寶物
+desc_buff_SEC_RandomBuffFlags_1=
+desc_buff_SEC_TalentBuffFlags_0=夜探天賦
+desc_buff_SEC_TalentBuffFlags_1=
+desc_buff_leitai_area_sub_limit_0=desc_buff_leitai_area_sub_limit_0
+desc_buff_leitai_area_sub_limit_1=
+desc_buff_leitai_cd_0=剛參加了擂台，十分疲憊，短時間內無法再次參加
+desc_buff_leitai_cd_1=
+desc_buff_leitai_challanger_0=挑戰者
+desc_buff_leitai_challanger_1=
+desc_buff_leitai_challanger_ready2_0=準備開始擂台爭鋒
+desc_buff_leitai_challanger_ready2_1=
+desc_buff_leitai_challanger_ready3_0=互通姓名
+desc_buff_leitai_challanger_ready3_1=
+desc_buff_leitai_challanger_ready_0=擂台準備儀式-挑戰者
+desc_buff_leitai_challanger_ready_1=
+desc_buff_leitai_challanger_save_0=超出擂台區域
+desc_buff_leitai_challanger_save_1=
+desc_buff_leitai_failer_0=擂台失敗儀式
+desc_buff_leitai_failer_1=
+desc_buff_leitai_master_0=擂主
+desc_buff_leitai_master_1=
+desc_buff_leitai_master_ready2_0=準備開始擂台爭鋒
+desc_buff_leitai_master_ready2_1=
+desc_buff_leitai_master_ready3_0=互通姓名
+desc_buff_leitai_master_ready3_1=
+desc_buff_leitai_master_ready_0=擂台準備儀式-擂主
+desc_buff_leitai_master_ready_1=
+desc_buff_leitai_winner_0=擂台獲勝儀式
+desc_buff_leitai_winner_1=
+desc_buff_mmhw_001_0=提高歷練轉化速度25%，持續時間30分鐘
+desc_buff_mmhw_001_1=提高歷練轉化速度25%，持續時間30分鐘
+desc_wuji_buf_CS_gb_lhz08_0=desc_wuji_buf_CS_gb_lhz08_0
+desc_wuji_buf_CS_gb_lhz08_1=真氣存在時使火中生蓮技能釋放更為迅捷。自然消散後使引蓮入水-霸絕的冷卻時間減少3.5秒。
+desc_wuji_buf_CS_kl_ymchj05_0=desc_wuji_buf_CS_kl_ymchj05_0
+desc_wuji_buf_CS_kl_ymchj05_1=格擋成功為自己添加一層<font color="#FFAE00">浸月</font>：被暴擊時，為自己撐起一道<font color="#f9fc00">護盾</font>，目標攻擊<font color="#f9fc00">護盾</font>將給目標添加一層<font color="#FFAE00">月溯</font>狀態，浸月存在15秒最多可疊加5層<br><font color="#f9fc00">護盾</font>吸收量隨招式等級及<font color="#FFAE00">浸月</font>層數提高而提高，<font color="#f9fc00">護盾</font>消散時不再清除<font color="#FFAE00">浸月</font>狀態且5秒內無法再次獲得<br>切換套路清除<font color="#FFAE00">浸月</font>及<font color="#f9fc00">護盾</font>效果
+desc_wuji_buf_CS_kl_ymchj05_10=格擋成功為自己添加一層<font color="#FFAE00">浸月</font>：被暴擊時，為自己撐起一道<font color="#f9fc00">護盾</font>，目標攻擊<font color="#f9fc00">護盾</font>將給目標添加一層<font color="#FFAE00">月溯</font>狀態，浸月存在15秒最多可疊加5層<br><font color="#f9fc00">護盾</font>吸收量隨招式等級及<font color="#FFAE00">浸月</font>層數提高而提高，<font color="#f9fc00">護盾</font>消散時不再清除<font color="#FFAE00">浸月</font>狀態且5秒內無法再次獲得<br>切換套路清除<font color="#FFAE00">浸月</font>及<font color="#f9fc00">護盾</font>效果
+desc_wuji_buf_CS_kl_ymchj05_1_0=desc_wuji_buf_CS_kl_ymchj05_1_0
+desc_wuji_buf_CS_kl_ymchj05_1_1=被暴擊時，為自己撐起一道<font color="#f9fc00">護盾</font>，目標攻擊<font color="#f9fc00">護盾</font>將給目標添加一層<font color="#FFAE00">月溯</font>狀態，浸月存在15秒最多可疊加5層
+desc_wuji_buf_CS_kl_ymchj05_1_10=被暴擊時，為自己撐起一道<font color="#f9fc00">護盾</font>，目標攻擊<font color="#f9fc00">護盾</font>將給目標添加一層<font color="#FFAE00">月溯</font>狀態，浸月存在15秒最多可疊加5層
+desc_wuji_buf_CS_kl_ymchj05_1_2=被暴擊時，為自己撐起一道<font color="#f9fc00">護盾</font>，目標攻擊<font color="#f9fc00">護盾</font>將給目標添加一層<font color="#FFAE00">月溯</font>狀態，浸月存在15秒最多可疊加5層
+desc_wuji_buf_CS_kl_ymchj05_1_3=被暴擊時，為自己撐起一道<font color="#f9fc00">護盾</font>，目標攻擊<font color="#f9fc00">護盾</font>將給目標添加一層<font color="#FFAE00">月溯</font>狀態，浸月存在15秒最多可疊加5層
+desc_wuji_buf_CS_kl_ymchj05_1_4=被暴擊時，為自己撐起一道<font color="#f9fc00">護盾</font>，目標攻擊<font color="#f9fc00">護盾</font>將給目標添加一層<font color="#FFAE00">月溯</font>狀態，浸月存在15秒最多可疊加5層
+desc_wuji_buf_CS_kl_ymchj05_1_5=被暴擊時，為自己撐起一道<font color="#f9fc00">護盾</font>，目標攻擊<font color="#f9fc00">護盾</font>將給目標添加一層<font color="#FFAE00">月溯</font>狀態，浸月存在15秒最多可疊加5層
+desc_wuji_buf_CS_kl_ymchj05_1_6=被暴擊時，為自己撐起一道<font color="#f9fc00">護盾</font>，目標攻擊<font color="#f9fc00">護盾</font>將給目標添加一層<font color="#FFAE00">月溯</font>狀態，浸月存在15秒最多可疊加5層
+desc_wuji_buf_CS_kl_ymchj05_1_7=被暴擊時，為自己撐起一道<font color="#f9fc00">護盾</font>，目標攻擊<font color="#f9fc00">護盾</font>將給目標添加一層<font color="#FFAE00">月溯</font>狀態，浸月存在15秒最多可疊加5層
+desc_wuji_buf_CS_kl_ymchj05_1_8=被暴擊時，為自己撐起一道<font color="#f9fc00">護盾</font>，目標攻擊<font color="#f9fc00">護盾</font>將給目標添加一層<font color="#FFAE00">月溯</font>狀態，浸月存在15秒最多可疊加5層
+desc_wuji_buf_CS_kl_ymchj05_1_9=被暴擊時，為自己撐起一道<font color="#f9fc00">護盾</font>，目標攻擊<font color="#f9fc00">護盾</font>將給目標添加一層<font color="#FFAE00">月溯</font>狀態，浸月存在15秒最多可疊加5層
+desc_wuji_buf_CS_kl_ymchj05_2=格擋成功為自己添加一層<font color="#FFAE00">浸月</font>：被暴擊時，為自己撐起一道<font color="#f9fc00">護盾</font>，目標攻擊<font color="#f9fc00">護盾</font>將給目標添加一層<font color="#FFAE00">月溯</font>狀態，浸月存在15秒最多可疊加5層<br><font color="#f9fc00">護盾</font>吸收量隨招式等級及<font color="#FFAE00">浸月</font>層數提高而提高，<font color="#f9fc00">護盾</font>消散時不再清除<font color="#FFAE00">浸月</font>狀態且5秒內無法再次獲得<br>切換套路清除<font color="#FFAE00">浸月</font>及<font color="#f9fc00">護盾</font>效果
+desc_wuji_buf_CS_kl_ymchj05_2_0=desc_wuji_buf_CS_kl_ymchj05_2_0
+desc_wuji_buf_CS_kl_ymchj05_2_1=為自己撐起一道<font color="#f9fc00">護盾</font>，目標攻擊<font color="#f9fc00">護盾</font>將給目標添加一層<font color="#FFAE00">月溯</font>狀態
+desc_wuji_buf_CS_kl_ymchj05_2_10=為自己撐起一道<font color="#f9fc00">護盾</font>，目標攻擊<font color="#f9fc00">護盾</font>將給目標添加一層<font color="#FFAE00">月溯</font>狀態
+desc_wuji_buf_CS_kl_ymchj05_2_2=為自己撐起一道<font color="#f9fc00">護盾</font>，目標攻擊<font color="#f9fc00">護盾</font>將給目標添加一層<font color="#FFAE00">月溯</font>狀態
+desc_wuji_buf_CS_kl_ymchj05_2_3=為自己撐起一道<font color="#f9fc00">護盾</font>，目標攻擊<font color="#f9fc00">護盾</font>將給目標添加一層<font color="#FFAE00">月溯</font>狀態
+desc_wuji_buf_CS_kl_ymchj05_2_4=為自己撐起一道<font color="#f9fc00">護盾</font>，目標攻擊<font color="#f9fc00">護盾</font>將給目標添加一層<font color="#FFAE00">月溯</font>狀態
+desc_wuji_buf_CS_kl_ymchj05_2_5=為自己撐起一道<font color="#f9fc00">護盾</font>，目標攻擊<font color="#f9fc00">護盾</font>將給目標添加一層<font color="#FFAE00">月溯</font>狀態
+desc_wuji_buf_CS_kl_ymchj05_2_6=為自己撐起一道<font color="#f9fc00">護盾</font>，目標攻擊<font color="#f9fc00">護盾</font>將給目標添加一層<font color="#FFAE00">月溯</font>狀態
+desc_wuji_buf_CS_kl_ymchj05_2_7=為自己撐起一道<font color="#f9fc00">護盾</font>，目標攻擊<font color="#f9fc00">護盾</font>將給目標添加一層<font color="#FFAE00">月溯</font>狀態
+desc_wuji_buf_CS_kl_ymchj05_2_8=為自己撐起一道<font color="#f9fc00">護盾</font>，目標攻擊<font color="#f9fc00">護盾</font>將給目標添加一層<font color="#FFAE00">月溯</font>狀態
+desc_wuji_buf_CS_kl_ymchj05_2_9=為自己撐起一道<font color="#f9fc00">護盾</font>，目標攻擊<font color="#f9fc00">護盾</font>將給目標添加一層<font color="#FFAE00">月溯</font>狀態
+desc_wuji_buf_CS_kl_ymchj05_3=格擋成功為自己添加一層<font color="#FFAE00">浸月</font>：被暴擊時，為自己撐起一道<font color="#f9fc00">護盾</font>，目標攻擊<font color="#f9fc00">護盾</font>將給目標添加一層<font color="#FFAE00">月溯</font>狀態，浸月存在15秒最多可疊加5層<br><font color="#f9fc00">護盾</font>吸收量隨招式等級及<font color="#FFAE00">浸月</font>層數提高而提高，<font color="#f9fc00">護盾</font>消散時不再清除<font color="#FFAE00">浸月</font>狀態且5秒內無法再次獲得<br>切換套路清除<font color="#FFAE00">浸月</font>及<font color="#f9fc00">護盾</font>效果
+desc_wuji_buf_CS_kl_ymchj05_4=格擋成功為自己添加一層<font color="#FFAE00">浸月</font>：被暴擊時，為自己撐起一道<font color="#f9fc00">護盾</font>，目標攻擊<font color="#f9fc00">護盾</font>將給目標添加一層<font color="#FFAE00">月溯</font>狀態，浸月存在15秒最多可疊加5層<br><font color="#f9fc00">護盾</font>吸收量隨招式等級及<font color="#FFAE00">浸月</font>層數提高而提高，<font color="#f9fc00">護盾</font>消散時不再清除<font color="#FFAE00">浸月</font>狀態且5秒內無法再次獲得<br>切換套路清除<font color="#FFAE00">浸月</font>及<font color="#f9fc00">護盾</font>效果
+desc_wuji_buf_CS_kl_ymchj05_5=格擋成功為自己添加一層<font color="#FFAE00">浸月</font>：被暴擊時，為自己撐起一道<font color="#f9fc00">護盾</font>，目標攻擊<font color="#f9fc00">護盾</font>將給目標添加一層<font color="#FFAE00">月溯</font>狀態，浸月存在15秒最多可疊加5層<br><font color="#f9fc00">護盾</font>吸收量隨招式等級及<font color="#FFAE00">浸月</font>層數提高而提高，<font color="#f9fc00">護盾</font>消散時不再清除<font color="#FFAE00">浸月</font>狀態且5秒內無法再次獲得<br>切換套路清除<font color="#FFAE00">浸月</font>及<font color="#f9fc00">護盾</font>效果
+desc_wuji_buf_CS_kl_ymchj05_6=格擋成功為自己添加一層<font color="#FFAE00">浸月</font>：被暴擊時，為自己撐起一道<font color="#f9fc00">護盾</font>，目標攻擊<font color="#f9fc00">護盾</font>將給目標添加一層<font color="#FFAE00">月溯</font>狀態，浸月存在15秒最多可疊加5層<br><font color="#f9fc00">護盾</font>吸收量隨招式等級及<font color="#FFAE00">浸月</font>層數提高而提高，<font color="#f9fc00">護盾</font>消散時不再清除<font color="#FFAE00">浸月</font>狀態且5秒內無法再次獲得<br>切換套路清除<font color="#FFAE00">浸月</font>及<font color="#f9fc00">護盾</font>效果
+desc_wuji_buf_CS_kl_ymchj05_7=格擋成功為自己添加一層<font color="#FFAE00">浸月</font>：被暴擊時，為自己撐起一道<font color="#f9fc00">護盾</font>，目標攻擊<font color="#f9fc00">護盾</font>將給目標添加一層<font color="#FFAE00">月溯</font>狀態，浸月存在15秒最多可疊加5層<br><font color="#f9fc00">護盾</font>吸收量隨招式等級及<font color="#FFAE00">浸月</font>層數提高而提高，<font color="#f9fc00">護盾</font>消散時不再清除<font color="#FFAE00">浸月</font>狀態且5秒內無法再次獲得<br>切換套路清除<font color="#FFAE00">浸月</font>及<font color="#f9fc00">護盾</font>效果
+desc_wuji_buf_CS_kl_ymchj05_8=格擋成功為自己添加一層<font color="#FFAE00">浸月</font>：被暴擊時，為自己撐起一道<font color="#f9fc00">護盾</font>，目標攻擊<font color="#f9fc00">護盾</font>將給目標添加一層<font color="#FFAE00">月溯</font>狀態，浸月存在15秒最多可疊加5層<br><font color="#f9fc00">護盾</font>吸收量隨招式等級及<font color="#FFAE00">浸月</font>層數提高而提高，<font color="#f9fc00">護盾</font>消散時不再清除<font color="#FFAE00">浸月</font>狀態且5秒內無法再次獲得<br>切換套路清除<font color="#FFAE00">浸月</font>及<font color="#f9fc00">護盾</font>效果
+desc_wuji_buf_CS_kl_ymchj05_9=格擋成功為自己添加一層<font color="#FFAE00">浸月</font>：被暴擊時，為自己撐起一道<font color="#f9fc00">護盾</font>，目標攻擊<font color="#f9fc00">護盾</font>將給目標添加一層<font color="#FFAE00">月溯</font>狀態，浸月存在15秒最多可疊加5層<br><font color="#f9fc00">護盾</font>吸收量隨招式等級及<font color="#FFAE00">浸月</font>層數提高而提高，<font color="#f9fc00">護盾</font>消散時不再清除<font color="#FFAE00">浸月</font>狀態且5秒內無法再次獲得<br>切換套路清除<font color="#FFAE00">浸月</font>及<font color="#f9fc00">護盾</font>效果
+desc_wuji_buf_CS_kl_ymchj06_0=desc_wuji_buf_CS_kl_ymchj06_0
+desc_wuji_buf_CS_kl_ymchj06_1=降低15%<font color="#FFAE00">柔防禦</font>
+desc_wuji_buf_CS_kl_ymchj07_0=desc_wuji_buf_CS_kl_ymchj07_0
+desc_wuji_buf_CS_kl_ymchj07_1=提高5%<font color="#FFAE00">命中率</font>和<font color="#FFAE00">閃避率</font>
+wuji_buf_CS_gb_lhz08=引蓮真氣
+wuji_buf_CS_kl_ymchj05=鑿池浸月
+wuji_buf_CS_kl_ymchj05_1=浸月
+wuji_buf_CS_kl_ymchj05_2=鑿池浸月·護盾
+wuji_buf_CS_kl_ymchj06=柔防禦降低
+wuji_buf_CS_kl_ymchj07=命中閃避提高
+buf_ng_kl_005_1=清風拂面
+desc_buf_CS_sl_chpdg07_0=<font color="#f9fc00">五蘊皆空</font><br>自身內力消耗降低30%，減少氣場內敵人10%外功防禦。
+desc_buf_CS_sl_chpdg07_1=<font color="#f9fc00">五蘊皆空</font><br>自身內力消耗降低30%，減少氣場內敵人12%外功防禦。
+desc_buf_CS_sl_chpdg07_10=<font color="#f9fc00">五蘊皆空</font><br>自身內力消耗降低30%，減少氣場內敵人30%外功防禦。
+desc_buf_CS_sl_chpdg07_2=<font color="#f9fc00">五蘊皆空</font><br>自身內力消耗降低30%，減少氣場內敵人14%外功防禦。
+desc_buf_CS_sl_chpdg07_3=<font color="#f9fc00">五蘊皆空</font><br>自身內力消耗降低30%，減少氣場內敵人16%外功防禦。
+desc_buf_CS_sl_chpdg07_4=<font color="#f9fc00">五蘊皆空</font><br>自身內力消耗降低30%，減少氣場內敵人18%外功防禦。
+desc_buf_CS_sl_chpdg07_5=<font color="#f9fc00">五蘊皆空</font><br>自身內力消耗降低30%，減少氣場內敵人20%外功防禦。
+desc_buf_CS_sl_chpdg07_6=<font color="#f9fc00">五蘊皆空</font><br>自身內力消耗降低30%，減少氣場內敵人22%外功防禦。
+desc_buf_CS_sl_chpdg07_7=<font color="#f9fc00">五蘊皆空</font><br>自身內力消耗降低30%，減少氣場內敵人24%外功防禦。
+desc_buf_CS_sl_chpdg07_8=<font color="#f9fc00">五蘊皆空</font><br>自身內力消耗降低30%，減少氣場內敵人26%外功防禦。
+desc_buf_CS_sl_chpdg07_9=<font color="#f9fc00">五蘊皆空</font><br>自身內力消耗降低30%，減少氣場內敵人28%外功防禦。
+desc_buf_ng_kl_005_1=<font color="#f9fc00">風起訣</font><br><font color="#FF3030">清風拂面</font>：暴擊別人或者被暴擊時，獲得1層「清風拂面」，使自身受到的暴擊傷害減免5%，持續15秒，期間每次暴擊別人或者被暴擊提高1層，最多5層。（疊加層數不增加持續時間，效果結束進入調息）<br><font color="#FF3030">意氣風發</font>：「清風拂面」結束，根據移除的層數獲得對應層數的效果，每層提高自身招式傷害與暴擊傷害提高5%，暴擊敵人1次移除1層，或者10秒後消失。
+desc_buf_ng_kl_005_1_0=清風拂面
+desc_buf_ng_kl_005_2=<font color="#f9fc00">風起訣</font><br><font color="#FF3030">清風拂面</font>：暴擊別人或者被暴擊時，獲得1層「清風拂面」，使自身受到的暴擊傷害減免6%，持續15秒，期間每次暴擊別人或者被暴擊提高1層，最多5層。（疊加層數不增加持續時間，效果結束進入調息）<br><font color="#FF3030">意氣風發</font>：「清風拂面」結束，根據移除的層數獲得對應層數的效果，每層提高自身招式傷害與暴擊傷害提高6%，暴擊敵人1次移除1層，或者10秒後消失。
+desc_buf_ng_kl_005_3=<font color="#f9fc00">風起訣</font><br><font color="#FF3030">清風拂面</font>：暴擊別人或者被暴擊時，獲得1層「清風拂面」，使自身受到的暴擊傷害減免7%，持續15秒，期間每次暴擊別人或者被暴擊提高1層，最多5層。（疊加層數不增加持續時間，效果結束進入調息）<br><font color="#FF3030">意氣風發</font>：「清風拂面」結束，根據移除的層數獲得對應層數的效果，每層提高自身招式傷害與暴擊傷害提高7%，暴擊敵人1次移除1層，或者10秒後消失。
+desc_buf_ng_kl_005_4=<font color="#f9fc00">風起訣</font><br><font color="#FF3030">清風拂面</font>：暴擊別人或者被暴擊時，獲得1層「清風拂面」，使自身受到的暴擊傷害減免8%，持續15秒，期間每次暴擊別人或者被暴擊提高1層，最多5層。（疊加層數不增加持續時間，效果結束進入調息）<br><font color="#FF3030">意氣風發</font>：「清風拂面」結束，根據移除的層數獲得對應層數的效果，每層提高自身招式傷害與暴擊傷害提高8%，暴擊敵人1次移除1層，或者10秒後消失。
+desc_buf_ng_kl_005_5=<font color="#f9fc00">風起訣</font><br><font color="#FF3030">清風拂面</font>：暴擊別人或者被暴擊時，獲得1層「清風拂面」，使自身受到的暴擊傷害減免10%，持續15秒，期間每次暴擊別人或者被暴擊提高1層，最多5層。（疊加層數不增加持續時間，效果結束進入調息）<br><font color="#FF3030">意氣風發</font>：「清風拂面」結束，根據移除的層數獲得對應層數的效果，每層提高自身招式傷害與暴擊傷害提高10%，暴擊敵人1次移除1層，或者10秒後消失。<br><font color="#CFB53B">仙風道骨</font>：「意氣風發」正常結束，則每層沒有被消耗的「意氣風發」都可以使「清風拂面」調息減少5秒。
+buf_ng_kl_004_1acd=失調音律內置CD（強化）
+buf_ng_kl_004_1cd=失調音律內置CD
+buf_ng_kl_004_2acd=悅耳音律內置CD（強化）
+buf_ng_kl_004_2cd=悅耳音律內置CD
+desc_buf_ng_kl_004_1acd_0=失調音律內置CD（強化）
+desc_buf_ng_kl_004_1acd_1=失調音律內置CD（強化）
+desc_buf_ng_kl_004_1cd_0=失調音律內置CD
+desc_buf_ng_kl_004_1cd_1=失調音律內置CD
+desc_buf_ng_kl_004_2acd_0=悅耳音律內置CD（強化）
+desc_buf_ng_kl_004_2acd_1=悅耳音律內置CD（強化）
+desc_buf_ng_kl_004_2cd_0=悅耳音律內置CD
+desc_buf_ng_kl_004_2cd_1=悅耳音律內置CD
+desc_buf_ng_kl_004_1=<font color="#f9fc00">淇奧訣</font><br><font color="#FF3030">失調音律</font>：每次攻擊目標，有幾率對目標及其周圍4米範圍內的敵人造成陰傷害（生效之後會進入短暫調息）。<br><font color="#FF3030">悅耳音律</font>：每次被攻擊，有幾率對自己和周圍4米範圍內的隊友恢復氣血（生效之後會進入短暫調息）。
+desc_buf_ng_kl_004_2=<font color="#f9fc00">淇奧訣</font><br><font color="#FF3030">失調音律</font>：每次攻擊目標，有幾率對目標及其周圍4米範圍內的敵人造成陰傷害（生效之後會進入短暫調息）。<br><font color="#FF3030">悅耳音律</font>：每次被攻擊，有幾率對自己和周圍4米範圍內的隊友恢復氣血（生效之後會進入短暫調息）。
+desc_buf_ng_kl_004_3=<font color="#f9fc00">淇奧訣</font><br><font color="#FF3030">失調音律</font>：每次攻擊目標，有幾率對目標及其周圍4米範圍內的敵人造成陰傷害（生效之後會進入短暫調息）。<br><font color="#FF3030">悅耳音律</font>：每次被攻擊，有幾率對自己和周圍4米範圍內的隊友恢復氣血（生效之後會進入短暫調息）。
+desc_buf_ng_kl_004_4=<font color="#f9fc00">淇奧訣</font><br><font color="#FF3030">失調音律</font>：每次攻擊目標，有幾率對目標及其周圍4米範圍內的敵人造成陰傷害（生效之後會進入短暫調息）。<br><font color="#FF3030">悅耳音律</font>：每次被攻擊，有幾率對自己和周圍4米範圍內的隊友恢復氣血（生效之後會進入短暫調息）。
+desc_buf_ng_kl_004_5=<font color="#f9fc00">淇奧訣</font><br><font color="#FF3030">失調音律</font>：每次攻擊目標，有幾率對目標及其周圍4米範圍內的敵人造成陰傷害（生效之後會進入短暫調息）。<br><font color="#FF3030">悅耳音律</font>：每次被攻擊，有幾率對自己和周圍4米範圍內的隊友恢復氣血（生效之後會進入短暫調息）。<br><font color="#CFB53B">琴瑟調和</font>：觸發其中一種音律之後的10秒內，略微提高第二種音律的觸發幾率和大幅減少其調息時間，若能成功觸發第二種音律，則第二種音律效果增強100%（增強效果最多生效10次），並且觸發期間根據音律種類額外提升自己10%招式傷害或者10%防禦，效果結束進入調息。
+desc_buf_ng_kl_006_1=<font color="#f9fc00">崑崙引</font><br>每次攻擊未招架目標有幾率將內力灌入目標，對其種下「崑崙勁」，雙方之間形成一道崑崙引線，使其無法逃離自己的掌控，持續10秒。（攻擊離目標越近，觸發幾率越高）<br><font color="#FF3030">崑崙勁</font>：每秒造成陰傷害並減速30%；造成傷害的同時有幾率將「崑崙勁」延長1秒。<br><font color="#FF3030">崑崙引·化勁為氣</font>：當引線存在時，可持續恢復自身氣血。
+desc_buf_ng_kl_006_2=<font color="#f9fc00">崑崙引</font><br>每次攻擊未招架目標有幾率將內力灌入目標，對其種下「崑崙勁」，雙方之間形成一道崑崙引線，使其無法逃離自己的掌控，持續10秒。（攻擊離目標越近，觸發幾率越高）<br><font color="#FF3030">崑崙勁</font>：每秒造成陰傷害並減速35%；造成傷害的同時有幾率將「崑崙勁」延長1秒。<br><font color="#FF3030">崑崙引·化勁為氣</font>：當引線存在時，可持續恢復自身氣血。
+desc_buf_ng_kl_006_3=<font color="#f9fc00">崑崙引</font><br>每次攻擊未招架目標有幾率將內力灌入目標，對其種下「崑崙勁」，雙方之間形成一道崑崙引線，使其無法逃離自己的掌控，持續10秒。（攻擊離目標越近，觸發幾率越高）<br><font color="#FF3030">崑崙勁</font>：每秒造成陰傷害並減速40%；造成傷害的同時有幾率將「崑崙勁」延長1秒。<br><font color="#FF3030">崑崙引·化勁為氣</font>：當引線存在時，可持續恢復自身氣血。<br><font color="#CFB53B">崑崙引·進退維谷</font>：當雙方距離大於12米時，崑崙引線失效，目標造成一次性傷害。
+desc_buf_ng_kl_006_4=<font color="#f9fc00">崑崙引</font><br>每次攻擊未招架目標有幾率將內力灌入目標，對其種下「崑崙勁」，雙方之間形成一道崑崙引線，使其無法逃離自己的掌控，持續10秒。（攻擊離目標越近，觸發幾率越高）<br><font color="#FF3030">崑崙勁</font>：每秒造成陰傷害並減速45%；造成傷害的同時有幾率將「崑崙勁」延長2秒。<br><font color="#FF3030">崑崙引·化勁為氣</font>：當引線存在時，可持續恢復自身氣血。<br><font color="#CFB53B">崑崙引·進退維谷</font>：當雙方距離大於12米時，崑崙引線失效，目標造成一次性傷害；而當雙方距離小於4米時，則使目標定身。
+desc_buf_ng_kl_006_5=<font color="#f9fc00">崑崙引</font><br>每次攻擊未招架目標有幾率將內力灌入目標，對其種下「崑崙勁」，雙方之間形成一道崑崙引線，使其無法逃離自己的掌控，持續10秒。（攻擊離目標越近，觸發幾率越高）<br><font color="#FF3030">崑崙勁</font>：每秒造成陰傷害並減速50%；造成傷害的同時有幾率將「崑崙勁」延長2秒。<br><font color="#FF3030">崑崙引·化勁為氣</font>：當引線存在時，可持續恢復自身氣血。<br><font color="#CFB53B">崑崙引·進退維谷</font>：當雙方距離大於12米時，崑崙引線失效，目標造成一次性傷害並且僵直3秒；而當雙方距離小於4米時，則使目標定身。
+buf_CS_jh_dldm01_cd=鐵勁剛拳擊飛冷卻
+buf_CS_jz_xytf04_01=冰消葉散
+buf_CS_single_tyhg1=簌簌珍珠
+buf_CS_single_tyhg2=瀑水成虹
+buf_CS_single_tyhg3=魚躍清漪
+buf_CS_tyhg_mwybj01=采薇
+buf_CS_tyhg_mwybj02=扶搖
+buf_CS_tyhg_mwybj02_01=落筆九天上
+buf_CS_tyhg_mwybj03_01=定身
+buf_CS_tyhg_mwybj03_02=灑筆付飛鳥
+buf_CS_tyhg_mwybj03_02_01=灑筆付飛鳥
+buf_CS_tyhg_mwybj03_02_01_range=灑筆付飛鳥
+buf_CS_tyhg_mwybj03_02_range=灑筆付飛鳥
+buf_CS_tyhg_mwybj03_03=灑筆付飛鳥
+buf_CS_tyhg_mwybj03_03_01=飛鳥
+buf_CS_tyhg_mwybj03_03_range=灑筆付飛鳥
+buf_CS_tyhg_mwybj04_01=意出筆墨外
+buf_CS_tyhg_mwybj04_01_01=意出筆墨外
+buf_CS_tyhg_mwybj04_01_01_range=意出筆墨外
+buf_CS_tyhg_mwybj04_01_range=意出筆墨外
+buf_CS_tyhg_mwybj04_02=buf_CS_tyhg_mwybj04_02
+buf_CS_tyhg_mwybj04_02_range=意出筆墨外
+buf_CS_tyhg_mwybj04_03=墨花
+buf_CS_tyhg_mwybj04_03cd=墨花冷卻
+buf_CS_tyhg_mwybj05=乘舟
+buf_CS_tyhg_mwybj06=酒濃春入夢
+buf_CS_tyhg_mwybj07=酒濃春入夢
+buf_CS_tyhg_mwybj07_range=酒濃春入夢
+buf_CS_tyhg_yszyq01=浮天
+buf_CS_tyhg_yszyq01_1=滄海
+buf_CS_tyhg_yszyq02=禁輕功
+buf_CS_tyhg_yszyq03=鍵位錯亂
+buf_CS_tyhg_yszyq03_1=秋宵夢覺
+buf_CS_tyhg_yszyq03_cd=buf_CS_tyhg_yszyq03_cd
+buf_CS_tyhg_yszyq04=減速
+buf_CS_tyhg_yszyq04_1=定身
+buf_CS_tyhg_yszyq04_2=封招
+buf_CS_tyhg_yszyq05=鍵位錯亂
+buf_CS_tyhg_yszyq05_1=封招
+buf_CS_tyhg_yszyq06=虛無縹緲
+buf_CS_tyhg_yszyq06_1=虛無縹緲
+buf_CS_tyhg_yszyq07=禁輕功
+buf_CS_tyhg_yszyq08=架招
+buf_CS_tyhg_yszyq08_1=雲海
+buf_boss_immunity_world=boss超級免疫
+buf_home_xiaqi2=棋意
+buf_jj_light_20sd=buf_jj_light_20sd
+buf_leave_newschool_tianyahaige=buf_leave_newschool_tianyahaige
+buf_newguild_flag_shp_cantdie=次級防禦
+buf_newtaosha_arrest_kill=buf_newtaosha_arrest_kill
+buf_newtaosha_arrest_player=buf_newtaosha_arrest_player
+buf_newtaosha_arrest_succeed=buf_newtaosha_arrest_succeed
+buf_newtaosha_detail_flag=buf_newtaosha_detail_flag
+buf_newtaosha_open_flag=buf_newtaosha_open_flag
+buf_newtaosha_open_player=buf_newtaosha_open_player
+buf_ng_tyhg_001=碧游訣
+buf_ng_tyhg_001_01=游雲
+buf_ng_tyhg_001_02=「驚龍」狀態
+buf_ng_tyhg_001_HP=「游雲」回血
+buf_ng_tyhg_001_cd=游雲調息
+buf_ng_tyhg_001_mark=「驚龍」標記
+buf_ng_tyhg_002=天游訣
+buf_ng_tyhg_002_01=春露之滋
+buf_ng_tyhg_002_01_cd=buf_ng_tyhg_002_01_cd
+buf_ng_tyhg_002_01_di=春露之滋·敵
+buf_ng_tyhg_002_02=秋霜之烈
+buf_ng_tyhg_002_02_cd=buf_ng_tyhg_002_02_cd
+buf_sc_month_04=四季輪轉·冬
+buf_sc_month_04_01=寒冬
+buf_sc_month_04_02=深度凍結
+buf_xs_people=戲水
+buf_xs_people_1=戲水
+buff_newtaosha_runaway=逃跑
+buff_tianyahaige_blqxl_001=不老泉修煉
+buff_tianyahaige_blqxl_002=不老泉修煉
+buff_tianyahaige_blqxl_003=不老泉修煉
+buff_tianyahaige_blqxl_004=修煉
+buff_tianyahaige_haigui_001=毒鏢
+buff_ty_dy_01=跳躍
+buff_ty_dy_02=傳送
+buff_ty_dy_03=76234說話
+buff_ty_dy_04=76234說話
+buff_ty_dy_05=76234說話
+buff_ty_dy_06=76234說話
+buff_ty_dy_07=暴風雪
+buff_ty_dy_08=火把
+buff_ty_dy_09=打坐CD
+buff_ty_dy_10=打坐
+buff_ty_dy_11=打坐刷心魔
+buff_ty_dy_12=打坐刷心魔
+buff_ty_dy_13=打坐刷心魔
+buff_ty_dy_14=buff_ty_dy_14
+buff_ty_dy_15=buff_ty_dy_15
+buff_ty_dy_16=戲水
+buff_tyhg_aq=安全區
+buff_tyhg_judian=戰鬥區域
+buff_tyhg_lzy_chhd001=海釣點
+buff_tyhg_lzy_chhd002=正在海釣
+buff_tyhg_lzy_chhd003=正在海釣
+buff_tyhg_lzy_chhd004=海釣成功
+buff_tyhg_lzy_chhd005=海釣成功
+buff_tyhg_lzy_chhd006=海釣失敗
+buff_tyhg_lzy_chhd007=海釣成功
+buff_tyhg_lzy_chhd008=海釣成功
+buff_tyhg_lzy_chhd009=海釣成功
+buff_tyhg_lzy_chhd010=海釣成功收桿
+buff_tyhg_lzy_chhd011=海釣失敗
+buff_tyhg_lzy_chhd012=正在海釣
+buff_tyhg_lzy_chhd_dg=出海海釣
+desc_buf_CS_jh_dldm01_cd_0=desc_buf_CS_jh_dldm01_cd_0
+desc_buf_CS_jh_dldm01_cd_1=鐵勁剛拳擊飛冷卻
+desc_buf_CS_jz_xytf04_01_0=desc_buf_CS_jz_xytf04_01_0
+desc_buf_CS_jz_xytf04_01_1=desc_buf_CS_jz_xytf04_01_1
+desc_buf_CS_single_tyhg1_0=desc_buf_CS_single_tyhg1_0
+desc_buf_CS_single_tyhg1_1=提高自身5%的內息
+desc_buf_CS_single_tyhg1_2=提高自身10%的內息
+desc_buf_CS_single_tyhg1_3=提高自身15%的內息
+desc_buf_CS_single_tyhg2_0=desc_buf_CS_single_tyhg2_0
+desc_buf_CS_single_tyhg2_1=<font color="#FFAE00">瀑水成虹</font><br>閃避率降低50%
+desc_buf_CS_single_tyhg3_0=desc_buf_CS_single_tyhg3_0
+desc_buf_CS_single_tyhg3_1=魚躍清漪<br><font color="#f9fc00">昏迷</font>
+desc_buf_CS_tyhg_mwybj01_0=desc_buf_CS_tyhg_mwybj01_0
+desc_buf_CS_tyhg_mwybj01_1=<font color="#FFAE00">采薇</font><br>移動速度降低。
+desc_buf_CS_tyhg_mwybj02_0=desc_buf_CS_tyhg_mwybj02_0
+desc_buf_CS_tyhg_mwybj02_01_0=落筆九天上<br>成功招架敵人攻擊時，可獲得<font color="#FFAE00">「扶搖」</font>狀態。
+desc_buf_CS_tyhg_mwybj02_01_1=落筆九天上<br>成功招架敵人攻擊時，可獲得<font color="#FFAE00">「扶搖」</font>狀態。
+desc_buf_CS_tyhg_mwybj02_01_10=落筆九天上<br>成功招架敵人攻擊時，可獲得<font color="#FFAE00">「扶搖」</font>狀態。
+desc_buf_CS_tyhg_mwybj02_01_11=落筆九天上<br>成功招架敵人攻擊時，可獲得<font color="#FFAE00">「扶搖」</font>狀態。
+desc_buf_CS_tyhg_mwybj02_01_12=落筆九天上<br>成功招架敵人攻擊時，可獲得<font color="#FFAE00">「扶搖」</font>狀態。
+desc_buf_CS_tyhg_mwybj02_01_2=落筆九天上<br>成功招架敵人攻擊時，可獲得<font color="#FFAE00">「扶搖」</font>狀態。
+desc_buf_CS_tyhg_mwybj02_01_3=落筆九天上<br>成功招架敵人攻擊時，可獲得<font color="#FFAE00">「扶搖」</font>狀態。
+desc_buf_CS_tyhg_mwybj02_01_4=落筆九天上<br>成功招架敵人攻擊時，可獲得<font color="#FFAE00">「扶搖」</font>狀態。
+desc_buf_CS_tyhg_mwybj02_01_5=落筆九天上<br>成功招架敵人攻擊時，可獲得<font color="#FFAE00">「扶搖」</font>狀態。
+desc_buf_CS_tyhg_mwybj02_01_6=落筆九天上<br>成功招架敵人攻擊時，可獲得<font color="#FFAE00">「扶搖」</font>狀態。
+desc_buf_CS_tyhg_mwybj02_01_7=落筆九天上<br>成功招架敵人攻擊時，可獲得<font color="#FFAE00">「扶搖」</font>狀態。
+desc_buf_CS_tyhg_mwybj02_01_8=落筆九天上<br>成功招架敵人攻擊時，可獲得<font color="#FFAE00">「扶搖」</font>狀態。
+desc_buf_CS_tyhg_mwybj02_01_9=落筆九天上<br>成功招架敵人攻擊時，可獲得<font color="#FFAE00">「扶搖」</font>狀態。
+desc_buf_CS_tyhg_mwybj02_1=<font color="#FFAE00">扶搖</font><br>攻擊時附加16點陰傷害（受近身威力和內功威力加成）
+desc_buf_CS_tyhg_mwybj02_10=<font color="#FFAE00">扶搖</font><br>攻擊時附加81點陰傷害（受近身威力和內功威力加成）
+desc_buf_CS_tyhg_mwybj02_11=<font color="#FFAE00">扶搖</font><br>攻擊時附加91點陰傷害（受近身威力和內功威力加成）
+desc_buf_CS_tyhg_mwybj02_12=<font color="#FFAE00">扶搖</font><br>攻擊時附加100點陰傷害（受近身威力和內功威力加成）
+desc_buf_CS_tyhg_mwybj02_2=<font color="#FFAE00">扶搖</font><br>攻擊時附加22點陰傷害（受近身威力和內功威力加成）
+desc_buf_CS_tyhg_mwybj02_3=<font color="#FFAE00">扶搖</font><br>攻擊時附加28點陰傷害（受近身威力和內功威力加成）
+desc_buf_CS_tyhg_mwybj02_4=<font color="#FFAE00">扶搖</font><br>攻擊時附加34點陰傷害（受近身威力和內功威力加成）
+desc_buf_CS_tyhg_mwybj02_5=<font color="#FFAE00">扶搖</font><br>攻擊時附加41點陰傷害（受近身威力和內功威力加成）
+desc_buf_CS_tyhg_mwybj02_6=<font color="#FFAE00">扶搖</font><br>攻擊時附加48點陰傷害（受近身威力和內功威力加成）
+desc_buf_CS_tyhg_mwybj02_7=<font color="#FFAE00">扶搖</font><br>攻擊時附加56點陰傷害（受近身威力和內功威力加成）
+desc_buf_CS_tyhg_mwybj02_8=<font color="#FFAE00">扶搖</font><br>攻擊時附加64點陰傷害（受近身威力和內功威力加成）
+desc_buf_CS_tyhg_mwybj02_9=<font color="#FFAE00">扶搖</font><br>攻擊時附加72點陰傷害（受近身威力和內功威力加成）
+desc_buf_CS_tyhg_mwybj03_01_0=定身
+desc_buf_CS_tyhg_mwybj03_01_1=定身
+desc_buf_CS_tyhg_mwybj03_02_0=灑筆付飛鳥<br>友方回血
+desc_buf_CS_tyhg_mwybj03_02_01_0=灑筆付飛鳥<br>每2秒造成300點陰傷害。
+desc_buf_CS_tyhg_mwybj03_02_01_1=灑筆付飛鳥<br>每2秒造成50點陰傷害。
+desc_buf_CS_tyhg_mwybj03_02_01_2=灑筆付飛鳥<br>每2秒造成100點陰傷害。
+desc_buf_CS_tyhg_mwybj03_02_01_3=灑筆付飛鳥<br>每2秒造成300點陰傷害。
+desc_buf_CS_tyhg_mwybj03_02_01_range_0=灑筆付飛鳥<br>每2秒造成{@0:傷害包}
+desc_buf_CS_tyhg_mwybj03_02_01_range_1=灑筆付飛鳥<br>每2秒造成100點陰傷害。
+desc_buf_CS_tyhg_mwybj03_02_01_range_2=灑筆付飛鳥<br>每2秒造成200點陰傷害。
+desc_buf_CS_tyhg_mwybj03_02_01_range_3=灑筆付飛鳥<br>每2秒造成300點陰傷害。
+desc_buf_CS_tyhg_mwybj03_02_1=灑筆付飛鳥<br>友方回血
+desc_buf_CS_tyhg_mwybj03_02_2=灑筆付飛鳥<br>友方回血
+desc_buf_CS_tyhg_mwybj03_02_3=灑筆付飛鳥<br>友方回血
+desc_buf_CS_tyhg_mwybj03_02_range_0=灑筆付飛鳥<br>每2秒回復氣血。（禁地，心魔中額外回復氣血）
+desc_buf_CS_tyhg_mwybj03_02_range_1=灑筆付飛鳥<br>每2秒回復50點氣血。（禁地，心魔中額外回復1%氣血）
+desc_buf_CS_tyhg_mwybj03_02_range_2=灑筆付飛鳥<br>每2秒回復100點氣血。（禁地，心魔中額外回復2%氣血）
+desc_buf_CS_tyhg_mwybj03_02_range_3=灑筆付飛鳥<br>每2秒回復200點氣血。（禁地，心魔中額外回復3%氣血）
+desc_buf_CS_tyhg_mwybj03_03_0=灑筆付飛鳥<br>友方回血
+desc_buf_CS_tyhg_mwybj03_03_01_0=飛鳥<br>內外功暴擊概率提升10%。
+desc_buf_CS_tyhg_mwybj03_03_01_1=飛鳥<br>內外功暴擊概率提升10%。
+desc_buf_CS_tyhg_mwybj03_03_1=灑筆付飛鳥<br>友方回血
+desc_buf_CS_tyhg_mwybj03_03_2=灑筆付飛鳥<br>友方回血
+desc_buf_CS_tyhg_mwybj03_03_3=灑筆付飛鳥<br>友方回血
+desc_buf_CS_tyhg_mwybj03_03_range_0=灑筆付飛鳥<br>每2秒回復氣血。（禁地，心魔中額外回復氣血）
+desc_buf_CS_tyhg_mwybj03_03_range_1=灑筆付飛鳥<br>每2秒回復50點氣血。（禁地，心魔中額外回復1%氣血）
+desc_buf_CS_tyhg_mwybj03_03_range_2=灑筆付飛鳥<br>每2秒回復100點氣血。（禁地，心魔中額外回復2%氣血）
+desc_buf_CS_tyhg_mwybj03_03_range_3=灑筆付飛鳥<br>每2秒回復200點氣血。（禁地，心魔中額外回復3%氣血）
+desc_buf_CS_tyhg_mwybj04_01_0=意出筆墨外<br>免傷
+desc_buf_CS_tyhg_mwybj04_01_01_0=意出筆墨外<br>外功防禦降低，內功防禦降低
+desc_buf_CS_tyhg_mwybj04_01_01_1=意出筆墨外<br>外功防禦降低，內功防禦降低
+desc_buf_CS_tyhg_mwybj04_01_01_2=意出筆墨外<br>外功防禦降低，內功防禦降低
+desc_buf_CS_tyhg_mwybj04_01_01_3=意出筆墨外<br>外功防禦降低，內功防禦降低
+desc_buf_CS_tyhg_mwybj04_01_01_range_0=意出筆墨外<br>外功，內功防禦降低15%。（效果唯一）
+desc_buf_CS_tyhg_mwybj04_01_01_range_1=意出筆墨外<br>外功，內功防禦降低15%。（效果唯一）
+desc_buf_CS_tyhg_mwybj04_01_01_range_2=意出筆墨外<br>外功，內功防禦降低22%。（效果唯一）
+desc_buf_CS_tyhg_mwybj04_01_01_range_3=意出筆墨外<br>外功，內功防禦降低30%。（效果唯一）
+desc_buf_CS_tyhg_mwybj04_01_1=意出筆墨外<br>免傷
+desc_buf_CS_tyhg_mwybj04_01_2=意出筆墨外<br>免傷
+desc_buf_CS_tyhg_mwybj04_01_3=意出筆墨外<br>免傷
+desc_buf_CS_tyhg_mwybj04_01_range_0=意出筆墨外<br>受到傷害時，免疫一部分傷害
+desc_buf_CS_tyhg_mwybj04_01_range_1=意出筆墨外<br>受到傷害時，免疫一部分傷害
+desc_buf_CS_tyhg_mwybj04_01_range_2=意出筆墨外<br>受到傷害時，免疫一部分傷害
+desc_buf_CS_tyhg_mwybj04_01_range_3=意出筆墨外<br>受到傷害時，免疫一部分傷害
+desc_buf_CS_tyhg_mwybj04_02_0=意出筆墨外<br>免傷
+desc_buf_CS_tyhg_mwybj04_02_1=意出筆墨外<br>免傷
+desc_buf_CS_tyhg_mwybj04_02_2=意出筆墨外<br>免傷
+desc_buf_CS_tyhg_mwybj04_02_3=意出筆墨外<br>免傷
+desc_buf_CS_tyhg_mwybj04_02_range_0=意出筆墨外<br>受到傷害時，免疫一部分傷害
+desc_buf_CS_tyhg_mwybj04_02_range_1=意出筆墨外<br>受到傷害時，免疫一部分傷害
+desc_buf_CS_tyhg_mwybj04_02_range_2=意出筆墨外<br>受到傷害時，免疫一部分傷害
+desc_buf_CS_tyhg_mwybj04_02_range_3=意出筆墨外<br>受到傷害時，免疫一部分傷害
+desc_buf_CS_tyhg_mwybj04_03_0=墨花<br>受到攻擊時回復氣血，禁地或心魔場景中額外回復30%氣血。<br>(存在唯一，觸發後短時間內無法再次觸發）
+desc_buf_CS_tyhg_mwybj04_03_1=墨花<br>受到攻擊時回復500點氣血，禁地或心魔場景中額外回復10%氣血。<br>(存在唯一，觸發後短時間內無法再次觸發）
+desc_buf_CS_tyhg_mwybj04_03_2=墨花<br>受到攻擊時回復1000點氣血，禁地或心魔場景中額外回復20%氣血。<br>(存在唯一，觸發後短時間內無法再次觸發）
+desc_buf_CS_tyhg_mwybj04_03_3=墨花<br>受到攻擊時回復2000點氣血，禁地或心魔場景中額外回復30%氣血。<br>(存在唯一，觸發後短時間內無法再次觸發）
+desc_buf_CS_tyhg_mwybj04_03cd_0=墨花冷卻
+desc_buf_CS_tyhg_mwybj04_03cd_1=墨花冷卻
+desc_buf_CS_tyhg_mwybj05_0=乘舟
+desc_buf_CS_tyhg_mwybj05_1=乘舟
+desc_buf_CS_tyhg_mwybj06_0=酒濃春入夢
+desc_buf_CS_tyhg_mwybj06_1=酒濃春入夢
+desc_buf_CS_tyhg_mwybj06_2=酒濃春入夢
+desc_buf_CS_tyhg_mwybj06_3=酒濃春入夢
+desc_buf_CS_tyhg_mwybj07_0=酒濃春入夢
+desc_buf_CS_tyhg_mwybj07_1=酒濃春入夢
+desc_buf_CS_tyhg_mwybj07_2=酒濃春入夢
+desc_buf_CS_tyhg_mwybj07_3=酒濃春入夢
+desc_buf_CS_tyhg_mwybj07_range_0=酒濃春入夢<br>每秒回復2點怒氣。
+desc_buf_CS_tyhg_mwybj07_range_1=酒濃春入夢<br>每秒回復2點怒氣。（僅在禁地或心魔場景生效，且效果唯一）
+desc_buf_CS_tyhg_mwybj07_range_2=酒濃春入夢<br>每秒回復3點怒氣。（僅在禁地或心魔場景生效，且效果唯一）
+desc_buf_CS_tyhg_mwybj07_range_3=酒濃春入夢<br>每秒回復5點怒氣。（僅在禁地或心魔場景生效，且效果唯一）
+desc_buf_CS_tyhg_yszyq01_0=desc_buf_CS_tyhg_yszyq01_0
+desc_buf_CS_tyhg_yszyq01_1=<font color="#FFAE00">浮天</font>
+desc_buf_CS_tyhg_yszyq01_1_0=desc_buf_CS_tyhg_yszyq01_1_0
+desc_buf_CS_tyhg_yszyq01_1_1=<font color="#FFAE00">滄海</font>：降低10%<font color="#FFAE00">陰防禦</font>
+desc_buf_CS_tyhg_yszyq02_0=desc_buf_CS_tyhg_yszyq02_0
+desc_buf_CS_tyhg_yszyq02_1=<font color="#f9fc00">禁輕功</font>
+desc_buf_CS_tyhg_yszyq03_0=desc_buf_CS_tyhg_yszyq03_0
+desc_buf_CS_tyhg_yszyq03_1=鍵位錯亂
+desc_buf_CS_tyhg_yszyq03_1_0=desc_buf_CS_tyhg_yszyq03_1_0
+desc_buf_CS_tyhg_yszyq03_1_1=免疫<font color="#f9fc00">擊飛</font>效果
+desc_buf_CS_tyhg_yszyq03_cd_0=desc_buf_CS_tyhg_yszyq03_cd_0
+desc_buf_CS_tyhg_yszyq03_cd_1=CD5秒
+desc_buf_CS_tyhg_yszyq04_0=desc_buf_CS_tyhg_yszyq04_0
+desc_buf_CS_tyhg_yszyq04_1=<font color="#FFAE00">減速</font>
+desc_buf_CS_tyhg_yszyq04_1_0=desc_buf_CS_tyhg_yszyq04_1_0
+desc_buf_CS_tyhg_yszyq04_1_1=<font color="#f9fc00">定身</font>
+desc_buf_CS_tyhg_yszyq04_2_0=desc_buf_CS_tyhg_yszyq04_2_0
+desc_buf_CS_tyhg_yszyq04_2_1=封招
+desc_buf_CS_tyhg_yszyq05_0=desc_buf_CS_tyhg_yszyq05_0
+desc_buf_CS_tyhg_yszyq05_1=<font color="#f9fc00">鍵位錯亂</font>
+desc_buf_CS_tyhg_yszyq05_1_0=desc_buf_CS_tyhg_yszyq05_1_0
+desc_buf_CS_tyhg_yszyq05_1_1=封招
+desc_buf_CS_tyhg_yszyq05_2=<font color="#f9fc00">鍵位錯亂</font>
+desc_buf_CS_tyhg_yszyq05_3=<font color="#f9fc00">鍵位錯亂</font>
+desc_buf_CS_tyhg_yszyq06_0=desc_buf_CS_tyhg_yszyq06_0
+desc_buf_CS_tyhg_yszyq06_1=<font color="#FFAE00">虛無縹緲</font>
+desc_buf_CS_tyhg_yszyq06_1_0=desc_buf_CS_tyhg_yszyq06_1_0
+desc_buf_CS_tyhg_yszyq06_1_1=<font color="#FFAE00">虛無縹緲</font>：提升<font color="#FFAE00">內攻命中率</font>
+desc_buf_CS_tyhg_yszyq07_0=desc_buf_CS_tyhg_yszyq07_0
+desc_buf_CS_tyhg_yszyq07_1=<font color="#f9fc00">禁輕功</font>
+desc_buf_CS_tyhg_yszyq08_0=desc_buf_CS_tyhg_yszyq08_0
+desc_buf_CS_tyhg_yszyq08_1=<font color="#FFAE00">雲海相望</font>：成功招架敵人攻擊時，可獲得1層<font color="#FFAE00">雲海</font>狀態，持續9秒，最多可疊加3層。<br>每存在1層<font color="#FFAE00">雲海</font>狀態，釋放【浮天滄海】和【秋宵夢覺】時可額外獲得5%<font color="#f9fc00">內功暴擊率</font>。
+desc_buf_CS_tyhg_yszyq08_10=<font color="#FFAE00">雲海相望</font>：成功招架敵人攻擊時，可獲得1層<font color="#FFAE00">雲海</font>狀態，持續13.5秒，最多可疊加5層。<br>每存在1層<font color="#FFAE00">雲海</font>狀態，釋放【浮天滄海】和【秋宵夢覺】時可額外獲得5%<font color="#f9fc00">內功暴擊率</font>。
+desc_buf_CS_tyhg_yszyq08_11=<font color="#FFAE00">雲海相望</font>：成功招架敵人攻擊時，可獲得1層<font color="#FFAE00">雲海</font>狀態，持續14秒，最多可疊加5層。<br>每存在1層<font color="#FFAE00">雲海</font>狀態，釋放【浮天滄海】和【秋宵夢覺】時可額外獲得5%<font color="#f9fc00">內功暴擊率</font>。
+desc_buf_CS_tyhg_yszyq08_12=<font color="#FFAE00">雲海相望</font>：成功招架敵人攻擊時，可獲得1層<font color="#FFAE00">雲海</font>狀態，持續15秒，最多可疊加5層。<br>每存在1層<font color="#FFAE00">雲海</font>狀態，釋放【浮天滄海】和【秋宵夢覺】時可額外獲得5%<font color="#f9fc00">內功暴擊率</font>。
+desc_buf_CS_tyhg_yszyq08_1_0=desc_buf_CS_tyhg_yszyq08_1_0
+desc_buf_CS_tyhg_yszyq08_1_1=<font color="#FFAE00">雲海</font>
+desc_buf_CS_tyhg_yszyq08_1_10=<font color="#FFAE00">雲海</font>
+desc_buf_CS_tyhg_yszyq08_1_11=<font color="#FFAE00">雲海</font>
+desc_buf_CS_tyhg_yszyq08_1_12=<font color="#FFAE00">雲海</font>
+desc_buf_CS_tyhg_yszyq08_1_2=<font color="#FFAE00">雲海</font>
+desc_buf_CS_tyhg_yszyq08_1_3=<font color="#FFAE00">雲海</font>
+desc_buf_CS_tyhg_yszyq08_1_4=<font color="#FFAE00">雲海</font>
+desc_buf_CS_tyhg_yszyq08_1_5=<font color="#FFAE00">雲海</font>
+desc_buf_CS_tyhg_yszyq08_1_6=<font color="#FFAE00">雲海</font>
+desc_buf_CS_tyhg_yszyq08_1_7=<font color="#FFAE00">雲海</font>
+desc_buf_CS_tyhg_yszyq08_1_8=<font color="#FFAE00">雲海</font>
+desc_buf_CS_tyhg_yszyq08_1_9=<font color="#FFAE00">雲海</font>
+desc_buf_CS_tyhg_yszyq08_2=<font color="#FFAE00">雲海相望</font>：成功招架敵人攻擊時，可獲得1層<font color="#FFAE00">雲海</font>狀態，持續9.5秒，最多可疊加3層。<br>每存在1層<font color="#FFAE00">雲海</font>狀態，釋放【浮天滄海】和【秋宵夢覺】時可額外獲得5%<font color="#f9fc00">內功暴擊率</font>。
+desc_buf_CS_tyhg_yszyq08_3=<font color="#FFAE00">雲海相望</font>：成功招架敵人攻擊時，可獲得1層<font color="#FFAE00">雲海</font>狀態，持續10秒，最多可疊加3層。<br>每存在1層<font color="#FFAE00">雲海</font>狀態，釋放【浮天滄海】和【秋宵夢覺】時可額外獲得5%<font color="#f9fc00">內功暴擊率</font>。
+desc_buf_CS_tyhg_yszyq08_4=<font color="#FFAE00">雲海相望</font>：成功招架敵人攻擊時，可獲得1層<font color="#FFAE00">雲海</font>狀態，持續10.5秒，最多可疊加3層。<br>每存在1層<font color="#FFAE00">雲海</font>狀態，釋放【浮天滄海】和【秋宵夢覺】時可額外獲得5%<font color="#f9fc00">內功暴擊率</font>。
+desc_buf_CS_tyhg_yszyq08_5=<font color="#FFAE00">雲海相望</font>：成功招架敵人攻擊時，可獲得1層<font color="#FFAE00">雲海</font>狀態，持續11秒，最多可疊加4層。<br>每存在1層<font color="#FFAE00">雲海</font>狀態，釋放【浮天滄海】和【秋宵夢覺】時可額外獲得5%<font color="#f9fc00">內功暴擊率</font>。
+desc_buf_CS_tyhg_yszyq08_6=<font color="#FFAE00">雲海相望</font>：成功招架敵人攻擊時，可獲得1層<font color="#FFAE00">雲海</font>狀態，持續11.5秒，最多可疊加4層。<br>每存在1層<font color="#FFAE00">雲海</font>狀態，釋放【浮天滄海】和【秋宵夢覺】時可額外獲得5%<font color="#f9fc00">內功暴擊率</font>。
+desc_buf_CS_tyhg_yszyq08_7=<font color="#FFAE00">雲海相望</font>：成功招架敵人攻擊時，可獲得1層<font color="#FFAE00">雲海</font>狀態，持續12秒，最多可疊加4層。<br>每存在1層<font color="#FFAE00">雲海</font>狀態，釋放【浮天滄海】和【秋宵夢覺】時可額外獲得5%<font color="#f9fc00">內功暴擊率</font>。
+desc_buf_CS_tyhg_yszyq08_8=<font color="#FFAE00">雲海相望</font>：成功招架敵人攻擊時，可獲得1層<font color="#FFAE00">雲海</font>狀態，持續12.5秒，最多可疊加4層。<br>每存在1層<font color="#FFAE00">雲海</font>狀態，釋放【浮天滄海】和【秋宵夢覺】時可額外獲得5%<font color="#f9fc00">內功暴擊率</font>。
+desc_buf_CS_tyhg_yszyq08_9=<font color="#FFAE00">雲海相望</font>：成功招架敵人攻擊時，可獲得1層<font color="#FFAE00">雲海</font>狀態，持續13秒，最多可疊加4層。<br>每存在1層<font color="#FFAE00">雲海</font>狀態，釋放【浮天滄海】和【秋宵夢覺】時可額外獲得5%<font color="#f9fc00">內功暴擊率</font>。
+desc_buf_boss_immunity_world_0=desc_buf_boss_immunity_world_0
+desc_buf_boss_immunity_world_1=
+desc_buf_home_xiaqi2_0=棋意
+desc_buf_home_xiaqi2_1=
+desc_buf_jj_light_20sd_0=燭火
+desc_buf_jj_light_20sd_1=
+desc_buf_leave_newschool_tianyahaige_0=天涯海閣叛門
+desc_buf_leave_newschool_tianyahaige_1=天涯海閣叛門
+desc_buf_newguild_flag_shp_cantdie_0=次級防禦，免疫附加傷害
+desc_buf_newguild_flag_shp_cantdie_1=次級防禦，免疫附加傷害
+desc_buf_newtaosha_arrest_kill_0=追擊成功
+desc_buf_newtaosha_arrest_kill_1=
+desc_buf_newtaosha_arrest_player_0=行蹤已經暴露，正在被追擊
+desc_buf_newtaosha_arrest_player_1=
+desc_buf_newtaosha_arrest_succeed_0=挑戰成功
+desc_buf_newtaosha_arrest_succeed_1=
+desc_buf_newtaosha_detail_flag_0=佔領點
+desc_buf_newtaosha_detail_flag_1=
+desc_buf_newtaosha_open_flag_0=成功佔領
+desc_buf_newtaosha_open_flag_1=
+desc_buf_newtaosha_open_player_0=佔領
+desc_buf_newtaosha_open_player_1=
+desc_buf_ng_tyhg_001_0=desc_buf_ng_tyhg_001_0
+desc_buf_ng_tyhg_001_01_0=desc_buf_ng_tyhg_001_01_0
+desc_buf_ng_tyhg_001_01_1=<font color="#f9fc00">游雲</font><br>自身移速增加12%，「游雲」狀態下再次被攻擊則恢復自身48（受內功威力以及近戰威力影響）點氣血（最多恢復5次）
+desc_buf_ng_tyhg_001_01_2=<font color="#f9fc00">游雲</font><br>自身移速增加15%，「游雲」狀態下再次被攻擊則恢復自身65（受內功威力以及近戰威力影響）點氣血（最多恢復5次）
+desc_buf_ng_tyhg_001_01_3=<font color="#f9fc00">游雲</font><br>自身移速增加20%，「游雲」狀態下再次被攻擊則恢復自身82（受內功威力以及近戰威力影響）點氣血（最多恢復5次）
+desc_buf_ng_tyhg_001_01_4=<font color="#f9fc00">游雲</font><br>自身移速增加24%，「游雲」狀態下再次被攻擊則恢復自身100（受內功威力以及近戰威力影響）點氣血（最多恢復5次）
+desc_buf_ng_tyhg_001_01_5=<font color="#f9fc00">游雲</font><br>自身移速增加30%，「游雲」狀態下再次被攻擊則恢復自身119（受內功威力以及近戰威力影響）點氣血（最多恢復5次）
+desc_buf_ng_tyhg_001_02_0=desc_buf_ng_tyhg_001_02_0
+desc_buf_ng_tyhg_001_02_1=<font color="#f9fc00">驚龍</font><br>使自身招式傷害提高17%
+desc_buf_ng_tyhg_001_02_2=<font color="#f9fc00">驚龍</font><br>使自身招式傷害提高20%
+desc_buf_ng_tyhg_001_1=<font color="#f9fc00">碧游訣</font><br><font color="#FF3030">游雲</font>：被攻擊時有幾率獲得持續5秒的「游雲」狀態：自身移速增加12%，「游雲」狀態下再次被攻擊則恢復自身48（受內功威力以及近戰威力影響）點氣血（最多恢復5次）
+desc_buf_ng_tyhg_001_2=<font color="#f9fc00">碧游訣</font><br><font color="#FF3030">游雲</font>：被攻擊時有幾率獲得持續6秒的「游雲」狀態：自身移速增加15%，「游雲」狀態下再次被攻擊則恢復自身65（受內功威力以及近戰威力影響）點氣血（最多恢復5次）
+desc_buf_ng_tyhg_001_3=<font color="#f9fc00">碧游訣</font><br><font color="#FF3030">游雲</font>：被攻擊時有幾率獲得持續7秒的「游雲」狀態：自身移速增加20%，「游雲」狀態下再次被攻擊則恢復自身82（受內功威力以及近戰威力影響）點氣血（最多恢復5次）
+desc_buf_ng_tyhg_001_4=<font color="#f9fc00">碧游訣</font><br><font color="#FF3030">游雲</font>：被攻擊時有幾率獲得持續8秒的「游雲」狀態：自身移速增加24%，「游雲」狀態下再次被攻擊則恢復自身100（受內功威力以及近戰威力影響）點氣血（最多恢復5次）<br><font color="#9932CD">驚龍</font>： 「游雲」狀態存在及結束後10秒內，再次發起攻擊將獲得8秒的「驚龍」狀態：使自身招式傷害提高17%。（每次觸發「游雲」狀態之後只能觸發一次「驚龍」狀態）
+desc_buf_ng_tyhg_001_5=<font color="#f9fc00">碧游訣</font><br><font color="#FF3030">游雲</font>：被攻擊時有幾率獲得持續10秒的「游雲」狀態：自身移速增加30%，「游雲」狀態下再次被攻擊則恢復自身119（受內功威力以及近戰威力影響）點氣血（最多恢復5次）<br><font color="#9932CD">驚龍</font>： 「游雲」狀態存在及結束後10秒內，再次發起攻擊將獲得10秒的「驚龍」狀態：使自身招式傷害提高20%。（每次觸發「游雲」狀態之後只能觸發一次「驚龍」狀態）
+desc_buf_ng_tyhg_001_HP_0=desc_buf_ng_tyhg_001_HP_0
+desc_buf_ng_tyhg_001_HP_1=「游雲」回血計次
+desc_buf_ng_tyhg_001_HP_2=「游雲」回血計次
+desc_buf_ng_tyhg_001_HP_3=「游雲」回血計次
+desc_buf_ng_tyhg_001_HP_4=「游雲」回血計次
+desc_buf_ng_tyhg_001_HP_5=「游雲」回血計次
+desc_buf_ng_tyhg_001_cd_0=desc_buf_ng_tyhg_001_cd_0
+desc_buf_ng_tyhg_001_cd_1=desc_buf_ng_tyhg_001_cd_1
+desc_buf_ng_tyhg_001_mark_0=desc_buf_ng_tyhg_001_mark_0
+desc_buf_ng_tyhg_001_mark_1=desc_buf_ng_tyhg_001_mark_1
+desc_buf_ng_tyhg_001_mark_2=desc_buf_ng_tyhg_001_mark_1
+desc_buf_ng_tyhg_002_0=desc_buf_ng_tyhg_002_0
+desc_buf_ng_tyhg_002_01_0=desc_buf_ng_tyhg_002_01_0
+desc_buf_ng_tyhg_002_01_1=<font color="#f9fc00">春露之滋</font><br>每秒回復1%的氣血
+desc_buf_ng_tyhg_002_01_2=<font color="#f9fc00">春露之滋</font><br>每秒回復1%的氣血
+desc_buf_ng_tyhg_002_01_3=<font color="#f9fc00">春露之滋</font><br>每秒回復1%的氣血
+desc_buf_ng_tyhg_002_01_4=<font color="#f9fc00">春露之滋</font><br>每秒回復1%的氣血
+desc_buf_ng_tyhg_002_01_5=<font color="#f9fc00">春露之滋</font><br>每秒回復1.5%的氣血
+desc_buf_ng_tyhg_002_01_6=<font color="#f9fc00">春露之滋</font><br>每秒回復1.5%的氣血
+desc_buf_ng_tyhg_002_01_7=<font color="#f9fc00">春露之滋</font><br>每秒回復1.5%的氣血
+desc_buf_ng_tyhg_002_01_cd_0=desc_buf_ng_tyhg_002_01_cd_0
+desc_buf_ng_tyhg_002_01_cd_1=desc_buf_ng_tyhg_002_01_cd_1
+desc_buf_ng_tyhg_002_01_di_0=desc_buf_ng_tyhg_002_01_di_0
+desc_buf_ng_tyhg_002_01_di_1=<font color="#f9fc00">春露之滋·敵</font><br>招式傷害降低20%
+desc_buf_ng_tyhg_002_01_di_2=<font color="#f9fc00">春露之滋·敵</font><br>招式傷害降低24%
+desc_buf_ng_tyhg_002_01_di_3=<font color="#f9fc00">春露之滋·敵</font><br>招式傷害降低30%
+desc_buf_ng_tyhg_002_02_0=desc_buf_ng_tyhg_002_02_0
+desc_buf_ng_tyhg_002_02_1=<font color="#f9fc00">秋霜之烈</font><br>招式傷害提高10%
+desc_buf_ng_tyhg_002_02_2=<font color="#f9fc00">秋霜之烈</font><br>招式傷害提高12%
+desc_buf_ng_tyhg_002_02_3=<font color="#f9fc00">秋霜之烈</font><br>招式傷害提高14%
+desc_buf_ng_tyhg_002_02_4=<font color="#f9fc00">秋霜之烈</font><br>招式傷害提高16%
+desc_buf_ng_tyhg_002_02_5=<font color="#f9fc00">秋霜之烈</font><br>招式傷害提高20%
+desc_buf_ng_tyhg_002_02_6=<font color="#f9fc00">秋霜之烈</font><br>招式傷害提高24%
+desc_buf_ng_tyhg_002_02_7=<font color="#f9fc00">秋霜之烈</font><br>招式傷害提高30%
+desc_buf_ng_tyhg_002_02_cd_0=desc_buf_ng_tyhg_002_02_cd_0
+desc_buf_ng_tyhg_002_02_cd_1=desc_buf_ng_tyhg_002_02_cd_1
+desc_buf_ng_tyhg_002_1=<font color="#f9fc00">天游訣</font><br><font color="#FF3030">春露之滋</font>：被攻擊時有一定概率獲得「春露之滋」狀態，5秒內每秒回復1%的氣血<br><font color="#FF3030">秋霜之烈</font>：攻擊時有一定概率獲得「秋霜之烈」狀態，5秒內招式傷害提高10%
+desc_buf_ng_tyhg_002_2=<font color="#f9fc00">天游訣</font><br><font color="#FF3030">春露之滋</font>：被攻擊時有一定概率獲得「春露之滋」狀態，6秒內每秒回復1%的氣血<br><font color="#FF3030">秋霜之烈</font>：攻擊時有一定概率獲得「秋霜之烈」狀態，6秒內招式傷害提高12%
+desc_buf_ng_tyhg_002_3=<font color="#f9fc00">天游訣</font><br><font color="#FF3030">春露之滋</font>：被攻擊時有一定概率獲得「春露之滋」狀態，7秒內每秒回復1%的氣血<br><font color="#FF3030">秋霜之烈</font>：攻擊時有一定概率獲得「秋霜之烈」狀態，7秒內招式傷害提高14%
+desc_buf_ng_tyhg_002_4=<font color="#f9fc00">天游訣</font><br><font color="#FF3030">春露之滋</font>：被攻擊時有一定概率獲得「春露之滋」狀態，8秒內每秒回復1%的氣血<br><font color="#FF3030">秋霜之烈</font>：攻擊時有一定概率獲得「秋霜之烈」狀態，8秒內招式傷害提高16%
+desc_buf_ng_tyhg_002_5=<font color="#f9fc00">天游訣</font><br><font color="#FF3030">春露之滋</font>：被攻擊時有一定概率獲得「春露之滋」狀態，10秒內每秒回復1.5%的氣血<br><font color="#FF3030">秋霜之烈</font>：攻擊時有一定概率獲得「秋霜之烈」狀態，10秒內招式傷害提高20%<br><font color="#9932CD">春露秋霜</font>：「春露之滋」「秋霜之烈」同時存在時，被攻擊將會為敵方添加「春露之滋·敵」:招式傷害降低20%（最多持續10秒，自身「春露之滋」或「秋霜之烈」消失時移除），「秋霜之烈」攻擊時額外吸血10%
+desc_buf_ng_tyhg_002_6=<font color="#f9fc00">天游訣</font><br><font color="#FF3030">春露之滋</font>：被攻擊時有一定概率獲得「春露之滋」狀態，12秒內每秒回復1.5%的氣血<br><font color="#FF3030">秋霜之烈</font>：攻擊時有一定概率獲得「秋霜之烈」狀態，12秒內招式傷害提高24%<br><font color="#9932CD">春露秋霜</font>：「春露之滋」「秋霜之烈」同時存在時，被攻擊將會為敵方添加「春露之滋·敵」:招式傷害降低24%（最多持續12秒，自身「春露之滋」或「秋霜之烈」消失時移除），「秋霜之烈」攻擊時額外吸血12%
+desc_buf_ng_tyhg_002_7=<font color="#f9fc00">天游訣</font><br><font color="#FF3030">春露之滋</font>：被攻擊時有一定概率獲得「春露之滋」狀態，15秒內每秒回復1.5%的氣血<br><font color="#FF3030">秋霜之烈</font>：攻擊時有一定概率獲得「秋霜之烈」狀態，15秒內招式傷害提高30%<br><font color="#9932CD">春露秋霜</font>：「春露之滋」「秋霜之烈」同時存在時，被攻擊將會為敵方添加「春露之滋·敵」:招式傷害降低30%（最多持續15秒，自身「春露之滋」或「秋霜之烈」消失時移除），「秋霜之烈」攻擊時額外吸血15%
+desc_buf_sc_month_04_0=四季輪轉·冬<br>受到攻擊時，一定概率給自身添加20層「寒冬」狀態。<br>狀態觸發時，移動和使用輕功都將移除層數，每移除1層數，損失1%氣血。<br>狀態正常結束時，將使自身進入「深度凍結」狀態，狀態下昏迷並且受到的傷害時額外翻倍。<br>（寒冬和深度凍結狀態時，不會觸發寒冬狀態）
+desc_buf_sc_month_04_01_0=寒冬<br>逐漸凍僵全身，不斷移動和使用輕功都將移除層數，<br>每移除一層，受到1%氣血損失。<br>狀態正常結束時，將進入「深度凍結」狀態。
+desc_buf_sc_month_04_01_1=
+desc_buf_sc_month_04_02_0=深度凍結<br>昏迷並且受到的傷害時額外翻倍
+desc_buf_sc_month_04_02_1=
+desc_buf_sc_month_04_1=
+desc_buf_xs_people_0=戲水
+desc_buf_xs_people_1=
+desc_buf_xs_people_1_0=戲水
+desc_buf_xs_people_1_1=
+desc_buff_newtaosha_runaway_0=暫時無法報名參加「名城風雲」玩法
+desc_buff_newtaosha_runaway_1=
+desc_buff_tianyahaige_blqxl_001_0=不老泉修煉
+desc_buff_tianyahaige_blqxl_001_1=不老泉修煉
+desc_buff_tianyahaige_blqxl_002_0=不老泉修煉
+desc_buff_tianyahaige_blqxl_002_1=不老泉修煉
+desc_buff_tianyahaige_blqxl_003_0=不老泉修煉
+desc_buff_tianyahaige_blqxl_003_1=不老泉修煉
+desc_buff_tianyahaige_blqxl_004_0=修煉
+desc_buff_tianyahaige_blqxl_004_1=修煉
+desc_buff_tianyahaige_haigui_001_0=暗器技能
+desc_buff_tianyahaige_haigui_001_1=暗器技能
+desc_buff_ty_dy_01_0=desc_buff_ty_dy_01_0
+desc_buff_ty_dy_01_1=
+desc_buff_ty_dy_02_0=desc_buff_ty_dy_01_0
+desc_buff_ty_dy_02_1=
+desc_buff_ty_dy_03_0=desc_buff_ty_dy_01_0
+desc_buff_ty_dy_03_1=
+desc_buff_ty_dy_04_0=desc_buff_ty_dy_01_0
+desc_buff_ty_dy_04_1=
+desc_buff_ty_dy_05_0=desc_buff_ty_dy_01_0
+desc_buff_ty_dy_05_1=
+desc_buff_ty_dy_06_0=desc_buff_ty_dy_01_0
+desc_buff_ty_dy_06_1=
+desc_buff_ty_dy_07_0=氣候惡劣行動緩慢
+desc_buff_ty_dy_07_1=
+desc_buff_ty_dy_08_0=稍微暖和了一點
+desc_buff_ty_dy_08_1=
+desc_buff_ty_dy_09_0=desc_buff_ty_dy_01_0
+desc_buff_ty_dy_09_1=
+desc_buff_ty_dy_10_0=觀雪
+desc_buff_ty_dy_10_1=
+desc_buff_ty_dy_11_0=desc_buff_ty_dy_01_0
+desc_buff_ty_dy_11_1=
+desc_buff_ty_dy_12_0=desc_buff_ty_dy_01_0
+desc_buff_ty_dy_12_1=
+desc_buff_ty_dy_13_0=desc_buff_ty_dy_01_0
+desc_buff_ty_dy_13_1=
+desc_buff_ty_dy_14_0=desc_buff_ty_dy_14_0
+desc_buff_ty_dy_14_1=
+desc_buff_ty_dy_15_0=desc_buff_ty_dy_14_0
+desc_buff_ty_dy_15_1=
+desc_buff_ty_dy_16_0=戲水
+desc_buff_ty_dy_16_1=
+desc_buff_tyhg_aq_0=<font color="#f9fc00">安全</font><br>正處於本盟的安全區
+desc_buff_tyhg_aq_1=
+desc_buff_tyhg_judian_0=<font color="#f9fc00">戰鬥區域</font><br>每20秒增加1點積分
+desc_buff_tyhg_judian_1=
+desc_buff_tyhg_lzy_chhd001_0=處於海釣點，可以開始海釣
+desc_buff_tyhg_lzy_chhd001_1=
+desc_buff_tyhg_lzy_chhd002_0=海釣，成功後可獲得1~3斤的海魚
+desc_buff_tyhg_lzy_chhd002_1=
+desc_buff_tyhg_lzy_chhd003_0=海釣，成功後可獲得3~5斤的海魚
+desc_buff_tyhg_lzy_chhd003_1=
+desc_buff_tyhg_lzy_chhd004_0=desc_buff_tyhg_lzy_chhd004_0
+desc_buff_tyhg_lzy_chhd004_1=
+desc_buff_tyhg_lzy_chhd005_0=desc_buff_tyhg_lzy_chhd005_0
+desc_buff_tyhg_lzy_chhd005_1=
+desc_buff_tyhg_lzy_chhd006_0=desc_buff_tyhg_lzy_chhd006_0
+desc_buff_tyhg_lzy_chhd006_1=
+desc_buff_tyhg_lzy_chhd007_0=desc_buff_tyhg_lzy_chhd007_0
+desc_buff_tyhg_lzy_chhd007_1=
+desc_buff_tyhg_lzy_chhd008_0=desc_buff_tyhg_lzy_chhd008_0
+desc_buff_tyhg_lzy_chhd008_1=
+desc_buff_tyhg_lzy_chhd009_0=desc_buff_tyhg_lzy_chhd009_0
+desc_buff_tyhg_lzy_chhd009_1=
+desc_buff_tyhg_lzy_chhd010_0=海釣有所收穫，收桿
+desc_buff_tyhg_lzy_chhd010_1=
+desc_buff_tyhg_lzy_chhd011_0=海釣失敗
+desc_buff_tyhg_lzy_chhd011_1=
+desc_buff_tyhg_lzy_chhd012_0=正在海釣
+desc_buff_tyhg_lzy_chhd012_1=
+desc_buff_tyhg_lzy_chhd_dg_0=出海海釣
+desc_buff_tyhg_lzy_chhd_dg_1=
+desc_wuji_buf_CS_tm_ywt07_mark_0=desc_wuji_buf_CS_tm_ywt07_mark_0
+desc_wuji_buf_CS_tm_ywt07_mark_1=desc_wuji_buf_CS_tm_ywt07_mark_1
+wuji_buf_CS_tm_ywt07_mark=閻王擲筆-鬼獄計數
+desc_buf_CS_jh_dldm04_1_1=<font color="#f9fc00">厲鬼欺身</font><br/>減速5%，最多可疊加5層
+desc_buf_CS_jh_dldm04_1_2=<font color="#f9fc00">厲鬼欺身</font><br/>減速5%，最多可疊加5層
+desc_buf_CS_jh_dldm04_1_3=<font color="#f9fc00">厲鬼欺身</font><br/>減速5%，最多可疊加5層
+desc_buf_CS_jh_dldm04_1_4=<font color="#f9fc00">厲鬼欺身</font><br/>減速5%，最多可疊加5層
+desc_buf_CS_jh_dldm04_1_5=<font color="#f9fc00">厲鬼欺身</font><br/>減速5%，最多可疊加5層
+desc_buf_CS_jh_dldm04_1_6=<font color="#f9fc00">厲鬼欺身</font><br/>減速5%，最多可疊加5層
+desc_buf_CS_jh_dldm04_1_7=<font color="#f9fc00">厲鬼欺身</font><br/>減速5%，最多可疊加5層
+desc_buf_CS_jz_lyfh07_01_wj_1=<font color="#f9fc00">風花雪月</font><br><font color="#FF3030">強霸體（紅）</font>
+desc_buf_CS_sjy_klbx07_01_1=<font color="#f9fc00">驚龍長嘯</font><br>狂龍八嘯的招式傷害增加25%，【狂龍穿海】消耗怒氣降低50點
+desc_eqp_shoes_02a_1=減免部分暗器套路控制和傷害
+eqp_shoes_02a=陷阱免疫
 

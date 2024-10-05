@@ -842,4 +842,63 @@ storymenu_6521_2=<font face="Default" color="#ffffff" >  弟子生平攻克，�
 storymenu_6524_1=<font face="Default" color="#ffffff" >哎，自從被逐出門派，廢掉武功之後，我就一直顛沛流離，還時不時要躲開隱衛的追殺，真不想過這種流離的生活了。</font>
 collectinfo_6563=獲得江湖歷練實力憑證以證明下山歷練成果（江湖歷練實力憑證從門派戰獎勵包中有幾率獲得，參加禁地江湖隱衛騷擾成功也可有幾率獲得）
 storymenu_6511_2=<font face="Default" color="#ffffff" >盅使……盅使……這……你要對我下毒手？</font>
+DialogID_6575=<font face="Default" color="#ffffff" >  不錯不錯，掌門肯定會喜歡你的，這是引薦信，你拿去給掌門吧。</font>
+DialogID_6576=<font face="Default" color="#ffffff" >  哈哈哈，你以為我真會和你一起走？我已經偷偷派人去告訴掌門了。</font>
+DialogID_6577=<font face="Default" color="#ffffff" >既然你想重新返回門派接下來按照派內規定，需要對你重新回到門派進行為期一天的審核。</font>
+DialogID_6578=<font face="Default" color="#ffffff" >   哈哈哈，我就知道有這一天，你別急，我身邊這護衛，有一招江湖絕技，能把你的臉變回來。</font>
+QiecuoMenu_6544=<font face="Default" color="#ffffff" >前輩，那就得罪了。</font>
+QiecuoMenu_6545=<font face="Default" color="#ffffff" >看招！</font>
+QiecuoMenu_6546=<font face="Default" color="#ffffff" >呀，怎麼突然就攻過來了。</font>
+QiecuoTitle_6544=<font face="Default" color="#ffffff" > 在去見掌門之前，我還想試一試你的身手，你就放手攻過來，讓我瞧瞧吧。</font>
+QiecuoTitle_6545=<font face="Default" color="#ffffff" >就憑你也想和我鬥？</font>
+QiecuoTitle_6546=<font face="Default" color="#ffffff" >  又來一個，正好手癢，吃我一招「還我漂漂拳」。</font>
+SubmitNpcEx_45625=<a href="findnpc_new,school24,newmp_kl_004" style="HLStype1">曹亦安</a>
+SubmitNpcEx_45627=與<a href="findnpc_new,school24,newmp_kl_001" style="HLStype1">雲陽子</a>交談告訴其想法
+SubmitNpcEx_45628=懇求<a href="findnpc_new,school24,newmp_kl_001" style="HLStype1">雲陽子</a>准許自己加入崑崙派
+SubmitNpcEx_45633=拜別<a href="findnpc_new,school24,newmp_kl_001" style="HLStype1">雲陽子</a>開啟江湖歷練之路
+SubmitNpcEx_45634=將重歸崑崙派山門的入門憑證交給<a href="findnpc_new,school24,newmp_kl_001" style="HLStype1">雲陽子</a>
+collectinfo_6564=江湖禁地青雲堡和鳳凰山莊會掉落實力憑證，參加踢館（一級館不掉落）獲得甲級評分也會掉落證明自己實力的實力憑證，二級及以上館挫敗寶箱中會有實力憑證，你也可以去下山歷練指引員處接取日常任務獲得實力憑證
+collectinfo_6565=等待門派一日審核期結束後打開返回門派審核令牌查看是否可以重新返回門派
+collectinfo_6566=獲得江湖歷練實力憑證以證明下山歷練成果（江湖歷練實力憑證從門派戰獎勵包中有幾率獲得，參加禁地江湖隱衛騷擾成功也可有幾率獲得）
+hunterinfo_6544=接受<a href="findnpc_new,school24,npc_klguj_005" style="HLStype1">軒轅清</a>的考驗
+hunterinfo_6545=沒想到<a href="findnpc_new,school24,npc_klguj_003" style="HLStype1">慕容炎</a>居然告密，打敗他
+hunterinfo_6546=接受<a href="findnpc_new,born02,erg36" style="HLStype1">丹聖護衛</a>的拳法醫療
+interactinfo_6575=得到<a href="findnpc_new,school24,npc_klguj_005" style="HLStype1">軒轅清</a>交予的引薦信
+interactinfo_6576=把私自下山的想法告訴<a href="findnpc_new,school24,npc_klguj_003" style="HLStype1">慕容炎</a>
+interactinfo_6577=與<a href="findnpc_new,school24,newmp_kl_003" style="HLStype1">無為道長</a>交談詢問重歸山門一事（註：可通過惡人谷的<a href="findnpc_new,born02,DoorNpc00103" style="HLStype1">傳送門</a>前往崑崙派）
+interactinfo_6578=向<a href="findnpc_new,born02,erg38" style="HLStype1">丹聖弟子</a>探討去除易容的方法
+okmenu_6575=<font face="Default" color="#ffffff" >多謝前輩。</font>
+okmenu_6576=<font face="Default" color="#ffffff" >你你......你居然做這種事！</font>
+okmenu_6577=<font face="Default" color="#ffffff" >多謝長老。</font>
+okmenu_6578=<font face="Default" color="#ffffff" >多謝神醫。</font>
+story_6580_1=<font face="Default" color="#ffffff" >  平時你也為了我</font><font face="Default" color="#ffffff" >崑崙</font><font face="Default" color="#ffffff" >派四處奔波，兢兢業業，我也都看在眼裡。但是</font><font face="Default" color="#ffffff" >崑崙</font><font face="Default" color="#ffffff" >派門規森嚴，任何人等都不得觸犯，即使是我，也不能。雖然我知你無心，但是我也不能留你在</font><font face="Default" color="#ffffff" >崑崙</font><font face="Default" color="#ffffff" >派，否則門內眾多弟子，以後步你後塵的肯定會越來越多。</font>
+story_6580_2=<font face="Default" color="#ffffff" >  哈哈，我不會和你一般見識，你今天就從我</font><font face="Default" color="#ffffff" >崑崙</font><font face="Default" color="#ffffff" >派走吧，我不會為難你。以後再遇到你，可不會這麼讓你走的。</font>
+story_6581_1=<font face="Default" color="#ffffff" > 哦？發生了什麼事？來我</font><font face="Default" color="#ffffff" >崑崙</font><font face="Default" color="#ffffff" >幹什麼？</font>
+story_6581_2=<font face="Default" color="#ffffff" >呵呵，為何這麼說呢？</font>
+story_6581_3=<font face="Default" color="#ffffff" >  哈哈哈，你要加入我</font><font face="Default" color="#ffffff" >崑崙派</font><font face="Default" color="#ffffff" >，憑我手中的這封信，不就可以了麼？</font>
+story_6582_1=<font face="Default" color="#ffffff" >如今江湖雖非多事之秋，然各勢力蠢蠢欲動，況且以你如今的實力，只怕連參加試煉的資格都不可獲得</font>
+story_6582_2=<font face="Default" color="#ffffff" >崑崙</font><font face="Default" color="#ffffff" >派本就超然物外與世無爭。若是為了爭甚麼虛名，我</font><font face="Default" color="#ffffff" >崑崙</font><font face="Default" color="#ffffff" >派弟子早已超越其他諸派。你即有此心，便以脫離我</font><font face="Default" color="#ffffff" >崑崙</font><font face="Default" color="#ffffff" >派超然之心態，還是留在門中好生思過。若能思慮通達，便是你踏入江湖之時。</font>
+story_6583_1=<font face="Default" color="#ffffff" >此番你雖被我崑崙派高手擒獲，然你所用武功在我崑崙派眾弟子之中也算前列，然而經此一戰，你身受內傷，即便痊癒，也難恢復到從前實力，也罷，便讓你下山去罷，若非有所奇遇，恐怕你的武功也難以恢復了，只是從此之後，你不再是我</font><font face="Default" color="#ffffff" >崑崙</font><font face="Default" color="#ffffff" >派弟子了。</font>
+story_6584_1=<font face="Default" color="#ffffff" >既然如此，不知你外出歷練可有所收穫？</font>
+story_6584_2=<font face="Default" color="#ffffff" >當初掌門勸阻爾等，爾等卻執意外出，如今可嘗到苦果了？也罷，若你能取回相應憑證，借此證明此番歷練你並未荒廢武學，方才擁有重歸山門的資格。</font>
+story_menu_6580=<font face="Default" color="#ffffff" >門內關於你的議論，我已有耳聞</font>
+story_menu_6581=<font face="Default" color="#ffffff" >加入</font><font face="Default" color="#ffffff" >崑崙</font><font face="Default" color="#ffffff" >派</font>
+story_menu_6582=<font face="Default" color="#ffffff" >掌門容稟，弟子想出外一行，不知掌門能否應允？</font>
+story_menu_6583=<font face="Default" color="#ffffff" >事已至此，弟子聽憑掌門發落。</font>
+story_menu_6584=<font face="Default" color="#ffffff" >弟子想要重回</font><font face="Default" color="#ffffff" >崑崙</font><font face="Default" color="#ffffff" >派，還望成全。</font>
+storyinfo_6580=聽<a href="findnpc_new,school24,newmp_kl_001" style="HLStype1">雲陽子</a>訴說
+storyinfo_6581=偶遇<a href="findnpc_new,school24,npc_klguj_005" style="HLStype1">軒轅清</a>與其交談。（註：可通過惡人谷的<a href="findnpc_new,born02,DoorNpc00103" style="HLStype1">傳送門</a>前往崑崙派）
+storyinfo_6582=向掌門<a href="findnpc_new,school24,newmp_kl_001" style="HLStype1">雲陽子</a>詢問出外闖蕩之事
+storyinfo_6583=聽憑掌門<a href="findnpc_new,school24,newmp_kl_001" style="HLStype1">雲陽子</a>處置
+storyinfo_6584=與<a href="findnpc_new,school24,newmp_kl_003" style="HLStype1">無為道長</a>交談詢問重歸崑崙派一事。
+storymenu_6580_1=<font face="Default" color="#ffffff" >掌門，其實我不是有意要和朝廷有瓜葛，只是，人在江湖，身不得已。</font>
+storymenu_6580_2=<font face="Default" color="#ffffff" >哼，既然這樣，那以後也別怪我無情。</font>
+storymenu_6581_1=<font face="Default" color="#ffffff" >在下實在走頭無路，還請</font><font face="Default" color="#ffffff" >崑崙</font><font face="Default" color="#ffffff" >派收留。</font>
+storymenu_6581_2=<font face="Default" color="#ffffff" >不瞞您說，我早就看穿那些所謂的門派，我就是要加入</font><font face="Default" color="#ffffff" >崑崙</font><font face="Default" color="#ffffff" >派。</font>
+storymenu_6581_3=<font face="Default" color="#ffffff" >那好，前輩把那封引薦信給我</font><font face="Default" color="#ffffff" >吧。</font>
+storymenu_6582_1=<font face="Default" color="#ffffff" >掌門明鑒。弟子不過是想去江湖中遊歷一番，揚我</font><font face="Default" color="#ffffff" >崑崙</font><font face="Default" color="#ffffff" >派之威。</font>
+storymenu_6582_2=<font face="Default" color="#ffffff" >弟子……弟子謹遵掌門教誨，這便回去思過</font>
+storymenu_6583_1=<font face="Default" color="#ffffff" >弟子犯下此等過錯，掌門竟還如此關心弟子，弟子羞愧萬分。</font>
+storymenu_6584_1=<font face="Default" color="#ffffff" >弟子此番江湖遊歷，人情冷暖世態炎涼之事屢見不鮮，更見到諸多小人嘴臉。而今心灰意冷，只望能重回</font><font face="Default" color="#ffffff" >崑崙</font><font face="Default" color="#ffffff" >派中，每日習武強身，瀟灑飲酒，以求心靜。</font>
+storymenu_6584_2=<font face="Default" color="#ffffff" >弟子明白，弟子這便前去。</font>
 

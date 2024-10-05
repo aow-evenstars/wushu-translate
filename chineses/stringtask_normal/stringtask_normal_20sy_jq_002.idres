@@ -1,0 +1,121 @@
+﻿
+CanAcceptMenu_75601=<font face="Default" color="#ffffff" >Meditate in peace</font>
+CanAcceptMenu_75602=<font face="Default" color="#ffffff" >Eliminate hidden dangers</font>
+CanAcceptMenu_75603=<font face="Default" color="#ffffff" >Collect mud</font>
+CanAcceptMenu_75604=<font face="Default" color="#ffffff" >Hone martial skills</font>
+CanAcceptMenu_75605=<font face="Default" color="#ffffff" >Chess Q&A</font>
+CanAcceptMenu_75606=<font face="Default" color="#ffffff" >Material Procurement</font>
+CanAcceptMenu_75607=<font face="Default" color="#ffffff" >Procuring Materials</font>
+CanAcceptMenu_75641=<font face="Default" color="#ffffff" >Challenge a Master</font>
+CanAcceptMenu_75642=<font face="Default" color="#ffffff" >Chess Match</font>
+CompleteMenu_75606=<font face="Default" color="#ffffff" >You</font><font face="Default" color="#ffffff" >are too polite.</font>
+CompleteMenu_75607=<font face="Default" color="#ffffff" >Procuring Materials</font><font face="Default" color="#ffffff" >(can be submitted)</font>
+accept_75601_1=<font face="Default" color="#ffffff" >You seem a bit anxious, why don't you go to the meditation room to calm down first?</font>
+accept_75602_1=<font face="Default" color="#ffffff" >There have been a lot of wolves on the mountain recently, and the people in the village are afraid to go up the mountain. Can you go and deal with it?</font>
+accept_75603_1=<font face="Default" color="#ffffff" >The mud we use in the village is a special type from the riverbank here. Can you help me collect some?</font>
+accept_75604_1=<font face="Default" color="#ffffff" >Don't be fooled by the small size of our village, we have many hidden masters here.</font>
+accept_75605_1=<font face="Default" color="#ffffff" >Everyone in this village is well-versed in chess. To stay here, you need to have a wealth of knowledge about chess. Do you have it?</font>
+accept_75606_1=<font face="Default" color="#ffffff" >We are running low on food and supplies,</font><font face="Default" color="#ffffff" >and I I can't </font><font face="Default" color="#ffffff" >handle it all by myself...</font>
+accept_75607_1=<font face="Default" color="#ffffff" >As you can see, the population of our village is growing and we are using up our resources faster. I can't handle it all by myself. Can you help me by purchasing some supplies?</font>
+accept_75641_1=<font face="Default" color="#ffffff" >We have an unparalleled master in our village.</font><font face="Default" color="#ffffff" >Oh.</font>
+accept_75642_1=<font face="Default" color="#ffffff" >Different chess pieces represent different people.</font>
+complete_75601=<font face="Default" color="#ffffff" >Have you calmed your mind?</font>
+complete_75602=<font face="Default" color="#ffffff" >Thank you for your help, young hero!</font>
+complete_75603=<font face="Default" color="#ffffff" >It's great, these muds came just in time, I've</font><font face="Default" color="#ffffff" >smoothed out all my chess pieces.</font>
+complete_75604=<font face="Default" color="#ffffff" >I didn't expect you to be so skilled</font>
+complete_75605=<font face="Default" color="#ffffff" >Impressive, you got all the answers right</font>
+complete_75606=<font face="Default" color="#ffffff" >Your help is greatly appreciated....</font>
+complete_75607=<font face="Default" color="#ffffff" >This matter has been handled very well.</font>
+complete_75641=<font face="Default" color="#ffffff" >You defeated Ruan Xingyuan. Your strength must be very strong</font>
+complete_75642=<font face="Default" color="#ffffff" >This is your reward</font>
+context_75601=Go to the meditation room and use the cushion to meditate
+context_75602=Recently, there have been many wolves on the mountain, and the people in the village are afraid to go up the mountain.
+context_75603=The people in our village love to play chess, which consumes a lot of chess pieces.
+context_75604=Practice with the masters in the village
+context_75605=Answer Ashiyue's questions
+context_75606=If Ashiyue is in trouble, go help her.
+context_75607=Ashiyue would like to ask for your help in purchasing some items to supplement the shortage in the village.
+context_75641=Challenge <a href="findnpc_new,groupscene045,NPC_2020jq_dingzw003" style="HLStype1">Ruan Xingyuan</a>
+context_75642=The key to playing chess lies in daily practice and sparring with other players.
+menu_75601_1=<font face="Default" color="#ffffff" >Yes, I'll do it now.</font>
+menu_75602_1=<font face="Default" color="#ffffff" >Yes, I am ready.</font>
+menu_75603_1=<font face="Default" color="#ffffff" >Okay, I'll go right away</font>
+menu_75604_1=<font face="Default" color="#ffffff" >I'll go find them now!</font>
+menu_75605_1=<font face="Default" color="#ffffff" >Of course,</font><font face="Default" color="#ffffff" >please</font><font face="Default" color="#ffffff" >ask</font><font face="Default" color="#ffffff" >whatever you want</font>
+menu_75606_1=<font face="Default" color="#ffffff" >Ashi</font><font face="Default" color="#ffffff" >yue</font><font face="Default" color="#ffffff" >don't worry, I'll help you</font>
+menu_75607_1=<font face="Default" color="#ffffff">I go now!</font>
+menu_75641_1=<font face="Default" color="#ffffff" >Where is he? I'll go visit him now</font>
+menu_75642_1=<font face="Default" color="#ffffff" >Really?</font>
+submit_75601=<font face="Default" color="#ffffff" >My heart has already calmed down.</font>
+submit_75602=<font face="Default" color="#ffffff" > Don't mention it. </font>
+submit_75603=<font face="Default" color="#ffffff" >You're welcome!</font>
+submit_75604=<font face="Default" color="#ffffff" >You're welcome, you're welcome</font>
+submit_75605=<font face="Default" color="#ffffff">Haha.</font>
+submit_75606=<font face="Default" color="#ffffff" >Fulfill the task.</font>
+submit_75607=<font face="Default" color="#ffffff" >You are too kind.</font>
+submit_75641=<font face="Default" color="#ffffff" >Fortunately, fortunately</font>
+submit_75642=<font face="Default" color="#ffffff" >Thank you!</font>
+target_75601=Go to the meditation room and use the cushion to meditate
+target_75602=There are many wolves on the mountain recently, and the people in the village are afraid to go up the mountain.
+target_75603=Go to the nearby water to collect some clay for making chess pieces.
+target_75604=Practice with the masters in the village
+target_75605=Answer Ashiyue's questions
+target_75606=Help Ashiyue
+target_75607=Collect the items that Ashiyue asked you to purchase.
+target_75641=Challenge <a href="findnpc_new,groupscene045,NPC_2020jq_dingzw003" style="HLStype1">Ruan Xingyuan</a>
+target_75642=The key to playing chess lies in daily practice and sparring with other players.
+title_75601=Meditate
+title_75602=Eliminate hidden dangers
+title_75603=Collect clay
+title_75604=Hone martial arts skills
+title_75605=Chess Q&A
+title_75606=Procure materials
+title_75607=Purchasing Materials and Goods
+title_75641=Challenge experts
+title_75642=Chess game
+maintext_8139=The chariot can be said to be the most powerful chess piece in Chinese chess, because
+ZZAnswerText1_8139=The name sounds very powerful
+ZZAnswerText2_8139=Each move can go straight, retreat, and move horizontally, without limitation of steps
+maintext_8140=In Chinese chess, can the pawn (soldier) move forward and backward after crossing the border?
+ZZAnswerText1_8140=Can only move forward, cannot move backward
+ZZAnswerText2_8140=Cannot move forward, can only move backward
+maintext_8141=How many types of pawns are there in Chinese chess?
+ZZAnswerText1_8141=6
+ZZAnswerText2_8141=7
+maintext_8142=What was Chinese chess called in ancient times?
+ZZAnswerText1_8142=Elephant game
+ZZAnswerText2_8142=Middle chess
+maintext_8143=Where did Chinese chess originate?
+ZZAnswerText1_8143=England
+ZZAnswerText2_8143=Shanxi
+maintext_8144=How many intersections are there on a Chinese chess board in total?
+ZZAnswerText1_8144=90 intersections
+ZZAnswerText2_8144=88 intersections
+maintext_8145=What is it called when there are no straight lines drawn on the chess board?
+ZZAnswerText1_8145=Nine Palace Grid
+ZZAnswerText2_8145=River Boundary
+maintext_8146=In official matches, does the red side move first or the black side?
+ZZAnswerText1_8146=The black side
+ZZAnswerText2_8146=Red Party
+maintext_8147=The chariot can be said to be the most powerful chess piece in Chinese chess, because
+ZZAnswerText2_8147=The name sounds very powerful
+ZZAnswerText1_8147=Each move can go straight, retreat, and move horizontally, without limitation of steps
+maintext_8148=In Chinese chess, can the pawn (soldier) move forward and backward after crossing the border?
+ZZAnswerText1_8148=Can only move forward, cannot move backward
+ZZAnswerText2_8148=Cannot move forward, can only move backward
+maintext_8149=How many types of pawns are there in Chinese chess?
+ZZAnswerText1_8149=6
+ZZAnswerText2_8149=7
+maintext_8150=What was Chinese chess called in ancient times?
+ZZAnswerText2_8150=Elephant game
+ZZAnswerText1_8150=Middle chess
+maintext_8151=Where did Chinese chess originate?
+ZZAnswerText2_8151=England
+ZZAnswerText1_8151=Shanxi
+maintext_8152=How many intersections are there on a Chinese chess board in total?
+ZZAnswerText1_8152=90 intersections
+ZZAnswerText2_8152=88 intersections
+maintext_8153=What is it called when there are no straight lines drawn on the chess board?
+ZZAnswerText1_8153=Nine Palace Grid
+ZZAnswerText2_8153=River Boundary
+

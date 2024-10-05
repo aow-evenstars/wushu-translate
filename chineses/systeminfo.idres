@@ -498,8 +498,6 @@
 13502=You received <img src="gui\common\money\liang.png"  valign="center" />{@0:$}.
 13503=You received <img src="gui\common\money\suiyin.png"  valign="center" />{@0:$}.
 13504=The money you carry has exceeded the limit. you cannot get more. All extra money you would have gained will be lost.
-13506=This sale gives you <img src="gui\common\money\suiyin.png"  valign="center" />{@0:$}.
-13507=This person is in jail and cannot be kidnapped.
 1351=Opening long-distance warehouse operation. This operation cannot be done frequently. Please be patient.
 1354=This item cannot be stored at the bank.
 1355=This item is not a package.
@@ -1993,7 +1991,6 @@
 40010=Received <img src="gui\common\money\suiyin.png" valign="center" only="line" data="" /><font color="#00ff00">{@0:$}</font>
 40011=You've gained({@0:life})Life Skill Proficiency {@1:number}
 40012=Spent <font color="#00ff00">{@0:number}</font>liang<img src="gui\common\money\yb.png" valign="center" only="line" data="" />. Ransom successful
-40013=Successfully sold the kidnapee. Receieved<font color="#00ff00">{@0:number}</font>liang<img src="gui\common\money\yb.png" valign="center" only="line" data="" />
 40014=Too far from the target. Please move closer.
 40015=Insufficient Gold. Trade failed.
 40016=Insufficient Cultivation points. Cultivation failed.
@@ -2002,58 +1999,33 @@
 40019=You have gained <font color="#00ff00">{@0:number}</font> Cultivation Points
 40020=Lost <font color="#00ff00">{@0:number}</font> cultivation points
 40021=Lost [{@0:goods}]*{@1:number}
-40022=Choose an offline player, then use the knockout drops.
 40023=Can only be used on an Offline Working Player.
 40024=Can only be used on an Offline Cultivating Player.
 40025=Can only be used on an Imprisoned Player.
 40026=Can only be used Offline Players who are free to move.
 40027=Cannot be constantly used on the same player.
 4003=<font color="#ff6600">{@2:数量} villagers have escaped. Save more villagers.</font>.
-40031=Unable to kidnap more than one player at a time.
-40033=You scumbag! Let's fight!
-40034=Thanks for saving me!
-40035=Do what's right and rescue this person.
-40036=You've kidnapped a person!
 40040=Not enough funds. Unable to redeem.
-40041=Ransom paid. You are free.
-40043=The person you kidnapped has escaped. Kidnapping failed.
 40044=You currently have no experience value. Unable to do double cultivation.
 40045=<font color="#00ff00">[{@0:name}]</font> seized a Skill Script.
 40046=<font color="#00ff00">[{@0:name}]</font> seized an Internal Skill Script.
 40047=<font color="#00ff00">{@0:name}</font> is Double Cultivating with other players.
 40048=Unable to set up a stall with your weapon unsheathed. Press "Z" to sheath.
-40049=The kidnapper [{@3:name}] was located in {@0:scene}({@1:x}{@2:z}). Please stop them from kidnapping.
 4005=<font color="#ff6600">The flame almost died after pouring the water.</font>
-40051=The kidnapper [{@3:name}] was located in {@0:scene}({@1:x}{@2:z}). Please stop them from kidnapping
-40052=[{@0:name}] has a strong sense of justice. Rescue the people who were kidnapped.
 40053=You already engaged in double cultivation.
-40054=Defeat the kidnappers and save offline players.
-40055=Search for human traffickers or NPC's recruiting workers.
-40056=Instruction: Find this school's library or steal the secret scripts from players who have them(Right-click the portrait of an offline script-escorting player to steal scripts).
 40059=Hint: There are theives about. Be on guard.
 4006=<font color="#ff6600">Successfully extinguished the fire on a nearby building</font>.
 40060=Hint: Give the scripts to the Library Watchman.
-40061=Right-click the knockout drops to use them on an offline player.
-40062=Success. The victim has fallen unconscious.
-40063=Get close and click the sack to kidnap.
-40064=The kidnapped person escaped because of my carelessness.
-40065=In protection state. Unable to use knockout drops.
-40066=In protection state. Unable to use gunny sack.
-40067=In protection state. Unable to attack kidnapper.
 40069=Sit in Meditation. <font color="#ff0000">Life </font> and <font color="#0000ff">Energy</font> are slowly recovering.
 4007=<font color="#ff6600">Those arsonists have set fire to another house. Let's put that fire out! </font>
 40070=Acquired <font color="#FF0000">{@0:num}</font> Potential points
 40071=Act according to your ability and do not avoid helping with small tasks.
-40072=Sale has failed. Target does not have enough money.
-40073=Sale successful. Silver obtained.
 40074=Unexpectedly acquired<img src="gui\common\money\yb.png" valign="center" only="line" data="" /><font color="#00ff00">{@0:$}</font>
-40075=The player has been kidnapped recently. Find another victim!
 40076=After opening the red envelope you find there is no money in it!
 40077=Failed to obtain the Silver.
 4008=<font color="#ff6600">The path is obstructed. Put out all the fires in the village.</font>
 401=Kunwu Peak
 4010=<font color="#ff6600">The villagers have successfully brought back {@2:数量} boxes of jewelry from treasure down south.</font>
-40101=Currently kidnapping. Unable to return to Character Select.
 40102=Task cannot be tracked.
 40103=Currently being transported. Unable to return to character select.
 40104=In executed status. Unable to return to select character.
@@ -2926,9 +2898,6 @@
 82020=Unable to place more than 1 bet at a time.
 82021=You have bet on {@0:擂台玩家}<img src="gui\common\money\yyb.png" valign="center" only="line" data="" />{@1:$}
 82022=Not enough money.
-82023=You won <img src="gui\common\money\yyb.png" valign="center" only="line" data="" />{@0:$} in the Challenge Arena.
-82024=There are no opponents to bet against for the challenge. The system will return your bet.
-82025=Betting awards
 82026=The rewards have been sent to your inbox. Don't forget to check it.
 82027=You cannot enter the arena without Arena Match Certification.
 82028=You are out of bounds. You must return in {@1:int} or you will be disqualified.
@@ -2937,7 +2906,6 @@
 82032=Try challenging me once you are no longer a novice!
 82033=This is a single player challenge. Quit your team before signing up.
 82034=Challenge is not open. Try again later.
-82035=Arena Bet
 82036=Bet
 82037=You lost {@0:积分} Challenge Points.
 82038=[{@0:name}] You are enaged in the Arena. Unable to send message.
@@ -2969,7 +2937,6 @@
 82077=You do not have enough money.
 82078=Your bet has exceeded the limit.
 82079={@0:玩家}, get ready.
-82080=Arena contestants cannot gamble.
 82081=Cannot find {@0:name}. Unable to send request.
 82082=Your opponent is offline. Unable to send request.
 82085=The invited player must register his or her name.
@@ -2989,7 +2956,6 @@
 82100=Arena creation failed
 82101=Because your backpack is full, your Arena reward will be sent to your mailbox instead.
 82104=Congratuations for winning the Arena prize!
-82105=Gambling functions are not available for this Arena.
 82106=You are not allowed to set up an Arena Challenge here.
 82107=Arena Challenge starts in {@0:秒} seconds. Please be ready!
 82108=You are not qualified to join the World Arena.
@@ -3038,7 +3004,6 @@
 82199=Your have declined the maximum number of Challenges for today.
 82201=The champion cancelled the Challenge Arena.
 82203=Your invitation is accepted and the competition will start in {@0:秒}seconds, please get ready!
-82205=You have lost your bet. The money goes to the winner!
 82207=The opponent cannot join the Challenge Arena right now. Please reset the Arena.
 82208=You are badly injured and unable to join the Challenge Arena.
 8300={@0:name}'s Acupoint hasn't been opened, please open {@0:name}'s Acupoint then promote the Acupoint Level.
@@ -4140,7 +4105,6 @@ lost_neigpk=Unfortunately, you were defeated by [{@0:name}] in this internal ski
 mp_less=You don’t have enough internal skills, failed to direct Chi
 neig_point_less=The corresponding meridian point for the internal skill does not match. Failed to direct chi
 neigpk_is_doing=[{@0:name}] is now racing Internal Skills.
-no_abduct_item=You do not have any item for kidnapping. Please purchase the items from General Store.
 normal_neigpk=Both sides are evenly strong in this internal skills race. It was a draw game.
 not_same_weaponcard_itemt=The type of the equipped weapon does not match the type of the card weapon. It cannot be used.
 not_static_self_to_neigpk=You can not race internal skills when traveling!
@@ -4253,9 +4217,7 @@ zhinengduiwanjiashiyong=It can only be applied on players.
 zijin=You have reached the maximum money limit.
 cantuseweaponcard=You do not have a weapon useable by this Lore equipped.
 not_same_weaponcard_itemtype=The type of the equipped weapon does not match the specified type of Lore.
-81042=Unable to kidnap this person.
 845178=Unable to use this skill right now.
-13505=The buyer is very satisfied with the kidnapped people this time. Here is the extra money he gives to you <img src="gui\common\money\liang.png" valign="center" />{@0:$}
 101_1=Black Dragon Hill is in decline. Please improve the development of this area.
 101_2=Black Dragon Hill is developing well. Keep up the good work!
 103_1=Shijian Cliff is in decline. Please improve the development of this area.
@@ -4368,10 +4330,7 @@ item_random_school=Unable to identify this Schools secret. There is no way to kn
 3801=Tag successfully added.
 40078=Unable to receive in your curent state.
 40079=Just finished setting a stall. Please try again.
-40081=Based on this person's appearance and ability, we can get {@0:$锭两文} Tael if we sell them.
-40082=This person's appearance and ability do not meet the buyer's requirements.
 40083=Item is in protected mode. Cannot use this item.
-40084=Based on this person's appearance and ability, we can get {@0:$锭两文} Tael. If we sell them to <font color="#FF0000">{@1:npc}</font>, we might get more.
 60315=Purchase successful. You spent <img src="gui\common\money\jyb.png" valign="center" />{@0:num} gold. Your Jianghu VIP time has been increased {@1:num} day(s)
 60316=You don't have enough gold or there is an error in pricing(Make sure the secondary passward has already been input)
 7227=You are in an untradable state.
@@ -4815,7 +4774,6 @@ normal_attack=Normal Attack
 30218=The Imperial Court has dispatched many martial artists to apprehend you. If you are caught you will be sent to death row.
 30301=You can only challenge {@0:馆名} {@1:num} times each day. You have reached the daily limit.
 30320=You have passed the challenge boundary. Turn back of you will fail the challenge.
-40032=Your opponent has noticed your evil intentions and disabled you with one movement. Unable to move for 60 seconds.
 5012=In proteced mode. Cannot enter.
 60101=You have learned "Mining Manual". You receive the Double Harvest Reward.
 60102=You have learned "Lumbering Classic". You receive the Double Harvest Reward.
@@ -4947,7 +4905,6 @@ task_tiaozhan_tm=<font color="#c1190c">Countdown for accepting challenge:</font>
 2513=Unable to create items while on board.
 2514=Unable to use a Saddle when not on horseback.
 2518=You are riding double. Operation failed.
-2519=Make sure both of you are not being kidnapped while riding double.
 2520=Invite failed. Make sure you are not in a duel.
 2523=Invitation failed. Make sure you are not playing the Gem Game.
 2525=Invite failed. Make sure you are not playing the Gem Game.
@@ -8102,28 +8059,10 @@ yyzc_xiuzheng_yuanjun_2=The Mongolian Army has an abundance rations and their re
 37330=The data is abnormal. Battlefield creation has failed.
 37331=Cannot join list for Battle scene management.
 37332=Cannot create a new Battlefield.
-40095=Rescue was successful. The other party gave {@0:$锭两文} coins as a reward.
 40096=Rescue was successful, but you didn't receive any reward.
-40097=Rescue was successful. The other party gave extra {@0:$锭两文} taels as a reward.
 555505=Activity has not been enabled.
 555506=Only Jianghu VIPs can take part in the Egg Breaking Activity.
 80022=Hostage cannot be released in Battle.
-80023=The greedy Human Trafficker carries a huge amount of <font color="#ffd700">taels </font>and is now selling his captive near <font color="#ff0000">Yanjing</font>.
-80024=The greedy Human Trafficker carries a huge amount of <font color="#ffd700">taels </font>and is now selling his captive near <font color="#ff0000">Suzhou</font>.
-80025=The greedy Human Trafficker carries a huge amount of <font color="#ffd700">taels </font>and is now selling his captive near <font color="#ff0000">Jinling</font>.
-80026=The greedy Human Trafficker carries a huge amount of <font color="#ffd700">taels </font>and is now selling his captive near <font color="#ff0000">Luoyang</font>.
-80027=The greedy Human Trafficker carries a huge amount of <font color="#ffd700">taels </font>and is now selling his captive near <font color="#ff0000">Chengdu</font>.
-80028=A hostage cannot be released while gravely injured.
-80029=Uphold justice and rescue this person.
-80036=A sedative cannot be used while rescuing other people.
-80037=You cannot kidnap someone while rescuing other people.
-80038=You cannot rescue someone while kidnapping someone else.
-80052=You cannot give up a rescue while in battle.
-80053=You cannot give up a rescue while gravely wounded.
-80054=While rescuing someone, you cannot save additional people.
-80055=Having just completed a rescue, you don’t have enough Vigor to continue rescuing people.
-80056=You cannot rescue the people you have kidnapped.
-80057=You are in a competition, and cannot perform a rescue.
 80127=I'm sorry, but someone has gone to arrest the spy.
 80170=Abnormal state; cannot transfer item. Please try again later.
 8092=Item used. Your cumulative Chi has now been increased by {@0:num}.
@@ -8271,7 +8210,6 @@ yyzc_xiuzheng_yuanjun_2=The Mongolian Army has an abundance rations and their re
 9017=You cannot attack in this area.
 9743=[{@0:name}] is participating at School Tournament and cannot go immediately.
 9750=[{@0:name}] is at another scene and cannot go immediately.
-9751=The other person is kidnapping someone. You cannot go there!
 9752=The other person is doing an Offline Job. You cannot go there!
 9753=The other person is in a dry well during a random encounter. You cannot go there!
 9754=[{@0:name}] is currently in the Arena. You can't go there.
@@ -10244,7 +10182,6 @@ ShiTu_Point=Apprenticeship Value
 9788=You cannot approach someone when you are riding a horse, on a stagecoach, or on a boat.
 9789=You cannot approach someone when attending to a stall or when engaging in a transaction. Please end your stall-attending state or transaction.
 9790=Partnering successful. You have successfully partnered with {@0:player}! You can now engage in relative operations through the partner interface!
-9791=You cannot approach someone when in the abduction, Guild Battle or battlefield activities.
 9792=You cannot approach someone when in the Severely Injured or Dead states.
 9793=You do not have enough Louyun Orders to make the exchange. Please verify the number of Louyun Orders in your backpack.
 9794=You have partnered with too many people today. Please get some rest and come back tomorrow.
@@ -19771,9 +19708,6 @@ sys_vegetable_003=Your vegetable garden hasn't been activated.
 sys_vegetable_004=You're not the Home Owner.
 sys_vegetable_005=Planting limit reached.
 sys_vegetable_006=The nearby have been already planted.
-sys_vegetable_007=The plant is not ripe yet.
-sys_vegetable_008=This crop is mature now. Go collect it.
-sys_vegetable_009=This crop will become mature in: {@0:time}
 sys_vegetable_010=Not in the planting area.
 sys_vegetable_011=Only can be planted in Home Courtyard.
 sys_jy_fswf1=What a rich house, I'm going to rob the items.
@@ -19871,7 +19805,6 @@ thd_qunzhan_not=<font color="#ff0000" >You are not a Peach Blossom Island discip
 rank_1_taohua_1_title=Peach Blossom Island Internal Skill Ranking Reward
 rank_1_taohua_1_01=Congratulations, you are on Peach Blossom Island's internal Skill ranking list. To reward you, the ranking list will be announced.
 clonewarning_26651=Age of Wushu Lore event <font color="#ff0000">Before the final battle</font> completed, player reaches <font color="#ff0000">Peerless</font> and owns Silver Hook Written Token.
-sys_forcequit=Failed to leave the faction. Please remove all the treasures on you and take the quest again. Palace of Shifting Flowers, Xu Family Manor or Peach Blossom Island only allows 5 attempts to leave faction every one hour. Beast Villa, Rootless Clan or the Golden Needle Sect only allows 1 attempt to leave faction every ten minutes.
 home_create_failed_05=You have not met the requirements for building a home. You must be a Jianghu VIP and your power level must be at Power Flows With Chi or above.
 home_create_failed_06=The number of homes in your possession has reached its limit. Currently you may own {@0:数值} homes.
 shitu_98=The apprenticeship system will be upgraded and is not available this month. Players who have already accepted an apprentice or mentor have to complete Apprenticeship this month and use the current Mentor and Apprentice points. After the system upgrade, the current apprentice and mentor will be dismissed and Mentor and Apprentice points will be cleared. Please stay tuned.
@@ -20953,15 +20886,12 @@ ui_gujqiandao_003=Times
 ui_gujqiandao_004=Loot
 sys_activity_sign_n_draw_01=Sign-in complete. The prize has been sent out via mail.
 sys_activity_sign_n_draw_02=Your strength level must be at First Understanding or above or need to be Jianghu VIP
-sys_activity_sign_n_draw_03={@0:次数}
+sys_activity_sign_n_draw_03={@0:times}
 sys_activity_sign_n_draw_04=--: --
-sys_activity_sign_n_draw_05=Sign-in rewards have been claimed. The prize has been sent out via mail.
 sys_activity_sign_n_draw_06=You have received today's Sign-in reward, unable to receive it again.
 sys_activity_sign_n_draw_07=Insufficient times of Sign-in. Cannot Sign-in.
 sys_activity_sign_n_draw_08=Currently in a Nine Yang event. Unable to Sign-in.
-sys_activity_sign_n_draw_10=You have received Sign-in reward already, unable to receive it again.
 sys_activity_sign_n_draw_11=You cannot Sign-in in your current state. Please try again later!
-sys_activity_sign_n_draw_12=You need to spend at least 1 hour online to be able to collect Sign-in reward (the reward can be claimed once per day)
 desc_switch_901=Marriage Remarriage Function Switch
 sys_remarry_005=The couple still loves each other and they reconcile. From now on only respect and deep bond. Don't betray a pledge between lovers.
 sys_luandou_shp_bal_014=Cannot match while being on a team. Please exit the team first.
@@ -21100,11 +21030,6 @@ sys_inter_building_003=Only the owner can activate Interact.
 3677304=The player has not joined any school, faction, or subsect.
 esg_24=Lu Shaojun, Shenji Camp Leader, received an invitation from the Justices of Fate. It asks for a martial art contest on the Penglai Island in the faraway Eastern Seas!
 sys_eastsea_newschool_shenji=Lu Shaojun, Shenji Camp Leader, sent out a notice to all disciples. Those who received a secret letter from the alliance leader should quickly use the letter! (If you haven't received a letter, you can get one from the alliance leader's disciple at the second floor of the tavern in Suzhou (611,435).)
-desc_worldboss_hql_new_001=Attention, everyone! <font color="#f9fc00">Fire Kirin</font> has appeared in <font color="#f9fc00">Luoyang</font>!
-desc_worldboss_szxy_new_002=Attention, everyone! <font color="#f9fc00">Snow Ape with Three Claws</font> has appeared in <font color="#f9fc00">Evil Men's Valley</font>!
-desc_worldboss_szxy_new_003=Attention, everyone! <font color="#f9fc00">Snow Ape with Three Claws</font> has appeared in <font color="#f9fc00">Jiming Posthouse</font>!
-desc_worldboss_szxy_new_004=Attention, everyone! <font color="#f9fc00">Ten-thousand-year Old Fire Turtle</font> has appeared in <font color="#f9fc00">Northern Desert</font>!
-desc_worldboss_szxy_new_005=Attention, everyone! <font color="#f9fc00">Ten-thousand-year Old Fire Turtle</font> has appeared in <font color="#f9fc00">Jinling</font>!
 desc_worldboss_notice_new_003=The Peerless Expert <font color="#f9fc00">Fire Kirin</font> will appear in <font color="#f9fc00">{@0:分钟}</font> minutes. Please be prepared!
 desc_worldboss_notice_new_004=The Peerless Expert <font color="#f9fc00">Snow Ape with Three Claws</font> will appear in <font color="#f9fc00">{@0:分钟}</font> minutes. Please be prepared!
 desc_worldboss_notice_new_005=The Peerless Expert <font color="#f9fc00">Ten-thousand-year Old Fire Turtle</font> will appear in <font color="#f9fc00">{@0:分钟}</font> minutes. Please be prepared!
@@ -21593,7 +21518,6 @@ sys_ggw_19=Guild War is over.
 sys_ggw_20=The guild {@0:guild} successfully captured the territory {@1:domain}.
 sys_ggw_21=Claimed the Guild Base Reward
 sys_ggw_22=Switch not opened.
-sys_ggw_23=You are not a Jianghu VIP. You can not participate in the guild war.
 sys_ggw_24=Only formal guilds can join the Guild War.
 sys_gsp_001=You can't build the flag. Some conditions were not met.
 sys_gsp_002=Someone else has built the flag. Please try again later.
@@ -21991,7 +21915,6 @@ sys_yearboss_join_failed=Don’t currently meet the requirements.
 event_end_ts01=<font color="#bc1717" >Tianshan Sect has recovered the silk painting. No matter what the secret cult tries, they will not be able to retrieve the complete Landscape Silk Painting.</font>
 event_end_ts02=<font color="#bc1717" >Tianshan Sect experts have destroyed the secret cult's stronghold and have killed off many elite cultists, providing a morale boost.</font>
 event_end_ts03=<font color="#bc1717" >Tianshan Sect disciples have eliminated the secret cult spies infiltrating the school, providing a morale boost.</font>
-event_end_ts04=<font color="#bc1717" >Tianshan Sect disciples led the way in eliminating the threat of the secret cult. With the recent happenings in the martial art world, the ten major schools have decided to start passing on a second set of Internal Skills. </font>
 jyz_count_ts_1_1=Hand over the silk painting.
 jyz_count_ts_1_2=Destroy the Strongpoint.
 jyz_count_ts_1_3=Crack the secrets.
@@ -22005,8 +21928,6 @@ jyz_count_ts_1_3=Crack the secrets.
 100020jyz_ts=Submission is successful. Deduct 15 School Honor Certificates (Tianshan).
 esg_25=Bai Tianjing, Tianshan Sect Leader, received an invitation from the Justices of Fate. It asks for a martial art contest on the Penglai Island in the faraway Eastern Seas!
 sys_eastsea_school_tianshan=Bai Tianjing, Tianshan Sect Leader, sent out a notice to all disciples. Those who received a secret letter from the alliance leader should quickly use the letter! (If you haven't received a letter, you can get one from the alliance leader's disciple at the second floor of the tavern in Suzhou (611,435).)
-sys_rose_to_love_03=<font color="#ff0000">{@0:}</font> Light the Valentines' fireworks with your lover. You will be together until the end of the world.
-sys_rose_to_love_04=<font color="#ff0000">{@0:}</font> Light the Valentines' fireworks with your lover. You will be together until the end of the world.
 83800999=<font color="#ff0000">Tianshan Sect's Headmaster Bai Tianjing</font> of the defending side has been defeated!
 83801999=<font color="#ff0000">Tianshan Sect's Southern Summit Elder Gu Baiyun</font> of the defending side has been defeated!
 83802999=<font color="#ff0000">Tianshan Sect's Elder Wang Xichao</font> of the defending side has been defeated!
@@ -22310,18 +22231,7 @@ fis_16=Forgetting the skill is successful.
 8401=You need to raise [{@0:zhaoshi}] to level {@1:level}.
 8402=You haven't met the  requirements, and can't upgrade [{@0:zhaoshi}] to level {@1:level}.
 8405=Your Martial Skill {@0:name} can be practiced up to level {@1:num}.
-9711=Speak to the Carter about the Major Schools.
-event_end_em04=<font color="#bc1717" >Emei disciples led the way in eliminating the threat of the Secret Cult. With the recent happenings in the martial art world, the ten major schools have decided to start passing on Tier 2 Internal Mental Skills. </font>
-event_end_gb04=<font color="#bc1717" >Beggar's Sect disciples led the way in eliminating the threat of the Secret Cult. With the recent happenings in the martial art world, the ten major schools have decided to start passing on Tier 2 Internal Mental Skills. </font>
-event_end_jl04=<font color="#bc1717" >Wanderer's Valley disciples led the way in eliminating the threat of the Secret Cult. With the recent happenings in the martial art world, the ten major schools have decided to start passing on Tier 2 Internal Mental Skills. </font>
 event_end_jy01=<font color="#bc1717" >Some schools have recovered the silk painting. No matter what the Secret Cult tries, they will not be able to retrieve the complete Silk Landscape Painting. </font>
-event_end_jy04=<font color="#bc1717" >The Royal Guards' disciples led the way in eliminating the threat of the Secret Cult. With the recent happenings in the martial art world, the ten major schools have decided to start passing on Tier 2 Internal Mental Skills. </font>
-event_end_jz04=<font color="#bc1717" >The Scholar's Academy disciples led the way in eliminating the threat of the Secret Cult. With the recent happenings in the martial art world, the ten major schools have decided to start passing on Tier 2 Internal Mental Skills. </font>
-event_end_sl04=<font color="#bc1717" >Shaolin disciples led the way in eliminating the threat of the Secret Cult. With the recent happenings in the martial art world, the ten major schools have decided to start passing on Tier 2 Internal Mental Skills. </font>
-event_end_tm04=<font color="#bc1717" >Tangmen disciples led the way in eliminating the threat of the Secret Cult. With the recent happenings in the martial art world, the ten major schools have decided to start passing on Tier 2 Internal Mental Skills. </font>
-event_end_wd04=<font color="#bc1717" >Wudang disciples led the way in eliminating the threat of the Secret Cult. With the recent happenings in the martial art world, the ten major schools have decided to start passing on Tier 2 Internal Mental Skills. </font>
-event_end_mj04=<font color="#bc1717" >Ming Cult disciples led the way in eliminating the threat of the Secret Cult. With the recent happenings in the martial art world, the ten major schools have decided to start passing on Tier 2 Internal Mental Skills. </font>
-500001=<font color="#bc1717" >People calling themselves messengers of the foreign prince have appeared at the main gates of all ten schools. The school disciples have gone to find out what they want.</font>
 fsi_2=The number of forgotten skills has reached the limit. You can't forget any more.
 fsi_4=Skill is forgotten.
 fsi_6=An error has occurred. You did not forget the skill.
@@ -22335,7 +22245,6 @@ tar_nothurt=Unable to use this skill when spouse is heavily wounded.
 tar_attack=Your spouse is in a special state.
 tar_friend=Your spouse must be in the same camp as you.
 sys_clone033_427=To gain access, make sure your Age of Wushu Record <font color="#ff0000">Plague of Luoyang</font> has been completed, and your character power reaches <font color="#ff0000">Peerless</font> and is not in a battle.
-83697=You cannot receive an item because you are not from the ten major Schools.
 sys_xdm_sddh01=Martial Arts Tournament (Easy) <br><font color="#008B8B">Requirements: </font>with only one chance per week. <br><font color="#008B8B">Registration Rules: </font>For Blood Blade Clan Disciples only, who never owns the title of Ruthless Swordsman and did not join it this week. Jianghu VIP is required.<br><font color="#008B8B">Event Rules: </font>Defeat the Blood Blade Clan Disciples and the Expert to complete this event.
 sys_xdm_sddh06=Registration failed Failed to sign up. Please check if you are qualified for this. (Requirements: Must not be in a team, must be a Bloody Blade Clan disciple, must be the first time in this week, must meet the title requirement, must not have seriously violated school regulations, must be a Jianghu VIP)
 sys_xdm_sddh07=Martial Arts Tournament (Hard) <br><font color="#008B8B">Requirements: </font>with only one chance per week. <br><font color="#008B8B">Registration Rules: </font>For Blood Blade Clan Disciples only, who owns the title of Ruthless Swordsman and did not join it this week. Jianghu VIP is required.<br><font color="#008B8B">Event Rules: </font>Defeat the Blood Blade Clan Disciples and the Expert to complete this event.
@@ -22346,14 +22255,6 @@ sys_nlb_qsmg03=Registration failed Failed to sign up. Please check if you are qu
 jyz_event_8_4_open=When "One of the Eight Cultists - Huoyun" is unlocked, go to Jinling (1539,2340) to participate.
 jyz_event_8_4_over="One of the Eight Cultists - Huoyun" event is complete. Tier 6 Internal Skill story is now unlocked.
 jyz_count_total_8_4=One of the Eight Cultists - Huoyun
-sys_wywl_88war_guide_act_4=Resist the invasion of the Foreign Wulin successfully. But Zhuo Bei threatened to attack the Ten Schools again. I don't know if this is true or not. We'd better go to Ten Schools to prepare.
-info_mmzw_dyrq_001=The Foreign Wulin will invade Ten Schools in {@0:LeftTime} minutes. Wulin Alliance Leader Lin Tiannan invites Central Plains heroes to Ten Schools and resist the Foreign Wulin. (If any one of the Ten Schools fails to defend during the event, the Central Plains fails! Open Massacre - Faction Catastrophe to be directly teleported to the schools.)
-info_mmzw_dyrq_all_sucess=Defended successfully! The ten schools worked together to repel the Foreign Wulin.
-info_mmzw_dyrq_dhdeny=You are in Eastern Seas and cannot be teleported directly to Ten Schools.
-mmzw_dyrq_prize_fail=Not all ten schools have defended successfully. Cannot claim rewards.
-ys_mm_boss_school_001=The Foreign Wulin behave with unbearable insolence that they send out experts directly to the ten Schools to vandalize. After 15 minutes, The foreign experts will appear in Ten Schools. Please go defeat them. (Four of the Ten Schools will be invaded randomly)
-ys_mm_boss_school_003=The Foreign Wulin sent out their vanguards to Ten schools. Please stop them.
-sys_wywl_mmwy_001=Foreign Wulin is about to invade Ten Schools. Please return to school to defend them.
 sys_smzb_014=The battlefield has ended. All the players will be teleport out of the area in 60 seconds.
 sys_smzb_045=System automatically detection function is turned on. Players don't do anything in <font color="#CC0000">5 minutes</font> will be kicked out.
 trigger_war_smzb_5_2=<font color="#00FF00">The battle has begun. Capturing the trial ground area in Isolated Sky City can continuously earn points for your alliance, but be careful to the siege of the enemy alliances. Keep fighting for your alliance, heroes! </font>
@@ -22552,7 +22453,6 @@ sys_apex_007=The feature is not activated. You can't not sign up.
 sys_apex_008=Registration successful
 sys_apex_009=Currently on the way to Battlefield
 sys_apex_010=Registration failed, {@0:玩家} does not meet the conditions.
-sys_apex_011=Sign-up failed. The number of team members can not exceed {@0:人数}.
 sys_apex_012=Sign-up failed. The number of current battles has reached server maximum. Please try again later.
 sys_apex_013=System Error: Battlefield abnormal data. You cannot register for Battlefield.
 sys_apex_015={@0:玩家} completed {@1:连斩} times of killing in a row.
@@ -22716,8 +22616,6 @@ ui_drop_item_24=<a href="drop_item_tips,{@1:},{@2:},{@3:}"  style="HLChatItem"><
 83013=For your contribution in the School War, you are rewarded with <font color="#46fd15">experience</font>.
 83014=With your contribution in the School War, your <font color="#46fd15"> School Reputation </font> increased by <font color="#46fd15">{@0:数量}</font> points.
 83015=With your contribution in the School War, your <font color="#46fd15"> Jianghu Reputation </font> increased by <font color="#46fd15">{@0:数量}</font> points.
-83039=You are in a kidnapping mission and cannot apply to join School War.
-83040=You are in a kidnapping mission and cannot enter the School War battlefield.
 83063=You cannot participate in the School War because you're in jail.
 83084=You are now in protected status. You cannot participate in School Wars.
 83125=Although you lost the school war, you've still gained <font color="#46fd15">100</font> Level Three experience points<font color="#46fd15"></font>.
@@ -22791,7 +22689,6 @@ sys_guj_choujiang006=This is the item you got in the Quiz Exchange.
 ui_dbomall_0308=Quiz Exchange
 ui_choujiang=Quiz Exchange
 ui_guj_choujiangjs01=<s><s><s><s><s><s><s><s><s><s>Quiz Exchange<br><s><s>To prosper the economy and nourish people's livelihood. The court has ordered that the every heroes in Jianghu can participate in the Quiz Exchange. <br><s><s>Within a specified period of time, you can exchange by consuming Quiz Tokens. <br>How to Get Quiz Tokens: Quiz Contest event.<br><br><font color="#A2FF6C">Event Time: 3/1/2019-3/14/2019</font>
-desc_worldboss_tyw_new_001=Attention please, <font color="#f9fc00">Toxic Eagle King</font> has appeared in <font color="#f9fc00">Luoyang</font> and <font color="#f9fc00">Yanjing</font>!
 desc_worldboss_notice_new_002=World Boss <font color="#f9fc00">Toxic Eagle King</font> will appear in <font color="#f9fc00">{@0:分钟}</font> minutes. Please be prepared!
 sys_sns_news_025=World Boss <font color="#ff0000">Toxic Eagle King</font> will appear in <font color="#ff0000">{@0:分钟}</font> minutes. Please be prepared!
 clonewarning_116282=The Age of Wushu Record Reclusive Factions must have been completed.
@@ -22810,7 +22707,6 @@ hs_temp_fight_delay_title=Wait for the contest to start
 hs_temp_fight_prepare_title=Prepare for Battle.
 hs_temp_fight_fight_title=Battle Ended
 16209=<font color="#ffff00">You have defeated Mu Yi</font>
-desc_worldboss_hql_team_001=Attention, everyone! <font color="#f9fc00">Inferno Kirin</font> has appeared in <font color="#f9fc00">Luoyang</font>!
 desc_worldboss_notice_team_003=The Peerless Expert <font color="#f9fc00">Inferno Kirin</font> will appear in <font color="#f9fc00">{@0:分钟}</font> minutes. Please be prepared!
 sys_hongbao_pindao_failed_zongpai=You have not joined any school. You can't send the red packet.
 sys_hongbao_pindao_failed_lianmeng=You have not joined any Alliance. You can't send the red packet.
@@ -23448,7 +23344,6 @@ npc_homePetPen_008=Courtyard Pet Park
 npc_homeStable_008=Stable
 npc_homeStable_008_1=Courtyard Stable
 my_home_duihuan_01_23=Building Token (Mansion)
-desc_my_home_duihuan_01_23_0=Find the <font color="#00FF00">Ming Building Officer</font>. This is required for building a Home. <br>You can find the Building Officer to build a Home at the following maps: <font color="#FFAE00">Suzhou</font><br><font color="#FFAE00">Remaining quantity of houses are limited.</font><br><font color="#FF0000">Attention: This certificate will expire in 3 days. The count down continues even in mail. Please use it quickly to build the Mansion.</font>
 home_fire_01=Bundle of Wood
 home_fire_02=Large Bundle of Wood
 desc_home_fire_01_0=Bundle of wood. Can be used to keep the fire going.
@@ -23561,14 +23456,6 @@ ui_home_villa_tips_5=The military maintain peace and stability in the country, a
 ui_home_villa_tips_6=The military maintain peace and stability in the country, and culture brings in the tasteful grace. Luxury Mansion auction opens in <font color="#CC0000">10</font> minutes!
 ui_home_villa_tips_7=The military maintain peace and stability in the country, and culture brings in the tasteful grace. Luxury Mansion auction opens in <font color="#CC0000">5</font> minutes!
 ui_home_villa_tips_8=The military maintain peace and stability in the country, and culture brings in the tasteful grace. Luxury Mansion auction has opened.
-sys_villa_compete_1=Let's congratulate {@0:} with a successful bid. The luxurious Mansion is theirs.
-sys_villa_compete_2=Let's congratulate {@0:} and {@1:} with a successful bid. The luxurious Mansion is theirs.
-sys_villa_compete_3=Let's congratulate {@0:}, {@1:} and {@2:} with a successful bid. The luxurious Mansion is theirs.
-sys_villa_compete_4=Let's congratulate {@0:}, {@1:}, {@2:} and {@3:} with a successful bid. The luxurious Mansion is theirs.
-sys_villa_compete_5=Let's congratulate {@0:}, {@1:}, {@2:}, {@3:} and {@4:} with a successful bid. The luxurious Mansion is theirs.
-sys_villa_compete_6=Let's congratulate {@0:}, {@1:}, {@2:}, {@3:}, {@4:} and {@5:} with a successful bid. The luxurious Mansion is theirs.
-sys_villa_compete_7=Let's congratulate {@0:}, {@1:}, {@2:}, {@3:}, {@4:}, {@5:} and {@6:} with a successful bid. The luxurious Mansion is theirs.
-sys_villa_compete_8=Let's congratulate {@0:}, {@1:}, {@2:}, {@3:}, {@4:}, {@5:}, {@6:} and {@67:} with a successful bid. The luxurious Mansion is theirs.
 login_errcode_55011=Your account is a minor account. According to the national regulations, you are now in the anti-addiction time and cannot log into the game. Please have some rest. You can try to log into the game again after 8:00 tomorrow.
 55011=Your account is a minor account. According to the national regulations, you are now in the anti-addiction time. Please have some rest.
 login_errcode_55012=Your account does not have the ID Card information. According to the national regulations, you cannot log into the game. Please go to the official website to fill in the anti-addiction information and try to log into the game again.
@@ -23724,13 +23611,7 @@ desc_switch_2851=Forced Guide Limit Switch
 37103=Kill the Enemies in the Ancient Tomb Sect.
 37203=A Silent Temple Expert has been killed and dropped their martial arts manual. Pick it up and learn the Silent Temple's evil skills.
 4002=<font color="#ff6600">The gate is closed It can only be opened after we rescue villagers and kill Zhou Lifeng</font>.
-40028=Kidnapping <font color="#00ff00">{@0:name}</font> successful. Infamy increased by <font color="#00ff00">{@1:number}</font>
-40037=Kidnapped an unconscious victim. Infamy increased by <font color="#00ff00">{@0:number}</font>
-40038=You rescued the kidnapped victims. Infamy decreased by<font color="#00ff00">{@0:number}</font>
-40039=Only players who killed the kidnapper can take the sack in 30 seconds. In 30-60 seconds, all players can take the sack.
 4004=<font color="#ff6600">Kill Zhou Lifeng to avenge the dead villagers</font>.
-40042=Kill the kidnapper and you can take possession of the sack in 30 seconds. In 30-60 seconds, all players can take the sack.
-40050=[{@0:name}] killed [{@1:name}] the kidnapper.
 40058=Hint: Patrol the school and kill players that are here to steal scripts.
 4009=<font color="#ff6600">The evil Wei Buji is headed this way. Kill him to avenge the villagers.</font>
 7531=You were killed by [{@0:name}]. You've lost some experience.
@@ -23935,7 +23816,6 @@ wgm_xld_entry=Players whose Infamy Value is greater than 2000 who are dead or wa
 97013=Only players who didn't receive the title of Bathed in Blood can join.
 97036=Only players who didn't receive the title of Bathed in Blood can join.
 97042=Only players who don't have Infamy Value can join.
-97054=Players in the trader state can't join.
 97061=Only players whose Infamy Value is zero can join.
 97066=Only players who didn't receive the title of Bathed in Blood can join.
 97069=Players who have killed more than 300 people can't join our School.
@@ -24008,7 +23888,6 @@ newworld_jineng_002=Enemy spotted!
 900004=Your friend is offline. Your friends can't add him/her to their own respective friends list.
 900005=Your friend is offline. Your friends can't add him/her to their own respective friends list.
 sns_new_10=Please enter name of your enemy.
-19847=Can't join event while being a trader.
 text_cb_xss_title_05=Ye'er must have told you everything. Sect Leader's son killed someone by accident. In retribution, our current master used the Blood Worm to turn us into his henchmen. He has once even ordered us to wipe out an entire faction.
 text_cb_xss_title_09=We and the Blackpool Devil have crossed paths before. Since he will not give us the Hundred Beads to cure us of the Blood Worm, he is now our enemy as well.
 text_cb2_jyz_02=I've been investigating a murder at Lord Qin's residence. A clue has led me all the way here in the Northern Plains. I shall require your assistance.
@@ -24156,7 +24035,6 @@ sys_clonetower001_dadishu_lh01=Killing a Wicked Foreign Woman will earn you 1 Fe
 tips_mr_lpf_006=Recently, there are often foreign bandits coming to make troubles during the practice. Each kill of Foreign Bandit will increase skill proficiency by 1 point<br><font color="#ff0000"> (After 20 seconds of meditation, a Foreign Bandit will show up.)</font>
 sys_dfsj_yx_js_03=Kill the Sword Robbers
 tips_dfsj_yx_js_03=When you light all the lampstands, the Sword Robbers will appear at the Collected Swords Platform. Go kill them.
-sys_wywl_88war_guide_act_2=Zhuo Bei pretends to retreat. In fact, his real plan is to attack the Central Plains. He has sent out a lot of experts to Ten Schools. Please come to Ten Schools to help! After 10 minutes, there will be a lot of killers!
 sys_wywl_88war_guide_act_3=Resist Zhuo Bei's killers successfully. Next, he will send out his body guards. Please be careful! (After 10 minutes, foreign experts will appear in Shaolin, Wudang, Wanderer's Valley, and Royal Guards. Please be prepared.)
 sys_wywl_88war_guide_act_5=The foreign wulin killers have arrived at Shaolin, Wudang, Wanderer's Valley, and Royal Guards. Please get ready.
 info_mmzw_dyrq_005=You killed {@0:ConfigID} and earned {@1:积分} points. (You can check the current points at Massacre - Faction Catastrophe interface)
@@ -24213,7 +24091,6 @@ tips_time_sjy_jinlsmdh04=Shenji Camp School Tournament Preliminary Ending Stage 
 tips_time_sjy_jinlsmdh06=Shenji Camp School Tournament Final Competition Stage is on. Defeat the targets around you. Once the final is over, the top 7 of kill ranking will get corresponding school positions, as well as rewards via mail. The 8th will get only the rewards in mail.
 dh_sjy_smdh_002=<font color="#FF3030">At 21:00 on Sunday</font>, Shenji disciples can sign up here to participate in the Shenji Camp School Tournament. Up to 48 players can register. The event is divided into Eliminations and Final Competition stages.<font color="#FF3030">1. Final Competition Stage: </font>Once the event begins, players who successfully registered will be sent to fight each other in 4 areas. They need to get a certain number of kills to get into Finals. Before the Elimination Stage is over, <font color="#FF3030">top 4 players</font> with the most kills from each area will advance to the Finals. <font color="#FF3030">2. Final Competition Stage: </font>After the Eliminations players enter Final Competition Preparation Period. Once the Final Competition begins, everyone who made it in the Eliminations will be sent to fight in the central area. After the Final Competition <font color="#FF3030">the top 7 players</font> of kill ranking will get corresponding School Positions and rewards via mail. The 8th will get only the reward. Try to get the listed number of kills in order to obtain the School Position. Registration Requirements: Join Shenji Camp, have no Punishment Status and do not participate in other activities.
 sys_yyhd_ddjj=Tartar General and Oirat Warriors were chased by Shenji Camp's Lu Shaojun. They fled to Yanjing ({@0:x},{@1:z}). Defeat them to get abundant rewards!
-sys_yyhd_qmlj=You've killed the Tartar General. All the Jianghu VIP players may collect their rewards at Yanjing ({@0:x},{@1:z}) from 22:05 to 23:55 at the Supply Camp Soldier.
 menu_yyhd_qmlj_201712=The Tartar General has been killed.
 desc_switch_959=2017 December Boss Reward for Everyone
 sys_sjy_njxlts_001=The Mysterious Assassin has been killed. Search if they have any tokens on them.
@@ -24232,4 +24109,1098 @@ sys_clone043_022=Kill Null Demon Shadow and get the "Test Medicine" to cure Mu S
 sys_apex_014={@0:玩家} have killed {@1:玩家}
 sys_smzb_001_3=The School War is available now. The battle will begin in 4 minutes. Players can register on the School War page. Players not from the battling schools can enter in 2 minutes.
 sys_smzb_001_4=The Cross-server School War is available now. The battle will begin in 4 minutes. Players can register on the School War page. Players not from the battling schools can enter in 2 minutes.
+event_judian_ts01=<font color="#bc1717" >Our disciples discovered a hidden stronghold of the demonic cult at (787 1661), where there were many powerful experts. Our disciples joined forces to break through it.</font>
+event_judian_kl01=<font color="#bc1717" >Our disciples discovered a hidden stronghold of the demonic cult at (-69,242), where there were many powerful experts. Our disciples joined forces to break through it.</font>
+recast_noexistsr_tip=The inscription value of this {@0:name} is not full, so the inscription service is not available at the moment!
+esg_28=The leader of Tianya Haige, Youyou Jun, received a secret letter from the Eastern Sea faction, inviting him to come to Penglai Island in the Eastern Sea for a martial arts competition!
+sys_eastsea_newschool_tianya=The leader of Tianya Haige, Youyou Jun, issued a call for disciples to gather, and those who received the secret letter from the leader should use it immediately! (If you have not received the secret letter from the leader, you can go to the second floor of the restaurant at (611,435) in Suzhou to ask the leader's disciples for information.)
+sys_world_auction_bossworld_hql_team=The Kirin appears, and the world changes! With the efforts of everyone, the "Fire Kirin" has finally been defeated. A large wave of rare items has been put up for auction in the world. Heroes can seize the opportunity to bid and purchase. Don't miss this opportunity!
+sys_world_auction_bossworld002_big=With the efforts of everyone, the "Ten Thousand Year Fire Turtle (Elite)" has finally been defeated. A large wave of rare items has been put up for auction in the world. Heroes can seize the opportunity to bid and purchase. Don't miss this opportunity!
+sys_world_auction_bossworld002_small=With the efforts of everyone, the "Ten Thousand Year Fire Turtle" has finally been defeated. A large wave of rare items has been put up for auction in the world. Heroes can seize the opportunity to bid and purchase. Don't miss this opportunity!
+sys_world_auction_bossworld001_big=With the efforts of everyone, the "Three-Clawed Snow Ape (Elite)" has finally been defeated. A large wave of rare items has been put up for auction in the world. Heroes can seize the opportunity to bid and purchase. Don't miss this opportunity!
+sys_world_auction_bossworld001_small=With the efforts of everyone, the "Three-Clawed Snow Ape" has finally been defeated. A large wave of rare items has been put up for auction in the world. Heroes can seize the opportunity to bid and purchase. Don't miss this opportunity!
+sys_world_auction_bossworld_hql_hfbig=With everyone's effort, Fire Kirin has finally been defeated. A large amount of rare items have been put for auction. You can purchase them if you hurry. Don't miss this opportunity!
+sys_world_auction_bossworld004_hfbig=With everyone's effort, the Toxic Eagle King (Elite) has finally been defeated. A large amount of rare items have been put for auction. You can purchase them if you hurry. Don't miss this opportunity!
+sys_world_auction_bossworld004_hfsmall=With everyone's effort, the Toxic Eagle King has finally been defeated. A large amount of rare items have been put for auction. You can purchase them if you hurry. Don't miss this opportunity!
+sys_world_auction_bossworld_hql_hfteam=The Kirin appears, and the world changes! With the efforts of everyone, the "Fire Kirin" has finally been defeated. A large wave of rare items has been put up for auction in the world. Heroes can seize the opportunity to bid and purchase. Don't miss this opportunity!
+sys_world_auction_bossworld002_hfbig=With the efforts of everyone, the "Ten Thousand Year Fire Turtle (Elite)" has finally been defeated. A large wave of rare items has been put up for auction in the world. Heroes can seize the opportunity to bid and purchase. Don't miss this opportunity!
+sys_world_auction_bossworld002_hfsmall=With the efforts of everyone, the "Ten Thousand Year Fire Turtle" has finally been defeated. A large wave of rare items has been put up for auction in the world. Heroes can seize the opportunity to bid and purchase. Don't miss this opportunity!
+sys_world_auction_bossworld001_hfbig=With the efforts of everyone, the "Three-Clawed Snow Ape (Elite)" has finally been defeated. A large wave of rare items has been put up for auction in the world. Heroes can seize the opportunity to bid and purchase. Don't miss this opportunity!
+sys_world_auction_bossworld001_hfsmall=With the efforts of everyone, the "Three-Clawed Snow Ape" has finally been defeated. A large wave of rare items has been put up for auction in the world. Heroes can seize the opportunity to bid and purchase. Don't miss this opportunity!
+sys_world_auction_bosskhdnv_001=With the efforts of everyone, "Su Fei" has finally been defeated. A large wave of rare items has been put up for auction in the world. Heroes can seize the opportunity to bid and purchase. Don't miss this opportunity!
+sys_world_auction_bossworld006=With the efforts of everyone, "Cao Jiuyang" has finally been defeated. A large wave of rare items has been put up for auction in the world. Heroes can seize the opportunity to bid and purchase. Don't miss this opportunity!
+sys_world_auction_boss_yyzl_001=With the efforts of everyone, "Liu Sheng Yidao" has finally been defeated. A large wave of rare items has been put up for auction in the world. Heroes can seize the opportunity to bid and purchase. Don't miss this opportunity!
+sys_world_auction_boss_dhpvp_001=With the efforts of everyone, "Zaochuan Xiong" has finally been defeated. A large wave of rare items has been put up for auction in the world. Heroes can seize the opportunity to bid and purchase. Don't miss this opportunity!
+DoorNpcadv152009=
+CloneDoorNpc00954=Clan Trial
+clonewarning_118568=This instance is not available at this time. Please wait!
+ui_pos_ReliveCJclone047=Clan Trial
+funnpcclone047001=Zhang Danxu
+EventNpcClone047=Transport Door
+scene_clone047_1=The sect trial [Normal]
+scene_clone047_2=The sect trial [Difficult]
+ini\scene\clone047_1=Common
+ini\scene\clone047_2=Hard
+ui_CloneStory956=Youthful spirit, daring to take on the sect's challenge <br> Carrying a heavy burden, searching for the veins of Kunlun <br> The martial world is once again in turmoil. Lin Tiannan, the leader of the martial world, received news that there is an unprecedented powerful force intending to seize the dragon veins of the Ming Dynasty. As the enemy's identity is unknown and their strength is unpredictable, the major sects have called for a hero's conference to temporarily put aside their differences and unite against the external enemy. The sect trial is set up by the major sects, and the guardians are all top experts of the sects. The content of the trial is also ever-changing. Its purpose is to select young heroes who are both literary and martial, who are loyal to the world and the country, and who will risk their lives to protect the dragon veins in Kunlun.
+ui_Desc_Boss_clone047_01=<s>A Shaolin monk of the Zu generation, born in Arhat Hall, he has incredible strength and brawn. His skills are usually based in strength. Often, a punch from his fist is enough to convince his opponent to retreat. If one tries to take his blows, it is almost impossible to block him. Instead of facing him head on, avoid his blows and try to use skills and agility to break past his defenses. <br><s>He was an orphan raised by beggars. He has learned no skills and has always mingled with people of the lower social class. He was born with brute strength, a strong body and is quite brutal when in fights. He has earned quite a reputation among the merchants. People usually hesitate to offend him, and he often fights for people to earn money. One day, he was paid to collect money from a villager and started fighting on a farm. A Shaolin Monk was by chance passing by and rescued the villagers. The monk defeated him with one move. He was shocked to his core as he had never been defeated before. He realized that he was nothing when compared to true experts. He wanted the monk to take him on as an apprentice, but the monk believed that his desire stemmed from selfishness and did not want to take him. But he was determined and would not give up so easily. He followed the monk everywhere he went and would not leave him. The monk later was called back to Shaolin. He saw that his follower had been with him for several years. He remained determined while also feeling remorse for his past. Finally, the monk decided to take him as an apprentice, and the man was named Zu Zheng, meaning one who follows the righteous path.
+ui_Desc_Boss_clone047_02=<s>Cunning and skilled in lightness, likes to challenge others, and enjoys guiding younger disciples. <br><s>Exceptionally skilled in lightness, often silently moves behind enemies to launch surprise attacks.
+ui_Desc_Boss_clone047_03=<s>Mistress Jueming, known for her merciful nature, is Sifei's master. She had always looked after Sifei and is one of the closest people to Sifei in Emei.
+ui_Desc_Boss_clone047_04a=<s>Beggar's Sect Daren Helm Master, as one of the most favored Helm Masters of the Leader Xiao Tianfang, he commands the central plains helm. He is generous and kind. His goal is lofty. Everything he does is for the development of Beggar's Sect.
+ui_Desc_Boss_clone047_04b=<s>Beggar's Sect Dazhi Helm Master, as one of the most favored Helm Masters of the Leader Xiao Tianfang, he commands the north-east helm. He is known throughout the Beggar's Sect as Wise Star, he is careful and thoughtful. Often, he shows great insight. Many of his strategies saved Beggar's Sect from trouble.
+ui_Desc_Boss_clone047_04c=<s>Beggar's Sect Dayong Helm Master, as one of the most favored Helm Masters of the Leader Xiao Tianfang, he commands the north-west helm. He was rescued during war times by the previous Grandmaster. Extremely courageous but lacks thought, he does things without thinking about the consequences. Since he is very loyal, many disciples have a great deal of respect for him.
+ui_Desc_Boss_clone047_04d=<s>Beggar's Sect Daxing Helm Master, as one of the most favored Helm Masters of the Leader Xiao Tianfang, he commands the south-east helm. He likes to gamble but does not have the quickest mind. He is often tricked while gambling, but he keeps to his words and does not mind losing.
+ui_Desc_Boss_clone047_05=<s>Known as "Awesome Dragon", he's an expert at hidden weapons and skills. He spent most of his time guarding Ten Thousand Poison Palace to study hidden weapon and skills. He is loyal yet stubborn and prideful.<br><s>Because he spent most of his time next to the furnance, he has powerful internal force with palms life blazes and dominating fists!
+ui_Desc_Boss_clone047_06=<s>The younger brother of Zhuge Qingtian, born to a concubine who was a wandering woman outside the Zhuge family. Due to his lowly birth and illegitimate status, he has always been living outside the family. However, because the eldest son of the family had a special fondness for this concubine, he also received the true teachings of the Zhuge family's martial arts. After the death of the eldest son, he was left with no support and was not accepted by the Zhuge family, so he roamed the martial world. Later, he became a disciple of the old man Qiqin and was accepted as an inner disciple. 30 years ago, he was known as the Qiqin Young Master in the martial world, but due to grudges in the martial world, he lost his beloved wife and retired to seclusion here.
+ui_Desc_Boss_clone047_07=<s>Buddha's Messenger, the favorite disciple of Shan Tianming of Wanderer's Valley. He has been instructed in his youth in the martial arts by Shan Tianming. He has defeated numerous experts and is renowned at the Cavern of Lost Souls . But he is a loner by nature, proud and not easily approachable. In the recent years, he has been hiding in the Cavern of Lost Souls . Not even Shan Tianming gets to see more than a glimpse of him. Only the legends from the battles in his youth are left behind.
+ui_Desc_Boss_clone047_08=<s>Her real name was Li Xiuzhang, and she was cult leader Ming Shiyue's favorite concubine. Currying the emperor's favor, the cult leader presented her as a gift. Indignant of being treated as a sex slave, she set fire to the imperial palace. She was imprisoned for the crime, but escaped and adopted Lady Moon as her nom de guerre.
+ui_Desc_Boss_clone047_09=<s>This is the elder of Tenryu Secret Style from Japan. He is exceptional in sword martial arts. He is loyal to the master Kiyokawa Masazo and the young master Kiyokawa Yoshiteru. Because the young master went missing in Tianshan Sect, he strived to revenge on Tianshan Sect. Working together with Niwa Heisuke, he kidnaped Tianshan Sect's elder and imprisoned him on the Oki Islands.
+ui_Desc_Boss_clone047_10=<s>Royal Guards Green Dragon Flag Master: under his father Shen Honglie's influence, he has always wanted to join the Royal Guards. He earned his place in the Royal Guards by being the year's highest achiever and was promoted to the Green Dragon Flag Master. Ever since joining the Royal Guards, all his orders are treated as unbendable law. He is good friends with Commander Yue Zhipeng of the Ministry of War. Ever since Yue became a wanted man, the Green Dragon Flag Master has been personally investigating the case.
+ui_Desc_Boss_clone047_11=<s>Lin Tian Nan is the youngest among the six saints in the world, and his martial arts skills are only ranked fourth. However, he has a commanding power that the other five saints cannot match. After the battle between the masters of the Central Plains and the foreign martial arts, he was elected as the leader of the martial arts world, and he has held this position for seventeen years. In those seventeen years, he used his time to revive the glory of the Central Plains martial arts, which had been greatly damaged by the foreign masters. Lin Tian Nan's life was not particularly extraordinary. He was born into a traditional martial arts family and spent his childhood diligently practicing the family's swordsmanship every day. In order to establish a solid foundation, he also cultivated an entry-level internal skill called "Zuowang Gong". Unexpectedly, this seemingly simple and unremarkable internal skill, after decades of research, was able to achieve incredible results. Especially when combined with the Lin family's swordsmanship, it was as smooth as flowing clouds and impenetrable. Lin Tian Nan thus became a legend in the martial arts world.
+ui_doorin_clone047=<a href="findnpc,groupscene045,-300,117,23" style="HLStype1">Tian Yi Valley</a>
+sys_clone047_001=Dialogue Guide
+sys_clone047_002=
+sys_clone047_003=Return to the hall to continue speaking with the guide
+sys_clone047_004=
+sys_clone047_005=Zu Zheng
+sys_clone047_006=Complete the trial of the sect's elders
+sys_clone047_007=Taoist Yuantong
+sys_clone047_008=Abbess Jueming
+sys_clone047_009=Beggar's Sect Elder
+sys_clone047_010=Da Zhi
+sys_clone047_011=Da Yong
+sys_clone047_012=Da Xin
+sys_clone047_013=Tang Ao
+sys_clone047_014=Zhuge Yao
+sys_clone047_015=Mist Fox
+sys_clone047_016=Lady Moon
+sys_clone047_017=Shoji Hisahide
+sys_clone047_018=Shen Hao
+sys_clone047_019=Lin Tiannan
+sys_clone047_020=Return to the hall to meet with Lin Tianan
+sys_clone047_021=
+sys_clone047_022=The sect's trial has begun, please go to Zhang Danxu to start the trial!
+sys_clone047_023=Use the teleporter to return to the hall and go to Zhang Danxu to start the next trial!
+sys_clone047_024=Wulin Alliance leader Lin Tianan is waiting in the hall for the challenge of young heroes!
+sys_clone047_025=Remaining Time
+sys_clone047_026=The sect's trial is set up for all major sects, and the guardians are all sect masters. Are you ready to face the challenge?
+sys_clone047_027=I'm ready!
+sys_clone047_028=The sect masters have been waiting for a long time, go and challenge them.
+sys_clone047_029=Challenge Zu Zheng
+sys_clone047_030=Challenge Yuan Tongdao Elder
+sys_clone047_031=Challenge Jue Ming Master
+sys_clone047_032=Challenge Elder of the Beggar's Sect
+sys_clone047_033=Challenge Tang Ao
+sys_clone047_034=Challenge Zhuge Yao
+sys_clone047_035=Challenge Mist Fox
+sys_clone047_036=Challenge Lady Mingyue
+sys_clone047_037=Challenge Zhuang Sijiu Xiu
+sys_clone047_038=Challenge Shen Hao
+sys_xiangqi_S001=The switch is not yet open
+sys_xiangqi_S002=Does not meet the gameplay conditions
+sys_xiangqi_S003=NPC operation failed
+sys_xiangqi_S004=The chess game cooldown has not ended, please come back later.
+sys_xiangqi_C001_0=Do you want to set up a chess game?
+sys_xiangqi_C001_1=<font color="#FFB428">[{@0:name}]</font> has set up a chess game, do you want to challenge?
+sys_xiangqi_C001_2=<font color="#FFB428">[{@0:name}]</font> The chess game is in a fierce battle, do you want to watch?
+sys_xiangqi_C004=Are you ready to surrender? Are you sure?
+sys_xiangqi_C005=Are you ready to request a draw from the opponent? Are you sure?
+sys_xiangqi_C006=Do you agree to the opponent's draw request?
+sys_xiangqi_C007=The opponent has rejected your draw request!
+sys_xiangqi_1=<font color="#FFB428">[{@0:name}]</font> wins!
+sys_xiangqi_2=<font color="#FFB428">[{@0:name}]</font> is defeated!
+sys_xiangqi_0=The two sides are tied!
+sys_xiangqi_3=Game failed, this round is invalid!
+sys_xiangqi_movefailed=Move failed
+sys_xiangqi_jiesuo_0=Chessboard appearance <font color="#FFB428">[{@0:name}]</font> unlocked successfully
+sys_xiangqi_jiesuo_1=Chess piece appearance <font color="#FFB428">[{@0:name}]</font> unlocked successfully
+sys_xiangqi_jiesuo_failed_0=Item use failed, this chessboard appearance has already been unlocked
+sys_xiangqi_jiesuo_failed_1=Item use failed, this chess piece appearance has already been unlocked
+sys_wudao_card_001=Insufficient points
+sys_wudao_card_002=Unable to purchase across servers
+sys_wudao_card_003=The switch for the Wudao Dressing Room is not open
+desc_switch_933=Forbidden area sect trial
+sys_info_common_inc_prop_WuDaoCardPoint=LanShang coupons
+sys_hidepuzzles_skill_upgrade_condition_fail=You have already cultivated to the highest level that can be cultivated in the current Age of Wushu Record
+sys_hidepuzzles_skill_upgrade_condition_finished=Cultivation is complete
+sys_hidepuzzles_cost_money_failed=You do not have enough official silver deposit to practice.
+sys_hidepuzzles_no_cost_item=You lack chess pieces and cannot practice.
+sys_hidepuzzles_cost_item_failed=You do not have enough chess pieces to practice.
+sys_hidepuzzles_cost_item_used=Deduct {@0: item} {@1: quantity}.
+sys_hidepuzzles_cost_money=Practice consumes {@0:} ingots {@1:} liang {@2:} wen of official silver deposit.
+sys_hidepuzzles_skill_upgrade_switch_close=Saint Plum Secret (ancient manual) practice is not yet open.
+sys_hidepuzzles_skill_has_been_forgot=Some moves in Saint Plum Secret (ancient manual) have been forgotten and cannot be practiced.
+sys_hidepuzzles_skill_container_full=There is not enough space to learn new moves, so you cannot practice.
+menu_ylqp_xl_001=I want to go and practice Saint Plum Secret (ancient manual).
+title_ylqp_xl_001=Please confirm that you have enough chess pieces and official silver deposit. If there are no problems, I will send you to practice. Each time you practice, it will consume chess pieces and official silver deposit. After lighting up all the chess piece icons, you can practice again to break through all the skills in Saint Plum Secret (ancient manual) or learn the full set of skills.
+menu_ylqp_xl_002=Confirm to go.
+desc_switch_2852=The switch for practicing Saint Plum Secret (ancient manual).
+sys_hpwar_prepare=Preparation time:
+sys_hpwar_fight1=Speed is the essence of war:
+sys_hpwar_fight2=Wheel battle:
+sys_hpwar_fight3=Golden dragon auction:
+sys_hpwar_end=End time:
+tips_hpwar_prepare=Waiting for all heroes to enter.
+tips_hpwar_fight1=Collect the scattered chess pieces in the Scale City and hand them over to the Hidden Scale Envoy (-997,-237).
+tips_hpwar_fight2=Go to the management office of each room to challenge the owner. If successful, you will become the owner. If you fail, you will need to rest for a while before you can challenge again. Each challenge has a time limit of 3 minutes. If there is no winner when the time is up, the one with more health will win. When the event ends, the owner will advance to the next stage.
+tips_hpwar_fight3=Auction for the Golden Dragon Chess Book.<br>Choose a bid increment of at least 1 ingot. A certain percentage of red envelopes will be distributed to the players who participate in the event (limited quantity, first come first served).
+tips_hpwar_end=The event has ended, waiting for the scene to be transmitted.
+tips_hide_puzzles=Hidden Scale Chess Game
+sys_hpwar_018=The Hidden Scale Chess Game function is not yet open.
+sys_hpwar_019=The Hidden Scale Chess Game red envelope function is not yet open.
+sys_hpwar_020=You have successfully advanced and do not need to hand over items again.
+sys_hpwar_021=Sorry, you have not found any chess pieces.
+sys_hpwar_022=The "Speed is the essence of war" phase has begun.
+sys_hpwar_023=The "Wheel battle" phase has begun.
+sys_hpwar_024=The "Golden dragon auction" phase has begun.
+sys_hpwar_025=The Hidden Scale Chess Game has ended.
+sys_hpwar_026=There are not enough participants, the game will be closed soon.
+sys_hpwar_027=You are not a participant and cannot hand over items.
+sys_hpwar_028=Team formation is not allowed in the Hidden Scale Chess Game.
+sys_hpwar_029=Tickets cannot be used during the event
+sys_hpwar_030=Congratulations on successfully obtaining the VIP ticket for "Hidden Scale Chess Game"
+sys_hpwar_031=The challenge is on cooldown and cannot be continued at the moment
+sys_hpwar_032=A new round of bidding has started
+sys_hpwar_033=【{@0:name}】Bid {@1:value} ingots {@2:value} taels
+sys_hpwar_034=Participants cannot watch the game
+sys_hpwar_035=It is currently not possible to watch the game in this stage
+sys_hpwar_036=The "Hidden Scale Chess Game" gameplay stage "Speed is the key" has begun and VIPs are invited to participate.
+sys_gew_001=You do not meet the requirements to participate in the "Border Town Tiger Fight" gameplay and cannot join. (Requirements: Jianghu VIP, not in battle or event status, not wanted, kill value less than 2000, belong to a gang, not in a team, not riding a mount, not the losing side of the week's defending team, etc.)
+sys_gew_002=The "Border Town Tiger Fight" gameplay event is closed and cannot be joined.
+sys_gew_003=The "Border Town Tiger Fight" gameplay event switch is not turned on.
+sys_gew_004=Participating in the "Border Town Tiger Fight" gameplay event requires joining a gang.
+sys_gew_005=If you leave the gang during the "Border Town Tiger Fight" gameplay event, you will be kicked out of the battlefield.
+sys_gew_006=You are currently in another event and cannot participate in the "Border Town Tiger Fight" gameplay.
+sys_gew_007=The resurrection point inside the attacking side's city has been rebuilt, and the attacking side can choose to resurrect at the city's resurrection point.
+sys_gew_008=The city gate in the "Border Town Tiger Fight" gameplay has been breached, and the resurrection point inside the attacking side's city has been activated.
+sys_gew_009=The city gate in the "Border Town Tiger Fight" gameplay has been breached, hurry to the round platform area to occupy the dragon seal.
+sys_gew_010=The "Border Town Tiger Fight" gameplay's "Defender" has been repelled, weakening the dragon seal. Go and destroy or protect the dragon seal.
+sys_gew_011=The resurrection point inside the attacking side's city has been destroyed, and it will be rebuilt in 5 minutes before it can be used again.
+sys_gew_012=The "Border Town Tiger Fight" gameplay's "Defender" has appeared, and the dragon seal has been protected. Hurry and go defeat or protect the defender. (You can check the defender's location on the map)
+sys_gew_013=The defending gang in the "Border Town Tiger Fight" gameplay has reached its maximum number of members, and you will be kicked out.
+sys_gew_014=The number of participants in the "Border Town Tiger Fight" gameplay battlefield has reached its maximum, and you will be kicked out.
+sys_gew_015=During the preparation period of the "Border Town Tiger Fight" gameplay, you cannot leave the city.
+sys_gew_016=During the preparation period of the "Border Town Tiger Fight" gameplay, you cannot leave the Chengtian Gate area.
+sys_gew_017=The city gate in the "Border Town Tiger Fight" gameplay has not been breached, and you have mistakenly entered the enemy's camp and have been injured by a strong aura.
+sys_gew_018=The defending gang in the "Border Town Tiger Fight" gameplay has reached its maximum number of members, and you cannot participate in this gameplay.
+sys_gew_019=The number of participants in the "Border Town Tiger Fight" gameplay battlefield has reached its maximum, and you cannot participate in this gameplay.
+sys_gew_020=The attack and defense battle in the "Border Town Tiger Fight" gameplay has begun, warriors, fight!
+sys_gew_021=Your gang has been defeated in the "Border Town Tiger Fight" gameplay, and you cannot participate in the weekly battle for this gameplay.
+sys_gew_022=The battle for the "Border Town Tiger Fight" gameplay has entered the fighting period, warriors, fight!
+sys_gew_023=The "Border Town Tiger Fight" gameplay is currently in the settlement period, please do not enter. Please try again later!
+sys_gew_024=The battle for the "Border Town Tiger Fight" gameplay has begun, everyone please sign up!
+sys_gew_025=The battle for the "Border Town Tiger Fight" gameplay has begun, everyone please sign up!
+sys_gew_026=You cannot play the instrument in the "Border Town Tiger Fight" gameplay.
+sys_gew_027=You cannot enter the battlefield as a team in the "Border Town Tiger Fight" gameplay. Please leave the team before participating.
+trigger_war_gujbhhd_10_2=<font color="#FF0000">Entering the enemy's restricted area, you have been injured by a strong aura. Remember not to move forward recklessly!!!</font>
+sys_gew_028=Using nearby and scene chat channels is prohibited in Pingcheng.
+clonewarning_118644=The "Race for Treasure" event is not yet open, please stay tuned!
+clonewarning_118645=This instance is not available at this time. Please wait!
+clonewarning_118646=This instance is not available at this time. Please wait!
+clonewarning_118647=This instance is not available at this time. Please wait!
+clonewarning_118648=This instance is not available at this time. Please wait!
+ui_name_clone048=Green Cloud Castle
+ui_condition_clone048_desc=The "Luoyang Gu Disaster" in the "Age of Wushu Record" is complete.
+ui_name_clone051=Desert Ghost Town
+ui_condition_clone051_desc=The "Demon's Trail Appears" in the "Age of Wushu Record" is complete.
+clonewarning_118649=Not within the participation time for the "Race for Treasure"!
+sys_zhdmj_001=Practicing martial arts is like rowing against the current, if you do not advance, you will fall behind. Only through perseverance can one achieve success.
+sys_zhdmj_002=Please give me guidance, senior.
+sys_zhdmj_003=I would like to know more details.
+sys_zhdmj_004=If you have any questions about martial arts, you can come to me between 8am and 11pm every day to ask for advice. After digesting it myself, I will have my disciples spar with you to test your progress.
+sys_zhdmj_005=Return to previous level.
+sys_zhdmj_006=I will only say it once, how much you can comprehend depends on your destiny.
+sys_zhdmj_007=Accept guidance.
+sys_zhdmj_008=Leave the scene
+sys_zhdmj_009=I'm sorry, you do not meet the requirements and cannot participate in the event.
+ui_buyWorldNpc10354=Shop
+shop_zhdmj_001=Shop
+shop_zhdmj_001_page1=Page 1
+title_zhdmj_001=Destiny Point Maze.
+content_zhdmj_001=Congratulations, after being guided by the old man of destiny, you have successfully passed his test. This is your reward, and I hope you will continue to work hard.
+trigger_bhhd_qz_guj_10=The battle flag has appeared in Yingping City, please hurry to compete for it. Competing for the battle flag can earn personal points and guild points. (Note: the battle flag has a limited time)
+sys_gew_032={@0:} The occupied dragon seal has been lost, and the guild can re-compete for it.
+sys_gew_029={@0:} If the number of people in the guild is insufficient in the dragon seal area, the dragon seal will be lost after {@1:} seconds.
+sys_gew_030={@0:} The guild has successfully re-occupied the dragon seal area.
+sys_gew_031={@0:} The guild has successfully occupied the dragon seal area, please maintain the number of people, otherwise the occupation will be lost.
+39178=<font color=""#ff6600"">You are currently in prison and cannot participate in faction activities.</font>
+39179=<font color=""#ff6600"">You are currently engaged in other gameplay and cannot participate in faction activities.</font>
+esg_27=The head of Kunlun Sect, Yunyangzi, received a secret letter from the East Sea forces, inviting him to go to Penglai Island in the East Sea for a martial arts competition!
+sys_eastsea_school_kunlun=The head of Kunlun Sect, Yunyangzi, issued a faction summoning order. Disciples of the sect who received the secret letter from the leader should use it immediately! (If you have not received the secret letter from the leader, you can go to the second floor of the restaurant at (611,435) in Suzhou to ask the leader's disciples.)
+SMSY_School24=Gao You
+SMSY_School24_1=Knowledge Imparting Martial Brother
+tvt_school24=Kunlun Sect
+task_SMSY_School24=<s><s><s>A teacher is one who imparts knowledge and dispels doubts! The martial arts are strong, but our martial arts are vast and profound. It requires diligent practice day after day, rain or shine, to achieve success. In order to revitalize our sect, we hold daily classes at this time and ask everyone to arrive on time without fail! (<font color="#ff0000">Only Kunlun disciples who have left the novice protection state can sign up here. By participating in the classes, you can gain cultivation and study points to exchange for various items. Jianghu VIP's obtaining efficiency is higher, and the study points required for exchanging items are relatively low.</font>)
+ui_buySMSY_School24=Credits Exchange
+Shop_smsy_exchange_school24=Credits Exchange
+Shop_smsy_exchange_school24_page1=Page 1
+Shop_smsy_exchange_school24_page2=Page 2
+interacthypelink_039_a_14=The current class being held is the Kunlun sect class, only open to Kunlun disciples or Tianya Haige disciples. Sign up with Senior Brother <a href="findnpc_new,school24,SMSY_School24" style="HLStype1">Gao You</a> at the class location.
+interacthypelink_039_b_14=Participating in the class can earn experience and study points, which can be used to exchange for rewards such as pills and treasures with Senior Brother <a href="findnpc_new,school24,SMSY_School24" style="HLStype1">Gao You</a>.
+sys_ad_xlsbz_money_failed=Not enough official silver, unable to practice the Dragon Descending Secret Technique.
+sys_ad_xlsbz_money_used=Consuming 60 taels of official silver, successfully practice the Dragon Descending Secret Technique to the 12th level.
+sys_clone047_039=Challenge Da Bie Sanren
+sys_clone047_040=Dabie Idleman
+ui_Desc_Boss_clone047_12=<s>Yunyangzi's friend, a remarkable person with astonishing sword skills. It is said that his "Silkworm Sword Technique" has endless mysteries, flowing endlessly like a spring, and elusive like a gazelle's horns. He once battled with the famous Wuxi Daochang for three days and three nights on the peak of Kunlun, with no clear winner. In the end, the two became friends and retired to Kunlun Mountain, playing chess and discussing martial arts, laughing proudly in the mountains and fields.
+sys_school_convert_06=The Kunlun sect is not yet open, so it cannot be clicked to view.
+sys_zodiac_task_001=The Twelve Zodiac function is not yet open.
+sys_zodiac_task_002=Successfully received the Twelve Zodiac rewards.
+sys_zodiac_task_003=The function to receive rewards for the Twelve Zodiac tasks is not yet open.
+sys_zodiac_task_004=The rewards for the Twelve Zodiac gameplay have already been received.
+sys_zodiac_task_005=Asynchronous status
+sys_afk_break_001=You have been in a hanging state for a long time and will be kicked offline in {@0:} seconds!
+desc_switch_2144=Hanging detection function switch
+ui_afk_break_source=System Mail
+ui_afk_break_title=Offline notification for heroes
+ui_afk_break_content=Respected hero, the system has detected that you have not been active in the martial world for a long time. Please take a break and come back to experience the ups and downs of the martial world.
+sys_growgift_001=Cannot receive rewards without meeting the requirements.
+sys_info_source_cant_split=This equipment cannot be decomposed.
+sys_info_common_inc_prop_ZhiBaoPoints=Treasure Point
+sys_npc_teacher_001=The event is not yet open, unable to take on a master.
+sys_npc_teacher_002=The master-disciple value has reached the weekly limit and cannot be increased further.
+sys_npc_teacher_003=The intimacy value has reached the weekly limit and cannot be increased further.
+sys_npc_teacher_004=You are not Li Changfeng's disciple, unable to leave the sect.
+sys_npc_teacher_005=Not enough intimacy, unable to leave the sect.
+sys_npc_teacher_006=Unable to graduate without reaching the minimum strength in the current Age of Wushu Record
+sys_npc_teacher_007=Current status is abnormal, unable to graduate, please try again later
+sys_npc_teacher_008=You have already received the graduation reward, you will not receive it again this time
+sys_npc_teacher_009=You already have a master, you cannot become a brother with another player
+sys_npc_teacher_010=Unable to register due to insufficient activity last week (less than 1000)
+sys_npc_teacher_011=You already have other brothers, cannot become a brother with Li Changfeng
+sys_npc_teacher_012=Successfully become a disciple
+sys_npc_teacher_013=Successfully graduate
+sys_npc_teacher_014=Successfully break the relationship
+sys_npc_teacher_015=You can now go to the master-disciple interface through the button below, or find a master or disciple through "My Jianghu" - "Master-Disciple".
+sys_npc_teacher_016=Roam the world
+sys_npc_teacher_017=Martial Brothers and Sisters
+sys_npc_teacher_018=You can now go to the "My Jianghu" - "Master-Disciple" interface to find a master or disciple.
+sys_npc_teacher_019=Roam the world
+menu_npcteacher_001=I have something to ask of you.
+menu_npcteacher_002=I want to become a disciple.
+menu_npcteacher_03=I want to graduate.
+title_npcteacher_001=If you don't want to follow your master every day, you can become my named disciple. Although the efficiency of cultivation will decrease, it will be relatively free.
+sys_stall_empty_001=You haven't set items to buy or sell, unable to set stall.
+desc_switch_1132=Night exploration of the imperial city gate
+35227=Quickly capture this person!
+sys_info_common_inc_prop_ContributionScore=Achievement Points
+sys_info_common_inc_prop_SecTalentPoint=Talent Points
+sys_info_common_inc_prop_ContributionScoreSBook=Achievement Points
+sys_sec_001=All your combat talents have been fully upgraded
+sys_sec_002=You do not have enough talent points
+sys_sec_003=All your skill talents have been fully upgraded
+sys_sec_004=You do not have enough talent points
+sys_sec_005=You do not need to reset your talents at the moment
+sys_sec_006=You do not have enough talent points to reset
+sys_sec_007=Your strength is not strong enough, please improve it
+sys_sec_008=The gameplay switch is not turned on, failed to enter
+sys_sec_009=Your strength is not strong enough, please improve it
+sys_sec_010=You are currently in another activity, please exit first and try again
+sys_sec_011=Your performance was too poor, unable to receive rewards
+sys_sec_012=The rewards for this week have been fully claimed, unable to receive rewards this time
+sys_sec_013=You have claimed the {@0:}th reward this week, and can claim a total of {@1:} rewards
+sys_sec_014=You took too long to prepare, please re-enter after leaving
+sys_sec_015=You were unable to complete all the goals in time, the challenge has ended
+sys_sec_016=Cannot start a new challenge without the specified number of parameters, please try again next week
+sys_sec_017=Cannot start a new challenge without the specified number of parameters, please try again next week
+sys_sec_018=You are too far from the target, please get closer
+sys_sec_019=The target is under threat, please defeat the enemy
+sys_sec_020=The defender has appeared, please hurry and defeat them.
+sys_sec_021=You have obtained this illustration and do not need to unlock it again.
+sys_sec_022=Your illustration points are insufficient to activate this illustration.
+sys_sec_023=You have been seriously injured and the challenge is over.
+sys_sec_024=The scroll bar is full, you need to select one of the acquired scrolls to replace.
+sys_sec_025=You cannot activate this talent yet.
+sys_sec_026=The illustration has been collected and automatically decomposed to obtain {@0:} illustration points.
+sys_sec_027=Collection of illustrations successful, can be viewed in the illustration interface.
+menu_dhsd_fh_001=Can you take me to Yan Yu Zhuang?
+menu_dhsd_fh_002=Go To Yanyu Villa
+title_dhsd_fh_001=If you want to leave the East Sea Islands, you still need to find me.
+ui_sec_talent_f_1_0=<font color="#FFA500">Current level:</font>{@0:} level<br><font color="#FFA500">Maximum level:</font>{@1:} level<br><font color="#FFA500">Current effect:</font> None.<br><font color="#FFA500">Next level effect:</font> Increase strength, internal energy, agility, physique, and qi by 10%.<br><font color="#FFA500">Unlock method:</font> None.<br><font color="#FFA500">Upgrade cost:</font>{@2:} points.
+ui_sec_talent_f_1_1=<font color="#FFA500">Current level:</font>{@0:} level<br><font color="#FFA500">Maximum level:</font>{@1:} level<br><font color="#FFA500">Current effect:</font> Increase strength, internal energy, agility, physique, and qi by 10%.<br><font color="#FFA500">Next level effect:</font> Increase strength, internal energy, agility, physique, and qi by 20%.<br><font color="#FFA500">Unlock method:</font> None.<br><font color="#FFA500">Upgrade cost:</font>{@2:} points.
+ui_sec_talent_f_1_2=<font color="#FFA500">Current level:</font>{@0:} level<br><font color="#FFA500">Maximum level:</font>{@1:} level<br><font color="#FFA500">Current effect:</font> Increase strength, internal energy, agility, physique, and qi by 20%.<br><font color="#FFA500">Next level effect:</font> Increase strength, internal energy, agility, physique, and qi by 30%.<br><font color="#FFA500">Unlock method:</font> None.<br><font color="#FFA500">Upgrade cost:</font>{@2:} points.
+ui_sec_talent_f_1_3=<font color="#FFA500">Current level:</font>{@0:} level<br><font color="#FFA500">Maximum level:</font>{@1:} level<br><font color="#FFA500">Current effect:</font> Increase strength, internal energy, agility, physique, and qi by 30%.<br><font color="#FFA500">Next level effect:</font> Increase strength, internal energy, agility, physique, and qi by 40%.<br><font color="#FFA500">Unlock method:</font> None.<br><font color="#FFA500">Upgrade cost:</font>{@2:} points.
+ui_sec_talent_f_1_4=<font color="#FFA500">Current level:</font>{@0:} level<br><font color="#FFA500">Maximum level:</font>{@1:} level<br><font color="#FFA500">Current effect:</font> Increase strength, internal energy, agility, physique, and qi by 40%.<br><font color="#FFA500">Next level effect:</font> Increase strength, internal energy, agility, physique, and qi by 50%.<br><font color="#FFA500">Unlock method:</font> None.<br><font color="#FFA500">Upgrade cost:</font>{@2:} points.
+ui_sec_talent_f2_1_5=<font color="#FFA500">Current level:</font>{@0:} level<br><font color="#FFA500">Maximum level:</font>{@1:} level<br><font color="#FFA500">Current effect:</font> Increase strength, internal energy, agility, physique, and qi by 50%.<br><font color="#FFA500">Next level effect:</font> None.<br><font color="#FFA500">Unlock method:</font> None.<br><font color="#FFA500">Upgrade cost:</font>-- points.
+ui_sec_talent_f_2_0=<font color="#FFA500">Current level:</font>{@0:} level<br><font color="#FFA500">Maximum level:</font>{@1:} level<br><font color="#FFA500">Current effect:</font> None.<br><font color="#FFA500">Next level effect:</font> 10% increase in external and internal defense.<br><font color="#FFA500">Unlock method:</font> Complete "Splendid Mountains and Rivers".<br><font color="#FFA500">Upgrade cost:</font>{@2:} points.
+ui_sec_talent_f_2_1=<font color="#FFA500">Current level:</font>{@0:} level<br><font color="#FFA500">Maximum level:</font>{@1:} level<br><font color="#FFA500">Current effect:</font> 10% increase in external and internal defense.<br><font color="#FFA500">Next level effect:</font> 20% increase in external and internal defense.<br><font color="#FFA500">Unlock method:</font> Complete "Splendid Mountains and Rivers".<br><font color="#FFA500">Upgrade cost:</font>{@2:} points.
+ui_sec_talent_f_2_2=<font color="#FFA500">Current level:</font>{@0:} level<br><font color="#FFA500">Maximum level:</font>{@1:} level<br><font color="#FFA500">Current effect:</font> 20% increase in external and internal defense.<br><font color="#FFA500">Next level effect:</font> 30% increase in external and internal defense.<br><font color="#FFA500">Unlock method:</font> Complete "Splendid Mountains and Rivers".<br><font color="#FFA500">Upgrade cost:</font>{@2:} points.
+ui_sec_talent_f_2_3=<font color="#FFA500">Current level:</font>{@0:} level<br><font color="#FFA500">Maximum level:</font>{@1:} level<br><font color="#FFA500">Current effect:</font> 30% increase in external and internal defense.<br><font color="#FFA500">Next level effect:</font> 40% increase in external and internal defense.<br><font color="#FFA500">Unlock method:</font> Complete "Splendid Mountains and Rivers".<br><font color="#FFA500">Upgrade cost:</font>{@2:} points.
+ui_sec_talent_f_2_4=<font color="#FFA500">Current level:</font>{@0:} level<br><font color="#FFA500">Maximum level:</font>{@1:} level<br><font color="#FFA500">Current effect:</font> 40% increase in external and internal defense.<br><font color="#FFA500">Next level effect:</font> 50% increase in external and internal defense.<br><font color="#FFA500">Unlock method:</font> Complete "Splendid Mountains and Rivers".<br><font color="#FFA500">Upgrade cost:</font>{@2:} points.
+ui_sec_talent_f2_2_5=<font color="#FFA500">Current level:</font>{@0:} level<br><font color="#FFA500">Maximum level:</font>{@1:} level<br><font color="#FFA500">Current effect:</font> 50% increase in external and internal defense.<br><font color="#FFA500">Next level effect:</font> None.<br><font color="#FFA500">Unlock method:</font> Complete "Splendid Mountains and Rivers".<br><font color="#FFA500">Upgrade cost:</font>-- points.
+ui_sec_talent_f_3_0=<font color="#FFA500">Current level:</font>{@0:} level<br><font color="#FFA500">Maximum level:</font>{@1:} level<br><font color="#FFA500">Current effect:</font> None.<br><font color="#FFA500">Next level effect:</font> 10% increase in movement speed.<br><font color="#FFA500">Unlock method:</font> Complete "Pirates Jumping".<br><font color="#FFA500">Upgrade cost:</font>{@2:} points.
+ui_sec_talent_f_3_1=<font color="#FFA500">Current level:</font>{@0:} level<br><font color="#FFA500">Maximum level:</font>{@1:} level<br><font color="#FFA500">Current effect:</font> 10% increase in movement speed.<br><font color="#FFA500">Next level effect:</font> 15% increase in movement speed.<br><font color="#FFA500">Unlock method:</font> Complete "Pirates Jumping".<br><font color="#FFA500">Upgrade cost:</font>{@2:} points.
+ui_sec_talent_f_3_2=<font color="#FFA500">Current level:</font>{@0:} level<br><font color="#FFA500">Maximum level:</font>{@1:} level<br><font color="#FFA500">Current effect:</font> 15% increase in movement speed.<br><font color="#FFA500">Next level effect:</font> 20% increase in movement speed.<br><font color="#FFA500">Unlock method:</font> Complete "Pirates Jumping".<br><font color="#FFA500">Upgrade cost:</font>{@2:} points.
+ui_sec_talent_f_3_3=<font color="#FFA500">Current level:</font>{@0:} level<br><font color="#FFA500">Maximum level:</font>{@1:} level<br><font color="#FFA500">Current effect:</font> 20% increase in movement speed.<br><font color="#FFA500">Next level effect:</font> 25% increase in movement speed.<br><font color="#FFA500">Unlock method:</font> Complete "Pirates Jumping".<br><font color="#FFA500">Upgrade cost:</font>{@2:} points.
+ui_sec_talent_f_3_4=<font color="#FFA500">Current level:</font>{@0:} level<br><font color="#FFA500">Maximum level:</font>{@1:} level<br><font color="#FFA500">Current effect:</font> 25% increase in movement speed.<br><font color="#FFA500">Next level effect:</font> 30% increase in movement speed.<br><font color="#FFA500">Unlock method:</font> Complete "Pirates Jumping".<br><font color="#FFA500">Upgrade cost:</font>{@2:} points.
+ui_sec_talent_f2_3_5=<font color="#FFA500">Current level:</font>{@0:} level<br><font color="#FFA500">Maximum level:</font>{@1:} level<br><font color="#FFA500">Current effect:</font> Increase movement speed by 30%.<br><font color="#FFA500">Next level effect:</font> None.<br><font color="#FFA500">Unlock method:</font> Complete the "Pirate's Leap" quest.<br><font color="#FFA500">Upgrade cost:</font> -- points.
+ui_sec_talent_f_4_0=<font color="#FFA500">Current level:</font>{@0:} level<br><font color="#FFA500">Maximum level:</font>{@1:} level<br><font color="#FFA500">Current effect:</font> None.<br><font color="#FFA500">Next level effect:</font> When receiving fatal damage, restore 30% health. (Effect will be removed after activation)<br><font color="#FFA500">Unlock method:</font> Complete the "Soul Fragment Ninefold" quest.<br><font color="#FFA500">Upgrade cost:</font>{@2:} points.
+ui_sec_talent_f_4_1=<font color="#FFA500">Current level:</font>{@0:} level<br><font color="#FFA500">Maximum level:</font>{@1:} level<br><font color="#FFA500">Current effect:</font> When receiving fatal damage, restore 30% health. (Effect will be removed after activation)<br><font color="#FFA500">Next level effect:</font> When receiving fatal damage, restore 40% health. (Effect will be removed after activation)<br><font color="#FFA500">Unlock method:</font> Complete the "Soul Fragment Ninefold" quest.<br><font color="#FFA500">Upgrade cost:</font>{@2:} points.
+ui_sec_talent_f_4_2=<font color="#FFA500">Current level:</font>{@0:} level<br><font color="#FFA500">Maximum level:</font>{@1:} level<br><font color="#FFA500">Current effect:</font> When receiving fatal damage, restore 40% health. (Effect will be removed after activation)<br><font color="#FFA500">Next level effect:</font> When receiving fatal damage, restore 50% health. (Effect will be removed after activation)<br><font color="#FFA500">Unlock method:</font> Complete the Soul Fragment Ninefold" quest.<br><font color=""#FFA500"">Upgrade cost:</font>{@2:} points. Luoyang Gu Jie
+ui_sec_talent_f_4_3=<font color="#FFA500">Current level:</font>{@0:} level<br><font color="#FFA500">Maximum level:</font>{@1:} level<br><font color="#FFA500">Current effect:</font> When receiving fatal damage, restore 50% health. (Effect will be removed after activation)<br><font color="#FFA500">Next level effect:</font> When receiving fatal damage, restore 80% health. (Effect will be removed after activation)<br><font color="#FFA500">Unlock method:</font> Complete the Soul Fragment Ninefold" quest.<br><font color=""#FFA500"">Upgrade cost:</font>{@2:} points. Mo Zong Zha Xian
+ui_sec_talent_f_4_4=<font color="#FFA500">Current level:</font>{@0:} level<br><font color="#FFA500">Maximum level:</font>{@1:} level<br><font color="#FFA500">Current effect:</font> When receiving fatal damage, restore 80% health. (Effect will be removed after activation)<br><font color="#FFA500">Next level effect:</font> When receiving fatal damage, restore all health. (Effect will be removed after activation)<br><font color="#FFA500">Unlock method:</font> Complete the "Soul Fragment Ninefold" quest.<br><font color="#FFA500">Upgrade cost:</font>{@2:} points.
+ui_sec_talent_f2_4_5=<font color="#FFA500">Current level:</font>{@0:} level<br><font color="#FFA500">Maximum level:</font>{@1:} level<br><font color="#FFA500">Current effect:</font> When receiving fatal damage, restore all health. (Effect will be removed after activation)<br><font color="#FFA500">Next level effect:</font> None.<br><font color="#FFA500">Unlock method:</font> Complete Nine Layers of Soul Fragments.<br><font color="#FFA500">Upgrade cost:</font> -- points.
+ui_sec_talent_f_5_0=<font color="#FFA500">Current level:</font>{@0:} level<br><font color="#FFA500">Maximum level:</font>{@1:} level<br><font color="#FFA500">Current effect:</font> None.<br><font color="#FFA500">Next level effect:</font> Increase damage by 10%.<br><font color="#FFA500">Unlock method:</font> Complete Luoyang Gu Jie.<br><font color="#FFA500">Upgrade cost:</font>{@2:} points.
+ui_sec_talent_f_5_1=<font color="#FFA500">Current level:</font>{@0:} level<br><font color="#FFA500">Maximum level:</font>{@1:} level<br><font color="#FFA500">Current effect:</font> Increase damage by 10%.<br><font color="#FFA500">Next level effect:</font> Increase damage by 15%.<br><font color="#FFA500">Unlock method:</font> Complete Luoyang Gu Jie.<br><font color="#FFA500">Upgrade cost:</font>{@2:} points.
+ui_sec_talent_f_5_2=<font color="#FFA500">Current level:</font>{@0:} level<br><font color="#FFA500">Maximum level:</font>{@1:} level<br><font color="#FFA500">Current effect:</font> Increase damage by 15%.<br><font color="#FFA500">Next level effect:</font> Increase damage by 20%.<br><font color="#FFA500">Unlock method:</font> Complete Luoyang Gu Jie.<br><font color="#FFA500">Upgrade cost:</font>{@2:} points.
+ui_sec_talent_f_5_3=<font color="#FFA500">Current level:</font>{@0:} level<br><font color="#FFA500">Maximum level:</font>{@1:} level<br><font color="#FFA500">Current effect:</font> Increase damage by 20%.<br><font color="#FFA500">Next level effect:</font> Increase damage by 25%.<br><font color="#FFA500">Unlock method:</font> Complete Luoyang Gu Jie.<br><font color="#FFA500">Upgrade cost:</font>{@2:} points.
+ui_sec_talent_f_5_4=<font color="#FFA500">Current level:</font>{@0:} level<br><font color="#FFA500">Maximum level:</font>{@1:} level<br><font color="#FFA500">Current effect:</font> Increase damage by 25%.<br><font color="#FFA500">Next level effect:</font> Increase damage by 30%.<br><font color="#FFA500">Unlock method:</font> Complete Luoyang Gu Jie.<br><font color="#FFA500">Upgrade cost:</font>{@2:} points.
+ui_sec_talent_f2_5_5=<font color="#FFA500">Current level:</font>{@0:} level<br><font color="#FFA500">Maximum level:</font>{@1:} level<br><font color="#FFA500">Current effect:</font> Increase damage by 30%.<br><font color="#FFA500">Next level effect:</font> None.<br><font color="#FFA500">Unlock method:</font> Complete Luoyang Gu Jie.<br><font color="#FFA500">Upgrade cost:</font>-- points.
+ui_sec_talent_f_6_0=<font color="#FFA500">Current level:</font>{@0:} level<br><font color="#FFA500">Maximum level:</font>{@1:} level<br><font color="#FFA500">Current effect:</font> None.<br><font color="#FFA500">Next level effect:</font> When receiving damage, 30% chance to trigger "Domineering" state, which grants invincibility and ignores all damage. (Cooldown: 1 minute)<br><font color="#FFA500">Unlock method:</font> Complete Magic Trace Appears.<br><font color="#FFA500">Upgrade cost:</font>{@2:} points.
+ui_sec_talent_f_6_1=<font color="#FFA500">Current level:</font>{@0:} level<br><font color="#FFA500">Maximum level:</font>{@1:} level<br><font color="#FFA500">Current effect:</font> When receiving damage, 30% chance to trigger "Domineering" state, which grants invincibility and ignores all damage. (Cooldown: 1 minute)<br><font color="#FFA500">Next level effect:</font> When receiving damage, 40% chance to trigger "Domineering" state, which grants invincibility and ignores all damage. (Cooldown: 1 minute)<br><font color="#FFA500">Unlock method:</font> Complete Magic Trace Appears.<br><font color="#FFA500">Upgrade cost:</font>{@2:} points.
+ui_sec_talent_f_6_2=<font color="#FFA500">Current level:</font>{@0:} level<br><font color="#FFA500">Maximum level:</font>{@1:} level<br><font color="#FFA500">Current effect:</font> When taking damage, 40% chance to trigger "Overlord" state, which grants invincibility and ignores all damage. (Cooldown: 1 minute)<br><font color="#FFA500">Next level effect:</font> When taking damage, 50% chance to trigger "Overlord" state, which grants invincibility and ignores all damage. (Cooldown: 1 minute)<br><font color="#FFA500">Unlock method:</font> Complete "Mozong Appears".<br><font color="#FFA500">Upgrade cost:</font>{@2:} points.
+ui_sec_talent_f_6_3=<font color="#FFA500">Current level:</font>{@0:} level<br><font color="#FFA500">Maximum level:</font>{@1:} level<br><font color="#FFA500">Current effect:</font> When taking damage, 50% chance to trigger "Overlord" state, which grants invincibility and ignores all damage. (Cooldown: 1 minute)<br><font color="#FFA500">Next level effect:</font> When taking damage, 60% chance to trigger "Overlord" state, which grants invincibility and ignores all damage. (Cooldown: 1 minute)<br><font color="#FFA500">Unlock method:</font> Complete "Mozong Appears".<br><font color="#FFA500">Upgrade cost:</font>{@2:} points.
+ui_sec_talent_f_6_4=<font color="#FFA500">Current level:</font>{@0:} level<br><font color="#FFA500">Maximum level:</font>{@1:} level<br><font color="#FFA500">Current effect:</font> When taking damage, 60% chance to trigger "Overlord" state, which grants invincibility and ignores all damage. (Cooldown: 1 minute)<br><font color="#FFA500">Next level effect:</font> When taking damage, 80% chance to trigger "Overlord" state, which grants invincibility and ignores all damage. (Cooldown: 1 minute)<br><font color="#FFA500">Unlock method:</font> Complete "Mozong Appears".<br><font color="#FFA500">Upgrade cost:</font>{@2:} points.
+ui_sec_talent_f2_6_5=<font color="#FFA500">Current level:</font>{@0:} level<br><font color="#FFA500">Maximum level:</font>{@1:} level<br><font color="#FFA500">Current effect:</font> When taking damage, 80% chance to trigger "Overlord" state, which grants invincibility and ignores all damage. (Cooldown: 1 minute)<br><font color="#FFA500">Next level effect:</font> None.<br><font color="#FFA500">Unlock method:</font> Complete "Mozong Appears".<br><font color="#FFA500">Upgrade cost:</font>-- points.
+ui_sec_talent_f2_1_0=Hasn't been unlocked.
+ui_sec_talent_f2_2_0=Hasn't been unlocked.
+ui_sec_talent_f2_3_0=Hasn't been unlocked.
+ui_sec_talent_f2_4_0=Hasn't been unlocked.
+ui_sec_talent_f2_5_0=Hasn't been unlocked.
+ui_sec_talent_f2_6_0=Hasn't been unlocked.
+ui_sec_talent_s2_1_0=Hasn't been unlocked.
+ui_sec_talent_s2_2_0=Hasn't been unlocked.
+ui_sec_talent_s2_3_0=Hasn't been unlocked.
+ui_sec_talent_s2_4_0=Hasn't been unlocked.
+ui_sec_talent_s2_5_0=Hasn't been unlocked.
+ui_sec_talent_s2_6_0=Hasn't been unlocked.
+ui_sec_talent_s_1_0=<font color="#FFA500">Current level:</font>{@0:} level<br><font color="#FFA500">Maximum level:</font>{@1:} level<br><font color="#FFA500">Current effect:</font> None.<br><font color="#FFA500">Next level effect:</font> Increase talent point acquisition by 10%.<br><font color="#FFA500">Unlock method:</font> None.<br><font color="#FFA500">Upgrade cost:</font>{@2:} points.
+ui_sec_talent_s_1_1=<font color="#FFA500">Current level:</font>{@0:} level<br><font color="#FFA500">Maximum level:</font>{@1:} level<br><font color="#FFA500">Current effect:</font> Increase talent point acquisition by 10%.<br><font color="#FFA500">Next level effect:</font> Increase talent point acquisition by 20%.<br><font color="#FFA500">Unlock method:</font> None.<br><font color="#FFA500">Upgrade cost:</font>{@2:} points.
+ui_sec_talent_s_1_2=<font color="#FFA500">Current level:</font>{@0:} level<br><font color="#FFA500">Maximum level:</font>{@1:} level<br><font color="#FFA500">Current effect:</font> Increase talent point acquisition by 20%.<br><font color="#FFA500">Next level effect:</font> Increase talent point acquisition by 30%.<br><font color="#FFA500">Unlock method:</font> None.<br><font color="#FFA500">Upgrade cost:</font>{@2:} points.
+ui_sec_talent_s_1_3=<font color="#FFA500">Current level:</font>{@0:} level<br><font color="#FFA500">Maximum level:</font>{@1:} level<br><font color="#FFA500">Current effect:</font> Increase talent point acquisition by 30%.<br><font color="#FFA500">Next level effect:</font> Increase talent point acquisition by 40%.<br><font color="#FFA500">Unlock method:</font> None.<br><font color="#FFA500">Upgrade cost:</font>{@2:} points.
+ui_sec_talent_s_1_4=<font color="#FFA500">Current level:</font>{@0:} level<br><font color="#FFA500">Maximum level:</font>{@1:} level<br><font color="#FFA500">Current effect:</font> Increase talent point acquisition by 40%.<br><font color="#FFA500">Next level effect:</font> Increase talent point acquisition by 50%.<br><font color="#FFA500">Unlock method:</font> None.<br><font color="#FFA500">Upgrade cost:</font>{@2:} points.
+ui_sec_talent_s2_1_5=<font color="#FFA500">Current level:</font>{@0:} level<br><font color="#FFA500">Maximum level:</font>{@1:} level<br><font color="#FFA500">Current effect:</font> 50% increase in talent point acquisition rate.<br><font color="#FFA500">Next level effect:</font> None.<br><font color="#FFA500">Unlock method:</font> None.<br><font color="#FFA500">Upgrade cost:</font> -- points.
+ui_sec_talent_s_2_0=<font color="#FFA500">Current level:</font>{@0:} level<br><font color="#FFA500">Maximum level:</font>{@1:} level<br><font color="#FFA500">Current effect:</font> None.<br><font color="#FFA500">Next level effect:</font> 20% increase in healing effect from picking up medicine during night exploration of the imperial city.<br><font color="#FFA500">Unlock method:</font> Completion of "Splendid Mountains and Rivers".<br><font color="#FFA500">Upgrade cost:</font>{@2:} points.
+ui_sec_talent_s_2_1=<font color="#FFA500">Current level:</font>{@0:} level<br><font color="#FFA500">Maximum level:</font>{@1:} level<br><font color="#FFA500">Current effect:</font> 20% increase in healing effect from picking up medicine during night exploration of the imperial city.<br><font color="#FFA500">Next level effect:</font> 40% increase in healing effect from picking up medicine during night exploration of the imperial city.<br><font color="#FFA500">Unlock method:</font> Completion of "Splendid Mountains and Rivers".<br><font color="#FFA500">Upgrade cost:</font>{@2:} points.
+ui_sec_talent_s_2_2=<font color="#FFA500">Current level:</font>{@0:} level<br><font color="#FFA500">Maximum level:</font>{@1:} level<br><font color="#FFA500">Current effect:</font> 40% increase in healing effect from picking up medicine during night exploration of the imperial city.<br><font color="#FFA500">Next level effect:</font> 60% increase in healing effect from picking up medicine during night exploration of the imperial city.<br><font color="#FFA500">Unlock method:</font> Completion of "Splendid Mountains and Rivers".<br><font color="#FFA500">Upgrade cost:</font>{@2:} points.
+ui_sec_talent_s_2_3=<font color="#FFA500">Current level:</font>{@0:} level<br><font color="#FFA500">Maximum level:</font>{@1:} level<br><font color="#FFA500">Current effect:</font> 60% increase in healing effect from picking up medicine during night exploration of the imperial city.<br><font color="#FFA500">Next level effect:</font> 80% increase in healing effect from picking up medicine during night exploration of the imperial city.<br><font color="#FFA500">Unlock method:</font> Completion of "Splendid Mountains and Rivers".<br><font color="#FFA500">Upgrade cost:</font>{@2:} points.
+ui_sec_talent_s_2_4=<font color="#FFA500">Current level:</font>{@0:} level<br><font color="#FFA500">Maximum level:</font>{@1:} level<br><font color="#FFA500">Current effect:</font> 80% increase in healing effect from picking up medicine during night exploration of the imperial city.<br><font color="#FFA500">Next level effect:</font> 100% increase in healing effect from picking up medicine during night exploration of the imperial city.<br><font color="#FFA500">Unlock method:</font> Completion of "Splendid Mountains and Rivers".<br><font color="#FFA500">Upgrade cost:</font>{@2:} points.
+ui_sec_talent_s2_2_5=<font color="#FFA500">Current level:</font>{@0:} level<br><font color="#FFA500">Maximum level:</font>{@1:} level<br><font color="#FFA500">Current effect:</font> 100% increase in healing effect from picking up medicine during night exploration of the imperial city.<br><font color="#FFA500">Next level effect:</font> None.<br><font color="#FFA500">Unlock method:</font> Completion of "Splendid Mountains and Rivers".<br><font color="#FFA500">Upgrade cost:</font> -- points.
+ui_sec_talent_s_3_0=<font color="#FFA500">Current level:</font>{@0:} level<br><font color="#FFA500">Maximum level:</font>{@1:} level<br><font color="#FFA500">Current effect:</font> None.<br><font color="#FFA500">Next level effect:</font> 2-second reduction in time spent gathering items.<br><font color="#FFA500">Unlock method:</font> Completion of "Pirates' Tricks".<br><font color="#FFA500">Upgrade cost:</font>{@2:} points.
+ui_sec_talent_s_3_1=<font color="#FFA500">Current level:</font>{@0:} level<br><font color="#FFA500">Maximum level:</font>{@1:} level<br><font color="#FFA500">Current effect:</font> 2-second reduction in time spent gathering items.<br><font color="#FFA500">Next level effect:</font> 4-second reduction in time spent gathering items.<br><font color="#FFA500">Unlock method:</font> Completion of "Pirates' Tricks".<br><font color="#FFA500">Upgrade cost:</font>{@2:} points.
+ui_sec_talent_s_3_2=<font color="#FFA500">Current level:</font>{@0:} level<br><font color="#FFA500">Maximum level:</font>{@1:} level<br><font color="#FFA500">Current effect:</font> Reduces collection time by 4 seconds.<br><font color="#FFA500">Next level effect:</font> Reduces collection time by 6 seconds.<br><font color="#FFA500">Unlock method:</font> Complete the Pirate's Leap.<br><font color="#FFA500">Upgrade cost:</font>{@2:} points.
+ui_sec_talent_s_3_3=<font color="#FFA500">Current level:</font>{@0:} level<br><font color="#FFA500">Maximum level:</font>{@1:} level<br><font color="#FFA500">Current effect:</font> Reduces collection time by 6 seconds.<br><font color="#FFA500">Next level effect:</font> Reduces collection time by 8 seconds.<br><font color="#FFA500">Unlock method:</font> Complete the Pirate's Leap.<br><font color="#FFA500">Upgrade cost:</font>{@2:} points.
+ui_sec_talent_s_3_4=<font color="#FFA500">Current level:</font>{@0:} level<br><font color="#FFA500">Maximum level:</font>{@1:} level<br><font color="#FFA500">Current effect:</font> Reduces collection time by 8 seconds.<br><font color="#FFA500">Next level effect:</font> Reduces collection time by 10 seconds.<br><font color="#FFA500">Unlock method:</font> Complete the Pirate's Leap.<br><font color="#FFA500">Upgrade cost:</font>{@2:} points.
+ui_sec_talent_s2_3_5=<font color="#FFA500">Current level:</font>{@0:} level<br><font color="#FFA500">Maximum level:</font>{@1:} level<br><font color="#FFA500">Current effect:</font> Reduces collection time by 10 seconds.<br><font color="#FFA500">Next level effect:</font> None.<br><font color="#FFA500">Unlock method:</font> Complete the Pirate's Leap.<br><font color="#FFA500">Upgrade cost:</font>-- points.
+ui_sec_talent_s_4_0=<font color="#FFA500">Current level:</font>{@0:} level<br><font color="#FFA500">Maximum level:</font>{@1:} level<br><font color="#FFA500">Current effect:</font> None.<br><font color="#FFA500">Next level effect:</font> Reduces enemy target detection range by 10%.<br><font color="#FFA500">Unlock method:</font> Complete the Ninefold Soul Shatter.<br><font color="#FFA500">Upgrade cost:</font>{@2:} points.
+ui_sec_talent_s_4_1=<font color="#FFA500">Current level:</font>{@0:} level<br><font color="#FFA500">Maximum level:</font>{@1:} level<br><font color="#FFA500">Current effect:</font> Reduces enemy target detection range by 10%.<br><font color="#FFA500">Next level effect:</font> Reduces enemy target detection range by 15%.<br><font color="#FFA500">Unlock method:</font> Complete the Ninefold Soul Shatter.<br><font color="#FFA500">Upgrade cost:</font>{@2:} points.
+ui_sec_talent_s_4_2=<font color="#FFA500">Current level:</font>{@0:} level<br><font color="#FFA500">Maximum level:</font>{@1:} level<br><font color="#FFA500">Current effect:</font> Reduces enemy target detection range by 15%.<br><font color="#FFA500">Next level effect:</font> Reduces enemy target detection range by 20%.<br><font color="#FFA500">Unlock method:</font> Complete the Ninefold Soul Shatter.<br><font color="#FFA500">Upgrade cost:</font>{@2:} points.
+ui_sec_talent_s_4_3=<font color="#FFA500">Current level:</font>{@0:} level<br><font color="#FFA500">Maximum level:</font>{@1:} level<br><font color="#FFA500">Current effect:</font> Reduces enemy target detection range by 20%.<br><font color="#FFA500">Next level effect:</font> Reduces enemy target detection range by 25%.<br><font color="#FFA500">Unlock method:</font> Complete the Ninefold Soul Shatter.<br><font color="#FFA500">Upgrade cost:</font>{@2:} points.
+ui_sec_talent_s_4_4=<font color="#FFA500">Current level:</font>{@0:} level<br><font color="#FFA500">Maximum level:</font>{@1:} level<br><font color="#FFA500">Current effect:</font> Reduces enemy target detection range by 25%.<br><font color="#FFA500">Next level effect:</font> Reduces enemy target detection range by 30%.<br><font color="#FFA500">Unlock method:</font> Complete the Ninefold Soul Shatter.<br><font color="#FFA500">Upgrade cost:</font>{@2:} points.
+ui_sec_talent_s2_4_5=<font color="#FFA500">Current level:</font>{@0:} level<br><font color="#FFA500">Maximum level:</font>{@1:} level<br><font color="#FFA500">Current effect:</font> Decrease enemy target detection range by 30%.<br><font color="#FFA500">Next level effect:</font> None.<br><font color="#FFA500">Unlock method:</font> Complete Nine Layers of Soul Fragments.<br><font color="#FFA500">Upgrade cost:</font> -- points.
+ui_sec_talent_s_5_0=<font color="#FFA500">Current level:</font>{@0:} level<br><font color="#FFA500">Maximum level:</font>{@1:} level<br><font color="#FFA500">Current effect:</font> None.<br><font color="#FFA500">Next level effect:</font> When defeating a boss, there is a 20% chance to drop an extra treasure.<br><font color="#FFA500">Unlock method:</font> Complete Luoyang Gu Jie.<br><font color="#FFA500">Upgrade cost:</font>{@2:} points.
+ui_sec_talent_s_5_1=<font color="#FFA500">Current level:</font>{@0:} level<br><font color="#FFA500">Maximum level:</font>{@1:} level<br><font color="#FFA500">Current effect:</font> When defeating a boss, there is a 20% chance to drop an extra treasure.<br><font color="#FFA500">Next level effect:</font> When defeating a boss, there is a 40% chance to drop an extra treasure.<br><font color="#FFA500">Unlock method:</font> Complete Luoyang Gu Jie.<br><font color="#FFA500">Upgrade cost:</font>{@2:} points.
+ui_sec_talent_s_5_2=<font color="#FFA500">Current level:</font>{@0:} level<br><font color="#FFA500">Maximum level:</font>{@1:} level<br><font color="#FFA500">Current effect:</font> When defeating a boss, there is a 40% chance to drop an extra treasure.<br><font color="#FFA500">Next level effect:</font> When defeating a boss, there is a 60% chance to drop an extra treasure.<br><font color="#FFA500">Unlock method:</font> Complete Luoyang Gu Jie.<br><font color="#FFA500">Upgrade cost:</font>{@2:} points.
+ui_sec_talent_s_5_3=<font color="#FFA500">Current level:</font>{@0:} level<br><font color="#FFA500">Maximum level:</font>{@1:} level<br><font color="#FFA500">Current effect:</font> When defeating a boss, there is a 60% chance to drop an extra treasure.<br><font color="#FFA500">Next level effect:</font> When defeating a boss, there is an 80% chance to drop an extra treasure.<br><font color="#FFA500">Unlock method:</font> Complete Luoyang Gu Jie.<br><font color="#FFA500">Upgrade cost:</font>{@2:} points.
+ui_sec_talent_s_5_4=<font color="#FFA500">Current level:</font>{@0:} level<br><font color="#FFA500">Maximum level:</font>{@1:} level<br><font color="#FFA500">Current effect:</font> When defeating a boss, there is an 80% chance to drop an extra treasure.<br><font color="#FFA500">Next level effect:</font> When defeating a boss, there is a 100% chance to drop an extra treasure.<br><font color="#FFA500">Unlock method:</font> Complete Luoyang Gu Jie.<br><font color="#FFA500">Upgrade cost:</font>{@2:} points.
+ui_sec_talent_s2_5_5=<font color="#FFA500">Current level:</font>{@0:} level<br><font color="#FFA500">Maximum level:</font>{@1:} level<br><font color="#FFA500">Current effect:</font> When defeating a boss, there is a 100% chance to drop an extra treasure.<br><font color="#FFA500">Next level effect:</font> None.<br><font color="#FFA500">Unlock method:</font> Complete Luoyang Gu Jie.<br><font color="#FFA500">Upgrade cost:</font> -- points.
+ui_sec_talent_s_6_0=<font color="#FFA500">Current level:</font>{@0:} level<br><font color="#FFA500">Maximum level:</font>{@1:} level<br><font color="#FFA500">Current effect:</font> None.<br><font color="#FFA500">Next level effect:</font> In non-combat state, automatically enter the Wind Control state, increase movement speed, and an additional 10 points for light work recovery.<br><font color="#FFA500">Unlock method:</font> Complete Magic Trace Appears.<br><font color="#FFA500">Upgrade cost:</font>{@2:} points.
+ui_sec_talent_s_6_1=<font color="#FFA500">Current level:</font>{@0:} level<br><font color="#FFA500">Maximum level:</font>{@1:} level<br><font color="#FFA500">Current effect:</font> In non-combat state, automatically enter the Wind Control state, increase movement speed, and an additional 10 points for light work recovery.<br><font color="#FFA500">Next level effect:</font> In non-combat state, automatically enter the Wind Control state, increase movement speed, and an additional 12 points for light work recovery rate.<br><font color="#FFA500">Unlock method:</font> Complete Magic Trace Appears.<br><font color="#FFA500">Upgrade cost:</font>{@2:} points.
+ui_sec_talent_s_6_2=<font color="#FFA500">Current level:</font>{@0:} level<br><font color="#FFA500">Maximum level:</font>{@1:} level<br><font color="#FFA500">Current effect:</font> In non-combat state, automatically enter the wind control state, increase movement speed, and extra 12 points for light skill recovery rate.<br><font color="#FFA500">Next level effect:</font> In non-combat state, automatically enter the wind control state, increase movement speed, and extra 15 points for light skill recovery rate.<br><font color="#FFA500">Unlock method:</font> Complete the appearance of magic traces.<br><font color="#FFA500">Upgrade cost:</font>{@2:} points.
+ui_sec_talent_s_6_3=<font color="#FFA500">Current level:</font>{@0:} level<br><font color="#FFA500">Maximum level:</font>{@1:} level<br><font color="#FFA500">Current effect:</font> In non-combat state, automatically enter the wind control state, increase movement speed, and extra 15 points for light skill recovery rate.<br><font color="#FFA500">Next level effect:</font> In non-combat state, automatically enter the wind control state, increase movement speed, and extra 17 points for light skill recovery rate.<br><font color="#FFA500">Unlock method:</font> Complete the appearance of magic traces.<br><font color="#FFA500">Upgrade cost:</font>{@2:} points.
+ui_sec_talent_s_6_4=<font color="#FFA500">Current level:</font>{@0:} level<br><font color="#FFA500">Maximum level:</font>{@1:} level<br><font color="#FFA500">Current effect:</font> In non-combat state, automatically enter the wind control state, increase movement speed, and extra 17 points for light skill recovery rate.<br><font color="#FFA500">Next level effect:</font> In non-combat state, automatically enter the wind control state, increase movement speed, and extra 20 points for light skill recovery rate.<br><font color="#FFA500">Unlock method:</font> Complete the appearance of magic traces.<br><font color="#FFA500">Upgrade cost:</font>{@2:} points.
+ui_sec_talent_s2_6_5=<font color="#FFA500">Current level:</font>{@0:} level<br><font color="#FFA500">Maximum level:</font>{@1:} level<br><font color="#FFA500">Current effect:</font> In non-combat state, automatically enter the wind control state, increase movement speed, and extra 20 points for light skill recovery rate.<br><font color="#FFA500">Next level effect:</font> None.<br><font color="#FFA500">Unlock method:</font> Complete the appearance of magic traces.<br><font color="#FFA500">Upgrade cost:</font>-- points.
+sys_ltc_lost_challenger_chance=Too far from the arena, exit the arena challenge registration
+sys_ltc_give_challenger_chance=You have given up the arena challenge registration
+sys_ltc_closed=The arena challenge gameplay switch is not turned on
+sys_ltc_powerlevel_too_low=The level difference with the arena master is too large, cannot register
+sys_ltc_lost_master_chance=You have actively given up or are too far from the arena, exit the arena challenge, and lose the arena master status
+sys_ltc_already_in_rec=Already in the registration queue
+sys_ltc_get_master_score=During the master tournament period, win the arena match and get 1 master point
+sys_ltc_outarea=Already out of the arena area, after 3 seconds, you will be judged to have lost in the arena challenge
+sys_ltc_outarea002=Already out of the arena area, if you do not return to the arena area within 8 seconds, you will lose
+sys_apply_leitaicompete=Unable to team up in the arena challenge gameplay
+sys_in_leitaicompete=Unable to use the landing point function in the arena challenge gameplay
+sys_target_in_leitaicompete=The opponent is participating in the arena challenge gameplay, unable to attack
+sys_ltc_dead_lost_challenger_chance=You have exited the arena challenge registration
+sys_ltc_other_give_chance=Your opponent has actively exited the arena challenge, and you win the arena challenge
+sys_ltc_give_chance=You have actively exited the arena challenge, and are judged to have lost in the arena challenge
+sys_ltc_outarea_0=You are about to leave the arena area, please return as soon as possible, otherwise you will be disqualified.
+ui_sec_sel_buff_desc_101=Single sword damage increase
+ui_sec_sel_buff_desc_102=Double sword damage increase
+ui_sec_sel_buff_desc_103=Long stick damage increase
+ui_sec_sel_buff_desc_104=Short stick damage increase
+ui_sec_sel_buff_desc_105=Single knife damage increase
+ui_sec_sel_buff_desc_106=Double knife damage increase
+ui_sec_sel_buff_desc_107=Double stab damage increase
+ui_sec_sel_buff_desc_108=Dagger damage increase
+ui_sec_sel_buff_desc_109=Unusual damage increase
+ui_sec_sel_buff_desc_110=External critical strike increase
+ui_sec_sel_buff_desc_111=Internal critical strike increase
+ui_sec_sel_buff_desc_112=External explosion damage increase
+ui_sec_sel_buff_desc_113=Internal explosion damage increase
+ui_sec_sel_buff_desc_114=Each time damage is dealt, there is a certain probability of losing health, damage increase
+ui_sec_sel_buff_desc_115=Maximum physical fitness decrease, damage increase
+ui_sec_sel_buff_desc_116=When taking damage, if anger exceeds 50 points, there is a certain probability of regaining health
+ui_sec_sel_buff_desc_117=Lose health per second, cause health loss to surrounding area per second
+ui_sec_sel_buff_desc_118=When health is below 30%, damage dealt increases
+ui_sec_sel_buff_desc_119=When health is below 30%, there is a chance to dodge all damage when taking damage
+ui_sec_sel_buff_desc_120=When health is below 30%, additional damage is dealt when causing damage
+ui_sec_sel_buff_desc_121=When health is below 30%, critical strike probability and explosion damage increase
+ui_sec_sel_buff_desc_122=When health is below 30%, each critical strike will restore anger and lightness value
+ui_sec_sel_buff_desc_123=When health is below 30%, movement speed and dodge increase
+ui_sec_sel_buff_desc_124=When health is below 30%, there is a chance to trigger a healing ban and cannot restore health
+ui_sec_sel_buff_desc_125=Form an energy shield every period of time, energy shield absorbs damage
+ui_sec_sel_buff_desc_126=When hit, there is a certain probability of forming a damage shield
+ui_sec_sel_buff_desc_201=Single sword damage increase
+ui_sec_sel_buff_desc_202=Double sword damage increase
+ui_sec_sel_buff_desc_203=Long stick damage increase
+ui_sec_sel_buff_desc_204=Short stick damage increase
+ui_sec_sel_buff_desc_205=Single knife damage increase
+ui_sec_sel_buff_desc_206=Double knife damage increase
+ui_sec_sel_buff_desc_207=Double stab damage increase
+ui_sec_sel_buff_desc_208=Dagger damage increase
+ui_sec_sel_buff_desc_209=Unusual damage increase
+ui_sec_sel_buff_desc_210=External critical strike increase
+ui_sec_sel_buff_desc_211=Internal critical strike increase
+ui_sec_sel_buff_desc_212=External explosion damage increase
+ui_sec_sel_buff_desc_213=Internal explosion damage increase
+ui_sec_sel_buff_desc_214=Each time damage is dealt, there is a certain probability of losing health, damage increase
+ui_sec_sel_buff_desc_215=Maximum physical fitness decrease, damage increase
+ui_sec_sel_buff_desc_216=When taking damage, if anger exceeds 50 points, there is a certain probability of regaining health
+ui_sec_sel_buff_desc_217=Lose health per second, cause health loss to surrounding area per second
+ui_sec_sel_buff_desc_218=When health is below 30%, damage dealt increases
+ui_sec_sel_buff_desc_219=When health is below 30%, there is a chance to dodge all damage when taking damage
+ui_sec_sel_buff_desc_220=When health is below 30%, additional damage is dealt when causing damage
+ui_sec_sel_buff_desc_221=When health is below 30%, critical strike probability and explosion damage increase
+ui_sec_sel_buff_desc_222=When health is below 30%, each critical strike will restore anger and lightness value
+ui_sec_sel_buff_desc_223=When health is below 30%, movement speed and dodge increase
+ui_sec_sel_buff_desc_224=When health is below 30%, there is a chance to trigger a healing ban and cannot restore health
+ui_sec_sel_buff_desc_225=Form an energy shield every period of time, energy shield absorbs damage
+ui_sec_sel_buff_desc_226=When hit, there is a certain probability of forming a damage shield
+ui_sec_sel_buff_desc_301=Single sword damage increase
+ui_sec_sel_buff_desc_302=Double sword damage increase
+ui_sec_sel_buff_desc_303=Long stick damage increase
+ui_sec_sel_buff_desc_304=Short stick damage increase
+ui_sec_sel_buff_desc_305=Single knife damage increase
+ui_sec_sel_buff_desc_306=Double knife damage increase
+ui_sec_sel_buff_desc_307=Double stab damage increase
+ui_sec_sel_buff_desc_308=Dagger damage increase
+ui_sec_sel_buff_desc_309=Unusual damage increase
+ui_sec_sel_buff_desc_310=External critical strike increase
+ui_sec_sel_buff_desc_311=Internal critical strike increase
+ui_sec_sel_buff_desc_312=External explosion damage increase
+ui_sec_sel_buff_desc_313=Internal explosion damage increase
+ui_sec_sel_buff_desc_314=Each time damage is dealt, there is a certain probability of losing health, damage increase
+ui_sec_sel_buff_desc_315=Maximum physical fitness decrease, damage increase
+ui_sec_sel_buff_desc_316=When taking damage, if anger exceeds 50 points, there is a certain probability of regaining health
+ui_sec_sel_buff_desc_317=Lose health per second, cause health loss to surrounding area per second
+ui_sec_sel_buff_desc_318=When health is below 30%, damage dealt increases
+ui_sec_sel_buff_desc_319=When health is below 30%, there is a chance to dodge all damage when taking damage
+ui_sec_sel_buff_desc_320=When health is below 30%, additional damage is dealt when causing damage
+ui_sec_sel_buff_desc_321=When health is below 30%, critical strike probability and explosion damage increase
+ui_sec_sel_buff_desc_322=When health is below 30%, each critical strike will restore anger and lightness value
+ui_sec_sel_buff_desc_323=When health is below 30%, movement speed and dodge increase
+ui_sec_sel_buff_desc_324=When health is below 30%, there is a chance to trigger a healing ban and cannot restore health
+ui_sec_sel_buff_desc_325=Form an energy shield every period of time, energy shield absorbs damage
+ui_sec_sel_buff_desc_326=When hit, there is a certain probability of forming a damage shield
+ui_sec_sel_buff_desc_401=Single sword damage increase
+ui_sec_sel_buff_desc_402=Double sword damage increase
+ui_sec_sel_buff_desc_403=Long stick damage increase
+ui_sec_sel_buff_desc_404=Short stick damage increase
+ui_sec_sel_buff_desc_405=Single knife damage increase
+ui_sec_sel_buff_desc_406=Double knife damage increase
+ui_sec_sel_buff_desc_407=Double stab damage increase
+ui_sec_sel_buff_desc_408=Dagger damage increase
+ui_sec_sel_buff_desc_409=Unusual damage increase
+ui_sec_sel_buff_desc_410=External critical strike increase
+ui_sec_sel_buff_desc_411=Internal critical strike increase
+ui_sec_sel_buff_desc_412=External explosion damage increase
+ui_sec_sel_buff_desc_413=Internal explosion damage increase
+ui_sec_sel_buff_desc_414=Each time damage is dealt, there is a certain probability of losing health, damage increase
+ui_sec_sel_buff_desc_415=Maximum physical fitness decrease, damage increase
+ui_sec_sel_buff_desc_416=When taking damage, if anger exceeds 50 points, there is a certain probability of regaining health
+ui_sec_sel_buff_desc_417=Lose health per second, cause health loss to surrounding area per second
+ui_sec_sel_buff_desc_418=When health is below 30%, damage dealt increases
+ui_sec_sel_buff_desc_419=When health is below 30%, there is a chance to dodge all damage when taking damage
+ui_sec_sel_buff_desc_420=When health is below 30%, additional damage is dealt when causing damage
+ui_sec_sel_buff_desc_421=When health is below 30%, critical strike probability and explosion damage increase
+ui_sec_sel_buff_desc_422=When health is below 30%, each critical strike will restore anger and lightness value
+ui_sec_sel_buff_desc_423=When health is below 30%, movement speed and dodge increase
+ui_sec_sel_buff_desc_424=When health is below 30%, there is a chance to trigger a healing ban and cannot restore health
+ui_sec_sel_buff_desc_425=Form an energy shield every period of time, energy shield absorbs damage
+ui_sec_sel_buff_desc_426=When hit, there is a certain probability of forming a damage shield
+ui_sec_sel_buff_desc_427=When attacking, there is a certain probability of adding a "see through" state, reducing the target's dodge rate
+ui_sec_sel_buff_desc_428=When attacking a target with the "see through" state, additional damage is dealt
+ui_sec_sel_buff_desc_429=Clear 1 layer of "see through" state, cause health loss
+ui_sec_sel_buff_desc_430=Poison the target with the "poison damage" state, causing damage to surrounding area every period of time
+ui_sec_sel_buff_desc_431=Detonate the "poison damage" state on the target, causing damage to the target and surrounding area
+ui_sec_sel_buff_desc_432=Self-damage decrease, all damage becomes splash damage
+ui_sec_sel_buff_desc_501=Single sword damage increase
+ui_sec_sel_buff_desc_502=Double sword damage increase
+ui_sec_sel_buff_desc_503=Long stick damage increase
+ui_sec_sel_buff_desc_504=Short stick damage increase
+ui_sec_sel_buff_desc_505=Single knife damage increase
+ui_sec_sel_buff_desc_506=Double knife damage increase
+ui_sec_sel_buff_desc_507=Double stab damage increase
+ui_sec_sel_buff_desc_508=Dagger damage increase
+ui_sec_sel_buff_desc_509=Unusual damage increase
+ui_sec_sel_buff_desc_510=External critical strike increase
+ui_sec_sel_buff_desc_511=Internal critical strike increase
+ui_sec_sel_buff_desc_512=External explosion damage increase
+ui_sec_sel_buff_desc_513=Internal explosion damage increase
+ui_sec_sel_buff_desc_514=Each time damage is dealt, there is a certain probability of losing health, damage increase
+ui_sec_sel_buff_desc_515=Maximum physical fitness decrease, damage increase
+ui_sec_sel_buff_desc_516=When taking damage, if anger exceeds 50 points, there is a certain probability of regaining health
+ui_sec_sel_buff_desc_517=Lose health per second, cause health loss to surrounding area per second
+ui_sec_sel_buff_desc_518=When health is below 30%, damage dealt increases
+ui_sec_sel_buff_desc_519=When health is below 30%, there is a chance to dodge all damage when taking damage
+ui_sec_sel_buff_desc_520=When health is below 30%, additional damage is dealt when causing damage
+ui_sec_sel_buff_desc_521=When health is below 30%, critical strike probability and explosion damage increase
+ui_sec_sel_buff_desc_522=When health is below 30%, each critical strike will restore anger and lightness value
+ui_sec_sel_buff_desc_523=When health is below 30%, movement speed and dodge increase
+ui_sec_sel_buff_desc_524=When health is below 30%, there is a chance to trigger a healing ban and cannot restore health
+ui_sec_sel_buff_desc_525=Form an energy shield every period of time, energy shield absorbs damage
+ui_sec_sel_buff_desc_526=When hit, there is a certain probability of forming a damage shield
+ui_sec_sel_buff_desc_527=When attacking, there is a certain probability of adding a "see through" state, reducing the target's dodge rate
+ui_sec_sel_buff_desc_528=When attacking a target with the "see through" state, additional damage is dealt
+ui_sec_sel_buff_desc_529=Clear 1 layer of "see through" state, cause health loss
+ui_sec_sel_buff_desc_530=Poison the target with the "poison damage" state, causing damage to surrounding area every period of time
+ui_sec_sel_buff_desc_531=Detonate the "poison damage" state on the target, causing damage to the target and surrounding area
+ui_sec_sel_buff_desc_532=Self-damage decrease, all damage becomes splash damage
+ui_sec_sel_buff_desc_601=Single sword damage increase
+ui_sec_sel_buff_desc_602=Double sword damage increase
+ui_sec_sel_buff_desc_603=Long stick damage increase
+ui_sec_sel_buff_desc_604=Short stick damage increase
+ui_sec_sel_buff_desc_605=Single knife damage increase
+ui_sec_sel_buff_desc_606=Double knife damage increase
+ui_sec_sel_buff_desc_607=Double stab damage increase
+ui_sec_sel_buff_desc_608=Dagger damage increase
+ui_sec_sel_buff_desc_609=Unusual damage increase
+ui_sec_sel_buff_desc_610=External critical strike increase
+ui_sec_sel_buff_desc_611=Internal critical strike increase
+ui_sec_sel_buff_desc_612=External explosion damage increase
+ui_sec_sel_buff_desc_613=Internal explosion damage increase
+ui_sec_sel_buff_desc_614=Each time damage is dealt, there is a certain probability of losing health, damage increase
+ui_sec_sel_buff_desc_615=Maximum physical fitness decrease, damage increase
+ui_sec_sel_buff_desc_616=When taking damage, if anger exceeds 50 points, there is a certain probability of regaining health
+ui_sec_sel_buff_desc_617=Lose health per second, cause health loss to surrounding area per second
+ui_sec_sel_buff_desc_618=When health is below 30%, damage dealt increases
+ui_sec_sel_buff_desc_619=When health is below 30%, there is a chance to dodge all damage when taking damage
+ui_sec_sel_buff_desc_620=When health is below 30%, additional damage is dealt when causing damage
+ui_sec_sel_buff_desc_621=When health is below 30%, critical strike probability and explosion damage increase
+ui_sec_sel_buff_desc_622=When health is below 30%, each critical strike will restore anger and lightness value
+ui_sec_sel_buff_desc_623=When health is below 30%, movement speed and dodge increase
+ui_sec_sel_buff_desc_624=When health is below 30%, there is a chance to trigger a healing ban and cannot restore health
+ui_sec_sel_buff_desc_625=Form an energy shield every period of time, energy shield absorbs damage
+ui_sec_sel_buff_desc_626=When hit, there is a certain probability of forming a damage shield
+ui_sec_sel_buff_desc_627=When attacking, there is a certain probability of adding a "see through" state, reducing the target's dodge rate
+ui_sec_sel_buff_desc_628=When attacking a target with the "see through" state, additional damage is dealt
+ui_sec_sel_buff_desc_629=Clear 1 layer of "see through" state, cause health loss
+ui_sec_sel_buff_desc_630=Poison the target with the "poison damage" state, causing damage to surrounding area every period of time
+ui_sec_sel_buff_desc_631=Detonate the "poison damage" state on the target, causing damage to the target and surrounding area
+ui_sec_sel_buff_desc_632=Self-damage decrease, all damage becomes splash damage
+sys_black_acution_001=Dear player, a batch of new goods has arrived at the ghost market auction house, hurry up and get them!
+sys_black_acution_002=Unfortunately, the <font color="#00ff00">【{@0:name}】</font> you bid on has been surpassed by someone with a higher price!
+sys_black_acution_003=Dear players, there are <font color="#FF0000">{@0:time} minutes</font> left until the end of the auction. The <font color="#00ff00">【{@1:name}】</font> that you have been following will be settled soon, so don't miss out!
+ui_sec_card_info_101=Single sword damage increase
+ui_sec_card_info_102=Double sword damage increase
+ui_sec_card_info_103=Long stick damage increase
+ui_sec_card_info_104=Short stick damage increase
+ui_sec_card_info_105=Single knife damage increase
+ui_sec_card_info_106=Double knife damage increase
+ui_sec_card_info_107=Double stab damage increase
+ui_sec_card_info_108=Dagger damage increase
+ui_sec_card_info_109=Unusual damage increase
+ui_sec_card_info_110=External critical strike increase
+ui_sec_card_info_111=Internal critical strike increase
+ui_sec_card_info_112=External explosion damage increase
+ui_sec_card_info_113=Internal explosion damage increase
+ui_sec_card_info_114=Each time damage is dealt, there is a certain probability of losing health, damage increase
+ui_sec_card_info_115=Maximum physical fitness decrease, damage increase
+ui_sec_card_info_116=When taking damage, if anger exceeds 50 points, there is a certain probability of regaining health
+ui_sec_card_info_117=Lose health per second, cause health loss to surrounding area per second
+ui_sec_card_info_118=When health is below 30%, damage dealt increases
+ui_sec_card_info_119=When health is below 30%, there is a chance to dodge all damage when taking damage
+ui_sec_card_info_120=When health is below 30%, additional damage is dealt when causing damage
+ui_sec_card_info_121=When health is below 30%, critical strike probability and explosion damage increase
+ui_sec_card_info_122=When health is below 30%, each critical strike will restore anger and lightness value
+ui_sec_card_info_123=When health is below 30%, movement speed and dodge increase
+ui_sec_card_info_124=When health is below 30%, there is a chance to trigger a healing ban and cannot restore health
+ui_sec_card_info_125=Form an energy shield every period of time, energy shield absorbs damage
+ui_sec_card_info_126=When hit, there is a certain probability of forming a damage shield
+ui_sec_card_info_201=Single sword damage increase
+ui_sec_card_info_202=Double sword damage increase
+ui_sec_card_info_203=Long stick damage increase
+ui_sec_card_info_204=Short stick damage increase
+ui_sec_card_info_205=Single knife damage increase
+ui_sec_card_info_206=Double knife damage increase
+ui_sec_card_info_207=Double stab damage increase
+ui_sec_card_info_208=Dagger damage increase
+ui_sec_card_info_209=Unusual damage increase
+ui_sec_card_info_210=External critical strike increase
+ui_sec_card_info_211=Internal critical strike increase
+ui_sec_card_info_212=External explosion damage increase
+ui_sec_card_info_213=Internal explosion damage increase
+ui_sec_card_info_214=Each time damage is dealt, there is a certain probability of losing health, damage increase
+ui_sec_card_info_215=Maximum physical fitness decrease, damage increase
+ui_sec_card_info_216=When taking damage, if anger exceeds 50 points, there is a certain probability of regaining health
+ui_sec_card_info_217=Lose health per second, cause health loss to surrounding area per second
+ui_sec_card_info_218=When health is below 30%, damage dealt increases
+ui_sec_card_info_219=When health is below 30%, there is a chance to dodge all damage when taking damage
+ui_sec_card_info_220=When health is below 30%, additional damage is dealt when causing damage
+ui_sec_card_info_221=When health is below 30%, critical strike probability and explosion damage increase
+ui_sec_card_info_222=When health is below 30%, each critical strike will restore anger and lightness value
+ui_sec_card_info_223=When health is below 30%, movement speed and dodge increase
+ui_sec_card_info_224=When health is below 30%, there is a chance to trigger a healing ban and cannot restore health
+ui_sec_card_info_225=Form an energy shield every period of time, energy shield absorbs damage
+ui_sec_card_info_226=When hit, there is a certain probability of forming a damage shield
+ui_sec_card_info_301=Single sword damage increase
+ui_sec_card_info_302=Double sword damage increase
+ui_sec_card_info_303=Long stick damage increase
+ui_sec_card_info_304=Short stick damage increase
+ui_sec_card_info_305=Single knife damage increase
+ui_sec_card_info_306=Double knife damage increase
+ui_sec_card_info_307=Double stab damage increase
+ui_sec_card_info_308=Dagger damage increase
+ui_sec_card_info_309=Unusual damage increase
+ui_sec_card_info_310=External critical strike increase
+ui_sec_card_info_311=Internal critical strike increase
+ui_sec_card_info_312=External explosion damage increase
+ui_sec_card_info_313=Internal explosion damage increase
+ui_sec_card_info_314=Each time damage is dealt, there is a certain probability of losing health, damage increase
+ui_sec_card_info_315=Maximum physical fitness decrease, damage increase
+ui_sec_card_info_316=When taking damage, if anger exceeds 50 points, there is a certain probability of regaining health
+ui_sec_card_info_317=Lose health per second, cause health loss to surrounding area per second
+ui_sec_card_info_318=When health is below 30%, damage dealt increases
+ui_sec_card_info_319=When health is below 30%, there is a chance to dodge all damage when taking damage
+ui_sec_card_info_320=When health is below 30%, additional damage is dealt when causing damage
+ui_sec_card_info_321=When health is below 30%, critical strike probability and explosion damage increase
+ui_sec_card_info_322=When health is below 30%, each critical strike will restore anger and lightness value
+ui_sec_card_info_323=When health is below 30%, movement speed and dodge increase
+ui_sec_card_info_324=When health is below 30%, there is a chance to trigger a healing ban and cannot restore health
+ui_sec_card_info_325=Form an energy shield every period of time, energy shield absorbs damage
+ui_sec_card_info_326=When hit, there is a certain probability of forming a damage shield
+ui_sec_card_info_401=Single sword damage increase
+ui_sec_card_info_402=Double sword damage increase
+ui_sec_card_info_403=Long stick damage increase
+ui_sec_card_info_404=Short stick damage increase
+ui_sec_card_info_405=Single knife damage increase
+ui_sec_card_info_406=Double knife damage increase
+ui_sec_card_info_407=Double stab damage increase
+ui_sec_card_info_408=Dagger damage increase
+ui_sec_card_info_409=Unusual damage increase
+ui_sec_card_info_410=External critical strike increase
+ui_sec_card_info_411=Internal critical strike increase
+ui_sec_card_info_412=External explosion damage increase
+ui_sec_card_info_413=Internal explosion damage increase
+ui_sec_card_info_414=Each time damage is dealt, there is a certain probability of losing health, damage increase
+ui_sec_card_info_415=Maximum physical fitness decrease, damage increase
+ui_sec_card_info_416=When taking damage, if anger exceeds 50 points, there is a certain probability of regaining health
+ui_sec_card_info_417=Lose health per second, cause health loss to surrounding area per second
+ui_sec_card_info_418=When health is below 30%, damage dealt increases
+ui_sec_card_info_419=When health is below 30%, there is a chance to dodge all damage when taking damage
+ui_sec_card_info_420=When health is below 30%, additional damage is dealt when causing damage
+ui_sec_card_info_421=When health is below 30%, critical strike probability and explosion damage increase
+ui_sec_card_info_422=When health is below 30%, each critical strike will restore anger and lightness value
+ui_sec_card_info_423=When health is below 30%, movement speed and dodge increase
+ui_sec_card_info_424=When health is below 30%, there is a chance to trigger a healing ban and cannot restore health
+ui_sec_card_info_425=Form an energy shield every period of time, energy shield absorbs damage
+ui_sec_card_info_426=When hit, there is a certain probability of forming a damage shield
+ui_sec_card_info_427=When attacking, there is a certain probability of adding a "see through" state, reducing the target's dodge rate
+ui_sec_card_info_428=When attacking a target with the "see through" state, additional damage is dealt
+ui_sec_card_info_429=Clear 1 layer of "see through" state, cause health loss
+ui_sec_card_info_430=Poison the target with the "poison damage" state, causing damage to surrounding area every period of time
+ui_sec_card_info_431=Detonate the "poison damage" state on the target, causing damage to the target and surrounding area
+ui_sec_card_info_432=Self-damage decrease, all damage becomes splash damage
+ui_sec_card_info_501=Single sword damage increase
+ui_sec_card_info_502=Double sword damage increase
+ui_sec_card_info_503=Long stick damage increase
+ui_sec_card_info_504=Short stick damage increase
+ui_sec_card_info_505=Single knife damage increase
+ui_sec_card_info_506=Double knife damage increase
+ui_sec_card_info_507=Double stab damage increase
+ui_sec_card_info_508=Dagger damage increase
+ui_sec_card_info_509=Unusual damage increase
+ui_sec_card_info_510=External critical strike increase
+ui_sec_card_info_511=Internal critical strike increase
+ui_sec_card_info_512=External explosion damage increase
+ui_sec_card_info_513=Internal explosion damage increase
+ui_sec_card_info_514=Each time damage is dealt, there is a certain probability of losing health, damage increase
+ui_sec_card_info_515=Maximum physical fitness decrease, damage increase
+ui_sec_card_info_516=When taking damage, if anger exceeds 50 points, there is a certain probability of regaining health
+ui_sec_card_info_517=Lose health per second, cause health loss to surrounding area per second
+ui_sec_card_info_518=When health is below 30%, damage dealt increases
+ui_sec_card_info_519=When health is below 30%, there is a chance to dodge all damage when taking damage
+ui_sec_card_info_520=When health is below 30%, additional damage is dealt when causing damage
+ui_sec_card_info_521=When health is below 30%, critical strike probability and explosion damage increase
+ui_sec_card_info_522=When health is below 30%, each critical strike will restore anger and lightness value
+ui_sec_card_info_523=When health is below 30%, movement speed and dodge increase
+ui_sec_card_info_524=When health is below 30%, there is a chance to trigger a healing ban and cannot restore health
+ui_sec_card_info_525=Form an energy shield every period of time, energy shield absorbs damage
+ui_sec_card_info_526=When hit, there is a certain probability of forming a damage shield
+ui_sec_card_info_527=When attacking, there is a certain probability of adding a "see through" state, reducing the target's dodge rate
+ui_sec_card_info_528=When attacking a target with the "see through" state, additional damage is dealt
+ui_sec_card_info_529=Clear 1 layer of "see through" state, cause health loss
+ui_sec_card_info_530=Poison the target with the "poison damage" state, causing damage to surrounding area every period of time
+ui_sec_card_info_531=Detonate the "poison damage" state on the target, causing damage to the target and surrounding area
+ui_sec_card_info_532=Self-damage decrease, all damage becomes splash damage
+ui_sec_card_info_601=Single sword damage increase
+ui_sec_card_info_602=Double sword damage increase
+ui_sec_card_info_603=Long stick damage increase
+ui_sec_card_info_604=Short stick damage increase
+ui_sec_card_info_605=Single knife damage increase
+ui_sec_card_info_606=Double knife damage increase
+ui_sec_card_info_607=Double stab damage increase
+ui_sec_card_info_608=Dagger damage increase
+ui_sec_card_info_609=Unusual damage increase
+ui_sec_card_info_610=External critical strike increase
+ui_sec_card_info_611=Internal critical strike increase
+ui_sec_card_info_612=External explosion damage increase
+ui_sec_card_info_613=Internal explosion damage increase
+ui_sec_card_info_614=Each time damage is dealt, there is a certain probability of losing health, damage increase
+ui_sec_card_info_615=Maximum physical fitness decrease, damage increase
+ui_sec_card_info_616=When taking damage, if anger exceeds 50 points, there is a certain probability of regaining health
+ui_sec_card_info_617=Lose health per second, cause health loss to surrounding area per second
+ui_sec_card_info_618=When health is below 30%, damage dealt increases
+ui_sec_card_info_619=When health is below 30%, there is a chance to dodge all damage when taking damage
+ui_sec_card_info_620=When health is below 30%, additional damage is dealt when causing damage
+ui_sec_card_info_621=When health is below 30%, critical strike probability and explosion damage increase
+ui_sec_card_info_622=When health is below 30%, each critical strike will restore anger and lightness value
+ui_sec_card_info_623=When health is below 30%, movement speed and dodge increase
+ui_sec_card_info_624=When health is below 30%, there is a chance to trigger a healing ban and cannot restore health
+ui_sec_card_info_625=Form an energy shield every period of time, energy shield absorbs damage
+ui_sec_card_info_626=When hit, there is a certain probability of forming a damage shield
+ui_sec_card_info_627=When attacking, there is a certain probability of adding a "see through" state, reducing the target's dodge rate
+ui_sec_card_info_628=When attacking a target with the "see through" state, additional damage is dealt
+ui_sec_card_info_629=Clear 1 layer of "see through" state, cause health loss
+ui_sec_card_info_630=Poison the target with the "poison damage" state, causing damage to surrounding area every period of time
+ui_sec_card_info_631=Detonate the "poison damage" state on the target, causing damage to the target and surrounding area
+ui_sec_card_info_632=Self-damage decrease, all damage becomes splash damage
+ui_buf_ythc_bw_001_01=Unity of Man and Sword · Wood
+ui_buf_ythc_bw_002_01=Two Swords Combined · Wood
+ui_buf_ythc_bw_003_01=Startle the Snake by Hitting the Grass · Wood
+ui_buf_ythc_bw_004_01=Draw Water from the Bottom of the Pot · Wood
+ui_buf_ythc_bw_005_01=Hide a Knife in a Smile · Wood
+ui_buf_ythc_bw_006_01=Borrow a Knife to Kill · Wood
+ui_buf_ythc_bw_007_01=Deceive the Enemy by Crossing the Sea · Wood
+ui_buf_ythc_bw_008_01=Reveal a Dagger When the End is Near · Wood
+ui_buf_ythc_bw_009_01=Win by Surprising the Enemy · Wood
+ui_buf_ythc_bw_010_01=Take Advantage of an Opening · Wood
+ui_buf_ythc_bw_011_01=Assess the Situation · Wood
+ui_buf_ythc_bw_012_01=Unstoppable · Wood
+ui_buf_ythc_bw_013_01=Break Through Like Bamboo · Wood
+ui_buf_ythc_bw_014_01=Catch the Enemy Off Guard · Wood
+ui_buf_ythc_bw_015_01=Burn the Boats and Sink the Cauldrons · Wood
+ui_buf_ythc_bw_016_01=Never Give Up · Wood
+ui_buf_ythc_bw_017_01=Both Sides Suffer · Wood
+ui_buf_ythc_bw_018_01=Fight Against the Wall · Wood
+ui_buf_ythc_bw_019_01=Turn Danger into Safety · Wood
+ui_buf_ythc_bw_020_01=Use the Enemy's Strategy Against Them · Wood
+ui_buf_ythc_bw_021_01=Strike the Enemy Head-On · Wood
+ui_buf_ythc_bw_022_01=Plan Strategically · Wood
+ui_buf_ythc_bw_023_01=Fight Quickly and Decisively · Wood
+ui_buf_ythc_bw_024_01=Fearless in the Face of Danger · Wood
+ui_buf_ythc_bw_025_01=Create Something Out of Nothing · Wood
+ui_buf_ythc_bw_026_01=Sneak Through Enemy Territory · Wood
+ui_buf_ythc_bw_001_02=Unity of Man and Sword · Iron
+ui_buf_ythc_bw_002_02=Two Swords Combined · Iron
+ui_buf_ythc_bw_003_02=Startle the Snake by Hitting the Grass · Iron
+ui_buf_ythc_bw_004_02=Draw Water from the Bottom of the Pot · Iron
+ui_buf_ythc_bw_005_02=Hide a Knife in a Smile · Iron
+ui_buf_ythc_bw_006_02=Borrow a Knife to Kill · Iron
+ui_buf_ythc_bw_007_02=Deceive the Enemy by Crossing the Sea · Iron
+ui_buf_ythc_bw_008_02=Reveal a Dagger When the End is Near · Iron
+ui_buf_ythc_bw_009_02=Win by Surprising the Enemy · Iron
+ui_buf_ythc_bw_010_02=Seize the opportunity and enter - iron
+ui_buf_ythc_bw_011_02=Assess the situation and act accordingly - iron
+ui_buf_ythc_bw_012_02=Invincible - iron
+ui_buf_ythc_bw_013_02=Unstoppable momentum - iron
+ui_buf_ythc_bw_014_02=To capture by letting go - iron
+ui_buf_ythc_bw_015_02=To break the pot and sink the boat - iron
+ui_buf_ythc_bw_016_02=Unyielding - iron
+ui_buf_ythc_bw_017_02=Both sides suffer - iron
+ui_buf_ythc_bw_018_02=To fight back against the wall - iron
+ui_buf_ythc_bw_019_02=To turn danger into safety - iron
+ui_buf_ythc_bw_020_02=To use one's own strategy against them - iron
+ui_buf_ythc_bw_021_02=To strike at the right moment - iron
+ui_buf_ythc_bw_022_02=To plan and strategize - iron
+ui_buf_ythc_bw_023_02=To fight quickly and decisively - iron
+ui_buf_ythc_bw_024_02=To be fearless in the face of danger - iron
+ui_buf_ythc_bw_025_02=To create something out of nothing - iron
+ui_buf_ythc_bw_026_02=To secretly make a move - iron
+ui_buf_ythc_bw_001_03=To unite the person and the sword - bronze
+ui_buf_ythc_bw_002_03=To combine two swords into one - bronze
+ui_buf_ythc_bw_003_03=To startle the snake by hitting the grass - bronze
+ui_buf_ythc_bw_004_03=To cut off the source of trouble - bronze
+ui_buf_ythc_bw_005_03=To hide one's true intentions with a smile - bronze
+ui_buf_ythc_bw_006_03=To borrow a knife to kill - bronze
+ui_buf_ythc_bw_007_03=To deceive the enemy - bronze
+ui_buf_ythc_bw_008_03=To reveal one's true intentions when all else fails - bronze
+ui_buf_ythc_bw_009_03=To win by using unexpected tactics - bronze
+ui_buf_ythc_bw_010_03=Seize the opportunity and enter - bronze
+ui_buf_ythc_bw_011_03=Assess the situation and act accordingly - bronze
+ui_buf_ythc_bw_012_03=Invincible - bronze
+ui_buf_ythc_bw_013_03=Unstoppable momentum - bronze
+ui_buf_ythc_bw_014_03=To capture by letting go - bronze
+ui_buf_ythc_bw_015_03=To break the pot and sink the boat - bronze
+ui_buf_ythc_bw_016_03=Unyielding - bronze
+ui_buf_ythc_bw_017_03=Both sides suffer - bronze
+ui_buf_ythc_bw_018_03=To fight back against the wall - bronze
+ui_buf_ythc_bw_019_03=To turn danger into safety - bronze
+ui_buf_ythc_bw_020_03=Take advantage of the situation · Bronze
+ui_buf_ythc_bw_021_03=Strike while the iron is hot · Bronze
+ui_buf_ythc_bw_022_03=Plan and strategize · Bronze
+ui_buf_ythc_bw_023_03=Swift and decisive action · Bronze
+ui_buf_ythc_bw_024_03=Fearless in the face of danger · Bronze
+ui_buf_ythc_bw_025_03=Create something out of nothing · Bronze
+ui_buf_ythc_bw_026_03=Sneak attack · Bronze
+ui_buf_ythc_bw_001_04=Unity of man and sword · Silver
+ui_buf_ythc_bw_002_04=Combining two swords into one · Silver
+ui_buf_ythc_bw_003_04=Startle the snake by hitting the grass · Silver
+ui_buf_ythc_bw_004_04=Pulling the firewood from under the pot · Silver
+ui_buf_ythc_bw_005_04=Hiding a knife behind a smile · Silver
+ui_buf_ythc_bw_006_04=Using someone else's weapon to kill · Silver
+ui_buf_ythc_bw_007_04=Deceiving the enemy · Silver
+ui_buf_ythc_bw_008_04=Revealing one's true intentions at the last moment · Silver
+ui_buf_ythc_bw_009_04=Using unexpected tactics to win · Silver
+ui_buf_ythc_bw_010_04=Taking advantage of a vulnerable moment · Silver
+ui_buf_ythc_bw_011_04=Assessing the situation and acting accordingly · Silver
+ui_buf_ythc_bw_012_04=Unstoppable · Silver
+ui_buf_ythc_bw_013_04=Breaking through like a bamboo · Silver
+ui_buf_ythc_bw_014_04=Luring the enemy in order to capture them · Silver
+ui_buf_ythc_bw_015_04=Destroying one's own resources to achieve victory · Silver
+ui_buf_ythc_bw_016_04=Unyielding determination · Silver
+ui_buf_ythc_bw_017_04=Both sides suffer losses · Silver
+ui_buf_ythc_bw_018_04=Fighting with one's back against the wall · Silver
+ui_buf_ythc_bw_019_04=Turning danger into safety · Silver
+ui_buf_ythc_bw_020_04=Take advantage of the situation · Silver
+ui_buf_ythc_bw_021_04=Strike while the iron is hot · Silver
+ui_buf_ythc_bw_022_04=Plan and strategize · Silver
+ui_buf_ythc_bw_023_04=Swift and decisive action · Silver
+ui_buf_ythc_bw_024_04=Fearless in the face of danger · Silver
+ui_buf_ythc_bw_025_04=Create something out of nothing · Silver
+ui_buf_ythc_bw_026_04=Sneak attack · Silver
+ui_buf_ythc_bw_027_04=Taking advantage of a situation · Silver
+ui_buf_ythc_bw_028_04=Robbing a burning house · Silver
+ui_buf_ythc_bw_029_04=Destroying a bridge after crossing it · Silver
+ui_buf_ythc_bw_030_04=Poisoning with poison · silver
+ui_buf_ythc_bw_031_04=Watching from the other side · silver
+ui_buf_ythc_bw_032_04=Fighting to the death · silver
+ui_buf_ythc_bw_001_05=Unity of man and sword · gold
+ui_buf_ythc_bw_002_05=Combining two swords · gold
+ui_buf_ythc_bw_003_05=Startling the snake by beating the grass · gold
+ui_buf_ythc_bw_004_05=Drawing out the fire from under the pot · gold
+ui_buf_ythc_bw_005_05=Hiding a knife behind a smile · gold
+ui_buf_ythc_bw_006_05=Using someone else's hand to kill · gold
+ui_buf_ythc_bw_007_05=Deceiving the enemy by hiding one's true intentions · gold
+ui_buf_ythc_bw_008_05=Revealing one's true intentions when all else fails · gold
+ui_buf_ythc_bw_009_05=Using unexpected tactics to win · gold
+ui_buf_ythc_bw_010_05=Taking advantage of a vulnerable moment · gold
+ui_buf_ythc_bw_011_05=Assessing the situation and acting accordingly · gold
+ui_buf_ythc_bw_012_05=Unstoppable force · gold
+ui_buf_ythc_bw_013_05=Breaking through like bamboo · gold
+ui_buf_ythc_bw_014_05=Capturing the enemy by letting them go · gold
+ui_buf_ythc_bw_015_05=Burning one's own boats and bridges · gold
+ui_buf_ythc_bw_016_05=Persevering through countless setbacks · gold
+ui_buf_ythc_bw_017_05=Both sides suffering defeat · gold
+ui_buf_ythc_bw_018_05=Fighting with one's back against the wall · gold
+ui_buf_ythc_bw_019_05=Turning danger into safety · gold
+ui_buf_ythc_bw_020_05=Using the enemy's own strategy against them · gold
+ui_buf_ythc_bw_021_05=Striking the enemy head on · gold
+ui_buf_ythc_bw_022_05=Strategizing from behind the scenes · gold
+ui_buf_ythc_bw_023_05=Fighting quickly and decisively · gold
+ui_buf_ythc_bw_024_05=Facing danger without fear · gold
+ui_buf_ythc_bw_025_05=Creating something out of nothing · gold
+ui_buf_ythc_bw_026_05=Sneaking through enemy territory · gold
+ui_buf_ythc_bw_027_05=Taking advantage of a situation · gold
+ui_buf_ythc_bw_028_05=Robbing a burning house · gold
+ui_buf_ythc_bw_029_05=Destroying one's own path to prevent the enemy from following · gold
+ui_buf_ythc_bw_030_05=Poisoning with poison · gold
+ui_buf_ythc_bw_031_05=Watching from the other side · gold
+ui_buf_ythc_bw_032_05=Fighting to the death · gold
+ui_buf_ythc_bw_001_06=Unity of man and sword · jade
+ui_buf_ythc_bw_002_06=Combining two swords · jade
+ui_buf_ythc_bw_003_06=Startling the snake by beating the grass · jade
+ui_buf_ythc_bw_004_06=Drawing out the fire from under the pot · jade
+ui_buf_ythc_bw_005_06=Hiding a knife behind a smile · jade
+ui_buf_ythc_bw_006_06=Using someone else's hand to kill · jade
+ui_buf_ythc_bw_007_06=Deceiving the enemy by hiding one's true intentions · jade
+ui_buf_ythc_bw_008_06=Revealing one's true intentions when all else fails · jade
+ui_buf_ythc_bw_009_06=Using unexpected tactics to win · jade
+ui_buf_ythc_bw_010_06=Taking advantage of a vulnerable moment · jade
+ui_buf_ythc_bw_011_06=Assessing the situation and acting accordingly · jade
+ui_buf_ythc_bw_012_06=Unstoppable force · jade
+ui_buf_ythc_bw_013_06=Breaking through like bamboo · jade
+ui_buf_ythc_bw_014_06=Capturing the enemy by letting them go · jade
+ui_buf_ythc_bw_015_06=Burning one's own boats and bridges · jade
+ui_buf_ythc_bw_016_06=Persevering through countless setbacks · jade
+ui_buf_ythc_bw_017_06=Both sides suffering defeat · jade
+ui_buf_ythc_bw_018_06=Fighting with one's back against the wall · jade
+ui_buf_ythc_bw_019_06=Turning danger into safety · jade
+ui_buf_ythc_bw_020_06=Using the enemy's own strategy against them · jade
+ui_buf_ythc_bw_021_06=Striking the enemy head on · jade
+ui_buf_ythc_bw_022_06=Strategizing from behind the scenes · jade
+ui_buf_ythc_bw_023_06=Fighting quickly and decisively · jade
+ui_buf_ythc_bw_024_06=Facing danger without fear · jade
+ui_buf_ythc_bw_025_06=Creating something out of nothing · jade
+ui_buf_ythc_bw_026_06=Sneaking through enemy territory · jade
+ui_buf_ythc_bw_027_06=Taking advantage of a situation · jade
+ui_buf_ythc_bw_028_06=Robbing a burning house · jade
+ui_buf_ythc_bw_029_06=Destroying one's own path to prevent the enemy from following · jade
+ui_buf_ythc_bw_030_06=Poisoning with poison · jade
+ui_buf_ythc_bw_031_06=Watching from the other side · jade
+ui_buf_ythc_bw_032_06=Fighting to the death · jade
+marry_error_3=Minors' accounts cannot initiate marriage proposals.
+marry_error_4=Cannot initiate marriage proposals to minors' accounts.
+marry_error_5=Minors' accounts cannot conduct marriage operations.
+newschool_tianya=Skyline Seaside Pavilion
+ui_neigong_category_tianya=Skyline Seaside Pavilion
+tips_obj_newschool_tianya=Skyline Seaside Pavilion
+Add_Neighbour_06=The other party is on your enemy, lifelong enemy, or blacklist, and cannot apply for a visit!
+Add_Neighbour_07=The other party is on your enemy, lifelong enemy, or blacklist, and cannot visit!
+Add_Neighbour_08=You are on the other party's enemy, lifelong enemy, or blacklist, and cannot apply for a visit!
+sys_vegetable_012=This silkworm rack has already been used.
+sys_vegetable_013=The plantation is full and cannot raise silkworms.
+sys_vegetable_014=Cannot raise silkworms in the homestead plantation.
+desc_switch_998=Homestead silkworm rack switch.
+clonewarning_120483=Not participating in the treasure forbidden area time!
+sys_newapex_score_step_0_1=The orange team has reached 300 points and stands out.
+sys_newapex_score_step_0_2=The green team has reached 300 points and stands out.
+sys_newapex_score_step_0_3=The purple team has reached 300 points and stands out.
+sys_newapex_score_step_0_4=The white team has reached 300 points and stands out.
+sys_newapex_score_step_0_5=The red team has reached 300 points and stands out.
+sys_newapex_score_step_0_6=The blue team has reached 300 points and stands out.
+sys_newapex_score_step_0_7=The black team has reached 300 points and stands out.
+sys_newapex_score_step_0_8=The cyan team has reached 300 points and stands out.
+sys_newapex_score_step_1_1=The orange team has reached 600 points and is unstoppable.
+sys_newapex_score_step_1_2=The green team has reached 600 points and is unstoppable.
+sys_newapex_score_step_1_3=The purple team has reached 600 points and is unstoppable.
+sys_newapex_score_step_1_4=The white team has reached 600 points and is unstoppable.
+sys_newapex_score_step_1_5=The red team has reached 600 points and is unstoppable.
+sys_newapex_score_step_1_6=The blue team has reached 600 points and is unstoppable.
+sys_newapex_score_step_1_7=The black team has reached 600 points and is unstoppable.
+sys_newapex_score_step_1_8=The cyan team has reached 600 points and is unstoppable.
+sys_newapex_score_step_2_1=The orange team has reached 900 points and victory is within reach.
+sys_newapex_score_step_2_2=The green team has reached 900 points and victory is within reach.
+sys_newapex_score_step_2_3=The purple team has reached 900 points and victory is within reach.
+sys_newapex_score_step_2_4=The white team has reached 900 points and victory is within reach.
+sys_newapex_score_step_2_5=The red team has reached 900 points and victory is within reach.
+sys_newapex_score_step_2_6=The blue team has reached 900 points and victory is within reach.
+sys_newapex_score_step_2_7=The black team has reached 900 points and victory is within reach.
+sys_newapex_score_step_2_8=The cyan team has reached 900 points and victory is within reach.
+sys_newapex_arrest_begin_1=Orange team player <font color="#00ff00">【{@0:name}】</font> has taken the "Reverse Scale Pill" and their location has been exposed.
+sys_newapex_arrest_begin_2=Green team player <font color="#00ff00">【{@0:name}】</font> has taken the "Reverse Scale Pill" and their location has been exposed.
+sys_newapex_arrest_begin_3=Purple team player <font color="#00ff00">【{@0:name}】</font> has taken the "Reverse Scale Pill" and their location has been exposed.
+sys_newapex_arrest_begin_4=White team player <font color="#00ff00">【{@0:name}】</font> has taken the "Reverse Scale Pill" and their location has been exposed.
+sys_newapex_arrest_begin_5=Red team player <font color="#00ff00">【{@0:name}】</font> has taken the "Reverse Scale Pill" and their location has been exposed.
+sys_newapex_arrest_begin_6=Blue team player <font color="#00ff00">【{@0:name}】</font> has taken the "Reverse Scale Pill" and their location has been exposed.
+sys_newapex_arrest_begin_7=Black team player <font color="#00ff00">【{@0:name}】</font> has taken the "Reverse Scale Pill" and their location has been exposed.
+sys_newapex_arrest_begin_8=Cyan team player <font color="#00ff00">【{@0:name}】</font> has taken the "Reverse Scale Pill" and their location has been exposed.
+sys_newapex_arrest_end_1=Orange team player <font color="#00ff00">【{@0:name}】</font> has been subdued, "Reverse Scale" mission failed.
+sys_newapex_arrest_end_2=Green team player <font color="#00ff00">【{@0:name}】</font> has been subdued, "Reverse Scale" mission failed.
+sys_newapex_arrest_end_3=Purple team player <font color="#00ff00">【{@0:name}】</font> has been subdued, "Reverse Scale" mission failed.
+sys_newapex_arrest_end_4=White team player <font color="#00ff00">【{@0:name}】</font> has been subdued, "Reverse Scale" mission failed.
+sys_newapex_arrest_end_5=Red team player <font color="#00ff00">【{@0:name}】</font> has been subdued, "Reverse Scale" mission failed.
+sys_newapex_arrest_end_6=Blue team player <font color="#00ff00">【{@0:name}】</font> has been subdued, "Reverse Scale" mission failed.
+sys_newapex_arrest_end_7=Black team player <font color="#00ff00">【{@0:name}】</font> has been subdued, "Reverse Scale" mission failed.
+sys_newapex_arrest_end_8=Cyan team player <font color="#00ff00">【{@0:name}】</font> has been subdued, "Reverse Scale" mission failed.
+sys_guild_global_war_rec_001=Failed to add to battle list.
+sys_guild_global_war_rec_002=Battle list is full, failed to add.
+sys_guild_global_war_rec_003=Failed to join, not on the list and not allowed to join automatically.
+sys_guild_global_war_rec_004=Battle list is full, failed to join.
+sys_guild_global_war_rec_005={@0:} is no longer a member of the guild, operation failed, please refresh the page.
+sys_guild_global_war_rec_006={@0:} is no longer on the battle list, operation failed, please refresh and try again.
+sys_guild_global_war_rec_007=Cannot modify battle list members during base battle.
+sys_platform_role_msg=Character is in the forbidden area gameplay, cannot sell!
+area_tyhg_shoufuhuo=Revival point area.
+area_tyhg_gongfuhuo=Revival point area.
+area_tyhg_zdqy=Battle Area
+3677306=School is Kunlun or has no school and no power and is not a hidden school!
+3677307=Age of Wushu Record must be completed within 2 days before joining the Tianya Haige from the adventure route.
+sys_tyhg_chhd001=Please select a fishing spot, different spots have different difficulty and harvest. <br> (Each time you go fishing, you need to catch 10 pounds of sea fish)
+sys_tyhg_chhd002=Go fishing near the sea (each successful fishing can catch 1-3 pounds of sea fish)
+sys_tyhg_chhd003=Go deep sea fishing (each successful fishing can catch 3-5 pounds of sea fish)
+sys_tyhg_chhd004=This harvest has not reached the standard, are you sure you want to give up the current results and return?
+sys_tyhg_chhd005=Please take me back.
+sys_lzy_tyhg_chhd_jn001=<font color="#FF0000">The sea fishing skill can only be used when standing at the sea fishing spot</font>
+sys_lzy_tyhg_chhd_jn002=<font color="#FF0000">Currently fishing, cannot use skills</font>
+sys_lzy_tyhg_chhd_jn003=<font color="#FF0000">Currently reeling in, cannot use skills</font>
+sys_count_lzy_tyhg_chhd001=收获重量
+tip_count_lzy_tyhg_chhd001=Standing at the sea fishing spot, after catching 10 pounds of sea fish, return home
+sys_time_lzy_tyhg_chhd001=Leaving time
+tips_time_lzy_tyhg_chhd001=Returning home after catching 10 pounds of sea fish through sea fishing
+trigger_tyhg_rcrw_chhd_1_1=<font color="#00FF00">Choose a sea fishing spot to fish</font>
+trigger_tyhg_rcrw_chhd_5_1=<font color="#00FF00">Successful sea fishing, catch about 1 pound of sea fish</font>
+trigger_tyhg_rcrw_chhd_5_2=<font color="#00FF00">Successful sea fishing, catch about 2 pounds of sea fish</font>
+trigger_tyhg_rcrw_chhd_5_3=<font color="#00FF00">Successful sea fishing, catch about 3 pounds of sea fish</font>
+trigger_tyhg_rcrw_chhd_5_4=<font color="#00FF00">Successful sea fishing, catch about 4 pounds of sea fish</font>
+trigger_tyhg_rcrw_chhd_5_5=<font color="#00FF00">Successful sea fishing, catch about 5 pounds of sea fish</font>
+trigger_tyhg_rcrw_chhd_5_6=<font color="#FF0000">Sea fishing failed, please try again</font>
+trigger_tyhg_rcrw_chhd_6_1=<font color="#00FF00">Already caught 10 pounds of sea fish, returning home in 10 seconds</font>
+desc_switch_1152=Homestead landscape auction
+title_jy_chenghao2=System Mail
+content_jy_chenghao2=This is the reward for building the Homestead landscape.
+home_create_villa_failed=You have reached the maximum number of homes for this class and cannot build again.
+npc_homePetPen_009=Courtyard Pet Park
+npc_homeStable_009=Stable
+npc_homeStable_009_1=Courtyard Stable
+ui_home_garden_tips_1=Exquisite craftsmanship, intricate carvings and paintings, as if in a scroll of Jiangnan landscape, the auction for Jiangnan-style mansions will officially begin at <font color="#CC0000">18:00</font> today!
+ui_home_garden_tips_2=Exquisite craftsmanship, intricate carvings and paintings, as if in a scroll of Jiangnan landscape, the auction for Jiangnan-style mansions will officially begin at <font color="#CC0000">18:00</font> today!
+ui_home_garden_tips_3=Exquisite craftsmanship, intricate carvings and paintings, as if in a scroll of Jiangnan landscape, the auction for Jiangnan-style mansions will officially begin at <font color="#CC0000">18:00</font> today!
+ui_home_garden_tips_4=Exquisite craftsmanship, intricate carvings and paintings, as if in a scroll of Jiangnan landscape, the auction for Jiangnan-style mansions will officially begin in <font color="#CC0000">30</font> minutes!
+ui_home_garden_tips_5=Exquisite craftsmanship, intricate carvings and paintings, as if in a scroll of Jiangnan landscape, the auction for Jiangnan-style mansions will officially begin in <font color="#CC0000">15</font> minutes!
+ui_home_garden_tips_6=Exquisite craftsmanship, intricate carvings and paintings, as if in a scroll of Jiangnan landscape, the auction for Jiangnan-style mansions will officially begin in <font color="#CC0000">10</font> minutes!
+ui_home_garden_tips_7=Exquisite craftsmanship, intricate carvings and paintings, as if in a scroll of Jiangnan landscape, the auction for Jiangnan-style mansions will officially begin in <font color="#CC0000">5</font> minutes!
+ui_home_garden_tips_8=Exquisite craftsmanship, intricate carvings and paintings, as if in a scroll of Jiangnan landscape, the auction for Jiangnan-style mansions will officially begin tonight.
+menpai_012=Mountain and Water Hua Island
+my_home_duihuan_01_24=Building Order (Landscape Island)
+desc_my_home_duihuan_01_24_0=Find the <font color="#00FF00">Ministry of Construction of the Ming Dynasty</font>, this item is needed to build a home.<br>Adventurers can go to the following cities to find the Ministry of Construction to build houses: <font color="#FFAE00">Suzhou</font><br><font color="#FFAE00">There are limited remaining properties in the above locations, please purchase carefully.</font><br><font color="#FF0000">This item will only exist for 3 days, and will be deleted when it expires. Please build your home as soon as possible.</font><br><font color="#FF0000">This home can be owned at the same time as a mansion.</font>
+ui_home_style_14=Mountain and Water Hua Island
+40056=Instruction: Find this school's library or steal the secret scripts from players who have them(Right-click the portrait of an offline script-escorting player to steal scripts).
+82023=You won <img src="gui\common\money\yyb.png" valign="center" only="line" data="" />{@0:$} in the Challenge Arena.
+82024=There are no opponents to bet against for the challenge. The system will return your bet.
+82025=Betting awards
+82035=Arena Bet
+82080=Arena contestants cannot gamble.
+82105=Gambling functions are not available for this Arena.
+82205=You have lost your bet. The money goes to the winner!
+9711=Speak to the Carter about the Major Schools.
+event_end_em04=<font color="#bc1717" >Emei disciples led the way in eliminating the threat of the Secret Cult. With the recent happenings in the martial art world, the ten major schools have decided to start passing on Tier 2 Internal Mental Skills. </font>
+event_end_gb04=<font color="#bc1717" >Beggar's Sect disciples led the way in eliminating the threat of the Secret Cult. With the recent happenings in the martial art world, the ten major schools have decided to start passing on Tier 2 Internal Mental Skills. </font>
+event_end_jl04=<font color="#bc1717" >Wanderer's Valley disciples led the way in eliminating the threat of the Secret Cult. With the recent happenings in the martial art world, the ten major schools have decided to start passing on Tier 2 Internal Mental Skills. </font>
+event_end_jy04=<font color="#bc1717" >The Royal Guards' disciples led the way in eliminating the threat of the Secret Cult. With the recent happenings in the martial art world, the ten major schools have decided to start passing on Tier 2 Internal Mental Skills. </font>
+event_end_jz04=<font color="#bc1717" >The Scholar's Academy disciples led the way in eliminating the threat of the Secret Cult. With the recent happenings in the martial art world, the ten major schools have decided to start passing on Tier 2 Internal Mental Skills. </font>
+event_end_sl04=<font color="#bc1717" >Shaolin disciples led the way in eliminating the threat of the Secret Cult. With the recent happenings in the martial art world, the ten major schools have decided to start passing on Tier 2 Internal Mental Skills. </font>
+event_end_tm04=<font color="#bc1717" >Tangmen disciples led the way in eliminating the threat of the Secret Cult. With the recent happenings in the martial art world, the ten major schools have decided to start passing on Tier 2 Internal Mental Skills. </font>
+event_end_wd04=<font color="#bc1717" >Wudang disciples led the way in eliminating the threat of the Secret Cult. With the recent happenings in the martial art world, the ten major schools have decided to start passing on Tier 2 Internal Mental Skills. </font>
+event_end_mj04=<font color="#bc1717" >Ming Cult disciples led the way in eliminating the threat of the Secret Cult. With the recent happenings in the martial art world, the ten major schools have decided to start passing on Tier 2 Internal Mental Skills. </font>
+event_end_ts04=<font color="#bc1717" >Tianshan Sect disciples led the way in eliminating the threat of the secret cult. With the recent happenings in the martial art world, the ten major schools have decided to start passing on a second set of Internal Skills. </font>
+500001=<font color="#bc1717" >People calling themselves messengers of the foreign prince have appeared at the main gates of all ten schools. The school disciples have gone to find out what they want.</font>
+sys_forcequit=Failed to leave the faction. Please remove all the treasures on you and take the quest again. Palace of Shifting Flowers, Xu Family Manor or Peach Blossom Island only allows 5 attempts to leave faction every one hour. Beast Villa, Rootless Clan or the Golden Needle Sect only allows 1 attempt to leave faction every ten minutes.
+83697=You cannot receive an item because you are not from the ten major Schools.
+sys_wywl_88war_guide_act_2=Zhuo Bei pretends to retreat. In fact, his real plan is to attack the Central Plains. He has sent out a lot of experts to Ten Schools. Please come to Ten Schools to help! After 10 minutes, there will be a lot of killers!
+sys_wywl_88war_guide_act_4=Resist the invasion of the Foreign Wulin successfully. But Zhuo Bei threatened to attack the Ten Schools again. I don't know if this is true or not. We'd better go to Ten Schools to prepare.
+info_mmzw_dyrq_001=The Foreign Wulin will invade Ten Schools in {@0:LeftTime} minutes. Wulin Alliance Leader Lin Tiannan invites Central Plains heroes to Ten Schools and resist the Foreign Wulin. (If any one of the Ten Schools fails to defend during the event, the Central Plains fails! Open Massacre - Faction Catastrophe to be directly teleported to the schools.)
+info_mmzw_dyrq_all_sucess=Defended successfully! The ten schools worked together to repel the Foreign Wulin.
+info_mmzw_dyrq_dhdeny=You are in Eastern Seas and cannot be teleported directly to Ten Schools.
+mmzw_dyrq_prize_fail=Not all ten schools have defended successfully. Cannot claim rewards.
+ys_mm_boss_school_001=The Foreign Wulin behave with unbearable insolence that they send out experts directly to the ten Schools to vandalize. After 15 minutes, The foreign experts will appear in Ten Schools. Please go defeat them. (Four of the Ten Schools will be invaded randomly)
+ys_mm_boss_school_003=The Foreign Wulin sent out their vanguards to Ten schools. Please stop them.
+sys_wywl_mmwy_001=Foreign Wulin is about to invade Ten Schools. Please return to school to defend them.
+sys_vegetable_007=The plant is not ripe yet.
+sys_vegetable_008=This crop is mature now. Go collect it.
+sys_vegetable_009=This crop will become mature in: {@0:time}
+sys_rose_to_love_03=<font color="#ff0000">{@0:}</font> Light the Valentines' fireworks with your lover. You will be together until the end of the world.
+sys_rose_to_love_04=<font color="#ff0000">{@0:}</font> Light the Valentines' fireworks with your lover. You will be together until the end of the world.
+desc_worldboss_tyw_new_001=Attention please, <font color="#f9fc00">Toxic Eagle King</font> has appeared in <font color="#f9fc00">Luoyang</font> and <font color="#f9fc00">Yanjing</font>!
+desc_worldboss_hql_new_001=Attention, everyone! <font color="#f9fc00">Fire Kirin</font> has appeared in <font color="#f9fc00">Luoyang</font>!
+desc_worldboss_hql_team_001=Attention, everyone! <font color="#f9fc00">Inferno Kirin</font> has appeared in <font color="#f9fc00">Luoyang</font>!
+desc_worldboss_szxy_new_002=Attention, everyone! <font color="#f9fc00">Snow Ape with Three Claws</font> has appeared in <font color="#f9fc00">Evil Men's Valley</font>!
+desc_worldboss_szxy_new_003=Attention, everyone! <font color="#f9fc00">Snow Ape with Three Claws</font> has appeared in <font color="#f9fc00">Jiming Posthouse</font>!
+desc_worldboss_szxy_new_004=Attention, everyone! <font color="#f9fc00">Ten-thousand-year Old Fire Turtle</font> has appeared in <font color="#f9fc00">Northern Desert</font>!
+desc_worldboss_szxy_new_005=Attention, everyone! <font color="#f9fc00">Ten-thousand-year Old Fire Turtle</font> has appeared in <font color="#f9fc00">Jinling</font>!
+sys_activity_sign_n_draw_05=Sign-in rewards have been claimed. The prize has been sent out via mail.
+sys_activity_sign_n_draw_10=You have received Sign-in reward already, unable to receive it again.
+sys_activity_sign_n_draw_12=You need to spend at least 1 hour online to be able to collect Sign-in reward (the reward can be claimed once per day)
+sys_ggw_23=You are not a Jianghu VIP. You can not participate in the guild war.
+sys_yyhd_qmlj=You've killed the Tartar General. All the Jianghu VIP players may collect their rewards at Yanjing ({@0:x},{@1:z}) from 22:05 to 23:55 at the Supply Camp Soldier.
+sys_apex_011=Sign-up failed. The number of team members can not exceed {@0:人数}.
+desc_my_home_duihuan_01_23_0=Find the <font color="#00FF00">Ming Building Officer</font>. This is required for building a Home. <br>You can find the Building Officer to build a Home at the following maps: <font color="#FFAE00">Suzhou</font><br><font color="#FFAE00">Remaining quantity of houses are limited.</font><br><font color="#FF0000">Attention: This certificate will expire in 3 days. The count down continues even in mail. Please use it quickly to build the Mansion.</font>
+sys_villa_compete_1=Let's congratulate {@0:} with a successful bid. The luxurious Mansion is theirs.
+sys_villa_compete_2=Let's congratulate {@0:} and {@1:} with a successful bid. The luxurious Mansion is theirs.
+sys_villa_compete_3=Let's congratulate {@0:}, {@1:} and {@2:} with a successful bid. The luxurious Mansion is theirs.
+sys_villa_compete_4=Let's congratulate {@0:}, {@1:}, {@2:} and {@3:} with a successful bid. The luxurious Mansion is theirs.
+sys_villa_compete_5=Let's congratulate {@0:}, {@1:}, {@2:}, {@3:} and {@4:} with a successful bid. The luxurious Mansion is theirs.
+sys_villa_compete_6=Let's congratulate {@0:}, {@1:}, {@2:}, {@3:}, {@4:} and {@5:} with a successful bid. The luxurious Mansion is theirs.
+sys_villa_compete_7=Let's congratulate {@0:}, {@1:}, {@2:}, {@3:}, {@4:}, {@5:} and {@6:} with a successful bid. The luxurious Mansion is theirs.
+sys_villa_compete_8=Let's congratulate {@0:}, {@1:}, {@2:}, {@3:}, {@4:}, {@5:}, {@6:} and {@67:} with a successful bid. The luxurious Mansion is theirs.
 

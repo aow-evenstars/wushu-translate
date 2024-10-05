@@ -231,4 +231,13 @@ target_74313=Kill Zuoteng Qianxin.
 target_74314=After killing Zuoteng Qianxin, report back to the Pavilion Leader.
 title_74305=Japanese Assassin
 title_74313=Kill the baddies
+CanAcceptMenu_74390=Inquire about any recent changes among the disciples.
+CompleteMenu_74390=<font face="Default" color="#ffffff" >Fulfill the task.</font>
+accept_74390_1=<font face="Default" color="#ffffff" >Inquire about any recent changes in the disciple's behavior</font>
+complete_74390=<font face="Default" color="#ffffff" >Fortunately, you successfully repelled the pirate attack this time! Otherwise, who knows what kind of damage it would have caused.</font>
+context_74390=Although this place is located on the sea, there are still occasional pirate disturbances. Go and ask the disciples on patrol if they have noticed anything unusual.
+menu_74390_1=<font face="Default" color="#ffffff" >I'll go right away.</font>
+next_74390=Ask <a href="findnpc_new,school25,npcmp_dingzw_tyhg_zcrw_001" style="HLStype1">Wang Xiaoman</a>.
+submit_74390=<font face="Default" color="#ffffff" >I was just doing my job. </font>
+title_74390=Resist Invasion
 

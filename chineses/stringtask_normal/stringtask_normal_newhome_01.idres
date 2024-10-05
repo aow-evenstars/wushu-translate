@@ -8,7 +8,6 @@ context_72002=Some scurrying rabbits invaded into your courtyard and make troubl
 target_72002=Catch the scurrying white rabbits and golden rabbits in your courtyard (Use different skills respectively to catch them)
 title_72002=Drive Rabbit
 CanAcceptMenu_72005=<font face="Default" color="#ffffff" >Judging by your outfit, aren't you Mu Xiang, the recent Jianghu celebrity? </font>
-CanAcceptMenu_72006=<font face="Default" color="#ffffff" >Judging by your outfit, aren't you Mu Wu, the recent Jianghu hero? </font>
 CanAcceptMenu_72007=<font face="Default" color="#ffffff" >Judging by your outfit, aren't you Mu Wu, the recent Jianghu hero? </font>
 CompleteMenu_72005=<font face="Default" color="#ffffff" >Sorry for making you wait! </font>
 CompleteMenu_72006=<font face="Default" color="#ffffff" >You are indeed a famous Jianghu hero! Thank you. </font>
@@ -41,4 +40,32 @@ context_72001=The rare items in your home may attract some thieves come and stea
 context_72003=Your home is invaded by some thieves sneakily. Go to the courtyard and talk with the suspicious people, see through their identity and defeat them.
 target_72001=Defeat the thieves in your home. After accepting the quest, you can invite your friends to help from Social-Friends/Intimate Friends.<font color="#EE0000">(If you asked your friends to help you, your friends also need to accept the quest. Please remember to form a team or you may be unable to complete the quest. The quest can be completed 3 times everyday.)</font>
 target_72003=Talk with the suspicious people, see through their identity and defeat them.
+CanAcceptMenu_72009=<font face="Default" color="#ffffff" >Judging by your outfit, aren't you Mu Xiang, the recent Jianghu celebrity? </font>
+CanAcceptMenu_72010=<font face="Default" color="#ffffff" >Judging by your attire, could you be the recently famous Mu Yi Mu, a young hero of the martial world?</font>
+CanAcceptMenu_72011=<font face="Default" color="#ffffff" >Judging by your attire, could you be the recently famous Mu Yi Mu, a young hero of the martial world?</font>
+CompleteMenu_72009=<font face="Default" color="#ffffff" >Sorry for making you wait! </font>
+CompleteMenu_72010=<font face="Default" color="#ffffff" >You are indeed a famous Jianghu hero! Thank you. </font>
+CompleteMenu_72011=<font face="Default" color="#ffffff" >You are indeed a famous Jianghu hero! Thank you. </font>
+accept_72009_1=<font face="Default" color="#ffffff" >You have good eyes! The fame is just an undeserved praise from Jianghu's friends. I heard that your residence has a collection of four kinds of exotic flowers and plants. Can I have the pleasure of seeing them? </font>
+accept_72010_1=<font face="Default" color="#ffffff" >You have a keen eye, sir! My reputation is merely a false praise from friends in the martial world. I have heard of your exceptional chess skills. I have come to visit and hope you will not be stingy in imparting your knowledge!</font>
+accept_72011_1=<font face="Default" color="#ffffff" >You have a keen eye, sir! My reputation is merely a false praise from friends in the martial world. I have heard of your exceptional martial skills. I have come to visit and hope you will not be stingy in imparting your knowledge!</font>
+complete_72009=<font face="Default" color="#ffffff" >It is indeed a rare thing! I wonder if you would like to give these flowers and plants to me as a present? You will also be given a gift! </font>
+complete_72010=<font face="Default" color="#ffffff" >Your chess skills are exceptional! I am no match for you. I have come to bother you and offer a small gift as a sign of respect!</font>
+complete_72011=<font face="Default" color="#ffffff" >Your skills are exquisite and your inner strength is uncanny! I am impressed. Sorry to disturb you. Here is a lousy gift for you! </font>
+context_72009=Recently, there is a strange woman in Jianghu who is good at recognizing flowers and grasses, Miss Mu. The person outside the door looks very much like the rumored Miss Mu. Why would she come here?
+context_72010=Recently, there is a wonderful person in Jianghu, Mu Yi, who is very knowledgeable and has excellent chess skills. The person outside the door is very similar to the rumored warrior Mu. Why would he come here?
+context_72011=Recently there is a marvelous person who is good at all schools of martial arts in the Jianghu, Mu Wu. The man outside the door looks very much like the rumored Mu Wu. Why would he come here?
+menu_72009_1=<font face="Default" color="#ffffff" >Hahaha, you've come a long way, miss Mu. Is there a reason to refuse? Please wait for a short while. </font>
+menu_72010_1=<font face="Default" color="#ffffff" >Please! </font>
+menu_72011_1=<font face="Default" color="#ffffff" >Please! </font>
+submit_72009=<font face="Default" color="#ffffff" >These flowers and plants are rare, but how can they compare with Miss Mu's gift? Hahaha.</font>
+submit_72010=<font face="Default" color="#ffffff" >You are too polite! </font>
+submit_72011=<font face="Default" color="#ffffff" >You are too polite! </font>
+target_72009=Talk to the woman at the door. Ask what is the reason of her visit.
+target_72010=Talk to the one at the door. Ask what is the reason of their visit.
+target_72011=Talk to the one at the door. Ask what is the reason of their visit.
+title_72009=Miss Mu Xiang
+title_72010=Mu Yi
+title_72011=Mu Wu
+CanAcceptMenu_72006=<font face="Default" color="#ffffff" >Judging by your outfit, aren't you Mu Wu, the recent Jianghu hero? </font>
 

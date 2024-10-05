@@ -678,13 +678,7 @@ title_43816=Executioner's Blade Compensation
 title_43817=Executioner's Blade Compensation
 title_43827=Stay online at night to get a Thanksgiving Gift Pack
 CanAcceptMenu_43795=<font face="Default" color="#ffffff" > Visit the Versatile Elder</font>
-CanAcceptMenu_43796=<font face="Default" color="#ffffff" > The Versatile Elder's test</font>
-CanAcceptMenu_43797=<font face="Default" color="#ffffff" > Bracing Chrysanthemum Wine</font>
-CanAcceptMenu_43798=<font face="Default" color="#ffffff" > Delectable Cornel Cakes</font>
 CompleteMenu_43795=<font face="Default" color="#ffffff" > Visit the Versatile Elder</font><font face="Default" color="#ffffff" > (Complete)</font>
-CompleteMenu_43796=<font face="Default" color="#ffffff" > The Versatile Elder's test (Complete)</font>
-CompleteMenu_43797=<font face="Default" color="#ffffff" > Bracing Chrysanthemum Wine (Complete)</font>
-CompleteMenu_43798=<font face="Default" color="#ffffff" > Delectable Cornel Cakes (Complete)</font>
 accept_43795_1=<font face="Default" color="#ffffff" > How nice you are. </font>
 accept_43796_1=<font face="Default" color="#ffffff" > You seem talented. Let me test you. </font>
 accept_43797_1=<font face="Default" color="#ffffff" > Wonderful day to enjoy the flowers. </font>
@@ -710,9 +704,6 @@ target_43796=Answer The Versatile Elder's questions.
 target_43797=Get the chrysanthemum for The Versatile Elder.
 target_43798=Get the cornel for The Versatile Elder.
 title_43795=Visit The Versatile Elder
-title_43796=The Versatile Elder's test
-title_43797=Chrysanthemum Wine
-title_43798=Cornel Cake
 CanAcceptMenu_43799=<font face="Default" color="#ffffff" > Festival Celebration Pack</font>
 CompleteMenu_43799=<font face="Default" color="#ffffff" > Get the gift</font>
 accept_43799_1=<font face="Default" color="#ffffff" > I got a gift for you. </font>
@@ -1245,6 +1236,21 @@ menu_70322_1=<font face="Default" color="#ffffff" >I would ask for one more pill
 submit_70322=<font face="Default" color="#ffffff" >I'll do that. Thank you for the tip.</font>
 target_70322=Only Heroes with a Morality Value of 200 can use this item.
 title_70322=Convert label
+accept_43791_1=<font face="Default" color="#ffffff" >You may change your appearance to elude your enemies, woo a lover, or simply to satisfy your vanity. A most useful thing indeed!</font>
+accept_43792_1=<font face="Default" color="#ffffff" >You may change your appearance to elude your enemies, woo a lover, or simply to satisfy your vanity. A most useful thing indeed!</font>
+target_43863=Kill <font color="#ff0000">Boar King</font> and get <font color="#00cc00">Fresh Pork</font>
+target_43864=Kill the <font color="#ff0000">Small Nian</font>.
+context_43868=During the Spring Festival, fierce beasts suddenly appear near Chengdu. Please kill them.
+target_43868=Kill the Beast in Chengdu.
+CanAcceptMenu_43796=<font face="Default" color="#ffffff" > The Versatile Elder's test</font>
+CanAcceptMenu_43797=<font face="Default" color="#ffffff" > Bracing Chrysanthemum Wine</font>
+CanAcceptMenu_43798=<font face="Default" color="#ffffff" > Delectable Cornel Cakes</font>
+CompleteMenu_43796=<font face="Default" color="#ffffff" > The Versatile Elder's test (Complete)</font>
+CompleteMenu_43797=<font face="Default" color="#ffffff" > Bracing Chrysanthemum Wine (Complete)</font>
+CompleteMenu_43798=<font face="Default" color="#ffffff" > Delectable Cornel Cakes (Complete)</font>
+title_43796=The Versatile Elder's test
+title_43797=Chrysanthemum Wine
+title_43798=Cornel Cake
 context_43882=Qualifying disciples from the major schools can go to their headmasters to claim level 1-36 of their school's tier 5 internal skill. This is a limited-time offer!
 context_43883=Qualifying disciples from the major schools can go to their headmasters to claim level 1-36 of their school's tier 5 internal skill. This is a limited-time offer!
 context_43884=Qualifying disciples from the major schools can go to their headmasters to claim level 1-36 of their school's tier 5 internal skill. This is a limited-time offer!
@@ -1253,10 +1259,4 @@ context_43886=Qualifying disciples from the major schools can go to their headma
 context_43887=Qualifying disciples from the major schools can go to their headmasters to claim level 1-36 of their school's tier 5 internal skill. This is a limited-time offer!
 context_43888=Qualifying disciples from the major schools can go to their headmasters to claim level 1-36 of their school's tier 5 internal skill. This is a limited-time offer!
 context_43889=Qualifying disciples from the major schools can go to their headmasters to claim level 1-36 of their school's tier 5 internal skill. This is a limited-time offer!
-accept_43791_1=<font face="Default" color="#ffffff" >You may change your appearance to elude your enemies, woo a lover, or simply to satisfy your vanity. A most useful thing indeed!</font>
-accept_43792_1=<font face="Default" color="#ffffff" >You may change your appearance to elude your enemies, woo a lover, or simply to satisfy your vanity. A most useful thing indeed!</font>
-target_43863=Kill <font color="#ff0000">Boar King</font> and get <font color="#00cc00">Fresh Pork</font>
-target_43864=Kill the <font color="#ff0000">Small Nian</font>.
-context_43868=During the Spring Festival, fierce beasts suddenly appear near Chengdu. Please kill them.
-target_43868=Kill the Beast in Chengdu.
 
